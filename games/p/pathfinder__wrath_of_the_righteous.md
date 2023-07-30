@@ -6,25 +6,25 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 21.00% | ~2,244 |
+| Devoured by Darkness | 21.00% | ~2,245 |
 | Burning City | 15.00% | ~1,603 |
 | A Spark | 15.00% | ~1,603 |
-| Mythic Choices | 12.00% | ~1,282 |
-| Defender's Heart | 12.00% | ~1,282 |
-| Banner over the Citadel | 11.00% | ~1,175 |
-| Queen's Gratitude | 10.00% | ~1,068 |
+| Mythic Choices | 12.00% | ~1,283 |
+| Defender's Heart | 12.00% | ~1,283 |
+| Banner over the Citadel | 11.00% | ~1,176 |
+| Queen's Gratitude | 10.00% | ~1,069 |
 | Fifth Crusade | 7.00% | ~748 |
 | Embrace of the Abyss | 5.00% | ~534 |
 | Path of the Angel | 5.00% | ~534 |
 | Great Upstart | 5.00% | ~534 |
 | All Paths Open | 5.00% | ~534 |
 | Demonic and Divine | 5.00% | ~534 |
-| Path of the Azata | 4.00% | ~427 |
-| Transformation | 4.00% | ~427 |
-| The Legacy | 4.00% | ~427 |
-| Voice from Your Dreams | 4.00% | ~427 |
-| Next-Door Play | 4.00% | ~427 |
-| Get the Toad | 4.00% | ~427 |
+| Path of the Azata | 4.00% | ~428 |
+| Transformation | 4.00% | ~428 |
+| The Legacy | 4.00% | ~428 |
+| Voice from Your Dreams | 4.00% | ~428 |
+| Next-Door Play | 4.00% | ~428 |
+| Get the Toad | 4.00% | ~428 |
 | Heart of the Fallen Land | 3.00% | ~321 |
 | Divide and Rule | 3.00% | ~321 |
 | Mythic Reinforcements | 3.00% | ~321 |
@@ -49,9 +49,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | This Wall Won't Fall | 1.00% | ~95 |
 | Not the Last Sarkorian | 1.00% | ~95 |
 | Strategic Victory | 0.90% | ~96 |
-| Path of the Legend | 0.80% | ~85 |
-| End of Eternal Guard | 0.80% | ~85 |
-| Truly Profane Gift | 0.80% | ~85 |
+| Path of the Legend | 0.80% | ~86 |
+| End of Eternal Guard | 0.80% | ~86 |
+| Truly Profane Gift | 0.80% | ~86 |
 | Path of the Dragon | 0.70% | ~75 |
 | Playful Mood | 0.70% | ~75 |
 | Dreadful Dragon | 0.60% | ~64 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,684 (Ranked 120)  
+Progressed: 10,689 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,10 +224,10 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 10,626 | 0 |
 | 2023-07-28 | 10,645 | 0 |
 | 2023-07-29 | 10,674 | 0 |
-| 2023-07-30 | 10,684 | 0 |
+| 2023-07-30 | 10,689 | 0 |
 ## Awards
 Max (Character Customization): 1,694  (Ranked 117)  
-Sum: 6,858 (Ranked 113)  
+Sum: 6,859 (Ranked 113)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -235,7 +235,7 @@ Diff (max vs sum): 4
 | This game is Extremely Fun | 643 |
 | This game is Highly Recommended | 628 |
 | This game has Amazing Characters | 625 |
-| This game has Diverse Characters | 612 |
+| This game has Diverse Characters | 613 |
 | This game has Amazing Storytelling | 604 |
 | This game has Challenging Combat | 566 |
 | This game has Quickly Understood Controls | 562 |
@@ -424,3 +424,4 @@ Diff (max vs sum): 4
 | 2023-07-27 | 4.76 | - | 1,690 | 6,845 |
 | 2023-07-28 | 4.76 | - | 1,693 | 6,854 |
 | 2023-07-29 | 4.76 | - | 1,694 | 6,858 |
+| 2023-07-30 | 4.76 | - | 1,694 | 6,859 |

@@ -6,9 +6,9 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,510 |
-| Maddening | 2.00% | ~4,340 |
-| Beast Intentions | 2.00% | ~4,340 |
+| A Brief Tour of the Realms | 3.00% | ~6,511 |
+| Maddening | 2.00% | ~4,341 |
+| Beast Intentions | 2.00% | ~4,341 |
 | The Silken Swamp | 1.00% | ~2,170 |
 | Supply Run | 1.00% | ~2,170 |
 | Rocky Reception | 1.00% | ~1,833 |
@@ -24,12 +24,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Return to the Tomb | 0.60% | ~1,100 |
 | Heatwave | 0.60% | ~1,100 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,100 |
-| The Witchlight Carnival | 0.50% | ~916 |
+| The Witchlight Carnival | 0.50% | ~917 |
 | Hatchlings Underfoot | 0.50% | ~1,085 |
 | Don't Look Up! | 0.50% | ~1,085 |
 | Heavy Burden | 0.50% | ~1,085 |
-| The Evacuation of Waterdeep | 0.50% | ~916 |
-| The Dread Domain of Tovag | 0.50% | ~916 |
+| The Evacuation of Waterdeep | 0.50% | ~917 |
+| The Dread Domain of Tovag | 0.50% | ~917 |
 | Were-verpowered | 0.50% | ~1,085 |
 | A Persistent Buzzing | 0.50% | ~1,085 |
 | Beast Mode | 0.50% | ~1,085 |
@@ -38,12 +38,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.50% | ~1,085 |
 | Unearthed Evil | 0.50% | ~1,085 |
 | The Dinner Party | 0.50% | ~1,085 |
-| Not That Type of Helm! | 0.50% | ~916 |
-| Calcryx Tricks | 0.50% | ~916 |
-| Goblin Halls: the Next Generation | 0.50% | ~916 |
-| Bazaar Companions | 0.50% | ~916 |
-| Bahamut's Army | 0.50% | ~916 |
-| Krux's Speed Run | 0.50% | ~916 |
+| Not That Type of Helm! | 0.50% | ~917 |
+| Calcryx Tricks | 0.50% | ~917 |
+| Goblin Halls: the Next Generation | 0.50% | ~917 |
+| Bazaar Companions | 0.50% | ~917 |
+| Bahamut's Army | 0.50% | ~917 |
+| Krux's Speed Run | 0.50% | ~917 |
 | Thieves of the Coven | 0.40% | ~733 |
 | On the Hunt | 0.40% | ~868 |
 | Friends of the Forest | 0.40% | ~868 |
@@ -178,6 +178,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.20% | ~434 |
 | Resolve Amongst Chaos | 0.20% | ~434 |
 | Market Fluctuations | 0.20% | ~434 |
+| Once More Into The Breach | 0.20% | ~434 |
 | Into The Fire | 0.20% | ~367 |
 | Dreamscape | 0.20% | ~367 |
 | The Path of Dreams | 0.20% | ~367 |
@@ -381,7 +382,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | All You Know Is Wrong | 0.10% | ~217 |
 | Shadow Stalkers | 0.10% | ~183 |
 | Avernus Frozen Over | 0.10% | ~183 |
-| Once More Into The Breach | 0.10% | ~217 |
 | Twice More Into The Breach | 0.10% | ~217 |
 | Thrice More Into The Breach | 0.10% | ~183 |
 | Nightmare Mode | 0.10% | ~183 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,013 (Ranked 53)  
+Progressed: 217,030 (Ranked 53)  
 Completed: 2,137 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,7 +620,7 @@ Completed: 2,137 (0.98%) (Ranked 112)
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
-| 2023-07-30 | 217,013 | 2,137 |
+| 2023-07-30 | 217,030 | 2,137 |
 ## Awards
 Max (Diverse Characters): 5,100  (Ranked 67)  
 Sum: 30,802 (Ranked 38)  

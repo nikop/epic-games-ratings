@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1216,
+  "EOS_Progressed": 1217,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1890,6 +1890,11 @@
       "Time": "2023-07-30T09:04:18.1040783+00:00",
       "NumProgressed": 1216,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-30T12:03:58.4354927+00:00",
+      "NumProgressed": 1217,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2053,7 +2058,7 @@
       "Name": "Spice It Up",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "KillAllM2",
@@ -2109,7 +2114,7 @@
       "Name": "Strategist",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "War_never_changes",
@@ -2140,15 +2145,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1216,
+      "Progressed": 1217,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-30T11:03:47.8225705+00:00",
+  "LastChanged_Achievements": "2023-07-30T12:03:58.4354922+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:01.8247035+00:00",
-  "LastUpdate_Ratings": "2023-07-30T10:59:20.191788+00:00",
-  "LastUpdate_Achievements": "2023-07-30T11:03:47.8226022+00:00"
+  "LastUpdate_Ratings": "2023-07-30T11:59:54.2041992+00:00",
+  "LastUpdate_Achievements": "2023-07-30T12:03:58.4355171+00:00"
 }

@@ -19,7 +19,7 @@ Number of Ratings: 209  (23.09.2022)
 | Stone Pickaxe | 93.00% | ~2,023 |
 | Revenge | 93.00% | ~2,023 |
 | Surprise | 93.00% | ~2,023 |
-| Magnet | 90.00% | ~1,958 |
+| Magnet | 91.00% | ~1,979 |
 | Industrial Area | 89.00% | ~1,936 |
 | Magnet Repel | 88.00% | ~1,914 |
 | Boomeraxe | 87.00% | ~1,892 |
@@ -61,7 +61,7 @@ Number of Ratings: 209  (23.09.2022)
 | All the chests | 13.00% | ~283 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,175 (Ranked 164)  
-Completed: 260 (11.95%) (Ranked 16)  
+Completed: 260 (11.95%) (Ranked 17)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -23,13 +23,13 @@
 | You Have Been Everywhere | 28.00% | ~5 |
 | In the Air | 22.00% | ~4 |
 | Clear the Road | 22.00% | ~4 |
+| Don’t Miss Any | 22.00% | ~4 |
 | Adventure Bay’s Citizen | 22.00% | ~4 |
 | Everything Under Control | 17.00% | ~3 |
-| Don’t Miss Any | 17.00% | ~3 |
 | Mountain and Ice | 17.00% | ~3 |
-| King of the Mountain | 6.00% | ~1 |
+| King of the Mountain | 11.00% | ~2 |
+| Nothing Can Stop You | 11.00% | ~2 |
 | A Great Explorer | 6.00% | ~1 |
-| Nothing Can Stop You | 6.00% | ~1 |
 | Air Ace | 0.00% | ~0 |
 | You Know Them All | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |

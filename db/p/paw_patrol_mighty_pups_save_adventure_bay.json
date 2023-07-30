@@ -4,8 +4,8 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -143,9 +143,9 @@
       "ID": "10",
       "SetID": "38ide56",
       "Name": "King of the Mountain",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "11",
@@ -159,9 +159,9 @@
       "ID": "12",
       "SetID": "38ide56",
       "Name": "Nothing Can Stop You",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "13",
@@ -343,9 +343,9 @@
       "ID": "7",
       "SetID": "38ide56",
       "Name": "Don\u2019t Miss Any",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "8",
@@ -376,8 +376,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-07-30T11:04:45.49206+00:00",
+  "LastChanged_Achievements": "2023-07-30T12:04:55.6469935+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:02.4264526+00:00",
-  "LastUpdate_Ratings": "2023-07-30T10:59:29.5498594+00:00",
-  "LastUpdate_Achievements": "2023-07-30T11:04:45.4920836+00:00"
+  "LastUpdate_Ratings": "2023-07-30T12:00:05.6846578+00:00",
+  "LastUpdate_Achievements": "2023-07-30T12:04:55.6470123+00:00"
 }

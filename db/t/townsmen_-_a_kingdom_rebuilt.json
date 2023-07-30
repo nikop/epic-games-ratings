@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4222,
+  "EOS_Progressed": 4223,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -950,6 +950,11 @@
       "Time": "2023-07-30T07:06:43.5283206+00:00",
       "NumProgressed": 4222,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-30T12:05:38.0766411+00:00",
+      "NumProgressed": 4223,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1313,7 +1318,7 @@
       "Name": "Eureka!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED2",
@@ -1423,9 +1428,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_ECONOMYCRISIS",
       "SetID": "9eacipp",
       "Name": "I\u0027ve been everywhere III",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_ELECTION",
@@ -1439,9 +1444,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_FARMLAND",
       "SetID": "9eacipp",
       "Name": "Little place in the country",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_FESTIVITIES",
@@ -1609,7 +1614,7 @@
       "Name": "Tax-man I",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACHIEVEMENT_TAXES2",
@@ -1713,7 +1718,7 @@
       "Name": "A new beginning",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
@@ -1768,15 +1773,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4222,
+      "Progressed": 4223,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-07-30T11:05:21.9047+00:00",
+  "LastChanged_Achievements": "2023-07-30T12:05:38.0766407+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:52.1616278+00:00",
-  "LastUpdate_Ratings": "2023-07-30T10:58:15.0751458+00:00",
-  "LastUpdate_Achievements": "2023-07-30T11:05:21.904836+00:00"
+  "LastUpdate_Ratings": "2023-07-30T11:58:37.9763741+00:00",
+  "LastUpdate_Achievements": "2023-07-30T12:05:38.0767383+00:00"
 }

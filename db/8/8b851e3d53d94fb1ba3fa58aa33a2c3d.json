@@ -4,8 +4,8 @@
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2021-06-04T19:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 17,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 5.88,
   "EosHistory": [
@@ -456,8 +456,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-07-30T11:04:11.6979309+00:00",
+  "LastChanged_Achievements": "2023-07-30T12:04:14.9593358+00:00",
   "LastUpdate_AppInfo": "2023-07-28T21:57:00.7979866+00:00",
-  "LastUpdate_Ratings": "2023-07-30T10:57:04.3744489+00:00",
-  "LastUpdate_Achievements": "2023-07-30T11:04:11.6979639+00:00"
+  "LastUpdate_Ratings": "2023-07-30T11:57:14.7869371+00:00",
+  "LastUpdate_Achievements": "2023-07-30T12:04:14.9593613+00:00"
 }

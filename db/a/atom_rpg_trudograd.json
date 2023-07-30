@@ -5,10 +5,10 @@
   "Ranking_Rating": 523,
   "Ranking_Popularity": 485,
   "Ranking_PopularitySum": 488,
-  "Ranking_EOS_Progress": 187,
+  "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -207,9 +207,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 1159,
+  "EOS_Progressed": 1160,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1012,6 +1012,11 @@
       "Time": "2023-07-30T10:04:37.9767891+00:00",
       "NumProgressed": 1159,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T12:04:07.7191601+00:00",
+      "NumProgressed": 1160,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -1271,14 +1276,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1159,
+      "Progressed": 1160,
       "Completed": 0
     }
   ],
@@ -1286,8 +1291,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-07-13T11:57:42.3125835+00:00",
-  "LastChanged_Achievements": "2023-07-30T11:04:05.5289025+00:00",
+  "LastChanged_Achievements": "2023-07-30T12:04:07.7191597+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:02.0743708+00:00",
-  "LastUpdate_Ratings": "2023-07-30T10:57:40.0922075+00:00",
-  "LastUpdate_Achievements": "2023-07-30T11:04:05.528931+00:00"
+  "LastUpdate_Ratings": "2023-07-30T11:57:55.2850586+00:00",
+  "LastUpdate_Achievements": "2023-07-30T12:04:07.7191827+00:00"
 }

@@ -5,15 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | ECG | 94.00% | ~80 |
-| Rehearsal | 92.00% | ~78 |
-| Daily Life | 88.00% | ~75 |
-| Assembly Line Work | 85.00% | ~72 |
-| Solitude | 79.00% | ~67 |
-| Pinewood, Here we come! | 72.00% | ~61 |
-| The Van | 66.00% | ~56 |
-| Road-Trip | 60.00% | ~51 |
-| A Musical Pause | 59.00% | ~50 |
-| Briget's | 49.00% | ~42 |
+| Rehearsal | 93.00% | ~79 |
+| Daily Life | 89.00% | ~76 |
+| Assembly Line Work | 86.00% | ~73 |
+| Solitude | 80.00% | ~68 |
+| Pinewood, Here we come! | 73.00% | ~62 |
+| The Van | 67.00% | ~57 |
+| Road-Trip | 61.00% | ~52 |
+| A Musical Pause | 60.00% | ~51 |
+| Briget's | 51.00% | ~43 |
 | Sound of Noise | 47.00% | ~40 |
 | Big City Music | 44.00% | ~37 |
 | Love at First Sight | 41.00% | ~35 |
@@ -59,7 +59,7 @@
 | Pinewood | 1.00% | ~1 |
 | Love is All | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 326)  
+Progressed: 85 (Ranked 327)  
 Completed: 1 (1.18%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |

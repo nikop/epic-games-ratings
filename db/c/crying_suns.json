@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 464121,
+  "EOS_Progressed": 464129,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 503,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10957,6 +10957,11 @@
       "Time": "2023-07-30T11:04:09.0425168+00:00",
       "NumProgressed": 464121,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-30T12:04:11.8705853+00:00",
+      "NumProgressed": 464129,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -10984,7 +10989,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1857
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -11400,7 +11405,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1857
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -11599,21 +11604,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 8055,
+      "Progressed": 8063,
       "Completed": 2354
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 464121,
+      "Progressed": 464129,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-30T11:04:09.0425161+00:00",
+  "LastChanged_Achievements": "2023-07-30T12:04:11.8705847+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:07.5889306+00:00",
-  "LastUpdate_Ratings": "2023-07-30T10:59:27.3130467+00:00",
-  "LastUpdate_Achievements": "2023-07-30T11:04:09.0426832+00:00"
+  "LastUpdate_Ratings": "2023-07-30T12:00:02.8480374+00:00",
+  "LastUpdate_Achievements": "2023-07-30T12:04:11.8706949+00:00"
 }

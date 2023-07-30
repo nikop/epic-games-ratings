@@ -38,7 +38,7 @@ Rating: 4.20 (Ranked 847)
 | Parole Denied | 0.40% | ~15 |
 | Big Spender | 0.40% | ~15 |
 | Quick Pick | 0.40% | ~15 |
-| Mugshot | 0.20% | ~32 |
+| Mugshot | 0.30% | ~47 |
 | Instigator | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Glutton for Punishment | 0.10% | ~4 |

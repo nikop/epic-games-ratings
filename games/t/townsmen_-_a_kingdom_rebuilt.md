@@ -6,9 +6,9 @@ Number of Ratings: 37  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eureka! | 11.00% | ~464 |
-| Tax-man I | 11.00% | ~464 |
-| A new beginning | 11.00% | ~464 |
+| Eureka! | 11.00% | ~465 |
+| Tax-man I | 11.00% | ~465 |
+| A new beginning | 11.00% | ~465 |
 | Friends from the past | 9.00% | ~380 |
 | I like to build stuff... I | 8.00% | ~338 |
 | Builder I | 7.00% | ~296 |
@@ -80,8 +80,6 @@ Number of Ratings: 37  (23.09.2022)
 | Buried | 0.60% | ~25 |
 | Craftsmen challenge | 0.60% | ~25 |
 | Penny pincher | 0.60% | ~25 |
-| I've been everywhere III | 0.50% | ~21 |
-| Little place in the country | 0.50% | ~21 |
 | Made my choice | 0.50% | ~21 |
 | An honorable departure | 0.50% | ~21 |
 | I've been everywhere VII | 0.50% | ~21 |
@@ -89,7 +87,9 @@ Number of Ratings: 37  (23.09.2022)
 | Negotiator | 0.40% | ~17 |
 | Panacea | 0.40% | ~17 |
 | I've been everywhere IV | 0.40% | ~17 |
+| I've been everywhere III | 0.40% | ~17 |
 | Governor-elect | 0.40% | ~17 |
+| Little place in the country | 0.40% | ~17 |
 | I've been everywhere VIII | 0.40% | ~17 |
 | I've been everywhere IX | 0.40% | ~17 |
 | I've been everywhere X | 0.40% | ~17 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,222 (Ranked 145)  
+Progressed: 4,223 (Ranked 145)  
 Completed: 3 (0.07%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 3 (0.07%) (Ranked 204)
 | 2023-07-26 | 4,211 | 3 |
 | 2023-07-27 | 4,216 | 3 |
 | 2023-07-29 | 4,220 | 3 |
-| 2023-07-30 | 4,222 | 3 |
+| 2023-07-30 | 4,223 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

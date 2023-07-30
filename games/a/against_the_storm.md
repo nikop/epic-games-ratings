@@ -53,12 +53,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Queen's Chosen | 0.40% | ~64 |
 | Harpy Utopia | 0.30% | ~48 |
 | Ruins | 0.30% | ~48 |
+| Higher Needs | 0.20% | ~32 |
 | Treasure | 0.20% | ~32 |
 | Paradise | 0.10% | ~16 |
-| Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16,084 (Ranked 110)  
-Completed: 40 (0.25%) (Ranked 164)  
+Completed: 41 (0.25%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -158,7 +158,7 @@ Completed: 40 (0.25%) (Ranked 164)
 | 2023-07-27 | 16,037 | 40 |
 | 2023-07-28 | 16,056 | 40 |
 | 2023-07-29 | 16,072 | 40 |
-| 2023-07-30 | 16,084 | 40 |
+| 2023-07-30 | 16,084 | 41 |
 ## Awards
 Max (Quickly Understood Controls): 420  (Ranked 205)  
 Sum: 3,082 (Ranked 158)  

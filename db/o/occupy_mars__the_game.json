@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -202,9 +202,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1449,
+  "EOS_Progressed": 1451,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2922,6 +2922,11 @@
       "Time": "2023-07-30T03:05:19.3694023+00:00",
       "NumProgressed": 1449,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T12:04:51.5559935+00:00",
+      "NumProgressed": 1451,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2957,7 +2962,7 @@
       "Name": "Explosive Miner",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_HARD_LANDING",
@@ -3005,7 +3010,7 @@
       "Name": "The Collector",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -3013,7 +3018,7 @@
       "Name": "Zero Waste",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -3037,7 +3042,7 @@
       "Name": "All Wheel Trouble",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -3093,7 +3098,7 @@
       "Name": "DeDust",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "NEW_ACHIEVEMENT_DUMB_WAYS",
@@ -3109,7 +3114,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -3133,7 +3138,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -3157,7 +3162,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -3165,7 +3170,7 @@
       "Name": "ITS crash site",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "NEW_ACHIEVEMENT_KOROLEV",
@@ -3181,7 +3186,7 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -3189,7 +3194,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -3229,7 +3234,7 @@
       "Name": "Plumber",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROADSTER",
@@ -3245,7 +3250,7 @@
       "Name": "Rocket Jump",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROCKET_SCIENCE",
@@ -3269,7 +3274,7 @@
       "Name": "Space Forest",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPOTTY_FRIEND",
@@ -3293,7 +3298,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -3316,7 +3321,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1449,
+      "Progressed": 1451,
       "Completed": 0
     }
   ],
@@ -3324,8 +3329,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-07-27T07:58:22.7872348+00:00",
-  "LastChanged_Achievements": "2023-07-30T11:04:41.8796652+00:00",
+  "LastChanged_Achievements": "2023-07-30T12:04:51.5559931+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:07.5190813+00:00",
-  "LastUpdate_Ratings": "2023-07-30T10:57:44.3041256+00:00",
-  "LastUpdate_Achievements": "2023-07-30T11:04:41.8797233+00:00"
+  "LastUpdate_Ratings": "2023-07-30T11:58:00.6932144+00:00",
+  "LastUpdate_Achievements": "2023-07-30T12:04:51.5560359+00:00"
 }

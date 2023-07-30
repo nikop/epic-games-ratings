@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -310,9 +310,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 39384,
+  "EOS_Progressed": 39389,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6370,6 +6370,11 @@
       "Time": "2023-07-30T11:04:35.3508555+00:00",
       "NumProgressed": 39384,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-30T12:04:44.0285417+00:00",
+      "NumProgressed": 39389,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -6413,7 +6418,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -6429,7 +6434,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3938
+      "UsersEstimate": 3939
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -6437,7 +6442,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -6637,7 +6642,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "MAGIC_IVY",
@@ -6804,22 +6809,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39384,
+      "Progressed": 39389,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4221,
-      "Completed": 4221
+      "Progressed": 4226,
+      "Completed": 4226
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-07-29T22:58:56.2534351+00:00",
-  "LastChanged_Achievements": "2023-07-30T11:04:35.3508546+00:00",
+  "LastChanged_Achievements": "2023-07-30T12:04:44.0285412+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.6362522+00:00",
-  "LastUpdate_Ratings": "2023-07-30T10:58:44.545188+00:00",
-  "LastUpdate_Achievements": "2023-07-30T11:04:35.3509394+00:00"
+  "LastUpdate_Ratings": "2023-07-30T11:59:09.3804788+00:00",
+  "LastUpdate_Achievements": "2023-07-30T12:04:44.0286061+00:00"
 }

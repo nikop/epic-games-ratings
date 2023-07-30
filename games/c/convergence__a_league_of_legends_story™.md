@@ -8,6 +8,7 @@ Rating: 4.60 (Ranked 390)
 | Time Heals All Wounds | 23.00% | ~185 |
 | Rail Rat | 20.00% | ~161 |
 | The Mysterious Stranger | 19.00% | ~153 |
+| The Prince in Heels | 17.00% | ~137 |
 | Immaculate Aim | 17.00% | ~137 |
 | The Steel Shadow | 16.00% | ~129 |
 | Make Up For Lost Time | 16.00% | ~129 |
@@ -15,7 +16,6 @@ Rating: 4.60 (Ranked 390)
 | No, Thanks! | 16.00% | ~129 |
 | Breaking Down Barriers | 16.00% | ~129 |
 | The Wicked Twins | 16.00% | ~129 |
-| The Prince in Heels | 16.00% | ~129 |
 | Immaculate Aim | 16.00% | ~129 |
 | The Brass Boss | 16.00% | ~129 |
 | The Betrayer | 15.00% | ~121 |
@@ -36,10 +36,10 @@ Rating: 4.60 (Ranked 390)
 | Chaincrawler Explorer | 10.00% | ~80 |
 | Good Neighbor | 10.00% | ~80 |
 | Family Memories | 9.00% | ~72 |
+| Sump Explorer | 9.00% | ~72 |
 | Theater Explorer | 9.00% | ~72 |
 | Factorywood Explorer | 8.00% | ~64 |
 | Fairgrounds Explorer | 8.00% | ~64 |
-| Sump Explorer | 8.00% | ~64 |
 | Syron for Hope | 8.00% | ~64 |
 | Ask Questions Later | 8.00% | ~64 |
 | Cultivair Explorer | 7.00% | ~56 |

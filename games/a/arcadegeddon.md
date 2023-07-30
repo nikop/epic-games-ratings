@@ -11,7 +11,7 @@ Number of Ratings: 801  (23.09.2022)
 | Surge Gauntlet Jockey | 85.00% | ~7,027 |
 | Plug It In | 84.00% | ~6,944 |
 | Adventure Time | 80.00% | ~6,614 |
-| Playing With Power | 77.00% | ~6,366 |
+| Playing With Power | 78.00% | ~6,448 |
 | Coup d'Etat | 59.00% | ~4,878 |
 | You're Fired | 58.00% | ~4,795 |
 | Get Furious | 56.00% | ~4,630 |
@@ -160,9 +160,9 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-29 | 8,257 | 0 |
 | 2023-07-30 | 8,267 | 0 |
 ## Awards
-Max (Great for Beginners): 63  (Ranked 385)  
+Max (Great for Beginners): 63  (Ranked 386)  
 Sum: 454 (Ranked 304)  
-Diff (max vs sum): 81  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 63 |

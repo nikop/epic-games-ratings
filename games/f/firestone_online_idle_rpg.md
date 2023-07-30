@@ -54,11 +54,11 @@ Rating: 4.10 (Ranked 896)
 | Missions Dedication | 6.00% | ~104 |
 | Weekly Quest Completionist | 6.00% | ~104 |
 | Ancient Knowledge | 5.00% | ~87 |
+| Sailor | 5.00% | ~87 |
 | Active Member | 4.00% | ~70 |
 | Arena Challenger | 4.00% | ~70 |
 | Background Story | 4.00% | ~70 |
 | Legendary | 4.00% | ~70 |
-| Sailor | 4.00% | ~70 |
 | The Alchemist | 4.00% | ~70 |
 | Ebony Jungle Liberator | 3.00% | ~52 |
 | What lies behind the bush | 3.00% | ~52 |

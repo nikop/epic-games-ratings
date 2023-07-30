@@ -5386,9 +5386,9 @@
       "Count": 3330
     }
   ],
-  "EOS_Progressed": 217013,
+  "EOS_Progressed": 217030,
   "EOS_Completed": 2137,
-  "EOS_NewPlayers": 2225,
+  "EOS_NewPlayers": 2220,
   "EOS_NewCompleters": 77,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16231,6 +16231,11 @@
       "Time": "2023-07-30T11:03:40.8465458+00:00",
       "NumProgressed": 217013,
       "NumCompleted": 2137
+    },
+    {
+      "Time": "2023-07-30T12:03:50.7494977+00:00",
+      "NumProgressed": 217030,
+      "NumCompleted": 2137
     }
   ],
   "TotalAchievements": 512,
@@ -16242,7 +16247,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6510
+      "UsersEstimate": 6511
     },
     {
       "ID": "objective_completed_10",
@@ -16250,7 +16255,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4340
+      "UsersEstimate": 4341
     },
     {
       "ID": "objective_completed_100",
@@ -16346,7 +16351,7 @@
       "Name": "The Witchlight Carnival",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "objective_completed_1056",
@@ -16610,7 +16615,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4340
+      "UsersEstimate": 4341
     },
     {
       "ID": "objective_completed_110",
@@ -16890,7 +16895,7 @@
       "Name": "The Evacuation of Waterdeep",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "objective_completed_1159",
@@ -17026,7 +17031,7 @@
       "Name": "The Dread Domain of Tovag",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "objective_completed_1184",
@@ -18872,9 +18877,9 @@
       "ID": "objective_completed_610",
       "SetID": "cc37lbc",
       "Name": "Once More Into The Breach",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 434
     },
     {
       "ID": "objective_completed_611",
@@ -20210,7 +20215,7 @@
       "Name": "Not That Type of Helm!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "objective_completed_1327",
@@ -20234,7 +20239,7 @@
       "Name": "Calcryx Tricks",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "objective_completed_593",
@@ -20242,7 +20247,7 @@
       "Name": "Goblin Halls: the Next Generation",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "objective_completed_663",
@@ -20250,7 +20255,7 @@
       "Name": "Bazaar Companions",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "objective_completed_668",
@@ -20258,7 +20263,7 @@
       "Name": "Bahamut\u0027s Army",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "objective_completed_1375",
@@ -20322,7 +20327,7 @@
       "Name": "Krux\u0027s Speed Run",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "objective_completed_1392",
@@ -20337,21 +20342,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183287,
+      "Progressed": 183304,
       "Completed": 3028
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217013,
+      "Progressed": 217030,
       "Completed": 2137
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-30T09:58:58.3221475+00:00",
-  "LastChanged_Achievements": "2023-07-30T11:03:40.8465453+00:00",
+  "LastChanged_Achievements": "2023-07-30T12:03:50.7494972+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-30T10:58:23.0605338+00:00",
-  "LastUpdate_Achievements": "2023-07-30T11:03:40.8492161+00:00"
+  "LastUpdate_Ratings": "2023-07-30T11:58:48.2321438+00:00",
+  "LastUpdate_Achievements": "2023-07-30T12:03:50.7517856+00:00"
 }

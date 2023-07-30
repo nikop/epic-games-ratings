@@ -5,60 +5,60 @@ Rating: 4.68 (Ranked 240)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 22.00% | ~117,716 |
-| 50 HEADSHOTS | 20.00% | ~107,014 |
-| SCIENCE AND INDUSTRY | 19.00% | ~101,664 |
-| FINISHED CHAPTER 1 | 18.00% | ~96,313 |
-| FINISHED CHAPTER 2 | 13.00% | ~69,559 |
-| 200 HEADSHOTS | 11.00% | ~58,858 |
-| FINISHED CHAPTER 3 | 10.00% | ~53,507 |
-| FINISHED CHAPTER 4 | 9.00% | ~48,156 |
-| FINISH CHAPTER 5 | 7.00% | ~37,455 |
-| FINISH CHAPTER 6 | 6.00% | ~32,104 |
-| CATHARTIC ESCAPISM | 6.00% | ~32,104 |
-| 1000 KILLS | 5.00% | ~26,754 |
-| FIREFIGHT LEVEL 10 | 2.00% | ~10,701 |
-| FIREFIGHT LEVEL 20 | 1.00% | ~5,351 |
-| FIRST BLOOD | 1.00% | ~5,351 |
-| PACEMAKER | 0.70% | ~3,746 |
-| TIME PARADOX | 0.60% | ~3,210 |
-| FIREFIGHT LEVEL 30 | 0.50% | ~2,675 |
-| OUT OF ORDER | 0.50% | ~2,675 |
-| PARTYHARD | 0.40% | ~2,140 |
-| FIREFIGHT LEVEL 40 | 0.30% | ~1,605 |
-| NEW GAME PLUS | 0.30% | ~1,605 |
-| CHURCH | 0.20% | ~1,070 |
-| FIREFIGHT LEVEL 50 | 0.20% | ~1,070 |
-| HEY THATS CHEATING | 0.10% | ~535 |
-| COMPLIMENTS TO THE CHEF | 0.10% | ~535 |
-| BUT WHY? | 0.10% | ~535 |
-| CHALET | 0.10% | ~535 |
-| COMMAND - [EXIST] | 0.10% | ~535 |
-| FIREFIGHT LEVEL 60 | 0.10% | ~535 |
-| FIREFIGHT LEVEL 70 | 0.10% | ~535 |
-| FIREFIGHT LEVEL 80 | 0.10% | ~535 |
-| FIRE IN THE HOLE | 0.10% | ~535 |
-| FRESH | 0.10% | ~535 |
-| HUGE SUCCESS | 0.10% | ~535 |
-| ICARUS | 0.10% | ~535 |
-| INPUT - [QUERY] | 0.10% | ~535 |
-| KITTED OUT | 0.10% | ~535 |
-| HOLOGRAM SUMMER | 0.10% | ~535 |
-| OFF THE HINGES | 0.10% | ~535 |
-| ON THE EDGE | 0.10% | ~535 |
-| OVERCLOCKED | 0.10% | ~535 |
-| PAIN TRAIN | 0.10% | ~535 |
-| REMEMBER THE ARMORY | 0.10% | ~535 |
-| 10 RUNS | 0.10% | ~535 |
-| 20 RUNS | 0.10% | ~535 |
-| 5 RUNS | 0.10% | ~535 |
-| SAVOR THE MOMENT | 0.10% | ~535 |
-| SOUL - HORIZONS | 0.10% | ~535 |
-| THE COLLECTOR | 0.10% | ~535 |
-| THE GAMBLER | 0.10% | ~535 |
-| WARRIOR IN A GARDEN | 0.10% | ~535 |
+| 100 KILLS | 22.00% | ~117,934 |
+| 50 HEADSHOTS | 20.00% | ~107,213 |
+| SCIENCE AND INDUSTRY | 19.00% | ~101,852 |
+| FINISHED CHAPTER 1 | 18.00% | ~96,492 |
+| FINISHED CHAPTER 2 | 13.00% | ~69,688 |
+| 200 HEADSHOTS | 11.00% | ~58,967 |
+| FINISHED CHAPTER 3 | 10.00% | ~53,606 |
+| FINISHED CHAPTER 4 | 9.00% | ~48,246 |
+| FINISH CHAPTER 5 | 7.00% | ~37,525 |
+| FINISH CHAPTER 6 | 6.00% | ~32,164 |
+| CATHARTIC ESCAPISM | 6.00% | ~32,164 |
+| 1000 KILLS | 5.00% | ~26,803 |
+| FIREFIGHT LEVEL 10 | 2.00% | ~10,721 |
+| FIREFIGHT LEVEL 20 | 1.00% | ~5,361 |
+| FIRST BLOOD | 1.00% | ~5,361 |
+| PACEMAKER | 0.70% | ~3,752 |
+| OUT OF ORDER | 0.60% | ~3,216 |
+| TIME PARADOX | 0.60% | ~3,216 |
+| FIREFIGHT LEVEL 30 | 0.50% | ~2,680 |
+| PARTYHARD | 0.40% | ~2,144 |
+| FIREFIGHT LEVEL 40 | 0.30% | ~1,608 |
+| NEW GAME PLUS | 0.30% | ~1,608 |
+| CHURCH | 0.20% | ~1,072 |
+| FIREFIGHT LEVEL 50 | 0.20% | ~1,072 |
+| HEY THATS CHEATING | 0.10% | ~536 |
+| COMPLIMENTS TO THE CHEF | 0.10% | ~536 |
+| BUT WHY? | 0.10% | ~536 |
+| CHALET | 0.10% | ~536 |
+| COMMAND - [EXIST] | 0.10% | ~536 |
+| FIREFIGHT LEVEL 60 | 0.10% | ~536 |
+| FIREFIGHT LEVEL 70 | 0.10% | ~536 |
+| FIREFIGHT LEVEL 80 | 0.10% | ~536 |
+| FIRE IN THE HOLE | 0.10% | ~536 |
+| FRESH | 0.10% | ~536 |
+| HUGE SUCCESS | 0.10% | ~536 |
+| ICARUS | 0.10% | ~536 |
+| INPUT - [QUERY] | 0.10% | ~536 |
+| KITTED OUT | 0.10% | ~536 |
+| HOLOGRAM SUMMER | 0.10% | ~536 |
+| OFF THE HINGES | 0.10% | ~536 |
+| ON THE EDGE | 0.10% | ~536 |
+| OVERCLOCKED | 0.10% | ~536 |
+| PAIN TRAIN | 0.10% | ~536 |
+| REMEMBER THE ARMORY | 0.10% | ~536 |
+| 10 RUNS | 0.10% | ~536 |
+| 20 RUNS | 0.10% | ~536 |
+| 5 RUNS | 0.10% | ~536 |
+| SAVOR THE MOMENT | 0.10% | ~536 |
+| SOUL - HORIZONS | 0.10% | ~536 |
+| THE COLLECTOR | 0.10% | ~536 |
+| THE GAMBLER | 0.10% | ~536 |
+| WARRIOR IN A GARDEN | 0.10% | ~536 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 535,072 (Ranked 28)  
+Progressed: 536,065 (Ranked 28)  
 Completed: 40 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 40 (0.01%) (Ranked 234)
 | 2023-07-27 | 450,875 | 40 |
 | 2023-07-28 | 493,470 | 40 |
 | 2023-07-29 | 524,786 | 40 |
-| 2023-07-30 | 535,072 | 40 |
+| 2023-07-30 | 536,065 | 40 |
 ## Awards
 Max (Great Boss Battles): 195  (Ranked 273)  
 Sum: 195 (Ranked 368)  

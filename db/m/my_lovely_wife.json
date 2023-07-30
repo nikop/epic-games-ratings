@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
     "PcReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -338,9 +338,9 @@
       "ID": "ACH_ASSIGN_LEARN_1",
       "SetID": "ajki3eh",
       "Name": "Learner",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 543
+      "UsersEstimate": 549
     },
     {
       "ID": "ACH_ASSIGN_LEARN_2",
@@ -610,8 +610,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-07-30T11:05:06.6552813+00:00",
+  "LastChanged_Achievements": "2023-07-30T12:05:20.3645007+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:03.2644945+00:00",
-  "LastUpdate_Ratings": "2023-07-30T10:58:24.06572+00:00",
-  "LastUpdate_Achievements": "2023-07-30T11:05:06.6553078+00:00"
+  "LastUpdate_Ratings": "2023-07-30T11:58:49.4690361+00:00",
+  "LastUpdate_Achievements": "2023-07-30T12:05:20.3645216+00:00"
 }

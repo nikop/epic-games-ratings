@@ -4,11 +4,11 @@
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 497,
   "Ranking_Popularity": 385,
-  "Ranking_PopularitySum": 443,
+  "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -542,23 +542,29 @@
       "Rating": 4.54,
       "NumberOfAwards": 63,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2023-07-30T11:58:54.8503634+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 64,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 63,
-  "NumberOfAwardsMax": 63,
+  "NumberOfAwards": 64,
+  "NumberOfAwardsMax": 64,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 63
+      "Count": 64
     }
   ],
-  "EOS_Progressed": 9360,
+  "EOS_Progressed": 9362,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7391,6 +7397,11 @@
       "Time": "2023-07-30T11:04:27.7920636+00:00",
       "NumProgressed": 9360,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-30T12:04:34.9994748+00:00",
+      "NumProgressed": 9362,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -7530,7 +7541,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "ACH18",
@@ -7562,7 +7573,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4212
+      "UsersEstimate": 4213
     },
     {
       "ID": "ACH22",
@@ -7586,7 +7597,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "ACH25",
@@ -7594,7 +7605,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "ACH26",
@@ -7673,16 +7684,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9360,
+      "Progressed": 9362,
       "Completed": 43
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-07-29T02:58:47.8264413+00:00",
-  "LastChanged_Achievements": "2023-07-30T11:04:27.7920619+00:00",
+  "LastChanged": "2023-07-30T11:58:54.8503633+00:00",
+  "LastChanged_Achievements": "2023-07-30T12:04:34.9994744+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-07-30T10:58:30.3213825+00:00",
-  "LastUpdate_Achievements": "2023-07-30T11:04:27.7921293+00:00"
+  "LastUpdate_Ratings": "2023-07-30T11:58:54.8503637+00:00",
+  "LastUpdate_Achievements": "2023-07-30T12:04:34.9995254+00:00"
 }

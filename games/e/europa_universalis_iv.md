@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,830 |
-| That's a Grand Army | 8.00% | ~6,072 |
-| That is mine! | 8.00% | ~6,072 |
-| Victorious! | 8.00% | ~6,072 |
-| Brothers in Arms | 6.00% | ~4,554 |
-| That's a Grand Navy | 6.00% | ~4,554 |
-| Seriously?! | 6.00% | ~4,554 |
-| For the Glory | 5.00% | ~3,795 |
-| Cold War | 4.00% | ~3,036 |
-| True Catholic | 4.00% | ~3,036 |
+| Until death do us apart | 9.00% | ~6,832 |
+| That's a Grand Army | 8.00% | ~6,073 |
+| That is mine! | 8.00% | ~6,073 |
+| Victorious! | 8.00% | ~6,073 |
+| Brothers in Arms | 6.00% | ~4,555 |
+| That's a Grand Navy | 6.00% | ~4,555 |
+| Seriously?! | 6.00% | ~4,555 |
+| For the Glory | 5.00% | ~3,796 |
+| Cold War | 4.00% | ~3,037 |
+| True Catholic | 4.00% | ~3,037 |
 | Defender of the Faith | 3.00% | ~2,277 |
 | It's all about luck | 3.00% | ~2,277 |
 | It's all about the money | 3.00% | ~2,277 |
@@ -52,14 +52,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.60% | ~455 |
 | This is My Faith | 0.60% | ~455 |
 | Time Bandit | 0.60% | ~455 |
-| Absolutely | 0.50% | ~379 |
-| Early-Modern Warfare | 0.50% | ~379 |
-| Grand Coalition | 0.50% | ~379 |
-| In the Name of the Father | 0.50% | ~379 |
-| Live Long and Prosper | 0.50% | ~379 |
-| Ruina Imperii | 0.50% | ~379 |
-| Trophy Hunter | 0.50% | ~379 |
-| Voting Streak | 0.50% | ~379 |
+| Absolutely | 0.50% | ~380 |
+| Early-Modern Warfare | 0.50% | ~380 |
+| Grand Coalition | 0.50% | ~380 |
+| In the Name of the Father | 0.50% | ~380 |
+| Live Long and Prosper | 0.50% | ~380 |
+| Ruina Imperii | 0.50% | ~380 |
+| Trophy Hunter | 0.50% | ~380 |
+| Voting Streak | 0.50% | ~380 |
 | All Your Trade Are Belong to Us | 0.40% | ~304 |
 | Bleed Them Dry | 0.40% | ~304 |
 | Dude, Where's my Boat? | 0.40% | ~304 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,894 (Ranked 76)  
+Progressed: 75,915 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -462,7 +462,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 74,884 | 0 |
 | 2023-07-28 | 75,282 | 0 |
 | 2023-07-29 | 75,748 | 0 |
-| 2023-07-30 | 75,894 | 0 |
+| 2023-07-30 | 75,915 | 0 |
 ## Awards
 Max (Educational): 5,597  (Ranked 61)  
 Sum: 46,156 (Ranked 26)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 12,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 426,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 18.35,
+  "EOS_Completed_Percentage": 18.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2043,6 +2043,11 @@
       "Time": "2023-07-30T06:03:33.3634188+00:00",
       "NumProgressed": 425,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-07-30T12:03:47.1301831+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 22,
@@ -2054,7 +2059,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "LEVEL_002",
@@ -2070,7 +2075,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "LEVEL_004",
@@ -2078,7 +2083,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "LEVEL_005",
@@ -2086,7 +2091,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "LEVEL_006",
@@ -2110,7 +2115,7 @@
       "Name": "Passion for sports",
       "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "LEVEL_009",
@@ -2126,23 +2131,23 @@
       "Name": "Easy and steady climb",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 115
     },
     {
       "ID": "LEVEL_012",
       "SetID": "3khpmem",
       "Name": "Calm neighborhood",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 111
     },
     {
       "ID": "LEVEL_013",
@@ -2214,7 +2219,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "LEVEL_022",
@@ -2222,14 +2227,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 426,
       "Completed": 78
     }
   ],
@@ -2237,8 +2242,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-30T11:03:38.0791841+00:00",
+  "LastChanged_Achievements": "2023-07-30T12:03:47.1301822+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:55.2732426+00:00",
-  "LastUpdate_Ratings": "2023-07-30T10:58:18.5305979+00:00",
-  "LastUpdate_Achievements": "2023-07-30T11:03:38.0792191+00:00"
+  "LastUpdate_Ratings": "2023-07-30T11:58:42.7442149+00:00",
+  "LastUpdate_Achievements": "2023-07-30T12:03:47.130204+00:00"
 }

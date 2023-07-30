@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 660049,
+  "EOS_Progressed": 660053,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10352,6 +10352,11 @@
       "Time": "2023-07-30T11:03:23.6623836+00:00",
       "NumProgressed": 660049,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-07-30T12:03:30.2512412+00:00",
+      "NumProgressed": 660053,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -10363,7 +10368,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 475235
+      "UsersEstimate": 475238
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -10371,7 +10376,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382828
+      "UsersEstimate": 382831
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -10379,7 +10384,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151811
+      "UsersEstimate": 151812
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -10395,7 +10400,7 @@
       "Name": "Protector of the Realm",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 6600
+      "UsersEstimate": 6601
     },
     {
       "ID": "Achievement_06_Knight",
@@ -10435,7 +10440,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46203
+      "UsersEstimate": 46204
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -10451,7 +10456,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 33002
+      "UsersEstimate": 33003
     },
     {
       "ID": "Achievement_13_Dice_Master",
@@ -10499,7 +10504,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151811
+      "UsersEstimate": 151812
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -10515,7 +10520,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112208
+      "UsersEstimate": 112209
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -10539,7 +10544,7 @@
       "Name": "Smithy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 33002
+      "UsersEstimate": 33003
     },
     {
       "ID": "Achievement_24_Leap_of_Faith",
@@ -10547,7 +10552,7 @@
       "Name": "Leap of Faith",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19801
+      "UsersEstimate": 19802
     },
     {
       "ID": "Achievement_25_Purgatorium",
@@ -10555,7 +10560,7 @@
       "Name": "Purgatorium",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6600
+      "UsersEstimate": 6601
     },
     {
       "ID": "Achievement_26_Gamester",
@@ -10595,7 +10600,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46203
+      "UsersEstimate": 46204
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -10619,7 +10624,7 @@
       "Name": "Combat Ready",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19801
+      "UsersEstimate": 19802
     },
     {
       "ID": "Achievement_34_Close_Shave",
@@ -10627,7 +10632,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165012
+      "UsersEstimate": 165013
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -10635,7 +10640,7 @@
       "Name": "Cursed Soul",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6600
+      "UsersEstimate": 6601
     },
     {
       "ID": "Achievement_36_Swordsman",
@@ -10643,7 +10648,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59404
+      "UsersEstimate": 59405
     },
     {
       "ID": "Achievement_37_Champion",
@@ -10651,7 +10656,7 @@
       "Name": "Champion",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6600
+      "UsersEstimate": 6601
     },
     {
       "ID": "Achievement_38_Flurry_of_Fury",
@@ -10667,7 +10672,7 @@
       "Name": "Stuffed Potato",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19801
+      "UsersEstimate": 19802
     },
     {
       "ID": "Achievement_40_Broken_Heart",
@@ -10675,7 +10680,7 @@
       "Name": "Broken Heart",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46203
+      "UsersEstimate": 46204
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -10699,7 +10704,7 @@
       "Name": "Final Death",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6600
+      "UsersEstimate": 6601
     },
     {
       "ID": "Achievement_44_Miracle",
@@ -10746,15 +10751,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 660049,
+      "Progressed": 660053,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-30T11:03:23.6623831+00:00",
+  "LastChanged_Achievements": "2023-07-30T12:03:30.2512406+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:32.2842788+00:00",
-  "LastUpdate_Ratings": "2023-07-30T10:57:57.4394888+00:00",
-  "LastUpdate_Achievements": "2023-07-30T11:03:23.6624856+00:00"
+  "LastUpdate_Ratings": "2023-07-30T11:58:15.589521+00:00",
+  "LastUpdate_Achievements": "2023-07-30T12:03:30.2513277+00:00"
 }

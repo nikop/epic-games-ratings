@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 193,
+  "EOS_Progressed": 194,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -813,6 +813,11 @@
       "Time": "2023-07-30T08:02:21.7704743+00:00",
       "NumProgressed": 193,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-30T12:03:16.155954+00:00",
+      "NumProgressed": 194,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -838,9 +843,9 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 138
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -918,17 +923,17 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 134
     },
     {
       "ID": "ETUA_IsThemAndUs",
       "SetID": "65jc0ap",
       "Name": "Them and Us",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -982,9 +987,9 @@
       "ID": "ETUA_OutRage",
       "SetID": "65jc0ap",
       "Name": "OUTRAGE",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "ETUA_PTD",
@@ -1030,9 +1035,9 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "ETUA_StayDead",
@@ -1120,7 +1125,7 @@
       "Name": "Trapped",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ETUA_WhatAMansion",
@@ -1134,16 +1139,16 @@
       "ID": "ETUA_WhatHaveIDone",
       "SetID": "65jc0ap",
       "Name": "What have I done!?",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 193,
+      "Progressed": 194,
       "Completed": 1
     }
   ],
@@ -1151,8 +1156,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-07-30T11:03:11.6407215+00:00",
+  "LastChanged_Achievements": "2023-07-30T12:03:16.1559535+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:53.0006088+00:00",
-  "LastUpdate_Ratings": "2023-07-30T10:57:29.8813128+00:00",
-  "LastUpdate_Achievements": "2023-07-30T11:03:11.640763+00:00"
+  "LastUpdate_Ratings": "2023-07-30T11:57:41.9439264+00:00",
+  "LastUpdate_Achievements": "2023-07-30T12:03:16.1559818+00:00"
 }

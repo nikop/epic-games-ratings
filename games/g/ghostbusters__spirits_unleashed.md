@@ -5,18 +5,18 @@ Rating: 4.49 (Ranked 574)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,126 |
-| Advancement | 73.00% | ~17,932 |
+| Stylish | 86.00% | ~21,127 |
+| Advancement | 73.00% | ~17,933 |
 | Meticulously Efficient | 64.00% | ~15,722 |
 | Discovery | 61.00% | ~14,985 |
-| Fully Upgraded | 54.00% | ~13,265 |
-| Swift Rift Removers | 54.00% | ~13,265 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,528 |
-| Cultured | 51.00% | ~12,528 |
-| Vaporous Expansion | 48.00% | ~11,791 |
+| Fully Upgraded | 54.00% | ~13,266 |
+| Swift Rift Removers | 54.00% | ~13,266 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,529 |
+| Cultured | 51.00% | ~12,529 |
+| Vaporous Expansion | 48.00% | ~11,792 |
 | Teamwork | 44.00% | ~10,809 |
-| There you are! | 42.00% | ~10,317 |
-| Clutch Capture | 41.00% | ~10,072 |
+| There you are! | 42.00% | ~10,318 |
+| Clutch Capture | 40.00% | ~9,826 |
 | Back Off | 35.00% | ~8,598 |
 | Daily Dose | 34.00% | ~8,352 |
 | Solo Capture | 32.00% | ~7,861 |
@@ -29,21 +29,21 @@ Rating: 4.49 (Ranked 574)
 | Right back at ya | 26.00% | ~6,387 |
 | Stunner | 26.00% | ~6,387 |
 | Summoner | 26.00% | ~6,387 |
-| Pesky Jerks | 25.00% | ~6,141 |
+| Pesky Jerks | 25.00% | ~6,142 |
 | Animated | 24.00% | ~5,896 |
 | Skilled | 24.00% | ~5,896 |
 | Collector | 23.00% | ~5,650 |
 | Ectoplasmic Entity | 23.00% | ~5,650 |
-| Rift Destroyer | 19.00% | ~4,667 |
+| Rift Destroyer | 19.00% | ~4,668 |
 | Terrifying | 18.00% | ~4,422 |
 | Tobin's Prodigy | 18.00% | ~4,422 |
 | Reckless | 17.00% | ~4,176 |
-| Diabolical | 16.00% | ~3,930 |
-| Escape Artist | 16.00% | ~3,930 |
-| Seasoned | 16.00% | ~3,930 |
+| Diabolical | 16.00% | ~3,931 |
+| Escape Artist | 16.00% | ~3,931 |
+| Seasoned | 16.00% | ~3,931 |
 | Whoopsie | 12.00% | ~2,948 |
-| Liability | 10.00% | ~2,456 |
-| Rivalry | 10.00% | ~2,456 |
+| Liability | 10.00% | ~2,457 |
+| Rivalry | 10.00% | ~2,457 |
 | Fragile Panes | 9.00% | ~2,211 |
 | Surprise! | 9.00% | ~2,211 |
 | Rift Seeker | 7.00% | ~1,720 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 574)
 | Mycophile | 1.00% | ~246 |
 | I don't need these | 0.90% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,565 (Ranked 101)  
+Progressed: 24,566 (Ranked 101)  
 Completed: 48 (0.20%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 48 (0.20%) (Ranked 173)
 | 2023-07-27 | 24,498 | 48 |
 | 2023-07-28 | 24,518 | 48 |
 | 2023-07-29 | 24,556 | 48 |
-| 2023-07-30 | 24,565 | 48 |
+| 2023-07-30 | 24,566 | 48 |
 ## Awards
 Max (Great for Quick Sessions): 245  (Ranked 250)  
 Sum: 2,191 (Ranked 190)  
