@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~171 |
+| In the Black | 59.00% | ~172 |
 | Starting Skyward | 52.00% | ~151 |
-| Grime is Not Good | 46.00% | ~133 |
+| Grime is Not Good | 45.00% | ~131 |
 | Campaign Launch | 40.00% | ~116 |
-| Floor Galore | 39.00% | ~113 |
-| Dinner Dash | 38.00% | ~110 |
-| Need a Consult | 36.00% | ~104 |
+| Floor Galore | 38.00% | ~111 |
+| Dinner Dash | 38.00% | ~111 |
+| Need a Consult | 36.00% | ~105 |
 | It's Technical | 35.00% | ~102 |
 | Upgrade Unlock | 34.00% | ~99 |
 | Delegate Maintenance | 32.00% | ~93 |
 | Proper Walls | 31.00% | ~90 |
 | Destination Destiny | 29.00% | ~84 |
-| Happy Tenants | 25.00% | ~72 |
+| Happy Tenants | 25.00% | ~73 |
 | Potent Potables | 24.00% | ~70 |
 | Smooth Service | 24.00% | ~70 |
 | Your Prestige is Rising | 23.00% | ~67 |
@@ -31,8 +31,8 @@
 | We Don't Need No Education | 19.00% | ~55 |
 | Rehab Expert | 18.00% | ~52 |
 | Tasty Profits | 18.00% | ~52 |
-| Established Fame | 16.00% | ~46 |
-| Cashflow Chief | 16.00% | ~46 |
+| Established Fame | 16.00% | ~47 |
+| Cashflow Chief | 16.00% | ~47 |
 | Under One Roof | 15.00% | ~44 |
 | Starred Dining | 15.00% | ~44 |
 | Terrifically Trashed | 14.00% | ~41 |
@@ -57,10 +57,10 @@
 | Sky High Stature | 6.00% | ~17 |
 | Profound Proceeds | 6.00% | ~17 |
 | It's a Gas | 6.00% | ~17 |
-| Meet ADA/360 | 5.00% | ~14 |
-| Baron of Business | 5.00% | ~14 |
-| Golden Opportunity | 5.00% | ~14 |
-| Tuned In | 5.00% | ~14 |
+| Meet ADA/360 | 5.00% | ~15 |
+| Baron of Business | 5.00% | ~15 |
+| Golden Opportunity | 5.00% | ~15 |
+| Tuned In | 5.00% | ~15 |
 | Penthouse in the Sky | 4.00% | ~12 |
 | Office Bigwigs | 4.00% | ~12 |
 | Sandbagger | 4.00% | ~12 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290 (Ranked 255)  
+Progressed: 291 (Ranked 255)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 276 | 0 |
 | 2023-07-28 | 278 | 0 |
 | 2023-07-29 | 288 | 0 |
-| 2023-07-30 | 290 | 0 |
+| 2023-07-30 | 291 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

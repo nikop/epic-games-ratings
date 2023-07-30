@@ -27,6 +27,7 @@ Number of Ratings: 371  (23.09.2022)
 | Daemonkeeper | 0.20% | ~6 |
 | Mind Like a Fortress | 0.20% | ~6 |
 | Efficient Killer | 0.20% | ~6 |
+| Only in Death | 0.20% | ~6 |
 | Long Distance Call | 0.20% | ~6 |
 | Tactical Sabotage | 0.20% | ~6 |
 | Hive Exterminator | 0.20% | ~6 |
@@ -43,7 +44,6 @@ Number of Ratings: 371  (23.09.2022)
 | Warp Flickers | 0.10% | ~3 |
 | Phalanx | 0.10% | ~3 |
 | Exercise in Restraint | 0.10% | ~3 |
-| Only in Death | 0.10% | ~3 |
 | Preservationist | 0.10% | ~3 |
 | Engine Kill | 0.10% | ~3 |
 | Junk Banishment | 0.10% | ~3 |

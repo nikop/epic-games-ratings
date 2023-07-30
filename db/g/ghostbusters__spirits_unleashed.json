@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1590,7 +1590,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24564,
+  "EOS_Progressed": 24565,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
@@ -8990,6 +8990,11 @@
       "Time": "2023-07-30T07:05:22.0343868+00:00",
       "NumProgressed": 24564,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-07-30T09:02:07.1182438+00:00",
+      "NumProgressed": 24565,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 51,
@@ -9009,7 +9014,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 5895
+      "UsersEstimate": 5896
     },
     {
       "ID": "Back_Off",
@@ -9017,7 +9022,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8597
+      "UsersEstimate": 8598
     },
     {
       "ID": "Best_Insurance",
@@ -9089,7 +9094,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14984
+      "UsersEstimate": 14985
     },
     {
       "ID": "Dont_Need_These",
@@ -9113,7 +9118,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15721
+      "UsersEstimate": 15722
     },
     {
       "ID": "Escape_Artist",
@@ -9145,7 +9150,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7369
+      "UsersEstimate": 7370
     },
     {
       "ID": "Ghost_Expert",
@@ -9161,7 +9166,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7369
+      "UsersEstimate": 7370
     },
     {
       "ID": "Legions",
@@ -9241,7 +9246,7 @@
       "Name": "Rift Seeker",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1720
     },
     {
       "ID": "Right_Back",
@@ -9273,7 +9278,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6632
+      "UsersEstimate": 6633
     },
     {
       "ID": "Skilled",
@@ -9281,7 +9286,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5895
+      "UsersEstimate": 5896
     },
     {
       "ID": "Solo_Capture",
@@ -9289,7 +9294,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7860
+      "UsersEstimate": 7861
     },
     {
       "ID": "Stunner",
@@ -9305,7 +9310,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21125
+      "UsersEstimate": 21126
     },
     {
       "ID": "Summoner",
@@ -9337,7 +9342,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10808
+      "UsersEstimate": 10809
     },
     {
       "ID": "Terrifying",
@@ -9353,7 +9358,7 @@
       "Name": "Therapeutic",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1720
     },
     {
       "ID": "There_You_Are",
@@ -9393,7 +9398,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 7860
+      "UsersEstimate": 7861
     },
     {
       "ID": "Whoopsie",
@@ -9408,7 +9413,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24564,
+      "Progressed": 24565,
       "Completed": 48
     }
   ],
@@ -9416,8 +9421,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-30T05:00:32.9955543+00:00",
-  "LastChanged_Achievements": "2023-07-30T07:05:22.0343862+00:00",
+  "LastChanged_Achievements": "2023-07-30T09:02:07.1182434+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:56.6577114+00:00",
-  "LastUpdate_Ratings": "2023-07-30T07:59:09.2462898+00:00",
-  "LastUpdate_Achievements": "2023-07-30T07:05:22.0345044+00:00"
+  "LastUpdate_Ratings": "2023-07-30T09:00:18.3894835+00:00",
+  "LastUpdate_Achievements": "2023-07-30T09:02:07.1183161+00:00"
 }

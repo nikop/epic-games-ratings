@@ -39,16 +39,16 @@
 | Back To The Future | 23.00% | ~38 |
 | Fire Beacon | 23.00% | ~38 |
 | Lunch Before The Lunch | 21.00% | ~35 |
+| From Here To Eternity | 19.00% | ~32 |
 | Building Blocks | 19.00% | ~32 |
-| From Here To Eternity | 18.00% | ~30 |
 | Octopostructure | 17.00% | ~28 |
 | Boss Hunter | 16.00% | ~27 |
 | Hawkman | 9.00% | ~15 |
 | Fashion Victim | 8.00% | ~13 |
 | Annihilate | 8.00% | ~13 |
+| See You Later | 6.00% | ~10 |
 | Godlike Skin | 6.00% | ~10 |
 | Feast Time | 6.00% | ~10 |
-| See You Later | 5.00% | ~8 |
 | Unlucky Luke | 5.00% | ~8 |
 | Cheesy Chess | 5.00% | ~8 |
 | Octopy Mayhem | 4.00% | ~7 |

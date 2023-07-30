@@ -2,13 +2,13 @@
   "ID": "a17cc66c3a3c4d75875febf281c73fd2",
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
-  "Ranking_Rating": 241,
+  "Ranking_Rating": 240,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 593,
+  "EOS_Progressed": 594,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1405,6 +1405,11 @@
       "Time": "2023-07-30T07:02:47.4595779+00:00",
       "NumProgressed": 593,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-30T09:02:31.3076401+00:00",
+      "NumProgressed": 594,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1446,9 +1451,9 @@
       "ID": "DevilDetail",
       "SetID": "2aagp3d",
       "Name": "Devil\u0027s in the details",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 83
     },
     {
       "ID": "Devoted",
@@ -1528,7 +1533,7 @@
       "Name": "Spirit animal",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "LiarLiar",
@@ -1671,7 +1676,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 593,
+      "Progressed": 594,
       "Completed": 1
     }
   ],
@@ -1679,8 +1684,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-30T08:00:41.9440731+00:00",
+  "LastChanged_Achievements": "2023-07-30T09:02:31.3076395+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:48.1262101+00:00",
-  "LastUpdate_Ratings": "2023-07-30T07:58:10.7123164+00:00",
-  "LastUpdate_Achievements": "2023-07-30T08:00:41.944108+00:00"
+  "LastUpdate_Ratings": "2023-07-30T08:58:53.7933042+00:00",
+  "LastUpdate_Achievements": "2023-07-30T09:02:31.3076651+00:00"
 }

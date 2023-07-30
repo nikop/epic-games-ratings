@@ -1263,9 +1263,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19970,
+  "EOS_Progressed": 19971,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 720,
+  "EOS_NewPlayers": 715,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -11913,6 +11913,11 @@
       "Time": "2023-07-30T08:03:21.2457904+00:00",
       "NumProgressed": 19970,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-30T09:04:09.5778474+00:00",
+      "NumProgressed": 19971,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 22,
@@ -11964,7 +11969,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "1021",
@@ -12099,15 +12104,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 19970,
+      "Progressed": 19971,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-07-30T08:03:21.2457899+00:00",
+  "LastChanged_Achievements": "2023-07-30T09:04:09.577847+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:09.3482059+00:00",
-  "LastUpdate_Ratings": "2023-07-30T08:00:08.0343428+00:00",
-  "LastUpdate_Achievements": "2023-07-30T08:03:21.2458714+00:00"
+  "LastUpdate_Ratings": "2023-07-30T09:01:43.339215+00:00",
+  "LastUpdate_Achievements": "2023-07-30T09:04:09.5779133+00:00"
 }

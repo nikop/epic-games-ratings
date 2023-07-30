@@ -39,9 +39,9 @@
 | Escaped from a big trouble | 45.00% | ~81 |
 | Now you are worthy | 44.00% | ~79 |
 | No blades in the gym | 42.00% | ~76 |
+| Guiding on the right path | 41.00% | ~74 |
 | Mysterious voice | 40.00% | ~72 |
-| Guiding on the right path | 40.00% | ~72 |
-| Fight is life | 38.00% | ~68 |
+| Fight is life | 39.00% | ~70 |
 | Responsible approach | 35.00% | ~63 |
 | GYM professional | 34.00% | ~61 |
 | Deal with life | 33.00% | ~59 |
@@ -67,7 +67,7 @@
 | Not little hacker | 26.00% | ~47 |
 | The heart of the Resistance | 26.00% | ~47 |
 | Family comes first | 25.00% | ~45 |
-| Silver’s past | 22.00% | ~40 |
+| Silver’s past | 23.00% | ~41 |
 | Better cooking at home | 22.00% | ~40 |
 | The only right decision | 22.00% | ~40 |
 ## Popularity (Based on EOS Achievements)

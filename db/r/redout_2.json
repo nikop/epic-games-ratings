@@ -5,10 +5,10 @@
   "Ranking_Rating": 589,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
-  "Ranking_EOS_Progress": 189,
+  "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1089,
+  "EOS_Progressed": 1090,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -720,6 +720,11 @@
       "Time": "2023-07-29T01:55:23.9216667+00:00",
       "NumProgressed": 1089,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T09:04:19.6612831+00:00",
+      "NumProgressed": 1090,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -787,7 +792,7 @@
       "Name": "Walked like an Egyptian",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ALLTRACKSCLOUD",
@@ -803,7 +808,7 @@
       "Name": "Ride in the rising sun",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -1146,7 +1151,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1089,
+      "Progressed": 1090,
       "Completed": 0
     }
   ],
@@ -1154,8 +1159,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-07-30T08:03:28.4336269+00:00",
+  "LastChanged_Achievements": "2023-07-30T09:04:19.6612826+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.9130364+00:00",
-  "LastUpdate_Ratings": "2023-07-30T07:58:22.8441821+00:00",
-  "LastUpdate_Achievements": "2023-07-30T08:03:28.4336757+00:00"
+  "LastUpdate_Ratings": "2023-07-30T08:59:09.9817797+00:00",
+  "LastUpdate_Achievements": "2023-07-30T09:04:19.661322+00:00"
 }

@@ -1,64 +1,64 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 214)  
+Rating: 4.68 (Ranked 240)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 22.00% | ~116,894 |
-| 50 HEADSHOTS | 20.00% | ~106,268 |
-| SCIENCE AND INDUSTRY | 19.00% | ~100,954 |
-| FINISHED CHAPTER 1 | 18.00% | ~95,641 |
-| FINISHED CHAPTER 2 | 13.00% | ~69,074 |
-| 200 HEADSHOTS | 11.00% | ~58,447 |
-| FINISHED CHAPTER 3 | 10.00% | ~53,134 |
-| FINISHED CHAPTER 4 | 9.00% | ~47,820 |
-| FINISH CHAPTER 5 | 7.00% | ~37,194 |
-| FINISH CHAPTER 6 | 6.00% | ~31,880 |
-| CATHARTIC ESCAPISM | 6.00% | ~31,880 |
-| 1000 KILLS | 5.00% | ~26,567 |
-| FIREFIGHT LEVEL 10 | 2.00% | ~10,627 |
-| FIRST BLOOD | 1.00% | ~5,313 |
-| FIREFIGHT LEVEL 20 | 0.90% | ~4,782 |
-| PACEMAKER | 0.70% | ~3,719 |
-| TIME PARADOX | 0.60% | ~3,188 |
-| FIREFIGHT LEVEL 30 | 0.50% | ~2,657 |
-| OUT OF ORDER | 0.50% | ~2,657 |
-| PARTYHARD | 0.40% | ~2,125 |
-| FIREFIGHT LEVEL 40 | 0.30% | ~1,594 |
-| NEW GAME PLUS | 0.30% | ~1,594 |
-| CHURCH | 0.20% | ~1,063 |
-| FIREFIGHT LEVEL 50 | 0.20% | ~1,063 |
-| HEY THATS CHEATING | 0.10% | ~531 |
-| COMPLIMENTS TO THE CHEF | 0.10% | ~531 |
-| BUT WHY? | 0.10% | ~531 |
-| CHALET | 0.10% | ~531 |
-| COMMAND - [EXIST] | 0.10% | ~531 |
-| FIREFIGHT LEVEL 60 | 0.10% | ~531 |
-| FIREFIGHT LEVEL 70 | 0.10% | ~531 |
-| FIREFIGHT LEVEL 80 | 0.10% | ~531 |
-| FIRE IN THE HOLE | 0.10% | ~531 |
-| FRESH | 0.10% | ~531 |
-| HUGE SUCCESS | 0.10% | ~531 |
-| ICARUS | 0.10% | ~531 |
-| INPUT - [QUERY] | 0.10% | ~531 |
-| KITTED OUT | 0.10% | ~531 |
-| HOLOGRAM SUMMER | 0.10% | ~531 |
-| OFF THE HINGES | 0.10% | ~531 |
-| ON THE EDGE | 0.10% | ~531 |
-| OVERCLOCKED | 0.10% | ~531 |
-| PAIN TRAIN | 0.10% | ~531 |
-| REMEMBER THE ARMORY | 0.10% | ~531 |
-| 10 RUNS | 0.10% | ~531 |
-| 20 RUNS | 0.10% | ~531 |
-| 5 RUNS | 0.10% | ~531 |
-| SAVOR THE MOMENT | 0.10% | ~531 |
-| SOUL - HORIZONS | 0.10% | ~531 |
-| THE COLLECTOR | 0.10% | ~531 |
-| THE GAMBLER | 0.10% | ~531 |
-| WARRIOR IN A GARDEN | 0.10% | ~531 |
+| 100 KILLS | 22.00% | ~117,275 |
+| 50 HEADSHOTS | 20.00% | ~106,613 |
+| SCIENCE AND INDUSTRY | 19.00% | ~101,283 |
+| FINISHED CHAPTER 1 | 18.00% | ~95,952 |
+| FINISHED CHAPTER 2 | 13.00% | ~69,299 |
+| 200 HEADSHOTS | 11.00% | ~58,637 |
+| FINISHED CHAPTER 3 | 10.00% | ~53,307 |
+| FINISHED CHAPTER 4 | 9.00% | ~47,976 |
+| FINISH CHAPTER 5 | 7.00% | ~37,315 |
+| FINISH CHAPTER 6 | 6.00% | ~31,984 |
+| CATHARTIC ESCAPISM | 6.00% | ~31,984 |
+| 1000 KILLS | 5.00% | ~26,653 |
+| FIREFIGHT LEVEL 10 | 2.00% | ~10,661 |
+| FIREFIGHT LEVEL 20 | 1.00% | ~5,331 |
+| FIRST BLOOD | 1.00% | ~5,331 |
+| PACEMAKER | 0.70% | ~3,731 |
+| TIME PARADOX | 0.60% | ~3,198 |
+| FIREFIGHT LEVEL 30 | 0.50% | ~2,665 |
+| OUT OF ORDER | 0.50% | ~2,665 |
+| PARTYHARD | 0.40% | ~2,132 |
+| FIREFIGHT LEVEL 40 | 0.30% | ~1,599 |
+| NEW GAME PLUS | 0.30% | ~1,599 |
+| CHURCH | 0.20% | ~1,066 |
+| FIREFIGHT LEVEL 50 | 0.20% | ~1,066 |
+| HEY THATS CHEATING | 0.10% | ~533 |
+| COMPLIMENTS TO THE CHEF | 0.10% | ~533 |
+| BUT WHY? | 0.10% | ~533 |
+| CHALET | 0.10% | ~533 |
+| COMMAND - [EXIST] | 0.10% | ~533 |
+| FIREFIGHT LEVEL 60 | 0.10% | ~533 |
+| FIREFIGHT LEVEL 70 | 0.10% | ~533 |
+| FIREFIGHT LEVEL 80 | 0.10% | ~533 |
+| FIRE IN THE HOLE | 0.10% | ~533 |
+| FRESH | 0.10% | ~533 |
+| HUGE SUCCESS | 0.10% | ~533 |
+| ICARUS | 0.10% | ~533 |
+| INPUT - [QUERY] | 0.10% | ~533 |
+| KITTED OUT | 0.10% | ~533 |
+| HOLOGRAM SUMMER | 0.10% | ~533 |
+| OFF THE HINGES | 0.10% | ~533 |
+| ON THE EDGE | 0.10% | ~533 |
+| OVERCLOCKED | 0.10% | ~533 |
+| PAIN TRAIN | 0.10% | ~533 |
+| REMEMBER THE ARMORY | 0.10% | ~533 |
+| 10 RUNS | 0.10% | ~533 |
+| 20 RUNS | 0.10% | ~533 |
+| 5 RUNS | 0.10% | ~533 |
+| SAVOR THE MOMENT | 0.10% | ~533 |
+| SOUL - HORIZONS | 0.10% | ~533 |
+| THE COLLECTOR | 0.10% | ~533 |
+| THE GAMBLER | 0.10% | ~533 |
+| WARRIOR IN A GARDEN | 0.10% | ~533 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,338 (Ranked 28)  
+Progressed: 533,067 (Ranked 28)  
 Completed: 40 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,14 +159,14 @@ Completed: 40 (0.01%) (Ranked 234)
 | 2023-07-27 | 450,875 | 40 |
 | 2023-07-28 | 493,470 | 40 |
 | 2023-07-29 | 524,786 | 40 |
-| 2023-07-30 | 531,338 | 40 |
+| 2023-07-30 | 533,067 | 40 |
 ## Awards
-Max (Great Boss Battles): 192  (Ranked 272)  
-Sum: 192 (Ranked 369)  
-Diff (max vs sum): -97  
+Max (Great Boss Battles): 195  (Ranked 272)  
+Sum: 195 (Ranked 368)  
+Diff (max vs sum): -96  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 192 |
+| This game has Great Boss Battles | 195 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -220,3 +220,4 @@ Diff (max vs sum): -97
 | 2023-07-27 | 4.68 | 191 | 191 |
 | 2023-07-28 | 4.68 | 192 | 192 |
 | 2023-07-29 | 4.69 | 192 | 192 |
+| 2023-07-30 | 4.68 | 195 | 195 |

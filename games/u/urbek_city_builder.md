@@ -10,15 +10,15 @@
 | Sport is good for you | 26.00% | ~76 |
 | The spiritual world... | 23.00% | ~67 |
 | The woodcutter | 23.00% | ~67 |
-| I like books | 20.00% | ~58 |
-| I like my life | 20.00% | ~58 |
-| Soviet town | 19.00% | ~55 |
+| I like books | 20.00% | ~59 |
+| I like my life | 19.00% | ~56 |
+| Soviet town | 19.00% | ~56 |
 | Clean energy | 17.00% | ~50 |
 | Bucolic city | 14.00% | ~41 |
 | I love parks | 9.00% | ~26 |
 | I love books! | 8.00% | ~23 |
 | King of fish | 8.00% | ~23 |
-| What would we do if we can't go out with friends? | 7.00% | ~20 |
+| What would we do if we can't go out with friends? | 6.00% | ~18 |
 | Food producer | 5.00% | ~15 |
 | Metropolurbek | 5.00% | ~15 |
 | I am very happy! | 3.00% | ~9 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 292 (Ranked 254)  
+Progressed: 293 (Ranked 254)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-25 | 289 | 0 |
 | 2023-07-26 | 290 | 0 |
 | 2023-07-29 | 291 | 0 |
-| 2023-07-30 | 292 | 0 |
+| 2023-07-30 | 293 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

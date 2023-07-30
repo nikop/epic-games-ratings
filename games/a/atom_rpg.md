@@ -10,7 +10,7 @@ Number of Ratings: 54  (23.09.2022)
 | One HIT wonder | 35.00% | ~381 |
 | Wanderer | 35.00% | ~381 |
 | One shot, one kill | 28.00% | ~305 |
-| Traveler | 25.00% | ~272 |
+| Traveler | 26.00% | ~283 |
 | Head Burst | 20.00% | ~218 |
 | Explorer | 18.00% | ~196 |
 | Grave Robber | 18.00% | ~196 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,088 (Ranked 190)  
+Progressed: 1,088 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |

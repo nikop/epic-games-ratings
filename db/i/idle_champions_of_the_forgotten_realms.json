@@ -5380,9 +5380,9 @@
       "Count": 3329
     }
   ],
-  "EOS_Progressed": 216959,
+  "EOS_Progressed": 216981,
   "EOS_Completed": 2137,
-  "EOS_NewPlayers": 2216,
+  "EOS_NewPlayers": 2222,
   "EOS_NewCompleters": 77,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16210,6 +16210,11 @@
       "Time": "2023-07-30T08:03:19.1491932+00:00",
       "NumProgressed": 216959,
       "NumCompleted": 2137
+    },
+    {
+      "Time": "2023-07-30T09:04:06.922916+00:00",
+      "NumProgressed": 216981,
+      "NumCompleted": 2137
     }
   ],
   "TotalAchievements": 512,
@@ -16229,7 +16234,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4339
+      "UsersEstimate": 4340
     },
     {
       "ID": "objective_completed_100",
@@ -16261,7 +16266,7 @@
       "Name": "Cold as Ice",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1041",
@@ -16277,7 +16282,7 @@
       "Name": "Friends and Foes",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1046",
@@ -16309,7 +16314,7 @@
       "Name": "An Unexpected Geist",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1053",
@@ -16333,7 +16338,7 @@
       "Name": "A Monarch Among Us",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1057",
@@ -16365,7 +16370,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1062",
@@ -16421,7 +16426,7 @@
       "Name": "The Spire of Iriolarthas",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1071",
@@ -16437,7 +16442,7 @@
       "Name": "The Fall of Ythryn",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1076",
@@ -16533,7 +16538,7 @@
       "Name": "Slack-jawed Lorna",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1091",
@@ -16565,7 +16570,7 @@
       "Name": "The Fairy Rings of Thither",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1096",
@@ -16589,7 +16594,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4339
+      "UsersEstimate": 4340
     },
     {
       "ID": "objective_completed_110",
@@ -16733,7 +16738,7 @@
       "Name": "Will of the Feywild",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1133",
@@ -16757,7 +16762,7 @@
       "Name": "The Roots of Loomlurch",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1138",
@@ -16789,7 +16794,7 @@
       "Name": "Best Laid Plans",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1143",
@@ -16813,7 +16818,7 @@
       "Name": "The Howling Peaks of Yon",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1148",
@@ -16845,7 +16850,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "objective_completed_1153",
@@ -16877,7 +16882,7 @@
       "Name": "Flapjacks and Waffles",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_116",
@@ -16909,7 +16914,7 @@
       "Name": "Overwhelmed with Knowledge",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1165",
@@ -16949,7 +16954,7 @@
       "Name": "More Than Well Equipped",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1173",
@@ -16957,7 +16962,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "objective_completed_1174",
@@ -16965,7 +16970,7 @@
       "Name": "Arcane Efforts",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1175",
@@ -16973,7 +16978,7 @@
       "Name": "Keep Your Distance",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1178",
@@ -16981,7 +16986,7 @@
       "Name": "Heatwave",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "objective_completed_1179",
@@ -16989,7 +16994,7 @@
       "Name": "To Avernus in a Handbasket",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1180",
@@ -16997,7 +17002,7 @@
       "Name": "Hands Off!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1183",
@@ -17013,7 +17018,7 @@
       "Name": "Weak Doesn\u0027t Mean Feeble",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1185",
@@ -17029,7 +17034,7 @@
       "Name": "The Castle of a Thousand Vecnas",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1189",
@@ -17053,7 +17058,7 @@
       "Name": "The Sanctum of the Sword",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1194",
@@ -17069,7 +17074,7 @@
       "Name": "Get Back In The Castle",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1199",
@@ -17093,7 +17098,7 @@
       "Name": "Checkmate",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1204",
@@ -17109,7 +17114,7 @@
       "Name": "Vecna Out!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1209",
@@ -17477,7 +17482,7 @@
       "Name": "The Newcomers of Notoriety",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_179",
@@ -17661,7 +17666,7 @@
       "Name": "Thine Bounty is Mine!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_235",
@@ -18989,7 +18994,7 @@
       "Name": "Into The Fire",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_631",
@@ -19021,7 +19026,7 @@
       "Name": "Dreamscape",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_636",
@@ -19051,9 +19056,9 @@
       "ID": "objective_completed_640",
       "SetID": "415jc5c",
       "Name": "The Path of Dreams",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_641",
@@ -19301,7 +19306,7 @@
       "Name": "The Giant\u0027s Bane Tavern",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_691",
@@ -19333,7 +19338,7 @@
       "Name": "The Everlasting Rime",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_696",
@@ -19453,7 +19458,7 @@
       "Name": "Moose Tracks",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_803",
@@ -19485,7 +19490,7 @@
       "Name": "Civilization",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_808",
@@ -19581,7 +19586,7 @@
       "Name": "Dwarven Rumors",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_828",
@@ -20181,7 +20186,7 @@
       "Name": "The Champion\u0027s Guide to Wildspace",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "objective_completed_1220",
@@ -20205,7 +20210,7 @@
       "Name": "All The World\u0027s A Stage",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_568",
@@ -20245,7 +20250,7 @@
       "Name": "Rocky Reception",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1832
+      "UsersEstimate": 1833
     },
     {
       "ID": "objective_completed_1376",
@@ -20316,21 +20321,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183233,
-      "Completed": 3027
+      "Progressed": 183255,
+      "Completed": 3028
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216959,
+      "Progressed": 216981,
       "Completed": 2137
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-30T01:55:12.0623946+00:00",
-  "LastChanged_Achievements": "2023-07-30T08:03:19.1491928+00:00",
+  "LastChanged_Achievements": "2023-07-30T09:04:06.9229156+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-30T07:58:23.2962687+00:00",
-  "LastUpdate_Achievements": "2023-07-30T08:03:19.151797+00:00"
+  "LastUpdate_Ratings": "2023-07-30T08:59:10.5087571+00:00",
+  "LastUpdate_Achievements": "2023-07-30T09:04:06.9252703+00:00"
 }

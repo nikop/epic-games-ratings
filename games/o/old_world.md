@@ -27,6 +27,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.70% | ~92 |
 | Oracle | 0.70% | ~92 |
 | Judaism | 0.70% | ~92 |
+| Greek Paganism | 0.70% | ~92 |
 | Naming Landmarks | 0.70% | ~92 |
 | Trade Caravan | 0.70% | ~92 |
 | Glorious | 0.60% | ~79 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 0.60% | ~79 |
 | Christianity | 0.60% | ~79 |
 | Babylonian Paganism | 0.60% | ~79 |
-| Greek Paganism | 0.60% | ~79 |
 | Roman Paganism | 0.60% | ~79 |
 | Zoroastrianism | 0.60% | ~79 |
 | Ambitious | 0.50% | ~66 |
