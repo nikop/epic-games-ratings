@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -400,9 +400,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7285,
+  "EOS_Progressed": 7286,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -6500,6 +6500,11 @@
       "Time": "2023-07-30T13:07:44.4543895+00:00",
       "NumProgressed": 7285,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-07-30T14:05:41.7189982+00:00",
+      "NumProgressed": 7286,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 29,
@@ -6535,7 +6540,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "ACH05",
@@ -6575,7 +6580,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "ACH10",
@@ -6631,7 +6636,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "ACH17",
@@ -6703,7 +6708,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "ACH26",
@@ -6742,7 +6747,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7285,
+      "Progressed": 7286,
       "Completed": 42
     }
   ],
@@ -6750,8 +6755,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-30T04:58:58.4167386+00:00",
-  "LastChanged_Achievements": "2023-07-30T13:07:44.4543883+00:00",
+  "LastChanged_Achievements": "2023-07-30T14:05:41.7189975+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:45.6186895+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:00:54.4882766+00:00",
-  "LastUpdate_Achievements": "2023-07-30T13:07:44.4544517+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:58:29.2374506+00:00",
+  "LastUpdate_Achievements": "2023-07-30T14:05:41.7190612+00:00"
 }

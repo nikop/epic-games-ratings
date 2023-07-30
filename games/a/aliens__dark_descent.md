@@ -5,18 +5,18 @@ Rating: 4.44 (Ranked 645)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,519 |
-| Snatched Out | 74.00% | ~2,273 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,489 |
+| Snatched Out | 74.00% | ~2,274 |
 | Keep 'Em Coming | 73.00% | ~2,243 |
 | Cleaning Lethe, One Nest At A Time | 66.00% | ~2,028 |
 | Call Me Snake | 62.00% | ~1,905 |
-| Something Lurks Under The Hills | 60.00% | ~1,843 |
-| This Was No Papercut | 59.00% | ~1,812 |
+| Something Lurks Under The Hills | 60.00% | ~1,844 |
+| This Was No Papercut | 59.00% | ~1,813 |
 | People Person | 55.00% | ~1,690 |
 | The Shrink Hates Me | 55.00% | ~1,690 |
-| Use The Bumper, That's What It's For | 52.00% | ~1,597 |
+| Use The Bumper, That's What It's For | 52.00% | ~1,598 |
 | First Steps Into Madness | 51.00% | ~1,567 |
-| Colonial Barrels | 49.00% | ~1,505 |
+| Colonial Barrels | 49.00% | ~1,506 |
 | Harper's Hell | 43.00% | ~1,321 |
 | Making a Stand | 41.00% | ~1,260 |
 | Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,260 |
@@ -26,8 +26,8 @@ Rating: 4.44 (Ranked 645)
 | Living Nightmare | 30.00% | ~922 |
 | The More The Merrier | 30.00% | ~922 |
 | The Darwin Era Was Here | 26.00% | ~799 |
-| Deep Into Insanity | 24.00% | ~737 |
-| The Passenger | 24.00% | ~737 |
+| Deep Into Insanity | 24.00% | ~738 |
+| The Passenger | 24.00% | ~738 |
 | Come on, You Wanna Live Forever? | 23.00% | ~707 |
 | Stuff Of Nightmares | 21.00% | ~645 |
 | El Riesgo Siempre Vive | 21.00% | ~645 |
@@ -51,7 +51,7 @@ Rating: 4.44 (Ranked 645)
 | Perfect Organism | 0.60% | ~18 |
 | This Ain't No Picnic | 0.40% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,072 (Ranked 154)  
+Progressed: 3,073 (Ranked 154)  
 Completed: 2 (0.07%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 2 (0.07%) (Ranked 204)
 | 2023-07-27 | 3,055 | 1 |
 | 2023-07-28 | 3,062 | 1 |
 | 2023-07-29 | 3,068 | 2 |
-| 2023-07-30 | 3,072 | 2 |
+| 2023-07-30 | 3,073 | 2 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 504)  
 Sum: 20 (Ranked 504)  

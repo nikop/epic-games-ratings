@@ -8,7 +8,7 @@
 | Welcome to Mordor! | 52.00% | ~255 |
 | Collectibles Part 1 | 50.00% | ~246 |
 | Wait! Wait! Not yet! | 37.00% | ~182 |
-| Like Flying... | 32.00% | ~157 |
+| Like Flying... | 33.00% | ~162 |
 | The Maggot | 27.00% | ~133 |
 | Memories | 27.00% | ~133 |
 | The Breeder | 22.00% | ~108 |

@@ -5,17 +5,17 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 59.00% | ~172 |
-| Starting Skyward | 52.00% | ~151 |
-| Grime is Not Good | 45.00% | ~131 |
-| Campaign Launch | 40.00% | ~116 |
-| Floor Galore | 38.00% | ~111 |
+| Starting Skyward | 52.00% | ~152 |
+| Grime is Not Good | 46.00% | ~134 |
+| Campaign Launch | 40.00% | ~117 |
+| Floor Galore | 39.00% | ~114 |
 | Dinner Dash | 38.00% | ~111 |
 | Need a Consult | 36.00% | ~105 |
+| Upgrade Unlock | 35.00% | ~102 |
 | It's Technical | 35.00% | ~102 |
-| Upgrade Unlock | 34.00% | ~99 |
-| Delegate Maintenance | 32.00% | ~93 |
-| Proper Walls | 31.00% | ~90 |
-| Destination Destiny | 29.00% | ~84 |
+| Delegate Maintenance | 33.00% | ~96 |
+| Proper Walls | 32.00% | ~93 |
+| Destination Destiny | 28.00% | ~82 |
 | Happy Tenants | 25.00% | ~73 |
 | Potent Potables | 24.00% | ~70 |
 | Smooth Service | 24.00% | ~70 |
@@ -29,8 +29,8 @@
 | Get Electrified | 20.00% | ~58 |
 | Artfully Done | 19.00% | ~55 |
 | We Don't Need No Education | 19.00% | ~55 |
-| Rehab Expert | 18.00% | ~52 |
-| Tasty Profits | 18.00% | ~52 |
+| Rehab Expert | 18.00% | ~53 |
+| Tasty Profits | 18.00% | ~53 |
 | Established Fame | 16.00% | ~47 |
 | Cashflow Chief | 16.00% | ~47 |
 | Under One Roof | 15.00% | ~44 |
@@ -52,11 +52,11 @@
 | Maximum Reuse | 7.00% | ~20 |
 | Revenue Royalty | 7.00% | ~20 |
 | Pipe Up | 7.00% | ~20 |
-| I'm Busy Ruling | 6.00% | ~17 |
-| Careful Constructor | 6.00% | ~17 |
-| Sky High Stature | 6.00% | ~17 |
-| Profound Proceeds | 6.00% | ~17 |
-| It's a Gas | 6.00% | ~17 |
+| I'm Busy Ruling | 6.00% | ~18 |
+| Careful Constructor | 6.00% | ~18 |
+| Sky High Stature | 6.00% | ~18 |
+| Profound Proceeds | 6.00% | ~18 |
+| It's a Gas | 6.00% | ~18 |
 | Meet ADA/360 | 5.00% | ~15 |
 | Baron of Business | 5.00% | ~15 |
 | Golden Opportunity | 5.00% | ~15 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291 (Ranked 255)  
+Progressed: 292 (Ranked 255)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 276 | 0 |
 | 2023-07-28 | 278 | 0 |
 | 2023-07-29 | 288 | 0 |
-| 2023-07-30 | 291 | 0 |
+| 2023-07-30 | 292 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

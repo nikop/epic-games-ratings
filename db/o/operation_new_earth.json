@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 700,
+  "EOS_Progressed": 701,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2426,6 +2426,11 @@
       "Time": "2023-07-30T13:08:08.7117164+00:00",
       "NumProgressed": 700,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T14:06:11.2193524+00:00",
+      "NumProgressed": 701,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2451,9 +2456,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_defeat_players_100",
@@ -2691,9 +2696,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2740,14 +2745,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 700,
+      "Progressed": 701,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-30T13:08:08.7117153+00:00",
+  "LastChanged_Achievements": "2023-07-30T14:06:11.2193516+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-07-30T12:59:42.4586022+00:00",
-  "LastUpdate_Achievements": "2023-07-30T13:08:08.7117624+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:56:55.5532317+00:00",
+  "LastUpdate_Achievements": "2023-07-30T14:06:11.2194016+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "d8a4cd05d72d437aa3f3091bae2add52",
   "Name": "Shin-chan Me and the Professor on Summer Vacation",
   "ProductSlug": "shinchan-me-and-the-professor-on-summer-vacation-bb7bad",
-  "Ranking_EOS_Progress": 381,
+  "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-02-15T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30,
+  "EOS_Progressed": 31,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -78,6 +78,11 @@
       "Time": "2023-07-29T21:04:13.6376879+00:00",
       "NumProgressed": 30,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T14:04:15.6485891+00:00",
+      "NumProgressed": 31,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -111,7 +116,7 @@
       "ID": "Trophy_04",
       "SetID": "cf5h6dl",
       "Name": "A New Time",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -127,7 +132,7 @@
       "ID": "Trophy_06",
       "SetID": "cf5h6dl",
       "Name": "Beetle Savant",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -151,7 +156,7 @@
       "ID": "Trophy_09",
       "SetID": "cf5h6dl",
       "Name": "Cicada Connoisseur",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -167,7 +172,7 @@
       "ID": "Trophy_11",
       "SetID": "cf5h6dl",
       "Name": "Cabbage in the Baggage",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -175,7 +180,7 @@
       "ID": "Trophy_12",
       "SetID": "cf5h6dl",
       "Name": "Just Hoverin\u0027 Along",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -231,7 +236,7 @@
       "ID": "Trophy_19",
       "SetID": "cf5h6dl",
       "Name": "Masu-ter Angler",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -239,7 +244,7 @@
       "ID": "Trophy_20",
       "SetID": "cf5h6dl",
       "Name": "Biwa Be Mine",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -271,7 +276,7 @@
       "ID": "Trophy_24",
       "SetID": "cf5h6dl",
       "Name": "Ice Fishing",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -303,7 +308,7 @@
       "ID": "Trophy_28",
       "SetID": "cf5h6dl",
       "Name": "Greengrocer",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -351,7 +356,7 @@
       "ID": "Trophy_34",
       "SetID": "cf5h6dl",
       "Name": "Top-Notch Journalist",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -359,7 +364,7 @@
       "ID": "Trophy_35",
       "SetID": "cf5h6dl",
       "Name": "Go-Getter",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -456,7 +461,7 @@
     {
       "ID": "cf5h6dl",
       "IsBase": true,
-      "Progressed": 30,
+      "Progressed": 31,
       "Completed": 0
     }
   ],
@@ -464,8 +469,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-07-30T13:06:35.3974864+00:00",
+  "LastChanged_Achievements": "2023-07-30T14:04:15.6485883+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:10.124181+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:03:04.1971944+00:00",
-  "LastUpdate_Achievements": "2023-07-30T13:06:35.3975346+00:00"
+  "LastUpdate_Ratings": "2023-07-30T14:01:06.387371+00:00",
+  "LastUpdate_Achievements": "2023-07-30T14:04:15.648638+00:00"
 }

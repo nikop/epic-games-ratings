@@ -1,19 +1,19 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 120)  
+Rating: 4.76 (Ranked 121)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 22.00% | ~2,352 |
+| Devoured by Darkness | 22.00% | ~2,353 |
 | Burning City | 15.00% | ~1,604 |
 | A Spark | 15.00% | ~1,604 |
 | Mythic Choices | 12.00% | ~1,283 |
 | Defender's Heart | 12.00% | ~1,283 |
 | Banner over the Citadel | 11.00% | ~1,176 |
 | Queen's Gratitude | 10.00% | ~1,069 |
-| Fifth Crusade | 7.00% | ~748 |
+| Fifth Crusade | 7.00% | ~749 |
 | Embrace of the Abyss | 5.00% | ~535 |
 | Path of the Angel | 5.00% | ~535 |
 | Great Upstart | 5.00% | ~535 |
@@ -40,9 +40,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Core of the Riddle | 2.00% | ~214 |
 | Your First Big Enemy | 2.00% | ~214 |
 | Truly Important Deed | 2.00% | ~214 |
-| Stay Underground | 2.00% | ~189 |
-| Hanged Man's Notes | 2.00% | ~189 |
-| Sarkoris Will Be Green | 2.00% | ~189 |
+| Stay Underground | 2.00% | ~190 |
+| Hanged Man's Notes | 2.00% | ~190 |
+| Sarkoris Will Be Green | 2.00% | ~190 |
 | The Final Threshold | 1.00% | ~107 |
 | Path of the Demon | 1.00% | ~107 |
 | Abyssal Conspiracy | 1.00% | ~107 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,691 (Ranked 120)  
+Progressed: 10,694 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 10,626 | 0 |
 | 2023-07-28 | 10,645 | 0 |
 | 2023-07-29 | 10,674 | 0 |
-| 2023-07-30 | 10,691 | 0 |
+| 2023-07-30 | 10,694 | 0 |
 ## Awards
 Max (Character Customization): 1,694  (Ranked 117)  
 Sum: 6,859 (Ranked 113)  

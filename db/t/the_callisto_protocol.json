@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -6220,9 +6220,9 @@
       "ID": "GRP_MELEE_KILL",
       "SetID": "4hj6d86",
       "Name": "In Striking Distance",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 158
     },
     {
       "ID": "KILL_2HEAD",
@@ -6499,8 +6499,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-29T23:59:07.6814894+00:00",
-  "LastChanged_Achievements": "2023-07-30T13:03:25.8492865+00:00",
+  "LastChanged_Achievements": "2023-07-30T14:02:14.6447539+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.2008274+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:01:03.0316089+00:00",
-  "LastUpdate_Achievements": "2023-07-30T13:03:25.8493712+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:58:39.6231388+00:00",
+  "LastUpdate_Achievements": "2023-07-30T14:02:14.6450724+00:00"
 }

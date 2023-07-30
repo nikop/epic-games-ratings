@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39312,
+  "EOS_Progressed": 39314,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 923,
+  "EOS_NewPlayers": 924,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -10219,6 +10219,11 @@
       "Time": "2023-07-30T13:06:52.2739234+00:00",
       "NumProgressed": 39312,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-07-30T14:04:36.9403293+00:00",
+      "NumProgressed": 39314,
+      "NumCompleted": 195
     }
   ],
   "TotalAchievements": 44,
@@ -10230,7 +10235,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 22408
+      "UsersEstimate": 22409
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -10270,7 +10275,7 @@
       "Name": "Ruse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4324
+      "UsersEstimate": 4325
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -10318,7 +10323,7 @@
       "Name": "Left Behind",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -10326,7 +10331,7 @@
       "Name": "Secrets of the Earth",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -10350,7 +10355,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 31450
+      "UsersEstimate": 31451
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -10422,7 +10427,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 14545
+      "UsersEstimate": 14546
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -10430,7 +10435,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -10438,7 +10443,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 7862
+      "UsersEstimate": 7863
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -10454,7 +10459,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 21622
+      "UsersEstimate": 21623
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -10470,7 +10475,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 24767
+      "UsersEstimate": 24768
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -10478,7 +10483,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 10614
+      "UsersEstimate": 10615
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -10494,7 +10499,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 23587
+      "UsersEstimate": 23588
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -10502,7 +10507,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 26339
+      "UsersEstimate": 26340
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -10534,7 +10539,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 17690
+      "UsersEstimate": 17691
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -10542,7 +10547,7 @@
       "Name": "Hollow",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -10566,7 +10571,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 36560
+      "UsersEstimate": 36562
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -10574,14 +10579,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 20442
+      "UsersEstimate": 20443
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 39312,
+      "Progressed": 39314,
       "Completed": 195
     }
   ],
@@ -10589,8 +10594,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-07-30T13:06:52.2739224+00:00",
+  "LastChanged_Achievements": "2023-07-30T14:04:36.9403286+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:14.8762433+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:01:24.1920588+00:00",
-  "LastUpdate_Achievements": "2023-07-30T13:06:52.2740178+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:59:01.3431296+00:00",
+  "LastUpdate_Achievements": "2023-07-30T14:04:36.9404317+00:00"
 }

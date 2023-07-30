@@ -28,9 +28,9 @@ Rating: 4.20 (Ranked 847)
 | Crash Site | 2.00% | ~316 |
 | Full Circle | 2.00% | ~316 |
 | Power Up | 2.00% | ~316 |
+| In Striking Distance | 1.00% | ~158 |
 | The Commonality | 1.00% | ~158 |
 | One Last Job | 1.00% | ~37 |
-| In Striking Distance | 0.90% | ~142 |
 | This Isn't About Escape | 0.80% | ~30 |
 | Armed to the Teeth | 0.50% | ~19 |
 | Information Overload | 0.50% | ~19 |

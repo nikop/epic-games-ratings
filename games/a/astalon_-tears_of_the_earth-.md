@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Horn prize! | 46.00% | ~27 |
+| Horn prize! | 45.00% | ~27 |
 | Beast Quest | 32.00% | ~19 |
 | Monster Hunt | 32.00% | ~19 |
-| Orb Gatherer | 31.00% | ~18 |
-| Beast Hunter | 31.00% | ~18 |
-| Space worm! | 31.00% | ~18 |
-| Vanquisher! | 29.00% | ~17 |
-| Orb Collector | 29.00% | ~17 |
-| Snakehead! | 29.00% | ~17 |
-| Unmasked! | 29.00% | ~17 |
-| Loot, loot! | 29.00% | ~17 |
+| Space worm! | 32.00% | ~19 |
+| Orb Gatherer | 30.00% | ~18 |
+| Beast Hunter | 30.00% | ~18 |
+| Vanquisher! | 28.00% | ~17 |
+| Orb Collector | 28.00% | ~17 |
+| Snakehead! | 28.00% | ~17 |
+| Unmasked! | 28.00% | ~17 |
+| Loot, loot! | 28.00% | ~17 |
 | Beast Knight | 27.00% | ~16 |
 | Twin slayer! | 27.00% | ~16 |
 | Fly, you fool! | 27.00% | ~16 |
@@ -22,10 +22,10 @@
 | God of the Tower! | 25.00% | ~15 |
 | Relic Collector | 25.00% | ~15 |
 | Cartographer | 25.00% | ~15 |
-| Wizard Mastery | 19.00% | ~11 |
+| Wizard Mastery | 18.00% | ~11 |
 | Rogue Mastery | 17.00% | ~10 |
 | Fighter Mastery | 15.00% | ~9 |
-| Slay the Monster! | 14.00% | ~8 |
+| Slay the Monster! | 13.00% | ~8 |
 | Gorgonslayer Mastery | 12.00% | ~7 |
 | Built for adventure | 12.00% | ~7 |
 | Collector Mastery | 12.00% | ~7 |
@@ -35,8 +35,8 @@
 | No match for me! | 3.00% | ~2 |
 | True Titan | 3.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59 (Ranked 344)  
-Completed: 2 (3.39%) (Ranked 61)  
+Progressed: 60 (Ranked 343)  
+Completed: 2 (3.33%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -48,6 +48,7 @@ Completed: 2 (3.39%) (Ranked 61)
 | 2023-07-24 | 57 | 2 |
 | 2023-07-25 | 58 | 2 |
 | 2023-07-27 | 59 | 2 |
+| 2023-07-30 | 60 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

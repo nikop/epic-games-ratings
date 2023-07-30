@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 120,
+  "Ranking_Rating": 121,
   "Ranking_Popularity": 117,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
@@ -3308,9 +3308,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10691,
+  "EOS_Progressed": 10694,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9733,6 +9733,11 @@
       "Time": "2023-07-30T13:05:05.4180212+00:00",
       "NumProgressed": 10691,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T14:02:24.8182192+00:00",
+      "NumProgressed": 10694,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9744,7 +9749,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     },
     {
       "ID": "02_BurningCity",
@@ -9768,7 +9773,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -10616,7 +10621,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -10624,7 +10629,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -10632,7 +10637,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -10671,21 +10676,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9473,
+      "Progressed": 9476,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10691,
+      "Progressed": 10694,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-30T11:59:06.1662893+00:00",
-  "LastChanged_Achievements": "2023-07-30T13:05:05.4180203+00:00",
+  "LastChanged_Achievements": "2023-07-30T14:02:24.8182185+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:01:27.7481392+00:00",
-  "LastUpdate_Achievements": "2023-07-30T13:05:05.4182257+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:59:07.1707397+00:00",
+  "LastUpdate_Achievements": "2023-07-30T14:02:24.8185889+00:00"
 }

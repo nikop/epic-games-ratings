@@ -1538,10 +1538,16 @@
       "Rating": 4.04,
       "NumberOfAwards": 1516,
       "NumberOfAwardsMax": 182
+    },
+    {
+      "Time": "2023-07-30T13:59:41.9662275+00:00",
+      "Rating": 4.04,
+      "NumberOfAwards": 1517,
+      "NumberOfAwardsMax": 182
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1516,
+  "NumberOfAwards": 1517,
   "NumberOfAwardsMax": 182,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1567,7 +1573,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 172
+      "Count": 173
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1624,9 +1630,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 245923,
+  "EOS_Progressed": 245934,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2672,
+  "EOS_NewPlayers": 2670,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12664,6 +12670,11 @@
       "Time": "2023-07-30T13:07:33.8261626+00:00",
       "NumProgressed": 245923,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T14:05:28.2909381+00:00",
+      "NumProgressed": 245934,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -12723,7 +12734,7 @@
       "Name": "Contender",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 27052
+      "UsersEstimate": 27053
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -12835,7 +12846,7 @@
       "Name": "I Found it!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22133
+      "UsersEstimate": 22134
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -12843,7 +12854,7 @@
       "Name": "Full Loot Madness",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4918
+      "UsersEstimate": 4919
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -12899,7 +12910,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 201657
+      "UsersEstimate": 201666
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -12907,22 +12918,22 @@
       "Name": "I know the Rules",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 95910
+      "UsersEstimate": 95914
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 245923,
+      "Progressed": 245934,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2023-07-29T11:59:43.7569206+00:00",
-  "LastChanged_Achievements": "2023-07-30T13:07:33.8261618+00:00",
+  "LastChanged": "2023-07-30T13:59:41.9662273+00:00",
+  "LastChanged_Achievements": "2023-07-30T14:05:28.2909372+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:50.1755245+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:01:56.7691733+00:00",
-  "LastUpdate_Achievements": "2023-07-30T13:07:33.8262552+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:59:41.9662281+00:00",
+  "LastUpdate_Achievements": "2023-07-30T14:05:28.291029+00:00"
 }

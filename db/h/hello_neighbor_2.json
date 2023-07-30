@@ -6,7 +6,7 @@
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 158,
-  "Ranking_EOS_Completed": 56,
+  "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
@@ -2279,9 +2279,9 @@
       "ID": "ACH_HIDDEN_SECRETS",
       "SetID": "4kfb9pd",
       "Name": "Hidden Secrets",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 638
+      "UsersEstimate": 664
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -2327,9 +2327,9 @@
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
       "SetID": "4kfb9pd",
       "Name": "Welcome to Raven Brooks",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 35,
-      "UsersEstimate": 1994
+      "UsersEstimate": 2020
     }
   ],
   "AchievementSets": [
@@ -2344,8 +2344,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-30T13:07:41.3919376+00:00",
+  "LastChanged_Achievements": "2023-07-30T14:05:37.662809+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.70294+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:03:07.0705504+00:00",
-  "LastUpdate_Achievements": "2023-07-30T13:07:41.391963+00:00"
+  "LastUpdate_Ratings": "2023-07-30T14:01:10.3915489+00:00",
+  "LastUpdate_Achievements": "2023-07-30T14:05:37.6628319+00:00"
 }

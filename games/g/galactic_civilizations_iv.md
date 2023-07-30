@@ -6,31 +6,31 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,936 |
-| Worker Specialization | 78.00% | ~4,873 |
-| First Contact | 73.00% | ~4,561 |
-| Win a Battle | 67.00% | ~4,186 |
-| Anomaly Researcher | 63.00% | ~3,936 |
-| Unleash My Power | 62.00% | ~3,874 |
-| Own 30 Planets | 34.00% | ~2,124 |
-| Xenocide | 33.00% | ~2,062 |
-| Design a Civilization | 32.00% | ~1,999 |
-| Commodity Trader | 31.00% | ~1,937 |
-| Design a Ship | 28.00% | ~1,749 |
+| Colonize a Planet | 79.00% | ~4,938 |
+| Worker Specialization | 78.00% | ~4,875 |
+| First Contact | 73.00% | ~4,562 |
+| Win a Battle | 67.00% | ~4,188 |
+| Anomaly Researcher | 63.00% | ~3,938 |
+| Unleash My Power | 62.00% | ~3,875 |
+| Own 30 Planets | 34.00% | ~2,125 |
+| Xenocide | 32.00% | ~2,000 |
+| Design a Civilization | 32.00% | ~2,000 |
+| Commodity Trader | 31.00% | ~1,938 |
+| Design a Ship | 28.00% | ~1,750 |
 | Commodity Seller | 25.00% | ~1,562 |
 | Prestige Victory! | 14.00% | ~875 |
-| Galactic War | 11.00% | ~687 |
+| Galactic War | 11.00% | ~688 |
 | Trading Partner | 9.00% | ~562 |
 | Fleet Victory | 8.00% | ~500 |
-| Win as Terrans | 7.00% | ~437 |
+| Win as Terrans | 7.00% | ~438 |
 | Gain an Ally | 6.00% | ~375 |
 | Win with a Custom Faction | 6.00% | ~375 |
 | War with the Unknown | 5.00% | ~312 |
 | Conquest Victory! | 4.00% | ~250 |
 | Win an Immense Game | 4.00% | ~250 |
 | Win Quickly | 4.00% | ~250 |
-| Pirate Cleansing | 3.00% | ~187 |
-| Artifact Mastery | 3.00% | ~187 |
+| Pirate Cleansing | 3.00% | ~188 |
+| Artifact Mastery | 3.00% | ~188 |
 | Win as Altarians | 2.00% | ~125 |
 | Win as the Mimot | 2.00% | ~125 |
 | Win as the Yor | 2.00% | ~125 |
@@ -45,10 +45,10 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Drengin | 0.70% | ~44 |
 | Win as the Krynn | 0.70% | ~44 |
 | Win as the Manti | 0.70% | ~44 |
-| Win as the Iconians | 0.60% | ~37 |
-| Win as the Iridium | 0.60% | ~37 |
-| Win as the Onyx | 0.60% | ~37 |
-| Diplomatic Victory! | 0.60% | ~37 |
+| Win as the Iconians | 0.60% | ~38 |
+| Win as the Iridium | 0.60% | ~38 |
+| Win as the Onyx | 0.60% | ~38 |
+| Diplomatic Victory! | 0.60% | ~38 |
 | Relic Hoarder | 0.30% | ~19 |
 | Iconia Reclaimed! | 0.30% | ~19 |
 | Discover a Nebula | 0.20% | ~12 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,248 (Ranked 134)  
+Progressed: 6,250 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 6,221 | 0 |
 | 2023-07-28 | 6,227 | 0 |
 | 2023-07-29 | 6,242 | 0 |
-| 2023-07-30 | 6,248 | 0 |
+| 2023-07-30 | 6,250 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 347)  
 Sum: 669 (Ranked 277)  

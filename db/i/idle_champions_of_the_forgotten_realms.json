@@ -5342,10 +5342,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30807,
       "NumberOfAwardsMax": 5100
+    },
+    {
+      "Time": "2023-07-30T13:58:48.1836046+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30811,
+      "NumberOfAwardsMax": 5100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30807,
+  "NumberOfAwards": 30811,
   "NumberOfAwardsMax": 5100,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5353,7 +5359,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5036
+      "Count": 5040
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5392,9 +5398,9 @@
       "Count": 3330
     }
   ],
-  "EOS_Progressed": 217046,
+  "EOS_Progressed": 217068,
   "EOS_Completed": 2137,
-  "EOS_NewPlayers": 2214,
+  "EOS_NewPlayers": 2226,
   "EOS_NewCompleters": 77,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16247,6 +16253,11 @@
       "Time": "2023-07-30T13:06:21.181406+00:00",
       "NumProgressed": 217046,
       "NumCompleted": 2137
+    },
+    {
+      "Time": "2023-07-30T14:03:58.6547207+00:00",
+      "NumProgressed": 217068,
+      "NumCompleted": 2137
     }
   ],
   "TotalAchievements": 512,
@@ -16258,7 +16269,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6511
+      "UsersEstimate": 6512
     },
     {
       "ID": "objective_completed_10",
@@ -16562,7 +16573,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "objective_completed_1090",
@@ -16616,9 +16627,9 @@
       "ID": "objective_completed_1097",
       "SetID": "415jc5c",
       "Name": "Bully for You!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_11",
@@ -16818,7 +16829,7 @@
       "Name": "Supply Run",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "objective_completed_1142",
@@ -17464,9 +17475,9 @@
       "ID": "objective_completed_166",
       "SetID": "cc37lbc",
       "Name": "Force Grey Unleashed",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 434
+      "UsersEstimate": 651
     },
     {
       "ID": "objective_completed_167",
@@ -17768,9 +17779,9 @@
       "ID": "objective_completed_251",
       "SetID": "cc37lbc",
       "Name": "The Wyrmheart Mine",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 434
+      "UsersEstimate": 651
     },
     {
       "ID": "objective_completed_252",
@@ -18072,9 +18083,9 @@
       "ID": "objective_completed_393",
       "SetID": "cc37lbc",
       "Name": "Backtracking Through Barovia",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 434
     },
     {
       "ID": "objective_completed_394",
@@ -19648,9 +19659,9 @@
       "ID": "objective_completed_832",
       "SetID": "415jc5c",
       "Name": "Sunblight",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_833",
@@ -20353,21 +20364,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183320,
+      "Progressed": 183342,
       "Completed": 3028
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217046,
+      "Progressed": 217068,
       "Completed": 2137
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-30T13:01:12.8501394+00:00",
-  "LastChanged_Achievements": "2023-07-30T13:06:21.1814052+00:00",
+  "LastChanged": "2023-07-30T13:58:48.1836044+00:00",
+  "LastChanged_Achievements": "2023-07-30T14:03:58.6547202+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:01:12.8501408+00:00",
-  "LastUpdate_Achievements": "2023-07-30T13:06:21.184233+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:58:48.1836051+00:00",
+  "LastUpdate_Achievements": "2023-07-30T14:03:58.657897+00:00"
 }

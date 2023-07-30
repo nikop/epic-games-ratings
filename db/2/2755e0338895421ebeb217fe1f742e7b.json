@@ -95,9 +95,9 @@
       "ID": "Nocturnal_Achivement_10_Brun",
       "SetID": "329ifed",
       "Name": "Mr. Brightside",
-      "Percentage": 33,
+      "Percentage": 42,
       "XP": 150,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Nocturnal_Achivement_11_FireShrine",
@@ -111,17 +111,17 @@
       "ID": "Nocturnal_Achivement_1_Flame",
       "SetID": "329ifed",
       "Name": "Form Blazing Sword",
-      "Percentage": 83,
+      "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Nocturnal_Achivement_2_Shrine",
       "SetID": "329ifed",
       "Name": "A Light in Dark Places",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Nocturnal_Achivement_3_Azita",
@@ -175,9 +175,9 @@
       "ID": "Nocturnal_Achivement_9_Torches",
       "SetID": "329ifed",
       "Name": "The Torchbearer",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 150,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -190,8 +190,8 @@
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-07-30T13:07:30.8956036+00:00",
+  "LastChanged_Achievements": "2023-07-30T14:05:24.9703774+00:00",
   "LastUpdate_AppInfo": "2023-07-24T17:56:59.7516191+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:00:05.3298692+00:00",
-  "LastUpdate_Achievements": "2023-07-30T13:07:30.8956196+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:57:27.8573682+00:00",
+  "LastUpdate_Achievements": "2023-07-30T14:05:24.9703871+00:00"
 }

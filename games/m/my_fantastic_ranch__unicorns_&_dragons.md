@@ -9,11 +9,11 @@
 | Creature Evolution | 29.00% | ~7 |
 | Spirit of competition | 29.00% | ~7 |
 | Think Positive | 21.00% | ~5 |
-| Kingdom Party Time | 17.00% | ~4 |
-| Festival Fever | 8.00% | ~2 |
+| Kingdom Party Time | 21.00% | ~5 |
+| Festival Fever | 13.00% | ~3 |
+| Entering New Territory | 13.00% | ~3 |
 | Landscaper | 8.00% | ~2 |
 | Dream Big | 8.00% | ~2 |
-| Entering New Territory | 8.00% | ~2 |
 | Lecturer | 8.00% | ~2 |
 | Kindred Spirits | 8.00% | ~2 |
 | Gotta Adopt Them All! | 4.00% | ~1 |

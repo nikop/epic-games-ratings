@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 291,
+  "EOS_Progressed": 292,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -667,6 +667,11 @@
       "Time": "2023-07-30T09:02:23.5638107+00:00",
       "NumProgressed": 291,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T14:02:24.50391+00:00",
+      "NumProgressed": 292,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -708,9 +713,9 @@
       "ID": "ach_area",
       "SetID": "b8gh1fi",
       "Name": "Floor Galore",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 114
     },
     {
       "ID": "ach_area_1",
@@ -766,7 +771,7 @@
       "Name": "Campaign Launch",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ach_campaigns_1",
@@ -820,9 +825,9 @@
       "ID": "ach_consultant_1",
       "SetID": "b8gh1fi",
       "Name": "Upgrade Unlock",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "ach_consultants_a",
@@ -838,7 +843,7 @@
       "Name": "I\u0027m Busy Ruling",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_consultants_c",
@@ -884,9 +889,9 @@
       "ID": "ach_deco",
       "SetID": "b8gh1fi",
       "Name": "Proper Walls",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "ach_drones",
@@ -982,7 +987,7 @@
       "Name": "Starting Skyward",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ach_floors_1",
@@ -990,7 +995,7 @@
       "Name": "Careful Constructor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_floors_2",
@@ -1012,17 +1017,17 @@
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 134
     },
     {
       "ID": "ach_grime_1",
       "SetID": "b8gh1fi",
       "Name": "Delegate Maintenance",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 96
     },
     {
       "ID": "ach_grime_2",
@@ -1030,7 +1035,7 @@
       "Name": "Rehab Expert",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ach_happy",
@@ -1134,7 +1139,7 @@
       "Name": "Sky High Stature",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_profit_0",
@@ -1158,7 +1163,7 @@
       "Name": "Profound Proceeds",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_recycling_1",
@@ -1190,7 +1195,7 @@
       "Name": "Tasty Profits",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ach_restaurants_3",
@@ -1334,7 +1339,7 @@
       "Name": "It\u0027s a Gas",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_util_phone",
@@ -1372,16 +1377,16 @@
       "ID": "ach_visitors_1",
       "SetID": "b8gh1fi",
       "Name": "Destination Destiny",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 82
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 291,
+      "Progressed": 292,
       "Completed": 0
     }
   ],
@@ -1389,8 +1394,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-30T13:05:05.0239077+00:00",
+  "LastChanged_Achievements": "2023-07-30T14:02:24.5039094+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:50.6819272+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:00:59.7058015+00:00",
-  "LastUpdate_Achievements": "2023-07-30T13:05:05.0240162+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:58:36.7386361+00:00",
+  "LastUpdate_Achievements": "2023-07-30T14:02:24.5042963+00:00"
 }

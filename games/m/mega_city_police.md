@@ -7,9 +7,9 @@
 | Welcome to Mega City | 111.00% | ~20 |
 | Law and Order | 83.00% | ~15 |
 | Licence To Kill | 67.00% | ~12 |
-| Hammer Time | 39.00% | ~7 |
-| Escape From M.C. | 17.00% | ~3 |
-| Restore Honor | 17.00% | ~3 |
+| Hammer Time | 44.00% | ~8 |
+| Escape From M.C. | 22.00% | ~4 |
+| Restore Honor | 22.00% | ~4 |
 | Gibbing Love | 0.00% | ~0 |
 | Head of the Snake | 0.00% | ~0 |
 | Barbecue Time | 0.00% | ~0 |

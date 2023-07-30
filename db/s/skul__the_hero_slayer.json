@@ -920,9 +920,9 @@
       "Count": 122
     }
   ],
-  "EOS_Progressed": 8044,
+  "EOS_Progressed": 8045,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3985,6 +3985,11 @@
       "Time": "2023-07-30T13:07:38.4976862+00:00",
       "NumProgressed": 8044,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-30T14:05:34.2086967+00:00",
+      "NumProgressed": 8045,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -4060,7 +4065,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2091
+      "UsersEstimate": 2092
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -4084,7 +4089,7 @@
       "Name": "The Hero Killer",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 2252
+      "UsersEstimate": 2253
     },
     {
       "ID": "LeoniasFall",
@@ -4092,7 +4097,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2413
+      "UsersEstimate": 2414
     },
     {
       "ID": "LeoniasFall_2",
@@ -4156,7 +4161,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7481
+      "UsersEstimate": 7482
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4164,7 +4169,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3861
+      "UsersEstimate": 3862
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -4180,22 +4185,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6757
+      "UsersEstimate": 6758
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8044,
+      "Progressed": 8045,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-30T01:56:13.7308805+00:00",
-  "LastChanged_Achievements": "2023-07-30T13:07:38.4976852+00:00",
+  "LastChanged_Achievements": "2023-07-30T14:05:34.2086961+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:57.8506775+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:02:03.1812443+00:00",
-  "LastUpdate_Achievements": "2023-07-30T13:07:38.4977284+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:59:49.3107991+00:00",
+  "LastUpdate_Achievements": "2023-07-30T14:05:34.2087329+00:00"
 }

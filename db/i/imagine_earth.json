@@ -2,7 +2,7 @@
   "ID": "95cda0d0b9124cc790f3893ac41cc29a",
   "Name": "Imagine Earth",
   "ProductSlug": "imagine-earth-7498e4",
-  "Ranking_Rating": 781,
+  "Ranking_Rating": 782,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 234,
@@ -276,9 +276,9 @@
       "ID": "CampaignStars1",
       "SetID": "c2k469b",
       "Name": "Campaign Bronze",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 143
     },
     {
       "ID": "CampaignStars2",
@@ -469,8 +469,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-07-30T13:06:30.8813971+00:00",
+  "LastChanged_Achievements": "2023-07-30T14:04:10.1647+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:03.2728301+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:02:08.9081544+00:00",
-  "LastUpdate_Achievements": "2023-07-30T13:06:30.8814185+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:59:56.2210352+00:00",
+  "LastUpdate_Achievements": "2023-07-30T14:04:10.1647225+00:00"
 }

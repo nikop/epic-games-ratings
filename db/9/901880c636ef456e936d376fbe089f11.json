@@ -504,9 +504,9 @@
       "ID": "ACH_LOCAL_FAVORITE",
       "SetID": "8h8m55b",
       "Name": "Local Favorite",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_MASTER_PURLOINER",
@@ -711,8 +711,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-07-30T13:08:18.9028544+00:00",
+  "LastChanged_Achievements": "2023-07-30T14:06:23.3503107+00:00",
   "LastUpdate_AppInfo": "2023-07-25T07:57:00.5780393+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:00:04.6960315+00:00",
-  "LastUpdate_Achievements": "2023-07-30T13:08:18.9029022+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:57:27.0720414+00:00",
+  "LastUpdate_Achievements": "2023-07-30T14:06:23.3503579+00:00"
 }

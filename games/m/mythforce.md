@@ -24,13 +24,13 @@ Number of Ratings: 285  (23.09.2022)
 | The Harder They Fall | 1.00% | ~5 |
 | Horder Better Faster Stronger | 1.00% | ~5 |
 | Spending Spree | 1.00% | ~5 |
-| Everything Must Go! | 0.70% | ~3 |
-| The Fourth Gate | 0.70% | ~3 |
+| Everything Must Go! | 0.60% | ~3 |
+| The Fourth Gate | 0.60% | ~3 |
 | We've Got a Kaiju on the Field | 0.20% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 460 (Ranked 225)  
+Progressed: 462 (Ranked 225)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,7 +45,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 372 | 0 |
 | 2023-07-28 | 412 | 0 |
 | 2023-07-29 | 446 | 0 |
-| 2023-07-30 | 460 | 0 |
+| 2023-07-30 | 462 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 451)  
 Sum: 226 (Ranked 353)  

@@ -23,13 +23,13 @@
 | Symphony | 0.10% | ~1 |
 | Musica Universalis | 0.10% | ~1 |
 | Resonance | 0.10% | ~1 |
+| Fugue Forest Glyph | 0.10% | ~1 |
 | Ostinato | 0.00% | ~0 |
 | Rondo | 0.00% | ~0 |
 | Consonance | 0.00% | ~0 |
 | Dissonance | 0.00% | ~0 |
 | Tritone | 0.00% | ~0 |
 | Duet Desert Glyph | 0.00% | ~0 |
-| Fugue Forest Glyph | 0.00% | ~0 |
 | Solo Sea Glyph | 0.00% | ~0 |
 | Silent City: Reprise Glyph | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

@@ -94,9 +94,9 @@
       "ID": "ACHIEVEMENT_Ach_MioIntro_Cleavage",
       "SetID": "70j9o42",
       "Name": "A Load Of The Goods",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_Ach_MioScene4_Flex",
@@ -405,8 +405,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-07-30T13:06:31.7546756+00:00",
+  "LastChanged_Achievements": "2023-07-30T14:04:11.2925738+00:00",
   "LastUpdate_AppInfo": "2023-07-25T07:57:00.5196616+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:00:05.5420594+00:00",
-  "LastUpdate_Achievements": "2023-07-30T13:06:31.7547104+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:57:28.0770966+00:00",
+  "LastUpdate_Achievements": "2023-07-30T14:04:11.292614+00:00"
 }

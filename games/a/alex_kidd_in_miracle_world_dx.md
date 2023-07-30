@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wild Ox | 46.00% | ~121 |
+| Wild Ox | 47.00% | ~124 |
 | Magic Ball | 37.00% | ~97 |
 | Assailants | 27.00% | ~71 |
 | Prisoner | 24.00% | ~63 |

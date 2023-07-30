@@ -1,7 +1,7 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.35 (Ranked 743)  
+Rating: 4.35 (Ranked 744)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,9 +13,9 @@ Rating: 4.35 (Ranked 743)
 | The Bracelet | 65.00% | ~263 |
 | The Blackmail | 55.00% | ~222 |
 | Major Felix Hagen | 55.00% | ~222 |
+| Order and Method | 53.00% | ~214 |
 | Fine-toothed Comb | 53.00% | ~214 |
 | Florette Duval | 53.00% | ~214 |
-| Order and Method | 52.00% | ~210 |
 | The Altercation | 50.00% | ~202 |
 | Truth from Within | 49.00% | ~198 |
 | The Major | 47.00% | ~190 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3522,
+  "EOS_Progressed": 3524,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -953,6 +953,11 @@
       "Time": "2023-07-30T12:03:52.0263892+00:00",
       "NumProgressed": 3522,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T14:03:58.8854632+00:00",
+      "NumProgressed": 3524,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -964,7 +969,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -996,7 +1001,7 @@
       "Name": "Totally Intentional",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1004,7 +1009,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -1012,7 +1017,7 @@
       "Name": "From Zeroes...",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -1020,7 +1025,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -1028,7 +1033,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -1036,7 +1041,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -1060,7 +1065,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -1076,7 +1081,7 @@
       "Name": "We\u0027re In",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -1084,7 +1089,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1726
+      "UsersEstimate": 1727
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1092,7 +1097,7 @@
       "Name": "You Poor Now!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -1100,7 +1105,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -1132,7 +1137,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -1171,7 +1176,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3522,
+      "Progressed": 3524,
       "Completed": 0
     }
   ],
@@ -1179,8 +1184,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-30T13:06:21.7995865+00:00",
+  "LastChanged_Achievements": "2023-07-30T14:03:58.8854624+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:07.7078521+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:02:19.6806426+00:00",
-  "LastUpdate_Achievements": "2023-07-30T13:06:21.7996152+00:00"
+  "LastUpdate_Ratings": "2023-07-30T14:00:11.5179806+00:00",
+  "LastUpdate_Achievements": "2023-07-30T14:03:58.8854875+00:00"
 }

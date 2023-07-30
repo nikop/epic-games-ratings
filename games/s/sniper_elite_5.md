@@ -23,18 +23,18 @@ Rating: 4.42 (Ranked 664)
 | Der Geist | 3.00% | ~101 |
 | As Quiet as a Mouse | 3.00% | ~101 |
 | Brains of the Operation | 3.00% | ~101 |
-| Opposing Force | 2.00% | ~67 |
-| Fields of Glory | 2.00% | ~67 |
-| Just a Flesh Wound | 2.00% | ~67 |
-| Gunslinger | 2.00% | ~67 |
-| Skirmisher | 2.00% | ~67 |
-| Set Europe Ablaze | 2.00% | ~67 |
-| Precision Is Key | 2.00% | ~67 |
-| My Little Friend | 2.00% | ~67 |
-| Explosive Efficiency | 2.00% | ~67 |
-| Die Nussknacker Sweet! | 2.00% | ~67 |
-| Close Quarters | 2.00% | ~67 |
-| Snake in the Grass | 2.00% | ~67 |
+| Opposing Force | 2.00% | ~68 |
+| Fields of Glory | 2.00% | ~68 |
+| Just a Flesh Wound | 2.00% | ~68 |
+| Gunslinger | 2.00% | ~68 |
+| Skirmisher | 2.00% | ~68 |
+| Set Europe Ablaze | 2.00% | ~68 |
+| Precision Is Key | 2.00% | ~68 |
+| My Little Friend | 2.00% | ~68 |
+| Explosive Efficiency | 2.00% | ~68 |
+| Die Nussknacker Sweet! | 2.00% | ~68 |
+| Close Quarters | 2.00% | ~68 |
+| Snake in the Grass | 2.00% | ~68 |
 | Enemy at the Gates | 1.00% | ~34 |
 | The Long Game | 1.00% | ~34 |
 | Rigged to Blow | 1.00% | ~34 |
@@ -55,9 +55,9 @@ Rating: 4.42 (Ranked 664)
 | Last Resort | 0.50% | ~17 |
 | Siegebreaker | 0.50% | ~17 |
 | Ghost of Falaise | 0.50% | ~17 |
-| Up close and personal | 0.40% | ~13 |
-| Shoot for the Moon | 0.40% | ~13 |
-| Can't Outrun A Bullet | 0.40% | ~13 |
+| Up close and personal | 0.40% | ~14 |
+| Shoot for the Moon | 0.40% | ~14 |
+| Can't Outrun A Bullet | 0.40% | ~14 |
 | If You Go Down To The Woods Today | 0.40% | ~13 |
 | Out of Scope | 0.30% | ~10 |
 | Sight Beyond Sights | 0.30% | ~10 |
@@ -77,7 +77,7 @@ Rating: 4.42 (Ranked 664)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,374 (Ranked 149)  
+Progressed: 3,375 (Ranked 149)  
 Completed: 9 (0.27%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 9 (0.27%) (Ranked 161)
 | 2023-07-27 | 3,360 | 9 |
 | 2023-07-28 | 3,364 | 9 |
 | 2023-07-29 | 3,371 | 9 |
-| 2023-07-30 | 3,374 | 9 |
+| 2023-07-30 | 3,375 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 47,
+  "Ranking_EOS_NewPlayers": 46,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1241,
+  "EOS_Progressed": 1267,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1240,
+  "EOS_NewPlayers": 1266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -157,6 +157,11 @@
       "Time": "2023-07-30T13:07:44.4992381+00:00",
       "NumProgressed": 1241,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T14:05:41.747494+00:00",
+      "NumProgressed": 1267,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -169,7 +174,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "10",
@@ -209,7 +214,7 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 199
+      "UsersEstimate": 203
     },
     {
       "ID": "15",
@@ -257,7 +262,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "20",
@@ -345,7 +350,7 @@
       "Name": "Captain Drummer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 152
     },
     {
       "ID": "30",
@@ -408,14 +413,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 1241,
+      "Progressed": 1267,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-07-30T13:07:44.4992371+00:00",
+  "LastChanged_Achievements": "2023-07-30T14:05:41.7474933+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:00.9603289+00:00",
-  "LastUpdate_Ratings": "2023-07-30T13:02:06.116436+00:00",
-  "LastUpdate_Achievements": "2023-07-30T13:07:44.4992667+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:59:53.2378978+00:00",
+  "LastUpdate_Achievements": "2023-07-30T14:05:41.7475181+00:00"
 }
