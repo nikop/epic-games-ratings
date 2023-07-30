@@ -5,16 +5,16 @@ Rating: 4.49 (Ranked 574)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,123 |
-| Advancement | 73.00% | ~17,930 |
+| Stylish | 86.00% | ~21,124 |
+| Advancement | 73.00% | ~17,931 |
 | Meticulously Efficient | 64.00% | ~15,720 |
 | Discovery | 61.00% | ~14,983 |
-| Fully Upgraded | 54.00% | ~13,263 |
-| Swift Rift Removers | 54.00% | ~13,263 |
+| Fully Upgraded | 54.00% | ~13,264 |
+| Swift Rift Removers | 54.00% | ~13,264 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,527 |
 | Cultured | 51.00% | ~12,527 |
 | Vaporous Expansion | 48.00% | ~11,790 |
-| Teamwork | 44.00% | ~10,807 |
+| Teamwork | 44.00% | ~10,808 |
 | There you are! | 42.00% | ~10,316 |
 | Clutch Capture | 40.00% | ~9,825 |
 | Back Off | 35.00% | ~8,597 |
@@ -29,7 +29,7 @@ Rating: 4.49 (Ranked 574)
 | Right back at ya | 26.00% | ~6,386 |
 | Stunner | 26.00% | ~6,386 |
 | Summoner | 26.00% | ~6,386 |
-| Pesky Jerks | 25.00% | ~6,140 |
+| Pesky Jerks | 25.00% | ~6,141 |
 | Animated | 24.00% | ~5,895 |
 | Skilled | 24.00% | ~5,895 |
 | Collector | 23.00% | ~5,649 |
@@ -41,7 +41,7 @@ Rating: 4.49 (Ranked 574)
 | Diabolical | 16.00% | ~3,930 |
 | Escape Artist | 16.00% | ~3,930 |
 | Seasoned | 16.00% | ~3,930 |
-| Whoopsie | 12.00% | ~2,947 |
+| Whoopsie | 12.00% | ~2,948 |
 | Liability | 10.00% | ~2,456 |
 | Rivalry | 10.00% | ~2,456 |
 | Fragile Panes | 9.00% | ~2,211 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 574)
 | Mycophile | 1.00% | ~246 |
 | I don't need these | 0.90% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,562 (Ranked 101)  
+Progressed: 24,563 (Ranked 101)  
 Completed: 48 (0.20%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 48 (0.20%) (Ranked 173)
 | 2023-07-27 | 24,498 | 48 |
 | 2023-07-28 | 24,518 | 48 |
 | 2023-07-29 | 24,556 | 48 |
-| 2023-07-30 | 24,562 | 48 |
+| 2023-07-30 | 24,563 | 48 |
 ## Awards
 Max (Great for Quick Sessions): 245  (Ranked 250)  
 Sum: 2,191 (Ranked 190)  

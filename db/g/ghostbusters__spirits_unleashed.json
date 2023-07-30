@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1590,7 +1590,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24562,
+  "EOS_Progressed": 24563,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
@@ -8980,6 +8980,11 @@
       "Time": "2023-07-30T04:04:58.4847625+00:00",
       "NumProgressed": 24562,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-07-30T06:04:08.5997765+00:00",
+      "NumProgressed": 24563,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 51,
@@ -8991,7 +8996,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17930
+      "UsersEstimate": 17931
     },
     {
       "ID": "Animated",
@@ -9127,7 +9132,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13263
+      "UsersEstimate": 13264
     },
     {
       "ID": "GB_In_Training",
@@ -9207,7 +9212,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6140
+      "UsersEstimate": 6141
     },
     {
       "ID": "Reckless",
@@ -9295,7 +9300,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21123
+      "UsersEstimate": 21124
     },
     {
       "ID": "Summoner",
@@ -9319,7 +9324,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13263
+      "UsersEstimate": 13264
     },
     {
       "ID": "Teamwork",
@@ -9327,7 +9332,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10807
+      "UsersEstimate": 10808
     },
     {
       "ID": "Terrifying",
@@ -9391,14 +9396,14 @@
       "Name": "Whoopsie",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2947
+      "UsersEstimate": 2948
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24562,
+      "Progressed": 24563,
       "Completed": 48
     }
   ],
@@ -9406,8 +9411,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-30T05:00:32.9955543+00:00",
-  "LastChanged_Achievements": "2023-07-30T05:04:58.5782501+00:00",
+  "LastChanged_Achievements": "2023-07-30T06:04:08.5997759+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:56.6577114+00:00",
-  "LastUpdate_Ratings": "2023-07-30T05:00:32.9955549+00:00",
-  "LastUpdate_Achievements": "2023-07-30T05:04:58.5783861+00:00"
+  "LastUpdate_Ratings": "2023-07-30T05:59:26.8569862+00:00",
+  "LastUpdate_Achievements": "2023-07-30T06:04:08.5999385+00:00"
 }

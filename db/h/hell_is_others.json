@@ -2,12 +2,12 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 655,
+  "Ranking_Rating": 656,
   "Ranking_Popularity": 444,
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -766,9 +766,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 253921,
+  "EOS_Progressed": 253926,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 458,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11011,6 +11011,11 @@
       "Time": "2023-07-30T05:07:16.5011821+00:00",
       "NumProgressed": 253921,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-30T06:05:47.2467984+00:00",
+      "NumProgressed": 253926,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -11022,7 +11027,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17774
+      "UsersEstimate": 17775
     },
     {
       "ID": "Act2",
@@ -11062,7 +11067,7 @@
       "Name": "By a hair",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5078
+      "UsersEstimate": 5079
     },
     {
       "ID": "BackHomeFirstTime",
@@ -11070,7 +11075,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78716
+      "UsersEstimate": 78717
     },
     {
       "ID": "BackHomeNTimes",
@@ -11126,7 +11131,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25392
+      "UsersEstimate": 25393
     },
     {
       "ID": "CreditLevel2",
@@ -11134,7 +11139,7 @@
       "Name": "Fixer II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5078
+      "UsersEstimate": 5079
     },
     {
       "ID": "CreditLevel3",
@@ -11222,7 +11227,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15235
+      "UsersEstimate": 15236
     },
     {
       "ID": "GrowPlants2",
@@ -11262,7 +11267,7 @@
       "Name": "It took a while",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5078
+      "UsersEstimate": 5079
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -11278,7 +11283,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15235
+      "UsersEstimate": 15236
     },
     {
       "ID": "KillOtherWithKatana",
@@ -11286,7 +11291,7 @@
       "Name": "Samurai",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5078
+      "UsersEstimate": 5079
     },
     {
       "ID": "KillOtherWithLowHealth",
@@ -11302,7 +11307,7 @@
       "Name": "I Left You a Present",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5078
+      "UsersEstimate": 5079
     },
     {
       "ID": "KillOthers1",
@@ -11310,7 +11315,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55863
+      "UsersEstimate": 55864
     },
     {
       "ID": "KillOthers2",
@@ -11318,7 +11323,7 @@
       "Name": "Predator II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5078
+      "UsersEstimate": 5079
     },
     {
       "ID": "KillOthers3",
@@ -11334,7 +11339,7 @@
       "Name": "Truffle Dog",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5078
+      "UsersEstimate": 5079
     },
     {
       "ID": "KillVengefulThingWithMeleeAndSurvive",
@@ -11414,7 +11419,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25392
+      "UsersEstimate": 25393
     },
     {
       "ID": "ReachNDays2",
@@ -11422,7 +11427,7 @@
       "Name": "A month in Century City",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5078
+      "UsersEstimate": 5079
     },
     {
       "ID": "ReachNDays3",
@@ -11469,7 +11474,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 253921,
+      "Progressed": 253926,
       "Completed": 3
     }
   ],
@@ -11477,8 +11482,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-29T10:00:56.3877093+00:00",
-  "LastChanged_Achievements": "2023-07-30T05:07:16.5011814+00:00",
+  "LastChanged_Achievements": "2023-07-30T06:05:47.2467978+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:16.1144116+00:00",
-  "LastUpdate_Ratings": "2023-07-30T05:02:02.3004788+00:00",
-  "LastUpdate_Achievements": "2023-07-30T05:07:16.5012848+00:00"
+  "LastUpdate_Ratings": "2023-07-30T06:00:27.8133257+00:00",
+  "LastUpdate_Achievements": "2023-07-30T06:05:47.2470612+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1755,
+  "EOS_Progressed": 1756,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1600,6 +1600,11 @@
       "Time": "2023-07-30T03:05:36.3702112+00:00",
       "NumProgressed": 1755,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-30T06:04:41.9127383+00:00",
+      "NumProgressed": 1756,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1619,7 +1624,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1763,7 +1768,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1971,7 +1976,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -1987,7 +1992,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1995,7 +2000,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2034,15 +2039,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1755,
+      "Progressed": 1756,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-30T05:05:44.4430302+00:00",
+  "LastChanged_Achievements": "2023-07-30T06:04:41.9127379+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.150321+00:00",
-  "LastUpdate_Ratings": "2023-07-30T04:59:45.7448799+00:00",
-  "LastUpdate_Achievements": "2023-07-30T05:05:44.443089+00:00"
+  "LastUpdate_Ratings": "2023-07-30T05:58:53.6782918+00:00",
+  "LastUpdate_Achievements": "2023-07-30T06:04:41.9128334+00:00"
 }

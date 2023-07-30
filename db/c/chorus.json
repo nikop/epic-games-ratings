@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -282,7 +282,7 @@
   ],
   "EOS_Progressed": 1093,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
@@ -1695,9 +1695,9 @@
       "ID": "MissionHelios",
       "SetID": "a6c395p",
       "Name": "Cult Slayer",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 448
     },
     {
       "ID": "MissionLiberateEnclave",
@@ -1783,9 +1783,9 @@
       "ID": "MissionTheiaStep1",
       "SetID": "a6c395p",
       "Name": "Origin",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 437
     },
     {
       "ID": "Overcharge",
@@ -1871,8 +1871,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-07-30T05:05:17.416706+00:00",
+  "LastChanged_Achievements": "2023-07-30T06:04:22.0010192+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:56.2520049+00:00",
-  "LastUpdate_Ratings": "2023-07-30T05:01:42.9164064+00:00",
-  "LastUpdate_Achievements": "2023-07-30T05:05:17.4167676+00:00"
+  "LastUpdate_Ratings": "2023-07-30T06:00:16.052883+00:00",
+  "LastUpdate_Achievements": "2023-07-30T06:04:22.0010667+00:00"
 }

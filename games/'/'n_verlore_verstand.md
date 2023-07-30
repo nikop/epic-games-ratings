@@ -9,6 +9,7 @@
 | Escape the Maze | 47.00% | ~7 |
 | Brace the cold | 40.00% | ~6 |
 | A Long Walk | 33.00% | ~5 |
+| Dont mind the heat | 13.00% | ~2 |
 | A Dangerous Road | 7.00% | ~1 |
 | Scorched Ruins | 7.00% | ~1 |
 | City of Illusion | 7.00% | ~1 |
@@ -19,7 +20,6 @@
 | The Final Test | 7.00% | ~1 |
 | A Journey's End | 7.00% | ~1 |
 | A Stone Left Unturned | 7.00% | ~1 |
-| Dont mind the heat | 7.00% | ~1 |
 | No End is Eternal | 0.00% | ~0 |
 | Tranquility/Resilience | 0.00% | ~0 |
 | Recovery/Imagination | 0.00% | ~0 |

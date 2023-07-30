@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
     "PcReleaseDate": "2016-02-01T10:30:00+00:00",
@@ -437,9 +437,9 @@
       "ID": "5",
       "SetID": "6m1k8ai",
       "Name": "Dont mind the heat",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "6",
@@ -483,8 +483,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-07-30T05:05:35.1288946+00:00",
+  "LastChanged_Achievements": "2023-07-30T06:04:34.6555451+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.5511093+00:00",
-  "LastUpdate_Ratings": "2023-07-30T04:59:43.2476954+00:00",
-  "LastUpdate_Achievements": "2023-07-30T05:05:35.1289299+00:00"
+  "LastUpdate_Ratings": "2023-07-30T05:58:51.7629564+00:00",
+  "LastUpdate_Achievements": "2023-07-30T06:04:34.6556147+00:00"
 }

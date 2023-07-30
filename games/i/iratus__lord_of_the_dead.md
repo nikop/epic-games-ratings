@@ -6,36 +6,36 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~30,728 |
-| Blood Moon | 73.00% | ~26,390 |
-| Path of the Necromancer | 66.00% | ~23,859 |
-| Chainbreaker - I | 60.00% | ~21,690 |
-| Cursed Creature | 57.00% | ~20,606 |
-| Extraction | 57.00% | ~20,606 |
-| Chainbreaker - II | 55.00% | ~19,882 |
-| Necromancer's Apprentice | 51.00% | ~18,436 |
-| Keeper of Keys | 47.00% | ~16,990 |
-| Distillation | 43.00% | ~15,544 |
-| Mountain King - I | 42.00% | ~15,183 |
-| Transmutation | 42.00% | ~15,183 |
+| Improvement | 85.00% | ~30,729 |
+| Blood Moon | 73.00% | ~26,391 |
+| Path of the Necromancer | 66.00% | ~23,860 |
+| Chainbreaker - I | 60.00% | ~21,691 |
+| Cursed Creature | 57.00% | ~20,607 |
+| Extraction | 57.00% | ~20,607 |
+| Chainbreaker - II | 55.00% | ~19,884 |
+| Necromancer's Apprentice | 51.00% | ~18,438 |
+| Keeper of Keys | 47.00% | ~16,991 |
+| Distillation | 43.00% | ~15,545 |
+| Mountain King - I | 42.00% | ~15,184 |
+| Transmutation | 42.00% | ~15,184 |
 | Prepared Necromancer | 41.00% | ~14,822 |
-| Mountain King - II | 39.00% | ~14,098 |
-| Blind Rage | 38.00% | ~13,737 |
-| Mad Genius | 35.00% | ~12,652 |
-| Cannon Fodder - I | 34.00% | ~12,291 |
-| Soul of Lies | 34.00% | ~12,291 |
+| Mountain King - II | 39.00% | ~14,099 |
+| Blind Rage | 38.00% | ~13,738 |
+| Mad Genius | 35.00% | ~12,653 |
+| Cannon Fodder - I | 34.00% | ~12,292 |
+| Soul of Lies | 34.00% | ~12,292 |
 | Bane of Mercenaries - I | 33.00% | ~11,930 |
-| Bane of Mercenaries - II | 31.00% | ~11,206 |
-| Shadow Between Worlds | 30.00% | ~10,845 |
+| Bane of Mercenaries - II | 31.00% | ~11,207 |
+| Shadow Between Worlds | 30.00% | ~10,846 |
 | Cannon Fodder - II | 29.00% | ~10,484 |
-| Bane of Monsters | 28.00% | ~10,122 |
-| Chainbreaker - III | 28.00% | ~10,122 |
-| Revealed Secrets - I | 27.00% | ~9,760 |
-| Revealed Secrets - II | 26.00% | ~9,399 |
+| Bane of Monsters | 28.00% | ~10,123 |
+| Chainbreaker - III | 28.00% | ~10,123 |
+| Revealed Secrets - I | 27.00% | ~9,761 |
+| Revealed Secrets - II | 26.00% | ~9,400 |
 | Unholy Bones | 24.00% | ~8,676 |
 | Blood Elemental | 24.00% | ~8,676 |
-| Lord of Fire | 23.00% | ~8,314 |
-| Uncommon Warrior | 23.00% | ~8,314 |
+| Lord of Fire | 23.00% | ~8,315 |
+| Uncommon Warrior | 23.00% | ~8,315 |
 | Cannon Fodder - III | 22.00% | ~7,953 |
 | Spiritual Attraction | 22.00% | ~7,953 |
 | Nightmare of the Humanity - I | 22.00% | ~7,953 |
@@ -47,8 +47,8 @@ Number of Ratings: 10,109  (23.09.2022)
 | Blood Mage | 17.00% | ~6,146 |
 | Wild Hunger | 16.00% | ~5,784 |
 | Rage Concentrated | 16.00% | ~5,784 |
-| Mountain King - III | 15.00% | ~5,422 |
-| Rare Warrior | 15.00% | ~5,422 |
+| Mountain King - III | 15.00% | ~5,423 |
+| Rare Warrior | 15.00% | ~5,423 |
 | Grand Arena | 14.00% | ~5,061 |
 | Blood Madness | 13.00% | ~4,700 |
 | First Sacrifice | 13.00% | ~4,700 |
@@ -68,10 +68,10 @@ Number of Ratings: 10,109  (23.09.2022)
 | Means of Recovery | 6.00% | ~2,169 |
 | Master of Magic | 6.00% | ~2,169 |
 | Master of Destruction | 4.00% | ~1,446 |
-| Dungeon Queen | 3.00% | ~1,084 |
-| Mek Brothers | 3.00% | ~1,084 |
-| The Hunter Becomes... | 3.00% | ~1,084 |
-| Experimenter | 3.00% | ~1,084 |
+| Dungeon Queen | 3.00% | ~1,085 |
+| Mek Brothers | 3.00% | ~1,085 |
+| The Hunter Becomes... | 3.00% | ~1,085 |
+| Experimenter | 3.00% | ~1,085 |
 | Evil Always Wins! | 2.00% | ~723 |
 | Graveyard Call - I | 2.00% | ~723 |
 | Graveyard Call - II | 2.00% | ~723 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.60% | ~217 |
 | Renowned Researcher | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,150 (Ranked 94)  
+Progressed: 36,152 (Ranked 94)  
 Completed: 23 (0.06%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 23 (0.06%) (Ranked 206)
 | 2023-07-27 | 35,909 | 23 |
 | 2023-07-28 | 36,006 | 23 |
 | 2023-07-29 | 36,128 | 23 |
-| 2023-07-30 | 36,150 | 23 |
+| 2023-07-30 | 36,152 | 23 |
 ## Awards
 Max (Character Customization): 2,146  (Ranked 108)  
 Sum: 4,159 (Ranked 137)  

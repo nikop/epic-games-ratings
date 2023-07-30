@@ -37,6 +37,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 0.60% | ~79 |
 | Babylonian Paganism | 0.60% | ~79 |
 | Greek Paganism | 0.60% | ~79 |
+| Roman Paganism | 0.60% | ~79 |
 | Zoroastrianism | 0.60% | ~79 |
 | Ambitious | 0.50% | ~66 |
 | Magnificent | 0.50% | ~66 |
@@ -50,7 +51,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.50% | ~66 |
 | Learn to Play 1 | 0.50% | ~66 |
 | Carthaginian Paganism | 0.50% | ~66 |
-| Roman Paganism | 0.50% | ~66 |
 | Regicide | 0.40% | ~53 |
 | Brilliant | 0.40% | ~53 |
 | Fountainhead | 0.40% | ~53 |

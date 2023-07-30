@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 660034,
+  "EOS_Progressed": 660035,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 339,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10322,6 +10322,11 @@
       "Time": "2023-07-30T05:03:49.8463133+00:00",
       "NumProgressed": 660034,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-07-30T06:03:18.9826532+00:00",
+      "NumProgressed": 660035,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -10333,7 +10338,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 475224
+      "UsersEstimate": 475225
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -10397,7 +10402,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66003
+      "UsersEstimate": 66004
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -10429,7 +10434,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66003
+      "UsersEstimate": 66004
     },
     {
       "ID": "Achievement_14_Magician",
@@ -10597,7 +10602,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165008
+      "UsersEstimate": 165009
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -10716,15 +10721,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 660034,
+      "Progressed": 660035,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-30T05:03:49.8463127+00:00",
+  "LastChanged_Achievements": "2023-07-30T06:03:18.9826524+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:32.2842788+00:00",
-  "LastUpdate_Ratings": "2023-07-30T04:58:41.8962377+00:00",
-  "LastUpdate_Achievements": "2023-07-30T05:03:49.8464066+00:00"
+  "LastUpdate_Ratings": "2023-07-30T05:58:10.5440273+00:00",
+  "LastUpdate_Achievements": "2023-07-30T06:03:18.9828297+00:00"
 }

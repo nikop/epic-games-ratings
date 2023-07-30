@@ -39,31 +39,31 @@
 | Escaped from a big trouble | 45.00% | ~81 |
 | Now you are worthy | 44.00% | ~79 |
 | No blades in the gym | 42.00% | ~75 |
+| Mysterious voice | 40.00% | ~72 |
 | Guiding on the right path | 40.00% | ~72 |
 | Fight is life | 39.00% | ~70 |
-| Mysterious voice | 39.00% | ~70 |
 | GYM professional | 35.00% | ~63 |
 | Responsible approach | 35.00% | ~63 |
+| Underground dwellers | 34.00% | ~61 |
+| Deal with life | 33.00% | ~59 |
 | Get out of my apartment! | 33.00% | ~59 |
-| Underground dwellers | 33.00% | ~59 |
-| Deal with life | 32.00% | ~57 |
+| Mom got better | 32.00% | ~57 |
 | Champion – no way back | 32.00% | ~57 |
 | Poisoned fighter | 32.00% | ~57 |
-| Mom got better | 31.00% | ~55 |
-| The die is cast | 31.00% | ~55 |
+| The die is cast | 32.00% | ~57 |
+| Gang wrangler | 30.00% | ~54 |
 | Seashell hunter | 30.00% | ~54 |
-| Gang wrangler | 29.00% | ~52 |
 | Undercover robot | 29.00% | ~52 |
 | Problems of cyborgs | 28.00% | ~50 |
 | The last bell ring | 28.00% | ~50 |
 | Absolute Champion! | 27.00% | ~48 |
+| Careerist | 27.00% | ~48 |
+| Anyone can resist | 27.00% | ~48 |
 | Trap disarmed | 26.00% | ~47 |
 | Another world | 26.00% | ~47 |
 | The lonesome road | 26.00% | ~47 |
 | Key memories | 26.00% | ~47 |
 | Not little hacker | 26.00% | ~47 |
-| Careerist | 26.00% | ~47 |
-| Anyone can resist | 26.00% | ~47 |
 | The heart of the Resistance | 26.00% | ~47 |
 | Keep nature safe | 25.00% | ~45 |
 | Family comes first | 25.00% | ~45 |

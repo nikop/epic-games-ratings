@@ -6,31 +6,31 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~7,517 |
-| Photogenic | 88.00% | ~7,269 |
-| Surge Gauntlet Jockey | 85.00% | ~7,021 |
-| Plug It In | 84.00% | ~6,938 |
-| Adventure Time | 80.00% | ~6,608 |
-| Playing With Power | 77.00% | ~6,360 |
-| Coup d'Etat | 59.00% | ~4,873 |
+| Let's Get This Party Started | 91.00% | ~7,518 |
+| Photogenic | 88.00% | ~7,270 |
+| Surge Gauntlet Jockey | 85.00% | ~7,022 |
+| Plug It In | 84.00% | ~6,939 |
+| Adventure Time | 80.00% | ~6,609 |
+| Playing With Power | 77.00% | ~6,361 |
+| Coup d'Etat | 59.00% | ~4,874 |
 | You're Fired | 58.00% | ~4,791 |
 | Get Furious | 56.00% | ~4,626 |
-| Gunplay And Cosplay | 55.00% | ~4,543 |
-| Hacks In Stacks | 55.00% | ~4,543 |
-| Meching Enemies | 49.00% | ~4,047 |
-| Ticket Toddler | 44.00% | ~3,634 |
+| Gunplay And Cosplay | 55.00% | ~4,544 |
+| Hacks In Stacks | 55.00% | ~4,544 |
+| Meching Enemies | 49.00% | ~4,048 |
+| Ticket Toddler | 44.00% | ~3,635 |
 | Booty Bashing | 41.00% | ~3,387 |
 | Field Medic | 38.00% | ~3,139 |
 | Here Comes a New Challenger | 38.00% | ~3,139 |
 | Rapid Response | 33.00% | ~2,726 |
 | Surge Ahead | 31.00% | ~2,561 |
 | The Full Monty | 31.00% | ~2,561 |
-| Guardian Angel | 29.00% | ~2,395 |
+| Guardian Angel | 29.00% | ~2,396 |
 | Poppin Noggins | 25.00% | ~2,065 |
 | Clips and Crits | 20.00% | ~1,652 |
 | Grey Goo | 18.00% | ~1,487 |
 | Boss of Bosses | 15.00% | ~1,239 |
-| The Final Blow | 14.00% | ~1,156 |
+| The Final Blow | 14.00% | ~1,157 |
 | To Be Continued | 13.00% | ~1,074 |
 | Light My Fire | 12.00% | ~991 |
 | Seasoned Adventurer | 12.00% | ~991 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~33 |
 | Pyrotechnical | 0.20% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,260 (Ranked 125)  
+Progressed: 8,261 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 8,183 | 0 |
 | 2023-07-28 | 8,214 | 0 |
 | 2023-07-29 | 8,257 | 0 |
-| 2023-07-30 | 8,260 | 0 |
+| 2023-07-30 | 8,261 | 0 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 385)  
 Sum: 454 (Ranked 304)  

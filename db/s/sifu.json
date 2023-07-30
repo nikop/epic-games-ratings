@@ -5418,9 +5418,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711833,
+  "EOS_Progressed": 711834,
   "EOS_Completed": 12835,
-  "EOS_NewPlayers": 600,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -14948,6 +14948,11 @@
       "Time": "2023-07-30T05:08:08.8940988+00:00",
       "NumProgressed": 711833,
       "NumCompleted": 12835
+    },
+    {
+      "Time": "2023-07-30T06:06:24.604211+00:00",
+      "NumProgressed": 711834,
+      "NumCompleted": 12835
     }
   ],
   "TotalAchievements": 50,
@@ -15079,7 +15084,7 @@
       "Name": "Drunken Fighter",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "17_Detective_H3",
@@ -15103,7 +15108,7 @@
       "Name": "Healing Memory",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "20_Traversal_Trophy",
@@ -15183,7 +15188,7 @@
       "Name": "Master of the Phoenix Eye Fist",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "30_ComboMid",
@@ -15255,7 +15260,7 @@
       "Name": "The Pit Protector",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -15263,7 +15268,7 @@
       "Name": "Be like water my friend",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "40_CustomTrophy_H4",
@@ -15287,7 +15292,7 @@
       "Name": "Come Snap With Me",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "43_Arena_UnlockPack",
@@ -15358,21 +15363,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21134,
+      "Progressed": 21135,
       "Completed": 10455
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711833,
+      "Progressed": 711834,
       "Completed": 12835
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-29T06:59:07.1748238+00:00",
-  "LastChanged_Achievements": "2023-07-30T05:08:08.8940982+00:00",
+  "LastChanged_Achievements": "2023-07-30T06:06:24.60421+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:51.4583284+00:00",
-  "LastUpdate_Ratings": "2023-07-30T05:00:27.3419926+00:00",
-  "LastUpdate_Achievements": "2023-07-30T05:08:08.8942087+00:00"
+  "LastUpdate_Ratings": "2023-07-30T05:59:23.1153259+00:00",
+  "LastUpdate_Achievements": "2023-07-30T06:06:24.6043915+00:00"
 }

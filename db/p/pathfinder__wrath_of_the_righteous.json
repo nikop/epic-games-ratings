@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3302,9 +3302,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10677,
+  "EOS_Progressed": 10679,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9697,6 +9697,11 @@
       "Time": "2023-07-30T05:02:31.9012916+00:00",
       "NumProgressed": 10677,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T06:00:47.8086171+00:00",
+      "NumProgressed": 10679,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9708,7 +9713,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2243
     },
     {
       "ID": "02_BurningCity",
@@ -9724,7 +9729,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "04_FithCrusade",
@@ -9732,7 +9737,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -10635,21 +10640,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9459,
+      "Progressed": 9461,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10677,
+      "Progressed": 10679,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-29T15:59:20.3300679+00:00",
-  "LastChanged_Achievements": "2023-07-30T05:02:31.9012906+00:00",
+  "LastChanged_Achievements": "2023-07-30T06:00:47.8086167+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-07-30T04:59:41.7405461+00:00",
-  "LastUpdate_Achievements": "2023-07-30T05:02:31.901486+00:00"
+  "LastUpdate_Ratings": "2023-07-30T05:58:50.6070297+00:00",
+  "LastUpdate_Achievements": "2023-07-30T06:00:47.808868+00:00"
 }

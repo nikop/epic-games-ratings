@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -400,9 +400,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7275,
+  "EOS_Progressed": 7277,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -6470,6 +6470,11 @@
       "Time": "2023-07-30T05:06:14.405545+00:00",
       "NumProgressed": 7275,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-30T06:05:03.7276274+00:00",
+      "NumProgressed": 7277,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -6481,7 +6486,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6038
+      "UsersEstimate": 6040
     },
     {
       "ID": "ACH02",
@@ -6553,7 +6558,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2037
+      "UsersEstimate": 2038
     },
     {
       "ID": "ACH11",
@@ -6712,7 +6717,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7275,
+      "Progressed": 7277,
       "Completed": 41
     }
   ],
@@ -6720,8 +6725,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-30T04:58:58.4167386+00:00",
-  "LastChanged_Achievements": "2023-07-30T05:06:14.4055444+00:00",
+  "LastChanged_Achievements": "2023-07-30T06:05:03.7276269+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:45.6186895+00:00",
-  "LastUpdate_Ratings": "2023-07-30T04:58:58.4167393+00:00",
-  "LastUpdate_Achievements": "2023-07-30T05:06:14.4056198+00:00"
+  "LastUpdate_Ratings": "2023-07-30T05:58:21.6069631+00:00",
+  "LastUpdate_Achievements": "2023-07-30T06:05:03.7276995+00:00"
 }

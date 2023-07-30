@@ -20,6 +20,7 @@ Rating: 4.41 (Ranked 675)
 | Meeting Resistance | 3.00% | ~101 |
 | Sharpshooter | 3.00% | ~101 |
 | Resourceful | 3.00% | ~101 |
+| Der Geist | 3.00% | ~101 |
 | As Quiet as a Mouse | 3.00% | ~101 |
 | Brains of the Operation | 3.00% | ~101 |
 | Opposing Force | 2.00% | ~67 |
@@ -32,7 +33,6 @@ Rating: 4.41 (Ranked 675)
 | My Little Friend | 2.00% | ~67 |
 | Explosive Efficiency | 2.00% | ~67 |
 | Die Nussknacker Sweet! | 2.00% | ~67 |
-| Der Geist | 2.00% | ~67 |
 | Close Quarters | 2.00% | ~67 |
 | Snake in the Grass | 2.00% | ~67 |
 | Enemy at the Gates | 1.00% | ~34 |
@@ -49,9 +49,9 @@ Rating: 4.41 (Ranked 675)
 | Sink or Swim | 0.70% | ~23 |
 | Souvenir hunter | 0.60% | ~20 |
 | Locomotion Commotion | 0.60% | ~20 |
+| Operation Foxley | 0.60% | ~20 |
 | Strategist | 0.50% | ~17 |
 | Eagle Eyed | 0.50% | ~17 |
-| Operation Foxley | 0.50% | ~17 |
 | Last Resort | 0.50% | ~17 |
 | Siegebreaker | 0.50% | ~17 |
 | Ghost of Falaise | 0.50% | ~17 |

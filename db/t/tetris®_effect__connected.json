@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2019-08-02T00:00:00+00:00",
     "PcReleaseDate": "2019-07-23T15:00:00+00:00",
@@ -517,11 +517,17 @@
       "Rating": 4.86,
       "NumberOfAwards": 285,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2023-07-30T05:58:14.8627239+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 286,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 285,
-  "NumberOfAwardsMax": 42,
+  "NumberOfAwards": 286,
+  "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -534,7 +540,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -602,8 +608,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2023-07-26T13:05:01.0369166+00:00",
+  "LastChanged": "2023-07-30T05:58:14.8627235+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:38.2197426+00:00",
-  "LastUpdate_Ratings": "2023-07-30T04:58:47.7180562+00:00",
-  "LastUpdate_Achievements": "2023-07-30T05:03:39.4784925+00:00"
+  "LastUpdate_Ratings": "2023-07-30T05:58:14.8627246+00:00",
+  "LastUpdate_Achievements": "2023-07-30T06:03:11.2433888+00:00"
 }

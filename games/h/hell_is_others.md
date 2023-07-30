@@ -1,17 +1,17 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.43 (Ranked 655)  
+Rating: 4.43 (Ranked 656)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~78,716 |
-| Predator I | 22.00% | ~55,863 |
-| Fixer I | 10.00% | ~25,392 |
-| A week in Century City | 10.00% | ~25,392 |
-| The Wait | 7.00% | ~17,774 |
-| Green thumb I | 6.00% | ~15,235 |
-| Cleaning Company | 6.00% | ~15,235 |
+| Survivor | 31.00% | ~78,717 |
+| Predator I | 22.00% | ~55,864 |
+| Fixer I | 10.00% | ~25,393 |
+| A week in Century City | 10.00% | ~25,393 |
+| The Wait | 7.00% | ~17,775 |
+| Green thumb I | 6.00% | ~15,236 |
+| Cleaning Company | 6.00% | ~15,236 |
 | Well-oiled machine | 5.00% | ~12,696 |
 | Saver I | 5.00% | ~12,696 |
 | The Ascent | 4.00% | ~10,157 |
@@ -19,14 +19,14 @@ Rating: 4.43 (Ranked 655)
 | Vandalism | 4.00% | ~10,157 |
 | Capitalist I | 4.00% | ~10,157 |
 | Adrenaline | 3.00% | ~7,618 |
-| By a hair | 2.00% | ~5,078 |
-| Fixer II | 2.00% | ~5,078 |
-| It took a while | 2.00% | ~5,078 |
-| Samurai | 2.00% | ~5,078 |
-| I Left You a Present | 2.00% | ~5,078 |
-| Predator II | 2.00% | ~5,078 |
-| Truffle Dog | 2.00% | ~5,078 |
-| A month in Century City | 2.00% | ~5,078 |
+| By a hair | 2.00% | ~5,079 |
+| Fixer II | 2.00% | ~5,079 |
+| It took a while | 2.00% | ~5,079 |
+| Samurai | 2.00% | ~5,079 |
+| I Left You a Present | 2.00% | ~5,079 |
+| Predator II | 2.00% | ~5,079 |
+| Truffle Dog | 2.00% | ~5,079 |
+| A month in Century City | 2.00% | ~5,079 |
 | The Strengthening | 1.00% | ~2,539 |
 | Saver II | 1.00% | ~2,539 |
 | It's the last one, I swear | 1.00% | ~2,539 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 655)
 | Capitalist III | 0.10% | ~254 |
 | Hell Is You | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,921 (Ranked 43)  
+Progressed: 253,926 (Ranked 43)  
 Completed: 3 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 3 (0.00%) (Ranked 246)
 | 2023-07-27 | 253,757 | 3 |
 | 2023-07-28 | 253,814 | 3 |
 | 2023-07-29 | 253,898 | 3 |
-| 2023-07-30 | 253,921 | 3 |
+| 2023-07-30 | 253,926 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 33  (Ranked 444)  
 Sum: 208 (Ranked 361)  

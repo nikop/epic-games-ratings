@@ -231,9 +231,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 197729,
+  "EOS_Progressed": 197731,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 651,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -10936,6 +10936,11 @@
       "Time": "2023-07-30T05:03:15.6598595+00:00",
       "NumProgressed": 197729,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-07-30T06:02:14.0098036+00:00",
+      "NumProgressed": 197731,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 29,
@@ -10971,7 +10976,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 185865
+      "UsersEstimate": 185867
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -11027,7 +11032,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9886
+      "UsersEstimate": 9887
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -11107,7 +11112,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9886
+      "UsersEstimate": 9887
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -11178,7 +11183,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 197729,
+      "Progressed": 197731,
       "Completed": 470
     }
   ],
@@ -11186,8 +11191,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-07-27T20:00:18.65769+00:00",
-  "LastChanged_Achievements": "2023-07-30T05:03:15.6598588+00:00",
+  "LastChanged_Achievements": "2023-07-30T06:02:14.0098031+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:42.5561818+00:00",
-  "LastUpdate_Ratings": "2023-07-30T05:00:16.7636134+00:00",
-  "LastUpdate_Achievements": "2023-07-30T05:03:15.6599734+00:00"
+  "LastUpdate_Ratings": "2023-07-30T05:59:14.4040019+00:00",
+  "LastUpdate_Achievements": "2023-07-30T06:02:14.0099568+00:00"
 }
