@@ -26,7 +26,7 @@ Rating: 4.46 (Ranked 612)
 | Going once, going twice, sold | 34.00% | ~582 |
 | Bull and bear | 33.00% | ~565 |
 | Stoker | 32.00% | ~548 |
-| Full Steam ahead | 31.00% | ~531 |
+| Full Steam ahead | 32.00% | ~548 |
 | Financial Shark | 30.00% | ~514 |
 | All mine | 29.00% | ~496 |
 | Mole | 29.00% | ~496 |

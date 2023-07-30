@@ -10,6 +10,7 @@ Rating: 4.60 (Ranked 390)
 | The Mysterious Stranger | 19.00% | ~153 |
 | The Prince in Heels | 17.00% | ~137 |
 | Immaculate Aim | 17.00% | ~137 |
+| The Brass Boss | 17.00% | ~137 |
 | The Steel Shadow | 16.00% | ~129 |
 | Make Up For Lost Time | 16.00% | ~129 |
 | Time Flies | 16.00% | ~129 |
@@ -17,7 +18,6 @@ Rating: 4.60 (Ranked 390)
 | Breaking Down Barriers | 16.00% | ~129 |
 | The Wicked Twins | 16.00% | ~129 |
 | Immaculate Aim | 16.00% | ~129 |
-| The Brass Boss | 16.00% | ~129 |
 | The Betrayer | 15.00% | ~121 |
 | The Man Who Shattered Time | 15.00% | ~121 |
 | The Loose Cannon | 15.00% | ~121 |
@@ -32,16 +32,16 @@ Rating: 4.60 (Ranked 390)
 | Check Your Pulse | 14.00% | ~113 |
 | Right On Time | 13.00% | ~105 |
 | Street Style | 13.00% | ~105 |
-| Whiz Kid | 11.00% | ~88 |
+| Whiz Kid | 11.00% | ~89 |
 | Chaincrawler Explorer | 10.00% | ~80 |
 | Good Neighbor | 10.00% | ~80 |
 | Family Memories | 9.00% | ~72 |
 | Sump Explorer | 9.00% | ~72 |
 | Theater Explorer | 9.00% | ~72 |
+| Ask Questions Later | 9.00% | ~72 |
 | Factorywood Explorer | 8.00% | ~64 |
 | Fairgrounds Explorer | 8.00% | ~64 |
 | Syron for Hope | 8.00% | ~64 |
-| Ask Questions Later | 8.00% | ~64 |
 | Cultivair Explorer | 7.00% | ~56 |
 | Entresol Explorer | 7.00% | ~56 |
 | Corin Goes Home | 6.00% | ~48 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 390)
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 804 (Ranked 201)  
+Progressed: 805 (Ranked 201)  
 Completed: 4 (0.50%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 4 (0.50%) (Ranked 136)
 | 2023-07-27 | 793 | 4 |
 | 2023-07-28 | 797 | 4 |
 | 2023-07-29 | 803 | 4 |
-| 2023-07-30 | 804 | 4 |
+| 2023-07-30 | 805 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

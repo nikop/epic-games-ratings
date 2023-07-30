@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2397,
+  "EOS_Progressed": 2399,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -2193,6 +2193,11 @@
       "Time": "2023-07-30T09:03:26.0544967+00:00",
       "NumProgressed": 2397,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-30T13:05:29.9845858+00:00",
+      "NumProgressed": 2399,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2300,14 +2305,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2397,
+      "Progressed": 2399,
       "Completed": 6
     }
   ],
@@ -2315,8 +2320,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-30T12:03:14.337276+00:00",
+  "LastChanged_Achievements": "2023-07-30T13:05:29.9845847+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:06.4701918+00:00",
-  "LastUpdate_Ratings": "2023-07-30T12:00:00.0220536+00:00",
-  "LastUpdate_Achievements": "2023-07-30T12:03:14.3372949+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:02:11.6394617+00:00",
+  "LastUpdate_Achievements": "2023-07-30T13:05:29.9846131+00:00"
 }

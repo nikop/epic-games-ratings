@@ -2,13 +2,13 @@
   "ID": "ea73c08ac633414584e281f838b3a78c",
   "Name": "Marvel\u0027s Midnight Suns",
   "ProductSlug": "marvels-midnight-suns",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 522,
   "Ranking_Popularity": 126,
   "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-12-02T05:00:00+00:00",
     "PcReleaseDate": "2022-12-02T05:00:00+00:00",
@@ -2920,6 +2920,6 @@
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
   "LastChanged": "2023-07-30T01:53:20.8748276+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:55.8931626+00:00",
-  "LastUpdate_Ratings": "2023-07-30T11:57:04.8248963+00:00",
-  "LastUpdate_Achievements": "2023-07-30T12:04:58.124597+00:00"
+  "LastUpdate_Ratings": "2023-07-30T12:59:45.064613+00:00",
+  "LastUpdate_Achievements": "2023-07-30T13:07:15.2708239+00:00"
 }

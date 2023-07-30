@@ -17,11 +17,11 @@ Number of Ratings: 371  (23.09.2022)
 | Surgical Excision | 0.60% | ~18 |
 | Friendly Fire | 0.60% | ~18 |
 | A Foul Creche | 0.60% | ~18 |
-| Honoured Battle-Brother | 0.40% | ~12 |
+| Honoured Battle-Brother | 0.50% | ~15 |
 | The Emperor Protects | 0.40% | ~12 |
+| Nemesis Master | 0.40% | ~12 |
 | Execution Force | 0.40% | ~12 |
 | Hold Your Ground | 0.30% | ~9 |
-| Nemesis Master | 0.30% | ~9 |
 | Gunmaster | 0.30% | ~9 |
 | Just a Scratch | 0.30% | ~9 |
 | Daemonkeeper | 0.20% | ~6 |

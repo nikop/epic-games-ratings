@@ -14,7 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 1.00% | ~1,833 |
 | Vecna Lives! | 0.90% | ~1,650 |
 | Rock and Roll | 0.90% | ~1,650 |
-| Flight of the Kindori Pod | 0.80% | ~1,466 |
+| Flight of the Kindori Pod | 0.80% | ~1,467 |
 | Tall Tales | 0.70% | ~1,283 |
 | Vecna Loots! | 0.70% | ~1,283 |
 | Topolah's Tower | 0.70% | ~1,283 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,030 (Ranked 53)  
+Progressed: 217,046 (Ranked 53)  
 Completed: 2,137 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,18 +620,18 @@ Completed: 2,137 (0.98%) (Ranked 112)
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
-| 2023-07-30 | 217,030 | 2,137 |
+| 2023-07-30 | 217,046 | 2,137 |
 ## Awards
 Max (Diverse Characters): 5,100  (Ranked 67)  
-Sum: 30,802 (Ranked 38)  
+Sum: 30,807 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,100 |
 | This game is Great for Beginners | 5,036 |
 | This game has Quickly Understood Controls | 4,689 |
-| This game is Relaxing | 4,581 |
-| This game has Amazing Characters | 4,041 |
+| This game is Relaxing | 4,583 |
+| This game has Amazing Characters | 4,044 |
 | This game is Highly Recommended | 4,025 |
 | This game has Playful Visuals | 3,330 |
 ## Ratings History
@@ -822,4 +822,4 @@ Diff (max vs sum): 29
 | 2023-07-27 | 4.05 | - | 5,084 | 30,753 |
 | 2023-07-28 | 4.05 | - | 5,093 | 30,775 |
 | 2023-07-29 | 4.05 | - | 5,100 | 30,800 |
-| 2023-07-30 | 4.05 | - | 5,100 | 30,802 |
+| 2023-07-30 | 4.05 | - | 5,100 | 30,807 |

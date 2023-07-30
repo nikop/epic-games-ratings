@@ -1,53 +1,53 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 602)  
+Rating: 4.47 (Ranked 601)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~366,561 |
-| Now You're Talking | 62.00% | ~324,668 |
-| Steel Yourself | 62.00% | ~324,668 |
-| Window Dressing | 50.00% | ~261,829 |
-| Trigger Happy | 46.00% | ~240,883 |
-| Riverborn | 45.00% | ~235,646 |
-| Starry Eyed | 34.00% | ~178,044 |
-| Poking Around | 34.00% | ~178,044 |
-| Talk of the Town | 24.00% | ~125,678 |
-| AAARR! | 23.00% | ~120,441 |
-| Hello Darkness | 23.00% | ~120,441 |
-| Wind At Our Backs | 22.00% | ~115,205 |
-| To the Beat | 20.00% | ~104,732 |
-| Sunny Shores | 17.00% | ~89,022 |
-| Sunday Best | 16.00% | ~83,785 |
-| To Victory! | 15.00% | ~78,549 |
-| Two of a Kind | 14.00% | ~73,312 |
-| Keep On Trucking | 13.00% | ~68,076 |
-| Going on an Adventure | 11.00% | ~57,602 |
-| Make Peace, Not War | 11.00% | ~57,602 |
-| Walking The Line | 10.00% | ~52,366 |
-| Not So Cute Anymore | 10.00% | ~52,366 |
-| Road Less Travelled | 9.00% | ~47,129 |
-| Lost and Found | 9.00% | ~47,129 |
-| Partner in Crime | 7.00% | ~36,656 |
-| Hard to Hear | 7.00% | ~36,656 |
-| Under the Radar | 7.00% | ~36,656 |
-| Moving On Up | 6.00% | ~31,419 |
-| Owl Knows Best | 6.00% | ~31,419 |
-| Mind the Moose | 6.00% | ~31,419 |
-| Dressed to Kill | 6.00% | ~31,419 |
-| Beast Mode | 6.00% | ~31,419 |
+| First Step | 70.00% | ~366,567 |
+| Now You're Talking | 62.00% | ~324,674 |
+| Steel Yourself | 62.00% | ~324,674 |
+| Window Dressing | 50.00% | ~261,834 |
+| Trigger Happy | 46.00% | ~240,887 |
+| Riverborn | 45.00% | ~235,650 |
+| Starry Eyed | 34.00% | ~178,047 |
+| Poking Around | 34.00% | ~178,047 |
+| Talk of the Town | 24.00% | ~125,680 |
+| AAARR! | 23.00% | ~120,443 |
+| Hello Darkness | 23.00% | ~120,443 |
+| Wind At Our Backs | 22.00% | ~115,207 |
+| To the Beat | 20.00% | ~104,733 |
+| Sunny Shores | 17.00% | ~89,023 |
+| Sunday Best | 16.00% | ~83,787 |
+| To Victory! | 15.00% | ~78,550 |
+| Two of a Kind | 14.00% | ~73,313 |
+| Keep On Trucking | 13.00% | ~68,077 |
+| Going on an Adventure | 11.00% | ~57,603 |
+| Make Peace, Not War | 11.00% | ~57,603 |
+| Walking The Line | 10.00% | ~52,367 |
+| Not So Cute Anymore | 10.00% | ~52,367 |
+| Road Less Travelled | 9.00% | ~47,130 |
+| Lost and Found | 9.00% | ~47,130 |
+| Partner in Crime | 7.00% | ~36,657 |
+| Hard to Hear | 7.00% | ~36,657 |
+| Under the Radar | 7.00% | ~36,657 |
+| Moving On Up | 6.00% | ~31,420 |
+| Owl Knows Best | 6.00% | ~31,420 |
+| Mind the Moose | 6.00% | ~31,420 |
+| Dressed to Kill | 6.00% | ~31,420 |
+| Beast Mode | 6.00% | ~31,420 |
 | Oh, Romeo! | 5.00% | ~26,183 |
 | Noble Intentions | 5.00% | ~26,183 |
 | Rising Star | 5.00% | ~26,183 |
 | Slime Slayer | 5.00% | ~26,183 |
-| Privacy, Please! | 4.00% | ~20,946 |
-| Silky Smooth | 4.00% | ~20,946 |
-| Hash It Over | 4.00% | ~20,946 |
-| Biting Tongue | 4.00% | ~20,946 |
-| What a Catch! | 4.00% | ~20,946 |
-| Hit the Spot | 4.00% | ~20,946 |
+| Privacy, Please! | 4.00% | ~20,947 |
+| Silky Smooth | 4.00% | ~20,947 |
+| Hash It Over | 4.00% | ~20,947 |
+| Biting Tongue | 4.00% | ~20,947 |
+| What a Catch! | 4.00% | ~20,947 |
+| Hit the Spot | 4.00% | ~20,947 |
 | Talk the Talk | 3.00% | ~15,710 |
 | Skin in the Game | 3.00% | ~15,710 |
 | Caving In | 3.00% | ~15,710 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,571 |
 | Point Taken | 0.10% | ~524 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523,658 (Ranked 30)  
+Progressed: 523,667 (Ranked 30)  
 Completed: 453 (0.09%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 453 (0.09%) (Ranked 196)
 | 2023-07-27 | 523,386 | 452 |
 | 2023-07-28 | 523,476 | 452 |
 | 2023-07-29 | 523,594 | 452 |
-| 2023-07-30 | 523,658 | 453 |
+| 2023-07-30 | 523,667 | 453 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

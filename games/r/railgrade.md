@@ -1,22 +1,22 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.55 (Ranked 482)  
+Rating: 4.55 (Ranked 481)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,965 |
-| Before the Downfall | 93.00% | ~17,997 |
-| Money like Water | 91.00% | ~17,610 |
-| Minimalist | 90.00% | ~17,417 |
-| Builder | 83.00% | ~16,062 |
-| Eraser | 70.00% | ~13,546 |
+| Trevithick's Legacy | 98.00% | ~18,966 |
+| Before the Downfall | 93.00% | ~17,998 |
+| Money like Water | 91.00% | ~17,611 |
+| Minimalist | 90.00% | ~17,418 |
+| Builder | 83.00% | ~16,063 |
+| Eraser | 70.00% | ~13,547 |
 | Pocket of Trains | 65.00% | ~12,579 |
 | Inspector | 59.00% | ~11,418 |
-| Going the Distance | 54.00% | ~10,450 |
+| Going the Distance | 54.00% | ~10,451 |
 | Oil Baron | 42.00% | ~8,128 |
 | Loads-a-Money | 42.00% | ~8,128 |
-| Helper of the People | 39.00% | ~7,547 |
+| Helper of the People | 39.00% | ~7,548 |
 | Simplification | 34.00% | ~6,580 |
 | Box of Trains | 33.00% | ~6,386 |
 | Let There be Light | 32.00% | ~6,193 |
@@ -26,7 +26,7 @@ Rating: 4.55 (Ranked 482)
 | Industrialist | 25.00% | ~4,838 |
 | Perfectionist | 23.00% | ~4,451 |
 | Trains over Pipes | 23.00% | ~4,451 |
-| 8K is Enough for Everyone | 22.00% | ~4,257 |
+| 8K is Enough for Everyone | 22.00% | ~4,258 |
 | Man of Steel | 17.00% | ~3,290 |
 | Room Full of Trains | 12.00% | ~2,322 |
 | Investor | 10.00% | ~1,935 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 482)
 | Overdeer | 0.50% | ~97 |
 | Cloud Services | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,352 (Ranked 107)  
+Progressed: 19,353 (Ranked 107)  
 Completed: 33 (0.17%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,6 +144,7 @@ Completed: 33 (0.17%) (Ranked 177)
 | 2023-07-27 | 19,336 | 33 |
 | 2023-07-28 | 19,341 | 33 |
 | 2023-07-29 | 19,352 | 33 |
+| 2023-07-30 | 19,353 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 351)  
 Sum: 655 (Ranked 282)  

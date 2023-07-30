@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting somewhere | 62.00% | ~23 |
-| Poor things... | 54.00% | ~20 |
+| Poor things... | 57.00% | ~21 |
 | So far so good... | 46.00% | ~17 |
 | Slay it! | 35.00% | ~13 |
 | Top notch! | 35.00% | ~13 |
@@ -20,7 +20,7 @@
 | Endurance test! | 5.00% | ~2 |
 | Are you still here? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37 (Ranked 370)  
+Progressed: 37 (Ranked 371)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |

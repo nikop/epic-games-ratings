@@ -7,14 +7,14 @@
 | Such a strange dream… | 87.00% | ~157 |
 | Your first fight | 86.00% | ~156 |
 | Good Person Chip | 85.00% | ~154 |
-| First winning | 83.00% | ~150 |
+| First winning | 84.00% | ~152 |
 | Your first job | 83.00% | ~150 |
 | Old movies enjoyer | 79.00% | ~143 |
 | First defeat | 78.00% | ~141 |
 | Fitness professional | 76.00% | ~138 |
 | Depressed visitor | 75.00% | ~136 |
+| Employee of the week | 75.00% | ~136 |
 | Neurotrainer – power gainer! | 74.00% | ~134 |
-| Employee of the week | 74.00% | ~134 |
 | Your own amateur gym | 72.00% | ~130 |
 | Run K, run! | 71.00% | ~129 |
 | No bullying more | 66.00% | ~119 |
@@ -24,27 +24,27 @@
 | Employee of the month | 60.00% | ~109 |
 | Spirit of the past | 59.00% | ~107 |
 | Law student | 58.00% | ~105 |
+| Intriguing candies | 56.00% | ~101 |
 | Workout professional | 55.00% | ~100 |
-| Intriguing candies | 55.00% | ~100 |
 | Little hacker | 54.00% | ~98 |
 | Champion – starter pack | 54.00% | ~98 |
 | It's good to be alive | 54.00% | ~98 |
 | Own four walls | 54.00% | ~98 |
 | Employee of the year | 54.00% | ~98 |
 | Handyman | 53.00% | ~96 |
-| Fight for life | 51.00% | ~92 |
+| Fight for life | 52.00% | ~94 |
 | Legal courier | 49.00% | ~89 |
 | Extreme neuropower! | 49.00% | ~89 |
 | Your own way | 48.00% | ~87 |
 | Escaped from a big trouble | 46.00% | ~83 |
 | Now you are worthy | 45.00% | ~81 |
-| No blades in the gym | 43.00% | ~78 |
-| Mysterious voice | 41.00% | ~74 |
-| Guiding on the right path | 41.00% | ~74 |
-| Fight is life | 40.00% | ~72 |
+| No blades in the gym | 44.00% | ~80 |
+| Guiding on the right path | 43.00% | ~78 |
+| Mysterious voice | 42.00% | ~76 |
+| Fight is life | 41.00% | ~74 |
+| Responsible approach | 36.00% | ~65 |
 | GYM professional | 35.00% | ~63 |
 | Get out of my apartment! | 35.00% | ~63 |
-| Responsible approach | 35.00% | ~63 |
 | Underground dwellers | 34.00% | ~62 |
 | Deal with life | 33.00% | ~60 |
 | Champion – no way back | 33.00% | ~60 |
@@ -53,9 +53,9 @@
 | The die is cast | 31.00% | ~56 |
 | Seashell hunter | 31.00% | ~56 |
 | Gang wrangler | 30.00% | ~54 |
+| Undercover robot | 30.00% | ~54 |
 | Problems of cyborgs | 29.00% | ~52 |
-| Undercover robot | 29.00% | ~52 |
-| The last bell ring | 28.00% | ~51 |
+| The last bell ring | 29.00% | ~52 |
 | Careerist | 28.00% | ~51 |
 | Trap disarmed | 27.00% | ~49 |
 | Not little hacker | 27.00% | ~49 |

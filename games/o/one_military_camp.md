@@ -8,7 +8,7 @@
 | First Step | 50.00% | ~56 |
 | Capitalism | 12.00% | ~13 |
 | Indebted | 11.00% | ~12 |
-| Desert Rat | 7.00% | ~8 |
+| Desert Rat | 8.00% | ~9 |
 | Green Energy | 6.00% | ~7 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~6 |
 | Health Care | 5.00% | ~6 |
@@ -17,11 +17,11 @@
 | Pathfinder | 5.00% | ~6 |
 | Ammo Tycoon | 5.00% | ~6 |
 | Great Producer | 5.00% | ~6 |
+| Outdoor Decorator | 4.00% | ~4 |
 | Desert Power | 4.00% | ~4 |
 | Self-sufficient | 4.00% | ~4 |
 | Medicine Tycoon | 4.00% | ~4 |
 | Perfect Soldier | 3.00% | ~3 |
-| Outdoor Decorator | 3.00% | ~3 |
 | Property Bro | 3.00% | ~3 |
 | Food Tycoon | 3.00% | ~3 |
 | Supersoldier | 2.00% | ~2 |

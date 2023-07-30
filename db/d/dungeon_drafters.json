@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 73,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
@@ -353,6 +353,11 @@
       "Time": "2023-07-30T10:04:17.5193656+00:00",
       "NumProgressed": 72,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T13:06:18.3497897+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -378,7 +383,7 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
       "UsersEstimate": 27
     },
@@ -386,7 +391,7 @@
       "ID": "InnkeeperQuestlineLast",
       "SetID": "3b8n56h",
       "Name": "Braving Miasma",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -418,7 +423,7 @@
       "ID": "MGR_complete",
       "SetID": "3b8n56h",
       "Name": "Ancient Nemesis",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -498,7 +503,7 @@
       "ID": "MasterWardenQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Uncut Gem",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -554,7 +559,7 @@
       "ID": "any_curio",
       "SetID": "3b8n56h",
       "Name": "Might be useful\u2026",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 100,
       "UsersEstimate": 27
     },
@@ -658,7 +663,7 @@
       "ID": "scavanger_curios",
       "SetID": "3b8n56h",
       "Name": "No Stone Unturned",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -683,7 +688,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 73,
       "Completed": 0
     }
   ],
@@ -691,8 +696,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-07-30T12:03:47.928142+00:00",
+  "LastChanged_Achievements": "2023-07-30T13:06:18.3497889+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:59.0527657+00:00",
-  "LastUpdate_Ratings": "2023-07-30T11:57:51.8841609+00:00",
-  "LastUpdate_Achievements": "2023-07-30T12:03:47.9281667+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:00:23.3170088+00:00",
+  "LastUpdate_Achievements": "2023-07-30T13:06:18.3498268+00:00"
 }

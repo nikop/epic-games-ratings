@@ -1,31 +1,31 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.94 (Ranked 935)  
+Rating: 3.93 (Ranked 937)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~52,275 |
-| First One’s Free | 65.00% | ~45,917 |
-| Neophyte Ninja | 50.00% | ~35,321 |
-| Too Old for This | 47.00% | ~33,202 |
-| Fancy Pants | 35.00% | ~24,725 |
-| Case Closed | 34.00% | ~24,018 |
-| King of the Hill | 34.00% | ~24,018 |
-| Underworld Initiate | 29.00% | ~20,486 |
-| Roid Ranger | 21.00% | ~14,835 |
-| True Player | 19.00% | ~13,422 |
-| Off the Rocks | 19.00% | ~13,422 |
-| Dragonslayer | 17.00% | ~12,009 |
+| Downed but Not Outed | 74.00% | ~52,278 |
+| First One’s Free | 65.00% | ~45,920 |
+| Neophyte Ninja | 50.00% | ~35,323 |
+| Too Old for This | 47.00% | ~33,204 |
+| Fancy Pants | 35.00% | ~24,726 |
+| Case Closed | 34.00% | ~24,020 |
+| King of the Hill | 34.00% | ~24,020 |
+| Underworld Initiate | 29.00% | ~20,487 |
+| Roid Ranger | 21.00% | ~14,836 |
+| True Player | 19.00% | ~13,423 |
+| Off the Rocks | 19.00% | ~13,423 |
+| Dragonslayer | 17.00% | ~12,010 |
 | Raider’s Ruin | 16.00% | ~11,303 |
-| Hidden Sonata | 13.00% | ~9,183 |
+| Hidden Sonata | 13.00% | ~9,184 |
 | Rockay Rex | 11.00% | ~7,771 |
-| Freebooter | 10.00% | ~7,064 |
+| Freebooter | 10.00% | ~7,065 |
 | Track Star | 9.00% | ~6,358 |
 | Classy Joint | 9.00% | ~6,358 |
-| I Like Trains | 8.00% | ~5,651 |
-| Headhunter | 8.00% | ~5,651 |
-| Ding Dong | 8.00% | ~5,651 |
+| I Like Trains | 8.00% | ~5,652 |
+| Headhunter | 8.00% | ~5,652 |
+| Ding Dong | 8.00% | ~5,652 |
 | Foo Finder | 7.00% | ~4,945 |
 | Legend Looter | 5.00% | ~3,532 |
 | Savvy Seeker | 5.00% | ~3,532 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 935)
 | Geek Out | 0.50% | ~353 |
 | Full House | 0.20% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,642 (Ranked 77)  
+Progressed: 70,646 (Ranked 77)  
 Completed: 36 (0.05%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,14 +144,14 @@ Completed: 36 (0.05%) (Ranked 211)
 | 2023-07-27 | 70,275 | 36 |
 | 2023-07-28 | 70,402 | 36 |
 | 2023-07-29 | 70,565 | 36 |
-| 2023-07-30 | 70,642 | 36 |
+| 2023-07-30 | 70,646 | 36 |
 ## Awards
-Max (Diverse Characters): 384  (Ranked 214)  
-Sum: 1,811 (Ranked 205)  
+Max (Diverse Characters): 385  (Ranked 214)  
+Sum: 1,812 (Ranked 205)  
 Diff (max vs sum): 9  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 384 |
+| This game has Diverse Characters | 385 |
 | This game has Quickly Understood Controls | 370 |
 | This game is Highly Recommended | 365 |
 | This game has Challenging Combat | 349 |
@@ -283,4 +283,4 @@ Diff (max vs sum): 9
 | 2023-07-27 | 3.93 | 382 | 1,793 |
 | 2023-07-28 | 3.93 | 384 | 1,801 |
 | 2023-07-29 | 3.94 | 384 | 1,806 |
-| 2023-07-30 | 3.94 | 384 | 1,811 |
+| 2023-07-30 | 3.94 | 385 | 1,812 |

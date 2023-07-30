@@ -5336,10 +5336,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30802,
       "NumberOfAwardsMax": 5100
+    },
+    {
+      "Time": "2023-07-30T13:01:12.8501396+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30807,
+      "NumberOfAwardsMax": 5100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30802,
+  "NumberOfAwards": 30807,
   "NumberOfAwardsMax": 5100,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5365,7 +5371,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4581
+      "Count": 4583
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5377,7 +5383,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4041
+      "Count": 4044
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5386,9 +5392,9 @@
       "Count": 3330
     }
   ],
-  "EOS_Progressed": 217030,
+  "EOS_Progressed": 217046,
   "EOS_Completed": 2137,
-  "EOS_NewPlayers": 2220,
+  "EOS_NewPlayers": 2214,
   "EOS_NewCompleters": 77,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16236,6 +16242,11 @@
       "Time": "2023-07-30T12:03:50.7494977+00:00",
       "NumProgressed": 217030,
       "NumCompleted": 2137
+    },
+    {
+      "Time": "2023-07-30T13:06:21.181406+00:00",
+      "NumProgressed": 217046,
+      "NumCompleted": 2137
     }
   ],
   "TotalAchievements": 512,
@@ -20303,7 +20314,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "objective_completed_1386",
@@ -20342,21 +20353,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183304,
+      "Progressed": 183320,
       "Completed": 3028
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217030,
+      "Progressed": 217046,
       "Completed": 2137
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-30T09:58:58.3221475+00:00",
-  "LastChanged_Achievements": "2023-07-30T12:03:50.7494972+00:00",
+  "LastChanged": "2023-07-30T13:01:12.8501394+00:00",
+  "LastChanged_Achievements": "2023-07-30T13:06:21.1814052+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-30T11:58:48.2321438+00:00",
-  "LastUpdate_Achievements": "2023-07-30T12:03:50.7517856+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:01:12.8501408+00:00",
+  "LastUpdate_Achievements": "2023-07-30T13:06:21.184233+00:00"
 }

@@ -2,20 +2,20 @@
   "ID": "0dc18227b3f14162968d8e7969e454ef",
   "Name": "DAEMON X MACHINA",
   "ProductSlug": "daemon-x-machina",
-  "Ranking_Rating": 695,
+  "Ranking_Rating": 704,
   "Ranking_Popularity": 142,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-01-27T16:00:00+00:00",
     "PcReleaseDate": "2022-01-27T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.4,
+  "Rating": 4.39,
   "NumberOfRatings": 2096,
   "RatingHistory": [
     {
@@ -1485,6 +1485,12 @@
       "Rating": 4.4,
       "NumberOfAwards": 1468,
       "NumberOfAwardsMax": 1013
+    },
+    {
+      "Time": "2023-07-30T13:01:10.5920504+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 1468,
+      "NumberOfAwardsMax": 1013
     }
   ],
   "ReviewsDisabled": false,
@@ -1564,8 +1570,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:03.7612115+00:00",
-  "LastChanged": "2023-07-29T13:00:34.5568243+00:00",
+  "LastChanged": "2023-07-30T13:01:10.5920478+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:59.5275648+00:00",
-  "LastUpdate_Ratings": "2023-07-30T11:58:46.1523844+00:00",
-  "LastUpdate_Achievements": "2023-07-30T12:05:52.4258941+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:01:10.592051+00:00",
+  "LastUpdate_Achievements": "2023-07-30T13:08:00.4944002+00:00"
 }

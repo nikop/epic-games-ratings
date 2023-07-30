@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -2311,9 +2311,9 @@
       "ID": "ACH_SHOVEL_NIGHT",
       "SetID": "4kfb9pd",
       "Name": "Shovel Night",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 957
+      "UsersEstimate": 983
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -2344,8 +2344,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-30T12:05:29.881177+00:00",
+  "LastChanged_Achievements": "2023-07-30T13:07:41.3919376+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.70294+00:00",
-  "LastUpdate_Ratings": "2023-07-30T12:01:04.5634273+00:00",
-  "LastUpdate_Achievements": "2023-07-30T12:05:29.8811965+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:03:07.0705504+00:00",
+  "LastUpdate_Achievements": "2023-07-30T13:07:41.391963+00:00"
 }

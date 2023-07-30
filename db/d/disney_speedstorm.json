@@ -3990,9 +3990,9 @@
       "ID": "20",
       "SetID": "9p3jgda",
       "Name": "PROTECTED",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 940
+      "UsersEstimate": 970
     },
     {
       "ID": "21",
@@ -4092,8 +4092,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-30T12:06:28.386642+00:00",
+  "LastChanged_Achievements": "2023-07-30T13:08:30.0697974+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:49.7326864+00:00",
-  "LastUpdate_Ratings": "2023-07-30T11:59:40.0666988+00:00",
-  "LastUpdate_Achievements": "2023-07-30T12:06:28.386673+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:01:56.2666371+00:00",
+  "LastUpdate_Achievements": "2023-07-30T13:08:30.0698445+00:00"
 }

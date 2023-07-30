@@ -12,6 +12,7 @@ Rating: 4.87 (Ranked 24)
 | Thanks for the free chip, Peppermint! | 4.00% | ~145 |
 | Who put gears in there? | 4.00% | ~145 |
 | This will cost you big time | 3.00% | ~109 |
+| Time to pay up! | 3.00% | ~109 |
 | I play my own way! | 3.00% | ~109 |
 | Whoa! There's ANOTHER health bar!? | 3.00% | ~109 |
 | You got this, Peppermint? | 3.00% | ~109 |
@@ -20,17 +21,16 @@ Rating: 4.87 (Ranked 24)
 | Uh, they were broken when I got here | 3.00% | ~109 |
 | Kissing the sky! | 3.00% | ~109 |
 | Alright, that felt AWESOME! | 3.00% | ~109 |
+| Does that say weakpoint? | 3.00% | ~109 |
 | NOW we got a kickass hideout! | 3.00% | ~65 |
 | The Negotiator | 2.00% | ~73 |
 | Headliner | 2.00% | ~73 |
-| Time to pay up! | 2.00% | ~73 |
 | Who's the boss now? | 2.00% | ~73 |
 | I have to read these things? | 2.00% | ~73 |
 | You must like calling me in, Chai | 2.00% | ~73 |
 | Out in a puff of smoke | 2.00% | ~73 |
 | Perfecter Parry-er! | 2.00% | ~73 |
 | I look cool. But I can look COOLER. | 2.00% | ~73 |
-| Does that say weakpoint? | 2.00% | ~73 |
 | Well that was a rush! | 1.00% | ~36 |
 | Beat-hit mania | 1.00% | ~36 |
 | That's a lot of junk metal… | 1.00% | ~36 |

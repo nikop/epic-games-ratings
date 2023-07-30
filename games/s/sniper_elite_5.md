@@ -41,10 +41,10 @@ Rating: 4.42 (Ranked 664)
 | Tinkerer | 1.00% | ~34 |
 | Road Rage | 0.90% | ~30 |
 | Herr Today, Gone Tomorrow | 0.90% | ~30 |
+| It'll Buff Right Out | 0.80% | ~27 |
 | Don't hold your breath | 0.80% | ~27 |
 | From Paris with Love | 0.70% | ~24 |
 | Burn after reading | 0.70% | ~24 |
-| It'll Buff Right Out | 0.70% | ~24 |
 | Shipbreaker | 0.70% | ~23 |
 | Sink or Swim | 0.70% | ~23 |
 | Souvenir hunter | 0.60% | ~20 |

@@ -6,35 +6,35 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~34,726 |
-| I read Shakespeare and stuff | 64.00% | ~29,633 |
-| Just a sprinkle | 63.00% | ~29,170 |
-| I'm stumped | 61.00% | ~28,244 |
-| Plant get enough | 60.00% | ~27,781 |
-| This is just my weekend vehicle | 58.00% | ~26,855 |
-| It's just the beginning | 58.00% | ~26,855 |
-| Hard work pays off | 53.00% | ~24,540 |
-| It's never too late to farm | 48.00% | ~22,225 |
-| All out of Land | 44.00% | ~20,373 |
-| Field Trip | 43.00% | ~19,910 |
-| I like to switch it up | 40.00% | ~18,521 |
-| Help me to help you | 38.00% | ~17,595 |
-| Ultimutt Pawesomeness | 28.00% | ~12,965 |
-| Van Gogh | 26.00% | ~12,039 |
-| You wood not believe it | 21.00% | ~9,723 |
-| Vehicle fleet | 21.00% | ~9,723 |
-| The plot thickens | 16.00% | ~7,408 |
-| Well-Oiled Machine | 16.00% | ~7,408 |
-| Long haul | 16.00% | ~7,408 |
-| Clucky Streak | 15.00% | ~6,945 |
-| Large-scale supplier | 15.00% | ~6,945 |
-| That's a wrap | 14.00% | ~6,482 |
-| Fix me up | 13.00% | ~6,019 |
-| Rock on | 12.00% | ~5,556 |
-| It's sow easy | 11.00% | ~5,093 |
-| Highly cultivated | 10.00% | ~4,630 |
-| Giddy-up! | 10.00% | ~4,630 |
-| Cowherd | 7.00% | ~3,241 |
+| Own use | 75.00% | ~34,731 |
+| I read Shakespeare and stuff | 64.00% | ~29,637 |
+| Just a sprinkle | 63.00% | ~29,174 |
+| I'm stumped | 61.00% | ~28,248 |
+| Plant get enough | 60.00% | ~27,785 |
+| This is just my weekend vehicle | 58.00% | ~26,859 |
+| It's just the beginning | 58.00% | ~26,859 |
+| Hard work pays off | 53.00% | ~24,543 |
+| It's never too late to farm | 48.00% | ~22,228 |
+| All out of Land | 44.00% | ~20,376 |
+| Field Trip | 43.00% | ~19,912 |
+| I like to switch it up | 40.00% | ~18,523 |
+| Help me to help you | 38.00% | ~17,597 |
+| Ultimutt Pawesomeness | 28.00% | ~12,966 |
+| Van Gogh | 26.00% | ~12,040 |
+| You wood not believe it | 21.00% | ~9,725 |
+| Vehicle fleet | 21.00% | ~9,725 |
+| The plot thickens | 16.00% | ~7,409 |
+| Well-Oiled Machine | 16.00% | ~7,409 |
+| Long haul | 16.00% | ~7,409 |
+| Clucky Streak | 15.00% | ~6,946 |
+| Large-scale supplier | 15.00% | ~6,946 |
+| That's a wrap | 14.00% | ~6,483 |
+| Fix me up | 13.00% | ~6,020 |
+| Rock on | 12.00% | ~5,557 |
+| It's sow easy | 11.00% | ~5,094 |
+| Highly cultivated | 10.00% | ~4,631 |
+| Giddy-up! | 10.00% | ~4,631 |
+| Cowherd | 7.00% | ~3,242 |
 | Fluffyness | 6.00% | ~2,778 |
 | Helper A does not stop … ever | 6.00% | ~2,778 |
 | Bringing in the Honey | 6.00% | ~2,778 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~185 |
 | Raisin the stakes | 0.30% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,302 (Ranked 90)  
+Progressed: 46,308 (Ranked 90)  
 Completed: 5 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,19 +151,19 @@ Completed: 5 (0.01%) (Ranked 234)
 | 2023-07-27 | 46,159 | 5 |
 | 2023-07-28 | 46,220 | 5 |
 | 2023-07-29 | 46,278 | 5 |
-| 2023-07-30 | 46,302 | 5 |
+| 2023-07-30 | 46,308 | 5 |
 ## Awards
-Max (Great for Beginners): 4,621  (Ranked 71)  
-Sum: 38,584 (Ranked 31)  
+Max (Great for Beginners): 4,630  (Ranked 71)  
+Sum: 38,596 (Ranked 31)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,621 |
+| This game is Great for Beginners | 4,630 |
 | This game is Relaxing | 4,041 |
 | This game is Educational | 4,024 |
 | This game has Quickly Understood Controls | 3,976 |
 | This game has Diverse Characters | 3,900 |
-| This game is Extremely Fun | 3,856 |
+| This game is Extremely Fun | 3,859 |
 | This game is Highly Recommended | 3,853 |
 | This game has Amazing Storytelling | 3,742 |
 | This game has Amazing Characters | 3,371 |
@@ -367,4 +367,4 @@ Diff (max vs sum): 40
 | 2023-07-27 | 4.69 | - | 4,614 | 38,498 |
 | 2023-07-28 | 4.69 | - | 4,614 | 38,521 |
 | 2023-07-29 | 4.69 | - | 4,621 | 38,560 |
-| 2023-07-30 | 4.69 | - | 4,621 | 38,584 |
+| 2023-07-30 | 4.69 | - | 4,630 | 38,596 |

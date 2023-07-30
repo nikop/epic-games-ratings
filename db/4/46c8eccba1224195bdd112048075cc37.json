@@ -4,8 +4,8 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
     "PcReleaseDate": "2022-09-19T02:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 108,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -612,9 +612,9 @@
       "ID": "MonsterSlayer",
       "SetID": "7g1kpc8",
       "Name": "Monster Slayer",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Persistence",
@@ -628,9 +628,9 @@
       "ID": "ReturnShell",
       "SetID": "7g1kpc8",
       "Name": "Detective",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "SecondBoss",
@@ -667,8 +667,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-07-30T12:05:29.4413487+00:00",
+  "LastChanged_Achievements": "2023-07-30T13:07:41.0640264+00:00",
   "LastUpdate_AppInfo": "2023-07-24T09:57:05.3327681+00:00",
-  "LastUpdate_Ratings": "2023-07-30T11:57:41.9231189+00:00",
-  "LastUpdate_Achievements": "2023-07-30T12:05:29.4413633+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:00:16.1564458+00:00",
+  "LastUpdate_Achievements": "2023-07-30T13:07:41.064049+00:00"
 }

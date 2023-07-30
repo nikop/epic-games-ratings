@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -374,7 +374,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16569,
+  "EOS_Progressed": 16573,
   "EOS_Completed": 344,
   "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 13,
@@ -11014,6 +11014,11 @@
       "Time": "2023-07-30T12:04:43.430752+00:00",
       "NumProgressed": 16569,
       "NumCompleted": 344
+    },
+    {
+      "Time": "2023-07-30T13:07:02.9770715+00:00",
+      "NumProgressed": 16573,
+      "NumCompleted": 344
     }
   ],
   "TotalAchievements": 20,
@@ -11049,7 +11054,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -11057,7 +11062,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -11081,7 +11086,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -11089,7 +11094,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2485
+      "UsersEstimate": 2486
     },
     {
       "ID": "FOUND_ERIN",
@@ -11097,7 +11102,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -11137,7 +11142,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "INTRO_FINISHED",
@@ -11145,7 +11150,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12592
+      "UsersEstimate": 12595
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -11153,7 +11158,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4639
+      "UsersEstimate": 4640
     },
     {
       "ID": "NORTH_FINISHED",
@@ -11177,22 +11182,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3148
+      "UsersEstimate": 3149
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 16569,
+      "Progressed": 16573,
       "Completed": 344
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-30T12:04:43.4307515+00:00",
+  "LastChanged_Achievements": "2023-07-30T13:07:02.9770704+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:59.0842389+00:00",
-  "LastUpdate_Ratings": "2023-07-30T12:00:50.9280016+00:00",
-  "LastUpdate_Achievements": "2023-07-30T12:04:43.4308123+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:02:56.3026205+00:00",
+  "LastUpdate_Achievements": "2023-07-30T13:07:02.9771547+00:00"
 }

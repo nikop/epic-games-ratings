@@ -3,7 +3,7 @@
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 656,
-  "Ranking_Popularity": 445,
+  "Ranking_Popularity": 440,
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 246,
@@ -710,18 +710,24 @@
       "Rating": 4.43,
       "NumberOfAwards": 208,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-07-30T13:03:08.3579995+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 209,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 208,
-  "NumberOfAwardsMax": 33,
+  "NumberOfAwards": 209,
+  "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Unique Visuals",
@@ -766,9 +772,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 253942,
+  "EOS_Progressed": 253945,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11046,6 +11052,11 @@
       "Time": "2023-07-30T12:06:25.2060858+00:00",
       "NumProgressed": 253942,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-30T13:08:27.8834436+00:00",
+      "NumProgressed": 253945,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -11105,7 +11116,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78722
+      "UsersEstimate": 78723
     },
     {
       "ID": "BackHomeNTimes",
@@ -11345,7 +11356,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55867
+      "UsersEstimate": 55868
     },
     {
       "ID": "KillOthers2",
@@ -11504,16 +11515,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 253942,
+      "Progressed": 253945,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-07-29T10:00:56.3877093+00:00",
-  "LastChanged_Achievements": "2023-07-30T12:06:25.2060853+00:00",
+  "LastChanged": "2023-07-30T13:03:08.3579992+00:00",
+  "LastChanged_Achievements": "2023-07-30T13:08:27.8834423+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:16.1144116+00:00",
-  "LastUpdate_Ratings": "2023-07-30T12:01:06.300467+00:00",
-  "LastUpdate_Achievements": "2023-07-30T12:06:25.2061713+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:03:08.358+00:00",
+  "LastUpdate_Achievements": "2023-07-30T13:08:27.8835613+00:00"
 }

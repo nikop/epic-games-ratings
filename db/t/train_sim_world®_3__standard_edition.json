@@ -2,13 +2,13 @@
   "ID": "a64d4c5460384218b17de5bd785085f8",
   "Name": "Train Sim World\u00AE 3: Standard Edition",
   "ProductSlug": "train-sim-world-3",
-  "Ranking_Rating": 482,
+  "Ranking_Rating": 481,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -2119,10 +2119,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 2338,
       "NumberOfAwardsMax": 320
+    },
+    {
+      "Time": "2023-07-30T13:02:11.5146328+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 2341,
+      "NumberOfAwardsMax": 320
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2338,
+  "NumberOfAwards": 2341,
   "NumberOfAwardsMax": 320,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2190,7 +2196,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 158
+      "Count": 161
     },
     {
       "Text": "This game has a Creative Community",
@@ -2211,8 +2217,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-06T15:30:57.6812817+00:00",
   "FirstSeenRating": "2022-09-07T06:00:21.7269742+00:00",
-  "LastChanged": "2023-07-30T10:00:09.3934456+00:00",
+  "LastChanged": "2023-07-30T13:02:11.5146327+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:06.2216389+00:00",
-  "LastUpdate_Ratings": "2023-07-30T11:59:59.8538436+00:00",
-  "LastUpdate_Achievements": "2023-07-30T12:06:14.3617052+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:02:11.5146334+00:00",
+  "LastUpdate_Achievements": "2023-07-30T13:08:18.9038349+00:00"
 }

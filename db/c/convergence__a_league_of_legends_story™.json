@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 804,
+  "EOS_Progressed": 805,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -1855,6 +1855,11 @@
       "Time": "2023-07-30T10:04:47.4566677+00:00",
       "NumProgressed": 804,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-30T13:06:42.1357389+00:00",
+      "NumProgressed": 805,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -2018,7 +2023,7 @@
       "Name": "Whiz Kid",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "GrindingTime1",
@@ -2256,9 +2261,9 @@
       "ID": "WatcherFought",
       "SetID": "a9e499d",
       "Name": "Ask Questions Later",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 72
     },
     {
       "ID": "WatcherSpared",
@@ -2272,9 +2277,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 137
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2289,7 +2294,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 804,
+      "Progressed": 805,
       "Completed": 4
     }
   ],
@@ -2297,8 +2302,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-07-30T12:04:16.8182054+00:00",
+  "LastChanged_Achievements": "2023-07-30T13:06:42.1357381+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.2379789+00:00",
-  "LastUpdate_Ratings": "2023-07-30T12:00:04.7533738+00:00",
-  "LastUpdate_Achievements": "2023-07-30T12:04:16.8182547+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:02:15.9350933+00:00",
+  "LastUpdate_Achievements": "2023-07-30T13:06:42.1358027+00:00"
 }

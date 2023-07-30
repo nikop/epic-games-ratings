@@ -35,6 +35,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 0.60% | ~79 |
 | Warrior | 0.60% | ~79 |
 | Developing Cities | 0.60% | ~79 |
+| Lighthouse | 0.60% | ~79 |
 | Pyramids | 0.60% | ~79 |
 | Christianity | 0.60% | ~79 |
 | Babylonian Paganism | 0.60% | ~79 |
@@ -49,7 +50,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.50% | ~66 |
 | Great Ziggurat | 0.50% | ~66 |
 | Ishtar Gate | 0.50% | ~66 |
-| Lighthouse | 0.50% | ~66 |
 | Necropolis | 0.50% | ~66 |
 | Learn to Play 1 | 0.50% | ~66 |
 | Carthaginian Paganism | 0.50% | ~66 |

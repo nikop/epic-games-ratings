@@ -27,7 +27,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Get the crews to their fighters'' | 18.00% | ~8,997 |
 | ''Raw, untamed power'' | 8.00% | ~3,999 |
 | Rishi Maze | 5.00% | ~2,499 |
-| ''Only one business in the Galaxy...'' | 4.00% | ~1,999 |
+| ''Only one business in the Galaxy...'' | 5.00% | ~2,499 |
 | ''You may fire when ready'' | 3.00% | ~1,500 |
 | ''What have you done with those plans?'' | 3.00% | ~1,500 |
 | ''GONK!'' | 3.00% | ~1,500 |

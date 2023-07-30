@@ -1,19 +1,19 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 482)  
+Rating: 4.55 (Ranked 481)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Venture Outward | 75.00% | ~2,392 |
-| Ready for Winter | 64.00% | ~2,041 |
-| Ready for Summer | 51.00% | ~1,626 |
-| Cordon Bleu | 43.00% | ~1,371 |
+| Ready for Winter | 64.00% | ~2,042 |
+| Ready for Summer | 51.00% | ~1,627 |
+| Cordon Bleu | 43.00% | ~1,372 |
 | Tapped! | 36.00% | ~1,148 |
-| Eureka | 32.00% | ~1,020 |
-| Scourge Slayer | 25.00% | ~797 |
-| Science, Troglodyte! | 23.00% | ~733 |
+| Eureka | 32.00% | ~1,021 |
+| Scourge Slayer | 25.00% | ~798 |
+| Science, Troglodyte! | 23.00% | ~734 |
 | Exceptional Skill | 22.00% | ~702 |
 | Home Sweet Home | 22.00% | ~702 |
 | Encyclopedic! | 19.00% | ~606 |
@@ -31,7 +31,7 @@ Number of Ratings: 266  (23.09.2022)
 | The power of ambition | 7.00% | ~223 |
 | Hold my Mead and Watch This | 6.00% | ~191 |
 | The stuff of legends. | 6.00% | ~191 |
-| Blood and justice | 5.00% | ~159 |
+| Blood and justice | 5.00% | ~160 |
 | Ancestor's Pride | 4.00% | ~128 |
 | For All Aurai | 4.00% | ~128 |
 | Memory of a legend | 4.00% | ~128 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,189 (Ranked 151)  
+Progressed: 3,190 (Ranked 151)  
 Completed: 3 (0.09%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,11 +147,11 @@ Completed: 3 (0.09%) (Ranked 196)
 | 2023-07-27 | 3,148 | 3 |
 | 2023-07-28 | 3,170 | 3 |
 | 2023-07-29 | 3,182 | 3 |
-| 2023-07-30 | 3,189 | 3 |
+| 2023-07-30 | 3,190 | 3 |
 ## Awards
-Max (Highly Recommended): 33  (Ranked 445)  
+Max (Highly Recommended): 33  (Ranked 446)  
 Sum: 241 (Ranked 351)  
-Diff (max vs sum): 94  
+Diff (max vs sum): 95  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 33 |

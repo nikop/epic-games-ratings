@@ -5,27 +5,27 @@ Rating: 4.73 (Ranked 160)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~11,435 |
+| Under a New Sun | 92.00% | ~11,436 |
 | Newcomers | 78.00% | ~9,695 |
-| A Burden of Blood | 73.00% | ~9,073 |
-| Protector's Duty | 69.00% | ~8,576 |
-| In our Wake | 67.00% | ~8,327 |
-| Alchemist | 67.00% | ~8,327 |
+| A Burden of Blood | 73.00% | ~9,074 |
+| Protector's Duty | 69.00% | ~8,577 |
+| Alchemist | 68.00% | ~8,452 |
+| In our Wake | 67.00% | ~8,328 |
 | Leaving all Behind | 64.00% | ~7,955 |
 | Felons | 61.00% | ~7,582 |
-| A Sea of Promises | 59.00% | ~7,333 |
-| Tales and Revelations | 56.00% | ~6,960 |
-| Bloodline | 52.00% | ~6,463 |
+| A Sea of Promises | 59.00% | ~7,334 |
+| Tales and Revelations | 56.00% | ~6,961 |
+| Bloodline | 52.00% | ~6,464 |
 | The Cradle of Centuries | 48.00% | ~5,966 |
-| The Life We Deserve | 45.00% | ~5,593 |
-| Night guard | 42.00% | ~5,220 |
+| The Life We Deserve | 45.00% | ~5,594 |
+| Night guard | 42.00% | ~5,221 |
 | Nothing Left | 38.00% | ~4,723 |
-| Healing our Wounds | 36.00% | ~4,474 |
+| Healing our Wounds | 36.00% | ~4,475 |
 | Dying Sun | 33.00% | ~4,102 |
 | Improved crossbow | 26.00% | ~3,232 |
 | King Hugo | 24.00% | ~2,983 |
 | Mercy | 23.00% | ~2,859 |
-| Perfect shot | 22.00% | ~2,734 |
+| Perfect shot | 22.00% | ~2,735 |
 | Effective instruments | 21.00% | ~2,610 |
 | Perfect throw | 21.00% | ~2,610 |
 | Knights! | 20.00% | ~2,486 |
@@ -34,14 +34,14 @@ Rating: 4.73 (Ranked 160)
 | Pocket laboratory | 11.00% | ~1,367 |
 | Herbalist | 7.00% | ~870 |
 | Fighter | 7.00% | ~870 |
-| Ornithologist | 5.00% | ~621 |
+| Ornithologist | 5.00% | ~622 |
 | Immortal memories | 4.00% | ~497 |
 | Sneaky | 4.00% | ~497 |
 | Old protector | 2.00% | ~249 |
 | Explorer | 1.00% | ~124 |
 | Malignant | 1.00% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,429 (Ranked 118)  
+Progressed: 12,430 (Ranked 118)  
 Completed: 39 (0.31%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 39 (0.31%) (Ranked 154)
 | 2023-07-27 | 12,337 | 38 |
 | 2023-07-28 | 12,370 | 38 |
 | 2023-07-29 | 12,408 | 39 |
-| 2023-07-30 | 12,429 | 39 |
+| 2023-07-30 | 12,430 | 39 |
 ## Awards
 Max (Great Boss Battles): 410  (Ranked 208)  
 Sum: 628 (Ranked 289)  

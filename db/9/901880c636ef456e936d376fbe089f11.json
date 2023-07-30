@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -296,9 +296,9 @@
       "ID": "ACH_40075_KM",
       "SetID": "8h8m55b",
       "Name": "40,075Km",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_50_DRINK_CHALLENGEMODE",
@@ -424,9 +424,9 @@
       "ID": "ACH_FIRSTLOVE",
       "SetID": "8h8m55b",
       "Name": "First Love",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_FIVE_STARS",
@@ -456,17 +456,17 @@
       "ID": "ACH_GUEST_OF_HONOR",
       "SetID": "8h8m55b",
       "Name": "Guest of Honor",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_HARDBOILED_ADVICE",
       "SetID": "8h8m55b",
       "Name": "A Hardboiled Advice",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_HOW_I_MET_YOUR_ANCESTOR",
@@ -480,17 +480,17 @@
       "ID": "ACH_HYDE_LEIBOVITZ",
       "SetID": "8h8m55b",
       "Name": "Hyde Leibovitz",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_JUST_MARRIED",
       "SetID": "8h8m55b",
       "Name": "Just Married",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_LISTEN_ALL_SONG",
@@ -608,9 +608,9 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -711,8 +711,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-07-30T12:06:14.2385046+00:00",
+  "LastChanged_Achievements": "2023-07-30T13:08:18.9028544+00:00",
   "LastUpdate_AppInfo": "2023-07-25T07:57:00.5780393+00:00",
-  "LastUpdate_Ratings": "2023-07-30T11:57:28.0930962+00:00",
-  "LastUpdate_Achievements": "2023-07-30T12:06:14.2385446+00:00"
+  "LastUpdate_Ratings": "2023-07-30T13:00:04.6960315+00:00",
+  "LastUpdate_Achievements": "2023-07-30T13:08:18.9029022+00:00"
 }
