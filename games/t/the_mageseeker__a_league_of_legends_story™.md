@@ -45,7 +45,7 @@ Rating: 4.81 (Ranked 77)
 | Cloven Dell Headquarters | 14.00% | ~347 |
 | Embrace the darkness | 12.00% | ~297 |
 | Whispers in the Woods IV | 12.00% | ~297 |
-| I smell fear | 11.00% | ~272 |
+| I smell fear | 12.00% | ~297 |
 | The end of the experiments | 11.00% | ~272 |
 | The Great City of Demacia | 11.00% | ~272 |
 | Call it 'redistribution of magic | 11.00% | ~272 |

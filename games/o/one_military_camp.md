@@ -10,13 +10,13 @@
 | Indebted | 10.00% | ~11 |
 | Desert Rat | 7.00% | ~8 |
 | Green Energy | 6.00% | ~7 |
+| Jantine: the Misfortunes of Evil | 5.00% | ~6 |
 | Health Care | 5.00% | ~6 |
 | There's something in those trees | 5.00% | ~6 |
 | Good payer | 5.00% | ~6 |
 | Pathfinder | 5.00% | ~6 |
 | Ammo Tycoon | 5.00% | ~6 |
 | Great Producer | 5.00% | ~6 |
-| Jantine: the Misfortunes of Evil | 4.00% | ~4 |
 | Desert Power | 4.00% | ~4 |
 | Self-sufficient | 4.00% | ~4 |
 | Medicine Tycoon | 4.00% | ~4 |

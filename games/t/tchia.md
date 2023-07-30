@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In a Pinch | 20.00% | ~1,373 |
+| In a Pinch | 21.00% | ~1,442 |
 | Energy Saver | 17.00% | ~1,167 |
 | The Journey Onwards | 13.00% | ~892 |
 | Body and Soul | 11.00% | ~755 |

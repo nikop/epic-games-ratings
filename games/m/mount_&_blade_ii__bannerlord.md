@@ -6,27 +6,27 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 37.00% | ~21,252 |
-| Landlord | 31.00% | ~17,806 |
-| Bannerlord | 22.00% | ~12,636 |
-| Horde breaker | 22.00% | ~12,636 |
-| Lawmaker | 22.00% | ~12,636 |
-| Trained | 22.00% | ~12,636 |
-| The king is pleased | 17.00% | ~9,764 |
-| King Solomon | 16.00% | ~9,190 |
-| I can do it | 15.00% | ~8,616 |
-| Apple of my eye | 14.00% | ~8,041 |
+| Lawbringer | 37.00% | ~21,255 |
+| Landlord | 31.00% | ~17,808 |
+| Bannerlord | 22.00% | ~12,638 |
+| Horde breaker | 22.00% | ~12,638 |
+| Lawmaker | 22.00% | ~12,638 |
+| Trained | 22.00% | ~12,638 |
+| The king is pleased | 17.00% | ~9,766 |
+| King Solomon | 16.00% | ~9,191 |
+| I can do it | 15.00% | ~8,617 |
+| Apple of my eye | 14.00% | ~8,042 |
 | God of the Arena | 12.00% | ~6,893 |
-| Against all odds | 11.00% | ~6,318 |
+| Against all odds | 11.00% | ~6,319 |
 | Swordbearer | 10.00% | ~5,744 |
-| Duelist | 9.00% | ~5,169 |
-| Dynasty | 9.00% | ~5,169 |
-| I spit on your grave | 9.00% | ~5,169 |
-| This Is Our Land | 9.00% | ~5,169 |
-| What have the Romans ever done for us? | 9.00% | ~5,169 |
-| Butterlord | 8.00% | ~4,595 |
+| Duelist | 9.00% | ~5,170 |
+| Dynasty | 9.00% | ~5,170 |
+| I spit on your grave | 9.00% | ~5,170 |
+| This Is Our Land | 9.00% | ~5,170 |
+| What have the Romans ever done for us? | 9.00% | ~5,170 |
+| Butterlord | 8.00% | ~4,596 |
 | Mastery | 7.00% | ~4,021 |
-| Know your enemy | 6.00% | ~3,446 |
+| Know your enemy | 6.00% | ~3,447 |
 | My way | 5.00% | ~2,872 |
 | Crowdfunded | 4.00% | ~2,298 |
 | Crush your enemies | 4.00% | ~2,298 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,438 (Ranked 86)  
+Progressed: 57,445 (Ranked 86)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 57,125 | 0 |
 | 2023-07-28 | 57,251 | 0 |
 | 2023-07-29 | 57,416 | 0 |
-| 2023-07-30 | 57,438 | 0 |
+| 2023-07-30 | 57,445 | 0 |
 ## Awards
 Max (Character Customization): 6,867  (Ranked 48)  
 Sum: 13,917 (Ranked 67)  

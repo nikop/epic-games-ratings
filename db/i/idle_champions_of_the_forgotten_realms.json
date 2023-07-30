@@ -5380,9 +5380,9 @@
       "Count": 3329
     }
   ],
-  "EOS_Progressed": 216916,
+  "EOS_Progressed": 216931,
   "EOS_Completed": 2137,
-  "EOS_NewPlayers": 2219,
+  "EOS_NewPlayers": 2224,
   "EOS_NewCompleters": 77,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -16190,6 +16190,11 @@
       "Time": "2023-07-30T04:04:07.678673+00:00",
       "NumProgressed": 216916,
       "NumCompleted": 2137
+    },
+    {
+      "Time": "2023-07-30T05:04:09.821375+00:00",
+      "NumProgressed": 216931,
+      "NumCompleted": 2137
     }
   ],
   "TotalAchievements": 512,
@@ -16201,7 +16206,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6507
+      "UsersEstimate": 6508
     },
     {
       "ID": "objective_completed_10",
@@ -16209,7 +16214,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "objective_completed_100",
@@ -16217,7 +16222,7 @@
       "Name": "Pros and CONs",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "objective_completed_101",
@@ -16569,7 +16574,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "objective_completed_110",
@@ -16577,7 +16582,7 @@
       "Name": "Wet Feet",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "objective_completed_1100",
@@ -20296,21 +20301,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183190,
+      "Progressed": 183205,
       "Completed": 3027
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216916,
+      "Progressed": 216931,
       "Completed": 2137
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-30T01:55:12.0623946+00:00",
-  "LastChanged_Achievements": "2023-07-30T04:04:07.6786725+00:00",
+  "LastChanged_Achievements": "2023-07-30T05:04:09.8213743+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-30T03:59:09.316705+00:00",
-  "LastUpdate_Achievements": "2023-07-30T04:04:07.6819495+00:00"
+  "LastUpdate_Ratings": "2023-07-30T04:59:20.0397944+00:00",
+  "LastUpdate_Achievements": "2023-07-30T05:04:09.8247682+00:00"
 }

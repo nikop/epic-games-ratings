@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 60.00% | ~173 |
-| Starting Skyward | 52.00% | ~150 |
+| In the Black | 59.00% | ~171 |
+| Starting Skyward | 52.00% | ~151 |
 | Grime is Not Good | 45.00% | ~130 |
 | Campaign Launch | 40.00% | ~116 |
 | Floor Galore | 38.00% | ~110 |
 | Dinner Dash | 38.00% | ~110 |
 | Need a Consult | 36.00% | ~104 |
-| It's Technical | 35.00% | ~101 |
-| Upgrade Unlock | 34.00% | ~98 |
-| Delegate Maintenance | 33.00% | ~95 |
+| It's Technical | 35.00% | ~102 |
+| Upgrade Unlock | 34.00% | ~99 |
+| Delegate Maintenance | 32.00% | ~93 |
 | Proper Walls | 31.00% | ~90 |
 | Destination Destiny | 28.00% | ~81 |
 | Happy Tenants | 25.00% | ~72 |
-| Smooth Service | 24.00% | ~69 |
-| Your Prestige is Rising | 23.00% | ~66 |
-| Potent Potables | 23.00% | ~66 |
-| Retail Revenue | 23.00% | ~66 |
+| Smooth Service | 24.00% | ~70 |
+| Your Prestige is Rising | 23.00% | ~67 |
+| Potent Potables | 23.00% | ~67 |
+| Retail Revenue | 23.00% | ~67 |
 | Lux Living | 21.00% | ~61 |
 | Don't Feel a Loan | 21.00% | ~61 |
 | People Mover | 20.00% | ~58 |
@@ -33,9 +33,9 @@
 | Tasty Profits | 18.00% | ~52 |
 | Established Fame | 16.00% | ~46 |
 | Cashflow Chief | 16.00% | ~46 |
-| Under One Roof | 15.00% | ~43 |
-| Starred Dining | 15.00% | ~43 |
-| Terrifically Trashed | 14.00% | ~40 |
+| Under One Roof | 15.00% | ~44 |
+| Starred Dining | 15.00% | ~44 |
+| Terrifically Trashed | 14.00% | ~41 |
 | Smooth Operator | 13.00% | ~38 |
 | Boutique Benefits | 13.00% | ~38 |
 | Thrilled Tenants | 13.00% | ~38 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289 (Ranked 255)  
+Progressed: 290 (Ranked 255)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 276 | 0 |
 | 2023-07-28 | 278 | 0 |
 | 2023-07-29 | 288 | 0 |
-| 2023-07-30 | 289 | 0 |
+| 2023-07-30 | 290 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

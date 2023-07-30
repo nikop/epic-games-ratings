@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1822,
+  "EOS_Progressed": 1823,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -2961,6 +2961,11 @@
       "Time": "2023-07-30T03:05:57.3915406+00:00",
       "NumProgressed": 1822,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-30T05:06:08.5023933+00:00",
+      "NumProgressed": 1823,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -3044,7 +3049,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "ach_food_completed",
@@ -3068,7 +3073,7 @@
       "Name": "Game opened",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "ach_magic_wand",
@@ -3076,7 +3081,7 @@
       "Name": "Magic time",
       "Percentage": 29,
       "XP": 65,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "ach_no_boosters",
@@ -3099,14 +3104,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 1822,
+      "Progressed": 1823,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-30T04:06:09.1826809+00:00",
+  "LastChanged_Achievements": "2023-07-30T05:06:08.5023927+00:00",
   "LastUpdate_AppInfo": "2023-07-28T10:57:28.8987406+00:00",
-  "LastUpdate_Ratings": "2023-07-30T03:57:35.6318185+00:00",
-  "LastUpdate_Achievements": "2023-07-30T04:06:09.1827201+00:00"
+  "LastUpdate_Ratings": "2023-07-30T04:57:47.6511272+00:00",
+  "LastUpdate_Achievements": "2023-07-30T05:06:08.5024426+00:00"
 }

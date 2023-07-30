@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3088,
+  "EOS_Progressed": 3089,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2599,6 +2599,11 @@
       "Time": "2023-07-29T19:04:06.734691+00:00",
       "NumProgressed": 3088,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-30T05:04:51.5250339+00:00",
+      "NumProgressed": 3089,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2658,7 +2663,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2748
+      "UsersEstimate": 2749
     },
     {
       "ID": "campaign10",
@@ -2762,7 +2767,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2007
+      "UsersEstimate": 2008
     },
     {
       "ID": "campaign4",
@@ -2770,7 +2775,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "campaign5",
@@ -2802,7 +2807,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "campaign9",
@@ -2873,7 +2878,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3088,
+      "Progressed": 3089,
       "Completed": 10
     }
   ],
@@ -2881,8 +2886,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-30T04:04:51.4113076+00:00",
+  "LastChanged_Achievements": "2023-07-30T05:04:51.5250331+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:07.7269994+00:00",
-  "LastUpdate_Ratings": "2023-07-30T04:01:42.9853036+00:00",
-  "LastUpdate_Achievements": "2023-07-30T04:04:51.4113803+00:00"
+  "LastUpdate_Ratings": "2023-07-30T05:01:52.9257373+00:00",
+  "LastUpdate_Achievements": "2023-07-30T05:04:51.5250872+00:00"
 }

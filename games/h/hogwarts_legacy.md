@@ -17,19 +17,19 @@ Rating: 4.77 (Ranked 108)
 | Loom for Improvement | 9.00% | ~26,002 |
 | A Talent for Spending | 9.00% | ~26,002 |
 | Coasting Along | 9.00% | ~26,002 |
-| The Hero of Hogwarts | 8.00% | ~23,112 |
-| Challenge Accepted | 8.00% | ~23,112 |
-| Followed the Butterflies | 8.00% | ~23,112 |
-| Rising From the Ashes | 8.00% | ~23,112 |
-| The Avenging Gazelle | 7.00% | ~20,223 |
-| A Sallow Grave | 7.00% | ~20,223 |
-| The Spell Master | 7.00% | ~20,223 |
-| Beast Friends | 6.00% | ~17,334 |
-| Flight the Good Flight | 6.00% | ~17,334 |
-| The Seeker of Knowledge | 5.00% | ~14,445 |
-| The Root of the Problem | 5.00% | ~14,445 |
-| Third Time's a Charm | 5.00% | ~14,445 |
-| Raising Expectations | 5.00% | ~14,445 |
+| The Hero of Hogwarts | 8.00% | ~23,113 |
+| Challenge Accepted | 8.00% | ~23,113 |
+| Followed the Butterflies | 8.00% | ~23,113 |
+| Rising From the Ashes | 8.00% | ~23,113 |
+| The Avenging Gazelle | 7.00% | ~20,224 |
+| A Sallow Grave | 7.00% | ~20,224 |
+| The Spell Master | 7.00% | ~20,224 |
+| Beast Friends | 6.00% | ~17,335 |
+| Flight the Good Flight | 6.00% | ~17,335 |
+| The Seeker of Knowledge | 5.00% | ~14,446 |
+| The Root of the Problem | 5.00% | ~14,446 |
+| Third Time's a Charm | 5.00% | ~14,446 |
+| Raising Expectations | 5.00% | ~14,446 |
 | The Toast of the Town | 4.00% | ~11,556 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,556 |
 | The Ends Petrify the Means | 4.00% | ~11,556 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,733 |
 | Collector's Edition | 0.20% | ~578 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,906 (Ranked 42)  
+Progressed: 288,911 (Ranked 42)  
 Completed: 437 (0.15%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 437 (0.15%) (Ranked 181)
 | 2023-07-27 | 288,702 | 435 |
 | 2023-07-28 | 288,784 | 435 |
 | 2023-07-29 | 288,881 | 436 |
-| 2023-07-30 | 288,906 | 437 |
+| 2023-07-30 | 288,911 | 437 |
 ## Awards
 Max (Character Customization): 21,390  (Ranked 17)  
 Sum: 40,144 (Ranked 30)  

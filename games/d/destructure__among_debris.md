@@ -32,8 +32,8 @@
 | Mushroom Man | 1.00% | ~2 |
 | Total Walrus | 1.00% | ~2 |
 | True Victory | 1.00% | ~2 |
+| Victory That Is Even More True | 1.00% | ~2 |
 | Untouchable | 1.00% | ~2 |
-| Victory That Is Even More True | 0.70% | ~1 |
 | What Even Are You? | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 151 (Ranked 295)  

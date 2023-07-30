@@ -6,37 +6,37 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~390,988 |
-| Hey! That's mine! | 78.00% | ~376,507 |
-| Happy Returns | 77.00% | ~371,680 |
-| Field Promotion | 74.00% | ~357,199 |
-| Leadhead | 71.00% | ~342,718 |
-| Eradicator | 67.00% | ~323,410 |
-| Surplus | 65.00% | ~313,756 |
-| I Spy | 64.00% | ~308,929 |
-| Burn Baby Burn | 59.00% | ~284,794 |
-| Yellow Beats Green | 55.00% | ~265,486 |
-| Salvage Rights | 53.00% | ~255,832 |
-| Close Call | 50.00% | ~241,350 |
-| Pew Pew | 50.00% | ~241,350 |
-| What IS that? | 50.00% | ~241,350 |
-| Penny Pincher | 49.00% | ~236,523 |
-| Arsenal | 46.00% | ~222,042 |
-| Boot Camp | 45.00% | ~217,215 |
-| Flawless Victory | 42.00% | ~202,734 |
-| Confident | 40.00% | ~193,080 |
-| Exterminator | 36.00% | ~173,772 |
-| Not So Fast | 33.00% | ~159,291 |
-| Sharpshooter | 33.00% | ~159,291 |
-| Great Ball of Fire | 32.00% | ~154,464 |
-| No Sale | 30.00% | ~144,810 |
-| Kaboom! | 29.00% | ~139,983 |
-| Liquidator | 29.00% | ~139,983 |
-| High Voltage | 24.00% | ~115,848 |
-| Filthy Rich | 19.00% | ~91,713 |
-| The Not-So-Friendly Skies | 18.00% | ~86,886 |
-| Power Builder | 17.00% | ~82,059 |
-| Pyrrhic Victory | 17.00% | ~82,059 |
+| First Blood | 81.00% | ~390,989 |
+| Hey! That's mine! | 78.00% | ~376,508 |
+| Happy Returns | 77.00% | ~371,681 |
+| Field Promotion | 74.00% | ~357,200 |
+| Leadhead | 71.00% | ~342,719 |
+| Eradicator | 67.00% | ~323,411 |
+| Surplus | 65.00% | ~313,757 |
+| I Spy | 64.00% | ~308,930 |
+| Burn Baby Burn | 59.00% | ~284,795 |
+| Yellow Beats Green | 55.00% | ~265,487 |
+| Salvage Rights | 53.00% | ~255,833 |
+| Close Call | 50.00% | ~241,352 |
+| Pew Pew | 50.00% | ~241,352 |
+| What IS that? | 50.00% | ~241,352 |
+| Penny Pincher | 49.00% | ~236,524 |
+| Arsenal | 46.00% | ~222,043 |
+| Boot Camp | 45.00% | ~217,216 |
+| Flawless Victory | 42.00% | ~202,735 |
+| Confident | 40.00% | ~193,081 |
+| Exterminator | 36.00% | ~173,773 |
+| Not So Fast | 33.00% | ~159,292 |
+| Sharpshooter | 33.00% | ~159,292 |
+| Great Ball of Fire | 32.00% | ~154,465 |
+| No Sale | 30.00% | ~144,811 |
+| Kaboom! | 29.00% | ~139,984 |
+| Liquidator | 29.00% | ~139,984 |
+| High Voltage | 24.00% | ~115,849 |
+| Filthy Rich | 19.00% | ~91,714 |
+| The Not-So-Friendly Skies | 18.00% | ~86,887 |
+| Power Builder | 17.00% | ~82,060 |
+| Pyrrhic Victory | 17.00% | ~82,060 |
 | Death From Above | 16.00% | ~77,232 |
 | Retry | 16.00% | ~77,232 |
 | Head Trauma | 12.00% | ~57,924 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~483 |
 | You Monster | 0.10% | ~483 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 482,701 (Ranked 35)  
+Progressed: 482,703 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 4 (0.00%) (Ranked 246)
 | 2023-07-27 | 482,485 | 4 |
 | 2023-07-28 | 482,568 | 4 |
 | 2023-07-29 | 482,683 | 4 |
-| 2023-07-30 | 482,701 | 4 |
+| 2023-07-30 | 482,703 | 4 |
 ## Awards
 Max (Great for Beginners): 241  (Ranked 251)  
 Sum: 1,671 (Ranked 209)  

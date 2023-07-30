@@ -68,6 +68,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 0.40% | ~53 |
 | Mythology | 0.40% | ~53 |
 | Hanging Gardens in Babylon | 0.30% | ~40 |
+| Beloved | 0.30% | ~40 |
 | Drillmaster | 0.30% | ~40 |
 | Conqueror | 0.30% | ~40 |
 | Valiant | 0.30% | ~40 |
@@ -89,8 +90,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
 | Bad Heir Day | 0.20% | ~26 |
+| Ishtar Gate in Babylon | 0.20% | ~26 |
 | Carthage - Ox Hide | 0.20% | ~26 |
-| Beloved | 0.20% | ~26 |
 | Capable | 0.20% | ~26 |
 | Devout | 0.20% | ~26 |
 | Invincible | 0.20% | ~26 |
@@ -141,7 +142,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum in Alexandria | 0.10% | ~13 |
 | Alliance Victory | 0.10% | ~13 |
 | Future Regicide | 0.10% | ~13 |
-| Ishtar Gate in Babylon | 0.10% | ~13 |
 | Barbarian Horde | 0.10% | ~13 |
 | Battle of Opis | 0.10% | ~13 |
 | Blade of the Monkey | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,170 (Ranked 117)  
+Progressed: 13,171 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,7 +404,7 @@ Completed: 5 (0.04%) (Ranked 217)
 | 2023-07-27 | 13,128 | 5 |
 | 2023-07-28 | 13,145 | 5 |
 | 2023-07-29 | 13,164 | 5 |
-| 2023-07-30 | 13,170 | 5 |
+| 2023-07-30 | 13,171 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

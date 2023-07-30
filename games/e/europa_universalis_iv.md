@@ -6,13 +6,13 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,822 |
-| That's a Grand Army | 8.00% | ~6,064 |
-| That is mine! | 8.00% | ~6,064 |
-| Victorious! | 8.00% | ~6,064 |
-| Brothers in Arms | 6.00% | ~4,548 |
-| That's a Grand Navy | 6.00% | ~4,548 |
-| Seriously?! | 6.00% | ~4,548 |
+| Until death do us apart | 9.00% | ~6,823 |
+| That's a Grand Army | 8.00% | ~6,065 |
+| That is mine! | 8.00% | ~6,065 |
+| Victorious! | 8.00% | ~6,065 |
+| Brothers in Arms | 6.00% | ~4,549 |
+| That's a Grand Navy | 6.00% | ~4,549 |
+| Seriously?! | 6.00% | ~4,549 |
 | For the Glory | 5.00% | ~3,790 |
 | Cold War | 4.00% | ~3,032 |
 | True Catholic | 4.00% | ~3,032 |
@@ -26,7 +26,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Blockader | 2.00% | ~1,516 |
 | Combined Arms | 2.00% | ~1,516 |
 | Double the Love | 2.00% | ~1,516 |
-| Gentle Persuasion | 2.00% | ~1,516 |
 | My armies are invincible! | 2.00% | ~1,516 |
 | Queen of Conquest | 2.00% | ~1,516 |
 | Royal Authority | 2.00% | ~1,516 |
@@ -37,6 +36,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | City of Cities | 1.00% | ~758 |
 | The Emperors new clothes | 1.00% | ~758 |
 | Factionalism | 1.00% | ~758 |
+| Gentle Persuasion | 1.00% | ~758 |
 | A Golden Empire | 1.00% | ~758 |
 | The Five Colonies | 1.00% | ~758 |
 | This navy can take it all | 1.00% | ~758 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,796 (Ranked 76)  
+Progressed: 75,810 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -462,7 +462,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 74,884 | 0 |
 | 2023-07-28 | 75,282 | 0 |
 | 2023-07-29 | 75,748 | 0 |
-| 2023-07-30 | 75,796 | 0 |
+| 2023-07-30 | 75,810 | 0 |
 ## Awards
 Max (Educational): 5,597  (Ranked 61)  
 Sum: 46,150 (Ranked 26)  

@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 464100,
+  "EOS_Progressed": 464102,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 507,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10922,6 +10922,11 @@
       "Time": "2023-07-30T04:04:38.4925162+00:00",
       "NumProgressed": 464100,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-30T05:04:38.3942266+00:00",
+      "NumProgressed": 464102,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -11117,7 +11122,7 @@
       "Name": "Second Coming",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -11389,7 +11394,7 @@
       "Name": "Careful planning",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "achievement_win_run_hard",
@@ -11564,21 +11569,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 8034,
+      "Progressed": 8036,
       "Completed": 2354
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 464100,
+      "Progressed": 464102,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-30T04:04:38.4925156+00:00",
+  "LastChanged_Achievements": "2023-07-30T05:04:38.394226+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:07.5889306+00:00",
-  "LastUpdate_Ratings": "2023-07-30T04:00:35.4261921+00:00",
-  "LastUpdate_Achievements": "2023-07-30T04:04:38.49267+00:00"
+  "LastUpdate_Ratings": "2023-07-30T05:00:49.2570394+00:00",
+  "LastUpdate_Achievements": "2023-07-30T05:04:38.3946133+00:00"
 }

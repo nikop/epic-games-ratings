@@ -4,8 +4,8 @@
   "ProductSlug": "dark-fantasy-jigsaw-puzzle-12769c",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 3,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-07-28T03:00:00+00:00",
     "PcReleaseDate": "2018-11-16T06:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 19,
-  "EOS_Completed": 7,
+  "EOS_Completed": 8,
   "EOS_NewPlayers": 18,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 36.84,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 42.11,
   "EosHistory": [
     {
       "Time": "2023-07-28T07:04:19.3346272+00:00",
@@ -121,6 +121,11 @@
       "Time": "2023-07-30T04:04:00.8822277+00:00",
       "NumProgressed": 19,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-30T05:04:02.6181358+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-07-20T07:01:56.8501718+00:00",
@@ -187,33 +192,33 @@
       "ID": "PORTRAIT_16",
       "SetID": "2fge00i",
       "Name": "Portrait 16",
-      "Percentage": 37,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PORTRAIT_17",
       "SetID": "2fge00i",
       "Name": "Portrait 17",
-      "Percentage": 37,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PORTRAIT_18",
       "SetID": "2fge00i",
       "Name": "Portrait 18",
-      "Percentage": 37,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PORTRAIT_19",
       "SetID": "2fge00i",
       "Name": "Portrait 19",
-      "Percentage": 37,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PORTRAIT_2",
@@ -227,9 +232,9 @@
       "ID": "PORTRAIT_20",
       "SetID": "2fge00i",
       "Name": "Portrait 20",
-      "Percentage": 37,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PORTRAIT_3",
@@ -293,13 +298,13 @@
       "ID": "2fge00i",
       "IsBase": true,
       "Progressed": 19,
-      "Completed": 7
+      "Completed": 8
     }
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-07-30T04:04:00.882227+00:00",
+  "LastChanged_Achievements": "2023-07-30T05:04:02.6181351+00:00",
   "LastUpdate_AppInfo": "2023-07-27T06:57:02.5331797+00:00",
-  "LastUpdate_Ratings": "2023-07-30T03:57:17.7759112+00:00",
-  "LastUpdate_Achievements": "2023-07-30T04:04:00.8822478+00:00"
+  "LastUpdate_Ratings": "2023-07-30T04:57:28.2766272+00:00",
+  "LastUpdate_Achievements": "2023-07-30T05:04:02.6181505+00:00"
 }

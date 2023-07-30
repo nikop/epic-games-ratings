@@ -27,8 +27,8 @@
 | Workout professional | 56.00% | ~100 |
 | Intriguing candies | 55.00% | ~98 |
 | Little hacker | 54.00% | ~97 |
+| Handyman | 54.00% | ~97 |
 | Employee of the year | 54.00% | ~97 |
-| Handyman | 53.00% | ~95 |
 | Champion – starter pack | 53.00% | ~95 |
 | It's good to be alive | 53.00% | ~95 |
 | Own four walls | 53.00% | ~95 |
@@ -40,23 +40,24 @@
 | Now you are worthy | 44.00% | ~79 |
 | No blades in the gym | 42.00% | ~75 |
 | Guiding on the right path | 40.00% | ~72 |
+| Fight is life | 39.00% | ~70 |
 | Mysterious voice | 39.00% | ~70 |
-| Fight is life | 38.00% | ~68 |
 | GYM professional | 35.00% | ~63 |
 | Responsible approach | 35.00% | ~63 |
+| Get out of my apartment! | 33.00% | ~59 |
 | Underground dwellers | 33.00% | ~59 |
 | Deal with life | 32.00% | ~57 |
 | Champion – no way back | 32.00% | ~57 |
-| Get out of my apartment! | 32.00% | ~57 |
+| Poisoned fighter | 32.00% | ~57 |
 | Mom got better | 31.00% | ~55 |
-| Poisoned fighter | 31.00% | ~55 |
 | The die is cast | 31.00% | ~55 |
 | Seashell hunter | 30.00% | ~54 |
+| Gang wrangler | 29.00% | ~52 |
 | Undercover robot | 29.00% | ~52 |
-| Gang wrangler | 28.00% | ~50 |
+| Problems of cyborgs | 28.00% | ~50 |
 | The last bell ring | 28.00% | ~50 |
-| Problems of cyborgs | 27.00% | ~48 |
 | Absolute Champion! | 27.00% | ~48 |
+| Trap disarmed | 26.00% | ~47 |
 | Another world | 26.00% | ~47 |
 | The lonesome road | 26.00% | ~47 |
 | Key memories | 26.00% | ~47 |
@@ -64,7 +65,6 @@
 | Careerist | 26.00% | ~47 |
 | Anyone can resist | 26.00% | ~47 |
 | The heart of the Resistance | 26.00% | ~47 |
-| Trap disarmed | 25.00% | ~45 |
 | Keep nature safe | 25.00% | ~45 |
 | Family comes first | 25.00% | ~45 |
 | Silver’s past | 22.00% | ~39 |

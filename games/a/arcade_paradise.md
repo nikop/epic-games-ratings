@@ -6,7 +6,7 @@ Rating: 4.58 (Ranked 424)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Pushing a pull door | 96.00% | ~638 |
-| Fetch Quest Complete | 90.00% | ~598 |
+| Fetch Quest Complete | 91.00% | ~605 |
 | I can't wait! | 83.00% | ~552 |
 | Swish | 56.00% | ~372 |
 | Clean up on Aisle 9 | 40.00% | ~266 |
