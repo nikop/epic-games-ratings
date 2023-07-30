@@ -111,8 +111,8 @@
 | 109 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.03% |
 | 110 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
 | 111 | [Adios](games/a/adios.md) | 0.99% |
-| 111 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
-| 113 | [Sable](games/s/sable.md) | 0.98% |
+| 112 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
+| 112 | [Sable](games/s/sable.md) | 0.98% |
 | 114 | [Hades](games/h/hades.md) | 0.90% |
 | 115 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 116 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
@@ -132,9 +132,9 @@
 | 129 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 131 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.55% |
 | 132 | [Godlike Burger](games/g/godlike_burger.md) | 0.54% |
+| 133 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 133 | [The Surge 2](games/t/the_surge_2.md) | 0.52% |
 | 133 | [Them and Us](games/t/them_and_us.md) | 0.52% |
-| 135 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
 | 136 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 136 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.50% |
 | 136 | [Train Valley](games/t/train_valley.md) | 0.50% |
