@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 807,
+  "EOS_Progressed": 808,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1870,6 +1870,11 @@
       "Time": "2023-07-30T22:04:52.7012114+00:00",
       "NumProgressed": 807,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-30T23:04:40.4950775+00:00",
+      "NumProgressed": 808,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1921,7 +1926,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ClockworkProgress1",
@@ -1961,7 +1966,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "EntresolChests1",
@@ -1969,7 +1974,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -2001,7 +2006,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2041,7 +2046,7 @@
       "Name": "Rail Rat",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "HexlockGift",
@@ -2304,7 +2309,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 807,
+      "Progressed": 808,
       "Completed": 4
     }
   ],
@@ -2312,8 +2317,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-07-30T22:04:52.7012107+00:00",
+  "LastChanged_Achievements": "2023-07-30T23:04:40.4950768+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.2379789+00:00",
-  "LastUpdate_Ratings": "2023-07-30T22:00:44.6670732+00:00",
-  "LastUpdate_Achievements": "2023-07-30T22:04:52.7012571+00:00"
+  "LastUpdate_Ratings": "2023-07-30T23:00:44.877772+00:00",
+  "LastUpdate_Achievements": "2023-07-30T23:04:40.495124+00:00"
 }

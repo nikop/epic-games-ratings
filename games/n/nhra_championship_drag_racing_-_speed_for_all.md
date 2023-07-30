@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduated | 99.00% | ~762 |
+| Graduated | 99.00% | ~763 |
 | Trouble with the swerve | 68.00% | ~524 |
-| Oops, My bad | 67.00% | ~516 |
-| Don't get ahead on yourself | 39.00% | ~300 |
+| Oops, My bad | 67.00% | ~517 |
+| Don't get ahead on yourself | 39.00% | ~301 |
 | I didn't know you where there! | 30.00% | ~231 |
 | Participation trophy | 24.00% | ~185 |
-| Whole again | 12.00% | ~92 |
+| Whole again | 12.00% | ~93 |
 | Cash Rules Everything Around Me | 8.00% | ~62 |
 | Getting the job done | 7.00% | ~54 |
 | Risky business | 6.00% | ~46 |
-| Ready to Mingle | 5.00% | ~38 |
+| Ready to Mingle | 5.00% | ~39 |
 | First one tastes better | 4.00% | ~31 |
 | Better late then never | 4.00% | ~31 |
 | Better than the pros | 2.00% | ~15 |
@@ -38,7 +38,7 @@
 | Winning streak | 0.00% | ~0 |
 | Finisher | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 770 (Ranked 204)  
+Progressed: 771 (Ranked 204)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 754 | 0 |
 | 2023-07-28 | 758 | 0 |
 | 2023-07-29 | 763 | 0 |
-| 2023-07-30 | 770 | 0 |
+| 2023-07-30 | 771 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

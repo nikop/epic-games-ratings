@@ -6,22 +6,22 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,401 |
-| Ready for Winter | 64.00% | ~2,049 |
-| Ready for Summer | 51.00% | ~1,633 |
-| Cordon Bleu | 43.00% | ~1,376 |
-| Tapped! | 36.00% | ~1,152 |
-| Eureka | 32.00% | ~1,024 |
-| Scourge Slayer | 25.00% | ~800 |
-| Science, Troglodyte! | 23.00% | ~736 |
-| Exceptional Skill | 22.00% | ~704 |
-| Home Sweet Home | 22.00% | ~704 |
-| Encyclopedic! | 19.00% | ~608 |
-| A Fortress Toppled! | 16.00% | ~512 |
-| Apex Predator | 16.00% | ~512 |
-| The Power of Family | 16.00% | ~512 |
-| Strange amalgams | 12.00% | ~384 |
-| The Power of Faith | 12.00% | ~384 |
+| Venture Outward | 75.00% | ~2,404 |
+| Ready for Winter | 64.00% | ~2,051 |
+| Ready for Summer | 51.00% | ~1,635 |
+| Cordon Bleu | 43.00% | ~1,378 |
+| Tapped! | 36.00% | ~1,154 |
+| Eureka | 32.00% | ~1,026 |
+| Scourge Slayer | 25.00% | ~801 |
+| Science, Troglodyte! | 23.00% | ~737 |
+| Exceptional Skill | 22.00% | ~705 |
+| Home Sweet Home | 22.00% | ~705 |
+| Encyclopedic! | 19.00% | ~609 |
+| A Fortress Toppled! | 16.00% | ~513 |
+| Apex Predator | 16.00% | ~513 |
+| The Power of Family | 16.00% | ~513 |
+| Strange amalgams | 12.00% | ~385 |
+| The Power of Faith | 12.00% | ~385 |
 | The Power of Freedom | 9.00% | ~288 |
 | Ace Detective | 8.00% | ~256 |
 | Gift from the Ancestors | 8.00% | ~256 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,201 (Ranked 151)  
+Progressed: 3,205 (Ranked 151)  
 Completed: 3 (0.09%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 3 (0.09%) (Ranked 196)
 | 2023-07-27 | 3,148 | 3 |
 | 2023-07-28 | 3,170 | 3 |
 | 2023-07-29 | 3,182 | 3 |
-| 2023-07-30 | 3,201 | 3 |
+| 2023-07-30 | 3,205 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 446)  
 Sum: 241 (Ranked 351)  

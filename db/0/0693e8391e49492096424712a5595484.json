@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 275,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 6.18,
   "EosHistory": [
@@ -1009,9 +1009,9 @@
       "ID": "BearBroom",
       "SetID": "db30heh",
       "Name": "Dusted",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "BearPistol",
@@ -1105,17 +1105,17 @@
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "DwarDevil",
       "SetID": "db30heh",
       "Name": "Funny Devil",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "DwarfBeggarWoman",
@@ -1337,9 +1337,9 @@
       "ID": "WormGrilled",
       "SetID": "db30heh",
       "Name": "Bratwurm",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
@@ -1352,8 +1352,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-30T22:07:07.3508445+00:00",
+  "LastChanged_Achievements": "2023-07-30T23:07:03.1059869+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-30T21:57:33.4844481+00:00",
-  "LastUpdate_Achievements": "2023-07-30T22:07:07.3508776+00:00"
+  "LastUpdate_Ratings": "2023-07-30T22:57:27.9753299+00:00",
+  "LastUpdate_Achievements": "2023-07-30T23:07:03.1060275+00:00"
 }

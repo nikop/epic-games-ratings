@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -2181,9 +2181,9 @@
       "ID": "SAVANT_1",
       "SetID": "bf13m8j",
       "Name": "Savant",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 109
     },
     {
       "ID": "SECRET_ROOM",
@@ -2253,8 +2253,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-30T22:04:34.8331213+00:00",
+  "LastChanged_Achievements": "2023-07-30T23:04:21.6843177+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:04.0177394+00:00",
-  "LastUpdate_Ratings": "2023-07-30T22:01:45.0934229+00:00",
-  "LastUpdate_Achievements": "2023-07-30T22:04:34.8331504+00:00"
+  "LastUpdate_Ratings": "2023-07-30T23:01:46.7875294+00:00",
+  "LastUpdate_Achievements": "2023-07-30T23:04:21.6843576+00:00"
 }

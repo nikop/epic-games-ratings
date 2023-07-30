@@ -20,7 +20,7 @@ Rating: 4.40 (Ranked 695)
 | Sensei | 42.00% | ~555 |
 | Firestarter | 41.00% | ~542 |
 | The meaning of Kain | 40.00% | ~528 |
-| Technophobe | 38.00% | ~502 |
+| Technophobe | 39.00% | ~515 |
 | Recycler | 37.00% | ~489 |
 | Are you not entertained? | 33.00% | ~436 |
 | Jarhead | 33.00% | ~436 |

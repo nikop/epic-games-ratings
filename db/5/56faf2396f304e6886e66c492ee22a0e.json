@@ -248,9 +248,9 @@
       "ID": "ACHIEVEMENT_Iro_Death3_Failed",
       "SetID": "70j9o42",
       "Name": "Double Dare",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_Lilianna_Respect",
@@ -304,9 +304,9 @@
       "ID": "ACHIEVEMENT_Motivation",
       "SetID": "70j9o42",
       "Name": "Motivational Peaker",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_Mystic_All_Secrets",
@@ -368,9 +368,9 @@
       "ID": "ACHIEVEMENT_Suave",
       "SetID": "70j9o42",
       "Name": "Master Of Love",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_Team_Fumi",
@@ -415,8 +415,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-07-30T22:04:39.1350703+00:00",
+  "LastChanged_Achievements": "2023-07-30T23:04:26.2615248+00:00",
   "LastUpdate_AppInfo": "2023-07-25T07:57:00.5196616+00:00",
-  "LastUpdate_Ratings": "2023-07-30T21:57:40.9121148+00:00",
-  "LastUpdate_Achievements": "2023-07-30T22:04:39.1350942+00:00"
+  "LastUpdate_Ratings": "2023-07-30T22:57:35.9290356+00:00",
+  "LastUpdate_Achievements": "2023-07-30T23:04:26.2615546+00:00"
 }

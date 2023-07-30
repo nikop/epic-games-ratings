@@ -19,20 +19,20 @@
 | Run K, run! | 69.00% | ~131 |
 | Hello, world! | 68.00% | ~129 |
 | No bullying more | 67.00% | ~127 |
-| Fighting is cool | 64.00% | ~122 |
-| Pal of your father? | 62.00% | ~118 |
+| Fighting is cool | 65.00% | ~124 |
+| Pal of your father? | 63.00% | ~120 |
 | Employee of the month | 61.00% | ~116 |
 | Law student | 59.00% | ~112 |
 | Spirit of the past | 59.00% | ~112 |
 | Intriguing candies | 56.00% | ~106 |
 | Workout professional | 55.00% | ~105 |
 | Little hacker | 55.00% | ~105 |
+| Champion – starter pack | 54.00% | ~103 |
 | It's good to be alive | 54.00% | ~103 |
-| Champion – starter pack | 53.00% | ~101 |
-| Own four walls | 53.00% | ~101 |
+| Own four walls | 54.00% | ~103 |
 | Employee of the year | 53.00% | ~101 |
+| Fight for life | 52.00% | ~99 |
 | Handyman | 52.00% | ~99 |
-| Fight for life | 51.00% | ~97 |
 | Legal courier | 48.00% | ~91 |
 | Extreme neuropower! | 47.00% | ~89 |
 | Your own way | 47.00% | ~89 |
@@ -40,22 +40,22 @@
 | Now you are worthy | 45.00% | ~86 |
 | No blades in the gym | 44.00% | ~84 |
 | Guiding on the right path | 42.00% | ~80 |
+| Fight is life | 41.00% | ~78 |
 | Mysterious voice | 41.00% | ~78 |
-| Fight is life | 40.00% | ~76 |
 | Responsible approach | 36.00% | ~68 |
 | Get out of my apartment! | 35.00% | ~66 |
 | Underground dwellers | 35.00% | ~66 |
 | GYM professional | 34.00% | ~65 |
 | Deal with life | 33.00% | ~63 |
 | Champion – no way back | 33.00% | ~63 |
-| Poisoned fighter | 32.00% | ~61 |
+| Poisoned fighter | 33.00% | ~63 |
 | Seashell hunter | 32.00% | ~61 |
 | Mom got better | 31.00% | ~59 |
 | The die is cast | 31.00% | ~59 |
 | Gang wrangler | 30.00% | ~57 |
 | Undercover robot | 30.00% | ~57 |
 | Problems of cyborgs | 29.00% | ~55 |
-| The last bell ring | 28.00% | ~53 |
+| The last bell ring | 29.00% | ~55 |
 | Trap disarmed | 27.00% | ~51 |
 | Not little hacker | 27.00% | ~51 |
 | Absolute Champion! | 27.00% | ~51 |

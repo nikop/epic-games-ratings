@@ -2999,9 +2999,9 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 515
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -3048,8 +3048,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-25T07:58:49.2178401+00:00",
-  "LastChanged_Achievements": "2023-07-30T22:05:06.8253456+00:00",
+  "LastChanged_Achievements": "2023-07-30T23:04:55.5106585+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:07.4600739+00:00",
-  "LastUpdate_Ratings": "2023-07-30T21:59:21.9956053+00:00",
-  "LastUpdate_Achievements": "2023-07-30T22:05:06.825391+00:00"
+  "LastUpdate_Ratings": "2023-07-30T22:59:21.5826273+00:00",
+  "LastUpdate_Achievements": "2023-07-30T23:04:55.5107067+00:00"
 }

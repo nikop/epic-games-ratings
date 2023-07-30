@@ -16,9 +16,9 @@
 | Glass shards | 47.00% | ~89 |
 | Complicated padlock | 41.00% | ~77 |
 | Big metal ruler | 41.00% | ~77 |
-| Windmill | 39.00% | ~74 |
+| Windmill | 40.00% | ~76 |
 | Doll | 38.00% | ~72 |
-| Mysterious paintings | 34.00% | ~64 |
+| Mysterious paintings | 35.00% | ~66 |
 | Cat | 33.00% | ~62 |
 | Depths of the well | 25.00% | ~47 |
 | Children | 23.00% | ~43 |

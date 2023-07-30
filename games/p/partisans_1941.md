@@ -18,7 +18,7 @@ Number of Ratings: 98  (23.09.2022)
 | Death to the Oppressor! | 16.00% | ~196 |
 | The Gang's All Here | 13.00% | ~159 |
 | Your Answer | 12.00% | ~147 |
-| One by One | 11.00% | ~134 |
+| One by One | 11.00% | ~135 |
 | The Big Bertha | 9.00% | ~110 |
 | Game Over | 8.00% | ~98 |
 | Lock, Stock | 6.00% | ~73 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,222 (Ranked 185)  
+Progressed: 1,223 (Ranked 185)  
 Completed: 1 (0.08%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 1 (0.08%) (Ranked 203)
 | 2023-07-27 | 1,192 | 1 |
 | 2023-07-28 | 1,203 | 1 |
 | 2023-07-29 | 1,213 | 1 |
-| 2023-07-30 | 1,222 | 1 |
+| 2023-07-30 | 1,223 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,8 +6,8 @@ Rating: 4.60 (Ranked 390)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 23.00% | ~186 |
-| Rail Rat | 20.00% | ~161 |
-| The Mysterious Stranger | 19.00% | ~153 |
+| Rail Rat | 20.00% | ~162 |
+| The Mysterious Stranger | 19.00% | ~154 |
 | Make Up For Lost Time | 17.00% | ~137 |
 | The Prince in Heels | 17.00% | ~137 |
 | Immaculate Aim | 17.00% | ~137 |
@@ -42,9 +42,9 @@ Rating: 4.60 (Ranked 390)
 | Factorywood Explorer | 8.00% | ~65 |
 | Fairgrounds Explorer | 8.00% | ~65 |
 | Syron for Hope | 8.00% | ~65 |
-| Corin Goes Home | 7.00% | ~56 |
-| Cultivair Explorer | 7.00% | ~56 |
-| Entresol Explorer | 7.00% | ~56 |
+| Corin Goes Home | 7.00% | ~57 |
+| Cultivair Explorer | 7.00% | ~57 |
+| Entresol Explorer | 7.00% | ~57 |
 | Sartorialist | 6.00% | ~48 |
 | Golem Hunter | 5.00% | ~40 |
 | Rungs Was Right | 5.00% | ~40 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 390)
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 807 (Ranked 201)  
+Progressed: 808 (Ranked 201)  
 Completed: 4 (0.50%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 4 (0.50%) (Ranked 136)
 | 2023-07-27 | 793 | 4 |
 | 2023-07-28 | 797 | 4 |
 | 2023-07-29 | 803 | 4 |
-| 2023-07-30 | 807 | 4 |
+| 2023-07-30 | 808 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

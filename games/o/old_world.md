@@ -57,6 +57,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.50% | ~66 |
 | Necropolis | 0.50% | ~66 |
 | Learn to Play 2 | 0.50% | ~66 |
+| Manichaeism | 0.50% | ~66 |
 | Egyptian Paganism | 0.50% | ~66 |
 | Drillmaster | 0.40% | ~53 |
 | Intercessor | 0.40% | ~53 |
@@ -70,7 +71,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.40% | ~53 |
 | Musaeum | 0.40% | ~53 |
 | Greece | 0.40% | ~53 |
-| Manichaeism | 0.40% | ~53 |
 | Mythology | 0.40% | ~53 |
 | Points Victory | 0.40% | ~53 |
 | Hanging Gardens in Babylon | 0.30% | ~40 |

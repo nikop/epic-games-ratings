@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2976,
+  "EOS_Progressed": 2977,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4119,6 +4119,11 @@
       "Time": "2023-07-30T21:05:39.6697482+00:00",
       "NumProgressed": 2976,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T23:06:16.7942658+00:00",
+      "NumProgressed": 2977,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4130,7 +4135,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ACH_BASE_10",
@@ -4368,9 +4373,9 @@
       "ID": "ACH_BASE_4",
       "SetID": "92iocjf",
       "Name": "Gregor Spinoza",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_BASE_40",
@@ -4585,13 +4590,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1158,
+      "Progressed": 1159,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2976,
+      "Progressed": 2977,
       "Completed": 0
     }
   ],
@@ -4599,8 +4604,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-07-30T22:06:23.2146975+00:00",
+  "LastChanged_Achievements": "2023-07-30T23:06:16.7942633+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:24.1949352+00:00",
-  "LastUpdate_Ratings": "2023-07-30T21:59:41.5814664+00:00",
-  "LastUpdate_Achievements": "2023-07-30T22:06:23.2147625+00:00"
+  "LastUpdate_Ratings": "2023-07-30T22:59:42.6113038+00:00",
+  "LastUpdate_Achievements": "2023-07-30T23:06:16.7943536+00:00"
 }

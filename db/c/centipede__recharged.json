@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15892,
+  "EOS_Progressed": 15893,
   "EOS_Completed": 99,
   "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
@@ -8122,6 +8122,11 @@
       "Time": "2023-07-30T22:05:31.1326399+00:00",
       "NumProgressed": 15892,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-07-30T23:05:21.5917111+00:00",
+      "NumProgressed": 15893,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 16,
@@ -8181,7 +8186,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5244
+      "UsersEstimate": 5245
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -8189,7 +8194,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "I_Am_The_Storm",
@@ -8253,22 +8258,22 @@
       "Name": "The Reaper",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 15892,
+      "Progressed": 15893,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-07-30T22:05:31.132639+00:00",
+  "LastChanged_Achievements": "2023-07-30T23:05:21.5917104+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:52.6123588+00:00",
-  "LastUpdate_Ratings": "2023-07-30T22:00:18.6667873+00:00",
-  "LastUpdate_Achievements": "2023-07-30T22:05:31.1326836+00:00"
+  "LastUpdate_Ratings": "2023-07-30T23:00:20.3094024+00:00",
+  "LastUpdate_Achievements": "2023-07-30T23:05:21.5917753+00:00"
 }

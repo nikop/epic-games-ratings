@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 724,
+  "EOS_Progressed": 725,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1568,6 +1568,11 @@
       "Time": "2023-07-28T00:04:41.365242+00:00",
       "NumProgressed": 724,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T23:04:52.4674106+00:00",
+      "NumProgressed": 725,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1643,7 +1648,7 @@
       "Name": "Starship Docks",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHV_EDEN",
@@ -1691,7 +1696,7 @@
       "Name": "Nanonic I",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -1707,7 +1712,7 @@
       "Name": "Nanonic III",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHV_OUTERCORE",
@@ -1810,13 +1815,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 724,
+      "Progressed": 725,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 150,
+      "Progressed": 151,
       "Completed": 3
     }
   ],
@@ -1824,8 +1829,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-07-30T22:05:03.9624005+00:00",
+  "LastChanged_Achievements": "2023-07-30T23:04:52.4674099+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:26.3220019+00:00",
-  "LastUpdate_Ratings": "2023-07-30T22:01:09.4722902+00:00",
-  "LastUpdate_Achievements": "2023-07-30T22:05:03.962425+00:00"
+  "LastUpdate_Ratings": "2023-07-30T23:01:09.0518856+00:00",
+  "LastUpdate_Achievements": "2023-07-30T23:04:52.4674446+00:00"
 }

@@ -1,7 +1,7 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 120)  
+Rating: 4.76 (Ranked 119)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,12 +23,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Transformation | 4.00% | ~428 |
 | The Legacy | 4.00% | ~428 |
 | Voice from Your Dreams | 4.00% | ~428 |
+| A Flame | 4.00% | ~428 |
 | Next-Door Play | 4.00% | ~428 |
 | Get the Toad | 4.00% | ~428 |
 | Heart of the Fallen Land | 3.00% | ~321 |
 | Divide and Rule | 3.00% | ~321 |
 | Mythic Reinforcements | 3.00% | ~321 |
-| A Flame | 3.00% | ~321 |
 | Hey, I Know You! | 3.00% | ~321 |
 | The Lady of the Forest | 3.00% | ~285 |
 | Beware Still Water | 3.00% | ~285 |

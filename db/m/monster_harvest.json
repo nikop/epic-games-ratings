@@ -4,7 +4,7 @@
   "ProductSlug": "monster-harvest-75f018",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 260,
+  "EOS_Progressed": 261,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.08,
+  "EOS_Completed_Percentage": 3.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.8770575+00:00",
@@ -232,6 +232,11 @@
       "Time": "2023-07-30T18:08:02.1067572+00:00",
       "NumProgressed": 260,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-30T23:07:54.7699282+00:00",
+      "NumProgressed": 261,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 10,
@@ -241,9 +246,9 @@
       "ID": "BLUE_SLIME_GOO",
       "SetID": "ca3djk0",
       "Name": "Blue Goo",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 83
+      "UsersEstimate": 81
     },
     {
       "ID": "FURNITURE_IN_THE_FOREST",
@@ -257,9 +262,9 @@
       "ID": "GREEN_SLIME_SHEEN",
       "SetID": "ca3djk0",
       "Name": "Green Sheen",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "LETS_GET_FISHY",
@@ -275,15 +280,15 @@
       "Name": "My first Planimal!",
       "Percentage": 69,
       "XP": 100,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "RED_SLIME_TIME",
       "SetID": "ca3djk0",
       "Name": "Red Slime Time",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 100,
-      "UsersEstimate": 174
+      "UsersEstimate": 172
     },
     {
       "ID": "SAVE_THE_SLIMES",
@@ -307,7 +312,7 @@
       "Name": "To the Rec Center!",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "WELCOME_TO_PLANIMAL_POINT",
@@ -315,14 +320,14 @@
       "Name": "Welcome To Planimal Point",
       "Percentage": 97,
       "XP": 100,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3djk0",
       "IsBase": true,
-      "Progressed": 260,
+      "Progressed": 261,
       "Completed": 8
     }
   ],
@@ -330,8 +335,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-07-30T22:07:56.3044152+00:00",
+  "LastChanged_Achievements": "2023-07-30T23:07:54.7699276+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:10.6242852+00:00",
-  "LastUpdate_Ratings": "2023-07-30T21:59:24.8934713+00:00",
-  "LastUpdate_Achievements": "2023-07-30T22:07:56.3044239+00:00"
+  "LastUpdate_Ratings": "2023-07-30T22:59:24.8296633+00:00",
+  "LastUpdate_Achievements": "2023-07-30T23:07:54.7699376+00:00"
 }
