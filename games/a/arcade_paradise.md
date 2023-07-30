@@ -5,15 +5,15 @@ Rating: 4.58 (Ranked 424)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~639 |
-| Fetch Quest Complete | 91.00% | ~606 |
-| I can't wait! | 83.00% | ~553 |
-| Swish | 56.00% | ~373 |
-| Clean up on Aisle 9 | 40.00% | ~266 |
+| Pushing a pull door | 96.00% | ~640 |
+| Fetch Quest Complete | 90.00% | ~600 |
+| I can't wait! | 83.00% | ~554 |
+| Swish | 56.00% | ~374 |
+| Clean up on Aisle 9 | 40.00% | ~267 |
 | Machine Maxed | 30.00% | ~200 |
-| Bug Fixer | 25.00% | ~166 |
-| Existential dread | 25.00% | ~166 |
-| Gerald of Riviera | 25.00% | ~166 |
+| Bug Fixer | 25.00% | ~167 |
+| Existential dread | 25.00% | ~167 |
+| Gerald of Riviera | 25.00% | ~167 |
 | Goal | 22.00% | ~147 |
 | I ran the numbers | 15.00% | ~100 |
 | Taking the plunge | 13.00% | ~87 |
@@ -37,30 +37,30 @@ Rating: 4.58 (Ranked 424)
 | To do. Done! | 2.00% | ~13 |
 | Modern Gorefare | 2.00% | ~13 |
 | GTA: Crime City | 2.00% | ~13 |
-| Slacker | 2.00% | ~13 |
 | 1337 HAXXOR | 1.00% | ~7 |
 | Fresh Prince of Grindstone | 1.00% | ~7 |
 | Drop the ball | 1.00% | ~7 |
 | Fat Princess | 1.00% | ~7 |
 | Hexadecimal | 1.00% | ~7 |
 | IMANOK CODE | 1.00% | ~7 |
+| Slacker | 1.00% | ~7 |
 | Intergalactic, planetary, planetary... | 1.00% | ~7 |
 | True Capitalist | 0.90% | ~6 |
 | It's a horror game | 0.90% | ~6 |
-| Once upon a slime | 0.80% | ~5 |
-| Smells like teen spirit | 0.80% | ~5 |
-| Got 9999 problem but a Zombie ain't one | 0.80% | ~5 |
+| Once upon a slime | 0.70% | ~5 |
+| Smells like teen spirit | 0.70% | ~5 |
+| Got 9999 problem but a Zombie ain't one | 0.70% | ~5 |
 | Friends Reunited | 0.60% | ~4 |
 | Arcadeception | 0.60% | ~4 |
-| Corporate Restructrure | 0.50% | ~3 |
-| Sonically Youthful | 0.50% | ~3 |
+| Corporate Restructrure | 0.40% | ~3 |
+| Sonically Youthful | 0.40% | ~3 |
 | Pimp My Ride | 0.30% | ~2 |
-| Many Machines Maxed | 0.20% | ~1 |
-| Ballz To The Wallz | 0.20% | ~1 |
-| Another all nighter? | 0.20% | ~1 |
+| Many Machines Maxed | 0.10% | ~1 |
+| Ballz To The Wallz | 0.10% | ~1 |
+| Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666 (Ranked 210)  
+Progressed: 667 (Ranked 210)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-25 | 660 | 0 |
 | 2023-07-27 | 662 | 0 |
 | 2023-07-28 | 664 | 0 |
-| 2023-07-30 | 666 | 0 |
+| 2023-07-30 | 667 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

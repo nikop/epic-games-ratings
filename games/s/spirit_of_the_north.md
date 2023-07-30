@@ -6,22 +6,22 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~43,431 |
-| INFUSED WITH LIGHT | 53.00% | ~33,851 |
-| FOXIN' AROUND | 29.00% | ~18,522 |
-| FETCH | 27.00% | ~17,245 |
-| BLOOMS OF LIGHT | 26.00% | ~16,606 |
-| BEST FRIENDS | 22.00% | ~14,051 |
-| AWAKEN | 21.00% | ~13,412 |
-| ERADICATE | 21.00% | ~13,412 |
-| SPIRIT BARK | 21.00% | ~13,412 |
-| GARDEN OF LIGHT | 18.00% | ~11,496 |
-| SPIRIT FORM | 16.00% | ~10,219 |
-| UPROOTING DARKNESS | 15.00% | ~9,580 |
-| WRITTEN IN STONE | 15.00% | ~9,580 |
-| WEIGHTLESS | 12.00% | ~7,664 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~43,434 |
+| INFUSED WITH LIGHT | 53.00% | ~33,853 |
+| FOXIN' AROUND | 29.00% | ~18,523 |
+| FETCH | 27.00% | ~17,246 |
+| BLOOMS OF LIGHT | 26.00% | ~16,607 |
+| BEST FRIENDS | 22.00% | ~14,052 |
+| AWAKEN | 21.00% | ~13,413 |
+| ERADICATE | 21.00% | ~13,413 |
+| SPIRIT BARK | 21.00% | ~13,413 |
+| GARDEN OF LIGHT | 18.00% | ~11,497 |
+| SPIRIT FORM | 16.00% | ~10,220 |
+| UPROOTING DARKNESS | 15.00% | ~9,581 |
+| WRITTEN IN STONE | 15.00% | ~9,581 |
+| WEIGHTLESS | 12.00% | ~7,665 |
 | SPIRIT DASH | 11.00% | ~7,026 |
-| OLD COMPANION | 9.00% | ~5,748 |
+| OLD COMPANION | 9.00% | ~5,749 |
 | PLAGUE DOCTOR | 8.00% | ~5,110 |
 | SPIRITED AWAY | 8.00% | ~5,110 |
 | MATCH MAKER | 7.00% | ~4,471 |
@@ -31,8 +31,8 @@ Number of Ratings: 1,175  (23.09.2022)
 | NONE FORGOTTEN | 2.00% | ~1,277 |
 | KINDRED SPIRITS | 0.60% | ~383 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,869 (Ranked 83)  
-Completed: 328 (0.51%) (Ranked 135)  
+Progressed: 63,873 (Ranked 83)  
+Completed: 329 (0.52%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -132,7 +132,7 @@ Completed: 328 (0.51%) (Ranked 135)
 | 2023-07-27 | 63,586 | 325 |
 | 2023-07-28 | 63,702 | 326 |
 | 2023-07-29 | 63,849 | 328 |
-| 2023-07-30 | 63,869 | 328 |
+| 2023-07-30 | 63,873 | 329 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 477)  
 Sum: 113 (Ranked 408)  

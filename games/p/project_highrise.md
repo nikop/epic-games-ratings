@@ -17,9 +17,9 @@
 | Proper Walls | 31.00% | ~90 |
 | Destination Destiny | 29.00% | ~84 |
 | Happy Tenants | 25.00% | ~72 |
+| Potent Potables | 24.00% | ~70 |
 | Smooth Service | 24.00% | ~70 |
 | Your Prestige is Rising | 23.00% | ~67 |
-| Potent Potables | 23.00% | ~67 |
 | Retail Revenue | 23.00% | ~67 |
 | Lux Living | 21.00% | ~61 |
 | Don't Feel a Loan | 21.00% | ~61 |
@@ -45,8 +45,8 @@
 | Master of Puppets | 9.00% | ~26 |
 | Refined Palates | 9.00% | ~26 |
 | Phoning It In | 9.00% | ~26 |
+| First 100 Days | 8.00% | ~23 |
 | Aestheticly Pleased | 8.00% | ~23 |
-| First 100 Days | 7.00% | ~20 |
 | Water Features | 7.00% | ~20 |
 | Meet Me at HQ | 7.00% | ~20 |
 | Maximum Reuse | 7.00% | ~20 |

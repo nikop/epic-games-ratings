@@ -162,9 +162,9 @@
       "ID": "ach_complete_30",
       "SetID": "5e260i9",
       "Name": "Brilliant mind!",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 200,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_complete_tutorial",
@@ -178,17 +178,17 @@
       "ID": "ach_hint_3",
       "SetID": "5e260i9",
       "Name": "A helping hand!",
-      "Percentage": 69,
+      "Percentage": 72,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_hint_6",
       "SetID": "5e260i9",
       "Name": "Supported success!",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 70,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_hint_9",
@@ -210,9 +210,9 @@
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 69,
+      "Percentage": 75,
       "XP": 80,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_skip_1",
@@ -248,8 +248,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-07-30T07:02:45.8072661+00:00",
+  "LastChanged_Achievements": "2023-07-30T08:00:40.5685019+00:00",
   "LastUpdate_AppInfo": "2023-07-27T19:57:03.7416297+00:00",
-  "LastUpdate_Ratings": "2023-07-30T06:57:21.068212+00:00",
-  "LastUpdate_Achievements": "2023-07-30T07:02:45.8072972+00:00"
+  "LastUpdate_Ratings": "2023-07-30T07:56:57.2158582+00:00",
+  "LastUpdate_Achievements": "2023-07-30T08:00:40.5685126+00:00"
 }

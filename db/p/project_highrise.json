@@ -671,9 +671,9 @@
       "ID": "ach_100days",
       "SetID": "b8gh1fi",
       "Name": "First 100 Days",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_ada",
@@ -1199,9 +1199,9 @@
       "ID": "ach_restaurants_4",
       "SetID": "b8gh1fi",
       "Name": "Potent Potables",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_restaurants_5",
@@ -1384,8 +1384,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-30T07:02:39.3301854+00:00",
+  "LastChanged_Achievements": "2023-07-30T08:00:36.3114944+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:50.6819272+00:00",
-  "LastUpdate_Ratings": "2023-07-30T06:59:14.9808785+00:00",
-  "LastUpdate_Achievements": "2023-07-30T07:02:39.3303328+00:00"
+  "LastUpdate_Ratings": "2023-07-30T07:58:13.0106082+00:00",
+  "LastUpdate_Achievements": "2023-07-30T08:00:36.3116071+00:00"
 }

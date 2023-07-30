@@ -6,16 +6,16 @@
 | ---- | ---------- | ----- |
 | Such a strange dream… | 87.00% | ~157 |
 | Your first fight | 86.00% | ~155 |
+| First winning | 84.00% | ~151 |
 | Good Person Chip | 84.00% | ~151 |
-| First winning | 83.00% | ~149 |
 | Your first job | 83.00% | ~149 |
 | Old movies enjoyer | 79.00% | ~142 |
 | First defeat | 78.00% | ~140 |
 | Fitness professional | 76.00% | ~137 |
-| Depressed visitor | 74.00% | ~133 |
+| Depressed visitor | 75.00% | ~135 |
 | Neurotrainer – power gainer! | 74.00% | ~133 |
 | Employee of the week | 74.00% | ~133 |
-| Your own amateur gym | 72.00% | ~130 |
+| Your own amateur gym | 73.00% | ~131 |
 | Run K, run! | 71.00% | ~128 |
 | No bullying more | 66.00% | ~119 |
 | Hello, world! | 66.00% | ~119 |
@@ -39,17 +39,17 @@
 | Escaped from a big trouble | 45.00% | ~81 |
 | Now you are worthy | 44.00% | ~79 |
 | No blades in the gym | 42.00% | ~76 |
+| Mysterious voice | 40.00% | ~72 |
 | Guiding on the right path | 40.00% | ~72 |
-| Mysterious voice | 39.00% | ~70 |
 | Fight is life | 38.00% | ~68 |
 | Responsible approach | 35.00% | ~63 |
 | GYM professional | 34.00% | ~61 |
 | Deal with life | 33.00% | ~59 |
 | Champion – no way back | 33.00% | ~59 |
+| Poisoned fighter | 33.00% | ~59 |
 | Get out of my apartment! | 33.00% | ~59 |
 | Underground dwellers | 33.00% | ~59 |
 | Mom got better | 32.00% | ~58 |
-| Poisoned fighter | 32.00% | ~58 |
 | The die is cast | 32.00% | ~58 |
 | Seashell hunter | 31.00% | ~56 |
 | Gang wrangler | 30.00% | ~54 |
@@ -62,11 +62,11 @@
 | Trap disarmed | 26.00% | ~47 |
 | Another world | 26.00% | ~47 |
 | The lonesome road | 26.00% | ~47 |
+| Keep nature safe | 26.00% | ~47 |
 | Key memories | 26.00% | ~47 |
 | Not little hacker | 26.00% | ~47 |
 | The heart of the Resistance | 26.00% | ~47 |
-| Keep nature safe | 25.00% | ~45 |
-| Family comes first | 24.00% | ~43 |
+| Family comes first | 25.00% | ~45 |
 | Silver’s past | 22.00% | ~40 |
 | Better cooking at home | 22.00% | ~40 |
 | The only right decision | 22.00% | ~40 |

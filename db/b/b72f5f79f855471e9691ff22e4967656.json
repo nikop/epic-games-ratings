@@ -340,9 +340,9 @@
       "ID": "interactBerry10",
       "SetID": "ci65fo0",
       "Name": "Gourmand",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "interactChest10",
@@ -865,8 +865,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-30T07:05:19.0875823+00:00",
+  "LastChanged_Achievements": "2023-07-30T08:03:50.6417817+00:00",
   "LastUpdate_AppInfo": "2023-07-26T10:57:01.3631939+00:00",
-  "LastUpdate_Ratings": "2023-07-30T06:57:48.4768666+00:00",
-  "LastUpdate_Achievements": "2023-07-30T07:05:19.0876615+00:00"
+  "LastUpdate_Ratings": "2023-07-30T07:57:14.3199032+00:00",
+  "LastUpdate_Achievements": "2023-07-30T08:03:50.6418618+00:00"
 }

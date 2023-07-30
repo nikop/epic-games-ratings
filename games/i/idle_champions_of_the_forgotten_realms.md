@@ -22,13 +22,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wet Feet | 0.60% | ~1,302 |
 | Seeds of Destruction | 0.60% | ~1,099 |
 | Return to the Tomb | 0.60% | ~1,099 |
+| Heatwave | 0.60% | ~1,099 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,099 |
 | The Witchlight Carnival | 0.50% | ~916 |
 | Hatchlings Underfoot | 0.50% | ~1,085 |
 | Don't Look Up! | 0.50% | ~1,085 |
 | Heavy Burden | 0.50% | ~1,085 |
 | The Evacuation of Waterdeep | 0.50% | ~916 |
-| Heatwave | 0.50% | ~916 |
 | The Dread Domain of Tovag | 0.50% | ~916 |
 | Were-verpowered | 0.50% | ~1,085 |
 | A Persistent Buzzing | 0.50% | ~1,085 |
@@ -83,6 +83,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of the Nine Gods | 0.30% | ~651 |
 | The Immortal Warrior | 0.30% | ~651 |
 | Tower on the Lake | 0.30% | ~651 |
+| Trollskull Manor | 0.30% | ~651 |
 | The Ring of Regeneration | 0.30% | ~651 |
 | The Crumbling Temple | 0.30% | ~651 |
 | Seeking Allies | 0.30% | ~651 |
@@ -154,7 +155,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Domesticated Owlbears | 0.20% | ~434 |
 | The Wyrmheart Mine | 0.20% | ~434 |
 | Seeds of Deceit | 0.20% | ~434 |
-| Trollskull Manor | 0.20% | ~434 |
 | Attack on the Manor | 0.20% | ~434 |
 | The Death Curse | 0.20% | ~434 |
 | Treasure Hunters | 0.20% | ~434 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,951 (Ranked 53)  
-Completed: 2,137 (0.99%) (Ranked 111)  
+Progressed: 216,959 (Ranked 53)  
+Completed: 2,137 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -620,7 +620,7 @@ Completed: 2,137 (0.99%) (Ranked 111)
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
-| 2023-07-30 | 216,951 | 2,137 |
+| 2023-07-30 | 216,959 | 2,137 |
 ## Awards
 Max (Diverse Characters): 5,100  (Ranked 67)  
 Sum: 30,801 (Ranked 38)  

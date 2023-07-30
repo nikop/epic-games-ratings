@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -2060,9 +2060,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 278
+      "UsersEstimate": 284
     },
     {
       "ID": "MQ05_1",
@@ -2189,8 +2189,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-07-24T23:58:19.6744242+00:00",
-  "LastChanged_Achievements": "2023-07-30T07:08:00.8809588+00:00",
+  "LastChanged_Achievements": "2023-07-30T08:06:07.7502004+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:58.5261994+00:00",
-  "LastUpdate_Ratings": "2023-07-30T06:58:21.0822257+00:00",
-  "LastUpdate_Achievements": "2023-07-30T07:08:00.8810413+00:00"
+  "LastUpdate_Ratings": "2023-07-30T07:57:36.7324352+00:00",
+  "LastUpdate_Achievements": "2023-07-30T08:06:07.7502331+00:00"
 }

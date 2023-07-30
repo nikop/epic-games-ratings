@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 666,
+  "EOS_Progressed": 667,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -533,6 +533,11 @@
       "Time": "2023-07-30T07:04:55.6398626+00:00",
       "NumProgressed": 666,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T08:03:33.6758556+00:00",
+      "NumProgressed": 667,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -550,7 +555,7 @@
       "ID": "15MachineTrophy",
       "SetID": "32aeje8",
       "Name": "Many Machines Maxed",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -590,9 +595,9 @@
       "ID": "4HopperTrophy",
       "SetID": "32aeje8",
       "Name": "Fetch Quest Complete",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 606
+      "UsersEstimate": 600
     },
     {
       "ID": "AhoyTrophy",
@@ -664,7 +669,7 @@
       "Name": "Bug Fixer",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "DreadTrophy",
@@ -672,7 +677,7 @@
       "Name": "Existential dread",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "DropBallTrophy",
@@ -688,7 +693,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "Ext4Trophy",
@@ -798,7 +803,7 @@
       "ID": "KKBossTrophy",
       "SetID": "32aeje8",
       "Name": "Corporate Restructrure",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -824,7 +829,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "MaxPriceTrophy",
@@ -838,7 +843,7 @@
       "ID": "MergeBallsTrophy",
       "SetID": "32aeje8",
       "Name": "Ballz To The Wallz",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -854,7 +859,7 @@
       "ID": "PassOutTrophy",
       "SetID": "32aeje8",
       "Name": "Another all nighter?",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -886,7 +891,7 @@
       "ID": "SlimeTrophy",
       "SetID": "32aeje8",
       "Name": "Once upon a slime",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -894,9 +899,9 @@
       "ID": "SolitaireTrophy",
       "SetID": "32aeje8",
       "Name": "Slacker",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 7
     },
     {
       "ID": "SpinTrophy",
@@ -912,7 +917,7 @@
       "Name": "Swish",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "TerrorTrophy",
@@ -926,7 +931,7 @@
       "ID": "ToiletTrophy",
       "SetID": "32aeje8",
       "Name": "Smells like teen spirit",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -944,7 +949,7 @@
       "Name": "Clean up on Aisle 9",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -952,13 +957,13 @@
       "Name": "Gerald of Riviera",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "YouthTrophy",
       "SetID": "32aeje8",
       "Name": "Sonically Youthful",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -966,7 +971,7 @@
       "ID": "ZombieKillTrophy",
       "SetID": "32aeje8",
       "Name": "Got 9999 problem but a Zombie ain\u0027t one",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 5
     }
@@ -975,7 +980,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 666,
+      "Progressed": 667,
       "Completed": 0
     }
   ],
@@ -983,8 +988,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-06-02T03:58:32.0065116+00:00",
-  "LastChanged_Achievements": "2023-07-30T07:04:55.639862+00:00",
+  "LastChanged_Achievements": "2023-07-30T08:03:33.6758553+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:06.8292107+00:00",
-  "LastUpdate_Ratings": "2023-07-30T06:59:34.1398833+00:00",
-  "LastUpdate_Achievements": "2023-07-30T07:04:55.6399265+00:00"
+  "LastUpdate_Ratings": "2023-07-30T07:58:27.4067488+00:00",
+  "LastUpdate_Achievements": "2023-07-30T08:03:33.6759059+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -90,10 +90,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68088,
+  "EOS_Progressed": 68090,
   "EOS_Completed": 673,
   "EOS_NewPlayers": 942,
-  "EOS_NewCompleters": 22,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
@@ -11085,6 +11085,11 @@
       "Time": "2023-07-30T07:08:24.9755584+00:00",
       "NumProgressed": 68088,
       "NumCompleted": 673
+    },
+    {
+      "Time": "2023-07-30T08:06:24.4017548+00:00",
+      "NumProgressed": 68090,
+      "NumCompleted": 673
     }
   ],
   "TotalAchievements": 25,
@@ -11128,7 +11133,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 14979
+      "UsersEstimate": 14980
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -11248,7 +11253,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 8851
+      "UsersEstimate": 8852
     },
     {
       "ID": "Sniper",
@@ -11295,7 +11300,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 68088,
+      "Progressed": 68090,
       "Completed": 673
     }
   ],
@@ -11303,8 +11308,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-07-28T23:00:50.3607038+00:00",
-  "LastChanged_Achievements": "2023-07-30T07:08:24.9755577+00:00",
+  "LastChanged_Achievements": "2023-07-30T08:06:24.4017543+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:54.7008229+00:00",
-  "LastUpdate_Ratings": "2023-07-30T06:57:19.748786+00:00",
-  "LastUpdate_Achievements": "2023-07-30T07:08:24.9756911+00:00"
+  "LastUpdate_Ratings": "2023-07-30T07:56:56.3879852+00:00",
+  "LastUpdate_Achievements": "2023-07-30T08:06:24.4018363+00:00"
 }

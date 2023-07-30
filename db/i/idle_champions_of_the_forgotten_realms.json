@@ -6,7 +6,7 @@
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 111,
+  "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 38,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
@@ -5380,11 +5380,11 @@
       "Count": 3329
     }
   ],
-  "EOS_Progressed": 216951,
+  "EOS_Progressed": 216959,
   "EOS_Completed": 2137,
-  "EOS_NewPlayers": 2223,
+  "EOS_NewPlayers": 2216,
   "EOS_NewCompleters": 77,
-  "EOS_Completed_Percentage": 0.99,
+  "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -16205,6 +16205,11 @@
       "Time": "2023-07-30T07:04:34.872546+00:00",
       "NumProgressed": 216951,
       "NumCompleted": 2137
+    },
+    {
+      "Time": "2023-07-30T08:03:19.1491932+00:00",
+      "NumProgressed": 216959,
+      "NumCompleted": 2137
     }
   ],
   "TotalAchievements": 512,
@@ -16974,9 +16979,9 @@
       "ID": "objective_completed_1178",
       "SetID": "415jc5c",
       "Name": "Heatwave",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 1099
     },
     {
       "ID": "objective_completed_1179",
@@ -17822,9 +17827,9 @@
       "ID": "objective_completed_278",
       "SetID": "cc37lbc",
       "Name": "Trollskull Manor",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 434
+      "UsersEstimate": 651
     },
     {
       "ID": "objective_completed_279",
@@ -20311,21 +20316,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183225,
+      "Progressed": 183233,
       "Completed": 3027
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 216951,
+      "Progressed": 216959,
       "Completed": 2137
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-30T01:55:12.0623946+00:00",
-  "LastChanged_Achievements": "2023-07-30T07:04:34.8725452+00:00",
+  "LastChanged_Achievements": "2023-07-30T08:03:19.1491928+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-30T06:59:28.0894943+00:00",
-  "LastUpdate_Achievements": "2023-07-30T07:04:34.8754918+00:00"
+  "LastUpdate_Ratings": "2023-07-30T07:58:23.2962687+00:00",
+  "LastUpdate_Achievements": "2023-07-30T08:03:19.151797+00:00"
 }
