@@ -26,35 +26,36 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.70% | ~92 |
 | Glorious | 0.70% | ~92 |
 | Just | 0.70% | ~92 |
+| Keystone | 0.70% | ~92 |
 | Learned | 0.70% | ~92 |
 | Judaism | 0.70% | ~92 |
 | Greek Paganism | 0.70% | ~92 |
 | Naming Landmarks | 0.70% | ~92 |
 | Trade Caravan | 0.70% | ~92 |
 | Ambitious | 0.60% | ~79 |
-| Keystone | 0.60% | ~79 |
 | Magnificent | 0.60% | ~79 |
 | Warrior | 0.60% | ~79 |
 | Wise | 0.60% | ~79 |
 | Developing Cities | 0.60% | ~79 |
+| Able Difficulty | 0.60% | ~79 |
 | Lighthouse | 0.60% | ~79 |
 | Pyramids | 0.60% | ~79 |
 | Learn to Play 1 | 0.60% | ~79 |
 | Christianity | 0.60% | ~79 |
 | Babylonian Paganism | 0.60% | ~79 |
+| Carthaginian Paganism | 0.60% | ~79 |
 | Roman Paganism | 0.60% | ~79 |
 | Zoroastrianism | 0.60% | ~79 |
 | Brilliant | 0.50% | ~66 |
 | Fountainhead | 0.50% | ~66 |
 | Great | 0.50% | ~66 |
 | Strong Cities | 0.50% | ~66 |
-| Able Difficulty | 0.50% | ~66 |
 | Artisans | 0.50% | ~66 |
 | Colossus | 0.50% | ~66 |
 | Great Ziggurat | 0.50% | ~66 |
 | Ishtar Gate | 0.50% | ~66 |
 | Necropolis | 0.50% | ~66 |
-| Carthaginian Paganism | 0.50% | ~66 |
+| Learn to Play 2 | 0.50% | ~66 |
 | Egyptian Paganism | 0.50% | ~66 |
 | Regicide | 0.40% | ~53 |
 | Drillmaster | 0.40% | ~53 |
@@ -65,7 +66,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.40% | ~53 |
 | Mausoleum | 0.40% | ~53 |
 | Musaeum | 0.40% | ~53 |
-| Learn to Play 2 | 0.40% | ~53 |
 | Greece | 0.40% | ~53 |
 | Manichaeism | 0.40% | ~53 |
 | Mythology | 0.40% | ~53 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,182 (Ranked 117)  
+Progressed: 13,183 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,7 +404,7 @@ Completed: 5 (0.04%) (Ranked 217)
 | 2023-07-27 | 13,128 | 5 |
 | 2023-07-28 | 13,145 | 5 |
 | 2023-07-29 | 13,164 | 5 |
-| 2023-07-30 | 13,182 | 5 |
+| 2023-07-30 | 13,183 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

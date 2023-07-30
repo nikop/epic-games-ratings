@@ -3,12 +3,12 @@
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
   "Ranking_Rating": 656,
-  "Ranking_Popularity": 237,
+  "Ranking_Popularity": 238,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -549,9 +549,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 218790,
+  "EOS_Progressed": 218794,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 735,
+  "EOS_NewPlayers": 738,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11384,6 +11384,11 @@
       "Time": "2023-07-30T16:05:41.2692259+00:00",
       "NumProgressed": 218790,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-30T17:06:51.7141688+00:00",
+      "NumProgressed": 218794,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -11395,7 +11400,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41570
+      "UsersEstimate": 41571
     },
     {
       "ID": "ACH_BASE_10",
@@ -11475,7 +11480,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13127
+      "UsersEstimate": 13128
     },
     {
       "ID": "ACH_BASE_20",
@@ -11666,7 +11671,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 218790,
+      "Progressed": 218794,
       "Completed": 4
     }
   ],
@@ -11674,8 +11679,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-29T17:58:35.8211483+00:00",
-  "LastChanged_Achievements": "2023-07-30T16:05:41.2692253+00:00",
+  "LastChanged_Achievements": "2023-07-30T17:06:51.7141682+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.8234436+00:00",
-  "LastUpdate_Ratings": "2023-07-30T15:58:47.6989933+00:00",
-  "LastUpdate_Achievements": "2023-07-30T16:05:41.2693241+00:00"
+  "LastUpdate_Ratings": "2023-07-30T16:59:29.4360675+00:00",
+  "LastUpdate_Achievements": "2023-07-30T17:06:51.7142701+00:00"
 }

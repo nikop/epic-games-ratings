@@ -3,12 +3,12 @@
   "Name": "Roller Champions\u2122",
   "ProductSlug": "roller-champions",
   "Ranking_Rating": 753,
-  "Ranking_Popularity": 248,
+  "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-06-23T13:40:00+00:00",
     "PcReleaseDate": "2022-05-25T14:00:00+00:00",
@@ -2402,10 +2402,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 2132,
       "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2023-07-30T16:59:19.4152435+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 2133,
+      "NumberOfAwardsMax": 247
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2132,
+  "NumberOfAwards": 2133,
   "NumberOfAwardsMax": 247,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2443,7 +2449,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 220
+      "Count": 221
     },
     {
       "Text": "This game has Competitive Players",
@@ -2487,8 +2493,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2023-07-29T18:58:55.4454893+00:00",
+  "LastChanged": "2023-07-30T16:59:19.4152432+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:12.8135388+00:00",
-  "LastUpdate_Ratings": "2023-07-30T15:58:39.3165973+00:00",
-  "LastUpdate_Achievements": "2023-07-30T16:02:11.6415101+00:00"
+  "LastUpdate_Ratings": "2023-07-30T16:59:19.4152441+00:00",
+  "LastUpdate_Achievements": "2023-07-30T17:03:27.2505096+00:00"
 }

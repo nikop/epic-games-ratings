@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 85,
   "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -406,9 +406,9 @@
       "ID": "14",
       "SetID": "6glb5g1",
       "Name": "Lightning swamp.",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "15",
@@ -431,8 +431,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-07-30T16:03:36.8137027+00:00",
+  "LastChanged_Achievements": "2023-07-30T17:04:20.1383244+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:34.4582495+00:00",
-  "LastUpdate_Ratings": "2023-07-30T15:58:05.9180907+00:00",
-  "LastUpdate_Achievements": "2023-07-30T16:03:36.8137166+00:00"
+  "LastUpdate_Ratings": "2023-07-30T16:58:36.1554193+00:00",
+  "LastUpdate_Achievements": "2023-07-30T17:04:20.1383365+00:00"
 }

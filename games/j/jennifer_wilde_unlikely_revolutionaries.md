@@ -8,10 +8,10 @@
 | Clothes Hunter | 28.00% | ~13 |
 | Con Artist | 28.00% | ~13 |
 | Bedtime Storyteller | 24.00% | ~11 |
-| Exorcist | 17.00% | ~8 |
-| Electrician | 17.00% | ~8 |
-| Card Sharp | 13.00% | ~6 |
-| I Ain't Afraid of No Ghost | 11.00% | ~5 |
+| Exorcist | 20.00% | ~9 |
+| Electrician | 20.00% | ~9 |
+| Card Sharp | 15.00% | ~7 |
+| I Ain't Afraid of No Ghost | 13.00% | ~6 |
 | Joyrider | 9.00% | ~4 |
 | Top Detective | 4.00% | ~2 |
 ## Popularity (Based on EOS Achievements)

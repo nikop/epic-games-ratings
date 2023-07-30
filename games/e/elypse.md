@@ -19,9 +19,9 @@
 | The beast within | 31.00% | ~23 |
 | It's getting dark | 31.00% | ~23 |
 | Hard Rock | 31.00% | ~23 |
-| Rooftop | 28.00% | ~21 |
+| Rooftop | 29.00% | ~22 |
 | Homeless | 28.00% | ~21 |
-| Big badaboom! | 25.00% | ~19 |
+| Big badaboom! | 27.00% | ~20 |
 | Bookworm | 23.00% | ~17 |
 | Payback | 21.00% | ~16 |
 | Full power | 20.00% | ~15 |

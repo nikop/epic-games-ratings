@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -920,7 +920,7 @@
       "Count": 122
     }
   ],
-  "EOS_Progressed": 8046,
+  "EOS_Progressed": 8047,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
@@ -3995,6 +3995,11 @@
       "Time": "2023-07-30T15:04:54.9795304+00:00",
       "NumProgressed": 8046,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-30T17:05:58.7448046+00:00",
+      "NumProgressed": 8047,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -4030,7 +4035,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5069
+      "UsersEstimate": 5070
     },
     {
       "ID": "DemonCastleRestoration",
@@ -4038,7 +4043,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "DwarfChandelier",
@@ -4054,7 +4059,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3218
+      "UsersEstimate": 3219
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -4062,7 +4067,7 @@
       "Name": "Deadly Power",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -4086,7 +4091,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2173
     },
     {
       "ID": "HeroSlayer",
@@ -4118,7 +4123,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3218
+      "UsersEstimate": 3219
     },
     {
       "ID": "RookieWelcome",
@@ -4134,7 +4139,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5069
+      "UsersEstimate": 5070
     },
     {
       "ID": "SavedElderEnt_2",
@@ -4166,7 +4171,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7483
+      "UsersEstimate": 7484
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4174,7 +4179,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3862
+      "UsersEstimate": 3863
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -4197,15 +4202,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8046,
+      "Progressed": 8047,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-30T01:56:13.7308805+00:00",
-  "LastChanged_Achievements": "2023-07-30T16:04:56.8848328+00:00",
+  "LastChanged_Achievements": "2023-07-30T17:05:58.7448042+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:57.8506775+00:00",
-  "LastUpdate_Ratings": "2023-07-30T15:59:20.4811541+00:00",
-  "LastUpdate_Achievements": "2023-07-30T16:04:56.8848721+00:00"
+  "LastUpdate_Ratings": "2023-07-30T17:00:06.9147158+00:00",
+  "LastUpdate_Achievements": "2023-07-30T17:05:58.7448428+00:00"
 }

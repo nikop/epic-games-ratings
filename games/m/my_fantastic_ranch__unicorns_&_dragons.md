@@ -13,12 +13,12 @@
 | Festival Fever | 13.00% | ~3 |
 | Landscaper | 13.00% | ~3 |
 | Entering New Territory | 13.00% | ~3 |
+| Diamonds in the Rough | 8.00% | ~2 |
 | Dream Big | 8.00% | ~2 |
 | Lecturer | 8.00% | ~2 |
 | Kindred Spirits | 8.00% | ~2 |
 | Gotta Adopt Them All! | 4.00% | ~1 |
 | Protected Nature Reserve | 4.00% | ~1 |
-| Diamonds in the Rough | 4.00% | ~1 |
 | Paving the Way | 4.00% | ~1 |
 | Just One More Go | 4.00% | ~1 |
 | Fully Booked! | 4.00% | ~1 |

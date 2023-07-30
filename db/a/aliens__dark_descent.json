@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -224,7 +224,7 @@
   ],
   "EOS_Progressed": 3076,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3567,9 +3567,9 @@
       "ID": "ACH_MISSION_04",
       "SetID": "816efe",
       "Name": "Making a Stand",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1292
     },
     {
       "ID": "ACH_MISSION_05",
@@ -3599,9 +3599,9 @@
       "ID": "ACH_MISSION_08",
       "SetID": "816efe",
       "Name": "Deep Into Insanity",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 738
+      "UsersEstimate": 769
     },
     {
       "ID": "ACH_MISSION_09",
@@ -3655,9 +3655,9 @@
       "ID": "ACH_PROLOGUE",
       "SetID": "816efe",
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2492
+      "UsersEstimate": 2522
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -3720,8 +3720,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-30T05:59:39.6438639+00:00",
-  "LastChanged_Achievements": "2023-07-30T16:02:21.4010094+00:00",
+  "LastChanged_Achievements": "2023-07-30T17:03:39.2495655+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.5854461+00:00",
-  "LastUpdate_Ratings": "2023-07-30T15:59:33.4916801+00:00",
-  "LastUpdate_Achievements": "2023-07-30T16:02:21.4010664+00:00"
+  "LastUpdate_Ratings": "2023-07-30T17:00:22.7886703+00:00",
+  "LastUpdate_Achievements": "2023-07-30T17:03:39.2496319+00:00"
 }

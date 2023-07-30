@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Maniac vandal | 0.50% | ~2 |
 | Salesman | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 405 (Ranked 232)  
+Progressed: 405 (Ranked 233)  
 Completed: 2 (0.49%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |

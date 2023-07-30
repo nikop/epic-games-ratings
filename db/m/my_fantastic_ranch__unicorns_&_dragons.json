@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-11-17T09:00:00+00:00",
     "PcReleaseDate": "2022-11-17T09:00:00+00:00",
@@ -230,9 +230,9 @@
       "ID": "18",
       "SetID": "6ljhbe4",
       "Name": "Diamonds in the Rough",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "19",
@@ -367,8 +367,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2023-07-30T16:03:56.883239+00:00",
+  "LastChanged_Achievements": "2023-07-30T17:04:42.7849852+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:28.3914036+00:00",
-  "LastUpdate_Ratings": "2023-07-30T15:58:53.8784642+00:00",
-  "LastUpdate_Achievements": "2023-07-30T16:03:56.8832587+00:00"
+  "LastUpdate_Ratings": "2023-07-30T16:59:37.0855255+00:00",
+  "LastUpdate_Achievements": "2023-07-30T17:04:42.7850031+00:00"
 }

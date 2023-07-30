@@ -18,7 +18,7 @@
 | The entrails of the beast. | 8.00% | ~16 |
 | The mountain of peril. | 7.00% | ~14 |
 | Passing the carcass. | 5.00% | ~10 |
-| Lightning swamp. | 4.00% | ~8 |
+| Lightning swamp. | 5.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 205 (Ranked 279)  
 Completed: 4 (1.95%) (Ranked 85)  

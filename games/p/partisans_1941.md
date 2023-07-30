@@ -9,13 +9,13 @@ Number of Ratings: 98  (23.09.2022)
 | E1M1 | 36.00% | ~440 |
 | Grenadier | 35.00% | ~427 |
 | War Never Changes | 35.00% | ~427 |
-| Heroes Never Die | 31.00% | ~379 |
+| Heroes Never Die | 32.00% | ~391 |
 | Mosquito bite | 30.00% | ~366 |
 | Spice It Up | 27.00% | ~330 |
 | Agent 47 | 22.00% | ~269 |
 | You're Gonna Go Far, Kid | 22.00% | ~269 |
 | Bomberman | 22.00% | ~269 |
-| Death to the Oppressor! | 15.00% | ~183 |
+| Death to the Oppressor! | 16.00% | ~195 |
 | The Gang's All Here | 13.00% | ~159 |
 | Your Answer | 12.00% | ~147 |
 | One by One | 11.00% | ~134 |

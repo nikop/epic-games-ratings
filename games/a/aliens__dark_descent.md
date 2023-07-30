@@ -5,7 +5,7 @@ Rating: 4.44 (Ranked 645)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,492 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,522 |
 | Snatched Out | 74.00% | ~2,276 |
 | Keep 'Em Coming | 73.00% | ~2,245 |
 | Cleaning Lethe, One Nest At A Time | 66.00% | ~2,030 |
@@ -18,7 +18,7 @@ Rating: 4.44 (Ranked 645)
 | First Steps Into Madness | 51.00% | ~1,569 |
 | Colonial Barrels | 49.00% | ~1,507 |
 | Harper's Hell | 43.00% | ~1,323 |
-| Making a Stand | 41.00% | ~1,261 |
+| Making a Stand | 42.00% | ~1,292 |
 | Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,261 |
 | Where It All Begun | 37.00% | ~1,138 |
 | Recouped Investment | 37.00% | ~1,138 |
@@ -26,7 +26,7 @@ Rating: 4.44 (Ranked 645)
 | Living Nightmare | 30.00% | ~923 |
 | The More The Merrier | 30.00% | ~923 |
 | The Darwin Era Was Here | 26.00% | ~800 |
-| Deep Into Insanity | 24.00% | ~738 |
+| Deep Into Insanity | 25.00% | ~769 |
 | The Passenger | 24.00% | ~738 |
 | Come on, You Wanna Live Forever? | 23.00% | ~707 |
 | Stuff Of Nightmares | 21.00% | ~646 |

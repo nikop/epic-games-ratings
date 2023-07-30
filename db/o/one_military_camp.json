@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -675,9 +675,9 @@
       "ID": "ACHIEVEMENT_ID_34",
       "SetID": "c504de6",
       "Name": "Self-sufficient",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_ID_35",
@@ -787,9 +787,9 @@
       "ID": "ACHIEVEMENT_ID_8",
       "SetID": "c504de6",
       "Name": "Green Energy",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_ID_9",
@@ -810,8 +810,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-07-30T16:03:59.1025389+00:00",
+  "LastChanged_Achievements": "2023-07-30T17:04:46.1037174+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:38.0107995+00:00",
-  "LastUpdate_Ratings": "2023-07-30T15:59:01.8419864+00:00",
-  "LastUpdate_Achievements": "2023-07-30T16:03:59.1025791+00:00"
+  "LastUpdate_Ratings": "2023-07-30T16:59:47.0557146+00:00",
+  "LastUpdate_Achievements": "2023-07-30T17:04:46.1037578+00:00"
 }

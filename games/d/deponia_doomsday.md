@@ -5,27 +5,27 @@ Rating: 4.56 (Ranked 465)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 88.00% | ~325 |
-| And again, and again, and... | 64.00% | ~236 |
+| Huzza, he's back. | 88.00% | ~326 |
+| And again, and again, and... | 64.00% | ~237 |
 | Burn, Elysium, burn! | 62.00% | ~229 |
-| Kuvaq Minigame-Master | 60.00% | ~221 |
-| FunScore | 55.00% | ~203 |
+| Kuvaq Minigame-Master | 60.00% | ~222 |
+| FunScore | 55.00% | ~204 |
 | Funtime's over | 53.00% | ~196 |
-| Chunky | 50.00% | ~184 |
-| Shall we play a game? | 48.00% | ~177 |
-| Boat of love, boat of love | 48.00% | ~177 |
+| Chunky | 50.00% | ~185 |
+| Shall we play a game? | 48.00% | ~178 |
+| Boat of love, boat of love | 48.00% | ~178 |
 | School's out | 43.00% | ~159 |
 | Scaffolding Expert | 37.00% | ~137 |
 | Elysian Minigame-Master | 37.00% | ~137 |
 | Sole Music | 36.00% | ~133 |
-| No man left behind! | 30.00% | ~111 |
 | Portals come in packs | 30.00% | ~111 |
+| No man left behind! | 29.00% | ~107 |
 | Photo Friend | 26.00% | ~96 |
 | Brainfreeze | 22.00% | ~81 |
 | And everything comes full circle. | 20.00% | ~74 |
 | Masseltov | 19.00% | ~70 |
-| Quickdraw | 15.00% | ~55 |
-| Thuna...? | 15.00% | ~55 |
+| Quickdraw | 15.00% | ~56 |
+| Thuna...? | 15.00% | ~56 |
 | Monstrous Harassment | 14.00% | ~52 |
 | Heading the inverter | 14.00% | ~52 |
 | Blast from the Past | 14.00% | ~52 |
@@ -42,8 +42,8 @@ Rating: 4.56 (Ranked 465)
 | Every man for himself! | 5.00% | ~18 |
 | 1001 Jackalopes | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 369 (Ranked 239)  
-Completed: 6 (1.63%) (Ranked 93)  
+Progressed: 370 (Ranked 239)  
+Completed: 6 (1.62%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,6 +63,7 @@ Completed: 6 (1.63%) (Ranked 93)
 | 2023-07-14 | 367 | 6 |
 | 2023-07-20 | 368 | 6 |
 | 2023-07-23 | 369 | 6 |
+| 2023-07-30 | 370 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

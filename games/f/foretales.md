@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Caged tiger | 62.00% | ~168 |
-| Gorilla warfare | 58.00% | ~157 |
+| Caged tiger | 62.00% | ~169 |
+| Gorilla warfare | 58.00% | ~158 |
 | Isenburg's fall | 49.00% | ~133 |
-| Pieces of eight! | 41.00% | ~111 |
+| Pieces of eight! | 41.00% | ~112 |
 | Aboard the Sea Bird | 32.00% | ~87 |
-| Dark and stinky | 30.00% | ~81 |
-| Elephant in the room | 30.00% | ~81 |
-| Sneak in, sneak out | 26.00% | ~70 |
+| Dark and stinky | 30.00% | ~82 |
+| Elephant in the room | 30.00% | ~82 |
+| Sneak in, sneak out | 26.00% | ~71 |
 | Is this the end? | 25.00% | ~68 |
 | A gift horse | 24.00% | ~65 |
 | You sssaved me | 24.00% | ~65 |
 | Say hello to my little friends | 21.00% | ~57 |
-| Heal thyself | 19.00% | ~51 |
+| Heal thyself | 19.00% | ~52 |
 | Gotcha | 18.00% | ~49 |
 | It's not cheating | 17.00% | ~46 |
-| Double trouble | 16.00% | ~43 |
+| Double trouble | 16.00% | ~44 |
 | Stronk | 15.00% | ~41 |
 | Super Moth Boy | 13.00% | ~35 |
 | Welcome to Forte Ailes | 13.00% | ~35 |
@@ -46,7 +46,7 @@
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 271 (Ranked 258)  
+Progressed: 272 (Ranked 258)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,6 +68,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 269 | 0 |
 | 2023-07-28 | 270 | 0 |
 | 2023-07-29 | 271 | 0 |
+| 2023-07-30 | 272 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

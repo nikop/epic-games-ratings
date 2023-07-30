@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,513 |
-| Maddening | 2.00% | ~4,342 |
-| Beast Intentions | 2.00% | ~4,342 |
+| A Brief Tour of the Realms | 3.00% | ~6,514 |
+| Maddening | 2.00% | ~4,343 |
+| Beast Intentions | 2.00% | ~4,343 |
 | The Silken Swamp | 1.00% | ~2,171 |
 | Supply Run | 1.00% | ~2,171 |
 | Rocky Reception | 1.00% | ~1,834 |
-| Vecna Lives! | 0.90% | ~1,650 |
-| Rock and Roll | 0.90% | ~1,650 |
+| Vecna Lives! | 0.90% | ~1,651 |
+| Rock and Roll | 0.90% | ~1,651 |
 | Flight of the Kindori Pod | 0.80% | ~1,467 |
 | Tall Tales | 0.70% | ~1,284 |
 | Vecna Loots! | 0.70% | ~1,284 |
@@ -23,6 +23,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Destruction | 0.60% | ~1,100 |
 | Return to the Tomb | 0.60% | ~1,100 |
 | Heatwave | 0.60% | ~1,100 |
+| Unearthed Evil | 0.60% | ~1,303 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,100 |
 | The Witchlight Carnival | 0.50% | ~917 |
 | Hatchlings Underfoot | 0.50% | ~1,086 |
@@ -36,7 +37,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.50% | ~1,086 |
 | A Mysterious Summons | 0.50% | ~1,086 |
 | Building Trust | 0.50% | ~1,086 |
-| Unearthed Evil | 0.50% | ~1,086 |
 | The Dinner Party | 0.50% | ~1,086 |
 | The Mad Wizard | 0.50% | ~1,086 |
 | Not That Type of Helm! | 0.50% | ~917 |
@@ -46,17 +46,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.50% | ~917 |
 | Krux's Speed Run | 0.50% | ~917 |
 | Thieves of the Coven | 0.40% | ~734 |
-| On the Hunt | 0.40% | ~868 |
-| Friends of the Forest | 0.40% | ~868 |
-| Low Initiative | 0.40% | ~868 |
-| Street War | 0.40% | ~868 |
-| March of the Undead | 0.40% | ~868 |
-| No Time To Rest | 0.40% | ~868 |
-| The Mists of Ravenloft | 0.40% | ~868 |
-| Invisible Shadows | 0.40% | ~868 |
-| Family Entanglements | 0.40% | ~868 |
-| The Botched Kidnapping | 0.40% | ~868 |
-| The Cursed Farmer | 0.40% | ~868 |
+| On the Hunt | 0.40% | ~869 |
+| Friends of the Forest | 0.40% | ~869 |
+| Low Initiative | 0.40% | ~869 |
+| Street War | 0.40% | ~869 |
+| March of the Undead | 0.40% | ~869 |
+| No Time To Rest | 0.40% | ~869 |
+| The Mists of Ravenloft | 0.40% | ~869 |
+| Invisible Shadows | 0.40% | ~869 |
+| Family Entanglements | 0.40% | ~869 |
+| The Botched Kidnapping | 0.40% | ~869 |
+| The Cursed Farmer | 0.40% | ~869 |
 | Luigi After Hours | 0.40% | ~734 |
 | Electric Mayhem | 0.40% | ~734 |
 | Animated Giff | 0.40% | ~734 |
@@ -89,6 +89,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.30% | ~651 |
 | The Ring of Regeneration | 0.30% | ~651 |
 | The Crumbling Temple | 0.30% | ~651 |
+| The Death Curse | 0.30% | ~651 |
 | Seeking Allies | 0.30% | ~651 |
 | Are Ya Chicken? | 0.30% | ~651 |
 | Useless Allies | 0.30% | ~651 |
@@ -157,7 +158,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Domesticated Owlbears | 0.20% | ~434 |
 | Seeds of Deceit | 0.20% | ~434 |
 | Attack on the Manor | 0.20% | ~434 |
-| The Death Curse | 0.20% | ~434 |
 | Treasure Hunters | 0.20% | ~434 |
 | The Guardian of Orolunga | 0.20% | ~434 |
 | Flies on the Wall | 0.20% | ~434 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,113 (Ranked 53)  
+Progressed: 217,133 (Ranked 53)  
 Completed: 2,137 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,7 +620,7 @@ Completed: 2,137 (0.98%) (Ranked 112)
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
-| 2023-07-30 | 217,113 | 2,137 |
+| 2023-07-30 | 217,133 | 2,137 |
 ## Awards
 Max (Diverse Characters): 5,100  (Ranked 67)  
 Sum: 30,813 (Ranked 38)  

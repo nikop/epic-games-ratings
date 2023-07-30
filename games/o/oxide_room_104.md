@@ -11,7 +11,7 @@
 | Face to face | 78.00% | ~101 |
 | Let's play a game… | 74.00% | ~95 |
 | Now or never | 74.00% | ~95 |
-| First aid | 60.00% | ~77 |
+| First aid | 61.00% | ~79 |
 | Soundtrack | 60.00% | ~77 |
 | Antidote | 50.00% | ~64 |
 | Pick the right door | 26.00% | ~34 |

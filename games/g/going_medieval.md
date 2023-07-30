@@ -8,7 +8,7 @@ Number of Ratings: 706  (23.09.2022)
 | ---- | ---------- | ----- |
 | Get A Room | 74.00% | ~3,654 |
 | Having A Field Day | 73.00% | ~3,605 |
-| Reap What You Sow | 70.00% | ~3,457 |
+| Reap What You Sow | 71.00% | ~3,506 |
 | The First Day | 67.00% | ~3,308 |
 | Green Thumb | 66.00% | ~3,259 |
 | Novice Researcher | 65.00% | ~3,210 |
@@ -39,7 +39,7 @@ Number of Ratings: 706  (23.09.2022)
 | Wabbit Season | 0.60% | ~30 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,938 (Ranked 139)  
-Completed: 10 (0.20%) (Ranked 173)  
+Completed: 10 (0.20%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

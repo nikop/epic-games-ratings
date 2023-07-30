@@ -14,7 +14,7 @@ Number of Ratings: 38  (23.09.2022)
 | Shake the rust off their feet | 21.00% | ~285 |
 | My little pony | 20.00% | ~272 |
 | Strike! | 19.00% | ~258 |
-| A love supreme | 18.00% | ~245 |
+| A love supreme | 19.00% | ~258 |
 | In my shoes | 17.00% | ~231 |
 | Like new! | 15.00% | ~204 |
 | Head in the clouds | 14.00% | ~190 |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~27 |
 | À la carte | 2.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,359 (Ranked 179)  
+Progressed: 1,359 (Ranked 180)  
 Completed: 9 (0.66%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
