@@ -1,8 +1,8 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 45.16% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.24% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.89% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.27% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 36.84% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -15,7 +15,7 @@
 | 13 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 15.38% |
 | 14 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
-| 16 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 13.21% |
+| 16 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 12.96% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
 | 18 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 11.43% |
 | 18 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.43% |
@@ -27,7 +27,7 @@
 | 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.17% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 26 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
-| 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
+| 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.93% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.00% |
@@ -40,7 +40,7 @@
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.38% |
 | 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 40 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.88% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.81% |
+| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.79% |
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.38% |
 | 43 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.33% |
 | 44 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -50,7 +50,7 @@
 | 48 | [Bugsnax](games/b/bugsnax.md) | 4.69% |
 | 49 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 50 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.44% |
-| 51 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.42% |
+| 51 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.41% |
 | 52 | [Without Escape](games/w/without_escape.md) | 4.17% |
 | 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.96% |
 | 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.93% |
@@ -66,9 +66,9 @@
 | 64 | [Monster Harvest](games/m/monster_harvest.md) | 3.11% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.05% |
 | 66 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 67 | [HordeCore](games/h/hordecore.md) | 2.91% |
 | 67 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.91% |
-| 69 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.90% |
+| 68 | [HordeCore](games/h/hordecore.md) | 2.90% |
+| 68 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.90% |
 | 70 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.86% |
 | 71 | [Destiny 2](games/d/destiny_2.md) | 2.77% |
 | 72 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
@@ -124,7 +124,7 @@
 | 121 | [Haven](games/h/haven.md) | 0.66% |
 | 123 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.64% |
 | 124 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 125 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.61% |
+| 125 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.60% |
 | 126 | [Potion Permit](games/p/potion_permit.md) | 0.59% |
 | 127 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.57% |
 | 127 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.57% |

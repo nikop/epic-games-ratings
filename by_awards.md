@@ -61,7 +61,7 @@
 | 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,678 | 4.82 | 65 |
 | 60 | [Prey](games/p/prey.md) | 5,620 | 4.62 | 349 |
 | 61 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,597 | 4.69 | 214 |
-| 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,553 | 4.75 | 137 |
+| 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,560 | 4.75 | 137 |
 | 63 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,532 | 4.85 | 39 |
 | 64 | [Dead Island 2](games/d/dead_island_2.md) | 5,434 | 4.54 | 497 |
 | 65 | [Rogue Company](games/r/rogue_company.md) | 5,201 | 4.33 | 760 |
@@ -80,7 +80,7 @@
 | 78 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,106 | 4.51 | 540 |
 | 79 | [SMITE](games/s/smite.md) | 4,095 | 4.44 | 645 |
 | 80 | [Days Gone](games/d/days_gone.md) | 3,891 | 4.68 | 241 |
-| 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,802 | 4.77 | 108 |
+| 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,819 | 4.77 | 108 |
 | 82 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,690 | 4.28 | 794 |
 | 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,602 | 4.57 | 444 |
 | 84 | [Gloomhaven](games/g/gloomhaven.md) | 3,495 | 4.47 | 602 |
@@ -141,7 +141,7 @@
 | 139 | [Saints Row](games/s/saints_row.md) | 1,051 | 3.78 | 951 |
 | 140 | [EVE Online](games/e/eve_online.md) | 1,049 | 4.25 | 815 |
 | 141 | [Ooblets](games/o/ooblets.md) | 1,018 | 4.87 | 24 |
-| 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,013 | 4.40 | 694 |
+| 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,013 | 4.40 | 695 |
 | 143 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 831 |
 | 144 | [Torchlight II](games/t/torchlight_ii.md) | 1,001 | 4.59 | 410 |
 | 145 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 958 | 4.31 | 775 |
@@ -198,10 +198,10 @@
 | 196 | [Ghostrunner](games/g/ghostrunner.md) | 473 | 4.72 | 170 |
 | 197 | [Surviving Mars](games/s/surviving_mars.md) | 469 | 4.60 | 390 |
 | 198 | [Prison Architect](games/p/prison_architect.md) | 467 | 4.61 | 367 |
-| 199 | [MORDHAU](games/m/mordhau.md) | 463 | 4.40 | 694 |
+| 199 | [MORDHAU](games/m/mordhau.md) | 463 | 4.40 | 695 |
 | 200 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 274 |
 | 201 | [Second Extinction™](games/s/second_extinction™.md) | 455 | 4.05 | 911 |
-| 202 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 432 | 4.40 | 694 |
+| 202 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 432 | 4.40 | 695 |
 | 203 | [Dishonored 2](games/d/dishonored_2.md) | 429 | 4.79 | 90 |
 | 204 | [RimWorld](games/r/rimworld.md) | 423 | 4.89 | 12 |
 | 205 | [Against the Storm](games/a/against_the_storm.md) | 420 | 4.81 | 77 |
@@ -252,8 +252,8 @@
 | 250 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 245 | 4.49 | 574 |
 | 251 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 241 | 4.45 | 626 |
 | 252 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 236 | 4.84 | 49 |
-| 253 | [Brawlhalla](games/b/brawlhalla.md) | 232 | 4.61 | 367 |
-| 254 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 231 | 4.55 | 482 |
+| 253 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 233 | 4.55 | 482 |
+| 254 | [Brawlhalla](games/b/brawlhalla.md) | 232 | 4.61 | 367 |
 | 255 | [Overcooked! 2](games/o/overcooked!_2.md) | 230 | 4.73 | 160 |
 | 256 | [Hello Neighbor](games/h/hello_neighbor.md) | 229 | 4.55 | 482 |
 | 257 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 222 | 4.81 | 77 |

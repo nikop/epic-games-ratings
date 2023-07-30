@@ -107,7 +107,7 @@
 | 100 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,380 | 125 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 926 | 147 |
 | 100 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 509 |
-| 108 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,802 | 81 |
+| 108 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,819 | 81 |
 | 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,499 | 51 |
 | 108 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,390 | 17 |
 | 108 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 509 |
@@ -137,7 +137,7 @@
 | 120 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 41 | 420 |
 | 120 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 352 | 223 |
 | 137 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 26 | 473 |
-| 137 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,553 | 62 |
+| 137 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,560 | 62 |
 | 137 | [Diabotical](games/d/diabotical.md) | 4.75 | 271 | 242 |
 | 137 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 0 | 509 |
 | 137 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 116 | 318 |
@@ -369,7 +369,7 @@
 | 367 | [20XX](games/2/20xx.md) | 4.61 | 36 | 433 |
 | 367 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 130 | 306 |
 | 367 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.61 | 0 | 509 |
-| 367 | [Brawlhalla](games/b/brawlhalla.md) | 4.61 | 232 | 253 |
+| 367 | [Brawlhalla](games/b/brawlhalla.md) | 4.61 | 232 | 254 |
 | 367 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 509 |
 | 367 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 381 | 216 |
 | 367 | [Darkwood](games/d/darkwood.md) | 4.61 | 322 | 228 |
@@ -486,7 +486,7 @@
 | 482 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,356 | 127 |
 | 482 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.55 | 50 | 399 |
 | 482 | [Far Cry](games/f/far_cry.md) | 4.55 | 0 | 509 |
-| 482 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 231 | 254 |
+| 482 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 233 | 253 |
 | 482 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 229 | 256 |
 | 482 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 151 | 293 |
 | 482 | [IXION](games/i/ixion.md) | 4.55 | 0 | 509 |
@@ -676,6 +676,7 @@
 | 664 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 149 | 294 |
 | 675 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 509 |
 | 675 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 0 | 509 |
+| 675 | [Breathedge](games/b/breathedge.md) | 4.41 | 0 | 509 |
 | 675 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 248 | 246 |
 | 675 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 509 |
 | 675 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 95 | 342 |
@@ -693,17 +694,16 @@
 | 675 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 553 | 186 |
 | 675 | [Warpips](games/w/warpips.md) | 4.41 | 26 | 473 |
 | 675 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,233 | 132 |
-| 694 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 509 |
-| 694 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,013 | 142 |
-| 694 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 509 |
-| 694 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.40 | 0 | 509 |
-| 694 | [MORDHAU](games/m/mordhau.md) | 4.40 | 463 | 199 |
-| 694 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 509 |
-| 694 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 432 | 202 |
-| 694 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 509 |
-| 694 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 0 | 509 |
-| 694 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 509 |
-| 694 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.40 | 0 | 509 |
+| 695 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,013 | 142 |
+| 695 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 509 |
+| 695 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.40 | 0 | 509 |
+| 695 | [MORDHAU](games/m/mordhau.md) | 4.40 | 463 | 199 |
+| 695 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 509 |
+| 695 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 432 | 202 |
+| 695 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 509 |
+| 695 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.40 | 0 | 509 |
+| 695 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 509 |
+| 695 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.40 | 0 | 509 |
 | 705 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 509 |
 | 705 | [Beyond Blue](games/b/beyond_blue.md) | 4.39 | 0 | 509 |
 | 705 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 0 | 509 |
