@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 45.16% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.27% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.78% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 33.33% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -16,12 +16,12 @@
 | 14 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
-| 17 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 11.86% |
+| 17 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 11.67% |
 | 18 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.43% |
-| 19 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 11.11% |
-| 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 21 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.87% |
-| 21 | [Remains](games/r/remains.md) | 10.87% |
+| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
+| 20 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.87% |
+| 20 | [Remains](games/r/remains.md) | 10.87% |
+| 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 10.81% |
 | 23 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 24 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
 | 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.17% |
@@ -50,7 +50,7 @@
 | 48 | [Bugsnax](games/b/bugsnax.md) | 4.69% |
 | 49 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 50 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.44% |
-| 51 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.40% |
+| 51 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.39% |
 | 52 | [Without Escape](games/w/without_escape.md) | 4.17% |
 | 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.96% |
 | 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.96% |
@@ -62,7 +62,7 @@
 | 60 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.39% |
 | 62 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.37% |
-| 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.16% |
+| 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.15% |
 | 64 | [Monster Harvest](games/m/monster_harvest.md) | 3.10% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.05% |
 | 66 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -102,9 +102,9 @@
 | 100 | [Poosh XL](games/p/poosh_xl.md) | 1.44% |
 | 101 | [Five Dates](games/f/five_dates.md) | 1.41% |
 | 102 | [Late Shift](games/l/late_shift.md) | 1.32% |
-| 103 | [A Musical Story](games/a/a_musical_story.md) | 1.19% |
 | 103 | [Chorus](games/c/chorus.md) | 1.19% |
-| 105 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.18% |
+| 104 | [A Musical Story](games/a/a_musical_story.md) | 1.18% |
+| 104 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.18% |
 | 106 | [Trifox](games/t/trifox.md) | 1.11% |
 | 107 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
 | 108 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.04% |
@@ -132,9 +132,9 @@
 | 129 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 131 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.55% |
 | 132 | [Godlike Burger](games/g/godlike_burger.md) | 0.54% |
-| 133 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 133 | [The Surge 2](games/t/the_surge_2.md) | 0.52% |
 | 133 | [Them and Us](games/t/them_and_us.md) | 0.52% |
+| 135 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
 | 136 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 136 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.50% |
 | 136 | [Train Valley](games/t/train_valley.md) | 0.50% |
