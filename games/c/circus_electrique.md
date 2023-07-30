@@ -1,7 +1,7 @@
 # Circus Electrique
 [Store](https://store.epicgames.com/en-US/p/circus-electrique)  
 [View Rawdata](../../db/c/circus_electrique.json)  
-Rating: 4.16 (Ranked 873)  
+Rating: 4.16 (Ranked 874)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,9 +9,9 @@ Number of Ratings: 22  (23.09.2022)
 | Self Defense | 44.00% | ~199 |
 | Grand Opening | 40.00% | ~181 |
 | Circus Electrique Proudly Presents... | 40.00% | ~181 |
-| Path of Learning | 39.00% | ~177 |
+| Path of Learning | 40.00% | ~181 |
 | Built in a Day | 33.00% | ~149 |
-| More Brain Than Brawn | 28.00% | ~127 |
+| More Brain Than Brawn | 29.00% | ~131 |
 | Perfect Illusion | 23.00% | ~104 |
 | Hundred Percent First | 23.00% | ~104 |
 | Dirty Dozen | 20.00% | ~91 |

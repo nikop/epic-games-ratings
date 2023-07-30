@@ -4,7 +4,7 @@
   "ProductSlug": "the-division",
   "Ranking_Rating": 424,
   "Ranking_Popularity": 233,
-  "Ranking_PopularitySum": 271,
+  "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 366,
@@ -1268,10 +1268,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 708,
       "NumberOfAwardsMax": 301
+    },
+    {
+      "Time": "2023-07-30T11:00:06.5673234+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 728,
+      "NumberOfAwardsMax": 301
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 708,
+  "NumberOfAwards": 728,
   "NumberOfAwardsMax": 301,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1346,6 +1352,12 @@
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
       "Count": 25
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -1359,8 +1371,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2023-07-30T03:01:08.6001802+00:00",
+  "LastChanged": "2023-07-30T11:00:06.5673233+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:54.7786828+00:00",
-  "LastUpdate_Ratings": "2023-07-30T10:00:58.4604057+00:00",
-  "LastUpdate_Achievements": "2023-07-30T10:05:02.9869594+00:00"
+  "LastUpdate_Ratings": "2023-07-30T11:00:06.5673238+00:00",
+  "LastUpdate_Achievements": "2023-07-30T11:04:25.8801242+00:00"
 }

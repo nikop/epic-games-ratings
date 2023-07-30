@@ -2,7 +2,7 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 895,
+  "Ranking_Rating": 896,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 171,
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1737,
+  "EOS_Progressed": 1738,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4590,6 +4590,11 @@
       "Time": "2023-07-30T05:04:26.1504536+00:00",
       "NumProgressed": 1737,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-30T11:03:50.3265519+00:00",
+      "NumProgressed": 1738,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4601,7 +4606,7 @@
       "Name": "Active Member",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ancientknowledge",
@@ -4625,7 +4630,7 @@
       "Name": "Arena Challenger",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "backgroundstory",
@@ -4633,7 +4638,7 @@
       "Name": "Background Story",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "beastwarmachines",
@@ -4785,7 +4790,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "fourleafclover",
@@ -4889,7 +4894,7 @@
       "Name": "Legendary",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "lieutenant",
@@ -5017,7 +5022,7 @@
       "Name": "Sailor",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "scientist",
@@ -5049,7 +5054,7 @@
       "Name": "Superior",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "templeofeternals",
@@ -5065,7 +5070,7 @@
       "Name": "The Alchemist",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "theexpeditioner",
@@ -5089,7 +5094,7 @@
       "Name": "The game is on",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "thepowerofawakening",
@@ -5161,7 +5166,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "warmachinesarmy",
@@ -5193,14 +5198,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1737,
+      "Progressed": 1738,
       "Completed": 1
     }
   ],
@@ -5208,8 +5213,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-18T16:58:41.2064019+00:00",
-  "LastChanged_Achievements": "2023-07-30T10:04:31.7855183+00:00",
+  "LastChanged_Achievements": "2023-07-30T11:03:50.3265513+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:54.4032931+00:00",
-  "LastUpdate_Ratings": "2023-07-30T09:58:51.6259084+00:00",
-  "LastUpdate_Achievements": "2023-07-30T10:04:31.7856306+00:00"
+  "LastUpdate_Ratings": "2023-07-30T10:58:17.7795956+00:00",
+  "LastUpdate_Achievements": "2023-07-30T11:03:50.3266753+00:00"
 }

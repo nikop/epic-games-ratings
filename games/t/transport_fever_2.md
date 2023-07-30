@@ -36,10 +36,10 @@ Number of Ratings: 180  (23.09.2022)
 | Not in my backyard | 30.00% | ~451 |
 | The king of the sea | 29.00% | ~436 |
 | City | 28.00% | ~421 |
-| Transport tycoon | 24.00% | ~361 |
+| Transport tycoon | 25.00% | ~376 |
+| Old timer | 23.00% | ~346 |
 | The ugly smell of success | 23.00% | ~346 |
 | Climate change | 22.00% | ~331 |
-| Old timer | 22.00% | ~331 |
 | Heavily loaded | 21.00% | ~316 |
 | Bob Ross | 16.00% | ~241 |
 | Campaign expert | 11.00% | ~165 |
@@ -48,8 +48,8 @@ Number of Ratings: 180  (23.09.2022)
 | Back to the future | 9.00% | ~135 |
 | Transport belt | 9.00% | ~135 |
 | Penny pincher | 9.00% | ~135 |
+| Campaign shark | 6.00% | ~90 |
 | E.P.E.C. | 6.00% | ~90 |
-| Campaign shark | 5.00% | ~75 |
 | Transport shark (Hard mode) | 4.00% | ~60 |
 | Antique | 4.00% | ~60 |
 | Transport corporation | 4.00% | ~60 |

@@ -14,11 +14,11 @@
 | Mandy Family | 44.00% | ~8 |
 | Paw patrol member | 39.00% | ~7 |
 | Robot Out of Control | 39.00% | ~7 |
+| Break Time | 33.00% | ~6 |
+| Master of the Rope | 33.00% | ~6 |
 | Training Day | 33.00% | ~6 |
 | The Fastest | 33.00% | ~6 |
 | Animal Sighting | 33.00% | ~6 |
-| Break Time | 28.00% | ~5 |
-| Master of the Rope | 28.00% | ~5 |
 | Never Miss | 28.00% | ~5 |
 | You Have Been Everywhere | 28.00% | ~5 |
 | In the Air | 22.00% | ~4 |

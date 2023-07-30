@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2159,
+  "EOS_Progressed": 2160,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4266,6 +4266,11 @@
       "Time": "2023-07-29T21:04:14.8296437+00:00",
       "NumProgressed": 2159,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-30T11:04:07.3353687+00:00",
+      "NumProgressed": 2160,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -4285,7 +4290,7 @@
       "Name": "Puppetmaster",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "BOT_DESTROYER",
@@ -4381,7 +4386,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "GUARD_MAKER",
@@ -4452,14 +4457,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2159,
+      "Progressed": 2160,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-30T10:04:39.9748399+00:00",
+  "LastChanged_Achievements": "2023-07-30T11:04:07.3353681+00:00",
   "LastUpdate_AppInfo": "2023-07-25T19:57:06.9403478+00:00",
-  "LastUpdate_Ratings": "2023-07-30T09:57:49.6851056+00:00",
-  "LastUpdate_Achievements": "2023-07-30T10:04:39.9748808+00:00"
+  "LastUpdate_Ratings": "2023-07-30T10:57:31.5466028+00:00",
+  "LastUpdate_Achievements": "2023-07-30T11:04:07.3354105+00:00"
 }

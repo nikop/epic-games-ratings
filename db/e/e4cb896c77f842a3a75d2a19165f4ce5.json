@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 348,
+  "EOS_Progressed": 349,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.16,
+  "EOS_Completed_Percentage": 3.15,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -911,6 +911,11 @@
       "Time": "2023-07-29T20:06:19.8672497+00:00",
       "NumProgressed": 348,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-07-30T11:05:23.1889653+00:00",
+      "NumProgressed": 349,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 11,
@@ -922,7 +927,7 @@
       "Name": "Pit-house",
       "Percentage": 95,
       "XP": 45,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "LEVEL_003",
@@ -930,7 +935,7 @@
       "Name": "Smith house",
       "Percentage": 86,
       "XP": 45,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "LEVEL_004",
@@ -938,7 +943,7 @@
       "Name": "Two-story house",
       "Percentage": 73,
       "XP": 45,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "LEVEL_006",
@@ -954,7 +959,7 @@
       "Name": "Poultry house",
       "Percentage": 28,
       "XP": 95,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "LEVEL_017",
@@ -1009,14 +1014,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 348,
+      "Progressed": 349,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-07-30T10:06:12.4821035+00:00",
+  "LastChanged_Achievements": "2023-07-30T11:05:23.1889643+00:00",
   "LastUpdate_AppInfo": "2023-07-24T17:57:00.0324048+00:00",
-  "LastUpdate_Ratings": "2023-07-30T09:57:39.7910871+00:00",
-  "LastUpdate_Achievements": "2023-07-30T10:06:12.4821171+00:00"
+  "LastUpdate_Ratings": "2023-07-30T10:57:21.2908797+00:00",
+  "LastUpdate_Achievements": "2023-07-30T11:05:23.1889811+00:00"
 }

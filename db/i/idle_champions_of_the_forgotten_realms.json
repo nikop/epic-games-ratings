@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 911,
+  "Ranking_Rating": 912,
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
@@ -5386,9 +5386,9 @@
       "Count": 3330
     }
   ],
-  "EOS_Progressed": 217002,
+  "EOS_Progressed": 217013,
   "EOS_Completed": 2137,
-  "EOS_NewPlayers": 2229,
+  "EOS_NewPlayers": 2225,
   "EOS_NewCompleters": 77,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16226,6 +16226,11 @@
       "Time": "2023-07-30T10:04:19.63388+00:00",
       "NumProgressed": 217002,
       "NumCompleted": 2137
+    },
+    {
+      "Time": "2023-07-30T11:03:40.8465458+00:00",
+      "NumProgressed": 217013,
+      "NumCompleted": 2137
     }
   ],
   "TotalAchievements": 512,
@@ -16917,7 +16922,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "objective_completed_1164",
@@ -20277,7 +20282,7 @@
       "Name": "Rock and Roll",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "objective_completed_1381",
@@ -20332,21 +20337,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183276,
+      "Progressed": 183287,
       "Completed": 3028
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217002,
+      "Progressed": 217013,
       "Completed": 2137
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-30T09:58:58.3221475+00:00",
-  "LastChanged_Achievements": "2023-07-30T10:04:19.6338794+00:00",
+  "LastChanged_Achievements": "2023-07-30T11:03:40.8465453+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-30T09:58:58.3221482+00:00",
-  "LastUpdate_Achievements": "2023-07-30T10:04:19.6370275+00:00"
+  "LastUpdate_Ratings": "2023-07-30T10:58:23.0605338+00:00",
+  "LastUpdate_Achievements": "2023-07-30T11:03:40.8492161+00:00"
 }

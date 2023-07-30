@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 846,
+  "Ranking_Rating": 847,
   "Ranking_Popularity": 310,
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 105,
@@ -1263,7 +1263,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19975,
+  "EOS_Progressed": 19978,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 718,
   "EOS_NewCompleters": 2,
@@ -11923,6 +11923,11 @@
       "Time": "2023-07-30T10:04:21.1913808+00:00",
       "NumProgressed": 19975,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-30T11:03:41.7253165+00:00",
+      "NumProgressed": 19978,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 22,
@@ -11950,7 +11955,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "1018",
@@ -11958,7 +11963,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "1019",
@@ -11982,7 +11987,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "1022",
@@ -11990,7 +11995,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "1023",
@@ -12054,7 +12059,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3995
+      "UsersEstimate": 3996
     },
     {
       "ID": "1031",
@@ -12070,7 +12075,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7990
+      "UsersEstimate": 7991
     },
     {
       "ID": "1033",
@@ -12109,15 +12114,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 19975,
+      "Progressed": 19978,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-07-30T10:04:21.1913797+00:00",
+  "LastChanged_Achievements": "2023-07-30T11:03:41.725316+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:09.3482059+00:00",
-  "LastUpdate_Ratings": "2023-07-30T10:01:10.4341997+00:00",
-  "LastUpdate_Achievements": "2023-07-30T10:04:21.1914612+00:00"
+  "LastUpdate_Ratings": "2023-07-30T11:00:16.7845897+00:00",
+  "LastUpdate_Achievements": "2023-07-30T11:03:41.7253897+00:00"
 }

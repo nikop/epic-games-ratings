@@ -724,7 +724,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6505,
+  "EOS_Progressed": 6506,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -3899,6 +3899,11 @@
       "Time": "2023-07-30T09:06:11.5743854+00:00",
       "NumProgressed": 6505,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-30T11:05:19.6155203+00:00",
+      "NumProgressed": 6506,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3926,7 +3931,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3058
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -4046,7 +4051,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -4086,7 +4091,7 @@
       "Name": "Millenial",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -4158,7 +4163,7 @@
       "Name": "Silver Lining",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -4214,7 +4219,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -4230,7 +4235,7 @@
       "Name": "Tosca",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -4269,7 +4274,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6505,
+      "Progressed": 6506,
       "Completed": 8
     }
   ],
@@ -4277,8 +4282,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-29T15:58:17.8280362+00:00",
-  "LastChanged_Achievements": "2023-07-30T10:06:07.6713626+00:00",
+  "LastChanged_Achievements": "2023-07-30T11:05:19.6155198+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:14.0482826+00:00",
-  "LastUpdate_Ratings": "2023-07-30T09:58:18.0362341+00:00",
-  "LastUpdate_Achievements": "2023-07-30T10:06:07.6714186+00:00"
+  "LastUpdate_Ratings": "2023-07-30T10:57:52.5901141+00:00",
+  "LastUpdate_Achievements": "2023-07-30T11:05:19.6155761+00:00"
 }

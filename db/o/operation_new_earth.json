@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 696,
+  "EOS_Progressed": 698,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2411,6 +2411,11 @@
       "Time": "2023-07-30T09:06:43.6715475+00:00",
       "NumProgressed": 696,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T11:05:42.4121149+00:00",
+      "NumProgressed": 698,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2534,7 +2539,7 @@
       "Name": "Corporal",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -2542,7 +2547,7 @@
       "Name": "Sergeant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -2606,7 +2611,7 @@
       "Name": "Covert Operative",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -2676,9 +2681,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2725,14 +2730,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 696,
+      "Progressed": 698,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-30T10:06:36.0206622+00:00",
+  "LastChanged_Achievements": "2023-07-30T11:05:42.4121132+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-07-30T09:57:07.2446336+00:00",
-  "LastUpdate_Achievements": "2023-07-30T10:06:36.0207046+00:00"
+  "LastUpdate_Ratings": "2023-07-30T10:56:53.9723135+00:00",
+  "LastUpdate_Achievements": "2023-07-30T11:05:42.4121571+00:00"
 }

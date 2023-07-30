@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 863,
+  "Ranking_Rating": 864,
   "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 80,
@@ -2228,9 +2228,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67487,
+  "EOS_Progressed": 67489,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -11168,6 +11168,11 @@
       "Time": "2023-07-30T09:05:42.8149852+00:00",
       "NumProgressed": 67487,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-30T11:04:59.2126222+00:00",
+      "NumProgressed": 67489,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 61,
@@ -11403,7 +11408,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "FREEZE_1_5",
@@ -11555,7 +11560,7 @@
       "Name": "Knighthood",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -11571,7 +11576,7 @@
       "Name": "Loose Ends",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "MYSTERY_02",
@@ -11579,7 +11584,7 @@
       "Name": "Whispered Words",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "MYSTERY_03",
@@ -11666,13 +11671,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67487,
+      "Progressed": 67489,
       "Completed": 104
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37767,
+      "Progressed": 37769,
       "Completed": 2654
     }
   ],
@@ -11680,8 +11685,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-29T11:00:03.1429306+00:00",
-  "LastChanged_Achievements": "2023-07-30T10:05:42.5579911+00:00",
+  "LastChanged_Achievements": "2023-07-30T11:04:59.2126209+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:38.4399056+00:00",
-  "LastUpdate_Ratings": "2023-07-30T10:00:44.8453563+00:00",
-  "LastUpdate_Achievements": "2023-07-30T10:05:42.5580884+00:00"
+  "LastUpdate_Ratings": "2023-07-30T10:59:54.9373353+00:00",
+  "LastUpdate_Achievements": "2023-07-30T11:04:59.2127428+00:00"
 }

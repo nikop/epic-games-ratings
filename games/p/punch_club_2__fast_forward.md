@@ -27,22 +27,22 @@
 | Workout professional | 56.00% | ~101 |
 | Intriguing candies | 55.00% | ~99 |
 | Little hacker | 54.00% | ~97 |
+| Champion – starter pack | 54.00% | ~97 |
+| Own four walls | 54.00% | ~97 |
 | Employee of the year | 54.00% | ~97 |
 | Handyman | 53.00% | ~95 |
-| Champion – starter pack | 53.00% | ~95 |
 | It's good to be alive | 53.00% | ~95 |
-| Own four walls | 53.00% | ~95 |
-| Fight for life | 51.00% | ~92 |
+| Fight for life | 52.00% | ~94 |
 | Legal courier | 49.00% | ~88 |
 | Extreme neuropower! | 49.00% | ~88 |
 | Your own way | 48.00% | ~86 |
 | Escaped from a big trouble | 46.00% | ~83 |
 | Now you are worthy | 44.00% | ~79 |
 | No blades in the gym | 43.00% | ~77 |
-| Guiding on the right path | 41.00% | ~74 |
-| Mysterious voice | 40.00% | ~72 |
+| Guiding on the right path | 42.00% | ~76 |
+| Mysterious voice | 41.00% | ~74 |
 | Fight is life | 39.00% | ~70 |
-| Responsible approach | 35.00% | ~63 |
+| Responsible approach | 36.00% | ~65 |
 | GYM professional | 34.00% | ~61 |
 | Get out of my apartment! | 34.00% | ~61 |
 | Underground dwellers | 34.00% | ~61 |
@@ -53,8 +53,8 @@
 | The die is cast | 32.00% | ~58 |
 | Seashell hunter | 31.00% | ~56 |
 | Gang wrangler | 30.00% | ~54 |
+| Problems of cyborgs | 29.00% | ~52 |
 | Undercover robot | 29.00% | ~52 |
-| Problems of cyborgs | 28.00% | ~50 |
 | The last bell ring | 28.00% | ~50 |
 | Absolute Champion! | 27.00% | ~49 |
 | Careerist | 27.00% | ~49 |

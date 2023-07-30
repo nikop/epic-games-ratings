@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.05 (Ranked 911)  
+Rating: 4.05 (Ranked 912)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,8 +12,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 1.00% | ~2,170 |
 | Supply Run | 1.00% | ~2,170 |
 | Rocky Reception | 1.00% | ~1,833 |
-| Vecna Lives! | 0.90% | ~1,649 |
-| Rock and Roll | 0.90% | ~1,649 |
+| Vecna Lives! | 0.90% | ~1,650 |
+| Rock and Roll | 0.90% | ~1,650 |
 | Flight of the Kindori Pod | 0.80% | ~1,466 |
 | Tall Tales | 0.70% | ~1,283 |
 | Vecna Loots! | 0.70% | ~1,283 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,002 (Ranked 53)  
+Progressed: 217,013 (Ranked 53)  
 Completed: 2,137 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,7 +620,7 @@ Completed: 2,137 (0.98%) (Ranked 112)
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
-| 2023-07-30 | 217,002 | 2,137 |
+| 2023-07-30 | 217,013 | 2,137 |
 ## Awards
 Max (Diverse Characters): 5,100  (Ranked 67)  
 Sum: 30,802 (Ranked 38)  

@@ -2,7 +2,7 @@
   "ID": "fn",
   "Name": "Fortnite",
   "ProductSlug": "fortnite",
-  "Ranking_Rating": 785,
+  "Ranking_Rating": 786,
   "Ranking_Popularity": 1,
   "Ranking_PopularitySum": 1,
   "Ranking_EOS_Progress": 520,
@@ -5714,6 +5714,6 @@
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
   "LastChanged": "2023-07-29T21:58:28.5121029+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:13.8318731+00:00",
-  "LastUpdate_Ratings": "2023-07-30T09:58:17.5470641+00:00",
-  "LastUpdate_Achievements": "2023-07-30T10:05:23.6227507+00:00"
+  "LastUpdate_Ratings": "2023-07-30T10:57:50.5685261+00:00",
+  "LastUpdate_Achievements": "2023-07-30T11:04:43.3066856+00:00"
 }

@@ -1,12 +1,12 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.13 (Ranked 889)  
+Rating: 4.13 (Ranked 890)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 10.00% | ~3,938 |
-| Unlocked Potential | 9.00% | ~3,544 |
+| Unlocked Potential | 9.00% | ~3,545 |
 | Tinkerer | 7.00% | ~2,757 |
 | Leapfrogger | 6.00% | ~2,363 |
 | Knock 'Em Dead | 6.00% | ~2,363 |
@@ -18,9 +18,9 @@ Rating: 4.13 (Ranked 889)
 | Through the Eyes of Another: Empath | 4.00% | ~1,575 |
 | Stuck | 4.00% | ~1,575 |
 | Help Me Out Here | 4.00% | ~1,575 |
-| The Interloper | 3.00% | ~1,181 |
-| Hop, Step, Jump | 3.00% | ~1,181 |
-| Endless Runner | 3.00% | ~1,181 |
+| The Interloper | 3.00% | ~1,182 |
+| Hop, Step, Jump | 3.00% | ~1,182 |
+| Endless Runner | 3.00% | ~1,182 |
 | Outdoorsperson | 2.00% | ~788 |
 | What Must Be Done | 2.00% | ~788 |
 | Might and Main | 2.00% | ~788 |
@@ -59,7 +59,7 @@ Rating: 4.13 (Ranked 889)
 | Remembrance | 0.10% | ~39 |
 | Cat Person | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,383 (Ranked 92)  
+Progressed: 39,384 (Ranked 92)  
 Completed: 3 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 3 (0.01%) (Ranked 234)
 | 2023-07-27 | 39,308 | 3 |
 | 2023-07-28 | 39,336 | 3 |
 | 2023-07-29 | 39,372 | 3 |
-| 2023-07-30 | 39,383 | 3 |
+| 2023-07-30 | 39,384 | 3 |
 ## Awards
 Max (Character Customization): 22  (Ranked 489)  
 Sum: 22 (Ranked 491)  

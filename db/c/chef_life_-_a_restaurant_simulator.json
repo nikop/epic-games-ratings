@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516,
+  "EOS_Progressed": 517,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2194,6 +2194,11 @@
       "Time": "2023-07-30T08:00:32.234417+00:00",
       "NumProgressed": 516,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T11:02:13.3911456+00:00",
+      "NumProgressed": 517,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2251,9 +2256,9 @@
       "ID": "BistroSet",
       "SetID": "d1bm05f",
       "Name": "French Flair",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 78
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -2405,7 +2410,7 @@
       "Name": "Home Cook",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "RecipeDifferent30",
@@ -2501,7 +2506,7 @@
       "Name": "Leaning Tower of Pizza",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "WholeBeefDishesMenu",
@@ -2524,7 +2529,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 516,
+      "Progressed": 517,
       "Completed": 0
     }
   ],
@@ -2532,8 +2537,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-07-30T10:03:10.8533112+00:00",
+  "LastChanged_Achievements": "2023-07-30T11:02:13.3911441+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:21.1366678+00:00",
-  "LastUpdate_Ratings": "2023-07-30T09:59:19.0736557+00:00",
-  "LastUpdate_Achievements": "2023-07-30T10:03:10.8533622+00:00"
+  "LastUpdate_Ratings": "2023-07-30T10:58:43.4994587+00:00",
+  "LastUpdate_Achievements": "2023-07-30T11:02:13.3911943+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -480,7 +480,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 523653,
+  "EOS_Progressed": 523654,
   "EOS_Completed": 453,
   "EOS_NewPlayers": 661,
   "EOS_NewCompleters": 3,
@@ -11000,6 +11000,11 @@
       "Time": "2023-07-30T10:04:48.631992+00:00",
       "NumProgressed": 523653,
       "NumCompleted": 453
+    },
+    {
+      "Time": "2023-07-30T11:04:14.2256343+00:00",
+      "NumProgressed": 523654,
+      "NumCompleted": 453
     }
   ],
   "TotalAchievements": 57,
@@ -11027,7 +11032,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 366557
+      "UsersEstimate": 366558
     },
     {
       "ID": "12",
@@ -11235,7 +11240,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 261826
+      "UsersEstimate": 261827
     },
     {
       "ID": "36",
@@ -11243,7 +11248,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 83784
+      "UsersEstimate": 83785
     },
     {
       "ID": "37",
@@ -11371,7 +11376,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 73311
+      "UsersEstimate": 73312
     },
     {
       "ID": "51",
@@ -11387,7 +11392,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 240880
+      "UsersEstimate": 240881
     },
     {
       "ID": "53",
@@ -11466,15 +11471,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 523653,
+      "Progressed": 523654,
       "Completed": 453
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-07-30T10:04:48.6319913+00:00",
+  "LastChanged_Achievements": "2023-07-30T11:04:14.2256337+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:06.8481314+00:00",
-  "LastUpdate_Ratings": "2023-07-30T09:58:10.2292888+00:00",
-  "LastUpdate_Achievements": "2023-07-30T10:04:48.6321222+00:00"
+  "LastUpdate_Ratings": "2023-07-30T10:57:45.4133749+00:00",
+  "LastUpdate_Achievements": "2023-07-30T11:04:14.225745+00:00"
 }

@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6920,
+  "EOS_Progressed": 6921,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -3158,6 +3158,11 @@
       "Time": "2023-07-30T10:04:02.0392547+00:00",
       "NumProgressed": 6920,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-30T11:03:25.5473284+00:00",
+      "NumProgressed": 6921,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -3185,7 +3190,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2837
+      "UsersEstimate": 2838
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -3217,7 +3222,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -3313,7 +3318,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2837
+      "UsersEstimate": 2838
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -3321,7 +3326,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3875
+      "UsersEstimate": 3876
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -3384,15 +3389,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6920,
+      "Progressed": 6921,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-30T10:04:02.0392542+00:00",
+  "LastChanged_Achievements": "2023-07-30T11:03:25.5473268+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.513053+00:00",
-  "LastUpdate_Ratings": "2023-07-30T09:58:10.4561725+00:00",
-  "LastUpdate_Achievements": "2023-07-30T10:04:02.03929+00:00"
+  "LastUpdate_Ratings": "2023-07-30T10:57:45.6035838+00:00",
+  "LastUpdate_Achievements": "2023-07-30T11:03:25.5473708+00:00"
 }

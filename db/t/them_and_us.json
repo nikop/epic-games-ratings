@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -1030,9 +1030,9 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "ETUA_StayDead",
@@ -1151,8 +1151,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-07-30T10:03:45.5359422+00:00",
+  "LastChanged_Achievements": "2023-07-30T11:03:11.6407215+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:53.0006088+00:00",
-  "LastUpdate_Ratings": "2023-07-30T09:57:48.3318798+00:00",
-  "LastUpdate_Achievements": "2023-07-30T10:03:45.5359815+00:00"
+  "LastUpdate_Ratings": "2023-07-30T10:57:29.8813128+00:00",
+  "LastUpdate_Achievements": "2023-07-30T11:03:11.640763+00:00"
 }

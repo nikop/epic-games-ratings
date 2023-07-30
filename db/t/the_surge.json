@@ -343,9 +343,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 4541,
+  "EOS_Progressed": 4542,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1898,6 +1898,11 @@
       "Time": "2023-07-30T01:59:34.9923267+00:00",
       "NumProgressed": 4541,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-30T11:03:18.4082329+00:00",
+      "NumProgressed": 4542,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 67,
@@ -1909,7 +1914,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -1957,7 +1962,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3860
+      "UsersEstimate": 3861
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1981,7 +1986,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -2037,7 +2042,7 @@
       "Name": "Sunglasses at Night",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ID_ACHIEV_18",
@@ -2125,7 +2130,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3451
+      "UsersEstimate": 3452
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -2181,7 +2186,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -2229,7 +2234,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -2293,7 +2298,7 @@
       "Name": "Carbon Cat",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ID_ACHIEV_51",
@@ -2355,9 +2360,9 @@
       "ID": "ID_ACHIEV_58",
       "SetID": "98bke8c",
       "Name": "Is This Real Life?",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 409
+      "UsersEstimate": 363
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -2444,15 +2449,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4541,
+      "Progressed": 4542,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-07-15T15:00:43.484172+00:00",
-  "LastChanged_Achievements": "2023-07-30T10:03:53.5750996+00:00",
+  "LastChanged_Achievements": "2023-07-30T11:03:18.4082322+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.6544505+00:00",
-  "LastUpdate_Ratings": "2023-07-30T09:58:50.8030333+00:00",
-  "LastUpdate_Achievements": "2023-07-30T10:03:53.5751868+00:00"
+  "LastUpdate_Ratings": "2023-07-30T10:58:17.0720528+00:00",
+  "LastUpdate_Achievements": "2023-07-30T11:03:18.408318+00:00"
 }

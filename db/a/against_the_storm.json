@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 158,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2564,9 +2564,9 @@
       "Count": 312
     }
   ],
-  "EOS_Progressed": 16083,
+  "EOS_Progressed": 16084,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -8159,6 +8159,11 @@
       "Time": "2023-07-30T10:04:52.8283851+00:00",
       "NumProgressed": 16083,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-30T11:04:17.5942237+00:00",
+      "NumProgressed": 16084,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 50,
@@ -8250,7 +8255,7 @@
       "Name": "Homesick",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "WinFirstGame",
@@ -8290,7 +8295,7 @@
       "Name": "Bandit Camp",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "WinNearBarren",
@@ -8298,7 +8303,7 @@
       "Name": "Barren Lands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "WinNearBattleground",
@@ -8306,7 +8311,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "WinNearCrystals",
@@ -8394,7 +8399,7 @@
       "Name": "Lost Colonies",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "WinNearStatue",
@@ -8426,7 +8431,7 @@
       "Name": "Watchtower",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "WinOnCoral",
@@ -8482,7 +8487,7 @@
       "Name": "A Real Challenge",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "WinWIthCaches",
@@ -8538,7 +8543,7 @@
       "Name": "Trade Baron",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "WinWithoutDeath",
@@ -8569,15 +8574,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16083,
+      "Progressed": 16084,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-29T22:01:23.1253671+00:00",
-  "LastChanged_Achievements": "2023-07-30T10:04:52.8283844+00:00",
+  "LastChanged_Achievements": "2023-07-30T11:04:17.5942231+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:58.4052315+00:00",
-  "LastUpdate_Ratings": "2023-07-30T10:01:01.7281671+00:00",
-  "LastUpdate_Achievements": "2023-07-30T10:04:52.8284528+00:00"
+  "LastUpdate_Ratings": "2023-07-30T11:00:08.5826917+00:00",
+  "LastUpdate_Achievements": "2023-07-30T11:04:17.5943029+00:00"
 }

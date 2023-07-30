@@ -5670,9 +5670,9 @@
       "Count": 569
     }
   ],
-  "EOS_Progressed": 288920,
+  "EOS_Progressed": 288924,
   "EOS_Completed": 437,
-  "EOS_NewPlayers": 557,
+  "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16525,6 +16525,11 @@
       "Time": "2023-07-30T10:05:35.6078668+00:00",
       "NumProgressed": 288920,
       "NumCompleted": 437
+    },
+    {
+      "Time": "2023-07-30T11:04:53.5701989+00:00",
+      "NumProgressed": 288924,
+      "NumCompleted": 437
     }
   ],
   "TotalAchievements": 45,
@@ -16536,7 +16541,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34670
+      "UsersEstimate": 34671
     },
     {
       "ID": "PFA_10",
@@ -16584,7 +16589,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20224
+      "UsersEstimate": 20225
     },
     {
       "ID": "PFA_16",
@@ -16608,7 +16613,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20224
+      "UsersEstimate": 20225
     },
     {
       "ID": "PFA_19",
@@ -16840,7 +16845,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20224
+      "UsersEstimate": 20225
     },
     {
       "ID": "PFA_45",
@@ -16864,7 +16869,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31781
+      "UsersEstimate": 31782
     },
     {
       "ID": "PFA_7",
@@ -16895,7 +16900,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288920,
+      "Progressed": 288924,
       "Completed": 437
     }
   ],
@@ -16903,8 +16908,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-30T09:58:10.6307476+00:00",
-  "LastChanged_Achievements": "2023-07-30T10:05:35.6078663+00:00",
+  "LastChanged_Achievements": "2023-07-30T11:04:53.5701983+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-07-30T09:58:10.6307484+00:00",
-  "LastUpdate_Achievements": "2023-07-30T10:05:35.6079584+00:00"
+  "LastUpdate_Ratings": "2023-07-30T10:57:45.7335878+00:00",
+  "LastUpdate_Achievements": "2023-07-30T11:04:53.5702993+00:00"
 }
