@@ -6,16 +6,16 @@ Rating: 4.32 (Ranked 770)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Food Taster | 9.00% | ~5,051 |
-| Fall Fest | 7.00% | ~3,928 |
-| HFZ Goober | 6.00% | ~3,367 |
-| Thrill Seeker | 6.00% | ~3,367 |
+| Fall Fest | 7.00% | ~3,929 |
+| HFZ Goober | 6.00% | ~3,368 |
+| Thrill Seeker | 6.00% | ~3,368 |
 | Flying Present Catcher | 5.00% | ~2,806 |
 | Sunflower Master | 4.00% | ~2,245 |
-| Backer Visitor | 2.00% | ~1,122 |
-| Hi Fiver | 2.00% | ~1,122 |
-| Hate That Randomizer | 2.00% | ~1,122 |
-| Feet on Funkotron | 2.00% | ~1,122 |
-| A Timely Splash | 2.00% | ~1,122 |
+| Backer Visitor | 2.00% | ~1,123 |
+| Hi Fiver | 2.00% | ~1,123 |
+| Hate That Randomizer | 2.00% | ~1,123 |
+| Feet on Funkotron | 2.00% | ~1,123 |
+| A Timely Splash | 2.00% | ~1,123 |
 | Elf Chaser | 1.00% | ~561 |
 | Fool Me Twice | 1.00% | ~561 |
 | Old School Jammin' | 1.00% | ~561 |
@@ -27,12 +27,12 @@ Rating: 4.32 (Ranked 770)
 | Beaten By A Little Girl | 0.60% | ~337 |
 | Totally Bummed Again | 0.60% | ~337 |
 | Piece O' Cake | 0.50% | ~281 |
-| Boom Box Baby | 0.40% | ~224 |
-| I Can't Believe I've Done This | 0.40% | ~224 |
-| Flying Present Ultimate Master | 0.40% | ~224 |
-| Ridiculously Generous | 0.40% | ~224 |
-| Harsh Love | 0.40% | ~224 |
-| Made It Through | 0.40% | ~224 |
+| Boom Box Baby | 0.40% | ~225 |
+| I Can't Believe I've Done This | 0.40% | ~225 |
+| Flying Present Ultimate Master | 0.40% | ~225 |
+| Ridiculously Generous | 0.40% | ~225 |
+| Harsh Love | 0.40% | ~225 |
+| Made It Through | 0.40% | ~225 |
 | Map Explorer | 0.30% | ~168 |
 | Nine Funkotronians | 0.30% | ~168 |
 | I'm A Total Saint | 0.30% | ~168 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 770)
 | Why Do I Keep Doing That? | 0.10% | ~56 |
 | Hey, You Did It! | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,119 (Ranked 87)  
+Progressed: 56,126 (Ranked 87)  
 Completed: 4 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 4 (0.01%) (Ranked 234)
 | 2023-07-27 | 56,055 | 4 |
 | 2023-07-28 | 56,079 | 4 |
 | 2023-07-29 | 56,099 | 4 |
-| 2023-07-30 | 56,119 | 4 |
+| 2023-07-30 | 56,126 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

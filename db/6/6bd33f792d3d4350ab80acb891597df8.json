@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -198,17 +198,17 @@
       "ID": "CgkIxYDzrbcPEAIQAg",
       "SetID": "4egpam7",
       "Name": "All in a Day\u0027s Work",
-      "Percentage": 61,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAw",
       "SetID": "4egpam7",
       "Name": "The Bald Lady",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBA",
@@ -270,17 +270,17 @@
       "ID": "CgkIxYDzrbcPEAIQCw",
       "SetID": "4egpam7",
       "Name": "Target Practice",
-      "Percentage": 68,
+      "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDA",
       "SetID": "4egpam7",
       "Name": "Chimney Sweeper",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDQ",
@@ -437,8 +437,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-07-30T15:04:57.5567019+00:00",
+  "LastChanged_Achievements": "2023-07-30T16:04:59.3691529+00:00",
   "LastUpdate_AppInfo": "2023-07-25T11:57:10.4401913+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:57:15.1210707+00:00",
-  "LastUpdate_Achievements": "2023-07-30T15:04:57.5567213+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:57:24.3202304+00:00",
+  "LastUpdate_Achievements": "2023-07-30T16:04:59.3691734+00:00"
 }

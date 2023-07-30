@@ -3,12 +3,12 @@
   "Name": "Honkai: Star Rail",
   "ProductSlug": "honkai-star-rail",
   "Ranking_Rating": 145,
-  "Ranking_Popularity": 66,
+  "Ranking_Popularity": 65,
   "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
     "PcReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -1810,18 +1810,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 10126,
       "NumberOfAwardsMax": 5123
+    },
+    {
+      "Time": "2023-07-30T16:00:33.6664018+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 10261,
+      "NumberOfAwardsMax": 5242
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10126,
-  "NumberOfAwardsMax": 5123,
+  "NumberOfAwards": 10261,
+  "NumberOfAwardsMax": 5242,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 5123
+      "Count": 5242
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1875,7 +1881,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 448
+      "Count": 464
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1902,8 +1908,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-07-30T10:01:24.9196864+00:00",
+  "LastChanged": "2023-07-30T16:00:33.6664016+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.3696211+00:00",
-  "LastUpdate_Ratings": "2023-07-30T15:00:24.1576325+00:00",
-  "LastUpdate_Achievements": "2023-07-30T15:05:05.8408463+00:00"
+  "LastUpdate_Ratings": "2023-07-30T16:00:33.6664021+00:00",
+  "LastUpdate_Achievements": "2023-07-30T16:05:07.8070581+00:00"
 }

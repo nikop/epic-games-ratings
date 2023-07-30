@@ -50,6 +50,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 0.50% | ~66 |
 | Able Difficulty | 0.50% | ~66 |
 | Artisans | 0.50% | ~66 |
+| Colossus | 0.50% | ~66 |
 | Great Ziggurat | 0.50% | ~66 |
 | Ishtar Gate | 0.50% | ~66 |
 | Necropolis | 0.50% | ~66 |
@@ -62,7 +63,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.40% | ~53 |
 | Furious Family | 0.40% | ~53 |
 | Apadana | 0.40% | ~53 |
-| Colossus | 0.40% | ~53 |
 | Mausoleum | 0.40% | ~53 |
 | Musaeum | 0.40% | ~53 |
 | Learn to Play 2 | 0.40% | ~53 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,179 (Ranked 117)  
+Progressed: 13,182 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,7 +404,7 @@ Completed: 5 (0.04%) (Ranked 217)
 | 2023-07-27 | 13,128 | 5 |
 | 2023-07-28 | 13,145 | 5 |
 | 2023-07-29 | 13,164 | 5 |
-| 2023-07-30 | 13,179 | 5 |
+| 2023-07-30 | 13,182 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

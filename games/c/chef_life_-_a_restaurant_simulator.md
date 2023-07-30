@@ -13,7 +13,7 @@
 | Next Level Cuisine | 11.00% | ~57 |
 | Haute Cuisine | 8.00% | ~41 |
 | Italian Style | 7.00% | ~36 |
-| Sous-Chef | 5.00% | ~26 |
+| Sous-Chef | 6.00% | ~31 |
 | Well-Stocked Kitchen | 5.00% | ~26 |
 | Culinary Arts | 4.00% | ~21 |
 | Perfectionist | 4.00% | ~21 |

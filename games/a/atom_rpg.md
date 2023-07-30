@@ -6,16 +6,16 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 98.00% | ~1,067 |
-| One HIT wonder | 35.00% | ~381 |
-| Wanderer | 35.00% | ~381 |
+| Atom Agent | 98.00% | ~1,069 |
+| One HIT wonder | 35.00% | ~382 |
+| Wanderer | 35.00% | ~382 |
 | One shot, one kill | 28.00% | ~305 |
-| Traveler | 26.00% | ~283 |
+| Traveler | 26.00% | ~284 |
 | Head Burst | 20.00% | ~218 |
 | Explorer | 18.00% | ~196 |
 | Grave Robber | 18.00% | ~196 |
-| Double agent | 15.00% | ~163 |
-| Paranoia | 15.00% | ~163 |
+| Double agent | 15.00% | ~164 |
+| Paranoia | 15.00% | ~164 |
 | Kraina Grzybow | 10.00% | ~109 |
 | Love Guru | 9.00% | ~98 |
 | Savant | 9.00% | ~98 |
@@ -23,8 +23,8 @@ Number of Ratings: 54  (23.09.2022)
 | Not-so-private Eye | 8.00% | ~87 |
 | Superhuman | 8.00% | ~87 |
 | The Vitinsky Rifle | 7.00% | ~76 |
-| Protection racket | 5.00% | ~54 |
-| Secret room | 5.00% | ~54 |
+| Protection racket | 5.00% | ~55 |
+| Secret room | 5.00% | ~55 |
 | Indy | 4.00% | ~44 |
 | Sacrifice | 4.00% | ~44 |
 | Wishmaster | 3.00% | ~33 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,089 (Ranked 191)  
+Progressed: 1,091 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 1,069 | 0 |
 | 2023-07-28 | 1,074 | 0 |
 | 2023-07-29 | 1,085 | 0 |
-| 2023-07-30 | 1,089 | 0 |
+| 2023-07-30 | 1,091 | 0 |
 ## Awards
 Max (Character Customization): 49  (Ranked 404)  
 Sum: 49 (Ranked 450)  

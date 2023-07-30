@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -203,9 +203,9 @@
       "ID": "CgkInO_K3eIdEAIQBA",
       "SetID": "6bj96in",
       "Name": "TRAINING DAY",
-      "Percentage": 76,
+      "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "CgkInO_K3eIdEAIQBQ",
@@ -275,9 +275,9 @@
       "ID": "CgkInO_K3eIdEAIQDQ",
       "SetID": "6bj96in",
       "Name": "TEMPORAL ARCHITECT",
-      "Percentage": 76,
+      "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "CgkInO_K3eIdEAIQDg",
@@ -394,8 +394,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-07-30T15:04:02.0709746+00:00",
+  "LastChanged_Achievements": "2023-07-30T16:04:02.8115398+00:00",
   "LastUpdate_AppInfo": "2023-07-26T13:57:00.7387624+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:57:07.7456882+00:00",
-  "LastUpdate_Achievements": "2023-07-30T15:04:02.0709949+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:57:17.5505464+00:00",
+  "LastUpdate_Achievements": "2023-07-30T16:04:02.8115555+00:00"
 }

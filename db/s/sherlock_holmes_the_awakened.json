@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -52,11 +52,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 570,
+  "EOS_Progressed": 571,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.39,
+  "EOS_Completed_Percentage": 4.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -1962,6 +1962,11 @@
       "Time": "2023-07-30T13:08:42.6774725+00:00",
       "NumProgressed": 570,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-30T16:06:03.3331437+00:00",
+      "NumProgressed": 571,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 28,
@@ -1981,15 +1986,15 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 331
     },
     {
       "ID": "MQ02_2",
@@ -2037,7 +2042,7 @@
       "Name": "History Check",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "MQ03_4",
@@ -2053,7 +2058,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "MQ04_1",
@@ -2061,7 +2066,7 @@
       "Name": "Going Once...",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "MQ04_2",
@@ -2077,7 +2082,7 @@
       "Name": "The New World",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "MQ05_1",
@@ -2117,7 +2122,7 @@
       "Name": "Brain Food",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "MQ06_2",
@@ -2125,7 +2130,7 @@
       "Name": "Bookworm",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "MQ06_3",
@@ -2141,7 +2146,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "MQ07_1",
@@ -2155,9 +2160,9 @@
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 256
+      "UsersEstimate": 251
     },
     {
       "ID": "MQ08_1",
@@ -2165,7 +2170,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "MQ08_2",
@@ -2173,7 +2178,7 @@
       "Name": "Up In Flames",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "MQ08_3",
@@ -2181,7 +2186,7 @@
       "Name": "Fhtagn!",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "PLTN",
@@ -2189,14 +2194,14 @@
       "Name": "Reawakened",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 570,
+      "Progressed": 571,
       "Completed": 25
     }
   ],
@@ -2204,8 +2209,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-07-24T23:58:19.6744242+00:00",
-  "LastChanged_Achievements": "2023-07-30T15:06:00.3126562+00:00",
+  "LastChanged_Achievements": "2023-07-30T16:06:03.333143+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:58.5261994+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:57:33.0273916+00:00",
-  "LastUpdate_Achievements": "2023-07-30T15:06:00.3127359+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:57:43.7893115+00:00",
+  "LastUpdate_Achievements": "2023-07-30T16:06:03.3331765+00:00"
 }

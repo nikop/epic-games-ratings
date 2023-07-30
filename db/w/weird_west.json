@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,7 +325,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1757,
+  "EOS_Progressed": 1758,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
@@ -1610,6 +1610,11 @@
       "Time": "2023-07-30T07:06:07.7037005+00:00",
       "NumProgressed": 1757,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-30T16:04:41.1900122+00:00",
+      "NumProgressed": 1758,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1621,7 +1626,7 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -1629,7 +1634,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1645,7 +1650,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -1653,7 +1658,7 @@
       "Name": "Dog Days",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_DO_NOT_PASS_GO",
@@ -1773,7 +1778,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1853,7 +1858,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1867,9 +1872,9 @@
       "ID": "ACH_PERKY",
       "SetID": "8j30i9k",
       "Name": "Perky",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1143
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1893,7 +1898,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ACH_REVENANT",
@@ -1909,7 +1914,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -1917,7 +1922,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1997,7 +2002,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2005,7 +2010,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2037,22 +2042,22 @@
       "Name": "Workers\u0027 Rights",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     }
   ],
   "AchievementSets": [
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1757,
+      "Progressed": 1758,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-30T15:04:39.4661072+00:00",
+  "LastChanged_Achievements": "2023-07-30T16:04:41.1900114+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.150321+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:58:39.9374569+00:00",
-  "LastUpdate_Achievements": "2023-07-30T15:04:39.4661836+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:58:47.5744538+00:00",
+  "LastUpdate_Achievements": "2023-07-30T16:04:41.190061+00:00"
 }

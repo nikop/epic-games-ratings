@@ -2,13 +2,13 @@
   "ID": "ffe512fa1e594ee6a75d4643d1e21b43",
   "Name": "Totally Accurate Battle Simulator",
   "ProductSlug": "totally-accurate-battle-simulator",
-  "Ranking_Rating": 121,
+  "Ranking_Rating": 120,
   "Ranking_Popularity": 223,
   "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2019-04-01T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -3354,6 +3354,6 @@
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
   "LastChanged": "2023-07-30T09:00:36.8973824+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:58.7869227+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:59:27.417814+00:00",
-  "LastUpdate_Achievements": "2023-07-30T15:05:05.4633417+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:59:32.6974638+00:00",
+  "LastUpdate_Achievements": "2023-07-30T16:05:07.4627264+00:00"
 }

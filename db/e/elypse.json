@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -460,9 +460,9 @@
       "ID": "Ach_DarkPoulpeConstellation",
       "SetID": "4o5gjp0",
       "Name": "The beast within",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Ach_DeathXTime",
@@ -508,9 +508,9 @@
       "ID": "Ach_DiscoveryTemple",
       "SetID": "4o5gjp0",
       "Name": "It\u0027s getting dark",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Ach_DiscoveryTuto",
@@ -524,9 +524,9 @@
       "ID": "Ach_DiveDeath",
       "SetID": "4o5gjp0",
       "Name": "MayDay! MayDay!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Ach_DiveKillEnnemis",
@@ -659,8 +659,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-07-30T15:04:09.6205235+00:00",
+  "LastChanged_Achievements": "2023-07-30T16:04:10.6657146+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:57.8923597+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:58:19.8222636+00:00",
-  "LastUpdate_Achievements": "2023-07-30T15:04:09.6205499+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:58:27.0947612+00:00",
+  "LastUpdate_Achievements": "2023-07-30T16:04:10.6657428+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "3bbc147c5f134b7cab059cb2b3bb0dd7",
   "Name": "Kao the Kangaroo",
   "ProductSlug": "kao-the-kangaroo-62abe3",
-  "Ranking_Rating": 795,
+  "Ranking_Rating": 794,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-05-27T13:00:00+00:00",
     "PcReleaseDate": "2022-05-27T00:00:00+00:00",
@@ -321,6 +321,6 @@
   "FirstSeenRating": "2023-03-31T05:56:58.1547368+00:00",
   "LastChanged": "2023-07-29T12:59:18.9222515+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:19.4064089+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:56:58.5016075+00:00",
-  "LastUpdate_Achievements": "2023-07-30T15:02:16.6597553+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:57:07.1154547+00:00",
+  "LastUpdate_Achievements": "2023-07-30T16:02:06.0215964+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56119,
+  "EOS_Progressed": 56126,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6622,6 +6622,11 @@
       "Time": "2023-07-30T14:05:52.8075653+00:00",
       "NumProgressed": 56119,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-30T16:05:12.5394377+00:00",
+      "NumProgressed": 56126,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -6641,7 +6646,7 @@
       "Name": "Backer Visitor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "BoomBox",
@@ -6649,7 +6654,7 @@
       "Name": "Boom Box Baby",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "BoomBoxWipeout",
@@ -6665,7 +6670,7 @@
       "Name": "I Can\u0027t Believe I\u0027ve Done This",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "CantTouchThis",
@@ -6697,7 +6702,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 3928
+      "UsersEstimate": 3929
     },
     {
       "ID": "FlyingPresent",
@@ -6713,7 +6718,7 @@
       "Name": "Flying Present Ultimate Master",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "FoodTaster",
@@ -6753,7 +6758,7 @@
       "Name": "Ridiculously Generous",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "GetThemAll",
@@ -6777,7 +6782,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3367
+      "UsersEstimate": 3368
     },
     {
       "ID": "HarshLove",
@@ -6785,7 +6790,7 @@
       "Name": "Harsh Love",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "HiFive",
@@ -6793,7 +6798,7 @@
       "Name": "Hi Fiver",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "IsThisPossible",
@@ -6841,7 +6846,7 @@
       "Name": "Made It Through",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "Money",
@@ -6889,7 +6894,7 @@
       "Name": "Hate That Randomizer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "RhythmStar",
@@ -6929,7 +6934,7 @@
       "Name": "Feet on Funkotron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "StruckLove",
@@ -6969,7 +6974,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3367
+      "UsersEstimate": 3368
     },
     {
       "ID": "TimelySplash",
@@ -6977,7 +6982,7 @@
       "Name": "A Timely Splash",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "TotalBummer",
@@ -7024,7 +7029,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56119,
+      "Progressed": 56126,
       "Completed": 4
     }
   ],
@@ -7032,8 +7037,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-07-30T15:05:10.242277+00:00",
+  "LastChanged_Achievements": "2023-07-30T16:05:12.5394371+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:57.4410287+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:56:58.409659+00:00",
-  "LastUpdate_Achievements": "2023-07-30T15:05:10.2423681+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:57:07.0358806+00:00",
+  "LastUpdate_Achievements": "2023-07-30T16:05:12.5395188+00:00"
 }

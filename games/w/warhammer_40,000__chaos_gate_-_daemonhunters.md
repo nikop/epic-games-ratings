@@ -6,9 +6,9 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 2.00% | ~61 |
-| An Ill Omen | 2.00% | ~61 |
-| Look Over There! | 1.00% | ~31 |
+| Look Over There! | 2.00% | ~62 |
+| Executioner | 2.00% | ~62 |
+| An Ill Omen | 2.00% | ~62 |
 | Not So Fast... | 1.00% | ~31 |
 | Blood for the Blood God! | 1.00% | ~31 |
 | Watch Where You Step... | 1.00% | ~31 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strategic Command | 0.00% | ~0 |
 | Suffer Not the Mutant | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,074 (Ranked 154)  
+Progressed: 3,075 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 3,054 | 0 |
 | 2023-07-28 | 3,064 | 0 |
 | 2023-07-29 | 3,069 | 0 |
-| 2023-07-30 | 3,074 | 0 |
+| 2023-07-30 | 3,075 | 0 |
 ## Awards
 Max (Character Customization): 216  (Ranked 264)  
 Sum: 459 (Ranked 303)  

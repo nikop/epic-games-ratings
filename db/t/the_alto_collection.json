@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -745,7 +745,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 33314,
+  "EOS_Progressed": 33321,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 1010,
   "EOS_NewCompleters": 0,
@@ -11695,6 +11695,11 @@
       "Time": "2023-07-30T15:03:41.3363211+00:00",
       "NumProgressed": 33314,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-30T16:03:40.3864229+00:00",
+      "NumProgressed": 33321,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -11706,7 +11711,7 @@
       "Name": "Junkie",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "distance1000000",
@@ -11722,7 +11727,7 @@
       "Name": "Traveler",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "distance50000",
@@ -11730,7 +11735,7 @@
       "Name": "Scout",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3331
+      "UsersEstimate": 3332
     },
     {
       "ID": "distance500000",
@@ -11746,7 +11751,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 8662
+      "UsersEstimate": 8663
     },
     {
       "ID": "goals180",
@@ -11762,7 +11767,7 @@
       "Name": "Amateur",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2998
+      "UsersEstimate": 2999
     },
     {
       "ID": "goals75",
@@ -11794,7 +11799,7 @@
       "Name": "Journeyer",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "lifeaquatic",
@@ -11826,7 +11831,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5997
+      "UsersEstimate": 5998
     },
     {
       "ID": "novice",
@@ -11834,7 +11839,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5330
+      "UsersEstimate": 5331
     },
     {
       "ID": "playerFelipe",
@@ -11866,7 +11871,7 @@
       "Name": "Unlock Paz",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "playerTime3days",
@@ -11914,7 +11919,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 8662
+      "UsersEstimate": 8663
     },
     {
       "ID": "sandboarder",
@@ -11970,7 +11975,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4997
+      "UsersEstimate": 4998
     },
     {
       "ID": "unlockpaz",
@@ -11978,7 +11983,7 @@
       "Name": "Enter Paz",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2665
+      "UsersEstimate": 2666
     },
     {
       "ID": "vandal",
@@ -12002,7 +12007,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2665
+      "UsersEstimate": 2666
     },
     {
       "ID": "windswept",
@@ -12017,15 +12022,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 33314,
+      "Progressed": 33321,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-28T06:00:25.7046366+00:00",
-  "LastChanged_Achievements": "2023-07-30T15:03:41.3363208+00:00",
+  "LastChanged_Achievements": "2023-07-30T16:03:40.3864223+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:58.7881773+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:59:26.4440252+00:00",
-  "LastUpdate_Achievements": "2023-07-30T15:03:41.3365575+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:59:31.819655+00:00",
+  "LastUpdate_Achievements": "2023-07-30T16:03:40.3865184+00:00"
 }

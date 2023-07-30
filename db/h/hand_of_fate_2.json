@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 660059,
+  "EOS_Progressed": 660060,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10367,6 +10367,11 @@
       "Time": "2023-07-30T14:03:36.4188816+00:00",
       "NumProgressed": 660059,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-07-30T16:03:17.0877877+00:00",
+      "NumProgressed": 660060,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -10378,7 +10383,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 475242
+      "UsersEstimate": 475243
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -10386,7 +10391,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382834
+      "UsersEstimate": 382835
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -10761,15 +10766,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 660059,
+      "Progressed": 660060,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-30T15:03:19.1901164+00:00",
+  "LastChanged_Achievements": "2023-07-30T16:03:17.0877872+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:32.2842788+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:57:55.1854609+00:00",
-  "LastUpdate_Achievements": "2023-07-30T15:03:19.1902237+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:58:03.8714541+00:00",
+  "LastUpdate_Achievements": "2023-07-30T16:03:17.0878812+00:00"
 }

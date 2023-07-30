@@ -4,8 +4,8 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
     "PcReleaseDate": "2022-03-24T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 220,
+  "EOS_Progressed": 221,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -901,6 +901,11 @@
       "Time": "2023-07-30T07:03:22.3904178+00:00",
       "NumProgressed": 220,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T16:02:16.3058999+00:00",
+      "NumProgressed": 221,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -910,9 +915,9 @@
       "ID": "FIRST_LEVEL",
       "SetID": "aemieak",
       "Name": "The first of many",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 126
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -1142,23 +1147,23 @@
       "ID": "TUTORIAL_FIRST",
       "SetID": "aemieak",
       "Name": "Starting to take notes",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 148
     }
   ],
   "AchievementSets": [
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 220,
+      "Progressed": 221,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-07-30T15:02:27.9481649+00:00",
+  "LastChanged_Achievements": "2023-07-30T16:02:16.3058994+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.942279+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:58:22.5704789+00:00",
-  "LastUpdate_Achievements": "2023-07-30T15:02:27.9482094+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:58:29.8975594+00:00",
+  "LastUpdate_Achievements": "2023-07-30T16:02:16.305928+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6873,
+  "EOS_Progressed": 6875,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -5139,6 +5139,11 @@
       "Time": "2023-07-30T15:04:07.7693659+00:00",
       "NumProgressed": 6873,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-07-30T16:04:08.7189993+00:00",
+      "NumProgressed": 6875,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 21,
@@ -5150,7 +5155,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ARRR",
@@ -5158,7 +5163,7 @@
       "Name": "Arrr!",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "AUDIOPHILE",
@@ -5198,7 +5203,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -5254,7 +5259,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "LIBERATOR",
@@ -5286,7 +5291,7 @@
       "Name": "Snip Snip",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "SOUL_CANON",
@@ -5302,7 +5307,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "THING",
@@ -5317,7 +5322,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6873,
+      "Progressed": 6875,
       "Completed": 30
     }
   ],
@@ -5325,8 +5330,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-16T23:57:58.4349982+00:00",
-  "LastChanged_Achievements": "2023-07-30T15:04:07.7693654+00:00",
+  "LastChanged_Achievements": "2023-07-30T16:04:08.7189988+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:48.4178879+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:58:10.9897418+00:00",
-  "LastUpdate_Achievements": "2023-07-30T15:04:07.7694505+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:58:18.4052964+00:00",
+  "LastUpdate_Achievements": "2023-07-30T16:04:08.7190397+00:00"
 }

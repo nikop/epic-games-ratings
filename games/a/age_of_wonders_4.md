@@ -42,10 +42,10 @@ Rating: 4.63 (Ranked 332)
 | The Eternal Court | 2.00% | ~101 |
 | Duality | 2.00% | ~101 |
 | Jack of All Tomes | 1.00% | ~51 |
+| Pruning for Progress | 1.00% | ~51 |
 | Grexolis | 1.00% | ~51 |
 | One for All, All for One | 1.00% | ~51 |
 | I've Got Everything I Need Right Here | 0.90% | ~46 |
-| Pruning for Progress | 0.90% | ~46 |
 | Manufactured War | 0.70% | ~35 |
 | Snap Out of It! | 0.60% | ~30 |
 | Betrayal Most Foul | 0.30% | ~15 |

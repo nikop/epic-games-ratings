@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1569,9 +1569,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13179,
+  "EOS_Progressed": 13182,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8809,6 +8809,11 @@
       "Time": "2023-07-30T15:05:42.9304723+00:00",
       "NumProgressed": 13179,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-30T16:05:45.5522612+00:00",
+      "NumProgressed": 13182,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10162,9 +10167,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
       "SetID": "9201eeb",
       "Name": "Colossus",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
@@ -11187,21 +11192,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13179,
+      "Progressed": 13182,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13179,
+      "Progressed": 13182,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-29T07:58:48.2149836+00:00",
-  "LastChanged_Achievements": "2023-07-30T15:05:42.9304717+00:00",
+  "LastChanged_Achievements": "2023-07-30T16:05:45.5522607+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.4550053+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:58:11.7996731+00:00",
-  "LastUpdate_Achievements": "2023-07-30T15:05:42.9313805+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:58:19.2835178+00:00",
+  "LastUpdate_Achievements": "2023-07-30T16:05:45.5531197+00:00"
 }

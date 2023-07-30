@@ -12,8 +12,8 @@
 | A Box of Tricks | 21.00% | ~11 |
 | Codebreaker | 21.00% | ~11 |
 | Explosive End | 21.00% | ~11 |
+| Set Sail | 21.00% | ~11 |
 | Breathless End | 19.00% | ~10 |
-| Set Sail | 19.00% | ~10 |
 | Backstory Buff | 17.00% | ~9 |
 | Bathroom Brawler | 17.00% | ~9 |
 | Finger-Lickin' Bad | 17.00% | ~9 |

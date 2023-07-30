@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -562,9 +562,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 9370,
+  "EOS_Progressed": 9371,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7412,6 +7412,11 @@
       "Time": "2023-07-30T15:04:12.0831971+00:00",
       "NumProgressed": 9370,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-30T16:04:13.0212331+00:00",
+      "NumProgressed": 9371,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -7447,7 +7452,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH05",
@@ -7583,7 +7588,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4216
+      "UsersEstimate": 4217
     },
     {
       "ID": "ACH22",
@@ -7599,7 +7604,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "ACH24",
@@ -7631,7 +7636,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH28",
@@ -7661,9 +7666,9 @@
       "ID": "ACH31",
       "SetID": "9llo822",
       "Name": "Chopper\u2019d Up",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 94
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH32",
@@ -7694,7 +7699,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9370,
+      "Progressed": 9371,
       "Completed": 43
     }
   ],
@@ -7702,8 +7707,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-30T11:58:54.8503633+00:00",
-  "LastChanged_Achievements": "2023-07-30T15:04:12.0831966+00:00",
+  "LastChanged_Achievements": "2023-07-30T16:04:13.0212325+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:58:27.1505808+00:00",
-  "LastUpdate_Achievements": "2023-07-30T15:04:12.0833348+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:58:35.2708028+00:00",
+  "LastUpdate_Achievements": "2023-07-30T16:04:13.0212994+00:00"
 }

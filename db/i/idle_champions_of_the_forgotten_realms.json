@@ -5404,9 +5404,9 @@
       "Count": 3330
     }
   ],
-  "EOS_Progressed": 217093,
+  "EOS_Progressed": 217113,
   "EOS_Completed": 2137,
-  "EOS_NewPlayers": 2234,
+  "EOS_NewPlayers": 2229,
   "EOS_NewCompleters": 77,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16269,6 +16269,11 @@
       "Time": "2023-07-30T15:03:37.5234092+00:00",
       "NumProgressed": 217093,
       "NumCompleted": 2137
+    },
+    {
+      "Time": "2023-07-30T16:03:36.6331703+00:00",
+      "NumProgressed": 217113,
+      "NumCompleted": 2137
     }
   ],
   "TotalAchievements": 512,
@@ -16416,7 +16421,7 @@
       "Name": "Thieves of the Coven",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "objective_completed_1061",
@@ -16712,7 +16717,7 @@
       "Name": "Hatchlings Underfoot",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "objective_completed_1111",
@@ -16752,7 +16757,7 @@
       "Name": "Don\u0027t Look Up!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "objective_completed_1121",
@@ -16896,7 +16901,7 @@
       "Name": "Heavy Burden",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "objective_completed_1152",
@@ -17086,9 +17091,9 @@
       "ID": "objective_completed_1188",
       "SetID": "415jc5c",
       "Name": "The Castle of a Thousand Vecnas",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_completed_1189",
@@ -17144,7 +17149,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "objective_completed_1203",
@@ -17256,7 +17261,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "objective_completed_130",
@@ -17384,7 +17389,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "objective_completed_149",
@@ -17400,7 +17405,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "objective_completed_150",
@@ -17472,7 +17477,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "objective_completed_165",
@@ -17504,7 +17509,7 @@
       "Name": "Building Trust",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "objective_completed_17",
@@ -17608,7 +17613,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "objective_completed_20",
@@ -17696,7 +17701,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "objective_completed_231",
@@ -17990,9 +17995,9 @@
       "ID": "objective_completed_378",
       "SetID": "cc37lbc",
       "Name": "The Guardian of Orolunga",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 434
     },
     {
       "ID": "objective_completed_379",
@@ -19424,7 +19429,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "objective_completed_70",
@@ -20312,7 +20317,7 @@
       "Name": "Luigi After Hours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "objective_completed_1380",
@@ -20328,7 +20333,7 @@
       "Name": "Electric Mayhem",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "objective_completed_1385",
@@ -20368,28 +20373,28 @@
       "Name": "Animated Giff",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183367,
+      "Progressed": 183387,
       "Completed": 3028
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217093,
+      "Progressed": 217113,
       "Completed": 2137
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-30T14:58:22.2529012+00:00",
-  "LastChanged_Achievements": "2023-07-30T15:03:37.5234087+00:00",
+  "LastChanged_Achievements": "2023-07-30T16:03:36.6331699+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:58:22.2529024+00:00",
-  "LastUpdate_Achievements": "2023-07-30T15:03:37.5262179+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:58:29.5391502+00:00",
+  "LastUpdate_Achievements": "2023-07-30T16:03:36.6358428+00:00"
 }

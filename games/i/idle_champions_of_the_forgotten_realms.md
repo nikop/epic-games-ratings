@@ -25,27 +25,27 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heatwave | 0.60% | ~1,100 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,100 |
 | The Witchlight Carnival | 0.50% | ~917 |
-| Hatchlings Underfoot | 0.50% | ~1,085 |
-| Don't Look Up! | 0.50% | ~1,085 |
-| Heavy Burden | 0.50% | ~1,085 |
+| Hatchlings Underfoot | 0.50% | ~1,086 |
+| Don't Look Up! | 0.50% | ~1,086 |
+| Heavy Burden | 0.50% | ~1,086 |
 | The Evacuation of Waterdeep | 0.50% | ~917 |
 | The Dread Domain of Tovag | 0.50% | ~917 |
-| Were-verpowered | 0.50% | ~1,085 |
-| A Persistent Buzzing | 0.50% | ~1,085 |
-| Beast Mode | 0.50% | ~1,085 |
-| Terror in the Dark | 0.50% | ~1,085 |
-| A Mysterious Summons | 0.50% | ~1,085 |
-| Building Trust | 0.50% | ~1,085 |
-| Unearthed Evil | 0.50% | ~1,085 |
-| The Dinner Party | 0.50% | ~1,085 |
-| The Mad Wizard | 0.50% | ~1,085 |
+| Were-verpowered | 0.50% | ~1,086 |
+| A Persistent Buzzing | 0.50% | ~1,086 |
+| Beast Mode | 0.50% | ~1,086 |
+| Terror in the Dark | 0.50% | ~1,086 |
+| A Mysterious Summons | 0.50% | ~1,086 |
+| Building Trust | 0.50% | ~1,086 |
+| Unearthed Evil | 0.50% | ~1,086 |
+| The Dinner Party | 0.50% | ~1,086 |
+| The Mad Wizard | 0.50% | ~1,086 |
 | Not That Type of Helm! | 0.50% | ~917 |
 | Calcryx Tricks | 0.50% | ~917 |
 | Goblin Halls: the Next Generation | 0.50% | ~917 |
 | Bazaar Companions | 0.50% | ~917 |
 | Bahamut's Army | 0.50% | ~917 |
 | Krux's Speed Run | 0.50% | ~917 |
-| Thieves of the Coven | 0.40% | ~733 |
+| Thieves of the Coven | 0.40% | ~734 |
 | On the Hunt | 0.40% | ~868 |
 | Friends of the Forest | 0.40% | ~868 |
 | Low Initiative | 0.40% | ~868 |
@@ -57,9 +57,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.40% | ~868 |
 | The Botched Kidnapping | 0.40% | ~868 |
 | The Cursed Farmer | 0.40% | ~868 |
-| Luigi After Hours | 0.40% | ~733 |
-| Electric Mayhem | 0.40% | ~733 |
-| Animated Giff | 0.40% | ~733 |
+| Luigi After Hours | 0.40% | ~734 |
+| Electric Mayhem | 0.40% | ~734 |
+| Animated Giff | 0.40% | ~734 |
 | Upholding the Law | 0.30% | ~651 |
 | Nightmare Rats! | 0.30% | ~550 |
 | Hither of the Feywild | 0.30% | ~550 |
@@ -70,6 +70,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Thay Ever | 0.30% | ~550 |
 | A Demi-god's Defender | 0.30% | ~550 |
 | Well Equipped | 0.30% | ~550 |
+| The Castle of a Thousand Vecnas | 0.30% | ~550 |
 | Who Lurks Below? | 0.30% | ~550 |
 | Xanathaaaaaaar! | 0.30% | ~550 |
 | Homecoming | 0.30% | ~651 |
@@ -132,7 +133,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Avernus in a Handbasket | 0.20% | ~367 |
 | Hands Off! | 0.20% | ~367 |
 | Weak Doesn't Mean Feeble | 0.20% | ~367 |
-| The Castle of a Thousand Vecnas | 0.20% | ~367 |
 | The Sanctum of the Sword | 0.20% | ~367 |
 | Get Back In The Castle | 0.20% | ~367 |
 | Checkmate | 0.20% | ~367 |
@@ -159,6 +159,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.20% | ~434 |
 | The Death Curse | 0.20% | ~434 |
 | Treasure Hunters | 0.20% | ~434 |
+| The Guardian of Orolunga | 0.20% | ~434 |
 | Flies on the Wall | 0.20% | ~434 |
 | Backtracking Through Barovia | 0.20% | ~434 |
 | Nimble Escape | 0.20% | ~434 |
@@ -297,7 +298,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~217 |
 | Our Time To Shine | 0.10% | ~217 |
 | Review by the Blackstaff | 0.10% | ~183 |
-| The Guardian of Orolunga | 0.10% | ~217 |
 | Think Your Way Out Of It | 0.10% | ~217 |
 | Air's Getting Pretty Thin | 0.10% | ~217 |
 | Red Wizard 'Escort' | 0.10% | ~183 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,093 (Ranked 53)  
+Progressed: 217,113 (Ranked 53)  
 Completed: 2,137 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,7 +620,7 @@ Completed: 2,137 (0.98%) (Ranked 112)
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
-| 2023-07-30 | 217,093 | 2,137 |
+| 2023-07-30 | 217,113 | 2,137 |
 ## Awards
 Max (Diverse Characters): 5,100  (Ranked 67)  
 Sum: 30,813 (Ranked 38)  

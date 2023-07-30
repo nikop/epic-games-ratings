@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1817,
+  "EOS_Progressed": 1818,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2232,6 +2232,11 @@
       "Time": "2023-07-30T13:05:40.9719737+00:00",
       "NumProgressed": 1817,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-30T16:03:14.8245504+00:00",
+      "NumProgressed": 1818,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2243,7 +2248,7 @@
       "Name": "Become King",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "Collect20Gold",
@@ -2275,7 +2280,7 @@
       "Name": "Return the Statues",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -2347,7 +2352,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "DefeatMoziQueen",
@@ -2355,7 +2360,7 @@
       "Name": "End of the Mozis",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -2371,7 +2376,7 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -2379,7 +2384,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "GetRangedWeapon",
@@ -2387,7 +2392,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "GetTHWeapon",
@@ -2459,7 +2464,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "RescueBrothers",
@@ -2482,22 +2487,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1817,
+      "Progressed": 1818,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 458,
-      "Completed": 458
+      "Progressed": 459,
+      "Completed": 459
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-30T07:58:33.6633976+00:00",
-  "LastChanged_Achievements": "2023-07-30T15:03:16.9911912+00:00",
+  "LastChanged_Achievements": "2023-07-30T16:03:14.8245498+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.5556081+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:58:32.2788291+00:00",
-  "LastUpdate_Achievements": "2023-07-30T15:03:16.9912285+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:58:39.6692968+00:00",
+  "LastUpdate_Achievements": "2023-07-30T16:03:14.8245829+00:00"
 }

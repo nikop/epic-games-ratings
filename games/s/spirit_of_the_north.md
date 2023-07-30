@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~43,463 |
-| INFUSED WITH LIGHT | 53.00% | ~33,875 |
-| FOXIN' AROUND | 29.00% | ~18,536 |
-| FETCH | 27.00% | ~17,257 |
-| BLOOMS OF LIGHT | 26.00% | ~16,618 |
-| BEST FRIENDS | 22.00% | ~14,062 |
-| AWAKEN | 21.00% | ~13,422 |
-| ERADICATE | 21.00% | ~13,422 |
-| SPIRIT BARK | 21.00% | ~13,422 |
-| GARDEN OF LIGHT | 18.00% | ~11,505 |
-| SPIRIT FORM | 16.00% | ~10,227 |
-| UPROOTING DARKNESS | 15.00% | ~9,587 |
-| WRITTEN IN STONE | 15.00% | ~9,587 |
-| WEIGHTLESS | 12.00% | ~7,670 |
-| SPIRIT DASH | 11.00% | ~7,031 |
-| OLD COMPANION | 9.00% | ~5,752 |
-| PLAGUE DOCTOR | 8.00% | ~5,113 |
-| SPIRITED AWAY | 8.00% | ~5,113 |
-| MATCH MAKER | 7.00% | ~4,474 |
-| NORTHERN LIGHTS | 7.00% | ~4,474 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~43,470 |
+| INFUSED WITH LIGHT | 53.00% | ~33,881 |
+| FOXIN' AROUND | 29.00% | ~18,539 |
+| FETCH | 27.00% | ~17,260 |
+| BLOOMS OF LIGHT | 26.00% | ~16,621 |
+| BEST FRIENDS | 22.00% | ~14,064 |
+| AWAKEN | 21.00% | ~13,424 |
+| ERADICATE | 21.00% | ~13,424 |
+| SPIRIT BARK | 21.00% | ~13,424 |
+| GARDEN OF LIGHT | 18.00% | ~11,507 |
+| SPIRIT FORM | 16.00% | ~10,228 |
+| UPROOTING DARKNESS | 15.00% | ~9,589 |
+| WRITTEN IN STONE | 15.00% | ~9,589 |
+| WEIGHTLESS | 12.00% | ~7,671 |
+| SPIRIT DASH | 11.00% | ~7,032 |
+| OLD COMPANION | 9.00% | ~5,753 |
+| PLAGUE DOCTOR | 8.00% | ~5,114 |
+| SPIRITED AWAY | 8.00% | ~5,114 |
+| MATCH MAKER | 7.00% | ~4,475 |
+| NORTHERN LIGHTS | 7.00% | ~4,475 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,557 |
-| ANCIENT HISTORY | 3.00% | ~1,917 |
-| NONE FORGOTTEN | 2.00% | ~1,278 |
-| KINDRED SPIRITS | 0.60% | ~383 |
+| ANCIENT HISTORY | 3.00% | ~1,918 |
+| NONE FORGOTTEN | 2.00% | ~1,279 |
+| KINDRED SPIRITS | 0.60% | ~384 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,916 (Ranked 83)  
+Progressed: 63,926 (Ranked 83)  
 Completed: 329 (0.51%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 329 (0.51%) (Ranked 135)
 | 2023-07-27 | 63,586 | 325 |
 | 2023-07-28 | 63,702 | 326 |
 | 2023-07-29 | 63,849 | 328 |
-| 2023-07-30 | 63,916 | 329 |
+| 2023-07-30 | 63,926 | 329 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 478)  
 Sum: 113 (Ranked 408)  

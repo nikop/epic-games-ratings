@@ -9,14 +9,14 @@
 | Capitalism | 12.00% | ~13 |
 | Indebted | 11.00% | ~12 |
 | Desert Rat | 8.00% | ~9 |
+| Good payer | 6.00% | ~7 |
+| Great Producer | 6.00% | ~7 |
 | Green Energy | 6.00% | ~7 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~6 |
 | Health Care | 5.00% | ~6 |
 | There's something in those trees | 5.00% | ~6 |
-| Good payer | 5.00% | ~6 |
 | Pathfinder | 5.00% | ~6 |
 | Ammo Tycoon | 5.00% | ~6 |
-| Great Producer | 5.00% | ~6 |
 | Outdoor Decorator | 4.00% | ~4 |
 | Desert Power | 4.00% | ~4 |
 | Self-sufficient | 4.00% | ~4 |
@@ -27,6 +27,7 @@
 | Supersoldier | 2.00% | ~2 |
 | Healing | 2.00% | ~2 |
 | Human Resources | 2.00% | ~2 |
+| Fuel Tycoon | 2.00% | ~2 |
 | Researcher | 2.00% | ~2 |
 | Tear Down the Wall! | 0.90% | ~1 |
 | Vive le Résistance | 0.90% | ~1 |
@@ -34,7 +35,6 @@
 | Snowman | 0.90% | ~1 |
 | Overpopulation | 0.90% | ~1 |
 | Reconquest | 0.90% | ~1 |
-| Fuel Tycoon | 0.90% | ~1 |
 | Winter Soldier | 0.90% | ~1 |
 | Economist | 0.00% | ~0 |
 | Attack of the Drones | 0.00% | ~0 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -1147,9 +1147,9 @@
       "ID": "Chapter3",
       "SetID": "70l3651",
       "Name": "The Breeder",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 113
     },
     {
       "ID": "Chapter4",
@@ -1394,8 +1394,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-07-30T15:06:18.984564+00:00",
+  "LastChanged_Achievements": "2023-07-30T16:06:23.6498838+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:41.3820376+00:00",
-  "LastUpdate_Ratings": "2023-07-30T14:58:03.8918449+00:00",
-  "LastUpdate_Achievements": "2023-07-30T15:06:18.9845958+00:00"
+  "LastUpdate_Ratings": "2023-07-30T15:58:11.6955246+00:00",
+  "LastUpdate_Achievements": "2023-07-30T16:06:23.6499182+00:00"
 }

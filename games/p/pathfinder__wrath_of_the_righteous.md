@@ -1,7 +1,7 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 121)  
+Rating: 4.76 (Ranked 120)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -227,12 +227,12 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-30 | 10,695 | 0 |
 ## Awards
 Max (Character Customization): 1,694  (Ranked 117)  
-Sum: 6,859 (Ranked 113)  
+Sum: 6,860 (Ranked 113)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,694 |
-| This game is Extremely Fun | 643 |
+| This game is Extremely Fun | 644 |
 | This game is Highly Recommended | 628 |
 | This game has Amazing Characters | 625 |
 | This game has Diverse Characters | 613 |
@@ -424,4 +424,4 @@ Diff (max vs sum): 4
 | 2023-07-27 | 4.76 | - | 1,690 | 6,845 |
 | 2023-07-28 | 4.76 | - | 1,693 | 6,854 |
 | 2023-07-29 | 4.76 | - | 1,694 | 6,858 |
-| 2023-07-30 | 4.76 | - | 1,694 | 6,859 |
+| 2023-07-30 | 4.76 | - | 1,694 | 6,860 |
