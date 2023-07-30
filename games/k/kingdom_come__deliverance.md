@@ -1,40 +1,40 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 185)  
+Rating: 4.71 (Ranked 184)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~246,432 |
-| Cavalier | 25.00% | ~198,736 |
-| Fatso | 23.00% | ~182,837 |
-| Awakening | 21.00% | ~166,938 |
-| Ranger | 20.00% | ~158,989 |
-| Scrooge | 20.00% | ~158,989 |
-| Anorectic | 16.00% | ~127,191 |
-| Firestarter | 15.00% | ~119,241 |
-| Bookworm | 14.00% | ~111,292 |
-| Insomniac | 13.00% | ~103,343 |
-| Buddy | 12.00% | ~95,393 |
-| Thief | 12.00% | ~95,393 |
-| Sinner | 11.00% | ~87,444 |
-| Convict | 10.00% | ~79,494 |
-| Traveller | 10.00% | ~79,494 |
-| Haggler | 9.00% | ~71,545 |
-| McLovin | 7.00% | ~55,646 |
-| Runt | 7.00% | ~55,646 |
+| Blacksmith's Son | 31.00% | ~246,435 |
+| Cavalier | 25.00% | ~198,738 |
+| Fatso | 23.00% | ~182,839 |
+| Awakening | 21.00% | ~166,940 |
+| Ranger | 20.00% | ~158,991 |
+| Scrooge | 20.00% | ~158,991 |
+| Anorectic | 16.00% | ~127,192 |
+| Firestarter | 15.00% | ~119,243 |
+| Bookworm | 14.00% | ~111,293 |
+| Insomniac | 13.00% | ~103,344 |
+| Buddy | 12.00% | ~95,394 |
+| Thief | 12.00% | ~95,394 |
+| Sinner | 11.00% | ~87,445 |
+| Convict | 10.00% | ~79,495 |
+| Traveller | 10.00% | ~79,495 |
+| Haggler | 9.00% | ~71,546 |
+| McLovin | 7.00% | ~55,647 |
+| Runt | 7.00% | ~55,647 |
 | Casanova | 6.00% | ~47,697 |
-| Bad Trip | 5.00% | ~39,747 |
-| Monk | 5.00% | ~39,747 |
-| Serial Killer | 5.00% | ~39,747 |
+| Bad Trip | 5.00% | ~39,748 |
+| Monk | 5.00% | ~39,748 |
+| Serial Killer | 5.00% | ~39,748 |
 | Bastard | 4.00% | ~31,798 |
 | Hunter | 4.00% | ~31,798 |
 | Plague Doctor | 4.00% | ~31,798 |
-| Bard | 3.00% | ~23,848 |
-| Conqueror | 3.00% | ~23,848 |
-| Ginger in a Pickle | 3.00% | ~23,848 |
-| Kingdom did not come | 3.00% | ~23,848 |
+| Bard | 3.00% | ~23,849 |
+| Conqueror | 3.00% | ~23,849 |
+| Ginger in a Pickle | 3.00% | ~23,849 |
+| Kingdom did not come | 3.00% | ~23,849 |
 | Completionist | 2.00% | ~15,899 |
 | Death by splinter | 2.00% | ~15,899 |
 | King Charming | 2.00% | ~15,899 |
@@ -44,14 +44,14 @@ Number of Ratings: 9,133  (23.09.2022)
 | Robber Baron | 2.00% | ~15,899 |
 | Talmberger | 2.00% | ~15,899 |
 | The End | 2.00% | ~15,899 |
-| Woman's Lot | 1.00% | ~7,949 |
-| Chivalrous Soul | 1.00% | ~7,949 |
-| Spoilsport | 1.00% | ~7,949 |
-| Freud | 1.00% | ~7,949 |
-| Gambler | 1.00% | ~7,949 |
-| Master Huntsman | 1.00% | ~7,949 |
-| Stealth Killer | 1.00% | ~7,949 |
-| Bailiff | 0.90% | ~7,154 |
+| Woman's Lot | 1.00% | ~7,950 |
+| Chivalrous Soul | 1.00% | ~7,950 |
+| Spoilsport | 1.00% | ~7,950 |
+| Freud | 1.00% | ~7,950 |
+| Gambler | 1.00% | ~7,950 |
+| Master Huntsman | 1.00% | ~7,950 |
+| Stealth Killer | 1.00% | ~7,950 |
+| Bailiff | 0.90% | ~7,155 |
 | Tracker | 0.80% | ~6,360 |
 | David Horak | 0.70% | ~5,565 |
 | Mercenary's Honour | 0.70% | ~5,565 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~795 |
 | Wingman | 0.10% | ~795 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 794,943 (Ranked 15)  
+Progressed: 794,953 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,17 +190,17 @@ Completed: 44 (0.01%) (Ranked 233)
 | 2023-07-27 | 794,476 | 44 |
 | 2023-07-28 | 794,631 | 44 |
 | 2023-07-29 | 794,790 | 44 |
-| 2023-07-30 | 794,943 | 44 |
+| 2023-07-30 | 794,953 | 44 |
 ## Awards
 Max (Character Customization): 7,350  (Ranked 46)  
-Sum: 27,396 (Ranked 45)  
+Sum: 27,399 (Ranked 45)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,350 |
 | This game has Great Boss Battles | 5,408 |
 | This game has Challenging Combat | 1,719 |
-| This game has Amazing Storytelling | 1,675 |
+| This game has Amazing Storytelling | 1,678 |
 | This game has Diverse Characters | 1,657 |
 | This game is Extremely Fun | 1,648 |
 | This game is Highly Recommended | 1,639 |
@@ -398,4 +398,4 @@ Diff (max vs sum): 1
 | 2023-07-27 | 4.71 | - | 7,343 | 27,380 |
 | 2023-07-28 | 4.71 | - | 7,345 | 27,387 |
 | 2023-07-29 | 4.71 | - | 7,348 | 27,390 |
-| 2023-07-30 | 4.71 | - | 7,350 | 27,396 |
+| 2023-07-30 | 4.71 | - | 7,350 | 27,399 |

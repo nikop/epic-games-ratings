@@ -1,21 +1,21 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 214)  
+Rating: 4.69 (Ranked 213)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,852 |
-| That's a Grand Army | 8.00% | ~6,090 |
-| That is mine! | 8.00% | ~6,090 |
-| Victorious! | 8.00% | ~6,090 |
-| Brothers in Arms | 6.00% | ~4,568 |
-| That's a Grand Navy | 6.00% | ~4,568 |
-| Seriously?! | 6.00% | ~4,568 |
-| For the Glory | 5.00% | ~3,806 |
-| Cold War | 4.00% | ~3,045 |
-| True Catholic | 4.00% | ~3,045 |
+| Until death do us apart | 9.00% | ~6,853 |
+| That's a Grand Army | 8.00% | ~6,092 |
+| That is mine! | 8.00% | ~6,092 |
+| Victorious! | 8.00% | ~6,092 |
+| Brothers in Arms | 6.00% | ~4,569 |
+| That's a Grand Navy | 6.00% | ~4,569 |
+| Seriously?! | 6.00% | ~4,569 |
+| For the Glory | 5.00% | ~3,807 |
+| Cold War | 4.00% | ~3,046 |
+| True Catholic | 4.00% | ~3,046 |
 | Defender of the Faith | 3.00% | ~2,284 |
 | It's all about luck | 3.00% | ~2,284 |
 | It's all about the money | 3.00% | ~2,284 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,130 (Ranked 76)  
+Progressed: 76,148 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -462,7 +462,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 74,884 | 0 |
 | 2023-07-28 | 75,282 | 0 |
 | 2023-07-29 | 75,748 | 0 |
-| 2023-07-30 | 76,130 | 0 |
+| 2023-07-30 | 76,148 | 0 |
 ## Awards
 Max (Educational): 5,597  (Ranked 61)  
 Sum: 46,167 (Ranked 26)  

@@ -5,24 +5,24 @@ Rating: 4.55 (Ranked 481)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,966 |
-| Before the Downfall | 93.00% | ~17,998 |
-| Money like Water | 91.00% | ~17,611 |
-| Minimalist | 90.00% | ~17,418 |
-| Builder | 83.00% | ~16,063 |
-| Eraser | 70.00% | ~13,547 |
-| Pocket of Trains | 65.00% | ~12,579 |
-| Inspector | 59.00% | ~11,418 |
+| Trevithick's Legacy | 98.00% | ~18,967 |
+| Before the Downfall | 93.00% | ~17,999 |
+| Money like Water | 91.00% | ~17,612 |
+| Minimalist | 90.00% | ~17,419 |
+| Builder | 83.00% | ~16,064 |
+| Eraser | 70.00% | ~13,548 |
+| Pocket of Trains | 65.00% | ~12,580 |
+| Inspector | 59.00% | ~11,419 |
 | Going the Distance | 54.00% | ~10,451 |
-| Oil Baron | 42.00% | ~8,128 |
-| Loads-a-Money | 42.00% | ~8,128 |
+| Oil Baron | 42.00% | ~8,129 |
+| Loads-a-Money | 42.00% | ~8,129 |
 | Helper of the People | 39.00% | ~7,548 |
 | Simplification | 34.00% | ~6,580 |
-| Box of Trains | 33.00% | ~6,386 |
+| Box of Trains | 33.00% | ~6,387 |
 | Let There be Light | 32.00% | ~6,193 |
-| Hot Water | 31.00% | ~5,999 |
-| Indecisive | 29.00% | ~5,612 |
-| The scenic route | 27.00% | ~5,225 |
+| Hot Water | 31.00% | ~6,000 |
+| Indecisive | 29.00% | ~5,613 |
+| The scenic route | 27.00% | ~5,226 |
 | Industrialist | 25.00% | ~4,838 |
 | Perfectionist | 23.00% | ~4,451 |
 | Trains over Pipes | 23.00% | ~4,451 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 481)
 | Overdeer | 0.50% | ~97 |
 | Cloud Services | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,353 (Ranked 107)  
+Progressed: 19,354 (Ranked 107)  
 Completed: 33 (0.17%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 33 (0.17%) (Ranked 177)
 | 2023-07-27 | 19,336 | 33 |
 | 2023-07-28 | 19,341 | 33 |
 | 2023-07-29 | 19,352 | 33 |
-| 2023-07-30 | 19,353 | 33 |
+| 2023-07-30 | 19,354 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 351)  
 Sum: 655 (Ranked 282)  

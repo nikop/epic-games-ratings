@@ -5404,9 +5404,9 @@
       "Count": 3330
     }
   ],
-  "EOS_Progressed": 217187,
+  "EOS_Progressed": 217199,
   "EOS_Completed": 2137,
-  "EOS_NewPlayers": 2231,
+  "EOS_NewPlayers": 2223,
   "EOS_NewCompleters": 77,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16294,6 +16294,11 @@
       "Time": "2023-07-30T20:04:00.8196925+00:00",
       "NumProgressed": 217187,
       "NumCompleted": 2137
+    },
+    {
+      "Time": "2023-07-30T21:03:56.5895074+00:00",
+      "NumProgressed": 217199,
+      "NumCompleted": 2137
     }
   ],
   "TotalAchievements": 512,
@@ -16615,9 +16620,9 @@
       "ID": "objective_completed_1090",
       "SetID": "415jc5c",
       "Name": "Slack-jawed Lorna",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 550
     },
     {
       "ID": "objective_completed_1091",
@@ -17775,9 +17780,9 @@
       "ID": "objective_completed_238",
       "SetID": "415jc5c",
       "Name": "This Quest Stinks!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_246",
@@ -20400,21 +20405,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183461,
-      "Completed": 3031
+      "Progressed": 183473,
+      "Completed": 3032
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217187,
+      "Progressed": 217199,
       "Completed": 2137
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-30T14:58:22.2529012+00:00",
-  "LastChanged_Achievements": "2023-07-30T20:04:00.819692+00:00",
+  "LastChanged_Achievements": "2023-07-30T21:03:56.589507+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-30T19:58:25.4864533+00:00",
-  "LastUpdate_Achievements": "2023-07-30T20:04:00.8223044+00:00"
+  "LastUpdate_Ratings": "2023-07-30T20:58:45.4296508+00:00",
+  "LastUpdate_Achievements": "2023-07-30T21:03:56.5921342+00:00"
 }

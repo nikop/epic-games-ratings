@@ -2,13 +2,13 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 108,
+  "Ranking_Rating": 107,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6878,
+  "EOS_Progressed": 6879,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -5154,6 +5154,11 @@
       "Time": "2023-07-30T19:04:43.0955948+00:00",
       "NumProgressed": 6878,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-07-30T21:04:29.3959558+00:00",
+      "NumProgressed": 6879,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 21,
@@ -5181,7 +5186,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -5269,7 +5274,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "LIBERATOR",
@@ -5332,7 +5337,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6878,
+      "Progressed": 6879,
       "Completed": 30
     }
   ],
@@ -5340,8 +5345,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-16T23:57:58.4349982+00:00",
-  "LastChanged_Achievements": "2023-07-30T20:04:29.3406668+00:00",
+  "LastChanged_Achievements": "2023-07-30T21:04:29.3959554+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:48.4178879+00:00",
-  "LastUpdate_Ratings": "2023-07-30T19:58:12.4799191+00:00",
-  "LastUpdate_Achievements": "2023-07-30T20:04:29.3407121+00:00"
+  "LastUpdate_Ratings": "2023-07-30T20:58:30.00033+00:00",
+  "LastUpdate_Achievements": "2023-07-30T21:04:29.3960011+00:00"
 }

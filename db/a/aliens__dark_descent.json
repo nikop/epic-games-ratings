@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -224,7 +224,7 @@
   ],
   "EOS_Progressed": 3078,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3713,9 +3713,9 @@
       "ID": "ACH_USE_REDEMPTION",
       "SetID": "816efe",
       "Name": "The Shrink Hates Me",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1724
     }
   ],
   "AchievementSets": [
@@ -3730,8 +3730,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-30T05:59:39.6438639+00:00",
-  "LastChanged_Achievements": "2023-07-30T20:03:24.9344021+00:00",
+  "LastChanged_Achievements": "2023-07-30T21:03:11.4973675+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.5854461+00:00",
-  "LastUpdate_Ratings": "2023-07-30T19:59:25.6113382+00:00",
-  "LastUpdate_Achievements": "2023-07-30T20:03:24.9344574+00:00"
+  "LastUpdate_Ratings": "2023-07-30T20:59:58.2924764+00:00",
+  "LastUpdate_Achievements": "2023-07-30T21:03:11.4974222+00:00"
 }

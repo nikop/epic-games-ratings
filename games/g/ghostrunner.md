@@ -1,37 +1,37 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 170)  
+Rating: 4.72 (Ranked 169)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~10,604 |
-| Sword Runner | 62.00% | ~8,650 |
-| Running out of breath | 54.00% | ~7,534 |
-| Wallrunner | 54.00% | ~7,534 |
-| Homerunner | 45.00% | ~6,278 |
-| Out of order | 45.00% | ~6,278 |
-| I call it luck | 44.00% | ~6,139 |
-| Where are my Keys? | 41.00% | ~5,720 |
-| Back to hell | 37.00% | ~5,162 |
-| Perfection | 32.00% | ~4,465 |
-| Why not both | 30.00% | ~4,186 |
-| Sword to a gunfight | 29.00% | ~4,046 |
-| Upgrades not mandatory | 29.00% | ~4,046 |
-| Artificial selection | 28.00% | ~3,907 |
-| Control freak | 28.00% | ~3,907 |
-| Running Wild | 28.00% | ~3,907 |
-| Finish line | 26.00% | ~3,628 |
-| Unstoppable force | 23.00% | ~3,209 |
-| Wave of mutilation | 22.00% | ~3,069 |
-| Can't Run Can't Hide | 17.00% | ~2,372 |
-| R is for Running | 17.00% | ~2,372 |
+| Longrunner | 76.00% | ~10,607 |
+| Sword Runner | 62.00% | ~8,653 |
+| Running out of breath | 54.00% | ~7,536 |
+| Wallrunner | 54.00% | ~7,536 |
+| Homerunner | 45.00% | ~6,280 |
+| Out of order | 45.00% | ~6,280 |
+| I call it luck | 44.00% | ~6,141 |
+| Where are my Keys? | 41.00% | ~5,722 |
+| Back to hell | 37.00% | ~5,164 |
+| Perfection | 32.00% | ~4,466 |
+| Why not both | 30.00% | ~4,187 |
+| Sword to a gunfight | 29.00% | ~4,047 |
+| Upgrades not mandatory | 29.00% | ~4,047 |
+| Artificial selection | 28.00% | ~3,908 |
+| Control freak | 28.00% | ~3,908 |
+| Running Wild | 28.00% | ~3,908 |
+| Finish line | 26.00% | ~3,629 |
+| Unstoppable force | 23.00% | ~3,210 |
+| Wave of mutilation | 22.00% | ~3,070 |
+| Can't Run Can't Hide | 17.00% | ~2,373 |
+| R is for Running | 17.00% | ~2,373 |
 | Dead in the air | 15.00% | ~2,093 |
 | Improvise, adapt, overrun | 13.00% | ~1,814 |
 | Pre-empative strike | 13.00% | ~1,814 |
 | Strike | 13.00% | ~1,814 |
-| More than human | 12.00% | ~1,674 |
+| More than human | 12.00% | ~1,675 |
 | Triple A | 9.00% | ~1,256 |
 | Fine addition | 7.00% | ~977 |
 | One Of Those Days | 7.00% | ~977 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~56 |
 | Up Close And Personal | 0.40% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,952 (Ranked 116)  
+Progressed: 13,956 (Ranked 116)  
 Completed: 54 (0.39%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 54 (0.39%) (Ranked 147)
 | 2023-07-27 | 13,626 | 54 |
 | 2023-07-28 | 13,724 | 54 |
 | 2023-07-29 | 13,840 | 54 |
-| 2023-07-30 | 13,952 | 54 |
+| 2023-07-30 | 13,956 | 54 |
 ## Awards
 Max (Great Boss Battles): 473  (Ranked 196)  
 Sum: 633 (Ranked 287)  

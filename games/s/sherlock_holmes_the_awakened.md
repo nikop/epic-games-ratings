@@ -1,32 +1,32 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.65 (Ranked 298)  
+Rating: 4.65 (Ranked 296)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 65.00% | ~372 |
-| Read Between The Lines | 64.00% | ~366 |
-| High Profile | 59.00% | ~337 |
-| Whispers In The Dark | 58.00% | ~332 |
+| Read Between The Lines | 64.00% | ~367 |
+| High Profile | 58.00% | ~332 |
+| Whispers In The Dark | 57.00% | ~327 |
 | Fond Memories | 54.00% | ~309 |
-| History Check | 53.00% | ~303 |
-| A Method To His Madness | 53.00% | ~303 |
-| The New World | 49.00% | ~280 |
-| Gaze Into The Abyss | 48.00% | ~275 |
+| History Check | 53.00% | ~304 |
+| A Method To His Madness | 53.00% | ~304 |
+| The New World | 49.00% | ~281 |
 | Open Sesame | 48.00% | ~275 |
 | Sticky Fingers | 48.00% | ~275 |
 | Lock, Stock, And Barrel | 47.00% | ~269 |
+| Gaze Into The Abyss | 47.00% | ~269 |
 | Back In The Saddle | 47.00% | ~269 |
 | Knives Out | 47.00% | ~269 |
 | Land, Ho! | 47.00% | ~269 |
-| No Man Is An Island | 45.00% | ~257 |
-| At Wits' End | 45.00% | ~257 |
+| No Man Is An Island | 45.00% | ~258 |
+| At Wits' End | 45.00% | ~258 |
 | Fhtagn! | 43.00% | ~246 |
-| Bookworm | 42.00% | ~240 |
-| Up In Flames | 42.00% | ~240 |
+| Bookworm | 42.00% | ~241 |
+| Up In Flames | 42.00% | ~241 |
 | Going Once... | 39.00% | ~223 |
-| Let Me Be Frank | 38.00% | ~217 |
+| Let Me Be Frank | 38.00% | ~218 |
 | Brain Food | 36.00% | ~206 |
 | No Stone Unturned | 36.00% | ~206 |
 | Read It And Weep | 23.00% | ~132 |
@@ -34,8 +34,8 @@ Rating: 4.65 (Ranked 298)
 | Big Breakthrough | 14.00% | ~80 |
 | Reawakened | 5.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 572 (Ranked 216)  
-Completed: 25 (4.37%) (Ranked 51)  
+Progressed: 573 (Ranked 216)  
+Completed: 25 (4.36%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -126,7 +126,7 @@ Completed: 25 (4.37%) (Ranked 51)
 | 2023-07-27 | 563 | 25 |
 | 2023-07-28 | 564 | 25 |
 | 2023-07-29 | 566 | 25 |
-| 2023-07-30 | 572 | 25 |
+| 2023-07-30 | 573 | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

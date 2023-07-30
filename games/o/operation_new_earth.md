@@ -19,8 +19,8 @@
 | Keeping Busy | 10.00% | ~71 |
 | Silver Competitor | 8.00% | ~57 |
 | Captain | 8.00% | ~57 |
+| Factory Expansion | 8.00% | ~57 |
 | Exterminator | 7.00% | ~50 |
-| Factory Expansion | 7.00% | ~50 |
 | Brothers in Arms | 6.00% | ~43 |
 | Know The Enemy | 4.00% | ~29 |
 | Player Betrayer | 4.00% | ~29 |

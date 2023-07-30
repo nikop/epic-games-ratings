@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,10 +15,10 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3031,
+  "EOS_Progressed": 3032,
   "EOS_Completed": 120,
   "EOS_NewPlayers": 33,
-  "EOS_NewCompleters": 14,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 3.96,
   "EosHistory": [
     {
@@ -3885,6 +3885,11 @@
       "Time": "2023-07-30T09:07:14.2379969+00:00",
       "NumProgressed": 3031,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-07-30T21:06:28.8855946+00:00",
+      "NumProgressed": 3032,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 24,
@@ -3912,7 +3917,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "12",
@@ -4008,7 +4013,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "23",
@@ -4048,7 +4053,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "6",
@@ -4087,13 +4092,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3031,
+      "Progressed": 3032,
       "Completed": 120
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-30T20:06:08.6368267+00:00",
+  "LastChanged_Achievements": "2023-07-30T21:06:28.8855941+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:49.7326864+00:00",
-  "LastUpdate_Ratings": "2023-07-30T19:59:05.4662995+00:00",
-  "LastUpdate_Achievements": "2023-07-30T20:06:08.6368722+00:00"
+  "LastUpdate_Ratings": "2023-07-30T20:59:36.3039111+00:00",
+  "LastUpdate_Achievements": "2023-07-30T21:06:28.8856339+00:00"
 }

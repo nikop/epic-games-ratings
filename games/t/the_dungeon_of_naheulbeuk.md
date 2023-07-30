@@ -6,36 +6,36 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~119,812 |
-| Where's that freaking Dwarf? | 47.00% | ~95,443 |
-| GG EZ | 28.00% | ~56,860 |
-| Speedrun | 26.00% | ~52,798 |
-| Déjà vu | 21.00% | ~42,645 |
-| Sock! SOCK! | 17.00% | ~34,522 |
-| DM intervention | 13.00% | ~26,399 |
-| Fireproof Wizardess | 10.00% | ~20,307 |
-| Livin' in a dwarven paradise | 8.00% | ~16,246 |
-| Way of the Wimp | 7.00% | ~14,215 |
-| A beer, two curses, three companions | 7.00% | ~14,215 |
-| The plot thickens... At the tavern | 5.00% | ~10,154 |
-| The Woman in the High Castle | 4.00% | ~8,123 |
-| I am the night | 4.00% | ~8,123 |
-| Team Building Exercise | 4.00% | ~8,123 |
-| Shiny and Crôm | 3.00% | ~6,092 |
-| The demons' feast | 3.00% | ~6,092 |
-| Res Judicata | 3.00% | ~6,092 |
-| Dwarf Fortress | 3.00% | ~6,092 |
-| The Ranger of Chaos | 3.00% | ~6,092 |
-| Thieves' Guild Accreditation | 3.00% | ~6,092 |
-| Oh, when I'll be level 10... | 3.00% | ~6,092 |
-| The Great Library | 2.00% | ~4,061 |
-| Torture and Sensibility | 2.00% | ~4,061 |
-| Urik's Depths | 2.00% | ~4,061 |
-| Look but don't touch | 2.00% | ~4,061 |
-| The beards of change | 2.00% | ~4,061 |
-| Gargantua | 2.00% | ~4,061 |
-| In Navalu's footsteps | 2.00% | ~4,061 |
-| Material Girl | 2.00% | ~4,061 |
+| Alt+F4 | 59.00% | ~119,838 |
+| Where's that freaking Dwarf? | 47.00% | ~95,465 |
+| GG EZ | 28.00% | ~56,872 |
+| Speedrun | 26.00% | ~52,810 |
+| Déjà vu | 21.00% | ~42,654 |
+| Sock! SOCK! | 17.00% | ~34,530 |
+| DM intervention | 13.00% | ~26,405 |
+| Fireproof Wizardess | 10.00% | ~20,312 |
+| Livin' in a dwarven paradise | 8.00% | ~16,249 |
+| Way of the Wimp | 7.00% | ~14,218 |
+| A beer, two curses, three companions | 7.00% | ~14,218 |
+| The plot thickens... At the tavern | 5.00% | ~10,156 |
+| The Woman in the High Castle | 4.00% | ~8,125 |
+| I am the night | 4.00% | ~8,125 |
+| Team Building Exercise | 4.00% | ~8,125 |
+| Shiny and Crôm | 3.00% | ~6,093 |
+| The demons' feast | 3.00% | ~6,093 |
+| Res Judicata | 3.00% | ~6,093 |
+| Dwarf Fortress | 3.00% | ~6,093 |
+| The Ranger of Chaos | 3.00% | ~6,093 |
+| Thieves' Guild Accreditation | 3.00% | ~6,093 |
+| Oh, when I'll be level 10... | 3.00% | ~6,093 |
+| The Great Library | 2.00% | ~4,062 |
+| Torture and Sensibility | 2.00% | ~4,062 |
+| Urik's Depths | 2.00% | ~4,062 |
+| Look but don't touch | 2.00% | ~4,062 |
+| The beards of change | 2.00% | ~4,062 |
+| Gargantua | 2.00% | ~4,062 |
+| In Navalu's footsteps | 2.00% | ~4,062 |
+| Material Girl | 2.00% | ~4,062 |
 | The Dungeon Master | 1.00% | ~2,031 |
 | The Statuette of Gladeulfeurah | 1.00% | ~2,031 |
 | The Famous Dungeon of Naheulbeuk | 1.00% | ~2,031 |
@@ -46,10 +46,10 @@ Number of Ratings: 118  (23.09.2022)
 | It's been a hard day's night | 1.00% | ~2,031 |
 | Lust and Debauchery | 1.00% | ~2,031 |
 | Lëgal Legend | 0.80% | ~1,625 |
-| An old poacher makes the best gamekeeper | 0.70% | ~1,421 |
-| Scholar of the Lands of Fangh | 0.50% | ~1,015 |
-| I'd rather... Just... Sing! | 0.50% | ~1,015 |
-| The number of the counting shalt be 7 | 0.50% | ~1,015 |
+| An old poacher makes the best gamekeeper | 0.70% | ~1,422 |
+| Scholar of the Lands of Fangh | 0.50% | ~1,016 |
+| I'd rather... Just... Sing! | 0.50% | ~1,016 |
+| The number of the counting shalt be 7 | 0.50% | ~1,016 |
 | Holistic Adventuring Party | 0.40% | ~812 |
 | Friendly fire | 0.40% | ~812 |
 | Insult to injury | 0.30% | ~609 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,071 (Ranked 55)  
+Progressed: 203,116 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 200,189 | 0 |
 | 2023-07-28 | 201,111 | 0 |
 | 2023-07-29 | 202,137 | 0 |
-| 2023-07-30 | 203,071 | 0 |
+| 2023-07-30 | 203,116 | 0 |
 ## Awards
 Max (Character Customization): 144  (Ranked 297)  
 Sum: 144 (Ranked 392)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -343,9 +343,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 4543,
+  "EOS_Progressed": 4544,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1908,6 +1908,11 @@
       "Time": "2023-07-30T15:03:14.6576206+00:00",
       "NumProgressed": 4543,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-30T21:03:24.6411767+00:00",
+      "NumProgressed": 4544,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 67,
@@ -1935,7 +1940,7 @@
       "Name": "Big Sister",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -1975,7 +1980,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4270
+      "UsersEstimate": 4271
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1983,7 +1988,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3498
+      "UsersEstimate": 3499
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -2007,7 +2012,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -2055,7 +2060,7 @@
       "Name": "Pusher Man",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ID_ACHIEV_19",
@@ -2133,9 +2138,9 @@
       "ID": "ID_ACHIEV_28",
       "SetID": "98bke8c",
       "Name": "First Day on the Job",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3498
+      "UsersEstimate": 3453
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -2199,7 +2204,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -2263,7 +2268,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -2271,7 +2276,7 @@
       "Name": "SENTINEL",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -2295,7 +2300,7 @@
       "Name": "Squad Chief Helvig",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ID_ACHIEV_50",
@@ -2335,7 +2340,7 @@
       "Name": "No More Marching",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ID_ACHIEV_55",
@@ -2367,7 +2372,7 @@
       "Name": "Is This Real Life?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -2454,15 +2459,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4543,
+      "Progressed": 4544,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-07-15T15:00:43.484172+00:00",
-  "LastChanged_Achievements": "2023-07-30T20:03:35.8823931+00:00",
+  "LastChanged_Achievements": "2023-07-30T21:03:24.6411763+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.6544505+00:00",
-  "LastUpdate_Ratings": "2023-07-30T19:58:18.7033871+00:00",
-  "LastUpdate_Achievements": "2023-07-30T20:03:35.8824749+00:00"
+  "LastUpdate_Ratings": "2023-07-30T20:58:37.0859712+00:00",
+  "LastUpdate_Achievements": "2023-07-30T21:03:24.6412623+00:00"
 }

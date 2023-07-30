@@ -21,23 +21,23 @@
 | Hello, world! | 67.00% | ~127 |
 | Fighting is cool | 64.00% | ~122 |
 | Pal of your father? | 62.00% | ~118 |
+| Employee of the month | 60.00% | ~114 |
 | Spirit of the past | 59.00% | ~112 |
-| Employee of the month | 59.00% | ~112 |
 | Law student | 58.00% | ~110 |
 | Intriguing candies | 56.00% | ~106 |
 | Little hacker | 55.00% | ~105 |
 | Workout professional | 54.00% | ~103 |
 | Champion – starter pack | 53.00% | ~101 |
 | It's good to be alive | 53.00% | ~101 |
+| Employee of the year | 53.00% | ~101 |
 | Handyman | 52.00% | ~99 |
 | Own four walls | 52.00% | ~99 |
-| Employee of the year | 52.00% | ~99 |
 | Fight for life | 51.00% | ~97 |
 | Legal courier | 48.00% | ~91 |
 | Extreme neuropower! | 47.00% | ~89 |
 | Your own way | 47.00% | ~89 |
 | Escaped from a big trouble | 46.00% | ~87 |
-| Now you are worthy | 44.00% | ~84 |
+| Now you are worthy | 45.00% | ~86 |
 | No blades in the gym | 44.00% | ~84 |
 | Guiding on the right path | 42.00% | ~80 |
 | Mysterious voice | 41.00% | ~78 |
@@ -71,7 +71,7 @@
 | Better cooking at home | 23.00% | ~44 |
 | The only right decision | 22.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 190 (Ranked 284)  
+Progressed: 190 (Ranked 285)  
 Completed: 7 (3.68%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |

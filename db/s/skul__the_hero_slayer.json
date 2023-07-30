@@ -2,7 +2,7 @@
   "ID": "6feac7e685174dd698e90ca9536e1299",
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
-  "Ranking_Rating": 170,
+  "Ranking_Rating": 169,
   "Ranking_Popularity": 312,
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 126,
@@ -920,7 +920,7 @@
       "Count": 122
     }
   ],
-  "EOS_Progressed": 8047,
+  "EOS_Progressed": 8048,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -4000,6 +4000,11 @@
       "Time": "2023-07-30T17:05:58.7448046+00:00",
       "NumProgressed": 8047,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-30T21:05:26.9929518+00:00",
+      "NumProgressed": 8048,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -4131,7 +4136,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "SavedElderEnt",
@@ -4171,7 +4176,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7484
+      "UsersEstimate": 7485
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4195,22 +4200,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6759
+      "UsersEstimate": 6760
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8047,
+      "Progressed": 8048,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-30T01:56:13.7308805+00:00",
-  "LastChanged_Achievements": "2023-07-30T20:05:17.0709391+00:00",
+  "LastChanged_Achievements": "2023-07-30T21:05:26.9929512+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:57.8506775+00:00",
-  "LastUpdate_Ratings": "2023-07-30T19:59:12.7360287+00:00",
-  "LastUpdate_Achievements": "2023-07-30T20:05:17.0709858+00:00"
+  "LastUpdate_Ratings": "2023-07-30T20:59:44.2424535+00:00",
+  "LastUpdate_Achievements": "2023-07-30T21:05:26.9929982+00:00"
 }

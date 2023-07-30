@@ -7,8 +7,8 @@ Number of Ratings: 617  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~366,596 |
-| Now You're Talking | 62.00% | ~324,699 |
-| Steel Yourself | 62.00% | ~324,699 |
+| Now You're Talking | 62.00% | ~324,700 |
+| Steel Yourself | 62.00% | ~324,700 |
 | Window Dressing | 50.00% | ~261,854 |
 | Trigger Happy | 46.00% | ~240,906 |
 | Riverborn | 45.00% | ~235,669 |
@@ -19,7 +19,7 @@ Number of Ratings: 617  (23.09.2022)
 | Hello Darkness | 23.00% | ~120,453 |
 | Wind At Our Backs | 22.00% | ~115,216 |
 | To the Beat | 20.00% | ~104,742 |
-| Sunny Shores | 17.00% | ~89,030 |
+| Sunny Shores | 17.00% | ~89,031 |
 | Sunday Best | 16.00% | ~83,793 |
 | To Victory! | 15.00% | ~78,556 |
 | Two of a Kind | 14.00% | ~73,319 |
@@ -33,11 +33,11 @@ Number of Ratings: 617  (23.09.2022)
 | Partner in Crime | 7.00% | ~36,660 |
 | Hard to Hear | 7.00% | ~36,660 |
 | Under the Radar | 7.00% | ~36,660 |
-| Moving On Up | 6.00% | ~31,422 |
-| Owl Knows Best | 6.00% | ~31,422 |
-| Mind the Moose | 6.00% | ~31,422 |
-| Dressed to Kill | 6.00% | ~31,422 |
-| Beast Mode | 6.00% | ~31,422 |
+| Moving On Up | 6.00% | ~31,423 |
+| Owl Knows Best | 6.00% | ~31,423 |
+| Mind the Moose | 6.00% | ~31,423 |
+| Dressed to Kill | 6.00% | ~31,423 |
+| Beast Mode | 6.00% | ~31,423 |
 | Oh, Romeo! | 5.00% | ~26,185 |
 | Noble Intentions | 5.00% | ~26,185 |
 | Rising Star | 5.00% | ~26,185 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,571 |
 | Point Taken | 0.10% | ~524 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523,708 (Ranked 30)  
+Progressed: 523,709 (Ranked 30)  
 Completed: 453 (0.09%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 453 (0.09%) (Ranked 196)
 | 2023-07-27 | 523,386 | 452 |
 | 2023-07-28 | 523,476 | 452 |
 | 2023-07-29 | 523,594 | 452 |
-| 2023-07-30 | 523,708 | 453 |
+| 2023-07-30 | 523,709 | 453 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

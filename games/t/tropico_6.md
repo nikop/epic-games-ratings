@@ -1,29 +1,29 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.67 (Ranked 259)  
+Rating: 4.67 (Ranked 258)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,332 |
-| Un-Lonely Island | 47.00% | ~2,088 |
-| The Beginning of a Servantship | 45.00% | ~1,999 |
-| Trade Is My Trait | 37.00% | ~1,644 |
-| Number 18 | 24.00% | ~1,066 |
-| We Don't Have Time For That | 19.00% | ~844 |
+| Just One...More...Term... | 75.00% | ~3,334 |
+| Un-Lonely Island | 47.00% | ~2,090 |
+| The Beginning of a Servantship | 45.00% | ~2,001 |
+| Trade Is My Trait | 37.00% | ~1,645 |
+| Number 18 | 24.00% | ~1,067 |
+| We Don't Have Time For That | 19.00% | ~845 |
 | The Governator | 18.00% | ~800 |
-| The Legend of Langostino | 17.00% | ~755 |
+| The Legend of Langostino | 17.00% | ~756 |
 | Caribbean Comrade | 16.00% | ~711 |
-| The Dreamer of Dreams | 15.00% | ~666 |
+| The Dreamer of Dreams | 15.00% | ~667 |
 | Happy Ending? | 11.00% | ~489 |
 | Go Sovereigns! | 11.00% | ~489 |
 | For Science! | 11.00% | ~489 |
-| Of Seals And Men | 10.00% | ~444 |
-| Shackadelic | 10.00% | ~444 |
-| Double Trouble | 8.00% | ~355 |
-| Firestarter | 8.00% | ~355 |
-| Make Tropico Great Again! | 8.00% | ~355 |
+| Of Seals And Men | 10.00% | ~445 |
+| Shackadelic | 10.00% | ~445 |
+| Double Trouble | 8.00% | ~356 |
+| Firestarter | 8.00% | ~356 |
+| Make Tropico Great Again! | 8.00% | ~356 |
 | Don't Panic! | 7.00% | ~311 |
 | I Owe You Nothing | 7.00% | ~311 |
 | French Connection | 7.00% | ~311 |
@@ -47,8 +47,8 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~40 |
 | My Ways | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,443 (Ranked 144)  
-Completed: 2 (0.05%) (Ranked 211)  
+Progressed: 4,446 (Ranked 144)  
+Completed: 2 (0.04%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -148,7 +148,7 @@ Completed: 2 (0.05%) (Ranked 211)
 | 2023-07-27 | 4,347 | 2 |
 | 2023-07-28 | 4,374 | 2 |
 | 2023-07-29 | 4,413 | 2 |
-| 2023-07-30 | 4,443 | 2 |
+| 2023-07-30 | 4,446 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 339)  
 Sum: 672 (Ranked 276)  

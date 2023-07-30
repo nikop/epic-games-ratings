@@ -65,6 +65,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hither of the Feywild | 0.30% | ~550 |
 | The Prince of a Thousand Enemies | 0.30% | ~550 |
 | Downfall | 0.30% | ~550 |
+| Slack-jawed Lorna | 0.30% | ~550 |
 | Speeds of Destruction | 0.30% | ~550 |
 | Owlbear Necessities | 0.30% | ~550 |
 | Best Thay Ever | 0.30% | ~550 |
@@ -121,7 +122,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Spire of Iriolarthas | 0.20% | ~367 |
 | The Fall of Ythryn | 0.20% | ~367 |
 | A Lesson in Classes | 0.20% | ~367 |
-| Slack-jawed Lorna | 0.20% | ~367 |
 | The Fairy Rings of Thither | 0.20% | ~367 |
 | Bully for You! | 0.20% | ~367 |
 | Will of the Feywild | 0.20% | ~367 |
@@ -158,6 +158,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thine Bounty is Mine! | 0.20% | ~367 |
 | Haaave You Met Asmodeus? | 0.20% | ~434 |
 | Domesticated Owlbears | 0.20% | ~434 |
+| This Quest Stinks! | 0.20% | ~367 |
 | Seeds of Deceit | 0.20% | ~434 |
 | Attack on the Manor | 0.20% | ~434 |
 | Treasure Hunters | 0.20% | ~434 |
@@ -279,7 +280,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.10% | ~217 |
 | Poor Fortune | 0.10% | ~217 |
 | Relentless Misfortune | 0.10% | ~217 |
-| This Quest Stinks! | 0.10% | ~183 |
 | Hold for the Red Wizards | 0.10% | ~217 |
 | Form Ranks | 0.10% | ~217 |
 | Drop of Time | 0.10% | ~183 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~183 |
 | Quick or Quack | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,187 (Ranked 53)  
+Progressed: 217,199 (Ranked 53)  
 Completed: 2,137 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,7 +620,7 @@ Completed: 2,137 (0.98%) (Ranked 112)
 | 2023-07-27 | 216,169 | 2,129 |
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
-| 2023-07-30 | 217,187 | 2,137 |
+| 2023-07-30 | 217,199 | 2,137 |
 ## Awards
 Max (Diverse Characters): 5,100  (Ranked 67)  
 Sum: 30,813 (Ranked 38)  

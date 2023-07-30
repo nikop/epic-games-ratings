@@ -2,7 +2,7 @@
   "ID": "c62d7481ae1744dab7310c8f4e1e9548",
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
-  "Ranking_EOS_Progress": 405,
+  "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 94,
@@ -191,9 +191,9 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 73,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Kvitky",
@@ -231,9 +231,9 @@
       "ID": "Netopyrek",
       "SetID": "ag48e8e",
       "Name": "Liana Bats",
-      "Percentage": 40,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Pejsek",
@@ -358,8 +358,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-07-30T20:03:52.4988206+00:00",
+  "LastChanged_Achievements": "2023-07-30T21:03:44.9911377+00:00",
   "LastUpdate_AppInfo": "2023-07-28T14:57:04.029049+00:00",
-  "LastUpdate_Ratings": "2023-07-30T19:57:05.5259458+00:00",
-  "LastUpdate_Achievements": "2023-07-30T20:03:52.4988411+00:00"
+  "LastUpdate_Ratings": "2023-07-30T20:57:10.5610448+00:00",
+  "LastUpdate_Achievements": "2023-07-30T21:03:44.9911604+00:00"
 }

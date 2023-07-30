@@ -1060,17 +1060,17 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 189
     },
     {
       "ID": "BroomAmanita",
       "SetID": "db30heh",
       "Name": "Gone Cooking",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 129
+      "UsersEstimate": 132
     },
     {
       "ID": "BroomPistol",
@@ -1084,9 +1084,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 186
     },
     {
       "ID": "DevilRope",
@@ -1148,17 +1148,17 @@
       "ID": "HastrmanAmanita",
       "SetID": "db30heh",
       "Name": "Tastes Funny",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 134
     },
     {
       "ID": "HastrmanHappy",
       "SetID": "db30heh",
       "Name": "Regular Diet",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 121
     },
     {
       "ID": "HastrmanRum",
@@ -1172,9 +1172,9 @@
       "ID": "HatFlower",
       "SetID": "db30heh",
       "Name": "Flower",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "KingDiamond",
@@ -1220,9 +1220,9 @@
       "ID": "PriestRogue",
       "SetID": "db30heh",
       "Name": "Direct Hit",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "PriestRum",
@@ -1236,9 +1236,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 148
     },
     {
       "ID": "PrincessThrone",
@@ -1347,8 +1347,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-30T20:06:00.764306+00:00",
+  "LastChanged_Achievements": "2023-07-30T21:06:19.2634209+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-30T19:57:11.3210325+00:00",
-  "LastUpdate_Achievements": "2023-07-30T20:06:00.7643477+00:00"
+  "LastUpdate_Ratings": "2023-07-30T20:57:18.7964739+00:00",
+  "LastUpdate_Achievements": "2023-07-30T21:06:19.2634635+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 49,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -701,7 +701,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 28045,
+  "EOS_Progressed": 28046,
   "EOS_Completed": 1317,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 1,
@@ -3926,6 +3926,11 @@
       "Time": "2023-07-30T17:06:48.2206987+00:00",
       "NumProgressed": 28045,
       "NumCompleted": 1317
+    },
+    {
+      "Time": "2023-07-30T21:06:15.8449978+00:00",
+      "NumProgressed": 28046,
+      "NumCompleted": 1317
     }
   ],
   "TotalAchievements": 30,
@@ -3937,7 +3942,7 @@
       "Name": "Survivor",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 12620
+      "UsersEstimate": 12621
     },
     {
       "ID": "ACH_ALL_TRANSFORM",
@@ -3959,9 +3964,9 @@
       "ID": "ACH_BALL_TRIP",
       "SetID": "2m0copd",
       "Name": "Clothesline",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 4487
+      "UsersEstimate": 4768
     },
     {
       "ID": "ACH_BOSSES",
@@ -3977,7 +3982,7 @@
       "Name": "Deep Impact",
       "Percentage": 23,
       "XP": 70,
-      "UsersEstimate": 6450
+      "UsersEstimate": 6451
     },
     {
       "ID": "ACH_CATCH_ALL",
@@ -3985,7 +3990,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 8974
+      "UsersEstimate": 8975
     },
     {
       "ID": "ACH_CATCH_HALF",
@@ -4033,7 +4038,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 27204
+      "UsersEstimate": 27205
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -4041,7 +4046,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 19351
+      "UsersEstimate": 19352
     },
     {
       "ID": "ACH_GOLEM",
@@ -4073,7 +4078,7 @@
       "Name": "Talkin\u0027 \u0027Bout Bugsnax",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 17107
+      "UsersEstimate": 17108
     },
     {
       "ID": "ACH_LAUNCH",
@@ -4081,7 +4086,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15705
+      "UsersEstimate": 15706
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -4089,7 +4094,7 @@
       "Name": "Vacation\u0027s End",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 14583
+      "UsersEstimate": 14584
     },
     {
       "ID": "ACH_PUZZLE",
@@ -4097,7 +4102,7 @@
       "Name": "That Reminds Me of a Puzzle",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12059
+      "UsersEstimate": 12060
     },
     {
       "ID": "ACH_RETURN_ALL",
@@ -4121,7 +4126,7 @@
       "Name": "Grab Bag",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 6450
+      "UsersEstimate": 6451
     },
     {
       "ID": "ACH_SNAXBURG",
@@ -4129,7 +4134,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 26082
+      "UsersEstimate": 26083
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -4137,7 +4142,7 @@
       "Name": "Perf Dirt",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15705
+      "UsersEstimate": 15706
     },
     {
       "ID": "ACH_SUNDAE",
@@ -4153,7 +4158,7 @@
       "Name": "Midnight Snak",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10096
+      "UsersEstimate": 10097
     },
     {
       "ID": "ACH_TRAP_TWO",
@@ -4169,22 +4174,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 24399
+      "UsersEstimate": 24400
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28045,
+      "Progressed": 28046,
       "Completed": 1317
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-07-28T22:01:22.7366365+00:00",
-  "LastChanged_Achievements": "2023-07-30T20:05:57.931387+00:00",
+  "LastChanged_Achievements": "2023-07-30T21:06:15.8449972+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:42.6231298+00:00",
-  "LastUpdate_Ratings": "2023-07-30T19:59:56.3437761+00:00",
-  "LastUpdate_Achievements": "2023-07-30T20:05:57.9314281+00:00"
+  "LastUpdate_Ratings": "2023-07-30T21:00:36.1628986+00:00",
+  "LastUpdate_Achievements": "2023-07-30T21:06:15.845039+00:00"
 }

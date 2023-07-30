@@ -2,12 +2,12 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 339,
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1026,11 +1026,11 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4443,
+  "EOS_Progressed": 4446,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.05,
+  "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:49.7267644+00:00",
@@ -7166,6 +7166,11 @@
       "Time": "2023-07-30T20:05:52.9109433+00:00",
       "NumProgressed": 4443,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-30T21:06:09.9304476+00:00",
+      "NumProgressed": 4446,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -7193,7 +7198,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -7249,7 +7254,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -7257,7 +7262,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -7273,7 +7278,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1999
+      "UsersEstimate": 2001
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -7281,7 +7286,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -7289,7 +7294,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -7297,7 +7302,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -7305,7 +7310,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -7337,7 +7342,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3332
+      "UsersEstimate": 3334
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -7361,7 +7366,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -7433,7 +7438,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2088
+      "UsersEstimate": 2090
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -7449,7 +7454,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -7457,7 +7462,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -7496,15 +7501,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4443,
+      "Progressed": 4446,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-29T23:00:35.7289146+00:00",
-  "LastChanged_Achievements": "2023-07-30T20:05:52.9109428+00:00",
+  "LastChanged_Achievements": "2023-07-30T21:06:09.9304471+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:19.2698244+00:00",
-  "LastUpdate_Ratings": "2023-07-30T20:00:22.4666521+00:00",
-  "LastUpdate_Achievements": "2023-07-30T20:05:52.9110106+00:00"
+  "LastUpdate_Ratings": "2023-07-30T21:01:08.4440103+00:00",
+  "LastUpdate_Achievements": "2023-07-30T21:06:09.9305139+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5060,
+  "EOS_Progressed": 5061,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5520,6 +5520,11 @@
       "Time": "2023-07-30T19:04:52.5226806+00:00",
       "NumProgressed": 5060,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-30T21:04:39.112753+00:00",
+      "NumProgressed": 5061,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5657,9 +5662,9 @@
       "ID": "24",
       "SetID": "3aa2279",
       "Name": "Secret Technique",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 304
     },
     {
       "ID": "25",
@@ -5930,13 +5935,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5060,
+      "Progressed": 5061,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5060,
+      "Progressed": 5061,
       "Completed": 5
     }
   ],
@@ -5944,8 +5949,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-19T14:00:18.5966835+00:00",
-  "LastChanged_Achievements": "2023-07-30T20:04:37.1320852+00:00",
+  "LastChanged_Achievements": "2023-07-30T21:04:39.1127527+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:09.0087451+00:00",
-  "LastUpdate_Ratings": "2023-07-30T19:59:29.9286169+00:00",
-  "LastUpdate_Achievements": "2023-07-30T20:04:37.1321619+00:00"
+  "LastUpdate_Ratings": "2023-07-30T21:00:05.8750125+00:00",
+  "LastUpdate_Achievements": "2023-07-30T21:04:39.1128183+00:00"
 }

@@ -5,28 +5,28 @@ Rating: 4.64 (Ranked 316)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,474 |
-| I will survive! | 92.00% | ~4,426 |
-| All thumbs | 91.00% | ~4,378 |
-| Home, sweet home | 90.00% | ~4,330 |
-| Survivalist | 89.00% | ~4,282 |
-| One way ticket | 83.00% | ~3,993 |
+| Prepper | 93.00% | ~4,475 |
+| I will survive! | 92.00% | ~4,427 |
+| All thumbs | 91.00% | ~4,379 |
+| Home, sweet home | 90.00% | ~4,331 |
+| Survivalist | 89.00% | ~4,283 |
+| One way ticket | 83.00% | ~3,994 |
 | Last man standing | 78.00% | ~3,753 |
-| Family guy | 76.00% | ~3,656 |
-| Out of the Bag | 74.00% | ~3,560 |
-| The Dark Side | 68.00% | ~3,271 |
-| Duck and cover! | 64.00% | ~3,079 |
-| Souper! | 63.00% | ~3,031 |
-| Pacifist | 57.00% | ~2,742 |
-| 2-1-6 | 56.00% | ~2,694 |
+| Family guy | 76.00% | ~3,657 |
+| Out of the Bag | 74.00% | ~3,561 |
+| The Dark Side | 68.00% | ~3,272 |
+| Duck and cover! | 64.00% | ~3,080 |
+| Souper! | 63.00% | ~3,032 |
+| Pacifist | 57.00% | ~2,743 |
+| 2-1-6 | 56.00% | ~2,695 |
 | A gift | 52.00% | ~2,502 |
-| Girl Power | 46.00% | ~2,213 |
+| Girl Power | 46.00% | ~2,214 |
 | What goes around... | 42.00% | ~2,021 |
 | Be Prepared | 36.00% | ~1,732 |
 | Unbreakable | 35.00% | ~1,684 |
 | This is the end | 33.00% | ~1,588 |
 | Atomic drill | 32.00% | ~1,540 |
-| Gotta get 'em all | 31.00% | ~1,491 |
+| Gotta get 'em all | 31.00% | ~1,492 |
 | Disco Roach | 27.00% | ~1,299 |
 | Dawkins Residence | 20.00% | ~962 |
 | Rescue time! | 17.00% | ~818 |
@@ -66,7 +66,7 @@ Rating: 4.64 (Ranked 316)
 | Miracle | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,811 (Ranked 140)  
+Progressed: 4,812 (Ranked 140)  
 Completed: 1 (0.02%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 1 (0.02%) (Ranked 226)
 | 2023-07-27 | 4,795 | 1 |
 | 2023-07-28 | 4,798 | 1 |
 | 2023-07-29 | 4,806 | 1 |
-| 2023-07-30 | 4,811 | 1 |
+| 2023-07-30 | 4,812 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

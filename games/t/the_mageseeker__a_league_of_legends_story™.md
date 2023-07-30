@@ -1,7 +1,7 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.81 (Ranked 77)  
+Rating: 4.81 (Ranked 76)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -48,10 +48,10 @@ Rating: 4.81 (Ranked 77)
 | I smell fear | 12.00% | ~297 |
 | The end of the experiments | 11.00% | ~273 |
 | The Great City of Demacia | 11.00% | ~273 |
+| Back to sleep, then... | 11.00% | ~273 |
 | Call it 'redistribution of magic | 11.00% | ~273 |
 | Chains master | 10.00% | ~248 |
 | Truth is a dark mirror | 10.00% | ~248 |
-| Back to sleep, then... | 10.00% | ~248 |
 | Do you trust me? | 9.00% | ~223 |
 | The great mage rebellion starts now | 9.00% | ~223 |
 | You can pet the... horse | 9.00% | ~223 |

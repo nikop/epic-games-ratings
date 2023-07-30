@@ -2,12 +2,12 @@
   "ID": "766e1b59c32c447093add5efbc1a4858",
   "Name": "Dishonored - Definitive Edition",
   "ProductSlug": "dishonored-definitive-edition",
-  "Ranking_Rating": 145,
+  "Ranking_Rating": 144,
   "Ranking_Popularity": 171,
   "Ranking_PopularitySum": 251,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
@@ -1225,10 +1225,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 876,
       "NumberOfAwardsMax": 640
+    },
+    {
+      "Time": "2023-07-30T20:59:02.8490817+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 879,
+      "NumberOfAwardsMax": 640
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 876,
+  "NumberOfAwards": 879,
   "NumberOfAwardsMax": 640,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1242,7 +1248,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has a Creative Community",
@@ -1260,7 +1266,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1284,7 +1290,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1304,8 +1310,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
-  "LastChanged": "2023-07-30T19:58:38.7788894+00:00",
+  "LastChanged": "2023-07-30T20:59:02.8490815+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.2356735+00:00",
-  "LastUpdate_Ratings": "2023-07-30T19:58:38.7788901+00:00",
-  "LastUpdate_Achievements": "2023-07-30T20:05:47.5024023+00:00"
+  "LastUpdate_Ratings": "2023-07-30T20:59:02.8490821+00:00",
+  "LastUpdate_Achievements": "2023-07-30T21:06:03.1202005+00:00"
 }

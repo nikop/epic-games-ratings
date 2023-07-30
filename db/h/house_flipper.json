@@ -2,7 +2,7 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 214,
+  "Ranking_Rating": 213,
   "Ranking_Popularity": 231,
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 104,
@@ -1782,7 +1782,7 @@
       "Count": 212
     }
   ],
-  "EOS_Progressed": 20383,
+  "EOS_Progressed": 20386,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
@@ -6947,6 +6947,11 @@
       "Time": "2023-07-30T20:06:38.263958+00:00",
       "NumProgressed": 20383,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-30T21:07:05.6605563+00:00",
+      "NumProgressed": 20386,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -7006,7 +7011,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 19160
+      "UsersEstimate": 19163
     },
     {
       "ID": "GameOver",
@@ -7038,7 +7043,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "JuniorEstateAgent",
@@ -7118,7 +7123,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6319
+      "UsersEstimate": 6320
     },
     {
       "ID": "VeronicaLiptson",
@@ -7126,7 +7131,7 @@
       "Name": "Artistic soul",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "YouDoItWrong",
@@ -7141,15 +7146,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20383,
+      "Progressed": 20386,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-07-29T19:00:10.2227183+00:00",
-  "LastChanged_Achievements": "2023-07-30T20:06:38.2639575+00:00",
+  "LastChanged_Achievements": "2023-07-30T21:07:05.6605558+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:16.0622663+00:00",
-  "LastUpdate_Ratings": "2023-07-30T19:59:35.4740953+00:00",
-  "LastUpdate_Achievements": "2023-07-30T20:06:38.2640052+00:00"
+  "LastUpdate_Ratings": "2023-07-30T21:00:13.3805237+00:00",
+  "LastUpdate_Achievements": "2023-07-30T21:07:05.6606044+00:00"
 }

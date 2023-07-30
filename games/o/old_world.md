@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 298)  
+Rating: 4.65 (Ranked 296)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,16 +15,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 1.00% | ~132 |
 | Poetic Leader | 1.00% | ~132 |
 | Able | 0.90% | ~119 |
-| Architect | 0.80% | ~105 |
-| Enlightened | 0.80% | ~105 |
-| Good | 0.80% | ~105 |
-| Mason | 0.80% | ~105 |
-| Noble | 0.80% | ~105 |
-| Pioneer | 0.80% | ~105 |
-| Strong | 0.80% | ~105 |
-| Hanging Gardens | 0.80% | ~105 |
-| Oracle | 0.80% | ~105 |
-| Trade Caravan | 0.80% | ~105 |
+| Architect | 0.80% | ~106 |
+| Enlightened | 0.80% | ~106 |
+| Good | 0.80% | ~106 |
+| Mason | 0.80% | ~106 |
+| Noble | 0.80% | ~106 |
+| Pioneer | 0.80% | ~106 |
+| Strong | 0.80% | ~106 |
+| Hanging Gardens | 0.80% | ~106 |
+| Oracle | 0.80% | ~106 |
+| Trade Caravan | 0.80% | ~106 |
 | Glorious | 0.70% | ~92 |
 | Just | 0.70% | ~92 |
 | Keystone | 0.70% | ~92 |
@@ -47,6 +47,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.60% | ~79 |
 | Roman Paganism | 0.60% | ~79 |
 | Zoroastrianism | 0.60% | ~79 |
+| Regicide | 0.50% | ~66 |
 | Brilliant | 0.50% | ~66 |
 | Fountainhead | 0.50% | ~66 |
 | Great | 0.50% | ~66 |
@@ -57,7 +58,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.50% | ~66 |
 | Learn to Play 2 | 0.50% | ~66 |
 | Egyptian Paganism | 0.50% | ~66 |
-| Regicide | 0.40% | ~53 |
 | Drillmaster | 0.40% | ~53 |
 | Intercessor | 0.40% | ~53 |
 | Legendary Cities | 0.40% | ~53 |
@@ -76,6 +76,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.30% | ~40 |
 | Devout | 0.30% | ~40 |
 | Mighty | 0.30% | ~40 |
+| Ready | 0.30% | ~40 |
 | Valiant | 0.30% | ~40 |
 | Good Difficulty | 0.30% | ~40 |
 | Patrons | 0.30% | ~40 |
@@ -106,7 +107,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.20% | ~26 |
 | Old | 0.20% | ~26 |
 | Peacemaker | 0.20% | ~26 |
-| Ready | 0.20% | ~26 |
 | Subjugator | 0.20% | ~26 |
 | Victorious | 0.20% | ~26 |
 | Strong Difficulty | 0.20% | ~26 |
@@ -303,8 +303,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,187 (Ranked 117)  
-Completed: 5 (0.04%) (Ranked 217)  
+Progressed: 13,188 (Ranked 117)  
+Completed: 5 (0.04%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -404,7 +404,7 @@ Completed: 5 (0.04%) (Ranked 217)
 | 2023-07-27 | 13,128 | 5 |
 | 2023-07-28 | 13,145 | 5 |
 | 2023-07-29 | 13,164 | 5 |
-| 2023-07-30 | 13,187 | 5 |
+| 2023-07-30 | 13,188 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

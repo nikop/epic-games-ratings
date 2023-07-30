@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 127,
+  "EOS_Progressed": 128,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -408,6 +408,11 @@
       "Time": "2023-07-30T16:04:22.9568147+00:00",
       "NumProgressed": 127,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-30T21:04:46.7065708+00:00",
+      "NumProgressed": 128,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -545,9 +550,9 @@
       "ID": "Vanilla_CodexTier2",
       "SetID": "27kik8p",
       "Name": "Scholar",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_CodexTier3",
@@ -971,7 +976,7 @@
       "Name": "Press-ganged",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1073,9 +1078,9 @@
       "ID": "Vanilla_TasksCompleted",
       "SetID": "27kik8p",
       "Name": "Taskmaster",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_TaxEvasion",
@@ -1210,7 +1215,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 127,
+      "Progressed": 128,
       "Completed": 0
     }
   ],
@@ -1218,8 +1223,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-07-30T20:04:43.3767306+00:00",
+  "LastChanged_Achievements": "2023-07-30T21:04:46.7065704+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:35.9734563+00:00",
-  "LastUpdate_Ratings": "2023-07-30T19:58:54.1088034+00:00",
-  "LastUpdate_Achievements": "2023-07-30T20:04:43.3768552+00:00"
+  "LastUpdate_Ratings": "2023-07-30T20:59:22.3280534+00:00",
+  "LastUpdate_Achievements": "2023-07-30T21:04:46.706701+00:00"
 }

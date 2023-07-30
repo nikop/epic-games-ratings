@@ -4,7 +4,7 @@
   "ProductSlug": "immortals-of-aveum",
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -35,8 +35,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
-  "LastChanged_Achievements": "2023-07-30T20:05:15.8076005+00:00",
+  "LastChanged_Achievements": "2023-07-30T21:05:25.6647589+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:35.6533878+00:00",
-  "LastUpdate_Ratings": "2023-07-30T19:58:01.1836409+00:00",
-  "LastUpdate_Achievements": "2023-07-30T20:05:15.8076034+00:00"
+  "LastUpdate_Ratings": "2023-07-30T20:58:16.6828024+00:00",
+  "LastUpdate_Achievements": "2023-07-30T21:05:25.6647609+00:00"
 }

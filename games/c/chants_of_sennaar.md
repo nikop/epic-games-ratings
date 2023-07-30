@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 38.00% | ~11 |
-| Rascal | 34.00% | ~10 |
-| The Preacher's fate | 34.00% | ~10 |
-| Champollion | 34.00% | ~10 |
-| Scholar | 34.00% | ~10 |
-| Welcome to the Tower | 34.00% | ~10 |
-| The great escape | 34.00% | ~10 |
-| A new dawn | 34.00% | ~10 |
-| The darkness | 34.00% | ~10 |
-| One last step | 34.00% | ~10 |
-| Cable guy | 31.00% | ~9 |
-| A good beginning | 31.00% | ~9 |
-| True G4M3R | 31.00% | ~9 |
-| I did it | 28.00% | ~8 |
-| Fashion victim | 28.00% | ~8 |
-| Feels like springtime | 24.00% | ~7 |
-| In this together | 21.00% | ~6 |
+| That's the spirit | 37.00% | ~11 |
+| Rascal | 33.00% | ~10 |
+| The Preacher's fate | 33.00% | ~10 |
+| Champollion | 33.00% | ~10 |
+| Scholar | 33.00% | ~10 |
+| Welcome to the Tower | 33.00% | ~10 |
+| The great escape | 33.00% | ~10 |
+| A new dawn | 33.00% | ~10 |
+| The darkness | 33.00% | ~10 |
+| One last step | 33.00% | ~10 |
+| Cable guy | 30.00% | ~9 |
+| A good beginning | 30.00% | ~9 |
+| True G4M3R | 30.00% | ~9 |
+| I did it | 27.00% | ~8 |
+| Fashion victim | 27.00% | ~8 |
+| Feels like springtime | 23.00% | ~7 |
+| In this together | 20.00% | ~6 |
 | Peace walker | 17.00% | ~5 |
 | Half the way | 17.00% | ~5 |
 | Open door | 17.00% | ~5 |
-| Free at last | 14.00% | ~4 |
-| A great audience | 14.00% | ~4 |
-| For its own good | 14.00% | ~4 |
-| A Link to the Past | 14.00% | ~4 |
-| Alchemists Express | 14.00% | ~4 |
+| Free at last | 13.00% | ~4 |
+| A great audience | 13.00% | ~4 |
+| For its own good | 13.00% | ~4 |
+| A Link to the Past | 13.00% | ~4 |
+| Alchemists Express | 13.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29 (Ranked 382)  
-Completed: 4 (13.79%) (Ranked 16)  
+Progressed: 30 (Ranked 382)  
+Completed: 4 (13.33%) (Ranked 16)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -53,4 +53,4 @@ Completed: 4 (13.79%) (Ranked 16)
 | 2023-07-27 | 19 | 3 |
 | 2023-07-28 | 23 | 4 |
 | 2023-07-29 | 26 | 4 |
-| 2023-07-30 | 29 | 4 |
+| 2023-07-30 | 30 | 4 |

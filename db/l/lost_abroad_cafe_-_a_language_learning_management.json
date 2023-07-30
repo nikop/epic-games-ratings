@@ -4,7 +4,7 @@
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
@@ -1286,9 +1286,9 @@
       "ID": "tea_50",
       "SetID": "56hff7o",
       "Name": "Tea Master",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
@@ -1301,8 +1301,8 @@
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-07-30T20:06:26.7582766+00:00",
+  "LastChanged_Achievements": "2023-07-30T21:06:52.0380719+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:27.9801852+00:00",
-  "LastUpdate_Ratings": "2023-07-30T19:58:47.3418014+00:00",
-  "LastUpdate_Achievements": "2023-07-30T20:06:26.7582916+00:00"
+  "LastUpdate_Ratings": "2023-07-30T20:59:13.5916962+00:00",
+  "LastUpdate_Achievements": "2023-07-30T21:06:52.0380853+00:00"
 }

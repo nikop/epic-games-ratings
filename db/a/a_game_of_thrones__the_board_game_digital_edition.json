@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1263,7 +1263,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 20032,
+  "EOS_Progressed": 20042,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 733,
   "EOS_NewCompleters": 1,
@@ -11973,6 +11973,11 @@
       "Time": "2023-07-30T20:03:56.6690189+00:00",
       "NumProgressed": 20032,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-30T21:03:51.7964864+00:00",
+      "NumProgressed": 20042,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 22,
@@ -11992,7 +11997,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "1017",
@@ -12000,7 +12005,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "1018",
@@ -12008,7 +12013,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "1019",
@@ -12016,7 +12021,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "1020",
@@ -12032,7 +12037,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "1022",
@@ -12040,7 +12045,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "1023",
@@ -12080,7 +12085,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "1028",
@@ -12088,7 +12093,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3606
+      "UsersEstimate": 3608
     },
     {
       "ID": "1029",
@@ -12104,7 +12109,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4006
+      "UsersEstimate": 4008
     },
     {
       "ID": "1031",
@@ -12112,7 +12117,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2804
+      "UsersEstimate": 2806
     },
     {
       "ID": "1032",
@@ -12120,7 +12125,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 8013
+      "UsersEstimate": 8017
     },
     {
       "ID": "1033",
@@ -12136,7 +12141,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "1035",
@@ -12144,7 +12149,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2604
+      "UsersEstimate": 2605
     },
     {
       "ID": "1036",
@@ -12159,15 +12164,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 20032,
+      "Progressed": 20042,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-07-30T20:03:56.6690184+00:00",
+  "LastChanged_Achievements": "2023-07-30T21:03:51.796486+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:09.3482059+00:00",
-  "LastUpdate_Ratings": "2023-07-30T20:00:15.3335123+00:00",
-  "LastUpdate_Achievements": "2023-07-30T20:03:56.6690996+00:00"
+  "LastUpdate_Ratings": "2023-07-30T21:00:57.9021385+00:00",
+  "LastUpdate_Achievements": "2023-07-30T21:03:51.7965628+00:00"
 }

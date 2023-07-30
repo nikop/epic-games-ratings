@@ -1,29 +1,29 @@
 # New Tales from the Borderlands
 [Store](https://store.epicgames.com/en-US/p/new-tales-from-the-borderlands)  
 [View Rawdata](../../db/n/new_tales_from_the_borderlands.json)  
-Rating: 4.09 (Ranked 900)  
+Rating: 4.09 (Ranked 901)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Who Needs Keys? | 49.00% | ~1,728 |
+| Who Needs Keys? | 49.00% | ~1,729 |
 | Totally Intentional | 44.00% | ~1,552 |
 | Each Sold Separately | 37.00% | ~1,305 |
 | We're In | 32.00% | ~1,129 |
 | You're Not Naked | 29.00% | ~1,023 |
 | Tale in the Toilet | 29.00% | ~1,023 |
 | From Zeroes... | 28.00% | ~988 |
-| Don't Get Cocky | 27.00% | ~952 |
-| Shard Snatchers | 24.00% | ~846 |
+| Don't Get Cocky | 27.00% | ~953 |
+| Shard Snatchers | 24.00% | ~847 |
 | You Rich Now! | 22.00% | ~776 |
-| Our Lucky Winner | 20.00% | ~705 |
-| You Poor Now! | 20.00% | ~705 |
-| You Got the Goods, Kid | 20.00% | ~705 |
+| Our Lucky Winner | 20.00% | ~706 |
+| You Poor Now! | 20.00% | ~706 |
+| You Got the Goods, Kid | 20.00% | ~706 |
 | The Shardmenstration | 19.00% | ~670 |
 | Those Were the Days... | 19.00% | ~670 |
 | ...To Heroes | 18.00% | ~635 |
 | Mas, Por Favor | 17.00% | ~600 |
 | And Still Champion... | 14.00% | ~494 |
-| Super Trusting Friend! | 9.00% | ~317 |
+| Super Trusting Friend! | 9.00% | ~318 |
 | Bring back the butt! | 4.00% | ~141 |
 | Hey, thanks! | 4.00% | ~141 |
 | Murderous Mascot Mayhem | 3.00% | ~106 |
@@ -32,7 +32,7 @@ Rating: 4.09 (Ranked 900)
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,527 (Ranked 148)  
+Progressed: 3,528 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 3,509 | 0 |
 | 2023-07-28 | 3,516 | 0 |
 | 2023-07-29 | 3,521 | 0 |
-| 2023-07-30 | 3,527 | 0 |
+| 2023-07-30 | 3,528 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

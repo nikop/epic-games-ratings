@@ -1,7 +1,7 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 121)  
+Rating: 4.76 (Ranked 120)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -30,8 +30,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Reinforcements | 3.00% | ~321 |
 | A Flame | 3.00% | ~321 |
 | Hey, I Know You! | 3.00% | ~321 |
-| The Lady of the Forest | 3.00% | ~284 |
-| Beware Still Water | 3.00% | ~284 |
+| The Lady of the Forest | 3.00% | ~285 |
+| Beware Still Water | 3.00% | ~285 |
 | Path of the Aeon | 2.00% | ~214 |
 | Path of the Trickster | 2.00% | ~214 |
 | Path of the Lich | 2.00% | ~214 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,700 (Ranked 120)  
+Progressed: 10,702 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 10,626 | 0 |
 | 2023-07-28 | 10,645 | 0 |
 | 2023-07-29 | 10,674 | 0 |
-| 2023-07-30 | 10,700 | 0 |
+| 2023-07-30 | 10,702 | 0 |
 ## Awards
 Max (Character Customization): 1,694  (Ranked 117)  
 Sum: 6,860 (Ranked 113)  

@@ -9,22 +9,22 @@ Rating: 4.55 (Ranked 481)
 | Sputnik 2049 | 21.00% | ~625 |
 | Infinite Growth... | 20.00% | ~595 |
 | Without Breaking Some Eggs... | 19.00% | ~565 |
-| A Thousand Strong | 14.00% | ~416 |
-| Ready for a New World | 14.00% | ~416 |
+| A Thousand Strong | 14.00% | ~417 |
+| Ready for a New World | 14.00% | ~417 |
 | Space Society | 13.00% | ~387 |
 | Permanent Redesigns | 12.00% | ~357 |
-| Guy de Borderlands | 10.00% | ~297 |
-| Fully Recycled | 10.00% | ~297 |
-| Ain't Nobody Got Time for That | 10.00% | ~297 |
-| The Ship of Theseus | 10.00% | ~297 |
+| Guy de Borderlands | 10.00% | ~298 |
+| Fully Recycled | 10.00% | ~298 |
+| Ain't Nobody Got Time for That | 10.00% | ~298 |
+| The Ship of Theseus | 10.00% | ~298 |
 | Exceeding Capacity | 9.00% | ~268 |
 | Hope Seeker | 9.00% | ~268 |
 | A Hunk of Junk | 8.00% | ~238 |
 | Breaking Protocol | 8.00% | ~238 |
-| Man's Best Friend | 6.00% | ~178 |
-| Power Outage | 6.00% | ~178 |
-| Convenient Transport | 6.00% | ~178 |
-| Please Make it Stop! | 6.00% | ~178 |
+| Man's Best Friend | 6.00% | ~179 |
+| Power Outage | 6.00% | ~179 |
+| Convenient Transport | 6.00% | ~179 |
+| Please Make it Stop! | 6.00% | ~179 |
 | Sightseeing | 5.00% | ~149 |
 | Access Granted | 5.00% | ~149 |
 | Necessary Enhancement | 5.00% | ~149 |
@@ -36,13 +36,13 @@ Rating: 4.55 (Ranked 481)
 | ...  in a finite world | 3.00% | ~89 |
 | Sustainable Energy | 3.00% | ~89 |
 | BRAWL! | 3.00% | ~89 |
-| In Dolos We Trust | 2.00% | ~59 |
-| Praise the Hull! | 2.00% | ~59 |
-| Space Greenhouse | 2.00% | ~59 |
-| Delivery! | 2.00% | ~59 |
-| Pedal to the Metal | 2.00% | ~59 |
-| Help of the Forgotten Member | 2.00% | ~59 |
-| Pulsar Disciple | 2.00% | ~59 |
+| In Dolos We Trust | 2.00% | ~60 |
+| Praise the Hull! | 2.00% | ~60 |
+| Space Greenhouse | 2.00% | ~60 |
+| Delivery! | 2.00% | ~60 |
+| Pedal to the Metal | 2.00% | ~60 |
+| Help of the Forgotten Member | 2.00% | ~60 |
+| Pulsar Disciple | 2.00% | ~60 |
 | Mutual Loyalty | 1.00% | ~30 |
 | Tiqqun Contender | 1.00% | ~30 |
 | Catastrophe Avoided | 1.00% | ~30 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 481)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,974 (Ranked 157)  
+Progressed: 2,976 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-27 | 2,929 | 0 |
 | 2023-07-28 | 2,940 | 0 |
 | 2023-07-29 | 2,956 | 0 |
-| 2023-07-30 | 2,974 | 0 |
+| 2023-07-30 | 2,976 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
