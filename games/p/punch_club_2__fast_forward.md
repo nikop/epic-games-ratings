@@ -29,8 +29,8 @@
 | Little hacker | 54.00% | ~105 |
 | Champion – starter pack | 54.00% | ~105 |
 | It's good to be alive | 54.00% | ~105 |
+| Own four walls | 54.00% | ~105 |
 | Handyman | 53.00% | ~103 |
-| Own four walls | 53.00% | ~103 |
 | Employee of the year | 53.00% | ~103 |
 | Fight for life | 51.00% | ~99 |
 | Legal courier | 48.00% | ~93 |
@@ -40,12 +40,12 @@
 | Escaped from a big trouble | 45.00% | ~87 |
 | No blades in the gym | 43.00% | ~83 |
 | Guiding on the right path | 42.00% | ~81 |
-| Fight is life | 40.00% | ~78 |
-| Mysterious voice | 40.00% | ~78 |
+| Fight is life | 41.00% | ~80 |
+| Mysterious voice | 41.00% | ~80 |
+| Get out of my apartment! | 35.00% | ~68 |
 | Underground dwellers | 35.00% | ~68 |
 | Responsible approach | 35.00% | ~68 |
 | GYM professional | 34.00% | ~66 |
-| Get out of my apartment! | 34.00% | ~66 |
 | Champion – no way back | 33.00% | ~64 |
 | Deal with life | 32.00% | ~62 |
 | Poisoned fighter | 32.00% | ~62 |
@@ -55,7 +55,7 @@
 | Undercover robot | 30.00% | ~58 |
 | Gang wrangler | 29.00% | ~56 |
 | Problems of cyborgs | 29.00% | ~56 |
-| The last bell ring | 28.00% | ~54 |
+| The last bell ring | 29.00% | ~56 |
 | Trap disarmed | 27.00% | ~52 |
 | Not little hacker | 27.00% | ~52 |
 | Absolute Champion! | 27.00% | ~52 |

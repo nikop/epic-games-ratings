@@ -318,9 +318,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 64004,
+  "EOS_Progressed": 64005,
   "EOS_Completed": 329,
-  "EOS_NewPlayers": 850,
+  "EOS_NewPlayers": 849,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -11168,6 +11168,11 @@
       "Time": "2023-07-31T05:03:05.3824112+00:00",
       "NumProgressed": 64004,
       "NumCompleted": 329
+    },
+    {
+      "Time": "2023-07-31T06:03:09.7186771+00:00",
+      "NumProgressed": 64005,
+      "NumCompleted": 329
     }
   ],
   "TotalAchievements": 24,
@@ -11259,7 +11264,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 33922
+      "UsersEstimate": 33923
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -11331,7 +11336,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 7040
+      "UsersEstimate": 7041
     },
     {
       "ID": "SPIRIT_FORM",
@@ -11355,7 +11360,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7680
+      "UsersEstimate": 7681
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -11370,7 +11375,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 64004,
+      "Progressed": 64005,
       "Completed": 329
     }
   ],
@@ -11378,8 +11383,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-07-31T05:03:05.3824105+00:00",
+  "LastChanged_Achievements": "2023-07-31T06:03:09.7186764+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:08.8774615+00:00",
-  "LastUpdate_Ratings": "2023-07-31T04:59:38.1805728+00:00",
-  "LastUpdate_Achievements": "2023-07-31T05:03:05.3825008+00:00"
+  "LastUpdate_Ratings": "2023-07-31T05:59:31.8970605+00:00",
+  "LastUpdate_Achievements": "2023-07-31T06:03:09.7187756+00:00"
 }

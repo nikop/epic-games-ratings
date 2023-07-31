@@ -11,14 +11,14 @@
 | Power Up | 69.00% | ~115 |
 | Thick Skin | 68.00% | ~114 |
 | Math Wizard | 65.00% | ~109 |
-| Destroy Erase Improve | 64.00% | ~107 |
+| Destroy Erase Improve | 65.00% | ~109 |
 | Power Overload | 62.00% | ~104 |
-| Quite A Snack | 58.00% | ~97 |
+| Quite A Snack | 59.00% | ~99 |
 | Overwhelming Power | 56.00% | ~94 |
-| Impenetrable Skin | 54.00% | ~90 |
+| Impenetrable Skin | 55.00% | ~92 |
 | Chomp Chomp! | 45.00% | ~75 |
 | Supreme Power | 44.00% | ~73 |
-| The Duelist | 41.00% | ~68 |
+| The Duelist | 42.00% | ~70 |
 | Glorious Battle | 41.00% | ~68 |
 | Diaper Time! | 41.00% | ~68 |
 | Target Practice | 41.00% | ~68 |

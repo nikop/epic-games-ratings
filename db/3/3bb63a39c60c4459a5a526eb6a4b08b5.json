@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -1462,9 +1462,9 @@
       "ID": "Millionaire",
       "SetID": "1e89b4i",
       "Name": "Millionaire",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "NewRecord",
@@ -1613,8 +1613,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-31T05:02:20.8364534+00:00",
+  "LastChanged_Achievements": "2023-07-31T06:02:25.5173807+00:00",
   "LastUpdate_AppInfo": "2023-07-25T08:57:10.6804171+00:00",
-  "LastUpdate_Ratings": "2023-07-31T04:57:19.2269001+00:00",
-  "LastUpdate_Achievements": "2023-07-31T05:02:20.8364931+00:00"
+  "LastUpdate_Ratings": "2023-07-31T05:57:20.0765389+00:00",
+  "LastUpdate_Achievements": "2023-07-31T06:02:25.51742+00:00"
 }

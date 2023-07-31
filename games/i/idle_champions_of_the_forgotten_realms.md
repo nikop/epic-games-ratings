@@ -27,23 +27,23 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.60% | ~1,304 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,101 |
 | The Witchlight Carnival | 0.50% | ~918 |
-| Hatchlings Underfoot | 0.50% | ~1,086 |
-| Don't Look Up! | 0.50% | ~1,086 |
-| Heavy Burden | 0.50% | ~1,086 |
+| Hatchlings Underfoot | 0.50% | ~1,087 |
+| Don't Look Up! | 0.50% | ~1,087 |
+| Heavy Burden | 0.50% | ~1,087 |
 | The Evacuation of Waterdeep | 0.50% | ~918 |
 | The Dread Domain of Tovag | 0.50% | ~918 |
-| Were-verpowered | 0.50% | ~1,086 |
-| A Persistent Buzzing | 0.50% | ~1,086 |
-| Beast Mode | 0.50% | ~1,086 |
-| Low Initiative | 0.50% | ~1,086 |
-| A Mysterious Summons | 0.50% | ~1,086 |
-| Building Trust | 0.50% | ~1,086 |
-| No Time To Rest | 0.50% | ~1,086 |
-| The Mists of Ravenloft | 0.50% | ~1,086 |
-| The Dinner Party | 0.50% | ~1,086 |
-| The Botched Kidnapping | 0.50% | ~1,086 |
-| The Cursed Farmer | 0.50% | ~1,086 |
-| The Mad Wizard | 0.50% | ~1,086 |
+| Were-verpowered | 0.50% | ~1,087 |
+| A Persistent Buzzing | 0.50% | ~1,087 |
+| Beast Mode | 0.50% | ~1,087 |
+| Low Initiative | 0.50% | ~1,087 |
+| A Mysterious Summons | 0.50% | ~1,087 |
+| Building Trust | 0.50% | ~1,087 |
+| No Time To Rest | 0.50% | ~1,087 |
+| The Mists of Ravenloft | 0.50% | ~1,087 |
+| The Dinner Party | 0.50% | ~1,087 |
+| The Botched Kidnapping | 0.50% | ~1,087 |
+| The Cursed Farmer | 0.50% | ~1,087 |
+| The Mad Wizard | 0.50% | ~1,087 |
 | Not That Type of Helm! | 0.50% | ~918 |
 | Calcryx Tricks | 0.50% | ~918 |
 | Goblin Halls: the Next Generation | 0.50% | ~918 |
@@ -62,6 +62,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.40% | ~869 |
 | Luigi After Hours | 0.40% | ~734 |
 | Electric Mayhem | 0.40% | ~734 |
+| 3,720 to 1 | 0.40% | ~734 |
 | Animated Giff | 0.40% | ~734 |
 | Upholding the Law | 0.30% | ~652 |
 | Nightmare Rats! | 0.30% | ~551 |
@@ -99,6 +100,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.30% | ~652 |
 | Exploring Port Nyanzaru | 0.30% | ~652 |
 | A Tale of Two Cities | 0.30% | ~652 |
+| The Dead Three | 0.30% | ~652 |
 | Running of the Saurs | 0.30% | ~652 |
 | The Contagious Curse | 0.30% | ~652 |
 | Escort to Waterdeep | 0.30% | ~652 |
@@ -114,7 +116,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Willing to Sacrifice | 0.30% | ~551 |
 | Devilishly Cold | 0.30% | ~551 |
 | Tiny Treaty | 0.30% | ~551 |
-| 3,720 to 1 | 0.30% | ~551 |
 | Starving in the Jungle | 0.20% | ~435 |
 | Cold as Ice | 0.20% | ~367 |
 | Friends and Foes | 0.20% | ~367 |
@@ -171,7 +172,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Premature Betrayal | 0.20% | ~435 |
 | Hopelessly Lost | 0.20% | ~435 |
 | Enter the Sargauth | 0.20% | ~435 |
-| The Dead Three | 0.20% | ~435 |
 | Slow and Steady | 0.20% | ~435 |
 | Flying Monkey Skulls of Doom | 0.20% | ~435 |
 | Lair of the Xanathar | 0.20% | ~435 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,300 (Ranked 53)  
+Progressed: 217,309 (Ranked 53)  
 Completed: 2,138 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,7 +621,7 @@ Completed: 2,138 (0.98%) (Ranked 112)
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
-| 2023-07-31 | 217,300 | 2,138 |
+| 2023-07-31 | 217,309 | 2,138 |
 ## Awards
 Max (Diverse Characters): 5,106  (Ranked 67)  
 Sum: 30,819 (Ranked 38)  

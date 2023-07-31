@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1232,9 +1232,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 427108,
+  "EOS_Progressed": 427109,
   "EOS_Completed": 524,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8432,6 +8432,11 @@
       "Time": "2023-07-31T04:02:27.8321767+00:00",
       "NumProgressed": 427108,
       "NumCompleted": 524
+    },
+    {
+      "Time": "2023-07-31T06:00:27.5210357+00:00",
+      "NumProgressed": 427109,
+      "NumCompleted": 524
     }
   ],
   "TotalAchievements": 41,
@@ -8467,7 +8472,7 @@
       "Name": "Crossing Over",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 123861
+      "UsersEstimate": 123862
     },
     {
       "ID": "ACH_BOSS_ROT_GOD",
@@ -8483,7 +8488,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 179385
+      "UsersEstimate": 179386
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -8499,7 +8504,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128132
+      "UsersEstimate": 128133
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -8531,7 +8536,7 @@
       "Name": "Quick Draw",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 123861
+      "UsersEstimate": 123862
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -8555,7 +8560,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132403
+      "UsersEstimate": 132404
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -8611,7 +8616,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 405753
+      "UsersEstimate": 405754
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -8659,7 +8664,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 341686
+      "UsersEstimate": 341687
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -8723,7 +8728,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 239180
+      "UsersEstimate": 239181
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -8731,7 +8736,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 183656
+      "UsersEstimate": 183657
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -8755,7 +8760,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132403
+      "UsersEstimate": 132404
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -8770,15 +8775,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 427108,
+      "Progressed": 427109,
       "Completed": 524
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-07-25T13:12:21.0355605+00:00",
-  "LastChanged_Achievements": "2023-07-31T05:00:32.1407052+00:00",
+  "LastChanged_Achievements": "2023-07-31T06:00:27.5210353+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:12.201785+00:00",
-  "LastUpdate_Ratings": "2023-07-31T04:58:38.2922891+00:00",
-  "LastUpdate_Achievements": "2023-07-31T05:00:32.1408172+00:00"
+  "LastUpdate_Ratings": "2023-07-31T05:58:32.5255937+00:00",
+  "LastUpdate_Achievements": "2023-07-31T06:00:27.5211082+00:00"
 }

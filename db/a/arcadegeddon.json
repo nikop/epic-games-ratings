@@ -7097,9 +7097,9 @@
       "ID": "ACH_START_YOUR_COLLECTION",
       "SetID": "97mcd7i",
       "Name": "Start Your Collection",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 332
     },
     {
       "ID": "ACH_STOP_HITTING_YOURSELF",
@@ -7225,8 +7225,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-07-22T11:58:35.0651733+00:00",
-  "LastChanged_Achievements": "2023-07-31T05:05:45.7639086+00:00",
+  "LastChanged_Achievements": "2023-07-31T06:05:52.8982387+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:17.3324442+00:00",
-  "LastUpdate_Ratings": "2023-07-31T04:58:44.4282401+00:00",
-  "LastUpdate_Achievements": "2023-07-31T05:05:45.7640091+00:00"
+  "LastUpdate_Ratings": "2023-07-31T05:58:37.6011713+00:00",
+  "LastUpdate_Achievements": "2023-07-31T06:05:52.8983195+00:00"
 }

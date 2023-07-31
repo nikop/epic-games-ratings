@@ -5436,9 +5436,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711907,
+  "EOS_Progressed": 711909,
   "EOS_Completed": 12836,
-  "EOS_NewPlayers": 560,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -15081,6 +15081,11 @@
       "Time": "2023-07-31T05:06:07.4077161+00:00",
       "NumProgressed": 711907,
       "NumCompleted": 12836
+    },
+    {
+      "Time": "2023-07-31T06:06:14.9600954+00:00",
+      "NumProgressed": 711909,
+      "NumCompleted": 12836
     }
   ],
   "TotalAchievements": 50,
@@ -15162,9 +15167,9 @@
       "ID": "10_Wude_H4",
       "SetID": "adcm20g",
       "Name": "Iron Money",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 4271
+      "UsersEstimate": 4983
     },
     {
       "ID": "11_Wude_H5",
@@ -15491,21 +15496,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21208,
+      "Progressed": 21210,
       "Completed": 10465
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711907,
+      "Progressed": 711909,
       "Completed": 12836
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-31T01:58:31.0387419+00:00",
-  "LastChanged_Achievements": "2023-07-31T05:06:07.4077158+00:00",
+  "LastChanged_Achievements": "2023-07-31T06:06:14.9600947+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:51.4583284+00:00",
-  "LastUpdate_Ratings": "2023-07-31T04:59:15.0448674+00:00",
-  "LastUpdate_Achievements": "2023-07-31T05:06:07.4078189+00:00"
+  "LastUpdate_Ratings": "2023-07-31T05:59:08.330678+00:00",
+  "LastUpdate_Achievements": "2023-07-31T06:06:14.9601985+00:00"
 }

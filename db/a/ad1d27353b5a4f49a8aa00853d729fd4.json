@@ -150,9 +150,9 @@
       "ID": "destroy_heavy_frigate",
       "SetID": "94981fl",
       "Name": "heavy frigate",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "double_orbs",
@@ -340,8 +340,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-07-31T05:03:16.2763389+00:00",
+  "LastChanged_Achievements": "2023-07-31T06:03:20.6920959+00:00",
   "LastUpdate_AppInfo": "2023-07-28T10:57:28.6177192+00:00",
-  "LastUpdate_Ratings": "2023-07-31T04:57:05.3309997+00:00",
-  "LastUpdate_Achievements": "2023-07-31T05:03:16.2763607+00:00"
+  "LastUpdate_Ratings": "2023-07-31T05:57:06.082918+00:00",
+  "LastUpdate_Achievements": "2023-07-31T06:03:20.6921141+00:00"
 }

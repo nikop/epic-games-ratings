@@ -7,15 +7,15 @@ Number of Ratings: 1,999  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Setting an example | 77.00% | ~41,126 |
-| Worth it | 63.00% | ~33,648 |
+| Worth it | 63.00% | ~33,649 |
 | Eagle Eye | 55.00% | ~29,376 |
 | Corpseman I | 40.00% | ~21,364 |
 | Blast fishing | 37.00% | ~19,762 |
-| Not alone | 32.00% | ~17,091 |
+| Not alone | 32.00% | ~17,092 |
 | Headhunter I | 26.00% | ~13,887 |
-| Manual Labour I | 25.00% | ~13,352 |
-| Developers, Developers, Developers | 24.00% | ~12,818 |
-| Basic Training | 24.00% | ~12,818 |
+| Manual Labour I | 25.00% | ~13,353 |
+| Developers, Developers, Developers | 24.00% | ~12,819 |
+| Basic Training | 24.00% | ~12,819 |
 | Furchtlos und Treu | 13.00% | ~6,943 |
 | Gott Mit Uns | 12.00% | ~6,409 |
 | This We'll Defend! | 9.00% | ~4,807 |
@@ -25,9 +25,9 @@ Number of Ratings: 1,999  (23.09.2022)
 | Battle hardened | 8.00% | ~4,273 |
 | Semper Fidelis! | 7.00% | ~3,739 |
 | Honneur et Patrie | 7.00% | ~3,739 |
-| In Treue Fest | 5.00% | ~2,670 |
-| Voor De Koning | 5.00% | ~2,670 |
-| Extreme Headhunter | 5.00% | ~2,670 |
+| In Treue Fest | 5.00% | ~2,671 |
+| Voor De Koning | 5.00% | ~2,671 |
+| Extreme Headhunter | 5.00% | ~2,671 |
 | Advance Australia | 4.00% | ~2,136 |
 | We Stand on Guard | 4.00% | ~2,136 |
 | Sidi Brahim | 4.00% | ~2,136 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~53 |
 | Blood Brother | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,410 (Ranked 88)  
+Progressed: 53,411 (Ranked 88)  
 Completed: 4 (0.01%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 4 (0.01%) (Ranked 233)
 | 2023-07-28 | 53,111 | 4 |
 | 2023-07-29 | 53,253 | 4 |
 | 2023-07-30 | 53,387 | 4 |
-| 2023-07-31 | 53,410 | 4 |
+| 2023-07-31 | 53,411 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 340)  
 Sum: 760 (Ranked 262)  
