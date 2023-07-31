@@ -10,10 +10,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Right Back At Ya | 39.00% | ~338,746 |
 | The Lovers | 34.00% | ~295,317 |
 | Stanislavski's Method | 28.00% | ~243,202 |
-| The Wheel of Fortune | 27.00% | ~234,516 |
+| The Wheel of Fortune | 27.00% | ~234,517 |
 | The Hermit | 24.00% | ~208,459 |
 | True Soldier | 23.00% | ~199,773 |
-| Christmas Tree Attack | 22.00% | ~191,087 |
+| Christmas Tree Attack | 22.00% | ~191,088 |
 | The High Priestess | 21.00% | ~182,402 |
 | Legend of The Afterlife | 21.00% | ~182,402 |
 | Life of the Road | 20.00% | ~173,716 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,686 |
 | Rough Landing | 0.50% | ~4,343 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 868,579 (Ranked 14)  
+Progressed: 868,580 (Ranked 14)  
 Completed: 1,921 (0.22%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,16 +153,16 @@ Completed: 1,921 (0.22%) (Ranked 170)
 | 2023-07-28 | 868,092 | 1,912 |
 | 2023-07-29 | 868,286 | 1,915 |
 | 2023-07-30 | 868,514 | 1,918 |
-| 2023-07-31 | 868,579 | 1,921 |
+| 2023-07-31 | 868,580 | 1,921 |
 ## Awards
 Max (Character Customization): 74,504  (Ranked 9)  
-Sum: 196,192 (Ranked 13)  
+Sum: 196,201 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 74,504 |
 | This game has Great Boss Battles | 48,071 |
-| This game has Diverse Characters | 8,685 |
+| This game has Diverse Characters | 8,694 |
 | This game is Great for Beginners | 8,672 |
 | This game has Amazing Storytelling | 8,645 |
 | This game is Extremely Fun | 8,527 |
@@ -367,4 +367,4 @@ Diff (max vs sum): -4
 | 2023-07-28 | 4.62 | - | 74,253 | 195,446 |
 | 2023-07-29 | 4.62 | - | 74,326 | 195,697 |
 | 2023-07-30 | 4.62 | - | 74,413 | 195,979 |
-| 2023-07-31 | 4.62 | - | 74,504 | 196,192 |
+| 2023-07-31 | 4.62 | - | 74,504 | 196,201 |

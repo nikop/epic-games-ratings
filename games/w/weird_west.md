@@ -11,7 +11,7 @@ Number of Ratings: 125  (23.09.2022)
 | Perky | 65.00% | ~1,145 |
 | Let’s Ride | 60.00% | ~1,057 |
 | Welcome to the Weird West | 57.00% | ~1,004 |
-| Dead or Alive | 55.00% | ~969 |
+| Dead or Alive | 56.00% | ~987 |
 | Full House | 36.00% | ~634 |
 | Off the Trail | 33.00% | ~581 |
 | Justice Served | 29.00% | ~511 |
@@ -48,8 +48,8 @@ Number of Ratings: 125  (23.09.2022)
 | This Is Sparta | 5.00% | ~88 |
 | What’s in the Box? | 5.00% | ~88 |
 | Ghost Town | 3.00% | ~53 |
+| Lord Inut Sends His Regards | 3.00% | ~53 |
 | Moondrunk | 3.00% | ~53 |
-| Lord Inut Sends His Regards | 2.00% | ~35 |
 | 'Ma Barker | 2.00% | ~35 |
 | I Kicked a Bird and I Liked it | 1.00% | ~18 |
 | Hog Wild | 1.00% | ~18 |

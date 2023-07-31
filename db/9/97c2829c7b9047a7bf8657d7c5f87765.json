@@ -4,8 +4,8 @@
   "ProductSlug": "elemental-war-2-d7db6e",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2022-05-06T16:00:00+00:00",
@@ -106,9 +106,9 @@
       "ID": "12",
       "SetID": "7095412",
       "Name": "Bronze",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "13",
@@ -122,9 +122,9 @@
       "ID": "14",
       "SetID": "7095412",
       "Name": "Silver",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "15",
@@ -234,9 +234,9 @@
       "ID": "27",
       "SetID": "7095412",
       "Name": "Master of Defense",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "28",
@@ -416,8 +416,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-30T11:02:07.8457996+00:00",
-  "LastChanged_Achievements": "2023-07-31T11:05:14.3516845+00:00",
+  "LastChanged_Achievements": "2023-07-31T12:05:27.3769625+00:00",
   "LastUpdate_AppInfo": "2023-07-28T11:57:14.5662512+00:00",
-  "LastUpdate_Ratings": "2023-07-31T10:57:26.9951547+00:00",
-  "LastUpdate_Achievements": "2023-07-31T11:05:14.3517528+00:00"
+  "LastUpdate_Ratings": "2023-07-31T11:57:39.2126817+00:00",
+  "LastUpdate_Achievements": "2023-07-31T12:05:27.3772692+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 572,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
-  "Ranking_EOS_Progress": 65,
+  "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -48,9 +48,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 124530,
+  "EOS_Progressed": 125212,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124508,
+  "EOS_NewPlayers": 125190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -528,6 +528,11 @@
       "Time": "2023-07-31T11:04:17.8611904+00:00",
       "NumProgressed": 124530,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T12:04:21.1235934+00:00",
+      "NumProgressed": 125212,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -540,7 +545,7 @@
       "Name": "Super Nova Station Completed",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 374
+      "UsersEstimate": 376
     },
     {
       "ID": "HW1_MISSION11_COMPLETE",
@@ -548,7 +553,7 @@
       "Name": "Tenhauser Gate Completed",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 374
+      "UsersEstimate": 376
     },
     {
       "ID": "HW1_MISSION12_COMPLETE",
@@ -556,7 +561,7 @@
       "Name": "Galactic Core Completed",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 374
+      "UsersEstimate": 376
     },
     {
       "ID": "HW1_MISSION13_COMPLETE",
@@ -564,7 +569,7 @@
       "Name": "The Karos Graveyard Completed",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 374
+      "UsersEstimate": 376
     },
     {
       "ID": "HW1_MISSION14_COMPLETE",
@@ -572,7 +577,7 @@
       "Name": "Bridge of Sighs Completed",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
@@ -580,7 +585,7 @@
       "Name": "Chapel Perilous Completed",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "HW1_MISSION16_COMPLETE",
@@ -596,7 +601,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22415
+      "UsersEstimate": 22538
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -604,7 +609,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 8717
+      "UsersEstimate": 8765
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -612,7 +617,7 @@
       "Name": "Return to Kharak",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 4981
+      "UsersEstimate": 5008
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -620,7 +625,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2504
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -628,7 +633,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1252
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -636,7 +641,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1252
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -644,7 +649,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1252
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -652,7 +657,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 996
+      "UsersEstimate": 1002
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -660,7 +665,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 872
+      "UsersEstimate": 876
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -724,7 +729,7 @@
       "Name": "Tanis Completed",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 13698
+      "UsersEstimate": 13773
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -732,7 +737,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 6226
+      "UsersEstimate": 6261
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -740,7 +745,7 @@
       "Name": "Sarum Completed",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 996
+      "UsersEstimate": 1002
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -748,7 +753,7 @@
       "Name": "Gehenna Outskirts Completed",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 374
+      "UsersEstimate": 376
     },
     {
       "ID": "HW2_MISSION5_COMPLETE",
@@ -756,7 +761,7 @@
       "Name": "Gehenna Completed",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 374
+      "UsersEstimate": 376
     },
     {
       "ID": "HW2_MISSION6_COMPLETE",
@@ -764,7 +769,7 @@
       "Name": "The Karos Graveyard Complete",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "HW2_MISSION7_COMPLETE",
@@ -796,7 +801,7 @@
       "Name": "Graduated Command School",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 28642
+      "UsersEstimate": 28799
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -811,7 +816,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 124530,
+      "Progressed": 125212,
       "Completed": 0
     }
   ],
@@ -819,8 +824,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-07-31T03:57:22.4671624+00:00",
-  "LastChanged_Achievements": "2023-07-31T11:04:17.8611896+00:00",
+  "LastChanged_Achievements": "2023-07-31T12:04:21.1235928+00:00",
   "LastUpdate_AppInfo": "2023-07-27T16:56:52.9546669+00:00",
-  "LastUpdate_Ratings": "2023-07-31T10:57:18.8038826+00:00",
-  "LastUpdate_Achievements": "2023-07-31T11:04:17.8612213+00:00"
+  "LastUpdate_Ratings": "2023-07-31T11:57:29.8184+00:00",
+  "LastUpdate_Achievements": "2023-07-31T12:04:21.1236288+00:00"
 }

@@ -1,12 +1,12 @@
 # Vampyr
 [Store](https://store.epicgames.com/en-US/p/vampyr)  
 [View Rawdata](../../db/v/vampyr.json)  
-Rating: 4.32 (Ranked 769)  
+Rating: 4.32 (Ranked 770)  
 Number of Ratings: 5,106  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 554  (Ranked 186)  
-Sum: 722 (Ranked 266)  
-Diff (max vs sum): -80  
+Sum: 722 (Ranked 267)  
+Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 554 |

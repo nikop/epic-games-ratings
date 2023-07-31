@@ -6,54 +6,54 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~30,830 |
-| Blood Moon | 73.00% | ~26,477 |
-| Path of the Necromancer | 66.00% | ~23,938 |
-| Chainbreaker - I | 60.00% | ~21,762 |
-| Cursed Creature | 57.00% | ~20,674 |
-| Extraction | 57.00% | ~20,674 |
-| Chainbreaker - II | 55.00% | ~19,948 |
-| Necromancer's Apprentice | 51.00% | ~18,498 |
-| Keeper of Keys | 47.00% | ~17,047 |
-| Distillation | 43.00% | ~15,596 |
-| Mountain King - I | 42.00% | ~15,233 |
-| Transmutation | 42.00% | ~15,233 |
-| Prepared Necromancer | 41.00% | ~14,871 |
-| Mountain King - II | 40.00% | ~14,508 |
+| Improvement | 85.00% | ~30,831 |
+| Blood Moon | 73.00% | ~26,479 |
+| Path of the Necromancer | 66.00% | ~23,940 |
+| Chainbreaker - I | 60.00% | ~21,763 |
+| Cursed Creature | 57.00% | ~20,675 |
+| Extraction | 57.00% | ~20,675 |
+| Chainbreaker - II | 55.00% | ~19,950 |
+| Necromancer's Apprentice | 51.00% | ~18,499 |
+| Keeper of Keys | 47.00% | ~17,048 |
+| Distillation | 43.00% | ~15,597 |
+| Mountain King - I | 42.00% | ~15,234 |
+| Transmutation | 42.00% | ~15,234 |
+| Prepared Necromancer | 41.00% | ~14,872 |
+| Mountain King - II | 40.00% | ~14,509 |
 | Blind Rage | 38.00% | ~13,783 |
-| Mad Genius | 35.00% | ~12,694 |
+| Mad Genius | 35.00% | ~12,695 |
 | Cannon Fodder - I | 34.00% | ~12,332 |
 | Soul of Lies | 34.00% | ~12,332 |
-| Bane of Mercenaries - I | 33.00% | ~11,969 |
+| Bane of Mercenaries - I | 33.00% | ~11,970 |
 | Bane of Mercenaries - II | 31.00% | ~11,244 |
-| Shadow Between Worlds | 30.00% | ~10,881 |
-| Cannon Fodder - II | 29.00% | ~10,518 |
+| Shadow Between Worlds | 30.00% | ~10,882 |
+| Cannon Fodder - II | 29.00% | ~10,519 |
 | Bane of Monsters | 28.00% | ~10,156 |
 | Chainbreaker - III | 28.00% | ~10,156 |
 | Revealed Secrets - I | 27.00% | ~9,793 |
-| Revealed Secrets - II | 26.00% | ~9,430 |
+| Revealed Secrets - II | 26.00% | ~9,431 |
 | Unholy Bones | 24.00% | ~8,705 |
 | Blood Elemental | 24.00% | ~8,705 |
-| Lord of Fire | 23.00% | ~8,342 |
-| Uncommon Warrior | 23.00% | ~8,342 |
-| Cannon Fodder - III | 22.00% | ~7,979 |
-| Spiritual Attraction | 22.00% | ~7,979 |
-| Nightmare of the Humanity - I | 22.00% | ~7,979 |
-| Nightmare of the Humanity - II | 22.00% | ~7,979 |
+| Lord of Fire | 23.00% | ~8,343 |
+| Uncommon Warrior | 23.00% | ~8,343 |
+| Cannon Fodder - III | 22.00% | ~7,980 |
+| Spiritual Attraction | 22.00% | ~7,980 |
+| Nightmare of the Humanity - I | 22.00% | ~7,980 |
+| Nightmare of the Humanity - II | 22.00% | ~7,980 |
 | That Was Easy! | 20.00% | ~7,254 |
 | Silent Waters | 20.00% | ~7,254 |
 | Calcination | 20.00% | ~7,254 |
 | Head of Order | 20.00% | ~7,254 |
 | Blood Mage | 17.00% | ~6,166 |
-| Wild Hunger | 16.00% | ~5,803 |
-| Rage Concentrated | 16.00% | ~5,803 |
-| Mountain King - III | 15.00% | ~5,440 |
-| Rare Warrior | 15.00% | ~5,440 |
+| Wild Hunger | 16.00% | ~5,804 |
+| Rage Concentrated | 16.00% | ~5,804 |
+| Mountain King - III | 15.00% | ~5,441 |
+| Rare Warrior | 15.00% | ~5,441 |
 | Grand Arena | 14.00% | ~5,078 |
 | Blood Madness | 13.00% | ~4,715 |
 | First Sacrifice | 13.00% | ~4,715 |
 | Master of Alchemy | 13.00% | ~4,715 |
-| Legendary Warrior | 12.00% | ~4,352 |
+| Legendary Warrior | 12.00% | ~4,353 |
 | Bane of Mercenaries - III | 10.00% | ~3,627 |
 | Monument to Greatness | 10.00% | ~3,627 |
 | Ancient Burial | 10.00% | ~3,627 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.60% | ~218 |
 | Renowned Researcher | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,270 (Ranked 94)  
+Progressed: 36,272 (Ranked 94)  
 Completed: 23 (0.06%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 23 (0.06%) (Ranked 205)
 | 2023-07-28 | 36,006 | 23 |
 | 2023-07-29 | 36,128 | 23 |
 | 2023-07-30 | 36,242 | 23 |
-| 2023-07-31 | 36,270 | 23 |
+| 2023-07-31 | 36,272 | 23 |
 ## Awards
 Max (Character Customization): 2,146  (Ranked 108)  
 Sum: 4,159 (Ranked 138)  

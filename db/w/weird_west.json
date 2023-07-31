@@ -1652,9 +1652,9 @@
       "ID": "ACH_DEAD_OR_ALIVE",
       "SetID": "8j30i9k",
       "Name": "Dead or Alive",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 969
+      "UsersEstimate": 987
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1812,9 +1812,9 @@
       "ID": "ACH_LORD_INUT_SENDS_HIS_REGARDS",
       "SetID": "8j30i9k",
       "Name": "Lord Inut Sends His Regards",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_LOYALTY_TO_THE_PACK",
@@ -2076,8 +2076,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-31T11:05:34.9677384+00:00",
+  "LastChanged_Achievements": "2023-07-31T12:05:51.4084737+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.150321+00:00",
-  "LastUpdate_Ratings": "2023-07-31T10:59:17.1654973+00:00",
-  "LastUpdate_Achievements": "2023-07-31T11:05:34.9678288+00:00"
+  "LastUpdate_Ratings": "2023-07-31T11:59:53.6513932+00:00",
+  "LastUpdate_Achievements": "2023-07-31T12:05:51.408605+00:00"
 }

@@ -1,18 +1,18 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 481)  
+Rating: 4.56 (Ranked 464)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~9,422 |
+| Getting Started | 81.00% | ~9,423 |
 | Pay 'n' Spray | 50.00% | ~5,816 |
 | All Dressed Up for San Fierro | 25.00% | ~2,908 |
 | The American Dream | 19.00% | ~2,210 |
 | School's Out | 18.00% | ~2,094 |
 | Smooth Moves | 16.00% | ~1,861 |
 | Today Was a Good Day | 15.00% | ~1,745 |
-| What happens in Las Venturas... | 14.00% | ~1,628 |
+| What happens in Las Venturas... | 14.00% | ~1,629 |
 | Horror of the Santa Maria | 10.00% | ~1,163 |
 | Liberty City State of Mind | 9.00% | ~1,047 |
 | Original Gangster | 8.00% | ~931 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 481)
 | ...Here we go again | 0.40% | ~47 |
 | I Ain't No Buster | 0.30% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,632 (Ranked 119)  
+Progressed: 11,633 (Ranked 119)  
 Completed: 32 (0.28%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,14 +143,15 @@ Completed: 32 (0.28%) (Ranked 160)
 | 2023-07-28 | 11,496 | 31 |
 | 2023-07-29 | 11,557 | 31 |
 | 2023-07-30 | 11,608 | 31 |
-| 2023-07-31 | 11,632 | 32 |
+| 2023-07-31 | 11,633 | 32 |
 ## Awards
 Max (Great Boss Battles): 233  (Ranked 253)  
-Sum: 233 (Ranked 352)  
-Diff (max vs sum): -99  
+Sum: 253 (Ranked 350)  
+Diff (max vs sum): -97  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 233 |
+| This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -240,3 +241,4 @@ Diff (max vs sum): -99
 | 2023-07-27 | 4.56 | 231 | 231 |
 | 2023-07-28 | 4.55 | 231 | 231 |
 | 2023-07-30 | 4.55 | 233 | 233 |
+| 2023-07-31 | 4.56 | 233 | 253 |

@@ -12,20 +12,20 @@ Rating: 4.60 (Ranked 390)
 | The Prince in Heels | 17.00% | ~138 |
 | Immaculate Aim | 17.00% | ~138 |
 | The Brass Boss | 17.00% | ~138 |
-| The Steel Shadow | 16.00% | ~129 |
-| Time Flies | 16.00% | ~129 |
-| The Harder They Fall | 16.00% | ~129 |
-| No, Thanks! | 16.00% | ~129 |
-| Breaking Down Barriers | 16.00% | ~129 |
-| The Wicked Twins | 16.00% | ~129 |
-| Honest Mistake | 16.00% | ~129 |
-| Immaculate Aim | 16.00% | ~129 |
-| The Betrayer | 15.00% | ~121 |
-| The Man Who Shattered Time | 15.00% | ~121 |
-| The Loose Cannon | 15.00% | ~121 |
-| Golem Chaser | 15.00% | ~121 |
-| Fast Learner | 15.00% | ~121 |
-| The Family Fortune | 15.00% | ~121 |
+| The Steel Shadow | 16.00% | ~130 |
+| Time Flies | 16.00% | ~130 |
+| The Harder They Fall | 16.00% | ~130 |
+| No, Thanks! | 16.00% | ~130 |
+| Breaking Down Barriers | 16.00% | ~130 |
+| The Wicked Twins | 16.00% | ~130 |
+| Honest Mistake | 16.00% | ~130 |
+| Immaculate Aim | 16.00% | ~130 |
+| The Betrayer | 15.00% | ~122 |
+| The Man Who Shattered Time | 15.00% | ~122 |
+| The Loose Cannon | 15.00% | ~122 |
+| Golem Chaser | 15.00% | ~122 |
+| Fast Learner | 15.00% | ~122 |
+| The Family Fortune | 15.00% | ~122 |
 | Treasure Trove | 14.00% | ~113 |
 | Like Clockwork | 14.00% | ~113 |
 | Cartographer | 14.00% | ~113 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 390)
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 809 (Ranked 201)  
+Progressed: 810 (Ranked 201)  
 Completed: 4 (0.49%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 4 (0.49%) (Ranked 137)
 | 2023-07-28 | 797 | 4 |
 | 2023-07-29 | 803 | 4 |
 | 2023-07-30 | 808 | 4 |
-| 2023-07-31 | 809 | 4 |
+| 2023-07-31 | 810 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Tyrant Rise | 35.00% | ~8 |
 | Honor Medal | 30.00% | ~7 |
+| Assassination | 26.00% | ~6 |
 | Great Civil War | 26.00% | ~6 |
-| Assassination | 22.00% | ~5 |
 | Princess Crowned | 13.00% | ~3 |
 | Secret War | 13.00% | ~3 |
 | 2nd AI War | 9.00% | ~2 |

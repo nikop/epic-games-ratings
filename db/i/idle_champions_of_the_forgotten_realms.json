@@ -5416,9 +5416,9 @@
       "Count": 3330
     }
   ],
-  "EOS_Progressed": 217345,
+  "EOS_Progressed": 217356,
   "EOS_Completed": 2138,
-  "EOS_NewPlayers": 2281,
+  "EOS_NewPlayers": 2292,
   "EOS_NewCompleters": 78,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16376,6 +16376,11 @@
       "Time": "2023-07-31T11:04:29.37324+00:00",
       "NumProgressed": 217345,
       "NumCompleted": 2138
+    },
+    {
+      "Time": "2023-07-31T12:04:35.4739113+00:00",
+      "NumProgressed": 217356,
+      "NumCompleted": 2138
     }
   ],
   "TotalAchievements": 512,
@@ -16387,7 +16392,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6520
+      "UsersEstimate": 6521
     },
     {
       "ID": "objective_completed_10",
@@ -16523,7 +16528,7 @@
       "Name": "Thieves of the Coven",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "objective_completed_1061",
@@ -16691,7 +16696,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2174
     },
     {
       "ID": "objective_completed_1090",
@@ -16755,7 +16760,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6520
+      "UsersEstimate": 6521
     },
     {
       "ID": "objective_completed_110",
@@ -16947,7 +16952,7 @@
       "Name": "Supply Run",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2174
     },
     {
       "ID": "objective_completed_1142",
@@ -17019,7 +17024,7 @@
       "Name": "Speeds of Destruction",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "objective_completed_1154",
@@ -17083,7 +17088,7 @@
       "Name": "A Demi-god\u0027s Defender",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "objective_completed_1168",
@@ -17249,9 +17254,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1304
     },
     {
       "ID": "objective_completed_1203",
@@ -17321,9 +17326,9 @@
       "ID": "objective_completed_124",
       "SetID": "cc37lbc",
       "Name": "Homecoming",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 652
+      "UsersEstimate": 869
     },
     {
       "ID": "objective_completed_125",
@@ -17475,7 +17480,7 @@
       "Name": "Welcome to the Rock",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "objective_completed_1351",
@@ -17609,9 +17614,9 @@
       "ID": "objective_completed_169",
       "SetID": "cc37lbc",
       "Name": "Building Trust",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1304
     },
     {
       "ID": "objective_completed_17",
@@ -20419,7 +20424,7 @@
       "Name": "Luigi After Hours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "objective_completed_1380",
@@ -20435,7 +20440,7 @@
       "Name": "Electric Mayhem",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "objective_completed_1385",
@@ -20451,7 +20456,7 @@
       "Name": "3,720 to 1",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "objective_completed_1390",
@@ -20475,28 +20480,28 @@
       "Name": "Animated Giff",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183619,
-      "Completed": 3036
+      "Progressed": 183630,
+      "Completed": 3037
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217345,
+      "Progressed": 217356,
       "Completed": 2138
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-31T07:58:28.9560959+00:00",
-  "LastChanged_Achievements": "2023-07-31T11:04:29.3732393+00:00",
+  "LastChanged_Achievements": "2023-07-31T12:04:35.4739109+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-31T10:58:56.4432195+00:00",
-  "LastUpdate_Achievements": "2023-07-31T11:04:29.3770222+00:00"
+  "LastUpdate_Ratings": "2023-07-31T11:59:26.4479154+00:00",
+  "LastUpdate_Achievements": "2023-07-31T12:04:35.4772117+00:00"
 }

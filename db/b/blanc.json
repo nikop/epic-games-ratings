@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2405,
+  "EOS_Progressed": 2408,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -2213,6 +2213,11 @@
       "Time": "2023-07-31T11:03:22.4646578+00:00",
       "NumProgressed": 2405,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-31T12:03:30.2700079+00:00",
+      "NumProgressed": 2408,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2232,7 +2237,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "FALLEN_TREE",
@@ -2256,7 +2261,7 @@
       "Name": "The will to move on",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "REUNION",
@@ -2264,7 +2269,7 @@
       "Name": "Reunion",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "SLIDERS",
@@ -2312,7 +2317,7 @@
       "Name": "Transmission",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -2327,7 +2332,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2405,
+      "Progressed": 2408,
       "Completed": 6
     }
   ],
@@ -2335,8 +2340,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-31T11:03:22.4646573+00:00",
+  "LastChanged_Achievements": "2023-07-31T12:03:30.2700073+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:06.4701918+00:00",
-  "LastUpdate_Ratings": "2023-07-31T11:00:13.3287922+00:00",
-  "LastUpdate_Achievements": "2023-07-31T11:03:22.4646863+00:00"
+  "LastUpdate_Ratings": "2023-07-31T12:00:58.1142649+00:00",
+  "LastUpdate_Achievements": "2023-07-31T12:03:30.2700311+00:00"
 }

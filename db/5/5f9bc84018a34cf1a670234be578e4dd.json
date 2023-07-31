@@ -331,9 +331,9 @@
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 70,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Fusses",
@@ -410,8 +410,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-07-31T11:04:52.1839795+00:00",
+  "LastChanged_Achievements": "2023-07-31T12:05:02.5793503+00:00",
   "LastUpdate_AppInfo": "2023-07-25T16:57:15.3733483+00:00",
-  "LastUpdate_Ratings": "2023-07-31T10:57:17.0051299+00:00",
-  "LastUpdate_Achievements": "2023-07-31T11:04:52.1839895+00:00"
+  "LastUpdate_Ratings": "2023-07-31T11:57:28.3810724+00:00",
+  "LastUpdate_Achievements": "2023-07-31T12:05:02.5793633+00:00"
 }

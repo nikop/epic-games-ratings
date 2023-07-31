@@ -1,20 +1,20 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.55 (Ranked 481)  
+Rating: 4.55 (Ranked 482)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~915,558 |
-| I Need a Bigger Garage | 63.00% | ~640,891 |
-| Pump my Ride | 46.00% | ~467,952 |
-| Ghostbuster | 33.00% | ~335,705 |
-| That Was Close | 18.00% | ~183,112 |
-| Call Roadside Assistance | 17.00% | ~172,939 |
-| Quickie | 11.00% | ~111,902 |
-| California Dreamer | 7.00% | ~71,210 |
-| Can't Touch This | 5.00% | ~50,864 |
+| The First of Many | 90.00% | ~915,584 |
+| I Need a Bigger Garage | 63.00% | ~640,908 |
+| Pump my Ride | 46.00% | ~467,965 |
+| Ghostbuster | 33.00% | ~335,714 |
+| That Was Close | 18.00% | ~183,117 |
+| Call Roadside Assistance | 17.00% | ~172,944 |
+| Quickie | 11.00% | ~111,905 |
+| California Dreamer | 7.00% | ~71,212 |
+| Can't Touch This | 5.00% | ~50,866 |
 | Carménère Taster | 3.00% | ~30,519 |
 | Comeback | 3.00% | ~30,519 |
 | Marathonist | 3.00% | ~30,519 |
@@ -34,17 +34,17 @@ Number of Ratings: 1,343  (23.09.2022)
 | Brave and Bold | 1.00% | ~10,173 |
 | Crocodile Hunter | 0.90% | ~9,156 |
 | Old Master | 0.90% | ~9,156 |
-| Volcano Surfer | 0.80% | ~8,138 |
-| Otaku | 0.80% | ~8,138 |
+| Volcano Surfer | 0.80% | ~8,139 |
+| Otaku | 0.80% | ~8,139 |
 | Survivor | 0.60% | ~6,104 |
-| King of the World | 0.50% | ~5,086 |
+| King of the World | 0.50% | ~5,087 |
 | Getting Famous | 0.40% | ~4,069 |
 | Master of the Racetrack | 0.20% | ~2,035 |
 | Now Go Play Outside | 0.20% | ~2,035 |
 | Transporter | 0.10% | ~1,017 |
 | Look Mom, No Hands! | 0.10% | ~1,017 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,017,287 (Ranked 12)  
+Progressed: 1,017,315 (Ranked 12)  
 Completed: 375 (0.04%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 375 (0.04%) (Ranked 216)
 | 2023-07-28 | 1,015,337 | 372 |
 | 2023-07-29 | 1,016,184 | 374 |
 | 2023-07-30 | 1,017,043 | 374 |
-| 2023-07-31 | 1,017,287 | 375 |
+| 2023-07-31 | 1,017,315 | 375 |
 ## Awards
 Max (Great for Beginners): 151  (Ranked 293)  
 Sum: 1,227 (Ranked 228)  

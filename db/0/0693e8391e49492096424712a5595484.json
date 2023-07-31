@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 281,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 6.41,
   "EosHistory": [
@@ -1312,9 +1312,9 @@
       "ID": "SleepingBasiliskAmanita",
       "SetID": "db30heh",
       "Name": "Wild Dreams",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -1367,8 +1367,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-31T11:06:47.3250787+00:00",
+  "LastChanged_Achievements": "2023-07-31T12:07:25.3633061+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-31T10:57:26.5283535+00:00",
-  "LastUpdate_Achievements": "2023-07-31T11:06:47.3251219+00:00"
+  "LastUpdate_Ratings": "2023-07-31T11:57:38.9535606+00:00",
+  "LastUpdate_Achievements": "2023-07-31T12:07:25.3633552+00:00"
 }

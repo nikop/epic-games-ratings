@@ -6,26 +6,26 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~475,276 |
-| Apprentice | 58.00% | ~382,861 |
-| Close Shave | 25.00% | ~165,026 |
-| Mercenary | 23.00% | ~151,824 |
-| Ninja | 23.00% | ~151,824 |
-| Northern Scourge | 17.00% | ~112,218 |
+| The Fool | 72.00% | ~475,278 |
+| Apprentice | 58.00% | ~382,863 |
+| Close Shave | 25.00% | ~165,027 |
+| Mercenary | 23.00% | ~151,825 |
+| Ninja | 23.00% | ~151,825 |
+| Northern Scourge | 17.00% | ~112,219 |
 | Thief Bane | 14.00% | ~92,415 |
 | Master of Arms | 12.00% | ~79,213 |
 | Gambler | 10.00% | ~66,011 |
 | Dice Master | 10.00% | ~66,011 |
 | Swordsman | 9.00% | ~59,410 |
-| Knight | 8.00% | ~52,808 |
-| Cure for Corruption | 8.00% | ~52,808 |
-| Focused | 8.00% | ~52,808 |
-| Flurry of Fury | 8.00% | ~52,808 |
-| Long Shot | 7.00% | ~46,207 |
-| Devil Dice | 7.00% | ~46,207 |
-| Broken Heart | 7.00% | ~46,207 |
-| Adventurer | 6.00% | ~39,606 |
-| Empire's Bane | 6.00% | ~39,606 |
+| Knight | 8.00% | ~52,809 |
+| Cure for Corruption | 8.00% | ~52,809 |
+| Focused | 8.00% | ~52,809 |
+| Flurry of Fury | 8.00% | ~52,809 |
+| Long Shot | 7.00% | ~46,208 |
+| Devil Dice | 7.00% | ~46,208 |
+| Broken Heart | 7.00% | ~46,208 |
+| Adventurer | 6.00% | ~39,607 |
+| Empire's Bane | 6.00% | ~39,607 |
 | Jack of all Trades | 5.00% | ~33,005 |
 | Smithy | 5.00% | ~33,005 |
 | Leap of Faith | 3.00% | ~19,803 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~660 |
 | Blood Pact | 0.10% | ~660 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 660,106 (Ranked 22)  
+Progressed: 660,109 (Ranked 22)  
 Completed: 168 (0.03%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 168 (0.03%) (Ranked 221)
 | 2023-07-28 | 659,943 | 168 |
 | 2023-07-29 | 660,016 | 168 |
 | 2023-07-30 | 660,087 | 168 |
-| 2023-07-31 | 660,106 | 168 |
+| 2023-07-31 | 660,109 | 168 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 436)  
 Sum: 180 (Ranked 376)  

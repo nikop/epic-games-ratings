@@ -26,9 +26,9 @@
 | Gold Medalist | 12.00% | ~84 |
 | Non-Fiction | 11.00% | ~77 |
 | No Man Left Behind | 9.00% | ~63 |
+| Intergalactic Breakup | 8.00% | ~56 |
 | First of April | 7.00% | ~49 |
 | Fix-It Felix | 7.00% | ~49 |
-| Intergalactic Breakup | 7.00% | ~49 |
 | Flawless Maegangement | 7.00% | ~49 |
 | Second Life | 7.00% | ~49 |
 | Axel jump in space! | 6.00% | ~42 |

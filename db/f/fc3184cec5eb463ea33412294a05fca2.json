@@ -2,9 +2,9 @@
   "ID": "fc3184cec5eb463ea33412294a05fca2",
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
-  "Ranking_EOS_Progress": 289,
-  "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_Progress": 288,
+  "Ranking_EOS_Completed": 36,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 172,
+  "EOS_Progressed": 173,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.98,
+  "EOS_Completed_Percentage": 6.94,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -676,6 +676,11 @@
       "Time": "2023-07-30T16:05:14.6608096+00:00",
       "NumProgressed": 172,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-31T12:06:36.9711755+00:00",
+      "NumProgressed": 173,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 16,
@@ -685,17 +690,17 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 95
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -703,15 +708,15 @@
       "Name": "Cruise ship",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -725,9 +730,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 99
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -767,7 +772,7 @@
       "Name": "Catch a flight",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -783,7 +788,7 @@
       "Name": "Private pool",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -791,7 +796,7 @@
       "Name": "Abducktion",
       "Percentage": 20,
       "XP": 95,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -799,29 +804,29 @@
       "Name": "On fire",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 172,
+      "Progressed": 173,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-31T11:06:14.1070815+00:00",
+  "LastChanged_Achievements": "2023-07-31T12:06:36.9711746+00:00",
   "LastUpdate_AppInfo": "2023-07-29T13:57:01.6016157+00:00",
-  "LastUpdate_Ratings": "2023-07-31T10:57:26.8320307+00:00",
-  "LastUpdate_Achievements": "2023-07-31T11:06:14.1070987+00:00"
+  "LastUpdate_Ratings": "2023-07-31T11:57:39.1366167+00:00",
+  "LastUpdate_Achievements": "2023-07-31T12:06:36.9711985+00:00"
 }

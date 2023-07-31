@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -434,9 +434,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3384,
+  "EOS_Progressed": 3385,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5529,6 +5529,11 @@
       "Time": "2023-07-31T11:05:09.7292815+00:00",
       "NumProgressed": 3384,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-31T12:05:22.0323774+00:00",
+      "NumProgressed": 3385,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5810,17 +5815,17 @@
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
       "SetID": "bm6el81",
       "Name": "From Paris with Love",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "REWARD_43_X_FILES",
       "SetID": "bm6el81",
       "Name": "Burn after reading",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -6107,13 +6112,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3335,
+      "Progressed": 3336,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3384,
+      "Progressed": 3385,
       "Completed": 9
     }
   ],
@@ -6121,8 +6126,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-30T09:57:22.4060048+00:00",
-  "LastChanged_Achievements": "2023-07-31T11:05:09.7292808+00:00",
+  "LastChanged_Achievements": "2023-07-31T12:05:22.0323768+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:23.0951004+00:00",
-  "LastUpdate_Ratings": "2023-07-31T10:57:21.2658791+00:00",
-  "LastUpdate_Achievements": "2023-07-31T11:05:09.729385+00:00"
+  "LastUpdate_Ratings": "2023-07-31T11:57:32.7296368+00:00",
+  "LastUpdate_Achievements": "2023-07-31T12:05:22.0325311+00:00"
 }

@@ -1,7 +1,7 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.55 (Ranked 481)  
+Rating: 4.55 (Ranked 482)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -148,8 +148,8 @@ Completed: 33 (0.17%) (Ranked 177)
 | 2023-07-31 | 19,356 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 352)  
-Sum: 655 (Ranked 282)  
-Diff (max vs sum): 70  
+Sum: 655 (Ranked 283)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 87 |

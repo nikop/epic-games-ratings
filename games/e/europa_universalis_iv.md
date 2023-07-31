@@ -1,35 +1,35 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 211)  
+Rating: 4.69 (Ranked 212)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,869 |
-| That's a Grand Army | 8.00% | ~6,105 |
-| That is mine! | 8.00% | ~6,105 |
-| Victorious! | 8.00% | ~6,105 |
-| Brothers in Arms | 6.00% | ~4,579 |
-| That's a Grand Navy | 6.00% | ~4,579 |
-| Seriously?! | 6.00% | ~4,579 |
-| For the Glory | 5.00% | ~3,816 |
-| Cold War | 4.00% | ~3,053 |
-| True Catholic | 4.00% | ~3,053 |
+| Until death do us apart | 9.00% | ~6,870 |
+| That's a Grand Army | 8.00% | ~6,107 |
+| That is mine! | 8.00% | ~6,107 |
+| Victorious! | 8.00% | ~6,107 |
+| Brothers in Arms | 6.00% | ~4,580 |
+| That's a Grand Navy | 6.00% | ~4,580 |
+| Seriously?! | 6.00% | ~4,580 |
+| For the Glory | 5.00% | ~3,817 |
+| Cold War | 4.00% | ~3,054 |
+| True Catholic | 4.00% | ~3,054 |
 | Defender of the Faith | 3.00% | ~2,290 |
 | It's all about luck | 3.00% | ~2,290 |
 | It's all about the money | 3.00% | ~2,290 |
 | Respected | 3.00% | ~2,290 |
 | The Princess is in this Castle | 3.00% | ~2,290 |
 | Truly Divine Ruler | 3.00% | ~2,290 |
-| Agressive Expander | 2.00% | ~1,526 |
-| Blockader | 2.00% | ~1,526 |
-| Combined Arms | 2.00% | ~1,526 |
-| Double the Love | 2.00% | ~1,526 |
-| My armies are invincible! | 2.00% | ~1,526 |
-| Queen of Conquest | 2.00% | ~1,526 |
-| Royal Authority | 2.00% | ~1,526 |
-| Total Control | 2.00% | ~1,526 |
+| Agressive Expander | 2.00% | ~1,527 |
+| Blockader | 2.00% | ~1,527 |
+| Combined Arms | 2.00% | ~1,527 |
+| Double the Love | 2.00% | ~1,527 |
+| My armies are invincible! | 2.00% | ~1,527 |
+| Queen of Conquest | 2.00% | ~1,527 |
+| Royal Authority | 2.00% | ~1,527 |
+| Total Control | 2.00% | ~1,527 |
 | All That's Thine Shall Be Mine | 1.00% | ~763 |
 | Azur semé de lis or | 1.00% | ~763 |
 | Bright Spark | 1.00% | ~763 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,317 (Ranked 76)  
+Progressed: 76,338 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -463,7 +463,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 75,282 | 0 |
 | 2023-07-29 | 75,748 | 0 |
 | 2023-07-30 | 76,185 | 0 |
-| 2023-07-31 | 76,317 | 0 |
+| 2023-07-31 | 76,338 | 0 |
 ## Awards
 Max (Educational): 5,597  (Ranked 61)  
 Sum: 46,175 (Ranked 26)  

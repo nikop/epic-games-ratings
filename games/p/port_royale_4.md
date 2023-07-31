@@ -6,29 +6,29 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~636 |
-| My little farm | 65.00% | ~510 |
-| Every beginning is difficult | 62.00% | ~487 |
-| 3, 2, 1, mine | 56.00% | ~440 |
-| Gofer | 56.00% | ~440 |
-| Seafarer | 54.00% | ~424 |
-| O Captain! My Captain! | 54.00% | ~424 |
+| Cabin boy | 81.00% | ~637 |
+| My little farm | 65.00% | ~512 |
+| Every beginning is difficult | 62.00% | ~488 |
+| 3, 2, 1, mine | 56.00% | ~441 |
+| Gofer | 56.00% | ~441 |
+| Seafarer | 54.00% | ~425 |
+| O Captain! My Captain! | 53.00% | ~417 |
 | Greed for gold | 43.00% | ~338 |
-| Intangible | 41.00% | ~322 |
-| I'm out of here for a while | 41.00% | ~322 |
-| In a mint condition | 37.00% | ~290 |
+| Intangible | 41.00% | ~323 |
+| I'm out of here for a while | 41.00% | ~323 |
+| In a mint condition | 37.00% | ~291 |
 | Licence to Kill | 35.00% | ~275 |
-| Pirates! | 34.00% | ~267 |
+| Pirates! | 34.00% | ~268 |
 | Megalomania | 29.00% | ~228 |
 | Collectionitis | 28.00% | ~220 |
-| Christening | 26.00% | ~204 |
-| Groundskeeper | 25.00% | ~196 |
+| Christening | 26.00% | ~205 |
+| Groundskeeper | 25.00% | ~197 |
 | Wholesale | 22.00% | ~173 |
 | Walk the plank | 20.00% | ~157 |
-| Pearly gates | 17.00% | ~133 |
-| My precious! | 17.00% | ~133 |
+| Pearly gates | 17.00% | ~134 |
+| My precious! | 17.00% | ~134 |
 | Conquistador | 13.00% | ~102 |
-| Panic buying | 11.00% | ~86 |
+| Panic buying | 11.00% | ~87 |
 | Just a scratch | 9.00% | ~71 |
 | Your vessel, my vessel | 9.00% | ~71 |
 | All mine! | 8.00% | ~63 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.50% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 785 (Ranked 202)  
+Progressed: 787 (Ranked 202)  
 Completed: 1 (0.13%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,6 +149,7 @@ Completed: 1 (0.13%) (Ranked 187)
 | 2023-07-28 | 774 | 1 |
 | 2023-07-29 | 781 | 1 |
 | 2023-07-30 | 785 | 1 |
+| 2023-07-31 | 787 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

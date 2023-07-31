@@ -2,13 +2,13 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 481,
+  "Ranking_Rating": 482,
   "Ranking_Popularity": 446,
-  "Ranking_PopularitySum": 351,
+  "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3211,
+  "EOS_Progressed": 3212,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3736,6 +3736,11 @@
       "Time": "2023-07-31T11:03:07.2449235+00:00",
       "NumProgressed": 3211,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-31T12:03:12.6358017+00:00",
+      "NumProgressed": 3212,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3819,7 +3824,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "ForAllAurai_8",
@@ -3851,7 +3856,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "HouseofCards_19",
@@ -3939,7 +3944,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2055
+      "UsersEstimate": 2056
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4067,7 +4072,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2408
+      "UsersEstimate": 2409
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4082,15 +4087,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3211,
+      "Progressed": 3212,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-31T11:03:07.244923+00:00",
+  "LastChanged_Achievements": "2023-07-31T12:03:12.6358011+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.443387+00:00",
-  "LastUpdate_Ratings": "2023-07-31T10:58:38.583155+00:00",
-  "LastUpdate_Achievements": "2023-07-31T11:03:07.2449771+00:00"
+  "LastUpdate_Ratings": "2023-07-31T11:59:05.3567288+00:00",
+  "LastUpdate_Achievements": "2023-07-31T12:03:12.6358661+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "space-elite-force-a00006",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-07-27T13:00:00+00:00",
@@ -259,9 +259,9 @@
       "ID": "snipergun",
       "SetID": "94981fl",
       "Name": "sniper gun",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "space_car",
@@ -345,8 +345,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-07-31T11:03:42.5714154+00:00",
+  "LastChanged_Achievements": "2023-07-31T12:04:03.4107627+00:00",
   "LastUpdate_AppInfo": "2023-07-28T10:57:28.6177192+00:00",
-  "LastUpdate_Ratings": "2023-07-31T10:57:12.5879836+00:00",
-  "LastUpdate_Achievements": "2023-07-31T11:03:42.5714371+00:00"
+  "LastUpdate_Ratings": "2023-07-31T11:57:22.2221839+00:00",
+  "LastUpdate_Achievements": "2023-07-31T12:04:03.4107884+00:00"
 }

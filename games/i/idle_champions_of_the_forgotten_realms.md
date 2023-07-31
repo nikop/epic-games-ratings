@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,520 |
-| Beast Intentions | 3.00% | ~6,520 |
+| A Brief Tour of the Realms | 3.00% | ~6,521 |
+| Beast Intentions | 3.00% | ~6,521 |
 | Maddening | 2.00% | ~4,347 |
-| The Silken Swamp | 1.00% | ~2,173 |
-| Supply Run | 1.00% | ~2,173 |
+| The Silken Swamp | 1.00% | ~2,174 |
+| Supply Run | 1.00% | ~2,174 |
 | Rocky Reception | 1.00% | ~1,836 |
 | Vecna Lives! | 0.90% | ~1,653 |
 | Rock and Roll | 0.90% | ~1,653 |
@@ -23,7 +23,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wet Feet | 0.60% | ~1,304 |
 | Return to the Tomb | 0.60% | ~1,102 |
 | Heatwave | 0.60% | ~1,102 |
+| Were-verpowered | 0.60% | ~1,304 |
 | Terror in the Dark | 0.60% | ~1,304 |
+| Building Trust | 0.60% | ~1,304 |
 | Unearthed Evil | 0.60% | ~1,304 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,102 |
 | The Witchlight Carnival | 0.50% | ~918 |
@@ -32,12 +34,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heavy Burden | 0.50% | ~1,087 |
 | The Evacuation of Waterdeep | 0.50% | ~918 |
 | The Dread Domain of Tovag | 0.50% | ~918 |
-| Were-verpowered | 0.50% | ~1,087 |
 | A Persistent Buzzing | 0.50% | ~1,087 |
 | Beast Mode | 0.50% | ~1,087 |
 | Low Initiative | 0.50% | ~1,087 |
 | A Mysterious Summons | 0.50% | ~1,087 |
-| Building Trust | 0.50% | ~1,087 |
 | No Time To Rest | 0.50% | ~1,087 |
 | The Mists of Ravenloft | 0.50% | ~1,087 |
 | The Dinner Party | 0.50% | ~1,087 |
@@ -50,22 +50,23 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.50% | ~918 |
 | Bahamut's Army | 0.50% | ~918 |
 | Krux's Speed Run | 0.50% | ~918 |
-| Thieves of the Coven | 0.40% | ~734 |
-| Speeds of Destruction | 0.40% | ~734 |
+| Thieves of the Coven | 0.40% | ~735 |
+| Speeds of Destruction | 0.40% | ~735 |
 | On the Hunt | 0.40% | ~869 |
-| A Demi-god's Defender | 0.40% | ~734 |
+| A Demi-god's Defender | 0.40% | ~735 |
 | Friends of the Forest | 0.40% | ~869 |
-| Welcome to the Rock | 0.40% | ~734 |
+| Homecoming | 0.40% | ~869 |
+| Welcome to the Rock | 0.40% | ~735 |
 | Street War | 0.40% | ~869 |
 | March of the Undead | 0.40% | ~869 |
 | Invisible Shadows | 0.40% | ~869 |
 | Family Entanglements | 0.40% | ~869 |
 | The Ring of Regeneration | 0.40% | ~869 |
 | Seeking Allies | 0.40% | ~869 |
-| Luigi After Hours | 0.40% | ~734 |
-| Electric Mayhem | 0.40% | ~734 |
-| 3,720 to 1 | 0.40% | ~734 |
-| Animated Giff | 0.40% | ~734 |
+| Luigi After Hours | 0.40% | ~735 |
+| Electric Mayhem | 0.40% | ~735 |
+| 3,720 to 1 | 0.40% | ~735 |
+| Animated Giff | 0.40% | ~735 |
 | Upholding the Law | 0.30% | ~652 |
 | Nightmare Rats! | 0.30% | ~551 |
 | Hither of the Feywild | 0.30% | ~551 |
@@ -78,7 +79,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.30% | ~551 |
 | Who Lurks Below? | 0.30% | ~551 |
 | Xanathaaaaaaar! | 0.30% | ~551 |
-| Homecoming | 0.30% | ~652 |
 | The Lost Heir of Omu | 0.30% | ~652 |
 | No One Can Hear You Scream | 0.30% | ~551 |
 | The Forbidden City | 0.30% | ~652 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,345 (Ranked 53)  
+Progressed: 217,356 (Ranked 53)  
 Completed: 2,138 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,7 +621,7 @@ Completed: 2,138 (0.98%) (Ranked 112)
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
-| 2023-07-31 | 217,345 | 2,138 |
+| 2023-07-31 | 217,356 | 2,138 |
 ## Awards
 Max (Diverse Characters): 5,106  (Ranked 67)  
 Sum: 30,821 (Ranked 38)  

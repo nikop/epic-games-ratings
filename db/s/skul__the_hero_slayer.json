@@ -6,9 +6,9 @@
   "Ranking_Popularity": 312,
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 126,
-  "Ranking_EOS_Completed": 181,
+  "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -920,7 +920,7 @@
       "Count": 122
     }
   ],
-  "EOS_Progressed": 8052,
+  "EOS_Progressed": 8053,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
@@ -4025,6 +4025,11 @@
       "Time": "2023-07-31T09:05:19.0761274+00:00",
       "NumProgressed": 8052,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-31T12:06:13.2932314+00:00",
+      "NumProgressed": 8053,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -4156,7 +4161,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "SavedElderEnt",
@@ -4196,7 +4201,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7488
+      "UsersEstimate": 7489
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4220,22 +4225,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6764
+      "UsersEstimate": 6765
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8052,
+      "Progressed": 8053,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-30T01:56:13.7308805+00:00",
-  "LastChanged_Achievements": "2023-07-31T11:05:53.6883734+00:00",
+  "LastChanged_Achievements": "2023-07-31T12:06:13.2932307+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:57.8506775+00:00",
-  "LastUpdate_Ratings": "2023-07-31T10:59:59.7508652+00:00",
-  "LastUpdate_Achievements": "2023-07-31T11:05:53.6884273+00:00"
+  "LastUpdate_Ratings": "2023-07-31T12:00:44.7931086+00:00",
+  "LastUpdate_Achievements": "2023-07-31T12:06:13.2932782+00:00"
 }
