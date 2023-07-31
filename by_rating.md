@@ -348,7 +348,7 @@
 | 332 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,762 | 114 |
 | 332 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 509 |
 | 348 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.62 | 0 | 509 |
-| 348 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 74,413 | 9 |
+| 348 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 74,504 | 9 |
 | 348 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 279 | 239 |
 | 348 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 440 |
 | 348 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,409 | 124 |
@@ -730,20 +730,20 @@
 | 725 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 509 |
 | 725 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 48 | 406 |
 | 725 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 509 |
+| 725 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.37 | 0 | 509 |
 | 725 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.37 | 99 | 333 |
 | 725 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 451 |
-| 733 | [Core](games/c/core.md) | 4.36 | 745 | 159 |
-| 733 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 172 | 285 |
-| 733 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,606 | 29 |
-| 733 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 0 | 509 |
-| 733 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 509 |
-| 733 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 478 |
-| 733 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.36 | 0 | 509 |
-| 733 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 49 | 404 |
-| 733 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 509 |
-| 733 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 105 | 326 |
-| 733 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.36 | 40 | 424 |
-| 733 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 509 |
+| 734 | [Core](games/c/core.md) | 4.36 | 745 | 159 |
+| 734 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 172 | 285 |
+| 734 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,606 | 29 |
+| 734 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 0 | 509 |
+| 734 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 509 |
+| 734 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 478 |
+| 734 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 49 | 404 |
+| 734 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 509 |
+| 734 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 105 | 326 |
+| 734 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.36 | 40 | 424 |
+| 734 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 509 |
 | 745 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 509 |
 | 745 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 509 |
 | 745 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 509 |

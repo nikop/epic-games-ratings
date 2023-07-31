@@ -36,7 +36,7 @@
 | 34 | [Scorn](games/s/scorn.md) | 7.02% |
 | 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.98% |
 | 36 | [Time Loader](games/t/time_loader.md) | 6.96% |
-| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
+| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
 | 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.50% |
 | 39 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.38% |
 | 40 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.37% |
@@ -63,7 +63,7 @@
 | 61 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.35% |
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.33% |
 | 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.15% |
-| 64 | [Monster Harvest](games/m/monster_harvest.md) | 3.07% |
+| 64 | [Monster Harvest](games/m/monster_harvest.md) | 3.05% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.04% |
 | 66 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 67 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.91% |
@@ -92,9 +92,9 @@
 | 90 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.82% |
 | 91 | [Sifu](games/s/sifu.md) | 1.80% |
 | 92 | [Iron Danger](games/i/iron_danger.md) | 1.66% |
-| 93 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.63% |
-| 94 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.62% |
-| 94 | [Somerville](games/s/somerville.md) | 1.62% |
+| 93 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.62% |
+| 93 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.62% |
+| 93 | [Somerville](games/s/somerville.md) | 1.62% |
 | 96 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.52% |
 | 97 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 98 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
