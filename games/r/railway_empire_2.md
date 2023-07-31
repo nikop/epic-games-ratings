@@ -5,63 +5,63 @@ Rating: 4.48 (Ranked 589)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 74.00% | ~1,273 |
-| A new Journey | 73.00% | ~1,256 |
-| From X to Y | 72.00% | ~1,238 |
-| Departure | 72.00% | ~1,238 |
-| Way of Iron | 70.00% | ~1,204 |
-| Mystery Tour | 68.00% | ~1,170 |
-| We brake for nobody | 67.00% | ~1,152 |
-| Brainstorm | 65.00% | ~1,118 |
-| Travel Company | 65.00% | ~1,118 |
-| Mind the Gap | 64.00% | ~1,101 |
-| All around the World | 62.00% | ~1,066 |
-| Right through the middle | 57.00% | ~980 |
-| Facility Manager | 53.00% | ~912 |
-| Poor Devil | 53.00% | ~912 |
-| Producer | 49.00% | ~843 |
-| Apprentice | 42.00% | ~722 |
-| Bridge Builder | 41.00% | ~705 |
-| Access granted | 34.00% | ~585 |
-| Going once, going twice, sold | 34.00% | ~585 |
-| Bull and bear | 33.00% | ~568 |
-| Stoker | 32.00% | ~550 |
-| Full Steam ahead | 31.00% | ~533 |
-| Financial Shark | 30.00% | ~516 |
-| All mine | 29.00% | ~499 |
-| Mole | 29.00% | ~499 |
-| Socializer | 29.00% | ~499 |
-| Country Life | 26.00% | ~447 |
-| General Manager | 25.00% | ~430 |
-| Hostile Takeover | 24.00% | ~413 |
-| Seven at one stroke | 23.00% | ~396 |
-| Trailblazer | 20.00% | ~344 |
-| Breaking Ground | 20.00% | ~344 |
-| Traffic Junction | 19.00% | ~327 |
+| Country Bumpkin | 74.00% | ~1,276 |
+| A new Journey | 73.00% | ~1,259 |
+| From X to Y | 72.00% | ~1,241 |
+| Departure | 72.00% | ~1,241 |
+| Way of Iron | 70.00% | ~1,207 |
+| Mystery Tour | 68.00% | ~1,172 |
+| We brake for nobody | 67.00% | ~1,155 |
+| Brainstorm | 65.00% | ~1,121 |
+| Mind the Gap | 64.00% | ~1,103 |
+| Travel Company | 64.00% | ~1,103 |
+| All around the World | 61.00% | ~1,052 |
+| Right through the middle | 57.00% | ~983 |
+| Facility Manager | 53.00% | ~914 |
+| Poor Devil | 53.00% | ~914 |
+| Producer | 49.00% | ~845 |
+| Apprentice | 42.00% | ~724 |
+| Bridge Builder | 41.00% | ~707 |
+| Access granted | 34.00% | ~586 |
+| Going once, going twice, sold | 34.00% | ~586 |
+| Bull and bear | 33.00% | ~569 |
+| Stoker | 32.00% | ~552 |
+| Full Steam ahead | 31.00% | ~534 |
+| Financial Shark | 30.00% | ~517 |
+| All mine | 29.00% | ~500 |
+| Socializer | 29.00% | ~500 |
+| Mole | 28.00% | ~483 |
+| Country Life | 26.00% | ~448 |
+| General Manager | 25.00% | ~431 |
+| Hostile Takeover | 24.00% | ~414 |
+| Seven at one stroke | 23.00% | ~397 |
+| Trailblazer | 20.00% | ~345 |
+| Breaking Ground | 20.00% | ~345 |
+| Traffic Junction | 19.00% | ~328 |
 | Traffic Jam | 18.00% | ~310 |
-| Networker | 17.00% | ~292 |
-| Resistance is futile | 16.00% | ~275 |
-| Assimilated | 15.00% | ~258 |
-| Locusts | 15.00% | ~258 |
+| Networker | 17.00% | ~293 |
+| Resistance is futile | 16.00% | ~276 |
+| Assimilated | 15.00% | ~259 |
+| Locusts | 15.00% | ~259 |
 | Settler | 14.00% | ~241 |
 | Max Power | 13.00% | ~224 |
-| Go West | 12.00% | ~206 |
-| Bold and beautiful | 12.00% | ~206 |
+| Go West | 12.00% | ~207 |
+| Bold and beautiful | 12.00% | ~207 |
 | A new Hope | 10.00% | ~172 |
 | Tycoon | 10.00% | ~172 |
-| Unstoppable | 7.00% | ~120 |
-| Track to the Future | 7.00% | ~120 |
+| Unstoppable | 7.00% | ~121 |
+| Track to the Future | 7.00% | ~121 |
 | Conductor | 6.00% | ~103 |
 | Call of Duty | 5.00% | ~86 |
 | Let off some steam | 4.00% | ~69 |
 | Engineer | 3.00% | ~52 |
-| Accurate | 3.00% | ~52 |
+| Accurate | 2.00% | ~34 |
 | European Union | 0.60% | ~10 |
 | Together we stand | 0.60% | ~10 |
 | United States | 0.50% | ~9 |
 | Three Cheers for Progress | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,720 (Ranked 174)  
+Progressed: 1,724 (Ranked 174)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 1,699 | 0 |
 | 2023-07-29 | 1,711 | 0 |
 | 2023-07-30 | 1,717 | 0 |
-| 2023-07-31 | 1,720 | 0 |
+| 2023-07-31 | 1,724 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

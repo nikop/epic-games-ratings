@@ -1369,9 +1369,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 190123,
+  "EOS_Progressed": 190131,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 1946,
+  "EOS_NewPlayers": 1948,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12534,6 +12534,11 @@
       "Time": "2023-07-31T09:06:49.8332005+00:00",
       "NumProgressed": 190123,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-07-31T10:06:51.5137948+00:00",
+      "NumProgressed": 190131,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 44,
@@ -12545,7 +12550,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17111
+      "UsersEstimate": 17112
     },
     {
       "ID": "AtheistOx",
@@ -12553,7 +12558,7 @@
       "Name": "Atheist Ox",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3802
+      "UsersEstimate": 3803
     },
     {
       "ID": "ChickenDinner",
@@ -12569,7 +12574,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 11407
+      "UsersEstimate": 11408
     },
     {
       "ID": "CompleteMastery",
@@ -12601,7 +12606,7 @@
       "Name": "Flying Rocks",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9506
+      "UsersEstimate": 9507
     },
     {
       "ID": "GearUp",
@@ -12633,7 +12638,7 @@
       "Name": "Happy Planning",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 11407
+      "UsersEstimate": 11408
     },
     {
       "ID": "HighFiveTheMoon",
@@ -12649,7 +12654,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 11407
+      "UsersEstimate": 11408
     },
     {
       "ID": "ItsRainingMen",
@@ -12657,7 +12662,7 @@
       "Name": "It\u0027s raining men",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3802
+      "UsersEstimate": 3803
     },
     {
       "ID": "Jonin",
@@ -12697,7 +12702,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9506
+      "UsersEstimate": 9507
     },
     {
       "ID": "NoGimmicks",
@@ -12729,7 +12734,7 @@
       "Name": "Old Man",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3802
+      "UsersEstimate": 3803
     },
     {
       "ID": "PraiseTheShogun",
@@ -12825,7 +12830,7 @@
       "Name": "The Old Way",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3802
+      "UsersEstimate": 3803
     },
     {
       "ID": "Thorough",
@@ -12833,7 +12838,7 @@
       "Name": "Thorough",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 17111
+      "UsersEstimate": 17112
     },
     {
       "ID": "TimeParadox",
@@ -12865,7 +12870,7 @@
       "Name": "Warzone",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9506
+      "UsersEstimate": 9507
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -12881,7 +12886,7 @@
       "Name": "Winner Winner",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3802
+      "UsersEstimate": 3803
     },
     {
       "ID": "Yabu",
@@ -12889,22 +12894,22 @@
       "Name": "Yabu",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 11407
+      "UsersEstimate": 11408
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 190123,
+      "Progressed": 190131,
       "Completed": 64
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-07-30T00:00:34.0323679+00:00",
-  "LastChanged_Achievements": "2023-07-31T09:06:49.8332002+00:00",
+  "LastChanged_Achievements": "2023-07-31T10:06:51.5137944+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:58.4166867+00:00",
-  "LastUpdate_Ratings": "2023-07-31T08:59:43.5913267+00:00",
-  "LastUpdate_Achievements": "2023-07-31T09:06:49.8333207+00:00"
+  "LastUpdate_Ratings": "2023-07-31T09:59:40.4098546+00:00",
+  "LastUpdate_Achievements": "2023-07-31T10:06:51.5138935+00:00"
 }

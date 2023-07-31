@@ -646,9 +646,9 @@
       "ID": "questCemetery2",
       "SetID": "ci65fo0",
       "Name": "Cemetery secrets 2",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "questChef",
@@ -750,9 +750,9 @@
       "ID": "questPumpkinKing",
       "SetID": "ci65fo0",
       "Name": "Pumpkin King",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "questReachLord",
@@ -875,8 +875,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-31T09:04:28.9686715+00:00",
+  "LastChanged_Achievements": "2023-07-31T10:04:37.4577173+00:00",
   "LastUpdate_AppInfo": "2023-07-26T10:57:01.3631939+00:00",
-  "LastUpdate_Ratings": "2023-07-31T08:57:36.2019982+00:00",
-  "LastUpdate_Achievements": "2023-07-31T09:04:28.9687767+00:00"
+  "LastUpdate_Ratings": "2023-07-31T09:57:35.6511662+00:00",
+  "LastUpdate_Achievements": "2023-07-31T10:04:37.45778+00:00"
 }

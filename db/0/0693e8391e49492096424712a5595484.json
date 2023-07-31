@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 38,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -1048,9 +1048,9 @@
       "ID": "BearRum",
       "SetID": "db30heh",
       "Name": "Ready for Bed",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "BearSword",
@@ -1104,17 +1104,17 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 194
     },
     {
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 197
+      "UsersEstimate": 200
     },
     {
       "ID": "Drunkard",
@@ -1128,9 +1128,9 @@
       "ID": "DwarDevil",
       "SetID": "db30heh",
       "Name": "Funny Devil",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "DwarfBeggarWoman",
@@ -1152,9 +1152,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 183
     },
     {
       "ID": "HastrmanAcorn",
@@ -1224,9 +1224,9 @@
       "ID": "PriestPistol",
       "SetID": "db30heh",
       "Name": "Unexpected Hit",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "PriestPoppiesBroth",
@@ -1304,9 +1304,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 225
+      "UsersEstimate": 228
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -1367,8 +1367,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-31T09:06:03.9652341+00:00",
+  "LastChanged_Achievements": "2023-07-31T10:06:11.0071931+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-31T08:57:33.7045289+00:00",
-  "LastUpdate_Achievements": "2023-07-31T09:06:03.9652959+00:00"
+  "LastUpdate_Ratings": "2023-07-31T09:57:33.8651082+00:00",
+  "LastUpdate_Achievements": "2023-07-31T10:06:11.0072271+00:00"
 }

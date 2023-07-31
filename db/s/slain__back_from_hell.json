@@ -199,9 +199,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 32048,
+  "EOS_Progressed": 32052,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 868,
+  "EOS_NewPlayers": 867,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11239,6 +11239,11 @@
       "Time": "2023-07-31T09:04:43.085392+00:00",
       "NumProgressed": 32048,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-31T10:04:51.098505+00:00",
+      "NumProgressed": 32052,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -11250,7 +11255,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4807
+      "UsersEstimate": 4808
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -11314,7 +11319,7 @@
       "Name": "Enjoy The Silence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH_11_WOLF_GUARD_CRUSHED",
@@ -11322,7 +11327,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -11402,7 +11407,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -11481,7 +11486,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 32048,
+      "Progressed": 32052,
       "Completed": 20
     }
   ],
@@ -11489,8 +11494,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-29T20:01:27.1494891+00:00",
-  "LastChanged_Achievements": "2023-07-31T09:04:43.0853911+00:00",
+  "LastChanged_Achievements": "2023-07-31T10:04:51.0985045+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:53.1512382+00:00",
-  "LastUpdate_Ratings": "2023-07-31T09:00:29.9453206+00:00",
-  "LastUpdate_Achievements": "2023-07-31T09:04:43.0855637+00:00"
+  "LastUpdate_Ratings": "2023-07-31T10:00:29.7400742+00:00",
+  "LastUpdate_Achievements": "2023-07-31T10:04:51.0985696+00:00"
 }

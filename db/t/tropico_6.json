@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1026,9 +1026,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4461,
+  "EOS_Progressed": 4463,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7201,6 +7201,11 @@
       "Time": "2023-07-31T09:05:55.5892464+00:00",
       "NumProgressed": 4461,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-31T10:06:03.0711343+00:00",
+      "NumProgressed": 4463,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -7218,9 +7223,9 @@
       "ID": "ACH_DONTPANIC",
       "SetID": "1p8ab95",
       "Name": "Don\u0027t Panic!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -7308,7 +7313,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2007
+      "UsersEstimate": 2008
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -7316,7 +7321,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -7348,7 +7353,7 @@
       "Name": "Apocalypso",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -7372,7 +7377,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3346
+      "UsersEstimate": 3347
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -7468,7 +7473,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -7531,15 +7536,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4461,
+      "Progressed": 4463,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-29T23:00:35.7289146+00:00",
-  "LastChanged_Achievements": "2023-07-31T09:05:55.5892457+00:00",
+  "LastChanged_Achievements": "2023-07-31T10:06:03.0711339+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:19.2698244+00:00",
-  "LastUpdate_Ratings": "2023-07-31T09:00:47.2941269+00:00",
-  "LastUpdate_Achievements": "2023-07-31T09:05:55.5893819+00:00"
+  "LastUpdate_Ratings": "2023-07-31T10:00:48.5865816+00:00",
+  "LastUpdate_Achievements": "2023-07-31T10:06:03.0711862+00:00"
 }

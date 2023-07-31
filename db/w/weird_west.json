@@ -325,7 +325,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1761,
+  "EOS_Progressed": 1762,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
@@ -1630,6 +1630,11 @@
       "Time": "2023-07-31T07:04:48.3720542+00:00",
       "NumProgressed": 1761,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-31T10:05:11.0073351+00:00",
+      "NumProgressed": 1762,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1641,7 +1646,7 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -1817,7 +1822,7 @@
       "Name": "Loyalty to the Pack",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_MAN_IN_BLACK",
@@ -1865,15 +1870,15 @@
       "Name": "Mystery Machine",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_OFF_THE_TRAIL",
       "SetID": "8j30i9k",
       "Name": "Off the Trail",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 599
+      "UsersEstimate": 581
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1937,7 +1942,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2017,7 +2022,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2064,15 +2069,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1761,
+      "Progressed": 1762,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-31T09:05:03.0506685+00:00",
+  "LastChanged_Achievements": "2023-07-31T10:05:11.0073346+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.150321+00:00",
-  "LastUpdate_Ratings": "2023-07-31T08:59:09.7762263+00:00",
-  "LastUpdate_Achievements": "2023-07-31T09:05:03.0507343+00:00"
+  "LastUpdate_Ratings": "2023-07-31T09:59:07.4602462+00:00",
+  "LastUpdate_Achievements": "2023-07-31T10:05:11.0073772+00:00"
 }

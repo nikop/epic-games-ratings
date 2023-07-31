@@ -67,7 +67,7 @@ Rating: 4.10 (Ranked 897)
 | Mythic Power | 1.00% | ~17 |
 | Training makes a Pro player | 0.90% | ~16 |
 | Cauldron Liberator | 0.80% | ~14 |
-| Transmute | 0.70% | ~12 |
+| Transmute | 0.80% | ~14 |
 | Titan Power | 0.60% | ~10 |
 | Tree of Life | 0.60% | ~10 |
 | Beast War Machines | 0.50% | ~9 |

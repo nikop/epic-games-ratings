@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 295,
+  "EOS_Progressed": 296,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -682,6 +682,11 @@
       "Time": "2023-07-31T04:02:42.6770759+00:00",
       "NumProgressed": 295,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T10:00:59.0337735+00:00",
+      "NumProgressed": 296,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -829,7 +834,7 @@
       "Name": "Need a Consult",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ach_consultant_1",
@@ -837,7 +842,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ach_consultants_a",
@@ -899,9 +904,9 @@
       "ID": "ach_deco",
       "SetID": "b8gh1fi",
       "Name": "Proper Walls",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 92
     },
     {
       "ID": "ach_drones",
@@ -997,7 +1002,7 @@
       "Name": "Starting Skyward",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ach_floors_1",
@@ -1037,7 +1042,7 @@
       "Name": "Delegate Maintenance",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ach_grime_2",
@@ -1085,7 +1090,7 @@
       "Name": "28 Days Later",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_office_1",
@@ -1093,7 +1098,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ach_office_2",
@@ -1157,7 +1162,7 @@
       "Name": "In the Black",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ach_profit_1",
@@ -1165,7 +1170,7 @@
       "Name": "Swimming in Surplus",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_profit_2",
@@ -1396,7 +1401,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 295,
+      "Progressed": 296,
       "Completed": 0
     }
   ],
@@ -1404,8 +1409,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-31T08:02:04.5450736+00:00",
+  "LastChanged_Achievements": "2023-07-31T10:00:59.033772+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:50.6819272+00:00",
-  "LastUpdate_Ratings": "2023-07-31T08:58:41.1074979+00:00",
-  "LastUpdate_Achievements": "2023-07-31T08:02:04.545166+00:00"
+  "LastUpdate_Ratings": "2023-07-31T09:58:40.2521718+00:00",
+  "LastUpdate_Achievements": "2023-07-31T10:00:59.0348624+00:00"
 }

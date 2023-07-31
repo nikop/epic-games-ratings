@@ -33,19 +33,19 @@
 | Handyman | 53.00% | ~103 |
 | Employee of the year | 53.00% | ~103 |
 | Fight for life | 51.00% | ~99 |
-| Legal courier | 48.00% | ~93 |
+| Legal courier | 49.00% | ~95 |
 | Extreme neuropower! | 48.00% | ~93 |
 | Escaped from a big trouble | 46.00% | ~89 |
 | Your own way | 46.00% | ~89 |
 | Now you are worthy | 45.00% | ~87 |
 | No blades in the gym | 43.00% | ~83 |
-| Guiding on the right path | 42.00% | ~81 |
+| Guiding on the right path | 43.00% | ~83 |
 | Fight is life | 41.00% | ~80 |
 | Mysterious voice | 41.00% | ~80 |
+| GYM professional | 35.00% | ~68 |
 | Get out of my apartment! | 35.00% | ~68 |
 | Underground dwellers | 35.00% | ~68 |
 | Responsible approach | 35.00% | ~68 |
-| GYM professional | 34.00% | ~66 |
 | Deal with life | 33.00% | ~64 |
 | Champion – no way back | 33.00% | ~64 |
 | Poisoned fighter | 32.00% | ~62 |
@@ -56,10 +56,10 @@
 | Gang wrangler | 29.00% | ~56 |
 | Problems of cyborgs | 29.00% | ~56 |
 | The last bell ring | 29.00% | ~56 |
+| Absolute Champion! | 28.00% | ~54 |
 | Careerist | 28.00% | ~54 |
 | Trap disarmed | 27.00% | ~52 |
 | Not little hacker | 27.00% | ~52 |
-| Absolute Champion! | 27.00% | ~52 |
 | Anyone can resist | 27.00% | ~52 |
 | Another world | 25.00% | ~48 |
 | The lonesome road | 25.00% | ~48 |

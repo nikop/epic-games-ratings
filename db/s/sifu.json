@@ -5448,9 +5448,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711914,
+  "EOS_Progressed": 711917,
   "EOS_Completed": 12836,
-  "EOS_NewPlayers": 553,
+  "EOS_NewPlayers": 552,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -15108,6 +15108,11 @@
       "Time": "2023-07-31T09:06:50.0273502+00:00",
       "NumProgressed": 711914,
       "NumCompleted": 12836
+    },
+    {
+      "Time": "2023-07-31T10:06:51.68173+00:00",
+      "NumProgressed": 711917,
+      "NumCompleted": 12836
     }
   ],
   "TotalAchievements": 50,
@@ -15199,7 +15204,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 4271
+      "UsersEstimate": 4272
     },
     {
       "ID": "12_MidAge",
@@ -15335,7 +15340,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 4271
+      "UsersEstimate": 4272
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -15375,7 +15380,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4271
+      "UsersEstimate": 4272
     },
     {
       "ID": "34_TimedTakedown",
@@ -15518,21 +15523,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21215,
+      "Progressed": 21218,
       "Completed": 10465
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711914,
+      "Progressed": 711917,
       "Completed": 12836
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-31T07:59:19.3490159+00:00",
-  "LastChanged_Achievements": "2023-07-31T09:06:50.0273496+00:00",
+  "LastChanged_Achievements": "2023-07-31T10:06:51.6817296+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:51.4583284+00:00",
-  "LastUpdate_Ratings": "2023-07-31T08:59:37.3000317+00:00",
-  "LastUpdate_Achievements": "2023-07-31T09:06:50.0274749+00:00"
+  "LastUpdate_Ratings": "2023-07-31T09:59:33.5105338+00:00",
+  "LastUpdate_Achievements": "2023-07-31T10:06:51.6818216+00:00"
 }

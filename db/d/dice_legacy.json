@@ -1540,9 +1540,9 @@
       "ID": "WINMATCHWITH_SCIENTIST",
       "SetID": "6ohhfoc",
       "Name": "The Mad",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "WINMATCH_DIFF_EXTREME",
@@ -1597,8 +1597,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-07-31T09:04:44.3376024+00:00",
+  "LastChanged_Achievements": "2023-07-31T10:04:52.3878043+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:34.6009035+00:00",
-  "LastUpdate_Ratings": "2023-07-31T08:58:25.1767581+00:00",
-  "LastUpdate_Achievements": "2023-07-31T09:04:44.3376838+00:00"
+  "LastUpdate_Ratings": "2023-07-31T09:58:22.232257+00:00",
+  "LastUpdate_Achievements": "2023-07-31T10:04:52.3878381+00:00"
 }

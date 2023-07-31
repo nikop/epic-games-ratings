@@ -15,8 +15,8 @@
 | On Target | 12.00% | ~86 |
 | Stocking Up | 11.00% | ~79 |
 | Infantry Reporting | 11.00% | ~79 |
+| Fighting for Survival | 10.00% | ~72 |
 | Keeping Busy | 10.00% | ~72 |
-| Fighting for Survival | 9.00% | ~65 |
 | Silver Competitor | 8.00% | ~57 |
 | Captain | 8.00% | ~57 |
 | Factory Expansion | 8.00% | ~57 |

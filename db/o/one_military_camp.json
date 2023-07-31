@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -446,6 +446,11 @@
       "Time": "2023-07-31T09:04:20.6427195+00:00",
       "NumProgressed": 112,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T10:04:28.9099895+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -458,7 +463,7 @@
       "Name": "Jantine: the Misfortunes of Evil",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_ID_1",
@@ -506,7 +511,7 @@
       "Name": "Perfect Soldier",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_ID_15",
@@ -514,7 +519,7 @@
       "Name": "Outdoor Decorator",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_ID_16",
@@ -578,7 +583,7 @@
       "Name": "Desert Power",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_ID_23",
@@ -616,9 +621,9 @@
       "ID": "ACHIEVEMENT_ID_27",
       "SetID": "c504de6",
       "Name": "The 4 Pillars",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -664,9 +669,9 @@
       "ID": "ACHIEVEMENT_ID_32",
       "SetID": "c504de6",
       "Name": "Capitalism",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -674,7 +679,7 @@
       "Name": "Pathfinder",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_ID_34",
@@ -682,7 +687,7 @@
       "Name": "Self-sufficient",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_ID_35",
@@ -706,7 +711,7 @@
       "Name": "Medicine Tycoon",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_ID_38",
@@ -728,9 +733,9 @@
       "ID": "ACHIEVEMENT_ID_4",
       "SetID": "c504de6",
       "Name": "First Step",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -809,14 +814,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-07-31T09:04:20.6427188+00:00",
+  "LastChanged_Achievements": "2023-07-31T10:04:28.909989+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:38.0107995+00:00",
-  "LastUpdate_Ratings": "2023-07-31T08:59:25.2851273+00:00",
-  "LastUpdate_Achievements": "2023-07-31T09:04:20.6427665+00:00"
+  "LastUpdate_Ratings": "2023-07-31T09:59:21.7186361+00:00",
+  "LastUpdate_Achievements": "2023-07-31T10:04:28.9100227+00:00"
 }

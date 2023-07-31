@@ -11,8 +11,8 @@
 | Nanonic I | 14.00% | ~102 |
 | The City | 13.00% | ~94 |
 | Terminated II | 12.00% | ~87 |
-| Challenge Mastered | 10.00% | ~72 |
-| Terminated III | 10.00% | ~72 |
+| Challenge Mastered | 10.00% | ~73 |
+| Terminated III | 10.00% | ~73 |
 | Nanonic II | 8.00% | ~58 |
 | Supply Run | 7.00% | ~51 |
 | Starship Docks | 6.00% | ~44 |
@@ -24,8 +24,8 @@
 | Up Close And Personal | 4.00% | ~29 |
 | Eden Heights | 3.00% | ~22 |
 | Outer Core | 3.00% | ~22 |
-| Inner Core | 2.00% | ~14 |
-| Integration | 2.00% | ~14 |
+| Inner Core | 2.00% | ~15 |
+| Integration | 2.00% | ~15 |
 | Trickshot | 1.00% | ~7 |
 | Destruction | 0.70% | ~5 |
 | Ripperdoc | 0.60% | ~4 |
@@ -34,7 +34,7 @@
 | Weaponsmith | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725 (Ranked 205)  
+Progressed: 726 (Ranked 205)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,6 +114,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-26 | 723 | 0 |
 | 2023-07-28 | 724 | 0 |
 | 2023-07-30 | 725 | 0 |
+| 2023-07-31 | 726 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

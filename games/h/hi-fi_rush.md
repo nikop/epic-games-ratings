@@ -5,8 +5,8 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Feeling the beat! | 6.00% | ~219 |
 | Start with a bang! | 5.00% | ~182 |
-| Feeling the beat! | 5.00% | ~182 |
 | You can pet the cat! | 5.00% | ~182 |
 | Cream of the Crop | 4.00% | ~146 |
 | Thanks for the free chip, Peppermint! | 4.00% | ~146 |

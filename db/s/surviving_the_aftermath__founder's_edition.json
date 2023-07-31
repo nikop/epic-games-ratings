@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1151,7 +1151,7 @@
   ],
   "EOS_Progressed": 7889,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9506,9 +9506,9 @@
       "ID": "15",
       "SetID": "8idi9ml",
       "Name": "Legendary Explorer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2130
+      "UsersEstimate": 2209
     },
     {
       "ID": "16",
@@ -9938,8 +9938,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-07-28T17:01:39.5992751+00:00",
-  "LastChanged_Achievements": "2023-07-31T09:05:47.407772+00:00",
+  "LastChanged_Achievements": "2023-07-31T10:05:54.7659828+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:46.4035157+00:00",
-  "LastUpdate_Ratings": "2023-07-31T09:00:27.49418+00:00",
-  "LastUpdate_Achievements": "2023-07-31T09:05:47.4079951+00:00"
+  "LastUpdate_Ratings": "2023-07-31T10:00:27.1228059+00:00",
+  "LastUpdate_Achievements": "2023-07-31T10:05:54.7660676+00:00"
 }
