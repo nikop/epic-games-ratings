@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 34588,
+  "EOS_Progressed": 34589,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 499,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10910,6 +10910,11 @@
       "Time": "2023-07-31T02:02:59.5198006+00:00",
       "NumProgressed": 34588,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-31T04:04:33.563257+00:00",
+      "NumProgressed": 34589,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -10919,9 +10924,9 @@
       "ID": "ach_abysschange",
       "SetID": "ammcm",
       "Name": "A zee-change",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 277
     },
     {
       "ID": "ach_abysslady",
@@ -11352,15 +11357,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 34588,
+      "Progressed": 34589,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-07-31T03:04:09.1107039+00:00",
+  "LastChanged_Achievements": "2023-07-31T04:04:33.5632543+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:30.3882701+00:00",
-  "LastUpdate_Ratings": "2023-07-31T03:01:05.6325997+00:00",
-  "LastUpdate_Achievements": "2023-07-31T03:04:09.1107897+00:00"
+  "LastUpdate_Ratings": "2023-07-31T04:01:26.7202312+00:00",
+  "LastUpdate_Achievements": "2023-07-31T04:04:33.5633517+00:00"
 }

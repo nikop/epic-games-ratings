@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -850,9 +850,9 @@
       "ID": "handyman",
       "SetID": "69co12a",
       "Name": "Handyman",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "huey_win",
@@ -938,9 +938,9 @@
       "ID": "mike_resurect",
       "SetID": "69co12a",
       "Name": "It\u0027s good to be alive",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "mysterious_voice",
@@ -1090,9 +1090,9 @@
       "ID": "trainer_promotion_1",
       "SetID": "69co12a",
       "Name": "Escaped from a big trouble",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "trainer_promotion_2",
@@ -1138,17 +1138,17 @@
       "ID": "work_promotion_2",
       "SetID": "69co12a",
       "Name": "Employee of the month",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "work_promotion_3",
       "SetID": "69co12a",
       "Name": "Employee of the year",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     }
   ],
   "AchievementSets": [
@@ -1161,8 +1161,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-07-31T03:03:06.9145786+00:00",
+  "LastChanged_Achievements": "2023-07-31T04:03:26.6098452+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:10.4822993+00:00",
-  "LastUpdate_Ratings": "2023-07-31T02:58:17.0441425+00:00",
-  "LastUpdate_Achievements": "2023-07-31T03:03:06.9146346+00:00"
+  "LastUpdate_Ratings": "2023-07-31T03:58:25.0077905+00:00",
+  "LastUpdate_Achievements": "2023-07-31T04:03:26.6099192+00:00"
 }

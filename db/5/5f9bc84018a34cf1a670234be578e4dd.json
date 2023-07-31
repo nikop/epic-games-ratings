@@ -287,17 +287,17 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "FallDeath",
       "SetID": "7jbi7el",
       "Name": "Accident",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "FirstBox",
@@ -335,25 +335,25 @@
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 70,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Screwdriver",
@@ -390,8 +390,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-07-31T03:04:43.0209933+00:00",
+  "LastChanged_Achievements": "2023-07-31T04:05:29.3587956+00:00",
   "LastUpdate_AppInfo": "2023-07-25T16:57:15.3733483+00:00",
-  "LastUpdate_Ratings": "2023-07-31T02:57:14.4298416+00:00",
-  "LastUpdate_Achievements": "2023-07-31T03:04:43.0210036+00:00"
+  "LastUpdate_Ratings": "2023-07-31T03:57:22.8938868+00:00",
+  "LastUpdate_Achievements": "2023-07-31T04:05:29.3588093+00:00"
 }

@@ -1,38 +1,38 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 602)  
+Rating: 4.47 (Ranked 603)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~366,612 |
-| Now You're Talking | 62.00% | ~324,714 |
-| Steel Yourself | 62.00% | ~324,714 |
-| Window Dressing | 50.00% | ~261,866 |
-| Trigger Happy | 46.00% | ~240,917 |
-| Riverborn | 45.00% | ~235,679 |
-| Starry Eyed | 34.00% | ~178,069 |
-| Poking Around | 34.00% | ~178,069 |
-| Talk of the Town | 24.00% | ~125,696 |
-| AAARR! | 23.00% | ~120,458 |
-| Hello Darkness | 23.00% | ~120,458 |
-| Wind At Our Backs | 22.00% | ~115,221 |
-| To the Beat | 20.00% | ~104,746 |
-| Sunny Shores | 17.00% | ~89,034 |
-| Sunday Best | 16.00% | ~83,797 |
-| To Victory! | 15.00% | ~78,560 |
-| Two of a Kind | 14.00% | ~73,322 |
-| Keep On Trucking | 13.00% | ~68,085 |
+| First Step | 70.00% | ~366,616 |
+| Now You're Talking | 62.00% | ~324,717 |
+| Steel Yourself | 62.00% | ~324,717 |
+| Window Dressing | 50.00% | ~261,868 |
+| Trigger Happy | 46.00% | ~240,919 |
+| Riverborn | 45.00% | ~235,682 |
+| Starry Eyed | 34.00% | ~178,071 |
+| Poking Around | 34.00% | ~178,071 |
+| Talk of the Town | 24.00% | ~125,697 |
+| AAARR! | 23.00% | ~120,460 |
+| Hello Darkness | 23.00% | ~120,460 |
+| Wind At Our Backs | 22.00% | ~115,222 |
+| To the Beat | 20.00% | ~104,747 |
+| Sunny Shores | 17.00% | ~89,035 |
+| Sunday Best | 16.00% | ~83,798 |
+| To Victory! | 15.00% | ~78,561 |
+| Two of a Kind | 14.00% | ~73,323 |
+| Keep On Trucking | 13.00% | ~68,086 |
 | Going on an Adventure | 11.00% | ~57,611 |
 | Make Peace, Not War | 11.00% | ~57,611 |
-| Walking The Line | 10.00% | ~52,373 |
-| Not So Cute Anymore | 10.00% | ~52,373 |
+| Walking The Line | 10.00% | ~52,374 |
+| Not So Cute Anymore | 10.00% | ~52,374 |
 | Road Less Travelled | 9.00% | ~47,136 |
 | Lost and Found | 9.00% | ~47,136 |
-| Partner in Crime | 7.00% | ~36,661 |
-| Hard to Hear | 7.00% | ~36,661 |
-| Under the Radar | 7.00% | ~36,661 |
+| Partner in Crime | 7.00% | ~36,662 |
+| Hard to Hear | 7.00% | ~36,662 |
+| Under the Radar | 7.00% | ~36,662 |
 | Moving On Up | 6.00% | ~31,424 |
 | Owl Knows Best | 6.00% | ~31,424 |
 | Mind the Moose | 6.00% | ~31,424 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,571 |
 | Point Taken | 0.10% | ~524 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523,732 (Ranked 30)  
+Progressed: 523,737 (Ranked 30)  
 Completed: 453 (0.09%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 453 (0.09%) (Ranked 196)
 | 2023-07-28 | 523,476 | 452 |
 | 2023-07-29 | 523,594 | 452 |
 | 2023-07-30 | 523,720 | 453 |
-| 2023-07-31 | 523,732 | 453 |
+| 2023-07-31 | 523,737 | 453 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

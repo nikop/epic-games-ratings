@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 612,
+  "Ranking_Rating": 613,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 109,
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16638,
+  "EOS_Progressed": 16639,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.07,
   "EosHistory": [
@@ -11084,6 +11084,11 @@
       "Time": "2023-07-31T03:05:01.2017395+00:00",
       "NumProgressed": 16638,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2023-07-31T04:05:48.5668413+00:00",
+      "NumProgressed": 16639,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 20,
@@ -11095,7 +11100,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2829
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -11119,7 +11124,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -11215,7 +11220,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12645
+      "UsersEstimate": 12646
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -11254,15 +11259,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 16638,
+      "Progressed": 16639,
       "Completed": 345
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-31T03:05:01.2017389+00:00",
+  "LastChanged_Achievements": "2023-07-31T04:05:48.5668408+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:59.0842389+00:00",
-  "LastUpdate_Ratings": "2023-07-31T03:01:30.6002839+00:00",
-  "LastUpdate_Achievements": "2023-07-31T03:05:01.2018001+00:00"
+  "LastUpdate_Ratings": "2023-07-31T04:01:54.7556278+00:00",
+  "LastUpdate_Achievements": "2023-07-31T04:05:48.5669358+00:00"
 }

@@ -9677,9 +9677,9 @@
       "Count": 5454
     }
   ],
-  "EOS_Progressed": 868537,
+  "EOS_Progressed": 868540,
   "EOS_Completed": 1919,
-  "EOS_NewPlayers": 1209,
+  "EOS_NewPlayers": 1204,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20747,6 +20747,11 @@
       "Time": "2023-07-31T03:04:26.2421383+00:00",
       "NumProgressed": 868537,
       "NumCompleted": 1919
+    },
+    {
+      "Time": "2023-07-31T04:04:51.7289972+00:00",
+      "NumProgressed": 868540,
+      "NumCompleted": 1919
     }
   ],
   "TotalAchievements": 44,
@@ -20790,7 +20795,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 338729
+      "UsersEstimate": 338731
     },
     {
       "ID": "FollowingTheRiver",
@@ -20806,7 +20811,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 78168
+      "UsersEstimate": 78169
     },
     {
       "ID": "Gearhead",
@@ -20854,7 +20859,7 @@
       "Name": "I Am The Law",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 121595
+      "UsersEstimate": 121596
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -20878,7 +20883,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 191078
+      "UsersEstimate": 191079
     },
     {
       "ID": "MaxPain",
@@ -20886,7 +20891,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 78168
+      "UsersEstimate": 78169
     },
     {
       "ID": "MustBeTheRats",
@@ -20894,7 +20899,7 @@
       "Name": "Must Be Rats",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 34741
+      "UsersEstimate": 34742
     },
     {
       "ID": "NeverFadeAway",
@@ -20926,7 +20931,7 @@
       "Name": "Life of the Road",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 173707
+      "UsersEstimate": 173708
     },
     {
       "ID": "Roleplayer",
@@ -20934,7 +20939,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 243190
+      "UsersEstimate": 243191
     },
     {
       "ID": "Specialist",
@@ -20950,7 +20955,7 @@
       "Name": "Temperance",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 34741
+      "UsersEstimate": 34742
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -20974,7 +20979,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 590605
+      "UsersEstimate": 590607
     },
     {
       "ID": "TheHermit",
@@ -20982,7 +20987,7 @@
       "Name": "The Hermit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 208449
+      "UsersEstimate": 208450
     },
     {
       "ID": "TheHightPriestess",
@@ -20998,7 +21003,7 @@
       "Name": "The Lovers",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 295303
+      "UsersEstimate": 295304
     },
     {
       "ID": "TheStar",
@@ -21022,7 +21027,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 234505
+      "UsersEstimate": 234506
     },
     {
       "ID": "TheWorld",
@@ -21078,7 +21083,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 121595
+      "UsersEstimate": 121596
     },
     {
       "ID": "VForVendetta",
@@ -21109,15 +21114,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 868537,
+      "Progressed": 868540,
       "Completed": 1919
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-07-31T02:58:49.7155843+00:00",
-  "LastChanged_Achievements": "2023-07-31T03:04:26.2421378+00:00",
+  "LastChanged_Achievements": "2023-07-31T04:04:51.7289966+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.8722173+00:00",
-  "LastUpdate_Ratings": "2023-07-31T02:58:49.7155854+00:00",
-  "LastUpdate_Achievements": "2023-07-31T03:04:26.2422151+00:00"
+  "LastUpdate_Ratings": "2023-07-31T03:58:58.7426548+00:00",
+  "LastUpdate_Achievements": "2023-07-31T04:04:51.7291206+00:00"
 }

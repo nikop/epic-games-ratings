@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -6159,10 +6159,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 50254,
       "NumberOfAwardsMax": 6380
+    },
+    {
+      "Time": "2023-07-31T04:02:19.5966168+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 50255,
+      "NumberOfAwardsMax": 6380
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50254,
+  "NumberOfAwards": 50255,
   "NumberOfAwardsMax": 6380,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -6206,7 +6212,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 5824
+      "Count": 5825
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6233,7 +6239,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 468657,
+  "EOS_Progressed": 468658,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 718,
   "EOS_NewCompleters": 0,
@@ -16808,6 +16814,11 @@
       "Time": "2023-07-31T03:05:28.4206724+00:00",
       "NumProgressed": 468657,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-31T04:06:19.0237584+00:00",
+      "NumProgressed": 468658,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 98,
@@ -17115,7 +17126,7 @@
       "Name": "Irresistible Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 93731
+      "UsersEstimate": 93732
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -17139,7 +17150,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 192149
+      "UsersEstimate": 192150
     },
     {
       "ID": "achievement_head_to_head",
@@ -17251,7 +17262,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 149970
+      "UsersEstimate": 149971
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -17259,7 +17270,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 93731
+      "UsersEstimate": 93732
     },
     {
       "ID": "achievement_pick_feeder",
@@ -17323,7 +17334,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 149970
+      "UsersEstimate": 149971
     },
     {
       "ID": "achievement_rushed_signing",
@@ -17363,7 +17374,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 224955
+      "UsersEstimate": 224956
     },
     {
       "ID": "achievement_signed_a_player",
@@ -17371,7 +17382,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 234328
+      "UsersEstimate": 234329
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -17419,7 +17430,7 @@
       "Name": "Comeback King!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 60925
+      "UsersEstimate": 60926
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -17451,7 +17462,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 234328
+      "UsersEstimate": 234329
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -17475,7 +17486,7 @@
       "Name": "You\u0027re Up!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 60925
+      "UsersEstimate": 60926
     },
     {
       "ID": "achievement_won_world_cup",
@@ -17602,15 +17613,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 468657,
+      "Progressed": 468658,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-07-31T01:59:42.0147704+00:00",
-  "LastChanged_Achievements": "2023-07-31T03:05:28.4206717+00:00",
+  "LastChanged": "2023-07-31T04:02:19.5966166+00:00",
+  "LastChanged_Achievements": "2023-07-31T04:06:19.0237576+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:22.7097853+00:00",
-  "LastUpdate_Ratings": "2023-07-31T03:01:52.5717542+00:00",
-  "LastUpdate_Achievements": "2023-07-31T03:05:28.4208123+00:00"
+  "LastUpdate_Ratings": "2023-07-31T04:02:19.5966173+00:00",
+  "LastUpdate_Achievements": "2023-07-31T04:06:19.0239432+00:00"
 }

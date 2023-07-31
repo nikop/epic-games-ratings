@@ -21,23 +21,23 @@
 | No bullying more | 67.00% | ~129 |
 | Fighting is cool | 65.00% | ~125 |
 | Pal of your father? | 63.00% | ~122 |
+| Employee of the month | 61.00% | ~118 |
 | Spirit of the past | 60.00% | ~116 |
-| Employee of the month | 60.00% | ~116 |
 | Law student | 59.00% | ~114 |
 | Intriguing candies | 57.00% | ~110 |
 | Workout professional | 55.00% | ~106 |
 | Little hacker | 54.00% | ~104 |
 | Champion – starter pack | 54.00% | ~104 |
-| It's good to be alive | 53.00% | ~102 |
+| It's good to be alive | 54.00% | ~104 |
+| Handyman | 53.00% | ~102 |
 | Own four walls | 53.00% | ~102 |
-| Handyman | 52.00% | ~100 |
-| Employee of the year | 52.00% | ~100 |
+| Employee of the year | 53.00% | ~102 |
 | Fight for life | 51.00% | ~98 |
 | Legal courier | 48.00% | ~93 |
 | Extreme neuropower! | 47.00% | ~91 |
 | Your own way | 47.00% | ~91 |
+| Escaped from a big trouble | 46.00% | ~89 |
 | Now you are worthy | 45.00% | ~87 |
-| Escaped from a big trouble | 45.00% | ~87 |
 | No blades in the gym | 43.00% | ~83 |
 | Guiding on the right path | 41.00% | ~79 |
 | Fight is life | 40.00% | ~77 |

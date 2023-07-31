@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,518 |
+| A Brief Tour of the Realms | 3.00% | ~6,519 |
 | Maddening | 2.00% | ~4,346 |
 | Beast Intentions | 2.00% | ~4,346 |
 | The Silken Swamp | 1.00% | ~2,173 |
@@ -14,7 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 1.00% | ~1,836 |
 | Vecna Lives! | 0.90% | ~1,652 |
 | Rock and Roll | 0.90% | ~1,652 |
-| Flight of the Kindori Pod | 0.80% | ~1,468 |
+| Flight of the Kindori Pod | 0.80% | ~1,469 |
 | Tall Tales | 0.70% | ~1,285 |
 | Seeds of Destruction | 0.70% | ~1,285 |
 | Vecna Loots! | 0.70% | ~1,285 |
@@ -35,12 +35,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.50% | ~1,086 |
 | A Persistent Buzzing | 0.50% | ~1,086 |
 | Beast Mode | 0.50% | ~1,086 |
+| Low Initiative | 0.50% | ~1,086 |
 | A Mysterious Summons | 0.50% | ~1,086 |
 | Building Trust | 0.50% | ~1,086 |
 | No Time To Rest | 0.50% | ~1,086 |
 | The Mists of Ravenloft | 0.50% | ~1,086 |
 | The Dinner Party | 0.50% | ~1,086 |
 | The Botched Kidnapping | 0.50% | ~1,086 |
+| The Cursed Farmer | 0.50% | ~1,086 |
 | The Mad Wizard | 0.50% | ~1,086 |
 | Not That Type of Helm! | 0.50% | ~918 |
 | Calcryx Tricks | 0.50% | ~918 |
@@ -52,12 +54,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | On the Hunt | 0.40% | ~869 |
 | A Demi-god's Defender | 0.40% | ~734 |
 | Friends of the Forest | 0.40% | ~869 |
-| Low Initiative | 0.40% | ~869 |
 | Street War | 0.40% | ~869 |
 | March of the Undead | 0.40% | ~869 |
 | Invisible Shadows | 0.40% | ~869 |
 | Family Entanglements | 0.40% | ~869 |
-| The Cursed Farmer | 0.40% | ~869 |
 | The Ring of Regeneration | 0.40% | ~869 |
 | Luigi After Hours | 0.40% | ~734 |
 | Electric Mayhem | 0.40% | ~734 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,281 (Ranked 53)  
-Completed: 2,137 (0.98%) (Ranked 112)  
+Progressed: 217,292 (Ranked 53)  
+Completed: 2,138 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -621,7 +621,7 @@ Completed: 2,137 (0.98%) (Ranked 112)
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
-| 2023-07-31 | 217,281 | 2,137 |
+| 2023-07-31 | 217,292 | 2,138 |
 ## Awards
 Max (Diverse Characters): 5,106  (Ranked 67)  
 Sum: 30,819 (Ranked 38)  

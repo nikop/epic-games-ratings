@@ -4,8 +4,8 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 49,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -598,9 +598,9 @@
       "ID": "questAntiquities",
       "SetID": "ci65fo0",
       "Name": "Antiquities expert",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "questBadNews",
@@ -875,8 +875,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-31T03:04:43.8808258+00:00",
+  "LastChanged_Achievements": "2023-07-31T04:05:30.3656238+00:00",
   "LastUpdate_AppInfo": "2023-07-26T10:57:01.3631939+00:00",
-  "LastUpdate_Ratings": "2023-07-31T02:57:28.002787+00:00",
-  "LastUpdate_Achievements": "2023-07-31T03:04:43.8808891+00:00"
+  "LastUpdate_Ratings": "2023-07-31T03:57:36.9268395+00:00",
+  "LastUpdate_Achievements": "2023-07-31T04:05:30.3657106+00:00"
 }

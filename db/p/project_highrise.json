@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 294,
+  "EOS_Progressed": 295,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -677,6 +677,11 @@
       "Time": "2023-07-30T18:02:18.0710465+00:00",
       "NumProgressed": 294,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T04:02:42.6770759+00:00",
+      "NumProgressed": 295,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -838,9 +843,9 @@
       "ID": "ach_consultants_a",
       "SetID": "b8gh1fi",
       "Name": "Aestheticly Pleased",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_consultants_b",
@@ -1022,9 +1027,9 @@
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 136
     },
     {
       "ID": "ach_grime_1",
@@ -1102,9 +1107,9 @@
       "ID": "ach_plaza",
       "SetID": "b8gh1fi",
       "Name": "Plaza Plan",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_pop_1",
@@ -1120,7 +1125,7 @@
       "Name": "Master of Puppets",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_prestige_1",
@@ -1152,7 +1157,7 @@
       "Name": "In the Black",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ach_profit_1",
@@ -1190,9 +1195,9 @@
       "ID": "ach_restaurants_1",
       "SetID": "b8gh1fi",
       "Name": "Refined Palates",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_restaurants_2",
@@ -1350,9 +1355,9 @@
       "ID": "ach_util_phone",
       "SetID": "b8gh1fi",
       "Name": "Phoning It In",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_util_power",
@@ -1384,14 +1389,14 @@
       "Name": "Destination Destiny",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 294,
+      "Progressed": 295,
       "Completed": 0
     }
   ],
@@ -1399,8 +1404,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-31T03:02:13.1755637+00:00",
+  "LastChanged_Achievements": "2023-07-31T04:02:42.6770751+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:50.6819272+00:00",
-  "LastUpdate_Ratings": "2023-07-31T02:58:54.2190611+00:00",
-  "LastUpdate_Achievements": "2023-07-31T03:02:13.1756543+00:00"
+  "LastUpdate_Ratings": "2023-07-31T03:59:05.4889326+00:00",
+  "LastUpdate_Achievements": "2023-07-31T04:02:42.6771883+00:00"
 }

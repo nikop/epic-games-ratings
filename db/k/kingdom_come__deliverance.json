@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -6258,9 +6258,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 794979,
+  "EOS_Progressed": 794980,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1059,
+  "EOS_NewPlayers": 1056,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17258,6 +17258,11 @@
       "Time": "2023-07-31T03:04:29.3063339+00:00",
       "NumProgressed": 794979,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-07-31T04:05:14.9590877+00:00",
+      "NumProgressed": 794980,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -17349,7 +17354,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 246443
+      "UsersEstimate": 246444
     },
     {
       "ID": "Bookworm",
@@ -17365,7 +17370,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 95397
+      "UsersEstimate": 95398
     },
     {
       "ID": "Casanova",
@@ -17845,7 +17850,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 95397
+      "UsersEstimate": 95398
     },
     {
       "ID": "TisButAScratch",
@@ -17924,15 +17929,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 794979,
+      "Progressed": 794980,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-07-30T22:59:31.9560242+00:00",
-  "LastChanged_Achievements": "2023-07-31T03:04:29.3063335+00:00",
+  "LastChanged_Achievements": "2023-07-31T04:05:14.9590867+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:16.6403338+00:00",
-  "LastUpdate_Ratings": "2023-07-31T02:59:26.1049613+00:00",
-  "LastUpdate_Achievements": "2023-07-31T03:04:29.3064551+00:00"
+  "LastUpdate_Ratings": "2023-07-31T03:59:38.5971495+00:00",
+  "LastUpdate_Achievements": "2023-07-31T04:05:14.9593074+00:00"
 }

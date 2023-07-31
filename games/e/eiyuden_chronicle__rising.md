@@ -1,7 +1,7 @@
 # Eiyuden Chronicle: Rising
 [Store](https://store.epicgames.com/en-US/p/eiyuden-chronicle-rising)  
 [View Rawdata](../../db/e/eiyuden_chronicle__rising.json)  
-Rating: 4.48 (Ranked 588)  
+Rating: 4.48 (Ranked 589)  
 Number of Ratings: 48  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,8 +9,8 @@ Number of Ratings: 48  (23.09.2022)
 | Plenty More to Go | 88.00% | ~599 |
 | All Bark, No Bite | 77.00% | ~524 |
 | Hopeful Hunter | 67.00% | ~456 |
+| The Road to Recovery | 64.00% | ~436 |
 | Amateur Adventurer | 64.00% | ~436 |
-| The Road to Recovery | 63.00% | ~429 |
 | Partners? | 62.00% | ~422 |
 | Magical Mineral Golem | 55.00% | ~375 |
 | On Outlander Lane | 55.00% | ~375 |

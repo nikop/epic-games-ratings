@@ -5,31 +5,31 @@ Rating: 4.67 (Ranked 258)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,590 |
-| Mods Please Ban | 77.00% | ~18,174 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,938 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,229 |
-| First Bounty Down | 59.00% | ~13,925 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,453 |
-| Luglox Genocide | 43.00% | ~10,149 |
+| Eye Scream, You Scream | 83.00% | ~19,591 |
+| Mods Please Ban | 77.00% | ~18,175 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,939 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,231 |
+| First Bounty Down | 59.00% | ~13,926 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,454 |
+| Luglox Genocide | 43.00% | ~10,150 |
 | Playing Card To Get | 33.00% | ~7,789 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,789 |
 | Creature Feature | 29.00% | ~6,845 |
 | Satisfied Gus-tomer | 28.00% | ~6,609 |
 | Cold-Blooded Driller | 28.00% | ~6,609 |
-| Are You Packin'? | 25.00% | ~5,900 |
-| G3 Graduation | 25.00% | ~5,900 |
-| RIP Davey Glutes | 24.00% | ~5,664 |
-| Sweezy Like Sunday Morning | 24.00% | ~5,664 |
-| Hardest Battle In The Game | 22.00% | ~5,192 |
-| Series Wrap on Suit-O | 22.00% | ~5,192 |
-| Lezduit! | 20.00% | ~4,720 |
-| Who's The Boss? | 20.00% | ~4,720 |
-| Self-Actualization | 19.00% | ~4,484 |
-| Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,484 |
-| Legendary Bounty Hunter | 18.00% | ~4,248 |
-| Seeing All The Sights | 16.00% | ~3,776 |
-| Carried Stan's Load To Completion | 13.00% | ~3,068 |
+| Are You Packin'? | 25.00% | ~5,901 |
+| G3 Graduation | 25.00% | ~5,901 |
+| RIP Davey Glutes | 24.00% | ~5,665 |
+| Sweezy Like Sunday Morning | 24.00% | ~5,665 |
+| Hardest Battle In The Game | 22.00% | ~5,193 |
+| Series Wrap on Suit-O | 22.00% | ~5,193 |
+| Lezduit! | 20.00% | ~4,721 |
+| Who's The Boss? | 20.00% | ~4,721 |
+| Self-Actualization | 19.00% | ~4,485 |
+| Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,485 |
+| Legendary Bounty Hunter | 18.00% | ~4,249 |
+| Seeing All The Sights | 16.00% | ~3,777 |
+| Carried Stan's Load To Completion | 13.00% | ~3,069 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,832 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,124 |
 | Sequel-Bait | 8.00% | ~1,888 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 258)
 | Epic Legendary Prize | 1.00% | ~236 |
 | A Starfish Is Born | 1.00% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,602 (Ranked 102)  
+Progressed: 23,604 (Ranked 102)  
 Completed: 10 (0.04%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 10 (0.04%) (Ranked 216)
 | 2023-07-28 | 23,481 | 9 |
 | 2023-07-29 | 23,537 | 10 |
 | 2023-07-30 | 23,596 | 10 |
-| 2023-07-31 | 23,602 | 10 |
+| 2023-07-31 | 23,604 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

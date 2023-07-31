@@ -17,10 +17,10 @@ Rating: 4.77 (Ranked 107)
 | Loom for Improvement | 9.00% | ~26,011 |
 | A Talent for Spending | 9.00% | ~26,011 |
 | Coasting Along | 9.00% | ~26,011 |
-| The Hero of Hogwarts | 8.00% | ~23,120 |
-| Challenge Accepted | 8.00% | ~23,120 |
-| Followed the Butterflies | 8.00% | ~23,120 |
-| Rising From the Ashes | 8.00% | ~23,120 |
+| The Hero of Hogwarts | 8.00% | ~23,121 |
+| Challenge Accepted | 8.00% | ~23,121 |
+| Followed the Butterflies | 8.00% | ~23,121 |
+| Rising From the Ashes | 8.00% | ~23,121 |
 | The Avenging Gazelle | 7.00% | ~20,230 |
 | A Sallow Grave | 7.00% | ~20,230 |
 | Flight the Good Flight | 7.00% | ~20,230 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.60% | ~1,734 |
 | Collector's Edition | 0.20% | ~578 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,006 (Ranked 42)  
+Progressed: 289,007 (Ranked 42)  
 Completed: 437 (0.15%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 437 (0.15%) (Ranked 181)
 | 2023-07-28 | 288,784 | 435 |
 | 2023-07-29 | 288,881 | 436 |
 | 2023-07-30 | 288,994 | 437 |
-| 2023-07-31 | 289,006 | 437 |
+| 2023-07-31 | 289,007 | 437 |
 ## Awards
 Max (Character Customization): 21,416  (Ranked 17)  
 Sum: 40,218 (Ranked 30)  

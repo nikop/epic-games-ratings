@@ -3,12 +3,12 @@
   "Name": "Mafia III: Definitive Edition",
   "ProductSlug": "mafia-iii-definitive-edition",
   "Ranking_Rating": 847,
-  "Ranking_Popularity": 363,
+  "Ranking_Popularity": 364,
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-09-24T23:00:00+00:00",
     "PcReleaseDate": null,
@@ -1195,6 +1195,6 @@
   "FirstSeen": "2022-07-22T20:19:34.9657602+00:00",
   "LastChanged": "2023-07-24T02:01:13.1265201+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:31.9815275+00:00",
-  "LastUpdate_Ratings": "2023-07-31T02:58:29.7814397+00:00",
-  "LastUpdate_Achievements": "2023-07-31T03:03:55.1430543+00:00"
+  "LastUpdate_Ratings": "2023-07-31T03:58:37.12613+00:00",
+  "LastUpdate_Achievements": "2023-07-31T04:04:18.8351883+00:00"
 }

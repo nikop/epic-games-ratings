@@ -43,11 +43,11 @@ Number of Ratings: 401  (23.09.2022)
 | Rosewater sailor | 1.00% | ~346 |
 | Under the zee | 1.00% | ~346 |
 | A current under zee | 1.00% | ~346 |
-| A zee-change | 0.90% | ~311 |
 | Never Stop Sinking... | 0.90% | ~311 |
 | Leviathan | 0.90% | ~311 |
 | No regrets | 0.90% | ~311 |
 | Depth charge | 0.90% | ~311 |
+| A zee-change | 0.80% | ~277 |
 | What lies beneath | 0.80% | ~277 |
 | Stone's Curse | 0.70% | ~242 |
 | Five Years at Zee | 0.50% | ~173 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~35 |
 | Ten Years at Zee | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,588 (Ranked 95)  
+Progressed: 34,589 (Ranked 95)  
 Completed: 3 (0.01%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 3 (0.01%) (Ranked 233)
 | 2023-07-28 | 34,418 | 3 |
 | 2023-07-29 | 34,503 | 3 |
 | 2023-07-30 | 34,582 | 3 |
-| 2023-07-31 | 34,588 | 3 |
+| 2023-07-31 | 34,589 | 3 |
 ## Awards
 Max (Character Customization): 213  (Ranked 266)  
 Sum: 283 (Ranked 340)  

@@ -5410,10 +5410,10 @@
       "Count": 3330
     }
   ],
-  "EOS_Progressed": 217281,
-  "EOS_Completed": 2137,
-  "EOS_NewPlayers": 2249,
-  "EOS_NewCompleters": 77,
+  "EOS_Progressed": 217292,
+  "EOS_Completed": 2138,
+  "EOS_NewPlayers": 2252,
+  "EOS_NewCompleters": 78,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16330,6 +16330,11 @@
       "Time": "2023-07-31T03:04:11.2939715+00:00",
       "NumProgressed": 217281,
       "NumCompleted": 2137
+    },
+    {
+      "Time": "2023-07-31T04:04:37.016903+00:00",
+      "NumProgressed": 217292,
+      "NumCompleted": 2138
     }
   ],
   "TotalAchievements": 512,
@@ -16341,7 +16346,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6518
+      "UsersEstimate": 6519
     },
     {
       "ID": "objective_completed_10",
@@ -17523,9 +17528,9 @@
       "ID": "objective_completed_16",
       "SetID": "cc37lbc",
       "Name": "Low Initiative",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 1086
     },
     {
       "ID": "objective_completed_164",
@@ -18011,9 +18016,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 1086
     },
     {
       "ID": "objective_completed_34",
@@ -20397,7 +20402,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "objective_completed_1386",
@@ -20436,21 +20441,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183555,
+      "Progressed": 183566,
       "Completed": 3035
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217281,
-      "Completed": 2137
+      "Progressed": 217292,
+      "Completed": 2138
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-31T01:57:45.6723825+00:00",
-  "LastChanged_Achievements": "2023-07-31T03:04:11.2939712+00:00",
+  "LastChanged_Achievements": "2023-07-31T04:04:37.0169021+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-31T02:59:06.5343809+00:00",
-  "LastUpdate_Achievements": "2023-07-31T03:04:11.2963508+00:00"
+  "LastUpdate_Ratings": "2023-07-31T03:59:19.6010619+00:00",
+  "LastUpdate_Achievements": "2023-07-31T04:04:37.0203694+00:00"
 }

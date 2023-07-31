@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -400,7 +400,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7296,
+  "EOS_Progressed": 7297,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 1,
@@ -6540,6 +6540,11 @@
       "Time": "2023-07-31T03:05:57.893044+00:00",
       "NumProgressed": 7296,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-07-31T04:06:51.0588195+00:00",
+      "NumProgressed": 7297,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 29,
@@ -6551,7 +6556,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6056
+      "UsersEstimate": 6057
     },
     {
       "ID": "ACH02",
@@ -6655,7 +6660,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "ACH15",
@@ -6679,7 +6684,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "ACH18",
@@ -6782,7 +6787,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7296,
+      "Progressed": 7297,
       "Completed": 42
     }
   ],
@@ -6790,8 +6795,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-30T04:58:58.4167386+00:00",
-  "LastChanged_Achievements": "2023-07-31T03:05:57.8930357+00:00",
+  "LastChanged_Achievements": "2023-07-31T04:06:51.0588187+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:45.6186895+00:00",
-  "LastUpdate_Ratings": "2023-07-31T02:58:47.2728948+00:00",
-  "LastUpdate_Achievements": "2023-07-31T03:05:57.8930889+00:00"
+  "LastUpdate_Ratings": "2023-07-31T03:58:56.0238543+00:00",
+  "LastUpdate_Achievements": "2023-07-31T04:06:51.0589119+00:00"
 }
