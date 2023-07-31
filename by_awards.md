@@ -13,10 +13,10 @@
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 59,555 | 4.58 | 425 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 42,020 | 4.61 | 366 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 36,065 | 4.49 | 572 |
-| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 35,277 | 4.74 | 144 |
+| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 35,320 | 4.74 | 144 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 30,531 | 4.52 | 523 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,736 | 4.65 | 296 |
-| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 21,416 | 4.77 | 107 |
+| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 21,442 | 4.77 | 107 |
 | 18 | [Dauntless](games/d/dauntless.md) | 21,055 | 4.53 | 511 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,105 | 4.57 | 443 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,305 | 4.89 | 12 |
@@ -208,7 +208,7 @@
 | 206 | [Loop Hero](games/l/loop_hero.md) | 419 | 4.68 | 238 |
 | 207 | [Into the Breach](games/i/into_the_breach.md) | 416 | 4.84 | 49 |
 | 208 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 410 | 4.73 | 159 |
-| 209 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 407 | 4.49 | 572 |
+| 209 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 408 | 4.49 | 572 |
 | 210 | [Warface](games/w/warface.md) | 404 | 3.91 | 941 |
 | 211 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 402 | 4.60 | 390 |
 | 212 | [Slime Rancher](games/s/slime_rancher.md) | 396 | 4.82 | 65 |
@@ -337,15 +337,15 @@
 | 334 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 99 | 4.77 | 107 |
 | 334 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 99 | 4.48 | 589 |
 | 334 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 99 | 4.37 | 724 |
-| 338 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 97 | 4.86 | 28 |
-| 338 | [The Captain](games/t/the_captain.md) | 97 | 4.44 | 645 |
-| 340 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 864 |
-| 340 | [Tropico 6](games/t/tropico_6.md) | 96 | 4.67 | 257 |
-| 340 | [Verdun](games/v/verdun.md) | 96 | 4.52 | 523 |
-| 343 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 95 | 4.51 | 539 |
-| 343 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 95 | 4.35 | 744 |
-| 343 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 95 | 4.41 | 677 |
-| 343 | [The Outlast Trials](games/t/the_outlast_trials.md) | 95 | 4.66 | 273 |
+| 338 | [The Outlast Trials](games/t/the_outlast_trials.md) | 98 | 4.66 | 273 |
+| 339 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 97 | 4.86 | 28 |
+| 339 | [The Captain](games/t/the_captain.md) | 97 | 4.44 | 645 |
+| 341 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 864 |
+| 341 | [Tropico 6](games/t/tropico_6.md) | 96 | 4.67 | 257 |
+| 341 | [Verdun](games/v/verdun.md) | 96 | 4.52 | 523 |
+| 344 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 95 | 4.51 | 539 |
+| 344 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 95 | 4.35 | 744 |
+| 344 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 95 | 4.41 | 677 |
 | 347 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 93 | 4.54 | 494 |
 | 348 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 92 | 4.17 | 870 |
 | 349 | [Darksiders III](games/d/darksiders_iii.md) | 90 | 4.51 | 539 |

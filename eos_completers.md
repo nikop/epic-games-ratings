@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 44.44% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.22% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.27% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.48% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
@@ -11,24 +11,24 @@
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.25% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 12 | [Island Cities](games/i/island_cities.md) | 18.74% |
+| 12 | [Island Cities](games/i/island_cities.md) | 18.69% |
 | 13 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 15.38% |
 | 14 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
-| 16 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 13.33% |
+| 16 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 12.99% |
 | 17 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.12% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
-| 19 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 11.32% |
-| 20 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
-| 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.91% |
+| 19 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
+| 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
+| 21 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 10.91% |
+| 21 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.91% |
 | 23 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 24 | [Remains](games/r/remains.md) | 10.64% |
 | 25 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
 | 26 | [Sonic Origins](games/s/sonic_origins.md) | 10.31% |
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.01% |
-| 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
+| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.97% |
+| 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.97% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.00% |
 | 32 | [Smelter](games/s/smelter.md) | 7.89% |
@@ -79,7 +79,7 @@
 | 77 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.42% |
 | 79 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.39% |
-| 80 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.33% |
+| 80 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.32% |
 | 81 | [FORECLOSED](games/f/foreclosed.md) | 2.27% |
 | 82 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
 | 83 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
