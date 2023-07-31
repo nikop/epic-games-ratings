@@ -93,20 +93,20 @@
 | 89 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 291 |
 | 89 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 509 |
 | 89 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 775 | 156 |
-| 89 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 740 | 161 |
 | 89 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,952 | 57 |
 | 89 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 47 | 408 |
 | 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 383 | 215 |
 | 89 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 119 | 317 |
 | 89 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 509 |
-| 100 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 509 |
-| 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,595 | 38 |
-| 100 | [Journey](games/j/journey.md) | 4.78 | 0 | 509 |
-| 100 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,366 | 103 |
-| 100 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,386 | 125 |
-| 100 | [Remnant 2](games/r/remnant_2.md) | 4.78 | 121 | 314 |
-| 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 926 | 147 |
-| 100 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 509 |
+| 99 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 509 |
+| 99 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,595 | 38 |
+| 99 | [Journey](games/j/journey.md) | 4.78 | 0 | 509 |
+| 99 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 740 | 161 |
+| 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,366 | 103 |
+| 99 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,386 | 125 |
+| 99 | [Remnant 2](games/r/remnant_2.md) | 4.78 | 121 | 314 |
+| 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 926 | 147 |
+| 99 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 509 |
 | 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,525 | 51 |
 | 108 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,442 | 17 |
 | 108 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 509 |
@@ -195,7 +195,7 @@
 | 184 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 80 | 359 |
 | 184 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 509 |
 | 184 | [The Red Lantern](games/t/the_red_lantern.md) | 4.71 | 0 | 509 |
-| 184 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,729 | 116 |
+| 184 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,736 | 116 |
 | 197 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,548 | 72 |
 | 197 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 364 | 221 |
 | 197 | [For The King](games/f/for_the_king.md) | 4.70 | 377 | 217 |
@@ -582,7 +582,7 @@
 | 572 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 0 | 509 |
 | 572 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 245 | 250 |
 | 572 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.49 | 0 | 509 |
-| 572 | [Maneater](games/m/maneater.md) | 4.49 | 13,597 | 26 |
+| 572 | [Maneater](games/m/maneater.md) | 4.49 | 13,600 | 26 |
 | 572 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 451 |
 | 572 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 487,684 | 2 |
 | 572 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 358 |
@@ -790,7 +790,7 @@
 | 787 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 509 |
 | 787 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | 0 | 509 |
 | 787 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 509 |
-| 787 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,541,214 | 1 |
+| 787 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,543,698 | 1 |
 | 787 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 705 | 163 |
 | 787 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 417 |
 | 787 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.29 | 0 | 509 |

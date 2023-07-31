@@ -12,7 +12,7 @@
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
 | 12 | [Island Cities](games/i/island_cities.md) | 18.65% |
-| 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 17.95% |
+| 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 17.72% |
 | 14 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 15.38% |
 | 15 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
@@ -39,12 +39,12 @@
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.91% |
 | 38 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.38% |
 | 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.37% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.36% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.34% |
 | 41 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 42 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.88% |
 | 43 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.33% |
 | 44 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
-| 45 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
+| 45 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
 | 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 47 | [JARS](games/j/jars.md) | 4.76% |
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.73% |
@@ -95,8 +95,8 @@
 | 93 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.62% |
 | 93 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.62% |
 | 95 | [Somerville](games/s/somerville.md) | 1.61% |
-| 96 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.51% |
-| 97 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
+| 96 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.50% |
+| 96 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 98 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
 | 99 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.48% |
 | 100 | [Poosh XL](games/p/poosh_xl.md) | 1.44% |
@@ -115,8 +115,8 @@
 | 112 | [Sable](games/s/sable.md) | 0.98% |
 | 114 | [Hades](games/h/hades.md) | 0.90% |
 | 115 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 116 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
-| 117 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
+| 116 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 117 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
 | 118 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 119 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
 | 120 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
