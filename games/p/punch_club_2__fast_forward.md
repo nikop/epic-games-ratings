@@ -35,14 +35,14 @@
 | Fight for life | 52.00% | ~103 |
 | Legal courier | 51.00% | ~101 |
 | Extreme neuropower! | 48.00% | ~95 |
+| Escaped from a big trouble | 47.00% | ~93 |
 | Now you are worthy | 46.00% | ~91 |
-| Escaped from a big trouble | 45.00% | ~89 |
 | Your own way | 45.00% | ~89 |
-| No blades in the gym | 43.00% | ~85 |
+| No blades in the gym | 44.00% | ~87 |
 | Guiding on the right path | 42.00% | ~83 |
 | Fight is life | 40.00% | ~79 |
 | Mysterious voice | 40.00% | ~79 |
-| Get out of my apartment! | 35.00% | ~69 |
+| Get out of my apartment! | 36.00% | ~71 |
 | Underground dwellers | 35.00% | ~69 |
 | Responsible approach | 35.00% | ~69 |
 | GYM professional | 34.00% | ~67 |
@@ -60,12 +60,12 @@
 | Absolute Champion! | 28.00% | ~55 |
 | Careerist | 28.00% | ~55 |
 | Trap disarmed | 27.00% | ~53 |
+| Anyone can resist | 27.00% | ~53 |
 | Another world | 26.00% | ~51 |
 | The lonesome road | 26.00% | ~51 |
 | Keep nature safe | 26.00% | ~51 |
 | Family comes first | 26.00% | ~51 |
 | Key memories | 26.00% | ~51 |
-| Anyone can resist | 26.00% | ~51 |
 | The heart of the Resistance | 26.00% | ~51 |
 | Silver’s past | 23.00% | ~46 |
 | Better cooking at home | 23.00% | ~46 |

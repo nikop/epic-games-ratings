@@ -5,14 +5,14 @@ Rating: 4.60 (Ranked 389)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 24.00% | ~195 |
-| Rail Rat | 20.00% | ~162 |
-| The Mysterious Stranger | 19.00% | ~154 |
-| Make Up For Lost Time | 17.00% | ~138 |
-| The Prince in Heels | 17.00% | ~138 |
-| Immaculate Aim | 17.00% | ~138 |
-| Immaculate Aim | 17.00% | ~138 |
-| The Brass Boss | 17.00% | ~138 |
+| Time Heals All Wounds | 24.00% | ~196 |
+| The Mysterious Stranger | 20.00% | ~163 |
+| Rail Rat | 20.00% | ~163 |
+| Make Up For Lost Time | 17.00% | ~139 |
+| The Prince in Heels | 17.00% | ~139 |
+| Immaculate Aim | 17.00% | ~139 |
+| Immaculate Aim | 17.00% | ~139 |
+| The Brass Boss | 17.00% | ~139 |
 | The Steel Shadow | 16.00% | ~130 |
 | Time Flies | 16.00% | ~130 |
 | The Harder They Fall | 16.00% | ~130 |
@@ -32,9 +32,9 @@ Rating: 4.60 (Ranked 389)
 | Cartographer | 14.00% | ~114 |
 | Check Your Pulse | 14.00% | ~114 |
 | Street Style | 13.00% | ~106 |
-| Whiz Kid | 11.00% | ~89 |
-| Chaincrawler Explorer | 10.00% | ~81 |
-| Good Neighbor | 10.00% | ~81 |
+| Whiz Kid | 11.00% | ~90 |
+| Chaincrawler Explorer | 10.00% | ~82 |
+| Good Neighbor | 10.00% | ~82 |
 | Family Memories | 9.00% | ~73 |
 | Sump Explorer | 9.00% | ~73 |
 | Theater Explorer | 9.00% | ~73 |
@@ -49,7 +49,7 @@ Rating: 4.60 (Ranked 389)
 | Clovemary for Remembering | 5.00% | ~41 |
 | Golem Hunter | 5.00% | ~41 |
 | Rungs Was Right | 5.00% | ~41 |
-| Hexlock for Protection | 4.00% | ~32 |
+| Hexlock for Protection | 4.00% | ~33 |
 | Wunderkind | 2.00% | ~16 |
 | Fitting In | 2.00% | ~16 |
 | Thinking Two Steps Ahead | 1.00% | ~8 |
@@ -59,8 +59,8 @@ Rating: 4.60 (Ranked 389)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 812 (Ranked 201)  
-Completed: 5 (0.62%) (Ranked 125)  
+Progressed: 815 (Ranked 201)  
+Completed: 5 (0.61%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -127,7 +127,7 @@ Completed: 5 (0.62%) (Ranked 125)
 | 2023-07-28 | 797 | 4 |
 | 2023-07-29 | 803 | 4 |
 | 2023-07-30 | 808 | 4 |
-| 2023-07-31 | 812 | 5 |
+| 2023-07-31 | 815 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

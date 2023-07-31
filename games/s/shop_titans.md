@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 926)  
+Rating: 3.99 (Ranked 927)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,6 +11,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 0.40% | ~535 |
 | Tinkle of Coins | 0.40% | ~535 |
 | Disintermediation | 0.30% | ~401 |
+| Another Satisfied Customer | 0.30% | ~401 |
 | It's Free Real Estate | 0.30% | ~401 |
 | Budding Merchant | 0.30% | ~401 |
 | Capitalism Ho! | 0.30% | ~401 |
@@ -21,7 +22,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 0.20% | ~267 |
 | Flooding the Market | 0.20% | ~267 |
 | Where it Hurts | 0.20% | ~267 |
-| Another Satisfied Customer | 0.20% | ~267 |
 | Pretty Penny | 0.20% | ~267 |
 | Gild-Gotten Goods | 0.20% | ~267 |
 | One-Armed Bandit | 0.20% | ~267 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,647 (Ranked 61)  
+Progressed: 133,649 (Ranked 61)  
 Completed: 124 (0.09%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 124 (0.09%) (Ranked 197)
 | 2023-07-28 | 133,441 | 123 |
 | 2023-07-29 | 133,512 | 124 |
 | 2023-07-30 | 133,588 | 124 |
-| 2023-07-31 | 133,647 | 124 |
+| 2023-07-31 | 133,649 | 124 |
 ## Awards
 Max (Great for Beginners): 4,679  (Ranked 70)  
 Sum: 27,015 (Ranked 46)  

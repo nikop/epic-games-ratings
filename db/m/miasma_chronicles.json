@@ -2958,9 +2958,9 @@
       "ID": "RECYCLER",
       "SetID": "9a4jnji",
       "Name": "Recycler",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 490
+      "UsersEstimate": 504
     },
     {
       "ID": "RUTHLESS",
@@ -3014,9 +3014,9 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 517
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -3063,8 +3063,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-25T07:58:49.2178401+00:00",
-  "LastChanged_Achievements": "2023-07-31T20:04:58.7996904+00:00",
+  "LastChanged_Achievements": "2023-07-31T21:04:01.9335515+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:07.4600739+00:00",
-  "LastUpdate_Ratings": "2023-07-31T19:59:09.9772573+00:00",
-  "LastUpdate_Achievements": "2023-07-31T20:04:58.799751+00:00"
+  "LastUpdate_Ratings": "2023-07-31T20:58:29.2113541+00:00",
+  "LastUpdate_Achievements": "2023-07-31T21:04:01.9335992+00:00"
 }

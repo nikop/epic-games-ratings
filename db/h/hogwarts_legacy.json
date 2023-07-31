@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5724,9 +5724,9 @@
       "Count": 570
     }
   ],
-  "EOS_Progressed": 289051,
+  "EOS_Progressed": 289058,
   "EOS_Completed": 437,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16739,6 +16739,11 @@
       "Time": "2023-07-31T20:05:35.0693302+00:00",
       "NumProgressed": 289051,
       "NumCompleted": 437
+    },
+    {
+      "Time": "2023-07-31T21:04:31.0641259+00:00",
+      "NumProgressed": 289058,
+      "NumCompleted": 437
     }
   ],
   "TotalAchievements": 45,
@@ -16750,7 +16755,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34686
+      "UsersEstimate": 34687
     },
     {
       "ID": "PFA_10",
@@ -16782,7 +16787,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 23124
+      "UsersEstimate": 23125
     },
     {
       "ID": "PFA_14",
@@ -16854,7 +16859,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23124
+      "UsersEstimate": 23125
     },
     {
       "ID": "PFA_22",
@@ -16870,7 +16875,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28905
+      "UsersEstimate": 28906
     },
     {
       "ID": "PFA_24",
@@ -16974,7 +16979,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23124
+      "UsersEstimate": 23125
     },
     {
       "ID": "PFA_36",
@@ -17094,7 +17099,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28905
+      "UsersEstimate": 28906
     },
     {
       "ID": "PFA_9",
@@ -17102,14 +17107,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23124
+      "UsersEstimate": 23125
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289051,
+      "Progressed": 289058,
       "Completed": 437
     }
   ],
@@ -17117,8 +17122,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-31T17:58:24.9560604+00:00",
-  "LastChanged_Achievements": "2023-07-31T20:05:35.0693295+00:00",
+  "LastChanged_Achievements": "2023-07-31T21:04:31.0641255+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-07-31T19:58:11.4490238+00:00",
-  "LastUpdate_Achievements": "2023-07-31T20:05:35.069511+00:00"
+  "LastUpdate_Ratings": "2023-07-31T20:57:44.6013703+00:00",
+  "LastUpdate_Achievements": "2023-07-31T21:04:31.0642097+00:00"
 }

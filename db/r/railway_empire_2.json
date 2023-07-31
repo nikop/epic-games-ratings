@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -148,7 +148,7 @@
   "Tags": [],
   "EOS_Progressed": 1731,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4279,9 +4279,9 @@
       "ID": "A43",
       "SetID": "9b7p7eo",
       "Name": "Mole",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 502
     },
     {
       "ID": "A44",
@@ -4384,8 +4384,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-31T01:57:43.9842724+00:00",
-  "LastChanged_Achievements": "2023-07-31T20:04:39.1386219+00:00",
+  "LastChanged_Achievements": "2023-07-31T21:03:46.3656023+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:59.7965927+00:00",
-  "LastUpdate_Ratings": "2023-07-31T19:58:57.9505323+00:00",
-  "LastUpdate_Achievements": "2023-07-31T20:04:39.1386966+00:00"
+  "LastUpdate_Ratings": "2023-07-31T20:58:22.0901154+00:00",
+  "LastUpdate_Achievements": "2023-07-31T21:03:46.3656631+00:00"
 }

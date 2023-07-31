@@ -47,9 +47,9 @@ Rating: 4.87 (Ranked 24)
 | This is a breeze! | 0.40% | ~15 |
 | We're Jammin' | 0.40% | ~15 |
 | First we parry, then we counter | 0.40% | ~15 |
+| Choose your own adventure | 0.40% | ~9 |
 | OK, well THEY came after ME! | 0.30% | ~11 |
 | I'm not done with you yet | 0.30% | ~11 |
-| Choose your own adventure | 0.30% | ~7 |
 | Easy Listening | 0.20% | ~7 |
 | You ever parry a volcano? | 0.20% | ~7 |
 | It'll do, CNMN | 0.20% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,655 (Ranked 146)  
+Progressed: 3,656 (Ranked 146)  
 Completed: 6 (0.16%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 6 (0.16%) (Ranked 179)
 | 2023-07-28 | 3,610 | 6 |
 | 2023-07-29 | 3,627 | 6 |
 | 2023-07-30 | 3,640 | 6 |
-| 2023-07-31 | 3,655 | 6 |
+| 2023-07-31 | 3,656 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

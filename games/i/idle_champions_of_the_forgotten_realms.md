@@ -1,17 +1,17 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.05 (Ranked 912)  
+Rating: 4.05 (Ranked 913)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,524 |
-| Beast Intentions | 3.00% | ~6,524 |
-| Maddening | 2.00% | ~4,349 |
+| A Brief Tour of the Realms | 3.00% | ~6,525 |
+| Beast Intentions | 3.00% | ~6,525 |
+| Maddening | 2.00% | ~4,350 |
 | The Silken Swamp | 1.00% | ~2,175 |
 | Supply Run | 1.00% | ~2,175 |
-| Rocky Reception | 1.00% | ~1,837 |
+| Rocky Reception | 1.00% | ~1,838 |
 | Vecna Lives! | 0.90% | ~1,654 |
 | Rock and Roll | 0.90% | ~1,654 |
 | Flight of the Kindori Pod | 0.80% | ~1,470 |
@@ -22,14 +22,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pros and CONs | 0.60% | ~1,305 |
 | Wet Feet | 0.60% | ~1,305 |
 | Hatchlings Underfoot | 0.60% | ~1,305 |
-| Return to the Tomb | 0.60% | ~1,102 |
-| Heatwave | 0.60% | ~1,102 |
+| Return to the Tomb | 0.60% | ~1,103 |
+| Heatwave | 0.60% | ~1,103 |
 | Were-verpowered | 0.60% | ~1,305 |
 | A Persistent Buzzing | 0.60% | ~1,305 |
 | Terror in the Dark | 0.60% | ~1,305 |
 | Building Trust | 0.60% | ~1,305 |
 | Unearthed Evil | 0.60% | ~1,305 |
-| The Champion's Guide to Wildspace | 0.60% | ~1,102 |
+| The Champion's Guide to Wildspace | 0.60% | ~1,103 |
 | The Witchlight Carnival | 0.50% | ~919 |
 | Don't Look Up! | 0.50% | ~1,087 |
 | Heavy Burden | 0.50% | ~1,087 |
@@ -123,50 +123,50 @@ Number of Ratings: 9,041  (23.09.2022)
 | Devilishly Cold | 0.30% | ~551 |
 | Tiny Treaty | 0.30% | ~551 |
 | Starving in the Jungle | 0.20% | ~435 |
-| Cold as Ice | 0.20% | ~367 |
-| Friends and Foes | 0.20% | ~367 |
-| An Unexpected Geist | 0.20% | ~367 |
-| A Monarch Among Us | 0.20% | ~367 |
-| Sticky Fingers | 0.20% | ~367 |
-| The Spire of Iriolarthas | 0.20% | ~367 |
-| The Fall of Ythryn | 0.20% | ~367 |
-| A Lesson in Classes | 0.20% | ~367 |
-| The Fairy Rings of Thither | 0.20% | ~367 |
-| Bully for You! | 0.20% | ~367 |
-| Will of the Feywild | 0.20% | ~367 |
-| The Roots of Loomlurch | 0.20% | ~367 |
-| Best Laid Plans | 0.20% | ~367 |
-| The Howling Peaks of Yon | 0.20% | ~367 |
-| Flapjacks and Waffles | 0.20% | ~367 |
-| Overwhelmed with Knowledge | 0.20% | ~367 |
-| More Than Well Equipped | 0.20% | ~367 |
-| Arcane Efforts | 0.20% | ~367 |
-| Keep Your Distance | 0.20% | ~367 |
-| To Avernus in a Handbasket | 0.20% | ~367 |
-| Hands Off! | 0.20% | ~367 |
-| Weak Doesn't Mean Feeble | 0.20% | ~367 |
-| The Sanctum of the Sword | 0.20% | ~367 |
-| Get Back In The Castle | 0.20% | ~367 |
-| Checkmate | 0.20% | ~367 |
-| Vecna Out! | 0.20% | ~367 |
-| Clowning Around | 0.20% | ~367 |
+| Cold as Ice | 0.20% | ~368 |
+| Friends and Foes | 0.20% | ~368 |
+| An Unexpected Geist | 0.20% | ~368 |
+| A Monarch Among Us | 0.20% | ~368 |
+| Sticky Fingers | 0.20% | ~368 |
+| The Spire of Iriolarthas | 0.20% | ~368 |
+| The Fall of Ythryn | 0.20% | ~368 |
+| A Lesson in Classes | 0.20% | ~368 |
+| The Fairy Rings of Thither | 0.20% | ~368 |
+| Bully for You! | 0.20% | ~368 |
+| Will of the Feywild | 0.20% | ~368 |
+| The Roots of Loomlurch | 0.20% | ~368 |
+| Best Laid Plans | 0.20% | ~368 |
+| The Howling Peaks of Yon | 0.20% | ~368 |
+| Flapjacks and Waffles | 0.20% | ~368 |
+| Overwhelmed with Knowledge | 0.20% | ~368 |
+| More Than Well Equipped | 0.20% | ~368 |
+| Arcane Efforts | 0.20% | ~368 |
+| Keep Your Distance | 0.20% | ~368 |
+| To Avernus in a Handbasket | 0.20% | ~368 |
+| Hands Off! | 0.20% | ~368 |
+| Weak Doesn't Mean Feeble | 0.20% | ~368 |
+| The Sanctum of the Sword | 0.20% | ~368 |
+| Get Back In The Castle | 0.20% | ~368 |
+| Checkmate | 0.20% | ~368 |
+| Vecna Out! | 0.20% | ~368 |
+| Clowning Around | 0.20% | ~368 |
 | Anti-Dexterous Explorers | 0.20% | ~435 |
 | Not Very Charming | 0.20% | ~435 |
 | Lobsterfolk Assault | 0.20% | ~435 |
 | Periodic Petrification | 0.20% | ~435 |
 | Home Field Advantage | 0.20% | ~435 |
 | Double Vision | 0.20% | ~435 |
-| The Newcomers of Notoriety | 0.20% | ~367 |
+| The Newcomers of Notoriety | 0.20% | ~368 |
 | Azaka's Procession - Part 1 | 0.20% | ~435 |
 | Azaka's Procession - Part 2 | 0.20% | ~435 |
 | The Hunt for Owl-y | 0.20% | ~435 |
 | Werewolves in the Mist | 0.20% | ~435 |
 | We're not in Faerûn Anymore | 0.20% | ~435 |
 | Modron Assistance | 0.20% | ~435 |
-| Thine Bounty is Mine! | 0.20% | ~367 |
+| Thine Bounty is Mine! | 0.20% | ~368 |
 | Haaave You Met Asmodeus? | 0.20% | ~435 |
 | Domesticated Owlbears | 0.20% | ~435 |
-| This Quest Stinks! | 0.20% | ~367 |
+| This Quest Stinks! | 0.20% | ~368 |
 | Seeds of Deceit | 0.20% | ~435 |
 | The Gargoyle's Apprentice | 0.20% | ~435 |
 | Treasure Hunters | 0.20% | ~435 |
@@ -194,25 +194,25 @@ Number of Ratings: 9,041  (23.09.2022)
 | Market Fluctuations | 0.20% | ~435 |
 | Once More Into The Breach | 0.20% | ~435 |
 | Wyllowwood | 0.20% | ~435 |
-| Into The Fire | 0.20% | ~367 |
-| Dreamscape | 0.20% | ~367 |
-| The Path of Dreams | 0.20% | ~367 |
-| The Lost Hollyphant | 0.20% | ~367 |
-| The Wandering Emporium | 0.20% | ~367 |
-| Tiamat's Army | 0.20% | ~367 |
-| Questlines | 0.20% | ~367 |
-| The Everlasting Rime | 0.20% | ~367 |
+| Into The Fire | 0.20% | ~368 |
+| Dreamscape | 0.20% | ~368 |
+| The Path of Dreams | 0.20% | ~368 |
+| The Lost Hollyphant | 0.20% | ~368 |
+| The Wandering Emporium | 0.20% | ~368 |
+| Tiamat's Army | 0.20% | ~368 |
+| Questlines | 0.20% | ~368 |
+| The Everlasting Rime | 0.20% | ~368 |
 | The Long Haul | 0.20% | ~435 |
 | Rude Welcome | 0.20% | ~435 |
-| Moose Tracks | 0.20% | ~367 |
-| Civilization | 0.20% | ~367 |
+| Moose Tracks | 0.20% | ~368 |
+| Civilization | 0.20% | ~368 |
 | Durable Deep | 0.20% | ~435 |
 | Expert Opinion | 0.20% | ~435 |
-| Dwarven Rumors | 0.20% | ~367 |
-| Sunblight | 0.20% | ~367 |
+| Dwarven Rumors | 0.20% | ~368 |
+| Sunblight | 0.20% | ~368 |
 | The Haunted Jungle | 0.20% | ~435 |
 | Poor Guidance | 0.20% | ~435 |
-| All The World's A Stage | 0.20% | ~367 |
+| All The World's A Stage | 0.20% | ~368 |
 | Keep Your Friends Close | 0.10% | ~184 |
 | And Your Enemies Closer | 0.10% | ~184 |
 | Back to Nature | 0.10% | ~184 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,473 (Ranked 53)  
+Progressed: 217,487 (Ranked 53)  
 Completed: 2,139 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,7 +621,7 @@ Completed: 2,139 (0.98%) (Ranked 112)
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
-| 2023-07-31 | 217,473 | 2,139 |
+| 2023-07-31 | 217,487 | 2,139 |
 ## Awards
 Max (Diverse Characters): 5,106  (Ranked 67)  
 Sum: 30,829 (Ranked 38)  

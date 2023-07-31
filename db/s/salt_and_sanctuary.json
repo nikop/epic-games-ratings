@@ -3,7 +3,7 @@
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
   "Ranking_Rating": 366,
-  "Ranking_Popularity": 241,
+  "Ranking_Popularity": 240,
   "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 160,
@@ -2365,11 +2365,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 1922,
       "NumberOfAwardsMax": 275
+    },
+    {
+      "Time": "2023-07-31T20:59:31.5482914+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1923,
+      "NumberOfAwardsMax": 276
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1922,
-  "NumberOfAwardsMax": 275,
+  "NumberOfAwards": 1923,
+  "NumberOfAwardsMax": 276,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
     {
@@ -2388,7 +2394,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 275
+      "Count": 276
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2433,7 +2439,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 529207,
+  "EOS_Progressed": 529208,
   "EOS_Completed": 1493,
   "EOS_NewPlayers": 625,
   "EOS_NewCompleters": 9,
@@ -13328,6 +13334,11 @@
       "Time": "2023-07-31T20:03:49.0414573+00:00",
       "NumProgressed": 529207,
       "NumCompleted": 1493
+    },
+    {
+      "Time": "2023-07-31T21:03:06.8350072+00:00",
+      "NumProgressed": 529208,
+      "NumCompleted": 1493
     }
   ],
   "TotalAchievements": 37,
@@ -13395,7 +13406,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 439242
+      "UsersEstimate": 439243
     },
     {
       "ID": "HONED",
@@ -13467,7 +13478,7 @@
       "Name": "The Cave",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 37044
+      "UsersEstimate": 37045
     },
     {
       "ID": "THE_CONSTRUCT",
@@ -13539,7 +13550,7 @@
       "Name": "The Mire",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 37044
+      "UsersEstimate": 37045
     },
     {
       "ID": "THE_PALACE",
@@ -13587,7 +13598,7 @@
       "Name": "The Stone Roots",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 37044
+      "UsersEstimate": 37045
     },
     {
       "ID": "THE_THREE",
@@ -13595,7 +13606,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 338692
+      "UsersEstimate": 338693
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -13619,7 +13630,7 @@
       "Name": "The Ziggurat",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 37044
+      "UsersEstimate": 37045
     },
     {
       "ID": "WISE_WORDS",
@@ -13634,15 +13645,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 529207,
+      "Progressed": 529208,
       "Completed": 1493
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
-  "LastChanged": "2023-07-27T15:01:19.9796888+00:00",
-  "LastChanged_Achievements": "2023-07-31T20:03:49.0414568+00:00",
+  "LastChanged": "2023-07-31T20:59:31.5482913+00:00",
+  "LastChanged_Achievements": "2023-07-31T21:03:06.8350066+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:06.7588581+00:00",
-  "LastUpdate_Ratings": "2023-07-31T20:00:26.6824723+00:00",
-  "LastUpdate_Achievements": "2023-07-31T20:03:49.0415726+00:00"
+  "LastUpdate_Ratings": "2023-07-31T20:59:31.5482917+00:00",
+  "LastUpdate_Achievements": "2023-07-31T21:03:06.835086+00:00"
 }

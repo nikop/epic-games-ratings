@@ -25,10 +25,10 @@
 | Take that Frosty! | 23.00% | ~81 |
 | Goodbye cruel world | 23.00% | ~81 |
 | Disoriented | 22.00% | ~77 |
+| Your Highness | 22.00% | ~77 |
 | Beach Party! | 22.00% | ~77 |
 | Car-Tapult | 21.00% | ~74 |
 | Anger Issues | 21.00% | ~74 |
-| Your Highness | 21.00% | ~74 |
 | Event Amateur | 20.00% | ~70 |
 | Feeling Dizzy? | 19.00% | ~67 |
 | Drift King! | 18.00% | ~63 |

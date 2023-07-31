@@ -2,13 +2,13 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 870,
+  "Ranking_Rating": 871,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -400,7 +400,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7314,
+  "EOS_Progressed": 7315,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 1,
@@ -6600,6 +6600,11 @@
       "Time": "2023-07-31T20:06:05.1118658+00:00",
       "NumProgressed": 7314,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-07-31T21:04:55.1350126+00:00",
+      "NumProgressed": 7315,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 29,
@@ -6635,7 +6640,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2706
+      "UsersEstimate": 2707
     },
     {
       "ID": "ACH05",
@@ -6675,7 +6680,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "ACH10",
@@ -6715,7 +6720,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "ACH15",
@@ -6731,7 +6736,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "ACH17",
@@ -6803,7 +6808,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "ACH26",
@@ -6842,7 +6847,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7314,
+      "Progressed": 7315,
       "Completed": 42
     }
   ],
@@ -6850,8 +6855,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-30T04:58:58.4167386+00:00",
-  "LastChanged_Achievements": "2023-07-31T20:06:05.1118652+00:00",
+  "LastChanged_Achievements": "2023-07-31T21:04:55.1350121+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:45.6186895+00:00",
-  "LastUpdate_Ratings": "2023-07-31T19:58:42.4709113+00:00",
-  "LastUpdate_Achievements": "2023-07-31T20:06:05.1119618+00:00"
+  "LastUpdate_Ratings": "2023-07-31T20:58:08.9741206+00:00",
+  "LastUpdate_Achievements": "2023-07-31T21:04:55.1350582+00:00"
 }

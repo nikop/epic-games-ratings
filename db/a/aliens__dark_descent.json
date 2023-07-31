@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -3435,9 +3435,9 @@
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
       "SetID": "816efe",
       "Name": "Omelette Du Fromage",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 986
+      "UsersEstimate": 1017
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -3563,9 +3563,9 @@
       "ID": "ACH_MAX_SERGEANT",
       "SetID": "816efe",
       "Name": "Come on, You Wanna Live Forever?",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 740
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -3756,8 +3756,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-31T01:58:49.4710667+00:00",
-  "LastChanged_Achievements": "2023-07-31T20:01:51.2924369+00:00",
+  "LastChanged_Achievements": "2023-07-31T21:00:39.6753406+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.5854461+00:00",
-  "LastUpdate_Ratings": "2023-07-31T20:00:23.488446+00:00",
-  "LastUpdate_Achievements": "2023-07-31T20:01:51.2925342+00:00"
+  "LastUpdate_Ratings": "2023-07-31T20:59:28.381838+00:00",
+  "LastUpdate_Achievements": "2023-07-31T21:00:39.6753866+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 847,
+  "Ranking_Rating": 848,
   "Ranking_Popularity": 310,
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1263,9 +1263,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 20146,
+  "EOS_Progressed": 20155,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 746,
+  "EOS_NewPlayers": 749,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -12088,6 +12088,11 @@
       "Time": "2023-07-31T20:04:18.0197671+00:00",
       "NumProgressed": 20146,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-31T21:03:29.6798626+00:00",
+      "NumProgressed": 20155,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 22,
@@ -12099,7 +12104,7 @@
       "Name": "War of the Five Kings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "1016",
@@ -12107,7 +12112,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "1017",
@@ -12131,7 +12136,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "1020",
@@ -12139,7 +12144,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "1021",
@@ -12163,7 +12168,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "1024",
@@ -12195,7 +12200,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "1028",
@@ -12203,7 +12208,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3626
+      "UsersEstimate": 3628
     },
     {
       "ID": "1029",
@@ -12219,7 +12224,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4029
+      "UsersEstimate": 4031
     },
     {
       "ID": "1031",
@@ -12227,7 +12232,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2820
+      "UsersEstimate": 2822
     },
     {
       "ID": "1032",
@@ -12235,7 +12240,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 8058
+      "UsersEstimate": 8062
     },
     {
       "ID": "1033",
@@ -12243,7 +12248,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "1034",
@@ -12251,7 +12256,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "1035",
@@ -12259,7 +12264,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2619
+      "UsersEstimate": 2620
     },
     {
       "ID": "1036",
@@ -12274,15 +12279,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 20146,
+      "Progressed": 20155,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-07-31T20:04:18.0197665+00:00",
+  "LastChanged_Achievements": "2023-07-31T21:03:29.679862+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:09.3482059+00:00",
-  "LastUpdate_Ratings": "2023-07-31T20:01:18.7071422+00:00",
-  "LastUpdate_Achievements": "2023-07-31T20:04:18.0198488+00:00"
+  "LastUpdate_Ratings": "2023-07-31T21:00:12.8566383+00:00",
+  "LastUpdate_Achievements": "2023-07-31T21:03:29.6799243+00:00"
 }

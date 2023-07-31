@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 727,
+  "EOS_Progressed": 728,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1583,6 +1583,11 @@
       "Time": "2023-07-31T16:05:05.7457565+00:00",
       "NumProgressed": 727,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T21:03:59.5964722+00:00",
+      "NumProgressed": 728,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1594,7 +1599,7 @@
       "Name": "Augmented",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -1608,9 +1613,9 @@
       "ID": "ACHV_CHALLENGEACCEPTED",
       "SetID": "cceobco",
       "Name": "Challenge Accepted",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -1736,7 +1741,7 @@
       "ID": "ACHV_RIPPERDOC",
       "SetID": "cceobco",
       "Name": "Ripperdoc",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 60,
       "UsersEstimate": 4
     },
@@ -1825,13 +1830,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 727,
+      "Progressed": 728,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 3
     }
   ],
@@ -1839,8 +1844,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-07-31T20:04:55.8593434+00:00",
+  "LastChanged_Achievements": "2023-07-31T21:03:59.5964718+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:26.3220019+00:00",
-  "LastUpdate_Ratings": "2023-07-31T20:00:41.7663158+00:00",
-  "LastUpdate_Achievements": "2023-07-31T20:04:55.8593967+00:00"
+  "LastUpdate_Ratings": "2023-07-31T20:59:43.440495+00:00",
+  "LastUpdate_Achievements": "2023-07-31T21:03:59.5964974+00:00"
 }

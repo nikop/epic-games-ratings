@@ -2,9 +2,9 @@
   "ID": "a0a5746aad2645a9a23913766d2f4667",
   "Name": "Mega City Police",
   "ProductSlug": "mega-city-police-22a245",
-  "Ranking_EOS_Progress": 393,
+  "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-28T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20,
+  "EOS_Progressed": 21,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -106,6 +106,11 @@
       "Time": "2023-07-31T15:06:29.998804+00:00",
       "NumProgressed": 20,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T21:05:05.990277+00:00",
+      "NumProgressed": 21,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-26T06:05:38.0002826+00:00",
@@ -156,7 +161,7 @@
       "ID": "ACH_DEATH_1",
       "SetID": "a2aifpa",
       "Name": "Welcome to Mega City",
-      "Percentage": 110,
+      "Percentage": 105,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -244,7 +249,7 @@
       "ID": "ACH_LEVEL_01",
       "SetID": "a2aifpa",
       "Name": "Law and Order",
-      "Percentage": 85,
+      "Percentage": 81,
       "XP": 20,
       "UsersEstimate": 17
     },
@@ -252,7 +257,7 @@
       "ID": "ACH_LEVEL_02",
       "SetID": "a2aifpa",
       "Name": "Hammer Time",
-      "Percentage": 45,
+      "Percentage": 43,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -260,7 +265,7 @@
       "ID": "ACH_LEVEL_03",
       "SetID": "a2aifpa",
       "Name": "Escape From M.C.",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -268,7 +273,7 @@
       "ID": "ACH_LEVEL_04",
       "SetID": "a2aifpa",
       "Name": "Restore Honor",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -316,7 +321,7 @@
       "ID": "ACH_TUTORIAL",
       "SetID": "a2aifpa",
       "Name": "Licence To Kill",
-      "Percentage": 70,
+      "Percentage": 67,
       "XP": 20,
       "UsersEstimate": 14
     }
@@ -325,14 +330,14 @@
     {
       "ID": "a2aifpa",
       "IsBase": true,
-      "Progressed": 20,
+      "Progressed": 21,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-30T18:59:40.5539908+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2023-07-31T20:06:18.9468998+00:00",
+  "LastChanged_Achievements": "2023-07-31T21:05:05.9902765+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:40.3156912+00:00",
-  "LastUpdate_Ratings": "2023-07-31T19:59:48.4642676+00:00",
-  "LastUpdate_Achievements": "2023-07-31T20:06:18.9469202+00:00"
+  "LastUpdate_Ratings": "2023-07-31T20:58:59.5138908+00:00",
+  "LastUpdate_Achievements": "2023-07-31T21:05:05.9902933+00:00"
 }

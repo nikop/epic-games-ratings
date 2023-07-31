@@ -29,8 +29,8 @@ Rating: 4.48 (Ranked 589)
 | Full Steam ahead | 31.00% | ~537 |
 | Financial Shark | 30.00% | ~519 |
 | All mine | 29.00% | ~502 |
+| Mole | 29.00% | ~502 |
 | Socializer | 29.00% | ~502 |
-| Mole | 28.00% | ~485 |
 | Country Life | 26.00% | ~450 |
 | General Manager | 25.00% | ~433 |
 | Hostile Takeover | 24.00% | ~415 |

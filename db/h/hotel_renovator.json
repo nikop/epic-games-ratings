@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -92,9 +92,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 926,
+  "EOS_Progressed": 927,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.62,
   "EosHistory": [
@@ -1222,6 +1222,11 @@
       "Time": "2023-07-31T17:05:55.4106526+00:00",
       "NumProgressed": 926,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-31T21:04:38.7707592+00:00",
+      "NumProgressed": 927,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1233,7 +1238,7 @@
       "Name": "Humble beginnings",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -1281,7 +1286,7 @@
       "Name": "Love is in the air",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -1297,7 +1302,7 @@
       "Name": "No need to call anyone",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -1321,7 +1326,7 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1329,15 +1334,15 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH_HOTEL_NAMED",
       "SetID": "7k95e4n",
       "Name": "And so it begins",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 676
+      "UsersEstimate": 667
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1353,7 +1358,7 @@
       "Name": "Big fortune",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_POSTCARD",
@@ -1367,9 +1372,9 @@
       "ID": "ACH_POWER_OUTRAGE_FIXED",
       "SetID": "7k95e4n",
       "Name": "Let there be light",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 547
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1377,7 +1382,7 @@
       "Name": "Unstoppable",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_STAR_1",
@@ -1385,7 +1390,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "ACH_STAR_2",
@@ -1401,7 +1406,7 @@
       "Name": "Still more work ahead",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_STAR_4",
@@ -1425,7 +1430,7 @@
       "Name": "Reunited",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_TIP_EARNED",
@@ -1441,14 +1446,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 926,
+      "Progressed": 927,
       "Completed": 15
     }
   ],
@@ -1456,8 +1461,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-29T09:57:37.1491908+00:00",
-  "LastChanged_Achievements": "2023-07-31T20:05:44.837409+00:00",
+  "LastChanged_Achievements": "2023-07-31T21:04:38.7707587+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:54.1482303+00:00",
-  "LastUpdate_Ratings": "2023-07-31T19:57:54.1272515+00:00",
-  "LastUpdate_Achievements": "2023-07-31T20:05:44.8374464+00:00"
+  "LastUpdate_Ratings": "2023-07-31T20:57:29.8257553+00:00",
+  "LastUpdate_Achievements": "2023-07-31T21:04:38.770781+00:00"
 }

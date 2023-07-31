@@ -21,6 +21,7 @@
 | A Journey's End | 6.00% | ~1 |
 | A Stone Left Unturned | 6.00% | ~1 |
 | City of Puzzles | 6.00% | ~1 |
+| This field of danger | 6.00% | ~1 |
 | No End is Eternal | 0.00% | ~0 |
 | Tranquility/Resilience | 0.00% | ~0 |
 | Recovery/Imagination | 0.00% | ~0 |
@@ -49,7 +50,6 @@
 | A Speedy Journey | 0.00% | ~0 |
 | A Quick Secret | 0.00% | ~0 |
 | A Complete Journey | 0.00% | ~0 |
-| This field of danger | 0.00% | ~0 |
 | Labyrinths of the Mind | 0.00% | ~0 |
 | A Terrifying Blizzard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

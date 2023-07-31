@@ -1,30 +1,30 @@
 # Scrapnaut
 [Store](https://store.epicgames.com/en-US/p/scrapnaut)  
 [View Rawdata](../../db/s/scrapnaut.json)  
-Rating: 4.31 (Ranked 776)  
+Rating: 4.31 (Ranked 777)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 61.00% | ~201 |
-| Scrap Gatherer | 58.00% | ~191 |
-| Mushroom Picker | 57.00% | ~188 |
+| My New Home | 61.00% | ~202 |
+| Scrap Gatherer | 58.00% | ~192 |
+| Mushroom Picker | 57.00% | ~189 |
 | Scrapper | 49.00% | ~162 |
-| Cook | 43.00% | ~142 |
+| Cook | 44.00% | ~146 |
 | Teleport | 43.00% | ~142 |
 | Scrap Master | 39.00% | ~129 |
 | Smelter | 36.00% | ~119 |
-| Electro-Scrap Gatherer | 35.00% | ~115 |
-| Digger | 34.00% | ~112 |
-| Survivor | 34.00% | ~112 |
-| Robot Destroyer | 32.00% | ~106 |
-| Herbalist | 31.00% | ~102 |
+| Electro-Scrap Gatherer | 35.00% | ~116 |
+| Digger | 34.00% | ~113 |
+| Survivor | 34.00% | ~113 |
+| Herbalist | 31.00% | ~103 |
+| Robot Destroyer | 31.00% | ~103 |
 | Lumberjack | 30.00% | ~99 |
 | Electro-Scrap Master | 26.00% | ~86 |
-| Prepper | 25.00% | ~82 |
+| Prepper | 25.00% | ~83 |
 | Robot Hunter | 23.00% | ~76 |
-| Advanced Survivalist | 21.00% | ~69 |
-| Master Of Technology | 18.00% | ~59 |
+| Advanced Survivalist | 21.00% | ~70 |
+| Master Of Technology | 18.00% | ~60 |
 | Treasure Hunter | 17.00% | ~56 |
 | Mythical Smelter | 14.00% | ~46 |
 | Blacksmith | 13.00% | ~43 |
@@ -33,12 +33,12 @@ Number of Ratings: 38  (23.09.2022)
 | Fuel | 10.00% | ~33 |
 | Smelting Master | 10.00% | ~33 |
 | Black Gold | 8.00% | ~26 |
-| Survival Master | 5.00% | ~16 |
+| Survival Master | 5.00% | ~17 |
 | Traveler | 4.00% | ~13 |
 | Forest Killer | 1.00% | ~3 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 330 (Ranked 248)  
+Progressed: 331 (Ranked 247)  
 Completed: 1 (0.30%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 1 (0.30%) (Ranked 158)
 | 2023-07-27 | 321 | 1 |
 | 2023-07-28 | 322 | 1 |
 | 2023-07-29 | 329 | 1 |
-| 2023-07-31 | 330 | 1 |
+| 2023-07-31 | 331 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

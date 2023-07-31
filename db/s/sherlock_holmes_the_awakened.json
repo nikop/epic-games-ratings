@@ -2199,9 +2199,9 @@
       "ID": "MQ08_3",
       "SetID": "bbing49",
       "Name": "Fhtagn!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 247
+      "UsersEstimate": 253
     },
     {
       "ID": "PLTN",
@@ -2224,8 +2224,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-07-24T23:58:19.6744242+00:00",
-  "LastChanged_Achievements": "2023-07-31T20:07:20.4105199+00:00",
+  "LastChanged_Achievements": "2023-07-31T21:05:55.372655+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:58.5261994+00:00",
-  "LastUpdate_Ratings": "2023-07-31T19:58:01.0934663+00:00",
-  "LastUpdate_Achievements": "2023-07-31T20:07:20.410563+00:00"
+  "LastUpdate_Ratings": "2023-07-31T20:57:36.3731404+00:00",
+  "LastUpdate_Achievements": "2023-07-31T21:05:55.3726819+00:00"
 }

@@ -422,17 +422,17 @@
       "ID": "ENEMY_10",
       "SetID": "50pdlpn",
       "Name": "Captain Smithers the Anchor",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ENEMY_11",
       "SetID": "50pdlpn",
       "Name": "Kabeer, Lizardman God \u0026 Captain Smithers",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ENEMY_12",
@@ -654,9 +654,9 @@
       "ID": "ENEMY_9",
       "SetID": "50pdlpn",
       "Name": "Lizardman God the Ramu",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ENEMY_ARCADE_0",
@@ -941,8 +941,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-07-31T20:06:50.365726+00:00",
+  "LastChanged_Achievements": "2023-07-31T21:05:31.9862078+00:00",
   "LastUpdate_AppInfo": "2023-07-31T14:57:18.2453638+00:00",
-  "LastUpdate_Ratings": "2023-07-31T19:57:56.978177+00:00",
-  "LastUpdate_Achievements": "2023-07-31T20:06:50.3658624+00:00"
+  "LastUpdate_Ratings": "2023-07-31T20:57:33.403397+00:00",
+  "LastUpdate_Achievements": "2023-07-31T21:05:31.9862714+00:00"
 }

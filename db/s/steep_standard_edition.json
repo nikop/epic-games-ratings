@@ -2,7 +2,7 @@
   "ID": "a646020cb93b4ea995cda70647bbe001",
   "Name": "Steep Standard Edition",
   "ProductSlug": "steep",
-  "Ranking_Rating": 238,
+  "Ranking_Rating": 239,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 520,
@@ -499,6 +499,6 @@
   "FirstSeen": "2022-07-22T20:22:40.9407934+00:00",
   "LastChanged": "2023-06-22T21:58:54.2774528+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:09.2996675+00:00",
-  "LastUpdate_Ratings": "2023-07-31T19:59:11.3705204+00:00",
-  "LastUpdate_Achievements": "2023-07-31T20:03:20.9905526+00:00"
+  "LastUpdate_Ratings": "2023-07-31T20:58:30.0917188+00:00",
+  "LastUpdate_Achievements": "2023-07-31T21:02:14.3527909+00:00"
 }

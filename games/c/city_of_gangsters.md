@@ -1,12 +1,12 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.26 (Ranked 810)  
+Rating: 4.26 (Ranked 811)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~153,643 |
-| Copacetic Coordination | 16.00% | ~53,441 |
+| Corner Clout | 46.00% | ~153,645 |
+| Copacetic Coordination | 16.00% | ~53,442 |
 | Fronting the Money | 14.00% | ~46,761 |
 | The Dawn of Automation | 14.00% | ~46,761 |
 | Extraordinary Logistics | 14.00% | ~46,761 |
@@ -18,15 +18,15 @@ Rating: 4.26 (Ranked 810)
 | Beating the Heat | 10.00% | ~33,401 |
 | Friends on the Force | 10.00% | ~33,401 |
 | Neighborhood Watch | 10.00% | ~33,401 |
-| Core Corps | 8.00% | ~26,720 |
-| Sizeable Stash | 8.00% | ~26,720 |
-| Street Fighter | 7.00% | ~23,380 |
-| Friendly Gestures | 7.00% | ~23,380 |
-| People Person | 7.00% | ~23,380 |
-| Liquor Lord | 6.00% | ~20,040 |
-| Safety in Numbers | 6.00% | ~20,040 |
-| Show ‘em the Sugar | 6.00% | ~20,040 |
-| Killing Them Softly | 6.00% | ~20,040 |
+| Core Corps | 8.00% | ~26,721 |
+| Sizeable Stash | 8.00% | ~26,721 |
+| Street Fighter | 7.00% | ~23,381 |
+| Friendly Gestures | 7.00% | ~23,381 |
+| People Person | 7.00% | ~23,381 |
+| Liquor Lord | 6.00% | ~20,041 |
+| Safety in Numbers | 6.00% | ~20,041 |
+| Show ‘em the Sugar | 6.00% | ~20,041 |
+| Killing Them Softly | 6.00% | ~20,041 |
 | Street Knowledge | 5.00% | ~16,700 |
 | Oh Captain | 5.00% | ~16,700 |
 | Branching Out | 5.00% | ~16,700 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 810)
 | High Pillow | 0.10% | ~334 |
 | Station Master | 0.10% | ~334 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 334,006 (Ranked 41)  
+Progressed: 334,010 (Ranked 41)  
 Completed: 5 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 5 (0.00%) (Ranked 246)
 | 2023-07-28 | 333,213 | 5 |
 | 2023-07-29 | 333,503 | 5 |
 | 2023-07-30 | 333,806 | 5 |
-| 2023-07-31 | 334,006 | 5 |
+| 2023-07-31 | 334,010 | 5 |
 ## Awards
 Max (Highly Recommended): 28  (Ranked 464)  
 Sum: 124 (Ranked 401)  

@@ -4,7 +4,7 @@
   "ProductSlug": "deverse-world-3ccb84",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153,
+  "EOS_Progressed": 154,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -576,6 +576,11 @@
       "Time": "2023-07-31T18:05:15.498091+00:00",
       "NumProgressed": 153,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T21:04:29.1216053+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -610,7 +615,7 @@
       "ID": "goblin_slayed",
       "SetID": "5fi1i42",
       "Name": "Goblin Slayer",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -618,9 +623,9 @@
       "ID": "hidden_basement",
       "SetID": "5fi1i42",
       "Name": "Hidden Basement",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "login_count",
@@ -658,9 +663,9 @@
       "ID": "play_worlds",
       "SetID": "5fi1i42",
       "Name": "Play worlds from foes",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "publish_your_first_world",
@@ -706,7 +711,7 @@
       "ID": "treant_destroyer",
       "SetID": "5fi1i42",
       "Name": "Treant Destroyer",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 85,
       "UsersEstimate": 1
     },
@@ -739,14 +744,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-07-31T20:05:32.827177+00:00",
+  "LastChanged_Achievements": "2023-07-31T21:04:29.1216048+00:00",
   "LastUpdate_AppInfo": "2023-07-27T06:57:02.8148136+00:00",
-  "LastUpdate_Ratings": "2023-07-31T19:57:33.3188895+00:00",
-  "LastUpdate_Achievements": "2023-07-31T20:05:32.8272021+00:00"
+  "LastUpdate_Ratings": "2023-07-31T20:57:12.9399754+00:00",
+  "LastUpdate_Achievements": "2023-07-31T21:04:29.1216194+00:00"
 }

@@ -7,11 +7,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Clergy | 3.00% | ~396 |
+| Settler | 2.00% | ~264 |
 | Able | 1.00% | ~132 |
 | Explorer | 1.00% | ~132 |
 | Intrepid | 1.00% | ~132 |
-| Settler | 1.00% | ~132 |
 | Friendly Family | 1.00% | ~132 |
+| Hanging Gardens | 1.00% | ~132 |
 | Play a Single Player Game | 1.00% | ~132 |
 | The Great Mage | 1.00% | ~132 |
 | Poetic Leader | 1.00% | ~132 |
@@ -21,10 +22,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.90% | ~119 |
 | Pioneer | 0.90% | ~119 |
 | Strong | 0.90% | ~119 |
-| Hanging Gardens | 0.90% | ~119 |
 | Oracle | 0.90% | ~119 |
 | Trade Caravan | 0.90% | ~119 |
 | Enlightened | 0.80% | ~106 |
+| Glorious | 0.80% | ~106 |
 | Just | 0.80% | ~106 |
 | Keystone | 0.80% | ~106 |
 | Learned | 0.80% | ~106 |
@@ -32,10 +33,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 0.80% | ~106 |
 | Naming Landmarks | 0.80% | ~106 |
 | Ambitious | 0.70% | ~92 |
-| Glorious | 0.70% | ~92 |
 | Magnificent | 0.70% | ~92 |
 | Warrior | 0.70% | ~92 |
 | Developing Cities | 0.70% | ~92 |
+| Ishtar Gate | 0.70% | ~92 |
 | Lighthouse | 0.70% | ~92 |
 | Pyramids | 0.70% | ~92 |
 | Christianity | 0.70% | ~92 |
@@ -47,37 +48,37 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 0.60% | ~79 |
 | Strong Cities | 0.60% | ~79 |
 | Able Difficulty | 0.60% | ~79 |
+| Artisans | 0.60% | ~79 |
 | Great Ziggurat | 0.60% | ~79 |
-| Ishtar Gate | 0.60% | ~79 |
 | Necropolis | 0.60% | ~79 |
 | Learn to Play 1 | 0.60% | ~79 |
 | Carthaginian Paganism | 0.60% | ~79 |
 | Regicide | 0.50% | ~66 |
 | Great | 0.50% | ~66 |
+| Legendary Cities | 0.50% | ~66 |
 | Just Difficulty | 0.50% | ~66 |
-| Artisans | 0.50% | ~66 |
 | Furious Family | 0.50% | ~66 |
 | Colossus | 0.50% | ~66 |
 | Musaeum | 0.50% | ~66 |
 | Learn to Play 2 | 0.50% | ~66 |
 | Manichaeism | 0.50% | ~66 |
 | Egyptian Paganism | 0.50% | ~66 |
+| Mythology | 0.50% | ~66 |
 | Hanging Gardens in Babylon | 0.40% | ~53 |
 | Drillmaster | 0.40% | ~53 |
 | Intercessor | 0.40% | ~53 |
 | Valiant | 0.40% | ~53 |
-| Legendary Cities | 0.40% | ~53 |
 | Champions | 0.40% | ~53 |
 | Sages | 0.40% | ~53 |
 | Acropolis | 0.40% | ~53 |
 | Apadana | 0.40% | ~53 |
 | Mausoleum | 0.40% | ~53 |
 | Greece | 0.40% | ~53 |
-| Mythology | 0.40% | ~53 |
 | Points Victory | 0.40% | ~53 |
 | Beloved | 0.30% | ~40 |
 | Conqueror | 0.30% | ~40 |
 | Devout | 0.30% | ~40 |
+| Lion | 0.30% | ~40 |
 | Mighty | 0.30% | ~40 |
 | Ready | 0.30% | ~40 |
 | Subjugator | 0.30% | ~40 |
@@ -117,7 +118,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.20% | ~26 |
 | Capable | 0.20% | ~26 |
 | Invincible | 0.20% | ~26 |
-| Lion | 0.20% | ~26 |
 | Old | 0.20% | ~26 |
 | Peacemaker | 0.20% | ~26 |
 | Noble Difficulty | 0.20% | ~26 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,207 (Ranked 117)  
+Progressed: 13,209 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 5 (0.04%) (Ranked 217)
 | 2023-07-28 | 13,145 | 5 |
 | 2023-07-29 | 13,164 | 5 |
 | 2023-07-30 | 13,191 | 5 |
-| 2023-07-31 | 13,207 | 5 |
+| 2023-07-31 | 13,209 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

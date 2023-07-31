@@ -5,22 +5,22 @@ Rating: 4.50 (Ranked 557)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~704 |
-| And so it begins | 73.00% | ~676 |
-| No pressure | 70.00% | ~648 |
-| Memento | 62.00% | ~574 |
-| Let there be light | 60.00% | ~556 |
-| I think you dropped this | 55.00% | ~509 |
+| Good start | 76.00% | ~705 |
+| And so it begins | 72.00% | ~667 |
+| No pressure | 70.00% | ~649 |
+| Memento | 62.00% | ~575 |
+| Let there be light | 59.00% | ~547 |
+| I think you dropped this | 55.00% | ~510 |
 | Soulmate? | 53.00% | ~491 |
 | Excellent service | 49.00% | ~454 |
 | Roll with it | 46.00% | ~426 |
-| Humble beginnings | 44.00% | ~407 |
-| Love is in the air | 44.00% | ~407 |
+| Humble beginnings | 44.00% | ~408 |
+| Love is in the air | 44.00% | ~408 |
 | Fine, I'll do it myself | 42.00% | ~389 |
 | Moving up | 41.00% | ~380 |
-| No need to call anyone | 39.00% | ~361 |
-| Big fortune | 32.00% | ~296 |
-| Still more work ahead | 28.00% | ~259 |
+| No need to call anyone | 39.00% | ~362 |
+| Big fortune | 32.00% | ~297 |
+| Still more work ahead | 28.00% | ~260 |
 | Hotel sleuthing | 27.00% | ~250 |
 | Aesop's fable | 26.00% | ~241 |
 | Kaboom | 25.00% | ~232 |
@@ -28,12 +28,12 @@ Rating: 4.50 (Ranked 557)
 | Broken heart | 22.00% | ~204 |
 | Island boy | 20.00% | ~185 |
 | You're a star | 18.00% | ~167 |
-| Unstoppable | 17.00% | ~157 |
-| Reunited | 17.00% | ~157 |
+| Unstoppable | 17.00% | ~158 |
+| Reunited | 17.00% | ~158 |
 | King of hospitality | 11.00% | ~102 |
 | Top spot in town | 2.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 926 (Ranked 197)  
+Progressed: 927 (Ranked 197)  
 Completed: 15 (1.62%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 15 (1.62%) (Ranked 93)
 | 2023-07-28 | 913 | 15 |
 | 2023-07-29 | 915 | 15 |
 | 2023-07-30 | 923 | 15 |
-| 2023-07-31 | 926 | 15 |
+| 2023-07-31 | 927 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
