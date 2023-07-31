@@ -2,10 +2,10 @@
   "ID": "3e8745caaecf4adb9e358de5df7b8a41",
   "Name": "Infindustry",
   "ProductSlug": "infindustry-cccc40",
-  "Ranking_EOS_Progress": 339,
-  "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_Progress": 340,
+  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
     "PcReleaseDate": "2022-05-03T23:00:00+00:00",
@@ -395,9 +395,9 @@
       "ID": "Builder",
       "SetID": "82ojhod",
       "Name": "Builder",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Cook",
@@ -483,9 +483,9 @@
       "ID": "Workforce",
       "SetID": "82ojhod",
       "Name": "Workforce",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
@@ -498,8 +498,8 @@
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-07-31T22:03:22.6420681+00:00",
+  "LastChanged_Achievements": "2023-07-31T23:03:22.8792552+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:55.0389971+00:00",
-  "LastUpdate_Ratings": "2023-07-31T21:57:55.1250385+00:00",
-  "LastUpdate_Achievements": "2023-07-31T22:03:22.6420801+00:00"
+  "LastUpdate_Ratings": "2023-07-31T22:58:01.0607871+00:00",
+  "LastUpdate_Achievements": "2023-07-31T23:03:22.8792659+00:00"
 }

@@ -1,17 +1,17 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.43 (Ranked 656)  
+Rating: 4.43 (Ranked 657)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~78,747 |
-| Predator I | 22.00% | ~55,885 |
-| Fixer I | 10.00% | ~25,402 |
-| A week in Century City | 10.00% | ~25,402 |
+| Survivor | 31.00% | ~78,748 |
+| Predator I | 22.00% | ~55,886 |
+| Fixer I | 10.00% | ~25,403 |
+| A week in Century City | 10.00% | ~25,403 |
 | The Wait | 7.00% | ~17,782 |
-| Green thumb I | 6.00% | ~15,241 |
-| Cleaning Company | 6.00% | ~15,241 |
+| Green thumb I | 6.00% | ~15,242 |
+| Cleaning Company | 6.00% | ~15,242 |
 | Well-oiled machine | 5.00% | ~12,701 |
 | Saver I | 5.00% | ~12,701 |
 | The Ascent | 4.00% | ~10,161 |
@@ -19,14 +19,14 @@ Rating: 4.43 (Ranked 656)
 | Vandalism | 4.00% | ~10,161 |
 | Capitalist I | 4.00% | ~10,161 |
 | Adrenaline | 3.00% | ~7,621 |
-| By a hair | 2.00% | ~5,080 |
-| Fixer II | 2.00% | ~5,080 |
-| It took a while | 2.00% | ~5,080 |
-| Samurai | 2.00% | ~5,080 |
-| I Left You a Present | 2.00% | ~5,080 |
-| Predator II | 2.00% | ~5,080 |
-| Truffle Dog | 2.00% | ~5,080 |
-| A month in Century City | 2.00% | ~5,080 |
+| By a hair | 2.00% | ~5,081 |
+| Fixer II | 2.00% | ~5,081 |
+| It took a while | 2.00% | ~5,081 |
+| Samurai | 2.00% | ~5,081 |
+| I Left You a Present | 2.00% | ~5,081 |
+| Predator II | 2.00% | ~5,081 |
+| Truffle Dog | 2.00% | ~5,081 |
+| A month in Century City | 2.00% | ~5,081 |
 | The Strengthening | 1.00% | ~2,540 |
 | Saver II | 1.00% | ~2,540 |
 | It's the last one, I swear | 1.00% | ~2,540 |
@@ -62,8 +62,8 @@ Rating: 4.43 (Ranked 656)
 | Capitalist III | 0.10% | ~254 |
 | Hell Is You | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,023 (Ranked 43)  
-Completed: 3 (0.00%) (Ranked 246)  
+Progressed: 254,026 (Ranked 43)  
+Completed: 3 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -164,14 +164,14 @@ Completed: 3 (0.00%) (Ranked 246)
 | 2023-07-28 | 253,814 | 3 |
 | 2023-07-29 | 253,898 | 3 |
 | 2023-07-30 | 253,975 | 3 |
-| 2023-07-31 | 254,023 | 3 |
+| 2023-07-31 | 254,026 | 3 |
 ## Awards
-Max (Great for Quick Sessions): 34  (Ranked 440)  
-Sum: 212 (Ranked 361)  
-Diff (max vs sum): 79  
+Max (Great for Quick Sessions): 35  (Ranked 436)  
+Sum: 213 (Ranked 361)  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 34 |
+| This game is Great for Quick Sessions | 35 |
 | This game has Unique Visuals | 34 |
 | This game has Amazing Characters | 29 |
 | This game has Challenging Combat | 26 |
@@ -286,4 +286,4 @@ Diff (max vs sum): 79
 | 2023-07-28 | 4.42 | 33 | 205 |
 | 2023-07-29 | 4.43 | 33 | 208 |
 | 2023-07-30 | 4.43 | 34 | 209 |
-| 2023-07-31 | 4.43 | 34 | 212 |
+| 2023-07-31 | 4.43 | 35 | 213 |

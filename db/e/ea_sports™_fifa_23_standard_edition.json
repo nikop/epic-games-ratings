@@ -2,13 +2,13 @@
   "ID": "f5deacee017b4b109476933f7dd2edbd",
   "Name": "EA SPORTS\u2122 FIFA 23 Standard Edition",
   "ProductSlug": "fifa-23",
-  "Ranking_Rating": 818,
+  "Ranking_Rating": 819,
   "Ranking_Popularity": 21,
   "Ranking_PopularitySum": 19,
   "Ranking_EOS_Progress": 520,
-  "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-09-30T07:00:00+00:00",
     "PcReleaseDate": "2022-09-30T07:00:00+00:00",
@@ -4740,10 +4740,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 75264,
       "NumberOfAwardsMax": 16374
+    },
+    {
+      "Time": "2023-07-31T23:01:18.2488107+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 75302,
+      "NumberOfAwardsMax": 16374
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 75264,
+  "NumberOfAwards": 75302,
   "NumberOfAwardsMax": 16374,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4787,7 +4793,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 9017
+      "Count": 9055
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4816,9 +4822,9 @@
   "FirstSeen": "2022-09-30T07:01:34.8859438+00:00",
   "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
   "FirstSeenAchievements": "2023-06-30T22:04:55.4343947+00:00",
-  "LastChanged": "2023-07-31T20:01:22.1395652+00:00",
-  "LastChanged_Achievements": "2023-07-31T22:04:33.6494347+00:00",
+  "LastChanged": "2023-07-31T23:01:18.2488105+00:00",
+  "LastChanged_Achievements": "2023-07-31T23:04:36.2826281+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.2221647+00:00",
-  "LastUpdate_Ratings": "2023-07-31T22:01:08.9994428+00:00",
-  "LastUpdate_Achievements": "2023-07-31T22:04:33.6494381+00:00"
+  "LastUpdate_Ratings": "2023-07-31T23:01:18.248811+00:00",
+  "LastUpdate_Achievements": "2023-07-31T23:04:36.2826308+00:00"
 }

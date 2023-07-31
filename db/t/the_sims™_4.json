@@ -2,13 +2,13 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 348,
+  "Ranking_Rating": 349,
   "Ranking_Popularity": 175,
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 520,
-  "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
@@ -4790,10 +4790,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 3806,
       "NumberOfAwardsMax": 617
+    },
+    {
+      "Time": "2023-07-31T22:58:25.4728776+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 3808,
+      "NumberOfAwardsMax": 617
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3806,
+  "NumberOfAwards": 3808,
   "NumberOfAwardsMax": 617,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4801,7 +4807,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 260
+      "Count": 262
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4884,9 +4890,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2023-07-31T16:58:34.6131202+00:00",
-  "LastChanged_Achievements": "2023-07-31T22:03:14.3314916+00:00",
+  "LastChanged": "2023-07-31T22:58:25.4728775+00:00",
+  "LastChanged_Achievements": "2023-07-31T23:03:14.346602+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:28.5345416+00:00",
-  "LastUpdate_Ratings": "2023-07-31T21:58:19.5328676+00:00",
-  "LastUpdate_Achievements": "2023-07-31T22:03:14.3314951+00:00"
+  "LastUpdate_Ratings": "2023-07-31T22:58:25.472878+00:00",
+  "LastUpdate_Achievements": "2023-07-31T23:03:14.3466049+00:00"
 }

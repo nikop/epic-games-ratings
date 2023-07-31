@@ -1,7 +1,7 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 212)  
+Rating: 4.69 (Ranked 213)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -59,7 +59,7 @@ Rating: 4.69 (Ranked 212)
 | WARRIOR IN A GARDEN | 0.10% | ~566 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 565,615 (Ranked 28)  
-Completed: 41 (0.01%) (Ranked 233)  
+Completed: 41 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

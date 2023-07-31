@@ -1,12 +1,12 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.46 (Ranked 613)  
+Rating: 4.46 (Ranked 614)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,088 |
+| Atom Agent | 99.00% | ~1,089 |
 | One HIT wonder | 35.00% | ~385 |
 | Wanderer | 35.00% | ~385 |
 | One shot, one kill | 28.00% | ~308 |
@@ -33,18 +33,18 @@ Number of Ratings: 54  (23.09.2022)
 | It was worth a shot | 1.00% | ~11 |
 | Cosmic Horror | 1.00% | ~11 |
 | Ghostbuster | 0.70% | ~8 |
-| Cheeki Breeki | 0.50% | ~5 |
-| Comrade Yogi | 0.50% | ~5 |
-| Expert | 0.50% | ~5 |
-| Tourist Korallov | 0.50% | ~5 |
+| Cheeki Breeki | 0.50% | ~6 |
+| Comrade Yogi | 0.50% | ~6 |
+| Expert | 0.50% | ~6 |
+| Tourist Korallov | 0.50% | ~6 |
 | It's a classic! | 0.40% | ~4 |
 | Mystical relics | 0.20% | ~2 |
 | 27 Club | 0.00% | ~0 |
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,099 (Ranked 190)  
-Completed: 0 (0.00%) (Ranked 246)  
+Progressed: 1,100 (Ranked 190)  
+Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -132,7 +132,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 1,074 | 0 |
 | 2023-07-29 | 1,085 | 0 |
 | 2023-07-30 | 1,092 | 0 |
-| 2023-07-31 | 1,099 | 0 |
+| 2023-07-31 | 1,100 | 0 |
 ## Awards
 Max (Character Customization): 49  (Ranked 404)  
 Sum: 49 (Ranked 450)  

@@ -3,9 +3,9 @@
   "Name": "Dungeon Drafters",
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 339,
-  "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73,
+  "EOS_Progressed": 74,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -358,6 +358,11 @@
       "Time": "2023-07-30T13:06:18.3497897+00:00",
       "NumProgressed": 73,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T23:04:05.5752326+00:00",
+      "NumProgressed": 74,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -383,7 +388,7 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 27
     },
@@ -399,7 +404,7 @@
       "ID": "InnkeeperQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "Dungeon Mastery",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 15
     },
@@ -455,7 +460,7 @@
       "ID": "MasterRaiderQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Friend!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
       "UsersEstimate": 24
     },
@@ -559,7 +564,7 @@
       "ID": "any_curio",
       "SetID": "3b8n56h",
       "Name": "Might be useful\u2026",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 100,
       "UsersEstimate": 27
     },
@@ -575,7 +580,7 @@
       "ID": "bought_rune_clear",
       "SetID": "3b8n56h",
       "Name": "Clear as Water",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -688,7 +693,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 73,
+      "Progressed": 74,
       "Completed": 0
     }
   ],
@@ -696,8 +701,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-07-31T22:04:04.0361132+00:00",
+  "LastChanged_Achievements": "2023-07-31T23:04:05.5752318+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:59.0527657+00:00",
-  "LastUpdate_Ratings": "2023-07-31T21:58:01.3855739+00:00",
-  "LastUpdate_Achievements": "2023-07-31T22:04:04.0361466+00:00"
+  "LastUpdate_Ratings": "2023-07-31T22:58:06.0548946+00:00",
+  "LastUpdate_Achievements": "2023-07-31T23:04:05.5752603+00:00"
 }

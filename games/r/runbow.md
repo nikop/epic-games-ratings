@@ -1,7 +1,7 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 613)  
+Rating: 4.46 (Ranked 614)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -53,7 +53,7 @@ Rating: 4.46 (Ranked 613)
 | True Completionist | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 247,438 (Ranked 44)  
-Completed: 3 (0.00%) (Ranked 246)  
+Completed: 3 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

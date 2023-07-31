@@ -34,7 +34,7 @@
 | Tritone | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 784 (Ranked 203)  
-Completed: 0 (0.00%) (Ranked 246)  
+Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

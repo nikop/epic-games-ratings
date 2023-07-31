@@ -1,7 +1,7 @@
 # Black Widow: Recharged
 [Store](https://store.epicgames.com/en-US/p/black-widow-recharged)  
 [View Rawdata](../../db/b/black_widow__recharged.json)  
-Rating: 4.20 (Ranked 848)  
+Rating: 4.20 (Ranked 849)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,7 +10,7 @@ Number of Ratings: 34  (23.09.2022)
 | I'm Alive | 53.00% | ~8,900 |
 | Look at Me Now | 28.00% | ~4,702 |
 | Danger Ahead | 27.00% | ~4,534 |
-| Don't Bring Me Down | 19.00% | ~3,190 |
+| Don't Bring Me Down | 19.00% | ~3,191 |
 | The Fall | 18.00% | ~3,023 |
 | Everyone's Born to Die | 16.00% | ~2,687 |
 | Wild West Hero | 14.00% | ~2,351 |
@@ -21,8 +21,8 @@ Number of Ratings: 34  (23.09.2022)
 | After All | 0.90% | ~151 |
 | Time of Our Life | 0.30% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,792 (Ranked 108)  
-Completed: 51 (0.30%) (Ranked 158)  
+Progressed: 16,793 (Ranked 108)  
+Completed: 51 (0.30%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,7 +123,7 @@ Completed: 51 (0.30%) (Ranked 158)
 | 2023-07-28 | 16,699 | 51 |
 | 2023-07-29 | 16,740 | 51 |
 | 2023-07-30 | 16,769 | 51 |
-| 2023-07-31 | 16,792 | 51 |
+| 2023-07-31 | 16,793 | 51 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

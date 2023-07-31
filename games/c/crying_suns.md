@@ -1,7 +1,7 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 557)  
+Rating: 4.50 (Ranked 558)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,7 +19,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Things persisted in not being what they seemed | 0.30% | ~1,393 |
 | Plan for the worst | 0.30% | ~1,393 |
 | Excelsior Rule | 0.30% | ~1,393 |
-| Hand of the Emperor | 0.30% | ~24 |
+| Hand of the Emperor | 0.30% | ~25 |
 | Chapter II: Fallible Flesh | 0.20% | ~928 |
 | Chapter III: The Man Who Sold the World | 0.20% | ~928 |
 | Chapter IV: Through the Looking Glass | 0.20% | ~928 |
@@ -86,8 +86,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~8 |
 | Kronos Rule | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,231 (Ranked 37)  
-Completed: 16 (0.00%) (Ranked 246)  
+Progressed: 464,233 (Ranked 37)  
+Completed: 16 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -188,7 +188,7 @@ Completed: 16 (0.00%) (Ranked 246)
 | 2023-07-28 | 463,997 | 16 |
 | 2023-07-29 | 464,088 | 16 |
 | 2023-07-30 | 464,170 | 16 |
-| 2023-07-31 | 464,231 | 16 |
+| 2023-07-31 | 464,233 | 16 |
 ## Awards
 Max (Character Customization): 214  (Ranked 266)  
 Sum: 214 (Ranked 360)  

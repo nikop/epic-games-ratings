@@ -2,13 +2,13 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "ProductSlug": "valorant",
-  "Ranking_Rating": 511,
+  "Ranking_Rating": 512,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 520,
-  "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2020-06-02T18:52:01+00:00",
@@ -7580,10 +7580,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 465640,
       "NumberOfAwardsMax": 62958
+    },
+    {
+      "Time": "2023-07-31T22:59:09.7481269+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 465744,
+      "NumberOfAwardsMax": 62958
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 465640,
+  "NumberOfAwards": 465744,
   "NumberOfAwardsMax": 62958,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -7621,7 +7627,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 51503
+      "Count": 51607
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7659,8 +7665,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2023-07-31T21:58:59.7900619+00:00",
+  "LastChanged": "2023-07-31T22:59:09.7481267+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:06.1577738+00:00",
-  "LastUpdate_Ratings": "2023-07-31T21:58:59.7900629+00:00",
-  "LastUpdate_Achievements": "2023-07-31T22:04:51.3690587+00:00"
+  "LastUpdate_Ratings": "2023-07-31T22:59:09.7481273+00:00",
+  "LastUpdate_Achievements": "2023-07-31T23:04:54.2406701+00:00"
 }

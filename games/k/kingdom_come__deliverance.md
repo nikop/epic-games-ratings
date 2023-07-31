@@ -1,13 +1,13 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 184)  
+Rating: 4.71 (Ranked 185)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~246,480 |
-| Cavalier | 25.00% | ~198,774 |
+| Blacksmith's Son | 31.00% | ~246,481 |
+| Cavalier | 25.00% | ~198,775 |
 | Fatso | 23.00% | ~182,873 |
 | Awakening | 21.00% | ~166,971 |
 | Ranger | 20.00% | ~159,020 |
@@ -58,7 +58,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Saviour | 0.70% | ~5,566 |
 | Edward Kelly | 0.60% | ~4,771 |
 | Fighter | 0.60% | ~4,771 |
-| I Can Quit Anytime | 0.50% | ~3,975 |
+| I Can Quit Anytime | 0.50% | ~3,976 |
 | Perfectionist | 0.40% | ~3,180 |
 | Alcoholic | 0.30% | ~2,385 |
 | Sniper | 0.30% | ~2,385 |
@@ -89,8 +89,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~795 |
 | Wingman | 0.10% | ~795 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 795,098 (Ranked 15)  
-Completed: 44 (0.01%) (Ranked 233)  
+Progressed: 795,100 (Ranked 15)  
+Completed: 44 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,7 +191,7 @@ Completed: 44 (0.01%) (Ranked 233)
 | 2023-07-28 | 794,631 | 44 |
 | 2023-07-29 | 794,790 | 44 |
 | 2023-07-30 | 794,966 | 44 |
-| 2023-07-31 | 795,098 | 44 |
+| 2023-07-31 | 795,100 | 44 |
 ## Awards
 Max (Character Customization): 7,353  (Ranked 46)  
 Sum: 27,405 (Ranked 45)  

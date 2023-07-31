@@ -2,11 +2,11 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 273,
+  "Ranking_Rating": 274,
   "Ranking_Popularity": 184,
   "Ranking_PopularitySum": 133,
   "Ranking_EOS_Progress": 59,
-  "Ranking_EOS_Completed": 221,
+  "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 43,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
@@ -1369,9 +1369,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 190278,
+  "EOS_Progressed": 190283,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1963,
+  "EOS_NewPlayers": 1957,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12599,6 +12599,11 @@
       "Time": "2023-07-31T22:07:16.1246169+00:00",
       "NumProgressed": 190278,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-07-31T23:07:21.3389481+00:00",
+      "NumProgressed": 190283,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 44,
@@ -12650,7 +12655,7 @@
       "Name": "Disguised",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13319
+      "UsersEstimate": 13320
     },
     {
       "ID": "FiveShadows",
@@ -12730,7 +12735,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 13319
+      "UsersEstimate": 13320
     },
     {
       "ID": "Mercyful",
@@ -12826,7 +12831,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13319
+      "UsersEstimate": 13320
     },
     {
       "ID": "Rollin",
@@ -12834,7 +12839,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13319
+      "UsersEstimate": 13320
     },
     {
       "ID": "StillRollin",
@@ -12858,7 +12863,7 @@
       "Name": "Stoned Ox",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13319
+      "UsersEstimate": 13320
     },
     {
       "ID": "TanukiTime",
@@ -12866,7 +12871,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 15222
+      "UsersEstimate": 15223
     },
     {
       "ID": "TheCave",
@@ -12961,15 +12966,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 190278,
+      "Progressed": 190283,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-07-30T00:00:34.0323679+00:00",
-  "LastChanged_Achievements": "2023-07-31T22:07:16.1246161+00:00",
+  "LastChanged_Achievements": "2023-07-31T23:07:21.3389477+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:58.4166867+00:00",
-  "LastUpdate_Ratings": "2023-07-31T21:59:54.3760019+00:00",
-  "LastUpdate_Achievements": "2023-07-31T22:07:16.1247129+00:00"
+  "LastUpdate_Ratings": "2023-07-31T23:00:05.8471334+00:00",
+  "LastUpdate_Achievements": "2023-07-31T23:07:21.3390321+00:00"
 }

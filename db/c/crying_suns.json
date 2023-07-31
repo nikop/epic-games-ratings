@@ -2,13 +2,13 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 557,
+  "Ranking_Rating": 558,
   "Ranking_Popularity": 266,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 37,
-  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 464231,
+  "EOS_Progressed": 464233,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 516,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11127,6 +11127,11 @@
       "Time": "2023-07-31T22:04:28.4280497+00:00",
       "NumProgressed": 464231,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-31T23:04:30.9057397+00:00",
+      "NumProgressed": 464233,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -11698,7 +11703,7 @@
       "Name": "Hand of the Emperor",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_easy_normal",
@@ -11769,21 +11774,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 8165,
+      "Progressed": 8167,
       "Completed": 2354
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 464231,
+      "Progressed": 464233,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-31T22:04:28.4280491+00:00",
+  "LastChanged_Achievements": "2023-07-31T23:04:30.9057393+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:07.5889306+00:00",
-  "LastUpdate_Ratings": "2023-07-31T22:00:06.5551828+00:00",
-  "LastUpdate_Achievements": "2023-07-31T22:04:28.4281949+00:00"
+  "LastUpdate_Ratings": "2023-07-31T23:00:19.2228618+00:00",
+  "LastUpdate_Achievements": "2023-07-31T23:04:30.9058571+00:00"
 }

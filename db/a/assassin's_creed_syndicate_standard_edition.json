@@ -2,13 +2,13 @@
   "ID": "c9be94273fe244c08032ca493ad87434",
   "Name": "Assassin\u0027s Creed Syndicate Standard Edition",
   "ProductSlug": "assassins-creed-syndicate",
-  "Ranking_Rating": 539,
+  "Ranking_Rating": 540,
   "Ranking_Popularity": 344,
   "Ranking_PopularitySum": 263,
   "Ranking_EOS_Progress": 520,
-  "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-02-20T16:00:00+00:00",
     "PcReleaseDate": "2015-10-23T16:00:00+00:00",
@@ -1956,6 +1956,6 @@
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
   "LastChanged": "2023-07-30T19:59:54.7116769+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:40.4171869+00:00",
-  "LastUpdate_Ratings": "2023-07-31T22:00:39.7635152+00:00",
-  "LastUpdate_Achievements": "2023-07-31T22:02:05.3783951+00:00"
+  "LastUpdate_Ratings": "2023-07-31T23:00:51.5553123+00:00",
+  "LastUpdate_Achievements": "2023-07-31T23:01:35.4045833+00:00"
 }

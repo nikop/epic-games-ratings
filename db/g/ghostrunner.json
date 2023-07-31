@@ -2,13 +2,13 @@
   "ID": "95d0b9561be1464cb43bd029e94cf526",
   "Name": "Ghostrunner",
   "ProductSlug": "ghostrunner",
-  "Ranking_Rating": 169,
+  "Ranking_Rating": 170,
   "Ranking_Popularity": 196,
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 116,
-  "Ranking_EOS_Completed": 147,
+  "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1032,9 +1032,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14064,
+  "EOS_Progressed": 14065,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 749,
+  "EOS_NewPlayers": 750,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -11867,6 +11867,11 @@
       "Time": "2023-07-31T22:03:58.4962761+00:00",
       "NumProgressed": 14064,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-07-31T23:04:00.1845426+00:00",
+      "NumProgressed": 14065,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 45,
@@ -11934,7 +11939,7 @@
       "Name": "Fine addition",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "FinishLine",
@@ -11974,7 +11979,7 @@
       "Name": "I call it luck",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 6188
+      "UsersEstimate": 6189
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -12054,7 +12059,7 @@
       "Name": "One Of Those Days",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "OutOfOrder",
@@ -12070,7 +12075,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 4500
+      "UsersEstimate": 4501
     },
     {
       "ID": "PreempativeStrike",
@@ -12214,7 +12219,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 5766
+      "UsersEstimate": 5767
     },
     {
       "ID": "WhereHeStood",
@@ -12230,28 +12235,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4219
+      "UsersEstimate": 4220
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 14064,
+      "Progressed": 14065,
       "Completed": 33
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 14064,
+      "Progressed": 14065,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-07-31T08:58:47.177129+00:00",
-  "LastChanged_Achievements": "2023-07-31T22:03:58.4962752+00:00",
+  "LastChanged_Achievements": "2023-07-31T23:04:00.1845422+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:57.4259207+00:00",
-  "LastUpdate_Ratings": "2023-07-31T21:58:50.4636715+00:00",
-  "LastUpdate_Achievements": "2023-07-31T22:03:58.4963828+00:00"
+  "LastUpdate_Ratings": "2023-07-31T22:58:59.4465538+00:00",
+  "LastUpdate_Achievements": "2023-07-31T23:04:00.1846253+00:00"
 }

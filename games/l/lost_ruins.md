@@ -46,7 +46,7 @@
 | Necromancer | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 416 (Ranked 231)  
-Completed: 0 (0.00%) (Ranked 246)  
+Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,15 +1,15 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 296)  
+Rating: 4.65 (Ranked 297)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,883 |
-| A Grove Replanted | 53.00% | ~3,675 |
-| Fields Watered | 41.00% | ~2,843 |
-| Settling the Skies | 41.00% | ~2,843 |
+| A Small Community | 56.00% | ~3,884 |
+| A Grove Replanted | 53.00% | ~3,676 |
+| Fields Watered | 41.00% | ~2,844 |
+| Settling the Skies | 41.00% | ~2,844 |
 | Seekers Found | 40.00% | ~2,774 |
 | Wind Powered | 40.00% | ~2,774 |
 | It Takes a Village | 34.00% | ~2,358 |
@@ -20,21 +20,21 @@ Number of Ratings: 74  (23.09.2022)
 | Harp Tuned | 23.00% | ~1,595 |
 | Pyre Ignited | 23.00% | ~1,595 |
 | Travelers Returned | 23.00% | ~1,595 |
-| Hopes Hoisted | 22.00% | ~1,525 |
+| Hopes Hoisted | 22.00% | ~1,526 |
 | Knowledge Shared | 20.00% | ~1,387 |
 | Relic Finder | 20.00% | ~1,387 |
-| Worthy of the Title | 19.00% | ~1,317 |
+| Worthy of the Title | 19.00% | ~1,318 |
 | A Peaceful Respite | 14.00% | ~971 |
-| A Learned Scholar | 13.00% | ~901 |
-| Prophecy Fulfilled | 13.00% | ~901 |
+| A Learned Scholar | 13.00% | ~902 |
+| Prophecy Fulfilled | 13.00% | ~902 |
 | A Wanderer’s Guide | 11.00% | ~763 |
-| Knowledge Seeker | 7.00% | ~485 |
+| Knowledge Seeker | 7.00% | ~486 |
 | The Cycle Continues | 3.00% | ~208 |
 | Glowing Waters | 2.00% | ~139 |
 | Sparkling Alloys | 2.00% | ~139 |
 | A True Challenge | 2.00% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,934 (Ranked 131)  
+Progressed: 6,936 (Ranked 131)  
 Completed: 53 (0.76%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 53 (0.76%) (Ranked 118)
 | 2023-07-28 | 6,909 | 52 |
 | 2023-07-29 | 6,914 | 52 |
 | 2023-07-30 | 6,928 | 53 |
-| 2023-07-31 | 6,934 | 53 |
+| 2023-07-31 | 6,936 | 53 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

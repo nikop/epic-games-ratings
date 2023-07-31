@@ -12,10 +12,10 @@
 | Green Energy | 7.00% | ~8 |
 | Good payer | 6.00% | ~7 |
 | Great Producer | 6.00% | ~7 |
+| Jantine: the Misfortunes of Evil | 5.00% | ~6 |
 | Health Care | 5.00% | ~6 |
 | There's something in those trees | 5.00% | ~6 |
 | Ammo Tycoon | 5.00% | ~6 |
-| Jantine: the Misfortunes of Evil | 4.00% | ~5 |
 | Desert Power | 4.00% | ~5 |
 | Pathfinder | 4.00% | ~5 |
 | Self-sufficient | 4.00% | ~5 |
@@ -34,6 +34,7 @@
 | No News is Good News | 0.90% | ~1 |
 | Snowman | 0.90% | ~1 |
 | Overpopulation | 0.90% | ~1 |
+| Training Camp | 0.90% | ~1 |
 | Reconquest | 0.90% | ~1 |
 | Winter Soldier | 0.90% | ~1 |
 | Economist | 0.00% | ~0 |
@@ -42,7 +43,6 @@
 | Crisis Committee | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |
 | War Veteran | 0.00% | ~0 |
-| Training Camp | 0.00% | ~0 |
 | Conveyor Belt Madness | 0.00% | ~0 |
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
@@ -50,7 +50,7 @@
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 115 (Ranked 307)  
-Completed: 0 (0.00%) (Ranked 246)  
+Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

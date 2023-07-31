@@ -1,7 +1,7 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.45 (Ranked 628)  
+Rating: 4.45 (Ranked 629)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 58  (23.09.2022)
 | Space Traveler | 78.00% | ~860 |
 | Demigod | 75.00% | ~827 |
 | The Great Destroyer | 74.00% | ~816 |
-| Shields Down | 71.00% | ~783 |
+| Shields Down | 72.00% | ~794 |
 | Helping Hand | 66.00% | ~728 |
 | Safe Home | 66.00% | ~728 |
 | Paragon | 62.00% | ~684 |

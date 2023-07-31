@@ -1,7 +1,7 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.33 (Ranked 761)  
+Rating: 4.33 (Ranked 762)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -31,7 +31,7 @@ Number of Ratings: 34  (23.09.2022)
 | Bullseye! | 20.00% | ~88 |
 | Sorrow | 18.00% | ~79 |
 | Food Massacre | 18.00% | ~79 |
-| Atonement | 16.00% | ~70 |
+| Atonement | 17.00% | ~75 |
 | Collectibles of Chapter III | 15.00% | ~66 |
 | Collectibles of Chapter IV | 15.00% | ~66 |
 | Helping Hand | 15.00% | ~66 |
@@ -67,7 +67,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 440 (Ranked 228)  
-Completed: 0 (0.00%) (Ranked 246)  
+Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

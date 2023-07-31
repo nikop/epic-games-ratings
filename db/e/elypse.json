@@ -3,9 +3,9 @@
   "Name": "Elypse",
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 336,
-  "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -449,9 +449,9 @@
       "ID": "Ach_BuyHut",
       "SetID": "4o5gjp0",
       "Name": "Pigeon",
-      "Percentage": 80,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Ach_CallBeggarNothingToSell",
@@ -481,9 +481,9 @@
       "ID": "Ach_DiscoveryCatacombes",
       "SetID": "4o5gjp0",
       "Name": "A bottomless pit",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Ach_DiscoveryCaverns",
@@ -664,8 +664,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-07-31T22:04:44.6231043+00:00",
+  "LastChanged_Achievements": "2023-07-31T23:04:47.5349411+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:57.8923597+00:00",
-  "LastUpdate_Ratings": "2023-07-31T21:58:49.6679527+00:00",
-  "LastUpdate_Achievements": "2023-07-31T22:04:44.6231326+00:00"
+  "LastUpdate_Ratings": "2023-07-31T22:58:58.6439352+00:00",
+  "LastUpdate_Achievements": "2023-07-31T23:04:47.5349642+00:00"
 }

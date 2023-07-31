@@ -1,7 +1,7 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.46 (Ranked 613)  
+Rating: 4.46 (Ranked 614)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -47,7 +47,7 @@ Number of Ratings: 28  (23.09.2022)
 | Salesman | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 409 (Ranked 232)  
-Completed: 2 (0.49%) (Ranked 138)  
+Completed: 2 (0.49%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

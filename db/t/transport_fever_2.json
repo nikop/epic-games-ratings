@@ -2,13 +2,13 @@
   "ID": "1760fff3738043f2870594d94487fa4b",
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
-  "Ranking_Rating": 212,
+  "Ranking_Rating": 213,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 177,
-  "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -466,10 +466,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 276,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-07-31T23:00:45.0169924+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 277,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 276,
+  "NumberOfAwards": 277,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -501,7 +507,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3443,9 +3449,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
-  "LastChanged": "2023-07-30T19:00:41.0909972+00:00",
-  "LastChanged_Achievements": "2023-07-31T22:04:50.6894942+00:00",
+  "LastChanged": "2023-07-31T23:00:45.0169923+00:00",
+  "LastChanged_Achievements": "2023-07-31T23:04:53.714683+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:31.2421067+00:00",
-  "LastUpdate_Ratings": "2023-07-31T22:00:33.4846156+00:00",
-  "LastUpdate_Achievements": "2023-07-31T22:04:50.6895655+00:00"
+  "LastUpdate_Ratings": "2023-07-31T23:00:45.0169927+00:00",
+  "LastUpdate_Achievements": "2023-07-31T23:04:53.7147403+00:00"
 }

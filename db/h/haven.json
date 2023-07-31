@@ -2,13 +2,13 @@
   "ID": "2d831f372e6343cc85cceda5c9c808cf",
   "Name": "Haven",
   "ProductSlug": "haven",
-  "Ranking_Rating": 159,
+  "Ranking_Rating": 160,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1365,
+  "EOS_Progressed": 1366,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -1368,6 +1368,11 @@
       "Time": "2023-07-31T21:06:13.1023619+00:00",
       "NumProgressed": 1365,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-31T23:07:19.6152298+00:00",
+      "NumProgressed": 1366,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1379,7 +1384,7 @@
       "Name": "Lovebirds",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "10",
@@ -1387,7 +1392,7 @@
       "Name": "Perfect timing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "11",
@@ -1395,7 +1400,7 @@
       "Name": "Strike!",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "12",
@@ -1411,7 +1416,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "14",
@@ -1443,7 +1448,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "18",
@@ -1515,7 +1520,7 @@
       "Name": "Heartstrings",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "27",
@@ -1587,7 +1592,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "7",
@@ -1618,15 +1623,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1365,
+      "Progressed": 1366,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-07-31T22:07:14.4227859+00:00",
+  "LastChanged_Achievements": "2023-07-31T23:07:19.6152294+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:08.3716541+00:00",
-  "LastUpdate_Ratings": "2023-07-31T22:00:14.975486+00:00",
-  "LastUpdate_Achievements": "2023-07-31T22:07:14.4228158+00:00"
+  "LastUpdate_Ratings": "2023-07-31T23:00:26.2793562+00:00",
+  "LastUpdate_Achievements": "2023-07-31T23:07:19.6152537+00:00"
 }

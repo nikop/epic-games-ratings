@@ -2,13 +2,13 @@
   "ID": "27834480410d4000a987b32801e9abba",
   "Name": "First Class Trouble",
   "ProductSlug": "first-class-trouble",
-  "Ranking_Rating": 557,
+  "Ranking_Rating": 558,
   "Ranking_Popularity": 319,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 520,
-  "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -1252,10 +1252,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 605,
       "NumberOfAwardsMax": 117
+    },
+    {
+      "Time": "2023-07-31T22:58:22.8201557+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 606,
+      "NumberOfAwardsMax": 117
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 605,
+  "NumberOfAwards": 606,
   "NumberOfAwardsMax": 117,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1311,7 +1317,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game is Relaxing",
@@ -1332,8 +1338,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
-  "LastChanged": "2023-07-31T18:58:25.2420791+00:00",
+  "LastChanged": "2023-07-31T22:58:22.8201555+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:14.2331449+00:00",
-  "LastUpdate_Ratings": "2023-07-31T21:58:17.5218727+00:00",
-  "LastUpdate_Achievements": "2023-07-31T22:04:51.9879591+00:00"
+  "LastUpdate_Ratings": "2023-07-31T22:58:22.820156+00:00",
+  "LastUpdate_Achievements": "2023-07-31T23:04:54.9807974+00:00"
 }

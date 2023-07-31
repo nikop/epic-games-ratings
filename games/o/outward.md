@@ -1,14 +1,14 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 481)  
+Rating: 4.55 (Ranked 482)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,412 |
-| Ready for Winter | 64.00% | ~2,058 |
-| Ready for Summer | 51.00% | ~1,640 |
+| Venture Outward | 75.00% | ~2,413 |
+| Ready for Winter | 64.00% | ~2,059 |
+| Ready for Summer | 51.00% | ~1,641 |
 | Cordon Bleu | 43.00% | ~1,383 |
 | Tapped! | 36.00% | ~1,158 |
 | Eureka | 32.00% | ~1,029 |
@@ -22,7 +22,7 @@ Number of Ratings: 266  (23.09.2022)
 | The Power of Family | 16.00% | ~515 |
 | Strange amalgams | 12.00% | ~386 |
 | The Power of Faith | 12.00% | ~386 |
-| The Power of Freedom | 9.00% | ~289 |
+| The Power of Freedom | 9.00% | ~290 |
 | Ace Detective | 8.00% | ~257 |
 | Gift from the Ancestors | 8.00% | ~257 |
 | Magic is a science | 8.00% | ~257 |
@@ -35,8 +35,8 @@ Number of Ratings: 266  (23.09.2022)
 | Ancestor's Pride | 4.00% | ~129 |
 | For All Aurai | 4.00% | ~129 |
 | Memory of a legend | 4.00% | ~129 |
-| Light of Levant | 3.00% | ~96 |
-| This was a mistake... | 3.00% | ~96 |
+| Light of Levant | 3.00% | ~97 |
+| This was a mistake... | 3.00% | ~97 |
 | Crowd Pleaser. | 2.00% | ~64 |
 | Perfect Defense | 2.00% | ~64 |
 | Power! To! The People! | 2.00% | ~64 |
@@ -49,8 +49,8 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,216 (Ranked 151)  
-Completed: 3 (0.09%) (Ranked 197)  
+Progressed: 3,217 (Ranked 151)  
+Completed: 3 (0.09%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -148,7 +148,7 @@ Completed: 3 (0.09%) (Ranked 197)
 | 2023-07-28 | 3,170 | 3 |
 | 2023-07-29 | 3,182 | 3 |
 | 2023-07-30 | 3,205 | 3 |
-| 2023-07-31 | 3,216 | 3 |
+| 2023-07-31 | 3,217 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 446)  
 Sum: 241 (Ranked 352)  

@@ -9,8 +9,8 @@
 | Good Person Chip | 84.00% | ~166 |
 | First winning | 83.00% | ~164 |
 | Your first job | 82.00% | ~162 |
+| Old movies enjoyer | 79.00% | ~156 |
 | First defeat | 78.00% | ~154 |
-| Old movies enjoyer | 78.00% | ~154 |
 | Fitness professional | 76.00% | ~150 |
 | Depressed visitor | 75.00% | ~148 |
 | Neurotrainer – power gainer! | 74.00% | ~147 |
@@ -40,18 +40,18 @@
 | No blades in the gym | 45.00% | ~89 |
 | Your own way | 45.00% | ~89 |
 | Guiding on the right path | 43.00% | ~85 |
-| Fight is life | 41.00% | ~81 |
+| Fight is life | 42.00% | ~83 |
 | Mysterious voice | 41.00% | ~81 |
 | Get out of my apartment! | 37.00% | ~73 |
+| Responsible approach | 36.00% | ~71 |
 | Underground dwellers | 35.00% | ~69 |
-| Responsible approach | 35.00% | ~69 |
+| Deal with life | 34.00% | ~67 |
 | GYM professional | 34.00% | ~67 |
 | Champion – no way back | 34.00% | ~67 |
-| Deal with life | 33.00% | ~65 |
-| Poisoned fighter | 32.00% | ~63 |
+| Poisoned fighter | 33.00% | ~65 |
+| Mom got better | 32.00% | ~63 |
+| The die is cast | 32.00% | ~63 |
 | Seashell hunter | 32.00% | ~63 |
-| Mom got better | 31.00% | ~61 |
-| The die is cast | 31.00% | ~61 |
 | The last bell ring | 30.00% | ~59 |
 | Undercover robot | 30.00% | ~59 |
 | Gang wrangler | 29.00% | ~57 |

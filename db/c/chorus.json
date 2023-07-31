@@ -2,13 +2,13 @@
   "ID": "4930dde6add240a9bfc7ddc415dc2799",
   "Name": "Chorus",
   "ProductSlug": "chorus",
-  "Ranking_Rating": 628,
+  "Ranking_Rating": 629,
   "Ranking_Popularity": 451,
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -1785,9 +1785,9 @@
       "ID": "MissionSalvage",
       "SetID": "a6c395p",
       "Name": "Shields Down",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 783
+      "UsersEstimate": 794
     },
     {
       "ID": "MissionScavengingJob",
@@ -1921,8 +1921,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-07-31T22:04:57.4093321+00:00",
+  "LastChanged_Achievements": "2023-07-31T23:05:00.2114066+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:56.2520049+00:00",
-  "LastUpdate_Ratings": "2023-07-31T22:00:52.5602355+00:00",
-  "LastUpdate_Achievements": "2023-07-31T22:04:57.409373+00:00"
+  "LastUpdate_Ratings": "2023-07-31T23:01:04.6037698+00:00",
+  "LastUpdate_Achievements": "2023-07-31T23:05:00.2114405+00:00"
 }

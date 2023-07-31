@@ -1,7 +1,7 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 169)  
+Rating: 4.72 (Ranked 170)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,11 +12,11 @@ Number of Ratings: 1,047  (23.09.2022)
 | Wallrunner | 54.00% | ~7,595 |
 | Homerunner | 45.00% | ~6,329 |
 | Out of order | 45.00% | ~6,329 |
-| I call it luck | 44.00% | ~6,188 |
-| Where are my Keys? | 41.00% | ~5,766 |
+| I call it luck | 44.00% | ~6,189 |
+| Where are my Keys? | 41.00% | ~5,767 |
 | Back to hell | 37.00% | ~5,204 |
-| Perfection | 32.00% | ~4,500 |
-| Why not both | 30.00% | ~4,219 |
+| Perfection | 32.00% | ~4,501 |
+| Why not both | 30.00% | ~4,220 |
 | Sword to a gunfight | 29.00% | ~4,079 |
 | Upgrades not mandatory | 29.00% | ~4,079 |
 | Artificial selection | 28.00% | ~3,938 |
@@ -33,8 +33,8 @@ Number of Ratings: 1,047  (23.09.2022)
 | Strike | 13.00% | ~1,828 |
 | More than human | 12.00% | ~1,688 |
 | Triple A | 9.00% | ~1,266 |
-| Fine addition | 7.00% | ~984 |
-| One Of Those Days | 7.00% | ~984 |
+| Fine addition | 7.00% | ~985 |
+| One Of Those Days | 7.00% | ~985 |
 | Where He Stood | 5.00% | ~703 |
 | About Adam | 4.00% | ~563 |
 | Push it to the limit | 4.00% | ~563 |
@@ -52,8 +52,8 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~56 |
 | Up Close And Personal | 0.40% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,064 (Ranked 116)  
-Completed: 54 (0.38%) (Ranked 147)  
+Progressed: 14,065 (Ranked 116)  
+Completed: 54 (0.38%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -154,7 +154,7 @@ Completed: 54 (0.38%) (Ranked 147)
 | 2023-07-28 | 13,724 | 54 |
 | 2023-07-29 | 13,840 | 54 |
 | 2023-07-30 | 13,961 | 54 |
-| 2023-07-31 | 14,064 | 54 |
+| 2023-07-31 | 14,065 | 54 |
 ## Awards
 Max (Great Boss Battles): 474  (Ranked 196)  
 Sum: 634 (Ranked 287)  

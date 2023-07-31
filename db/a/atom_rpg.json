@@ -2,13 +2,13 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
-  "Ranking_Rating": 613,
+  "Ranking_Rating": 614,
   "Ranking_Popularity": 404,
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 190,
-  "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1099,
+  "EOS_Progressed": 1100,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1968,6 +1968,11 @@
       "Time": "2023-07-31T18:04:23.585285+00:00",
       "NumProgressed": 1099,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T23:04:17.6617449+00:00",
+      "NumProgressed": 1100,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1995,7 +2000,7 @@
       "Name": "Cheeki Breeki",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CLASSIC",
@@ -2019,7 +2024,7 @@
       "Name": "Comrade Yogi",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DOUBLE_AGENT",
@@ -2035,7 +2040,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "EXPERT_1",
@@ -2043,7 +2048,7 @@
       "Name": "Expert",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "EXPLORER_1",
@@ -2091,7 +2096,7 @@
       "Name": "Tourist Korallov",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KRAINA_GRZYBOW_1",
@@ -2266,15 +2271,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1099,
+      "Progressed": 1100,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-31T22:04:15.7165103+00:00",
+  "LastChanged_Achievements": "2023-07-31T23:04:17.6617442+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:04.0177394+00:00",
-  "LastUpdate_Ratings": "2023-07-31T22:00:59.7149043+00:00",
-  "LastUpdate_Achievements": "2023-07-31T22:04:15.7165539+00:00"
+  "LastUpdate_Ratings": "2023-07-31T23:01:08.9191006+00:00",
+  "LastUpdate_Achievements": "2023-07-31T23:04:17.661774+00:00"
 }

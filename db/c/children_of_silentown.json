@@ -2,10 +2,10 @@
   "ID": "5d2eeb5e52a54324a8246eb39ee72d4b",
   "Name": "Children of Silentown",
   "ProductSlug": "children-of-silentown-52cc21",
-  "Ranking_EOS_Progress": 286,
-  "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_Progress": 287,
+  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
     "PcReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 189,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -499,8 +499,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-07-31T22:03:10.9084912+00:00",
+  "LastChanged_Achievements": "2023-07-31T23:03:11.0389729+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:03.0918424+00:00",
-  "LastUpdate_Ratings": "2023-07-31T22:00:59.5636907+00:00",
-  "LastUpdate_Achievements": "2023-07-31T22:03:10.9085128+00:00"
+  "LastUpdate_Ratings": "2023-07-31T23:01:08.7693829+00:00",
+  "LastUpdate_Achievements": "2023-07-31T23:03:11.0390005+00:00"
 }

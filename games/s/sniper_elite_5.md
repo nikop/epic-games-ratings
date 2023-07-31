@@ -1,19 +1,19 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.42 (Ranked 665)  
+Rating: 4.42 (Ranked 666)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Liberté | 4.00% | ~135 |
-| Confirming Suspicions | 4.00% | ~135 |
-| Lord of War | 4.00% | ~135 |
-| The Kraken Wakes | 4.00% | ~135 |
-| It's Starting to Crack | 4.00% | ~135 |
-| Change the Channel | 4.00% | ~135 |
-| Taking it back | 4.00% | ~135 |
-| Target America | 4.00% | ~135 |
-| The Kraken Sleeps | 4.00% | ~135 |
+| Liberté | 4.00% | ~136 |
+| Confirming Suspicions | 4.00% | ~136 |
+| Lord of War | 4.00% | ~136 |
+| The Kraken Wakes | 4.00% | ~136 |
+| It's Starting to Crack | 4.00% | ~136 |
+| Change the Channel | 4.00% | ~136 |
+| Taking it back | 4.00% | ~136 |
+| Target America | 4.00% | ~136 |
+| The Kraken Sleeps | 4.00% | ~136 |
 | Climbing the Ladder | 3.00% | ~102 |
 | No Stone Unturned | 3.00% | ~102 |
 | Organ Grinder | 3.00% | ~102 |
@@ -77,8 +77,8 @@ Rating: 4.42 (Ranked 665)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,387 (Ranked 149)  
-Completed: 9 (0.27%) (Ranked 161)  
+Progressed: 3,388 (Ranked 149)  
+Completed: 9 (0.27%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -178,7 +178,7 @@ Completed: 9 (0.27%) (Ranked 161)
 | 2023-07-28 | 3,364 | 9 |
 | 2023-07-29 | 3,371 | 9 |
 | 2023-07-30 | 3,383 | 9 |
-| 2023-07-31 | 3,387 | 9 |
+| 2023-07-31 | 3,388 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

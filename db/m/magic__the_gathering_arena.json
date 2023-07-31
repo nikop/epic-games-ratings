@@ -2,13 +2,13 @@
   "ID": "5fdcc0dc67294af3be740f362bd976fd",
   "Name": "Magic: The Gathering Arena",
   "ProductSlug": "mtg-arena",
-  "Ranking_Rating": 628,
+  "Ranking_Rating": 629,
   "Ranking_Popularity": 34,
   "Ranking_PopularitySum": 17,
   "Ranking_EOS_Progress": 520,
-  "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -8681,10 +8681,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 88665,
       "NumberOfAwardsMax": 10989
+    },
+    {
+      "Time": "2023-07-31T22:59:11.5295626+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 88674,
+      "NumberOfAwardsMax": 10989
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 88665,
+  "NumberOfAwards": 88674,
   "NumberOfAwardsMax": 10989,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -8698,7 +8704,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 9372
+      "Count": 9380
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8752,7 +8758,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 5782
+      "Count": 5783
     }
   ],
   "EOS_Progressed": 0,
@@ -8766,8 +8772,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-07-31T20:58:29.8456445+00:00",
+  "LastChanged": "2023-07-31T22:59:11.5295625+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:07.3189485+00:00",
-  "LastUpdate_Ratings": "2023-07-31T21:59:01.7526994+00:00",
-  "LastUpdate_Achievements": "2023-07-31T22:06:26.1713518+00:00"
+  "LastUpdate_Ratings": "2023-07-31T22:59:11.5295631+00:00",
+  "LastUpdate_Achievements": "2023-07-31T23:06:30.3102252+00:00"
 }

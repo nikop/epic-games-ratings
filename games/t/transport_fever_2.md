@@ -1,7 +1,7 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.69 (Ranked 212)  
+Rating: 4.69 (Ranked 213)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -69,7 +69,7 @@ Number of Ratings: 180  (23.09.2022)
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,515 (Ranked 177)  
-Completed: 0 (0.00%) (Ranked 246)  
+Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -171,7 +171,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-31 | 1,515 | 0 |
 ## Awards
 Max (Highly Recommended): 40  (Ranked 424)  
-Sum: 276 (Ranked 343)  
+Sum: 277 (Ranked 343)  
 Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
@@ -179,8 +179,8 @@ Diff (max vs sum): 81
 | This game is Great for Beginners | 35 |
 | This game has Amazing Storytelling | 34 |
 | This game is Extremely Fun | 33 |
+| This game is Relaxing | 31 |
 | This game has Quickly Understood Controls | 31 |
-| This game is Relaxing | 30 |
 | This game has a Creative Community | 26 |
 | This game is Educational | 25 |
 | This game has Amazing Characters | 22 |
@@ -263,3 +263,4 @@ Diff (max vs sum): 81
 | 2023-07-19 | 4.68 | - | 40 | 275 |
 | 2023-07-28 | 4.69 | - | 40 | 275 |
 | 2023-07-30 | 4.69 | - | 40 | 276 |
+| 2023-07-31 | 4.69 | - | 40 | 277 |
