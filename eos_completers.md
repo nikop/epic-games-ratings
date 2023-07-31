@@ -15,12 +15,12 @@
 | 13 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 15 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 13.33% |
-| 16 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 13.04% |
+| 16 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 12.86% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
 | 18 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 11.76% |
 | 19 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.43% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 21 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.98% |
+| 21 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.97% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Remains](games/r/remains.md) | 10.64% |
 | 24 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
@@ -55,8 +55,8 @@
 | 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.04% |
 | 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.99% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.80% |
-| 56 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.63% |
-| 57 | [ZZT!](games/z/zzt!.md) | 3.61% |
+| 56 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.61% |
+| 56 | [ZZT!](games/z/zzt!.md) | 3.61% |
 | 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.49% |
 | 60 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
@@ -156,13 +156,13 @@
 | 154 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
 | 154 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 154 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
-| 157 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
-| 157 | [Scrapnaut](games/s/scrapnaut.md) | 0.30% |
-| 157 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
+| 154 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 158 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
+| 158 | [Scrapnaut](games/s/scrapnaut.md) | 0.30% |
+| 160 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.28% |
 | 160 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
-| 161 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.27% |
-| 161 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.27% |
-| 161 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
+| 162 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.27% |
+| 162 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
 | 164 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 164 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
 | 164 | [Blanc](games/b/blanc.md) | 0.25% |

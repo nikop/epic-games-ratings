@@ -78,9 +78,9 @@
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,213 | 4.56 | 464 |
 | 77 | [God of War](games/g/god_of_war.md) | 4,178 | 4.88 | 18 |
 | 78 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,106 | 4.51 | 540 |
-| 79 | [SMITE](games/s/smite.md) | 4,095 | 4.44 | 645 |
+| 79 | [SMITE](games/s/smite.md) | 4,103 | 4.44 | 645 |
 | 80 | [Days Gone](games/d/days_gone.md) | 3,893 | 4.68 | 239 |
-| 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,819 | 4.76 | 119 |
+| 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,833 | 4.76 | 119 |
 | 82 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,692 | 4.28 | 794 |
 | 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,609 | 4.57 | 443 |
 | 84 | [Gloomhaven](games/g/gloomhaven.md) | 3,495 | 4.47 | 603 |
@@ -125,7 +125,7 @@
 | 123 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,417 | 4.87 | 24 |
 | 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,409 | 4.62 | 348 |
 | 125 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,386 | 4.78 | 100 |
-| 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,366 | 4.52 | 523 |
+| 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,369 | 4.52 | 523 |
 | 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,357 | 4.54 | 494 |
 | 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,349 | 4.86 | 28 |
 | 129 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,309 | 4.70 | 198 |
@@ -177,7 +177,7 @@
 | 175 | [FAR CRY 4](games/f/far_cry_4.md) | 610 | 4.67 | 258 |
 | 175 | [The Sims™ 4](games/t/the_sims™_4.md) | 610 | 4.62 | 348 |
 | 177 | [Dark Deity](games/d/dark_deity.md) | 609 | 4.16 | 874 |
-| 178 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 599 | 4.63 | 332 |
+| 178 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 600 | 4.63 | 332 |
 | 179 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 587 | 4.73 | 159 |
 | 180 | [Football Manager 2023](games/f/football_manager_2023.md) | 571 | 4.76 | 119 |
 | 181 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 568 | 4.38 | 714 |
@@ -198,7 +198,7 @@
 | 196 | [Ghostrunner](games/g/ghostrunner.md) | 473 | 4.72 | 169 |
 | 197 | [Surviving Mars](games/s/surviving_mars.md) | 470 | 4.60 | 390 |
 | 198 | [Prison Architect](games/p/prison_architect.md) | 467 | 4.61 | 366 |
-| 199 | [MORDHAU](games/m/mordhau.md) | 463 | 4.40 | 695 |
+| 199 | [MORDHAU](games/m/mordhau.md) | 464 | 4.40 | 695 |
 | 200 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 273 |
 | 201 | [Second Extinction™](games/s/second_extinction™.md) | 456 | 4.05 | 912 |
 | 202 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 432 | 4.40 | 695 |
@@ -258,8 +258,8 @@
 | 256 | [Hello Neighbor](games/h/hello_neighbor.md) | 229 | 4.55 | 481 |
 | 257 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 224 | 4.81 | 76 |
 | 258 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 221 | 4.59 | 410 |
-| 259 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 220 | 4.85 | 39 |
-| 259 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 220 | 4.60 | 390 |
+| 258 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 221 | 4.60 | 390 |
+| 260 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 220 | 4.85 | 39 |
 | 261 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 218 | 4.60 | 390 |
 | 261 | [Old World](games/o/old_world.md) | 218 | 4.65 | 296 |
 | 263 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 217 | 4.84 | 49 |

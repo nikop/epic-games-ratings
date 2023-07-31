@@ -43,7 +43,7 @@
 | 39 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,729 | 42 |
 | 39 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,532 | 63 |
 | 39 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 372 | 218 |
-| 39 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 220 | 259 |
+| 39 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 220 | 260 |
 | 39 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 137 | 302 |
 | 39 | [Subnautica](games/s/subnautica.md) | 4.85 | 679 | 166 |
 | 39 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 0 | 509 |
@@ -118,7 +118,7 @@
 | 107 | [Tchia](games/t/tchia.md) | 4.77 | 0 | 509 |
 | 107 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 509 |
 | 107 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 28 | 464 |
-| 119 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 3,819 | 81 |
+| 119 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 3,833 | 81 |
 | 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,931 | 24 |
 | 119 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 355 |
 | 119 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 509 |
@@ -339,7 +339,7 @@
 | 332 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 71 | 376 |
 | 332 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.63 | 0 | 509 |
 | 332 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 509 |
-| 332 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 599 | 178 |
+| 332 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 600 | 178 |
 | 332 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 509 |
 | 332 | [Road 96](games/r/road_96.md) | 4.63 | 0 | 509 |
 | 332 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 184 | 277 |
@@ -403,7 +403,7 @@
 | 390 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 63 | 386 |
 | 390 | [RiME](games/r/rime.md) | 4.60 | 0 | 509 |
 | 390 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 470 | 197 |
-| 390 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 220 | 259 |
+| 390 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 221 | 258 |
 | 390 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 0 | 509 |
 | 390 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 489 |
 | 390 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 402 | 211 |
@@ -532,7 +532,7 @@
 | 523 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 102 | 331 |
 | 523 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 295 |
 | 523 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 122 | 312 |
-| 523 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,366 | 126 |
+| 523 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,369 | 126 |
 | 523 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 509 |
 | 523 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 293 | 236 |
 | 523 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 0 | 509 |
@@ -650,7 +650,7 @@
 | 645 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 509 |
 | 645 | [Good Company](games/g/good_company.md) | 4.44 | 0 | 509 |
 | 645 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 866 | 150 |
-| 645 | [SMITE](games/s/smite.md) | 4.44 | 4,095 | 79 |
+| 645 | [SMITE](games/s/smite.md) | 4.44 | 4,103 | 79 |
 | 645 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 568 | 181 |
 | 645 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 509 |
 | 645 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 338 |
@@ -695,7 +695,7 @@
 | 676 | [Warpips](games/w/warpips.md) | 4.41 | 26 | 473 |
 | 676 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,233 | 132 |
 | 695 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.40 | 0 | 509 |
-| 695 | [MORDHAU](games/m/mordhau.md) | 4.40 | 463 | 199 |
+| 695 | [MORDHAU](games/m/mordhau.md) | 4.40 | 464 | 199 |
 | 695 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 509 |
 | 695 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.40 | 0 | 509 |
 | 695 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 432 | 202 |
