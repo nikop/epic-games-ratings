@@ -11,7 +11,7 @@ Rating: 4.55 (Ranked 481)
 | Without Breaking Some Eggs... | 19.00% | ~566 |
 | A Thousand Strong | 14.00% | ~417 |
 | Ready for a New World | 14.00% | ~417 |
-| Space Society | 13.00% | ~387 |
+| Space Society | 13.00% | ~388 |
 | Permanent Redesigns | 12.00% | ~358 |
 | Guy de Borderlands | 10.00% | ~298 |
 | Fully Recycled | 10.00% | ~298 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 481)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,980 (Ranked 157)  
+Progressed: 2,981 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 2,940 | 0 |
 | 2023-07-29 | 2,956 | 0 |
 | 2023-07-30 | 2,977 | 0 |
-| 2023-07-31 | 2,980 | 0 |
+| 2023-07-31 | 2,981 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

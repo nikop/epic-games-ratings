@@ -592,9 +592,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4794,
+  "EOS_Progressed": 4795,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5047,6 +5047,11 @@
       "Time": "2023-07-31T06:03:45.7216357+00:00",
       "NumProgressed": 4794,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T07:03:57.9051502+00:00",
+      "NumProgressed": 4795,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -5058,7 +5063,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3643
+      "UsersEstimate": 3644
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -5074,7 +5079,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -5082,7 +5087,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -5106,7 +5111,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -5114,7 +5119,7 @@
       "Name": "Scaling up",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -5122,7 +5127,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -5162,7 +5167,7 @@
       "Name": "Goldfish?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -5314,7 +5319,7 @@
       "Name": "Trollsporet Tale Teller",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_035",
@@ -5330,20 +5335,20 @@
       "Name": "Cache and Carry",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4794,
+      "Progressed": 4795,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4166,
+      "Progressed": 4167,
       "Completed": 112
     }
   ],
@@ -5351,8 +5356,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-07-23T14:00:03.1904316+00:00",
-  "LastChanged_Achievements": "2023-07-31T06:03:45.7216352+00:00",
+  "LastChanged_Achievements": "2023-07-31T07:03:57.9051498+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:37.5536525+00:00",
-  "LastUpdate_Ratings": "2023-07-31T05:59:49.7232775+00:00",
-  "LastUpdate_Achievements": "2023-07-31T06:03:45.7216904+00:00"
+  "LastUpdate_Ratings": "2023-07-31T06:59:57.9323665+00:00",
+  "LastUpdate_Achievements": "2023-07-31T07:03:57.9051905+00:00"
 }

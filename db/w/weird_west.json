@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1760,
+  "EOS_Progressed": 1761,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1625,6 +1625,11 @@
       "Time": "2023-07-31T04:06:19.3461092+00:00",
       "NumProgressed": 1760,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-31T07:04:48.3720542+00:00",
+      "NumProgressed": 1761,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1644,7 +1649,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1660,7 +1665,7 @@
       "Name": "Dishonored",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -1780,7 +1785,7 @@
       "Name": "Justice Served",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -1788,7 +1793,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1802,9 +1807,9 @@
       "ID": "ACH_LORD_INUT_SENDS_HIS_REGARDS",
       "SetID": "8j30i9k",
       "Name": "Lord Inut Sends His Regards",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_LOYALTY_TO_THE_PACK",
@@ -1868,7 +1873,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1884,7 +1889,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1932,7 +1937,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1994,9 +1999,9 @@
       "ID": "ACH_THROUGH_THEIR_EYES",
       "SetID": "8j30i9k",
       "Name": "Through Their Eyes",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 458
+      "UsersEstimate": 440
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -2012,7 +2017,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2020,7 +2025,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2059,15 +2064,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1760,
+      "Progressed": 1761,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-31T06:04:35.8048442+00:00",
+  "LastChanged_Achievements": "2023-07-31T07:04:48.3720538+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.150321+00:00",
-  "LastUpdate_Ratings": "2023-07-31T05:58:41.2318617+00:00",
-  "LastUpdate_Achievements": "2023-07-31T06:04:35.8048995+00:00"
+  "LastUpdate_Ratings": "2023-07-31T06:58:49.5125804+00:00",
+  "LastUpdate_Achievements": "2023-07-31T07:04:48.3720963+00:00"
 }

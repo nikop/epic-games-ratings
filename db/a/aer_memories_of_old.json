@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 82,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,7 +374,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16642,
+  "EOS_Progressed": 16643,
   "EOS_Completed": 345,
   "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 13,
@@ -11099,6 +11099,11 @@
       "Time": "2023-07-31T06:04:15.0765969+00:00",
       "NumProgressed": 16642,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2023-07-31T07:04:27.180027+00:00",
+      "NumProgressed": 16643,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 20,
@@ -11206,7 +11211,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2164
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -11230,7 +11235,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12648
+      "UsersEstimate": 12649
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -11269,15 +11274,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 16642,
+      "Progressed": 16643,
       "Completed": 345
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-31T06:04:15.076596+00:00",
+  "LastChanged_Achievements": "2023-07-31T07:04:27.1800263+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:59.0842389+00:00",
-  "LastUpdate_Ratings": "2023-07-31T06:00:02.3480022+00:00",
-  "LastUpdate_Achievements": "2023-07-31T06:04:15.0766812+00:00"
+  "LastUpdate_Ratings": "2023-07-31T07:00:13.4986398+00:00",
+  "LastUpdate_Achievements": "2023-07-31T07:04:27.1800849+00:00"
 }

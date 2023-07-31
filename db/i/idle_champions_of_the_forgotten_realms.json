@@ -5410,9 +5410,9 @@
       "Count": 3330
     }
   ],
-  "EOS_Progressed": 217309,
+  "EOS_Progressed": 217313,
   "EOS_Completed": 2138,
-  "EOS_NewPlayers": 2253,
+  "EOS_NewPlayers": 2251,
   "EOS_NewCompleters": 78,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16345,6 +16345,11 @@
       "Time": "2023-07-31T06:03:40.2984587+00:00",
       "NumProgressed": 217309,
       "NumCompleted": 2138
+    },
+    {
+      "Time": "2023-07-31T07:03:53.1070968+00:00",
+      "NumProgressed": 217313,
+      "NumCompleted": 2138
     }
   ],
   "TotalAchievements": 512,
@@ -16722,9 +16727,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4346
+      "UsersEstimate": 6519
     },
     {
       "ID": "objective_completed_110",
@@ -17092,7 +17097,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "objective_completed_1174",
@@ -17116,7 +17121,7 @@
       "Name": "Heatwave",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "objective_completed_1179",
@@ -19306,9 +19311,9 @@
       "ID": "objective_completed_665",
       "SetID": "415jc5c",
       "Name": "Tiamat\u0027s Army",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_666",
@@ -19330,9 +19335,9 @@
       "ID": "objective_completed_670",
       "SetID": "415jc5c",
       "Name": "Questlines",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_671",
@@ -20316,7 +20321,7 @@
       "Name": "The Champion\u0027s Guide to Wildspace",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "objective_completed_1220",
@@ -20451,21 +20456,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183583,
-      "Completed": 3035
+      "Progressed": 183587,
+      "Completed": 3036
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217309,
+      "Progressed": 217313,
       "Completed": 2138
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-31T01:57:45.6723825+00:00",
-  "LastChanged_Achievements": "2023-07-31T06:03:40.2984583+00:00",
+  "LastChanged_Achievements": "2023-07-31T07:03:53.1070964+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-31T05:58:24.8888809+00:00",
-  "LastUpdate_Achievements": "2023-07-31T06:03:40.3011181+00:00"
+  "LastUpdate_Ratings": "2023-07-31T06:58:29.9822855+00:00",
+  "LastUpdate_Achievements": "2023-07-31T07:03:53.109393+00:00"
 }

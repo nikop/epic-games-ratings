@@ -22,10 +22,10 @@ Number of Ratings: 1,023  (23.09.2022)
 | I'm Belieber | 2.00% | ~408 |
 | You do it wrong | 1.00% | ~204 |
 | Knock, knock | 0.90% | ~184 |
+| Car Mechanic | 0.80% | ~163 |
 | Game Over | 0.80% | ~163 |
 | Wall Street Shark | 0.80% | ~163 |
 | Negotiator | 0.80% | ~163 |
-| Car Mechanic | 0.70% | ~143 |
 | Do it ASAP | 0.60% | ~122 |
 | Nerd | 0.50% | ~102 |
 | Senior Estate Agent | 0.50% | ~102 |

@@ -282,9 +282,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 193448,
+  "EOS_Progressed": 193451,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 616,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11147,6 +11147,11 @@
       "Time": "2023-07-31T06:06:09.3881623+00:00",
       "NumProgressed": 193448,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-31T07:06:23.9023181+00:00",
+      "NumProgressed": 193451,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -11166,7 +11171,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 137348
+      "UsersEstimate": 137350
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -11174,7 +11179,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9672
+      "UsersEstimate": 9673
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -11182,7 +11187,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5803
+      "UsersEstimate": 5804
     },
     {
       "ID": "ACH_INITIATION",
@@ -11206,7 +11211,7 @@
       "Name": "Total Destruction",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "ACH_WIN_100_ONLINE_GAME",
@@ -11222,7 +11227,7 @@
       "Name": "Getting There",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "ACH_WIN_30_MAP_CONTROL",
@@ -11238,7 +11243,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9672
+      "UsersEstimate": 9673
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -11270,7 +11275,7 @@
       "Name": "Untouchable",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "ACH_WIN_FIRST_COOP",
@@ -11278,14 +11283,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9672
+      "UsersEstimate": 9673
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 193448,
+      "Progressed": 193451,
       "Completed": 4
     }
   ],
@@ -11293,8 +11298,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-07-15T20:00:05.0110096+00:00",
-  "LastChanged_Achievements": "2023-07-31T06:06:09.3881617+00:00",
+  "LastChanged_Achievements": "2023-07-31T07:06:23.9023177+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:26.8082844+00:00",
-  "LastUpdate_Ratings": "2023-07-31T05:59:41.9714421+00:00",
-  "LastUpdate_Achievements": "2023-07-31T06:06:09.3882398+00:00"
+  "LastUpdate_Ratings": "2023-07-31T06:59:50.6639941+00:00",
+  "LastUpdate_Achievements": "2023-07-31T07:06:23.9023749+00:00"
 }

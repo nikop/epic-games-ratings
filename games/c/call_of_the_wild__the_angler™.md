@@ -6,17 +6,17 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 76.00% | ~3,643 |
-| Hey Good Hookin | 66.00% | ~3,164 |
+| Fish Just Got Reel | 76.00% | ~3,644 |
+| Hey Good Hookin | 66.00% | ~3,165 |
 | I'm on a Boat! | 57.00% | ~2,733 |
 | Can you smell what the Rod is Hooking | 51.00% | ~2,445 |
-| Scaling up | 50.00% | ~2,397 |
-| Ready to Rod and Roll | 42.00% | ~2,013 |
-| More Fish in the Sea | 42.00% | ~2,013 |
+| Scaling up | 50.00% | ~2,398 |
+| Ready to Rod and Roll | 42.00% | ~2,014 |
+| More Fish in the Sea | 42.00% | ~2,014 |
 | License to Gill | 33.00% | ~1,582 |
 | Fish Out of Water | 32.00% | ~1,534 |
-| Things that go Splash in the Night | 27.00% | ~1,294 |
-| Goldfish? | 27.00% | ~1,294 |
+| Things that go Splash in the Night | 27.00% | ~1,295 |
+| Goldfish? | 27.00% | ~1,295 |
 | Going for Gold | 24.00% | ~1,151 |
 | I'm Hooked! | 19.00% | ~911 |
 | Diamond in the Rough | 13.00% | ~623 |
@@ -33,8 +33,8 @@ Number of Ratings: 281  (23.09.2022)
 | Head for Heights | 0.60% | ~29 |
 | Lake Me up Before You Go Go | 0.50% | ~24 |
 | Fish upon a Star | 0.50% | ~21 |
-| Trollsporet Tale Teller | 0.30% | ~12 |
-| Cache and Carry | 0.30% | ~12 |
+| Trollsporet Tale Teller | 0.30% | ~13 |
+| Cache and Carry | 0.30% | ~13 |
 | Golden Ridge Ranger | 0.20% | ~10 |
 | Buckaroo | 0.20% | ~10 |
 | Lost and Flounder | 0.10% | ~5 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,794 (Ranked 142)  
+Progressed: 4,795 (Ranked 142)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 4,770 | 0 |
 | 2023-07-29 | 4,776 | 0 |
 | 2023-07-30 | 4,791 | 0 |
-| 2023-07-31 | 4,794 | 0 |
+| 2023-07-31 | 4,795 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 451)  
 Sum: 158 (Ranked 388)  

@@ -4,7 +4,7 @@
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -273,8 +273,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-07-31T06:05:54.5443552+00:00",
+  "LastChanged_Achievements": "2023-07-31T07:06:08.7966368+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:05.4881888+00:00",
-  "LastUpdate_Ratings": "2023-07-31T05:59:22.9861202+00:00",
-  "LastUpdate_Achievements": "2023-07-31T06:05:54.5443756+00:00"
+  "LastUpdate_Ratings": "2023-07-31T06:59:30.0813451+00:00",
+  "LastUpdate_Achievements": "2023-07-31T07:06:08.7966538+00:00"
 }

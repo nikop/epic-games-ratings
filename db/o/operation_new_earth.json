@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 716,
+  "EOS_Progressed": 717,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2476,6 +2476,11 @@
       "Time": "2023-07-31T02:04:44.096169+00:00",
       "NumProgressed": 716,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T07:05:34.8497684+00:00",
+      "NumProgressed": 717,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2503,7 +2508,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_defeat_players_100",
@@ -2519,7 +2524,7 @@
       "Name": "Gold Achiever",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -2591,7 +2596,7 @@
       "Name": "Facility Online",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -2607,7 +2612,7 @@
       "Name": "Sergeant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -2631,7 +2636,7 @@
       "Name": "Major",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -2790,14 +2795,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 716,
+      "Progressed": 717,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-31T06:05:21.3768963+00:00",
+  "LastChanged_Achievements": "2023-07-31T07:05:34.8497678+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-07-31T05:57:00.3692283+00:00",
-  "LastUpdate_Achievements": "2023-07-31T06:05:21.3769403+00:00"
+  "LastUpdate_Ratings": "2023-07-31T06:56:58.9685073+00:00",
+  "LastUpdate_Achievements": "2023-07-31T07:05:34.8498028+00:00"
 }

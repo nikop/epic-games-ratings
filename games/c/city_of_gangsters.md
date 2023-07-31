@@ -5,21 +5,21 @@ Rating: 4.26 (Ranked 810)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~153,571 |
-| Copacetic Coordination | 16.00% | ~53,416 |
-| Fronting the Money | 14.00% | ~46,739 |
-| The Dawn of Automation | 14.00% | ~46,739 |
-| Extraordinary Logistics | 14.00% | ~46,739 |
-| Dirty Money | 13.00% | ~43,400 |
-| Family First | 13.00% | ~43,400 |
-| Cleaning House | 12.00% | ~40,062 |
-| Room in the Back | 12.00% | ~40,062 |
+| Corner Clout | 46.00% | ~153,575 |
+| Copacetic Coordination | 16.00% | ~53,417 |
+| Fronting the Money | 14.00% | ~46,740 |
+| The Dawn of Automation | 14.00% | ~46,740 |
+| Extraordinary Logistics | 14.00% | ~46,740 |
+| Dirty Money | 13.00% | ~43,402 |
+| Family First | 13.00% | ~43,402 |
+| Cleaning House | 12.00% | ~40,063 |
+| Room in the Back | 12.00% | ~40,063 |
 | Booze Baron | 11.00% | ~36,724 |
-| Beating the Heat | 10.00% | ~33,385 |
-| Friends on the Force | 10.00% | ~33,385 |
-| Neighborhood Watch | 10.00% | ~33,385 |
-| Core Corps | 8.00% | ~26,708 |
-| Sizeable Stash | 8.00% | ~26,708 |
+| Beating the Heat | 10.00% | ~33,386 |
+| Friends on the Force | 10.00% | ~33,386 |
+| Neighborhood Watch | 10.00% | ~33,386 |
+| Core Corps | 8.00% | ~26,709 |
+| Sizeable Stash | 8.00% | ~26,709 |
 | Street Fighter | 7.00% | ~23,370 |
 | Friendly Gestures | 7.00% | ~23,370 |
 | People Person | 7.00% | ~23,370 |
@@ -27,15 +27,15 @@ Rating: 4.26 (Ranked 810)
 | Safety in Numbers | 6.00% | ~20,031 |
 | Show ‘em the Sugar | 6.00% | ~20,031 |
 | Killing Them Softly | 6.00% | ~20,031 |
-| Street Knowledge | 5.00% | ~16,692 |
-| Oh Captain | 5.00% | ~16,692 |
-| Branching Out | 5.00% | ~16,692 |
-| Improvement Missions | 5.00% | ~16,692 |
-| Opportunity Knocked | 5.00% | ~16,692 |
-| City of Big Shoulders | 5.00% | ~16,692 |
-| Moving Experiences | 5.00% | ~16,692 |
-| Mission Mastery | 5.00% | ~16,692 |
-| Wise Head | 5.00% | ~16,692 |
+| Street Knowledge | 5.00% | ~16,693 |
+| Oh Captain | 5.00% | ~16,693 |
+| Branching Out | 5.00% | ~16,693 |
+| Improvement Missions | 5.00% | ~16,693 |
+| Opportunity Knocked | 5.00% | ~16,693 |
+| City of Big Shoulders | 5.00% | ~16,693 |
+| Moving Experiences | 5.00% | ~16,693 |
+| Mission Mastery | 5.00% | ~16,693 |
+| Wise Head | 5.00% | ~16,693 |
 | Considerable Clams | 4.00% | ~13,354 |
 | Gin Joint | 4.00% | ~13,354 |
 | An Affront to the Enemy | 4.00% | ~13,354 |
@@ -53,12 +53,12 @@ Rating: 4.26 (Ranked 810)
 | Dropping the Dime | 2.00% | ~6,677 |
 | Spiffy Speakeasies | 2.00% | ~6,677 |
 | Keeping Your Word | 2.00% | ~6,677 |
-| Boxing Them In | 1.00% | ~3,338 |
-| Backroom Empire | 1.00% | ~3,338 |
-| Corner Control | 1.00% | ~3,338 |
-| Full House | 1.00% | ~3,338 |
-| The Rubber Meets the Road | 1.00% | ~3,338 |
-| Cat’s Meow Clubs | 1.00% | ~3,338 |
+| Boxing Them In | 1.00% | ~3,339 |
+| Backroom Empire | 1.00% | ~3,339 |
+| Corner Control | 1.00% | ~3,339 |
+| Full House | 1.00% | ~3,339 |
+| The Rubber Meets the Road | 1.00% | ~3,339 |
+| Cat’s Meow Clubs | 1.00% | ~3,339 |
 | Determined Deliveries | 0.90% | ~3,005 |
 | Stepping It Up | 0.90% | ~3,005 |
 | Crossing Over | 0.80% | ~2,671 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 810)
 | High Pillow | 0.10% | ~334 |
 | Station Master | 0.10% | ~334 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333,850 (Ranked 41)  
+Progressed: 333,858 (Ranked 41)  
 Completed: 5 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 5 (0.00%) (Ranked 246)
 | 2023-07-28 | 333,213 | 5 |
 | 2023-07-29 | 333,503 | 5 |
 | 2023-07-30 | 333,806 | 5 |
-| 2023-07-31 | 333,850 | 5 |
+| 2023-07-31 | 333,858 | 5 |
 ## Awards
 Max (Highly Recommended): 28  (Ranked 464)  
 Sum: 124 (Ranked 401)  

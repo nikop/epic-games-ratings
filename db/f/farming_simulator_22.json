@@ -7317,9 +7317,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 46348,
+  "EOS_Progressed": 46349,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16212,6 +16212,11 @@
       "Time": "2023-07-31T06:04:05.95485+00:00",
       "NumProgressed": 46348,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-31T07:04:17.9561446+00:00",
+      "NumProgressed": 46349,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -16319,7 +16324,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 28272
+      "UsersEstimate": 28273
     },
     {
       "ID": "DeliveryGrapes",
@@ -16375,7 +16380,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 34761
+      "UsersEstimate": 34762
     },
     {
       "ID": "HorseJumps",
@@ -16407,7 +16412,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 22247
+      "UsersEstimate": 22248
     },
     {
       "ID": "Mission",
@@ -16423,7 +16428,7 @@
       "Name": "Help me to help you",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 17612
+      "UsersEstimate": 17613
     },
     {
       "ID": "Money",
@@ -16431,7 +16436,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 24564
+      "UsersEstimate": 24565
     },
     {
       "ID": "NumBeehives",
@@ -16447,7 +16452,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 18539
+      "UsersEstimate": 18540
     },
     {
       "ID": "NumPlaceables",
@@ -16455,7 +16460,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 20393
+      "UsersEstimate": 20394
     },
     {
       "ID": "NumProductionPoints",
@@ -16487,7 +16492,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12977
+      "UsersEstimate": 12978
     },
     {
       "ID": "PlayTime",
@@ -16511,7 +16516,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 29199
+      "UsersEstimate": 29200
     },
     {
       "ID": "Stones",
@@ -16543,7 +16548,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 12050
+      "UsersEstimate": 12051
     },
     {
       "ID": "VehicleRepair",
@@ -16566,15 +16571,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 46348,
+      "Progressed": 46349,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-07-30T21:00:23.2665451+00:00",
-  "LastChanged_Achievements": "2023-07-31T06:04:05.9548495+00:00",
+  "LastChanged_Achievements": "2023-07-31T07:04:17.9561442+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:27.4750397+00:00",
-  "LastUpdate_Ratings": "2023-07-31T05:59:42.2224191+00:00",
-  "LastUpdate_Achievements": "2023-07-31T06:04:05.9549391+00:00"
+  "LastUpdate_Ratings": "2023-07-31T06:59:50.9707387+00:00",
+  "LastUpdate_Achievements": "2023-07-31T07:04:17.9562114+00:00"
 }

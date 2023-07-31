@@ -6,20 +6,20 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,549 |
-| Self-Improvement | 72.00% | ~1,267 |
-| Perky | 65.00% | ~1,144 |
-| Let’s Ride | 60.00% | ~1,056 |
-| Welcome to the Weird West | 57.00% | ~1,003 |
-| Dead or Alive | 55.00% | ~968 |
+| Unforgiven | 88.00% | ~1,550 |
+| Self-Improvement | 72.00% | ~1,268 |
+| Perky | 65.00% | ~1,145 |
+| Let’s Ride | 60.00% | ~1,057 |
+| Welcome to the Weird West | 57.00% | ~1,004 |
+| Dead or Alive | 55.00% | ~969 |
 | Full House | 36.00% | ~634 |
-| Off the Trail | 34.00% | ~598 |
-| Justice Served | 29.00% | ~510 |
+| Off the Trail | 34.00% | ~599 |
+| Justice Served | 29.00% | ~511 |
 | Chain Reaction | 27.00% | ~475 |
-| Through Their Eyes | 26.00% | ~458 |
 | Rain of Death | 25.00% | ~440 |
 | Scholar | 25.00% | ~440 |
-| Dishonored | 24.00% | ~422 |
+| Through Their Eyes | 25.00% | ~440 |
+| Dishonored | 24.00% | ~423 |
 | The Great Escape | 23.00% | ~405 |
 | That’s All, Folks | 18.00% | ~317 |
 | Fallen Star | 16.00% | ~282 |
@@ -48,8 +48,8 @@ Number of Ratings: 125  (23.09.2022)
 | This Is Sparta | 5.00% | ~88 |
 | What’s in the Box? | 5.00% | ~88 |
 | Ghost Town | 3.00% | ~53 |
-| Lord Inut Sends His Regards | 3.00% | ~53 |
 | Moondrunk | 3.00% | ~53 |
+| Lord Inut Sends His Regards | 2.00% | ~35 |
 | 'Ma Barker | 2.00% | ~35 |
 | I Kicked a Bird and I Liked it | 1.00% | ~18 |
 | Hog Wild | 1.00% | ~18 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,760 (Ranked 171)  
+Progressed: 1,761 (Ranked 171)  
 Completed: 4 (0.23%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 4 (0.23%) (Ranked 169)
 | 2023-07-28 | 1,748 | 3 |
 | 2023-07-29 | 1,754 | 4 |
 | 2023-07-30 | 1,758 | 4 |
-| 2023-07-31 | 1,760 | 4 |
+| 2023-07-31 | 1,761 | 4 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 481)  
 Sum: 24 (Ranked 485)  

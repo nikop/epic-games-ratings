@@ -11,7 +11,7 @@ Number of Ratings: 836  (23.09.2022)
 | Explorer | 53.00% | ~4,179 |
 | Healer | 52.00% | ~4,100 |
 | Aspiring Inventor | 44.00% | ~3,469 |
-| Adventurer | 41.00% | ~3,233 |
+| Adventurer | 42.00% | ~3,312 |
 | Famous Healer | 38.00% | ~2,996 |
 | Local Leader | 35.00% | ~2,760 |
 | Famous Explorer | 34.00% | ~2,681 |
@@ -25,10 +25,10 @@ Number of Ratings: 836  (23.09.2022)
 | Catastrofan | 28.00% | ~2,208 |
 | Finders, Keepers | 26.00% | ~2,050 |
 | Top Notch | 25.00% | ~1,971 |
+| Ice Lakes | 23.00% | ~1,814 |
 | Mentor | 23.00% | ~1,814 |
 | Merchant | 22.00% | ~1,735 |
 | Great Leader | 22.00% | ~1,735 |
-| Ice Lakes | 22.00% | ~1,735 |
 | Real Survivor | 22.00% | ~1,735 |
 | Rocket Surgeon | 20.00% | ~1,577 |
 | War Never Changes | 19.00% | ~1,498 |

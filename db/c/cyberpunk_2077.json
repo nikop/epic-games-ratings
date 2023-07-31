@@ -9683,10 +9683,10 @@
       "Count": 5459
     }
   ],
-  "EOS_Progressed": 868552,
+  "EOS_Progressed": 868554,
   "EOS_Completed": 1920,
-  "EOS_NewPlayers": 1206,
-  "EOS_NewCompleters": 23,
+  "EOS_NewPlayers": 1204,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -20768,6 +20768,11 @@
       "Time": "2023-07-31T06:03:49.7726581+00:00",
       "NumProgressed": 868552,
       "NumCompleted": 1920
+    },
+    {
+      "Time": "2023-07-31T07:04:01.7407238+00:00",
+      "NumProgressed": 868554,
+      "NumCompleted": 1920
     }
   ],
   "TotalAchievements": 44,
@@ -20795,7 +20800,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 138968
+      "UsersEstimate": 138969
     },
     {
       "ID": "Cyberjunkie",
@@ -20803,7 +20808,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 156339
+      "UsersEstimate": 156340
     },
     {
       "ID": "Denied",
@@ -20811,7 +20816,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 338735
+      "UsersEstimate": 338736
     },
     {
       "ID": "FollowingTheRiver",
@@ -20875,7 +20880,7 @@
       "Name": "I Am The Law",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 121597
+      "UsersEstimate": 121598
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -20899,7 +20904,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 191081
+      "UsersEstimate": 191082
     },
     {
       "ID": "MaxPain",
@@ -20947,7 +20952,7 @@
       "Name": "Life of the Road",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 173710
+      "UsersEstimate": 173711
     },
     {
       "ID": "Roleplayer",
@@ -20995,7 +21000,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 590615
+      "UsersEstimate": 590617
     },
     {
       "ID": "TheHermit",
@@ -21003,7 +21008,7 @@
       "Name": "The Hermit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 208452
+      "UsersEstimate": 208453
     },
     {
       "ID": "TheHightPriestess",
@@ -21043,7 +21048,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 234509
+      "UsersEstimate": 234510
     },
     {
       "ID": "TheWorld",
@@ -21051,7 +21056,7 @@
       "Name": "The World",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 156339
+      "UsersEstimate": 156340
     },
     {
       "ID": "ThisIsPacifica",
@@ -21099,7 +21104,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 121597
+      "UsersEstimate": 121598
     },
     {
       "ID": "VForVendetta",
@@ -21130,15 +21135,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 868552,
+      "Progressed": 868554,
       "Completed": 1920
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-07-31T04:58:16.3642244+00:00",
-  "LastChanged_Achievements": "2023-07-31T06:03:49.7726576+00:00",
+  "LastChanged_Achievements": "2023-07-31T07:04:01.7407233+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.8722173+00:00",
-  "LastUpdate_Ratings": "2023-07-31T05:58:12.1374366+00:00",
-  "LastUpdate_Achievements": "2023-07-31T06:03:49.772761+00:00"
+  "LastUpdate_Ratings": "2023-07-31T06:58:17.0627974+00:00",
+  "LastUpdate_Achievements": "2023-07-31T07:04:01.7408003+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "hush-hush-5c1fa0",
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
@@ -152,9 +152,9 @@
       "ID": "ACHIEVEMENT_Cassie_Death2_Failed",
       "SetID": "70j9o42",
       "Name": "No Such Thing As Bad Pizza",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_Dorian_Impress_D2",
@@ -224,9 +224,9 @@
       "ID": "ACHIEVEMENT_Helped_Lotus_1",
       "SetID": "70j9o42",
       "Name": "Lotus Bud",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_Iro_BestEnding",
@@ -328,17 +328,17 @@
       "ID": "ACHIEVEMENT_Player_Wins_Marshmallows",
       "SetID": "70j9o42",
       "Name": "Marshm-Elle-ows",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_Prodamon_victory",
       "SetID": "70j9o42",
       "Name": "Gotta Capture All Of \u0027Em",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_Qpernikiss_Ending",
@@ -415,8 +415,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-07-31T06:03:43.9515898+00:00",
+  "LastChanged_Achievements": "2023-07-31T07:03:56.3077948+00:00",
   "LastUpdate_AppInfo": "2023-07-25T07:57:00.5196616+00:00",
-  "LastUpdate_Ratings": "2023-07-31T05:57:23.3102684+00:00",
-  "LastUpdate_Achievements": "2023-07-31T06:03:43.9516215+00:00"
+  "LastUpdate_Ratings": "2023-07-31T06:57:24.2480695+00:00",
+  "LastUpdate_Achievements": "2023-07-31T07:03:56.3078182+00:00"
 }
