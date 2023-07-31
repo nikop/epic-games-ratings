@@ -436,7 +436,7 @@
   "Tags": [],
   "EOS_Progressed": 3386,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -6076,9 +6076,9 @@
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
       "SetID": "83mdf7p",
       "Name": "Fight Another Day",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -6131,8 +6131,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-30T09:57:22.4060048+00:00",
-  "LastChanged_Achievements": "2023-07-31T19:04:50.7902192+00:00",
+  "LastChanged_Achievements": "2023-07-31T20:05:12.8083726+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:23.0951004+00:00",
-  "LastUpdate_Ratings": "2023-07-31T18:57:35.6066688+00:00",
-  "LastUpdate_Achievements": "2023-07-31T19:04:50.7903034+00:00"
+  "LastUpdate_Ratings": "2023-07-31T19:57:25.9157979+00:00",
+  "LastUpdate_Achievements": "2023-07-31T20:05:12.8085163+00:00"
 }

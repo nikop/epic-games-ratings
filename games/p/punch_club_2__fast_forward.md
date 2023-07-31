@@ -19,13 +19,13 @@
 | Run K, run! | 69.00% | ~137 |
 | Hello, world! | 67.00% | ~133 |
 | No bullying more | 66.00% | ~131 |
-| Fighting is cool | 64.00% | ~127 |
+| Fighting is cool | 65.00% | ~129 |
 | Pal of your father? | 62.00% | ~123 |
-| Employee of the month | 60.00% | ~119 |
-| Spirit of the past | 59.00% | ~117 |
+| Employee of the month | 61.00% | ~121 |
+| Spirit of the past | 60.00% | ~119 |
 | Law student | 58.00% | ~115 |
 | Intriguing candies | 57.00% | ~113 |
-| Workout professional | 55.00% | ~109 |
+| Workout professional | 56.00% | ~111 |
 | Champion – starter pack | 55.00% | ~109 |
 | Own four walls | 55.00% | ~109 |
 | Little hacker | 54.00% | ~107 |
@@ -33,19 +33,19 @@
 | Handyman | 53.00% | ~105 |
 | Employee of the year | 53.00% | ~105 |
 | Fight for life | 52.00% | ~103 |
-| Legal courier | 50.00% | ~99 |
+| Legal courier | 51.00% | ~101 |
 | Extreme neuropower! | 48.00% | ~95 |
-| Now you are worthy | 45.00% | ~89 |
+| Now you are worthy | 46.00% | ~91 |
 | Escaped from a big trouble | 45.00% | ~89 |
 | Your own way | 45.00% | ~89 |
 | No blades in the gym | 43.00% | ~85 |
 | Guiding on the right path | 42.00% | ~83 |
 | Fight is life | 40.00% | ~79 |
 | Mysterious voice | 40.00% | ~79 |
+| Get out of my apartment! | 35.00% | ~69 |
 | Underground dwellers | 35.00% | ~69 |
 | Responsible approach | 35.00% | ~69 |
 | GYM professional | 34.00% | ~67 |
-| Get out of my apartment! | 34.00% | ~67 |
 | Deal with life | 33.00% | ~65 |
 | Champion – no way back | 33.00% | ~65 |
 | Poisoned fighter | 32.00% | ~63 |

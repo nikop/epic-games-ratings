@@ -4,7 +4,7 @@
   "ProductSlug": "hush-hush-5c1fa0",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
@@ -127,9 +127,9 @@
       "ID": "ACHIEVEMENT_Ach_MioScene4_Flex",
       "SetID": "70j9o42",
       "Name": "Make It Rain",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_Ach_PotatoChip",
@@ -295,9 +295,9 @@
       "ID": "ACHIEVEMENT_Mio_Date5_Secret",
       "SetID": "70j9o42",
       "Name": "A Winner Is You",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_Mio_Death3_Failed",
@@ -430,8 +430,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-07-31T19:04:18.5492241+00:00",
+  "LastChanged_Achievements": "2023-07-31T20:04:32.3714161+00:00",
   "LastUpdate_AppInfo": "2023-07-25T07:57:00.5196616+00:00",
-  "LastUpdate_Ratings": "2023-07-31T18:57:46.4917791+00:00",
-  "LastUpdate_Achievements": "2023-07-31T19:04:18.5492487+00:00"
+  "LastUpdate_Ratings": "2023-07-31T19:57:38.3968209+00:00",
+  "LastUpdate_Achievements": "2023-07-31T20:04:32.3714471+00:00"
 }

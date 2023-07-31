@@ -2,9 +2,9 @@
   "ID": "46c8eccba1224195bdd112048075cc37",
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
-  "Ranking_EOS_Progress": 308,
+  "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114,
+  "EOS_Progressed": 115,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -521,6 +521,11 @@
       "Time": "2023-07-31T10:05:28.8991137+00:00",
       "NumProgressed": 114,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T20:06:00.6840725+00:00",
+      "NumProgressed": 115,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 20,
@@ -556,7 +561,7 @@
       "Name": "Unlucky",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CollectGold",
@@ -588,7 +593,7 @@
       "Name": "First Blood",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "FirstBoss",
@@ -626,9 +631,9 @@
       "ID": "KingBoss",
       "SetID": "7g1kpc8",
       "Name": "Revolution",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "Leprechaun",
@@ -660,7 +665,7 @@
       "Name": "Detective",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SecondBoss",
@@ -682,23 +687,23 @@
       "ID": "ThirdBoss",
       "SetID": "7g1kpc8",
       "Name": "Flower",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 13
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 114,
+      "Progressed": 115,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-07-31T19:05:27.9223599+00:00",
+  "LastChanged_Achievements": "2023-07-31T20:06:00.684072+00:00",
   "LastUpdate_AppInfo": "2023-07-31T09:57:13.2028801+00:00",
-  "LastUpdate_Ratings": "2023-07-31T18:57:59.0250532+00:00",
-  "LastUpdate_Achievements": "2023-07-31T19:05:27.9223747+00:00"
+  "LastUpdate_Ratings": "2023-07-31T19:57:51.647547+00:00",
+  "LastUpdate_Achievements": "2023-07-31T20:06:00.6840992+00:00"
 }

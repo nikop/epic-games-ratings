@@ -282,9 +282,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 193497,
+  "EOS_Progressed": 193500,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 615,
+  "EOS_NewPlayers": 610,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11212,6 +11212,11 @@
       "Time": "2023-07-31T19:06:41.2991394+00:00",
       "NumProgressed": 193497,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-31T20:07:37.5877467+00:00",
+      "NumProgressed": 193500,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -11231,7 +11236,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 137383
+      "UsersEstimate": 137385
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -11255,7 +11260,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 34829
+      "UsersEstimate": 34830
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -11263,7 +11268,7 @@
       "Name": "Not Afraid of the Big Bad Wolf",
       "Percentage": 0.1,
       "XP": 110,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_TOTAL_DESTRUCTION",
@@ -11279,7 +11284,7 @@
       "Name": "Many More to Come",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_WIN_10_ONLINE_GAME",
@@ -11319,7 +11324,7 @@
       "Name": "Mastermind",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ACH_WIN_COOP_2_PLAYERS",
@@ -11350,7 +11355,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 193497,
+      "Progressed": 193500,
       "Completed": 4
     }
   ],
@@ -11358,8 +11363,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-07-15T20:00:05.0110096+00:00",
-  "LastChanged_Achievements": "2023-07-31T19:06:41.2991389+00:00",
+  "LastChanged_Achievements": "2023-07-31T20:07:37.587746+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:26.8082844+00:00",
-  "LastUpdate_Ratings": "2023-07-31T19:00:14.7400738+00:00",
-  "LastUpdate_Achievements": "2023-07-31T19:06:41.2991974+00:00"
+  "LastUpdate_Ratings": "2023-07-31T20:00:42.0875215+00:00",
+  "LastUpdate_Achievements": "2023-07-31T20:07:37.5878833+00:00"
 }

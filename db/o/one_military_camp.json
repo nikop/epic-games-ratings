@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -679,9 +679,9 @@
       "ID": "ACHIEVEMENT_ID_32",
       "SetID": "c504de6",
       "Name": "Capitalism",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -830,8 +830,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-07-31T19:04:29.0527402+00:00",
+  "LastChanged_Achievements": "2023-07-31T20:04:45.5119375+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:38.0107995+00:00",
-  "LastUpdate_Ratings": "2023-07-31T18:59:30.5655774+00:00",
-  "LastUpdate_Achievements": "2023-07-31T19:04:29.0527733+00:00"
+  "LastUpdate_Ratings": "2023-07-31T19:59:44.6861875+00:00",
+  "LastUpdate_Achievements": "2023-07-31T20:04:45.5119781+00:00"
 }

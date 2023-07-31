@@ -59,9 +59,9 @@ Rating: 4.42 (Ranked 665)
 | Shoot for the Moon | 0.40% | ~14 |
 | Can't Outrun A Bullet | 0.40% | ~14 |
 | If You Go Down To The Woods Today | 0.40% | ~13 |
+| Fight Another Day | 0.40% | ~13 |
 | Out of Scope | 0.30% | ~10 |
 | Sight Beyond Sights | 0.30% | ~10 |
-| Fight Another Day | 0.30% | ~10 |
 | Best of the Best | 0.20% | ~7 |
 | Master of Secondaries | 0.20% | ~7 |
 | Führerious Repetition | 0.20% | ~7 |

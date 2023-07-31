@@ -19,7 +19,7 @@ Number of Ratings: 209  (23.09.2022)
 | Revenge | 93.00% | ~2,026 |
 | Cage Town | 93.00% | ~2,026 |
 | Surprise | 93.00% | ~2,026 |
-| Magnet | 90.00% | ~1,960 |
+| Magnet | 91.00% | ~1,982 |
 | Industrial Area | 89.00% | ~1,938 |
 | Magnet Repel | 88.00% | ~1,917 |
 | Boomeraxe | 87.00% | ~1,895 |

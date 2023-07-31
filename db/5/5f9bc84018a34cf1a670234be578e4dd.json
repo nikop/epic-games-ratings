@@ -2,10 +2,10 @@
   "ID": "5f9bc84018a34cf1a670234be578e4dd",
   "Name": "Access Denied Escape",
   "ProductSlug": "access-denied-escape-1d486e",
-  "Ranking_EOS_Progress": 332,
+  "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 77,
-  "EOS_Completed": 12,
+  "EOS_Completed": 14,
   "EOS_NewPlayers": 76,
-  "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 15.58,
+  "EOS_NewCompleters": 14,
+  "EOS_Completed_Percentage": 18.18,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -306,6 +306,11 @@
       "Time": "2023-07-31T19:04:36.6092636+00:00",
       "NumProgressed": 77,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-31T20:04:54.8707578+00:00",
+      "NumProgressed": 77,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -316,9 +321,9 @@
       "ID": "AllSafes",
       "SetID": "7jbi7el",
       "Name": "Safe Cracker",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "Batteries",
@@ -332,17 +337,17 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 39,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "FallDeath",
       "SetID": "7jbi7el",
       "Name": "Accident",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "FirstBox",
@@ -372,33 +377,33 @@
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 70,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Screwdriver",
@@ -412,17 +417,17 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 80,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 80,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
@@ -430,13 +435,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 77,
-      "Completed": 12
+      "Completed": 14
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-07-31T19:04:36.609263+00:00",
+  "LastChanged_Achievements": "2023-07-31T20:04:54.8707571+00:00",
   "LastUpdate_AppInfo": "2023-07-25T16:57:15.3733483+00:00",
-  "LastUpdate_Ratings": "2023-07-31T18:57:32.0592259+00:00",
-  "LastUpdate_Achievements": "2023-07-31T19:04:36.6092743+00:00"
+  "LastUpdate_Ratings": "2023-07-31T19:57:22.7686094+00:00",
+  "LastUpdate_Achievements": "2023-07-31T20:04:54.8708225+00:00"
 }

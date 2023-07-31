@@ -105,6 +105,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.30% | ~652 |
 | A Tale of Two Cities | 0.30% | ~652 |
 | The Dead Three | 0.30% | ~652 |
+| Flying Monkey Skulls of Doom | 0.30% | ~652 |
 | Running of the Saurs | 0.30% | ~652 |
 | The Contagious Curse | 0.30% | ~652 |
 | Escort to Waterdeep | 0.30% | ~652 |
@@ -180,7 +181,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hopelessly Lost | 0.20% | ~435 |
 | Enter the Sargauth | 0.20% | ~435 |
 | Slow and Steady | 0.20% | ~435 |
-| Flying Monkey Skulls of Doom | 0.20% | ~435 |
 | Lair of the Xanathar | 0.20% | ~435 |
 | Waterdeep Under Siege | 0.20% | ~435 |
 | Crowded Streets | 0.20% | ~435 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,454 (Ranked 53)  
+Progressed: 217,473 (Ranked 53)  
 Completed: 2,139 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,17 +621,17 @@ Completed: 2,139 (0.98%) (Ranked 112)
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
-| 2023-07-31 | 217,454 | 2,139 |
+| 2023-07-31 | 217,473 | 2,139 |
 ## Awards
 Max (Diverse Characters): 5,106  (Ranked 67)  
-Sum: 30,826 (Ranked 38)  
+Sum: 30,829 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,106 |
 | This game is Great for Beginners | 5,040 |
 | This game has Quickly Understood Controls | 4,696 |
-| This game is Relaxing | 4,583 |
+| This game is Relaxing | 4,586 |
 | This game has Amazing Characters | 4,044 |
 | This game is Highly Recommended | 4,027 |
 | This game has Playful Visuals | 3,330 |
@@ -824,4 +824,4 @@ Diff (max vs sum): 29
 | 2023-07-28 | 4.05 | - | 5,093 | 30,775 |
 | 2023-07-29 | 4.05 | - | 5,100 | 30,800 |
 | 2023-07-30 | 4.05 | - | 5,100 | 30,813 |
-| 2023-07-31 | 4.05 | - | 5,106 | 30,826 |
+| 2023-07-31 | 4.05 | - | 5,106 | 30,829 |

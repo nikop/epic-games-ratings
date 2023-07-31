@@ -2,7 +2,7 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 201,
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 811,
+  "EOS_Progressed": 812,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -1895,6 +1895,11 @@
       "Time": "2023-07-31T19:04:29.7381168+00:00",
       "NumProgressed": 811,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-31T20:04:46.3918848+00:00",
+      "NumProgressed": 812,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -1978,7 +1983,7 @@
       "Name": "Street Style",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "CultivairChests1",
@@ -2329,7 +2334,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 811,
+      "Progressed": 812,
       "Completed": 5
     }
   ],
@@ -2337,8 +2342,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-07-31T19:04:29.7381163+00:00",
+  "LastChanged_Achievements": "2023-07-31T20:04:46.3918842+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.2379789+00:00",
-  "LastUpdate_Ratings": "2023-07-31T18:59:57.6017578+00:00",
-  "LastUpdate_Achievements": "2023-07-31T19:04:29.7381641+00:00"
+  "LastUpdate_Ratings": "2023-07-31T20:00:21.5128524+00:00",
+  "LastUpdate_Achievements": "2023-07-31T20:04:46.3919456+00:00"
 }

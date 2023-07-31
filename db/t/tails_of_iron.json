@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -227,7 +227,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1829,
+  "EOS_Progressed": 1830,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
@@ -2277,6 +2277,11 @@
       "Time": "2023-07-31T19:03:51.4245046+00:00",
       "NumProgressed": 1829,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-31T20:03:56.7400842+00:00",
+      "NumProgressed": 1830,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2288,15 +2293,15 @@
       "Name": "Become King",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "Collect20Gold",
       "SetID": "9lj35g4",
       "Name": "Collect Gold",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 805
     },
     {
       "ID": "Collect20Iron",
@@ -2334,9 +2339,9 @@
       "ID": "CompleteAll",
       "SetID": "9lj35g4",
       "Name": "King of Kings",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 146
     },
     {
       "ID": "CompleteArenaFaction",
@@ -2368,7 +2373,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2408,7 +2413,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -2424,7 +2429,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "GetRangedWeapon",
@@ -2440,7 +2445,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "Kill25Bugs",
@@ -2448,7 +2453,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "Kill25Frogs",
@@ -2456,7 +2461,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "Kill25Mozi",
@@ -2464,7 +2469,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "MeetTheMoles",
@@ -2488,15 +2493,15 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "RepairSmith",
       "SetID": "9lj35g4",
       "Name": "Smithy Ready to Craft",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 805
     },
     {
       "ID": "RepairThroneRoom",
@@ -2527,22 +2532,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1829,
+      "Progressed": 1830,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 470,
-      "Completed": 470
+      "Progressed": 471,
+      "Completed": 471
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-30T07:58:33.6633976+00:00",
-  "LastChanged_Achievements": "2023-07-31T19:03:51.4245041+00:00",
+  "LastChanged_Achievements": "2023-07-31T20:03:56.7400835+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.5556081+00:00",
-  "LastUpdate_Ratings": "2023-07-31T18:59:04.5006317+00:00",
-  "LastUpdate_Achievements": "2023-07-31T19:03:51.4245334+00:00"
+  "LastUpdate_Ratings": "2023-07-31T19:59:16.3730269+00:00",
+  "LastUpdate_Achievements": "2023-07-31T20:03:56.7401401+00:00"
 }

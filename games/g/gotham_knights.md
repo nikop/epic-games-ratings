@@ -6,8 +6,9 @@ Rating: 4.18 (Ranked 864)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 6.00% | ~4,052 |
-| Har, Har, Har, Very Funny | 5.00% | ~3,376 |
+| Har, Har, Har, Very Funny | 5.00% | ~3,377 |
 | To the Victor Go the Spoils | 4.00% | ~2,701 |
+| Get ReQ'd | 4.00% | ~2,701 |
 | Knighthood | 4.00% | ~2,701 |
 | Loose Ends | 4.00% | ~2,701 |
 | Whispered Words | 4.00% | ~2,701 |
@@ -17,7 +18,6 @@ Rating: 4.18 (Ranked 864)
 | The Show Mud Go On | 3.00% | ~2,026 |
 | Quartzer Life Crisis | 3.00% | ~2,026 |
 | Snow Problem | 3.00% | ~2,026 |
-| Get ReQ'd | 3.00% | ~2,026 |
 | Working Hard or Harley Working? | 3.00% | ~2,026 |
 | Universal Health Scare | 3.00% | ~2,026 |
 | Unstoppable Force | 3.00% | ~2,026 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 864)
 | History Major | 0.10% | ~68 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,530 (Ranked 80)  
+Progressed: 67,533 (Ranked 80)  
 Completed: 105 (0.16%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 105 (0.16%) (Ranked 179)
 | 2023-07-28 | 67,447 | 104 |
 | 2023-07-29 | 67,480 | 104 |
 | 2023-07-30 | 67,509 | 104 |
-| 2023-07-31 | 67,530 | 105 |
+| 2023-07-31 | 67,533 | 105 |
 ## Awards
 Max (Great Boss Battles): 2,472  (Ranked 101)  
 Sum: 4,104 (Ranked 139)  

@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14275,
+  "EOS_Progressed": 14276,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -7229,6 +7229,11 @@
       "Time": "2023-07-31T18:03:29.6954711+00:00",
       "NumProgressed": 14275,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-07-31T20:03:46.5792386+00:00",
+      "NumProgressed": 14276,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 41,
@@ -7248,7 +7253,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "tpote_achievement_11",
@@ -7344,7 +7349,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4282
+      "UsersEstimate": 4283
     },
     {
       "ID": "tpote_achievement_22",
@@ -7438,9 +7443,9 @@
       "ID": "tpote_achievement_32",
       "SetID": "3jcf6c3",
       "Name": "Jack was here!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2141
+      "UsersEstimate": 1999
     },
     {
       "ID": "tpote_achievement_33",
@@ -7552,7 +7557,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3140
+      "UsersEstimate": 3141
     },
     {
       "ID": "tpote_achievement_9",
@@ -7560,22 +7565,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4996
+      "UsersEstimate": 4997
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14275,
+      "Progressed": 14276,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-31T19:03:43.7574199+00:00",
+  "LastChanged_Achievements": "2023-07-31T20:03:46.5792381+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:48.9237471+00:00",
-  "LastUpdate_Ratings": "2023-07-31T19:00:28.2489767+00:00",
-  "LastUpdate_Achievements": "2023-07-31T19:03:43.7574794+00:00"
+  "LastUpdate_Ratings": "2023-07-31T20:01:00.9475289+00:00",
+  "LastUpdate_Achievements": "2023-07-31T20:03:46.5793749+00:00"
 }

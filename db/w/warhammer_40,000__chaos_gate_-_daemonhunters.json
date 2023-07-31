@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -642,7 +642,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3090,
+  "EOS_Progressed": 3092,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
@@ -2767,6 +2767,11 @@
       "Time": "2023-07-31T19:04:36.4308765+00:00",
       "NumProgressed": 3090,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T20:04:54.6805299+00:00",
+      "NumProgressed": 3092,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3040,9 +3045,9 @@
       "ID": "MasterCraftLevel3_Armour",
       "SetID": "3jha1np",
       "Name": "The Emperor Protects",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 15
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -3192,17 +3197,17 @@
       "ID": "ReaperDefeated_Necrosus",
       "SetID": "3jha1np",
       "Name": "Junk Banishment",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ReaperDefeated_Poxus",
       "SetID": "3jha1np",
       "Name": "A Gift Spurned",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -3321,21 +3326,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3090,
+      "Progressed": 3092,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3090,
+      "Progressed": 3092,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-30T00:00:03.0070741+00:00",
-  "LastChanged_Achievements": "2023-07-31T19:04:36.430876+00:00",
+  "LastChanged_Achievements": "2023-07-31T20:04:54.6805293+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:36.2653351+00:00",
-  "LastUpdate_Ratings": "2023-07-31T18:59:28.8005253+00:00",
-  "LastUpdate_Achievements": "2023-07-31T19:04:36.4309439+00:00"
+  "LastUpdate_Ratings": "2023-07-31T19:59:42.1848145+00:00",
+  "LastUpdate_Achievements": "2023-07-31T20:04:54.6806722+00:00"
 }

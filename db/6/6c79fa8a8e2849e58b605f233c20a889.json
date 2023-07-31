@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2170,
+  "EOS_Progressed": 2171,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -4311,6 +4311,11 @@
       "Time": "2023-07-31T19:04:22.4380319+00:00",
       "NumProgressed": 2170,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-31T20:04:37.7032149+00:00",
+      "NumProgressed": 2171,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -4370,7 +4375,7 @@
       "Name": "Face-To-Face",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -4378,7 +4383,7 @@
       "Name": "Face-To-Screen-To-Face",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "FEUD_APPRENTICE",
@@ -4402,7 +4407,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "GLOVE_SLAP",
@@ -4426,7 +4431,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "GUARD_MAKER",
@@ -4497,14 +4502,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2170,
+      "Progressed": 2171,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-31T19:04:22.4380312+00:00",
+  "LastChanged_Achievements": "2023-07-31T20:04:37.7032142+00:00",
   "LastUpdate_AppInfo": "2023-07-25T19:57:06.9403478+00:00",
-  "LastUpdate_Ratings": "2023-07-31T18:58:00.3609104+00:00",
-  "LastUpdate_Achievements": "2023-07-31T19:04:22.4380646+00:00"
+  "LastUpdate_Ratings": "2023-07-31T19:57:53.325749+00:00",
+  "LastUpdate_Achievements": "2023-07-31T20:04:37.7032839+00:00"
 }

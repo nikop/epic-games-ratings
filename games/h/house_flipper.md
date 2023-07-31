@@ -6,19 +6,19 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 94.00% | ~19,201 |
-| Strongman | 31.00% | ~6,332 |
-| Just Enough | 19.00% | ~3,881 |
-| Alpha Male | 19.00% | ~3,881 |
-| Pro-creative | 18.00% | ~3,677 |
-| Worth Every Penny | 14.00% | ~2,860 |
+| First money | 94.00% | ~19,207 |
+| Strongman | 31.00% | ~6,334 |
+| Just Enough | 19.00% | ~3,882 |
+| Alpha Male | 19.00% | ~3,882 |
+| Pro-creative | 18.00% | ~3,678 |
+| Worth Every Penny | 14.00% | ~2,861 |
 | Family man | 13.00% | ~2,656 |
 | Junior Estate Agent | 13.00% | ~2,656 |
 | Mystery | 10.00% | ~2,043 |
 | Artistic soul | 10.00% | ~2,043 |
-| Estate Agent | 5.00% | ~1,021 |
-| Millionaire | 5.00% | ~1,021 |
-| Perfectionist | 5.00% | ~1,021 |
+| Estate Agent | 5.00% | ~1,022 |
+| Millionaire | 5.00% | ~1,022 |
+| Perfectionist | 5.00% | ~1,022 |
 | I'm Belieber | 2.00% | ~409 |
 | You do it wrong | 1.00% | ~204 |
 | Knock, knock | 0.90% | ~184 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Nerd | 0.50% | ~102 |
 | Senior Estate Agent | 0.50% | ~102 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,427 (Ranked 104)  
+Progressed: 20,433 (Ranked 104)  
 Completed: 19 (0.09%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,10 +132,10 @@ Completed: 19 (0.09%) (Ranked 197)
 | 2023-07-28 | 20,303 | 19 |
 | 2023-07-29 | 20,345 | 19 |
 | 2023-07-30 | 20,393 | 19 |
-| 2023-07-31 | 20,427 | 19 |
+| 2023-07-31 | 20,433 | 19 |
 ## Awards
 Max (Great for Beginners): 304  (Ranked 232)  
-Sum: 2,194 (Ranked 189)  
+Sum: 2,195 (Ranked 189)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -149,7 +149,7 @@ Diff (max vs sum): 43
 | This game has Amazing Storytelling | 211 |
 | This game has Amazing Characters | 189 |
 | This game has Obsessive Gameplay | 173 |
-| This game has Easy Combat | 160 |
+| This game has Easy Combat | 161 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -289,3 +289,4 @@ Diff (max vs sum): 43
 | 2023-07-24 | 4.69 | - | 304 | 2,191 |
 | 2023-07-25 | 4.69 | - | 304 | 2,192 |
 | 2023-07-29 | 4.69 | - | 304 | 2,194 |
+| 2023-07-31 | 4.69 | - | 304 | 2,195 |

@@ -5372,10 +5372,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30826,
       "NumberOfAwardsMax": 5106
+    },
+    {
+      "Time": "2023-07-31T19:58:59.8809631+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30829,
+      "NumberOfAwardsMax": 5106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30826,
+  "NumberOfAwards": 30829,
   "NumberOfAwardsMax": 5106,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5401,7 +5407,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4583
+      "Count": 4586
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5422,10 +5428,10 @@
       "Count": 3330
     }
   ],
-  "EOS_Progressed": 217454,
+  "EOS_Progressed": 217473,
   "EOS_Completed": 2139,
-  "EOS_NewPlayers": 2286,
-  "EOS_NewCompleters": 79,
+  "EOS_NewPlayers": 2292,
+  "EOS_NewCompleters": 77,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16422,6 +16428,11 @@
       "Time": "2023-07-31T19:04:20.6332267+00:00",
       "NumProgressed": 217454,
       "NumCompleted": 2139
+    },
+    {
+      "Time": "2023-07-31T20:04:35.8502002+00:00",
+      "NumProgressed": 217473,
+      "NumCompleted": 2139
     }
   ],
   "TotalAchievements": 512,
@@ -18647,9 +18658,9 @@
       "ID": "objective_completed_55",
       "SetID": "cc37lbc",
       "Name": "Flying Monkey Skulls of Doom",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 652
     },
     {
       "ID": "objective_completed_550",
@@ -20528,21 +20539,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183728,
+      "Progressed": 183747,
       "Completed": 3040
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217454,
+      "Progressed": 217473,
       "Completed": 2139
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-31T18:58:54.7993483+00:00",
-  "LastChanged_Achievements": "2023-07-31T19:04:20.6332262+00:00",
+  "LastChanged": "2023-07-31T19:58:59.8809629+00:00",
+  "LastChanged_Achievements": "2023-07-31T20:04:35.8501996+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-31T18:58:54.7993489+00:00",
-  "LastUpdate_Achievements": "2023-07-31T19:04:20.6355793+00:00"
+  "LastUpdate_Ratings": "2023-07-31T19:58:59.8809641+00:00",
+  "LastUpdate_Achievements": "2023-07-31T20:04:35.854707+00:00"
 }

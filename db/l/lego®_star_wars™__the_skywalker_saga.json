@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2834,9 +2834,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49994,
+  "EOS_Progressed": 49995,
   "EOS_Completed": 217,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -9574,6 +9574,11 @@
       "Time": "2023-07-31T15:02:22.2801114+00:00",
       "NumProgressed": 49994,
       "NumCompleted": 217
+    },
+    {
+      "Time": "2023-07-31T20:01:38.155551+00:00",
+      "NumProgressed": 49995,
+      "NumCompleted": 217
     }
   ],
   "TotalAchievements": 45,
@@ -9609,7 +9614,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39495
+      "UsersEstimate": 39496
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -9697,7 +9702,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29496
+      "UsersEstimate": 29497
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -9705,7 +9710,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23497
+      "UsersEstimate": 23498
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -9721,7 +9726,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 23997
+      "UsersEstimate": 23998
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -9745,7 +9750,7 @@
       "Name": "The Force Awakens",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 13498
+      "UsersEstimate": 13499
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -9831,9 +9836,9 @@
       "ID": "DESTROY_100_TIE_FIGHTERS",
       "SetID": "3fcpmbm",
       "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 9499
+      "UsersEstimate": 8999
     },
     {
       "ID": "EARN_10B_STUDS",
@@ -9849,7 +9854,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48494
+      "UsersEstimate": 48495
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -9944,15 +9949,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49994,
+      "Progressed": 49995,
       "Completed": 217
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-07-31T18:57:23.9880358+00:00",
-  "LastChanged_Achievements": "2023-07-31T18:01:57.9645689+00:00",
+  "LastChanged_Achievements": "2023-07-31T20:01:38.1555503+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:55.9032562+00:00",
-  "LastUpdate_Ratings": "2023-07-31T18:57:23.9880362+00:00",
-  "LastUpdate_Achievements": "2023-07-31T18:01:57.9646577+00:00"
+  "LastUpdate_Ratings": "2023-07-31T19:57:11.8100594+00:00",
+  "LastUpdate_Achievements": "2023-07-31T20:01:38.1557967+00:00"
 }

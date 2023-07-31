@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.60 (Ranked 390)  
+Rating: 4.60 (Ranked 389)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -31,7 +31,7 @@ Rating: 4.60 (Ranked 390)
 | Like Clockwork | 14.00% | ~114 |
 | Cartographer | 14.00% | ~114 |
 | Check Your Pulse | 14.00% | ~114 |
-| Street Style | 13.00% | ~105 |
+| Street Style | 13.00% | ~106 |
 | Whiz Kid | 11.00% | ~89 |
 | Chaincrawler Explorer | 10.00% | ~81 |
 | Good Neighbor | 10.00% | ~81 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 390)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 811 (Ranked 201)  
+Progressed: 812 (Ranked 201)  
 Completed: 5 (0.62%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 5 (0.62%) (Ranked 125)
 | 2023-07-28 | 797 | 4 |
 | 2023-07-29 | 803 | 4 |
 | 2023-07-30 | 808 | 4 |
-| 2023-07-31 | 811 | 5 |
+| 2023-07-31 | 812 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

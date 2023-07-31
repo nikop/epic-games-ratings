@@ -46,14 +46,14 @@
 | Hawkman | 10.00% | ~17 |
 | Fashion Victim | 8.00% | ~13 |
 | Annihilate | 8.00% | ~13 |
+| Godlike Skin | 7.00% | ~12 |
 | Feast Time | 7.00% | ~12 |
 | See You Later | 6.00% | ~10 |
-| Godlike Skin | 6.00% | ~10 |
 | Unlucky Luke | 5.00% | ~8 |
 | Cheesy Chess | 5.00% | ~8 |
+| A Phony Clown | 4.00% | ~7 |
 | Octopy Mayhem | 4.00% | ~7 |
 | Got'em Totem | 4.00% | ~7 |
-| A Phony Clown | 3.00% | ~5 |
 | Duck Knight | 3.00% | ~5 |
 | Destroy Everything | 0.60% | ~1 |
 | Hearty Meteor | 0.60% | ~1 |

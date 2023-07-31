@@ -18,7 +18,7 @@ Number of Ratings: 371  (23.09.2022)
 | Friendly Fire | 0.70% | ~22 |
 | A Foul Creche | 0.70% | ~22 |
 | Honoured Battle-Brother | 0.60% | ~19 |
-| The Emperor Protects | 0.60% | ~19 |
+| The Emperor Protects | 0.50% | ~15 |
 | Nemesis Master | 0.50% | ~15 |
 | Execution Force | 0.50% | ~15 |
 | Hold Your Ground | 0.40% | ~12 |
@@ -32,6 +32,8 @@ Number of Ratings: 371  (23.09.2022)
 | Mind Like a Fortress | 0.20% | ~6 |
 | Efficient Killer | 0.20% | ~6 |
 | Only in Death | 0.20% | ~6 |
+| Junk Banishment | 0.20% | ~6 |
+| A Gift Spurned | 0.20% | ~6 |
 | Tactical Sabotage | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Blood and Iron | 0.10% | ~3 |
@@ -48,8 +50,6 @@ Number of Ratings: 371  (23.09.2022)
 | Exercise in Restraint | 0.10% | ~3 |
 | Preservationist | 0.10% | ~3 |
 | Engine Kill | 0.10% | ~3 |
-| Junk Banishment | 0.10% | ~3 |
-| A Gift Spurned | 0.10% | ~3 |
 | Death Comes For All | 0.10% | ~3 |
 | True Mastery | 0.10% | ~3 |
 | Tactical Flexibility | 0.10% | ~3 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Harvest No More | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,090 (Ranked 153)  
+Progressed: 3,092 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 3,064 | 0 |
 | 2023-07-29 | 3,069 | 0 |
 | 2023-07-30 | 3,081 | 0 |
-| 2023-07-31 | 3,090 | 0 |
+| 2023-07-31 | 3,092 | 0 |
 ## Awards
 Max (Character Customization): 216  (Ranked 265)  
 Sum: 459 (Ranked 303)  
