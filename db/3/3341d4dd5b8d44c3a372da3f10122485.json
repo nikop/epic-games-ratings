@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 1,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 33,
-  "EOS_Completed": 14,
+  "EOS_Completed": 15,
   "EOS_NewPlayers": 9,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 42.42,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 45.45,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -256,6 +256,11 @@
       "Time": "2023-07-31T08:04:35.6218594+00:00",
       "NumProgressed": 33,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-07-31T09:04:54.496811+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -298,9 +303,9 @@
       "ID": "Konec",
       "SetID": "823jm6g",
       "Name": "Happy End",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Les",
@@ -314,9 +319,9 @@
       "ID": "Majak",
       "SetID": "823jm6g",
       "Name": "Lighthouse",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Nora",
@@ -372,13 +377,13 @@
       "ID": "823jm6g",
       "IsBase": true,
       "Progressed": 33,
-      "Completed": 14
+      "Completed": 15
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-07-31T08:04:35.621859+00:00",
+  "LastChanged_Achievements": "2023-07-31T09:04:54.4968104+00:00",
   "LastUpdate_AppInfo": "2023-07-28T14:57:04.1674151+00:00",
-  "LastUpdate_Ratings": "2023-07-31T07:57:19.8359275+00:00",
-  "LastUpdate_Achievements": "2023-07-31T08:04:35.6218691+00:00"
+  "LastUpdate_Ratings": "2023-07-31T08:57:33.9477761+00:00",
+  "LastUpdate_Achievements": "2023-07-31T09:04:54.4968254+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -562,9 +562,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 9388,
+  "EOS_Progressed": 9389,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7472,6 +7472,11 @@
       "Time": "2023-07-31T08:04:16.4088824+00:00",
       "NumProgressed": 9388,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-31T09:04:35.1130049+00:00",
+      "NumProgressed": 9389,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -7483,7 +7488,7 @@
       "Name": "Born in the 80\u2019s",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH02",
@@ -7603,7 +7608,7 @@
       "Name": "Keepie-Uppy Okie Dokie",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH17",
@@ -7619,7 +7624,7 @@
       "Name": "I\u0027m Famous!",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH19",
@@ -7754,7 +7759,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9388,
+      "Progressed": 9389,
       "Completed": 43
     }
   ],
@@ -7762,8 +7767,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-30T11:58:54.8503633+00:00",
-  "LastChanged_Achievements": "2023-07-31T08:04:16.4088821+00:00",
+  "LastChanged_Achievements": "2023-07-31T09:04:35.1130042+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-07-31T07:58:34.4034668+00:00",
-  "LastUpdate_Achievements": "2023-07-31T08:04:16.408936+00:00"
+  "LastUpdate_Ratings": "2023-07-31T08:58:55.6527773+00:00",
+  "LastUpdate_Achievements": "2023-07-31T09:04:35.1131371+00:00"
 }

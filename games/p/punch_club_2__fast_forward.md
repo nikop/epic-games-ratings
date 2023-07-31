@@ -35,9 +35,9 @@
 | Fight for life | 51.00% | ~99 |
 | Legal courier | 48.00% | ~93 |
 | Extreme neuropower! | 48.00% | ~93 |
+| Escaped from a big trouble | 46.00% | ~89 |
 | Your own way | 46.00% | ~89 |
 | Now you are worthy | 45.00% | ~87 |
-| Escaped from a big trouble | 45.00% | ~87 |
 | No blades in the gym | 43.00% | ~83 |
 | Guiding on the right path | 42.00% | ~81 |
 | Fight is life | 41.00% | ~80 |
@@ -71,7 +71,7 @@
 | Better cooking at home | 22.00% | ~43 |
 | The only right decision | 22.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 194 (Ranked 283)  
+Progressed: 194 (Ranked 284)  
 Completed: 7 (3.61%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |

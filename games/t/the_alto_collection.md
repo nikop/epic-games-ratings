@@ -6,27 +6,27 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~8,687 |
-| Finding Your Footing | 26.00% | ~8,687 |
-| Nomad | 18.00% | ~6,014 |
-| Picking Up Speed | 16.00% | ~5,346 |
-| Welcome Maya | 15.00% | ~5,012 |
-| Sightseer | 11.00% | ~3,675 |
-| Scout | 10.00% | ~3,341 |
-| Amateur | 9.00% | ~3,007 |
+| Rookie | 26.00% | ~8,689 |
+| Finding Your Footing | 26.00% | ~8,689 |
+| Nomad | 18.00% | ~6,015 |
+| Picking Up Speed | 16.00% | ~5,347 |
+| Welcome Maya | 15.00% | ~5,013 |
+| Sightseer | 11.00% | ~3,676 |
+| Scout | 10.00% | ~3,342 |
+| Amateur | 9.00% | ~3,008 |
 | Enter Paz | 8.00% | ~2,673 |
 | Wanderer | 8.00% | ~2,673 |
 | Unlock Maya | 7.00% | ~2,339 |
 | Aviator | 6.00% | ~2,005 |
 | One With The Board | 6.00% | ~2,005 |
-| My Little Friend | 5.00% | ~1,670 |
-| Voyager | 5.00% | ~1,670 |
-| Sandboarder | 4.00% | ~1,336 |
-| Izel Has Arrived | 4.00% | ~1,336 |
-| Junkie | 3.00% | ~1,002 |
-| Traveler | 3.00% | ~1,002 |
-| Journeyer | 3.00% | ~1,002 |
-| Unlock Paz | 3.00% | ~1,002 |
+| My Little Friend | 5.00% | ~1,671 |
+| Voyager | 5.00% | ~1,671 |
+| Sandboarder | 4.00% | ~1,337 |
+| Izel Has Arrived | 4.00% | ~1,337 |
+| Junkie | 3.00% | ~1,003 |
+| Traveler | 3.00% | ~1,003 |
+| Journeyer | 3.00% | ~1,003 |
+| Unlock Paz | 3.00% | ~1,003 |
 | Explorer | 2.00% | ~668 |
 | Pro | 2.00% | ~668 |
 | Unlock Izel | 2.00% | ~668 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~33 |
 | Windswept | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,410 (Ranked 97)  
+Progressed: 33,418 (Ranked 97)  
 Completed: 5 (0.01%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 5 (0.01%) (Ranked 233)
 | 2023-07-28 | 33,073 | 5 |
 | 2023-07-29 | 33,224 | 5 |
 | 2023-07-30 | 33,378 | 5 |
-| 2023-07-31 | 33,410 | 5 |
+| 2023-07-31 | 33,418 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 46  (Ranked 410)  
 Sum: 359 (Ranked 322)  

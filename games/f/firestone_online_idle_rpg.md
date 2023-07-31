@@ -5,13 +5,13 @@ Rating: 4.10 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,623 |
+| Victor | 93.00% | ~1,624 |
 | World Map | 79.00% | ~1,379 |
-| Temple of Eternals | 56.00% | ~977 |
+| Temple of Eternals | 56.00% | ~978 |
 | Prestigious | 53.00% | ~925 |
-| Fellowship Power | 41.00% | ~715 |
+| Fellowship Power | 41.00% | ~716 |
 | Guild Power | 25.00% | ~436 |
-| Prestigious x10 | 21.00% | ~366 |
+| Prestigious x10 | 21.00% | ~367 |
 | The game is on | 20.00% | ~349 |
 | Exotic Merchant | 18.00% | ~314 |
 | Dragon Clicker | 17.00% | ~297 |
@@ -28,15 +28,15 @@ Rating: 4.10 (Ranked 897)
 | Superior | 13.00% | ~227 |
 | The Unstoppable | 13.00% | ~227 |
 | Scientist | 11.00% | ~192 |
-| Challenger | 10.00% | ~174 |
-| Daily Quest Completionist | 10.00% | ~174 |
-| Doing My Part | 10.00% | ~174 |
-| Hunter | 10.00% | ~174 |
-| Mastery | 10.00% | ~174 |
-| Moving Up The Ladder | 10.00% | ~174 |
-| Relic Of The Past | 10.00% | ~174 |
-| Scroll Master | 10.00% | ~174 |
-| The power of Awakening | 10.00% | ~174 |
+| Challenger | 10.00% | ~175 |
+| Daily Quest Completionist | 10.00% | ~175 |
+| Doing My Part | 10.00% | ~175 |
+| Hunter | 10.00% | ~175 |
+| Mastery | 10.00% | ~175 |
+| Moving Up The Ladder | 10.00% | ~175 |
+| Relic Of The Past | 10.00% | ~175 |
+| Scroll Master | 10.00% | ~175 |
+| The power of Awakening | 10.00% | ~175 |
 | Four Leaf Clover | 9.00% | ~157 |
 | Frostfire Liberator | 9.00% | ~157 |
 | Here We Go Again | 8.00% | ~140 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 897)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,745 (Ranked 172)  
+Progressed: 1,746 (Ranked 172)  
 Completed: 1 (0.06%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 1 (0.06%) (Ranked 205)
 | 2023-07-28 | 1,731 | 1 |
 | 2023-07-29 | 1,736 | 1 |
 | 2023-07-30 | 1,741 | 1 |
-| 2023-07-31 | 1,745 | 1 |
+| 2023-07-31 | 1,746 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

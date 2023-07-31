@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -763,9 +763,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 8294,
+  "EOS_Progressed": 8295,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6808,6 +6808,11 @@
       "Time": "2023-07-31T02:05:16.2980784+00:00",
       "NumProgressed": 8294,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T09:06:27.7988375+00:00",
+      "NumProgressed": 8295,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -6819,7 +6824,7 @@
       "Name": "Adventure Time",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6635
+      "UsersEstimate": 6636
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -6851,7 +6856,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 4893
+      "UsersEstimate": 4894
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -6891,7 +6896,7 @@
       "Name": "Get In The Ring!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "ACH_GREY_GOO",
@@ -6915,7 +6920,7 @@
       "Name": "Guardian Angel",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2405
+      "UsersEstimate": 2406
     },
     {
       "ID": "ACH_GUNPLAY_AND_COSPLAY",
@@ -6987,7 +6992,7 @@
       "Name": "Meching Enemies",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 4064
+      "UsersEstimate": 4065
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -7019,7 +7024,7 @@
       "Name": "Photogenic",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 7299
+      "UsersEstimate": 7300
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -7027,7 +7032,7 @@
       "Name": "Playing With Power",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 6469
+      "UsersEstimate": 6470
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -7035,7 +7040,7 @@
       "Name": "Plug It In",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6967
+      "UsersEstimate": 6968
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -7123,7 +7128,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 7050
+      "UsersEstimate": 7051
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -7171,7 +7176,7 @@
       "Name": "This Is My Boomstick!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "ACH_TICKET_TITAN",
@@ -7187,7 +7192,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3649
+      "UsersEstimate": 3650
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -7218,15 +7223,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 8294,
+      "Progressed": 8295,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-07-22T11:58:35.0651733+00:00",
-  "LastChanged_Achievements": "2023-07-31T08:06:03.1327213+00:00",
+  "LastChanged_Achievements": "2023-07-31T09:06:27.7988365+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:17.3324442+00:00",
-  "LastUpdate_Ratings": "2023-07-31T07:58:44.0207919+00:00",
-  "LastUpdate_Achievements": "2023-07-31T08:06:03.1327874+00:00"
+  "LastUpdate_Ratings": "2023-07-31T08:59:05.8285754+00:00",
+  "LastUpdate_Achievements": "2023-07-31T09:06:27.7989588+00:00"
 }

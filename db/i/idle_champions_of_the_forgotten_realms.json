@@ -5416,9 +5416,9 @@
       "Count": 3330
     }
   ],
-  "EOS_Progressed": 217323,
+  "EOS_Progressed": 217331,
   "EOS_Completed": 2138,
-  "EOS_NewPlayers": 2261,
+  "EOS_NewPlayers": 2269,
   "EOS_NewCompleters": 78,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16361,6 +16361,11 @@
       "Time": "2023-07-31T08:03:48.3050691+00:00",
       "NumProgressed": 217323,
       "NumCompleted": 2138
+    },
+    {
+      "Time": "2023-07-31T09:04:08.048556+00:00",
+      "NumProgressed": 217331,
+      "NumCompleted": 2138
     }
   ],
   "TotalAchievements": 512,
@@ -16380,7 +16385,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4346
+      "UsersEstimate": 4347
     },
     {
       "ID": "objective_completed_100",
@@ -17282,9 +17287,9 @@
       "ID": "objective_completed_1214",
       "SetID": "415jc5c",
       "Name": "Clowning Around",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1218",
@@ -20274,9 +20279,9 @@
       "ID": "objective_completed_99",
       "SetID": "cc37lbc",
       "Name": "Rescue in the Jungle",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 652
     },
     {
       "ID": "objective_completed_1355",
@@ -20467,21 +20472,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183597,
+      "Progressed": 183605,
       "Completed": 3036
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217323,
+      "Progressed": 217331,
       "Completed": 2138
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-31T07:58:28.9560959+00:00",
-  "LastChanged_Achievements": "2023-07-31T08:03:48.3050687+00:00",
+  "LastChanged_Achievements": "2023-07-31T09:04:08.0485554+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-31T07:58:28.9560966+00:00",
-  "LastUpdate_Achievements": "2023-07-31T08:03:48.3073841+00:00"
+  "LastUpdate_Ratings": "2023-07-31T08:58:49.8229525+00:00",
+  "LastUpdate_Achievements": "2023-07-31T09:04:08.052442+00:00"
 }

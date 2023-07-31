@@ -6,21 +6,21 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,734,615 |
-| Easy to forget | 46.00% | ~1,628,414 |
-| Back in the black | 39.00% | ~1,380,612 |
-| That's what I'm talking about | 28.00% | ~991,208 |
-| The Best of Both Worlds | 25.00% | ~885,008 |
-| Get your wings | 20.00% | ~708,006 |
-| Double trouble | 15.00% | ~531,004 |
-| Smashing it | 10.00% | ~354,003 |
-| But can it run Crysis? | 9.00% | ~318,603 |
-| My favourite feature... | 9.00% | ~318,603 |
-| From humble beginnings... | 7.00% | ~247,802 |
-| Customer satisfaction | 7.00% | ~247,802 |
-| Keeping things neat | 4.00% | ~141,601 |
-| Seems you're pretty good at this | 4.00% | ~141,601 |
-| Bending over backwards | 4.00% | ~141,601 |
+| You need to plug it in... | 49.00% | ~1,734,622 |
+| Easy to forget | 46.00% | ~1,628,421 |
+| Back in the black | 39.00% | ~1,380,618 |
+| That's what I'm talking about | 28.00% | ~991,213 |
+| The Best of Both Worlds | 25.00% | ~885,011 |
+| Get your wings | 20.00% | ~708,009 |
+| Double trouble | 15.00% | ~531,007 |
+| Smashing it | 10.00% | ~354,004 |
+| But can it run Crysis? | 9.00% | ~318,604 |
+| My favourite feature... | 9.00% | ~318,604 |
+| From humble beginnings... | 7.00% | ~247,803 |
+| Customer satisfaction | 7.00% | ~247,803 |
+| Keeping things neat | 4.00% | ~141,602 |
+| Seems you're pretty good at this | 4.00% | ~141,602 |
+| Bending over backwards | 4.00% | ~141,602 |
 | Triple threat | 3.00% | ~106,201 |
 | You rock at this! | 3.00% | ~106,201 |
 | Your music sucks | 3.00% | ~106,201 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,540 |
 | Treat yourself - GPU | 0.10% | ~3,540 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,540,030 (Ranked 4)  
+Progressed: 3,540,045 (Ranked 4)  
 Completed: 32 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,11 +161,11 @@ Completed: 32 (0.00%) (Ranked 246)
 | 2023-07-28 | 3,538,863 | 32 |
 | 2023-07-29 | 3,539,358 | 32 |
 | 2023-07-30 | 3,539,894 | 32 |
-| 2023-07-31 | 3,540,030 | 32 |
+| 2023-07-31 | 3,540,045 | 32 |
 ## Awards
 Max (Great for Beginners): 1,056  (Ranked 138)  
-Sum: 7,913 (Ranked 99)  
-Diff (max vs sum): 39  
+Sum: 7,913 (Ranked 100)  
+Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,056 |

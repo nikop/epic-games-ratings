@@ -4,8 +4,8 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 871,
+  "EOS_Progressed": 872,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2508,6 +2508,11 @@
       "Time": "2023-07-31T08:06:20.6688937+00:00",
       "NumProgressed": 871,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T09:06:45.4798545+00:00",
+      "NumProgressed": 872,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -2519,7 +2524,7 @@
       "Name": "ADVANCED",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "BUSINESS_OWNER",
@@ -2527,7 +2532,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "CHIEF",
@@ -2543,7 +2548,7 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "DEBTOR",
@@ -2630,7 +2635,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 871,
+      "Progressed": 872,
       "Completed": 0
     }
   ],
@@ -2638,8 +2643,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-07-31T08:06:20.6688933+00:00",
+  "LastChanged_Achievements": "2023-07-31T09:06:45.4798537+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:02.6399778+00:00",
-  "LastUpdate_Ratings": "2023-07-31T07:59:38.2564429+00:00",
-  "LastUpdate_Achievements": "2023-07-31T08:06:20.6689138+00:00"
+  "LastUpdate_Ratings": "2023-07-31T08:59:55.935477+00:00",
+  "LastUpdate_Achievements": "2023-07-31T09:06:45.4799054+00:00"
 }

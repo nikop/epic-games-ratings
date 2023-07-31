@@ -8,7 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 3.00% | ~6,520 |
 | Beast Intentions | 3.00% | ~6,520 |
-| Maddening | 2.00% | ~4,346 |
+| Maddening | 2.00% | ~4,347 |
 | The Silken Swamp | 1.00% | ~2,173 |
 | Supply Run | 1.00% | ~2,173 |
 | Rocky Reception | 1.00% | ~1,836 |
@@ -113,6 +113,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.30% | ~652 |
 | Pure Energy | 0.30% | ~652 |
 | The Templar's Camp | 0.30% | ~652 |
+| Rescue in the Jungle | 0.30% | ~652 |
 | Willing to Sacrifice | 0.30% | ~551 |
 | Devilishly Cold | 0.30% | ~551 |
 | Tiny Treaty | 0.30% | ~551 |
@@ -143,6 +144,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Get Back In The Castle | 0.20% | ~367 |
 | Checkmate | 0.20% | ~367 |
 | Vecna Out! | 0.20% | ~367 |
+| Clowning Around | 0.20% | ~367 |
 | Anti-Dexterous Explorers | 0.20% | ~435 |
 | Not Very Charming | 0.20% | ~435 |
 | Lobsterfolk Assault | 0.20% | ~435 |
@@ -207,7 +209,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sunblight | 0.20% | ~367 |
 | The Haunted Jungle | 0.20% | ~435 |
 | Poor Guidance | 0.20% | ~435 |
-| Rescue in the Jungle | 0.20% | ~435 |
 | All The World's A Stage | 0.20% | ~367 |
 | Keep Your Friends Close | 0.10% | ~184 |
 | And Your Enemies Closer | 0.10% | ~184 |
@@ -260,7 +261,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Destroyer | 0.10% | ~184 |
 | Pin and Skewer | 0.10% | ~184 |
 | Bully for Vecna | 0.10% | ~184 |
-| Clowning Around | 0.10% | ~184 |
 | A Whale of a Time | 0.10% | ~184 |
 | Struggling Toward Omu | 0.10% | ~217 |
 | Wagon Train | 0.10% | ~217 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,323 (Ranked 53)  
+Progressed: 217,331 (Ranked 53)  
 Completed: 2,138 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,7 +621,7 @@ Completed: 2,138 (0.98%) (Ranked 112)
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
-| 2023-07-31 | 217,323 | 2,138 |
+| 2023-07-31 | 217,331 | 2,138 |
 ## Awards
 Max (Diverse Characters): 5,106  (Ranked 67)  
 Sum: 30,821 (Ranked 38)  

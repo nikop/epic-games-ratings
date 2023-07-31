@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Start of a Journey | 88.00% | ~14 |
-| A thing of beauty | 75.00% | ~12 |
+| A thing of beauty | 81.00% | ~13 |
 | Escape the Maze | 44.00% | ~7 |
 | Brace the cold | 38.00% | ~6 |
 | A Long Walk | 31.00% | ~5 |

@@ -6,20 +6,20 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~5,679 |
+| First Step | 72.00% | ~5,680 |
 | Leader | 61.00% | ~4,812 |
 | Explorer | 53.00% | ~4,181 |
 | Healer | 52.00% | ~4,102 |
 | Aspiring Inventor | 44.00% | ~3,471 |
 | Adventurer | 42.00% | ~3,313 |
-| Famous Healer | 38.00% | ~2,997 |
+| Famous Healer | 38.00% | ~2,998 |
 | Local Leader | 35.00% | ~2,761 |
 | Famous Explorer | 34.00% | ~2,682 |
 | New Opportunities | 34.00% | ~2,682 |
 | Energized | 33.00% | ~2,603 |
 | The Long Haul | 33.00% | ~2,603 |
-| The Great Healer | 31.00% | ~2,445 |
-| Survivor | 31.00% | ~2,445 |
+| The Great Healer | 31.00% | ~2,446 |
+| Survivor | 31.00% | ~2,446 |
 | Cleaner | 28.00% | ~2,209 |
 | Catastrofan | 28.00% | ~2,209 |
 | Legendary Explorer | 27.00% | ~2,130 |
@@ -27,19 +27,19 @@ Number of Ratings: 836  (23.09.2022)
 | Top Notch | 25.00% | ~1,972 |
 | Ice Lakes | 23.00% | ~1,814 |
 | Mentor | 23.00% | ~1,814 |
-| Merchant | 22.00% | ~1,735 |
-| Great Leader | 22.00% | ~1,735 |
-| Real Survivor | 22.00% | ~1,735 |
+| Merchant | 22.00% | ~1,736 |
+| Great Leader | 22.00% | ~1,736 |
+| Real Survivor | 22.00% | ~1,736 |
+| Rocket Surgeon | 20.00% | ~1,578 |
 | War Never Changes | 19.00% | ~1,499 |
-| Rocket Surgeon | 19.00% | ~1,499 |
 | Big Game Hunter | 17.00% | ~1,341 |
 | Spreading Influence | 17.00% | ~1,341 |
 | Friendly | 16.00% | ~1,262 |
 | Around the World | 16.00% | ~1,262 |
 | Bookworm | 15.00% | ~1,183 |
 | Famous Adventurer | 14.00% | ~1,104 |
-| Prepared for Anything | 13.00% | ~1,025 |
-| Big Catastrofan | 13.00% | ~1,025 |
+| Prepared for Anything | 13.00% | ~1,026 |
+| Big Catastrofan | 13.00% | ~1,026 |
 | It's a Finnish Thing | 10.00% | ~789 |
 | Sky Burial | 9.00% | ~710 |
 | Trader | 8.00% | ~631 |
@@ -60,13 +60,13 @@ Number of Ratings: 836  (23.09.2022)
 | A Closer Look | 1.00% | ~79 |
 | True Survivor | 1.00% | ~79 |
 | Slimy yet Satisfying | 0.90% | ~71 |
-| Feng Shui | 0.80% | ~63 |
+| Feng Shui | 0.90% | ~71 |
 | Finnished | 0.30% | ~24 |
 | Fun and Games | 0.20% | ~16 |
 | Choo-choo! | 0.20% | ~16 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,888 (Ranked 127)  
+Progressed: 7,889 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 7,788 | 0 |
 | 2023-07-29 | 7,824 | 0 |
 | 2023-07-30 | 7,877 | 0 |
-| 2023-07-31 | 7,888 | 0 |
+| 2023-07-31 | 7,889 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 334)  
 Sum: 683 (Ranked 273)  

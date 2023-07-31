@@ -5,16 +5,16 @@ Rating: 4.85 (Ranked 39)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~213,654 |
-| Private Club | 74.00% | ~173,741 |
-| Rogue Guild | 65.00% | ~152,610 |
-| I Watched the Intro | 57.00% | ~133,827 |
+| Forgotten Sorority | 91.00% | ~213,655 |
+| Private Club | 74.00% | ~173,742 |
+| Rogue Guild | 65.00% | ~152,611 |
+| I Watched the Intro | 57.00% | ~133,828 |
 | Covert Consortium | 55.00% | ~129,132 |
-| Goat Queen | 53.00% | ~124,436 |
-| Reach the Stratosphere | 50.00% | ~117,392 |
+| Goat Queen | 53.00% | ~124,437 |
+| Reach the Stratosphere | 50.00% | ~117,393 |
 | Synchronization Complete | 47.00% | ~110,349 |
-| Secret Society | 45.00% | ~105,653 |
-| Shadow Syndicate | 38.00% | ~89,218 |
+| Secret Society | 45.00% | ~105,654 |
+| Shadow Syndicate | 38.00% | ~89,219 |
 | What a Waste of Money | 33.00% | ~77,479 |
 | New Goat Order | 30.00% | ~70,436 |
 | Don't touch the servers | 28.00% | ~65,740 |
@@ -23,8 +23,8 @@ Rating: 4.85 (Ranked 39)
 | Real Buoy | 26.00% | ~61,044 |
 | Welcome to Earth | 25.00% | ~58,696 |
 | Into the Matrix | 19.00% | ~44,609 |
-| Where is It? | 17.00% | ~39,913 |
-| Egg Simulator | 17.00% | ~39,913 |
+| Where is It? | 17.00% | ~39,914 |
+| Egg Simulator | 17.00% | ~39,914 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~35,218 |
 | Black Market | 14.00% | ~32,870 |
 | 401(K.O.) | 14.00% | ~32,870 |
@@ -45,7 +45,7 @@ Rating: 4.85 (Ranked 39)
 | Move! That! Bus! | 0.60% | ~1,409 |
 | G.O.A.T | 0.30% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,785 (Ranked 47)  
+Progressed: 234,786 (Ranked 47)  
 Completed: 782 (0.33%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 782 (0.33%) (Ranked 151)
 | 2023-07-28 | 234,432 | 782 |
 | 2023-07-29 | 234,577 | 782 |
 | 2023-07-30 | 234,745 | 782 |
-| 2023-07-31 | 234,785 | 782 |
+| 2023-07-31 | 234,786 | 782 |
 ## Awards
 Max (Great for Beginners): 372  (Ranked 218)  
 Sum: 3,120 (Ranked 156)  

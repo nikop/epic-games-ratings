@@ -45,7 +45,7 @@ Rating: 4.69 (Ranked 212)
 | A Long Time Ago | 0.00% | ~0 |
 | The Obstacle is the Way | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 451)  
+Progressed: 3 (Ranked 452)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 59615,
+  "EOS_Progressed": 59616,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 1111,
+  "EOS_NewPlayers": 1106,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9677,6 +9677,11 @@
       "Time": "2023-07-31T08:04:08.5422445+00:00",
       "NumProgressed": 59615,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-07-31T09:04:28.1424324+00:00",
+      "NumProgressed": 59616,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 67,
@@ -9688,7 +9693,7 @@
       "Name": "Follow the Light",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 21461
+      "UsersEstimate": 21462
     },
     {
       "ID": "02",
@@ -9696,7 +9701,7 @@
       "Name": "Nordic Walking",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13115
+      "UsersEstimate": 13116
     },
     {
       "ID": "03",
@@ -9704,7 +9709,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13115
+      "UsersEstimate": 13116
     },
     {
       "ID": "04",
@@ -9728,7 +9733,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9538
+      "UsersEstimate": 9539
     },
     {
       "ID": "07",
@@ -9960,7 +9965,7 @@
       "Name": "Let There Be Light",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17288
+      "UsersEstimate": 17289
     },
     {
       "ID": "36",
@@ -10024,7 +10029,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9538
+      "UsersEstimate": 9539
     },
     {
       "ID": "44",
@@ -10144,7 +10149,7 @@
       "Name": "Cardboard Companions",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "59",
@@ -10160,7 +10165,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "61",
@@ -10216,28 +10221,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 59615,
+      "Progressed": 59616,
       "Completed": 60
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23083,
+      "Progressed": 23084,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-31T08:04:08.542244+00:00",
+  "LastChanged_Achievements": "2023-07-31T09:04:28.1424316+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:35.0351219+00:00",
-  "LastUpdate_Ratings": "2023-07-31T07:58:04.4434238+00:00",
-  "LastUpdate_Achievements": "2023-07-31T08:04:08.542339+00:00"
+  "LastUpdate_Ratings": "2023-07-31T08:58:24.5549892+00:00",
+  "LastUpdate_Achievements": "2023-07-31T09:04:28.1426888+00:00"
 }

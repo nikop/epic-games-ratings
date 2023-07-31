@@ -37,9 +37,9 @@ Rating: 4.87 (Ranked 24)
 | There's such a thing as TOO helpful | 1.00% | ~36 |
 | Chip-tuned | 0.80% | ~29 |
 | Wanna hear my playlist? | 0.80% | ~29 |
+| Check out my moves! | 0.80% | ~29 |
+| Call me Turbo Chai | 0.80% | ~17 |
 | I told you I'd be fine, Peppermint! | 0.70% | ~26 |
-| Check out my moves! | 0.70% | ~26 |
-| Call me Turbo Chai | 0.70% | ~15 |
 | I think I deserve some praise, here! | 0.50% | ~18 |
 | I think I found your calling, Macaron | 0.50% | ~18 |
 | I hit things with a guitar really well. | 0.50% | ~18 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,648 (Ranked 146)  
+Progressed: 3,649 (Ranked 146)  
 Completed: 6 (0.16%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 6 (0.16%) (Ranked 179)
 | 2023-07-28 | 3,610 | 6 |
 | 2023-07-29 | 3,627 | 6 |
 | 2023-07-30 | 3,640 | 6 |
-| 2023-07-31 | 3,648 | 6 |
+| 2023-07-31 | 3,649 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

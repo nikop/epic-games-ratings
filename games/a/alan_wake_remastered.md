@@ -6,14 +6,14 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 36.00% | ~21,461 |
-| Let There Be Light | 29.00% | ~17,288 |
+| Follow the Light | 36.00% | ~21,462 |
+| Let There Be Light | 29.00% | ~17,289 |
 | Float Like a Butterfly | 28.00% | ~16,692 |
-| Nordic Walking | 22.00% | ~13,115 |
-| Bright Falls' Finest | 22.00% | ~13,115 |
+| Nordic Walking | 22.00% | ~13,116 |
+| Bright Falls' Finest | 22.00% | ~13,116 |
 | Under a Thin Layer of Skin | 19.00% | ~11,327 |
-| Park Ranger | 16.00% | ~9,538 |
-| Paging Mr. Wake | 16.00% | ~9,538 |
+| Park Ranger | 16.00% | ~9,539 |
+| Paging Mr. Wake | 16.00% | ~9,539 |
 | Back! Back, I Say! | 15.00% | ~8,942 |
 | Finders Keepers | 15.00% | ~8,942 |
 | They're Heeeeeere! | 13.00% | ~7,750 |
@@ -47,8 +47,8 @@ Number of Ratings: 524  (23.09.2022)
 | If It Flies, It Burns | 4.00% | ~2,385 |
 | KBF-FM | 4.00% | ~2,385 |
 | Carny | 3.00% | ~1,788 |
-| Kill Your Darlings | 3.00% | ~692 |
-| Heartbreaker | 3.00% | ~692 |
+| Kill Your Darlings | 3.00% | ~693 |
+| Heartbreaker | 3.00% | ~693 |
 | Medical Opinions | 2.00% | ~1,192 |
 | Taken Season | 2.00% | ~1,192 |
 | An Idyllic Small Town | 2.00% | ~1,192 |
@@ -56,7 +56,7 @@ Number of Ratings: 524  (23.09.2022)
 | Couch Potato | 1.00% | ~596 |
 | Go Gentle Into That Good Light | 1.00% | ~231 |
 | Words Will Never Harm You | 0.70% | ~162 |
-| Cardboard Companions | 0.60% | ~138 |
+| Cardboard Companions | 0.60% | ~139 |
 | Fast and Furious | 0.50% | ~115 |
 | Run-On Sentence | 0.40% | ~92 |
 | License Revoked | 0.40% | ~92 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~60 |
 | No Punctuation | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,615 (Ranked 84)  
+Progressed: 59,616 (Ranked 84)  
 Completed: 60 (0.10%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 60 (0.10%) (Ranked 193)
 | 2023-07-28 | 59,209 | 58 |
 | 2023-07-29 | 59,388 | 59 |
 | 2023-07-30 | 59,565 | 60 |
-| 2023-07-31 | 59,615 | 60 |
+| 2023-07-31 | 59,616 | 60 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -52,9 +52,9 @@ Rating: 4.42 (Ranked 663)
 | Locomotion Commotion | 0.60% | ~20 |
 | Operation Foxley | 0.60% | ~20 |
 | Last Resort | 0.60% | ~20 |
+| Siegebreaker | 0.60% | ~20 |
+| Ghost of Falaise | 0.60% | ~20 |
 | Strategist | 0.50% | ~17 |
-| Siegebreaker | 0.50% | ~17 |
-| Ghost of Falaise | 0.50% | ~17 |
 | Up close and personal | 0.40% | ~14 |
 | Shoot for the Moon | 0.40% | ~14 |
 | Can't Outrun A Bullet | 0.40% | ~14 |
