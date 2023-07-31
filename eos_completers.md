@@ -15,16 +15,16 @@
 | 13 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 15 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 13.70% |
-| 16 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.90% |
+| 16 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.50% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
-| 18 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 11.76% |
+| 18 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 11.54% |
 | 19 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 21 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.95% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Remains](games/r/remains.md) | 10.64% |
 | 24 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
-| 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.06% |
+| 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.34% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.05% |
 | 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
@@ -34,9 +34,9 @@
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.69% |
 | 33 | [Ravenlok](games/r/ravenlok.md) | 7.37% |
 | 34 | [Scorn](games/s/scorn.md) | 7.02% |
-| 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.98% |
-| 36 | [Time Loader](games/t/time_loader.md) | 6.96% |
-| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
+| 35 | [Time Loader](games/t/time_loader.md) | 6.96% |
+| 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.94% |
+| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.93% |
 | 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.41% |
 | 39 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.38% |
 | 40 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.37% |
@@ -54,9 +54,9 @@
 | 52 | [Without Escape](games/w/without_escape.md) | 4.17% |
 | 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.03% |
 | 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.98% |
-| 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.80% |
+| 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.79% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.61% |
-| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.59% |
+| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.57% |
 | 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.49% |
 | 60 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
@@ -66,9 +66,9 @@
 | 64 | [Monster Harvest](games/m/monster_harvest.md) | 3.05% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.04% |
 | 66 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 67 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.91% |
-| 68 | [HordeCore](games/h/hordecore.md) | 2.90% |
-| 68 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.90% |
+| 67 | [HordeCore](games/h/hordecore.md) | 2.90% |
+| 67 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.90% |
+| 67 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.90% |
 | 70 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.86% |
 | 71 | [Destiny 2](games/d/destiny_2.md) | 2.77% |
 | 72 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
@@ -178,12 +178,12 @@
 | 172 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
 | 177 | [BLACKTAIL](games/b/blacktail.md) | 0.17% |
 | 177 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
+| 179 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 179 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.16% |
 | 179 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 181 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
-| 181 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
-| 181 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
-| 181 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
+| 182 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
+| 182 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
+| 182 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 185 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 185 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.14% |
 | 187 | [Port Royale 4](games/p/port_royale_4.md) | 0.13% |
