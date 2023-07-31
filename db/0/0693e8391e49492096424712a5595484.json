@@ -1064,9 +1064,9 @@
       "ID": "BeggarWomanCoin",
       "SetID": "db30heh",
       "Name": "Alms",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 256
+      "UsersEstimate": 259
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -1104,9 +1104,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 197
     },
     {
       "ID": "DevilRope",
@@ -1128,9 +1128,9 @@
       "ID": "DwarDevil",
       "SetID": "db30heh",
       "Name": "Funny Devil",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 84
     },
     {
       "ID": "DwarfBeggarWoman",
@@ -1240,9 +1240,9 @@
       "ID": "PriestRogue",
       "SetID": "db30heh",
       "Name": "Direct Hit",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "PriestRum",
@@ -1256,9 +1256,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 155
     },
     {
       "ID": "PrincessThrone",
@@ -1367,8 +1367,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-31T13:18:00.6556193+00:00",
+  "LastChanged_Achievements": "2023-07-31T14:06:50.0610625+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:09:20.4698435+00:00",
-  "LastUpdate_Achievements": "2023-07-31T13:18:00.655665+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:57:23.849186+00:00",
+  "LastUpdate_Achievements": "2023-07-31T14:06:50.0611073+00:00"
 }

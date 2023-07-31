@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23612,
+  "EOS_Progressed": 23614,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -3417,6 +3417,11 @@
       "Time": "2023-07-31T13:18:30.754858+00:00",
       "NumProgressed": 23612,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-31T14:07:26.8274348+00:00",
+      "NumProgressed": 23614,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 32,
@@ -3436,7 +3441,7 @@
       "Name": "Playing Card To Get",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 7792
+      "UsersEstimate": 7793
     },
     {
       "ID": "ACH_ALL_HUNTCHALS",
@@ -3444,7 +3449,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18181
+      "UsersEstimate": 18183
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -3452,7 +3457,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10153
+      "UsersEstimate": 10154
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -3468,7 +3473,7 @@
       "Name": "Creature Feature",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6847
+      "UsersEstimate": 6848
     },
     {
       "ID": "ACH_GET_GUS",
@@ -3476,7 +3481,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -3484,7 +3489,7 @@
       "Name": "Are You Packin\u0027?",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5903
+      "UsersEstimate": 5904
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -3492,7 +3497,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17945
+      "UsersEstimate": 17947
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -3500,7 +3505,7 @@
       "Name": "Lezduit!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4722
+      "UsersEstimate": 4723
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -3532,7 +3537,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19598
+      "UsersEstimate": 19600
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -3548,7 +3553,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13459
+      "UsersEstimate": 13460
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -3556,7 +3561,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13931
+      "UsersEstimate": 13932
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -3564,7 +3569,7 @@
       "Name": "G3 Graduation",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5903
+      "UsersEstimate": 5904
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -3572,7 +3577,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 4250
+      "UsersEstimate": 4251
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -3588,7 +3593,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -3596,7 +3601,7 @@
       "Name": "Self-Actualization",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 4486
+      "UsersEstimate": 4487
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -3604,7 +3609,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 4722
+      "UsersEstimate": 4723
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -3612,7 +3617,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17237
+      "UsersEstimate": 17238
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -3620,7 +3625,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7792
+      "UsersEstimate": 7793
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -3636,7 +3641,7 @@
       "Name": "We Paid For The Rights To Put A Whole Movie In Here",
       "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 2833
+      "UsersEstimate": 2834
     },
     {
       "ID": "ACH_NARR_WARPBASES",
@@ -3652,7 +3657,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 4486
+      "UsersEstimate": 4487
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -3683,22 +3688,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23612,
+      "Progressed": 23614,
       "Completed": 10
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 905,
-      "Completed": 905
+      "Progressed": 907,
+      "Completed": 907
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-07-27T22:00:39.9866271+00:00",
-  "LastChanged_Achievements": "2023-07-31T13:18:30.7548574+00:00",
+  "LastChanged_Achievements": "2023-07-31T14:07:26.8274343+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.7380308+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:10:29.3364651+00:00",
-  "LastUpdate_Achievements": "2023-07-31T13:18:30.7549025+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:58:50.5562325+00:00",
+  "LastUpdate_Achievements": "2023-07-31T14:07:26.8274786+00:00"
 }

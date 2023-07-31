@@ -6,15 +6,15 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~201,918 |
-| I know the Rules | 39.00% | ~96,034 |
-| Contender | 11.00% | ~27,087 |
-| I Found it! | 9.00% | ~22,162 |
+| Ball Launched | 82.00% | ~201,927 |
+| I know the Rules | 39.00% | ~96,038 |
+| Contender | 11.00% | ~27,088 |
+| I Found it! | 9.00% | ~22,163 |
 | First but not Last | 4.00% | ~9,850 |
-| Ready Steady Score | 3.00% | ~7,387 |
-| Dress Code | 3.00% | ~7,387 |
+| Ready Steady Score | 3.00% | ~7,388 |
+| Dress Code | 3.00% | ~7,388 |
 | Full Loot Madness | 2.00% | ~4,925 |
-| My Table, my Rules | 1.00% | ~2,462 |
+| My Table, my Rules | 1.00% | ~2,463 |
 | Nine Zeroes | 0.90% | ~2,216 |
 | Shiny Memento | 0.30% | ~739 |
 | Pinball Hoarder | 0.30% | ~739 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,242 (Ranked 45)  
+Progressed: 246,252 (Ranked 45)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,10 +139,10 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 245,276 | 0 |
 | 2023-07-29 | 245,726 | 0 |
 | 2023-07-30 | 246,099 | 0 |
-| 2023-07-31 | 246,242 | 0 |
+| 2023-07-31 | 246,252 | 0 |
 ## Awards
 Max (Great for Beginners): 182  (Ranked 279)  
-Sum: 1,517 (Ranked 218)  
+Sum: 1,518 (Ranked 218)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -153,7 +153,7 @@ Diff (max vs sum): 61
 | This game is Extremely Fun | 154 |
 | This game is Highly Recommended | 150 |
 | This game has Competitive Players | 146 |
-| This game has Challenging Combat | 102 |
+| This game has Challenging Combat | 103 |
 | This game has Amazing Storytelling | 101 |
 | This game has a Competitive Community | 99 |
 | This game has Amazing Characters | 90 |
@@ -304,3 +304,4 @@ Diff (max vs sum): 61
 | 2023-07-27 | 4.04 | - | 182 | 1,515 |
 | 2023-07-29 | 4.04 | - | 182 | 1,516 |
 | 2023-07-30 | 4.04 | - | 182 | 1,517 |
+| 2023-07-31 | 4.04 | - | 182 | 1,518 |

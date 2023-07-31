@@ -36,8 +36,8 @@ Number of Ratings: 743  (23.09.2022)
 | Is it over? | 28.00% | ~12,089 |
 | Got your back | 27.00% | ~11,657 |
 | Gore soaked | 24.00% | ~10,362 |
+| Leave the limbs you've lost | 23.00% | ~9,930 |
 | Shock therapy | 22.00% | ~9,498 |
-| Leave the limbs you've lost | 22.00% | ~9,498 |
 | Everyone's a mad scientist, life is the lab | 18.00% | ~7,772 |
 | Take them down screaming | 18.00% | ~7,772 |
 | Bad Blood | 17.00% | ~7,340 |

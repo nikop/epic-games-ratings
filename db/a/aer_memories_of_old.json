@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16657,
+  "EOS_Progressed": 16662,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 577,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.07,
   "EosHistory": [
@@ -11129,6 +11129,11 @@
       "Time": "2023-07-31T13:16:40.4232635+00:00",
       "NumProgressed": 16657,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2023-07-31T14:05:11.1870356+00:00",
+      "NumProgressed": 16662,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 20,
@@ -11140,7 +11145,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2832
+      "UsersEstimate": 2833
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -11148,7 +11153,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "EAST_FINISHED",
@@ -11156,7 +11161,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2332
+      "UsersEstimate": 2333
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -11164,7 +11169,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -11220,7 +11225,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "FOUND_MAMBA",
@@ -11228,7 +11233,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -11236,7 +11241,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2165
+      "UsersEstimate": 2166
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -11244,7 +11249,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "GAME_FINISHED",
@@ -11260,7 +11265,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12659
+      "UsersEstimate": 12663
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -11268,7 +11273,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4664
+      "UsersEstimate": 4665
     },
     {
       "ID": "NORTH_FINISHED",
@@ -11276,7 +11281,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2332
+      "UsersEstimate": 2333
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -11292,22 +11297,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 16657,
+      "Progressed": 16662,
       "Completed": 345
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-31T13:16:40.4232629+00:00",
+  "LastChanged_Achievements": "2023-07-31T14:05:11.1870351+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:59.0842389+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:12:26.5862323+00:00",
-  "LastUpdate_Achievements": "2023-07-31T13:16:40.4233443+00:00"
+  "LastUpdate_Ratings": "2023-07-31T14:01:25.4615065+00:00",
+  "LastUpdate_Achievements": "2023-07-31T14:05:11.1871113+00:00"
 }

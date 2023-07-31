@@ -31,10 +31,10 @@
 | Get Electrified | 19.00% | ~56 |
 | Rehab Expert | 18.00% | ~53 |
 | Tasty Profits | 18.00% | ~53 |
+| Established Fame | 16.00% | ~48 |
+| Cashflow Chief | 16.00% | ~48 |
 | Under One Roof | 15.00% | ~45 |
-| Established Fame | 15.00% | ~45 |
-| Cashflow Chief | 15.00% | ~45 |
-| Starred Dining | 14.00% | ~42 |
+| Starred Dining | 15.00% | ~45 |
 | Terrifically Trashed | 14.00% | ~42 |
 | Smooth Operator | 13.00% | ~39 |
 | Boutique Benefits | 13.00% | ~39 |
@@ -42,11 +42,11 @@
 | 28 Days Later | 11.00% | ~33 |
 | Swimming in Surplus | 11.00% | ~33 |
 | Master of Puppets | 9.00% | ~27 |
+| Refined Palates | 9.00% | ~27 |
+| Phoning It In | 9.00% | ~27 |
 | First 100 Days | 8.00% | ~24 |
 | Aestheticly Pleased | 8.00% | ~24 |
 | Plaza Plan | 8.00% | ~24 |
-| Refined Palates | 8.00% | ~24 |
-| Phoning It In | 8.00% | ~24 |
 | Water Features | 7.00% | ~21 |
 | Meet Me at HQ | 7.00% | ~21 |
 | Revenue Royalty | 7.00% | ~21 |

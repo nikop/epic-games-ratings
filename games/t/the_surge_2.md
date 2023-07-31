@@ -5,14 +5,14 @@ Rating: 4.25 (Ranked 816)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,542 |
-| Don't I Know You...? | 76.00% | ~1,465 |
-| Jailbreak | 65.00% | ~1,253 |
+| Rigged And Ready | 80.00% | ~1,543 |
+| Don't I Know You...? | 76.00% | ~1,466 |
+| Jailbreak | 65.00% | ~1,254 |
 | Suited and Booted | 38.00% | ~733 |
-| HEADSHOT! | 37.00% | ~713 |
+| HEADSHOT! | 37.00% | ~714 |
 | Sleeping With The Fishes | 35.00% | ~675 |
-| Overheated | 30.00% | ~578 |
-| High Performance | 30.00% | ~578 |
+| Overheated | 30.00% | ~579 |
+| High Performance | 30.00% | ~579 |
 | Powered Up | 28.00% | ~540 |
 | Studied The Blade | 24.00% | ~463 |
 | Home Invasion | 22.00% | ~424 |
@@ -21,8 +21,8 @@ Rating: 4.25 (Ranked 816)
 | True Survivor | 21.00% | ~405 |
 | Offensive Defense | 20.00% | ~386 |
 | Shocking | 20.00% | ~386 |
-| Court Martial | 19.00% | ~366 |
-| Unforeseeable Consequences | 19.00% | ~366 |
+| Court Martial | 19.00% | ~367 |
+| Unforeseeable Consequences | 19.00% | ~367 |
 | Dead Again | 18.00% | ~347 |
 | Clean Cut | 18.00% | ~347 |
 | Full Arsenal | 17.00% | ~328 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 816)
 | Swiss Army Drone | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,928 (Ranked 168)  
+Progressed: 1,929 (Ranked 168)  
 Completed: 10 (0.52%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 10 (0.52%) (Ranked 133)
 | 2023-07-28 | 1,907 | 10 |
 | 2023-07-29 | 1,916 | 10 |
 | 2023-07-30 | 1,923 | 10 |
-| 2023-07-31 | 1,928 | 10 |
+| 2023-07-31 | 1,929 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

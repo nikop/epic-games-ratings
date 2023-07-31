@@ -2,7 +2,7 @@
   "ID": "c7dfc1f4b7af484cb0fb5eedab731827",
   "Name": "Ravenous Devils",
   "ProductSlug": "ravenous-devils-7a89e1",
-  "Ranking_Rating": 556,
+  "Ranking_Rating": 540,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 520,
@@ -18,7 +18,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.51,
   "NumberOfRatings": 47,
   "RatingHistory": [
     {
@@ -137,6 +137,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-31T14:01:14.5634883+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -154,8 +160,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:49.8744513+00:00",
-  "LastChanged": "2023-03-31T05:58:31.7657256+00:00",
+  "LastChanged": "2023-07-31T14:01:14.5634882+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:43.6122691+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:12:18.2980038+00:00",
-  "LastUpdate_Achievements": "2023-07-31T13:17:04.2444274+00:00"
+  "LastUpdate_Ratings": "2023-07-31T14:01:14.5634889+00:00",
+  "LastUpdate_Achievements": "2023-07-31T14:05:40.3261597+00:00"
 }

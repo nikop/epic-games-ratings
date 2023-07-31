@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -6040,9 +6040,9 @@
       "ID": "SE_SEVER_X_LIMBS",
       "SetID": "49kdhbg",
       "Name": "Leave the limbs you\u0027ve lost",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 9498
+      "UsersEstimate": 9930
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -6080,8 +6080,8 @@
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-07-30T10:00:49.4853339+00:00",
-  "LastChanged_Achievements": "2023-07-31T13:16:44.4949091+00:00",
+  "LastChanged_Achievements": "2023-07-31T14:05:16.0177908+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:44.6103145+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:12:17.7013451+00:00",
-  "LastUpdate_Achievements": "2023-07-31T13:16:44.4949954+00:00"
+  "LastUpdate_Ratings": "2023-07-31T14:01:13.8909859+00:00",
+  "LastUpdate_Achievements": "2023-07-31T14:05:16.0178751+00:00"
 }

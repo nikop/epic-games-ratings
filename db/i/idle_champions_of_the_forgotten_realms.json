@@ -5416,9 +5416,9 @@
       "Count": 3330
     }
   ],
-  "EOS_Progressed": 217367,
+  "EOS_Progressed": 217383,
   "EOS_Completed": 2139,
-  "EOS_NewPlayers": 2303,
+  "EOS_NewPlayers": 2319,
   "EOS_NewCompleters": 79,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16386,6 +16386,11 @@
       "Time": "2023-07-31T13:15:49.0070599+00:00",
       "NumProgressed": 217367,
       "NumCompleted": 2139
+    },
+    {
+      "Time": "2023-07-31T14:04:33.8915184+00:00",
+      "NumProgressed": 217383,
+      "NumCompleted": 2139
     }
   ],
   "TotalAchievements": 512,
@@ -16405,7 +16410,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4347
+      "UsersEstimate": 4348
     },
     {
       "ID": "objective_completed_100",
@@ -16469,7 +16474,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "objective_completed_1051",
@@ -17021,7 +17026,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "objective_completed_1153",
@@ -17061,7 +17066,7 @@
       "Name": "On the Hunt",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_1160",
@@ -17101,7 +17106,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "objective_completed_1169",
@@ -17117,7 +17122,7 @@
       "Name": "Friends of the Forest",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_1170",
@@ -17333,7 +17338,7 @@
       "Name": "Homecoming",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_125",
@@ -17597,7 +17602,7 @@
       "Name": "Street War",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_166",
@@ -17629,15 +17634,15 @@
       "Name": "March of the Undead",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_170",
       "SetID": "cc37lbc",
       "Name": "Wisdom Check",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 652
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_171",
@@ -17757,7 +17762,7 @@
       "Name": "Invisible Shadows",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_210",
@@ -17781,7 +17786,7 @@
       "Name": "Family Entanglements",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_214",
@@ -18077,7 +18082,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_35",
@@ -18189,7 +18194,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_390",
@@ -19547,9 +19552,9 @@
       "ID": "objective_completed_70",
       "SetID": "cc37lbc",
       "Name": "Close Escort",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 652
     },
     {
       "ID": "objective_completed_71",
@@ -19571,9 +19576,9 @@
       "ID": "objective_completed_74",
       "SetID": "cc37lbc",
       "Name": "Waterdeep Detours",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 652
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_75",
@@ -20421,7 +20426,7 @@
       "Name": "Rocky Reception",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1836
+      "UsersEstimate": 1837
     },
     {
       "ID": "objective_completed_1376",
@@ -20469,7 +20474,7 @@
       "Name": "Topolah\u0027s Tower",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "objective_completed_1391",
@@ -20492,21 +20497,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183641,
+      "Progressed": 183657,
       "Completed": 3038
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217367,
+      "Progressed": 217383,
       "Completed": 2139
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-31T07:58:28.9560959+00:00",
-  "LastChanged_Achievements": "2023-07-31T13:15:49.0070593+00:00",
+  "LastChanged_Achievements": "2023-07-31T14:04:33.8915179+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:10:40.038203+00:00",
-  "LastUpdate_Achievements": "2023-07-31T13:15:49.0097071+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:59:03.8917862+00:00",
+  "LastUpdate_Achievements": "2023-07-31T14:04:33.8946077+00:00"
 }

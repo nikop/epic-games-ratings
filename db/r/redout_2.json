@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1091,
+  "EOS_Progressed": 1092,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -730,6 +730,11 @@
       "Time": "2023-07-30T19:04:14.4867338+00:00",
       "NumProgressed": 1091,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T14:04:29.1734196+00:00",
+      "NumProgressed": 1092,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -805,7 +810,7 @@
       "Name": "Over the clouds",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ALLTRACKSFUJI",
@@ -829,7 +834,7 @@
       "Name": "Under the sea, under the sea",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ALLTRACKSMARS",
@@ -885,7 +890,7 @@
       "Name": "Even Faster!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "CAREERCLASSB",
@@ -981,7 +986,7 @@
       "Name": "Longshot",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "GOFAST",
@@ -1061,7 +1066,7 @@
       "Name": "It\u0027s like an haircut",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ONEPLATINUM",
@@ -1077,7 +1082,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -1156,7 +1161,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1091,
+      "Progressed": 1092,
       "Completed": 0
     }
   ],
@@ -1164,8 +1169,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-07-31T13:15:45.4272666+00:00",
+  "LastChanged_Achievements": "2023-07-31T14:04:29.1734184+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.9130364+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:10:39.8915005+00:00",
-  "LastUpdate_Achievements": "2023-07-31T13:15:45.4273168+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:59:03.5961252+00:00",
+  "LastUpdate_Achievements": "2023-07-31T14:04:29.1734637+00:00"
 }

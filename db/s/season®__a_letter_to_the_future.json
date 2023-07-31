@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -2071,9 +2071,9 @@
       "ID": "ACH_SHRINEARRIVER",
       "SetID": "7pam6gn",
       "Name": "Shrine Arriver",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 151
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -2112,8 +2112,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-07-31T13:18:36.2061238+00:00",
+  "LastChanged_Achievements": "2023-07-31T14:07:33.2661772+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:25.5227526+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:11:04.0804307+00:00",
-  "LastUpdate_Achievements": "2023-07-31T13:18:36.2061478+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:59:33.522427+00:00",
+  "LastUpdate_Achievements": "2023-07-31T14:07:33.2662+00:00"
 }

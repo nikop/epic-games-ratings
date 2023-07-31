@@ -13,8 +13,8 @@ Rating: 4.48 (Ranked 589)
 | Mystery Tour | 68.00% | ~1,175 |
 | We brake for nobody | 67.00% | ~1,158 |
 | Brainstorm | 65.00% | ~1,123 |
+| Travel Company | 65.00% | ~1,123 |
 | Mind the Gap | 64.00% | ~1,106 |
-| Travel Company | 64.00% | ~1,106 |
 | All around the World | 61.00% | ~1,054 |
 | Right through the middle | 57.00% | ~985 |
 | Facility Manager | 53.00% | ~916 |

@@ -1335,9 +1335,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22748,
+  "EOS_Progressed": 22750,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6290,6 +6290,11 @@
       "Time": "2023-07-31T13:15:44.7247432+00:00",
       "NumProgressed": 22748,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-31T14:04:28.3758759+00:00",
+      "NumProgressed": 22750,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -6389,7 +6394,7 @@
       "Name": "For Wrath",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "BossCaveDefeated",
@@ -6427,9 +6432,9 @@
       "ID": "BossForestDefeated",
       "SetID": "3ojhj46",
       "Name": "Harvest and Home",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 455
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -6453,7 +6458,7 @@
       "Name": "For Love",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "BossStudyDefeated",
@@ -6461,7 +6466,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -6469,7 +6474,7 @@
       "Name": "For Pride",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "BossTowerDefeated",
@@ -6477,7 +6482,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "BoxerBoss",
@@ -6485,7 +6490,7 @@
       "Name": "K.O.",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "EnableHouseRules",
@@ -6493,7 +6498,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "EndTimerFail",
@@ -6573,7 +6578,7 @@
       "Name": "Just the Beginning",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "StoryTutorial",
@@ -6581,7 +6586,7 @@
       "Name": "Wasted Betrayal",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "TitleDrop",
@@ -6597,7 +6602,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "UnlockHighestUnity",
@@ -6605,28 +6610,28 @@
       "Name": "Color Coordination",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22748,
+      "Progressed": 22750,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1678,
+      "Progressed": 1680,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-07-30T19:59:16.0292029+00:00",
-  "LastChanged_Achievements": "2023-07-31T13:15:44.7247425+00:00",
+  "LastChanged_Achievements": "2023-07-31T14:04:28.3758754+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:01.3820252+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:11:37.2498016+00:00",
-  "LastUpdate_Achievements": "2023-07-31T13:15:44.7248037+00:00"
+  "LastUpdate_Ratings": "2023-07-31T14:00:17.0307791+00:00",
+  "LastUpdate_Achievements": "2023-07-31T14:04:28.37593+00:00"
 }

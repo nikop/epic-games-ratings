@@ -214,9 +214,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 227214,
+  "EOS_Progressed": 227216,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10854,6 +10854,11 @@
       "Time": "2023-07-31T13:17:10.9611339+00:00",
       "NumProgressed": 227214,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-31T14:05:48.8309753+00:00",
+      "NumProgressed": 227216,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -10929,7 +10934,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 81797
+      "UsersEstimate": 81798
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -11025,7 +11030,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 49987
+      "UsersEstimate": 49988
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -11073,7 +11078,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 38626
+      "UsersEstimate": 38627
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -11088,7 +11093,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 227214,
+      "Progressed": 227216,
       "Completed": 3
     }
   ],
@@ -11096,8 +11101,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-07-29T01:52:22.3591231+00:00",
-  "LastChanged_Achievements": "2023-07-31T13:17:10.9611331+00:00",
+  "LastChanged_Achievements": "2023-07-31T14:05:48.8309749+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:36.5137044+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:12:12.6080416+00:00",
-  "LastUpdate_Achievements": "2023-07-31T13:17:10.9612182+00:00"
+  "LastUpdate_Ratings": "2023-07-31T14:01:07.6456928+00:00",
+  "LastUpdate_Achievements": "2023-07-31T14:05:48.83106+00:00"
 }

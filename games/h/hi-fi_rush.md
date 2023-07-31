@@ -12,6 +12,7 @@ Rating: 4.87 (Ranked 24)
 | Thanks for the free chip, Peppermint! | 4.00% | ~146 |
 | Who put gears in there? | 4.00% | ~146 |
 | This will cost you big time | 3.00% | ~110 |
+| Headliner | 3.00% | ~110 |
 | Time to pay up! | 3.00% | ~110 |
 | I play my own way! | 3.00% | ~110 |
 | Whoa! There's ANOTHER health bar!? | 3.00% | ~110 |
@@ -25,7 +26,6 @@ Rating: 4.87 (Ranked 24)
 | Does that say weakpoint? | 3.00% | ~110 |
 | NOW we got a kickass hideout! | 3.00% | ~65 |
 | The Negotiator | 2.00% | ~73 |
-| Headliner | 2.00% | ~73 |
 | Who's the boss now? | 2.00% | ~73 |
 | I have to read these things? | 2.00% | ~73 |
 | You must like calling me in, Chai | 2.00% | ~73 |

@@ -8,17 +8,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 3.00% | ~6,521 |
 | Beast Intentions | 3.00% | ~6,521 |
-| Maddening | 2.00% | ~4,347 |
+| Maddening | 2.00% | ~4,348 |
 | The Silken Swamp | 1.00% | ~2,174 |
 | Supply Run | 1.00% | ~2,174 |
-| Rocky Reception | 1.00% | ~1,836 |
+| Rocky Reception | 1.00% | ~1,837 |
 | Vecna Lives! | 0.90% | ~1,653 |
 | Rock and Roll | 0.90% | ~1,653 |
 | Flight of the Kindori Pod | 0.80% | ~1,469 |
-| Tall Tales | 0.70% | ~1,285 |
-| Seeds of Destruction | 0.70% | ~1,285 |
-| Vecna Loots! | 0.70% | ~1,285 |
-| Topolah's Tower | 0.70% | ~1,285 |
+| Tall Tales | 0.70% | ~1,286 |
+| Seeds of Destruction | 0.70% | ~1,286 |
+| Vecna Loots! | 0.70% | ~1,286 |
+| Topolah's Tower | 0.70% | ~1,286 |
 | Pros and CONs | 0.60% | ~1,304 |
 | Wet Feet | 0.60% | ~1,304 |
 | Hatchlings Underfoot | 0.60% | ~1,304 |
@@ -52,17 +52,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.50% | ~918 |
 | Thieves of the Coven | 0.40% | ~735 |
 | Speeds of Destruction | 0.40% | ~735 |
-| On the Hunt | 0.40% | ~869 |
+| On the Hunt | 0.40% | ~870 |
 | A Demi-god's Defender | 0.40% | ~735 |
-| Friends of the Forest | 0.40% | ~869 |
-| Homecoming | 0.40% | ~869 |
+| Friends of the Forest | 0.40% | ~870 |
+| Homecoming | 0.40% | ~870 |
 | Welcome to the Rock | 0.40% | ~735 |
-| Street War | 0.40% | ~869 |
-| March of the Undead | 0.40% | ~869 |
-| Invisible Shadows | 0.40% | ~869 |
-| Family Entanglements | 0.40% | ~869 |
-| The Ring of Regeneration | 0.40% | ~869 |
-| Seeking Allies | 0.40% | ~869 |
+| Street War | 0.40% | ~870 |
+| March of the Undead | 0.40% | ~870 |
+| Wisdom Check | 0.40% | ~870 |
+| Invisible Shadows | 0.40% | ~870 |
+| Family Entanglements | 0.40% | ~870 |
+| The Ring of Regeneration | 0.40% | ~870 |
+| Seeking Allies | 0.40% | ~870 |
+| Waterdeep Detours | 0.40% | ~870 |
 | Luigi After Hours | 0.40% | ~735 |
 | Electric Mayhem | 0.40% | ~735 |
 | 3,720 to 1 | 0.40% | ~735 |
@@ -84,7 +86,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Forbidden City | 0.30% | ~652 |
 | Captured! | 0.30% | ~652 |
 | Force Grey Unleashed | 0.30% | ~652 |
-| Wisdom Check | 0.30% | ~652 |
 | Sleuth It Out | 0.30% | ~652 |
 | A Grand Puzzle | 0.30% | ~652 |
 | Tomb of the Nine Gods | 0.30% | ~652 |
@@ -106,8 +107,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.30% | ~652 |
 | Escort to Waterdeep | 0.30% | ~652 |
 | The Giant's Bane Tavern | 0.30% | ~551 |
+| Close Escort | 0.30% | ~652 |
 | Constant Banditry | 0.30% | ~652 |
-| Waterdeep Detours | 0.30% | ~652 |
 | Lost in the Deep | 0.30% | ~652 |
 | Easily Distracted | 0.30% | ~652 |
 | Underdeep Cartography | 0.30% | ~652 |
@@ -199,7 +200,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tiamat's Army | 0.20% | ~367 |
 | Questlines | 0.20% | ~367 |
 | The Everlasting Rime | 0.20% | ~367 |
-| Close Escort | 0.20% | ~435 |
 | The Long Haul | 0.20% | ~435 |
 | Rude Welcome | 0.20% | ~435 |
 | Moose Tracks | 0.20% | ~367 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,367 (Ranked 53)  
+Progressed: 217,383 (Ranked 53)  
 Completed: 2,139 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,7 +621,7 @@ Completed: 2,139 (0.98%) (Ranked 112)
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
-| 2023-07-31 | 217,367 | 2,139 |
+| 2023-07-31 | 217,383 | 2,139 |
 ## Awards
 Max (Diverse Characters): 5,106  (Ranked 67)  
 Sum: 30,821 (Ranked 38)  

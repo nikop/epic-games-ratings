@@ -17,22 +17,22 @@
 | Neurotrainer – power gainer! | 73.00% | ~143 |
 | Your own amateur gym | 72.00% | ~141 |
 | Run K, run! | 69.00% | ~135 |
+| No bullying more | 67.00% | ~131 |
 | Hello, world! | 67.00% | ~131 |
-| No bullying more | 66.00% | ~129 |
 | Fighting is cool | 64.00% | ~125 |
 | Pal of your father? | 62.00% | ~122 |
+| Spirit of the past | 60.00% | ~118 |
 | Employee of the month | 60.00% | ~118 |
-| Spirit of the past | 59.00% | ~116 |
 | Law student | 58.00% | ~114 |
 | Intriguing candies | 57.00% | ~112 |
 | Workout professional | 55.00% | ~108 |
+| Champion – starter pack | 55.00% | ~108 |
 | Own four walls | 55.00% | ~108 |
 | Little hacker | 54.00% | ~106 |
-| Champion – starter pack | 54.00% | ~106 |
 | It's good to be alive | 54.00% | ~106 |
+| Employee of the year | 53.00% | ~104 |
 | Fight for life | 52.00% | ~102 |
 | Handyman | 52.00% | ~102 |
-| Employee of the year | 52.00% | ~102 |
 | Legal courier | 49.00% | ~96 |
 | Extreme neuropower! | 48.00% | ~94 |
 | Your own way | 46.00% | ~90 |
@@ -69,7 +69,7 @@
 | The heart of the Resistance | 26.00% | ~51 |
 | Silver’s past | 23.00% | ~45 |
 | Better cooking at home | 23.00% | ~45 |
-| The only right decision | 22.00% | ~43 |
+| The only right decision | 23.00% | ~45 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 196 (Ranked 282)  
 Completed: 7 (3.57%) (Ranked 57)  

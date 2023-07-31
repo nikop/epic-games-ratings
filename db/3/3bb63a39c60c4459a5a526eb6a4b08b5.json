@@ -3,8 +3,8 @@
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 237,
-  "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_Completed": 161,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 375,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -1266,6 +1266,11 @@
       "Time": "2023-07-31T10:03:29.7889163+00:00",
       "NumProgressed": 374,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-31T14:03:16.8679618+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1307,17 +1312,17 @@
       "ID": "BudgetFlight",
       "SetID": "1e89b4i",
       "Name": "Budget Flight",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 116
     },
     {
       "ID": "Calculated",
       "SetID": "1e89b4i",
       "Name": "Calculated",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 86
     },
     {
       "ID": "Close",
@@ -1341,7 +1346,7 @@
       "Name": "Debtor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -1357,7 +1362,7 @@
       "Name": "Experienced Manager",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Fifty",
@@ -1429,7 +1434,7 @@
       "Name": "Legendary transporter",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "LinearNetwork",
@@ -1461,7 +1466,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Millionaire",
@@ -1475,9 +1480,9 @@
       "ID": "NewRecord",
       "SetID": "1e89b4i",
       "Name": "New Record",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 131
     },
     {
       "ID": "NoTimeForModernization",
@@ -1493,7 +1498,7 @@
       "Name": "No Way Back",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "NotPlanned",
@@ -1525,7 +1530,7 @@
       "Name": "Race Against Time",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Reaction",
@@ -1547,17 +1552,17 @@
       "ID": "ResourceEconomy",
       "SetID": "1e89b4i",
       "Name": "Resource Economy",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 116
     },
     {
       "ID": "Restructuring",
       "SetID": "1e89b4i",
       "Name": "Restructuring",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 56
     },
     {
       "ID": "Reviewer",
@@ -1612,14 +1617,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 375,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-31T13:15:03.2073261+00:00",
+  "LastChanged_Achievements": "2023-07-31T14:03:16.8679612+00:00",
   "LastUpdate_AppInfo": "2023-07-25T08:57:10.6804171+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:09:23.3508893+00:00",
-  "LastUpdate_Achievements": "2023-07-31T13:15:03.2073628+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:57:28.6613326+00:00",
+  "LastUpdate_Achievements": "2023-07-31T14:03:16.8680161+00:00"
 }

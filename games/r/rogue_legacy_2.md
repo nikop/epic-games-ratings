@@ -8,10 +8,10 @@ Number of Ratings: 1,331  (23.09.2022)
 | ---- | ---------- | ----- |
 | Captain and Crew | 2.00% | ~455 |
 | Spells and Swords | 2.00% | ~455 |
-| Harvest and Home | 1.00% | ~227 |
-| Poise and Poisons | 1.00% | ~227 |
-| Suns and Soldiers | 1.00% | ~227 |
-| No Harm in Looking | 1.00% | ~227 |
+| Harvest and Home | 2.00% | ~455 |
+| Poise and Poisons | 1.00% | ~228 |
+| Suns and Soldiers | 1.00% | ~228 |
+| No Harm in Looking | 1.00% | ~228 |
 | Hands and Hammers | 0.90% | ~205 |
 | Progenitor and Protégé | 0.90% | ~205 |
 | King and Kin | 0.80% | ~182 |
@@ -23,14 +23,14 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Justice | 0.30% | ~68 |
 | For Survival | 0.30% | ~68 |
 | Good Boy! | 0.30% | ~68 |
-| For Wrath | 0.20% | ~45 |
-| For Love | 0.20% | ~45 |
-| For Pride | 0.20% | ~45 |
-| K.O. | 0.20% | ~45 |
-| Just the Beginning | 0.20% | ~45 |
-| Wasted Betrayal | 0.20% | ~45 |
-| Jack of all Trades | 0.20% | ~45 |
-| Color Coordination | 0.20% | ~45 |
+| For Wrath | 0.20% | ~46 |
+| For Love | 0.20% | ~46 |
+| For Pride | 0.20% | ~46 |
+| K.O. | 0.20% | ~46 |
+| Just the Beginning | 0.20% | ~46 |
+| Wasted Betrayal | 0.20% | ~46 |
+| Jack of all Trades | 0.20% | ~46 |
+| Color Coordination | 0.20% | ~46 |
 | Black-shoppe | 0.10% | ~23 |
 | Full House | 0.10% | ~23 |
 | Erebus Purified | 0.10% | ~23 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,748 (Ranked 103)  
+Progressed: 22,750 (Ranked 103)  
 Completed: 35 (0.15%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 35 (0.15%) (Ranked 182)
 | 2023-07-28 | 22,709 | 35 |
 | 2023-07-29 | 22,725 | 35 |
 | 2023-07-30 | 22,742 | 35 |
-| 2023-07-31 | 22,748 | 35 |
+| 2023-07-31 | 22,750 | 35 |
 ## Awards
 Max (Extremely Fun): 220  (Ranked 260)  
 Sum: 1,675 (Ranked 208)  

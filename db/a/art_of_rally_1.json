@@ -1264,9 +1264,9 @@
       "ID": "ACH_AIRBORNE",
       "SetID": "9002fpg",
       "Name": "autopilot",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2037
+      "UsersEstimate": 2139
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -1592,8 +1592,8 @@
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-07-31T13:16:47.8888106+00:00",
+  "LastChanged_Achievements": "2023-07-31T14:05:20.1612178+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:04.5642141+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:09:52.9936488+00:00",
-  "LastUpdate_Achievements": "2023-07-31T13:16:47.8888523+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:58:06.902834+00:00",
+  "LastUpdate_Achievements": "2023-07-31T14:05:20.1612572+00:00"
 }

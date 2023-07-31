@@ -19,12 +19,12 @@ Rating: 4.60 (Ranked 390)
 | Breaking Down Barriers | 16.00% | ~130 |
 | The Wicked Twins | 16.00% | ~130 |
 | Honest Mistake | 16.00% | ~130 |
+| Fast Learner | 16.00% | ~130 |
 | Immaculate Aim | 16.00% | ~130 |
 | The Betrayer | 15.00% | ~122 |
 | The Man Who Shattered Time | 15.00% | ~122 |
 | The Loose Cannon | 15.00% | ~122 |
 | Golem Chaser | 15.00% | ~122 |
-| Fast Learner | 15.00% | ~122 |
 | The Family Fortune | 15.00% | ~122 |
 | Treasure Trove | 14.00% | ~113 |
 | Like Clockwork | 14.00% | ~113 |

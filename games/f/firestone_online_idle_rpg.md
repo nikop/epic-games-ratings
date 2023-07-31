@@ -31,6 +31,7 @@ Rating: 4.10 (Ranked 897)
 | Challenger | 10.00% | ~175 |
 | Daily Quest Completionist | 10.00% | ~175 |
 | Doing My Part | 10.00% | ~175 |
+| Frostfire Liberator | 10.00% | ~175 |
 | Hunter | 10.00% | ~175 |
 | Mastery | 10.00% | ~175 |
 | Moving Up The Ladder | 10.00% | ~175 |
@@ -38,7 +39,6 @@ Rating: 4.10 (Ranked 897)
 | Scroll Master | 10.00% | ~175 |
 | The power of Awakening | 10.00% | ~175 |
 | Four Leaf Clover | 9.00% | ~157 |
-| Frostfire Liberator | 9.00% | ~157 |
 | Here We Go Again | 8.00% | ~140 |
 | Master Enchanter | 8.00% | ~140 |
 | The father of Dragons | 8.00% | ~140 |
