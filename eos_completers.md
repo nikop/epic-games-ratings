@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 44.12% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.06% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.27% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.71% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
@@ -26,7 +26,7 @@
 | 24 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
 | 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.06% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.09% |
+| 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.05% |
 | 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
 | 29 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 30 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.00% |
@@ -55,8 +55,8 @@
 | 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.03% |
 | 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.98% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.80% |
-| 56 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.61% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.61% |
+| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.59% |
 | 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.49% |
 | 60 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
