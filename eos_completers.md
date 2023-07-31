@@ -15,12 +15,12 @@
 | 13 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 15 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.90% |
-| 16 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 12.86% |
+| 16 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 12.68% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
 | 18 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 11.76% |
 | 19 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 21 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.97% |
+| 21 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.95% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Remains](games/r/remains.md) | 10.64% |
 | 24 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
@@ -37,7 +37,7 @@
 | 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.98% |
 | 36 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
-| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.50% |
+| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.43% |
 | 39 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.38% |
 | 40 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.37% |
 | 41 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -53,7 +53,7 @@
 | 51 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.36% |
 | 52 | [Without Escape](games/w/without_escape.md) | 4.17% |
 | 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.03% |
-| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.99% |
+| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.98% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.80% |
 | 56 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.61% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.61% |
@@ -62,7 +62,7 @@
 | 60 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 61 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.35% |
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.33% |
-| 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.15% |
+| 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.14% |
 | 64 | [Monster Harvest](games/m/monster_harvest.md) | 3.05% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.04% |
 | 66 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -78,12 +78,12 @@
 | 76 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 77 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 78 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.39% |
-| 79 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.34% |
+| 79 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.33% |
 | 80 | [FORECLOSED](games/f/foreclosed.md) | 2.27% |
 | 81 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
 | 82 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
-| 83 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.04% |
-| 84 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.02% |
+| 83 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.02% |
+| 83 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.02% |
 | 85 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.93% |
 | 86 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 87 | [Night Book](games/n/night_book.md) | 1.90% |
