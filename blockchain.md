@@ -20,6 +20,7 @@
 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 2023-12-31 | - |  | - | - |
 | [World Eternal Online](games/w/world_eternal_online.md) | 2023-12-31 | - |  | - | - |
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | - |  | - | - |
+| [canVERSE](games/c/canverse.md) | 2023-07-31 | - |  | - | - |
 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 2023-07-24 | - |  | - | 0 |
 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2023-07-12 | 19 (1,000 XP) | 149 | - | 0 |
 | [POLYGOD](games/p/polygod.md) | 2023-07-01 | - |  | - | 0 |
@@ -31,7 +32,6 @@
 | [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2023-05-23 | - |  | - | 0 |
 | [GRIT](games/g/grit.md) | 2023-05-08 | - |  | 4.65 | 0 |
 | [Cards of Ethernity](games/c/cards_of_ethernity.md) | 2023-04-26 | - |  | - | 0 |
-| [canVERSE](games/c/canverse.md) | 2023-03-31 | - |  | - | - |
 | [Chainmonsters](games/c/chainmonsters.md) | 2023-03-08 | - |  | 3.68 | 0 |
 | [Star Atlas](games/s/star_atlas.md) | 2022-12-31 | - |  | 4.82 | 22 |
 | [STG Football](games/s/stg_football.md) | 2022-10-26 | - |  | 4.45 | 41 |
