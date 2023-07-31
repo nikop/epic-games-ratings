@@ -14,11 +14,11 @@
 | 12 | [Island Cities](games/i/island_cities.md) | 18.50% |
 | 13 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
-| 15 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 13.33% |
+| 15 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.90% |
 | 16 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 12.86% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
 | 18 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 11.76% |
-| 19 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.43% |
+| 19 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 21 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.97% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -52,7 +52,7 @@
 | 50 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 51 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.36% |
 | 52 | [Without Escape](games/w/without_escape.md) | 4.17% |
-| 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.04% |
+| 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.03% |
 | 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.99% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.80% |
 | 56 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.61% |

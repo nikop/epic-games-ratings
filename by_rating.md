@@ -106,14 +106,14 @@
 | 100 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,386 | 125 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 926 | 147 |
 | 100 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 509 |
-| 107 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,509 | 51 |
+| 107 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,525 | 51 |
 | 107 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,416 | 17 |
 | 107 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 509 |
 | 107 | [Remnant 2](games/r/remnant_2.md) | 4.77 | 121 | 314 |
 | 107 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 0 | 509 |
 | 107 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 37 | 430 |
 | 107 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 509 |
-| 107 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 146 | 296 |
+| 107 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 147 | 296 |
 | 107 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 99 | 334 |
 | 107 | [Tchia](games/t/tchia.md) | 4.77 | 0 | 509 |
 | 107 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 509 |
@@ -161,7 +161,7 @@
 | 159 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 410 | 208 |
 | 159 | [Haven](games/h/haven.md) | 4.73 | 0 | 509 |
 | 159 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 0 | 509 |
-| 159 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 587 | 179 |
+| 159 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 589 | 179 |
 | 159 | [Outlast 2](games/o/outlast_2.md) | 4.73 | 0 | 509 |
 | 159 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 230 | 255 |
 | 159 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 509 |
@@ -247,7 +247,7 @@
 | 239 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,893 | 80 |
 | 239 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,017 | 93 |
 | 239 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 301,095 | 3 |
-| 239 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 205,185 | 4 |
+| 239 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 205,615 | 4 |
 | 239 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 509 |
 | 239 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 419 | 206 |
 | 239 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 561 | 183 |
@@ -658,23 +658,23 @@
 | 656 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 207 | 267 |
 | 656 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 34 | 440 |
 | 656 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,177 | 135 |
-| 656 | [Predecessor](games/p/predecessor.md) | 4.43 | 141 | 300 |
 | 656 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 509 |
 | 656 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 509 |
 | 656 | [Tunche](games/t/tunche.md) | 4.43 | 21 | 497 |
 | 656 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 280 | 238 |
-| 664 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 65 | 384 |
-| 664 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 34 | 440 |
-| 664 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.42 | 0 | 509 |
-| 664 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,528 | 30 |
-| 664 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 509 |
-| 664 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 509 |
-| 664 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 50 |
-| 664 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 67 | 380 |
-| 664 | [Sheltered](games/s/sheltered.md) | 4.42 | 269 | 244 |
-| 664 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.42 | 0 | 509 |
-| 664 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 0 | 509 |
-| 664 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 149 | 294 |
+| 663 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 65 | 384 |
+| 663 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 34 | 440 |
+| 663 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.42 | 0 | 509 |
+| 663 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,528 | 30 |
+| 663 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 509 |
+| 663 | [Predecessor](games/p/predecessor.md) | 4.42 | 141 | 300 |
+| 663 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 509 |
+| 663 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 50 |
+| 663 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 67 | 380 |
+| 663 | [Sheltered](games/s/sheltered.md) | 4.42 | 269 | 244 |
+| 663 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.42 | 0 | 509 |
+| 663 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 0 | 509 |
+| 663 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 149 | 294 |
 | 676 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 509 |
 | 676 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 0 | 509 |
 | 676 | [Breathedge](games/b/breathedge.md) | 4.41 | 0 | 509 |
@@ -709,7 +709,7 @@
 | 704 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 1,013 | 142 |
 | 704 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 509 |
 | 704 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 0 | 509 |
-| 704 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,732 | 32 |
+| 704 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,733 | 32 |
 | 704 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 509 |
 | 704 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 328 | 226 |
 | 704 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.39 | 102 | 331 |
