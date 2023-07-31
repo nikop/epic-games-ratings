@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -562,9 +562,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 9398,
+  "EOS_Progressed": 9403,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7507,6 +7507,11 @@
       "Time": "2023-07-31T16:05:12.9908733+00:00",
       "NumProgressed": 9398,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-31T18:04:50.9120953+00:00",
+      "NumProgressed": 9403,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -7622,7 +7627,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3853
+      "UsersEstimate": 3855
     },
     {
       "ID": "ACH15",
@@ -7678,7 +7683,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4229
+      "UsersEstimate": 4231
     },
     {
       "ID": "ACH22",
@@ -7686,7 +7691,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "ACH23",
@@ -7694,7 +7699,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2350
+      "UsersEstimate": 2351
     },
     {
       "ID": "ACH24",
@@ -7756,9 +7761,9 @@
       "ID": "ACH31",
       "SetID": "9llo822",
       "Name": "Chopper\u2019d Up",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 55,
-      "UsersEstimate": 188
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH32",
@@ -7789,7 +7794,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9398,
+      "Progressed": 9403,
       "Completed": 43
     }
   ],
@@ -7797,8 +7802,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-30T11:58:54.8503633+00:00",
-  "LastChanged_Achievements": "2023-07-31T17:05:21.6883757+00:00",
+  "LastChanged_Achievements": "2023-07-31T18:04:50.9120948+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-07-31T16:59:23.0254007+00:00",
-  "LastUpdate_Achievements": "2023-07-31T17:05:21.6884488+00:00"
+  "LastUpdate_Ratings": "2023-07-31T17:59:22.5599436+00:00",
+  "LastUpdate_Achievements": "2023-07-31T18:04:50.9121645+00:00"
 }

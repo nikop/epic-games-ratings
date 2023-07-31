@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4849,
+  "EOS_Progressed": 4850,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7476,6 +7476,11 @@
       "Time": "2023-07-31T17:07:39.396883+00:00",
       "NumProgressed": 4849,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T18:07:36.4016438+00:00",
+      "NumProgressed": 4850,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -7487,7 +7492,7 @@
       "Name": "First Step",
       "Percentage": 39,
       "XP": 45,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "10",
@@ -7591,7 +7596,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "9",
@@ -7599,14 +7604,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 7,
       "XP": 65,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4849,
+      "Progressed": 4850,
       "Completed": 0
     }
   ],
@@ -7614,8 +7619,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-31T17:07:39.3968823+00:00",
+  "LastChanged_Achievements": "2023-07-31T18:07:36.4016433+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.1828699+00:00",
-  "LastUpdate_Ratings": "2023-07-31T16:59:02.56091+00:00",
-  "LastUpdate_Achievements": "2023-07-31T17:07:39.3969439+00:00"
+  "LastUpdate_Ratings": "2023-07-31T17:59:05.2747843+00:00",
+  "LastUpdate_Achievements": "2023-07-31T18:07:36.4017034+00:00"
 }

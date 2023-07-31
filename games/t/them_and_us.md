@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 71.00% | ~140 |
-| Forced to Kill | 69.00% | ~136 |
-| A Night To Remember | 36.00% | ~71 |
+| Alone with Them | 71.00% | ~141 |
+| Forced to Kill | 69.00% | ~137 |
+| A Night To Remember | 35.00% | ~69 |
 | Safe...For now? | 31.00% | ~61 |
 | Open Sesame | 26.00% | ~51 |
 | What have I done!? | 16.00% | ~32 |
@@ -45,7 +45,7 @@
 | No Time To Relax | 0.50% | ~1 |
 | Survival Horror | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197 (Ranked 282)  
+Progressed: 198 (Ranked 282)  
 Completed: 1 (0.51%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 1 (0.51%) (Ranked 135)
 | 2023-07-28 | 189 | 1 |
 | 2023-07-29 | 191 | 1 |
 | 2023-07-30 | 195 | 1 |
-| 2023-07-31 | 197 | 1 |
+| 2023-07-31 | 198 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

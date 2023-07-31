@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 653,
+  "EOS_Progressed": 654,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1331,6 +1331,11 @@
       "Time": "2023-07-31T04:07:12.1434388+00:00",
       "NumProgressed": 653,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T18:06:16.9198833+00:00",
+      "NumProgressed": 654,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1342,7 +1347,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1350,7 +1355,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1414,7 +1419,7 @@
       "Name": "Capraphobia",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1462,7 +1467,7 @@
       "Name": "Burnt Smell",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -1542,7 +1547,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -1622,7 +1627,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1630,7 +1635,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -1662,7 +1667,7 @@
       "Name": "And There We Go",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -1694,7 +1699,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -1869,14 +1874,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 653,
+      "Progressed": 654,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-31T17:06:26.4798673+00:00",
+  "LastChanged_Achievements": "2023-07-31T18:06:16.9198826+00:00",
   "LastUpdate_AppInfo": "2023-07-27T13:57:11.3772461+00:00",
-  "LastUpdate_Ratings": "2023-07-31T16:57:38.3524645+00:00",
-  "LastUpdate_Achievements": "2023-07-31T17:06:26.4799489+00:00"
+  "LastUpdate_Ratings": "2023-07-31T17:57:35.686988+00:00",
+  "LastUpdate_Achievements": "2023-07-31T18:06:16.91998+00:00"
 }

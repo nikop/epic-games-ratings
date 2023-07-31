@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1229,
+  "EOS_Progressed": 1231,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1940,6 +1940,11 @@
       "Time": "2023-07-31T16:04:36.5134255+00:00",
       "NumProgressed": 1229,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-31T18:04:21.6984539+00:00",
+      "NumProgressed": 1231,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1951,7 +1956,7 @@
       "Name": "Agent 47",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "Auditor",
@@ -1983,7 +1988,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "Commandos",
@@ -2031,7 +2036,7 @@
       "Name": "E1M1",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "Everyone_is_here",
@@ -2063,7 +2068,7 @@
       "Name": "Grenadier",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "Hard_Serpent",
@@ -2079,7 +2084,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "High_noon",
@@ -2111,7 +2116,7 @@
       "Name": "No Witness",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Kultprosvet",
@@ -2135,7 +2140,7 @@
       "Name": "Bomberman",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "MoskitoBite",
@@ -2167,7 +2172,7 @@
       "Name": "War Never Changes",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "We_were_not_here",
@@ -2183,22 +2188,22 @@
       "Name": "Your Answer",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1229,
+      "Progressed": 1231,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-31T17:04:19.1383446+00:00",
+  "LastChanged_Achievements": "2023-07-31T18:04:21.6984531+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:01.8247035+00:00",
-  "LastUpdate_Ratings": "2023-07-31T17:00:37.8630874+00:00",
-  "LastUpdate_Achievements": "2023-07-31T17:04:19.1383993+00:00"
+  "LastUpdate_Ratings": "2023-07-31T18:00:16.6844296+00:00",
+  "LastUpdate_Achievements": "2023-07-31T18:04:21.6984867+00:00"
 }

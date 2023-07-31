@@ -640,9 +640,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11640,
+  "EOS_Progressed": 11641,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -7980,6 +7980,11 @@
       "Time": "2023-07-31T17:07:43.0088736+00:00",
       "NumProgressed": 11640,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-07-31T18:07:39.6600353+00:00",
+      "NumProgressed": 11641,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 35,
@@ -7991,7 +7996,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9428
+      "UsersEstimate": 9429
     },
     {
       "ID": "ACH02",
@@ -8111,7 +8116,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "ACH17",
@@ -8270,7 +8275,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11640,
+      "Progressed": 11641,
       "Completed": 32
     }
   ],
@@ -8278,8 +8283,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-31T12:02:14.978295+00:00",
-  "LastChanged_Achievements": "2023-07-31T17:07:43.0088731+00:00",
+  "LastChanged_Achievements": "2023-07-31T18:07:39.6600349+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.4328142+00:00",
-  "LastUpdate_Ratings": "2023-07-31T17:01:55.9269184+00:00",
-  "LastUpdate_Achievements": "2023-07-31T17:07:43.0089486+00:00"
+  "LastUpdate_Ratings": "2023-07-31T18:01:38.7164699+00:00",
+  "LastUpdate_Achievements": "2023-07-31T18:07:39.6601076+00:00"
 }

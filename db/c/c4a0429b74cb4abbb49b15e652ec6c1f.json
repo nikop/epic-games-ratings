@@ -4,7 +4,7 @@
   "ProductSlug": "deverse-world-3ccb84",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 151,
+  "EOS_Progressed": 153,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -571,6 +571,11 @@
       "Time": "2023-07-31T16:05:41.3132547+00:00",
       "NumProgressed": 151,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T18:05:15.498091+00:00",
+      "NumProgressed": 153,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -661,9 +666,9 @@
       "ID": "publish_your_first_world",
       "SetID": "5fi1i42",
       "Name": "First world published",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "seconds_played",
@@ -695,7 +700,7 @@
       "Name": "Tireless Explorer",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "treant_destroyer",
@@ -734,14 +739,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 151,
+      "Progressed": 153,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-07-31T17:05:45.8835649+00:00",
+  "LastChanged_Achievements": "2023-07-31T18:05:15.4980901+00:00",
   "LastUpdate_AppInfo": "2023-07-27T06:57:02.8148136+00:00",
-  "LastUpdate_Ratings": "2023-07-31T16:57:43.41699+00:00",
-  "LastUpdate_Achievements": "2023-07-31T17:05:45.8835915+00:00"
+  "LastUpdate_Ratings": "2023-07-31T17:57:39.8912807+00:00",
+  "LastUpdate_Achievements": "2023-07-31T18:05:15.4981159+00:00"
 }

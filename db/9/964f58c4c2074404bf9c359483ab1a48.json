@@ -4,7 +4,7 @@
   "ProductSlug": "midnight-ghost-hunt",
   "Ranking_Rating": 724,
   "Ranking_Popularity": 406,
-  "Ranking_PopularitySum": 330,
+  "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 10,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 19,
@@ -876,9 +876,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1242023,
+  "EOS_Progressed": 1242072,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6772,
+  "EOS_NewPlayers": 6764,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7676,6 +7676,11 @@
       "Time": "2023-07-31T17:02:21.1057111+00:00",
       "NumProgressed": 1242023,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T18:02:01.9871173+00:00",
+      "NumProgressed": 1242072,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -7799,7 +7804,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 136623
+      "UsersEstimate": 136628
     },
     {
       "ID": "10_ghost_wins",
@@ -7807,7 +7812,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 99362
+      "UsersEstimate": 99366
     },
     {
       "ID": "10_hero_prop_kills",
@@ -7823,7 +7828,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 198724
+      "UsersEstimate": 198732
     },
     {
       "ID": "10_hunter_wins",
@@ -7831,7 +7836,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 74521
+      "UsersEstimate": 74524
     },
     {
       "ID": "10_prop_headshots",
@@ -7839,7 +7844,7 @@
       "Name": "10 Headshots as A Prop!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 24840
+      "UsersEstimate": 24841
     },
     {
       "ID": "250_c4_kills",
@@ -7935,7 +7940,7 @@
       "Name": "250 Taunts!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12420
+      "UsersEstimate": 12421
     },
     {
       "ID": "25_cosmetic_unlocks",
@@ -7951,7 +7956,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 49681
+      "UsersEstimate": 49683
     },
     {
       "ID": "50_riot_shield_kills",
@@ -7967,7 +7972,7 @@
       "Name": "Ace Master",
       "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 9936
+      "UsersEstimate": 9937
     },
     {
       "ID": "ace",
@@ -7975,7 +7980,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 124202
+      "UsersEstimate": 124207
     },
     {
       "ID": "ghost_win",
@@ -7983,7 +7988,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 745214
+      "UsersEstimate": 745243
     },
     {
       "ID": "hunter_win",
@@ -7991,7 +7996,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 683113
+      "UsersEstimate": 683140
     },
     {
       "ID": "master_of_loadouts",
@@ -8015,14 +8020,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 285665
+      "UsersEstimate": 285677
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1242023,
+      "Progressed": 1242072,
       "Completed": 0
     }
   ],
@@ -8030,8 +8035,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-07-31T08:57:41.240803+00:00",
-  "LastChanged_Achievements": "2023-07-31T17:02:21.1057102+00:00",
+  "LastChanged_Achievements": "2023-07-31T18:02:01.9871164+00:00",
   "LastUpdate_AppInfo": "2023-07-27T20:57:16.0154712+00:00",
-  "LastUpdate_Ratings": "2023-07-31T16:57:53.4424213+00:00",
-  "LastUpdate_Achievements": "2023-07-31T17:02:21.1058294+00:00"
+  "LastUpdate_Ratings": "2023-07-31T17:57:47.2082713+00:00",
+  "LastUpdate_Achievements": "2023-07-31T18:02:01.9872482+00:00"
 }

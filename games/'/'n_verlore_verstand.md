@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Start of a Journey | 88.00% | ~15 |
 | A thing of beauty | 82.00% | ~14 |
-| Escape the Maze | 41.00% | ~7 |
-| Brace the cold | 35.00% | ~6 |
-| A Long Walk | 29.00% | ~5 |
+| Escape the Maze | 47.00% | ~8 |
+| Brace the cold | 41.00% | ~7 |
+| A Long Walk | 35.00% | ~6 |
 | Dont mind the heat | 12.00% | ~2 |
 | A Dangerous Road | 6.00% | ~1 |
 | Scorched Ruins | 6.00% | ~1 |
@@ -53,7 +53,7 @@
 | Labyrinths of the Mind | 0.00% | ~0 |
 | A Terrifying Blizzard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17 (Ranked 400)  
+Progressed: 17 (Ranked 401)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |

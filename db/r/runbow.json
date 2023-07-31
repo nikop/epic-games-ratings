@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247419,
+  "EOS_Progressed": 247424,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 0,
@@ -9914,6 +9914,11 @@
       "Time": "2023-07-31T17:02:25.3834529+00:00",
       "NumProgressed": 247419,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-31T18:02:06.5787651+00:00",
+      "NumProgressed": 247424,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -9925,7 +9930,7 @@
       "Name": "Just A Phaze",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17319
+      "UsersEstimate": 17320
     },
     {
       "ID": "aWinnerIsYou",
@@ -9949,7 +9954,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51958
+      "UsersEstimate": 51959
     },
     {
       "ID": "blotbuster",
@@ -9981,7 +9986,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42061
+      "UsersEstimate": 42062
     },
     {
       "ID": "cantBeKeptDown",
@@ -9997,7 +10002,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37113
+      "UsersEstimate": 37114
     },
     {
       "ID": "clearCut",
@@ -10021,7 +10026,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44535
+      "UsersEstimate": 44536
     },
     {
       "ID": "curator",
@@ -10029,7 +10034,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49484
+      "UsersEstimate": 49485
     },
     {
       "ID": "didYourTime",
@@ -10101,7 +10106,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131132
+      "UsersEstimate": 131135
     },
     {
       "ID": "indegestible",
@@ -10117,7 +10122,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17319
+      "UsersEstimate": 17320
     },
     {
       "ID": "itsTheFall",
@@ -10125,7 +10130,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64329
+      "UsersEstimate": 64330
     },
     {
       "ID": "justABit",
@@ -10165,7 +10170,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123710
+      "UsersEstimate": 123712
     },
     {
       "ID": "notScared",
@@ -10197,7 +10202,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17319
+      "UsersEstimate": 17320
     },
     {
       "ID": "rideTheWave",
@@ -10229,7 +10234,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51958
+      "UsersEstimate": 51959
     },
     {
       "ID": "thunderstruck",
@@ -10245,7 +10250,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32164
+      "UsersEstimate": 32165
     },
     {
       "ID": "treeMedalist",
@@ -10285,14 +10290,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39587
+      "UsersEstimate": 39588
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 247419,
+      "Progressed": 247424,
       "Completed": 3
     }
   ],
@@ -10300,8 +10305,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-31T17:02:25.3834519+00:00",
+  "LastChanged_Achievements": "2023-07-31T18:02:06.5787645+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:02.5493145+00:00",
-  "LastUpdate_Ratings": "2023-07-31T17:00:38.7503516+00:00",
-  "LastUpdate_Achievements": "2023-07-31T17:02:25.3835811+00:00"
+  "LastUpdate_Ratings": "2023-07-31T18:00:17.5946229+00:00",
+  "LastUpdate_Achievements": "2023-07-31T18:02:06.5788686+00:00"
 }

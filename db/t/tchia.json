@@ -2,7 +2,7 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 107,
+  "Ranking_Rating": 108,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 132,
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6885,
+  "EOS_Progressed": 6886,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -5189,6 +5189,11 @@
       "Time": "2023-07-31T16:05:07.221195+00:00",
       "NumProgressed": 6885,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-07-31T18:04:46.0492567+00:00",
+      "NumProgressed": 6886,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 21,
@@ -5200,7 +5205,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "ARRR",
@@ -5248,7 +5253,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -5367,7 +5372,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6885,
+      "Progressed": 6886,
       "Completed": 30
     }
   ],
@@ -5375,8 +5380,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-16T23:57:58.4349982+00:00",
-  "LastChanged_Achievements": "2023-07-31T17:05:14.6775787+00:00",
+  "LastChanged_Achievements": "2023-07-31T18:04:46.0492562+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:48.4178879+00:00",
-  "LastUpdate_Ratings": "2023-07-31T16:58:58.4577515+00:00",
-  "LastUpdate_Achievements": "2023-07-31T17:05:14.677644+00:00"
+  "LastUpdate_Ratings": "2023-07-31T17:58:59.4301998+00:00",
+  "LastUpdate_Achievements": "2023-07-31T18:04:46.0493142+00:00"
 }

@@ -730,7 +730,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6527,
+  "EOS_Progressed": 6528,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -3985,6 +3985,11 @@
       "Time": "2023-07-31T17:06:12.9057484+00:00",
       "NumProgressed": 6527,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-31T18:05:42.9620258+00:00",
+      "NumProgressed": 6528,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4124,7 +4129,7 @@
       "Name": "Insubordination",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -4284,7 +4289,7 @@
       "Name": "The Italian Job",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -4300,7 +4305,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -4316,7 +4321,7 @@
       "Name": "Tosca",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -4348,14 +4353,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3459
+      "UsersEstimate": 3460
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6527,
+      "Progressed": 6528,
       "Completed": 8
     }
   ],
@@ -4363,8 +4368,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-30T14:57:50.252442+00:00",
-  "LastChanged_Achievements": "2023-07-31T17:06:12.9057476+00:00",
+  "LastChanged_Achievements": "2023-07-31T18:05:42.9620251+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:14.0482826+00:00",
-  "LastUpdate_Ratings": "2023-07-31T16:58:33.2765552+00:00",
-  "LastUpdate_Achievements": "2023-07-31T17:06:12.9058488+00:00"
+  "LastUpdate_Ratings": "2023-07-31T17:58:34.1864424+00:00",
+  "LastUpdate_Achievements": "2023-07-31T18:05:42.9620881+00:00"
 }

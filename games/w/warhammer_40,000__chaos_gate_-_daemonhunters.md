@@ -19,11 +19,11 @@ Number of Ratings: 371  (23.09.2022)
 | A Foul Creche | 0.70% | ~22 |
 | Honoured Battle-Brother | 0.60% | ~19 |
 | The Emperor Protects | 0.50% | ~15 |
+| Nemesis Master | 0.50% | ~15 |
 | Execution Force | 0.50% | ~15 |
 | Hold Your Ground | 0.40% | ~12 |
-| Nemesis Master | 0.40% | ~12 |
+| Just a Scratch | 0.40% | ~12 |
 | Gunmaster | 0.30% | ~9 |
-| Just a Scratch | 0.30% | ~9 |
 | Long Distance Call | 0.30% | ~9 |
 | Hive Exterminator | 0.30% | ~9 |
 | Daemonkeeper | 0.20% | ~6 |

@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -680,9 +680,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "7pimpda",
       "Name": "Berserker Slayer",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -777,8 +777,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-07-31T17:02:15.6229921+00:00",
+  "LastChanged_Achievements": "2023-07-31T18:01:56.2929835+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:30.8935307+00:00",
-  "LastUpdate_Ratings": "2023-07-31T17:01:17.2214582+00:00",
-  "LastUpdate_Achievements": "2023-07-31T17:02:15.6230482+00:00"
+  "LastUpdate_Ratings": "2023-07-31T18:00:59.9714428+00:00",
+  "LastUpdate_Achievements": "2023-07-31T18:01:56.2930484+00:00"
 }

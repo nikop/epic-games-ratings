@@ -6,30 +6,30 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,277 |
+| On My Own Two Feet | 94.00% | ~4,278 |
 | I'll Be Back | 85.00% | ~3,868 |
 | Sorry, I Dropped This | 77.00% | ~3,504 |
 | First Day on the Job | 77.00% | ~3,504 |
-| Butcher's Bill | 55.00% | ~2,502 |
+| Butcher's Bill | 55.00% | ~2,503 |
 | P.A.X | 37.00% | ~1,684 |
 | Hey Listen | 37.00% | ~1,684 |
 | OPERATOR | 36.00% | ~1,638 |
 | It's Blue Light | 33.00% | ~1,502 |
 | Most Wanted | 26.00% | ~1,183 |
-| Infidel | 23.00% | ~1,046 |
+| Infidel | 23.00% | ~1,047 |
 | GOLIATH | 21.00% | ~956 |
 | Firebug | 20.00% | ~910 |
 | Nothing to Lose | 18.00% | ~819 |
 | I Choose You | 17.00% | ~774 |
-| Big Sister | 15.00% | ~682 |
-| Gear Up | 15.00% | ~682 |
-| SENTINEL | 15.00% | ~682 |
+| Big Sister | 15.00% | ~683 |
+| Gear Up | 15.00% | ~683 |
+| SENTINEL | 15.00% | ~683 |
 | Core Power | 13.00% | ~592 |
 | The Black Cerberus | 12.00% | ~546 |
 | Watchman | 12.00% | ~546 |
-| CREO Killed the Video Star | 11.00% | ~500 |
-| Who's in Charge Here? | 11.00% | ~500 |
-| Shall Not Pass | 11.00% | ~500 |
+| CREO Killed the Video Star | 11.00% | ~501 |
+| Who's in Charge Here? | 11.00% | ~501 |
+| Shall Not Pass | 11.00% | ~501 |
 | Right Tool for the Job | 10.00% | ~455 |
 | Melting Down | 9.00% | ~410 |
 | Raging Drones | 9.00% | ~410 |
@@ -50,10 +50,10 @@ Number of Ratings: 62  (23.09.2022)
 | 3-2-1 | 5.00% | ~228 |
 | Rusty Rat | 4.00% | ~182 |
 | Desecration | 4.00% | ~182 |
-| For the Good of Mankind | 3.00% | ~136 |
-| Turing Test | 3.00% | ~136 |
-| Repeat Customer | 3.00% | ~136 |
-| Evolution Theory | 3.00% | ~136 |
+| For the Good of Mankind | 3.00% | ~137 |
+| Turing Test | 3.00% | ~137 |
+| Repeat Customer | 3.00% | ~137 |
+| Evolution Theory | 3.00% | ~137 |
 | Ghost in the Machine | 2.00% | ~91 |
 | Homo Machinalis | 2.00% | ~91 |
 | Was That Yours? | 2.00% | ~91 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~27 |
 | The Surge | 0.40% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,550 (Ranked 143)  
+Progressed: 4,551 (Ranked 143)  
 Completed: 15 (0.33%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 15 (0.33%) (Ranked 151)
 | 2023-07-28 | 4,535 | 15 |
 | 2023-07-29 | 4,540 | 15 |
 | 2023-07-30 | 4,546 | 15 |
-| 2023-07-31 | 4,550 | 15 |
+| 2023-07-31 | 4,551 | 15 |
 ## Awards
 Max (Great Boss Battles): 27  (Ranked 469)  
 Sum: 27 (Ranked 480)  

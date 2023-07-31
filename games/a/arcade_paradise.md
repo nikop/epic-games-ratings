@@ -9,7 +9,7 @@ Rating: 4.58 (Ranked 425)
 | Fetch Quest Complete | 90.00% | ~602 |
 | I can't wait! | 83.00% | ~555 |
 | Swish | 56.00% | ~375 |
-| Clean up on Aisle 9 | 39.00% | ~261 |
+| Clean up on Aisle 9 | 40.00% | ~268 |
 | Machine Maxed | 30.00% | ~201 |
 | Bug Fixer | 25.00% | ~167 |
 | Existential dread | 25.00% | ~167 |
@@ -37,13 +37,13 @@ Rating: 4.58 (Ranked 425)
 | To do. Done! | 2.00% | ~13 |
 | Modern Gorefare | 2.00% | ~13 |
 | GTA: Crime City | 2.00% | ~13 |
+| Slacker | 2.00% | ~13 |
 | 1337 HAXXOR | 1.00% | ~7 |
 | Fresh Prince of Grindstone | 1.00% | ~7 |
 | Drop the ball | 1.00% | ~7 |
 | Fat Princess | 1.00% | ~7 |
 | Hexadecimal | 1.00% | ~7 |
 | IMANOK CODE | 1.00% | ~7 |
-| Slacker | 1.00% | ~7 |
 | Intergalactic, planetary, planetary... | 1.00% | ~7 |
 | True Capitalist | 0.90% | ~6 |
 | It's a horror game | 0.90% | ~6 |

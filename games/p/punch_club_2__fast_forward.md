@@ -19,21 +19,21 @@
 | Run K, run! | 69.00% | ~135 |
 | No bullying more | 67.00% | ~131 |
 | Hello, world! | 67.00% | ~131 |
-| Fighting is cool | 64.00% | ~125 |
+| Fighting is cool | 65.00% | ~127 |
 | Pal of your father? | 62.00% | ~122 |
 | Employee of the month | 61.00% | ~120 |
 | Spirit of the past | 60.00% | ~118 |
 | Law student | 59.00% | ~116 |
 | Intriguing candies | 57.00% | ~112 |
-| Workout professional | 55.00% | ~108 |
+| Workout professional | 56.00% | ~110 |
+| Own four walls | 56.00% | ~110 |
+| Little hacker | 55.00% | ~108 |
 | Champion – starter pack | 55.00% | ~108 |
-| Own four walls | 55.00% | ~108 |
-| Little hacker | 54.00% | ~106 |
-| It's good to be alive | 54.00% | ~106 |
+| It's good to be alive | 55.00% | ~108 |
 | Fight for life | 53.00% | ~104 |
 | Handyman | 53.00% | ~104 |
 | Employee of the year | 53.00% | ~104 |
-| Legal courier | 49.00% | ~96 |
+| Legal courier | 50.00% | ~98 |
 | Extreme neuropower! | 49.00% | ~96 |
 | Escaped from a big trouble | 46.00% | ~90 |
 | Your own way | 46.00% | ~90 |

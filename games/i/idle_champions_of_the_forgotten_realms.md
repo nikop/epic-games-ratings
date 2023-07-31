@@ -8,7 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 3.00% | ~6,523 |
 | Beast Intentions | 3.00% | ~6,523 |
-| Maddening | 2.00% | ~4,348 |
+| Maddening | 2.00% | ~4,349 |
 | The Silken Swamp | 1.00% | ~2,174 |
 | Supply Run | 1.00% | ~2,174 |
 | Rocky Reception | 1.00% | ~1,837 |
@@ -30,11 +30,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.60% | ~1,305 |
 | Unearthed Evil | 0.60% | ~1,305 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,102 |
-| The Witchlight Carnival | 0.50% | ~918 |
+| The Witchlight Carnival | 0.50% | ~919 |
 | Don't Look Up! | 0.50% | ~1,087 |
 | Heavy Burden | 0.50% | ~1,087 |
-| The Evacuation of Waterdeep | 0.50% | ~918 |
-| The Dread Domain of Tovag | 0.50% | ~918 |
+| The Evacuation of Waterdeep | 0.50% | ~919 |
+| The Dread Domain of Tovag | 0.50% | ~919 |
 | Beast Mode | 0.50% | ~1,087 |
 | Low Initiative | 0.50% | ~1,087 |
 | A Mysterious Summons | 0.50% | ~1,087 |
@@ -45,12 +45,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.50% | ~1,087 |
 | The Cursed Farmer | 0.50% | ~1,087 |
 | The Mad Wizard | 0.50% | ~1,087 |
-| Not That Type of Helm! | 0.50% | ~918 |
-| Calcryx Tricks | 0.50% | ~918 |
-| Goblin Halls: the Next Generation | 0.50% | ~918 |
-| Bazaar Companions | 0.50% | ~918 |
-| Bahamut's Army | 0.50% | ~918 |
-| Krux's Speed Run | 0.50% | ~918 |
+| Not That Type of Helm! | 0.50% | ~919 |
+| Calcryx Tricks | 0.50% | ~919 |
+| Goblin Halls: the Next Generation | 0.50% | ~919 |
+| Bazaar Companions | 0.50% | ~919 |
+| Bahamut's Army | 0.50% | ~919 |
+| Krux's Speed Run | 0.50% | ~919 |
 | Thieves of the Coven | 0.40% | ~735 |
 | Speeds of Destruction | 0.40% | ~735 |
 | On the Hunt | 0.40% | ~870 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,417 (Ranked 53)  
+Progressed: 217,439 (Ranked 53)  
 Completed: 2,139 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,7 +621,7 @@ Completed: 2,139 (0.98%) (Ranked 112)
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
-| 2023-07-31 | 217,417 | 2,139 |
+| 2023-07-31 | 217,439 | 2,139 |
 ## Awards
 Max (Diverse Characters): 5,106  (Ranked 67)  
 Sum: 30,821 (Ranked 38)  

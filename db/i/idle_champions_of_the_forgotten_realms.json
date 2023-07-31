@@ -5416,9 +5416,9 @@
       "Count": 3330
     }
   ],
-  "EOS_Progressed": 217417,
+  "EOS_Progressed": 217439,
   "EOS_Completed": 2139,
-  "EOS_NewPlayers": 2288,
+  "EOS_NewPlayers": 2303,
   "EOS_NewCompleters": 79,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16406,6 +16406,11 @@
       "Time": "2023-07-31T17:04:25.3596444+00:00",
       "NumProgressed": 217417,
       "NumCompleted": 2139
+    },
+    {
+      "Time": "2023-07-31T18:04:28.2494072+00:00",
+      "NumProgressed": 217439,
+      "NumCompleted": 2139
     }
   ],
   "TotalAchievements": 512,
@@ -16425,7 +16430,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4348
+      "UsersEstimate": 4349
     },
     {
       "ID": "objective_completed_100",
@@ -16521,7 +16526,7 @@
       "Name": "The Witchlight Carnival",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "objective_completed_1056",
@@ -17065,7 +17070,7 @@
       "Name": "The Evacuation of Waterdeep",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "objective_completed_1159",
@@ -17201,7 +17206,7 @@
       "Name": "The Dread Domain of Tovag",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "objective_completed_1184",
@@ -20385,7 +20390,7 @@
       "Name": "Not That Type of Helm!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "objective_completed_1327",
@@ -20409,7 +20414,7 @@
       "Name": "Calcryx Tricks",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "objective_completed_593",
@@ -20417,7 +20422,7 @@
       "Name": "Goblin Halls: the Next Generation",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "objective_completed_663",
@@ -20425,7 +20430,7 @@
       "Name": "Bazaar Companions",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "objective_completed_668",
@@ -20433,7 +20438,7 @@
       "Name": "Bahamut\u0027s Army",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "objective_completed_1375",
@@ -20497,7 +20502,7 @@
       "Name": "Krux\u0027s Speed Run",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "objective_completed_1392",
@@ -20512,21 +20517,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183691,
+      "Progressed": 183713,
       "Completed": 3040
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217417,
+      "Progressed": 217439,
       "Completed": 2139
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-31T07:58:28.9560959+00:00",
-  "LastChanged_Achievements": "2023-07-31T17:04:25.3596437+00:00",
+  "LastChanged_Achievements": "2023-07-31T18:04:28.2494066+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-31T16:59:15.6901242+00:00",
-  "LastUpdate_Achievements": "2023-07-31T17:04:25.3638768+00:00"
+  "LastUpdate_Ratings": "2023-07-31T17:59:14.1290782+00:00",
+  "LastUpdate_Achievements": "2023-07-31T18:04:28.2527025+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "8b851e3d53d94fb1ba3fa58aa33a2c3d",
   "Name": "Palladium: Adventure in Greece",
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
-  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -456,8 +456,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-07-31T17:04:32.3118893+00:00",
+  "LastChanged_Achievements": "2023-07-31T18:04:34.7577571+00:00",
   "LastUpdate_AppInfo": "2023-07-28T21:57:00.7979866+00:00",
-  "LastUpdate_Ratings": "2023-07-31T16:57:31.4721902+00:00",
-  "LastUpdate_Achievements": "2023-07-31T17:04:32.3119245+00:00"
+  "LastUpdate_Ratings": "2023-07-31T17:57:29.4161389+00:00",
+  "LastUpdate_Achievements": "2023-07-31T18:04:34.7577933+00:00"
 }

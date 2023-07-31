@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,844 |
 | Master Spirit Guide | 0.30% | ~1,281 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427,114 (Ranked 38)  
+Progressed: 427,114 (Ranked 39)  
 Completed: 524 (0.12%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |

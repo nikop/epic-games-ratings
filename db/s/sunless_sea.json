@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 34616,
+  "EOS_Progressed": 34618,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10970,6 +10970,11 @@
       "Time": "2023-07-31T17:04:17.3511476+00:00",
       "NumProgressed": 34616,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-31T18:04:19.8305148+00:00",
+      "NumProgressed": 34618,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -11061,7 +11066,7 @@
       "Name": "Storm\u0027s Curse",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "ach_dawnmachine",
@@ -11133,7 +11138,7 @@
       "Name": "We\u0027re Gonna Need a Bigger Boat",
       "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "ach_eye",
@@ -11165,7 +11170,7 @@
       "Name": "Come Closer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "ach_legacycorrespondent",
@@ -11189,7 +11194,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4846
+      "UsersEstimate": 4847
     },
     {
       "ID": "ach_legacysalvager",
@@ -11349,7 +11354,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5192
+      "UsersEstimate": 5193
     },
     {
       "ID": "ach_undercurrent",
@@ -11412,15 +11417,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 34616,
+      "Progressed": 34618,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-07-31T17:04:17.351147+00:00",
+  "LastChanged_Achievements": "2023-07-31T18:04:19.830514+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:30.3882701+00:00",
-  "LastUpdate_Ratings": "2023-07-31T17:01:16.8124395+00:00",
-  "LastUpdate_Achievements": "2023-07-31T17:04:17.3513277+00:00"
+  "LastUpdate_Ratings": "2023-07-31T18:00:59.5838141+00:00",
+  "LastUpdate_Achievements": "2023-07-31T18:04:19.8306311+00:00"
 }

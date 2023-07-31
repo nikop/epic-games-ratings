@@ -9,7 +9,7 @@ Rating: 4.65 (Ranked 296)
 | Read Between The Lines | 64.00% | ~367 |
 | High Profile | 59.00% | ~339 |
 | Whispers In The Dark | 57.00% | ~327 |
-| Fond Memories | 54.00% | ~310 |
+| Fond Memories | 55.00% | ~316 |
 | History Check | 53.00% | ~304 |
 | A Method To His Madness | 53.00% | ~304 |
 | The New World | 49.00% | ~281 |
