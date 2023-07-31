@@ -7,9 +7,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 0.50% | ~668 |
+| Titan's First Steps | 0.50% | ~668 |
 | Basic in Bulk | 0.40% | ~535 |
 | Tinkle of Coins | 0.40% | ~535 |
-| Titan's First Steps | 0.40% | ~535 |
 | Disintermediation | 0.30% | ~401 |
 | It's Free Real Estate | 0.30% | ~401 |
 | Budding Merchant | 0.30% | ~401 |
@@ -23,6 +23,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Where it Hurts | 0.20% | ~267 |
 | Another Satisfied Customer | 0.20% | ~267 |
 | Pretty Penny | 0.20% | ~267 |
+| Gild-Gotten Goods | 0.20% | ~267 |
 | One-Armed Bandit | 0.20% | ~267 |
 | Dungeon Imports | 0.20% | ~267 |
 | Through Repetition, Perfection | 0.20% | ~267 |
@@ -74,7 +75,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Legend is Born | 0.10% | ~134 |
 | Trash to Treasure | 0.10% | ~134 |
 | Gem Expert | 0.10% | ~134 |
-| Gild-Gotten Goods | 0.10% | ~134 |
 | Royal Ransom | 0.10% | ~134 |
 | Mammonite | 0.10% | ~134 |
 | Wealth Beyond Measure | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,628 (Ranked 61)  
+Progressed: 133,633 (Ranked 61)  
 Completed: 124 (0.09%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 124 (0.09%) (Ranked 197)
 | 2023-07-28 | 133,441 | 123 |
 | 2023-07-29 | 133,512 | 124 |
 | 2023-07-30 | 133,588 | 124 |
-| 2023-07-31 | 133,628 | 124 |
+| 2023-07-31 | 133,633 | 124 |
 ## Awards
 Max (Great for Beginners): 4,679  (Ranked 70)  
 Sum: 27,015 (Ranked 46)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 722,
+  "EOS_Progressed": 724,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2491,6 +2491,11 @@
       "Time": "2023-07-31T13:17:47.0278684+00:00",
       "NumProgressed": 722,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T15:06:45.4452086+00:00",
+      "NumProgressed": 724,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2604,9 +2609,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 195
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -2614,7 +2619,7 @@
       "Name": "Corporal",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -2622,7 +2627,7 @@
       "Name": "Sergeant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -2710,7 +2715,7 @@
       "Name": "Stocking Up",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -2742,7 +2747,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -2758,7 +2763,7 @@
       "Name": "Defenses Online",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2805,14 +2810,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 722,
+      "Progressed": 724,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-31T14:06:33.615642+00:00",
+  "LastChanged_Achievements": "2023-07-31T15:06:45.4452078+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:56:57.5959305+00:00",
-  "LastUpdate_Achievements": "2023-07-31T14:06:33.6156861+00:00"
+  "LastUpdate_Ratings": "2023-07-31T14:57:20.6094739+00:00",
+  "LastUpdate_Achievements": "2023-07-31T15:06:45.4452418+00:00"
 }

@@ -5350,9 +5350,9 @@
       "Count": 3722
     }
   ],
-  "EOS_Progressed": 133628,
+  "EOS_Progressed": 133633,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -15725,6 +15725,11 @@
       "Time": "2023-07-31T14:04:18.4793574+00:00",
       "NumProgressed": 133628,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-07-31T15:04:11.8673096+00:00",
+      "NumProgressed": 133633,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 112,
@@ -16222,9 +16227,9 @@
       "ID": "gold03",
       "SetID": "anfd17p",
       "Name": "Gild-Gotten Goods",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 267
     },
     {
       "ID": "gold04",
@@ -16550,9 +16555,9 @@
       "ID": "tutorial",
       "SetID": "anfd17p",
       "Name": "Titan\u0027s First Steps",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 668
     },
     {
       "ID": "twinenchant01",
@@ -16631,15 +16636,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133628,
+      "Progressed": 133633,
       "Completed": 124
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-07-31T07:58:46.1222298+00:00",
-  "LastChanged_Achievements": "2023-07-31T14:04:18.4793569+00:00",
+  "LastChanged_Achievements": "2023-07-31T15:04:11.8673092+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.2465054+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:59:27.6159757+00:00",
-  "LastUpdate_Achievements": "2023-07-31T14:04:18.4795787+00:00"
+  "LastUpdate_Ratings": "2023-07-31T14:59:35.680325+00:00",
+  "LastUpdate_Achievements": "2023-07-31T15:04:11.8674837+00:00"
 }

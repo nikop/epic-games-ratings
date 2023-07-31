@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter 1 Complete | 72.00% | ~57 |
-| Vicious Spider | 47.00% | ~37 |
-| Chapter 2 Complete | 46.00% | ~36 |
+| Chapter 1 Complete | 73.00% | ~58 |
+| Vicious Spider | 46.00% | ~37 |
+| Chapter 2 Complete | 45.00% | ~36 |
 | Chapter 3 Complete | 34.00% | ~27 |
-| The Guardian | 32.00% | ~25 |
+| The Guardian | 31.00% | ~25 |
 | Chapter 4 Complete | 28.00% | ~22 |
 | Heavy Duty | 23.00% | ~18 |
-| Chapter 5 Complete | 22.00% | ~17 |
-| The Truth | 22.00% | ~17 |
+| Chapter 5 Complete | 21.00% | ~17 |
+| The Truth | 21.00% | ~17 |
 | Chapter 6 Complete | 20.00% | ~16 |
 | Reconciliation | 20.00% | ~16 |
 | Always Watchful | 19.00% | ~15 |
@@ -35,7 +35,7 @@
 | Our job's done! | 6.00% | ~5 |
 | Crystal Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79 (Ranked 329)  
+Progressed: 80 (Ranked 329)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,6 +52,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-23 | 77 | 0 |
 | 2023-07-24 | 78 | 0 |
 | 2023-07-27 | 79 | 0 |
+| 2023-07-31 | 80 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

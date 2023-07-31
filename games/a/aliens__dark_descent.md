@@ -1,33 +1,33 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.44 (Ranked 644)  
+Rating: 4.44 (Ranked 645)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,526 |
-| Snatched Out | 75.00% | ~2,311 |
-| Keep 'Em Coming | 73.00% | ~2,249 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,064 |
-| Call Me Snake | 62.00% | ~1,910 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,527 |
+| Snatched Out | 75.00% | ~2,312 |
+| Keep 'Em Coming | 73.00% | ~2,250 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,065 |
+| Call Me Snake | 62.00% | ~1,911 |
 | Something Lurks Under The Hills | 60.00% | ~1,849 |
 | This Was No Papercut | 59.00% | ~1,818 |
-| The Shrink Hates Me | 56.00% | ~1,725 |
+| The Shrink Hates Me | 56.00% | ~1,726 |
 | People Person | 55.00% | ~1,695 |
-| Use The Bumper, That's What It's For | 52.00% | ~1,602 |
-| First Steps Into Madness | 52.00% | ~1,602 |
+| Use The Bumper, That's What It's For | 52.00% | ~1,603 |
+| First Steps Into Madness | 52.00% | ~1,603 |
 | Colonial Barrels | 49.00% | ~1,510 |
 | Harper's Hell | 43.00% | ~1,325 |
 | Making a Stand | 42.00% | ~1,294 |
-| Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,263 |
+| Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,264 |
 | Where It All Begun | 37.00% | ~1,140 |
 | Recouped Investment | 37.00% | ~1,140 |
 | Omelette Du Fromage | 32.00% | ~986 |
 | The More The Merrier | 31.00% | ~955 |
-| Living Nightmare | 30.00% | ~924 |
+| Living Nightmare | 30.00% | ~925 |
 | The Darwin Era Was Here | 26.00% | ~801 |
 | Deep Into Insanity | 25.00% | ~770 |
-| The Passenger | 24.00% | ~739 |
+| The Passenger | 24.00% | ~740 |
 | Come on, You Wanna Live Forever? | 23.00% | ~709 |
 | Stuff Of Nightmares | 21.00% | ~647 |
 | El Riesgo Siempre Vive | 21.00% | ~647 |
@@ -42,7 +42,7 @@ Rating: 4.44 (Ranked 644)
 | Flawless Victory | 11.00% | ~339 |
 | This Went Smoothly | 11.00% | ~339 |
 | Heavy Steps | 11.00% | ~339 |
-| Perfect Enhancements | 8.00% | ~246 |
+| Perfect Enhancements | 8.00% | ~247 |
 | Hardened In The Heat Of Battle | 6.00% | ~185 |
 | The True Experience | 6.00% | ~185 |
 | Fair And Square | 2.00% | ~62 |
@@ -51,7 +51,7 @@ Rating: 4.44 (Ranked 644)
 | Perfect Organism | 0.60% | ~18 |
 | This Ain't No Picnic | 0.40% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,081 (Ranked 154)  
+Progressed: 3,082 (Ranked 154)  
 Completed: 2 (0.06%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 2 (0.06%) (Ranked 206)
 | 2023-07-28 | 3,062 | 1 |
 | 2023-07-29 | 3,068 | 2 |
 | 2023-07-30 | 3,080 | 2 |
-| 2023-07-31 | 3,081 | 2 |
+| 2023-07-31 | 3,082 | 2 |
 ## Awards
 Max (Great Boss Battles): 22  (Ranked 489)  
 Sum: 22 (Ranked 491)  

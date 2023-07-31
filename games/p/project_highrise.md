@@ -41,11 +41,11 @@
 | Thrilled Tenants | 13.00% | ~39 |
 | 28 Days Later | 11.00% | ~33 |
 | Swimming in Surplus | 11.00% | ~33 |
+| Aestheticly Pleased | 9.00% | ~27 |
 | Master of Puppets | 9.00% | ~27 |
 | Refined Palates | 9.00% | ~27 |
 | Phoning It In | 9.00% | ~27 |
 | First 100 Days | 8.00% | ~24 |
-| Aestheticly Pleased | 8.00% | ~24 |
 | Plaza Plan | 8.00% | ~24 |
 | Water Features | 7.00% | ~21 |
 | Meet Me at HQ | 7.00% | ~21 |

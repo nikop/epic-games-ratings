@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,874 |
-| That's a Grand Army | 8.00% | ~6,110 |
-| That is mine! | 8.00% | ~6,110 |
-| Victorious! | 8.00% | ~6,110 |
-| Brothers in Arms | 6.00% | ~4,583 |
-| That's a Grand Navy | 6.00% | ~4,583 |
-| Seriously?! | 6.00% | ~4,583 |
-| For the Glory | 5.00% | ~3,819 |
-| Cold War | 4.00% | ~3,055 |
-| True Catholic | 4.00% | ~3,055 |
-| Defender of the Faith | 3.00% | ~2,291 |
-| It's all about luck | 3.00% | ~2,291 |
-| It's all about the money | 3.00% | ~2,291 |
-| Respected | 3.00% | ~2,291 |
-| The Princess is in this Castle | 3.00% | ~2,291 |
-| Truly Divine Ruler | 3.00% | ~2,291 |
+| Until death do us apart | 9.00% | ~6,876 |
+| That's a Grand Army | 8.00% | ~6,112 |
+| That is mine! | 8.00% | ~6,112 |
+| Victorious! | 8.00% | ~6,112 |
+| Brothers in Arms | 6.00% | ~4,584 |
+| That's a Grand Navy | 6.00% | ~4,584 |
+| Seriously?! | 6.00% | ~4,584 |
+| For the Glory | 5.00% | ~3,820 |
+| Cold War | 4.00% | ~3,056 |
+| True Catholic | 4.00% | ~3,056 |
+| Defender of the Faith | 3.00% | ~2,292 |
+| It's all about luck | 3.00% | ~2,292 |
+| It's all about the money | 3.00% | ~2,292 |
+| Respected | 3.00% | ~2,292 |
+| The Princess is in this Castle | 3.00% | ~2,292 |
+| Truly Divine Ruler | 3.00% | ~2,292 |
 | Agressive Expander | 2.00% | ~1,528 |
 | Blockader | 2.00% | ~1,528 |
 | Combined Arms | 2.00% | ~1,528 |
@@ -40,10 +40,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~764 |
 | The Five Colonies | 1.00% | ~764 |
 | This navy can take it all | 1.00% | ~764 |
-| Down Under | 0.90% | ~687 |
-| Isn't this the way to India? | 0.90% | ~687 |
-| Market Control | 0.90% | ~687 |
-| Trustworthy | 0.90% | ~687 |
+| Down Under | 0.90% | ~688 |
+| Isn't this the way to India? | 0.90% | ~688 |
+| Market Control | 0.90% | ~688 |
+| Trustworthy | 0.90% | ~688 |
 | Electable! | 0.70% | ~535 |
 | Populists in Government | 0.70% | ~535 |
 | All belongs to Mother Russia | 0.60% | ~458 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,377 (Ranked 76)  
+Progressed: 76,395 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -463,10 +463,10 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 75,282 | 0 |
 | 2023-07-29 | 75,748 | 0 |
 | 2023-07-30 | 76,185 | 0 |
-| 2023-07-31 | 76,377 | 0 |
+| 2023-07-31 | 76,395 | 0 |
 ## Awards
 Max (Educational): 5,599  (Ranked 61)  
-Sum: 46,177 (Ranked 26)  
+Sum: 46,183 (Ranked 26)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
@@ -474,7 +474,7 @@ Diff (max vs sum): 35
 | This game is Highly Recommended | 5,360 |
 | This game has Challenging Combat | 5,316 |
 | This game is Extremely Fun | 5,306 |
-| This game has Diverse Characters | 5,272 |
+| This game has Diverse Characters | 5,278 |
 | This game is Relaxing | 5,176 |
 | This game has Competitive Players | 5,033 |
 | This game has Amazing Storytelling | 4,739 |
@@ -678,4 +678,4 @@ Diff (max vs sum): 35
 | 2023-07-28 | 4.69 | - | 5,593 | 46,113 |
 | 2023-07-29 | 4.69 | - | 5,597 | 46,142 |
 | 2023-07-30 | 4.69 | - | 5,597 | 46,167 |
-| 2023-07-31 | 4.69 | - | 5,599 | 46,177 |
+| 2023-07-31 | 4.69 | - | 5,599 | 46,183 |

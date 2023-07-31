@@ -17,11 +17,11 @@
 | Swimming on a dino's back. | 9.00% | ~19 |
 | The entrails of the beast. | 8.00% | ~17 |
 | The mountain of peril. | 7.00% | ~14 |
-| Passing the carcass. | 5.00% | ~10 |
+| Passing the carcass. | 6.00% | ~12 |
 | Lightning swamp. | 5.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 207 (Ranked 279)  
-Completed: 4 (1.93%) (Ranked 85)  
+Completed: 5 (2.42%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,6 +60,7 @@ Completed: 4 (1.93%) (Ranked 85)
 | 2023-07-28 | 203 | 4 |
 | 2023-07-29 | 205 | 4 |
 | 2023-07-30 | 207 | 4 |
+| 2023-07-31 | 207 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

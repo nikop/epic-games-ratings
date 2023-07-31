@@ -19,8 +19,8 @@ Rating: 4.56 (Ranked 464)
 | The End of the Line | 7.00% | ~815 |
 | With Extra Dip | 6.00% | ~698 |
 | Saviour | 6.00% | ~698 |
+| Rescue a Kitten Too? | 5.00% | ~582 |
 | They Can’t Stop All of Us | 4.00% | ~465 |
-| Rescue a Kitten Too? | 4.00% | ~465 |
 | Bike or Biker | 3.00% | ~349 |
 | What are the Odds | 3.00% | ~349 |
 | A Legitimate Business | 2.00% | ~233 |

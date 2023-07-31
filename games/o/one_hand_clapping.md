@@ -12,26 +12,26 @@
 | Maestro Mountain | 2.00% | ~16 |
 | Fugue Forest | 1.00% | ~8 |
 | Tempo | 0.90% | ~7 |
+| Cadence | 0.80% | ~6 |
+| Coda Cave Glyph | 0.60% | ~5 |
 | Coda Cave | 0.60% | ~5 |
 | Solo Sea | 0.60% | ~5 |
 | Silent City: Reprise | 0.60% | ~5 |
-| Cadence | 0.60% | ~5 |
 | Antiphony | 0.50% | ~4 |
-| Coda Cave Glyph | 0.50% | ~4 |
-| Silent City Glyph | 0.40% | ~3 |
-| Maestro Mountain Glyph | 0.40% | ~3 |
+| Silent City Glyph | 0.50% | ~4 |
+| Maestro Mountain Glyph | 0.50% | ~4 |
 | Symphony | 0.10% | ~1 |
 | Musica Universalis | 0.10% | ~1 |
 | Resonance | 0.10% | ~1 |
+| Duet Desert Glyph | 0.10% | ~1 |
 | Fugue Forest Glyph | 0.10% | ~1 |
+| Solo Sea Glyph | 0.10% | ~1 |
+| Silent City: Reprise Glyph | 0.10% | ~1 |
 | Ostinato | 0.00% | ~0 |
 | Rondo | 0.00% | ~0 |
 | Consonance | 0.00% | ~0 |
 | Dissonance | 0.00% | ~0 |
 | Tritone | 0.00% | ~0 |
-| Duet Desert Glyph | 0.00% | ~0 |
-| Solo Sea Glyph | 0.00% | ~0 |
-| Silent City: Reprise Glyph | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 784 (Ranked 203)  
 Completed: 0 (0.00%) (Ranked 246)  

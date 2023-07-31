@@ -22,7 +22,7 @@ Rating: 3.53 (Ranked 959)
 | Skin of Their Teeth | 31.00% | ~536 |
 | Grounded | 25.00% | ~432 |
 | Bad Wiring | 22.00% | ~380 |
-| I Spit On Your Grave | 19.00% | ~328 |
+| I Spit On Your Grave | 20.00% | ~346 |
 | Neighborhood Revitalization | 16.00% | ~276 |
 | Radio Silence | 16.00% | ~276 |
 | Helping Hand | 13.00% | ~225 |
@@ -72,7 +72,7 @@ Rating: 3.53 (Ranked 959)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,728 (Ranked 173)  
+Progressed: 1,728 (Ranked 174)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |

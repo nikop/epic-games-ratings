@@ -6,10 +6,11 @@ Rating: 4.87 (Ranked 24)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feeling the beat! | 6.00% | ~219 |
-| Start with a bang! | 5.00% | ~182 |
-| You can pet the cat! | 5.00% | ~182 |
+| Start with a bang! | 5.00% | ~183 |
+| You can pet the cat! | 5.00% | ~183 |
 | Cream of the Crop | 4.00% | ~146 |
 | Thanks for the free chip, Peppermint! | 4.00% | ~146 |
+| Perfect Parry | 4.00% | ~146 |
 | Who put gears in there? | 4.00% | ~146 |
 | This will cost you big time | 3.00% | ~110 |
 | Headliner | 3.00% | ~110 |
@@ -19,7 +20,6 @@ Rating: 4.87 (Ranked 24)
 | You got this, Peppermint? | 3.00% | ~110 |
 | Z-shielding's got nothing on us! | 3.00% | ~110 |
 | Out in a puff of smoke | 3.00% | ~110 |
-| Perfect Parry | 3.00% | ~110 |
 | Uh, they were broken when I got here | 3.00% | ~110 |
 | Kissing the sky! | 3.00% | ~110 |
 | Alright, that felt AWESOME! | 3.00% | ~110 |
@@ -27,14 +27,14 @@ Rating: 4.87 (Ranked 24)
 | NOW we got a kickass hideout! | 3.00% | ~65 |
 | The Negotiator | 2.00% | ~73 |
 | Who's the boss now? | 2.00% | ~73 |
+| Well that was a rush! | 2.00% | ~73 |
 | I have to read these things? | 2.00% | ~73 |
 | You must like calling me in, Chai | 2.00% | ~73 |
 | Perfecter Parry-er! | 2.00% | ~73 |
 | I look cool. But I can look COOLER. | 2.00% | ~73 |
-| Well that was a rush! | 1.00% | ~36 |
-| Beat-hit mania | 1.00% | ~36 |
-| That's a lot of junk metal… | 1.00% | ~36 |
-| There's such a thing as TOO helpful | 1.00% | ~36 |
+| Beat-hit mania | 1.00% | ~37 |
+| That's a lot of junk metal… | 1.00% | ~37 |
+| There's such a thing as TOO helpful | 1.00% | ~37 |
 | Chip-tuned | 0.80% | ~29 |
 | Wanna hear my playlist? | 0.80% | ~29 |
 | Check out my moves! | 0.80% | ~29 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,650 (Ranked 146)  
+Progressed: 3,651 (Ranked 146)  
 Completed: 6 (0.16%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 6 (0.16%) (Ranked 179)
 | 2023-07-28 | 3,610 | 6 |
 | 2023-07-29 | 3,627 | 6 |
 | 2023-07-30 | 3,640 | 6 |
-| 2023-07-31 | 3,650 | 6 |
+| 2023-07-31 | 3,651 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

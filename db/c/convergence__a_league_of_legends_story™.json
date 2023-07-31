@@ -6,9 +6,9 @@
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 201,
-  "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_Completed": 125,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -31,10 +31,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 810,
-  "EOS_Completed": 4,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 24,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.49,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
     {
       "Time": "2023-05-23T23:05:09.8369672+00:00",
@@ -1885,6 +1885,11 @@
       "Time": "2023-07-31T12:04:52.6864375+00:00",
       "NumProgressed": 810,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-31T15:04:39.8951899+00:00",
+      "NumProgressed": 810,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -1926,9 +1931,9 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 113
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2110,17 +2115,17 @@
       "ID": "NoDeathRun",
       "SetID": "a9e499d",
       "Name": "Going to Live Forever",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NoGadgetFutureEkko3",
       "SetID": "a9e499d",
       "Name": "Raw Talent",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NoRewindCamille",
@@ -2278,9 +2283,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 138
     },
     {
       "ID": "WatcherFought",
@@ -2320,15 +2325,15 @@
       "ID": "a9e499d",
       "IsBase": true,
       "Progressed": 810,
-      "Completed": 4
+      "Completed": 5
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-07-31T14:04:46.8685354+00:00",
+  "LastChanged_Achievements": "2023-07-31T15:04:39.8951891+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.2379789+00:00",
-  "LastUpdate_Ratings": "2023-07-31T14:00:28.6012095+00:00",
-  "LastUpdate_Achievements": "2023-07-31T14:04:46.8685926+00:00"
+  "LastUpdate_Ratings": "2023-07-31T15:00:44.8983562+00:00",
+  "LastUpdate_Achievements": "2023-07-31T15:04:39.8952353+00:00"
 }

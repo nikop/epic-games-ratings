@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -1534,9 +1534,9 @@
       "ID": "MF_Ach_DeathBecomesYou",
       "SetID": "9b9n573",
       "Name": "Death Becomes You",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -1702,8 +1702,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-26T02:04:08.2630657+00:00",
-  "LastChanged_Achievements": "2023-07-31T14:04:33.5668896+00:00",
+  "LastChanged_Achievements": "2023-07-31T15:04:26.060285+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.6709929+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:59:26.0182064+00:00",
-  "LastUpdate_Achievements": "2023-07-31T14:04:33.5669196+00:00"
+  "LastUpdate_Ratings": "2023-07-31T14:59:34.1376972+00:00",
+  "LastUpdate_Achievements": "2023-07-31T15:04:26.0603014+00:00"
 }

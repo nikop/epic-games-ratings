@@ -11,6 +11,7 @@ Rating: 4.60 (Ranked 390)
 | Make Up For Lost Time | 17.00% | ~138 |
 | The Prince in Heels | 17.00% | ~138 |
 | Immaculate Aim | 17.00% | ~138 |
+| Immaculate Aim | 17.00% | ~138 |
 | The Brass Boss | 17.00% | ~138 |
 | The Steel Shadow | 16.00% | ~130 |
 | Time Flies | 16.00% | ~130 |
@@ -20,17 +21,16 @@ Rating: 4.60 (Ranked 390)
 | The Wicked Twins | 16.00% | ~130 |
 | Honest Mistake | 16.00% | ~130 |
 | Fast Learner | 16.00% | ~130 |
-| Immaculate Aim | 16.00% | ~130 |
 | The Betrayer | 15.00% | ~122 |
 | The Man Who Shattered Time | 15.00% | ~122 |
 | The Loose Cannon | 15.00% | ~122 |
 | Golem Chaser | 15.00% | ~122 |
 | The Family Fortune | 15.00% | ~122 |
 | Treasure Trove | 14.00% | ~113 |
+| Right On Time | 14.00% | ~113 |
 | Like Clockwork | 14.00% | ~113 |
 | Cartographer | 14.00% | ~113 |
 | Check Your Pulse | 14.00% | ~113 |
-| Right On Time | 13.00% | ~105 |
 | Street Style | 13.00% | ~105 |
 | Whiz Kid | 11.00% | ~89 |
 | Chaincrawler Explorer | 10.00% | ~81 |
@@ -56,11 +56,11 @@ Rating: 4.60 (Ranked 390)
 | No Time to Waste | 1.00% | ~8 |
 | Wildlife Protection | 0.90% | ~7 |
 | A Lesson in Precision | 0.90% | ~7 |
-| Going to Live Forever | 0.50% | ~4 |
-| Raw Talent | 0.50% | ~4 |
+| Going to Live Forever | 0.60% | ~5 |
+| Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 810 (Ranked 201)  
-Completed: 4 (0.49%) (Ranked 137)  
+Completed: 5 (0.62%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -127,7 +127,7 @@ Completed: 4 (0.49%) (Ranked 137)
 | 2023-07-28 | 797 | 4 |
 | 2023-07-29 | 803 | 4 |
 | 2023-07-30 | 808 | 4 |
-| 2023-07-31 | 810 | 4 |
+| 2023-07-31 | 810 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

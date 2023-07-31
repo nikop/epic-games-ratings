@@ -7,6 +7,7 @@ Number of Ratings: 285  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That'll Leave a Mark | 3.00% | ~14 |
+| Death Becomes You | 2.00% | ~10 |
 | Debuff Dogpile | 2.00% | ~10 |
 | Faceroll the Bones | 2.00% | ~10 |
 | First Strike | 2.00% | ~10 |
@@ -19,7 +20,6 @@ Number of Ratings: 285  (23.09.2022)
 | Season Finale | 2.00% | ~10 |
 | Cold-Blooded Critters | 1.00% | ~5 |
 | Deadication | 1.00% | ~5 |
-| Death Becomes You | 1.00% | ~5 |
 | The Harder They Fall | 1.00% | ~5 |
 | Horder Better Faster Stronger | 1.00% | ~5 |
 | Spending Spree | 1.00% | ~5 |

@@ -2,13 +2,13 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 108,
+  "Ranking_Rating": 107,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5626,10 +5626,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 40219,
       "NumberOfAwardsMax": 21416
+    },
+    {
+      "Time": "2023-07-31T14:58:26.3742987+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40224,
+      "NumberOfAwardsMax": 21416
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40219,
+  "NumberOfAwards": 40224,
   "NumberOfAwardsMax": 21416,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5649,7 +5655,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 761
+      "Count": 764
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5691,7 +5697,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 907
+      "Count": 909
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5706,9 +5712,9 @@
       "Count": 570
     }
   ],
-  "EOS_Progressed": 289024,
+  "EOS_Progressed": 289027,
   "EOS_Completed": 437,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16691,6 +16697,11 @@
       "Time": "2023-07-31T14:05:34.2937308+00:00",
       "NumProgressed": 289024,
       "NumCompleted": 437
+    },
+    {
+      "Time": "2023-07-31T15:05:27.5529649+00:00",
+      "NumProgressed": 289027,
+      "NumCompleted": 437
     }
   ],
   "TotalAchievements": 45,
@@ -16766,7 +16777,7 @@
       "Name": "Beast Friends",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17341
+      "UsersEstimate": 17342
     },
     {
       "ID": "PFA_18",
@@ -16798,7 +16809,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5780
+      "UsersEstimate": 5781
     },
     {
       "ID": "PFA_21",
@@ -16822,7 +16833,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28902
+      "UsersEstimate": 28903
     },
     {
       "ID": "PFA_24",
@@ -16862,7 +16873,7 @@
       "Name": "Put Down Roots",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5780
+      "UsersEstimate": 5781
     },
     {
       "ID": "PFA_29",
@@ -16878,7 +16889,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5780
+      "UsersEstimate": 5781
     },
     {
       "ID": "PFA_30",
@@ -16934,7 +16945,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5780
+      "UsersEstimate": 5781
     },
     {
       "ID": "PFA_37",
@@ -17046,7 +17057,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28902
+      "UsersEstimate": 28903
     },
     {
       "ID": "PFA_9",
@@ -17061,16 +17072,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289024,
+      "Progressed": 289027,
       "Completed": 437
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-31T13:58:12.9786107+00:00",
-  "LastChanged_Achievements": "2023-07-31T14:05:34.2937303+00:00",
+  "LastChanged": "2023-07-31T14:58:26.3742986+00:00",
+  "LastChanged_Achievements": "2023-07-31T15:05:27.5529645+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:58:12.9786117+00:00",
-  "LastUpdate_Achievements": "2023-07-31T14:05:34.2938207+00:00"
+  "LastUpdate_Ratings": "2023-07-31T14:58:26.3742992+00:00",
+  "LastUpdate_Achievements": "2023-07-31T15:05:27.5530475+00:00"
 }

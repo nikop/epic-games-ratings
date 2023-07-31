@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 281,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 6.41,
   "EosHistory": [
@@ -1152,9 +1152,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 185
     },
     {
       "ID": "HastrmanAcorn",
@@ -1272,9 +1272,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 157
     },
     {
       "ID": "RogueEat",
@@ -1367,8 +1367,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-31T14:06:50.0610625+00:00",
+  "LastChanged_Achievements": "2023-07-31T15:07:01.9248299+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:57:23.849186+00:00",
-  "LastUpdate_Achievements": "2023-07-31T14:06:50.0611073+00:00"
+  "LastUpdate_Ratings": "2023-07-31T14:57:43.088051+00:00",
+  "LastUpdate_Achievements": "2023-07-31T15:07:01.9248649+00:00"
 }

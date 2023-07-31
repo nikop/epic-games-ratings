@@ -14,8 +14,8 @@
 | Fitness professional | 76.00% | ~149 |
 | Depressed visitor | 76.00% | ~149 |
 | Employee of the week | 74.00% | ~145 |
+| Your own amateur gym | 73.00% | ~143 |
 | Neurotrainer – power gainer! | 73.00% | ~143 |
-| Your own amateur gym | 72.00% | ~141 |
 | Run K, run! | 69.00% | ~135 |
 | No bullying more | 67.00% | ~131 |
 | Hello, world! | 67.00% | ~131 |
@@ -30,9 +30,9 @@
 | Own four walls | 55.00% | ~108 |
 | Little hacker | 54.00% | ~106 |
 | It's good to be alive | 54.00% | ~106 |
+| Handyman | 53.00% | ~104 |
 | Employee of the year | 53.00% | ~104 |
 | Fight for life | 52.00% | ~102 |
-| Handyman | 52.00% | ~102 |
 | Legal courier | 49.00% | ~96 |
 | Extreme neuropower! | 48.00% | ~94 |
 | Your own way | 46.00% | ~90 |
@@ -40,8 +40,8 @@
 | Escaped from a big trouble | 45.00% | ~88 |
 | No blades in the gym | 43.00% | ~84 |
 | Guiding on the right path | 42.00% | ~82 |
+| Fight is life | 41.00% | ~80 |
 | Mysterious voice | 41.00% | ~80 |
-| Fight is life | 40.00% | ~78 |
 | Get out of my apartment! | 35.00% | ~69 |
 | Underground dwellers | 35.00% | ~69 |
 | Responsible approach | 35.00% | ~69 |
@@ -50,14 +50,14 @@
 | Champion – no way back | 33.00% | ~65 |
 | Poisoned fighter | 32.00% | ~63 |
 | Seashell hunter | 32.00% | ~63 |
-| Mom got better | 30.00% | ~59 |
-| The die is cast | 30.00% | ~59 |
+| Mom got better | 31.00% | ~61 |
+| The die is cast | 31.00% | ~61 |
 | Undercover robot | 30.00% | ~59 |
 | Gang wrangler | 29.00% | ~57 |
 | Problems of cyborgs | 29.00% | ~57 |
+| Absolute Champion! | 29.00% | ~57 |
 | The last bell ring | 29.00% | ~57 |
 | Not little hacker | 28.00% | ~55 |
-| Absolute Champion! | 28.00% | ~55 |
 | Careerist | 28.00% | ~55 |
 | Trap disarmed | 27.00% | ~53 |
 | Anyone can resist | 27.00% | ~53 |

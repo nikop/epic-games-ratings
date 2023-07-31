@@ -2575,9 +2575,9 @@
       "Count": 731
     }
   ],
-  "EOS_Progressed": 233499,
+  "EOS_Progressed": 233501,
   "EOS_Completed": 255,
-  "EOS_NewPlayers": 466,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -12830,6 +12830,11 @@
       "Time": "2023-07-31T14:05:35.3601186+00:00",
       "NumProgressed": 233499,
       "NumCompleted": 255
+    },
+    {
+      "Time": "2023-07-31T15:05:28.7160782+00:00",
+      "NumProgressed": 233501,
+      "NumCompleted": 255
     }
   ],
   "TotalAchievements": 122,
@@ -12873,7 +12878,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 224159
+      "UsersEstimate": 224161
     },
     {
       "ID": "CURSE1HP",
@@ -12921,7 +12926,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 123754
+      "UsersEstimate": 123756
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -12961,7 +12966,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 170454
+      "UsersEstimate": 170456
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -13017,7 +13022,7 @@
       "Name": "That Was Quick",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 130759
+      "UsersEstimate": 130761
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -13025,7 +13030,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 135429
+      "UsersEstimate": 135431
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -13241,7 +13246,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 142434
+      "UsersEstimate": 142436
     },
     {
       "ID": "KILL1000",
@@ -13329,7 +13334,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 126089
+      "UsersEstimate": 126091
     },
     {
       "ID": "KILLNICEDOG",
@@ -13425,7 +13430,7 @@
       "Name": "A Donation",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 130759
+      "UsersEstimate": 130761
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -13449,7 +13454,7 @@
       "Name": "Master of Strategy",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2102
     },
     {
       "ID": "NOMERCY",
@@ -13489,7 +13494,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 151774
+      "UsersEstimate": 151776
     },
     {
       "ID": "PETRIFY50",
@@ -13585,7 +13590,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 207814
+      "UsersEstimate": 207816
     },
     {
       "ID": "SPECIALROOMS10",
@@ -13593,7 +13598,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 144769
+      "UsersEstimate": 144771
     },
     {
       "ID": "SPEEDRUN10",
@@ -13657,7 +13662,7 @@
       "Name": "An Offering",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 142434
+      "UsersEstimate": 142436
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -13705,7 +13710,7 @@
       "Name": "Near Death Experience",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "WINDAILY",
@@ -13721,7 +13726,7 @@
       "Name": "Down Under",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "WINNEVEREQUIPCOMMON",
@@ -13753,7 +13758,7 @@
       "Name": "Ignoring Midgame",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "WINNOREROLLS",
@@ -13816,7 +13821,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 233499,
+      "Progressed": 233501,
       "Completed": 255
     }
   ],
@@ -13824,8 +13829,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-07-29T05:02:24.1130369+00:00",
-  "LastChanged_Achievements": "2023-07-31T14:05:35.3601181+00:00",
+  "LastChanged_Achievements": "2023-07-31T15:05:28.7160777+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:14.6666266+00:00",
-  "LastUpdate_Ratings": "2023-07-31T14:00:45.920357+00:00",
-  "LastUpdate_Achievements": "2023-07-31T14:05:35.3603607+00:00"
+  "LastUpdate_Ratings": "2023-07-31T15:01:02.4625646+00:00",
+  "LastUpdate_Achievements": "2023-07-31T15:05:28.7162623+00:00"
 }

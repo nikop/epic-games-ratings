@@ -2,13 +2,13 @@
   "ID": "0114ea1a5d674c6b8c99015e6c994aff",
   "Name": "Star Renegades",
   "ProductSlug": "star-renegades",
-  "Ranking_Rating": 676,
+  "Ranking_Rating": 677,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-03-04T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -114,6 +114,6 @@
   "FirstSeenRating": "2022-09-29T13:01:46.0510474+00:00",
   "LastChanged": "2023-06-05T06:58:51.53843+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:39.1302022+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:59:49.7743715+00:00",
-  "LastUpdate_Achievements": "2023-07-31T14:06:37.4846397+00:00"
+  "LastUpdate_Ratings": "2023-07-31T15:00:02.6769839+00:00",
+  "LastUpdate_Achievements": "2023-07-31T15:06:49.2845767+00:00"
 }

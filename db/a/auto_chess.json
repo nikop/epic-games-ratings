@@ -2,13 +2,13 @@
   "ID": "37baf50c268d47779020d73143bb02b0",
   "Name": "Auto Chess",
   "ProductSlug": "auto-chess",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 539,
   "Ranking_Popularity": 157,
   "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2019-08-23T15:00:00+00:00",
     "PcReleaseDate": "2019-04-18T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.52,
+  "Rating": 4.51,
   "NumberOfRatings": 2249,
   "RatingHistory": [
     {
@@ -3502,10 +3502,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 6034,
       "NumberOfAwardsMax": 762
+    },
+    {
+      "Time": "2023-07-31T15:00:08.4577764+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 6036,
+      "NumberOfAwardsMax": 762
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6034,
+  "NumberOfAwards": 6036,
   "NumberOfAwardsMax": 762,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -3543,7 +3549,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 732
+      "Count": 734
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3587,8 +3593,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2023-07-30T22:00:06.0407816+00:00",
+  "LastChanged": "2023-07-31T15:00:08.4577762+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:41.5193217+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:59:55.458352+00:00",
-  "LastUpdate_Achievements": "2023-07-31T14:03:30.4186813+00:00"
+  "LastUpdate_Ratings": "2023-07-31T15:00:08.4577769+00:00",
+  "LastUpdate_Achievements": "2023-07-31T15:03:44.0282456+00:00"
 }

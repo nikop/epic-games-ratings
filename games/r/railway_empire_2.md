@@ -6,41 +6,41 @@ Rating: 4.48 (Ranked 589)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 74.00% | ~1,279 |
-| A new Journey | 73.00% | ~1,261 |
-| From X to Y | 72.00% | ~1,244 |
-| Departure | 72.00% | ~1,244 |
+| A new Journey | 73.00% | ~1,262 |
+| From X to Y | 72.00% | ~1,245 |
+| Departure | 72.00% | ~1,245 |
 | Way of Iron | 70.00% | ~1,210 |
-| Mystery Tour | 68.00% | ~1,175 |
+| Mystery Tour | 68.00% | ~1,176 |
 | We brake for nobody | 67.00% | ~1,158 |
-| Brainstorm | 65.00% | ~1,123 |
-| Travel Company | 65.00% | ~1,123 |
-| Mind the Gap | 64.00% | ~1,106 |
-| All around the World | 61.00% | ~1,054 |
-| Right through the middle | 57.00% | ~985 |
+| Brainstorm | 65.00% | ~1,124 |
+| Mind the Gap | 64.00% | ~1,107 |
+| Travel Company | 64.00% | ~1,107 |
+| All around the World | 61.00% | ~1,055 |
+| Right through the middle | 57.00% | ~986 |
 | Facility Manager | 53.00% | ~916 |
 | Poor Devil | 53.00% | ~916 |
 | Producer | 49.00% | ~847 |
 | Apprentice | 42.00% | ~726 |
-| Bridge Builder | 41.00% | ~708 |
+| Bridge Builder | 40.00% | ~692 |
 | Access granted | 34.00% | ~588 |
 | Going once, going twice, sold | 34.00% | ~588 |
-| Bull and bear | 33.00% | ~570 |
+| Bull and bear | 33.00% | ~571 |
 | Stoker | 32.00% | ~553 |
 | Full Steam ahead | 31.00% | ~536 |
-| Financial Shark | 30.00% | ~518 |
+| Financial Shark | 30.00% | ~519 |
 | All mine | 29.00% | ~501 |
 | Socializer | 29.00% | ~501 |
 | Mole | 28.00% | ~484 |
-| Country Life | 26.00% | ~449 |
+| Country Life | 26.00% | ~450 |
 | General Manager | 25.00% | ~432 |
 | Hostile Takeover | 24.00% | ~415 |
-| Seven at one stroke | 23.00% | ~397 |
+| Seven at one stroke | 23.00% | ~398 |
 | Trailblazer | 20.00% | ~346 |
 | Breaking Ground | 20.00% | ~346 |
-| Traffic Junction | 19.00% | ~328 |
+| Traffic Junction | 19.00% | ~329 |
 | Traffic Jam | 18.00% | ~311 |
 | Networker | 17.00% | ~294 |
-| Resistance is futile | 16.00% | ~276 |
+| Resistance is futile | 16.00% | ~277 |
 | Assimilated | 15.00% | ~259 |
 | Locusts | 15.00% | ~259 |
 | Settler | 14.00% | ~242 |
@@ -61,7 +61,7 @@ Rating: 4.48 (Ranked 589)
 | United States | 0.50% | ~9 |
 | Three Cheers for Progress | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,728 (Ranked 173)  
+Progressed: 1,729 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 1,699 | 0 |
 | 2023-07-29 | 1,711 | 0 |
 | 2023-07-30 | 1,717 | 0 |
-| 2023-07-31 | 1,728 | 0 |
+| 2023-07-31 | 1,729 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

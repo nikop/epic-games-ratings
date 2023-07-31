@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1875,9 +1875,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43175,
+  "EOS_Progressed": 43176,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5535,6 +5535,11 @@
       "Time": "2023-07-31T04:05:53.6938556+00:00",
       "NumProgressed": 43175,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-31T15:05:09.8156577+00:00",
+      "NumProgressed": 43176,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -5650,7 +5655,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 16838
+      "UsersEstimate": 16839
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -5674,7 +5679,7 @@
       "Name": "Something wicked this way comes",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2590
+      "UsersEstimate": 2591
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_FINAL_DEPARTURE",
@@ -5698,7 +5703,7 @@
       "Name": "Not today you won\u0027t",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2590
+      "UsersEstimate": 2591
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_RURAL_COMPOUND",
@@ -5706,7 +5711,7 @@
       "Name": "Take a little bit of Italy with you",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2590
+      "UsersEstimate": 2591
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_TRAIN_STATION",
@@ -5722,7 +5727,7 @@
       "Name": "Staring at Shadows",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2590
+      "UsersEstimate": 2591
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_VENICE",
@@ -5730,7 +5735,7 @@
       "Name": "I told you we should have gone to the beach",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2590
+      "UsersEstimate": 2591
     },
     {
       "ID": "SE_COMPLETE_MILAN",
@@ -5738,7 +5743,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26768
+      "UsersEstimate": 26769
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -5770,7 +5775,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13384
+      "UsersEstimate": 13385
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -5810,15 +5815,15 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13384
+      "UsersEstimate": 13385
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
       "SetID": "49kdhbg",
       "Name": "Shock therapy",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 9498
+      "UsersEstimate": 9930
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -5826,7 +5831,7 @@
       "Name": "Hoarder",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2590
+      "UsersEstimate": 2591
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_A_ZOMBIE_SELF_RESURRECTION",
@@ -5858,7 +5863,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16406
+      "UsersEstimate": 16407
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -5890,7 +5895,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12952
+      "UsersEstimate": 12953
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -5898,7 +5903,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19860
+      "UsersEstimate": 19861
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -5914,7 +5919,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20292
+      "UsersEstimate": 20293
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -5930,7 +5935,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11657
+      "UsersEstimate": 11658
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -6073,15 +6078,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43175,
+      "Progressed": 43176,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-07-30T10:00:49.4853339+00:00",
-  "LastChanged_Achievements": "2023-07-31T14:05:16.0177908+00:00",
+  "LastChanged_Achievements": "2023-07-31T15:05:09.8156571+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:44.6103145+00:00",
-  "LastUpdate_Ratings": "2023-07-31T14:01:13.8909859+00:00",
-  "LastUpdate_Achievements": "2023-07-31T14:05:16.0178751+00:00"
+  "LastUpdate_Ratings": "2023-07-31T15:01:32.3358148+00:00",
+  "LastUpdate_Achievements": "2023-07-31T15:05:09.8157262+00:00"
 }

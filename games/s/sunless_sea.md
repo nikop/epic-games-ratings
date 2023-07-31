@@ -10,7 +10,7 @@ Number of Ratings: 401  (23.09.2022)
 | Sweet Sorrow | 18.00% | ~6,230 |
 | Rules the Waves | 17.00% | ~5,884 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,192 |
-| Rival | 14.00% | ~4,845 |
+| Rival | 14.00% | ~4,846 |
 | Correspondent | 12.00% | ~4,153 |
 | Lose Your Mind | 12.00% | ~4,153 |
 | Sound Mind? | 12.00% | ~4,153 |
@@ -23,7 +23,7 @@ Number of Ratings: 401  (23.09.2022)
 | Salvager | 7.00% | ~2,423 |
 | Open Your Ears | 7.00% | ~2,423 |
 | The Ascent of Man | 7.00% | ~2,423 |
-| Zee Fever | 5.00% | ~1,730 |
+| Zee Fever | 5.00% | ~1,731 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,384 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,384 |
 | Storm's Curse | 3.00% | ~1,038 |
@@ -43,10 +43,10 @@ Number of Ratings: 401  (23.09.2022)
 | Rosewater sailor | 1.00% | ~346 |
 | Under the zee | 1.00% | ~346 |
 | A current under zee | 1.00% | ~346 |
-| Never Stop Sinking... | 0.90% | ~311 |
-| Leviathan | 0.90% | ~311 |
-| No regrets | 0.90% | ~311 |
-| Depth charge | 0.90% | ~311 |
+| Never Stop Sinking... | 0.90% | ~312 |
+| Leviathan | 0.90% | ~312 |
+| No regrets | 0.90% | ~312 |
+| Depth charge | 0.90% | ~312 |
 | A zee-change | 0.80% | ~277 |
 | What lies beneath | 0.80% | ~277 |
 | Stone's Curse | 0.70% | ~242 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~35 |
 | Ten Years at Zee | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,610 (Ranked 95)  
+Progressed: 34,612 (Ranked 95)  
 Completed: 3 (0.01%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 3 (0.01%) (Ranked 233)
 | 2023-07-28 | 34,418 | 3 |
 | 2023-07-29 | 34,503 | 3 |
 | 2023-07-30 | 34,582 | 3 |
-| 2023-07-31 | 34,610 | 3 |
+| 2023-07-31 | 34,612 | 3 |
 ## Awards
 Max (Character Customization): 213  (Ranked 267)  
 Sum: 283 (Ranked 340)  

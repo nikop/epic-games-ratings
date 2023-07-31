@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 34610,
+  "EOS_Progressed": 34612,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10955,6 +10955,11 @@
       "Time": "2023-07-31T14:04:25.5111652+00:00",
       "NumProgressed": 34610,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-31T15:04:18.7439881+00:00",
+      "NumProgressed": 34612,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -11094,7 +11099,7 @@
       "Name": "Never Stop Sinking...",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ach_die5",
@@ -11174,7 +11179,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4845
+      "UsersEstimate": 4846
     },
     {
       "ID": "ach_legacysalvager",
@@ -11254,7 +11259,7 @@
       "Name": "Leviathan",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ach_portpearls",
@@ -11270,7 +11275,7 @@
       "Name": "No regrets",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ach_portrose",
@@ -11294,7 +11299,7 @@
       "Name": "Zee Fever",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "ach_stranger",
@@ -11350,7 +11355,7 @@
       "Name": "Depth charge",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ach_underpressure",
@@ -11397,15 +11402,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 34610,
+      "Progressed": 34612,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-07-31T14:04:25.5111647+00:00",
+  "LastChanged_Achievements": "2023-07-31T15:04:18.7439877+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:30.3882701+00:00",
-  "LastUpdate_Ratings": "2023-07-31T14:01:02.6989586+00:00",
-  "LastUpdate_Achievements": "2023-07-31T14:04:25.5112768+00:00"
+  "LastUpdate_Ratings": "2023-07-31T15:01:16.340654+00:00",
+  "LastUpdate_Achievements": "2023-07-31T15:04:18.744089+00:00"
 }

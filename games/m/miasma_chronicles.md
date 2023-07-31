@@ -1,51 +1,51 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.40 (Ranked 695)  
+Rating: 4.40 (Ranked 696)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,217 |
-| Ranidaphobia | 77.00% | ~1,019 |
-| Aspiring Editor | 75.00% | ~992 |
-| Gun for Hire | 70.00% | ~926 |
-| I am the law! | 64.00% | ~847 |
-| Lumberjack | 53.00% | ~701 |
-| Croaked | 48.00% | ~635 |
-| Limp Richard | 48.00% | ~635 |
-| Exorcist | 47.00% | ~622 |
-| From Darkness to Light | 47.00% | ~622 |
-| Editor Adept | 46.00% | ~609 |
-| Giant Killer | 44.00% | ~582 |
+| First Blood | 92.00% | ~1,219 |
+| Ranidaphobia | 77.00% | ~1,020 |
+| Aspiring Editor | 75.00% | ~994 |
+| Gun for Hire | 70.00% | ~927 |
+| I am the law! | 64.00% | ~848 |
+| Lumberjack | 53.00% | ~702 |
+| Croaked | 48.00% | ~636 |
+| Limp Richard | 48.00% | ~636 |
+| From Darkness to Light | 47.00% | ~623 |
+| Editor Adept | 46.00% | ~610 |
+| Exorcist | 46.00% | ~610 |
+| Giant Killer | 44.00% | ~583 |
 | Sensei | 42.00% | ~556 |
-| Firestarter | 41.00% | ~542 |
-| The meaning of Kain | 40.00% | ~529 |
-| Technophobe | 38.00% | ~503 |
+| Firestarter | 41.00% | ~543 |
+| The meaning of Kain | 40.00% | ~530 |
+| Technophobe | 38.00% | ~504 |
 | Recycler | 37.00% | ~490 |
 | Are you not entertained? | 33.00% | ~437 |
 | Jarhead | 33.00% | ~437 |
-| Ganglord | 32.00% | ~423 |
-| Infiltrator | 32.00% | ~423 |
-| Pushing Daisy | 30.00% | ~397 |
+| Ganglord | 32.00% | ~424 |
+| Infiltrator | 32.00% | ~424 |
+| Pushing Daisy | 30.00% | ~398 |
 | Experienced | 29.00% | ~384 |
-| Hold The Line | 28.00% | ~370 |
+| Hold The Line | 28.00% | ~371 |
 | Endgame | 25.00% | ~331 |
 | Savior | 25.00% | ~331 |
 | There Can Be Only One! | 25.00% | ~331 |
-| Chain Killer | 22.00% | ~291 |
+| Chain Killer | 22.00% | ~292 |
 | The Watchers | 20.00% | ~265 |
 | Silent but Violent | 17.00% | ~225 |
 | Commando | 16.00% | ~212 |
 | Newtonian Knockout | 16.00% | ~212 |
-| Chaos Theory | 15.00% | ~198 |
-| Dr Jones | 15.00% | ~198 |
-| Ruthless | 14.00% | ~185 |
+| Chaos Theory | 15.00% | ~199 |
+| Dr Jones | 15.00% | ~199 |
+| Ruthless | 14.00% | ~186 |
 | Side Order | 10.00% | ~132 |
 | Chain Reaction | 9.00% | ~119 |
 | Bot Whisperer | 8.00% | ~106 |
 | Curveball | 8.00% | ~106 |
 | Wipe Out | 7.00% | ~93 |
-| Dressed To Kill | 6.00% | ~79 |
+| Dressed To Kill | 6.00% | ~80 |
 | Master Editor | 4.00% | ~53 |
 | Attenborough | 3.00% | ~40 |
 | Cruelty | 3.00% | ~40 |
@@ -57,7 +57,7 @@ Rating: 4.40 (Ranked 695)
 | QA Has Suffered! (Redux) | 0.80% | ~11 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,323 (Ranked 183)  
+Progressed: 1,325 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 1,304 | 0 |
 | 2023-07-29 | 1,311 | 0 |
 | 2023-07-30 | 1,321 | 0 |
-| 2023-07-31 | 1,323 | 0 |
+| 2023-07-31 | 1,325 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

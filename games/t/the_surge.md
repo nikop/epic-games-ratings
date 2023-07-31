@@ -1,53 +1,53 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.45 (Ranked 627)  
+Rating: 4.45 (Ranked 628)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,276 |
-| I'll Be Back | 85.00% | ~3,867 |
-| Sorry, I Dropped This | 77.00% | ~3,503 |
-| First Day on the Job | 77.00% | ~3,503 |
+| On My Own Two Feet | 94.00% | ~4,277 |
+| I'll Be Back | 85.00% | ~3,868 |
+| Sorry, I Dropped This | 77.00% | ~3,504 |
+| First Day on the Job | 76.00% | ~3,458 |
 | Butcher's Bill | 55.00% | ~2,502 |
-| P.A.X | 37.00% | ~1,683 |
-| Hey Listen | 37.00% | ~1,683 |
+| P.A.X | 37.00% | ~1,684 |
+| Hey Listen | 37.00% | ~1,684 |
 | OPERATOR | 36.00% | ~1,638 |
-| It's Blue Light | 33.00% | ~1,501 |
+| It's Blue Light | 33.00% | ~1,502 |
 | Most Wanted | 26.00% | ~1,183 |
 | Infidel | 23.00% | ~1,046 |
-| GOLIATH | 21.00% | ~955 |
+| GOLIATH | 21.00% | ~956 |
 | Firebug | 20.00% | ~910 |
 | Nothing to Lose | 18.00% | ~819 |
-| I Choose You | 17.00% | ~773 |
+| I Choose You | 17.00% | ~774 |
 | Big Sister | 15.00% | ~682 |
 | Gear Up | 15.00% | ~682 |
 | SENTINEL | 15.00% | ~682 |
-| Core Power | 13.00% | ~591 |
+| Core Power | 13.00% | ~592 |
 | The Black Cerberus | 12.00% | ~546 |
 | Watchman | 12.00% | ~546 |
 | CREO Killed the Video Star | 11.00% | ~500 |
 | Who's in Charge Here? | 11.00% | ~500 |
 | Shall Not Pass | 11.00% | ~500 |
 | Right Tool for the Job | 10.00% | ~455 |
-| Melting Down | 9.00% | ~409 |
-| Raging Drones | 9.00% | ~409 |
-| Overconfident | 9.00% | ~409 |
-| Is This Real Life? | 9.00% | ~409 |
+| Melting Down | 9.00% | ~410 |
+| Raging Drones | 9.00% | ~410 |
+| Overconfident | 9.00% | ~410 |
+| Is This Real Life? | 9.00% | ~410 |
 | Pusher Man | 8.00% | ~364 |
 | Squad Chief Helvig | 8.00% | ~364 |
 | No More Marching | 8.00% | ~364 |
-| Duty-Bound | 7.00% | ~318 |
-| Follow the White Rabbit | 7.00% | ~318 |
-| Liberation | 7.00% | ~318 |
-| Risk Assessment | 7.00% | ~318 |
+| Duty-Bound | 7.00% | ~319 |
+| Follow the White Rabbit | 7.00% | ~319 |
+| Liberation | 7.00% | ~319 |
+| Risk Assessment | 7.00% | ~319 |
 | Sunglasses at Night | 6.00% | ~273 |
 | Carbon Cat | 6.00% | ~273 |
-| It Lives! It Sniffs! It Conquers! | 5.00% | ~227 |
-| Man of Steel | 5.00% | ~227 |
-| Jack of All Trades | 5.00% | ~227 |
-| 3-2-1 | 5.00% | ~227 |
+| It Lives! It Sniffs! It Conquers! | 5.00% | ~228 |
+| Man of Steel | 5.00% | ~228 |
+| Jack of All Trades | 5.00% | ~228 |
+| 3-2-1 | 5.00% | ~228 |
 | Rusty Rat | 4.00% | ~182 |
 | Desecration | 4.00% | ~182 |
 | For the Good of Mankind | 3.00% | ~136 |
@@ -66,7 +66,7 @@ Number of Ratings: 62  (23.09.2022)
 | Episodic | 2.00% | ~91 |
 | End of Transmission | 2.00% | ~91 |
 | Gramophone Enthusiast | 2.00% | ~91 |
-| Bling-Bling | 1.00% | ~45 |
+| Bling-Bling | 1.00% | ~46 |
 | Sniffing Around | 0.70% | ~32 |
 | Modus Operandi | 0.70% | ~32 |
 | Suited and Booted | 0.70% | ~32 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~27 |
 | The Surge | 0.40% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,549 (Ranked 143)  
+Progressed: 4,550 (Ranked 143)  
 Completed: 15 (0.33%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 15 (0.33%) (Ranked 151)
 | 2023-07-28 | 4,535 | 15 |
 | 2023-07-29 | 4,540 | 15 |
 | 2023-07-30 | 4,546 | 15 |
-| 2023-07-31 | 4,549 | 15 |
+| 2023-07-31 | 4,550 | 15 |
 ## Awards
 Max (Great Boss Battles): 27  (Ranked 469)  
 Sum: 27 (Ranked 479)  

@@ -9,19 +9,19 @@ Number of Ratings: 743  (23.09.2022)
 | Shoot it, man! Shoot it in the head! | 69.00% | ~29,791 |
 | Say goodbye, creep! | 66.00% | ~28,496 |
 | Blood splattered | 65.00% | ~28,064 |
-| Choo choo! | 62.00% | ~26,768 |
+| Choo choo! | 62.00% | ~26,769 |
 | Groovy | 61.00% | ~26,337 |
 | Cleanup on aisle 4! | 57.00% | ~24,610 |
 | Gold | 50.00% | ~21,588 |
 | The boat can leave now...tell the crew | 49.00% | ~21,156 |
-| Stand back boy! | 47.00% | ~20,292 |
-| Give me something to shoot! | 46.00% | ~19,860 |
+| Stand back boy! | 47.00% | ~20,293 |
+| Give me something to shoot! | 46.00% | ~19,861 |
 | Weird science | 44.00% | ~18,997 |
 | Chain reaction | 44.00% | ~18,997 |
 | What did you say, Blain? | 42.00% | ~18,134 |
 | Look mummy! A shark! | 41.00% | ~17,702 |
-| In the dark dark woods... | 39.00% | ~16,838 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,406 |
+| In the dark dark woods... | 39.00% | ~16,839 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,407 |
 | Double tap | 37.00% | ~15,975 |
 | All of this has happened before… | 36.00% | ~15,543 |
 | Cranial blowout! | 36.00% | ~15,543 |
@@ -30,14 +30,14 @@ Number of Ratings: 743  (23.09.2022)
 | All roads lead to Rome | 34.00% | ~14,680 |
 | You've got red on you | 34.00% | ~14,680 |
 | You're all going to die down here | 32.00% | ~13,816 |
-| He did Nazi that coming | 31.00% | ~13,384 |
-| Kill of the week | 31.00% | ~13,384 |
-| I never liked them anyway | 30.00% | ~12,952 |
+| He did Nazi that coming | 31.00% | ~13,385 |
+| Kill of the week | 31.00% | ~13,385 |
+| I never liked them anyway | 30.00% | ~12,953 |
 | Is it over? | 28.00% | ~12,089 |
-| Got your back | 27.00% | ~11,657 |
+| Got your back | 27.00% | ~11,658 |
 | Gore soaked | 24.00% | ~10,362 |
+| Shock therapy | 23.00% | ~9,930 |
 | Leave the limbs you've lost | 23.00% | ~9,930 |
-| Shock therapy | 22.00% | ~9,498 |
 | Everyone's a mad scientist, life is the lab | 18.00% | ~7,772 |
 | Take them down screaming | 18.00% | ~7,772 |
 | Bad Blood | 17.00% | ~7,340 |
@@ -55,12 +55,12 @@ Number of Ratings: 743  (23.09.2022)
 | Gotcha, didn't I? | 7.00% | ~3,022 |
 | A gross gross | 7.00% | ~3,022 |
 | Hail to the king, baby! | 7.00% | ~3,022 |
-| Something wicked this way comes | 6.00% | ~2,590 |
-| Not today you won't | 6.00% | ~2,590 |
-| Take a little bit of Italy with you | 6.00% | ~2,590 |
-| Staring at Shadows | 6.00% | ~2,590 |
-| I told you we should have gone to the beach | 6.00% | ~2,590 |
-| Hoarder | 6.00% | ~2,590 |
+| Something wicked this way comes | 6.00% | ~2,591 |
+| Not today you won't | 6.00% | ~2,591 |
+| Take a little bit of Italy with you | 6.00% | ~2,591 |
+| Staring at Shadows | 6.00% | ~2,591 |
+| I told you we should have gone to the beach | 6.00% | ~2,591 |
+| Hoarder | 6.00% | ~2,591 |
 | Kali Ma | 5.00% | ~2,159 |
 | Have you tried turning it off and on again? | 5.00% | ~2,159 |
 | They're coming to get you Barbara | 4.00% | ~1,727 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~432 |
 | None more hard | 0.50% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,175 (Ranked 91)  
+Progressed: 43,176 (Ranked 91)  
 Completed: 25 (0.06%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 25 (0.06%) (Ranked 206)
 | 2023-07-28 | 43,154 | 25 |
 | 2023-07-29 | 43,159 | 25 |
 | 2023-07-30 | 43,171 | 25 |
-| 2023-07-31 | 43,175 | 25 |
+| 2023-07-31 | 43,176 | 25 |
 ## Awards
 Max (Great Boss Battles): 805  (Ranked 152)  
 Sum: 2,456 (Ranked 174)  

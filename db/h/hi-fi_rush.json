@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3650,
+  "EOS_Progressed": 3651,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4972,6 +4972,11 @@
       "Time": "2023-07-31T11:04:43.1473411+00:00",
       "NumProgressed": 3650,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-31T15:04:39.4416932+00:00",
+      "NumProgressed": 3651,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4983,7 +4988,7 @@
       "Name": "Start with a bang!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Ach002",
@@ -5045,9 +5050,9 @@
       "ID": "Ach009",
       "SetID": "12n4k20",
       "Name": "Well that was a rush!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 73
     },
     {
       "ID": "Ach010",
@@ -5167,7 +5172,7 @@
       "Name": "Beat-hit mania",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Ach025",
@@ -5221,9 +5226,9 @@
       "ID": "Ach031",
       "SetID": "12n4k20",
       "Name": "Perfect Parry",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 146
     },
     {
       "ID": "Ach032",
@@ -5247,7 +5252,7 @@
       "Name": "That\u0027s a lot of junk metal\u2026",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Ach035",
@@ -5335,7 +5340,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Ach046",
@@ -5383,7 +5388,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Ach052",
@@ -5550,13 +5555,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3650,
+      "Progressed": 3651,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2171,
+      "Progressed": 2172,
       "Completed": 1928
     }
   ],
@@ -5564,8 +5569,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-31T14:04:46.3910042+00:00",
+  "LastChanged_Achievements": "2023-07-31T15:04:39.4416928+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:25.5055416+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:59:32.6786965+00:00",
-  "LastUpdate_Achievements": "2023-07-31T14:04:46.3911112+00:00"
+  "LastUpdate_Ratings": "2023-07-31T14:59:46.0293751+00:00",
+  "LastUpdate_Achievements": "2023-07-31T15:04:39.441771+00:00"
 }

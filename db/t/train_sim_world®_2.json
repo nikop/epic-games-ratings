@@ -2,13 +2,13 @@
   "ID": "d8d8b399f3d14ac2b9b75870329a68dd",
   "Name": "Train Sim World\u00AE 2",
   "ProductSlug": "train-sim-world-2",
-  "Ranking_Rating": 676,
-  "Ranking_Popularity": 187,
+  "Ranking_Rating": 677,
+  "Ranking_Popularity": 186,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -2636,18 +2636,24 @@
       "Rating": 4.41,
       "NumberOfAwards": 4237,
       "NumberOfAwardsMax": 553
+    },
+    {
+      "Time": "2023-07-31T14:58:18.4097393+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 4238,
+      "NumberOfAwardsMax": 554
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4237,
-  "NumberOfAwardsMax": 553,
+  "NumberOfAwards": 4238,
+  "NumberOfAwardsMax": 554,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 553
+      "Count": 554
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -2721,8 +2727,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
-  "LastChanged": "2023-07-29T02:57:41.5722526+00:00",
+  "LastChanged": "2023-07-31T14:58:18.4097391+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:59.5939695+00:00",
-  "LastUpdate_Ratings": "2023-07-31T13:58:01.6243506+00:00",
-  "LastUpdate_Achievements": "2023-07-31T14:02:02.4847069+00:00"
+  "LastUpdate_Ratings": "2023-07-31T14:58:18.4097396+00:00",
+  "LastUpdate_Achievements": "2023-07-31T15:02:26.8916223+00:00"
 }

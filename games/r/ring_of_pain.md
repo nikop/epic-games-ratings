@@ -6,18 +6,18 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~224,159 |
-| Uncharted Territory | 89.00% | ~207,814 |
-| Getting A Glimpse | 73.00% | ~170,454 |
-| A Quick Escape | 65.00% | ~151,774 |
-| Explorer | 62.00% | ~144,769 |
-| Defeat The Dark | 61.00% | ~142,434 |
-| An Offering | 61.00% | ~142,434 |
-| Colorful Corpse | 58.00% | ~135,429 |
-| That Was Quick | 56.00% | ~130,759 |
-| A Donation | 56.00% | ~130,759 |
-| Goodbye, Frog Friend | 54.00% | ~126,089 |
-| Heavy Hitter | 53.00% | ~123,754 |
+| First Steps | 96.00% | ~224,161 |
+| Uncharted Territory | 89.00% | ~207,816 |
+| Getting A Glimpse | 73.00% | ~170,456 |
+| A Quick Escape | 65.00% | ~151,776 |
+| Explorer | 62.00% | ~144,771 |
+| Defeat The Dark | 61.00% | ~142,436 |
+| An Offering | 61.00% | ~142,436 |
+| Colorful Corpse | 58.00% | ~135,431 |
+| That Was Quick | 56.00% | ~130,761 |
+| A Donation | 56.00% | ~130,761 |
+| Goodbye, Frog Friend | 54.00% | ~126,091 |
+| Heavy Hitter | 53.00% | ~123,756 |
 | Heartless | 46.00% | ~107,410 |
 | Spine Breaker | 46.00% | ~107,410 |
 | Deflection | 45.00% | ~105,075 |
@@ -115,21 +115,21 @@ Number of Ratings: 15,086  (23.09.2022)
 | Tunnel Vision | 1.00% | ~2,335 |
 | Martial Master | 1.00% | ~2,335 |
 | You Call That A Knife? | 1.00% | ~2,335 |
-| Master of Strategy | 0.90% | ~2,101 |
+| Master of Strategy | 0.90% | ~2,102 |
 | Disposal | 0.80% | ~1,868 |
 | Blizzard | 0.80% | ~1,868 |
 | Need An Antidote? | 0.80% | ~1,868 |
 | No Swapsies | 0.80% | ~1,868 |
-| Ignoring Midgame | 0.70% | ~1,634 |
+| Ignoring Midgame | 0.70% | ~1,635 |
 | A Hard Carry | 0.60% | ~1,401 |
 | Only The Best | 0.60% | ~1,401 |
 | Mastermind | 0.60% | ~1,401 |
 | Nudie Run | 0.60% | ~1,401 |
-| Down Under | 0.50% | ~1,167 |
+| Down Under | 0.50% | ~1,168 |
 | Never Too Many Hats | 0.40% | ~934 |
-| Near Death Experience | 0.30% | ~700 |
+| Near Death Experience | 0.30% | ~701 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,499 (Ranked 48)  
+Progressed: 233,501 (Ranked 48)  
 Completed: 255 (0.11%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 255 (0.11%) (Ranked 191)
 | 2023-07-28 | 233,306 | 255 |
 | 2023-07-29 | 233,392 | 255 |
 | 2023-07-30 | 233,459 | 255 |
-| 2023-07-31 | 233,499 | 255 |
+| 2023-07-31 | 233,501 | 255 |
 ## Awards
 Max (Quickly Understood Controls): 1,486  (Ranked 121)  
 Sum: 11,505 (Ranked 75)  

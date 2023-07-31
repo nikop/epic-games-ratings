@@ -25,10 +25,10 @@
 | Pork Chop Express | 17.00% | ~40 |
 | This Is My Boomstick | 16.00% | ~30 |
 | Skin Of Your Teeth | 14.00% | ~33 |
+| Getting Started | 13.00% | ~31 |
 | Eggtraordinary | 13.00% | ~31 |
 | Carrocketeer | 13.00% | ~31 |
 | Oh My Gourd | 13.00% | ~24 |
-| Getting Started | 12.00% | ~29 |
 | Summers Here | 11.00% | ~21 |
 | Fresh Pancake | 10.00% | ~24 |
 | Quit Horsin' Around | 10.00% | ~24 |
@@ -36,7 +36,7 @@
 | Expert Survivor | 9.00% | ~17 |
 | Bring Home The Bacon | 8.00% | ~19 |
 | Quadsparagus | 8.00% | ~15 |
-| Pyromaniac | 6.00% | ~11 |
+| Pyromaniac | 7.00% | ~13 |
 | Chick Magnet | 5.00% | ~12 |
 | I Have The High Ground | 5.00% | ~12 |
 | Early Bird | 5.00% | ~12 |

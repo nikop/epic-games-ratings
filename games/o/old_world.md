@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 295)  
+Rating: 4.65 (Ranked 296)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -80,7 +80,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.30% | ~40 |
 | Mighty | 0.30% | ~40 |
 | Ready | 0.30% | ~40 |
-| Subjugator | 0.30% | ~40 |
 | Victorious | 0.30% | ~40 |
 | Good Difficulty | 0.30% | ~40 |
 | Strong Difficulty | 0.30% | ~40 |
@@ -99,7 +98,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.30% | ~40 |
 | Carthage | 0.30% | ~40 |
 | Power to the People | 0.30% | ~40 |
-| Assyrian Paganism | 0.30% | ~40 |
 | Persian Paganism | 0.30% | ~40 |
 | Building Wonders | 0.30% | ~40 |
 | Economic Reform | 0.30% | ~40 |
@@ -121,6 +119,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.20% | ~26 |
 | Old | 0.20% | ~26 |
 | Peacemaker | 0.20% | ~26 |
+| Subjugator | 0.20% | ~26 |
 | Noble Difficulty | 0.20% | ~26 |
 | Clerics | 0.20% | ~26 |
 | Hunters | 0.20% | ~26 |
@@ -130,6 +129,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.20% | ~26 |
 | Rome | 0.20% | ~26 |
 | One True Faith | 0.20% | ~26 |
+| Assyrian Paganism | 0.20% | ~26 |
 | Industrial Progress | 0.20% | ~26 |
 | Military Prestige | 0.20% | ~26 |
 | Enlightenment | 0.20% | ~26 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,199 (Ranked 117)  
+Progressed: 13,201 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 5 (0.04%) (Ranked 216)
 | 2023-07-28 | 13,145 | 5 |
 | 2023-07-29 | 13,164 | 5 |
 | 2023-07-30 | 13,191 | 5 |
-| 2023-07-31 | 13,199 | 5 |
+| 2023-07-31 | 13,201 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

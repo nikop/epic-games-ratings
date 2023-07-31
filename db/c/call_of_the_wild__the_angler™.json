@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -592,9 +592,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4802,
+  "EOS_Progressed": 4803,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5072,6 +5072,11 @@
       "Time": "2023-07-31T14:04:36.1819527+00:00",
       "NumProgressed": 4802,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T15:04:29.2096492+00:00",
+      "NumProgressed": 4803,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -5091,7 +5096,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 2449
+      "UsersEstimate": 2450
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -5099,7 +5104,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -5123,7 +5128,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 2737
+      "UsersEstimate": 2738
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -5139,7 +5144,7 @@
       "Name": "Scaling up",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2402
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -5195,7 +5200,7 @@
       "Name": "Going for Gold",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -5243,7 +5248,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -5323,7 +5328,7 @@
       "Name": "Rod and Troll",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_033",
@@ -5362,13 +5367,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4802,
+      "Progressed": 4803,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4174,
+      "Progressed": 4175,
       "Completed": 112
     }
   ],
@@ -5376,8 +5381,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-07-23T14:00:03.1904316+00:00",
-  "LastChanged_Achievements": "2023-07-31T14:04:36.1819521+00:00",
+  "LastChanged_Achievements": "2023-07-31T15:04:29.2096486+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:37.5536525+00:00",
-  "LastUpdate_Ratings": "2023-07-31T14:01:09.0294742+00:00",
-  "LastUpdate_Achievements": "2023-07-31T14:04:36.1820107+00:00"
+  "LastUpdate_Ratings": "2023-07-31T15:01:25.169934+00:00",
+  "LastUpdate_Achievements": "2023-07-31T15:04:29.2096953+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -920,7 +920,7 @@
       "Count": 122
     }
   ],
-  "EOS_Progressed": 8058,
+  "EOS_Progressed": 8059,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -4040,6 +4040,11 @@
       "Time": "2023-07-31T14:05:56.5473269+00:00",
       "NumProgressed": 8058,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-31T15:05:49.2515306+00:00",
+      "NumProgressed": 8059,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -4051,7 +4056,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1853
+      "UsersEstimate": 1854
     },
     {
       "ID": "Chatterbox",
@@ -4099,7 +4104,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -4139,7 +4144,7 @@
       "Name": "The Hero Killer",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "LeoniasFall",
@@ -4147,7 +4152,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "LeoniasFall_2",
@@ -4155,7 +4160,7 @@
       "Name": "The Levitator",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "Manners",
@@ -4163,7 +4168,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "RookieWelcome",
@@ -4211,7 +4216,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7494
+      "UsersEstimate": 7495
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4235,22 +4240,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6769
+      "UsersEstimate": 6770
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8058,
+      "Progressed": 8059,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-30T01:56:13.7308805+00:00",
-  "LastChanged_Achievements": "2023-07-31T14:05:56.5473263+00:00",
+  "LastChanged_Achievements": "2023-07-31T15:05:49.2515302+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:57.8506775+00:00",
-  "LastUpdate_Ratings": "2023-07-31T14:00:11.5414215+00:00",
-  "LastUpdate_Achievements": "2023-07-31T14:05:56.5473601+00:00"
+  "LastUpdate_Ratings": "2023-07-31T15:00:26.8602357+00:00",
+  "LastUpdate_Achievements": "2023-07-31T15:05:49.2515591+00:00"
 }
