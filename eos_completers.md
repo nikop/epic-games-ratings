@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.22% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 45.95% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.27% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.48% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
@@ -12,9 +12,9 @@
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
 | 12 | [Island Cities](games/i/island_cities.md) | 18.65% |
-| 13 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 15.38% |
-| 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 14.29% |
-| 14 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
+| 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 15.58% |
+| 14 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 15.38% |
+| 15 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 17 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.12% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
@@ -28,7 +28,7 @@
 | 26 | [Sonic Origins](games/s/sonic_origins.md) | 10.31% |
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.97% |
-| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.94% |
+| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.86% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.00% |
 | 32 | [Smelter](games/s/smelter.md) | 7.89% |
@@ -56,7 +56,7 @@
 | 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.98% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.79% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.64% |
-| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.57% |
+| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.54% |
 | 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.49% |
 | 60 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
@@ -79,7 +79,7 @@
 | 77 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.42% |
 | 79 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.39% |
-| 80 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.32% |
+| 80 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.33% |
 | 81 | [FORECLOSED](games/f/foreclosed.md) | 2.27% |
 | 82 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
 | 83 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
@@ -95,7 +95,7 @@
 | 93 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.62% |
 | 93 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.62% |
 | 95 | [Somerville](games/s/somerville.md) | 1.61% |
-| 96 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.52% |
+| 96 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.51% |
 | 97 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 98 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
 | 99 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.48% |
@@ -213,13 +213,13 @@
 | 211 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 211 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 211 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.05% |
+| 211 | [High On Life](games/h/high_on_life.md) | 0.05% |
 | 211 | [House Party](games/h/house_party.md) | 0.05% |
 | 211 | [Saints Row](games/s/saints_row.md) | 0.05% |
-| 216 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
-| 216 | [High On Life](games/h/high_on_life.md) | 0.04% |
-| 216 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
-| 216 | [Old World](games/o/old_world.md) | 0.04% |
-| 216 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
+| 217 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 217 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
+| 217 | [Old World](games/o/old_world.md) | 0.04% |
+| 217 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
 | 221 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
 | 221 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.03% |
 | 221 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
