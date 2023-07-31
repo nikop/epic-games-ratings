@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 44.44% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.27% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.71% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.48% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -11,14 +11,14 @@
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.25% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 12 | [Island Cities](games/i/island_cities.md) | 18.50% |
+| 12 | [Island Cities](games/i/island_cities.md) | 18.74% |
 | 13 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 15.38% |
 | 14 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 16 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 13.33% |
 | 17 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.12% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
-| 19 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 11.54% |
+| 19 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 11.32% |
 | 20 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.91% |
@@ -27,7 +27,7 @@
 | 25 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
 | 26 | [Sonic Origins](games/s/sonic_origins.md) | 10.31% |
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.05% |
+| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.01% |
 | 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.00% |
@@ -37,8 +37,8 @@
 | 35 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.94% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
-| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.41% |
-| 39 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.38% |
+| 38 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.38% |
+| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.38% |
 | 40 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.37% |
 | 41 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 42 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.88% |
@@ -70,7 +70,7 @@
 | 67 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.90% |
 | 67 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.90% |
 | 70 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.86% |
-| 71 | [Destiny 2](games/d/destiny_2.md) | 2.77% |
+| 71 | [Destiny 2](games/d/destiny_2.md) | 2.76% |
 | 72 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 73 | [The Bunker](games/t/the_bunker.md) | 2.70% |
 | 74 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.63% |
@@ -152,11 +152,11 @@
 | 150 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.36% |
 | 151 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
 | 151 | [The Surge](games/t/the_surge.md) | 0.33% |
+| 153 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.32% |
 | 153 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
-| 154 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
-| 154 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 154 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
-| 154 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 155 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 155 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
+| 155 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 158 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 158 | [Scrapnaut](games/s/scrapnaut.md) | 0.30% |
 | 160 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
