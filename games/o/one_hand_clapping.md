@@ -10,8 +10,8 @@
 | Cadenza | 2.00% | ~16 |
 | Staccato | 2.00% | ~16 |
 | Maestro Mountain | 2.00% | ~16 |
+| Tempo | 1.00% | ~8 |
 | Fugue Forest | 1.00% | ~8 |
-| Tempo | 0.90% | ~7 |
 | Cadence | 0.80% | ~6 |
 | Coda Cave Glyph | 0.60% | ~5 |
 | Coda Cave | 0.60% | ~5 |

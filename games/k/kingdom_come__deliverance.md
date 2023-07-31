@@ -7,27 +7,27 @@ Number of Ratings: 9,133  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 31.00% | ~246,466 |
-| Cavalier | 25.00% | ~198,762 |
+| Cavalier | 25.00% | ~198,763 |
 | Fatso | 23.00% | ~182,862 |
-| Awakening | 21.00% | ~166,960 |
-| Ranger | 20.00% | ~159,010 |
-| Scrooge | 20.00% | ~159,010 |
+| Awakening | 21.00% | ~166,961 |
+| Ranger | 20.00% | ~159,011 |
+| Scrooge | 20.00% | ~159,011 |
 | Anorectic | 16.00% | ~127,208 |
 | Firestarter | 15.00% | ~119,258 |
 | Bookworm | 14.00% | ~111,307 |
-| Insomniac | 13.00% | ~103,356 |
+| Insomniac | 13.00% | ~103,357 |
 | Buddy | 12.00% | ~95,406 |
 | Thief | 12.00% | ~95,406 |
 | Sinner | 11.00% | ~87,456 |
 | Convict | 10.00% | ~79,505 |
 | Traveller | 10.00% | ~79,505 |
-| Haggler | 9.00% | ~71,554 |
+| Haggler | 9.00% | ~71,555 |
 | McLovin | 7.00% | ~55,654 |
 | Runt | 7.00% | ~55,654 |
 | Casanova | 6.00% | ~47,703 |
-| Bad Trip | 5.00% | ~39,752 |
-| Monk | 5.00% | ~39,752 |
-| Serial Killer | 5.00% | ~39,752 |
+| Bad Trip | 5.00% | ~39,753 |
+| Monk | 5.00% | ~39,753 |
+| Serial Killer | 5.00% | ~39,753 |
 | Bastard | 4.00% | ~31,802 |
 | Hunter | 4.00% | ~31,802 |
 | Plague Doctor | 4.00% | ~31,802 |
@@ -44,13 +44,13 @@ Number of Ratings: 9,133  (23.09.2022)
 | Robber Baron | 2.00% | ~15,901 |
 | Talmberger | 2.00% | ~15,901 |
 | The End | 2.00% | ~15,901 |
-| Woman's Lot | 1.00% | ~7,950 |
-| Chivalrous Soul | 1.00% | ~7,950 |
-| Spoilsport | 1.00% | ~7,950 |
-| Freud | 1.00% | ~7,950 |
-| Gambler | 1.00% | ~7,950 |
-| Master Huntsman | 1.00% | ~7,950 |
-| Stealth Killer | 1.00% | ~7,950 |
+| Woman's Lot | 1.00% | ~7,951 |
+| Chivalrous Soul | 1.00% | ~7,951 |
+| Spoilsport | 1.00% | ~7,951 |
+| Freud | 1.00% | ~7,951 |
+| Gambler | 1.00% | ~7,951 |
+| Master Huntsman | 1.00% | ~7,951 |
+| Stealth Killer | 1.00% | ~7,951 |
 | Bailiff | 0.90% | ~7,155 |
 | Tracker | 0.80% | ~6,360 |
 | David Horak | 0.70% | ~5,565 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~795 |
 | Wingman | 0.10% | ~795 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 795,050 (Ranked 15)  
+Progressed: 795,053 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 44 (0.01%) (Ranked 233)
 | 2023-07-28 | 794,631 | 44 |
 | 2023-07-29 | 794,790 | 44 |
 | 2023-07-30 | 794,966 | 44 |
-| 2023-07-31 | 795,050 | 44 |
+| 2023-07-31 | 795,053 | 44 |
 ## Awards
 Max (Character Customization): 7,350  (Ranked 46)  
 Sum: 27,402 (Ranked 45)  

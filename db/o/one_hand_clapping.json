@@ -381,9 +381,9 @@
       "ID": "20",
       "SetID": "7l2nmpm",
       "Name": "Tempo",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "21",
@@ -518,8 +518,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2023-07-31T15:02:19.8705244+00:00",
+  "LastChanged_Achievements": "2023-07-31T16:02:14.0792581+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:24.8644656+00:00",
-  "LastUpdate_Ratings": "2023-07-31T15:01:12.1512868+00:00",
-  "LastUpdate_Achievements": "2023-07-31T15:02:19.8705567+00:00"
+  "LastUpdate_Ratings": "2023-07-31T16:01:13.0281598+00:00",
+  "LastUpdate_Achievements": "2023-07-31T16:02:14.0793024+00:00"
 }

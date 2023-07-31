@@ -5416,9 +5416,9 @@
       "Count": 3330
     }
   ],
-  "EOS_Progressed": 217399,
+  "EOS_Progressed": 217406,
   "EOS_Completed": 2139,
-  "EOS_NewPlayers": 2308,
+  "EOS_NewPlayers": 2298,
   "EOS_NewCompleters": 79,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16396,6 +16396,11 @@
       "Time": "2023-07-31T15:04:27.2311038+00:00",
       "NumProgressed": 217399,
       "NumCompleted": 2139
+    },
+    {
+      "Time": "2023-07-31T16:04:43.1014397+00:00",
+      "NumProgressed": 217406,
+      "NumCompleted": 2139
     }
   ],
   "TotalAchievements": 512,
@@ -17637,9 +17642,9 @@
       "ID": "objective_completed_17",
       "SetID": "cc37lbc",
       "Name": "March of the Undead",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 1087
     },
     {
       "ID": "objective_completed_170",
@@ -19621,9 +19626,9 @@
       "ID": "objective_completed_8",
       "SetID": "cc37lbc",
       "Name": "Friendly Imps",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 652
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_80",
@@ -20502,21 +20507,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183673,
+      "Progressed": 183680,
       "Completed": 3039
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217399,
+      "Progressed": 217406,
       "Completed": 2139
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-31T07:58:28.9560959+00:00",
-  "LastChanged_Achievements": "2023-07-31T15:04:27.2311033+00:00",
+  "LastChanged_Achievements": "2023-07-31T16:04:43.101439+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-31T14:59:14.674484+00:00",
-  "LastUpdate_Achievements": "2023-07-31T15:04:27.2334955+00:00"
+  "LastUpdate_Ratings": "2023-07-31T15:59:16.5239424+00:00",
+  "LastUpdate_Achievements": "2023-07-31T16:04:43.1047792+00:00"
 }

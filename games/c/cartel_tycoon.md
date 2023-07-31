@@ -12,11 +12,11 @@ Number of Ratings: 101  (23.09.2022)
 | Camellos | 57.00% | ~274 |
 | Bad Trip | 48.00% | ~230 |
 | Didn't Miss A Single One | 46.00% | ~221 |
-| Spread | 41.00% | ~197 |
+| Spread | 42.00% | ~202 |
 | That was base | 40.00% | ~192 |
 | Safe Pair of Hands | 36.00% | ~173 |
 | Don't Let Mom Know You're A Druglord | 31.00% | ~149 |
-| Architect of Fortunes | 25.00% | ~120 |
+| Architect of Fortunes | 26.00% | ~125 |
 | Pampered Life | 25.00% | ~120 |
 | Bite the Blow | 24.00% | ~115 |
 | Spreading Fear | 10.00% | ~48 |
@@ -26,7 +26,7 @@ Number of Ratings: 101  (23.09.2022)
 | Iron Lady | 0.60% | ~3 |
 | Sense Of Style | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 480 (Ranked 223)  
+Progressed: 480 (Ranked 224)  
 Completed: 2 (0.42%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |

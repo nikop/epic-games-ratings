@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1345,
+  "EOS_Progressed": 1346,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1261,6 +1261,11 @@
       "Time": "2023-07-31T13:17:29.5681779+00:00",
       "NumProgressed": 1345,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-31T16:06:20.1985923+00:00",
+      "NumProgressed": 1346,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1288,7 +1293,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1488,7 +1493,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "completedStory_cvawn",
@@ -1566,9 +1571,9 @@
       "ID": "ecthis_all5PlotCharacters",
       "SetID": "95dc8p",
       "Name": "All My Birds, Safely Home",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 67
     },
     {
       "ID": "enduringWar_destroyCores",
@@ -1719,15 +1724,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1345,
+      "Progressed": 1346,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-31T15:06:23.9764416+00:00",
+  "LastChanged_Achievements": "2023-07-31T16:06:20.1985915+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:31.6406597+00:00",
-  "LastUpdate_Ratings": "2023-07-31T14:57:19.2007865+00:00",
-  "LastUpdate_Achievements": "2023-07-31T15:06:23.9764862+00:00"
+  "LastUpdate_Ratings": "2023-07-31T15:57:14.3938452+00:00",
+  "LastUpdate_Achievements": "2023-07-31T16:06:20.19869+00:00"
 }

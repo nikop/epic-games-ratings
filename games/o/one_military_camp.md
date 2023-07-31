@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| First Step | 52.00% | ~59 |
 | The 4 Pillars | 51.00% | ~58 |
-| First Step | 51.00% | ~58 |
 | Capitalism | 13.00% | ~15 |
-| Indebted | 11.00% | ~12 |
+| Indebted | 11.00% | ~13 |
 | Desert Rat | 9.00% | ~10 |
 | Green Energy | 7.00% | ~8 |
 | Good payer | 6.00% | ~7 |
@@ -49,7 +49,7 @@
 | Against Adversity | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113 (Ranked 309)  
+Progressed: 114 (Ranked 307)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,4 +65,4 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 105 | 0 |
 | 2023-07-29 | 110 | 0 |
 | 2023-07-30 | 111 | 0 |
-| 2023-07-31 | 113 | 0 |
+| 2023-07-31 | 114 | 0 |

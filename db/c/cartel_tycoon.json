@@ -5,9 +5,9 @@
   "Ranking_Rating": 744,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
-  "Ranking_EOS_Progress": 223,
+  "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -1295,9 +1295,9 @@
       "ID": "custom-sandbox",
       "SetID": "bed33dd",
       "Name": "Architect of Fortunes",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 125
     },
     {
       "ID": "dont-miss-calls",
@@ -1391,9 +1391,9 @@
       "ID": "sell-variety",
       "SetID": "bed33dd",
       "Name": "Spread",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 197
+      "UsersEstimate": 202
     },
     {
       "ID": "send-smuggling",
@@ -1439,8 +1439,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-07-31T15:07:48.8417154+00:00",
+  "LastChanged_Achievements": "2023-07-31T16:07:46.0144415+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:06.1742041+00:00",
-  "LastUpdate_Ratings": "2023-07-31T15:01:55.8961089+00:00",
-  "LastUpdate_Achievements": "2023-07-31T15:07:48.841732+00:00"
+  "LastUpdate_Ratings": "2023-07-31T16:01:49.9580402+00:00",
+  "LastUpdate_Achievements": "2023-07-31T16:07:46.0144762+00:00"
 }

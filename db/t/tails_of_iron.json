@@ -227,7 +227,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1826,
+  "EOS_Progressed": 1827,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -2262,6 +2262,11 @@
       "Time": "2023-07-31T15:03:52.3264757+00:00",
       "NumProgressed": 1826,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-31T16:03:46.5539835+00:00",
+      "NumProgressed": 1827,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2289,7 +2294,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "Collect50MonsterParts",
@@ -2297,7 +2302,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "CollectAllStatues",
@@ -2319,9 +2324,9 @@
       "ID": "CompleteAll",
       "SetID": "9lj35g4",
       "Name": "King of Kings",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 146
+      "UsersEstimate": 128
     },
     {
       "ID": "CompleteArenaFaction",
@@ -2345,7 +2350,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "CompleteGuardFaction",
@@ -2353,7 +2358,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2361,7 +2366,7 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "CompleteStoryDM",
@@ -2409,7 +2414,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "GetRangedWeapon",
@@ -2441,7 +2446,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "Kill25Mozi",
@@ -2497,7 +2502,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "ReturnPowerInMines",
@@ -2512,22 +2517,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1826,
+      "Progressed": 1827,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 467,
-      "Completed": 467
+      "Progressed": 468,
+      "Completed": 468
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-30T07:58:33.6633976+00:00",
-  "LastChanged_Achievements": "2023-07-31T15:03:52.3264754+00:00",
+  "LastChanged_Achievements": "2023-07-31T16:03:46.5539826+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.5556081+00:00",
-  "LastUpdate_Ratings": "2023-07-31T14:59:27.7304172+00:00",
-  "LastUpdate_Achievements": "2023-07-31T15:03:52.3265028+00:00"
+  "LastUpdate_Ratings": "2023-07-31T15:59:28.7005401+00:00",
+  "LastUpdate_Achievements": "2023-07-31T16:03:46.5540222+00:00"
 }

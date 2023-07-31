@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -461,9 +461,9 @@
       "ID": "ACH_014",
       "SetID": "72imik0",
       "Name": "Order and Method",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_015",
@@ -661,9 +661,9 @@
       "ID": "ACH_037",
       "SetID": "72imik0",
       "Name": "Florette Duval",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_038",
@@ -798,8 +798,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-07-31T15:04:43.8198562+00:00",
+  "LastChanged_Achievements": "2023-07-31T16:04:59.6600228+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:38.4741922+00:00",
-  "LastUpdate_Ratings": "2023-07-31T14:58:47.7124287+00:00",
-  "LastUpdate_Achievements": "2023-07-31T15:04:43.8198896+00:00"
+  "LastUpdate_Ratings": "2023-07-31T15:58:44.4784169+00:00",
+  "LastUpdate_Achievements": "2023-07-31T16:04:59.6600969+00:00"
 }

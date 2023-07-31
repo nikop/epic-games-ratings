@@ -6,7 +6,6 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That'll Leave a Mark | 3.00% | ~14 |
 | Death Becomes You | 2.00% | ~10 |
 | Debuff Dogpile | 2.00% | ~10 |
 | Faceroll the Bones | 2.00% | ~10 |
@@ -18,6 +17,7 @@ Number of Ratings: 285  (23.09.2022)
 | On this Episode! | 2.00% | ~10 |
 | Perk Shard Punch Card | 2.00% | ~10 |
 | Season Finale | 2.00% | ~10 |
+| That'll Leave a Mark | 2.00% | ~10 |
 | Cold-Blooded Critters | 1.00% | ~5 |
 | Deadication | 1.00% | ~5 |
 | The Harder They Fall | 1.00% | ~5 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 480 (Ranked 223)  
+Progressed: 481 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,7 +46,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 412 | 0 |
 | 2023-07-29 | 446 | 0 |
 | 2023-07-30 | 474 | 0 |
-| 2023-07-31 | 480 | 0 |
+| 2023-07-31 | 481 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 451)  
 Sum: 226 (Ranked 353)  

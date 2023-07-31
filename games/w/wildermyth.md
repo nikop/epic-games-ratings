@@ -7,7 +7,7 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 38.00% | ~511 |
-| Me and My Familiar | 36.00% | ~484 |
+| Me and My Familiar | 36.00% | ~485 |
 | This Too Shall Pass | 30.00% | ~404 |
 | Passing Shadow | 29.00% | ~390 |
 | Cutthroat Competitors | 29.00% | ~390 |
@@ -19,7 +19,7 @@ Number of Ratings: 45  (23.09.2022)
 | A Mythic Menagerie | 13.00% | ~175 |
 | Who's Counting? | 13.00% | ~175 |
 | Core Failure | 13.00% | ~175 |
-| Pyrrhic Victory | 10.00% | ~134 |
+| Pyrrhic Victory | 10.00% | ~135 |
 | Thematic Divergence | 9.00% | ~121 |
 | Echoes Die | 9.00% | ~121 |
 | Chain Reaction | 8.00% | ~108 |
@@ -28,11 +28,11 @@ Number of Ratings: 45  (23.09.2022)
 | Plague Doctor | 7.00% | ~94 |
 | Another Tale to Tell | 7.00% | ~94 |
 | A Story of Heroes | 7.00% | ~94 |
-| All My Birds, Safely Home | 6.00% | ~81 |
 | Legends Never Die | 5.00% | ~67 |
 | In Soil, In Smoke | 5.00% | ~67 |
 | A Hunger, Sated | 5.00% | ~67 |
 | Wingknight's Prowess | 5.00% | ~67 |
+| All My Birds, Safely Home | 5.00% | ~67 |
 | Turncoat | 5.00% | ~67 |
 | Worldwalker | 4.00% | ~54 |
 | Grillmaster | 4.00% | ~54 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.80% | ~11 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,345 (Ranked 182)  
+Progressed: 1,346 (Ranked 182)  
 Completed: 5 (0.37%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 5 (0.37%) (Ranked 148)
 | 2023-07-27 | 1,341 | 5 |
 | 2023-07-29 | 1,343 | 5 |
 | 2023-07-30 | 1,344 | 5 |
-| 2023-07-31 | 1,345 | 5 |
+| 2023-07-31 | 1,346 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 464)  
 Sum: 28 (Ranked 476)  

@@ -13,15 +13,15 @@ Rating: 4.48 (Ranked 589)
 | Mystery Tour | 68.00% | ~1,176 |
 | We brake for nobody | 67.00% | ~1,158 |
 | Brainstorm | 65.00% | ~1,124 |
+| Travel Company | 65.00% | ~1,124 |
 | Mind the Gap | 64.00% | ~1,107 |
-| Travel Company | 64.00% | ~1,107 |
-| All around the World | 61.00% | ~1,055 |
+| All around the World | 62.00% | ~1,072 |
 | Right through the middle | 57.00% | ~986 |
 | Facility Manager | 53.00% | ~916 |
 | Poor Devil | 53.00% | ~916 |
 | Producer | 49.00% | ~847 |
 | Apprentice | 42.00% | ~726 |
-| Bridge Builder | 40.00% | ~692 |
+| Bridge Builder | 41.00% | ~709 |
 | Access granted | 34.00% | ~588 |
 | Going once, going twice, sold | 34.00% | ~588 |
 | Bull and bear | 33.00% | ~571 |

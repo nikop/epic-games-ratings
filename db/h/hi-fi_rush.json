@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3651,
+  "EOS_Progressed": 3652,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4977,6 +4977,11 @@
       "Time": "2023-07-31T15:04:39.4416932+00:00",
       "NumProgressed": 3651,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-31T16:04:54.8006729+00:00",
+      "NumProgressed": 3652,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4986,9 +4991,9 @@
       "ID": "Ach001",
       "SetID": "12n4k20",
       "Name": "Start with a bang!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 219
     },
     {
       "ID": "Ach002",
@@ -5555,13 +5560,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3651,
+      "Progressed": 3652,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2172,
+      "Progressed": 2173,
       "Completed": 1928
     }
   ],
@@ -5569,8 +5574,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-31T15:04:39.4416928+00:00",
+  "LastChanged_Achievements": "2023-07-31T16:04:54.8006721+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:25.5055416+00:00",
-  "LastUpdate_Ratings": "2023-07-31T14:59:46.0293751+00:00",
-  "LastUpdate_Achievements": "2023-07-31T15:04:39.441771+00:00"
+  "LastUpdate_Ratings": "2023-07-31T15:59:45.7552085+00:00",
+  "LastUpdate_Achievements": "2023-07-31T16:04:54.8008661+00:00"
 }

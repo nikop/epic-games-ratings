@@ -14,7 +14,7 @@
 | I like my life | 19.00% | ~56 |
 | Soviet town | 19.00% | ~56 |
 | Clean energy | 17.00% | ~50 |
-| Bucolic city | 14.00% | ~41 |
+| Bucolic city | 15.00% | ~44 |
 | King of fish | 8.00% | ~24 |
 | I love parks | 8.00% | ~24 |
 | I love books! | 7.00% | ~21 |

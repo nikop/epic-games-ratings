@@ -6,22 +6,22 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 79.00% | ~1,076 |
-| Lovebirds | 50.00% | ~681 |
+| Balding bloot! | 79.00% | ~1,077 |
+| Lovebirds | 50.00% | ~682 |
 | Life’s short, ride long | 45.00% | ~613 |
-| Hug therapy | 44.00% | ~599 |
-| Over my dead body | 41.00% | ~558 |
+| Hug therapy | 44.00% | ~600 |
+| Over my dead body | 40.00% | ~545 |
 | Shake the rust off their feet | 21.00% | ~286 |
-| My little pony | 20.00% | ~272 |
+| My little pony | 20.00% | ~273 |
 | Strike! | 19.00% | ~259 |
-| A love supreme | 19.00% | ~259 |
+| A love supreme | 18.00% | ~245 |
 | In my shoes | 17.00% | ~232 |
 | Like new! | 15.00% | ~204 |
 | Head in the clouds | 14.00% | ~191 |
 | Heartstrings | 13.00% | ~177 |
-| Back to rust | 12.00% | ~163 |
-| Flower Powered | 12.00% | ~163 |
-| Don't look back | 12.00% | ~163 |
+| Back to rust | 12.00% | ~164 |
+| Flower Powered | 12.00% | ~164 |
+| Don't look back | 12.00% | ~164 |
 | Perfect timing | 10.00% | ~136 |
 | Unstoppable | 10.00% | ~136 |
 | Self-sustainability | 8.00% | ~109 |
@@ -29,15 +29,15 @@ Number of Ratings: 38  (23.09.2022)
 | Can't get wetter... | 5.00% | ~68 |
 | Spring cleaning | 5.00% | ~68 |
 | An eye for an eye | 5.00% | ~68 |
-| Second thoughts | 4.00% | ~54 |
-| Mooning the moon | 4.00% | ~54 |
-| Strip-a-bobble | 4.00% | ~54 |
+| Second thoughts | 4.00% | ~55 |
+| Mooning the moon | 4.00% | ~55 |
+| Strip-a-bobble | 4.00% | ~55 |
 | Pearls before Birble | 3.00% | ~41 |
 | Last minute | 3.00% | ~41 |
 | Thar she blows | 2.00% | ~27 |
 | À la carte | 2.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,362 (Ranked 180)  
+Progressed: 1,363 (Ranked 180)  
 Completed: 9 (0.66%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 9 (0.66%) (Ranked 121)
 | 2023-07-28 | 1,353 | 9 |
 | 2023-07-29 | 1,358 | 9 |
 | 2023-07-30 | 1,360 | 9 |
-| 2023-07-31 | 1,362 | 9 |
+| 2023-07-31 | 1,363 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

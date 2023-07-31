@@ -21,9 +21,9 @@
 | Hello, world! | 67.00% | ~131 |
 | Fighting is cool | 64.00% | ~125 |
 | Pal of your father? | 62.00% | ~122 |
+| Employee of the month | 61.00% | ~120 |
 | Spirit of the past | 60.00% | ~118 |
-| Employee of the month | 60.00% | ~118 |
-| Law student | 58.00% | ~114 |
+| Law student | 59.00% | ~116 |
 | Intriguing candies | 57.00% | ~112 |
 | Workout professional | 55.00% | ~108 |
 | Champion – starter pack | 55.00% | ~108 |
@@ -55,9 +55,9 @@
 | Undercover robot | 30.00% | ~59 |
 | Gang wrangler | 29.00% | ~57 |
 | Problems of cyborgs | 29.00% | ~57 |
+| Not little hacker | 29.00% | ~57 |
 | Absolute Champion! | 29.00% | ~57 |
 | The last bell ring | 29.00% | ~57 |
-| Not little hacker | 28.00% | ~55 |
 | Careerist | 28.00% | ~55 |
 | Trap disarmed | 27.00% | ~53 |
 | Anyone can resist | 27.00% | ~53 |
@@ -71,7 +71,7 @@
 | Better cooking at home | 23.00% | ~45 |
 | The only right decision | 23.00% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 196 (Ranked 282)  
+Progressed: 196 (Ranked 283)  
 Completed: 7 (3.57%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |

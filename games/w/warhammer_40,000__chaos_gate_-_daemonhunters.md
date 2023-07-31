@@ -19,15 +19,16 @@ Number of Ratings: 371  (23.09.2022)
 | A Foul Creche | 0.70% | ~22 |
 | Honoured Battle-Brother | 0.60% | ~19 |
 | The Emperor Protects | 0.50% | ~15 |
+| Execution Force | 0.50% | ~15 |
 | Hold Your Ground | 0.40% | ~12 |
 | Nemesis Master | 0.40% | ~12 |
-| Execution Force | 0.40% | ~12 |
 | Gunmaster | 0.30% | ~9 |
 | Just a Scratch | 0.30% | ~9 |
 | Long Distance Call | 0.30% | ~9 |
 | Hive Exterminator | 0.30% | ~9 |
 | Daemonkeeper | 0.20% | ~6 |
 | Corruption Cleanser | 0.20% | ~6 |
+| Exterminator | 0.20% | ~6 |
 | Mind Like a Fortress | 0.20% | ~6 |
 | Efficient Killer | 0.20% | ~6 |
 | Only in Death | 0.20% | ~6 |
@@ -39,7 +40,6 @@ Number of Ratings: 371  (23.09.2022)
 | Fleetmaster | 0.10% | ~3 |
 | Unstable Immaterium | 0.10% | ~3 |
 | Strike Force | 0.10% | ~3 |
-| Exterminator | 0.10% | ~3 |
 | Opportunist | 0.10% | ~3 |
 | Hands-On Research | 0.10% | ~3 |
 | Warp Flickers | 0.10% | ~3 |

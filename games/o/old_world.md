@@ -7,6 +7,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Clergy | 3.00% | ~396 |
+| Able | 1.00% | ~132 |
 | Explorer | 1.00% | ~132 |
 | Intrepid | 1.00% | ~132 |
 | Settler | 1.00% | ~132 |
@@ -14,18 +15,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 1.00% | ~132 |
 | The Great Mage | 1.00% | ~132 |
 | Poetic Leader | 1.00% | ~132 |
-| Able | 0.90% | ~119 |
 | Architect | 0.90% | ~119 |
 | Mason | 0.90% | ~119 |
 | Pioneer | 0.90% | ~119 |
 | Strong | 0.90% | ~119 |
 | Hanging Gardens | 0.90% | ~119 |
+| Oracle | 0.90% | ~119 |
 | Enlightened | 0.80% | ~106 |
 | Good | 0.80% | ~106 |
 | Just | 0.80% | ~106 |
 | Learned | 0.80% | ~106 |
 | Noble | 0.80% | ~106 |
-| Oracle | 0.80% | ~106 |
 | Judaism | 0.80% | ~106 |
 | Naming Landmarks | 0.80% | ~106 |
 | Trade Caravan | 0.80% | ~106 |
@@ -45,6 +45,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 0.60% | ~79 |
 | Strong Cities | 0.60% | ~79 |
 | Able Difficulty | 0.60% | ~79 |
+| Great Ziggurat | 0.60% | ~79 |
 | Ishtar Gate | 0.60% | ~79 |
 | Learn to Play 1 | 0.60% | ~79 |
 | Carthaginian Paganism | 0.60% | ~79 |
@@ -56,7 +57,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.50% | ~66 |
 | Furious Family | 0.50% | ~66 |
 | Colossus | 0.50% | ~66 |
-| Great Ziggurat | 0.50% | ~66 |
 | Musaeum | 0.50% | ~66 |
 | Necropolis | 0.50% | ~66 |
 | Learn to Play 2 | 0.50% | ~66 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,201 (Ranked 117)  
+Progressed: 13,202 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 5 (0.04%) (Ranked 216)
 | 2023-07-28 | 13,145 | 5 |
 | 2023-07-29 | 13,164 | 5 |
 | 2023-07-30 | 13,191 | 5 |
-| 2023-07-31 | 13,201 | 5 |
+| 2023-07-31 | 13,202 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

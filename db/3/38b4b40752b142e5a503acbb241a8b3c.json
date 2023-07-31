@@ -11,12 +11,13 @@
     "PcReleaseDate": "2023-07-31T15:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {
-      "com.epicgames.app.blacklist": "[]",
-      "isPrepurchase": "true"
+      "com.epicgames.app.blacklist": "[]"
     }
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -35,9 +36,10 @@
       "Completed": 0
     }
   ],
+  "FirstSeen": "2023-07-31T15:57:55.8099834+00:00",
   "FirstSeenAchievements": "2023-07-17T12:05:29.3439322+00:00",
-  "LastChanged_Achievements": "2023-07-31T15:06:45.7583554+00:00",
+  "LastChanged_Achievements": "2023-07-31T16:06:42.0517046+00:00",
   "LastUpdate_AppInfo": "2023-07-25T19:57:06.5958873+00:00",
-  "LastUpdate_Ratings": "2023-07-31T14:58:01.4078189+00:00",
-  "LastUpdate_Achievements": "2023-07-31T15:06:45.7583582+00:00"
+  "LastUpdate_Ratings": "2023-07-31T15:57:55.8099882+00:00",
+  "LastUpdate_Achievements": "2023-07-31T16:06:42.0517081+00:00"
 }

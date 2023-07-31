@@ -1494,9 +1494,9 @@
       "ID": "ID_06_SONIC1_BREATHING_COUNT",
       "SetID": "7o8nc5m",
       "Name": "Bubbly Breath",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 223
     },
     {
       "ID": "ID_07_SONICCD_TIME_WARP",
@@ -1550,9 +1550,9 @@
       "ID": "ID_13_RING_COLLECTOR",
       "SetID": "7o8nc5m",
       "Name": "Ring Collector",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 258
     },
     {
       "ID": "ID_14_DEFEAT_ENEMY_BY_SPIN_DASH",
@@ -1742,8 +1742,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-25T19:58:34.9167983+00:00",
-  "LastChanged_Achievements": "2023-07-31T15:03:38.4570074+00:00",
+  "LastChanged_Achievements": "2023-07-31T16:03:32.1613367+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:41.5361086+00:00",
-  "LastUpdate_Ratings": "2023-07-31T14:58:51.8571413+00:00",
-  "LastUpdate_Achievements": "2023-07-31T15:03:38.4570381+00:00"
+  "LastUpdate_Ratings": "2023-07-31T15:58:49.3501323+00:00",
+  "LastUpdate_Achievements": "2023-07-31T16:03:32.1613756+00:00"
 }

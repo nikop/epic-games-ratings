@@ -38,6 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Mode | 0.50% | ~1,087 |
 | Low Initiative | 0.50% | ~1,087 |
 | A Mysterious Summons | 0.50% | ~1,087 |
+| March of the Undead | 0.50% | ~1,087 |
 | No Time To Rest | 0.50% | ~1,087 |
 | The Mists of Ravenloft | 0.50% | ~1,087 |
 | The Dinner Party | 0.50% | ~1,087 |
@@ -58,13 +59,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.40% | ~870 |
 | Welcome to the Rock | 0.40% | ~735 |
 | Street War | 0.40% | ~870 |
-| March of the Undead | 0.40% | ~870 |
 | Wisdom Check | 0.40% | ~870 |
 | Invisible Shadows | 0.40% | ~870 |
 | Family Entanglements | 0.40% | ~870 |
 | The Ring of Regeneration | 0.40% | ~870 |
 | Seeking Allies | 0.40% | ~870 |
 | Waterdeep Detours | 0.40% | ~870 |
+| Friendly Imps | 0.40% | ~870 |
 | Luigi After Hours | 0.40% | ~735 |
 | Electric Mayhem | 0.40% | ~735 |
 | 3,720 to 1 | 0.40% | ~735 |
@@ -112,7 +113,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.30% | ~652 |
 | Easily Distracted | 0.30% | ~652 |
 | Underdeep Cartography | 0.30% | ~652 |
-| Friendly Imps | 0.30% | ~652 |
 | Overdue Rendezvous | 0.30% | ~652 |
 | Pure Energy | 0.30% | ~652 |
 | The Templar's Camp | 0.30% | ~652 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,399 (Ranked 53)  
+Progressed: 217,406 (Ranked 53)  
 Completed: 2,139 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,7 +621,7 @@ Completed: 2,139 (0.98%) (Ranked 112)
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
-| 2023-07-31 | 217,399 | 2,139 |
+| 2023-07-31 | 217,406 | 2,139 |
 ## Awards
 Max (Diverse Characters): 5,106  (Ranked 67)  
 Sum: 30,821 (Ranked 38)  

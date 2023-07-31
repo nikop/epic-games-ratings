@@ -6,9 +6,9 @@
   "Ranking_Popularity": 208,
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 118,
-  "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_Completed": 153,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -368,11 +368,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12471,
-  "EOS_Completed": 39,
-  "EOS_NewPlayers": 232,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.31,
+  "EOS_Progressed": 12472,
+  "EOS_Completed": 40,
+  "EOS_NewPlayers": 231,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:45.6707556+00:00",
@@ -6338,6 +6338,11 @@
       "Time": "2023-07-31T14:03:30.7064212+00:00",
       "NumProgressed": 12471,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-07-31T16:03:38.4013646+00:00",
+      "NumProgressed": 12472,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 35,
@@ -6349,7 +6354,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11473
+      "UsersEstimate": 11474
     },
     {
       "ID": "ACH_02",
@@ -6357,7 +6362,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 9727
+      "UsersEstimate": 9728
     },
     {
       "ID": "ACH_03",
@@ -6365,7 +6370,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 9104
+      "UsersEstimate": 9105
     },
     {
       "ID": "ACH_04",
@@ -6373,7 +6378,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8605
+      "UsersEstimate": 8606
     },
     {
       "ID": "ACH_05",
@@ -6389,7 +6394,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 7981
+      "UsersEstimate": 7982
     },
     {
       "ID": "ACH_07",
@@ -6397,7 +6402,7 @@
       "Name": "Felons",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7607
+      "UsersEstimate": 7608
     },
     {
       "ID": "ACH_08",
@@ -6429,7 +6434,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 5986
+      "UsersEstimate": 5987
     },
     {
       "ID": "ACH_12",
@@ -6461,7 +6466,7 @@
       "Name": "Dying Sun",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4115
+      "UsersEstimate": 4116
     },
     {
       "ID": "ACH_16",
@@ -6525,7 +6530,7 @@
       "Name": "Improved crossbow",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3242
+      "UsersEstimate": 3243
     },
     {
       "ID": "ACH_24",
@@ -6565,7 +6570,7 @@
       "Name": "Alchemist",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8480
+      "UsersEstimate": 8481
     },
     {
       "ID": "ACH_29",
@@ -6621,23 +6626,23 @@
       "Name": "Mercy",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12471,
-      "Completed": 39
+      "Progressed": 12472,
+      "Completed": 40
     }
   ],
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-07-31T15:03:44.4437194+00:00",
+  "LastChanged_Achievements": "2023-07-31T16:03:38.401364+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:06.5960214+00:00",
-  "LastUpdate_Ratings": "2023-07-31T15:00:50.9776261+00:00",
-  "LastUpdate_Achievements": "2023-07-31T15:03:44.4437707+00:00"
+  "LastUpdate_Ratings": "2023-07-31T16:00:52.9427527+00:00",
+  "LastUpdate_Achievements": "2023-07-31T16:03:38.4014304+00:00"
 }

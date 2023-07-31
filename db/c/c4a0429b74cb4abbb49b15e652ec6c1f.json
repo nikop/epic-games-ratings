@@ -2,9 +2,9 @@
   "ID": "c4a0429b74cb4abbb49b15e652ec6c1f",
   "Name": "Deverse World",
   "ProductSlug": "deverse-world-3ccb84",
-  "Ranking_EOS_Progress": 297,
+  "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 151,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -566,6 +566,11 @@
       "Time": "2023-07-31T13:16:57.3907835+00:00",
       "NumProgressed": 149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T16:05:41.3132547+00:00",
+      "NumProgressed": 151,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -586,7 +591,7 @@
       "Name": "Bitcoin Collector",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "build_your_world",
@@ -610,7 +615,7 @@
       "Name": "Hidden Basement",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "login_count",
@@ -626,15 +631,15 @@
       "Name": "Moon Conquerer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "pianist",
       "SetID": "5fi1i42",
       "Name": "Pianist",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "platformer_player",
@@ -642,7 +647,7 @@
       "Name": "Platformer Master",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "play_worlds",
@@ -650,7 +655,7 @@
       "Name": "Play worlds from foes",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "publish_your_first_world",
@@ -658,7 +663,7 @@
       "Name": "First world published",
       "Percentage": 9,
       "XP": 120,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "seconds_played",
@@ -674,7 +679,7 @@
       "Name": "NFT Gallery",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "super_creator",
@@ -682,7 +687,7 @@
       "Name": "Super Creator",
       "Percentage": 5,
       "XP": 160,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "tireless_explorer",
@@ -714,7 +719,7 @@
       "Name": "Visit Cleric",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "waifu_kata",
@@ -729,14 +734,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 151,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-07-31T15:05:25.5596969+00:00",
+  "LastChanged_Achievements": "2023-07-31T16:05:41.3132539+00:00",
   "LastUpdate_AppInfo": "2023-07-27T06:57:02.8148136+00:00",
-  "LastUpdate_Ratings": "2023-07-31T14:57:44.8178229+00:00",
-  "LastUpdate_Achievements": "2023-07-31T15:05:25.5597094+00:00"
+  "LastUpdate_Ratings": "2023-07-31T15:57:44.1139888+00:00",
+  "LastUpdate_Achievements": "2023-07-31T16:05:41.3132803+00:00"
 }
