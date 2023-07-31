@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -716,10 +716,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 209,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-07-31T19:00:46.0653767+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 212,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 209,
+  "NumberOfAwards": 212,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -733,13 +739,13 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -751,7 +757,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has a Competitive Community",
@@ -772,10 +778,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 254010,
+  "EOS_Progressed": 254012,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 444,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 443,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
@@ -11167,6 +11173,11 @@
       "Time": "2023-07-31T18:06:46.1075628+00:00",
       "NumProgressed": 254010,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-31T19:06:13.6943015+00:00",
+      "NumProgressed": 254012,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -11226,7 +11237,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78743
+      "UsersEstimate": 78744
     },
     {
       "ID": "BackHomeNTimes",
@@ -11234,7 +11245,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12700
+      "UsersEstimate": 12701
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -11306,7 +11317,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12700
+      "UsersEstimate": 12701
     },
     {
       "ID": "CreedsInBank2",
@@ -11466,7 +11477,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55882
+      "UsersEstimate": 55883
     },
     {
       "ID": "KillOthers2",
@@ -11625,16 +11636,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 254010,
+      "Progressed": 254012,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-07-30T13:03:08.3579992+00:00",
-  "LastChanged_Achievements": "2023-07-31T18:06:46.1075623+00:00",
+  "LastChanged": "2023-07-31T19:00:46.0653766+00:00",
+  "LastChanged_Achievements": "2023-07-31T19:06:13.6943009+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:16.1144116+00:00",
-  "LastUpdate_Ratings": "2023-07-31T18:01:40.1286526+00:00",
-  "LastUpdate_Achievements": "2023-07-31T18:06:46.1076785+00:00"
+  "LastUpdate_Ratings": "2023-07-31T19:00:46.0653771+00:00",
+  "LastUpdate_Achievements": "2023-07-31T19:06:13.6943893+00:00"
 }

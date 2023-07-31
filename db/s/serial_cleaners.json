@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 74,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -410,9 +410,9 @@
       "ID": "ALL_MAIN_MISSIONS",
       "SetID": "2lk004m",
       "Name": "All the Stories",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ALL_MEMORIES",
@@ -466,9 +466,9 @@
       "ID": "CHAPTER5_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Witness Protection",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "COLLECT_20_EVIDENCE",
@@ -617,8 +617,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-07-31T18:05:04.6871476+00:00",
+  "LastChanged_Achievements": "2023-07-31T19:04:56.1733565+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:06.1854307+00:00",
-  "LastUpdate_Ratings": "2023-07-31T18:00:25.8862719+00:00",
-  "LastUpdate_Achievements": "2023-07-31T18:05:04.687169+00:00"
+  "LastUpdate_Ratings": "2023-07-31T18:59:54.1792623+00:00",
+  "LastUpdate_Achievements": "2023-07-31T19:04:56.1733741+00:00"
 }

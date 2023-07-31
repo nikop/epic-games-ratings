@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -137,7 +137,7 @@
   "Tags": [],
   "EOS_Progressed": 330,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1116,9 +1116,9 @@
       "ID": "ACH_MYTHRIL_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Mythical Smelter",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_PERMADEATH",
@@ -1181,8 +1181,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-07-31T18:03:04.6469471+00:00",
+  "LastChanged_Achievements": "2023-07-31T19:03:18.5926143+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.9471506+00:00",
-  "LastUpdate_Ratings": "2023-07-31T17:59:35.9804645+00:00",
-  "LastUpdate_Achievements": "2023-07-31T18:03:04.6469929+00:00"
+  "LastUpdate_Ratings": "2023-07-31T18:59:13.2381783+00:00",
+  "LastUpdate_Achievements": "2023-07-31T19:03:18.5926415+00:00"
 }

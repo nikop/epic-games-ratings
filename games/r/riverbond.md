@@ -6,30 +6,30 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~366,640 |
-| Now You're Talking | 62.00% | ~324,739 |
-| Steel Yourself | 62.00% | ~324,739 |
-| Window Dressing | 50.00% | ~261,886 |
-| Trigger Happy | 46.00% | ~240,935 |
-| Riverborn | 45.00% | ~235,697 |
-| Starry Eyed | 34.00% | ~178,082 |
-| Poking Around | 34.00% | ~178,082 |
-| Talk of the Town | 24.00% | ~125,705 |
+| First Step | 70.00% | ~366,642 |
+| Now You're Talking | 62.00% | ~324,740 |
+| Steel Yourself | 62.00% | ~324,740 |
+| Window Dressing | 50.00% | ~261,888 |
+| Trigger Happy | 46.00% | ~240,936 |
+| Riverborn | 45.00% | ~235,699 |
+| Starry Eyed | 34.00% | ~178,084 |
+| Poking Around | 34.00% | ~178,084 |
+| Talk of the Town | 24.00% | ~125,706 |
 | AAARR! | 23.00% | ~120,468 |
 | Hello Darkness | 23.00% | ~120,468 |
 | Wind At Our Backs | 22.00% | ~115,230 |
-| To the Beat | 20.00% | ~104,754 |
-| Sunny Shores | 17.00% | ~89,041 |
+| To the Beat | 20.00% | ~104,755 |
+| Sunny Shores | 17.00% | ~89,042 |
 | Sunday Best | 16.00% | ~83,804 |
 | To Victory! | 15.00% | ~78,566 |
 | Two of a Kind | 14.00% | ~73,328 |
-| Keep On Trucking | 13.00% | ~68,090 |
+| Keep On Trucking | 13.00% | ~68,091 |
 | Going on an Adventure | 11.00% | ~57,615 |
 | Make Peace, Not War | 11.00% | ~57,615 |
-| Walking The Line | 10.00% | ~52,377 |
-| Not So Cute Anymore | 10.00% | ~52,377 |
-| Road Less Travelled | 9.00% | ~47,139 |
-| Lost and Found | 9.00% | ~47,139 |
+| Walking The Line | 10.00% | ~52,378 |
+| Not So Cute Anymore | 10.00% | ~52,378 |
+| Road Less Travelled | 9.00% | ~47,140 |
+| Lost and Found | 9.00% | ~47,140 |
 | Partner in Crime | 7.00% | ~36,664 |
 | Hard to Hear | 7.00% | ~36,664 |
 | Under the Radar | 7.00% | ~36,664 |
@@ -54,17 +54,17 @@ Number of Ratings: 617  (23.09.2022)
 | Page Turner | 3.00% | ~15,713 |
 | Spinal Adjustment | 3.00% | ~15,713 |
 | The Knowledge | 3.00% | ~15,713 |
-| Seek the Rainbow | 2.00% | ~10,475 |
-| Words of Truth | 2.00% | ~10,475 |
-| Star Power | 2.00% | ~10,475 |
-| Justice Served | 2.00% | ~10,475 |
+| Seek the Rainbow | 2.00% | ~10,476 |
+| Words of Truth | 2.00% | ~10,476 |
+| Star Power | 2.00% | ~10,476 |
+| Justice Served | 2.00% | ~10,476 |
 | Don't Care | 1.00% | ~5,238 |
 | Don’t Get Crabby | 1.00% | ~5,238 |
 | Written in the Stars | 0.90% | ~4,714 |
 | Boss of All Bosses | 0.30% | ~1,571 |
 | Point Taken | 0.10% | ~524 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523,772 (Ranked 30)  
+Progressed: 523,775 (Ranked 30)  
 Completed: 453 (0.09%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 453 (0.09%) (Ranked 197)
 | 2023-07-28 | 523,476 | 452 |
 | 2023-07-29 | 523,594 | 452 |
 | 2023-07-30 | 523,720 | 453 |
-| 2023-07-31 | 523,772 | 453 |
+| 2023-07-31 | 523,775 | 453 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

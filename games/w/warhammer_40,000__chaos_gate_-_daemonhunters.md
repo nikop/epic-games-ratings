@@ -18,14 +18,14 @@ Number of Ratings: 371  (23.09.2022)
 | Friendly Fire | 0.70% | ~22 |
 | A Foul Creche | 0.70% | ~22 |
 | Honoured Battle-Brother | 0.60% | ~19 |
-| The Emperor Protects | 0.50% | ~15 |
+| The Emperor Protects | 0.60% | ~19 |
 | Nemesis Master | 0.50% | ~15 |
 | Execution Force | 0.50% | ~15 |
 | Hold Your Ground | 0.40% | ~12 |
+| Gunmaster | 0.40% | ~12 |
 | Just a Scratch | 0.40% | ~12 |
-| Gunmaster | 0.30% | ~9 |
+| Hive Exterminator | 0.40% | ~12 |
 | Long Distance Call | 0.30% | ~9 |
-| Hive Exterminator | 0.30% | ~9 |
 | Daemonkeeper | 0.20% | ~6 |
 | Corruption Cleanser | 0.20% | ~6 |
 | Exterminator | 0.20% | ~6 |
@@ -58,6 +58,7 @@ Number of Ratings: 371  (23.09.2022)
 | Killing Rampage | 0.10% | ~3 |
 | Deadshot | 0.10% | ~3 |
 | Terminal Meltdown | 0.10% | ~3 |
+| Suffer Not the Mutant | 0.10% | ~3 |
 | The Flesh is Weak | 0.00% | ~0 |
 | Crisis Management | 0.00% | ~0 |
 | Grand Master | 0.00% | ~0 |
@@ -73,9 +74,8 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Harvest No More | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
-| Suffer Not the Mutant | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,089 (Ranked 153)  
+Progressed: 3,090 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 3,064 | 0 |
 | 2023-07-29 | 3,069 | 0 |
 | 2023-07-30 | 3,081 | 0 |
-| 2023-07-31 | 3,089 | 0 |
+| 2023-07-31 | 3,090 | 0 |
 ## Awards
 Max (Character Customization): 216  (Ranked 265)  
 Sum: 459 (Ranked 303)  

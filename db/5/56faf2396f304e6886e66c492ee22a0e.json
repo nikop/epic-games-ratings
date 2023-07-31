@@ -4,8 +4,8 @@
   "ProductSlug": "hush-hush-5c1fa0",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
     "PcReleaseDate": "2022-08-22T16:00:00+00:00",
@@ -391,9 +391,9 @@
       "ID": "ACHIEVEMENT_Team_Fumi",
       "SetID": "70j9o42",
       "Name": "Team Fumi",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_TechSavvy",
@@ -430,8 +430,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-07-31T18:04:26.2035121+00:00",
+  "LastChanged_Achievements": "2023-07-31T19:04:18.5492241+00:00",
   "LastUpdate_AppInfo": "2023-07-25T07:57:00.5196616+00:00",
-  "LastUpdate_Ratings": "2023-07-31T17:57:45.0627149+00:00",
-  "LastUpdate_Achievements": "2023-07-31T18:04:26.2035643+00:00"
+  "LastUpdate_Ratings": "2023-07-31T18:57:46.4917791+00:00",
+  "LastUpdate_Achievements": "2023-07-31T19:04:18.5492487+00:00"
 }

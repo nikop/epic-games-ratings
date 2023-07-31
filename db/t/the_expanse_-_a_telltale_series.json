@@ -4,8 +4,8 @@
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 38,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2259,
+  "EOS_Progressed": 2305,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2258,
+  "EOS_NewPlayers": 2304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -297,6 +297,11 @@
       "Time": "2023-07-31T18:05:40.8055023+00:00",
       "NumProgressed": 2259,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T19:05:30.7081819+00:00",
+      "NumProgressed": 2305,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -347,9 +352,9 @@
       "ID": "14",
       "SetID": "458bbdk",
       "Name": "Doctor Approved",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 384
+      "UsersEstimate": 369
     },
     {
       "ID": "15",
@@ -397,7 +402,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "20",
@@ -485,7 +490,7 @@
       "Name": "Captain Drummer",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 323
     },
     {
       "ID": "30",
@@ -548,14 +553,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 2259,
+      "Progressed": 2305,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-07-31T18:05:40.8055015+00:00",
+  "LastChanged_Achievements": "2023-07-31T19:05:30.7081812+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:00.9603289+00:00",
-  "LastUpdate_Ratings": "2023-07-31T18:00:16.0458191+00:00",
-  "LastUpdate_Achievements": "2023-07-31T18:05:40.8055417+00:00"
+  "LastUpdate_Ratings": "2023-07-31T18:59:48.3479999+00:00",
+  "LastUpdate_Achievements": "2023-07-31T19:05:30.7082009+00:00"
 }

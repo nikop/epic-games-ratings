@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 810,
+  "EOS_Progressed": 811,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -1890,6 +1890,11 @@
       "Time": "2023-07-31T15:04:39.8951899+00:00",
       "NumProgressed": 810,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-31T19:04:29.7381168+00:00",
+      "NumProgressed": 811,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -1925,7 +1930,7 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -1933,7 +1938,7 @@
       "Name": "Right On Time",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ClockworkCompletion1",
@@ -1949,15 +1954,15 @@
       "Name": "Like Clockwork",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ClovemaryGift",
       "SetID": "a9e499d",
       "Name": "Clovemary for Remembering",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 41
     },
     {
       "ID": "CosmeticCompletion1",
@@ -2101,7 +2106,7 @@
       "Name": "Cartographer",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "NoCritterSump",
@@ -2187,9 +2192,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 195
     },
     {
       "ID": "RewindParry",
@@ -2205,7 +2210,7 @@
       "Name": "Golem Hunter",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ScrambotProgress1",
@@ -2221,7 +2226,7 @@
       "Name": "Rungs Was Right",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "SkillProgress1",
@@ -2261,7 +2266,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "TheaterChests1",
@@ -2324,7 +2329,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 810,
+      "Progressed": 811,
       "Completed": 5
     }
   ],
@@ -2332,8 +2337,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-07-31T18:04:37.2272289+00:00",
+  "LastChanged_Achievements": "2023-07-31T19:04:29.7381163+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.2379789+00:00",
-  "LastUpdate_Ratings": "2023-07-31T18:00:29.5216656+00:00",
-  "LastUpdate_Achievements": "2023-07-31T18:04:37.2273536+00:00"
+  "LastUpdate_Ratings": "2023-07-31T18:59:57.6017578+00:00",
+  "LastUpdate_Achievements": "2023-07-31T19:04:29.7381641+00:00"
 }

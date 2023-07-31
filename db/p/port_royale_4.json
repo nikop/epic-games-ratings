@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 787,
+  "EOS_Progressed": 788,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1570,6 +1570,11 @@
       "Time": "2023-07-31T12:06:04.8296112+00:00",
       "NumProgressed": 787,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-31T19:05:20.1938594+00:00",
+      "NumProgressed": 788,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1581,7 +1586,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "ACH001",
@@ -1589,7 +1594,7 @@
       "Name": "Seafarer",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACH002",
@@ -1685,23 +1690,23 @@
       "Name": "In a mint condition",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACH014",
       "SetID": "69nfp41",
       "Name": "Christening",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH015",
       "SetID": "69nfp41",
       "Name": "Groundskeeper",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH016",
@@ -1749,7 +1754,7 @@
       "Name": "Collectionitis",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH022",
@@ -1811,9 +1816,9 @@
       "ID": "ACH029",
       "SetID": "69nfp41",
       "Name": "Licence to Kill",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 284
     },
     {
       "ID": "ACH030",
@@ -1821,7 +1826,7 @@
       "Name": "Walk the plank",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH031",
@@ -1851,9 +1856,9 @@
       "ID": "ACH034",
       "SetID": "69nfp41",
       "Name": "Panic buying",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH035",
@@ -1869,7 +1874,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH037",
@@ -1885,7 +1890,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ACH039",
@@ -1933,7 +1938,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ACH045",
@@ -1965,7 +1970,7 @@
       "Name": "Megalomania",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH049",
@@ -1980,15 +1985,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 787,
+      "Progressed": 788,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-07-31T18:05:29.5723854+00:00",
+  "LastChanged_Achievements": "2023-07-31T19:05:20.1938589+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.9634197+00:00",
-  "LastUpdate_Ratings": "2023-07-31T17:59:34.8411069+00:00",
-  "LastUpdate_Achievements": "2023-07-31T18:05:29.5724755+00:00"
+  "LastUpdate_Ratings": "2023-07-31T18:59:11.3884439+00:00",
+  "LastUpdate_Achievements": "2023-07-31T19:05:20.1938986+00:00"
 }

@@ -31,9 +31,9 @@
 | Peaceful protest | 7.00% | ~19 |
 | The Good Place | 7.00% | ~19 |
 | Trial by combat | 7.00% | ~19 |
+| A bard day's night | 5.00% | ~14 |
 | Money talks | 5.00% | ~14 |
 | Squid Game | 4.00% | ~11 |
-| A bard day's night | 4.00% | ~11 |
 | Lyre lyre pants on fyre | 4.00% | ~11 |
 | Be kind to monsters | 3.00% | ~8 |
 | D4RK V0L3P41N | 3.00% | ~8 |

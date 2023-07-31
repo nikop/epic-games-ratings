@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 390)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 23.00% | ~186 |
+| Time Heals All Wounds | 24.00% | ~195 |
 | Rail Rat | 20.00% | ~162 |
 | The Mysterious Stranger | 19.00% | ~154 |
 | Make Up For Lost Time | 17.00% | ~138 |
@@ -26,11 +26,11 @@ Rating: 4.60 (Ranked 390)
 | The Loose Cannon | 15.00% | ~122 |
 | Golem Chaser | 15.00% | ~122 |
 | The Family Fortune | 15.00% | ~122 |
-| Treasure Trove | 14.00% | ~113 |
-| Right On Time | 14.00% | ~113 |
-| Like Clockwork | 14.00% | ~113 |
-| Cartographer | 14.00% | ~113 |
-| Check Your Pulse | 14.00% | ~113 |
+| Treasure Trove | 14.00% | ~114 |
+| Right On Time | 14.00% | ~114 |
+| Like Clockwork | 14.00% | ~114 |
+| Cartographer | 14.00% | ~114 |
+| Check Your Pulse | 14.00% | ~114 |
 | Street Style | 13.00% | ~105 |
 | Whiz Kid | 11.00% | ~89 |
 | Chaincrawler Explorer | 10.00% | ~81 |
@@ -46,9 +46,9 @@ Rating: 4.60 (Ranked 390)
 | Sartorialist | 7.00% | ~57 |
 | Cultivair Explorer | 7.00% | ~57 |
 | Entresol Explorer | 7.00% | ~57 |
-| Golem Hunter | 5.00% | ~40 |
-| Rungs Was Right | 5.00% | ~40 |
-| Clovemary for Remembering | 4.00% | ~32 |
+| Clovemary for Remembering | 5.00% | ~41 |
+| Golem Hunter | 5.00% | ~41 |
+| Rungs Was Right | 5.00% | ~41 |
 | Hexlock for Protection | 4.00% | ~32 |
 | Wunderkind | 2.00% | ~16 |
 | Fitting In | 2.00% | ~16 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 390)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 810 (Ranked 201)  
+Progressed: 811 (Ranked 201)  
 Completed: 5 (0.62%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 5 (0.62%) (Ranked 125)
 | 2023-07-28 | 797 | 4 |
 | 2023-07-29 | 803 | 4 |
 | 2023-07-30 | 808 | 4 |
-| 2023-07-31 | 810 | 5 |
+| 2023-07-31 | 811 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

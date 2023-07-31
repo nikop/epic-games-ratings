@@ -40,8 +40,8 @@ Rating: 4.87 (Ranked 24)
 | Check out my moves! | 0.80% | ~29 |
 | Call me Turbo Chai | 0.80% | ~17 |
 | I told you I'd be fine, Peppermint! | 0.70% | ~26 |
+| I think I found your calling, Macaron | 0.60% | ~22 |
 | I think I deserve some praise, here! | 0.50% | ~18 |
-| I think I found your calling, Macaron | 0.50% | ~18 |
 | I hit things with a guitar really well. | 0.50% | ~18 |
 | New bad guys? No problem! | 0.50% | ~11 |
 | This is a breeze! | 0.40% | ~15 |

@@ -4,8 +4,8 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -481,9 +481,9 @@
       "ID": "Ach_DiscoveryCatacombes",
       "SetID": "4o5gjp0",
       "Name": "A bottomless pit",
-      "Percentage": 84,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Ach_DiscoveryCaverns",
@@ -664,8 +664,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-07-31T18:04:48.5104787+00:00",
+  "LastChanged_Achievements": "2023-07-31T19:04:40.922124+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:57.8923597+00:00",
-  "LastUpdate_Ratings": "2023-07-31T17:59:11.2043373+00:00",
-  "LastUpdate_Achievements": "2023-07-31T18:04:48.5105073+00:00"
+  "LastUpdate_Ratings": "2023-07-31T18:58:51.9421588+00:00",
+  "LastUpdate_Achievements": "2023-07-31T19:04:40.9221461+00:00"
 }

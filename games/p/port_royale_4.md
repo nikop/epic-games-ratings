@@ -6,29 +6,29 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~637 |
+| Cabin boy | 81.00% | ~638 |
 | My little farm | 65.00% | ~512 |
-| Every beginning is difficult | 62.00% | ~488 |
+| Every beginning is difficult | 62.00% | ~489 |
 | 3, 2, 1, mine | 56.00% | ~441 |
 | Gofer | 56.00% | ~441 |
-| Seafarer | 54.00% | ~425 |
-| O Captain! My Captain! | 53.00% | ~417 |
-| Greed for gold | 43.00% | ~338 |
+| Seafarer | 54.00% | ~426 |
+| O Captain! My Captain! | 53.00% | ~418 |
+| Greed for gold | 43.00% | ~339 |
 | Intangible | 41.00% | ~323 |
 | I'm out of here for a while | 41.00% | ~323 |
-| In a mint condition | 37.00% | ~291 |
-| Licence to Kill | 35.00% | ~275 |
+| In a mint condition | 37.00% | ~292 |
+| Licence to Kill | 36.00% | ~284 |
 | Pirates! | 34.00% | ~268 |
-| Megalomania | 29.00% | ~228 |
-| Collectionitis | 28.00% | ~220 |
-| Christening | 26.00% | ~205 |
-| Groundskeeper | 25.00% | ~197 |
+| Megalomania | 29.00% | ~229 |
+| Collectionitis | 28.00% | ~221 |
+| Christening | 27.00% | ~213 |
+| Groundskeeper | 26.00% | ~205 |
 | Wholesale | 22.00% | ~173 |
-| Walk the plank | 20.00% | ~157 |
+| Walk the plank | 20.00% | ~158 |
 | Pearly gates | 17.00% | ~134 |
 | My precious! | 17.00% | ~134 |
 | Conquistador | 13.00% | ~102 |
-| Panic buying | 11.00% | ~87 |
+| Panic buying | 12.00% | ~95 |
 | Just a scratch | 9.00% | ~71 |
 | Your vessel, my vessel | 9.00% | ~71 |
 | All mine! | 8.00% | ~63 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.50% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 787 (Ranked 202)  
+Progressed: 788 (Ranked 202)  
 Completed: 1 (0.13%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 1 (0.13%) (Ranked 187)
 | 2023-07-28 | 774 | 1 |
 | 2023-07-29 | 781 | 1 |
 | 2023-07-30 | 785 | 1 |
-| 2023-07-31 | 787 | 1 |
+| 2023-07-31 | 788 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

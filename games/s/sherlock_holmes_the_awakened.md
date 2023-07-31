@@ -20,7 +20,7 @@ Rating: 4.65 (Ranked 296)
 | Lock, Stock, And Barrel | 47.00% | ~270 |
 | Back In The Saddle | 47.00% | ~270 |
 | Land, Ho! | 47.00% | ~270 |
-| No Man Is An Island | 45.00% | ~258 |
+| No Man Is An Island | 46.00% | ~264 |
 | At Wits' End | 45.00% | ~258 |
 | Up In Flames | 43.00% | ~247 |
 | Fhtagn! | 43.00% | ~247 |

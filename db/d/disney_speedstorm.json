@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3038,
+  "EOS_Progressed": 3039,
   "EOS_Completed": 121,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 14,
@@ -3910,6 +3910,11 @@
       "Time": "2023-07-31T11:06:56.2549084+00:00",
       "NumProgressed": 3038,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-07-31T19:06:14.8219618+00:00",
+      "NumProgressed": 3039,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 24,
@@ -4009,7 +4014,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "20",
@@ -4073,7 +4078,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "6",
@@ -4097,7 +4102,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "9",
@@ -4112,13 +4117,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3038,
+      "Progressed": 3039,
       "Completed": 121
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-31T18:06:47.0912899+00:00",
+  "LastChanged_Achievements": "2023-07-31T19:06:14.8219613+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:49.7326864+00:00",
-  "LastUpdate_Ratings": "2023-07-31T18:00:03.1046579+00:00",
-  "LastUpdate_Achievements": "2023-07-31T18:06:47.0913612+00:00"
+  "LastUpdate_Ratings": "2023-07-31T18:59:39.6280517+00:00",
+  "LastUpdate_Achievements": "2023-07-31T19:06:14.8219923+00:00"
 }

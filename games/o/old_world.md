@@ -28,6 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 0.80% | ~106 |
 | Learned | 0.80% | ~106 |
 | Judaism | 0.80% | ~106 |
+| Greek Paganism | 0.80% | ~106 |
 | Naming Landmarks | 0.80% | ~106 |
 | Ambitious | 0.70% | ~92 |
 | Glorious | 0.70% | ~92 |
@@ -39,9 +40,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 0.70% | ~92 |
 | Christianity | 0.70% | ~92 |
 | Babylonian Paganism | 0.70% | ~92 |
-| Greek Paganism | 0.70% | ~92 |
 | Roman Paganism | 0.70% | ~92 |
 | Zoroastrianism | 0.70% | ~92 |
+| Brilliant | 0.60% | ~79 |
 | Fountainhead | 0.60% | ~79 |
 | Wise | 0.60% | ~79 |
 | Strong Cities | 0.60% | ~79 |
@@ -51,7 +52,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.60% | ~79 |
 | Carthaginian Paganism | 0.60% | ~79 |
 | Regicide | 0.50% | ~66 |
-| Brilliant | 0.50% | ~66 |
 | Great | 0.50% | ~66 |
 | Just Difficulty | 0.50% | ~66 |
 | Artisans | 0.50% | ~66 |
@@ -303,8 +303,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,204 (Ranked 117)  
-Completed: 5 (0.04%) (Ranked 216)  
+Progressed: 13,206 (Ranked 117)  
+Completed: 5 (0.04%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -405,7 +405,7 @@ Completed: 5 (0.04%) (Ranked 216)
 | 2023-07-28 | 13,145 | 5 |
 | 2023-07-29 | 13,164 | 5 |
 | 2023-07-30 | 13,191 | 5 |
-| 2023-07-31 | 13,204 | 5 |
+| 2023-07-31 | 13,206 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

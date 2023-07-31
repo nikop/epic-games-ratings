@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 38,
+  "Ranking_EOS_NewPlayers": 39,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5366,10 +5366,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30821,
       "NumberOfAwardsMax": 5106
+    },
+    {
+      "Time": "2023-07-31T18:58:54.7993485+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30826,
+      "NumberOfAwardsMax": 5106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30821,
+  "NumberOfAwards": 30826,
   "NumberOfAwardsMax": 5106,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5389,7 +5395,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4691
+      "Count": 4696
     },
     {
       "Text": "This game is Relaxing",
@@ -5416,9 +5422,9 @@
       "Count": 3330
     }
   ],
-  "EOS_Progressed": 217439,
+  "EOS_Progressed": 217454,
   "EOS_Completed": 2139,
-  "EOS_NewPlayers": 2303,
+  "EOS_NewPlayers": 2286,
   "EOS_NewCompleters": 79,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16411,6 +16417,11 @@
       "Time": "2023-07-31T18:04:28.2494072+00:00",
       "NumProgressed": 217439,
       "NumCompleted": 2139
+    },
+    {
+      "Time": "2023-07-31T19:04:20.6332267+00:00",
+      "NumProgressed": 217454,
+      "NumCompleted": 2139
     }
   ],
   "TotalAchievements": 512,
@@ -16422,7 +16433,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6523
+      "UsersEstimate": 6524
     },
     {
       "ID": "objective_completed_10",
@@ -16726,7 +16737,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     },
     {
       "ID": "objective_completed_1090",
@@ -16790,7 +16801,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6523
+      "UsersEstimate": 6524
     },
     {
       "ID": "objective_completed_110",
@@ -16982,7 +16993,7 @@
       "Name": "Supply Run",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     },
     {
       "ID": "objective_completed_1142",
@@ -17102,7 +17113,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "objective_completed_1164",
@@ -20462,7 +20473,7 @@
       "Name": "Rock and Roll",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "objective_completed_1381",
@@ -20517,21 +20528,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183713,
+      "Progressed": 183728,
       "Completed": 3040
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217439,
+      "Progressed": 217454,
       "Completed": 2139
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-31T07:58:28.9560959+00:00",
-  "LastChanged_Achievements": "2023-07-31T18:04:28.2494066+00:00",
+  "LastChanged": "2023-07-31T18:58:54.7993483+00:00",
+  "LastChanged_Achievements": "2023-07-31T19:04:20.6332262+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-31T17:59:14.1290782+00:00",
-  "LastUpdate_Achievements": "2023-07-31T18:04:28.2527025+00:00"
+  "LastUpdate_Ratings": "2023-07-31T18:58:54.7993489+00:00",
+  "LastUpdate_Achievements": "2023-07-31T19:04:20.6355793+00:00"
 }

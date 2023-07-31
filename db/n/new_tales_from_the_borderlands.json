@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3534,
+  "EOS_Progressed": 3535,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1003,6 +1003,11 @@
       "Time": "2023-07-31T13:15:38.8788513+00:00",
       "NumProgressed": 3534,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T19:04:08.4384445+00:00",
+      "NumProgressed": 3535,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1086,7 +1091,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -1118,7 +1123,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -1182,7 +1187,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -1221,7 +1226,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3534,
+      "Progressed": 3535,
       "Completed": 0
     }
   ],
@@ -1229,8 +1234,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-31T18:04:16.0095233+00:00",
+  "LastChanged_Achievements": "2023-07-31T19:04:08.438444+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:07.7078521+00:00",
-  "LastUpdate_Ratings": "2023-07-31T18:00:34.9399009+00:00",
-  "LastUpdate_Achievements": "2023-07-31T18:04:16.0095486+00:00"
+  "LastUpdate_Ratings": "2023-07-31T19:00:02.0203022+00:00",
+  "LastUpdate_Achievements": "2023-07-31T19:04:08.4384635+00:00"
 }

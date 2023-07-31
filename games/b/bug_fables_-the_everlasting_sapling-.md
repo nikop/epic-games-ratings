@@ -9,13 +9,13 @@
 | Chapter 2 Complete | 45.00% | ~36 |
 | Chapter 3 Complete | 34.00% | ~27 |
 | The Guardian | 31.00% | ~25 |
-| Chapter 4 Complete | 28.00% | ~22 |
+| Chapter 4 Complete | 29.00% | ~23 |
 | Heavy Duty | 23.00% | ~18 |
 | Chapter 5 Complete | 21.00% | ~17 |
 | The Truth | 21.00% | ~17 |
+| Always Watchful | 20.00% | ~16 |
 | Chapter 6 Complete | 20.00% | ~16 |
 | Reconciliation | 20.00% | ~16 |
-| Always Watchful | 19.00% | ~15 |
 | Chapter 7 Complete | 19.00% | ~15 |
 | Plant Enchanter | 19.00% | ~15 |
 | Bounty Hunter | 16.00% | ~13 |
