@@ -21,6 +21,7 @@
 | [House Party](../games/h/house_party.md) | 69 | 1,040 | 2 |
 | [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 512 | 2,560 | 2 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 | 2 |
+| [Mass Effect™ Legendary Edition](../games/m/mass_effect™_legendary_edition.md) | 0 | 0 | 2 |
 | [Old World](../games/o/old_world.md) | 296 | 3,040 | 2 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 | 2 |
 | [PAYDAY 2](../games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 1,328 | 15,000 | 2 |
