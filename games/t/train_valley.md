@@ -35,9 +35,9 @@ Number of Ratings: 28  (23.09.2022)
 | Germany | 6.00% | ~24 |
 | Chuck Norris | 5.00% | ~20 |
 | Сhancellor | 4.00% | ~16 |
+| Peacemaker | 4.00% | ~16 |
 | Supercrash! | 4.00% | ~16 |
 | Forgotten | 3.00% | ~12 |
-| Peacemaker | 3.00% | ~12 |
 | Lucky vandal | 2.00% | ~8 |
 | BBQ | 0.70% | ~3 |
 | Vandal | 0.50% | ~2 |

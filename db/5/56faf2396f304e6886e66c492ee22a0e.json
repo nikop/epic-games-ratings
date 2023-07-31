@@ -4,7 +4,7 @@
   "ProductSlug": "hush-hush-5c1fa0",
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
@@ -120,9 +120,9 @@
       "ID": "ACHIEVEMENT_Ach_PotatoChip",
       "SetID": "70j9o42",
       "Name": "Not My Potatoes!",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_Ach_SpeedrunFail",
@@ -136,9 +136,9 @@
       "ID": "ACHIEVEMENT_Buff",
       "SetID": "70j9o42",
       "Name": "Pump You Up",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_Cassie_Date5_Secret",
@@ -264,17 +264,17 @@
       "ID": "ACHIEVEMENT_Love_Machine",
       "SetID": "70j9o42",
       "Name": "Love Machine",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_Lucky",
       "SetID": "70j9o42",
       "Name": "Fortunate Soul",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_Mio_Date5_Secret",
@@ -376,17 +376,17 @@
       "ID": "ACHIEVEMENT_Team_Fumi",
       "SetID": "70j9o42",
       "Name": "Team Fumi",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_TechSavvy",
       "SetID": "70j9o42",
       "Name": "Brainiac",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_Thelima_Ending",
@@ -415,8 +415,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-07-31T07:03:56.3077948+00:00",
+  "LastChanged_Achievements": "2023-07-31T08:03:51.0265361+00:00",
   "LastUpdate_AppInfo": "2023-07-25T07:57:00.5196616+00:00",
-  "LastUpdate_Ratings": "2023-07-31T06:57:24.2480695+00:00",
-  "LastUpdate_Achievements": "2023-07-31T07:03:56.3078182+00:00"
+  "LastUpdate_Ratings": "2023-07-31T07:57:26.5275303+00:00",
+  "LastUpdate_Achievements": "2023-07-31T08:03:51.0265599+00:00"
 }

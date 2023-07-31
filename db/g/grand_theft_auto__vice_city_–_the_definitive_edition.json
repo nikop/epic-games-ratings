@@ -562,9 +562,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 9387,
+  "EOS_Progressed": 9388,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7467,6 +7467,11 @@
       "Time": "2023-07-31T07:04:20.8811703+00:00",
       "NumProgressed": 9387,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-31T08:04:16.4088824+00:00",
+      "NumProgressed": 9388,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -7534,7 +7539,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACH09",
@@ -7638,7 +7643,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4224
+      "UsersEstimate": 4225
     },
     {
       "ID": "ACH22",
@@ -7646,7 +7651,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1877
+      "UsersEstimate": 1878
     },
     {
       "ID": "ACH23",
@@ -7749,7 +7754,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9387,
+      "Progressed": 9388,
       "Completed": 43
     }
   ],
@@ -7757,8 +7762,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-30T11:58:54.8503633+00:00",
-  "LastChanged_Achievements": "2023-07-31T07:04:20.8811698+00:00",
+  "LastChanged_Achievements": "2023-07-31T08:04:16.4088821+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-07-31T06:58:35.317624+00:00",
-  "LastUpdate_Achievements": "2023-07-31T07:04:20.8812197+00:00"
+  "LastUpdate_Ratings": "2023-07-31T07:58:34.4034668+00:00",
+  "LastUpdate_Achievements": "2023-07-31T08:04:16.408936+00:00"
 }

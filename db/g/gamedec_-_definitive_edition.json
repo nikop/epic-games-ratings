@@ -2,7 +2,7 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 777,
+  "Ranking_Rating": 776,
   "Ranking_Popularity": 364,
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 46,
@@ -378,7 +378,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 239869,
+  "EOS_Progressed": 239874,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1151,
   "EOS_NewCompleters": 0,
@@ -11433,6 +11433,11 @@
       "Time": "2023-07-31T07:03:20.1158772+00:00",
       "NumProgressed": 239869,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-31T08:03:14.596875+00:00",
+      "NumProgressed": 239874,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -11444,7 +11449,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 64765
+      "UsersEstimate": 64766
     },
     {
       "ID": "ACH_AON",
@@ -11508,7 +11513,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 28784
+      "UsersEstimate": 28785
     },
     {
       "ID": "ACH_HATTRICK",
@@ -11524,7 +11529,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21588
+      "UsersEstimate": 21589
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -11588,7 +11593,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 67163
+      "UsersEstimate": 67165
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -11660,7 +11665,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 57569
+      "UsersEstimate": 57570
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -11676,7 +11681,7 @@
       "Name": "Good listener",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 11993
+      "UsersEstimate": 11994
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
@@ -11764,7 +11769,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 59967
+      "UsersEstimate": 59968
     },
     {
       "ID": "ACH_SOREAD",
@@ -11828,7 +11833,7 @@
       "Name": "Valedictorian",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11993
+      "UsersEstimate": 11994
     },
     {
       "ID": "ACH_WAKEUP",
@@ -11859,7 +11864,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 239869,
+      "Progressed": 239874,
       "Completed": 7
     }
   ],
@@ -11867,8 +11872,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-07-21T15:58:43.8877276+00:00",
-  "LastChanged_Achievements": "2023-07-31T07:03:20.1158764+00:00",
+  "LastChanged_Achievements": "2023-07-31T08:03:14.5968745+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:50.6151057+00:00",
-  "LastUpdate_Ratings": "2023-07-31T06:58:19.8966926+00:00",
-  "LastUpdate_Achievements": "2023-07-31T07:03:20.1159684+00:00"
+  "LastUpdate_Ratings": "2023-07-31T07:58:19.7075481+00:00",
+  "LastUpdate_Achievements": "2023-07-31T08:03:14.5969678+00:00"
 }

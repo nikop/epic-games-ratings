@@ -46,8 +46,8 @@
 | Underground dwellers | 35.00% | ~68 |
 | Responsible approach | 35.00% | ~68 |
 | GYM professional | 34.00% | ~66 |
+| Deal with life | 33.00% | ~64 |
 | Champion – no way back | 33.00% | ~64 |
-| Deal with life | 32.00% | ~62 |
 | Poisoned fighter | 32.00% | ~62 |
 | Seashell hunter | 32.00% | ~62 |
 | Mom got better | 30.00% | ~58 |
@@ -56,11 +56,11 @@
 | Gang wrangler | 29.00% | ~56 |
 | Problems of cyborgs | 29.00% | ~56 |
 | The last bell ring | 29.00% | ~56 |
+| Careerist | 28.00% | ~54 |
 | Trap disarmed | 27.00% | ~52 |
 | Not little hacker | 27.00% | ~52 |
 | Absolute Champion! | 27.00% | ~52 |
-| Careerist | 27.00% | ~52 |
-| Anyone can resist | 26.00% | ~50 |
+| Anyone can resist | 27.00% | ~52 |
 | Another world | 25.00% | ~48 |
 | The lonesome road | 25.00% | ~48 |
 | Keep nature safe | 25.00% | ~48 |

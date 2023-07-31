@@ -45,6 +45,7 @@ Rating: 4.10 (Ranked 897)
 | Enchanting skill | 7.00% | ~122 |
 | The Expeditioner | 7.00% | ~122 |
 | Trader | 7.00% | ~122 |
+| Weekly Quest Completionist | 7.00% | ~122 |
 | Blueprint Upgrades | 6.00% | ~105 |
 | Crystal Mining | 6.00% | ~105 |
 | Dragon Slayer | 6.00% | ~105 |
@@ -52,7 +53,6 @@ Rating: 4.10 (Ranked 897)
 | How Do You Turn This On? | 6.00% | ~105 |
 | Lock And Load | 6.00% | ~105 |
 | Missions Dedication | 6.00% | ~105 |
-| Weekly Quest Completionist | 6.00% | ~105 |
 | Ancient Knowledge | 5.00% | ~87 |
 | Sailor | 5.00% | ~87 |
 | Active Member | 4.00% | ~70 |

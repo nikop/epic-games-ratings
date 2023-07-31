@@ -9114,9 +9114,9 @@
       "ID": "Clutch_Capture",
       "SetID": "819popo",
       "Name": "Clutch Capture",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9839
+      "UsersEstimate": 10085
     },
     {
       "ID": "Collect_Spores",
@@ -9491,8 +9491,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-30T05:00:32.9955543+00:00",
-  "LastChanged_Achievements": "2023-07-31T07:02:15.0863031+00:00",
+  "LastChanged_Achievements": "2023-07-31T08:02:10.0889863+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:56.6577114+00:00",
-  "LastUpdate_Ratings": "2023-07-31T06:59:19.6807865+00:00",
-  "LastUpdate_Achievements": "2023-07-31T07:02:15.0863718+00:00"
+  "LastUpdate_Ratings": "2023-07-31T07:59:23.9178326+00:00",
+  "LastUpdate_Achievements": "2023-07-31T08:02:10.0890557+00:00"
 }

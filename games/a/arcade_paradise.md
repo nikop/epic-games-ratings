@@ -10,7 +10,7 @@ Rating: 4.58 (Ranked 425)
 | I can't wait! | 83.00% | ~554 |
 | Swish | 56.00% | ~374 |
 | Clean up on Aisle 9 | 40.00% | ~267 |
-| Machine Maxed | 29.00% | ~194 |
+| Machine Maxed | 30.00% | ~200 |
 | Bug Fixer | 25.00% | ~167 |
 | Existential dread | 25.00% | ~167 |
 | Gerald of Riviera | 25.00% | ~167 |

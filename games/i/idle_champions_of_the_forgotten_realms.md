@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,519 |
-| Beast Intentions | 3.00% | ~6,519 |
+| A Brief Tour of the Realms | 3.00% | ~6,520 |
+| Beast Intentions | 3.00% | ~6,520 |
 | Maddening | 2.00% | ~4,346 |
 | The Silken Swamp | 1.00% | ~2,173 |
 | Supply Run | 1.00% | ~2,173 |
@@ -54,6 +54,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | On the Hunt | 0.40% | ~869 |
 | A Demi-god's Defender | 0.40% | ~734 |
 | Friends of the Forest | 0.40% | ~869 |
+| Welcome to the Rock | 0.40% | ~734 |
 | Street War | 0.40% | ~869 |
 | March of the Undead | 0.40% | ~869 |
 | Invisible Shadows | 0.40% | ~869 |
@@ -80,7 +81,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.30% | ~652 |
 | The Lost Heir of Omu | 0.30% | ~652 |
 | No One Can Hear You Scream | 0.30% | ~551 |
-| Welcome to the Rock | 0.30% | ~551 |
 | The Forbidden City | 0.30% | ~652 |
 | Captured! | 0.30% | ~652 |
 | Force Grey Unleashed | 0.30% | ~652 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,313 (Ranked 53)  
+Progressed: 217,323 (Ranked 53)  
 Completed: 2,138 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,10 +621,10 @@ Completed: 2,138 (0.98%) (Ranked 112)
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
-| 2023-07-31 | 217,313 | 2,138 |
+| 2023-07-31 | 217,323 | 2,138 |
 ## Awards
 Max (Diverse Characters): 5,106  (Ranked 67)  
-Sum: 30,819 (Ranked 38)  
+Sum: 30,821 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -633,7 +633,7 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 4,691 |
 | This game is Relaxing | 4,583 |
 | This game has Amazing Characters | 4,044 |
-| This game is Highly Recommended | 4,025 |
+| This game is Highly Recommended | 4,027 |
 | This game has Playful Visuals | 3,330 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -824,4 +824,4 @@ Diff (max vs sum): 29
 | 2023-07-28 | 4.05 | - | 5,093 | 30,775 |
 | 2023-07-29 | 4.05 | - | 5,100 | 30,800 |
 | 2023-07-30 | 4.05 | - | 5,100 | 30,813 |
-| 2023-07-31 | 4.05 | - | 5,106 | 30,819 |
+| 2023-07-31 | 4.05 | - | 5,106 | 30,821 |

@@ -20,12 +20,12 @@ Number of Ratings: 37  (23.09.2022)
 | Bread for the people I | 6.00% | ~254 |
 | Completionist I | 6.00% | ~254 |
 | Full-time job I | 6.00% | ~254 |
-| Not a small trader anymore | 5.00% | ~211 |
-| I like to build stuff... II | 5.00% | ~211 |
-| Full-time job II | 5.00% | ~211 |
-| A time consuming game II | 5.00% | ~211 |
-| Tools of the trade I | 5.00% | ~211 |
-| Knee deep in snow | 5.00% | ~211 |
+| Not a small trader anymore | 5.00% | ~212 |
+| I like to build stuff... II | 5.00% | ~212 |
+| Full-time job II | 5.00% | ~212 |
+| A time consuming game II | 5.00% | ~212 |
+| Tools of the trade I | 5.00% | ~212 |
+| Knee deep in snow | 5.00% | ~212 |
 | Bread for the people II | 4.00% | ~169 |
 | I like to build stuff... III | 4.00% | ~169 |
 | The King's new clothes I | 4.00% | ~169 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,229 (Ranked 145)  
+Progressed: 4,230 (Ranked 145)  
 Completed: 3 (0.07%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 3 (0.07%) (Ranked 204)
 | 2023-07-27 | 4,216 | 3 |
 | 2023-07-29 | 4,220 | 3 |
 | 2023-07-30 | 4,227 | 3 |
-| 2023-07-31 | 4,229 | 3 |
+| 2023-07-31 | 4,230 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

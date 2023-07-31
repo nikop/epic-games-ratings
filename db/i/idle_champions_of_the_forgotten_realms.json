@@ -5360,10 +5360,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30819,
       "NumberOfAwardsMax": 5106
+    },
+    {
+      "Time": "2023-07-31T07:58:28.9560962+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30821,
+      "NumberOfAwardsMax": 5106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30819,
+  "NumberOfAwards": 30821,
   "NumberOfAwardsMax": 5106,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5395,7 +5401,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4025
+      "Count": 4027
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5410,9 +5416,9 @@
       "Count": 3330
     }
   ],
-  "EOS_Progressed": 217313,
+  "EOS_Progressed": 217323,
   "EOS_Completed": 2138,
-  "EOS_NewPlayers": 2251,
+  "EOS_NewPlayers": 2261,
   "EOS_NewCompleters": 78,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16350,6 +16356,11 @@
       "Time": "2023-07-31T07:03:53.1070968+00:00",
       "NumProgressed": 217313,
       "NumCompleted": 2138
+    },
+    {
+      "Time": "2023-07-31T08:03:48.3050691+00:00",
+      "NumProgressed": 217323,
+      "NumCompleted": 2138
     }
   ],
   "TotalAchievements": 512,
@@ -16361,7 +16372,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6519
+      "UsersEstimate": 6520
     },
     {
       "ID": "objective_completed_10",
@@ -16729,7 +16740,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6519
+      "UsersEstimate": 6520
     },
     {
       "ID": "objective_completed_110",
@@ -17447,9 +17458,9 @@
       "ID": "objective_completed_1350",
       "SetID": "415jc5c",
       "Name": "Welcome to the Rock",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 734
     },
     {
       "ID": "objective_completed_1351",
@@ -20456,21 +20467,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183587,
+      "Progressed": 183597,
       "Completed": 3036
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217313,
+      "Progressed": 217323,
       "Completed": 2138
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-31T01:57:45.6723825+00:00",
-  "LastChanged_Achievements": "2023-07-31T07:03:53.1070964+00:00",
+  "LastChanged": "2023-07-31T07:58:28.9560959+00:00",
+  "LastChanged_Achievements": "2023-07-31T08:03:48.3050687+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-31T06:58:29.9822855+00:00",
-  "LastUpdate_Achievements": "2023-07-31T07:03:53.109393+00:00"
+  "LastUpdate_Ratings": "2023-07-31T07:58:28.9560966+00:00",
+  "LastUpdate_Achievements": "2023-07-31T08:03:48.3073841+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -676,6 +676,11 @@
       "Time": "2023-07-30T19:03:36.8367146+00:00",
       "NumProgressed": 415,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T08:03:16.2276875+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -719,7 +724,7 @@
       "Name": "Boss Killer",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "BugHunter",
@@ -751,7 +756,7 @@
       "Name": "Ghost Buster",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Gladiator",
@@ -1006,7 +1011,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 0
     }
   ],
@@ -1014,8 +1019,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-07-31T07:03:21.7960233+00:00",
+  "LastChanged_Achievements": "2023-07-31T08:03:16.2276871+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:19.0484842+00:00",
-  "LastUpdate_Ratings": "2023-07-31T06:59:45.7665505+00:00",
-  "LastUpdate_Achievements": "2023-07-31T07:03:21.7960579+00:00"
+  "LastUpdate_Ratings": "2023-07-31T07:59:50.2619884+00:00",
+  "LastUpdate_Achievements": "2023-07-31T08:03:16.2277243+00:00"
 }

@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4229,
+  "EOS_Progressed": 4230,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -985,6 +985,11 @@
       "Time": "2023-07-31T06:05:02.9947585+00:00",
       "NumProgressed": 4229,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-31T08:05:11.0454744+00:00",
+      "NumProgressed": 4230,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1004,7 +1009,7 @@
       "Name": "Not a small trader anymore",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHIEVEMENT_AVALANCHE_MINES",
@@ -1068,7 +1073,7 @@
       "Name": "I like to build stuff... II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS3",
@@ -1332,7 +1337,7 @@
       "Name": "Full-time job II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHIEVEMENT_REPAIR3",
@@ -1692,7 +1697,7 @@
       "Name": "A time consuming game II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHIEVEMENT_TIME3",
@@ -1724,7 +1729,7 @@
       "Name": "Tools of the trade I",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHIEVEMENT_TOOLS2",
@@ -1772,7 +1777,7 @@
       "Name": "Knee deep in snow",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION05",
@@ -1803,15 +1808,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4229,
+      "Progressed": 4230,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-07-31T07:05:16.2986251+00:00",
+  "LastChanged_Achievements": "2023-07-31T08:05:11.0454741+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:52.1616278+00:00",
-  "LastUpdate_Ratings": "2023-07-31T06:58:20.7969734+00:00",
-  "LastUpdate_Achievements": "2023-07-31T07:05:16.2987287+00:00"
+  "LastUpdate_Ratings": "2023-07-31T07:58:20.6337239+00:00",
+  "LastUpdate_Achievements": "2023-07-31T08:05:11.0455731+00:00"
 }

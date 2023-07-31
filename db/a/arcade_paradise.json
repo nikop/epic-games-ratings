@@ -728,9 +728,9 @@
       "ID": "GoalMachineTrophy",
       "SetID": "32aeje8",
       "Name": "Machine Maxed",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 200
     },
     {
       "ID": "GoldGuyTrophy",
@@ -993,8 +993,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-06-02T03:58:32.0065116+00:00",
-  "LastChanged_Achievements": "2023-07-31T07:03:58.1544522+00:00",
+  "LastChanged_Achievements": "2023-07-31T08:03:52.8795669+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:06.8292107+00:00",
-  "LastUpdate_Ratings": "2023-07-31T06:58:34.2096297+00:00",
-  "LastUpdate_Achievements": "2023-07-31T07:03:58.1544923+00:00"
+  "LastUpdate_Ratings": "2023-07-31T07:58:33.1461447+00:00",
+  "LastUpdate_Achievements": "2023-07-31T08:03:52.879607+00:00"
 }

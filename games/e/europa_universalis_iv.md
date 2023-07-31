@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,863 |
-| That's a Grand Army | 8.00% | ~6,100 |
-| That is mine! | 8.00% | ~6,100 |
-| Victorious! | 8.00% | ~6,100 |
-| Brothers in Arms | 6.00% | ~4,575 |
-| That's a Grand Navy | 6.00% | ~4,575 |
-| Seriously?! | 6.00% | ~4,575 |
+| Until death do us apart | 9.00% | ~6,864 |
+| That's a Grand Army | 8.00% | ~6,101 |
+| That is mine! | 8.00% | ~6,101 |
+| Victorious! | 8.00% | ~6,101 |
+| Brothers in Arms | 6.00% | ~4,576 |
+| That's a Grand Navy | 6.00% | ~4,576 |
+| Seriously?! | 6.00% | ~4,576 |
 | For the Glory | 5.00% | ~3,813 |
-| Cold War | 4.00% | ~3,050 |
-| True Catholic | 4.00% | ~3,050 |
+| Cold War | 4.00% | ~3,051 |
+| True Catholic | 4.00% | ~3,051 |
 | Defender of the Faith | 3.00% | ~2,288 |
 | It's all about luck | 3.00% | ~2,288 |
 | It's all about the money | 3.00% | ~2,288 |
@@ -75,6 +75,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Pile of Gold | 0.30% | ~229 |
 | A Fine Goosestep | 0.30% | ~229 |
 | Grand Duchy | 0.30% | ~229 |
+| Magellan’s Voyage | 0.30% | ~229 |
 | Multiculturalism | 0.30% | ~229 |
 | No Pirates in my Caribbean | 0.30% | ~229 |
 | Not so sad a state... | 0.30% | ~229 |
@@ -94,7 +95,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Industrial Powerhouse | 0.20% | ~153 |
 | Je maintiendrai | 0.20% | ~153 |
 | A Kaiser not just in name | 0.20% | ~153 |
-| Magellan’s Voyage | 0.20% | ~153 |
 | Pyramid of Skulls | 0.20% | ~153 |
 | The Power of Three | 0.20% | ~153 |
 | Viva la Revolución! | 0.20% | ~153 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,256 (Ranked 76)  
+Progressed: 76,264 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -463,7 +463,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 75,282 | 0 |
 | 2023-07-29 | 75,748 | 0 |
 | 2023-07-30 | 76,185 | 0 |
-| 2023-07-31 | 76,256 | 0 |
+| 2023-07-31 | 76,264 | 0 |
 ## Awards
 Max (Educational): 5,597  (Ranked 61)  
 Sum: 46,172 (Ranked 26)  

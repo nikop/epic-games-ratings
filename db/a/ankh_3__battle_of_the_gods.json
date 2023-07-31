@@ -4,7 +4,7 @@
   "ProductSlug": "ankh-3-295256",
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-08-28T04:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:34.806435+00:00",
   "LastChanged": "2023-03-31T05:57:34.8064351+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:11.9268271+00:00",
-  "LastUpdate_Ratings": "2023-07-31T06:58:38.1224582+00:00",
-  "LastUpdate_Achievements": "2023-07-31T07:05:41.9984054+00:00"
+  "LastUpdate_Ratings": "2023-07-31T07:58:36.7676464+00:00",
+  "LastUpdate_Achievements": "2023-07-31T08:05:38.05645+00:00"
 }
