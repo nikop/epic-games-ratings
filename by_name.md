@@ -622,7 +622,7 @@
 | [Despelote](games/e/ebe9c4222dc7428b955c31dc8131616d.md) | - | - | - | - |
 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 49 | 47 | 408 |
 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 556 | 0 | 509 |
-| [Destiny 2](games/d/destiny_2.md) | 4.49 | 572 | 36,050 | 13 |
+| [Destiny 2](games/d/destiny_2.md) | 4.49 | 572 | 36,065 | 13 |
 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 348 | 34 | 440 |
 | [Destroy All Humans! - Clone Carnage](games/d/destroy_all_humans!_-_clone_carnage.md) | - | - | 0 | - |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 511 | 34 | 440 |
@@ -846,7 +846,7 @@
 | [Farm and Fix Simulator](games/f/farm_and_fix_simulator.md) | - | - | - | - |
 | [Farm Day 2023](games/f/farm_day_2023.md) | - | - | 0 | - |
 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.23 | 833 | 0 | 509 |
-| [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 184 | 6,796 | 49 |
+| [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 184 | 6,803 | 49 |
 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 212 | 4,630 | 71 |
 | [Fashion Police Squad](games/f/fashion_police_squad.md) | - | - | 0 | - |
 | [Fata Deum](games/f/fata_deum.md) | - | - | - | - |
@@ -955,7 +955,7 @@
 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 858 | 33 | 446 |
 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 676 | 0 | 509 |
 | [Genesis Noir](games/g/genesis_noir.md) | - | - | 0 | - |
-| [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 239 | 301,095 | 3 |
+| [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 239 | 301,154 | 3 |
 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | - | - | 0 | - |
 | [Geometric Sniper - Z](games/7/706577b22cbb4ab38611e2c97e03a800.md) | - | - | - | - |
 | [Georifters](games/g/georifters.md) | - | - | - | - |
@@ -966,7 +966,7 @@
 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 425 | 0 | 509 |
 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 572 | 245 | 250 |
 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 613 | 106 | 325 |
-| [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 169 | 473 | 196 |
+| [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 169 | 474 | 196 |
 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | - | - | - | - |
 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 523 | 519 | 193 |
 | [Ghostwire: Tokyo - Prelude](games/g/ghostwire__tokyo_-_prelude.md) | - | - | 0 | - |
@@ -1357,8 +1357,8 @@
 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 752 | 0 | 509 |
 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 443 | 0 | 509 |
 | [Little Orpheus](games/l/little_orpheus.md) | - | - | 0 | - |
-| [Live](games/l/live_130.md) | - | - | - | - |
 | [Live](games/l/live_79.md) | - | - | - | - |
+| [Live](games/l/live_130.md) | - | - | - | - |
 | [Locks Quest](games/l/locks_quest.md) | - | - | 0 | - |
 | [Lonesome Village](games/l/lonesome_village.md) | - | - | 0 | - |
 | [Loop](games/l/loop.md) | - | - | - | - |
@@ -1865,7 +1865,7 @@
 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | - | - | - | - |
 | [Recompile](games/r/recompile.md) | - | - | 0 | - |
 | [Recursive Ruin](games/r/recursive_ruin.md) | - | - | 0 | - |
-| [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 18 | 163,211 | 6 |
+| [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 18 | 163,464 | 6 |
 | [Red Dust](games/r/red_dust.md) | - | - | 0 | - |
 | [Red Ronin](games/r/red_ronin.md) | - | - | 0 | - |
 | [Redfall](games/r/redfall.md) | 3.53 | 959 | 0 | 509 |
@@ -1884,7 +1884,7 @@
 | [REMEDIUM Sentinels](games/r/remedium_sentinels.md) | - | - | 0 | - |
 | [RemiLore: Lost Girl in the Lands of Lore](games/r/remilore__lost_girl_in_the_lands_of_lore.md) | - | - | 0 | - |
 | [Remnant 2](games/r/remnant_2.md) | 4.77 | 107 | 121 | 314 |
-| [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 366 | 9,609 | 36 |
+| [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 366 | 9,609 | 37 |
 | [REMORE INFESTED KINGDOM](games/2/27ac7a9891e546e3937d21797b5409b9.md) | - | - | - | - |
 | [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | - | - | - | - |
 | [REPLACED](games/r/replaced.md) | - | - | - | - |
@@ -2122,7 +2122,7 @@
 | [Snake Pass](games/s/snake_pass.md) | - | - | 0 | - |
 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.42 | 663 | 0 | 509 |
 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.04 | 915 | 0 | 509 |
-| [SnowRunner](games/s/snowrunner.md) | 4.76 | 119 | 9,603 | 37 |
+| [SnowRunner](games/s/snowrunner.md) | 4.76 | 119 | 9,625 | 36 |
 | [Snowtopia - Ski Resort Builder](games/s/snowtopia_-_ski_resort_builder.md) | - | - | 0 | - |
 | [Soar](games/s/soar.md) | - | - | - | - |
 | [Soccer Story](games/s/soccer_story.md) | - | - | 0 | - |
@@ -2397,7 +2397,7 @@
 | [The Complex](games/t/the_complex.md) | - | - | 0 | - |
 | [The Count Lucanor](games/t/the_count_lucanor.md) | - | - | 0 | - |
 | [The Creepy Syndrome](games/f/f2ed44898a204bee866836b9b659bce4.md) | - | - | - | - |
-| [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 273 | 547 | 190 |
+| [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 273 | 549 | 190 |
 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.66 | 273 | 0 | 509 |
 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | - | - | - | - |
 | [The Crown of Wu](games/t/the_crown_of_wu.md) | - | - | - | - |

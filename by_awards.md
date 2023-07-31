@@ -2,17 +2,17 @@
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,541,214 | 4.29 | 786 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 487,684 | 4.49 | 572 |
-| 3 | [Genshin Impact](games/g/genshin_impact.md) | 301,095 | 4.68 | 239 |
+| 3 | [Genshin Impact](games/g/genshin_impact.md) | 301,154 | 4.68 | 239 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 205,615 | 4.68 | 239 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 190,121 | 4.19 | 858 |
-| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 163,211 | 4.88 | 18 |
+| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 163,464 | 4.88 | 18 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 145,234 | 4.52 | 523 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 113,883 | 4.69 | 212 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 74,504 | 4.62 | 348 |
 | 10 | [VALORANT](games/v/valorant.md) | 62,843 | 4.53 | 511 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 59,555 | 4.58 | 425 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 42,020 | 4.61 | 366 |
-| 13 | [Destiny 2](games/d/destiny_2.md) | 36,050 | 4.49 | 572 |
+| 13 | [Destiny 2](games/d/destiny_2.md) | 36,065 | 4.49 | 572 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 35,277 | 4.74 | 144 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 30,500 | 4.52 | 523 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,732 | 4.65 | 296 |
@@ -35,8 +35,8 @@
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,334 | 4.69 | 212 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,989 | 4.45 | 626 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 10,854 | 4.88 | 18 |
-| 36 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,609 | 4.61 | 366 |
-| 37 | [SnowRunner](games/s/snowrunner.md) | 9,603 | 4.76 | 119 |
+| 36 | [SnowRunner](games/s/snowrunner.md) | 9,625 | 4.76 | 119 |
+| 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,609 | 4.61 | 366 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,582 | 4.78 | 100 |
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,612 | 4.58 | 425 |
 | 40 | [Control](games/c/control.md) | 8,424 | 4.60 | 390 |
@@ -48,7 +48,7 @@
 | 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,350 | 4.71 | 184 |
 | 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,305 | 4.68 | 239 |
 | 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,871 | 4.74 | 144 |
-| 49 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,796 | 4.71 | 184 |
+| 49 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,803 | 4.71 | 184 |
 | 50 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 663 |
 | 51 | [DEATH STRANDING](games/d/death_stranding.md) | 6,525 | 4.77 | 107 |
 | 52 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,380 | 4.80 | 82 |
@@ -189,13 +189,13 @@
 | 187 | [Riders Republic](games/r/riders_republic.md) | 553 | 4.75 | 136 |
 | 187 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 553 | 4.41 | 676 |
 | 189 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 552 | 4.62 | 348 |
-| 190 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 547 | 4.66 | 273 |
+| 190 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 549 | 4.66 | 273 |
 | 191 | [Godfall Ultimate Edition](games/g/godfall.md) | 534 | 4.07 | 909 |
 | 192 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 531 | 4.24 | 825 |
 | 193 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 519 | 4.52 | 523 |
 | 194 | [Terraforming Mars](games/t/terraforming_mars.md) | 506 | 4.54 | 494 |
 | 195 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 491 | 4.86 | 28 |
-| 196 | [Ghostrunner](games/g/ghostrunner.md) | 473 | 4.72 | 169 |
+| 196 | [Ghostrunner](games/g/ghostrunner.md) | 474 | 4.72 | 169 |
 | 197 | [Surviving Mars](games/s/surviving_mars.md) | 470 | 4.60 | 390 |
 | 198 | [Prison Architect](games/p/prison_architect.md) | 467 | 4.61 | 366 |
 | 199 | [MORDHAU](games/m/mordhau.md) | 464 | 4.40 | 695 |

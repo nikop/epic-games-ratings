@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.42% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 45.45% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.27% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.71% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
@@ -24,10 +24,10 @@
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Remains](games/r/remains.md) | 10.64% |
 | 24 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
-| 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.08% |
+| 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.06% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 27 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
-| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.66% |
+| 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.09% |
+| 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
 | 29 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 8.33% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.00% |
@@ -37,7 +37,7 @@
 | 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.98% |
 | 36 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
-| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.43% |
+| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.41% |
 | 39 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.38% |
 | 40 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.37% |
 | 41 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -136,8 +136,8 @@
 | 134 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
 | 134 | [Them and Us](games/t/them_and_us.md) | 0.51% |
 | 136 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
-| 136 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.50% |
-| 138 | [Train Valley](games/t/train_valley.md) | 0.49% |
+| 137 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.49% |
+| 137 | [Train Valley](games/t/train_valley.md) | 0.49% |
 | 139 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 140 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.46% |
 | 141 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.45% |
