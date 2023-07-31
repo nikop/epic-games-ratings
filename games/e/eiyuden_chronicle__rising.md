@@ -26,8 +26,8 @@ Number of Ratings: 48  (23.09.2022)
 | Scavenger's Honor | 36.00% | ~245 |
 | The Great Forest...On Foot! | 36.00% | ~245 |
 | One Mean Merc | 35.00% | ~238 |
+| Adept, for an Acting Mayor | 35.00% | ~238 |
 | Money, Money, Money | 35.00% | ~238 |
-| Adept, for an Acting Mayor | 34.00% | ~232 |
 | Rune Wall Master | 33.00% | ~225 |
 | The Quarry...On Foot! | 31.00% | ~211 |
 | The Runebarrows...On Foot! | 29.00% | ~197 |

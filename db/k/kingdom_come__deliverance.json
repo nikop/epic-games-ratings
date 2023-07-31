@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -6258,9 +6258,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 794980,
+  "EOS_Progressed": 794982,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1056,
+  "EOS_NewPlayers": 1055,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17263,6 +17263,11 @@
       "Time": "2023-07-31T04:05:14.9590877+00:00",
       "NumProgressed": 794980,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-07-31T05:03:46.8675058+00:00",
+      "NumProgressed": 794982,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -17386,7 +17391,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 198745
+      "UsersEstimate": 198746
     },
     {
       "ID": "Chivalrous",
@@ -17474,7 +17479,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 182845
+      "UsersEstimate": 182846
     },
     {
       "ID": "Fighter",
@@ -17594,7 +17599,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 103347
+      "UsersEstimate": 103348
     },
     {
       "ID": "Judas",
@@ -17929,15 +17934,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 794980,
+      "Progressed": 794982,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-07-30T22:59:31.9560242+00:00",
-  "LastChanged_Achievements": "2023-07-31T04:05:14.9590867+00:00",
+  "LastChanged_Achievements": "2023-07-31T05:03:46.8675052+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:16.6403338+00:00",
-  "LastUpdate_Ratings": "2023-07-31T03:59:38.5971495+00:00",
-  "LastUpdate_Achievements": "2023-07-31T04:05:14.9593074+00:00"
+  "LastUpdate_Ratings": "2023-07-31T04:58:42.6735955+00:00",
+  "LastUpdate_Achievements": "2023-07-31T05:03:46.8676683+00:00"
 }

@@ -59,6 +59,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.40% | ~869 |
 | Family Entanglements | 0.40% | ~869 |
 | The Ring of Regeneration | 0.40% | ~869 |
+| Seeking Allies | 0.40% | ~869 |
 | Luigi After Hours | 0.40% | ~734 |
 | Electric Mayhem | 0.40% | ~734 |
 | Animated Giff | 0.40% | ~734 |
@@ -93,7 +94,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.30% | ~652 |
 | The Crumbling Temple | 0.30% | ~652 |
 | The Death Curse | 0.30% | ~652 |
-| Seeking Allies | 0.30% | ~652 |
 | Are Ya Chicken? | 0.30% | ~652 |
 | Useless Allies | 0.30% | ~652 |
 | Mad Cow Disease | 0.30% | ~652 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,292 (Ranked 53)  
+Progressed: 217,300 (Ranked 53)  
 Completed: 2,138 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,7 +621,7 @@ Completed: 2,138 (0.98%) (Ranked 112)
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
-| 2023-07-31 | 217,292 | 2,138 |
+| 2023-07-31 | 217,300 | 2,138 |
 ## Awards
 Max (Diverse Characters): 5,106  (Ranked 67)  
 Sum: 30,819 (Ranked 38)  

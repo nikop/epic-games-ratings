@@ -6,77 +6,77 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 9.00% | ~66,052 |
-| Zealous | 8.00% | ~58,713 |
-| Skillful | 8.00% | ~58,713 |
-| Not half bad | 7.00% | ~51,374 |
-| Apt Survivor | 7.00% | ~51,374 |
-| Handyman | 6.00% | ~44,035 |
-| Bloody Millionaire | 6.00% | ~44,035 |
-| Survival Treasures | 6.00% | ~44,035 |
-| I | 6.00% | ~44,035 |
-| Sorted | 6.00% | ~44,035 |
-| Make Some Noise | 6.00% | ~44,035 |
-| The Grand Sacrifice | 5.00% | ~36,696 |
-| Backdoor Escape | 5.00% | ~36,696 |
-| No one left behind | 5.00% | ~36,696 |
-| Medic | 5.00% | ~36,696 |
-| Nerves of steel | 5.00% | ~36,696 |
-| Perfect Escape | 5.00% | ~36,696 |
-| Agonizing Escape | 4.00% | ~29,356 |
-| I've got your back | 4.00% | ~29,356 |
-| Perfect Killing | 4.00% | ~29,356 |
-| Apt Killer | 4.00% | ~29,356 |
-| Risk it all | 4.00% | ~29,356 |
-| II | 4.00% | ~29,356 |
-| III | 4.00% | ~29,356 |
-| Engineer | 4.00% | ~29,356 |
-| Extraterrestrial | 4.00% | ~29,356 |
-| One More Step | 4.00% | ~29,356 |
-| Blood on your hands | 3.00% | ~22,017 |
-| Made it out alive! | 3.00% | ~22,017 |
-| Vulture | 3.00% | ~22,017 |
-| III-50 | 3.00% | ~22,017 |
-| Happy Holidays | 3.00% | ~22,017 |
-| Near-Death Experience | 3.00% | ~22,017 |
-| Cherish your Life | 3.00% | ~22,017 |
-| Complete the Evolution | 3.00% | ~22,017 |
-| A bite for the Entity | 2.00% | ~14,678 |
-| Blood on your face | 2.00% | ~14,678 |
-| Escape Artist | 2.00% | ~14,678 |
-| Gifts for the Fog | 2.00% | ~14,678 |
-| Hemophobia | 2.00% | ~14,678 |
-| Shock Therapy | 2.00% | ~14,678 |
-| All Aboard | 2.00% | ~14,678 |
-| Deep Cleansing | 2.00% | ~14,678 |
-| Leapfrog | 2.00% | ~14,678 |
-| Item of Obsession | 2.00% | ~14,678 |
-| House of Pain | 2.00% | ~14,678 |
-| Cottage Owner | 2.00% | ~14,678 |
-| Serial Killer | 2.00% | ~14,678 |
-| Escaping the Nightmare | 2.00% | ~14,678 |
-| Holiday Get-Together | 2.00% | ~14,678 |
-| Game Over | 2.00% | ~14,678 |
-| Campbell's Chapel Legacy | 2.00% | ~14,678 |
-| Blood in your mouth | 1.00% | ~7,339 |
-| Jump Scares | 1.00% | ~7,339 |
-| Texas BBQ | 1.00% | ~7,339 |
-| Party Crasher | 1.00% | ~7,339 |
-| Whiffing to Success | 1.00% | ~7,339 |
-| Outrage | 1.00% | ~7,339 |
-| Healthy Obsession | 1.00% | ~7,339 |
-| Resurgence | 1.00% | ~7,339 |
-| Preemptive Strike | 1.00% | ~7,339 |
-| Humanitarian | 1.00% | ~7,339 |
-| Second Act | 1.00% | ~7,339 |
-| Looter | 0.90% | ~6,605 |
-| Mad House | 0.80% | ~5,871 |
-| Wounded Healer | 0.80% | ~5,871 |
-| Close Shave | 0.80% | ~5,871 |
-| A feast for the Entity | 0.60% | ~4,403 |
-| In the void she walks | 0.60% | ~4,403 |
-| First to the Punch | 0.60% | ~4,403 |
-| With Scars to Show | 0.60% | ~4,403 |
+| It wakes | 9.00% | ~66,062 |
+| Zealous | 8.00% | ~58,721 |
+| Skillful | 8.00% | ~58,721 |
+| Not half bad | 7.00% | ~51,381 |
+| Apt Survivor | 7.00% | ~51,381 |
+| Handyman | 6.00% | ~44,041 |
+| Bloody Millionaire | 6.00% | ~44,041 |
+| Survival Treasures | 6.00% | ~44,041 |
+| I | 6.00% | ~44,041 |
+| Sorted | 6.00% | ~44,041 |
+| Make Some Noise | 6.00% | ~44,041 |
+| The Grand Sacrifice | 5.00% | ~36,701 |
+| Backdoor Escape | 5.00% | ~36,701 |
+| No one left behind | 5.00% | ~36,701 |
+| Medic | 5.00% | ~36,701 |
+| Nerves of steel | 5.00% | ~36,701 |
+| Perfect Escape | 5.00% | ~36,701 |
+| Agonizing Escape | 4.00% | ~29,361 |
+| I've got your back | 4.00% | ~29,361 |
+| Perfect Killing | 4.00% | ~29,361 |
+| Apt Killer | 4.00% | ~29,361 |
+| Risk it all | 4.00% | ~29,361 |
+| II | 4.00% | ~29,361 |
+| III | 4.00% | ~29,361 |
+| Engineer | 4.00% | ~29,361 |
+| Extraterrestrial | 4.00% | ~29,361 |
+| One More Step | 4.00% | ~29,361 |
+| Blood on your hands | 3.00% | ~22,021 |
+| Made it out alive! | 3.00% | ~22,021 |
+| Vulture | 3.00% | ~22,021 |
+| III-50 | 3.00% | ~22,021 |
+| Holiday Get-Together | 3.00% | ~22,021 |
+| Happy Holidays | 3.00% | ~22,021 |
+| Near-Death Experience | 3.00% | ~22,021 |
+| Cherish your Life | 3.00% | ~22,021 |
+| Complete the Evolution | 3.00% | ~22,021 |
+| A bite for the Entity | 2.00% | ~14,680 |
+| Blood on your face | 2.00% | ~14,680 |
+| Escape Artist | 2.00% | ~14,680 |
+| Gifts for the Fog | 2.00% | ~14,680 |
+| Hemophobia | 2.00% | ~14,680 |
+| Shock Therapy | 2.00% | ~14,680 |
+| All Aboard | 2.00% | ~14,680 |
+| Deep Cleansing | 2.00% | ~14,680 |
+| Leapfrog | 2.00% | ~14,680 |
+| Item of Obsession | 2.00% | ~14,680 |
+| House of Pain | 2.00% | ~14,680 |
+| Cottage Owner | 2.00% | ~14,680 |
+| Serial Killer | 2.00% | ~14,680 |
+| Escaping the Nightmare | 2.00% | ~14,680 |
+| Game Over | 2.00% | ~14,680 |
+| Campbell's Chapel Legacy | 2.00% | ~14,680 |
+| Blood in your mouth | 1.00% | ~7,340 |
+| Jump Scares | 1.00% | ~7,340 |
+| Texas BBQ | 1.00% | ~7,340 |
+| Party Crasher | 1.00% | ~7,340 |
+| Whiffing to Success | 1.00% | ~7,340 |
+| Outrage | 1.00% | ~7,340 |
+| Healthy Obsession | 1.00% | ~7,340 |
+| Resurgence | 1.00% | ~7,340 |
+| Preemptive Strike | 1.00% | ~7,340 |
+| Humanitarian | 1.00% | ~7,340 |
+| Second Act | 1.00% | ~7,340 |
+| Looter | 0.90% | ~6,606 |
+| Mad House | 0.80% | ~5,872 |
+| Wounded Healer | 0.80% | ~5,872 |
+| Close Shave | 0.80% | ~5,872 |
+| A feast for the Entity | 0.60% | ~4,404 |
+| In the void she walks | 0.60% | ~4,404 |
+| First to the Punch | 0.60% | ~4,404 |
+| With Scars to Show | 0.60% | ~4,404 |
 | Milk 'n' Cookies | 0.50% | ~3,670 |
 | Unforgettable Getaway | 0.50% | ~3,670 |
 | Operation: Survival | 0.50% | ~3,670 |
@@ -230,7 +230,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Singularity | 0.10% | ~734 |
 | Adept Gabriel | 0.10% | ~734 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,910 (Ranked 16)  
+Progressed: 734,017 (Ranked 16)  
 Completed: 45 (0.01%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 45 (0.01%) (Ranked 233)
 | 2023-07-28 | 725,044 | 43 |
 | 2023-07-29 | 728,952 | 45 |
 | 2023-07-30 | 733,187 | 45 |
-| 2023-07-31 | 733,910 | 45 |
+| 2023-07-31 | 734,017 | 45 |
 ## Awards
 Max (Diverse Characters): 30,500  (Ranked 15)  
 Sum: 241,036 (Ranked 12)  

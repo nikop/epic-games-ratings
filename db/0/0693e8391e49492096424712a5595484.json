@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 38,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -1302,17 +1302,17 @@
       "ID": "SleepingBasiliskAmanita",
       "SetID": "db30heh",
       "Name": "Wild Dreams",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     },
     {
       "ID": "SleepingBasiliskPistol",
       "SetID": "db30heh",
       "Name": "Knockout",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "SleepingBasiliskPoppiesBroth",
@@ -1357,8 +1357,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-31T04:07:44.923097+00:00",
+  "LastChanged_Achievements": "2023-07-31T05:05:28.0908631+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-31T03:57:34.6017808+00:00",
-  "LastUpdate_Achievements": "2023-07-31T04:07:44.9231399+00:00"
+  "LastUpdate_Ratings": "2023-07-31T04:57:17.5421486+00:00",
+  "LastUpdate_Achievements": "2023-07-31T05:05:28.090916+00:00"
 }

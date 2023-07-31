@@ -4,8 +4,8 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1853,
+  "EOS_Progressed": 1854,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3036,6 +3036,11 @@
       "Time": "2023-07-31T03:05:51.7484145+00:00",
       "NumProgressed": 1853,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-31T05:04:46.9749117+00:00",
+      "NumProgressed": 1854,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -3061,9 +3066,9 @@
       "ID": "ach_10_medium_pictures",
       "SetID": "3h4khpo",
       "Name": "Artist in the making",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 185
+      "UsersEstimate": 204
     },
     {
       "ID": "ach_animals_completed",
@@ -3079,7 +3084,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "ach_architecture_completed",
@@ -3103,7 +3108,7 @@
       "Name": "Cannoneer",
       "Percentage": 27,
       "XP": 65,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ach_color_splash",
@@ -3119,7 +3124,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "ach_food_completed",
@@ -3151,7 +3156,7 @@
       "Name": "Magic time",
       "Percentage": 29,
       "XP": 65,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ach_no_boosters",
@@ -3174,14 +3179,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 1853,
+      "Progressed": 1854,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-31T04:06:43.9481387+00:00",
+  "LastChanged_Achievements": "2023-07-31T05:04:46.9749113+00:00",
   "LastUpdate_AppInfo": "2023-07-28T10:57:28.8987406+00:00",
-  "LastUpdate_Ratings": "2023-07-31T03:57:43.6190958+00:00",
-  "LastUpdate_Achievements": "2023-07-31T04:06:43.9481816+00:00"
+  "LastUpdate_Ratings": "2023-07-31T04:57:23.9600039+00:00",
+  "LastUpdate_Achievements": "2023-07-31T05:04:46.9749423+00:00"
 }

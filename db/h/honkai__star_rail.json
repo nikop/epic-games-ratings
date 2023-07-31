@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
     "PcReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -1834,10 +1834,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 10344,
       "NumberOfAwardsMax": 5242
+    },
+    {
+      "Time": "2023-07-31T05:00:28.2967596+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 10409,
+      "NumberOfAwardsMax": 5242
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10344,
+  "NumberOfAwards": 10409,
   "NumberOfAwardsMax": 5242,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1857,7 +1863,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 469
+      "Count": 487
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1875,7 +1881,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 439
+      "Count": 469
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1905,7 +1911,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 502
+      "Count": 519
     },
     {
       "Text": "This game has a Creative Community",
@@ -1926,8 +1932,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-07-31T04:02:23.4080151+00:00",
+  "LastChanged": "2023-07-31T05:00:28.2967595+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.3696211+00:00",
-  "LastUpdate_Ratings": "2023-07-31T04:02:23.4080162+00:00",
-  "LastUpdate_Achievements": "2023-07-31T04:06:56.8458001+00:00"
+  "LastUpdate_Ratings": "2023-07-31T05:00:28.2967601+00:00",
+  "LastUpdate_Achievements": "2023-07-31T05:04:55.5550219+00:00"
 }

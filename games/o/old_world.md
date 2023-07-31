@@ -32,13 +32,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 0.70% | ~92 |
 | Glorious | 0.70% | ~92 |
 | Keystone | 0.70% | ~92 |
+| Warrior | 0.70% | ~92 |
 | Pyramids | 0.70% | ~92 |
 | Babylonian Paganism | 0.70% | ~92 |
 | Greek Paganism | 0.70% | ~92 |
 | Zoroastrianism | 0.70% | ~92 |
 | Fountainhead | 0.60% | ~79 |
 | Magnificent | 0.60% | ~79 |
-| Warrior | 0.60% | ~79 |
 | Wise | 0.60% | ~79 |
 | Developing Cities | 0.60% | ~79 |
 | Strong Cities | 0.60% | ~79 |
@@ -53,6 +53,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 0.50% | ~66 |
 | Great | 0.50% | ~66 |
 | Artisans | 0.50% | ~66 |
+| Furious Family | 0.50% | ~66 |
 | Colossus | 0.50% | ~66 |
 | Great Ziggurat | 0.50% | ~66 |
 | Musaeum | 0.50% | ~66 |
@@ -68,7 +69,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.40% | ~53 |
 | Champions | 0.40% | ~53 |
 | Sages | 0.40% | ~53 |
-| Furious Family | 0.40% | ~53 |
 | Acropolis | 0.40% | ~53 |
 | Apadana | 0.40% | ~53 |
 | Mausoleum | 0.40% | ~53 |

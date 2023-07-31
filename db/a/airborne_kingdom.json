@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6930,
+  "EOS_Progressed": 6931,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -3203,6 +3203,11 @@
       "Time": "2023-07-31T04:04:05.6066335+00:00",
       "NumProgressed": 6930,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-07-31T05:03:13.8443293+00:00",
+      "NumProgressed": 6931,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -3230,7 +3235,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2841
+      "UsersEstimate": 2842
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -3270,7 +3275,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -3278,7 +3283,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -3310,7 +3315,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -3358,7 +3363,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2841
+      "UsersEstimate": 2842
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -3382,7 +3387,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2356
+      "UsersEstimate": 2357
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -3429,15 +3434,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6930,
+      "Progressed": 6931,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-31T04:04:05.606633+00:00",
+  "LastChanged_Achievements": "2023-07-31T05:03:13.8443285+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.513053+00:00",
-  "LastUpdate_Ratings": "2023-07-31T03:58:22.916477+00:00",
-  "LastUpdate_Achievements": "2023-07-31T04:04:05.6066728+00:00"
+  "LastUpdate_Ratings": "2023-07-31T04:57:47.9995006+00:00",
+  "LastUpdate_Achievements": "2023-07-31T05:03:13.8443674+00:00"
 }

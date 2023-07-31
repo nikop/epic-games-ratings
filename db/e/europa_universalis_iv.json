@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -7668,9 +7668,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 76233,
+  "EOS_Progressed": 76242,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2806,
+  "EOS_NewPlayers": 2809,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18788,6 +18788,11 @@
       "Time": "2023-07-31T04:07:41.7039451+00:00",
       "NumProgressed": 76233,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T05:05:26.2532808+00:00",
+      "NumProgressed": 76242,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -19239,7 +19244,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4574
+      "UsersEstimate": 4575
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -19319,7 +19324,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3049
+      "UsersEstimate": 3050
     },
     {
       "ID": "achievement_colonial_management",
@@ -19823,7 +19828,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4574
+      "UsersEstimate": 4575
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -20799,7 +20804,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4574
+      "UsersEstimate": 4575
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -21391,7 +21396,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3049
+      "UsersEstimate": 3050
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -21463,7 +21468,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 6861
+      "UsersEstimate": 6862
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -21630,21 +21635,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 76233,
+      "Progressed": 76242,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 76233,
+      "Progressed": 76242,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-07-31T01:57:07.5389475+00:00",
-  "LastChanged_Achievements": "2023-07-31T04:07:41.7039446+00:00",
+  "LastChanged_Achievements": "2023-07-31T05:05:26.2532803+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.0548947+00:00",
-  "LastUpdate_Ratings": "2023-07-31T03:58:21.9459778+00:00",
-  "LastUpdate_Achievements": "2023-07-31T04:07:41.7053477+00:00"
+  "LastUpdate_Ratings": "2023-07-31T04:57:47.3654131+00:00",
+  "LastUpdate_Achievements": "2023-07-31T05:05:26.2546303+00:00"
 }

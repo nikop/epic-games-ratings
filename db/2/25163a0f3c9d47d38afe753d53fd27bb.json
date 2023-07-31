@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 610,
+  "EOS_Progressed": 611,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 10.98,
+  "EOS_Completed_Percentage": 10.97,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1956,6 +1956,11 @@
       "Time": "2023-07-30T20:06:13.4123574+00:00",
       "NumProgressed": 610,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-07-31T05:05:40.2469355+00:00",
+      "NumProgressed": 611,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 30,
@@ -1967,7 +1972,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "LEVEL_002",
@@ -1975,7 +1980,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "LEVEL_003",
@@ -1983,7 +1988,7 @@
       "Name": "A horse in the country",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "LEVEL_004",
@@ -2007,7 +2012,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "LEVEL_007",
@@ -2047,7 +2052,7 @@
       "Name": "This island of mine",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "LEVEL_012",
@@ -2111,7 +2116,7 @@
       "Name": "Calling Mr. Joe",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "LEVEL_020",
@@ -2119,7 +2124,7 @@
       "Name": "Go round and round",
       "Percentage": 14,
       "XP": 110,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "LEVEL_021",
@@ -2206,14 +2211,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 610,
+      "Progressed": 611,
       "Completed": 67
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-31T04:08:03.1479258+00:00",
+  "LastChanged_Achievements": "2023-07-31T05:05:40.246935+00:00",
   "LastUpdate_AppInfo": "2023-07-24T17:56:59.9078408+00:00",
-  "LastUpdate_Ratings": "2023-07-31T03:57:55.6413181+00:00",
-  "LastUpdate_Achievements": "2023-07-31T04:08:03.1479631+00:00"
+  "LastUpdate_Ratings": "2023-07-31T04:57:31.69323+00:00",
+  "LastUpdate_Achievements": "2023-07-31T05:05:40.246972+00:00"
 }
