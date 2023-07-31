@@ -11,17 +11,17 @@ Rating: 4.87 (Ranked 24)
 | Cream of the Crop | 4.00% | ~146 |
 | Thanks for the free chip, Peppermint! | 4.00% | ~146 |
 | Who put gears in there? | 4.00% | ~146 |
-| This will cost you big time | 3.00% | ~109 |
-| I play my own way! | 3.00% | ~109 |
-| Whoa! There's ANOTHER health bar!? | 3.00% | ~109 |
-| You got this, Peppermint? | 3.00% | ~109 |
-| Z-shielding's got nothing on us! | 3.00% | ~109 |
-| Out in a puff of smoke | 3.00% | ~109 |
-| Perfect Parry | 3.00% | ~109 |
-| Uh, they were broken when I got here | 3.00% | ~109 |
-| Kissing the sky! | 3.00% | ~109 |
-| Alright, that felt AWESOME! | 3.00% | ~109 |
-| Does that say weakpoint? | 3.00% | ~109 |
+| This will cost you big time | 3.00% | ~110 |
+| I play my own way! | 3.00% | ~110 |
+| Whoa! There's ANOTHER health bar!? | 3.00% | ~110 |
+| You got this, Peppermint? | 3.00% | ~110 |
+| Z-shielding's got nothing on us! | 3.00% | ~110 |
+| Out in a puff of smoke | 3.00% | ~110 |
+| Perfect Parry | 3.00% | ~110 |
+| Uh, they were broken when I got here | 3.00% | ~110 |
+| Kissing the sky! | 3.00% | ~110 |
+| Alright, that felt AWESOME! | 3.00% | ~110 |
+| Does that say weakpoint? | 3.00% | ~110 |
 | NOW we got a kickass hideout! | 3.00% | ~65 |
 | The Negotiator | 2.00% | ~73 |
 | Headliner | 2.00% | ~73 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,649 (Ranked 146)  
+Progressed: 3,650 (Ranked 146)  
 Completed: 6 (0.16%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 6 (0.16%) (Ranked 179)
 | 2023-07-28 | 3,610 | 6 |
 | 2023-07-29 | 3,627 | 6 |
 | 2023-07-30 | 3,640 | 6 |
-| 2023-07-31 | 3,649 | 6 |
+| 2023-07-31 | 3,650 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

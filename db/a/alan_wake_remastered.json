@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 59623,
+  "EOS_Progressed": 59625,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 1109,
+  "EOS_NewPlayers": 1104,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9687,6 +9687,11 @@
       "Time": "2023-07-31T10:04:36.5943781+00:00",
       "NumProgressed": 59623,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-07-31T11:04:52.094506+00:00",
+      "NumProgressed": 59625,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 67,
@@ -9698,7 +9703,7 @@
       "Name": "Follow the Light",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 21464
+      "UsersEstimate": 21465
     },
     {
       "ID": "02",
@@ -9706,7 +9711,7 @@
       "Name": "Nordic Walking",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13117
+      "UsersEstimate": 13118
     },
     {
       "ID": "03",
@@ -9714,7 +9719,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13117
+      "UsersEstimate": 13118
     },
     {
       "ID": "04",
@@ -9730,7 +9735,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 11328
+      "UsersEstimate": 11329
     },
     {
       "ID": "06",
@@ -9826,7 +9831,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3577
+      "UsersEstimate": 3578
     },
     {
       "ID": "18",
@@ -9938,7 +9943,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8943
+      "UsersEstimate": 8944
     },
     {
       "ID": "32",
@@ -9946,7 +9951,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16694
+      "UsersEstimate": 16695
     },
     {
       "ID": "33",
@@ -10018,7 +10023,7 @@
       "Name": "Finders Keepers",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8943
+      "UsersEstimate": 8944
     },
     {
       "ID": "42",
@@ -10106,7 +10111,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1385
+      "UsersEstimate": 1386
     },
     {
       "ID": "53",
@@ -10233,21 +10238,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 59623,
+      "Progressed": 59625,
       "Completed": 60
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23091,
+      "Progressed": 23093,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-31T10:04:36.5943776+00:00",
+  "LastChanged_Achievements": "2023-07-31T11:04:52.0945055+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:35.0351219+00:00",
-  "LastUpdate_Ratings": "2023-07-31T09:58:21.8933908+00:00",
-  "LastUpdate_Achievements": "2023-07-31T10:04:36.5944733+00:00"
+  "LastUpdate_Ratings": "2023-07-31T10:58:25.2351225+00:00",
+  "LastUpdate_Achievements": "2023-07-31T11:04:52.0946194+00:00"
 }

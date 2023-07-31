@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -784,9 +784,9 @@
       "ID": "ach_buzz",
       "SetID": "b8gh1fi",
       "Name": "Campaign Launch",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 118
     },
     {
       "ID": "ach_campaigns_1",
@@ -904,9 +904,9 @@
       "ID": "ach_deco",
       "SetID": "b8gh1fi",
       "Name": "Proper Walls",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "ach_drones",
@@ -1032,9 +1032,9 @@
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 139
     },
     {
       "ID": "ach_grime_1",
@@ -1409,8 +1409,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-31T10:00:59.033772+00:00",
+  "LastChanged_Achievements": "2023-07-31T11:01:38.537049+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:50.6819272+00:00",
-  "LastUpdate_Ratings": "2023-07-31T09:58:40.2521718+00:00",
-  "LastUpdate_Achievements": "2023-07-31T10:00:59.0348624+00:00"
+  "LastUpdate_Ratings": "2023-07-31T10:58:44.2059979+00:00",
+  "LastUpdate_Achievements": "2023-07-31T11:01:38.5371598+00:00"
 }

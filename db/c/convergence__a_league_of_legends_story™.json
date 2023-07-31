@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1953,9 +1953,9 @@
       "ID": "CosmeticCompletion1",
       "SetID": "a9e499d",
       "Name": "Sartorialist",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 57
     },
     {
       "ID": "CosmeticProgress1",
@@ -2322,8 +2322,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-07-31T10:04:29.6987896+00:00",
+  "LastChanged_Achievements": "2023-07-31T11:04:43.8042508+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.2379789+00:00",
-  "LastUpdate_Ratings": "2023-07-31T09:59:54.2957561+00:00",
-  "LastUpdate_Achievements": "2023-07-31T10:04:29.6988341+00:00"
+  "LastUpdate_Ratings": "2023-07-31T11:00:19.1446614+00:00",
+  "LastUpdate_Achievements": "2023-07-31T11:04:43.804308+00:00"
 }

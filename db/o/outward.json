@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3210,
+  "EOS_Progressed": 3211,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3731,6 +3731,11 @@
       "Time": "2023-07-31T07:02:22.0489518+00:00",
       "NumProgressed": 3210,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-31T11:03:07.2449235+00:00",
+      "NumProgressed": 3211,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3774,7 +3779,7 @@
       "Name": "Blood and justice",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "CordonBleu_28",
@@ -3782,7 +3787,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "CrowdPleaser",
@@ -3806,7 +3811,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -3926,7 +3931,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "ReadyforWinter_42",
@@ -3934,7 +3939,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -3942,7 +3947,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -3950,7 +3955,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -4077,15 +4082,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3210,
+      "Progressed": 3211,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-31T10:03:24.6054483+00:00",
+  "LastChanged_Achievements": "2023-07-31T11:03:07.244923+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.443387+00:00",
-  "LastUpdate_Ratings": "2023-07-31T09:58:36.037639+00:00",
-  "LastUpdate_Achievements": "2023-07-31T10:03:24.6054898+00:00"
+  "LastUpdate_Ratings": "2023-07-31T10:58:38.583155+00:00",
+  "LastUpdate_Achievements": "2023-07-31T11:03:07.2449771+00:00"
 }

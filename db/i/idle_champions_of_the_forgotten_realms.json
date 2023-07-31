@@ -5416,9 +5416,9 @@
       "Count": 3330
     }
   ],
-  "EOS_Progressed": 217338,
+  "EOS_Progressed": 217345,
   "EOS_Completed": 2138,
-  "EOS_NewPlayers": 2276,
+  "EOS_NewPlayers": 2281,
   "EOS_NewCompleters": 78,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16371,6 +16371,11 @@
       "Time": "2023-07-31T10:04:16.7545653+00:00",
       "NumProgressed": 217338,
       "NumCompleted": 2138
+    },
+    {
+      "Time": "2023-07-31T11:04:29.37324+00:00",
+      "NumProgressed": 217345,
+      "NumCompleted": 2138
     }
   ],
   "TotalAchievements": 512,
@@ -17012,9 +17017,9 @@
       "ID": "objective_completed_1153",
       "SetID": "415jc5c",
       "Name": "Speeds of Destruction",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 734
     },
     {
       "ID": "objective_completed_1154",
@@ -17292,9 +17297,9 @@
       "ID": "objective_completed_1214",
       "SetID": "415jc5c",
       "Name": "Clowning Around",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 367
     },
     {
       "ID": "objective_completed_1218",
@@ -20477,21 +20482,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183612,
+      "Progressed": 183619,
       "Completed": 3036
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217338,
+      "Progressed": 217345,
       "Completed": 2138
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-31T07:58:28.9560959+00:00",
-  "LastChanged_Achievements": "2023-07-31T10:04:16.7545646+00:00",
+  "LastChanged_Achievements": "2023-07-31T11:04:29.3732393+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-31T09:58:49.8849845+00:00",
-  "LastUpdate_Achievements": "2023-07-31T10:04:16.7569051+00:00"
+  "LastUpdate_Ratings": "2023-07-31T10:58:56.4432195+00:00",
+  "LastUpdate_Achievements": "2023-07-31T11:04:29.3770222+00:00"
 }

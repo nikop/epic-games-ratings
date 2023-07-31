@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228553,
+  "EOS_Progressed": 228555,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10888,6 +10888,11 @@
       "Time": "2023-07-31T10:04:21.373993+00:00",
       "NumProgressed": 228553,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-31T11:04:34.2041542+00:00",
+      "NumProgressed": 228555,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -11035,7 +11040,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 75422
+      "UsersEstimate": 75423
     },
     {
       "ID": "NOBUNAGA",
@@ -11163,22 +11168,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 93707
+      "UsersEstimate": 93708
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 228553,
+      "Progressed": 228555,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-07-31T10:04:21.3739925+00:00",
+  "LastChanged_Achievements": "2023-07-31T11:04:34.2041531+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.6745563+00:00",
-  "LastUpdate_Ratings": "2023-07-31T09:58:54.6878983+00:00",
-  "LastUpdate_Achievements": "2023-07-31T10:04:21.3740619+00:00"
+  "LastUpdate_Ratings": "2023-07-31T10:59:02.345543+00:00",
+  "LastUpdate_Achievements": "2023-07-31T11:04:34.20427+00:00"
 }

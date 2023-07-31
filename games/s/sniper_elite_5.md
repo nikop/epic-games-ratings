@@ -14,16 +14,16 @@ Rating: 4.42 (Ranked 664)
 | Taking it back | 4.00% | ~135 |
 | Target America | 4.00% | ~135 |
 | The Kraken Sleeps | 4.00% | ~135 |
-| Climbing the Ladder | 3.00% | ~101 |
-| No Stone Unturned | 3.00% | ~101 |
-| Organ Grinder | 3.00% | ~101 |
-| Meeting Resistance | 3.00% | ~101 |
-| Gunslinger | 3.00% | ~101 |
-| Sharpshooter | 3.00% | ~101 |
-| Resourceful | 3.00% | ~101 |
-| Der Geist | 3.00% | ~101 |
-| As Quiet as a Mouse | 3.00% | ~101 |
-| Brains of the Operation | 3.00% | ~101 |
+| Climbing the Ladder | 3.00% | ~102 |
+| No Stone Unturned | 3.00% | ~102 |
+| Organ Grinder | 3.00% | ~102 |
+| Meeting Resistance | 3.00% | ~102 |
+| Gunslinger | 3.00% | ~102 |
+| Sharpshooter | 3.00% | ~102 |
+| Resourceful | 3.00% | ~102 |
+| Der Geist | 3.00% | ~102 |
+| As Quiet as a Mouse | 3.00% | ~102 |
+| Brains of the Operation | 3.00% | ~102 |
 | Opposing Force | 2.00% | ~68 |
 | Enemy at the Gates | 2.00% | ~68 |
 | Fields of Glory | 2.00% | ~68 |
@@ -77,7 +77,7 @@ Rating: 4.42 (Ranked 664)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,383 (Ranked 149)  
+Progressed: 3,384 (Ranked 149)  
 Completed: 9 (0.27%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,6 +178,7 @@ Completed: 9 (0.27%) (Ranked 162)
 | 2023-07-28 | 3,364 | 9 |
 | 2023-07-29 | 3,371 | 9 |
 | 2023-07-30 | 3,383 | 9 |
+| 2023-07-31 | 3,384 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

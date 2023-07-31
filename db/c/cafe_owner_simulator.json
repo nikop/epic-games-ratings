@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -2522,9 +2522,9 @@
       "ID": "ADVANCED",
       "SetID": "64e5lgf",
       "Name": "ADVANCED",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 358
     },
     {
       "ID": "BUSINESS_OWNER",
@@ -2643,8 +2643,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-07-31T10:06:47.3841228+00:00",
+  "LastChanged_Achievements": "2023-07-31T11:07:31.6944871+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:02.6399778+00:00",
-  "LastUpdate_Ratings": "2023-07-31T09:59:55.6072088+00:00",
-  "LastUpdate_Achievements": "2023-07-31T10:06:47.3841436+00:00"
+  "LastUpdate_Ratings": "2023-07-31T11:00:21.2484934+00:00",
+  "LastUpdate_Achievements": "2023-07-31T11:07:31.6945168+00:00"
 }

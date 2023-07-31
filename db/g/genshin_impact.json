@@ -2,13 +2,13 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "ProductSlug": "genshin-impact",
-  "Ranking_Rating": 239,
+  "Ranking_Rating": 238,
   "Ranking_Popularity": 3,
   "Ranking_PopularitySum": 4,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
     "PcReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -8907,6 +8907,6 @@
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
   "LastChanged": "2023-07-31T09:59:29.6549533+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:44.955546+00:00",
-  "LastUpdate_Ratings": "2023-07-31T09:59:29.6549553+00:00",
-  "LastUpdate_Achievements": "2023-07-31T10:03:33.5159484+00:00"
+  "LastUpdate_Ratings": "2023-07-31T10:59:46.9660557+00:00",
+  "LastUpdate_Achievements": "2023-07-31T11:03:17.7726748+00:00"
 }

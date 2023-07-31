@@ -43,9 +43,9 @@ Rating: 4.60 (Ranked 390)
 | Fairgrounds Explorer | 8.00% | ~65 |
 | Syron for Hope | 8.00% | ~65 |
 | Corin Goes Home | 7.00% | ~57 |
+| Sartorialist | 7.00% | ~57 |
 | Cultivair Explorer | 7.00% | ~57 |
 | Entresol Explorer | 7.00% | ~57 |
-| Sartorialist | 6.00% | ~49 |
 | Golem Hunter | 5.00% | ~40 |
 | Rungs Was Right | 5.00% | ~40 |
 | Clovemary for Remembering | 4.00% | ~32 |

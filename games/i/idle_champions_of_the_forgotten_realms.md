@@ -51,6 +51,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.50% | ~918 |
 | Krux's Speed Run | 0.50% | ~918 |
 | Thieves of the Coven | 0.40% | ~734 |
+| Speeds of Destruction | 0.40% | ~734 |
 | On the Hunt | 0.40% | ~869 |
 | A Demi-god's Defender | 0.40% | ~734 |
 | Friends of the Forest | 0.40% | ~869 |
@@ -71,7 +72,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prince of a Thousand Enemies | 0.30% | ~551 |
 | Downfall | 0.30% | ~551 |
 | Slack-jawed Lorna | 0.30% | ~551 |
-| Speeds of Destruction | 0.30% | ~551 |
 | Owlbear Necessities | 0.30% | ~551 |
 | Best Thay Ever | 0.30% | ~551 |
 | Well Equipped | 0.30% | ~551 |
@@ -144,6 +144,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Get Back In The Castle | 0.20% | ~367 |
 | Checkmate | 0.20% | ~367 |
 | Vecna Out! | 0.20% | ~367 |
+| Clowning Around | 0.20% | ~367 |
 | Anti-Dexterous Explorers | 0.20% | ~435 |
 | Not Very Charming | 0.20% | ~435 |
 | Lobsterfolk Assault | 0.20% | ~435 |
@@ -260,7 +261,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Destroyer | 0.10% | ~184 |
 | Pin and Skewer | 0.10% | ~184 |
 | Bully for Vecna | 0.10% | ~184 |
-| Clowning Around | 0.10% | ~184 |
 | A Whale of a Time | 0.10% | ~184 |
 | Struggling Toward Omu | 0.10% | ~217 |
 | Wagon Train | 0.10% | ~217 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,338 (Ranked 53)  
+Progressed: 217,345 (Ranked 53)  
 Completed: 2,138 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,7 +621,7 @@ Completed: 2,138 (0.98%) (Ranked 112)
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
-| 2023-07-31 | 217,338 | 2,138 |
+| 2023-07-31 | 217,345 | 2,138 |
 ## Awards
 Max (Diverse Characters): 5,106  (Ranked 67)  
 Sum: 30,821 (Ranked 38)  

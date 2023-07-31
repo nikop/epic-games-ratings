@@ -14,9 +14,9 @@ Number of Ratings: 780  (23.09.2022)
 | Northern Scourge | 17.00% | ~112,218 |
 | Thief Bane | 14.00% | ~92,415 |
 | Master of Arms | 12.00% | ~79,213 |
-| Gambler | 10.00% | ~66,010 |
-| Dice Master | 10.00% | ~66,010 |
-| Swordsman | 9.00% | ~59,409 |
+| Gambler | 10.00% | ~66,011 |
+| Dice Master | 10.00% | ~66,011 |
+| Swordsman | 9.00% | ~59,410 |
 | Knight | 8.00% | ~52,808 |
 | Cure for Corruption | 8.00% | ~52,808 |
 | Focused | 8.00% | ~52,808 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~660 |
 | Blood Pact | 0.10% | ~660 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 660,105 (Ranked 22)  
+Progressed: 660,106 (Ranked 22)  
 Completed: 168 (0.03%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 168 (0.03%) (Ranked 221)
 | 2023-07-28 | 659,943 | 168 |
 | 2023-07-29 | 660,016 | 168 |
 | 2023-07-30 | 660,087 | 168 |
-| 2023-07-31 | 660,105 | 168 |
+| 2023-07-31 | 660,106 | 168 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 436)  
 Sum: 180 (Ranked 376)  

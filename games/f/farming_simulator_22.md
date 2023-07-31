@@ -1,22 +1,22 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.69 (Ranked 212)  
+Rating: 4.69 (Ranked 211)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~34,764 |
-| I read Shakespeare and stuff | 64.00% | ~29,665 |
+| Own use | 75.00% | ~34,765 |
+| I read Shakespeare and stuff | 64.00% | ~29,666 |
 | Just a sprinkle | 63.00% | ~29,202 |
 | I'm stumped | 61.00% | ~28,275 |
-| Plant get enough | 60.00% | ~27,811 |
-| This is just my weekend vehicle | 58.00% | ~26,884 |
-| It's just the beginning | 58.00% | ~26,884 |
+| Plant get enough | 60.00% | ~27,812 |
+| This is just my weekend vehicle | 58.00% | ~26,885 |
+| It's just the beginning | 58.00% | ~26,885 |
 | Hard work pays off | 53.00% | ~24,567 |
 | It's never too late to farm | 48.00% | ~22,249 |
 | All out of Land | 44.00% | ~20,395 |
-| Field Trip | 43.00% | ~19,931 |
+| Field Trip | 43.00% | ~19,932 |
 | I like to switch it up | 40.00% | ~18,541 |
 | Help me to help you | 38.00% | ~17,614 |
 | Ultimutt Pawesomeness | 28.00% | ~12,979 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~185 |
 | Raisin the stakes | 0.30% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,352 (Ranked 90)  
+Progressed: 46,353 (Ranked 90)  
 Completed: 5 (0.01%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,10 +152,10 @@ Completed: 5 (0.01%) (Ranked 233)
 | 2023-07-28 | 46,220 | 5 |
 | 2023-07-29 | 46,278 | 5 |
 | 2023-07-30 | 46,342 | 5 |
-| 2023-07-31 | 46,352 | 5 |
+| 2023-07-31 | 46,353 | 5 |
 ## Awards
 Max (Great for Beginners): 4,630  (Ranked 71)  
-Sum: 38,620 (Ranked 31)  
+Sum: 38,628 (Ranked 31)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -164,8 +164,8 @@ Diff (max vs sum): 40
 | This game is Educational | 4,024 |
 | This game has Quickly Understood Controls | 3,981 |
 | This game has Diverse Characters | 3,907 |
+| This game is Highly Recommended | 3,861 |
 | This game is Extremely Fun | 3,859 |
-| This game is Highly Recommended | 3,853 |
 | This game has Amazing Storytelling | 3,746 |
 | This game has Amazing Characters | 3,371 |
 | This game has a Creative Community | 3,208 |
@@ -369,4 +369,4 @@ Diff (max vs sum): 40
 | 2023-07-28 | 4.69 | - | 4,614 | 38,521 |
 | 2023-07-29 | 4.69 | - | 4,621 | 38,560 |
 | 2023-07-30 | 4.69 | - | 4,630 | 38,608 |
-| 2023-07-31 | 4.69 | - | 4,630 | 38,620 |
+| 2023-07-31 | 4.69 | - | 4,630 | 38,628 |

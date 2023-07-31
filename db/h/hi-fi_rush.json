@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,7 +112,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3649,
+  "EOS_Progressed": 3650,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -4967,6 +4967,11 @@
       "Time": "2023-07-31T09:04:20.7559562+00:00",
       "NumProgressed": 3649,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-31T11:04:43.1473411+00:00",
+      "NumProgressed": 3650,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4994,7 +4999,7 @@
       "Name": "This will cost you big time",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Ach004",
@@ -5106,7 +5111,7 @@
       "Name": "I play my own way!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Ach018",
@@ -5114,7 +5119,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Ach019",
@@ -5170,7 +5175,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Ach026",
@@ -5186,7 +5191,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Ach028",
@@ -5202,7 +5207,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Ach030",
@@ -5218,7 +5223,7 @@
       "Name": "Perfect Parry",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Ach032",
@@ -5234,7 +5239,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Ach034",
@@ -5258,7 +5263,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Ach037",
@@ -5354,7 +5359,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Ach049",
@@ -5394,7 +5399,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Ach054",
@@ -5545,13 +5550,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3649,
+      "Progressed": 3650,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2170,
+      "Progressed": 2171,
       "Completed": 1928
     }
   ],
@@ -5559,8 +5564,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-31T10:04:29.2358178+00:00",
+  "LastChanged_Achievements": "2023-07-31T11:04:43.1473406+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:25.5055416+00:00",
-  "LastUpdate_Ratings": "2023-07-31T09:59:10.2169764+00:00",
-  "LastUpdate_Achievements": "2023-07-31T10:04:29.2359022+00:00"
+  "LastUpdate_Ratings": "2023-07-31T10:59:21.0688584+00:00",
+  "LastUpdate_Achievements": "2023-07-31T11:04:43.1475002+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "e65e11fc4aee4bb28c3bddf0b6d490bd",
   "Name": "Monster Jam Steel Titans 2",
   "ProductSlug": "monster-jam-steel-titans-2",
-  "Ranking_Rating": 184,
+  "Ranking_Rating": 315,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-03-02T18:00:00+00:00",
     "PcReleaseDate": "2021-03-02T18:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.71,
+  "Rating": 4.64,
   "RatingHistory": [
     {
       "Time": "2023-03-02T13:57:28.8342254+00:00",
@@ -30,6 +30,12 @@
     {
       "Time": "2023-03-31T05:57:50.2062819+00:00",
       "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-31T11:01:09.6215088+00:00",
+      "Rating": 4.64,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -50,8 +56,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:48.184736+00:00",
   "FirstSeenRating": "2023-03-02T13:57:28.8342245+00:00",
-  "LastChanged": "2023-03-31T05:57:50.2062818+00:00",
+  "LastChanged": "2023-07-31T11:01:09.6215087+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:02.2661807+00:00",
-  "LastUpdate_Ratings": "2023-07-31T10:00:35.7170953+00:00",
-  "LastUpdate_Achievements": "2023-07-31T10:05:26.6003792+00:00"
+  "LastUpdate_Ratings": "2023-07-31T11:01:09.6215093+00:00",
+  "LastUpdate_Achievements": "2023-07-31T11:05:53.3981648+00:00"
 }
