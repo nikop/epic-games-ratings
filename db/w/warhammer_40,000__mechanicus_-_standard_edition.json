@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -549,9 +549,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 218830,
+  "EOS_Progressed": 218835,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 739,
+  "EOS_NewPlayers": 736,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11419,6 +11419,11 @@
       "Time": "2023-07-30T23:07:02.8373769+00:00",
       "NumProgressed": 218830,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-31T02:04:57.541356+00:00",
+      "NumProgressed": 218835,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -11430,7 +11435,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41578
+      "UsersEstimate": 41579
     },
     {
       "ID": "ACH_BASE_10",
@@ -11438,7 +11443,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 54708
+      "UsersEstimate": 54709
     },
     {
       "ID": "ACH_BASE_11",
@@ -11446,7 +11451,7 @@
       "Name": "False God",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "ACH_BASE_12",
@@ -11701,7 +11706,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 218830,
+      "Progressed": 218835,
       "Completed": 4
     }
   ],
@@ -11709,8 +11714,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-29T17:58:35.8211483+00:00",
-  "LastChanged_Achievements": "2023-07-31T00:06:44.1255002+00:00",
+  "LastChanged_Achievements": "2023-07-31T02:04:57.5413554+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.8234436+00:00",
-  "LastUpdate_Ratings": "2023-07-30T23:59:34.9798913+00:00",
-  "LastUpdate_Achievements": "2023-07-31T00:06:44.1256732+00:00"
+  "LastUpdate_Ratings": "2023-07-31T01:58:03.585129+00:00",
+  "LastUpdate_Achievements": "2023-07-31T02:04:57.5414548+00:00"
 }

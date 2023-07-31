@@ -6,11 +6,11 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,547 |
+| Unforgiven | 88.00% | ~1,548 |
 | Self-Improvement | 72.00% | ~1,266 |
 | Perky | 65.00% | ~1,143 |
 | Let’s Ride | 60.00% | ~1,055 |
-| Welcome to the Weird West | 57.00% | ~1,002 |
+| Welcome to the Weird West | 57.00% | ~1,003 |
 | Dead or Alive | 55.00% | ~967 |
 | Full House | 36.00% | ~633 |
 | Off the Trail | 34.00% | ~598 |
@@ -20,8 +20,8 @@ Number of Ratings: 125  (23.09.2022)
 | Dishonored | 25.00% | ~440 |
 | Rain of Death | 25.00% | ~440 |
 | Scholar | 25.00% | ~440 |
-| The Great Escape | 23.00% | ~404 |
-| That’s All, Folks | 18.00% | ~316 |
+| The Great Escape | 23.00% | ~405 |
+| That’s All, Folks | 18.00% | ~317 |
 | Fallen Star | 16.00% | ~281 |
 | For Balance | 16.00% | ~281 |
 | Here Comes Santa Claus | 16.00% | ~281 |
@@ -43,8 +43,8 @@ Number of Ratings: 125  (23.09.2022)
 | Knuckle Sandwich | 8.00% | ~141 |
 | Getting the Gang Back Together | 7.00% | ~123 |
 | Monster Hunter | 7.00% | ~123 |
-| Healing Old Wounds | 6.00% | ~105 |
-| Who You Gonna Call? | 6.00% | ~105 |
+| Healing Old Wounds | 6.00% | ~106 |
+| Who You Gonna Call? | 6.00% | ~106 |
 | This Is Sparta | 5.00% | ~88 |
 | What’s in the Box? | 5.00% | ~88 |
 | Ghost Town | 3.00% | ~53 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,758 (Ranked 171)  
+Progressed: 1,759 (Ranked 171)  
 Completed: 4 (0.23%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,6 +148,7 @@ Completed: 4 (0.23%) (Ranked 169)
 | 2023-07-28 | 1,748 | 3 |
 | 2023-07-29 | 1,754 | 4 |
 | 2023-07-30 | 1,758 | 4 |
+| 2023-07-31 | 1,759 | 4 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 481)  
 Sum: 24 (Ranked 485)  

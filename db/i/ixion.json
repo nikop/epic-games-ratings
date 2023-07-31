@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2977,
+  "EOS_Progressed": 2978,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4124,6 +4124,11 @@
       "Time": "2023-07-30T23:06:16.7942658+00:00",
       "NumProgressed": 2977,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T02:04:25.1881948+00:00",
+      "NumProgressed": 2978,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4199,7 +4204,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "ACH_BASE_19",
@@ -4223,7 +4228,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "ACH_BASE_22",
@@ -4349,9 +4354,9 @@
       "ID": "ACH_BASE_36",
       "SetID": "92iocjf",
       "Name": "Access Granted",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_BASE_37",
@@ -4590,13 +4595,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1159,
+      "Progressed": 1160,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2977,
+      "Progressed": 2978,
       "Completed": 0
     }
   ],
@@ -4604,8 +4609,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-07-31T00:06:01.9662515+00:00",
+  "LastChanged_Achievements": "2023-07-31T02:04:25.1881943+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:24.1949352+00:00",
-  "LastUpdate_Ratings": "2023-07-30T23:59:37.0412468+00:00",
-  "LastUpdate_Achievements": "2023-07-31T00:06:01.9663478+00:00"
+  "LastUpdate_Ratings": "2023-07-31T01:58:04.941646+00:00",
+  "LastUpdate_Achievements": "2023-07-31T02:04:25.1882806+00:00"
 }

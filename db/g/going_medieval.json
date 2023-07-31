@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1162,7 +1162,7 @@
   ],
   "EOS_Progressed": 4950,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6517,9 +6517,9 @@
       "ID": "STORE_NUTRITION_10000",
       "SetID": "5349c2e",
       "Name": "Feast or Famine",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 2475
+      "UsersEstimate": 2524
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -6645,8 +6645,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-07-25T02:18:05.0917098+00:00",
-  "LastChanged_Achievements": "2023-07-31T00:03:36.8775965+00:00",
+  "LastChanged_Achievements": "2023-07-31T02:02:39.4790839+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:44.1332197+00:00",
-  "LastUpdate_Ratings": "2023-07-31T00:01:09.9508723+00:00",
-  "LastUpdate_Achievements": "2023-07-31T00:03:36.8776463+00:00"
+  "LastUpdate_Ratings": "2023-07-31T01:59:18.355143+00:00",
+  "LastUpdate_Achievements": "2023-07-31T02:02:39.4791444+00:00"
 }

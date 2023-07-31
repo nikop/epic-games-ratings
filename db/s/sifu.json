@@ -5350,10 +5350,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10843,
       "NumberOfAwardsMax": 6322
+    },
+    {
+      "Time": "2023-07-31T01:58:31.0387421+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10846,
+      "NumberOfAwardsMax": 6322
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10843,
+  "NumberOfAwards": 10846,
   "NumberOfAwardsMax": 6322,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5379,7 +5385,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 516
+      "Count": 519
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5430,9 +5436,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711895,
+  "EOS_Progressed": 711901,
   "EOS_Completed": 12836,
-  "EOS_NewPlayers": 563,
+  "EOS_NewPlayers": 560,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -15055,6 +15061,11 @@
       "Time": "2023-07-31T00:07:51.584863+00:00",
       "NumProgressed": 711895,
       "NumCompleted": 12836
+    },
+    {
+      "Time": "2023-07-31T02:05:38.4392842+00:00",
+      "NumProgressed": 711901,
+      "NumCompleted": 12836
     }
   ],
   "TotalAchievements": 50,
@@ -15162,7 +15173,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3559
+      "UsersEstimate": 3560
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -15465,21 +15476,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21196,
+      "Progressed": 21202,
       "Completed": 10465
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711895,
+      "Progressed": 711901,
       "Completed": 12836
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-07-31T00:00:09.826275+00:00",
-  "LastChanged_Achievements": "2023-07-31T00:07:51.5848625+00:00",
+  "LastChanged": "2023-07-31T01:58:31.0387419+00:00",
+  "LastChanged_Achievements": "2023-07-31T02:05:38.4392837+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:51.4583284+00:00",
-  "LastUpdate_Ratings": "2023-07-31T00:00:09.8262762+00:00",
-  "LastUpdate_Achievements": "2023-07-31T00:07:51.5850043+00:00"
+  "LastUpdate_Ratings": "2023-07-31T01:58:31.0387427+00:00",
+  "LastUpdate_Achievements": "2023-07-31T02:05:38.43939+00:00"
 }

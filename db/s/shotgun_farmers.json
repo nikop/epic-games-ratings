@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236,
+  "EOS_Progressed": 237,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1003,6 +1003,11 @@
       "Time": "2023-07-30T03:06:17.4598754+00:00",
       "NumProgressed": 236,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T02:04:33.9276298+00:00",
+      "NumProgressed": 237,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -1076,9 +1081,9 @@
       "ID": "ach_first_rocket_jump",
       "SetID": "cmg602e",
       "Name": "I Believe I Can Fly",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 109
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -1318,7 +1323,7 @@
       "Name": "10K",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_tripleKill",
@@ -1470,7 +1475,7 @@
       "Name": "Survivor",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ach_waves_10",
@@ -1478,7 +1483,7 @@
       "Name": "Early Survivor",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_waves_20",
@@ -1518,7 +1523,7 @@
       "Name": "Aspairagus",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_x_peastol_healing_done",
@@ -1534,7 +1539,7 @@
       "Name": "No Diggity",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_x_victims_using_bow",
@@ -1574,7 +1579,7 @@
       "Name": "Summers Here",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_x_victims_using_pistol",
@@ -1605,13 +1610,13 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 236,
+      "Progressed": 237,
       "Completed": 0
     },
     {
       "ID": "bf10c8p",
       "IsBase": false,
-      "Progressed": 186,
+      "Progressed": 187,
       "Completed": 2
     }
   ],
@@ -1619,8 +1624,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-31T00:06:13.2907853+00:00",
+  "LastChanged_Achievements": "2023-07-31T02:04:33.9276288+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:09.5553683+00:00",
-  "LastUpdate_Ratings": "2023-07-30T23:59:15.796499+00:00",
-  "LastUpdate_Achievements": "2023-07-31T00:06:13.2908599+00:00"
+  "LastUpdate_Ratings": "2023-07-31T01:57:51.5614282+00:00",
+  "LastUpdate_Achievements": "2023-07-31T02:04:33.9277181+00:00"
 }

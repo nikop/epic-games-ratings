@@ -6,9 +6,9 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 85.00% | ~933 |
-| Voices from the Past | 78.00% | ~856 |
-| Space Traveler | 78.00% | ~856 |
+| Another Life | 85.00% | ~934 |
+| Voices from the Past | 78.00% | ~857 |
+| Space Traveler | 78.00% | ~857 |
 | Demigod | 75.00% | ~824 |
 | The Great Destroyer | 74.00% | ~813 |
 | Shields Down | 72.00% | ~791 |
@@ -21,21 +21,21 @@ Number of Ratings: 58  (23.09.2022)
 | Payback | 53.00% | ~582 |
 | Huntress | 52.00% | ~571 |
 | Born to Drift | 51.00% | ~560 |
-| Relentless | 48.00% | ~527 |
-| The Path Forward | 45.00% | ~494 |
-| Disruption | 43.00% | ~472 |
-| Phoenix | 43.00% | ~472 |
-| Cult Slayer | 40.00% | ~439 |
-| Origin | 39.00% | ~428 |
-| It Was An Accident | 39.00% | ~428 |
-| Set in Motion | 38.00% | ~417 |
-| In the Eye of the Storm | 37.00% | ~406 |
-| The Crimson Void | 34.00% | ~373 |
-| The Nameless Dread | 33.00% | ~362 |
-| Time to Spear | 30.00% | ~329 |
-| Mastery of Weapons | 29.00% | ~318 |
-| Disciple | 29.00% | ~318 |
-| Two Birds | 25.00% | ~274 |
+| Relentless | 48.00% | ~528 |
+| The Path Forward | 45.00% | ~495 |
+| Disruption | 43.00% | ~473 |
+| Phoenix | 43.00% | ~473 |
+| Cult Slayer | 40.00% | ~440 |
+| Origin | 39.00% | ~429 |
+| It Was An Accident | 39.00% | ~429 |
+| Set in Motion | 38.00% | ~418 |
+| In the Eye of the Storm | 37.00% | ~407 |
+| The Crimson Void | 34.00% | ~374 |
+| The Nameless Dread | 33.00% | ~363 |
+| Time to Spear | 30.00% | ~330 |
+| Mastery of Weapons | 29.00% | ~319 |
+| Disciple | 29.00% | ~319 |
+| Two Birds | 25.00% | ~275 |
 | Uneasy Alliance | 24.00% | ~264 |
 | Ghosts | 24.00% | ~264 |
 | Mastery of Combat | 21.00% | ~231 |
@@ -50,7 +50,7 @@ Number of Ratings: 58  (23.09.2022)
 | Radiation Area | 9.00% | ~99 |
 | At Least You Tried | 2.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,098 (Ranked 189)  
+Progressed: 1,099 (Ranked 189)  
 Completed: 13 (1.18%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 13 (1.18%) (Ranked 103)
 | 2023-07-28 | 1,087 | 13 |
 | 2023-07-29 | 1,090 | 13 |
 | 2023-07-30 | 1,098 | 13 |
+| 2023-07-31 | 1,099 | 13 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 451)  
 Sum: 32 (Ranked 470)  

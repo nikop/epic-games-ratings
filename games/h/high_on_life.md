@@ -5,18 +5,18 @@ Rating: 4.67 (Ranked 258)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,586 |
-| Mods Please Ban | 77.00% | ~18,170 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,934 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,227 |
-| First Bounty Down | 59.00% | ~13,923 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,451 |
-| Luglox Genocide | 43.00% | ~10,147 |
-| Playing Card To Get | 33.00% | ~7,787 |
-| Don't Knife The Hand That Feeds | 33.00% | ~7,787 |
-| Creature Feature | 29.00% | ~6,843 |
-| Satisfied Gus-tomer | 28.00% | ~6,607 |
-| Cold-Blooded Driller | 28.00% | ~6,607 |
+| Eye Scream, You Scream | 83.00% | ~19,589 |
+| Mods Please Ban | 77.00% | ~18,173 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,937 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,229 |
+| First Bounty Down | 59.00% | ~13,925 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,453 |
+| Luglox Genocide | 43.00% | ~10,148 |
+| Playing Card To Get | 33.00% | ~7,788 |
+| Don't Knife The Hand That Feeds | 33.00% | ~7,788 |
+| Creature Feature | 29.00% | ~6,844 |
+| Satisfied Gus-tomer | 28.00% | ~6,608 |
+| Cold-Blooded Driller | 28.00% | ~6,608 |
 | Are You Packin'? | 25.00% | ~5,900 |
 | G3 Graduation | 25.00% | ~5,900 |
 | RIP Davey Glutes | 24.00% | ~5,664 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 258)
 | Epic Legendary Prize | 1.00% | ~236 |
 | A Starfish Is Born | 1.00% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,598 (Ranked 102)  
+Progressed: 23,601 (Ranked 102)  
 Completed: 10 (0.04%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 10 (0.04%) (Ranked 216)
 | 2023-07-28 | 23,481 | 9 |
 | 2023-07-29 | 23,537 | 10 |
 | 2023-07-30 | 23,596 | 10 |
-| 2023-07-31 | 23,598 | 10 |
+| 2023-07-31 | 23,601 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

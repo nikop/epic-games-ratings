@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 93.00% | ~80 |
-| Rehearsal | 92.00% | ~79 |
-| Daily Life | 88.00% | ~76 |
-| Assembly Line Work | 85.00% | ~73 |
-| Solitude | 79.00% | ~68 |
-| Pinewood, Here we come! | 72.00% | ~62 |
-| The Van | 66.00% | ~57 |
-| Road-Trip | 60.00% | ~52 |
-| A Musical Pause | 59.00% | ~51 |
-| Briget's | 50.00% | ~43 |
+| ECG | 94.00% | ~81 |
+| Rehearsal | 93.00% | ~80 |
+| Daily Life | 90.00% | ~77 |
+| Assembly Line Work | 86.00% | ~74 |
+| Solitude | 80.00% | ~69 |
+| Pinewood, Here we come! | 73.00% | ~63 |
+| The Van | 67.00% | ~58 |
+| Road-Trip | 62.00% | ~53 |
+| A Musical Pause | 60.00% | ~52 |
+| Briget's | 51.00% | ~44 |
 | Sound of Noise | 47.00% | ~40 |
 | Big City Music | 43.00% | ~37 |
-| Love at First Sight | 41.00% | ~35 |
-| First Kiss | 34.00% | ~29 |
+| Love at First Sight | 42.00% | ~36 |
+| First Kiss | 35.00% | ~30 |
+| A Bigger Band | 31.00% | ~27 |
 | Symbiosis | 31.00% | ~27 |
-| A Bigger Band | 30.00% | ~26 |
-| Fuel | 26.00% | ~22 |
-| Alone Together | 24.00% | ~21 |
+| Fuel | 27.00% | ~23 |
+| Alone Together | 26.00% | ~22 |
 | Threatening Nature | 23.00% | ~20 |
 | TV Dreams | 22.00% | ~19 |
 | Flat Tire | 20.00% | ~17 |
@@ -29,13 +29,13 @@
 | The Clash | 16.00% | ~14 |
 | The Fix | 15.00% | ~13 |
 | Time | 12.00% | ~10 |
+| Regrets | 12.00% | ~10 |
 | The Mountains, The Valleys | 12.00% | ~10 |
-| Regrets | 10.00% | ~9 |
 | The Accident | 10.00% | ~9 |
 | Bad Trip | 9.00% | ~8 |
+| Love | 9.00% | ~8 |
+| Here we go again! | 9.00% | ~8 |
 | The Awakening | 9.00% | ~8 |
-| Love | 8.00% | ~7 |
-| Here we go again! | 8.00% | ~7 |
 | Chase the Crow | 7.00% | ~6 |
 | Flight of the Bumblebee | 7.00% | ~6 |
 | On the Road Again | 5.00% | ~4 |

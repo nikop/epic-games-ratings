@@ -2,10 +2,10 @@
   "ID": "19d61df85a76492f82c4b59fa8f8f9eb",
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
-  "Ranking_EOS_Progress": 270,
+  "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228,
+  "EOS_Progressed": 229,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 8.77,
+  "EOS_Completed_Percentage": 8.73,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1051,6 +1051,11 @@
       "Time": "2023-07-30T19:05:37.8904519+00:00",
       "NumProgressed": 228,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-31T02:04:12.7929975+00:00",
+      "NumProgressed": 229,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 6,
@@ -1062,7 +1067,7 @@
       "Name": "Printing Press",
       "Percentage": 58,
       "XP": 175,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -1070,7 +1075,7 @@
       "Name": "File-cutter",
       "Percentage": 61,
       "XP": 165,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -1109,14 +1114,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 228,
+      "Progressed": 229,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-07-31T00:05:45.9484127+00:00",
+  "LastChanged_Achievements": "2023-07-31T02:04:12.792997+00:00",
   "LastUpdate_AppInfo": "2023-07-27T13:57:11.6016453+00:00",
-  "LastUpdate_Ratings": "2023-07-30T23:57:40.2107746+00:00",
-  "LastUpdate_Achievements": "2023-07-31T00:05:45.9484294+00:00"
+  "LastUpdate_Ratings": "2023-07-31T01:56:38.415342+00:00",
+  "LastUpdate_Achievements": "2023-07-31T02:04:12.7930122+00:00"
 }

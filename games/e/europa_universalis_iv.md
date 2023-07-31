@@ -1,27 +1,27 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 213)  
+Rating: 4.69 (Ranked 212)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,858 |
-| That's a Grand Army | 8.00% | ~6,096 |
-| That is mine! | 8.00% | ~6,096 |
-| Victorious! | 8.00% | ~6,096 |
-| Brothers in Arms | 6.00% | ~4,572 |
-| That's a Grand Navy | 6.00% | ~4,572 |
-| Seriously?! | 6.00% | ~4,572 |
-| For the Glory | 5.00% | ~3,810 |
-| Cold War | 4.00% | ~3,048 |
-| True Catholic | 4.00% | ~3,048 |
-| Defender of the Faith | 3.00% | ~2,286 |
-| It's all about luck | 3.00% | ~2,286 |
-| It's all about the money | 3.00% | ~2,286 |
-| Respected | 3.00% | ~2,286 |
-| The Princess is in this Castle | 3.00% | ~2,286 |
-| Truly Divine Ruler | 3.00% | ~2,286 |
+| Until death do us apart | 9.00% | ~6,860 |
+| That's a Grand Army | 8.00% | ~6,098 |
+| That is mine! | 8.00% | ~6,098 |
+| Victorious! | 8.00% | ~6,098 |
+| Brothers in Arms | 6.00% | ~4,573 |
+| That's a Grand Navy | 6.00% | ~4,573 |
+| Seriously?! | 6.00% | ~4,573 |
+| For the Glory | 5.00% | ~3,811 |
+| Cold War | 4.00% | ~3,049 |
+| True Catholic | 4.00% | ~3,049 |
+| Defender of the Faith | 3.00% | ~2,287 |
+| It's all about luck | 3.00% | ~2,287 |
+| It's all about the money | 3.00% | ~2,287 |
+| Respected | 3.00% | ~2,287 |
+| The Princess is in this Castle | 3.00% | ~2,287 |
+| Truly Divine Ruler | 3.00% | ~2,287 |
 | Agressive Expander | 2.00% | ~1,524 |
 | Blockader | 2.00% | ~1,524 |
 | Combined Arms | 2.00% | ~1,524 |
@@ -44,8 +44,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.90% | ~686 |
 | Market Control | 0.90% | ~686 |
 | Trustworthy | 0.90% | ~686 |
-| Electable! | 0.70% | ~533 |
-| Populists in Government | 0.70% | ~533 |
+| Electable! | 0.70% | ~534 |
+| Populists in Government | 0.70% | ~534 |
 | All belongs to Mother Russia | 0.60% | ~457 |
 | At every continent | 0.60% | ~457 |
 | Early-Modern Warfare | 0.60% | ~457 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,198 (Ranked 76)  
+Progressed: 76,219 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -463,10 +463,10 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 75,282 | 0 |
 | 2023-07-29 | 75,748 | 0 |
 | 2023-07-30 | 76,185 | 0 |
-| 2023-07-31 | 76,198 | 0 |
+| 2023-07-31 | 76,219 | 0 |
 ## Awards
 Max (Educational): 5,597  (Ranked 61)  
-Sum: 46,167 (Ranked 26)  
+Sum: 46,172 (Ranked 26)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
@@ -477,7 +477,7 @@ Diff (max vs sum): 35
 | This game has Diverse Characters | 5,272 |
 | This game is Relaxing | 5,176 |
 | This game has Competitive Players | 5,033 |
-| This game has Amazing Storytelling | 4,734 |
+| This game has Amazing Storytelling | 4,739 |
 | This game has Amazing Characters | 4,376 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -678,3 +678,4 @@ Diff (max vs sum): 35
 | 2023-07-28 | 4.69 | - | 5,593 | 46,113 |
 | 2023-07-29 | 4.69 | - | 5,597 | 46,142 |
 | 2023-07-30 | 4.69 | - | 5,597 | 46,167 |
+| 2023-07-31 | 4.69 | - | 5,597 | 46,172 |

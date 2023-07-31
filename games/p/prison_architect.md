@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~41,010 |
-| Get Busy Living | 16.00% | ~25,237 |
-| Samuel Norton | 9.00% | ~14,196 |
-| Spare The Rod | 5.00% | ~7,886 |
-| Don't Put Me In The Dark | 3.00% | ~4,732 |
-| Wait and Hope | 3.00% | ~4,732 |
-| I May Have Found A Way Out Of Here | 3.00% | ~4,732 |
-| Iron Bars | 3.00% | ~4,732 |
+| Stone Walls | 26.00% | ~41,020 |
+| Get Busy Living | 16.00% | ~25,243 |
+| Samuel Norton | 9.00% | ~14,199 |
+| Spare The Rod | 5.00% | ~7,888 |
+| Don't Put Me In The Dark | 3.00% | ~4,733 |
+| Wait and Hope | 3.00% | ~4,733 |
+| I May Have Found A Way Out Of Here | 3.00% | ~4,733 |
+| Iron Bars | 3.00% | ~4,733 |
 | Throw The Book At Them | 2.00% | ~3,155 |
-| D.B. Cooper | 1.00% | ~1,577 |
-| Reformation | 0.60% | ~946 |
+| D.B. Cooper | 1.00% | ~1,578 |
+| Reformation | 0.60% | ~947 |
 | Crowd Control | 0.50% | ~789 |
 | Freedom | 0.40% | ~631 |
 | Confined | 0.40% | ~631 |
 | It's Not What You Know... | 0.10% | ~158 |
 | ... It's What You Can Prove | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,729 (Ranked 60)  
+Progressed: 157,768 (Ranked 60)  
 Completed: 5 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,10 +125,10 @@ Completed: 5 (0.00%) (Ranked 246)
 | 2023-07-28 | 156,639 | 5 |
 | 2023-07-29 | 157,152 | 5 |
 | 2023-07-30 | 157,706 | 5 |
-| 2023-07-31 | 157,729 | 5 |
+| 2023-07-31 | 157,768 | 5 |
 ## Awards
 Max (Extremely Fun): 467  (Ranked 198)  
-Sum: 3,633 (Ranked 149)  
+Sum: 3,634 (Ranked 149)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -139,7 +139,7 @@ Diff (max vs sum): 49
 | This game is Relaxing | 414 |
 | This game has Diverse Characters | 395 |
 | This game has Amazing Storytelling | 387 |
-| This game has Amazing Characters | 365 |
+| This game has Amazing Characters | 366 |
 | This game has a Creative Community | 282 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
@@ -336,3 +336,4 @@ Diff (max vs sum): 49
 | 2023-07-28 | 4.61 | - | 467 | 3,624 |
 | 2023-07-29 | 4.61 | - | 467 | 3,626 |
 | 2023-07-30 | 4.61 | - | 467 | 3,633 |
+| 2023-07-31 | 4.61 | - | 467 | 3,634 |

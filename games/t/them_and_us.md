@@ -25,8 +25,8 @@
 | What A Mansion | 6.00% | ~12 |
 | Researcher | 5.00% | ~10 |
 | I Am The Gate Keeper! | 5.00% | ~10 |
+| This Mansion Is Clean | 4.00% | ~8 |
 | The bus stop | 3.00% | ~6 |
-| This Mansion Is Clean | 3.00% | ~6 |
 | Armed To The Teeth | 2.00% | ~4 |
 | Back In Time | 2.00% | ~4 |
 | Retro Player | 2.00% | ~4 |

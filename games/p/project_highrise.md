@@ -6,21 +6,21 @@
 | ---- | ---------- | ----- |
 | In the Black | 59.00% | ~173 |
 | Starting Skyward | 52.00% | ~153 |
-| Grime is Not Good | 46.00% | ~135 |
+| Grime is Not Good | 47.00% | ~138 |
 | Floor Galore | 39.00% | ~115 |
 | Campaign Launch | 39.00% | ~115 |
-| Dinner Dash | 38.00% | ~112 |
+| Dinner Dash | 39.00% | ~115 |
 | Need a Consult | 36.00% | ~106 |
 | Upgrade Unlock | 35.00% | ~103 |
 | It's Technical | 35.00% | ~103 |
 | Delegate Maintenance | 33.00% | ~97 |
 | Proper Walls | 32.00% | ~94 |
-| Destination Destiny | 28.00% | ~82 |
+| Destination Destiny | 29.00% | ~85 |
 | Happy Tenants | 25.00% | ~74 |
+| Potent Potables | 24.00% | ~71 |
 | Smooth Service | 24.00% | ~71 |
 | Your Prestige is Rising | 23.00% | ~68 |
-| Potent Potables | 23.00% | ~68 |
-| Retail Revenue | 22.00% | ~65 |
+| Retail Revenue | 23.00% | ~68 |
 | Lux Living | 21.00% | ~62 |
 | Don't Feel a Loan | 21.00% | ~62 |
 | People Mover | 20.00% | ~59 |
@@ -46,7 +46,7 @@
 | Master of Puppets | 9.00% | ~26 |
 | Refined Palates | 9.00% | ~26 |
 | Phoning It In | 9.00% | ~26 |
-| First 100 Days | 7.00% | ~21 |
+| First 100 Days | 8.00% | ~24 |
 | Water Features | 7.00% | ~21 |
 | Meet Me at HQ | 7.00% | ~21 |
 | Revenue Royalty | 7.00% | ~21 |
@@ -69,13 +69,13 @@
 | Luxury Boutiques | 3.00% | ~9 |
 | Three of a Kind | 3.00% | ~9 |
 | Four of a Kind | 3.00% | ~9 |
+| In the Money | 3.00% | ~9 |
 | Curated Class | 2.00% | ~6 |
 | Loft Life | 2.00% | ~6 |
 | Glut of Gastronomy | 2.00% | ~6 |
 | Plebs Are Needed | 2.00% | ~6 |
 | Royal Flush | 2.00% | ~6 |
 | The King of Cool | 2.00% | ~6 |
-| In the Money | 2.00% | ~6 |
 | It is Payday | 2.00% | ~6 |
 | Full House | 1.00% | ~3 |
 | Double Down | 1.00% | ~3 |

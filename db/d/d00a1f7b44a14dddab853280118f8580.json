@@ -230,9 +230,9 @@
       "ID": "ach_hint_3",
       "SetID": "5e260i9",
       "Name": "A helping hand!",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_hint_6",
@@ -301,8 +301,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-07-31T00:02:19.5679864+00:00",
+  "LastChanged_Achievements": "2023-07-31T02:02:09.6214994+00:00",
   "LastUpdate_AppInfo": "2023-07-27T19:57:03.7416297+00:00",
-  "LastUpdate_Ratings": "2023-07-30T23:57:17.4331911+00:00",
-  "LastUpdate_Achievements": "2023-07-31T00:02:19.5679969+00:00"
+  "LastUpdate_Ratings": "2023-07-31T01:56:21.2266648+00:00",
+  "LastUpdate_Achievements": "2023-07-31T02:02:09.6215095+00:00"
 }

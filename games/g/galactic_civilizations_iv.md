@@ -6,25 +6,25 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,943 |
-| Worker Specialization | 78.00% | ~4,880 |
-| First Contact | 73.00% | ~4,568 |
-| Win a Battle | 67.00% | ~4,192 |
-| Anomaly Researcher | 63.00% | ~3,942 |
-| Unleash My Power | 62.00% | ~3,879 |
-| Own 30 Planets | 34.00% | ~2,127 |
-| Xenocide | 32.00% | ~2,002 |
-| Design a Civilization | 32.00% | ~2,002 |
+| Colonize a Planet | 79.00% | ~4,945 |
+| Worker Specialization | 78.00% | ~4,882 |
+| First Contact | 73.00% | ~4,569 |
+| Win a Battle | 67.00% | ~4,194 |
+| Anomaly Researcher | 63.00% | ~3,943 |
+| Unleash My Power | 62.00% | ~3,881 |
+| Own 30 Planets | 34.00% | ~2,128 |
+| Xenocide | 32.00% | ~2,003 |
+| Design a Civilization | 32.00% | ~2,003 |
 | Commodity Trader | 31.00% | ~1,940 |
-| Design a Ship | 28.00% | ~1,752 |
-| Commodity Seller | 25.00% | ~1,564 |
+| Design a Ship | 28.00% | ~1,753 |
+| Commodity Seller | 25.00% | ~1,565 |
 | Prestige Victory! | 14.00% | ~876 |
 | Galactic War | 11.00% | ~688 |
 | Trading Partner | 9.00% | ~563 |
 | Fleet Victory | 8.00% | ~501 |
 | Win as Terrans | 7.00% | ~438 |
-| Gain an Ally | 6.00% | ~375 |
-| Win with a Custom Faction | 6.00% | ~375 |
+| Gain an Ally | 6.00% | ~376 |
+| Win with a Custom Faction | 6.00% | ~376 |
 | War with the Unknown | 5.00% | ~313 |
 | Conquest Victory! | 4.00% | ~250 |
 | Win an Immense Game | 4.00% | ~250 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,257 (Ranked 134)  
+Progressed: 6,259 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,6 +181,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 6,227 | 0 |
 | 2023-07-29 | 6,242 | 0 |
 | 2023-07-30 | 6,257 | 0 |
+| 2023-07-31 | 6,259 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 347)  
 Sum: 669 (Ranked 277)  

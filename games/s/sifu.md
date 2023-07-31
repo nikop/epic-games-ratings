@@ -43,7 +43,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Legendary Talismans of Wuxing | 0.60% | ~4,271 |
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,271 |
 | Sword Stained With Blood | 0.60% | ~4,271 |
-| Prodigal Child | 0.50% | ~3,559 |
+| Prodigal Child | 0.50% | ~3,560 |
 | Martial Artist | 0.40% | ~2,848 |
 | Knowledge Greed | 0.40% | ~2,848 |
 | The Pit Protector | 0.40% | ~2,848 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,424 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,895 (Ranked 20)  
+Progressed: 711,901 (Ranked 20)  
 Completed: 12,836 (1.80%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,10 +159,10 @@ Completed: 12,836 (1.80%) (Ranked 91)
 | 2023-07-28 | 711,733 | 12,834 |
 | 2023-07-29 | 711,819 | 12,835 |
 | 2023-07-30 | 711,892 | 12,836 |
-| 2023-07-31 | 711,895 | 12,836 |
+| 2023-07-31 | 711,901 | 12,836 |
 ## Awards
 Max (Great Boss Battles): 6,322  (Ranked 53)  
-Sum: 10,843 (Ranked 80)  
+Sum: 10,846 (Ranked 80)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
@@ -171,7 +171,7 @@ Diff (max vs sum): -27
 | This game has Challenging Combat | 536 |
 | This game has Quickly Understood Controls | 528 |
 | This game is Extremely Fun | 520 |
-| This game has Amazing Storytelling | 516 |
+| This game has Amazing Storytelling | 519 |
 | This game is Highly Recommended | 509 |
 | This game has Amazing Characters | 507 |
 | This game has Unique Visuals | 477 |
@@ -376,4 +376,4 @@ Diff (max vs sum): -27
 | 2023-07-28 | 4.82 | - | 6,318 | 10,836 |
 | 2023-07-29 | 4.82 | - | 6,318 | 10,838 |
 | 2023-07-30 | 4.82 | - | 6,322 | 10,842 |
-| 2023-07-31 | 4.82 | - | 6,322 | 10,843 |
+| 2023-07-31 | 4.82 | - | 6,322 | 10,846 |

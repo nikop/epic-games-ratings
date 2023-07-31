@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 350,
+  "EOS_Progressed": 351,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -311,6 +311,11 @@
       "Time": "2023-07-26T22:04:24.4965934+00:00",
       "NumProgressed": 350,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-31T02:03:34.9342658+00:00",
+      "NumProgressed": 351,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -360,9 +365,9 @@
       "ID": "COLLECT_1_CAR",
       "SetID": "20koof9",
       "Name": "Baby\u0027s First Car",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 105
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -418,7 +423,7 @@
       "Name": "M2H was Here!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "FIND_ALL_GAPS",
@@ -426,7 +431,7 @@
       "Name": "My Precious",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "FIND_THE_GAP",
@@ -434,15 +439,15 @@
       "Name": "First Come, First Serve",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
       "SetID": "20koof9",
       "Name": "To and Fro",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 84
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -504,9 +509,9 @@
       "ID": "HIT_50_PUSHABLES",
       "SetID": "20koof9",
       "Name": "Pushover",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 105
     },
     {
       "ID": "HIT_ALIEN",
@@ -522,7 +527,7 @@
       "Name": "Take that Frosty!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -570,7 +575,7 @@
       "Name": "Goodbye cruel world",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "LOADED_LVL_DESERT",
@@ -618,7 +623,7 @@
       "Name": "One Million Dollars!",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "REACH_TANKBATTLE_LEVEL_10",
@@ -634,7 +639,7 @@
       "Name": "Feeling Dizzy?",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "STUNT_EVENT",
@@ -650,7 +655,7 @@
       "Name": "Out of this League",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "TAGGED_25_OBJECTS",
@@ -706,7 +711,7 @@
       "Name": "Event Pro",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "WIN_BALL",
@@ -761,7 +766,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 350,
+      "Progressed": 351,
       "Completed": 2
     }
   ],
@@ -769,8 +774,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-07-31T00:04:56.6373531+00:00",
+  "LastChanged_Achievements": "2023-07-31T02:03:34.9342653+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:38.9893142+00:00",
-  "LastUpdate_Ratings": "2023-07-30T23:59:54.4834898+00:00",
-  "LastUpdate_Achievements": "2023-07-31T00:04:56.6374199+00:00"
+  "LastUpdate_Ratings": "2023-07-31T01:58:19.6709955+00:00",
+  "LastUpdate_Achievements": "2023-07-31T02:03:34.9343192+00:00"
 }

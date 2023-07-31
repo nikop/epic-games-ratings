@@ -5,33 +5,33 @@ Rating: 3.48 (Ranked 961)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~15,007 |
-| Hard Worker | 20.00% | ~13,643 |
-| Master, Commander | 20.00% | ~13,643 |
-| Mechanic | 19.00% | ~12,960 |
-| Adios, Friendo | 18.00% | ~12,278 |
-| Bottom's Up | 18.00% | ~12,278 |
-| Nice Try | 16.00% | ~10,914 |
-| Right On Target | 13.00% | ~8,868 |
-| Piano Man | 10.00% | ~6,821 |
-| Lazy Bones | 9.00% | ~6,139 |
-| Vinyl Vibes | 8.00% | ~5,457 |
+| Be Seeing You | 22.00% | ~15,009 |
+| Hard Worker | 20.00% | ~13,644 |
+| Master, Commander | 20.00% | ~13,644 |
+| Mechanic | 19.00% | ~12,962 |
+| Adios, Friendo | 18.00% | ~12,280 |
+| Bottom's Up | 18.00% | ~12,280 |
+| Nice Try | 16.00% | ~10,915 |
+| Right On Target | 13.00% | ~8,869 |
+| Piano Man | 10.00% | ~6,822 |
+| Lazy Bones | 9.00% | ~6,140 |
+| Vinyl Vibes | 8.00% | ~5,458 |
 | Nothing Left to Say | 7.00% | ~4,775 |
 | Sniper | 7.00% | ~4,775 |
 | Cut Call | 5.00% | ~3,411 |
 | Butcher | 4.00% | ~2,729 |
 | Magnetic Miracles | 4.00% | ~2,729 |
 | Spicy | 4.00% | ~2,729 |
-| A Man Of Taste | 3.00% | ~2,046 |
-| Ace in the Hole | 3.00% | ~2,046 |
-| Fair's Fair | 3.00% | ~2,046 |
-| Hearty | 3.00% | ~2,046 |
-| Meaty | 3.00% | ~2,046 |
-| Taco Toto | 3.00% | ~2,046 |
+| A Man Of Taste | 3.00% | ~2,047 |
+| Ace in the Hole | 3.00% | ~2,047 |
+| Fair's Fair | 3.00% | ~2,047 |
+| Hearty | 3.00% | ~2,047 |
+| Meaty | 3.00% | ~2,047 |
+| Taco Toto | 3.00% | ~2,047 |
 | Audiophile | 2.00% | ~1,364 |
 | Tape Head | 2.00% | ~1,364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,213 (Ranked 79)  
+Progressed: 68,221 (Ranked 79)  
 Completed: 675 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 675 (0.99%) (Ranked 111)
 | 2023-07-28 | 67,924 | 672 |
 | 2023-07-29 | 68,056 | 673 |
 | 2023-07-30 | 68,208 | 675 |
-| 2023-07-31 | 68,213 | 675 |
+| 2023-07-31 | 68,221 | 675 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

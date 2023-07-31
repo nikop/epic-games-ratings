@@ -4,7 +4,7 @@
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -23,8 +23,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "7a4balj",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-07-31T02:03:39.8751678+00:00",
+  "LastChanged_Achievements": "2023-07-31T02:03:39.8751658+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:32:49.6681251+00:00",
-  "LastUpdate_Ratings": "2023-07-31T00:00:57.8055864+00:00",
-  "LastUpdate_Achievements": "2023-07-31T00:05:03.3922733+00:00"
+  "LastUpdate_Ratings": "2023-07-31T01:59:07.5284812+00:00",
+  "LastUpdate_Achievements": "2023-07-31T02:03:39.8751702+00:00"
 }

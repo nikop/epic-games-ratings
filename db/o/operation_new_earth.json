@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 715,
+  "EOS_Progressed": 716,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2471,6 +2471,11 @@
       "Time": "2023-07-31T00:06:26.6354666+00:00",
       "NumProgressed": 715,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T02:04:44.096169+00:00",
+      "NumProgressed": 716,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2496,9 +2501,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 64
     },
     {
       "ID": "ach_defeat_players_100",
@@ -2658,7 +2663,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -2785,14 +2790,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 715,
+      "Progressed": 716,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-31T00:06:26.635466+00:00",
+  "LastChanged_Achievements": "2023-07-31T02:04:44.0961683+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-07-30T23:57:14.9600984+00:00",
-  "LastUpdate_Achievements": "2023-07-31T00:06:26.6355437+00:00"
+  "LastUpdate_Ratings": "2023-07-31T01:56:18.3649535+00:00",
+  "LastUpdate_Achievements": "2023-07-31T02:04:44.0962137+00:00"
 }

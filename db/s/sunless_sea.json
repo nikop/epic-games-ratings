@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 34585,
+  "EOS_Progressed": 34588,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 499,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10905,6 +10905,11 @@
       "Time": "2023-07-31T00:04:13.2277956+00:00",
       "NumProgressed": 34585,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-31T02:02:59.5198006+00:00",
+      "NumProgressed": 34588,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -10932,7 +10937,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5879
+      "UsersEstimate": 5880
     },
     {
       "ID": "ach_antiquarian10",
@@ -10940,7 +10945,7 @@
       "Name": "Old Unhappy Far-Off Things",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "ach_combuoy",
@@ -10980,7 +10985,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3804
+      "UsersEstimate": 3805
     },
     {
       "ID": "ach_cursestone",
@@ -11004,7 +11009,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3804
+      "UsersEstimate": 3805
     },
     {
       "ID": "ach_deathofermod",
@@ -11036,7 +11041,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 12451
+      "UsersEstimate": 12452
     },
     {
       "ID": "ach_die10",
@@ -11052,7 +11057,7 @@
       "Name": "Sink Beneath the Waves. Again.",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "ach_dive",
@@ -11084,7 +11089,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3804
+      "UsersEstimate": 3805
     },
     {
       "ID": "ach_invictus",
@@ -11108,7 +11113,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4150
+      "UsersEstimate": 4151
     },
     {
       "ID": "ach_legacypupil",
@@ -11140,7 +11145,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3804
+      "UsersEstimate": 3805
     },
     {
       "ID": "ach_newstories",
@@ -11268,7 +11273,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6225
+      "UsersEstimate": 6226
     },
     {
       "ID": "ach_terror100",
@@ -11276,7 +11281,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4150
+      "UsersEstimate": 4151
     },
     {
       "ID": "ach_terror90",
@@ -11316,7 +11321,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 4150
+      "UsersEstimate": 4151
     },
     {
       "ID": "ach_year1",
@@ -11347,15 +11352,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 34585,
+      "Progressed": 34588,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-07-31T00:04:13.2277951+00:00",
+  "LastChanged_Achievements": "2023-07-31T02:02:59.5198001+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:30.3882701+00:00",
-  "LastUpdate_Ratings": "2023-07-31T00:00:58.8933242+00:00",
-  "LastUpdate_Achievements": "2023-07-31T00:04:13.2279309+00:00"
+  "LastUpdate_Ratings": "2023-07-31T01:59:09.4030269+00:00",
+  "LastUpdate_Achievements": "2023-07-31T02:02:59.5199166+00:00"
 }

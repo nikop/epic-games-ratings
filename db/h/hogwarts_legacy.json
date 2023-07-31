@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5614,10 +5614,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 40216,
       "NumberOfAwardsMax": 21416
+    },
+    {
+      "Time": "2023-07-31T01:57:08.7066617+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40218,
+      "NumberOfAwardsMax": 21416
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40216,
+  "NumberOfAwards": 40218,
   "NumberOfAwardsMax": 21416,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5655,7 +5661,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 924
+      "Count": 926
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5694,9 +5700,9 @@
       "Count": 569
     }
   ],
-  "EOS_Progressed": 289000,
+  "EOS_Progressed": 289003,
   "EOS_Completed": 437,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16619,6 +16625,11 @@
       "Time": "2023-07-31T00:05:25.4443881+00:00",
       "NumProgressed": 289000,
       "NumCompleted": 437
+    },
+    {
+      "Time": "2023-07-31T02:03:57.0004208+00:00",
+      "NumProgressed": 289003,
+      "NumCompleted": 437
     }
   ],
   "TotalAchievements": 45,
@@ -16989,16 +17000,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289000,
+      "Progressed": 289003,
       "Completed": 437
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-30T19:57:46.0623089+00:00",
-  "LastChanged_Achievements": "2023-07-31T00:05:25.4443875+00:00",
+  "LastChanged": "2023-07-31T01:57:08.7066615+00:00",
+  "LastChanged_Achievements": "2023-07-31T02:03:57.0004198+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-07-30T23:58:22.9535185+00:00",
-  "LastUpdate_Achievements": "2023-07-31T00:05:25.4445266+00:00"
+  "LastUpdate_Ratings": "2023-07-31T01:57:08.7066623+00:00",
+  "LastUpdate_Achievements": "2023-07-31T02:03:57.0005284+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,517 |
+| A Brief Tour of the Realms | 3.00% | ~6,518 |
 | Maddening | 2.00% | ~4,345 |
 | Beast Intentions | 2.00% | ~4,345 |
-| The Silken Swamp | 1.00% | ~2,172 |
-| Supply Run | 1.00% | ~2,172 |
+| The Silken Swamp | 1.00% | ~2,173 |
+| Supply Run | 1.00% | ~2,173 |
 | Rocky Reception | 1.00% | ~1,835 |
 | Vecna Lives! | 0.90% | ~1,652 |
 | Rock and Roll | 0.90% | ~1,652 |
 | Flight of the Kindori Pod | 0.80% | ~1,468 |
 | Tall Tales | 0.70% | ~1,285 |
+| Seeds of Destruction | 0.70% | ~1,285 |
 | Vecna Loots! | 0.70% | ~1,285 |
 | Topolah's Tower | 0.70% | ~1,285 |
-| Pros and CONs | 0.60% | ~1,303 |
-| Wet Feet | 0.60% | ~1,303 |
-| Seeds of Destruction | 0.60% | ~1,101 |
+| Pros and CONs | 0.60% | ~1,304 |
+| Wet Feet | 0.60% | ~1,304 |
 | Return to the Tomb | 0.60% | ~1,101 |
 | Heatwave | 0.60% | ~1,101 |
-| Terror in the Dark | 0.60% | ~1,303 |
-| Unearthed Evil | 0.60% | ~1,303 |
+| Terror in the Dark | 0.60% | ~1,304 |
+| Unearthed Evil | 0.60% | ~1,304 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,101 |
 | The Witchlight Carnival | 0.50% | ~918 |
 | Hatchlings Underfoot | 0.50% | ~1,086 |
@@ -82,8 +82,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Captured! | 0.30% | ~652 |
 | Force Grey Unleashed | 0.30% | ~652 |
 | Wisdom Check | 0.30% | ~652 |
+| Sleuth It Out | 0.30% | ~652 |
 | A Grand Puzzle | 0.30% | ~652 |
 | Tomb of the Nine Gods | 0.30% | ~652 |
+| Chatty Nobles | 0.30% | ~652 |
 | The Immortal Warrior | 0.30% | ~652 |
 | The Wyrmheart Mine | 0.30% | ~652 |
 | Tower on the Lake | 0.30% | ~652 |
@@ -113,7 +115,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Devilishly Cold | 0.30% | ~551 |
 | Tiny Treaty | 0.30% | ~551 |
 | 3,720 to 1 | 0.30% | ~551 |
-| Starving in the Jungle | 0.20% | ~434 |
+| Starving in the Jungle | 0.20% | ~435 |
 | Cold as Ice | 0.20% | ~367 |
 | Friends and Foes | 0.20% | ~367 |
 | An Unexpected Geist | 0.20% | ~367 |
@@ -140,69 +142,69 @@ Number of Ratings: 9,041  (23.09.2022)
 | Get Back In The Castle | 0.20% | ~367 |
 | Checkmate | 0.20% | ~367 |
 | Vecna Out! | 0.20% | ~367 |
-| Anti-Dexterous Explorers | 0.20% | ~434 |
-| Not Very Charming | 0.20% | ~434 |
-| Lobsterfolk Assault | 0.20% | ~434 |
-| Periodic Petrification | 0.20% | ~434 |
-| Home Field Advantage | 0.20% | ~434 |
-| Vajra's Guards | 0.20% | ~434 |
-| Sleuth It Out | 0.20% | ~434 |
+| Anti-Dexterous Explorers | 0.20% | ~435 |
+| Not Very Charming | 0.20% | ~435 |
+| Lobsterfolk Assault | 0.20% | ~435 |
+| Periodic Petrification | 0.20% | ~435 |
+| Home Field Advantage | 0.20% | ~435 |
+| Vajra's Guards | 0.20% | ~435 |
 | The Newcomers of Notoriety | 0.20% | ~367 |
-| Azaka's Procession - Part 1 | 0.20% | ~434 |
-| Azaka's Procession - Part 2 | 0.20% | ~434 |
-| The Hunt for Owl-y | 0.20% | ~434 |
-| Werewolves in the Mist | 0.20% | ~434 |
-| We're not in Faerûn Anymore | 0.20% | ~434 |
-| Chatty Nobles | 0.20% | ~434 |
-| Modron Assistance | 0.20% | ~434 |
+| Azaka's Procession - Part 1 | 0.20% | ~435 |
+| Azaka's Procession - Part 2 | 0.20% | ~435 |
+| The Hunt for Owl-y | 0.20% | ~435 |
+| Werewolves in the Mist | 0.20% | ~435 |
+| We're not in Faerûn Anymore | 0.20% | ~435 |
+| Modron Assistance | 0.20% | ~435 |
 | Thine Bounty is Mine! | 0.20% | ~367 |
-| Haaave You Met Asmodeus? | 0.20% | ~434 |
-| Domesticated Owlbears | 0.20% | ~434 |
+| Haaave You Met Asmodeus? | 0.20% | ~435 |
+| Domesticated Owlbears | 0.20% | ~435 |
 | This Quest Stinks! | 0.20% | ~367 |
-| Seeds of Deceit | 0.20% | ~434 |
-| Attack on the Manor | 0.20% | ~434 |
-| Treasure Hunters | 0.20% | ~434 |
-| The Guardian of Orolunga | 0.20% | ~434 |
-| Flies on the Wall | 0.20% | ~434 |
-| Backtracking Through Barovia | 0.20% | ~434 |
-| Nimble Escape | 0.20% | ~434 |
-| Fugitives | 0.20% | ~434 |
-| Premature Betrayal | 0.20% | ~434 |
-| Hopelessly Lost | 0.20% | ~434 |
-| Enter the Sargauth | 0.20% | ~434 |
-| The Dead Three | 0.20% | ~434 |
-| Slow and Steady | 0.20% | ~434 |
-| Flying Monkey Skulls of Doom | 0.20% | ~434 |
-| Lair of the Xanathar | 0.20% | ~434 |
-| Waterdeep Under Siege | 0.20% | ~434 |
-| Crowded Streets | 0.20% | ~434 |
-| The Darkness Runs Deeper | 0.20% | ~434 |
-| Difficult Terrain | 0.20% | ~434 |
-| Vault of Dragons | 0.20% | ~434 |
-| Champions of Waterdeep | 0.20% | ~434 |
-| Dinosaur Racing | 0.20% | ~434 |
-| Elturel Has Fallen | 0.20% | ~434 |
-| Resolve Amongst Chaos | 0.20% | ~434 |
-| Market Fluctuations | 0.20% | ~434 |
-| Once More Into The Breach | 0.20% | ~434 |
+| Seeds of Deceit | 0.20% | ~435 |
+| The Gargoyle's Apprentice | 0.20% | ~435 |
+| Attack on the Manor | 0.20% | ~435 |
+| Treasure Hunters | 0.20% | ~435 |
+| The Guardian of Orolunga | 0.20% | ~435 |
+| Flies on the Wall | 0.20% | ~435 |
+| Backtracking Through Barovia | 0.20% | ~435 |
+| Nimble Escape | 0.20% | ~435 |
+| Fugitives | 0.20% | ~435 |
+| Premature Betrayal | 0.20% | ~435 |
+| Hopelessly Lost | 0.20% | ~435 |
+| Enter the Sargauth | 0.20% | ~435 |
+| The Dead Three | 0.20% | ~435 |
+| Slow and Steady | 0.20% | ~435 |
+| Flying Monkey Skulls of Doom | 0.20% | ~435 |
+| Lair of the Xanathar | 0.20% | ~435 |
+| Waterdeep Under Siege | 0.20% | ~435 |
+| Crowded Streets | 0.20% | ~435 |
+| The Darkness Runs Deeper | 0.20% | ~435 |
+| Difficult Terrain | 0.20% | ~435 |
+| Vault of Dragons | 0.20% | ~435 |
+| Champions of Waterdeep | 0.20% | ~435 |
+| Dinosaur Racing | 0.20% | ~435 |
+| Elturel Has Fallen | 0.20% | ~435 |
+| Resolve Amongst Chaos | 0.20% | ~435 |
+| Market Fluctuations | 0.20% | ~435 |
+| Once More Into The Breach | 0.20% | ~435 |
+| Wyllowwood | 0.20% | ~435 |
 | Into The Fire | 0.20% | ~367 |
 | Dreamscape | 0.20% | ~367 |
 | The Path of Dreams | 0.20% | ~367 |
 | The Lost Hollyphant | 0.20% | ~367 |
 | The Everlasting Rime | 0.20% | ~367 |
-| Close Escort | 0.20% | ~434 |
-| Constant Banditry | 0.20% | ~434 |
-| The Long Haul | 0.20% | ~434 |
-| Rude Welcome | 0.20% | ~434 |
+| Close Escort | 0.20% | ~435 |
+| Constant Banditry | 0.20% | ~435 |
+| The Long Haul | 0.20% | ~435 |
+| Rude Welcome | 0.20% | ~435 |
 | Moose Tracks | 0.20% | ~367 |
 | Civilization | 0.20% | ~367 |
-| Durable Deep | 0.20% | ~434 |
-| Expert Opinion | 0.20% | ~434 |
+| Durable Deep | 0.20% | ~435 |
+| Expert Opinion | 0.20% | ~435 |
 | Dwarven Rumors | 0.20% | ~367 |
 | Sunblight | 0.20% | ~367 |
-| The Haunted Jungle | 0.20% | ~434 |
-| Poor Guidance | 0.20% | ~434 |
-| Rescue in the Jungle | 0.20% | ~434 |
+| The Haunted Jungle | 0.20% | ~435 |
+| Poor Guidance | 0.20% | ~435 |
+| Rescue in the Jungle | 0.20% | ~435 |
 | All The World's A Stage | 0.20% | ~367 |
 | Keep Your Friends Close | 0.10% | ~184 |
 | And Your Enemies Closer | 0.10% | ~184 |
@@ -293,7 +295,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Strahd | 0.10% | ~217 |
 | Seeds of Corruption | 0.10% | ~217 |
 | The Strahd Squad | 0.10% | ~184 |
-| The Gargoyle's Apprentice | 0.10% | ~217 |
 | House of Darkness | 0.10% | ~217 |
 | Home Not So Alone | 0.10% | ~184 |
 | The Trepidatious Trio | 0.10% | ~217 |
@@ -387,7 +388,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Twice More Into The Breach | 0.10% | ~217 |
 | Thrice More Into The Breach | 0.10% | ~184 |
 | Nightmare Mode | 0.10% | ~184 |
-| Wyllowwood | 0.10% | ~217 |
 | Displaced Anger | 0.10% | ~217 |
 | Ettercap Swarm | 0.10% | ~184 |
 | Smooth Talkers | 0.10% | ~184 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,237 (Ranked 53)  
+Progressed: 217,265 (Ranked 53)  
 Completed: 2,137 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,14 +621,14 @@ Completed: 2,137 (0.98%) (Ranked 112)
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
-| 2023-07-31 | 217,237 | 2,137 |
+| 2023-07-31 | 217,265 | 2,137 |
 ## Awards
-Max (Diverse Characters): 5,100  (Ranked 67)  
-Sum: 30,813 (Ranked 38)  
+Max (Diverse Characters): 5,106  (Ranked 67)  
+Sum: 30,819 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,100 |
+| This game has Diverse Characters | 5,106 |
 | This game is Great for Beginners | 5,040 |
 | This game has Quickly Understood Controls | 4,691 |
 | This game is Relaxing | 4,583 |
@@ -824,3 +824,4 @@ Diff (max vs sum): 29
 | 2023-07-28 | 4.05 | - | 5,093 | 30,775 |
 | 2023-07-29 | 4.05 | - | 5,100 | 30,800 |
 | 2023-07-30 | 4.05 | - | 5,100 | 30,813 |
+| 2023-07-31 | 4.05 | - | 5,106 | 30,819 |

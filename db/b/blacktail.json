@@ -5,10 +5,10 @@
   "Ranking_Rating": 239,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
-  "Ranking_EOS_Progress": 215,
+  "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,7 +60,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 596,
+  "EOS_Progressed": 597,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
@@ -1420,6 +1420,11 @@
       "Time": "2023-07-30T20:03:12.0518289+00:00",
       "NumProgressed": 596,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-31T02:02:12.1218392+00:00",
+      "NumProgressed": 597,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1463,7 +1468,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Devoted",
@@ -1623,7 +1628,7 @@
       "Name": "Uprooting",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "TheGuardian",
@@ -1686,7 +1691,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 596,
+      "Progressed": 597,
       "Completed": 1
     }
   ],
@@ -1694,8 +1699,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-31T00:02:21.8794521+00:00",
+  "LastChanged_Achievements": "2023-07-31T02:02:12.1218382+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:48.1262101+00:00",
-  "LastUpdate_Ratings": "2023-07-30T23:58:54.4171362+00:00",
-  "LastUpdate_Achievements": "2023-07-31T00:02:21.8795066+00:00"
+  "LastUpdate_Ratings": "2023-07-31T01:57:34.266743+00:00",
+  "LastUpdate_Achievements": "2023-07-31T02:02:12.1218791+00:00"
 }

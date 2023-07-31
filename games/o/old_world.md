@@ -15,10 +15,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 1.00% | ~132 |
 | Poetic Leader | 1.00% | ~132 |
 | Able | 0.90% | ~119 |
+| Architect | 0.90% | ~119 |
 | Mason | 0.90% | ~119 |
 | Strong | 0.90% | ~119 |
 | Hanging Gardens | 0.90% | ~119 |
-| Architect | 0.80% | ~106 |
 | Enlightened | 0.80% | ~106 |
 | Good | 0.80% | ~106 |
 | Just | 0.80% | ~106 |
@@ -34,7 +34,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 0.70% | ~92 |
 | Babylonian Paganism | 0.70% | ~92 |
 | Greek Paganism | 0.70% | ~92 |
+| Zoroastrianism | 0.70% | ~92 |
 | Ambitious | 0.60% | ~79 |
+| Fountainhead | 0.60% | ~79 |
 | Magnificent | 0.60% | ~79 |
 | Warrior | 0.60% | ~79 |
 | Wise | 0.60% | ~79 |
@@ -47,10 +49,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 0.60% | ~79 |
 | Carthaginian Paganism | 0.60% | ~79 |
 | Roman Paganism | 0.60% | ~79 |
-| Zoroastrianism | 0.60% | ~79 |
 | Regicide | 0.50% | ~66 |
 | Brilliant | 0.50% | ~66 |
-| Fountainhead | 0.50% | ~66 |
 | Great | 0.50% | ~66 |
 | Artisans | 0.50% | ~66 |
 | Colossus | 0.50% | ~66 |
@@ -79,9 +79,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.30% | ~40 |
 | Mighty | 0.30% | ~40 |
 | Ready | 0.30% | ~40 |
+| Subjugator | 0.30% | ~40 |
 | Valiant | 0.30% | ~40 |
 | Good Difficulty | 0.30% | ~40 |
+| Strong Difficulty | 0.30% | ~40 |
 | Patrons | 0.30% | ~40 |
+| Riders | 0.30% | ~40 |
 | Statesmen | 0.30% | ~40 |
 | Traders | 0.30% | ~40 |
 | Hittite Iron | 0.30% | ~40 |
@@ -94,6 +97,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.30% | ~40 |
 | Carthage | 0.30% | ~40 |
 | Power to the People | 0.30% | ~40 |
+| Assyrian Paganism | 0.30% | ~40 |
 | Persian Paganism | 0.30% | ~40 |
 | Building Wonders | 0.30% | ~40 |
 | Economic Reform | 0.30% | ~40 |
@@ -115,20 +119,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.20% | ~26 |
 | Old | 0.20% | ~26 |
 | Peacemaker | 0.20% | ~26 |
-| Subjugator | 0.20% | ~26 |
 | Victorious | 0.20% | ~26 |
-| Strong Difficulty | 0.20% | ~26 |
+| Noble Difficulty | 0.20% | ~26 |
 | Clerics | 0.20% | ~26 |
 | Hunters | 0.20% | ~26 |
 | Landowners | 0.20% | ~26 |
-| Riders | 0.20% | ~26 |
 | Church of the Holy Sepulchre | 0.20% | ~26 |
 | Learn to Play 4 | 0.20% | ~26 |
 | Babylonia | 0.20% | ~26 |
 | Egypt | 0.20% | ~26 |
 | Rome | 0.20% | ~26 |
 | One True Faith | 0.20% | ~26 |
-| Assyrian Paganism | 0.20% | ~26 |
 | Industrial Progress | 0.20% | ~26 |
 | Military Prestige | 0.20% | ~26 |
 | Enlightenment | 0.20% | ~26 |
@@ -177,7 +178,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.10% | ~13 |
 | Great Difficulty | 0.10% | ~13 |
 | Magnificent Difficulty | 0.10% | ~13 |
-| Noble Difficulty | 0.10% | ~13 |
 | Et tu Brutus? | 0.10% | ~13 |
 | Event Level High | 0.10% | ~13 |
 | Battle of the Fertile Crescent | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,193 (Ranked 117)  
+Progressed: 13,194 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 5 (0.04%) (Ranked 216)
 | 2023-07-28 | 13,145 | 5 |
 | 2023-07-29 | 13,164 | 5 |
 | 2023-07-30 | 13,191 | 5 |
-| 2023-07-31 | 13,193 | 5 |
+| 2023-07-31 | 13,194 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  
