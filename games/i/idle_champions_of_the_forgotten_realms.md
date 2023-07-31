@@ -7,11 +7,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 3.00% | ~6,518 |
-| Maddening | 2.00% | ~4,345 |
-| Beast Intentions | 2.00% | ~4,345 |
+| Maddening | 2.00% | ~4,346 |
+| Beast Intentions | 2.00% | ~4,346 |
 | The Silken Swamp | 1.00% | ~2,173 |
 | Supply Run | 1.00% | ~2,173 |
-| Rocky Reception | 1.00% | ~1,835 |
+| Rocky Reception | 1.00% | ~1,836 |
 | Vecna Lives! | 0.90% | ~1,652 |
 | Rock and Roll | 0.90% | ~1,652 |
 | Flight of the Kindori Pod | 0.80% | ~1,468 |
@@ -58,6 +58,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.40% | ~869 |
 | Family Entanglements | 0.40% | ~869 |
 | The Cursed Farmer | 0.40% | ~869 |
+| The Ring of Regeneration | 0.40% | ~869 |
 | Luigi After Hours | 0.40% | ~734 |
 | Electric Mayhem | 0.40% | ~734 |
 | Animated Giff | 0.40% | ~734 |
@@ -90,7 +91,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wyrmheart Mine | 0.30% | ~652 |
 | Tower on the Lake | 0.30% | ~652 |
 | Trollskull Manor | 0.30% | ~652 |
-| The Ring of Regeneration | 0.30% | ~652 |
 | The Crumbling Temple | 0.30% | ~652 |
 | The Death Curse | 0.30% | ~652 |
 | Seeking Allies | 0.30% | ~652 |
@@ -191,6 +191,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dreamscape | 0.20% | ~367 |
 | The Path of Dreams | 0.20% | ~367 |
 | The Lost Hollyphant | 0.20% | ~367 |
+| The Wandering Emporium | 0.20% | ~367 |
 | The Everlasting Rime | 0.20% | ~367 |
 | Close Escort | 0.20% | ~435 |
 | Constant Banditry | 0.20% | ~435 |
@@ -416,7 +417,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elder Rune Attack | 0.10% | ~184 |
 | The Gargoyle | 0.10% | ~184 |
 | Ulkoria's Escape from Alterdeep | 0.10% | ~184 |
-| The Wandering Emporium | 0.10% | ~184 |
 | Madcap Adventures Redux | 0.10% | ~184 |
 | When the Going Gets Tough | 0.10% | ~184 |
 | Tiamat's Army | 0.10% | ~184 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,265 (Ranked 53)  
+Progressed: 217,281 (Ranked 53)  
 Completed: 2,137 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,7 +621,7 @@ Completed: 2,137 (0.98%) (Ranked 112)
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
-| 2023-07-31 | 217,265 | 2,137 |
+| 2023-07-31 | 217,281 | 2,137 |
 ## Awards
 Max (Diverse Characters): 5,106  (Ranked 67)  
 Sum: 30,819 (Ranked 38)  

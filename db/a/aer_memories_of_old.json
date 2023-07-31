@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 82,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,10 +374,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16636,
+  "EOS_Progressed": 16638,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 580,
-  "EOS_NewCompleters": 14,
+  "EOS_NewPlayers": 581,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.07,
   "EosHistory": [
     {
@@ -11079,6 +11079,11 @@
       "Time": "2023-07-31T02:03:39.0512661+00:00",
       "NumProgressed": 16636,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2023-07-31T03:05:01.2017395+00:00",
+      "NumProgressed": 16638,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 20,
@@ -11122,7 +11127,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -11146,7 +11151,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -11154,7 +11159,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2495
+      "UsersEstimate": 2496
     },
     {
       "ID": "FOUND_ERIN",
@@ -11184,9 +11189,9 @@
       "ID": "FOUND_RIFT_CAVE",
       "SetID": "b6m2mm5",
       "Name": "Gaze into the abyss",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2163
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -11202,7 +11207,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "INTRO_FINISHED",
@@ -11210,7 +11215,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12643
+      "UsersEstimate": 12645
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -11218,7 +11223,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4658
+      "UsersEstimate": 4659
     },
     {
       "ID": "NORTH_FINISHED",
@@ -11249,15 +11254,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 16636,
+      "Progressed": 16638,
       "Completed": 345
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-31T02:03:39.0512656+00:00",
+  "LastChanged_Achievements": "2023-07-31T03:05:01.2017389+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:59.0842389+00:00",
-  "LastUpdate_Ratings": "2023-07-31T01:59:27.2767913+00:00",
-  "LastUpdate_Achievements": "2023-07-31T02:03:39.0513501+00:00"
+  "LastUpdate_Ratings": "2023-07-31T03:01:30.6002839+00:00",
+  "LastUpdate_Achievements": "2023-07-31T03:05:01.2018001+00:00"
 }

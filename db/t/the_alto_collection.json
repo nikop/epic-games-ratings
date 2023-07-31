@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -745,9 +745,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 33391,
+  "EOS_Progressed": 33394,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1004,
+  "EOS_NewPlayers": 1001,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11745,6 +11745,11 @@
       "Time": "2023-07-31T02:02:59.8176214+00:00",
       "NumProgressed": 33391,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-31T03:04:09.5198614+00:00",
+      "NumProgressed": 33394,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -11836,7 +11841,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "journeyer",
@@ -11876,7 +11881,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6010
+      "UsersEstimate": 6011
     },
     {
       "ID": "novice",
@@ -11908,7 +11913,7 @@
       "Name": "Unlock Maya",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2338
     },
     {
       "ID": "playerPaz",
@@ -11948,7 +11953,7 @@
       "Name": "One With The Board",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "proximityFly1000",
@@ -12028,7 +12033,7 @@
       "Name": "Enter Paz",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2671
+      "UsersEstimate": 2672
     },
     {
       "ID": "vandal",
@@ -12052,7 +12057,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2671
+      "UsersEstimate": 2672
     },
     {
       "ID": "windswept",
@@ -12067,15 +12072,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 33391,
+      "Progressed": 33394,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-28T06:00:25.7046366+00:00",
-  "LastChanged_Achievements": "2023-07-31T02:02:59.8176209+00:00",
+  "LastChanged_Achievements": "2023-07-31T03:04:09.5198609+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:58.7881773+00:00",
-  "LastUpdate_Ratings": "2023-07-31T01:58:47.9264+00:00",
-  "LastUpdate_Achievements": "2023-07-31T02:02:59.8177212+00:00"
+  "LastUpdate_Ratings": "2023-07-31T03:00:36.5734549+00:00",
+  "LastUpdate_Achievements": "2023-07-31T03:04:09.5199367+00:00"
 }

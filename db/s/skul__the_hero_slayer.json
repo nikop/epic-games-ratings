@@ -920,9 +920,9 @@
       "Count": 122
     }
   ],
-  "EOS_Progressed": 8049,
+  "EOS_Progressed": 8050,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4010,6 +4010,11 @@
       "Time": "2023-07-30T23:06:01.6547657+00:00",
       "NumProgressed": 8049,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-31T03:05:49.9901539+00:00",
+      "NumProgressed": 8050,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -4021,7 +4026,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "Chatterbox",
@@ -4045,7 +4050,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5071
+      "UsersEstimate": 5072
     },
     {
       "ID": "DemonCastleRestoration",
@@ -4093,7 +4098,7 @@
       "Name": "The God of Battle",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "GoHome",
@@ -4101,7 +4106,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2174
     },
     {
       "ID": "HeroSlayer",
@@ -4149,7 +4154,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5071
+      "UsersEstimate": 5072
     },
     {
       "ID": "SavedElderEnt_2",
@@ -4205,22 +4210,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6761
+      "UsersEstimate": 6762
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8049,
+      "Progressed": 8050,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-30T01:56:13.7308805+00:00",
-  "LastChanged_Achievements": "2023-07-31T02:04:14.9118472+00:00",
+  "LastChanged_Achievements": "2023-07-31T03:05:49.9901535+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:57.8506775+00:00",
-  "LastUpdate_Ratings": "2023-07-31T01:58:36.3841062+00:00",
-  "LastUpdate_Achievements": "2023-07-31T02:04:14.9118861+00:00"
+  "LastUpdate_Ratings": "2023-07-31T03:00:20.3388347+00:00",
+  "LastUpdate_Achievements": "2023-07-31T03:05:49.9901816+00:00"
 }

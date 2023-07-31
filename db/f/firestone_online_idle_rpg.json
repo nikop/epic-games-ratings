@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1743,
+  "EOS_Progressed": 1744,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4615,6 +4615,11 @@
       "Time": "2023-07-31T02:03:04.573472+00:00",
       "NumProgressed": 1743,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-31T03:04:16.3885421+00:00",
+      "NumProgressed": 1744,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4834,7 +4839,7 @@
       "Name": "Full Party",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "gearenchanting",
@@ -4866,7 +4871,7 @@
       "Name": "Here We Go Again",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "heroinspection",
@@ -4938,7 +4943,7 @@
       "Name": "Master Enchanter",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "mastery",
@@ -5026,7 +5031,7 @@
       "Name": "Prestigious x10",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "relicofthepast",
@@ -5082,7 +5087,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "thealchemist",
@@ -5106,7 +5111,7 @@
       "Name": "The father of Dragons",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "thegameison",
@@ -5186,7 +5191,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "warmachinesarmy",
@@ -5218,14 +5223,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1743,
+      "Progressed": 1744,
       "Completed": 1
     }
   ],
@@ -5233,8 +5238,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-18T16:58:41.2064019+00:00",
-  "LastChanged_Achievements": "2023-07-31T02:03:04.5734713+00:00",
+  "LastChanged_Achievements": "2023-07-31T03:04:16.3885416+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:54.4032931+00:00",
-  "LastUpdate_Ratings": "2023-07-31T01:57:40.4033726+00:00",
-  "LastUpdate_Achievements": "2023-07-31T02:03:04.5735882+00:00"
+  "LastUpdate_Ratings": "2023-07-31T02:58:59.1473834+00:00",
+  "LastUpdate_Achievements": "2023-07-31T03:04:16.388623+00:00"
 }

@@ -487,9 +487,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 333826,
+  "EOS_Progressed": 333831,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1743,
+  "EOS_NewPlayers": 1738,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11547,6 +11547,11 @@
       "Time": "2023-07-31T02:05:27.2253562+00:00",
       "NumProgressed": 333826,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-31T03:07:29.2235368+00:00",
+      "NumProgressed": 333831,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 80,
@@ -11574,7 +11579,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40059
+      "UsersEstimate": 40060
     },
     {
       "ID": "ach004",
@@ -11598,7 +11603,7 @@
       "Name": "Street Knowledge",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16691
+      "UsersEstimate": 16692
     },
     {
       "ID": "ach007",
@@ -11614,7 +11619,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40059
+      "UsersEstimate": 40060
     },
     {
       "ID": "ach009",
@@ -11638,7 +11643,7 @@
       "Name": "Oh Captain",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16691
+      "UsersEstimate": 16692
     },
     {
       "ID": "ach012",
@@ -11670,7 +11675,7 @@
       "Name": "Branching Out",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16691
+      "UsersEstimate": 16692
     },
     {
       "ID": "ach016",
@@ -11686,7 +11691,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 43397
+      "UsersEstimate": 43398
     },
     {
       "ID": "ach018",
@@ -11766,7 +11771,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 153560
+      "UsersEstimate": 153562
     },
     {
       "ID": "ach028",
@@ -11870,7 +11875,7 @@
       "Name": "Improvement Missions",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16691
+      "UsersEstimate": 16692
     },
     {
       "ID": "ach041",
@@ -11886,7 +11891,7 @@
       "Name": "Opportunity Knocked",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16691
+      "UsersEstimate": 16692
     },
     {
       "ID": "ach043",
@@ -11910,7 +11915,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 43397
+      "UsersEstimate": 43398
     },
     {
       "ID": "ach046",
@@ -11950,7 +11955,7 @@
       "Name": "City of Big Shoulders",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16691
+      "UsersEstimate": 16692
     },
     {
       "ID": "ach051",
@@ -12054,7 +12059,7 @@
       "Name": "Moving Experiences",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16691
+      "UsersEstimate": 16692
     },
     {
       "ID": "ach065",
@@ -12086,7 +12091,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 53412
+      "UsersEstimate": 53413
     },
     {
       "ID": "ach069",
@@ -12110,7 +12115,7 @@
       "Name": "Mission Mastery",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 16691
+      "UsersEstimate": 16692
     },
     {
       "ID": "ach072",
@@ -12118,7 +12123,7 @@
       "Name": "Wise Head",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16691
+      "UsersEstimate": 16692
     },
     {
       "ID": "ach073",
@@ -12197,7 +12202,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 333826,
+      "Progressed": 333831,
       "Completed": 5
     }
   ],
@@ -12205,8 +12210,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-07-29T22:58:16.5874731+00:00",
-  "LastChanged_Achievements": "2023-07-31T02:05:27.2253552+00:00",
+  "LastChanged_Achievements": "2023-07-31T03:07:29.2235364+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:41.4176028+00:00",
-  "LastUpdate_Ratings": "2023-07-31T01:57:26.873172+00:00",
-  "LastUpdate_Achievements": "2023-07-31T02:05:27.2255037+00:00"
+  "LastUpdate_Ratings": "2023-07-31T02:58:41.6665067+00:00",
+  "LastUpdate_Achievements": "2023-07-31T03:07:29.2236717+00:00"
 }

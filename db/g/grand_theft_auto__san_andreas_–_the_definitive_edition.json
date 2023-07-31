@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -628,9 +628,9 @@
       "Count": 233
     }
   ],
-  "EOS_Progressed": 11617,
+  "EOS_Progressed": 11618,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -7903,6 +7903,11 @@
       "Time": "2023-07-31T02:05:37.6137992+00:00",
       "NumProgressed": 11617,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-31T03:07:43.5588109+00:00",
+      "NumProgressed": 11618,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -7914,7 +7919,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9410
+      "UsersEstimate": 9411
     },
     {
       "ID": "ACH02",
@@ -7970,7 +7975,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5808
+      "UsersEstimate": 5809
     },
     {
       "ID": "ACH09",
@@ -8082,7 +8087,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "ACH23",
@@ -8193,7 +8198,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11617,
+      "Progressed": 11618,
       "Completed": 31
     }
   ],
@@ -8201,8 +8206,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-30T04:01:49.145495+00:00",
-  "LastChanged_Achievements": "2023-07-31T02:05:37.6137987+00:00",
+  "LastChanged_Achievements": "2023-07-31T03:07:43.5588104+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.4328142+00:00",
-  "LastUpdate_Ratings": "2023-07-31T01:59:36.5996724+00:00",
-  "LastUpdate_Achievements": "2023-07-31T02:05:37.6138654+00:00"
+  "LastUpdate_Ratings": "2023-07-31T03:01:45.117404+00:00",
+  "LastUpdate_Achievements": "2023-07-31T03:07:43.5588691+00:00"
 }

@@ -29,13 +29,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 0.80% | ~106 |
 | Naming Landmarks | 0.80% | ~106 |
 | Trade Caravan | 0.80% | ~106 |
+| Ambitious | 0.70% | ~92 |
 | Glorious | 0.70% | ~92 |
 | Keystone | 0.70% | ~92 |
 | Pyramids | 0.70% | ~92 |
 | Babylonian Paganism | 0.70% | ~92 |
 | Greek Paganism | 0.70% | ~92 |
 | Zoroastrianism | 0.70% | ~92 |
-| Ambitious | 0.60% | ~79 |
 | Fountainhead | 0.60% | ~79 |
 | Magnificent | 0.60% | ~79 |
 | Warrior | 0.60% | ~79 |
@@ -63,6 +63,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.40% | ~53 |
 | Drillmaster | 0.40% | ~53 |
 | Intercessor | 0.40% | ~53 |
+| Valiant | 0.40% | ~53 |
 | Legendary Cities | 0.40% | ~53 |
 | Just Difficulty | 0.40% | ~53 |
 | Champions | 0.40% | ~53 |
@@ -80,7 +81,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 0.30% | ~40 |
 | Ready | 0.30% | ~40 |
 | Subjugator | 0.30% | ~40 |
-| Valiant | 0.30% | ~40 |
 | Good Difficulty | 0.30% | ~40 |
 | Strong Difficulty | 0.30% | ~40 |
 | Patrons | 0.30% | ~40 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,194 (Ranked 117)  
+Progressed: 13,195 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 5 (0.04%) (Ranked 216)
 | 2023-07-28 | 13,145 | 5 |
 | 2023-07-29 | 13,164 | 5 |
 | 2023-07-30 | 13,191 | 5 |
-| 2023-07-31 | 13,194 | 5 |
+| 2023-07-31 | 13,195 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

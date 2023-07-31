@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 229,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 8.73,
   "EosHistory": [
@@ -1065,9 +1065,9 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 175,
-      "UsersEstimate": 133
+      "UsersEstimate": 135
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -1120,8 +1120,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-07-31T02:04:12.792997+00:00",
+  "LastChanged_Achievements": "2023-07-31T03:05:46.9867734+00:00",
   "LastUpdate_AppInfo": "2023-07-27T13:57:11.6016453+00:00",
-  "LastUpdate_Ratings": "2023-07-31T01:56:38.415342+00:00",
-  "LastUpdate_Achievements": "2023-07-31T02:04:12.7930122+00:00"
+  "LastUpdate_Ratings": "2023-07-31T02:57:27.8165186+00:00",
+  "LastUpdate_Achievements": "2023-07-31T03:05:46.9867852+00:00"
 }

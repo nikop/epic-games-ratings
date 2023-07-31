@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -998,9 +998,9 @@
       "ID": "BasiliskBroom",
       "SetID": "db30heh",
       "Name": "Sweeping Prop",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "BasiliskFishingRod",
@@ -1078,9 +1078,9 @@
       "ID": "BroomAmanita",
       "SetID": "db30heh",
       "Name": "Gone Cooking",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 133
+      "UsersEstimate": 136
     },
     {
       "ID": "BroomPistol",
@@ -1190,9 +1190,9 @@
       "ID": "KingDiamond",
       "SetID": "db30heh",
       "Name": "King\u0027s Jewel",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "PitSoul",
@@ -1334,9 +1334,9 @@
       "ID": "SwordMoneyBag",
       "SetID": "db30heh",
       "Name": "Expensive Deal",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "WormGrilled",
@@ -1357,8 +1357,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-31T02:04:57.7533525+00:00",
+  "LastChanged_Achievements": "2023-07-31T03:06:49.3005077+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-31T01:56:36.9161834+00:00",
-  "LastUpdate_Achievements": "2023-07-31T02:04:57.7533968+00:00"
+  "LastUpdate_Ratings": "2023-07-31T02:57:25.637547+00:00",
+  "LastUpdate_Achievements": "2023-07-31T03:06:49.3005423+00:00"
 }

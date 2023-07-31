@@ -6,26 +6,26 @@
 | ---- | ---------- | ----- |
 | Such a strange dream… | 87.00% | ~168 |
 | Your first fight | 85.00% | ~164 |
+| First winning | 84.00% | ~162 |
 | Good Person Chip | 84.00% | ~162 |
-| First winning | 83.00% | ~160 |
 | Your first job | 83.00% | ~160 |
 | First defeat | 79.00% | ~152 |
 | Old movies enjoyer | 79.00% | ~152 |
+| Depressed visitor | 77.00% | ~149 |
 | Fitness professional | 76.00% | ~147 |
-| Depressed visitor | 76.00% | ~147 |
 | Employee of the week | 75.00% | ~145 |
 | Your own amateur gym | 74.00% | ~143 |
 | Neurotrainer – power gainer! | 74.00% | ~143 |
 | Run K, run! | 69.00% | ~133 |
 | Hello, world! | 68.00% | ~131 |
 | No bullying more | 67.00% | ~129 |
-| Fighting is cool | 64.00% | ~124 |
-| Pal of your father? | 62.00% | ~120 |
+| Fighting is cool | 65.00% | ~125 |
+| Pal of your father? | 63.00% | ~122 |
+| Spirit of the past | 60.00% | ~116 |
 | Employee of the month | 60.00% | ~116 |
 | Law student | 59.00% | ~114 |
-| Spirit of the past | 59.00% | ~114 |
-| Intriguing candies | 56.00% | ~108 |
-| Workout professional | 54.00% | ~104 |
+| Intriguing candies | 57.00% | ~110 |
+| Workout professional | 55.00% | ~106 |
 | Little hacker | 54.00% | ~104 |
 | Champion – starter pack | 54.00% | ~104 |
 | It's good to be alive | 53.00% | ~102 |
@@ -71,7 +71,7 @@
 | Better cooking at home | 22.00% | ~42 |
 | The only right decision | 22.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 193 (Ranked 283)  
+Progressed: 193 (Ranked 284)  
 Completed: 7 (3.63%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |

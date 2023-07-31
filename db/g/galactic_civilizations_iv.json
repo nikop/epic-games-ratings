@@ -834,9 +834,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6259,
+  "EOS_Progressed": 6260,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4559,6 +4559,11 @@
       "Time": "2023-07-31T02:01:09.8818217+00:00",
       "NumProgressed": 6259,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T03:02:20.1827025+00:00",
+      "NumProgressed": 6260,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -4602,7 +4607,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -4610,7 +4615,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3943
+      "UsersEstimate": 3944
     },
     {
       "ID": "Control_All_Relics",
@@ -4682,7 +4687,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4569
+      "UsersEstimate": 4570
     },
     {
       "ID": "First_Ship_Designed",
@@ -4706,7 +4711,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4882
+      "UsersEstimate": 4883
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -4906,7 +4911,7 @@
       "Name": "Galactic War",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "War_Without_Translator",
@@ -5145,15 +5150,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6259,
+      "Progressed": 6260,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-07-30T08:58:20.2585485+00:00",
-  "LastChanged_Achievements": "2023-07-31T02:01:09.8818212+00:00",
+  "LastChanged_Achievements": "2023-07-31T03:02:20.1827021+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:11.8834524+00:00",
-  "LastUpdate_Ratings": "2023-07-31T01:57:12.5391107+00:00",
-  "LastUpdate_Achievements": "2023-07-31T02:01:09.8819377+00:00"
+  "LastUpdate_Ratings": "2023-07-31T02:58:19.2049656+00:00",
+  "LastUpdate_Achievements": "2023-07-31T03:02:20.182782+00:00"
 }

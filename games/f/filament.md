@@ -5,25 +5,25 @@ Rating: 4.32 (Ranked 770)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~185,953 |
-| Snooper. | 10.00% | ~19,782 |
+| Boarded! | 94.00% | ~185,957 |
+| Snooper. | 10.00% | ~19,783 |
 | You have to start somewhere, right? | 7.00% | ~13,848 |
-| So you're saying I don't touch these ones? | 6.00% | ~11,869 |
+| So you're saying I don't touch these ones? | 6.00% | ~11,870 |
 | Corrupted. | 5.00% | ~9,891 |
 | Good things come in pairs... Coloured Pairs. | 5.00% | ~9,891 |
 | Answers can be found amongst the stars | 3.00% | ~5,935 |
 | Bend to the will of the arrows. | 3.00% | ~5,935 |
-| You've been through a lot. | 2.00% | ~3,956 |
-| People's feelings on these ones are very... Binary... | 2.00% | ~3,956 |
-| I hope your remember your colour theory. | 2.00% | ~3,956 |
-| Care to take a nap? | 2.00% | ~3,956 |
-| Like wide, but upwards. | 2.00% | ~3,956 |
-| Put the pieces together. | 2.00% | ~3,956 |
-| Two cute little robots are better than one. | 2.00% | ~3,956 |
-| Technically, we told you how to solve them. | 2.00% | ~3,956 |
-| They're like really flat pillars. | 2.00% | ~3,956 |
-| That's a wrap. | 2.00% | ~3,956 |
-| In balance. | 2.00% | ~3,956 |
+| You've been through a lot. | 2.00% | ~3,957 |
+| People's feelings on these ones are very... Binary... | 2.00% | ~3,957 |
+| I hope your remember your colour theory. | 2.00% | ~3,957 |
+| Care to take a nap? | 2.00% | ~3,957 |
+| Like wide, but upwards. | 2.00% | ~3,957 |
+| Put the pieces together. | 2.00% | ~3,957 |
+| Two cute little robots are better than one. | 2.00% | ~3,957 |
+| Technically, we told you how to solve them. | 2.00% | ~3,957 |
+| They're like really flat pillars. | 2.00% | ~3,957 |
+| That's a wrap. | 2.00% | ~3,957 |
+| In balance. | 2.00% | ~3,957 |
 | I hope you're ready. | 1.00% | ~1,978 |
 | Bridge crossed. | 0.70% | ~1,385 |
 | Cockpit | 0.70% | ~1,385 |
@@ -35,7 +35,7 @@ Rating: 4.32 (Ranked 770)
 | Snooper + | 0.40% | ~791 |
 | Corrupted + | 0.30% | ~593 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197,822 (Ranked 56)  
+Progressed: 197,827 (Ranked 56)  
 Completed: 471 (0.24%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 471 (0.24%) (Ranked 167)
 | 2023-07-28 | 197,594 | 470 |
 | 2023-07-29 | 197,709 | 470 |
 | 2023-07-30 | 197,813 | 471 |
-| 2023-07-31 | 197,822 | 471 |
+| 2023-07-31 | 197,827 | 471 |
 ## Awards
 Max (Challenging Puzzles): 559  (Ranked 184)  
 Sum: 673 (Ranked 275)  
