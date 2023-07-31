@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
     "PcReleaseDate": "2021-11-20T17:00:00+00:00",
@@ -448,17 +448,17 @@
       "ID": "secret25",
       "SetID": "39f6ck8",
       "Name": "Power Overload",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "secret26",
       "SetID": "39f6ck8",
       "Name": "Supreme Power",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "secret27",
@@ -608,9 +608,9 @@
       "ID": "secret43",
       "SetID": "39f6ck8",
       "Name": "Quite A Snack",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "secret44",
@@ -720,9 +720,9 @@
       "ID": "secret8",
       "SetID": "39f6ck8",
       "Name": "Destroy Erase Improve",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "secret9",
@@ -745,8 +745,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-07-31T12:03:48.8636648+00:00",
+  "LastChanged_Achievements": "2023-07-31T13:15:23.1183707+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:46.0968305+00:00",
-  "LastUpdate_Ratings": "2023-07-31T12:01:46.604016+00:00",
-  "LastUpdate_Achievements": "2023-07-31T12:03:48.8637235+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:12:18.5438455+00:00",
+  "LastUpdate_Achievements": "2023-07-31T13:15:23.1184228+00:00"
 }

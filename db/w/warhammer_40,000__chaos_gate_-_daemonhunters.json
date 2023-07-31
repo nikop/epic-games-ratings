@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 410,
+  "Ranking_Rating": 411,
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -2889,9 +2889,9 @@
       "ID": "FrequentWarpSurges",
       "SetID": "3jha1np",
       "Name": "Unstable Immaterium",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "FullBarracks",
@@ -3319,8 +3319,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-30T00:00:03.0070741+00:00",
-  "LastChanged_Achievements": "2023-07-31T12:05:01.6448515+00:00",
+  "LastChanged_Achievements": "2023-07-31T13:16:26.6693468+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:36.2653351+00:00",
-  "LastUpdate_Ratings": "2023-07-31T12:00:13.8000911+00:00",
-  "LastUpdate_Achievements": "2023-07-31T12:05:01.6449489+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:11:13.8634093+00:00",
+  "LastUpdate_Achievements": "2023-07-31T13:16:26.6694308+00:00"
 }

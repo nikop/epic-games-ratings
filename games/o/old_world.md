@@ -17,6 +17,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 0.90% | ~119 |
 | Architect | 0.90% | ~119 |
 | Mason | 0.90% | ~119 |
+| Pioneer | 0.90% | ~119 |
 | Strong | 0.90% | ~119 |
 | Hanging Gardens | 0.90% | ~119 |
 | Enlightened | 0.80% | ~106 |
@@ -24,7 +25,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 0.80% | ~106 |
 | Learned | 0.80% | ~106 |
 | Noble | 0.80% | ~106 |
-| Pioneer | 0.80% | ~106 |
 | Oracle | 0.80% | ~106 |
 | Judaism | 0.80% | ~106 |
 | Naming Landmarks | 0.80% | ~106 |
@@ -32,26 +32,27 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 0.70% | ~92 |
 | Glorious | 0.70% | ~92 |
 | Keystone | 0.70% | ~92 |
+| Magnificent | 0.70% | ~92 |
 | Warrior | 0.70% | ~92 |
+| Developing Cities | 0.70% | ~92 |
+| Lighthouse | 0.70% | ~92 |
 | Pyramids | 0.70% | ~92 |
+| Christianity | 0.70% | ~92 |
 | Babylonian Paganism | 0.70% | ~92 |
 | Greek Paganism | 0.70% | ~92 |
 | Zoroastrianism | 0.70% | ~92 |
 | Fountainhead | 0.60% | ~79 |
-| Magnificent | 0.60% | ~79 |
 | Wise | 0.60% | ~79 |
-| Developing Cities | 0.60% | ~79 |
 | Strong Cities | 0.60% | ~79 |
 | Able Difficulty | 0.60% | ~79 |
 | Ishtar Gate | 0.60% | ~79 |
-| Lighthouse | 0.60% | ~79 |
 | Learn to Play 1 | 0.60% | ~79 |
-| Christianity | 0.60% | ~79 |
 | Carthaginian Paganism | 0.60% | ~79 |
 | Roman Paganism | 0.60% | ~79 |
 | Regicide | 0.50% | ~66 |
 | Brilliant | 0.50% | ~66 |
 | Great | 0.50% | ~66 |
+| Just Difficulty | 0.50% | ~66 |
 | Artisans | 0.50% | ~66 |
 | Furious Family | 0.50% | ~66 |
 | Colossus | 0.50% | ~66 |
@@ -66,7 +67,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.40% | ~53 |
 | Valiant | 0.40% | ~53 |
 | Legendary Cities | 0.40% | ~53 |
-| Just Difficulty | 0.40% | ~53 |
 | Champions | 0.40% | ~53 |
 | Sages | 0.40% | ~53 |
 | Acropolis | 0.40% | ~53 |
@@ -91,6 +91,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.30% | ~40 |
 | Circus Maximus | 0.30% | ~40 |
 | Hagia Sophia | 0.30% | ~40 |
+| Church of the Holy Sepulchre | 0.30% | ~40 |
 | Temple of Solomon | 0.30% | ~40 |
 | Adur Burzen-Mihr | 0.30% | ~40 |
 | Pantheon | 0.30% | ~40 |
@@ -124,7 +125,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.20% | ~26 |
 | Hunters | 0.20% | ~26 |
 | Landowners | 0.20% | ~26 |
-| Church of the Holy Sepulchre | 0.20% | ~26 |
 | Learn to Play 4 | 0.20% | ~26 |
 | Babylonia | 0.20% | ~26 |
 | Egypt | 0.20% | ~26 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,197 (Ranked 117)  
+Progressed: 13,198 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 5 (0.04%) (Ranked 216)
 | 2023-07-28 | 13,145 | 5 |
 | 2023-07-29 | 13,164 | 5 |
 | 2023-07-30 | 13,191 | 5 |
-| 2023-07-31 | 13,197 | 5 |
+| 2023-07-31 | 13,198 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

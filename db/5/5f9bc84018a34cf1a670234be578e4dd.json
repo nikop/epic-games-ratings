@@ -3,9 +3,9 @@
   "Name": "Access Denied Escape",
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 337,
-  "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_Completed": 16,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -299,9 +299,9 @@
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 70,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Compiling",
@@ -331,9 +331,9 @@
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 70,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Fusses",
@@ -363,17 +363,17 @@
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 70,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Screwdriver",
@@ -410,8 +410,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-07-31T12:05:02.5793503+00:00",
+  "LastChanged_Achievements": "2023-07-31T13:16:27.2000744+00:00",
   "LastUpdate_AppInfo": "2023-07-25T16:57:15.3733483+00:00",
-  "LastUpdate_Ratings": "2023-07-31T11:57:28.3810724+00:00",
-  "LastUpdate_Achievements": "2023-07-31T12:05:02.5793633+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:09:13.4131388+00:00",
+  "LastUpdate_Achievements": "2023-07-31T13:16:27.2000875+00:00"
 }

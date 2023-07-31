@@ -6,9 +6,9 @@
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 175,
-  "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_Completed": 95,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
     "PcReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -84,11 +84,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1609,
+  "EOS_Progressed": 1610,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.62,
+  "EOS_Completed_Percentage": 1.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:11.8533699+00:00",
@@ -454,6 +454,11 @@
       "Time": "2023-07-26T05:04:35.2827811+00:00",
       "NumProgressed": 1609,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-31T13:17:06.9545339+00:00",
+      "NumProgressed": 1610,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 11,
@@ -513,7 +518,7 @@
       "Name": "\u201COccupied!\u201C",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "SomervilleUnderstanding",
@@ -552,7 +557,7 @@
     {
       "ID": "3mk3nll",
       "IsBase": true,
-      "Progressed": 1609,
+      "Progressed": 1610,
       "Completed": 26
     }
   ],
@@ -560,8 +565,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-07-31T12:05:59.0018334+00:00",
+  "LastChanged_Achievements": "2023-07-31T13:17:06.9545332+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:42.8204901+00:00",
-  "LastUpdate_Ratings": "2023-07-31T11:59:00.386435+00:00",
-  "LastUpdate_Achievements": "2023-07-31T12:05:59.0018477+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:10:22.0088303+00:00",
+  "LastUpdate_Achievements": "2023-07-31T13:17:06.9545476+00:00"
 }

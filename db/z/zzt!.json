@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2989,
-  "EOS_Completed": 108,
+  "EOS_Progressed": 2990,
+  "EOS_Completed": 109,
   "EOS_NewPlayers": 33,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 3.61,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 3.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -3591,6 +3591,11 @@
       "Time": "2023-07-31T02:01:11.612919+00:00",
       "NumProgressed": 2989,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-07-31T13:14:10.7928362+00:00",
+      "NumProgressed": 2990,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 5,
@@ -3602,7 +3607,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2989
+      "UsersEstimate": 2990
     },
     {
       "ID": "2",
@@ -3641,16 +3646,16 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2989,
-      "Completed": 108
+      "Progressed": 2990,
+      "Completed": 109
     }
   ],
   "FirstSeen": "2023-03-31T21:57:04.3858731+00:00",
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-07-31T12:03:02.0109132+00:00",
+  "LastChanged_Achievements": "2023-07-31T13:14:10.7928356+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.3360651+00:00",
-  "LastUpdate_Ratings": "2023-07-31T11:59:39.7341995+00:00",
-  "LastUpdate_Achievements": "2023-07-31T12:03:02.0109517+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:10:51.4893538+00:00",
+  "LastUpdate_Achievements": "2023-07-31T13:14:10.792873+00:00"
 }

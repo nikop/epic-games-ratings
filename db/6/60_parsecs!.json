@@ -4,8 +4,8 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -773,9 +773,9 @@
       "ID": "Achievement_ForScience",
       "SetID": "c01p6e5",
       "Name": "For Science!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 238
     },
     {
       "ID": "Achievement_Friendzone",
@@ -998,8 +998,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-07-31T12:07:37.6946495+00:00",
+  "LastChanged_Achievements": "2023-07-31T13:18:09.3397647+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:19.9078412+00:00",
-  "LastUpdate_Ratings": "2023-07-31T11:57:22.3055265+00:00",
-  "LastUpdate_Achievements": "2023-07-31T12:07:37.6946948+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:09:09.9753195+00:00",
+  "LastUpdate_Achievements": "2023-07-31T13:18:09.3398037+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -2095,9 +2095,9 @@
       "ID": "ACH_TOURDETIENG",
       "SetID": "7pam6gn",
       "Name": "Tour de Tieng",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 163
+      "UsersEstimate": 175
     }
   ],
   "AchievementSets": [
@@ -2112,8 +2112,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-07-31T12:08:15.8973249+00:00",
+  "LastChanged_Achievements": "2023-07-31T13:18:36.2061238+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:25.5227526+00:00",
-  "LastUpdate_Ratings": "2023-07-31T11:59:59.3414059+00:00",
-  "LastUpdate_Achievements": "2023-07-31T12:08:15.8973586+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:11:04.0804307+00:00",
+  "LastUpdate_Achievements": "2023-07-31T13:18:36.2061478+00:00"
 }

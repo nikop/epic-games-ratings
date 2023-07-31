@@ -10,7 +10,7 @@ Number of Ratings: 38  (23.09.2022)
 | Lovebirds | 50.00% | ~680 |
 | Life’s short, ride long | 45.00% | ~612 |
 | Hug therapy | 44.00% | ~599 |
-| Over my dead body | 40.00% | ~544 |
+| Over my dead body | 41.00% | ~558 |
 | Shake the rust off their feet | 21.00% | ~286 |
 | My little pony | 20.00% | ~272 |
 | Strike! | 19.00% | ~259 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 49,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -694,9 +694,9 @@
       "ID": "questDetective",
       "SetID": "ci65fo0",
       "Name": "True Detective",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "questEnemyTask",
@@ -734,9 +734,9 @@
       "ID": "questKillSwampMonster",
       "SetID": "ci65fo0",
       "Name": "Threat of the swamps",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "questNorthGraveyard",
@@ -782,9 +782,9 @@
       "ID": "questRobHut",
       "SetID": "ci65fo0",
       "Name": "Thief",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "questSWAntidot",
@@ -875,8 +875,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-31T12:05:03.7542388+00:00",
+  "LastChanged_Achievements": "2023-07-31T13:16:28.0586852+00:00",
   "LastUpdate_AppInfo": "2023-07-26T10:57:01.3631939+00:00",
-  "LastUpdate_Ratings": "2023-07-31T11:57:41.476787+00:00",
-  "LastUpdate_Achievements": "2023-07-31T12:05:03.7543244+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:09:22.3553512+00:00",
+  "LastUpdate_Achievements": "2023-07-31T13:16:28.0587682+00:00"
 }

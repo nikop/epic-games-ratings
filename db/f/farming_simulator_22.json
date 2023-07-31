@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -7335,9 +7335,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 46355,
+  "EOS_Progressed": 46356,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16260,6 +16260,11 @@
       "Time": "2023-07-31T12:05:08.2152112+00:00",
       "NumProgressed": 46355,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-31T13:16:31.1291743+00:00",
+      "NumProgressed": 46356,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -16351,7 +16356,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 29667
+      "UsersEstimate": 29668
     },
     {
       "ID": "CutTree",
@@ -16407,7 +16412,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 27813
+      "UsersEstimate": 27814
     },
     {
       "ID": "Harvested",
@@ -16423,7 +16428,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 34766
+      "UsersEstimate": 34767
     },
     {
       "ID": "HorseJumps",
@@ -16455,7 +16460,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 22250
+      "UsersEstimate": 22251
     },
     {
       "ID": "Mission",
@@ -16479,7 +16484,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 24568
+      "UsersEstimate": 24569
     },
     {
       "ID": "NumBeehives",
@@ -16503,7 +16508,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 20396
+      "UsersEstimate": 20397
     },
     {
       "ID": "NumProductionPoints",
@@ -16535,7 +16540,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12979
+      "UsersEstimate": 12980
     },
     {
       "ID": "PlayTime",
@@ -16591,7 +16596,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 12052
+      "UsersEstimate": 12053
     },
     {
       "ID": "VehicleRepair",
@@ -16614,15 +16619,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 46355,
+      "Progressed": 46356,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-07-31T11:00:40.5784695+00:00",
-  "LastChanged_Achievements": "2023-07-31T12:05:08.2152106+00:00",
+  "LastChanged_Achievements": "2023-07-31T13:16:31.1291731+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:27.4750397+00:00",
-  "LastUpdate_Ratings": "2023-07-31T12:01:28.6407753+00:00",
-  "LastUpdate_Achievements": "2023-07-31T12:05:08.2153198+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:12:05.4762248+00:00",
+  "LastUpdate_Achievements": "2023-07-31T13:16:31.1292647+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3533,
+  "EOS_Progressed": 3534,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -998,6 +998,11 @@
       "Time": "2023-07-31T03:04:03.8707931+00:00",
       "NumProgressed": 3533,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T13:15:38.8788513+00:00",
+      "NumProgressed": 3534,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1049,7 +1054,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -1057,7 +1062,7 @@
       "Name": "From Zeroes...",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -1129,7 +1134,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1216,7 +1221,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3533,
+      "Progressed": 3534,
       "Completed": 0
     }
   ],
@@ -1224,8 +1229,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-31T12:04:21.4250311+00:00",
+  "LastChanged_Achievements": "2023-07-31T13:15:38.8788506+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:07.7078521+00:00",
-  "LastUpdate_Ratings": "2023-07-31T12:01:09.2274203+00:00",
-  "LastUpdate_Achievements": "2023-07-31T12:04:21.42506+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:11:50.6052226+00:00",
+  "LastUpdate_Achievements": "2023-07-31T13:15:38.8788765+00:00"
 }

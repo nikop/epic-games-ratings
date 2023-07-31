@@ -6,7 +6,7 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 82.00% | ~891 |
+| Kickstarter Backer | 82.00% | ~892 |
 | Completed Act I | 30.00% | ~326 |
 | 5 Upgrades in Stronghold | 26.00% | ~283 |
 | First 5 Levels of Od Nua | 24.00% | ~261 |
@@ -20,7 +20,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | The Watcher With Eight Friends | 14.00% | ~152 |
 | The Heir of Caed Nua | 13.00% | ~141 |
 | Soulbinder | 13.00% | ~141 |
-| Last 5 Levels of Od Nua | 12.00% | ~130 |
+| Last 5 Levels of Od Nua | 12.00% | ~131 |
 | Bounty Hunter | 10.00% | ~109 |
 | The Giftbearer | 10.00% | ~109 |
 | Trappy | 9.00% | ~98 |
@@ -36,8 +36,8 @@ Number of Ratings: 2,847  (23.09.2022)
 | From the Clouds to the Depths | 5.00% | ~54 |
 | Explorer | 5.00% | ~54 |
 | Terror of the White March | 5.00% | ~54 |
-| Scribe | 4.00% | ~43 |
-| Appease All of the Gods | 4.00% | ~43 |
+| Scribe | 4.00% | ~44 |
+| Appease All of the Gods | 4.00% | ~44 |
 | Won the Game!!! | 3.00% | ~33 |
 | The Storied Adventurer | 3.00% | ~33 |
 | Among the Moss and Peat | 2.00% | ~22 |
@@ -55,7 +55,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,087 (Ranked 192)  
+Progressed: 1,088 (Ranked 192)  
 Completed: 4 (0.37%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,6 +73,7 @@ Completed: 4 (0.37%) (Ranked 148)
 | 2023-07-19 | 1,085 | 4 |
 | 2023-07-23 | 1,086 | 4 |
 | 2023-07-25 | 1,087 | 4 |
+| 2023-07-31 | 1,088 | 4 |
 ## Awards
 Max (Character Customization): 1,897  (Ranked 110)  
 Sum: 4,657 (Ranked 134)  

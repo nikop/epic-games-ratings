@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1344,
+  "EOS_Progressed": 1345,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1256,6 +1256,11 @@
       "Time": "2023-07-30T17:06:13.394387+00:00",
       "NumProgressed": 1344,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-31T13:17:29.5681779+00:00",
+      "NumProgressed": 1345,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1427,7 +1432,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1714,15 +1719,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1344,
+      "Progressed": 1345,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-31T12:06:30.6577933+00:00",
+  "LastChanged_Achievements": "2023-07-31T13:17:29.5681766+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:31.6406597+00:00",
-  "LastUpdate_Ratings": "2023-07-31T11:57:09.3959357+00:00",
-  "LastUpdate_Achievements": "2023-07-31T12:06:30.6578586+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:09:01.7953896+00:00",
+  "LastUpdate_Achievements": "2023-07-31T13:17:29.5682345+00:00"
 }

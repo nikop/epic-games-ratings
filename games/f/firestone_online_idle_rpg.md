@@ -77,12 +77,12 @@ Rating: 4.10 (Ranked 897)
 | Ultimate War Machines | 0.40% | ~7 |
 | Conqueror | 0.30% | ~5 |
 | Angel Power | 0.20% | ~3 |
+| Jewel Enchanting | 0.20% | ~3 |
 | Silverwood liberator | 0.20% | ~3 |
 | War Machines Army | 0.20% | ~3 |
-| Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,746 (Ranked 172)  
-Completed: 1 (0.06%) (Ranked 205)  
+Completed: 2 (0.11%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -183,7 +183,7 @@ Completed: 1 (0.06%) (Ranked 205)
 | 2023-07-28 | 1,731 | 1 |
 | 2023-07-29 | 1,736 | 1 |
 | 2023-07-30 | 1,741 | 1 |
-| 2023-07-31 | 1,746 | 1 |
+| 2023-07-31 | 1,746 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

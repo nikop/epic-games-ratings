@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Topolah's Tower | 0.70% | ~1,285 |
 | Pros and CONs | 0.60% | ~1,304 |
 | Wet Feet | 0.60% | ~1,304 |
+| Hatchlings Underfoot | 0.60% | ~1,304 |
 | Return to the Tomb | 0.60% | ~1,102 |
 | Heatwave | 0.60% | ~1,102 |
 | Were-verpowered | 0.60% | ~1,304 |
@@ -29,7 +30,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.60% | ~1,304 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,102 |
 | The Witchlight Carnival | 0.50% | ~918 |
-| Hatchlings Underfoot | 0.50% | ~1,087 |
 | Don't Look Up! | 0.50% | ~1,087 |
 | Heavy Burden | 0.50% | ~1,087 |
 | The Evacuation of Waterdeep | 0.50% | ~918 |
@@ -93,6 +93,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wyrmheart Mine | 0.30% | ~652 |
 | Tower on the Lake | 0.30% | ~652 |
 | Trollskull Manor | 0.30% | ~652 |
+| Attack on the Manor | 0.30% | ~652 |
 | The Crumbling Temple | 0.30% | ~652 |
 | The Death Curse | 0.30% | ~652 |
 | Are Ya Chicken? | 0.30% | ~652 |
@@ -105,6 +106,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.30% | ~652 |
 | Escort to Waterdeep | 0.30% | ~652 |
 | The Giant's Bane Tavern | 0.30% | ~551 |
+| Constant Banditry | 0.30% | ~652 |
 | Waterdeep Detours | 0.30% | ~652 |
 | Lost in the Deep | 0.30% | ~652 |
 | Easily Distracted | 0.30% | ~652 |
@@ -150,6 +152,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lobsterfolk Assault | 0.20% | ~435 |
 | Periodic Petrification | 0.20% | ~435 |
 | Home Field Advantage | 0.20% | ~435 |
+| Double Vision | 0.20% | ~435 |
 | Vajra's Guards | 0.20% | ~435 |
 | The Newcomers of Notoriety | 0.20% | ~367 |
 | Azaka's Procession - Part 1 | 0.20% | ~435 |
@@ -164,7 +167,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | This Quest Stinks! | 0.20% | ~367 |
 | Seeds of Deceit | 0.20% | ~435 |
 | The Gargoyle's Apprentice | 0.20% | ~435 |
-| Attack on the Manor | 0.20% | ~435 |
 | Treasure Hunters | 0.20% | ~435 |
 | The Guardian of Orolunga | 0.20% | ~435 |
 | Flies on the Wall | 0.20% | ~435 |
@@ -198,7 +200,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Questlines | 0.20% | ~367 |
 | The Everlasting Rime | 0.20% | ~367 |
 | Close Escort | 0.20% | ~435 |
-| Constant Banditry | 0.20% | ~435 |
 | The Long Haul | 0.20% | ~435 |
 | Rude Welcome | 0.20% | ~435 |
 | Moose Tracks | 0.20% | ~367 |
@@ -277,7 +278,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Band | 0.10% | ~184 |
 | No Good at All | 0.10% | ~217 |
 | Fall From Grace | 0.10% | ~217 |
-| Double Vision | 0.10% | ~217 |
 | Underground Railroad | 0.10% | ~217 |
 | Never Split the Party | 0.10% | ~217 |
 | Snakes on our Plane | 0.10% | ~184 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,356 (Ranked 53)  
-Completed: 2,138 (0.98%) (Ranked 112)  
+Progressed: 217,367 (Ranked 53)  
+Completed: 2,139 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -621,7 +621,7 @@ Completed: 2,138 (0.98%) (Ranked 112)
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
-| 2023-07-31 | 217,356 | 2,138 |
+| 2023-07-31 | 217,367 | 2,139 |
 ## Awards
 Max (Diverse Characters): 5,106  (Ranked 67)  
 Sum: 30,821 (Ranked 38)  

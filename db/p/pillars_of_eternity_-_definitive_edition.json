@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
     "PcReleaseDate": "2015-03-26T16:00:00+00:00",
@@ -2760,9 +2760,9 @@
       "Count": 185
     }
   ],
-  "EOS_Progressed": 1087,
+  "EOS_Progressed": 1088,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2835,6 +2835,11 @@
       "Time": "2023-07-25T03:07:15.8319039+00:00",
       "NumProgressed": 1087,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-31T13:15:26.5019971+00:00",
+      "NumProgressed": 1088,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 48,
@@ -2894,7 +2899,7 @@
       "Name": "Scribe",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_08",
@@ -2958,7 +2963,7 @@
       "Name": "Appease All of the Gods",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_16",
@@ -3078,7 +3083,7 @@
       "Name": "Last 5 Levels of Od Nua",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "achievement_31",
@@ -3126,7 +3131,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "achievement_37",
@@ -3229,15 +3234,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1087,
+      "Progressed": 1088,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-07-26T09:57:52.0776111+00:00",
-  "LastChanged_Achievements": "2023-07-31T12:04:03.8293327+00:00",
+  "LastChanged_Achievements": "2023-07-31T13:15:26.5019965+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:31.6876936+00:00",
-  "LastUpdate_Ratings": "2023-07-31T11:58:45.7293365+00:00",
-  "LastUpdate_Achievements": "2023-07-31T12:04:03.8293814+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:10:09.4905319+00:00",
+  "LastUpdate_Achievements": "2023-07-31T13:15:26.5020351+00:00"
 }

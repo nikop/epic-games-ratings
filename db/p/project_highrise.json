@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 296,
+  "EOS_Progressed": 297,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -687,6 +687,11 @@
       "Time": "2023-07-31T10:00:59.0337735+00:00",
       "NumProgressed": 296,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T13:12:55.6318808+00:00",
+      "NumProgressed": 297,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -730,7 +735,7 @@
       "Name": "Floor Galore",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ach_area_1",
@@ -738,7 +743,7 @@
       "Name": "Under One Roof",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_art",
@@ -784,9 +789,9 @@
       "ID": "ach_buzz",
       "SetID": "b8gh1fi",
       "Name": "Campaign Launch",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 116
     },
     {
       "ID": "ach_campaigns_1",
@@ -866,7 +871,7 @@
       "Name": "Smooth Operator",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_contracts_1",
@@ -1034,15 +1039,15 @@
       "Name": "Grime is Not Good",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ach_grime_1",
       "SetID": "b8gh1fi",
       "Name": "Delegate Maintenance",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 101
     },
     {
       "ID": "ach_grime_2",
@@ -1144,9 +1149,9 @@
       "ID": "ach_prestige_2",
       "SetID": "b8gh1fi",
       "Name": "Established Fame",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_prestige_3",
@@ -1218,7 +1223,7 @@
       "Name": "Dinner Dash",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ach_restaurants_4",
@@ -1232,9 +1237,9 @@
       "ID": "ach_restaurants_5",
       "SetID": "b8gh1fi",
       "Name": "Starred Dining",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_retail_1",
@@ -1266,15 +1271,15 @@
       "Name": "Boutique Benefits",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_revs_1",
       "SetID": "b8gh1fi",
       "Name": "Cashflow Chief",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_revs_2",
@@ -1330,15 +1335,15 @@
       "Name": "Terrifically Trashed",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_tutorial",
       "SetID": "b8gh1fi",
       "Name": "We Don\u0027t Need No Education",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_util_cable",
@@ -1386,7 +1391,7 @@
       "Name": "Thrilled Tenants",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_visitors_1",
@@ -1401,7 +1406,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 296,
+      "Progressed": 297,
       "Completed": 0
     }
   ],
@@ -1409,8 +1414,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-31T12:02:40.0429155+00:00",
+  "LastChanged_Achievements": "2023-07-31T13:12:55.6318798+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:50.6819272+00:00",
-  "LastUpdate_Ratings": "2023-07-31T11:59:11.9350515+00:00",
-  "LastUpdate_Achievements": "2023-07-31T12:02:40.0430388+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:10:30.3207015+00:00",
+  "LastUpdate_Achievements": "2023-07-31T13:12:55.631985+00:00"
 }

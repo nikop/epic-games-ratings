@@ -2,13 +2,13 @@
   "ID": "68214aaaa6f94c81a18c99fc2dc208cf",
   "Name": "The Last Campfire",
   "ProductSlug": "the-last-campfire",
-  "Ranking_Rating": 57,
+  "Ranking_Rating": 49,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-08-27T12:00:00+00:00",
     "PcReleaseDate": "2020-08-27T12:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.83,
+  "Rating": 4.84,
   "NumberOfRatings": 42,
   "RatingHistory": [
     {
@@ -155,6 +155,12 @@
       "Rating": 4.83,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-31T13:10:55.0658013+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -172,8 +178,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:43.218901+00:00",
-  "LastChanged": "2023-03-31T05:57:28.5520249+00:00",
+  "LastChanged": "2023-07-31T13:10:55.0658011+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:17.4671667+00:00",
-  "LastUpdate_Ratings": "2023-07-31T11:59:45.312519+00:00",
-  "LastUpdate_Achievements": "2023-07-31T12:03:22.3810882+00:00"
+  "LastUpdate_Ratings": "2023-07-31T13:10:55.0658017+00:00",
+  "LastUpdate_Achievements": "2023-07-31T13:15:04.8918766+00:00"
 }
