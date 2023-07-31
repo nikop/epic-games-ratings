@@ -21,7 +21,7 @@
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 276 | 240 |
 | 18 | [God of War](games/g/god_of_war.md) | 4.88 | 4,178 | 77 |
 | 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 163,464 | 6 |
-| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,854 | 35 |
+| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,871 | 35 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 489 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,417 | 123 |
 | 24 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 714 | 162 |
@@ -317,7 +317,7 @@
 | 296 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 21 | 497 |
 | 316 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.64 | 0 | 509 |
 | 316 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 509 |
-| 316 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,960 | 56 |
+| 316 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,961 | 56 |
 | 316 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 114 | 323 |
 | 316 | [Death's Door](games/d/death's_door.md) | 4.64 | 0 | 509 |
 | 316 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.64 | 0 | 509 |
@@ -386,7 +386,7 @@
 | 366 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,609 | 37 |
 | 366 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,069 | 137 |
 | 366 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 275 | 241 |
-| 366 | [Supraland](games/s/supraland.md) | 4.61 | 7,656 | 44 |
+| 366 | [Supraland](games/s/supraland.md) | 4.61 | 7,659 | 44 |
 | 366 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 509 |
 | 366 | [Warframe](games/w/warframe.md) | 4.61 | 16,238 | 22 |
 | 390 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.60 | 0 | 509 |
@@ -657,24 +657,24 @@
 | 655 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 207 | 267 |
 | 655 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 34 | 440 |
 | 655 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,177 | 135 |
+| 655 | [Predecessor](games/p/predecessor.md) | 4.43 | 141 | 300 |
 | 655 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 509 |
 | 655 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 509 |
 | 655 | [Tunche](games/t/tunche.md) | 4.43 | 21 | 497 |
 | 655 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 280 | 238 |
 | 655 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 0 | 509 |
-| 663 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 65 | 384 |
-| 663 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 34 | 440 |
-| 663 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.42 | 0 | 509 |
-| 663 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,528 | 30 |
-| 663 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 509 |
-| 663 | [Predecessor](games/p/predecessor.md) | 4.42 | 141 | 300 |
-| 663 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 509 |
-| 663 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 50 |
-| 663 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 67 | 380 |
-| 663 | [Sheltered](games/s/sheltered.md) | 4.42 | 269 | 244 |
-| 663 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.42 | 0 | 509 |
-| 663 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 0 | 509 |
-| 663 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 149 | 294 |
+| 664 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 65 | 384 |
+| 664 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 34 | 440 |
+| 664 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.42 | 0 | 509 |
+| 664 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,528 | 30 |
+| 664 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 509 |
+| 664 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 509 |
+| 664 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 50 |
+| 664 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 67 | 380 |
+| 664 | [Sheltered](games/s/sheltered.md) | 4.42 | 269 | 244 |
+| 664 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.42 | 0 | 509 |
+| 664 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 0 | 509 |
+| 664 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 149 | 294 |
 | 676 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 509 |
 | 676 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 0 | 509 |
 | 676 | [Breathedge](games/b/breathedge.md) | 4.41 | 0 | 509 |
