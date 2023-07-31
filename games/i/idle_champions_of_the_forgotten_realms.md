@@ -93,6 +93,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Grand Puzzle | 0.30% | ~652 |
 | Tomb of the Nine Gods | 0.30% | ~652 |
 | Chatty Nobles | 0.30% | ~652 |
+| Haaave You Met Asmodeus? | 0.30% | ~652 |
 | The Immortal Warrior | 0.30% | ~652 |
 | The Wyrmheart Mine | 0.30% | ~652 |
 | Tower on the Lake | 0.30% | ~652 |
@@ -164,7 +165,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | We're not in Faerûn Anymore | 0.20% | ~435 |
 | Modron Assistance | 0.20% | ~435 |
 | Thine Bounty is Mine! | 0.20% | ~368 |
-| Haaave You Met Asmodeus? | 0.20% | ~435 |
 | Domesticated Owlbears | 0.20% | ~435 |
 | This Quest Stinks! | 0.20% | ~368 |
 | Seeds of Deceit | 0.20% | ~435 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,487 (Ranked 53)  
-Completed: 2,139 (0.98%) (Ranked 112)  
+Progressed: 217,498 (Ranked 53)  
+Completed: 2,140 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -621,10 +621,10 @@ Completed: 2,139 (0.98%) (Ranked 112)
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
-| 2023-07-31 | 217,487 | 2,139 |
+| 2023-07-31 | 217,498 | 2,140 |
 ## Awards
 Max (Diverse Characters): 5,106  (Ranked 67)  
-Sum: 30,829 (Ranked 38)  
+Sum: 30,831 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -634,7 +634,7 @@ Diff (max vs sum): 29
 | This game is Relaxing | 4,586 |
 | This game has Amazing Characters | 4,044 |
 | This game is Highly Recommended | 4,027 |
-| This game has Playful Visuals | 3,330 |
+| This game has Playful Visuals | 3,332 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -824,4 +824,4 @@ Diff (max vs sum): 29
 | 2023-07-28 | 4.05 | - | 5,093 | 30,775 |
 | 2023-07-29 | 4.05 | - | 5,100 | 30,800 |
 | 2023-07-30 | 4.05 | - | 5,100 | 30,813 |
-| 2023-07-31 | 4.05 | - | 5,106 | 30,829 |
+| 2023-07-31 | 4.05 | - | 5,106 | 30,831 |

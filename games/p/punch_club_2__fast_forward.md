@@ -11,12 +11,12 @@
 | Your first job | 82.00% | ~162 |
 | First defeat | 78.00% | ~154 |
 | Old movies enjoyer | 78.00% | ~154 |
-| Fitness professional | 75.00% | ~148 |
+| Fitness professional | 76.00% | ~150 |
 | Depressed visitor | 75.00% | ~148 |
+| Neurotrainer – power gainer! | 74.00% | ~147 |
 | Employee of the week | 74.00% | ~147 |
 | Your own amateur gym | 73.00% | ~145 |
-| Neurotrainer – power gainer! | 73.00% | ~145 |
-| Run K, run! | 69.00% | ~137 |
+| Run K, run! | 70.00% | ~139 |
 | Hello, world! | 67.00% | ~133 |
 | No bullying more | 66.00% | ~131 |
 | Fighting is cool | 65.00% | ~129 |
@@ -26,35 +26,35 @@
 | Law student | 58.00% | ~115 |
 | Intriguing candies | 57.00% | ~113 |
 | Workout professional | 56.00% | ~111 |
+| Little hacker | 56.00% | ~111 |
 | Champion – starter pack | 55.00% | ~109 |
 | Own four walls | 55.00% | ~109 |
-| Little hacker | 54.00% | ~107 |
+| Handyman | 54.00% | ~107 |
 | It's good to be alive | 54.00% | ~107 |
-| Handyman | 53.00% | ~105 |
 | Employee of the year | 53.00% | ~105 |
 | Fight for life | 52.00% | ~103 |
 | Legal courier | 51.00% | ~101 |
 | Extreme neuropower! | 48.00% | ~95 |
-| Escaped from a big trouble | 47.00% | ~93 |
+| Escaped from a big trouble | 48.00% | ~95 |
 | Now you are worthy | 46.00% | ~91 |
+| No blades in the gym | 45.00% | ~89 |
 | Your own way | 45.00% | ~89 |
-| No blades in the gym | 44.00% | ~87 |
-| Guiding on the right path | 42.00% | ~83 |
-| Fight is life | 40.00% | ~79 |
-| Mysterious voice | 40.00% | ~79 |
-| Get out of my apartment! | 36.00% | ~71 |
+| Guiding on the right path | 43.00% | ~85 |
+| Fight is life | 41.00% | ~81 |
+| Mysterious voice | 41.00% | ~81 |
+| Get out of my apartment! | 37.00% | ~73 |
 | Underground dwellers | 35.00% | ~69 |
 | Responsible approach | 35.00% | ~69 |
 | GYM professional | 34.00% | ~67 |
+| Champion – no way back | 34.00% | ~67 |
 | Deal with life | 33.00% | ~65 |
-| Champion – no way back | 33.00% | ~65 |
 | Poisoned fighter | 32.00% | ~63 |
 | Seashell hunter | 32.00% | ~63 |
 | Mom got better | 31.00% | ~61 |
 | The die is cast | 31.00% | ~61 |
+| The last bell ring | 30.00% | ~59 |
 | Undercover robot | 30.00% | ~59 |
 | Gang wrangler | 29.00% | ~57 |
-| The last bell ring | 29.00% | ~57 |
 | Problems of cyborgs | 28.00% | ~55 |
 | Not little hacker | 28.00% | ~55 |
 | Absolute Champion! | 28.00% | ~55 |

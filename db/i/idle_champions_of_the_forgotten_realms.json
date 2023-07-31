@@ -5378,10 +5378,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30829,
       "NumberOfAwardsMax": 5106
+    },
+    {
+      "Time": "2023-07-31T21:58:54.745486+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30831,
+      "NumberOfAwardsMax": 5106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30829,
+  "NumberOfAwards": 30831,
   "NumberOfAwardsMax": 5106,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5425,13 +5431,13 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3330
+      "Count": 3332
     }
   ],
-  "EOS_Progressed": 217487,
-  "EOS_Completed": 2139,
-  "EOS_NewPlayers": 2288,
-  "EOS_NewCompleters": 75,
+  "EOS_Progressed": 217498,
+  "EOS_Completed": 2140,
+  "EOS_NewPlayers": 2287,
+  "EOS_NewCompleters": 73,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16438,6 +16444,11 @@
       "Time": "2023-07-31T21:03:44.3577014+00:00",
       "NumProgressed": 217487,
       "NumCompleted": 2139
+    },
+    {
+      "Time": "2023-07-31T22:04:23.1264482+00:00",
+      "NumProgressed": 217498,
+      "NumCompleted": 2140
     }
   ],
   "TotalAchievements": 512,
@@ -17903,9 +17914,9 @@
       "ID": "objective_completed_236",
       "SetID": "cc37lbc",
       "Name": "Haaave You Met Asmodeus?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 652
     },
     {
       "ID": "objective_completed_237",
@@ -20544,21 +20555,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183761,
-      "Completed": 3040
+      "Progressed": 183772,
+      "Completed": 3041
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217487,
-      "Completed": 2139
+      "Progressed": 217498,
+      "Completed": 2140
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-31T19:58:59.8809629+00:00",
-  "LastChanged_Achievements": "2023-07-31T21:03:44.357701+00:00",
+  "LastChanged": "2023-07-31T21:58:54.7454858+00:00",
+  "LastChanged_Achievements": "2023-07-31T22:04:23.1264475+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-31T20:58:23.5867038+00:00",
-  "LastUpdate_Achievements": "2023-07-31T21:03:44.3601571+00:00"
+  "LastUpdate_Ratings": "2023-07-31T21:58:54.7454866+00:00",
+  "LastUpdate_Achievements": "2023-07-31T22:04:23.1294047+00:00"
 }

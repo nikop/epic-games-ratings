@@ -2,7 +2,7 @@
   "ID": "0712176b5e3e49bfa8866c0ee1359f2d",
   "Name": "KINGDOM HEARTS III \u002B Re Mind (DLC)",
   "ProductSlug": "kingdom-hearts-iii",
-  "Ranking_Rating": 89,
+  "Ranking_Rating": 99,
   "Ranking_Popularity": 161,
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 520,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "TW"
     }
   },
-  "Rating": 4.79,
+  "Rating": 4.78,
   "NumberOfRatings": 2011,
   "RatingHistory": [
     {
@@ -1925,6 +1925,12 @@
       "Rating": 4.79,
       "NumberOfAwards": 1448,
       "NumberOfAwardsMax": 740
+    },
+    {
+      "Time": "2023-07-31T22:01:02.9351265+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1448,
+      "NumberOfAwardsMax": 740
     }
   ],
   "ReviewsDisabled": false,
@@ -2016,8 +2022,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:33.6381012+00:00",
-  "LastChanged": "2023-07-31T03:01:36.6153986+00:00",
+  "LastChanged": "2023-07-31T22:01:02.9351264+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:05.2590651+00:00",
-  "LastUpdate_Ratings": "2023-07-31T21:00:10.8574706+00:00",
-  "LastUpdate_Achievements": "2023-07-31T21:05:30.7003527+00:00"
+  "LastUpdate_Ratings": "2023-07-31T22:01:02.9351269+00:00",
+  "LastUpdate_Achievements": "2023-07-31T22:06:24.8332564+00:00"
 }

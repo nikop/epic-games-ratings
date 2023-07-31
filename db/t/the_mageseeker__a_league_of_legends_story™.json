@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2480,
+  "EOS_Progressed": 2481,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3214,6 +3214,11 @@
       "Time": "2023-07-31T03:03:22.5381684+00:00",
       "NumProgressed": 2480,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-31T22:03:34.2026798+00:00",
+      "NumProgressed": 2481,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -3265,7 +3270,7 @@
       "Name": "Hijack",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -3273,7 +3278,7 @@
       "Name": "Elemental master",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -3289,7 +3294,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2381
+      "UsersEstimate": 2382
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3305,7 +3310,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3409,7 +3414,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3465,7 +3470,7 @@
       "Name": "Devineur",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -3561,7 +3566,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -3601,7 +3606,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1835
+      "UsersEstimate": 1836
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3648,7 +3653,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2480,
+      "Progressed": 2481,
       "Completed": 5
     }
   ],
@@ -3656,8 +3661,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-07-31T21:02:31.8374002+00:00",
+  "LastChanged_Achievements": "2023-07-31T22:03:34.2026791+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:29.275218+00:00",
-  "LastUpdate_Ratings": "2023-07-31T20:57:53.092665+00:00",
-  "LastUpdate_Achievements": "2023-07-31T21:02:31.8374724+00:00"
+  "LastUpdate_Ratings": "2023-07-31T21:58:20.4514833+00:00",
+  "LastUpdate_Achievements": "2023-07-31T22:03:34.2027458+00:00"
 }

@@ -5644,10 +5644,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 40270,
       "NumberOfAwardsMax": 21442
+    },
+    {
+      "Time": "2023-07-31T21:58:10.1847797+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40273,
+      "NumberOfAwardsMax": 21442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40270,
+  "NumberOfAwards": 40273,
   "NumberOfAwardsMax": 21442,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5697,7 +5703,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 919
+      "Count": 922
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5724,9 +5730,9 @@
       "Count": 570
     }
   ],
-  "EOS_Progressed": 289058,
+  "EOS_Progressed": 289060,
   "EOS_Completed": 437,
-  "EOS_NewPlayers": 576,
+  "EOS_NewPlayers": 574,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16744,6 +16750,11 @@
       "Time": "2023-07-31T21:04:31.0641259+00:00",
       "NumProgressed": 289058,
       "NumCompleted": 437
+    },
+    {
+      "Time": "2023-07-31T22:05:17.1214041+00:00",
+      "NumProgressed": 289060,
+      "NumCompleted": 437
     }
   ],
   "TotalAchievements": 45,
@@ -16819,7 +16830,7 @@
       "Name": "Beast Friends",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17343
+      "UsersEstimate": 17344
     },
     {
       "ID": "PFA_18",
@@ -17083,7 +17094,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31796
+      "UsersEstimate": 31797
     },
     {
       "ID": "PFA_7",
@@ -17091,7 +17102,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31796
+      "UsersEstimate": 31797
     },
     {
       "ID": "PFA_8",
@@ -17114,16 +17125,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289058,
+      "Progressed": 289060,
       "Completed": 437
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-31T17:58:24.9560604+00:00",
-  "LastChanged_Achievements": "2023-07-31T21:04:31.0641255+00:00",
+  "LastChanged": "2023-07-31T21:58:10.1847795+00:00",
+  "LastChanged_Achievements": "2023-07-31T22:05:17.1214032+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-07-31T20:57:44.6013703+00:00",
-  "LastUpdate_Achievements": "2023-07-31T21:04:31.0642097+00:00"
+  "LastUpdate_Ratings": "2023-07-31T21:58:10.1847803+00:00",
+  "LastUpdate_Achievements": "2023-07-31T22:05:17.1215102+00:00"
 }

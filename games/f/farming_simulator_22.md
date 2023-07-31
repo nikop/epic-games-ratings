@@ -6,21 +6,21 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~34,803 |
-| I read Shakespeare and stuff | 64.00% | ~29,699 |
-| Just a sprinkle | 63.00% | ~29,235 |
-| I'm stumped | 61.00% | ~28,306 |
-| Plant get enough | 60.00% | ~27,842 |
-| This is just my weekend vehicle | 58.00% | ~26,914 |
-| It's just the beginning | 58.00% | ~26,914 |
-| Hard work pays off | 53.00% | ~24,594 |
-| It's never too late to farm | 48.00% | ~22,274 |
-| All out of Land | 44.00% | ~20,418 |
-| Field Trip | 43.00% | ~19,954 |
-| I like to switch it up | 40.00% | ~18,562 |
-| Help me to help you | 38.00% | ~17,634 |
-| Ultimutt Pawesomeness | 28.00% | ~12,993 |
-| Van Gogh | 26.00% | ~12,065 |
+| Own use | 75.00% | ~34,805 |
+| I read Shakespeare and stuff | 64.00% | ~29,700 |
+| Just a sprinkle | 63.00% | ~29,236 |
+| I'm stumped | 61.00% | ~28,308 |
+| Plant get enough | 60.00% | ~27,844 |
+| This is just my weekend vehicle | 58.00% | ~26,916 |
+| It's just the beginning | 58.00% | ~26,916 |
+| Hard work pays off | 53.00% | ~24,596 |
+| It's never too late to farm | 48.00% | ~22,275 |
+| All out of Land | 44.00% | ~20,419 |
+| Field Trip | 43.00% | ~19,955 |
+| I like to switch it up | 40.00% | ~18,563 |
+| Help me to help you | 38.00% | ~17,635 |
+| Ultimutt Pawesomeness | 28.00% | ~12,994 |
+| Van Gogh | 26.00% | ~12,066 |
 | You wood not believe it | 21.00% | ~9,745 |
 | Vehicle fleet | 21.00% | ~9,745 |
 | The plot thickens | 16.00% | ~7,425 |
@@ -30,10 +30,10 @@ Number of Ratings: 7,683  (23.09.2022)
 | Large-scale supplier | 15.00% | ~6,961 |
 | That's a wrap | 14.00% | ~6,497 |
 | Fix me up | 13.00% | ~6,033 |
-| Rock on | 12.00% | ~5,568 |
-| It's sow easy | 11.00% | ~5,104 |
-| Highly cultivated | 10.00% | ~4,640 |
-| Giddy-up! | 10.00% | ~4,640 |
+| Rock on | 12.00% | ~5,569 |
+| It's sow easy | 11.00% | ~5,105 |
+| Highly cultivated | 10.00% | ~4,641 |
+| Giddy-up! | 10.00% | ~4,641 |
 | Cowherd | 7.00% | ~3,248 |
 | Fluffyness | 6.00% | ~2,784 |
 | Helper A does not stop … ever | 6.00% | ~2,784 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~186 |
 | Raisin the stakes | 0.30% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,404 (Ranked 90)  
+Progressed: 46,407 (Ranked 90)  
 Completed: 5 (0.01%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 5 (0.01%) (Ranked 233)
 | 2023-07-28 | 46,220 | 5 |
 | 2023-07-29 | 46,278 | 5 |
 | 2023-07-30 | 46,342 | 5 |
-| 2023-07-31 | 46,404 | 5 |
+| 2023-07-31 | 46,407 | 5 |
 ## Awards
 Max (Great for Beginners): 4,634  (Ranked 71)  
 Sum: 38,646 (Ranked 31)  

@@ -35,16 +35,16 @@ Rating: 4.87 (Ranked 24)
 | Beat-hit mania | 1.00% | ~37 |
 | That's a lot of junk metal… | 1.00% | ~37 |
 | There's such a thing as TOO helpful | 1.00% | ~37 |
-| Chip-tuned | 0.80% | ~29 |
+| Chip-tuned | 0.90% | ~33 |
 | Wanna hear my playlist? | 0.80% | ~29 |
 | Check out my moves! | 0.80% | ~29 |
 | Call me Turbo Chai | 0.80% | ~17 |
 | I told you I'd be fine, Peppermint! | 0.70% | ~26 |
 | I think I found your calling, Macaron | 0.60% | ~22 |
 | I think I deserve some praise, here! | 0.50% | ~18 |
+| This is a breeze! | 0.50% | ~18 |
 | I hit things with a guitar really well. | 0.50% | ~18 |
 | New bad guys? No problem! | 0.50% | ~11 |
-| This is a breeze! | 0.40% | ~15 |
 | We're Jammin' | 0.40% | ~15 |
 | First we parry, then we counter | 0.40% | ~15 |
 | Choose your own adventure | 0.40% | ~9 |
