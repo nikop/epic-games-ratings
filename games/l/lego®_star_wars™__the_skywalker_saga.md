@@ -24,7 +24,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | The Last Jedi | 23.00% | ~11,499 |
 | The Rise of Skywalker | 20.00% | ~9,999 |
 | ''It's true... all of it'' | 19.00% | ~9,499 |
-| ''Get the crews to their fighters'' | 18.00% | ~8,999 |
+| ''Get the crews to their fighters'' | 19.00% | ~9,499 |
 | ''Raw, untamed power'' | 8.00% | ~4,000 |
 | Rishi Maze | 5.00% | ~2,500 |
 | ''Only one business in the Galaxy...'' | 5.00% | ~2,500 |

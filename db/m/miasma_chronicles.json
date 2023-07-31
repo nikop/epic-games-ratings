@@ -2806,9 +2806,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 610
+      "UsersEstimate": 623
     },
     {
       "ID": "EXPERIENCED",
@@ -3063,8 +3063,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-25T07:58:49.2178401+00:00",
-  "LastChanged_Achievements": "2023-07-31T16:05:08.4882854+00:00",
+  "LastChanged_Achievements": "2023-07-31T17:05:16.4402201+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:07.4600739+00:00",
-  "LastUpdate_Ratings": "2023-07-31T15:59:22.5092096+00:00",
-  "LastUpdate_Achievements": "2023-07-31T16:05:08.4883897+00:00"
+  "LastUpdate_Ratings": "2023-07-31T16:59:22.5326007+00:00",
+  "LastUpdate_Achievements": "2023-07-31T17:05:16.4402818+00:00"
 }

@@ -11,6 +11,7 @@
 | Escape From M.C. | 20.00% | ~4 |
 | Restore Honor | 20.00% | ~4 |
 | Lieutenant | 5.00% | ~1 |
+| Dust to Dust | 5.00% | ~1 |
 | Overkill | 5.00% | ~1 |
 | Bring Down the Corp | 5.00% | ~1 |
 | Gibbing Love | 0.00% | ~0 |
@@ -21,7 +22,6 @@
 | Losing your Head | 0.00% | ~0 |
 | Captain | 0.00% | ~0 |
 | Chief | 0.00% | ~0 |
-| Dust to Dust | 0.00% | ~0 |
 | Feel the Spark | 0.00% | ~0 |
 | Flawless Victory | 0.00% | ~0 |
 | The Hunt | 0.00% | ~0 |

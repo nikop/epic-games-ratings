@@ -6,35 +6,35 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,522 |
-| Beast Intentions | 3.00% | ~6,522 |
+| A Brief Tour of the Realms | 3.00% | ~6,523 |
+| Beast Intentions | 3.00% | ~6,523 |
 | Maddening | 2.00% | ~4,348 |
 | The Silken Swamp | 1.00% | ~2,174 |
 | Supply Run | 1.00% | ~2,174 |
 | Rocky Reception | 1.00% | ~1,837 |
 | Vecna Lives! | 0.90% | ~1,653 |
 | Rock and Roll | 0.90% | ~1,653 |
-| Flight of the Kindori Pod | 0.80% | ~1,469 |
+| Flight of the Kindori Pod | 0.80% | ~1,470 |
 | Tall Tales | 0.70% | ~1,286 |
 | Seeds of Destruction | 0.70% | ~1,286 |
 | Vecna Loots! | 0.70% | ~1,286 |
 | Topolah's Tower | 0.70% | ~1,286 |
-| Pros and CONs | 0.60% | ~1,304 |
-| Wet Feet | 0.60% | ~1,304 |
-| Hatchlings Underfoot | 0.60% | ~1,304 |
+| Pros and CONs | 0.60% | ~1,305 |
+| Wet Feet | 0.60% | ~1,305 |
+| Hatchlings Underfoot | 0.60% | ~1,305 |
 | Return to the Tomb | 0.60% | ~1,102 |
 | Heatwave | 0.60% | ~1,102 |
-| Were-verpowered | 0.60% | ~1,304 |
-| Terror in the Dark | 0.60% | ~1,304 |
-| Building Trust | 0.60% | ~1,304 |
-| Unearthed Evil | 0.60% | ~1,304 |
+| Were-verpowered | 0.60% | ~1,305 |
+| A Persistent Buzzing | 0.60% | ~1,305 |
+| Terror in the Dark | 0.60% | ~1,305 |
+| Building Trust | 0.60% | ~1,305 |
+| Unearthed Evil | 0.60% | ~1,305 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,102 |
 | The Witchlight Carnival | 0.50% | ~918 |
 | Don't Look Up! | 0.50% | ~1,087 |
 | Heavy Burden | 0.50% | ~1,087 |
 | The Evacuation of Waterdeep | 0.50% | ~918 |
 | The Dread Domain of Tovag | 0.50% | ~918 |
-| A Persistent Buzzing | 0.50% | ~1,087 |
 | Beast Mode | 0.50% | ~1,087 |
 | Low Initiative | 0.50% | ~1,087 |
 | A Mysterious Summons | 0.50% | ~1,087 |
@@ -57,6 +57,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Demi-god's Defender | 0.40% | ~735 |
 | Friends of the Forest | 0.40% | ~870 |
 | Homecoming | 0.40% | ~870 |
+| No One Can Hear You Scream | 0.40% | ~735 |
 | Welcome to the Rock | 0.40% | ~735 |
 | Street War | 0.40% | ~870 |
 | Wisdom Check | 0.40% | ~870 |
@@ -64,6 +65,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.40% | ~870 |
 | The Ring of Regeneration | 0.40% | ~870 |
 | Seeking Allies | 0.40% | ~870 |
+| Exploring Port Nyanzaru | 0.40% | ~870 |
 | Waterdeep Detours | 0.40% | ~870 |
 | Friendly Imps | 0.40% | ~870 |
 | Luigi After Hours | 0.40% | ~735 |
@@ -83,10 +85,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Who Lurks Below? | 0.30% | ~551 |
 | Xanathaaaaaaar! | 0.30% | ~551 |
 | The Lost Heir of Omu | 0.30% | ~652 |
-| No One Can Hear You Scream | 0.30% | ~551 |
 | The Forbidden City | 0.30% | ~652 |
 | Captured! | 0.30% | ~652 |
 | Force Grey Unleashed | 0.30% | ~652 |
+| Vajra's Guards | 0.30% | ~652 |
 | Sleuth It Out | 0.30% | ~652 |
 | A Grand Puzzle | 0.30% | ~652 |
 | Tomb of the Nine Gods | 0.30% | ~652 |
@@ -101,7 +103,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.30% | ~652 |
 | Useless Allies | 0.30% | ~652 |
 | Mad Cow Disease | 0.30% | ~652 |
-| Exploring Port Nyanzaru | 0.30% | ~652 |
 | A Tale of Two Cities | 0.30% | ~652 |
 | The Dead Three | 0.30% | ~652 |
 | Running of the Saurs | 0.30% | ~652 |
@@ -154,7 +155,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.20% | ~435 |
 | Home Field Advantage | 0.20% | ~435 |
 | Double Vision | 0.20% | ~435 |
-| Vajra's Guards | 0.20% | ~435 |
 | The Newcomers of Notoriety | 0.20% | ~367 |
 | Azaka's Procession - Part 1 | 0.20% | ~435 |
 | Azaka's Procession - Part 2 | 0.20% | ~435 |
@@ -170,10 +170,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Gargoyle's Apprentice | 0.20% | ~435 |
 | Treasure Hunters | 0.20% | ~435 |
 | The Guardian of Orolunga | 0.20% | ~435 |
+| The Lost Love | 0.20% | ~435 |
 | Flies on the Wall | 0.20% | ~435 |
 | Backtracking Through Barovia | 0.20% | ~435 |
 | Nimble Escape | 0.20% | ~435 |
 | Fugitives | 0.20% | ~435 |
+| Excavating History | 0.20% | ~435 |
 | Premature Betrayal | 0.20% | ~435 |
 | Hopelessly Lost | 0.20% | ~435 |
 | Enter the Sargauth | 0.20% | ~435 |
@@ -306,7 +308,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Think Your Way Out Of It | 0.10% | ~217 |
 | Air's Getting Pretty Thin | 0.10% | ~217 |
 | Red Wizard 'Escort' | 0.10% | ~184 |
-| The Lost Love | 0.10% | ~217 |
 | A Saurial's Lament | 0.10% | ~217 |
 | A Saurial's Resolve | 0.10% | ~217 |
 | Spirit of the Trickster Gods | 0.10% | ~184 |
@@ -322,7 +323,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | From The Shadows | 0.10% | ~217 |
 | Spined Nuisances | 0.10% | ~217 |
 | Twilight Twist | 0.10% | ~184 |
-| Excavating History | 0.10% | ~217 |
 | Screams of the Dead | 0.10% | ~217 |
 | Frantic Excavation | 0.10% | ~217 |
 | Birds of a Feather | 0.10% | ~184 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,406 (Ranked 53)  
+Progressed: 217,417 (Ranked 53)  
 Completed: 2,139 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,7 +621,7 @@ Completed: 2,139 (0.98%) (Ranked 112)
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
-| 2023-07-31 | 217,406 | 2,139 |
+| 2023-07-31 | 217,417 | 2,139 |
 ## Awards
 Max (Diverse Characters): 5,106  (Ranked 67)  
 Sum: 30,821 (Ranked 38)  

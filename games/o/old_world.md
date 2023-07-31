@@ -17,18 +17,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 1.00% | ~132 |
 | Architect | 0.90% | ~119 |
 | Mason | 0.90% | ~119 |
+| Noble | 0.90% | ~119 |
 | Pioneer | 0.90% | ~119 |
 | Strong | 0.90% | ~119 |
 | Hanging Gardens | 0.90% | ~119 |
 | Oracle | 0.90% | ~119 |
+| Trade Caravan | 0.90% | ~119 |
 | Enlightened | 0.80% | ~106 |
 | Good | 0.80% | ~106 |
 | Just | 0.80% | ~106 |
 | Learned | 0.80% | ~106 |
-| Noble | 0.80% | ~106 |
 | Judaism | 0.80% | ~106 |
 | Naming Landmarks | 0.80% | ~106 |
-| Trade Caravan | 0.80% | ~106 |
 | Ambitious | 0.70% | ~92 |
 | Glorious | 0.70% | ~92 |
 | Keystone | 0.70% | ~92 |
@@ -40,6 +40,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 0.70% | ~92 |
 | Babylonian Paganism | 0.70% | ~92 |
 | Greek Paganism | 0.70% | ~92 |
+| Roman Paganism | 0.70% | ~92 |
 | Zoroastrianism | 0.70% | ~92 |
 | Fountainhead | 0.60% | ~79 |
 | Wise | 0.60% | ~79 |
@@ -49,7 +50,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 0.60% | ~79 |
 | Learn to Play 1 | 0.60% | ~79 |
 | Carthaginian Paganism | 0.60% | ~79 |
-| Roman Paganism | 0.60% | ~79 |
 | Regicide | 0.50% | ~66 |
 | Brilliant | 0.50% | ~66 |
 | Great | 0.50% | ~66 |
@@ -80,6 +80,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.30% | ~40 |
 | Mighty | 0.30% | ~40 |
 | Ready | 0.30% | ~40 |
+| Subjugator | 0.30% | ~40 |
 | Victorious | 0.30% | ~40 |
 | Good Difficulty | 0.30% | ~40 |
 | Strong Difficulty | 0.30% | ~40 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.20% | ~26 |
 | Old | 0.20% | ~26 |
 | Peacemaker | 0.20% | ~26 |
-| Subjugator | 0.20% | ~26 |
 | Noble Difficulty | 0.20% | ~26 |
 | Clerics | 0.20% | ~26 |
 | Hunters | 0.20% | ~26 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,202 (Ranked 117)  
+Progressed: 13,203 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 5 (0.04%) (Ranked 216)
 | 2023-07-28 | 13,145 | 5 |
 | 2023-07-29 | 13,164 | 5 |
 | 2023-07-30 | 13,191 | 5 |
-| 2023-07-31 | 13,202 | 5 |
+| 2023-07-31 | 13,203 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

@@ -2,9 +2,9 @@
   "ID": "9a3d3cc7c85f4664943bfe6fca977d03",
   "Name": "My Friend Peppa Pig",
   "ProductSlug": "my-friend-peppa-pig-2de0dc",
-  "Ranking_EOS_Progress": 334,
+  "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
@@ -174,9 +174,9 @@
       "ID": "8",
       "SetID": "5jd5jfm",
       "Name": "The View From Windy Castle.",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 80,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "9",
@@ -199,8 +199,8 @@
   "FirstSeenRating": "2023-03-31T05:57:56.0490903+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:28.9247276+00:00",
   "LastChanged": "2023-03-31T05:57:56.0490904+00:00",
-  "LastChanged_Achievements": "2023-07-31T16:04:33.1872+00:00",
+  "LastChanged_Achievements": "2023-07-31T17:04:16.9256825+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:03.0654295+00:00",
-  "LastUpdate_Ratings": "2023-07-31T16:00:50.1412124+00:00",
-  "LastUpdate_Achievements": "2023-07-31T16:04:33.1872165+00:00"
+  "LastUpdate_Ratings": "2023-07-31T17:00:52.9342663+00:00",
+  "LastUpdate_Achievements": "2023-07-31T17:04:16.9256941+00:00"
 }

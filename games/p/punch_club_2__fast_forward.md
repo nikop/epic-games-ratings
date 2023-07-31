@@ -30,14 +30,14 @@
 | Own four walls | 55.00% | ~108 |
 | Little hacker | 54.00% | ~106 |
 | It's good to be alive | 54.00% | ~106 |
+| Fight for life | 53.00% | ~104 |
 | Handyman | 53.00% | ~104 |
 | Employee of the year | 53.00% | ~104 |
-| Fight for life | 52.00% | ~102 |
 | Legal courier | 49.00% | ~96 |
-| Extreme neuropower! | 48.00% | ~94 |
+| Extreme neuropower! | 49.00% | ~96 |
+| Escaped from a big trouble | 46.00% | ~90 |
 | Your own way | 46.00% | ~90 |
 | Now you are worthy | 45.00% | ~88 |
-| Escaped from a big trouble | 45.00% | ~88 |
 | No blades in the gym | 43.00% | ~84 |
 | Guiding on the right path | 42.00% | ~82 |
 | Fight is life | 41.00% | ~80 |
@@ -48,7 +48,7 @@
 | GYM professional | 34.00% | ~67 |
 | Deal with life | 33.00% | ~65 |
 | Champion – no way back | 33.00% | ~65 |
-| Poisoned fighter | 32.00% | ~63 |
+| Poisoned fighter | 33.00% | ~65 |
 | Seashell hunter | 32.00% | ~63 |
 | Mom got better | 31.00% | ~61 |
 | The die is cast | 31.00% | ~61 |
@@ -60,18 +60,18 @@
 | The last bell ring | 29.00% | ~57 |
 | Careerist | 28.00% | ~55 |
 | Trap disarmed | 27.00% | ~53 |
+| Another world | 27.00% | ~53 |
+| The lonesome road | 27.00% | ~53 |
+| Key memories | 27.00% | ~53 |
 | Anyone can resist | 27.00% | ~53 |
-| Another world | 26.00% | ~51 |
-| The lonesome road | 26.00% | ~51 |
+| The heart of the Resistance | 27.00% | ~53 |
 | Keep nature safe | 26.00% | ~51 |
 | Family comes first | 26.00% | ~51 |
-| Key memories | 26.00% | ~51 |
-| The heart of the Resistance | 26.00% | ~51 |
 | Silver’s past | 23.00% | ~45 |
 | Better cooking at home | 23.00% | ~45 |
 | The only right decision | 23.00% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 196 (Ranked 283)  
+Progressed: 196 (Ranked 284)  
 Completed: 7 (3.57%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |

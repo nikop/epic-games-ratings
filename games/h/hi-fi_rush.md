@@ -10,6 +10,7 @@ Rating: 4.87 (Ranked 24)
 | You can pet the cat! | 5.00% | ~183 |
 | Cream of the Crop | 4.00% | ~146 |
 | Thanks for the free chip, Peppermint! | 4.00% | ~146 |
+| You got this, Peppermint? | 4.00% | ~146 |
 | Perfect Parry | 4.00% | ~146 |
 | Who put gears in there? | 4.00% | ~146 |
 | This will cost you big time | 3.00% | ~110 |
@@ -17,7 +18,6 @@ Rating: 4.87 (Ranked 24)
 | Time to pay up! | 3.00% | ~110 |
 | I play my own way! | 3.00% | ~110 |
 | Whoa! There's ANOTHER health bar!? | 3.00% | ~110 |
-| You got this, Peppermint? | 3.00% | ~110 |
 | Z-shielding's got nothing on us! | 3.00% | ~110 |
 | Out in a puff of smoke | 3.00% | ~110 |
 | Uh, they were broken when I got here | 3.00% | ~110 |

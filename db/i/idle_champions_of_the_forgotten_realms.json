@@ -5416,9 +5416,9 @@
       "Count": 3330
     }
   ],
-  "EOS_Progressed": 217406,
+  "EOS_Progressed": 217417,
   "EOS_Completed": 2139,
-  "EOS_NewPlayers": 2298,
+  "EOS_NewPlayers": 2288,
   "EOS_NewCompleters": 79,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16401,6 +16401,11 @@
       "Time": "2023-07-31T16:04:43.1014397+00:00",
       "NumProgressed": 217406,
       "NumCompleted": 2139
+    },
+    {
+      "Time": "2023-07-31T17:04:25.3596444+00:00",
+      "NumProgressed": 217417,
+      "NumCompleted": 2139
     }
   ],
   "TotalAchievements": 512,
@@ -16412,7 +16417,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6522
+      "UsersEstimate": 6523
     },
     {
       "ID": "objective_completed_10",
@@ -16428,7 +16433,7 @@
       "Name": "Pros and CONs",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "objective_completed_101",
@@ -16780,7 +16785,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6522
+      "UsersEstimate": 6523
     },
     {
       "ID": "objective_completed_110",
@@ -16788,7 +16793,7 @@
       "Name": "Wet Feet",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "objective_completed_1100",
@@ -16844,7 +16849,7 @@
       "Name": "Hatchlings Underfoot",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "objective_completed_1111",
@@ -17276,7 +17281,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "objective_completed_1203",
@@ -17386,9 +17391,9 @@
       "ID": "objective_completed_13",
       "SetID": "cc37lbc",
       "Name": "A Persistent Buzzing",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1305
     },
     {
       "ID": "objective_completed_130",
@@ -17482,9 +17487,9 @@
       "ID": "objective_completed_1345",
       "SetID": "415jc5c",
       "Name": "No One Can Hear You Scream",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 735
     },
     {
       "ID": "objective_completed_1346",
@@ -17532,7 +17537,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "objective_completed_150",
@@ -17626,9 +17631,9 @@
       "ID": "objective_completed_167",
       "SetID": "cc37lbc",
       "Name": "Vajra\u0027s Guards",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 652
     },
     {
       "ID": "objective_completed_169",
@@ -17636,7 +17641,7 @@
       "Name": "Building Trust",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "objective_completed_17",
@@ -17740,7 +17745,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "objective_completed_20",
@@ -18154,9 +18159,9 @@
       "ID": "objective_completed_383",
       "SetID": "cc37lbc",
       "Name": "The Lost Love",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 435
     },
     {
       "ID": "objective_completed_384",
@@ -18338,9 +18343,9 @@
       "ID": "objective_completed_408",
       "SetID": "cc37lbc",
       "Name": "Excavating History",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 435
     },
     {
       "ID": "objective_completed_409",
@@ -18554,9 +18559,9 @@
       "ID": "objective_completed_54",
       "SetID": "cc37lbc",
       "Name": "Exploring Port Nyanzaru",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 652
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_540",
@@ -20468,7 +20473,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     },
     {
       "ID": "objective_completed_1386",
@@ -20507,21 +20512,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183680,
-      "Completed": 3039
+      "Progressed": 183691,
+      "Completed": 3040
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217406,
+      "Progressed": 217417,
       "Completed": 2139
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-31T07:58:28.9560959+00:00",
-  "LastChanged_Achievements": "2023-07-31T16:04:43.101439+00:00",
+  "LastChanged_Achievements": "2023-07-31T17:04:25.3596437+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-31T15:59:16.5239424+00:00",
-  "LastUpdate_Achievements": "2023-07-31T16:04:43.1047792+00:00"
+  "LastUpdate_Ratings": "2023-07-31T16:59:15.6901242+00:00",
+  "LastUpdate_Achievements": "2023-07-31T17:04:25.3638768+00:00"
 }

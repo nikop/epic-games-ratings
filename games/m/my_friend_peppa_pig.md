@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The View From Windy Castle. | 55.00% | ~42 |
+| The View From Windy Castle. | 57.00% | ~43 |
 | Rocket to the Moon! | 50.00% | ~38 |
 | Daddy’s Glasses | 47.00% | ~36 |
 | Whose tracks are these? | 46.00% | ~35 |
@@ -16,7 +16,7 @@
 | Helping Tiddles the Tortoise. | 22.00% | ~17 |
 | Always Remember To Eat Your Five! | 11.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76 (Ranked 334)  
+Progressed: 76 (Ranked 335)  
 Completed: 4 (5.26%) (Ranked 44)  
 ## EOS Players History
 | Date | Progressed | Completed |

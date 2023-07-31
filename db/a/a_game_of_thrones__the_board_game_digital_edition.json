@@ -1263,7 +1263,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 20116,
+  "EOS_Progressed": 20122,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 743,
   "EOS_NewCompleters": 1,
@@ -12068,6 +12068,11 @@
       "Time": "2023-07-31T16:04:27.8848139+00:00",
       "NumProgressed": 20116,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-31T17:04:12.3891258+00:00",
+      "NumProgressed": 20122,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 22,
@@ -12087,7 +12092,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "1017",
@@ -12111,7 +12116,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "1020",
@@ -12143,7 +12148,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "1024",
@@ -12151,7 +12156,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "1025",
@@ -12167,7 +12172,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "1027",
@@ -12175,7 +12180,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "1028",
@@ -12183,7 +12188,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3621
+      "UsersEstimate": 3622
     },
     {
       "ID": "1029",
@@ -12191,7 +12196,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "1030",
@@ -12199,7 +12204,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4023
+      "UsersEstimate": 4024
     },
     {
       "ID": "1031",
@@ -12207,7 +12212,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2816
+      "UsersEstimate": 2817
     },
     {
       "ID": "1032",
@@ -12215,7 +12220,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 8046
+      "UsersEstimate": 8049
     },
     {
       "ID": "1033",
@@ -12223,7 +12228,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "1034",
@@ -12231,7 +12236,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "1035",
@@ -12239,7 +12244,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "1036",
@@ -12247,22 +12252,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 20116,
+      "Progressed": 20122,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-07-31T16:04:27.8848131+00:00",
+  "LastChanged_Achievements": "2023-07-31T17:04:12.3891249+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:09.3482059+00:00",
-  "LastUpdate_Ratings": "2023-07-31T16:01:52.0053059+00:00",
-  "LastUpdate_Achievements": "2023-07-31T16:04:27.8849594+00:00"
+  "LastUpdate_Ratings": "2023-07-31T17:01:50.882691+00:00",
+  "LastUpdate_Achievements": "2023-07-31T17:04:12.389243+00:00"
 }

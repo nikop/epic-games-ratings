@@ -2,7 +2,7 @@
   "ID": "fb9cd4d7c3cd49108b09aec351470fda",
   "Name": "Punch Club 2: Fast Forward",
   "ProductSlug": "punch-club-2-fast-forward-46d985",
-  "Ranking_EOS_Progress": 283,
+  "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 57,
   "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 25,
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 196,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 3.57,
   "EosHistory": [
@@ -689,9 +689,9 @@
       "ID": "another_world",
       "SetID": "69co12a",
       "Name": "Another world",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "any_stat_15",
@@ -729,9 +729,9 @@
       "ID": "carla_journey",
       "SetID": "69co12a",
       "Name": "The lonesome road",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "courier_win",
@@ -769,9 +769,9 @@
       "ID": "fight_win_25",
       "SetID": "69co12a",
       "Name": "Fight for life",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "fight_win_50",
@@ -809,9 +809,9 @@
       "ID": "flash_k",
       "SetID": "69co12a",
       "Name": "Key memories",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "flash_silver",
@@ -977,9 +977,9 @@
       "ID": "nero_extrime",
       "SetID": "69co12a",
       "Name": "Extreme neuropower!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "not_ok",
@@ -1009,9 +1009,9 @@
       "ID": "poisoned_fighter",
       "SetID": "69co12a",
       "Name": "Poisoned fighter",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "police_promotion_1",
@@ -1073,9 +1073,9 @@
       "ID": "resistance_true",
       "SetID": "69co12a",
       "Name": "The heart of the Resistance",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "seashell_hunter",
@@ -1105,9 +1105,9 @@
       "ID": "trainer_promotion_1",
       "SetID": "69co12a",
       "Name": "Escaped from a big trouble",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "trainer_promotion_2",
@@ -1176,8 +1176,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-07-31T16:03:21.161846+00:00",
+  "LastChanged_Achievements": "2023-07-31T17:03:15.3530821+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:10.4822993+00:00",
-  "LastUpdate_Ratings": "2023-07-31T15:58:26.5919431+00:00",
-  "LastUpdate_Achievements": "2023-07-31T16:03:21.1619771+00:00"
+  "LastUpdate_Ratings": "2023-07-31T16:58:26.8095814+00:00",
+  "LastUpdate_Achievements": "2023-07-31T17:03:15.3531666+00:00"
 }

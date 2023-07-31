@@ -642,9 +642,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3087,
+  "EOS_Progressed": 3089,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2757,6 +2757,11 @@
       "Time": "2023-07-31T15:04:47.6968105+00:00",
       "NumProgressed": 3087,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T17:04:41.2043569+00:00",
+      "NumProgressed": 3089,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -2886,9 +2891,9 @@
       "ID": "ForTheMachineGod",
       "SetID": "2im8phi",
       "Name": "For the Machine God",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "FrequentWarpSurges",
@@ -3311,21 +3316,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3087,
+      "Progressed": 3089,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3087,
+      "Progressed": 3089,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-30T00:00:03.0070741+00:00",
-  "LastChanged_Achievements": "2023-07-31T16:05:03.6955491+00:00",
+  "LastChanged_Achievements": "2023-07-31T17:04:41.2043563+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:36.2653351+00:00",
-  "LastUpdate_Ratings": "2023-07-31T15:59:59.1845863+00:00",
-  "LastUpdate_Achievements": "2023-07-31T16:05:03.695633+00:00"
+  "LastUpdate_Ratings": "2023-07-31T17:00:00.7208633+00:00",
+  "LastUpdate_Achievements": "2023-07-31T17:04:41.2044762+00:00"
 }

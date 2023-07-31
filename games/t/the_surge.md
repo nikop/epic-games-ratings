@@ -9,7 +9,7 @@ Number of Ratings: 62  (23.09.2022)
 | On My Own Two Feet | 94.00% | ~4,277 |
 | I'll Be Back | 85.00% | ~3,868 |
 | Sorry, I Dropped This | 77.00% | ~3,504 |
-| First Day on the Job | 76.00% | ~3,458 |
+| First Day on the Job | 77.00% | ~3,504 |
 | Butcher's Bill | 55.00% | ~2,502 |
 | P.A.X | 37.00% | ~1,684 |
 | Hey Listen | 37.00% | ~1,684 |
@@ -165,8 +165,8 @@ Completed: 15 (0.33%) (Ranked 151)
 | 2023-07-31 | 4,550 | 15 |
 ## Awards
 Max (Great Boss Battles): 27  (Ranked 469)  
-Sum: 27 (Ranked 479)  
-Diff (max vs sum): -10  
+Sum: 27 (Ranked 480)  
+Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 27 |

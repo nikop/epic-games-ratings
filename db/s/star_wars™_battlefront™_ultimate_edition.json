@@ -35,11 +35,20 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "271ol84",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2022-07-22T20:27:47.9798202+00:00",
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
+  "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
+  "LastChanged_Achievements": "2023-07-31T17:03:17.5561036+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:56.7503224+00:00",
-  "LastUpdate_Ratings": "2023-07-31T15:59:11.6241953+00:00",
-  "LastUpdate_Achievements": "2023-07-31T16:03:24.0698235+00:00"
+  "LastUpdate_Ratings": "2023-07-31T16:59:12.269991+00:00",
+  "LastUpdate_Achievements": "2023-07-31T17:03:17.5561083+00:00"
 }

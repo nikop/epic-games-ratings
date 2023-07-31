@@ -92,7 +92,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 925,
+  "EOS_Progressed": 926,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
@@ -1217,6 +1217,11 @@
       "Time": "2023-07-31T14:05:43.4855236+00:00",
       "NumProgressed": 925,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-31T17:05:55.4106526+00:00",
+      "NumProgressed": 926,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1244,7 +1249,7 @@
       "Name": "Soulmate?",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -1260,7 +1265,7 @@
       "Name": "Kaboom",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -1268,7 +1273,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -1300,7 +1305,7 @@
       "Name": "Top spot in town",
       "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_GOLDEN_EGGS_ALL",
@@ -1308,7 +1313,7 @@
       "Name": "Aesop\u0027s fable",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
@@ -1330,9 +1335,9 @@
       "ID": "ACH_HOTEL_NAMED",
       "SetID": "7k95e4n",
       "Name": "And so it begins",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 666
+      "UsersEstimate": 676
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1364,7 +1369,7 @@
       "Name": "Let there be light",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1380,7 +1385,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "ACH_STAR_2",
@@ -1388,7 +1393,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH_STAR_3",
@@ -1412,7 +1417,7 @@
       "Name": "You\u0027re a star",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
@@ -1426,9 +1431,9 @@
       "ID": "ACH_TIP_EARNED",
       "SetID": "7k95e4n",
       "Name": "Excellent service",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 453
+      "UsersEstimate": 444
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -1443,7 +1448,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 925,
+      "Progressed": 926,
       "Completed": 15
     }
   ],
@@ -1451,8 +1456,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-29T09:57:37.1491908+00:00",
-  "LastChanged_Achievements": "2023-07-31T16:05:52.3780598+00:00",
+  "LastChanged_Achievements": "2023-07-31T17:05:55.4106516+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:54.1482303+00:00",
-  "LastUpdate_Ratings": "2023-07-31T15:58:06.0176408+00:00",
-  "LastUpdate_Achievements": "2023-07-31T16:05:52.3781048+00:00"
+  "LastUpdate_Ratings": "2023-07-31T16:58:06.7150659+00:00",
+  "LastUpdate_Achievements": "2023-07-31T17:05:55.4106947+00:00"
 }

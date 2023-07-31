@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 439,
+  "EOS_Progressed": 440,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1213,6 +1213,11 @@
       "Time": "2023-07-31T13:17:26.3630906+00:00",
       "NumProgressed": 439,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T17:06:14.6291874+00:00",
+      "NumProgressed": 440,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1336,7 +1341,7 @@
       "Name": "Prospector",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -1344,7 +1349,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -1446,9 +1451,9 @@
       "ID": "ACH_FIN_CH01",
       "SetID": "1j25agn",
       "Name": "Cowardice",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -1456,7 +1461,7 @@
       "Name": "The Breaking Point",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -1464,7 +1469,7 @@
       "Name": "The Motivation",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -1584,7 +1589,7 @@
       "Name": "Without a Second Thought",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_KILL_BRAWL",
@@ -1608,7 +1613,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -1632,7 +1637,7 @@
       "Name": "Eat Lead!",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -1656,7 +1661,7 @@
       "Name": "King of Knives",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_NEST1",
@@ -1695,15 +1700,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 439,
+      "Progressed": 440,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-07-31T16:06:16.5462089+00:00",
+  "LastChanged_Achievements": "2023-07-31T17:06:14.6291864+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:12.2817401+00:00",
-  "LastUpdate_Ratings": "2023-07-31T15:58:27.8684976+00:00",
-  "LastUpdate_Achievements": "2023-07-31T16:06:16.5463159+00:00"
+  "LastUpdate_Ratings": "2023-07-31T16:58:28.346594+00:00",
+  "LastUpdate_Achievements": "2023-07-31T17:06:14.6292523+00:00"
 }

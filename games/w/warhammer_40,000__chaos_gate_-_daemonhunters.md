@@ -38,6 +38,7 @@ Number of Ratings: 371  (23.09.2022)
 | Clean Slate | 0.10% | ~3 |
 | Patron of Deimos | 0.10% | ~3 |
 | Fleetmaster | 0.10% | ~3 |
+| For the Machine God | 0.10% | ~3 |
 | Unstable Immaterium | 0.10% | ~3 |
 | Strike Force | 0.10% | ~3 |
 | Opportunist | 0.10% | ~3 |
@@ -64,7 +65,6 @@ Number of Ratings: 371  (23.09.2022)
 | Dominus | 0.00% | ~0 |
 | Drone Army | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
-| For the Machine God | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 | Master of the Forge | 0.00% | ~0 |
 | Field Apothecarion | 0.00% | ~0 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strategic Command | 0.00% | ~0 |
 | Suffer Not the Mutant | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,087 (Ranked 153)  
+Progressed: 3,089 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 3,064 | 0 |
 | 2023-07-29 | 3,069 | 0 |
 | 2023-07-30 | 3,081 | 0 |
-| 2023-07-31 | 3,087 | 0 |
+| 2023-07-31 | 3,089 | 0 |
 ## Awards
 Max (Character Customization): 216  (Ranked 265)  
 Sum: 459 (Ranked 303)  

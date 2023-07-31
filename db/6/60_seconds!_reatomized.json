@@ -4018,9 +4018,9 @@
       "ID": "ACH_GOOD_ENDING",
       "SetID": "5nj1ea3",
       "Name": "Rescue time!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 819
+      "UsersEstimate": 867
     },
     {
       "ID": "ACH_HARD",
@@ -4259,8 +4259,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-07-30T17:01:28.4100143+00:00",
-  "LastChanged_Achievements": "2023-07-31T16:05:25.4877424+00:00",
+  "LastChanged_Achievements": "2023-07-31T17:05:32.2869055+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:21.1822177+00:00",
-  "LastUpdate_Ratings": "2023-07-31T16:02:01.6445139+00:00",
-  "LastUpdate_Achievements": "2023-07-31T16:05:25.4878829+00:00"
+  "LastUpdate_Ratings": "2023-07-31T17:02:01.366791+00:00",
+  "LastUpdate_Achievements": "2023-07-31T17:05:32.2870226+00:00"
 }

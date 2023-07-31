@@ -1590,9 +1590,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24604,
+  "EOS_Progressed": 24605,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -9090,6 +9090,11 @@
       "Time": "2023-07-31T15:03:17.3865529+00:00",
       "NumProgressed": 24604,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-07-31T17:03:07.1007573+00:00",
+      "NumProgressed": 24605,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 51,
@@ -9101,7 +9106,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17961
+      "UsersEstimate": 17962
     },
     {
       "ID": "Animated",
@@ -9117,7 +9122,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8611
+      "UsersEstimate": 8612
     },
     {
       "ID": "Best_Insurance",
@@ -9149,7 +9154,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 12548
+      "UsersEstimate": 12549
     },
     {
       "ID": "Collector",
@@ -9165,7 +9170,7 @@
       "Name": "Cultured",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 12548
+      "UsersEstimate": 12549
     },
     {
       "ID": "Daily_Dose",
@@ -9173,7 +9178,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8365
+      "UsersEstimate": 8366
     },
     {
       "ID": "Diabolical",
@@ -9189,7 +9194,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15008
+      "UsersEstimate": 15009
     },
     {
       "ID": "Dont_Need_These",
@@ -9237,7 +9242,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13286
+      "UsersEstimate": 13287
     },
     {
       "ID": "GB_In_Training",
@@ -9245,7 +9250,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7381
+      "UsersEstimate": 7382
     },
     {
       "ID": "Ghost_Expert",
@@ -9261,7 +9266,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7381
+      "UsersEstimate": 7382
     },
     {
       "ID": "Legions",
@@ -9389,7 +9394,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7873
+      "UsersEstimate": 7874
     },
     {
       "ID": "Stunner",
@@ -9405,7 +9410,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21159
+      "UsersEstimate": 21160
     },
     {
       "ID": "Summoner",
@@ -9429,7 +9434,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13286
+      "UsersEstimate": 13287
     },
     {
       "ID": "Teamwork",
@@ -9493,7 +9498,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 7873
+      "UsersEstimate": 7874
     },
     {
       "ID": "Whoopsie",
@@ -9501,14 +9506,14 @@
       "Name": "Whoopsie",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2952
+      "UsersEstimate": 2953
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24604,
+      "Progressed": 24605,
       "Completed": 48
     }
   ],
@@ -9516,8 +9521,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-30T05:00:32.9955543+00:00",
-  "LastChanged_Achievements": "2023-07-31T16:03:11.421386+00:00",
+  "LastChanged_Achievements": "2023-07-31T17:03:07.1007565+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:56.6577114+00:00",
-  "LastUpdate_Ratings": "2023-07-31T16:00:25.2010281+00:00",
-  "LastUpdate_Achievements": "2023-07-31T16:03:11.4214968+00:00"
+  "LastUpdate_Ratings": "2023-07-31T17:00:26.8072514+00:00",
+  "LastUpdate_Achievements": "2023-07-31T17:03:07.1009438+00:00"
 }

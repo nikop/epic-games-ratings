@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 90,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5460,9 +5460,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 711936,
+  "EOS_Progressed": 711939,
   "EOS_Completed": 12837,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 543,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -15155,6 +15155,11 @@
       "Time": "2023-07-31T16:07:48.0749859+00:00",
       "NumProgressed": 711936,
       "NumCompleted": 12837
+    },
+    {
+      "Time": "2023-07-31T17:07:43.6901711+00:00",
+      "NumProgressed": 711939,
+      "NumCompleted": 12837
     }
   ],
   "TotalAchievements": 50,
@@ -15214,7 +15219,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 5695
+      "UsersEstimate": 5696
     },
     {
       "ID": "08_Wude_H2",
@@ -15502,7 +15507,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -15565,21 +15570,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21237,
+      "Progressed": 21240,
       "Completed": 10467
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711936,
+      "Progressed": 711939,
       "Completed": 12837
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-31T15:00:20.1271913+00:00",
-  "LastChanged_Achievements": "2023-07-31T16:07:48.0749852+00:00",
+  "LastChanged_Achievements": "2023-07-31T17:07:43.6901705+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:51.4583284+00:00",
-  "LastUpdate_Ratings": "2023-07-31T16:00:17.4119101+00:00",
-  "LastUpdate_Achievements": "2023-07-31T16:07:48.0751548+00:00"
+  "LastUpdate_Ratings": "2023-07-31T17:00:21.4317441+00:00",
+  "LastUpdate_Achievements": "2023-07-31T17:07:43.6903128+00:00"
 }

@@ -39,6 +39,7 @@ Number of Ratings: 45  (23.09.2022)
 | No Time for Clawmonsters | 4.00% | ~54 |
 | We Emerge Changed | 3.00% | ~40 |
 | Storied Past | 3.00% | ~40 |
+| Empty the Caves | 3.00% | ~40 |
 | Bonebreakers | 3.00% | ~40 |
 | No More Nightmares | 3.00% | ~40 |
 | Bears are Scary | 3.00% | ~40 |
@@ -48,7 +49,6 @@ Number of Ratings: 45  (23.09.2022)
 | Tempest | 3.00% | ~40 |
 | Lochias's Hunger | 3.00% | ~40 |
 | The Power of Friendship | 2.00% | ~27 |
-| Empty the Caves | 2.00% | ~27 |
 | Drauvenslayers | 2.00% | ~27 |
 | Back into the Sea | 2.00% | ~27 |
 | War-Ender | 2.00% | ~27 |
@@ -156,8 +156,8 @@ Completed: 5 (0.37%) (Ranked 148)
 | 2023-07-31 | 1,346 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 464)  
-Sum: 28 (Ranked 476)  
-Diff (max vs sum): -12  
+Sum: 28 (Ranked 477)  
+Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 28 |

@@ -2,9 +2,9 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 283,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 196,
+  "EOS_Progressed": 197,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -828,6 +828,11 @@
       "Time": "2023-07-31T05:02:31.6841613+00:00",
       "NumProgressed": 196,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-31T17:03:27.5014899+00:00",
+      "NumProgressed": 197,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -855,7 +860,7 @@
       "Name": "Alone with Them",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -935,7 +940,7 @@
       "Name": "Forced to Kill",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -943,7 +948,7 @@
       "Name": "Them and Us",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -999,7 +1004,7 @@
       "Name": "OUTRAGE",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ETUA_PTD",
@@ -1151,14 +1156,14 @@
       "Name": "What have I done!?",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 196,
+      "Progressed": 197,
       "Completed": 1
     }
   ],
@@ -1166,8 +1171,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-07-31T16:03:36.2811241+00:00",
+  "LastChanged_Achievements": "2023-07-31T17:03:27.5014891+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:53.0006088+00:00",
-  "LastUpdate_Ratings": "2023-07-31T15:58:02.6130896+00:00",
-  "LastUpdate_Achievements": "2023-07-31T16:03:36.2811624+00:00"
+  "LastUpdate_Ratings": "2023-07-31T16:58:04.8008843+00:00",
+  "LastUpdate_Achievements": "2023-07-31T17:03:27.5015323+00:00"
 }
