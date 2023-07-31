@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3640,
+  "EOS_Progressed": 3643,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4937,6 +4937,11 @@
       "Time": "2023-07-30T22:04:52.3893396+00:00",
       "NumProgressed": 3640,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-31T00:04:35.3006106+00:00",
+      "NumProgressed": 3643,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4986,9 +4991,9 @@
       "ID": "Ach006",
       "SetID": "12n4k20",
       "Name": "Time to pay up!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 73
     },
     {
       "ID": "Ach007",
@@ -5372,7 +5377,7 @@
       "Name": "I told you I\u0027d be fine, Peppermint!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Ach055",
@@ -5420,7 +5425,7 @@
       "Name": "Check out my moves!",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Ach061",
@@ -5515,13 +5520,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3640,
+      "Progressed": 3643,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2161,
+      "Progressed": 2164,
       "Completed": 1928
     }
   ],
@@ -5529,8 +5534,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-30T23:04:40.2039164+00:00",
+  "LastChanged_Achievements": "2023-07-31T00:04:35.30061+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:25.5055416+00:00",
-  "LastUpdate_Ratings": "2023-07-30T22:59:44.4711299+00:00",
-  "LastUpdate_Achievements": "2023-07-30T23:04:40.204021+00:00"
+  "LastUpdate_Ratings": "2023-07-30T23:59:38.7509353+00:00",
+  "LastUpdate_Achievements": "2023-07-31T00:04:35.3008909+00:00"
 }

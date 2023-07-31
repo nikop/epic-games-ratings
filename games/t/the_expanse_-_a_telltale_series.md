@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Doctor Approved | 16.00% | ~277 |
-| Captain Drummer | 14.00% | ~242 |
-| Data Logger | 3.00% | ~52 |
-| Urshanabi Hoarder | 1.00% | ~17 |
+| Doctor Approved | 17.00% | ~301 |
+| Captain Drummer | 14.00% | ~248 |
+| Data Logger | 3.00% | ~53 |
+| Urshanabi Hoarder | 1.00% | ~18 |
 | Data Miner | 0.00% | ~0 |
 | The Pit and the Pirates | 0.00% | ~0 |
 | Data Archivist | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Data Recoverer | 0.00% | ~0 |
 | Impossible Objects | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,732 (Ranked 172)  
+Progressed: 1,771 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -44,3 +44,4 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 8 | 0 |
 | 2023-07-29 | 736 | 0 |
 | 2023-07-30 | 1,732 | 0 |
+| 2023-07-31 | 1,771 | 0 |

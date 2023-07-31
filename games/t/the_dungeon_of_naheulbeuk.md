@@ -6,28 +6,28 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~119,875 |
-| Where's that freaking Dwarf? | 47.00% | ~95,494 |
-| GG EZ | 28.00% | ~56,890 |
-| Speedrun | 26.00% | ~52,826 |
-| Déjà vu | 21.00% | ~42,667 |
-| Sock! SOCK! | 17.00% | ~34,540 |
-| DM intervention | 13.00% | ~26,413 |
-| Fireproof Wizardess | 10.00% | ~20,318 |
-| Livin' in a dwarven paradise | 8.00% | ~16,254 |
-| Way of the Wimp | 7.00% | ~14,222 |
-| A beer, two curses, three companions | 7.00% | ~14,222 |
-| The plot thickens... At the tavern | 5.00% | ~10,159 |
-| The Woman in the High Castle | 4.00% | ~8,127 |
-| I am the night | 4.00% | ~8,127 |
-| Team Building Exercise | 4.00% | ~8,127 |
-| Shiny and Crôm | 3.00% | ~6,095 |
-| The demons' feast | 3.00% | ~6,095 |
-| Res Judicata | 3.00% | ~6,095 |
-| Dwarf Fortress | 3.00% | ~6,095 |
-| The Ranger of Chaos | 3.00% | ~6,095 |
-| Thieves' Guild Accreditation | 3.00% | ~6,095 |
-| Oh, when I'll be level 10... | 3.00% | ~6,095 |
+| Alt+F4 | 59.00% | ~119,887 |
+| Where's that freaking Dwarf? | 47.00% | ~95,504 |
+| GG EZ | 28.00% | ~56,896 |
+| Speedrun | 26.00% | ~52,832 |
+| Déjà vu | 21.00% | ~42,672 |
+| Sock! SOCK! | 17.00% | ~34,544 |
+| DM intervention | 13.00% | ~26,416 |
+| Fireproof Wizardess | 10.00% | ~20,320 |
+| Livin' in a dwarven paradise | 8.00% | ~16,256 |
+| Way of the Wimp | 7.00% | ~14,224 |
+| A beer, two curses, three companions | 7.00% | ~14,224 |
+| The plot thickens... At the tavern | 5.00% | ~10,160 |
+| The Woman in the High Castle | 4.00% | ~8,128 |
+| I am the night | 4.00% | ~8,128 |
+| Team Building Exercise | 4.00% | ~8,128 |
+| Shiny and Crôm | 3.00% | ~6,096 |
+| The demons' feast | 3.00% | ~6,096 |
+| Res Judicata | 3.00% | ~6,096 |
+| Dwarf Fortress | 3.00% | ~6,096 |
+| The Ranger of Chaos | 3.00% | ~6,096 |
+| Thieves' Guild Accreditation | 3.00% | ~6,096 |
+| Oh, when I'll be level 10... | 3.00% | ~6,096 |
 | The Great Library | 2.00% | ~4,064 |
 | Torture and Sensibility | 2.00% | ~4,064 |
 | Urik's Depths | 2.00% | ~4,064 |
@@ -45,7 +45,7 @@ Number of Ratings: 118  (23.09.2022)
 | Law and Order | 1.00% | ~2,032 |
 | It's been a hard day's night | 1.00% | ~2,032 |
 | Lust and Debauchery | 1.00% | ~2,032 |
-| Lëgal Legend | 0.80% | ~1,625 |
+| Lëgal Legend | 0.80% | ~1,626 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,422 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,016 |
 | I'd rather... Just... Sing! | 0.50% | ~1,016 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,178 (Ranked 55)  
+Progressed: 203,199 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,6 +156,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 201,111 | 0 |
 | 2023-07-29 | 202,137 | 0 |
 | 2023-07-30 | 203,178 | 0 |
+| 2023-07-31 | 203,199 | 0 |
 ## Awards
 Max (Character Customization): 144  (Ranked 297)  
 Sum: 144 (Ranked 392)  

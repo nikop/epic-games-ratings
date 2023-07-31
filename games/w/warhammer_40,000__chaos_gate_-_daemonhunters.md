@@ -24,13 +24,13 @@ Number of Ratings: 371  (23.09.2022)
 | Execution Force | 0.40% | ~12 |
 | Gunmaster | 0.30% | ~9 |
 | Just a Scratch | 0.30% | ~9 |
+| Long Distance Call | 0.30% | ~9 |
 | Hive Exterminator | 0.30% | ~9 |
 | Daemonkeeper | 0.20% | ~6 |
 | Corruption Cleanser | 0.20% | ~6 |
 | Mind Like a Fortress | 0.20% | ~6 |
 | Efficient Killer | 0.20% | ~6 |
 | Only in Death | 0.20% | ~6 |
-| Long Distance Call | 0.20% | ~6 |
 | Tactical Sabotage | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Blood and Iron | 0.10% | ~3 |

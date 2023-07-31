@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get lost! | 90.00% | ~55 |
+| Get lost! | 92.00% | ~56 |
 | Elevator Pitch | 84.00% | ~51 |
 | Beam me up | 62.00% | ~38 |
 | Rock Bottom | 57.00% | ~35 |

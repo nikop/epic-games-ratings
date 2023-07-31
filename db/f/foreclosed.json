@@ -4,7 +4,7 @@
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 87,
+  "EOS_Progressed": 88,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.3,
+  "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -116,6 +116,11 @@
       "Time": "2023-07-30T02:01:06.8554488+00:00",
       "NumProgressed": 87,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-31T00:05:12.0440072+00:00",
+      "NumProgressed": 88,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 24,
@@ -181,7 +186,7 @@
       "ID": "FirstAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Breaking Through",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
       "UsersEstimate": 62
     },
@@ -189,7 +194,7 @@
       "ID": "FirstSkillBuy",
       "SetID": "9e3d06k",
       "Name": "A.I. Training",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 46
     },
@@ -197,7 +202,7 @@
       "ID": "GunUnlock",
       "SetID": "9e3d06k",
       "Name": "Symbiotic Weapon",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
       "UsersEstimate": 51
     },
@@ -221,7 +226,7 @@
       "ID": "KyklosPlan",
       "SetID": "9e3d06k",
       "Name": "The Red Herring",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 32
     },
@@ -269,7 +274,7 @@
       "ID": "StealthDefeat_0",
       "SetID": "9e3d06k",
       "Name": "Flatline",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 17
     },
@@ -293,7 +298,7 @@
       "ID": "TelekinesisThrow_0",
       "SetID": "9e3d06k",
       "Name": "Mind Over Matter",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 17
     },
@@ -318,7 +323,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 87,
+      "Progressed": 88,
       "Completed": 2
     }
   ],
@@ -326,8 +331,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-07-30T23:05:21.263174+00:00",
+  "LastChanged_Achievements": "2023-07-31T00:05:12.0440066+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:54.5120196+00:00",
-  "LastUpdate_Ratings": "2023-07-30T23:00:25.8195509+00:00",
-  "LastUpdate_Achievements": "2023-07-30T23:05:21.2631924+00:00"
+  "LastUpdate_Ratings": "2023-07-31T00:00:16.8567848+00:00",
+  "LastUpdate_Achievements": "2023-07-31T00:05:12.0440277+00:00"
 }

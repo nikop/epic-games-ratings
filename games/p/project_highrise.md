@@ -68,13 +68,13 @@
 | Apartment Awareness | 3.00% | ~9 |
 | Luxury Boutiques | 3.00% | ~9 |
 | Three of a Kind | 3.00% | ~9 |
+| Four of a Kind | 3.00% | ~9 |
 | Curated Class | 2.00% | ~6 |
 | Loft Life | 2.00% | ~6 |
 | Glut of Gastronomy | 2.00% | ~6 |
 | Plebs Are Needed | 2.00% | ~6 |
 | Royal Flush | 2.00% | ~6 |
 | The King of Cool | 2.00% | ~6 |
-| Four of a Kind | 2.00% | ~6 |
 | In the Money | 2.00% | ~6 |
 | It is Payday | 2.00% | ~6 |
 | Full House | 1.00% | ~3 |

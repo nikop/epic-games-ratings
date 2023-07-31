@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breaking Through | 71.00% | ~62 |
+| Breaking Through | 70.00% | ~62 |
 | Silent Overload | 63.00% | ~55 |
-| Symbiotic Weapon | 59.00% | ~51 |
-| A.I. Training | 53.00% | ~46 |
+| Symbiotic Weapon | 58.00% | ~51 |
+| A.I. Training | 52.00% | ~46 |
 | Sniper | 40.00% | ~35 |
-| The Red Herring | 37.00% | ~32 |
+| The Red Herring | 36.00% | ~32 |
 | Telekinesis | 31.00% | ~27 |
 | Sapper | 24.00% | ~21 |
 | Tough Decision | 22.00% | ~19 |
-| Flatline | 20.00% | ~17 |
-| Mind Over Matter | 20.00% | ~17 |
+| Flatline | 19.00% | ~17 |
+| Mind Over Matter | 19.00% | ~17 |
 | Veteran Sniper | 18.00% | ~16 |
 | The Neuro-connector | 18.00% | ~16 |
 | Full and Final Settlement | 16.00% | ~14 |
@@ -29,8 +29,8 @@
 | No Place to Hide | 2.00% | ~2 |
 | A Voice in the Dark | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 323)  
-Completed: 2 (2.30%) (Ranked 80)  
+Progressed: 88 (Ranked 323)  
+Completed: 2 (2.27%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -50,6 +50,7 @@ Completed: 2 (2.30%) (Ranked 80)
 | 2023-07-25 | 85 | 2 |
 | 2023-07-27 | 86 | 2 |
 | 2023-07-30 | 87 | 2 |
+| 2023-07-31 | 88 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

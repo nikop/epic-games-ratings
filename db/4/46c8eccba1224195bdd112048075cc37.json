@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111,
+  "EOS_Progressed": 112,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -506,6 +506,11 @@
       "Time": "2023-07-30T23:06:05.0481683+00:00",
       "NumProgressed": 111,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T00:05:51.6168186+00:00",
+      "NumProgressed": 112,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 20,
@@ -555,23 +560,23 @@
       "ID": "DemonHunter",
       "SetID": "7g1kpc8",
       "Name": "Demonologist",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "FinalBoss",
       "SetID": "7g1kpc8",
       "Name": "Creature",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "FirstBlood",
       "SetID": "7g1kpc8",
       "Name": "First Blood",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 10,
       "UsersEstimate": 100
     },
@@ -589,7 +594,7 @@
       "Name": "Start of the Path",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "FourthBoss",
@@ -627,9 +632,9 @@
       "ID": "MonsterSlayer",
       "SetID": "7g1kpc8",
       "Name": "Monster Slayer",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "Persistence",
@@ -676,14 +681,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 111,
+      "Progressed": 112,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-07-30T23:06:05.0481676+00:00",
+  "LastChanged_Achievements": "2023-07-31T00:05:51.6168181+00:00",
   "LastUpdate_AppInfo": "2023-07-24T09:57:05.3327681+00:00",
-  "LastUpdate_Ratings": "2023-07-30T22:57:51.8541442+00:00",
-  "LastUpdate_Achievements": "2023-07-30T23:06:05.0481878+00:00"
+  "LastUpdate_Ratings": "2023-07-30T23:58:00.3208195+00:00",
+  "LastUpdate_Achievements": "2023-07-31T00:05:51.6168335+00:00"
 }

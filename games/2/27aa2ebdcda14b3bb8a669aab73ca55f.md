@@ -1,7 +1,7 @@
 # The Elder Scrolls Online
 [Store](https://store.epicgames.com/en-US/p/the-elder-scrolls-online)  
 [View Rawdata](../../db/2/27aa2ebdcda14b3bb8a669aab73ca55f.json)  
-Rating: 4.28 (Ranked 794)  
+Rating: 4.27 (Ranked 802)  
 ## Awards
 Max (Character Customization): 297  (Ranked 234)  
 Sum: 297 (Ranked 334)  
@@ -22,3 +22,4 @@ Diff (max vs sum): -100
 | 2023-07-28 | 4.30 | 194 | 194 |
 | 2023-07-29 | 4.31 | 247 | 247 |
 | 2023-07-30 | 4.29 | 297 | 297 |
+| 2023-07-31 | 4.27 | 297 | 297 |

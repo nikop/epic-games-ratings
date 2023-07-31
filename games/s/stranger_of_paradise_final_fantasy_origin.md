@@ -6,27 +6,27 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~76,912 |
-| No Escape | 86.00% | ~68,190 |
-| Seeker of Power | 85.00% | ~67,397 |
+| Manifestation of the Soul | 97.00% | ~76,913 |
+| No Escape | 86.00% | ~68,191 |
+| Seeker of Power | 85.00% | ~67,398 |
 | Hopes and Dreams | 82.00% | ~65,019 |
-| Lantern Smasher | 78.00% | ~61,847 |
-| The Pirate's Way | 74.00% | ~58,675 |
+| Lantern Smasher | 78.00% | ~61,848 |
+| The Pirate's Way | 74.00% | ~58,676 |
 | Dark Crystal, Warrior's Heart | 71.00% | ~56,297 |
-| The King of the Dark Elves | 68.00% | ~53,918 |
-| Memories of the Distant Past | 66.00% | ~52,332 |
-| Distortion's Progeny | 63.00% | ~49,953 |
-| Savant | 62.00% | ~49,160 |
+| The King of the Dark Elves | 68.00% | ~53,919 |
+| Memories of the Distant Past | 66.00% | ~52,333 |
+| Distortion's Progeny | 63.00% | ~49,954 |
+| Savant | 62.00% | ~49,161 |
 | A Landscape of Memory | 58.00% | ~45,989 |
-| The Wind's Light | 54.00% | ~42,817 |
+| The Wind's Light | 54.00% | ~42,818 |
 | Vague Remembrances | 49.00% | ~38,853 |
 | The Fire's Light | 47.00% | ~37,267 |
 | Phantom Memories | 47.00% | ~37,267 |
 | Imbued Memories | 47.00% | ~37,267 |
 | The Earth's Light | 45.00% | ~35,681 |
-| Shared Recollections | 42.00% | ~33,302 |
-| The Water's Light | 40.00% | ~31,716 |
-| Path of the Sage | 40.00% | ~31,716 |
+| Shared Recollections | 42.00% | ~33,303 |
+| The Water's Light | 40.00% | ~31,717 |
+| Path of the Sage | 40.00% | ~31,717 |
 | Malice Takes Root | 37.00% | ~29,338 |
 | Path of the Dark Knight | 37.00% | ~29,338 |
 | Path of the Paladin | 37.00% | ~29,338 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Strangers' Memories | 3.00% | ~2,379 |
 | A Tale of Origins and Endings | 2.00% | ~1,586 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,291 (Ranked 75)  
+Progressed: 79,292 (Ranked 75)  
 Completed: 2,163 (2.73%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,6 +155,7 @@ Completed: 2,163 (2.73%) (Ranked 72)
 | 2023-07-28 | 79,261 | 2,161 |
 | 2023-07-29 | 79,272 | 2,162 |
 | 2023-07-30 | 79,291 | 2,163 |
+| 2023-07-31 | 79,292 | 2,163 |
 ## Awards
 Max (Great Boss Battles): 761  (Ranked 158)  
 Sum: 1,566 (Ranked 213)  

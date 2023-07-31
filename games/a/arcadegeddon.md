@@ -6,31 +6,31 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~7,543 |
-| Photogenic | 88.00% | ~7,294 |
+| Let's Get This Party Started | 91.00% | ~7,544 |
+| Photogenic | 88.00% | ~7,295 |
 | Surge Gauntlet Jockey | 85.00% | ~7,046 |
-| Plug It In | 84.00% | ~6,963 |
-| Adventure Time | 80.00% | ~6,631 |
-| Playing With Power | 78.00% | ~6,465 |
+| Plug It In | 84.00% | ~6,964 |
+| Adventure Time | 80.00% | ~6,632 |
+| Playing With Power | 78.00% | ~6,466 |
 | Coup d'Etat | 59.00% | ~4,891 |
 | You're Fired | 58.00% | ~4,808 |
 | Get Furious | 56.00% | ~4,642 |
-| Gunplay And Cosplay | 55.00% | ~4,559 |
-| Hacks In Stacks | 55.00% | ~4,559 |
+| Gunplay And Cosplay | 55.00% | ~4,560 |
+| Hacks In Stacks | 55.00% | ~4,560 |
 | Meching Enemies | 49.00% | ~4,062 |
-| Ticket Toddler | 44.00% | ~3,647 |
-| Booty Bashing | 41.00% | ~3,398 |
+| Ticket Toddler | 44.00% | ~3,648 |
+| Booty Bashing | 41.00% | ~3,399 |
 | Field Medic | 38.00% | ~3,150 |
 | Here Comes a New Challenger | 38.00% | ~3,150 |
-| Rapid Response | 33.00% | ~2,735 |
+| Rapid Response | 33.00% | ~2,736 |
 | Surge Ahead | 31.00% | ~2,570 |
 | The Full Monty | 31.00% | ~2,570 |
 | Guardian Angel | 29.00% | ~2,404 |
 | Poppin Noggins | 25.00% | ~2,072 |
 | Clips and Crits | 20.00% | ~1,658 |
 | Grey Goo | 18.00% | ~1,492 |
-| Boss of Bosses | 15.00% | ~1,243 |
-| The Final Blow | 14.00% | ~1,160 |
+| Boss of Bosses | 15.00% | ~1,244 |
+| The Final Blow | 14.00% | ~1,161 |
 | To Be Continued | 13.00% | ~1,078 |
 | Light My Fire | 12.00% | ~995 |
 | Seasoned Adventurer | 12.00% | ~995 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~33 |
 | Pyrotechnical | 0.20% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,289 (Ranked 125)  
+Progressed: 8,290 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,6 +159,7 @@ Completed: 0 (0.00%) (Ranked 246)
 | 2023-07-28 | 8,214 | 0 |
 | 2023-07-29 | 8,257 | 0 |
 | 2023-07-30 | 8,289 | 0 |
+| 2023-07-31 | 8,290 | 0 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 386)  
 Sum: 454 (Ranked 304)  

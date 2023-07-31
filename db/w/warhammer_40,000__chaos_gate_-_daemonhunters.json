@@ -3176,9 +3176,9 @@
       "ID": "SacristaCompleted",
       "SetID": "3jha1np",
       "Name": "Long Distance Call",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "SkilledKnight",
@@ -3294,8 +3294,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-30T00:00:03.0070741+00:00",
-  "LastChanged_Achievements": "2023-07-30T23:04:49.7497269+00:00",
+  "LastChanged_Achievements": "2023-07-31T00:04:43.9086477+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:36.2653351+00:00",
-  "LastUpdate_Ratings": "2023-07-30T22:59:59.0336406+00:00",
-  "LastUpdate_Achievements": "2023-07-30T23:04:49.749832+00:00"
+  "LastUpdate_Ratings": "2023-07-30T23:59:51.1445488+00:00",
+  "LastUpdate_Achievements": "2023-07-31T00:04:43.9087899+00:00"
 }

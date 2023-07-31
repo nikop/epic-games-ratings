@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -1033,9 +1033,9 @@
       "ID": "BearRum",
       "SetID": "db30heh",
       "Name": "Ready for Bed",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     },
     {
       "ID": "BearSword",
@@ -1049,9 +1049,9 @@
       "ID": "BeggarWomanCoin",
       "SetID": "db30heh",
       "Name": "Alms",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 250
+      "UsersEstimate": 253
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -1097,9 +1097,9 @@
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 192
+      "UsersEstimate": 195
     },
     {
       "ID": "Drunkard",
@@ -1129,9 +1129,9 @@
       "ID": "DwarfHobo",
       "SetID": "db30heh",
       "Name": "Funny Hobo",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "FerrymanBird",
@@ -1193,17 +1193,17 @@
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 113
     },
     {
       "ID": "PriestBroom",
       "SetID": "db30heh",
       "Name": "Chastisement",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "PriestPistol",
@@ -1217,9 +1217,9 @@
       "ID": "PriestPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Zonked",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "PriestRogue",
@@ -1265,9 +1265,9 @@
       "ID": "RogueEat",
       "SetID": "db30heh",
       "Name": "Debt Free",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 258
     },
     {
       "ID": "RogueKing",
@@ -1289,9 +1289,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 220
+      "UsersEstimate": 223
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -1352,8 +1352,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-30T23:07:03.1059869+00:00",
+  "LastChanged_Achievements": "2023-07-31T00:06:44.4051857+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-30T22:57:27.9753299+00:00",
-  "LastUpdate_Achievements": "2023-07-30T23:07:03.1060275+00:00"
+  "LastUpdate_Ratings": "2023-07-30T23:57:38.1452101+00:00",
+  "LastUpdate_Achievements": "2023-07-31T00:06:44.405227+00:00"
 }

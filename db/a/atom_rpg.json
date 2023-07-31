@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -2013,9 +2013,9 @@
       "ID": "EARLY_ACCESS_1",
       "SetID": "bf13m8j",
       "Name": "Atom Agent",
-      "Percentage": 98,
+      "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1081
     },
     {
       "ID": "EXPERT_1",
@@ -2253,8 +2253,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-30T23:04:21.6843177+00:00",
+  "LastChanged_Achievements": "2023-07-31T00:04:18.2312469+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:04.0177394+00:00",
-  "LastUpdate_Ratings": "2023-07-30T23:01:46.7875294+00:00",
-  "LastUpdate_Achievements": "2023-07-30T23:04:21.6843576+00:00"
+  "LastUpdate_Ratings": "2023-07-31T00:01:27.2391781+00:00",
+  "LastUpdate_Achievements": "2023-07-31T00:04:18.2313659+00:00"
 }

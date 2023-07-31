@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3205,
+  "EOS_Progressed": 3206,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3711,6 +3711,11 @@
       "Time": "2023-07-30T23:03:06.5658574+00:00",
       "NumProgressed": 3205,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-31T00:02:21.0402562+00:00",
+      "NumProgressed": 3206,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3762,7 +3767,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "CrowdPleaser",
@@ -3914,7 +3919,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -3930,7 +3935,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -3994,7 +3999,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "TheStuffOfLegends",
@@ -4057,15 +4062,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3205,
+      "Progressed": 3206,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-30T23:03:06.5658568+00:00",
+  "LastChanged_Achievements": "2023-07-31T00:02:21.0402557+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.443387+00:00",
-  "LastUpdate_Ratings": "2023-07-30T22:58:51.2158494+00:00",
-  "LastUpdate_Achievements": "2023-07-30T23:03:06.5659428+00:00"
+  "LastUpdate_Ratings": "2023-07-30T23:58:52.2326312+00:00",
+  "LastUpdate_Achievements": "2023-07-31T00:02:21.0403943+00:00"
 }

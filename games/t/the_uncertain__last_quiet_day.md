@@ -16,9 +16,9 @@
 | There is another way | 23.00% | ~119 |
 | Sysadmin | 21.00% | ~108 |
 | Annoying | 20.00% | ~103 |
+| Hacker | 20.00% | ~103 |
 | The Walking Robot Among Us | 20.00% | ~103 |
 | Every little helps | 19.00% | ~98 |
-| Hacker | 19.00% | ~98 |
 | He is just a child | 19.00% | ~98 |
 | Uncertain | 18.00% | ~93 |
 | Concrete painting | 17.00% | ~88 |

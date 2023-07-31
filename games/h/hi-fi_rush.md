@@ -12,7 +12,6 @@ Rating: 4.87 (Ranked 24)
 | Thanks for the free chip, Peppermint! | 4.00% | ~146 |
 | Who put gears in there? | 4.00% | ~146 |
 | This will cost you big time | 3.00% | ~109 |
-| Time to pay up! | 3.00% | ~109 |
 | I play my own way! | 3.00% | ~109 |
 | Whoa! There's ANOTHER health bar!? | 3.00% | ~109 |
 | You got this, Peppermint? | 3.00% | ~109 |
@@ -26,6 +25,7 @@ Rating: 4.87 (Ranked 24)
 | NOW we got a kickass hideout! | 3.00% | ~65 |
 | The Negotiator | 2.00% | ~73 |
 | Headliner | 2.00% | ~73 |
+| Time to pay up! | 2.00% | ~73 |
 | Who's the boss now? | 2.00% | ~73 |
 | I have to read these things? | 2.00% | ~73 |
 | You must like calling me in, Chai | 2.00% | ~73 |
@@ -37,8 +37,8 @@ Rating: 4.87 (Ranked 24)
 | There's such a thing as TOO helpful | 1.00% | ~36 |
 | Chip-tuned | 0.80% | ~29 |
 | Wanna hear my playlist? | 0.80% | ~29 |
-| I told you I'd be fine, Peppermint! | 0.70% | ~25 |
-| Check out my moves! | 0.70% | ~25 |
+| I told you I'd be fine, Peppermint! | 0.70% | ~26 |
+| Check out my moves! | 0.70% | ~26 |
 | Call me Turbo Chai | 0.70% | ~15 |
 | I think I deserve some praise, here! | 0.50% | ~18 |
 | I think I found your calling, Macaron | 0.50% | ~18 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,640 (Ranked 146)  
+Progressed: 3,643 (Ranked 146)  
 Completed: 6 (0.16%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,6 +177,7 @@ Completed: 6 (0.16%) (Ranked 179)
 | 2023-07-28 | 3,610 | 6 |
 | 2023-07-29 | 3,627 | 6 |
 | 2023-07-30 | 3,640 | 6 |
+| 2023-07-31 | 3,643 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

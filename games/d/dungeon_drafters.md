@@ -11,8 +11,8 @@
 | Shine! | 29.00% | ~21 |
 | Setting Off | 27.00% | ~20 |
 | Clear as Water | 25.00% | ~18 |
+| Card Collector | 23.00% | ~17 |
 | Riddlesolver | 22.00% | ~16 |
-| Card Collector | 22.00% | ~16 |
 | Dungeon Mastery | 19.00% | ~14 |
 | The Steed | 11.00% | ~8 |
 | A Strange Proposition | 11.00% | ~8 |

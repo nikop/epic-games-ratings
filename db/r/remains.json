@@ -2,9 +2,9 @@
   "ID": "e9f8d704869e4bd1a2d4e065c8c86f6e",
   "Name": "Remains",
   "ProductSlug": "remains-dcb937",
-  "Ranking_EOS_Progress": 361,
-  "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_Progress": 359,
+  "Ranking_EOS_Completed": 22,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-03T17:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 47,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.87,
+  "EOS_Completed_Percentage": 10.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:43.8172131+00:00",
@@ -266,6 +266,11 @@
       "Time": "2023-07-26T05:06:13.8982968+00:00",
       "NumProgressed": 46,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-31T00:07:45.0805984+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 7,
@@ -277,13 +282,13 @@
       "Name": "Garbage collector",
       "Percentage": 98,
       "XP": 90,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Achievement_IAmSpeed",
       "SetID": "436h0ek",
       "Name": "I am speed!",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 200,
       "UsersEstimate": 23
     },
@@ -307,7 +312,7 @@
       "ID": "Achievement_OmNomNom",
       "SetID": "436h0ek",
       "Name": "Om nom nom",
-      "Percentage": 74,
+      "Percentage": 72,
       "XP": 200,
       "UsersEstimate": 34
     },
@@ -315,7 +320,7 @@
       "ID": "Achievement_RepairMaster",
       "SetID": "436h0ek",
       "Name": "Repair master",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 200,
       "UsersEstimate": 28
     },
@@ -325,21 +330,21 @@
       "Name": "Welcome",
       "Percentage": 100,
       "XP": 90,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "436h0ek",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-05-07T09:59:54.1262097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:43.8172139+00:00",
-  "LastChanged_Achievements": "2023-07-30T23:07:54.5090073+00:00",
+  "LastChanged_Achievements": "2023-07-31T00:07:45.0805977+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:05.3118419+00:00",
-  "LastUpdate_Ratings": "2023-07-30T22:59:17.4936738+00:00",
-  "LastUpdate_Achievements": "2023-07-30T23:07:54.5090282+00:00"
+  "LastUpdate_Ratings": "2023-07-30T23:59:11.8596529+00:00",
+  "LastUpdate_Achievements": "2023-07-31T00:07:45.0806184+00:00"
 }

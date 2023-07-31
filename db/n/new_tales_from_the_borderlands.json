@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3529,
+  "EOS_Progressed": 3530,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -983,6 +983,11 @@
       "Time": "2023-07-30T23:04:10.6960455+00:00",
       "NumProgressed": 3529,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-31T00:04:08.2623137+00:00",
+      "NumProgressed": 3530,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -994,7 +999,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -1090,7 +1095,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -1098,7 +1103,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -1106,7 +1111,7 @@
       "Name": "We\u0027re In",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -1114,7 +1119,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1201,7 +1206,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3529,
+      "Progressed": 3530,
       "Completed": 0
     }
   ],
@@ -1209,8 +1214,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-30T23:04:10.6960446+00:00",
+  "LastChanged_Achievements": "2023-07-31T00:04:08.2623131+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:07.7078521+00:00",
-  "LastUpdate_Ratings": "2023-07-30T23:00:50.6494384+00:00",
-  "LastUpdate_Achievements": "2023-07-30T23:04:10.6960729+00:00"
+  "LastUpdate_Ratings": "2023-07-31T00:00:37.6500589+00:00",
+  "LastUpdate_Achievements": "2023-07-31T00:04:08.2623418+00:00"
 }

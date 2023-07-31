@@ -591,9 +591,9 @@
       "ID": "cards_discovered_half",
       "SetID": "3b8n56h",
       "Name": "Card Collector",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "demiurge_defeated",
@@ -696,8 +696,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-07-30T23:04:06.84483+00:00",
+  "LastChanged_Achievements": "2023-07-31T00:04:04.8544555+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:59.0527657+00:00",
-  "LastUpdate_Ratings": "2023-07-30T22:58:05.3523658+00:00",
-  "LastUpdate_Achievements": "2023-07-30T23:04:06.844889+00:00"
+  "LastUpdate_Ratings": "2023-07-30T23:58:10.4984073+00:00",
+  "LastUpdate_Achievements": "2023-07-31T00:04:04.854503+00:00"
 }

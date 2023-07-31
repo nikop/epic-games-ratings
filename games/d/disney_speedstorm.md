@@ -17,9 +17,9 @@
 | MASTER | 16.00% | ~485 |
 | ACE BRAWLER | 15.00% | ~455 |
 | TRAINING HARD | 14.00% | ~424 |
+| DEFEAT OUR CHAMPION | 14.00% | ~424 |
 | ACE DEFENDER | 14.00% | ~424 |
 | RELEASE THE KRAKEN | 13.00% | ~394 |
-| DEFEAT OUR CHAMPION | 13.00% | ~394 |
 | FRIENDLY | 13.00% | ~394 |
 | LEGENDARY HERO | 13.00% | ~394 |
 | BE OUR GUEST | 12.00% | ~364 |
@@ -30,7 +30,7 @@
 | FRAMED! | 5.00% | ~152 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,032 (Ranked 155)  
-Completed: 120 (3.96%) (Ranked 53)  
+Completed: 120 (3.96%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,12 +2,12 @@
   "ID": "conanexiles",
   "Name": "Conan Exiles",
   "ProductSlug": "conan-exiles",
-  "Ranking_Rating": 481,
+  "Ranking_Rating": 494,
   "Ranking_Popularity": 127,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-11-23T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "NumberOfRatings": 1374,
   "RatingHistory": [
     {
@@ -5287,6 +5287,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 9518,
       "NumberOfAwardsMax": 1357
+    },
+    {
+      "Time": "2023-07-31T00:01:33.8129827+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9518,
+      "NumberOfAwardsMax": 1357
     }
   ],
   "ReviewsDisabled": false,
@@ -5360,8 +5366,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2023-07-30T18:01:54.5890853+00:00",
+  "LastChanged": "2023-07-31T00:01:33.8129825+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:10.0517587+00:00",
-  "LastUpdate_Ratings": "2023-07-30T23:01:53.4207708+00:00",
-  "LastUpdate_Achievements": "2023-07-30T23:06:37.9381887+00:00"
+  "LastUpdate_Ratings": "2023-07-31T00:01:33.8129832+00:00",
+  "LastUpdate_Achievements": "2023-07-31T00:06:21.4450077+00:00"
 }

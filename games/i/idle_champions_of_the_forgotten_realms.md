@@ -15,9 +15,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Lives! | 0.90% | ~1,652 |
 | Rock and Roll | 0.90% | ~1,652 |
 | Flight of the Kindori Pod | 0.80% | ~1,468 |
-| Tall Tales | 0.70% | ~1,284 |
-| Vecna Loots! | 0.70% | ~1,284 |
-| Topolah's Tower | 0.70% | ~1,284 |
+| Tall Tales | 0.70% | ~1,285 |
+| Vecna Loots! | 0.70% | ~1,285 |
+| Topolah's Tower | 0.70% | ~1,285 |
 | Pros and CONs | 0.60% | ~1,303 |
 | Wet Feet | 0.60% | ~1,303 |
 | Seeds of Destruction | 0.60% | ~1,101 |
@@ -40,6 +40,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.50% | ~1,086 |
 | The Mists of Ravenloft | 0.50% | ~1,086 |
 | The Dinner Party | 0.50% | ~1,086 |
+| The Botched Kidnapping | 0.50% | ~1,086 |
 | The Mad Wizard | 0.50% | ~1,086 |
 | Not That Type of Helm! | 0.50% | ~918 |
 | Calcryx Tricks | 0.50% | ~918 |
@@ -56,27 +57,27 @@ Number of Ratings: 9,041  (23.09.2022)
 | March of the Undead | 0.40% | ~869 |
 | Invisible Shadows | 0.40% | ~869 |
 | Family Entanglements | 0.40% | ~869 |
-| The Botched Kidnapping | 0.40% | ~869 |
 | The Cursed Farmer | 0.40% | ~869 |
 | Luigi After Hours | 0.40% | ~734 |
 | Electric Mayhem | 0.40% | ~734 |
 | Animated Giff | 0.40% | ~734 |
 | Upholding the Law | 0.30% | ~652 |
-| Nightmare Rats! | 0.30% | ~550 |
-| Hither of the Feywild | 0.30% | ~550 |
-| The Prince of a Thousand Enemies | 0.30% | ~550 |
-| Downfall | 0.30% | ~550 |
-| Speeds of Destruction | 0.30% | ~550 |
-| Owlbear Necessities | 0.30% | ~550 |
-| Best Thay Ever | 0.30% | ~550 |
-| Well Equipped | 0.30% | ~550 |
-| The Castle of a Thousand Vecnas | 0.30% | ~550 |
-| Who Lurks Below? | 0.30% | ~550 |
-| Xanathaaaaaaar! | 0.30% | ~550 |
+| Nightmare Rats! | 0.30% | ~551 |
+| Hither of the Feywild | 0.30% | ~551 |
+| The Prince of a Thousand Enemies | 0.30% | ~551 |
+| Downfall | 0.30% | ~551 |
+| Slack-jawed Lorna | 0.30% | ~551 |
+| Speeds of Destruction | 0.30% | ~551 |
+| Owlbear Necessities | 0.30% | ~551 |
+| Best Thay Ever | 0.30% | ~551 |
+| Well Equipped | 0.30% | ~551 |
+| The Castle of a Thousand Vecnas | 0.30% | ~551 |
+| Who Lurks Below? | 0.30% | ~551 |
+| Xanathaaaaaaar! | 0.30% | ~551 |
 | Homecoming | 0.30% | ~652 |
 | The Lost Heir of Omu | 0.30% | ~652 |
-| No One Can Hear You Scream | 0.30% | ~550 |
-| Welcome to the Rock | 0.30% | ~550 |
+| No One Can Hear You Scream | 0.30% | ~551 |
+| Welcome to the Rock | 0.30% | ~551 |
 | The Forbidden City | 0.30% | ~652 |
 | Captured! | 0.30% | ~652 |
 | Force Grey Unleashed | 0.30% | ~652 |
@@ -99,7 +100,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.30% | ~652 |
 | The Contagious Curse | 0.30% | ~652 |
 | Escort to Waterdeep | 0.30% | ~652 |
-| The Giant's Bane Tavern | 0.30% | ~550 |
+| The Giant's Bane Tavern | 0.30% | ~551 |
 | Waterdeep Detours | 0.30% | ~652 |
 | Lost in the Deep | 0.30% | ~652 |
 | Easily Distracted | 0.30% | ~652 |
@@ -108,10 +109,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.30% | ~652 |
 | Pure Energy | 0.30% | ~652 |
 | The Templar's Camp | 0.30% | ~652 |
-| Willing to Sacrifice | 0.30% | ~550 |
-| Devilishly Cold | 0.30% | ~550 |
-| Tiny Treaty | 0.30% | ~550 |
-| 3,720 to 1 | 0.30% | ~550 |
+| Willing to Sacrifice | 0.30% | ~551 |
+| Devilishly Cold | 0.30% | ~551 |
+| Tiny Treaty | 0.30% | ~551 |
+| 3,720 to 1 | 0.30% | ~551 |
 | Starving in the Jungle | 0.20% | ~434 |
 | Cold as Ice | 0.20% | ~367 |
 | Friends and Foes | 0.20% | ~367 |
@@ -121,7 +122,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Spire of Iriolarthas | 0.20% | ~367 |
 | The Fall of Ythryn | 0.20% | ~367 |
 | A Lesson in Classes | 0.20% | ~367 |
-| Slack-jawed Lorna | 0.20% | ~367 |
 | The Fairy Rings of Thither | 0.20% | ~367 |
 | Bully for You! | 0.20% | ~367 |
 | Will of the Feywild | 0.20% | ~367 |
@@ -188,6 +188,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Into The Fire | 0.20% | ~367 |
 | Dreamscape | 0.20% | ~367 |
 | The Path of Dreams | 0.20% | ~367 |
+| The Lost Hollyphant | 0.20% | ~367 |
 | The Everlasting Rime | 0.20% | ~367 |
 | Close Escort | 0.20% | ~434 |
 | Constant Banditry | 0.20% | ~434 |
@@ -408,7 +409,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Redcaps | 0.10% | ~184 |
 | The Path of Trials | 0.10% | ~184 |
 | Bad Odds in Avernus | 0.10% | ~184 |
-| The Lost Hollyphant | 0.10% | ~184 |
 | Zapper Overload | 0.10% | ~184 |
 | Best Friend Search Squad! | 0.10% | ~184 |
 | An Even Worse Time in Avernus | 0.10% | ~184 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,226 (Ranked 53)  
+Progressed: 217,237 (Ranked 53)  
 Completed: 2,137 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,6 +621,7 @@ Completed: 2,137 (0.98%) (Ranked 112)
 | 2023-07-28 | 216,508 | 2,133 |
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
+| 2023-07-31 | 217,237 | 2,137 |
 ## Awards
 Max (Diverse Characters): 5,100  (Ranked 67)  
 Sum: 30,813 (Ranked 38)  

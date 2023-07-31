@@ -249,9 +249,9 @@
       "ID": "GT_ACH_START",
       "SetID": "883j7b4",
       "Name": "Get lost!",
-      "Percentage": 90,
+      "Percentage": 92,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     }
   ],
   "AchievementSets": [
@@ -266,8 +266,8 @@
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "LastChanged_Achievements": "2023-07-30T23:05:05.547983+00:00",
+  "LastChanged_Achievements": "2023-07-31T00:04:57.6297431+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:11.0402415+00:00",
-  "LastUpdate_Ratings": "2023-07-30T23:00:53.4417173+00:00",
-  "LastUpdate_Achievements": "2023-07-30T23:05:05.5479959+00:00"
+  "LastUpdate_Ratings": "2023-07-31T00:00:41.9698856+00:00",
+  "LastUpdate_Achievements": "2023-07-31T00:04:57.6297536+00:00"
 }

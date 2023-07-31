@@ -4,10 +4,10 @@
   "ProductSlug": "offworld-trading-company",
   "Ranking_Rating": 786,
   "Ranking_Popularity": 417,
-  "Ranking_PopularitySum": 347,
+  "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-02-27T15:00:00+00:00",
@@ -676,10 +676,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 268,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-07-31T00:00:14.2060133+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 269,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 268,
+  "NumberOfAwards": 269,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -705,7 +711,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Challenging Combat",
@@ -743,8 +749,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2023-07-27T14:00:15.5764487+00:00",
+  "LastChanged": "2023-07-31T00:00:14.2060131+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:54.3750631+00:00",
-  "LastUpdate_Ratings": "2023-07-30T23:00:22.5544497+00:00",
-  "LastUpdate_Achievements": "2023-07-30T23:03:18.9267543+00:00"
+  "LastUpdate_Ratings": "2023-07-31T00:00:14.2060137+00:00",
+  "LastUpdate_Achievements": "2023-07-31T00:03:11.5896567+00:00"
 }

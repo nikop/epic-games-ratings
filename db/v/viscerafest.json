@@ -4,7 +4,7 @@
   "ProductSlug": "viscerafest",
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-05-20T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:46.5975588+00:00",
   "LastChanged": "2023-03-31T05:57:46.5975589+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:36.0580323+00:00",
-  "LastUpdate_Ratings": "2023-07-30T23:01:19.1550972+00:00",
-  "LastUpdate_Achievements": "2023-07-30T23:03:54.433389+00:00"
+  "LastUpdate_Ratings": "2023-07-31T00:01:03.3097255+00:00",
+  "LastUpdate_Achievements": "2023-07-31T00:03:43.3028081+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -575,9 +575,9 @@
       "ID": "HACKER",
       "SetID": "2iigf77",
       "Name": "Hacker",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 103
     },
     {
       "ID": "HANDS_UP",
@@ -760,8 +760,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-07-30T23:02:29.2404071+00:00",
+  "LastChanged_Achievements": "2023-07-31T00:02:05.8502611+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:36.5503642+00:00",
-  "LastUpdate_Ratings": "2023-07-30T22:59:59.5898795+00:00",
-  "LastUpdate_Achievements": "2023-07-30T23:02:29.2404545+00:00"
+  "LastUpdate_Ratings": "2023-07-30T23:59:51.6335814+00:00",
+  "LastUpdate_Achievements": "2023-07-31T00:02:05.8502897+00:00"
 }
