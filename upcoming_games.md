@@ -6,6 +6,7 @@
 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 2023-08-02 | - |  | - | - |
 | [Towerful](games/5/5b453822aeeb42a2a7472eeaadda459a.md) | 2023-08-03 | - |  | - | - |
 | [Neon Noodles - Cyberpunk Kitchen Automation](games/e/e43864d9ce5b4ac3927a289c6d977650.md) | 2023-08-03 | 19 (1,000 XP) | 1 | - | - |
+| [Lifespace Traveler](games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 2023-08-03 | 13 (1,000 XP) | 1 | - | - |
 | [Mixing Ammos](games/2/23047faee0134ed3bb4c8d71857c567b.md) | 2023-08-04 | - |  | - | - |
 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 2023-08-04 | - |  | - | - |
 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 2023-08-08 | - |  | - | - |
@@ -60,7 +61,6 @@
 | [Dungeons and Bombs](games/d/dungeons_and_bombs.md) | 2023-09-30 | - |  | - | - |
 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-30 | - |  | - | - |
 | [Iron Dungeon](games/i/iron_dungeon.md) | 2023-09-30 | - |  | - | - |
-| [Lifespace Traveler](games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 2023-09-30 | 13 (1,000 XP) | 1 | - | - |
 | [MidEvil](games/c/c5a7105b5a09460b9bc3bfb9c8e5e719.md) | 2023-09-30 | - |  | - | - |
 | [Millennium Conflict](games/m/millennium_conflict.md) | 2023-09-30 | - |  | - | - |
 | [Molten Horn](games/m/molten_horn.md) | 2023-09-30 | - |  | - | - |
