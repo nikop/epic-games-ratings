@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4879,
+  "EOS_Progressed": 4881,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7536,6 +7536,11 @@
       "Time": "2023-08-01T12:06:47.0752887+00:00",
       "NumProgressed": 4879,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T13:14:35.9529213+00:00",
+      "NumProgressed": 4881,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -7547,7 +7552,7 @@
       "Name": "First Step",
       "Percentage": 39,
       "XP": 45,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "10",
@@ -7603,7 +7608,7 @@
       "Name": "Dense Forest",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1561
+      "UsersEstimate": 1562
     },
     {
       "ID": "3",
@@ -7666,7 +7671,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4879,
+      "Progressed": 4881,
       "Completed": 0
     }
   ],
@@ -7674,8 +7679,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-08-01T12:06:47.075288+00:00",
+  "LastChanged_Achievements": "2023-08-01T13:14:35.9529209+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.1828699+00:00",
-  "LastUpdate_Ratings": "2023-08-01T11:58:26.5426042+00:00",
-  "LastUpdate_Achievements": "2023-08-01T12:06:47.0753651+00:00"
+  "LastUpdate_Ratings": "2023-08-01T13:05:38.4864166+00:00",
+  "LastUpdate_Achievements": "2023-08-01T13:14:35.9529637+00:00"
 }

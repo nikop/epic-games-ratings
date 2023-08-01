@@ -5452,10 +5452,10 @@
       "Count": 3332
     }
   ],
-  "EOS_Progressed": 217624,
+  "EOS_Progressed": 217634,
   "EOS_Completed": 2141,
-  "EOS_NewPlayers": 2260,
-  "EOS_NewCompleters": 40,
+  "EOS_NewPlayers": 2251,
+  "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16532,6 +16532,11 @@
       "Time": "2023-08-01T12:04:29.8453177+00:00",
       "NumProgressed": 217624,
       "NumCompleted": 2141
+    },
+    {
+      "Time": "2023-08-01T13:11:35.4740011+00:00",
+      "NumProgressed": 217634,
+      "NumCompleted": 2141
     }
   ],
   "TotalAchievements": 512,
@@ -16551,7 +16556,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4352
+      "UsersEstimate": 4353
     },
     {
       "ID": "objective_completed_100",
@@ -16567,7 +16572,7 @@
       "Name": "Upholding the Law",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "objective_completed_102",
@@ -16647,7 +16652,7 @@
       "Name": "The Witchlight Carnival",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "objective_completed_1056",
@@ -17191,7 +17196,7 @@
       "Name": "The Evacuation of Waterdeep",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "objective_completed_1159",
@@ -17207,7 +17212,7 @@
       "Name": "On the Hunt",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "objective_completed_1160",
@@ -17327,7 +17332,7 @@
       "Name": "The Dread Domain of Tovag",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "objective_completed_1184",
@@ -17479,7 +17484,7 @@
       "Name": "Homecoming",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "objective_completed_125",
@@ -17783,7 +17788,7 @@
       "Name": "Wisdom Check",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "objective_completed_171",
@@ -17903,7 +17908,7 @@
       "Name": "Invisible Shadows",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "objective_completed_210",
@@ -17927,7 +17932,7 @@
       "Name": "Family Entanglements",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "objective_completed_214",
@@ -18223,7 +18228,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "objective_completed_35",
@@ -18335,7 +18340,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "objective_completed_390",
@@ -18687,7 +18692,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "objective_completed_540",
@@ -19031,7 +19036,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "objective_completed_590",
@@ -19719,7 +19724,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "objective_completed_75",
@@ -19751,7 +19756,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "objective_completed_8",
@@ -19759,7 +19764,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "objective_completed_80",
@@ -20287,7 +20292,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "objective_completed_902",
@@ -20511,7 +20516,7 @@
       "Name": "Not That Type of Helm!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "objective_completed_1327",
@@ -20535,7 +20540,7 @@
       "Name": "Calcryx Tricks",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "objective_completed_593",
@@ -20543,7 +20548,7 @@
       "Name": "Goblin Halls: the Next Generation",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "objective_completed_663",
@@ -20551,7 +20556,7 @@
       "Name": "Bazaar Companions",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "objective_completed_668",
@@ -20559,7 +20564,7 @@
       "Name": "Bahamut\u0027s Army",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "objective_completed_1375",
@@ -20623,7 +20628,7 @@
       "Name": "Krux\u0027s Speed Run",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "objective_completed_1392",
@@ -20638,21 +20643,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183898,
+      "Progressed": 183908,
       "Completed": 3043
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217624,
+      "Progressed": 217634,
       "Completed": 2141
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-01T06:58:55.3799578+00:00",
-  "LastChanged_Achievements": "2023-08-01T12:04:29.845317+00:00",
+  "LastChanged_Achievements": "2023-08-01T13:11:35.4740006+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-01T11:58:33.5718339+00:00",
-  "LastUpdate_Achievements": "2023-08-01T12:04:29.8485125+00:00"
+  "LastUpdate_Ratings": "2023-08-01T13:05:48.4970502+00:00",
+  "LastUpdate_Achievements": "2023-08-01T13:11:35.4766638+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_EOS_Progress": 520,
+  "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 99,
@@ -28,9 +28,18 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "l4abp0",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
+  "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
+  "LastChanged_Achievements": "2023-08-01T13:10:06.4465831+00:00",
   "LastUpdate_AppInfo": "2023-07-25T16:57:14.6680306+00:00",
-  "LastUpdate_Ratings": "2023-08-01T11:57:07.405635+00:00",
-  "LastUpdate_Achievements": "2023-08-01T12:03:23.6948949+00:00"
+  "LastUpdate_Ratings": "2023-08-01T13:03:52.8561911+00:00",
+  "LastUpdate_Achievements": "2023-08-01T13:10:06.4465861+00:00"
 }

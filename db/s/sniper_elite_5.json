@@ -440,7 +440,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3390,
+  "EOS_Progressed": 3391,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -5560,6 +5560,11 @@
       "Time": "2023-08-01T02:10:05.0063007+00:00",
       "NumProgressed": 3390,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-01T13:12:04.9602284+00:00",
+      "NumProgressed": 3391,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5649,9 +5654,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 136
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6138,13 +6143,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3341,
+      "Progressed": 3342,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3390,
+      "Progressed": 3391,
       "Completed": 9
     }
   ],
@@ -6152,8 +6157,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-01T09:57:21.2845993+00:00",
-  "LastChanged_Achievements": "2023-08-01T12:04:52.4616777+00:00",
+  "LastChanged_Achievements": "2023-08-01T13:12:04.9602279+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:23.0951004+00:00",
-  "LastUpdate_Ratings": "2023-08-01T11:57:17.1996326+00:00",
-  "LastUpdate_Achievements": "2023-08-01T12:04:52.4617922+00:00"
+  "LastUpdate_Ratings": "2023-08-01T13:04:06.4867292+00:00",
+  "LastUpdate_Achievements": "2023-08-01T13:12:04.9603065+00:00"
 }

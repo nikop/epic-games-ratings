@@ -6,28 +6,28 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~202,128 |
-| I know the Rules | 39.00% | ~96,134 |
-| Contender | 11.00% | ~27,115 |
-| I Found it! | 9.00% | ~22,185 |
+| Ball Launched | 82.00% | ~202,140 |
+| I know the Rules | 39.00% | ~96,140 |
+| Contender | 11.00% | ~27,116 |
+| I Found it! | 9.00% | ~22,186 |
 | First but not Last | 4.00% | ~9,860 |
 | Ready Steady Score | 3.00% | ~7,395 |
 | Dress Code | 3.00% | ~7,395 |
 | Full Loot Madness | 2.00% | ~4,930 |
 | My Table, my Rules | 1.00% | ~2,465 |
-| Nine Zeroes | 0.90% | ~2,218 |
-| Shiny Memento | 0.30% | ~739 |
-| Pinball Hoarder | 0.30% | ~739 |
-| Interior Designer | 0.30% | ~739 |
-| Table Mastered, part 10 | 0.10% | ~246 |
-| Medal Hunter | 0.10% | ~246 |
-| Medal Wizard | 0.10% | ~246 |
-| Virtual Pinball Museum | 0.10% | ~246 |
-| Challenge Accepted! | 0.10% | ~246 |
-| Relic Hunter | 0.10% | ~246 |
-| Show Them | 0.10% | ~246 |
-| Totally Furnished | 0.10% | ~246 |
-| Customizer | 0.10% | ~246 |
+| Nine Zeroes | 0.90% | ~2,219 |
+| Shiny Memento | 0.30% | ~740 |
+| Pinball Hoarder | 0.30% | ~740 |
+| Interior Designer | 0.30% | ~740 |
+| Table Mastered, part 10 | 0.10% | ~247 |
+| Medal Hunter | 0.10% | ~247 |
+| Medal Wizard | 0.10% | ~247 |
+| Virtual Pinball Museum | 0.10% | ~247 |
+| Challenge Accepted! | 0.10% | ~247 |
+| Relic Hunter | 0.10% | ~247 |
+| Show Them | 0.10% | ~247 |
+| Totally Furnished | 0.10% | ~247 |
+| Customizer | 0.10% | ~247 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
 | Master of Attacks | 0.00% | ~0 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,498 (Ranked 45)  
+Progressed: 246,512 (Ranked 45)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 245,726 | 0 |
 | 2023-07-30 | 246,099 | 0 |
 | 2023-07-31 | 246,358 | 0 |
-| 2023-08-01 | 246,498 | 0 |
+| 2023-08-01 | 246,512 | 0 |
 ## Awards
 Max (Great for Beginners): 182  (Ranked 279)  
 Sum: 1,518 (Ranked 218)  

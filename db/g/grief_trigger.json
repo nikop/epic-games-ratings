@@ -2,7 +2,7 @@
   "ID": "dd9a27d1cbb34485a7cd5b7d7f399269",
   "Name": "Grief Trigger",
   "ProductSlug": "grief-trigger-012a5c",
-  "Ranking_EOS_Progress": 520,
+  "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 99,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-29T04:58:50.4620476+00:00",
-  "LastUpdate_Ratings": "2023-08-01T11:59:15.5101128+00:00",
-  "LastUpdate_Achievements": "2023-08-01T12:06:25.3005618+00:00"
+  "LastUpdate_Ratings": "2023-08-01T13:06:49.6275838+00:00",
+  "LastUpdate_Achievements": "2023-08-01T13:14:06.9456324+00:00"
 }

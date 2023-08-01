@@ -8,31 +8,31 @@
 | Your first fight | 85.00% | ~169 |
 | Good Person Chip | 84.00% | ~167 |
 | First winning | 83.00% | ~165 |
-| Your first job | 82.00% | ~163 |
+| Your first job | 83.00% | ~165 |
 | Old movies enjoyer | 79.00% | ~157 |
 | First defeat | 78.00% | ~155 |
 | Fitness professional | 76.00% | ~151 |
-| Depressed visitor | 75.00% | ~149 |
+| Depressed visitor | 76.00% | ~151 |
 | Neurotrainer – power gainer! | 74.00% | ~147 |
 | Employee of the week | 74.00% | ~147 |
 | Your own amateur gym | 73.00% | ~145 |
 | Run K, run! | 69.00% | ~137 |
+| No bullying more | 67.00% | ~133 |
 | Hello, world! | 67.00% | ~133 |
-| No bullying more | 66.00% | ~131 |
 | Fighting is cool | 65.00% | ~129 |
-| Pal of your father? | 62.00% | ~123 |
+| Pal of your father? | 63.00% | ~125 |
 | Employee of the month | 61.00% | ~121 |
 | Spirit of the past | 60.00% | ~119 |
-| Law student | 58.00% | ~115 |
+| Law student | 59.00% | ~117 |
+| Workout professional | 56.00% | ~111 |
 | Little hacker | 56.00% | ~111 |
 | Intriguing candies | 56.00% | ~111 |
-| Workout professional | 55.00% | ~109 |
 | Own four walls | 55.00% | ~109 |
 | Handyman | 54.00% | ~107 |
 | Champion – starter pack | 54.00% | ~107 |
 | It's good to be alive | 54.00% | ~107 |
+| Employee of the year | 53.00% | ~105 |
 | Fight for life | 52.00% | ~103 |
-| Employee of the year | 52.00% | ~103 |
 | Legal courier | 51.00% | ~101 |
 | Extreme neuropower! | 48.00% | ~96 |
 | Escaped from a big trouble | 48.00% | ~96 |
@@ -53,8 +53,8 @@
 | Poisoned fighter | 33.00% | ~66 |
 | The die is cast | 33.00% | ~66 |
 | The last bell ring | 31.00% | ~62 |
+| Gang wrangler | 30.00% | ~60 |
 | Undercover robot | 30.00% | ~60 |
-| Gang wrangler | 29.00% | ~58 |
 | Problems of cyborgs | 29.00% | ~58 |
 | Not little hacker | 29.00% | ~58 |
 | Absolute Champion! | 29.00% | ~58 |

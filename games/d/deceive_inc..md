@@ -5,21 +5,21 @@ Rating: 4.60 (Ranked 390)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~4,954 |
-| Mainframe Hacker | 23.00% | ~3,798 |
-| The Spy who eliminated me | 23.00% | ~3,798 |
-| Tomorrow Never Dyes | 22.00% | ~3,633 |
-| Never Say Loser Again | 19.00% | ~3,138 |
-| From the Vault with Love | 18.00% | ~2,973 |
-| Tailor-Made | 18.00% | ~2,973 |
-| For your Eyes only | 18.00% | ~2,973 |
-| Assistant Accountant | 17.00% | ~2,808 |
-| Fully Decked Out | 17.00% | ~2,808 |
-| You Only Live Twice | 16.00% | ~2,642 |
-| A view to Win | 13.00% | ~2,147 |
-| Private Collection | 12.00% | ~1,982 |
-| Hostile Takeover | 12.00% | ~1,982 |
-| Smells Like Trouble | 12.00% | ~1,982 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~4,957 |
+| Mainframe Hacker | 23.00% | ~3,800 |
+| The Spy who eliminated me | 23.00% | ~3,800 |
+| Tomorrow Never Dyes | 22.00% | ~3,635 |
+| Never Say Loser Again | 19.00% | ~3,139 |
+| From the Vault with Love | 18.00% | ~2,974 |
+| Tailor-Made | 18.00% | ~2,974 |
+| For your Eyes only | 18.00% | ~2,974 |
+| Assistant Accountant | 17.00% | ~2,809 |
+| Fully Decked Out | 17.00% | ~2,809 |
+| You Only Live Twice | 16.00% | ~2,644 |
+| A view to Win | 13.00% | ~2,148 |
+| Private Collection | 12.00% | ~1,983 |
+| Hostile Takeover | 12.00% | ~1,983 |
+| Smells Like Trouble | 12.00% | ~1,983 |
 | Dr. No Kill | 11.00% | ~1,817 |
 | The Living Portrait | 11.00% | ~1,817 |
 | My Motto, My Creed | 11.00% | ~1,817 |
@@ -29,8 +29,8 @@ Rating: 4.60 (Ranked 390)
 | Security Supervisor | 6.00% | ~991 |
 | License to Thrill | 5.00% | ~826 |
 | Social of Solace | 4.00% | ~661 |
-| Live and let lie | 3.00% | ~495 |
-| Safe Withdrawal | 3.00% | ~495 |
+| Live and let lie | 3.00% | ~496 |
+| Safe Withdrawal | 3.00% | ~496 |
 | Call Me Maybe | 2.00% | ~330 |
 | PHD in VIP | 2.00% | ~330 |
 | Branch Manager | 1.00% | ~165 |
@@ -42,7 +42,7 @@ Rating: 4.60 (Ranked 390)
 | Extraction Confusion | 0.20% | ~33 |
 | Spyfall | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,515 (Ranked 110)  
+Progressed: 16,522 (Ranked 110)  
 Completed: 1 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 1 (0.01%) (Ranked 234)
 | 2023-07-29 | 14,228 | 1 |
 | 2023-07-30 | 15,832 | 1 |
 | 2023-07-31 | 16,437 | 1 |
-| 2023-08-01 | 16,515 | 1 |
+| 2023-08-01 | 16,522 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

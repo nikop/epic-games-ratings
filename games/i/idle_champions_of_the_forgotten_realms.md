@@ -8,7 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,705 |
 | Beast Intentions | 3.00% | ~6,529 |
-| Maddening | 2.00% | ~4,352 |
+| Maddening | 2.00% | ~4,353 |
 | The Silken Swamp | 1.00% | ~2,176 |
 | Supply Run | 1.00% | ~2,176 |
 | Rocky Reception | 1.00% | ~1,839 |
@@ -31,12 +31,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.60% | ~1,306 |
 | Unearthed Evil | 0.60% | ~1,306 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,103 |
-| The Witchlight Carnival | 0.50% | ~919 |
+| The Witchlight Carnival | 0.50% | ~920 |
 | Don't Look Up! | 0.50% | ~1,088 |
 | Heavy Burden | 0.50% | ~1,088 |
-| The Evacuation of Waterdeep | 0.50% | ~919 |
+| The Evacuation of Waterdeep | 0.50% | ~920 |
 | Friends of the Forest | 0.50% | ~1,088 |
-| The Dread Domain of Tovag | 0.50% | ~919 |
+| The Dread Domain of Tovag | 0.50% | ~920 |
 | Beast Mode | 0.50% | ~1,088 |
 | Low Initiative | 0.50% | ~1,088 |
 | Street War | 0.50% | ~1,088 |
@@ -47,32 +47,32 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.50% | ~1,088 |
 | The Cursed Farmer | 0.50% | ~1,088 |
 | The Mad Wizard | 0.50% | ~1,088 |
-| Not That Type of Helm! | 0.50% | ~919 |
-| Calcryx Tricks | 0.50% | ~919 |
-| Goblin Halls: the Next Generation | 0.50% | ~919 |
-| Bazaar Companions | 0.50% | ~919 |
-| Bahamut's Army | 0.50% | ~919 |
-| Krux's Speed Run | 0.50% | ~919 |
-| Upholding the Law | 0.40% | ~870 |
+| Not That Type of Helm! | 0.50% | ~920 |
+| Calcryx Tricks | 0.50% | ~920 |
+| Goblin Halls: the Next Generation | 0.50% | ~920 |
+| Bazaar Companions | 0.50% | ~920 |
+| Bahamut's Army | 0.50% | ~920 |
+| Krux's Speed Run | 0.50% | ~920 |
+| Upholding the Law | 0.40% | ~871 |
 | Thieves of the Coven | 0.40% | ~736 |
 | Hither of the Feywild | 0.40% | ~736 |
 | Speeds of Destruction | 0.40% | ~736 |
-| On the Hunt | 0.40% | ~870 |
+| On the Hunt | 0.40% | ~871 |
 | A Demi-god's Defender | 0.40% | ~736 |
-| Homecoming | 0.40% | ~870 |
+| Homecoming | 0.40% | ~871 |
 | No One Can Hear You Scream | 0.40% | ~736 |
 | Welcome to the Rock | 0.40% | ~736 |
-| Wisdom Check | 0.40% | ~870 |
-| Invisible Shadows | 0.40% | ~870 |
-| Family Entanglements | 0.40% | ~870 |
-| The Ring of Regeneration | 0.40% | ~870 |
-| Seeking Allies | 0.40% | ~870 |
-| Exploring Port Nyanzaru | 0.40% | ~870 |
-| Running of the Saurs | 0.40% | ~870 |
-| Waterdeep Detours | 0.40% | ~870 |
-| Underdeep Cartography | 0.40% | ~870 |
-| Friendly Imps | 0.40% | ~870 |
-| Pure Energy | 0.40% | ~870 |
+| Wisdom Check | 0.40% | ~871 |
+| Invisible Shadows | 0.40% | ~871 |
+| Family Entanglements | 0.40% | ~871 |
+| The Ring of Regeneration | 0.40% | ~871 |
+| Seeking Allies | 0.40% | ~871 |
+| Exploring Port Nyanzaru | 0.40% | ~871 |
+| Running of the Saurs | 0.40% | ~871 |
+| Waterdeep Detours | 0.40% | ~871 |
+| Underdeep Cartography | 0.40% | ~871 |
+| Friendly Imps | 0.40% | ~871 |
+| Pure Energy | 0.40% | ~871 |
 | Luigi After Hours | 0.40% | ~736 |
 | Electric Mayhem | 0.40% | ~736 |
 | 3,720 to 1 | 0.40% | ~736 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,624 (Ranked 53)  
+Progressed: 217,634 (Ranked 53)  
 Completed: 2,141 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,7 +622,7 @@ Completed: 2,141 (0.98%) (Ranked 112)
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
-| 2023-08-01 | 217,624 | 2,141 |
+| 2023-08-01 | 217,634 | 2,141 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
 Sum: 30,840 (Ranked 38)  

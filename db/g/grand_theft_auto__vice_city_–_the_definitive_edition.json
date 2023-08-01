@@ -562,9 +562,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 9434,
+  "EOS_Progressed": 9436,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7592,6 +7592,11 @@
       "Time": "2023-08-01T12:04:44.9739508+00:00",
       "NumProgressed": 9434,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-08-01T13:11:55.0207414+00:00",
+      "NumProgressed": 9436,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -7619,7 +7624,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "ACH04",
@@ -7707,7 +7712,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3868
+      "UsersEstimate": 3869
     },
     {
       "ID": "ACH15",
@@ -7763,7 +7768,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4245
+      "UsersEstimate": 4246
     },
     {
       "ID": "ACH22",
@@ -7779,7 +7784,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2358
+      "UsersEstimate": 2359
     },
     {
       "ID": "ACH24",
@@ -7874,7 +7879,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9434,
+      "Progressed": 9436,
       "Completed": 43
     }
   ],
@@ -7882,8 +7887,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-30T11:58:54.8503633+00:00",
-  "LastChanged_Achievements": "2023-08-01T12:04:44.9739502+00:00",
+  "LastChanged_Achievements": "2023-08-01T13:11:55.0207409+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-08-01T11:58:39.3135096+00:00",
-  "LastUpdate_Achievements": "2023-08-01T12:04:44.974054+00:00"
+  "LastUpdate_Ratings": "2023-08-01T13:05:57.5856694+00:00",
+  "LastUpdate_Achievements": "2023-08-01T13:11:55.0207922+00:00"
 }

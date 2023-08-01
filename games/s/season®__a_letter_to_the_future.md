@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Leaver | 82.00% | ~955 |
-| Journal Beautifier | 82.00% | ~955 |
-| Outside World Seer | 65.00% | ~757 |
-| Stranger Encounterer | 40.00% | ~466 |
+| Home Leaver | 82.00% | ~957 |
+| Journal Beautifier | 82.00% | ~957 |
+| Outside World Seer | 65.00% | ~759 |
+| Stranger Encounterer | 40.00% | ~467 |
 | Grey Hands Praxis 101 | 30.00% | ~350 |
-| Deep Listener | 28.00% | ~326 |
+| Deep Listener | 28.00% | ~327 |
 | Music for Cows | 20.00% | ~233 |
-| Emotional Baggage Handler | 19.00% | ~221 |
-| Artist Assistant | 16.00% | ~186 |
-| Dream Listener | 16.00% | ~186 |
-| Tour de Tieng | 15.00% | ~175 |
+| Emotional Baggage Handler | 19.00% | ~222 |
+| Artist Assistant | 16.00% | ~187 |
+| Dream Listener | 16.00% | ~187 |
 | Shrine Arriver | 14.00% | ~163 |
-| Goodbye Tieng Valley | 13.00% | ~151 |
-| The End | 13.00% | ~151 |
-| Love Uncoverer | 10.00% | ~116 |
+| Tour de Tieng | 14.00% | ~163 |
+| Goodbye Tieng Valley | 13.00% | ~152 |
+| The End | 13.00% | ~152 |
+| Love Uncoverer | 10.00% | ~117 |
 | Graffiti Artist | 9.00% | ~105 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,165 (Ranked 187)  
+Progressed: 1,167 (Ranked 187)  
 Completed: 47 (4.03%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,6 +111,7 @@ Completed: 47 (4.03%) (Ranked 53)
 | 2023-07-29 | 1,162 | 46 |
 | 2023-07-30 | 1,163 | 46 |
 | 2023-07-31 | 1,165 | 47 |
+| 2023-08-01 | 1,167 | 47 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

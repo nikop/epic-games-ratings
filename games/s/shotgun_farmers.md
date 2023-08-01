@@ -29,10 +29,10 @@
 | Eggtraordinary | 13.00% | ~31 |
 | Carrocketeer | 13.00% | ~31 |
 | Oh My Gourd | 13.00% | ~24 |
-| Summers Here | 11.00% | ~21 |
+| Summers Here | 12.00% | ~23 |
 | Fresh Pancake | 10.00% | ~24 |
 | Quit Horsin' Around | 10.00% | ~24 |
-| Perfect | 9.00% | ~17 |
+| Perfect | 10.00% | ~19 |
 | Expert Survivor | 9.00% | ~17 |
 | Bring Home The Bacon | 8.00% | ~19 |
 | Quadsparagus | 8.00% | ~15 |

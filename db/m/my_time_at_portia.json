@@ -3,9 +3,9 @@
   "Name": "My Time At Portia",
   "ProductSlug": "my-time-at-portia",
   "Ranking_Rating": 258,
-  "Ranking_Popularity": 104,
+  "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 131,
-  "Ranking_EOS_Progress": 520,
+  "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 99,
@@ -2608,10 +2608,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4777,
       "NumberOfAwardsMax": 2240
+    },
+    {
+      "Time": "2023-08-01T13:08:26.0857503+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4779,
+      "NumberOfAwardsMax": 2240
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4777,
+  "NumberOfAwards": 4779,
   "NumberOfAwardsMax": 2240,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2631,7 +2637,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 285
+      "Count": 287
     },
     {
       "Text": "This game has Easy Combat",
@@ -2705,8 +2711,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
-  "LastChanged": "2023-07-28T15:00:32.3159145+00:00",
+  "LastChanged": "2023-08-01T13:08:26.0857501+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.6916419+00:00",
-  "LastUpdate_Ratings": "2023-08-01T12:00:26.3845969+00:00",
-  "LastUpdate_Achievements": "2023-08-01T12:03:44.7084875+00:00"
+  "LastUpdate_Ratings": "2023-08-01T13:08:26.0857511+00:00",
+  "LastUpdate_Achievements": "2023-08-01T13:10:34.7402878+00:00"
 }

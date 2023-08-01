@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -820,7 +820,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2674,
+  "EOS_Progressed": 2675,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
@@ -3735,6 +3735,11 @@
       "Time": "2023-08-01T08:03:09.7969738+00:00",
       "NumProgressed": 2674,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T13:10:04.2463573+00:00",
+      "NumProgressed": 2675,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3786,7 +3791,7 @@
       "Name": "Cross lock country",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_DIPPED",
@@ -3898,7 +3903,7 @@
       "Name": "Keeping it classy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -3938,7 +3943,7 @@
       "Name": "Many plys later...",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_NAHELL",
@@ -4122,22 +4127,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2674,
+      "Progressed": 2675,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-31T03:00:23.3119663+00:00",
-  "LastChanged_Achievements": "2023-08-01T12:03:22.0073923+00:00",
+  "LastChanged_Achievements": "2023-08-01T13:10:04.2463567+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:59.3777566+00:00",
-  "LastUpdate_Ratings": "2023-08-01T11:59:22.9699249+00:00",
-  "LastUpdate_Achievements": "2023-08-01T12:03:22.007474+00:00"
+  "LastUpdate_Ratings": "2023-08-01T13:07:01.7442864+00:00",
+  "LastUpdate_Achievements": "2023-08-01T13:10:04.2464062+00:00"
 }

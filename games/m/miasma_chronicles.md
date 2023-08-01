@@ -5,36 +5,36 @@ Rating: 4.40 (Ranked 697)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,220 |
-| Ranidaphobia | 77.00% | ~1,021 |
-| Aspiring Editor | 75.00% | ~994 |
-| Gun for Hire | 70.00% | ~928 |
+| First Blood | 92.00% | ~1,221 |
+| Ranidaphobia | 77.00% | ~1,022 |
+| Aspiring Editor | 75.00% | ~995 |
+| Gun for Hire | 70.00% | ~929 |
 | I am the law! | 64.00% | ~849 |
 | Lumberjack | 53.00% | ~703 |
-| Croaked | 48.00% | ~636 |
-| Limp Richard | 48.00% | ~636 |
-| Exorcist | 47.00% | ~623 |
-| From Darkness to Light | 47.00% | ~623 |
+| Croaked | 48.00% | ~637 |
+| Limp Richard | 48.00% | ~637 |
+| Exorcist | 47.00% | ~624 |
+| From Darkness to Light | 47.00% | ~624 |
 | Editor Adept | 46.00% | ~610 |
-| Giant Killer | 44.00% | ~583 |
+| Giant Killer | 44.00% | ~584 |
 | Sensei | 42.00% | ~557 |
 | Firestarter | 41.00% | ~544 |
 | The meaning of Kain | 41.00% | ~544 |
-| Technophobe | 39.00% | ~517 |
+| Technophobe | 39.00% | ~518 |
 | Recycler | 37.00% | ~491 |
 | Are you not entertained? | 33.00% | ~438 |
 | Ganglord | 33.00% | ~438 |
 | Jarhead | 33.00% | ~438 |
-| Infiltrator | 32.00% | ~424 |
+| Infiltrator | 32.00% | ~425 |
 | Pushing Daisy | 30.00% | ~398 |
 | Experienced | 29.00% | ~385 |
-| Hold The Line | 28.00% | ~371 |
+| Hold The Line | 28.00% | ~372 |
 | Endgame | 25.00% | ~332 |
 | Savior | 25.00% | ~332 |
 | There Can Be Only One! | 25.00% | ~332 |
 | Chain Killer | 22.00% | ~292 |
-| The Watchers | 21.00% | ~278 |
-| Silent but Violent | 17.00% | ~225 |
+| The Watchers | 21.00% | ~279 |
+| Silent but Violent | 17.00% | ~226 |
 | Commando | 16.00% | ~212 |
 | Newtonian Knockout | 16.00% | ~212 |
 | Chaos Theory | 15.00% | ~199 |
@@ -57,7 +57,7 @@ Rating: 4.40 (Ranked 697)
 | QA Has Suffered! (Redux) | 0.80% | ~11 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,326 (Ranked 183)  
+Progressed: 1,327 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 1,311 | 0 |
 | 2023-07-30 | 1,321 | 0 |
 | 2023-07-31 | 1,325 | 0 |
-| 2023-08-01 | 1,326 | 0 |
+| 2023-08-01 | 1,327 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

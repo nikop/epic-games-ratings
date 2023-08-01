@@ -29,10 +29,10 @@ Rating: 4.87 (Ranked 24)
 | NOW we got a kickass hideout! | 3.00% | ~65 |
 | Well that was a rush! | 2.00% | ~73 |
 | I have to read these things? | 2.00% | ~73 |
+| Beat-hit mania | 2.00% | ~73 |
 | You must like calling me in, Chai | 2.00% | ~73 |
 | Perfecter Parry-er! | 2.00% | ~73 |
 | I look cool. But I can look COOLER. | 2.00% | ~73 |
-| Beat-hit mania | 1.00% | ~37 |
 | That's a lot of junk metal… | 1.00% | ~37 |
 | There's such a thing as TOO helpful | 1.00% | ~37 |
 | Chip-tuned | 0.90% | ~33 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -834,9 +834,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6271,
+  "EOS_Progressed": 6272,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4609,6 +4609,11 @@
       "Time": "2023-08-01T12:03:26.4038468+00:00",
       "NumProgressed": 6271,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T13:10:09.9534756+00:00",
+      "NumProgressed": 6272,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -4724,7 +4729,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4954
+      "UsersEstimate": 4955
     },
     {
       "ID": "First_Race_Met",
@@ -4732,7 +4737,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4578
+      "UsersEstimate": 4579
     },
     {
       "ID": "First_Ship_Designed",
@@ -4756,7 +4761,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4891
+      "UsersEstimate": 4892
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -4940,7 +4945,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3888
+      "UsersEstimate": 3889
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -5195,15 +5200,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6271,
+      "Progressed": 6272,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-07-30T08:58:20.2585485+00:00",
-  "LastChanged_Achievements": "2023-08-01T12:03:26.4038461+00:00",
+  "LastChanged_Achievements": "2023-08-01T13:10:09.9534752+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:11.8834524+00:00",
-  "LastUpdate_Ratings": "2023-08-01T11:57:58.6976567+00:00",
-  "LastUpdate_Achievements": "2023-08-01T12:03:26.4039682+00:00"
+  "LastUpdate_Ratings": "2023-08-01T13:04:59.8819245+00:00",
+  "LastUpdate_Achievements": "2023-08-01T13:10:09.9535494+00:00"
 }

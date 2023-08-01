@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3042,
+  "EOS_Progressed": 3043,
   "EOS_Completed": 126,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 4.14,
   "EosHistory": [
@@ -3945,6 +3945,11 @@
       "Time": "2023-08-01T12:06:18.62624+00:00",
       "NumProgressed": 3042,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2023-08-01T13:13:57.96054+00:00",
+      "NumProgressed": 3043,
+      "NumCompleted": 126
     }
   ],
   "TotalAchievements": 24,
@@ -3956,7 +3961,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "10",
@@ -4012,7 +4017,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "17",
@@ -4052,7 +4057,7 @@
       "Name": "PROTECTED",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "21",
@@ -4092,7 +4097,7 @@
       "Name": "FRIENDLY",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "4",
@@ -4108,7 +4113,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "6",
@@ -4116,15 +4121,15 @@
       "Name": "PRO",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "7",
       "SetID": "9p3jgda",
       "Name": "MASTER",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 65,
-      "UsersEstimate": 517
+      "UsersEstimate": 487
     },
     {
       "ID": "8",
@@ -4147,13 +4152,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3042,
+      "Progressed": 3043,
       "Completed": 126
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-01T12:06:18.6262393+00:00",
+  "LastChanged_Achievements": "2023-08-01T13:13:57.9605396+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:49.7326864+00:00",
-  "LastUpdate_Ratings": "2023-08-01T11:59:14.0207378+00:00",
-  "LastUpdate_Achievements": "2023-08-01T12:06:18.6262785+00:00"
+  "LastUpdate_Ratings": "2023-08-01T13:06:47.5174814+00:00",
+  "LastUpdate_Achievements": "2023-08-01T13:13:57.9605711+00:00"
 }

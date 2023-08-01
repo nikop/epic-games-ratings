@@ -12,7 +12,7 @@
 | Transmission | 9.00% | ~217 |
 | The will to move on | 8.00% | ~193 |
 | Reunion | 8.00% | ~193 |
-| The end | 6.00% | ~145 |
+| The end | 7.00% | ~169 |
 | Sliders | 3.00% | ~72 |
 | Sheltered by the fallen tree | 2.00% | ~48 |
 | Snow-covered ruins | 0.40% | ~10 |

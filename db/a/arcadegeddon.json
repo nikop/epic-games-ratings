@@ -763,9 +763,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 8327,
+  "EOS_Progressed": 8328,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6913,6 +6913,11 @@
       "Time": "2023-08-01T12:06:29.6516633+00:00",
       "NumProgressed": 8327,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T13:14:12.8578733+00:00",
+      "NumProgressed": 8328,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -6948,7 +6953,7 @@
       "Name": "Clips and Crits",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "ACH_COUP_DETAT",
@@ -6956,7 +6961,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 4913
+      "UsersEstimate": 4914
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -6980,7 +6985,7 @@
       "Name": "Field Medic",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "ACH_GET_FURIOUS",
@@ -6988,7 +6993,7 @@
       "Name": "Get Furious",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 4663
+      "UsersEstimate": 4664
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -6996,7 +7001,7 @@
       "Name": "Get In The Ring!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "ACH_GREY_GOO",
@@ -7044,7 +7049,7 @@
       "Name": "Here Comes a New Challenger",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "ACH_IM_THE_PLUGGERNAUT",
@@ -7092,7 +7097,7 @@
       "Name": "Meching Enemies",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 4080
+      "UsersEstimate": 4081
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -7124,7 +7129,7 @@
       "Name": "Photogenic",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 7328
+      "UsersEstimate": 7329
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -7132,7 +7137,7 @@
       "Name": "Playing With Power",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 6412
+      "UsersEstimate": 6413
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -7140,7 +7145,7 @@
       "Name": "Plug It In",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6995
+      "UsersEstimate": 6996
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -7220,7 +7225,7 @@
       "Name": "Surge Ahead",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2581
+      "UsersEstimate": 2582
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_JOCKEY",
@@ -7228,7 +7233,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 7078
+      "UsersEstimate": 7079
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -7268,7 +7273,7 @@
       "Name": "The Full Monty",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 2581
+      "UsersEstimate": 2582
     },
     {
       "ID": "ACH_THIS_IS_MY_BOOMSTICK",
@@ -7323,15 +7328,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 8327,
+      "Progressed": 8328,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-07-22T11:58:35.0651733+00:00",
-  "LastChanged_Achievements": "2023-08-01T12:06:29.6516626+00:00",
+  "LastChanged_Achievements": "2023-08-01T13:14:12.8578728+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:17.3324442+00:00",
-  "LastUpdate_Ratings": "2023-08-01T11:58:47.8556787+00:00",
-  "LastUpdate_Achievements": "2023-08-01T12:06:29.6517522+00:00"
+  "LastUpdate_Ratings": "2023-08-01T13:06:10.2012333+00:00",
+  "LastUpdate_Achievements": "2023-08-01T13:14:12.8579339+00:00"
 }

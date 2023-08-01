@@ -24,10 +24,10 @@
 | Tailor-Made | 5.00% | ~6 |
 | POI Hunter | 4.00% | ~4 |
 | Gotta Go Fast! | 4.00% | ~4 |
+| Say My Name | 4.00% | ~4 |
 | Tailor-Made for Two | 4.00% | ~4 |
 | Tempus Fugit | 4.00% | ~4 |
 | Déjà-Vu | 3.00% | ~3 |
-| Say My Name | 3.00% | ~3 |
 | Last One Standing | 3.00% | ~3 |
 | Time Lord | 3.00% | ~3 |
 | First Things First | 3.00% | ~3 |

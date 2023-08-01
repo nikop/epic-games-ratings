@@ -6,28 +6,28 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~10,733 |
-| Sword Runner | 62.00% | ~8,756 |
-| Running out of breath | 54.00% | ~7,626 |
-| Wallrunner | 54.00% | ~7,626 |
-| Homerunner | 45.00% | ~6,355 |
-| Out of order | 45.00% | ~6,355 |
-| I call it luck | 44.00% | ~6,214 |
-| Where are my Keys? | 41.00% | ~5,790 |
-| Back to hell | 37.00% | ~5,225 |
-| Perfection | 32.00% | ~4,519 |
-| Why not both | 30.00% | ~4,237 |
-| Sword to a gunfight | 29.00% | ~4,095 |
-| Upgrades not mandatory | 29.00% | ~4,095 |
-| Artificial selection | 28.00% | ~3,954 |
-| Control freak | 28.00% | ~3,954 |
-| Running Wild | 28.00% | ~3,954 |
-| Finish line | 26.00% | ~3,672 |
-| Unstoppable force | 23.00% | ~3,248 |
-| Wave of mutilation | 22.00% | ~3,107 |
+| Longrunner | 76.00% | ~10,736 |
+| Sword Runner | 62.00% | ~8,758 |
+| Running out of breath | 54.00% | ~7,628 |
+| Wallrunner | 54.00% | ~7,628 |
+| Homerunner | 45.00% | ~6,357 |
+| Out of order | 45.00% | ~6,357 |
+| I call it luck | 44.00% | ~6,215 |
+| Where are my Keys? | 41.00% | ~5,792 |
+| Back to hell | 37.00% | ~5,227 |
+| Perfection | 32.00% | ~4,520 |
+| Why not both | 30.00% | ~4,238 |
+| Sword to a gunfight | 29.00% | ~4,097 |
+| Upgrades not mandatory | 29.00% | ~4,097 |
+| Artificial selection | 28.00% | ~3,955 |
+| Control freak | 28.00% | ~3,955 |
+| Running Wild | 28.00% | ~3,955 |
+| Finish line | 26.00% | ~3,673 |
+| Unstoppable force | 23.00% | ~3,249 |
+| Wave of mutilation | 22.00% | ~3,108 |
 | Can't Run Can't Hide | 17.00% | ~2,401 |
 | R is for Running | 17.00% | ~2,401 |
-| Dead in the air | 15.00% | ~2,118 |
+| Dead in the air | 15.00% | ~2,119 |
 | Improvise, adapt, overrun | 13.00% | ~1,836 |
 | Pre-empative strike | 13.00% | ~1,836 |
 | Strike | 13.00% | ~1,836 |
@@ -41,18 +41,18 @@ Number of Ratings: 1,047  (23.09.2022)
 | Scrapped | 4.00% | ~565 |
 | Strafing Run | 4.00% | ~565 |
 | Just A Man | 3.00% | ~424 |
-| Hit me if you can | 2.00% | ~282 |
-| Junkrunner | 2.00% | ~282 |
-| One man's trash | 2.00% | ~282 |
+| Hit me if you can | 2.00% | ~283 |
+| Junkrunner | 2.00% | ~283 |
+| One man's trash | 2.00% | ~283 |
 | Obedient Machine | 0.80% | ~113 |
 | Everyone Needs A Hobby | 0.60% | ~85 |
-| A Grade | 0.40% | ~56 |
-| GR Project Complete | 0.40% | ~56 |
-| Legacy Drivers | 0.40% | ~56 |
-| Sticks And Stones | 0.40% | ~56 |
-| Up Close And Personal | 0.40% | ~56 |
+| A Grade | 0.40% | ~57 |
+| GR Project Complete | 0.40% | ~57 |
+| Legacy Drivers | 0.40% | ~57 |
+| Sticks And Stones | 0.40% | ~57 |
+| Up Close And Personal | 0.40% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,122 (Ranked 116)  
+Progressed: 14,126 (Ranked 116)  
 Completed: 54 (0.38%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 54 (0.38%) (Ranked 148)
 | 2023-07-29 | 13,840 | 54 |
 | 2023-07-30 | 13,961 | 54 |
 | 2023-07-31 | 14,065 | 54 |
-| 2023-08-01 | 14,122 | 54 |
+| 2023-08-01 | 14,126 | 54 |
 ## Awards
 Max (Great Boss Battles): 474  (Ranked 196)  
 Sum: 634 (Ranked 287)  

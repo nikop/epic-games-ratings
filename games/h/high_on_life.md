@@ -1,24 +1,24 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.66 (Ranked 274)  
+Rating: 4.66 (Ranked 273)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,643 |
-| Mods Please Ban | 77.00% | ~18,223 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,986 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,276 |
-| First Bounty Down | 59.00% | ~13,963 |
+| Eye Scream, You Scream | 83.00% | ~19,644 |
+| Mods Please Ban | 77.00% | ~18,224 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,987 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,277 |
+| First Bounty Down | 59.00% | ~13,964 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,490 |
-| Luglox Genocide | 43.00% | ~10,176 |
+| Luglox Genocide | 43.00% | ~10,177 |
 | Playing Card To Get | 33.00% | ~7,810 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,810 |
 | Creature Feature | 29.00% | ~6,863 |
-| Satisfied Gus-tomer | 28.00% | ~6,626 |
-| Cold-Blooded Driller | 28.00% | ~6,626 |
-| Are You Packin'? | 25.00% | ~5,916 |
-| G3 Graduation | 25.00% | ~5,916 |
+| Satisfied Gus-tomer | 28.00% | ~6,627 |
+| Cold-Blooded Driller | 28.00% | ~6,627 |
+| Are You Packin'? | 25.00% | ~5,917 |
+| G3 Graduation | 25.00% | ~5,917 |
 | RIP Davey Glutes | 24.00% | ~5,680 |
 | Sweezy Like Sunday Morning | 24.00% | ~5,680 |
 | Hardest Battle In The Game | 22.00% | ~5,207 |
@@ -38,7 +38,7 @@ Rating: 4.66 (Ranked 274)
 | Epic Legendary Prize | 1.00% | ~237 |
 | A Starfish Is Born | 1.00% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,666 (Ranked 102)  
+Progressed: 23,667 (Ranked 102)  
 Completed: 11 (0.05%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 11 (0.05%) (Ranked 212)
 | 2023-07-29 | 23,537 | 10 |
 | 2023-07-30 | 23,596 | 10 |
 | 2023-07-31 | 23,646 | 11 |
-| 2023-08-01 | 23,666 | 11 |
+| 2023-08-01 | 23,667 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
