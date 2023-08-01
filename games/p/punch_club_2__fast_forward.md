@@ -46,12 +46,12 @@
 | Responsible approach | 37.00% | ~74 |
 | Underground dwellers | 36.00% | ~72 |
 | Deal with life | 35.00% | ~70 |
-| GYM professional | 34.00% | ~68 |
+| GYM professional | 35.00% | ~70 |
 | Champion – no way back | 34.00% | ~68 |
+| Mom got better | 33.00% | ~66 |
 | Poisoned fighter | 33.00% | ~66 |
+| The die is cast | 33.00% | ~66 |
 | Seashell hunter | 33.00% | ~66 |
-| Mom got better | 32.00% | ~64 |
-| The die is cast | 32.00% | ~64 |
 | The last bell ring | 31.00% | ~62 |
 | Undercover robot | 30.00% | ~60 |
 | Gang wrangler | 29.00% | ~58 |

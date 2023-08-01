@@ -1646,9 +1646,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 53525,
+  "EOS_Progressed": 53526,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 906,
+  "EOS_NewPlayers": 905,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12641,6 +12641,11 @@
       "Time": "2023-08-01T03:04:49.7248581+00:00",
       "NumProgressed": 53525,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-01T04:04:59.641335+00:00",
+      "NumProgressed": 53526,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -12716,7 +12721,7 @@
       "Name": "Bronze x100",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "VERDUN_ACH_CANADIANS",
@@ -12844,7 +12849,7 @@
       "Name": "Shoot, Cover, Reload, Repeat",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "VERDUN_ACH_GOLD10_KILLSTREAK",
@@ -12884,7 +12889,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 13916
+      "UsersEstimate": 13917
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -12996,7 +13001,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13381
+      "UsersEstimate": 13382
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -13020,7 +13025,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 41214
+      "UsersEstimate": 41215
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -13116,22 +13121,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 19804
+      "UsersEstimate": 19805
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 53525,
+      "Progressed": 53526,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-07-30T10:58:42.6218117+00:00",
-  "LastChanged_Achievements": "2023-08-01T03:04:49.7248573+00:00",
+  "LastChanged_Achievements": "2023-08-01T04:04:59.6413344+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.1031858+00:00",
-  "LastUpdate_Ratings": "2023-08-01T02:58:52.8190889+00:00",
-  "LastUpdate_Achievements": "2023-08-01T03:04:49.7249741+00:00"
+  "LastUpdate_Ratings": "2023-08-01T03:58:54.6889269+00:00",
+  "LastUpdate_Achievements": "2023-08-01T04:04:59.6414616+00:00"
 }

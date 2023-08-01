@@ -1,27 +1,27 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.45 (Ranked 629)  
+Rating: 4.45 (Ranked 630)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,551 |
-| Self-Improvement | 72.00% | ~1,269 |
+| Unforgiven | 88.00% | ~1,552 |
+| Self-Improvement | 72.00% | ~1,270 |
 | Perky | 66.00% | ~1,164 |
 | Let’s Ride | 60.00% | ~1,058 |
 | Welcome to the Weird West | 57.00% | ~1,005 |
-| Dead or Alive | 56.00% | ~987 |
+| Dead or Alive | 56.00% | ~988 |
 | Full House | 36.00% | ~635 |
 | Off the Trail | 33.00% | ~582 |
-| Justice Served | 29.00% | ~511 |
+| Justice Served | 29.00% | ~512 |
 | Chain Reaction | 27.00% | ~476 |
-| Dishonored | 25.00% | ~441 |
 | Rain of Death | 25.00% | ~441 |
 | Scholar | 25.00% | ~441 |
 | Through Their Eyes | 25.00% | ~441 |
-| The Great Escape | 23.00% | ~405 |
-| That’s All, Folks | 18.00% | ~317 |
+| Dishonored | 24.00% | ~423 |
+| The Great Escape | 23.00% | ~406 |
+| That’s All, Folks | 18.00% | ~318 |
 | Fallen Star | 16.00% | ~282 |
 | For Balance | 16.00% | ~282 |
 | Here Comes Santa Claus | 16.00% | ~282 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,763 (Ranked 171)  
+Progressed: 1,764 (Ranked 171)  
 Completed: 4 (0.23%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 4 (0.23%) (Ranked 170)
 | 2023-07-29 | 1,754 | 4 |
 | 2023-07-30 | 1,758 | 4 |
 | 2023-07-31 | 1,762 | 4 |
-| 2023-08-01 | 1,763 | 4 |
+| 2023-08-01 | 1,764 | 4 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 481)  
 Sum: 24 (Ranked 486)  

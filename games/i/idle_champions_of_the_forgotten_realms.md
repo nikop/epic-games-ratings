@@ -54,6 +54,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.50% | ~919 |
 | Krux's Speed Run | 0.50% | ~919 |
 | Thieves of the Coven | 0.40% | ~735 |
+| Hither of the Feywild | 0.40% | ~735 |
 | Speeds of Destruction | 0.40% | ~735 |
 | On the Hunt | 0.40% | ~870 |
 | A Demi-god's Defender | 0.40% | ~735 |
@@ -74,7 +75,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Animated Giff | 0.40% | ~735 |
 | Upholding the Law | 0.30% | ~653 |
 | Nightmare Rats! | 0.30% | ~551 |
-| Hither of the Feywild | 0.30% | ~551 |
 | The Prince of a Thousand Enemies | 0.30% | ~551 |
 | Downfall | 0.30% | ~551 |
 | Slack-jawed Lorna | 0.30% | ~551 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,542 (Ranked 53)  
+Progressed: 217,545 (Ranked 53)  
 Completed: 2,140 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,14 +622,14 @@ Completed: 2,140 (0.98%) (Ranked 113)
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
-| 2023-08-01 | 217,542 | 2,140 |
+| 2023-08-01 | 217,545 | 2,140 |
 ## Awards
-Max (Diverse Characters): 5,106  (Ranked 67)  
-Sum: 30,833 (Ranked 38)  
+Max (Diverse Characters): 5,108  (Ranked 67)  
+Sum: 30,835 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,106 |
+| This game has Diverse Characters | 5,108 |
 | This game is Great for Beginners | 5,040 |
 | This game has Quickly Understood Controls | 4,696 |
 | This game is Relaxing | 4,586 |
@@ -826,4 +826,4 @@ Diff (max vs sum): 29
 | 2023-07-29 | 4.05 | - | 5,100 | 30,800 |
 | 2023-07-30 | 4.05 | - | 5,100 | 30,813 |
 | 2023-07-31 | 4.05 | - | 5,106 | 30,831 |
-| 2023-08-01 | 4.05 | - | 5,106 | 30,833 |
+| 2023-08-01 | 4.05 | - | 5,108 | 30,835 |

@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 8616,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 558,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5037,9 +5037,9 @@
       "ID": "ACH_NOONE_GUESSED_CORRECTLY",
       "SetID": "5ck0pmd",
       "Name": "You tried your best!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3705
+      "UsersEstimate": 3791
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -5172,8 +5172,8 @@
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-08-01T03:02:09.8207168+00:00",
+  "LastChanged_Achievements": "2023-08-01T04:00:52.1492189+00:00",
   "LastUpdate_AppInfo": "2023-07-28T18:57:21.3840967+00:00",
-  "LastUpdate_Ratings": "2023-08-01T02:57:22.2549988+00:00",
-  "LastUpdate_Achievements": "2023-08-01T03:02:09.8211626+00:00"
+  "LastUpdate_Ratings": "2023-08-01T03:57:29.0034172+00:00",
+  "LastUpdate_Achievements": "2023-08-01T04:00:52.1492711+00:00"
 }

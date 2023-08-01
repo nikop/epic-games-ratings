@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 349,
+  "Ranking_Rating": 350,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 14,
@@ -9633,18 +9633,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 196247,
       "NumberOfAwardsMax": 74504
+    },
+    {
+      "Time": "2023-08-01T03:58:26.5815407+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 196319,
+      "NumberOfAwardsMax": 74576
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 196247,
-  "NumberOfAwardsMax": 74504,
+  "NumberOfAwards": 196319,
+  "NumberOfAwardsMax": 74576,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 74504
+      "Count": 74576
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -9713,9 +9719,9 @@
       "Count": 5459
     }
   ],
-  "EOS_Progressed": 868676,
+  "EOS_Progressed": 868678,
   "EOS_Completed": 1922,
-  "EOS_NewPlayers": 1189,
+  "EOS_NewPlayers": 1185,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20898,6 +20904,11 @@
       "Time": "2023-08-01T03:04:06.2017472+00:00",
       "NumProgressed": 868676,
       "NumCompleted": 1922
+    },
+    {
+      "Time": "2023-08-01T04:04:15.9139564+00:00",
+      "NumProgressed": 868678,
+      "NumCompleted": 1922
     }
   ],
   "TotalAchievements": 44,
@@ -20981,7 +20992,7 @@
       "Name": "Gun Fu",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 130301
+      "UsersEstimate": 130302
     },
     {
       "ID": "Gunslinger",
@@ -21085,7 +21096,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 243229
+      "UsersEstimate": 243230
     },
     {
       "ID": "Specialist",
@@ -21125,7 +21136,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 590700
+      "UsersEstimate": 590701
     },
     {
       "ID": "TheHermit",
@@ -21133,7 +21144,7 @@
       "Name": "The Hermit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 208482
+      "UsersEstimate": 208483
     },
     {
       "ID": "TheHightPriestess",
@@ -21149,7 +21160,7 @@
       "Name": "The Lovers",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 295350
+      "UsersEstimate": 295351
     },
     {
       "ID": "TheStar",
@@ -21205,7 +21216,7 @@
       "Name": "True Soldier",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 199795
+      "UsersEstimate": 199796
     },
     {
       "ID": "TrueWarrior",
@@ -21213,7 +21224,7 @@
       "Name": "True Warrior",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 130301
+      "UsersEstimate": 130302
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -21221,7 +21232,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 95554
+      "UsersEstimate": 95555
     },
     {
       "ID": "UnderPressure",
@@ -21260,15 +21271,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 868676,
+      "Progressed": 868678,
       "Completed": 1922
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-07-31T18:58:42.7138192+00:00",
-  "LastChanged_Achievements": "2023-08-01T03:04:06.2017468+00:00",
+  "LastChanged": "2023-08-01T03:58:26.58154+00:00",
+  "LastChanged_Achievements": "2023-08-01T04:04:15.913956+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.8722173+00:00",
-  "LastUpdate_Ratings": "2023-08-01T02:58:23.8778822+00:00",
-  "LastUpdate_Achievements": "2023-08-01T03:04:06.2018497+00:00"
+  "LastUpdate_Ratings": "2023-08-01T03:58:26.5815413+00:00",
+  "LastUpdate_Achievements": "2023-08-01T04:04:15.9140636+00:00"
 }

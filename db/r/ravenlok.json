@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2865,9 +2865,9 @@
       "ID": "26",
       "SetID": "d0g98p",
       "Name": "Ancient Wisdom",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 413
     },
     {
       "ID": "27",
@@ -3130,8 +3130,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-08-01T03:03:46.1202131+00:00",
+  "LastChanged_Achievements": "2023-08-01T04:03:55.6956113+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:05.5849484+00:00",
-  "LastUpdate_Ratings": "2023-08-01T02:57:54.2605542+00:00",
-  "LastUpdate_Achievements": "2023-08-01T03:03:46.1202746+00:00"
+  "LastUpdate_Ratings": "2023-08-01T03:58:00.0788938+00:00",
+  "LastUpdate_Achievements": "2023-08-01T04:03:55.6956724+00:00"
 }

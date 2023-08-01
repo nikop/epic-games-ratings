@@ -2,7 +2,7 @@
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
   "ProductSlug": "farming-simulator-22",
-  "Ranking_Rating": 213,
+  "Ranking_Rating": 214,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 90,
@@ -7359,9 +7359,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 46418,
+  "EOS_Progressed": 46419,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16354,6 +16354,11 @@
       "Time": "2023-08-01T03:04:22.9612929+00:00",
       "NumProgressed": 46418,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-01T04:04:32.5493038+00:00",
+      "NumProgressed": 46419,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -16461,7 +16466,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 28315
+      "UsersEstimate": 28316
     },
     {
       "ID": "DeliveryGrapes",
@@ -16589,7 +16594,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 18567
+      "UsersEstimate": 18568
     },
     {
       "ID": "NumPlaceables",
@@ -16621,7 +16626,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 26922
+      "UsersEstimate": 26923
     },
     {
       "ID": "PetDog",
@@ -16637,7 +16642,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 26922
+      "UsersEstimate": 26923
     },
     {
       "ID": "Sow",
@@ -16653,7 +16658,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 29243
+      "UsersEstimate": 29244
     },
     {
       "ID": "Stones",
@@ -16708,15 +16713,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 46418,
+      "Progressed": 46419,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-07-31T19:00:15.0938087+00:00",
-  "LastChanged_Achievements": "2023-08-01T03:04:22.9612921+00:00",
+  "LastChanged_Achievements": "2023-08-01T04:04:32.5493029+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:27.4750397+00:00",
-  "LastUpdate_Ratings": "2023-08-01T02:59:56.0447636+00:00",
-  "LastUpdate_Achievements": "2023-08-01T03:04:22.9613717+00:00"
+  "LastUpdate_Ratings": "2023-08-01T03:59:55.5606231+00:00",
+  "LastUpdate_Achievements": "2023-08-01T04:04:32.5493987+00:00"
 }

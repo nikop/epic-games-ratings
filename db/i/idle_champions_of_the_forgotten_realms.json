@@ -5390,11 +5390,17 @@
       "Rating": 4.05,
       "NumberOfAwards": 30833,
       "NumberOfAwardsMax": 5106
+    },
+    {
+      "Time": "2023-08-01T03:58:37.7626919+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30835,
+      "NumberOfAwardsMax": 5108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30833,
-  "NumberOfAwardsMax": 5106,
+  "NumberOfAwards": 30835,
+  "NumberOfAwardsMax": 5108,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -5407,7 +5413,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5106
+      "Count": 5108
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5440,10 +5446,10 @@
       "Count": 3332
     }
   ],
-  "EOS_Progressed": 217542,
+  "EOS_Progressed": 217545,
   "EOS_Completed": 2140,
-  "EOS_NewPlayers": 2265,
-  "EOS_NewCompleters": 56,
+  "EOS_NewPlayers": 2254,
+  "EOS_NewCompleters": 53,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16475,6 +16481,11 @@
       "Time": "2023-08-01T03:04:07.4460599+00:00",
       "NumProgressed": 217542,
       "NumCompleted": 2140
+    },
+    {
+      "Time": "2023-08-01T04:04:18.0518302+00:00",
+      "NumProgressed": 217545,
+      "NumCompleted": 2140
     }
   ],
   "TotalAchievements": 512,
@@ -16652,9 +16663,9 @@
       "ID": "objective_completed_1065",
       "SetID": "415jc5c",
       "Name": "Hither of the Feywild",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 735
     },
     {
       "ID": "objective_completed_1066",
@@ -20581,21 +20592,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183816,
+      "Progressed": 183819,
       "Completed": 3041
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217542,
+      "Progressed": 217545,
       "Completed": 2140
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-01T02:04:04.5423314+00:00",
-  "LastChanged_Achievements": "2023-08-01T03:04:07.4460591+00:00",
+  "LastChanged": "2023-08-01T03:58:37.7626915+00:00",
+  "LastChanged_Achievements": "2023-08-01T04:04:18.0518299+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-01T02:58:37.3654211+00:00",
-  "LastUpdate_Achievements": "2023-08-01T03:04:07.4490216+00:00"
+  "LastUpdate_Ratings": "2023-08-01T03:58:37.7626926+00:00",
+  "LastUpdate_Achievements": "2023-08-01T04:04:18.05479+00:00"
 }

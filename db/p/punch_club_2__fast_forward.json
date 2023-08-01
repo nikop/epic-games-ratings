@@ -651,9 +651,9 @@
       "ID": "adriana_recovery",
       "SetID": "69co12a",
       "Name": "Mom got better",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "adriana_sick",
@@ -715,9 +715,9 @@
       "ID": "any_stat_30",
       "SetID": "69co12a",
       "Name": "GYM professional",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "any_stat_5",
@@ -1051,9 +1051,9 @@
       "ID": "prof_promotion_1",
       "SetID": "69co12a",
       "Name": "The die is cast",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "prof_promotion_2",
@@ -1186,8 +1186,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-01T03:03:13.930904+00:00",
+  "LastChanged_Achievements": "2023-08-01T04:03:25.5191161+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:10.4822993+00:00",
-  "LastUpdate_Ratings": "2023-08-01T02:57:58.8806779+00:00",
-  "LastUpdate_Achievements": "2023-08-01T03:03:13.9309716+00:00"
+  "LastUpdate_Ratings": "2023-08-01T03:58:04.7392152+00:00",
+  "LastUpdate_Achievements": "2023-08-01T04:03:25.5191863+00:00"
 }

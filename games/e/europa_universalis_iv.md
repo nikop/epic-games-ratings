@@ -1,35 +1,35 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 213)  
+Rating: 4.69 (Ranked 214)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,895 |
-| That's a Grand Army | 8.00% | ~6,129 |
-| That is mine! | 8.00% | ~6,129 |
-| Victorious! | 8.00% | ~6,129 |
-| Brothers in Arms | 6.00% | ~4,597 |
-| That's a Grand Navy | 6.00% | ~4,597 |
-| Seriously?! | 6.00% | ~4,597 |
+| Until death do us apart | 9.00% | ~6,896 |
+| That's a Grand Army | 8.00% | ~6,130 |
+| That is mine! | 8.00% | ~6,130 |
+| Victorious! | 8.00% | ~6,130 |
+| Brothers in Arms | 6.00% | ~4,598 |
+| That's a Grand Navy | 6.00% | ~4,598 |
+| Seriously?! | 6.00% | ~4,598 |
 | For the Glory | 5.00% | ~3,831 |
 | Cold War | 4.00% | ~3,065 |
 | True Catholic | 4.00% | ~3,065 |
-| Defender of the Faith | 3.00% | ~2,298 |
-| It's all about luck | 3.00% | ~2,298 |
-| It's all about the money | 3.00% | ~2,298 |
-| Respected | 3.00% | ~2,298 |
-| The Princess is in this Castle | 3.00% | ~2,298 |
-| Truly Divine Ruler | 3.00% | ~2,298 |
-| Agressive Expander | 2.00% | ~1,532 |
-| Blockader | 2.00% | ~1,532 |
-| Combined Arms | 2.00% | ~1,532 |
-| Double the Love | 2.00% | ~1,532 |
-| My armies are invincible! | 2.00% | ~1,532 |
-| Queen of Conquest | 2.00% | ~1,532 |
-| Royal Authority | 2.00% | ~1,532 |
-| Total Control | 2.00% | ~1,532 |
+| Defender of the Faith | 3.00% | ~2,299 |
+| It's all about luck | 3.00% | ~2,299 |
+| It's all about the money | 3.00% | ~2,299 |
+| Respected | 3.00% | ~2,299 |
+| The Princess is in this Castle | 3.00% | ~2,299 |
+| Truly Divine Ruler | 3.00% | ~2,299 |
+| Agressive Expander | 2.00% | ~1,533 |
+| Blockader | 2.00% | ~1,533 |
+| Combined Arms | 2.00% | ~1,533 |
+| Double the Love | 2.00% | ~1,533 |
+| My armies are invincible! | 2.00% | ~1,533 |
+| Queen of Conquest | 2.00% | ~1,533 |
+| Royal Authority | 2.00% | ~1,533 |
+| Total Control | 2.00% | ~1,533 |
 | All That's Thine Shall Be Mine | 1.00% | ~766 |
 | Azur semé de lis or | 1.00% | ~766 |
 | Bright Spark | 1.00% | ~766 |
@@ -60,18 +60,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | Live Long and Prosper | 0.50% | ~383 |
 | Trophy Hunter | 0.50% | ~383 |
 | Voting Streak | 0.50% | ~383 |
-| All Your Trade Are Belong to Us | 0.40% | ~306 |
-| Bleed Them Dry | 0.40% | ~306 |
-| Dude, Where's my Boat? | 0.40% | ~306 |
-| Four For Trade | 0.40% | ~306 |
-| Global Hegemony | 0.40% | ~306 |
-| Italian Ambition | 0.40% | ~306 |
-| Just a Little Patience | 0.40% | ~306 |
-| One Night in Paris | 0.40% | ~306 |
-| Tear Down This Wall | 0.40% | ~306 |
-| The Continuation of Diplomacy | 0.40% | ~306 |
-| Traditional Player | 0.40% | ~306 |
-| Wonderful | 0.40% | ~306 |
+| All Your Trade Are Belong to Us | 0.40% | ~307 |
+| Bleed Them Dry | 0.40% | ~307 |
+| Dude, Where's my Boat? | 0.40% | ~307 |
+| Four For Trade | 0.40% | ~307 |
+| Global Hegemony | 0.40% | ~307 |
+| Italian Ambition | 0.40% | ~307 |
+| Just a Little Patience | 0.40% | ~307 |
+| One Night in Paris | 0.40% | ~307 |
+| Tear Down This Wall | 0.40% | ~307 |
+| The Continuation of Diplomacy | 0.40% | ~307 |
+| Traditional Player | 0.40% | ~307 |
+| Wonderful | 0.40% | ~307 |
 | A Decent Reserve | 0.30% | ~230 |
 | A Pile of Gold | 0.30% | ~230 |
 | A Fine Goosestep | 0.30% | ~230 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,616 (Ranked 76)  
+Progressed: 76,626 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -464,7 +464,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 75,748 | 0 |
 | 2023-07-30 | 76,185 | 0 |
 | 2023-07-31 | 76,579 | 0 |
-| 2023-08-01 | 76,616 | 0 |
+| 2023-08-01 | 76,626 | 0 |
 ## Awards
 Max (Educational): 5,599  (Ranked 61)  
 Sum: 46,208 (Ranked 26)  

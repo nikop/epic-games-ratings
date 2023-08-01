@@ -68,9 +68,9 @@
       "ID": "1",
       "SetID": "5lmgb5n",
       "Name": "Take-off",
-      "Percentage": 83,
+      "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "10",
@@ -210,8 +210,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T09:00:47.8378979+00:00",
-  "LastChanged_Achievements": "2023-08-01T03:02:06.129511+00:00",
+  "LastChanged_Achievements": "2023-08-01T04:00:48.5041669+00:00",
   "LastUpdate_AppInfo": "2023-07-27T08:57:03.5115055+00:00",
-  "LastUpdate_Ratings": "2023-08-01T02:57:11.0210227+00:00",
-  "LastUpdate_Achievements": "2023-08-01T03:02:06.1295282+00:00"
+  "LastUpdate_Ratings": "2023-08-01T03:57:15.9705912+00:00",
+  "LastUpdate_Achievements": "2023-08-01T04:00:48.5042018+00:00"
 }

@@ -1,18 +1,18 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.62 (Ranked 349)  
+Rating: 4.62 (Ranked 350)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~590,700 |
+| The Fool | 68.00% | ~590,701 |
 | Right Back At Ya | 39.00% | ~338,784 |
-| The Lovers | 34.00% | ~295,350 |
-| Stanislavski's Method | 28.00% | ~243,229 |
+| The Lovers | 34.00% | ~295,351 |
+| Stanislavski's Method | 28.00% | ~243,230 |
 | The Wheel of Fortune | 27.00% | ~234,543 |
-| The Hermit | 24.00% | ~208,482 |
-| True Soldier | 23.00% | ~199,795 |
+| The Hermit | 24.00% | ~208,483 |
+| True Soldier | 23.00% | ~199,796 |
 | Christmas Tree Attack | 22.00% | ~191,109 |
 | Life of the Road | 21.00% | ~182,422 |
 | The High Priestess | 21.00% | ~182,422 |
@@ -20,13 +20,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Full Body Conversion | 18.00% | ~156,362 |
 | The World | 18.00% | ~156,362 |
 | Bushido and Chill | 16.00% | ~138,988 |
-| Gun Fu | 15.00% | ~130,301 |
-| True Warrior | 15.00% | ~130,301 |
+| Gun Fu | 15.00% | ~130,302 |
+| True Warrior | 15.00% | ~130,302 |
 | I Am The Law | 14.00% | ~121,615 |
 | Judy vs Night City | 14.00% | ~121,615 |
 | To Protect and Serve | 13.00% | ~112,928 |
 | Master Crafter | 13.00% | ~112,928 |
-| Two Heads, One Bullet | 11.00% | ~95,554 |
+| Two Heads, One Bullet | 11.00% | ~95,555 |
 | The Wandering Fool | 9.00% | ~78,181 |
 | The Quick and the Dead | 9.00% | ~78,181 |
 | Ten out of Ten | 9.00% | ~78,181 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,687 |
 | Rough Landing | 0.50% | ~4,343 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 868,676 (Ranked 14)  
+Progressed: 868,678 (Ranked 14)  
 Completed: 1,922 (0.22%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,14 +154,14 @@ Completed: 1,922 (0.22%) (Ranked 171)
 | 2023-07-29 | 868,286 | 1,915 |
 | 2023-07-30 | 868,514 | 1,918 |
 | 2023-07-31 | 868,663 | 1,922 |
-| 2023-08-01 | 868,676 | 1,922 |
+| 2023-08-01 | 868,678 | 1,922 |
 ## Awards
-Max (Character Customization): 74,504  (Ranked 9)  
-Sum: 196,247 (Ranked 13)  
+Max (Character Customization): 74,576  (Ranked 9)  
+Sum: 196,319 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 74,504 |
+| This game has Inclusive Character Customization | 74,576 |
 | This game has Great Boss Battles | 48,071 |
 | This game has Diverse Characters | 8,694 |
 | This game is Great for Beginners | 8,672 |
@@ -369,3 +369,4 @@ Diff (max vs sum): -4
 | 2023-07-29 | 4.62 | - | 74,326 | 195,697 |
 | 2023-07-30 | 4.62 | - | 74,413 | 195,979 |
 | 2023-07-31 | 4.62 | - | 74,504 | 196,247 |
+| 2023-08-01 | 4.62 | - | 74,576 | 196,319 |

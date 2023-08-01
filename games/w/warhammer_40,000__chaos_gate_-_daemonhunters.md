@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Harvest No More | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,093 (Ranked 152)  
+Progressed: 3,094 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 3,069 | 0 |
 | 2023-07-30 | 3,081 | 0 |
 | 2023-07-31 | 3,092 | 0 |
-| 2023-08-01 | 3,093 | 0 |
+| 2023-08-01 | 3,094 | 0 |
 ## Awards
 Max (Character Customization): 216  (Ranked 265)  
 Sum: 459 (Ranked 303)  

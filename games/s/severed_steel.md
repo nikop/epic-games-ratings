@@ -1,35 +1,35 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 213)  
+Rating: 4.69 (Ranked 214)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 24.00% | ~136,457 |
-| 50 HEADSHOTS | 22.00% | ~125,086 |
-| SCIENCE AND INDUSTRY | 21.00% | ~119,400 |
-| FINISHED CHAPTER 1 | 20.00% | ~113,714 |
-| FINISHED CHAPTER 2 | 14.00% | ~79,600 |
-| 200 HEADSHOTS | 12.00% | ~68,229 |
-| FINISHED CHAPTER 3 | 12.00% | ~68,229 |
-| FINISHED CHAPTER 4 | 10.00% | ~56,857 |
-| FINISH CHAPTER 5 | 8.00% | ~45,486 |
-| FINISH CHAPTER 6 | 7.00% | ~39,800 |
-| CATHARTIC ESCAPISM | 7.00% | ~39,800 |
-| 1000 KILLS | 6.00% | ~34,114 |
-| FIREFIGHT LEVEL 10 | 3.00% | ~17,057 |
-| FIREFIGHT LEVEL 20 | 1.00% | ~5,686 |
-| FIRST BLOOD | 1.00% | ~5,686 |
-| PACEMAKER | 0.90% | ~5,117 |
-| OUT OF ORDER | 0.60% | ~3,411 |
-| TIME PARADOX | 0.60% | ~3,411 |
-| FIREFIGHT LEVEL 30 | 0.50% | ~2,843 |
-| NEW GAME PLUS | 0.40% | ~2,274 |
-| PARTYHARD | 0.40% | ~2,274 |
-| FIREFIGHT LEVEL 40 | 0.30% | ~1,706 |
-| CHURCH | 0.20% | ~1,137 |
-| FIREFIGHT LEVEL 50 | 0.20% | ~1,137 |
-| REMEMBER THE ARMORY | 0.20% | ~1,137 |
+| 100 KILLS | 24.00% | ~136,585 |
+| 50 HEADSHOTS | 22.00% | ~125,203 |
+| SCIENCE AND INDUSTRY | 21.00% | ~119,512 |
+| FINISHED CHAPTER 1 | 20.00% | ~113,821 |
+| FINISHED CHAPTER 2 | 14.00% | ~79,675 |
+| 200 HEADSHOTS | 12.00% | ~68,292 |
+| FINISHED CHAPTER 3 | 12.00% | ~68,292 |
+| FINISHED CHAPTER 4 | 10.00% | ~56,910 |
+| FINISH CHAPTER 5 | 8.00% | ~45,528 |
+| FINISH CHAPTER 6 | 7.00% | ~39,837 |
+| CATHARTIC ESCAPISM | 7.00% | ~39,837 |
+| 1000 KILLS | 6.00% | ~34,146 |
+| FIREFIGHT LEVEL 10 | 3.00% | ~17,073 |
+| FIREFIGHT LEVEL 20 | 1.00% | ~5,691 |
+| FIRST BLOOD | 1.00% | ~5,691 |
+| PACEMAKER | 0.90% | ~5,122 |
+| OUT OF ORDER | 0.60% | ~3,415 |
+| TIME PARADOX | 0.60% | ~3,415 |
+| FIREFIGHT LEVEL 30 | 0.50% | ~2,846 |
+| NEW GAME PLUS | 0.40% | ~2,276 |
+| PARTYHARD | 0.40% | ~2,276 |
+| FIREFIGHT LEVEL 40 | 0.30% | ~1,707 |
+| CHURCH | 0.20% | ~1,138 |
+| FIREFIGHT LEVEL 50 | 0.20% | ~1,138 |
+| REMEMBER THE ARMORY | 0.20% | ~1,138 |
 | HEY THATS CHEATING | 0.10% | ~569 |
 | COMPLIMENTS TO THE CHEF | 0.10% | ~569 |
 | BUT WHY? | 0.10% | ~569 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 213)
 | THE GAMBLER | 0.10% | ~569 |
 | WARRIOR IN A GARDEN | 0.10% | ~569 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 568,571 (Ranked 28)  
+Progressed: 569,104 (Ranked 28)  
 Completed: 41 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 41 (0.01%) (Ranked 234)
 | 2023-07-29 | 524,786 | 40 |
 | 2023-07-30 | 548,188 | 41 |
 | 2023-07-31 | 565,615 | 41 |
-| 2023-08-01 | 568,571 | 41 |
+| 2023-08-01 | 569,104 | 41 |
 ## Awards
 Max (Great Boss Battles): 203  (Ranked 270)  
 Sum: 203 (Ranked 363)  
