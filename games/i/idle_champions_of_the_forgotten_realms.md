@@ -6,9 +6,9 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~6,525 |
-| Beast Intentions | 3.00% | ~6,525 |
-| Maddening | 2.00% | ~4,350 |
+| A Brief Tour of the Realms | 4.00% | ~8,701 |
+| Beast Intentions | 3.00% | ~6,526 |
+| Maddening | 2.00% | ~4,351 |
 | The Silken Swamp | 1.00% | ~2,175 |
 | Supply Run | 1.00% | ~2,175 |
 | Rocky Reception | 1.00% | ~1,838 |
@@ -202,6 +202,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wandering Emporium | 0.20% | ~368 |
 | Tiamat's Army | 0.20% | ~368 |
 | Questlines | 0.20% | ~368 |
+| Bel's Forge | 0.20% | ~368 |
 | The Everlasting Rime | 0.20% | ~368 |
 | The Long Haul | 0.20% | ~435 |
 | Moose Tracks | 0.20% | ~368 |
@@ -426,7 +427,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fight Dragons with Dragons | 0.10% | ~184 |
 | Raggadragga's Crew | 0.10% | ~184 |
 | Just The Worst | 0.10% | ~184 |
-| Bel's Forge | 0.10% | ~184 |
 | Extreme Heat | 0.10% | ~184 |
 | Fire and Brimstone | 0.10% | ~184 |
 | Into the Unknown | 0.10% | ~184 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,512 (Ranked 53)  
+Progressed: 217,531 (Ranked 53)  
 Completed: 2,140 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,10 +622,10 @@ Completed: 2,140 (0.98%) (Ranked 112)
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
-| 2023-08-01 | 217,512 | 2,140 |
+| 2023-08-01 | 217,531 | 2,140 |
 ## Awards
 Max (Diverse Characters): 5,106  (Ranked 67)  
-Sum: 30,831 (Ranked 38)  
+Sum: 30,833 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -633,7 +633,7 @@ Diff (max vs sum): 29
 | This game is Great for Beginners | 5,040 |
 | This game has Quickly Understood Controls | 4,696 |
 | This game is Relaxing | 4,586 |
-| This game has Amazing Characters | 4,044 |
+| This game has Amazing Characters | 4,046 |
 | This game is Highly Recommended | 4,027 |
 | This game has Playful Visuals | 3,332 |
 ## Ratings History
@@ -826,3 +826,4 @@ Diff (max vs sum): 29
 | 2023-07-29 | 4.05 | - | 5,100 | 30,800 |
 | 2023-07-30 | 4.05 | - | 5,100 | 30,813 |
 | 2023-07-31 | 4.05 | - | 5,106 | 30,831 |
+| 2023-08-01 | 4.05 | - | 5,106 | 30,833 |

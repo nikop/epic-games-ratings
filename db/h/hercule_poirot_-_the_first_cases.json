@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -674,9 +674,9 @@
       "ID": "ACH_038",
       "SetID": "72imik0",
       "Name": "Gedeon Demir",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_039",
@@ -803,8 +803,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-08-01T00:04:26.2953028+00:00",
+  "LastChanged_Achievements": "2023-08-01T02:09:46.8182335+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:38.4741922+00:00",
-  "LastUpdate_Ratings": "2023-07-31T23:58:09.4028892+00:00",
-  "LastUpdate_Achievements": "2023-08-01T00:04:26.2953389+00:00"
+  "LastUpdate_Ratings": "2023-08-01T02:03:41.5230777+00:00",
+  "LastUpdate_Achievements": "2023-08-01T02:09:46.8182839+00:00"
 }

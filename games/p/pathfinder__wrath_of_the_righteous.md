@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 22.00% | ~2,359 |
-| Burning City | 15.00% | ~1,608 |
-| A Spark | 15.00% | ~1,608 |
+| Devoured by Darkness | 22.00% | ~2,360 |
+| Burning City | 15.00% | ~1,609 |
+| A Spark | 15.00% | ~1,609 |
 | Defender's Heart | 13.00% | ~1,394 |
 | Mythic Choices | 12.00% | ~1,287 |
-| Banner over the Citadel | 11.00% | ~1,179 |
-| Queen's Gratitude | 10.00% | ~1,072 |
-| Fifth Crusade | 7.00% | ~750 |
+| Banner over the Citadel | 11.00% | ~1,180 |
+| Queen's Gratitude | 10.00% | ~1,073 |
+| Fifth Crusade | 7.00% | ~751 |
 | Embrace of the Abyss | 5.00% | ~536 |
 | Path of the Angel | 5.00% | ~536 |
 | Great Upstart | 5.00% | ~536 |
@@ -32,14 +32,14 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hey, I Know You! | 3.00% | ~322 |
 | The Lady of the Forest | 3.00% | ~285 |
 | Beware Still Water | 3.00% | ~285 |
-| Path of the Aeon | 2.00% | ~214 |
-| Path of the Trickster | 2.00% | ~214 |
-| Path of the Lich | 2.00% | ~214 |
-| Heroic Victory | 2.00% | ~214 |
-| Capitulation Is Now Moot | 2.00% | ~214 |
-| Core of the Riddle | 2.00% | ~214 |
-| Your First Big Enemy | 2.00% | ~214 |
-| Truly Important Deed | 2.00% | ~214 |
+| Path of the Aeon | 2.00% | ~215 |
+| Path of the Trickster | 2.00% | ~215 |
+| Path of the Lich | 2.00% | ~215 |
+| Heroic Victory | 2.00% | ~215 |
+| Capitulation Is Now Moot | 2.00% | ~215 |
+| Core of the Riddle | 2.00% | ~215 |
+| Your First Big Enemy | 2.00% | ~215 |
+| Truly Important Deed | 2.00% | ~215 |
 | Stay Underground | 2.00% | ~190 |
 | Hanged Man's Notes | 2.00% | ~190 |
 | Sarkoris Will Be Green | 2.00% | ~190 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,721 (Ranked 120)  
+Progressed: 10,726 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,6 +226,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 10,674 | 0 |
 | 2023-07-30 | 10,702 | 0 |
 | 2023-07-31 | 10,721 | 0 |
+| 2023-08-01 | 10,726 | 0 |
 ## Awards
 Max (Character Customization): 1,694  (Ranked 117)  
 Sum: 6,860 (Ranked 113)  

@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 867)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~4,052 |
+| First Step Into the Knight | 6.00% | ~4,053 |
 | Har, Har, Har, Very Funny | 5.00% | ~3,377 |
 | To the Victor Go the Spoils | 4.00% | ~2,702 |
 | Get ReQ'd | 4.00% | ~2,702 |
@@ -24,6 +24,7 @@ Rating: 4.18 (Ranked 867)
 | Lock and Key | 3.00% | ~2,026 |
 | Bad Apples in Every Orchard | 3.00% | ~2,026 |
 | From Inside Gotham's Walls | 3.00% | ~2,026 |
+| Voiceless | 3.00% | ~2,026 |
 | End of an Era | 2.00% | ~1,351 |
 | In Your Element | 2.00% | ~1,351 |
 | Rock and a Hard Place | 2.00% | ~1,351 |
@@ -33,7 +34,6 @@ Rating: 4.18 (Ranked 867)
 | Shock Til They Drop | 2.00% | ~1,351 |
 | Drone You Out | 2.00% | ~1,351 |
 | Cooldown | 2.00% | ~1,351 |
-| Voiceless | 2.00% | ~1,351 |
 | Seeking Asylum | 2.00% | ~1,351 |
 | Gotham Knight | 2.00% | ~1,351 |
 | Gotham City Confidential | 2.00% | ~1,351 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 867)
 | History Major | 0.10% | ~68 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,539 (Ranked 80)  
+Progressed: 67,542 (Ranked 80)  
 Completed: 105 (0.16%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,10 +170,10 @@ Completed: 105 (0.16%) (Ranked 180)
 | 2023-07-29 | 67,480 | 104 |
 | 2023-07-30 | 67,509 | 104 |
 | 2023-07-31 | 67,537 | 105 |
-| 2023-08-01 | 67,539 | 105 |
+| 2023-08-01 | 67,542 | 105 |
 ## Awards
 Max (Great Boss Battles): 2,472  (Ranked 101)  
-Sum: 4,105 (Ranked 139)  
+Sum: 4,106 (Ranked 139)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
@@ -181,8 +181,8 @@ Diff (max vs sum): -38
 | This game has Quickly Understood Controls | 210 |
 | This game is Relaxing | 210 |
 | This game is Extremely Fun | 210 |
+| This game has Diverse Characters | 204 |
 | This game has Amazing Characters | 203 |
-| This game has Diverse Characters | 203 |
 | This game is Great for Beginners | 201 |
 | This game has Amazing Storytelling | 199 |
 | This game is Highly Recommended | 197 |
@@ -350,3 +350,4 @@ Diff (max vs sum): -38
 | 2023-07-29 | 4.18 | 2,467 | 4,099 |
 | 2023-07-30 | 4.18 | 2,472 | 4,104 |
 | 2023-07-31 | 4.18 | 2,472 | 4,105 |
+| 2023-08-01 | 4.18 | 2,472 | 4,106 |

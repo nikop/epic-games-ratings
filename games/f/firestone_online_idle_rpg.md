@@ -68,7 +68,7 @@ Rating: 4.10 (Ranked 900)
 | Training makes a Pro player | 0.90% | ~16 |
 | Cauldron Liberator | 0.80% | ~14 |
 | Transmute | 0.80% | ~14 |
-| Titan Power | 0.60% | ~10 |
+| Titan Power | 0.70% | ~12 |
 | Tree of Life | 0.60% | ~10 |
 | Beast War Machines | 0.50% | ~9 |
 | Enhanced War Machines | 0.50% | ~9 |

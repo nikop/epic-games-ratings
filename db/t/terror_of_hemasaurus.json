@@ -317,9 +317,9 @@
       "ID": "ACH_25_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Chopper Stopper",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_40_STAGES_ENDLESS",
@@ -333,9 +333,9 @@
       "ID": "ACH_5000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Reign of Terror",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_50_CATCHES",
@@ -349,9 +349,9 @@
       "ID": "ACH_50_CHOPPER_BLADES",
       "SetID": "aio76gp",
       "Name": "Aerosolized",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_50_MILITARY_CARS",
@@ -470,8 +470,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-08-01T00:05:46.6625174+00:00",
+  "LastChanged_Achievements": "2023-08-01T02:11:09.395228+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:14.1707239+00:00",
-  "LastUpdate_Ratings": "2023-07-31T23:58:43.8967363+00:00",
-  "LastUpdate_Achievements": "2023-08-01T00:05:46.6625355+00:00"
+  "LastUpdate_Ratings": "2023-08-01T02:04:15.4925548+00:00",
+  "LastUpdate_Achievements": "2023-08-01T02:11:09.395256+00:00"
 }

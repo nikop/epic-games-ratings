@@ -28,11 +28,11 @@ Number of Ratings: 45  (23.09.2022)
 | Plague Doctor | 7.00% | ~94 |
 | Another Tale to Tell | 7.00% | ~94 |
 | A Story of Heroes | 7.00% | ~94 |
+| All My Birds, Safely Home | 6.00% | ~81 |
 | Legends Never Die | 5.00% | ~67 |
 | In Soil, In Smoke | 5.00% | ~67 |
 | A Hunger, Sated | 5.00% | ~67 |
 | Wingknight's Prowess | 5.00% | ~67 |
-| All My Birds, Safely Home | 5.00% | ~67 |
 | Turncoat | 5.00% | ~67 |
 | Worldwalker | 4.00% | ~54 |
 | Grillmaster | 4.00% | ~54 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.80% | ~11 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,347 (Ranked 182)  
+Progressed: 1,348 (Ranked 182)  
 Completed: 5 (0.37%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,6 +154,7 @@ Completed: 5 (0.37%) (Ranked 149)
 | 2023-07-29 | 1,343 | 5 |
 | 2023-07-30 | 1,344 | 5 |
 | 2023-07-31 | 1,347 | 5 |
+| 2023-08-01 | 1,348 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 464)  
 Sum: 28 (Ranked 477)  

@@ -8,7 +8,7 @@
 | Forced to Kill | 69.00% | ~137 |
 | A Night To Remember | 36.00% | ~71 |
 | Safe...For now? | 32.00% | ~63 |
-| Open Sesame | 26.00% | ~51 |
+| Open Sesame | 27.00% | ~53 |
 | What have I done!? | 16.00% | ~32 |
 | Them and Us | 15.00% | ~30 |
 | OUTRAGE | 15.00% | ~30 |
@@ -45,7 +45,7 @@
 | No Time To Relax | 0.50% | ~1 |
 | Survival Horror | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198 (Ranked 283)  
+Progressed: 198 (Ranked 284)  
 Completed: 1 (0.51%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |

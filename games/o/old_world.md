@@ -70,6 +70,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.40% | ~53 |
 | Champions | 0.40% | ~53 |
 | Sages | 0.40% | ~53 |
+| Statesmen | 0.40% | ~53 |
 | Acropolis | 0.40% | ~53 |
 | Apadana | 0.40% | ~53 |
 | Mausoleum | 0.40% | ~53 |
@@ -87,7 +88,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.30% | ~40 |
 | Patrons | 0.30% | ~40 |
 | Riders | 0.30% | ~40 |
-| Statesmen | 0.30% | ~40 |
 | Traders | 0.30% | ~40 |
 | Hittite Iron | 0.30% | ~40 |
 | Circus Maximus | 0.30% | ~40 |
@@ -168,6 +168,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Seizing Destiny | 0.10% | ~13 |
 | Bronze Victory (Carthage 4) | 0.10% | ~13 |
 | Epic Victory (Carthage 4) | 0.10% | ~13 |
+| Silver Victory (Carthage 4) | 0.10% | ~13 |
 | Carthage Campaign | 0.10% | ~13 |
 | Cleopatra's Love | 0.10% | ~13 |
 | Ancient | 0.10% | ~13 |
@@ -271,7 +272,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Before the Mongol Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Gold Victory (Carthage 4) | 0.00% | ~0 |
-| Silver Victory (Carthage 4) | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
 | White Death | 0.00% | ~0 |

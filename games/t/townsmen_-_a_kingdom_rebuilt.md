@@ -6,11 +6,11 @@ Number of Ratings: 37  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eureka! | 11.00% | ~465 |
-| Tax-man I | 11.00% | ~465 |
-| A new beginning | 11.00% | ~465 |
+| Eureka! | 11.00% | ~466 |
+| Tax-man I | 11.00% | ~466 |
+| A new beginning | 11.00% | ~466 |
 | Friends from the past | 9.00% | ~381 |
-| I like to build stuff... I | 8.00% | ~338 |
+| I like to build stuff... I | 8.00% | ~339 |
 | Builder I | 7.00% | ~296 |
 | An honorable Governor I | 7.00% | ~296 |
 | Researcher | 7.00% | ~296 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,231 (Ranked 145)  
+Progressed: 4,232 (Ranked 145)  
 Completed: 3 (0.07%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,6 +170,7 @@ Completed: 3 (0.07%) (Ranked 206)
 | 2023-07-29 | 4,220 | 3 |
 | 2023-07-30 | 4,227 | 3 |
 | 2023-07-31 | 4,231 | 3 |
+| 2023-08-01 | 4,232 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

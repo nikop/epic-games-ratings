@@ -25,7 +25,7 @@
 | BE OUR GUEST | 12.00% | ~365 |
 | PERFECTLY POISED | 11.00% | ~334 |
 | THE EYE OF THE HUNTER | 11.00% | ~334 |
-| ACE TRICKSTER | 9.00% | ~274 |
+| ACE TRICKSTER | 10.00% | ~304 |
 | EXPERIENCED CREW | 5.00% | ~152 |
 | FRAMED! | 5.00% | ~152 |
 ## Popularity (Based on EOS Achievements)

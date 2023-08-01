@@ -1,24 +1,24 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 657)  
+Rating: 4.43 (Ranked 658)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~54,729 |
-| This is only the beginning | 19.00% | ~41,594 |
-| Knowledge is power | 12.00% | ~26,270 |
-| Power Ranger | 9.00% | ~19,702 |
-| Galvanic Rifle | 9.00% | ~19,702 |
-| Taser Goad | 9.00% | ~19,702 |
-| Radium Ready | 9.00% | ~19,702 |
-| Half a cog | 9.00% | ~19,702 |
-| Watch them crumble | 6.00% | ~13,135 |
+| No aid from the Omnissiah | 25.00% | ~54,731 |
+| This is only the beginning | 19.00% | ~41,596 |
+| Knowledge is power | 12.00% | ~26,271 |
+| Power Ranger | 9.00% | ~19,703 |
+| Galvanic Rifle | 9.00% | ~19,703 |
+| Taser Goad | 9.00% | ~19,703 |
+| Radium Ready | 9.00% | ~19,703 |
+| Half a cog | 9.00% | ~19,703 |
+| Watch them crumble | 6.00% | ~13,136 |
 | Competent Cohort | 4.00% | ~8,757 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,757 |
 | One with the Machine | 4.00% | ~8,757 |
-| Legio Cybernetica | 3.00% | ~6,567 |
-| Fleshy Disposal | 3.00% | ~6,567 |
+| Legio Cybernetica | 3.00% | ~6,568 |
+| Fleshy Disposal | 3.00% | ~6,568 |
 | Battle Servitor | 2.00% | ~4,378 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,378 |
 | Impatient destruction | 2.00% | ~4,378 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 657)
 | Perma-live | 0.10% | ~219 |
 | Purge the Heretek | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,916 (Ranked 52)  
+Progressed: 218,925 (Ranked 52)  
 Completed: 4 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 4 (0.00%) (Ranked 247)
 | 2023-07-29 | 218,691 | 4 |
 | 2023-07-30 | 218,830 | 4 |
 | 2023-07-31 | 218,911 | 4 |
-| 2023-08-01 | 218,916 | 4 |
+| 2023-08-01 | 218,925 | 4 |
 ## Awards
 Max (Highly Recommended): 280  (Ranked 238)  
 Sum: 2,124 (Ranked 193)  

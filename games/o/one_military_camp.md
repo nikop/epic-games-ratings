@@ -15,8 +15,8 @@
 | Great Producer | 6.00% | ~7 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~6 |
 | Health Care | 5.00% | ~6 |
+| Desert Power | 5.00% | ~6 |
 | Ammo Tycoon | 5.00% | ~6 |
-| Desert Power | 4.00% | ~5 |
 | Pathfinder | 4.00% | ~5 |
 | Self-sufficient | 4.00% | ~5 |
 | Perfect Soldier | 3.00% | ~3 |
@@ -26,21 +26,21 @@
 | Medicine Tycoon | 3.00% | ~3 |
 | Tear Down the Wall! | 2.00% | ~2 |
 | Supersoldier | 2.00% | ~2 |
+| Vive le Résistance | 2.00% | ~2 |
 | Healing | 2.00% | ~2 |
 | Human Resources | 2.00% | ~2 |
 | Fuel Tycoon | 2.00% | ~2 |
 | Researcher | 2.00% | ~2 |
-| Vive le Résistance | 0.90% | ~1 |
+| Economist | 0.90% | ~1 |
+| Crisis Committee | 0.90% | ~1 |
 | No News is Good News | 0.90% | ~1 |
 | Snowman | 0.90% | ~1 |
 | Overpopulation | 0.90% | ~1 |
 | Training Camp | 0.90% | ~1 |
 | Reconquest | 0.90% | ~1 |
 | Winter Soldier | 0.90% | ~1 |
-| Economist | 0.00% | ~0 |
 | Attack of the Drones | 0.00% | ~0 |
 | Counter-espionage | 0.00% | ~0 |
-| Crisis Committee | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |
 | War Veteran | 0.00% | ~0 |
 | Conveyor Belt Madness | 0.00% | ~0 |

@@ -3314,9 +3314,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10721,
+  "EOS_Progressed": 10726,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9844,6 +9844,11 @@
       "Time": "2023-07-31T23:03:19.71878+00:00",
       "NumProgressed": 10721,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T02:08:20.6802366+00:00",
+      "NumProgressed": 10726,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9855,7 +9860,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2359
+      "UsersEstimate": 2360
     },
     {
       "ID": "02_BurningCity",
@@ -9863,7 +9868,7 @@
       "Name": "Burning City",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -9871,7 +9876,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "04_FithCrusade",
@@ -9879,7 +9884,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -9935,7 +9940,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "12_PathOfTrickster",
@@ -9943,7 +9948,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "13_PathOfLich",
@@ -9951,7 +9956,7 @@
       "Name": "Path of the Lich",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "14_PathOfSwarm",
@@ -10055,7 +10060,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "28_GreatUpstart",
@@ -10079,7 +10084,7 @@
       "Name": "Heroic Victory",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "31_DivideAndRule",
@@ -10111,7 +10116,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -10127,7 +10132,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -10135,7 +10140,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -10223,7 +10228,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "49_Flame",
@@ -10255,7 +10260,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -10782,21 +10787,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9503,
+      "Progressed": 9508,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10721,
+      "Progressed": 10726,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-30T15:58:44.9544514+00:00",
-  "LastChanged_Achievements": "2023-08-01T00:03:21.9996524+00:00",
+  "LastChanged_Achievements": "2023-08-01T02:08:20.6802357+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-07-31T23:58:47.2000306+00:00",
-  "LastUpdate_Achievements": "2023-08-01T00:03:21.999815+00:00"
+  "LastUpdate_Ratings": "2023-08-01T02:04:19.9149993+00:00",
+  "LastUpdate_Achievements": "2023-08-01T02:08:20.6804746+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -202,9 +202,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1728,
+  "EOS_Progressed": 1729,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2147,6 +2147,11 @@
       "Time": "2023-07-28T13:10:13.0702712+00:00",
       "NumProgressed": 1728,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T02:09:39.7240664+00:00",
+      "NumProgressed": 1729,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2158,7 +2163,7 @@
       "Name": "Neighborhood Revitalization",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "Achievement_002",
@@ -2174,7 +2179,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "Achievement_004",
@@ -2206,7 +2211,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "Achievement_009",
@@ -2214,7 +2219,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "Achievement_010",
@@ -2310,7 +2315,7 @@
       "Name": "Radio Silence",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "Achievement_022",
@@ -2358,7 +2363,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "Achievement_028",
@@ -2382,7 +2387,7 @@
       "Name": "ICU",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "Achievement_031",
@@ -2462,7 +2467,7 @@
       "Name": "Heart Attack",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "Achievement_041",
@@ -2676,16 +2681,16 @@
       "ID": "Achievement_071",
       "SetID": "6b34g18",
       "Name": "I Spit On Your Grave",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 329
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1728,
+      "Progressed": 1729,
       "Completed": 0
     }
   ],
@@ -2693,8 +2698,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-07-23T15:58:25.0076082+00:00",
-  "LastChanged_Achievements": "2023-08-01T00:04:19.4190205+00:00",
+  "LastChanged_Achievements": "2023-08-01T02:09:39.7240657+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:42.1299484+00:00",
-  "LastUpdate_Ratings": "2023-07-31T23:58:16.469117+00:00",
-  "LastUpdate_Achievements": "2023-08-01T00:04:19.4190815+00:00"
+  "LastUpdate_Ratings": "2023-08-01T02:03:47.0522309+00:00",
+  "LastUpdate_Achievements": "2023-08-01T02:09:39.724162+00:00"
 }

@@ -562,9 +562,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 9419,
+  "EOS_Progressed": 9423,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7542,6 +7542,11 @@
       "Time": "2023-08-01T00:04:36.2410992+00:00",
       "NumProgressed": 9419,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-08-01T02:09:57.2805229+00:00",
+      "NumProgressed": 9423,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -7623,9 +7628,9 @@
       "ID": "ACH10",
       "SetID": "9llo822",
       "Name": "Vice City Mogul",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 565
+      "UsersEstimate": 660
     },
     {
       "ID": "ACH11",
@@ -7633,7 +7638,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "ACH12",
@@ -7657,7 +7662,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3862
+      "UsersEstimate": 3863
     },
     {
       "ID": "ACH15",
@@ -7713,7 +7718,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4239
+      "UsersEstimate": 4240
     },
     {
       "ID": "ACH22",
@@ -7721,7 +7726,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "ACH23",
@@ -7729,7 +7734,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     },
     {
       "ID": "ACH24",
@@ -7824,7 +7829,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9419,
+      "Progressed": 9423,
       "Completed": 43
     }
   ],
@@ -7832,8 +7837,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-30T11:58:54.8503633+00:00",
-  "LastChanged_Achievements": "2023-08-01T00:04:36.2410988+00:00",
+  "LastChanged_Achievements": "2023-08-01T02:09:57.2805223+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-07-31T23:58:38.6026228+00:00",
-  "LastUpdate_Achievements": "2023-08-01T00:04:36.2411485+00:00"
+  "LastUpdate_Ratings": "2023-08-01T02:04:09.8275818+00:00",
+  "LastUpdate_Achievements": "2023-08-01T02:09:57.2805984+00:00"
 }

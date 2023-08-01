@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2172,10 +2172,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4105,
       "NumberOfAwardsMax": 2472
+    },
+    {
+      "Time": "2023-08-01T02:05:33.7625402+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4106,
+      "NumberOfAwardsMax": 2472
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4105,
+  "NumberOfAwards": 4106,
   "NumberOfAwardsMax": 2472,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2231,7 +2237,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 203
+      "Count": 204
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2240,9 +2246,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67539,
+  "EOS_Progressed": 67542,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -11310,6 +11316,11 @@
       "Time": "2023-08-01T00:05:07.6263345+00:00",
       "NumProgressed": 67539,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-08-01T02:10:29.0876734+00:00",
+      "NumProgressed": 67542,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 61,
@@ -11665,7 +11676,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4052
+      "UsersEstimate": 4053
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -11751,9 +11762,9 @@
       "ID": "MYSTERY_06",
       "SetID": "4eo5ebm",
       "Name": "Voiceless",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1351
+      "UsersEstimate": 2026
     },
     {
       "ID": "MYSTERY_07",
@@ -11808,22 +11819,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67539,
+      "Progressed": 67542,
       "Completed": 105
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37819,
+      "Progressed": 37822,
       "Completed": 2654
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-07-31T22:00:38.0909433+00:00",
-  "LastChanged_Achievements": "2023-08-01T00:05:07.6263337+00:00",
+  "LastChanged": "2023-08-01T02:05:33.76254+00:00",
+  "LastChanged_Achievements": "2023-08-01T02:10:29.0876726+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:38.4399056+00:00",
-  "LastUpdate_Ratings": "2023-07-31T23:59:56.5431151+00:00",
-  "LastUpdate_Achievements": "2023-08-01T00:05:07.6264221+00:00"
+  "LastUpdate_Ratings": "2023-08-01T02:05:33.7625408+00:00",
+  "LastUpdate_Achievements": "2023-08-01T02:10:29.087793+00:00"
 }

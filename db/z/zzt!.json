@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2991,
+  "EOS_Progressed": 2995,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.64,
   "EosHistory": [
@@ -3601,6 +3601,11 @@
       "Time": "2023-07-31T18:01:55.6350233+00:00",
       "NumProgressed": 2991,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-01T02:06:08.5290281+00:00",
+      "NumProgressed": 2995,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 5,
@@ -3612,7 +3617,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2991
+      "UsersEstimate": 2995
     },
     {
       "ID": "2",
@@ -3620,7 +3625,7 @@
       "Name": "Traveler",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "3",
@@ -3651,7 +3656,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2991,
+      "Progressed": 2995,
       "Completed": 109
     }
   ],
@@ -3659,8 +3664,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-07-31T23:01:44.5961978+00:00",
+  "LastChanged_Achievements": "2023-08-01T02:06:08.5290276+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.3360651+00:00",
-  "LastUpdate_Ratings": "2023-07-31T23:58:42.2485625+00:00",
-  "LastUpdate_Achievements": "2023-07-31T23:01:44.5962249+00:00"
+  "LastUpdate_Ratings": "2023-08-01T02:04:13.7738831+00:00",
+  "LastUpdate_Achievements": "2023-08-01T02:06:08.5291161+00:00"
 }

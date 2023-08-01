@@ -35,7 +35,7 @@
 | Mountain master | 0.00% | ~0 |
 | First extreme level | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224 (Ranked 273)  
+Progressed: 225 (Ranked 272)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,3 +86,4 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 216 | 0 |
 | 2023-07-30 | 223 | 0 |
 | 2023-07-31 | 224 | 0 |
+| 2023-08-01 | 225 | 0 |

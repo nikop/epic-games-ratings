@@ -13,6 +13,7 @@ Rating: 4.87 (Ranked 24)
 | Thanks for the free chip, Peppermint! | 4.00% | ~146 |
 | You got this, Peppermint? | 4.00% | ~146 |
 | Perfect Parry | 4.00% | ~146 |
+| Alright, that felt AWESOME! | 4.00% | ~146 |
 | This will cost you big time | 3.00% | ~110 |
 | The Negotiator | 3.00% | ~110 |
 | Headliner | 3.00% | ~110 |
@@ -24,7 +25,6 @@ Rating: 4.87 (Ranked 24)
 | Out in a puff of smoke | 3.00% | ~110 |
 | Uh, they were broken when I got here | 3.00% | ~110 |
 | Kissing the sky! | 3.00% | ~110 |
-| Alright, that felt AWESOME! | 3.00% | ~110 |
 | Does that say weakpoint? | 3.00% | ~110 |
 | NOW we got a kickass hideout! | 3.00% | ~65 |
 | Well that was a rush! | 2.00% | ~73 |

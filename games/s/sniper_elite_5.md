@@ -39,8 +39,8 @@ Rating: 4.42 (Ranked 666)
 | The Long Game | 1.00% | ~34 |
 | Rigged to Blow | 1.00% | ~34 |
 | Tinkerer | 1.00% | ~34 |
-| Road Rage | 0.90% | ~30 |
-| Don't hold your breath | 0.90% | ~30 |
+| Road Rage | 0.90% | ~31 |
+| Don't hold your breath | 0.90% | ~31 |
 | Herr Today, Gone Tomorrow | 0.90% | ~30 |
 | It'll Buff Right Out | 0.80% | ~27 |
 | Shipbreaker | 0.70% | ~23 |
@@ -77,7 +77,7 @@ Rating: 4.42 (Ranked 666)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,388 (Ranked 149)  
+Progressed: 3,390 (Ranked 149)  
 Completed: 9 (0.27%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,6 +179,7 @@ Completed: 9 (0.27%) (Ranked 162)
 | 2023-07-29 | 3,371 | 9 |
 | 2023-07-30 | 3,383 | 9 |
 | 2023-07-31 | 3,388 | 9 |
+| 2023-08-01 | 3,390 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
