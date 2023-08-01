@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3320,9 +3320,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10736,
+  "EOS_Progressed": 10737,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9880,6 +9880,11 @@
       "Time": "2023-08-01T15:02:59.3012549+00:00",
       "NumProgressed": 10736,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T16:00:52.088943+00:00",
+      "NumProgressed": 10737,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9899,7 +9904,7 @@
       "Name": "Burning City",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -10105,9 +10110,9 @@
       "ID": "29_StrategicVictory",
       "SetID": "989of5o",
       "Name": "Strategic Victory",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 97
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -10259,7 +10264,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "49_Flame",
@@ -10818,21 +10823,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9518,
+      "Progressed": 9519,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10736,
+      "Progressed": 10737,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-01T08:59:13.0269318+00:00",
-  "LastChanged_Achievements": "2023-08-01T15:02:59.3012524+00:00",
+  "LastChanged_Achievements": "2023-08-01T16:00:52.0889424+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-08-01T15:00:11.8346308+00:00",
-  "LastUpdate_Achievements": "2023-08-01T15:02:59.3015946+00:00"
+  "LastUpdate_Ratings": "2023-08-01T15:58:48.2210655+00:00",
+  "LastUpdate_Achievements": "2023-08-01T16:00:52.0891643+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-12-11T00:55:00+00:00",
     "PcReleaseDate": "2020-03-25T18:34:00+00:00",
@@ -7901,10 +7901,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 43690,
       "NumberOfAwardsMax": 16259
+    },
+    {
+      "Time": "2023-08-01T15:57:54.6729174+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 43707,
+      "NumberOfAwardsMax": 16259
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43690,
+  "NumberOfAwards": 43707,
   "NumberOfAwardsMax": 16259,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7936,7 +7942,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3505
+      "Count": 3512
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7954,7 +7960,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 3367
+      "Count": 3374
     },
     {
       "Text": "This game has Unique Visuals",
@@ -7972,7 +7978,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3324
+      "Count": 3327
     }
   ],
   "EOS_Progressed": 0,
@@ -7986,8 +7992,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2023-08-01T14:58:50.8785759+00:00",
+  "LastChanged": "2023-08-01T15:57:54.6729172+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:09.2677684+00:00",
-  "LastUpdate_Ratings": "2023-08-01T14:58:50.8785768+00:00",
-  "LastUpdate_Achievements": "2023-08-01T15:06:25.0727894+00:00"
+  "LastUpdate_Ratings": "2023-08-01T15:57:54.6729181+00:00",
+  "LastUpdate_Achievements": "2023-08-01T16:05:00.1139124+00:00"
 }

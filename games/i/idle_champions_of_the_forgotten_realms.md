@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,706 |
+| A Brief Tour of the Realms | 4.00% | ~8,707 |
 | Beast Intentions | 3.00% | ~6,530 |
 | Maddening | 2.00% | ~4,353 |
 | The Silken Swamp | 1.00% | ~2,177 |
@@ -14,11 +14,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 1.00% | ~1,839 |
 | Vecna Lives! | 0.90% | ~1,655 |
 | Rock and Roll | 0.90% | ~1,655 |
-| Flight of the Kindori Pod | 0.80% | ~1,471 |
-| Tall Tales | 0.70% | ~1,287 |
-| Seeds of Destruction | 0.70% | ~1,287 |
-| Vecna Loots! | 0.70% | ~1,287 |
-| Topolah's Tower | 0.70% | ~1,287 |
+| Flight of the Kindori Pod | 0.80% | ~1,472 |
+| Tall Tales | 0.70% | ~1,288 |
+| Seeds of Destruction | 0.70% | ~1,288 |
+| Vecna Loots! | 0.70% | ~1,288 |
+| Topolah's Tower | 0.70% | ~1,288 |
 | Pros and CONs | 0.60% | ~1,306 |
 | Wet Feet | 0.60% | ~1,306 |
 | Hatchlings Underfoot | 0.60% | ~1,306 |
@@ -82,6 +82,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prince of a Thousand Enemies | 0.30% | ~552 |
 | Downfall | 0.30% | ~552 |
 | Slack-jawed Lorna | 0.30% | ~552 |
+| The Fairy Rings of Thither | 0.30% | ~552 |
 | Owlbear Necessities | 0.30% | ~552 |
 | Well Equipped | 0.30% | ~552 |
 | The Castle of a Thousand Vecnas | 0.30% | ~552 |
@@ -136,7 +137,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Spire of Iriolarthas | 0.20% | ~368 |
 | The Fall of Ythryn | 0.20% | ~368 |
 | A Lesson in Classes | 0.20% | ~368 |
-| The Fairy Rings of Thither | 0.20% | ~368 |
 | Bully for You! | 0.20% | ~368 |
 | Will of the Feywild | 0.20% | ~368 |
 | The Roots of Loomlurch | 0.20% | ~368 |
@@ -167,6 +167,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for Owl-y | 0.20% | ~435 |
 | Werewolves in the Mist | 0.20% | ~435 |
 | We're not in Faerûn Anymore | 0.20% | ~435 |
+| Haunted Fortunes | 0.20% | ~435 |
 | Modron Assistance | 0.20% | ~435 |
 | Thine Bounty is Mine! | 0.20% | ~368 |
 | Domesticated Owlbears | 0.20% | ~435 |
@@ -292,7 +293,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Snakes on our Plane | 0.10% | ~184 |
 | The Soulmonger Calls | 0.10% | ~218 |
 | Acererak's Puzzle | 0.10% | ~184 |
-| Haunted Fortunes | 0.10% | ~218 |
 | Poor Fortune | 0.10% | ~218 |
 | Relentless Misfortune | 0.10% | ~218 |
 | Form Ranks | 0.10% | ~218 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,652 (Ranked 53)  
+Progressed: 217,664 (Ranked 53)  
 Completed: 2,141 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,7 +622,7 @@ Completed: 2,141 (0.98%) (Ranked 112)
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
-| 2023-08-01 | 217,652 | 2,141 |
+| 2023-08-01 | 217,664 | 2,141 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
 Sum: 30,840 (Ranked 38)  

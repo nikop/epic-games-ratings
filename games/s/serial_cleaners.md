@@ -19,9 +19,9 @@
 | Witness Protection | 4.00% | ~9 |
 | The Wing and the Thigh | 4.00% | ~9 |
 | Something Rotten | 3.00% | ~7 |
+| The Crush And Smash The Dino Four | 2.00% | ~2 |
 | … Women Inherit The Earth | 2.00% | ~2 |
 | Blood Capade | 1.00% | ~2 |
-| The Crush And Smash The Dino Four | 1.00% | ~1 |
 | Crazy SOB, You Did It | 0.90% | ~1 |
 | Bee Squat | 0.90% | ~2 |
 | The Germophobes | 0.90% | ~2 |

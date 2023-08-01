@@ -4,7 +4,7 @@
 Rating: 4.78 (Ranked 99)  
 ## Awards
 Max (Great Boss Battles): 1,386  (Ranked 125)  
-Sum: 1,830 (Ranked 203)  
+Sum: 1,831 (Ranked 203)  
 Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): -78
 | This game is Great for Beginners | 45 |
 | This game has Quickly Understood Controls | 44 |
 | This game is Relaxing | 44 |
-| This game has Amazing Characters | 42 |
+| This game has Amazing Characters | 43 |
 | This game is Educational | 33 |
 | This game has Beautiful Visuals | 26 |
 ## Ratings History
@@ -141,4 +141,4 @@ Diff (max vs sum): -78
 | 2023-07-29 | 4.78 | 1,380 | 1,813 |
 | 2023-07-30 | 4.78 | 1,386 | 1,825 |
 | 2023-07-31 | 4.78 | 1,386 | 1,829 |
-| 2023-08-01 | 4.78 | 1,386 | 1,830 |
+| 2023-08-01 | 4.78 | 1,386 | 1,831 |

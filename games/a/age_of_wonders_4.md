@@ -7,11 +7,11 @@ Rating: 4.63 (Ranked 333)
 | ---- | ---------- | ----- |
 | Secret Technique | 6.00% | ~304 |
 | Realm Estate | 5.00% | ~254 |
+| A Wonderful Discovery | 5.00% | ~254 |
 | Walls Cannot Stop Us | 5.00% | ~254 |
 | Tipping the Scales | 5.00% | ~254 |
 | There Can Only Be One! | 4.00% | ~203 |
 | Full Ascension | 4.00% | ~203 |
-| A Wonderful Discovery | 4.00% | ~203 |
 | Bone Peddler | 4.00% | ~203 |
 | From Friends to Family | 4.00% | ~203 |
 | Stronger Together | 4.00% | ~203 |

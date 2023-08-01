@@ -6,18 +6,18 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,594 |
-| Tutti Eroi! | 55.00% | ~3,594 |
-| You Shall Not Pass | 53.00% | ~3,463 |
-| Avanti Savoia! | 47.00% | ~3,071 |
+| Peak Performance | 55.00% | ~3,595 |
+| Tutti Eroi! | 55.00% | ~3,595 |
+| You Shall Not Pass | 53.00% | ~3,464 |
+| Avanti Savoia! | 47.00% | ~3,072 |
 | Mamma Mia! | 37.00% | ~2,418 |
-| Conrad von Hotzensocks | 36.00% | ~2,352 |
-| Gabriele D'Annunzio | 33.00% | ~2,156 |
+| Conrad von Hotzensocks | 36.00% | ~2,353 |
+| Gabriele D'Annunzio | 33.00% | ~2,157 |
 | Silver Lining | 29.00% | ~1,895 |
 | Aurelio Baruzzi | 23.00% | ~1,503 |
-| Veni Vidi Vici | 22.00% | ~1,437 |
-| Decimation | 21.00% | ~1,372 |
-| Donatello | 21.00% | ~1,372 |
+| Veni Vidi Vici | 22.00% | ~1,438 |
+| Decimation | 21.00% | ~1,373 |
+| Donatello | 21.00% | ~1,373 |
 | Insubordination | 20.00% | ~1,307 |
 | The Italian Job | 20.00% | ~1,307 |
 | The Lion of the Isonzo | 18.00% | ~1,176 |
@@ -26,13 +26,13 @@ Number of Ratings: 98  (23.09.2022)
 | Luigi Cadorna | 14.00% | ~915 |
 | Thus With A Kiss | 14.00% | ~915 |
 | Uomo Universale | 14.00% | ~915 |
-| Machiavelli | 13.00% | ~849 |
-| Shaken, Not Stirred | 13.00% | ~849 |
+| Machiavelli | 13.00% | ~850 |
+| Shaken, Not Stirred | 13.00% | ~850 |
 | Die Bosniaken Kommen! | 12.00% | ~784 |
 | Dante's Inferno | 11.00% | ~719 |
 | The Devil's Paintbrush | 11.00% | ~719 |
-| I Have the High Ground | 10.00% | ~653 |
-| Millenial | 10.00% | ~653 |
+| I Have the High Ground | 10.00% | ~654 |
+| Millenial | 10.00% | ~654 |
 | The Show Must Go On | 9.00% | ~588 |
 | Tosca | 9.00% | ~588 |
 | 12th Bottle of the Isonzo | 6.00% | ~392 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~26 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,534 (Ranked 133)  
+Progressed: 6,536 (Ranked 133)  
 Completed: 8 (0.12%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 8 (0.12%) (Ranked 189)
 | 2023-07-29 | 6,499 | 8 |
 | 2023-07-30 | 6,519 | 8 |
 | 2023-07-31 | 6,529 | 8 |
-| 2023-08-01 | 6,534 | 8 |
+| 2023-08-01 | 6,536 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 436)  
 Sum: 261 (Ranked 349)  

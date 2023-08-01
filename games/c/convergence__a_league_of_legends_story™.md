@@ -21,6 +21,7 @@ Rating: 4.60 (Ranked 390)
 | The Wicked Twins | 16.00% | ~130 |
 | Honest Mistake | 16.00% | ~130 |
 | Fast Learner | 16.00% | ~130 |
+| Like Clockwork | 15.00% | ~122 |
 | The Betrayer | 15.00% | ~122 |
 | The Man Who Shattered Time | 15.00% | ~122 |
 | The Loose Cannon | 15.00% | ~122 |
@@ -28,7 +29,6 @@ Rating: 4.60 (Ranked 390)
 | The Family Fortune | 15.00% | ~122 |
 | Treasure Trove | 14.00% | ~114 |
 | Right On Time | 14.00% | ~114 |
-| Like Clockwork | 14.00% | ~114 |
 | Cartographer | 14.00% | ~114 |
 | Check Your Pulse | 14.00% | ~114 |
 | Street Style | 13.00% | ~106 |

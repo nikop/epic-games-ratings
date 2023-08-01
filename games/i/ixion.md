@@ -5,7 +5,7 @@ Rating: 4.55 (Ranked 482)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 24.00% | ~718 |
+| Wakey Wakey | 24.00% | ~719 |
 | Sputnik 2049 | 21.00% | ~629 |
 | Infinite Growth... | 20.00% | ~599 |
 | Without Breaking Some Eggs... | 19.00% | ~569 |
@@ -20,7 +20,7 @@ Rating: 4.55 (Ranked 482)
 | Exceeding Capacity | 9.00% | ~269 |
 | Breaking Protocol | 9.00% | ~269 |
 | Hope Seeker | 9.00% | ~269 |
-| A Hunk of Junk | 8.00% | ~239 |
+| A Hunk of Junk | 8.00% | ~240 |
 | Man's Best Friend | 6.00% | ~180 |
 | Power Outage | 6.00% | ~180 |
 | Convenient Transport | 6.00% | ~180 |
@@ -30,12 +30,12 @@ Rating: 4.55 (Ranked 482)
 | Necessary Enhancement | 5.00% | ~150 |
 | From the Past | 5.00% | ~150 |
 | Oats | 4.00% | ~120 |
+| BRAWL! | 4.00% | ~120 |
 | All in Good Health | 4.00% | ~120 |
 | What the Ruins Teach Us | 4.00% | ~120 |
 | What They Hide From Us | 3.00% | ~90 |
 | ...  in a finite world | 3.00% | ~90 |
 | Sustainable Energy | 3.00% | ~90 |
-| BRAWL! | 3.00% | ~90 |
 | In Dolos We Trust | 2.00% | ~60 |
 | Praise the Hull! | 2.00% | ~60 |
 | Space Greenhouse | 2.00% | ~60 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 482)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,993 (Ranked 157)  
+Progressed: 2,994 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 2,956 | 0 |
 | 2023-07-30 | 2,977 | 0 |
 | 2023-07-31 | 2,988 | 0 |
-| 2023-08-01 | 2,993 | 0 |
+| 2023-08-01 | 2,994 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

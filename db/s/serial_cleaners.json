@@ -4,8 +4,8 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -530,9 +530,9 @@
       "ID": "DLC01_ACHIEVEMENT05",
       "SetID": "5jieak",
       "Name": "The Crush And Smash The Dino Four",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DLC01_ACHIEVEMENT06",
@@ -617,8 +617,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-08-01T15:05:43.1454275+00:00",
+  "LastChanged_Achievements": "2023-08-01T16:04:30.1132684+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:06.1854307+00:00",
-  "LastUpdate_Ratings": "2023-08-01T15:01:13.8400126+00:00",
-  "LastUpdate_Achievements": "2023-08-01T15:05:43.145464+00:00"
+  "LastUpdate_Ratings": "2023-08-01T15:59:37.9349469+00:00",
+  "LastUpdate_Achievements": "2023-08-01T16:04:30.1132881+00:00"
 }

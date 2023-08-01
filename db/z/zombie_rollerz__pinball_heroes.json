@@ -4,8 +4,8 @@
   "ProductSlug": "zombie-rollerz-7aa027",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -611,9 +611,9 @@
       "ID": "PRG_BOSS_MAGICIAN",
       "SetID": "89cjc9l",
       "Name": "The Magician",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "PRG_BOSS_NINJA",
@@ -988,8 +988,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-08-01T15:03:18.8773012+00:00",
+  "LastChanged_Achievements": "2023-08-01T16:02:15.3009008+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:09.9193122+00:00",
-  "LastUpdate_Ratings": "2023-08-01T14:58:51.0654029+00:00",
-  "LastUpdate_Achievements": "2023-08-01T15:03:18.8773913+00:00"
+  "LastUpdate_Ratings": "2023-08-01T15:57:54.7761725+00:00",
+  "LastUpdate_Achievements": "2023-08-01T16:02:15.300986+00:00"
 }

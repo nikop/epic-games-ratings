@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Tastes just like chicken! | 92.00% | ~86 |
 | MLG 360 no scope kill! | 92.00% | ~86 |
 | Are you ready to rumble? | 92.00% | ~86 |
-| Tastes just like chicken! | 91.00% | ~85 |
 | That's what cheese said! | 86.00% | ~80 |
 | Nerd | 86.00% | ~80 |
-| I like you...but I have to kill you... | 84.00% | ~78 |
-| AHHHHHH.....I'M ON FIRE!!! | 83.00% | ~77 |
+| I like you...but I have to kill you... | 85.00% | ~79 |
+| AHHHHHH.....I'M ON FIRE!!! | 84.00% | ~78 |
 | Not so hip anymore! | 83.00% | ~77 |
 | Blurry depth perception | 81.00% | ~75 |
 | Up and down | 78.00% | ~73 |

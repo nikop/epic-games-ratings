@@ -4,11 +4,11 @@
   "ProductSlug": "honkai-star-rail",
   "Ranking_Rating": 146,
   "Ranking_Popularity": 65,
-  "Ranking_PopularitySum": 82,
+  "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
     "PcReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -1906,18 +1906,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 10810,
       "NumberOfAwardsMax": 5355
+    },
+    {
+      "Time": "2023-08-01T16:00:42.7015023+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 10935,
+      "NumberOfAwardsMax": 5464
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10810,
-  "NumberOfAwardsMax": 5355,
+  "NumberOfAwards": 10935,
+  "NumberOfAwardsMax": 5464,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 5355
+      "Count": 5464
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1971,7 +1977,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 484
+      "Count": 500
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1998,8 +2004,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-08-01T12:00:35.4428281+00:00",
+  "LastChanged": "2023-08-01T16:00:42.7015022+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.3696211+00:00",
-  "LastUpdate_Ratings": "2023-08-01T15:02:46.944905+00:00",
-  "LastUpdate_Achievements": "2023-08-01T15:06:36.7142853+00:00"
+  "LastUpdate_Ratings": "2023-08-01T16:00:42.7015029+00:00",
+  "LastUpdate_Achievements": "2023-08-01T16:05:08.8467313+00:00"
 }

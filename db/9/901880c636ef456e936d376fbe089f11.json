@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -559,9 +559,9 @@
       "ID": "ACH_OVERFLOWING_WARMTH",
       "SetID": "8h8m55b",
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_REMEMBRANCE",
@@ -623,9 +623,9 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 65,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -726,8 +726,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-08-01T15:07:22.0978403+00:00",
+  "LastChanged_Achievements": "2023-08-01T16:05:43.629322+00:00",
   "LastUpdate_AppInfo": "2023-08-01T07:57:11.1025351+00:00",
-  "LastUpdate_Ratings": "2023-08-01T14:58:05.4319467+00:00",
-  "LastUpdate_Achievements": "2023-08-01T15:07:22.0978961+00:00"
+  "LastUpdate_Ratings": "2023-08-01T15:57:22.702372+00:00",
+  "LastUpdate_Achievements": "2023-08-01T16:05:43.6293702+00:00"
 }

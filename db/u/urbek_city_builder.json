@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 296,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1062,9 +1062,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 71
     },
     {
       "ID": "FAITH_2",
@@ -1198,9 +1198,9 @@
       "ID": "MADERA_0",
       "SetID": "44dlcg0",
       "Name": "The woodcutter",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 71
     },
     {
       "ID": "MILLS",
@@ -1278,9 +1278,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 195
     },
     {
       "ID": "POPULATION_2",
@@ -1487,8 +1487,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-08-01T15:08:23.0172206+00:00",
+  "LastChanged_Achievements": "2023-08-01T16:06:27.1261528+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:43.1827432+00:00",
-  "LastUpdate_Ratings": "2023-08-01T15:00:46.2169384+00:00",
-  "LastUpdate_Achievements": "2023-08-01T15:08:23.0173012+00:00"
+  "LastUpdate_Ratings": "2023-08-01T15:59:16.7090832+00:00",
+  "LastUpdate_Achievements": "2023-08-01T16:06:27.1262535+00:00"
 }

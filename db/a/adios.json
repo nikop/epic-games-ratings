@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -90,9 +90,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68399,
+  "EOS_Progressed": 68405,
   "EOS_Completed": 678,
-  "EOS_NewPlayers": 916,
+  "EOS_NewPlayers": 908,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -11355,6 +11355,11 @@
       "Time": "2023-08-01T15:08:17.3274435+00:00",
       "NumProgressed": 68399,
       "NumCompleted": 678
+    },
+    {
+      "Time": "2023-08-01T16:06:22.8553382+00:00",
+      "NumProgressed": 68405,
+      "NumCompleted": 678
     }
   ],
   "TotalAchievements": 25,
@@ -11382,7 +11387,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 12312
+      "UsersEstimate": 12313
     },
     {
       "ID": "Audiophile",
@@ -11398,7 +11403,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 15048
+      "UsersEstimate": 15049
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -11406,7 +11411,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12312
+      "UsersEstimate": 12313
     },
     {
       "ID": "Butcher",
@@ -11438,7 +11443,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 13680
+      "UsersEstimate": 13681
     },
     {
       "ID": "Hearty",
@@ -11470,7 +11475,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 13680
+      "UsersEstimate": 13681
     },
     {
       "ID": "Meaty",
@@ -11486,7 +11491,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12996
+      "UsersEstimate": 12997
     },
     {
       "ID": "Nice Try",
@@ -11494,7 +11499,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10944
+      "UsersEstimate": 10945
     },
     {
       "ID": "Nothing Left to Say",
@@ -11518,7 +11523,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 8892
+      "UsersEstimate": 8893
     },
     {
       "ID": "Sniper",
@@ -11565,7 +11570,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 68399,
+      "Progressed": 68405,
       "Completed": 678
     }
   ],
@@ -11573,8 +11578,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-07-28T23:00:50.3607038+00:00",
-  "LastChanged_Achievements": "2023-08-01T15:08:17.3274429+00:00",
+  "LastChanged_Achievements": "2023-08-01T16:06:22.8553376+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:54.7008229+00:00",
-  "LastUpdate_Ratings": "2023-08-01T14:57:33.5039502+00:00",
-  "LastUpdate_Achievements": "2023-08-01T15:08:17.3275269+00:00"
+  "LastUpdate_Ratings": "2023-08-01T15:56:58.8029688+00:00",
+  "LastUpdate_Achievements": "2023-08-01T16:06:22.855435+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 6.00% | ~219 |
-| Feeling the beat! | 6.00% | ~219 |
+| Start with a bang! | 6.00% | ~220 |
+| Feeling the beat! | 6.00% | ~220 |
 | Who put gears in there? | 5.00% | ~183 |
 | You can pet the cat! | 5.00% | ~183 |
 | Cream of the Crop | 4.00% | ~146 |
@@ -40,7 +40,7 @@ Rating: 4.87 (Ranked 24)
 | I told you I'd be fine, Peppermint! | 0.80% | ~29 |
 | Check out my moves! | 0.80% | ~29 |
 | Call me Turbo Chai | 0.80% | ~17 |
-| I think I found your calling, Macaron | 0.60% | ~22 |
+| I think I found your calling, Macaron | 0.70% | ~26 |
 | I think I deserve some praise, here! | 0.50% | ~18 |
 | This is a breeze! | 0.50% | ~18 |
 | I hit things with a guitar really well. | 0.50% | ~18 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,658 (Ranked 146)  
+Progressed: 3,659 (Ranked 146)  
 Completed: 6 (0.16%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 6 (0.16%) (Ranked 180)
 | 2023-07-29 | 3,627 | 6 |
 | 2023-07-30 | 3,640 | 6 |
 | 2023-07-31 | 3,656 | 6 |
-| 2023-08-01 | 3,658 | 6 |
+| 2023-08-01 | 3,659 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

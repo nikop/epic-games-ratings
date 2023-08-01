@@ -5452,10 +5452,10 @@
       "Count": 3332
     }
   ],
-  "EOS_Progressed": 217652,
+  "EOS_Progressed": 217664,
   "EOS_Completed": 2141,
-  "EOS_NewPlayers": 2249,
-  "EOS_NewCompleters": 35,
+  "EOS_NewPlayers": 2245,
+  "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16547,6 +16547,11 @@
       "Time": "2023-08-01T15:05:03.5389498+00:00",
       "NumProgressed": 217652,
       "NumCompleted": 2141
+    },
+    {
+      "Time": "2023-08-01T16:04:02.0973541+00:00",
+      "NumProgressed": 217664,
+      "NumCompleted": 2141
     }
   ],
   "TotalAchievements": 512,
@@ -16558,7 +16563,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8706
+      "UsersEstimate": 8707
     },
     {
       "ID": "objective_completed_10",
@@ -16630,7 +16635,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "objective_completed_1051",
@@ -16900,9 +16905,9 @@
       "ID": "objective_completed_1095",
       "SetID": "415jc5c",
       "Name": "The Fairy Rings of Thither",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 552
     },
     {
       "ID": "objective_completed_1096",
@@ -17182,7 +17187,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "objective_completed_1153",
@@ -17262,7 +17267,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "objective_completed_1169",
@@ -17948,9 +17953,9 @@
       "ID": "objective_completed_214",
       "SetID": "cc37lbc",
       "Name": "Haunted Fortunes",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 435
     },
     {
       "ID": "objective_completed_215",
@@ -20614,7 +20619,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "objective_completed_1386",
@@ -20630,7 +20635,7 @@
       "Name": "Topolah\u0027s Tower",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "objective_completed_1391",
@@ -20653,21 +20658,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183926,
+      "Progressed": 183938,
       "Completed": 3046
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217652,
+      "Progressed": 217664,
       "Completed": 2141
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-01T06:58:55.3799578+00:00",
-  "LastChanged_Achievements": "2023-08-01T15:05:03.5389492+00:00",
+  "LastChanged_Achievements": "2023-08-01T16:04:02.0973536+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-01T14:59:47.731568+00:00",
-  "LastUpdate_Achievements": "2023-08-01T15:05:03.5418835+00:00"
+  "LastUpdate_Ratings": "2023-08-01T15:58:31.7486835+00:00",
+  "LastUpdate_Achievements": "2023-08-01T16:04:02.1001074+00:00"
 }

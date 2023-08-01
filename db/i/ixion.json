@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2993,
+  "EOS_Progressed": 2994,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4184,6 +4184,11 @@
       "Time": "2023-08-01T15:06:39.7484847+00:00",
       "NumProgressed": 2993,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T16:05:11.2336032+00:00",
+      "NumProgressed": 2994,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4283,7 +4288,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "ACH_BASE_22",
@@ -4331,7 +4336,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_BASE_28",
@@ -4529,9 +4534,9 @@
       "ID": "ACH_BASE_52",
       "SetID": "92iocjf",
       "Name": "BRAWL!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_BASE_53",
@@ -4650,13 +4655,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1175,
+      "Progressed": 1176,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2993,
+      "Progressed": 2994,
       "Completed": 0
     }
   ],
@@ -4664,8 +4669,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-08-01T15:06:39.748484+00:00",
+  "LastChanged_Achievements": "2023-08-01T16:05:11.2336028+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:24.1949352+00:00",
-  "LastUpdate_Ratings": "2023-08-01T15:00:18.7422138+00:00",
-  "LastUpdate_Achievements": "2023-08-01T15:06:39.7485911+00:00"
+  "LastUpdate_Ratings": "2023-08-01T15:58:54.766071+00:00",
+  "LastUpdate_Achievements": "2023-08-01T16:05:11.2336908+00:00"
 }
