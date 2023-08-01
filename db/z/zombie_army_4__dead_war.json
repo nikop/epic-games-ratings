@@ -2,13 +2,13 @@
   "ID": "dfd2530e80e4425d801913b0879be444",
   "Name": "Zombie Army 4: Dead War",
   "ProductSlug": "zombie-army-4-dead-war",
-  "Ranking_Rating": 213,
+  "Ranking_Rating": 214,
   "Ranking_Popularity": 152,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1887,9 +1887,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43182,
+  "EOS_Progressed": 43183,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5577,6 +5577,11 @@
       "Time": "2023-08-01T15:05:39.9352303+00:00",
       "NumProgressed": 43182,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-08-01T18:05:11.10772+00:00",
+      "NumProgressed": 43183,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -5588,7 +5593,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26341
+      "UsersEstimate": 26342
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -5684,7 +5689,7 @@
       "Name": "I\u0027m going deeper underground",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6045
+      "UsersEstimate": 6046
     },
     {
       "ID": "SE_COMPLETE_GENOA",
@@ -5708,7 +5713,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 13818
+      "UsersEstimate": 13819
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -5804,7 +5809,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19000
+      "UsersEstimate": 19001
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -5812,7 +5817,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13386
+      "UsersEstimate": 13387
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -5836,7 +5841,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21159
+      "UsersEstimate": 21160
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -5852,7 +5857,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13386
+      "UsersEstimate": 13387
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -5876,7 +5881,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 15977
+      "UsersEstimate": 15978
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -5884,7 +5889,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18136
+      "UsersEstimate": 18137
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -5892,7 +5897,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21591
+      "UsersEstimate": 21592
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -5900,7 +5905,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16409
+      "UsersEstimate": 16410
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -5980,7 +5985,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 19000
+      "UsersEstimate": 19001
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -5988,7 +5993,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28500
+      "UsersEstimate": 28501
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -6044,7 +6049,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 28068
+      "UsersEstimate": 28069
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -6115,15 +6120,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43182,
+      "Progressed": 43183,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-08-01T14:00:54.5955553+00:00",
-  "LastChanged_Achievements": "2023-08-01T17:05:37.355871+00:00",
+  "LastChanged_Achievements": "2023-08-01T18:05:11.1077192+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:44.6103145+00:00",
-  "LastUpdate_Ratings": "2023-08-01T17:01:46.4915234+00:00",
-  "LastUpdate_Achievements": "2023-08-01T17:05:37.3560259+00:00"
+  "LastUpdate_Ratings": "2023-08-01T18:01:04.8459724+00:00",
+  "LastUpdate_Achievements": "2023-08-01T18:05:11.1078111+00:00"
 }

@@ -20,6 +20,7 @@
 | Perfect Soldier | 4.00% | ~5 |
 | Pathfinder | 4.00% | ~5 |
 | Self-sufficient | 4.00% | ~5 |
+| Medicine Tycoon | 4.00% | ~5 |
 | Supersoldier | 3.00% | ~3 |
 | Outdoor Decorator | 3.00% | ~3 |
 | Healing | 3.00% | ~3 |
@@ -27,7 +28,6 @@
 | Human Resources | 3.00% | ~3 |
 | Food Tycoon | 3.00% | ~3 |
 | Fuel Tycoon | 3.00% | ~3 |
-| Medicine Tycoon | 3.00% | ~3 |
 | Tear Down the Wall! | 2.00% | ~2 |
 | Vive le Résistance | 2.00% | ~2 |
 | Snowman | 2.00% | ~2 |

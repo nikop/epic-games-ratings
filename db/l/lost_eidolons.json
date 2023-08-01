@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1075,
+  "EOS_Progressed": 1076,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1240,6 +1240,11 @@
       "Time": "2023-08-01T12:03:25.8263801+00:00",
       "NumProgressed": 1075,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T18:03:18.7889436+00:00",
+      "NumProgressed": 1076,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -1283,7 +1288,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "06",
@@ -1291,7 +1296,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "07",
@@ -1299,7 +1304,7 @@
       "Name": "Monster Hunter",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "08",
@@ -1434,7 +1439,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1075,
+      "Progressed": 1076,
       "Completed": 0
     }
   ],
@@ -1442,8 +1447,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-08-01T17:03:16.6095103+00:00",
+  "LastChanged_Achievements": "2023-08-01T18:03:18.7889429+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:26.3547076+00:00",
-  "LastUpdate_Ratings": "2023-08-01T17:01:28.7867963+00:00",
-  "LastUpdate_Achievements": "2023-08-01T17:03:16.6095508+00:00"
+  "LastUpdate_Ratings": "2023-08-01T18:00:48.5397648+00:00",
+  "LastUpdate_Achievements": "2023-08-01T18:03:18.7889752+00:00"
 }

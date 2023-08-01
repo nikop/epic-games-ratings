@@ -16,9 +16,9 @@ Number of Ratings: 371  (23.09.2022)
 | Bloodless | 1.00% | ~31 |
 | Friendly Fire | 0.90% | ~28 |
 | Surgical Excision | 0.80% | ~25 |
-| A Foul Creche | 0.70% | ~22 |
+| A Foul Creche | 0.80% | ~25 |
 | Honoured Battle-Brother | 0.60% | ~19 |
-| The Emperor Protects | 0.50% | ~15 |
+| The Emperor Protects | 0.60% | ~19 |
 | Nemesis Master | 0.50% | ~15 |
 | Execution Force | 0.50% | ~15 |
 | Hold Your Ground | 0.40% | ~12 |

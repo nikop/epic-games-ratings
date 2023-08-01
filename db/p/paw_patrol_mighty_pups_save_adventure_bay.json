@@ -4,8 +4,8 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -231,9 +231,9 @@
       "ID": "20",
       "SetID": "38ide56",
       "Name": "In the Air",
-      "Percentage": 22,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "21",
@@ -319,9 +319,9 @@
       "ID": "4",
       "SetID": "38ide56",
       "Name": "Carlos Is Tangled",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "5",
@@ -376,8 +376,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-08-01T17:05:45.1837935+00:00",
+  "LastChanged_Achievements": "2023-08-01T18:05:18.2379398+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:02.4264526+00:00",
-  "LastUpdate_Ratings": "2023-08-01T17:01:03.6808992+00:00",
-  "LastUpdate_Achievements": "2023-08-01T17:05:45.1838323+00:00"
+  "LastUpdate_Ratings": "2023-08-01T18:00:28.4457542+00:00",
+  "LastUpdate_Achievements": "2023-08-01T18:05:18.2379641+00:00"
 }

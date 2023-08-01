@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -52,11 +52,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 575,
+  "EOS_Progressed": 576,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.35,
+  "EOS_Completed_Percentage": 4.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -1987,6 +1987,11 @@
       "Time": "2023-08-01T13:14:16.9109912+00:00",
       "NumProgressed": 575,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-08-01T18:07:10.6148965+00:00",
+      "NumProgressed": 576,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 28,
@@ -1998,7 +2003,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "MQ01_2",
@@ -2046,7 +2051,7 @@
       "Name": "Fond Memories",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "MQ03_2",
@@ -2054,7 +2059,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "MQ03_3",
@@ -2086,7 +2091,7 @@
       "Name": "Going Once...",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "MQ04_2",
@@ -2094,7 +2099,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "MQ04_3",
@@ -2118,7 +2123,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "MQ05_3",
@@ -2158,7 +2163,7 @@
       "Name": "Land, Ho!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "MQ06_4",
@@ -2166,7 +2171,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "MQ07_1",
@@ -2198,7 +2203,7 @@
       "Name": "Up In Flames",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "MQ08_3",
@@ -2221,7 +2226,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 575,
+      "Progressed": 576,
       "Completed": 25
     }
   ],
@@ -2229,8 +2234,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-07-24T23:58:19.6744242+00:00",
-  "LastChanged_Achievements": "2023-08-01T17:07:58.7035367+00:00",
+  "LastChanged_Achievements": "2023-08-01T18:07:10.6148958+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:58.5261994+00:00",
-  "LastUpdate_Ratings": "2023-08-01T16:58:15.6572389+00:00",
-  "LastUpdate_Achievements": "2023-08-01T17:07:58.7035931+00:00"
+  "LastUpdate_Ratings": "2023-08-01T17:58:07.051533+00:00",
+  "LastUpdate_Achievements": "2023-08-01T18:07:10.6149478+00:00"
 }

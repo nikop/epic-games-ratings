@@ -4,11 +4,11 @@
   "ProductSlug": "superteam-football-6ce66c",
   "Ranking_Rating": 630,
   "Ranking_Popularity": 420,
-  "Ranking_PopularitySum": 324,
+  "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-26T16:00:00+00:00",
@@ -713,6 +713,6 @@
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
   "LastChanged": "2023-07-30T03:01:36.0738108+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:30.5082779+00:00",
-  "LastUpdate_Ratings": "2023-08-01T16:57:08.105583+00:00",
-  "LastUpdate_Achievements": "2023-08-01T17:03:58.3159475+00:00"
+  "LastUpdate_Ratings": "2023-08-01T17:57:10.0212085+00:00",
+  "LastUpdate_Achievements": "2023-08-01T18:03:54.6962886+00:00"
 }

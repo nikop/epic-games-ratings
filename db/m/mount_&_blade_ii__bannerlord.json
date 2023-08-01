@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6075,9 +6075,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 57795,
+  "EOS_Progressed": 57797,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 922,
+  "EOS_NewPlayers": 914,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16865,6 +16865,11 @@
       "Time": "2023-08-01T17:03:36.4677406+00:00",
       "NumProgressed": 57795,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T18:03:36.0595014+00:00",
+      "NumProgressed": 57797,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -16876,7 +16881,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6357
+      "UsersEstimate": 6358
     },
     {
       "ID": "Apple of my eye",
@@ -16884,7 +16889,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 8669
+      "UsersEstimate": 8670
     },
     {
       "ID": "Bannerlord",
@@ -17004,7 +17009,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6935
+      "UsersEstimate": 6936
     },
     {
       "ID": "Great Granny",
@@ -17044,7 +17049,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8669
+      "UsersEstimate": 8670
     },
     {
       "ID": "I spit on your grave",
@@ -17068,7 +17073,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 9247
+      "UsersEstimate": 9248
     },
     {
       "ID": "Kingslayer",
@@ -17100,7 +17105,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18494
+      "UsersEstimate": 18495
     },
     {
       "ID": "Lawbringer",
@@ -17108,7 +17113,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 21962
+      "UsersEstimate": 21963
     },
     {
       "ID": "Lawmaker",
@@ -17283,15 +17288,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 57795,
+      "Progressed": 57797,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-01T16:00:03.4563676+00:00",
-  "LastChanged_Achievements": "2023-08-01T17:03:36.4677399+00:00",
+  "LastChanged_Achievements": "2023-08-01T18:03:36.0595007+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:33.2077536+00:00",
-  "LastUpdate_Ratings": "2023-08-01T17:01:36.1326236+00:00",
-  "LastUpdate_Achievements": "2023-08-01T17:03:36.4679415+00:00"
+  "LastUpdate_Ratings": "2023-08-01T18:00:54.5760758+00:00",
+  "LastUpdate_Achievements": "2023-08-01T18:03:36.059678+00:00"
 }

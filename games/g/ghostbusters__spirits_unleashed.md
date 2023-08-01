@@ -1,28 +1,28 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 575)  
+Rating: 4.49 (Ranked 576)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,169 |
-| Advancement | 73.00% | ~17,969 |
+| Stylish | 86.00% | ~21,170 |
+| Advancement | 73.00% | ~17,970 |
 | Meticulously Efficient | 64.00% | ~15,754 |
-| Discovery | 61.00% | ~15,015 |
-| Fully Upgraded | 54.00% | ~13,292 |
-| Swift Rift Removers | 54.00% | ~13,292 |
+| Discovery | 61.00% | ~15,016 |
+| Fully Upgraded | 54.00% | ~13,293 |
+| Swift Rift Removers | 54.00% | ~13,293 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,554 |
 | Cultured | 51.00% | ~12,554 |
-| Vaporous Expansion | 48.00% | ~11,815 |
+| Vaporous Expansion | 48.00% | ~11,816 |
 | Teamwork | 44.00% | ~10,831 |
-| There you are! | 42.00% | ~10,338 |
-| Clutch Capture | 41.00% | ~10,092 |
-| Back Off | 35.00% | ~8,615 |
+| There you are! | 42.00% | ~10,339 |
+| Clutch Capture | 41.00% | ~10,093 |
+| Back Off | 35.00% | ~8,616 |
 | Daily Dose | 34.00% | ~8,369 |
 | Solo Capture | 32.00% | ~7,877 |
 | Welcome to the Crew | 32.00% | ~7,877 |
-| Ghostbuster In Training | 30.00% | ~7,384 |
-| Icing on the Cake | 30.00% | ~7,384 |
+| Ghostbuster In Training | 30.00% | ~7,385 |
+| Icing on the Cake | 30.00% | ~7,385 |
 | Side Hustle | 27.00% | ~6,646 |
 | We have the best insurance | 26.00% | ~6,400 |
 | Legions | 26.00% | ~6,400 |
@@ -32,15 +32,15 @@ Rating: 4.49 (Ranked 575)
 | Pesky Jerks | 25.00% | ~6,154 |
 | Animated | 24.00% | ~5,908 |
 | Skilled | 24.00% | ~5,908 |
-| Collector | 23.00% | ~5,661 |
-| Ectoplasmic Entity | 23.00% | ~5,661 |
+| Collector | 23.00% | ~5,662 |
+| Ectoplasmic Entity | 23.00% | ~5,662 |
 | Rift Destroyer | 19.00% | ~4,677 |
 | Terrifying | 18.00% | ~4,431 |
 | Tobin's Prodigy | 18.00% | ~4,431 |
 | Reckless | 17.00% | ~4,185 |
-| Diabolical | 16.00% | ~3,938 |
-| Escape Artist | 16.00% | ~3,938 |
-| Seasoned | 16.00% | ~3,938 |
+| Diabolical | 16.00% | ~3,939 |
+| Escape Artist | 16.00% | ~3,939 |
+| Seasoned | 16.00% | ~3,939 |
 | Whoopsie | 12.00% | ~2,954 |
 | Liability | 10.00% | ~2,462 |
 | Rivalry | 10.00% | ~2,462 |
@@ -57,8 +57,8 @@ Rating: 4.49 (Ranked 575)
 | Mycophile | 1.00% | ~246 |
 | I don't need these | 0.90% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,615 (Ranked 101)  
-Completed: 48 (0.20%) (Ranked 173)  
+Progressed: 24,616 (Ranked 101)  
+Completed: 48 (0.19%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -160,10 +160,10 @@ Completed: 48 (0.20%) (Ranked 173)
 | 2023-07-29 | 24,556 | 48 |
 | 2023-07-30 | 24,591 | 48 |
 | 2023-07-31 | 24,608 | 48 |
-| 2023-08-01 | 24,615 | 48 |
+| 2023-08-01 | 24,616 | 48 |
 ## Awards
 Max (Great for Quick Sessions): 245  (Ranked 250)  
-Sum: 2,191 (Ranked 190)  
+Sum: 2,192 (Ranked 190)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -172,7 +172,7 @@ Diff (max vs sum): 60
 | This game has Competitive Players | 225 |
 | This game has Diverse Characters | 219 |
 | This game has Amazing Storytelling | 219 |
-| This game is Highly Recommended | 214 |
+| This game is Highly Recommended | 215 |
 | This game is Relaxing | 214 |
 | This game is Extremely Fun | 213 |
 | This game has Quickly Understood Controls | 205 |
@@ -306,3 +306,4 @@ Diff (max vs sum): 60
 | 2023-07-28 | 4.49 | 244 | 2,189 |
 | 2023-07-29 | 4.49 | 245 | 2,190 |
 | 2023-07-30 | 4.49 | 245 | 2,191 |
+| 2023-08-01 | 4.49 | 245 | 2,192 |

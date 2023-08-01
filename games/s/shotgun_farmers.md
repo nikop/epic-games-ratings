@@ -24,7 +24,7 @@
 | Drinking Problem | 21.00% | ~50 |
 | Pork Chop Express | 17.00% | ~40 |
 | This Is My Boomstick | 16.00% | ~30 |
-| Skin Of Your Teeth | 14.00% | ~33 |
+| Skin Of Your Teeth | 15.00% | ~36 |
 | Getting Started | 13.00% | ~31 |
 | Eggtraordinary | 13.00% | ~31 |
 | Carrocketeer | 13.00% | ~31 |

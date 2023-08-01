@@ -9,17 +9,19 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 0.50% | ~668 |
 | Basic in Bulk | 0.50% | ~668 |
 | Titan's First Steps | 0.50% | ~668 |
+| Disintermediation | 0.40% | ~535 |
 | Tinkle of Coins | 0.40% | ~535 |
+| Capitalism Ho! | 0.40% | ~535 |
 | One Easy Payment | 0.30% | ~401 |
 | Some Assembly Required | 0.30% | ~401 |
-| Disintermediation | 0.30% | ~401 |
 | Another Satisfied Customer | 0.30% | ~401 |
 | It's Free Real Estate | 0.30% | ~401 |
 | Budding Merchant | 0.30% | ~401 |
-| Capitalism Ho! | 0.30% | ~401 |
 | Own the Means of Production | 0.30% | ~401 |
 | The Daily Grind | 0.20% | ~267 |
 | Bounty Hunters | 0.20% | ~267 |
+| Fated Encounters | 0.20% | ~267 |
+| Blank Page Syndrome | 0.20% | ~267 |
 | Demand for Supplies | 0.20% | ~267 |
 | Flooding the Market | 0.20% | ~267 |
 | Where it Hurts | 0.20% | ~267 |
@@ -29,6 +31,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.20% | ~267 |
 | Dungeon Imports | 0.20% | ~267 |
 | Through Repetition, Perfection | 0.20% | ~267 |
+| Arcane Industries | 0.20% | ~267 |
 | On the Path to Greatness | 0.10% | ~134 |
 | A Notch Above the Rest | 0.10% | ~134 |
 | Cream of the Crop | 0.10% | ~134 |
@@ -45,10 +48,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Vanity, Verily | 0.10% | ~134 |
 | Big Game Hunting | 0.10% | ~134 |
 | Bane of Legends | 0.10% | ~134 |
-| Fated Encounters | 0.10% | ~134 |
 | For the Hoard! | 0.10% | ~134 |
 | Booty by the Boatload | 0.10% | ~134 |
-| Blank Page Syndrome | 0.10% | ~134 |
 | Scrapbooker | 0.10% | ~134 |
 | Archivist | 0.10% | ~134 |
 | The Free Encyclopedia | 0.10% | ~134 |
@@ -115,11 +116,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 0.10% | ~134 |
 | Exotic Commodities | 0.10% | ~134 |
 | Economy of Scarce | 0.10% | ~134 |
-| Arcane Industries | 0.10% | ~134 |
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,693 (Ranked 62)  
+Progressed: 133,699 (Ranked 62)  
 Completed: 125 (0.09%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 125 (0.09%) (Ranked 198)
 | 2023-07-29 | 133,512 | 124 |
 | 2023-07-30 | 133,588 | 124 |
 | 2023-07-31 | 133,652 | 124 |
-| 2023-08-01 | 133,693 | 125 |
+| 2023-08-01 | 133,699 | 125 |
 ## Awards
 Max (Great for Beginners): 4,682  (Ranked 70)  
 Sum: 27,021 (Ranked 46)  

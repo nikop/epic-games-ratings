@@ -10,7 +10,7 @@
 | Grand Re-Opening | 56.00% | ~10 |
 | Risky Rescue | 56.00% | ~10 |
 | Mr. Porter | 50.00% | ~9 |
-| Carlos Is Tangled | 44.00% | ~8 |
+| Carlos Is Tangled | 50.00% | ~9 |
 | Mandy Family | 44.00% | ~8 |
 | Paw patrol member | 39.00% | ~7 |
 | Robot Out of Control | 39.00% | ~7 |
@@ -20,8 +20,8 @@
 | The Fastest | 33.00% | ~6 |
 | Never Miss | 33.00% | ~6 |
 | Animal Sighting | 33.00% | ~6 |
+| In the Air | 28.00% | ~5 |
 | You Have Been Everywhere | 28.00% | ~5 |
-| In the Air | 22.00% | ~4 |
 | Clear the Road | 22.00% | ~4 |
 | Don’t Miss Any | 22.00% | ~4 |
 | Adventure Bay’s Citizen | 22.00% | ~4 |

@@ -1,44 +1,44 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.69 (Ranked 213)  
+Rating: 4.69 (Ranked 214)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~34,834 |
-| I read Shakespeare and stuff | 64.00% | ~29,725 |
-| Just a sprinkle | 63.00% | ~29,261 |
-| I'm stumped | 61.00% | ~28,332 |
-| Plant get enough | 60.00% | ~27,868 |
-| This is just my weekend vehicle | 58.00% | ~26,939 |
-| It's just the beginning | 58.00% | ~26,939 |
-| Hard work pays off | 53.00% | ~24,616 |
-| It's never too late to farm | 49.00% | ~22,759 |
-| All out of Land | 44.00% | ~20,436 |
-| Field Trip | 43.00% | ~19,972 |
-| I like to switch it up | 40.00% | ~18,578 |
-| Help me to help you | 38.00% | ~17,649 |
-| Ultimutt Pawesomeness | 28.00% | ~13,005 |
-| Van Gogh | 26.00% | ~12,076 |
-| You wood not believe it | 21.00% | ~9,754 |
-| Vehicle fleet | 21.00% | ~9,754 |
-| The plot thickens | 16.00% | ~7,431 |
-| Well-Oiled Machine | 16.00% | ~7,431 |
-| Long haul | 16.00% | ~7,431 |
-| Clucky Streak | 15.00% | ~6,967 |
-| Large-scale supplier | 15.00% | ~6,967 |
-| That's a wrap | 14.00% | ~6,502 |
-| Fix me up | 13.00% | ~6,038 |
+| Own use | 75.00% | ~34,838 |
+| I read Shakespeare and stuff | 64.00% | ~29,729 |
+| Just a sprinkle | 63.00% | ~29,264 |
+| I'm stumped | 61.00% | ~28,335 |
+| Plant get enough | 60.00% | ~27,871 |
+| This is just my weekend vehicle | 58.00% | ~26,942 |
+| It's just the beginning | 58.00% | ~26,942 |
+| Hard work pays off | 53.00% | ~24,619 |
+| It's never too late to farm | 49.00% | ~22,761 |
+| All out of Land | 44.00% | ~20,438 |
+| Field Trip | 43.00% | ~19,974 |
+| I like to switch it up | 40.00% | ~18,580 |
+| Help me to help you | 38.00% | ~17,651 |
+| Ultimutt Pawesomeness | 28.00% | ~13,006 |
+| Van Gogh | 26.00% | ~12,077 |
+| You wood not believe it | 21.00% | ~9,755 |
+| Vehicle fleet | 21.00% | ~9,755 |
+| The plot thickens | 16.00% | ~7,432 |
+| Well-Oiled Machine | 16.00% | ~7,432 |
+| Long haul | 16.00% | ~7,432 |
+| Clucky Streak | 15.00% | ~6,968 |
+| Large-scale supplier | 15.00% | ~6,968 |
+| That's a wrap | 14.00% | ~6,503 |
+| Fix me up | 13.00% | ~6,039 |
 | Rock on | 12.00% | ~5,574 |
-| It's sow easy | 11.00% | ~5,109 |
+| It's sow easy | 11.00% | ~5,110 |
 | Highly cultivated | 10.00% | ~4,645 |
 | Giddy-up! | 10.00% | ~4,645 |
-| Cowherd | 7.00% | ~3,251 |
+| Cowherd | 7.00% | ~3,252 |
 | Fluffyness | 6.00% | ~2,787 |
 | Helper A does not stop … ever | 6.00% | ~2,787 |
 | Bringing in the Honey | 6.00% | ~2,787 |
-| Road Trip | 5.00% | ~2,322 |
+| Road Trip | 5.00% | ~2,323 |
 | Three little piggies… | 4.00% | ~1,858 |
 | Game on | 4.00% | ~1,858 |
 | Pretty colourful | 0.90% | ~418 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~186 |
 | Raisin the stakes | 0.30% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,446 (Ranked 90)  
+Progressed: 46,451 (Ranked 90)  
 Completed: 5 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,17 +153,17 @@ Completed: 5 (0.01%) (Ranked 234)
 | 2023-07-29 | 46,278 | 5 |
 | 2023-07-30 | 46,342 | 5 |
 | 2023-07-31 | 46,410 | 5 |
-| 2023-08-01 | 46,446 | 5 |
+| 2023-08-01 | 46,451 | 5 |
 ## Awards
 Max (Great for Beginners): 4,634  (Ranked 71)  
-Sum: 38,658 (Ranked 31)  
+Sum: 38,662 (Ranked 31)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,634 |
 | This game is Relaxing | 4,045 |
 | This game is Educational | 4,031 |
-| This game has Quickly Understood Controls | 3,981 |
+| This game has Quickly Understood Controls | 3,985 |
 | This game has Diverse Characters | 3,914 |
 | This game is Highly Recommended | 3,863 |
 | This game is Extremely Fun | 3,861 |
@@ -371,4 +371,4 @@ Diff (max vs sum): 40
 | 2023-07-29 | 4.69 | - | 4,621 | 38,560 |
 | 2023-07-30 | 4.69 | - | 4,630 | 38,608 |
 | 2023-07-31 | 4.69 | - | 4,634 | 38,646 |
-| 2023-08-01 | 4.69 | - | 4,634 | 38,658 |
+| 2023-08-01 | 4.69 | - | 4,634 | 38,662 |
