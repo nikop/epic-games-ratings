@@ -6,7 +6,7 @@
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 206,006 | 4.68 | 239 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 190,581 | 4.19 | 860 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 163,707 | 4.88 | 18 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 145,302 | 4.52 | 525 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 145,359 | 4.52 | 525 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 113,962 | 4.69 | 213 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 74,576 | 4.62 | 351 |
 | 10 | [VALORANT](games/v/valorant.md) | 62,958 | 4.53 | 512 |
@@ -20,7 +20,7 @@
 | 18 | [Dauntless](games/d/dauntless.md) | 21,055 | 4.53 | 512 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,105 | 4.57 | 445 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,324 | 4.89 | 12 |
-| 21 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 16,374 | 4.25 | 819 |
+| 21 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 16,444 | 4.25 | 819 |
 | 22 | [Warframe](games/w/warframe.md) | 16,259 | 4.61 | 367 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 15,054 | 4.21 | 846 |
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 14,940 | 4.76 | 117 |
@@ -47,7 +47,7 @@
 | 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,635 | 4.57 | 445 |
 | 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,353 | 4.71 | 185 |
 | 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,306 | 4.68 | 239 |
-| 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,871 | 4.75 | 136 |
+| 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,876 | 4.75 | 136 |
 | 49 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,810 | 4.71 | 185 |
 | 50 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 667 |
 | 51 | [DEATH STRANDING](games/d/death_stranding.md) | 6,540 | 4.77 | 108 |
@@ -64,7 +64,7 @@
 | 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,573 | 4.75 | 136 |
 | 63 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,532 | 4.85 | 40 |
 | 64 | [Dead Island 2](games/d/dead_island_2.md) | 5,472 | 4.54 | 495 |
-| 65 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 5,355 | 4.74 | 146 |
+| 65 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 5,464 | 4.74 | 146 |
 | 66 | [Rogue Company](games/r/rogue_company.md) | 5,211 | 4.33 | 762 |
 | 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,108 | 4.05 | 915 |
 | 68 | [Cities: Skylines](games/c/cities__skylines.md) | 5,045 | 4.65 | 298 |
@@ -191,7 +191,7 @@
 | 189 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 552 | 4.62 | 351 |
 | 190 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 549 | 4.67 | 258 |
 | 191 | [Godfall Ultimate Edition](games/g/godfall.md) | 535 | 4.07 | 912 |
-| 192 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 531 | 4.24 | 827 |
+| 192 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 532 | 4.24 | 827 |
 | 193 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 520 | 4.52 | 525 |
 | 194 | [Terraforming Mars](games/t/terraforming_mars.md) | 506 | 4.54 | 495 |
 | 195 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 491 | 4.86 | 28 |
@@ -203,7 +203,7 @@
 | 201 | [Second Extinction™](games/s/second_extinction™.md) | 456 | 4.05 | 915 |
 | 202 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 432 | 4.40 | 697 |
 | 203 | [Dishonored 2](games/d/dishonored_2.md) | 430 | 4.79 | 89 |
-| 204 | [RimWorld](games/r/rimworld.md) | 423 | 4.89 | 12 |
+| 204 | [RimWorld](games/r/rimworld.md) | 424 | 4.89 | 12 |
 | 205 | [Against the Storm](games/a/against_the_storm.md) | 420 | 4.81 | 76 |
 | 206 | [Loop Hero](games/l/loop_hero.md) | 419 | 4.68 | 239 |
 | 207 | [Into the Breach](games/i/into_the_breach.md) | 416 | 4.84 | 49 |

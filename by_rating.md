@@ -14,7 +14,7 @@
 | 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,846 | 41 |
 | 12 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 509 |
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 509 |
-| 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 423 | 204 |
+| 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 424 | 204 |
 | 12 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 509 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,324 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 305 |
@@ -141,14 +141,14 @@
 | 136 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 509 |
 | 136 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 0 | 509 |
 | 136 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 116 | 320 |
-| 136 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 6,871 | 48 |
+| 136 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 6,876 | 48 |
 | 136 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 555 | 186 |
 | 136 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 509 |
 | 136 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 509 |
 | 146 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 509 |
 | 146 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 642 | 171 |
 | 146 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 801 | 153 |
-| 146 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 5,355 | 65 |
+| 146 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 5,464 | 65 |
 | 146 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 648 | 170 |
 | 146 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 509 |
 | 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 35,320 | 14 |
@@ -526,7 +526,7 @@
 | 512 | [VALORANT](games/v/valorant.md) | 4.53 | 62,958 | 10 |
 | 525 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 30,566 | 15 |
 | 525 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 497 |
-| 525 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 145,302 | 7 |
+| 525 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 145,359 | 7 |
 | 525 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 520 | 193 |
 | 525 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.52 | 0 | 509 |
 | 525 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 102 | 331 |
@@ -819,7 +819,7 @@
 | 813 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 509 |
 | 813 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 235 |
 | 819 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 490 |
-| 819 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 16,374 | 21 |
+| 819 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 16,444 | 21 |
 | 819 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,051 | 139 |
 | 819 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.25 | 0 | 509 |
 | 819 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 509 |
@@ -829,7 +829,7 @@
 | 827 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 509 |
 | 827 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 456 |
 | 827 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 509 |
-| 827 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 531 | 192 |
+| 827 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 532 | 192 |
 | 827 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 413 |
 | 827 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 509 |
 | 827 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 509 |
@@ -960,6 +960,6 @@
 | 958 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.76 | 0 | 509 |
 | 959 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 509 |
 | 960 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 509 |
-| 961 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.53 | 0 | 509 |
-| 961 | [Redfall](games/r/redfall.md) | 3.53 | 0 | 509 |
+| 961 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.56 | 0 | 509 |
+| 962 | [Redfall](games/r/redfall.md) | 3.53 | 0 | 509 |
 | 963 | [Adios](games/a/adios.md) | 3.48 | 0 | 509 |

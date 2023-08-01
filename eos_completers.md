@@ -25,8 +25,8 @@
 | 23 | [Remains](games/r/remains.md) | 10.64% |
 | 24 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
 | 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.22% |
-| 26 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 10.14% |
-| 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
+| 26 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 10.00% |
+| 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 28 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.80% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.09% |
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
@@ -45,7 +45,7 @@
 | 43 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.31% |
 | 44 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
 | 45 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
-| 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
+| 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.82% |
 | 47 | [JARS](games/j/jars.md) | 4.76% |
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.73% |
 | 49 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
@@ -114,13 +114,13 @@
 | 112 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 112 | [Sable](games/s/sable.md) | 0.98% |
 | 114 | [Hades](games/h/hades.md) | 0.90% |
-| 115 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 116 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
-| 117 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
-| 118 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
-| 119 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
-| 119 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
-| 121 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.73% |
+| 115 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.87% |
+| 116 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
+| 117 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
+| 118 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
+| 119 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
+| 120 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
+| 120 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
 | 122 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 122 | [Haven](games/h/haven.md) | 0.66% |
 | 124 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.64% |
@@ -140,7 +140,7 @@
 | 138 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 139 | [Train Valley](games/t/train_valley.md) | 0.49% |
 | 140 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 141 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.46% |
+| 140 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.47% |
 | 142 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.45% |
 | 143 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 143 | [Tchia](games/t/tchia.md) | 0.44% |
@@ -519,4 +519,4 @@
 | 247 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 247 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 247 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,981 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,982 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
