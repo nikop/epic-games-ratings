@@ -24,20 +24,20 @@
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Remains](games/r/remains.md) | 10.64% |
 | 24 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
-| 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 10.45% |
+| 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 10.29% |
 | 26 | [Sonic Origins](games/s/sonic_origins.md) | 10.25% |
+| 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 10.00% |
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.09% |
-| 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
-| 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
-| 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.00% |
+| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.09% |
+| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
+| 31 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 32 | [Smelter](games/s/smelter.md) | 7.89% |
 | 33 | [Ravenlok](games/r/ravenlok.md) | 7.36% |
 | 34 | [Scorn](games/s/scorn.md) | 7.00% |
 | 35 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.94% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
-| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.62% |
+| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.60% |
 | 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.36% |
 | 40 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 40 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.25% |
@@ -52,7 +52,7 @@
 | 50 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 51 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.36% |
 | 52 | [Without Escape](games/w/without_escape.md) | 4.17% |
-| 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.08% |
+| 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.14% |
 | 54 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.03% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.78% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.67% |
@@ -120,7 +120,7 @@
 | 118 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 119 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
 | 120 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
-| 121 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.73% |
+| 121 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.69% |
 | 122 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 122 | [Haven](games/h/haven.md) | 0.66% |
 | 124 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.64% |
