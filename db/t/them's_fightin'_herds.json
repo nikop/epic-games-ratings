@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -214,9 +214,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 227250,
+  "EOS_Progressed": 227251,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10919,6 +10919,11 @@
       "Time": "2023-08-01T06:05:11.8573329+00:00",
       "NumProgressed": 227250,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-01T07:05:36.7619146+00:00",
+      "NumProgressed": 227251,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -11066,7 +11071,7 @@
       "Name": "Champ\u0027een of The Praire",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2272
+      "UsersEstimate": 2273
     },
     {
       "ID": "COMPLETE_THE_STORY_MODE_PROLOGUE",
@@ -11114,7 +11119,7 @@
       "Name": "Sin\u0027er Man",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "UNLOCK_ALL_TROPHIES",
@@ -11138,7 +11143,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 38632
+      "UsersEstimate": 38633
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -11146,14 +11151,14 @@
       "Name": "Come At Me!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2272
+      "UsersEstimate": 2273
     }
   ],
   "AchievementSets": [
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 227250,
+      "Progressed": 227251,
       "Completed": 3
     }
   ],
@@ -11161,8 +11166,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-07-29T01:52:22.3591231+00:00",
-  "LastChanged_Achievements": "2023-08-01T06:05:11.8573325+00:00",
+  "LastChanged_Achievements": "2023-08-01T07:05:36.7619139+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:36.5137044+00:00",
-  "LastUpdate_Ratings": "2023-08-01T06:00:01.2145354+00:00",
-  "LastUpdate_Achievements": "2023-08-01T06:05:11.8574215+00:00"
+  "LastUpdate_Ratings": "2023-08-01T07:00:41.695176+00:00",
+  "LastUpdate_Achievements": "2023-08-01T07:05:36.7620273+00:00"
 }

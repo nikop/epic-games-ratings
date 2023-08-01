@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,702 |
+| A Brief Tour of the Realms | 4.00% | ~8,703 |
 | Beast Intentions | 3.00% | ~6,527 |
 | Maddening | 2.00% | ~4,351 |
 | The Silken Swamp | 1.00% | ~2,176 |
 | Supply Run | 1.00% | ~2,176 |
 | Rocky Reception | 1.00% | ~1,838 |
-| Vecna Lives! | 0.90% | ~1,654 |
-| Rock and Roll | 0.90% | ~1,654 |
+| Vecna Lives! | 0.90% | ~1,655 |
+| Rock and Roll | 0.90% | ~1,655 |
 | Flight of the Kindori Pod | 0.80% | ~1,471 |
 | Tall Tales | 0.70% | ~1,287 |
 | Seeds of Destruction | 0.70% | ~1,287 |
@@ -74,16 +74,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | 3,720 to 1 | 0.40% | ~735 |
 | Animated Giff | 0.40% | ~735 |
 | Upholding the Law | 0.30% | ~653 |
-| Nightmare Rats! | 0.30% | ~551 |
-| The Prince of a Thousand Enemies | 0.30% | ~551 |
-| Downfall | 0.30% | ~551 |
-| Slack-jawed Lorna | 0.30% | ~551 |
-| Owlbear Necessities | 0.30% | ~551 |
-| Best Thay Ever | 0.30% | ~551 |
-| Well Equipped | 0.30% | ~551 |
-| The Castle of a Thousand Vecnas | 0.30% | ~551 |
-| Who Lurks Below? | 0.30% | ~551 |
-| Xanathaaaaaaar! | 0.30% | ~551 |
+| Nightmare Rats! | 0.30% | ~552 |
+| The Prince of a Thousand Enemies | 0.30% | ~552 |
+| Downfall | 0.30% | ~552 |
+| Slack-jawed Lorna | 0.30% | ~552 |
+| Owlbear Necessities | 0.30% | ~552 |
+| Best Thay Ever | 0.30% | ~552 |
+| Well Equipped | 0.30% | ~552 |
+| The Castle of a Thousand Vecnas | 0.30% | ~552 |
+| Who Lurks Below? | 0.30% | ~552 |
+| Xanathaaaaaaar! | 0.30% | ~552 |
 | The Lost Heir of Omu | 0.30% | ~653 |
 | The Forbidden City | 0.30% | ~653 |
 | Captured! | 0.30% | ~653 |
@@ -111,7 +111,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.30% | ~653 |
 | The Contagious Curse | 0.30% | ~653 |
 | Escort to Waterdeep | 0.30% | ~653 |
-| The Giant's Bane Tavern | 0.30% | ~551 |
+| The Giant's Bane Tavern | 0.30% | ~552 |
 | Close Escort | 0.30% | ~653 |
 | Constant Banditry | 0.30% | ~653 |
 | Lost in the Deep | 0.30% | ~653 |
@@ -122,9 +122,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.30% | ~653 |
 | The Templar's Camp | 0.30% | ~653 |
 | Rescue in the Jungle | 0.30% | ~653 |
-| Willing to Sacrifice | 0.30% | ~551 |
-| Devilishly Cold | 0.30% | ~551 |
-| Tiny Treaty | 0.30% | ~551 |
+| Willing to Sacrifice | 0.30% | ~552 |
+| Devilishly Cold | 0.30% | ~552 |
+| Tiny Treaty | 0.30% | ~552 |
 | Starving in the Jungle | 0.20% | ~435 |
 | Cold as Ice | 0.20% | ~368 |
 | Friends and Foes | 0.20% | ~368 |
@@ -195,6 +195,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Market Fluctuations | 0.20% | ~435 |
 | Once More Into The Breach | 0.20% | ~435 |
 | Wyllowwood | 0.20% | ~435 |
+| An Illithid Undertaking | 0.20% | ~368 |
 | Into The Fire | 0.20% | ~368 |
 | Dreamscape | 0.20% | ~368 |
 | The Path of Dreams | 0.20% | ~368 |
@@ -397,7 +398,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ettercap Swarm | 0.10% | ~184 |
 | Smooth Talkers | 0.10% | ~184 |
 | Relay Race | 0.10% | ~218 |
-| An Illithid Undertaking | 0.10% | ~184 |
 | An Illithid Ambush | 0.10% | ~184 |
 | Misty Undermountain | 0.10% | ~184 |
 | An Owlbear of an Undertaking | 0.10% | ~184 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,556 (Ranked 53)  
+Progressed: 217,566 (Ranked 53)  
 Completed: 2,140 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,15 +622,15 @@ Completed: 2,140 (0.98%) (Ranked 112)
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
-| 2023-08-01 | 217,556 | 2,140 |
+| 2023-08-01 | 217,566 | 2,140 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
-Sum: 30,835 (Ranked 38)  
+Sum: 30,840 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,108 |
-| This game is Great for Beginners | 5,040 |
+| This game is Great for Beginners | 5,045 |
 | This game has Quickly Understood Controls | 4,696 |
 | This game is Relaxing | 4,586 |
 | This game has Amazing Characters | 4,046 |
@@ -826,4 +826,4 @@ Diff (max vs sum): 29
 | 2023-07-29 | 4.05 | - | 5,100 | 30,800 |
 | 2023-07-30 | 4.05 | - | 5,100 | 30,813 |
 | 2023-07-31 | 4.05 | - | 5,106 | 30,831 |
-| 2023-08-01 | 4.05 | - | 5,108 | 30,835 |
+| 2023-08-01 | 4.05 | - | 5,108 | 30,840 |

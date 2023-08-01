@@ -11,6 +11,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 1.00% | ~132 |
 | Explorer | 1.00% | ~132 |
 | Intrepid | 1.00% | ~132 |
+| Mason | 1.00% | ~132 |
 | Friendly Family | 1.00% | ~132 |
 | Hanging Gardens | 1.00% | ~132 |
 | Play a Single Player Game | 1.00% | ~132 |
@@ -18,7 +19,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 1.00% | ~132 |
 | Architect | 0.90% | ~119 |
 | Good | 0.90% | ~119 |
-| Mason | 0.90% | ~119 |
 | Noble | 0.90% | ~119 |
 | Pioneer | 0.90% | ~119 |
 | Strong | 0.90% | ~119 |
@@ -35,7 +35,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 0.70% | ~92 |
 | Magnificent | 0.70% | ~92 |
 | Warrior | 0.70% | ~92 |
+| Wise | 0.70% | ~92 |
 | Developing Cities | 0.70% | ~92 |
+| Able Difficulty | 0.70% | ~92 |
 | Ishtar Gate | 0.70% | ~92 |
 | Lighthouse | 0.70% | ~92 |
 | Pyramids | 0.70% | ~92 |
@@ -47,14 +49,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 0.60% | ~79 |
 | Fountainhead | 0.60% | ~79 |
 | Great | 0.60% | ~79 |
-| Wise | 0.60% | ~79 |
 | Strong Cities | 0.60% | ~79 |
-| Able Difficulty | 0.60% | ~79 |
 | Artisans | 0.60% | ~79 |
 | Great Ziggurat | 0.60% | ~79 |
 | Necropolis | 0.60% | ~79 |
 | Learn to Play 1 | 0.60% | ~79 |
 | Regicide | 0.50% | ~66 |
+| Drillmaster | 0.50% | ~66 |
+| Intercessor | 0.50% | ~66 |
 | Legendary Cities | 0.50% | ~66 |
 | Just Difficulty | 0.50% | ~66 |
 | Furious Family | 0.50% | ~66 |
@@ -66,15 +68,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 0.50% | ~66 |
 | Mythology | 0.50% | ~66 |
 | Hanging Gardens in Babylon | 0.40% | ~53 |
-| Drillmaster | 0.40% | ~53 |
-| Intercessor | 0.40% | ~53 |
 | Valiant | 0.40% | ~53 |
+| Good Difficulty | 0.40% | ~53 |
 | Champions | 0.40% | ~53 |
+| Patrons | 0.40% | ~53 |
 | Sages | 0.40% | ~53 |
 | Statesmen | 0.40% | ~53 |
 | Acropolis | 0.40% | ~53 |
 | Mausoleum | 0.40% | ~53 |
 | Greece | 0.40% | ~53 |
+| Persian Paganism | 0.40% | ~53 |
+| Building Wonders | 0.40% | ~53 |
 | Points Victory | 0.40% | ~53 |
 | Beloved | 0.30% | ~40 |
 | Conqueror | 0.30% | ~40 |
@@ -84,9 +88,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.30% | ~40 |
 | Subjugator | 0.30% | ~40 |
 | Victorious | 0.30% | ~40 |
-| Good Difficulty | 0.30% | ~40 |
 | Strong Difficulty | 0.30% | ~40 |
-| Patrons | 0.30% | ~40 |
 | Riders | 0.30% | ~40 |
 | Traders | 0.30% | ~40 |
 | Hittite Iron | 0.30% | ~40 |
@@ -100,8 +102,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.30% | ~40 |
 | Carthage | 0.30% | ~40 |
 | Power to the People | 0.30% | ~40 |
-| Persian Paganism | 0.30% | ~40 |
-| Building Wonders | 0.30% | ~40 |
+| Assyrian Paganism | 0.30% | ~40 |
 | Economic Reform | 0.30% | ~40 |
 | Dualism | 0.30% | ~40 |
 | Legalism | 0.30% | ~40 |
@@ -130,7 +131,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.20% | ~26 |
 | Rome | 0.20% | ~26 |
 | One True Faith | 0.20% | ~26 |
-| Assyrian Paganism | 0.20% | ~26 |
 | Industrial Progress | 0.20% | ~26 |
 | Military Prestige | 0.20% | ~26 |
 | Enlightenment | 0.20% | ~26 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,210 (Ranked 117)  
+Progressed: 13,211 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-07-29 | 13,164 | 5 |
 | 2023-07-30 | 13,191 | 5 |
 | 2023-07-31 | 13,209 | 5 |
-| 2023-08-01 | 13,210 | 5 |
+| 2023-08-01 | 13,211 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

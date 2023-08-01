@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -646,9 +646,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11666,
+  "EOS_Progressed": 11670,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8041,6 +8041,11 @@
       "Time": "2023-08-01T06:06:38.9528084+00:00",
       "NumProgressed": 11666,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-01T07:07:23.5525294+00:00",
+      "NumProgressed": 11670,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 35,
@@ -8052,7 +8057,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9449
+      "UsersEstimate": 9453
     },
     {
       "ID": "ACH02",
@@ -8108,7 +8113,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5833
+      "UsersEstimate": 5835
     },
     {
       "ID": "ACH09",
@@ -8148,7 +8153,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "ACH14",
@@ -8196,7 +8201,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "ACH20",
@@ -8220,7 +8225,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     },
     {
       "ID": "ACH23",
@@ -8228,7 +8233,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2916
+      "UsersEstimate": 2918
     },
     {
       "ID": "ACH24",
@@ -8268,7 +8273,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "ACH29",
@@ -8331,7 +8336,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11666,
+      "Progressed": 11670,
       "Completed": 32
     }
   ],
@@ -8339,8 +8344,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-01T05:01:22.5591656+00:00",
-  "LastChanged_Achievements": "2023-08-01T06:06:38.9528079+00:00",
+  "LastChanged_Achievements": "2023-08-01T07:07:23.5525288+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.4328142+00:00",
-  "LastUpdate_Ratings": "2023-08-01T06:00:28.2170995+00:00",
-  "LastUpdate_Achievements": "2023-08-01T06:06:38.9528795+00:00"
+  "LastUpdate_Ratings": "2023-08-01T07:01:11.7476697+00:00",
+  "LastUpdate_Achievements": "2023-08-01T07:07:23.5526277+00:00"
 }

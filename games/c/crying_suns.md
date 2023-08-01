@@ -7,7 +7,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shutdown | 0.80% | ~3,714 |
-| Jeef Skeejj | 0.60% | ~2,785 |
+| Jeef Skeejj | 0.60% | ~2,786 |
 | Second Coming | 0.50% | ~2,321 |
 | Careful planning | 0.50% | ~2,321 |
 | In space, no one can hear you scream | 0.40% | ~1,857 |
@@ -20,14 +20,14 @@ Number of Ratings: 1,003  (23.09.2022)
 | Plan for the worst | 0.30% | ~1,393 |
 | Excelsior Rule | 0.30% | ~1,393 |
 | Hand of the Emperor | 0.30% | ~25 |
-| Chapter II: Fallible Flesh | 0.20% | ~928 |
-| Chapter III: The Man Who Sold the World | 0.20% | ~928 |
-| Chapter IV: Through the Looking Glass | 0.20% | ~928 |
-| Through the mirror | 0.20% | ~928 |
-| Tetsuo | 0.20% | ~928 |
-| General Vivar | 0.20% | ~928 |
-| Pope Zenon | 0.20% | ~928 |
-| Back to Ganyma | 0.20% | ~928 |
+| Chapter II: Fallible Flesh | 0.20% | ~929 |
+| Chapter III: The Man Who Sold the World | 0.20% | ~929 |
+| Chapter IV: Through the Looking Glass | 0.20% | ~929 |
+| Through the mirror | 0.20% | ~929 |
+| Tetsuo | 0.20% | ~929 |
+| General Vivar | 0.20% | ~929 |
+| Pope Zenon | 0.20% | ~929 |
+| Back to Ganyma | 0.20% | ~929 |
 | Soldiers of Fortune | 0.20% | ~16 |
 | Chapter V: Memories of None | 0.10% | ~464 |
 | A Rock in the Dark | 0.10% | ~464 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~8 |
 | Kronos Rule | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,249 (Ranked 37)  
+Progressed: 464,251 (Ranked 37)  
 Completed: 16 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 16 (0.00%) (Ranked 247)
 | 2023-07-29 | 464,088 | 16 |
 | 2023-07-30 | 464,170 | 16 |
 | 2023-07-31 | 464,233 | 16 |
-| 2023-08-01 | 464,249 | 16 |
+| 2023-08-01 | 464,251 | 16 |
 ## Awards
 Max (Character Customization): 214  (Ranked 266)  
 Sum: 214 (Ranked 360)  

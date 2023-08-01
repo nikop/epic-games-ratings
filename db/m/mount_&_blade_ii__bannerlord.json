@@ -2,13 +2,13 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 145,
+  "Ranking_Rating": 135,
   "Ranking_Popularity": 48,
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.75,
   "NumberOfRatings": 5603,
   "RatingHistory": [
     {
@@ -5983,10 +5983,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13929,
       "NumberOfAwardsMax": 6871
+    },
+    {
+      "Time": "2023-08-01T07:00:40.3228037+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 13932,
+      "NumberOfAwardsMax": 6871
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13929,
+  "NumberOfAwards": 13932,
   "NumberOfAwardsMax": 6871,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6018,7 +6024,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 900
+      "Count": 903
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6063,7 +6069,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 57730,
+  "EOS_Progressed": 57733,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 931,
   "EOS_NewCompleters": 0,
@@ -16803,6 +16809,11 @@
       "Time": "2023-08-01T06:03:10.1247278+00:00",
       "NumProgressed": 57730,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T07:03:33.3981684+00:00",
+      "NumProgressed": 57733,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -16814,7 +16825,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6350
+      "UsersEstimate": 6351
     },
     {
       "ID": "Apple of my eye",
@@ -16854,7 +16865,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4618
+      "UsersEstimate": 4619
     },
     {
       "ID": "Catch",
@@ -17038,7 +17049,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18474
+      "UsersEstimate": 18475
     },
     {
       "ID": "Lawbringer",
@@ -17046,7 +17057,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 21360
+      "UsersEstimate": 21361
     },
     {
       "ID": "Lawmaker",
@@ -17094,7 +17105,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 2886
+      "UsersEstimate": 2887
     },
     {
       "ID": "Real Estate",
@@ -17166,7 +17177,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10391
+      "UsersEstimate": 10392
     },
     {
       "ID": "This Is Our Land",
@@ -17221,15 +17232,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 57730,
+      "Progressed": 57733,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-07-31T20:00:48.5974349+00:00",
-  "LastChanged_Achievements": "2023-08-01T06:03:10.1247274+00:00",
+  "LastChanged": "2023-08-01T07:00:40.3228036+00:00",
+  "LastChanged_Achievements": "2023-08-01T07:03:33.398168+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:33.2077536+00:00",
-  "LastUpdate_Ratings": "2023-08-01T05:59:59.9911838+00:00",
-  "LastUpdate_Achievements": "2023-08-01T06:03:10.1248375+00:00"
+  "LastUpdate_Ratings": "2023-08-01T07:00:40.3228045+00:00",
+  "LastUpdate_Achievements": "2023-08-01T07:03:33.398345+00:00"
 }

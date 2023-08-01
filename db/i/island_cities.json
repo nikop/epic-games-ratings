@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 430,
+  "EOS_Progressed": 431,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 18.84,
+  "EOS_Completed_Percentage": 18.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2083,6 +2083,11 @@
       "Time": "2023-08-01T05:04:00.697681+00:00",
       "NumProgressed": 430,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-08-01T07:04:06.810735+00:00",
+      "NumProgressed": 431,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 22,
@@ -2094,7 +2099,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "LEVEL_002",
@@ -2102,7 +2107,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "LEVEL_003",
@@ -2118,7 +2123,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "LEVEL_005",
@@ -2126,7 +2131,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "LEVEL_006",
@@ -2134,7 +2139,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "LEVEL_007",
@@ -2150,7 +2155,7 @@
       "Name": "Passion for sports",
       "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "LEVEL_009",
@@ -2158,15 +2163,15 @@
       "Name": "Who loves trains?",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 129
+      "UsersEstimate": 125
     },
     {
       "ID": "LEVEL_011",
@@ -2214,7 +2219,7 @@
       "Name": "The beach is right there",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "LEVEL_017",
@@ -2222,7 +2227,7 @@
       "Name": "Commuting",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "LEVEL_018",
@@ -2230,7 +2235,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "LEVEL_019",
@@ -2254,7 +2259,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "LEVEL_022",
@@ -2262,14 +2267,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 430,
+      "Progressed": 431,
       "Completed": 81
     }
   ],
@@ -2277,8 +2282,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-08-01T06:03:37.386402+00:00",
+  "LastChanged_Achievements": "2023-08-01T07:04:06.8107342+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:55.2732426+00:00",
-  "LastUpdate_Ratings": "2023-08-01T05:58:31.4350928+00:00",
-  "LastUpdate_Achievements": "2023-08-01T06:03:37.3864346+00:00"
+  "LastUpdate_Ratings": "2023-08-01T06:58:50.1899712+00:00",
+  "LastUpdate_Achievements": "2023-08-01T07:04:06.8107682+00:00"
 }

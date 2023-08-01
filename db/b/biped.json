@@ -4,8 +4,8 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4865,
+  "EOS_Progressed": 4867,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7511,6 +7511,11 @@
       "Time": "2023-08-01T06:06:36.0980219+00:00",
       "NumProgressed": 4865,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T07:07:20.1099969+00:00",
+      "NumProgressed": 4867,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -7522,7 +7527,7 @@
       "Name": "First Step",
       "Percentage": 39,
       "XP": 45,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "10",
@@ -7538,7 +7543,7 @@
       "Name": "Telepathic",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "12",
@@ -7594,7 +7599,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "5",
@@ -7641,7 +7646,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4865,
+      "Progressed": 4867,
       "Completed": 0
     }
   ],
@@ -7649,8 +7654,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-08-01T06:06:36.0980214+00:00",
+  "LastChanged_Achievements": "2023-08-01T07:07:20.1099965+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.1828699+00:00",
-  "LastUpdate_Ratings": "2023-08-01T05:58:27.9480519+00:00",
-  "LastUpdate_Achievements": "2023-08-01T06:06:36.0980782+00:00"
+  "LastUpdate_Ratings": "2023-08-01T06:58:46.9687568+00:00",
+  "LastUpdate_Achievements": "2023-08-01T07:07:20.1100526+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -592,9 +592,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4810,
+  "EOS_Progressed": 4811,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5102,6 +5102,11 @@
       "Time": "2023-08-01T00:04:14.2429198+00:00",
       "NumProgressed": 4810,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T07:04:25.9839758+00:00",
+      "NumProgressed": 4811,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -5121,7 +5126,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 2453
+      "UsersEstimate": 2454
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -5137,7 +5142,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2021
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -5145,7 +5150,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -5161,7 +5166,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2021
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -5169,7 +5174,7 @@
       "Name": "Scaling up",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 2405
+      "UsersEstimate": 2406
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -5185,7 +5190,7 @@
       "Name": "License to Gill",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -5201,7 +5206,7 @@
       "Name": "I\u0027m the Captain Now",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACHIEVEMENT_013",
@@ -5225,7 +5230,7 @@
       "Name": "Going for Gold",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -5392,13 +5397,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4810,
+      "Progressed": 4811,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4182,
+      "Progressed": 4183,
       "Completed": 112
     }
   ],
@@ -5406,8 +5411,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-07-23T14:00:03.1904316+00:00",
-  "LastChanged_Achievements": "2023-08-01T06:04:13.2573593+00:00",
+  "LastChanged_Achievements": "2023-08-01T07:04:25.9839752+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:37.5536525+00:00",
-  "LastUpdate_Ratings": "2023-08-01T06:00:02.6873798+00:00",
-  "LastUpdate_Achievements": "2023-08-01T06:04:13.2574179+00:00"
+  "LastUpdate_Ratings": "2023-08-01T07:00:42.8223185+00:00",
+  "LastUpdate_Achievements": "2023-08-01T07:04:25.9840318+00:00"
 }
