@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2486,
+  "EOS_Progressed": 2487,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3234,6 +3234,11 @@
       "Time": "2023-08-01T20:03:25.2037332+00:00",
       "NumProgressed": 2486,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-01T23:03:27.2493197+00:00",
+      "NumProgressed": 2487,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -3293,7 +3298,7 @@
       "Name": "Elemental master",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -3309,7 +3314,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2387
+      "UsersEstimate": 2388
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3325,7 +3330,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3421,7 +3426,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1914
+      "UsersEstimate": 1915
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3429,7 +3434,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2288
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3445,7 +3450,7 @@
       "Name": "The end of the experiments",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -3461,7 +3466,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1914
+      "UsersEstimate": 1915
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3533,7 +3538,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -3549,7 +3554,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3581,15 +3586,15 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
       "SetID": "3pe2bac",
       "Name": "Cypress Glen Headquarters",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 820
+      "UsersEstimate": 796
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -3645,7 +3650,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -3668,7 +3673,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2486,
+      "Progressed": 2487,
       "Completed": 5
     }
   ],
@@ -3676,8 +3681,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-08-01T22:03:59.9264654+00:00",
+  "LastChanged_Achievements": "2023-08-01T23:03:27.2493193+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:29.275218+00:00",
-  "LastUpdate_Ratings": "2023-08-01T21:58:35.64815+00:00",
-  "LastUpdate_Achievements": "2023-08-01T22:03:59.9265333+00:00"
+  "LastUpdate_Ratings": "2023-08-01T22:58:08.3692281+00:00",
+  "LastUpdate_Achievements": "2023-08-01T23:03:27.2493873+00:00"
 }

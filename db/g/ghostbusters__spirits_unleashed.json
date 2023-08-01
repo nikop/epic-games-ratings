@@ -1608,9 +1608,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24633,
+  "EOS_Progressed": 24634,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9178,6 +9178,11 @@
       "Time": "2023-08-01T22:03:38.9459646+00:00",
       "NumProgressed": 24633,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-01T23:02:39.0578575+00:00",
+      "NumProgressed": 24634,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 51,
@@ -9189,7 +9194,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17982
+      "UsersEstimate": 17983
     },
     {
       "ID": "Animated",
@@ -9229,7 +9234,7 @@
       "Name": "Clutch Capture",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 9853
+      "UsersEstimate": 9854
     },
     {
       "ID": "Collect_Spores",
@@ -9261,7 +9266,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8375
+      "UsersEstimate": 8376
     },
     {
       "ID": "Diabolical",
@@ -9277,7 +9282,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15026
+      "UsersEstimate": 15027
     },
     {
       "ID": "Dont_Need_These",
@@ -9301,7 +9306,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15765
+      "UsersEstimate": 15766
     },
     {
       "ID": "Escape_Artist",
@@ -9493,7 +9498,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21184
+      "UsersEstimate": 21185
     },
     {
       "ID": "Summoner",
@@ -9596,7 +9601,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24633,
+      "Progressed": 24634,
       "Completed": 48
     }
   ],
@@ -9604,8 +9609,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-01T22:00:32.4890214+00:00",
-  "LastChanged_Achievements": "2023-08-01T22:03:38.9459639+00:00",
+  "LastChanged_Achievements": "2023-08-01T23:02:39.0578571+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:56.6577114+00:00",
-  "LastUpdate_Ratings": "2023-08-01T22:00:32.4890218+00:00",
-  "LastUpdate_Achievements": "2023-08-01T22:03:38.9460613+00:00"
+  "LastUpdate_Ratings": "2023-08-01T22:59:46.9624459+00:00",
+  "LastUpdate_Achievements": "2023-08-01T23:02:39.0579514+00:00"
 }

@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 82.00% | ~46 |
-| Killing Spree | 66.00% | ~37 |
-| 5Gb HDD | 50.00% | ~28 |
-| Merchant Prince I | 48.00% | ~27 |
-| Dominating | 32.00% | ~18 |
+| First Blood | 84.00% | ~47 |
+| Killing Spree | 68.00% | ~38 |
+| 5Gb HDD | 52.00% | ~29 |
+| Merchant Prince I | 50.00% | ~28 |
+| Dominating | 34.00% | ~19 |
 | Fighting Fit I | 30.00% | ~17 |
 | Rambo I | 27.00% | ~15 |
 | 10Gb HDD | 27.00% | ~15 |

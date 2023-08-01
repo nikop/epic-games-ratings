@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just Went Shopping | 97.00% | ~337 |
+| Just Went Shopping | 97.00% | ~338 |
 | Decision Maker | 80.00% | ~278 |
-| Sneaky Sneak | 78.00% | ~271 |
 | DIY | 78.00% | ~271 |
+| Sneaky Sneak | 77.00% | ~268 |
 | Master Chef | 65.00% | ~226 |
 | Master of Cards | 59.00% | ~205 |
 | Over Nine Thousaaand | 57.00% | ~198 |
@@ -15,8 +15,8 @@
 | Collector | 29.00% | ~101 |
 | That’s What Friends Are For | 21.00% | ~73 |
 | Blow ‘Em Up | 21.00% | ~73 |
-| Poker-Man | 20.00% | ~69 |
-| FOR THE GAUNTLET! | 20.00% | ~69 |
+| Poker-Man | 20.00% | ~70 |
+| FOR THE GAUNTLET! | 20.00% | ~70 |
 | Untapped Potential | 17.00% | ~59 |
 | Played by Gramps | 14.00% | ~49 |
 | Size Doesn’t Matter | 13.00% | ~45 |
@@ -24,8 +24,8 @@
 | I Choo-Choo-Choose You | 12.00% | ~42 |
 | Totally Swamped | 11.00% | ~38 |
 | Is Anyone Out There? | 11.00% | ~38 |
-| Limitless | 10.00% | ~35 |
 | Hammer Time | 10.00% | ~35 |
+| Limitless | 9.00% | ~31 |
 | Hired Goon | 6.00% | ~21 |
 | Holy Scrap! | 6.00% | ~21 |
 | How I Met Your Nana | 4.00% | ~14 |
@@ -33,8 +33,8 @@
 | Lord of the Wastes | 3.00% | ~10 |
 | Through Hell and Back | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 347 (Ranked 246)  
-Completed: 10 (2.88%) (Ranked 70)  
+Progressed: 348 (Ranked 246)  
+Completed: 10 (2.87%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -57,6 +57,7 @@ Completed: 10 (2.88%) (Ranked 70)
 | 2023-07-24 | 344 | 10 |
 | 2023-07-30 | 345 | 10 |
 | 2023-07-31 | 347 | 10 |
+| 2023-08-01 | 348 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

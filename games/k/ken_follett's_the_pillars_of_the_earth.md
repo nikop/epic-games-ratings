@@ -12,15 +12,15 @@ Number of Ratings: 368  (23.09.2022)
 | Yet another secret | 34.00% | ~4,863 |
 | Let there be darkness | 32.00% | ~4,577 |
 | End of Book One | 30.00% | ~4,291 |
-| Wannabe knight | 24.00% | ~3,432 |
-| Garden of Eden | 24.00% | ~3,432 |
-| Full house | 24.00% | ~3,432 |
-| Help an old friend | 22.00% | ~3,146 |
-| Two of us | 20.00% | ~2,860 |
-| Negotiation skills | 18.00% | ~2,574 |
-| Workers' union | 18.00% | ~2,574 |
-| End of Book Two | 18.00% | ~2,574 |
-| Everything's in order | 17.00% | ~2,431 |
+| Wannabe knight | 24.00% | ~3,433 |
+| Garden of Eden | 24.00% | ~3,433 |
+| Full house | 24.00% | ~3,433 |
+| Help an old friend | 22.00% | ~3,147 |
+| Two of us | 20.00% | ~2,861 |
+| Negotiation skills | 18.00% | ~2,575 |
+| Workers' union | 18.00% | ~2,575 |
+| End of Book Two | 18.00% | ~2,575 |
+| Everything's in order | 17.00% | ~2,432 |
 | Jack was here! | 15.00% | ~2,145 |
 | Twist of Fate | 14.00% | ~2,002 |
 | Exterminator | 13.00% | ~1,859 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~429 |
 | Boy of mystery | 2.00% | ~286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,302 (Ranked 115)  
+Progressed: 14,303 (Ranked 115)  
 Completed: 107 (0.75%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 107 (0.75%) (Ranked 119)
 | 2023-07-29 | 14,233 | 106 |
 | 2023-07-30 | 14,257 | 106 |
 | 2023-07-31 | 14,277 | 106 |
-| 2023-08-01 | 14,302 | 107 |
+| 2023-08-01 | 14,303 | 107 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 296)  
 Sum: 188 (Ranked 372)  

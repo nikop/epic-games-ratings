@@ -20,7 +20,7 @@
 | Hello, world! | 67.00% | ~135 |
 | Fighting is cool | 66.00% | ~133 |
 | No bullying more | 66.00% | ~133 |
-| Pal of your father? | 62.00% | ~125 |
+| Pal of your father? | 63.00% | ~127 |
 | Employee of the month | 61.00% | ~123 |
 | Spirit of the past | 60.00% | ~121 |
 | Law student | 59.00% | ~119 |
@@ -31,8 +31,8 @@
 | Own four walls | 55.00% | ~111 |
 | Handyman | 54.00% | ~109 |
 | It's good to be alive | 54.00% | ~109 |
+| Employee of the year | 54.00% | ~109 |
 | Fight for life | 53.00% | ~107 |
-| Employee of the year | 53.00% | ~107 |
 | Legal courier | 51.00% | ~103 |
 | Extreme neuropower! | 50.00% | ~101 |
 | Escaped from a big trouble | 50.00% | ~101 |
@@ -43,32 +43,32 @@
 | Fight is life | 42.00% | ~85 |
 | Mysterious voice | 42.00% | ~85 |
 | Get out of my apartment! | 38.00% | ~77 |
+| Underground dwellers | 37.00% | ~75 |
 | Responsible approach | 37.00% | ~75 |
-| Underground dwellers | 36.00% | ~73 |
+| Champion – no way back | 36.00% | ~73 |
 | Deal with life | 35.00% | ~71 |
 | GYM professional | 35.00% | ~71 |
-| Champion – no way back | 35.00% | ~71 |
 | Poisoned fighter | 35.00% | ~71 |
 | Seashell hunter | 33.00% | ~67 |
 | Mom got better | 32.00% | ~65 |
 | The die is cast | 32.00% | ~65 |
 | The last bell ring | 31.00% | ~63 |
+| Undercover robot | 31.00% | ~63 |
 | Gang wrangler | 30.00% | ~61 |
+| Not little hacker | 30.00% | ~61 |
 | Absolute Champion! | 30.00% | ~61 |
-| Undercover robot | 30.00% | ~61 |
 | Problems of cyborgs | 29.00% | ~59 |
-| Not little hacker | 29.00% | ~59 |
 | Another world | 28.00% | ~57 |
 | The lonesome road | 28.00% | ~57 |
+| Keep nature safe | 28.00% | ~57 |
+| Family comes first | 28.00% | ~57 |
 | Key memories | 28.00% | ~57 |
 | Careerist | 28.00% | ~57 |
 | The heart of the Resistance | 28.00% | ~57 |
 | Trap disarmed | 27.00% | ~55 |
-| Keep nature safe | 27.00% | ~55 |
-| Family comes first | 27.00% | ~55 |
 | Anyone can resist | 27.00% | ~55 |
-| Silver’s past | 24.00% | ~48 |
-| Better cooking at home | 24.00% | ~48 |
+| Silver’s past | 25.00% | ~50 |
+| Better cooking at home | 25.00% | ~50 |
 | The only right decision | 24.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 202 (Ranked 281)  

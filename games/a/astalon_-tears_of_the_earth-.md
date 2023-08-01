@@ -22,14 +22,14 @@
 | God of the Tower! | 25.00% | ~15 |
 | Relic Collector | 25.00% | ~15 |
 | Cartographer | 25.00% | ~15 |
-| Wizard Mastery | 18.00% | ~11 |
+| Wizard Mastery | 20.00% | ~12 |
 | Rogue Mastery | 17.00% | ~10 |
 | Fighter Mastery | 15.00% | ~9 |
+| Destoy all monsters! | 13.00% | ~8 |
 | Slay the Monster! | 13.00% | ~8 |
 | Gorgonslayer Mastery | 12.00% | ~7 |
 | Built for adventure | 12.00% | ~7 |
 | Collector Mastery | 12.00% | ~7 |
-| Destoy all monsters! | 12.00% | ~7 |
 | True Black Knight | 8.00% | ~5 |
 | Freedom Monster | 8.00% | ~5 |
 | No match for me! | 3.00% | ~2 |

@@ -5408,10 +5408,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30843,
       "NumberOfAwardsMax": 5108
+    },
+    {
+      "Time": "2023-08-01T22:58:46.7232219+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30845,
+      "NumberOfAwardsMax": 5108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30843,
+  "NumberOfAwards": 30845,
   "NumberOfAwardsMax": 5108,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5437,7 +5443,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4586
+      "Count": 4588
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5458,9 +5464,9 @@
       "Count": 3332
     }
   ],
-  "EOS_Progressed": 217733,
+  "EOS_Progressed": 217745,
   "EOS_Completed": 2142,
-  "EOS_NewPlayers": 2218,
+  "EOS_NewPlayers": 2224,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16588,6 +16594,11 @@
       "Time": "2023-08-01T22:05:09.6590087+00:00",
       "NumProgressed": 217733,
       "NumCompleted": 2142
+    },
+    {
+      "Time": "2023-08-01T23:04:27.1623026+00:00",
+      "NumProgressed": 217745,
+      "NumCompleted": 2142
     }
   ],
   "TotalAchievements": 512,
@@ -16599,7 +16610,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8709
+      "UsersEstimate": 8710
     },
     {
       "ID": "objective_completed_10",
@@ -18141,9 +18152,9 @@
       "ID": "objective_completed_262",
       "SetID": "cc37lbc",
       "Name": "Tower on the Lake",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 653
+      "UsersEstimate": 871
     },
     {
       "ID": "objective_completed_263",
@@ -20021,9 +20032,9 @@
       "ID": "objective_completed_837",
       "SetID": "415jc5c",
       "Name": "The Bleeding Citadel",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 368
     },
     {
       "ID": "objective_completed_838",
@@ -20669,9 +20680,9 @@
       "ID": "objective_completed_1390",
       "SetID": "415jc5c",
       "Name": "Topolah\u0027s Tower",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1288
     },
     {
       "ID": "objective_completed_1391",
@@ -20694,21 +20705,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184007,
+      "Progressed": 184019,
       "Completed": 3048
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217733,
+      "Progressed": 217745,
       "Completed": 2142
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-01T21:59:19.1491002+00:00",
-  "LastChanged_Achievements": "2023-08-01T22:05:09.6590081+00:00",
+  "LastChanged": "2023-08-01T22:58:46.7232218+00:00",
+  "LastChanged_Achievements": "2023-08-01T23:04:27.1623021+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-01T21:59:19.1491008+00:00",
-  "LastUpdate_Achievements": "2023-08-01T22:05:09.6621218+00:00"
+  "LastUpdate_Ratings": "2023-08-01T22:58:46.7232225+00:00",
+  "LastUpdate_Achievements": "2023-08-01T23:04:27.1650481+00:00"
 }

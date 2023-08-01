@@ -4,7 +4,7 @@
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-03-02T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 347,
+  "EOS_Progressed": 348,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.88,
+  "EOS_Completed_Percentage": 2.87,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.4754336+00:00",
@@ -141,6 +141,11 @@
       "Time": "2023-07-31T20:04:49.3954079+00:00",
       "NumProgressed": 347,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-01T23:04:26.8712027+00:00",
+      "NumProgressed": 348,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 28,
@@ -152,7 +157,7 @@
       "Name": "Just Went Shopping",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "10",
@@ -182,9 +187,9 @@
       "ID": "13",
       "SetID": "1530e6b",
       "Name": "Limitless",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 85,
-      "UsersEstimate": 35
+      "UsersEstimate": 31
     },
     {
       "ID": "14",
@@ -264,7 +269,7 @@
       "Name": "Poker-Man",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "23",
@@ -318,9 +323,9 @@
       "ID": "3",
       "SetID": "1530e6b",
       "Name": "Sneaky Sneak",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 268
     },
     {
       "ID": "4",
@@ -344,7 +349,7 @@
       "Name": "FOR THE GAUNTLET!",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "7",
@@ -375,7 +380,7 @@
     {
       "ID": "1530e6b",
       "IsBase": true,
-      "Progressed": 347,
+      "Progressed": 348,
       "Completed": 10
     }
   ],
@@ -383,8 +388,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-08-01T22:05:09.9244923+00:00",
+  "LastChanged_Achievements": "2023-08-01T23:04:26.8712024+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:42.3372122+00:00",
-  "LastUpdate_Ratings": "2023-08-01T22:01:36.0438801+00:00",
-  "LastUpdate_Achievements": "2023-08-01T22:05:09.9245158+00:00"
+  "LastUpdate_Ratings": "2023-08-01T23:00:42.9487843+00:00",
+  "LastUpdate_Achievements": "2023-08-01T23:04:26.871225+00:00"
 }

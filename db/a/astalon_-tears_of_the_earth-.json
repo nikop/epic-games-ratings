@@ -4,7 +4,7 @@
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -125,9 +125,9 @@
       "ID": "Buy_All_Algus_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Wizard Mastery",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Buy_All_Arias_Character_Deals",
@@ -189,9 +189,9 @@
       "ID": "Complete_Bestiary_100",
       "SetID": "4f0g260",
       "Name": "Destoy all monsters!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Complete_Bestiary_20",
@@ -334,8 +334,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-08-01T22:03:15.2519051+00:00",
+  "LastChanged_Achievements": "2023-08-01T23:02:18.964442+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.0042283+00:00",
-  "LastUpdate_Ratings": "2023-08-01T21:59:33.670749+00:00",
-  "LastUpdate_Achievements": "2023-08-01T22:03:15.2519277+00:00"
+  "LastUpdate_Ratings": "2023-08-01T22:58:58.8893842+00:00",
+  "LastUpdate_Achievements": "2023-08-01T23:02:18.9644665+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115,
+  "EOS_Progressed": 117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -526,6 +526,11 @@
       "Time": "2023-07-31T20:06:00.6840725+00:00",
       "NumProgressed": 115,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T23:05:35.3963755+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 20,
@@ -553,15 +558,15 @@
       "Name": "Metamorphosis",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "CollectCurses",
       "SetID": "7g1kpc8",
       "Name": "Unlucky",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 11
     },
     {
       "ID": "CollectGold",
@@ -593,23 +598,23 @@
       "Name": "First Blood",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "FourthBoss",
@@ -623,9 +628,9 @@
       "ID": "KingBeatleHunter",
       "SetID": "7g1kpc8",
       "Name": "Royal Beetle",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "KingBoss",
@@ -633,7 +638,7 @@
       "Name": "Revolution",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Leprechaun",
@@ -641,7 +646,7 @@
       "Name": "Leprechaun",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "MonsterSlayer",
@@ -655,7 +660,7 @@
       "ID": "Persistence",
       "SetID": "7g1kpc8",
       "Name": "Persistence",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
       "UsersEstimate": 40
     },
@@ -663,9 +668,9 @@
       "ID": "ReturnShell",
       "SetID": "7g1kpc8",
       "Name": "Detective",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 19
     },
     {
       "ID": "SecondBoss",
@@ -681,7 +686,7 @@
       "Name": "Experienced",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ThirdBoss",
@@ -696,14 +701,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 115,
+      "Progressed": 117,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-08-01T22:06:30.8282389+00:00",
+  "LastChanged_Achievements": "2023-08-01T23:05:35.3963752+00:00",
   "LastUpdate_AppInfo": "2023-07-31T09:57:13.2028801+00:00",
-  "LastUpdate_Ratings": "2023-08-01T21:58:00.8522657+00:00",
-  "LastUpdate_Achievements": "2023-08-01T22:06:30.8282581+00:00"
+  "LastUpdate_Ratings": "2023-08-01T22:57:37.1188655+00:00",
+  "LastUpdate_Achievements": "2023-08-01T23:05:35.3963941+00:00"
 }

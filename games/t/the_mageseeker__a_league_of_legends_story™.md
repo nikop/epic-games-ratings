@@ -5,20 +5,20 @@ Rating: 4.81 (Ranked 76)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,387 |
-| No more cages! | 92.00% | ~2,287 |
-| Everfrost | 78.00% | ~1,939 |
-| Pentakill | 77.00% | ~1,914 |
-| Dark Forest | 77.00% | ~1,914 |
+| For Demacia | 96.00% | ~2,388 |
+| No more cages! | 92.00% | ~2,288 |
+| Everfrost | 78.00% | ~1,940 |
+| Pentakill | 77.00% | ~1,915 |
+| Dark Forest | 77.00% | ~1,915 |
 | The use of petricite | 74.00% | ~1,840 |
-| You can pet the dog | 61.00% | ~1,516 |
+| You can pet the dog | 61.00% | ~1,517 |
 | Big Helmet Bro | 37.00% | ~920 |
 | Clarion Cove | 37.00% | ~920 |
 | Past trauma | 35.00% | ~870 |
 | Thornbarrow | 35.00% | ~870 |
-| Elemental master | 34.00% | ~845 |
-| Ternmoat Headquarters | 34.00% | ~845 |
-| Cypress Glen Headquarters | 33.00% | ~820 |
+| Elemental master | 34.00% | ~846 |
+| Ternmoat Headquarters | 34.00% | ~846 |
+| Cypress Glen Headquarters | 32.00% | ~796 |
 | Petricite Burst | 30.00% | ~746 |
 | Old friend | 29.00% | ~721 |
 | Hijack | 28.00% | ~696 |
@@ -46,9 +46,9 @@ Rating: 4.81 (Ranked 76)
 | Embrace the darkness | 12.00% | ~298 |
 | Whispers in the Woods IV | 12.00% | ~298 |
 | I smell fear | 12.00% | ~298 |
-| The end of the experiments | 11.00% | ~273 |
-| The Great City of Demacia | 11.00% | ~273 |
-| Call it 'redistribution of magic | 11.00% | ~273 |
+| The end of the experiments | 11.00% | ~274 |
+| The Great City of Demacia | 11.00% | ~274 |
+| Call it 'redistribution of magic | 11.00% | ~274 |
 | Chains master | 10.00% | ~249 |
 | Truth is a dark mirror | 10.00% | ~249 |
 | You can pet the... horse | 10.00% | ~249 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 76)
 | Silverwing nest | 2.00% | ~50 |
 | The Unshackled | 0.80% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,486 (Ranked 161)  
+Progressed: 2,487 (Ranked 161)  
 Completed: 5 (0.20%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 5 (0.20%) (Ranked 173)
 | 2023-07-29 | 2,476 | 5 |
 | 2023-07-30 | 2,479 | 5 |
 | 2023-07-31 | 2,481 | 5 |
-| 2023-08-01 | 2,486 | 5 |
+| 2023-08-01 | 2,487 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

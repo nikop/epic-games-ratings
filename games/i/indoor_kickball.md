@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 81.00% | ~66 |
-| Accessory Unlocked | 81.00% | ~66 |
-| Character Unlocked | 80.00% | ~65 |
-| Settle Down | 73.00% | ~59 |
-| Homer | 72.00% | ~58 |
-| Butter Fingers | 70.00% | ~57 |
-| Have a good trip! | 69.00% | ~56 |
-| Kickball Unlocked | 68.00% | ~55 |
-| Stay Hydrated | 65.00% | ~53 |
-| First Win | 63.00% | ~51 |
-| True Story! | 43.00% | ~35 |
-| Bedroom Secret Spot | 37.00% | ~30 |
-| Kick It | 31.00% | ~25 |
+| Hat Unlocked | 82.00% | ~67 |
+| Accessory Unlocked | 82.00% | ~67 |
+| Character Unlocked | 80.00% | ~66 |
+| Settle Down | 73.00% | ~60 |
+| Homer | 72.00% | ~59 |
+| Butter Fingers | 71.00% | ~58 |
+| Have a good trip! | 70.00% | ~57 |
+| Kickball Unlocked | 68.00% | ~56 |
+| Stay Hydrated | 66.00% | ~54 |
+| First Win | 63.00% | ~52 |
+| True Story! | 44.00% | ~36 |
+| Bedroom Secret Spot | 38.00% | ~31 |
+| Kick It | 30.00% | ~25 |
 | Spooky | 28.00% | ~23 |
-| Grand Slam! | 25.00% | ~20 |
-| Classroom Secret Spot | 25.00% | ~20 |
+| Grand Slam! | 24.00% | ~20 |
+| Classroom Secret Spot | 24.00% | ~20 |
 | Have Mercy | 23.00% | ~19 |
 | Save some water for the fishies | 22.00% | ~18 |
 | Bathroom Secret Spot | 21.00% | ~17 |
 | Angry Dad | 21.00% | ~17 |
 | At least everyone still had fun | 21.00% | ~17 |
-| Living Room Secret Spot | 19.00% | ~15 |
+| Living Room Secret Spot | 20.00% | ~16 |
 | Hi Hungry, I'm Dad | 15.00% | ~12 |
-| Angry Mom | 14.00% | ~11 |
+| Angry Mom | 13.00% | ~11 |
 | Just how we drew it up | 11.00% | ~9 |
 | Interference | 9.00% | ~7 |
 | Kitchen Secret Spot | 5.00% | ~4 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81 (Ranked 330)  
+Progressed: 82 (Ranked 330)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,3 +85,4 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-26 | 79 | 0 |
 | 2023-07-29 | 80 | 0 |
 | 2023-07-31 | 81 | 0 |
+| 2023-08-01 | 82 | 0 |

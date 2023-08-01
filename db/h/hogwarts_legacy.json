@@ -5772,9 +5772,9 @@
       "Count": 574
     }
   ],
-  "EOS_Progressed": 289144,
+  "EOS_Progressed": 289146,
   "EOS_Completed": 437,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16902,6 +16902,11 @@
       "Time": "2023-08-01T22:06:01.8766919+00:00",
       "NumProgressed": 289144,
       "NumCompleted": 437
+    },
+    {
+      "Time": "2023-08-01T23:05:10.9481661+00:00",
+      "NumProgressed": 289146,
+      "NumCompleted": 437
     }
   ],
   "TotalAchievements": 45,
@@ -16913,7 +16918,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34697
+      "UsersEstimate": 34698
     },
     {
       "ID": "PFA_10",
@@ -17033,7 +17038,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28914
+      "UsersEstimate": 28915
     },
     {
       "ID": "PFA_24",
@@ -17257,7 +17262,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28914
+      "UsersEstimate": 28915
     },
     {
       "ID": "PFA_9",
@@ -17272,7 +17277,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289144,
+      "Progressed": 289146,
       "Completed": 437
     }
   ],
@@ -17280,8 +17285,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-01T21:58:23.0632001+00:00",
-  "LastChanged_Achievements": "2023-08-01T22:06:01.8766912+00:00",
+  "LastChanged_Achievements": "2023-08-01T23:05:10.9481656+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-08-01T21:58:23.0632009+00:00",
-  "LastUpdate_Achievements": "2023-08-01T22:06:01.8768791+00:00"
+  "LastUpdate_Ratings": "2023-08-01T22:57:56.4427383+00:00",
+  "LastUpdate_Achievements": "2023-08-01T23:05:10.9482699+00:00"
 }

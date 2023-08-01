@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete 25 levels | 5.00% | ~2 |
-| Switch off the light | 5.00% | ~2 |
+| Complete 25 levels | 4.00% | ~2 |
+| Switch off the light | 4.00% | ~2 |
 | Fast 6x6 | 2.00% | ~1 |
 | Complete 50 levels | 2.00% | ~1 |
 | Complete 100 levels | 2.00% | ~1 |
@@ -48,7 +48,7 @@
 | Play for 10 hours | 0.00% | ~0 |
 | Play for 24 hours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 364)  
+Progressed: 45 (Ranked 363)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,4 +73,4 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-27 | 40 | 0 |
 | 2023-07-29 | 41 | 0 |
 | 2023-07-30 | 42 | 0 |
-| 2023-08-01 | 44 | 0 |
+| 2023-08-01 | 45 | 0 |

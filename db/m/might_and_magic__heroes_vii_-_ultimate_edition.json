@@ -4,7 +4,7 @@
   "ProductSlug": "might-and-magic-heroes-7",
   "Ranking_Rating": 630,
   "Ranking_Popularity": 461,
-  "Ranking_PopularitySum": 379,
+  "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 361,
@@ -646,6 +646,6 @@
   "FirstSeen": "2022-07-22T20:25:09.0043612+00:00",
   "LastChanged": "2023-07-31T09:59:07.0485763+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.1181594+00:00",
-  "LastUpdate_Ratings": "2023-08-01T21:59:45.2771112+00:00",
-  "LastUpdate_Achievements": "2023-08-01T22:03:28.3937447+00:00"
+  "LastUpdate_Ratings": "2023-08-01T22:59:09.4383314+00:00",
+  "LastUpdate_Achievements": "2023-08-01T23:02:29.977737+00:00"
 }

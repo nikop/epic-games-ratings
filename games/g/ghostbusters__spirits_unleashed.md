@@ -5,10 +5,10 @@ Rating: 4.49 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,184 |
-| Advancement | 73.00% | ~17,982 |
-| Meticulously Efficient | 64.00% | ~15,765 |
-| Discovery | 61.00% | ~15,026 |
+| Stylish | 86.00% | ~21,185 |
+| Advancement | 73.00% | ~17,983 |
+| Meticulously Efficient | 64.00% | ~15,766 |
+| Discovery | 61.00% | ~15,027 |
 | Fully Upgraded | 54.00% | ~13,302 |
 | Swift Rift Removers | 54.00% | ~13,302 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,563 |
@@ -16,9 +16,9 @@ Rating: 4.49 (Ranked 576)
 | Vaporous Expansion | 48.00% | ~11,824 |
 | Teamwork | 44.00% | ~10,839 |
 | There you are! | 42.00% | ~10,346 |
-| Clutch Capture | 40.00% | ~9,853 |
+| Clutch Capture | 40.00% | ~9,854 |
 | Back Off | 35.00% | ~8,622 |
-| Daily Dose | 34.00% | ~8,375 |
+| Daily Dose | 34.00% | ~8,376 |
 | Solo Capture | 32.00% | ~7,883 |
 | Welcome to the Crew | 32.00% | ~7,883 |
 | Ghostbuster In Training | 30.00% | ~7,390 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 576)
 | Mycophile | 1.00% | ~246 |
 | I don't need these | 0.90% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,633 (Ranked 101)  
+Progressed: 24,634 (Ranked 101)  
 Completed: 48 (0.19%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 48 (0.19%) (Ranked 177)
 | 2023-07-29 | 24,556 | 48 |
 | 2023-07-30 | 24,591 | 48 |
 | 2023-07-31 | 24,608 | 48 |
-| 2023-08-01 | 24,633 | 48 |
+| 2023-08-01 | 24,634 | 48 |
 ## Awards
 Max (Great for Quick Sessions): 245  (Ranked 250)  
 Sum: 2,194 (Ranked 190)  

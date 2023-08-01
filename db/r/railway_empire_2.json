@@ -3998,9 +3998,9 @@
       "ID": "A01",
       "SetID": "9b7p7eo",
       "Name": "Stoker",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 558
+      "UsersEstimate": 576
     },
     {
       "ID": "A02",
@@ -4334,9 +4334,9 @@
       "ID": "A43",
       "SetID": "9b7p7eo",
       "Name": "Mole",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 506
     },
     {
       "ID": "A44",
@@ -4439,8 +4439,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-31T01:57:43.9842724+00:00",
-  "LastChanged_Achievements": "2023-08-01T22:04:58.5504634+00:00",
+  "LastChanged_Achievements": "2023-08-01T23:04:17.447575+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:59.7965927+00:00",
-  "LastUpdate_Ratings": "2023-08-01T21:59:16.39641+00:00",
-  "LastUpdate_Achievements": "2023-08-01T22:04:58.5505367+00:00"
+  "LastUpdate_Ratings": "2023-08-01T22:58:44.4391369+00:00",
+  "LastUpdate_Achievements": "2023-08-01T23:04:17.4476635+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,709 |
+| A Brief Tour of the Realms | 4.00% | ~8,710 |
 | Beast Intentions | 3.00% | ~6,532 |
 | Maddening | 2.00% | ~4,355 |
 | The Silken Swamp | 1.00% | ~2,177 |
@@ -16,9 +16,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.90% | ~1,656 |
 | Vecna Loots! | 0.80% | ~1,472 |
 | Flight of the Kindori Pod | 0.80% | ~1,472 |
-| Topolah's Tower | 0.80% | ~1,472 |
 | Tall Tales | 0.70% | ~1,288 |
 | Seeds of Destruction | 0.70% | ~1,288 |
+| Topolah's Tower | 0.70% | ~1,288 |
 | Pros and CONs | 0.60% | ~1,306 |
 | The Witchlight Carnival | 0.60% | ~1,104 |
 | Wet Feet | 0.60% | ~1,306 |
@@ -66,6 +66,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wisdom Check | 0.40% | ~871 |
 | Invisible Shadows | 0.40% | ~871 |
 | Family Entanglements | 0.40% | ~871 |
+| Tower on the Lake | 0.40% | ~871 |
 | The Ring of Regeneration | 0.40% | ~871 |
 | Seeking Allies | 0.40% | ~871 |
 | Exploring Port Nyanzaru | 0.40% | ~871 |
@@ -102,7 +103,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haaave You Met Asmodeus? | 0.30% | ~653 |
 | The Immortal Warrior | 0.30% | ~653 |
 | The Wyrmheart Mine | 0.30% | ~653 |
-| Tower on the Lake | 0.30% | ~653 |
 | Trollskull Manor | 0.30% | ~653 |
 | Attack on the Manor | 0.30% | ~653 |
 | The Crumbling Temple | 0.30% | ~653 |
@@ -219,6 +219,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Expert Opinion | 0.20% | ~435 |
 | Dwarven Rumors | 0.20% | ~368 |
 | Sunblight | 0.20% | ~368 |
+| The Bleeding Citadel | 0.20% | ~368 |
 | The Radiant Nightmare | 0.20% | ~368 |
 | The Haunted Jungle | 0.20% | ~435 |
 | Poor Guidance | 0.20% | ~435 |
@@ -459,7 +460,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fortress Assault | 0.10% | ~184 |
 | Hats off to you! | 0.10% | ~184 |
 | It's Cold Out There Every Day | 0.10% | ~184 |
-| The Bleeding Citadel | 0.10% | ~184 |
 | Don't Pick at the Scab | 0.10% | ~184 |
 | Going To Eleven | 0.10% | ~184 |
 | Idyllglen | 0.10% | ~184 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,733 (Ranked 53)  
+Progressed: 217,745 (Ranked 53)  
 Completed: 2,142 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,17 +622,17 @@ Completed: 2,142 (0.98%) (Ranked 112)
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
-| 2023-08-01 | 217,733 | 2,142 |
+| 2023-08-01 | 217,745 | 2,142 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
-Sum: 30,843 (Ranked 38)  
+Sum: 30,845 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,108 |
 | This game is Great for Beginners | 5,045 |
 | This game has Quickly Understood Controls | 4,699 |
-| This game is Relaxing | 4,586 |
+| This game is Relaxing | 4,588 |
 | This game has Amazing Characters | 4,046 |
 | This game is Highly Recommended | 4,027 |
 | This game has Playful Visuals | 3,332 |
@@ -826,4 +826,4 @@ Diff (max vs sum): 29
 | 2023-07-29 | 4.05 | - | 5,100 | 30,800 |
 | 2023-07-30 | 4.05 | - | 5,100 | 30,813 |
 | 2023-07-31 | 4.05 | - | 5,106 | 30,831 |
-| 2023-08-01 | 4.05 | - | 5,108 | 30,843 |
+| 2023-08-01 | 4.05 | - | 5,108 | 30,845 |

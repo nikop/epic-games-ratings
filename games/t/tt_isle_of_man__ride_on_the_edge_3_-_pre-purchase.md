@@ -7,7 +7,7 @@
 | You're Going Down! | 96.00% | ~108 |
 | To Each Their Own | 47.00% | ~53 |
 | You Get An Upgrade, You Get An Upgrade! | 23.00% | ~26 |
-| Onwards and Upwards | 20.00% | ~22 |
+| Onwards and Upwards | 19.00% | ~21 |
 | Like Phileas Fogg | 16.00% | ~18 |
 | Serial Winner | 15.00% | ~17 |
 | Highly Qualified | 11.00% | ~12 |
@@ -19,14 +19,14 @@
 | Upgradeaholic | 6.00% | ~7 |
 | First and Foremost | 5.00% | ~6 |
 | Tailor-Made | 5.00% | ~6 |
-| POI Hunter | 4.00% | ~4 |
-| Seven-League Boots | 4.00% | ~4 |
-| Gotta Go Fast! | 4.00% | ~4 |
-| Say My Name | 4.00% | ~4 |
-| Made Mother Proud | 4.00% | ~4 |
-| Winner Winner Chicken Dinner | 4.00% | ~4 |
-| Tailor-Made for Two | 4.00% | ~4 |
-| Tempus Fugit | 4.00% | ~4 |
+| POI Hunter | 4.00% | ~5 |
+| Seven-League Boots | 4.00% | ~5 |
+| Gotta Go Fast! | 4.00% | ~5 |
+| Say My Name | 4.00% | ~5 |
+| Made Mother Proud | 4.00% | ~5 |
+| Winner Winner Chicken Dinner | 4.00% | ~5 |
+| Tailor-Made for Two | 4.00% | ~5 |
+| Tempus Fugit | 4.00% | ~5 |
 | Déjà-Vu | 3.00% | ~3 |
 | Last One Standing | 3.00% | ~3 |
 | Time Lord | 3.00% | ~3 |
@@ -44,8 +44,8 @@
 | Superbike Superfan | 2.00% | ~2 |
 | Playing Favourites | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 112 (Ranked 311)  
-Completed: 2 (1.79%) (Ranked 91)  
+Progressed: 113 (Ranked 311)  
+Completed: 2 (1.77%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,4 +99,4 @@ Completed: 2 (1.79%) (Ranked 91)
 | 2023-07-29 | 107 | 2 |
 | 2023-07-30 | 110 | 2 |
 | 2023-07-31 | 111 | 2 |
-| 2023-08-01 | 112 | 2 |
+| 2023-08-01 | 113 | 2 |

@@ -2878,9 +2878,9 @@
       "Count": 260
     }
   ],
-  "EOS_Progressed": 235047,
+  "EOS_Progressed": 235048,
   "EOS_Completed": 783,
-  "EOS_NewPlayers": 1010,
+  "EOS_NewPlayers": 1001,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -13903,6 +13903,11 @@
       "Time": "2023-08-01T22:05:15.9109151+00:00",
       "NumProgressed": 235047,
       "NumCompleted": 783
+    },
+    {
+      "Time": "2023-08-01T23:04:32.1916127+00:00",
+      "NumProgressed": 235048,
+      "NumCompleted": 783
     }
   ],
   "TotalAchievements": 39,
@@ -13978,7 +13983,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 213893
+      "UsersEstimate": 213894
     },
     {
       "ID": "AchievementClownID",
@@ -14074,7 +14079,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 105771
+      "UsersEstimate": 105772
     },
     {
       "ID": "AchievementIntroID",
@@ -14146,7 +14151,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 173935
+      "UsersEstimate": 173936
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -14194,7 +14199,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 110472
+      "UsersEstimate": 110473
     },
     {
       "ID": "AchievementTrinketID",
@@ -14225,7 +14230,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 235047,
+      "Progressed": 235048,
       "Completed": 783
     }
   ],
@@ -14233,8 +14238,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-08-01T20:01:23.5098522+00:00",
-  "LastChanged_Achievements": "2023-08-01T22:05:15.9109141+00:00",
+  "LastChanged_Achievements": "2023-08-01T23:04:32.1916114+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:24.5998227+00:00",
-  "LastUpdate_Ratings": "2023-08-01T22:02:17.2824604+00:00",
-  "LastUpdate_Achievements": "2023-08-01T22:05:15.9110328+00:00"
+  "LastUpdate_Ratings": "2023-08-01T23:01:16.2179163+00:00",
+  "LastUpdate_Achievements": "2023-08-01T23:04:32.1917136+00:00"
 }

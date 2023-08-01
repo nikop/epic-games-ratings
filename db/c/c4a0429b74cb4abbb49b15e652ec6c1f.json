@@ -2,7 +2,7 @@
   "ID": "c4a0429b74cb4abbb49b15e652ec6c1f",
   "Name": "Deverse World",
   "ProductSlug": "deverse-world-3ccb84",
-  "Ranking_EOS_Progress": 297,
+  "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 105,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -621,6 +621,11 @@
       "Time": "2023-08-01T21:04:43.0087557+00:00",
       "NumProgressed": 162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T23:05:07.1041713+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -729,7 +734,7 @@
       "Name": "NFT Gallery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "super_creator",
@@ -743,9 +748,9 @@
       "ID": "tireless_explorer",
       "SetID": "5fi1i42",
       "Name": "Tireless Explorer",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "treant_destroyer",
@@ -777,21 +782,21 @@
       "Name": "Waifu Kata",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-08-01T22:05:57.4881269+00:00",
+  "LastChanged_Achievements": "2023-08-01T23:05:07.104171+00:00",
   "LastUpdate_AppInfo": "2023-07-27T06:57:02.8148136+00:00",
-  "LastUpdate_Ratings": "2023-08-01T21:57:37.8970229+00:00",
-  "LastUpdate_Achievements": "2023-08-01T22:05:57.4881538+00:00"
+  "LastUpdate_Ratings": "2023-08-01T22:57:19.1250137+00:00",
+  "LastUpdate_Achievements": "2023-08-01T23:05:07.1041841+00:00"
 }
