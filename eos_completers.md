@@ -37,7 +37,7 @@
 | 35 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.94% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
-| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.60% |
+| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.57% |
 | 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.36% |
 | 40 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 40 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.25% |
@@ -51,9 +51,9 @@
 | 49 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 50 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 51 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.36% |
-| 52 | [Without Escape](games/w/without_escape.md) | 4.17% |
-| 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.14% |
-| 54 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.03% |
+| 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.14% |
+| 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.03% |
+| 54 | [Without Escape](games/w/without_escape.md) | 4.00% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.78% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.67% |
 | 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.52% |
@@ -103,8 +103,8 @@
 | 101 | [Five Dates](games/f/five_dates.md) | 1.41% |
 | 102 | [Late Shift](games/l/late_shift.md) | 1.32% |
 | 103 | [Chorus](games/c/chorus.md) | 1.18% |
-| 104 | [A Musical Story](games/a/a_musical_story.md) | 1.16% |
-| 105 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.15% |
+| 104 | [A Musical Story](games/a/a_musical_story.md) | 1.15% |
+| 104 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.15% |
 | 106 | [Trifox](games/t/trifox.md) | 1.11% |
 | 107 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
 | 108 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.03% |
@@ -120,10 +120,10 @@
 | 118 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 119 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
 | 120 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
-| 121 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.69% |
-| 122 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
-| 122 | [Haven](games/h/haven.md) | 0.66% |
-| 124 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.64% |
+| 121 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
+| 121 | [Haven](games/h/haven.md) | 0.66% |
+| 123 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.64% |
+| 123 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.64% |
 | 125 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 126 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.61% |
 | 127 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.60% |
