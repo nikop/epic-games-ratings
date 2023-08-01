@@ -5452,9 +5452,9 @@
       "Count": 3332
     }
   ],
-  "EOS_Progressed": 217718,
+  "EOS_Progressed": 217726,
   "EOS_Completed": 2142,
-  "EOS_NewPlayers": 2238,
+  "EOS_NewPlayers": 2233,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16572,6 +16572,11 @@
       "Time": "2023-08-01T20:04:24.1558108+00:00",
       "NumProgressed": 217718,
       "NumCompleted": 2142
+    },
+    {
+      "Time": "2023-08-01T21:04:08.5575792+00:00",
+      "NumProgressed": 217726,
+      "NumCompleted": 2142
     }
   ],
   "TotalAchievements": 512,
@@ -16591,7 +16596,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4354
+      "UsersEstimate": 4355
     },
     {
       "ID": "objective_completed_100",
@@ -19805,9 +19810,9 @@
       "ID": "objective_completed_80",
       "SetID": "cc37lbc",
       "Name": "Overdue Rendezvous",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 653
+      "UsersEstimate": 871
     },
     {
       "ID": "objective_completed_802",
@@ -20678,21 +20683,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183992,
+      "Progressed": 184000,
       "Completed": 3048
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217718,
+      "Progressed": 217726,
       "Completed": 2142
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-01T06:58:55.3799578+00:00",
-  "LastChanged_Achievements": "2023-08-01T20:04:24.1558104+00:00",
+  "LastChanged_Achievements": "2023-08-01T21:04:08.5575788+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-01T19:58:53.9788278+00:00",
-  "LastUpdate_Achievements": "2023-08-01T20:04:24.1584085+00:00"
+  "LastUpdate_Ratings": "2023-08-01T20:58:20.7778757+00:00",
+  "LastUpdate_Achievements": "2023-08-01T21:04:08.5602993+00:00"
 }

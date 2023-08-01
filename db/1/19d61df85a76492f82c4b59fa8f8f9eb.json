@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 245,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 9.05,
+  "EOS_Completed_Percentage": 8.98,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1126,6 +1126,11 @@
       "Time": "2023-08-01T20:05:27.7681159+00:00",
       "NumProgressed": 243,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-08-01T21:05:00.3608239+00:00",
+      "NumProgressed": 245,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 6,
@@ -1137,15 +1142,15 @@
       "Name": "Printing Press",
       "Percentage": 59,
       "XP": 175,
-      "UsersEstimate": 143
+      "UsersEstimate": 145
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
       "SetID": "4ocea6d",
       "Name": "File-cutter",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 165,
-      "UsersEstimate": 146
+      "UsersEstimate": 149
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -1153,7 +1158,7 @@
       "Name": "Viola Organista",
       "Percentage": 46,
       "XP": 165,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -1177,21 +1182,21 @@
       "Name": "Flying Machine",
       "Percentage": 29,
       "XP": 165,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 245,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-01T20:05:27.7681155+00:00",
+  "LastChanged_Achievements": "2023-08-01T21:05:00.3608234+00:00",
   "LastUpdate_AppInfo": "2023-07-27T13:57:11.6016453+00:00",
-  "LastUpdate_Ratings": "2023-08-01T19:57:28.3644202+00:00",
-  "LastUpdate_Achievements": "2023-08-01T20:05:27.768131+00:00"
+  "LastUpdate_Ratings": "2023-08-01T20:57:12.4219079+00:00",
+  "LastUpdate_Achievements": "2023-08-01T21:05:00.3608369+00:00"
 }

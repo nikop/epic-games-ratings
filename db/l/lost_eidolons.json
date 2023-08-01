@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -170,7 +170,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1076,
+  "EOS_Progressed": 1077,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -1245,6 +1245,11 @@
       "Time": "2023-08-01T18:03:18.7889436+00:00",
       "NumProgressed": 1076,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T21:02:33.2298436+00:00",
+      "NumProgressed": 1077,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -1288,7 +1293,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "06",
@@ -1312,7 +1317,7 @@
       "Name": "Monster Slayer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "09",
@@ -1320,7 +1325,7 @@
       "Name": "Awakening",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "10",
@@ -1384,7 +1389,7 @@
       "Name": "Ready to Learn",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "18",
@@ -1392,7 +1397,7 @@
       "Name": "Earning Trust",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "19",
@@ -1439,7 +1444,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1076,
+      "Progressed": 1077,
       "Completed": 0
     }
   ],
@@ -1447,8 +1452,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-08-01T20:02:34.1299771+00:00",
+  "LastChanged_Achievements": "2023-08-01T21:02:33.2298427+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:26.3547076+00:00",
-  "LastUpdate_Ratings": "2023-08-01T20:00:35.9276689+00:00",
-  "LastUpdate_Achievements": "2023-08-01T20:02:34.1300024+00:00"
+  "LastUpdate_Ratings": "2023-08-01T20:59:41.1711245+00:00",
+  "LastUpdate_Achievements": "2023-08-01T21:02:33.229864+00:00"
 }

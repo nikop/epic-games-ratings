@@ -5,59 +5,59 @@ Rating: 4.49 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,176 |
-| Advancement | 73.00% | ~17,975 |
-| Meticulously Efficient | 64.00% | ~15,759 |
-| Discovery | 61.00% | ~15,020 |
-| Fully Upgraded | 54.00% | ~13,296 |
-| Swift Rift Removers | 54.00% | ~13,296 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,558 |
-| Cultured | 51.00% | ~12,558 |
-| Vaporous Expansion | 48.00% | ~11,819 |
-| Teamwork | 44.00% | ~10,834 |
-| There you are! | 42.00% | ~10,342 |
-| Clutch Capture | 41.00% | ~10,095 |
-| Back Off | 35.00% | ~8,618 |
-| Daily Dose | 34.00% | ~8,372 |
-| Solo Capture | 32.00% | ~7,879 |
-| Welcome to the Crew | 32.00% | ~7,879 |
-| Ghostbuster In Training | 30.00% | ~7,387 |
-| Icing on the Cake | 30.00% | ~7,387 |
-| Side Hustle | 27.00% | ~6,648 |
-| We have the best insurance | 26.00% | ~6,402 |
-| Legions | 26.00% | ~6,402 |
-| Right back at ya | 26.00% | ~6,402 |
-| Stunner | 26.00% | ~6,402 |
-| Summoner | 26.00% | ~6,402 |
-| Pesky Jerks | 25.00% | ~6,156 |
+| Stylish | 86.00% | ~21,179 |
+| Advancement | 73.00% | ~17,978 |
+| Meticulously Efficient | 64.00% | ~15,761 |
+| Discovery | 61.00% | ~15,022 |
+| Fully Upgraded | 54.00% | ~13,299 |
+| Swift Rift Removers | 54.00% | ~13,299 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,560 |
+| Cultured | 51.00% | ~12,560 |
+| Vaporous Expansion | 48.00% | ~11,821 |
+| Teamwork | 44.00% | ~10,836 |
+| There you are! | 42.00% | ~10,343 |
+| Clutch Capture | 41.00% | ~10,097 |
+| Back Off | 35.00% | ~8,619 |
+| Daily Dose | 34.00% | ~8,373 |
+| Solo Capture | 32.00% | ~7,881 |
+| Welcome to the Crew | 32.00% | ~7,881 |
+| Ghostbuster In Training | 30.00% | ~7,388 |
+| Icing on the Cake | 30.00% | ~7,388 |
+| Side Hustle | 27.00% | ~6,649 |
+| We have the best insurance | 26.00% | ~6,403 |
+| Legions | 26.00% | ~6,403 |
+| Right back at ya | 26.00% | ~6,403 |
+| Stunner | 26.00% | ~6,403 |
+| Summoner | 26.00% | ~6,403 |
+| Pesky Jerks | 25.00% | ~6,157 |
 | Animated | 24.00% | ~5,910 |
 | Skilled | 24.00% | ~5,910 |
-| Collector | 23.00% | ~5,663 |
-| Ectoplasmic Entity | 23.00% | ~5,663 |
-| Rift Destroyer | 19.00% | ~4,678 |
-| Terrifying | 18.00% | ~4,432 |
-| Tobin's Prodigy | 18.00% | ~4,432 |
-| Reckless | 17.00% | ~4,186 |
+| Collector | 23.00% | ~5,664 |
+| Ectoplasmic Entity | 23.00% | ~5,664 |
+| Rift Destroyer | 19.00% | ~4,679 |
+| Terrifying | 18.00% | ~4,433 |
+| Tobin's Prodigy | 18.00% | ~4,433 |
+| Reckless | 17.00% | ~4,187 |
 | Diabolical | 16.00% | ~3,940 |
 | Escape Artist | 16.00% | ~3,940 |
 | Seasoned | 16.00% | ~3,940 |
 | Whoopsie | 12.00% | ~2,955 |
-| Liability | 10.00% | ~2,462 |
-| Rivalry | 10.00% | ~2,462 |
+| Liability | 10.00% | ~2,463 |
+| Rivalry | 10.00% | ~2,463 |
 | Fragile Panes | 9.00% | ~2,216 |
 | Surprise! | 9.00% | ~2,216 |
 | Rift Seeker | 7.00% | ~1,724 |
 | Therapeutic | 7.00% | ~1,724 |
-| Master Collector | 6.00% | ~1,477 |
+| Master Collector | 6.00% | ~1,478 |
 | Ghost Expert | 3.00% | ~739 |
-| Catostrophic Destroyer | 2.00% | ~492 |
-| Line em' up | 2.00% | ~492 |
-| Little Help Here | 2.00% | ~492 |
-| Ultimate Defense | 2.00% | ~492 |
+| Catostrophic Destroyer | 2.00% | ~493 |
+| Line em' up | 2.00% | ~493 |
+| Little Help Here | 2.00% | ~493 |
+| Ultimate Defense | 2.00% | ~493 |
 | Mycophile | 1.00% | ~246 |
 | I don't need these | 0.90% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,623 (Ranked 101)  
+Progressed: 24,627 (Ranked 101)  
 Completed: 48 (0.19%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,10 +160,10 @@ Completed: 48 (0.19%) (Ranked 177)
 | 2023-07-29 | 24,556 | 48 |
 | 2023-07-30 | 24,591 | 48 |
 | 2023-07-31 | 24,608 | 48 |
-| 2023-08-01 | 24,623 | 48 |
+| 2023-08-01 | 24,627 | 48 |
 ## Awards
 Max (Great for Quick Sessions): 245  (Ranked 250)  
-Sum: 2,192 (Ranked 190)  
+Sum: 2,193 (Ranked 190)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -173,8 +173,8 @@ Diff (max vs sum): 60
 | This game has Diverse Characters | 219 |
 | This game has Amazing Storytelling | 219 |
 | This game is Highly Recommended | 215 |
+| This game is Extremely Fun | 214 |
 | This game is Relaxing | 214 |
-| This game is Extremely Fun | 213 |
 | This game has Quickly Understood Controls | 205 |
 | This game has Amazing Characters | 203 |
 | This game has Playful Visuals | 94 |
@@ -306,4 +306,4 @@ Diff (max vs sum): 60
 | 2023-07-28 | 4.49 | 244 | 2,189 |
 | 2023-07-29 | 4.49 | 245 | 2,190 |
 | 2023-07-30 | 4.49 | 245 | 2,191 |
-| 2023-08-01 | 4.49 | 245 | 2,192 |
+| 2023-08-01 | 4.49 | 245 | 2,193 |

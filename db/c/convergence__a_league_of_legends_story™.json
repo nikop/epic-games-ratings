@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 815,
+  "EOS_Progressed": 816,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -1905,6 +1905,11 @@
       "Time": "2023-07-31T21:03:52.1904142+00:00",
       "NumProgressed": 815,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-01T21:04:06.9044451+00:00",
+      "NumProgressed": 816,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -1924,7 +1929,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -1954,9 +1959,9 @@
       "ID": "ClockworkCompletion1",
       "SetID": "a9e499d",
       "Name": "Corin Goes Home",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 49
     },
     {
       "ID": "ClockworkProgress1",
@@ -1978,9 +1983,9 @@
       "ID": "CosmeticCompletion1",
       "SetID": "a9e499d",
       "Name": "Sartorialist",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 49
     },
     {
       "ID": "CosmeticProgress1",
@@ -2156,7 +2161,7 @@
       "Name": "Time Flies",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ParryBoss",
@@ -2164,7 +2169,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ParryRepeated1",
@@ -2172,7 +2177,7 @@
       "Name": "No, Thanks!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2188,7 +2193,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "PidgeDefeated",
@@ -2212,7 +2217,7 @@
       "Name": "Honest Mistake",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2244,7 +2249,7 @@
       "Name": "Fast Learner",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "SpeedRun",
@@ -2339,7 +2344,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 815,
+      "Progressed": 816,
       "Completed": 5
     }
   ],
@@ -2347,8 +2352,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-01T20:04:22.561442+00:00",
+  "LastChanged_Achievements": "2023-08-01T21:04:06.9044447+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.2379789+00:00",
-  "LastUpdate_Ratings": "2023-08-01T20:00:15.141555+00:00",
-  "LastUpdate_Achievements": "2023-08-01T20:04:22.5615008+00:00"
+  "LastUpdate_Ratings": "2023-08-01T20:59:24.1504441+00:00",
+  "LastUpdate_Achievements": "2023-08-01T21:04:06.904504+00:00"
 }

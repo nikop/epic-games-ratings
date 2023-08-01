@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1240,
+  "EOS_Progressed": 1241,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1970,6 +1970,11 @@
       "Time": "2023-08-01T20:04:04.6576154+00:00",
       "NumProgressed": 1240,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-01T21:03:52.123975+00:00",
+      "NumProgressed": 1241,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2061,7 +2066,7 @@
       "Name": "E1M1",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "Everyone_is_here",
@@ -2157,7 +2162,7 @@
       "Name": "One by One",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Miner",
@@ -2173,7 +2178,7 @@
       "Name": "Mosquito bite",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "Scout",
@@ -2220,15 +2225,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1240,
+      "Progressed": 1241,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-01T20:04:04.657615+00:00",
+  "LastChanged_Achievements": "2023-08-01T21:03:52.1239745+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:01.8247035+00:00",
-  "LastUpdate_Ratings": "2023-08-01T20:00:04.2872791+00:00",
-  "LastUpdate_Achievements": "2023-08-01T20:04:04.6576476+00:00"
+  "LastUpdate_Ratings": "2023-08-01T20:59:14.6508127+00:00",
+  "LastUpdate_Achievements": "2023-08-01T21:03:52.1240012+00:00"
 }

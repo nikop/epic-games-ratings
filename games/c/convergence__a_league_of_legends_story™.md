@@ -14,13 +14,13 @@ Rating: 4.60 (Ranked 390)
 | Immaculate Aim | 17.00% | ~139 |
 | Immaculate Aim | 17.00% | ~139 |
 | The Brass Boss | 17.00% | ~139 |
-| The Steel Shadow | 16.00% | ~130 |
-| Time Flies | 16.00% | ~130 |
-| The Harder They Fall | 16.00% | ~130 |
-| No, Thanks! | 16.00% | ~130 |
-| The Wicked Twins | 16.00% | ~130 |
-| Honest Mistake | 16.00% | ~130 |
-| Fast Learner | 16.00% | ~130 |
+| The Steel Shadow | 16.00% | ~131 |
+| Time Flies | 16.00% | ~131 |
+| The Harder They Fall | 16.00% | ~131 |
+| No, Thanks! | 16.00% | ~131 |
+| The Wicked Twins | 16.00% | ~131 |
+| Honest Mistake | 16.00% | ~131 |
+| Fast Learner | 16.00% | ~131 |
 | Like Clockwork | 15.00% | ~122 |
 | The Betrayer | 15.00% | ~122 |
 | The Man Who Shattered Time | 15.00% | ~122 |
@@ -42,10 +42,10 @@ Rating: 4.60 (Ranked 390)
 | Factorywood Explorer | 8.00% | ~65 |
 | Fairgrounds Explorer | 8.00% | ~65 |
 | Syron for Hope | 8.00% | ~65 |
-| Corin Goes Home | 7.00% | ~57 |
-| Sartorialist | 7.00% | ~57 |
 | Cultivair Explorer | 7.00% | ~57 |
 | Entresol Explorer | 7.00% | ~57 |
+| Corin Goes Home | 6.00% | ~49 |
+| Sartorialist | 6.00% | ~49 |
 | Clovemary for Remembering | 5.00% | ~41 |
 | Golem Hunter | 5.00% | ~41 |
 | Rungs Was Right | 5.00% | ~41 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 390)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 815 (Ranked 201)  
+Progressed: 816 (Ranked 201)  
 Completed: 5 (0.61%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,6 +128,7 @@ Completed: 5 (0.61%) (Ranked 127)
 | 2023-07-29 | 803 | 4 |
 | 2023-07-30 | 808 | 4 |
 | 2023-07-31 | 815 | 5 |
+| 2023-08-01 | 816 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

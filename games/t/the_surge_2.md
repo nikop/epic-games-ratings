@@ -5,15 +5,15 @@ Rating: 4.25 (Ranked 819)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,546 |
-| Don't I Know You...? | 76.00% | ~1,469 |
-| Jailbreak | 65.00% | ~1,256 |
+| Rigged And Ready | 80.00% | ~1,547 |
+| Don't I Know You...? | 76.00% | ~1,470 |
+| Jailbreak | 65.00% | ~1,257 |
 | Suited and Booted | 38.00% | ~735 |
-| HEADSHOT! | 37.00% | ~715 |
+| HEADSHOT! | 37.00% | ~716 |
 | Sleeping With The Fishes | 35.00% | ~677 |
 | Overheated | 30.00% | ~580 |
 | High Performance | 30.00% | ~580 |
-| Powered Up | 28.00% | ~541 |
+| Powered Up | 28.00% | ~542 |
 | Studied The Blade | 24.00% | ~464 |
 | Home Invasion | 22.00% | ~425 |
 | Luminary | 22.00% | ~425 |
@@ -55,15 +55,15 @@ Rating: 4.25 (Ranked 819)
 | Plank of Wood | 4.00% | ~77 |
 | It Lives! It Sniffs! It Conquers! | 3.00% | ~58 |
 | Gotta Craft 'em All | 3.00% | ~58 |
-| Own Medicine | 2.00% | ~39 |
 | Three Birds With One Stone | 2.00% | ~39 |
-| Box Office Smash | 2.00% | ~39 |
 | Going Postal | 2.00% | ~39 |
 | Loot, Pillage & Craft | 2.00% | ~39 |
+| Own Medicine | 1.00% | ~19 |
 | Swiss Army Drone | 1.00% | ~19 |
+| Box Office Smash | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,933 (Ranked 168)  
+Progressed: 1,934 (Ranked 168)  
 Completed: 10 (0.52%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 10 (0.52%) (Ranked 135)
 | 2023-07-29 | 1,916 | 10 |
 | 2023-07-30 | 1,923 | 10 |
 | 2023-07-31 | 1,929 | 10 |
-| 2023-08-01 | 1,933 | 10 |
+| 2023-08-01 | 1,934 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

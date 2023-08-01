@@ -4,8 +4,8 @@
   "ProductSlug": "skye-tales-02bf5b",
   "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -367,8 +367,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-21T10:01:39.9967766+00:00",
-  "LastChanged_Achievements": "2023-08-01T20:02:36.8943517+00:00",
+  "LastChanged_Achievements": "2023-08-01T21:02:35.5295926+00:00",
   "LastUpdate_AppInfo": "2023-07-28T10:57:28.7612133+00:00",
-  "LastUpdate_Ratings": "2023-08-01T19:57:11.1546783+00:00",
-  "LastUpdate_Achievements": "2023-08-01T20:02:36.8943824+00:00"
+  "LastUpdate_Ratings": "2023-08-01T20:56:59.9619715+00:00",
+  "LastUpdate_Achievements": "2023-08-01T21:02:35.5296245+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2415,
+  "EOS_Progressed": 2418,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -2243,6 +2243,11 @@
       "Time": "2023-08-01T14:03:27.3577249+00:00",
       "NumProgressed": 2415,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-01T21:03:19.1402222+00:00",
+      "NumProgressed": 2418,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2302,7 +2307,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "SNOW_RUINS",
@@ -2318,7 +2323,7 @@
       "Name": "Starting as a duo",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -2326,15 +2331,15 @@
       "Name": "Stronger together",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "THE_END",
       "SetID": "1a29mp6",
       "Name": "The end",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 169
+      "UsersEstimate": 145
     },
     {
       "ID": "TRANSMISSION",
@@ -2342,7 +2347,7 @@
       "Name": "Transmission",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -2357,7 +2362,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2415,
+      "Progressed": 2418,
       "Completed": 6
     }
   ],
@@ -2365,8 +2370,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-01T20:03:24.2252193+00:00",
+  "LastChanged_Achievements": "2023-08-01T21:03:19.1402218+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:06.4701918+00:00",
-  "LastUpdate_Ratings": "2023-08-01T20:00:11.8203667+00:00",
-  "LastUpdate_Achievements": "2023-08-01T20:03:24.2252436+00:00"
+  "LastUpdate_Ratings": "2023-08-01T20:59:20.245185+00:00",
+  "LastUpdate_Achievements": "2023-08-01T21:03:19.1402449+00:00"
 }

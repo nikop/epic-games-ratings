@@ -12,11 +12,11 @@
 | Dont mind the heat | 16.00% | ~3 |
 | A Dangerous Road | 11.00% | ~2 |
 | Scorched Ruins | 11.00% | ~2 |
+| City of Illusion | 11.00% | ~2 |
+| Kill the Flames | 11.00% | ~2 |
 | City of Puzzles | 11.00% | ~2 |
 | This field of danger | 11.00% | ~2 |
 | Labyrinths of the Mind | 11.00% | ~2 |
-| City of Illusion | 5.00% | ~1 |
-| Kill the Flames | 5.00% | ~1 |
 | Find the Light | 5.00% | ~1 |
 | Fight and Overcome | 5.00% | ~1 |
 | A Walk to the End | 5.00% | ~1 |

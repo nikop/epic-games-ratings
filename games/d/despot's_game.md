@@ -5,22 +5,22 @@ Rating: 4.50 (Ranked 558)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 85.00% | ~355 |
+| Good start! | 85.00% | ~356 |
 | Vanquisher of Robots | 76.00% | ~318 |
 | Party | 48.00% | ~201 |
-| Impossible Cube | 45.00% | ~188 |
+| Impossible Cube | 45.00% | ~189 |
 | Knowledge is Power | 44.00% | ~184 |
 | No Mercy | 42.00% | ~176 |
 | Through the Darkness | 42.00% | ~176 |
-| The Return of a Rat | 41.00% | ~171 |
-| Fat of the Earth | 35.00% | ~146 |
+| The Return of a Rat | 41.00% | ~172 |
+| Fat of the Earth | 35.00% | ~147 |
 | Last Man Standing | 32.00% | ~134 |
-| Catch Jonathan_tostar | 27.00% | ~113 |
 | He's Seen It All | 27.00% | ~113 |
 | Great Hero | 27.00% | ~113 |
 | Campaigning | 26.00% | ~109 |
+| Catch Jonathan_tostar | 26.00% | ~109 |
 | Rookie | 26.00% | ~109 |
-| Assemble a Meganewbie | 24.00% | ~100 |
+| Assemble a Meganewbie | 24.00% | ~101 |
 | Frugal | 21.00% | ~88 |
 | Feed a God | 21.00% | ~88 |
 | To the Moon and Back | 20.00% | ~84 |
@@ -29,11 +29,11 @@ Rating: 4.50 (Ranked 558)
 | Honorary Cultist | 12.00% | ~50 |
 | Strength and Sorcery | 10.00% | ~42 |
 | Brain and Brawn | 10.00% | ~42 |
-| Omae Wa Mou Shindeiru | 8.00% | ~33 |
+| Omae Wa Mou Shindeiru | 8.00% | ~34 |
 | Experimentalist | 6.00% | ~25 |
 | Wide Selection | 6.00% | ~25 |
 | Soldier | 6.00% | ~25 |
-| Android Power | 6.00% | ~25 |
+| Android Power | 5.00% | ~21 |
 | Shopaholic | 3.00% | ~13 |
 | Zombie Lover | 3.00% | ~13 |
 | Full House | 1.00% | ~4 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 558)
 | Vet | 1.00% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 418 (Ranked 231)  
+Progressed: 419 (Ranked 231)  
 Completed: 1 (0.24%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,6 +86,7 @@ Completed: 1 (0.24%) (Ranked 168)
 | 2023-07-28 | 416 | 1 |
 | 2023-07-29 | 417 | 1 |
 | 2023-07-31 | 418 | 1 |
+| 2023-08-01 | 419 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

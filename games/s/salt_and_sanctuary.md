@@ -6,20 +6,20 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~439,343 |
-| The Three | 64.00% | ~338,771 |
-| The Banquet | 40.00% | ~211,732 |
-| Devara's Light | 30.00% | ~158,799 |
-| The Iron Ones | 18.00% | ~95,279 |
+| Find Sanctuary | 83.00% | ~439,347 |
+| The Three | 64.00% | ~338,774 |
+| The Banquet | 40.00% | ~211,734 |
+| Devara's Light | 30.00% | ~158,800 |
+| The Iron Ones | 18.00% | ~95,280 |
 | The Village | 16.00% | ~84,693 |
-| The Forest | 14.00% | ~74,106 |
+| The Forest | 14.00% | ~74,107 |
 | Branded | 13.00% | ~68,813 |
 | The Imposter | 13.00% | ~68,813 |
 | The Keep | 13.00% | ~68,813 |
-| The Castle | 11.00% | ~58,226 |
+| The Castle | 11.00% | ~58,227 |
 | The Dome | 9.00% | ~47,640 |
 | The Red Hall | 9.00% | ~47,640 |
-| The Sacrifice | 8.00% | ~42,346 |
+| The Sacrifice | 8.00% | ~42,347 |
 | The Cave | 7.00% | ~37,053 |
 | The Mire | 7.00% | ~37,053 |
 | The Stone Roots | 7.00% | ~37,053 |
@@ -28,8 +28,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Construct | 6.00% | ~31,760 |
 | The Lake | 6.00% | ~31,760 |
 | The Ruins | 6.00% | ~31,760 |
-| The Alkymancery | 5.00% | ~26,466 |
-| The Pitchwoods | 5.00% | ~26,466 |
+| The Alkymancery | 5.00% | ~26,467 |
+| The Pitchwoods | 5.00% | ~26,467 |
 | Honed | 4.00% | ~21,173 |
 | The House of Splendor | 4.00% | ~21,173 |
 | The Crypt | 4.00% | ~21,173 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,587 |
 | Fading Fast | 1.00% | ~5,293 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 529,329 (Ranked 29)  
+Progressed: 529,334 (Ranked 29)  
 Completed: 1,493 (0.28%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 1,493 (0.28%) (Ranked 161)
 | 2023-07-29 | 529,014 | 1,491 |
 | 2023-07-30 | 529,136 | 1,493 |
 | 2023-07-31 | 529,221 | 1,493 |
-| 2023-08-01 | 529,329 | 1,493 |
+| 2023-08-01 | 529,334 | 1,493 |
 ## Awards
 Max (Challenging Combat): 276  (Ranked 240)  
 Sum: 1,923 (Ranked 200)  

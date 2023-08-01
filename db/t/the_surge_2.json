@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -243,9 +243,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1933,
+  "EOS_Progressed": 1934,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -1988,6 +1988,11 @@
       "Time": "2023-08-01T16:03:32.6921631+00:00",
       "NumProgressed": 1933,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-01T21:03:38.780625+00:00",
+      "NumProgressed": 1934,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -2007,7 +2012,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "ACHV_03",
@@ -2093,9 +2098,9 @@
       "ID": "ACHV_13",
       "SetID": "8p5mlmc",
       "Name": "Own Medicine",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHV_14",
@@ -2175,7 +2180,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "ACHV_24",
@@ -2199,7 +2204,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "ACHV_27",
@@ -2231,7 +2236,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ACHV_31",
@@ -2303,7 +2308,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     },
     {
       "ID": "ACHV_40",
@@ -2381,9 +2386,9 @@
       "ID": "ACHV_49",
       "SetID": "8p5mlmc",
       "Name": "Box Office Smash",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHV_50",
@@ -2454,7 +2459,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1933,
+      "Progressed": 1934,
       "Completed": 10
     }
   ],
@@ -2462,8 +2467,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-08-01T20:03:48.3554309+00:00",
+  "LastChanged_Achievements": "2023-08-01T21:03:38.7806248+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:20.3642762+00:00",
-  "LastUpdate_Ratings": "2023-08-01T19:57:11.8483136+00:00",
-  "LastUpdate_Achievements": "2023-08-01T20:03:48.3554935+00:00"
+  "LastUpdate_Ratings": "2023-08-01T20:57:00.4638885+00:00",
+  "LastUpdate_Achievements": "2023-08-01T21:03:38.7806888+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -221,9 +221,9 @@
       "ID": "CgkInO_K3eIdEAIQBQ",
       "SetID": "6bj96in",
       "Name": "SAILOR\u0027S GIFT",
-      "Percentage": 74,
+      "Percentage": 77,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CgkInO_K3eIdEAIQBg",
@@ -293,9 +293,9 @@
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 74,
+      "Percentage": 77,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CgkInO_K3eIdEAIQDw",
@@ -381,9 +381,9 @@
       "ID": "CgkInO_K3eIdEAIQGQ",
       "SetID": "6bj96in",
       "Name": "BLINDED BY THE LIGHT",
-      "Percentage": 34,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "CgkInO_K3eIdEAIQGg",
@@ -404,8 +404,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-01T20:04:25.7724175+00:00",
+  "LastChanged_Achievements": "2023-08-01T21:04:09.5819099+00:00",
   "LastUpdate_AppInfo": "2023-07-26T13:57:00.7387624+00:00",
-  "LastUpdate_Ratings": "2023-08-01T19:57:21.359588+00:00",
-  "LastUpdate_Achievements": "2023-08-01T20:04:25.7724349+00:00"
+  "LastUpdate_Ratings": "2023-08-01T20:57:07.2667489+00:00",
+  "LastUpdate_Achievements": "2023-08-01T21:04:09.5819279+00:00"
 }

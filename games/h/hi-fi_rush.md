@@ -9,11 +9,11 @@ Rating: 4.87 (Ranked 24)
 | Feeling the beat! | 6.00% | ~220 |
 | Who put gears in there? | 5.00% | ~183 |
 | You can pet the cat! | 5.00% | ~183 |
-| Cream of the Crop | 4.00% | ~146 |
-| Thanks for the free chip, Peppermint! | 4.00% | ~146 |
-| You got this, Peppermint? | 4.00% | ~146 |
-| Perfect Parry | 4.00% | ~146 |
-| Alright, that felt AWESOME! | 4.00% | ~146 |
+| Cream of the Crop | 4.00% | ~147 |
+| Thanks for the free chip, Peppermint! | 4.00% | ~147 |
+| You got this, Peppermint? | 4.00% | ~147 |
+| Perfect Parry | 4.00% | ~147 |
+| Alright, that felt AWESOME! | 4.00% | ~147 |
 | This will cost you big time | 3.00% | ~110 |
 | The Negotiator | 3.00% | ~110 |
 | Headliner | 3.00% | ~110 |
@@ -26,7 +26,7 @@ Rating: 4.87 (Ranked 24)
 | Uh, they were broken when I got here | 3.00% | ~110 |
 | Kissing the sky! | 3.00% | ~110 |
 | Does that say weakpoint? | 3.00% | ~110 |
-| NOW we got a kickass hideout! | 3.00% | ~65 |
+| NOW we got a kickass hideout! | 3.00% | ~66 |
 | Well that was a rush! | 2.00% | ~73 |
 | I have to read these things? | 2.00% | ~73 |
 | Beat-hit mania | 2.00% | ~73 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,662 (Ranked 146)  
+Progressed: 3,665 (Ranked 146)  
 Completed: 6 (0.16%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 6 (0.16%) (Ranked 180)
 | 2023-07-29 | 3,627 | 6 |
 | 2023-07-30 | 3,640 | 6 |
 | 2023-07-31 | 3,656 | 6 |
-| 2023-08-01 | 3,662 | 6 |
+| 2023-08-01 | 3,665 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

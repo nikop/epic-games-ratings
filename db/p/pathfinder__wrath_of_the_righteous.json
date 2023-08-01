@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3326,9 +3326,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10741,
+  "EOS_Progressed": 10745,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9901,6 +9901,11 @@
       "Time": "2023-08-01T19:03:14.7938979+00:00",
       "NumProgressed": 10741,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T21:00:23.8652627+00:00",
+      "NumProgressed": 10745,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9912,7 +9917,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2363
+      "UsersEstimate": 2364
     },
     {
       "ID": "02_BurningCity",
@@ -9920,7 +9925,7 @@
       "Name": "Burning City",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -10126,9 +10131,9 @@
       "ID": "29_StrategicVictory",
       "SetID": "989of5o",
       "Name": "Strategic Victory",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 107
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -10160,7 +10165,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -10280,7 +10285,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "49_Flame",
@@ -10784,7 +10789,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -10792,7 +10797,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -10800,7 +10805,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -10839,21 +10844,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9523,
+      "Progressed": 9527,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10741,
+      "Progressed": 10745,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-01T16:59:49.5263308+00:00",
-  "LastChanged_Achievements": "2023-08-01T19:03:14.7938974+00:00",
+  "LastChanged_Achievements": "2023-08-01T21:00:23.8652613+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-08-01T19:59:14.252009+00:00",
-  "LastUpdate_Achievements": "2023-08-01T19:03:14.7940982+00:00"
+  "LastUpdate_Ratings": "2023-08-01T20:58:35.682419+00:00",
+  "LastUpdate_Achievements": "2023-08-01T21:00:23.8673385+00:00"
 }

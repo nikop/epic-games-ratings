@@ -6,28 +6,28 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,041 |
-| The Journey Begins | 98.00% | ~5,041 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~4,012 |
-| There is No Escape | 71.00% | ~3,652 |
-| Fun, Flirty, and Thirty | 62.00% | ~3,189 |
-| Royal Flush | 62.00% | ~3,189 |
-| Timber! | 60.00% | ~3,086 |
-| Survive the Bombsequences | 59.00% | ~3,035 |
+| Quinceañera Time | 98.00% | ~5,042 |
+| The Journey Begins | 98.00% | ~5,042 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~4,013 |
+| There is No Escape | 71.00% | ~3,653 |
+| Fun, Flirty, and Thirty | 62.00% | ~3,190 |
+| Royal Flush | 62.00% | ~3,190 |
+| Timber! | 60.00% | ~3,087 |
+| Survive the Bombsequences | 59.00% | ~3,036 |
 | Killed 20 Jerks | 54.00% | ~2,778 |
-| Death Defied | 53.00% | ~2,726 |
+| Death Defied | 53.00% | ~2,727 |
 | Fortunate Soul | 49.00% | ~2,521 |
 | Jerk-Slayer | 43.00% | ~2,212 |
-| Employee of the Month | 37.00% | ~1,903 |
-| I Believe I Can Fly | 37.00% | ~1,903 |
-| Bone Collector | 35.00% | ~1,800 |
-| Fe-Festival | 35.00% | ~1,800 |
+| Employee of the Month | 37.00% | ~1,904 |
+| I Believe I Can Fly | 37.00% | ~1,904 |
+| Bone Collector | 35.00% | ~1,801 |
+| Fe-Festival | 35.00% | ~1,801 |
 | Top of the Food Chain | 32.00% | ~1,646 |
 | Pardon my Slob | 32.00% | ~1,646 |
 | Humerus Achievement | 31.00% | ~1,595 |
 | Ghost Facers! | 27.00% | ~1,389 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,080 |
-| Royal Flush, Again | 19.00% | ~977 |
+| Royal Flush, Again | 19.00% | ~978 |
 | Trying To Get Into That 1%, Huh? | 18.00% | ~926 |
 | Can't Touch This | 18.00% | ~926 |
 | Yummy! | 16.00% | ~823 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | Backdraft | 0.60% | ~31 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,144 (Ranked 137)  
+Progressed: 5,145 (Ranked 137)  
 Completed: 29 (0.56%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 29 (0.56%) (Ranked 131)
 | 2023-07-26 | 5,139 | 29 |
 | 2023-07-28 | 5,140 | 29 |
 | 2023-07-30 | 5,142 | 29 |
-| 2023-08-01 | 5,144 | 29 |
+| 2023-08-01 | 5,145 | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

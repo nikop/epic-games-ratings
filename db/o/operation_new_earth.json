@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 743,
+  "EOS_Progressed": 744,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
@@ -2566,6 +2566,11 @@
       "Time": "2023-08-01T19:06:10.0153325+00:00",
       "NumProgressed": 743,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T21:05:33.1001639+00:00",
+      "NumProgressed": 744,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2641,7 +2646,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -2687,9 +2692,9 @@
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 141
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -2697,7 +2702,7 @@
       "Name": "Sergeant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -2713,7 +2718,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -2880,14 +2885,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 743,
+      "Progressed": 744,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-01T20:06:07.3596661+00:00",
+  "LastChanged_Achievements": "2023-08-01T21:05:33.1001634+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-08-01T19:57:01.7215825+00:00",
-  "LastUpdate_Achievements": "2023-08-01T20:06:07.3597109+00:00"
+  "LastUpdate_Ratings": "2023-08-01T20:56:53.0773323+00:00",
+  "LastUpdate_Achievements": "2023-08-01T21:05:33.1002088+00:00"
 }

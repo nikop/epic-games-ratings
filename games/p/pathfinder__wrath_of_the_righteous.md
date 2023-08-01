@@ -6,10 +6,10 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 22.00% | ~2,363 |
-| Burning City | 15.00% | ~1,611 |
-| A Spark | 15.00% | ~1,611 |
-| Defender's Heart | 13.00% | ~1,396 |
+| Devoured by Darkness | 22.00% | ~2,364 |
+| Burning City | 15.00% | ~1,612 |
+| A Spark | 15.00% | ~1,612 |
+| Defender's Heart | 13.00% | ~1,397 |
 | Mythic Choices | 12.00% | ~1,289 |
 | Banner over the Citadel | 11.00% | ~1,182 |
 | Queen's Gratitude | 10.00% | ~1,074 |
@@ -40,15 +40,15 @@ Number of Ratings: 1,354  (23.09.2022)
 | Core of the Riddle | 2.00% | ~215 |
 | Your First Big Enemy | 2.00% | ~215 |
 | Truly Important Deed | 2.00% | ~215 |
-| Stay Underground | 2.00% | ~190 |
-| Hanged Man's Notes | 2.00% | ~190 |
-| Sarkoris Will Be Green | 2.00% | ~190 |
+| Stay Underground | 2.00% | ~191 |
+| Hanged Man's Notes | 2.00% | ~191 |
+| Sarkoris Will Be Green | 2.00% | ~191 |
 | The Final Threshold | 1.00% | ~107 |
 | Path of the Demon | 1.00% | ~107 |
+| Strategic Victory | 1.00% | ~107 |
 | Abyssal Conspiracy | 1.00% | ~107 |
 | This Wall Won't Fall | 1.00% | ~95 |
 | Not the Last Sarkorian | 1.00% | ~95 |
-| Strategic Victory | 0.90% | ~97 |
 | Path of the Dragon | 0.80% | ~86 |
 | Path of the Legend | 0.80% | ~86 |
 | End of Eternal Guard | 0.80% | ~86 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,741 (Ranked 120)  
+Progressed: 10,745 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 10,674 | 0 |
 | 2023-07-30 | 10,702 | 0 |
 | 2023-07-31 | 10,721 | 0 |
-| 2023-08-01 | 10,741 | 0 |
+| 2023-08-01 | 10,745 | 0 |
 ## Awards
 Max (Character Customization): 1,694  (Ranked 117)  
 Sum: 6,862 (Ranked 113)  

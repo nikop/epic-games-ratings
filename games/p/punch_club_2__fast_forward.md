@@ -24,22 +24,22 @@
 | Employee of the month | 61.00% | ~123 |
 | Spirit of the past | 60.00% | ~121 |
 | Law student | 59.00% | ~119 |
+| Workout professional | 57.00% | ~115 |
 | Intriguing candies | 57.00% | ~115 |
-| Workout professional | 56.00% | ~113 |
 | Little hacker | 56.00% | ~113 |
 | Champion – starter pack | 56.00% | ~113 |
 | Own four walls | 56.00% | ~113 |
+| Handyman | 55.00% | ~111 |
 | It's good to be alive | 55.00% | ~111 |
-| Handyman | 54.00% | ~109 |
 | Employee of the year | 54.00% | ~109 |
 | Fight for life | 53.00% | ~107 |
 | Legal courier | 51.00% | ~103 |
 | Extreme neuropower! | 50.00% | ~100 |
-| Escaped from a big trouble | 49.00% | ~98 |
+| Escaped from a big trouble | 50.00% | ~100 |
 | Now you are worthy | 47.00% | ~94 |
 | No blades in the gym | 45.00% | ~90 |
 | Your own way | 45.00% | ~90 |
-| Guiding on the right path | 43.00% | ~86 |
+| Guiding on the right path | 44.00% | ~88 |
 | Fight is life | 42.00% | ~84 |
 | Mysterious voice | 42.00% | ~84 |
 | Get out of my apartment! | 38.00% | ~76 |
@@ -63,10 +63,10 @@
 | Key memories | 28.00% | ~56 |
 | Careerist | 28.00% | ~56 |
 | The heart of the Resistance | 28.00% | ~56 |
+| Trap disarmed | 27.00% | ~54 |
 | Keep nature safe | 27.00% | ~54 |
 | Family comes first | 27.00% | ~54 |
 | Anyone can resist | 27.00% | ~54 |
-| Trap disarmed | 26.00% | ~52 |
 | Silver’s past | 24.00% | ~48 |
 | Better cooking at home | 24.00% | ~48 |
 | The only right decision | 24.00% | ~48 |

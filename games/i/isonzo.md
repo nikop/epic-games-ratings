@@ -6,9 +6,9 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,598 |
-| Tutti Eroi! | 55.00% | ~3,598 |
-| You Shall Not Pass | 53.00% | ~3,467 |
+| Peak Performance | 55.00% | ~3,599 |
+| Tutti Eroi! | 55.00% | ~3,599 |
+| You Shall Not Pass | 53.00% | ~3,468 |
 | Avanti Savoia! | 47.00% | ~3,075 |
 | Mamma Mia! | 37.00% | ~2,421 |
 | Conrad von Hotzensocks | 36.00% | ~2,355 |
@@ -18,15 +18,15 @@ Number of Ratings: 98  (23.09.2022)
 | Veni Vidi Vici | 22.00% | ~1,439 |
 | Decimation | 21.00% | ~1,374 |
 | Donatello | 21.00% | ~1,374 |
-| Insubordination | 20.00% | ~1,308 |
-| The Italian Job | 20.00% | ~1,308 |
+| Insubordination | 20.00% | ~1,309 |
+| The Italian Job | 20.00% | ~1,309 |
 | The Lion of the Isonzo | 18.00% | ~1,178 |
 | Ragazzi del '99 | 17.00% | ~1,112 |
 | Dirty Dozen | 14.00% | ~916 |
 | Luigi Cadorna | 14.00% | ~916 |
 | Thus With A Kiss | 14.00% | ~916 |
 | Uomo Universale | 14.00% | ~916 |
-| Shaken, Not Stirred | 13.00% | ~850 |
+| Shaken, Not Stirred | 13.00% | ~851 |
 | Die Bosniaken Kommen! | 12.00% | ~785 |
 | Machiavelli | 12.00% | ~785 |
 | Dante's Inferno | 11.00% | ~720 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~26 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,542 (Ranked 133)  
+Progressed: 6,543 (Ranked 133)  
 Completed: 8 (0.12%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,10 +150,10 @@ Completed: 8 (0.12%) (Ranked 189)
 | 2023-07-29 | 6,499 | 8 |
 | 2023-07-30 | 6,519 | 8 |
 | 2023-07-31 | 6,529 | 8 |
-| 2023-08-01 | 6,542 | 8 |
+| 2023-08-01 | 6,543 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 436)  
-Sum: 261 (Ranked 349)  
+Sum: 262 (Ranked 349)  
 Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
@@ -161,9 +161,9 @@ Diff (max vs sum): 87
 | This game is Extremely Fun | 32 |
 | This game has Amazing Characters | 30 |
 | This game has Diverse Characters | 29 |
+| This game has Realistic Visuals | 29 |
 | This game has Quickly Understood Controls | 28 |
 | This game has Challenging Combat | 28 |
-| This game has Realistic Visuals | 28 |
 | This game is Educational | 27 |
 | This game has Competitive Players | 24 |
 | This game has a Kind Community | 20 |
@@ -265,3 +265,4 @@ Diff (max vs sum): 87
 | 2023-07-28 | 4.56 | - | 35 | 259 |
 | 2023-07-29 | 4.56 | - | 35 | 260 |
 | 2023-07-30 | 4.56 | - | 35 | 261 |
+| 2023-08-01 | 4.56 | - | 35 | 262 |

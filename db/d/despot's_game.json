@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 418,
+  "EOS_Progressed": 419,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -375,6 +375,11 @@
       "Time": "2023-07-31T09:01:08.1173006+00:00",
       "NumProgressed": 418,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-01T21:00:24.873225+00:00",
+      "NumProgressed": 419,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -402,7 +407,7 @@
       "Name": "Omae Wa Mou Shindeiru",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "collect-combos",
@@ -458,7 +463,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "finished-quest-cube",
@@ -466,7 +471,7 @@
       "Name": "Impossible Cube",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "finished-quest-flight",
@@ -498,7 +503,7 @@
       "Name": "Assemble a Meganewbie",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "finished-quest-rat",
@@ -506,15 +511,15 @@
       "Name": "The Return of a Rat",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "finished-quest-reaper",
       "SetID": "799afm0",
       "Name": "Catch Jonathan_tostar",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 109
     },
     {
       "ID": "finished-quest-sci",
@@ -610,7 +615,7 @@
       "Name": "Good start!",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "win-koth-fights1",
@@ -656,16 +661,16 @@
       "ID": "win-with-mrakus",
       "SetID": "799afm0",
       "Name": "Android Power",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 418,
+      "Progressed": 419,
       "Completed": 1
     }
   ],
@@ -673,8 +678,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-08-01T20:01:28.9846145+00:00",
+  "LastChanged_Achievements": "2023-08-01T21:00:24.8732246+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:34.0808187+00:00",
-  "LastUpdate_Ratings": "2023-08-01T19:59:32.2275571+00:00",
-  "LastUpdate_Achievements": "2023-08-01T20:01:28.9846877+00:00"
+  "LastUpdate_Ratings": "2023-08-01T20:58:49.5762205+00:00",
+  "LastUpdate_Achievements": "2023-08-01T21:00:24.8732593+00:00"
 }
