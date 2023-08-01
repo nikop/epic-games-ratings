@@ -14,26 +14,26 @@
 | 12 | [Island Cities](games/i/island_cities.md) | 18.66% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 18.07% |
 | 14 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 14.29% |
-| 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
-| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.51% |
+| 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.11% |
+| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.16% |
 | 17 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
 | 19 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 11.43% |
 | 20 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.97% |
+| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.95% |
 | 23 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 24 | [Remains](games/r/remains.md) | 10.64% |
 | 25 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
 | 26 | [Sonic Origins](games/s/sonic_origins.md) | 10.19% |
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 28 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.62% |
-| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.05% |
-| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
+| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.98% |
+| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
 | 31 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 32 | [Smelter](games/s/smelter.md) | 7.89% |
-| 33 | [Ravenlok](games/r/ravenlok.md) | 7.36% |
-| 34 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.17% |
+| 33 | [Ravenlok](games/r/ravenlok.md) | 7.35% |
+| 34 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.14% |
 | 35 | [Scorn](games/s/scorn.md) | 7.00% |
 | 36 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
@@ -83,7 +83,7 @@
 | 81 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.31% |
 | 82 | [FORECLOSED](games/f/foreclosed.md) | 2.27% |
 | 83 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
-| 84 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.06% |
+| 84 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 85 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.02% |
 | 86 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 87 | [Night Book](games/n/night_book.md) | 1.90% |
@@ -120,8 +120,8 @@
 | 118 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 119 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 119 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
-| 121 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.72% |
-| 122 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.69% |
+| 121 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.69% |
+| 121 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.69% |
 | 123 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 123 | [Haven](games/h/haven.md) | 0.66% |
 | 125 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.64% |
