@@ -11,8 +11,8 @@
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.25% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 12 | [Island Cities](games/i/island_cities.md) | 18.65% |
-| 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 17.72% |
+| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 18.99% |
+| 13 | [Island Cities](games/i/island_cities.md) | 18.88% |
 | 14 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 15.38% |
 | 15 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
@@ -25,15 +25,15 @@
 | 23 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 24 | [Remains](games/r/remains.md) | 10.64% |
 | 25 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
-| 26 | [Sonic Origins](games/s/sonic_origins.md) | 10.31% |
+| 26 | [Sonic Origins](games/s/sonic_origins.md) | 10.28% |
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
-| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.86% |
+| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.82% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.00% |
 | 32 | [Smelter](games/s/smelter.md) | 7.89% |
 | 33 | [Ravenlok](games/r/ravenlok.md) | 7.37% |
-| 34 | [Scorn](games/s/scorn.md) | 7.01% |
+| 34 | [Scorn](games/s/scorn.md) | 7.00% |
 | 35 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.94% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.91% |
@@ -56,21 +56,21 @@
 | 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.01% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.78% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.64% |
-| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.54% |
-| 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
+| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.52% |
+| 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.49% |
 | 60 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 61 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.35% |
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.33% |
 | 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.13% |
-| 64 | [Monster Harvest](games/m/monster_harvest.md) | 3.05% |
-| 65 | [The Complex](games/t/the_complex.md) | 3.04% |
+| 64 | [Monster Harvest](games/m/monster_harvest.md) | 3.04% |
+| 64 | [The Complex](games/t/the_complex.md) | 3.04% |
 | 66 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 67 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.90% |
 | 67 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.90% |
 | 69 | [HordeCore](games/h/hordecore.md) | 2.88% |
 | 70 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.86% |
-| 71 | [Destiny 2](games/d/destiny_2.md) | 2.77% |
+| 71 | [Destiny 2](games/d/destiny_2.md) | 2.76% |
 | 72 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 73 | [The Bunker](games/t/the_bunker.md) | 2.70% |
 | 74 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.63% |
@@ -84,17 +84,17 @@
 | 82 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
 | 83 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 84 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.02% |
-| 85 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.00% |
+| 85 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.98% |
 | 86 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 87 | [Night Book](games/n/night_book.md) | 1.90% |
-| 88 | [Frogun](games/f/frogun.md) | 1.86% |
+| 88 | [Frogun](games/f/frogun.md) | 1.85% |
 | 89 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 90 | [Sifu](games/s/sifu.md) | 1.80% |
 | 90 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.80% |
 | 92 | [Iron Danger](games/i/iron_danger.md) | 1.66% |
 | 93 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.62% |
-| 93 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.62% |
-| 95 | [Somerville](games/s/somerville.md) | 1.61% |
+| 94 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.61% |
+| 94 | [Somerville](games/s/somerville.md) | 1.61% |
 | 96 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.50% |
 | 96 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 98 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
@@ -164,9 +164,9 @@
 | 162 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.27% |
 | 162 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.27% |
 | 162 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
-| 165 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
-| 165 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
-| 165 | [Blanc](games/b/blanc.md) | 0.25% |
+| 165 | [Against the Storm](games/a/against_the_storm.md) | 0.26% |
+| 166 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
+| 166 | [Blanc](games/b/blanc.md) | 0.25% |
 | 168 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
 | 168 | [Filament](games/f/filament.md) | 0.24% |
 | 170 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.23% |
