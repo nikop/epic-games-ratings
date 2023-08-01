@@ -5,16 +5,16 @@ Rating: 4.25 (Ranked 819)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,545 |
+| Rigged And Ready | 80.00% | ~1,546 |
 | Don't I Know You...? | 76.00% | ~1,468 |
-| Jailbreak | 65.00% | ~1,255 |
+| Jailbreak | 65.00% | ~1,256 |
 | Suited and Booted | 38.00% | ~734 |
-| HEADSHOT! | 37.00% | ~714 |
+| HEADSHOT! | 37.00% | ~715 |
 | Sleeping With The Fishes | 35.00% | ~676 |
-| Overheated | 30.00% | ~579 |
-| High Performance | 30.00% | ~579 |
+| Overheated | 30.00% | ~580 |
+| High Performance | 30.00% | ~580 |
 | Powered Up | 28.00% | ~541 |
-| Studied The Blade | 24.00% | ~463 |
+| Studied The Blade | 24.00% | ~464 |
 | Home Invasion | 22.00% | ~425 |
 | Luminary | 22.00% | ~425 |
 | It's a Trap | 22.00% | ~425 |
@@ -34,13 +34,13 @@ Rating: 4.25 (Ranked 819)
 | What A Catchy Song | 13.00% | ~251 |
 | Marked For Success | 12.00% | ~232 |
 | Sorry, Didn't See You There | 12.00% | ~232 |
-| Corrupted Beauty | 11.00% | ~212 |
+| Corrupted Beauty | 11.00% | ~213 |
 | Triplets | 10.00% | ~193 |
 | Defense in Depth | 9.00% | ~174 |
 | Stimulating The Local Economy | 9.00% | ~174 |
-| A Little Banged Up | 8.00% | ~154 |
-| Denying Prophecy | 8.00% | ~154 |
-| Following In Their Footsteps | 8.00% | ~154 |
+| A Little Banged Up | 8.00% | ~155 |
+| Denying Prophecy | 8.00% | ~155 |
+| Following In Their Footsteps | 8.00% | ~155 |
 | Reverse Engineering | 7.00% | ~135 |
 | Remote Surgery | 6.00% | ~116 |
 | Turbo Booster | 6.00% | ~116 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 819)
 | Swiss Army Drone | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,931 (Ranked 168)  
+Progressed: 1,932 (Ranked 168)  
 Completed: 10 (0.52%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 10 (0.52%) (Ranked 135)
 | 2023-07-29 | 1,916 | 10 |
 | 2023-07-30 | 1,923 | 10 |
 | 2023-07-31 | 1,929 | 10 |
-| 2023-08-01 | 1,931 | 10 |
+| 2023-08-01 | 1,932 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

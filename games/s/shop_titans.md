@@ -10,6 +10,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Titan's First Steps | 0.50% | ~668 |
 | Basic in Bulk | 0.40% | ~535 |
 | Tinkle of Coins | 0.40% | ~535 |
+| Some Assembly Required | 0.30% | ~401 |
 | Disintermediation | 0.30% | ~401 |
 | Another Satisfied Customer | 0.30% | ~401 |
 | It's Free Real Estate | 0.30% | ~401 |
@@ -17,7 +18,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalism Ho! | 0.30% | ~401 |
 | The Daily Grind | 0.20% | ~267 |
 | One Easy Payment | 0.20% | ~267 |
-| Some Assembly Required | 0.20% | ~267 |
 | Bounty Hunters | 0.20% | ~267 |
 | Demand for Supplies | 0.20% | ~267 |
 | Flooding the Market | 0.20% | ~267 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,669 (Ranked 62)  
+Progressed: 133,672 (Ranked 62)  
 Completed: 125 (0.09%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,20 +222,20 @@ Completed: 125 (0.09%) (Ranked 198)
 | 2023-07-29 | 133,512 | 124 |
 | 2023-07-30 | 133,588 | 124 |
 | 2023-07-31 | 133,652 | 124 |
-| 2023-08-01 | 133,669 | 125 |
+| 2023-08-01 | 133,672 | 125 |
 ## Awards
 Max (Great for Beginners): 4,682  (Ranked 70)  
-Sum: 27,018 (Ranked 46)  
+Sum: 27,021 (Ranked 46)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,682 |
 | This game is Relaxing | 3,990 |
-| This game has Quickly Understood Controls | 3,979 |
+| This game has Quickly Understood Controls | 3,980 |
 | This game has Diverse Characters | 3,840 |
 | This game is Highly Recommended | 3,722 |
 | This game has Easy Combat | 3,663 |
-| This game has Playful Visuals | 3,142 |
+| This game has Playful Visuals | 3,144 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -429,4 +429,4 @@ Diff (max vs sum): 24
 | 2023-07-29 | 3.99 | - | 4,678 | 27,006 |
 | 2023-07-30 | 3.99 | - | 4,678 | 27,014 |
 | 2023-07-31 | 3.99 | - | 4,679 | 27,015 |
-| 2023-08-01 | 3.99 | - | 4,682 | 27,018 |
+| 2023-08-01 | 3.99 | - | 4,682 | 27,021 |

@@ -6,19 +6,19 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~366,679 |
+| First Step | 70.00% | ~366,680 |
 | Now You're Talking | 62.00% | ~324,773 |
 | Steel Yourself | 62.00% | ~324,773 |
 | Window Dressing | 50.00% | ~261,914 |
-| Trigger Happy | 46.00% | ~240,960 |
-| Riverborn | 45.00% | ~235,722 |
-| Starry Eyed | 34.00% | ~178,101 |
-| Poking Around | 34.00% | ~178,101 |
-| Talk of the Town | 24.00% | ~125,718 |
+| Trigger Happy | 46.00% | ~240,961 |
+| Riverborn | 45.00% | ~235,723 |
+| Starry Eyed | 34.00% | ~178,102 |
+| Poking Around | 34.00% | ~178,102 |
+| Talk of the Town | 24.00% | ~125,719 |
 | AAARR! | 23.00% | ~120,480 |
 | Hello Darkness | 23.00% | ~120,480 |
 | Wind At Our Backs | 22.00% | ~115,242 |
-| To the Beat | 20.00% | ~104,765 |
+| To the Beat | 20.00% | ~104,766 |
 | Sunny Shores | 17.00% | ~89,051 |
 | Sunday Best | 16.00% | ~83,812 |
 | To Victory! | 15.00% | ~78,574 |
@@ -28,8 +28,8 @@ Number of Ratings: 617  (23.09.2022)
 | Make Peace, Not War | 11.00% | ~57,621 |
 | Walking The Line | 10.00% | ~52,383 |
 | Not So Cute Anymore | 10.00% | ~52,383 |
-| Road Less Travelled | 9.00% | ~47,144 |
-| Lost and Found | 9.00% | ~47,144 |
+| Road Less Travelled | 9.00% | ~47,145 |
+| Lost and Found | 9.00% | ~47,145 |
 | Partner in Crime | 7.00% | ~36,668 |
 | Hard to Hear | 7.00% | ~36,668 |
 | Under the Radar | 7.00% | ~36,668 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,571 |
 | Point Taken | 0.10% | ~524 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523,827 (Ranked 30)  
+Progressed: 523,828 (Ranked 30)  
 Completed: 453 (0.09%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 453 (0.09%) (Ranked 198)
 | 2023-07-29 | 523,594 | 452 |
 | 2023-07-30 | 523,720 | 453 |
 | 2023-07-31 | 523,791 | 453 |
-| 2023-08-01 | 523,827 | 453 |
+| 2023-08-01 | 523,828 | 453 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -1,35 +1,35 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 214)  
+Rating: 4.69 (Ranked 213)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,905 |
-| That's a Grand Army | 8.00% | ~6,138 |
-| That is mine! | 8.00% | ~6,138 |
-| Victorious! | 8.00% | ~6,138 |
-| Brothers in Arms | 6.00% | ~4,603 |
-| That's a Grand Navy | 6.00% | ~4,603 |
-| Seriously?! | 6.00% | ~4,603 |
-| For the Glory | 5.00% | ~3,836 |
-| Cold War | 4.00% | ~3,069 |
-| True Catholic | 4.00% | ~3,069 |
+| Until death do us apart | 9.00% | ~6,907 |
+| That's a Grand Army | 8.00% | ~6,139 |
+| That is mine! | 8.00% | ~6,139 |
+| Victorious! | 8.00% | ~6,139 |
+| Brothers in Arms | 6.00% | ~4,605 |
+| That's a Grand Navy | 6.00% | ~4,605 |
+| Seriously?! | 6.00% | ~4,605 |
+| For the Glory | 5.00% | ~3,837 |
+| Cold War | 4.00% | ~3,070 |
+| True Catholic | 4.00% | ~3,070 |
 | Defender of the Faith | 3.00% | ~2,302 |
 | It's all about luck | 3.00% | ~2,302 |
 | It's all about the money | 3.00% | ~2,302 |
 | Respected | 3.00% | ~2,302 |
 | The Princess is in this Castle | 3.00% | ~2,302 |
 | Truly Divine Ruler | 3.00% | ~2,302 |
-| Agressive Expander | 2.00% | ~1,534 |
-| Blockader | 2.00% | ~1,534 |
-| Combined Arms | 2.00% | ~1,534 |
-| Double the Love | 2.00% | ~1,534 |
-| My armies are invincible! | 2.00% | ~1,534 |
-| Queen of Conquest | 2.00% | ~1,534 |
-| Royal Authority | 2.00% | ~1,534 |
-| Total Control | 2.00% | ~1,534 |
+| Agressive Expander | 2.00% | ~1,535 |
+| Blockader | 2.00% | ~1,535 |
+| Combined Arms | 2.00% | ~1,535 |
+| Double the Love | 2.00% | ~1,535 |
+| My armies are invincible! | 2.00% | ~1,535 |
+| Queen of Conquest | 2.00% | ~1,535 |
+| Royal Authority | 2.00% | ~1,535 |
+| Total Control | 2.00% | ~1,535 |
 | All That's Thine Shall Be Mine | 1.00% | ~767 |
 | Azur semé de lis or | 1.00% | ~767 |
 | Bright Spark | 1.00% | ~767 |
@@ -40,10 +40,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~767 |
 | The Five Colonies | 1.00% | ~767 |
 | This navy can take it all | 1.00% | ~767 |
-| Down Under | 0.90% | ~690 |
-| Isn't this the way to India? | 0.90% | ~690 |
-| Market Control | 0.90% | ~690 |
-| Trustworthy | 0.90% | ~690 |
+| Down Under | 0.90% | ~691 |
+| Isn't this the way to India? | 0.90% | ~691 |
+| Market Control | 0.90% | ~691 |
+| Trustworthy | 0.90% | ~691 |
 | Electable! | 0.70% | ~537 |
 | Populists in Government | 0.70% | ~537 |
 | All belongs to Mother Russia | 0.60% | ~460 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,720 (Ranked 76)  
+Progressed: 76,742 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -464,7 +464,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 75,748 | 0 |
 | 2023-07-30 | 76,185 | 0 |
 | 2023-07-31 | 76,579 | 0 |
-| 2023-08-01 | 76,720 | 0 |
+| 2023-08-01 | 76,742 | 0 |
 ## Awards
 Max (Educational): 5,599  (Ranked 61)  
 Sum: 46,208 (Ranked 26)  

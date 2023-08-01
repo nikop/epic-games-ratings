@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2709,
+  "EOS_Progressed": 2723,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2708,
+  "EOS_NewPlayers": 2722,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -377,6 +377,11 @@
       "Time": "2023-08-01T11:05:35.2386478+00:00",
       "NumProgressed": 2709,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T12:05:34.074698+00:00",
+      "NumProgressed": 2723,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -389,7 +394,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "10",
@@ -429,7 +434,7 @@
       "Name": "Doctor Approved",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 461
+      "UsersEstimate": 463
     },
     {
       "ID": "15",
@@ -477,7 +482,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "20",
@@ -563,9 +568,9 @@
       "ID": "3",
       "SetID": "458bbdk",
       "Name": "Captain Drummer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 408
     },
     {
       "ID": "30",
@@ -628,14 +633,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 2709,
+      "Progressed": 2723,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-01T11:05:35.238647+00:00",
+  "LastChanged_Achievements": "2023-08-01T12:05:34.0746973+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:00.9603289+00:00",
-  "LastUpdate_Ratings": "2023-08-01T11:00:05.8308634+00:00",
-  "LastUpdate_Achievements": "2023-08-01T11:05:35.2386832+00:00"
+  "LastUpdate_Ratings": "2023-08-01T11:59:24.1368352+00:00",
+  "LastUpdate_Achievements": "2023-08-01T12:05:34.0747232+00:00"
 }

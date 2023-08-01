@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1238,
+  "EOS_Progressed": 1239,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1960,6 +1960,11 @@
       "Time": "2023-08-01T04:04:06.9493683+00:00",
       "NumProgressed": 1238,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-01T12:04:16.4065852+00:00",
+      "NumProgressed": 1239,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1971,7 +1976,7 @@
       "Name": "Agent 47",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "Auditor",
@@ -1995,7 +2000,7 @@
       "Name": "The Big Bertha",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Boy",
@@ -2003,7 +2008,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "Commandos",
@@ -2083,7 +2088,7 @@
       "Name": "Grenadier",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "Hard_Serpent",
@@ -2123,7 +2128,7 @@
       "Name": "Spice It Up",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "KillAllM2",
@@ -2153,9 +2158,9 @@
       "ID": "Miner",
       "SetID": "85nb4h3",
       "Name": "Bomberman",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 285
     },
     {
       "ID": "MoskitoBite",
@@ -2163,7 +2168,7 @@
       "Name": "Mosquito bite",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "Scout",
@@ -2210,15 +2215,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1238,
+      "Progressed": 1239,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-01T11:03:50.7874102+00:00",
+  "LastChanged_Achievements": "2023-08-01T12:04:16.4065845+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:01.8247035+00:00",
-  "LastUpdate_Ratings": "2023-08-01T11:00:06.8760498+00:00",
-  "LastUpdate_Achievements": "2023-08-01T11:03:50.7874437+00:00"
+  "LastUpdate_Ratings": "2023-08-01T11:59:25.3149719+00:00",
+  "LastUpdate_Achievements": "2023-08-01T12:04:16.406636+00:00"
 }

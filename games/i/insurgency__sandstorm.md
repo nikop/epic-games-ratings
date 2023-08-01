@@ -6,23 +6,23 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~21,377 |
+| Wallbanger | 5.00% | ~21,378 |
 | Exploitative | 4.00% | ~17,102 |
 | Point Shooting | 4.00% | ~17,102 |
 | Wet Feet | 4.00% | ~17,102 |
-| High Speed Low Drag | 3.00% | ~12,826 |
-| Lucky | 3.00% | ~12,826 |
-| Stylin' | 3.00% | ~12,826 |
-| Turf War | 3.00% | ~12,826 |
+| High Speed Low Drag | 3.00% | ~12,827 |
+| Lucky | 3.00% | ~12,827 |
+| Stylin' | 3.00% | ~12,827 |
+| Turf War | 3.00% | ~12,827 |
 | Banged | 2.00% | ~8,551 |
 | Checkpoint Victory | 2.00% | ~8,551 |
 | First Blood | 2.00% | ~8,551 |
 | Flaccid Paralysis | 2.00% | ~8,551 |
 | Push Victory | 2.00% | ~8,551 |
 | Self-destructive | 2.00% | ~8,551 |
-| Blindfire | 1.00% | ~4,275 |
-| Ruthless | 1.00% | ~4,275 |
-| Semper Paratus | 1.00% | ~4,275 |
+| Blindfire | 1.00% | ~4,276 |
+| Ruthless | 1.00% | ~4,276 |
+| Semper Paratus | 1.00% | ~4,276 |
 | Carrying | 0.90% | ~3,848 |
 | Efficient | 0.90% | ~3,848 |
 | Mount & Gun | 0.90% | ~3,848 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~428 |
 | Road Hazard | 0.10% | ~428 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427,539 (Ranked 38)  
+Progressed: 427,562 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,14 +145,14 @@ Completed: 2 (0.00%) (Ranked 247)
 | 2023-07-29 | 425,652 | 2 |
 | 2023-07-30 | 426,564 | 2 |
 | 2023-07-31 | 427,322 | 2 |
-| 2023-08-01 | 427,539 | 2 |
+| 2023-08-01 | 427,562 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 367  (Ranked 220)  
-Sum: 2,860 (Ranked 168)  
+Max (Quickly Understood Controls): 368  (Ranked 220)  
+Sum: 2,861 (Ranked 168)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 367 |
+| This game has Quickly Understood Controls | 368 |
 | This game has Challenging Combat | 347 |
 | This game is Extremely Fun | 338 |
 | This game has Competitive Players | 334 |
@@ -359,4 +359,4 @@ Diff (max vs sum): 52
 | 2023-07-29 | 4.62 | - | 367 | 2,847 |
 | 2023-07-30 | 4.62 | - | 367 | 2,850 |
 | 2023-07-31 | 4.62 | - | 367 | 2,857 |
-| 2023-08-01 | 4.62 | - | 367 | 2,860 |
+| 2023-08-01 | 4.62 | - | 368 | 2,861 |

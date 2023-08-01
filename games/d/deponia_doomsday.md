@@ -18,15 +18,15 @@ Rating: 4.56 (Ranked 465)
 | Scaffolding Expert | 37.00% | ~137 |
 | Elysian Minigame-Master | 37.00% | ~137 |
 | Sole Music | 36.00% | ~133 |
+| No man left behind! | 30.00% | ~111 |
 | Portals come in packs | 30.00% | ~111 |
-| No man left behind! | 29.00% | ~107 |
 | Photo Friend | 26.00% | ~96 |
 | Brainfreeze | 22.00% | ~81 |
 | And everything comes full circle. | 20.00% | ~74 |
 | Masseltov | 19.00% | ~70 |
 | Quickdraw | 15.00% | ~56 |
 | Thuna...? | 15.00% | ~56 |
-| Monstrous Harassment | 14.00% | ~52 |
+| Monstrous Harassment | 15.00% | ~56 |
 | Heading the inverter | 14.00% | ~52 |
 | Blast from the Past | 14.00% | ~52 |
 | Play it again, Ronny | 11.00% | ~41 |

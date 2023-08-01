@@ -5300,10 +5300,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27018,
       "NumberOfAwardsMax": 4682
+    },
+    {
+      "Time": "2023-08-01T11:58:49.1870671+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27021,
+      "NumberOfAwardsMax": 4682
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27018,
+  "NumberOfAwards": 27021,
   "NumberOfAwardsMax": 4682,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5335,7 +5341,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3979
+      "Count": 3980
     },
     {
       "Text": "This game is Relaxing",
@@ -5347,7 +5353,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3142
+      "Count": 3144
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5356,7 +5362,7 @@
       "Count": 3722
     }
   ],
-  "EOS_Progressed": 133669,
+  "EOS_Progressed": 133672,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 3,
@@ -15801,6 +15807,11 @@
       "Time": "2023-08-01T11:03:43.1840747+00:00",
       "NumProgressed": 133669,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-08-01T12:04:10.3348095+00:00",
+      "NumProgressed": 133672,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 112,
@@ -15914,9 +15925,9 @@
       "ID": "blueprint01",
       "SetID": "anfd17p",
       "Name": "Some Assembly Required",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 401
     },
     {
       "ID": "blueprint02",
@@ -16707,15 +16718,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133669,
+      "Progressed": 133672,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-01T09:58:56.4745316+00:00",
-  "LastChanged_Achievements": "2023-08-01T11:03:43.1840736+00:00",
+  "LastChanged": "2023-08-01T11:58:49.1870669+00:00",
+  "LastChanged_Achievements": "2023-08-01T12:04:10.3348088+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.2465054+00:00",
-  "LastUpdate_Ratings": "2023-08-01T10:59:20.6294167+00:00",
-  "LastUpdate_Achievements": "2023-08-01T11:03:43.1843465+00:00"
+  "LastUpdate_Ratings": "2023-08-01T11:58:49.1870677+00:00",
+  "LastUpdate_Achievements": "2023-08-01T12:04:10.3350576+00:00"
 }

@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 94.00% | ~81 |
-| Rehearsal | 93.00% | ~80 |
-| Daily Life | 90.00% | ~77 |
-| Assembly Line Work | 86.00% | ~74 |
-| Solitude | 80.00% | ~69 |
-| Pinewood, Here we come! | 73.00% | ~63 |
+| ECG | 94.00% | ~82 |
+| Rehearsal | 93.00% | ~81 |
+| Daily Life | 90.00% | ~78 |
+| Assembly Line Work | 86.00% | ~75 |
+| Solitude | 79.00% | ~69 |
+| Pinewood, Here we come! | 72.00% | ~63 |
 | The Van | 67.00% | ~58 |
-| Road-Trip | 62.00% | ~53 |
+| Road-Trip | 61.00% | ~53 |
 | A Musical Pause | 60.00% | ~52 |
 | Briget's | 51.00% | ~44 |
-| Sound of Noise | 47.00% | ~40 |
+| Sound of Noise | 47.00% | ~41 |
 | Big City Music | 43.00% | ~37 |
-| Love at First Sight | 42.00% | ~36 |
-| First Kiss | 35.00% | ~30 |
+| Love at First Sight | 41.00% | ~36 |
+| First Kiss | 34.00% | ~30 |
 | A Bigger Band | 31.00% | ~27 |
 | Symbiosis | 31.00% | ~27 |
-| Fuel | 27.00% | ~23 |
-| Alone Together | 26.00% | ~22 |
+| Fuel | 26.00% | ~23 |
+| Alone Together | 25.00% | ~22 |
 | Threatening Nature | 23.00% | ~20 |
 | TV Dreams | 22.00% | ~19 |
 | Flat Tire | 21.00% | ~18 |
 | The Clash | 17.00% | ~15 |
 | Dreamers | 17.00% | ~15 |
 | The Fix | 15.00% | ~13 |
-| Time | 12.00% | ~10 |
-| Regrets | 12.00% | ~10 |
-| The Mountains, The Valleys | 12.00% | ~10 |
+| Time | 11.00% | ~10 |
+| Regrets | 11.00% | ~10 |
+| The Mountains, The Valleys | 11.00% | ~10 |
 | The Accident | 10.00% | ~9 |
 | Bad Trip | 9.00% | ~8 |
 | Love | 9.00% | ~8 |
@@ -59,8 +59,8 @@
 | Pinewood | 1.00% | ~1 |
 | Love is All | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86 (Ranked 328)  
-Completed: 1 (1.16%) (Ranked 104)  
+Progressed: 87 (Ranked 325)  
+Completed: 1 (1.15%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,6 +88,7 @@ Completed: 1 (1.16%) (Ranked 104)
 | 2023-07-26 | 82 | 1 |
 | 2023-07-28 | 84 | 1 |
 | 2023-07-30 | 86 | 1 |
+| 2023-08-01 | 87 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3907,9 +3907,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 700092,
+  "EOS_Progressed": 700093,
   "EOS_Completed": 6267,
-  "EOS_NewPlayers": 683,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -14832,6 +14832,11 @@
       "Time": "2023-08-01T11:03:42.8091872+00:00",
       "NumProgressed": 700092,
       "NumCompleted": 6267
+    },
+    {
+      "Time": "2023-08-01T12:04:10.0771617+00:00",
+      "NumProgressed": 700093,
+      "NumCompleted": 6267
     }
   ],
   "TotalAchievements": 49,
@@ -14891,7 +14896,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 224029
+      "UsersEstimate": 224030
     },
     {
       "ID": "AchClearAnyRun",
@@ -14939,7 +14944,7 @@
       "Name": "Weapon of Fate",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 147019
+      "UsersEstimate": 147020
     },
     {
       "ID": "AchClearTartarus",
@@ -14947,7 +14952,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 623082
+      "UsersEstimate": 623083
     },
     {
       "ID": "AchCrushedThanatos",
@@ -14955,7 +14960,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 315041
+      "UsersEstimate": 315042
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -14995,7 +15000,7 @@
       "Name": "Something From Everyone",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 133017
+      "UsersEstimate": 133018
     },
     {
       "ID": "AchFoundSummon",
@@ -15059,7 +15064,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 245032
+      "UsersEstimate": 245033
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -15067,7 +15072,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 441058
+      "UsersEstimate": 441059
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -15123,7 +15128,7 @@
       "Name": "Harsh Conditions",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 49006
+      "UsersEstimate": 49007
     },
     {
       "ID": "AchPickedManyBoons",
@@ -15163,7 +15168,7 @@
       "Name": "One for the Ages",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 49006
+      "UsersEstimate": 49007
     },
     {
       "ID": "AchSilverSkellyTrophy",
@@ -15203,7 +15208,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 497065
+      "UsersEstimate": 497066
     },
     {
       "ID": "AchWeaponClears",
@@ -15234,15 +15239,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 700092,
+      "Progressed": 700093,
       "Completed": 6267
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-07-31T14:58:55.0191451+00:00",
-  "LastChanged_Achievements": "2023-08-01T11:03:42.8091864+00:00",
+  "LastChanged_Achievements": "2023-08-01T12:04:10.077161+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:42.26293+00:00",
-  "LastUpdate_Ratings": "2023-08-01T10:58:39.6482004+00:00",
-  "LastUpdate_Achievements": "2023-08-01T11:03:42.809375+00:00"
+  "LastUpdate_Ratings": "2023-08-01T11:58:18.8145581+00:00",
+  "LastUpdate_Achievements": "2023-08-01T12:04:10.0772904+00:00"
 }

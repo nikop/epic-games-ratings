@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -745,9 +745,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 33564,
+  "EOS_Progressed": 33566,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1006,
+  "EOS_NewPlayers": 1001,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11905,6 +11905,11 @@
       "Time": "2023-08-01T11:03:49.1262828+00:00",
       "NumProgressed": 33564,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-01T12:04:15.1161325+00:00",
+      "NumProgressed": 33566,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -11940,7 +11945,7 @@
       "Name": "Scout",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3356
+      "UsersEstimate": 3357
     },
     {
       "ID": "distance500000",
@@ -12044,7 +12049,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5370
+      "UsersEstimate": 5371
     },
     {
       "ID": "playerFelipe",
@@ -12068,7 +12073,7 @@
       "Name": "Unlock Maya",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2349
+      "UsersEstimate": 2350
     },
     {
       "ID": "playerPaz",
@@ -12227,15 +12232,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 33564,
+      "Progressed": 33566,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-28T06:00:25.7046366+00:00",
-  "LastChanged_Achievements": "2023-08-01T11:03:49.1262821+00:00",
+  "LastChanged_Achievements": "2023-08-01T12:04:15.1161318+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:58.7881773+00:00",
-  "LastUpdate_Ratings": "2023-08-01T11:00:15.4275617+00:00",
-  "LastUpdate_Achievements": "2023-08-01T11:03:49.1264552+00:00"
+  "LastUpdate_Ratings": "2023-08-01T11:59:32.0209055+00:00",
+  "LastUpdate_Achievements": "2023-08-01T12:04:15.1162503+00:00"
 }

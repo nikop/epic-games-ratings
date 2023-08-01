@@ -25,9 +25,9 @@ Number of Ratings: 371  (23.09.2022)
 | Gunmaster | 0.40% | ~12 |
 | Just a Scratch | 0.40% | ~12 |
 | Hive Exterminator | 0.40% | ~12 |
+| Corruption Cleanser | 0.30% | ~9 |
 | Long Distance Call | 0.30% | ~9 |
 | Daemonkeeper | 0.20% | ~6 |
-| Corruption Cleanser | 0.20% | ~6 |
 | Exterminator | 0.20% | ~6 |
 | Mind Like a Fortress | 0.20% | ~6 |
 | Efficient Killer | 0.20% | ~6 |

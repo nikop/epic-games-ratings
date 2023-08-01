@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -179,9 +179,9 @@
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Kamzik",
@@ -211,9 +211,9 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 68,
+      "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Kvitky",
@@ -378,8 +378,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-08-01T11:01:48.4747713+00:00",
+  "LastChanged_Achievements": "2023-08-01T12:03:10.2007219+00:00",
   "LastUpdate_AppInfo": "2023-07-28T14:57:04.029049+00:00",
-  "LastUpdate_Ratings": "2023-08-01T10:57:18.8823979+00:00",
-  "LastUpdate_Achievements": "2023-08-01T11:01:48.4748435+00:00"
+  "LastUpdate_Ratings": "2023-08-01T11:57:15.3232516+00:00",
+  "LastUpdate_Achievements": "2023-08-01T12:03:10.2007513+00:00"
 }

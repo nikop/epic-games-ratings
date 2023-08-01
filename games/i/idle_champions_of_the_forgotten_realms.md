@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,704 |
-| Beast Intentions | 3.00% | ~6,528 |
+| A Brief Tour of the Realms | 4.00% | ~8,705 |
+| Beast Intentions | 3.00% | ~6,529 |
 | Maddening | 2.00% | ~4,352 |
 | The Silken Swamp | 1.00% | ~2,176 |
 | Supply Run | 1.00% | ~2,176 |
@@ -70,7 +70,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.40% | ~870 |
 | Running of the Saurs | 0.40% | ~870 |
 | Waterdeep Detours | 0.40% | ~870 |
+| Underdeep Cartography | 0.40% | ~870 |
 | Friendly Imps | 0.40% | ~870 |
+| Pure Energy | 0.40% | ~870 |
 | Luigi After Hours | 0.40% | ~736 |
 | Electric Mayhem | 0.40% | ~736 |
 | 3,720 to 1 | 0.40% | ~736 |
@@ -119,9 +121,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.30% | ~653 |
 | Easily Distracted | 0.30% | ~653 |
 | Rude Welcome | 0.30% | ~653 |
-| Underdeep Cartography | 0.30% | ~653 |
 | Overdue Rendezvous | 0.30% | ~653 |
-| Pure Energy | 0.30% | ~653 |
 | The Templar's Camp | 0.30% | ~653 |
 | Rescue in the Jungle | 0.30% | ~653 |
 | Willing to Sacrifice | 0.30% | ~552 |
@@ -171,6 +171,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thine Bounty is Mine! | 0.20% | ~368 |
 | Domesticated Owlbears | 0.20% | ~435 |
 | This Quest Stinks! | 0.20% | ~368 |
+| Hold for the Red Wizards | 0.20% | ~435 |
 | Seeds of Deceit | 0.20% | ~435 |
 | The Gargoyle's Apprentice | 0.20% | ~435 |
 | Treasure Hunters | 0.20% | ~435 |
@@ -293,7 +294,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.10% | ~218 |
 | Poor Fortune | 0.10% | ~218 |
 | Relentless Misfortune | 0.10% | ~218 |
-| Hold for the Red Wizards | 0.10% | ~218 |
 | Form Ranks | 0.10% | ~218 |
 | Drop of Time | 0.10% | ~184 |
 | They Who Smelt It | 0.10% | ~218 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,612 (Ranked 53)  
+Progressed: 217,624 (Ranked 53)  
 Completed: 2,141 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,7 +622,7 @@ Completed: 2,141 (0.98%) (Ranked 112)
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
-| 2023-08-01 | 217,612 | 2,141 |
+| 2023-08-01 | 217,624 | 2,141 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
 Sum: 30,840 (Ranked 38)  

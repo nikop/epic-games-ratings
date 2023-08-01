@@ -5,35 +5,35 @@ Rating: 4.48 (Ranked 590)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 74.00% | ~1,284 |
+| Country Bumpkin | 74.00% | ~1,285 |
 | A new Journey | 73.00% | ~1,267 |
-| From X to Y | 72.00% | ~1,249 |
-| Departure | 72.00% | ~1,249 |
-| Way of Iron | 70.00% | ~1,214 |
+| From X to Y | 72.00% | ~1,250 |
+| Departure | 72.00% | ~1,250 |
+| Way of Iron | 70.00% | ~1,215 |
 | Mystery Tour | 68.00% | ~1,180 |
-| We brake for nobody | 67.00% | ~1,162 |
+| We brake for nobody | 67.00% | ~1,163 |
 | Brainstorm | 65.00% | ~1,128 |
 | Travel Company | 65.00% | ~1,128 |
-| Mind the Gap | 64.00% | ~1,110 |
+| Mind the Gap | 64.00% | ~1,111 |
 | All around the World | 62.00% | ~1,076 |
-| Right through the middle | 57.00% | ~989 |
+| Right through the middle | 57.00% | ~990 |
 | Facility Manager | 53.00% | ~920 |
 | Poor Devil | 53.00% | ~920 |
-| Producer | 49.00% | ~850 |
+| Producer | 49.00% | ~851 |
 | Apprentice | 42.00% | ~729 |
-| Bridge Builder | 41.00% | ~711 |
+| Bridge Builder | 41.00% | ~712 |
 | Access granted | 34.00% | ~590 |
 | Going once, going twice, sold | 34.00% | ~590 |
-| Bull and bear | 33.00% | ~573 |
-| Stoker | 32.00% | ~555 |
+| Stoker | 32.00% | ~556 |
+| Bull and bear | 32.00% | ~556 |
 | Full Steam ahead | 31.00% | ~538 |
-| Financial Shark | 30.00% | ~520 |
+| Financial Shark | 30.00% | ~521 |
 | All mine | 29.00% | ~503 |
 | Socializer | 29.00% | ~503 |
 | Mole | 28.00% | ~486 |
 | Country Life | 26.00% | ~451 |
 | General Manager | 25.00% | ~434 |
-| Hostile Takeover | 24.00% | ~416 |
+| Hostile Takeover | 24.00% | ~417 |
 | Seven at one stroke | 23.00% | ~399 |
 | Trailblazer | 20.00% | ~347 |
 | Breaking Ground | 20.00% | ~347 |
@@ -49,8 +49,8 @@ Rating: 4.48 (Ranked 590)
 | Bold and beautiful | 12.00% | ~208 |
 | A new Hope | 10.00% | ~174 |
 | Tycoon | 10.00% | ~174 |
-| Unstoppable | 7.00% | ~121 |
-| Track to the Future | 7.00% | ~121 |
+| Unstoppable | 7.00% | ~122 |
+| Track to the Future | 7.00% | ~122 |
 | Conductor | 5.00% | ~87 |
 | Call of Duty | 5.00% | ~87 |
 | Let off some steam | 4.00% | ~69 |
@@ -61,7 +61,7 @@ Rating: 4.48 (Ranked 590)
 | United States | 0.50% | ~9 |
 | Three Cheers for Progress | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,735 (Ranked 173)  
+Progressed: 1,736 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 1,711 | 0 |
 | 2023-07-30 | 1,717 | 0 |
 | 2023-07-31 | 1,731 | 0 |
-| 2023-08-01 | 1,735 | 0 |
+| 2023-08-01 | 1,736 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

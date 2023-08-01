@@ -2,12 +2,12 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 107,
+  "Ranking_Rating": 108,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5742,9 +5742,9 @@
       "Count": 570
     }
   ],
-  "EOS_Progressed": 289109,
+  "EOS_Progressed": 289113,
   "EOS_Completed": 437,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16822,6 +16822,11 @@
       "Time": "2023-08-01T11:05:07.5338269+00:00",
       "NumProgressed": 289109,
       "NumCompleted": 437
+    },
+    {
+      "Time": "2023-08-01T12:05:11.1748003+00:00",
+      "NumProgressed": 289113,
+      "NumCompleted": 437
     }
   ],
   "TotalAchievements": 45,
@@ -16833,7 +16838,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34693
+      "UsersEstimate": 34694
     },
     {
       "ID": "PFA_10",
@@ -16873,7 +16878,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14455
+      "UsersEstimate": 14456
     },
     {
       "ID": "PFA_15",
@@ -16921,7 +16926,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11564
+      "UsersEstimate": 11565
     },
     {
       "ID": "PFA_20",
@@ -16969,7 +16974,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14455
+      "UsersEstimate": 14456
     },
     {
       "ID": "PFA_26",
@@ -17001,7 +17006,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14455
+      "UsersEstimate": 14456
     },
     {
       "ID": "PFA_3",
@@ -17097,7 +17102,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11564
+      "UsersEstimate": 11565
     },
     {
       "ID": "PFA_40",
@@ -17113,7 +17118,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11564
+      "UsersEstimate": 11565
     },
     {
       "ID": "PFA_42",
@@ -17121,7 +17126,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14455
+      "UsersEstimate": 14456
     },
     {
       "ID": "PFA_43",
@@ -17192,7 +17197,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289109,
+      "Progressed": 289113,
       "Completed": 437
     }
   ],
@@ -17200,8 +17205,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-01T06:58:09.492047+00:00",
-  "LastChanged_Achievements": "2023-08-01T11:05:07.533826+00:00",
+  "LastChanged_Achievements": "2023-08-01T12:05:11.1747996+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-08-01T10:58:10.885203+00:00",
-  "LastUpdate_Achievements": "2023-08-01T11:05:07.5340134+00:00"
+  "LastUpdate_Ratings": "2023-08-01T11:57:55.7629027+00:00",
+  "LastUpdate_Achievements": "2023-08-01T12:05:11.174922+00:00"
 }

@@ -646,9 +646,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11672,
+  "EOS_Progressed": 11674,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8056,6 +8056,11 @@
       "Time": "2023-08-01T10:07:01.242634+00:00",
       "NumProgressed": 11672,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-01T12:06:49.9055125+00:00",
+      "NumProgressed": 11674,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 35,
@@ -8067,7 +8072,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9454
+      "UsersEstimate": 9456
     },
     {
       "ID": "ACH02",
@@ -8123,7 +8128,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5836
+      "UsersEstimate": 5837
     },
     {
       "ID": "ACH09",
@@ -8147,7 +8152,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "ACH12",
@@ -8346,7 +8351,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11672,
+      "Progressed": 11674,
       "Completed": 32
     }
   ],
@@ -8354,8 +8359,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-01T05:01:22.5591656+00:00",
-  "LastChanged_Achievements": "2023-08-01T11:07:09.1603731+00:00",
+  "LastChanged_Achievements": "2023-08-01T12:06:49.9055118+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.4328142+00:00",
-  "LastUpdate_Ratings": "2023-08-01T11:01:19.9429664+00:00",
-  "LastUpdate_Achievements": "2023-08-01T11:07:09.1604988+00:00"
+  "LastUpdate_Ratings": "2023-08-01T12:00:26.1324647+00:00",
+  "LastUpdate_Achievements": "2023-08-01T12:06:49.9056225+00:00"
 }

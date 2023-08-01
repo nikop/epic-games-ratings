@@ -1,11 +1,11 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.77 (Ranked 107)  
+Rating: 4.77 (Ranked 108)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,693 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,694 |
 | First Class Student | 11.00% | ~31,802 |
 | Troll with the Punches | 11.00% | ~31,802 |
 | A Keen Sense of Spell | 10.00% | ~28,911 |
@@ -26,13 +26,13 @@ Rating: 4.77 (Ranked 107)
 | Flight the Good Flight | 7.00% | ~20,238 |
 | The Spell Master | 7.00% | ~20,238 |
 | Beast Friends | 6.00% | ~17,347 |
-| The Seeker of Knowledge | 5.00% | ~14,455 |
-| The Root of the Problem | 5.00% | ~14,455 |
-| Third Time's a Charm | 5.00% | ~14,455 |
-| Raising Expectations | 5.00% | ~14,455 |
-| The Toast of the Town | 4.00% | ~11,564 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,564 |
-| The Ends Petrify the Means | 4.00% | ~11,564 |
+| The Seeker of Knowledge | 5.00% | ~14,456 |
+| The Root of the Problem | 5.00% | ~14,456 |
+| Third Time's a Charm | 5.00% | ~14,456 |
+| Raising Expectations | 5.00% | ~14,456 |
+| The Toast of the Town | 4.00% | ~11,565 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,565 |
+| The Ends Petrify the Means | 4.00% | ~11,565 |
 | Going Through the Potions | 3.00% | ~8,673 |
 | Room with a View | 3.00% | ~8,673 |
 | Floo Around the World | 3.00% | ~8,673 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.60% | ~1,735 |
 | Collector's Edition | 0.30% | ~867 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,109 (Ranked 42)  
+Progressed: 289,113 (Ranked 42)  
 Completed: 437 (0.15%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 437 (0.15%) (Ranked 183)
 | 2023-07-29 | 288,881 | 436 |
 | 2023-07-30 | 288,994 | 437 |
 | 2023-07-31 | 289,064 | 437 |
-| 2023-08-01 | 289,109 | 437 |
+| 2023-08-01 | 289,113 | 437 |
 ## Awards
 Max (Character Customization): 21,442  (Ranked 17)  
 Sum: 40,280 (Ranked 30)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -243,9 +243,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1931,
+  "EOS_Progressed": 1932,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -1978,6 +1978,11 @@
       "Time": "2023-08-01T06:03:33.52904+00:00",
       "NumProgressed": 1931,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-01T12:04:02.6521909+00:00",
+      "NumProgressed": 1932,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1989,7 +1994,7 @@
       "Name": "A Little Banged Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHV_02",
@@ -1997,7 +2002,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "ACHV_03",
@@ -2013,7 +2018,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ACHV_05",
@@ -2021,7 +2026,7 @@
       "Name": "Studied The Blade",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACHV_06",
@@ -2061,7 +2066,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACHV_11",
@@ -2069,7 +2074,7 @@
       "Name": "Denying Prophecy",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHV_12",
@@ -2117,7 +2122,7 @@
       "Name": "Following In Their Footsteps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHV_18",
@@ -2165,7 +2170,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "ACHV_24",
@@ -2189,7 +2194,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "ACHV_27",
@@ -2197,7 +2202,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ACHV_28",
@@ -2444,7 +2449,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1931,
+      "Progressed": 1932,
       "Completed": 10
     }
   ],
@@ -2452,8 +2457,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-08-01T11:03:33.3479389+00:00",
+  "LastChanged_Achievements": "2023-08-01T12:04:02.6521903+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:20.3642762+00:00",
-  "LastUpdate_Ratings": "2023-08-01T10:57:13.8248813+00:00",
-  "LastUpdate_Achievements": "2023-08-01T11:03:33.3480464+00:00"
+  "LastUpdate_Ratings": "2023-08-01T11:57:11.5731988+00:00",
+  "LastUpdate_Achievements": "2023-08-01T12:04:02.6523003+00:00"
 }

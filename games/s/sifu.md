@@ -8,19 +8,19 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~1,064 |
 | Project Arena | 4.00% | ~851 |
-| The Old Grandmaster | 2.00% | ~14,239 |
-| The Assault | 2.00% | ~14,239 |
-| The Hateful Pole Fighter | 2.00% | ~14,239 |
-| A Lady's Blood in the Snow | 2.00% | ~14,239 |
-| Street Fighting | 2.00% | ~14,239 |
-| Life is your teacher | 2.00% | ~14,239 |
-| State of constant learning | 2.00% | ~14,239 |
-| Qi Gong: Breath | 2.00% | ~14,239 |
-| Qi Gong: Essence | 2.00% | ~14,239 |
-| Lightning Hands | 2.00% | ~14,239 |
-| Path of the Prospect | 2.00% | ~14,239 |
-| Rumble in the Hangar | 2.00% | ~14,239 |
-| Bloody Sport | 2.00% | ~425 |
+| The Old Grandmaster | 2.00% | ~14,240 |
+| The Assault | 2.00% | ~14,240 |
+| The Hateful Pole Fighter | 2.00% | ~14,240 |
+| A Lady's Blood in the Snow | 2.00% | ~14,240 |
+| Street Fighting | 2.00% | ~14,240 |
+| Life is your teacher | 2.00% | ~14,240 |
+| State of constant learning | 2.00% | ~14,240 |
+| Qi Gong: Breath | 2.00% | ~14,240 |
+| Qi Gong: Essence | 2.00% | ~14,240 |
+| Lightning Hands | 2.00% | ~14,240 |
+| Path of the Prospect | 2.00% | ~14,240 |
+| Rumble in the Hangar | 2.00% | ~14,240 |
+| Bloody Sport | 2.00% | ~426 |
 | Lady Wing Chun | 1.00% | ~7,120 |
 | Furious Fists | 1.00% | ~7,120 |
 | Scareless | 1.00% | ~7,120 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,424 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,973 (Ranked 20)  
+Progressed: 711,978 (Ranked 20)  
 Completed: 12,838 (1.80%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 12,838 (1.80%) (Ranked 90)
 | 2023-07-29 | 711,819 | 12,835 |
 | 2023-07-30 | 711,892 | 12,836 |
 | 2023-07-31 | 711,949 | 12,837 |
-| 2023-08-01 | 711,973 | 12,838 |
+| 2023-08-01 | 711,978 | 12,838 |
 ## Awards
 Max (Great Boss Battles): 6,327  (Ranked 53)  
 Sum: 10,858 (Ranked 80)  

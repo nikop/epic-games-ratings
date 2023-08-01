@@ -6,22 +6,22 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 36.00% | ~21,514 |
-| Let There Be Light | 29.00% | ~17,330 |
-| Float Like a Butterfly | 28.00% | ~16,733 |
-| Nordic Walking | 22.00% | ~13,147 |
-| Bright Falls' Finest | 22.00% | ~13,147 |
-| Under a Thin Layer of Skin | 19.00% | ~11,354 |
+| Follow the Light | 36.00% | ~21,515 |
+| Let There Be Light | 29.00% | ~17,331 |
+| Float Like a Butterfly | 28.00% | ~16,734 |
+| Nordic Walking | 22.00% | ~13,148 |
+| Bright Falls' Finest | 22.00% | ~13,148 |
+| Under a Thin Layer of Skin | 19.00% | ~11,355 |
 | Park Ranger | 16.00% | ~9,562 |
 | Paging Mr. Wake | 16.00% | ~9,562 |
 | Back! Back, I Say! | 15.00% | ~8,964 |
 | Finders Keepers | 15.00% | ~8,964 |
-| Damn Good Cup of Coffee | 14.00% | ~8,366 |
 | They're Heeeeeere! | 13.00% | ~7,769 |
 | Sound and Fury | 13.00% | ~7,769 |
 | Missed by a Mile | 13.00% | ~7,769 |
-| Wheels Within Wheels | 12.00% | ~7,171 |
-| The Six-Gun Scribe | 12.00% | ~7,171 |
+| Damn Good Cup of Coffee | 13.00% | ~7,769 |
+| Wheels Within Wheels | 12.00% | ~7,172 |
+| The Six-Gun Scribe | 12.00% | ~7,172 |
 | Heavy Metal | 11.00% | ~6,574 |
 | Iron Horse | 11.00% | ~6,574 |
 | Perchance to Dream | 11.00% | ~6,574 |
@@ -31,8 +31,8 @@ Number of Ratings: 524  (23.09.2022)
 | It's Not Just a Typewriter Brand | 10.00% | ~5,976 |
 | Thunder and Lightning | 10.00% | ~5,976 |
 | Two For the Price of One | 10.00% | ~5,976 |
-| The Lady of the Light | 9.00% | ~5,378 |
-| Energized! | 9.00% | ~5,378 |
+| The Lady of the Light | 9.00% | ~5,379 |
+| Energized! | 9.00% | ~5,379 |
 | What Light Through Yonder Window | 8.00% | ~4,781 |
 | Right of Way | 8.00% | ~4,781 |
 | A Friend in Need | 8.00% | ~1,858 |
@@ -41,11 +41,11 @@ Number of Ratings: 524  (23.09.2022)
 | A Friend Indeed | 6.00% | ~1,394 |
 | Drink 'Em Both Up | 5.00% | ~2,988 |
 | Hardboiled Writer | 5.00% | ~2,988 |
-| Ding! | 5.00% | ~1,161 |
-| Boob Tube | 4.00% | ~2,390 |
-| Children of the Elder God | 4.00% | ~2,390 |
-| If It Flies, It Burns | 4.00% | ~2,390 |
-| KBF-FM | 4.00% | ~2,390 |
+| Ding! | 5.00% | ~1,162 |
+| Boob Tube | 4.00% | ~2,391 |
+| Children of the Elder God | 4.00% | ~2,391 |
+| If It Flies, It Burns | 4.00% | ~2,391 |
+| KBF-FM | 4.00% | ~2,391 |
 | Carny | 3.00% | ~1,793 |
 | Kill Your Darlings | 3.00% | ~697 |
 | Heartbreaker | 3.00% | ~697 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~60 |
 | No Punctuation | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,760 (Ranked 84)  
+Progressed: 59,763 (Ranked 84)  
 Completed: 61 (0.10%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 61 (0.10%) (Ranked 195)
 | 2023-07-29 | 59,388 | 59 |
 | 2023-07-30 | 59,565 | 60 |
 | 2023-07-31 | 59,709 | 60 |
-| 2023-08-01 | 59,760 | 61 |
+| 2023-08-01 | 59,763 | 61 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

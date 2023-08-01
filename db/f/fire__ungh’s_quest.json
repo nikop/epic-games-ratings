@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 43,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -573,9 +573,9 @@
       "ID": "Level_completed_005_003",
       "SetID": "6od1ndi",
       "Name": "Onk Boga V",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "Level_completed_006_004",
@@ -637,9 +637,9 @@
       "ID": "Toad_exploded_in_003",
       "SetID": "6od1ndi",
       "Name": "BumBum",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "Won_over_Octoboss_in_005",
@@ -662,8 +662,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-08-01T11:03:10.0977114+00:00",
+  "LastChanged_Achievements": "2023-08-01T12:03:44.4403109+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:38.8063462+00:00",
-  "LastUpdate_Ratings": "2023-08-01T11:00:52.0459823+00:00",
-  "LastUpdate_Achievements": "2023-08-01T11:03:10.0977318+00:00"
+  "LastUpdate_Ratings": "2023-08-01T12:00:02.092716+00:00",
+  "LastUpdate_Achievements": "2023-08-01T12:03:44.4403392+00:00"
 }

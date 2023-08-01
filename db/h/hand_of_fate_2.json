@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 660144,
+  "EOS_Progressed": 660146,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10552,6 +10552,11 @@
       "Time": "2023-08-01T10:04:02.927499+00:00",
       "NumProgressed": 660144,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-08-01T12:03:56.571077+00:00",
+      "NumProgressed": 660146,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -10563,7 +10568,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 475304
+      "UsersEstimate": 475305
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -10571,7 +10576,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382884
+      "UsersEstimate": 382885
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -10579,7 +10584,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151833
+      "UsersEstimate": 151834
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -10627,7 +10632,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66014
+      "UsersEstimate": 66015
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -10659,7 +10664,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66014
+      "UsersEstimate": 66015
     },
     {
       "ID": "Achievement_14_Magician",
@@ -10699,7 +10704,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151833
+      "UsersEstimate": 151834
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -10715,7 +10720,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112224
+      "UsersEstimate": 112225
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -10803,7 +10808,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79217
+      "UsersEstimate": 79218
     },
     {
       "ID": "Achievement_32_Karma",
@@ -10946,15 +10951,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 660144,
+      "Progressed": 660146,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-08-01T11:03:25.6269781+00:00",
+  "LastChanged_Achievements": "2023-08-01T12:03:56.5710763+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:32.2842788+00:00",
-  "LastUpdate_Ratings": "2023-08-01T10:58:26.6280679+00:00",
-  "LastUpdate_Achievements": "2023-08-01T11:03:25.6271494+00:00"
+  "LastUpdate_Ratings": "2023-08-01T11:58:09.6035215+00:00",
+  "LastUpdate_Achievements": "2023-08-01T12:03:56.5711961+00:00"
 }
