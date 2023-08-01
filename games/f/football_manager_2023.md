@@ -5,49 +5,49 @@ Rating: 4.75 (Ranked 135)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 77.00% | ~62,317 |
+| Motivational Speaker | 77.00% | ~62,318 |
 | The Player Whisperer | 76.00% | ~61,508 |
 | One of Us, One of Us! | 73.00% | ~59,080 |
-| Clean Sheet | 68.00% | ~55,033 |
-| First Victory | 68.00% | ~55,033 |
+| Clean Sheet | 68.00% | ~55,034 |
+| First Victory | 68.00% | ~55,034 |
 | #DoneDeal | 67.00% | ~54,224 |
-| Off the Books | 65.00% | ~52,605 |
-| Super-Sub | 65.00% | ~52,605 |
+| Off the Books | 65.00% | ~52,606 |
+| Super-Sub | 65.00% | ~52,606 |
 | Hat-trick | 60.00% | ~48,559 |
-| "I Would Love It If We Beat Them" | 58.00% | ~46,940 |
-| Planned Signing | 58.00% | ~46,940 |
-| Thumping | 53.00% | ~42,893 |
-| Scoring Streak | 53.00% | ~42,893 |
-| Wheeler Dealer | 52.00% | ~42,084 |
+| "I Would Love It If We Beat Them" | 58.00% | ~46,941 |
+| Planned Signing | 58.00% | ~46,941 |
+| Thumping | 53.00% | ~42,894 |
+| Scoring Streak | 53.00% | ~42,894 |
+| Wheeler Dealer | 52.00% | ~42,085 |
 | Unbeatable! | 51.00% | ~41,275 |
 | People Pleaser | 51.00% | ~41,275 |
 | One Of Our Own | 48.00% | ~38,847 |
 | They're a Natural | 45.00% | ~36,419 |
 | Team Performance | 44.00% | ~35,610 |
 | Record Signing | 44.00% | ~35,610 |
-| The Only Stat That Matters | 43.00% | ~34,800 |
+| The Only Stat That Matters | 43.00% | ~34,801 |
 | Star Player | 41.00% | ~33,182 |
-| Full Faith | 40.00% | ~32,372 |
-| Squad Goals | 40.00% | ~32,372 |
-| The People's Champion | 40.00% | ~32,372 |
+| Full Faith | 40.00% | ~32,373 |
+| Squad Goals | 40.00% | ~32,373 |
+| The People's Champion | 40.00% | ~32,373 |
 | Parked The Bus | 39.00% | ~31,563 |
 | Beating Expectations | 39.00% | ~31,563 |
 | Goal Rush | 39.00% | ~31,563 |
-| Flavour Of The Month | 37.00% | ~29,944 |
-| What A Goal! | 36.00% | ~29,135 |
-| Unstoppable Force | 36.00% | ~29,135 |
-| Record Sale | 36.00% | ~29,135 |
+| Flavour Of The Month | 37.00% | ~29,945 |
+| What A Goal! | 36.00% | ~29,136 |
+| Unstoppable Force | 36.00% | ~29,136 |
+| Record Sale | 36.00% | ~29,136 |
 | You're on Fire | 35.00% | ~28,326 |
 | Tremendous Trio | 35.00% | ~28,326 |
 | Shots For Days | 35.00% | ~28,326 |
 | The Special One | 34.00% | ~27,517 |
-| On a Roll | 33.00% | ~26,707 |
-| Splashing the Cash | 33.00% | ~26,707 |
+| On a Roll | 33.00% | ~26,708 |
+| Splashing the Cash | 33.00% | ~26,708 |
 | Drilling Down | 31.00% | ~25,089 |
 | Goal Machine | 31.00% | ~25,089 |
 | Immovable Object | 29.00% | ~23,470 |
 | Cup Glory! | 29.00% | ~23,470 |
-| Cash to Burn | 27.00% | ~21,851 |
+| Cash to Burn | 27.00% | ~21,852 |
 | Irresistible Force | 26.00% | ~21,042 |
 | Do The Double | 23.00% | ~18,614 |
 | A Game of Two Halves | 22.00% | ~17,805 |
@@ -62,14 +62,14 @@ Rating: 4.75 (Ranked 135)
 | Best in the World | 15.00% | ~12,140 |
 | Superb Strike | 14.00% | ~11,330 |
 | National Service | 12.00% | ~9,712 |
-| Best in the Business | 11.00% | ~8,902 |
-| Bragging Rights | 11.00% | ~8,902 |
-| Invincible! | 11.00% | ~8,902 |
-| Domination | 11.00% | ~8,902 |
+| Best in the Business | 11.00% | ~8,903 |
+| Bragging Rights | 11.00% | ~8,903 |
+| Invincible! | 11.00% | ~8,903 |
+| Domination | 11.00% | ~8,903 |
 | Total Support | 10.00% | ~8,093 |
 | Second Hand Signing | 10.00% | ~8,093 |
 | You Can Buy Happiness | 10.00% | ~8,093 |
-| Invitational | 8.00% | ~6,474 |
+| Invitational | 8.00% | ~6,475 |
 | Legend | 7.00% | ~5,665 |
 | World Beaters | 7.00% | ~5,665 |
 | World Renowned | 7.00% | ~5,665 |
@@ -106,7 +106,7 @@ Rating: 4.75 (Ranked 135)
 | Versus Anyone | 0.10% | ~81 |
 | 200 Club | 0.10% | ~81 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,931 (Ranked 72)  
+Progressed: 80,932 (Ranked 72)  
 Completed: 22 (0.03%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 22 (0.03%) (Ranked 222)
 | 2023-07-29 | 80,608 | 22 |
 | 2023-07-30 | 80,765 | 22 |
 | 2023-07-31 | 80,912 | 22 |
-| 2023-08-01 | 80,931 | 22 |
+| 2023-08-01 | 80,932 | 22 |
 ## Awards
 Max (Diverse Characters): 578  (Ranked 180)  
 Sum: 4,179 (Ranked 137)  

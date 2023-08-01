@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1011,9 +1011,9 @@
       "ID": "plug_switch",
       "SetID": "69co12a",
       "Name": "The only right decision",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "poisoned_fighter",
@@ -1186,8 +1186,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-01T05:03:20.1447827+00:00",
+  "LastChanged_Achievements": "2023-08-01T06:03:05.5127257+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:10.4822993+00:00",
-  "LastUpdate_Ratings": "2023-08-01T04:58:16.4243923+00:00",
-  "LastUpdate_Achievements": "2023-08-01T05:03:20.144882+00:00"
+  "LastUpdate_Ratings": "2023-08-01T05:58:00.3893562+00:00",
+  "LastUpdate_Achievements": "2023-08-01T06:03:05.5127966+00:00"
 }

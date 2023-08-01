@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1569,9 +1569,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13209,
+  "EOS_Progressed": 13210,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8909,6 +8909,11 @@
       "Time": "2023-07-31T21:05:42.0392867+00:00",
       "NumProgressed": 13209,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-01T06:06:10.4895272+00:00",
+      "NumProgressed": 13210,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -9382,9 +9387,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
       "SetID": "7l38kb8",
       "Name": "Great",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 66
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_HOLY",
@@ -10246,9 +10251,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
       "SetID": "9201eeb",
       "Name": "Apadana",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
@@ -11287,21 +11292,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13209,
+      "Progressed": 13210,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13209,
+      "Progressed": 13210,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-29T07:58:48.2149836+00:00",
-  "LastChanged_Achievements": "2023-08-01T05:06:53.443283+00:00",
+  "LastChanged_Achievements": "2023-08-01T06:06:10.4895268+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.4550053+00:00",
-  "LastUpdate_Ratings": "2023-08-01T04:58:48.0138596+00:00",
-  "LastUpdate_Achievements": "2023-08-01T05:06:53.4451614+00:00"
+  "LastUpdate_Ratings": "2023-08-01T05:58:25.3214074+00:00",
+  "LastUpdate_Achievements": "2023-08-01T06:06:10.4904988+00:00"
 }

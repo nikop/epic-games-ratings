@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -7710,9 +7710,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 76633,
+  "EOS_Progressed": 76643,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2801,
+  "EOS_NewPlayers": 2803,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18950,6 +18950,11 @@
       "Time": "2023-08-01T05:06:46.1971986+00:00",
       "NumProgressed": 76633,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T06:06:04.9800104+00:00",
+      "NumProgressed": 76643,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -19401,7 +19406,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4598
+      "UsersEstimate": 4599
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -19481,7 +19486,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3065
+      "UsersEstimate": 3066
     },
     {
       "ID": "achievement_colonial_management",
@@ -19673,7 +19678,7 @@
       "Name": "Electable!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "achievement_emperor_of_hindustan",
@@ -19985,7 +19990,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4598
+      "UsersEstimate": 4599
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -20769,7 +20774,7 @@
       "Name": "Populists in Government",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "achievement_prester_john",
@@ -20961,7 +20966,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4598
+      "UsersEstimate": 4599
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -21553,7 +21558,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3065
+      "UsersEstimate": 3066
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -21625,7 +21630,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 6897
+      "UsersEstimate": 6898
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -21792,21 +21797,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 76633,
+      "Progressed": 76643,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 76633,
+      "Progressed": 76643,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-07-31T19:58:10.8268212+00:00",
-  "LastChanged_Achievements": "2023-08-01T05:06:46.1971979+00:00",
+  "LastChanged_Achievements": "2023-08-01T06:06:04.98001+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.0548947+00:00",
-  "LastUpdate_Ratings": "2023-08-01T04:58:11.9384144+00:00",
-  "LastUpdate_Achievements": "2023-08-01T05:06:46.1986435+00:00"
+  "LastUpdate_Ratings": "2023-08-01T05:57:55.8847355+00:00",
+  "LastUpdate_Achievements": "2023-08-01T06:06:04.9811967+00:00"
 }

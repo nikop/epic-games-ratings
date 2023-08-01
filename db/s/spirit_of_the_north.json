@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -318,9 +318,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 64107,
+  "EOS_Progressed": 64108,
   "EOS_Completed": 330,
-  "EOS_NewPlayers": 840,
+  "EOS_NewPlayers": 841,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -11283,6 +11283,11 @@
       "Time": "2023-08-01T05:03:38.4251949+00:00",
       "NumProgressed": 64107,
       "NumCompleted": 330
+    },
+    {
+      "Time": "2023-08-01T06:03:19.8458077+00:00",
+      "NumProgressed": 64108,
+      "NumCompleted": 330
     }
   ],
   "TotalAchievements": 24,
@@ -11302,7 +11307,7 @@
       "Name": "AWAKEN",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 13462
+      "UsersEstimate": 13463
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -11334,7 +11339,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 13462
+      "UsersEstimate": 13463
     },
     {
       "ID": "FETCH",
@@ -11390,7 +11395,7 @@
       "Name": "MATCH MAKER",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 4487
+      "UsersEstimate": 4488
     },
     {
       "ID": "NONE_FORGOTTEN",
@@ -11406,7 +11411,7 @@
       "Name": "NORTHERN LIGHTS",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 4487
+      "UsersEstimate": 4488
     },
     {
       "ID": "OLD_COMPANION",
@@ -11438,7 +11443,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 13462
+      "UsersEstimate": 13463
     },
     {
       "ID": "SPIRIT_DASH",
@@ -11485,7 +11490,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 64107,
+      "Progressed": 64108,
       "Completed": 330
     }
   ],
@@ -11493,8 +11498,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-08-01T05:03:38.4251942+00:00",
+  "LastChanged_Achievements": "2023-08-01T06:03:19.8458068+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:08.8774615+00:00",
-  "LastUpdate_Ratings": "2023-08-01T05:00:24.952152+00:00",
-  "LastUpdate_Achievements": "2023-08-01T05:03:38.4253121+00:00"
+  "LastUpdate_Ratings": "2023-08-01T05:59:45.3201625+00:00",
+  "LastUpdate_Achievements": "2023-08-01T06:03:19.8458924+00:00"
 }

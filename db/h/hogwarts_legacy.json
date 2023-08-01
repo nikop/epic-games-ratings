@@ -5736,9 +5736,9 @@
       "Count": 570
     }
   ],
-  "EOS_Progressed": 289086,
+  "EOS_Progressed": 289090,
   "EOS_Completed": 437,
-  "EOS_NewPlayers": 586,
+  "EOS_NewPlayers": 588,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16791,6 +16791,11 @@
       "Time": "2023-08-01T05:05:26.3282059+00:00",
       "NumProgressed": 289086,
       "NumCompleted": 437
+    },
+    {
+      "Time": "2023-08-01T06:05:00.9340344+00:00",
+      "NumProgressed": 289090,
+      "NumCompleted": 437
     }
   ],
   "TotalAchievements": 45,
@@ -16802,7 +16807,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34690
+      "UsersEstimate": 34691
     },
     {
       "ID": "PFA_10",
@@ -16890,7 +16895,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11563
+      "UsersEstimate": 11564
     },
     {
       "ID": "PFA_20",
@@ -17066,7 +17071,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11563
+      "UsersEstimate": 11564
     },
     {
       "ID": "PFA_40",
@@ -17082,7 +17087,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11563
+      "UsersEstimate": 11564
     },
     {
       "ID": "PFA_42",
@@ -17130,7 +17135,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31799
+      "UsersEstimate": 31800
     },
     {
       "ID": "PFA_7",
@@ -17138,7 +17143,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31799
+      "UsersEstimate": 31800
     },
     {
       "ID": "PFA_8",
@@ -17161,7 +17166,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289086,
+      "Progressed": 289090,
       "Completed": 437
     }
   ],
@@ -17169,8 +17174,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-01T02:03:25.9873761+00:00",
-  "LastChanged_Achievements": "2023-08-01T05:05:26.3282049+00:00",
+  "LastChanged_Achievements": "2023-08-01T06:05:00.9340339+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-08-01T04:58:12.5781742+00:00",
-  "LastUpdate_Achievements": "2023-08-01T05:05:26.3283927+00:00"
+  "LastUpdate_Ratings": "2023-08-01T05:57:56.5690973+00:00",
+  "LastUpdate_Achievements": "2023-08-01T06:05:00.9341401+00:00"
 }

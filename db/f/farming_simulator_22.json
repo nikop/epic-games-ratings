@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -7359,7 +7359,7 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 46420,
+  "EOS_Progressed": 46421,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
@@ -16364,6 +16364,11 @@
       "Time": "2023-08-01T05:04:44.879413+00:00",
       "NumProgressed": 46420,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-01T06:04:32.7238478+00:00",
+      "NumProgressed": 46421,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -16471,7 +16476,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 28316
+      "UsersEstimate": 28317
     },
     {
       "ID": "DeliveryGrapes",
@@ -16511,7 +16516,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 27852
+      "UsersEstimate": 27853
     },
     {
       "ID": "Harvested",
@@ -16527,7 +16532,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 34815
+      "UsersEstimate": 34816
     },
     {
       "ID": "HorseJumps",
@@ -16671,7 +16676,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5570
+      "UsersEstimate": 5571
     },
     {
       "ID": "TractorDriving",
@@ -16718,15 +16723,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 46420,
+      "Progressed": 46421,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-07-31T19:00:15.0938087+00:00",
-  "LastChanged_Achievements": "2023-08-01T05:04:44.8794118+00:00",
+  "LastChanged_Achievements": "2023-08-01T06:04:32.7238468+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:27.4750397+00:00",
-  "LastUpdate_Ratings": "2023-08-01T05:00:38.0362054+00:00",
-  "LastUpdate_Achievements": "2023-08-01T05:04:44.8795714+00:00"
+  "LastUpdate_Ratings": "2023-08-01T05:59:55.6733272+00:00",
+  "LastUpdate_Achievements": "2023-08-01T06:04:32.723943+00:00"
 }

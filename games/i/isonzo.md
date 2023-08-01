@@ -10,7 +10,7 @@ Number of Ratings: 98  (23.09.2022)
 | Tutti Eroi! | 55.00% | ~3,592 |
 | You Shall Not Pass | 53.00% | ~3,461 |
 | Avanti Savoia! | 47.00% | ~3,069 |
-| Mamma Mia! | 37.00% | ~2,416 |
+| Mamma Mia! | 38.00% | ~2,481 |
 | Conrad von Hotzensocks | 36.00% | ~2,351 |
 | Gabriele D'Annunzio | 33.00% | ~2,155 |
 | Silver Lining | 29.00% | ~1,894 |

@@ -16,7 +16,7 @@
 | No Diggity | 40.00% | ~75 |
 | Amateur Survivor | 30.00% | ~56 |
 | 10K | 29.00% | ~69 |
-| Bouncemato | 28.00% | ~53 |
+| Bouncemato | 29.00% | ~55 |
 | 15K | 27.00% | ~64 |
 | Quick-Draw Pod | 22.00% | ~41 |
 | Professional Survivor | 22.00% | ~41 |

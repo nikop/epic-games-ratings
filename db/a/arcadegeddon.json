@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -765,7 +765,7 @@
   ],
   "EOS_Progressed": 8319,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7145,9 +7145,9 @@
       "ID": "ACH_RESCUE_RANGER",
       "SetID": "97mcd7i",
       "Name": "Rescue Ranger",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 666
     },
     {
       "ID": "ACH_SEASONED_ADVENTURER",
@@ -7305,8 +7305,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-07-22T11:58:35.0651733+00:00",
-  "LastChanged_Achievements": "2023-08-01T05:07:04.3645058+00:00",
+  "LastChanged_Achievements": "2023-08-01T06:06:18.731849+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:17.3324442+00:00",
-  "LastUpdate_Ratings": "2023-08-01T04:59:19.0242422+00:00",
-  "LastUpdate_Achievements": "2023-08-01T05:07:04.3646496+00:00"
+  "LastUpdate_Ratings": "2023-08-01T05:58:50.7948112+00:00",
+  "LastUpdate_Achievements": "2023-08-01T06:06:18.7319303+00:00"
 }

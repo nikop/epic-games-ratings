@@ -6,17 +6,17 @@
 | ---- | ---------- | ----- |
 | In the Black | 60.00% | ~181 |
 | Starting Skyward | 52.00% | ~157 |
-| Grime is Not Good | 47.00% | ~141 |
-| Floor Galore | 39.00% | ~117 |
-| Campaign Launch | 39.00% | ~117 |
-| Dinner Dash | 39.00% | ~117 |
-| Need a Consult | 36.00% | ~108 |
-| It's Technical | 36.00% | ~108 |
-| Upgrade Unlock | 35.00% | ~105 |
-| Delegate Maintenance | 33.00% | ~99 |
-| Proper Walls | 32.00% | ~96 |
-| Destination Destiny | 29.00% | ~87 |
-| Happy Tenants | 25.00% | ~75 |
+| Grime is Not Good | 47.00% | ~142 |
+| Floor Galore | 39.00% | ~118 |
+| Campaign Launch | 39.00% | ~118 |
+| Dinner Dash | 39.00% | ~118 |
+| Need a Consult | 36.00% | ~109 |
+| It's Technical | 36.00% | ~109 |
+| Upgrade Unlock | 35.00% | ~106 |
+| Delegate Maintenance | 33.00% | ~100 |
+| Proper Walls | 32.00% | ~97 |
+| Destination Destiny | 28.00% | ~85 |
+| Happy Tenants | 25.00% | ~76 |
 | Potent Potables | 24.00% | ~72 |
 | Smooth Service | 24.00% | ~72 |
 | Your Prestige is Rising | 23.00% | ~69 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301 (Ranked 254)  
+Progressed: 302 (Ranked 254)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 288 | 0 |
 | 2023-07-30 | 294 | 0 |
 | 2023-07-31 | 298 | 0 |
-| 2023-08-01 | 301 | 0 |
+| 2023-08-01 | 302 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

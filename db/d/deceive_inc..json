@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16481,
+  "EOS_Progressed": 16484,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9001,
+  "EOS_NewPlayers": 9004,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6871,6 +6871,11 @@
       "Time": "2023-08-01T05:03:54.4094652+00:00",
       "NumProgressed": 16481,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-01T06:03:32.4569068+00:00",
+      "NumProgressed": 16484,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -6882,7 +6887,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 4944
+      "UsersEstimate": 4945
     },
     {
       "ID": "0002",
@@ -7002,7 +7007,7 @@
       "Name": "Live and let lie",
       "Percentage": 3,
       "XP": 115,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "0017",
@@ -7010,7 +7015,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3131
+      "UsersEstimate": 3132
     },
     {
       "ID": "0018",
@@ -7058,7 +7063,7 @@
       "Name": "Safe Withdrawal",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "0024",
@@ -7169,7 +7174,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 16481,
+      "Progressed": 16484,
       "Completed": 1
     }
   ],
@@ -7177,8 +7182,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-07-30T22:01:10.8796915+00:00",
-  "LastChanged_Achievements": "2023-08-01T05:03:54.4094646+00:00",
+  "LastChanged_Achievements": "2023-08-01T06:03:32.4569063+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:28.2482926+00:00",
-  "LastUpdate_Ratings": "2023-08-01T05:00:38.3771601+00:00",
-  "LastUpdate_Achievements": "2023-08-01T05:03:54.4095831+00:00"
+  "LastUpdate_Ratings": "2023-08-01T05:59:55.89944+00:00",
+  "LastUpdate_Achievements": "2023-08-01T06:03:32.4569775+00:00"
 }

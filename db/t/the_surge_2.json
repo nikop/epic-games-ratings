@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -243,7 +243,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1930,
+  "EOS_Progressed": 1931,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -1973,6 +1973,11 @@
       "Time": "2023-08-01T02:09:13.4765818+00:00",
       "NumProgressed": 1930,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-01T06:03:33.52904+00:00",
+      "NumProgressed": 1931,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1992,7 +1997,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "ACHV_03",
@@ -2000,7 +2005,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ACHV_04",
@@ -2088,7 +2093,7 @@
       "Name": "Reborn",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHV_15",
@@ -2120,7 +2125,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ACHV_19",
@@ -2184,7 +2189,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "ACHV_27",
@@ -2200,7 +2205,7 @@
       "Name": "Clean Cut",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ACHV_29",
@@ -2216,7 +2221,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ACHV_31",
@@ -2288,7 +2293,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "ACHV_40",
@@ -2304,7 +2309,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "ACHV_42",
@@ -2328,7 +2333,7 @@
       "Name": "Counter-Sniper",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHV_45",
@@ -2376,7 +2381,7 @@
       "Name": "Shrimp Cocktail",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHV_51",
@@ -2392,7 +2397,7 @@
       "Name": "Juiced Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHV_53",
@@ -2439,7 +2444,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1930,
+      "Progressed": 1931,
       "Completed": 10
     }
   ],
@@ -2447,8 +2452,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-08-01T05:03:55.619952+00:00",
+  "LastChanged_Achievements": "2023-08-01T06:03:33.5290394+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:20.3642762+00:00",
-  "LastUpdate_Ratings": "2023-08-01T04:57:21.2193934+00:00",
-  "LastUpdate_Achievements": "2023-08-01T05:03:55.6200635+00:00"
+  "LastUpdate_Ratings": "2023-08-01T05:57:09.6891157+00:00",
+  "LastUpdate_Achievements": "2023-08-01T06:03:33.5291043+00:00"
 }

@@ -13,8 +13,8 @@
 | Avaricerite | 9.00% | ~14 |
 | Ball Galore | 9.00% | ~14 |
 | Easy Victory | 8.00% | ~12 |
+| Back From The Dead | 6.00% | ~9 |
 | You Are Actually Supposed To Use Those | 6.00% | ~9 |
-| Back From The Dead | 5.00% | ~8 |
 | Ball Collector | 5.00% | ~8 |
 | Ball Protector | 5.00% | ~8 |
 | Legendary Destructor | 5.00% | ~8 |
