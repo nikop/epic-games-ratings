@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Mega City | 105.00% | ~22 |
-| Law and Order | 81.00% | ~17 |
-| Licence To Kill | 67.00% | ~14 |
-| Hammer Time | 48.00% | ~10 |
-| Escape From M.C. | 29.00% | ~6 |
-| Restore Honor | 29.00% | ~6 |
+| Welcome to Mega City | 105.00% | ~23 |
+| Law and Order | 77.00% | ~17 |
+| Licence To Kill | 64.00% | ~14 |
+| Hammer Time | 45.00% | ~10 |
+| Escape From M.C. | 27.00% | ~6 |
+| Restore Honor | 27.00% | ~6 |
 | Gibbing Love | 5.00% | ~1 |
 | Lieutenant | 5.00% | ~1 |
 | Dust to Dust | 5.00% | ~1 |
@@ -31,7 +31,7 @@
 | Fashionista | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21 (Ranked 392)  
+Progressed: 22 (Ranked 391)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -41,3 +41,4 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 17 | 0 |
 | 2023-07-30 | 19 | 0 |
 | 2023-07-31 | 21 | 0 |
+| 2023-08-01 | 22 | 0 |

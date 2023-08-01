@@ -5452,8 +5452,8 @@
       "Count": 3332
     }
   ],
-  "EOS_Progressed": 217580,
-  "EOS_Completed": 2140,
+  "EOS_Progressed": 217591,
+  "EOS_Completed": 2141,
   "EOS_NewPlayers": 2264,
   "EOS_NewCompleters": 45,
   "EOS_Completed_Percentage": 0.98,
@@ -16512,6 +16512,11 @@
       "Time": "2023-08-01T08:04:18.0189417+00:00",
       "NumProgressed": 217580,
       "NumCompleted": 2140
+    },
+    {
+      "Time": "2023-08-01T09:04:34.1871532+00:00",
+      "NumProgressed": 217591,
+      "NumCompleted": 2141
     }
   ],
   "TotalAchievements": 512,
@@ -16523,7 +16528,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8703
+      "UsersEstimate": 8704
     },
     {
       "ID": "objective_completed_10",
@@ -16539,15 +16544,15 @@
       "Name": "Pros and CONs",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "objective_completed_101",
       "SetID": "cc37lbc",
       "Name": "Upholding the Law",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 653
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_102",
@@ -16891,7 +16896,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6527
+      "UsersEstimate": 6528
     },
     {
       "ID": "objective_completed_110",
@@ -16899,7 +16904,7 @@
       "Name": "Wet Feet",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "objective_completed_1100",
@@ -16955,7 +16960,7 @@
       "Name": "Hatchlings Underfoot",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "objective_completed_1111",
@@ -17387,7 +17392,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "objective_completed_1203",
@@ -17499,7 +17504,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "objective_completed_130",
@@ -17643,7 +17648,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "objective_completed_150",
@@ -17747,7 +17752,7 @@
       "Name": "Building Trust",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "objective_completed_17",
@@ -17851,7 +17856,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "objective_completed_20",
@@ -18465,9 +18470,9 @@
       "ID": "objective_completed_41",
       "SetID": "cc37lbc",
       "Name": "Premature Betrayal",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 653
     },
     {
       "ID": "objective_completed_410",
@@ -20618,21 +20623,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183854,
-      "Completed": 3042
+      "Progressed": 183865,
+      "Completed": 3043
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217580,
-      "Completed": 2140
+      "Progressed": 217591,
+      "Completed": 2141
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-01T06:58:55.3799578+00:00",
-  "LastChanged_Achievements": "2023-08-01T08:04:18.0189412+00:00",
+  "LastChanged_Achievements": "2023-08-01T09:04:34.1871528+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-01T07:58:44.7274118+00:00",
-  "LastUpdate_Achievements": "2023-08-01T08:04:18.0216202+00:00"
+  "LastUpdate_Ratings": "2023-08-01T08:58:55.0795547+00:00",
+  "LastUpdate_Achievements": "2023-08-01T09:04:34.1894887+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -6585,7 +6585,7 @@
       "Count": 906
     }
   ],
-  "EOS_Progressed": 113020,
+  "EOS_Progressed": 113021,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1065,
   "EOS_NewCompleters": 0,
@@ -16305,6 +16305,11 @@
       "Time": "2023-08-01T08:06:43.6540988+00:00",
       "NumProgressed": 113020,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-01T09:07:27.7571627+00:00",
+      "NumProgressed": 113021,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -16316,7 +16321,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 79114
+      "UsersEstimate": 79115
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -16324,7 +16329,7 @@
       "Name": "Serenity Now!",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 58770
+      "UsersEstimate": 58771
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -16348,7 +16353,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 70072
+      "UsersEstimate": 70073
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -16364,7 +16369,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 75723
+      "UsersEstimate": 75724
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -16372,7 +16377,7 @@
       "Name": "Long Live the King",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 74593
+      "UsersEstimate": 74594
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -16380,7 +16385,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 70072
+      "UsersEstimate": 70073
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -16388,7 +16393,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 67812
+      "UsersEstimate": 67813
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -16484,7 +16489,7 @@
       "Name": "Deprogramming",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 13562
+      "UsersEstimate": 13563
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -16500,7 +16505,7 @@
       "Name": "Now Stay Dead",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 40687
+      "UsersEstimate": 40688
     },
     {
       "ID": "combat_kill_gentry",
@@ -16516,7 +16521,7 @@
       "Name": "Meat and Greet",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 24864
+      "UsersEstimate": 24865
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -16540,7 +16545,7 @@
       "Name": "Overdue Notice",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 35036
+      "UsersEstimate": 35037
     },
     {
       "ID": "combat_kill_pillagers",
@@ -16556,7 +16561,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 19213
+      "UsersEstimate": 19214
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -16588,7 +16593,7 @@
       "Name": "It Happens",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 19213
+      "UsersEstimate": 19214
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -16612,7 +16617,7 @@
       "Name": "Rush Hour",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 67812
+      "UsersEstimate": 67813
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -16628,7 +16633,7 @@
       "Name": "Harvest Festival",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 40687
+      "UsersEstimate": 40688
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -16636,7 +16641,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 67812
+      "UsersEstimate": 67813
     },
     {
       "ID": "driving_distance_easy",
@@ -16692,7 +16697,7 @@
       "Name": "Whale",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 35036
+      "UsersEstimate": 35037
     },
     {
       "ID": "hospital_full_service",
@@ -16708,7 +16713,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 105109
+      "UsersEstimate": 105110
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -16764,7 +16769,7 @@
       "Name": "Nope",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 53119
+      "UsersEstimate": 53120
     },
     {
       "ID": "run_victory_act01",
@@ -16772,7 +16777,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 75723
+      "UsersEstimate": 75724
     },
     {
       "ID": "run_victory_act02",
@@ -16780,7 +16785,7 @@
       "Name": "Hot Air",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 40687
+      "UsersEstimate": 40688
     },
     {
       "ID": "run_victory_act03",
@@ -16835,15 +16840,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 113020,
+      "Progressed": 113021,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-08-01T08:00:23.611336+00:00",
-  "LastChanged_Achievements": "2023-08-01T08:06:43.654098+00:00",
+  "LastChanged_Achievements": "2023-08-01T09:07:27.7571624+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:52.7052101+00:00",
-  "LastUpdate_Ratings": "2023-08-01T08:00:23.6113366+00:00",
-  "LastUpdate_Achievements": "2023-08-01T08:06:43.654208+00:00"
+  "LastUpdate_Ratings": "2023-08-01T09:00:54.6656365+00:00",
+  "LastUpdate_Achievements": "2023-08-01T09:07:27.7572318+00:00"
 }

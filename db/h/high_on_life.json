@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23661,
+  "EOS_Progressed": 23662,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 2,
@@ -3503,6 +3503,11 @@
       "Time": "2023-08-01T08:06:33.9172561+00:00",
       "NumProgressed": 23661,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-08-01T09:07:15.7598598+00:00",
+      "NumProgressed": 23662,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 32,
@@ -3530,7 +3535,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18219
+      "UsersEstimate": 18220
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -3538,7 +3543,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10174
+      "UsersEstimate": 10175
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -3546,7 +3551,7 @@
       "Name": "Eatin\u0027 Good in the Neighborhood",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "ACH_GET_CREATURE",
@@ -3570,7 +3575,7 @@
       "Name": "Are You Packin\u0027?",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5915
+      "UsersEstimate": 5916
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -3578,7 +3583,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17982
+      "UsersEstimate": 17983
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -3642,7 +3647,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13960
+      "UsersEstimate": 13961
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -3650,7 +3655,7 @@
       "Name": "G3 Graduation",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5915
+      "UsersEstimate": 5916
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -3666,7 +3671,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 5205
+      "UsersEstimate": 5206
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -3762,29 +3767,29 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5205
+      "UsersEstimate": 5206
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23661,
+      "Progressed": 23662,
       "Completed": 11
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 954,
-      "Completed": 954
+      "Progressed": 955,
+      "Completed": 955
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-01T02:03:53.4121642+00:00",
-  "LastChanged_Achievements": "2023-08-01T08:06:33.9172555+00:00",
+  "LastChanged_Achievements": "2023-08-01T09:07:15.7598594+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.7380308+00:00",
-  "LastUpdate_Ratings": "2023-08-01T07:58:34.5926184+00:00",
-  "LastUpdate_Achievements": "2023-08-01T08:06:33.9172999+00:00"
+  "LastUpdate_Ratings": "2023-08-01T08:58:42.359098+00:00",
+  "LastUpdate_Achievements": "2023-08-01T09:07:15.7598962+00:00"
 }

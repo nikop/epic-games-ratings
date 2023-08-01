@@ -47,7 +47,7 @@
 | Underground dwellers | 36.00% | ~72 |
 | Deal with life | 35.00% | ~70 |
 | GYM professional | 35.00% | ~70 |
-| Champion – no way back | 34.00% | ~68 |
+| Champion – no way back | 35.00% | ~70 |
 | Seashell hunter | 34.00% | ~68 |
 | Mom got better | 33.00% | ~66 |
 | Poisoned fighter | 33.00% | ~66 |

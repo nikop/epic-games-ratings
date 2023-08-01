@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 736,
+  "EOS_Progressed": 738,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2536,6 +2536,11 @@
       "Time": "2023-08-01T06:05:47.3467513+00:00",
       "NumProgressed": 736,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T09:06:22.849362+00:00",
+      "NumProgressed": 738,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2547,7 +2552,7 @@
       "Name": "Know The Enemy",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -2561,9 +2566,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_defeat_players_100",
@@ -2571,7 +2576,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -2619,7 +2624,7 @@
       "Name": "Silver Achiever",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "objective_headquarters_10",
@@ -2635,7 +2640,7 @@
       "Name": "Moving On Up",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "objective_headquarters_20",
@@ -2659,7 +2664,7 @@
       "Name": "Corporal",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -2667,7 +2672,7 @@
       "Name": "Sergeant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -2675,7 +2680,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -2739,7 +2744,7 @@
       "Name": "Getting Deployment",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -2771,7 +2776,7 @@
       "Name": "On Target",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -2850,14 +2855,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 736,
+      "Progressed": 738,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-01T08:05:50.1515994+00:00",
+  "LastChanged_Achievements": "2023-08-01T09:06:22.8493615+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-08-01T07:57:13.5254908+00:00",
-  "LastUpdate_Achievements": "2023-08-01T08:05:50.1516392+00:00"
+  "LastUpdate_Ratings": "2023-08-01T08:57:04.605227+00:00",
+  "LastUpdate_Achievements": "2023-08-01T09:06:22.8493968+00:00"
 }

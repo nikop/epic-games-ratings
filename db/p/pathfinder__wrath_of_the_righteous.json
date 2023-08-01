@@ -2,13 +2,13 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 119,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 117,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3240,10 +3240,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6860,
       "NumberOfAwardsMax": 1694
+    },
+    {
+      "Time": "2023-08-01T08:59:13.0269319+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6861,
+      "NumberOfAwardsMax": 1694
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6860,
+  "NumberOfAwards": 6861,
   "NumberOfAwardsMax": 1694,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3299,7 +3305,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 562
+      "Count": 563
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3314,9 +3320,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10730,
+  "EOS_Progressed": 10731,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9859,6 +9865,11 @@
       "Time": "2023-08-01T08:00:49.9622999+00:00",
       "NumProgressed": 10730,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T09:01:28.4929697+00:00",
+      "NumProgressed": 10731,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9902,7 +9913,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -9926,7 +9937,7 @@
       "Name": "Path of the Angel",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "09_PathOfDemon",
@@ -10078,7 +10089,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "29_StrategicVictory",
@@ -10222,7 +10233,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -10262,7 +10273,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -10797,21 +10808,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9512,
+      "Progressed": 9513,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10730,
+      "Progressed": 10731,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-07-30T15:58:44.9544514+00:00",
-  "LastChanged_Achievements": "2023-08-01T08:00:49.9622992+00:00",
+  "LastChanged": "2023-08-01T08:59:13.0269318+00:00",
+  "LastChanged_Achievements": "2023-08-01T09:01:28.4929688+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-08-01T07:58:59.452029+00:00",
-  "LastUpdate_Achievements": "2023-08-01T08:00:49.9624858+00:00"
+  "LastUpdate_Ratings": "2023-08-01T08:59:13.0269324+00:00",
+  "LastUpdate_Achievements": "2023-08-01T09:01:28.4931561+00:00"
 }

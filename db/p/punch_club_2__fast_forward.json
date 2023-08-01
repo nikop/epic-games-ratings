@@ -915,9 +915,9 @@
       "ID": "league_2",
       "SetID": "69co12a",
       "Name": "Champion \u2013 no way back",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "league_3",
@@ -1186,8 +1186,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-01T08:03:23.0652368+00:00",
+  "LastChanged_Achievements": "2023-08-01T09:03:27.1645462+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:10.4822993+00:00",
-  "LastUpdate_Ratings": "2023-08-01T07:58:10.4030603+00:00",
-  "LastUpdate_Achievements": "2023-08-01T08:03:23.0655934+00:00"
+  "LastUpdate_Ratings": "2023-08-01T08:58:09.7673416+00:00",
+  "LastUpdate_Achievements": "2023-08-01T09:03:27.1645996+00:00"
 }

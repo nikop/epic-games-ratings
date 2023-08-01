@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,7 +280,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 484,
+  "EOS_Progressed": 485,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -1290,6 +1290,11 @@
       "Time": "2023-08-01T08:06:42.0064808+00:00",
       "NumProgressed": 484,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-01T09:07:25.8297452+00:00",
+      "NumProgressed": 485,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -1301,7 +1306,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "cool-shirts",
@@ -1349,7 +1354,7 @@
       "Name": "Our Man",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "kill-lieutenants",
@@ -1365,7 +1370,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "play-at-night",
@@ -1389,7 +1394,7 @@
       "Name": "Bad Trip",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "rename-lieutenant",
@@ -1413,7 +1418,7 @@
       "Name": "Spread",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "send-smuggling",
@@ -1437,7 +1442,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "use-submarine",
@@ -1452,15 +1457,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 484,
+      "Progressed": 485,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-08-01T08:06:42.0064804+00:00",
+  "LastChanged_Achievements": "2023-08-01T09:07:25.8297449+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:06.1742041+00:00",
-  "LastUpdate_Ratings": "2023-08-01T08:00:31.3840066+00:00",
-  "LastUpdate_Achievements": "2023-08-01T08:06:42.0065011+00:00"
+  "LastUpdate_Ratings": "2023-08-01T09:01:04.2839633+00:00",
+  "LastUpdate_Achievements": "2023-08-01T09:07:25.8297604+00:00"
 }

@@ -5,30 +5,30 @@ Rating: 4.85 (Ranked 39)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~213,785 |
-| Private Club | 74.00% | ~173,847 |
-| Rogue Guild | 65.00% | ~152,704 |
-| I Watched the Intro | 57.00% | ~133,910 |
-| Covert Consortium | 55.00% | ~129,211 |
-| Goat Queen | 53.00% | ~124,512 |
-| Reach the Stratosphere | 50.00% | ~117,464 |
-| Synchronization Complete | 47.00% | ~110,417 |
-| Secret Society | 45.00% | ~105,718 |
-| Shadow Syndicate | 38.00% | ~89,273 |
+| Forgotten Sorority | 91.00% | ~213,787 |
+| Private Club | 74.00% | ~173,849 |
+| Rogue Guild | 65.00% | ~152,705 |
+| I Watched the Intro | 57.00% | ~133,911 |
+| Covert Consortium | 55.00% | ~129,212 |
+| Goat Queen | 53.00% | ~124,513 |
+| Reach the Stratosphere | 50.00% | ~117,466 |
+| Synchronization Complete | 47.00% | ~110,418 |
+| Secret Society | 45.00% | ~105,719 |
+| Shadow Syndicate | 38.00% | ~89,274 |
 | What a Waste of Money | 33.00% | ~77,527 |
 | New Goat Order | 30.00% | ~70,479 |
-| Don't touch the servers | 28.00% | ~65,780 |
+| Don't touch the servers | 28.00% | ~65,781 |
 | San Angora: Become Human | 26.00% | ~61,082 |
 | Raider of the Lost Parking Garage | 26.00% | ~61,082 |
 | Real Buoy | 26.00% | ~61,082 |
-| Welcome to Earth | 25.00% | ~58,732 |
+| Welcome to Earth | 25.00% | ~58,733 |
 | Into the Matrix | 19.00% | ~44,637 |
 | Where is It? | 17.00% | ~39,938 |
 | Egg Simulator | 17.00% | ~39,938 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~35,239 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~35,240 |
 | Black Market | 14.00% | ~32,890 |
 | 401(K.O.) | 14.00% | ~32,890 |
-| Car Cave | 12.00% | ~28,191 |
+| Car Cave | 12.00% | ~28,192 |
 | Club Mohair | 8.00% | ~18,794 |
 | A Center for Ants? | 8.00% | ~18,794 |
 | French Fika | 7.00% | ~16,445 |
@@ -45,7 +45,7 @@ Rating: 4.85 (Ranked 39)
 | Move! That! Bus! | 0.60% | ~1,410 |
 | G.O.A.T | 0.30% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,929 (Ranked 47)  
+Progressed: 234,931 (Ranked 47)  
 Completed: 783 (0.33%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,10 +148,10 @@ Completed: 783 (0.33%) (Ranked 153)
 | 2023-07-29 | 234,577 | 782 |
 | 2023-07-30 | 234,745 | 782 |
 | 2023-07-31 | 234,900 | 782 |
-| 2023-08-01 | 234,929 | 783 |
+| 2023-08-01 | 234,931 | 783 |
 ## Awards
 Max (Great for Beginners): 372  (Ranked 218)  
-Sum: 3,124 (Ranked 156)  
+Sum: 3,125 (Ranked 156)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
@@ -159,7 +159,7 @@ Diff (max vs sum): 62
 | This game has Diverse Characters | 353 |
 | This game is Highly Recommended | 338 |
 | This game has Amazing Characters | 316 |
-| This game is Extremely Fun | 309 |
+| This game is Extremely Fun | 310 |
 | This game is Relaxing | 302 |
 | This game has Amazing Storytelling | 299 |
 | This game has Quickly Understood Controls | 298 |
@@ -299,3 +299,4 @@ Diff (max vs sum): 62
 | 2023-07-29 | 4.85 | 372 | 3,112 |
 | 2023-07-30 | 4.85 | 372 | 3,119 |
 | 2023-07-31 | 4.85 | 372 | 3,124 |
+| 2023-08-01 | 4.85 | 372 | 3,125 |

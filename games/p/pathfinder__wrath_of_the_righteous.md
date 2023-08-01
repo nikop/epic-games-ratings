@@ -1,7 +1,7 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 119)  
+Rating: 4.76 (Ranked 118)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,11 +14,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Banner over the Citadel | 11.00% | ~1,180 |
 | Queen's Gratitude | 10.00% | ~1,073 |
 | Fifth Crusade | 7.00% | ~751 |
-| Embrace of the Abyss | 5.00% | ~536 |
-| Path of the Angel | 5.00% | ~536 |
-| Great Upstart | 5.00% | ~536 |
-| All Paths Open | 5.00% | ~536 |
-| Demonic and Divine | 5.00% | ~536 |
+| Embrace of the Abyss | 5.00% | ~537 |
+| Path of the Angel | 5.00% | ~537 |
+| Great Upstart | 5.00% | ~537 |
+| All Paths Open | 5.00% | ~537 |
+| Demonic and Divine | 5.00% | ~537 |
 | Path of the Azata | 4.00% | ~429 |
 | Transformation | 4.00% | ~429 |
 | The Legacy | 4.00% | ~429 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,730 (Ranked 120)  
+Progressed: 10,731 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,10 +226,10 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 10,674 | 0 |
 | 2023-07-30 | 10,702 | 0 |
 | 2023-07-31 | 10,721 | 0 |
-| 2023-08-01 | 10,730 | 0 |
+| 2023-08-01 | 10,731 | 0 |
 ## Awards
 Max (Character Customization): 1,694  (Ranked 117)  
-Sum: 6,860 (Ranked 113)  
+Sum: 6,861 (Ranked 113)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -240,7 +240,7 @@ Diff (max vs sum): 4
 | This game has Diverse Characters | 613 |
 | This game has Amazing Storytelling | 604 |
 | This game has Challenging Combat | 566 |
-| This game has Quickly Understood Controls | 562 |
+| This game has Quickly Understood Controls | 563 |
 | This game is Relaxing | 540 |
 | This game has a Creative Community | 384 |
 | This game has Obsessive Gameplay | 364 |
@@ -427,3 +427,4 @@ Diff (max vs sum): 4
 | 2023-07-28 | 4.76 | - | 1,693 | 6,854 |
 | 2023-07-29 | 4.76 | - | 1,694 | 6,858 |
 | 2023-07-30 | 4.76 | - | 1,694 | 6,860 |
+| 2023-08-01 | 4.76 | - | 1,694 | 6,861 |

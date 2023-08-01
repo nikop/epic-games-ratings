@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 31,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2071,9 +2071,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 649186,
+  "EOS_Progressed": 649188,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 2943,
+  "EOS_NewPlayers": 2933,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13271,6 +13271,11 @@
       "Time": "2023-08-01T08:04:26.3750326+00:00",
       "NumProgressed": 649186,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-01T09:04:44.1659631+00:00",
+      "NumProgressed": 649188,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 54,
@@ -13282,7 +13287,7 @@
       "Name": "The dream begins",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 525841
+      "UsersEstimate": 525842
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -13362,7 +13367,7 @@
       "Name": "Where there\u0027s muck there\u0027s brass",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 25967
+      "UsersEstimate": 25968
     },
     {
       "ID": "COMPLETE_ONE_CONTRACT",
@@ -13370,7 +13375,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 233707
+      "UsersEstimate": 233708
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -13562,7 +13567,7 @@
       "Name": "The grass is always greener",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5193
+      "UsersEstimate": 5194
     },
     {
       "ID": "ONE_OF_EACH_CONTRACT",
@@ -13602,7 +13607,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 25967
+      "UsersEstimate": 25968
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -13610,7 +13615,7 @@
       "Name": "All hands on deck",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5193
+      "UsersEstimate": 5194
     },
     {
       "ID": "PURCHASE_FORTH_HQ",
@@ -13634,7 +13639,7 @@
       "Name": "Worked your grass off",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5193
+      "UsersEstimate": 5194
     },
     {
       "ID": "RP_CREDIBLE",
@@ -13682,7 +13687,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 116853
+      "UsersEstimate": 116854
     },
     {
       "ID": "RP_TRUSTED",
@@ -13706,22 +13711,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 25967
+      "UsersEstimate": 25968
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 649186,
+      "Progressed": 649188,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-07-30T20:58:31.2322574+00:00",
-  "LastChanged_Achievements": "2023-08-01T08:04:26.3750322+00:00",
+  "LastChanged_Achievements": "2023-08-01T09:04:44.1659626+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.3106216+00:00",
-  "LastUpdate_Ratings": "2023-08-01T07:58:35.0909394+00:00",
-  "LastUpdate_Achievements": "2023-08-01T08:04:26.3751472+00:00"
+  "LastUpdate_Ratings": "2023-08-01T08:58:42.8338919+00:00",
+  "LastUpdate_Achievements": "2023-08-01T09:04:44.1660544+00:00"
 }

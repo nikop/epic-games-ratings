@@ -5,33 +5,33 @@ Rating: 4.40 (Ranked 697)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,219 |
-| Ranidaphobia | 77.00% | ~1,020 |
+| First Blood | 92.00% | ~1,220 |
+| Ranidaphobia | 77.00% | ~1,021 |
 | Aspiring Editor | 75.00% | ~994 |
-| Gun for Hire | 70.00% | ~927 |
-| I am the law! | 64.00% | ~848 |
-| Lumberjack | 53.00% | ~702 |
+| Gun for Hire | 70.00% | ~928 |
+| I am the law! | 64.00% | ~849 |
+| Lumberjack | 53.00% | ~703 |
 | Croaked | 48.00% | ~636 |
 | Limp Richard | 48.00% | ~636 |
 | Exorcist | 47.00% | ~623 |
 | From Darkness to Light | 47.00% | ~623 |
 | Editor Adept | 46.00% | ~610 |
 | Giant Killer | 44.00% | ~583 |
-| Sensei | 42.00% | ~556 |
-| Firestarter | 41.00% | ~543 |
-| The meaning of Kain | 41.00% | ~543 |
+| Sensei | 42.00% | ~557 |
+| Firestarter | 41.00% | ~544 |
+| The meaning of Kain | 41.00% | ~544 |
 | Technophobe | 39.00% | ~517 |
-| Recycler | 38.00% | ~504 |
-| Are you not entertained? | 33.00% | ~437 |
-| Ganglord | 33.00% | ~437 |
-| Jarhead | 33.00% | ~437 |
+| Recycler | 37.00% | ~491 |
+| Are you not entertained? | 33.00% | ~438 |
+| Ganglord | 33.00% | ~438 |
+| Jarhead | 33.00% | ~438 |
 | Infiltrator | 32.00% | ~424 |
 | Pushing Daisy | 30.00% | ~398 |
-| Experienced | 29.00% | ~384 |
+| Experienced | 29.00% | ~385 |
 | Hold The Line | 28.00% | ~371 |
-| Endgame | 25.00% | ~331 |
-| Savior | 25.00% | ~331 |
-| There Can Be Only One! | 25.00% | ~331 |
+| Endgame | 25.00% | ~332 |
+| Savior | 25.00% | ~332 |
+| There Can Be Only One! | 25.00% | ~332 |
 | Chain Killer | 22.00% | ~292 |
 | The Watchers | 21.00% | ~278 |
 | Silent but Violent | 17.00% | ~225 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 697)
 | Chaos Theory | 15.00% | ~199 |
 | Dr Jones | 15.00% | ~199 |
 | Ruthless | 14.00% | ~186 |
-| Side Order | 10.00% | ~132 |
+| Side Order | 10.00% | ~133 |
 | Chain Reaction | 9.00% | ~119 |
 | Bot Whisperer | 8.00% | ~106 |
 | Curveball | 8.00% | ~106 |
@@ -49,7 +49,7 @@ Rating: 4.40 (Ranked 697)
 | Master Editor | 4.00% | ~53 |
 | Attenborough | 3.00% | ~40 |
 | Cruelty | 3.00% | ~40 |
-| Bookworm | 2.00% | ~26 |
+| Bookworm | 2.00% | ~27 |
 | Five Finger Deathcount | 1.00% | ~13 |
 | Alpha Editor | 0.90% | ~12 |
 | Fratricide | 0.90% | ~12 |
@@ -57,7 +57,7 @@ Rating: 4.40 (Ranked 697)
 | QA Has Suffered! (Redux) | 0.80% | ~11 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,325 (Ranked 183)  
+Progressed: 1,326 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,6 +125,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 1,311 | 0 |
 | 2023-07-30 | 1,321 | 0 |
 | 2023-07-31 | 1,325 | 0 |
+| 2023-08-01 | 1,326 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

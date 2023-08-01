@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,703 |
-| Beast Intentions | 3.00% | ~6,527 |
+| A Brief Tour of the Realms | 4.00% | ~8,704 |
+| Beast Intentions | 3.00% | ~6,528 |
 | Maddening | 2.00% | ~4,352 |
 | The Silken Swamp | 1.00% | ~2,176 |
 | Supply Run | 1.00% | ~2,176 |
@@ -19,16 +19,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Destruction | 0.70% | ~1,287 |
 | Vecna Loots! | 0.70% | ~1,287 |
 | Topolah's Tower | 0.70% | ~1,287 |
-| Pros and CONs | 0.60% | ~1,305 |
-| Wet Feet | 0.60% | ~1,305 |
-| Hatchlings Underfoot | 0.60% | ~1,305 |
+| Pros and CONs | 0.60% | ~1,306 |
+| Wet Feet | 0.60% | ~1,306 |
+| Hatchlings Underfoot | 0.60% | ~1,306 |
 | Return to the Tomb | 0.60% | ~1,103 |
 | Heatwave | 0.60% | ~1,103 |
-| Were-verpowered | 0.60% | ~1,305 |
-| A Persistent Buzzing | 0.60% | ~1,305 |
-| Terror in the Dark | 0.60% | ~1,305 |
-| Building Trust | 0.60% | ~1,305 |
-| Unearthed Evil | 0.60% | ~1,305 |
+| Were-verpowered | 0.60% | ~1,306 |
+| A Persistent Buzzing | 0.60% | ~1,306 |
+| Terror in the Dark | 0.60% | ~1,306 |
+| Building Trust | 0.60% | ~1,306 |
+| Unearthed Evil | 0.60% | ~1,306 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,103 |
 | The Witchlight Carnival | 0.50% | ~919 |
 | Don't Look Up! | 0.50% | ~1,088 |
@@ -53,6 +53,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.50% | ~919 |
 | Bahamut's Army | 0.50% | ~919 |
 | Krux's Speed Run | 0.50% | ~919 |
+| Upholding the Law | 0.40% | ~870 |
 | Thieves of the Coven | 0.40% | ~735 |
 | Hither of the Feywild | 0.40% | ~735 |
 | Speeds of Destruction | 0.40% | ~735 |
@@ -74,7 +75,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Electric Mayhem | 0.40% | ~735 |
 | 3,720 to 1 | 0.40% | ~735 |
 | Animated Giff | 0.40% | ~735 |
-| Upholding the Law | 0.30% | ~653 |
 | Nightmare Rats! | 0.30% | ~552 |
 | The Prince of a Thousand Enemies | 0.30% | ~552 |
 | Downfall | 0.30% | ~552 |
@@ -104,6 +104,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Death Curse | 0.30% | ~653 |
 | Are Ya Chicken? | 0.30% | ~653 |
 | Useless Allies | 0.30% | ~653 |
+| Premature Betrayal | 0.30% | ~653 |
 | Mad Cow Disease | 0.30% | ~653 |
 | A Tale of Two Cities | 0.30% | ~653 |
 | The Dead Three | 0.30% | ~653 |
@@ -180,7 +181,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimble Escape | 0.20% | ~435 |
 | Fugitives | 0.20% | ~435 |
 | Excavating History | 0.20% | ~435 |
-| Premature Betrayal | 0.20% | ~435 |
 | Hopelessly Lost | 0.20% | ~435 |
 | Enter the Sargauth | 0.20% | ~435 |
 | Slow and Steady | 0.20% | ~435 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,580 (Ranked 53)  
-Completed: 2,140 (0.98%) (Ranked 112)  
+Progressed: 217,591 (Ranked 53)  
+Completed: 2,141 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -622,7 +622,7 @@ Completed: 2,140 (0.98%) (Ranked 112)
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
-| 2023-08-01 | 217,580 | 2,140 |
+| 2023-08-01 | 217,591 | 2,141 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
 Sum: 30,840 (Ranked 38)  

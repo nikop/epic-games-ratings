@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | The 4 Pillars | 52.00% | ~60 |
 | First Step | 52.00% | ~60 |
-| Capitalism | 14.00% | ~16 |
+| Capitalism | 15.00% | ~17 |
 | Indebted | 10.00% | ~12 |
 | Desert Rat | 10.00% | ~12 |
+| There's something in those trees | 7.00% | ~8 |
 | Green Energy | 7.00% | ~8 |
-| There's something in those trees | 6.00% | ~7 |
 | Good payer | 6.00% | ~7 |
 | Great Producer | 6.00% | ~7 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~6 |
@@ -22,16 +22,16 @@
 | Supersoldier | 3.00% | ~3 |
 | Perfect Soldier | 3.00% | ~3 |
 | Outdoor Decorator | 3.00% | ~3 |
+| Healing | 3.00% | ~3 |
 | Property Bro | 3.00% | ~3 |
 | Human Resources | 3.00% | ~3 |
 | Food Tycoon | 3.00% | ~3 |
+| Fuel Tycoon | 3.00% | ~3 |
 | Medicine Tycoon | 3.00% | ~3 |
 | Tear Down the Wall! | 2.00% | ~2 |
 | Vive le Résistance | 2.00% | ~2 |
-| Healing | 2.00% | ~2 |
 | Snowman | 2.00% | ~2 |
 | Reconquest | 2.00% | ~2 |
-| Fuel Tycoon | 2.00% | ~2 |
 | Researcher | 2.00% | ~2 |
 | Economist | 0.90% | ~1 |
 | Crisis Committee | 0.90% | ~1 |

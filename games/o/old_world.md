@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 297)  
+Rating: 4.65 (Ranked 298)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -131,6 +131,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.20% | ~26 |
 | Rome | 0.20% | ~26 |
 | One True Faith | 0.20% | ~26 |
+| Hittite Paganism | 0.20% | ~26 |
 | Industrial Progress | 0.20% | ~26 |
 | Military Prestige | 0.20% | ~26 |
 | Enlightenment | 0.20% | ~26 |
@@ -238,7 +239,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.10% | ~13 |
 | Play a Play-By-Cloud Game | 0.10% | ~13 |
 | Punic Wars | 0.10% | ~13 |
-| Hittite Paganism | 0.10% | ~13 |
 | Roman Papacy | 0.10% | ~13 |
 | Circus Maximus in Roma | 0.10% | ~13 |
 | Pantheon in Roma | 0.10% | ~13 |
