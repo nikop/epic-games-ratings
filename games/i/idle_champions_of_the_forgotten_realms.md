@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,701 |
+| A Brief Tour of the Realms | 4.00% | ~8,702 |
 | Beast Intentions | 3.00% | ~6,526 |
 | Maddening | 2.00% | ~4,351 |
 | The Silken Swamp | 1.00% | ~2,175 |
@@ -14,7 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 1.00% | ~1,838 |
 | Vecna Lives! | 0.90% | ~1,654 |
 | Rock and Roll | 0.90% | ~1,654 |
-| Flight of the Kindori Pod | 0.80% | ~1,470 |
+| Flight of the Kindori Pod | 0.80% | ~1,471 |
 | Tall Tales | 0.70% | ~1,287 |
 | Seeds of Destruction | 0.70% | ~1,287 |
 | Vecna Loots! | 0.70% | ~1,287 |
@@ -34,10 +34,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Look Up! | 0.50% | ~1,088 |
 | Heavy Burden | 0.50% | ~1,088 |
 | The Evacuation of Waterdeep | 0.50% | ~919 |
+| Friends of the Forest | 0.50% | ~1,088 |
 | The Dread Domain of Tovag | 0.50% | ~919 |
 | Beast Mode | 0.50% | ~1,088 |
 | Low Initiative | 0.50% | ~1,088 |
 | A Mysterious Summons | 0.50% | ~1,088 |
+| Street War | 0.50% | ~1,088 |
 | March of the Undead | 0.50% | ~1,088 |
 | No Time To Rest | 0.50% | ~1,088 |
 | The Mists of Ravenloft | 0.50% | ~1,088 |
@@ -55,11 +57,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Speeds of Destruction | 0.40% | ~735 |
 | On the Hunt | 0.40% | ~870 |
 | A Demi-god's Defender | 0.40% | ~735 |
-| Friends of the Forest | 0.40% | ~870 |
 | Homecoming | 0.40% | ~870 |
 | No One Can Hear You Scream | 0.40% | ~735 |
 | Welcome to the Rock | 0.40% | ~735 |
-| Street War | 0.40% | ~870 |
 | Wisdom Check | 0.40% | ~870 |
 | Invisible Shadows | 0.40% | ~870 |
 | Family Entanglements | 0.40% | ~870 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,531 (Ranked 53)  
-Completed: 2,140 (0.98%) (Ranked 112)  
+Progressed: 217,542 (Ranked 53)  
+Completed: 2,140 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -622,7 +622,7 @@ Completed: 2,140 (0.98%) (Ranked 112)
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
-| 2023-08-01 | 217,531 | 2,140 |
+| 2023-08-01 | 217,542 | 2,140 |
 ## Awards
 Max (Diverse Characters): 5,106  (Ranked 67)  
 Sum: 30,833 (Ranked 38)  

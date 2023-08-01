@@ -378,9 +378,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 239984,
+  "EOS_Progressed": 239986,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1161,
+  "EOS_NewPlayers": 1162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11523,6 +11523,11 @@
       "Time": "2023-08-01T02:08:38.1130683+00:00",
       "NumProgressed": 239984,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-01T03:03:27.6811162+00:00",
+      "NumProgressed": 239986,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -11580,9 +11585,9 @@
       "ID": "ACH_ENJOY",
       "SetID": "dfh7g87",
       "Name": "Enjoy these little moments",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 960
+      "UsersEstimate": 1200
     },
     {
       "ID": "ACH_GENTLEMAN",
@@ -11750,7 +11755,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 57596
+      "UsersEstimate": 57597
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -11949,7 +11954,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 239984,
+      "Progressed": 239986,
       "Completed": 7
     }
   ],
@@ -11957,8 +11962,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-07-21T15:58:43.8877276+00:00",
-  "LastChanged_Achievements": "2023-08-01T02:08:38.1130675+00:00",
+  "LastChanged_Achievements": "2023-08-01T03:03:27.6811155+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:50.6151057+00:00",
-  "LastUpdate_Ratings": "2023-08-01T02:03:53.9896955+00:00",
-  "LastUpdate_Achievements": "2023-08-01T02:08:38.1131907+00:00"
+  "LastUpdate_Ratings": "2023-08-01T02:58:26.4446082+00:00",
+  "LastUpdate_Achievements": "2023-08-01T03:03:27.6812267+00:00"
 }

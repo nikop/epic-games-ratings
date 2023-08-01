@@ -15,19 +15,19 @@
 | Easy Victory | 8.00% | ~12 |
 | Back From The Dead | 5.00% | ~8 |
 | Ball Collector | 5.00% | ~8 |
+| Ball Protector | 5.00% | ~8 |
 | Legendary Destructor | 5.00% | ~8 |
 | Nomad | 5.00% | ~8 |
 | Ticking Clock | 5.00% | ~8 |
 | You Are Actually Supposed To Use Those | 5.00% | ~8 |
-| Ball Protector | 4.00% | ~6 |
 | Medium Rare | 4.00% | ~6 |
 | Collector | 3.00% | ~5 |
 | Detoxed | 3.00% | ~5 |
 | Monster of Fashion | 3.00% | ~5 |
 | Scrap Collector | 3.00% | ~5 |
+| Single Person On Earth | 3.00% | ~5 |
+| Bullet Hell | 2.00% | ~3 |
 | Ice Breaker | 2.00% | ~3 |
-| Single Person On Earth | 2.00% | ~3 |
-| Bullet Hell | 1.00% | ~2 |
 | Machine Man | 1.00% | ~2 |
 | Mushroom Man | 1.00% | ~2 |
 | Total Walrus | 1.00% | ~2 |
@@ -37,7 +37,7 @@
 | What Even Are You? | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 151 (Ranked 298)  
-Completed: 1 (0.66%) (Ranked 121)  
+Completed: 1 (0.66%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

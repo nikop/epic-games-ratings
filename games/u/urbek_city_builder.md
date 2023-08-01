@@ -11,7 +11,7 @@
 | The spiritual world... | 23.00% | ~68 |
 | The woodcutter | 23.00% | ~68 |
 | I like books | 20.00% | ~59 |
-| I like my life | 19.00% | ~56 |
+| I like my life | 20.00% | ~59 |
 | Soviet town | 19.00% | ~56 |
 | Clean energy | 17.00% | ~50 |
 | Bucolic city | 15.00% | ~44 |

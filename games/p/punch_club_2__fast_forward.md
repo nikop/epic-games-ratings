@@ -24,9 +24,9 @@
 | Employee of the month | 60.00% | ~119 |
 | Spirit of the past | 59.00% | ~117 |
 | Law student | 58.00% | ~115 |
+| Little hacker | 56.00% | ~111 |
 | Intriguing candies | 56.00% | ~111 |
 | Workout professional | 55.00% | ~109 |
-| Little hacker | 55.00% | ~109 |
 | Own four walls | 55.00% | ~109 |
 | Champion – starter pack | 54.00% | ~107 |
 | It's good to be alive | 54.00% | ~107 |
@@ -43,8 +43,8 @@
 | Fight is life | 42.00% | ~84 |
 | Mysterious voice | 42.00% | ~84 |
 | Get out of my apartment! | 37.00% | ~74 |
+| Responsible approach | 37.00% | ~74 |
 | Underground dwellers | 36.00% | ~72 |
-| Responsible approach | 36.00% | ~72 |
 | Deal with life | 35.00% | ~70 |
 | GYM professional | 34.00% | ~68 |
 | Champion – no way back | 34.00% | ~68 |

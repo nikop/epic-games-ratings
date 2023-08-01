@@ -6,18 +6,18 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~12,470 |
-| Sweet Sorrow | 18.00% | ~6,235 |
+| Sink Beneath the Waves | 36.00% | ~12,471 |
+| Sweet Sorrow | 18.00% | ~6,236 |
 | Rules the Waves | 17.00% | ~5,889 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,196 |
 | Rival | 14.00% | ~4,850 |
 | Correspondent | 12.00% | ~4,157 |
 | Lose Your Mind | 12.00% | ~4,157 |
 | Sound Mind? | 12.00% | ~4,157 |
-| Salt's Curse | 11.00% | ~3,810 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,810 |
-| The Fall of the House | 11.00% | ~3,810 |
-| Shipmate | 11.00% | ~3,810 |
+| Salt's Curse | 11.00% | ~3,811 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,811 |
+| The Fall of the House | 11.00% | ~3,811 |
+| Shipmate | 11.00% | ~3,811 |
 | One Year at Zee | 8.00% | ~2,771 |
 | Pupil | 7.00% | ~2,425 |
 | Salvager | 7.00% | ~2,425 |
@@ -49,7 +49,7 @@ Number of Ratings: 401  (23.09.2022)
 | Depth charge | 0.90% | ~312 |
 | A zee-change | 0.80% | ~277 |
 | What lies beneath | 0.80% | ~277 |
-| Stone's Curse | 0.70% | ~242 |
+| Stone's Curse | 0.70% | ~243 |
 | Five Years at Zee | 0.50% | ~173 |
 | The Lady's Parlour | 0.20% | ~69 |
 | A Past Wreathed in Shadows | 0.20% | ~69 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~35 |
 | Ten Years at Zee | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,640 (Ranked 95)  
+Progressed: 34,643 (Ranked 95)  
 Completed: 3 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 3 (0.01%) (Ranked 234)
 | 2023-07-29 | 34,503 | 3 |
 | 2023-07-30 | 34,582 | 3 |
 | 2023-07-31 | 34,632 | 3 |
-| 2023-08-01 | 34,640 | 3 |
+| 2023-08-01 | 34,643 | 3 |
 ## Awards
 Max (Character Customization): 213  (Ranked 267)  
 Sum: 283 (Ranked 340)  

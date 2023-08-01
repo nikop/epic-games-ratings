@@ -6063,7 +6063,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 57716,
+  "EOS_Progressed": 57718,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 930,
   "EOS_NewCompleters": 0,
@@ -16788,6 +16788,11 @@
       "Time": "2023-08-01T02:08:29.0688278+00:00",
       "NumProgressed": 57716,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T03:03:18.5521325+00:00",
+      "NumProgressed": 57718,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -16807,7 +16812,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 8657
+      "UsersEstimate": 8658
     },
     {
       "ID": "Bannerlord",
@@ -16879,7 +16884,7 @@
       "Name": "Duelist",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5194
+      "UsersEstimate": 5195
     },
     {
       "ID": "Dynasty",
@@ -16887,7 +16892,7 @@
       "Name": "Dynasty",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5194
+      "UsersEstimate": 5195
     },
     {
       "ID": "Entrepreneur",
@@ -16919,7 +16924,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "God of the Arena",
@@ -16967,7 +16972,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8657
+      "UsersEstimate": 8658
     },
     {
       "ID": "I spit on your grave",
@@ -16975,7 +16980,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5194
+      "UsersEstimate": 5195
     },
     {
       "ID": "Jack of All Trades",
@@ -17023,7 +17028,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18469
+      "UsersEstimate": 18470
     },
     {
       "ID": "Lawbringer",
@@ -17031,7 +17036,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 21355
+      "UsersEstimate": 21356
     },
     {
       "ID": "Lawmaker",
@@ -17087,7 +17092,7 @@
       "Name": "Real Estate",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "Ride it like you stole it",
@@ -17199,22 +17204,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5194
+      "UsersEstimate": 5195
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 57716,
+      "Progressed": 57718,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-31T20:00:48.5974349+00:00",
-  "LastChanged_Achievements": "2023-08-01T02:08:29.0688271+00:00",
+  "LastChanged_Achievements": "2023-08-01T03:03:18.552132+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:33.2077536+00:00",
-  "LastUpdate_Ratings": "2023-08-01T02:05:29.1147137+00:00",
-  "LastUpdate_Achievements": "2023-08-01T02:08:29.0689506+00:00"
+  "LastUpdate_Ratings": "2023-08-01T02:59:59.9803234+00:00",
+  "LastUpdate_Achievements": "2023-08-01T03:03:18.5522469+00:00"
 }

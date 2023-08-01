@@ -3,8 +3,8 @@
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 298,
-  "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -762,17 +762,17 @@
       "ID": "ball_protector",
       "SetID": "jig50d",
       "Name": "Ball Protector",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "bullet_hell",
       "SetID": "jig50d",
       "Name": "Bullet Hell",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "collector",
@@ -906,9 +906,9 @@
       "ID": "single_person",
       "SetID": "jig50d",
       "Name": "Single Person On Earth",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 150,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ticking_clock",
@@ -979,8 +979,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-08-01T02:10:23.9839348+00:00",
+  "LastChanged_Achievements": "2023-08-01T03:04:51.7123756+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:54.5074353+00:00",
-  "LastUpdate_Ratings": "2023-08-01T02:05:45.0407038+00:00",
-  "LastUpdate_Achievements": "2023-08-01T02:10:23.9839688+00:00"
+  "LastUpdate_Ratings": "2023-08-01T03:00:15.423021+00:00",
+  "LastUpdate_Achievements": "2023-08-01T03:04:51.7124048+00:00"
 }

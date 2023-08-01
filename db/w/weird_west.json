@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1673,9 +1673,9 @@
       "ID": "ACH_DISHONORED",
       "SetID": "8j30i9k",
       "Name": "Dishonored",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 441
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -2081,8 +2081,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-08-01T02:10:25.3140831+00:00",
+  "LastChanged_Achievements": "2023-08-01T03:04:53.1270326+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.150321+00:00",
-  "LastUpdate_Ratings": "2023-08-01T02:04:22.7644619+00:00",
-  "LastUpdate_Achievements": "2023-08-01T02:10:25.3141442+00:00"
+  "LastUpdate_Ratings": "2023-08-01T02:58:54.0003775+00:00",
+  "LastUpdate_Achievements": "2023-08-01T03:04:53.1270799+00:00"
 }

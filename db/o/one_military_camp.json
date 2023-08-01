@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 115,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -511,9 +511,9 @@
       "ID": "ACHIEVEMENT_ID_13",
       "SetID": "c504de6",
       "Name": "Supersoldier",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_ID_14",
@@ -599,9 +599,9 @@
       "ID": "ACHIEVEMENT_ID_23",
       "SetID": "c504de6",
       "Name": "Snowman",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_ID_24",
@@ -623,9 +623,9 @@
       "ID": "ACHIEVEMENT_ID_26",
       "SetID": "c504de6",
       "Name": "Human Resources",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_ID_27",
@@ -655,9 +655,9 @@
       "ID": "ACHIEVEMENT_ID_3",
       "SetID": "c504de6",
       "Name": "Reconquest",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_ID_30",
@@ -830,8 +830,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-08-01T02:09:42.8353957+00:00",
+  "LastChanged_Achievements": "2023-08-01T03:04:12.0641471+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:38.0107995+00:00",
-  "LastUpdate_Ratings": "2023-08-01T02:04:38.0346815+00:00",
-  "LastUpdate_Achievements": "2023-08-01T02:09:42.8354364+00:00"
+  "LastUpdate_Ratings": "2023-08-01T02:59:07.7161018+00:00",
+  "LastUpdate_Achievements": "2023-08-01T03:04:12.0641819+00:00"
 }

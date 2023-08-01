@@ -8,7 +8,7 @@
 | Garbage collector | 98.00% | ~46 |
 | Om nom nom | 74.00% | ~35 |
 | Repair master | 62.00% | ~29 |
-| I am speed! | 49.00% | ~23 |
+| I am speed! | 51.00% | ~24 |
 | No one will hear you! | 43.00% | ~20 |
 | It's safe here! | 28.00% | ~13 |
 ## Popularity (Based on EOS Achievements)

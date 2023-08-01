@@ -2,9 +2,9 @@
   "ID": "b1555bed500048b79f6fad321d5a7202",
   "Name": "Nova Strike",
   "ProductSlug": "nova-strike",
-  "Ranking_EOS_Progress": 443,
+  "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-27T08:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45,6 +45,11 @@
       "Time": "2023-07-31T22:02:03.5083359+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T03:02:06.1295116+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-27T09:00:47.837898+00:00",
@@ -63,7 +68,7 @@
       "ID": "1",
       "SetID": "5lmgb5n",
       "Name": "Take-off",
-      "Percentage": 100,
+      "Percentage": 83,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -87,7 +92,7 @@
       "ID": "12",
       "SetID": "5lmgb5n",
       "Name": "\u00AB Not that one ! \u00BB",
-      "Percentage": 80,
+      "Percentage": 67,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -103,7 +108,7 @@
       "ID": "14",
       "SetID": "5lmgb5n",
       "Name": "Space warrior",
-      "Percentage": 80,
+      "Percentage": 67,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -119,7 +124,7 @@
       "ID": "16",
       "SetID": "5lmgb5n",
       "Name": "Make them pay",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -127,7 +132,7 @@
       "ID": "17",
       "SetID": "5lmgb5n",
       "Name": "Jackpot",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -135,7 +140,7 @@
       "ID": "2",
       "SetID": "5lmgb5n",
       "Name": "\u00AB Missed your train ? \u00BB",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -167,7 +172,7 @@
       "ID": "6",
       "SetID": "5lmgb5n",
       "Name": "I\u0027ll be back",
-      "Percentage": 80,
+      "Percentage": 67,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -200,13 +205,13 @@
     {
       "ID": "5lmgb5n",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-27T09:00:47.8378979+00:00",
-  "LastChanged_Achievements": "2023-08-01T02:06:13.0990247+00:00",
+  "LastChanged_Achievements": "2023-08-01T03:02:06.129511+00:00",
   "LastUpdate_AppInfo": "2023-07-27T08:57:03.5115055+00:00",
-  "LastUpdate_Ratings": "2023-08-01T02:02:38.8967187+00:00",
-  "LastUpdate_Achievements": "2023-08-01T02:06:13.099046+00:00"
+  "LastUpdate_Ratings": "2023-08-01T02:57:11.0210227+00:00",
+  "LastUpdate_Achievements": "2023-08-01T03:02:06.1295282+00:00"
 }

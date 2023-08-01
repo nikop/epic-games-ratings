@@ -6,28 +6,28 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~120,325 |
-| Where's that freaking Dwarf? | 47.00% | ~95,852 |
-| GG EZ | 28.00% | ~57,103 |
-| Speedrun | 26.00% | ~53,024 |
-| Déjà vu | 21.00% | ~42,827 |
-| Sock! SOCK! | 17.00% | ~34,670 |
-| DM intervention | 13.00% | ~26,512 |
-| Fireproof Wizardess | 10.00% | ~20,394 |
-| Livin' in a dwarven paradise | 8.00% | ~16,315 |
-| A beer, two curses, three companions | 8.00% | ~16,315 |
-| Way of the Wimp | 7.00% | ~14,276 |
-| The plot thickens... At the tavern | 5.00% | ~10,197 |
+| Alt+F4 | 59.00% | ~120,335 |
+| Where's that freaking Dwarf? | 47.00% | ~95,860 |
+| GG EZ | 28.00% | ~57,108 |
+| Speedrun | 26.00% | ~53,029 |
+| Déjà vu | 21.00% | ~42,831 |
+| Sock! SOCK! | 17.00% | ~34,673 |
+| DM intervention | 13.00% | ~26,514 |
+| Fireproof Wizardess | 10.00% | ~20,396 |
+| Livin' in a dwarven paradise | 8.00% | ~16,317 |
+| A beer, two curses, three companions | 8.00% | ~16,317 |
+| Way of the Wimp | 7.00% | ~14,277 |
+| The plot thickens... At the tavern | 5.00% | ~10,198 |
 | The Woman in the High Castle | 4.00% | ~8,158 |
 | I am the night | 4.00% | ~8,158 |
 | Team Building Exercise | 4.00% | ~8,158 |
-| Shiny and Crôm | 3.00% | ~6,118 |
-| The demons' feast | 3.00% | ~6,118 |
-| Res Judicata | 3.00% | ~6,118 |
-| Dwarf Fortress | 3.00% | ~6,118 |
-| The Ranger of Chaos | 3.00% | ~6,118 |
-| Thieves' Guild Accreditation | 3.00% | ~6,118 |
-| Oh, when I'll be level 10... | 3.00% | ~6,118 |
+| Shiny and Crôm | 3.00% | ~6,119 |
+| The demons' feast | 3.00% | ~6,119 |
+| Res Judicata | 3.00% | ~6,119 |
+| Dwarf Fortress | 3.00% | ~6,119 |
+| The Ranger of Chaos | 3.00% | ~6,119 |
+| Thieves' Guild Accreditation | 3.00% | ~6,119 |
+| Oh, when I'll be level 10... | 3.00% | ~6,119 |
 | The Great Library | 2.00% | ~4,079 |
 | Torture and Sensibility | 2.00% | ~4,079 |
 | Urik's Depths | 2.00% | ~4,079 |
@@ -36,15 +36,15 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 2.00% | ~4,079 |
 | In Navalu's footsteps | 2.00% | ~4,079 |
 | Material Girl | 2.00% | ~4,079 |
-| The Dungeon Master | 1.00% | ~2,039 |
-| The Statuette of Gladeulfeurah | 1.00% | ~2,039 |
-| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,039 |
-| A tale of adventurers not quite like the others... | 1.00% | ~2,039 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,039 |
-| Dead for good | 1.00% | ~2,039 |
-| Law and Order | 1.00% | ~2,039 |
-| It's been a hard day's night | 1.00% | ~2,039 |
-| Lust and Debauchery | 1.00% | ~2,039 |
+| The Dungeon Master | 1.00% | ~2,040 |
+| The Statuette of Gladeulfeurah | 1.00% | ~2,040 |
+| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,040 |
+| A tale of adventurers not quite like the others... | 1.00% | ~2,040 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,040 |
+| Dead for good | 1.00% | ~2,040 |
+| Law and Order | 1.00% | ~2,040 |
+| It's been a hard day's night | 1.00% | ~2,040 |
+| Lust and Debauchery | 1.00% | ~2,040 |
 | Lëgal Legend | 0.80% | ~1,632 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,428 |
 | Holistic Adventuring Party | 0.50% | ~1,020 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,940 (Ranked 55)  
+Progressed: 203,957 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 202,137 | 0 |
 | 2023-07-30 | 203,178 | 0 |
 | 2023-07-31 | 203,882 | 0 |
-| 2023-08-01 | 203,940 | 0 |
+| 2023-08-01 | 203,957 | 0 |
 ## Awards
 Max (Character Customization): 146  (Ranked 297)  
 Sum: 146 (Ranked 392)  

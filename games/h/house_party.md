@@ -28,13 +28,13 @@ Number of Ratings: 177  (23.09.2022)
 | The Crush | 0.50% | ~30 |
 | The Magic Number | 0.50% | ~30 |
 | Vickie | 0.50% | ~30 |
+| Benedict Brahrnold | 0.40% | ~24 |
 | I'll Be Back | 0.40% | ~24 |
 | Casanova | 0.40% | ~24 |
 | Now It's a Party! | 0.40% | ~24 |
 | Stephanie | 0.40% | ~24 |
 | Te Amo Lety | 0.40% | ~24 |
 | Ashley | 0.30% | ~18 |
-| Benedict Brahrnold | 0.30% | ~18 |
 | Love Conquers All | 0.30% | ~18 |
 | Rachael | 0.30% | ~18 |
 | Good Ol' Days | 0.30% | ~18 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,979 (Ranked 135)  
+Progressed: 5,981 (Ranked 135)  
 Completed: 3 (0.05%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 3 (0.05%) (Ranked 212)
 | 2023-07-29 | 5,939 | 3 |
 | 2023-07-30 | 5,961 | 3 |
 | 2023-07-31 | 5,976 | 3 |
-| 2023-08-01 | 5,979 | 3 |
+| 2023-08-01 | 5,981 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
