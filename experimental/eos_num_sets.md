@@ -1,8 +1,8 @@
 | Game | Total Achievements | Total XP | Sets |
 | ---- | ------------------ | -------- | ---- |
 | [](../games/d/d602fd70876141ba9bf4d54809c423d1.md) | 0 | 0 | 2 |
-| [](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 0 | 0 | 2 |
 | [](../games/4/4ceb047b661d401e95132c459fb00f9a.md) | 0 | 0 | 2 |
+| [](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 0 | 0 | 2 |
 | [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 50 | 1,215 | 2 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 | 2 |
 | [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 | 2 |
@@ -25,6 +25,7 @@
 | [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 512 | 2,560 | 2 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 | 2 |
 | [Mass Effect™ Legendary Edition](../games/m/mass_effect™_legendary_edition.md) | 0 | 0 | 2 |
+| [Mega City Police](../games/m/mega_city_police.md) | 26 | 1,000 | 2 |
 | [Old World](../games/o/old_world.md) | 296 | 3,040 | 2 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 | 2 |
 | [PAYDAY 2](../games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 1,328 | 15,000 | 2 |
