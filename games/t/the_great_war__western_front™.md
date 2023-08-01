@@ -9,7 +9,7 @@
 | La Der des Ders | 16.00% | ~57 |
 | From the Pages of History | 8.00% | ~29 |
 | The Chemists' War | 5.00% | ~18 |
-| War with Friends | 4.00% | ~14 |
+| War with Friends | 3.00% | ~11 |
 | A Student of History | 1.00% | ~4 |
 | That's Not What Happened | 1.00% | ~4 |
 | Nothing Can Stop Us! | 0.80% | ~3 |

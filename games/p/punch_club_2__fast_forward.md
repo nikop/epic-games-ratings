@@ -62,11 +62,11 @@
 | Trap disarmed | 27.00% | ~54 |
 | Another world | 27.00% | ~54 |
 | The lonesome road | 27.00% | ~54 |
+| Keep nature safe | 27.00% | ~54 |
+| Family comes first | 27.00% | ~54 |
 | Key memories | 27.00% | ~54 |
 | Anyone can resist | 27.00% | ~54 |
 | The heart of the Resistance | 27.00% | ~54 |
-| Keep nature safe | 26.00% | ~52 |
-| Family comes first | 26.00% | ~52 |
 | Silver’s past | 24.00% | ~48 |
 | Better cooking at home | 24.00% | ~48 |
 | The only right decision | 24.00% | ~48 |

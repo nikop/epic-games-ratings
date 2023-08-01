@@ -7,21 +7,21 @@ Number of Ratings: 28  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting started | 76.00% | ~312 |
-| Close call! | 72.00% | ~295 |
-| Builder | 52.00% | ~213 |
+| Close call! | 72.00% | ~296 |
+| Builder | 52.00% | ~214 |
 | Pangs of conscience | 46.00% | ~189 |
-| Living it large! | 43.00% | ~176 |
-| Collector | 41.00% | ~168 |
+| Living it large! | 43.00% | ~177 |
+| Collector | 41.00% | ~169 |
 | Need to think | 39.00% | ~160 |
 | Completely nuts! | 37.00% | ~152 |
-| Just in time! | 32.00% | ~131 |
+| Just in time! | 32.00% | ~132 |
 | Europe | 30.00% | ~123 |
 | It's no coincidence. | 29.00% | ~119 |
 | Madness! | 26.00% | ~107 |
-| Philatelist | 25.00% | ~102 |
-| Let's roll! | 25.00% | ~102 |
-| Non Stop! | 25.00% | ~102 |
-| Ouroboros | 24.00% | ~98 |
+| Philatelist | 25.00% | ~103 |
+| Let's roll! | 25.00% | ~103 |
+| Non Stop! | 25.00% | ~103 |
+| Ouroboros | 24.00% | ~99 |
 | Foreman | 21.00% | ~86 |
 | Missed it! | 19.00% | ~78 |
 | Russia | 17.00% | ~70 |
@@ -33,7 +33,7 @@ Number of Ratings: 28  (23.09.2022)
 | Japan | 9.00% | ~37 |
 | Tycoon | 8.00% | ~33 |
 | Germany | 6.00% | ~25 |
-| Chuck Norris | 5.00% | ~20 |
+| Chuck Norris | 5.00% | ~21 |
 | Сhancellor | 4.00% | ~16 |
 | Peacemaker | 4.00% | ~16 |
 | Supercrash! | 4.00% | ~16 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Maniac vandal | 0.50% | ~2 |
 | Salesman | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 410 (Ranked 233)  
+Progressed: 411 (Ranked 233)  
 Completed: 2 (0.49%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 2 (0.49%) (Ranked 139)
 | 2023-07-29 | 399 | 2 |
 | 2023-07-30 | 406 | 2 |
 | 2023-07-31 | 409 | 2 |
-| 2023-08-01 | 410 | 2 |
+| 2023-08-01 | 411 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

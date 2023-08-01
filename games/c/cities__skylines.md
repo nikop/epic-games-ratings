@@ -6,59 +6,59 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~677,394 |
-| Green Energy | 60.00% | ~572,446 |
-| Foggy Weather | 59.00% | ~562,905 |
-| Singing In The- | 59.00% | ~562,905 |
-| Unpopular Mayor | 41.00% | ~391,171 |
-| Power at Your Fingertips | 33.00% | ~314,845 |
-| City Planner | 23.00% | ~219,437 |
-| Rolling in Dough | 20.00% | ~190,815 |
-| Does My Bum Look Big In This? | 17.00% | ~162,193 |
-| Climbing the Social Ladder | 16.00% | ~152,652 |
-| Safe City | 14.00% | ~133,571 |
-| Quay-King | 11.00% | ~104,948 |
-| Lawmaker | 10.00% | ~95,408 |
-| With Canals You Can! | 10.00% | ~95,408 |
-| Nomen Est Omen | 7.00% | ~66,785 |
-| Well Informed | 6.00% | ~57,245 |
-| Fire Watch | 5.00% | ~47,704 |
-| Greenest City | 4.00% | ~38,163 |
-| Heavenly City | 3.00% | ~28,622 |
-| Reporting! | 3.00% | ~28,622 |
-| SIMulated City | 3.00% | ~28,622 |
-| The Safest Town | 3.00% | ~28,622 |
-| Professional Dumper | 2.00% | ~19,082 |
-| City in Motion | 1.00% | ~9,541 |
-| Earthloving City | 1.00% | ~9,541 |
-| Metropolis | 1.00% | ~9,541 |
-| Higher Education | 0.80% | ~7,633 |
+| Pioneer | 71.00% | ~677,479 |
+| Green Energy | 60.00% | ~572,518 |
+| Foggy Weather | 59.00% | ~562,976 |
+| Singing In The- | 59.00% | ~562,976 |
+| Unpopular Mayor | 41.00% | ~391,220 |
+| Power at Your Fingertips | 33.00% | ~314,885 |
+| City Planner | 23.00% | ~219,465 |
+| Rolling in Dough | 20.00% | ~190,839 |
+| Does My Bum Look Big In This? | 17.00% | ~162,213 |
+| Climbing the Social Ladder | 16.00% | ~152,671 |
+| Safe City | 14.00% | ~133,587 |
+| Quay-King | 11.00% | ~104,962 |
+| Lawmaker | 10.00% | ~95,420 |
+| With Canals You Can! | 10.00% | ~95,420 |
+| Nomen Est Omen | 7.00% | ~66,794 |
+| Well Informed | 6.00% | ~57,252 |
+| Fire Watch | 5.00% | ~47,710 |
+| Greenest City | 4.00% | ~38,168 |
+| Heavenly City | 3.00% | ~28,626 |
+| Reporting! | 3.00% | ~28,626 |
+| SIMulated City | 3.00% | ~28,626 |
+| The Safest Town | 3.00% | ~28,626 |
+| Professional Dumper | 2.00% | ~19,084 |
+| City in Motion | 1.00% | ~9,542 |
+| Earthloving City | 1.00% | ~9,542 |
+| Metropolis | 1.00% | ~9,542 |
+| Higher Education | 0.80% | ~7,634 |
 | Beam Me Up | 0.70% | ~6,679 |
-| Full Capacity | 0.60% | ~5,724 |
-| Terraformer | 0.60% | ~5,724 |
-| Decorator | 0.50% | ~4,770 |
-| Drop the Base | 0.50% | ~4,770 |
-| It's heading right for us! | 0.50% | ~4,770 |
-| Postman | 0.50% | ~4,770 |
-| Shake It Up! | 0.50% | ~4,770 |
-| Speed up! | 0.50% | ~4,770 |
-| The Waters of Our Lives | 0.50% | ~4,770 |
-| Thunder and Lightning | 0.50% | ~4,770 |
-| Twist and shout | 0.50% | ~4,770 |
-| Airfield Expertise | 0.40% | ~3,816 |
-| Airlifter | 0.40% | ~3,816 |
-| Get Your Snowshoes Ready! | 0.40% | ~3,816 |
-| Happy Town | 0.40% | ~3,816 |
-| I Want It All | 0.40% | ~3,816 |
-| Just Tolling | 0.40% | ~3,816 |
-| A Huge Hadron | 0.30% | ~2,862 |
-| Airport Architect | 0.30% | ~2,862 |
-| Are They Naked In There? | 0.30% | ~2,862 |
-| Friendly Teaching | 0.30% | ~2,862 |
-| Here's A Tram | 0.30% | ~2,862 |
-| Run, Bambi! | 0.30% | ~2,862 |
-| Short Fuse | 0.30% | ~2,862 |
-| We need snorkels! | 0.30% | ~2,862 |
+| Full Capacity | 0.60% | ~5,725 |
+| Terraformer | 0.60% | ~5,725 |
+| Decorator | 0.50% | ~4,771 |
+| Drop the Base | 0.50% | ~4,771 |
+| It's heading right for us! | 0.50% | ~4,771 |
+| Postman | 0.50% | ~4,771 |
+| Shake It Up! | 0.50% | ~4,771 |
+| Speed up! | 0.50% | ~4,771 |
+| The Waters of Our Lives | 0.50% | ~4,771 |
+| Thunder and Lightning | 0.50% | ~4,771 |
+| Twist and shout | 0.50% | ~4,771 |
+| Airfield Expertise | 0.40% | ~3,817 |
+| Airlifter | 0.40% | ~3,817 |
+| Get Your Snowshoes Ready! | 0.40% | ~3,817 |
+| Happy Town | 0.40% | ~3,817 |
+| I Want It All | 0.40% | ~3,817 |
+| Just Tolling | 0.40% | ~3,817 |
+| A Huge Hadron | 0.30% | ~2,863 |
+| Airport Architect | 0.30% | ~2,863 |
+| Are They Naked In There? | 0.30% | ~2,863 |
+| Friendly Teaching | 0.30% | ~2,863 |
+| Here's A Tram | 0.30% | ~2,863 |
+| Run, Bambi! | 0.30% | ~2,863 |
+| Short Fuse | 0.30% | ~2,863 |
+| We need snorkels! | 0.30% | ~2,863 |
 | City in Motion 2 | 0.20% | ~1,908 |
 | Eternal City | 0.20% | ~1,908 |
 | It's Wintertime! | 0.20% | ~1,908 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~954 |
 | Z00 | 0.10% | ~954 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 954,076 (Ranked 13)  
+Progressed: 954,196 (Ranked 13)  
 Completed: 10 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 10 (0.00%) (Ranked 247)
 | 2023-07-29 | 946,750 | 10 |
 | 2023-07-30 | 950,254 | 10 |
 | 2023-07-31 | 953,198 | 10 |
-| 2023-08-01 | 954,076 | 10 |
+| 2023-08-01 | 954,196 | 10 |
 ## Awards
 Max (Great for Beginners): 5,044  (Ranked 68)  
 Sum: 38,265 (Ranked 32)  

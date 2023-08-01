@@ -12,8 +12,8 @@
 | Found an oasis | 44.00% | ~191 |
 | Burger or pizza? | 40.00% | ~173 |
 | Passion for sports | 34.00% | ~147 |
-| Who loves trains? | 30.00% | ~130 |
-| Easy and steady climb | 29.00% | ~126 |
+| Who loves trains? | 31.00% | ~134 |
+| Easy and steady climb | 30.00% | ~130 |
 | At the heart of the city | 27.00% | ~117 |
 | Calm neighborhood | 26.00% | ~113 |
 | Elevated ring | 24.00% | ~104 |
@@ -27,7 +27,7 @@
 | Happy Christmas night! | 18.00% | ~78 |
 | Night walk along the beach | 18.00% | ~78 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433 (Ranked 229)  
+Progressed: 433 (Ranked 230)  
 Completed: 81 (18.71%) (Ranked 13)  
 ## EOS Players History
 | Date | Progressed | Completed |

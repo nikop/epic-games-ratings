@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109525,
+  "EOS_Progressed": 109526,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1819,6 +1819,11 @@
       "Time": "2023-07-31T09:01:11.3331181+00:00",
       "NumProgressed": 109525,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-01T11:02:13.1020623+00:00",
+      "NumProgressed": 109526,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -1910,7 +1915,7 @@
       "Name": "Building Block - Silver",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "2",
@@ -2054,7 +2059,7 @@
       "Name": "Challenge Veteran",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "4",
@@ -2062,7 +2067,7 @@
       "Name": "Express Yourself - Silver",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "5",
@@ -2101,15 +2106,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109525,
+      "Progressed": 109526,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-08-01T10:03:27.8370232+00:00",
+  "LastChanged_Achievements": "2023-08-01T11:02:13.1020609+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:10.3540898+00:00",
-  "LastUpdate_Ratings": "2023-08-01T09:58:47.173649+00:00",
-  "LastUpdate_Achievements": "2023-08-01T10:03:27.837059+00:00"
+  "LastUpdate_Ratings": "2023-08-01T10:59:06.4349937+00:00",
+  "LastUpdate_Achievements": "2023-08-01T11:02:13.1021214+00:00"
 }

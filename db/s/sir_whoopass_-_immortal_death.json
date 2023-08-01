@@ -2,10 +2,10 @@
   "ID": "009fb808545b4b8dbe794560039a59a0",
   "Name": "Sir Whoopass - Immortal Death",
   "ProductSlug": "sir-whoopass-757c5c",
-  "Ranking_EOS_Progress": 322,
+  "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
     "PcReleaseDate": "2022-08-18T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91,
+  "EOS_Progressed": 92,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -396,6 +396,11 @@
       "Time": "2023-07-31T07:04:32.180944+00:00",
       "NumProgressed": 91,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T11:04:51.3852505+00:00",
+      "NumProgressed": 92,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 82,
@@ -429,7 +434,7 @@
       "ID": "BILLY_GOAT_1",
       "SetID": "9gfkh7c",
       "Name": "Meatballs, coming up!",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 26
     },
@@ -437,7 +442,7 @@
       "ID": "CHEESE_1",
       "SetID": "9gfkh7c",
       "Name": "That\u0027s what cheese said!",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 10,
       "UsersEstimate": 79
     },
@@ -445,7 +450,7 @@
       "ID": "CHEESE_2",
       "SetID": "9gfkh7c",
       "Name": "Oh, you\u0027re up to no gouda!",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
       "UsersEstimate": 58
     },
@@ -477,7 +482,7 @@
       "ID": "CLOWN_1",
       "SetID": "9gfkh7c",
       "Name": "Honk honk!",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 46
     },
@@ -613,7 +618,7 @@
       "ID": "DODGE_1",
       "SetID": "9gfkh7c",
       "Name": "Rolling, Rolling, Rolling",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
       "UsersEstimate": 66
     },
@@ -669,7 +674,7 @@
       "ID": "ENEMIES_2",
       "SetID": "9gfkh7c",
       "Name": "Master Butcher",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -693,7 +698,7 @@
       "ID": "FIRE_1",
       "SetID": "9gfkh7c",
       "Name": "AHHHHHH.....I\u0027M ON FIRE!!!",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 10,
       "UsersEstimate": 77
     },
@@ -701,7 +706,7 @@
       "ID": "FIRE_2",
       "SetID": "9gfkh7c",
       "Name": "Fire-fighter!",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
       "UsersEstimate": 61
     },
@@ -717,7 +722,7 @@
       "ID": "FUNGOID_1",
       "SetID": "9gfkh7c",
       "Name": "Mushroom soup of the day",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
       "UsersEstimate": 48
     },
@@ -741,7 +746,7 @@
       "ID": "GNOME_1",
       "SetID": "9gfkh7c",
       "Name": "Tastes just like chicken!",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 10,
       "UsersEstimate": 84
     },
@@ -773,7 +778,7 @@
       "ID": "GRENADIER_2",
       "SetID": "9gfkh7c",
       "Name": "You\u0027re not going to blow me up!",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 49
     },
@@ -797,7 +802,7 @@
       "ID": "IRS_1",
       "SetID": "9gfkh7c",
       "Name": "Self assessed tax return",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -821,7 +826,7 @@
       "ID": "ITEM_3",
       "SetID": "9gfkh7c",
       "Name": "Surprise!!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -845,7 +850,7 @@
       "ID": "JUMP_1",
       "SetID": "9gfkh7c",
       "Name": "Up and down",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
       "UsersEstimate": 73
     },
@@ -917,7 +922,7 @@
       "ID": "METAL_BARS_SWA",
       "SetID": "9gfkh7c",
       "Name": "Haemochromatosis",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -933,7 +938,7 @@
       "ID": "ORC_HIPSTER_1",
       "SetID": "9gfkh7c",
       "Name": "Not so hip anymore!",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 10,
       "UsersEstimate": 77
     },
@@ -951,13 +956,13 @@
       "Name": "MLG 360 no scope kill!",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ORC_WARMAIDEN_1",
       "SetID": "9gfkh7c",
       "Name": "I like you...but I have to kill you...",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 10,
       "UsersEstimate": 78
     },
@@ -967,7 +972,7 @@
       "Name": "Nerd",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "OTHER_2",
@@ -981,7 +986,7 @@
       "ID": "OTHER_3",
       "SetID": "9gfkh7c",
       "Name": "Make Love not War-Craft a Mistlefoe",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 56
     },
@@ -1039,7 +1044,7 @@
       "Name": "Are you ready to rumble?",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "WHOOPASS_1",
@@ -1053,7 +1058,7 @@
       "ID": "WORM_1",
       "SetID": "9gfkh7c",
       "Name": "Slimy... yet satisfying",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 16
     }
@@ -1062,14 +1067,14 @@
     {
       "ID": "9gfkh7c",
       "IsBase": true,
-      "Progressed": 91,
+      "Progressed": 92,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-08-01T10:05:04.3774422+00:00",
+  "LastChanged_Achievements": "2023-08-01T11:04:51.3852498+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:53.0113435+00:00",
-  "LastUpdate_Ratings": "2023-08-01T09:57:43.1024544+00:00",
-  "LastUpdate_Achievements": "2023-08-01T10:05:04.3775368+00:00"
+  "LastUpdate_Ratings": "2023-08-01T10:57:48.8798274+00:00",
+  "LastUpdate_Achievements": "2023-08-01T11:04:51.3854215+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -568,9 +568,9 @@
       "ID": "locDungeon2",
       "SetID": "ci65fo0",
       "Name": "Bone cave",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "locGoblins",
@@ -648,9 +648,9 @@
       "ID": "questCemetery",
       "SetID": "ci65fo0",
       "Name": "Cemetery secrets",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "questCemetery2",
@@ -736,9 +736,9 @@
       "ID": "questKillGoblinMage",
       "SetID": "ci65fo0",
       "Name": "Goblins Conqueror",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "questKillSwampMonster",
@@ -824,9 +824,9 @@
       "ID": "questSavePrincess",
       "SetID": "ci65fo0",
       "Name": "The Savior of Princesses",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "questSavePrincessFinal",
@@ -885,8 +885,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-01T10:00:46.6746368+00:00",
+  "LastChanged_Achievements": "2023-08-01T11:01:39.4601819+00:00",
   "LastUpdate_AppInfo": "2023-07-26T10:57:01.3631939+00:00",
-  "LastUpdate_Ratings": "2023-08-01T09:57:26.9682559+00:00",
-  "LastUpdate_Achievements": "2023-08-01T10:00:46.6747485+00:00"
+  "LastUpdate_Ratings": "2023-08-01T10:57:28.4211717+00:00",
+  "LastUpdate_Achievements": "2023-08-01T11:01:39.4602886+00:00"
 }

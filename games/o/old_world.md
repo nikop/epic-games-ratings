@@ -19,6 +19,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 1.00% | ~132 |
 | The Great Mage | 1.00% | ~132 |
 | Poetic Leader | 1.00% | ~132 |
+| Enlightened | 0.90% | ~119 |
 | Good | 0.90% | ~119 |
 | Just | 0.90% | ~119 |
 | Noble | 0.90% | ~119 |
@@ -26,7 +27,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.90% | ~119 |
 | Naming Landmarks | 0.90% | ~119 |
 | Trade Caravan | 0.90% | ~119 |
-| Enlightened | 0.80% | ~106 |
 | Glorious | 0.80% | ~106 |
 | Keystone | 0.80% | ~106 |
 | Learned | 0.80% | ~106 |
@@ -34,24 +34,25 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 0.80% | ~106 |
 | Babylonian Paganism | 0.80% | ~106 |
 | Greek Paganism | 0.80% | ~106 |
-| Ambitious | 0.70% | ~92 |
-| Magnificent | 0.70% | ~92 |
-| Warrior | 0.70% | ~92 |
-| Wise | 0.70% | ~92 |
-| Developing Cities | 0.70% | ~92 |
-| Able Difficulty | 0.70% | ~92 |
-| Ishtar Gate | 0.70% | ~92 |
-| Lighthouse | 0.70% | ~92 |
-| Christianity | 0.70% | ~92 |
-| Carthaginian Paganism | 0.70% | ~92 |
-| Roman Paganism | 0.70% | ~92 |
-| Zoroastrianism | 0.70% | ~92 |
+| Ambitious | 0.70% | ~93 |
+| Fountainhead | 0.70% | ~93 |
+| Magnificent | 0.70% | ~93 |
+| Warrior | 0.70% | ~93 |
+| Wise | 0.70% | ~93 |
+| Developing Cities | 0.70% | ~93 |
+| Strong Cities | 0.70% | ~93 |
+| Able Difficulty | 0.70% | ~93 |
+| Ishtar Gate | 0.70% | ~93 |
+| Lighthouse | 0.70% | ~93 |
+| Christianity | 0.70% | ~93 |
+| Carthaginian Paganism | 0.70% | ~93 |
+| Roman Paganism | 0.70% | ~93 |
+| Zoroastrianism | 0.70% | ~93 |
 | Brilliant | 0.60% | ~79 |
-| Fountainhead | 0.60% | ~79 |
 | Great | 0.60% | ~79 |
-| Strong Cities | 0.60% | ~79 |
 | Artisans | 0.60% | ~79 |
 | Great Ziggurat | 0.60% | ~79 |
+| Musaeum | 0.60% | ~79 |
 | Necropolis | 0.60% | ~79 |
 | Learn to Play 1 | 0.60% | ~79 |
 | Regicide | 0.50% | ~66 |
@@ -63,8 +64,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.50% | ~66 |
 | Colossus | 0.50% | ~66 |
 | Mausoleum | 0.50% | ~66 |
-| Musaeum | 0.50% | ~66 |
 | Learn to Play 2 | 0.50% | ~66 |
+| Greece | 0.50% | ~66 |
 | Manichaeism | 0.50% | ~66 |
 | Egyptian Paganism | 0.50% | ~66 |
 | Mythology | 0.50% | ~66 |
@@ -75,10 +76,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.40% | ~53 |
 | Sages | 0.40% | ~53 |
 | Statesmen | 0.40% | ~53 |
+| Traders | 0.40% | ~53 |
 | Acropolis | 0.40% | ~53 |
-| Greece | 0.40% | ~53 |
 | Persian Paganism | 0.40% | ~53 |
 | Building Wonders | 0.40% | ~53 |
+| Legalism | 0.40% | ~53 |
 | Double Victory | 0.40% | ~53 |
 | Points Victory | 0.40% | ~53 |
 | Beloved | 0.30% | ~40 |
@@ -91,7 +93,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.30% | ~40 |
 | Strong Difficulty | 0.30% | ~40 |
 | Riders | 0.30% | ~40 |
-| Traders | 0.30% | ~40 |
 | Hittite Iron | 0.30% | ~40 |
 | Circus Maximus | 0.30% | ~40 |
 | Hagia Sophia | 0.30% | ~40 |
@@ -101,12 +102,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.30% | ~40 |
 | Via Recta Souk | 0.30% | ~40 |
 | Learn to Play 3 | 0.30% | ~40 |
+| Babylonia | 0.30% | ~40 |
 | Carthage | 0.30% | ~40 |
 | Power to the People | 0.30% | ~40 |
 | Assyrian Paganism | 0.30% | ~40 |
 | Economic Reform | 0.30% | ~40 |
 | Dualism | 0.30% | ~40 |
-| Legalism | 0.30% | ~40 |
 | Redemption | 0.30% | ~40 |
 | Revelation | 0.30% | ~40 |
 | Cimmerian Archer | 0.30% | ~40 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.20% | ~26 |
 | Landowners | 0.20% | ~26 |
 | Learn to Play 4 | 0.20% | ~26 |
-| Babylonia | 0.20% | ~26 |
 | Egypt | 0.20% | ~26 |
 | Rome | 0.20% | ~26 |
 | One True Faith | 0.20% | ~26 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,213 (Ranked 117)  
+Progressed: 13,215 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-07-29 | 13,164 | 5 |
 | 2023-07-30 | 13,191 | 5 |
 | 2023-07-31 | 13,209 | 5 |
-| 2023-08-01 | 13,213 | 5 |
+| 2023-08-01 | 13,215 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

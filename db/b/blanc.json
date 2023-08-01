@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2413,
+  "EOS_Progressed": 2414,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -2233,6 +2233,11 @@
       "Time": "2023-08-01T02:08:33.231555+00:00",
       "NumProgressed": 2413,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-01T11:03:08.5337967+00:00",
+      "NumProgressed": 2414,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2268,7 +2273,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "MOVE_ON",
@@ -2340,14 +2345,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2413,
+      "Progressed": 2414,
       "Completed": 6
     }
   ],
@@ -2355,8 +2360,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-01T10:03:48.9937943+00:00",
+  "LastChanged_Achievements": "2023-08-01T11:03:08.5337958+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:06.4701918+00:00",
-  "LastUpdate_Ratings": "2023-08-01T09:59:38.5195569+00:00",
-  "LastUpdate_Achievements": "2023-08-01T10:03:48.9938202+00:00"
+  "LastUpdate_Ratings": "2023-08-01T11:00:13.4800893+00:00",
+  "LastUpdate_Achievements": "2023-08-01T11:03:08.5338375+00:00"
 }

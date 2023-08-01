@@ -48,7 +48,7 @@
 | Play for 10 hours | 0.00% | ~0 |
 | Play for 24 hours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43 (Ranked 364)  
+Progressed: 44 (Ranked 364)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,4 +73,4 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-27 | 40 | 0 |
 | 2023-07-29 | 41 | 0 |
 | 2023-07-30 | 42 | 0 |
-| 2023-08-01 | 43 | 0 |
+| 2023-08-01 | 44 | 0 |

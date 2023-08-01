@@ -5452,10 +5452,10 @@
       "Count": 3332
     }
   ],
-  "EOS_Progressed": 217604,
+  "EOS_Progressed": 217612,
   "EOS_Completed": 2141,
-  "EOS_NewPlayers": 2271,
-  "EOS_NewCompleters": 45,
+  "EOS_NewPlayers": 2263,
+  "EOS_NewCompleters": 42,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16522,6 +16522,11 @@
       "Time": "2023-08-01T10:04:35.9915711+00:00",
       "NumProgressed": 217604,
       "NumCompleted": 2141
+    },
+    {
+      "Time": "2023-08-01T11:04:17.2101054+00:00",
+      "NumProgressed": 217612,
+      "NumCompleted": 2141
     }
   ],
   "TotalAchievements": 512,
@@ -17723,9 +17728,9 @@
       "ID": "objective_completed_164",
       "SetID": "cc37lbc",
       "Name": "A Mysterious Summons",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1306
     },
     {
       "ID": "objective_completed_165",
@@ -18499,9 +18504,9 @@
       "ID": "objective_completed_413",
       "SetID": "cc37lbc",
       "Name": "Towering Expectations",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 435
     },
     {
       "ID": "objective_completed_414",
@@ -20628,21 +20633,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183878,
+      "Progressed": 183886,
       "Completed": 3043
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217604,
+      "Progressed": 217612,
       "Completed": 2141
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-01T06:58:55.3799578+00:00",
-  "LastChanged_Achievements": "2023-08-01T10:04:35.9915706+00:00",
+  "LastChanged_Achievements": "2023-08-01T11:04:17.2101048+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-01T09:58:40.4331441+00:00",
-  "LastUpdate_Achievements": "2023-08-01T10:04:35.9943086+00:00"
+  "LastUpdate_Ratings": "2023-08-01T10:58:58.2220922+00:00",
+  "LastUpdate_Achievements": "2023-08-01T11:04:17.2132083+00:00"
 }

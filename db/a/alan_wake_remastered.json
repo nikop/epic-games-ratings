@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 59758,
+  "EOS_Progressed": 59760,
   "EOS_Completed": 61,
   "EOS_NewPlayers": 1059,
   "EOS_NewCompleters": 3,
@@ -9802,6 +9802,11 @@
       "Time": "2023-08-01T10:04:45.89187+00:00",
       "NumProgressed": 59758,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-08-01T11:04:28.8577063+00:00",
+      "NumProgressed": 59760,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 67,
@@ -9813,7 +9818,7 @@
       "Name": "Follow the Light",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 21513
+      "UsersEstimate": 21514
     },
     {
       "ID": "02",
@@ -9853,7 +9858,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9561
+      "UsersEstimate": 9562
     },
     {
       "ID": "07",
@@ -9861,7 +9866,7 @@
       "Name": "Heavy Metal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6573
+      "UsersEstimate": 6574
     },
     {
       "ID": "08",
@@ -9869,7 +9874,7 @@
       "Name": "Iron Horse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6573
+      "UsersEstimate": 6574
     },
     {
       "ID": "09",
@@ -9901,7 +9906,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6573
+      "UsersEstimate": 6574
     },
     {
       "ID": "13",
@@ -9941,7 +9946,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3585
+      "UsersEstimate": 3586
     },
     {
       "ID": "18",
@@ -10021,7 +10026,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6573
+      "UsersEstimate": 6574
     },
     {
       "ID": "28",
@@ -10029,7 +10034,7 @@
       "Name": "Come One, Come All",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6573
+      "UsersEstimate": 6574
     },
     {
       "ID": "29",
@@ -10061,7 +10066,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16732
+      "UsersEstimate": 16733
     },
     {
       "ID": "33",
@@ -10149,7 +10154,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9561
+      "UsersEstimate": 9562
     },
     {
       "ID": "44",
@@ -10171,9 +10176,9 @@
       "ID": "46",
       "SetID": "212770e",
       "Name": "Damn Good Cup of Coffee",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 7769
+      "UsersEstimate": 8366
     },
     {
       "ID": "47",
@@ -10348,21 +10353,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 59758,
+      "Progressed": 59760,
       "Completed": 61
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23226,
+      "Progressed": 23228,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-01T10:04:45.8918696+00:00",
+  "LastChanged_Achievements": "2023-08-01T11:04:28.8577059+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:35.0351219+00:00",
-  "LastUpdate_Ratings": "2023-08-01T09:58:11.346261+00:00",
-  "LastUpdate_Achievements": "2023-08-01T10:04:45.8920013+00:00"
+  "LastUpdate_Ratings": "2023-08-01T10:58:26.5802443+00:00",
+  "LastUpdate_Achievements": "2023-08-01T11:04:28.8578274+00:00"
 }

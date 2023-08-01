@@ -2,13 +2,13 @@
   "ID": "599d248ca46b45a8b40a3b4e484712cb",
   "Name": "The Crew 2 Standard Edition",
   "ProductSlug": "the-crew-2",
-  "Ranking_Rating": 273,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 190,
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2019-12-04T11:00:00+00:00",
     "PcReleaseDate": "2018-05-31T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.67,
   "NumberOfRatings": 2083,
   "RatingHistory": [
     {
@@ -4747,10 +4747,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 3721,
       "NumberOfAwardsMax": 549
+    },
+    {
+      "Time": "2023-08-01T11:01:00.2175155+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 3722,
+      "NumberOfAwardsMax": 549
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3721,
+  "NumberOfAwards": 3722,
   "NumberOfAwardsMax": 549,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4794,7 +4800,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 455
+      "Count": 456
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4826,8 +4832,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
-  "LastChanged": "2023-08-01T10:00:14.8128414+00:00",
+  "LastChanged": "2023-08-01T11:01:00.2175153+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:49.4780349+00:00",
-  "LastUpdate_Ratings": "2023-08-01T10:00:14.8128422+00:00",
-  "LastUpdate_Achievements": "2023-08-01T10:03:41.2379195+00:00"
+  "LastUpdate_Ratings": "2023-08-01T11:01:00.2175161+00:00",
+  "LastUpdate_Achievements": "2023-08-01T11:02:29.5294807+00:00"
 }

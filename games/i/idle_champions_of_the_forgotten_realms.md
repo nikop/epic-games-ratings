@@ -27,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.60% | ~1,306 |
 | A Persistent Buzzing | 0.60% | ~1,306 |
 | Terror in the Dark | 0.60% | ~1,306 |
+| A Mysterious Summons | 0.60% | ~1,306 |
 | Building Trust | 0.60% | ~1,306 |
 | Unearthed Evil | 0.60% | ~1,306 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,103 |
@@ -38,7 +39,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.50% | ~919 |
 | Beast Mode | 0.50% | ~1,088 |
 | Low Initiative | 0.50% | ~1,088 |
-| A Mysterious Summons | 0.50% | ~1,088 |
 | Street War | 0.50% | ~1,088 |
 | March of the Undead | 0.50% | ~1,088 |
 | No Time To Rest | 0.50% | ~1,088 |
@@ -181,6 +181,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimble Escape | 0.20% | ~435 |
 | Fugitives | 0.20% | ~435 |
 | Excavating History | 0.20% | ~435 |
+| Towering Expectations | 0.20% | ~435 |
 | Hopelessly Lost | 0.20% | ~435 |
 | Enter the Sargauth | 0.20% | ~435 |
 | Slow and Steady | 0.20% | ~435 |
@@ -330,7 +331,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Screams of the Dead | 0.10% | ~218 |
 | Frantic Excavation | 0.10% | ~218 |
 | Birds of a Feather | 0.10% | ~184 |
-| Towering Expectations | 0.10% | ~218 |
 | Guests of the Groom | 0.10% | ~218 |
 | Careful Consideration | 0.10% | ~218 |
 | Tanking Expectations | 0.10% | ~184 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,604 (Ranked 53)  
+Progressed: 217,612 (Ranked 53)  
 Completed: 2,141 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,7 +622,7 @@ Completed: 2,141 (0.98%) (Ranked 112)
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
-| 2023-08-01 | 217,604 | 2,141 |
+| 2023-08-01 | 217,612 | 2,141 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
 Sum: 30,840 (Ranked 38)  

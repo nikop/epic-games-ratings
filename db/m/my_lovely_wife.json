@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
     "PcReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -463,9 +463,9 @@
       "ID": "ACH_KILL_SUCC_1",
       "SetID": "ajki3eh",
       "Name": "I... I did it?",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 484
     },
     {
       "ID": "ACH_KILL_SUCC_2",
@@ -615,8 +615,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-08-01T10:05:32.7010691+00:00",
+  "LastChanged_Achievements": "2023-08-01T11:05:22.6394333+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:03.2644945+00:00",
-  "LastUpdate_Ratings": "2023-08-01T09:58:41.6448375+00:00",
-  "LastUpdate_Achievements": "2023-08-01T10:05:32.7010973+00:00"
+  "LastUpdate_Ratings": "2023-08-01T10:58:59.7259758+00:00",
+  "LastUpdate_Achievements": "2023-08-01T11:05:22.6394587+00:00"
 }
