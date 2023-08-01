@@ -10,10 +10,10 @@
 | Hammer Time | 45.00% | ~10 |
 | Escape From M.C. | 27.00% | ~6 |
 | Restore Honor | 27.00% | ~6 |
+| Overkill | 9.00% | ~2 |
 | Gibbing Love | 5.00% | ~1 |
 | Lieutenant | 5.00% | ~1 |
 | Dust to Dust | 5.00% | ~1 |
-| Overkill | 5.00% | ~1 |
 | Bring Down the Corp | 5.00% | ~1 |
 | Knife Juggler | 5.00% | ~1 |
 | Head of the Snake | 0.00% | ~0 |

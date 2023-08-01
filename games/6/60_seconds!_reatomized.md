@@ -62,8 +62,8 @@ Rating: 4.64 (Ranked 316)
 | Naysayer | 0.60% | ~29 |
 | Manhattan Project | 0.50% | ~24 |
 | Fair Exchange | 0.40% | ~19 |
+| Miracle | 0.30% | ~14 |
 | Tora! Tora! Tora! | 0.20% | ~10 |
-| Miracle | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,829 (Ranked 141)  

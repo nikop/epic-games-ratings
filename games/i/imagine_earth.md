@@ -11,7 +11,7 @@ Number of Ratings: 22  (23.09.2022)
 | Campaign Bronze | 36.00% | ~144 |
 | Lorian | 31.00% | ~124 |
 | Metropolis | 27.00% | ~108 |
-| Rounos | 23.00% | ~92 |
+| Rounos | 24.00% | ~96 |
 | Campaign Silver | 21.00% | ~84 |
 | Magni | 21.00% | ~84 |
 | Bora | 18.00% | ~72 |
@@ -31,7 +31,7 @@ Number of Ratings: 22  (23.09.2022)
 | Competitor Silver | 0.30% | ~1 |
 | Competitor Gold | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 399 (Ranked 234)  
+Progressed: 399 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |

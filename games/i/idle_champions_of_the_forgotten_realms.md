@@ -54,14 +54,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.50% | ~919 |
 | Krux's Speed Run | 0.50% | ~919 |
 | Upholding the Law | 0.40% | ~870 |
-| Thieves of the Coven | 0.40% | ~735 |
-| Hither of the Feywild | 0.40% | ~735 |
-| Speeds of Destruction | 0.40% | ~735 |
+| Thieves of the Coven | 0.40% | ~736 |
+| Hither of the Feywild | 0.40% | ~736 |
+| Speeds of Destruction | 0.40% | ~736 |
 | On the Hunt | 0.40% | ~870 |
-| A Demi-god's Defender | 0.40% | ~735 |
+| A Demi-god's Defender | 0.40% | ~736 |
 | Homecoming | 0.40% | ~870 |
-| No One Can Hear You Scream | 0.40% | ~735 |
-| Welcome to the Rock | 0.40% | ~735 |
+| No One Can Hear You Scream | 0.40% | ~736 |
+| Welcome to the Rock | 0.40% | ~736 |
 | Wisdom Check | 0.40% | ~870 |
 | Invisible Shadows | 0.40% | ~870 |
 | Family Entanglements | 0.40% | ~870 |
@@ -71,10 +71,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.40% | ~870 |
 | Waterdeep Detours | 0.40% | ~870 |
 | Friendly Imps | 0.40% | ~870 |
-| Luigi After Hours | 0.40% | ~735 |
-| Electric Mayhem | 0.40% | ~735 |
-| 3,720 to 1 | 0.40% | ~735 |
-| Animated Giff | 0.40% | ~735 |
+| Luigi After Hours | 0.40% | ~736 |
+| Electric Mayhem | 0.40% | ~736 |
+| 3,720 to 1 | 0.40% | ~736 |
+| Animated Giff | 0.40% | ~736 |
 | Nightmare Rats! | 0.30% | ~552 |
 | The Prince of a Thousand Enemies | 0.30% | ~552 |
 | Downfall | 0.30% | ~552 |
@@ -209,6 +209,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Moose Tracks | 0.20% | ~368 |
 | Civilization | 0.20% | ~368 |
 | Durable Deep | 0.20% | ~435 |
+| The Sibriex | 0.20% | ~368 |
 | Expert Opinion | 0.20% | ~435 |
 | Dwarven Rumors | 0.20% | ~368 |
 | Sunblight | 0.20% | ~368 |
@@ -447,7 +448,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trench Coat Run | 0.10% | ~184 |
 | The Taunting Lord | 0.10% | ~184 |
 | Lone Wolf Party | 0.10% | ~184 |
-| The Sibriex | 0.10% | ~184 |
 | The Archduke's Blessing | 0.10% | ~184 |
 | A Neutral Party | 0.10% | ~184 |
 | Wrecked Flying Fortress | 0.10% | ~184 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,591 (Ranked 53)  
+Progressed: 217,604 (Ranked 53)  
 Completed: 2,141 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,7 +622,7 @@ Completed: 2,141 (0.98%) (Ranked 112)
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
-| 2023-08-01 | 217,591 | 2,141 |
+| 2023-08-01 | 217,604 | 2,141 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
 Sum: 30,840 (Ranked 38)  

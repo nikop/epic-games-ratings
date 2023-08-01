@@ -222,9 +222,9 @@
       "ID": "ACH_ENEMIES_1000",
       "SetID": "a2aifpa",
       "Name": "Overkill",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FLAWLESS_BOSS",
@@ -341,8 +341,8 @@
   ],
   "FirstSeen": "2023-07-30T18:59:40.5539908+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2023-08-01T09:06:06.9258745+00:00",
+  "LastChanged_Achievements": "2023-08-01T10:05:54.282047+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:40.3156912+00:00",
-  "LastUpdate_Ratings": "2023-08-01T08:59:37.0739212+00:00",
-  "LastUpdate_Achievements": "2023-08-01T09:06:06.9258906+00:00"
+  "LastUpdate_Ratings": "2023-08-01T09:59:16.1803404+00:00",
+  "LastUpdate_Achievements": "2023-08-01T10:05:54.2820683+00:00"
 }

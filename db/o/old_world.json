@@ -10397,9 +10397,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Pyramids",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
@@ -10741,9 +10741,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonian Paganism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
@@ -11315,8 +11315,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-29T07:58:48.2149836+00:00",
-  "LastChanged_Achievements": "2023-08-01T09:06:52.146367+00:00",
+  "LastChanged_Achievements": "2023-08-01T10:06:32.3200372+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.4550053+00:00",
-  "LastUpdate_Ratings": "2023-08-01T08:58:43.3136816+00:00",
-  "LastUpdate_Achievements": "2023-08-01T09:06:52.1471003+00:00"
+  "LastUpdate_Ratings": "2023-08-01T09:58:28.4532306+00:00",
+  "LastUpdate_Achievements": "2023-08-01T10:06:32.3210445+00:00"
 }

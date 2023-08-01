@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 97.00% | ~418 |
-| A tiny town | 86.00% | ~371 |
-| Buildings, roads, cars, ...and people | 66.00% | ~284 |
-| Great view from the beach and from the hill | 57.00% | ~246 |
+| Welcome! | 97.00% | ~420 |
+| A tiny town | 86.00% | ~372 |
+| Buildings, roads, cars, ...and people | 66.00% | ~286 |
+| Great view from the beach and from the hill | 57.00% | ~247 |
 | Bridges to come and go | 50.00% | ~216 |
-| Found an oasis | 44.00% | ~190 |
-| Burger or pizza? | 40.00% | ~172 |
+| Found an oasis | 44.00% | ~191 |
+| Burger or pizza? | 40.00% | ~173 |
 | Passion for sports | 34.00% | ~147 |
-| Who loves trains? | 31.00% | ~134 |
-| Easy and steady climb | 29.00% | ~125 |
-| At the heart of the city | 27.00% | ~116 |
-| Calm neighborhood | 26.00% | ~112 |
-| Elevated ring | 24.00% | ~103 |
-| Not lonely anymore | 23.00% | ~99 |
-| Monumental tribute | 23.00% | ~99 |
+| Who loves trains? | 30.00% | ~130 |
+| Easy and steady climb | 29.00% | ~126 |
+| At the heart of the city | 27.00% | ~117 |
+| Calm neighborhood | 26.00% | ~113 |
+| Elevated ring | 24.00% | ~104 |
+| Not lonely anymore | 23.00% | ~100 |
+| Monumental tribute | 23.00% | ~100 |
 | The beach is right there | 21.00% | ~91 |
 | Commuting | 21.00% | ~91 |
 | Le jardin magnifique | 21.00% | ~91 |
-| Aiming for a living and human city | 20.00% | ~86 |
+| Aiming for a living and human city | 20.00% | ~87 |
 | City of dreams | 19.00% | ~82 |
 | Happy Christmas night! | 18.00% | ~78 |
 | Night walk along the beach | 18.00% | ~78 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 431 (Ranked 229)  
-Completed: 81 (18.79%) (Ranked 13)  
+Progressed: 433 (Ranked 229)  
+Completed: 81 (18.71%) (Ranked 13)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,7 +120,7 @@ Completed: 81 (18.79%) (Ranked 13)
 | 2023-07-29 | 423 | 78 |
 | 2023-07-30 | 427 | 79 |
 | 2023-07-31 | 429 | 80 |
-| 2023-08-01 | 431 | 81 |
+| 2023-08-01 | 433 | 81 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

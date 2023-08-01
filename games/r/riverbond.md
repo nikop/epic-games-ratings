@@ -7,11 +7,11 @@ Number of Ratings: 617  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~366,675 |
-| Now You're Talking | 62.00% | ~324,769 |
-| Steel Yourself | 62.00% | ~324,769 |
-| Window Dressing | 50.00% | ~261,910 |
+| Now You're Talking | 62.00% | ~324,770 |
+| Steel Yourself | 62.00% | ~324,770 |
+| Window Dressing | 50.00% | ~261,911 |
 | Trigger Happy | 46.00% | ~240,958 |
-| Riverborn | 45.00% | ~235,719 |
+| Riverborn | 45.00% | ~235,720 |
 | Starry Eyed | 34.00% | ~178,099 |
 | Poking Around | 34.00% | ~178,099 |
 | Talk of the Town | 24.00% | ~125,717 |
@@ -20,7 +20,7 @@ Number of Ratings: 617  (23.09.2022)
 | Wind At Our Backs | 22.00% | ~115,241 |
 | To the Beat | 20.00% | ~104,764 |
 | Sunny Shores | 17.00% | ~89,050 |
-| Sunday Best | 16.00% | ~83,811 |
+| Sunday Best | 16.00% | ~83,812 |
 | To Victory! | 15.00% | ~78,573 |
 | Two of a Kind | 14.00% | ~73,335 |
 | Keep On Trucking | 13.00% | ~68,097 |
@@ -30,9 +30,9 @@ Number of Ratings: 617  (23.09.2022)
 | Not So Cute Anymore | 10.00% | ~52,382 |
 | Road Less Travelled | 9.00% | ~47,144 |
 | Lost and Found | 9.00% | ~47,144 |
-| Partner in Crime | 7.00% | ~36,667 |
-| Hard to Hear | 7.00% | ~36,667 |
-| Under the Radar | 7.00% | ~36,667 |
+| Partner in Crime | 7.00% | ~36,668 |
+| Hard to Hear | 7.00% | ~36,668 |
+| Under the Radar | 7.00% | ~36,668 |
 | Moving On Up | 6.00% | ~31,429 |
 | Owl Knows Best | 6.00% | ~31,429 |
 | Mind the Moose | 6.00% | ~31,429 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,571 |
 | Point Taken | 0.10% | ~524 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523,821 (Ranked 30)  
+Progressed: 523,822 (Ranked 30)  
 Completed: 453 (0.09%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 453 (0.09%) (Ranked 198)
 | 2023-07-29 | 523,594 | 452 |
 | 2023-07-30 | 523,720 | 453 |
 | 2023-07-31 | 523,791 | 453 |
-| 2023-08-01 | 523,821 | 453 |
+| 2023-08-01 | 523,822 | 453 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

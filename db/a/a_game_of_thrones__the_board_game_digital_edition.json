@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1263,9 +1263,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 20187,
+  "EOS_Progressed": 20189,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 752,
+  "EOS_NewPlayers": 751,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -12138,6 +12138,11 @@
       "Time": "2023-08-01T09:04:10.8187501+00:00",
       "NumProgressed": 20187,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-01T10:04:16.0826785+00:00",
+      "NumProgressed": 20189,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 22,
@@ -12269,7 +12274,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4037
+      "UsersEstimate": 4038
     },
     {
       "ID": "1031",
@@ -12285,7 +12290,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 8075
+      "UsersEstimate": 8076
     },
     {
       "ID": "1033",
@@ -12309,7 +12314,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "1036",
@@ -12324,15 +12329,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 20187,
+      "Progressed": 20189,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-08-01T09:04:10.8187496+00:00",
+  "LastChanged_Achievements": "2023-08-01T10:04:16.082678+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:09.3482059+00:00",
-  "LastUpdate_Ratings": "2023-08-01T09:01:06.2687319+00:00",
-  "LastUpdate_Achievements": "2023-08-01T09:04:10.8188234+00:00"
+  "LastUpdate_Ratings": "2023-08-01T10:00:29.0699613+00:00",
+  "LastUpdate_Achievements": "2023-08-01T10:04:16.0827631+00:00"
 }

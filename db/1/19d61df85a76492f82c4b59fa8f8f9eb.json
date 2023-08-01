@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 28,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 241,
+  "EOS_Progressed": 242,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 9.13,
+  "EOS_Completed_Percentage": 9.09,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1116,6 +1116,11 @@
       "Time": "2023-08-01T09:05:43.664226+00:00",
       "NumProgressed": 241,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-08-01T10:05:35.0649568+00:00",
+      "NumProgressed": 242,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 6,
@@ -1125,9 +1130,9 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 175,
-      "UsersEstimate": 142
+      "UsersEstimate": 140
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -1141,9 +1146,9 @@
       "ID": "CgkIgaGB2J0LEAIQAg",
       "SetID": "4ocea6d",
       "Name": "Viola Organista",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 165,
-      "UsersEstimate": 111
+      "UsersEstimate": 109
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -1157,9 +1162,9 @@
       "ID": "CgkIgaGB2J0LEAIQBA",
       "SetID": "4ocea6d",
       "Name": "Revolving Bridge",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 165,
-      "UsersEstimate": 65
+      "UsersEstimate": 63
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -1174,14 +1179,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 241,
+      "Progressed": 242,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-01T09:05:43.6642255+00:00",
+  "LastChanged_Achievements": "2023-08-01T10:05:35.0649562+00:00",
   "LastUpdate_AppInfo": "2023-07-27T13:57:11.6016453+00:00",
-  "LastUpdate_Ratings": "2023-08-01T08:57:28.5018859+00:00",
-  "LastUpdate_Achievements": "2023-08-01T09:05:43.6642354+00:00"
+  "LastUpdate_Ratings": "2023-08-01T09:57:26.9651426+00:00",
+  "LastUpdate_Achievements": "2023-08-01T10:05:35.0649716+00:00"
 }

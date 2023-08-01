@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -202,9 +202,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1729,
+  "EOS_Progressed": 1730,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2152,6 +2152,11 @@
       "Time": "2023-08-01T02:09:39.7240664+00:00",
       "NumProgressed": 1729,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T10:04:34.447835+00:00",
+      "NumProgressed": 1730,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2227,7 +2232,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "Achievement_011",
@@ -2283,7 +2288,7 @@
       "Name": "Bad Wiring",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "Achievement_018",
@@ -2299,7 +2304,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "Achievement_020",
@@ -2355,7 +2360,7 @@
       "Name": "Fly Fisher",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Achievement_027",
@@ -2379,7 +2384,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Achievement_030",
@@ -2395,7 +2400,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "Achievement_032",
@@ -2411,7 +2416,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "Achievement_034",
@@ -2690,7 +2695,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1729,
+      "Progressed": 1730,
       "Completed": 0
     }
   ],
@@ -2698,8 +2703,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-07-23T15:58:25.0076082+00:00",
-  "LastChanged_Achievements": "2023-08-01T09:04:32.8653939+00:00",
+  "LastChanged_Achievements": "2023-08-01T10:04:34.4478345+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:42.1299484+00:00",
-  "LastUpdate_Ratings": "2023-08-01T08:58:35.5981341+00:00",
-  "LastUpdate_Achievements": "2023-08-01T09:04:32.865455+00:00"
+  "LastUpdate_Ratings": "2023-08-01T09:58:21.8366846+00:00",
+  "LastUpdate_Achievements": "2023-08-01T10:04:34.447923+00:00"
 }

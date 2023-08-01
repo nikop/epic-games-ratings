@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 13,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 433,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 18.79,
+  "EOS_Completed_Percentage": 18.71,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2088,6 +2088,11 @@
       "Time": "2023-08-01T07:04:06.810735+00:00",
       "NumProgressed": 431,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-08-01T10:04:13.3324685+00:00",
+      "NumProgressed": 433,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 22,
@@ -2099,7 +2104,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 418
+      "UsersEstimate": 420
     },
     {
       "ID": "LEVEL_002",
@@ -2107,7 +2112,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "LEVEL_003",
@@ -2115,7 +2120,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 284
+      "UsersEstimate": 286
     },
     {
       "ID": "LEVEL_004",
@@ -2123,7 +2128,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "LEVEL_005",
@@ -2139,7 +2144,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "LEVEL_007",
@@ -2147,7 +2152,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "LEVEL_008",
@@ -2161,9 +2166,9 @@
       "ID": "LEVEL_009",
       "SetID": "3khpmem",
       "Name": "Who loves trains?",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 134
+      "UsersEstimate": 130
     },
     {
       "ID": "LEVEL_010",
@@ -2171,7 +2176,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "LEVEL_011",
@@ -2179,7 +2184,7 @@
       "Name": "At the heart of the city",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "LEVEL_012",
@@ -2187,7 +2192,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "LEVEL_013",
@@ -2195,7 +2200,7 @@
       "Name": "Elevated ring",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "LEVEL_014",
@@ -2203,7 +2208,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "LEVEL_015",
@@ -2211,7 +2216,7 @@
       "Name": "Monumental tribute",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "LEVEL_016",
@@ -2243,7 +2248,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "LEVEL_020",
@@ -2274,7 +2279,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 433,
       "Completed": 81
     }
   ],
@@ -2282,8 +2287,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-08-01T09:04:07.0083368+00:00",
+  "LastChanged_Achievements": "2023-08-01T10:04:13.3324675+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:55.2732426+00:00",
-  "LastUpdate_Ratings": "2023-08-01T08:58:49.8876147+00:00",
-  "LastUpdate_Achievements": "2023-08-01T09:04:07.0083594+00:00"
+  "LastUpdate_Ratings": "2023-08-01T09:58:35.0042502+00:00",
+  "LastUpdate_Achievements": "2023-08-01T10:04:13.3324977+00:00"
 }

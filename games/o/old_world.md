@@ -30,7 +30,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.80% | ~106 |
 | Keystone | 0.80% | ~106 |
 | Learned | 0.80% | ~106 |
+| Pyramids | 0.80% | ~106 |
 | Judaism | 0.80% | ~106 |
+| Babylonian Paganism | 0.80% | ~106 |
 | Greek Paganism | 0.80% | ~106 |
 | Ambitious | 0.70% | ~92 |
 | Magnificent | 0.70% | ~92 |
@@ -40,9 +42,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 0.70% | ~92 |
 | Ishtar Gate | 0.70% | ~92 |
 | Lighthouse | 0.70% | ~92 |
-| Pyramids | 0.70% | ~92 |
 | Christianity | 0.70% | ~92 |
-| Babylonian Paganism | 0.70% | ~92 |
 | Carthaginian Paganism | 0.70% | ~92 |
 | Roman Paganism | 0.70% | ~92 |
 | Zoroastrianism | 0.70% | ~92 |

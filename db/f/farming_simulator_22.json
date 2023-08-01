@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -7365,9 +7365,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 46422,
+  "EOS_Progressed": 46423,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16380,6 +16380,11 @@
       "Time": "2023-08-01T09:04:50.4483173+00:00",
       "NumProgressed": 46422,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-01T10:04:48.9628071+00:00",
+      "NumProgressed": 46423,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -16471,7 +16476,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 29710
+      "UsersEstimate": 29711
     },
     {
       "ID": "CutTree",
@@ -16487,7 +16492,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 28317
+      "UsersEstimate": 28318
     },
     {
       "ID": "DeliveryGrapes",
@@ -16527,7 +16532,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 27853
+      "UsersEstimate": 27854
     },
     {
       "ID": "Harvested",
@@ -16543,7 +16548,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 34816
+      "UsersEstimate": 34817
     },
     {
       "ID": "HorseJumps",
@@ -16591,7 +16596,7 @@
       "Name": "Help me to help you",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 17640
+      "UsersEstimate": 17641
     },
     {
       "ID": "Money",
@@ -16671,7 +16676,7 @@
       "Name": "It\u0027s sow easy",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 5106
+      "UsersEstimate": 5107
     },
     {
       "ID": "SowFirst",
@@ -16695,7 +16700,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 19961
+      "UsersEstimate": 19962
     },
     {
       "ID": "TruckDriving",
@@ -16734,15 +16739,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 46422,
+      "Progressed": 46423,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-08-01T08:00:06.5783389+00:00",
-  "LastChanged_Achievements": "2023-08-01T09:04:50.4483169+00:00",
+  "LastChanged_Achievements": "2023-08-01T10:04:48.9628068+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:27.4750397+00:00",
-  "LastUpdate_Ratings": "2023-08-01T09:00:31.5932754+00:00",
-  "LastUpdate_Achievements": "2023-08-01T09:04:50.4483766+00:00"
+  "LastUpdate_Ratings": "2023-08-01T09:59:59.8799334+00:00",
+  "LastUpdate_Achievements": "2023-08-01T10:04:48.9629015+00:00"
 }

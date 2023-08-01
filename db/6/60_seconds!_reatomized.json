@@ -4165,9 +4165,9 @@
       "ID": "ACH_PAN_KROWA",
       "SetID": "5nj1ea3",
       "Name": "Miracle",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_PRESENT",
@@ -4294,8 +4294,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-07-30T17:01:28.4100143+00:00",
-  "LastChanged_Achievements": "2023-08-01T09:05:06.5766095+00:00",
+  "LastChanged_Achievements": "2023-08-01T10:05:01.7741832+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:21.1822177+00:00",
-  "LastUpdate_Ratings": "2023-08-01T09:01:17.0930328+00:00",
-  "LastUpdate_Achievements": "2023-08-01T09:05:06.5766688+00:00"
+  "LastUpdate_Ratings": "2023-08-01T10:00:39.7951071+00:00",
+  "LastUpdate_Achievements": "2023-08-01T10:05:01.7742639+00:00"
 }
