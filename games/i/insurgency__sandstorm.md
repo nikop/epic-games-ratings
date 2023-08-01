@@ -6,20 +6,20 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~21,366 |
-| Exploitative | 4.00% | ~17,093 |
-| Point Shooting | 4.00% | ~17,093 |
-| Wet Feet | 4.00% | ~17,093 |
+| Wallbanger | 5.00% | ~21,367 |
+| Exploitative | 4.00% | ~17,094 |
+| Point Shooting | 4.00% | ~17,094 |
+| Wet Feet | 4.00% | ~17,094 |
 | High Speed Low Drag | 3.00% | ~12,820 |
 | Lucky | 3.00% | ~12,820 |
 | Stylin' | 3.00% | ~12,820 |
 | Turf War | 3.00% | ~12,820 |
-| Banged | 2.00% | ~8,546 |
-| Checkpoint Victory | 2.00% | ~8,546 |
-| First Blood | 2.00% | ~8,546 |
-| Flaccid Paralysis | 2.00% | ~8,546 |
-| Push Victory | 2.00% | ~8,546 |
-| Self-destructive | 2.00% | ~8,546 |
+| Banged | 2.00% | ~8,547 |
+| Checkpoint Victory | 2.00% | ~8,547 |
+| First Blood | 2.00% | ~8,547 |
+| Flaccid Paralysis | 2.00% | ~8,547 |
+| Push Victory | 2.00% | ~8,547 |
+| Self-destructive | 2.00% | ~8,547 |
 | Blindfire | 1.00% | ~4,273 |
 | Ruthless | 1.00% | ~4,273 |
 | Semper Paratus | 1.00% | ~4,273 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~427 |
 | Road Hazard | 0.10% | ~427 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427,322 (Ranked 38)  
+Progressed: 427,348 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,6 +145,7 @@ Completed: 2 (0.00%) (Ranked 247)
 | 2023-07-29 | 425,652 | 2 |
 | 2023-07-30 | 426,564 | 2 |
 | 2023-07-31 | 427,322 | 2 |
+| 2023-08-01 | 427,348 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 367  (Ranked 220)  
 Sum: 2,857 (Ranked 168)  

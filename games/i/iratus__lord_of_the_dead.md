@@ -57,8 +57,8 @@ Number of Ratings: 10,109  (23.09.2022)
 | Bane of Mercenaries - III | 10.00% | ~3,632 |
 | Monument to Greatness | 10.00% | ~3,632 |
 | Ancient Burial | 10.00% | ~3,632 |
+| Forbidden Knowledge | 10.00% | ~3,632 |
 | More Mortal Suffering! | 9.00% | ~3,268 |
-| Forbidden Knowledge | 9.00% | ~3,268 |
 | Live Operation | 9.00% | ~3,268 |
 | Master of Rage | 8.00% | ~2,905 |
 | Icy Incursion | 8.00% | ~2,905 |

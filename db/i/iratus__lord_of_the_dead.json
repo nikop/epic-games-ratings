@@ -2088,7 +2088,7 @@
   ],
   "EOS_Progressed": 36316,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 638,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -13222,9 +13222,9 @@
       "ID": "achievements_42",
       "SetID": "6hgbao0",
       "Name": "Forbidden Knowledge",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3268
+      "UsersEstimate": 3632
     },
     {
       "ID": "achievements_43",
@@ -13558,8 +13558,8 @@
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-07-28T08:00:15.0195129+00:00",
-  "LastChanged_Achievements": "2023-07-31T23:01:43.7637128+00:00",
+  "LastChanged_Achievements": "2023-08-01T00:00:42.2912319+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:37.6782361+00:00",
-  "LastUpdate_Ratings": "2023-07-31T22:59:42.3639448+00:00",
-  "LastUpdate_Achievements": "2023-07-31T23:01:43.7638388+00:00"
+  "LastUpdate_Ratings": "2023-07-31T23:59:04.2717477+00:00",
+  "LastUpdate_Achievements": "2023-08-01T00:00:42.2913509+00:00"
 }

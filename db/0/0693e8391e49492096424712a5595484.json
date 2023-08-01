@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 286,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 6.29,
   "EosHistory": [
@@ -1052,9 +1052,9 @@
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 160
     },
     {
       "ID": "BearPoppiesBroth",
@@ -1100,9 +1100,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 203
     },
     {
       "ID": "BroomAmanita",
@@ -1212,9 +1212,9 @@
       "ID": "HatFlower",
       "SetID": "db30heh",
       "Name": "Flower",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 152
     },
     {
       "ID": "KingDiamond",
@@ -1252,9 +1252,9 @@
       "ID": "PriestPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Zonked",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "PriestRogue",
@@ -1300,9 +1300,9 @@
       "ID": "RogueEat",
       "SetID": "db30heh",
       "Name": "Debt Free",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 269
     },
     {
       "ID": "RogueKing",
@@ -1387,8 +1387,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-31T23:06:33.2627653+00:00",
+  "LastChanged_Achievements": "2023-08-01T00:06:02.1258386+00:00",
   "LastUpdate_AppInfo": "2023-07-25T14:57:10.2093815+00:00",
-  "LastUpdate_Ratings": "2023-07-31T22:57:36.4410051+00:00",
-  "LastUpdate_Achievements": "2023-07-31T23:06:33.2628012+00:00"
+  "LastUpdate_Ratings": "2023-07-31T23:57:22.0967593+00:00",
+  "LastUpdate_Achievements": "2023-08-01T00:06:02.1258903+00:00"
 }

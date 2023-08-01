@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 914,
+  "Ranking_Rating": 915,
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
@@ -5434,10 +5434,10 @@
       "Count": 3332
     }
   ],
-  "EOS_Progressed": 217503,
+  "EOS_Progressed": 217512,
   "EOS_Completed": 2140,
-  "EOS_NewPlayers": 2285,
-  "EOS_NewCompleters": 69,
+  "EOS_NewPlayers": 2276,
+  "EOS_NewCompleters": 62,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16454,6 +16454,11 @@
       "Time": "2023-07-31T23:04:26.0968342+00:00",
       "NumProgressed": 217503,
       "NumCompleted": 2140
+    },
+    {
+      "Time": "2023-08-01T00:04:17.1178866+00:00",
+      "NumProgressed": 217512,
+      "NumCompleted": 2140
     }
   ],
   "TotalAchievements": 512,
@@ -16537,7 +16542,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "objective_completed_1051",
@@ -17089,7 +17094,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "objective_completed_1153",
@@ -17169,7 +17174,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "objective_completed_1169",
@@ -19663,9 +19668,9 @@
       "ID": "objective_completed_77",
       "SetID": "cc37lbc",
       "Name": "Rude Welcome",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 653
     },
     {
       "ID": "objective_completed_79",
@@ -20537,7 +20542,7 @@
       "Name": "Topolah\u0027s Tower",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "objective_completed_1391",
@@ -20560,21 +20565,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183777,
+      "Progressed": 183786,
       "Completed": 3041
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217503,
+      "Progressed": 217512,
       "Completed": 2140
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-31T21:58:54.7454858+00:00",
-  "LastChanged_Achievements": "2023-07-31T23:04:26.0968338+00:00",
+  "LastChanged_Achievements": "2023-08-01T00:04:17.1178861+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-07-31T22:59:02.7460138+00:00",
-  "LastUpdate_Achievements": "2023-07-31T23:04:26.0992375+00:00"
+  "LastUpdate_Ratings": "2023-07-31T23:58:32.9718197+00:00",
+  "LastUpdate_Achievements": "2023-08-01T00:04:17.1202015+00:00"
 }

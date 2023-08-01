@@ -25,6 +25,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 0.20% | ~267 |
 | Gild-Gotten Goods | 0.20% | ~267 |
 | One-Armed Bandit | 0.20% | ~267 |
+| Accomplished Merchant | 0.20% | ~267 |
 | Dungeon Imports | 0.20% | ~267 |
 | Through Repetition, Perfection | 0.20% | ~267 |
 | Own the Means of Production | 0.20% | ~267 |
@@ -85,7 +86,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 0.10% | ~134 |
 | JACKPOT!!! | 0.10% | ~134 |
 | Item of Renown | 0.10% | ~134 |
-| Accomplished Merchant | 0.10% | ~134 |
 | Master Merchant | 0.10% | ~134 |
 | Merchant Extraordinaire | 0.10% | ~134 |
 | Miracle Alchemist | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,652 (Ranked 62)  
+Progressed: 133,653 (Ranked 62)  
 Completed: 124 (0.09%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,6 +222,7 @@ Completed: 124 (0.09%) (Ranked 198)
 | 2023-07-29 | 133,512 | 124 |
 | 2023-07-30 | 133,588 | 124 |
 | 2023-07-31 | 133,652 | 124 |
+| 2023-08-01 | 133,653 | 124 |
 ## Awards
 Max (Great for Beginners): 4,679  (Ranked 70)  
 Sum: 27,015 (Ranked 46)  

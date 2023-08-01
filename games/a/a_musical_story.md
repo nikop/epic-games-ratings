@@ -25,8 +25,8 @@
 | Threatening Nature | 23.00% | ~20 |
 | TV Dreams | 22.00% | ~19 |
 | Flat Tire | 21.00% | ~18 |
+| The Clash | 17.00% | ~15 |
 | Dreamers | 17.00% | ~15 |
-| The Clash | 16.00% | ~14 |
 | The Fix | 15.00% | ~13 |
 | Time | 12.00% | ~10 |
 | Regrets | 12.00% | ~10 |

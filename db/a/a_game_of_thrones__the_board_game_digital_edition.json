@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1263,7 +1263,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 20163,
+  "EOS_Progressed": 20165,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 751,
   "EOS_NewCompleters": 1,
@@ -12103,6 +12103,11 @@
       "Time": "2023-07-31T23:04:07.4603173+00:00",
       "NumProgressed": 20163,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-01T00:04:01.4484043+00:00",
+      "NumProgressed": 20165,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 22,
@@ -12122,7 +12127,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "1017",
@@ -12146,7 +12151,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "1020",
@@ -12218,7 +12223,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3629
+      "UsersEstimate": 3630
     },
     {
       "ID": "1029",
@@ -12250,7 +12255,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 8065
+      "UsersEstimate": 8066
     },
     {
       "ID": "1033",
@@ -12266,7 +12271,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "1035",
@@ -12289,15 +12294,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 20163,
+      "Progressed": 20165,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-07-31T23:04:07.4603169+00:00",
+  "LastChanged_Achievements": "2023-08-01T00:04:01.4484036+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:09.3482059+00:00",
-  "LastUpdate_Ratings": "2023-07-31T23:01:14.6530589+00:00",
-  "LastUpdate_Achievements": "2023-07-31T23:04:07.4603778+00:00"
+  "LastUpdate_Ratings": "2023-08-01T00:00:18.0388252+00:00",
+  "LastUpdate_Achievements": "2023-08-01T00:04:01.448463+00:00"
 }

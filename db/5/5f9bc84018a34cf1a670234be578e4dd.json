@@ -347,9 +347,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "FallDeath",
@@ -395,9 +395,9 @@
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "GasFound",
@@ -427,9 +427,9 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 80,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Synthesis",
@@ -450,8 +450,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-07-31T23:04:42.1281217+00:00",
+  "LastChanged_Achievements": "2023-08-01T00:04:29.6094411+00:00",
   "LastUpdate_AppInfo": "2023-07-25T16:57:15.3733483+00:00",
-  "LastUpdate_Ratings": "2023-07-31T22:57:27.3117519+00:00",
-  "LastUpdate_Achievements": "2023-07-31T23:04:42.1281337+00:00"
+  "LastUpdate_Ratings": "2023-07-31T23:57:16.2406086+00:00",
+  "LastUpdate_Achievements": "2023-08-01T00:04:29.609451+00:00"
 }

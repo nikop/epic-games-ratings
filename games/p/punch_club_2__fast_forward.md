@@ -17,10 +17,10 @@
 | Employee of the week | 74.00% | ~147 |
 | Your own amateur gym | 73.00% | ~145 |
 | Run K, run! | 70.00% | ~139 |
+| No bullying more | 67.00% | ~133 |
 | Hello, world! | 67.00% | ~133 |
-| No bullying more | 66.00% | ~131 |
 | Fighting is cool | 65.00% | ~129 |
-| Pal of your father? | 62.00% | ~123 |
+| Pal of your father? | 63.00% | ~125 |
 | Employee of the month | 61.00% | ~121 |
 | Spirit of the past | 60.00% | ~119 |
 | Law student | 58.00% | ~115 |
@@ -41,18 +41,18 @@
 | Your own way | 45.00% | ~89 |
 | Guiding on the right path | 43.00% | ~85 |
 | Fight is life | 42.00% | ~83 |
-| Mysterious voice | 41.00% | ~81 |
+| Mysterious voice | 42.00% | ~83 |
 | Get out of my apartment! | 37.00% | ~73 |
 | Responsible approach | 36.00% | ~71 |
+| Deal with life | 35.00% | ~69 |
 | Underground dwellers | 35.00% | ~69 |
-| Deal with life | 34.00% | ~67 |
 | GYM professional | 34.00% | ~67 |
 | Champion – no way back | 34.00% | ~67 |
 | Poisoned fighter | 33.00% | ~65 |
 | Mom got better | 32.00% | ~63 |
 | The die is cast | 32.00% | ~63 |
 | Seashell hunter | 32.00% | ~63 |
-| The last bell ring | 30.00% | ~59 |
+| The last bell ring | 31.00% | ~61 |
 | Undercover robot | 30.00% | ~59 |
 | Gang wrangler | 29.00% | ~57 |
 | Problems of cyborgs | 28.00% | ~55 |
@@ -71,7 +71,7 @@
 | Better cooking at home | 23.00% | ~46 |
 | The only right decision | 23.00% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198 (Ranked 282)  
+Progressed: 198 (Ranked 283)  
 Completed: 7 (3.54%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |

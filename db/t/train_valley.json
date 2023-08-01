@@ -6,8 +6,8 @@
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 232,
-  "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_Completed": 138,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -99,9 +99,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 409,
+  "EOS_Progressed": 410,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -724,6 +724,11 @@
       "Time": "2023-07-31T17:04:37.8187915+00:00",
       "NumProgressed": 409,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-01T00:04:26.141716+00:00",
+      "NumProgressed": 410,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -733,9 +738,9 @@
       "ID": "01_gettingstarted",
       "SetID": "chb1m60",
       "Name": "Getting started",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 312
     },
     {
       "ID": "02_collector",
@@ -767,7 +772,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "06_living",
@@ -791,7 +796,7 @@
       "Name": "America",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "09_russia",
@@ -911,7 +916,7 @@
       "Name": "Close call!",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "24_mega",
@@ -959,7 +964,7 @@
       "Name": "Madness!",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "30_completelynuts",
@@ -967,7 +972,7 @@
       "Name": "Completely nuts!",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "31_chancellor",
@@ -981,9 +986,9 @@
       "ID": "32_engineer",
       "SetID": "chb1m60",
       "Name": "Engineer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 41
     },
     {
       "ID": "33_peacemaker",
@@ -1005,9 +1010,9 @@
       "ID": "35_achtung",
       "SetID": "chb1m60",
       "Name": "Achtung!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 41
     },
     {
       "ID": "36_supercrash",
@@ -1046,15 +1051,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 409,
+      "Progressed": 410,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-07-28T17:58:21.049991+00:00",
-  "LastChanged_Achievements": "2023-07-31T23:04:37.8810959+00:00",
+  "LastChanged_Achievements": "2023-08-01T00:04:26.1417152+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:31.9818041+00:00",
-  "LastUpdate_Ratings": "2023-07-31T22:58:28.0832676+00:00",
-  "LastUpdate_Achievements": "2023-07-31T23:04:37.8811244+00:00"
+  "LastUpdate_Ratings": "2023-07-31T23:58:04.6010994+00:00",
+  "LastUpdate_Achievements": "2023-08-01T00:04:26.1417463+00:00"
 }

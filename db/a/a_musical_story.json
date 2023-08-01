@@ -329,9 +329,9 @@
       "ID": "L14_FINISH",
       "SetID": "6finf64",
       "Name": "The Clash",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "L14_PERFECT",
@@ -666,8 +666,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-07-31T23:06:58.1127887+00:00",
+  "LastChanged_Achievements": "2023-08-01T00:06:22.1673898+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:03.4714434+00:00",
-  "LastUpdate_Ratings": "2023-07-31T22:59:03.9869962+00:00",
-  "LastUpdate_Achievements": "2023-07-31T23:06:58.1128294+00:00"
+  "LastUpdate_Ratings": "2023-07-31T23:58:34.0563946+00:00",
+  "LastUpdate_Achievements": "2023-08-01T00:06:22.1674293+00:00"
 }

@@ -7,10 +7,10 @@
 | A path of no return | 101.00% | ~77 |
 | A bottomless pit | 87.00% | ~66 |
 | Pigeon | 82.00% | ~62 |
-| Baited | 68.00% | ~52 |
+| Baited | 70.00% | ~53 |
 | "Swoosh" | 61.00% | ~46 |
 | The light at the end of the tunnel | 59.00% | ~45 |
-| Splash! | 55.00% | ~42 |
+| Splash! | 57.00% | ~43 |
 | Masochistic | 51.00% | ~39 |
 | Soft skin | 45.00% | ~34 |
 | Squid game | 37.00% | ~28 |

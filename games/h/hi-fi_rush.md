@@ -14,6 +14,7 @@ Rating: 4.87 (Ranked 24)
 | You got this, Peppermint? | 4.00% | ~146 |
 | Perfect Parry | 4.00% | ~146 |
 | This will cost you big time | 3.00% | ~110 |
+| The Negotiator | 3.00% | ~110 |
 | Headliner | 3.00% | ~110 |
 | Time to pay up! | 3.00% | ~110 |
 | Who's the boss now? | 3.00% | ~110 |
@@ -26,7 +27,6 @@ Rating: 4.87 (Ranked 24)
 | Alright, that felt AWESOME! | 3.00% | ~110 |
 | Does that say weakpoint? | 3.00% | ~110 |
 | NOW we got a kickass hideout! | 3.00% | ~65 |
-| The Negotiator | 2.00% | ~73 |
 | Well that was a rush! | 2.00% | ~73 |
 | I have to read these things? | 2.00% | ~73 |
 | You must like calling me in, Chai | 2.00% | ~73 |

@@ -6,12 +6,12 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 58.00% | ~1,548 |
+| You're free now! | 58.00% | ~1,549 |
 | Keeping it classy | 26.00% | ~694 |
 | Welcome to the family | 20.00% | ~534 |
 | The finer things in life | 17.00% | ~454 |
 | Backpacker | 13.00% | ~347 |
-| Go with the Flow | 12.00% | ~320 |
+| Go with the Flow | 12.00% | ~321 |
 | Plastic Surgeon | 9.00% | ~240 |
 | The flip trick crown jewel | 9.00% | ~240 |
 | The hard way | 9.00% | ~240 |
@@ -23,13 +23,13 @@ Number of Ratings: 111  (23.09.2022)
 | Finally he zips it | 6.00% | ~160 |
 | That pinch! | 6.00% | ~160 |
 | Tight lipslides | 6.00% | ~160 |
-| Commence the Hijinx! | 5.00% | ~133 |
-| Fulfilled the dream | 5.00% | ~133 |
-| G'Day Mate! | 5.00% | ~133 |
-| NAHELL! | 5.00% | ~133 |
-| Purple passion | 5.00% | ~133 |
-| Squad goals | 5.00% | ~133 |
-| Sup widdit big dog! | 5.00% | ~133 |
+| Commence the Hijinx! | 5.00% | ~134 |
+| Fulfilled the dream | 5.00% | ~134 |
+| G'Day Mate! | 5.00% | ~134 |
+| NAHELL! | 5.00% | ~134 |
+| Purple passion | 5.00% | ~134 |
+| Squad goals | 5.00% | ~134 |
+| Sup widdit big dog! | 5.00% | ~134 |
 | Cops called! | 4.00% | ~107 |
 | DIY Boss | 4.00% | ~107 |
 | Globetrotter | 4.00% | ~107 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,669 (Ranked 158)  
+Progressed: 2,671 (Ranked 158)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,6 +151,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 2,648 | 0 |
 | 2023-07-30 | 2,660 | 0 |
 | 2023-07-31 | 2,669 | 0 |
+| 2023-08-01 | 2,671 | 0 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 399)  
 Sum: 441 (Ranked 305)  

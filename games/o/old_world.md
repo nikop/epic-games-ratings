@@ -41,6 +41,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 0.70% | ~92 |
 | Christianity | 0.70% | ~92 |
 | Babylonian Paganism | 0.70% | ~92 |
+| Carthaginian Paganism | 0.70% | ~92 |
 | Roman Paganism | 0.70% | ~92 |
 | Zoroastrianism | 0.70% | ~92 |
 | Brilliant | 0.60% | ~79 |
@@ -52,7 +53,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.60% | ~79 |
 | Necropolis | 0.60% | ~79 |
 | Learn to Play 1 | 0.60% | ~79 |
-| Carthaginian Paganism | 0.60% | ~79 |
 | Regicide | 0.50% | ~66 |
 | Great | 0.50% | ~66 |
 | Legendary Cities | 0.50% | ~66 |

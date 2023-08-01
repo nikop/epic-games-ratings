@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.05 (Ranked 914)  
+Rating: 4.05 (Ranked 915)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,10 +15,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Lives! | 0.90% | ~1,654 |
 | Rock and Roll | 0.90% | ~1,654 |
 | Flight of the Kindori Pod | 0.80% | ~1,470 |
-| Tall Tales | 0.70% | ~1,286 |
-| Seeds of Destruction | 0.70% | ~1,286 |
-| Vecna Loots! | 0.70% | ~1,286 |
-| Topolah's Tower | 0.70% | ~1,286 |
+| Tall Tales | 0.70% | ~1,287 |
+| Seeds of Destruction | 0.70% | ~1,287 |
+| Vecna Loots! | 0.70% | ~1,287 |
+| Topolah's Tower | 0.70% | ~1,287 |
 | Pros and CONs | 0.60% | ~1,305 |
 | Wet Feet | 0.60% | ~1,305 |
 | Hatchlings Underfoot | 0.60% | ~1,305 |
@@ -116,6 +116,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Constant Banditry | 0.30% | ~653 |
 | Lost in the Deep | 0.30% | ~653 |
 | Easily Distracted | 0.30% | ~653 |
+| Rude Welcome | 0.30% | ~653 |
 | Underdeep Cartography | 0.30% | ~653 |
 | Overdue Rendezvous | 0.30% | ~653 |
 | Pure Energy | 0.30% | ~653 |
@@ -203,7 +204,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Questlines | 0.20% | ~368 |
 | The Everlasting Rime | 0.20% | ~368 |
 | The Long Haul | 0.20% | ~435 |
-| Rude Welcome | 0.20% | ~435 |
 | Moose Tracks | 0.20% | ~368 |
 | Civilization | 0.20% | ~368 |
 | Durable Deep | 0.20% | ~435 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,503 (Ranked 53)  
+Progressed: 217,512 (Ranked 53)  
 Completed: 2,140 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,6 +622,7 @@ Completed: 2,140 (0.98%) (Ranked 112)
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
+| 2023-08-01 | 217,512 | 2,140 |
 ## Awards
 Max (Diverse Characters): 5,106  (Ranked 67)  
 Sum: 30,831 (Ranked 38)  

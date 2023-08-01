@@ -545,9 +545,9 @@
       "ID": "Ach_EnnemyDeathByEnnemy",
       "SetID": "4o5gjp0",
       "Name": "Baited",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Ach_FinalBossHand",
@@ -593,9 +593,9 @@
       "ID": "Ach_LavaDeath",
       "SetID": "4o5gjp0",
       "Name": "Splash!",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Ach_OptionalDialogRead",
@@ -664,8 +664,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-07-31T23:04:47.5349411+00:00",
+  "LastChanged_Achievements": "2023-08-01T00:04:34.0963467+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:57.8923597+00:00",
-  "LastUpdate_Ratings": "2023-07-31T22:58:58.6439352+00:00",
-  "LastUpdate_Achievements": "2023-07-31T23:04:47.5349642+00:00"
+  "LastUpdate_Ratings": "2023-07-31T23:58:30.0673139+00:00",
+  "LastUpdate_Achievements": "2023-08-01T00:04:34.0963689+00:00"
 }

@@ -6063,9 +6063,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 57713,
+  "EOS_Progressed": 57715,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 933,
+  "EOS_NewPlayers": 934,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16778,6 +16778,11 @@
       "Time": "2023-07-31T23:03:29.3580504+00:00",
       "NumProgressed": 57713,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T00:03:29.9580298+00:00",
+      "NumProgressed": 57715,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -16789,7 +16794,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6348
+      "UsersEstimate": 6349
     },
     {
       "ID": "Apple of my eye",
@@ -17011,9 +17016,9 @@
       "ID": "Landlord",
       "SetID": "den0lp1",
       "Name": "Landlord",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 18468
+      "UsersEstimate": 17892
     },
     {
       "ID": "Lawbringer",
@@ -17021,7 +17026,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 21354
+      "UsersEstimate": 21355
     },
     {
       "ID": "Lawmaker",
@@ -17133,7 +17138,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5771
+      "UsersEstimate": 5772
     },
     {
       "ID": "The king is pleased",
@@ -17141,7 +17146,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9811
+      "UsersEstimate": 9812
     },
     {
       "ID": "This Is Our Land",
@@ -17149,7 +17154,7 @@
       "Name": "This Is Our Land",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5771
+      "UsersEstimate": 5772
     },
     {
       "ID": "This is Sparta",
@@ -17196,15 +17201,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 57713,
+      "Progressed": 57715,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-31T20:00:48.5974349+00:00",
-  "LastChanged_Achievements": "2023-07-31T23:03:29.3580498+00:00",
+  "LastChanged_Achievements": "2023-08-01T00:03:29.9580291+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:33.2077536+00:00",
-  "LastUpdate_Ratings": "2023-07-31T23:00:46.6618378+00:00",
-  "LastUpdate_Achievements": "2023-07-31T23:03:29.3581363+00:00"
+  "LastUpdate_Ratings": "2023-07-31T23:59:53.8345668+00:00",
+  "LastUpdate_Achievements": "2023-08-01T00:03:29.9581163+00:00"
 }

@@ -5350,9 +5350,9 @@
       "Count": 3722
     }
   ],
-  "EOS_Progressed": 133652,
+  "EOS_Progressed": 133653,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -15760,6 +15760,11 @@
       "Time": "2023-07-31T22:04:05.6758364+00:00",
       "NumProgressed": 133652,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-08-01T00:04:01.5910452+00:00",
+      "NumProgressed": 133653,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 112,
@@ -16361,9 +16366,9 @@
       "ID": "level02",
       "SetID": "anfd17p",
       "Name": "Accomplished Merchant",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 267
     },
     {
       "ID": "level03",
@@ -16666,15 +16671,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133652,
+      "Progressed": 133653,
       "Completed": 124
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-07-31T07:58:46.1222298+00:00",
-  "LastChanged_Achievements": "2023-07-31T23:04:07.3384565+00:00",
+  "LastChanged_Achievements": "2023-08-01T00:04:01.5910447+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.2465054+00:00",
-  "LastUpdate_Ratings": "2023-07-31T22:59:23.9090078+00:00",
-  "LastUpdate_Achievements": "2023-07-31T23:04:07.3386308+00:00"
+  "LastUpdate_Ratings": "2023-07-31T23:58:48.3655954+00:00",
+  "LastUpdate_Achievements": "2023-08-01T00:04:01.5912155+00:00"
 }
