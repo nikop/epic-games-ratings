@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 242,
+  "EOS_Progressed": 243,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 9.09,
+  "EOS_Completed_Percentage": 9.05,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1121,6 +1121,11 @@
       "Time": "2023-08-01T10:05:35.0649568+00:00",
       "NumProgressed": 242,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-08-01T20:05:27.7681159+00:00",
+      "NumProgressed": 243,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 6,
@@ -1138,9 +1143,9 @@
       "ID": "CgkIgaGB2J0LEAIQAQ",
       "SetID": "4ocea6d",
       "Name": "File-cutter",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 165,
-      "UsersEstimate": 148
+      "UsersEstimate": 146
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -1148,7 +1153,7 @@
       "Name": "Viola Organista",
       "Percentage": 46,
       "XP": 165,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -1156,7 +1161,7 @@
       "Name": "Scythed Chariot",
       "Percentage": 27,
       "XP": 165,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -1164,7 +1169,7 @@
       "Name": "Revolving Bridge",
       "Percentage": 27,
       "XP": 165,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -1179,14 +1184,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 242,
+      "Progressed": 243,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-01T19:05:36.8602758+00:00",
+  "LastChanged_Achievements": "2023-08-01T20:05:27.7681155+00:00",
   "LastUpdate_AppInfo": "2023-07-27T13:57:11.6016453+00:00",
-  "LastUpdate_Ratings": "2023-08-01T18:57:39.4955717+00:00",
-  "LastUpdate_Achievements": "2023-08-01T19:05:36.8602939+00:00"
+  "LastUpdate_Ratings": "2023-08-01T19:57:28.3644202+00:00",
+  "LastUpdate_Achievements": "2023-08-01T20:05:27.768131+00:00"
 }

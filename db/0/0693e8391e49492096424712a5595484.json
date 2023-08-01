@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 292,
+  "EOS_Progressed": 293,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 7.19,
+  "EOS_Completed_Percentage": 7.17,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -1041,6 +1041,11 @@
       "Time": "2023-08-01T15:07:26.7891144+00:00",
       "NumProgressed": 292,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-01T20:06:24.5564419+00:00",
+      "NumProgressed": 293,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 45,
@@ -1050,9 +1055,9 @@
       "ID": "AmanitaRun",
       "SetID": "db30heh",
       "Name": "Wild Run",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 138
     },
     {
       "ID": "BasiliskBroom",
@@ -1068,7 +1073,7 @@
       "Name": "Fishing Prop",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "BearBroom",
@@ -1098,9 +1103,9 @@
       "ID": "BearRum",
       "SetID": "db30heh",
       "Name": "Ready for Bed",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "BearSword",
@@ -1114,9 +1119,9 @@
       "ID": "BeggarWomanCoin",
       "SetID": "db30heh",
       "Name": "Alms",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 269
+      "UsersEstimate": 267
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -1132,7 +1137,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "BroomAmanita",
@@ -1154,9 +1159,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 205
     },
     {
       "ID": "DevilRope",
@@ -1164,7 +1169,7 @@
       "Name": "The Devil is My Friend",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "Drunkard",
@@ -1194,9 +1199,9 @@
       "ID": "DwarfHobo",
       "SetID": "db30heh",
       "Name": "Funny Hobo",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 103
     },
     {
       "ID": "FerrymanBird",
@@ -1220,15 +1225,15 @@
       "Name": "Tastes Funny",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "HastrmanHappy",
       "SetID": "db30heh",
       "Name": "Regular Diet",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 129
     },
     {
       "ID": "HastrmanRum",
@@ -1236,7 +1241,7 @@
       "Name": "That\u0027s Not Water",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "HatFlower",
@@ -1284,7 +1289,7 @@
       "Name": "Zonked",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "PriestRogue",
@@ -1322,9 +1327,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 164
     },
     {
       "ID": "RogueEat",
@@ -1346,9 +1351,9 @@
       "ID": "RogueNaked",
       "SetID": "db30heh",
       "Name": "The King is Naked",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "RogueRum",
@@ -1388,7 +1393,7 @@
       "Name": "Precious Barter",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "SwordMoneyBag",
@@ -1411,14 +1416,14 @@
     {
       "ID": "db30heh",
       "IsBase": true,
-      "Progressed": 292,
+      "Progressed": 293,
       "Completed": 21
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-01T19:06:24.6174371+00:00",
+  "LastChanged_Achievements": "2023-08-01T20:06:24.5564416+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-01T18:57:36.9378716+00:00",
-  "LastUpdate_Achievements": "2023-08-01T19:06:24.6174773+00:00"
+  "LastUpdate_Ratings": "2023-08-01T19:57:25.0502336+00:00",
+  "LastUpdate_Achievements": "2023-08-01T20:06:24.5564862+00:00"
 }

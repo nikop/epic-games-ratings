@@ -19,7 +19,7 @@
 | Hide and Seek | 15.00% | ~101 |
 | Be Like the Lotus | 12.00% | ~81 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676 (Ranked 209)  
+Progressed: 676 (Ranked 210)  
 Completed: 43 (6.36%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |

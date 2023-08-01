@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Just Went Shopping | 97.00% | ~337 |
 | Decision Maker | 80.00% | ~278 |
+| Sneaky Sneak | 78.00% | ~271 |
 | DIY | 78.00% | ~271 |
-| Sneaky Sneak | 77.00% | ~267 |
 | Master Chef | 65.00% | ~226 |
 | Master of Cards | 59.00% | ~205 |
-| Over Nine Thousaaand | 56.00% | ~194 |
+| Over Nine Thousaaand | 57.00% | ~198 |
 | Getting the Hang Of This | 48.00% | ~167 |
 | Collector | 29.00% | ~101 |
 | That’s What Friends Are For | 21.00% | ~73 |
@@ -20,8 +20,8 @@
 | Untapped Potential | 17.00% | ~59 |
 | Played by Gramps | 14.00% | ~49 |
 | Size Doesn’t Matter | 13.00% | ~45 |
+| My Savior! | 13.00% | ~45 |
 | I Choo-Choo-Choose You | 12.00% | ~42 |
-| My Savior! | 12.00% | ~42 |
 | Totally Swamped | 11.00% | ~38 |
 | Is Anyone Out There? | 11.00% | ~38 |
 | Limitless | 10.00% | ~35 |

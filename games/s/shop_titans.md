@@ -16,6 +16,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Some Assembly Required | 0.30% | ~401 |
 | Another Satisfied Customer | 0.30% | ~401 |
 | It's Free Real Estate | 0.30% | ~401 |
+| Pretty Penny | 0.30% | ~401 |
 | Budding Merchant | 0.30% | ~401 |
 | Own the Means of Production | 0.30% | ~401 |
 | The Daily Grind | 0.20% | ~267 |
@@ -25,7 +26,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 0.20% | ~267 |
 | Flooding the Market | 0.20% | ~267 |
 | Where it Hurts | 0.20% | ~267 |
-| Pretty Penny | 0.20% | ~267 |
 | Gild-Gotten Goods | 0.20% | ~267 |
 | One-Armed Bandit | 0.20% | ~267 |
 | Accomplished Merchant | 0.20% | ~267 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,702 (Ranked 62)  
+Progressed: 133,703 (Ranked 62)  
 Completed: 125 (0.09%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 125 (0.09%) (Ranked 198)
 | 2023-07-29 | 133,512 | 124 |
 | 2023-07-30 | 133,588 | 124 |
 | 2023-07-31 | 133,652 | 124 |
-| 2023-08-01 | 133,702 | 125 |
+| 2023-08-01 | 133,703 | 125 |
 ## Awards
 Max (Great for Beginners): 4,682  (Ranked 70)  
 Sum: 27,021 (Ranked 46)  

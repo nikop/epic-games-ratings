@@ -12,8 +12,8 @@ Number of Ratings: 58  (23.09.2022)
 | Demigod | 75.00% | ~828 |
 | The Great Destroyer | 74.00% | ~817 |
 | Shields Down | 72.00% | ~795 |
+| Safe Home | 67.00% | ~740 |
 | Helping Hand | 66.00% | ~729 |
-| Safe Home | 66.00% | ~729 |
 | Paragon | 62.00% | ~684 |
 | Old Days Born Anew | 61.00% | ~673 |
 | Full Arsenal | 56.00% | ~618 |

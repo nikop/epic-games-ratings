@@ -17,10 +17,10 @@
 | Employee of the week | 75.00% | ~151 |
 | Your own amateur gym | 74.00% | ~149 |
 | Run K, run! | 71.00% | ~143 |
+| No bullying more | 67.00% | ~135 |
 | Hello, world! | 67.00% | ~135 |
-| No bullying more | 66.00% | ~133 |
-| Fighting is cool | 65.00% | ~131 |
-| Pal of your father? | 62.00% | ~125 |
+| Fighting is cool | 66.00% | ~133 |
+| Pal of your father? | 63.00% | ~127 |
 | Employee of the month | 61.00% | ~123 |
 | Spirit of the past | 60.00% | ~121 |
 | Law student | 59.00% | ~119 |
@@ -34,14 +34,14 @@
 | Employee of the year | 54.00% | ~109 |
 | Fight for life | 53.00% | ~107 |
 | Legal courier | 51.00% | ~103 |
-| Extreme neuropower! | 49.00% | ~98 |
-| Escaped from a big trouble | 48.00% | ~96 |
-| Now you are worthy | 46.00% | ~92 |
+| Extreme neuropower! | 50.00% | ~100 |
+| Escaped from a big trouble | 49.00% | ~98 |
+| Now you are worthy | 47.00% | ~94 |
 | No blades in the gym | 45.00% | ~90 |
 | Your own way | 45.00% | ~90 |
 | Guiding on the right path | 43.00% | ~86 |
 | Fight is life | 42.00% | ~84 |
-| Mysterious voice | 41.00% | ~82 |
+| Mysterious voice | 42.00% | ~84 |
 | Get out of my apartment! | 38.00% | ~76 |
 | Underground dwellers | 36.00% | ~72 |
 | Responsible approach | 36.00% | ~72 |
@@ -53,8 +53,8 @@
 | Mom got better | 32.00% | ~64 |
 | The die is cast | 32.00% | ~64 |
 | The last bell ring | 31.00% | ~62 |
+| Gang wrangler | 30.00% | ~60 |
 | Undercover robot | 30.00% | ~60 |
-| Gang wrangler | 29.00% | ~58 |
 | Problems of cyborgs | 29.00% | ~58 |
 | Not little hacker | 29.00% | ~58 |
 | Absolute Champion! | 29.00% | ~58 |
@@ -65,8 +65,8 @@
 | The heart of the Resistance | 28.00% | ~56 |
 | Keep nature safe | 27.00% | ~54 |
 | Family comes first | 27.00% | ~54 |
+| Anyone can resist | 27.00% | ~54 |
 | Trap disarmed | 26.00% | ~52 |
-| Anyone can resist | 26.00% | ~52 |
 | Silver’s past | 24.00% | ~48 |
 | Better cooking at home | 24.00% | ~48 |
 | The only right decision | 24.00% | ~48 |

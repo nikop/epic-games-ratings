@@ -2,12 +2,12 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 367,
+  "Ranking_Rating": 368,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1239,
+  "EOS_Progressed": 1240,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
@@ -1965,6 +1965,11 @@
       "Time": "2023-08-01T12:04:16.4065852+00:00",
       "NumProgressed": 1239,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-01T20:04:04.6576154+00:00",
+      "NumProgressed": 1240,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2094,9 +2099,9 @@
       "ID": "Hard_Serpent",
       "SetID": "85nb4h3",
       "Name": "Tough as Nails",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Heroes_never_die",
@@ -2104,7 +2109,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "High_noon",
@@ -2190,9 +2195,9 @@
       "ID": "War_never_changes",
       "SetID": "85nb4h3",
       "Name": "War Never Changes",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 434
     },
     {
       "ID": "We_were_not_here",
@@ -2215,15 +2220,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1239,
+      "Progressed": 1240,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-01T19:04:28.1442899+00:00",
+  "LastChanged_Achievements": "2023-08-01T20:04:04.657615+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:01.8247035+00:00",
-  "LastUpdate_Ratings": "2023-08-01T18:59:45.8619812+00:00",
-  "LastUpdate_Achievements": "2023-08-01T19:04:28.1443186+00:00"
+  "LastUpdate_Ratings": "2023-08-01T20:00:04.2872791+00:00",
+  "LastUpdate_Achievements": "2023-08-01T20:04:04.6576476+00:00"
 }

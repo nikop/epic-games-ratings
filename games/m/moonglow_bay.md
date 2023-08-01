@@ -14,12 +14,12 @@
 | They Can Change | 0.50% | ~2 |
 | The Heart of Moonglow | 0.50% | ~2 |
 | Aquatic Expansion | 0.50% | ~2 |
+| Ocean Wings | 0.50% | ~2 |
 | Wise and Floofy | 0.50% | ~2 |
 | Four-Legged Friends | 0.50% | ~2 |
 | Then Peel Me A Grape | 0.50% | ~2 |
 | Worth Your While | 0.50% | ~2 |
 | From Beyond | 0.30% | ~1 |
-| Ocean Wings | 0.30% | ~1 |
 | Crimebusters of the Sea | 0.30% | ~1 |
 | You Can Pet The Dog | 0.30% | ~1 |
 | The Whole Journey | 0.00% | ~0 |

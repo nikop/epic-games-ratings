@@ -2,7 +2,7 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 273,
+  "Ranking_Rating": 274,
   "Ranking_Popularity": 184,
   "Ranking_PopularitySum": 133,
   "Ranking_EOS_Progress": 59,
@@ -1375,9 +1375,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 190477,
+  "EOS_Progressed": 190482,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1927,
+  "EOS_NewPlayers": 1916,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12705,6 +12705,11 @@
       "Time": "2023-08-01T19:07:04.9865645+00:00",
       "NumProgressed": 190477,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-08-01T20:07:11.4693191+00:00",
+      "NumProgressed": 190482,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 44,
@@ -12756,7 +12761,7 @@
       "Name": "Disguised",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13333
+      "UsersEstimate": 13334
     },
     {
       "ID": "FiveShadows",
@@ -12788,7 +12793,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 20952
+      "UsersEstimate": 20953
     },
     {
       "ID": "HappyLittleAccidents",
@@ -12836,7 +12841,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 13333
+      "UsersEstimate": 13334
     },
     {
       "ID": "Mercyful",
@@ -12932,7 +12937,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13333
+      "UsersEstimate": 13334
     },
     {
       "ID": "Rollin",
@@ -12940,7 +12945,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13333
+      "UsersEstimate": 13334
     },
     {
       "ID": "StillRollin",
@@ -12964,7 +12969,7 @@
       "Name": "Stoned Ox",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13333
+      "UsersEstimate": 13334
     },
     {
       "ID": "TanukiTime",
@@ -12972,7 +12977,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 15238
+      "UsersEstimate": 15239
     },
     {
       "ID": "TheCave",
@@ -13067,15 +13072,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 190477,
+      "Progressed": 190482,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-01T15:01:04.9218002+00:00",
-  "LastChanged_Achievements": "2023-08-01T19:07:04.9865639+00:00",
+  "LastChanged_Achievements": "2023-08-01T20:07:11.4693186+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:58.4166867+00:00",
-  "LastUpdate_Ratings": "2023-08-01T18:59:44.0910093+00:00",
-  "LastUpdate_Achievements": "2023-08-01T19:07:04.9867305+00:00"
+  "LastUpdate_Ratings": "2023-08-01T20:00:01.5106978+00:00",
+  "LastUpdate_Achievements": "2023-08-01T20:07:11.4694153+00:00"
 }

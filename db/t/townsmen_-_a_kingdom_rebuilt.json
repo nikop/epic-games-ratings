@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -1440,9 +1440,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_BREW",
       "SetID": "9eacipp",
       "Name": "Brew master",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_CRAFTSMEN",
@@ -1840,8 +1840,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-08-01T19:05:54.1456291+00:00",
+  "LastChanged_Achievements": "2023-08-01T20:05:48.7883347+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:52.1616278+00:00",
-  "LastUpdate_Ratings": "2023-08-01T18:58:40.2472041+00:00",
-  "LastUpdate_Achievements": "2023-08-01T19:05:54.1457744+00:00"
+  "LastUpdate_Ratings": "2023-08-01T19:58:42.320024+00:00",
+  "LastUpdate_Achievements": "2023-08-01T20:05:48.788471+00:00"
 }

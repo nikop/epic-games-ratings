@@ -8,9 +8,9 @@
 | Rehearsal | 93.00% | ~82 |
 | Daily Life | 90.00% | ~79 |
 | Assembly Line Work | 86.00% | ~76 |
-| Solitude | 80.00% | ~70 |
-| Pinewood, Here we come! | 72.00% | ~63 |
-| The Van | 66.00% | ~58 |
+| Solitude | 81.00% | ~71 |
+| Pinewood, Here we come! | 73.00% | ~64 |
+| The Van | 67.00% | ~59 |
 | Road-Trip | 60.00% | ~53 |
 | A Musical Pause | 59.00% | ~52 |
 | Briget's | 50.00% | ~44 |

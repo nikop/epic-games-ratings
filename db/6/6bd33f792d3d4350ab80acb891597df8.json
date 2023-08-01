@@ -219,9 +219,9 @@
       "ID": "CgkIxYDzrbcPEAIQBA",
       "SetID": "4egpam7",
       "Name": "Devil\u0027s Bargain",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBQ",
@@ -442,8 +442,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-01T19:05:41.7283784+00:00",
+  "LastChanged_Achievements": "2023-08-01T20:05:34.3233578+00:00",
   "LastUpdate_AppInfo": "2023-08-01T13:03:42.8439888+00:00",
-  "LastUpdate_Ratings": "2023-08-01T18:57:42.5922656+00:00",
-  "LastUpdate_Achievements": "2023-08-01T19:05:41.7284225+00:00"
+  "LastUpdate_Ratings": "2023-08-01T19:57:32.0662243+00:00",
+  "LastUpdate_Achievements": "2023-08-01T20:05:34.3233811+00:00"
 }

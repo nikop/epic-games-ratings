@@ -5362,9 +5362,9 @@
       "Count": 3722
     }
   ],
-  "EOS_Progressed": 133702,
+  "EOS_Progressed": 133703,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -15847,6 +15847,11 @@
       "Time": "2023-08-01T19:04:22.3442438+00:00",
       "NumProgressed": 133702,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-08-01T20:03:57.8327283+00:00",
+      "NumProgressed": 133703,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 112,
@@ -16336,9 +16341,9 @@
       "ID": "gold02",
       "SetID": "anfd17p",
       "Name": "Pretty Penny",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 401
     },
     {
       "ID": "gold03",
@@ -16753,15 +16758,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133702,
+      "Progressed": 133703,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-01T11:58:49.1870669+00:00",
-  "LastChanged_Achievements": "2023-08-01T19:04:22.3442435+00:00",
+  "LastChanged_Achievements": "2023-08-01T20:03:57.8327276+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.2465054+00:00",
-  "LastUpdate_Ratings": "2023-08-01T18:59:04.012342+00:00",
-  "LastUpdate_Achievements": "2023-08-01T19:04:22.3446521+00:00"
+  "LastUpdate_Ratings": "2023-08-01T19:59:15.5226151+00:00",
+  "LastUpdate_Achievements": "2023-08-01T20:03:57.8329598+00:00"
 }

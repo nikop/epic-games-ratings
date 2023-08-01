@@ -11,10 +11,10 @@
 | A Long Walk | 37.00% | ~7 |
 | Dont mind the heat | 16.00% | ~3 |
 | A Dangerous Road | 11.00% | ~2 |
+| Scorched Ruins | 11.00% | ~2 |
 | City of Puzzles | 11.00% | ~2 |
 | This field of danger | 11.00% | ~2 |
 | Labyrinths of the Mind | 11.00% | ~2 |
-| Scorched Ruins | 5.00% | ~1 |
 | City of Illusion | 5.00% | ~1 |
 | Kill the Flames | 5.00% | ~1 |
 | Find the Light | 5.00% | ~1 |
