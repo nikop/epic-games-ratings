@@ -4,7 +4,7 @@
   "ProductSlug": "dust-and-neon-41b927",
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-02-16T08:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:25.9281989+00:00",
   "LastChanged": "2023-03-31T05:58:25.928199+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.0024889+00:00",
-  "LastUpdate_Ratings": "2023-08-01T03:58:36.874351+00:00",
-  "LastUpdate_Achievements": "2023-08-01T04:05:04.9522542+00:00"
+  "LastUpdate_Ratings": "2023-08-01T04:58:58.4968872+00:00",
+  "LastUpdate_Achievements": "2023-08-01T05:05:31.6974664+00:00"
 }

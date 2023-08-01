@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239,
+  "EOS_Progressed": 240,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 8.79,
+  "EOS_Completed_Percentage": 8.75,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1106,6 +1106,11 @@
       "Time": "2023-08-01T04:05:15.7212571+00:00",
       "NumProgressed": 239,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-01T05:05:44.798894+00:00",
+      "NumProgressed": 240,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 6,
@@ -1125,15 +1130,15 @@
       "Name": "File-cutter",
       "Percentage": 60,
       "XP": 165,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
       "SetID": "4ocea6d",
       "Name": "Viola Organista",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 165,
-      "UsersEstimate": 110
+      "UsersEstimate": 108
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -1164,14 +1169,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 239,
+      "Progressed": 240,
       "Completed": 21
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-01T04:05:15.7212565+00:00",
+  "LastChanged_Achievements": "2023-08-01T05:05:44.7988932+00:00",
   "LastUpdate_AppInfo": "2023-07-27T13:57:11.6016453+00:00",
-  "LastUpdate_Ratings": "2023-08-01T03:57:33.2160193+00:00",
-  "LastUpdate_Achievements": "2023-08-01T04:05:15.721273+00:00"
+  "LastUpdate_Ratings": "2023-08-01T04:57:35.1013404+00:00",
+  "LastUpdate_Achievements": "2023-08-01T05:05:44.7989086+00:00"
 }

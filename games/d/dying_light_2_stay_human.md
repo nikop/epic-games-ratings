@@ -6,41 +6,41 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~66,600 |
-| Into the Unknown | 10.00% | ~60,546 |
-| First Shot | 10.00% | ~60,546 |
-| Herzlich Wilkommen! | 9.00% | ~54,491 |
-| Good Night & Good Luck | 9.00% | ~54,491 |
-| Sancho Panza | 8.00% | ~48,437 |
-| Oh, So This Is How It Works! | 8.00% | ~48,437 |
-| Under Pressure | 7.00% | ~42,382 |
-| On the Trail of the Enemy | 7.00% | ~42,382 |
-| Flag Burning | 7.00% | ~42,382 |
-| Night Hunter | 7.00% | ~42,382 |
-| Light in the Darkness | 6.00% | ~36,327 |
-| Get Outta My House! | 6.00% | ~36,327 |
-| It Wasn't That Hard, Was It? | 6.00% | ~36,327 |
-| Being All Social | 6.00% | ~36,327 |
-| Debris and Ashes | 5.00% | ~30,273 |
-| We Will Be Heard! | 5.00% | ~30,273 |
-| Known Associate | 5.00% | ~30,273 |
-| Brush with Death | 5.00% | ~30,273 |
-| Tunnel Entrance | 5.00% | ~30,273 |
-| After the Fall | 5.00% | ~30,273 |
-| Can't Touch This! | 5.00% | ~30,273 |
-| Going Down | 4.00% | ~24,218 |
-| Family First | 4.00% | ~24,218 |
-| Your World, Your Rules | 4.00% | ~24,218 |
-| Death From Afar | 4.00% | ~24,218 |
-| Terminal Headache | 4.00% | ~24,218 |
-| Slowpoke! | 4.00% | ~24,218 |
+| You Never Forget Your First... | 11.00% | ~66,603 |
+| Into the Unknown | 10.00% | ~60,548 |
+| First Shot | 10.00% | ~60,548 |
+| Herzlich Wilkommen! | 9.00% | ~54,493 |
+| Good Night & Good Luck | 9.00% | ~54,493 |
+| Sancho Panza | 8.00% | ~48,439 |
+| Oh, So This Is How It Works! | 8.00% | ~48,439 |
+| Under Pressure | 7.00% | ~42,384 |
+| On the Trail of the Enemy | 7.00% | ~42,384 |
+| Flag Burning | 7.00% | ~42,384 |
+| Night Hunter | 7.00% | ~42,384 |
+| Light in the Darkness | 6.00% | ~36,329 |
+| Get Outta My House! | 6.00% | ~36,329 |
+| It Wasn't That Hard, Was It? | 6.00% | ~36,329 |
+| Being All Social | 6.00% | ~36,329 |
+| Debris and Ashes | 5.00% | ~30,274 |
+| We Will Be Heard! | 5.00% | ~30,274 |
+| Known Associate | 5.00% | ~30,274 |
+| Brush with Death | 5.00% | ~30,274 |
+| Tunnel Entrance | 5.00% | ~30,274 |
+| After the Fall | 5.00% | ~30,274 |
+| Can't Touch This! | 5.00% | ~30,274 |
+| Going Down | 4.00% | ~24,219 |
+| Family First | 4.00% | ~24,219 |
+| Your World, Your Rules | 4.00% | ~24,219 |
+| Death From Afar | 4.00% | ~24,219 |
+| Terminal Headache | 4.00% | ~24,219 |
+| Slowpoke! | 4.00% | ~24,219 |
 | Tickets, Please! | 3.00% | ~18,164 |
 | You're Going Down! | 3.00% | ~18,164 |
-| Municipal Services | 2.00% | ~12,109 |
-| Ban Hammer | 2.00% | ~12,109 |
-| Parkour Master | 2.00% | ~12,109 |
-| Combat Master | 2.00% | ~12,109 |
-| Modder | 2.00% | ~12,109 |
+| Municipal Services | 2.00% | ~12,110 |
+| Ban Hammer | 2.00% | ~12,110 |
+| Parkour Master | 2.00% | ~12,110 |
+| Combat Master | 2.00% | ~12,110 |
+| Modder | 2.00% | ~12,110 |
 | Tube Map | 1.00% | ~6,055 |
 | Don Quixote | 1.00% | ~6,055 |
 | Can't You Read the Signs? | 1.00% | ~6,055 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~251 |
 | Connoisseur | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 605,458 (Ranked 26)  
+Progressed: 605,482 (Ranked 26)  
 Completed: 61 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,10 +175,10 @@ Completed: 61 (0.01%) (Ranked 234)
 | 2023-07-29 | 604,029 | 60 |
 | 2023-07-30 | 604,775 | 61 |
 | 2023-07-31 | 605,376 | 61 |
-| 2023-08-01 | 605,458 | 61 |
+| 2023-08-01 | 605,482 | 61 |
 ## Awards
 Max (Character Customization): 8,628  (Ranked 39)  
-Sum: 20,586 (Ranked 54)  
+Sum: 20,588 (Ranked 54)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -187,7 +187,7 @@ Diff (max vs sum): -15
 | This game is Great for Beginners | 874 |
 | This game is Highly Recommended | 813 |
 | This game has Diverse Characters | 787 |
-| This game has Amazing Characters | 778 |
+| This game has Amazing Characters | 780 |
 | This game is Extremely Fun | 759 |
 | This game has Amazing Storytelling | 759 |
 | This game has Quickly Understood Controls | 734 |
@@ -398,4 +398,4 @@ Diff (max vs sum): -15
 | 2023-07-29 | 4.58 | - | 8,598 | 20,483 |
 | 2023-07-30 | 4.58 | - | 8,612 | 20,517 |
 | 2023-07-31 | 4.58 | - | 8,628 | 20,573 |
-| 2023-08-01 | 4.58 | - | 8,628 | 20,586 |
+| 2023-08-01 | 4.58 | - | 8,628 | 20,588 |

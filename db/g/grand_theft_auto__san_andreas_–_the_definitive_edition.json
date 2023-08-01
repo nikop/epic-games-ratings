@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -620,18 +620,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 253,
       "NumberOfAwardsMax": 233
+    },
+    {
+      "Time": "2023-08-01T05:01:22.5591658+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 255,
+      "NumberOfAwardsMax": 235
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 253,
-  "NumberOfAwardsMax": 233,
+  "NumberOfAwards": 255,
+  "NumberOfAwardsMax": 235,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 233
+      "Count": 235
     },
     {
       "Text": "This game is Relaxing",
@@ -640,7 +646,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11662,
+  "EOS_Progressed": 11664,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 1,
@@ -8025,6 +8031,11 @@
       "Time": "2023-08-01T04:06:38.3652991+00:00",
       "NumProgressed": 11662,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-01T05:07:30.0074386+00:00",
+      "NumProgressed": 11664,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 35,
@@ -8036,7 +8047,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9446
+      "UsersEstimate": 9448
     },
     {
       "ID": "ACH02",
@@ -8092,7 +8103,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5831
+      "UsersEstimate": 5832
     },
     {
       "ID": "ACH09",
@@ -8132,7 +8143,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2100
     },
     {
       "ID": "ACH14",
@@ -8148,7 +8159,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACH16",
@@ -8260,7 +8271,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "ACH30",
@@ -8315,16 +8326,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11662,
+      "Progressed": 11664,
       "Completed": 32
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-07-31T12:02:14.978295+00:00",
-  "LastChanged_Achievements": "2023-08-01T04:06:38.3652987+00:00",
+  "LastChanged": "2023-08-01T05:01:22.5591656+00:00",
+  "LastChanged_Achievements": "2023-08-01T05:07:30.0074376+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.4328142+00:00",
-  "LastUpdate_Ratings": "2023-08-01T04:00:28.6216481+00:00",
-  "LastUpdate_Achievements": "2023-08-01T04:06:38.3653744+00:00"
+  "LastUpdate_Ratings": "2023-08-01T05:01:22.5591662+00:00",
+  "LastUpdate_Achievements": "2023-08-01T05:07:30.0075645+00:00"
 }

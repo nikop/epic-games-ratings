@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3039,
+  "EOS_Progressed": 3040,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 12,
@@ -3925,6 +3925,11 @@
       "Time": "2023-08-01T04:06:07.3435402+00:00",
       "NumProgressed": 3039,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-08-01T05:06:50.609517+00:00",
+      "NumProgressed": 3040,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 24,
@@ -3944,7 +3949,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "11",
@@ -3960,7 +3965,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "13",
@@ -3976,7 +3981,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "15",
@@ -4016,7 +4021,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 14,
       "XP": 85,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "2",
@@ -4032,7 +4037,7 @@
       "Name": "PROTECTED",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "21",
@@ -4040,7 +4045,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "22",
@@ -4096,7 +4101,7 @@
       "Name": "PRO",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "7",
@@ -4120,20 +4125,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3039,
+      "Progressed": 3040,
       "Completed": 123
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-01T04:06:07.3435391+00:00",
+  "LastChanged_Achievements": "2023-08-01T05:06:50.6095162+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:49.7326864+00:00",
-  "LastUpdate_Ratings": "2023-08-01T03:59:17.5953015+00:00",
-  "LastUpdate_Achievements": "2023-08-01T04:06:07.3435828+00:00"
+  "LastUpdate_Ratings": "2023-08-01T04:59:51.7090865+00:00",
+  "LastUpdate_Achievements": "2023-08-01T05:06:50.6095904+00:00"
 }

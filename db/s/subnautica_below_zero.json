@@ -2,12 +2,12 @@
   "ID": "foxglove",
   "Name": "Subnautica Below Zero",
   "ProductSlug": "subnautica-below-zero",
-  "Ranking_Rating": 108,
-  "Ranking_Popularity": 296,
+  "Ranking_Rating": 107,
+  "Ranking_Popularity": 297,
   "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-05-14T00:00:00+00:00",
@@ -1501,6 +1501,6 @@
   "FirstSeen": "2022-07-22T20:18:53.9147295+00:00",
   "LastChanged": "2023-07-31T06:00:11.5212954+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:12.0847983+00:00",
-  "LastUpdate_Ratings": "2023-08-01T04:00:26.8785767+00:00",
-  "LastUpdate_Achievements": "2023-08-01T04:04:19.8085857+00:00"
+  "LastUpdate_Ratings": "2023-08-01T05:01:20.6703061+00:00",
+  "LastUpdate_Achievements": "2023-08-01T05:04:28.2311161+00:00"
 }

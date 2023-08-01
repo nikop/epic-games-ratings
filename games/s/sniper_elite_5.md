@@ -45,6 +45,7 @@ Rating: 4.42 (Ranked 666)
 | It'll Buff Right Out | 0.80% | ~27 |
 | Shipbreaker | 0.70% | ~23 |
 | Sink or Swim | 0.70% | ~23 |
+| Strategist | 0.60% | ~20 |
 | From Paris with Love | 0.60% | ~20 |
 | Burn after reading | 0.60% | ~20 |
 | Souvenir hunter | 0.60% | ~20 |
@@ -54,7 +55,6 @@ Rating: 4.42 (Ranked 666)
 | Last Resort | 0.60% | ~20 |
 | Siegebreaker | 0.60% | ~20 |
 | Ghost of Falaise | 0.60% | ~20 |
-| Strategist | 0.50% | ~17 |
 | Up close and personal | 0.40% | ~14 |
 | Shoot for the Moon | 0.40% | ~14 |
 | Can't Outrun A Bullet | 0.40% | ~14 |

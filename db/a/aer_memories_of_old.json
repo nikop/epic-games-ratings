@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 83,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,11 +374,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16710,
-  "EOS_Completed": 345,
+  "EOS_Progressed": 16712,
+  "EOS_Completed": 346,
   "EOS_NewPlayers": 567,
-  "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 2.06,
+  "EOS_NewCompleters": 12,
+  "EOS_Completed_Percentage": 2.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -11199,6 +11199,11 @@
       "Time": "2023-08-01T04:04:41.4314538+00:00",
       "NumProgressed": 16710,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2023-08-01T05:04:56.1877227+00:00",
+      "NumProgressed": 16712,
+      "NumCompleted": 346
     }
   ],
   "TotalAchievements": 20,
@@ -11226,7 +11231,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -11274,7 +11279,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2506
+      "UsersEstimate": 2507
     },
     {
       "ID": "FOUND_ERIN",
@@ -11306,7 +11311,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2173
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -11330,7 +11335,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12700
+      "UsersEstimate": 12701
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -11346,7 +11351,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -11369,15 +11374,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 16710,
-      "Completed": 345
+      "Progressed": 16712,
+      "Completed": 346
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-08-01T04:04:41.4314528+00:00",
+  "LastChanged_Achievements": "2023-08-01T05:04:56.1877217+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:59.0842389+00:00",
-  "LastUpdate_Ratings": "2023-08-01T04:00:18.1557947+00:00",
-  "LastUpdate_Achievements": "2023-08-01T04:04:41.4315395+00:00"
+  "LastUpdate_Ratings": "2023-08-01T05:01:10.069684+00:00",
+  "LastUpdate_Achievements": "2023-08-01T05:04:56.1878657+00:00"
 }

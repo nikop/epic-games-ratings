@@ -2,9 +2,9 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 253,
+  "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 300,
+  "EOS_Progressed": 301,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -707,6 +707,11 @@
       "Time": "2023-08-01T04:03:08.9272035+00:00",
       "NumProgressed": 300,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T05:02:09.1113015+00:00",
+      "NumProgressed": 301,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1022,7 +1027,7 @@
       "Name": "Starting Skyward",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ach_floors_1",
@@ -1182,7 +1187,7 @@
       "Name": "In the Black",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ach_profit_1",
@@ -1421,7 +1426,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 300,
+      "Progressed": 301,
       "Completed": 0
     }
   ],
@@ -1429,8 +1434,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-08-01T04:03:08.927203+00:00",
+  "LastChanged_Achievements": "2023-08-01T05:02:09.1113004+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:50.6819272+00:00",
-  "LastUpdate_Ratings": "2023-08-01T03:58:30.3131595+00:00",
-  "LastUpdate_Achievements": "2023-08-01T04:03:08.9273135+00:00"
+  "LastUpdate_Ratings": "2023-08-01T04:58:49.4812187+00:00",
+  "LastUpdate_Achievements": "2023-08-01T05:02:09.1114253+00:00"
 }

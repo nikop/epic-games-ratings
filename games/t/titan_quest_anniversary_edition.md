@@ -5,8 +5,8 @@ Rating: 4.68 (Ranked 240)
 Number of Ratings: 98  (23.09.2022)  
 ## Awards
 Max (Character Customization): 88  (Ranked 351)  
-Sum: 149 (Ranked 391)  
-Diff (max vs sum): -40  
+Sum: 149 (Ranked 392)  
+Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 88 |

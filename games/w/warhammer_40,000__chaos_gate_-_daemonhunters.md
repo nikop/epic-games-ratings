@@ -8,14 +8,14 @@ Number of Ratings: 371  (23.09.2022)
 | ---- | ---------- | ----- |
 | Look Over There! | 2.00% | ~62 |
 | Not So Fast... | 2.00% | ~62 |
+| Blood for the Blood God! | 2.00% | ~62 |
 | Executioner | 2.00% | ~62 |
 | Watch Where You Step... | 2.00% | ~62 |
 | An Ill Omen | 2.00% | ~62 |
-| Blood for the Blood God! | 1.00% | ~31 |
 | Purging Spree | 1.00% | ~31 |
 | Bloodless | 1.00% | ~31 |
+| Surgical Excision | 0.80% | ~25 |
 | Friendly Fire | 0.80% | ~25 |
-| Surgical Excision | 0.70% | ~22 |
 | A Foul Creche | 0.70% | ~22 |
 | Honoured Battle-Brother | 0.60% | ~19 |
 | The Emperor Protects | 0.50% | ~15 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Harvest No More | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,094 (Ranked 152)  
+Progressed: 3,095 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 3,069 | 0 |
 | 2023-07-30 | 3,081 | 0 |
 | 2023-07-31 | 3,092 | 0 |
-| 2023-08-01 | 3,094 | 0 |
+| 2023-08-01 | 3,095 | 0 |
 ## Awards
 Max (Character Customization): 216  (Ranked 265)  
 Sum: 459 (Ranked 303)  

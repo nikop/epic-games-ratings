@@ -56,19 +56,19 @@
 | Undercover robot | 30.00% | ~60 |
 | Gang wrangler | 29.00% | ~58 |
 | Problems of cyborgs | 29.00% | ~58 |
+| Not little hacker | 29.00% | ~58 |
 | Absolute Champion! | 29.00% | ~58 |
-| Not little hacker | 28.00% | ~56 |
 | Careerist | 28.00% | ~56 |
 | Trap disarmed | 27.00% | ~54 |
+| Another world | 27.00% | ~54 |
+| The lonesome road | 27.00% | ~54 |
+| Key memories | 27.00% | ~54 |
 | Anyone can resist | 27.00% | ~54 |
-| Another world | 26.00% | ~52 |
-| The lonesome road | 26.00% | ~52 |
+| The heart of the Resistance | 27.00% | ~54 |
 | Keep nature safe | 26.00% | ~52 |
 | Family comes first | 26.00% | ~52 |
-| Key memories | 26.00% | ~52 |
-| The heart of the Resistance | 26.00% | ~52 |
-| Silver’s past | 23.00% | ~46 |
-| Better cooking at home | 23.00% | ~46 |
+| Silver’s past | 24.00% | ~48 |
+| Better cooking at home | 24.00% | ~48 |
 | The only right decision | 23.00% | ~46 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 199 (Ranked 282)  

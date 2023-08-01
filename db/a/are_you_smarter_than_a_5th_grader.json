@@ -2,9 +2,9 @@
   "ID": "1293d5a9bfc84e7e8574d02b6ee5a3af",
   "Name": "Are You Smarter Than A 5th Grader",
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
-  "Ranking_EOS_Progress": 251,
+  "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -417,8 +417,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-08-01T04:04:21.5096722+00:00",
+  "LastChanged_Achievements": "2023-08-01T05:04:30.502112+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:07.2980808+00:00",
-  "LastUpdate_Ratings": "2023-08-01T04:00:24.5986509+00:00",
-  "LastUpdate_Achievements": "2023-08-01T04:04:21.5096882+00:00"
+  "LastUpdate_Ratings": "2023-08-01T05:01:17.977697+00:00",
+  "LastUpdate_Achievements": "2023-08-01T05:04:30.5021311+00:00"
 }

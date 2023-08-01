@@ -12,14 +12,14 @@ Number of Ratings: 125  (23.09.2022)
 | Let’s Ride | 60.00% | ~1,058 |
 | Welcome to the Weird West | 57.00% | ~1,005 |
 | Dead or Alive | 56.00% | ~988 |
-| Full House | 36.00% | ~635 |
+| Full House | 37.00% | ~653 |
 | Off the Trail | 33.00% | ~582 |
 | Justice Served | 29.00% | ~512 |
 | Chain Reaction | 27.00% | ~476 |
+| Dishonored | 25.00% | ~441 |
 | Rain of Death | 25.00% | ~441 |
 | Scholar | 25.00% | ~441 |
 | Through Their Eyes | 25.00% | ~441 |
-| Dishonored | 24.00% | ~423 |
 | The Great Escape | 23.00% | ~406 |
 | That’s All, Folks | 18.00% | ~318 |
 | Fallen Star | 16.00% | ~282 |

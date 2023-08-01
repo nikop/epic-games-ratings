@@ -6,16 +6,16 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,362 |
+| Just One...More...Term... | 75.00% | ~3,363 |
 | Un-Lonely Island | 47.00% | ~2,107 |
-| The Beginning of a Servantship | 45.00% | ~2,017 |
-| Trade Is My Trait | 37.00% | ~1,658 |
+| The Beginning of a Servantship | 45.00% | ~2,018 |
+| Trade Is My Trait | 37.00% | ~1,659 |
 | Number 18 | 24.00% | ~1,076 |
 | We Don't Have Time For That | 19.00% | ~852 |
 | The Governator | 18.00% | ~807 |
 | The Legend of Langostino | 17.00% | ~762 |
 | Caribbean Comrade | 16.00% | ~717 |
-| The Dreamer of Dreams | 15.00% | ~672 |
+| The Dreamer of Dreams | 15.00% | ~673 |
 | Go Sovereigns! | 11.00% | ~493 |
 | For Science! | 11.00% | ~493 |
 | Happy Ending? | 10.00% | ~448 |
@@ -33,10 +33,10 @@ Number of Ratings: 398  (23.09.2022)
 | Viva Tropico! | 5.00% | ~224 |
 | Fairy Tale Come True | 5.00% | ~224 |
 | Apocalypso | 4.00% | ~179 |
-| Been there, Done That | 3.00% | ~134 |
-| Narcissist | 3.00% | ~134 |
-| Promising Endeavors | 3.00% | ~134 |
-| The Time For Wonders | 3.00% | ~134 |
+| Been there, Done That | 3.00% | ~135 |
+| Narcissist | 3.00% | ~135 |
+| Promising Endeavors | 3.00% | ~135 |
+| The Time For Wonders | 3.00% | ~135 |
 | Chain Gang | 2.00% | ~90 |
 | One Does Not Simply Stage A Coup | 2.00% | ~90 |
 | Sublime Subliminal Supreme | 2.00% | ~90 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~40 |
 | My Ways | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,482 (Ranked 144)  
+Progressed: 4,484 (Ranked 144)  
 Completed: 2 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 2 (0.04%) (Ranked 218)
 | 2023-07-29 | 4,413 | 2 |
 | 2023-07-30 | 4,451 | 2 |
 | 2023-07-31 | 4,478 | 2 |
-| 2023-08-01 | 4,482 | 2 |
+| 2023-08-01 | 4,484 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 341)  
 Sum: 672 (Ranked 276)  

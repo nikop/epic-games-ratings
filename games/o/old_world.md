@@ -112,6 +112,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.30% | ~40 |
 | Ambition Victory | 0.30% | ~40 |
 | Double Victory | 0.30% | ~40 |
+| Win a Single Player Game | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
 | Bad Heir Day | 0.20% | ~26 |
 | Ishtar Gate in Babylon | 0.20% | ~26 |
@@ -140,7 +141,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.20% | ~26 |
 | All Nations | 0.20% | ~26 |
 | No Undo | 0.20% | ~26 |
-| Win a Single Player Game | 0.20% | ~26 |
 | Patriarch St Paul | 0.20% | ~26 |
 | Hypatia the Teacher | 0.20% | ~26 |
 | Centenarian | 0.10% | ~13 |

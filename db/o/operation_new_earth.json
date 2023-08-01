@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 734,
+  "EOS_Progressed": 735,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2526,6 +2526,11 @@
       "Time": "2023-08-01T02:11:11.1563494+00:00",
       "NumProgressed": 734,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T05:06:24.6511877+00:00",
+      "NumProgressed": 735,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2553,7 +2558,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ach_defeat_players_100",
@@ -2617,7 +2622,7 @@
       "Name": "Keeping Busy",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "objective_headquarters_15",
@@ -2721,7 +2726,7 @@
       "Name": "Covert Operative",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -2840,14 +2845,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 734,
+      "Progressed": 735,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-01T04:05:47.5225462+00:00",
+  "LastChanged_Achievements": "2023-08-01T05:06:24.6511872+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-08-01T03:57:12.5425124+00:00",
-  "LastUpdate_Achievements": "2023-08-01T04:05:47.5225871+00:00"
+  "LastUpdate_Ratings": "2023-08-01T04:57:10.4879608+00:00",
+  "LastUpdate_Achievements": "2023-08-01T05:06:24.6512487+00:00"
 }

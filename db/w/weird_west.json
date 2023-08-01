@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -327,7 +327,7 @@
   ],
   "EOS_Progressed": 1764,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1678,9 +1678,9 @@
       "ID": "ACH_DISHONORED",
       "SetID": "8j30i9k",
       "Name": "Dishonored",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 441
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -1734,9 +1734,9 @@
       "ID": "ACH_FULL_HOUSE",
       "SetID": "8j30i9k",
       "Name": "Full House",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 635
+      "UsersEstimate": 653
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -2086,8 +2086,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-08-01T04:05:03.0012143+00:00",
+  "LastChanged_Achievements": "2023-08-01T05:05:29.1442656+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.150321+00:00",
-  "LastUpdate_Ratings": "2023-08-01T03:58:55.8963846+00:00",
-  "LastUpdate_Achievements": "2023-08-01T04:05:03.0012679+00:00"
+  "LastUpdate_Ratings": "2023-08-01T04:59:22.414283+00:00",
+  "LastUpdate_Achievements": "2023-08-01T05:05:29.1443631+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -642,9 +642,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3094,
+  "EOS_Progressed": 3095,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2782,6 +2782,11 @@
       "Time": "2023-08-01T04:04:29.2471316+00:00",
       "NumProgressed": 3094,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T05:04:40.5571352+00:00",
+      "NumProgressed": 3095,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -2887,9 +2892,9 @@
       "ID": "ExtractorSkullUses",
       "SetID": "3jha1np",
       "Name": "Surgical Excision",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -2967,9 +2972,9 @@
       "ID": "Kills_Bleed",
       "SetID": "3jha1np",
       "Name": "Blood for the Blood God!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 62
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -3336,21 +3341,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3094,
+      "Progressed": 3095,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3094,
+      "Progressed": 3095,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-30T00:00:03.0070741+00:00",
-  "LastChanged_Achievements": "2023-08-01T04:04:29.2471306+00:00",
+  "LastChanged_Achievements": "2023-08-01T05:04:40.5571346+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:36.2653351+00:00",
-  "LastUpdate_Ratings": "2023-08-01T03:59:06.9409874+00:00",
-  "LastUpdate_Achievements": "2023-08-01T04:04:29.2472158+00:00"
+  "LastUpdate_Ratings": "2023-08-01T04:59:37.6719661+00:00",
+  "LastUpdate_Achievements": "2023-08-01T05:04:40.5572328+00:00"
 }
