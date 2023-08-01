@@ -1,8 +1,8 @@
 | Game | Total Achievements | Total XP | Sets |
 | ---- | ------------------ | -------- | ---- |
-| [](../games/d/d602fd70876141ba9bf4d54809c423d1.md) | 0 | 0 | 2 |
-| [](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 0 | 0 | 2 |
 | [](../games/4/4ceb047b661d401e95132c459fb00f9a.md) | 0 | 0 | 2 |
+| [](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 0 | 0 | 2 |
+| [](../games/d/d602fd70876141ba9bf4d54809c423d1.md) | 0 | 0 | 2 |
 | [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 50 | 1,215 | 2 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 | 2 |
 | [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 | 2 |
