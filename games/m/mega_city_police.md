@@ -10,7 +10,7 @@
 | Hammer Time | 42.00% | ~10 |
 | Escape From M.C. | 25.00% | ~6 |
 | Restore Honor | 25.00% | ~6 |
-| Overkill | 8.00% | ~2 |
+| Overkill | 13.00% | ~3 |
 | Bring Down the Corp | 8.00% | ~2 |
 | Gibbing Love | 4.00% | ~1 |
 | Lieutenant | 4.00% | ~1 |

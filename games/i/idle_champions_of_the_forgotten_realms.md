@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,705 |
+| A Brief Tour of the Realms | 4.00% | ~8,706 |
 | Beast Intentions | 3.00% | ~6,529 |
 | Maddening | 2.00% | ~4,353 |
 | The Silken Swamp | 1.00% | ~2,176 |
@@ -22,15 +22,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pros and CONs | 0.60% | ~1,306 |
 | Wet Feet | 0.60% | ~1,306 |
 | Hatchlings Underfoot | 0.60% | ~1,306 |
-| Return to the Tomb | 0.60% | ~1,103 |
-| Heatwave | 0.60% | ~1,103 |
+| Return to the Tomb | 0.60% | ~1,104 |
+| Heatwave | 0.60% | ~1,104 |
 | Were-verpowered | 0.60% | ~1,306 |
 | A Persistent Buzzing | 0.60% | ~1,306 |
 | Terror in the Dark | 0.60% | ~1,306 |
 | A Mysterious Summons | 0.60% | ~1,306 |
 | Building Trust | 0.60% | ~1,306 |
 | Unearthed Evil | 0.60% | ~1,306 |
-| The Champion's Guide to Wildspace | 0.60% | ~1,103 |
+| The Champion's Guide to Wildspace | 0.60% | ~1,104 |
 | The Witchlight Carnival | 0.50% | ~920 |
 | Don't Look Up! | 0.50% | ~1,088 |
 | Heavy Burden | 0.50% | ~1,088 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,634 (Ranked 53)  
+Progressed: 217,644 (Ranked 53)  
 Completed: 2,141 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,7 +622,7 @@ Completed: 2,141 (0.98%) (Ranked 112)
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
-| 2023-08-01 | 217,634 | 2,141 |
+| 2023-08-01 | 217,644 | 2,141 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
 Sum: 30,840 (Ranked 38)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -240,7 +240,7 @@
   "Tags": [],
   "EOS_Progressed": 441,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1232,9 +1232,9 @@
       "ID": "ACH_CHALL_1",
       "SetID": "1j25agn",
       "Name": "Warm Up",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CHALL_CH01",
@@ -1712,8 +1712,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-08-01T13:13:04.5575339+00:00",
+  "LastChanged_Achievements": "2023-08-01T14:05:56.167685+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:12.2817401+00:00",
-  "LastUpdate_Ratings": "2023-08-01T13:04:59.5432998+00:00",
-  "LastUpdate_Achievements": "2023-08-01T13:13:04.5575807+00:00"
+  "LastUpdate_Ratings": "2023-08-01T13:58:15.0505764+00:00",
+  "LastUpdate_Achievements": "2023-08-01T14:05:56.1677543+00:00"
 }

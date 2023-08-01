@@ -35,9 +35,9 @@ Rating: 4.44 (Ranked 646)
 | One For Every Occasion | 18.00% | ~555 |
 | Frontliner | 18.00% | ~555 |
 | Excavating The Truth | 18.00% | ~555 |
+| Abysmal Horrors | 18.00% | ~555 |
 | Bandage Lover | 17.00% | ~524 |
 | The Cable Guy | 17.00% | ~524 |
-| Abysmal Horrors | 17.00% | ~524 |
 | Regicide | 13.00% | ~401 |
 | Flawless Victory | 11.00% | ~339 |
 | This Went Smoothly | 11.00% | ~339 |

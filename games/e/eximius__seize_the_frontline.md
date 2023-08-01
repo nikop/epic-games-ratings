@@ -1,28 +1,28 @@
 # Eximius: Seize the Frontline
 [Store](https://store.epicgames.com/en-US/p/eximius-seize-the-frontline)  
 [View Rawdata](../../db/e/eximius__seize_the_frontline.json)  
-Rating: 4.18 (Ranked 867)  
+Rating: 4.17 (Ranked 872)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduate Boot Camp | 71.00% | ~137,416 |
-| Initiation | 18.00% | ~34,838 |
-| Battlesuit Victory | 8.00% | ~15,483 |
-| Flawless Victory | 5.00% | ~9,677 |
-| Baby Steps | 5.00% | ~9,677 |
-| First Co-Op Win | 5.00% | ~9,677 |
-| Gated Community | 3.00% | ~5,806 |
+| Graduate Boot Camp | 71.00% | ~137,422 |
+| Initiation | 18.00% | ~34,839 |
+| Battlesuit Victory | 8.00% | ~15,484 |
+| Flawless Victory | 5.00% | ~9,678 |
+| Baby Steps | 5.00% | ~9,678 |
+| First Co-Op Win | 5.00% | ~9,678 |
+| Gated Community | 3.00% | ~5,807 |
 | Tag Team Champions | 2.00% | ~3,871 |
-| Total Destruction | 1.00% | ~1,935 |
-| Getting There | 1.00% | ~1,935 |
-| Untouchable | 1.00% | ~1,935 |
+| Total Destruction | 1.00% | ~1,936 |
+| Getting There | 1.00% | ~1,936 |
+| Untouchable | 1.00% | ~1,936 |
 | Mastermind | 0.50% | ~968 |
 | We shall never Surrender! | 0.20% | ~387 |
 | Halfway There | 0.20% | ~387 |
 | Not Afraid of the Big Bad Wolf | 0.10% | ~194 |
 | Many More to Come | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 193,543 (Ranked 58)  
+Progressed: 193,552 (Ranked 58)  
 Completed: 4 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 4 (0.00%) (Ranked 247)
 | 2023-07-29 | 193,297 | 4 |
 | 2023-07-30 | 193,428 | 4 |
 | 2023-07-31 | 193,509 | 4 |
-| 2023-08-01 | 193,543 | 4 |
+| 2023-08-01 | 193,552 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -177,3 +177,4 @@ Completed: 4 (0.00%) (Ranked 247)
 | 2023-07-01 | 4.18 | 0 | 0 |
 | 2023-07-05 | 4.19 | 0 | 0 |
 | 2023-07-15 | 4.18 | 0 | 0 |
+| 2023-08-01 | 4.17 | 0 | 0 |

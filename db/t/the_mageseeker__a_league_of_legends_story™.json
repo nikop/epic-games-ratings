@@ -3545,9 +3545,9 @@
       "ID": "STB_PET_HORSE",
       "SetID": "3pe2bac",
       "Name": "You can pet the... horse",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 248
     },
     {
       "ID": "STB_PLATINUM",
@@ -3641,9 +3641,9 @@
       "ID": "STB_UNLOCK_ULTIMATE",
       "SetID": "3pe2bac",
       "Name": "Ancient power",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 596
+      "UsersEstimate": 621
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -3666,8 +3666,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-08-01T13:10:33.7382385+00:00",
+  "LastChanged_Achievements": "2023-08-01T14:03:28.707388+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:29.275218+00:00",
-  "LastUpdate_Ratings": "2023-08-01T13:05:08.2794215+00:00",
-  "LastUpdate_Achievements": "2023-08-01T13:10:33.7382852+00:00"
+  "LastUpdate_Ratings": "2023-08-01T13:58:21.1182611+00:00",
+  "LastUpdate_Achievements": "2023-08-01T14:03:28.707467+00:00"
 }

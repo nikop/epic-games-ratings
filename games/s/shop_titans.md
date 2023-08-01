@@ -7,8 +7,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 0.50% | ~668 |
+| Basic in Bulk | 0.50% | ~668 |
 | Titan's First Steps | 0.50% | ~668 |
-| Basic in Bulk | 0.40% | ~535 |
 | Tinkle of Coins | 0.40% | ~535 |
 | Some Assembly Required | 0.30% | ~401 |
 | Disintermediation | 0.30% | ~401 |
@@ -16,6 +16,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | It's Free Real Estate | 0.30% | ~401 |
 | Budding Merchant | 0.30% | ~401 |
 | Capitalism Ho! | 0.30% | ~401 |
+| Own the Means of Production | 0.30% | ~401 |
 | The Daily Grind | 0.20% | ~267 |
 | One Easy Payment | 0.20% | ~267 |
 | Bounty Hunters | 0.20% | ~267 |
@@ -28,7 +29,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.20% | ~267 |
 | Dungeon Imports | 0.20% | ~267 |
 | Through Repetition, Perfection | 0.20% | ~267 |
-| Own the Means of Production | 0.20% | ~267 |
 | On the Path to Greatness | 0.10% | ~134 |
 | A Notch Above the Rest | 0.10% | ~134 |
 | Cream of the Crop | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,675 (Ranked 62)  
+Progressed: 133,680 (Ranked 62)  
 Completed: 125 (0.09%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 125 (0.09%) (Ranked 198)
 | 2023-07-29 | 133,512 | 124 |
 | 2023-07-30 | 133,588 | 124 |
 | 2023-07-31 | 133,652 | 124 |
-| 2023-08-01 | 133,675 | 125 |
+| 2023-08-01 | 133,680 | 125 |
 ## Awards
 Max (Great for Beginners): 4,682  (Ranked 70)  
 Sum: 27,021 (Ranked 46)  

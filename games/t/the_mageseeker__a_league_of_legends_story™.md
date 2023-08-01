@@ -24,8 +24,8 @@ Rating: 4.81 (Ranked 76)
 | Hijack | 28.00% | ~695 |
 | Devineur | 28.00% | ~695 |
 | Whispers in the Woods I | 27.00% | ~670 |
+| Ancient power | 25.00% | ~621 |
 | I chose my shackles | 24.00% | ~596 |
-| Ancient power | 24.00% | ~596 |
 | Sacred Woods | 22.00% | ~546 |
 | Capelworth | 22.00% | ~546 |
 | Little light | 21.00% | ~521 |
@@ -52,9 +52,9 @@ Rating: 4.81 (Ranked 76)
 | Call it 'redistribution of magic | 11.00% | ~273 |
 | Chains master | 10.00% | ~248 |
 | Truth is a dark mirror | 10.00% | ~248 |
+| You can pet the... horse | 10.00% | ~248 |
 | Do you trust me? | 9.00% | ~223 |
 | The great mage rebellion starts now | 9.00% | ~223 |
-| You can pet the... horse | 9.00% | ~223 |
 | Spellcrafting | 9.00% | ~223 |
 | Silverwing nest | 2.00% | ~50 |
 | The Unshackled | 0.80% | ~20 |

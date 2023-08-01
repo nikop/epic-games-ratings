@@ -48,6 +48,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.70% | ~93 |
 | Roman Paganism | 0.70% | ~93 |
 | Zoroastrianism | 0.70% | ~93 |
+| Regicide | 0.60% | ~79 |
 | Brilliant | 0.60% | ~79 |
 | Great | 0.60% | ~79 |
 | Artisans | 0.60% | ~79 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 0.60% | ~79 |
 | Necropolis | 0.60% | ~79 |
 | Learn to Play 1 | 0.60% | ~79 |
-| Regicide | 0.50% | ~66 |
 | Drillmaster | 0.50% | ~66 |
 | Intercessor | 0.50% | ~66 |
 | Legendary Cities | 0.50% | ~66 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,215 (Ranked 117)  
+Progressed: 13,216 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-07-29 | 13,164 | 5 |
 | 2023-07-30 | 13,191 | 5 |
 | 2023-07-31 | 13,209 | 5 |
-| 2023-08-01 | 13,215 | 5 |
+| 2023-08-01 | 13,216 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 262)  
 Sum: 1,785 (Ranked 206)  

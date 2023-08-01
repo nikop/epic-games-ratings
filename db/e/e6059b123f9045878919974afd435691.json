@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -1366,9 +1366,9 @@
       "ID": "AMMO_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "FULLCLIP",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 111
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -1654,9 +1654,9 @@
       "ID": "KILLR_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Call The Winchester",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 72
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -1885,8 +1885,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-01T13:13:20.896161+00:00",
+  "LastChanged_Achievements": "2023-08-01T14:06:11.1920354+00:00",
   "LastUpdate_AppInfo": "2023-07-27T13:57:11.3772461+00:00",
-  "LastUpdate_Ratings": "2023-08-01T13:04:10.2185676+00:00",
-  "LastUpdate_Achievements": "2023-08-01T13:13:20.8962199+00:00"
+  "LastUpdate_Ratings": "2023-08-01T13:57:25.650311+00:00",
+  "LastUpdate_Achievements": "2023-08-01T14:06:11.1921507+00:00"
 }

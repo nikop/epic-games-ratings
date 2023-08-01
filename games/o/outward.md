@@ -6,29 +6,29 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,426 |
-| Ready for Winter | 64.00% | ~2,070 |
-| Ready for Summer | 51.00% | ~1,649 |
+| Venture Outward | 75.00% | ~2,427 |
+| Ready for Winter | 64.00% | ~2,071 |
+| Ready for Summer | 51.00% | ~1,650 |
 | Cordon Bleu | 43.00% | ~1,391 |
-| Tapped! | 36.00% | ~1,164 |
+| Tapped! | 36.00% | ~1,165 |
 | Eureka | 31.00% | ~1,003 |
-| Scourge Slayer | 25.00% | ~808 |
+| Scourge Slayer | 25.00% | ~809 |
 | Science, Troglodyte! | 23.00% | ~744 |
-| Exceptional Skill | 22.00% | ~711 |
-| Home Sweet Home | 22.00% | ~711 |
-| Encyclopedic! | 19.00% | ~614 |
-| A Fortress Toppled! | 16.00% | ~517 |
-| Apex Predator | 16.00% | ~517 |
-| The Power of Family | 16.00% | ~517 |
+| Exceptional Skill | 22.00% | ~712 |
+| Home Sweet Home | 22.00% | ~712 |
+| Encyclopedic! | 19.00% | ~615 |
+| A Fortress Toppled! | 16.00% | ~518 |
+| Apex Predator | 16.00% | ~518 |
+| The Power of Family | 16.00% | ~518 |
 | The Power of Faith | 12.00% | ~388 |
 | Strange amalgams | 11.00% | ~356 |
 | The Power of Freedom | 9.00% | ~291 |
 | Ace Detective | 8.00% | ~259 |
 | Gift from the Ancestors | 8.00% | ~259 |
 | Magic is a science | 8.00% | ~259 |
-| House of Cards | 7.00% | ~226 |
-| Let ‘em eat magma! | 7.00% | ~226 |
-| The power of ambition | 7.00% | ~226 |
+| House of Cards | 7.00% | ~227 |
+| Let ‘em eat magma! | 7.00% | ~227 |
+| The power of ambition | 7.00% | ~227 |
 | Hold my Mead and Watch This | 6.00% | ~194 |
 | The stuff of legends. | 6.00% | ~194 |
 | Blood and justice | 5.00% | ~162 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,234 (Ranked 151)  
+Progressed: 3,236 (Ranked 151)  
 Completed: 3 (0.09%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 3 (0.09%) (Ranked 198)
 | 2023-07-29 | 3,182 | 3 |
 | 2023-07-30 | 3,205 | 3 |
 | 2023-07-31 | 3,217 | 3 |
-| 2023-08-01 | 3,234 | 3 |
+| 2023-08-01 | 3,236 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 446)  
 Sum: 241 (Ranked 352)  

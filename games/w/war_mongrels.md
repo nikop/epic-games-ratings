@@ -52,7 +52,7 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter IX | 3.00% | ~13 |
 | Daddy Would Be Proud | 2.00% | ~9 |
 | Hold a Door | 1.00% | ~4 |
-| Warm Up | 0.20% | ~1 |
+| Warm Up | 0.50% | ~2 |
 | Challenges of Chapter I | 0.00% | ~0 |
 | Challenges of Chapter II | 0.00% | ~0 |
 | Challenges of Chapter III | 0.00% | ~0 |

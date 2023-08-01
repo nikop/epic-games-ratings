@@ -1,23 +1,23 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.18 (Ranked 867)  
+Rating: 4.18 (Ranked 866)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~6,086 |
-| Disposing of the Evidence | 37.00% | ~2,713 |
-| Without a Scratch | 33.00% | ~2,420 |
-| Wreckless Driving | 28.00% | ~2,053 |
-| A Marked Man | 25.00% | ~1,833 |
+| First Day on the Job | 83.00% | ~6,089 |
+| Disposing of the Evidence | 37.00% | ~2,714 |
+| Without a Scratch | 33.00% | ~2,421 |
+| Wreckless Driving | 28.00% | ~2,054 |
+| A Marked Man | 25.00% | ~1,834 |
 | Street Sweeper | 18.00% | ~1,320 |
-| Liberty City Minute | 16.00% | ~1,173 |
-| Offshore Delivery | 13.00% | ~953 |
+| Liberty City Minute | 16.00% | ~1,174 |
+| Offshore Delivery | 13.00% | ~954 |
 | Dirty Money | 12.00% | ~880 |
-| By a Mile | 10.00% | ~733 |
-| Right-hand Man | 10.00% | ~733 |
+| By a Mile | 10.00% | ~734 |
+| Right-hand Man | 10.00% | ~734 |
 | Not So Fast | 9.00% | ~660 |
-| A Gift from the King | 7.00% | ~513 |
+| A Gift from the King | 7.00% | ~514 |
 | Full Artillery | 4.00% | ~293 |
 | Mob Boss | 2.00% | ~147 |
 | Splish Splash | 2.00% | ~147 |
@@ -35,7 +35,7 @@ Rating: 4.18 (Ranked 867)
 | Is That All You've Got? | 0.80% | ~59 |
 | King of Liberty City | 0.60% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,333 (Ranked 130)  
+Progressed: 7,336 (Ranked 130)  
 Completed: 42 (0.57%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 42 (0.57%) (Ranked 130)
 | 2023-07-29 | 7,268 | 41 |
 | 2023-07-30 | 7,292 | 42 |
 | 2023-07-31 | 7,318 | 42 |
-| 2023-08-01 | 7,333 | 42 |
+| 2023-08-01 | 7,336 | 42 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

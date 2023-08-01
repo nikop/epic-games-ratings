@@ -2922,9 +2922,9 @@
       "Count": 488
     }
   ],
-  "EOS_Progressed": 7973,
+  "EOS_Progressed": 7974,
   "EOS_Completed": 185,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.32,
   "EosHistory": [
@@ -8087,6 +8087,11 @@
       "Time": "2023-08-01T13:09:21.1623159+00:00",
       "NumProgressed": 7973,
       "NumCompleted": 185
+    },
+    {
+      "Time": "2023-08-01T14:02:10.586768+00:00",
+      "NumProgressed": 7974,
+      "NumCompleted": 185
     }
   ],
   "TotalAchievements": 15,
@@ -8154,7 +8159,7 @@
       "Name": "Gardener",
       "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 2551
+      "UsersEstimate": 2552
     },
     {
       "ID": "Generous",
@@ -8186,7 +8191,7 @@
       "Name": "Photographer",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 5581
+      "UsersEstimate": 5582
     },
     {
       "ID": "Renovator",
@@ -8217,7 +8222,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 7973,
+      "Progressed": 7974,
       "Completed": 185
     }
   ],
@@ -8225,8 +8230,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-07-31T21:58:50.2155551+00:00",
-  "LastChanged_Achievements": "2023-08-01T13:09:21.1623154+00:00",
+  "LastChanged_Achievements": "2023-08-01T14:02:10.5867673+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:57.9650377+00:00",
-  "LastUpdate_Ratings": "2023-08-01T13:05:45.1469763+00:00",
-  "LastUpdate_Achievements": "2023-08-01T13:09:21.1623474+00:00"
+  "LastUpdate_Ratings": "2023-08-01T13:58:53.7104785+00:00",
+  "LastUpdate_Achievements": "2023-08-01T14:02:10.5868284+00:00"
 }

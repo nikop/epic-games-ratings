@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 740,
+  "EOS_Progressed": 741,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2551,6 +2551,11 @@
       "Time": "2023-08-01T13:13:30.8227385+00:00",
       "NumProgressed": 740,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T14:06:20.0765103+00:00",
+      "NumProgressed": 741,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2746,7 +2751,7 @@
       "Name": "Covert Operative",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -2770,7 +2775,7 @@
       "Name": "Stocking Up",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -2802,7 +2807,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -2865,14 +2870,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 740,
+      "Progressed": 741,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-01T13:13:30.8227381+00:00",
+  "LastChanged_Achievements": "2023-08-01T14:06:20.0765097+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-08-01T13:03:47.0827636+00:00",
-  "LastUpdate_Achievements": "2023-08-01T13:13:30.8227718+00:00"
+  "LastUpdate_Ratings": "2023-08-01T13:57:05.5906903+00:00",
+  "LastUpdate_Achievements": "2023-08-01T14:06:20.0765573+00:00"
 }

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 59766,
+  "EOS_Progressed": 59770,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 1054,
+  "EOS_NewPlayers": 1053,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9817,6 +9817,11 @@
       "Time": "2023-08-01T13:11:47.16999+00:00",
       "NumProgressed": 59766,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-08-01T14:04:45.3682966+00:00",
+      "NumProgressed": 59770,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 67,
@@ -9828,7 +9833,7 @@
       "Name": "Follow the Light",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 21516
+      "UsersEstimate": 21517
     },
     {
       "ID": "02",
@@ -9876,7 +9881,7 @@
       "Name": "Heavy Metal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6574
+      "UsersEstimate": 6575
     },
     {
       "ID": "08",
@@ -9884,7 +9889,7 @@
       "Name": "Iron Horse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6574
+      "UsersEstimate": 6575
     },
     {
       "ID": "09",
@@ -9916,7 +9921,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6574
+      "UsersEstimate": 6575
     },
     {
       "ID": "13",
@@ -10020,7 +10025,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4781
+      "UsersEstimate": 4782
     },
     {
       "ID": "26",
@@ -10036,7 +10041,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6574
+      "UsersEstimate": 6575
     },
     {
       "ID": "28",
@@ -10044,7 +10049,7 @@
       "Name": "Come One, Come All",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6574
+      "UsersEstimate": 6575
     },
     {
       "ID": "29",
@@ -10068,7 +10073,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8965
+      "UsersEstimate": 8966
     },
     {
       "ID": "32",
@@ -10076,7 +10081,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16734
+      "UsersEstimate": 16736
     },
     {
       "ID": "33",
@@ -10100,7 +10105,7 @@
       "Name": "Let There Be Light",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17332
+      "UsersEstimate": 17333
     },
     {
       "ID": "36",
@@ -10140,7 +10145,7 @@
       "Name": "Right of Way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4781
+      "UsersEstimate": 4782
     },
     {
       "ID": "41",
@@ -10148,7 +10153,7 @@
       "Name": "Finders Keepers",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8965
+      "UsersEstimate": 8966
     },
     {
       "ID": "42",
@@ -10188,7 +10193,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 8367
+      "UsersEstimate": 8368
     },
     {
       "ID": "47",
@@ -10363,21 +10368,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 59766,
+      "Progressed": 59770,
       "Completed": 61
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23234,
+      "Progressed": 23238,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-01T13:11:47.1699895+00:00",
+  "LastChanged_Achievements": "2023-08-01T14:04:45.3682961+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:35.0351219+00:00",
-  "LastUpdate_Ratings": "2023-08-01T13:05:13.3817098+00:00",
-  "LastUpdate_Achievements": "2023-08-01T13:11:47.1700879+00:00"
+  "LastUpdate_Ratings": "2023-08-01T13:58:26.5033772+00:00",
+  "LastUpdate_Achievements": "2023-08-01T14:04:45.3684383+00:00"
 }

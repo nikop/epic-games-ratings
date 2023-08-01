@@ -452,25 +452,25 @@
       "ID": "5",
       "SetID": "6m1k8ai",
       "Name": "Dont mind the heat",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "6",
       "SetID": "6m1k8ai",
       "Name": "City of Puzzles",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "7",
       "SetID": "6m1k8ai",
       "Name": "This field of danger",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "8",
@@ -498,8 +498,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-08-01T13:12:24.2511791+00:00",
+  "LastChanged_Achievements": "2023-08-01T14:05:19.947534+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.5511093+00:00",
-  "LastUpdate_Ratings": "2023-08-01T13:06:11.4550262+00:00",
-  "LastUpdate_Achievements": "2023-08-01T13:12:24.2512122+00:00"
+  "LastUpdate_Ratings": "2023-08-01T13:59:18.9562139+00:00",
+  "LastUpdate_Achievements": "2023-08-01T14:05:19.9475856+00:00"
 }

@@ -16,12 +16,12 @@
 | Neurotrainer – power gainer! | 74.00% | ~147 |
 | Employee of the week | 74.00% | ~147 |
 | Your own amateur gym | 73.00% | ~145 |
-| Run K, run! | 69.00% | ~137 |
+| Run K, run! | 70.00% | ~139 |
 | No bullying more | 67.00% | ~133 |
 | Hello, world! | 67.00% | ~133 |
 | Fighting is cool | 65.00% | ~129 |
 | Pal of your father? | 63.00% | ~125 |
-| Employee of the month | 61.00% | ~121 |
+| Employee of the month | 62.00% | ~123 |
 | Spirit of the past | 60.00% | ~119 |
 | Law student | 59.00% | ~117 |
 | Workout professional | 56.00% | ~111 |
@@ -34,12 +34,12 @@
 | Employee of the year | 53.00% | ~105 |
 | Fight for life | 52.00% | ~103 |
 | Legal courier | 51.00% | ~101 |
-| Extreme neuropower! | 48.00% | ~96 |
+| Extreme neuropower! | 49.00% | ~98 |
 | Escaped from a big trouble | 48.00% | ~96 |
 | Now you are worthy | 46.00% | ~92 |
 | No blades in the gym | 45.00% | ~90 |
 | Your own way | 45.00% | ~90 |
-| Guiding on the right path | 43.00% | ~86 |
+| Guiding on the right path | 44.00% | ~88 |
 | Fight is life | 42.00% | ~84 |
 | Mysterious voice | 42.00% | ~84 |
 | Get out of my apartment! | 38.00% | ~76 |
@@ -48,16 +48,16 @@
 | Deal with life | 35.00% | ~70 |
 | GYM professional | 35.00% | ~70 |
 | Champion – no way back | 35.00% | ~70 |
+| Poisoned fighter | 34.00% | ~68 |
 | Seashell hunter | 34.00% | ~68 |
 | Mom got better | 33.00% | ~66 |
-| Poisoned fighter | 33.00% | ~66 |
 | The die is cast | 33.00% | ~66 |
 | The last bell ring | 31.00% | ~62 |
 | Gang wrangler | 30.00% | ~60 |
+| Absolute Champion! | 30.00% | ~60 |
 | Undercover robot | 30.00% | ~60 |
 | Problems of cyborgs | 29.00% | ~58 |
 | Not little hacker | 29.00% | ~58 |
-| Absolute Champion! | 29.00% | ~58 |
 | Careerist | 28.00% | ~56 |
 | Trap disarmed | 27.00% | ~54 |
 | Another world | 27.00% | ~54 |

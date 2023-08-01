@@ -730,9 +730,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6533,
+  "EOS_Progressed": 6534,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4010,6 +4010,11 @@
       "Time": "2023-08-01T12:05:36.8599151+00:00",
       "NumProgressed": 6533,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-01T14:05:54.1881037+00:00",
+      "NumProgressed": 6534,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4187,9 +4192,9 @@
       "ID": "ISONZO_ACH_MAMMA_MIA",
       "SetID": "akchbl3",
       "Name": "Mamma Mia!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2483
+      "UsersEstimate": 2418
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -4213,7 +4218,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3593
+      "UsersEstimate": 3594
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -4349,7 +4354,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3593
+      "UsersEstimate": 3594
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -4373,14 +4378,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3462
+      "UsersEstimate": 3463
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6533,
+      "Progressed": 6534,
       "Completed": 8
     }
   ],
@@ -4388,8 +4393,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-30T14:57:50.252442+00:00",
-  "LastChanged_Achievements": "2023-08-01T13:13:02.3858913+00:00",
+  "LastChanged_Achievements": "2023-08-01T14:05:54.1881033+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:14.0482826+00:00",
-  "LastUpdate_Ratings": "2023-08-01T13:05:06.0973202+00:00",
-  "LastUpdate_Achievements": "2023-08-01T13:13:02.3859358+00:00"
+  "LastUpdate_Ratings": "2023-08-01T13:58:19.4310754+00:00",
+  "LastUpdate_Achievements": "2023-08-01T14:05:54.1881749+00:00"
 }
