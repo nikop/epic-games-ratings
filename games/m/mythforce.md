@@ -6,6 +6,7 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Deadication | 2.00% | ~10 |
 | Death Becomes You | 2.00% | ~10 |
 | Debuff Dogpile | 2.00% | ~10 |
 | Faceroll the Bones | 2.00% | ~10 |
@@ -17,20 +18,19 @@ Number of Ratings: 285  (23.09.2022)
 | On this Episode! | 2.00% | ~10 |
 | Perk Shard Punch Card | 2.00% | ~10 |
 | Season Finale | 2.00% | ~10 |
+| Ten Steps from the Grave | 2.00% | ~10 |
 | That'll Leave a Mark | 2.00% | ~10 |
 | Cold-Blooded Critters | 1.00% | ~5 |
-| Deadication | 1.00% | ~5 |
+| The Fourth Gate | 1.00% | ~5 |
 | The Harder They Fall | 1.00% | ~5 |
 | Horder Better Faster Stronger | 1.00% | ~5 |
 | Spending Spree | 1.00% | ~5 |
-| Ten Steps from the Grave | 1.00% | ~5 |
-| Everything Must Go! | 0.60% | ~3 |
-| The Fourth Gate | 0.60% | ~3 |
+| Everything Must Go! | 0.80% | ~4 |
 | We've Got a Kaiju on the Field | 0.20% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 521 (Ranked 220)  
+Progressed: 525 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,11 +47,11 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 446 | 0 |
 | 2023-07-30 | 474 | 0 |
 | 2023-07-31 | 492 | 0 |
-| 2023-08-01 | 521 | 0 |
+| 2023-08-01 | 525 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 451)  
-Sum: 226 (Ranked 353)  
-Diff (max vs sum): 98  
+Sum: 226 (Ranked 354)  
+Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 32 |

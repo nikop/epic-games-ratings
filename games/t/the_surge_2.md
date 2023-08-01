@@ -5,43 +5,43 @@ Rating: 4.25 (Ranked 819)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,547 |
-| Don't I Know You...? | 76.00% | ~1,470 |
-| Jailbreak | 65.00% | ~1,257 |
-| Suited and Booted | 38.00% | ~735 |
+| Rigged And Ready | 80.00% | ~1,549 |
+| Don't I Know You...? | 76.00% | ~1,471 |
+| Jailbreak | 65.00% | ~1,258 |
+| Suited and Booted | 38.00% | ~736 |
 | HEADSHOT! | 37.00% | ~716 |
-| Sleeping With The Fishes | 35.00% | ~677 |
-| Overheated | 30.00% | ~580 |
-| High Performance | 30.00% | ~580 |
+| Sleeping With The Fishes | 35.00% | ~678 |
+| Overheated | 30.00% | ~581 |
+| High Performance | 30.00% | ~581 |
 | Powered Up | 28.00% | ~542 |
-| Studied The Blade | 24.00% | ~464 |
-| Home Invasion | 22.00% | ~425 |
-| Luminary | 22.00% | ~425 |
-| It's a Trap | 22.00% | ~425 |
-| True Survivor | 21.00% | ~406 |
+| Studied The Blade | 24.00% | ~465 |
+| Home Invasion | 22.00% | ~426 |
+| Luminary | 22.00% | ~426 |
+| It's a Trap | 22.00% | ~426 |
+| True Survivor | 21.00% | ~407 |
 | Offensive Defense | 20.00% | ~387 |
 | Shocking | 20.00% | ~387 |
-| Court Martial | 19.00% | ~367 |
-| Unforeseeable Consequences | 19.00% | ~367 |
+| Court Martial | 19.00% | ~368 |
+| Unforeseeable Consequences | 19.00% | ~368 |
 | Dead Again | 18.00% | ~348 |
 | Clean Cut | 18.00% | ~348 |
 | Full Arsenal | 17.00% | ~329 |
 | Can't Trust Banks | 15.00% | ~290 |
-| Mommy Dearest | 13.00% | ~251 |
-| Bad Dog | 13.00% | ~251 |
-| Where It All Began | 13.00% | ~251 |
-| Risk Tolerant | 13.00% | ~251 |
-| What A Catchy Song | 13.00% | ~251 |
+| Mommy Dearest | 13.00% | ~252 |
+| Bad Dog | 13.00% | ~252 |
+| Where It All Began | 13.00% | ~252 |
+| Risk Tolerant | 13.00% | ~252 |
+| What A Catchy Song | 13.00% | ~252 |
 | Marked For Success | 12.00% | ~232 |
 | Sorry, Didn't See You There | 12.00% | ~232 |
 | Corrupted Beauty | 11.00% | ~213 |
-| Triplets | 10.00% | ~193 |
+| Triplets | 10.00% | ~194 |
 | Defense in Depth | 9.00% | ~174 |
 | Stimulating The Local Economy | 9.00% | ~174 |
 | A Little Banged Up | 8.00% | ~155 |
 | Denying Prophecy | 8.00% | ~155 |
 | Following In Their Footsteps | 8.00% | ~155 |
-| Reverse Engineering | 7.00% | ~135 |
+| Reverse Engineering | 7.00% | ~136 |
 | Remote Surgery | 6.00% | ~116 |
 | Turbo Booster | 6.00% | ~116 |
 | Squid Pro Quo | 6.00% | ~116 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 819)
 | Box Office Smash | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,934 (Ranked 168)  
+Progressed: 1,936 (Ranked 168)  
 Completed: 10 (0.52%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 10 (0.52%) (Ranked 135)
 | 2023-07-29 | 1,916 | 10 |
 | 2023-07-30 | 1,923 | 10 |
 | 2023-07-31 | 1,929 | 10 |
-| 2023-08-01 | 1,934 | 10 |
+| 2023-08-01 | 1,936 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

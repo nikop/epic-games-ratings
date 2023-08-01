@@ -5,47 +5,47 @@ Rating: 4.49 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,179 |
-| Advancement | 73.00% | ~17,978 |
-| Meticulously Efficient | 64.00% | ~15,761 |
-| Discovery | 61.00% | ~15,022 |
-| Fully Upgraded | 54.00% | ~13,299 |
-| Swift Rift Removers | 54.00% | ~13,299 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,560 |
-| Cultured | 51.00% | ~12,560 |
-| Vaporous Expansion | 48.00% | ~11,821 |
-| Teamwork | 44.00% | ~10,836 |
-| There you are! | 42.00% | ~10,343 |
-| Clutch Capture | 41.00% | ~10,097 |
-| Back Off | 35.00% | ~8,619 |
-| Daily Dose | 34.00% | ~8,373 |
-| Solo Capture | 32.00% | ~7,881 |
-| Welcome to the Crew | 32.00% | ~7,881 |
-| Ghostbuster In Training | 30.00% | ~7,388 |
-| Icing on the Cake | 30.00% | ~7,388 |
-| Side Hustle | 27.00% | ~6,649 |
-| We have the best insurance | 26.00% | ~6,403 |
-| Legions | 26.00% | ~6,403 |
-| Right back at ya | 26.00% | ~6,403 |
-| Stunner | 26.00% | ~6,403 |
-| Summoner | 26.00% | ~6,403 |
-| Pesky Jerks | 25.00% | ~6,157 |
-| Animated | 24.00% | ~5,910 |
-| Skilled | 24.00% | ~5,910 |
-| Collector | 23.00% | ~5,664 |
-| Ectoplasmic Entity | 23.00% | ~5,664 |
-| Rift Destroyer | 19.00% | ~4,679 |
-| Terrifying | 18.00% | ~4,433 |
-| Tobin's Prodigy | 18.00% | ~4,433 |
-| Reckless | 17.00% | ~4,187 |
-| Diabolical | 16.00% | ~3,940 |
-| Escape Artist | 16.00% | ~3,940 |
-| Seasoned | 16.00% | ~3,940 |
-| Whoopsie | 12.00% | ~2,955 |
+| Stylish | 86.00% | ~21,184 |
+| Advancement | 73.00% | ~17,982 |
+| Meticulously Efficient | 64.00% | ~15,765 |
+| Discovery | 61.00% | ~15,026 |
+| Fully Upgraded | 54.00% | ~13,302 |
+| Swift Rift Removers | 54.00% | ~13,302 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,563 |
+| Cultured | 51.00% | ~12,563 |
+| Vaporous Expansion | 48.00% | ~11,824 |
+| Teamwork | 44.00% | ~10,839 |
+| There you are! | 42.00% | ~10,346 |
+| Clutch Capture | 40.00% | ~9,853 |
+| Back Off | 35.00% | ~8,622 |
+| Daily Dose | 34.00% | ~8,375 |
+| Solo Capture | 32.00% | ~7,883 |
+| Welcome to the Crew | 32.00% | ~7,883 |
+| Ghostbuster In Training | 30.00% | ~7,390 |
+| Icing on the Cake | 30.00% | ~7,390 |
+| Side Hustle | 27.00% | ~6,651 |
+| We have the best insurance | 26.00% | ~6,405 |
+| Legions | 26.00% | ~6,405 |
+| Right back at ya | 26.00% | ~6,405 |
+| Stunner | 26.00% | ~6,405 |
+| Summoner | 26.00% | ~6,405 |
+| Pesky Jerks | 25.00% | ~6,158 |
+| Animated | 24.00% | ~5,912 |
+| Skilled | 24.00% | ~5,912 |
+| Collector | 23.00% | ~5,666 |
+| Ectoplasmic Entity | 23.00% | ~5,666 |
+| Rift Destroyer | 19.00% | ~4,680 |
+| Terrifying | 18.00% | ~4,434 |
+| Tobin's Prodigy | 18.00% | ~4,434 |
+| Reckless | 17.00% | ~4,188 |
+| Diabolical | 16.00% | ~3,941 |
+| Escape Artist | 16.00% | ~3,941 |
+| Seasoned | 16.00% | ~3,941 |
+| Whoopsie | 12.00% | ~2,956 |
 | Liability | 10.00% | ~2,463 |
 | Rivalry | 10.00% | ~2,463 |
-| Fragile Panes | 9.00% | ~2,216 |
-| Surprise! | 9.00% | ~2,216 |
+| Fragile Panes | 9.00% | ~2,217 |
+| Surprise! | 9.00% | ~2,217 |
 | Rift Seeker | 7.00% | ~1,724 |
 | Therapeutic | 7.00% | ~1,724 |
 | Master Collector | 6.00% | ~1,478 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 576)
 | Mycophile | 1.00% | ~246 |
 | I don't need these | 0.90% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,627 (Ranked 101)  
+Progressed: 24,633 (Ranked 101)  
 Completed: 48 (0.19%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,10 +160,10 @@ Completed: 48 (0.19%) (Ranked 177)
 | 2023-07-29 | 24,556 | 48 |
 | 2023-07-30 | 24,591 | 48 |
 | 2023-07-31 | 24,608 | 48 |
-| 2023-08-01 | 24,627 | 48 |
+| 2023-08-01 | 24,633 | 48 |
 ## Awards
 Max (Great for Quick Sessions): 245  (Ranked 250)  
-Sum: 2,193 (Ranked 190)  
+Sum: 2,194 (Ranked 190)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -176,7 +176,7 @@ Diff (max vs sum): 60
 | This game is Extremely Fun | 214 |
 | This game is Relaxing | 214 |
 | This game has Quickly Understood Controls | 205 |
-| This game has Amazing Characters | 203 |
+| This game has Amazing Characters | 204 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -306,4 +306,4 @@ Diff (max vs sum): 60
 | 2023-07-28 | 4.49 | 244 | 2,189 |
 | 2023-07-29 | 4.49 | 245 | 2,190 |
 | 2023-07-30 | 4.49 | 245 | 2,191 |
-| 2023-08-01 | 4.49 | 245 | 2,193 |
+| 2023-08-01 | 4.49 | 245 | 2,194 |

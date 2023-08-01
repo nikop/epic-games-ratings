@@ -16,9 +16,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.90% | ~1,656 |
 | Vecna Loots! | 0.80% | ~1,472 |
 | Flight of the Kindori Pod | 0.80% | ~1,472 |
+| Topolah's Tower | 0.80% | ~1,472 |
 | Tall Tales | 0.70% | ~1,288 |
 | Seeds of Destruction | 0.70% | ~1,288 |
-| Topolah's Tower | 0.70% | ~1,288 |
 | Pros and CONs | 0.60% | ~1,306 |
 | The Witchlight Carnival | 0.60% | ~1,104 |
 | Wet Feet | 0.60% | ~1,306 |
@@ -175,6 +175,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hold for the Red Wizards | 0.20% | ~435 |
 | Seeds of Deceit | 0.20% | ~435 |
 | The Gargoyle's Apprentice | 0.20% | ~435 |
+| The Trepidatious Trio | 0.20% | ~435 |
 | Treasure Hunters | 0.20% | ~435 |
 | The Guardian of Orolunga | 0.20% | ~435 |
 | The Lost Love | 0.20% | ~435 |
@@ -309,7 +310,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Strahd Squad | 0.10% | ~184 |
 | House of Darkness | 0.10% | ~218 |
 | Home Not So Alone | 0.10% | ~184 |
-| The Trepidatious Trio | 0.10% | ~218 |
 | Our Time To Shine | 0.10% | ~218 |
 | Review by the Blackstaff | 0.10% | ~184 |
 | Think Your Way Out Of It | 0.10% | ~218 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,726 (Ranked 53)  
+Progressed: 217,733 (Ranked 53)  
 Completed: 2,142 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,16 +622,16 @@ Completed: 2,142 (0.98%) (Ranked 112)
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
-| 2023-08-01 | 217,726 | 2,142 |
+| 2023-08-01 | 217,733 | 2,142 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
-Sum: 30,840 (Ranked 38)  
+Sum: 30,843 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,108 |
 | This game is Great for Beginners | 5,045 |
-| This game has Quickly Understood Controls | 4,696 |
+| This game has Quickly Understood Controls | 4,699 |
 | This game is Relaxing | 4,586 |
 | This game has Amazing Characters | 4,046 |
 | This game is Highly Recommended | 4,027 |
@@ -826,4 +826,4 @@ Diff (max vs sum): 29
 | 2023-07-29 | 4.05 | - | 5,100 | 30,800 |
 | 2023-07-30 | 4.05 | - | 5,100 | 30,813 |
 | 2023-07-31 | 4.05 | - | 5,106 | 30,831 |
-| 2023-08-01 | 4.05 | - | 5,108 | 30,840 |
+| 2023-08-01 | 4.05 | - | 5,108 | 30,843 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -187,9 +187,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 53,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Kour",
@@ -211,9 +211,9 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 79,
+      "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Kvitky",
@@ -378,8 +378,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-08-01T21:00:28.9668919+00:00",
+  "LastChanged_Achievements": "2023-08-01T22:02:33.3201297+00:00",
   "LastUpdate_AppInfo": "2023-07-28T14:57:04.029049+00:00",
-  "LastUpdate_Ratings": "2023-08-01T20:57:04.1082497+00:00",
-  "LastUpdate_Achievements": "2023-08-01T21:00:28.966922+00:00"
+  "LastUpdate_Ratings": "2023-08-01T21:57:24.6887108+00:00",
+  "LastUpdate_Achievements": "2023-08-01T22:02:33.3201748+00:00"
 }

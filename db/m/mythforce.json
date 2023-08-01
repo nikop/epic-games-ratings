@@ -4,11 +4,11 @@
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 576,
   "Ranking_Popularity": 451,
-  "Ranking_PopularitySum": 353,
-  "Ranking_EOS_Progress": 220,
+  "Ranking_PopularitySum": 354,
+  "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -575,7 +575,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 521,
+  "EOS_Progressed": 525,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
@@ -1620,6 +1620,11 @@
       "Time": "2023-08-01T20:04:10.013941+00:00",
       "NumProgressed": 521,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T22:04:52.0903253+00:00",
+      "NumProgressed": 525,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -1646,9 +1651,9 @@
       "ID": "MF_Ach_Deadication",
       "SetID": "9b9n573",
       "Name": "Deadication",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -1670,9 +1675,9 @@
       "ID": "MF_Ach_EverythingMustGo",
       "SetID": "9b9n573",
       "Name": "Everything Must Go!",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -1702,9 +1707,9 @@
       "ID": "MF_Ach_FourthGate",
       "SetID": "9b9n573",
       "Name": "The Fourth Gate",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -1790,9 +1795,9 @@
       "ID": "MF_Ach_TenStepsFromTheGrave",
       "SetID": "9b9n573",
       "Name": "Ten Steps from the Grave",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -1815,15 +1820,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 521,
+      "Progressed": 525,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-26T02:04:08.2630657+00:00",
-  "LastChanged_Achievements": "2023-08-01T21:03:56.3048013+00:00",
+  "LastChanged_Achievements": "2023-08-01T22:04:52.0903245+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.6709929+00:00",
-  "LastUpdate_Ratings": "2023-08-01T20:58:35.5602858+00:00",
-  "LastUpdate_Achievements": "2023-08-01T21:03:56.3048228+00:00"
+  "LastUpdate_Ratings": "2023-08-01T21:59:41.5996343+00:00",
+  "LastUpdate_Achievements": "2023-08-01T22:04:52.0903506+00:00"
 }

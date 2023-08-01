@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -820,9 +820,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2678,
+  "EOS_Progressed": 2680,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3750,6 +3750,11 @@
       "Time": "2023-08-01T20:01:28.5622522+00:00",
       "NumProgressed": 2678,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T22:02:26.968302+00:00",
+      "NumProgressed": 2680,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3865,7 +3870,7 @@
       "Name": "Go with the Flow",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -3913,7 +3918,7 @@
       "Name": "Keeping it classy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -4065,7 +4070,7 @@
       "Name": "The finer things in life",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -4137,22 +4142,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2678,
+      "Progressed": 2680,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-31T03:00:23.3119663+00:00",
-  "LastChanged_Achievements": "2023-08-01T21:00:24.6915775+00:00",
+  "LastChanged_Achievements": "2023-08-01T22:02:26.9683009+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:59.3777566+00:00",
-  "LastUpdate_Ratings": "2023-08-01T20:59:12.8257635+00:00",
-  "LastUpdate_Achievements": "2023-08-01T21:00:24.6916468+00:00"
+  "LastUpdate_Ratings": "2023-08-01T22:00:37.3192351+00:00",
+  "LastUpdate_Achievements": "2023-08-01T22:02:26.9683889+00:00"
 }

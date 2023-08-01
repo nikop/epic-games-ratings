@@ -2,20 +2,20 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 412,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:56:57.8348963+00:00",
@@ -190,15 +190,21 @@
       "Rating": 4.6,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-01T22:01:19.990275+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16587,
+  "EOS_Progressed": 16590,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9099,
+  "EOS_NewPlayers": 9102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6951,6 +6957,11 @@
       "Time": "2023-08-01T21:03:37.2315091+00:00",
       "NumProgressed": 16587,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-01T22:04:24.946266+00:00",
+      "NumProgressed": 16590,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -6962,7 +6973,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 4976
+      "UsersEstimate": 4977
     },
     {
       "ID": "0002",
@@ -6970,7 +6981,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "0003",
@@ -7026,7 +7037,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3815
+      "UsersEstimate": 3816
     },
     {
       "ID": "0010",
@@ -7034,7 +7045,7 @@
       "Name": "Social of Solace",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "0011",
@@ -7146,7 +7157,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3649
+      "UsersEstimate": 3650
     },
     {
       "ID": "0025",
@@ -7160,9 +7171,9 @@
       "ID": "0026",
       "SetID": "2n2feee",
       "Name": "The Living Portrait",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1991
     },
     {
       "ID": "0027",
@@ -7178,7 +7189,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3815
+      "UsersEstimate": 3816
     },
     {
       "ID": "0029",
@@ -7186,7 +7197,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2156
+      "UsersEstimate": 2157
     },
     {
       "ID": "0030",
@@ -7202,7 +7213,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "0032",
@@ -7218,7 +7229,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "0034",
@@ -7226,7 +7237,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "0035",
@@ -7249,16 +7260,16 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 16587,
+      "Progressed": 16590,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-03-21T22:57:01.0375788+00:00",
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
-  "LastChanged": "2023-07-30T22:01:10.8796915+00:00",
-  "LastChanged_Achievements": "2023-08-01T21:03:37.2315086+00:00",
+  "LastChanged": "2023-08-01T22:01:19.9902746+00:00",
+  "LastChanged_Achievements": "2023-08-01T22:04:24.9462652+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:28.2482926+00:00",
-  "LastUpdate_Ratings": "2023-08-01T20:59:41.8866268+00:00",
-  "LastUpdate_Achievements": "2023-08-01T21:03:37.2315786+00:00"
+  "LastUpdate_Ratings": "2023-08-01T22:01:19.9902755+00:00",
+  "LastUpdate_Achievements": "2023-08-01T22:04:24.9463442+00:00"
 }

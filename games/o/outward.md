@@ -6,21 +6,21 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,427 |
-| Ready for Winter | 64.00% | ~2,071 |
-| Ready for Summer | 51.00% | ~1,650 |
-| Cordon Bleu | 43.00% | ~1,391 |
-| Tapped! | 36.00% | ~1,165 |
+| Venture Outward | 75.00% | ~2,428 |
+| Ready for Winter | 64.00% | ~2,072 |
+| Ready for Summer | 51.00% | ~1,651 |
+| Cordon Bleu | 43.00% | ~1,392 |
+| Tapped! | 36.00% | ~1,166 |
 | Eureka | 32.00% | ~1,036 |
-| Scourge Slayer | 25.00% | ~809 |
-| Science, Troglodyte! | 23.00% | ~744 |
+| Scourge Slayer | 25.00% | ~810 |
+| Science, Troglodyte! | 23.00% | ~745 |
 | Exceptional Skill | 22.00% | ~712 |
 | Home Sweet Home | 22.00% | ~712 |
 | Encyclopedic! | 19.00% | ~615 |
 | A Fortress Toppled! | 16.00% | ~518 |
 | Apex Predator | 16.00% | ~518 |
 | The Power of Family | 16.00% | ~518 |
-| The Power of Faith | 12.00% | ~388 |
+| The Power of Faith | 12.00% | ~389 |
 | Strange amalgams | 11.00% | ~356 |
 | The Power of Freedom | 9.00% | ~291 |
 | Ace Detective | 8.00% | ~259 |
@@ -32,9 +32,9 @@ Number of Ratings: 266  (23.09.2022)
 | Hold my Mead and Watch This | 6.00% | ~194 |
 | The stuff of legends. | 6.00% | ~194 |
 | Blood and justice | 5.00% | ~162 |
-| Ancestor's Pride | 4.00% | ~129 |
-| For All Aurai | 4.00% | ~129 |
-| Memory of a legend | 4.00% | ~129 |
+| Ancestor's Pride | 4.00% | ~130 |
+| For All Aurai | 4.00% | ~130 |
+| Memory of a legend | 4.00% | ~130 |
 | Light of Levant | 3.00% | ~97 |
 | This was a mistake... | 3.00% | ~97 |
 | Crowd Pleaser. | 2.00% | ~65 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,236 (Ranked 151)  
+Progressed: 3,238 (Ranked 151)  
 Completed: 3 (0.09%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 3 (0.09%) (Ranked 198)
 | 2023-07-29 | 3,182 | 3 |
 | 2023-07-30 | 3,205 | 3 |
 | 2023-07-31 | 3,217 | 3 |
-| 2023-08-01 | 3,236 | 3 |
+| 2023-08-01 | 3,238 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 446)  
 Sum: 241 (Ranked 352)  

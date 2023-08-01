@@ -228,9 +228,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3087,
+  "EOS_Progressed": 3088,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3398,6 +3398,11 @@
       "Time": "2023-08-01T21:02:27.0434683+00:00",
       "NumProgressed": 3087,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-01T22:03:27.4771555+00:00",
+      "NumProgressed": 3088,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -3441,7 +3446,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -3521,7 +3526,7 @@
       "Name": "Call Me Snake",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1914
+      "UsersEstimate": 1915
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -3529,7 +3534,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2068
+      "UsersEstimate": 2069
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -3601,7 +3606,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "ACH_MISSION_02",
@@ -3609,7 +3614,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "ACH_MISSION_03",
@@ -3617,7 +3622,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "ACH_MISSION_04",
@@ -3649,7 +3654,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "ACH_MISSION_08",
@@ -3705,7 +3710,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2284
+      "UsersEstimate": 2285
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -3713,7 +3718,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2531
+      "UsersEstimate": 2532
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -3721,7 +3726,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -3745,7 +3750,7 @@
       "Name": "Recouped Investment",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -3768,7 +3773,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3087,
+      "Progressed": 3088,
       "Completed": 2
     }
   ],
@@ -3776,8 +3781,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-31T01:58:49.4710667+00:00",
-  "LastChanged_Achievements": "2023-08-01T21:02:27.0434677+00:00",
+  "LastChanged_Achievements": "2023-08-01T22:03:27.4771544+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.5854461+00:00",
-  "LastUpdate_Ratings": "2023-08-01T20:59:26.0355935+00:00",
-  "LastUpdate_Achievements": "2023-08-01T21:02:27.0435273+00:00"
+  "LastUpdate_Ratings": "2023-08-01T22:00:54.5036916+00:00",
+  "LastUpdate_Achievements": "2023-08-01T22:03:27.4772548+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -784,9 +784,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 254075,
+  "EOS_Progressed": 254078,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11299,6 +11299,11 @@
       "Time": "2023-08-01T21:05:52.7034428+00:00",
       "NumProgressed": 254075,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-01T22:07:36.7715734+00:00",
+      "NumProgressed": 254078,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -11358,7 +11363,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78763
+      "UsersEstimate": 78764
     },
     {
       "ID": "BackHomeNTimes",
@@ -11510,7 +11515,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15244
+      "UsersEstimate": 15245
     },
     {
       "ID": "GrowPlants2",
@@ -11566,7 +11571,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15244
+      "UsersEstimate": 15245
     },
     {
       "ID": "KillOtherWithKatana",
@@ -11598,7 +11603,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55896
+      "UsersEstimate": 55897
     },
     {
       "ID": "KillOthers2",
@@ -11757,7 +11762,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 254075,
+      "Progressed": 254078,
       "Completed": 3
     }
   ],
@@ -11765,8 +11770,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-31T23:01:20.141469+00:00",
-  "LastChanged_Achievements": "2023-08-01T21:05:52.7034424+00:00",
+  "LastChanged_Achievements": "2023-08-01T22:07:36.7715725+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:16.1144116+00:00",
-  "LastUpdate_Ratings": "2023-08-01T21:00:13.6103453+00:00",
-  "LastUpdate_Achievements": "2023-08-01T21:05:52.7035434+00:00"
+  "LastUpdate_Ratings": "2023-08-01T22:02:08.2467157+00:00",
+  "LastUpdate_Achievements": "2023-08-01T22:07:36.7717712+00:00"
 }

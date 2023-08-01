@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1077,
+  "EOS_Progressed": 1078,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1250,6 +1250,11 @@
       "Time": "2023-08-01T21:02:33.2298436+00:00",
       "NumProgressed": 1077,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T22:03:36.343644+00:00",
+      "NumProgressed": 1078,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -1301,7 +1306,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "07",
@@ -1309,7 +1314,7 @@
       "Name": "Monster Hunter",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "08",
@@ -1389,7 +1394,7 @@
       "Name": "Ready to Learn",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "18",
@@ -1444,7 +1449,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1077,
+      "Progressed": 1078,
       "Completed": 0
     }
   ],
@@ -1452,8 +1457,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-08-01T21:02:33.2298427+00:00",
+  "LastChanged_Achievements": "2023-08-01T22:03:36.3436432+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:26.3547076+00:00",
-  "LastUpdate_Ratings": "2023-08-01T20:59:41.1711245+00:00",
-  "LastUpdate_Achievements": "2023-08-01T21:02:33.229864+00:00"
+  "LastUpdate_Ratings": "2023-08-01T22:01:17.6427413+00:00",
+  "LastUpdate_Achievements": "2023-08-01T22:03:36.3436805+00:00"
 }

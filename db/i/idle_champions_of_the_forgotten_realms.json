@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5402,10 +5402,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30840,
       "NumberOfAwardsMax": 5108
+    },
+    {
+      "Time": "2023-08-01T21:59:19.1491004+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30843,
+      "NumberOfAwardsMax": 5108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30840,
+  "NumberOfAwards": 30843,
   "NumberOfAwardsMax": 5108,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5425,7 +5431,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4696
+      "Count": 4699
     },
     {
       "Text": "This game is Relaxing",
@@ -5452,10 +5458,10 @@
       "Count": 3332
     }
   ],
-  "EOS_Progressed": 217726,
+  "EOS_Progressed": 217733,
   "EOS_Completed": 2142,
-  "EOS_NewPlayers": 2233,
-  "EOS_NewCompleters": 34,
+  "EOS_NewPlayers": 2218,
+  "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16577,6 +16583,11 @@
       "Time": "2023-08-01T21:04:08.5575792+00:00",
       "NumProgressed": 217726,
       "NumCompleted": 2142
+    },
+    {
+      "Time": "2023-08-01T22:05:09.6590087+00:00",
+      "NumProgressed": 217733,
+      "NumCompleted": 2142
     }
   ],
   "TotalAchievements": 512,
@@ -18234,9 +18245,9 @@
       "ID": "objective_completed_284",
       "SetID": "cc37lbc",
       "Name": "The Trepidatious Trio",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 435
     },
     {
       "ID": "objective_completed_285",
@@ -20658,9 +20669,9 @@
       "ID": "objective_completed_1390",
       "SetID": "415jc5c",
       "Name": "Topolah\u0027s Tower",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1472
     },
     {
       "ID": "objective_completed_1391",
@@ -20683,21 +20694,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184000,
+      "Progressed": 184007,
       "Completed": 3048
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217726,
+      "Progressed": 217733,
       "Completed": 2142
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-01T06:58:55.3799578+00:00",
-  "LastChanged_Achievements": "2023-08-01T21:04:08.5575788+00:00",
+  "LastChanged": "2023-08-01T21:59:19.1491002+00:00",
+  "LastChanged_Achievements": "2023-08-01T22:05:09.6590081+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-01T20:58:20.7778757+00:00",
-  "LastUpdate_Achievements": "2023-08-01T21:04:08.5602993+00:00"
+  "LastUpdate_Ratings": "2023-08-01T21:59:19.1491008+00:00",
+  "LastUpdate_Achievements": "2023-08-01T22:05:09.6621218+00:00"
 }

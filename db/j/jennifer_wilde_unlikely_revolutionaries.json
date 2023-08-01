@@ -2,9 +2,9 @@
   "ID": "e58f8f670f3243f690ed3c89cba89c9e",
   "Name": "Jennifer Wilde Unlikely Revolutionaries",
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
-  "Ranking_EOS_Progress": 360,
-  "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_Progress": 358,
+  "Ranking_EOS_Completed": 41,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48,
+  "EOS_Progressed": 49,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.25,
+  "EOS_Completed_Percentage": 6.12,
   "EosHistory": [
     {
       "Time": "2023-05-23T11:00:16.5750246+00:00",
@@ -256,6 +256,11 @@
       "Time": "2023-08-01T07:06:13.7893447+00:00",
       "NumProgressed": 48,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-01T22:07:01.9047485+00:00",
+      "NumProgressed": 49,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 10,
@@ -289,7 +294,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "1ejicho",
       "Name": "Bedtime Storyteller",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 100,
       "UsersEstimate": 11
     },
@@ -297,7 +302,7 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "1ejicho",
       "Name": "I Ain\u0027t Afraid of No Ghost",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -305,7 +310,7 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "1ejicho",
       "Name": "Exorcist",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -313,7 +318,7 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "1ejicho",
       "Name": "Electrician",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -321,7 +326,7 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "1ejicho",
       "Name": "Card Sharp",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -346,14 +351,14 @@
     {
       "ID": "1ejicho",
       "IsBase": true,
-      "Progressed": 48,
+      "Progressed": 49,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-08-01T21:05:28.3489882+00:00",
+  "LastChanged_Achievements": "2023-08-01T22:07:01.9047478+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:57.4966989+00:00",
-  "LastUpdate_Ratings": "2023-08-01T20:59:11.3818121+00:00",
-  "LastUpdate_Achievements": "2023-08-01T21:05:28.3489971+00:00"
+  "LastUpdate_Ratings": "2023-08-01T22:00:34.5701204+00:00",
+  "LastUpdate_Achievements": "2023-08-01T22:07:01.9047624+00:00"
 }

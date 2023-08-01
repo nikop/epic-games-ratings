@@ -14,10 +14,10 @@
 | Scorched Ruins | 11.00% | ~2 |
 | City of Illusion | 11.00% | ~2 |
 | Kill the Flames | 11.00% | ~2 |
+| Find the Light | 11.00% | ~2 |
 | City of Puzzles | 11.00% | ~2 |
 | This field of danger | 11.00% | ~2 |
 | Labyrinths of the Mind | 11.00% | ~2 |
-| Find the Light | 5.00% | ~1 |
 | Fight and Overcome | 5.00% | ~1 |
 | A Walk to the End | 5.00% | ~1 |
 | The Final Test | 5.00% | ~1 |
