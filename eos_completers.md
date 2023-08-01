@@ -12,7 +12,7 @@
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
 | 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 18.99% |
-| 13 | [Island Cities](games/i/island_cities.md) | 18.84% |
+| 13 | [Island Cities](games/i/island_cities.md) | 18.79% |
 | 14 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 15.38% |
 | 15 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 14.29% |
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
@@ -37,10 +37,10 @@
 | 35 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.94% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
-| 38 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.38% |
-| 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.36% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.29% |
-| 41 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.36% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.29% |
+| 40 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 40 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.25% |
 | 42 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.88% |
 | 43 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.33% |
 | 44 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
@@ -113,8 +113,8 @@
 | 111 | [Adios](games/a/adios.md) | 0.99% |
 | 112 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 112 | [Sable](games/s/sable.md) | 0.98% |
-| 114 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.91% |
-| 115 | [Hades](games/h/hades.md) | 0.90% |
+| 114 | [Hades](games/h/hades.md) | 0.90% |
+| 115 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.87% |
 | 116 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 117 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 118 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
@@ -177,8 +177,8 @@
 | 173 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
 | 173 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 173 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
-| 178 | [BLACKTAIL](games/b/blacktail.md) | 0.17% |
-| 178 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
+| 178 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
+| 179 | [BLACKTAIL](games/b/blacktail.md) | 0.17% |
 | 180 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 180 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.16% |
 | 180 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
