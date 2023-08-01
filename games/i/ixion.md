@@ -5,12 +5,12 @@ Rating: 4.55 (Ranked 482)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 24.00% | ~717 |
+| Wakey Wakey | 24.00% | ~718 |
 | Sputnik 2049 | 21.00% | ~628 |
 | Infinite Growth... | 20.00% | ~598 |
 | Without Breaking Some Eggs... | 19.00% | ~568 |
-| A Thousand Strong | 14.00% | ~418 |
-| Ready for a New World | 14.00% | ~418 |
+| A Thousand Strong | 14.00% | ~419 |
+| Ready for a New World | 14.00% | ~419 |
 | Space Society | 13.00% | ~389 |
 | Permanent Redesigns | 12.00% | ~359 |
 | The Ship of Theseus | 11.00% | ~329 |
@@ -25,10 +25,10 @@ Rating: 4.55 (Ranked 482)
 | Power Outage | 6.00% | ~179 |
 | Convenient Transport | 6.00% | ~179 |
 | Please Make it Stop! | 6.00% | ~179 |
-| Sightseeing | 5.00% | ~149 |
-| Access Granted | 5.00% | ~149 |
-| Necessary Enhancement | 5.00% | ~149 |
-| From the Past | 5.00% | ~149 |
+| Sightseeing | 5.00% | ~150 |
+| Access Granted | 5.00% | ~150 |
+| Necessary Enhancement | 5.00% | ~150 |
+| From the Past | 5.00% | ~150 |
 | Oats | 4.00% | ~120 |
 | All in Good Health | 4.00% | ~120 |
 | What the Ruins Teach Us | 4.00% | ~120 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 482)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,989 (Ranked 157)  
+Progressed: 2,990 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 2,956 | 0 |
 | 2023-07-30 | 2,977 | 0 |
 | 2023-07-31 | 2,988 | 0 |
-| 2023-08-01 | 2,989 | 0 |
+| 2023-08-01 | 2,990 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

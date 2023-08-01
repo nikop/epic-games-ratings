@@ -35,7 +35,7 @@
 | Almost Like Winning | 3.00% | ~93 |
 | The Handyman Can! | 3.00% | ~93 |
 | A Brief Moment of Respite | 3.00% | ~93 |
-| Untouchable | 1.00% | ~31 |
+| Untouchable | 2.00% | ~62 |
 | All Geared Up | 1.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,093 (Ranked 153)  

@@ -8,10 +8,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,703 |
 | Beast Intentions | 3.00% | ~6,527 |
-| Maddening | 2.00% | ~4,351 |
+| Maddening | 2.00% | ~4,352 |
 | The Silken Swamp | 1.00% | ~2,176 |
 | Supply Run | 1.00% | ~2,176 |
-| Rocky Reception | 1.00% | ~1,838 |
+| Rocky Reception | 1.00% | ~1,839 |
 | Vecna Lives! | 0.90% | ~1,655 |
 | Rock and Roll | 0.90% | ~1,655 |
 | Flight of the Kindori Pod | 0.80% | ~1,471 |
@@ -67,6 +67,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.40% | ~870 |
 | Seeking Allies | 0.40% | ~870 |
 | Exploring Port Nyanzaru | 0.40% | ~870 |
+| Running of the Saurs | 0.40% | ~870 |
 | Waterdeep Detours | 0.40% | ~870 |
 | Friendly Imps | 0.40% | ~870 |
 | Luigi After Hours | 0.40% | ~735 |
@@ -108,10 +109,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.30% | ~653 |
 | Flying Monkey Skulls of Doom | 0.30% | ~653 |
 | The Darkness Runs Deeper | 0.30% | ~653 |
-| Running of the Saurs | 0.30% | ~653 |
 | The Contagious Curse | 0.30% | ~653 |
 | Escort to Waterdeep | 0.30% | ~653 |
 | The Giant's Bane Tavern | 0.30% | ~552 |
+| The Everlasting Rime | 0.30% | ~552 |
 | Close Escort | 0.30% | ~653 |
 | Constant Banditry | 0.30% | ~653 |
 | Lost in the Deep | 0.30% | ~653 |
@@ -204,7 +205,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tiamat's Army | 0.20% | ~368 |
 | Questlines | 0.20% | ~368 |
 | Bel's Forge | 0.20% | ~368 |
-| The Everlasting Rime | 0.20% | ~368 |
 | The Long Haul | 0.20% | ~435 |
 | Moose Tracks | 0.20% | ~368 |
 | Civilization | 0.20% | ~368 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,566 (Ranked 53)  
+Progressed: 217,580 (Ranked 53)  
 Completed: 2,140 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,7 +622,7 @@ Completed: 2,140 (0.98%) (Ranked 112)
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
-| 2023-08-01 | 217,566 | 2,140 |
+| 2023-08-01 | 217,580 | 2,140 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
 Sum: 30,840 (Ranked 38)  

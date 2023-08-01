@@ -5452,10 +5452,10 @@
       "Count": 3332
     }
   ],
-  "EOS_Progressed": 217566,
+  "EOS_Progressed": 217580,
   "EOS_Completed": 2140,
-  "EOS_NewPlayers": 2255,
-  "EOS_NewCompleters": 46,
+  "EOS_NewPlayers": 2264,
+  "EOS_NewCompleters": 45,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16507,6 +16507,11 @@
       "Time": "2023-08-01T07:04:32.5488804+00:00",
       "NumProgressed": 217566,
       "NumCompleted": 2140
+    },
+    {
+      "Time": "2023-08-01T08:04:18.0189417+00:00",
+      "NumProgressed": 217580,
+      "NumCompleted": 2140
     }
   ],
   "TotalAchievements": 512,
@@ -16526,7 +16531,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4351
+      "UsersEstimate": 4352
     },
     {
       "ID": "objective_completed_100",
@@ -19004,9 +19009,9 @@
       "ID": "objective_completed_59",
       "SetID": "cc37lbc",
       "Name": "Running of the Saurs",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 653
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_590",
@@ -19628,9 +19633,9 @@
       "ID": "objective_completed_695",
       "SetID": "415jc5c",
       "Name": "The Everlasting Rime",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 552
     },
     {
       "ID": "objective_completed_696",
@@ -20542,7 +20547,7 @@
       "Name": "Rocky Reception",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "objective_completed_1376",
@@ -20613,21 +20618,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183840,
+      "Progressed": 183854,
       "Completed": 3042
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217566,
+      "Progressed": 217580,
       "Completed": 2140
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-01T06:58:55.3799578+00:00",
-  "LastChanged_Achievements": "2023-08-01T07:04:32.5488798+00:00",
+  "LastChanged_Achievements": "2023-08-01T08:04:18.0189412+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-01T06:58:55.3799586+00:00",
-  "LastUpdate_Achievements": "2023-08-01T07:04:32.5513368+00:00"
+  "LastUpdate_Ratings": "2023-08-01T07:58:44.7274118+00:00",
+  "LastUpdate_Achievements": "2023-08-01T08:04:18.0216202+00:00"
 }

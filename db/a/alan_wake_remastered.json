@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,10 +512,10 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 59748,
-  "EOS_Completed": 60,
-  "EOS_NewPlayers": 1067,
-  "EOS_NewCompleters": 2,
+  "EOS_Progressed": 59750,
+  "EOS_Completed": 61,
+  "EOS_NewPlayers": 1063,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -9787,6 +9787,11 @@
       "Time": "2023-08-01T07:04:45.3620887+00:00",
       "NumProgressed": 59748,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-08-01T08:04:28.5692759+00:00",
+      "NumProgressed": 59750,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 67,
@@ -9798,7 +9803,7 @@
       "Name": "Follow the Light",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 21509
+      "UsersEstimate": 21510
     },
     {
       "ID": "02",
@@ -9894,7 +9899,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2987
+      "UsersEstimate": 2988
     },
     {
       "ID": "14",
@@ -9910,7 +9915,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5377
+      "UsersEstimate": 5378
     },
     {
       "ID": "16",
@@ -9934,7 +9939,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2987
+      "UsersEstimate": 2988
     },
     {
       "ID": "19",
@@ -9958,7 +9963,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7767
+      "UsersEstimate": 7768
     },
     {
       "ID": "22",
@@ -10022,7 +10027,7 @@
       "Name": "Sound and Fury",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7767
+      "UsersEstimate": 7768
     },
     {
       "ID": "30",
@@ -10046,7 +10051,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16729
+      "UsersEstimate": 16730
     },
     {
       "ID": "33",
@@ -10054,7 +10059,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7767
+      "UsersEstimate": 7768
     },
     {
       "ID": "34",
@@ -10062,7 +10067,7 @@
       "Name": "Energized!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5377
+      "UsersEstimate": 5378
     },
     {
       "ID": "35",
@@ -10070,7 +10075,7 @@
       "Name": "Let There Be Light",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17327
+      "UsersEstimate": 17328
     },
     {
       "ID": "36",
@@ -10102,7 +10107,7 @@
       "Name": "Gunless Wonder",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "40",
@@ -10126,7 +10131,7 @@
       "Name": "Every Nook and Cranny",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "43",
@@ -10158,7 +10163,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7767
+      "UsersEstimate": 7768
     },
     {
       "ID": "47",
@@ -10182,7 +10187,7 @@
       "Name": "Couch Potato",
       "Percentage": 1,
       "XP": 110,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "50",
@@ -10190,7 +10195,7 @@
       "Name": "Bright Falls Aficionado",
       "Percentage": 0.2,
       "XP": 110,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "51",
@@ -10270,7 +10275,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "61",
@@ -10326,28 +10331,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 59748,
-      "Completed": 60
+      "Progressed": 59750,
+      "Completed": 61
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23216,
+      "Progressed": 23218,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-01T07:04:45.3620882+00:00",
+  "LastChanged_Achievements": "2023-08-01T08:04:28.5692753+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:35.0351219+00:00",
-  "LastUpdate_Ratings": "2023-08-01T06:58:25.9643949+00:00",
-  "LastUpdate_Achievements": "2023-08-01T07:04:45.3622417+00:00"
+  "LastUpdate_Ratings": "2023-08-01T07:58:19.723424+00:00",
+  "LastUpdate_Achievements": "2023-08-01T08:04:28.5694199+00:00"
 }

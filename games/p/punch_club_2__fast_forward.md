@@ -42,7 +42,7 @@
 | Guiding on the right path | 43.00% | ~86 |
 | Fight is life | 42.00% | ~84 |
 | Mysterious voice | 42.00% | ~84 |
-| Get out of my apartment! | 37.00% | ~74 |
+| Get out of my apartment! | 38.00% | ~76 |
 | Responsible approach | 37.00% | ~74 |
 | Underground dwellers | 36.00% | ~72 |
 | Deal with life | 35.00% | ~70 |

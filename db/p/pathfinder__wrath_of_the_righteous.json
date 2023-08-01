@@ -3314,9 +3314,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10727,
+  "EOS_Progressed": 10730,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9854,6 +9854,11 @@
       "Time": "2023-08-01T03:03:10.8259742+00:00",
       "NumProgressed": 10727,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T08:00:49.9622999+00:00",
+      "NumProgressed": 10730,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9865,7 +9870,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "02_BurningCity",
@@ -9873,7 +9878,7 @@
       "Name": "Burning City",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -10001,7 +10006,7 @@
       "Name": "Mythic Choices",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "19_EqualToAroden",
@@ -10233,7 +10238,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "49_Flame",
@@ -10792,21 +10797,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9509,
+      "Progressed": 9512,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10727,
+      "Progressed": 10730,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-30T15:58:44.9544514+00:00",
-  "LastChanged_Achievements": "2023-08-01T07:01:26.4488437+00:00",
+  "LastChanged_Achievements": "2023-08-01T08:00:49.9622992+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-08-01T06:59:12.8618797+00:00",
-  "LastUpdate_Achievements": "2023-08-01T07:01:26.4493746+00:00"
+  "LastUpdate_Ratings": "2023-08-01T07:58:59.452029+00:00",
+  "LastUpdate_Achievements": "2023-08-01T08:00:49.9624858+00:00"
 }

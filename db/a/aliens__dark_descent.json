@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -3632,9 +3632,9 @@
       "ID": "ACH_MISSION_07",
       "SetID": "816efe",
       "Name": "The Darwin Era Was Here",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 802
+      "UsersEstimate": 832
     },
     {
       "ID": "ACH_MISSION_08",
@@ -3761,8 +3761,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-31T01:58:49.4710667+00:00",
-  "LastChanged_Achievements": "2023-08-01T07:03:07.3336975+00:00",
+  "LastChanged_Achievements": "2023-08-01T08:03:06.003571+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.5854461+00:00",
-  "LastUpdate_Ratings": "2023-08-01T07:00:14.8505311+00:00",
-  "LastUpdate_Achievements": "2023-08-01T07:03:07.3337487+00:00"
+  "LastUpdate_Ratings": "2023-08-01T07:59:49.0683869+00:00",
+  "LastUpdate_Achievements": "2023-08-01T08:03:06.003631+00:00"
 }

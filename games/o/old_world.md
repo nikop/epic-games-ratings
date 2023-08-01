@@ -9,29 +9,29 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 3.00% | ~396 |
 | Settler | 2.00% | ~264 |
 | Able | 1.00% | ~132 |
+| Architect | 1.00% | ~132 |
 | Explorer | 1.00% | ~132 |
 | Intrepid | 1.00% | ~132 |
 | Mason | 1.00% | ~132 |
+| Strong | 1.00% | ~132 |
 | Friendly Family | 1.00% | ~132 |
 | Hanging Gardens | 1.00% | ~132 |
 | Play a Single Player Game | 1.00% | ~132 |
 | The Great Mage | 1.00% | ~132 |
 | Poetic Leader | 1.00% | ~132 |
-| Architect | 0.90% | ~119 |
 | Good | 0.90% | ~119 |
+| Just | 0.90% | ~119 |
 | Noble | 0.90% | ~119 |
 | Pioneer | 0.90% | ~119 |
-| Strong | 0.90% | ~119 |
 | Oracle | 0.90% | ~119 |
+| Naming Landmarks | 0.90% | ~119 |
 | Trade Caravan | 0.90% | ~119 |
 | Enlightened | 0.80% | ~106 |
 | Glorious | 0.80% | ~106 |
-| Just | 0.80% | ~106 |
 | Keystone | 0.80% | ~106 |
 | Learned | 0.80% | ~106 |
 | Judaism | 0.80% | ~106 |
 | Greek Paganism | 0.80% | ~106 |
-| Naming Landmarks | 0.80% | ~106 |
 | Ambitious | 0.70% | ~92 |
 | Magnificent | 0.70% | ~92 |
 | Warrior | 0.70% | ~92 |
@@ -62,6 +62,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.50% | ~66 |
 | Apadana | 0.50% | ~66 |
 | Colossus | 0.50% | ~66 |
+| Mausoleum | 0.50% | ~66 |
 | Musaeum | 0.50% | ~66 |
 | Learn to Play 2 | 0.50% | ~66 |
 | Manichaeism | 0.50% | ~66 |
@@ -75,10 +76,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.40% | ~53 |
 | Statesmen | 0.40% | ~53 |
 | Acropolis | 0.40% | ~53 |
-| Mausoleum | 0.40% | ~53 |
 | Greece | 0.40% | ~53 |
 | Persian Paganism | 0.40% | ~53 |
 | Building Wonders | 0.40% | ~53 |
+| Double Victory | 0.40% | ~53 |
 | Points Victory | 0.40% | ~53 |
 | Beloved | 0.30% | ~40 |
 | Conqueror | 0.30% | ~40 |
@@ -112,7 +113,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.30% | ~40 |
 | Phalangite | 0.30% | ~40 |
 | Ambition Victory | 0.30% | ~40 |
-| Double Victory | 0.30% | ~40 |
 | Win a Single Player Game | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
 | Bad Heir Day | 0.20% | ~26 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,211 (Ranked 117)  
+Progressed: 13,213 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-07-29 | 13,164 | 5 |
 | 2023-07-30 | 13,191 | 5 |
 | 2023-07-31 | 13,209 | 5 |
-| 2023-08-01 | 13,211 | 5 |
+| 2023-08-01 | 13,213 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 261)  
 Sum: 1,785 (Ranked 206)  

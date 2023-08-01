@@ -1569,9 +1569,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13211,
+  "EOS_Progressed": 13213,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8919,6 +8919,11 @@
       "Time": "2023-08-01T07:06:48.3883392+00:00",
       "NumProgressed": 13211,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-01T08:06:14.1415207+00:00",
+      "NumProgressed": 13213,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -9280,9 +9285,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
       "SetID": "9201eeb",
       "Name": "Architect",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -9432,9 +9437,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
       "SetID": "7l38kb8",
       "Name": "Just",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
@@ -9560,9 +9565,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -10352,9 +10357,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
       "SetID": "9201eeb",
       "Name": "Mausoleum",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
@@ -10848,9 +10853,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
       "SetID": "9201eeb",
       "Name": "Naming Landmarks",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -11064,9 +11069,9 @@
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
       "SetID": "7l38kb8",
       "Name": "Double Victory",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -11297,21 +11302,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13211,
+      "Progressed": 13213,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13211,
+      "Progressed": 13213,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-29T07:58:48.2149836+00:00",
-  "LastChanged_Achievements": "2023-08-01T07:06:48.3883388+00:00",
+  "LastChanged_Achievements": "2023-08-01T08:06:14.1415199+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.4550053+00:00",
-  "LastUpdate_Ratings": "2023-08-01T06:58:43.8402409+00:00",
-  "LastUpdate_Achievements": "2023-08-01T07:06:48.3892666+00:00"
+  "LastUpdate_Ratings": "2023-08-01T07:58:35.4542549+00:00",
+  "LastUpdate_Achievements": "2023-08-01T08:06:14.1424902+00:00"
 }
