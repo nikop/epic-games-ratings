@@ -19,13 +19,13 @@
 | 17 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.12% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
 | 19 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
-| 20 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.07% |
-| 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
+| 20 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.06% |
+| 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 10.94% |
 | 23 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 24 | [Remains](games/r/remains.md) | 10.64% |
 | 25 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
-| 26 | [Sonic Origins](games/s/sonic_origins.md) | 10.28% |
+| 26 | [Sonic Origins](games/s/sonic_origins.md) | 10.25% |
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.75% |
@@ -113,7 +113,7 @@
 | 111 | [Adios](games/a/adios.md) | 0.99% |
 | 112 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 112 | [Sable](games/s/sable.md) | 0.98% |
-| 114 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.95% |
+| 114 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.91% |
 | 115 | [Hades](games/h/hades.md) | 0.90% |
 | 116 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 117 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
@@ -151,8 +151,8 @@
 | 149 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 149 | [Wildermyth](games/w/wildermyth.md) | 0.37% |
 | 151 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.36% |
-| 152 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
-| 152 | [The Surge](games/t/the_surge.md) | 0.33% |
+| 152 | [The Surge](games/t/the_surge.md) | 0.35% |
+| 153 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
 | 154 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.32% |
 | 154 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
 | 156 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |

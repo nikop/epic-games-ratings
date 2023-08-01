@@ -72,7 +72,7 @@
 | 65 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 446 |
 | 65 | [Huntdown](games/h/huntdown.md) | 4.82 | 0 | 509 |
 | 65 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,604 | 95 |
-| 65 | [Sifu](games/s/sifu.md) | 4.82 | 6,322 | 53 |
+| 65 | [Sifu](games/s/sifu.md) | 4.82 | 6,327 | 53 |
 | 65 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 396 | 212 |
 | 65 | [Star Atlas](games/s/star_atlas.md) | 4.82 | 22 | 489 |
 | 76 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 420 | 205 |
@@ -125,7 +125,7 @@
 | 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,289 | 89 |
 | 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 912 | 148 |
 | 119 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 42 | 419 |
-| 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,348 | 75 |
+| 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,354 | 75 |
 | 119 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 509 |
 | 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,694 | 117 |
 | 119 | [Quake](games/q/quake.md) | 4.76 | 48 | 406 |
@@ -248,7 +248,7 @@
 | 240 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,894 | 80 |
 | 240 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,042 | 93 |
 | 240 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 301,154 | 3 |
-| 240 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 205,615 | 4 |
+| 240 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 206,006 | 4 |
 | 240 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 509 |
 | 240 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 419 | 206 |
 | 240 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 561 | 183 |
@@ -391,7 +391,7 @@
 | 367 | [Warframe](games/w/warframe.md) | 4.61 | 16,259 | 22 |
 | 390 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.60 | 0 | 509 |
 | 390 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 691 | 165 |
-| 390 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,012 | 28 |
+| 390 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,023 | 28 |
 | 390 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,435 | 74 |
 | 390 | [Control](games/c/control.md) | 4.60 | 8,424 | 40 |
 | 390 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 509 |
