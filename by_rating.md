@@ -386,7 +386,7 @@
 | 368 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,623 | 37 |
 | 368 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,069 | 137 |
 | 368 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 276 | 240 |
-| 368 | [Supraland](games/s/supraland.md) | 4.61 | 7,659 | 44 |
+| 368 | [Supraland](games/s/supraland.md) | 4.61 | 7,663 | 44 |
 | 368 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 509 |
 | 368 | [Warframe](games/w/warframe.md) | 4.61 | 16,259 | 22 |
 | 390 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.60 | 0 | 509 |
@@ -585,7 +585,7 @@
 | 576 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 245 | 250 |
 | 576 | [Maneater](games/m/maneater.md) | 4.49 | 13,600 | 26 |
 | 576 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 451 |
-| 576 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 488,504 | 2 |
+| 576 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 489,319 | 2 |
 | 576 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 358 |
 | 576 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 509 |
 | 576 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 509 |
@@ -722,21 +722,21 @@
 | 716 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 167 | 287 |
 | 716 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 72 | 373 |
 | 716 | [Tacoma](games/t/tacoma.md) | 4.38 | 0 | 509 |
-| 716 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.38 | 101 | 333 |
 | 716 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 509 |
 | 716 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 509 |
 | 716 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.38 | 102 | 331 |
-| 727 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 509 |
-| 727 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,146 | 108 |
-| 727 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.37 | 0 | 509 |
-| 727 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 509 |
-| 727 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 48 | 406 |
-| 727 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 509 |
-| 727 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.37 | 0 | 509 |
-| 727 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 451 |
+| 726 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 509 |
+| 726 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,146 | 108 |
+| 726 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.37 | 0 | 509 |
+| 726 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 509 |
+| 726 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 48 | 406 |
+| 726 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 509 |
+| 726 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.37 | 0 | 509 |
+| 726 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.37 | 101 | 333 |
+| 726 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 451 |
 | 735 | [Core](games/c/core.md) | 4.36 | 745 | 159 |
-| 735 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 172 | 285 |
-| 735 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,606 | 29 |
+| 735 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 284 |
+| 735 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,609 | 29 |
 | 735 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 0 | 509 |
 | 735 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 509 |
 | 735 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 478 |
@@ -902,12 +902,12 @@
 | 900 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.10 | 0 | 509 |
 | 900 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 0 | 509 |
 | 900 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 509 |
-| 900 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 396 |
 | 900 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,479 | 100 |
-| 905 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 509 |
-| 905 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 509 |
-| 905 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 509 |
-| 905 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 509 |
+| 904 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 509 |
+| 904 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 509 |
+| 904 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 509 |
+| 904 | [Obduction](games/o/obduction.md) | 4.09 | 52 | 396 |
+| 904 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 509 |
 | 909 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.08 | 0 | 509 |
 | 909 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 0 | 509 |
 | 909 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 509 |
@@ -947,7 +947,7 @@
 | 945 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.86 | 0 | 509 |
 | 945 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 509 |
 | 947 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 509 |
-| 948 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.84 | 0 | 509 |
+| 947 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.85 | 0 | 509 |
 | 949 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.82 | 0 | 509 |
 | 949 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 68 | 378 |
 | 949 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 509 |

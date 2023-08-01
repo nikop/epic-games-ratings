@@ -11,8 +11,8 @@
 | 9 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 12 | [Island Cities](games/i/island_cities.md) | 18.66% |
-| 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 17.65% |
+| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 18.82% |
+| 13 | [Island Cities](games/i/island_cities.md) | 18.62% |
 | 14 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 14.29% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.11% |
 | 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.16% |
@@ -21,19 +21,19 @@
 | 19 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 11.43% |
 | 20 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.91% |
+| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.88% |
 | 23 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 24 | [Remains](games/r/remains.md) | 10.64% |
-| 25 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
-| 26 | [Sonic Origins](games/s/sonic_origins.md) | 10.19% |
-| 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
+| 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.19% |
+| 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
+| 26 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
 | 28 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.62% |
 | 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
-| 30 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.87% |
+| 30 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.76% |
 | 31 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 32 | [Smelter](games/s/smelter.md) | 7.89% |
 | 33 | [Ravenlok](games/r/ravenlok.md) | 7.35% |
-| 34 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.09% |
+| 34 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.05% |
 | 35 | [Scorn](games/s/scorn.md) | 6.99% |
 | 36 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
@@ -66,10 +66,10 @@
 | 64 | [The Complex](games/t/the_complex.md) | 3.04% |
 | 65 | [Monster Harvest](games/m/monster_harvest.md) | 3.03% |
 | 66 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 67 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.91% |
-| 68 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.90% |
-| 68 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.90% |
-| 70 | [HordeCore](games/h/hordecore.md) | 2.88% |
+| 67 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.90% |
+| 67 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.90% |
+| 69 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.88% |
+| 70 | [HordeCore](games/h/hordecore.md) | 2.87% |
 | 71 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.86% |
 | 72 | [Destiny 2](games/d/destiny_2.md) | 2.76% |
 | 73 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
@@ -90,7 +90,7 @@
 | 88 | [Frogun](games/f/frogun.md) | 1.84% |
 | 88 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 90 | [Sifu](games/s/sifu.md) | 1.80% |
-| 91 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.79% |
+| 91 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.77% |
 | 92 | [Iron Danger](games/i/iron_danger.md) | 1.66% |
 | 93 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.62% |
 | 94 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.61% |
@@ -121,9 +121,9 @@
 | 119 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 119 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
 | 121 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.68% |
-| 121 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.68% |
-| 123 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
-| 123 | [Haven](games/h/haven.md) | 0.66% |
+| 122 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
+| 122 | [Haven](games/h/haven.md) | 0.66% |
+| 122 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.66% |
 | 125 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.64% |
 | 126 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 127 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.61% |
