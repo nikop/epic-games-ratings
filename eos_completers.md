@@ -27,8 +27,8 @@
 | 25 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
 | 26 | [Sonic Origins](games/s/sonic_origins.md) | 10.25% |
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
-| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.75% |
+| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.13% |
+| 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.00% |
 | 32 | [Smelter](games/s/smelter.md) | 7.89% |
@@ -55,7 +55,7 @@
 | 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.08% |
 | 54 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.03% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.78% |
-| 56 | [ZZT!](games/z/zzt!.md) | 3.64% |
+| 56 | [ZZT!](games/z/zzt!.md) | 3.67% |
 | 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.52% |
 | 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.49% |
@@ -115,9 +115,9 @@
 | 112 | [Sable](games/s/sable.md) | 0.98% |
 | 114 | [Hades](games/h/hades.md) | 0.90% |
 | 115 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 116 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.84% |
-| 117 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
-| 118 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
+| 116 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 117 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
+| 117 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.79% |
 | 119 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 120 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
 | 121 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
