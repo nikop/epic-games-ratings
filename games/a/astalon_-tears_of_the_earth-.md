@@ -15,10 +15,10 @@
 | Snakehead! | 30.00% | ~18 |
 | Unmasked! | 30.00% | ~18 |
 | Loot, loot! | 30.00% | ~18 |
-| Beast Knight | 27.00% | ~16 |
-| Twin slayer! | 27.00% | ~16 |
+| Beast Knight | 28.00% | ~17 |
+| Twin slayer! | 28.00% | ~17 |
+| Mercenary! | 28.00% | ~17 |
 | Fly, you fool! | 27.00% | ~16 |
-| Mercenary! | 27.00% | ~16 |
 | God of the Tower! | 25.00% | ~15 |
 | Relic Collector | 25.00% | ~15 |
 | Cartographer | 25.00% | ~15 |

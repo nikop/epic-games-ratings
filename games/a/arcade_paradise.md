@@ -19,7 +19,7 @@ Rating: 4.58 (Ranked 426)
 | Taking the plunge | 13.00% | ~87 |
 | Hidden Packages | 11.00% | ~74 |
 | GOOOAAAL | 10.00% | ~67 |
-| Ahoy Hoy | 6.00% | ~40 |
+| Ahoy Hoy | 7.00% | ~47 |
 | Rhythm is a dancer | 6.00% | ~40 |
 | New Kid on the Block | 6.00% | ~40 |
 | Jimmy Goldman Would be Proud | 6.00% | ~40 |

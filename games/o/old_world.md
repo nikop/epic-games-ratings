@@ -8,6 +8,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Clergy | 3.00% | ~397 |
 | Settler | 2.00% | ~264 |
+| Play a Single Player Game | 2.00% | ~264 |
 | Able | 1.00% | ~132 |
 | Architect | 1.00% | ~132 |
 | Explorer | 1.00% | ~132 |
@@ -16,7 +17,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 1.00% | ~132 |
 | Friendly Family | 1.00% | ~132 |
 | Hanging Gardens | 1.00% | ~132 |
-| Play a Single Player Game | 1.00% | ~132 |
 | The Great Mage | 1.00% | ~132 |
 | Poetic Leader | 1.00% | ~132 |
 | Enlightened | 0.90% | ~119 |
@@ -26,18 +26,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.90% | ~119 |
 | Pioneer | 0.90% | ~119 |
 | Oracle | 0.90% | ~119 |
+| Judaism | 0.90% | ~119 |
 | Naming Landmarks | 0.90% | ~119 |
 | Trade Caravan | 0.90% | ~119 |
 | Glorious | 0.80% | ~106 |
 | Keystone | 0.80% | ~106 |
+| Warrior | 0.80% | ~106 |
 | Pyramids | 0.80% | ~106 |
-| Judaism | 0.80% | ~106 |
 | Babylonian Paganism | 0.80% | ~106 |
 | Greek Paganism | 0.80% | ~106 |
 | Ambitious | 0.70% | ~93 |
 | Fountainhead | 0.70% | ~93 |
 | Magnificent | 0.70% | ~93 |
-| Warrior | 0.70% | ~93 |
 | Wise | 0.70% | ~93 |
 | Developing Cities | 0.70% | ~93 |
 | Strong Cities | 0.70% | ~93 |
@@ -70,6 +70,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 0.50% | ~66 |
 | Mythology | 0.50% | ~66 |
 | Hanging Gardens in Babylon | 0.40% | ~53 |
+| Conqueror | 0.40% | ~53 |
 | Valiant | 0.40% | ~53 |
 | Good Difficulty | 0.40% | ~53 |
 | Champions | 0.40% | ~53 |
@@ -84,8 +85,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.40% | ~53 |
 | Points Victory | 0.40% | ~53 |
 | Beloved | 0.30% | ~40 |
-| Conqueror | 0.30% | ~40 |
 | Devout | 0.30% | ~40 |
+| Invincible | 0.30% | ~40 |
 | Lion | 0.30% | ~40 |
 | Mighty | 0.30% | ~40 |
 | Ready | 0.30% | ~40 |
@@ -121,7 +122,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.20% | ~26 |
 | Carthage - Ox Hide | 0.20% | ~26 |
 | Capable | 0.20% | ~26 |
-| Invincible | 0.20% | ~26 |
 | Old | 0.20% | ~26 |
 | Peacemaker | 0.20% | ~26 |
 | Noble Difficulty | 0.20% | ~26 |
@@ -131,6 +131,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.20% | ~26 |
 | Rome | 0.20% | ~26 |
 | One True Faith | 0.20% | ~26 |
+| Play a Network Game | 0.20% | ~26 |
 | Hittite Paganism | 0.20% | ~26 |
 | Industrial Progress | 0.20% | ~26 |
 | Military Prestige | 0.20% | ~26 |
@@ -236,7 +237,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~13 |
 | Play a Hotseat Game | 0.10% | ~13 |
 | Play a MP Teams Game | 0.10% | ~13 |
-| Play a Network Game | 0.10% | ~13 |
 | Play a Play-By-Cloud Game | 0.10% | ~13 |
 | Punic Wars | 0.10% | ~13 |
 | Roman Papacy | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,221 (Ranked 117)  
+Progressed: 13,225 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-07-29 | 13,164 | 5 |
 | 2023-07-30 | 13,191 | 5 |
 | 2023-07-31 | 13,209 | 5 |
-| 2023-08-01 | 13,221 | 5 |
+| 2023-08-01 | 13,225 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 262)  
 Sum: 1,786 (Ranked 206)  

@@ -1,4 +1,4 @@
-# At Eve's Wake
+# At Eve's Wake Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/at-eves-wake-definitive-edition)  
 [View Rawdata](../../db/a/at_eve's_wake.json)  
 ## Ratings History

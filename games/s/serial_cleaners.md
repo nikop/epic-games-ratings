@@ -9,16 +9,16 @@
 | A New Broom Sweeps Clean | 14.00% | ~32 |
 | Small-time Finder | 13.00% | ~30 |
 | Off to a Good Start | 12.00% | ~27 |
-| Business as usual | 11.00% | ~25 |
+| Business as usual | 10.00% | ~23 |
 | Mr. Hygeni | 8.00% | ~18 |
 | Pride and Joy | 7.00% | ~16 |
 | Eyes Yet To Open | 7.00% | ~16 |
 | Hackathon | 6.00% | ~14 |
-| All the Stories | 4.00% | ~9 |
 | Total Recall | 4.00% | ~9 |
-| Witness Protection | 4.00% | ~9 |
 | The Wing and the Thigh | 4.00% | ~9 |
+| All the Stories | 3.00% | ~7 |
 | Something Rotten | 3.00% | ~7 |
+| Witness Protection | 3.00% | ~7 |
 | The Crush And Smash The Dino Four | 2.00% | ~2 |
 | … Women Inherit The Earth | 2.00% | ~2 |
 | Blood Capade | 1.00% | ~2 |
@@ -29,8 +29,8 @@
 | Cha Cha Real Smooth | 0.40% | ~0 |
 | That’s One Big Pile | 0.40% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228 (Ranked 272)  
-Completed: 6 (2.63%) (Ranked 74)  
+Progressed: 229 (Ranked 271)  
+Completed: 6 (2.62%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,6 +73,7 @@ Completed: 6 (2.63%) (Ranked 74)
 | 2023-07-26 | 222 | 6 |
 | 2023-07-28 | 227 | 6 |
 | 2023-07-30 | 228 | 6 |
+| 2023-08-01 | 229 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

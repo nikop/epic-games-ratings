@@ -6,47 +6,47 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~391,172 |
-| Hey! That's mine! | 78.00% | ~376,684 |
-| Happy Returns | 77.00% | ~371,855 |
-| Field Promotion | 74.00% | ~357,367 |
-| Leadhead | 71.00% | ~342,879 |
-| Eradicator | 67.00% | ~323,562 |
-| Surplus | 65.00% | ~313,903 |
-| I Spy | 64.00% | ~309,074 |
-| Burn Baby Burn | 59.00% | ~284,928 |
-| Yellow Beats Green | 55.00% | ~265,610 |
-| Salvage Rights | 53.00% | ~255,952 |
-| Close Call | 50.00% | ~241,464 |
-| Pew Pew | 50.00% | ~241,464 |
-| What IS that? | 50.00% | ~241,464 |
-| Penny Pincher | 49.00% | ~236,635 |
-| Arsenal | 46.00% | ~222,147 |
-| Boot Camp | 45.00% | ~217,318 |
-| Flawless Victory | 42.00% | ~202,830 |
-| Confident | 40.00% | ~193,171 |
-| Exterminator | 36.00% | ~173,854 |
-| Not So Fast | 33.00% | ~159,366 |
-| Sharpshooter | 33.00% | ~159,366 |
-| Great Ball of Fire | 32.00% | ~154,537 |
-| No Sale | 30.00% | ~144,878 |
-| Kaboom! | 29.00% | ~140,049 |
-| Liquidator | 29.00% | ~140,049 |
-| High Voltage | 24.00% | ~115,903 |
-| Filthy Rich | 19.00% | ~91,756 |
-| The Not-So-Friendly Skies | 18.00% | ~86,927 |
-| Power Builder | 17.00% | ~82,098 |
-| Pyrrhic Victory | 17.00% | ~82,098 |
-| Death From Above | 16.00% | ~77,268 |
-| Retry | 16.00% | ~77,268 |
-| Head Trauma | 12.00% | ~57,951 |
-| Full Defense | 10.00% | ~48,293 |
+| First Blood | 81.00% | ~391,177 |
+| Hey! That's mine! | 78.00% | ~376,689 |
+| Happy Returns | 77.00% | ~371,860 |
+| Field Promotion | 74.00% | ~357,372 |
+| Leadhead | 71.00% | ~342,884 |
+| Eradicator | 67.00% | ~323,566 |
+| Surplus | 65.00% | ~313,908 |
+| I Spy | 64.00% | ~309,078 |
+| Burn Baby Burn | 59.00% | ~284,932 |
+| Yellow Beats Green | 55.00% | ~265,614 |
+| Salvage Rights | 53.00% | ~255,956 |
+| Close Call | 50.00% | ~241,468 |
+| Pew Pew | 50.00% | ~241,468 |
+| What IS that? | 50.00% | ~241,468 |
+| Penny Pincher | 49.00% | ~236,638 |
+| Arsenal | 46.00% | ~222,150 |
+| Boot Camp | 45.00% | ~217,321 |
+| Flawless Victory | 42.00% | ~202,833 |
+| Confident | 40.00% | ~193,174 |
+| Exterminator | 36.00% | ~173,857 |
+| Not So Fast | 33.00% | ~159,369 |
+| Sharpshooter | 33.00% | ~159,369 |
+| Great Ball of Fire | 32.00% | ~154,539 |
+| No Sale | 30.00% | ~144,880 |
+| Kaboom! | 29.00% | ~140,051 |
+| Liquidator | 29.00% | ~140,051 |
+| High Voltage | 24.00% | ~115,904 |
+| Filthy Rich | 19.00% | ~91,758 |
+| The Not-So-Friendly Skies | 18.00% | ~86,928 |
+| Power Builder | 17.00% | ~82,099 |
+| Pyrrhic Victory | 17.00% | ~82,099 |
+| Death From Above | 16.00% | ~77,270 |
+| Retry | 16.00% | ~77,270 |
+| Head Trauma | 12.00% | ~57,952 |
+| Full Defense | 10.00% | ~48,294 |
 | Overseer | 9.00% | ~43,464 |
-| Annihilator | 8.00% | ~38,634 |
-| If At First You Don't Succeed, Retry Again | 8.00% | ~38,634 |
+| Annihilator | 8.00% | ~38,635 |
+| If At First You Don't Succeed, Retry Again | 8.00% | ~38,635 |
 | Indecisive | 6.00% | ~28,976 |
-| Base Defender | 5.00% | ~24,146 |
-| Relay Race | 5.00% | ~24,146 |
+| Base Defender | 5.00% | ~24,147 |
+| Relay Race | 5.00% | ~24,147 |
 | Diversity | 3.00% | ~14,488 |
 | Full Potential | 3.00% | ~14,488 |
 | Tower Expert | 3.00% | ~14,488 |
@@ -62,7 +62,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Planet Defender | 0.90% | ~4,346 |
 | Master Siege Breaker | 0.80% | ~3,863 |
 | Few and Proud | 0.80% | ~3,863 |
-| Shell-shocked | 0.70% | ~3,380 |
+| Shell-shocked | 0.70% | ~3,381 |
 | Alien Tears | 0.50% | ~2,415 |
 | Full House | 0.40% | ~1,932 |
 | Kickstarter | 0.30% | ~1,449 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~483 |
 | You Monster | 0.10% | ~483 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 482,928 (Ranked 35)  
+Progressed: 482,935 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 4 (0.00%) (Ranked 247)
 | 2023-07-29 | 482,683 | 4 |
 | 2023-07-30 | 482,780 | 4 |
 | 2023-07-31 | 482,869 | 4 |
-| 2023-08-01 | 482,928 | 4 |
+| 2023-08-01 | 482,935 | 4 |
 ## Awards
 Max (Great for Beginners): 241  (Ranked 251)  
 Sum: 1,671 (Ranked 209)  

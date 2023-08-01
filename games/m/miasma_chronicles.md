@@ -21,7 +21,7 @@ Rating: 4.40 (Ranked 697)
 | Firestarter | 41.00% | ~544 |
 | The meaning of Kain | 41.00% | ~544 |
 | Technophobe | 39.00% | ~518 |
-| Recycler | 37.00% | ~491 |
+| Recycler | 38.00% | ~504 |
 | Are you not entertained? | 33.00% | ~438 |
 | Ganglord | 33.00% | ~438 |
 | Jarhead | 33.00% | ~438 |

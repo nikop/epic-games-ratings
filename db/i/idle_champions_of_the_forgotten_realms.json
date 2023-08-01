@@ -5452,9 +5452,9 @@
       "Count": 3332
     }
   ],
-  "EOS_Progressed": 217695,
+  "EOS_Progressed": 217706,
   "EOS_Completed": 2142,
-  "EOS_NewPlayers": 2243,
+  "EOS_NewPlayers": 2238,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16562,6 +16562,11 @@
       "Time": "2023-08-01T18:04:39.9513393+00:00",
       "NumProgressed": 217695,
       "NumCompleted": 2142
+    },
+    {
+      "Time": "2023-08-01T19:04:44.1512836+00:00",
+      "NumProgressed": 217706,
+      "NumCompleted": 2142
     }
   ],
   "TotalAchievements": 512,
@@ -17045,7 +17050,7 @@
       "Name": "Don\u0027t Look Up!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "objective_completed_1121",
@@ -17189,7 +17194,7 @@
       "Name": "Heavy Burden",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "objective_completed_1152",
@@ -17275,9 +17280,9 @@
       "ID": "objective_completed_1168",
       "SetID": "415jc5c",
       "Name": "Vecna Loots!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1472
     },
     {
       "ID": "objective_completed_1169",
@@ -17293,7 +17298,7 @@
       "Name": "Friends of the Forest",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "objective_completed_1170",
@@ -17677,7 +17682,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "objective_completed_149",
@@ -17757,7 +17762,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "objective_completed_164",
@@ -17773,7 +17778,7 @@
       "Name": "Street War",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "objective_completed_166",
@@ -17805,7 +17810,7 @@
       "Name": "March of the Undead",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "objective_completed_170",
@@ -17909,7 +17914,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "objective_completed_208",
@@ -17917,7 +17922,7 @@
       "Name": "The Mists of Ravenloft",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "objective_completed_209",
@@ -17989,7 +17994,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "objective_completed_231",
@@ -18021,7 +18026,7 @@
       "Name": "The Botched Kidnapping",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "objective_completed_236",
@@ -18245,7 +18250,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "objective_completed_34",
@@ -19717,7 +19722,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "objective_completed_70",
@@ -20668,21 +20673,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183969,
-      "Completed": 3047
+      "Progressed": 183980,
+      "Completed": 3048
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217695,
+      "Progressed": 217706,
       "Completed": 2142
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-01T06:58:55.3799578+00:00",
-  "LastChanged_Achievements": "2023-08-01T18:04:39.9513387+00:00",
+  "LastChanged_Achievements": "2023-08-01T19:04:44.1512832+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-01T17:59:06.3418979+00:00",
-  "LastUpdate_Achievements": "2023-08-01T18:04:39.9546167+00:00"
+  "LastUpdate_Ratings": "2023-08-01T18:58:49.3279429+00:00",
+  "LastUpdate_Achievements": "2023-08-01T19:04:44.1540354+00:00"
 }

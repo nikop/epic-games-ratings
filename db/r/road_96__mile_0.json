@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 357,
+  "EOS_Progressed": 358,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -1064,6 +1064,11 @@
       "Time": "2023-08-01T13:10:14.2443619+00:00",
       "NumProgressed": 357,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-01T19:03:40.0358013+00:00",
+      "NumProgressed": 358,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1091,7 +1096,7 @@
       "Name": "On the Road",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "findalltapes",
@@ -1137,9 +1142,9 @@
       "ID": "scoreminrankrf2",
       "SetID": "40n95i5",
       "Name": "Partners in Crime",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 32
     },
     {
       "ID": "scoreminrankrh1",
@@ -1179,7 +1184,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "scoreminrankrv2",
@@ -1194,7 +1199,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 357,
+      "Progressed": 358,
       "Completed": 2
     }
   ],
@@ -1202,8 +1207,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-08-01T18:03:23.506634+00:00",
+  "LastChanged_Achievements": "2023-08-01T19:03:40.0358008+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:37.5183891+00:00",
-  "LastUpdate_Ratings": "2023-08-01T17:59:49.6931594+00:00",
-  "LastUpdate_Achievements": "2023-08-01T18:03:23.5066634+00:00"
+  "LastUpdate_Ratings": "2023-08-01T18:59:25.190487+00:00",
+  "LastUpdate_Achievements": "2023-08-01T19:03:40.0358194+00:00"
 }

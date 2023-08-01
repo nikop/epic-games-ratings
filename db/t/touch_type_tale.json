@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3093,
+  "EOS_Progressed": 3094,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2624,6 +2624,11 @@
       "Time": "2023-07-31T20:04:52.5309916+00:00",
       "NumProgressed": 3093,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-01T19:04:48.4634804+00:00",
+      "NumProgressed": 3094,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2641,9 +2646,9 @@
       "ID": "bonus2",
       "SetID": "2h56gn1",
       "Name": "Sniped",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 217
     },
     {
       "ID": "bonus3",
@@ -2683,7 +2688,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2753
+      "UsersEstimate": 2754
     },
     {
       "ID": "campaign10",
@@ -2715,7 +2720,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "campaign14",
@@ -2739,7 +2744,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "campaign17",
@@ -2771,7 +2776,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "campaign20",
@@ -2787,7 +2792,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "campaign4",
@@ -2843,7 +2848,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "scenario2",
@@ -2898,7 +2903,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3093,
+      "Progressed": 3094,
       "Completed": 10
     }
   ],
@@ -2906,8 +2911,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-08-01T18:04:45.6945188+00:00",
+  "LastChanged_Achievements": "2023-08-01T19:04:48.4634799+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:07.7269994+00:00",
-  "LastUpdate_Ratings": "2023-08-01T18:01:22.8978841+00:00",
-  "LastUpdate_Achievements": "2023-08-01T18:04:45.694595+00:00"
+  "LastUpdate_Ratings": "2023-08-01T19:00:39.9234965+00:00",
+  "LastUpdate_Achievements": "2023-08-01T19:04:48.4635394+00:00"
 }

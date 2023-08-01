@@ -11,12 +11,12 @@
 | Your first job | 83.00% | ~167 |
 | Old movies enjoyer | 80.00% | ~161 |
 | First defeat | 79.00% | ~159 |
+| Fitness professional | 77.00% | ~155 |
 | Depressed visitor | 77.00% | ~155 |
-| Fitness professional | 76.00% | ~153 |
 | Neurotrainer – power gainer! | 75.00% | ~151 |
-| Employee of the week | 74.00% | ~149 |
-| Your own amateur gym | 73.00% | ~147 |
-| Run K, run! | 70.00% | ~141 |
+| Employee of the week | 75.00% | ~151 |
+| Your own amateur gym | 74.00% | ~149 |
+| Run K, run! | 71.00% | ~143 |
 | Hello, world! | 67.00% | ~135 |
 | No bullying more | 66.00% | ~133 |
 | Fighting is cool | 65.00% | ~131 |
@@ -26,13 +26,13 @@
 | Law student | 59.00% | ~119 |
 | Intriguing candies | 57.00% | ~115 |
 | Workout professional | 56.00% | ~113 |
-| Little hacker | 55.00% | ~111 |
-| Champion – starter pack | 55.00% | ~111 |
-| Own four walls | 55.00% | ~111 |
+| Little hacker | 56.00% | ~113 |
+| Champion – starter pack | 56.00% | ~113 |
+| Own four walls | 56.00% | ~113 |
+| It's good to be alive | 55.00% | ~111 |
 | Handyman | 54.00% | ~109 |
-| It's good to be alive | 54.00% | ~109 |
 | Employee of the year | 54.00% | ~109 |
-| Fight for life | 52.00% | ~105 |
+| Fight for life | 53.00% | ~107 |
 | Legal courier | 51.00% | ~103 |
 | Extreme neuropower! | 49.00% | ~98 |
 | Escaped from a big trouble | 48.00% | ~96 |
@@ -58,13 +58,13 @@
 | Problems of cyborgs | 29.00% | ~58 |
 | Not little hacker | 29.00% | ~58 |
 | Absolute Champion! | 29.00% | ~58 |
+| Another world | 28.00% | ~56 |
+| The lonesome road | 28.00% | ~56 |
+| Key memories | 28.00% | ~56 |
 | Careerist | 28.00% | ~56 |
-| Another world | 27.00% | ~54 |
-| The lonesome road | 27.00% | ~54 |
+| The heart of the Resistance | 28.00% | ~56 |
 | Keep nature safe | 27.00% | ~54 |
 | Family comes first | 27.00% | ~54 |
-| Key memories | 27.00% | ~54 |
-| The heart of the Resistance | 27.00% | ~54 |
 | Trap disarmed | 26.00% | ~52 |
 | Anyone can resist | 26.00% | ~52 |
 | Silver’s past | 24.00% | ~48 |

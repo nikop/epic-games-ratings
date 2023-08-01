@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5362,9 +5362,9 @@
       "Count": 3722
     }
   ],
-  "EOS_Progressed": 133699,
+  "EOS_Progressed": 133702,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 481,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -15842,6 +15842,11 @@
       "Time": "2023-08-01T18:04:14.3103653+00:00",
       "NumProgressed": 133699,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-08-01T19:04:22.3442438+00:00",
+      "NumProgressed": 133702,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 112,
@@ -16021,7 +16026,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "chest02",
@@ -16085,7 +16090,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "commonres02",
@@ -16563,9 +16568,9 @@
       "ID": "quest01",
       "SetID": "anfd17p",
       "Name": "Did we pack lunch?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 267
     },
     {
       "ID": "quest02",
@@ -16669,7 +16674,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "twinenchant01",
@@ -16748,15 +16753,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133699,
+      "Progressed": 133702,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-01T11:58:49.1870669+00:00",
-  "LastChanged_Achievements": "2023-08-01T18:04:14.3103647+00:00",
+  "LastChanged_Achievements": "2023-08-01T19:04:22.3442435+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.2465054+00:00",
-  "LastUpdate_Ratings": "2023-08-01T17:59:28.9350168+00:00",
-  "LastUpdate_Achievements": "2023-08-01T18:04:14.3108219+00:00"
+  "LastUpdate_Ratings": "2023-08-01T18:59:04.012342+00:00",
+  "LastUpdate_Achievements": "2023-08-01T19:04:22.3446521+00:00"
 }

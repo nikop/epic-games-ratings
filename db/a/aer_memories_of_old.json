@@ -6,7 +6,7 @@
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 109,
-  "Ranking_EOS_Completed": 83,
+  "Ranking_EOS_Completed": 84,
   "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16760,
+  "EOS_Progressed": 16764,
   "EOS_Completed": 346,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.06,
   "EosHistory": [
@@ -11264,6 +11264,11 @@
       "Time": "2023-08-01T18:05:03.3682444+00:00",
       "NumProgressed": 16760,
       "NumCompleted": 346
+    },
+    {
+      "Time": "2023-08-01T19:05:02.3934792+00:00",
+      "NumProgressed": 16764,
+      "NumCompleted": 346
     }
   ],
   "TotalAchievements": 20,
@@ -11275,7 +11280,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2849
+      "UsersEstimate": 2850
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -11291,7 +11296,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -11299,7 +11304,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -11307,7 +11312,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -11331,7 +11336,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -11339,7 +11344,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2514
+      "UsersEstimate": 2515
     },
     {
       "ID": "FOUND_ERIN",
@@ -11371,7 +11376,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -11387,7 +11392,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "INTRO_FINISHED",
@@ -11395,7 +11400,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12738
+      "UsersEstimate": 12741
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -11403,7 +11408,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4693
+      "UsersEstimate": 4694
     },
     {
       "ID": "NORTH_FINISHED",
@@ -11411,7 +11416,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -11427,22 +11432,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3184
+      "UsersEstimate": 3185
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 16760,
+      "Progressed": 16764,
       "Completed": 346
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-08-01T18:05:03.3682437+00:00",
+  "LastChanged_Achievements": "2023-08-01T19:05:02.3934787+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:59.0842389+00:00",
-  "LastUpdate_Ratings": "2023-08-01T18:01:16.7370453+00:00",
-  "LastUpdate_Achievements": "2023-08-01T18:05:03.3683933+00:00"
+  "LastUpdate_Ratings": "2023-08-01T19:00:35.1440905+00:00",
+  "LastUpdate_Achievements": "2023-08-01T19:05:02.3935394+00:00"
 }

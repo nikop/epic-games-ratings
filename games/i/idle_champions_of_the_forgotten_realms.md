@@ -14,10 +14,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 1.00% | ~1,840 |
 | Vecna Lives! | 0.90% | ~1,656 |
 | Rock and Roll | 0.90% | ~1,656 |
+| Vecna Loots! | 0.80% | ~1,472 |
 | Flight of the Kindori Pod | 0.80% | ~1,472 |
 | Tall Tales | 0.70% | ~1,288 |
 | Seeds of Destruction | 0.70% | ~1,288 |
-| Vecna Loots! | 0.70% | ~1,288 |
 | Topolah's Tower | 0.70% | ~1,288 |
 | Pros and CONs | 0.60% | ~1,306 |
 | The Witchlight Carnival | 0.60% | ~1,104 |
@@ -32,21 +32,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.60% | ~1,306 |
 | Unearthed Evil | 0.60% | ~1,306 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,104 |
-| Don't Look Up! | 0.50% | ~1,088 |
-| Heavy Burden | 0.50% | ~1,088 |
+| Don't Look Up! | 0.50% | ~1,089 |
+| Heavy Burden | 0.50% | ~1,089 |
 | The Evacuation of Waterdeep | 0.50% | ~920 |
-| Friends of the Forest | 0.50% | ~1,088 |
+| Friends of the Forest | 0.50% | ~1,089 |
 | The Dread Domain of Tovag | 0.50% | ~920 |
-| Beast Mode | 0.50% | ~1,088 |
-| Low Initiative | 0.50% | ~1,088 |
-| Street War | 0.50% | ~1,088 |
-| March of the Undead | 0.50% | ~1,088 |
-| No Time To Rest | 0.50% | ~1,088 |
-| The Mists of Ravenloft | 0.50% | ~1,088 |
-| The Dinner Party | 0.50% | ~1,088 |
-| The Botched Kidnapping | 0.50% | ~1,088 |
-| The Cursed Farmer | 0.50% | ~1,088 |
-| The Mad Wizard | 0.50% | ~1,088 |
+| Beast Mode | 0.50% | ~1,089 |
+| Low Initiative | 0.50% | ~1,089 |
+| Street War | 0.50% | ~1,089 |
+| March of the Undead | 0.50% | ~1,089 |
+| No Time To Rest | 0.50% | ~1,089 |
+| The Mists of Ravenloft | 0.50% | ~1,089 |
+| The Dinner Party | 0.50% | ~1,089 |
+| The Botched Kidnapping | 0.50% | ~1,089 |
+| The Cursed Farmer | 0.50% | ~1,089 |
+| The Mad Wizard | 0.50% | ~1,089 |
 | Not That Type of Helm! | 0.50% | ~920 |
 | Calcryx Tricks | 0.50% | ~920 |
 | Goblin Halls: the Next Generation | 0.50% | ~920 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,695 (Ranked 53)  
+Progressed: 217,706 (Ranked 53)  
 Completed: 2,142 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,7 +622,7 @@ Completed: 2,142 (0.98%) (Ranked 112)
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
-| 2023-08-01 | 217,695 | 2,142 |
+| 2023-08-01 | 217,706 | 2,142 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
 Sum: 30,840 (Ranked 38)  

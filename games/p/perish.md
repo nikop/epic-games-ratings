@@ -55,8 +55,8 @@
 | Scrap Metal | 1.00% | ~33 |
 | Athenian Treasury | 0.80% | ~27 |
 | Invicta | 0.80% | ~27 |
+| Olympian | 0.60% | ~20 |
 | Hipparchia's Labour | 0.50% | ~17 |
-| Olympian | 0.50% | ~17 |
 | Debauchery | 0.40% | ~13 |
 | Blessing of Spring | 0.40% | ~13 |
 | Interrupt the Interloper | 0.40% | ~13 |

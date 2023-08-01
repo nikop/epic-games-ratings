@@ -1,23 +1,23 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.67 (Ranked 258)  
+Rating: 4.67 (Ranked 257)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,383 |
-| Un-Lonely Island | 47.00% | ~2,120 |
-| The Beginning of a Servantship | 45.00% | ~2,030 |
-| Trade Is My Trait | 37.00% | ~1,669 |
+| Just One...More...Term... | 75.00% | ~3,386 |
+| Un-Lonely Island | 47.00% | ~2,122 |
+| The Beginning of a Servantship | 45.00% | ~2,031 |
+| Trade Is My Trait | 37.00% | ~1,670 |
 | Number 18 | 24.00% | ~1,083 |
-| We Don't Have Time For That | 19.00% | ~857 |
-| The Governator | 18.00% | ~812 |
+| We Don't Have Time For That | 19.00% | ~858 |
+| The Governator | 18.00% | ~813 |
 | The Legend of Langostino | 17.00% | ~767 |
 | Caribbean Comrade | 16.00% | ~722 |
 | The Dreamer of Dreams | 15.00% | ~677 |
-| Go Sovereigns! | 11.00% | ~496 |
-| For Science! | 11.00% | ~496 |
+| Go Sovereigns! | 11.00% | ~497 |
+| For Science! | 11.00% | ~497 |
 | Happy Ending? | 10.00% | ~451 |
 | Of Seals And Men | 10.00% | ~451 |
 | Shackadelic | 10.00% | ~451 |
@@ -32,7 +32,7 @@ Number of Ratings: 398  (23.09.2022)
 | Watch The World Burn | 6.00% | ~271 |
 | Viva Tropico! | 5.00% | ~226 |
 | Fairy Tale Come True | 5.00% | ~226 |
-| Apocalypso | 4.00% | ~180 |
+| Apocalypso | 4.00% | ~181 |
 | Been there, Done That | 3.00% | ~135 |
 | Narcissist | 3.00% | ~135 |
 | Promising Endeavors | 3.00% | ~135 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~41 |
 | My Ways | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,511 (Ranked 144)  
+Progressed: 4,514 (Ranked 144)  
 Completed: 2 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 2 (0.04%) (Ranked 218)
 | 2023-07-29 | 4,413 | 2 |
 | 2023-07-30 | 4,451 | 2 |
 | 2023-07-31 | 4,478 | 2 |
-| 2023-08-01 | 4,511 | 2 |
+| 2023-08-01 | 4,514 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 341)  
 Sum: 672 (Ranked 276)  

@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 0.50% | ~668 |
-| Basic in Bulk | 0.50% | ~668 |
-| Titan's First Steps | 0.50% | ~668 |
+| Sponsored by Argon | 0.50% | ~669 |
+| Basic in Bulk | 0.50% | ~669 |
+| Titan's First Steps | 0.50% | ~669 |
 | Disintermediation | 0.40% | ~535 |
 | Tinkle of Coins | 0.40% | ~535 |
 | Capitalism Ho! | 0.40% | ~535 |
@@ -31,6 +31,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.20% | ~267 |
 | Dungeon Imports | 0.20% | ~267 |
 | Through Repetition, Perfection | 0.20% | ~267 |
+| Did we pack lunch? | 0.20% | ~267 |
 | Arcane Industries | 0.20% | ~267 |
 | On the Path to Greatness | 0.10% | ~134 |
 | A Notch Above the Rest | 0.10% | ~134 |
@@ -99,7 +100,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Greatest Grind | 0.10% | ~134 |
 | All or Nothing! | 0.10% | ~134 |
 | Scourge of the Seas | 0.10% | ~134 |
-| Did we pack lunch? | 0.10% | ~134 |
 | Attrition Mission | 0.10% | ~134 |
 | Eternal Crusade | 0.10% | ~134 |
 | To Hell and Back | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,699 (Ranked 62)  
+Progressed: 133,702 (Ranked 62)  
 Completed: 125 (0.09%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 125 (0.09%) (Ranked 198)
 | 2023-07-29 | 133,512 | 124 |
 | 2023-07-30 | 133,588 | 124 |
 | 2023-07-31 | 133,652 | 124 |
-| 2023-08-01 | 133,699 | 125 |
+| 2023-08-01 | 133,702 | 125 |
 ## Awards
 Max (Great for Beginners): 4,682  (Ranked 70)  
 Sum: 27,021 (Ranked 46)  

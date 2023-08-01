@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 32.00% | ~11 |
+| That's the spirit | 31.00% | ~11 |
 | Rascal | 29.00% | ~10 |
 | The Preacher's fate | 29.00% | ~10 |
 | Champollion | 29.00% | ~10 |
@@ -17,21 +17,21 @@
 | Cable guy | 26.00% | ~9 |
 | A good beginning | 26.00% | ~9 |
 | True G4M3R | 26.00% | ~9 |
-| I did it | 24.00% | ~8 |
-| Fashion victim | 24.00% | ~8 |
-| Feels like springtime | 21.00% | ~7 |
-| In this together | 18.00% | ~6 |
-| Peace walker | 15.00% | ~5 |
-| Half the way | 15.00% | ~5 |
-| Open door | 15.00% | ~5 |
-| Free at last | 12.00% | ~4 |
-| A great audience | 12.00% | ~4 |
-| For its own good | 12.00% | ~4 |
-| A Link to the Past | 12.00% | ~4 |
-| Alchemists Express | 12.00% | ~4 |
+| I did it | 23.00% | ~8 |
+| Fashion victim | 23.00% | ~8 |
+| Feels like springtime | 20.00% | ~7 |
+| In this together | 17.00% | ~6 |
+| Peace walker | 14.00% | ~5 |
+| Half the way | 14.00% | ~5 |
+| Open door | 14.00% | ~5 |
+| Free at last | 11.00% | ~4 |
+| A great audience | 11.00% | ~4 |
+| For its own good | 11.00% | ~4 |
+| A Link to the Past | 11.00% | ~4 |
+| Alchemists Express | 11.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34 (Ranked 379)  
-Completed: 4 (11.76%) (Ranked 18)  
+Progressed: 35 (Ranked 376)  
+Completed: 4 (11.43%) (Ranked 19)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -55,4 +55,4 @@ Completed: 4 (11.76%) (Ranked 18)
 | 2023-07-29 | 26 | 4 |
 | 2023-07-30 | 30 | 4 |
 | 2023-07-31 | 33 | 4 |
-| 2023-08-01 | 34 | 4 |
+| 2023-08-01 | 35 | 4 |

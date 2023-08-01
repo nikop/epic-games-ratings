@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -99,11 +99,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 412,
+  "EOS_Progressed": 413,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.49,
+  "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:48.389739+00:00",
@@ -739,6 +739,11 @@
       "Time": "2023-08-01T18:04:43.7254493+00:00",
       "NumProgressed": 412,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-01T19:04:46.8198489+00:00",
+      "NumProgressed": 413,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -750,7 +755,7 @@
       "Name": "Getting started",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "02_collector",
@@ -764,9 +769,9 @@
       "ID": "03_philatelist",
       "SetID": "chb1m60",
       "Name": "Philatelist",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 99
     },
     {
       "ID": "04_tycoon",
@@ -790,7 +795,7 @@
       "Name": "Living it large!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "07_europe",
@@ -812,9 +817,9 @@
       "ID": "09_russia",
       "SetID": "chb1m60",
       "Name": "Russia",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 66
     },
     {
       "ID": "10_japan",
@@ -846,7 +851,7 @@
       "Name": "It\u0027s no coincidence.",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "14_woodcutter",
@@ -878,7 +883,7 @@
       "Name": "Builder",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "18_foreman",
@@ -982,7 +987,7 @@
       "Name": "Completely nuts!",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "31_chancellor",
@@ -990,15 +995,15 @@
       "Name": "\u0421hancellor",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "32_engineer",
       "SetID": "chb1m60",
       "Name": "Engineer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 45
     },
     {
       "ID": "33_peacemaker",
@@ -1006,15 +1011,15 @@
       "Name": "Peacemaker",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "34_needtothink",
       "SetID": "chb1m60",
       "Name": "Need to think",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 161
     },
     {
       "ID": "35_achtung",
@@ -1030,7 +1035,7 @@
       "Name": "Supercrash!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "37_maniacvandal",
@@ -1061,15 +1066,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 412,
+      "Progressed": 413,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-07-28T17:58:21.049991+00:00",
-  "LastChanged_Achievements": "2023-08-01T18:04:43.7254487+00:00",
+  "LastChanged_Achievements": "2023-08-01T19:04:46.8198482+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:31.9818041+00:00",
-  "LastUpdate_Ratings": "2023-08-01T17:58:31.0541441+00:00",
-  "LastUpdate_Achievements": "2023-08-01T18:04:43.72551+00:00"
+  "LastUpdate_Ratings": "2023-08-01T18:58:21.4124994+00:00",
+  "LastUpdate_Achievements": "2023-08-01T19:04:46.8198836+00:00"
 }
