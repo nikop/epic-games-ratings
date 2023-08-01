@@ -380,6 +380,7 @@
 | [Until the Last Plane](games/u/until_the_last_plane.md) | 2099-01-01 | 11 (1,000 XP) | 0 | - | - |
 | [Velo](games/v/velo.md) | 2099-01-01 | - |  | - | - |
 | [Vengeance of Mr. Peppermint](games/v/vengeance_of_mr._peppermint.md) | 2099-01-01 | - |  | - | - |
+| [Voor De Kroon](games/8/8c14e757bab745a8a76d991c38538f3f.md) | 2099-01-01 | - |  | - | - |
 | [Wayfinder](games/w/wayfinder.md) | 2099-01-01 | - |  | - | - |
 | [Wild West Undead](games/d/d36ba9bed7b64c1caeebf444586a679d.md) | 2099-01-01 | - |  | - | - |
 | [Wolfsbane](games/w/wolfsbane.md) | 2099-01-01 | - |  | - | - |

@@ -18,8 +18,8 @@
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 17 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.12% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
-| 19 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 11.29% |
-| 20 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
+| 19 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 11.11% |
+| 19 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.91% |
 | 23 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -70,7 +70,7 @@
 | 67 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.90% |
 | 69 | [HordeCore](games/h/hordecore.md) | 2.88% |
 | 70 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.86% |
-| 71 | [Destiny 2](games/d/destiny_2.md) | 2.76% |
+| 71 | [Destiny 2](games/d/destiny_2.md) | 2.77% |
 | 72 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 73 | [The Bunker](games/t/the_bunker.md) | 2.70% |
 | 74 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.63% |
@@ -98,7 +98,7 @@
 | 96 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.50% |
 | 96 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 98 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
-| 99 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.48% |
+| 99 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.47% |
 | 100 | [Poosh XL](games/p/poosh_xl.md) | 1.44% |
 | 101 | [Five Dates](games/f/five_dates.md) | 1.41% |
 | 102 | [Late Shift](games/l/late_shift.md) | 1.32% |
@@ -132,14 +132,14 @@
 | 130 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 130 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.56% |
 | 132 | [Godlike Burger](games/g/godlike_burger.md) | 0.54% |
-| 132 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.54% |
-| 134 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.52% |
+| 133 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.53% |
 | 134 | [The Surge 2](games/t/the_surge_2.md) | 0.52% |
-| 136 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
-| 136 | [Them and Us](games/t/them_and_us.md) | 0.51% |
-| 138 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
-| 139 | [Train Valley](games/t/train_valley.md) | 0.49% |
-| 140 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
+| 135 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
+| 135 | [Them and Us](games/t/them_and_us.md) | 0.51% |
+| 137 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 138 | [Train Valley](games/t/train_valley.md) | 0.49% |
+| 139 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
+| 139 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.47% |
 | 141 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.46% |
 | 142 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.45% |
 | 143 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
@@ -518,4 +518,4 @@
 | 247 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 247 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 247 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,970 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,971 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
