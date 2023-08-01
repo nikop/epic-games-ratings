@@ -6,8 +6,8 @@
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 201,
-  "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_Completed": 127,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2178,9 +2178,9 @@
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 139
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2347,8 +2347,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-01T14:04:36.9716849+00:00",
+  "LastChanged_Achievements": "2023-08-01T15:05:05.401699+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.2379789+00:00",
-  "LastUpdate_Ratings": "2023-08-01T14:00:15.8937998+00:00",
-  "LastUpdate_Achievements": "2023-08-01T14:04:36.9717436+00:00"
+  "LastUpdate_Ratings": "2023-08-01T15:01:19.4790255+00:00",
+  "LastUpdate_Achievements": "2023-08-01T15:05:05.4017886+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2992,
+  "EOS_Progressed": 2993,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4179,6 +4179,11 @@
       "Time": "2023-08-01T14:05:57.379618+00:00",
       "NumProgressed": 2992,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T15:06:39.7484847+00:00",
+      "NumProgressed": 2993,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4190,7 +4195,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ACH_BASE_10",
@@ -4254,7 +4259,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACH_BASE_19",
@@ -4302,7 +4307,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ACH_BASE_25",
@@ -4645,13 +4650,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1174,
+      "Progressed": 1175,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2992,
+      "Progressed": 2993,
       "Completed": 0
     }
   ],
@@ -4659,8 +4664,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-08-01T14:05:57.3796175+00:00",
+  "LastChanged_Achievements": "2023-08-01T15:06:39.748484+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:24.1949352+00:00",
-  "LastUpdate_Ratings": "2023-08-01T13:59:22.6611496+00:00",
-  "LastUpdate_Achievements": "2023-08-01T14:05:57.3797183+00:00"
+  "LastUpdate_Ratings": "2023-08-01T15:00:18.7422138+00:00",
+  "LastUpdate_Achievements": "2023-08-01T15:06:39.7485911+00:00"
 }

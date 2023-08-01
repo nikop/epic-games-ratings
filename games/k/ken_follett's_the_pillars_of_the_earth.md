@@ -1,7 +1,7 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 524)  
+Rating: 4.52 (Ranked 525)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -21,8 +21,8 @@ Number of Ratings: 368  (23.09.2022)
 | Workers' union | 18.00% | ~2,572 |
 | End of Book Two | 18.00% | ~2,572 |
 | Everything's in order | 17.00% | ~2,429 |
+| Jack was here! | 15.00% | ~2,144 |
 | Twist of Fate | 14.00% | ~2,001 |
-| Jack was here! | 14.00% | ~2,001 |
 | Exterminator | 13.00% | ~1,858 |
 | Whodunnit | 13.00% | ~1,858 |
 | Good midwife | 11.00% | ~1,572 |

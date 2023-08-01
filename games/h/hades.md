@@ -6,39 +6,39 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~623,087 |
-| Escaped Asphodel | 80.00% | ~560,078 |
-| Arms Collector | 71.00% | ~497,070 |
-| Friends in High Places | 68.00% | ~476,067 |
-| Escaped Elysium | 66.00% | ~462,065 |
-| Chthonic Colleagues | 63.00% | ~441,062 |
-| Is There No Escape? | 52.00% | ~364,051 |
-| Death Dealer | 45.00% | ~315,044 |
-| Skelly Slayer | 42.00% | ~294,041 |
-| Well Stocked | 40.00% | ~280,039 |
-| Back to Work | 38.00% | ~266,037 |
-| Day-or-Night Trader | 37.00% | ~259,036 |
-| Blessed by the Gods | 37.00% | ~259,036 |
-| Urge to Sing | 36.00% | ~252,035 |
-| Blood Bound | 35.00% | ~245,034 |
-| Three-Headed Boy | 32.00% | ~224,031 |
-| River Denizens | 28.00% | ~196,027 |
-| Grown Close | 28.00% | ~196,027 |
-| Home Makeover | 27.00% | ~189,026 |
-| Had to Happen | 25.00% | ~175,024 |
-| The Family Secret | 25.00% | ~175,024 |
-| Tools of the Architect | 23.00% | ~161,023 |
-| Master of Arms | 23.00% | ~161,023 |
-| To Charon's Credit | 22.00% | ~154,022 |
-| Rare Collectible | 22.00% | ~154,022 |
-| Weapon of Fate | 21.00% | ~147,021 |
-| Something From Everyone | 19.00% | ~133,019 |
-| Hold the Onions | 18.00% | ~126,018 |
-| Well Versed | 17.00% | ~119,017 |
-| War-God's Bloodlust | 15.00% | ~105,015 |
-| Musician and Muse | 14.00% | ~98,014 |
-| The Useless Trinket | 13.00% | ~91,013 |
-| Champion of Elysium | 13.00% | ~91,013 |
+| Escaped Tartarus | 89.00% | ~623,093 |
+| Escaped Asphodel | 80.00% | ~560,083 |
+| Arms Collector | 71.00% | ~497,074 |
+| Friends in High Places | 68.00% | ~476,071 |
+| Escaped Elysium | 66.00% | ~462,069 |
+| Chthonic Colleagues | 63.00% | ~441,066 |
+| Is There No Escape? | 52.00% | ~364,054 |
+| Death Dealer | 45.00% | ~315,047 |
+| Skelly Slayer | 42.00% | ~294,044 |
+| Well Stocked | 40.00% | ~280,042 |
+| Back to Work | 38.00% | ~266,040 |
+| Day-or-Night Trader | 37.00% | ~259,038 |
+| Blessed by the Gods | 37.00% | ~259,038 |
+| Urge to Sing | 36.00% | ~252,037 |
+| Blood Bound | 35.00% | ~245,036 |
+| Three-Headed Boy | 32.00% | ~224,033 |
+| River Denizens | 28.00% | ~196,029 |
+| Grown Close | 28.00% | ~196,029 |
+| Home Makeover | 27.00% | ~189,028 |
+| Had to Happen | 25.00% | ~175,026 |
+| The Family Secret | 25.00% | ~175,026 |
+| Tools of the Architect | 23.00% | ~161,024 |
+| Master of Arms | 23.00% | ~161,024 |
+| To Charon's Credit | 22.00% | ~154,023 |
+| Rare Collectible | 22.00% | ~154,023 |
+| Weapon of Fate | 21.00% | ~147,022 |
+| Something From Everyone | 19.00% | ~133,020 |
+| Hold the Onions | 18.00% | ~126,019 |
+| Well Versed | 17.00% | ~119,018 |
+| War-God's Bloodlust | 15.00% | ~105,016 |
+| Musician and Muse | 14.00% | ~98,015 |
+| The Useless Trinket | 13.00% | ~91,014 |
+| Champion of Elysium | 13.00% | ~91,014 |
 | Slashed Benefits | 12.00% | ~84,012 |
 | Haste of Hermes | 11.00% | ~77,011 |
 | Bad Call | 10.00% | ~70,010 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,004 |
 | Friends Forever | 4.00% | ~28,004 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 700,098 (Ranked 21)  
+Progressed: 700,104 (Ranked 21)  
 Completed: 6,267 (0.90%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,14 +159,14 @@ Completed: 6,267 (0.90%) (Ranked 114)
 | 2023-07-29 | 699,845 | 6,264 |
 | 2023-07-30 | 699,959 | 6,265 |
 | 2023-07-31 | 700,050 | 6,266 |
-| 2023-08-01 | 700,098 | 6,267 |
+| 2023-08-01 | 700,104 | 6,267 |
 ## Awards
-Max (Character Customization): 3,197  (Ranked 90)  
-Sum: 7,744 (Ranked 101)  
+Max (Character Customization): 3,198  (Ranked 90)  
+Sum: 7,745 (Ranked 101)  
 Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 3,197 |
+| This game has Inclusive Character Customization | 3,198 |
 | This game has Great Boss Battles | 2,238 |
 | This game is Highly Recommended | 256 |
 | This game is Great for Beginners | 247 |
@@ -361,3 +361,4 @@ Diff (max vs sum): -11
 | 2023-07-29 | 4.92 | - | 3,195 | 7,736 |
 | 2023-07-30 | 4.92 | - | 3,197 | 7,741 |
 | 2023-07-31 | 4.92 | - | 3,197 | 7,744 |
+| 2023-08-01 | 4.92 | - | 3,198 | 7,745 |

@@ -4,8 +4,8 @@
   "ProductSlug": "loopmancer",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 2981,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-07-27T03:58:00+00:00",
     "PcReleaseDate": "2022-07-13T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94,
+  "EOS_Progressed": 93,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": -1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -264,6 +264,11 @@
       "Time": "2023-07-31T02:05:29.7671859+00:00",
       "NumProgressed": 94,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T15:08:12.6324909+00:00",
+      "NumProgressed": 93,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -273,7 +278,7 @@
       "ID": "ACH_AVOID_BIGGUY",
       "SetID": "6d82akp",
       "Name": "Break no Sweat",
-      "Percentage": 100,
+      "Percentage": 101,
       "XP": 5,
       "UsersEstimate": 94
     },
@@ -289,7 +294,7 @@
       "ID": "ACH_AVOID_SNIPER",
       "SetID": "6d82akp",
       "Name": "Black Cat\u0027s Warning",
-      "Percentage": 105,
+      "Percentage": 106,
       "XP": 5,
       "UsersEstimate": 99
     },
@@ -297,7 +302,7 @@
       "ID": "ACH_DEFEAT_OGATA",
       "SetID": "6d82akp",
       "Name": "Best in Dragon City",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -313,7 +318,7 @@
       "ID": "ACH_DEFEAT_SBY_XFGZ_TPSN",
       "SetID": "6d82akp",
       "Name": "Still A Chance",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -409,7 +414,7 @@
       "ID": "ACH_ENDING_WIFE_EBRAIN",
       "SetID": "6d82akp",
       "Name": "Walking into a Trap",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
       "UsersEstimate": 21
     },
@@ -433,7 +438,7 @@
       "ID": "ACH_FULLY_UPGRADED_MANY_ARMS",
       "SetID": "6d82akp",
       "Name": "Achieving Excellence",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -441,7 +446,7 @@
       "ID": "ACH_GET_STORY_TRUTH",
       "SetID": "6d82akp",
       "Name": "Targeting the Enemy",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
       "UsersEstimate": 66
     },
@@ -489,7 +494,7 @@
       "ID": "ACH_LET_GANGSTER_GO",
       "SetID": "6d82akp",
       "Name": "Disdain",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 20
     },
@@ -545,7 +550,7 @@
       "ID": "ACH_PASS_PREFACE_ON_ROOF",
       "SetID": "6d82akp",
       "Name": "Unavoidable",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
       "UsersEstimate": 60
     },
@@ -609,7 +614,7 @@
       "ID": "ACH_UNLOCK_ALL_CLOTHES",
       "SetID": "6d82akp",
       "Name": "Fashionista",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -673,7 +678,7 @@
       "ID": "ACH_UNLOCK_CHARGE_ACTOR",
       "SetID": "6d82akp",
       "Name": "Every little bit counts",
-      "Percentage": 99,
+      "Percentage": 100,
       "XP": 5,
       "UsersEstimate": 93
     },
@@ -689,7 +694,7 @@
       "ID": "ACH_UNLOCK_SKILL",
       "SetID": "6d82akp",
       "Name": "Growth",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
       "UsersEstimate": 82
     },
@@ -713,7 +718,7 @@
       "ID": "ACH_WEILONG_NANOKILL",
       "SetID": "6d82akp",
       "Name": "Neutralize",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -730,7 +735,7 @@
     {
       "ID": "6d82akp",
       "IsBase": true,
-      "Progressed": 94,
+      "Progressed": 93,
       "Completed": 0
     }
   ],
@@ -738,8 +743,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2023-08-01T14:07:14.7001239+00:00",
+  "LastChanged_Achievements": "2023-08-01T15:08:12.6324902+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:29.5049411+00:00",
-  "LastUpdate_Ratings": "2023-08-01T14:00:44.9302256+00:00",
-  "LastUpdate_Achievements": "2023-08-01T14:07:14.7001855+00:00"
+  "LastUpdate_Ratings": "2023-08-01T15:01:48.4768072+00:00",
+  "LastUpdate_Achievements": "2023-08-01T15:08:12.6325386+00:00"
 }

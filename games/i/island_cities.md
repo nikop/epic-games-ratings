@@ -28,7 +28,7 @@
 | Night walk along the beach | 18.00% | ~78 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 434 (Ranked 230)  
-Completed: 81 (18.66%) (Ranked 13)  
+Completed: 81 (18.66%) (Ranked 12)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

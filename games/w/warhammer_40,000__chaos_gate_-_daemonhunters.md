@@ -26,14 +26,15 @@ Number of Ratings: 371  (23.09.2022)
 | Just a Scratch | 0.40% | ~12 |
 | Hive Exterminator | 0.40% | ~12 |
 | Corruption Cleanser | 0.30% | ~9 |
+| Efficient Killer | 0.30% | ~9 |
 | Long Distance Call | 0.30% | ~9 |
 | Daemonkeeper | 0.20% | ~6 |
 | Exterminator | 0.20% | ~6 |
 | Mind Like a Fortress | 0.20% | ~6 |
-| Efficient Killer | 0.20% | ~6 |
 | Only in Death | 0.20% | ~6 |
 | Junk Banishment | 0.20% | ~6 |
 | A Gift Spurned | 0.20% | ~6 |
+| Tactical Flexibility | 0.20% | ~6 |
 | Tactical Sabotage | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Blood and Iron | 0.10% | ~3 |
@@ -50,9 +51,9 @@ Number of Ratings: 371  (23.09.2022)
 | Exercise in Restraint | 0.10% | ~3 |
 | Preservationist | 0.10% | ~3 |
 | Engine Kill | 0.10% | ~3 |
+| Harvest No More | 0.10% | ~3 |
 | Death Comes For All | 0.10% | ~3 |
 | True Mastery | 0.10% | ~3 |
-| Tactical Flexibility | 0.10% | ~3 |
 | Reign of Confusion | 0.10% | ~3 |
 | Abomination | 0.10% | ~3 |
 | Killing Rampage | 0.10% | ~3 |
@@ -72,7 +73,6 @@ Number of Ratings: 371  (23.09.2022)
 | Brothers in Arms | 0.00% | ~0 |
 | Firing Squad | 0.00% | ~0 |
 | Not a Mote of Corruption | 0.00% | ~0 |
-| Harvest No More | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,095 (Ranked 152)  

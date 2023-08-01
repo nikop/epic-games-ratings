@@ -32,10 +32,10 @@
 | Regrets | 11.00% | ~10 |
 | The Mountains, The Valleys | 11.00% | ~10 |
 | The Accident | 10.00% | ~9 |
+| The Awakening | 10.00% | ~9 |
 | Bad Trip | 9.00% | ~8 |
 | Love | 9.00% | ~8 |
 | Here we go again! | 9.00% | ~8 |
-| The Awakening | 9.00% | ~8 |
 | Chase the Crow | 7.00% | ~6 |
 | Flight of the Bumblebee | 7.00% | ~6 |
 | On the Road Again | 5.00% | ~4 |
@@ -51,11 +51,11 @@
 | All Apologies | 2.00% | ~2 |
 | Carry On | 2.00% | ~2 |
 | Killer Cars | 2.00% | ~2 |
+| Hospital Flowers | 2.00% | ~2 |
 | Stairway to Heaven | 2.00% | ~2 |
 | Purple Haze | 1.00% | ~1 |
 | The Show Must Go On | 1.00% | ~1 |
 | Closer | 1.00% | ~1 |
-| Hospital Flowers | 1.00% | ~1 |
 | Pinewood | 1.00% | ~1 |
 | Love is All | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)

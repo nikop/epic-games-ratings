@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -784,9 +784,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 254055,
+  "EOS_Progressed": 254058,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11264,6 +11264,11 @@
       "Time": "2023-08-01T14:06:43.6912596+00:00",
       "NumProgressed": 254055,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-01T15:07:34.9780792+00:00",
+      "NumProgressed": 254058,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -11323,7 +11328,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78757
+      "UsersEstimate": 78758
     },
     {
       "ID": "BackHomeNTimes",
@@ -11563,7 +11568,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55892
+      "UsersEstimate": 55893
     },
     {
       "ID": "KillOthers2",
@@ -11722,7 +11727,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 254055,
+      "Progressed": 254058,
       "Completed": 3
     }
   ],
@@ -11730,8 +11735,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-31T23:01:20.141469+00:00",
-  "LastChanged_Achievements": "2023-08-01T14:06:43.691259+00:00",
+  "LastChanged_Achievements": "2023-08-01T15:07:34.9780781+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:16.1144116+00:00",
-  "LastUpdate_Ratings": "2023-08-01T14:01:20.6691245+00:00",
-  "LastUpdate_Achievements": "2023-08-01T14:06:43.6913729+00:00"
+  "LastUpdate_Ratings": "2023-08-01T15:02:35.3588124+00:00",
+  "LastUpdate_Achievements": "2023-08-01T15:07:34.9782284+00:00"
 }

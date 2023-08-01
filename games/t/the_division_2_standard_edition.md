@@ -1,17 +1,17 @@
 # The Division 2 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/the-division-2)  
 [View Rawdata](../../db/t/the_division_2_standard_edition.json)  
-Rating: 4.48 (Ranked 590)  
+Rating: 4.48 (Ranked 591)  
 Number of Ratings: 6,675  (23.09.2022)  
 ## Awards
 Max (Character Customization): 7,676  (Ranked 43)  
-Sum: 25,138 (Ranked 49)  
+Sum: 25,140 (Ranked 49)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,676 |
 | This game has Great Boss Battles | 5,565 |
-| This game is Great for Beginners | 1,500 |
+| This game is Great for Beginners | 1,502 |
 | This game has Quickly Understood Controls | 1,325 |
 | This game has Diverse Characters | 1,324 |
 | This game is Relaxing | 1,312 |
@@ -224,4 +224,4 @@ Diff (max vs sum): -6
 | 2023-07-29 | 4.48 | - | 7,662 | 25,073 |
 | 2023-07-30 | 4.48 | - | 7,662 | 25,100 |
 | 2023-07-31 | 4.48 | - | 7,668 | 25,123 |
-| 2023-08-01 | 4.48 | - | 7,676 | 25,138 |
+| 2023-08-01 | 4.48 | - | 7,676 | 25,140 |

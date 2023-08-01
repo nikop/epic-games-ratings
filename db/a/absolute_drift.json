@@ -442,7 +442,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1532756,
+  "EOS_Progressed": 1532765,
   "EOS_Completed": 652,
   "EOS_NewPlayers": 1338,
   "EOS_NewCompleters": 2,
@@ -11692,6 +11692,11 @@
       "Time": "2023-08-01T14:06:36.043539+00:00",
       "NumProgressed": 1532756,
       "NumCompleted": 652
+    },
+    {
+      "Time": "2023-08-01T15:07:25.9634614+00:00",
+      "NumProgressed": 1532765,
+      "NumCompleted": 652
     }
   ],
   "TotalAchievements": 20,
@@ -11711,7 +11716,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 107293
+      "UsersEstimate": 107294
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -11751,7 +11756,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 137948
+      "UsersEstimate": 137949
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -11815,7 +11820,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 137948
+      "UsersEstimate": 137949
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -11862,15 +11867,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1532756,
+      "Progressed": 1532765,
       "Completed": 652
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-23T19:00:00.3270793+00:00",
-  "LastChanged_Achievements": "2023-08-01T14:06:36.0435385+00:00",
+  "LastChanged_Achievements": "2023-08-01T15:07:25.9634608+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:01.387221+00:00",
-  "LastUpdate_Ratings": "2023-08-01T14:01:08.0092895+00:00",
-  "LastUpdate_Achievements": "2023-08-01T14:06:36.0436173+00:00"
+  "LastUpdate_Ratings": "2023-08-01T15:02:20.7959801+00:00",
+  "LastUpdate_Achievements": "2023-08-01T15:07:25.9635571+00:00"
 }

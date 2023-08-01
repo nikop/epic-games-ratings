@@ -1,27 +1,27 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 273)  
+Rating: 4.66 (Ranked 274)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~20,947 |
-| A thief's beginning | 9.00% | ~17,138 |
-| Thorough | 9.00% | ~17,138 |
-| Tanuki Time | 8.00% | ~15,234 |
+| Genin | 11.00% | ~20,948 |
+| A thief's beginning | 9.00% | ~17,139 |
+| Thorough | 9.00% | ~17,139 |
+| Tanuki Time | 8.00% | ~15,235 |
 | Disguised | 7.00% | ~13,330 |
 | Jonin | 7.00% | ~13,330 |
 | Rescue Takuma | 7.00% | ~13,330 |
 | Rollin' | 7.00% | ~13,330 |
 | Stoned Ox | 7.00% | ~13,330 |
-| Chunin | 6.00% | ~11,425 |
-| Happy Planning | 6.00% | ~11,425 |
-| Ice Ice Yuki | 6.00% | ~11,425 |
-| Yabu | 6.00% | ~11,425 |
-| Flying Rocks | 5.00% | ~9,521 |
-| Mugen Unchained | 5.00% | ~9,521 |
-| Warzone | 5.00% | ~9,521 |
+| Chunin | 6.00% | ~11,426 |
+| Happy Planning | 6.00% | ~11,426 |
+| Ice Ice Yuki | 6.00% | ~11,426 |
+| Yabu | 6.00% | ~11,426 |
+| Flying Rocks | 5.00% | ~9,522 |
+| Mugen Unchained | 5.00% | ~9,522 |
+| Warzone | 5.00% | ~9,522 |
 | Gear up | 4.00% | ~7,617 |
 | Happy little accidents | 4.00% | ~7,617 |
 | Okkoto | 4.00% | ~7,617 |
@@ -30,11 +30,11 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 3.00% | ~5,713 |
 | Still Rollin' | 3.00% | ~5,713 |
 | Stoned | 3.00% | ~5,713 |
-| Atheist Ox | 2.00% | ~3,808 |
-| It's raining men | 2.00% | ~3,808 |
-| Old Man | 2.00% | ~3,808 |
-| The Old Way | 2.00% | ~3,808 |
-| Winner Winner | 2.00% | ~3,808 |
+| Atheist Ox | 2.00% | ~3,809 |
+| It's raining men | 2.00% | ~3,809 |
+| Old Man | 2.00% | ~3,809 |
+| The Old Way | 2.00% | ~3,809 |
+| Winner Winner | 2.00% | ~3,809 |
 | Meticulous | 1.00% | ~1,904 |
 | No Gimmicks | 1.00% | ~1,904 |
 | The End | 1.00% | ~1,904 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~190 |
 | Release the Kraken | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 190,424 (Ranked 59)  
+Progressed: 190,433 (Ranked 59)  
 Completed: 65 (0.03%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,10 +154,10 @@ Completed: 65 (0.03%) (Ranked 222)
 | 2023-07-29 | 189,675 | 64 |
 | 2023-07-30 | 190,018 | 64 |
 | 2023-07-31 | 190,283 | 65 |
-| 2023-08-01 | 190,424 | 65 |
+| 2023-08-01 | 190,433 | 65 |
 ## Awards
 Max (Great for Beginners): 559  (Ranked 184)  
-Sum: 4,716 (Ranked 133)  
+Sum: 4,717 (Ranked 133)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -168,7 +168,7 @@ Diff (max vs sum): 51
 | This game has Amazing Characters | 485 |
 | This game is Highly Recommended | 481 |
 | This game has Challenging Combat | 477 |
-| This game is Relaxing | 475 |
+| This game is Relaxing | 476 |
 | This game has Quickly Understood Controls | 445 |
 | This game has a Creative Community | 245 |
 | This game has Unique Visuals | 20 |
@@ -319,3 +319,4 @@ Diff (max vs sum): 51
 | 2023-07-26 | 4.66 | - | 559 | 4,712 |
 | 2023-07-29 | 4.66 | - | 559 | 4,714 |
 | 2023-07-30 | 4.66 | - | 559 | 4,716 |
+| 2023-08-01 | 4.66 | - | 559 | 4,717 |

@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 3.00% | ~396 |
+| The Clergy | 3.00% | ~397 |
 | Settler | 2.00% | ~264 |
 | Able | 1.00% | ~132 |
 | Architect | 1.00% | ~132 |
@@ -92,6 +92,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.30% | ~40 |
 | Victorious | 0.30% | ~40 |
 | Strong Difficulty | 0.30% | ~40 |
+| Landowners | 0.30% | ~40 |
 | Riders | 0.30% | ~40 |
 | Hittite Iron | 0.30% | ~40 |
 | Circus Maximus | 0.30% | ~40 |
@@ -126,7 +127,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 0.20% | ~26 |
 | Clerics | 0.20% | ~26 |
 | Hunters | 0.20% | ~26 |
-| Landowners | 0.20% | ~26 |
 | Learn to Play 4 | 0.20% | ~26 |
 | Egypt | 0.20% | ~26 |
 | Rome | 0.20% | ~26 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,216 (Ranked 117)  
+Progressed: 13,217 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-07-29 | 13,164 | 5 |
 | 2023-07-30 | 13,191 | 5 |
 | 2023-07-31 | 13,209 | 5 |
-| 2023-08-01 | 13,216 | 5 |
+| 2023-08-01 | 13,217 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 262)  
 Sum: 1,785 (Ranked 206)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -316,9 +316,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 39450,
+  "EOS_Progressed": 39453,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6546,6 +6546,11 @@
       "Time": "2023-08-01T14:05:01.6183049+00:00",
       "NumProgressed": 39450,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-01T15:05:34.5068546+00:00",
+      "NumProgressed": 39453,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -6653,7 +6658,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -6661,7 +6666,7 @@
       "Name": "The Truth Will Out",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -6669,7 +6674,7 @@
       "Name": "Breaking Point",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "CHAPTER_10_CLEAR",
@@ -6677,7 +6682,7 @@
       "Name": "None the Wiser",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "CHAPTER_11_CLEAR",
@@ -6685,7 +6690,7 @@
       "Name": "Forspoken",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -6717,7 +6722,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -6773,7 +6778,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -6853,7 +6858,7 @@
       "Name": "Pilgrimage: Novice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "PARKOUR_DISTANCE",
@@ -6893,7 +6898,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3550
+      "UsersEstimate": 3551
     },
     {
       "ID": "SPRING_ALL",
@@ -6980,22 +6985,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39450,
+      "Progressed": 39453,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4287,
-      "Completed": 4287
+      "Progressed": 4290,
+      "Completed": 4290
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-08-01T06:59:17.4850965+00:00",
-  "LastChanged_Achievements": "2023-08-01T14:05:01.6183042+00:00",
+  "LastChanged_Achievements": "2023-08-01T15:05:34.506854+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.6362522+00:00",
-  "LastUpdate_Ratings": "2023-08-01T13:59:22.0323111+00:00",
-  "LastUpdate_Achievements": "2023-08-01T14:05:01.6184066+00:00"
+  "LastUpdate_Ratings": "2023-08-01T15:00:17.9492873+00:00",
+  "LastUpdate_Achievements": "2023-08-01T15:05:34.5069561+00:00"
 }

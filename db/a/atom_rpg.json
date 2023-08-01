@@ -2,13 +2,13 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
-  "Ranking_Rating": 614,
+  "Ranking_Rating": 615,
   "Ranking_Popularity": 404,
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -2053,9 +2053,9 @@
       "ID": "EARLY_ACCESS_1",
       "SetID": "bf13m8j",
       "Name": "Atom Agent",
-      "Percentage": 98,
+      "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1092
     },
     {
       "ID": "EXPERT_1",
@@ -2093,9 +2093,9 @@
       "ID": "HEAD_BURST_1",
       "SetID": "bf13m8j",
       "Name": "Head Burst",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 221
     },
     {
       "ID": "INDY_1",
@@ -2293,8 +2293,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-08-01T14:04:20.5320274+00:00",
+  "LastChanged_Achievements": "2023-08-01T15:04:46.0853105+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:04.0177394+00:00",
-  "LastUpdate_Ratings": "2023-08-01T14:01:10.4270077+00:00",
-  "LastUpdate_Achievements": "2023-08-01T14:04:20.5320655+00:00"
+  "LastUpdate_Ratings": "2023-08-01T15:02:23.2614229+00:00",
+  "LastUpdate_Achievements": "2023-08-01T15:04:46.085376+00:00"
 }

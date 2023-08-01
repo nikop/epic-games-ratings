@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 59770,
+  "EOS_Progressed": 59773,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 1053,
+  "EOS_NewPlayers": 1050,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9822,6 +9822,11 @@
       "Time": "2023-08-01T14:04:45.3682966+00:00",
       "NumProgressed": 59770,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-08-01T15:05:15.2942834+00:00",
+      "NumProgressed": 59773,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 67,
@@ -9833,7 +9838,7 @@
       "Name": "Follow the Light",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 21517
+      "UsersEstimate": 21518
     },
     {
       "ID": "02",
@@ -9841,7 +9846,7 @@
       "Name": "Nordic Walking",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13149
+      "UsersEstimate": 13150
     },
     {
       "ID": "03",
@@ -9849,7 +9854,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13149
+      "UsersEstimate": 13150
     },
     {
       "ID": "04",
@@ -9865,7 +9870,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 11356
+      "UsersEstimate": 11357
     },
     {
       "ID": "06",
@@ -9873,7 +9878,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9563
+      "UsersEstimate": 9564
     },
     {
       "ID": "07",
@@ -9897,7 +9902,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7172
+      "UsersEstimate": 7173
     },
     {
       "ID": "10",
@@ -9929,7 +9934,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2988
+      "UsersEstimate": 2989
     },
     {
       "ID": "14",
@@ -9945,7 +9950,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5379
+      "UsersEstimate": 5380
     },
     {
       "ID": "16",
@@ -9969,7 +9974,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2988
+      "UsersEstimate": 2989
     },
     {
       "ID": "19",
@@ -10001,7 +10006,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7172
+      "UsersEstimate": 7173
     },
     {
       "ID": "23",
@@ -10097,7 +10102,7 @@
       "Name": "Energized!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5379
+      "UsersEstimate": 5380
     },
     {
       "ID": "35",
@@ -10105,7 +10110,7 @@
       "Name": "Let There Be Light",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17333
+      "UsersEstimate": 17334
     },
     {
       "ID": "36",
@@ -10169,7 +10174,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9563
+      "UsersEstimate": 9564
     },
     {
       "ID": "44",
@@ -10368,21 +10373,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 59770,
+      "Progressed": 59773,
       "Completed": 61
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23238,
+      "Progressed": 23241,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-01T14:04:45.3682961+00:00",
+  "LastChanged_Achievements": "2023-08-01T15:05:15.2942827+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:35.0351219+00:00",
-  "LastUpdate_Ratings": "2023-08-01T13:58:26.5033772+00:00",
-  "LastUpdate_Achievements": "2023-08-01T14:04:45.3684383+00:00"
+  "LastUpdate_Ratings": "2023-08-01T14:59:09.7116687+00:00",
+  "LastUpdate_Achievements": "2023-08-01T15:05:15.2944015+00:00"
 }

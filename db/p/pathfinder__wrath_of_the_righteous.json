@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3320,7 +3320,7 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10734,
+  "EOS_Progressed": 10736,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
@@ -9875,6 +9875,11 @@
       "Time": "2023-08-01T11:01:34.9143219+00:00",
       "NumProgressed": 10734,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T15:02:59.3012549+00:00",
+      "NumProgressed": 10736,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9886,7 +9891,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2362
     },
     {
       "ID": "02_BurningCity",
@@ -9910,7 +9915,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -9996,9 +10001,9 @@
       "ID": "15_PathOfDragon",
       "SetID": "989of5o",
       "Name": "Path of the Dragon",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 86
     },
     {
       "ID": "16_PathOfLegend",
@@ -10086,7 +10091,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "28_GreatUpstart",
@@ -10134,7 +10139,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -10798,7 +10803,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -10806,28 +10811,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9516,
+      "Progressed": 9518,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10734,
+      "Progressed": 10736,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-01T08:59:13.0269318+00:00",
-  "LastChanged_Achievements": "2023-08-01T14:01:38.5287308+00:00",
+  "LastChanged_Achievements": "2023-08-01T15:02:59.3012524+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-08-01T13:59:17.5576104+00:00",
-  "LastUpdate_Achievements": "2023-08-01T14:01:38.5290828+00:00"
+  "LastUpdate_Ratings": "2023-08-01T15:00:11.8346308+00:00",
+  "LastUpdate_Achievements": "2023-08-01T15:02:59.3015946+00:00"
 }

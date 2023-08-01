@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6936,
+  "EOS_Progressed": 6937,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -3228,6 +3228,11 @@
       "Time": "2023-07-31T23:01:45.0754355+00:00",
       "NumProgressed": 6936,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-01T15:03:07.5200928+00:00",
+      "NumProgressed": 6937,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -3247,7 +3252,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -3271,7 +3276,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3676
+      "UsersEstimate": 3677
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -3279,7 +3284,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -3359,7 +3364,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -3375,7 +3380,7 @@
       "Name": "Seekers Found",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -3391,7 +3396,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3884
+      "UsersEstimate": 3885
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -3407,7 +3412,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2358
+      "UsersEstimate": 2359
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -3415,7 +3420,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -3439,7 +3444,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -3454,15 +3459,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6936,
+      "Progressed": 6937,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-08-01T14:02:05.9489702+00:00",
+  "LastChanged_Achievements": "2023-08-01T15:03:07.5200916+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.513053+00:00",
-  "LastUpdate_Ratings": "2023-08-01T13:58:09.9536422+00:00",
-  "LastUpdate_Achievements": "2023-08-01T14:02:05.9490577+00:00"
+  "LastUpdate_Ratings": "2023-08-01T14:58:49.3638507+00:00",
+  "LastUpdate_Achievements": "2023-08-01T15:03:07.520156+00:00"
 }

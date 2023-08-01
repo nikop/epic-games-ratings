@@ -6,10 +6,10 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,374 |
-| Un-Lonely Island | 47.00% | ~2,114 |
-| The Beginning of a Servantship | 45.00% | ~2,024 |
-| Trade Is My Trait | 37.00% | ~1,664 |
+| Just One...More...Term... | 75.00% | ~3,376 |
+| Un-Lonely Island | 47.00% | ~2,115 |
+| The Beginning of a Servantship | 45.00% | ~2,025 |
+| Trade Is My Trait | 37.00% | ~1,665 |
 | Number 18 | 24.00% | ~1,080 |
 | We Don't Have Time For That | 19.00% | ~855 |
 | The Governator | 18.00% | ~810 |
@@ -44,10 +44,10 @@ Number of Ratings: 398  (23.09.2022)
 | Curse of the Mummy | 2.00% | ~90 |
 | From Knight to Little Duck | 1.00% | ~45 |
 | Teamplayer | 1.00% | ~45 |
-| Survivor | 0.90% | ~40 |
-| My Ways | 0.30% | ~13 |
+| Survivor | 0.90% | ~41 |
+| My Ways | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,498 (Ranked 144)  
+Progressed: 4,501 (Ranked 144)  
 Completed: 2 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 2 (0.04%) (Ranked 218)
 | 2023-07-29 | 4,413 | 2 |
 | 2023-07-30 | 4,451 | 2 |
 | 2023-07-31 | 4,478 | 2 |
-| 2023-08-01 | 4,498 | 2 |
+| 2023-08-01 | 4,501 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 341)  
 Sum: 672 (Ranked 276)  

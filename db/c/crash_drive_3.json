@@ -3,9 +3,9 @@
   "Name": "Crash Drive 3",
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 244,
-  "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_Completed": 131,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 353,
+  "EOS_Progressed": 354,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.57,
+  "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:19.8064239+00:00",
@@ -326,6 +326,11 @@
       "Time": "2023-08-01T12:04:47.1735158+00:00",
       "NumProgressed": 353,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-01T15:05:27.0798469+00:00",
+      "NumProgressed": 354,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -335,9 +340,9 @@
       "ID": "AIRTIME_6_SEC",
       "SetID": "20koof9",
       "Name": "Brace for impact!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 113
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -377,7 +382,7 @@
       "Name": "Baby\u0027s First Car",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -409,7 +414,7 @@
       "Name": "Special Forces",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CUSTOMIZATION_BANANA",
@@ -455,9 +460,9 @@
       "ID": "FRONT_AND_BACKFLIP",
       "SetID": "20koof9",
       "Name": "To and Fro",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 81
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -521,7 +526,7 @@
       "Name": "Pushover",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "HIT_ALIEN",
@@ -575,9 +580,9 @@
       "ID": "KING_CROWN",
       "SetID": "20koof9",
       "Name": "Your Highness",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 74
     },
     {
       "ID": "LEFT_LEVEL",
@@ -599,9 +604,9 @@
       "ID": "LOADED_LVL_FOREST",
       "SetID": "20koof9",
       "Name": "A Forest Walk",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 110
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -671,9 +676,9 @@
       "ID": "TAGGED_25_OBJECTS",
       "SetID": "20koof9",
       "Name": "Hoarder",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 21
     },
     {
       "ID": "USE_FERRY",
@@ -695,9 +700,9 @@
       "ID": "USE_TUNNEL",
       "SetID": "20koof9",
       "Name": "I see the light!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 81
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -776,7 +781,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 353,
+      "Progressed": 354,
       "Completed": 2
     }
   ],
@@ -784,8 +789,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-08-01T14:04:55.3064615+00:00",
+  "LastChanged_Achievements": "2023-08-01T15:05:27.0798461+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:38.9893142+00:00",
-  "LastUpdate_Ratings": "2023-08-01T13:59:40.6246153+00:00",
-  "LastUpdate_Achievements": "2023-08-01T14:04:55.3065123+00:00"
+  "LastUpdate_Ratings": "2023-08-01T15:00:39.0509761+00:00",
+  "LastUpdate_Achievements": "2023-08-01T15:05:27.0799103+00:00"
 }

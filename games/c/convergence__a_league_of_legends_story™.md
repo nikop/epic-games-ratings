@@ -9,6 +9,7 @@ Rating: 4.60 (Ranked 390)
 | The Mysterious Stranger | 20.00% | ~163 |
 | Rail Rat | 20.00% | ~163 |
 | Make Up For Lost Time | 17.00% | ~139 |
+| Breaking Down Barriers | 17.00% | ~139 |
 | The Prince in Heels | 17.00% | ~139 |
 | Immaculate Aim | 17.00% | ~139 |
 | Immaculate Aim | 17.00% | ~139 |
@@ -17,7 +18,6 @@ Rating: 4.60 (Ranked 390)
 | Time Flies | 16.00% | ~130 |
 | The Harder They Fall | 16.00% | ~130 |
 | No, Thanks! | 16.00% | ~130 |
-| Breaking Down Barriers | 16.00% | ~130 |
 | The Wicked Twins | 16.00% | ~130 |
 | Honest Mistake | 16.00% | ~130 |
 | Fast Learner | 16.00% | ~130 |
@@ -60,7 +60,7 @@ Rating: 4.60 (Ranked 390)
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 815 (Ranked 201)  
-Completed: 5 (0.61%) (Ranked 126)  
+Completed: 5 (0.61%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

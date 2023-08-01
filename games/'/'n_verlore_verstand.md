@@ -10,9 +10,10 @@
 | Brace the cold | 44.00% | ~8 |
 | A Long Walk | 39.00% | ~7 |
 | Dont mind the heat | 17.00% | ~3 |
+| A Dangerous Road | 11.00% | ~2 |
 | City of Puzzles | 11.00% | ~2 |
 | This field of danger | 11.00% | ~2 |
-| A Dangerous Road | 6.00% | ~1 |
+| Labyrinths of the Mind | 11.00% | ~2 |
 | Scorched Ruins | 6.00% | ~1 |
 | City of Illusion | 6.00% | ~1 |
 | Kill the Flames | 6.00% | ~1 |
@@ -22,7 +23,7 @@
 | The Final Test | 6.00% | ~1 |
 | A Journey's End | 6.00% | ~1 |
 | A Stone Left Unturned | 6.00% | ~1 |
-| Labyrinths of the Mind | 6.00% | ~1 |
+| A Terrifying Blizzard | 6.00% | ~1 |
 | No End is Eternal | 0.00% | ~0 |
 | Tranquility/Resilience | 0.00% | ~0 |
 | Recovery/Imagination | 0.00% | ~0 |
@@ -51,7 +52,6 @@
 | A Speedy Journey | 0.00% | ~0 |
 | A Quick Secret | 0.00% | ~0 |
 | A Complete Journey | 0.00% | ~0 |
-| A Terrifying Blizzard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18 (Ranked 399)  
 Completed: 0 (0.00%) (Ranked 247)  

@@ -6,9 +6,9 @@ Rating: 4.63 (Ranked 333)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 6.00% | ~304 |
-| Realm Estate | 5.00% | ~253 |
-| Walls Cannot Stop Us | 5.00% | ~253 |
-| Tipping the Scales | 5.00% | ~253 |
+| Realm Estate | 5.00% | ~254 |
+| Walls Cannot Stop Us | 5.00% | ~254 |
+| Tipping the Scales | 5.00% | ~254 |
 | There Can Only Be One! | 4.00% | ~203 |
 | Full Ascension | 4.00% | ~203 |
 | A Wonderful Discovery | 4.00% | ~203 |
@@ -56,7 +56,7 @@ Rating: 4.63 (Ranked 333)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,069 (Ranked 138)  
+Progressed: 5,070 (Ranked 138)  
 Completed: 5 (0.10%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 5 (0.10%) (Ranked 195)
 | 2023-07-29 | 5,058 | 5 |
 | 2023-07-30 | 5,061 | 5 |
 | 2023-07-31 | 5,068 | 5 |
-| 2023-08-01 | 5,069 | 5 |
+| 2023-08-01 | 5,070 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
