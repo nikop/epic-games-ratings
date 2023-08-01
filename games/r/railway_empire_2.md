@@ -1,49 +1,49 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.48 (Ranked 591)  
+Rating: 4.48 (Ranked 590)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 74.00% | ~1,287 |
-| A new Journey | 73.00% | ~1,269 |
-| From X to Y | 72.00% | ~1,252 |
-| Departure | 72.00% | ~1,252 |
-| Way of Iron | 70.00% | ~1,217 |
-| Mystery Tour | 68.00% | ~1,183 |
-| We brake for nobody | 67.00% | ~1,165 |
-| Brainstorm | 65.00% | ~1,130 |
-| Travel Company | 65.00% | ~1,130 |
-| Mind the Gap | 64.00% | ~1,113 |
-| All around the World | 62.00% | ~1,078 |
-| Right through the middle | 57.00% | ~991 |
-| Facility Manager | 53.00% | ~922 |
-| Poor Devil | 53.00% | ~922 |
-| Producer | 49.00% | ~852 |
-| Apprentice | 42.00% | ~730 |
+| Country Bumpkin | 74.00% | ~1,288 |
+| A new Journey | 73.00% | ~1,271 |
+| From X to Y | 72.00% | ~1,254 |
+| Departure | 72.00% | ~1,254 |
+| Way of Iron | 70.00% | ~1,219 |
+| Mystery Tour | 68.00% | ~1,184 |
+| We brake for nobody | 67.00% | ~1,166 |
+| Brainstorm | 65.00% | ~1,132 |
+| Travel Company | 65.00% | ~1,132 |
+| Mind the Gap | 64.00% | ~1,114 |
+| All around the World | 62.00% | ~1,079 |
+| Right through the middle | 57.00% | ~992 |
+| Poor Devil | 53.00% | ~923 |
+| Facility Manager | 52.00% | ~905 |
+| Producer | 49.00% | ~853 |
+| Apprentice | 42.00% | ~731 |
 | Bridge Builder | 40.00% | ~696 |
-| Access granted | 34.00% | ~591 |
-| Going once, going twice, sold | 34.00% | ~591 |
-| Bull and bear | 33.00% | ~574 |
-| Stoker | 32.00% | ~556 |
-| Full Steam ahead | 31.00% | ~539 |
+| Access granted | 34.00% | ~592 |
+| Going once, going twice, sold | 34.00% | ~592 |
+| Stoker | 33.00% | ~575 |
+| Bull and bear | 33.00% | ~575 |
+| Full Steam ahead | 31.00% | ~540 |
 | Financial Shark | 30.00% | ~522 |
-| All mine | 29.00% | ~504 |
-| Socializer | 29.00% | ~504 |
+| All mine | 29.00% | ~505 |
+| Socializer | 29.00% | ~505 |
 | Mole | 28.00% | ~487 |
-| Country Life | 26.00% | ~452 |
+| Country Life | 26.00% | ~453 |
 | General Manager | 25.00% | ~435 |
-| Hostile Takeover | 24.00% | ~417 |
+| Hostile Takeover | 24.00% | ~418 |
 | Seven at one stroke | 23.00% | ~400 |
 | Trailblazer | 20.00% | ~348 |
 | Breaking Ground | 20.00% | ~348 |
-| Traffic Junction | 19.00% | ~330 |
+| Traffic Junction | 19.00% | ~331 |
 | Traffic Jam | 18.00% | ~313 |
 | Networker | 17.00% | ~296 |
-| Resistance is futile | 16.00% | ~278 |
+| Resistance is futile | 16.00% | ~279 |
 | Assimilated | 15.00% | ~261 |
 | Locusts | 15.00% | ~261 |
-| Settler | 14.00% | ~243 |
+| Settler | 14.00% | ~244 |
 | Max Power | 13.00% | ~226 |
 | Go West | 12.00% | ~209 |
 | Bold and beautiful | 12.00% | ~209 |
@@ -61,7 +61,7 @@ Rating: 4.48 (Ranked 591)
 | United States | 0.50% | ~9 |
 | Three Cheers for Progress | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,739 (Ranked 173)  
+Progressed: 1,741 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 1,711 | 0 |
 | 2023-07-30 | 1,717 | 0 |
 | 2023-07-31 | 1,731 | 0 |
-| 2023-08-01 | 1,739 | 0 |
+| 2023-08-01 | 1,741 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

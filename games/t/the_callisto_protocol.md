@@ -18,6 +18,7 @@ Rating: 4.20 (Ranked 849)
 | I Do Belong Here | 2.00% | ~316 |
 | Terminated | 2.00% | ~316 |
 | Workplace Hazard | 2.00% | ~316 |
+| The Commonality | 2.00% | ~316 |
 | Reforged | 2.00% | ~316 |
 | The Outer Way | 2.00% | ~316 |
 | If the SHU Fits... | 2.00% | ~316 |
@@ -29,7 +30,6 @@ Rating: 4.20 (Ranked 849)
 | Full Circle | 2.00% | ~316 |
 | Power Up | 2.00% | ~316 |
 | In Striking Distance | 1.00% | ~158 |
-| The Commonality | 1.00% | ~158 |
 | One Last Job | 1.00% | ~37 |
 | This Isn't About Escape | 0.80% | ~30 |
 | Armed to the Teeth | 0.50% | ~19 |

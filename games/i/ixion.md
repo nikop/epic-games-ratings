@@ -14,12 +14,12 @@ Rating: 4.55 (Ranked 482)
 | Space Society | 13.00% | ~389 |
 | Permanent Redesigns | 12.00% | ~359 |
 | The Ship of Theseus | 11.00% | ~329 |
-| Guy de Borderlands | 10.00% | ~299 |
-| Fully Recycled | 10.00% | ~299 |
-| Ain't Nobody Got Time for That | 10.00% | ~299 |
-| Exceeding Capacity | 9.00% | ~269 |
-| Breaking Protocol | 9.00% | ~269 |
-| Hope Seeker | 9.00% | ~269 |
+| Guy de Borderlands | 10.00% | ~300 |
+| Fully Recycled | 10.00% | ~300 |
+| Ain't Nobody Got Time for That | 10.00% | ~300 |
+| Exceeding Capacity | 9.00% | ~270 |
+| Breaking Protocol | 9.00% | ~270 |
+| Hope Seeker | 9.00% | ~270 |
 | A Hunk of Junk | 8.00% | ~240 |
 | Man's Best Friend | 6.00% | ~180 |
 | Power Outage | 6.00% | ~180 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 482)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,994 (Ranked 157)  
+Progressed: 2,995 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 2,956 | 0 |
 | 2023-07-30 | 2,977 | 0 |
 | 2023-07-31 | 2,988 | 0 |
-| 2023-08-01 | 2,994 | 0 |
+| 2023-08-01 | 2,995 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

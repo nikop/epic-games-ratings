@@ -10,8 +10,8 @@
 | Great Civil War | 26.00% | ~6 |
 | Princess Crowned | 13.00% | ~3 |
 | Secret War | 13.00% | ~3 |
+| Investment | 13.00% | ~3 |
 | 2nd AI War | 9.00% | ~2 |
-| Investment | 9.00% | ~2 |
 | Tech Breakthrough | 9.00% | ~2 |
 | Punish Eastgalaxy | 4.00% | ~1 |
 | Sendai Shogunate | 4.00% | ~1 |

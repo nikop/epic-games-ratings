@@ -2,12 +2,12 @@
   "ID": "a17cc66c3a3c4d75875febf281c73fd2",
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
-  "Ranking_Rating": 239,
+  "Ranking_Rating": 240,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
-  "Ranking_EOS_Progress": 214,
+  "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 600,
+  "EOS_Progressed": 601,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1440,6 +1440,11 @@
       "Time": "2023-07-31T19:03:12.7781389+00:00",
       "NumProgressed": 600,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-01T17:02:47.5314018+00:00",
+      "NumProgressed": 601,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1457,9 +1462,9 @@
       "ID": "BadApple",
       "SetID": "2aagp3d",
       "Name": "Bad apple",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 6
     },
     {
       "ID": "ChaoticNeutral",
@@ -1553,17 +1558,17 @@
       "ID": "HeadOnHerShoulders",
       "SetID": "2aagp3d",
       "Name": "Gnowlledgeable",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 12
     },
     {
       "ID": "HexMaster",
       "SetID": "2aagp3d",
       "Name": "Spirit animal",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 48
+      "UsersEstimate": 42
     },
     {
       "ID": "LiarLiar",
@@ -1601,9 +1606,9 @@
       "ID": "NoMoreWards",
       "SetID": "2aagp3d",
       "Name": "Awards unwarded",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 6
     },
     {
       "ID": "Queen",
@@ -1657,9 +1662,9 @@
       "ID": "ToadCharming",
       "SetID": "2aagp3d",
       "Name": "Always worth a try",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 12
     },
     {
       "ID": "ToothFairy",
@@ -1673,9 +1678,9 @@
       "ID": "Toxic",
       "SetID": "2aagp3d",
       "Name": "Toxic",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 12
     },
     {
       "ID": "Webbed",
@@ -1706,7 +1711,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 600,
+      "Progressed": 601,
       "Completed": 1
     }
   ],
@@ -1714,8 +1719,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-08-01T16:00:53.5837283+00:00",
+  "LastChanged_Achievements": "2023-08-01T17:02:47.5314011+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:48.1262101+00:00",
-  "LastUpdate_Ratings": "2023-08-01T15:58:19.9386992+00:00",
-  "LastUpdate_Achievements": "2023-08-01T16:00:53.5837653+00:00"
+  "LastUpdate_Ratings": "2023-08-01T16:59:07.8831753+00:00",
+  "LastUpdate_Achievements": "2023-08-01T17:02:47.5314653+00:00"
 }

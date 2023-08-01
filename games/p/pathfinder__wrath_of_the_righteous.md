@@ -10,7 +10,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Burning City | 15.00% | ~1,611 |
 | A Spark | 15.00% | ~1,611 |
 | Defender's Heart | 13.00% | ~1,396 |
-| Mythic Choices | 12.00% | ~1,288 |
+| Mythic Choices | 12.00% | ~1,289 |
 | Banner over the Citadel | 11.00% | ~1,181 |
 | Queen's Gratitude | 10.00% | ~1,074 |
 | Fifth Crusade | 7.00% | ~752 |
@@ -19,13 +19,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Great Upstart | 5.00% | ~537 |
 | All Paths Open | 5.00% | ~537 |
 | Demonic and Divine | 5.00% | ~537 |
-| Path of the Azata | 4.00% | ~429 |
-| Transformation | 4.00% | ~429 |
-| The Legacy | 4.00% | ~429 |
-| Voice from Your Dreams | 4.00% | ~429 |
-| A Flame | 4.00% | ~429 |
-| Next-Door Play | 4.00% | ~429 |
-| Get the Toad | 4.00% | ~429 |
+| Path of the Azata | 4.00% | ~430 |
+| Transformation | 4.00% | ~430 |
+| The Legacy | 4.00% | ~430 |
+| Voice from Your Dreams | 4.00% | ~430 |
+| A Flame | 4.00% | ~430 |
+| Next-Door Play | 4.00% | ~430 |
+| Get the Toad | 4.00% | ~430 |
 | Heart of the Fallen Land | 3.00% | ~322 |
 | Divide and Rule | 3.00% | ~322 |
 | Mythic Reinforcements | 3.00% | ~322 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,737 (Ranked 120)  
+Progressed: 10,738 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,10 +226,10 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 10,674 | 0 |
 | 2023-07-30 | 10,702 | 0 |
 | 2023-07-31 | 10,721 | 0 |
-| 2023-08-01 | 10,737 | 0 |
+| 2023-08-01 | 10,738 | 0 |
 ## Awards
 Max (Character Customization): 1,694  (Ranked 117)  
-Sum: 6,861 (Ranked 113)  
+Sum: 6,862 (Ranked 113)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -241,7 +241,7 @@ Diff (max vs sum): 4
 | This game has Amazing Storytelling | 604 |
 | This game has Challenging Combat | 566 |
 | This game has Quickly Understood Controls | 563 |
-| This game is Relaxing | 540 |
+| This game is Relaxing | 541 |
 | This game has a Creative Community | 384 |
 | This game has Obsessive Gameplay | 364 |
 ## Ratings History
@@ -427,4 +427,4 @@ Diff (max vs sum): 4
 | 2023-07-28 | 4.76 | - | 1,693 | 6,854 |
 | 2023-07-29 | 4.76 | - | 1,694 | 6,858 |
 | 2023-07-30 | 4.76 | - | 1,694 | 6,860 |
-| 2023-08-01 | 4.76 | - | 1,694 | 6,861 |
+| 2023-08-01 | 4.76 | - | 1,694 | 6,862 |

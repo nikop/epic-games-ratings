@@ -6,30 +6,30 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,378 |
-| Un-Lonely Island | 47.00% | ~2,117 |
-| The Beginning of a Servantship | 45.00% | ~2,027 |
-| Trade Is My Trait | 37.00% | ~1,666 |
-| Number 18 | 24.00% | ~1,081 |
-| We Don't Have Time For That | 19.00% | ~856 |
-| The Governator | 18.00% | ~811 |
-| The Legend of Langostino | 17.00% | ~766 |
+| Just One...More...Term... | 75.00% | ~3,382 |
+| Un-Lonely Island | 47.00% | ~2,119 |
+| The Beginning of a Servantship | 45.00% | ~2,029 |
+| Trade Is My Trait | 37.00% | ~1,668 |
+| Number 18 | 24.00% | ~1,082 |
+| We Don't Have Time For That | 19.00% | ~857 |
+| The Governator | 18.00% | ~812 |
+| The Legend of Langostino | 17.00% | ~767 |
 | Caribbean Comrade | 16.00% | ~721 |
 | The Dreamer of Dreams | 15.00% | ~676 |
-| Go Sovereigns! | 11.00% | ~495 |
-| For Science! | 11.00% | ~495 |
-| Happy Ending? | 10.00% | ~450 |
-| Of Seals And Men | 10.00% | ~450 |
-| Shackadelic | 10.00% | ~450 |
-| Double Trouble | 8.00% | ~360 |
-| Firestarter | 8.00% | ~360 |
-| Make Tropico Great Again! | 8.00% | ~360 |
-| I Owe You Nothing | 7.00% | ~315 |
-| French Connection | 7.00% | ~315 |
-| Don't Panic! | 6.00% | ~270 |
-| Computer Says "No" | 6.00% | ~270 |
-| Beware The Betman | 6.00% | ~270 |
-| Watch The World Burn | 6.00% | ~270 |
+| Go Sovereigns! | 11.00% | ~496 |
+| For Science! | 11.00% | ~496 |
+| Happy Ending? | 10.00% | ~451 |
+| Of Seals And Men | 10.00% | ~451 |
+| Shackadelic | 10.00% | ~451 |
+| Double Trouble | 8.00% | ~361 |
+| Firestarter | 8.00% | ~361 |
+| Make Tropico Great Again! | 8.00% | ~361 |
+| I Owe You Nothing | 7.00% | ~316 |
+| French Connection | 7.00% | ~316 |
+| Don't Panic! | 6.00% | ~271 |
+| Computer Says "No" | 6.00% | ~271 |
+| Beware The Betman | 6.00% | ~271 |
+| Watch The World Burn | 6.00% | ~271 |
 | Viva Tropico! | 5.00% | ~225 |
 | Fairy Tale Come True | 5.00% | ~225 |
 | Apocalypso | 4.00% | ~180 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~41 |
 | My Ways | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,504 (Ranked 144)  
+Progressed: 4,509 (Ranked 144)  
 Completed: 2 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 2 (0.04%) (Ranked 218)
 | 2023-07-29 | 4,413 | 2 |
 | 2023-07-30 | 4,451 | 2 |
 | 2023-07-31 | 4,478 | 2 |
-| 2023-08-01 | 4,504 | 2 |
+| 2023-08-01 | 4,509 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 341)  
 Sum: 672 (Ranked 276)  

@@ -46,9 +46,9 @@ Rating: 4.18 (Ranked 866)
 | A Momentum Occasion | 0.60% | ~405 |
 | Bat Out of Hell | 0.60% | ~405 |
 | He'd Be So Proud of You | 0.40% | ~270 |
-| Hammer and Icicle | 0.30% | ~113 |
-| Renewable Enemy Source | 0.30% | ~113 |
-| Crime Is a Terrible Thing to Waste | 0.30% | ~113 |
+| Hammer and Icicle | 0.30% | ~114 |
+| Renewable Enemy Source | 0.30% | ~114 |
+| Crime Is a Terrible Thing to Waste | 0.30% | ~114 |
 | Practice Makes Perfect | 0.30% | ~203 |
 | Talonted | 0.30% | ~203 |
 | The Man-Bat Family | 0.30% | ~203 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 866)
 | History Major | 0.10% | ~68 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,553 (Ranked 80)  
+Progressed: 67,556 (Ranked 80)  
 Completed: 106 (0.16%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,17 +170,17 @@ Completed: 106 (0.16%) (Ranked 180)
 | 2023-07-29 | 67,480 | 104 |
 | 2023-07-30 | 67,509 | 104 |
 | 2023-07-31 | 67,537 | 105 |
-| 2023-08-01 | 67,553 | 106 |
+| 2023-08-01 | 67,556 | 106 |
 ## Awards
 Max (Great Boss Battles): 2,475  (Ranked 101)  
-Sum: 4,109 (Ranked 139)  
+Sum: 4,110 (Ranked 139)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,475 |
+| This game is Extremely Fun | 211 |
 | This game has Quickly Understood Controls | 210 |
 | This game is Relaxing | 210 |
-| This game is Extremely Fun | 210 |
 | This game has Diverse Characters | 204 |
 | This game has Amazing Characters | 203 |
 | This game is Great for Beginners | 201 |
@@ -350,4 +350,4 @@ Diff (max vs sum): -38
 | 2023-07-29 | 4.18 | 2,467 | 4,099 |
 | 2023-07-30 | 4.18 | 2,472 | 4,104 |
 | 2023-07-31 | 4.18 | 2,472 | 4,105 |
-| 2023-08-01 | 4.18 | 2,475 | 4,109 |
+| 2023-08-01 | 4.18 | 2,475 | 4,110 |

@@ -1,7 +1,7 @@
 # BLACKTAIL
 [Store](https://store.epicgames.com/en-US/p/blacktail)  
 [View Rawdata](../../db/b/blacktail.json)  
-Rating: 4.68 (Ranked 239)  
+Rating: 4.68 (Ranked 240)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,8 +12,8 @@ Rating: 4.68 (Ranked 239)
 | Forbidden techniques | 12.00% | ~72 |
 | Devoted | 9.00% | ~54 |
 | Slavic squatter | 9.00% | ~54 |
-| Spirit animal | 8.00% | ~48 |
 | Gold rush | 7.00% | ~42 |
+| Spirit animal | 7.00% | ~42 |
 | A friend in need... | 6.00% | ~36 |
 | Sneak peek | 5.00% | ~30 |
 | Fishing fanatic | 5.00% | ~30 |
@@ -25,20 +25,20 @@ Rating: 4.68 (Ranked 239)
 | Favorite | 4.00% | ~24 |
 | Queen | 4.00% | ~24 |
 | Goal! | 3.00% | ~18 |
-| Gnowlledgeable | 3.00% | ~18 |
 | Both sides | 3.00% | ~18 |
 | Specialist | 3.00% | ~18 |
-| Always worth a try | 3.00% | ~18 |
-| Toxic | 3.00% | ~18 |
 | Witch's cookbook | 3.00% | ~18 |
-| Bad apple | 2.00% | ~12 |
-| Awards unwarded | 2.00% | ~12 |
+| Gnowlledgeable | 2.00% | ~12 |
+| Always worth a try | 2.00% | ~12 |
+| Toxic | 2.00% | ~12 |
 | Entangled | 2.00% | ~12 |
+| Bad apple | 1.00% | ~6 |
 | Loremaster | 1.00% | ~6 |
+| Awards unwarded | 1.00% | ~6 |
 | Mushrooming enthusiast | 0.50% | ~3 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 600 (Ranked 214)  
+Progressed: 601 (Ranked 215)  
 Completed: 1 (0.17%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,6 +134,7 @@ Completed: 1 (0.17%) (Ranked 179)
 | 2023-07-29 | 592 | 1 |
 | 2023-07-30 | 596 | 1 |
 | 2023-07-31 | 600 | 1 |
+| 2023-08-01 | 601 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

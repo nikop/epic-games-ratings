@@ -5,17 +5,17 @@ Rating: 4.54 (Ranked 495)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 45.00% | ~4,249 |
-| Greasy Palms | 41.00% | ~3,871 |
-| South American Connection | 25.00% | ~2,360 |
-| Life of the Party | 20.00% | ~1,888 |
-| Tommy Two-Wheels | 15.00% | ~1,416 |
+| Legal Counsel | 45.00% | ~4,250 |
+| Greasy Palms | 41.00% | ~3,872 |
+| South American Connection | 25.00% | ~2,361 |
+| Life of the Party | 20.00% | ~1,889 |
+| Tommy Two-Wheels | 15.00% | ~1,417 |
 | Big Heat from Little Havana | 14.00% | ~1,322 |
 | Chauffeur | 14.00% | ~1,322 |
 | Salutations My Little Friend | 11.00% | ~1,039 |
 | Iron-y | 10.00% | ~944 |
 | Gun for Hire | 9.00% | ~850 |
-| Mischief Managed | 8.00% | ~755 |
+| Mischief Managed | 8.00% | ~756 |
 | Vice City Mogul | 6.00% | ~567 |
 | Catch Me if You Can | 6.00% | ~567 |
 | Bloodstained Hands | 6.00% | ~567 |
@@ -40,7 +40,7 @@ Rating: 4.54 (Ranked 495)
 | Done it All | 0.80% | ~76 |
 | Kingpin | 0.50% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,442 (Ranked 123)  
+Progressed: 9,444 (Ranked 123)  
 Completed: 44 (0.47%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,14 +143,14 @@ Completed: 44 (0.47%) (Ranked 140)
 | 2023-07-29 | 9,343 | 43 |
 | 2023-07-30 | 9,381 | 43 |
 | 2023-07-31 | 9,415 | 43 |
-| 2023-08-01 | 9,442 | 44 |
+| 2023-08-01 | 9,444 | 44 |
 ## Awards
-Max (Great Boss Battles): 64  (Ranked 385)  
-Sum: 64 (Ranked 442)  
-Diff (max vs sum): -57  
+Max (Great Boss Battles): 65  (Ranked 384)  
+Sum: 65 (Ranked 440)  
+Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 64 |
+| This game has Great Boss Battles | 65 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -244,3 +244,4 @@ Diff (max vs sum): -57
 | 2023-07-28 | 4.55 | 63 | 63 |
 | 2023-07-29 | 4.54 | 63 | 63 |
 | 2023-07-30 | 4.54 | 64 | 64 |
+| 2023-08-01 | 4.54 | 65 | 65 |

@@ -17,10 +17,10 @@
 | Health Care | 5.00% | ~6 |
 | Desert Power | 5.00% | ~6 |
 | Ammo Tycoon | 5.00% | ~6 |
+| Perfect Soldier | 4.00% | ~5 |
 | Pathfinder | 4.00% | ~5 |
 | Self-sufficient | 4.00% | ~5 |
 | Supersoldier | 3.00% | ~3 |
-| Perfect Soldier | 3.00% | ~3 |
 | Outdoor Decorator | 3.00% | ~3 |
 | Healing | 3.00% | ~3 |
 | Property Bro | 3.00% | ~3 |

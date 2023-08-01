@@ -57,6 +57,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 0.60% | ~79 |
 | Necropolis | 0.60% | ~79 |
 | Learn to Play 1 | 0.60% | ~79 |
+| Manichaeism | 0.60% | ~79 |
 | Drillmaster | 0.50% | ~66 |
 | Intercessor | 0.50% | ~66 |
 | Legendary Cities | 0.50% | ~66 |
@@ -66,7 +67,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.50% | ~66 |
 | Learn to Play 2 | 0.50% | ~66 |
 | Greece | 0.50% | ~66 |
-| Manichaeism | 0.50% | ~66 |
 | Egyptian Paganism | 0.50% | ~66 |
 | Mythology | 0.50% | ~66 |
 | Hanging Gardens in Babylon | 0.40% | ~53 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,219 (Ranked 117)  
+Progressed: 13,220 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,10 +406,10 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-07-29 | 13,164 | 5 |
 | 2023-07-30 | 13,191 | 5 |
 | 2023-07-31 | 13,209 | 5 |
-| 2023-08-01 | 13,219 | 5 |
+| 2023-08-01 | 13,220 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 262)  
-Sum: 1,785 (Ranked 206)  
+Sum: 1,786 (Ranked 206)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -421,7 +421,7 @@ Diff (max vs sum): 56
 | This game has Challenging Combat | 191 |
 | This game has Quickly Understood Controls | 189 |
 | This game has Amazing Characters | 188 |
-| This game has Amazing Storytelling | 181 |
+| This game has Amazing Storytelling | 182 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
 | This game has Competitive Players | 59 |
@@ -536,3 +536,4 @@ Diff (max vs sum): 56
 | 2023-07-21 | 4.65 | - | 218 | 1,783 |
 | 2023-07-26 | 4.65 | - | 218 | 1,784 |
 | 2023-07-29 | 4.65 | - | 218 | 1,785 |
+| 2023-08-01 | 4.65 | - | 218 | 1,786 |

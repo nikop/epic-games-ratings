@@ -8,7 +8,7 @@
 | CLEANER | 93.00% | ~818 |
 | OH NO, HE'S LEAVING! | 77.00% | ~678 |
 | FIREFIGHTER | 56.00% | ~493 |
-| ADVANCED | 40.00% | ~352 |
+| ADVANCED | 41.00% | ~361 |
 | CHIEF | 20.00% | ~176 |
 | SECOND_FLOOR | 13.00% | ~114 |
 | INTRODUCTION | 10.00% | ~88 |

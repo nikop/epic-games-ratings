@@ -3246,10 +3246,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6861,
       "NumberOfAwardsMax": 1694
+    },
+    {
+      "Time": "2023-08-01T16:59:49.526331+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6862,
+      "NumberOfAwardsMax": 1694
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6861,
+  "NumberOfAwards": 6862,
   "NumberOfAwardsMax": 1694,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3299,7 +3305,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 540
+      "Count": 541
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3320,7 +3326,7 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10737,
+  "EOS_Progressed": 10738,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
@@ -9885,6 +9891,11 @@
       "Time": "2023-08-01T16:00:52.088943+00:00",
       "NumProgressed": 10737,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-01T17:02:45.4795962+00:00",
+      "NumProgressed": 10738,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9968,7 +9979,7 @@
       "Name": "Path of the Azata",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "11_PathOfAeon",
@@ -10024,7 +10035,7 @@
       "Name": "Transformation",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "18_MythicChoices",
@@ -10032,7 +10043,7 @@
       "Name": "Mythic Choices",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "19_EqualToAroden",
@@ -10080,7 +10091,7 @@
       "Name": "The Legacy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "25_MasterfulDispell",
@@ -10240,7 +10251,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "46_AllPathsOpen",
@@ -10272,7 +10283,7 @@
       "Name": "A Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -10320,7 +10331,7 @@
       "Name": "Next-Door Play",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "56_GetToad",
@@ -10328,7 +10339,7 @@
       "Name": "Get the Toad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "57_PathOfDevil",
@@ -10823,21 +10834,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9519,
+      "Progressed": 9520,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10737,
+      "Progressed": 10738,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-08-01T08:59:13.0269318+00:00",
-  "LastChanged_Achievements": "2023-08-01T16:00:52.0889424+00:00",
+  "LastChanged": "2023-08-01T16:59:49.5263308+00:00",
+  "LastChanged_Achievements": "2023-08-01T17:02:45.4795954+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-08-01T15:58:48.2210655+00:00",
-  "LastUpdate_Achievements": "2023-08-01T16:00:52.0891643+00:00"
+  "LastUpdate_Ratings": "2023-08-01T16:59:49.5263315+00:00",
+  "LastUpdate_Achievements": "2023-08-01T17:02:45.479989+00:00"
 }

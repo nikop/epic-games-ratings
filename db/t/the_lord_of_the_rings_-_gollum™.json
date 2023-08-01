@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 492,
+  "EOS_Progressed": 493,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -1095,6 +1095,11 @@
       "Time": "2023-08-01T08:06:43.4226085+00:00",
       "NumProgressed": 492,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-01T17:08:23.9957679+00:00",
+      "NumProgressed": 493,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1130,7 +1135,7 @@
       "Name": "The Wraith",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "Chapter10",
@@ -1258,7 +1263,7 @@
       "Name": "Like Flying...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "GollumChoices",
@@ -1393,14 +1398,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 492,
+      "Progressed": 493,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-08-01T16:06:26.8211854+00:00",
+  "LastChanged_Achievements": "2023-08-01T17:08:23.9957671+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:41.3820376+00:00",
-  "LastUpdate_Ratings": "2023-08-01T15:58:13.2586928+00:00",
-  "LastUpdate_Achievements": "2023-08-01T16:06:26.8212203+00:00"
+  "LastUpdate_Ratings": "2023-08-01T16:58:57.045595+00:00",
+  "LastUpdate_Achievements": "2023-08-01T17:08:23.9958283+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5452,9 +5452,9 @@
       "Count": 3332
     }
   ],
-  "EOS_Progressed": 217664,
+  "EOS_Progressed": 217681,
   "EOS_Completed": 2141,
-  "EOS_NewPlayers": 2245,
+  "EOS_NewPlayers": 2237,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16552,6 +16552,11 @@
       "Time": "2023-08-01T16:04:02.0973541+00:00",
       "NumProgressed": 217664,
       "NumCompleted": 2141
+    },
+    {
+      "Time": "2023-08-01T17:05:01.6036354+00:00",
+      "NumProgressed": 217681,
+      "NumCompleted": 2141
     }
   ],
   "TotalAchievements": 512,
@@ -16571,7 +16576,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4353
+      "UsersEstimate": 4354
     },
     {
       "ID": "objective_completed_100",
@@ -16665,9 +16670,9 @@
       "ID": "objective_completed_1055",
       "SetID": "415jc5c",
       "Name": "The Witchlight Carnival",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 920
+      "UsersEstimate": 1104
     },
     {
       "ID": "objective_completed_1056",
@@ -17243,7 +17248,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "objective_completed_1164",
@@ -17929,9 +17934,9 @@
       "ID": "objective_completed_210",
       "SetID": "cc37lbc",
       "Name": "Werewolves in the Mist",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 653
     },
     {
       "ID": "objective_completed_211",
@@ -19297,9 +19302,9 @@
       "ID": "objective_completed_625",
       "SetID": "415jc5c",
       "Name": "D\u00E9j\u00E0 Vu",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 368
     },
     {
       "ID": "objective_completed_626",
@@ -20587,7 +20592,7 @@
       "Name": "Rocky Reception",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "objective_completed_1376",
@@ -20603,7 +20608,7 @@
       "Name": "Rock and Roll",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "objective_completed_1381",
@@ -20658,21 +20663,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 183938,
-      "Completed": 3046
+      "Progressed": 183955,
+      "Completed": 3047
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217664,
+      "Progressed": 217681,
       "Completed": 2141
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-01T06:58:55.3799578+00:00",
-  "LastChanged_Achievements": "2023-08-01T16:04:02.0973536+00:00",
+  "LastChanged_Achievements": "2023-08-01T17:05:01.6036349+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-01T15:58:31.7486835+00:00",
-  "LastUpdate_Achievements": "2023-08-01T16:04:02.1001074+00:00"
+  "LastUpdate_Ratings": "2023-08-01T16:59:25.2955898+00:00",
+  "LastUpdate_Achievements": "2023-08-01T17:05:01.6066943+00:00"
 }

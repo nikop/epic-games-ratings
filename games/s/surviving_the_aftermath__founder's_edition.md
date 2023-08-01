@@ -1,7 +1,7 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 591)  
+Rating: 4.48 (Ranked 590)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,7 +10,7 @@ Number of Ratings: 836  (23.09.2022)
 | Leader | 61.00% | ~4,835 |
 | Explorer | 53.00% | ~4,201 |
 | Healer | 52.00% | ~4,122 |
-| Aspiring Inventor | 44.00% | ~3,487 |
+| Aspiring Inventor | 44.00% | ~3,488 |
 | Adventurer | 41.00% | ~3,250 |
 | Famous Healer | 38.00% | ~3,012 |
 | Local Leader | 35.00% | ~2,774 |
@@ -20,9 +20,9 @@ Number of Ratings: 836  (23.09.2022)
 | The Long Haul | 33.00% | ~2,616 |
 | The Great Healer | 31.00% | ~2,457 |
 | Survivor | 31.00% | ~2,457 |
-| Legendary Explorer | 28.00% | ~2,219 |
-| Cleaner | 28.00% | ~2,219 |
-| Catastrofan | 28.00% | ~2,219 |
+| Legendary Explorer | 28.00% | ~2,220 |
+| Cleaner | 28.00% | ~2,220 |
+| Catastrofan | 28.00% | ~2,220 |
 | Finders, Keepers | 26.00% | ~2,061 |
 | Top Notch | 25.00% | ~1,982 |
 | Ice Lakes | 23.00% | ~1,823 |
@@ -32,13 +32,13 @@ Number of Ratings: 836  (23.09.2022)
 | Real Survivor | 22.00% | ~1,744 |
 | Rocket Surgeon | 20.00% | ~1,585 |
 | War Never Changes | 19.00% | ~1,506 |
-| Big Game Hunter | 17.00% | ~1,347 |
-| Spreading Influence | 17.00% | ~1,347 |
+| Big Game Hunter | 17.00% | ~1,348 |
+| Spreading Influence | 17.00% | ~1,348 |
 | Friendly | 16.00% | ~1,268 |
 | Around the World | 16.00% | ~1,268 |
 | Bookworm | 15.00% | ~1,189 |
 | Famous Adventurer | 14.00% | ~1,110 |
-| Prepared for Anything | 13.00% | ~1,030 |
+| Prepared for Anything | 13.00% | ~1,031 |
 | Big Catastrofan | 12.00% | ~951 |
 | It's a Finnish Thing | 10.00% | ~793 |
 | Sky Burial | 9.00% | ~713 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~16 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,926 (Ranked 128)  
+Progressed: 7,927 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 7,824 | 0 |
 | 2023-07-30 | 7,877 | 0 |
 | 2023-07-31 | 7,909 | 0 |
-| 2023-08-01 | 7,926 | 0 |
+| 2023-08-01 | 7,927 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 335)  
 Sum: 683 (Ranked 273)  

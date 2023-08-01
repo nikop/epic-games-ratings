@@ -9,13 +9,13 @@ Rating: 4.63 (Ranked 333)
 | Realm Estate | 5.00% | ~254 |
 | A Wonderful Discovery | 5.00% | ~254 |
 | Walls Cannot Stop Us | 5.00% | ~254 |
+| Magical Synergy | 5.00% | ~254 |
 | Tipping the Scales | 5.00% | ~254 |
 | There Can Only Be One! | 4.00% | ~203 |
 | Full Ascension | 4.00% | ~203 |
 | Bone Peddler | 4.00% | ~203 |
 | From Friends to Family | 4.00% | ~203 |
 | Stronger Together | 4.00% | ~203 |
-| Magical Synergy | 4.00% | ~203 |
 | My Final Form | 4.00% | ~203 |
 | Seat of Power | 4.00% | ~203 |
 | Intimidation Tactics | 4.00% | ~203 |

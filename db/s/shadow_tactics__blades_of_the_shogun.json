@@ -2,7 +2,7 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 274,
+  "Ranking_Rating": 273,
   "Ranking_Popularity": 184,
   "Ranking_PopularitySum": 133,
   "Ranking_EOS_Progress": 59,
@@ -1375,9 +1375,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 190444,
+  "EOS_Progressed": 190456,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1936,
+  "EOS_NewPlayers": 1932,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12690,6 +12690,11 @@
       "Time": "2023-08-01T16:06:26.8945984+00:00",
       "NumProgressed": 190444,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-08-01T17:08:24.1805298+00:00",
+      "NumProgressed": 190456,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 44,
@@ -12701,7 +12706,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17140
+      "UsersEstimate": 17141
     },
     {
       "ID": "AtheistOx",
@@ -12741,7 +12746,7 @@
       "Name": "Disguised",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13331
+      "UsersEstimate": 13332
     },
     {
       "ID": "FiveShadows",
@@ -12757,7 +12762,7 @@
       "Name": "Flying Rocks",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9522
+      "UsersEstimate": 9523
     },
     {
       "ID": "GearUp",
@@ -12773,7 +12778,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 20949
+      "UsersEstimate": 20950
     },
     {
       "ID": "HappyLittleAccidents",
@@ -12821,7 +12826,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 13331
+      "UsersEstimate": 13332
     },
     {
       "ID": "Mercyful",
@@ -12837,7 +12842,7 @@
       "Name": "Meticulous",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "Mimimi",
@@ -12853,7 +12858,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9522
+      "UsersEstimate": 9523
     },
     {
       "ID": "NoGimmicks",
@@ -12861,7 +12866,7 @@
       "Name": "No Gimmicks",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "Noboru",
@@ -12869,7 +12874,7 @@
       "Name": "Noboru",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 5713
+      "UsersEstimate": 5714
     },
     {
       "ID": "Okkoto",
@@ -12917,7 +12922,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13331
+      "UsersEstimate": 13332
     },
     {
       "ID": "Rollin",
@@ -12925,7 +12930,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13331
+      "UsersEstimate": 13332
     },
     {
       "ID": "StillRollin",
@@ -12933,7 +12938,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5713
+      "UsersEstimate": 5714
     },
     {
       "ID": "Stoned",
@@ -12941,7 +12946,7 @@
       "Name": "Stoned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5713
+      "UsersEstimate": 5714
     },
     {
       "ID": "StonedOx",
@@ -12949,7 +12954,7 @@
       "Name": "Stoned Ox",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13331
+      "UsersEstimate": 13332
     },
     {
       "ID": "TanukiTime",
@@ -12973,7 +12978,7 @@
       "Name": "The End",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "TheOldWay",
@@ -12989,7 +12994,7 @@
       "Name": "Thorough",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 17140
+      "UsersEstimate": 17141
     },
     {
       "ID": "TimeParadox",
@@ -13021,7 +13026,7 @@
       "Name": "Warzone",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9522
+      "UsersEstimate": 9523
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -13052,15 +13057,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 190444,
+      "Progressed": 190456,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-01T15:01:04.9218002+00:00",
-  "LastChanged_Achievements": "2023-08-01T16:06:26.8945979+00:00",
+  "LastChanged_Achievements": "2023-08-01T17:08:24.1805291+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:58.4166867+00:00",
-  "LastUpdate_Ratings": "2023-08-01T15:59:30.83714+00:00",
-  "LastUpdate_Achievements": "2023-08-01T16:06:26.8947101+00:00"
+  "LastUpdate_Ratings": "2023-08-01T17:00:43.9046858+00:00",
+  "LastUpdate_Achievements": "2023-08-01T17:08:24.1807272+00:00"
 }

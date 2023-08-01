@@ -16,8 +16,8 @@ Rating: 4.25 (Ranked 819)
 | Detective of the occult | 1.00% | ~650 |
 | Depression | 1.00% | ~650 |
 | Bless me Father... | 0.80% | ~520 |
+| Power of Friendship | 0.70% | ~455 |
 | Phone Bill | 0.70% | ~455 |
-| Power of Friendship | 0.60% | ~390 |
 | Chain Breaker | 0.60% | ~390 |
 | Let there be light | 0.50% | ~325 |
 | Silent Advisor | 0.50% | ~325 |

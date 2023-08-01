@@ -11,10 +11,10 @@
 | Nerd | 86.00% | ~80 |
 | I like you...but I have to kill you... | 85.00% | ~79 |
 | AHHHHHH.....I'M ON FIRE!!! | 84.00% | ~78 |
-| Not so hip anymore! | 83.00% | ~77 |
+| Not so hip anymore! | 84.00% | ~78 |
 | Blurry depth perception | 81.00% | ~75 |
-| Up and down | 78.00% | ~73 |
-| Rolling, Rolling, Rolling | 71.00% | ~66 |
+| Up and down | 80.00% | ~74 |
+| Rolling, Rolling, Rolling | 72.00% | ~67 |
 | Fire-fighter! | 66.00% | ~61 |
 | Oh, you're up to no gouda! | 62.00% | ~58 |
 | Make Love not War-Craft a Mistlefoe | 60.00% | ~56 |

@@ -1266,9 +1266,9 @@
       "ID": "ACH_BOOK_5",
       "SetID": "7k95e4n",
       "Name": "Humble beginnings",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 401
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -1491,8 +1491,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-29T09:57:37.1491908+00:00",
-  "LastChanged_Achievements": "2023-08-01T16:04:49.3865883+00:00",
+  "LastChanged_Achievements": "2023-08-01T17:06:08.1232488+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:54.1482303+00:00",
-  "LastUpdate_Ratings": "2023-08-01T15:57:39.8953015+00:00",
-  "LastUpdate_Achievements": "2023-08-01T16:04:49.3866182+00:00"
+  "LastUpdate_Ratings": "2023-08-01T16:58:05.2076537+00:00",
+  "LastUpdate_Achievements": "2023-08-01T17:06:08.1232943+00:00"
 }

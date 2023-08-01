@@ -24,6 +24,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Chapter III: The Man Who Sold the World | 0.20% | ~929 |
 | Chapter IV: Through the Looking Glass | 0.20% | ~929 |
 | Through the mirror | 0.20% | ~929 |
+| The Survivalists | 0.20% | ~929 |
 | Tetsuo | 0.20% | ~929 |
 | General Vivar | 0.20% | ~929 |
 | Pope Zenon | 0.20% | ~929 |
@@ -37,7 +38,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | Forsaken | 0.10% | ~464 |
 | Meet your maker | 0.10% | ~464 |
 | Admiral Okonkwo | 0.10% | ~464 |
-| The Survivalists | 0.10% | ~464 |
 | Mercy | 0.10% | ~464 |
 | The Impersonator | 0.10% | ~464 |
 | The Kid | 0.10% | ~464 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~8 |
 | Kronos Rule | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,277 (Ranked 37)  
+Progressed: 464,280 (Ranked 37)  
 Completed: 16 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 16 (0.00%) (Ranked 247)
 | 2023-07-29 | 464,088 | 16 |
 | 2023-07-30 | 464,170 | 16 |
 | 2023-07-31 | 464,233 | 16 |
-| 2023-08-01 | 464,277 | 16 |
+| 2023-08-01 | 464,280 | 16 |
 ## Awards
 Max (Character Customization): 214  (Ranked 266)  
 Sum: 214 (Ranked 360)  

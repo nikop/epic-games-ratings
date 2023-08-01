@@ -687,9 +687,9 @@
       "ID": "ThirdBoss",
       "SetID": "7g1kpc8",
       "Name": "Flower",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
@@ -702,8 +702,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-08-01T16:05:02.6479575+00:00",
+  "LastChanged_Achievements": "2023-08-01T17:06:26.7911774+00:00",
   "LastUpdate_AppInfo": "2023-07-31T09:57:13.2028801+00:00",
-  "LastUpdate_Ratings": "2023-08-01T15:57:36.9122405+00:00",
-  "LastUpdate_Achievements": "2023-08-01T16:05:02.6479767+00:00"
+  "LastUpdate_Ratings": "2023-08-01T16:58:02.3703876+00:00",
+  "LastUpdate_Achievements": "2023-08-01T17:06:26.7912078+00:00"
 }

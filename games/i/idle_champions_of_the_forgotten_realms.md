@@ -8,18 +8,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,707 |
 | Beast Intentions | 3.00% | ~6,530 |
-| Maddening | 2.00% | ~4,353 |
+| Maddening | 2.00% | ~4,354 |
 | The Silken Swamp | 1.00% | ~2,177 |
 | Supply Run | 1.00% | ~2,177 |
-| Rocky Reception | 1.00% | ~1,839 |
-| Vecna Lives! | 0.90% | ~1,655 |
-| Rock and Roll | 0.90% | ~1,655 |
+| Rocky Reception | 1.00% | ~1,840 |
+| Vecna Lives! | 0.90% | ~1,656 |
+| Rock and Roll | 0.90% | ~1,656 |
 | Flight of the Kindori Pod | 0.80% | ~1,472 |
 | Tall Tales | 0.70% | ~1,288 |
 | Seeds of Destruction | 0.70% | ~1,288 |
 | Vecna Loots! | 0.70% | ~1,288 |
 | Topolah's Tower | 0.70% | ~1,288 |
 | Pros and CONs | 0.60% | ~1,306 |
+| The Witchlight Carnival | 0.60% | ~1,104 |
 | Wet Feet | 0.60% | ~1,306 |
 | Hatchlings Underfoot | 0.60% | ~1,306 |
 | Return to the Tomb | 0.60% | ~1,104 |
@@ -31,7 +32,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.60% | ~1,306 |
 | Unearthed Evil | 0.60% | ~1,306 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,104 |
-| The Witchlight Carnival | 0.50% | ~920 |
 | Don't Look Up! | 0.50% | ~1,088 |
 | Heavy Burden | 0.50% | ~1,088 |
 | The Evacuation of Waterdeep | 0.50% | ~920 |
@@ -96,6 +96,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sleuth It Out | 0.30% | ~653 |
 | A Grand Puzzle | 0.30% | ~653 |
 | Tomb of the Nine Gods | 0.30% | ~653 |
+| Werewolves in the Mist | 0.30% | ~653 |
 | Chatty Nobles | 0.30% | ~653 |
 | Haaave You Met Asmodeus? | 0.30% | ~653 |
 | The Immortal Warrior | 0.30% | ~653 |
@@ -165,7 +166,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Azaka's Procession - Part 1 | 0.20% | ~435 |
 | Azaka's Procession - Part 2 | 0.20% | ~435 |
 | The Hunt for Owl-y | 0.20% | ~435 |
-| Werewolves in the Mist | 0.20% | ~435 |
 | We're not in Faerûn Anymore | 0.20% | ~435 |
 | Haunted Fortunes | 0.20% | ~435 |
 | Modron Assistance | 0.20% | ~435 |
@@ -200,6 +200,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Once More Into The Breach | 0.20% | ~435 |
 | Wyllowwood | 0.20% | ~435 |
 | An Illithid Undertaking | 0.20% | ~368 |
+| Déjà Vu | 0.20% | ~368 |
 | Into The Fire | 0.20% | ~368 |
 | Dreamscape | 0.20% | ~368 |
 | The Path of Dreams | 0.20% | ~368 |
@@ -403,7 +404,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Illithid Ambush | 0.10% | ~184 |
 | Misty Undermountain | 0.10% | ~184 |
 | An Owlbear of an Undertaking | 0.10% | ~184 |
-| Déjà Vu | 0.10% | ~184 |
 | Wait, What? | 0.10% | ~184 |
 | Ireena von Zarovich | 0.10% | ~184 |
 | Déjà Vu All Over Again | 0.10% | ~184 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,664 (Ranked 53)  
+Progressed: 217,681 (Ranked 53)  
 Completed: 2,141 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,7 +622,7 @@ Completed: 2,141 (0.98%) (Ranked 112)
 | 2023-07-29 | 216,865 | 2,136 |
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
-| 2023-08-01 | 217,664 | 2,141 |
+| 2023-08-01 | 217,681 | 2,141 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
 Sum: 30,840 (Ranked 38)  

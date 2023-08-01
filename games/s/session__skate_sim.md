@@ -1,12 +1,12 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.68 (Ranked 239)  
+Rating: 4.68 (Ranked 240)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 58.00% | ~1,552 |
+| You're free now! | 58.00% | ~1,553 |
 | Keeping it classy | 26.00% | ~696 |
 | Welcome to the family | 20.00% | ~535 |
 | The finer things in life | 17.00% | ~455 |
@@ -18,11 +18,11 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 8.00% | ~214 |
 | Keep the dream alive | 8.00% | ~214 |
 | Upfront shredder | 8.00% | ~214 |
-| Bottom ply killer | 6.00% | ~160 |
-| Fashionista | 6.00% | ~160 |
-| Finally he zips it | 6.00% | ~160 |
-| That pinch! | 6.00% | ~160 |
-| Tight lipslides | 6.00% | ~160 |
+| Bottom ply killer | 6.00% | ~161 |
+| Fashionista | 6.00% | ~161 |
+| Finally he zips it | 6.00% | ~161 |
+| That pinch! | 6.00% | ~161 |
+| Tight lipslides | 6.00% | ~161 |
 | Commence the Hijinx! | 5.00% | ~134 |
 | Fulfilled the dream | 5.00% | ~134 |
 | G'Day Mate! | 5.00% | ~134 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,675 (Ranked 159)  
+Progressed: 2,677 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 2,648 | 0 |
 | 2023-07-30 | 2,660 | 0 |
 | 2023-07-31 | 2,669 | 0 |
-| 2023-08-01 | 2,675 | 0 |
+| 2023-08-01 | 2,677 | 0 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 399)  
 Sum: 441 (Ranked 305)  
