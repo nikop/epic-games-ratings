@@ -21,9 +21,9 @@
 | 19 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 20 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.06% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
-| 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 10.94% |
-| 23 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 24 | [Remains](games/r/remains.md) | 10.64% |
+| 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 23 | [Remains](games/r/remains.md) | 10.64% |
+| 24 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 10.61% |
 | 25 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.53% |
 | 26 | [Sonic Origins](games/s/sonic_origins.md) | 10.25% |
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
@@ -32,7 +32,7 @@
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.00% |
 | 32 | [Smelter](games/s/smelter.md) | 7.89% |
-| 33 | [Ravenlok](games/r/ravenlok.md) | 7.37% |
+| 33 | [Ravenlok](games/r/ravenlok.md) | 7.36% |
 | 34 | [Scorn](games/s/scorn.md) | 7.00% |
 | 35 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.94% |
@@ -44,7 +44,7 @@
 | 42 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.88% |
 | 43 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.33% |
 | 44 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
-| 45 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
+| 45 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.85% |
 | 47 | [JARS](games/j/jars.md) | 4.76% |
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.73% |
@@ -52,7 +52,7 @@
 | 50 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 51 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.36% |
 | 52 | [Without Escape](games/w/without_escape.md) | 4.17% |
-| 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.05% |
+| 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.08% |
 | 54 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.03% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.78% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.64% |
@@ -114,8 +114,8 @@
 | 112 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 112 | [Sable](games/s/sable.md) | 0.98% |
 | 114 | [Hades](games/h/hades.md) | 0.90% |
-| 115 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.87% |
-| 116 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
+| 115 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
+| 116 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.84% |
 | 117 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 118 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
 | 119 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
