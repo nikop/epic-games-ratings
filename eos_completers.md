@@ -28,7 +28,7 @@
 | 26 | [Sonic Origins](games/s/sonic_origins.md) | 10.28% |
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
-| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.82% |
+| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.79% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.00% |
 | 32 | [Smelter](games/s/smelter.md) | 7.89% |
@@ -52,8 +52,8 @@
 | 50 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 51 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.36% |
 | 52 | [Without Escape](games/w/without_escape.md) | 4.17% |
-| 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.03% |
-| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.01% |
+| 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.05% |
+| 54 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.03% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.78% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.64% |
 | 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.52% |
@@ -82,7 +82,7 @@
 | 80 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.33% |
 | 81 | [FORECLOSED](games/f/foreclosed.md) | 2.27% |
 | 82 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
-| 83 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
+| 83 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.06% |
 | 84 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.02% |
 | 85 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.98% |
 | 86 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
@@ -105,11 +105,11 @@
 | 103 | [Chorus](games/c/chorus.md) | 1.18% |
 | 104 | [A Musical Story](games/a/a_musical_story.md) | 1.16% |
 | 105 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.15% |
-| 106 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.11% |
 | 106 | [Trifox](games/t/trifox.md) | 1.11% |
-| 108 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
-| 109 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.03% |
-| 109 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.03% |
+| 107 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
+| 108 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.03% |
+| 108 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
+| 108 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.03% |
 | 111 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
 | 112 | [Adios](games/a/adios.md) | 0.99% |
 | 113 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
