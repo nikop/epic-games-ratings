@@ -174,9 +174,9 @@
       "ID": "APHRODITE",
       "SetID": "e4de54",
       "Name": "Aphrodite",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "APOLLO",
@@ -198,9 +198,9 @@
       "ID": "ARTEMIS",
       "SetID": "e4de54",
       "Name": "Artemis",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ATTENTIVENESS",
@@ -214,9 +214,9 @@
       "ID": "A_STRANGE_SPRING",
       "SetID": "e4de54",
       "Name": "A strange spring",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BAD_MUSICIAN",
@@ -262,9 +262,9 @@
       "ID": "DANGEROUS_MEDUSA",
       "SetID": "e4de54",
       "Name": "Dangerous Medusa",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ERIS",
@@ -310,9 +310,9 @@
       "ID": "HEBE",
       "SetID": "e4de54",
       "Name": "Hebe",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HERA",
@@ -342,9 +342,9 @@
       "ID": "LABYRINTH_EXPLORER",
       "SetID": "e4de54",
       "Name": "Labyrinth explorer",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MAIN_MENU",
@@ -358,9 +358,9 @@
       "ID": "MEDUSA_GAZE",
       "SetID": "e4de54",
       "Name": "Medusa gaze",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MEDUSA_SECRET",
@@ -374,9 +374,9 @@
       "ID": "MINOTAUR_CULT",
       "SetID": "e4de54",
       "Name": "Minotaur cult",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MINOTAUR_MENACE",
@@ -406,9 +406,9 @@
       "ID": "RED_HERRING",
       "SetID": "e4de54",
       "Name": "Red herring",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SELF_CONFIDENCE",
@@ -422,9 +422,9 @@
       "ID": "SPIDER",
       "SetID": "e4de54",
       "Name": "Spider",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "STEALTH_MASTER",
@@ -461,8 +461,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-08-02T08:05:09.0991523+00:00",
+  "LastChanged_Achievements": "2023-08-02T09:04:32.411285+00:00",
   "LastUpdate_AppInfo": "2023-07-28T21:57:00.7979866+00:00",
-  "LastUpdate_Ratings": "2023-08-02T07:57:24.0559408+00:00",
-  "LastUpdate_Achievements": "2023-08-02T08:05:09.099178+00:00"
+  "LastUpdate_Ratings": "2023-08-02T08:57:29.4780773+00:00",
+  "LastUpdate_Achievements": "2023-08-02T09:04:32.4113111+00:00"
 }

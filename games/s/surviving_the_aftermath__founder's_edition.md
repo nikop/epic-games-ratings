@@ -57,9 +57,9 @@ Number of Ratings: 836  (23.09.2022)
 | Biggest Catastrofan | 2.00% | ~159 |
 | The Friendliest | 1.00% | ~79 |
 | Legendary Adventurer | 1.00% | ~79 |
+| Slimy yet Satisfying | 1.00% | ~79 |
 | A Closer Look | 1.00% | ~79 |
 | True Survivor | 1.00% | ~79 |
-| Slimy yet Satisfying | 0.90% | ~72 |
 | Feng Shui | 0.90% | ~72 |
 | Finnished | 0.30% | ~24 |
 | Fun and Games | 0.20% | ~16 |

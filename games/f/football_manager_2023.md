@@ -5,22 +5,22 @@ Rating: 4.75 (Ranked 135)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 77.00% | ~62,446 |
-| The Player Whisperer | 76.00% | ~61,635 |
-| One of Us, One of Us! | 73.00% | ~59,202 |
-| Clean Sheet | 68.00% | ~55,147 |
-| First Victory | 68.00% | ~55,147 |
-| #DoneDeal | 67.00% | ~54,336 |
-| Off the Books | 65.00% | ~52,714 |
-| Super-Sub | 65.00% | ~52,714 |
-| Hat-trick | 60.00% | ~48,659 |
-| "I Would Love It If We Beat Them" | 58.00% | ~47,037 |
-| Planned Signing | 58.00% | ~47,037 |
-| Thumping | 53.00% | ~42,982 |
-| Scoring Streak | 53.00% | ~42,982 |
-| Wheeler Dealer | 52.00% | ~42,171 |
-| Unbeatable! | 51.00% | ~41,360 |
-| People Pleaser | 51.00% | ~41,360 |
+| Motivational Speaker | 77.00% | ~62,448 |
+| The Player Whisperer | 76.00% | ~61,637 |
+| One of Us, One of Us! | 73.00% | ~59,204 |
+| Clean Sheet | 68.00% | ~55,149 |
+| First Victory | 68.00% | ~55,149 |
+| #DoneDeal | 67.00% | ~54,338 |
+| Off the Books | 65.00% | ~52,716 |
+| Super-Sub | 65.00% | ~52,716 |
+| Hat-trick | 60.00% | ~48,661 |
+| "I Would Love It If We Beat Them" | 58.00% | ~47,039 |
+| Planned Signing | 58.00% | ~47,039 |
+| Thumping | 53.00% | ~42,984 |
+| Scoring Streak | 53.00% | ~42,984 |
+| Wheeler Dealer | 52.00% | ~42,173 |
+| Unbeatable! | 51.00% | ~41,362 |
+| People Pleaser | 51.00% | ~41,362 |
 | One Of Our Own | 48.00% | ~38,928 |
 | They're a Natural | 45.00% | ~36,495 |
 | Team Performance | 44.00% | ~35,684 |
@@ -92,7 +92,7 @@ Rating: 4.75 (Ranked 135)
 | Online Streak | 0.90% | ~730 |
 | The Rich Get Richer | 0.80% | ~649 |
 | Online Rivalry | 0.60% | ~487 |
-| Import To Victory | 0.50% | ~405 |
+| Import To Victory | 0.50% | ~406 |
 | Outstanding Defence | 0.40% | ~324 |
 | Immortality | 0.20% | ~162 |
 | You Shall Not Pass | 0.20% | ~162 |
@@ -106,7 +106,7 @@ Rating: 4.75 (Ranked 135)
 | Versus Anyone | 0.10% | ~81 |
 | 200 Club | 0.10% | ~81 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81,099 (Ranked 72)  
+Progressed: 81,101 (Ranked 72)  
 Completed: 22 (0.03%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,10 +210,10 @@ Completed: 22 (0.03%) (Ranked 222)
 | 2023-07-30 | 80,765 | 22 |
 | 2023-07-31 | 80,912 | 22 |
 | 2023-08-01 | 81,071 | 22 |
-| 2023-08-02 | 81,099 | 22 |
+| 2023-08-02 | 81,101 | 22 |
 ## Awards
 Max (Diverse Characters): 582  (Ranked 180)  
-Sum: 4,201 (Ranked 137)  
+Sum: 4,202 (Ranked 137)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -223,7 +223,7 @@ Diff (max vs sum): 43
 | This game is Educational | 480 |
 | This game is Relaxing | 475 |
 | This game has Competitive Players | 432 |
-| This game has Quickly Understood Controls | 425 |
+| This game has Quickly Understood Controls | 426 |
 | This game has Amazing Storytelling | 402 |
 | This game has Amazing Characters | 395 |
 | This game has Challenging Combat | 265 |
@@ -387,4 +387,4 @@ Diff (max vs sum): 43
 | 2023-07-30 | 4.76 | 571 | 4,165 |
 | 2023-07-31 | 4.76 | 578 | 4,179 |
 | 2023-08-01 | 4.76 | 582 | 4,198 |
-| 2023-08-02 | 4.75 | 582 | 4,201 |
+| 2023-08-02 | 4.75 | 582 | 4,202 |

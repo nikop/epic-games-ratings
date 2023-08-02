@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3243,
+  "EOS_Progressed": 3244,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3841,6 +3841,11 @@
       "Time": "2023-08-02T06:02:36.8554111+00:00",
       "NumProgressed": 3243,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-02T09:01:09.5024201+00:00",
+      "NumProgressed": 3244,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3860,7 +3865,7 @@
       "Name": "Ace Detective",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "AncestorsPride_13",
@@ -3892,7 +3897,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "CrowdPleaser",
@@ -3914,9 +3919,9 @@
       "ID": "Eureka_23",
       "SetID": "c4hee28",
       "Name": "Eureka",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1038
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -3924,7 +3929,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "ForAllAurai_8",
@@ -3940,7 +3945,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -3956,7 +3961,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "HouseofCards_19",
@@ -3996,7 +4001,7 @@
       "Name": "Magic is a science",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "MasterofAurai_20",
@@ -4076,7 +4081,7 @@
       "Name": "Tapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -4172,7 +4177,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2432
+      "UsersEstimate": 2433
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4187,15 +4192,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3243,
+      "Progressed": 3244,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-08-02T08:03:11.7985327+00:00",
+  "LastChanged_Achievements": "2023-08-02T09:01:09.5024198+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.443387+00:00",
-  "LastUpdate_Ratings": "2023-08-02T07:58:53.6033365+00:00",
-  "LastUpdate_Achievements": "2023-08-02T08:03:11.7986163+00:00"
+  "LastUpdate_Ratings": "2023-08-02T08:58:35.1393397+00:00",
+  "LastUpdate_Achievements": "2023-08-02T09:01:09.502491+00:00"
 }

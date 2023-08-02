@@ -91,46 +91,47 @@ Number of Ratings: 9,041  (23.09.2022)
 | Owlbear Necessities | 0.30% | ~552 |
 | Well Equipped | 0.30% | ~552 |
 | The Castle of a Thousand Vecnas | 0.30% | ~552 |
+| The Sanctum of the Sword | 0.30% | ~552 |
 | Who Lurks Below? | 0.30% | ~552 |
 | Xanathaaaaaaar! | 0.30% | ~552 |
-| The Forbidden City | 0.30% | ~653 |
-| Captured! | 0.30% | ~653 |
-| Force Grey Unleashed | 0.30% | ~653 |
-| Vajra's Guards | 0.30% | ~653 |
-| Sleuth It Out | 0.30% | ~653 |
-| A Grand Puzzle | 0.30% | ~653 |
-| Tomb of the Nine Gods | 0.30% | ~653 |
-| Werewolves in the Mist | 0.30% | ~653 |
-| Chatty Nobles | 0.30% | ~653 |
-| Modron Assistance | 0.30% | ~653 |
-| Haaave You Met Asmodeus? | 0.30% | ~653 |
-| Domesticated Owlbears | 0.30% | ~653 |
-| The Immortal Warrior | 0.30% | ~653 |
-| The Wyrmheart Mine | 0.30% | ~653 |
-| Trollskull Manor | 0.30% | ~653 |
-| Attack on the Manor | 0.30% | ~653 |
-| The Death Curse | 0.30% | ~653 |
-| Nimble Escape | 0.30% | ~653 |
-| Are Ya Chicken? | 0.30% | ~653 |
-| Useless Allies | 0.30% | ~653 |
-| Premature Betrayal | 0.30% | ~653 |
-| Mad Cow Disease | 0.30% | ~653 |
-| A Tale of Two Cities | 0.30% | ~653 |
-| The Dead Three | 0.30% | ~653 |
-| Flying Monkey Skulls of Doom | 0.30% | ~653 |
-| The Darkness Runs Deeper | 0.30% | ~653 |
-| Difficult Terrain | 0.30% | ~653 |
-| The Contagious Curse | 0.30% | ~653 |
-| Dinosaur Racing | 0.30% | ~653 |
+| The Forbidden City | 0.30% | ~654 |
+| Captured! | 0.30% | ~654 |
+| Force Grey Unleashed | 0.30% | ~654 |
+| Vajra's Guards | 0.30% | ~654 |
+| Sleuth It Out | 0.30% | ~654 |
+| A Grand Puzzle | 0.30% | ~654 |
+| Tomb of the Nine Gods | 0.30% | ~654 |
+| Werewolves in the Mist | 0.30% | ~654 |
+| Chatty Nobles | 0.30% | ~654 |
+| Modron Assistance | 0.30% | ~654 |
+| Haaave You Met Asmodeus? | 0.30% | ~654 |
+| Domesticated Owlbears | 0.30% | ~654 |
+| The Immortal Warrior | 0.30% | ~654 |
+| The Wyrmheart Mine | 0.30% | ~654 |
+| Trollskull Manor | 0.30% | ~654 |
+| Attack on the Manor | 0.30% | ~654 |
+| The Death Curse | 0.30% | ~654 |
+| Nimble Escape | 0.30% | ~654 |
+| Are Ya Chicken? | 0.30% | ~654 |
+| Useless Allies | 0.30% | ~654 |
+| Premature Betrayal | 0.30% | ~654 |
+| Mad Cow Disease | 0.30% | ~654 |
+| A Tale of Two Cities | 0.30% | ~654 |
+| The Dead Three | 0.30% | ~654 |
+| Flying Monkey Skulls of Doom | 0.30% | ~654 |
+| The Darkness Runs Deeper | 0.30% | ~654 |
+| Difficult Terrain | 0.30% | ~654 |
+| The Contagious Curse | 0.30% | ~654 |
+| Dinosaur Racing | 0.30% | ~654 |
 | The Giant's Bane Tavern | 0.30% | ~552 |
 | The Everlasting Rime | 0.30% | ~552 |
-| Close Escort | 0.30% | ~653 |
-| Constant Banditry | 0.30% | ~653 |
-| Lost in the Deep | 0.30% | ~653 |
-| Easily Distracted | 0.30% | ~653 |
-| Rude Welcome | 0.30% | ~653 |
-| The Templar's Camp | 0.30% | ~653 |
-| Rescue in the Jungle | 0.30% | ~653 |
+| Close Escort | 0.30% | ~654 |
+| Constant Banditry | 0.30% | ~654 |
+| Lost in the Deep | 0.30% | ~654 |
+| Easily Distracted | 0.30% | ~654 |
+| Rude Welcome | 0.30% | ~654 |
+| The Templar's Camp | 0.30% | ~654 |
+| Rescue in the Jungle | 0.30% | ~654 |
 | Willing to Sacrifice | 0.30% | ~552 |
 | Devilishly Cold | 0.30% | ~552 |
 | Tiny Treaty | 0.30% | ~552 |
@@ -156,7 +157,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Avernus in a Handbasket | 0.20% | ~368 |
 | Hands Off! | 0.20% | ~368 |
 | Weak Doesn't Mean Feeble | 0.20% | ~368 |
-| The Sanctum of the Sword | 0.20% | ~368 |
 | Get Back In The Castle | 0.20% | ~368 |
 | Checkmate | 0.20% | ~368 |
 | Vecna Out! | 0.20% | ~368 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,828 (Ranked 53)  
+Progressed: 217,836 (Ranked 53)  
 Completed: 2,142 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -623,7 +623,7 @@ Completed: 2,142 (0.98%) (Ranked 112)
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
-| 2023-08-02 | 217,828 | 2,142 |
+| 2023-08-02 | 217,836 | 2,142 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
 Sum: 30,854 (Ranked 38)  

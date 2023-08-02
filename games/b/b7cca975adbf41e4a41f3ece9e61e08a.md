@@ -5,10 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Last Night...Did We... | 100.00% | ~2 |
+| I Challenge You To Save More Money! | 50.00% | ~1 |
 | Hurrah! | 50.00% | ~1 |
+| FIRST LOVE | 50.00% | ~1 |
 | Are You Alright? | 50.00% | ~1 |
 | Go Clean up In Your Own Way | 50.00% | ~1 |
-| I Challenge You To Save More Money! | 0.00% | ~0 |
 | My Dear Love! | 0.00% | ~0 |
 | Doesn't Matter I'll Handle It | 0.00% | ~0 |
 | Off We Sail Tonight | 0.00% | ~0 |
@@ -37,7 +38,6 @@
 | Tall; Grande; Venti | 0.00% | ~0 |
 | Limerence | 0.00% | ~0 |
 | ONE PUNCH | 0.00% | ~0 |
-| FIRST LOVE | 0.00% | ~0 |
 | Drama CP: Reel to Real | 0.00% | ~0 |
 | David | 0.00% | ~0 |
 | That's So You | 0.00% | ~0 |

@@ -191,17 +191,17 @@
       "ID": "16",
       "SetID": "38ide56",
       "Name": "Break Time",
-      "Percentage": 33,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "17",
       "SetID": "38ide56",
       "Name": "Master of the Rope",
-      "Percentage": 33,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "18",
@@ -376,8 +376,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-08-02T08:05:54.5109654+00:00",
+  "LastChanged_Achievements": "2023-08-02T09:05:07.0637189+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:02.4264526+00:00",
-  "LastUpdate_Ratings": "2023-08-02T08:00:45.702659+00:00",
-  "LastUpdate_Achievements": "2023-08-02T08:05:54.510983+00:00"
+  "LastUpdate_Ratings": "2023-08-02T08:59:55.0992834+00:00",
+  "LastUpdate_Achievements": "2023-08-02T09:05:07.0637383+00:00"
 }

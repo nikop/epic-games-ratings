@@ -385,9 +385,9 @@
       "ID": "ACH_ASSIGN_RUIN_1",
       "SetID": "ajki3eh",
       "Name": "Devout",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH_ASSIGN_RUIN_2",
@@ -481,9 +481,9 @@
       "ID": "ACH_KILL_SUCC_2",
       "SetID": "ajki3eh",
       "Name": "Mandatory Sacrifice",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_KILL_SUCC_3",
@@ -537,9 +537,9 @@
       "ID": "ACH_UNLOCK_CHAPTER_1",
       "SetID": "ajki3eh",
       "Name": "The Love Martyr",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH_UNLOCK_CHAPTER_2",
@@ -625,8 +625,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-08-02T08:06:22.0212849+00:00",
+  "LastChanged_Achievements": "2023-08-02T09:05:28.1580175+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:03.2644945+00:00",
-  "LastUpdate_Ratings": "2023-08-02T07:59:12.9199832+00:00",
-  "LastUpdate_Achievements": "2023-08-02T08:06:22.021305+00:00"
+  "LastUpdate_Ratings": "2023-08-02T08:58:48.7120124+00:00",
+  "LastUpdate_Achievements": "2023-08-02T09:05:28.1580382+00:00"
 }

@@ -10,9 +10,9 @@
 | Indebted | 11.00% | ~13 |
 | Desert Rat | 9.00% | ~11 |
 | There's something in those trees | 8.00% | ~9 |
+| Good payer | 7.00% | ~8 |
 | Green Energy | 7.00% | ~8 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~7 |
-| Good payer | 6.00% | ~7 |
 | Great Producer | 6.00% | ~7 |
 | Health Care | 5.00% | ~6 |
 | Desert Power | 5.00% | ~6 |

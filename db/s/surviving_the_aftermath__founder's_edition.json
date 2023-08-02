@@ -1157,7 +1157,7 @@
   ],
   "EOS_Progressed": 7945,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9809,9 +9809,9 @@
       "ID": "32",
       "SetID": "8idi9ml",
       "Name": "Slimy yet Satisfying",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 79
     },
     {
       "ID": "33",
@@ -10089,8 +10089,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-02T01:50:50.0712664+00:00",
-  "LastChanged_Achievements": "2023-08-02T08:07:06.0631724+00:00",
+  "LastChanged_Achievements": "2023-08-02T09:06:01.332102+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:46.4035157+00:00",
-  "LastUpdate_Ratings": "2023-08-02T08:01:28.1812732+00:00",
-  "LastUpdate_Achievements": "2023-08-02T08:07:06.0632553+00:00"
+  "LastUpdate_Ratings": "2023-08-02T09:00:31.1975824+00:00",
+  "LastUpdate_Achievements": "2023-08-02T09:06:01.3321916+00:00"
 }

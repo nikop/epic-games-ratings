@@ -13,8 +13,8 @@
 | First defeat | 78.00% | ~161 |
 | Fitness professional | 76.00% | ~157 |
 | Depressed visitor | 76.00% | ~157 |
+| Employee of the week | 75.00% | ~154 |
 | Neurotrainer – power gainer! | 74.00% | ~152 |
-| Employee of the week | 74.00% | ~152 |
 | Your own amateur gym | 73.00% | ~150 |
 | Run K, run! | 71.00% | ~146 |
 | No bullying more | 67.00% | ~138 |
@@ -69,7 +69,7 @@
 | Anyone can resist | 27.00% | ~56 |
 | Silver’s past | 25.00% | ~52 |
 | Better cooking at home | 25.00% | ~52 |
-| The only right decision | 24.00% | ~49 |
+| The only right decision | 25.00% | ~52 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 206 (Ranked 281)  
 Completed: 7 (3.40%) (Ranked 59)  

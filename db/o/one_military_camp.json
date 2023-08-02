@@ -681,9 +681,9 @@
       "ID": "ACHIEVEMENT_ID_31",
       "SetID": "c504de6",
       "Name": "Good payer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_ID_32",
@@ -840,8 +840,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-08-02T08:05:13.704495+00:00",
+  "LastChanged_Achievements": "2023-08-02T09:04:35.3885725+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:38.0107995+00:00",
-  "LastUpdate_Ratings": "2023-08-02T07:59:58.1140487+00:00",
-  "LastUpdate_Achievements": "2023-08-02T08:05:13.7045265+00:00"
+  "LastUpdate_Ratings": "2023-08-02T08:59:21.9703741+00:00",
+  "LastUpdate_Achievements": "2023-08-02T09:04:35.388605+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~120,769 |
-| Where's that freaking Dwarf? | 47.00% | ~96,206 |
-| GG EZ | 28.00% | ~57,314 |
-| Speedrun | 26.00% | ~53,220 |
-| Déjà vu | 21.00% | ~42,986 |
-| Sock! SOCK! | 17.00% | ~34,798 |
-| DM intervention | 13.00% | ~26,610 |
-| Fireproof Wizardess | 10.00% | ~20,469 |
-| Livin' in a dwarven paradise | 8.00% | ~16,375 |
-| A beer, two curses, three companions | 8.00% | ~16,375 |
-| Way of the Wimp | 7.00% | ~14,329 |
-| The plot thickens... At the tavern | 5.00% | ~10,235 |
-| The Woman in the High Castle | 4.00% | ~8,188 |
-| I am the night | 4.00% | ~8,188 |
-| Team Building Exercise | 4.00% | ~8,188 |
+| Alt+F4 | 59.00% | ~120,782 |
+| Where's that freaking Dwarf? | 47.00% | ~96,217 |
+| GG EZ | 28.00% | ~57,320 |
+| Speedrun | 26.00% | ~53,226 |
+| Déjà vu | 21.00% | ~42,990 |
+| Sock! SOCK! | 17.00% | ~34,802 |
+| DM intervention | 13.00% | ~26,613 |
+| Fireproof Wizardess | 10.00% | ~20,472 |
+| Livin' in a dwarven paradise | 8.00% | ~16,377 |
+| A beer, two curses, three companions | 8.00% | ~16,377 |
+| Way of the Wimp | 7.00% | ~14,330 |
+| The plot thickens... At the tavern | 5.00% | ~10,236 |
+| The Woman in the High Castle | 4.00% | ~8,189 |
+| I am the night | 4.00% | ~8,189 |
+| Team Building Exercise | 4.00% | ~8,189 |
 | Shiny and Crôm | 3.00% | ~6,141 |
 | The demons' feast | 3.00% | ~6,141 |
 | Res Judicata | 3.00% | ~6,141 |
@@ -47,10 +47,10 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 1.00% | ~2,047 |
 | Lëgal Legend | 0.80% | ~1,638 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,433 |
-| Holistic Adventuring Party | 0.50% | ~1,023 |
-| Scholar of the Lands of Fangh | 0.50% | ~1,023 |
-| I'd rather... Just... Sing! | 0.50% | ~1,023 |
-| The number of the counting shalt be 7 | 0.50% | ~1,023 |
+| Holistic Adventuring Party | 0.50% | ~1,024 |
+| Scholar of the Lands of Fangh | 0.50% | ~1,024 |
+| I'd rather... Just... Sing! | 0.50% | ~1,024 |
+| The number of the counting shalt be 7 | 0.50% | ~1,024 |
 | Friendly fire | 0.40% | ~819 |
 | Insult to injury | 0.30% | ~614 |
 | We come in peace | 0.30% | ~614 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,693 (Ranked 55)  
+Progressed: 204,716 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 203,178 | 0 |
 | 2023-07-31 | 203,882 | 0 |
 | 2023-08-01 | 204,538 | 0 |
-| 2023-08-02 | 204,693 | 0 |
+| 2023-08-02 | 204,716 | 0 |
 ## Awards
 Max (Character Customization): 146  (Ranked 298)  
 Sum: 146 (Ranked 393)  

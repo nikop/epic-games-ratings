@@ -5,40 +5,40 @@ Rating: 4.44 (Ranked 646)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,532 |
-| Keep 'Em Coming | 74.00% | ~2,285 |
-| Snatched Out | 74.00% | ~2,285 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,069 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,502 |
+| Snatched Out | 74.00% | ~2,286 |
+| Keep 'Em Coming | 73.00% | ~2,255 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,070 |
 | Call Me Snake | 62.00% | ~1,915 |
 | Something Lurks Under The Hills | 60.00% | ~1,853 |
-| This Was No Papercut | 59.00% | ~1,822 |
-| The Shrink Hates Me | 56.00% | ~1,729 |
-| People Person | 55.00% | ~1,698 |
+| This Was No Papercut | 59.00% | ~1,823 |
+| The Shrink Hates Me | 56.00% | ~1,730 |
+| People Person | 55.00% | ~1,699 |
 | Use The Bumper, That's What It's For | 52.00% | ~1,606 |
 | First Steps Into Madness | 52.00% | ~1,606 |
 | Colonial Barrels | 50.00% | ~1,544 |
 | Harper's Hell | 44.00% | ~1,359 |
 | Making a Stand | 42.00% | ~1,297 |
 | Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,266 |
-| Where It All Begun | 38.00% | ~1,173 |
+| Where It All Begun | 38.00% | ~1,174 |
 | Recouped Investment | 37.00% | ~1,143 |
 | Omelette Du Fromage | 33.00% | ~1,019 |
-| The More The Merrier | 31.00% | ~957 |
-| Living Nightmare | 30.00% | ~926 |
+| The More The Merrier | 31.00% | ~958 |
+| Living Nightmare | 30.00% | ~927 |
 | The Darwin Era Was Here | 27.00% | ~834 |
 | Deep Into Insanity | 25.00% | ~772 |
 | The Passenger | 25.00% | ~772 |
 | Come on, You Wanna Live Forever? | 24.00% | ~741 |
-| The Spire | 22.00% | ~679 |
-| Stuff Of Nightmares | 21.00% | ~648 |
-| El Riesgo Siempre Vive | 21.00% | ~648 |
+| Stuff Of Nightmares | 21.00% | ~649 |
+| El Riesgo Siempre Vive | 21.00% | ~649 |
+| The Spire | 21.00% | ~649 |
 | One For Every Occasion | 18.00% | ~556 |
 | Frontliner | 18.00% | ~556 |
 | The Cable Guy | 18.00% | ~556 |
 | Excavating The Truth | 18.00% | ~556 |
 | Abysmal Horrors | 18.00% | ~556 |
 | Bandage Lover | 17.00% | ~525 |
-| Regicide | 13.00% | ~401 |
+| Regicide | 13.00% | ~402 |
 | Flawless Victory | 11.00% | ~340 |
 | This Went Smoothly | 11.00% | ~340 |
 | Heavy Steps | 11.00% | ~340 |
@@ -51,7 +51,7 @@ Rating: 4.44 (Ranked 646)
 | Perfect Organism | 0.60% | ~19 |
 | This Ain't No Picnic | 0.40% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,088 (Ranked 155)  
+Progressed: 3,089 (Ranked 155)  
 Completed: 2 (0.06%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,6 +99,7 @@ Completed: 2 (0.06%) (Ranked 207)
 | 2023-07-30 | 3,080 | 2 |
 | 2023-07-31 | 3,083 | 2 |
 | 2023-08-01 | 3,088 | 2 |
+| 2023-08-02 | 3,089 | 2 |
 ## Awards
 Max (Great Boss Battles): 22  (Ranked 490)  
 Sum: 22 (Ranked 492)  

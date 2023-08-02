@@ -34,7 +34,7 @@
 | Total Walrus | 1.00% | ~2 |
 | True Victory | 1.00% | ~2 |
 | Victory That Is Even More True | 1.00% | ~2 |
-| What Even Are You? | 0.70% | ~1 |
+| What Even Are You? | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 151 (Ranked 298)  
 Completed: 1 (0.66%) (Ranked 122)  

@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What took you so long? | 87.00% | ~34 |
-| Welcome to the Rumbly Lands! | 87.00% | ~34 |
-| Time to Bash Some Heads! | 79.00% | ~31 |
-| Shiny! | 69.00% | ~27 |
-| Deep in the Mounds | 67.00% | ~26 |
+| What took you so long? | 90.00% | ~35 |
+| Welcome to the Rumbly Lands! | 90.00% | ~35 |
+| Time to Bash Some Heads! | 82.00% | ~32 |
+| Shiny! | 72.00% | ~28 |
+| Deep in the Mounds | 69.00% | ~27 |
 | Smeltastic! | 36.00% | ~14 |
 | Locked Away | 33.00% | ~13 |
 | A Little Renovating | 28.00% | ~11 |

@@ -6,30 +6,30 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~20,963 |
-| A thief's beginning | 9.00% | ~17,152 |
-| Thorough | 9.00% | ~17,152 |
-| Rollin' | 8.00% | ~15,246 |
-| Tanuki Time | 8.00% | ~15,246 |
-| Disguised | 7.00% | ~13,340 |
-| Jonin | 7.00% | ~13,340 |
-| Rescue Takuma | 7.00% | ~13,340 |
-| Stoned Ox | 7.00% | ~13,340 |
-| Chunin | 6.00% | ~11,435 |
-| Happy Planning | 6.00% | ~11,435 |
-| Ice Ice Yuki | 6.00% | ~11,435 |
-| Yabu | 6.00% | ~11,435 |
-| Flying Rocks | 5.00% | ~9,529 |
-| Mugen Unchained | 5.00% | ~9,529 |
-| Warzone | 5.00% | ~9,529 |
-| Gear up | 4.00% | ~7,623 |
-| Happy little accidents | 4.00% | ~7,623 |
-| Okkoto | 4.00% | ~7,623 |
-| Prisoners | 4.00% | ~7,623 |
-| Too Early | 4.00% | ~7,623 |
-| Noboru | 3.00% | ~5,717 |
-| Still Rollin' | 3.00% | ~5,717 |
-| Stoned | 3.00% | ~5,717 |
+| Genin | 11.00% | ~20,965 |
+| A thief's beginning | 9.00% | ~17,153 |
+| Thorough | 9.00% | ~17,153 |
+| Rollin' | 8.00% | ~15,247 |
+| Tanuki Time | 8.00% | ~15,247 |
+| Disguised | 7.00% | ~13,342 |
+| Jonin | 7.00% | ~13,342 |
+| Rescue Takuma | 7.00% | ~13,342 |
+| Stoned Ox | 7.00% | ~13,342 |
+| Chunin | 6.00% | ~11,436 |
+| Happy Planning | 6.00% | ~11,436 |
+| Ice Ice Yuki | 6.00% | ~11,436 |
+| Yabu | 6.00% | ~11,436 |
+| Flying Rocks | 5.00% | ~9,530 |
+| Mugen Unchained | 5.00% | ~9,530 |
+| Warzone | 5.00% | ~9,530 |
+| Gear up | 4.00% | ~7,624 |
+| Happy little accidents | 4.00% | ~7,624 |
+| Okkoto | 4.00% | ~7,624 |
+| Prisoners | 4.00% | ~7,624 |
+| Too Early | 4.00% | ~7,624 |
+| Noboru | 3.00% | ~5,718 |
+| Still Rollin' | 3.00% | ~5,718 |
+| Stoned | 3.00% | ~5,718 |
 | Atheist Ox | 2.00% | ~3,812 |
 | It's raining men | 2.00% | ~3,812 |
 | Old Man | 2.00% | ~3,812 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~191 |
 | Release the Kraken | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 190,576 (Ranked 59)  
+Progressed: 190,593 (Ranked 59)  
 Completed: 65 (0.03%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 65 (0.03%) (Ranked 222)
 | 2023-07-30 | 190,018 | 64 |
 | 2023-07-31 | 190,283 | 65 |
 | 2023-08-01 | 190,508 | 65 |
-| 2023-08-02 | 190,576 | 65 |
+| 2023-08-02 | 190,593 | 65 |
 ## Awards
 Max (Great for Beginners): 559  (Ranked 184)  
 Sum: 4,717 (Ranked 133)  

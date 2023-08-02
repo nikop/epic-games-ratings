@@ -10,8 +10,8 @@ Number of Ratings: 25  (23.09.2022)
 | I did it! | 94.00% | ~564 |
 | Learner | 92.00% | ~552 |
 | Economical | 92.00% | ~552 |
-| Devout | 89.00% | ~534 |
-| The Love Martyr | 87.00% | ~522 |
+| Devout | 90.00% | ~540 |
+| The Love Martyr | 88.00% | ~528 |
 | Frugal | 85.00% | ~510 |
 | Dilligent | 83.00% | ~498 |
 | I... I did it? | 81.00% | ~486 |
@@ -24,8 +24,8 @@ Number of Ratings: 25  (23.09.2022)
 | Devoted | 42.00% | ~252 |
 | The Farmer | 39.00% | ~234 |
 | Ever After | 37.00% | ~222 |
+| Mandatory Sacrifice | 29.00% | ~174 |
 | Loyal | 28.00% | ~168 |
-| Mandatory Sacrifice | 28.00% | ~168 |
 | The Collector | 24.00% | ~144 |
 | All Doors Open | 20.00% | ~120 |
 | Faithful | 11.00% | ~66 |

@@ -9,13 +9,13 @@ Rating: 4.55 (Ranked 482)
 | Sputnik 2049 | 21.00% | ~630 |
 | Infinite Growth... | 20.00% | ~600 |
 | Without Breaking Some Eggs... | 19.00% | ~570 |
+| Space Society | 14.00% | ~420 |
 | A Thousand Strong | 14.00% | ~420 |
 | Ready for a New World | 14.00% | ~420 |
-| Space Society | 13.00% | ~390 |
 | Permanent Redesigns | 12.00% | ~360 |
+| Fully Recycled | 11.00% | ~330 |
 | The Ship of Theseus | 11.00% | ~330 |
 | Guy de Borderlands | 10.00% | ~300 |
-| Fully Recycled | 10.00% | ~300 |
 | Ain't Nobody Got Time for That | 10.00% | ~300 |
 | Hope Seeker | 10.00% | ~300 |
 | Exceeding Capacity | 9.00% | ~270 |

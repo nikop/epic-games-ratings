@@ -61,7 +61,7 @@
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 354 (Ranked 244)  
-Completed: 2 (0.56%) (Ranked 131)  
+Completed: 2 (0.56%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

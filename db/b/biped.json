@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4918,
+  "EOS_Progressed": 4919,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7621,6 +7621,11 @@
       "Time": "2023-08-02T08:08:13.7187274+00:00",
       "NumProgressed": 4918,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T09:06:52.2403671+00:00",
+      "NumProgressed": 4919,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -7696,7 +7701,7 @@
       "Name": "Cactus Vally",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "4",
@@ -7720,7 +7725,7 @@
       "Name": "High Treetops",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "7",
@@ -7751,7 +7756,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4918,
+      "Progressed": 4919,
       "Completed": 0
     }
   ],
@@ -7759,8 +7764,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-08-02T08:08:13.7187269+00:00",
+  "LastChanged_Achievements": "2023-08-02T09:06:52.2403666+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.1828699+00:00",
-  "LastUpdate_Ratings": "2023-08-02T07:59:00.9984942+00:00",
-  "LastUpdate_Achievements": "2023-08-02T08:08:13.7187717+00:00"
+  "LastUpdate_Ratings": "2023-08-02T08:58:40.9889149+00:00",
+  "LastUpdate_Achievements": "2023-08-02T09:06:52.2404149+00:00"
 }

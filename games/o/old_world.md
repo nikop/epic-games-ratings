@@ -30,6 +30,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 0.90% | ~119 |
 | Learned | 0.90% | ~119 |
 | Judaism | 0.90% | ~119 |
+| Greek Paganism | 0.90% | ~119 |
 | Naming Landmarks | 0.90% | ~119 |
 | Ambitious | 0.80% | ~106 |
 | Magnificent | 0.80% | ~106 |
@@ -39,22 +40,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 0.80% | ~106 |
 | Lighthouse | 0.80% | ~106 |
 | Pyramids | 0.80% | ~106 |
+| Christianity | 0.80% | ~106 |
 | Babylonian Paganism | 0.80% | ~106 |
-| Greek Paganism | 0.80% | ~106 |
+| Roman Paganism | 0.80% | ~106 |
 | Zoroastrianism | 0.80% | ~106 |
 | Brilliant | 0.70% | ~93 |
 | Fountainhead | 0.70% | ~93 |
 | Wise | 0.70% | ~93 |
 | Strong Cities | 0.70% | ~93 |
+| Artisans | 0.70% | ~93 |
 | Great Ziggurat | 0.70% | ~93 |
 | Learn to Play 1 | 0.70% | ~93 |
-| Christianity | 0.70% | ~93 |
 | Carthaginian Paganism | 0.70% | ~93 |
-| Roman Paganism | 0.70% | ~93 |
 | Regicide | 0.60% | ~79 |
 | Great | 0.60% | ~79 |
 | Just Difficulty | 0.60% | ~79 |
-| Artisans | 0.60% | ~79 |
 | Furious Family | 0.60% | ~79 |
 | Colossus | 0.60% | ~79 |
 | Musaeum | 0.60% | ~79 |
@@ -83,6 +83,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.40% | ~53 |
 | Temple of Solomon | 0.40% | ~53 |
 | Adur Burzen-Mihr | 0.40% | ~53 |
+| Power to the People | 0.40% | ~53 |
 | Persian Paganism | 0.40% | ~53 |
 | Building Wonders | 0.40% | ~53 |
 | Legalism | 0.40% | ~53 |
@@ -108,13 +109,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.30% | ~40 |
 | Babylonia | 0.30% | ~40 |
 | Carthage | 0.30% | ~40 |
-| Power to the People | 0.30% | ~40 |
 | Assyrian Paganism | 0.30% | ~40 |
 | Economic Reform | 0.30% | ~40 |
 | Dualism | 0.30% | ~40 |
 | Redemption | 0.30% | ~40 |
 | Revelation | 0.30% | ~40 |
 | Cimmerian Archer | 0.30% | ~40 |
+| Kushite Cavalry | 0.30% | ~40 |
 | Legionary | 0.30% | ~40 |
 | Ambition Victory | 0.30% | ~40 |
 | Win a Single Player Game | 0.30% | ~40 |
@@ -131,6 +132,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.20% | ~26 |
 | Learn to Play 4 | 0.20% | ~26 |
 | Egypt | 0.20% | ~26 |
+| Persia | 0.20% | ~26 |
 | Rome | 0.20% | ~26 |
 | Old World Order | 0.20% | ~26 |
 | One True Faith | 0.20% | ~26 |
@@ -143,7 +145,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.20% | ~26 |
 | Veneration | 0.20% | ~26 |
 | Cataphract Archer | 0.20% | ~26 |
-| Kushite Cavalry | 0.20% | ~26 |
 | Turreted Elephant | 0.20% | ~26 |
 | All Nations | 0.20% | ~26 |
 | No Undo | 0.20% | ~26 |
@@ -233,7 +234,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Realistic Mortality | 0.10% | ~13 |
 | Assyria | 0.10% | ~13 |
 | Hatti | 0.10% | ~13 |
-| Persia | 0.10% | ~13 |
 | Pantheon of Gods | 0.10% | ~13 |
 | Apadana in Parsa | 0.10% | ~13 |
 | Play a 1-v-1 Game | 0.10% | ~13 |

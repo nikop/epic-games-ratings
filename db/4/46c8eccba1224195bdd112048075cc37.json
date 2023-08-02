@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119,
+  "EOS_Progressed": 120,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -541,6 +541,11 @@
       "Time": "2023-08-02T07:06:39.7530757+00:00",
       "NumProgressed": 119,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T09:05:35.8607057+00:00",
+      "NumProgressed": 120,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 20,
@@ -566,17 +571,17 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "CollectCurses",
       "SetID": "7g1kpc8",
       "Name": "Unlucky",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "CollectGold",
@@ -606,7 +611,7 @@
       "ID": "FirstBlood",
       "SetID": "7g1kpc8",
       "Name": "First Blood",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
       "UsersEstimate": 108
     },
@@ -616,7 +621,7 @@
       "Name": "Scull",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "FirstStep",
@@ -624,7 +629,7 @@
       "Name": "Start of the Path",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "FourthBoss",
@@ -672,7 +677,7 @@
       "Name": "Persistence",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ReturnShell",
@@ -688,7 +693,7 @@
       "Name": "Spider",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "TenLevel",
@@ -711,14 +716,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 119,
+      "Progressed": 120,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-08-02T08:06:32.1351441+00:00",
+  "LastChanged_Achievements": "2023-08-02T09:05:35.8607048+00:00",
   "LastUpdate_AppInfo": "2023-07-31T09:57:13.2028801+00:00",
-  "LastUpdate_Ratings": "2023-08-02T07:57:58.4689902+00:00",
-  "LastUpdate_Achievements": "2023-08-02T08:06:32.1351586+00:00"
+  "LastUpdate_Ratings": "2023-08-02T08:57:52.0883616+00:00",
+  "LastUpdate_Achievements": "2023-08-02T09:05:35.8607216+00:00"
 }

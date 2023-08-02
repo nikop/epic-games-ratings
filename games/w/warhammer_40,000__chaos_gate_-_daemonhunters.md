@@ -15,8 +15,8 @@ Number of Ratings: 371  (23.09.2022)
 | An Ill Omen | 2.00% | ~62 |
 | Friendly Fire | 1.00% | ~31 |
 | Bloodless | 1.00% | ~31 |
+| A Foul Creche | 0.90% | ~28 |
 | Surgical Excision | 0.80% | ~25 |
-| A Foul Creche | 0.80% | ~25 |
 | Honoured Battle-Brother | 0.70% | ~22 |
 | The Emperor Protects | 0.60% | ~19 |
 | Nemesis Master | 0.50% | ~16 |
