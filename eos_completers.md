@@ -11,7 +11,7 @@
 | 9 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 12 | [Island Cities](games/i/island_cities.md) | 18.49% |
+| 12 | [Island Cities](games/i/island_cities.md) | 18.45% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 17.98% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.11% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.92% |
@@ -29,7 +29,7 @@
 | 26 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
 | 28 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.43% |
 | 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
-| 30 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.66% |
+| 30 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.63% |
 | 31 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 32 | [Smelter](games/s/smelter.md) | 7.89% |
 | 33 | [Ravenlok](games/r/ravenlok.md) | 7.35% |
@@ -37,7 +37,7 @@
 | 35 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.86% |
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.86% |
-| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.77% |
+| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.75% |
 | 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.36% |
 | 40 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 41 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.12% |
@@ -58,8 +58,8 @@
 | 56 | [ZZT!](games/z/zzt!.md) | 3.67% |
 | 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 58 | [Doodle God](games/d/doodle_god.md) | 3.49% |
-| 59 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.41% |
-| 60 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
+| 59 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
+| 59 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.40% |
 | 61 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.35% |
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.33% |
 | 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.13% |
@@ -396,6 +396,7 @@
 | 247 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 0.00% |
 | 247 | [NHRA Championship Drag Racing - Speed For All](games/n/nhra_championship_drag_racing_-_speed_for_all.md) | 0.00% |
 | 247 | [Nickelodeon All-Star Brawl](games/n/nickelodeon_all-star_brawl.md) | 0.00% |
+| 247 | [No Son Of Mine](games/1/1c916c48d92b4e8d9f6fed2816f5e464.md) | 0.00% |
 | 247 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 0.00% |
 | 247 | [NOOB - The Factionless](games/n/noob_-_the_factionless.md) | 0.00% |
 | 247 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 0.00% |
