@@ -36,6 +36,6 @@
 | [GRIT](games/g/grit.md) | 2023-05-08 | - |  | 4.65 | 0 |
 | [Cards of Ethernity](games/c/cards_of_ethernity.md) | 2023-04-26 | - |  | - | 0 |
 | [Chainmonsters](games/c/chainmonsters.md) | 2023-03-08 | - |  | 3.68 | 0 |
-| [Star Atlas](games/s/star_atlas.md) | 2022-12-31 | - |  | 4.82 | 22 |
+| [Star Atlas](games/s/star_atlas.md) | 2022-12-31 | - |  | 4.83 | 22 |
 | [STG Football](games/s/stg_football.md) | 2022-10-26 | - |  | 4.45 | 41 |
 | [Blankos Block Party](games/b/blankos_block_party.md) | 2022-09-15 | - |  | 4.21 | 31 |
