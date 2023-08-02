@@ -6,21 +6,21 @@
 | ---- | ---------- | ----- |
 | Path of purity | 84.00% | ~80 |
 | Witch's duty | 59.00% | ~56 |
-| First time, yes? | 55.00% | ~52 |
-| A good start | 54.00% | ~51 |
-| Runes collector | 52.00% | ~49 |
+| A good start | 56.00% | ~53 |
+| First time, yes? | 56.00% | ~53 |
+| Runes collector | 54.00% | ~51 |
 | Skilled rider | 47.00% | ~45 |
 | Kind heart | 47.00% | ~45 |
-| Devil's dozen | 28.00% | ~27 |
-| It doesn't work like that | 23.00% | ~22 |
-| This is just the beginning... | 18.00% | ~17 |
+| Devil's dozen | 29.00% | ~28 |
+| It doesn't work like that | 24.00% | ~23 |
+| This is just the beginning... | 19.00% | ~18 |
+| Unstoppable Curiosity | 18.00% | ~17 |
 | A small victory | 18.00% | ~17 |
-| Unstoppable Curiosity | 17.00% | ~16 |
 | Time is on my side | 12.00% | ~11 |
 | Gold Digger | 12.00% | ~11 |
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95 (Ranked 318)  
+Progressed: 95 (Ranked 319)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |

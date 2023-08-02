@@ -7,10 +7,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,714 |
-| Beast Intentions | 3.00% | ~6,535 |
+| Beast Intentions | 3.00% | ~6,536 |
 | Maddening | 2.00% | ~4,357 |
-| The Silken Swamp | 1.00% | ~2,178 |
-| Supply Run | 1.00% | ~2,178 |
+| The Silken Swamp | 1.00% | ~2,179 |
+| Supply Run | 1.00% | ~2,179 |
 | Rocky Reception | 1.00% | ~1,841 |
 | Rock and Roll | 1.00% | ~1,841 |
 | Vecna Lives! | 0.90% | ~1,657 |
@@ -55,15 +55,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.50% | ~921 |
 | Krux's Speed Run | 0.50% | ~921 |
 | Upholding the Law | 0.40% | ~871 |
-| Hither of the Feywild | 0.40% | ~736 |
-| Speeds of Destruction | 0.40% | ~736 |
+| Hither of the Feywild | 0.40% | ~737 |
+| Speeds of Destruction | 0.40% | ~737 |
 | On the Hunt | 0.40% | ~871 |
-| Best Thay Ever | 0.40% | ~736 |
-| A Demi-god's Defender | 0.40% | ~736 |
+| Best Thay Ever | 0.40% | ~737 |
+| A Demi-god's Defender | 0.40% | ~737 |
 | Homecoming | 0.40% | ~871 |
 | The Lost Heir of Omu | 0.40% | ~871 |
-| No One Can Hear You Scream | 0.40% | ~736 |
-| Welcome to the Rock | 0.40% | ~736 |
+| No One Can Hear You Scream | 0.40% | ~737 |
+| Welcome to the Rock | 0.40% | ~737 |
 | Wisdom Check | 0.40% | ~871 |
 | Invisible Shadows | 0.40% | ~871 |
 | Family Entanglements | 0.40% | ~871 |
@@ -79,10 +79,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.40% | ~871 |
 | Overdue Rendezvous | 0.40% | ~871 |
 | Pure Energy | 0.40% | ~871 |
-| Luigi After Hours | 0.40% | ~736 |
-| Electric Mayhem | 0.40% | ~736 |
-| 3,720 to 1 | 0.40% | ~736 |
-| Animated Giff | 0.40% | ~736 |
+| Luigi After Hours | 0.40% | ~737 |
+| Electric Mayhem | 0.40% | ~737 |
+| 3,720 to 1 | 0.40% | ~737 |
+| Animated Giff | 0.40% | ~737 |
 | Nightmare Rats! | 0.30% | ~552 |
 | The Prince of a Thousand Enemies | 0.30% | ~552 |
 | Downfall | 0.30% | ~552 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,849 (Ranked 53)  
+Progressed: 217,858 (Ranked 53)  
 Completed: 2,142 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -623,7 +623,7 @@ Completed: 2,142 (0.98%) (Ranked 112)
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
-| 2023-08-02 | 217,849 | 2,142 |
+| 2023-08-02 | 217,858 | 2,142 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
 Sum: 30,856 (Ranked 38)  

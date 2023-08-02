@@ -406,9 +406,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7366,
+  "EOS_Progressed": 7367,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -6751,6 +6751,11 @@
       "Time": "2023-08-02T11:06:25.6059343+00:00",
       "NumProgressed": 7366,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-02T12:06:50.379876+00:00",
+      "NumProgressed": 7367,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 29,
@@ -6762,7 +6767,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6114
+      "UsersEstimate": 6115
     },
     {
       "ID": "ACH02",
@@ -6786,7 +6791,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "ACH05",
@@ -6834,7 +6839,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "ACH11",
@@ -6993,7 +6998,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7366,
+      "Progressed": 7367,
       "Completed": 42
     }
   ],
@@ -7001,8 +7006,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-01T02:03:47.9919957+00:00",
-  "LastChanged_Achievements": "2023-08-02T11:06:25.6059337+00:00",
+  "LastChanged_Achievements": "2023-08-02T12:06:50.3798756+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:45.6186895+00:00",
-  "LastUpdate_Ratings": "2023-08-02T10:58:47.6780673+00:00",
-  "LastUpdate_Achievements": "2023-08-02T11:06:25.6059961+00:00"
+  "LastUpdate_Ratings": "2023-08-02T11:59:12.9099091+00:00",
+  "LastUpdate_Achievements": "2023-08-02T12:06:50.3799523+00:00"
 }

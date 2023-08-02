@@ -5,15 +5,15 @@ Rating: 4.25 (Ranked 818)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,553 |
-| Don't I Know You...? | 76.00% | ~1,475 |
+| Rigged And Ready | 80.00% | ~1,554 |
+| Don't I Know You...? | 76.00% | ~1,476 |
 | Jailbreak | 65.00% | ~1,262 |
 | Suited and Booted | 38.00% | ~738 |
-| HEADSHOT! | 37.00% | ~718 |
-| Sleeping With The Fishes | 35.00% | ~679 |
-| Overheated | 30.00% | ~582 |
-| High Performance | 30.00% | ~582 |
-| Powered Up | 28.00% | ~543 |
+| HEADSHOT! | 37.00% | ~719 |
+| Sleeping With The Fishes | 35.00% | ~680 |
+| Overheated | 30.00% | ~583 |
+| High Performance | 30.00% | ~583 |
+| Powered Up | 28.00% | ~544 |
 | Studied The Blade | 24.00% | ~466 |
 | Home Invasion | 22.00% | ~427 |
 | Luminary | 22.00% | ~427 |
@@ -23,8 +23,8 @@ Rating: 4.25 (Ranked 818)
 | Shocking | 20.00% | ~388 |
 | Court Martial | 19.00% | ~369 |
 | Unforeseeable Consequences | 19.00% | ~369 |
-| Dead Again | 18.00% | ~349 |
-| Clean Cut | 18.00% | ~349 |
+| Dead Again | 18.00% | ~350 |
+| Clean Cut | 18.00% | ~350 |
 | Full Arsenal | 17.00% | ~330 |
 | Can't Trust Banks | 15.00% | ~291 |
 | Mommy Dearest | 13.00% | ~252 |
@@ -42,9 +42,9 @@ Rating: 4.25 (Ranked 818)
 | Denying Prophecy | 8.00% | ~155 |
 | Following In Their Footsteps | 8.00% | ~155 |
 | Reverse Engineering | 7.00% | ~136 |
-| Remote Surgery | 6.00% | ~116 |
-| Turbo Booster | 6.00% | ~116 |
-| Squid Pro Quo | 6.00% | ~116 |
+| Remote Surgery | 6.00% | ~117 |
+| Turbo Booster | 6.00% | ~117 |
+| Squid Pro Quo | 6.00% | ~117 |
 | Reborn | 5.00% | ~97 |
 | Counter-Sniper | 5.00% | ~97 |
 | Shrimp Cocktail | 5.00% | ~97 |
@@ -63,8 +63,8 @@ Rating: 4.25 (Ranked 818)
 | Box Office Smash | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,941 (Ranked 168)  
-Completed: 10 (0.52%) (Ranked 135)  
+Progressed: 1,942 (Ranked 168)  
+Completed: 10 (0.51%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -148,7 +148,7 @@ Completed: 10 (0.52%) (Ranked 135)
 | 2023-07-30 | 1,923 | 10 |
 | 2023-07-31 | 1,929 | 10 |
 | 2023-08-01 | 1,937 | 10 |
-| 2023-08-02 | 1,941 | 10 |
+| 2023-08-02 | 1,942 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

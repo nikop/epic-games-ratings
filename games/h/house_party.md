@@ -31,11 +31,11 @@ Number of Ratings: 177  (23.09.2022)
 | Benedict Brahrnold | 0.40% | ~24 |
 | I'll Be Back | 0.40% | ~24 |
 | Casanova | 0.40% | ~24 |
+| Love Conquers All | 0.40% | ~24 |
 | Now It's a Party! | 0.40% | ~24 |
 | Stephanie | 0.40% | ~24 |
 | Te Amo Lety | 0.40% | ~24 |
 | Ashley | 0.30% | ~18 |
-| Love Conquers All | 0.30% | ~18 |
 | Rachael | 0.30% | ~18 |
 | Good Ol' Days | 0.30% | ~18 |
 | Beyond the Call of Dude-y | 0.20% | ~12 |

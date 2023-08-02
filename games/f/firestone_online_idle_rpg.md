@@ -6,8 +6,8 @@ Rating: 4.04 (Ranked 917)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~1,628 |
-| World Map | 79.00% | ~1,382 |
-| Temple of Eternals | 56.00% | ~980 |
+| World Map | 79.00% | ~1,383 |
+| Temple of Eternals | 56.00% | ~981 |
 | Prestigious | 53.00% | ~928 |
 | Fellowship Power | 41.00% | ~718 |
 | Guild Power | 25.00% | ~438 |
@@ -27,8 +27,8 @@ Rating: 4.04 (Ranked 917)
 | Natural Talent | 13.00% | ~228 |
 | Superior | 13.00% | ~228 |
 | The Unstoppable | 13.00% | ~228 |
-| Scientist | 11.00% | ~192 |
-| The power of Awakening | 11.00% | ~192 |
+| Scientist | 11.00% | ~193 |
+| The power of Awakening | 11.00% | ~193 |
 | Challenger | 10.00% | ~175 |
 | Daily Quest Completionist | 10.00% | ~175 |
 | Doing My Part | 10.00% | ~175 |
@@ -60,8 +60,8 @@ Rating: 4.04 (Ranked 917)
 | Background Story | 4.00% | ~70 |
 | Legendary | 4.00% | ~70 |
 | The Alchemist | 4.00% | ~70 |
-| Ebony Jungle Liberator | 3.00% | ~52 |
-| What lies behind the bush | 3.00% | ~52 |
+| Ebony Jungle Liberator | 3.00% | ~53 |
+| What lies behind the bush | 3.00% | ~53 |
 | Gear Enchanting | 1.00% | ~18 |
 | Guardian Master | 1.00% | ~18 |
 | Mythic Power | 1.00% | ~18 |
@@ -69,7 +69,7 @@ Rating: 4.04 (Ranked 917)
 | Cauldron Liberator | 0.80% | ~14 |
 | Transmute | 0.80% | ~14 |
 | Titan Power | 0.70% | ~12 |
-| Tree of Life | 0.60% | ~10 |
+| Tree of Life | 0.60% | ~11 |
 | Beast War Machines | 0.50% | ~9 |
 | Enhanced War Machines | 0.50% | ~9 |
 | Pokerface | 0.50% | ~9 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 917)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,750 (Ranked 172)  
+Progressed: 1,751 (Ranked 172)  
 Completed: 2 (0.11%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,6 +185,7 @@ Completed: 2 (0.11%) (Ranked 192)
 | 2023-07-30 | 1,741 | 1 |
 | 2023-07-31 | 1,749 | 2 |
 | 2023-08-01 | 1,750 | 2 |
+| 2023-08-02 | 1,751 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

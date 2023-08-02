@@ -12,7 +12,7 @@
 | Dinner Dash | 39.00% | ~121 |
 | Need a Consult | 36.00% | ~111 |
 | It's Technical | 36.00% | ~111 |
-| Upgrade Unlock | 34.00% | ~105 |
+| Upgrade Unlock | 35.00% | ~108 |
 | Delegate Maintenance | 34.00% | ~105 |
 | Proper Walls | 32.00% | ~99 |
 | Destination Destiny | 29.00% | ~90 |
@@ -31,9 +31,9 @@
 | Get Electrified | 19.00% | ~59 |
 | Rehab Expert | 17.00% | ~53 |
 | Tasty Profits | 17.00% | ~53 |
+| Established Fame | 16.00% | ~49 |
 | Cashflow Chief | 16.00% | ~49 |
 | Under One Roof | 15.00% | ~46 |
-| Established Fame | 15.00% | ~46 |
 | Starred Dining | 15.00% | ~46 |
 | Terrifically Trashed | 14.00% | ~43 |
 | Smooth Operator | 13.00% | ~40 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 309 (Ranked 254)  
+Progressed: 309 (Ranked 255)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |

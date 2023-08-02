@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 419,
+  "EOS_Progressed": 420,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -380,6 +380,11 @@
       "Time": "2023-08-01T21:00:24.873225+00:00",
       "NumProgressed": 419,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-02T12:03:13.8277907+00:00",
+      "NumProgressed": 420,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -397,9 +402,9 @@
       "ID": "assemble-team2",
       "SetID": "799afm0",
       "Name": "Brain and Brawn",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "assemble-team3",
@@ -447,7 +452,7 @@
       "Name": "Party",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "different-items2",
@@ -527,7 +532,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "finished-quest-secret",
@@ -541,9 +546,9 @@
       "ID": "finished-quest-sword",
       "SetID": "799afm0",
       "Name": "Holy Vengeance",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "get-all",
@@ -607,7 +612,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "win-first-level",
@@ -615,7 +620,7 @@
       "Name": "Good start!",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "win-koth-fights1",
@@ -670,7 +675,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 419,
+      "Progressed": 420,
       "Completed": 1
     }
   ],
@@ -678,8 +683,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-08-02T11:03:14.2375528+00:00",
+  "LastChanged_Achievements": "2023-08-02T12:03:13.8277903+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:34.0808187+00:00",
-  "LastUpdate_Ratings": "2023-08-02T10:59:50.4666065+00:00",
-  "LastUpdate_Achievements": "2023-08-02T11:03:14.2375881+00:00"
+  "LastUpdate_Ratings": "2023-08-02T12:00:28.4461298+00:00",
+  "LastUpdate_Achievements": "2023-08-02T12:03:13.8278204+00:00"
 }

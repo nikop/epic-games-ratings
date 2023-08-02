@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 354,
+  "EOS_Progressed": 355,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -331,6 +331,11 @@
       "Time": "2023-08-01T15:05:27.0798469+00:00",
       "NumProgressed": 354,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-02T12:05:35.3225386+00:00",
+      "NumProgressed": 355,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -342,7 +347,7 @@
       "Name": "Brace for impact!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -358,7 +363,7 @@
       "Name": "Fore!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "CATAPULT_THROW",
@@ -366,7 +371,7 @@
       "Name": "Car-Tapult",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "COIN_COLLECT",
@@ -380,9 +385,9 @@
       "ID": "COLLECT_1_CAR",
       "SetID": "20koof9",
       "Name": "Baby\u0027s First Car",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 106
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -398,7 +403,7 @@
       "Name": "High Roller",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "COLLECT_ALL_CARS",
@@ -454,7 +459,7 @@
       "Name": "First Come, First Serve",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -462,7 +467,7 @@
       "Name": "To and Fro",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -518,15 +523,15 @@
       "Name": "Anger Issues",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "HIT_50_PUSHABLES",
       "SetID": "20koof9",
       "Name": "Pushover",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 106
     },
     {
       "ID": "HIT_ALIEN",
@@ -534,7 +539,7 @@
       "Name": "Earth Defense Force",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "HIT_BIG_SNOWMAN",
@@ -542,7 +547,7 @@
       "Name": "Take that Frosty!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -550,7 +555,7 @@
       "Name": "Insurance fraud",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -582,7 +587,7 @@
       "Name": "Your Highness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "LEFT_LEVEL",
@@ -590,7 +595,7 @@
       "Name": "Goodbye cruel world",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "LOADED_LVL_DESERT",
@@ -604,9 +609,9 @@
       "ID": "LOADED_LVL_FOREST",
       "SetID": "20koof9",
       "Name": "A Forest Walk",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 106
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -614,7 +619,7 @@
       "Name": "Snow Fun!",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -694,7 +699,7 @@
       "Name": "Rocketman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "USE_TUNNEL",
@@ -702,7 +707,7 @@
       "Name": "I see the light!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -726,7 +731,7 @@
       "Name": "Event Pro",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "WIN_BALL",
@@ -781,7 +786,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 354,
+      "Progressed": 355,
       "Completed": 2
     }
   ],
@@ -789,8 +794,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-08-02T11:05:28.5402532+00:00",
+  "LastChanged_Achievements": "2023-08-02T12:05:35.3225381+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:38.9893142+00:00",
-  "LastUpdate_Ratings": "2023-08-02T10:59:55.8453963+00:00",
-  "LastUpdate_Achievements": "2023-08-02T11:05:28.5403143+00:00"
+  "LastUpdate_Ratings": "2023-08-02T12:00:36.4485486+00:00",
+  "LastUpdate_Achievements": "2023-08-02T12:05:35.3225909+00:00"
 }

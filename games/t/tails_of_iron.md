@@ -5,19 +5,19 @@ Rating: 4.53 (Ranked 513)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 80.00% | ~1,467 |
-| Become King | 73.00% | ~1,339 |
-| Defeat 25 Frogs | 62.00% | ~1,137 |
+| Complete Guard Faction | 80.00% | ~1,468 |
+| Become King | 72.00% | ~1,321 |
+| Defeat 25 Frogs | 62.00% | ~1,138 |
 | Ranged Weapon | 61.00% | ~1,119 |
 | Collect Monster Parts | 58.00% | ~1,064 |
-| Two Handed Weapon | 56.00% | ~1,027 |
+| Two Handed Weapon | 56.00% | ~1,028 |
 | Defeat 25 Grubs | 52.00% | ~954 |
-| Rescue Redgi's Brothers | 52.00% | ~954 |
+| Rescue Redgi's Brothers | 51.00% | ~936 |
 | Collect Iron Ore | 47.00% | ~862 |
 | Defeat 25 Mozis | 46.00% | ~844 |
 | Kitchen Ready To Cook | 46.00% | ~844 |
-| Collect Gold | 45.00% | ~825 |
-| Smithy Ready to Craft | 45.00% | ~825 |
+| Collect Gold | 45.00% | ~826 |
+| Smithy Ready to Craft | 45.00% | ~826 |
 | Fix the Travellers Wagon | 43.00% | ~789 |
 | Complete Elder Faction | 40.00% | ~734 |
 | End of the Mozis | 37.00% | ~679 |
@@ -30,13 +30,13 @@ Rating: 4.53 (Ranked 513)
 | Complete the Chefs Book | 24.00% | ~440 |
 | Complete Ranger Faction | 21.00% | ~385 |
 | Defeat Avor Warden of the Northern Wastes | 20.00% | ~367 |
-| Discover the mystery of the Kings Chambers | 19.00% | ~348 |
-| Complete Arena Faction | 16.00% | ~293 |
+| Discover the mystery of the Kings Chambers | 19.00% | ~349 |
+| Complete Arena Faction | 16.00% | ~294 |
 | Complete Redgi's Armory | 8.00% | ~147 |
 | King of Kings | 8.00% | ~147 |
 | A new Warchief rises | 0.80% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,834 (Ranked 170)  
+Progressed: 1,835 (Ranked 170)  
 Completed: 8 (0.44%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 8 (0.44%) (Ranked 143)
 | 2023-07-30 | 1,823 | 8 |
 | 2023-07-31 | 1,830 | 8 |
 | 2023-08-01 | 1,833 | 8 |
-| 2023-08-02 | 1,834 | 8 |
+| 2023-08-02 | 1,835 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

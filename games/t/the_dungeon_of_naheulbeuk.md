@@ -6,18 +6,18 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~120,810 |
-| Where's that freaking Dwarf? | 47.00% | ~96,239 |
-| GG EZ | 28.00% | ~57,334 |
-| Speedrun | 26.00% | ~53,238 |
-| Déjà vu | 21.00% | ~43,000 |
-| Sock! SOCK! | 17.00% | ~34,810 |
-| DM intervention | 13.00% | ~26,619 |
-| Fireproof Wizardess | 10.00% | ~20,476 |
-| Livin' in a dwarven paradise | 8.00% | ~16,381 |
-| A beer, two curses, three companions | 8.00% | ~16,381 |
-| Way of the Wimp | 7.00% | ~14,333 |
-| The plot thickens... At the tavern | 5.00% | ~10,238 |
+| Alt+F4 | 59.00% | ~120,821 |
+| Where's that freaking Dwarf? | 47.00% | ~96,248 |
+| GG EZ | 28.00% | ~57,339 |
+| Speedrun | 26.00% | ~53,243 |
+| Déjà vu | 21.00% | ~43,004 |
+| Sock! SOCK! | 17.00% | ~34,813 |
+| DM intervention | 13.00% | ~26,622 |
+| Fireproof Wizardess | 10.00% | ~20,478 |
+| Livin' in a dwarven paradise | 8.00% | ~16,383 |
+| A beer, two curses, three companions | 8.00% | ~16,383 |
+| Way of the Wimp | 7.00% | ~14,335 |
+| The plot thickens... At the tavern | 5.00% | ~10,239 |
 | The Woman in the High Castle | 4.00% | ~8,191 |
 | I am the night | 4.00% | ~8,191 |
 | Team Building Exercise | 4.00% | ~8,191 |
@@ -28,14 +28,14 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 3.00% | ~6,143 |
 | Thieves' Guild Accreditation | 3.00% | ~6,143 |
 | Oh, when I'll be level 10... | 3.00% | ~6,143 |
-| The Great Library | 2.00% | ~4,095 |
-| Torture and Sensibility | 2.00% | ~4,095 |
-| Urik's Depths | 2.00% | ~4,095 |
-| Look but don't touch | 2.00% | ~4,095 |
-| The beards of change | 2.00% | ~4,095 |
-| Gargantua | 2.00% | ~4,095 |
-| In Navalu's footsteps | 2.00% | ~4,095 |
-| Material Girl | 2.00% | ~4,095 |
+| The Great Library | 2.00% | ~4,096 |
+| Torture and Sensibility | 2.00% | ~4,096 |
+| Urik's Depths | 2.00% | ~4,096 |
+| Look but don't touch | 2.00% | ~4,096 |
+| The beards of change | 2.00% | ~4,096 |
+| Gargantua | 2.00% | ~4,096 |
+| In Navalu's footsteps | 2.00% | ~4,096 |
+| Material Girl | 2.00% | ~4,096 |
 | The Dungeon Master | 1.00% | ~2,048 |
 | The Statuette of Gladeulfeurah | 1.00% | ~2,048 |
 | The Famous Dungeon of Naheulbeuk | 1.00% | ~2,048 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,763 (Ranked 55)  
+Progressed: 204,782 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 203,178 | 0 |
 | 2023-07-31 | 203,882 | 0 |
 | 2023-08-01 | 204,538 | 0 |
-| 2023-08-02 | 204,763 | 0 |
+| 2023-08-02 | 204,782 | 0 |
 ## Awards
 Max (Character Customization): 146  (Ranked 298)  
 Sum: 146 (Ranked 393)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2949,9 +2949,9 @@
       "ID": "PUSHING_DAISY",
       "SetID": "9a4jnji",
       "Name": "Pushing Daisy",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 412
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -3005,9 +3005,9 @@
       "ID": "SHADOW_BOXING",
       "SetID": "9a4jnji",
       "Name": "Shadow Boxin\u0027",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SIDE_ORDER",
@@ -3078,8 +3078,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-25T07:58:49.2178401+00:00",
-  "LastChanged_Achievements": "2023-08-02T11:05:22.5560606+00:00",
+  "LastChanged_Achievements": "2023-08-02T12:05:28.3084081+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:07.4600739+00:00",
-  "LastUpdate_Ratings": "2023-08-02T10:59:14.7058787+00:00",
-  "LastUpdate_Achievements": "2023-08-02T11:05:22.5561336+00:00"
+  "LastUpdate_Ratings": "2023-08-02T11:59:45.5633058+00:00",
+  "LastUpdate_Achievements": "2023-08-02T12:05:28.3084686+00:00"
 }

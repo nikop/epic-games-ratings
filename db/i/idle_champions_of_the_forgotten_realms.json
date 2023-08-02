@@ -5488,9 +5488,9 @@
       "Count": 3337
     }
   ],
-  "EOS_Progressed": 217849,
+  "EOS_Progressed": 217858,
   "EOS_Completed": 2142,
-  "EOS_NewPlayers": 2199,
+  "EOS_NewPlayers": 2190,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16683,6 +16683,11 @@
       "Time": "2023-08-02T11:05:16.2825049+00:00",
       "NumProgressed": 217849,
       "NumCompleted": 2142
+    },
+    {
+      "Time": "2023-08-02T12:05:22.1242647+00:00",
+      "NumProgressed": 217858,
+      "NumCompleted": 2142
     }
   ],
   "TotalAchievements": 512,
@@ -16862,7 +16867,7 @@
       "Name": "Hither of the Feywild",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "objective_completed_1066",
@@ -16998,7 +17003,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "objective_completed_1090",
@@ -17062,7 +17067,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6535
+      "UsersEstimate": 6536
     },
     {
       "ID": "objective_completed_110",
@@ -17254,7 +17259,7 @@
       "Name": "Supply Run",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "objective_completed_1142",
@@ -17326,7 +17331,7 @@
       "Name": "Speeds of Destruction",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "objective_completed_1154",
@@ -17366,7 +17371,7 @@
       "Name": "Best Thay Ever",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "objective_completed_1163",
@@ -17390,7 +17395,7 @@
       "Name": "A Demi-god\u0027s Defender",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "objective_completed_1168",
@@ -17766,7 +17771,7 @@
       "Name": "No One Can Hear You Scream",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "objective_completed_1346",
@@ -17782,7 +17787,7 @@
       "Name": "Welcome to the Rock",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "objective_completed_1351",
@@ -20726,7 +20731,7 @@
       "Name": "Luigi After Hours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "objective_completed_1380",
@@ -20742,7 +20747,7 @@
       "Name": "Electric Mayhem",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "objective_completed_1385",
@@ -20758,7 +20763,7 @@
       "Name": "3,720 to 1",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "objective_completed_1390",
@@ -20782,28 +20787,28 @@
       "Name": "Animated Giff",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184123,
+      "Progressed": 184132,
       "Completed": 3050
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217849,
+      "Progressed": 217858,
       "Completed": 2142
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-02T10:59:08.7797681+00:00",
-  "LastChanged_Achievements": "2023-08-02T11:05:16.2825039+00:00",
+  "LastChanged_Achievements": "2023-08-02T12:05:22.1242642+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-02T10:59:08.7797689+00:00",
-  "LastUpdate_Achievements": "2023-08-02T11:05:16.2857314+00:00"
+  "LastUpdate_Ratings": "2023-08-02T11:59:38.3508746+00:00",
+  "LastUpdate_Achievements": "2023-08-02T12:05:22.1277242+00:00"
 }

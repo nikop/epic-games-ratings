@@ -6,34 +6,34 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~67,247 |
-| Powergamer | 27.00% | ~64,846 |
-| Barely scratched the surface | 25.00% | ~60,042 |
-| Write that down | 24.00% | ~57,641 |
-| Guns, lots of guns | 12.00% | ~28,820 |
-| Collector | 11.00% | ~26,419 |
-| Elementary! | 9.00% | ~21,615 |
+| I will finish what you started | 28.00% | ~67,250 |
+| Powergamer | 27.00% | ~64,848 |
+| Barely scratched the surface | 25.00% | ~60,044 |
+| Write that down | 24.00% | ~57,643 |
+| Guns, lots of guns | 12.00% | ~28,821 |
+| Collector | 11.00% | ~26,420 |
+| Elementary! | 9.00% | ~21,616 |
 | Pumpkin Jack | 8.00% | ~19,214 |
 | Wake up! | 8.00% | ~19,214 |
 | It's honest work | 7.00% | ~16,812 |
 | Griever | 7.00% | ~16,812 |
-| Me smart | 6.00% | ~14,410 |
-| Trash compactor | 6.00% | ~14,410 |
-| Good listener | 5.00% | ~12,008 |
-| Valedictorian | 5.00% | ~12,008 |
+| Me smart | 6.00% | ~14,411 |
+| Trash compactor | 6.00% | ~14,411 |
+| Good listener | 5.00% | ~12,009 |
+| Valedictorian | 5.00% | ~12,009 |
 | BOY! | 4.00% | ~9,607 |
 | Ka-ching! | 4.00% | ~9,607 |
 | So you like to read? | 4.00% | ~9,607 |
 | I like to sniff around | 3.00% | ~7,205 |
 | Mind reader | 3.00% | ~7,205 |
-| Gentleman's classic | 2.00% | ~4,803 |
-| Hoarder | 2.00% | ~4,803 |
-| Is that a rift? | 2.00% | ~4,803 |
-| It's alive! | 2.00% | ~4,803 |
-| Enjoy the beach | 2.00% | ~4,803 |
-| Rinse and repeat | 2.00% | ~4,803 |
-| Mama, I'm a criminal | 2.00% | ~4,803 |
-| Never gonna give you up | 2.00% | ~4,803 |
+| Gentleman's classic | 2.00% | ~4,804 |
+| Hoarder | 2.00% | ~4,804 |
+| Is that a rift? | 2.00% | ~4,804 |
+| It's alive! | 2.00% | ~4,804 |
+| Enjoy the beach | 2.00% | ~4,804 |
+| Rinse and repeat | 2.00% | ~4,804 |
+| Mama, I'm a criminal | 2.00% | ~4,804 |
+| Never gonna give you up | 2.00% | ~4,804 |
 | A muscle to rely on | 1.00% | ~2,402 |
 | Catnip | 1.00% | ~2,402 |
 | I am in great pain, please help me | 1.00% | ~2,402 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~480 |
 | Memory 5 | 0.10% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,169 (Ranked 46)  
+Progressed: 240,178 (Ranked 46)  
 Completed: 7 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 7 (0.00%) (Ranked 247)
 | 2023-07-30 | 239,828 | 7 |
 | 2023-07-31 | 239,970 | 7 |
 | 2023-08-01 | 240,109 | 7 |
-| 2023-08-02 | 240,169 | 7 |
+| 2023-08-02 | 240,178 | 7 |
 ## Awards
 Max (Character Customization): 76  (Ranked 364)  
 Sum: 76 (Ranked 428)  

@@ -12,11 +12,11 @@
 | Nerd | 86.00% | ~80 |
 | AHHHHHH.....I'M ON FIRE!!! | 85.00% | ~79 |
 | Not so hip anymore! | 85.00% | ~79 |
-| Blurry depth perception | 82.00% | ~76 |
+| Blurry depth perception | 83.00% | ~77 |
 | Up and down | 81.00% | ~75 |
 | Rolling, Rolling, Rolling | 73.00% | ~68 |
 | Fire-fighter! | 67.00% | ~62 |
-| Oh, you're up to no gouda! | 62.00% | ~58 |
+| Oh, you're up to no gouda! | 63.00% | ~59 |
 | Make Love not War-Craft a Mistlefoe | 60.00% | ~56 |
 | Meat grinder | 60.00% | ~56 |
 | You're not going to blow me up! | 53.00% | ~49 |
@@ -35,8 +35,8 @@
 | Karaoke king | 33.00% | ~31 |
 | Pasta Bolognese | 33.00% | ~31 |
 | You are no match for me, Billy! | 32.00% | ~30 |
+| I'm going to get a concussion | 32.00% | ~30 |
 | You can't stop me, bro! | 32.00% | ~30 |
-| I'm going to get a concussion | 31.00% | ~29 |
 | Meatballs, coming up! | 28.00% | ~26 |
 | A Megapint...? | 27.00% | ~25 |
 | Another one bites the iron | 27.00% | ~25 |

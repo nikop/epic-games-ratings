@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -124,9 +124,9 @@
       "ID": "ACH_02_PHOTO_TEAM",
       "SetID": "9loam6m",
       "Name": "Photo team",
-      "Percentage": 81,
+      "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_03_MODEL",
@@ -260,9 +260,9 @@
       "ID": "ACH_19_HORSE_FRIENDS",
       "SetID": "9loam6m",
       "Name": "Horse friends",
-      "Percentage": 63,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_20_HORSE_LANGUAGE",
@@ -276,9 +276,9 @@
       "ID": "ACH_21_FIRST_RACE",
       "SetID": "9loam6m",
       "Name": "First race",
-      "Percentage": 63,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_22_HORSE_RACES",
@@ -356,9 +356,9 @@
       "ID": "ACH_31_BEST_MUFFINS",
       "SetID": "9loam6m",
       "Name": "The best muffins",
-      "Percentage": 75,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_32_HEART_FOR_ANIMALS",
@@ -459,8 +459,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-08-02T11:05:40.0407885+00:00",
+  "LastChanged_Achievements": "2023-08-02T12:05:48.2616606+00:00",
   "LastUpdate_AppInfo": "2023-07-26T13:57:00.5539725+00:00",
-  "LastUpdate_Ratings": "2023-08-02T10:57:34.3059439+00:00",
-  "LastUpdate_Achievements": "2023-08-02T11:05:40.0408239+00:00"
+  "LastUpdate_Ratings": "2023-08-02T11:57:44.5630005+00:00",
+  "LastUpdate_Achievements": "2023-08-02T12:05:48.2616922+00:00"
 }

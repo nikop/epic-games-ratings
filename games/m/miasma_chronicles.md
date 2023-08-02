@@ -26,8 +26,8 @@ Rating: 4.40 (Ranked 698)
 | Ganglord | 33.00% | ~438 |
 | Jarhead | 33.00% | ~438 |
 | Infiltrator | 32.00% | ~425 |
+| Pushing Daisy | 31.00% | ~412 |
 | Experienced | 30.00% | ~398 |
-| Pushing Daisy | 30.00% | ~398 |
 | Hold The Line | 28.00% | ~372 |
 | Endgame | 25.00% | ~332 |
 | Savior | 25.00% | ~332 |
@@ -51,9 +51,9 @@ Rating: 4.40 (Ranked 698)
 | Cruelty | 3.00% | ~40 |
 | Bookworm | 2.00% | ~27 |
 | Five Finger Deathcount | 1.00% | ~13 |
+| Shadow Boxin' | 1.00% | ~13 |
 | Alpha Editor | 0.90% | ~12 |
 | Fratricide | 0.90% | ~12 |
-| Shadow Boxin' | 0.90% | ~12 |
 | QA Has Suffered! (Redux) | 0.80% | ~11 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)

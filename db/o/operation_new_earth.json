@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 749,
+  "EOS_Progressed": 750,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2591,6 +2591,11 @@
       "Time": "2023-08-02T11:06:54.797522+00:00",
       "NumProgressed": 749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T12:07:23.99249+00:00",
+      "NumProgressed": 750,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2610,7 +2615,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ach_defeat_players_10",
@@ -2618,7 +2623,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ach_defeat_players_100",
@@ -2762,7 +2767,7 @@
       "Name": "General",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "objective_key_alliance_help_2",
@@ -2802,7 +2807,7 @@
       "Name": "Seek \u0026 Destroy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -2850,15 +2855,15 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 232
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2874,7 +2879,7 @@
       "Name": "Titan Tanks",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
@@ -2882,7 +2887,7 @@
       "Name": "Shock Troops",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "objective_research_unlock_light_infantry_tier_4",
@@ -2905,14 +2910,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 749,
+      "Progressed": 750,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-02T11:06:54.7975214+00:00",
+  "LastChanged_Achievements": "2023-08-02T12:07:23.9924893+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-08-02T10:57:10.6838695+00:00",
-  "LastUpdate_Achievements": "2023-08-02T11:06:54.7975778+00:00"
+  "LastUpdate_Ratings": "2023-08-02T11:57:15.1457585+00:00",
+  "LastUpdate_Achievements": "2023-08-02T12:07:23.9925333+00:00"
 }

@@ -5,11 +5,11 @@ Rating: 4.50 (Ranked 559)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 85.00% | ~356 |
-| Vanquisher of Robots | 76.00% | ~318 |
-| Party | 48.00% | ~201 |
+| Good start! | 85.00% | ~357 |
+| Vanquisher of Robots | 76.00% | ~319 |
+| Party | 48.00% | ~202 |
 | Impossible Cube | 45.00% | ~189 |
-| Knowledge is Power | 44.00% | ~184 |
+| Knowledge is Power | 44.00% | ~185 |
 | No Mercy | 42.00% | ~176 |
 | Through the Darkness | 42.00% | ~176 |
 | The Return of a Rat | 41.00% | ~172 |
@@ -25,10 +25,10 @@ Rating: 4.50 (Ranked 559)
 | Feed a God | 21.00% | ~88 |
 | To the Moon and Back | 20.00% | ~84 |
 | Great Flight | 17.00% | ~71 |
-| Holy Vengeance | 16.00% | ~67 |
+| Holy Vengeance | 15.00% | ~63 |
 | Honorary Cultist | 12.00% | ~50 |
-| Brain and Brawn | 11.00% | ~46 |
 | Strength and Sorcery | 10.00% | ~42 |
+| Brain and Brawn | 10.00% | ~42 |
 | Omae Wa Mou Shindeiru | 8.00% | ~34 |
 | Experimentalist | 6.00% | ~25 |
 | Wide Selection | 6.00% | ~25 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 559)
 | Vet | 1.00% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 419 (Ranked 231)  
+Progressed: 420 (Ranked 231)  
 Completed: 1 (0.24%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,6 +87,7 @@ Completed: 1 (0.24%) (Ranked 168)
 | 2023-07-29 | 417 | 1 |
 | 2023-07-31 | 418 | 1 |
 | 2023-08-01 | 419 | 1 |
+| 2023-08-02 | 420 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

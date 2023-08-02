@@ -16,8 +16,8 @@
 | Lone Wolf | 11.00% | ~12 |
 | Playing God | 8.00% | ~9 |
 | Nerd | 7.00% | ~8 |
+| First and Foremost | 6.00% | ~7 |
 | Upgradeaholic | 6.00% | ~7 |
-| First and Foremost | 5.00% | ~6 |
 | Tailor-Made | 5.00% | ~6 |
 | POI Hunter | 4.00% | ~5 |
 | Seven-League Boots | 4.00% | ~5 |

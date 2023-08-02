@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 310,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.59,
+  "EOS_Completed_Percentage": 2.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -293,6 +293,11 @@
       "Time": "2023-08-02T04:06:06.528434+00:00",
       "NumProgressed": 309,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-02T12:08:15.8433937+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -350,9 +355,9 @@
       "ID": "achievement_06",
       "SetID": "7881h0d",
       "Name": "Moon Cloudiness Sonata by Danloop",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_07",
@@ -376,7 +381,7 @@
       "Name": "Grau Hill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "achievement_10",
@@ -384,7 +389,7 @@
       "Name": "The creature",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_11",
@@ -392,7 +397,7 @@
       "Name": "A forgotten language",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "achievement_12",
@@ -408,7 +413,7 @@
       "Name": "One step down",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_14",
@@ -422,17 +427,17 @@
       "ID": "achievement_15",
       "SetID": "7881h0d",
       "Name": "My dear Magda",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_16",
       "SetID": "7881h0d",
       "Name": "The other side of the mirror",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_17",
@@ -455,7 +460,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 310,
       "Completed": 8
     }
   ],
@@ -463,8 +468,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-08-02T11:07:40.0997199+00:00",
+  "LastChanged_Achievements": "2023-08-02T12:08:15.8433934+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:41.254733+00:00",
-  "LastUpdate_Ratings": "2023-08-02T10:58:42.9657016+00:00",
-  "LastUpdate_Achievements": "2023-08-02T11:07:40.0997369+00:00"
+  "LastUpdate_Ratings": "2023-08-02T11:59:07.5262534+00:00",
+  "LastUpdate_Achievements": "2023-08-02T12:08:15.8434123+00:00"
 }

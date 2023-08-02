@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -92,9 +92,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 933,
+  "EOS_Progressed": 934,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.61,
   "EosHistory": [
@@ -1257,6 +1257,11 @@
       "Time": "2023-08-01T16:04:49.386589+00:00",
       "NumProgressed": 933,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-02T12:06:27.0979068+00:00",
+      "NumProgressed": 934,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1274,9 +1279,9 @@
       "ID": "ACH_BOOK_ALL",
       "SetID": "7k95e4n",
       "Name": "King of hospitality",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 103
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_CHICKEN_ENCOUNTERED",
@@ -1284,7 +1289,7 @@
       "Name": "Soulmate?",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -1292,7 +1297,7 @@
       "Name": "Roll with it",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -1300,7 +1305,7 @@
       "Name": "Kaboom",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -1356,7 +1361,7 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1364,7 +1369,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1372,7 +1377,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1420,7 +1425,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACH_STAR_2",
@@ -1436,7 +1441,7 @@
       "Name": "Still more work ahead",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_STAR_4",
@@ -1468,7 +1473,7 @@
       "Name": "Excellent service",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -1476,14 +1481,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 933,
+      "Progressed": 934,
       "Completed": 15
     }
   ],
@@ -1491,8 +1496,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-29T09:57:37.1491908+00:00",
-  "LastChanged_Achievements": "2023-08-02T11:06:05.0874904+00:00",
+  "LastChanged_Achievements": "2023-08-02T12:06:27.0979062+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:54.1482303+00:00",
-  "LastUpdate_Ratings": "2023-08-02T10:57:56.8681432+00:00",
-  "LastUpdate_Achievements": "2023-08-02T11:06:05.0875228+00:00"
+  "LastUpdate_Ratings": "2023-08-02T11:58:13.092771+00:00",
+  "LastUpdate_Achievements": "2023-08-02T12:06:27.0979335+00:00"
 }

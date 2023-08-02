@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -834,9 +834,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6283,
+  "EOS_Progressed": 6284,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4654,6 +4654,11 @@
       "Time": "2023-08-02T06:03:32.5392056+00:00",
       "NumProgressed": 6283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T12:03:46.3751564+00:00",
+      "NumProgressed": 6284,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -4705,7 +4710,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3958
+      "UsersEstimate": 3959
     },
     {
       "ID": "Control_All_Relics",
@@ -4721,7 +4726,7 @@
       "Name": "Pirate Cleansing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "Destroy_Any_Faction",
@@ -4785,7 +4790,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1760
     },
     {
       "ID": "First_Stream_Travel",
@@ -4801,7 +4806,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4901
+      "UsersEstimate": 4902
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -4857,7 +4862,7 @@
       "Name": "Trading Partner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "Level_5_Ship",
@@ -4881,7 +4886,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "Play_1000_Hours",
@@ -4985,7 +4990,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3895
+      "UsersEstimate": 3896
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -5240,15 +5245,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6283,
+      "Progressed": 6284,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-07-30T08:58:20.2585485+00:00",
-  "LastChanged_Achievements": "2023-08-02T11:03:42.7238514+00:00",
+  "LastChanged_Achievements": "2023-08-02T12:03:46.3751559+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:11.8834524+00:00",
-  "LastUpdate_Ratings": "2023-08-02T10:58:21.024499+00:00",
-  "LastUpdate_Achievements": "2023-08-02T11:03:42.7239549+00:00"
+  "LastUpdate_Ratings": "2023-08-02T11:58:41.9468192+00:00",
+  "LastUpdate_Achievements": "2023-08-02T12:03:46.3753229+00:00"
 }

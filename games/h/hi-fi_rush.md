@@ -36,7 +36,7 @@ Rating: 4.87 (Ranked 24)
 | I look cool. But I can look COOLER. | 2.00% | ~73 |
 | Chip-tuned | 1.00% | ~37 |
 | There's such a thing as TOO helpful | 1.00% | ~37 |
-| Wanna hear my playlist? | 0.90% | ~33 |
+| Wanna hear my playlist? | 1.00% | ~37 |
 | Check out my moves! | 0.90% | ~33 |
 | Call me Turbo Chai | 0.90% | ~20 |
 | I told you I'd be fine, Peppermint! | 0.80% | ~29 |

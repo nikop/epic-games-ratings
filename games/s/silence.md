@@ -8,11 +8,11 @@
 | Fire in the... nevermind | 48.00% | ~46 |
 | Haute cuisine | 45.00% | ~43 |
 | I didn't do it! | 41.00% | ~39 |
-| Keep away from children | 36.00% | ~34 |
-| Artistic fool | 35.00% | ~33 |
-| Demolition expert | 35.00% | ~33 |
-| Wooooooow! | 35.00% | ~33 |
-| Chapter II | 31.00% | ~29 |
+| Keep away from children | 35.00% | ~34 |
+| Artistic fool | 34.00% | ~33 |
+| Demolition expert | 34.00% | ~33 |
+| Wooooooow! | 34.00% | ~33 |
+| Chapter II | 30.00% | ~29 |
 | Open up wide | 29.00% | ~28 |
 | Achoo!! | 29.00% | ~28 |
 | Let the boot talk | 28.00% | ~27 |
@@ -30,9 +30,9 @@
 | Master of Thermodynamics | 17.00% | ~16 |
 | Death is a part of life | 16.00% | ~15 |
 | Unfullfilled dreams | 15.00% | ~14 |
-| To err is human... | 12.00% | ~11 |
-| Nothing can stop me | 12.00% | ~11 |
-| Mumbo Jumbo | 11.00% | ~10 |
+| To err is human... | 11.00% | ~11 |
+| Nothing can stop me | 11.00% | ~11 |
+| Mumbo Jumbo | 10.00% | ~10 |
 | Useless but beautiful | 9.00% | ~9 |
 | Lollipop | 9.00% | ~9 |
 | It's nothing personal | 9.00% | ~9 |
@@ -51,7 +51,7 @@
 | The Green, the Fat, the Ugly | 1.00% | ~1 |
 | Do not feed the fish! | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95 (Ranked 318)  
+Progressed: 96 (Ranked 318)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,6 +63,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-12 | 93 | 0 |
 | 2023-07-16 | 94 | 0 |
 | 2023-07-26 | 95 | 0 |
+| 2023-08-02 | 96 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

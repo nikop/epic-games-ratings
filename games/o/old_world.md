@@ -114,6 +114,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.30% | ~40 |
 | Redemption | 0.30% | ~40 |
 | Revelation | 0.30% | ~40 |
+| Veneration | 0.30% | ~40 |
 | Cimmerian Archer | 0.30% | ~40 |
 | Kushite Cavalry | 0.30% | ~40 |
 | Legionary | 0.30% | ~40 |
@@ -143,7 +144,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.20% | ~26 |
 | Enlightenment | 0.20% | ~26 |
 | Gnosticism | 0.20% | ~26 |
-| Veneration | 0.20% | ~26 |
 | Cataphract Archer | 0.20% | ~26 |
 | Turreted Elephant | 0.20% | ~26 |
 | All Nations | 0.20% | ~26 |

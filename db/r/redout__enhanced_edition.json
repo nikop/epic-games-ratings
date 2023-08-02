@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228704,
+  "EOS_Progressed": 228705,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11103,6 +11103,11 @@
       "Time": "2023-08-02T10:04:10.608318+00:00",
       "NumProgressed": 228704,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-02T12:05:00.1799855+00:00",
+      "NumProgressed": 228705,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -11146,7 +11151,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 25157
+      "UsersEstimate": 25158
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -11250,7 +11255,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 75472
+      "UsersEstimate": 75473
     },
     {
       "ID": "NOBUNAGA",
@@ -11385,15 +11390,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 228704,
+      "Progressed": 228705,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-08-02T11:04:57.9834124+00:00",
+  "LastChanged_Achievements": "2023-08-02T12:05:00.1799849+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.6745563+00:00",
-  "LastUpdate_Ratings": "2023-08-02T10:59:16.5104578+00:00",
-  "LastUpdate_Achievements": "2023-08-02T11:04:57.9835245+00:00"
+  "LastUpdate_Ratings": "2023-08-02T11:59:46.7003364+00:00",
+  "LastUpdate_Achievements": "2023-08-02T12:05:00.1800943+00:00"
 }
