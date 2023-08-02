@@ -7,27 +7,27 @@
 | Such a strange dream… | 87.00% | ~177 |
 | Your first fight | 85.00% | ~173 |
 | Good Person Chip | 84.00% | ~171 |
-| First winning | 83.00% | ~168 |
-| Your first job | 83.00% | ~168 |
-| Old movies enjoyer | 79.00% | ~160 |
-| First defeat | 78.00% | ~158 |
-| Fitness professional | 76.00% | ~154 |
-| Depressed visitor | 76.00% | ~154 |
-| Employee of the week | 75.00% | ~152 |
-| Neurotrainer – power gainer! | 74.00% | ~150 |
-| Your own amateur gym | 73.00% | ~148 |
-| Run K, run! | 71.00% | ~144 |
-| No bullying more | 67.00% | ~136 |
-| Hello, world! | 67.00% | ~136 |
-| Fighting is cool | 66.00% | ~134 |
-| Pal of your father? | 63.00% | ~128 |
-| Employee of the month | 62.00% | ~126 |
+| First winning | 83.00% | ~169 |
+| Your first job | 83.00% | ~169 |
+| Old movies enjoyer | 79.00% | ~161 |
+| First defeat | 78.00% | ~159 |
+| Fitness professional | 76.00% | ~155 |
+| Depressed visitor | 76.00% | ~155 |
+| Neurotrainer – power gainer! | 75.00% | ~153 |
+| Employee of the week | 75.00% | ~153 |
+| Your own amateur gym | 73.00% | ~149 |
+| Run K, run! | 71.00% | ~145 |
+| No bullying more | 67.00% | ~137 |
+| Hello, world! | 67.00% | ~137 |
+| Fighting is cool | 66.00% | ~135 |
+| Pal of your father? | 63.00% | ~129 |
+| Employee of the month | 61.00% | ~124 |
 | Spirit of the past | 60.00% | ~122 |
 | Law student | 59.00% | ~120 |
 | Workout professional | 57.00% | ~116 |
-| Intriguing candies | 57.00% | ~116 |
 | Little hacker | 56.00% | ~114 |
-| Champion – starter pack | 56.00% | ~114 |
+| Intriguing candies | 56.00% | ~114 |
+| Champion – starter pack | 55.00% | ~112 |
 | Own four walls | 55.00% | ~112 |
 | Handyman | 54.00% | ~110 |
 | It's good to be alive | 54.00% | ~110 |
@@ -36,13 +36,13 @@
 | Legal courier | 51.00% | ~104 |
 | Extreme neuropower! | 50.00% | ~102 |
 | Escaped from a big trouble | 50.00% | ~102 |
-| Now you are worthy | 47.00% | ~95 |
-| No blades in the gym | 45.00% | ~91 |
-| Your own way | 45.00% | ~91 |
-| Guiding on the right path | 44.00% | ~89 |
-| Mysterious voice | 43.00% | ~87 |
-| Fight is life | 42.00% | ~85 |
-| Get out of my apartment! | 38.00% | ~77 |
+| Now you are worthy | 47.00% | ~96 |
+| No blades in the gym | 45.00% | ~92 |
+| Your own way | 45.00% | ~92 |
+| Guiding on the right path | 44.00% | ~90 |
+| Mysterious voice | 43.00% | ~88 |
+| Fight is life | 42.00% | ~86 |
+| Get out of my apartment! | 38.00% | ~78 |
 | Responsible approach | 37.00% | ~75 |
 | Underground dwellers | 36.00% | ~73 |
 | Deal with life | 35.00% | ~71 |
@@ -52,27 +52,27 @@
 | Mom got better | 33.00% | ~67 |
 | The die is cast | 33.00% | ~67 |
 | Seashell hunter | 33.00% | ~67 |
-| Undercover robot | 32.00% | ~65 |
-| The last bell ring | 31.00% | ~63 |
+| Undercover robot | 31.00% | ~63 |
 | Gang wrangler | 30.00% | ~61 |
-| Problems of cyborgs | 30.00% | ~61 |
-| Not little hacker | 30.00% | ~61 |
-| Absolute Champion! | 30.00% | ~61 |
+| The last bell ring | 30.00% | ~61 |
+| Problems of cyborgs | 29.00% | ~59 |
+| Not little hacker | 29.00% | ~59 |
+| Absolute Champion! | 29.00% | ~59 |
 | Another world | 28.00% | ~57 |
 | The lonesome road | 28.00% | ~57 |
-| Keep nature safe | 28.00% | ~57 |
-| Family comes first | 28.00% | ~57 |
 | Key memories | 28.00% | ~57 |
 | Careerist | 28.00% | ~57 |
-| Anyone can resist | 28.00% | ~57 |
 | The heart of the Resistance | 28.00% | ~57 |
 | Trap disarmed | 27.00% | ~55 |
+| Keep nature safe | 27.00% | ~55 |
+| Family comes first | 27.00% | ~55 |
+| Anyone can resist | 27.00% | ~55 |
 | Silver’s past | 25.00% | ~51 |
 | Better cooking at home | 25.00% | ~51 |
 | The only right decision | 25.00% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203 (Ranked 281)  
-Completed: 7 (3.45%) (Ranked 59)  
+Progressed: 204 (Ranked 281)  
+Completed: 7 (3.43%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,4 +90,4 @@ Completed: 7 (3.45%) (Ranked 59)
 | 2023-07-30 | 190 | 7 |
 | 2023-07-31 | 198 | 7 |
 | 2023-08-01 | 202 | 7 |
-| 2023-08-02 | 203 | 7 |
+| 2023-08-02 | 204 | 7 |

@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2421,
+  "EOS_Progressed": 2423,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -2258,6 +2258,11 @@
       "Time": "2023-08-02T02:24:44.4976043+00:00",
       "NumProgressed": 2421,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-02T05:03:42.1937399+00:00",
+      "NumProgressed": 2423,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2293,7 +2298,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "MOVE_ON",
@@ -2333,7 +2338,7 @@
       "Name": "Starting as a duo",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -2372,7 +2377,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2421,
+      "Progressed": 2423,
       "Completed": 6
     }
   ],
@@ -2380,8 +2385,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-02T04:03:19.3238951+00:00",
+  "LastChanged_Achievements": "2023-08-02T05:03:42.1937393+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:06.4701918+00:00",
-  "LastUpdate_Ratings": "2023-08-02T03:59:33.2427549+00:00",
-  "LastUpdate_Achievements": "2023-08-02T04:03:19.3239204+00:00"
+  "LastUpdate_Ratings": "2023-08-02T05:00:37.7904808+00:00",
+  "LastUpdate_Achievements": "2023-08-02T05:03:42.1938024+00:00"
 }

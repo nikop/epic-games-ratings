@@ -6,11 +6,11 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~67,238 |
+| I will finish what you started | 28.00% | ~67,239 |
 | Powergamer | 27.00% | ~64,837 |
 | Barely scratched the surface | 25.00% | ~60,034 |
 | Write that down | 24.00% | ~57,633 |
-| Guns, lots of guns | 12.00% | ~28,816 |
+| Guns, lots of guns | 12.00% | ~28,817 |
 | Collector | 11.00% | ~26,415 |
 | Elementary! | 9.00% | ~21,612 |
 | Pumpkin Jack | 8.00% | ~19,211 |
@@ -21,9 +21,9 @@ Number of Ratings: 33  (23.09.2022)
 | Trash compactor | 6.00% | ~14,408 |
 | Good listener | 5.00% | ~12,007 |
 | Valedictorian | 5.00% | ~12,007 |
-| BOY! | 4.00% | ~9,605 |
-| Ka-ching! | 4.00% | ~9,605 |
-| So you like to read? | 4.00% | ~9,605 |
+| BOY! | 4.00% | ~9,606 |
+| Ka-ching! | 4.00% | ~9,606 |
+| So you like to read? | 4.00% | ~9,606 |
 | I like to sniff around | 3.00% | ~7,204 |
 | Mind reader | 3.00% | ~7,204 |
 | Gentleman's classic | 2.00% | ~4,803 |
@@ -47,8 +47,8 @@ Number of Ratings: 33  (23.09.2022)
 | Home run | 0.80% | ~1,921 |
 | I have the high ground | 0.70% | ~1,681 |
 | It's blue, always blue | 0.70% | ~1,681 |
+| Enjoy these little moments | 0.50% | ~1,201 |
 | Who wouldn't love a troll? | 0.50% | ~1,201 |
-| Enjoy these little moments | 0.40% | ~961 |
 | Irondec | 0.40% | ~961 |
 | Un-bear-able | 0.40% | ~961 |
 | LET ME OUT! | 0.30% | ~720 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~480 |
 | Memory 5 | 0.10% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,136 (Ranked 46)  
+Progressed: 240,138 (Ranked 46)  
 Completed: 7 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 7 (0.00%) (Ranked 247)
 | 2023-07-30 | 239,828 | 7 |
 | 2023-07-31 | 239,970 | 7 |
 | 2023-08-01 | 240,109 | 7 |
-| 2023-08-02 | 240,136 | 7 |
+| 2023-08-02 | 240,138 | 7 |
 ## Awards
 Max (Character Customization): 76  (Ranked 364)  
 Sum: 76 (Ranked 428)  

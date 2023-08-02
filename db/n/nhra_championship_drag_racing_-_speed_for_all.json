@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
     "PcReleaseDate": "2022-08-26T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 779,
+  "EOS_Progressed": 781,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -568,6 +568,11 @@
       "Time": "2023-08-02T03:03:52.7015252+00:00",
       "NumProgressed": 779,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T05:04:39.4053025+00:00",
+      "NumProgressed": 781,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -579,7 +584,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 771
+      "UsersEstimate": 773
     },
     {
       "ID": "11",
@@ -603,7 +608,7 @@
       "Name": "Don\u0027t get ahead on yourself",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "14",
@@ -611,7 +616,7 @@
       "Name": "Trouble with the swerve",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "15",
@@ -619,7 +624,7 @@
       "Name": "Whole again",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "16",
@@ -675,7 +680,7 @@
       "Name": "Participation trophy",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "22",
@@ -825,9 +830,9 @@
       "ID": "8",
       "SetID": "4n5bj21",
       "Name": "I didn\u0027t know you where there!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 226
     },
     {
       "ID": "9",
@@ -835,14 +840,14 @@
       "Name": "Oops, My bad",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 779,
+      "Progressed": 781,
       "Completed": 0
     }
   ],
@@ -850,8 +855,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-08-02T04:03:52.6317173+00:00",
+  "LastChanged_Achievements": "2023-08-02T05:04:39.4053018+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.7257654+00:00",
-  "LastUpdate_Ratings": "2023-08-02T03:58:44.1739743+00:00",
-  "LastUpdate_Achievements": "2023-08-02T04:03:52.6317453+00:00"
+  "LastUpdate_Ratings": "2023-08-02T04:59:25.0811048+00:00",
+  "LastUpdate_Achievements": "2023-08-02T05:04:39.4053344+00:00"
 }

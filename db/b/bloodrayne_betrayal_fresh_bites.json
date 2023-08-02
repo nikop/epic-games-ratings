@@ -2,10 +2,10 @@
   "ID": "bce5e14327134bbd9f987dc12e220e20",
   "Name": "BloodRayne Betrayal Fresh Bites",
   "ProductSlug": "bloodrayne-betrayal-fresh-bites-8f1012",
-  "Ranking_EOS_Progress": 353,
+  "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-11-04T17:00:00+00:00",
     "PcReleaseDate": "2021-09-09T13:00:00+00:00",
@@ -282,8 +282,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "LastChanged_Achievements": "2023-08-02T04:02:12.422237+00:00",
+  "LastChanged_Achievements": "2023-08-02T05:02:44.2746416+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:08.5959212+00:00",
-  "LastUpdate_Ratings": "2023-08-02T04:00:20.9421271+00:00",
-  "LastUpdate_Achievements": "2023-08-02T04:02:12.4222677+00:00"
+  "LastUpdate_Ratings": "2023-08-02T05:01:52.3923974+00:00",
+  "LastUpdate_Achievements": "2023-08-02T05:02:44.2746623+00:00"
 }

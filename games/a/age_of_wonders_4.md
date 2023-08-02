@@ -50,9 +50,9 @@ Rating: 4.63 (Ranked 333)
 | Snap Out of It! | 0.60% | ~30 |
 | Betrayal Most Foul | 0.30% | ~15 |
 | I Want to Break Free | 0.20% | ~10 |
+| Returning Circle | 0.20% | ~10 |
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
-| Returning Circle | 0.10% | ~5 |
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)

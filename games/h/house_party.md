@@ -17,11 +17,11 @@ Number of Ratings: 177  (23.09.2022)
 | Drunk and Disorderly: Stephanie | 1.00% | ~60 |
 | Drunk and Disorderly: Ashley | 0.80% | ~48 |
 | IRL Let's Player | 0.80% | ~48 |
+| Inspector | 0.70% | ~42 |
 | Newcomer: Vickie | 0.70% | ~42 |
 | Social Butterfly | 0.70% | ~42 |
 | The Muse: Madison | 0.70% | ~42 |
 | Amy | 0.60% | ~36 |
-| Inspector | 0.60% | ~36 |
 | It Smells Like Roses | 0.60% | ~18 |
 | Smooth Operator: Ashley | 0.60% | ~36 |
 | Amy: Scavenger Hunt | 0.50% | ~30 |

@@ -5476,9 +5476,9 @@
       "Count": 3337
     }
   ],
-  "EOS_Progressed": 217787,
+  "EOS_Progressed": 217800,
   "EOS_Completed": 2142,
-  "EOS_NewPlayers": 2209,
+  "EOS_NewPlayers": 2211,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16636,6 +16636,11 @@
       "Time": "2023-08-02T04:04:10.2706851+00:00",
       "NumProgressed": 217787,
       "NumCompleted": 2142
+    },
+    {
+      "Time": "2023-08-02T05:05:05.8491264+00:00",
+      "NumProgressed": 217800,
+      "NumCompleted": 2142
     }
   ],
   "TotalAchievements": 512,
@@ -16647,7 +16652,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8711
+      "UsersEstimate": 8712
     },
     {
       "ID": "objective_completed_10",
@@ -16719,7 +16724,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "objective_completed_1051",
@@ -17271,7 +17276,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "objective_completed_1153",
@@ -17351,7 +17356,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "objective_completed_1169",
@@ -17381,9 +17386,9 @@
       "ID": "objective_completed_1173",
       "SetID": "415jc5c",
       "Name": "Return to the Tomb",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1289
     },
     {
       "ID": "objective_completed_1174",
@@ -20703,7 +20708,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "objective_completed_1386",
@@ -20719,7 +20724,7 @@
       "Name": "Topolah\u0027s Tower",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "objective_completed_1391",
@@ -20742,21 +20747,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184061,
+      "Progressed": 184074,
       "Completed": 3049
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217787,
+      "Progressed": 217800,
       "Completed": 2142
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-02T03:58:35.4853317+00:00",
-  "LastChanged_Achievements": "2023-08-02T04:04:10.2706846+00:00",
+  "LastChanged_Achievements": "2023-08-02T05:05:05.8491258+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-02T03:58:35.4853324+00:00",
-  "LastUpdate_Achievements": "2023-08-02T04:04:10.2733655+00:00"
+  "LastUpdate_Ratings": "2023-08-02T04:59:09.053737+00:00",
+  "LastUpdate_Achievements": "2023-08-02T05:05:05.8517239+00:00"
 }

@@ -41,7 +41,7 @@ Rating: 4.35 (Ranked 746)
 | Exquisite Artwork | 25.00% | ~102 |
 | Viscount Edwin Van den Bosch | 25.00% | ~102 |
 | Archibald Sterling | 24.00% | ~98 |
-| Well-prepared | 20.00% | ~81 |
+| Well-prepared | 21.00% | ~85 |
 | The Truth | 20.00% | ~81 |
 | Sunken Secrets | 18.00% | ~73 |
 | I Like an Audience | 18.00% | ~73 |

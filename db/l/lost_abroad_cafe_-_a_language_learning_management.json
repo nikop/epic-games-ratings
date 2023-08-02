@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
     "PcReleaseDate": "2022-12-31T01:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 287,
+  "EOS_Progressed": 288,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1296,6 +1296,11 @@
       "Time": "2023-08-02T01:57:05.0489873+00:00",
       "NumProgressed": 287,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T05:07:53.7558148+00:00",
+      "NumProgressed": 288,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 8,
@@ -1323,7 +1328,7 @@
       "Name": "Coffee Connoisseur",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "countertop",
@@ -1339,7 +1344,7 @@
       "Name": "Get Lost!",
       "Percentage": 84,
       "XP": 50,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "tea_10",
@@ -1370,14 +1375,14 @@
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 287,
+      "Progressed": 288,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-08-02T04:06:08.7275088+00:00",
+  "LastChanged_Achievements": "2023-08-02T05:07:53.7558142+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:27.9801852+00:00",
-  "LastUpdate_Ratings": "2023-08-02T03:58:56.5179061+00:00",
-  "LastUpdate_Achievements": "2023-08-02T04:06:08.7275244+00:00"
+  "LastUpdate_Ratings": "2023-08-02T04:59:46.3588393+00:00",
+  "LastUpdate_Achievements": "2023-08-02T05:07:53.7558324+00:00"
 }

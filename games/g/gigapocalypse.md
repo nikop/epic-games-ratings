@@ -16,8 +16,8 @@
 | Quite A Snack | 59.00% | ~100 |
 | Impenetrable Skin | 55.00% | ~94 |
 | Overwhelming Power | 55.00% | ~94 |
+| Chomp Chomp! | 45.00% | ~76 |
 | Supreme Power | 44.00% | ~75 |
-| Chomp Chomp! | 44.00% | ~75 |
 | The Duelist | 42.00% | ~71 |
 | Glorious Battle | 41.00% | ~70 |
 | Diaper Time! | 41.00% | ~70 |
@@ -59,7 +59,7 @@
 | Hearty Meteor | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 170 (Ranked 293)  
-Completed: 1 (0.59%) (Ranked 128)  
+Completed: 1 (0.59%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

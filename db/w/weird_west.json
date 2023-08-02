@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1766,
+  "EOS_Progressed": 1767,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1655,6 +1655,11 @@
       "Time": "2023-08-02T02:26:28.0323695+00:00",
       "NumProgressed": 1766,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-02T05:05:57.2353944+00:00",
+      "NumProgressed": 1767,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1674,7 +1679,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1746,7 +1751,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -1898,7 +1903,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1912,9 +1917,9 @@
       "ID": "ACH_PERKY",
       "SetID": "8j30i9k",
       "Name": "Perky",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1149
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2042,7 +2047,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2089,15 +2094,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1766,
+      "Progressed": 1767,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-08-02T04:04:47.6499932+00:00",
+  "LastChanged_Achievements": "2023-08-02T05:05:57.2353938+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.150321+00:00",
-  "LastUpdate_Ratings": "2023-08-02T03:58:51.6690452+00:00",
-  "LastUpdate_Achievements": "2023-08-02T04:04:47.650046+00:00"
+  "LastUpdate_Ratings": "2023-08-02T04:59:36.7460617+00:00",
+  "LastUpdate_Achievements": "2023-08-02T05:05:57.2354477+00:00"
 }

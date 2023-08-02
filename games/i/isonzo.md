@@ -26,9 +26,9 @@ Number of Ratings: 98  (23.09.2022)
 | Luigi Cadorna | 14.00% | ~916 |
 | Thus With A Kiss | 14.00% | ~916 |
 | Uomo Universale | 14.00% | ~916 |
+| Machiavelli | 13.00% | ~851 |
 | Shaken, Not Stirred | 13.00% | ~851 |
 | Die Bosniaken Kommen! | 12.00% | ~786 |
-| Machiavelli | 12.00% | ~786 |
 | Dante's Inferno | 11.00% | ~720 |
 | The Devil's Paintbrush | 11.00% | ~720 |
 | I Have the High Ground | 10.00% | ~655 |

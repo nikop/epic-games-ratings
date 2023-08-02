@@ -28,12 +28,12 @@
 | Single Person On Earth | 3.00% | ~5 |
 | Bullet Hell | 2.00% | ~3 |
 | Ice Breaker | 2.00% | ~3 |
+| Untouchable | 2.00% | ~3 |
 | Machine Man | 1.00% | ~2 |
 | Mushroom Man | 1.00% | ~2 |
 | Total Walrus | 1.00% | ~2 |
 | True Victory | 1.00% | ~2 |
 | Victory That Is Even More True | 1.00% | ~2 |
-| Untouchable | 1.00% | ~2 |
 | What Even Are You? | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 151 (Ranked 298)  

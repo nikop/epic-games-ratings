@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,10 +15,10 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3047,
+  "EOS_Progressed": 3048,
   "EOS_Completed": 129,
-  "EOS_NewPlayers": 33,
-  "EOS_NewCompleters": 17,
+  "EOS_NewPlayers": 34,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 4.23,
   "EosHistory": [
     {
@@ -3970,6 +3970,11 @@
       "Time": "2023-08-01T20:06:31.7201751+00:00",
       "NumProgressed": 3047,
       "NumCompleted": 129
+    },
+    {
+      "Time": "2023-08-02T05:07:27.9188502+00:00",
+      "NumProgressed": 3048,
+      "NumCompleted": 129
     }
   ],
   "TotalAchievements": 24,
@@ -3981,7 +3986,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "10",
@@ -4172,13 +4177,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3047,
+      "Progressed": 3048,
       "Completed": 129
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-02T04:05:50.9460807+00:00",
+  "LastChanged_Achievements": "2023-08-02T05:07:27.9188496+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:49.7326864+00:00",
-  "LastUpdate_Ratings": "2023-08-02T03:59:15.9458212+00:00",
-  "LastUpdate_Achievements": "2023-08-02T04:05:50.9461226+00:00"
+  "LastUpdate_Ratings": "2023-08-02T05:00:14.8002613+00:00",
+  "LastUpdate_Achievements": "2023-08-02T05:07:27.9188993+00:00"
 }

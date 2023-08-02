@@ -6,7 +6,7 @@ Rating: 4.53 (Ranked 512)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 80.00% | ~1,467 |
-| Become King | 72.00% | ~1,320 |
+| Become King | 73.00% | ~1,339 |
 | Defeat 25 Frogs | 62.00% | ~1,137 |
 | Ranged Weapon | 61.00% | ~1,119 |
 | Collect Monster Parts | 58.00% | ~1,064 |

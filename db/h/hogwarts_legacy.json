@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5784,9 +5784,9 @@
       "Count": 574
     }
   ],
-  "EOS_Progressed": 289161,
+  "EOS_Progressed": 289162,
   "EOS_Completed": 437,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16939,6 +16939,11 @@
       "Time": "2023-08-02T03:04:55.4218159+00:00",
       "NumProgressed": 289161,
       "NumCompleted": 437
+    },
+    {
+      "Time": "2023-08-02T05:05:54.0134458+00:00",
+      "NumProgressed": 289162,
+      "NumCompleted": 437
     }
   ],
   "TotalAchievements": 45,
@@ -16958,7 +16963,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26024
+      "UsersEstimate": 26025
     },
     {
       "ID": "PFA_11",
@@ -16966,7 +16971,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26024
+      "UsersEstimate": 26025
     },
     {
       "ID": "PFA_12",
@@ -16974,7 +16979,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26024
+      "UsersEstimate": 26025
     },
     {
       "ID": "PFA_13",
@@ -17006,7 +17011,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26024
+      "UsersEstimate": 26025
     },
     {
       "ID": "PFA_17",
@@ -17078,7 +17083,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26024
+      "UsersEstimate": 26025
     },
     {
       "ID": "PFA_25",
@@ -17134,7 +17139,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26024
+      "UsersEstimate": 26025
     },
     {
       "ID": "PFA_31",
@@ -17206,7 +17211,7 @@
       "Name": "Coasting Along",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26024
+      "UsersEstimate": 26025
     },
     {
       "ID": "PFA_4",
@@ -17309,7 +17314,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289161,
+      "Progressed": 289162,
       "Completed": 437
     }
   ],
@@ -17317,8 +17322,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-02T02:57:53.1808708+00:00",
-  "LastChanged_Achievements": "2023-08-02T04:04:45.31341+00:00",
+  "LastChanged_Achievements": "2023-08-02T05:05:54.0134451+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-08-02T03:57:57.8165863+00:00",
-  "LastUpdate_Achievements": "2023-08-02T04:04:45.3135186+00:00"
+  "LastUpdate_Ratings": "2023-08-02T04:58:15.2672698+00:00",
+  "LastUpdate_Achievements": "2023-08-02T05:05:54.013605+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 27,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -4410,7 +4410,7 @@
       "Count": 283
     }
   ],
-  "EOS_Progressed": 158873,
+  "EOS_Progressed": 158882,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 3533,
   "EOS_NewCompleters": 0,
@@ -15655,6 +15655,11 @@
       "Time": "2023-08-02T04:03:13.2170614+00:00",
       "NumProgressed": 158873,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-02T05:03:33.7169128+00:00",
+      "NumProgressed": 158882,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 16,
@@ -15666,7 +15671,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3178
     },
     {
       "ID": "Achievement_1",
@@ -15698,7 +15703,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 25420
+      "UsersEstimate": 25421
     },
     {
       "ID": "Achievement_13",
@@ -15738,7 +15743,7 @@
       "Name": "Freedom",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "Achievement_4",
@@ -15746,7 +15751,7 @@
       "Name": "Stone Walls",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 41307
+      "UsersEstimate": 41309
     },
     {
       "ID": "Achievement_5",
@@ -15762,7 +15767,7 @@
       "Name": "Confined",
       "Percentage": 0.4,
       "XP": 120,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "Achievement_7",
@@ -15793,15 +15798,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 158873,
+      "Progressed": 158882,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-08-01T17:59:40.1766167+00:00",
-  "LastChanged_Achievements": "2023-08-02T04:03:13.217061+00:00",
+  "LastChanged_Achievements": "2023-08-02T05:03:33.7169123+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:31.2081765+00:00",
-  "LastUpdate_Ratings": "2023-08-02T03:58:59.8755811+00:00",
-  "LastUpdate_Achievements": "2023-08-02T04:03:13.2171294+00:00"
+  "LastUpdate_Ratings": "2023-08-02T04:59:50.7716908+00:00",
+  "LastUpdate_Achievements": "2023-08-02T05:03:33.7170406+00:00"
 }

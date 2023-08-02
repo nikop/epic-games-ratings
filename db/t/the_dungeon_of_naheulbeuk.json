@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -582,9 +582,9 @@
       "Count": 146
     }
   ],
-  "EOS_Progressed": 204623,
+  "EOS_Progressed": 204636,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5807,
+  "EOS_NewPlayers": 5808,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5362,6 +5362,11 @@
       "Time": "2023-08-02T04:03:18.0345533+00:00",
       "NumProgressed": 204623,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T05:03:40.4181714+00:00",
+      "NumProgressed": 204636,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -5373,7 +5378,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 16370
+      "UsersEstimate": 16371
     },
     {
       "ID": "100Fail",
@@ -5405,7 +5410,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14324
+      "UsersEstimate": 14325
     },
     {
       "ID": "BookCollection",
@@ -5421,7 +5426,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 42971
+      "UsersEstimate": 42974
     },
     {
       "ID": "Chapter2",
@@ -5429,7 +5434,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 16370
+      "UsersEstimate": 16371
     },
     {
       "ID": "Chapter3",
@@ -5437,7 +5442,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10231
+      "UsersEstimate": 10232
     },
     {
       "ID": "Chapter4",
@@ -5453,7 +5458,7 @@
       "Name": "The Great Library",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4092
+      "UsersEstimate": 4093
     },
     {
       "ID": "Chapter6",
@@ -5461,7 +5466,7 @@
       "Name": "Torture and Sensibility",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4092
+      "UsersEstimate": 4093
     },
     {
       "ID": "Chapter7",
@@ -5469,7 +5474,7 @@
       "Name": "Urik\u0027s Depths",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4092
+      "UsersEstimate": 4093
     },
     {
       "ID": "Chapter8",
@@ -5493,7 +5498,7 @@
       "Name": "Friendly fire",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "CompanionMinstrel",
@@ -5773,7 +5778,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 96173
+      "UsersEstimate": 96179
     },
     {
       "ID": "DwarfElf15Support",
@@ -5805,7 +5810,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 34786
+      "UsersEstimate": 34788
     },
     {
       "ID": "ElfEpic",
@@ -5813,7 +5818,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4092
+      "UsersEstimate": 4093
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -5837,7 +5842,7 @@
       "Name": "GG EZ",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 57294
+      "UsersEstimate": 57298
     },
     {
       "ID": "EndCombatOneHp",
@@ -5845,7 +5850,7 @@
       "Name": "DM intervention",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 26601
+      "UsersEstimate": 26603
     },
     {
       "ID": "EndGameCursed",
@@ -5869,7 +5874,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 120728
+      "UsersEstimate": 120735
     },
     {
       "ID": "FollowBraztok",
@@ -5877,7 +5882,7 @@
       "Name": "The beards of change",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4092
+      "UsersEstimate": 4093
     },
     {
       "ID": "FollowNarzatok",
@@ -5925,7 +5930,7 @@
       "Name": "Gargantua",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4092
+      "UsersEstimate": 4093
     },
     {
       "ID": "Orktobearfest",
@@ -5957,7 +5962,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4092
+      "UsersEstimate": 4093
     },
     {
       "ID": "QuestEmile",
@@ -6021,7 +6026,7 @@
       "Name": "Speedrun",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 53202
+      "UsersEstimate": 53205
     },
     {
       "ID": "SupportCount4",
@@ -6061,7 +6066,7 @@
       "Name": "Material Girl",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4092
+      "UsersEstimate": 4093
     },
     {
       "ID": "WizardResistBurn",
@@ -6069,28 +6074,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 20462
+      "UsersEstimate": 20464
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 204623,
+      "Progressed": 204636,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 204623,
+      "Progressed": 204636,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-07-31T18:59:43.6869602+00:00",
-  "LastChanged_Achievements": "2023-08-02T04:03:18.0345525+00:00",
+  "LastChanged_Achievements": "2023-08-02T05:03:40.4181708+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:53.8375562+00:00",
-  "LastUpdate_Ratings": "2023-08-02T03:59:20.1918311+00:00",
-  "LastUpdate_Achievements": "2023-08-02T04:03:18.0346872+00:00"
+  "LastUpdate_Ratings": "2023-08-02T05:00:21.4694157+00:00",
+  "LastUpdate_Achievements": "2023-08-02T05:03:40.4183665+00:00"
 }

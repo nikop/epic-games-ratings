@@ -28,6 +28,7 @@ Number of Ratings: 371  (23.09.2022)
 | Corruption Cleanser | 0.30% | ~9 |
 | Efficient Killer | 0.30% | ~9 |
 | Long Distance Call | 0.30% | ~9 |
+| Tactical Sabotage | 0.30% | ~9 |
 | Daemonkeeper | 0.20% | ~6 |
 | Exterminator | 0.20% | ~6 |
 | Mind Like a Fortress | 0.20% | ~6 |
@@ -35,7 +36,6 @@ Number of Ratings: 371  (23.09.2022)
 | Junk Banishment | 0.20% | ~6 |
 | A Gift Spurned | 0.20% | ~6 |
 | Tactical Flexibility | 0.20% | ~6 |
-| Tactical Sabotage | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Blood and Iron | 0.10% | ~3 |
 | Clean Slate | 0.10% | ~3 |
