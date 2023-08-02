@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16835,
+  "EOS_Progressed": 16836,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -8786,6 +8786,11 @@
       "Time": "2023-08-01T22:03:45.0395848+00:00",
       "NumProgressed": 16835,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-08-02T00:03:41.2002236+00:00",
+      "NumProgressed": 16836,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 14,
@@ -8821,7 +8826,7 @@
       "Name": "Danger Ahead",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4545
+      "UsersEstimate": 4546
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -8908,15 +8913,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 16835,
+      "Progressed": 16836,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-08-01T23:03:14.1038053+00:00",
+  "LastChanged_Achievements": "2023-08-02T00:03:41.200223+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:19.368117+00:00",
-  "LastUpdate_Ratings": "2023-08-01T23:01:12.0644596+00:00",
-  "LastUpdate_Achievements": "2023-08-01T23:03:14.1038734+00:00"
+  "LastUpdate_Ratings": "2023-08-02T00:02:19.1782242+00:00",
+  "LastUpdate_Achievements": "2023-08-02T00:03:41.2002904+00:00"
 }

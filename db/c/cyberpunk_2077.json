@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewPlayers": 49,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -9767,9 +9767,9 @@
       "Count": 5467
     }
   ],
-  "EOS_Progressed": 868813,
+  "EOS_Progressed": 868814,
   "EOS_Completed": 1926,
-  "EOS_NewPlayers": 1183,
+  "EOS_NewPlayers": 1179,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -21052,6 +21052,11 @@
       "Time": "2023-08-01T23:04:16.4144053+00:00",
       "NumProgressed": 868813,
       "NumCompleted": 1926
+    },
+    {
+      "Time": "2023-08-02T00:05:03.9786866+00:00",
+      "NumProgressed": 868814,
+      "NumCompleted": 1926
     }
   ],
   "TotalAchievements": 44,
@@ -21087,7 +21092,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 156386
+      "UsersEstimate": 156387
     },
     {
       "ID": "Denied",
@@ -21279,7 +21284,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 590793
+      "UsersEstimate": 590794
     },
     {
       "ID": "TheHermit",
@@ -21303,7 +21308,7 @@
       "Name": "The Lovers",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 295396
+      "UsersEstimate": 295397
     },
     {
       "ID": "TheStar",
@@ -21335,7 +21340,7 @@
       "Name": "The World",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 156386
+      "UsersEstimate": 156387
     },
     {
       "ID": "ThisIsPacifica",
@@ -21375,7 +21380,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 95569
+      "UsersEstimate": 95570
     },
     {
       "ID": "UnderPressure",
@@ -21414,15 +21419,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 868813,
+      "Progressed": 868814,
       "Completed": 1926
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-08-01T21:59:00.6999666+00:00",
-  "LastChanged_Achievements": "2023-08-01T23:04:16.4144049+00:00",
+  "LastChanged_Achievements": "2023-08-02T00:05:03.9786861+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.8722173+00:00",
-  "LastUpdate_Ratings": "2023-08-01T22:58:30.7401662+00:00",
-  "LastUpdate_Achievements": "2023-08-01T23:04:16.4145175+00:00"
+  "LastUpdate_Ratings": "2023-08-01T23:59:06.1337305+00:00",
+  "LastUpdate_Achievements": "2023-08-02T00:05:03.9788203+00:00"
 }

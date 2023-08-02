@@ -9,20 +9,20 @@
 | 5Gb HDD | 52.00% | ~29 |
 | Merchant Prince I | 50.00% | ~28 |
 | Dominating | 34.00% | ~19 |
-| Fighting Fit I | 30.00% | ~17 |
-| Rambo I | 27.00% | ~15 |
-| 10Gb HDD | 27.00% | ~15 |
+| Fighting Fit I | 32.00% | ~18 |
+| Rambo I | 29.00% | ~16 |
+| 10Gb HDD | 29.00% | ~16 |
 | The Vette | 23.00% | ~13 |
-| Mega Kill | 20.00% | ~11 |
+| Mega Kill | 21.00% | ~12 |
 | Stoic | 16.00% | ~9 |
 | Almost There I | 16.00% | ~9 |
 | Bronze Prince of Ball-air | 11.00% | ~6 |
 | Omicron Alpha | 11.00% | ~6 |
 | Pacifist | 11.00% | ~6 |
+| Galactic Cadet | 11.00% | ~6 |
 | Collateral Damage I | 11.00% | ~6 |
 | Defrosted | 9.00% | ~5 |
 | 25Gb HDD | 9.00% | ~5 |
-| Galactic Cadet | 9.00% | ~5 |
 | Sectoral Ensign | 7.00% | ~4 |
 | Rambo II | 7.00% | ~4 |
 | Golden Prince of Ball-air | 7.00% | ~4 |

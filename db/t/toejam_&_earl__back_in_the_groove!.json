@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56162,
+  "EOS_Progressed": 56165,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6732,6 +6732,11 @@
       "Time": "2023-08-01T21:05:18.0593669+00:00",
       "NumProgressed": 56162,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-02T00:06:55.4793497+00:00",
+      "NumProgressed": 56165,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -6807,7 +6812,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "FlyingPresent",
@@ -7055,7 +7060,7 @@
       "Name": "Sunflower Master",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "Teamwork",
@@ -7134,7 +7139,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56162,
+      "Progressed": 56165,
       "Completed": 4
     }
   ],
@@ -7142,8 +7147,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-08-01T23:05:50.7349771+00:00",
+  "LastChanged_Achievements": "2023-08-02T00:06:55.4793492+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:57.4410287+00:00",
-  "LastUpdate_Ratings": "2023-08-01T22:57:01.8584854+00:00",
-  "LastUpdate_Achievements": "2023-08-01T23:05:50.7350587+00:00"
+  "LastUpdate_Ratings": "2023-08-01T23:57:24.2169388+00:00",
+  "LastUpdate_Achievements": "2023-08-02T00:06:55.4794508+00:00"
 }

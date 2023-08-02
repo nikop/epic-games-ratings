@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Just Went Shopping | 97.00% | ~338 |
 | Decision Maker | 80.00% | ~278 |
+| Sneaky Sneak | 78.00% | ~271 |
 | DIY | 78.00% | ~271 |
-| Sneaky Sneak | 77.00% | ~268 |
 | Master Chef | 65.00% | ~226 |
 | Master of Cards | 59.00% | ~205 |
 | Over Nine Thousaaand | 57.00% | ~198 |
@@ -34,7 +34,7 @@
 | Through Hell and Back | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 348 (Ranked 246)  
-Completed: 10 (2.87%) (Ranked 70)  
+Completed: 10 (2.87%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -34,10 +34,10 @@ Rating: 4.44 (Ranked 646)
 | El Riesgo Siempre Vive | 21.00% | ~648 |
 | One For Every Occasion | 18.00% | ~556 |
 | Frontliner | 18.00% | ~556 |
+| The Cable Guy | 18.00% | ~556 |
 | Excavating The Truth | 18.00% | ~556 |
 | Abysmal Horrors | 18.00% | ~556 |
 | Bandage Lover | 17.00% | ~525 |
-| The Cable Guy | 17.00% | ~525 |
 | Regicide | 13.00% | ~401 |
 | Flawless Victory | 11.00% | ~340 |
 | This Went Smoothly | 11.00% | ~340 |
@@ -51,7 +51,7 @@ Rating: 4.44 (Ranked 646)
 | Perfect Organism | 0.60% | ~19 |
 | This Ain't No Picnic | 0.40% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,088 (Ranked 154)  
+Progressed: 3,088 (Ranked 155)  
 Completed: 2 (0.06%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |

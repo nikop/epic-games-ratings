@@ -8,7 +8,7 @@
 | A bottomless pit | 87.00% | ~66 |
 | Pigeon | 82.00% | ~62 |
 | Baited | 70.00% | ~53 |
-| "Swoosh" | 61.00% | ~46 |
+| "Swoosh" | 62.00% | ~47 |
 | The light at the end of the tunnel | 59.00% | ~45 |
 | Splash! | 57.00% | ~43 |
 | Masochistic | 53.00% | ~40 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76 (Ranked 336)  
+Progressed: 76 (Ranked 338)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |

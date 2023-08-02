@@ -14,7 +14,7 @@ Rating: 4.87 (Ranked 24)
 | You got this, Peppermint? | 4.00% | ~147 |
 | Perfect Parry | 4.00% | ~147 |
 | Alright, that felt AWESOME! | 4.00% | ~147 |
-| NOW we got a kickass hideout! | 4.00% | ~87 |
+| NOW we got a kickass hideout! | 4.00% | ~88 |
 | This will cost you big time | 3.00% | ~110 |
 | The Negotiator | 3.00% | ~110 |
 | Headliner | 3.00% | ~110 |
@@ -39,7 +39,7 @@ Rating: 4.87 (Ranked 24)
 | Wanna hear my playlist? | 0.90% | ~33 |
 | I told you I'd be fine, Peppermint! | 0.80% | ~29 |
 | Check out my moves! | 0.80% | ~29 |
-| Call me Turbo Chai | 0.80% | ~17 |
+| Call me Turbo Chai | 0.80% | ~18 |
 | I think I found your calling, Macaron | 0.70% | ~26 |
 | I think I deserve some praise, here! | 0.50% | ~18 |
 | This is a breeze! | 0.50% | ~18 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,666 (Ranked 146)  
+Progressed: 3,668 (Ranked 146)  
 Completed: 6 (0.16%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,6 +179,7 @@ Completed: 6 (0.16%) (Ranked 180)
 | 2023-07-30 | 3,640 | 6 |
 | 2023-07-31 | 3,656 | 6 |
 | 2023-08-01 | 3,666 | 6 |
+| 2023-08-02 | 3,668 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

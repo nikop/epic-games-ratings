@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34323,
+  "EOS_Progressed": 34327,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -9709,6 +9709,11 @@
       "Time": "2023-08-01T23:05:12.3444844+00:00",
       "NumProgressed": 34323,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-08-02T00:06:10.5956179+00:00",
+      "NumProgressed": 34327,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 14,
@@ -9736,7 +9741,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8924
+      "UsersEstimate": 8925
     },
     {
       "ID": "allItems",
@@ -9744,7 +9749,7 @@
       "Name": "Excavator",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "allSecrets",
@@ -9800,7 +9805,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 8581
+      "UsersEstimate": 8582
     },
     {
       "ID": "firstItem",
@@ -9808,7 +9813,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 26429
+      "UsersEstimate": 26432
     },
     {
       "ID": "roots",
@@ -9816,7 +9821,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 5835
+      "UsersEstimate": 5836
     },
     {
       "ID": "secretItem",
@@ -9831,15 +9836,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 34323,
+      "Progressed": 34327,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-08-01T23:05:12.344484+00:00",
+  "LastChanged_Achievements": "2023-08-02T00:06:10.5956175+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:09.7602428+00:00",
-  "LastUpdate_Ratings": "2023-08-01T23:01:05.0128115+00:00",
-  "LastUpdate_Achievements": "2023-08-01T23:05:12.3445563+00:00"
+  "LastUpdate_Ratings": "2023-08-02T00:02:11.0802504+00:00",
+  "LastUpdate_Achievements": "2023-08-02T00:06:10.5957063+00:00"
 }

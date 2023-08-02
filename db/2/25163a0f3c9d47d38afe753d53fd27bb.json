@@ -2041,9 +2041,9 @@
       "ID": "LEVEL_003",
       "SetID": "212bg48",
       "Name": "A horse in the country",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 444
     },
     {
       "ID": "LEVEL_004",
@@ -2057,9 +2057,9 @@
       "ID": "LEVEL_005",
       "SetID": "212bg48",
       "Name": "Small village",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 300
     },
     {
       "ID": "LEVEL_006",
@@ -2272,8 +2272,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-08-01T23:06:38.6257115+00:00",
+  "LastChanged_Achievements": "2023-08-02T00:07:51.0482343+00:00",
   "LastUpdate_AppInfo": "2023-07-31T17:57:14.0464775+00:00",
-  "LastUpdate_Ratings": "2023-08-01T22:57:35.0851799+00:00",
-  "LastUpdate_Achievements": "2023-08-01T23:06:38.6257466+00:00"
+  "LastUpdate_Ratings": "2023-08-01T23:58:03.2367948+00:00",
+  "LastUpdate_Achievements": "2023-08-02T00:07:51.048269+00:00"
 }

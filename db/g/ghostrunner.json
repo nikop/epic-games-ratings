@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -1032,9 +1032,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14171,
+  "EOS_Progressed": 14172,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 757,
+  "EOS_NewPlayers": 756,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -11987,6 +11987,11 @@
       "Time": "2023-08-01T23:03:51.3287631+00:00",
       "NumProgressed": 14171,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-08-02T00:04:34.9498895+00:00",
+      "NumProgressed": 14172,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 45,
@@ -12022,7 +12027,7 @@
       "Name": "Back to hell",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5243
+      "UsersEstimate": 5244
     },
     {
       "ID": "CantRunCantHide",
@@ -12062,7 +12067,7 @@
       "Name": "Finish line",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 3684
+      "UsersEstimate": 3685
     },
     {
       "ID": "GRProjectComplete",
@@ -12094,7 +12099,7 @@
       "Name": "I call it luck",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 6235
+      "UsersEstimate": 6236
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -12134,7 +12139,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 10770
+      "UsersEstimate": 10771
     },
     {
       "ID": "MoreThanHuman",
@@ -12222,7 +12227,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 7652
+      "UsersEstimate": 7653
     },
     {
       "ID": "RunningWild",
@@ -12270,7 +12275,7 @@
       "Name": "Sword Runner",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 8786
+      "UsersEstimate": 8787
     },
     {
       "ID": "SwordToAGunfight",
@@ -12294,7 +12299,7 @@
       "Name": "Unstoppable force",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 3259
+      "UsersEstimate": 3260
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -12318,7 +12323,7 @@
       "Name": "Wallrunner",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 7652
+      "UsersEstimate": 7653
     },
     {
       "ID": "WaveOfMutilation",
@@ -12334,7 +12339,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 5810
+      "UsersEstimate": 5811
     },
     {
       "ID": "WhereHeStood",
@@ -12350,28 +12355,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4251
+      "UsersEstimate": 4252
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 14171,
+      "Progressed": 14172,
       "Completed": 33
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 14171,
+      "Progressed": 14172,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-07-31T08:58:47.177129+00:00",
-  "LastChanged_Achievements": "2023-08-01T23:03:51.3287626+00:00",
+  "LastChanged_Achievements": "2023-08-02T00:04:34.949889+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:57.4259207+00:00",
-  "LastUpdate_Ratings": "2023-08-01T22:58:44.9174819+00:00",
-  "LastUpdate_Achievements": "2023-08-01T23:03:51.3288696+00:00"
+  "LastUpdate_Ratings": "2023-08-01T23:59:21.7079346+00:00",
+  "LastUpdate_Achievements": "2023-08-02T00:04:34.9500333+00:00"
 }

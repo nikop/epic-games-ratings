@@ -5,23 +5,23 @@ Rating: 4.64 (Ranked 316)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,495 |
-| I will survive! | 92.00% | ~4,446 |
-| All thumbs | 91.00% | ~4,398 |
-| Home, sweet home | 90.00% | ~4,350 |
-| Survivalist | 89.00% | ~4,301 |
-| One way ticket | 83.00% | ~4,011 |
-| Last man standing | 78.00% | ~3,770 |
-| Family guy | 76.00% | ~3,673 |
-| Out of the Bag | 74.00% | ~3,576 |
+| Prepper | 93.00% | ~4,496 |
+| I will survive! | 92.00% | ~4,447 |
+| All thumbs | 91.00% | ~4,399 |
+| Home, sweet home | 90.00% | ~4,351 |
+| Survivalist | 89.00% | ~4,302 |
+| One way ticket | 83.00% | ~4,012 |
+| Last man standing | 78.00% | ~3,771 |
+| Family guy | 76.00% | ~3,674 |
+| Out of the Bag | 74.00% | ~3,577 |
 | The Dark Side | 69.00% | ~3,335 |
-| Duck and cover! | 64.00% | ~3,093 |
+| Duck and cover! | 64.00% | ~3,094 |
 | Souper! | 63.00% | ~3,045 |
 | 2-1-6 | 57.00% | ~2,755 |
 | Pacifist | 57.00% | ~2,755 |
-| A gift | 52.00% | ~2,513 |
-| Girl Power | 46.00% | ~2,223 |
-| What goes around... | 43.00% | ~2,078 |
+| A gift | 52.00% | ~2,514 |
+| Girl Power | 46.00% | ~2,224 |
+| What goes around... | 43.00% | ~2,079 |
 | Be Prepared | 36.00% | ~1,740 |
 | Unbreakable | 35.00% | ~1,692 |
 | This is the end | 33.00% | ~1,595 |
@@ -55,18 +55,18 @@ Rating: 4.64 (Ranked 316)
 | Not Alone | 2.00% | ~97 |
 | Raining Cats and Dogs | 1.00% | ~48 |
 | Konrad style! | 1.00% | ~48 |
-| Cuckoo's nest | 0.90% | ~43 |
+| Cuckoo's nest | 0.90% | ~44 |
 | Bughunter | 0.80% | ~39 |
 | Cat Lady | 0.70% | ~34 |
 | Pro gamer | 0.70% | ~34 |
 | Naysayer | 0.60% | ~29 |
 | Manhattan Project | 0.50% | ~24 |
 | Fair Exchange | 0.40% | ~19 |
-| Miracle | 0.30% | ~14 |
+| Miracle | 0.30% | ~15 |
 | Tora! Tora! Tora! | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,833 (Ranked 141)  
+Progressed: 4,834 (Ranked 141)  
 Completed: 1 (0.02%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,6 +170,7 @@ Completed: 1 (0.02%) (Ranked 227)
 | 2023-07-30 | 4,813 | 1 |
 | 2023-07-31 | 4,822 | 1 |
 | 2023-08-01 | 4,833 | 1 |
+| 2023-08-02 | 4,834 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

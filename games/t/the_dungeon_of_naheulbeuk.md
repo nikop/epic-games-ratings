@@ -1,33 +1,33 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.57 (Ranked 445)  
+Rating: 4.57 (Ranked 446)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~120,677 |
-| Where's that freaking Dwarf? | 47.00% | ~96,133 |
-| GG EZ | 28.00% | ~57,271 |
-| Speedrun | 26.00% | ~53,180 |
-| Déjà vu | 21.00% | ~42,953 |
-| Sock! SOCK! | 17.00% | ~34,771 |
-| DM intervention | 13.00% | ~26,590 |
-| Fireproof Wizardess | 10.00% | ~20,454 |
-| Livin' in a dwarven paradise | 8.00% | ~16,363 |
-| A beer, two curses, three companions | 8.00% | ~16,363 |
-| Way of the Wimp | 7.00% | ~14,318 |
-| The plot thickens... At the tavern | 5.00% | ~10,227 |
+| Alt+F4 | 59.00% | ~120,689 |
+| Where's that freaking Dwarf? | 47.00% | ~96,142 |
+| GG EZ | 28.00% | ~57,276 |
+| Speedrun | 26.00% | ~53,185 |
+| Déjà vu | 21.00% | ~42,957 |
+| Sock! SOCK! | 17.00% | ~34,775 |
+| DM intervention | 13.00% | ~26,592 |
+| Fireproof Wizardess | 10.00% | ~20,456 |
+| Livin' in a dwarven paradise | 8.00% | ~16,365 |
+| A beer, two curses, three companions | 8.00% | ~16,365 |
+| Way of the Wimp | 7.00% | ~14,319 |
+| The plot thickens... At the tavern | 5.00% | ~10,228 |
 | The Woman in the High Castle | 4.00% | ~8,182 |
 | I am the night | 4.00% | ~8,182 |
 | Team Building Exercise | 4.00% | ~8,182 |
-| Shiny and Crôm | 3.00% | ~6,136 |
-| The demons' feast | 3.00% | ~6,136 |
-| Res Judicata | 3.00% | ~6,136 |
-| Dwarf Fortress | 3.00% | ~6,136 |
-| The Ranger of Chaos | 3.00% | ~6,136 |
-| Thieves' Guild Accreditation | 3.00% | ~6,136 |
-| Oh, when I'll be level 10... | 3.00% | ~6,136 |
+| Shiny and Crôm | 3.00% | ~6,137 |
+| The demons' feast | 3.00% | ~6,137 |
+| Res Judicata | 3.00% | ~6,137 |
+| Dwarf Fortress | 3.00% | ~6,137 |
+| The Ranger of Chaos | 3.00% | ~6,137 |
+| Thieves' Guild Accreditation | 3.00% | ~6,137 |
+| Oh, when I'll be level 10... | 3.00% | ~6,137 |
 | The Great Library | 2.00% | ~4,091 |
 | Torture and Sensibility | 2.00% | ~4,091 |
 | Urik's Depths | 2.00% | ~4,091 |
@@ -36,15 +36,15 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 2.00% | ~4,091 |
 | In Navalu's footsteps | 2.00% | ~4,091 |
 | Material Girl | 2.00% | ~4,091 |
-| The Dungeon Master | 1.00% | ~2,045 |
-| The Statuette of Gladeulfeurah | 1.00% | ~2,045 |
-| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,045 |
-| A tale of adventurers not quite like the others... | 1.00% | ~2,045 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,045 |
-| Dead for good | 1.00% | ~2,045 |
-| Law and Order | 1.00% | ~2,045 |
-| It's been a hard day's night | 1.00% | ~2,045 |
-| Lust and Debauchery | 1.00% | ~2,045 |
+| The Dungeon Master | 1.00% | ~2,046 |
+| The Statuette of Gladeulfeurah | 1.00% | ~2,046 |
+| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,046 |
+| A tale of adventurers not quite like the others... | 1.00% | ~2,046 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,046 |
+| Dead for good | 1.00% | ~2,046 |
+| Law and Order | 1.00% | ~2,046 |
+| It's been a hard day's night | 1.00% | ~2,046 |
+| Lust and Debauchery | 1.00% | ~2,046 |
 | Lëgal Legend | 0.80% | ~1,636 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,432 |
 | Holistic Adventuring Party | 0.50% | ~1,023 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,538 (Ranked 55)  
+Progressed: 204,557 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,6 +158,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 203,178 | 0 |
 | 2023-07-31 | 203,882 | 0 |
 | 2023-08-01 | 204,538 | 0 |
+| 2023-08-02 | 204,557 | 0 |
 ## Awards
 Max (Character Customization): 146  (Ranked 298)  
 Sum: 146 (Ranked 393)  

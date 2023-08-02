@@ -441,9 +441,9 @@
       "ID": "Cleared10LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo I",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Cleared2001LevelsAchievement",
@@ -897,9 +897,9 @@
       "ID": "Killed1000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Mega Kill",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Killed100BossesAchievement",
@@ -1009,9 +1009,9 @@
       "ID": "PerksUnlocked10Achievement",
       "SetID": "a8djcgh",
       "Name": "10Gb HDD",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "PerksUnlocked25Achievement",
@@ -1065,9 +1065,9 @@
       "ID": "PlayedFor1HourAchievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Cadet",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "PlayedFor20HoursAchievement",
@@ -1345,9 +1345,9 @@
       "ID": "VisitRegular10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Fighting Fit I",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "VisitRegular2000TimeAchievement",
@@ -1368,8 +1368,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-08-01T23:05:53.3421697+00:00",
+  "LastChanged_Achievements": "2023-08-02T00:06:58.6422612+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:39.4262374+00:00",
-  "LastUpdate_Ratings": "2023-08-01T22:59:28.5905859+00:00",
-  "LastUpdate_Achievements": "2023-08-01T23:05:53.3423738+00:00"
+  "LastUpdate_Ratings": "2023-08-02T00:00:18.9145205+00:00",
+  "LastUpdate_Achievements": "2023-08-02T00:06:58.6424316+00:00"
 }

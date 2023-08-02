@@ -1577,7 +1577,7 @@
   ],
   "EOS_Progressed": 13228,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9752,9 +9752,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
       "SetID": "7l38kb8",
       "Name": "Just Difficulty",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
@@ -11366,8 +11366,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-01T16:59:10.6733314+00:00",
-  "LastChanged_Achievements": "2023-08-01T23:06:39.4283253+00:00",
+  "LastChanged_Achievements": "2023-08-02T00:07:52.4410912+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.4550053+00:00",
-  "LastUpdate_Ratings": "2023-08-01T22:58:35.1399192+00:00",
-  "LastUpdate_Achievements": "2023-08-01T23:06:39.4292944+00:00"
+  "LastUpdate_Ratings": "2023-08-01T23:59:10.8573297+00:00",
+  "LastUpdate_Achievements": "2023-08-02T00:07:52.4418653+00:00"
 }

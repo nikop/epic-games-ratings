@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 227,
+  "EOS_Progressed": 228,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -936,6 +936,11 @@
       "Time": "2023-08-01T22:03:51.6899417+00:00",
       "NumProgressed": 227,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T00:03:47.8147086+00:00",
+      "NumProgressed": 228,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -947,7 +952,7 @@
       "Name": "The first of many",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -1145,9 +1150,9 @@
       "ID": "TUTORIAL_COMPLETED",
       "SetID": "aemieak",
       "Name": "Graduated in contraptions",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "LEVEL_EXTREME",
@@ -1171,7 +1176,7 @@
       "Name": "First medium level",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "TUTORIAL_FIRST",
@@ -1186,14 +1191,14 @@
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 227,
+      "Progressed": 228,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-08-01T23:03:19.798585+00:00",
+  "LastChanged_Achievements": "2023-08-02T00:03:47.8147079+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.942279+00:00",
-  "LastUpdate_Ratings": "2023-08-01T22:58:46.9382205+00:00",
-  "LastUpdate_Achievements": "2023-08-01T23:03:19.7986147+00:00"
+  "LastUpdate_Ratings": "2023-08-01T23:59:24.1999876+00:00",
+  "LastUpdate_Achievements": "2023-08-02T00:03:47.8147376+00:00"
 }

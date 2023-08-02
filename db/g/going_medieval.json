@@ -6720,9 +6720,9 @@
       "ID": "SURVIVE_FIRST_WINTER",
       "SetID": "5349c2e",
       "Name": "Winter Is Here",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1148
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -6752,9 +6752,9 @@
       "ID": "UNLOCK_RESEARCH_10",
       "SetID": "5349c2e",
       "Name": "Adept Researcher",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 2196
+      "UsersEstimate": 2246
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -6792,8 +6792,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-01T13:07:57.285265+00:00",
-  "LastChanged_Achievements": "2023-08-01T23:03:41.8401047+00:00",
+  "LastChanged_Achievements": "2023-08-02T00:04:23.1049656+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:44.1332197+00:00",
-  "LastUpdate_Ratings": "2023-08-01T23:00:43.5929072+00:00",
-  "LastUpdate_Achievements": "2023-08-01T23:03:41.8401616+00:00"
+  "LastUpdate_Ratings": "2023-08-02T00:01:45.5360917+00:00",
+  "LastUpdate_Achievements": "2023-08-02T00:04:23.1050443+00:00"
 }

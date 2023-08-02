@@ -1490,9 +1490,9 @@
       "ID": "ID_03_SONIC2_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic the Hedgehog 2",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 276
     },
     {
       "ID": "ID_04_SONIC3K_WATCH_OPENING",
@@ -1762,8 +1762,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-25T19:58:34.9167983+00:00",
-  "LastChanged_Achievements": "2023-08-01T23:03:25.8573053+00:00",
+  "LastChanged_Achievements": "2023-08-02T00:03:54.8554651+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:41.5361086+00:00",
-  "LastUpdate_Ratings": "2023-08-01T22:58:22.9321923+00:00",
-  "LastUpdate_Achievements": "2023-08-01T23:03:25.8573398+00:00"
+  "LastUpdate_Ratings": "2023-08-01T23:58:56.0391995+00:00",
+  "LastUpdate_Achievements": "2023-08-02T00:03:54.8555004+00:00"
 }

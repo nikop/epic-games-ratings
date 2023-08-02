@@ -2,7 +2,7 @@
   "ID": "ceaa24233cdb4b678a1cf515e3a912e8",
   "Name": "God\u0027s Trigger",
   "ProductSlug": "gods-trigger",
-  "Ranking_Rating": 872,
+  "Ranking_Rating": 875,
   "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 521,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.17,
+  "Rating": 4.16,
   "NumberOfRatings": 114,
   "RatingHistory": [
     {
@@ -316,6 +316,12 @@
     {
       "Time": "2023-02-11T23:57:23.0503405+00:00",
       "Rating": 4.17
+    },
+    {
+      "Time": "2023-08-02T00:00:03.1778745+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 26,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
@@ -341,8 +347,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:51.7607722+00:00",
-  "LastChanged": "2023-02-11T23:57:23.0503403+00:00",
+  "LastChanged": "2023-08-02T00:00:03.1778743+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:28.6744235+00:00",
-  "LastUpdate_Ratings": "2023-08-01T22:59:16.8902366+00:00",
-  "LastUpdate_Achievements": "2023-08-01T23:05:30.5527011+00:00"
+  "LastUpdate_Ratings": "2023-08-02T00:00:03.1778753+00:00",
+  "LastUpdate_Achievements": "2023-08-02T00:06:31.542173+00:00"
 }

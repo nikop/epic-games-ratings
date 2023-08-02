@@ -784,9 +784,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 254083,
+  "EOS_Progressed": 254084,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11309,6 +11309,11 @@
       "Time": "2023-08-01T23:06:31.6306653+00:00",
       "NumProgressed": 254083,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-02T00:07:42.6891337+00:00",
+      "NumProgressed": 254084,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -11552,7 +11557,7 @@
       "Name": "Interior designer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "KillCrawlingThing",
@@ -11592,7 +11597,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7622
+      "UsersEstimate": 7623
     },
     {
       "ID": "KillOtherWithMine",
@@ -11767,7 +11772,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 254083,
+      "Progressed": 254084,
       "Completed": 3
     }
   ],
@@ -11775,8 +11780,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-31T23:01:20.141469+00:00",
-  "LastChanged_Achievements": "2023-08-01T23:06:31.630664+00:00",
+  "LastChanged_Achievements": "2023-08-02T00:07:42.6891333+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:16.1144116+00:00",
-  "LastUpdate_Ratings": "2023-08-01T23:01:09.0151388+00:00",
-  "LastUpdate_Achievements": "2023-08-01T23:06:31.6307831+00:00"
+  "LastUpdate_Ratings": "2023-08-02T00:02:15.7809014+00:00",
+  "LastUpdate_Achievements": "2023-08-02T00:07:42.6892423+00:00"
 }

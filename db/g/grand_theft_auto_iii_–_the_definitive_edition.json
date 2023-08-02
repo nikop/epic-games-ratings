@@ -406,9 +406,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7349,
+  "EOS_Progressed": 7350,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -6706,6 +6706,11 @@
       "Time": "2023-08-01T23:05:39.472416+00:00",
       "NumProgressed": 7349,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-02T00:06:42.323156+00:00",
+      "NumProgressed": 7350,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 29,
@@ -6725,7 +6730,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2425
+      "UsersEstimate": 2426
     },
     {
       "ID": "ACH03",
@@ -6733,15 +6738,15 @@
       "Name": "Escape Artist",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH04",
       "SetID": "552d41m",
       "Name": "Disposing of the Evidence",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2720
     },
     {
       "ID": "ACH05",
@@ -6765,7 +6770,7 @@
       "Name": "Planned Ahead",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH08",
@@ -6773,7 +6778,7 @@
       "Name": "Got This Figured Out",
       "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH09",
@@ -6797,7 +6802,7 @@
       "Name": "Wheels Up",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH12",
@@ -6805,7 +6810,7 @@
       "Name": "Come Out to Play-y-y-y",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH13",
@@ -6813,7 +6818,7 @@
       "Name": "Where To?",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH14",
@@ -6821,7 +6826,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "ACH15",
@@ -6837,7 +6842,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "ACH17",
@@ -6845,7 +6850,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "ACH18",
@@ -6853,7 +6858,7 @@
       "Name": "Not So Fast",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ACH19",
@@ -6869,7 +6874,7 @@
       "Name": "Man Toyz",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH21",
@@ -6885,7 +6890,7 @@
       "Name": "Playing Doctor",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH23",
@@ -6893,7 +6898,7 @@
       "Name": "Going Rogue",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH24",
@@ -6948,7 +6953,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7349,
+      "Progressed": 7350,
       "Completed": 42
     }
   ],
@@ -6956,8 +6961,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-01T02:03:47.9919957+00:00",
-  "LastChanged_Achievements": "2023-08-01T23:05:39.4724156+00:00",
+  "LastChanged_Achievements": "2023-08-02T00:06:42.3231555+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:45.6186895+00:00",
-  "LastUpdate_Ratings": "2023-08-01T22:58:27.9589674+00:00",
-  "LastUpdate_Achievements": "2023-08-01T23:05:39.4724794+00:00"
+  "LastUpdate_Ratings": "2023-08-01T23:59:02.6941853+00:00",
+  "LastUpdate_Achievements": "2023-08-02T00:06:42.3232414+00:00"
 }

@@ -23,10 +23,10 @@
 | Leave Them no Cake | 7.00% | ~217 |
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~217 |
 | Your Biggest Fans | 6.00% | ~186 |
+| An Ally in Need | 6.00% | ~186 |
 | For the Queen | 6.00% | ~186 |
 | Not a Drop Wasted | 6.00% | ~186 |
 | A Secret Recipe | 6.00% | ~186 |
-| An Ally in Need | 5.00% | ~155 |
 | We Have the Technology | 5.00% | ~155 |
 | Work It | 4.00% | ~124 |
 | Reinforcements | 4.00% | ~124 |
@@ -38,7 +38,7 @@
 | Untouchable | 2.00% | ~62 |
 | All Geared Up | 1.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,095 (Ranked 153)  
+Progressed: 3,095 (Ranked 154)  
 Completed: 10 (0.32%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |

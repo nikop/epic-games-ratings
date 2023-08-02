@@ -1432,9 +1432,9 @@
       "ID": "22",
       "SetID": "73ikgfc",
       "Name": "House Vulisica\u0027s Heirloom",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 151
     },
     {
       "ID": "23",
@@ -1457,8 +1457,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-08-01T23:02:36.7711474+00:00",
+  "LastChanged_Achievements": "2023-08-02T00:03:33.3494202+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:26.3547076+00:00",
-  "LastUpdate_Ratings": "2023-08-01T23:00:28.192126+00:00",
-  "LastUpdate_Achievements": "2023-08-01T23:02:36.7711705+00:00"
+  "LastUpdate_Ratings": "2023-08-02T00:01:27.8111597+00:00",
+  "LastUpdate_Achievements": "2023-08-02T00:03:33.3494411+00:00"
 }

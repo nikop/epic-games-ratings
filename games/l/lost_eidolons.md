@@ -14,8 +14,8 @@ Rating: 4.33 (Ranked 762)
 | Awakening | 23.00% | ~248 |
 | Huntmaster | 21.00% | ~226 |
 | Complete the sidequest 'Malice and Greed' | 17.00% | ~183 |
+| House Vulisica's Heirloom | 14.00% | ~151 |
 | Digging Deep | 13.00% | ~140 |
-| House Vulisica's Heirloom | 13.00% | ~140 |
 | Broken Oath | 8.00% | ~86 |
 | Way of the King | 7.00% | ~75 |
 | Til We Meet Again | 4.00% | ~43 |

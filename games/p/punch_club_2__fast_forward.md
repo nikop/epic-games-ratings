@@ -16,7 +16,7 @@
 | Employee of the week | 75.00% | ~152 |
 | Neurotrainer – power gainer! | 74.00% | ~149 |
 | Your own amateur gym | 73.00% | ~147 |
-| Run K, run! | 71.00% | ~143 |
+| Run K, run! | 72.00% | ~145 |
 | Hello, world! | 67.00% | ~135 |
 | Fighting is cool | 66.00% | ~133 |
 | No bullying more | 66.00% | ~133 |
@@ -45,9 +45,9 @@
 | Get out of my apartment! | 38.00% | ~77 |
 | Underground dwellers | 37.00% | ~75 |
 | Responsible approach | 37.00% | ~75 |
+| GYM professional | 36.00% | ~73 |
 | Champion – no way back | 36.00% | ~73 |
 | Deal with life | 35.00% | ~71 |
-| GYM professional | 35.00% | ~71 |
 | Poisoned fighter | 35.00% | ~71 |
 | Seashell hunter | 33.00% | ~67 |
 | Mom got better | 32.00% | ~65 |
@@ -69,9 +69,9 @@
 | Anyone can resist | 27.00% | ~55 |
 | Silver’s past | 25.00% | ~50 |
 | Better cooking at home | 25.00% | ~50 |
-| The only right decision | 24.00% | ~48 |
+| The only right decision | 25.00% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202 (Ranked 281)  
+Progressed: 202 (Ranked 282)  
 Completed: 7 (3.47%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |

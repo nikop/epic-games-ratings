@@ -21,12 +21,12 @@ Rating: 4.60 (Ranked 390)
 | The Wicked Twins | 16.00% | ~131 |
 | Honest Mistake | 16.00% | ~131 |
 | Fast Learner | 16.00% | ~131 |
-| Like Clockwork | 15.00% | ~122 |
-| The Betrayer | 15.00% | ~122 |
-| The Man Who Shattered Time | 15.00% | ~122 |
-| The Loose Cannon | 15.00% | ~122 |
-| Golem Chaser | 15.00% | ~122 |
-| The Family Fortune | 15.00% | ~122 |
+| Like Clockwork | 15.00% | ~123 |
+| The Betrayer | 15.00% | ~123 |
+| The Man Who Shattered Time | 15.00% | ~123 |
+| The Loose Cannon | 15.00% | ~123 |
+| Golem Chaser | 15.00% | ~123 |
+| The Family Fortune | 15.00% | ~123 |
 | Treasure Trove | 14.00% | ~114 |
 | Right On Time | 14.00% | ~114 |
 | Cartographer | 14.00% | ~114 |
@@ -35,10 +35,10 @@ Rating: 4.60 (Ranked 390)
 | Whiz Kid | 11.00% | ~90 |
 | Chaincrawler Explorer | 10.00% | ~82 |
 | Good Neighbor | 10.00% | ~82 |
-| Family Memories | 9.00% | ~73 |
-| Sump Explorer | 9.00% | ~73 |
-| Theater Explorer | 9.00% | ~73 |
-| Ask Questions Later | 9.00% | ~73 |
+| Family Memories | 9.00% | ~74 |
+| Sump Explorer | 9.00% | ~74 |
+| Theater Explorer | 9.00% | ~74 |
+| Ask Questions Later | 9.00% | ~74 |
 | Factorywood Explorer | 8.00% | ~65 |
 | Fairgrounds Explorer | 8.00% | ~65 |
 | Syron for Hope | 8.00% | ~65 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 390)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 816 (Ranked 201)  
+Progressed: 817 (Ranked 201)  
 Completed: 5 (0.61%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,6 +129,7 @@ Completed: 5 (0.61%) (Ranked 127)
 | 2023-07-30 | 808 | 4 |
 | 2023-07-31 | 815 | 5 |
 | 2023-08-01 | 816 | 5 |
+| 2023-08-02 | 817 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

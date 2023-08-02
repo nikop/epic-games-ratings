@@ -52,6 +52,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 0.60% | ~79 |
 | Brilliant | 0.60% | ~79 |
 | Great | 0.60% | ~79 |
+| Just Difficulty | 0.60% | ~79 |
 | Artisans | 0.60% | ~79 |
 | Furious Family | 0.60% | ~79 |
 | Colossus | 0.60% | ~79 |
@@ -63,7 +64,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.50% | ~66 |
 | Valiant | 0.50% | ~66 |
 | Legendary Cities | 0.50% | ~66 |
-| Just Difficulty | 0.50% | ~66 |
 | Sages | 0.50% | ~66 |
 | Acropolis | 0.50% | ~66 |
 | Apadana | 0.50% | ~66 |

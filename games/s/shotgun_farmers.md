@@ -13,7 +13,7 @@
 | Cornivore | 50.00% | ~119 |
 | I Believe I Can Fly | 47.00% | ~112 |
 | Early Survivor | 42.00% | ~79 |
-| No Diggity | 40.00% | ~75 |
+| No Diggity | 41.00% | ~77 |
 | Amateur Survivor | 30.00% | ~56 |
 | 10K | 29.00% | ~69 |
 | Bouncemato | 29.00% | ~55 |
