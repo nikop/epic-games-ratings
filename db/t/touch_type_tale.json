@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3095,
+  "EOS_Progressed": 3096,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2634,6 +2634,11 @@
       "Time": "2023-08-01T23:04:30.7940412+00:00",
       "NumProgressed": 3095,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-02T02:25:45.9971398+00:00",
+      "NumProgressed": 3096,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2733,7 +2738,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "campaign15",
@@ -2781,7 +2786,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2445
+      "UsersEstimate": 2446
     },
     {
       "ID": "campaign20",
@@ -2908,7 +2913,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3095,
+      "Progressed": 3096,
       "Completed": 10
     }
   ],
@@ -2916,8 +2921,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-08-02T01:54:33.7378364+00:00",
+  "LastChanged_Achievements": "2023-08-02T02:25:45.9971393+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:07.7269994+00:00",
-  "LastUpdate_Ratings": "2023-08-02T01:51:05.7467357+00:00",
-  "LastUpdate_Achievements": "2023-08-02T01:54:33.7378808+00:00"
+  "LastUpdate_Ratings": "2023-08-02T02:22:01.5499586+00:00",
+  "LastUpdate_Achievements": "2023-08-02T02:25:45.9971811+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "knight-squad-2",
   "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-04-14T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:48.6821994+00:00",
   "LastChanged": "2023-03-31T05:57:48.6821995+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:05.0966409+00:00",
-  "LastUpdate_Ratings": "2023-08-02T01:47:50.5075171+00:00",
-  "LastUpdate_Achievements": "2023-08-02T01:52:25.7817359+00:00"
+  "LastUpdate_Ratings": "2023-08-02T02:19:09.629121+00:00",
+  "LastUpdate_Achievements": "2023-08-02T02:23:28.2125409+00:00"
 }

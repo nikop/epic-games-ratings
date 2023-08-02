@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -6431,9 +6431,9 @@
       "ID": "FINISH_RIOT_MODE",
       "SetID": "6j5ggkc",
       "Name": "Instigator",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -6463,9 +6463,9 @@
       "ID": "RIOT_10_POWERUPS",
       "SetID": "6j5ggkc",
       "Name": "Subject Alpha",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "SPEND_20000",
@@ -6550,8 +6550,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-30T15:58:22.9244985+00:00",
-  "LastChanged_Achievements": "2023-08-02T01:52:32.8526313+00:00",
+  "LastChanged_Achievements": "2023-08-02T02:24:14.5416224+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.2008274+00:00",
-  "LastUpdate_Ratings": "2023-08-02T01:48:34.6188695+00:00",
-  "LastUpdate_Achievements": "2023-08-02T01:52:32.8527014+00:00"
+  "LastUpdate_Ratings": "2023-08-02T02:19:48.9554784+00:00",
+  "LastUpdate_Achievements": "2023-08-02T02:24:14.5416939+00:00"
 }

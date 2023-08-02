@@ -1032,9 +1032,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14177,
+  "EOS_Progressed": 14178,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 754,
+  "EOS_NewPlayers": 755,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -11997,6 +11997,11 @@
       "Time": "2023-08-02T01:53:51.8439678+00:00",
       "NumProgressed": 14177,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-08-02T02:25:08.3735595+00:00",
+      "NumProgressed": 14178,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 45,
@@ -12032,7 +12037,7 @@
       "Name": "Back to hell",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5245
+      "UsersEstimate": 5246
     },
     {
       "ID": "CantRunCantHide",
@@ -12288,7 +12293,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4111
+      "UsersEstimate": 4112
     },
     {
       "ID": "TripleA",
@@ -12320,7 +12325,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 4111
+      "UsersEstimate": 4112
     },
     {
       "ID": "Wallrunner",
@@ -12367,21 +12372,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 14177,
+      "Progressed": 14178,
       "Completed": 33
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 14177,
+      "Progressed": 14178,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-07-31T08:58:47.177129+00:00",
-  "LastChanged_Achievements": "2023-08-02T01:53:51.8439667+00:00",
+  "LastChanged_Achievements": "2023-08-02T02:25:08.3735589+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:57.4259207+00:00",
-  "LastUpdate_Ratings": "2023-08-02T01:48:41.5447094+00:00",
-  "LastUpdate_Achievements": "2023-08-02T01:53:51.8440696+00:00"
+  "LastUpdate_Ratings": "2023-08-02T02:19:55.2664093+00:00",
+  "LastUpdate_Achievements": "2023-08-02T02:25:08.3736703+00:00"
 }

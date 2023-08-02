@@ -13,8 +13,8 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 2.00% | ~62 |
 | Purging Spree | 2.00% | ~62 |
 | An Ill Omen | 2.00% | ~62 |
+| Friendly Fire | 1.00% | ~31 |
 | Bloodless | 1.00% | ~31 |
-| Friendly Fire | 0.90% | ~28 |
 | Surgical Excision | 0.80% | ~25 |
 | A Foul Creche | 0.80% | ~25 |
 | Honoured Battle-Brother | 0.70% | ~22 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,101 (Ranked 153)  
+Progressed: 3,102 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 3,081 | 0 |
 | 2023-07-31 | 3,092 | 0 |
 | 2023-08-01 | 3,098 | 0 |
-| 2023-08-02 | 3,101 | 0 |
+| 2023-08-02 | 3,102 | 0 |
 ## Awards
 Max (Character Customization): 216  (Ranked 265)  
 Sum: 459 (Ranked 303)  

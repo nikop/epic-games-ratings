@@ -4,7 +4,7 @@
   "ProductSlug": "remedium-sentinels-b5debd",
   "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-07-18T15:00:00+00:00",
@@ -49,8 +49,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.6034199+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:42.2026782+00:00",
   "LastChanged": "2023-03-31T05:57:29.60342+00:00",
-  "LastChanged_Achievements": "2023-08-02T01:55:35.3476821+00:00",
+  "LastChanged_Achievements": "2023-08-02T02:26:42.7522136+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.3628061+00:00",
-  "LastUpdate_Ratings": "2023-08-02T01:46:45.5784848+00:00",
-  "LastUpdate_Achievements": "2023-08-02T01:55:35.3476856+00:00"
+  "LastUpdate_Ratings": "2023-08-02T02:18:14.6831301+00:00",
+  "LastUpdate_Achievements": "2023-08-02T02:26:42.7522153+00:00"
 }

@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 85,
+  "EOS_Progressed": 86,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 16,
-  "EOS_Completed_Percentage": 18.82,
+  "EOS_Completed_Percentage": 18.6,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -351,6 +351,11 @@
       "Time": "2023-08-01T23:04:32.3974134+00:00",
       "NumProgressed": 85,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-02T02:25:47.6895703+00:00",
+      "NumProgressed": 86,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -377,7 +382,7 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 100,
       "UsersEstimate": 39
     },
@@ -393,9 +398,9 @@
       "ID": "FirstBox",
       "SetID": "7jbi7el",
       "Name": "Test Task",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Floppy",
@@ -409,7 +414,7 @@
       "ID": "Fusses",
       "SetID": "7jbi7el",
       "Name": "Beginner Electrician",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 70,
       "UsersEstimate": 73
     },
@@ -417,7 +422,7 @@
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 100,
       "UsersEstimate": 37
     },
@@ -449,7 +454,7 @@
       "ID": "Screwdriver",
       "SetID": "7jbi7el",
       "Name": "Screwdriver",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 70,
       "UsersEstimate": 67
     },
@@ -457,7 +462,7 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 80,
       "UsersEstimate": 37
     },
@@ -465,7 +470,7 @@
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 80,
       "UsersEstimate": 37
     }
@@ -474,14 +479,14 @@
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 85,
+      "Progressed": 86,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-02T01:54:35.5282433+00:00",
+  "LastChanged_Achievements": "2023-08-02T02:25:47.6895697+00:00",
   "LastUpdate_AppInfo": "2023-08-01T17:57:05.506677+00:00",
-  "LastUpdate_Ratings": "2023-08-02T01:47:01.4479434+00:00",
-  "LastUpdate_Achievements": "2023-08-02T01:54:35.5282587+00:00"
+  "LastUpdate_Ratings": "2023-08-02T02:18:24.9839703+00:00",
+  "LastUpdate_Achievements": "2023-08-02T02:25:47.6895827+00:00"
 }

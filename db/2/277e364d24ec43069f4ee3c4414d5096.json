@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99997,
+  "EOS_Progressed": 99998,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1920,
+  "EOS_NewPlayers": 1921,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5611,6 +5611,11 @@
       "Time": "2023-08-02T01:55:40.703403+00:00",
       "NumProgressed": 99997,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-08-02T02:26:47.7096434+00:00",
+      "NumProgressed": 99998,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 49,
@@ -5646,7 +5651,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 24999
+      "UsersEstimate": 25000
     },
     {
       "ID": "EAwards_12",
@@ -5766,7 +5771,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 16999
+      "UsersEstimate": 17000
     },
     {
       "ID": "EAwards_26",
@@ -5806,7 +5811,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 17999
+      "UsersEstimate": 18000
     },
     {
       "ID": "EAwards_30",
@@ -6013,7 +6018,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 99997,
+      "Progressed": 99998,
       "Completed": 29
     }
   ],
@@ -6021,8 +6026,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-08-01T21:57:33.93343+00:00",
-  "LastChanged_Achievements": "2023-08-02T01:55:40.7034023+00:00",
+  "LastChanged_Achievements": "2023-08-02T02:26:47.7096429+00:00",
   "LastUpdate_AppInfo": "2023-07-27T18:56:58.2284125+00:00",
-  "LastUpdate_Ratings": "2023-08-02T01:47:10.3594704+00:00",
-  "LastUpdate_Achievements": "2023-08-02T01:55:40.703474+00:00"
+  "LastUpdate_Ratings": "2023-08-02T02:18:32.4341214+00:00",
+  "LastUpdate_Achievements": "2023-08-02T02:26:47.7097222+00:00"
 }

@@ -39,7 +39,8 @@ Rating: 4.20 (Ranked 849)
 | Big Spender | 0.40% | ~15 |
 | Quick Pick | 0.40% | ~15 |
 | Mugshot | 0.30% | ~47 |
-| Instigator | 0.20% | ~7 |
+| Instigator | 0.30% | ~11 |
+| Subject Alpha | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Glutton for Punishment | 0.10% | ~4 |
 | You Belong Here | 0.10% | ~4 |
@@ -49,7 +50,6 @@ Rating: 4.20 (Ranked 849)
 | Big Game Hunter | 0.10% | ~4 |
 | Bear Trap | 0.10% | ~4 |
 | Hoard Mode | 0.10% | ~4 |
-| Subject Alpha | 0.10% | ~4 |
 | Don't Let It Mellow | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

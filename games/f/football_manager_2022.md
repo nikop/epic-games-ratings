@@ -9,27 +9,27 @@ Number of Ratings: 19,160  (23.09.2022)
 | He's Signed! | 50.00% | ~234,422 |
 | First Victory | 50.00% | ~234,422 |
 | Clean Sheet | 49.00% | ~229,734 |
-| He's Sold! | 48.00% | ~225,045 |
-| I'm The Boss! | 42.00% | ~196,914 |
+| He's Sold! | 48.00% | ~225,046 |
+| I'm The Boss! | 42.00% | ~196,915 |
 | Hat-trick | 41.00% | ~192,226 |
 | Scoring Streak | 38.00% | ~178,161 |
-| Unbeatable! | 37.00% | ~173,472 |
-| Thumping | 37.00% | ~173,472 |
-| Superb Dressing Room Atmosphere | 35.00% | ~164,095 |
+| Unbeatable! | 37.00% | ~173,473 |
+| Thumping | 37.00% | ~173,473 |
+| Superb Dressing Room Atmosphere | 35.00% | ~164,096 |
 | Total Support | 32.00% | ~150,030 |
 | Record Signing | 32.00% | ~150,030 |
 | Millionaire's Club | 31.00% | ~145,342 |
-| Team Performance | 30.00% | ~140,653 |
-| He's a Natural | 30.00% | ~140,653 |
+| Team Performance | 30.00% | ~140,654 |
+| He's a Natural | 30.00% | ~140,654 |
 | Parked The Bus | 29.00% | ~135,965 |
 | Shrewd Spender | 29.00% | ~135,965 |
 | Star Man | 29.00% | ~135,965 |
-| Attack! | 28.00% | ~131,276 |
-| You're On Fire | 26.00% | ~121,899 |
-| On A Roll | 26.00% | ~121,899 |
-| Tremendous Trio | 26.00% | ~121,899 |
-| Unstoppable Force | 26.00% | ~121,899 |
-| Record Sale | 26.00% | ~121,899 |
+| Attack! | 28.00% | ~131,277 |
+| You're On Fire | 26.00% | ~121,900 |
+| On A Roll | 26.00% | ~121,900 |
+| Tremendous Trio | 26.00% | ~121,900 |
+| Unstoppable Force | 26.00% | ~121,900 |
+| Record Sale | 26.00% | ~121,900 |
 | Fantastic Five | 24.00% | ~112,523 |
 | Full Faith | 24.00% | ~112,523 |
 | The Boss | 24.00% | ~112,523 |
@@ -43,9 +43,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Bill of Health | 21.00% | ~98,457 |
 | Irresistible Force | 20.00% | ~93,769 |
 | Excellent Match Cohesion | 20.00% | ~93,769 |
-| Do The Double | 19.00% | ~89,080 |
-| Top Form | 17.00% | ~79,703 |
-| Cash To Burn | 17.00% | ~79,703 |
+| Do The Double | 19.00% | ~89,081 |
+| Top Form | 17.00% | ~79,704 |
+| Cash To Burn | 17.00% | ~79,704 |
 | Beating Expectations | 15.00% | ~70,327 |
 | Overachiever! | 15.00% | ~70,327 |
 | Rushed signing | 15.00% | ~70,327 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~469 |
 | Shoestring Budget | 0.10% | ~469 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468,844 (Ranked 36)  
+Progressed: 468,845 (Ranked 36)  
 Completed: 19 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 19 (0.00%) (Ranked 247)
 | 2023-07-30 | 468,647 | 19 |
 | 2023-07-31 | 468,736 | 19 |
 | 2023-08-01 | 468,840 | 19 |
-| 2023-08-02 | 468,844 | 19 |
+| 2023-08-02 | 468,845 | 19 |
 ## Awards
 Max (Relaxing): 6,382  (Ranked 52)  
 Sum: 50,260 (Ranked 24)  

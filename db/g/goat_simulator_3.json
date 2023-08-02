@@ -2878,9 +2878,9 @@
       "Count": 260
     }
   ],
-  "EOS_Progressed": 235055,
+  "EOS_Progressed": 235056,
   "EOS_Completed": 783,
-  "EOS_NewPlayers": 997,
+  "EOS_NewPlayers": 998,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -13918,6 +13918,11 @@
       "Time": "2023-08-02T01:54:35.2264796+00:00",
       "NumProgressed": 235055,
       "NumCompleted": 783
+    },
+    {
+      "Time": "2023-08-02T02:25:47.5060093+00:00",
+      "NumProgressed": 235056,
+      "NumCompleted": 783
     }
   ],
   "TotalAchievements": 39,
@@ -13961,7 +13966,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 61114
+      "UsersEstimate": 61115
     },
     {
       "ID": "AchievementBigFootID",
@@ -13977,7 +13982,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 70516
+      "UsersEstimate": 70517
     },
     {
       "ID": "AchievementBoulderID",
@@ -13985,7 +13990,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 61114
+      "UsersEstimate": 61115
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -13993,7 +13998,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 213900
+      "UsersEstimate": 213901
     },
     {
       "ID": "AchievementClownID",
@@ -14001,7 +14006,7 @@
       "Name": "Where is It?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 39959
+      "UsersEstimate": 39960
     },
     {
       "ID": "AchievementContainerPartyID",
@@ -14017,7 +14022,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 65815
+      "UsersEstimate": 65816
     },
     {
       "ID": "AchievementEggID",
@@ -14025,7 +14030,7 @@
       "Name": "Egg Simulator",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 39959
+      "UsersEstimate": 39960
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -14057,7 +14062,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 124579
+      "UsersEstimate": 124580
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -14065,7 +14070,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 44660
+      "UsersEstimate": 44661
     },
     {
       "ID": "AchievementINirvanaID",
@@ -14097,7 +14102,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 133981
+      "UsersEstimate": 133982
     },
     {
       "ID": "AchievementLootBoxID",
@@ -14201,7 +14206,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 129280
+      "UsersEstimate": 129281
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -14233,14 +14238,14 @@
       "Name": "Real Buoy",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 61114
+      "UsersEstimate": 61115
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 235055,
+      "Progressed": 235056,
       "Completed": 783
     }
   ],
@@ -14248,8 +14253,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-08-01T20:01:23.5098522+00:00",
-  "LastChanged_Achievements": "2023-08-02T01:54:35.2264785+00:00",
+  "LastChanged_Achievements": "2023-08-02T02:25:47.5060084+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:24.5998227+00:00",
-  "LastUpdate_Ratings": "2023-08-02T01:51:20.7771829+00:00",
-  "LastUpdate_Achievements": "2023-08-02T01:54:35.2265739+00:00"
+  "LastUpdate_Ratings": "2023-08-02T02:22:15.9742849+00:00",
+  "LastUpdate_Achievements": "2023-08-02T02:25:47.506105+00:00"
 }

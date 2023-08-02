@@ -9767,9 +9767,9 @@
       "Count": 5467
     }
   ],
-  "EOS_Progressed": 868823,
+  "EOS_Progressed": 868824,
   "EOS_Completed": 1926,
-  "EOS_NewPlayers": 1177,
+  "EOS_NewPlayers": 1178,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -21062,6 +21062,11 @@
       "Time": "2023-08-02T01:54:18.5195334+00:00",
       "NumProgressed": 868823,
       "NumCompleted": 1926
+    },
+    {
+      "Time": "2023-08-02T02:25:32.0845531+00:00",
+      "NumProgressed": 868824,
+      "NumCompleted": 1926
     }
   ],
   "TotalAchievements": 44,
@@ -21145,7 +21150,7 @@
       "Name": "Gun Fu",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 130323
+      "UsersEstimate": 130324
     },
     {
       "ID": "Gunslinger",
@@ -21249,7 +21254,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 243270
+      "UsersEstimate": 243271
     },
     {
       "ID": "Specialist",
@@ -21369,7 +21374,7 @@
       "Name": "True Soldier",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 199829
+      "UsersEstimate": 199830
     },
     {
       "ID": "TrueWarrior",
@@ -21377,7 +21382,7 @@
       "Name": "True Warrior",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 130323
+      "UsersEstimate": 130324
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -21424,15 +21429,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 868823,
+      "Progressed": 868824,
       "Completed": 1926
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-08-01T21:59:00.6999666+00:00",
-  "LastChanged_Achievements": "2023-08-02T01:54:18.5195328+00:00",
+  "LastChanged_Achievements": "2023-08-02T02:25:32.0845526+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.8722173+00:00",
-  "LastUpdate_Ratings": "2023-08-02T01:48:27.4334604+00:00",
-  "LastUpdate_Achievements": "2023-08-02T01:54:18.5196303+00:00"
+  "LastUpdate_Ratings": "2023-08-02T02:19:42.2896361+00:00",
+  "LastUpdate_Achievements": "2023-08-02T02:25:32.0846447+00:00"
 }

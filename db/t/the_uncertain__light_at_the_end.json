@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -629,9 +629,9 @@
       "ID": "Left_Behind",
       "SetID": "ek310c",
       "Name": "A Friend in Need...",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 224
     },
     {
       "ID": "Leisurely_Strol",
@@ -750,8 +750,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-08-02T01:55:15.8732067+00:00",
+  "LastChanged_Achievements": "2023-08-02T02:26:25.0474542+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:21.7155213+00:00",
-  "LastUpdate_Ratings": "2023-08-02T01:46:58.6769707+00:00",
-  "LastUpdate_Achievements": "2023-08-02T01:55:15.8732302+00:00"
+  "LastUpdate_Ratings": "2023-08-02T02:18:23.4790243+00:00",
+  "LastUpdate_Achievements": "2023-08-02T02:26:25.0474776+00:00"
 }

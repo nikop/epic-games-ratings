@@ -4,51 +4,51 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 87.00% | ~176 |
-| Your first fight | 85.00% | ~172 |
-| Good Person Chip | 84.00% | ~170 |
+| Such a strange dream… | 87.00% | ~177 |
+| Your first fight | 85.00% | ~173 |
+| Good Person Chip | 84.00% | ~171 |
 | First winning | 83.00% | ~168 |
-| Your first job | 83.00% | ~168 |
+| Your first job | 82.00% | ~166 |
 | Old movies enjoyer | 79.00% | ~160 |
 | First defeat | 78.00% | ~158 |
 | Fitness professional | 76.00% | ~154 |
 | Depressed visitor | 76.00% | ~154 |
-| Employee of the week | 75.00% | ~152 |
-| Neurotrainer – power gainer! | 74.00% | ~149 |
-| Your own amateur gym | 73.00% | ~147 |
-| Run K, run! | 72.00% | ~145 |
-| Hello, world! | 67.00% | ~135 |
-| Fighting is cool | 66.00% | ~133 |
-| No bullying more | 66.00% | ~133 |
-| Pal of your father? | 63.00% | ~127 |
-| Employee of the month | 61.00% | ~123 |
-| Spirit of the past | 60.00% | ~121 |
-| Law student | 59.00% | ~119 |
-| Workout professional | 56.00% | ~113 |
-| Little hacker | 56.00% | ~113 |
-| Champion – starter pack | 56.00% | ~113 |
-| Intriguing candies | 56.00% | ~113 |
-| Own four walls | 55.00% | ~111 |
-| Handyman | 54.00% | ~109 |
-| It's good to be alive | 54.00% | ~109 |
-| Employee of the year | 54.00% | ~109 |
-| Fight for life | 53.00% | ~107 |
-| Legal courier | 51.00% | ~103 |
-| Extreme neuropower! | 50.00% | ~101 |
-| Escaped from a big trouble | 50.00% | ~101 |
+| Neurotrainer – power gainer! | 74.00% | ~150 |
+| Employee of the week | 74.00% | ~150 |
+| Your own amateur gym | 73.00% | ~148 |
+| Run K, run! | 71.00% | ~144 |
+| Hello, world! | 67.00% | ~136 |
+| Fighting is cool | 66.00% | ~134 |
+| No bullying more | 66.00% | ~134 |
+| Pal of your father? | 63.00% | ~128 |
+| Employee of the month | 61.00% | ~124 |
+| Spirit of the past | 60.00% | ~122 |
+| Law student | 59.00% | ~120 |
+| Workout professional | 56.00% | ~114 |
+| Little hacker | 56.00% | ~114 |
+| Champion – starter pack | 56.00% | ~114 |
+| Intriguing candies | 56.00% | ~114 |
+| Own four walls | 55.00% | ~112 |
+| Handyman | 54.00% | ~110 |
+| It's good to be alive | 54.00% | ~110 |
+| Employee of the year | 54.00% | ~110 |
+| Fight for life | 53.00% | ~108 |
+| Legal courier | 51.00% | ~104 |
+| Extreme neuropower! | 50.00% | ~102 |
+| Escaped from a big trouble | 50.00% | ~102 |
 | Now you are worthy | 47.00% | ~95 |
 | No blades in the gym | 45.00% | ~91 |
 | Your own way | 45.00% | ~91 |
 | Guiding on the right path | 44.00% | ~89 |
-| Fight is life | 43.00% | ~87 |
 | Mysterious voice | 43.00% | ~87 |
+| Fight is life | 42.00% | ~85 |
 | Get out of my apartment! | 38.00% | ~77 |
-| Underground dwellers | 37.00% | ~75 |
 | Responsible approach | 37.00% | ~75 |
-| Deal with life | 36.00% | ~73 |
-| GYM professional | 36.00% | ~73 |
-| Champion – no way back | 36.00% | ~73 |
-| Poisoned fighter | 36.00% | ~73 |
+| Underground dwellers | 36.00% | ~73 |
+| Deal with life | 35.00% | ~71 |
+| GYM professional | 35.00% | ~71 |
+| Champion – no way back | 35.00% | ~71 |
+| Poisoned fighter | 35.00% | ~71 |
 | Mom got better | 33.00% | ~67 |
 | The die is cast | 33.00% | ~67 |
 | Seashell hunter | 33.00% | ~67 |
@@ -64,15 +64,15 @@
 | Family comes first | 28.00% | ~57 |
 | Key memories | 28.00% | ~57 |
 | Careerist | 28.00% | ~57 |
+| Anyone can resist | 28.00% | ~57 |
 | The heart of the Resistance | 28.00% | ~57 |
 | Trap disarmed | 27.00% | ~55 |
-| Anyone can resist | 27.00% | ~55 |
-| Silver’s past | 25.00% | ~50 |
-| Better cooking at home | 25.00% | ~50 |
-| The only right decision | 25.00% | ~50 |
+| Silver’s past | 25.00% | ~51 |
+| Better cooking at home | 25.00% | ~51 |
+| The only right decision | 25.00% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202 (Ranked 282)  
-Completed: 7 (3.47%) (Ranked 59)  
+Progressed: 203 (Ranked 281)  
+Completed: 7 (3.45%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,3 +90,4 @@ Completed: 7 (3.47%) (Ranked 59)
 | 2023-07-30 | 190 | 7 |
 | 2023-07-31 | 198 | 7 |
 | 2023-08-01 | 202 | 7 |
+| 2023-08-02 | 203 | 7 |
