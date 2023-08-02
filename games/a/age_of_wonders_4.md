@@ -46,7 +46,7 @@ Rating: 4.63 (Ranked 333)
 | Grexolis | 1.00% | ~51 |
 | One for All, All for One | 1.00% | ~51 |
 | I've Got Everything I Need Right Here | 0.90% | ~46 |
-| Manufactured War | 0.70% | ~35 |
+| Manufactured War | 0.70% | ~36 |
 | Snap Out of It! | 0.60% | ~30 |
 | Betrayal Most Foul | 0.30% | ~15 |
 | I Want to Break Free | 0.20% | ~10 |
@@ -56,7 +56,7 @@ Rating: 4.63 (Ranked 333)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,071 (Ranked 138)  
+Progressed: 5,072 (Ranked 138)  
 Completed: 5 (0.10%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 5 (0.10%) (Ranked 195)
 | 2023-07-30 | 5,061 | 5 |
 | 2023-07-31 | 5,068 | 5 |
 | 2023-08-01 | 5,070 | 5 |
-| 2023-08-02 | 5,071 | 5 |
+| 2023-08-02 | 5,072 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

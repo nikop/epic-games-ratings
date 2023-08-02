@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 90,
+  "EOS_Progressed": 91,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 16,
-  "EOS_Completed_Percentage": 17.78,
+  "EOS_Completed_Percentage": 17.58,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -376,6 +376,11 @@
       "Time": "2023-08-02T10:04:25.814977+00:00",
       "NumProgressed": 90,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-02T11:05:16.1177182+00:00",
+      "NumProgressed": 91,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -394,7 +399,7 @@
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 70,
       "UsersEstimate": 50
     },
@@ -420,7 +425,7 @@
       "Name": "Test Task",
       "Percentage": 97,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Floppy",
@@ -436,7 +441,7 @@
       "Name": "Beginner Electrician",
       "Percentage": 86,
       "XP": 70,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "GameComplete",
@@ -450,7 +455,7 @@
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
       "UsersEstimate": 34
     },
@@ -466,7 +471,7 @@
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 70,
       "UsersEstimate": 42
     },
@@ -476,7 +481,7 @@
       "Name": "Screwdriver",
       "Percentage": 78,
       "XP": 70,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "SecretRoom",
@@ -499,14 +504,14 @@
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 90,
+      "Progressed": 91,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-02T10:04:25.8149761+00:00",
+  "LastChanged_Achievements": "2023-08-02T11:05:16.1177174+00:00",
   "LastUpdate_AppInfo": "2023-08-01T17:57:05.506677+00:00",
-  "LastUpdate_Ratings": "2023-08-02T09:57:21.8645757+00:00",
-  "LastUpdate_Achievements": "2023-08-02T10:04:25.8149895+00:00"
+  "LastUpdate_Ratings": "2023-08-02T10:57:26.5723637+00:00",
+  "LastUpdate_Achievements": "2023-08-02T11:05:16.117733+00:00"
 }

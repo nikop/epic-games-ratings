@@ -22,9 +22,9 @@ Number of Ratings: 177  (23.09.2022)
 | Social Butterfly | 0.70% | ~42 |
 | The Muse: Madison | 0.70% | ~42 |
 | Amy | 0.60% | ~36 |
-| It Smells Like Roses | 0.60% | ~18 |
 | Smooth Operator: Ashley | 0.60% | ~36 |
 | Amy: Scavenger Hunt | 0.50% | ~30 |
+| It Smells Like Roses | 0.50% | ~15 |
 | The Crush | 0.50% | ~30 |
 | The Magic Number | 0.50% | ~30 |
 | Vickie | 0.50% | ~30 |
@@ -45,7 +45,6 @@ Number of Ratings: 177  (23.09.2022)
 | Do Not Burn | 0.20% | ~12 |
 | The Harder They Fall...Dood | 0.20% | ~12 |
 | Rule 34 | 0.20% | ~12 |
-| Ronin | 0.20% | ~12 |
 | A Striking Resemblance | 0.20% | ~12 |
 | The Muse: Derek | 0.20% | ~12 |
 | Howz It Goin Dood | 0.20% | ~12 |
@@ -66,6 +65,7 @@ Number of Ratings: 177  (23.09.2022)
 | Money Shot | 0.10% | ~6 |
 | Notice Me, Sensei | 0.10% | ~6 |
 | Party Pooper | 0.10% | ~6 |
+| Ronin | 0.10% | ~6 |
 | Do You Smell Blood? | 0.10% | ~6 |
 | That's a Nice Bush! | 0.10% | ~3 |
 | The Crush(es) | 0.10% | ~6 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,999 (Ranked 135)  
+Progressed: 6,000 (Ranked 135)  
 Completed: 3 (0.05%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 3 (0.05%) (Ranked 212)
 | 2023-07-30 | 5,961 | 3 |
 | 2023-07-31 | 5,976 | 3 |
 | 2023-08-01 | 5,992 | 3 |
-| 2023-08-02 | 5,999 | 3 |
+| 2023-08-02 | 6,000 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

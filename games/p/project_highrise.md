@@ -13,14 +13,14 @@
 | Need a Consult | 36.00% | ~111 |
 | It's Technical | 36.00% | ~111 |
 | Upgrade Unlock | 34.00% | ~105 |
-| Delegate Maintenance | 33.00% | ~102 |
+| Delegate Maintenance | 34.00% | ~105 |
 | Proper Walls | 32.00% | ~99 |
-| Destination Destiny | 28.00% | ~87 |
+| Destination Destiny | 29.00% | ~90 |
 | Happy Tenants | 25.00% | ~77 |
 | Potent Potables | 24.00% | ~74 |
 | Smooth Service | 24.00% | ~74 |
 | Your Prestige is Rising | 23.00% | ~71 |
-| Retail Revenue | 22.00% | ~68 |
+| Retail Revenue | 23.00% | ~71 |
 | Lux Living | 21.00% | ~65 |
 | Don't Feel a Loan | 21.00% | ~65 |
 | People Mover | 20.00% | ~62 |
@@ -50,6 +50,7 @@
 | Water Features | 7.00% | ~22 |
 | Meet Me at HQ | 7.00% | ~22 |
 | Revenue Royalty | 7.00% | ~22 |
+| Pipe Up | 7.00% | ~22 |
 | I'm Busy Ruling | 6.00% | ~19 |
 | Careful Constructor | 6.00% | ~19 |
 | Sky High Stature | 6.00% | ~19 |
@@ -57,11 +58,10 @@
 | Maximum Reuse | 6.00% | ~19 |
 | Golden Opportunity | 6.00% | ~19 |
 | It's a Gas | 6.00% | ~19 |
-| Pipe Up | 6.00% | ~19 |
 | Meet ADA/360 | 5.00% | ~15 |
+| Penthouse in the Sky | 5.00% | ~15 |
 | Baron of Business | 5.00% | ~15 |
 | Tuned In | 5.00% | ~15 |
-| Penthouse in the Sky | 4.00% | ~12 |
 | Office Bigwigs | 4.00% | ~12 |
 | Sandbagger | 4.00% | ~12 |
 | Decorator's Touch | 3.00% | ~9 |

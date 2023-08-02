@@ -4,8 +4,8 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 359,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1651,9 +1651,9 @@
       "ID": "KILL_1000_WITH_GAS",
       "SetID": "6kcl14p",
       "Name": "The Chemists\u0027 War",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 110,
-      "UsersEstimate": 18
+      "UsersEstimate": 22
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -1708,8 +1708,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-08-02T10:03:23.4387813+00:00",
+  "LastChanged_Achievements": "2023-08-02T11:03:50.1731836+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:23.8427295+00:00",
-  "LastUpdate_Ratings": "2023-08-02T09:59:07.8728758+00:00",
-  "LastUpdate_Achievements": "2023-08-02T10:03:23.4388007+00:00"
+  "LastUpdate_Ratings": "2023-08-02T10:59:35.6805182+00:00",
+  "LastUpdate_Achievements": "2023-08-02T11:03:50.1732036+00:00"
 }

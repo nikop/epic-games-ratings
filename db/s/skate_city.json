@@ -4,8 +4,8 @@
   "ProductSlug": "skate-city",
   "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-05-06T15:00:00+00:00",
     "PcReleaseDate": "2021-05-06T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.8417099+00:00",
   "LastChanged": "2023-03-31T05:58:35.84171+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:40.8087991+00:00",
-  "LastUpdate_Ratings": "2023-08-02T09:58:27.12147+00:00",
-  "LastUpdate_Achievements": "2023-08-02T10:06:08.2119396+00:00"
+  "LastUpdate_Ratings": "2023-08-02T10:58:43.2056042+00:00",
+  "LastUpdate_Achievements": "2023-08-02T11:07:09.0580953+00:00"
 }

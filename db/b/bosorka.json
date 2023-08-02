@@ -2,10 +2,10 @@
   "ID": "0e65d8e6338943e68169f928702c4706",
   "Name": "Bosorka",
   "ProductSlug": "bosorka-c0e6b6",
-  "Ranking_EOS_Progress": 319,
+  "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
     "PcReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93,
+  "EOS_Progressed": 95,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -258,6 +258,11 @@
       "Time": "2023-07-31T19:06:42.659468+00:00",
       "NumProgressed": 93,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T11:07:55.2849722+00:00",
+      "NumProgressed": 95,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -267,7 +272,7 @@
       "ID": "RUNE_ACCEL",
       "SetID": "9433p49",
       "Name": "A good start",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 55,
       "UsersEstimate": 51
     },
@@ -275,7 +280,7 @@
       "ID": "RUNE_BAT",
       "SetID": "9433p49",
       "Name": "It doesn\u0027t work like that",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 55,
       "UsersEstimate": 22
     },
@@ -315,7 +320,7 @@
       "ID": "RUNE_CURSEDCOMPANIONSHIELD",
       "SetID": "9433p49",
       "Name": "Runes collector",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 100,
       "UsersEstimate": 49
     },
@@ -333,7 +338,7 @@
       "Name": "First time, yes?",
       "Percentage": 55,
       "XP": 55,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "RUNE_DROPFIRSTAIDKIT",
@@ -341,13 +346,13 @@
       "Name": "Witch\u0027s duty",
       "Percentage": 59,
       "XP": 55,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "RUNE_DROPRESETSPELL",
       "SetID": "9433p49",
       "Name": "Devil\u0027s dozen",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 55,
       "UsersEstimate": 27
     },
@@ -355,7 +360,7 @@
       "ID": "RUNE_LIGHTNINGSTUN",
       "SetID": "9433p49",
       "Name": "Skilled rider",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 75,
       "UsersEstimate": 45
     },
@@ -373,22 +378,22 @@
       "Name": "Path of purity",
       "Percentage": 84,
       "XP": 55,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "RUNE_STUNHIT",
       "SetID": "9433p49",
       "Name": "Kind heart",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "9433p49",
       "IsBase": true,
-      "Progressed": 93,
+      "Progressed": 95,
       "Completed": 0
     }
   ],
@@ -396,8 +401,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-08-02T10:06:46.0283184+00:00",
+  "LastChanged_Achievements": "2023-08-02T11:07:55.2849716+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:29.0944655+00:00",
-  "LastUpdate_Ratings": "2023-08-02T09:58:17.1078464+00:00",
-  "LastUpdate_Achievements": "2023-08-02T10:06:46.0283343+00:00"
+  "LastUpdate_Ratings": "2023-08-02T10:58:29.9572247+00:00",
+  "LastUpdate_Achievements": "2023-08-02T11:07:55.2849936+00:00"
 }

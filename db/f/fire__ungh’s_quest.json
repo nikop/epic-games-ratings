@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 43,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -645,9 +645,9 @@
       "ID": "Won_over_Octoboss_in_005",
       "SetID": "6od1ndi",
       "Name": "Blubb",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     }
   ],
   "AchievementSets": [
@@ -662,8 +662,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-08-02T10:03:31.4481461+00:00",
+  "LastChanged_Achievements": "2023-08-02T11:04:09.8153914+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:38.8063462+00:00",
-  "LastUpdate_Ratings": "2023-08-02T10:00:24.6459757+00:00",
-  "LastUpdate_Achievements": "2023-08-02T10:03:31.4481688+00:00"
+  "LastUpdate_Ratings": "2023-08-02T11:01:08.4384012+00:00",
+  "LastUpdate_Achievements": "2023-08-02T11:04:09.8154148+00:00"
 }

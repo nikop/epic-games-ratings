@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 660185,
+  "EOS_Progressed": 660187,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10637,6 +10637,11 @@
       "Time": "2023-08-02T10:03:43.6763406+00:00",
       "NumProgressed": 660185,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-08-02T11:04:24.7398433+00:00",
+      "NumProgressed": 660187,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -10648,7 +10653,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 475333
+      "UsersEstimate": 475335
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -10656,7 +10661,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382907
+      "UsersEstimate": 382908
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -10712,7 +10717,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66018
+      "UsersEstimate": 66019
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -10744,7 +10749,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66018
+      "UsersEstimate": 66019
     },
     {
       "ID": "Achievement_14_Magician",
@@ -10800,7 +10805,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112231
+      "UsersEstimate": 112232
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -10912,7 +10917,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165046
+      "UsersEstimate": 165047
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -11031,15 +11036,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 660185,
+      "Progressed": 660187,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-08-02T10:03:43.6763399+00:00",
+  "LastChanged_Achievements": "2023-08-02T11:04:24.7398426+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:32.2842788+00:00",
-  "LastUpdate_Ratings": "2023-08-02T09:58:20.835306+00:00",
-  "LastUpdate_Achievements": "2023-08-02T10:03:43.6764408+00:00"
+  "LastUpdate_Ratings": "2023-08-02T10:58:35.0742014+00:00",
+  "LastUpdate_Achievements": "2023-08-02T11:04:24.7400003+00:00"
 }

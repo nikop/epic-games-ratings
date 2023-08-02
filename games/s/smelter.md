@@ -12,8 +12,8 @@
 | Smeltastic! | 36.00% | ~14 |
 | Locked Away | 33.00% | ~13 |
 | A Little Renovating | 31.00% | ~12 |
+| It's a Sign! | 28.00% | ~11 |
 | Deflect This! | 26.00% | ~10 |
-| It's a Sign! | 26.00% | ~10 |
 | Just Some Improvements | 21.00% | ~8 |
 | A Little Extra Love | 18.00% | ~7 |
 | Final Announcement | 18.00% | ~7 |

@@ -6,20 +6,20 @@ Number of Ratings: 25  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Objective Complete | 97.00% | ~582 |
-| I did it! | 94.00% | ~564 |
-| Learner | 92.00% | ~552 |
-| Economical | 92.00% | ~552 |
-| Devout | 90.00% | ~540 |
-| The Love Martyr | 88.00% | ~528 |
-| Frugal | 85.00% | ~510 |
-| Dilligent | 83.00% | ~498 |
-| I... I did it? | 81.00% | ~486 |
-| Adored | 76.00% | ~456 |
-| The Hobbyist | 65.00% | ~390 |
-| A Forked Tongue | 55.00% | ~330 |
-| The Admirer | 52.00% | ~312 |
-| Between Two Fires | 51.00% | ~306 |
+| Objective Complete | 97.00% | ~583 |
+| I did it! | 94.00% | ~565 |
+| Learner | 92.00% | ~553 |
+| Economical | 92.00% | ~553 |
+| Devout | 89.00% | ~535 |
+| The Love Martyr | 87.00% | ~523 |
+| Frugal | 85.00% | ~511 |
+| Dilligent | 83.00% | ~499 |
+| I... I did it? | 81.00% | ~487 |
+| Adored | 76.00% | ~457 |
+| The Hobbyist | 65.00% | ~391 |
+| A Forked Tongue | 55.00% | ~331 |
+| The Admirer | 52.00% | ~313 |
+| Between Two Fires | 51.00% | ~307 |
 | Precious | 45.00% | ~270 |
 | Devoted | 42.00% | ~252 |
 | The Farmer | 39.00% | ~234 |
@@ -29,10 +29,10 @@ Number of Ratings: 25  (23.09.2022)
 | The Collector | 24.00% | ~144 |
 | All Doors Open | 20.00% | ~120 |
 | Faithful | 11.00% | ~66 |
-| Asmodeus | 9.00% | ~54 |
 | A Close | 9.00% | ~54 |
+| Asmodeus | 8.00% | ~48 |
 | Luna | 8.00% | ~48 |
-| Lover | 2.00% | ~12 |
+| Lover | 1.00% | ~6 |
 | The Harvester | 1.00% | ~6 |
 | Conclusions | 1.00% | ~6 |
 | Playboy | 0.30% | ~2 |
@@ -40,7 +40,7 @@ Number of Ratings: 25  (23.09.2022)
 | Womanizer | 0.00% | ~0 |
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 600 (Ranked 216)  
+Progressed: 601 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-26 | 596 | 0 |
 | 2023-07-29 | 597 | 0 |
 | 2023-08-01 | 599 | 0 |
-| 2023-08-02 | 600 | 0 |
+| 2023-08-02 | 601 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

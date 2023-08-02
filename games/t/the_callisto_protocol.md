@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 849)
 | Don't Let It Mellow | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,799 (Ranked 114)  
+Progressed: 15,800 (Ranked 114)  
 Completed: 71 (0.45%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 71 (0.45%) (Ranked 142)
 | 2023-07-30 | 15,791 | 71 |
 | 2023-07-31 | 15,794 | 71 |
 | 2023-08-01 | 15,796 | 71 |
-| 2023-08-02 | 15,799 | 71 |
+| 2023-08-02 | 15,800 | 71 |
 ## Awards
 Max (Amazing Storytelling): 72  (Ranked 373)  
 Sum: 400 (Ranked 314)  

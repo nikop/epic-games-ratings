@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5071,
+  "EOS_Progressed": 5072,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5570,6 +5570,11 @@
       "Time": "2023-08-02T10:04:37.4330154+00:00",
       "NumProgressed": 5071,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-02T11:05:31.3100028+00:00",
+      "NumProgressed": 5072,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5829,7 +5834,7 @@
       "Name": "Manufactured War",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "39",
@@ -5980,13 +5985,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5071,
+      "Progressed": 5072,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5071,
+      "Progressed": 5072,
       "Completed": 5
     }
   ],
@@ -5994,8 +5999,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-19T14:00:18.5966835+00:00",
-  "LastChanged_Achievements": "2023-08-02T10:04:37.4330146+00:00",
+  "LastChanged_Achievements": "2023-08-02T11:05:31.310002+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:09.0087451+00:00",
-  "LastUpdate_Ratings": "2023-08-02T10:00:00.7820088+00:00",
-  "LastUpdate_Achievements": "2023-08-02T10:04:37.4330939+00:00"
+  "LastUpdate_Ratings": "2023-08-02T11:00:40.2964677+00:00",
+  "LastUpdate_Achievements": "2023-08-02T11:05:31.3101401+00:00"
 }

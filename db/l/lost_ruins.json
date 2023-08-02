@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -775,9 +775,9 @@
       "ID": "GoblinTales",
       "SetID": "82505mn",
       "Name": "Goblin Tales",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 129
     },
     {
       "ID": "Hardboiled",
@@ -1024,8 +1024,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-08-02T10:03:36.674185+00:00",
+  "LastChanged_Achievements": "2023-08-02T11:04:16.2888039+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:19.0484842+00:00",
-  "LastUpdate_Ratings": "2023-08-02T10:00:10.0662386+00:00",
-  "LastUpdate_Achievements": "2023-08-02T10:03:36.6742221+00:00"
+  "LastUpdate_Ratings": "2023-08-02T11:00:49.3510316+00:00",
+  "LastUpdate_Achievements": "2023-08-02T11:04:16.2888416+00:00"
 }

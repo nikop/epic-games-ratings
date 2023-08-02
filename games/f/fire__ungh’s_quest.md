@@ -21,8 +21,8 @@
 | Onk Boga VI | 35.00% | ~79 |
 | IQ62 | 35.00% | ~79 |
 | Onk Boga VII | 34.00% | ~77 |
+| Blubb | 34.00% | ~77 |
 | Onk Boga VIII | 33.00% | ~75 |
-| Blubb | 33.00% | ~75 |
 | ParaPara! | 31.00% | ~70 |
 | Onk Boga IX | 31.00% | ~70 |
 | AKRE! | 31.00% | ~70 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247507,
+  "EOS_Progressed": 247508,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
@@ -10074,6 +10074,11 @@
       "Time": "2023-08-02T09:03:15.8633621+00:00",
       "NumProgressed": 247507,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-02T11:03:20.0469092+00:00",
+      "NumProgressed": 247508,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -10085,7 +10090,7 @@
       "Name": "Just A Phaze",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17325
+      "UsersEstimate": 17326
     },
     {
       "ID": "aWinnerIsYou",
@@ -10109,7 +10114,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51976
+      "UsersEstimate": 51977
     },
     {
       "ID": "blotbuster",
@@ -10189,7 +10194,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49501
+      "UsersEstimate": 49502
     },
     {
       "ID": "didYourTime",
@@ -10277,7 +10282,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17325
+      "UsersEstimate": 17326
     },
     {
       "ID": "itsTheFall",
@@ -10357,7 +10362,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17325
+      "UsersEstimate": 17326
     },
     {
       "ID": "rideTheWave",
@@ -10389,7 +10394,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51976
+      "UsersEstimate": 51977
     },
     {
       "ID": "thunderstruck",
@@ -10452,7 +10457,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 247507,
+      "Progressed": 247508,
       "Completed": 3
     }
   ],
@@ -10460,8 +10465,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-02T10:02:18.1707767+00:00",
+  "LastChanged_Achievements": "2023-08-02T11:03:20.0469087+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:02.5493145+00:00",
-  "LastUpdate_Ratings": "2023-08-02T09:59:47.251759+00:00",
-  "LastUpdate_Achievements": "2023-08-02T10:02:18.1708936+00:00"
+  "LastUpdate_Ratings": "2023-08-02T11:00:22.8511175+00:00",
+  "LastUpdate_Achievements": "2023-08-02T11:03:20.0470301+00:00"
 }

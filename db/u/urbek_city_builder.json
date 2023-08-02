@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 297,
+  "EOS_Progressed": 298,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -842,6 +842,11 @@
       "Time": "2023-08-02T01:57:23.3320552+00:00",
       "NumProgressed": 297,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T11:08:00.4947471+00:00",
+      "NumProgressed": 298,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -997,7 +1002,7 @@
       "Name": "I like books",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "CULTURE_2",
@@ -1067,9 +1072,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 69
     },
     {
       "ID": "FAITH_2",
@@ -1125,7 +1130,7 @@
       "Name": "I like my life",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "FELIZ_2",
@@ -1181,7 +1186,7 @@
       "Name": "I like parks",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -1203,9 +1208,9 @@
       "ID": "MADERA_0",
       "SetID": "44dlcg0",
       "Name": "The woodcutter",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 69
     },
     {
       "ID": "MILLS",
@@ -1213,7 +1218,7 @@
       "Name": "Clean energy",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "MURICA_1",
@@ -1285,7 +1290,7 @@
       "Name": "Small town",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "POPULATION_2",
@@ -1469,7 +1474,7 @@
       "Name": "Soviet town",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "WELFARE_2",
@@ -1484,7 +1489,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 297,
+      "Progressed": 298,
       "Completed": 0
     }
   ],
@@ -1492,8 +1497,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-08-02T10:07:10.4106958+00:00",
+  "LastChanged_Achievements": "2023-08-02T11:08:00.4947463+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:43.1827432+00:00",
-  "LastUpdate_Ratings": "2023-08-02T09:59:29.5227246+00:00",
-  "LastUpdate_Achievements": "2023-08-02T10:07:10.4107949+00:00"
+  "LastUpdate_Ratings": "2023-08-02T11:00:01.6255099+00:00",
+  "LastUpdate_Achievements": "2023-08-02T11:08:00.4948631+00:00"
 }
