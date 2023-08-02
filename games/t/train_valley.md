@@ -1,37 +1,37 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.45 (Ranked 629)  
+Rating: 4.45 (Ranked 630)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting started | 76.00% | ~318 |
-| Close call! | 72.00% | ~301 |
-| Builder | 51.00% | ~213 |
-| Pangs of conscience | 45.00% | ~188 |
-| Living it large! | 43.00% | ~180 |
-| Collector | 41.00% | ~171 |
-| Need to think | 40.00% | ~167 |
+| Close call! | 71.00% | ~297 |
+| Builder | 51.00% | ~214 |
+| Pangs of conscience | 45.00% | ~189 |
+| Living it large! | 42.00% | ~176 |
+| Collector | 41.00% | ~172 |
+| Need to think | 40.00% | ~168 |
 | Completely nuts! | 37.00% | ~155 |
 | Just in time! | 32.00% | ~134 |
-| Europe | 29.00% | ~121 |
-| It's no coincidence. | 29.00% | ~121 |
+| Europe | 29.00% | ~122 |
+| It's no coincidence. | 29.00% | ~122 |
 | Madness! | 26.00% | ~109 |
-| Philatelist | 25.00% | ~104 |
-| Let's roll! | 25.00% | ~104 |
-| Non Stop! | 25.00% | ~104 |
-| Ouroboros | 24.00% | ~100 |
+| Philatelist | 25.00% | ~105 |
+| Let's roll! | 25.00% | ~105 |
+| Non Stop! | 25.00% | ~105 |
+| Ouroboros | 24.00% | ~101 |
 | Foreman | 21.00% | ~88 |
-| Missed it! | 19.00% | ~79 |
-| Russia | 17.00% | ~71 |
+| Missed it! | 19.00% | ~80 |
 | Sabotage | 17.00% | ~71 |
 | America | 16.00% | ~67 |
+| Russia | 16.00% | ~67 |
 | Woodcutter | 11.00% | ~46 |
 | Engineer | 11.00% | ~46 |
 | Achtung! | 10.00% | ~42 |
-| Tycoon | 8.00% | ~33 |
-| Japan | 8.00% | ~33 |
+| Tycoon | 8.00% | ~34 |
+| Japan | 8.00% | ~34 |
 | Germany | 6.00% | ~25 |
 | Chuck Norris | 5.00% | ~21 |
 | Сhancellor | 4.00% | ~17 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Maniac vandal | 0.50% | ~2 |
 | Salesman | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 418 (Ranked 232)  
+Progressed: 419 (Ranked 232)  
 Completed: 2 (0.48%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 2 (0.48%) (Ranked 138)
 | 2023-07-30 | 406 | 2 |
 | 2023-07-31 | 409 | 2 |
 | 2023-08-01 | 413 | 2 |
-| 2023-08-02 | 418 | 2 |
+| 2023-08-02 | 419 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

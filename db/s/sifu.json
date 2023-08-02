@@ -2,7 +2,7 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 65,
+  "Ranking_Rating": 66,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 20,
@@ -5514,9 +5514,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 712072,
+  "EOS_Progressed": 712075,
   "EOS_Completed": 12840,
-  "EOS_NewPlayers": 523,
+  "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -15444,6 +15444,11 @@
       "Time": "2023-08-02T20:08:11.6989236+00:00",
       "NumProgressed": 712072,
       "NumCompleted": 12840
+    },
+    {
+      "Time": "2023-08-02T21:07:10.5030771+00:00",
+      "NumProgressed": 712075,
+      "NumCompleted": 12840
     }
   ],
   "TotalAchievements": 50,
@@ -15455,7 +15460,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14241
+      "UsersEstimate": 14242
     },
     {
       "ID": "02_Vengeance_H1",
@@ -15463,7 +15468,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14241
+      "UsersEstimate": 14242
     },
     {
       "ID": "03_Vengeance_H2",
@@ -15471,7 +15476,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14241
+      "UsersEstimate": 14242
     },
     {
       "ID": "04_Vengeance_H3",
@@ -15479,7 +15484,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14241
+      "UsersEstimate": 14242
     },
     {
       "ID": "05_Vengeance_H4",
@@ -15487,7 +15492,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14241
+      "UsersEstimate": 14242
     },
     {
       "ID": "06_Vengeance_H5",
@@ -15623,7 +15628,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14241
+      "UsersEstimate": 14242
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -15631,7 +15636,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14241
+      "UsersEstimate": 14242
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -15639,7 +15644,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14241
+      "UsersEstimate": 14242
     },
     {
       "ID": "25_ShrineMind",
@@ -15655,7 +15660,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14241
+      "UsersEstimate": 14242
     },
     {
       "ID": "27_ShrineBody",
@@ -15663,7 +15668,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14241
+      "UsersEstimate": 14242
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -15719,7 +15724,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14241
+      "UsersEstimate": 14242
     },
     {
       "ID": "35_WideStrike",
@@ -15735,7 +15740,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14241
+      "UsersEstimate": 14242
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -15743,7 +15748,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14241
+      "UsersEstimate": 14242
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -15807,7 +15812,7 @@
       "Name": "Bloody Sport",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -15815,7 +15820,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.4,
       "XP": 80,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -15831,7 +15836,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -15854,21 +15859,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21373,
+      "Progressed": 21376,
       "Completed": 10477
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712072,
+      "Progressed": 712075,
       "Completed": 12840
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-02T15:59:41.4232331+00:00",
-  "LastChanged_Achievements": "2023-08-02T20:08:11.6989231+00:00",
+  "LastChanged_Achievements": "2023-08-02T21:07:10.5030765+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:51.4583284+00:00",
-  "LastUpdate_Ratings": "2023-08-02T20:00:00.0073219+00:00",
-  "LastUpdate_Achievements": "2023-08-02T20:08:11.6990325+00:00"
+  "LastUpdate_Ratings": "2023-08-02T20:59:45.9095018+00:00",
+  "LastUpdate_Achievements": "2023-08-02T21:07:10.5031779+00:00"
 }

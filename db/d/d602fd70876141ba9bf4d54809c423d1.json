@@ -2,9 +2,9 @@
   "ID": "d602fd70876141ba9bf4d54809c423d1",
   "Name": "The Evil Within",
   "ProductSlug": "the-evil-within",
-  "Ranking_EOS_Progress": 454,
+  "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -17,9 +17,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37,6 +37,11 @@
       "Time": "2023-08-02T19:02:10.3566284+00:00",
       "NumProgressed": 3,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T21:02:21.7289963+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -47,7 +52,7 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ap8553i",
       "Name": "What\u0027s in the Box?",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -255,7 +260,7 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "ap8553i",
       "Name": "Bloody Bar Brawl",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -375,7 +380,7 @@
       "ID": "ACHIEVEMENT_42",
       "SetID": "8ddjaeg",
       "Name": "Prank Call",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -383,7 +388,7 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "8ddjaeg",
       "Name": "Clutch!",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -407,7 +412,7 @@
       "ID": "ACHIEVEMENT_46",
       "SetID": "8ddjaeg",
       "Name": "A Different Beginning",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -415,7 +420,7 @@
       "ID": "ACHIEVEMENT_47",
       "SetID": "8ddjaeg",
       "Name": "Not as it Seems",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -423,7 +428,7 @@
       "ID": "ACHIEVEMENT_48",
       "SetID": "8ddjaeg",
       "Name": "Doctor\u0027s Notes",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -431,7 +436,7 @@
       "ID": "ACHIEVEMENT_49",
       "SetID": "8ddjaeg",
       "Name": "A Piece of My Past",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -439,7 +444,7 @@
       "ID": "ACHIEVEMENT_50",
       "SetID": "8ddjaeg",
       "Name": "A Warning",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -447,7 +452,7 @@
       "ID": "ACHIEVEMENT_51",
       "SetID": "8ddjaeg",
       "Name": "Not Afraid of the Dark",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -455,7 +460,7 @@
       "ID": "ACHIEVEMENT_52",
       "SetID": "8ddjaeg",
       "Name": "Fumbling in the Dark",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -487,7 +492,7 @@
       "ID": "ACHIEVEMENT_56",
       "SetID": "8ddjaeg",
       "Name": "Things Fall Apart",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -495,7 +500,7 @@
       "ID": "ACHIEVEMENT_57",
       "SetID": "8ddjaeg",
       "Name": "Where Do We Go From Here?",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -511,7 +516,7 @@
       "ID": "ACHIEVEMENT_59",
       "SetID": "8ddjaeg",
       "Name": "Becoming an Agent",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -616,19 +621,19 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-02T20:03:34.2634928+00:00",
+  "LastChanged_Achievements": "2023-08-02T21:02:21.7289958+00:00",
   "LastUpdate_AppInfo": "2023-08-02T15:56:51.8230557+00:00",
-  "LastUpdate_Ratings": "2023-08-02T19:57:07.1717841+00:00",
-  "LastUpdate_Achievements": "2023-08-02T20:03:34.2635798+00:00"
+  "LastUpdate_Ratings": "2023-08-02T20:56:55.7759146+00:00",
+  "LastUpdate_Achievements": "2023-08-02T21:02:21.7290796+00:00"
 }

@@ -214,9 +214,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 227344,
+  "EOS_Progressed": 227345,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11094,6 +11094,11 @@
       "Time": "2023-08-02T20:05:43.7799787+00:00",
       "NumProgressed": 227344,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-02T21:05:16.9421439+00:00",
+      "NumProgressed": 227345,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -11313,7 +11318,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 38648
+      "UsersEstimate": 38649
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -11328,7 +11333,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 227344,
+      "Progressed": 227345,
       "Completed": 3
     }
   ],
@@ -11336,8 +11341,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-07-29T01:52:22.3591231+00:00",
-  "LastChanged_Achievements": "2023-08-02T20:05:43.7799783+00:00",
+  "LastChanged_Achievements": "2023-08-02T21:05:16.9421435+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:36.5137044+00:00",
-  "LastUpdate_Ratings": "2023-08-02T20:00:50.6731983+00:00",
-  "LastUpdate_Achievements": "2023-08-02T20:05:43.7800699+00:00"
+  "LastUpdate_Ratings": "2023-08-02T21:00:43.3681191+00:00",
+  "LastUpdate_Achievements": "2023-08-02T21:05:16.9422284+00:00"
 }

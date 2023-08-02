@@ -1026,9 +1026,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4561,
+  "EOS_Progressed": 4562,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7421,6 +7421,11 @@
       "Time": "2023-08-02T20:06:26.3299868+00:00",
       "NumProgressed": 4561,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-02T21:05:57.8808423+00:00",
+      "NumProgressed": 4562,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -7528,7 +7533,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -7542,9 +7547,9 @@
       "ID": "ACH_EP_SHACKLAND",
       "SetID": "1p8ab95",
       "Name": "Shackadelic",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -7566,9 +7571,9 @@
       "ID": "ACH_EP_THEREFERENDUM",
       "SetID": "1p8ab95",
       "Name": "Apocalypso",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -7592,7 +7597,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3421
+      "UsersEstimate": 3422
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -7751,15 +7756,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4561,
+      "Progressed": 4562,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-29T23:00:35.7289146+00:00",
-  "LastChanged_Achievements": "2023-08-02T20:06:26.3299862+00:00",
+  "LastChanged_Achievements": "2023-08-02T21:05:57.8808419+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:19.2698244+00:00",
-  "LastUpdate_Ratings": "2023-08-02T20:01:24.2279816+00:00",
-  "LastUpdate_Achievements": "2023-08-02T20:06:26.3300616+00:00"
+  "LastUpdate_Ratings": "2023-08-02T21:01:14.2488789+00:00",
+  "LastUpdate_Achievements": "2023-08-02T21:05:57.8809035+00:00"
 }

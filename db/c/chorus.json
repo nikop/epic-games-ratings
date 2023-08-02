@@ -2,12 +2,12 @@
   "ID": "4930dde6add240a9bfc7ddc415dc2799",
   "Name": "Chorus",
   "ProductSlug": "chorus",
-  "Ranking_Rating": 629,
+  "Ranking_Rating": 630,
   "Ranking_Popularity": 451,
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -1639,9 +1639,9 @@
       "ID": "GatlingVsArmor",
       "SetID": "a6c395p",
       "Name": "Controlled Demolition",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 599
+      "UsersEstimate": 610
     },
     {
       "ID": "Kill3InOneDrift",
@@ -1951,8 +1951,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-08-02T20:05:16.8391334+00:00",
+  "LastChanged_Achievements": "2023-08-02T21:04:50.9357802+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:56.2520049+00:00",
-  "LastUpdate_Ratings": "2023-08-02T20:01:08.4136898+00:00",
-  "LastUpdate_Achievements": "2023-08-02T20:05:16.8391744+00:00"
+  "LastUpdate_Ratings": "2023-08-02T21:00:59.0553978+00:00",
+  "LastUpdate_Achievements": "2023-08-02T21:04:50.9358246+00:00"
 }

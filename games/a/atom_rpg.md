@@ -1,17 +1,17 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.46 (Ranked 615)  
+Rating: 4.46 (Ranked 616)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,101 |
-| One HIT wonder | 35.00% | ~389 |
-| Wanderer | 35.00% | ~389 |
-| One shot, one kill | 28.00% | ~311 |
+| Atom Agent | 99.00% | ~1,102 |
+| One HIT wonder | 35.00% | ~390 |
+| Wanderer | 35.00% | ~390 |
+| One shot, one kill | 28.00% | ~312 |
 | Traveler | 25.00% | ~278 |
-| Head Burst | 20.00% | ~222 |
+| Head Burst | 19.00% | ~211 |
 | Explorer | 18.00% | ~200 |
 | Grave Robber | 18.00% | ~200 |
 | Double agent | 15.00% | ~167 |
@@ -25,8 +25,8 @@ Number of Ratings: 54  (23.09.2022)
 | The Vitinsky Rifle | 6.00% | ~67 |
 | Protection racket | 5.00% | ~56 |
 | Secret room | 5.00% | ~56 |
-| Indy | 4.00% | ~44 |
-| Sacrifice | 4.00% | ~44 |
+| Indy | 4.00% | ~45 |
+| Sacrifice | 4.00% | ~45 |
 | Wishmaster | 3.00% | ~33 |
 | Career criminal | 2.00% | ~22 |
 | Neanderthal | 1.00% | ~11 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,112 (Ranked 189)  
+Progressed: 1,113 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 1,092 | 0 |
 | 2023-07-31 | 1,100 | 0 |
 | 2023-08-01 | 1,107 | 0 |
-| 2023-08-02 | 1,112 | 0 |
+| 2023-08-02 | 1,113 | 0 |
 ## Awards
 Max (Character Customization): 49  (Ranked 404)  
 Sum: 49 (Ranked 451)  

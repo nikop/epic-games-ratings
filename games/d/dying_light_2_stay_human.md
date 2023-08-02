@@ -6,41 +6,41 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~66,721 |
-| Into the Unknown | 10.00% | ~60,655 |
-| First Shot | 10.00% | ~60,655 |
-| Herzlich Wilkommen! | 9.00% | ~54,590 |
-| Good Night & Good Luck | 9.00% | ~54,590 |
-| Sancho Panza | 8.00% | ~48,524 |
-| Oh, So This Is How It Works! | 8.00% | ~48,524 |
-| Under Pressure | 7.00% | ~42,459 |
-| On the Trail of the Enemy | 7.00% | ~42,459 |
-| Flag Burning | 7.00% | ~42,459 |
-| Night Hunter | 7.00% | ~42,459 |
-| Light in the Darkness | 6.00% | ~36,393 |
-| Get Outta My House! | 6.00% | ~36,393 |
-| It Wasn't That Hard, Was It? | 6.00% | ~36,393 |
-| Being All Social | 6.00% | ~36,393 |
-| Debris and Ashes | 5.00% | ~30,328 |
-| We Will Be Heard! | 5.00% | ~30,328 |
-| Known Associate | 5.00% | ~30,328 |
-| Brush with Death | 5.00% | ~30,328 |
-| Tunnel Entrance | 5.00% | ~30,328 |
-| After the Fall | 5.00% | ~30,328 |
-| Can't Touch This! | 5.00% | ~30,328 |
-| Going Down | 4.00% | ~24,262 |
-| Family First | 4.00% | ~24,262 |
-| Your World, Your Rules | 4.00% | ~24,262 |
-| Death From Afar | 4.00% | ~24,262 |
-| Terminal Headache | 4.00% | ~24,262 |
-| Slowpoke! | 4.00% | ~24,262 |
+| You Never Forget Your First... | 11.00% | ~66,724 |
+| Into the Unknown | 10.00% | ~60,658 |
+| First Shot | 10.00% | ~60,658 |
+| Herzlich Wilkommen! | 9.00% | ~54,592 |
+| Good Night & Good Luck | 9.00% | ~54,592 |
+| Sancho Panza | 8.00% | ~48,526 |
+| Oh, So This Is How It Works! | 8.00% | ~48,526 |
+| Under Pressure | 7.00% | ~42,461 |
+| On the Trail of the Enemy | 7.00% | ~42,461 |
+| Flag Burning | 7.00% | ~42,461 |
+| Night Hunter | 7.00% | ~42,461 |
+| Light in the Darkness | 6.00% | ~36,395 |
+| Get Outta My House! | 6.00% | ~36,395 |
+| It Wasn't That Hard, Was It? | 6.00% | ~36,395 |
+| Being All Social | 6.00% | ~36,395 |
+| Debris and Ashes | 5.00% | ~30,329 |
+| We Will Be Heard! | 5.00% | ~30,329 |
+| Known Associate | 5.00% | ~30,329 |
+| Brush with Death | 5.00% | ~30,329 |
+| Tunnel Entrance | 5.00% | ~30,329 |
+| After the Fall | 5.00% | ~30,329 |
+| Can't Touch This! | 5.00% | ~30,329 |
+| Going Down | 4.00% | ~24,263 |
+| Family First | 4.00% | ~24,263 |
+| Your World, Your Rules | 4.00% | ~24,263 |
+| Death From Afar | 4.00% | ~24,263 |
+| Terminal Headache | 4.00% | ~24,263 |
+| Slowpoke! | 4.00% | ~24,263 |
 | Tickets, Please! | 3.00% | ~18,197 |
 | You're Going Down! | 3.00% | ~18,197 |
-| Municipal Services | 2.00% | ~12,131 |
-| Ban Hammer | 2.00% | ~12,131 |
-| Parkour Master | 2.00% | ~12,131 |
-| Combat Master | 2.00% | ~12,131 |
-| Modder | 2.00% | ~12,131 |
+| Municipal Services | 2.00% | ~12,132 |
+| Ban Hammer | 2.00% | ~12,132 |
+| Parkour Master | 2.00% | ~12,132 |
+| Combat Master | 2.00% | ~12,132 |
+| Modder | 2.00% | ~12,132 |
 | Tube Map | 1.00% | ~6,066 |
 | Don Quixote | 1.00% | ~6,066 |
 | Can't You Read the Signs? | 1.00% | ~6,066 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~252 |
 | Connoisseur | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 606,552 (Ranked 26)  
+Progressed: 606,579 (Ranked 26)  
 Completed: 61 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,10 +176,10 @@ Completed: 61 (0.01%) (Ranked 234)
 | 2023-07-30 | 604,775 | 61 |
 | 2023-07-31 | 605,376 | 61 |
 | 2023-08-01 | 606,007 | 61 |
-| 2023-08-02 | 606,552 | 61 |
+| 2023-08-02 | 606,579 | 61 |
 ## Awards
 Max (Character Customization): 8,654  (Ranked 39)  
-Sum: 20,663 (Ranked 54)  
+Sum: 20,665 (Ranked 54)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -190,7 +190,7 @@ Diff (max vs sum): -15
 | This game has Diverse Characters | 795 |
 | This game has Amazing Characters | 783 |
 | This game is Extremely Fun | 764 |
-| This game has Amazing Storytelling | 762 |
+| This game has Amazing Storytelling | 764 |
 | This game has Quickly Understood Controls | 740 |
 | This game is Relaxing | 715 |
 | This game has a Creative Community | 628 |
@@ -400,4 +400,4 @@ Diff (max vs sum): -15
 | 2023-07-30 | 4.58 | - | 8,612 | 20,517 |
 | 2023-07-31 | 4.58 | - | 8,628 | 20,573 |
 | 2023-08-01 | 4.58 | - | 8,636 | 20,617 |
-| 2023-08-02 | 4.58 | - | 8,654 | 20,663 |
+| 2023-08-02 | 4.58 | - | 8,654 | 20,665 |

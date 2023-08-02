@@ -932,9 +932,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 8077,
+  "EOS_Progressed": 8078,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4117,6 +4117,11 @@
       "Time": "2023-08-02T19:05:26.9938474+00:00",
       "NumProgressed": 8077,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-08-02T21:05:23.4183805+00:00",
+      "NumProgressed": 8078,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -4248,7 +4253,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "SavedElderEnt",
@@ -4264,7 +4269,7 @@
       "Name": "Quick Movements",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 2746
+      "UsersEstimate": 2747
     },
     {
       "ID": "SkeletonKing",
@@ -4280,7 +4285,7 @@
       "Name": "Inventory Management",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2746
+      "UsersEstimate": 2747
     },
     {
       "ID": "TheLegendBegins",
@@ -4288,7 +4293,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7512
+      "UsersEstimate": 7513
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4312,22 +4317,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6785
+      "UsersEstimate": 6786
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8077,
+      "Progressed": 8078,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-01T09:59:29.4512812+00:00",
-  "LastChanged_Achievements": "2023-08-02T20:05:50.6193235+00:00",
+  "LastChanged_Achievements": "2023-08-02T21:05:23.41838+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:57.8506775+00:00",
-  "LastUpdate_Ratings": "2023-08-02T20:00:06.0133768+00:00",
-  "LastUpdate_Achievements": "2023-08-02T20:05:50.6193621+00:00"
+  "LastUpdate_Ratings": "2023-08-02T20:59:51.0391033+00:00",
+  "LastUpdate_Achievements": "2023-08-02T21:05:23.4184183+00:00"
 }

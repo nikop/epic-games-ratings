@@ -2,13 +2,13 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 629,
+  "Ranking_Rating": 630,
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -343,9 +343,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 4567,
+  "EOS_Progressed": 4568,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2013,6 +2013,11 @@
       "Time": "2023-08-02T20:04:16.3327206+00:00",
       "NumProgressed": 4567,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-02T21:03:41.7281711+00:00",
+      "NumProgressed": 4568,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 67,
@@ -2032,7 +2037,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -2072,7 +2077,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3882
+      "UsersEstimate": 3883
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -2080,7 +2085,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4293
+      "UsersEstimate": 4294
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -2240,7 +2245,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3471
+      "UsersEstimate": 3472
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -2288,7 +2293,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -2296,7 +2301,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -2312,7 +2317,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -2559,15 +2564,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4567,
+      "Progressed": 4568,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-07-15T15:00:43.484172+00:00",
-  "LastChanged_Achievements": "2023-08-02T20:04:16.33272+00:00",
+  "LastChanged_Achievements": "2023-08-02T21:03:41.7281706+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.6544505+00:00",
-  "LastUpdate_Ratings": "2023-08-02T19:58:52.7876498+00:00",
-  "LastUpdate_Achievements": "2023-08-02T20:04:16.332807+00:00"
+  "LastUpdate_Ratings": "2023-08-02T20:58:39.3232535+00:00",
+  "LastUpdate_Achievements": "2023-08-02T21:03:41.7282561+00:00"
 }

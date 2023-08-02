@@ -6,9 +6,9 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,421 |
+| Just One...More...Term... | 75.00% | ~3,422 |
 | Un-Lonely Island | 47.00% | ~2,144 |
-| The Beginning of a Servantship | 45.00% | ~2,052 |
+| The Beginning of a Servantship | 45.00% | ~2,053 |
 | Trade Is My Trait | 37.00% | ~1,688 |
 | Number 18 | 24.00% | ~1,095 |
 | We Don't Have Time For That | 19.00% | ~867 |
@@ -20,7 +20,7 @@ Number of Ratings: 398  (23.09.2022)
 | For Science! | 11.00% | ~502 |
 | Happy Ending? | 10.00% | ~456 |
 | Of Seals And Men | 10.00% | ~456 |
-| Shackadelic | 9.00% | ~410 |
+| Shackadelic | 10.00% | ~456 |
 | Double Trouble | 8.00% | ~365 |
 | Firestarter | 8.00% | ~365 |
 | Make Tropico Great Again! | 8.00% | ~365 |
@@ -32,8 +32,8 @@ Number of Ratings: 398  (23.09.2022)
 | Computer Says "No" | 5.00% | ~228 |
 | Watch The World Burn | 5.00% | ~228 |
 | Fairy Tale Come True | 5.00% | ~228 |
+| Apocalypso | 4.00% | ~182 |
 | Been there, Done That | 3.00% | ~137 |
-| Apocalypso | 3.00% | ~137 |
 | Narcissist | 3.00% | ~137 |
 | Promising Endeavors | 3.00% | ~137 |
 | The Time For Wonders | 3.00% | ~137 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~41 |
 | My Ways | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,561 (Ranked 144)  
+Progressed: 4,562 (Ranked 144)  
 Completed: 2 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 2 (0.04%) (Ranked 218)
 | 2023-07-30 | 4,451 | 2 |
 | 2023-07-31 | 4,478 | 2 |
 | 2023-08-01 | 4,521 | 2 |
-| 2023-08-02 | 4,561 | 2 |
+| 2023-08-02 | 4,562 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 341)  
 Sum: 672 (Ranked 276)  

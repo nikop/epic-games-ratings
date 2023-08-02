@@ -9,24 +9,24 @@
 | Good Person Chip | 85.00% | ~179 |
 | First winning | 84.00% | ~177 |
 | Your first job | 83.00% | ~175 |
-| Old movies enjoyer | 79.00% | ~167 |
-| First defeat | 78.00% | ~165 |
+| Old movies enjoyer | 80.00% | ~169 |
+| First defeat | 79.00% | ~167 |
 | Depressed visitor | 77.00% | ~162 |
 | Fitness professional | 76.00% | ~160 |
 | Employee of the week | 75.00% | ~158 |
 | Neurotrainer – power gainer! | 74.00% | ~156 |
 | Your own amateur gym | 73.00% | ~154 |
 | Run K, run! | 71.00% | ~150 |
-| Hello, world! | 67.00% | ~141 |
+| Hello, world! | 68.00% | ~143 |
+| Fighting is cool | 66.00% | ~139 |
 | No bullying more | 66.00% | ~139 |
-| Fighting is cool | 65.00% | ~137 |
 | Pal of your father? | 62.00% | ~131 |
 | Employee of the month | 61.00% | ~129 |
 | Spirit of the past | 60.00% | ~127 |
 | Law student | 58.00% | ~122 |
 | Intriguing candies | 57.00% | ~120 |
 | Workout professional | 56.00% | ~118 |
-| Little hacker | 55.00% | ~116 |
+| Little hacker | 56.00% | ~118 |
 | It's good to be alive | 55.00% | ~116 |
 | Champion – starter pack | 54.00% | ~114 |
 | Own four walls | 54.00% | ~114 |
@@ -36,7 +36,7 @@
 | Legal courier | 50.00% | ~106 |
 | Extreme neuropower! | 48.00% | ~101 |
 | Escaped from a big trouble | 48.00% | ~101 |
-| Now you are worthy | 45.00% | ~95 |
+| Now you are worthy | 46.00% | ~97 |
 | No blades in the gym | 45.00% | ~95 |
 | Your own way | 44.00% | ~93 |
 | Guiding on the right path | 43.00% | ~91 |
@@ -54,8 +54,8 @@
 | Seashell hunter | 33.00% | ~70 |
 | Undercover robot | 31.00% | ~65 |
 | Gang wrangler | 30.00% | ~63 |
+| Problems of cyborgs | 30.00% | ~63 |
 | The last bell ring | 30.00% | ~63 |
-| Problems of cyborgs | 29.00% | ~61 |
 | Not little hacker | 29.00% | ~61 |
 | Absolute Champion! | 29.00% | ~61 |
 | The lonesome road | 28.00% | ~59 |

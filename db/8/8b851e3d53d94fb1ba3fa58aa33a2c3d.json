@@ -182,9 +182,9 @@
       "ID": "APOLLO",
       "SetID": "e4de54",
       "Name": "Apollo",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ARES",
@@ -374,9 +374,9 @@
       "ID": "MINOTAUR_CULT",
       "SetID": "e4de54",
       "Name": "Minotaur cult",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MINOTAUR_MENACE",
@@ -422,9 +422,9 @@
       "ID": "SPIDER",
       "SetID": "e4de54",
       "Name": "Spider",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "STEALTH_MASTER",
@@ -461,8 +461,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-08-02T20:04:50.5383584+00:00",
+  "LastChanged_Achievements": "2023-08-02T21:04:25.3437913+00:00",
   "LastUpdate_AppInfo": "2023-07-28T21:57:00.7979866+00:00",
-  "LastUpdate_Ratings": "2023-08-02T19:57:25.8789141+00:00",
-  "LastUpdate_Achievements": "2023-08-02T20:04:50.5383872+00:00"
+  "LastUpdate_Ratings": "2023-08-02T20:57:12.7284888+00:00",
+  "LastUpdate_Achievements": "2023-08-02T21:04:25.3438243+00:00"
 }

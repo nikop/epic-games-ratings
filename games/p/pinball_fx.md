@@ -6,16 +6,16 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~202,480 |
-| I know the Rules | 39.00% | ~96,302 |
-| Contender | 11.00% | ~27,162 |
-| I Found it! | 9.00% | ~22,223 |
-| First but not Last | 4.00% | ~9,877 |
+| Ball Launched | 82.00% | ~202,495 |
+| I know the Rules | 39.00% | ~96,309 |
+| Contender | 11.00% | ~27,164 |
+| I Found it! | 9.00% | ~22,225 |
+| First but not Last | 4.00% | ~9,878 |
 | Ready Steady Score | 3.00% | ~7,408 |
 | Dress Code | 3.00% | ~7,408 |
 | Full Loot Madness | 2.00% | ~4,939 |
 | My Table, my Rules | 1.00% | ~2,469 |
-| Nine Zeroes | 0.90% | ~2,222 |
+| Nine Zeroes | 0.90% | ~2,223 |
 | Shiny Memento | 0.30% | ~741 |
 | Pinball Hoarder | 0.30% | ~741 |
 | Interior Designer | 0.30% | ~741 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,927 (Ranked 45)  
+Progressed: 246,945 (Ranked 45)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,11 +141,11 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 246,099 | 0 |
 | 2023-07-31 | 246,358 | 0 |
 | 2023-08-01 | 246,659 | 0 |
-| 2023-08-02 | 246,927 | 0 |
+| 2023-08-02 | 246,945 | 0 |
 ## Awards
 Max (Great for Beginners): 182  (Ranked 280)  
-Sum: 1,519 (Ranked 219)  
-Diff (max vs sum): 61  
+Sum: 1,520 (Ranked 218)  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 182 |
@@ -155,7 +155,7 @@ Diff (max vs sum): 61
 | This game is Extremely Fun | 154 |
 | This game is Highly Recommended | 150 |
 | This game has Competitive Players | 146 |
-| This game has Challenging Combat | 103 |
+| This game has Challenging Combat | 104 |
 | This game has Amazing Storytelling | 101 |
 | This game has a Competitive Community | 99 |
 | This game has Amazing Characters | 90 |
@@ -308,3 +308,4 @@ Diff (max vs sum): 61
 | 2023-07-30 | 4.04 | - | 182 | 1,517 |
 | 2023-07-31 | 4.04 | - | 182 | 1,518 |
 | 2023-08-01 | 4.04 | - | 182 | 1,519 |
+| 2023-08-02 | 4.04 | - | 182 | 1,520 |

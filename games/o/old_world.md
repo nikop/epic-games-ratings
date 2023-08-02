@@ -7,15 +7,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Clergy | 3.00% | ~397 |
+| Explorer | 2.00% | ~265 |
 | Settler | 2.00% | ~265 |
 | Play a Single Player Game | 2.00% | ~265 |
 | The Great Mage | 2.00% | ~265 |
 | Able | 1.00% | ~132 |
 | Architect | 1.00% | ~132 |
-| Explorer | 1.00% | ~132 |
+| Enlightened | 1.00% | ~132 |
 | Good | 1.00% | ~132 |
 | Intrepid | 1.00% | ~132 |
 | Just | 1.00% | ~132 |
+| Learned | 1.00% | ~132 |
 | Mason | 1.00% | ~132 |
 | Noble | 1.00% | ~132 |
 | Pioneer | 1.00% | ~132 |
@@ -23,15 +25,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 1.00% | ~132 |
 | Hanging Gardens | 1.00% | ~132 |
 | Oracle | 1.00% | ~132 |
+| Naming Landmarks | 1.00% | ~132 |
 | Trade Caravan | 1.00% | ~132 |
 | Poetic Leader | 1.00% | ~132 |
-| Enlightened | 0.90% | ~119 |
 | Glorious | 0.90% | ~119 |
 | Keystone | 0.90% | ~119 |
-| Learned | 0.90% | ~119 |
 | Judaism | 0.90% | ~119 |
 | Greek Paganism | 0.90% | ~119 |
-| Naming Landmarks | 0.90% | ~119 |
 | Ambitious | 0.80% | ~106 |
 | Magnificent | 0.80% | ~106 |
 | Warrior | 0.80% | ~106 |
@@ -176,6 +176,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Seizing Destiny | 0.10% | ~13 |
 | Bronze Victory (Carthage 4) | 0.10% | ~13 |
 | Epic Victory (Carthage 4) | 0.10% | ~13 |
+| Gold Victory (Carthage 4) | 0.10% | ~13 |
 | Silver Victory (Carthage 4) | 0.10% | ~13 |
 | Carthage Campaign | 0.10% | ~13 |
 | Cleopatra's Love | 0.10% | ~13 |
@@ -272,7 +273,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | United Against The Horde | 0.00% | ~0 |
 | Before the Mongol Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
-| Gold Victory (Carthage 4) | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
 | White Death | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,238 (Ranked 117)  
+Progressed: 13,243 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,7 +407,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-07-30 | 13,191 | 5 |
 | 2023-07-31 | 13,209 | 5 |
 | 2023-08-01 | 13,228 | 5 |
-| 2023-08-02 | 13,238 | 5 |
+| 2023-08-02 | 13,243 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 262)  
 Sum: 1,786 (Ranked 206)  

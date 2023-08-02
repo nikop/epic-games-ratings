@@ -1,7 +1,7 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.44 (Ranked 645)  
+Rating: 4.44 (Ranked 646)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,7 +13,7 @@ Number of Ratings: 125  (23.09.2022)
 | Welcome to the Weird West | 57.00% | ~1,009 |
 | Dead or Alive | 56.00% | ~991 |
 | Full House | 36.00% | ~637 |
-| Off the Trail | 33.00% | ~584 |
+| Off the Trail | 34.00% | ~602 |
 | Justice Served | 29.00% | ~513 |
 | Chain Reaction | 27.00% | ~478 |
 | Dishonored | 25.00% | ~442 |

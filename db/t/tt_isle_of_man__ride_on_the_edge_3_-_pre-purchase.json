@@ -590,9 +590,9 @@
       "ID": "ACHIEVEMENT_04",
       "SetID": "gagif7",
       "Name": "Like Phileas Fogg",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -638,9 +638,9 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "gagif7",
       "Name": "Nerd",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -798,9 +798,9 @@
       "ID": "ACHIEVEMENT_30",
       "SetID": "gagif7",
       "Name": "Onwards and Upwards",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -885,8 +885,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-08-02T20:05:15.7830238+00:00",
+  "LastChanged_Achievements": "2023-08-02T21:04:49.930977+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:32.7648738+00:00",
-  "LastUpdate_Ratings": "2023-08-02T19:58:26.0246419+00:00",
-  "LastUpdate_Achievements": "2023-08-02T20:05:15.7830618+00:00"
+  "LastUpdate_Ratings": "2023-08-02T20:58:11.739232+00:00",
+  "LastUpdate_Achievements": "2023-08-02T21:04:49.9310095+00:00"
 }

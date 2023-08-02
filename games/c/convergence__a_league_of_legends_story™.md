@@ -10,6 +10,7 @@ Rating: 4.60 (Ranked 390)
 | Rail Rat | 20.00% | ~164 |
 | Immaculate Aim | 18.00% | ~148 |
 | Make Up For Lost Time | 17.00% | ~139 |
+| No, Thanks! | 17.00% | ~139 |
 | Breaking Down Barriers | 17.00% | ~139 |
 | The Prince in Heels | 17.00% | ~139 |
 | Immaculate Aim | 17.00% | ~139 |
@@ -17,7 +18,6 @@ Rating: 4.60 (Ranked 390)
 | The Steel Shadow | 16.00% | ~131 |
 | Time Flies | 16.00% | ~131 |
 | The Harder They Fall | 16.00% | ~131 |
-| No, Thanks! | 16.00% | ~131 |
 | The Wicked Twins | 16.00% | ~131 |
 | Honest Mistake | 16.00% | ~131 |
 | Fast Learner | 16.00% | ~131 |

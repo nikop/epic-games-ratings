@@ -2,12 +2,12 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
-  "Ranking_Rating": 615,
+  "Ranking_Rating": 616,
   "Ranking_Popularity": 404,
   "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1112,
+  "EOS_Progressed": 1113,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2028,6 +2028,11 @@
       "Time": "2023-08-02T19:03:57.5551924+00:00",
       "NumProgressed": 1112,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T21:04:17.2083948+00:00",
+      "NumProgressed": 1113,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2095,7 +2100,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "EXPERT_1",
@@ -2133,9 +2138,9 @@
       "ID": "HEAD_BURST_1",
       "SetID": "bf13m8j",
       "Name": "Head Burst",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 211
     },
     {
       "ID": "INDY_1",
@@ -2143,7 +2148,7 @@
       "Name": "Indy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "KORALOV",
@@ -2191,7 +2196,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -2199,7 +2204,7 @@
       "Name": "One shot, one kill",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "PACIFIST",
@@ -2255,7 +2260,7 @@
       "Name": "Sacrifice",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "SAVANT_1",
@@ -2311,7 +2316,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "WISHMASTER_1",
@@ -2326,15 +2331,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1112,
+      "Progressed": 1113,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-08-02T20:04:41.9428773+00:00",
+  "LastChanged_Achievements": "2023-08-02T21:04:17.2083944+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:04.0177394+00:00",
-  "LastUpdate_Ratings": "2023-08-02T20:01:11.8689175+00:00",
-  "LastUpdate_Achievements": "2023-08-02T20:04:41.9429179+00:00"
+  "LastUpdate_Ratings": "2023-08-02T21:01:02.5874629+00:00",
+  "LastUpdate_Achievements": "2023-08-02T21:04:17.2084337+00:00"
 }

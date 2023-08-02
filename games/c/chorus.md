@@ -1,7 +1,7 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.45 (Ranked 629)  
+Rating: 4.45 (Ranked 630)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,7 +17,7 @@ Number of Ratings: 58  (23.09.2022)
 | Paragon | 62.00% | ~688 |
 | Old Days Born Anew | 61.00% | ~677 |
 | Full Arsenal | 56.00% | ~622 |
-| Controlled Demolition | 54.00% | ~599 |
+| Controlled Demolition | 55.00% | ~610 |
 | Payback | 53.00% | ~588 |
 | Huntress | 52.00% | ~577 |
 | Born to Drift | 51.00% | ~566 |

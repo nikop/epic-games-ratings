@@ -16,22 +16,22 @@
 | First Win | 63.00% | ~52 |
 | True Story! | 44.00% | ~36 |
 | Bedroom Secret Spot | 38.00% | ~31 |
-| Kick It | 30.00% | ~25 |
+| Kick It | 32.00% | ~26 |
 | Spooky | 28.00% | ~23 |
-| Grand Slam! | 24.00% | ~20 |
+| Grand Slam! | 26.00% | ~21 |
 | Classroom Secret Spot | 24.00% | ~20 |
 | Save some water for the fishies | 23.00% | ~19 |
 | Have Mercy | 23.00% | ~19 |
+| At least everyone still had fun | 22.00% | ~18 |
 | Bathroom Secret Spot | 21.00% | ~17 |
 | Angry Dad | 21.00% | ~17 |
-| At least everyone still had fun | 21.00% | ~17 |
 | Living Room Secret Spot | 20.00% | ~16 |
 | Hi Hungry, I'm Dad | 16.00% | ~13 |
-| Angry Mom | 13.00% | ~11 |
+| Angry Mom | 15.00% | ~12 |
 | Just how we drew it up | 11.00% | ~9 |
 | Interference | 9.00% | ~7 |
-| Kitchen Secret Spot | 5.00% | ~4 |
-| You broke it, you bought it | 5.00% | ~4 |
+| Kitchen Secret Spot | 6.00% | ~5 |
+| You broke it, you bought it | 6.00% | ~5 |
 | Found the Secret Formula! | 5.00% | ~4 |
 | Basement Secret Spot | 4.00% | ~3 |
 | Attic Secret Spot | 2.00% | ~2 |

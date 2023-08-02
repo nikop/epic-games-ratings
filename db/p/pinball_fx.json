@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-fx",
   "Ranking_Rating": 917,
   "Ranking_Popularity": 280,
-  "Ranking_PopularitySum": 219,
+  "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 37,
@@ -1556,10 +1556,16 @@
       "Rating": 4.04,
       "NumberOfAwards": 1519,
       "NumberOfAwardsMax": 182
+    },
+    {
+      "Time": "2023-08-02T20:59:46.0947041+00:00",
+      "Rating": 4.04,
+      "NumberOfAwards": 1520,
+      "NumberOfAwardsMax": 182
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1519,
+  "NumberOfAwards": 1520,
   "NumberOfAwardsMax": 182,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1639,12 +1645,12 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 103
+      "Count": 104
     }
   ],
-  "EOS_Progressed": 246927,
+  "EOS_Progressed": 246945,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2692,
+  "EOS_NewPlayers": 2695,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13067,6 +13073,11 @@
       "Time": "2023-08-02T20:05:43.9544672+00:00",
       "NumProgressed": 246927,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T21:05:17.0753347+00:00",
+      "NumProgressed": 246945,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -13126,7 +13137,7 @@
       "Name": "Contender",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 27162
+      "UsersEstimate": 27164
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -13166,7 +13177,7 @@
       "Name": "First but not Last",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9877
+      "UsersEstimate": 9878
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -13222,7 +13233,7 @@
       "Name": "Nine Zeroes",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -13238,7 +13249,7 @@
       "Name": "I Found it!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22223
+      "UsersEstimate": 22225
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -13302,7 +13313,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 202480
+      "UsersEstimate": 202495
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -13310,22 +13321,22 @@
       "Name": "I know the Rules",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 96302
+      "UsersEstimate": 96309
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 246927,
+      "Progressed": 246945,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2023-08-01T19:59:51.1917046+00:00",
-  "LastChanged_Achievements": "2023-08-02T20:05:43.9544666+00:00",
+  "LastChanged": "2023-08-02T20:59:46.094704+00:00",
+  "LastChanged_Achievements": "2023-08-02T21:05:17.0753343+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:50.1755245+00:00",
-  "LastUpdate_Ratings": "2023-08-02T20:00:00.2068058+00:00",
-  "LastUpdate_Achievements": "2023-08-02T20:05:43.9545641+00:00"
+  "LastUpdate_Ratings": "2023-08-02T20:59:46.0947045+00:00",
+  "LastUpdate_Achievements": "2023-08-02T21:05:17.0754253+00:00"
 }

@@ -18,13 +18,13 @@ Number of Ratings: 285  (23.09.2022)
 | Season Finale | 2.00% | ~11 |
 | Cold-Blooded Critters | 1.00% | ~6 |
 | Deadication | 1.00% | ~6 |
+| The Harder They Fall | 1.00% | ~6 |
 | Horder Better Faster Stronger | 1.00% | ~6 |
 | Next Time on MythForce... | 1.00% | ~6 |
 | On this Episode! | 1.00% | ~6 |
 | Spending Spree | 1.00% | ~6 |
 | Ten Steps from the Grave | 1.00% | ~6 |
 | The Fourth Gate | 0.90% | ~5 |
-| The Harder They Fall | 0.90% | ~5 |
 | Everything Must Go! | 0.70% | ~4 |
 | We've Got a Kaiju on the Field | 0.20% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |

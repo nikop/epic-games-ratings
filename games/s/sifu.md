@@ -1,27 +1,27 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 65)  
+Rating: 4.82 (Ranked 66)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~1,069 |
 | Project Arena | 4.00% | ~855 |
-| The Old Grandmaster | 2.00% | ~14,241 |
-| The Assault | 2.00% | ~14,241 |
-| The Hateful Pole Fighter | 2.00% | ~14,241 |
-| A Lady's Blood in the Snow | 2.00% | ~14,241 |
-| Lady Wing Chun | 2.00% | ~14,241 |
-| Street Fighting | 2.00% | ~14,241 |
-| Life is your teacher | 2.00% | ~14,241 |
-| State of constant learning | 2.00% | ~14,241 |
-| Qi Gong: Breath | 2.00% | ~14,241 |
-| Qi Gong: Essence | 2.00% | ~14,241 |
-| Lightning Hands | 2.00% | ~14,241 |
-| Path of the Prospect | 2.00% | ~14,241 |
-| Rumble in the Hangar | 2.00% | ~14,241 |
-| Bloody Sport | 2.00% | ~427 |
+| The Old Grandmaster | 2.00% | ~14,242 |
+| The Assault | 2.00% | ~14,242 |
+| The Hateful Pole Fighter | 2.00% | ~14,242 |
+| A Lady's Blood in the Snow | 2.00% | ~14,242 |
+| Lady Wing Chun | 2.00% | ~14,242 |
+| Street Fighting | 2.00% | ~14,242 |
+| Life is your teacher | 2.00% | ~14,242 |
+| State of constant learning | 2.00% | ~14,242 |
+| Qi Gong: Breath | 2.00% | ~14,242 |
+| Qi Gong: Essence | 2.00% | ~14,242 |
+| Lightning Hands | 2.00% | ~14,242 |
+| Path of the Prospect | 2.00% | ~14,242 |
+| Rumble in the Hangar | 2.00% | ~14,242 |
+| Bloody Sport | 2.00% | ~428 |
 | Furious Fists | 1.00% | ~7,121 |
 | Scareless | 1.00% | ~7,121 |
 | Kill Nil | 1.00% | ~7,121 |
@@ -47,8 +47,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Martial Artist | 0.40% | ~2,848 |
 | Knowledge Greed | 0.40% | ~2,848 |
 | The Pit Protector | 0.40% | ~2,848 |
-| Martial Hub | 0.40% | ~85 |
-| Secure, Protect, Leave | 0.40% | ~85 |
+| Martial Hub | 0.40% | ~86 |
+| Secure, Protect, Leave | 0.40% | ~86 |
 | Drunken Fighter | 0.30% | ~2,136 |
 | Healing Memory | 0.30% | ~2,136 |
 | Master of the Phoenix Eye Fist | 0.30% | ~2,136 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,424 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,072 (Ranked 20)  
+Progressed: 712,075 (Ranked 20)  
 Completed: 12,840 (1.80%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 12,840 (1.80%) (Ranked 90)
 | 2023-07-30 | 711,892 | 12,836 |
 | 2023-07-31 | 711,949 | 12,837 |
 | 2023-08-01 | 712,009 | 12,838 |
-| 2023-08-02 | 712,072 | 12,840 |
+| 2023-08-02 | 712,075 | 12,840 |
 ## Awards
 Max (Great Boss Battles): 6,331  (Ranked 53)  
 Sum: 10,868 (Ranked 81)  

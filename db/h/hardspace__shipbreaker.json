@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -296,7 +296,7 @@
   "Tags": [],
   "EOS_Progressed": 857,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1620,9 +1620,9 @@
       "ID": "ACH_I_CAN_FIX_IT",
       "SetID": "108h92c",
       "Name": "I can fix it!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1644,9 +1644,9 @@
       "ID": "ACH_POST_NO_BILLS",
       "SetID": "108h92c",
       "Name": "Post No Bills",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 471
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -1693,8 +1693,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-08-02T20:05:42.3397698+00:00",
+  "LastChanged_Achievements": "2023-08-02T21:05:15.4727072+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:11.3748437+00:00",
-  "LastUpdate_Ratings": "2023-08-02T19:58:16.9323797+00:00",
-  "LastUpdate_Achievements": "2023-08-02T20:05:42.3397948+00:00"
+  "LastUpdate_Ratings": "2023-08-02T20:58:03.4346255+00:00",
+  "LastUpdate_Achievements": "2023-08-02T21:05:15.4727358+00:00"
 }

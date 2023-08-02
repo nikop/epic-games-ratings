@@ -2,12 +2,12 @@
   "ID": "b4565296c22549e4830c13bc7506642d",
   "Name": "Far Cry 6 Standard Edition",
   "ProductSlug": "far-cry-6",
-  "Ranking_Rating": 629,
+  "Ranking_Rating": 630,
   "Ranking_Popularity": 155,
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 527,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-11-29T15:00:00+00:00",
@@ -5819,6 +5819,6 @@
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
   "LastChanged": "2023-08-02T18:01:30.7581845+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:10.2575861+00:00",
-  "LastUpdate_Ratings": "2023-08-02T20:00:29.4440156+00:00",
-  "LastUpdate_Achievements": "2023-08-02T20:06:47.6763797+00:00"
+  "LastUpdate_Ratings": "2023-08-02T21:00:16.9391275+00:00",
+  "LastUpdate_Achievements": "2023-08-02T21:06:28.3830357+00:00"
 }
