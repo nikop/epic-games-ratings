@@ -280,6 +280,7 @@
 | [Last Labyrinth](../games/6/63e942fbfc8e40a5af2f7749a8cbcc09.md) | 35 | 1,000 |
 | [Late Shift](../games/l/late_shift.md) | 20 | 1,000 |
 | [Lawn Mowing Simulator](../games/l/lawn_mowing_simulator.md) | 54 | 1,000 |
+| [Layers of Fear](../games/l/layers_of_fear.md) | 52 | 1,000 |
 | [Learning Factory](../games/l/learning_factory.md) | 57 | 1,000 |
 | [LEGO® Star Wars™: The Skywalker Saga](../games/l/lego®_star_wars™__the_skywalker_saga.md) | 45 | 1,000 |
 | [Lemon Cake](../games/l/lemon_cake.md) | 17 | 1,000 |
