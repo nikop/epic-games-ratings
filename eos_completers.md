@@ -3,7 +3,7 @@
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 44.74% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.27% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 32.26% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 31.25% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 22.99% |
@@ -30,14 +30,14 @@
 | 28 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.09% |
 | 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
-| 31 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.49% |
+| 31 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.43% |
 | 32 | [Smelter](games/s/smelter.md) | 7.69% |
 | 33 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.43% |
 | 34 | [Ravenlok](games/r/ravenlok.md) | 7.35% |
-| 35 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
-| 36 | [Scorn](games/s/scorn.md) | 6.98% |
+| 35 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.04% |
+| 36 | [Scorn](games/s/scorn.md) | 6.97% |
 | 37 | [Time Loader](games/t/time_loader.md) | 6.96% |
-| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.42% |
+| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.38% |
 | 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 40 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 41 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.00% |
@@ -59,12 +59,12 @@
 | 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 58 | [Doodle God](games/d/doodle_god.md) | 3.49% |
 | 59 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
-| 60 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.37% |
-| 61 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.35% |
+| 60 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.35% |
+| 60 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.35% |
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.33% |
 | 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.11% |
 | 64 | [The Complex](games/t/the_complex.md) | 3.04% |
-| 65 | [Monster Harvest](games/m/monster_harvest.md) | 3.01% |
+| 65 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
 | 66 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 67 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.90% |
 | 68 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.89% |
@@ -120,7 +120,7 @@
 | 118 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 119 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 119 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
-| 121 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.68% |
+| 121 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.67% |
 | 122 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 122 | [Haven](games/h/haven.md) | 0.66% |
 | 124 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.64% |
@@ -137,7 +137,7 @@
 | 135 | [The Surge 2](games/t/the_surge_2.md) | 0.51% |
 | 135 | [Them and Us](games/t/them_and_us.md) | 0.51% |
 | 137 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
-| 137 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.50% |
+| 138 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.49% |
 | 139 | [Train Valley](games/t/train_valley.md) | 0.48% |
 | 140 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 141 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.46% |
@@ -191,13 +191,13 @@
 | 189 | [Isonzo](games/i/isonzo.md) | 0.12% |
 | 189 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 189 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.12% |
+| 192 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
 | 192 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
 | 192 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.11% |
 | 192 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
-| 195 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
-| 195 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 195 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 195 | [Supraland](games/s/supraland.md) | 0.10% |
+| 196 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
+| 196 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 196 | [Supraland](games/s/supraland.md) | 0.10% |
 | 199 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 199 | [Outward Definitive Edition](games/o/outward.md) | 0.09% |
 | 199 | [Riverbond](games/r/riverbond.md) | 0.09% |
@@ -324,6 +324,7 @@
 | 247 | [Filthy Animals \| Heist Simulator](games/f/filthy_animals___heist_simulator.md) | 0.00% |
 | 247 | [Flat Heroes](games/f/flat_heroes.md) | 0.00% |
 | 247 | [Football Manager 2022](games/f/football_manager_2022.md) | 0.00% |
+| 247 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 0.00% |
 | 247 | [Foretales](games/f/foretales.md) | 0.00% |
 | 247 | [Forklift Extreme - Deluxe Edition](games/f/forklift_extreme_-_deluxe_edition.md) | 0.00% |
 | 247 | [FRONT MISSION 1st: Remake](games/e/e6c7d54c946f4d3da27a4a6d4a45202f.md) | 0.00% |
@@ -486,6 +487,7 @@
 | 247 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 0.00% |
 | 247 | [The Entropy Centre](games/t/the_entropy_centre.md) | 0.00% |
 | 247 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 0.00% |
+| 247 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 0.00% |
 | 247 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.00% |
 | 247 | [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 0.00% |
 | 247 | [The Galactic Junkers](games/t/the_galactic_junkers.md) | 0.00% |
