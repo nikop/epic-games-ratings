@@ -4,7 +4,7 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1902,
+  "EOS_Progressed": 1903,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -3181,6 +3181,11 @@
       "Time": "2023-08-02T00:06:34.1832098+00:00",
       "NumProgressed": 1902,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-02T01:55:38.6757233+00:00",
+      "NumProgressed": 1903,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -3288,7 +3293,7 @@
       "Name": "Game opened",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "ach_magic_wand",
@@ -3319,14 +3324,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 1902,
+      "Progressed": 1903,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-08-02T00:06:34.1832092+00:00",
+  "LastChanged_Achievements": "2023-08-02T01:55:38.675723+00:00",
   "LastUpdate_AppInfo": "2023-07-28T10:57:28.8987406+00:00",
-  "LastUpdate_Ratings": "2023-08-01T23:57:52.5618142+00:00",
-  "LastUpdate_Achievements": "2023-08-02T00:06:34.1832351+00:00"
+  "LastUpdate_Ratings": "2023-08-02T01:47:19.8137206+00:00",
+  "LastUpdate_Achievements": "2023-08-02T01:55:38.6757508+00:00"
 }

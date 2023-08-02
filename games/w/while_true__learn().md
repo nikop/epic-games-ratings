@@ -6,36 +6,36 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~556,806 |
-| Error: Stack Overflow | 66.00% | ~395,153 |
-| We need more gold | 60.00% | ~359,230 |
-| The dawn of civilization | 53.00% | ~317,319 |
-| More FPS for the FPS god! | 49.00% | ~293,371 |
-| Beauty and harmony | 48.00% | ~287,384 |
-| One more! | 44.00% | ~263,435 |
-| Overmind | 24.00% | ~143,692 |
-| RNG is my best friend now | 18.00% | ~107,769 |
-| Cosplay | 13.00% | ~77,833 |
-| Evolution in progress... | 13.00% | ~77,833 |
-| Step by step | 8.00% | ~47,897 |
-| README reader | 3.00% | ~17,961 |
-| Data scientist | 3.00% | ~17,961 |
-| One small step for a man... | 3.00% | ~17,961 |
-| To see it all, to learn it all | 2.00% | ~11,974 |
-| Evolution complete | 2.00% | ~11,974 |
-| Best deal on the market | 2.00% | ~11,974 |
-| Is this Skynet? | 2.00% | ~11,974 |
-| Cybergeek 2047 | 2.00% | ~11,974 |
+| First.. Bit? | 93.00% | ~556,816 |
+| Error: Stack Overflow | 66.00% | ~395,160 |
+| We need more gold | 60.00% | ~359,236 |
+| The dawn of civilization | 53.00% | ~317,325 |
+| More FPS for the FPS god! | 49.00% | ~293,376 |
+| Beauty and harmony | 48.00% | ~287,389 |
+| One more! | 44.00% | ~263,440 |
+| Overmind | 24.00% | ~143,694 |
+| RNG is my best friend now | 18.00% | ~107,771 |
+| Cosplay | 13.00% | ~77,835 |
+| Evolution in progress... | 13.00% | ~77,835 |
+| Step by step | 8.00% | ~47,898 |
+| README reader | 3.00% | ~17,962 |
+| Data scientist | 3.00% | ~17,962 |
+| One small step for a man... | 3.00% | ~17,962 |
+| To see it all, to learn it all | 2.00% | ~11,975 |
+| Evolution complete | 2.00% | ~11,975 |
+| Best deal on the market | 2.00% | ~11,975 |
+| Is this Skynet? | 2.00% | ~11,975 |
+| Cybergeek 2047 | 2.00% | ~11,975 |
 | Ping | 1.00% | ~5,987 |
 | Magna cum laude | 1.00% | ~5,987 |
-| The hoarder | 0.90% | ~5,388 |
+| The hoarder | 0.90% | ~5,389 |
 | Deal with it! | 0.50% | ~2,994 |
 | Gold rush | 0.40% | ~2,395 |
 | Cat-o-holic | 0.40% | ~2,395 |
 | Elements will destroy you! | 0.30% | ~1,796 |
 | The Scrooge | 0.10% | ~599 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 598,716 (Ranked 27)  
+Progressed: 598,727 (Ranked 27)  
 Completed: 510 (0.09%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 510 (0.09%) (Ranked 198)
 | 2023-07-30 | 598,445 | 509 |
 | 2023-07-31 | 598,583 | 510 |
 | 2023-08-01 | 598,708 | 510 |
-| 2023-08-02 | 598,716 | 510 |
+| 2023-08-02 | 598,727 | 510 |
 ## Awards
 Max (Challenging Puzzles): 134  (Ranked 306)  
 Sum: 134 (Ranked 399)  

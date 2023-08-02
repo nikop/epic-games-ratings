@@ -1026,9 +1026,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4521,
+  "EOS_Progressed": 4524,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7341,6 +7341,11 @@
       "Time": "2023-08-01T23:06:14.4592674+00:00",
       "NumProgressed": 4521,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-02T01:56:23.1852261+00:00",
+      "NumProgressed": 4524,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -7392,7 +7397,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -7408,7 +7413,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -7424,7 +7429,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -7448,15 +7453,15 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2036
     },
     {
       "ID": "ACH_EP_PIRATEKING",
       "SetID": "1p8ab95",
       "Name": "The Legend of Langostino",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 724
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -7472,7 +7477,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -7496,7 +7501,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -7512,7 +7517,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3391
+      "UsersEstimate": 3393
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -7536,7 +7541,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -7544,7 +7549,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_MYWAYS",
@@ -7608,7 +7613,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -7624,7 +7629,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -7656,7 +7661,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -7671,15 +7676,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4521,
+      "Progressed": 4524,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-29T23:00:35.7289146+00:00",
-  "LastChanged_Achievements": "2023-08-02T00:07:23.1424511+00:00",
+  "LastChanged_Achievements": "2023-08-02T01:56:23.1852255+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:19.2698244+00:00",
-  "LastUpdate_Ratings": "2023-08-02T00:02:18.4298201+00:00",
-  "LastUpdate_Achievements": "2023-08-02T00:07:23.1425329+00:00"
+  "LastUpdate_Ratings": "2023-08-02T01:51:15.0537955+00:00",
+  "LastUpdate_Achievements": "2023-08-02T01:56:23.1852917+00:00"
 }

@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 90.00% | ~109 |
-| Bullseye! | 86.00% | ~104 |
-| Graduation! | 82.00% | ~99 |
+| Level Up! | 90.00% | ~110 |
+| Bullseye! | 86.00% | ~105 |
+| Graduation! | 82.00% | ~100 |
 | Villfir Forest | 79.00% | ~96 |
-| Right in the kisser! | 62.00% | ~75 |
-| The Shaman | 50.00% | ~60 |
-| The Thrower | 50.00% | ~60 |
-| Duscot Steamcity | 50.00% | ~60 |
-| The Penguin | 45.00% | ~54 |
-| The Magician | 45.00% | ~54 |
-| The Tunneler | 39.00% | ~47 |
+| Right in the kisser! | 62.00% | ~76 |
+| The Shaman | 50.00% | ~61 |
+| The Thrower | 49.00% | ~60 |
+| Duscot Steamcity | 49.00% | ~60 |
+| The Penguin | 46.00% | ~56 |
+| The Magician | 45.00% | ~55 |
+| The Tunneler | 39.00% | ~48 |
 | Level Up!! | 38.00% | ~46 |
-| The Shield | 37.00% | ~45 |
-| Kill-streak | 32.00% | ~39 |
+| The Shield | 38.00% | ~46 |
+| Kill-streak | 33.00% | ~40 |
 | The Bird | 29.00% | ~35 |
 | The Ninja | 28.00% | ~34 |
 | Topped up | 27.00% | ~33 |
-| The Idol | 26.00% | ~31 |
-| Inferno Ruins | 26.00% | ~31 |
-| I'm Rich | 24.00% | ~29 |
+| The Idol | 27.00% | ~33 |
+| Inferno Ruins | 26.00% | ~32 |
+| I'm Rich | 25.00% | ~30 |
 | Untouchable | 23.00% | ~28 |
 | 1 is all I need | 22.00% | ~27 |
 | The Slime | 22.00% | ~27 |
@@ -31,18 +31,18 @@
 | The Flower | 18.00% | ~22 |
 | Out of the Frying Pan... | 18.00% | ~22 |
 | The Blacksmith | 17.00% | ~21 |
-| The Ooze | 17.00% | ~21 |
-| Turquoise | 16.00% | ~19 |
+| The Ooze | 16.00% | ~20 |
+| Turquoise | 16.00% | ~20 |
 | The Assistant | 15.00% | ~18 |
 | The Steampunk | 15.00% | ~18 |
 | Ember | 15.00% | ~18 |
 | Verse | 13.00% | ~16 |
-| The Droid | 12.00% | ~15 |
-| Iron | 12.00% | ~15 |
+| The Droid | 11.00% | ~13 |
+| Iron | 11.00% | ~13 |
 | The Bomber | 9.00% | ~11 |
 | Tested | 9.00% | ~11 |
-| The Astronaut | 7.00% | ~8 |
-| Highway to Hell | 7.00% | ~8 |
+| The Astronaut | 7.00% | ~9 |
+| Highway to Hell | 7.00% | ~9 |
 | Power Overwhelming | 6.00% | ~7 |
 | The Exorcist | 6.00% | ~7 |
 | Mithril | 6.00% | ~7 |
@@ -78,7 +78,7 @@
 | Zombie Hunter | 0.00% | ~0 |
 | Zombie Exterminator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121 (Ranked 305)  
+Progressed: 122 (Ranked 305)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,6 +128,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-16 | 118 | 0 |
 | 2023-07-17 | 120 | 0 |
 | 2023-07-31 | 121 | 0 |
+| 2023-08-02 | 122 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

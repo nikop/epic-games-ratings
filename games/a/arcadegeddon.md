@@ -37,7 +37,7 @@ Number of Ratings: 801  (23.09.2022)
 | 1.21 Gigawatts | 11.00% | ~918 |
 | This Is My Boomstick! | 10.00% | ~834 |
 | Get In The Ring! | 9.00% | ~751 |
-| Rescue Ranger | 7.00% | ~584 |
+| Rescue Ranger | 8.00% | ~667 |
 | Ticket Titan | 7.00% | ~584 |
 | Surge Gauntlet Scholar | 6.00% | ~500 |
 | Master of Arms | 5.00% | ~417 |

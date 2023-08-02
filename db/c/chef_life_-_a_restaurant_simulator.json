@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525,
+  "EOS_Progressed": 526,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -2239,6 +2239,11 @@
       "Time": "2023-08-01T22:03:12.8379861+00:00",
       "NumProgressed": 525,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T01:51:26.7933387+00:00",
+      "NumProgressed": 526,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2306,7 +2311,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Clothes10",
@@ -2434,7 +2439,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "PerfectGrade25",
@@ -2569,7 +2574,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 525,
+      "Progressed": 526,
       "Completed": 0
     }
   ],
@@ -2577,8 +2582,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-08-01T23:02:16.9973492+00:00",
+  "LastChanged_Achievements": "2023-08-02T01:51:26.7933369+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:21.1366678+00:00",
-  "LastUpdate_Ratings": "2023-08-01T23:59:51.3457101+00:00",
-  "LastUpdate_Achievements": "2023-08-01T23:02:16.9973972+00:00"
+  "LastUpdate_Ratings": "2023-08-02T01:49:06.1297963+00:00",
+  "LastUpdate_Achievements": "2023-08-02T01:51:26.7964231+00:00"
 }

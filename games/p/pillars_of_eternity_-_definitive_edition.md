@@ -6,8 +6,8 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 82.00% | ~892 |
-| Completed Act I | 30.00% | ~326 |
+| Kickstarter Backer | 82.00% | ~893 |
+| Completed Act I | 30.00% | ~327 |
 | 5 Upgrades in Stronghold | 26.00% | ~283 |
 | First 5 Levels of Od Nua | 24.00% | ~261 |
 | Make an Adventurer | 23.00% | ~250 |
@@ -18,10 +18,10 @@ Number of Ratings: 2,847  (23.09.2022)
 | Super Murderer | 14.00% | ~152 |
 | All Upgrades in Stronghold | 14.00% | ~152 |
 | The Watcher With Eight Friends | 14.00% | ~152 |
-| The Heir of Caed Nua | 13.00% | ~141 |
-| Soulbinder | 13.00% | ~141 |
+| The Heir of Caed Nua | 13.00% | ~142 |
+| Soulbinder | 13.00% | ~142 |
 | Last 5 Levels of Od Nua | 12.00% | ~131 |
-| Bounty Hunter | 10.00% | ~109 |
+| Bounty Hunter | 11.00% | ~120 |
 | The Giftbearer | 10.00% | ~109 |
 | Trappy | 9.00% | ~98 |
 | Herald of the Old Flame | 9.00% | ~98 |
@@ -32,12 +32,12 @@ Number of Ratings: 2,847  (23.09.2022)
 | The Siege of Crägholdt | 7.00% | ~76 |
 | A Voice from the Deep | 6.00% | ~65 |
 | Called to their Labor | 6.00% | ~65 |
-| Chef | 5.00% | ~54 |
 | From the Clouds to the Depths | 5.00% | ~54 |
 | Explorer | 5.00% | ~54 |
-| Terror of the White March | 5.00% | ~54 |
+| Chef | 4.00% | ~44 |
 | Scribe | 4.00% | ~44 |
 | Appease All of the Gods | 4.00% | ~44 |
+| Terror of the White March | 4.00% | ~44 |
 | Won the Game!!! | 3.00% | ~33 |
 | The Storied Adventurer | 3.00% | ~33 |
 | Among the Moss and Peat | 2.00% | ~22 |
@@ -55,7 +55,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,088 (Ranked 192)  
+Progressed: 1,089 (Ranked 192)  
 Completed: 4 (0.37%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,6 +74,7 @@ Completed: 4 (0.37%) (Ranked 149)
 | 2023-07-23 | 1,086 | 4 |
 | 2023-07-25 | 1,087 | 4 |
 | 2023-07-31 | 1,088 | 4 |
+| 2023-08-02 | 1,089 | 4 |
 ## Awards
 Max (Character Customization): 1,898  (Ranked 110)  
 Sum: 4,659 (Ranked 134)  

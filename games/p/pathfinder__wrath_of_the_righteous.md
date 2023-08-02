@@ -1,7 +1,7 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 117)  
+Rating: 4.76 (Ranked 118)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -54,7 +54,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | End of Eternal Guard | 0.80% | ~86 |
 | Truly Profane Gift | 0.80% | ~86 |
 | Playful Mood | 0.70% | ~75 |
-| Dreadful Dragon | 0.60% | ~64 |
+| Dreadful Dragon | 0.70% | ~75 |
 | Masterful Charge | 0.50% | ~54 |
 | Prelate's Nemesis | 0.40% | ~43 |
 | Just Pathetic | 0.30% | ~32 |

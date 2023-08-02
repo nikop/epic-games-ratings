@@ -6,48 +6,48 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~5,715 |
-| Leader | 61.00% | ~4,842 |
-| Explorer | 53.00% | ~4,207 |
-| Healer | 52.00% | ~4,128 |
-| Aspiring Inventor | 44.00% | ~3,493 |
-| Adventurer | 41.00% | ~3,255 |
-| Famous Healer | 38.00% | ~3,016 |
-| Local Leader | 35.00% | ~2,778 |
-| Famous Explorer | 34.00% | ~2,699 |
-| New Opportunities | 34.00% | ~2,699 |
-| Energized | 33.00% | ~2,620 |
-| The Long Haul | 33.00% | ~2,620 |
-| The Great Healer | 31.00% | ~2,461 |
-| Survivor | 31.00% | ~2,461 |
-| Legendary Explorer | 28.00% | ~2,223 |
-| Cleaner | 28.00% | ~2,223 |
-| Catastrofan | 28.00% | ~2,223 |
-| Finders, Keepers | 26.00% | ~2,064 |
-| Top Notch | 25.00% | ~1,984 |
-| Ice Lakes | 23.00% | ~1,826 |
-| Mentor | 23.00% | ~1,826 |
-| Merchant | 22.00% | ~1,746 |
-| Great Leader | 22.00% | ~1,746 |
-| Real Survivor | 22.00% | ~1,746 |
-| Rocket Surgeon | 20.00% | ~1,588 |
-| War Never Changes | 19.00% | ~1,508 |
-| Big Game Hunter | 17.00% | ~1,349 |
-| Spreading Influence | 17.00% | ~1,349 |
-| Friendly | 16.00% | ~1,270 |
-| Around the World | 16.00% | ~1,270 |
-| Bookworm | 15.00% | ~1,191 |
-| Famous Adventurer | 14.00% | ~1,111 |
-| Prepared for Anything | 13.00% | ~1,032 |
-| Big Catastrofan | 12.00% | ~953 |
+| First Step | 72.00% | ~5,720 |
+| Leader | 60.00% | ~4,766 |
+| Explorer | 53.00% | ~4,210 |
+| Healer | 52.00% | ~4,131 |
+| Aspiring Inventor | 44.00% | ~3,495 |
+| Adventurer | 41.00% | ~3,257 |
+| Famous Healer | 38.00% | ~3,019 |
+| Local Leader | 35.00% | ~2,780 |
+| Famous Explorer | 34.00% | ~2,701 |
+| New Opportunities | 34.00% | ~2,701 |
+| Energized | 33.00% | ~2,622 |
+| The Long Haul | 33.00% | ~2,622 |
+| The Great Healer | 31.00% | ~2,463 |
+| Survivor | 31.00% | ~2,463 |
+| Legendary Explorer | 28.00% | ~2,224 |
+| Cleaner | 28.00% | ~2,224 |
+| Catastrofan | 28.00% | ~2,224 |
+| Finders, Keepers | 26.00% | ~2,065 |
+| Top Notch | 25.00% | ~1,986 |
+| Ice Lakes | 23.00% | ~1,827 |
+| Mentor | 23.00% | ~1,827 |
+| Merchant | 22.00% | ~1,748 |
+| Great Leader | 22.00% | ~1,748 |
+| Real Survivor | 22.00% | ~1,748 |
+| Rocket Surgeon | 20.00% | ~1,589 |
+| War Never Changes | 19.00% | ~1,509 |
+| Big Game Hunter | 17.00% | ~1,350 |
+| Spreading Influence | 17.00% | ~1,350 |
+| Friendly | 16.00% | ~1,271 |
+| Around the World | 16.00% | ~1,271 |
+| Bookworm | 15.00% | ~1,192 |
+| Famous Adventurer | 14.00% | ~1,112 |
+| Prepared for Anything | 13.00% | ~1,033 |
+| Big Catastrofan | 13.00% | ~1,033 |
 | It's a Finnish Thing | 10.00% | ~794 |
-| Sky Burial | 9.00% | ~714 |
-| Trader | 8.00% | ~635 |
-| Bread and Circuses | 8.00% | ~635 |
+| Sky Burial | 9.00% | ~715 |
+| Trader | 8.00% | ~636 |
+| Bread and Circuses | 8.00% | ~636 |
 | New Eden | 7.00% | ~556 |
 | Tailored to fit | 7.00% | ~556 |
-| Really Friendly | 6.00% | ~476 |
-| Amped Up | 6.00% | ~476 |
+| Really Friendly | 6.00% | ~477 |
+| Amped Up | 6.00% | ~477 |
 | Look, no Hands! | 5.00% | ~397 |
 | Luxurious Living | 4.00% | ~318 |
 | Mogul | 3.00% | ~238 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~16 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,938 (Ranked 128)  
+Progressed: 7,944 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,10 +170,10 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 7,877 | 0 |
 | 2023-07-31 | 7,909 | 0 |
 | 2023-08-01 | 7,937 | 0 |
-| 2023-08-02 | 7,938 | 0 |
+| 2023-08-02 | 7,944 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 335)  
-Sum: 683 (Ranked 273)  
+Sum: 684 (Ranked 273)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
@@ -184,7 +184,7 @@ Diff (max vs sum): 62
 | This game has Quickly Understood Controls | 81 |
 | This game is Highly Recommended | 70 |
 | This game has Diverse Characters | 68 |
-| This game has Amazing Characters | 66 |
+| This game has Amazing Characters | 67 |
 | This game has Obsessive Gameplay | 58 |
 | This game has a Creative Community | 43 |
 ## Ratings History
@@ -293,3 +293,4 @@ Diff (max vs sum): 62
 | 2023-07-21 | 4.47 | - | 99 | 681 |
 | 2023-07-27 | 4.48 | - | 99 | 681 |
 | 2023-07-28 | 4.48 | - | 99 | 683 |
+| 2023-08-02 | 4.48 | - | 99 | 684 |

@@ -5,22 +5,22 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 60.00% | ~184 |
-| Starting Skyward | 52.00% | ~159 |
+| Starting Skyward | 52.00% | ~160 |
 | Grime is Not Good | 47.00% | ~144 |
-| Campaign Launch | 39.00% | ~119 |
-| Dinner Dash | 39.00% | ~119 |
-| Floor Galore | 38.00% | ~116 |
-| Need a Consult | 36.00% | ~110 |
-| It's Technical | 36.00% | ~110 |
+| Campaign Launch | 39.00% | ~120 |
+| Dinner Dash | 39.00% | ~120 |
+| Floor Galore | 38.00% | ~117 |
+| Need a Consult | 36.00% | ~111 |
+| It's Technical | 36.00% | ~111 |
 | Upgrade Unlock | 34.00% | ~104 |
 | Delegate Maintenance | 33.00% | ~101 |
 | Proper Walls | 32.00% | ~98 |
 | Destination Destiny | 28.00% | ~86 |
-| Happy Tenants | 24.00% | ~73 |
-| Potent Potables | 24.00% | ~73 |
-| Smooth Service | 24.00% | ~73 |
-| Your Prestige is Rising | 23.00% | ~70 |
-| Retail Revenue | 22.00% | ~67 |
+| Happy Tenants | 24.00% | ~74 |
+| Potent Potables | 23.00% | ~71 |
+| Smooth Service | 23.00% | ~71 |
+| Your Prestige is Rising | 22.00% | ~68 |
+| Retail Revenue | 22.00% | ~68 |
 | Lux Living | 21.00% | ~64 |
 | Don't Feel a Loan | 21.00% | ~64 |
 | People Mover | 20.00% | ~61 |
@@ -42,11 +42,11 @@
 | 28 Days Later | 11.00% | ~34 |
 | Swimming in Surplus | 11.00% | ~34 |
 | Master of Puppets | 9.00% | ~28 |
-| First 100 Days | 8.00% | ~24 |
-| Aestheticly Pleased | 8.00% | ~24 |
-| Plaza Plan | 8.00% | ~24 |
-| Refined Palates | 8.00% | ~24 |
-| Phoning It In | 8.00% | ~24 |
+| First 100 Days | 8.00% | ~25 |
+| Aestheticly Pleased | 8.00% | ~25 |
+| Plaza Plan | 8.00% | ~25 |
+| Refined Palates | 8.00% | ~25 |
+| Phoning It In | 8.00% | ~25 |
 | Water Features | 7.00% | ~21 |
 | Meet Me at HQ | 7.00% | ~21 |
 | Revenue Royalty | 7.00% | ~21 |
@@ -56,10 +56,10 @@
 | Sky High Stature | 6.00% | ~18 |
 | Profound Proceeds | 6.00% | ~18 |
 | Maximum Reuse | 6.00% | ~18 |
+| Golden Opportunity | 6.00% | ~18 |
 | It's a Gas | 6.00% | ~18 |
 | Meet ADA/360 | 5.00% | ~15 |
 | Baron of Business | 5.00% | ~15 |
-| Golden Opportunity | 5.00% | ~15 |
 | Tuned In | 5.00% | ~15 |
 | Penthouse in the Sky | 4.00% | ~12 |
 | Office Bigwigs | 4.00% | ~12 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 306 (Ranked 254)  
+Progressed: 307 (Ranked 253)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,6 +156,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 294 | 0 |
 | 2023-07-31 | 298 | 0 |
 | 2023-08-01 | 306 | 0 |
+| 2023-08-02 | 307 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

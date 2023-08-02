@@ -1,26 +1,26 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.25 (Ranked 819)  
+Rating: 4.25 (Ranked 818)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,550 |
-| Don't I Know You...? | 76.00% | ~1,472 |
-| Jailbreak | 65.00% | ~1,259 |
+| Don't I Know You...? | 76.00% | ~1,473 |
+| Jailbreak | 65.00% | ~1,260 |
 | Suited and Booted | 38.00% | ~736 |
 | HEADSHOT! | 37.00% | ~717 |
 | Sleeping With The Fishes | 35.00% | ~678 |
 | Overheated | 30.00% | ~581 |
 | High Performance | 30.00% | ~581 |
-| Powered Up | 28.00% | ~542 |
+| Powered Up | 28.00% | ~543 |
 | Studied The Blade | 24.00% | ~465 |
 | Home Invasion | 22.00% | ~426 |
 | Luminary | 22.00% | ~426 |
 | It's a Trap | 22.00% | ~426 |
 | True Survivor | 21.00% | ~407 |
-| Offensive Defense | 20.00% | ~387 |
-| Shocking | 20.00% | ~387 |
+| Offensive Defense | 20.00% | ~388 |
+| Shocking | 20.00% | ~388 |
 | Court Martial | 19.00% | ~368 |
 | Unforeseeable Consequences | 19.00% | ~368 |
 | Dead Again | 18.00% | ~349 |
@@ -32,8 +32,8 @@ Rating: 4.25 (Ranked 819)
 | Where It All Began | 13.00% | ~252 |
 | Risk Tolerant | 13.00% | ~252 |
 | What A Catchy Song | 13.00% | ~252 |
-| Marked For Success | 12.00% | ~232 |
-| Sorry, Didn't See You There | 12.00% | ~232 |
+| Marked For Success | 12.00% | ~233 |
+| Sorry, Didn't See You There | 12.00% | ~233 |
 | Corrupted Beauty | 11.00% | ~213 |
 | Triplets | 10.00% | ~194 |
 | Defense in Depth | 9.00% | ~174 |
@@ -49,10 +49,10 @@ Rating: 4.25 (Ranked 819)
 | Counter-Sniper | 5.00% | ~97 |
 | Shrimp Cocktail | 5.00% | ~97 |
 | Juiced Up | 5.00% | ~97 |
-| Hello Darkness My Old Friend | 4.00% | ~77 |
-| Geronimo! | 4.00% | ~77 |
-| Homewrecker | 4.00% | ~77 |
-| Plank of Wood | 4.00% | ~77 |
+| Hello Darkness My Old Friend | 4.00% | ~78 |
+| Geronimo! | 4.00% | ~78 |
+| Homewrecker | 4.00% | ~78 |
+| Plank of Wood | 4.00% | ~78 |
 | It Lives! It Sniffs! It Conquers! | 3.00% | ~58 |
 | Gotta Craft 'em All | 3.00% | ~58 |
 | Three Birds With One Stone | 2.00% | ~39 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 819)
 | Box Office Smash | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,937 (Ranked 168)  
+Progressed: 1,938 (Ranked 168)  
 Completed: 10 (0.52%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,6 +148,7 @@ Completed: 10 (0.52%) (Ranked 135)
 | 2023-07-30 | 1,923 | 10 |
 | 2023-07-31 | 1,929 | 10 |
 | 2023-08-01 | 1,937 | 10 |
+| 2023-08-02 | 1,938 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,47 +5,47 @@ Rating: 4.49 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,187 |
-| Advancement | 73.00% | ~17,984 |
-| Meticulously Efficient | 64.00% | ~15,767 |
-| Discovery | 61.00% | ~15,028 |
-| Fully Upgraded | 54.00% | ~13,303 |
-| Swift Rift Removers | 54.00% | ~13,303 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,564 |
-| Cultured | 51.00% | ~12,564 |
-| Vaporous Expansion | 48.00% | ~11,825 |
-| Teamwork | 44.00% | ~10,840 |
-| There you are! | 42.00% | ~10,347 |
-| Clutch Capture | 40.00% | ~9,854 |
-| Back Off | 35.00% | ~8,623 |
-| Daily Dose | 34.00% | ~8,376 |
+| Stylish | 86.00% | ~21,190 |
+| Advancement | 73.00% | ~17,986 |
+| Meticulously Efficient | 64.00% | ~15,769 |
+| Discovery | 61.00% | ~15,030 |
+| Fully Upgraded | 54.00% | ~13,305 |
+| Swift Rift Removers | 54.00% | ~13,305 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,566 |
+| Cultured | 51.00% | ~12,566 |
+| Vaporous Expansion | 48.00% | ~11,827 |
+| Teamwork | 44.00% | ~10,841 |
+| There you are! | 42.00% | ~10,348 |
+| Clutch Capture | 40.00% | ~9,856 |
+| Back Off | 35.00% | ~8,624 |
+| Daily Dose | 34.00% | ~8,377 |
 | Solo Capture | 32.00% | ~7,884 |
-| Welcome to the Crew | 32.00% | ~7,884 |
-| Ghostbuster In Training | 30.00% | ~7,391 |
-| Icing on the Cake | 30.00% | ~7,391 |
-| Side Hustle | 27.00% | ~6,652 |
-| We have the best insurance | 26.00% | ~6,405 |
-| Legions | 26.00% | ~6,405 |
-| Right back at ya | 26.00% | ~6,405 |
-| Stunner | 26.00% | ~6,405 |
-| Summoner | 26.00% | ~6,405 |
-| Pesky Jerks | 25.00% | ~6,159 |
+| Welcome to the Crew | 31.00% | ~7,638 |
+| Ghostbuster In Training | 30.00% | ~7,392 |
+| Icing on the Cake | 30.00% | ~7,392 |
+| Side Hustle | 27.00% | ~6,653 |
+| We have the best insurance | 26.00% | ~6,406 |
+| Legions | 26.00% | ~6,406 |
+| Right back at ya | 26.00% | ~6,406 |
+| Stunner | 26.00% | ~6,406 |
+| Summoner | 26.00% | ~6,406 |
+| Pesky Jerks | 25.00% | ~6,160 |
 | Animated | 24.00% | ~5,913 |
 | Skilled | 24.00% | ~5,913 |
-| Collector | 23.00% | ~5,666 |
-| Ectoplasmic Entity | 23.00% | ~5,666 |
+| Collector | 23.00% | ~5,667 |
+| Ectoplasmic Entity | 23.00% | ~5,667 |
 | Rift Destroyer | 19.00% | ~4,681 |
-| Terrifying | 18.00% | ~4,434 |
-| Tobin's Prodigy | 18.00% | ~4,434 |
-| Reckless | 17.00% | ~4,188 |
+| Terrifying | 18.00% | ~4,435 |
+| Tobin's Prodigy | 18.00% | ~4,435 |
+| Reckless | 17.00% | ~4,189 |
 | Diabolical | 16.00% | ~3,942 |
 | Escape Artist | 16.00% | ~3,942 |
 | Seasoned | 16.00% | ~3,942 |
-| Whoopsie | 12.00% | ~2,956 |
+| Whoopsie | 12.00% | ~2,957 |
 | Liability | 10.00% | ~2,464 |
 | Rivalry | 10.00% | ~2,464 |
-| Fragile Panes | 9.00% | ~2,217 |
-| Surprise! | 9.00% | ~2,217 |
+| Fragile Panes | 9.00% | ~2,218 |
+| Surprise! | 9.00% | ~2,218 |
 | Rift Seeker | 7.00% | ~1,725 |
 | Therapeutic | 7.00% | ~1,725 |
 | Master Collector | 6.00% | ~1,478 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 576)
 | Mycophile | 1.00% | ~246 |
 | I don't need these | 0.90% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,636 (Ranked 101)  
+Progressed: 24,639 (Ranked 101)  
 Completed: 48 (0.19%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,17 +161,17 @@ Completed: 48 (0.19%) (Ranked 177)
 | 2023-07-30 | 24,591 | 48 |
 | 2023-07-31 | 24,608 | 48 |
 | 2023-08-01 | 24,634 | 48 |
-| 2023-08-02 | 24,636 | 48 |
+| 2023-08-02 | 24,639 | 48 |
 ## Awards
 Max (Great for Quick Sessions): 245  (Ranked 250)  
-Sum: 2,195 (Ranked 190)  
-Diff (max vs sum): 60  
+Sum: 2,196 (Ranked 189)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 245 |
 | This game is Great for Beginners | 235 |
 | This game has Competitive Players | 225 |
-| This game has Diverse Characters | 219 |
+| This game has Diverse Characters | 220 |
 | This game has Amazing Storytelling | 219 |
 | This game is Highly Recommended | 215 |
 | This game is Extremely Fun | 214 |
@@ -308,4 +308,4 @@ Diff (max vs sum): 60
 | 2023-07-29 | 4.49 | 245 | 2,190 |
 | 2023-07-30 | 4.49 | 245 | 2,191 |
 | 2023-08-01 | 4.49 | 245 | 2,194 |
-| 2023-08-02 | 4.49 | 245 | 2,195 |
+| 2023-08-02 | 4.49 | 245 | 2,196 |

@@ -9,7 +9,7 @@
 | Pigeon | 82.00% | ~62 |
 | Baited | 70.00% | ~53 |
 | "Swoosh" | 62.00% | ~47 |
-| The light at the end of the tunnel | 59.00% | ~45 |
+| The light at the end of the tunnel | 61.00% | ~46 |
 | Splash! | 57.00% | ~43 |
 | Masochistic | 53.00% | ~40 |
 | Soft skin | 45.00% | ~34 |

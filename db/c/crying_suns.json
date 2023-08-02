@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 464298,
+  "EOS_Progressed": 464303,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 507,
+  "EOS_NewPlayers": 510,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11247,6 +11247,11 @@
       "Time": "2023-08-02T00:05:09.1974867+00:00",
       "NumProgressed": 464298,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-02T01:54:23.2480461+00:00",
+      "NumProgressed": 464303,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -11442,7 +11447,7 @@
       "Name": "Second Coming",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2321
+      "UsersEstimate": 2322
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -11889,21 +11894,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 8232,
+      "Progressed": 8237,
       "Completed": 2354
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 464298,
+      "Progressed": 464303,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-08-02T00:05:09.1974863+00:00",
+  "LastChanged_Achievements": "2023-08-02T01:54:23.2480452+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:07.5889306+00:00",
-  "LastUpdate_Ratings": "2023-08-02T00:00:57.6378858+00:00",
-  "LastUpdate_Achievements": "2023-08-02T00:05:09.1976254+00:00"
+  "LastUpdate_Ratings": "2023-08-02T01:50:03.4460274+00:00",
+  "LastUpdate_Achievements": "2023-08-02T01:54:23.2482039+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~21,984 |
-| Landlord | 32.00% | ~18,513 |
-| Bannerlord | 22.00% | ~12,728 |
-| Horde breaker | 22.00% | ~12,728 |
-| Lawmaker | 22.00% | ~12,728 |
-| Trained | 22.00% | ~12,728 |
+| Lawbringer | 38.00% | ~21,986 |
+| Landlord | 32.00% | ~18,514 |
+| Bannerlord | 22.00% | ~12,729 |
+| Horde breaker | 22.00% | ~12,729 |
+| Lawmaker | 22.00% | ~12,729 |
+| Trained | 22.00% | ~12,729 |
 | The king is pleased | 18.00% | ~10,414 |
-| King Solomon | 16.00% | ~9,256 |
-| Apple of my eye | 15.00% | ~8,678 |
-| I can do it | 15.00% | ~8,678 |
-| God of the Arena | 12.00% | ~6,942 |
+| King Solomon | 16.00% | ~9,257 |
+| Apple of my eye | 15.00% | ~8,679 |
+| I can do it | 15.00% | ~8,679 |
+| God of the Arena | 12.00% | ~6,943 |
 | Against all odds | 11.00% | ~6,364 |
-| Swordbearer | 10.00% | ~5,785 |
-| This Is Our Land | 10.00% | ~5,785 |
+| Swordbearer | 10.00% | ~5,786 |
+| This Is Our Land | 10.00% | ~5,786 |
 | Duelist | 9.00% | ~5,207 |
 | Dynasty | 9.00% | ~5,207 |
 | I spit on your grave | 9.00% | ~5,207 |
 | What have the Romans ever done for us? | 9.00% | ~5,207 |
-| Butterlord | 8.00% | ~4,628 |
+| Butterlord | 8.00% | ~4,629 |
 | Mastery | 7.00% | ~4,050 |
 | Know your enemy | 6.00% | ~3,471 |
 | My way | 5.00% | ~2,893 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,853 (Ranked 86)  
+Progressed: 57,857 (Ranked 86)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,10 +162,10 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 57,577 | 0 |
 | 2023-07-31 | 57,713 | 0 |
 | 2023-08-01 | 57,849 | 0 |
-| 2023-08-02 | 57,853 | 0 |
+| 2023-08-02 | 57,857 | 0 |
 ## Awards
 Max (Character Customization): 6,876  (Ranked 48)  
-Sum: 13,940 (Ranked 67)  
+Sum: 13,942 (Ranked 67)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -173,7 +173,7 @@ Diff (max vs sum): -19
 | This game is Great for Beginners | 903 |
 | This game has Diverse Characters | 874 |
 | This game is Highly Recommended | 832 |
-| This game is Extremely Fun | 794 |
+| This game is Extremely Fun | 796 |
 | This game has Amazing Storytelling | 785 |
 | This game is Relaxing | 773 |
 | This game has Amazing Characters | 769 |
@@ -383,3 +383,4 @@ Diff (max vs sum): -19
 | 2023-07-30 | 4.74 | - | 6,867 | 13,921 |
 | 2023-07-31 | 4.74 | - | 6,871 | 13,929 |
 | 2023-08-01 | 4.75 | - | 6,876 | 13,940 |
+| 2023-08-02 | 4.75 | - | 6,876 | 13,942 |

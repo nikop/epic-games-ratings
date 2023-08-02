@@ -5,14 +5,14 @@ Rating: 4.27 (Ranked 805)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 36.00% | ~348 |
+| We made it | 36.00% | ~350 |
 | The City | 9.00% | ~87 |
-| Manipulating Fate | 8.00% | ~77 |
+| Manipulating Fate | 8.00% | ~78 |
 | Burn and Pillage | 6.00% | ~58 |
-| Full house | 5.00% | ~48 |
-| Hear me out | 5.00% | ~48 |
-| Listening to the crowd | 5.00% | ~48 |
-| Accepting the Prophecy | 5.00% | ~48 |
+| Full house | 5.00% | ~49 |
+| Hear me out | 5.00% | ~49 |
+| Listening to the crowd | 5.00% | ~49 |
+| Accepting the Prophecy | 5.00% | ~49 |
 | Ascended | 4.00% | ~39 |
 | The Penitent Ones | 4.00% | ~39 |
 | Greedy | 4.00% | ~39 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 805)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 968 (Ranked 195)  
+Progressed: 971 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,6 +139,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 963 | 0 |
 | 2023-07-31 | 964 | 0 |
 | 2023-08-01 | 968 | 0 |
+| 2023-08-02 | 971 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

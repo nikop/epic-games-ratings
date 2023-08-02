@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 746,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2697,9 +2697,9 @@
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 149
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -2896,8 +2896,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-02T00:07:15.3363123+00:00",
+  "LastChanged_Achievements": "2023-08-02T01:56:15.6470322+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-08-01T23:57:16.631079+00:00",
-  "LastUpdate_Achievements": "2023-08-02T00:07:15.3363518+00:00"
+  "LastUpdate_Ratings": "2023-08-02T01:46:43.7216796+00:00",
+  "LastUpdate_Achievements": "2023-08-02T01:56:15.6470749+00:00"
 }

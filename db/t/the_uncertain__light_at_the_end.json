@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 484,
+  "EOS_Progressed": 486,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -495,6 +495,11 @@
       "Time": "2023-07-29T15:05:01.7237015+00:00",
       "NumProgressed": 484,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-02T01:55:15.8732073+00:00",
+      "NumProgressed": 486,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -530,7 +535,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Doors_Closing",
@@ -594,7 +599,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "Hitman",
@@ -624,9 +629,9 @@
       "ID": "Left_Behind",
       "SetID": "ek310c",
       "Name": "A Friend in Need...",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 219
     },
     {
       "ID": "Leisurely_Strol",
@@ -682,7 +687,7 @@
       "Name": "A Familiar Face",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Paparazzi",
@@ -722,7 +727,7 @@
       "Name": "Beat the Heat",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -737,7 +742,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 484,
+      "Progressed": 486,
       "Completed": 5
     }
   ],
@@ -745,8 +750,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-08-02T00:06:08.7417827+00:00",
+  "LastChanged_Achievements": "2023-08-02T01:55:15.8732067+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:21.7155213+00:00",
-  "LastUpdate_Ratings": "2023-08-01T23:57:29.7355364+00:00",
-  "LastUpdate_Achievements": "2023-08-02T00:06:08.741802+00:00"
+  "LastUpdate_Ratings": "2023-08-02T01:46:58.6769707+00:00",
+  "LastUpdate_Achievements": "2023-08-02T01:55:15.8732302+00:00"
 }

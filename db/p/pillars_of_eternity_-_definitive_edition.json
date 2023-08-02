@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
@@ -2772,9 +2772,9 @@
       "Count": 185
     }
   ],
-  "EOS_Progressed": 1088,
+  "EOS_Progressed": 1089,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2852,6 +2852,11 @@
       "Time": "2023-07-31T13:15:26.5019971+00:00",
       "NumProgressed": 1088,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-02T01:53:45.9623675+00:00",
+      "NumProgressed": 1089,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 48,
@@ -2863,7 +2868,7 @@
       "Name": "Completed Act I",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "achievement_02",
@@ -2901,9 +2906,9 @@
       "ID": "achievement_06",
       "SetID": "70p237j",
       "Name": "Chef",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_07",
@@ -3007,7 +3012,7 @@
       "Name": "The Heir of Caed Nua",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "achievement_20",
@@ -3045,9 +3050,9 @@
       "ID": "achievement_24",
       "SetID": "70p237j",
       "Name": "Terror of the White March",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_25",
@@ -3101,9 +3106,9 @@
       "ID": "achievement_31",
       "SetID": "70p237j",
       "Name": "Bounty Hunter",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 120
     },
     {
       "ID": "achievement_32",
@@ -3111,7 +3116,7 @@
       "Name": "Soulbinder",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "achievement_33",
@@ -3143,7 +3148,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "achievement_37",
@@ -3246,15 +3251,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1088,
+      "Progressed": 1089,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-08-01T13:58:23.9612659+00:00",
-  "LastChanged_Achievements": "2023-08-02T00:04:28.0123083+00:00",
+  "LastChanged_Achievements": "2023-08-02T01:53:45.9623665+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:31.6876936+00:00",
-  "LastUpdate_Ratings": "2023-08-01T23:58:44.594696+00:00",
-  "LastUpdate_Achievements": "2023-08-02T00:04:28.0123542+00:00"
+  "LastUpdate_Ratings": "2023-08-02T01:48:08.4534425+00:00",
+  "LastUpdate_Achievements": "2023-08-02T01:53:45.9624199+00:00"
 }

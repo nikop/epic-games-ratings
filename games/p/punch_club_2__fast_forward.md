@@ -40,18 +40,18 @@
 | No blades in the gym | 45.00% | ~91 |
 | Your own way | 45.00% | ~91 |
 | Guiding on the right path | 44.00% | ~89 |
-| Fight is life | 42.00% | ~85 |
-| Mysterious voice | 42.00% | ~85 |
+| Fight is life | 43.00% | ~87 |
+| Mysterious voice | 43.00% | ~87 |
 | Get out of my apartment! | 38.00% | ~77 |
 | Underground dwellers | 37.00% | ~75 |
 | Responsible approach | 37.00% | ~75 |
+| Deal with life | 36.00% | ~73 |
 | GYM professional | 36.00% | ~73 |
 | Champion – no way back | 36.00% | ~73 |
-| Deal with life | 35.00% | ~71 |
-| Poisoned fighter | 35.00% | ~71 |
+| Poisoned fighter | 36.00% | ~73 |
+| Mom got better | 33.00% | ~67 |
+| The die is cast | 33.00% | ~67 |
 | Seashell hunter | 33.00% | ~67 |
-| Mom got better | 32.00% | ~65 |
-| The die is cast | 32.00% | ~65 |
 | The last bell ring | 31.00% | ~63 |
 | Undercover robot | 31.00% | ~63 |
 | Gang wrangler | 30.00% | ~61 |

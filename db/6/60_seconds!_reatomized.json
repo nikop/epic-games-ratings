@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4834,
+  "EOS_Progressed": 4836,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3816,6 +3816,11 @@
       "Time": "2023-08-02T00:05:46.9516575+00:00",
       "NumProgressed": 4834,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-02T01:54:56.2507994+00:00",
+      "NumProgressed": 4836,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -3827,15 +3832,15 @@
       "Name": "Souper!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3045
+      "UsersEstimate": 3047
     },
     {
       "ID": "ACH_10_WATER",
       "SetID": "5nj1ea3",
       "Name": "2-1-6",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2708
     },
     {
       "ID": "ACH_ALL_BROKEN",
@@ -3857,9 +3862,9 @@
       "ID": "ACH_ALL_ITEMS",
       "SetID": "5nj1ea3",
       "Name": "Gotta get \u0027em all",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1499
     },
     {
       "ID": "ACH_ATOMIC_DRILL",
@@ -3867,7 +3872,7 @@
       "Name": "Atomic drill",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "ACH_BAD_ENDING",
@@ -3875,7 +3880,7 @@
       "Name": "This is the end",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "ACH_BE_PREPARED",
@@ -3883,7 +3888,7 @@
       "Name": "Be Prepared",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "ACH_BLUE_HARVEST",
@@ -3899,7 +3904,7 @@
       "Name": "All thumbs",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 4399
+      "UsersEstimate": 4401
     },
     {
       "ID": "ACH_BUG_KILLER",
@@ -3915,7 +3920,7 @@
       "Name": "Out of the Bag",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 3577
+      "UsersEstimate": 3579
     },
     {
       "ID": "ACH_CATDOM",
@@ -3955,7 +3960,7 @@
       "Name": "One way ticket",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4012
+      "UsersEstimate": 4014
     },
     {
       "ID": "ACH_DEEDEE",
@@ -3971,7 +3976,7 @@
       "Name": "Pacifist",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2757
     },
     {
       "ID": "ACH_DEFEND_THREE",
@@ -3979,7 +3984,7 @@
       "Name": "Unbreakable",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "ACH_DISCO",
@@ -3987,7 +3992,7 @@
       "Name": "Disco Roach",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "ACH_DOCEND",
@@ -4011,7 +4016,7 @@
       "Name": "Girl Power",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2224
+      "UsersEstimate": 2225
     },
     {
       "ID": "ACH_EASY",
@@ -4043,7 +4048,7 @@
       "Name": "Family guy",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3674
+      "UsersEstimate": 3675
     },
     {
       "ID": "ACH_FIRE_POLICE",
@@ -4123,7 +4128,7 @@
       "Name": "Home, sweet home",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 4351
+      "UsersEstimate": 4352
     },
     {
       "ID": "ACH_MADHATTER",
@@ -4131,7 +4136,7 @@
       "Name": "Mad Hatter",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ACH_MIB",
@@ -4147,7 +4152,7 @@
       "Name": "New species",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "ACH_NAYSAYER",
@@ -4171,7 +4176,7 @@
       "Name": "Duck and cover!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 3094
+      "UsersEstimate": 3095
     },
     {
       "ID": "ACH_PANZER",
@@ -4195,7 +4200,7 @@
       "Name": "A gift",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 2514
+      "UsersEstimate": 2515
     },
     {
       "ID": "ACH_PRO_GAMER",
@@ -4227,7 +4232,7 @@
       "Name": "The Dark Side",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 3335
+      "UsersEstimate": 3337
     },
     {
       "ID": "ACH_ROGUE",
@@ -4243,7 +4248,7 @@
       "Name": "I will survive!",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 4447
+      "UsersEstimate": 4449
     },
     {
       "ID": "ACH_SURVIVE_111_DAYS",
@@ -4259,7 +4264,7 @@
       "Name": "Survivalist",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 4302
+      "UsersEstimate": 4304
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -4267,7 +4272,7 @@
       "Name": "Last man standing",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 3771
+      "UsersEstimate": 3772
     },
     {
       "ID": "ACH_SURVIVE_5_DAYS",
@@ -4275,7 +4280,7 @@
       "Name": "Prepper",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 4496
+      "UsersEstimate": 4497
     },
     {
       "ID": "ACH_TOILET_BUSTER",
@@ -4306,7 +4311,7 @@
     {
       "ID": "5nj1ea3",
       "IsBase": true,
-      "Progressed": 4834,
+      "Progressed": 4836,
       "Completed": 1
     }
   ],
@@ -4314,8 +4319,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-07-30T17:01:28.4100143+00:00",
-  "LastChanged_Achievements": "2023-08-02T00:05:46.9516571+00:00",
+  "LastChanged_Achievements": "2023-08-02T01:54:56.2507987+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:21.1822177+00:00",
-  "LastUpdate_Ratings": "2023-08-02T00:02:22.1731384+00:00",
-  "LastUpdate_Achievements": "2023-08-02T00:05:46.951787+00:00"
+  "LastUpdate_Ratings": "2023-08-02T01:51:18.6119956+00:00",
+  "LastUpdate_Achievements": "2023-08-02T01:54:56.250878+00:00"
 }

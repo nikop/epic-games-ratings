@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,710 |
+| A Brief Tour of the Realms | 4.00% | ~8,711 |
 | Beast Intentions | 3.00% | ~6,533 |
 | Maddening | 2.00% | ~4,355 |
 | The Silken Swamp | 1.00% | ~2,178 |
@@ -68,6 +68,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.40% | ~871 |
 | Tower on the Lake | 0.40% | ~871 |
 | The Ring of Regeneration | 0.40% | ~871 |
+| The Crumbling Temple | 0.40% | ~871 |
 | Seeking Allies | 0.40% | ~871 |
 | Exploring Port Nyanzaru | 0.40% | ~871 |
 | Running of the Saurs | 0.40% | ~871 |
@@ -106,7 +107,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wyrmheart Mine | 0.30% | ~653 |
 | Trollskull Manor | 0.30% | ~653 |
 | Attack on the Manor | 0.30% | ~653 |
-| The Crumbling Temple | 0.30% | ~653 |
 | The Death Curse | 0.30% | ~653 |
 | Are Ya Chicken? | 0.30% | ~653 |
 | Useless Allies | 0.30% | ~653 |
@@ -117,6 +117,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flying Monkey Skulls of Doom | 0.30% | ~653 |
 | The Darkness Runs Deeper | 0.30% | ~653 |
 | The Contagious Curse | 0.30% | ~653 |
+| Dinosaur Racing | 0.30% | ~653 |
 | Escort to Waterdeep | 0.30% | ~653 |
 | The Giant's Bane Tavern | 0.30% | ~552 |
 | The Everlasting Rime | 0.30% | ~552 |
@@ -179,6 +180,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Treasure Hunters | 0.20% | ~436 |
 | The Guardian of Orolunga | 0.20% | ~436 |
 | The Lost Love | 0.20% | ~436 |
+| A Saurial's Resolve | 0.20% | ~436 |
 | Flies on the Wall | 0.20% | ~436 |
 | Backtracking Through Barovia | 0.20% | ~436 |
 | Nimble Escape | 0.20% | ~436 |
@@ -194,7 +196,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.20% | ~436 |
 | Vault of Dragons | 0.20% | ~436 |
 | Champions of Waterdeep | 0.20% | ~436 |
-| Dinosaur Racing | 0.20% | ~436 |
 | Elturel Has Fallen | 0.20% | ~436 |
 | Resolve Amongst Chaos | 0.20% | ~436 |
 | Market Fluctuations | 0.20% | ~436 |
@@ -221,6 +222,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dwarven Rumors | 0.20% | ~368 |
 | Sunblight | 0.20% | ~368 |
 | The Bleeding Citadel | 0.20% | ~368 |
+| Idyllglen | 0.20% | ~368 |
 | The Radiant Nightmare | 0.20% | ~368 |
 | The Haunted Jungle | 0.20% | ~436 |
 | Poor Guidance | 0.20% | ~436 |
@@ -318,7 +320,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Air's Getting Pretty Thin | 0.10% | ~218 |
 | Red Wizard 'Escort' | 0.10% | ~184 |
 | A Saurial's Lament | 0.10% | ~218 |
-| A Saurial's Resolve | 0.10% | ~218 |
 | Spirit of the Trickster Gods | 0.10% | ~184 |
 | The Killer Mists | 0.10% | ~218 |
 | Class Vacation | 0.10% | ~218 |
@@ -462,7 +463,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | It's Cold Out There Every Day | 0.10% | ~184 |
 | Don't Pick at the Scab | 0.10% | ~184 |
 | Going To Eleven | 0.10% | ~184 |
-| Idyllglen | 0.10% | ~184 |
 | The Madness of Yeenoghu | 0.10% | ~184 |
 | Reya Reborn | 0.10% | ~184 |
 | Quick Thinking | 0.10% | ~184 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,752 (Ranked 53)  
+Progressed: 217,767 (Ranked 53)  
 Completed: 2,142 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -623,7 +623,7 @@ Completed: 2,142 (0.98%) (Ranked 112)
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
-| 2023-08-02 | 217,752 | 2,142 |
+| 2023-08-02 | 217,767 | 2,142 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
 Sum: 30,850 (Ranked 38)  

@@ -317,9 +317,9 @@
       "ID": "CgkIxYDzrbcPEAIQDw",
       "SetID": "4egpam7",
       "Name": "Dear Diary",
-      "Percentage": 86,
+      "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEA",
@@ -452,8 +452,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-02T00:06:36.7358882+00:00",
+  "LastChanged_Achievements": "2023-08-02T01:55:40.9460497+00:00",
   "LastUpdate_AppInfo": "2023-08-01T13:03:42.8439888+00:00",
-  "LastUpdate_Ratings": "2023-08-01T23:57:49.4400145+00:00",
-  "LastUpdate_Achievements": "2023-08-02T00:06:36.7359708+00:00"
+  "LastUpdate_Ratings": "2023-08-02T01:47:16.9610669+00:00",
+  "LastUpdate_Achievements": "2023-08-02T01:55:40.9460743+00:00"
 }

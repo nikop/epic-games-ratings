@@ -6,15 +6,15 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~246,528 |
-| Cavalier | 25.00% | ~198,813 |
+| Blacksmith's Son | 31.00% | ~246,529 |
+| Cavalier | 25.00% | ~198,814 |
 | Fatso | 23.00% | ~182,908 |
 | Awakening | 21.00% | ~167,003 |
-| Ranger | 20.00% | ~159,050 |
-| Scrooge | 20.00% | ~159,050 |
-| Anorectic | 16.00% | ~127,240 |
+| Ranger | 20.00% | ~159,051 |
+| Scrooge | 20.00% | ~159,051 |
+| Anorectic | 16.00% | ~127,241 |
 | Firestarter | 15.00% | ~119,288 |
-| Bookworm | 14.00% | ~111,335 |
+| Bookworm | 14.00% | ~111,336 |
 | Insomniac | 13.00% | ~103,383 |
 | Buddy | 12.00% | ~95,430 |
 | Thief | 12.00% | ~95,430 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~795 |
 | Wingman | 0.10% | ~795 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 795,252 (Ranked 15)  
+Progressed: 795,254 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,10 +193,10 @@ Completed: 44 (0.01%) (Ranked 234)
 | 2023-07-30 | 794,966 | 44 |
 | 2023-07-31 | 795,100 | 44 |
 | 2023-08-01 | 795,249 | 44 |
-| 2023-08-02 | 795,252 | 44 |
+| 2023-08-02 | 795,254 | 44 |
 ## Awards
 Max (Character Customization): 7,353  (Ranked 46)  
-Sum: 27,412 (Ranked 45)  
+Sum: 27,414 (Ranked 45)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -205,7 +205,7 @@ Diff (max vs sum): 1
 | This game has Challenging Combat | 1,719 |
 | This game has Amazing Storytelling | 1,678 |
 | This game has Diverse Characters | 1,659 |
-| This game is Extremely Fun | 1,648 |
+| This game is Extremely Fun | 1,650 |
 | This game is Highly Recommended | 1,641 |
 | This game has Amazing Characters | 1,623 |
 | This game has Realistic Visuals | 1,616 |
@@ -404,3 +404,4 @@ Diff (max vs sum): 1
 | 2023-07-30 | 4.71 | - | 7,350 | 27,401 |
 | 2023-07-31 | 4.71 | - | 7,353 | 27,405 |
 | 2023-08-01 | 4.71 | - | 7,353 | 27,412 |
+| 2023-08-02 | 4.71 | - | 7,353 | 27,414 |

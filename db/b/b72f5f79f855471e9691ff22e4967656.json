@@ -469,9 +469,9 @@
       "ID": "killPlant5",
       "SetID": "ci65fo0",
       "Name": "Nature\u0027s enemy",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "killSWBoss",
@@ -557,9 +557,9 @@
       "ID": "locCompRandomLabyrinth",
       "SetID": "ci65fo0",
       "Name": "Winner of the Random",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "locDungeon1",
@@ -890,8 +890,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-02T00:02:42.6552496+00:00",
+  "LastChanged_Achievements": "2023-08-02T01:52:18.5731947+00:00",
   "LastUpdate_AppInfo": "2023-07-26T10:57:01.3631939+00:00",
-  "LastUpdate_Ratings": "2023-08-01T23:57:44.4126252+00:00",
-  "LastUpdate_Achievements": "2023-08-02T00:02:42.6554379+00:00"
+  "LastUpdate_Ratings": "2023-08-02T01:47:12.9678875+00:00",
+  "LastUpdate_Achievements": "2023-08-02T01:52:18.5733076+00:00"
 }

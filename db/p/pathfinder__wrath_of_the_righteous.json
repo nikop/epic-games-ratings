@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 117,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 117,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
@@ -10259,9 +10259,9 @@
       "ID": "43_DreadfulDragon",
       "SetID": "989of5o",
       "Name": "Dreadful Dragon",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 75
     },
     {
       "ID": "44_AshesToAshes",
@@ -10873,8 +10873,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-01T23:59:49.2334934+00:00",
-  "LastChanged_Achievements": "2023-08-02T00:02:35.4438196+00:00",
+  "LastChanged_Achievements": "2023-08-02T01:52:12.2049924+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-08-01T23:59:49.233494+00:00",
-  "LastUpdate_Achievements": "2023-08-02T00:02:35.4440602+00:00"
+  "LastUpdate_Ratings": "2023-08-02T01:49:04.1132622+00:00",
+  "LastUpdate_Achievements": "2023-08-02T01:52:12.205191+00:00"
 }

@@ -5470,10 +5470,10 @@
       "Count": 3337
     }
   ],
-  "EOS_Progressed": 217752,
+  "EOS_Progressed": 217767,
   "EOS_Completed": 2142,
-  "EOS_NewPlayers": 2222,
-  "EOS_NewCompleters": 32,
+  "EOS_NewPlayers": 2218,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16610,6 +16610,11 @@
       "Time": "2023-08-02T00:05:17.1730267+00:00",
       "NumProgressed": 217752,
       "NumCompleted": 2142
+    },
+    {
+      "Time": "2023-08-02T01:54:31.0026127+00:00",
+      "NumProgressed": 217767,
+      "NumCompleted": 2142
     }
   ],
   "TotalAchievements": 512,
@@ -16621,7 +16626,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8710
+      "UsersEstimate": 8711
     },
     {
       "ID": "objective_completed_10",
@@ -18307,9 +18312,9 @@
       "ID": "objective_completed_35",
       "SetID": "cc37lbc",
       "Name": "The Crumbling Temple",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 653
+      "UsersEstimate": 871
     },
     {
       "ID": "objective_completed_36",
@@ -18379,9 +18384,9 @@
       "ID": "objective_completed_385",
       "SetID": "cc37lbc",
       "Name": "A Saurial\u0027s Resolve",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 436
     },
     {
       "ID": "objective_completed_386",
@@ -19171,9 +19176,9 @@
       "ID": "objective_completed_60",
       "SetID": "cc37lbc",
       "Name": "Dinosaur Racing",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 653
     },
     {
       "ID": "objective_completed_600",
@@ -20067,9 +20072,9 @@
       "ID": "objective_completed_842",
       "SetID": "415jc5c",
       "Name": "Idyllglen",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 368
     },
     {
       "ID": "objective_completed_843",
@@ -20716,21 +20721,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184026,
+      "Progressed": 184041,
       "Completed": 3049
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217752,
+      "Progressed": 217767,
       "Completed": 2142
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-01T23:59:23.8661987+00:00",
-  "LastChanged_Achievements": "2023-08-02T00:05:17.1730261+00:00",
+  "LastChanged_Achievements": "2023-08-02T01:54:31.0026118+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-01T23:59:23.8661996+00:00",
-  "LastUpdate_Achievements": "2023-08-02T00:05:17.1753411+00:00"
+  "LastUpdate_Ratings": "2023-08-02T01:48:43.4542687+00:00",
+  "LastUpdate_Achievements": "2023-08-02T01:54:31.0057651+00:00"
 }

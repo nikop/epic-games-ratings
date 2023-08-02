@@ -5,7 +5,7 @@ Rating: 4.53 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~1,014 |
+| Fresh Prince of Trudograd | 87.00% | ~1,015 |
 | Household | 7.00% | ~82 |
 | An Old Friend | 6.00% | ~70 |
 | Lot 49 | 5.00% | ~58 |
@@ -20,25 +20,25 @@ Rating: 4.53 (Ranked 512)
 | Human Antidote | 2.00% | ~23 |
 | Albino Bloodsucker | 1.00% | ~12 |
 | Death of the Author | 1.00% | ~12 |
-| Memoirs of a Nibbler | 0.90% | ~10 |
+| Memoirs of a Nibbler | 0.90% | ~11 |
 | KGB Bunker | 0.80% | ~9 |
 | Rising Star | 0.80% | ~9 |
 | Sixth Sense | 0.80% | ~9 |
 | Baby Eater | 0.60% | ~7 |
-| Admiral | 0.30% | ~3 |
-| Bronzovka | 0.30% | ~3 |
-| Commando | 0.30% | ~3 |
-| Holy Mountain | 0.30% | ~3 |
-| Incompetence | 0.30% | ~3 |
-| Goose Sacrifice | 0.30% | ~3 |
-| Power of Simplicity | 0.30% | ~3 |
-| Sick Freak | 0.30% | ~3 |
+| Admiral | 0.30% | ~4 |
+| Bronzovka | 0.30% | ~4 |
+| Commando | 0.30% | ~4 |
+| Holy Mountain | 0.30% | ~4 |
+| Incompetence | 0.30% | ~4 |
+| Goose Sacrifice | 0.30% | ~4 |
+| Power of Simplicity | 0.30% | ~4 |
+| Sick Freak | 0.30% | ~4 |
 | Goodbye ATOM | 0.20% | ~2 |
 | Escalation of Conflict | 0.20% | ~2 |
 | Second Thought | 0.20% | ~2 |
 | Terrorist | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,166 (Ranked 188)  
+Progressed: 1,167 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,6 +122,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 1,160 | 0 |
 | 2023-07-31 | 1,163 | 0 |
 | 2023-08-01 | 1,166 | 0 |
+| 2023-08-02 | 1,167 | 0 |
 ## Awards
 Max (Character Customization): 23  (Ranked 485)  
 Sum: 23 (Ranked 488)  

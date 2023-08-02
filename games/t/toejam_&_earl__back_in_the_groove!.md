@@ -5,14 +5,14 @@ Rating: 4.32 (Ranked 772)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 9.00% | ~5,055 |
+| Food Taster | 9.00% | ~5,056 |
 | Fall Fest | 7.00% | ~3,932 |
 | HFZ Goober | 6.00% | ~3,370 |
 | Thrill Seeker | 6.00% | ~3,370 |
-| Flying Present Catcher | 5.00% | ~2,808 |
+| Flying Present Catcher | 5.00% | ~2,809 |
 | Sunflower Master | 4.00% | ~2,247 |
+| Hi Fiver | 3.00% | ~1,685 |
 | Backer Visitor | 2.00% | ~1,123 |
-| Hi Fiver | 2.00% | ~1,123 |
 | Hate That Randomizer | 2.00% | ~1,123 |
 | Feet on Funkotron | 2.00% | ~1,123 |
 | A Timely Splash | 2.00% | ~1,123 |
@@ -33,11 +33,11 @@ Rating: 4.32 (Ranked 772)
 | Ridiculously Generous | 0.40% | ~225 |
 | Harsh Love | 0.40% | ~225 |
 | Made It Through | 0.40% | ~225 |
-| Map Explorer | 0.30% | ~168 |
-| Nine Funkotronians | 0.30% | ~168 |
-| I'm A Total Saint | 0.30% | ~168 |
-| Struck By Love | 0.30% | ~168 |
-| The Worst Possible Luck | 0.30% | ~168 |
+| Map Explorer | 0.30% | ~169 |
+| Nine Funkotronians | 0.30% | ~169 |
+| I'm A Total Saint | 0.30% | ~169 |
+| Struck By Love | 0.30% | ~169 |
+| The Worst Possible Luck | 0.30% | ~169 |
 | Broken Present Risk Taker | 0.20% | ~112 |
 | Truly Evil | 0.20% | ~112 |
 | Achievement Achiever | 0.10% | ~56 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 772)
 | Why Do I Keep Doing That? | 0.10% | ~56 |
 | Hey, You Did It! | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,165 (Ranked 87)  
+Progressed: 56,173 (Ranked 87)  
 Completed: 4 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 4 (0.01%) (Ranked 234)
 | 2023-07-30 | 56,133 | 4 |
 | 2023-07-31 | 56,149 | 4 |
 | 2023-08-01 | 56,162 | 4 |
-| 2023-08-02 | 56,165 | 4 |
+| 2023-08-02 | 56,173 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
