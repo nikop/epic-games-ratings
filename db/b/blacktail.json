@@ -60,7 +60,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 604,
+  "EOS_Progressed": 605,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -1460,6 +1460,11 @@
       "Time": "2023-08-02T14:01:08.5913548+00:00",
       "NumProgressed": 604,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-02T17:02:23.9094504+00:00",
+      "NumProgressed": 605,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1711,7 +1716,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "YagaProfessional",
@@ -1726,7 +1731,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 604,
+      "Progressed": 605,
       "Completed": 1
     }
   ],
@@ -1734,8 +1739,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-08-02T16:01:17.585365+00:00",
+  "LastChanged_Achievements": "2023-08-02T17:02:23.9094497+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:48.1262101+00:00",
-  "LastUpdate_Ratings": "2023-08-02T15:58:30.4801273+00:00",
-  "LastUpdate_Achievements": "2023-08-02T16:01:17.5853948+00:00"
+  "LastUpdate_Ratings": "2023-08-02T16:59:15.2146493+00:00",
+  "LastUpdate_Achievements": "2023-08-02T17:02:23.9094911+00:00"
 }

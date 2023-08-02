@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2427,
+  "EOS_Progressed": 2429,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -2278,6 +2278,11 @@
       "Time": "2023-08-02T16:03:15.5615543+00:00",
       "NumProgressed": 2427,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-02T17:04:19.4414808+00:00",
+      "NumProgressed": 2429,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2353,7 +2358,7 @@
       "Name": "Starting as a duo",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -2377,7 +2382,7 @@
       "Name": "Transmission",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -2392,7 +2397,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2427,
+      "Progressed": 2429,
       "Completed": 6
     }
   ],
@@ -2400,8 +2405,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-02T16:03:15.5615536+00:00",
+  "LastChanged_Achievements": "2023-08-02T17:04:19.4414803+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:06.4701918+00:00",
-  "LastUpdate_Ratings": "2023-08-02T15:59:57.0991084+00:00",
-  "LastUpdate_Achievements": "2023-08-02T16:03:15.5615749+00:00"
+  "LastUpdate_Ratings": "2023-08-02T17:00:53.8743879+00:00",
+  "LastUpdate_Achievements": "2023-08-02T17:04:19.4415046+00:00"
 }

@@ -5494,10 +5494,10 @@
       "Count": 3337
     }
   ],
-  "EOS_Progressed": 217913,
-  "EOS_Completed": 2143,
-  "EOS_NewPlayers": 2191,
-  "EOS_NewCompleters": 27,
+  "EOS_Progressed": 217930,
+  "EOS_Completed": 2144,
+  "EOS_NewPlayers": 2195,
+  "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16714,6 +16714,11 @@
       "Time": "2023-08-02T16:04:24.2899489+00:00",
       "NumProgressed": 217913,
       "NumCompleted": 2143
+    },
+    {
+      "Time": "2023-08-02T17:05:28.9596933+00:00",
+      "NumProgressed": 217930,
+      "NumCompleted": 2144
     }
   ],
   "TotalAchievements": 512,
@@ -16733,7 +16738,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4358
+      "UsersEstimate": 4359
     },
     {
       "ID": "objective_completed_100",
@@ -16741,7 +16746,7 @@
       "Name": "Pros and CONs",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "objective_completed_101",
@@ -16797,7 +16802,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "objective_completed_1051",
@@ -17093,7 +17098,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6537
+      "UsersEstimate": 6538
     },
     {
       "ID": "objective_completed_110",
@@ -17101,7 +17106,7 @@
       "Name": "Wet Feet",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "objective_completed_1100",
@@ -17157,7 +17162,7 @@
       "Name": "Hatchlings Underfoot",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "objective_completed_1111",
@@ -17429,7 +17434,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "objective_completed_1169",
@@ -17589,7 +17594,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "objective_completed_1203",
@@ -17701,7 +17706,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "objective_completed_130",
@@ -17845,7 +17850,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "objective_completed_150",
@@ -17917,7 +17922,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "objective_completed_165",
@@ -17949,7 +17954,7 @@
       "Name": "Building Trust",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "objective_completed_17",
@@ -18053,7 +18058,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "objective_completed_20",
@@ -18395,9 +18400,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1308
     },
     {
       "ID": "objective_completed_34",
@@ -20781,7 +20786,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "objective_completed_1386",
@@ -20797,7 +20802,7 @@
       "Name": "Topolah\u0027s Tower",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "objective_completed_1391",
@@ -20820,21 +20825,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184187,
+      "Progressed": 184204,
       "Completed": 3051
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217913,
-      "Completed": 2143
+      "Progressed": 217930,
+      "Completed": 2144
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-02T14:59:51.4938579+00:00",
-  "LastChanged_Achievements": "2023-08-02T16:04:24.2899481+00:00",
+  "LastChanged_Achievements": "2023-08-02T17:05:28.9596927+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-02T15:58:43.6491654+00:00",
-  "LastUpdate_Achievements": "2023-08-02T16:04:24.2922844+00:00"
+  "LastUpdate_Ratings": "2023-08-02T16:59:30.1956851+00:00",
+  "LastUpdate_Achievements": "2023-08-02T17:05:28.9626577+00:00"
 }

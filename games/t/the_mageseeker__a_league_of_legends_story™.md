@@ -5,20 +5,20 @@ Rating: 4.81 (Ranked 76)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,392 |
-| No more cages! | 92.00% | ~2,293 |
-| Everfrost | 78.00% | ~1,944 |
-| Pentakill | 77.00% | ~1,919 |
-| Dark Forest | 77.00% | ~1,919 |
-| The use of petricite | 74.00% | ~1,844 |
-| You can pet the dog | 61.00% | ~1,520 |
+| For Demacia | 96.00% | ~2,393 |
+| No more cages! | 92.00% | ~2,294 |
+| Everfrost | 78.00% | ~1,945 |
+| Pentakill | 77.00% | ~1,920 |
+| Dark Forest | 77.00% | ~1,920 |
+| The use of petricite | 74.00% | ~1,845 |
+| You can pet the dog | 61.00% | ~1,521 |
 | Big Helmet Bro | 37.00% | ~922 |
 | Clarion Cove | 36.00% | ~897 |
-| Past trauma | 35.00% | ~872 |
-| Thornbarrow | 35.00% | ~872 |
-| Elemental master | 34.00% | ~847 |
-| Ternmoat Headquarters | 34.00% | ~847 |
-| Cypress Glen Headquarters | 32.00% | ~797 |
+| Past trauma | 35.00% | ~873 |
+| Thornbarrow | 35.00% | ~873 |
+| Elemental master | 34.00% | ~848 |
+| Ternmoat Headquarters | 34.00% | ~848 |
+| Cypress Glen Headquarters | 32.00% | ~798 |
 | Petricite Burst | 30.00% | ~748 |
 | Old friend | 29.00% | ~723 |
 | Hijack | 28.00% | ~698 |
@@ -28,10 +28,10 @@ Rating: 4.81 (Ranked 76)
 | Ancient power | 24.00% | ~598 |
 | Sacred Woods | 22.00% | ~548 |
 | Capelworth | 22.00% | ~548 |
-| Little light | 21.00% | ~523 |
-| Iffighain Headquarters | 21.00% | ~523 |
-| Full equipped | 21.00% | ~523 |
-| Glyndemere | 20.00% | ~498 |
+| Little light | 21.00% | ~524 |
+| Iffighain Headquarters | 21.00% | ~524 |
+| Full equipped | 21.00% | ~524 |
+| Glyndemere | 20.00% | ~499 |
 | Whispers in the Woods II | 17.00% | ~424 |
 | Quickmoore Headquarters | 17.00% | ~424 |
 | No more holding back | 16.00% | ~399 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 76)
 | Silverwing nest | 2.00% | ~50 |
 | The Unshackled | 0.80% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,492 (Ranked 161)  
+Progressed: 2,493 (Ranked 161)  
 Completed: 5 (0.20%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 5 (0.20%) (Ranked 173)
 | 2023-07-30 | 2,479 | 5 |
 | 2023-07-31 | 2,481 | 5 |
 | 2023-08-01 | 2,487 | 5 |
-| 2023-08-02 | 2,492 | 5 |
+| 2023-08-02 | 2,493 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

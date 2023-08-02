@@ -25,18 +25,18 @@ Rating: 4.18 (Ranked 866)
 | Bad Apples in Every Orchard | 3.00% | ~2,027 |
 | From Inside Gotham's Walls | 3.00% | ~2,027 |
 | Voiceless | 3.00% | ~2,027 |
-| End of an Era | 2.00% | ~1,351 |
-| In Your Element | 2.00% | ~1,351 |
-| Rock and a Hard Place | 2.00% | ~1,351 |
-| Not On My Watch | 2.00% | ~1,351 |
-| Bulldozed | 2.00% | ~1,351 |
-| Out of Their League | 2.00% | ~1,351 |
-| Shock Til They Drop | 2.00% | ~1,351 |
-| Drone You Out | 2.00% | ~1,351 |
-| Cooldown | 2.00% | ~1,351 |
-| Seeking Asylum | 2.00% | ~1,351 |
-| Gotham Knight | 2.00% | ~1,351 |
-| Gotham City Confidential | 2.00% | ~1,351 |
+| End of an Era | 2.00% | ~1,352 |
+| In Your Element | 2.00% | ~1,352 |
+| Rock and a Hard Place | 2.00% | ~1,352 |
+| Not On My Watch | 2.00% | ~1,352 |
+| Bulldozed | 2.00% | ~1,352 |
+| Out of Their League | 2.00% | ~1,352 |
+| Shock Til They Drop | 2.00% | ~1,352 |
+| Drone You Out | 2.00% | ~1,352 |
+| Cooldown | 2.00% | ~1,352 |
+| Seeking Asylum | 2.00% | ~1,352 |
+| Gotham Knight | 2.00% | ~1,352 |
+| Gotham City Confidential | 2.00% | ~1,352 |
 | Fusion Expert | 1.00% | ~676 |
 | Expert Crime Fighter | 1.00% | ~676 |
 | Family Meeting | 1.00% | ~676 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 866)
 | History Major | 0.10% | ~68 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,574 (Ranked 80)  
+Progressed: 67,575 (Ranked 80)  
 Completed: 106 (0.16%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 106 (0.16%) (Ranked 180)
 | 2023-07-30 | 67,509 | 104 |
 | 2023-07-31 | 67,537 | 105 |
 | 2023-08-01 | 67,559 | 106 |
-| 2023-08-02 | 67,574 | 106 |
+| 2023-08-02 | 67,575 | 106 |
 ## Awards
 Max (Great Boss Battles): 2,476  (Ranked 101)  
 Sum: 4,111 (Ranked 139)  

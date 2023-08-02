@@ -7,7 +7,7 @@
 | START | 92.00% | ~164 |
 | Ram Corporal | 87.00% | ~155 |
 | Ram Sergeant | 65.00% | ~116 |
-| Ram Staff Sergeant | 63.00% | ~112 |
+| Ram Staff Sergeant | 64.00% | ~114 |
 | Ram First Sergeant | 56.00% | ~100 |
 | Senior Sergeant Baran | 55.00% | ~98 |
 | Sergeant Major Baran | 42.00% | ~75 |
@@ -21,8 +21,8 @@
 | Captain Baran | 10.00% | ~18 |
 | Senior Major Baran | 9.00% | ~16 |
 | Lieutenant Colonel Baran | 8.00% | ~14 |
-| Colonel Baran | 5.00% | ~9 |
-| Brigadier General Baran | 3.00% | ~5 |
+| Colonel Baran | 6.00% | ~11 |
+| Brigadier General Baran | 4.00% | ~7 |
 | Lieutenant General Baran | 3.00% | ~5 |
 | EMERAID RAM | 2.00% | ~4 |
 | GOLDEN RAM | 0.00% | ~0 |

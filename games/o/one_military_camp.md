@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 53.00% | ~62 |
-| First Step | 53.00% | ~62 |
-| Capitalism | 17.00% | ~20 |
+| The 4 Pillars | 53.00% | ~63 |
+| First Step | 53.00% | ~63 |
+| Capitalism | 18.00% | ~21 |
 | Indebted | 11.00% | ~13 |
 | Desert Rat | 10.00% | ~12 |
 | There's something in those trees | 8.00% | ~9 |
@@ -34,11 +34,11 @@
 | Overpopulation | 2.00% | ~2 |
 | Reconquest | 2.00% | ~2 |
 | Researcher | 2.00% | ~2 |
-| Economist | 0.90% | ~1 |
-| Crisis Committee | 0.90% | ~1 |
-| No News is Good News | 0.90% | ~1 |
-| Training Camp | 0.90% | ~1 |
-| Winter Soldier | 0.90% | ~1 |
+| Economist | 0.80% | ~1 |
+| Crisis Committee | 0.80% | ~1 |
+| No News is Good News | 0.80% | ~1 |
+| Training Camp | 0.80% | ~1 |
+| Winter Soldier | 0.80% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
 | Counter-espionage | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |
@@ -49,7 +49,7 @@
 | Against Adversity | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 308)  
+Progressed: 118 (Ranked 308)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,4 +66,4 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-29 | 110 | 0 |
 | 2023-07-30 | 111 | 0 |
 | 2023-07-31 | 115 | 0 |
-| 2023-08-02 | 117 | 0 |
+| 2023-08-02 | 118 | 0 |

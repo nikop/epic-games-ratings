@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 494,
+  "EOS_Progressed": 495,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1105,6 +1105,11 @@
       "Time": "2023-08-02T03:06:32.7600422+00:00",
       "NumProgressed": 494,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-02T17:08:18.3918602+00:00",
+      "NumProgressed": 495,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1140,7 +1145,7 @@
       "Name": "The Wraith",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "Chapter10",
@@ -1156,7 +1161,7 @@
       "Name": "The Maggot",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Chapter3",
@@ -1204,15 +1209,15 @@
       "Name": "Her Eyes",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Chapter9",
       "SetID": "70l3651",
       "Name": "Gollum/Sm\u00E9agol",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 40
     },
     {
       "ID": "Collectibles1",
@@ -1292,7 +1297,7 @@
       "Name": "Memories",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Murderer",
@@ -1388,7 +1393,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "WelcomeToMordor",
@@ -1403,14 +1408,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 494,
+      "Progressed": 495,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-08-02T16:06:47.7645668+00:00",
+  "LastChanged_Achievements": "2023-08-02T17:08:18.3918595+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:41.3820376+00:00",
-  "LastUpdate_Ratings": "2023-08-02T15:58:21.2033464+00:00",
-  "LastUpdate_Achievements": "2023-08-02T16:06:47.7646118+00:00"
+  "LastUpdate_Ratings": "2023-08-02T16:59:03.5294105+00:00",
+  "LastUpdate_Achievements": "2023-08-02T17:08:18.3918942+00:00"
 }

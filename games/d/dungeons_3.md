@@ -6,29 +6,29 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~18,199 |
-| The Evilest Evil | 58.00% | ~15,079 |
-| Twistram is devastated | 57.00% | ~14,819 |
-| The Gehenna Stones | 50.00% | ~13,000 |
-| No one has to die today! | 46.00% | ~11,960 |
-| Death and destruction! | 45.00% | ~11,700 |
-| The Swamplanders from the swamplands | 44.00% | ~11,440 |
-| The One-Huge-Army-Building Evil | 41.00% | ~10,660 |
-| Rusty Steel | 41.00% | ~10,660 |
-| The last burger | 38.00% | ~9,880 |
-| Braiiiiins! | 38.00% | ~9,880 |
-| Hands off the Dungeonheart! | 36.00% | ~9,360 |
-| A trip on sea, what fun it can be | 35.00% | ~9,100 |
-| Damned good | 33.00% | ~8,580 |
-| Factory farming | 32.00% | ~8,320 |
-| Stock Market Crash | 31.00% | ~8,060 |
-| Not-So-Overproud | 30.00% | ~7,800 |
-| For a handfull of Catapults | 29.00% | ~7,540 |
-| Shadow hunter | 29.00% | ~7,540 |
-| Thirst quencher | 28.00% | ~7,280 |
-| Ogre Solo! | 28.00% | ~7,280 |
-| Tide Master | 27.00% | ~7,020 |
-| Destroy the thing | 26.00% | ~6,760 |
+| The Shadow strikes | 70.00% | ~18,201 |
+| The Evilest Evil | 58.00% | ~15,081 |
+| Twistram is devastated | 57.00% | ~14,821 |
+| The Gehenna Stones | 50.00% | ~13,001 |
+| No one has to die today! | 46.00% | ~11,961 |
+| Death and destruction! | 45.00% | ~11,701 |
+| The Swamplanders from the swamplands | 44.00% | ~11,441 |
+| The One-Huge-Army-Building Evil | 41.00% | ~10,661 |
+| Rusty Steel | 41.00% | ~10,661 |
+| The last burger | 38.00% | ~9,881 |
+| Braiiiiins! | 38.00% | ~9,881 |
+| Hands off the Dungeonheart! | 36.00% | ~9,361 |
+| A trip on sea, what fun it can be | 35.00% | ~9,101 |
+| Damned good | 33.00% | ~8,581 |
+| Factory farming | 32.00% | ~8,321 |
+| Stock Market Crash | 31.00% | ~8,061 |
+| Not-So-Overproud | 30.00% | ~7,801 |
+| For a handfull of Catapults | 29.00% | ~7,541 |
+| Shadow hunter | 29.00% | ~7,541 |
+| Thirst quencher | 28.00% | ~7,281 |
+| Ogre Solo! | 28.00% | ~7,281 |
+| Tide Master | 27.00% | ~7,021 |
+| Destroy the thing | 26.00% | ~6,761 |
 | Difficult family relationships | 25.00% | ~6,500 |
 | MASS-O-BOT | 25.00% | ~6,500 |
 | Angel of Fire | 25.00% | ~6,500 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~520 |
 | Sacrifices! | 2.00% | ~520 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,999 (Ranked 100)  
+Progressed: 26,002 (Ranked 100)  
 Completed: 211 (0.81%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 211 (0.81%) (Ranked 116)
 | 2023-07-30 | 25,700 | 209 |
 | 2023-07-31 | 25,823 | 211 |
 | 2023-08-01 | 25,940 | 211 |
-| 2023-08-02 | 25,999 | 211 |
+| 2023-08-02 | 26,002 | 211 |
 ## Awards
 Max (Great for Beginners): 334  (Ranked 226)  
 Sum: 2,603 (Ranked 173)  

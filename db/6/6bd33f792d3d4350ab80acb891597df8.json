@@ -210,9 +210,9 @@
       "ID": "CgkIxYDzrbcPEAIQAQ",
       "SetID": "4egpam7",
       "Name": "Catacomb Crawl",
-      "Percentage": 78,
+      "Percentage": 81,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAg",
@@ -457,8 +457,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-02T16:05:25.4348487+00:00",
+  "LastChanged_Achievements": "2023-08-02T17:06:30.2337208+00:00",
   "LastUpdate_AppInfo": "2023-08-01T13:03:42.8439888+00:00",
-  "LastUpdate_Ratings": "2023-08-02T15:57:27.4493274+00:00",
-  "LastUpdate_Achievements": "2023-08-02T16:05:25.4348677+00:00"
+  "LastUpdate_Ratings": "2023-08-02T16:57:58.5056218+00:00",
+  "LastUpdate_Achievements": "2023-08-02T17:06:30.2337458+00:00"
 }

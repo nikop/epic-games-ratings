@@ -4,7 +4,7 @@
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 18,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 5.56,
   "EosHistory": [
@@ -318,9 +318,9 @@
       "ID": "HERA",
       "SetID": "e4de54",
       "Name": "Hera",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HERMES",
@@ -461,8 +461,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-08-02T16:04:10.630487+00:00",
+  "LastChanged_Achievements": "2023-08-02T17:05:13.6045624+00:00",
   "LastUpdate_AppInfo": "2023-07-28T21:57:00.7979866+00:00",
-  "LastUpdate_Ratings": "2023-08-02T15:57:10.2804431+00:00",
-  "LastUpdate_Achievements": "2023-08-02T16:04:10.6305123+00:00"
+  "LastUpdate_Ratings": "2023-08-02T16:57:40.6270581+00:00",
+  "LastUpdate_Achievements": "2023-08-02T17:05:13.6046022+00:00"
 }

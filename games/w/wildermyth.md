@@ -19,7 +19,7 @@ Number of Ratings: 45  (23.09.2022)
 | A Mythic Menagerie | 13.00% | ~175 |
 | Who's Counting? | 13.00% | ~175 |
 | Core Failure | 13.00% | ~175 |
-| Pyrrhic Victory | 10.00% | ~135 |
+| Pyrrhic Victory | 11.00% | ~148 |
 | Thematic Divergence | 9.00% | ~121 |
 | Echoes Die | 9.00% | ~121 |
 | Chain Reaction | 8.00% | ~108 |

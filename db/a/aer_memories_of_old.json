@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 84,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,10 +374,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16840,
+  "EOS_Progressed": 16843,
   "EOS_Completed": 347,
-  "EOS_NewPlayers": 587,
-  "EOS_NewCompleters": 10,
+  "EOS_NewPlayers": 586,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.06,
   "EosHistory": [
     {
@@ -11374,6 +11374,11 @@
       "Time": "2023-08-02T16:04:35.0702257+00:00",
       "NumProgressed": 16840,
       "NumCompleted": 347
+    },
+    {
+      "Time": "2023-08-02T17:05:41.4563609+00:00",
+      "NumProgressed": 16843,
+      "NumCompleted": 347
     }
   ],
   "TotalAchievements": 20,
@@ -11393,7 +11398,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "EAST_FINISHED",
@@ -11465,7 +11470,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "FOUND_MAMBA",
@@ -11473,7 +11478,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -11489,7 +11494,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "GAME_FINISHED",
@@ -11505,7 +11510,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12798
+      "UsersEstimate": 12801
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -11513,7 +11518,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4715
+      "UsersEstimate": 4716
     },
     {
       "ID": "NORTH_FINISHED",
@@ -11544,15 +11549,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 16840,
+      "Progressed": 16843,
       "Completed": 347
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-08-02T16:04:35.0702252+00:00",
+  "LastChanged_Achievements": "2023-08-02T17:05:41.4563602+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:59.0842389+00:00",
-  "LastUpdate_Ratings": "2023-08-02T16:00:48.6504536+00:00",
-  "LastUpdate_Achievements": "2023-08-02T16:04:35.070289+00:00"
+  "LastUpdate_Ratings": "2023-08-02T17:01:51.4844104+00:00",
+  "LastUpdate_Achievements": "2023-08-02T17:05:41.4564371+00:00"
 }

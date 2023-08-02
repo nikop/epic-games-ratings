@@ -22,14 +22,14 @@ Rating: 4.35 (Ranked 746)
 | Comtesse Margaux de Vos | 45.00% | ~183 |
 | Curious and Beautiful | 44.00% | ~179 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~179 |
-| The Interrogations | 43.00% | ~175 |
+| The Interrogations | 44.00% | ~179 |
 | Well-acquainted | 42.00% | ~171 |
-| Zakariya Demir | 41.00% | ~167 |
+| Zakariya Demir | 42.00% | ~171 |
 | Well-read | 38.00% | ~155 |
 | Cassandra Van den Bosch | 38.00% | ~155 |
 | The Secret | 37.00% | ~151 |
 | Gedeon Demir | 35.00% | ~142 |
-| Rehana Piette | 34.00% | ~138 |
+| Rehana Piette | 35.00% | ~142 |
 | Instinct is Marvellous | 32.00% | ~130 |
 | Ernesto da Silva | 32.00% | ~130 |
 | Inge Frank | 31.00% | ~126 |
@@ -37,8 +37,8 @@ Rating: 4.35 (Ranked 746)
 | Hugo Beckers | 29.00% | ~118 |
 | The Family | 27.00% | ~110 |
 | Well-travelled | 26.00% | ~106 |
+| Exquisite Artwork | 26.00% | ~106 |
 | Thinking of Everything | 25.00% | ~102 |
-| Exquisite Artwork | 25.00% | ~102 |
 | Viscount Edwin Van den Bosch | 25.00% | ~102 |
 | Archibald Sterling | 24.00% | ~98 |
 | Well-prepared | 21.00% | ~85 |

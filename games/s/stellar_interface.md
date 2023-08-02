@@ -30,19 +30,21 @@
 | Unstoppable | 7.00% | ~4 |
 | Silver Prince of Ball-air | 7.00% | ~4 |
 | Merchant Prince II | 7.00% | ~4 |
+| Usurper I | 5.00% | ~3 |
 | Flower Power | 5.00% | ~3 |
 | Sectoral Captain | 5.00% | ~3 |
+| Collateral Damage II | 5.00% | ~3 |
+| System Ensign | 4.00% | ~2 |
 | Rambo III | 4.00% | ~2 |
 | Hitchhiker | 4.00% | ~2 |
 | Omicron Beta | 4.00% | ~2 |
 | Hoarder | 4.00% | ~2 |
-| Usurper I | 4.00% | ~2 |
+| No Peace | 4.00% | ~2 |
 | 50Gb HDD | 4.00% | ~2 |
 | Galactic Lieutenant | 4.00% | ~2 |
-| Collateral Damage II | 4.00% | ~2 |
+| Fighting Fit II | 4.00% | ~2 |
 | Revenge | 2.00% | ~1 |
 | Bronze Foundation | 2.00% | ~1 |
-| System Ensign | 2.00% | ~1 |
 | Bronze BBQ | 2.00% | ~1 |
 | Bronze Pest Control | 2.00% | ~1 |
 | Cartridge Hoarder | 2.00% | ~1 |
@@ -51,7 +53,6 @@
 | Pilgrim | 2.00% | ~1 |
 | Diligent | 2.00% | ~1 |
 | Omicron Theta | 2.00% | ~1 |
-| No Peace | 2.00% | ~1 |
 | Bird of Prey | 2.00% | ~1 |
 | Food Poisoning | 2.00% | ~1 |
 | Wicked Sick | 2.00% | ~1 |
@@ -59,7 +60,6 @@
 | Silver Foundation | 2.00% | ~1 |
 | Silver Pest Control | 2.00% | ~1 |
 | Mysterious Skin | 2.00% | ~1 |
-| Fighting Fit II | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
 | Archer's Bronze Fate | 0.00% | ~0 |

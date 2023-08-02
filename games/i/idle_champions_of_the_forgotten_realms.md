@@ -7,30 +7,31 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,717 |
-| Beast Intentions | 3.00% | ~6,537 |
-| Maddening | 2.00% | ~4,358 |
+| Beast Intentions | 3.00% | ~6,538 |
+| Maddening | 2.00% | ~4,359 |
 | The Silken Swamp | 1.00% | ~2,179 |
 | Supply Run | 1.00% | ~2,179 |
 | Rocky Reception | 1.00% | ~1,842 |
 | Rock and Roll | 1.00% | ~1,842 |
 | Vecna Lives! | 0.90% | ~1,658 |
-| Tall Tales | 0.80% | ~1,473 |
-| Vecna Loots! | 0.80% | ~1,473 |
-| Flight of the Kindori Pod | 0.80% | ~1,473 |
-| Topolah's Tower | 0.80% | ~1,473 |
+| Tall Tales | 0.80% | ~1,474 |
+| Vecna Loots! | 0.80% | ~1,474 |
+| Flight of the Kindori Pod | 0.80% | ~1,474 |
+| Topolah's Tower | 0.80% | ~1,474 |
 | Seeds of Destruction | 0.70% | ~1,289 |
 | Return to the Tomb | 0.70% | ~1,289 |
-| Pros and CONs | 0.60% | ~1,307 |
+| Pros and CONs | 0.60% | ~1,308 |
 | The Witchlight Carnival | 0.60% | ~1,105 |
-| Wet Feet | 0.60% | ~1,307 |
-| Hatchlings Underfoot | 0.60% | ~1,307 |
+| Wet Feet | 0.60% | ~1,308 |
+| Hatchlings Underfoot | 0.60% | ~1,308 |
 | Heatwave | 0.60% | ~1,105 |
-| Were-verpowered | 0.60% | ~1,307 |
-| A Persistent Buzzing | 0.60% | ~1,307 |
-| Terror in the Dark | 0.60% | ~1,307 |
-| A Mysterious Summons | 0.60% | ~1,307 |
-| Building Trust | 0.60% | ~1,307 |
-| Unearthed Evil | 0.60% | ~1,307 |
+| Were-verpowered | 0.60% | ~1,308 |
+| A Persistent Buzzing | 0.60% | ~1,308 |
+| Terror in the Dark | 0.60% | ~1,308 |
+| A Mysterious Summons | 0.60% | ~1,308 |
+| Building Trust | 0.60% | ~1,308 |
+| Unearthed Evil | 0.60% | ~1,308 |
+| The Cursed Farmer | 0.60% | ~1,308 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,105 |
 | Thieves of the Coven | 0.50% | ~921 |
 | Don't Look Up! | 0.50% | ~1,090 |
@@ -46,7 +47,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mists of Ravenloft | 0.50% | ~1,090 |
 | The Dinner Party | 0.50% | ~1,090 |
 | The Botched Kidnapping | 0.50% | ~1,090 |
-| The Cursed Farmer | 0.50% | ~1,090 |
 | The Mad Wizard | 0.50% | ~1,090 |
 | Not That Type of Helm! | 0.50% | ~921 |
 | Calcryx Tricks | 0.50% | ~921 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,913 (Ranked 53)  
-Completed: 2,143 (0.98%) (Ranked 112)  
+Progressed: 217,930 (Ranked 53)  
+Completed: 2,144 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -623,7 +623,7 @@ Completed: 2,143 (0.98%) (Ranked 112)
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
-| 2023-08-02 | 217,913 | 2,143 |
+| 2023-08-02 | 217,930 | 2,144 |
 ## Awards
 Max (Diverse Characters): 5,109  (Ranked 67)  
 Sum: 30,857 (Ranked 38)  

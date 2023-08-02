@@ -17,14 +17,14 @@ Rating: 4.77 (Ranked 108)
 | Loom for Improvement | 9.00% | ~26,027 |
 | A Talent for Spending | 9.00% | ~26,027 |
 | Coasting Along | 9.00% | ~26,027 |
-| The Hero of Hogwarts | 8.00% | ~23,135 |
-| Challenge Accepted | 8.00% | ~23,135 |
-| Followed the Butterflies | 8.00% | ~23,135 |
-| Rising From the Ashes | 8.00% | ~23,135 |
-| The Avenging Gazelle | 7.00% | ~20,243 |
-| A Sallow Grave | 7.00% | ~20,243 |
-| Flight the Good Flight | 7.00% | ~20,243 |
-| The Spell Master | 7.00% | ~20,243 |
+| The Hero of Hogwarts | 8.00% | ~23,136 |
+| Challenge Accepted | 8.00% | ~23,136 |
+| Followed the Butterflies | 8.00% | ~23,136 |
+| Rising From the Ashes | 8.00% | ~23,136 |
+| The Avenging Gazelle | 7.00% | ~20,244 |
+| A Sallow Grave | 7.00% | ~20,244 |
+| Flight the Good Flight | 7.00% | ~20,244 |
+| The Spell Master | 7.00% | ~20,244 |
 | Beast Friends | 6.00% | ~17,352 |
 | The Seeker of Knowledge | 5.00% | ~14,460 |
 | The Root of the Problem | 5.00% | ~14,460 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,735 |
 | Collector's Edition | 0.30% | ~868 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,192 (Ranked 42)  
+Progressed: 289,194 (Ranked 42)  
 Completed: 437 (0.15%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,10 +155,10 @@ Completed: 437 (0.15%) (Ranked 183)
 | 2023-07-30 | 288,994 | 437 |
 | 2023-07-31 | 289,064 | 437 |
 | 2023-08-01 | 289,146 | 437 |
-| 2023-08-02 | 289,192 | 437 |
+| 2023-08-02 | 289,194 | 437 |
 ## Awards
 Max (Character Customization): 21,463  (Ranked 17)  
-Sum: 40,339 (Ranked 30)  
+Sum: 40,342 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -172,7 +172,7 @@ Diff (max vs sum): -13
 | This game has Amazing Characters | 890 |
 | This game is Highly Recommended | 865 |
 | This game has Quickly Understood Controls | 824 |
-| This game has Beautiful Visuals | 764 |
+| This game has Beautiful Visuals | 767 |
 | This game has a Creative Community | 574 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -308,4 +308,4 @@ Diff (max vs sum): -13
 | 2023-07-30 | 4.77 | 21,416 | 40,216 |
 | 2023-07-31 | 4.77 | 21,442 | 40,273 |
 | 2023-08-01 | 4.77 | 21,463 | 40,326 |
-| 2023-08-02 | 4.77 | 21,463 | 40,339 |
+| 2023-08-02 | 4.77 | 21,463 | 40,342 |

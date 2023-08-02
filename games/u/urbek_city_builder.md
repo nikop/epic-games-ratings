@@ -8,7 +8,7 @@
 | I like parks | 53.00% | ~158 |
 | It is nice to share with friends in the city | 28.00% | ~83 |
 | Sport is good for you | 26.00% | ~77 |
-| The spiritual world... | 23.00% | ~69 |
+| The spiritual world... | 24.00% | ~72 |
 | The woodcutter | 23.00% | ~69 |
 | I like books | 20.00% | ~60 |
 | I like my life | 20.00% | ~60 |
