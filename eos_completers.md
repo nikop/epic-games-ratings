@@ -21,7 +21,7 @@
 | 19 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 11.11% |
 | 19 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.00% |
-| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.76% |
+| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.73% |
 | 23 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 24 | [Remains](games/r/remains.md) | 10.64% |
 | 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.16% |
@@ -38,13 +38,13 @@
 | 36 | [Scorn](games/s/scorn.md) | 6.96% |
 | 36 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.31% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.27% |
 | 40 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 41 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.00% |
 | 42 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.56% |
 | 43 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.29% |
 | 44 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
-| 45 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
+| 45 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
 | 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.82% |
 | 47 | [JARS](games/j/jars.md) | 4.76% |
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.73% |
@@ -60,8 +60,8 @@
 | 58 | [Doodle God](games/d/doodle_god.md) | 3.49% |
 | 59 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 60 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.35% |
-| 61 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.32% |
-| 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.28% |
+| 61 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.30% |
+| 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.23% |
 | 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.11% |
 | 64 | [The Complex](games/t/the_complex.md) | 3.04% |
 | 65 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
@@ -70,7 +70,7 @@
 | 68 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.89% |
 | 69 | [HordeCore](games/h/hordecore.md) | 2.87% |
 | 70 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.86% |
-| 71 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.83% |
+| 71 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.80% |
 | 72 | [Destiny 2](games/d/destiny_2.md) | 2.76% |
 | 73 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 74 | [The Bunker](games/t/the_bunker.md) | 2.70% |
