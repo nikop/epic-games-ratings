@@ -3332,7 +3332,7 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10759,
+  "EOS_Progressed": 10760,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
@@ -9962,6 +9962,11 @@
       "Time": "2023-08-02T14:01:14.427039+00:00",
       "NumProgressed": 10759,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T15:03:31.0787042+00:00",
+      "NumProgressed": 10760,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9989,7 +9994,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "04_FithCrusade",
@@ -10341,7 +10346,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "49_Flame",
@@ -10900,21 +10905,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9541,
+      "Progressed": 9542,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10759,
+      "Progressed": 10760,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-01T23:59:49.2334934+00:00",
-  "LastChanged_Achievements": "2023-08-02T14:01:14.4270385+00:00",
+  "LastChanged_Achievements": "2023-08-02T15:03:31.0787036+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:59:02.0065167+00:00",
-  "LastUpdate_Achievements": "2023-08-02T14:01:14.4272062+00:00"
+  "LastUpdate_Ratings": "2023-08-02T15:00:18.2326243+00:00",
+  "LastUpdate_Achievements": "2023-08-02T15:03:31.0790077+00:00"
 }

@@ -1,4 +1,4 @@
-# Golf Club Wasteland
+# Golf Club Nostalgia
 [Store](https://store.epicgames.com/en-US/p/golf-club-wasteland-f6771e)  
 [View Rawdata](../../db/g/golf_club_wasteland.json)  
 ## Ratings History

@@ -2,7 +2,7 @@
   "ID": "40d23c079971446b87a1ea27232317f2",
   "Name": "Battle Ram",
   "ProductSlug": "battle-ram-d001fd",
-  "Ranking_EOS_Progress": 288,
+  "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 105,
@@ -933,8 +933,8 @@
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-08-02T14:06:47.8792235+00:00",
+  "LastChanged_Achievements": "2023-08-02T15:08:46.9117299+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:54.887828+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:58:37.4648382+00:00",
-  "LastUpdate_Achievements": "2023-08-02T14:06:47.8792398+00:00"
+  "LastUpdate_Ratings": "2023-08-02T14:59:42.9392672+00:00",
+  "LastUpdate_Achievements": "2023-08-02T15:08:46.9117723+00:00"
 }

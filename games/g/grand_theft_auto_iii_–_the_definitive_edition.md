@@ -6,7 +6,7 @@ Rating: 4.18 (Ranked 866)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Day on the Job | 83.00% | ~6,115 |
-| Disposing of the Evidence | 37.00% | ~2,726 |
+| Disposing of the Evidence | 38.00% | ~2,800 |
 | Without a Scratch | 33.00% | ~2,431 |
 | Wreckless Driving | 28.00% | ~2,063 |
 | A Marked Man | 25.00% | ~1,842 |

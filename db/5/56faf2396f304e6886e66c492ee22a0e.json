@@ -2,7 +2,7 @@
   "ID": "56faf2396f304e6886e66c492ee22a0e",
   "Name": "Hush Hush",
   "ProductSlug": "hush-hush-5c1fa0",
-  "Ranking_EOS_Progress": 409,
+  "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 105,
@@ -430,8 +430,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-08-02T14:04:03.9205929+00:00",
+  "LastChanged_Achievements": "2023-08-02T15:05:23.2653956+00:00",
   "LastUpdate_AppInfo": "2023-08-01T07:57:11.103237+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:57:31.4461611+00:00",
-  "LastUpdate_Achievements": "2023-08-02T14:04:03.9206175+00:00"
+  "LastUpdate_Ratings": "2023-08-02T14:58:06.3413692+00:00",
+  "LastUpdate_Achievements": "2023-08-02T15:05:23.2654263+00:00"
 }

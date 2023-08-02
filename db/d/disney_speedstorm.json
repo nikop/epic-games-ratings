@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3050,
+  "EOS_Progressed": 3051,
   "EOS_Completed": 129,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 4.23,
   "EosHistory": [
@@ -3985,6 +3985,11 @@
       "Time": "2023-08-02T11:07:19.2159858+00:00",
       "NumProgressed": 3050,
       "NumCompleted": 129
+    },
+    {
+      "Time": "2023-08-02T15:08:05.5770785+00:00",
+      "NumProgressed": 3051,
+      "NumCompleted": 129
     }
   ],
   "TotalAchievements": 24,
@@ -4044,7 +4049,7 @@
       "Name": "FRAMED!",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "16",
@@ -4052,7 +4057,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "17",
@@ -4060,7 +4065,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "18",
@@ -4132,7 +4137,7 @@
       "Name": "FRIENDLY",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "4",
@@ -4148,7 +4153,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "6",
@@ -4164,7 +4169,7 @@
       "Name": "MASTER",
       "Percentage": 17,
       "XP": 65,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "8",
@@ -4187,13 +4192,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3050,
+      "Progressed": 3051,
       "Completed": 129
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-02T14:06:19.1187193+00:00",
+  "LastChanged_Achievements": "2023-08-02T15:08:05.577078+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:49.7326864+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:59:33.841653+00:00",
-  "LastUpdate_Achievements": "2023-08-02T14:06:19.1187512+00:00"
+  "LastUpdate_Ratings": "2023-08-02T15:01:00.1136332+00:00",
+  "LastUpdate_Achievements": "2023-08-02T15:08:05.5771241+00:00"
 }

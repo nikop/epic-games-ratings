@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 752,
+  "EOS_Progressed": 754,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
@@ -2606,6 +2606,11 @@
       "Time": "2023-08-02T14:05:39.7136241+00:00",
       "NumProgressed": 752,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T15:07:38.0465694+00:00",
+      "NumProgressed": 754,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2721,7 +2726,7 @@
       "Name": "Facility Online",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -2791,9 +2796,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 256
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -2801,7 +2806,7 @@
       "Name": "Covert Operative",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -2855,9 +2860,9 @@
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 75
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -2873,7 +2878,7 @@
       "Name": "Defenses Online",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2920,14 +2925,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 752,
+      "Progressed": 754,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-02T14:05:39.7136236+00:00",
+  "LastChanged_Achievements": "2023-08-02T15:07:38.0465688+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:57:02.5796542+00:00",
-  "LastUpdate_Achievements": "2023-08-02T14:05:39.7136762+00:00"
+  "LastUpdate_Ratings": "2023-08-02T14:57:22.5438122+00:00",
+  "LastUpdate_Achievements": "2023-08-02T15:07:38.0466216+00:00"
 }

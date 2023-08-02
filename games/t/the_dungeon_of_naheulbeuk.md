@@ -6,36 +6,36 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~120,863 |
-| Where's that freaking Dwarf? | 47.00% | ~96,280 |
-| GG EZ | 28.00% | ~57,359 |
-| Speedrun | 26.00% | ~53,262 |
-| Déjà vu | 21.00% | ~43,019 |
-| Sock! SOCK! | 17.00% | ~34,825 |
-| DM intervention | 13.00% | ~26,631 |
-| Fireproof Wizardess | 10.00% | ~20,485 |
-| Livin' in a dwarven paradise | 8.00% | ~16,388 |
-| A beer, two curses, three companions | 8.00% | ~16,388 |
-| Way of the Wimp | 7.00% | ~14,340 |
-| The plot thickens... At the tavern | 5.00% | ~10,243 |
-| The Woman in the High Castle | 4.00% | ~8,194 |
-| I am the night | 4.00% | ~8,194 |
-| Team Building Exercise | 4.00% | ~8,194 |
-| Shiny and Crôm | 3.00% | ~6,146 |
-| The demons' feast | 3.00% | ~6,146 |
-| Res Judicata | 3.00% | ~6,146 |
-| Dwarf Fortress | 3.00% | ~6,146 |
-| The Ranger of Chaos | 3.00% | ~6,146 |
-| Thieves' Guild Accreditation | 3.00% | ~6,146 |
-| Oh, when I'll be level 10... | 3.00% | ~6,146 |
-| The Great Library | 2.00% | ~4,097 |
-| Torture and Sensibility | 2.00% | ~4,097 |
-| Urik's Depths | 2.00% | ~4,097 |
-| Look but don't touch | 2.00% | ~4,097 |
-| The beards of change | 2.00% | ~4,097 |
-| Gargantua | 2.00% | ~4,097 |
-| In Navalu's footsteps | 2.00% | ~4,097 |
-| Material Girl | 2.00% | ~4,097 |
+| Alt+F4 | 59.00% | ~120,885 |
+| Where's that freaking Dwarf? | 47.00% | ~96,298 |
+| GG EZ | 28.00% | ~57,369 |
+| Speedrun | 26.00% | ~53,271 |
+| Déjà vu | 21.00% | ~43,027 |
+| Sock! SOCK! | 17.00% | ~34,831 |
+| DM intervention | 13.00% | ~26,636 |
+| Fireproof Wizardess | 10.00% | ~20,489 |
+| Livin' in a dwarven paradise | 8.00% | ~16,391 |
+| A beer, two curses, three companions | 8.00% | ~16,391 |
+| Way of the Wimp | 7.00% | ~14,342 |
+| The plot thickens... At the tavern | 5.00% | ~10,244 |
+| The Woman in the High Castle | 4.00% | ~8,196 |
+| I am the night | 4.00% | ~8,196 |
+| Team Building Exercise | 4.00% | ~8,196 |
+| Shiny and Crôm | 3.00% | ~6,147 |
+| The demons' feast | 3.00% | ~6,147 |
+| Res Judicata | 3.00% | ~6,147 |
+| Dwarf Fortress | 3.00% | ~6,147 |
+| The Ranger of Chaos | 3.00% | ~6,147 |
+| Thieves' Guild Accreditation | 3.00% | ~6,147 |
+| Oh, when I'll be level 10... | 3.00% | ~6,147 |
+| The Great Library | 2.00% | ~4,098 |
+| Torture and Sensibility | 2.00% | ~4,098 |
+| Urik's Depths | 2.00% | ~4,098 |
+| Look but don't touch | 2.00% | ~4,098 |
+| The beards of change | 2.00% | ~4,098 |
+| Gargantua | 2.00% | ~4,098 |
+| In Navalu's footsteps | 2.00% | ~4,098 |
+| Material Girl | 2.00% | ~4,098 |
 | The Dungeon Master | 1.00% | ~2,049 |
 | The Statuette of Gladeulfeurah | 1.00% | ~2,049 |
 | The Famous Dungeon of Naheulbeuk | 1.00% | ~2,049 |
@@ -45,13 +45,13 @@ Number of Ratings: 118  (23.09.2022)
 | Law and Order | 1.00% | ~2,049 |
 | It's been a hard day's night | 1.00% | ~2,049 |
 | Lust and Debauchery | 1.00% | ~2,049 |
-| Lëgal Legend | 0.80% | ~1,639 |
+| Lëgal Legend | 0.90% | ~1,844 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,434 |
 | Holistic Adventuring Party | 0.50% | ~1,024 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,024 |
 | I'd rather... Just... Sing! | 0.50% | ~1,024 |
 | The number of the counting shalt be 7 | 0.50% | ~1,024 |
-| Friendly fire | 0.40% | ~819 |
+| Friendly fire | 0.40% | ~820 |
 | Insult to injury | 0.30% | ~615 |
 | We come in peace | 0.30% | ~615 |
 | Cursed die | 0.20% | ~410 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,852 (Ranked 55)  
+Progressed: 204,890 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 203,178 | 0 |
 | 2023-07-31 | 203,882 | 0 |
 | 2023-08-01 | 204,538 | 0 |
-| 2023-08-02 | 204,852 | 0 |
+| 2023-08-02 | 204,890 | 0 |
 ## Awards
 Max (Character Customization): 146  (Ranked 298)  
 Sum: 146 (Ranked 393)  

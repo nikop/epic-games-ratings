@@ -22,16 +22,16 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~14,241 |
 | Rumble in the Hangar | 2.00% | ~14,241 |
 | Bloody Sport | 2.00% | ~427 |
-| Furious Fists | 1.00% | ~7,120 |
-| Scareless | 1.00% | ~7,120 |
-| Kill Nil | 1.00% | ~7,120 |
-| Stuntmaster | 1.00% | ~7,120 |
-| Dance of the Praying Mantis | 1.00% | ~7,120 |
-| Qi Gong: Mind | 1.00% | ~7,120 |
-| I know Kung-Fu | 1.00% | ~7,120 |
-| Old Child | 1.00% | ~7,120 |
-| Kung-Fu Tussle | 1.00% | ~7,120 |
-| Take damage to save time | 1.00% | ~7,120 |
+| Furious Fists | 1.00% | ~7,121 |
+| Scareless | 1.00% | ~7,121 |
+| Kill Nil | 1.00% | ~7,121 |
+| Stuntmaster | 1.00% | ~7,121 |
+| Dance of the Praying Mantis | 1.00% | ~7,121 |
+| Qi Gong: Mind | 1.00% | ~7,121 |
+| I know Kung-Fu | 1.00% | ~7,121 |
+| Old Child | 1.00% | ~7,121 |
+| Kung-Fu Tussle | 1.00% | ~7,121 |
+| Take damage to save time | 1.00% | ~7,121 |
 | The best strikes are the ones we avoid | 1.00% | ~214 |
 | Muk Yan Master | 0.80% | ~5,696 |
 | Deadly Venom | 0.80% | ~171 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,424 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,050 (Ranked 20)  
+Progressed: 712,056 (Ranked 20)  
 Completed: 12,838 (1.80%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,14 +161,14 @@ Completed: 12,838 (1.80%) (Ranked 90)
 | 2023-07-30 | 711,892 | 12,836 |
 | 2023-07-31 | 711,949 | 12,837 |
 | 2023-08-01 | 712,009 | 12,838 |
-| 2023-08-02 | 712,050 | 12,838 |
+| 2023-08-02 | 712,056 | 12,838 |
 ## Awards
-Max (Great Boss Battles): 6,327  (Ranked 53)  
-Sum: 10,863 (Ranked 81)  
+Max (Great Boss Battles): 6,331  (Ranked 53)  
+Sum: 10,867 (Ranked 81)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,327 |
+| This game has Great Boss Battles | 6,331 |
 | This game has Diverse Characters | 562 |
 | This game has Challenging Combat | 538 |
 | This game has Quickly Understood Controls | 531 |
@@ -380,4 +380,4 @@ Diff (max vs sum): -28
 | 2023-07-30 | 4.82 | - | 6,322 | 10,842 |
 | 2023-07-31 | 4.82 | - | 6,322 | 10,851 |
 | 2023-08-01 | 4.82 | - | 6,327 | 10,860 |
-| 2023-08-02 | 4.82 | - | 6,327 | 10,863 |
+| 2023-08-02 | 4.82 | - | 6,331 | 10,867 |

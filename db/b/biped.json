@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4941,
+  "EOS_Progressed": 4947,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7651,6 +7651,11 @@
       "Time": "2023-08-02T14:06:47.5856069+00:00",
       "NumProgressed": 4941,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T15:08:46.4284799+00:00",
+      "NumProgressed": 4947,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -7662,7 +7667,7 @@
       "Name": "First Step",
       "Percentage": 39,
       "XP": 45,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1929
     },
     {
       "ID": "10",
@@ -7678,7 +7683,7 @@
       "Name": "Telepathic",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "12",
@@ -7718,7 +7723,7 @@
       "Name": "Dense Forest",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1583
     },
     {
       "ID": "3",
@@ -7726,7 +7731,7 @@
       "Name": "Cactus Vally",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "4",
@@ -7734,7 +7739,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "5",
@@ -7750,7 +7755,7 @@
       "Name": "High Treetops",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "7",
@@ -7758,7 +7763,7 @@
       "Name": "Blue Rapids",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "8",
@@ -7781,7 +7786,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4941,
+      "Progressed": 4947,
       "Completed": 0
     }
   ],
@@ -7789,8 +7794,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-08-02T14:06:47.5856064+00:00",
+  "LastChanged_Achievements": "2023-08-02T15:08:46.4284795+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.1828699+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:58:36.1161763+00:00",
-  "LastUpdate_Achievements": "2023-08-02T14:06:47.5856494+00:00"
+  "LastUpdate_Ratings": "2023-08-02T14:59:41.0423551+00:00",
+  "LastUpdate_Achievements": "2023-08-02T15:08:46.4285552+00:00"
 }

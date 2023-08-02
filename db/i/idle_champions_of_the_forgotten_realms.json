@@ -5438,11 +5438,17 @@
       "Rating": 4.05,
       "NumberOfAwards": 30856,
       "NumberOfAwardsMax": 5108
+    },
+    {
+      "Time": "2023-08-02T14:59:51.493858+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30857,
+      "NumberOfAwardsMax": 5109
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30856,
-  "NumberOfAwardsMax": 5108,
+  "NumberOfAwards": 30857,
+  "NumberOfAwardsMax": 5109,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -5455,7 +5461,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5108
+      "Count": 5109
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5488,10 +5494,10 @@
       "Count": 3337
     }
   ],
-  "EOS_Progressed": 217878,
+  "EOS_Progressed": 217896,
   "EOS_Completed": 2143,
-  "EOS_NewPlayers": 2186,
-  "EOS_NewCompleters": 30,
+  "EOS_NewPlayers": 2189,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16698,6 +16704,11 @@
       "Time": "2023-08-02T14:04:21.9302257+00:00",
       "NumProgressed": 217878,
       "NumCompleted": 2143
+    },
+    {
+      "Time": "2023-08-02T15:05:48.4290097+00:00",
+      "NumProgressed": 217896,
+      "NumCompleted": 2143
     }
   ],
   "TotalAchievements": 512,
@@ -16709,7 +16720,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8715
+      "UsersEstimate": 8716
     },
     {
       "ID": "objective_completed_10",
@@ -16789,7 +16800,7 @@
       "Name": "Nightmare Rats!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "objective_completed_1052",
@@ -16949,7 +16960,7 @@
       "Name": "The Prince of a Thousand Enemies",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "objective_completed_1081",
@@ -16981,7 +16992,7 @@
       "Name": "Downfall",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "objective_completed_1086",
@@ -17021,7 +17032,7 @@
       "Name": "Slack-jawed Lorna",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "objective_completed_1091",
@@ -17053,7 +17064,7 @@
       "Name": "The Fairy Rings of Thither",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "objective_completed_1096",
@@ -17077,7 +17088,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6536
+      "UsersEstimate": 6537
     },
     {
       "ID": "objective_completed_110",
@@ -17349,7 +17360,7 @@
       "Name": "Owlbear Necessities",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "objective_completed_1158",
@@ -17389,7 +17400,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "objective_completed_1164",
@@ -17421,7 +17432,7 @@
       "Name": "Well Equipped",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "objective_completed_117",
@@ -17517,7 +17528,7 @@
       "Name": "The Castle of a Thousand Vecnas",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "objective_completed_1189",
@@ -17541,7 +17552,7 @@
       "Name": "The Sanctum of the Sword",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "objective_completed_1194",
@@ -17613,7 +17624,7 @@
       "Name": "Who Lurks Below?",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "objective_completed_1214",
@@ -17629,7 +17640,7 @@
       "Name": "Xanathaaaaaaar!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "objective_completed_1219",
@@ -19789,7 +19800,7 @@
       "Name": "The Giant\u0027s Bane Tavern",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "objective_completed_691",
@@ -19821,7 +19832,7 @@
       "Name": "The Everlasting Rime",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "objective_completed_696",
@@ -19875,9 +19886,9 @@
       "ID": "objective_completed_72",
       "SetID": "cc37lbc",
       "Name": "The Long Haul",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 654
     },
     {
       "ID": "objective_completed_74",
@@ -20653,7 +20664,7 @@
       "Name": "Willing to Sacrifice",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "objective_completed_1047",
@@ -20661,7 +20672,7 @@
       "Name": "Devilishly Cold",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "objective_completed_1215",
@@ -20685,7 +20696,7 @@
       "Name": "Tiny Treaty",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "objective_completed_1332",
@@ -20804,21 +20815,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184152,
+      "Progressed": 184170,
       "Completed": 3051
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217878,
+      "Progressed": 217896,
       "Completed": 2143
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-02T10:59:08.7797681+00:00",
-  "LastChanged_Achievements": "2023-08-02T14:04:21.9302253+00:00",
+  "LastChanged": "2023-08-02T14:59:51.4938579+00:00",
+  "LastChanged_Achievements": "2023-08-02T15:05:48.4290089+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:58:43.3174619+00:00",
-  "LastUpdate_Achievements": "2023-08-02T14:04:21.9325793+00:00"
+  "LastUpdate_Ratings": "2023-08-02T14:59:51.4938586+00:00",
+  "LastUpdate_Achievements": "2023-08-02T15:05:48.4322798+00:00"
 }

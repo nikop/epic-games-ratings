@@ -12,7 +12,7 @@ Rating: 4.37 (Ranked 727)
 | One step down | 27.00% | ~84 |
 | My dear Magda | 26.00% | ~81 |
 | Lord Clayton | 22.00% | ~68 |
-| The other side of the mirror | 15.00% | ~46 |
+| The other side of the mirror | 16.00% | ~50 |
 | Little Mary | 14.00% | ~43 |
 | There is freedom in awakening | 11.00% | ~34 |
 | Ritual | 9.00% | ~28 |

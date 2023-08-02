@@ -2,7 +2,7 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
-  "Ranking_EOS_Progress": 242,
+  "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 105,
@@ -1091,9 +1091,9 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 162
+      "UsersEstimate": 165
     },
     {
       "ID": "completeact3",
@@ -1147,9 +1147,9 @@
       "ID": "scoreminrankrf2",
       "SetID": "40n95i5",
       "Name": "Partners in Crime",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 36
     },
     {
       "ID": "scoreminrankrh1",
@@ -1212,8 +1212,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-08-02T14:03:15.7241751+00:00",
+  "LastChanged_Achievements": "2023-08-02T15:04:14.8665547+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:37.5183891+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:59:23.0514047+00:00",
-  "LastUpdate_Achievements": "2023-08-02T14:03:15.7241896+00:00"
+  "LastUpdate_Ratings": "2023-08-02T15:00:45.6877765+00:00",
+  "LastUpdate_Achievements": "2023-08-02T15:04:14.866575+00:00"
 }

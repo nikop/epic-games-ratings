@@ -45,7 +45,7 @@ Rating: 4.18 (Ranked 866)
 | Dressed to Impress | 0.80% | ~541 |
 | A Momentum Occasion | 0.60% | ~405 |
 | Bat Out of Hell | 0.60% | ~405 |
-| He'd Be So Proud of You | 0.40% | ~270 |
+| He'd Be So Proud of You | 0.50% | ~338 |
 | Hammer and Icicle | 0.30% | ~114 |
 | Renewable Enemy Source | 0.30% | ~114 |
 | Crime Is a Terrible Thing to Waste | 0.30% | ~114 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 866)
 | History Major | 0.10% | ~68 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,571 (Ranked 80)  
+Progressed: 67,573 (Ranked 80)  
 Completed: 106 (0.16%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,14 +171,14 @@ Completed: 106 (0.16%) (Ranked 180)
 | 2023-07-30 | 67,509 | 104 |
 | 2023-07-31 | 67,537 | 105 |
 | 2023-08-01 | 67,559 | 106 |
-| 2023-08-02 | 67,571 | 106 |
+| 2023-08-02 | 67,573 | 106 |
 ## Awards
-Max (Great Boss Battles): 2,475  (Ranked 101)  
-Sum: 4,110 (Ranked 139)  
+Max (Great Boss Battles): 2,476  (Ranked 101)  
+Sum: 4,111 (Ranked 139)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,475 |
+| This game has Great Boss Battles | 2,476 |
 | This game is Extremely Fun | 211 |
 | This game has Quickly Understood Controls | 210 |
 | This game is Relaxing | 210 |
@@ -352,3 +352,4 @@ Diff (max vs sum): -38
 | 2023-07-30 | 4.18 | 2,472 | 4,104 |
 | 2023-07-31 | 4.18 | 2,472 | 4,105 |
 | 2023-08-01 | 4.18 | 2,475 | 4,110 |
+| 2023-08-02 | 4.18 | 2,476 | 4,111 |

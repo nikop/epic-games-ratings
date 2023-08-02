@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -992,9 +992,9 @@
       "ID": "29_madness",
       "SetID": "chb1m60",
       "Name": "Madness!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 104
+      "UsersEstimate": 108
     },
     {
       "ID": "30_completelynuts",
@@ -1032,9 +1032,9 @@
       "ID": "34_needtothink",
       "SetID": "chb1m60",
       "Name": "Need to think",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 166
     },
     {
       "ID": "35_achtung",
@@ -1088,8 +1088,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-07-28T17:58:21.049991+00:00",
-  "LastChanged_Achievements": "2023-08-02T14:04:17.2699296+00:00",
+  "LastChanged_Achievements": "2023-08-02T15:05:41.3231848+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:31.9818041+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:58:12.5442359+00:00",
-  "LastUpdate_Achievements": "2023-08-02T14:04:17.2699577+00:00"
+  "LastUpdate_Ratings": "2023-08-02T14:59:09.0194333+00:00",
+  "LastUpdate_Achievements": "2023-08-02T15:05:41.3232208+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2424,
+  "EOS_Progressed": 2426,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -2268,6 +2268,11 @@
       "Time": "2023-08-02T14:03:25.6790804+00:00",
       "NumProgressed": 2424,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-02T15:04:29.0760076+00:00",
+      "NumProgressed": 2426,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2287,7 +2292,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "FALLEN_TREE",
@@ -2295,7 +2300,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -2351,7 +2356,7 @@
       "Name": "Stronger together",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "THE_END",
@@ -2359,7 +2364,7 @@
       "Name": "The end",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "TRANSMISSION",
@@ -2375,14 +2380,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2424,
+      "Progressed": 2426,
       "Completed": 6
     }
   ],
@@ -2390,8 +2395,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-02T14:03:25.67908+00:00",
+  "LastChanged_Achievements": "2023-08-02T15:04:29.076007+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:06.4701918+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:59:55.2494525+00:00",
-  "LastUpdate_Achievements": "2023-08-02T14:03:25.6790984+00:00"
+  "LastUpdate_Ratings": "2023-08-02T15:01:27.9613525+00:00",
+  "LastUpdate_Achievements": "2023-08-02T15:04:29.0760366+00:00"
 }

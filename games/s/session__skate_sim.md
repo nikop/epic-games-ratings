@@ -26,6 +26,7 @@ Number of Ratings: 111  (23.09.2022)
 | Commence the Hijinx! | 5.00% | ~134 |
 | Fulfilled the dream | 5.00% | ~134 |
 | G'Day Mate! | 5.00% | ~134 |
+| Laid back | 5.00% | ~134 |
 | NAHELL! | 5.00% | ~134 |
 | Purple passion | 5.00% | ~134 |
 | Squad goals | 5.00% | ~134 |
@@ -34,7 +35,6 @@ Number of Ratings: 111  (23.09.2022)
 | DIY Boss | 4.00% | ~107 |
 | Globetrotter | 4.00% | ~107 |
 | G.O.A.T. status | 4.00% | ~107 |
-| Laid back | 4.00% | ~107 |
 | Lines for days | 4.00% | ~107 |
 | Manny Destroys All | 4.00% | ~107 |
 | Prince of Philly | 4.00% | ~107 |

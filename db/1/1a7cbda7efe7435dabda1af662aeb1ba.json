@@ -2,9 +2,9 @@
   "ID": "1a7cbda7efe7435dabda1af662aeb1ba",
   "Name": "Zoeti",
   "ProductSlug": "zoeti-3ccef9",
-  "Ranking_EOS_Progress": 409,
+  "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-16T22:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -86,6 +86,11 @@
       "Time": "2023-08-02T11:04:28.9283878+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T15:04:52.9195151+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -103,7 +108,7 @@
       "ID": "BOSS_KILL1",
       "SetID": "1icc7kd",
       "Name": "Breaking Free",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -127,7 +132,7 @@
       "ID": "BOSS_KILL12",
       "SetID": "1icc7kd",
       "Name": "Crystal Hunter",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -135,7 +140,7 @@
       "ID": "BOSS_KILL2",
       "SetID": "1icc7kd",
       "Name": "Overcoming Weakness",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -151,7 +156,7 @@
       "ID": "BOSS_KILL4",
       "SetID": "1icc7kd",
       "Name": "Fence-Sitter",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -175,7 +180,7 @@
       "ID": "BOSS_KILL7",
       "SetID": "1icc7kd",
       "Name": "Green Thumb",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -183,7 +188,7 @@
       "ID": "BOSS_KILL8",
       "SetID": "1icc7kd",
       "Name": "Equivalent Exchange",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -207,7 +212,7 @@
       "ID": "CLEAR2",
       "SetID": "1icc7kd",
       "Name": "Danger",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -336,14 +341,14 @@
     {
       "ID": "1icc7kd",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2023-08-02T14:03:42.6566536+00:00",
+  "LastChanged_Achievements": "2023-08-02T15:04:52.9195146+00:00",
   "LastUpdate_AppInfo": "2023-08-01T23:57:10.4370731+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:57:39.1379511+00:00",
-  "LastUpdate_Achievements": "2023-08-02T14:03:42.6566713+00:00"
+  "LastUpdate_Ratings": "2023-08-02T14:58:17.9015015+00:00",
+  "LastUpdate_Achievements": "2023-08-02T15:04:52.9195385+00:00"
 }

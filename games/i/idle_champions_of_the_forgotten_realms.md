@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,715 |
-| Beast Intentions | 3.00% | ~6,536 |
+| A Brief Tour of the Realms | 4.00% | ~8,716 |
+| Beast Intentions | 3.00% | ~6,537 |
 | Maddening | 2.00% | ~4,358 |
 | The Silken Swamp | 1.00% | ~2,179 |
 | Supply Run | 1.00% | ~2,179 |
 | Rocky Reception | 1.00% | ~1,842 |
 | Rock and Roll | 1.00% | ~1,842 |
-| Vecna Lives! | 0.90% | ~1,657 |
+| Vecna Lives! | 0.90% | ~1,658 |
 | Tall Tales | 0.80% | ~1,473 |
 | Vecna Loots! | 0.80% | ~1,473 |
 | Flight of the Kindori Pod | 0.80% | ~1,473 |
@@ -83,17 +83,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Electric Mayhem | 0.40% | ~737 |
 | 3,720 to 1 | 0.40% | ~737 |
 | Animated Giff | 0.40% | ~737 |
-| Nightmare Rats! | 0.30% | ~552 |
-| The Prince of a Thousand Enemies | 0.30% | ~552 |
-| Downfall | 0.30% | ~552 |
-| Slack-jawed Lorna | 0.30% | ~552 |
-| The Fairy Rings of Thither | 0.30% | ~552 |
-| Owlbear Necessities | 0.30% | ~552 |
-| Well Equipped | 0.30% | ~552 |
-| The Castle of a Thousand Vecnas | 0.30% | ~552 |
-| The Sanctum of the Sword | 0.30% | ~552 |
-| Who Lurks Below? | 0.30% | ~552 |
-| Xanathaaaaaaar! | 0.30% | ~552 |
+| Nightmare Rats! | 0.30% | ~553 |
+| The Prince of a Thousand Enemies | 0.30% | ~553 |
+| Downfall | 0.30% | ~553 |
+| Slack-jawed Lorna | 0.30% | ~553 |
+| The Fairy Rings of Thither | 0.30% | ~553 |
+| Owlbear Necessities | 0.30% | ~553 |
+| Well Equipped | 0.30% | ~553 |
+| The Castle of a Thousand Vecnas | 0.30% | ~553 |
+| The Sanctum of the Sword | 0.30% | ~553 |
+| Who Lurks Below? | 0.30% | ~553 |
+| Xanathaaaaaaar! | 0.30% | ~553 |
 | The Forbidden City | 0.30% | ~654 |
 | Captured! | 0.30% | ~654 |
 | Force Grey Unleashed | 0.30% | ~654 |
@@ -124,18 +124,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.30% | ~654 |
 | The Contagious Curse | 0.30% | ~654 |
 | Dinosaur Racing | 0.30% | ~654 |
-| The Giant's Bane Tavern | 0.30% | ~552 |
-| The Everlasting Rime | 0.30% | ~552 |
+| The Giant's Bane Tavern | 0.30% | ~553 |
+| The Everlasting Rime | 0.30% | ~553 |
 | Close Escort | 0.30% | ~654 |
 | Constant Banditry | 0.30% | ~654 |
+| The Long Haul | 0.30% | ~654 |
 | Lost in the Deep | 0.30% | ~654 |
 | Easily Distracted | 0.30% | ~654 |
 | Rude Welcome | 0.30% | ~654 |
 | The Templar's Camp | 0.30% | ~654 |
 | Rescue in the Jungle | 0.30% | ~654 |
-| Willing to Sacrifice | 0.30% | ~552 |
-| Devilishly Cold | 0.30% | ~552 |
-| Tiny Treaty | 0.30% | ~552 |
+| Willing to Sacrifice | 0.30% | ~553 |
+| Devilishly Cold | 0.30% | ~553 |
+| Tiny Treaty | 0.30% | ~553 |
 | Starving in the Jungle | 0.20% | ~436 |
 | Cold as Ice | 0.20% | ~368 |
 | Friends and Foes | 0.20% | ~368 |
@@ -212,7 +213,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Questlines | 0.20% | ~368 |
 | Bel's Forge | 0.20% | ~368 |
 | Rime Bandits | 0.20% | ~368 |
-| The Long Haul | 0.20% | ~436 |
 | Moose Tracks | 0.20% | ~368 |
 | Civilization | 0.20% | ~368 |
 | Durable Deep | 0.20% | ~436 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,878 (Ranked 53)  
+Progressed: 217,896 (Ranked 53)  
 Completed: 2,143 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -623,14 +623,14 @@ Completed: 2,143 (0.98%) (Ranked 112)
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
-| 2023-08-02 | 217,878 | 2,143 |
+| 2023-08-02 | 217,896 | 2,143 |
 ## Awards
-Max (Diverse Characters): 5,108  (Ranked 67)  
-Sum: 30,856 (Ranked 38)  
+Max (Diverse Characters): 5,109  (Ranked 67)  
+Sum: 30,857 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,108 |
+| This game has Diverse Characters | 5,109 |
 | This game is Great for Beginners | 5,048 |
 | This game has Quickly Understood Controls | 4,699 |
 | This game is Relaxing | 4,588 |
@@ -828,4 +828,4 @@ Diff (max vs sum): 29
 | 2023-07-30 | 4.05 | - | 5,100 | 30,813 |
 | 2023-07-31 | 4.05 | - | 5,106 | 30,831 |
 | 2023-08-01 | 4.05 | - | 5,108 | 30,850 |
-| 2023-08-02 | 4.05 | - | 5,108 | 30,856 |
+| 2023-08-02 | 4.05 | - | 5,109 | 30,857 |

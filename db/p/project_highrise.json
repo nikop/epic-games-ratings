@@ -2,9 +2,9 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 255,
+  "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 310,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -752,6 +752,11 @@
       "Time": "2023-08-02T10:03:12.260171+00:00",
       "NumProgressed": 309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T15:04:06.1382591+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -771,7 +776,7 @@
       "Name": "Meet ADA/360",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_apartments_1",
@@ -787,7 +792,7 @@
       "Name": "Penthouse in the Sky",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_area",
@@ -891,15 +896,15 @@
       "Name": "Baron of Business",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_consultant",
       "SetID": "b8gh1fi",
       "Name": "Need a Consult",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_consultant_1",
@@ -921,9 +926,9 @@
       "ID": "ach_consultants_b",
       "SetID": "b8gh1fi",
       "Name": "I\u0027m Busy Ruling",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_consultants_c",
@@ -1099,7 +1104,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ach_grime_1",
@@ -1123,7 +1128,7 @@
       "Name": "Happy Tenants",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ach_loan",
@@ -1163,7 +1168,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ach_office_2",
@@ -1209,17 +1214,17 @@
       "ID": "ach_prestige_2",
       "SetID": "b8gh1fi",
       "Name": "Established Fame",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_prestige_3",
       "SetID": "b8gh1fi",
       "Name": "Sky High Stature",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_profit_0",
@@ -1227,7 +1232,7 @@
       "Name": "In the Black",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ach_profit_1",
@@ -1337,9 +1342,9 @@
       "ID": "ach_revs_1",
       "SetID": "b8gh1fi",
       "Name": "Cashflow Chief",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_revs_2",
@@ -1361,9 +1366,9 @@
       "ID": "ach_scenarios_1",
       "SetID": "b8gh1fi",
       "Name": "Golden Opportunity",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_scenarios_2",
@@ -1411,7 +1416,7 @@
       "Name": "Tuned In",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_util_gas",
@@ -1466,7 +1471,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 310,
       "Completed": 0
     }
   ],
@@ -1474,8 +1479,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-08-02T14:02:29.0808615+00:00",
+  "LastChanged_Achievements": "2023-08-02T15:04:06.1382585+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:50.6819272+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:58:35.7069719+00:00",
-  "LastUpdate_Achievements": "2023-08-02T14:02:29.0809477+00:00"
+  "LastUpdate_Ratings": "2023-08-02T14:59:40.1678301+00:00",
+  "LastUpdate_Achievements": "2023-08-02T15:04:06.1383896+00:00"
 }

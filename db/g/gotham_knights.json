@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2190,18 +2190,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 4110,
       "NumberOfAwardsMax": 2475
+    },
+    {
+      "Time": "2023-08-02T15:02:20.6087148+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4111,
+      "NumberOfAwardsMax": 2476
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4110,
-  "NumberOfAwardsMax": 2475,
+  "NumberOfAwards": 4111,
+  "NumberOfAwardsMax": 2476,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2475
+      "Count": 2476
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2258,9 +2264,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67571,
+  "EOS_Progressed": 67573,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -11423,6 +11429,11 @@
       "Time": "2023-08-02T14:04:59.5872065+00:00",
       "NumProgressed": 67571,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-08-02T15:06:40.959364+00:00",
+      "NumProgressed": 67573,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 61,
@@ -11784,9 +11795,9 @@
       "ID": "HERO_PROGRESSION_2",
       "SetID": "4eo5ebm",
       "Name": "He\u0027d Be So Proud of You",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 270
+      "UsersEstimate": 338
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -11921,22 +11932,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67571,
+      "Progressed": 67573,
       "Completed": 106
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37851,
+      "Progressed": 37853,
       "Completed": 2654
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-08-01T17:01:41.1947024+00:00",
-  "LastChanged_Achievements": "2023-08-02T14:04:59.5872061+00:00",
+  "LastChanged": "2023-08-02T15:02:20.6087146+00:00",
+  "LastChanged_Achievements": "2023-08-02T15:06:40.9593635+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:38.4399056+00:00",
-  "LastUpdate_Ratings": "2023-08-02T14:00:28.732686+00:00",
-  "LastUpdate_Achievements": "2023-08-02T14:04:59.5872939+00:00"
+  "LastUpdate_Ratings": "2023-08-02T15:02:20.6087152+00:00",
+  "LastUpdate_Achievements": "2023-08-02T15:06:40.9594961+00:00"
 }

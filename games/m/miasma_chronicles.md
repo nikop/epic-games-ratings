@@ -6,27 +6,27 @@ Rating: 4.40 (Ranked 698)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 92.00% | ~1,225 |
-| Ranidaphobia | 77.00% | ~1,025 |
-| Aspiring Editor | 75.00% | ~998 |
+| Ranidaphobia | 77.00% | ~1,026 |
+| Aspiring Editor | 75.00% | ~999 |
 | Gun for Hire | 70.00% | ~932 |
 | I am the law! | 63.00% | ~839 |
-| Lumberjack | 53.00% | ~705 |
+| Lumberjack | 53.00% | ~706 |
 | Croaked | 48.00% | ~639 |
 | Limp Richard | 47.00% | ~626 |
 | Exorcist | 47.00% | ~626 |
 | From Darkness to Light | 47.00% | ~626 |
-| Editor Adept | 46.00% | ~612 |
+| Editor Adept | 46.00% | ~613 |
 | Giant Killer | 44.00% | ~586 |
-| Sensei | 43.00% | ~572 |
+| Sensei | 42.00% | ~559 |
 | Firestarter | 41.00% | ~546 |
-| The meaning of Kain | 40.00% | ~532 |
+| The meaning of Kain | 40.00% | ~533 |
 | Technophobe | 39.00% | ~519 |
-| Recycler | 37.00% | ~492 |
-| Are you not entertained? | 33.00% | ~439 |
-| Ganglord | 33.00% | ~439 |
-| Jarhead | 33.00% | ~439 |
+| Recycler | 37.00% | ~493 |
+| Are you not entertained? | 33.00% | ~440 |
+| Ganglord | 33.00% | ~440 |
+| Jarhead | 33.00% | ~440 |
 | Infiltrator | 32.00% | ~426 |
-| Pushing Daisy | 31.00% | ~413 |
+| Pushing Daisy | 30.00% | ~400 |
 | Experienced | 29.00% | ~386 |
 | Hold The Line | 28.00% | ~373 |
 | Endgame | 25.00% | ~333 |
@@ -42,8 +42,8 @@ Rating: 4.40 (Ranked 698)
 | Ruthless | 14.00% | ~186 |
 | Side Order | 10.00% | ~133 |
 | Chain Reaction | 9.00% | ~120 |
-| Bot Whisperer | 8.00% | ~106 |
-| Curveball | 8.00% | ~106 |
+| Bot Whisperer | 8.00% | ~107 |
+| Curveball | 8.00% | ~107 |
 | Wipe Out | 7.00% | ~93 |
 | Dressed To Kill | 6.00% | ~80 |
 | Master Editor | 4.00% | ~53 |
@@ -57,7 +57,7 @@ Rating: 4.40 (Ranked 698)
 | QA Has Suffered! (Redux) | 0.80% | ~11 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,331 (Ranked 184)  
+Progressed: 1,332 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 1,321 | 0 |
 | 2023-07-31 | 1,325 | 0 |
 | 2023-08-01 | 1,328 | 0 |
-| 2023-08-02 | 1,331 | 0 |
+| 2023-08-02 | 1,332 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

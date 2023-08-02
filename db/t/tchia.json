@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6895,
+  "EOS_Progressed": 6896,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -5234,6 +5234,11 @@
       "Time": "2023-08-01T23:04:35.4243181+00:00",
       "NumProgressed": 6895,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-08-02T15:05:49.9372412+00:00",
+      "NumProgressed": 6896,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 21,
@@ -5269,7 +5274,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -5317,7 +5322,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -5412,7 +5417,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6895,
+      "Progressed": 6896,
       "Completed": 30
     }
   ],
@@ -5420,8 +5425,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-16T23:57:58.4349982+00:00",
-  "LastChanged_Achievements": "2023-08-02T14:04:23.7117271+00:00",
+  "LastChanged_Achievements": "2023-08-02T15:05:49.9372406+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:48.4178879+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:58:32.1351053+00:00",
-  "LastUpdate_Achievements": "2023-08-02T14:04:23.7117673+00:00"
+  "LastUpdate_Ratings": "2023-08-02T14:59:33.107598+00:00",
+  "LastUpdate_Achievements": "2023-08-02T15:05:49.9373221+00:00"
 }

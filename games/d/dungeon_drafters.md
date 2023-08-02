@@ -9,10 +9,10 @@
 | Friend! | 31.00% | ~25 |
 | Uncut Gem | 28.00% | ~23 |
 | Shine! | 28.00% | ~23 |
-| Setting Off | 25.00% | ~20 |
+| Setting Off | 26.00% | ~21 |
 | Clear as Water | 22.00% | ~18 |
+| Riddlesolver | 21.00% | ~17 |
 | Card Collector | 21.00% | ~17 |
-| Riddlesolver | 20.00% | ~16 |
 | Dungeon Mastery | 19.00% | ~15 |
 | The Steed | 10.00% | ~8 |
 | A Strange Proposition | 10.00% | ~8 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1331,
+  "EOS_Progressed": 1332,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2662,6 +2662,11 @@
       "Time": "2023-08-02T14:04:25.575655+00:00",
       "NumProgressed": 1331,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T15:05:52.6556555+00:00",
+      "NumProgressed": 1332,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2681,7 +2686,7 @@
       "Name": "Are you not entertained?",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -2689,7 +2694,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2713,7 +2718,7 @@
       "Name": "Bot Whisperer",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "CHAIN_KILLER",
@@ -2769,7 +2774,7 @@
       "Name": "Curveball",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "DEAD_DD",
@@ -2777,7 +2782,7 @@
       "Name": "Ganglord",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "DEAD_DICK",
@@ -2793,7 +2798,7 @@
       "Name": "Jarhead",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -2817,7 +2822,7 @@
       "Name": "Editor Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ENDGAME",
@@ -2937,7 +2942,7 @@
       "Name": "Lumberjack",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -2959,9 +2964,9 @@
       "ID": "PUSHING_DAISY",
       "SetID": "9a4jnji",
       "Name": "Pushing Daisy",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 400
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -2977,7 +2982,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "RECYCLER",
@@ -2985,7 +2990,7 @@
       "Name": "Recycler",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "RUTHLESS",
@@ -3007,9 +3012,9 @@
       "ID": "SENSEI",
       "SetID": "9a4jnji",
       "Name": "Sensei",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 559
     },
     {
       "ID": "SHADOW_BOXING",
@@ -3057,7 +3062,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "THE_WATCHERS",
@@ -3080,7 +3085,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1331,
+      "Progressed": 1332,
       "Completed": 0
     }
   ],
@@ -3088,8 +3093,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-25T07:58:49.2178401+00:00",
-  "LastChanged_Achievements": "2023-08-02T14:04:25.5756546+00:00",
+  "LastChanged_Achievements": "2023-08-02T15:05:52.655655+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:07.4600739+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:58:48.5203785+00:00",
-  "LastUpdate_Achievements": "2023-08-02T14:04:25.5757072+00:00"
+  "LastUpdate_Ratings": "2023-08-02T15:00:01.0441073+00:00",
+  "LastUpdate_Achievements": "2023-08-02T15:05:52.6557179+00:00"
 }

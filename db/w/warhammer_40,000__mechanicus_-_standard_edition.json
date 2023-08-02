@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -549,9 +549,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 219080,
+  "EOS_Progressed": 219083,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 750,
+  "EOS_NewPlayers": 747,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11709,6 +11709,11 @@
       "Time": "2023-08-02T14:06:12.8705607+00:00",
       "NumProgressed": 219080,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-02T15:07:56.289972+00:00",
+      "NumProgressed": 219083,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -11720,7 +11725,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41625
+      "UsersEstimate": 41626
     },
     {
       "ID": "ACH_BASE_10",
@@ -11728,7 +11733,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 54770
+      "UsersEstimate": 54771
     },
     {
       "ID": "ACH_BASE_11",
@@ -11991,7 +11996,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 219080,
+      "Progressed": 219083,
       "Completed": 4
     }
   ],
@@ -11999,8 +12004,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-29T17:58:35.8211483+00:00",
-  "LastChanged_Achievements": "2023-08-02T14:06:12.8705604+00:00",
+  "LastChanged_Achievements": "2023-08-02T15:07:56.2899715+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.8234436+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:59:06.2920717+00:00",
-  "LastUpdate_Achievements": "2023-08-02T14:06:12.8706312+00:00"
+  "LastUpdate_Ratings": "2023-08-02T15:00:23.3317297+00:00",
+  "LastUpdate_Achievements": "2023-08-02T15:07:56.2900826+00:00"
 }

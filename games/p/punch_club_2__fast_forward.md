@@ -15,7 +15,7 @@
 | Depressed visitor | 76.00% | ~158 |
 | Neurotrainer – power gainer! | 75.00% | ~156 |
 | Employee of the week | 75.00% | ~156 |
-| Your own amateur gym | 73.00% | ~152 |
+| Your own amateur gym | 74.00% | ~154 |
 | Run K, run! | 71.00% | ~148 |
 | No bullying more | 67.00% | ~139 |
 | Hello, world! | 67.00% | ~139 |
@@ -28,11 +28,11 @@
 | Little hacker | 56.00% | ~116 |
 | Intriguing candies | 56.00% | ~116 |
 | Champion – starter pack | 54.00% | ~112 |
+| It's good to be alive | 54.00% | ~112 |
 | Own four walls | 54.00% | ~112 |
+| Fight for life | 53.00% | ~110 |
 | Handyman | 53.00% | ~110 |
-| It's good to be alive | 53.00% | ~110 |
 | Employee of the year | 53.00% | ~110 |
-| Fight for life | 52.00% | ~108 |
 | Legal courier | 50.00% | ~104 |
 | Extreme neuropower! | 49.00% | ~102 |
 | Escaped from a big trouble | 49.00% | ~102 |
@@ -49,9 +49,9 @@
 | GYM professional | 35.00% | ~73 |
 | Champion – no way back | 35.00% | ~73 |
 | Poisoned fighter | 35.00% | ~73 |
+| Mom got better | 33.00% | ~69 |
+| The die is cast | 33.00% | ~69 |
 | Seashell hunter | 33.00% | ~69 |
-| Mom got better | 32.00% | ~67 |
-| The die is cast | 32.00% | ~67 |
 | The last bell ring | 31.00% | ~64 |
 | Undercover robot | 31.00% | ~64 |
 | Not little hacker | 30.00% | ~62 |
