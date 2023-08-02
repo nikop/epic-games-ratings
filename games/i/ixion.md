@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.55 (Ranked 483)  
+Rating: 4.55 (Ranked 482)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,8 +12,8 @@ Rating: 4.55 (Ranked 483)
 | Space Society | 14.00% | ~421 |
 | A Thousand Strong | 14.00% | ~421 |
 | Ready for a New World | 14.00% | ~421 |
-| Permanent Redesigns | 12.00% | ~360 |
-| The Ship of Theseus | 11.00% | ~330 |
+| Permanent Redesigns | 12.00% | ~361 |
+| The Ship of Theseus | 11.00% | ~331 |
 | Guy de Borderlands | 10.00% | ~300 |
 | Fully Recycled | 10.00% | ~300 |
 | Ain't Nobody Got Time for That | 10.00% | ~300 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 483)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,004 (Ranked 157)  
+Progressed: 3,005 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 2,977 | 0 |
 | 2023-07-31 | 2,988 | 0 |
 | 2023-08-01 | 2,996 | 0 |
-| 2023-08-02 | 3,004 | 0 |
+| 2023-08-02 | 3,005 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -230,7 +230,7 @@
   ],
   "EOS_Progressed": 3093,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3741,9 +3741,9 @@
       "ID": "ACH_PROLOGUE",
       "SetID": "816efe",
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2536
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -3806,8 +3806,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-31T01:58:49.4710667+00:00",
-  "LastChanged_Achievements": "2023-08-02T22:03:36.4989696+00:00",
+  "LastChanged_Achievements": "2023-08-02T23:03:16.54271+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.5854461+00:00",
-  "LastUpdate_Ratings": "2023-08-02T22:00:54.5020939+00:00",
-  "LastUpdate_Achievements": "2023-08-02T22:03:36.4990818+00:00"
+  "LastUpdate_Ratings": "2023-08-02T23:00:46.5727154+00:00",
+  "LastUpdate_Achievements": "2023-08-02T23:03:16.5428266+00:00"
 }

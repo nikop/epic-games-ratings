@@ -7764,9 +7764,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 77362,
+  "EOS_Progressed": 77371,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2843,
+  "EOS_NewPlayers": 2840,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19209,6 +19209,11 @@
       "Time": "2023-08-02T22:07:24.9384427+00:00",
       "NumProgressed": 77362,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T23:07:24.6361598+00:00",
+      "NumProgressed": 77371,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -19740,7 +19745,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3094
+      "UsersEstimate": 3095
     },
     {
       "ID": "achievement_colonial_management",
@@ -20052,7 +20057,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3868
+      "UsersEstimate": 3869
     },
     {
       "ID": "achievement_forever_golden",
@@ -20220,7 +20225,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 6189
+      "UsersEstimate": 6190
     },
     {
       "ID": "achievement_grand_coalition",
@@ -21500,7 +21505,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 6189
+      "UsersEstimate": 6190
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -21812,7 +21817,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3094
+      "UsersEstimate": 3095
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -21916,7 +21921,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 6189
+      "UsersEstimate": 6190
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -22051,21 +22056,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 77362,
+      "Progressed": 77371,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 77362,
+      "Progressed": 77371,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-08-02T21:58:24.9868353+00:00",
-  "LastChanged_Achievements": "2023-08-02T22:07:24.9384418+00:00",
+  "LastChanged_Achievements": "2023-08-02T23:07:24.6361589+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.0548947+00:00",
-  "LastUpdate_Ratings": "2023-08-02T21:58:24.9868361+00:00",
-  "LastUpdate_Achievements": "2023-08-02T22:07:24.9401572+00:00"
+  "LastUpdate_Ratings": "2023-08-02T22:58:12.3499266+00:00",
+  "LastUpdate_Achievements": "2023-08-02T23:07:24.6375588+00:00"
 }

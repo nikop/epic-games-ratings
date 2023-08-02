@@ -351,17 +351,17 @@
       "ID": "ach_complete_10",
       "SetID": "5e260i9",
       "Name": "Clever thinking!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_complete_30",
       "SetID": "5e260i9",
       "Name": "Brilliant mind!",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 200,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_complete_tutorial",
@@ -375,9 +375,9 @@
       "ID": "ach_hint_3",
       "SetID": "5e260i9",
       "Name": "A helping hand!",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ach_hint_6",
@@ -399,25 +399,25 @@
       "ID": "ach_items_50",
       "SetID": "5e260i9",
       "Name": "Sharp-sighted!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 60,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 80,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "ach_skip_1",
       "SetID": "5e260i9",
       "Name": "Keep moving on!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_skip_3",
@@ -446,8 +446,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-08-02T22:02:21.8615209+00:00",
+  "LastChanged_Achievements": "2023-08-02T23:02:04.6181585+00:00",
   "LastUpdate_AppInfo": "2023-07-27T19:57:03.7416297+00:00",
-  "LastUpdate_Ratings": "2023-08-02T21:57:11.947289+00:00",
-  "LastUpdate_Achievements": "2023-08-02T22:02:21.8621871+00:00"
+  "LastUpdate_Ratings": "2023-08-02T22:57:07.5823754+00:00",
+  "LastUpdate_Achievements": "2023-08-02T23:02:04.6187683+00:00"
 }

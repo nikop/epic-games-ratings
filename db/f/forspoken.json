@@ -322,9 +322,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 39497,
+  "EOS_Progressed": 39501,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6687,6 +6687,11 @@
       "Time": "2023-08-02T22:05:33.2380126+00:00",
       "NumProgressed": 39497,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-02T23:05:18.4119523+00:00",
+      "NumProgressed": 39501,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -6698,7 +6703,7 @@
       "Name": "Abominizer",
       "Percentage": 0.1,
       "XP": 105,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ARCHIVE",
@@ -6706,7 +6711,7 @@
       "Name": "Archivist",
       "Percentage": 0.3,
       "XP": 105,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "CAMP",
@@ -6722,7 +6727,7 @@
       "Name": "Through the Eyes of Another: Visionary",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "CHALLENGE_FIRST",
@@ -6842,7 +6847,7 @@
       "Name": "Craftsperson",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "CRAFT_FIRST",
@@ -6866,7 +6871,7 @@
       "Name": "Kit and Caboodle",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "FAIRYSTEP",
@@ -6882,7 +6887,7 @@
       "Name": "Tit for Tat",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "LEAPFROG",
@@ -6922,7 +6927,7 @@
       "Name": "Above and Beyond",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "MAGIC_ALL",
@@ -6962,7 +6967,7 @@
       "Name": "Wildfire",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "MAGIC_TANTA",
@@ -7018,7 +7023,7 @@
       "Name": "Happy Snapper",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "SKILLTREE_ALL",
@@ -7066,7 +7071,7 @@
       "Name": "Barely There",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "SUBCON_DANCE",
@@ -7074,7 +7079,7 @@
       "Name": "Moves",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "SUBCON_PRAY",
@@ -7082,7 +7087,7 @@
       "Name": "Remembrance",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "SUBCON_TRADE",
@@ -7098,7 +7103,7 @@
       "Name": "Promises",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "SUBQUEST_CIPAL",
@@ -7114,29 +7119,29 @@
       "Name": "Cat Person",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     }
   ],
   "AchievementSets": [
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39497,
+      "Progressed": 39501,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4334,
-      "Completed": 4334
+      "Progressed": 4338,
+      "Completed": 4338
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-08-01T18:59:08.1065463+00:00",
-  "LastChanged_Achievements": "2023-08-02T22:05:33.2380115+00:00",
+  "LastChanged_Achievements": "2023-08-02T23:05:18.4119515+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.6362522+00:00",
-  "LastUpdate_Ratings": "2023-08-02T21:59:46.1529151+00:00",
-  "LastUpdate_Achievements": "2023-08-02T22:05:33.2381097+00:00"
+  "LastUpdate_Ratings": "2023-08-02T22:59:38.2010941+00:00",
+  "LastUpdate_Achievements": "2023-08-02T23:05:18.4121131+00:00"
 }

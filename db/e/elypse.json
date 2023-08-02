@@ -4,7 +4,7 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78,
+  "EOS_Progressed": 79,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -386,6 +386,11 @@
       "Time": "2023-08-02T16:04:27.5970012+00:00",
       "NumProgressed": 78,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T23:04:56.6267082+00:00",
+      "NumProgressed": 79,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 34,
@@ -437,7 +442,7 @@
       "Name": "\u0022Swoosh\u0022",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Ach_BossSlugMk2",
@@ -461,7 +466,7 @@
       "Name": "Pigeon",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Ach_CallBeggarNothingToSell",
@@ -493,7 +498,7 @@
       "Name": "A bottomless pit",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Ach_DiscoveryCaverns",
@@ -501,7 +506,7 @@
       "Name": "The light at the end of the tunnel",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Ach_DiscoveryCelestialIsland",
@@ -533,7 +538,7 @@
       "Name": "A path of no return",
       "Percentage": 101,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Ach_DiveDeath",
@@ -547,7 +552,7 @@
       "ID": "Ach_DiveKillEnnemis",
       "SetID": "4o5gjp0",
       "Name": "Magnitude 5",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -557,7 +562,7 @@
       "Name": "Baited",
       "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Ach_FinalBossHand",
@@ -595,7 +600,7 @@
       "ID": "Ach_IslandExplo",
       "SetID": "4o5gjp0",
       "Name": "Big badaboom!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -603,9 +608,9 @@
       "ID": "Ach_LavaDeath",
       "SetID": "4o5gjp0",
       "Name": "Splash!",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Ach_OptionalDialogRead",
@@ -659,23 +664,23 @@
       "ID": "Ach_TalkToLostSoul",
       "SetID": "4o5gjp0",
       "Name": "Sensitive soul",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "4o5gjp0",
       "IsBase": true,
-      "Progressed": 78,
+      "Progressed": 79,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-08-02T22:05:20.9626981+00:00",
+  "LastChanged_Achievements": "2023-08-02T23:04:56.6267075+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:57.8923597+00:00",
-  "LastUpdate_Ratings": "2023-08-02T21:59:15.5494+00:00",
-  "LastUpdate_Achievements": "2023-08-02T22:05:20.9627448+00:00"
+  "LastUpdate_Ratings": "2023-08-02T22:59:06.4966099+00:00",
+  "LastUpdate_Achievements": "2023-08-02T23:04:56.6267497+00:00"
 }

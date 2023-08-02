@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1246,
+  "EOS_Progressed": 1247,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1995,6 +1995,11 @@
       "Time": "2023-08-02T21:04:15.0490142+00:00",
       "NumProgressed": 1246,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-02T23:04:25.778148+00:00",
+      "NumProgressed": 1247,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2158,7 +2163,7 @@
       "Name": "Spice It Up",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "KillAllM2",
@@ -2198,7 +2203,7 @@
       "Name": "Mosquito bite",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "Scout",
@@ -2245,15 +2250,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1246,
+      "Progressed": 1247,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-02T22:04:48.367365+00:00",
+  "LastChanged_Achievements": "2023-08-02T23:04:25.7781473+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:01.8247035+00:00",
-  "LastUpdate_Ratings": "2023-08-02T22:00:37.0413808+00:00",
-  "LastUpdate_Achievements": "2023-08-02T22:04:48.3673998+00:00"
+  "LastUpdate_Ratings": "2023-08-02T23:00:30.3289074+00:00",
+  "LastUpdate_Achievements": "2023-08-02T23:04:25.7782007+00:00"
 }

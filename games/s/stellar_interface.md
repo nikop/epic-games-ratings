@@ -12,17 +12,17 @@
 | Fighting Fit I | 32.00% | ~18 |
 | Rambo I | 28.00% | ~16 |
 | 10Gb HDD | 28.00% | ~16 |
-| The Vette | 23.00% | ~13 |
+| The Vette | 25.00% | ~14 |
 | Mega Kill | 21.00% | ~12 |
+| Stoic | 18.00% | ~10 |
 | Almost There I | 18.00% | ~10 |
-| Stoic | 16.00% | ~9 |
-| Omicron Alpha | 12.00% | ~7 |
+| Omicron Alpha | 14.00% | ~8 |
 | Galactic Cadet | 12.00% | ~7 |
 | Bronze Prince of Ball-air | 11.00% | ~6 |
 | Pacifist | 11.00% | ~6 |
+| 25Gb HDD | 11.00% | ~6 |
 | Collateral Damage I | 11.00% | ~6 |
 | Defrosted | 9.00% | ~5 |
-| 25Gb HDD | 9.00% | ~5 |
 | Sectoral Ensign | 7.00% | ~4 |
 | Rambo II | 7.00% | ~4 |
 | Golden Prince of Ball-air | 7.00% | ~4 |

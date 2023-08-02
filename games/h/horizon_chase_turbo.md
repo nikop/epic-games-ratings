@@ -1,20 +1,20 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.55 (Ranked 483)  
+Rating: 4.55 (Ranked 482)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~916,965 |
-| I Need a Bigger Garage | 63.00% | ~641,876 |
-| Pump my Ride | 46.00% | ~468,671 |
-| Ghostbuster | 33.00% | ~336,220 |
-| That Was Close | 18.00% | ~183,393 |
-| Call Roadside Assistance | 17.00% | ~173,204 |
-| Quickie | 11.00% | ~112,074 |
-| California Dreamer | 7.00% | ~71,320 |
-| Can't Touch This | 5.00% | ~50,942 |
+| The First of Many | 90.00% | ~916,985 |
+| I Need a Bigger Garage | 63.00% | ~641,889 |
+| Pump my Ride | 46.00% | ~468,681 |
+| Ghostbuster | 33.00% | ~336,228 |
+| That Was Close | 18.00% | ~183,397 |
+| Call Roadside Assistance | 17.00% | ~173,208 |
+| Quickie | 11.00% | ~112,076 |
+| California Dreamer | 7.00% | ~71,321 |
+| Can't Touch This | 5.00% | ~50,944 |
 | Carménère Taster | 3.00% | ~30,566 |
 | Comeback | 3.00% | ~30,566 |
 | Marathonist | 3.00% | ~30,566 |
@@ -26,12 +26,12 @@ Number of Ratings: 1,343  (23.09.2022)
 | Completionist | 2.00% | ~20,377 |
 | Supersonic | 2.00% | ~20,377 |
 | Harder, Better, Faster, Stronger | 2.00% | ~20,377 |
-| The Iceman | 1.00% | ~10,188 |
-| Bollywood Star | 1.00% | ~10,188 |
-| Oil Tycoon | 1.00% | ~10,188 |
-| Round the Globe | 1.00% | ~10,188 |
-| Golden Passport | 1.00% | ~10,188 |
-| Brave and Bold | 1.00% | ~10,188 |
+| The Iceman | 1.00% | ~10,189 |
+| Bollywood Star | 1.00% | ~10,189 |
+| Oil Tycoon | 1.00% | ~10,189 |
+| Round the Globe | 1.00% | ~10,189 |
+| Golden Passport | 1.00% | ~10,189 |
+| Brave and Bold | 1.00% | ~10,189 |
 | Crocodile Hunter | 0.90% | ~9,170 |
 | Old Master | 0.90% | ~9,170 |
 | Volcano Surfer | 0.80% | ~8,151 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,019 |
 | Look Mom, No Hands! | 0.10% | ~1,019 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,018,850 (Ranked 12)  
+Progressed: 1,018,872 (Ranked 12)  
 Completed: 379 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 379 (0.04%) (Ranked 218)
 | 2023-07-30 | 1,017,043 | 374 |
 | 2023-07-31 | 1,017,646 | 375 |
 | 2023-08-01 | 1,018,270 | 375 |
-| 2023-08-02 | 1,018,850 | 379 |
+| 2023-08-02 | 1,018,872 | 379 |
 ## Awards
 Max (Great for Beginners): 151  (Ranked 294)  
 Sum: 1,229 (Ranked 228)  

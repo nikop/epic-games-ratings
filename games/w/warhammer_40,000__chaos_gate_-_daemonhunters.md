@@ -31,6 +31,7 @@ Number of Ratings: 371  (23.09.2022)
 | Long Distance Call | 0.30% | ~9 |
 | Tactical Sabotage | 0.30% | ~9 |
 | Fleetmaster | 0.20% | ~6 |
+| Strike Force | 0.20% | ~6 |
 | Daemonkeeper | 0.20% | ~6 |
 | Exterminator | 0.20% | ~6 |
 | Only in Death | 0.20% | ~6 |
@@ -43,7 +44,6 @@ Number of Ratings: 371  (23.09.2022)
 | Patron of Deimos | 0.10% | ~3 |
 | For the Machine God | 0.10% | ~3 |
 | Unstable Immaterium | 0.10% | ~3 |
-| Strike Force | 0.10% | ~3 |
 | Opportunist | 0.10% | ~3 |
 | Hands-On Research | 0.10% | ~3 |
 | Warp Flickers | 0.10% | ~3 |

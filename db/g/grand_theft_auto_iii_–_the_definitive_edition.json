@@ -406,9 +406,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7381,
+  "EOS_Progressed": 7382,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -6791,6 +6791,11 @@
       "Time": "2023-08-02T21:05:29.568769+00:00",
       "NumProgressed": 7381,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-02T23:06:15.177717+00:00",
+      "NumProgressed": 7382,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 29,
@@ -6802,7 +6807,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "ACH02",
@@ -6824,9 +6829,9 @@
       "ID": "ACH04",
       "SetID": "552d41m",
       "Name": "Disposing of the Evidence",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2805
+      "UsersEstimate": 2731
     },
     {
       "ID": "ACH05",
@@ -6922,7 +6927,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "ACH17",
@@ -7033,7 +7038,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7381,
+      "Progressed": 7382,
       "Completed": 42
     }
   ],
@@ -7041,8 +7046,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-01T02:03:47.9919957+00:00",
-  "LastChanged_Achievements": "2023-08-02T22:06:22.9565756+00:00",
+  "LastChanged_Achievements": "2023-08-02T23:06:15.1777162+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:45.6186895+00:00",
-  "LastUpdate_Ratings": "2023-08-02T21:58:58.3403104+00:00",
-  "LastUpdate_Achievements": "2023-08-02T22:06:22.9566844+00:00"
+  "LastUpdate_Ratings": "2023-08-02T22:58:46.6410845+00:00",
+  "LastUpdate_Achievements": "2023-08-02T23:06:15.1778177+00:00"
 }

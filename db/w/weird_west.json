@@ -331,9 +331,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1772,
+  "EOS_Progressed": 1773,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1686,6 +1686,11 @@
       "Time": "2023-08-02T22:05:56.7634602+00:00",
       "NumProgressed": 1772,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-02T23:05:40.8316082+00:00",
+      "NumProgressed": 1773,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1697,15 +1702,15 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
       "SetID": "8j30i9k",
       "Name": "Dead or Alive",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 992
+      "UsersEstimate": 975
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1849,7 +1854,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1873,7 +1878,7 @@
       "Name": "Loyalty to the Pack",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_MAN_IN_BLACK",
@@ -1921,7 +1926,7 @@
       "Name": "Mystery Machine",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_OFF_THE_TRAIL",
@@ -1993,7 +1998,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2073,7 +2078,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2081,7 +2086,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2120,15 +2125,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1772,
+      "Progressed": 1773,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-02T19:59:24.9286429+00:00",
-  "LastChanged_Achievements": "2023-08-02T22:05:56.7634593+00:00",
+  "LastChanged_Achievements": "2023-08-02T23:05:40.8316072+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.150321+00:00",
-  "LastUpdate_Ratings": "2023-08-02T21:59:45.825219+00:00",
-  "LastUpdate_Achievements": "2023-08-02T22:05:56.7635161+00:00"
+  "LastUpdate_Ratings": "2023-08-02T22:59:37.8782879+00:00",
+  "LastUpdate_Achievements": "2023-08-02T23:05:40.8316999+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,706 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,707 |
 | First Class Student | 11.00% | ~31,814 |
 | Troll with the Punches | 11.00% | ~31,814 |
 | A Keen Sense of Spell | 10.00% | ~28,922 |
@@ -17,14 +17,14 @@ Rating: 4.77 (Ranked 108)
 | Loom for Improvement | 9.00% | ~26,030 |
 | A Talent for Spending | 9.00% | ~26,030 |
 | Coasting Along | 9.00% | ~26,030 |
-| The Hero of Hogwarts | 8.00% | ~23,137 |
-| Challenge Accepted | 8.00% | ~23,137 |
-| Followed the Butterflies | 8.00% | ~23,137 |
-| Rising From the Ashes | 8.00% | ~23,137 |
-| The Avenging Gazelle | 7.00% | ~20,245 |
-| A Sallow Grave | 7.00% | ~20,245 |
-| Flight the Good Flight | 7.00% | ~20,245 |
-| The Spell Master | 7.00% | ~20,245 |
+| The Hero of Hogwarts | 8.00% | ~23,138 |
+| Challenge Accepted | 8.00% | ~23,138 |
+| Followed the Butterflies | 8.00% | ~23,138 |
+| Rising From the Ashes | 8.00% | ~23,138 |
+| The Avenging Gazelle | 7.00% | ~20,246 |
+| A Sallow Grave | 7.00% | ~20,246 |
+| Flight the Good Flight | 7.00% | ~20,246 |
+| The Spell Master | 7.00% | ~20,246 |
 | Beast Friends | 6.00% | ~17,353 |
 | The Seeker of Knowledge | 5.00% | ~14,461 |
 | The Root of the Problem | 5.00% | ~14,461 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,735 |
 | Collector's Edition | 0.30% | ~868 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,218 (Ranked 42)  
+Progressed: 289,222 (Ranked 42)  
 Completed: 437 (0.15%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 437 (0.15%) (Ranked 183)
 | 2023-07-30 | 288,994 | 437 |
 | 2023-07-31 | 289,064 | 437 |
 | 2023-08-01 | 289,146 | 437 |
-| 2023-08-02 | 289,218 | 437 |
+| 2023-08-02 | 289,222 | 437 |
 ## Awards
 Max (Character Customization): 21,473  (Ranked 17)  
 Sum: 40,376 (Ranked 30)  

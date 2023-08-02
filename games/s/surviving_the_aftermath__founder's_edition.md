@@ -7,7 +7,7 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 72.00% | ~5,735 |
-| Leader | 60.00% | ~4,779 |
+| Leader | 61.00% | ~4,859 |
 | Explorer | 53.00% | ~4,221 |
 | Healer | 52.00% | ~4,142 |
 | Aspiring Inventor | 44.00% | ~3,505 |
@@ -25,10 +25,10 @@ Number of Ratings: 836  (23.09.2022)
 | Catastrofan | 28.00% | ~2,230 |
 | Finders, Keepers | 26.00% | ~2,071 |
 | Top Notch | 25.00% | ~1,991 |
+| Ice Lakes | 23.00% | ~1,832 |
 | Mentor | 23.00% | ~1,832 |
 | Merchant | 22.00% | ~1,752 |
 | Great Leader | 22.00% | ~1,752 |
-| Ice Lakes | 22.00% | ~1,752 |
 | Real Survivor | 22.00% | ~1,752 |
 | Rocket Surgeon | 20.00% | ~1,593 |
 | War Never Changes | 19.00% | ~1,513 |

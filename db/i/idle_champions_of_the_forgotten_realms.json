@@ -5494,9 +5494,9 @@
       "Count": 3337
     }
   ],
-  "EOS_Progressed": 218013,
+  "EOS_Progressed": 218025,
   "EOS_Completed": 2145,
-  "EOS_NewPlayers": 2206,
+  "EOS_NewPlayers": 2208,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16744,6 +16744,11 @@
       "Time": "2023-08-02T22:05:19.7945875+00:00",
       "NumProgressed": 218013,
       "NumCompleted": 2145
+    },
+    {
+      "Time": "2023-08-02T23:04:55.8693279+00:00",
+      "NumProgressed": 218025,
+      "NumCompleted": 2145
     }
   ],
   "TotalAchievements": 512,
@@ -17123,15 +17128,15 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6540
+      "UsersEstimate": 6541
     },
     {
       "ID": "objective_completed_110",
       "SetID": "cc37lbc",
       "Name": "Wet Feet",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1526
     },
     {
       "ID": "objective_completed_1100",
@@ -20850,21 +20855,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184287,
+      "Progressed": 184299,
       "Completed": 3051
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218013,
+      "Progressed": 218025,
       "Completed": 2145
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-02T14:59:51.4938579+00:00",
-  "LastChanged_Achievements": "2023-08-02T22:05:19.7945868+00:00",
+  "LastChanged_Achievements": "2023-08-02T23:04:55.8693271+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-02T21:59:21.769216+00:00",
-  "LastUpdate_Achievements": "2023-08-02T22:05:19.7978072+00:00"
+  "LastUpdate_Ratings": "2023-08-02T22:59:11.3879206+00:00",
+  "LastUpdate_Achievements": "2023-08-02T23:04:55.8748958+00:00"
 }

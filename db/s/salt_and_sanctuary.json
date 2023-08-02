@@ -2439,7 +2439,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 529418,
+  "EOS_Progressed": 529419,
   "EOS_Completed": 1495,
   "EOS_NewPlayers": 680,
   "EOS_NewCompleters": 10,
@@ -13579,6 +13579,11 @@
       "Time": "2023-08-02T22:04:12.08358+00:00",
       "NumProgressed": 529418,
       "NumCompleted": 1495
+    },
+    {
+      "Time": "2023-08-02T23:03:41.5238902+00:00",
+      "NumProgressed": 529419,
+      "NumCompleted": 1495
     }
   ],
   "TotalAchievements": 37,
@@ -13606,7 +13611,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 158825
+      "UsersEstimate": 158826
     },
     {
       "ID": "DEVOTED",
@@ -13646,7 +13651,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 439417
+      "UsersEstimate": 439418
     },
     {
       "ID": "HONED",
@@ -13702,7 +13707,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 211767
+      "UsersEstimate": 211768
     },
     {
       "ID": "THE_CASTLE",
@@ -13830,7 +13835,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 42353
+      "UsersEstimate": 42354
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -13885,15 +13890,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 529418,
+      "Progressed": 529419,
       "Completed": 1495
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-07-31T20:59:31.5482913+00:00",
-  "LastChanged_Achievements": "2023-08-02T22:04:12.0835787+00:00",
+  "LastChanged_Achievements": "2023-08-02T23:03:41.5238893+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:06.7588581+00:00",
-  "LastUpdate_Ratings": "2023-08-02T22:00:58.2140339+00:00",
-  "LastUpdate_Achievements": "2023-08-02T22:04:12.0837583+00:00"
+  "LastUpdate_Ratings": "2023-08-02T23:00:50.5027515+00:00",
+  "LastUpdate_Achievements": "2023-08-02T23:03:41.5240579+00:00"
 }

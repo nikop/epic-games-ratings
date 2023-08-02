@@ -6,19 +6,19 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~20,979 |
+| Genin | 11.00% | ~20,980 |
 | A thief's beginning | 9.00% | ~17,165 |
 | Thorough | 9.00% | ~17,165 |
 | Rollin' | 8.00% | ~15,258 |
 | Tanuki Time | 8.00% | ~15,258 |
-| Disguised | 7.00% | ~13,350 |
-| Jonin | 7.00% | ~13,350 |
-| Rescue Takuma | 7.00% | ~13,350 |
-| Stoned Ox | 7.00% | ~13,350 |
-| Chunin | 6.00% | ~11,443 |
-| Happy Planning | 6.00% | ~11,443 |
-| Ice Ice Yuki | 6.00% | ~11,443 |
-| Yabu | 6.00% | ~11,443 |
+| Disguised | 7.00% | ~13,351 |
+| Jonin | 7.00% | ~13,351 |
+| Rescue Takuma | 7.00% | ~13,351 |
+| Stoned Ox | 7.00% | ~13,351 |
+| Chunin | 6.00% | ~11,444 |
+| Happy Planning | 6.00% | ~11,444 |
+| Ice Ice Yuki | 6.00% | ~11,444 |
+| Yabu | 6.00% | ~11,444 |
 | Flying Rocks | 5.00% | ~9,536 |
 | Mugen Unchained | 5.00% | ~9,536 |
 | Warzone | 5.00% | ~9,536 |
@@ -30,15 +30,15 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 3.00% | ~5,722 |
 | Still Rollin' | 3.00% | ~5,722 |
 | Stoned | 3.00% | ~5,722 |
-| Atheist Ox | 2.00% | ~3,814 |
-| It's raining men | 2.00% | ~3,814 |
-| Old Man | 2.00% | ~3,814 |
-| The Old Way | 2.00% | ~3,814 |
-| Winner Winner | 2.00% | ~3,814 |
+| Atheist Ox | 2.00% | ~3,815 |
+| It's raining men | 2.00% | ~3,815 |
+| Old Man | 2.00% | ~3,815 |
+| The Old Way | 2.00% | ~3,815 |
+| Winner Winner | 2.00% | ~3,815 |
 | Meticulous | 1.00% | ~1,907 |
 | No Gimmicks | 1.00% | ~1,907 |
 | The End | 1.00% | ~1,907 |
-| Undeserved Honor | 0.90% | ~1,716 |
+| Undeserved Honor | 0.90% | ~1,717 |
 | When Cut Across the Neck | 0.80% | ~1,526 |
 | High Five the Moon | 0.70% | ~1,335 |
 | The Cave | 0.70% | ~1,335 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~191 |
 | Release the Kraken | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 190,721 (Ranked 59)  
+Progressed: 190,727 (Ranked 59)  
 Completed: 65 (0.03%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 65 (0.03%) (Ranked 222)
 | 2023-07-30 | 190,018 | 64 |
 | 2023-07-31 | 190,283 | 65 |
 | 2023-08-01 | 190,508 | 65 |
-| 2023-08-02 | 190,721 | 65 |
+| 2023-08-02 | 190,727 | 65 |
 ## Awards
 Max (Great for Beginners): 559  (Ranked 184)  
 Sum: 4,717 (Ranked 133)  

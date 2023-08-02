@@ -4,7 +4,7 @@
   "ProductSlug": "alekon-b2faec",
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -248,9 +248,9 @@
       "ID": "ACH_29_CLOTHING",
       "SetID": "2k150c1",
       "Name": "The Next Gucci",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_2_ALL_FICTIONS",
@@ -264,9 +264,9 @@
       "ID": "ACH_30_CUSTOM_ISLAND",
       "SetID": "2k150c1",
       "Name": "Creative Potential: Idyll Island",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_31_CUSTOM_WINTER",
@@ -407,8 +407,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:13.1793768+00:00",
   "FirstSeenAchievements": "2023-05-06T12:01:39.7571986+00:00",
-  "LastChanged_Achievements": "2023-08-02T22:07:50.6889269+00:00",
+  "LastChanged_Achievements": "2023-08-02T23:07:50.0426734+00:00",
   "LastUpdate_AppInfo": "2023-07-29T20:57:06.5349727+00:00",
-  "LastUpdate_Ratings": "2023-08-02T21:58:07.0647742+00:00",
-  "LastUpdate_Achievements": "2023-08-02T22:07:50.68898+00:00"
+  "LastUpdate_Ratings": "2023-08-02T22:57:55.1301079+00:00",
+  "LastUpdate_Achievements": "2023-08-02T23:07:50.0427163+00:00"
 }

@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Horn prize! | 46.00% | ~28 |
-| Beast Quest | 33.00% | ~20 |
-| Monster Hunt | 33.00% | ~20 |
-| Orb Gatherer | 31.00% | ~19 |
+| Horn prize! | 47.00% | ~29 |
+| Beast Quest | 34.00% | ~21 |
+| Monster Hunt | 34.00% | ~21 |
+| Orb Gatherer | 32.00% | ~20 |
+| Space worm! | 32.00% | ~20 |
 | Beast Hunter | 31.00% | ~19 |
-| Space worm! | 31.00% | ~19 |
-| Vanquisher! | 30.00% | ~18 |
-| Orb Collector | 30.00% | ~18 |
-| Snakehead! | 30.00% | ~18 |
-| Unmasked! | 30.00% | ~18 |
-| Loot, loot! | 30.00% | ~18 |
-| Beast Knight | 28.00% | ~17 |
-| Twin slayer! | 28.00% | ~17 |
-| Mercenary! | 28.00% | ~17 |
-| Fly, you fool! | 26.00% | ~16 |
-| God of the Tower! | 25.00% | ~15 |
-| Relic Collector | 25.00% | ~15 |
-| Cartographer | 25.00% | ~15 |
-| Wizard Mastery | 20.00% | ~12 |
+| Vanquisher! | 29.00% | ~18 |
+| Orb Collector | 29.00% | ~18 |
+| Snakehead! | 29.00% | ~18 |
+| Unmasked! | 29.00% | ~18 |
+| Loot, loot! | 29.00% | ~18 |
+| Beast Knight | 27.00% | ~17 |
+| Twin slayer! | 27.00% | ~17 |
+| Fly, you fool! | 27.00% | ~17 |
+| Mercenary! | 27.00% | ~17 |
+| God of the Tower! | 24.00% | ~15 |
+| Relic Collector | 24.00% | ~15 |
+| Cartographer | 24.00% | ~15 |
+| Wizard Mastery | 19.00% | ~12 |
 | Rogue Mastery | 16.00% | ~10 |
 | Fighter Mastery | 15.00% | ~9 |
 | Destoy all monsters! | 13.00% | ~8 |
@@ -35,8 +35,8 @@
 | No match for me! | 3.00% | ~2 |
 | True Titan | 3.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 347)  
-Completed: 2 (3.28%) (Ranked 62)  
+Progressed: 62 (Ranked 346)  
+Completed: 2 (3.23%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -49,7 +49,7 @@ Completed: 2 (3.28%) (Ranked 62)
 | 2023-07-25 | 58 | 2 |
 | 2023-07-27 | 59 | 2 |
 | 2023-07-30 | 60 | 2 |
-| 2023-08-02 | 61 | 2 |
+| 2023-08-02 | 62 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 497,
+  "Ranking_Rating": 498,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 123,
@@ -568,7 +568,7 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 9496,
+  "EOS_Progressed": 9497,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 1,
@@ -7738,6 +7738,11 @@
       "Time": "2023-08-02T22:05:23.5995339+00:00",
       "NumProgressed": 9496,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-02T23:04:58.9810205+00:00",
+      "NumProgressed": 9497,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 34,
@@ -7853,7 +7858,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3893
+      "UsersEstimate": 3894
     },
     {
       "ID": "ACH15",
@@ -7909,7 +7914,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4273
+      "UsersEstimate": 4274
     },
     {
       "ID": "ACH22",
@@ -7933,7 +7938,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "ACH25",
@@ -7941,7 +7946,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "ACH26",
@@ -7949,7 +7954,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "ACH27",
@@ -8020,7 +8025,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9496,
+      "Progressed": 9497,
       "Completed": 44
     }
   ],
@@ -8028,8 +8033,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-01T16:59:33.8335317+00:00",
-  "LastChanged_Achievements": "2023-08-02T22:05:23.5995331+00:00",
+  "LastChanged_Achievements": "2023-08-02T23:04:58.9810195+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-08-02T21:59:27.8250511+00:00",
-  "LastUpdate_Achievements": "2023-08-02T22:05:23.5996584+00:00"
+  "LastUpdate_Ratings": "2023-08-02T22:59:17.784394+00:00",
+  "LastUpdate_Achievements": "2023-08-02T23:04:58.9811384+00:00"
 }
