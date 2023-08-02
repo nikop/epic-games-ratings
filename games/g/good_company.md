@@ -17,9 +17,9 @@ Number of Ratings: 75  (23.09.2022)
 | Millionaire | 6.00% | ~313 |
 | Data Churn Type II | 5.00% | ~261 |
 | Speedy | 5.00% | ~261 |
-| Extra Life: Wish Granted | 4.00% | ~208 |
-| High Five! | 4.00% | ~208 |
-| Modular Progress | 4.00% | ~208 |
+| Extra Life: Wish Granted | 4.00% | ~209 |
+| High Five! | 4.00% | ~209 |
+| Modular Progress | 4.00% | ~209 |
 | Campaign: Lesson Learned | 3.00% | ~156 |
 | Level: Bet On Bots | 3.00% | ~156 |
 | Modular Performance | 3.00% | ~156 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,212 (Ranked 136)  
+Progressed: 5,213 (Ranked 136)  
 Completed: 1 (0.02%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 1 (0.02%) (Ranked 227)
 | 2023-07-30 | 5,205 | 1 |
 | 2023-07-31 | 5,207 | 1 |
 | 2023-08-01 | 5,210 | 1 |
-| 2023-08-02 | 5,212 | 1 |
+| 2023-08-02 | 5,213 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

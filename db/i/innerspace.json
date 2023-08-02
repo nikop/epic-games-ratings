@@ -2,7 +2,7 @@
   "ID": "387bc8d3398a40f7ae14de417b4acefc",
   "Name": "InnerSpace",
   "ProductSlug": "innerspace",
-  "Ranking_EOS_Progress": 521,
+  "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 104,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.7192229+00:00",
   "LastChanged": "2023-03-31T05:58:18.719223+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:02.0508313+00:00",
-  "LastUpdate_Ratings": "2023-08-02T06:01:55.6262882+00:00",
-  "LastUpdate_Achievements": "2023-08-02T06:05:20.6249896+00:00"
+  "LastUpdate_Ratings": "2023-08-02T07:02:02.9279896+00:00",
+  "LastUpdate_Achievements": "2023-08-02T07:05:08.7522243+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "elemental-war-2-d7db6e",
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -416,8 +416,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-30T11:02:07.8457996+00:00",
-  "LastChanged_Achievements": "2023-08-02T06:05:52.0655067+00:00",
+  "LastChanged_Achievements": "2023-08-02T07:05:40.1760848+00:00",
   "LastUpdate_AppInfo": "2023-07-28T11:57:14.5662512+00:00",
-  "LastUpdate_Ratings": "2023-08-02T05:57:45.0046074+00:00",
-  "LastUpdate_Achievements": "2023-08-02T06:05:52.0655407+00:00"
+  "LastUpdate_Ratings": "2023-08-02T06:57:44.5690266+00:00",
+  "LastUpdate_Achievements": "2023-08-02T07:05:40.1761158+00:00"
 }

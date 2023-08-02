@@ -8,18 +8,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~1,066 |
 | Project Arena | 4.00% | ~853 |
-| The Old Grandmaster | 2.00% | ~14,240 |
-| The Assault | 2.00% | ~14,240 |
-| The Hateful Pole Fighter | 2.00% | ~14,240 |
-| A Lady's Blood in the Snow | 2.00% | ~14,240 |
-| Street Fighting | 2.00% | ~14,240 |
-| Life is your teacher | 2.00% | ~14,240 |
-| State of constant learning | 2.00% | ~14,240 |
-| Qi Gong: Breath | 2.00% | ~14,240 |
-| Qi Gong: Essence | 2.00% | ~14,240 |
-| Lightning Hands | 2.00% | ~14,240 |
-| Path of the Prospect | 2.00% | ~14,240 |
-| Rumble in the Hangar | 2.00% | ~14,240 |
+| The Old Grandmaster | 2.00% | ~14,241 |
+| The Assault | 2.00% | ~14,241 |
+| The Hateful Pole Fighter | 2.00% | ~14,241 |
+| A Lady's Blood in the Snow | 2.00% | ~14,241 |
+| Street Fighting | 2.00% | ~14,241 |
+| Life is your teacher | 2.00% | ~14,241 |
+| State of constant learning | 2.00% | ~14,241 |
+| Qi Gong: Breath | 2.00% | ~14,241 |
+| Qi Gong: Essence | 2.00% | ~14,241 |
+| Lightning Hands | 2.00% | ~14,241 |
+| Path of the Prospect | 2.00% | ~14,241 |
+| Rumble in the Hangar | 2.00% | ~14,241 |
 | Bloody Sport | 2.00% | ~427 |
 | Lady Wing Chun | 1.00% | ~7,120 |
 | Furious Fists | 1.00% | ~7,120 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,424 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,025 (Ranked 20)  
+Progressed: 712,029 (Ranked 20)  
 Completed: 12,838 (1.80%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,17 +161,17 @@ Completed: 12,838 (1.80%) (Ranked 90)
 | 2023-07-30 | 711,892 | 12,836 |
 | 2023-07-31 | 711,949 | 12,837 |
 | 2023-08-01 | 712,009 | 12,838 |
-| 2023-08-02 | 712,025 | 12,838 |
+| 2023-08-02 | 712,029 | 12,838 |
 ## Awards
 Max (Great Boss Battles): 6,327  (Ranked 53)  
-Sum: 10,860 (Ranked 82)  
+Sum: 10,862 (Ranked 82)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,327 |
 | This game has Diverse Characters | 562 |
 | This game has Challenging Combat | 538 |
-| This game has Quickly Understood Controls | 529 |
+| This game has Quickly Understood Controls | 531 |
 | This game is Extremely Fun | 521 |
 | This game has Amazing Storytelling | 520 |
 | This game is Highly Recommended | 509 |
@@ -380,3 +380,4 @@ Diff (max vs sum): -29
 | 2023-07-30 | 4.82 | - | 6,322 | 10,842 |
 | 2023-07-31 | 4.82 | - | 6,322 | 10,851 |
 | 2023-08-01 | 4.82 | - | 6,327 | 10,860 |
+| 2023-08-02 | 4.82 | - | 6,327 | 10,862 |

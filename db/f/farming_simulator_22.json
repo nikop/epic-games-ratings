@@ -7395,9 +7395,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 46474,
+  "EOS_Progressed": 46475,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16500,6 +16500,11 @@
       "Time": "2023-08-02T04:04:16.7848616+00:00",
       "NumProgressed": 46474,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-02T07:05:20.8666793+00:00",
+      "NumProgressed": 46475,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -16583,7 +16588,7 @@
       "Name": "Highly cultivated",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 4647
+      "UsersEstimate": 4648
     },
     {
       "ID": "CultivateFirst",
@@ -16591,7 +16596,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 29743
+      "UsersEstimate": 29744
     },
     {
       "ID": "CutTree",
@@ -16607,7 +16612,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 28349
+      "UsersEstimate": 28350
     },
     {
       "ID": "DeliveryGrapes",
@@ -16647,7 +16652,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 27884
+      "UsersEstimate": 27885
     },
     {
       "ID": "Harvested",
@@ -16687,7 +16692,7 @@
       "Name": "Giddy-up!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4647
+      "UsersEstimate": 4648
     },
     {
       "ID": "LoadedOldSavegame",
@@ -16695,7 +16700,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 22772
+      "UsersEstimate": 22773
     },
     {
       "ID": "Mission",
@@ -16719,7 +16724,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 24631
+      "UsersEstimate": 24632
     },
     {
       "ID": "NumBeehives",
@@ -16831,7 +16836,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 12083
+      "UsersEstimate": 12084
     },
     {
       "ID": "VehicleRepair",
@@ -16847,22 +16852,22 @@
       "Name": "That\u0027s a wrap",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6506
+      "UsersEstimate": 6507
     }
   ],
   "AchievementSets": [
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 46474,
+      "Progressed": 46475,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-08-01T20:59:41.8682046+00:00",
-  "LastChanged_Achievements": "2023-08-02T06:05:32.5902835+00:00",
+  "LastChanged_Achievements": "2023-08-02T07:05:20.8666788+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:27.4750397+00:00",
-  "LastUpdate_Ratings": "2023-08-02T06:01:22.4518211+00:00",
-  "LastUpdate_Achievements": "2023-08-02T06:05:32.5903746+00:00"
+  "LastUpdate_Ratings": "2023-08-02T07:01:30.5187427+00:00",
+  "LastUpdate_Achievements": "2023-08-02T07:05:20.8667639+00:00"
 }

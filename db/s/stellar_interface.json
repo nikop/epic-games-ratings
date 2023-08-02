@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 57,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -296,6 +296,11 @@
       "Time": "2023-08-01T22:06:51.861777+00:00",
       "NumProgressed": 56,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T07:07:01.9402157+00:00",
+      "NumProgressed": 57,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 132,
@@ -441,7 +446,7 @@
       "ID": "Cleared10LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo I",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -915,7 +920,7 @@
       "Name": "Killing Spree",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Killed10BossesAchievement",
@@ -931,7 +936,7 @@
       "Name": "First Blood",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Killed20BossesAchievement",
@@ -969,7 +974,7 @@
       "ID": "Killed500EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Dominating",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -1009,7 +1014,7 @@
       "ID": "PerksUnlocked10Achievement",
       "SetID": "a8djcgh",
       "Name": "10Gb HDD",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -1033,7 +1038,7 @@
       "ID": "PerksUnlocked5Achievement",
       "SetID": "a8djcgh",
       "Name": "5Gb HDD",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
       "UsersEstimate": 29
     },
@@ -1289,9 +1294,9 @@
       "ID": "VisitMerchant1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince I",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "VisitOverlord100TimeAchievement",
@@ -1313,9 +1318,9 @@
       "ID": "VisitOverlord1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Almost There I",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "VisitOverlord50TimeAchievement",
@@ -1362,14 +1367,14 @@
     {
       "ID": "a8djcgh",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 57,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-08-02T06:07:03.5153499+00:00",
+  "LastChanged_Achievements": "2023-08-02T07:07:01.9402151+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:39.4262374+00:00",
-  "LastUpdate_Ratings": "2023-08-02T06:00:15.6396603+00:00",
-  "LastUpdate_Achievements": "2023-08-02T06:07:03.5156353+00:00"
+  "LastUpdate_Ratings": "2023-08-02T07:00:21.6646651+00:00",
+  "LastUpdate_Achievements": "2023-08-02T07:07:01.9404455+00:00"
 }

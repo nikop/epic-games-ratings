@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 254,
+  "EOS_Progressed": 255,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 8.66,
+  "EOS_Completed_Percentage": 8.63,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1151,6 +1151,11 @@
       "Time": "2023-08-02T06:06:33.3215052+00:00",
       "NumProgressed": 254,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-08-02T07:06:31.6908999+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 6,
@@ -1160,9 +1165,9 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 175,
-      "UsersEstimate": 150
+      "UsersEstimate": 148
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -1170,7 +1175,7 @@
       "Name": "File-cutter",
       "Percentage": 60,
       "XP": 165,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -1184,39 +1189,39 @@
       "ID": "CgkIgaGB2J0LEAIQAw",
       "SetID": "4ocea6d",
       "Name": "Scythed Chariot",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 165,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
       "SetID": "4ocea6d",
       "Name": "Revolving Bridge",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 165,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
       "SetID": "4ocea6d",
       "Name": "Flying Machine",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 165,
-      "UsersEstimate": 71
+      "UsersEstimate": 69
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 254,
+      "Progressed": 255,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-02T06:06:33.3215044+00:00",
+  "LastChanged_Achievements": "2023-08-02T07:06:31.690899+00:00",
   "LastUpdate_AppInfo": "2023-07-27T13:57:11.6016453+00:00",
-  "LastUpdate_Ratings": "2023-08-02T05:57:47.3021211+00:00",
-  "LastUpdate_Achievements": "2023-08-02T06:06:33.3215257+00:00"
+  "LastUpdate_Ratings": "2023-08-02T06:57:45.9839571+00:00",
+  "LastUpdate_Achievements": "2023-08-02T07:06:31.6909136+00:00"
 }

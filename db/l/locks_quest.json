@@ -2,7 +2,7 @@
   "ID": "fa113c7861d44e45a2670a8e153993fe",
   "Name": "Locks Quest",
   "ProductSlug": "locks-quest-befcf1",
-  "Ranking_EOS_Progress": 521,
+  "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 104,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:20.9689847+00:00",
   "LastChanged": "2023-03-31T05:58:20.9689848+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:09.0354231+00:00",
-  "LastUpdate_Ratings": "2023-08-02T05:58:30.4738364+00:00",
-  "LastUpdate_Achievements": "2023-08-02T06:06:04.0532031+00:00"
+  "LastUpdate_Ratings": "2023-08-02T06:58:30.98654+00:00",
+  "LastUpdate_Achievements": "2023-08-02T07:05:52.1278404+00:00"
 }

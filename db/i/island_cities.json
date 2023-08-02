@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 438,
+  "EOS_Progressed": 439,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 18.49,
+  "EOS_Completed_Percentage": 18.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2118,6 +2118,11 @@
       "Time": "2023-08-02T04:03:42.5519028+00:00",
       "NumProgressed": 438,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-08-02T07:04:31.32807+00:00",
+      "NumProgressed": 439,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 22,
@@ -2129,7 +2134,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "LEVEL_002",
@@ -2137,7 +2142,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "LEVEL_003",
@@ -2145,7 +2150,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "LEVEL_004",
@@ -2161,7 +2166,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "LEVEL_006",
@@ -2177,7 +2182,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "LEVEL_008",
@@ -2304,7 +2309,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 438,
+      "Progressed": 439,
       "Completed": 81
     }
   ],
@@ -2312,8 +2317,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-08-02T06:04:43.3837827+00:00",
+  "LastChanged_Achievements": "2023-08-02T07:04:31.3280695+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:55.2732426+00:00",
-  "LastUpdate_Ratings": "2023-08-02T05:59:17.4778983+00:00",
-  "LastUpdate_Achievements": "2023-08-02T06:04:43.3838303+00:00"
+  "LastUpdate_Ratings": "2023-08-02T06:59:19.4625947+00:00",
+  "LastUpdate_Achievements": "2023-08-02T07:04:31.3281138+00:00"
 }

@@ -736,9 +736,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6546,
+  "EOS_Progressed": 6547,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4061,6 +4061,11 @@
       "Time": "2023-08-02T04:05:10.9788467+00:00",
       "NumProgressed": 6546,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-02T07:06:48.2192834+00:00",
+      "NumProgressed": 6547,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4152,7 +4157,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -4184,7 +4189,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -4216,7 +4221,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -4264,7 +4269,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3600
+      "UsersEstimate": 3601
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -4320,7 +4325,7 @@
       "Name": "Silver Lining",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -4384,7 +4389,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -4400,7 +4405,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3600
+      "UsersEstimate": 3601
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -4408,7 +4413,7 @@
       "Name": "Uomo Universale",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -4424,14 +4429,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3469
+      "UsersEstimate": 3470
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6546,
+      "Progressed": 6547,
       "Completed": 8
     }
   ],
@@ -4439,8 +4444,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-01T20:57:49.8563487+00:00",
-  "LastChanged_Achievements": "2023-08-02T06:06:49.9734705+00:00",
+  "LastChanged_Achievements": "2023-08-02T07:06:48.2192828+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:14.0482826+00:00",
-  "LastUpdate_Ratings": "2023-08-02T05:58:38.863906+00:00",
-  "LastUpdate_Achievements": "2023-08-02T06:06:49.9735291+00:00"
+  "LastUpdate_Ratings": "2023-08-02T06:58:39.6266138+00:00",
+  "LastUpdate_Achievements": "2023-08-02T07:06:48.2193417+00:00"
 }

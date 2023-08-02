@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -560,9 +560,9 @@
       "ID": "kamikaze",
       "SetID": "d4f4pll",
       "Name": "Kamikaze",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 337
+      "UsersEstimate": 343
     },
     {
       "ID": "kindar_surprise",
@@ -600,9 +600,9 @@
       "ID": "the_rebel_and_the_doctor",
       "SetID": "d4f4pll",
       "Name": "The Rebel And The Doctor",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 306
+      "UsersEstimate": 311
     },
     {
       "ID": "tough_decision",
@@ -625,8 +625,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-08-02T06:05:17.1725828+00:00",
+  "LastChanged_Achievements": "2023-08-02T07:05:05.3799763+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:53.940908+00:00",
-  "LastUpdate_Ratings": "2023-08-02T05:58:10.8852385+00:00",
-  "LastUpdate_Achievements": "2023-08-02T06:05:17.1726115+00:00"
+  "LastUpdate_Ratings": "2023-08-02T06:58:11.0075285+00:00",
+  "LastUpdate_Achievements": "2023-08-02T07:05:05.3799998+00:00"
 }

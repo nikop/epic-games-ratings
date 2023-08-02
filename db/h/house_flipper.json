@@ -1794,9 +1794,9 @@
       "Count": 212
     }
   ],
-  "EOS_Progressed": 20499,
+  "EOS_Progressed": 20500,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -7179,6 +7179,11 @@
       "Time": "2023-08-02T06:08:29.4406882+00:00",
       "NumProgressed": 20499,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-08-02T07:08:34.6895328+00:00",
+      "NumProgressed": 20500,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -7238,7 +7243,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 19269
+      "UsersEstimate": 19270
     },
     {
       "ID": "GameOver",
@@ -7286,7 +7291,7 @@
       "Name": "Knock, knock",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Millionaire",
@@ -7373,15 +7378,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20499,
+      "Progressed": 20500,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-08-01T02:59:48.3448221+00:00",
-  "LastChanged_Achievements": "2023-08-02T06:08:29.4406874+00:00",
+  "LastChanged_Achievements": "2023-08-02T07:08:34.6895325+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:16.0622663+00:00",
-  "LastUpdate_Ratings": "2023-08-02T06:01:11.2071551+00:00",
-  "LastUpdate_Achievements": "2023-08-02T06:08:29.4407743+00:00"
+  "LastUpdate_Ratings": "2023-08-02T07:01:19.3698321+00:00",
+  "LastUpdate_Achievements": "2023-08-02T07:08:34.6896016+00:00"
 }

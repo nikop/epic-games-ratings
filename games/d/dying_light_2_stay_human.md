@@ -6,28 +6,28 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~66,674 |
-| Into the Unknown | 10.00% | ~60,612 |
-| First Shot | 10.00% | ~60,612 |
-| Herzlich Wilkommen! | 9.00% | ~54,551 |
-| Good Night & Good Luck | 9.00% | ~54,551 |
-| Sancho Panza | 8.00% | ~48,490 |
-| Oh, So This Is How It Works! | 8.00% | ~48,490 |
+| You Never Forget Your First... | 11.00% | ~66,675 |
+| Into the Unknown | 10.00% | ~60,613 |
+| First Shot | 10.00% | ~60,613 |
+| Herzlich Wilkommen! | 9.00% | ~54,552 |
+| Good Night & Good Luck | 9.00% | ~54,552 |
+| Sancho Panza | 8.00% | ~48,491 |
+| Oh, So This Is How It Works! | 8.00% | ~48,491 |
 | Under Pressure | 7.00% | ~42,429 |
 | On the Trail of the Enemy | 7.00% | ~42,429 |
 | Flag Burning | 7.00% | ~42,429 |
 | Night Hunter | 7.00% | ~42,429 |
-| Light in the Darkness | 6.00% | ~36,367 |
-| Get Outta My House! | 6.00% | ~36,367 |
-| It Wasn't That Hard, Was It? | 6.00% | ~36,367 |
-| Being All Social | 6.00% | ~36,367 |
-| Debris and Ashes | 5.00% | ~30,306 |
-| We Will Be Heard! | 5.00% | ~30,306 |
-| Known Associate | 5.00% | ~30,306 |
-| Brush with Death | 5.00% | ~30,306 |
-| Tunnel Entrance | 5.00% | ~30,306 |
-| After the Fall | 5.00% | ~30,306 |
-| Can't Touch This! | 5.00% | ~30,306 |
+| Light in the Darkness | 6.00% | ~36,368 |
+| Get Outta My House! | 6.00% | ~36,368 |
+| It Wasn't That Hard, Was It? | 6.00% | ~36,368 |
+| Being All Social | 6.00% | ~36,368 |
+| Debris and Ashes | 5.00% | ~30,307 |
+| We Will Be Heard! | 5.00% | ~30,307 |
+| Known Associate | 5.00% | ~30,307 |
+| Brush with Death | 5.00% | ~30,307 |
+| Tunnel Entrance | 5.00% | ~30,307 |
+| After the Fall | 5.00% | ~30,307 |
+| Can't Touch This! | 5.00% | ~30,307 |
 | Going Down | 4.00% | ~24,245 |
 | Family First | 4.00% | ~24,245 |
 | Your World, Your Rules | 4.00% | ~24,245 |
@@ -36,11 +36,11 @@ Number of Ratings: 7,305  (23.09.2022)
 | Slowpoke! | 4.00% | ~24,245 |
 | Tickets, Please! | 3.00% | ~18,184 |
 | You're Going Down! | 3.00% | ~18,184 |
-| Municipal Services | 2.00% | ~12,122 |
-| Ban Hammer | 2.00% | ~12,122 |
-| Parkour Master | 2.00% | ~12,122 |
-| Combat Master | 2.00% | ~12,122 |
-| Modder | 2.00% | ~12,122 |
+| Municipal Services | 2.00% | ~12,123 |
+| Ban Hammer | 2.00% | ~12,123 |
+| Parkour Master | 2.00% | ~12,123 |
+| Combat Master | 2.00% | ~12,123 |
+| Modder | 2.00% | ~12,123 |
 | Tube Map | 1.00% | ~6,061 |
 | Don Quixote | 1.00% | ~6,061 |
 | Can't You Read the Signs? | 1.00% | ~6,061 |
@@ -58,7 +58,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | My Friend, Ciro | 0.70% | ~1,761 |
 | Skullcrusher | 0.70% | ~1,761 |
 | Tanning Salon | 0.60% | ~3,637 |
-| Lightning Reflexes | 0.40% | ~2,424 |
+| Lightning Reflexes | 0.40% | ~2,425 |
 | A Friend in Need... | 0.30% | ~1,818 |
 | Man On a Mission | 0.30% | ~1,818 |
 | Ultramarathon | 0.20% | ~1,212 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~252 |
 | Connoisseur | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 606,123 (Ranked 26)  
+Progressed: 606,133 (Ranked 26)  
 Completed: 61 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 61 (0.01%) (Ranked 234)
 | 2023-07-30 | 604,775 | 61 |
 | 2023-07-31 | 605,376 | 61 |
 | 2023-08-01 | 606,007 | 61 |
-| 2023-08-02 | 606,123 | 61 |
+| 2023-08-02 | 606,133 | 61 |
 ## Awards
 Max (Character Customization): 8,636  (Ranked 39)  
 Sum: 20,617 (Ranked 54)  

@@ -6,18 +6,18 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,712 |
-| Beast Intentions | 3.00% | ~6,534 |
+| A Brief Tour of the Realms | 4.00% | ~8,713 |
+| Beast Intentions | 3.00% | ~6,535 |
 | Maddening | 2.00% | ~4,356 |
 | The Silken Swamp | 1.00% | ~2,178 |
 | Supply Run | 1.00% | ~2,178 |
 | Rocky Reception | 1.00% | ~1,841 |
 | Rock and Roll | 1.00% | ~1,841 |
 | Vecna Lives! | 0.90% | ~1,657 |
+| Tall Tales | 0.80% | ~1,473 |
 | Vecna Loots! | 0.80% | ~1,473 |
 | Flight of the Kindori Pod | 0.80% | ~1,473 |
 | Topolah's Tower | 0.80% | ~1,473 |
-| Tall Tales | 0.70% | ~1,289 |
 | Seeds of Destruction | 0.70% | ~1,289 |
 | Return to the Tomb | 0.70% | ~1,289 |
 | Pros and CONs | 0.60% | ~1,307 |
@@ -108,6 +108,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.30% | ~653 |
 | Attack on the Manor | 0.30% | ~653 |
 | The Death Curse | 0.30% | ~653 |
+| Nimble Escape | 0.30% | ~653 |
 | Are Ya Chicken? | 0.30% | ~653 |
 | Useless Allies | 0.30% | ~653 |
 | Premature Betrayal | 0.30% | ~653 |
@@ -116,6 +117,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.30% | ~653 |
 | Flying Monkey Skulls of Doom | 0.30% | ~653 |
 | The Darkness Runs Deeper | 0.30% | ~653 |
+| Difficult Terrain | 0.30% | ~653 |
 | The Contagious Curse | 0.30% | ~653 |
 | Dinosaur Racing | 0.30% | ~653 |
 | Escort to Waterdeep | 0.30% | ~653 |
@@ -183,7 +185,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Resolve | 0.20% | ~436 |
 | Flies on the Wall | 0.20% | ~436 |
 | Backtracking Through Barovia | 0.20% | ~436 |
-| Nimble Escape | 0.20% | ~436 |
 | Fugitives | 0.20% | ~436 |
 | Excavating History | 0.20% | ~436 |
 | Towering Expectations | 0.20% | ~436 |
@@ -193,7 +194,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lair of the Xanathar | 0.20% | ~436 |
 | Waterdeep Under Siege | 0.20% | ~436 |
 | Crowded Streets | 0.20% | ~436 |
-| Difficult Terrain | 0.20% | ~436 |
 | Vault of Dragons | 0.20% | ~436 |
 | Champions of Waterdeep | 0.20% | ~436 |
 | Elturel Has Fallen | 0.20% | ~436 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,810 (Ranked 53)  
+Progressed: 217,818 (Ranked 53)  
 Completed: 2,142 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -623,7 +623,7 @@ Completed: 2,142 (0.98%) (Ranked 112)
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
-| 2023-08-02 | 217,810 | 2,142 |
+| 2023-08-02 | 217,818 | 2,142 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
 Sum: 30,851 (Ranked 38)  

@@ -5,28 +5,28 @@ Rating: 4.59 (Ranked 412)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~4,992 |
-| Mainframe Hacker | 23.00% | ~3,827 |
-| The Spy who eliminated me | 23.00% | ~3,827 |
-| Tomorrow Never Dyes | 22.00% | ~3,661 |
-| Never Say Loser Again | 19.00% | ~3,162 |
-| From the Vault with Love | 18.00% | ~2,995 |
-| Tailor-Made | 18.00% | ~2,995 |
-| For your Eyes only | 18.00% | ~2,995 |
-| Assistant Accountant | 17.00% | ~2,829 |
-| Fully Decked Out | 17.00% | ~2,829 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~4,994 |
+| Mainframe Hacker | 23.00% | ~3,829 |
+| The Spy who eliminated me | 23.00% | ~3,829 |
+| Tomorrow Never Dyes | 22.00% | ~3,662 |
+| Never Say Loser Again | 19.00% | ~3,163 |
+| From the Vault with Love | 18.00% | ~2,996 |
+| Tailor-Made | 18.00% | ~2,996 |
+| For your Eyes only | 18.00% | ~2,996 |
+| Assistant Accountant | 17.00% | ~2,830 |
+| Fully Decked Out | 17.00% | ~2,830 |
 | You Only Live Twice | 16.00% | ~2,663 |
-| A view to Win | 13.00% | ~2,163 |
-| The Living Portrait | 12.00% | ~1,997 |
-| Private Collection | 12.00% | ~1,997 |
-| Killer Looks | 12.00% | ~1,997 |
-| Hostile Takeover | 12.00% | ~1,997 |
-| Smells Like Trouble | 12.00% | ~1,997 |
+| A view to Win | 13.00% | ~2,164 |
+| The Living Portrait | 12.00% | ~1,998 |
+| Private Collection | 12.00% | ~1,998 |
+| Killer Looks | 12.00% | ~1,998 |
+| Hostile Takeover | 12.00% | ~1,998 |
+| Smells Like Trouble | 12.00% | ~1,998 |
 | Keycards Royale | 11.00% | ~1,831 |
 | Dr. No Kill | 11.00% | ~1,831 |
 | My Motto, My Creed | 11.00% | ~1,831 |
-| In It to Win It | 10.00% | ~1,664 |
-| Security Supervisor | 6.00% | ~998 |
+| In It to Win It | 10.00% | ~1,665 |
+| Security Supervisor | 6.00% | ~999 |
 | License to Thrill | 5.00% | ~832 |
 | Social of Solace | 4.00% | ~666 |
 | Live and let lie | 3.00% | ~499 |
@@ -42,7 +42,7 @@ Rating: 4.59 (Ranked 412)
 | Extraction Confusion | 0.20% | ~33 |
 | Spyfall | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,641 (Ranked 110)  
+Progressed: 16,646 (Ranked 110)  
 Completed: 1 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 1 (0.01%) (Ranked 234)
 | 2023-07-30 | 15,832 | 1 |
 | 2023-07-31 | 16,437 | 1 |
 | 2023-08-01 | 16,594 | 1 |
-| 2023-08-02 | 16,641 | 1 |
+| 2023-08-02 | 16,646 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

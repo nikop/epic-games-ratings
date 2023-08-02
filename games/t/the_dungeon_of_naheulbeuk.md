@@ -6,21 +6,21 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~120,744 |
-| Where's that freaking Dwarf? | 47.00% | ~96,186 |
-| GG EZ | 28.00% | ~57,302 |
-| Speedrun | 26.00% | ~53,209 |
-| Déjà vu | 21.00% | ~42,977 |
-| Sock! SOCK! | 17.00% | ~34,791 |
-| DM intervention | 13.00% | ~26,605 |
-| Fireproof Wizardess | 10.00% | ~20,465 |
-| Livin' in a dwarven paradise | 8.00% | ~16,372 |
-| A beer, two curses, three companions | 8.00% | ~16,372 |
-| Way of the Wimp | 7.00% | ~14,326 |
+| Alt+F4 | 59.00% | ~120,753 |
+| Where's that freaking Dwarf? | 47.00% | ~96,193 |
+| GG EZ | 28.00% | ~57,306 |
+| Speedrun | 26.00% | ~53,213 |
+| Déjà vu | 21.00% | ~42,980 |
+| Sock! SOCK! | 17.00% | ~34,793 |
+| DM intervention | 13.00% | ~26,607 |
+| Fireproof Wizardess | 10.00% | ~20,467 |
+| Livin' in a dwarven paradise | 8.00% | ~16,373 |
+| A beer, two curses, three companions | 8.00% | ~16,373 |
+| Way of the Wimp | 7.00% | ~14,327 |
 | The plot thickens... At the tavern | 5.00% | ~10,233 |
-| The Woman in the High Castle | 4.00% | ~8,186 |
-| I am the night | 4.00% | ~8,186 |
-| Team Building Exercise | 4.00% | ~8,186 |
+| The Woman in the High Castle | 4.00% | ~8,187 |
+| I am the night | 4.00% | ~8,187 |
+| Team Building Exercise | 4.00% | ~8,187 |
 | Shiny and Crôm | 3.00% | ~6,140 |
 | The demons' feast | 3.00% | ~6,140 |
 | Res Judicata | 3.00% | ~6,140 |
@@ -56,11 +56,11 @@ Number of Ratings: 118  (23.09.2022)
 | We come in peace | 0.30% | ~614 |
 | Cursed die | 0.20% | ~409 |
 | The Blood Countess | 0.20% | ~409 |
+| He’s alive! Aliiiive! | 0.20% | ~409 |
 | Super-Ultra-Lydian | 0.20% | ~409 |
 | Inception | 0.20% | ~409 |
 | Demisemiquaver | 0.20% | ~409 |
 | Necrophilia | 0.10% | ~205 |
-| He’s alive! Aliiiive! | 0.10% | ~205 |
 | Restless night | 0.10% | ~205 |
 | King of the Arena | 0.10% | ~205 |
 | Finally free | 0.10% | ~205 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,651 (Ranked 55)  
+Progressed: 204,666 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 203,178 | 0 |
 | 2023-07-31 | 203,882 | 0 |
 | 2023-08-01 | 204,538 | 0 |
-| 2023-08-02 | 204,651 | 0 |
+| 2023-08-02 | 204,666 | 0 |
 ## Awards
 Max (Character Customization): 146  (Ranked 298)  
 Sum: 146 (Ranked 393)  

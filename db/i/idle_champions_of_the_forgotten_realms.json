@@ -5476,9 +5476,9 @@
       "Count": 3337
     }
   ],
-  "EOS_Progressed": 217810,
+  "EOS_Progressed": 217818,
   "EOS_Completed": 2142,
-  "EOS_NewPlayers": 2212,
+  "EOS_NewPlayers": 2198,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16646,6 +16646,11 @@
       "Time": "2023-08-02T06:05:24.7077255+00:00",
       "NumProgressed": 217810,
       "NumCompleted": 2142
+    },
+    {
+      "Time": "2023-08-02T07:05:13.3203357+00:00",
+      "NumProgressed": 217818,
+      "NumCompleted": 2142
     }
   ],
   "TotalAchievements": 512,
@@ -16657,7 +16662,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8712
+      "UsersEstimate": 8713
     },
     {
       "ID": "objective_completed_10",
@@ -16727,9 +16732,9 @@
       "ID": "objective_completed_1050",
       "SetID": "415jc5c",
       "Name": "Tall Tales",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1473
     },
     {
       "ID": "objective_completed_1051",
@@ -17025,7 +17030,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6534
+      "UsersEstimate": 6535
     },
     {
       "ID": "objective_completed_110",
@@ -18503,9 +18508,9 @@
       "ID": "objective_completed_398",
       "SetID": "cc37lbc",
       "Name": "Nimble Escape",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 653
     },
     {
       "ID": "objective_completed_399",
@@ -19047,9 +19052,9 @@
       "ID": "objective_completed_575",
       "SetID": "cc37lbc",
       "Name": "Difficult Terrain",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 653
     },
     {
       "ID": "objective_completed_576",
@@ -20752,21 +20757,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184084,
+      "Progressed": 184092,
       "Completed": 3049
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217810,
+      "Progressed": 217818,
       "Completed": 2142
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-02T03:58:35.4853317+00:00",
-  "LastChanged_Achievements": "2023-08-02T06:05:24.7077249+00:00",
+  "LastChanged_Achievements": "2023-08-02T07:05:13.3203349+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-02T05:59:24.0444246+00:00",
-  "LastUpdate_Achievements": "2023-08-02T06:05:24.710956+00:00"
+  "LastUpdate_Ratings": "2023-08-02T06:59:29.0202675+00:00",
+  "LastUpdate_Achievements": "2023-08-02T07:05:13.3234766+00:00"
 }

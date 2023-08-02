@@ -2,7 +2,7 @@
   "ID": "c38e2ec7b154418a8249614077b3ad5e",
   "Name": "Desert Child",
   "ProductSlug": "desert-child-be4072",
-  "Ranking_EOS_Progress": 521,
+  "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 104,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:22.6453401+00:00",
   "LastChanged": "2023-03-31T05:58:22.6453402+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:36.0826154+00:00",
-  "LastUpdate_Ratings": "2023-08-02T05:58:49.3047301+00:00",
-  "LastUpdate_Achievements": "2023-08-02T06:02:41.4283762+00:00"
+  "LastUpdate_Ratings": "2023-08-02T06:58:50.9929309+00:00",
+  "LastUpdate_Achievements": "2023-08-02T07:02:49.5947161+00:00"
 }
