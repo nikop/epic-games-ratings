@@ -20,6 +20,7 @@
 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 2023-12-31 | - |  | - | - |
 | [World Eternal Online](games/w/world_eternal_online.md) | 2023-12-31 | - |  | - | - |
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | - |  | - | - |
+| [Polker](games/1/1c380e2b8e7b4c2ea0643aff249fb7f1.md) | 2023-09-29 | - |  | - | - |
 | [canVERSE](games/c/canverse.md) | 2023-08-02 | - |  | - | - |
 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-08-02 | - |  | - | - |
 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 2023-07-24 | - |  | - | 0 |

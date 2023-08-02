@@ -1,7 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Oceanhorn 2 - Knights of the Lost Realm](games/e/ec8ec4b13e6043cab8d1cbd0edda9a70.md) | 2023-08-02 | - |  | - | - |
-| [Virus Infinite](games/0/0f0415b3318747949c6d444dc2edd27d.md) | 2023-08-02 | - |  | - | - |
 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 2023-08-02 | 34 (1,000 XP) | 0 | - | - |
 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 2023-08-02 | - |  | - | - |
 | [Estar Fiel](games/a/a3495aaa160141de8520582a9ca5c7f4.md) | 2023-08-02 | - |  | - | - |
@@ -32,8 +30,9 @@
 | [Interceptor](games/i/interceptor.md) | 2023-08-31 | - |  | - | - |
 | [SPRAWL](games/6/646aa9a788d44357b46de3f75335d3d3.md) | 2023-08-31 | - |  | - | - |
 | [Tenebris Pictura](games/6/6c5d913b71db4831801990b59d15e74a.md) | 2023-08-31 | - |  | - | - |
+| [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 2023-08-31 | - |  | - | - |
 | [Sunlight Scream](games/f/f1d0d2bf90c0444684c26bb6190cc74f.md) | 2023-09-01 | - |  | - | - |
-| [Chants of Sennaar](games/c/chants_of_sennaar.md) | 2023-09-05 | 25 (1,000 XP) | 35 | - | - |
+| [Chants of Sennaar](games/c/chants_of_sennaar.md) | 2023-09-05 | 25 (1,000 XP) | 36 | - | - |
 | [The Many Pieces of Mr. Coo](games/t/the_many_pieces_of_mr._coo.md) | 2023-09-06 | - |  | - | - |
 | [Fae Farm Pre-Purchase](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | - |  | - | - |
 | [Dirty Wars: September 11](games/a/a3df291e5482464898a00f1ed892605f.md) | 2023-09-11 | - |  | - | - |
@@ -46,6 +45,7 @@
 | [Eternights](games/e/eternights.md) | 2023-09-21 | - |  | - | - |
 | [PAYDAY 3 Pre Purchase](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 2023-09-21 | - |  | - | - |
 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | - |  | - | - |
+| [Polker](games/1/1c380e2b8e7b4c2ea0643aff249fb7f1.md) | 2023-09-29 | - |  | - | - |
 | [Agatha Christie - Murder on the Orient Express](games/b/b1c68be50f37489ca95ff2b7ed616490.md) | 2023-09-30 | - |  | - | - |
 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 2023-09-30 | - |  | - | - |
 | [ART IS RIFLE](games/4/4b7032faef9f4152afeac58dfe13c3f2.md) | 2023-09-30 | - |  | - | - |
@@ -411,7 +411,7 @@
 | [Yakuza Empire](games/y/yakuza_empire.md) | 2099-01-02 | - |  | - | - |
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 3,050 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 3,051 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |
 | [Hades II](games/h/hades_ii.md) | 2099-02-01 | - |  | - | - |
@@ -429,7 +429,6 @@
 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2099-02-01 | - |  | - | - |
 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2099-03-09 | - |  | - | - |
 | [Blazing Sails](games/b/blazing_sails.md) | 2099-04-06 | - |  | - | - |
-| [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 2099-04-12 | - |  | - | - |
 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2099-06-08 | - |  | 4.10 | 2,481 |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | 2099-06-26 | - |  | - | - |
 | [Matchpoint - Tennis Championships](games/m/matchpoint_-_tennis_championships.md) | 2099-07-07 | - |  | - | 0 |
