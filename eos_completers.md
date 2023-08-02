@@ -35,9 +35,9 @@
 | 33 | [Ravenlok](games/r/ravenlok.md) | 7.35% |
 | 34 | [Scorn](games/s/scorn.md) | 6.99% |
 | 35 | [Time Loader](games/t/time_loader.md) | 6.96% |
-| 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.93% |
+| 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
 | 37 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.86% |
-| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.73% |
+| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.69% |
 | 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.36% |
 | 40 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 41 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.12% |
@@ -70,7 +70,7 @@
 | 68 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.89% |
 | 69 | [HordeCore](games/h/hordecore.md) | 2.87% |
 | 70 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.86% |
-| 70 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.86% |
+| 71 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.83% |
 | 72 | [Destiny 2](games/d/destiny_2.md) | 2.76% |
 | 73 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 74 | [The Bunker](games/t/the_bunker.md) | 2.70% |
@@ -84,7 +84,7 @@
 | 82 | [FORECLOSED](games/f/foreclosed.md) | 2.27% |
 | 83 | [Bloodshore](games/b/bloodshore.md) | 2.26% |
 | 84 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.06% |
-| 85 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.02% |
+| 85 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.00% |
 | 86 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 87 | [Night Book](games/n/night_book.md) | 1.90% |
 | 88 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
@@ -129,10 +129,10 @@
 | 127 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.59% |
 | 127 | [Potion Permit](games/p/potion_permit.md) | 0.59% |
 | 129 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.57% |
-| 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.57% |
-| 131 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.56% |
-| 131 | [Grindstone](games/g/grindstone.md) | 0.56% |
-| 131 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.56% |
+| 130 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.56% |
+| 130 | [Grindstone](games/g/grindstone.md) | 0.56% |
+| 130 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.56% |
+| 130 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.56% |
 | 134 | [Godlike Burger](games/g/godlike_burger.md) | 0.54% |
 | 135 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 135 | [The Surge 2](games/t/the_surge_2.md) | 0.52% |
