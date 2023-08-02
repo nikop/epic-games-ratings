@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,944 |
-| That's a Grand Army | 8.00% | ~6,172 |
-| That is mine! | 8.00% | ~6,172 |
-| Victorious! | 8.00% | ~6,172 |
-| Brothers in Arms | 6.00% | ~4,629 |
-| That's a Grand Navy | 6.00% | ~4,629 |
-| Seriously?! | 6.00% | ~4,629 |
-| For the Glory | 5.00% | ~3,858 |
-| Cold War | 4.00% | ~3,086 |
-| True Catholic | 4.00% | ~3,086 |
+| Until death do us apart | 9.00% | ~6,946 |
+| That's a Grand Army | 8.00% | ~6,174 |
+| That is mine! | 8.00% | ~6,174 |
+| Victorious! | 8.00% | ~6,174 |
+| Brothers in Arms | 6.00% | ~4,630 |
+| That's a Grand Navy | 6.00% | ~4,630 |
+| Seriously?! | 6.00% | ~4,630 |
+| For the Glory | 5.00% | ~3,859 |
+| Cold War | 4.00% | ~3,087 |
+| True Catholic | 4.00% | ~3,087 |
 | Defender of the Faith | 3.00% | ~2,315 |
 | It's all about luck | 3.00% | ~2,315 |
 | It's all about the money | 3.00% | ~2,315 |
@@ -40,10 +40,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~772 |
 | The Five Colonies | 1.00% | ~772 |
 | This navy can take it all | 1.00% | ~772 |
-| Down Under | 0.90% | ~694 |
-| Isn't this the way to India? | 0.90% | ~694 |
-| Market Control | 0.90% | ~694 |
-| Trustworthy | 0.90% | ~694 |
+| Down Under | 0.90% | ~695 |
+| Isn't this the way to India? | 0.90% | ~695 |
+| Market Control | 0.90% | ~695 |
+| Trustworthy | 0.90% | ~695 |
 | Electable! | 0.70% | ~540 |
 | Populists in Government | 0.70% | ~540 |
 | All belongs to Mother Russia | 0.60% | ~463 |
@@ -72,18 +72,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Continuation of Diplomacy | 0.40% | ~309 |
 | Traditional Player | 0.40% | ~309 |
 | Wonderful | 0.40% | ~309 |
-| A Decent Reserve | 0.30% | ~231 |
-| A Pile of Gold | 0.30% | ~231 |
-| A Fine Goosestep | 0.30% | ~231 |
-| Grand Duchy | 0.30% | ~231 |
-| Magellan’s Voyage | 0.30% | ~231 |
-| Multiculturalism | 0.30% | ~231 |
-| No Pirates in my Caribbean | 0.30% | ~231 |
-| Not so sad a state... | 0.30% | ~231 |
-| The Chrysanthemum Throne | 0.30% | ~231 |
-| Three Trivial Tributary Tribes | 0.30% | ~231 |
-| Vasa or Wettin? | 0.30% | ~231 |
-| World Discoverer | 0.30% | ~231 |
+| A Decent Reserve | 0.30% | ~232 |
+| A Pile of Gold | 0.30% | ~232 |
+| A Fine Goosestep | 0.30% | ~232 |
+| Grand Duchy | 0.30% | ~232 |
+| Magellan’s Voyage | 0.30% | ~232 |
+| Multiculturalism | 0.30% | ~232 |
+| No Pirates in my Caribbean | 0.30% | ~232 |
+| Not so sad a state... | 0.30% | ~232 |
+| The Chrysanthemum Throne | 0.30% | ~232 |
+| Three Trivial Tributary Tribes | 0.30% | ~232 |
+| Vasa or Wettin? | 0.30% | ~232 |
+| World Discoverer | 0.30% | ~232 |
 | A Protected Market | 0.20% | ~154 |
 | AAA Credit | 0.20% | ~154 |
 | An early Reich | 0.20% | ~154 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,151 (Ranked 76)  
+Progressed: 77,174 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -465,10 +465,10 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 76,185 | 0 |
 | 2023-07-31 | 76,579 | 0 |
 | 2023-08-01 | 77,006 | 0 |
-| 2023-08-02 | 77,151 | 0 |
+| 2023-08-02 | 77,174 | 0 |
 ## Awards
 Max (Educational): 5,603  (Ranked 61)  
-Sum: 46,242 (Ranked 26)  
+Sum: 46,247 (Ranked 26)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
@@ -477,7 +477,7 @@ Diff (max vs sum): 35
 | This game has Challenging Combat | 5,318 |
 | This game is Extremely Fun | 5,313 |
 | This game has Diverse Characters | 5,279 |
-| This game is Relaxing | 5,178 |
+| This game is Relaxing | 5,183 |
 | This game has Competitive Players | 5,047 |
 | This game has Amazing Storytelling | 4,743 |
 | This game has Amazing Characters | 4,388 |
@@ -682,4 +682,4 @@ Diff (max vs sum): 35
 | 2023-07-30 | 4.69 | - | 5,597 | 46,167 |
 | 2023-07-31 | 4.69 | - | 5,599 | 46,208 |
 | 2023-08-01 | 4.69 | - | 5,603 | 46,238 |
-| 2023-08-02 | 4.69 | - | 5,603 | 46,242 |
+| 2023-08-02 | 4.69 | - | 5,603 | 46,247 |

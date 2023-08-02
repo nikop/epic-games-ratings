@@ -4,8 +4,8 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3001,
+  "EOS_Progressed": 3002,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 3.67,
+  "EOS_Completed_Percentage": 3.66,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -3636,6 +3636,11 @@
       "Time": "2023-08-02T12:03:29.2129145+00:00",
       "NumProgressed": 3001,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-08-02T13:08:26.5440184+00:00",
+      "NumProgressed": 3002,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 5,
@@ -3647,7 +3652,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3001
+      "UsersEstimate": 3002
     },
     {
       "ID": "2",
@@ -3686,7 +3691,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3001,
+      "Progressed": 3002,
       "Completed": 110
     }
   ],
@@ -3694,8 +3699,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-08-02T12:03:29.2129141+00:00",
+  "LastChanged_Achievements": "2023-08-02T13:08:26.5440177+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.3360651+00:00",
-  "LastUpdate_Ratings": "2023-08-02T11:59:54.8278442+00:00",
-  "LastUpdate_Achievements": "2023-08-02T12:03:29.2129508+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:04:59.9814495+00:00",
+  "LastUpdate_Achievements": "2023-08-02T13:08:26.5440459+00:00"
 }

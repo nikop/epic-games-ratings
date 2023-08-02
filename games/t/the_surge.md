@@ -6,10 +6,10 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,287 |
-| I'll Be Back | 85.00% | ~3,877 |
-| Sorry, I Dropped This | 77.00% | ~3,512 |
-| First Day on the Job | 76.00% | ~3,466 |
+| On My Own Two Feet | 94.00% | ~4,288 |
+| I'll Be Back | 85.00% | ~3,878 |
+| Sorry, I Dropped This | 77.00% | ~3,513 |
+| First Day on the Job | 77.00% | ~3,513 |
 | Butcher's Bill | 55.00% | ~2,509 |
 | P.A.X | 37.00% | ~1,688 |
 | Hey Listen | 37.00% | ~1,688 |
@@ -20,7 +20,7 @@ Number of Ratings: 62  (23.09.2022)
 | GOLIATH | 21.00% | ~958 |
 | Firebug | 20.00% | ~912 |
 | Nothing to Lose | 18.00% | ~821 |
-| I Choose You | 17.00% | ~775 |
+| I Choose You | 17.00% | ~776 |
 | Big Sister | 15.00% | ~684 |
 | Gear Up | 15.00% | ~684 |
 | SENTINEL | 15.00% | ~684 |
@@ -31,10 +31,10 @@ Number of Ratings: 62  (23.09.2022)
 | Who's in Charge Here? | 11.00% | ~502 |
 | Shall Not Pass | 11.00% | ~502 |
 | Right Tool for the Job | 10.00% | ~456 |
-| Melting Down | 9.00% | ~410 |
-| Raging Drones | 9.00% | ~410 |
-| Overconfident | 9.00% | ~410 |
-| Is This Real Life? | 9.00% | ~410 |
+| Melting Down | 9.00% | ~411 |
+| Raging Drones | 9.00% | ~411 |
+| Overconfident | 9.00% | ~411 |
+| Is This Real Life? | 9.00% | ~411 |
 | Pusher Man | 8.00% | ~365 |
 | Squad Chief Helvig | 8.00% | ~365 |
 | No More Marching | 8.00% | ~365 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~27 |
 | The Surge | 0.40% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,561 (Ranked 143)  
+Progressed: 4,562 (Ranked 143)  
 Completed: 16 (0.35%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 16 (0.35%) (Ranked 152)
 | 2023-07-30 | 4,546 | 15 |
 | 2023-07-31 | 4,551 | 15 |
 | 2023-08-01 | 4,558 | 16 |
-| 2023-08-02 | 4,561 | 16 |
+| 2023-08-02 | 4,562 | 16 |
 ## Awards
 Max (Great Boss Battles): 27  (Ranked 469)  
 Sum: 27 (Ranked 479)  

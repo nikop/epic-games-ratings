@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 365,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -27,9 +27,427 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
+  "TotalAchievements": 52,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "a_new_way",
+      "SetID": "f2im8d",
+      "Name": "A new way",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "another_perspective",
+      "SetID": "f2im8d",
+      "Name": "Another perspective",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "assemble_puzzles",
+      "SetID": "f2im8d",
+      "Name": "The Big Picture",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "breaking_free",
+      "SetID": "f2im8d",
+      "Name": "Breaking free",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "casting_finished",
+      "SetID": "f2im8d",
+      "Name": "Casting Finished",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "collect_items_mother",
+      "SetID": "f2im8d",
+      "Name": "Something to think about",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "collect_most_of_memories",
+      "SetID": "f2im8d",
+      "Name": "I remember It Like Was Yesterday",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "collect_most_of_myths",
+      "SetID": "f2im8d",
+      "Name": "We Are Not Alone",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "collect_most_of_posters",
+      "SetID": "f2im8d",
+      "Name": "Body of Work",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "collect_notes_mother",
+      "SetID": "f2im8d",
+      "Name": "Dark correspondence",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "covered_up_for_a_reason",
+      "SetID": "f2im8d",
+      "Name": "It\u0027s covered up for a reason",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "decrypt_one_myth",
+      "SetID": "f2im8d",
+      "Name": "You Can\u2019t Handle the Truth",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "dial_911",
+      "SetID": "f2im8d",
+      "Name": "It was worth a try",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "do_not_look",
+      "SetID": "f2im8d",
+      "Name": "Refuse to look",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "do_what_you_have_to",
+      "SetID": "f2im8d",
+      "Name": "Do what you have to",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "earn_all_trophies",
+      "SetID": "f2im8d",
+      "Name": "The whole story",
+      "Percentage": 0,
+      "XP": 125,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "face_your_fears",
+      "SetID": "f2im8d",
+      "Name": "Face your fears",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "find_most_of_family_mementos",
+      "SetID": "f2im8d",
+      "Name": "Immortalized in my heart",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "find_most_of_rat_sketches",
+      "SetID": "f2im8d",
+      "Name": "You might have a problem",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "find_one_memento",
+      "SetID": "f2im8d",
+      "Name": "Scraps of love",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "find_one_photo",
+      "SetID": "f2im8d",
+      "Name": "A Slice of Life",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "find_one_poster",
+      "SetID": "f2im8d",
+      "Name": "Debut",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "find_one_rat_sketch",
+      "SetID": "f2im8d",
+      "Name": "The artist\u2019s impression",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "finished_it",
+      "SetID": "f2im8d",
+      "Name": "Finished it",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "first_step",
+      "SetID": "f2im8d",
+      "Name": "First steps",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "hear_most_of_interviews",
+      "SetID": "f2im8d",
+      "Name": "Full Scoop",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "hear_one_interview",
+      "SetID": "f2im8d",
+      "Name": "Sound Bite",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "heavy_burden",
+      "SetID": "f2im8d",
+      "Name": "Heavy Burden",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "in_one_take",
+      "SetID": "f2im8d",
+      "Name": "In One Take",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "inheritance",
+      "SetID": "f2im8d",
+      "Name": "Inheritance",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "letting_go",
+      "SetID": "f2im8d",
+      "Name": "Letting go",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "lights_camera_action",
+      "SetID": "f2im8d",
+      "Name": "Lights! Camera! Action!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "once_upon_a_time",
+      "SetID": "f2im8d",
+      "Name": "Once Upon a Time",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "perfect_storm",
+      "SetID": "f2im8d",
+      "Name": "The Perfect Storm",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "piece_of_story",
+      "SetID": "f2im8d",
+      "Name": "A piece of the story",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "playtime",
+      "SetID": "f2im8d",
+      "Name": "Playtime",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "preferred_parent",
+      "SetID": "f2im8d",
+      "Name": "Preferred Parent",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "rocket_science",
+      "SetID": "f2im8d",
+      "Name": "Rocket Science",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "save_all_rats",
+      "SetID": "f2im8d",
+      "Name": "Se7en Seas",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "secret_ending",
+      "SetID": "f2im8d",
+      "Name": "The Tree and the Apple",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "self_preservation",
+      "SetID": "f2im8d",
+      "Name": "Instinct of self-preservation",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "sign_of_weakness",
+      "SetID": "f2im8d",
+      "Name": "Sign of weakness",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "something_important",
+      "SetID": "f2im8d",
+      "Name": "Something important",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "spy_one_item",
+      "SetID": "f2im8d",
+      "Name": "Fisherman",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "sword_of_the_serpent",
+      "SetID": "f2im8d",
+      "Name": "Sword of the Serpent",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "the_art_of_movement",
+      "SetID": "f2im8d",
+      "Name": "The art of movement",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "the_tragedy_unfolds",
+      "SetID": "f2im8d",
+      "Name": "The tragedy unfolds",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "tough_conversation",
+      "SetID": "f2im8d",
+      "Name": "Tough conversation",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "true_reflection",
+      "SetID": "f2im8d",
+      "Name": "True Reflection",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "view_most_of_photos",
+      "SetID": "f2im8d",
+      "Name": "A Mosaic of Misery",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "wanderer",
+      "SetID": "f2im8d",
+      "Name": "Wanderer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "whispers_long_forgotten",
+      "SetID": "f2im8d",
+      "Name": "Whispers long forgotten",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "f2im8d",
@@ -40,8 +458,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-08-02T12:06:51.4467639+00:00",
+  "LastChanged_Achievements": "2023-08-02T13:11:20.3046872+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:43.8883361+00:00",
-  "LastUpdate_Ratings": "2023-08-02T12:00:46.4658184+00:00",
-  "LastUpdate_Achievements": "2023-08-02T12:06:51.4467679+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:05:31.9410966+00:00",
+  "LastUpdate_Achievements": "2023-08-02T13:11:20.3449964+00:00"
 }

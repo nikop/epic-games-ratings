@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1107,
+  "EOS_Progressed": 1108,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2003,6 +2003,11 @@
       "Time": "2023-08-01T20:04:06.7842886+00:00",
       "NumProgressed": 1107,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T13:10:05.3094166+00:00",
+      "NumProgressed": 1108,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2070,7 +2075,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "EXPERT_1",
@@ -2108,9 +2113,9 @@
       "ID": "HEAD_BURST_1",
       "SetID": "bf13m8j",
       "Name": "Head Burst",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 211
     },
     {
       "ID": "INDY_1",
@@ -2166,7 +2171,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -2198,7 +2203,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -2276,9 +2281,9 @@
       "ID": "VVE",
       "SetID": "bf13m8j",
       "Name": "The Vitinsky Rifle",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 66
     },
     {
       "ID": "WANDERER_1",
@@ -2286,7 +2291,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "WISHMASTER_1",
@@ -2301,15 +2306,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1107,
+      "Progressed": 1108,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-08-02T12:04:53.5848239+00:00",
+  "LastChanged_Achievements": "2023-08-02T13:10:05.3094157+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:04.0177394+00:00",
-  "LastUpdate_Ratings": "2023-08-02T12:02:26.2157999+00:00",
-  "LastUpdate_Achievements": "2023-08-02T12:04:53.5848782+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:06:42.5683564+00:00",
+  "LastUpdate_Achievements": "2023-08-02T13:10:05.3094549+00:00"
 }

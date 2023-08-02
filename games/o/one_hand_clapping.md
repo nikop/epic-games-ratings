@@ -33,7 +33,7 @@
 | Dissonance | 0.00% | ~0 |
 | Tritone | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 785 (Ranked 204)  
+Progressed: 786 (Ranked 204)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-28 | 780 | 0 |
 | 2023-07-29 | 783 | 0 |
 | 2023-07-31 | 784 | 0 |
-| 2023-08-02 | 785 | 0 |
+| 2023-08-02 | 786 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

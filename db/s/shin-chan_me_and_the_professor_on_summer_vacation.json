@@ -313,9 +313,9 @@
       "ID": "Trophy_28",
       "SetID": "cf5h6dl",
       "Name": "Greengrocer",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Trophy_29",
@@ -433,9 +433,9 @@
       "ID": "Trophy_43",
       "SetID": "cf5h6dl",
       "Name": "River Cleaner",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Trophy_44",
@@ -474,8 +474,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-08-02T12:05:02.5813402+00:00",
+  "LastChanged_Achievements": "2023-08-02T13:10:11.6717086+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:10.124181+00:00",
-  "LastUpdate_Ratings": "2023-08-02T12:02:32.06399+00:00",
-  "LastUpdate_Achievements": "2023-08-02T12:05:02.5813794+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:06:47.8460101+00:00",
+  "LastUpdate_Achievements": "2023-08-02T13:10:11.6717493+00:00"
 }

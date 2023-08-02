@@ -642,7 +642,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3104,
+  "EOS_Progressed": 3105,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
@@ -2822,6 +2822,11 @@
       "Time": "2023-08-02T06:05:29.5122384+00:00",
       "NumProgressed": 3104,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T13:10:26.0490682+00:00",
+      "NumProgressed": 3105,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3087,9 +3092,9 @@
       "ID": "LargeGrimoireInventory",
       "SetID": "3jha1np",
       "Name": "Mind Like a Fortress",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "MasterCraftLevel3_Armour",
@@ -3376,21 +3381,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3104,
+      "Progressed": 3105,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3104,
+      "Progressed": 3105,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-30T00:00:03.0070741+00:00",
-  "LastChanged_Achievements": "2023-08-02T12:05:24.1338803+00:00",
+  "LastChanged_Achievements": "2023-08-02T13:10:26.0490673+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:36.2653351+00:00",
-  "LastUpdate_Ratings": "2023-08-02T12:00:31.8720301+00:00",
-  "LastUpdate_Achievements": "2023-08-02T12:05:24.1339602+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:05:23.1497047+00:00",
+  "LastUpdate_Achievements": "2023-08-02T13:10:26.0491487+00:00"
 }

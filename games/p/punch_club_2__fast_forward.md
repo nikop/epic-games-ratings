@@ -11,22 +11,22 @@
 | Your first job | 83.00% | ~173 |
 | Old movies enjoyer | 79.00% | ~164 |
 | First defeat | 78.00% | ~162 |
+| Fitness professional | 76.00% | ~158 |
 | Depressed visitor | 76.00% | ~158 |
-| Fitness professional | 75.00% | ~156 |
 | Employee of the week | 75.00% | ~156 |
 | Neurotrainer – power gainer! | 74.00% | ~154 |
 | Your own amateur gym | 73.00% | ~152 |
 | Run K, run! | 71.00% | ~148 |
+| No bullying more | 67.00% | ~139 |
 | Hello, world! | 67.00% | ~139 |
-| No bullying more | 66.00% | ~137 |
-| Fighting is cool | 65.00% | ~135 |
-| Pal of your father? | 62.00% | ~129 |
+| Fighting is cool | 66.00% | ~137 |
+| Pal of your father? | 63.00% | ~131 |
 | Employee of the month | 61.00% | ~127 |
 | Spirit of the past | 60.00% | ~125 |
 | Law student | 58.00% | ~121 |
 | Workout professional | 56.00% | ~116 |
+| Little hacker | 56.00% | ~116 |
 | Intriguing candies | 56.00% | ~116 |
-| Little hacker | 55.00% | ~114 |
 | Champion – starter pack | 54.00% | ~112 |
 | Own four walls | 54.00% | ~112 |
 | Handyman | 53.00% | ~110 |

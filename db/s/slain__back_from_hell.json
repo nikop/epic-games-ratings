@@ -205,7 +205,7 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 32311,
+  "EOS_Progressed": 32316,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 903,
   "EOS_NewCompleters": 0,
@@ -11485,6 +11485,11 @@
       "Time": "2023-08-02T12:05:40.782706+00:00",
       "NumProgressed": 32311,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-02T13:10:37.9354585+00:00",
+      "NumProgressed": 32316,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -11504,7 +11509,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6462
+      "UsersEstimate": 6463
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -11520,7 +11525,7 @@
       "Name": "Thorn in My Herbicide",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
@@ -11640,7 +11645,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -11664,7 +11669,7 @@
       "Name": "Schadenfreude",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -11727,7 +11732,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 32311,
+      "Progressed": 32316,
       "Completed": 20
     }
   ],
@@ -11735,8 +11740,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-01T20:00:57.6814566+00:00",
-  "LastChanged_Achievements": "2023-08-02T12:05:40.7827055+00:00",
+  "LastChanged_Achievements": "2023-08-02T13:10:37.9354578+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:53.1512382+00:00",
-  "LastUpdate_Ratings": "2023-08-02T12:02:15.6772186+00:00",
-  "LastUpdate_Achievements": "2023-08-02T12:05:40.7828135+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:06:34.4785128+00:00",
+  "LastUpdate_Achievements": "2023-08-02T13:10:37.9355628+00:00"
 }

@@ -20,6 +20,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 0.30% | ~401 |
 | Own the Means of Production | 0.30% | ~401 |
 | The Daily Grind | 0.20% | ~267 |
+| Ascended | 0.20% | ~267 |
 | Bounty Hunters | 0.20% | ~267 |
 | Fated Encounters | 0.20% | ~267 |
 | Blank Page Syndrome | 0.20% | ~267 |
@@ -40,7 +41,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cream of the Crop | 0.10% | ~134 |
 | Top of the World | 0.10% | ~134 |
 | Proud Paladin | 0.10% | ~134 |
-| Ascended | 0.10% | ~134 |
 | Above the Norm | 0.10% | ~134 |
 | Constellated | 0.10% | ~134 |
 | A Ronin Reborn | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,733 (Ranked 62)  
+Progressed: 133,740 (Ranked 62)  
 Completed: 125 (0.09%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 125 (0.09%) (Ranked 198)
 | 2023-07-30 | 133,588 | 124 |
 | 2023-07-31 | 133,652 | 124 |
 | 2023-08-01 | 133,708 | 125 |
-| 2023-08-02 | 133,733 | 125 |
+| 2023-08-02 | 133,740 | 125 |
 ## Awards
 Max (Great for Beginners): 4,682  (Ranked 70)  
 Sum: 27,025 (Ranked 46)  

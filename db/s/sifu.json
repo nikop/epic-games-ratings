@@ -5416,10 +5416,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10862,
       "NumberOfAwardsMax": 6327
+    },
+    {
+      "Time": "2023-08-02T13:05:40.1052759+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10863,
+      "NumberOfAwardsMax": 6327
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10862,
+  "NumberOfAwards": 10863,
   "NumberOfAwardsMax": 6327,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5481,7 +5487,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 477
+      "Count": 478
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5496,9 +5502,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 712043,
+  "EOS_Progressed": 712049,
   "EOS_Completed": 12838,
-  "EOS_NewPlayers": 523,
+  "EOS_NewPlayers": 525,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -15386,6 +15392,11 @@
       "Time": "2023-08-02T12:08:38.6130761+00:00",
       "NumProgressed": 712043,
       "NumCompleted": 12838
+    },
+    {
+      "Time": "2023-08-02T13:12:33.588794+00:00",
+      "NumProgressed": 712049,
+      "NumCompleted": 12838
     }
   ],
   "TotalAchievements": 50,
@@ -15741,7 +15752,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -15781,7 +15792,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -15796,21 +15807,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21344,
+      "Progressed": 21350,
       "Completed": 10476
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712043,
+      "Progressed": 712049,
       "Completed": 12838
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-08-02T07:00:37.2216851+00:00",
-  "LastChanged_Achievements": "2023-08-02T12:08:38.6130756+00:00",
+  "LastChanged": "2023-08-02T13:05:40.1052758+00:00",
+  "LastChanged_Achievements": "2023-08-02T13:12:33.5887916+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:51.4583284+00:00",
-  "LastUpdate_Ratings": "2023-08-02T12:00:56.1609807+00:00",
-  "LastUpdate_Achievements": "2023-08-02T12:08:38.6131888+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:05:40.1052767+00:00",
+  "LastUpdate_Achievements": "2023-08-02T13:12:33.5888952+00:00"
 }

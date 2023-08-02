@@ -1575,9 +1575,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13233,
+  "EOS_Progressed": 13234,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9000,6 +9000,11 @@
       "Time": "2023-08-02T08:07:45.1044996+00:00",
       "NumProgressed": 13233,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-02T13:12:09.9824814+00:00",
+      "NumProgressed": 13234,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10337,9 +10342,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
       "SetID": "9201eeb",
       "Name": "Apadana",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
@@ -11378,21 +11383,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13233,
+      "Progressed": 13234,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13233,
+      "Progressed": 13234,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-01T16:59:10.6733314+00:00",
-  "LastChanged_Achievements": "2023-08-02T12:08:04.2115054+00:00",
+  "LastChanged_Achievements": "2023-08-02T13:12:09.9824805+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.4550053+00:00",
-  "LastUpdate_Ratings": "2023-08-02T11:59:22.617287+00:00",
-  "LastUpdate_Achievements": "2023-08-02T12:08:04.2125928+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:04:40.6057416+00:00",
+  "LastUpdate_Achievements": "2023-08-02T13:12:09.9833419+00:00"
 }

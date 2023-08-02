@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 22,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 635,
+  "EOS_Progressed": 636,
   "EOS_Completed": 69,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 10.87,
+  "EOS_Completed_Percentage": 10.85,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2051,6 +2051,11 @@
       "Time": "2023-08-02T12:08:00.5237948+00:00",
       "NumProgressed": 635,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-08-02T13:12:07.4102925+00:00",
+      "NumProgressed": 636,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 30,
@@ -2062,7 +2067,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "LEVEL_002",
@@ -2070,7 +2075,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "LEVEL_003",
@@ -2078,7 +2083,7 @@
       "Name": "A horse in the country",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "LEVEL_004",
@@ -2086,7 +2091,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "LEVEL_005",
@@ -2094,7 +2099,7 @@
       "Name": "Small village",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "LEVEL_006",
@@ -2126,7 +2131,7 @@
       "Name": "Going zig zag",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "LEVEL_010",
@@ -2134,7 +2139,7 @@
       "Name": "Rocks around the island",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "LEVEL_011",
@@ -2158,15 +2163,15 @@
       "Name": "Higher ground",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 121
     },
     {
       "ID": "LEVEL_015",
@@ -2301,14 +2306,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 635,
+      "Progressed": 636,
       "Completed": 69
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-08-02T12:08:00.5237942+00:00",
+  "LastChanged_Achievements": "2023-08-02T13:12:07.4102917+00:00",
   "LastUpdate_AppInfo": "2023-07-31T17:57:14.0464775+00:00",
-  "LastUpdate_Ratings": "2023-08-02T11:58:08.2433357+00:00",
-  "LastUpdate_Achievements": "2023-08-02T12:08:00.5238341+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:03:49.7627078+00:00",
+  "LastUpdate_Achievements": "2023-08-02T13:12:07.4103292+00:00"
 }
