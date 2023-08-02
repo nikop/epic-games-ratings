@@ -396,6 +396,7 @@
 | [Feud](../games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 22 | 1,000 |
 | [Hunt the Night](../games/h/hunt_the_night.md) | 22 | 1,000 |
 | [Island Cities](../games/i/island_cities.md) | 22 | 1,000 |
+| [laserlemon Production](../games/l/laserlemon_production.md) | 22 | 1,000 |
 | [Loretta](../games/l/loretta.md) | 22 | 1,000 |
 | [Prehistoric Kingdom](../games/p/prehistoric_kingdom.md) | 22 | 1,000 |
 | [The Gardener and the Wild Vines](../games/t/the_gardener_and_the_wild_vines.md) | 22 | 1,000 |

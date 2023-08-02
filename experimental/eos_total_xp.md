@@ -276,6 +276,7 @@
 | [Kena: Bridge of Spirits](../games/k/kena__bridge_of_spirits.md) | 41 | 1,000 |
 | [Kingdom Come: Deliverance](../games/k/kingdom_come__deliverance.md) | 82 | 1,000 |
 | [Lamentum](../games/l/lamentum.md) | 19 | 1,000 |
+| [laserlemon Production](../games/l/laserlemon_production.md) | 22 | 1,000 |
 | [Last Labyrinth](../games/6/63e942fbfc8e40a5af2f7749a8cbcc09.md) | 35 | 1,000 |
 | [Late Shift](../games/l/late_shift.md) | 20 | 1,000 |
 | [Lawn Mowing Simulator](../games/l/lawn_mowing_simulator.md) | 54 | 1,000 |

@@ -635,7 +635,7 @@
 | 630 | [Faeria](games/f/faeria.md) | 4.45 | 108 | 324 |
 | 630 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 783 | 155 |
 | 630 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.45 | 0 | 509 |
-| 630 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,995 | 34 |
+| 630 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,005 | 34 |
 | 630 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 29 | 461 |
 | 630 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 509 |
 | 630 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 53 | 394 |

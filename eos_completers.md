@@ -12,7 +12,7 @@
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
 | 12 | [Island Cities](games/i/island_cities.md) | 18.45% |
-| 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 17.98% |
+| 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 17.78% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.11% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.92% |
 | 16 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 13.33% |
@@ -29,15 +29,15 @@
 | 26 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
 | 28 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.43% |
 | 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
-| 30 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.63% |
+| 30 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.59% |
 | 31 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 32 | [Smelter](games/s/smelter.md) | 7.69% |
 | 33 | [Ravenlok](games/r/ravenlok.md) | 7.35% |
+| 34 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.99% |
 | 34 | [Scorn](games/s/scorn.md) | 6.99% |
-| 35 | [Time Loader](games/t/time_loader.md) | 6.96% |
-| 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
+| 36 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 37 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.86% |
-| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.69% |
+| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.65% |
 | 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.36% |
 | 40 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 41 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.12% |
@@ -59,7 +59,7 @@
 | 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 58 | [Doodle God](games/d/doodle_god.md) | 3.49% |
 | 59 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
-| 59 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.40% |
+| 60 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.38% |
 | 61 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.35% |
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.33% |
 | 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.13% |
@@ -78,7 +78,7 @@
 | 76 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 77 | [Lamentum](games/l/lamentum.md) | 2.59% |
 | 78 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.40% |
+| 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.39% |
 | 80 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.37% |
 | 81 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.30% |
 | 82 | [FORECLOSED](games/f/foreclosed.md) | 2.27% |
@@ -362,6 +362,7 @@
 | 247 | [JYDGE](games/j/jydge.md) | 0.00% |
 | 247 | [Kabaret](games/k/kabaret.md) | 0.00% |
 | 247 | [Kainga: Seeds of Civilization](games/k/kainga__seeds_of_civilization.md) | 0.00% |
+| 247 | [laserlemon Production](games/l/laserlemon_production.md) | 0.00% |
 | 247 | [Last Labyrinth](games/6/63e942fbfc8e40a5af2f7749a8cbcc09.md) | 0.00% |
 | 247 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 0.00% |
 | 247 | [Lichenvale](games/l/lichenvale.md) | 0.00% |
@@ -520,4 +521,4 @@
 | 247 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 247 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 247 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,985 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,986 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
