@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16857,
+  "EOS_Progressed": 16859,
   "EOS_Completed": 348,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.06,
   "EosHistory": [
@@ -11399,6 +11399,11 @@
       "Time": "2023-08-02T21:04:47.482858+00:00",
       "NumProgressed": 16857,
       "NumCompleted": 348
+    },
+    {
+      "Time": "2023-08-02T22:05:29.7828477+00:00",
+      "NumProgressed": 16859,
+      "NumCompleted": 348
     }
   ],
   "TotalAchievements": 20,
@@ -11418,7 +11423,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "EAST_FINISHED",
@@ -11490,7 +11495,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "FOUND_MAMBA",
@@ -11498,7 +11503,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -11514,7 +11519,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "GAME_FINISHED",
@@ -11530,7 +11535,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12811
+      "UsersEstimate": 12813
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -11538,7 +11543,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4720
+      "UsersEstimate": 4721
     },
     {
       "ID": "NORTH_FINISHED",
@@ -11569,15 +11574,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 16857,
+      "Progressed": 16859,
       "Completed": 348
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-08-02T21:04:47.4828576+00:00",
+  "LastChanged_Achievements": "2023-08-02T22:05:29.7828468+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:59.0842389+00:00",
-  "LastUpdate_Ratings": "2023-08-02T21:01:00.2815111+00:00",
-  "LastUpdate_Achievements": "2023-08-02T21:04:47.482936+00:00"
+  "LastUpdate_Ratings": "2023-08-02T22:01:49.6000322+00:00",
+  "LastUpdate_Achievements": "2023-08-02T22:05:29.7829492+00:00"
 }

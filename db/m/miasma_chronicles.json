@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1336,
+  "EOS_Progressed": 1337,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2687,6 +2687,11 @@
       "Time": "2023-08-02T21:04:40.1572697+00:00",
       "NumProgressed": 1336,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T22:05:20.5687411+00:00",
+      "NumProgressed": 1337,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2714,7 +2719,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2762,7 +2767,7 @@
       "Name": "Chaos Theory",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "COMMANDO",
@@ -2778,7 +2783,7 @@
       "Name": "Croaked",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "CRUELTY",
@@ -2834,7 +2839,7 @@
       "Name": "Dr Jones",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "EDITOR_ADEPT",
@@ -2866,7 +2871,7 @@
       "Name": "Experienced",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "FIRESTARTER",
@@ -2882,7 +2887,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2930,7 +2935,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -3034,7 +3039,7 @@
       "Name": "Sensei",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "SHADOW_BOXING",
@@ -3082,7 +3087,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "THE_WATCHERS",
@@ -3105,7 +3110,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1336,
+      "Progressed": 1337,
       "Completed": 0
     }
   ],
@@ -3113,8 +3118,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-25T07:58:49.2178401+00:00",
-  "LastChanged_Achievements": "2023-08-02T21:04:40.1572692+00:00",
+  "LastChanged_Achievements": "2023-08-02T22:05:20.5687401+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:07.4600739+00:00",
-  "LastUpdate_Ratings": "2023-08-02T20:58:52.6722066+00:00",
-  "LastUpdate_Achievements": "2023-08-02T21:04:40.1573275+00:00"
+  "LastUpdate_Ratings": "2023-08-02T21:59:27.500016+00:00",
+  "LastUpdate_Achievements": "2023-08-02T22:05:20.5688468+00:00"
 }

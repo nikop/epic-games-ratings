@@ -112,6 +112,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.30% | ~40 |
 | Economic Reform | 0.30% | ~40 |
 | Dualism | 0.30% | ~40 |
+| Enlightenment | 0.30% | ~40 |
 | Redemption | 0.30% | ~40 |
 | Revelation | 0.30% | ~40 |
 | Veneration | 0.30% | ~40 |
@@ -142,7 +143,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.20% | ~26 |
 | Industrial Progress | 0.20% | ~26 |
 | Military Prestige | 0.20% | ~26 |
-| Enlightenment | 0.20% | ~26 |
 | Gnosticism | 0.20% | ~26 |
 | Cataphract Archer | 0.20% | ~26 |
 | Turreted Elephant | 0.20% | ~26 |

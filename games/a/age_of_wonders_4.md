@@ -18,6 +18,7 @@ Rating: 4.63 (Ranked 333)
 | Stronger Together | 4.00% | ~203 |
 | My Final Form | 4.00% | ~203 |
 | Seat of Power | 4.00% | ~203 |
+| Impenetrable Fortress | 4.00% | ~203 |
 | Intimidation Tactics | 4.00% | ~203 |
 | Here be Dragons | 4.00% | ~203 |
 | Blood of the Dragon | 4.00% | ~203 |
@@ -30,7 +31,6 @@ Rating: 4.63 (Ranked 333)
 | In a Liege of Your Own | 3.00% | ~152 |
 | Fiery Friend | 3.00% | ~152 |
 | Against the Odds | 3.00% | ~152 |
-| Impenetrable Fortress | 3.00% | ~152 |
 | The Magic That Empowers Me! | 2.00% | ~102 |
 | God Emperor | 2.00% | ~102 |
 | Lord of Chaos | 2.00% | ~102 |

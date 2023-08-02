@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,961 |
-| That's a Grand Army | 8.00% | ~6,188 |
-| That is mine! | 8.00% | ~6,188 |
-| Victorious! | 8.00% | ~6,188 |
-| Brothers in Arms | 6.00% | ~4,641 |
-| That's a Grand Navy | 6.00% | ~4,641 |
-| Seriously?! | 6.00% | ~4,641 |
-| For the Glory | 5.00% | ~3,867 |
+| Until death do us apart | 9.00% | ~6,963 |
+| That's a Grand Army | 8.00% | ~6,189 |
+| That is mine! | 8.00% | ~6,189 |
+| Victorious! | 8.00% | ~6,189 |
+| Brothers in Arms | 6.00% | ~4,642 |
+| That's a Grand Navy | 6.00% | ~4,642 |
+| Seriously?! | 6.00% | ~4,642 |
+| For the Glory | 5.00% | ~3,868 |
 | Cold War | 4.00% | ~3,094 |
 | True Catholic | 4.00% | ~3,094 |
-| Defender of the Faith | 3.00% | ~2,320 |
-| It's all about luck | 3.00% | ~2,320 |
-| It's all about the money | 3.00% | ~2,320 |
-| Respected | 3.00% | ~2,320 |
-| The Princess is in this Castle | 3.00% | ~2,320 |
-| Truly Divine Ruler | 3.00% | ~2,320 |
+| Defender of the Faith | 3.00% | ~2,321 |
+| It's all about luck | 3.00% | ~2,321 |
+| It's all about the money | 3.00% | ~2,321 |
+| Respected | 3.00% | ~2,321 |
+| The Princess is in this Castle | 3.00% | ~2,321 |
+| Truly Divine Ruler | 3.00% | ~2,321 |
 | Agressive Expander | 2.00% | ~1,547 |
 | Blockader | 2.00% | ~1,547 |
 | Combined Arms | 2.00% | ~1,547 |
@@ -30,22 +30,22 @@ Number of Ratings: 8,414  (23.09.2022)
 | Queen of Conquest | 2.00% | ~1,547 |
 | Royal Authority | 2.00% | ~1,547 |
 | Total Control | 2.00% | ~1,547 |
-| All That's Thine Shall Be Mine | 1.00% | ~773 |
-| Azur semé de lis or | 1.00% | ~773 |
-| Bright Spark | 1.00% | ~773 |
-| City of Cities | 1.00% | ~773 |
-| The Emperors new clothes | 1.00% | ~773 |
-| Factionalism | 1.00% | ~773 |
-| Gentle Persuasion | 1.00% | ~773 |
-| A Golden Empire | 1.00% | ~773 |
-| The Five Colonies | 1.00% | ~773 |
-| This navy can take it all | 1.00% | ~773 |
+| All That's Thine Shall Be Mine | 1.00% | ~774 |
+| Azur semé de lis or | 1.00% | ~774 |
+| Bright Spark | 1.00% | ~774 |
+| City of Cities | 1.00% | ~774 |
+| The Emperors new clothes | 1.00% | ~774 |
+| Factionalism | 1.00% | ~774 |
+| Gentle Persuasion | 1.00% | ~774 |
+| A Golden Empire | 1.00% | ~774 |
+| The Five Colonies | 1.00% | ~774 |
+| This navy can take it all | 1.00% | ~774 |
 | Down Under | 0.90% | ~696 |
 | Isn't this the way to India? | 0.90% | ~696 |
 | Market Control | 0.90% | ~696 |
 | Trustworthy | 0.90% | ~696 |
-| Electable! | 0.70% | ~541 |
-| Populists in Government | 0.70% | ~541 |
+| Electable! | 0.70% | ~542 |
+| Populists in Government | 0.70% | ~542 |
 | All belongs to Mother Russia | 0.60% | ~464 |
 | At every continent | 0.60% | ~464 |
 | Early-Modern Warfare | 0.60% | ~464 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,347 (Ranked 76)  
+Progressed: 77,362 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -465,16 +465,16 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 76,185 | 0 |
 | 2023-07-31 | 76,579 | 0 |
 | 2023-08-01 | 77,006 | 0 |
-| 2023-08-02 | 77,347 | 0 |
+| 2023-08-02 | 77,362 | 0 |
 ## Awards
 Max (Educational): 5,608  (Ranked 61)  
-Sum: 46,265 (Ranked 26)  
+Sum: 46,273 (Ranked 26)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,608 |
 | This game is Highly Recommended | 5,382 |
-| This game has Challenging Combat | 5,318 |
+| This game has Challenging Combat | 5,326 |
 | This game is Extremely Fun | 5,313 |
 | This game has Diverse Characters | 5,279 |
 | This game is Relaxing | 5,183 |
@@ -682,4 +682,4 @@ Diff (max vs sum): 35
 | 2023-07-30 | 4.69 | - | 5,597 | 46,167 |
 | 2023-07-31 | 4.69 | - | 5,599 | 46,208 |
 | 2023-08-01 | 4.69 | - | 5,603 | 46,238 |
-| 2023-08-02 | 4.69 | - | 5,608 | 46,265 |
+| 2023-08-02 | 4.69 | - | 5,608 | 46,273 |

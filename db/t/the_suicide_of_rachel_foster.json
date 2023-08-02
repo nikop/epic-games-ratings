@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1339,
+  "EOS_Progressed": 1340,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.93,
   "EosHistory": [
@@ -1932,6 +1932,11 @@
       "Time": "2023-08-02T21:03:10.6311881+00:00",
       "NumProgressed": 1339,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-08-02T22:03:31.3126379+00:00",
+      "NumProgressed": 1340,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 11,
@@ -1943,7 +1948,7 @@
       "Name": "Cutepie",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -1951,7 +1956,7 @@
       "Name": "Freeze to death",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "ACH_Cacciavite",
@@ -1959,7 +1964,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -1973,9 +1978,9 @@
       "ID": "ACH_FineEV5",
       "SetID": "7a9m7mj",
       "Name": "Is she really dead?",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 629
+      "UsersEstimate": 616
     },
     {
       "ID": "ACH_FineEV9",
@@ -1991,7 +1996,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -2030,15 +2035,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1339,
+      "Progressed": 1340,
       "Completed": 66
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-08-02T21:03:10.6311876+00:00",
+  "LastChanged_Achievements": "2023-08-02T22:03:31.3126369+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:57.8120898+00:00",
-  "LastUpdate_Ratings": "2023-08-02T21:00:59.5836274+00:00",
-  "LastUpdate_Achievements": "2023-08-02T21:03:10.6312134+00:00"
+  "LastUpdate_Ratings": "2023-08-02T22:01:49.8724801+00:00",
+  "LastUpdate_Achievements": "2023-08-02T22:03:31.3126739+00:00"
 }

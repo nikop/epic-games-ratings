@@ -354,9 +354,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2683,
+  "EOS_Progressed": 2684,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.76,
   "EosHistory": [
@@ -2324,6 +2324,11 @@
       "Time": "2023-08-02T19:05:29.022592+00:00",
       "NumProgressed": 2683,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-08-02T22:06:17.7960992+00:00",
+      "NumProgressed": 2684,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 14,
@@ -2335,7 +2340,7 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -2375,7 +2380,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -2439,14 +2444,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2683,
+      "Progressed": 2684,
       "Completed": 101
     }
   ],
@@ -2454,8 +2459,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-08-02T21:05:25.561484+00:00",
+  "LastChanged_Achievements": "2023-08-02T22:06:17.7960982+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.70294+00:00",
-  "LastUpdate_Ratings": "2023-08-02T21:01:11.5501202+00:00",
-  "LastUpdate_Achievements": "2023-08-02T21:05:25.5615079+00:00"
+  "LastUpdate_Ratings": "2023-08-02T22:02:06.5143591+00:00",
+  "LastUpdate_Achievements": "2023-08-02T22:06:17.796139+00:00"
 }

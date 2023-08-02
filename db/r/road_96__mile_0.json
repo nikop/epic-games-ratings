@@ -2,9 +2,9 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
-  "Ranking_EOS_Progress": 243,
+  "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 359,
+  "EOS_Progressed": 360,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -1074,6 +1074,11 @@
       "Time": "2023-08-02T11:03:45.4465424+00:00",
       "NumProgressed": 359,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-02T22:03:45.8072728+00:00",
+      "NumProgressed": 360,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1093,7 +1098,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "completeact3",
@@ -1157,7 +1162,7 @@
       "Name": "Souvenirs",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "scoreminrankrp1",
@@ -1204,7 +1209,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 359,
+      "Progressed": 360,
       "Completed": 2
     }
   ],
@@ -1212,8 +1217,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-08-02T21:03:22.4295838+00:00",
+  "LastChanged_Achievements": "2023-08-02T22:03:45.8072721+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:37.5183891+00:00",
-  "LastUpdate_Ratings": "2023-08-02T20:59:30.7065151+00:00",
-  "LastUpdate_Achievements": "2023-08-02T21:03:22.4296042+00:00"
+  "LastUpdate_Ratings": "2023-08-02T22:00:07.295787+00:00",
+  "LastUpdate_Achievements": "2023-08-02T22:03:45.8072916+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -269,6 +269,11 @@
       "Time": "2023-08-02T01:54:11.5541864+00:00",
       "NumProgressed": 400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T22:04:52.1019005+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -278,9 +283,9 @@
       "ID": "Builder",
       "SetID": "c2k469b",
       "Name": "Builder",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "CampaignStars1",
@@ -326,7 +331,7 @@
       "ID": "Competitor2",
       "SetID": "c2k469b",
       "Name": "Competitor Silver",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -334,7 +339,7 @@
       "ID": "Competitor3",
       "SetID": "c2k469b",
       "Name": "Competitor Gold",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -382,9 +387,9 @@
       "ID": "PlanetEdora",
       "SetID": "c2k469b",
       "Name": "Edora",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 52
     },
     {
       "ID": "PlanetIqunox",
@@ -398,9 +403,9 @@
       "ID": "PlanetJoma",
       "SetID": "c2k469b",
       "Name": "Joma",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 172
     },
     {
       "ID": "PlanetLorian",
@@ -422,9 +427,9 @@
       "ID": "PlanetRounos",
       "SetID": "c2k469b",
       "Name": "Rounos",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 92
     },
     {
       "ID": "PlanetThera",
@@ -440,7 +445,7 @@
       "Name": "Tuto",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "PlanetUdionTorix",
@@ -471,7 +476,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 0
     }
   ],
@@ -479,8 +484,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-08-02T21:04:17.6753517+00:00",
+  "LastChanged_Achievements": "2023-08-02T22:04:52.1018997+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:03.2728301+00:00",
-  "LastUpdate_Ratings": "2023-08-02T21:00:01.5728518+00:00",
-  "LastUpdate_Achievements": "2023-08-02T21:04:17.6753701+00:00"
+  "LastUpdate_Ratings": "2023-08-02T22:00:42.8037807+00:00",
+  "LastUpdate_Achievements": "2023-08-02T22:04:52.101921+00:00"
 }

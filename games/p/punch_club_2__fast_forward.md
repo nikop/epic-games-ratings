@@ -18,10 +18,10 @@
 | Your own amateur gym | 73.00% | ~154 |
 | Run K, run! | 71.00% | ~150 |
 | Hello, world! | 68.00% | ~143 |
+| No bullying more | 67.00% | ~141 |
 | Fighting is cool | 66.00% | ~139 |
-| No bullying more | 66.00% | ~139 |
 | Pal of your father? | 62.00% | ~131 |
-| Employee of the month | 61.00% | ~129 |
+| Employee of the month | 62.00% | ~131 |
 | Spirit of the past | 60.00% | ~127 |
 | Law student | 58.00% | ~122 |
 | Intriguing candies | 57.00% | ~120 |
@@ -49,9 +49,9 @@
 | GYM professional | 35.00% | ~74 |
 | Champion – no way back | 35.00% | ~74 |
 | Poisoned fighter | 35.00% | ~74 |
+| Seashell hunter | 34.00% | ~72 |
 | Mom got better | 33.00% | ~70 |
 | The die is cast | 33.00% | ~70 |
-| Seashell hunter | 33.00% | ~70 |
 | Undercover robot | 31.00% | ~65 |
 | Gang wrangler | 30.00% | ~63 |
 | Problems of cyborgs | 30.00% | ~63 |

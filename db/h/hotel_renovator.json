@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -92,9 +92,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 935,
+  "EOS_Progressed": 936,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.6,
   "EosHistory": [
@@ -1267,6 +1267,11 @@
       "Time": "2023-08-02T15:06:41.6644962+00:00",
       "NumProgressed": 935,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-02T22:06:03.1288675+00:00",
+      "NumProgressed": 936,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1278,7 +1283,7 @@
       "Name": "Humble beginnings",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -1302,7 +1307,7 @@
       "Name": "Roll with it",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -1326,7 +1331,7 @@
       "Name": "Love is in the air",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -1374,7 +1379,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1390,7 +1395,7 @@
       "Name": "Hotel sleuthing",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACH_NEWSPAPER_ARTICLE",
@@ -1398,7 +1403,7 @@
       "Name": "Big fortune",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_POSTCARD",
@@ -1414,7 +1419,7 @@
       "Name": "Let there be light",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1438,7 +1443,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACH_STAR_3",
@@ -1454,15 +1459,15 @@
       "Name": "Nearly there",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_STAR_5",
       "SetID": "7k95e4n",
       "Name": "You\u0027re a star",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 178
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
@@ -1478,7 +1483,7 @@
       "Name": "Excellent service",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -1486,14 +1491,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 935,
+      "Progressed": 936,
       "Completed": 15
     }
   ],
@@ -1501,8 +1506,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-29T09:57:37.1491908+00:00",
-  "LastChanged_Achievements": "2023-08-02T21:05:13.6495774+00:00",
+  "LastChanged_Achievements": "2023-08-02T22:06:03.1288666+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:54.1482303+00:00",
-  "LastUpdate_Ratings": "2023-08-02T20:57:43.6203431+00:00",
-  "LastUpdate_Achievements": "2023-08-02T21:05:13.649605+00:00"
+  "LastUpdate_Ratings": "2023-08-02T21:58:05.052386+00:00",
+  "LastUpdate_Achievements": "2023-08-02T22:06:03.1288962+00:00"
 }

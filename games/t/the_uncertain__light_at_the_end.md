@@ -14,9 +14,9 @@ Rating: 3.82 (Ranked 949)
 | Mind the Gap | 13.00% | ~63 |
 | Does Not Compute | 13.00% | ~63 |
 | Identity Theft | 12.00% | ~58 |
+| U Mad Bro? | 12.00% | ~58 |
 | F is for Feline | 12.00% | ~58 |
 | A Trip to Remember | 12.00% | ~58 |
-| U Mad Bro? | 11.00% | ~53 |
 | Short Circuit | 11.00% | ~53 |
 | A Stealthy Outlook | 7.00% | ~34 |
 | Catch You Later | 7.00% | ~34 |

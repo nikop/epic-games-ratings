@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 472,
+  "EOS_Progressed": 473,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.64,
+  "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:20.8598224+00:00",
@@ -566,6 +566,11 @@
       "Time": "2023-08-02T08:04:42.8939827+00:00",
       "NumProgressed": 472,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-02T22:04:37.1711416+00:00",
+      "NumProgressed": 473,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -617,7 +622,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "TROP006",
@@ -641,7 +646,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "TROP009",
@@ -657,7 +662,7 @@
       "Name": "Hard Fox Life",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "TROP011",
@@ -800,7 +805,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 472,
+      "Progressed": 473,
       "Completed": 3
     }
   ],
@@ -808,8 +813,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-08-02T21:03:56.366145+00:00",
+  "LastChanged_Achievements": "2023-08-02T22:04:37.1711408+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:45.0965644+00:00",
-  "LastUpdate_Ratings": "2023-08-02T20:59:36.8510792+00:00",
-  "LastUpdate_Achievements": "2023-08-02T21:03:56.3661687+00:00"
+  "LastUpdate_Ratings": "2023-08-02T22:00:17.1414371+00:00",
+  "LastUpdate_Achievements": "2023-08-02T22:04:37.1711797+00:00"
 }

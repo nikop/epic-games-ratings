@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -832,9 +832,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2689,
+  "EOS_Progressed": 2691,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3802,6 +3802,11 @@
       "Time": "2023-08-02T20:03:33.7713521+00:00",
       "NumProgressed": 2689,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T22:03:19.9537836+00:00",
+      "NumProgressed": 2691,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3893,7 +3898,7 @@
       "Name": "Fulfilled the dream",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_GDAY-MATE",
@@ -3901,7 +3906,7 @@
       "Name": "G\u0027Day Mate!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_GLOBETROTTER",
@@ -3965,7 +3970,7 @@
       "Name": "Keeping it classy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -4013,7 +4018,7 @@
       "Name": "NAHELL!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_PEW-PEW",
@@ -4045,7 +4050,7 @@
       "Name": "Purple passion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_RENAISSANCE-MAN",
@@ -4069,7 +4074,7 @@
       "Name": "Squad goals",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_SUP-WIDDIT-BIG-DOG",
@@ -4077,7 +4082,7 @@
       "Name": "Sup widdit big dog!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_TANK-COMMANDER",
@@ -4189,22 +4194,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2689,
+      "Progressed": 2691,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-08-02T08:59:42.2718026+00:00",
-  "LastChanged_Achievements": "2023-08-02T21:02:21.184697+00:00",
+  "LastChanged_Achievements": "2023-08-02T22:03:19.9537824+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:59.3777566+00:00",
-  "LastUpdate_Ratings": "2023-08-02T20:59:54.4584617+00:00",
-  "LastUpdate_Achievements": "2023-08-02T21:02:21.1847544+00:00"
+  "LastUpdate_Ratings": "2023-08-02T22:00:34.4843327+00:00",
+  "LastUpdate_Achievements": "2023-08-02T22:03:19.953882+00:00"
 }

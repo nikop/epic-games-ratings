@@ -5,25 +5,25 @@ Rating: 4.69 (Ranked 214)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 99.00% | ~1,055 |
-| A Long Time Ago | 94.00% | ~1,002 |
-| Sabersmith | 82.00% | ~874 |
-| The Obstacle is the Way | 80.00% | ~853 |
+| The Mantis | 99.00% | ~1,056 |
+| A Long Time Ago | 94.00% | ~1,003 |
+| Sabersmith | 82.00% | ~875 |
+| The Obstacle is the Way | 80.00% | ~854 |
 | Back At You | 75.00% | ~800 |
-| Happy Go Wookiee | 71.00% | ~757 |
-| Everything is Connected | 61.00% | ~650 |
+| Happy Go Wookiee | 71.00% | ~758 |
+| Everything is Connected | 61.00% | ~651 |
 | Her Name Was Masana Tide | 54.00% | ~576 |
 | Bank Shot | 54.00% | ~576 |
-| Perfect Timing | 53.00% | ~565 |
-| The Full Glow-Up | 49.00% | ~522 |
+| Perfect Timing | 53.00% | ~566 |
+| The Full Glow-Up | 49.00% | ~523 |
 | Gorgara Falls | 48.00% | ~512 |
 | For A More Civilized Age | 45.00% | ~480 |
-| Look Out Below | 43.00% | ~458 |
+| Look Out Below | 43.00% | ~459 |
 | I Knew He Was No Good | 42.00% | ~448 |
 | Don't Mess with BD-1 | 41.00% | ~437 |
-| The Holocron Awaits | 40.00% | ~426 |
-| Scum and Villainy | 40.00% | ~426 |
-| Trust Only In The Force | 37.00% | ~394 |
+| The Holocron Awaits | 40.00% | ~427 |
+| Scum and Villainy | 40.00% | ~427 |
+| Trust Only In The Force | 37.00% | ~395 |
 | Blade Master | 35.00% | ~373 |
 | Full House | 33.00% | ~352 |
 | Legendary Beasts | 23.00% | ~245 |
@@ -45,7 +45,7 @@ Rating: 4.69 (Ranked 214)
 | Kicking Back | 2.00% | ~21 |
 | Not So Fast | 0.90% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,066 (Ranked 194)  
+Progressed: 1,067 (Ranked 194)  
 Completed: 5 (0.47%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,7 +54,7 @@ Completed: 5 (0.47%) (Ranked 139)
 | 2023-07-28 | 3 | 0 |
 | 2023-07-31 | 194 | 1 |
 | 2023-08-01 | 754 | 5 |
-| 2023-08-02 | 1,066 | 5 |
+| 2023-08-02 | 1,067 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

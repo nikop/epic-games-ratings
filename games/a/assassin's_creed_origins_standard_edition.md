@@ -1,15 +1,15 @@
 # Assassin's Creed Origins Standard Edition
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-origins)  
 [View Rawdata](../../db/a/assassin's_creed_origins_standard_edition.json)  
-Rating: 4.68 (Ranked 240)  
+Rating: 4.68 (Ranked 241)  
 Number of Ratings: 3,843  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 3,327  (Ranked 88)  
-Sum: 5,612 (Ranked 123)  
+Max (Great Boss Battles): 3,334  (Ranked 88)  
+Sum: 5,619 (Ranked 123)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,327 |
+| This game has Great Boss Battles | 3,334 |
 | This game is Great for Beginners | 253 |
 | This game is Relaxing | 252 |
 | This game has Amazing Storytelling | 252 |
@@ -213,4 +213,4 @@ Diff (max vs sum): -35
 | 2023-07-30 | 4.68 | - | 3,316 | 5,591 |
 | 2023-07-31 | 4.68 | - | 3,321 | 5,601 |
 | 2023-08-01 | 4.68 | - | 3,327 | 5,610 |
-| 2023-08-02 | 4.68 | - | 3,327 | 5,612 |
+| 2023-08-02 | 4.68 | - | 3,334 | 5,619 |
