@@ -28,12 +28,12 @@ Rating: 4.87 (Ranked 24)
 | Uh, they were broken when I got here | 3.00% | ~110 |
 | Kissing the sky! | 3.00% | ~110 |
 | Does that say weakpoint? | 3.00% | ~110 |
-| Well that was a rush! | 2.00% | ~73 |
-| I have to read these things? | 2.00% | ~73 |
-| Beat-hit mania | 2.00% | ~73 |
-| Perfecter Parry-er! | 2.00% | ~73 |
-| That's a lot of junk metal… | 2.00% | ~73 |
-| I look cool. But I can look COOLER. | 2.00% | ~73 |
+| Well that was a rush! | 2.00% | ~74 |
+| I have to read these things? | 2.00% | ~74 |
+| Beat-hit mania | 2.00% | ~74 |
+| Perfecter Parry-er! | 2.00% | ~74 |
+| That's a lot of junk metal… | 2.00% | ~74 |
+| I look cool. But I can look COOLER. | 2.00% | ~74 |
 | Chip-tuned | 1.00% | ~37 |
 | There's such a thing as TOO helpful | 1.00% | ~37 |
 | Wanna hear my playlist? | 1.00% | ~37 |
@@ -43,9 +43,9 @@ Rating: 4.87 (Ranked 24)
 | I think I found your calling, Macaron | 0.70% | ~26 |
 | I think I deserve some praise, here! | 0.60% | ~22 |
 | This is a breeze! | 0.50% | ~18 |
+| We're Jammin' | 0.50% | ~18 |
 | I hit things with a guitar really well. | 0.50% | ~18 |
 | New bad guys? No problem! | 0.50% | ~11 |
-| We're Jammin' | 0.40% | ~15 |
 | I'm not done with you yet | 0.40% | ~15 |
 | First we parry, then we counter | 0.40% | ~15 |
 | Choose your own adventure | 0.40% | ~9 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,674 (Ranked 146)  
+Progressed: 3,675 (Ranked 146)  
 Completed: 6 (0.16%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 6 (0.16%) (Ranked 180)
 | 2023-07-30 | 3,640 | 6 |
 | 2023-07-31 | 3,656 | 6 |
 | 2023-08-01 | 3,666 | 6 |
-| 2023-08-02 | 3,674 | 6 |
+| 2023-08-02 | 3,675 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -3113,9 +3113,9 @@
       "ID": "NEW_ACHIEVEMENT_CAVEMAN",
       "SetID": "l546gc",
       "Name": "Caveman",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_DEFENCE",
@@ -3370,8 +3370,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-07-31T07:57:50.7109089+00:00",
-  "LastChanged_Achievements": "2023-08-02T13:10:45.6171313+00:00",
+  "LastChanged_Achievements": "2023-08-02T14:04:42.1903749+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:07.5190813+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:04:07.0563185+00:00",
-  "LastUpdate_Achievements": "2023-08-02T13:10:45.6171896+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:58:02.0660974+00:00",
+  "LastUpdate_Achievements": "2023-08-02T14:04:42.1904181+00:00"
 }

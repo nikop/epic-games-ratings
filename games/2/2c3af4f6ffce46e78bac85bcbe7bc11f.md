@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something ever-changing... | 29.00% | ~6 |
-| Something foundational... | 29.00% | ~6 |
-| Something to make you dream... | 29.00% | ~6 |
-| Something monumental... | 29.00% | ~6 |
-| Something to long for... | 29.00% | ~6 |
-| Something firmly rooted... | 24.00% | ~5 |
-| Something free... | 19.00% | ~4 |
-| Something gentle... | 19.00% | ~4 |
-| Something fully in bloom... | 19.00% | ~4 |
-| Somewhere to belong... | 19.00% | ~4 |
-| Something natural... | 19.00% | ~4 |
-| Something reflective... | 19.00% | ~4 |
+| Something ever-changing... | 32.00% | ~7 |
+| Something foundational... | 32.00% | ~7 |
+| Something to make you dream... | 32.00% | ~7 |
+| Something to long for... | 32.00% | ~7 |
+| Something monumental... | 27.00% | ~6 |
+| Something firmly rooted... | 23.00% | ~5 |
+| Something free... | 18.00% | ~4 |
+| Something gentle... | 18.00% | ~4 |
+| Something fully in bloom... | 18.00% | ~4 |
+| Somewhere to belong... | 18.00% | ~4 |
+| Something natural... | 18.00% | ~4 |
+| Something reflective... | 18.00% | ~4 |
 | Something free... (fragile) | 14.00% | ~3 |
 | Something gentle... (fragile) | 14.00% | ~3 |
 | Something ever-changing... (fragile) | 14.00% | ~3 |
@@ -28,11 +28,11 @@
 | Something to long for... (fragile) | 14.00% | ~3 |
 | Something firmly rooted... (fragile) | 14.00% | ~3 |
 | Something reflective... (fragile) | 14.00% | ~3 |
-| Something more... | 10.00% | ~2 |
-| Something more... (fragile) | 10.00% | ~2 |
+| Something more... | 9.00% | ~2 |
+| Something more... (fragile) | 9.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21 (Ranked 393)  
-Completed: 2 (9.52%) (Ranked 27)  
+Progressed: 22 (Ranked 392)  
+Completed: 2 (9.09%) (Ranked 28)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -54,4 +54,4 @@ Completed: 2 (9.52%) (Ranked 27)
 | 2023-07-26 | 18 | 2 |
 | 2023-07-27 | 19 | 2 |
 | 2023-08-01 | 20 | 2 |
-| 2023-08-02 | 21 | 2 |
+| 2023-08-02 | 22 | 2 |

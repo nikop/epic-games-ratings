@@ -10,8 +10,8 @@
 | Stilesville Hidden Style | 37.00% | ~18 |
 | Born to Win | 35.00% | ~17 |
 | Welcome to Seoul | 35.00% | ~17 |
+| We will need a bigger wardrobe | 35.00% | ~17 |
 | Roller Race | 35.00% | ~17 |
-| We will need a bigger wardrobe | 33.00% | ~16 |
 | Barcelona Hidden Style | 24.00% | ~12 |
 | Creating New Trends | 22.00% | ~11 |
 | Best Gala Ever | 22.00% | ~11 |

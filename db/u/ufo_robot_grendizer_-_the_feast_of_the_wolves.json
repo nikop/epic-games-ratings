@@ -2,10 +2,10 @@
   "ID": "3a077bc4fa864985b8c0b343176226d2",
   "Name": "UFO ROBOT GRENDIZER - The Feast of the Wolves",
   "ProductSlug": "goldorak-d90cf1",
-  "Ranking_EOS_Progress": 523,
+  "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-29T04:58:59.9606626+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:05:47.2662167+00:00",
-  "LastUpdate_Achievements": "2023-08-02T13:11:15.6157348+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:59:46.2788792+00:00",
+  "LastUpdate_Achievements": "2023-08-02T14:05:12.3273666+00:00"
 }

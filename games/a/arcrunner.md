@@ -17,10 +17,10 @@
 | Supply Run | 7.00% | ~51 |
 | Starship Docks | 6.00% | ~44 |
 | Nanonic III | 6.00% | ~44 |
-| The Bigger They Are | 5.00% | ~36 |
-| Cybernetic | 5.00% | ~36 |
-| Fully Modded | 5.00% | ~36 |
-| Rookie | 5.00% | ~36 |
+| The Bigger They Are | 5.00% | ~37 |
+| Cybernetic | 5.00% | ~37 |
+| Fully Modded | 5.00% | ~37 |
+| Rookie | 5.00% | ~37 |
 | Up Close And Personal | 4.00% | ~29 |
 | Eden Heights | 3.00% | ~22 |
 | Outer Core | 3.00% | ~22 |
@@ -34,7 +34,7 @@
 | Weaponsmith | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730 (Ranked 207)  
+Progressed: 731 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 725 | 0 |
 | 2023-07-31 | 728 | 0 |
 | 2023-08-01 | 729 | 0 |
-| 2023-08-02 | 730 | 0 |
+| 2023-08-02 | 731 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2183,
+  "EOS_Progressed": 2184,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4366,6 +4366,11 @@
       "Time": "2023-08-02T11:04:58.2099276+00:00",
       "NumProgressed": 2183,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-02T14:04:05.7415624+00:00",
+      "NumProgressed": 2184,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -4409,7 +4414,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -4457,7 +4462,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "GLOVE_SLAP",
@@ -4465,7 +4470,7 @@
       "Name": "Glove Slap!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -4505,7 +4510,7 @@
       "Name": "Clash of Kings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "KNIGHT_MASTERY",
@@ -4513,7 +4518,7 @@
       "Name": "Knight Commander",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -4552,14 +4557,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2183,
+      "Progressed": 2184,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-08-02T13:10:10.0488877+00:00",
+  "LastChanged_Achievements": "2023-08-02T14:04:05.7415619+00:00",
   "LastUpdate_AppInfo": "2023-08-01T20:56:50.3342535+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:03:53.4950661+00:00",
-  "LastUpdate_Achievements": "2023-08-02T13:10:10.0489317+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:57:46.536798+00:00",
+  "LastUpdate_Achievements": "2023-08-02T14:04:05.7415939+00:00"
 }

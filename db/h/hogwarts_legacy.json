@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5716,10 +5716,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 40337,
       "NumberOfAwardsMax": 21463
+    },
+    {
+      "Time": "2023-08-02T13:58:02.4463318+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40339,
+      "NumberOfAwardsMax": 21463
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40337,
+  "NumberOfAwards": 40339,
   "NumberOfAwardsMax": 21463,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5775,7 +5781,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 863
+      "Count": 865
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5796,9 +5802,9 @@
       "Count": 574
     }
   ],
-  "EOS_Progressed": 289184,
+  "EOS_Progressed": 289187,
   "EOS_Completed": 437,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16991,6 +16997,11 @@
       "Time": "2023-08-02T13:10:56.448317+00:00",
       "NumProgressed": 289184,
       "NumCompleted": 437
+    },
+    {
+      "Time": "2023-08-02T14:04:53.3395783+00:00",
+      "NumProgressed": 289187,
+      "NumCompleted": 437
     }
   ],
   "TotalAchievements": 45,
@@ -17122,7 +17133,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28918
+      "UsersEstimate": 28919
     },
     {
       "ID": "PFA_24",
@@ -17330,7 +17341,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31810
+      "UsersEstimate": 31811
     },
     {
       "ID": "PFA_7",
@@ -17338,7 +17349,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31810
+      "UsersEstimate": 31811
     },
     {
       "ID": "PFA_8",
@@ -17346,7 +17357,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28918
+      "UsersEstimate": 28919
     },
     {
       "ID": "PFA_9",
@@ -17361,16 +17372,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289184,
+      "Progressed": 289187,
       "Completed": 437
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-02T11:58:36.5039628+00:00",
-  "LastChanged_Achievements": "2023-08-02T13:10:56.4483161+00:00",
+  "LastChanged": "2023-08-02T13:58:02.4463316+00:00",
+  "LastChanged_Achievements": "2023-08-02T14:04:53.3395779+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:04:07.44409+00:00",
-  "LastUpdate_Achievements": "2023-08-02T13:10:56.4484237+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:58:02.4463322+00:00",
+  "LastUpdate_Achievements": "2023-08-02T14:04:53.3396599+00:00"
 }

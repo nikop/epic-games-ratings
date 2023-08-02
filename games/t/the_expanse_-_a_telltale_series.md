@@ -4,10 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Doctor Approved | 17.00% | ~563 |
-| Captain Drummer | 15.00% | ~496 |
-| Data Logger | 3.00% | ~99 |
+| Doctor Approved | 17.00% | ~564 |
+| Captain Drummer | 15.00% | ~498 |
+| Data Logger | 3.00% | ~100 |
 | Urshanabi Hoarder | 1.00% | ~33 |
+| Martian Music | 0.10% | ~3 |
+| Celebrations are in Order | 0.10% | ~3 |
 | Data Miner | 0.00% | ~0 |
 | The Pit and the Pirates | 0.00% | ~0 |
 | Data Archivist | 0.00% | ~0 |
@@ -16,7 +18,6 @@
 | Drug Gifter | 0.00% | ~0 |
 | Spore Taste | 0.00% | ~0 |
 | Bottoms up! | 0.00% | ~0 |
-| Martian Music | 0.00% | ~0 |
 | Thorston Mayer | 0.00% | ~0 |
 | Drone Dodger | 0.00% | ~0 |
 | Brother's Reaper | 0.00% | ~0 |
@@ -30,12 +31,11 @@
 | No Belter Left Behind | 0.00% | ~0 |
 | Debris Spree | 0.00% | ~0 |
 | Data Master | 0.00% | ~0 |
-| Celebrations are in Order | 0.00% | ~0 |
 | Grave Robber | 0.00% | ~0 |
 | Data Recoverer | 0.00% | ~0 |
 | Impossible Objects | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,310 (Ranked 151)  
+Progressed: 3,320 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,4 +46,4 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 1,732 | 0 |
 | 2023-07-31 | 2,464 | 0 |
 | 2023-08-01 | 3,074 | 0 |
-| 2023-08-02 | 3,310 | 0 |
+| 2023-08-02 | 3,320 | 0 |

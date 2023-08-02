@@ -4,11 +4,11 @@
   "ProductSlug": "a-total-war-saga-troy",
   "Ranking_Rating": 541,
   "Ranking_Popularity": 118,
-  "Ranking_PopularitySum": 75,
-  "Ranking_EOS_Progress": 523,
+  "Ranking_PopularitySum": 74,
+  "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-08-13T13:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:00:00+00:00",
@@ -5077,6 +5077,6 @@
   "FirstSeen": "2022-07-22T20:20:30.5035149+00:00",
   "LastChanged": "2023-08-02T09:58:46.0661072+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:02.4737138+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:04:51.0645992+00:00",
-  "LastUpdate_Achievements": "2023-08-02T13:10:23.7056301+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:58:44.4285652+00:00",
+  "LastUpdate_Achievements": "2023-08-02T14:04:20.0051283+00:00"
 }

@@ -17,12 +17,12 @@ Number of Ratings: 177  (23.09.2022)
 | Drunk and Disorderly: Stephanie | 1.00% | ~60 |
 | Drunk and Disorderly: Ashley | 0.80% | ~48 |
 | IRL Let's Player | 0.80% | ~48 |
-| Inspector | 0.70% | ~42 |
 | Newcomer: Vickie | 0.70% | ~42 |
 | Social Butterfly | 0.70% | ~42 |
-| The Muse: Madison | 0.70% | ~42 |
 | Amy | 0.60% | ~36 |
+| Inspector | 0.60% | ~36 |
 | Smooth Operator: Ashley | 0.60% | ~36 |
+| The Muse: Madison | 0.60% | ~36 |
 | Amy: Scavenger Hunt | 0.50% | ~30 |
 | It Smells Like Roses | 0.50% | ~15 |
 | The Crush | 0.50% | ~30 |
@@ -31,11 +31,11 @@ Number of Ratings: 177  (23.09.2022)
 | Benedict Brahrnold | 0.40% | ~24 |
 | I'll Be Back | 0.40% | ~24 |
 | Casanova | 0.40% | ~24 |
-| Love Conquers All | 0.40% | ~24 |
 | Now It's a Party! | 0.40% | ~24 |
 | Stephanie | 0.40% | ~24 |
 | Te Amo Lety | 0.40% | ~24 |
 | Ashley | 0.30% | ~18 |
+| Love Conquers All | 0.30% | ~18 |
 | Rachael | 0.30% | ~18 |
 | Good Ol' Days | 0.30% | ~18 |
 | Beyond the Call of Dude-y | 0.20% | ~12 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,000 (Ranked 135)  
+Progressed: 6,002 (Ranked 135)  
 Completed: 3 (0.05%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 3 (0.05%) (Ranked 212)
 | 2023-07-30 | 5,961 | 3 |
 | 2023-07-31 | 5,976 | 3 |
 | 2023-08-01 | 5,992 | 3 |
-| 2023-08-02 | 6,000 | 3 |
+| 2023-08-02 | 6,002 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

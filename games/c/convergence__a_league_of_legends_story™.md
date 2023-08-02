@@ -5,12 +5,10 @@ Rating: 4.60 (Ranked 390)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 24.00% | ~196 |
+| Time Heals All Wounds | 24.00% | ~197 |
 | The Mysterious Stranger | 20.00% | ~164 |
 | Rail Rat | 20.00% | ~164 |
 | Make Up For Lost Time | 17.00% | ~139 |
-| No, Thanks! | 17.00% | ~139 |
-| Breaking Down Barriers | 17.00% | ~139 |
 | The Prince in Heels | 17.00% | ~139 |
 | Immaculate Aim | 17.00% | ~139 |
 | Immaculate Aim | 17.00% | ~139 |
@@ -18,6 +16,8 @@ Rating: 4.60 (Ranked 390)
 | The Steel Shadow | 16.00% | ~131 |
 | Time Flies | 16.00% | ~131 |
 | The Harder They Fall | 16.00% | ~131 |
+| No, Thanks! | 16.00% | ~131 |
+| Breaking Down Barriers | 16.00% | ~131 |
 | The Wicked Twins | 16.00% | ~131 |
 | Honest Mistake | 16.00% | ~131 |
 | Fast Learner | 16.00% | ~131 |
@@ -31,7 +31,7 @@ Rating: 4.60 (Ranked 390)
 | Right On Time | 14.00% | ~115 |
 | Cartographer | 14.00% | ~115 |
 | Check Your Pulse | 14.00% | ~115 |
-| Street Style | 13.00% | ~106 |
+| Street Style | 13.00% | ~107 |
 | Whiz Kid | 11.00% | ~90 |
 | Chaincrawler Explorer | 10.00% | ~82 |
 | Good Neighbor | 10.00% | ~82 |
@@ -39,9 +39,9 @@ Rating: 4.60 (Ranked 390)
 | Sump Explorer | 9.00% | ~74 |
 | Theater Explorer | 9.00% | ~74 |
 | Ask Questions Later | 9.00% | ~74 |
-| Factorywood Explorer | 8.00% | ~65 |
-| Fairgrounds Explorer | 8.00% | ~65 |
-| Syron for Hope | 8.00% | ~65 |
+| Factorywood Explorer | 8.00% | ~66 |
+| Fairgrounds Explorer | 8.00% | ~66 |
+| Syron for Hope | 8.00% | ~66 |
 | Cultivair Explorer | 7.00% | ~57 |
 | Entresol Explorer | 7.00% | ~57 |
 | Corin Goes Home | 6.00% | ~49 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 390)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 818 (Ranked 202)  
+Progressed: 820 (Ranked 202)  
 Completed: 5 (0.61%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 5 (0.61%) (Ranked 126)
 | 2023-07-30 | 808 | 4 |
 | 2023-07-31 | 815 | 5 |
 | 2023-08-01 | 816 | 5 |
-| 2023-08-02 | 818 | 5 |
+| 2023-08-02 | 820 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

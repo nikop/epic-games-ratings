@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,7 +112,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3674,
+  "EOS_Progressed": 3675,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -5067,6 +5067,11 @@
       "Time": "2023-08-02T13:10:18.0837526+00:00",
       "NumProgressed": 3674,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-02T14:04:14.4594833+00:00",
+      "NumProgressed": 3675,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -5142,7 +5147,7 @@
       "Name": "Well that was a rush!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Ach010",
@@ -5238,7 +5243,7 @@
       "Name": "I have to read these things?",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Ach022",
@@ -5262,7 +5267,7 @@
       "Name": "Beat-hit mania",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Ach025",
@@ -5326,7 +5331,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Ach033",
@@ -5342,7 +5347,7 @@
       "Name": "That\u0027s a lot of junk metal\u2026",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Ach035",
@@ -5364,9 +5369,9 @@
       "ID": "Ach037",
       "SetID": "12n4k20",
       "Name": "We\u0027re Jammin\u0027",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "Ach038",
@@ -5406,7 +5411,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Ach043",
@@ -5645,13 +5650,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3674,
+      "Progressed": 3675,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2195,
+      "Progressed": 2196,
       "Completed": 1928
     }
   ],
@@ -5659,8 +5664,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-08-02T13:10:18.083752+00:00",
+  "LastChanged_Achievements": "2023-08-02T14:04:14.4594829+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:25.5055416+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:05:11.919182+00:00",
-  "LastUpdate_Achievements": "2023-08-02T13:10:18.0838561+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:59:07.6923965+00:00",
+  "LastUpdate_Achievements": "2023-08-02T14:04:14.4595633+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 730,
+  "EOS_Progressed": 731,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1598,6 +1598,11 @@
       "Time": "2023-08-02T06:05:28.3651945+00:00",
       "NumProgressed": 730,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T14:04:20.9531601+00:00",
+      "NumProgressed": 731,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1617,7 +1622,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHV_CHALLENGEACCEPTED",
@@ -1649,7 +1654,7 @@
       "Name": "Cybernetic",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHV_CYBORG",
@@ -1689,7 +1694,7 @@
       "Name": "Fully Modded",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHV_HARDBOILED",
@@ -1761,7 +1766,7 @@
       "Name": "Rookie",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHV_SUPPLYRUN",
@@ -1840,13 +1845,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 730,
+      "Progressed": 731,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 156,
+      "Progressed": 157,
       "Completed": 3
     }
   ],
@@ -1854,8 +1859,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-08-02T13:10:25.0454816+00:00",
+  "LastChanged_Achievements": "2023-08-02T14:04:20.9531596+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:26.3220019+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:06:16.8237939+00:00",
-  "LastUpdate_Achievements": "2023-08-02T13:10:25.0455138+00:00"
+  "LastUpdate_Ratings": "2023-08-02T14:00:16.9911775+00:00",
+  "LastUpdate_Achievements": "2023-08-02T14:04:20.9531843+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 465,
-  "Ranking_Popularity": 253,
+  "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -646,9 +646,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11734,
+  "EOS_Progressed": 11738,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8166,6 +8166,11 @@
       "Time": "2023-08-02T12:08:38.0196871+00:00",
       "NumProgressed": 11734,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-08-02T14:07:10.5943503+00:00",
+      "NumProgressed": 11738,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 35,
@@ -8177,7 +8182,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9505
+      "UsersEstimate": 9508
     },
     {
       "ID": "ACH02",
@@ -8193,7 +8198,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ACH04",
@@ -8207,9 +8212,9 @@
       "ID": "ACH05",
       "SetID": "4ck5mbe",
       "Name": "A Legitimate Business",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 117
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH06",
@@ -8225,7 +8230,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2229
+      "UsersEstimate": 2230
     },
     {
       "ID": "ACH08",
@@ -8233,7 +8238,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5867
+      "UsersEstimate": 5869
     },
     {
       "ID": "ACH09",
@@ -8273,7 +8278,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2113
     },
     {
       "ID": "ACH14",
@@ -8281,7 +8286,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "ACH15",
@@ -8289,7 +8294,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "ACH16",
@@ -8297,7 +8302,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1877
+      "UsersEstimate": 1878
     },
     {
       "ID": "ACH17",
@@ -8321,7 +8326,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "ACH20",
@@ -8401,7 +8406,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "ACH30",
@@ -8456,7 +8461,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11734,
+      "Progressed": 11738,
       "Completed": 33
     }
   ],
@@ -8464,8 +8469,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-01T05:01:22.5591656+00:00",
-  "LastChanged_Achievements": "2023-08-02T13:12:33.1128563+00:00",
+  "LastChanged_Achievements": "2023-08-02T14:07:10.5943497+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.4328142+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:06:50.4262518+00:00",
-  "LastUpdate_Achievements": "2023-08-02T13:12:33.1129279+00:00"
+  "LastUpdate_Ratings": "2023-08-02T14:00:55.6477167+00:00",
+  "LastUpdate_Achievements": "2023-08-02T14:07:10.5944066+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "64f76772bed04a12863b6d5c6c29497f",
   "Name": "Aftergrinder",
   "ProductSlug": "aftergrinder-96f722",
-  "Ranking_EOS_Progress": 523,
+  "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-08T16:00:00+00:00",
     "PcReleaseDate": "2017-07-18T16:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-29T04:58:36.6985262+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:05:26.2086556+00:00",
-  "LastUpdate_Achievements": "2023-08-02T13:08:25.1070905+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:59:22.5746578+00:00",
+  "LastUpdate_Achievements": "2023-08-02T14:02:20.8213083+00:00"
 }

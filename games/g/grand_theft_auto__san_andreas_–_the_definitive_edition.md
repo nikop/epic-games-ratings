@@ -5,24 +5,25 @@ Rating: 4.56 (Ranked 465)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~9,505 |
-| Pay 'n' Spray | 50.00% | ~5,867 |
+| Getting Started | 81.00% | ~9,508 |
+| Pay 'n' Spray | 50.00% | ~5,869 |
 | All Dressed Up for San Fierro | 25.00% | ~2,934 |
-| The American Dream | 19.00% | ~2,229 |
-| School's Out | 18.00% | ~2,112 |
-| Smooth Moves | 16.00% | ~1,877 |
-| Today Was a Good Day | 15.00% | ~1,760 |
+| The American Dream | 19.00% | ~2,230 |
+| School's Out | 18.00% | ~2,113 |
+| Smooth Moves | 16.00% | ~1,878 |
+| Today Was a Good Day | 15.00% | ~1,761 |
 | What happens in Las Venturas... | 14.00% | ~1,643 |
-| Horror of the Santa Maria | 10.00% | ~1,173 |
+| Horror of the Santa Maria | 10.00% | ~1,174 |
 | Liberty City State of Mind | 9.00% | ~1,056 |
 | Original Gangster | 8.00% | ~939 |
-| The End of the Line | 7.00% | ~821 |
+| The End of the Line | 7.00% | ~822 |
 | With Extra Dip | 6.00% | ~704 |
 | Saviour | 6.00% | ~704 |
-| They Can’t Stop All of Us | 4.00% | ~469 |
-| Rescue a Kitten Too? | 4.00% | ~469 |
+| They Can’t Stop All of Us | 4.00% | ~470 |
+| Rescue a Kitten Too? | 4.00% | ~470 |
 | Bike or Biker | 3.00% | ~352 |
 | What are the Odds | 3.00% | ~352 |
+| A Legitimate Business | 2.00% | ~235 |
 | I’ll Have Two Number 9s | 2.00% | ~235 |
 | Who Needs Directions? | 2.00% | ~235 |
 | What the City Needs | 2.00% | ~235 |
@@ -31,7 +32,6 @@ Rating: 4.56 (Ranked 465)
 | Public Enemy No. 1 | 2.00% | ~235 |
 | Ain’t Nothing But a G Thing | 2.00% | ~235 |
 | Hoopin' it Up | 1.00% | ~117 |
-| A Legitimate Business | 1.00% | ~117 |
 | Swiss Army Strife | 1.00% | ~117 |
 | Lucky Spinner | 1.00% | ~117 |
 | Assassin | 1.00% | ~117 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 465)
 | ...Here we go again | 0.40% | ~47 |
 | I Ain't No Buster | 0.30% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,734 (Ranked 119)  
+Progressed: 11,738 (Ranked 119)  
 Completed: 33 (0.28%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,11 +145,11 @@ Completed: 33 (0.28%) (Ranked 161)
 | 2023-07-30 | 11,608 | 31 |
 | 2023-07-31 | 11,653 | 32 |
 | 2023-08-01 | 11,707 | 33 |
-| 2023-08-02 | 11,734 | 33 |
+| 2023-08-02 | 11,738 | 33 |
 ## Awards
-Max (Great Boss Battles): 235  (Ranked 253)  
+Max (Great Boss Battles): 235  (Ranked 254)  
 Sum: 255 (Ranked 350)  
-Diff (max vs sum): -97  
+Diff (max vs sum): -96  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 235 |

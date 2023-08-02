@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -239,9 +239,9 @@
       "ID": "CgkInO_K3eIdEAIQBg",
       "SetID": "6bj96in",
       "Name": "BACK TO THE FUTURE",
-      "Percentage": 59,
+      "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "CgkInO_K3eIdEAIQBw",
@@ -255,9 +255,9 @@
       "ID": "CgkInO_K3eIdEAIQCA",
       "SetID": "6bj96in",
       "Name": "GIFTED LIBRARIAN",
-      "Percentage": 46,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CgkInO_K3eIdEAIQCQ",
@@ -271,9 +271,9 @@
       "ID": "CgkInO_K3eIdEAIQCg",
       "SetID": "6bj96in",
       "Name": "ADVANCED CRAFTSMAN",
-      "Percentage": 59,
+      "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "CgkInO_K3eIdEAIQCw",
@@ -414,8 +414,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-02T13:10:20.2947556+00:00",
+  "LastChanged_Achievements": "2023-08-02T14:04:16.6436774+00:00",
   "LastUpdate_AppInfo": "2023-07-26T13:57:00.7387624+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:03:30.5975333+00:00",
-  "LastUpdate_Achievements": "2023-08-02T13:10:20.2947745+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:57:22.5905121+00:00",
+  "LastUpdate_Achievements": "2023-08-02T14:04:16.6436926+00:00"
 }

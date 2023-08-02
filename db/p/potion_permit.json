@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -346,9 +346,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 1520,
+  "EOS_Progressed": 1521,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -1736,6 +1736,11 @@
       "Time": "2023-08-02T01:53:34.3341708+00:00",
       "NumProgressed": 1520,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-02T14:03:32.5967734+00:00",
+      "NumProgressed": 1521,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 38,
@@ -1747,7 +1752,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -1755,7 +1760,7 @@
       "Name": "Great Doctor",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -1803,7 +1808,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -1835,7 +1840,7 @@
       "Name": "Amateur Chef",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -1843,7 +1848,7 @@
       "Name": "Line Cook",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -1867,7 +1872,7 @@
       "Name": "Sociable",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACHIEVEMENTS_17",
@@ -1891,15 +1896,15 @@
       "Name": "Spark of Love",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACHIEVEMENTS_20",
       "SetID": "d4o538a",
       "Name": "Decorative Mind",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 486
+      "UsersEstimate": 472
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -1923,7 +1928,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -1939,7 +1944,7 @@
       "Name": "Community Helper",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACHIEVEMENTS_26",
@@ -2050,7 +2055,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1520,
+      "Progressed": 1521,
       "Completed": 9
     }
   ],
@@ -2058,8 +2063,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-07-16T08:02:07.497774+00:00",
-  "LastChanged_Achievements": "2023-08-02T13:09:37.478957+00:00",
+  "LastChanged_Achievements": "2023-08-02T14:03:32.596773+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:26.8145926+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:03:14.0683711+00:00",
-  "LastUpdate_Achievements": "2023-08-02T13:09:37.4789968+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:57:03.4806948+00:00",
+  "LastUpdate_Achievements": "2023-08-02T14:03:32.5968016+00:00"
 }

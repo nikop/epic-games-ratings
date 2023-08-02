@@ -4,8 +4,8 @@
   "ProductSlug": "lunas-fishing-garden",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-06-16T16:00:00+00:00",
     "PcReleaseDate": "2021-06-16T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 676,
+  "EOS_Progressed": 677,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.36,
+  "EOS_Completed_Percentage": 6.35,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:09.7835451+00:00",
@@ -96,6 +96,11 @@
       "Time": "2023-07-31T23:07:16.7922278+00:00",
       "NumProgressed": 676,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-08-02T14:06:47.7458783+00:00",
+      "NumProgressed": 677,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 14,
@@ -139,7 +144,7 @@
       "Name": "Hide and Seek",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "1_skies",
@@ -155,7 +160,7 @@
       "Name": "A Feel for the Reel",
       "Percentage": 84,
       "XP": 80,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "3_master_angler",
@@ -179,7 +184,7 @@
       "Name": "Science Enthusiast",
       "Percentage": 28,
       "XP": 200,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "6_immortal",
@@ -187,7 +192,7 @@
       "Name": "Immortal",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "7_cleanup",
@@ -203,7 +208,7 @@
       "Name": "Anything Else?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "9_lotus",
@@ -218,7 +223,7 @@
     {
       "ID": "459695l",
       "IsBase": true,
-      "Progressed": 676,
+      "Progressed": 677,
       "Completed": 43
     }
   ],
@@ -226,8 +231,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
   "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
-  "LastChanged_Achievements": "2023-08-02T13:12:30.0374248+00:00",
+  "LastChanged_Achievements": "2023-08-02T14:06:47.7458779+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:05.7382399+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:04:04.9380504+00:00",
-  "LastUpdate_Achievements": "2023-08-02T13:12:30.0374368+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:57:59.7081631+00:00",
+  "LastUpdate_Achievements": "2023-08-02T14:06:47.7458875+00:00"
 }

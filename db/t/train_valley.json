@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -99,9 +99,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -754,6 +754,11 @@
       "Time": "2023-08-02T13:10:20.9827652+00:00",
       "NumProgressed": 415,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-02T14:04:17.2699301+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -765,7 +770,7 @@
       "Name": "Getting started",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "02_collector",
@@ -773,7 +778,7 @@
       "Name": "Collector",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "03_philatelist",
@@ -805,7 +810,7 @@
       "Name": "Living it large!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "07_europe",
@@ -813,7 +818,7 @@
       "Name": "Europe",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "08_america",
@@ -821,7 +826,7 @@
       "Name": "America",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "09_russia",
@@ -829,7 +834,7 @@
       "Name": "Russia",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "10_japan",
@@ -861,7 +866,7 @@
       "Name": "It\u0027s no coincidence.",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "14_woodcutter",
@@ -941,7 +946,7 @@
       "Name": "Close call!",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "24_mega",
@@ -987,9 +992,9 @@
       "ID": "29_madness",
       "SetID": "chb1m60",
       "Name": "Madness!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 104
     },
     {
       "ID": "30_completelynuts",
@@ -1027,9 +1032,9 @@
       "ID": "34_needtothink",
       "SetID": "chb1m60",
       "Name": "Need to think",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 162
     },
     {
       "ID": "35_achtung",
@@ -1076,15 +1081,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-07-28T17:58:21.049991+00:00",
-  "LastChanged_Achievements": "2023-08-02T13:10:20.9827644+00:00",
+  "LastChanged_Achievements": "2023-08-02T14:04:17.2699296+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:31.9818041+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:04:19.2983878+00:00",
-  "LastUpdate_Achievements": "2023-08-02T13:10:20.9828009+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:58:12.5442359+00:00",
+  "LastUpdate_Achievements": "2023-08-02T14:04:17.2699577+00:00"
 }

@@ -8,11 +8,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,715 |
 | Beast Intentions | 3.00% | ~6,536 |
-| Maddening | 2.00% | ~4,357 |
+| Maddening | 2.00% | ~4,358 |
 | The Silken Swamp | 1.00% | ~2,179 |
 | Supply Run | 1.00% | ~2,179 |
-| Rocky Reception | 1.00% | ~1,841 |
-| Rock and Roll | 1.00% | ~1,841 |
+| Rocky Reception | 1.00% | ~1,842 |
+| Rock and Roll | 1.00% | ~1,842 |
 | Vecna Lives! | 0.90% | ~1,657 |
 | Tall Tales | 0.80% | ~1,473 |
 | Vecna Loots! | 0.80% | ~1,473 |
@@ -54,31 +54,31 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.50% | ~921 |
 | Bahamut's Army | 0.50% | ~921 |
 | Krux's Speed Run | 0.50% | ~921 |
-| Upholding the Law | 0.40% | ~871 |
+| Upholding the Law | 0.40% | ~872 |
 | Hither of the Feywild | 0.40% | ~737 |
 | Speeds of Destruction | 0.40% | ~737 |
-| On the Hunt | 0.40% | ~871 |
+| On the Hunt | 0.40% | ~872 |
 | Best Thay Ever | 0.40% | ~737 |
 | A Demi-god's Defender | 0.40% | ~737 |
-| Homecoming | 0.40% | ~871 |
-| The Lost Heir of Omu | 0.40% | ~871 |
+| Homecoming | 0.40% | ~872 |
+| The Lost Heir of Omu | 0.40% | ~872 |
 | No One Can Hear You Scream | 0.40% | ~737 |
 | Welcome to the Rock | 0.40% | ~737 |
-| Wisdom Check | 0.40% | ~871 |
-| Invisible Shadows | 0.40% | ~871 |
-| Family Entanglements | 0.40% | ~871 |
-| Tower on the Lake | 0.40% | ~871 |
-| The Ring of Regeneration | 0.40% | ~871 |
-| The Crumbling Temple | 0.40% | ~871 |
-| Seeking Allies | 0.40% | ~871 |
-| Exploring Port Nyanzaru | 0.40% | ~871 |
-| Running of the Saurs | 0.40% | ~871 |
-| Escort to Waterdeep | 0.40% | ~871 |
-| Waterdeep Detours | 0.40% | ~871 |
-| Underdeep Cartography | 0.40% | ~871 |
-| Friendly Imps | 0.40% | ~871 |
-| Overdue Rendezvous | 0.40% | ~871 |
-| Pure Energy | 0.40% | ~871 |
+| Wisdom Check | 0.40% | ~872 |
+| Invisible Shadows | 0.40% | ~872 |
+| Family Entanglements | 0.40% | ~872 |
+| Tower on the Lake | 0.40% | ~872 |
+| The Ring of Regeneration | 0.40% | ~872 |
+| The Crumbling Temple | 0.40% | ~872 |
+| Seeking Allies | 0.40% | ~872 |
+| Exploring Port Nyanzaru | 0.40% | ~872 |
+| Running of the Saurs | 0.40% | ~872 |
+| Escort to Waterdeep | 0.40% | ~872 |
+| Waterdeep Detours | 0.40% | ~872 |
+| Underdeep Cartography | 0.40% | ~872 |
+| Friendly Imps | 0.40% | ~872 |
+| Overdue Rendezvous | 0.40% | ~872 |
+| Pure Energy | 0.40% | ~872 |
 | Luigi After Hours | 0.40% | ~737 |
 | Electric Mayhem | 0.40% | ~737 |
 | 3,720 to 1 | 0.40% | ~737 |
@@ -101,6 +101,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sleuth It Out | 0.30% | ~654 |
 | A Grand Puzzle | 0.30% | ~654 |
 | Tomb of the Nine Gods | 0.30% | ~654 |
+| The Hunt for Owl-y | 0.30% | ~654 |
 | Werewolves in the Mist | 0.30% | ~654 |
 | Chatty Nobles | 0.30% | ~654 |
 | Modron Assistance | 0.30% | ~654 |
@@ -170,7 +171,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Newcomers of Notoriety | 0.20% | ~368 |
 | Azaka's Procession - Part 1 | 0.20% | ~436 |
 | Azaka's Procession - Part 2 | 0.20% | ~436 |
-| The Hunt for Owl-y | 0.20% | ~436 |
 | We're not in Faerûn Anymore | 0.20% | ~436 |
 | Haunted Fortunes | 0.20% | ~436 |
 | Thine Bounty is Mine! | 0.20% | ~368 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,868 (Ranked 53)  
+Progressed: 217,878 (Ranked 53)  
 Completed: 2,143 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -623,7 +623,7 @@ Completed: 2,143 (0.98%) (Ranked 112)
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
-| 2023-08-02 | 217,868 | 2,143 |
+| 2023-08-02 | 217,878 | 2,143 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
 Sum: 30,856 (Ranked 38)  

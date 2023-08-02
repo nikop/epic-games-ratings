@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Treasure Hunting | 36.00% | ~29 |
-| Might be useful… | 36.00% | ~29 |
-| Friend! | 30.00% | ~24 |
-| Shine! | 29.00% | ~23 |
-| Uncut Gem | 28.00% | ~22 |
+| Treasure Hunting | 37.00% | ~30 |
+| Might be useful… | 37.00% | ~30 |
+| Friend! | 31.00% | ~25 |
+| Uncut Gem | 28.00% | ~23 |
+| Shine! | 28.00% | ~23 |
 | Setting Off | 25.00% | ~20 |
-| Clear as Water | 23.00% | ~18 |
+| Clear as Water | 22.00% | ~18 |
 | Card Collector | 21.00% | ~17 |
 | Riddlesolver | 20.00% | ~16 |
 | Dungeon Mastery | 19.00% | ~15 |
@@ -29,23 +29,23 @@
 | Card Completionist | 4.00% | ~3 |
 | The False Prophet | 4.00% | ~3 |
 | Sealed Once Again | 4.00% | ~3 |
-| Best Pupil | 3.00% | ~2 |
-| FOR JUSTICE! | 3.00% | ~2 |
-| Journey’s End | 3.00% | ~2 |
-| Masterpiece | 3.00% | ~2 |
-| Warden Mastery | 3.00% | ~2 |
-| Towards the Future | 3.00% | ~2 |
-| Trinket Enthusiast | 3.00% | ~2 |
-| The Usurper | 3.00% | ~2 |
-| First time? | 3.00% | ~2 |
-| Harmony | 3.00% | ~2 |
-| A New Tomorrow | 3.00% | ~2 |
-| ACHOO! | 3.00% | ~2 |
+| Best Pupil | 2.00% | ~2 |
+| FOR JUSTICE! | 2.00% | ~2 |
+| Journey’s End | 2.00% | ~2 |
+| Masterpiece | 2.00% | ~2 |
+| Warden Mastery | 2.00% | ~2 |
+| Towards the Future | 2.00% | ~2 |
+| Trinket Enthusiast | 2.00% | ~2 |
+| The Usurper | 2.00% | ~2 |
+| First time? | 2.00% | ~2 |
+| Harmony | 2.00% | ~2 |
+| A New Tomorrow | 2.00% | ~2 |
+| ACHOO! | 2.00% | ~2 |
 | The New Demon Lord | 1.00% | ~1 |
 | Gladiator | 1.00% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 332)  
+Progressed: 81 (Ranked 333)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 73 | 0 |
 | 2023-07-31 | 74 | 0 |
 | 2023-08-01 | 75 | 0 |
-| 2023-08-02 | 80 | 0 |
+| 2023-08-02 | 81 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

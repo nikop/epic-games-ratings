@@ -14,15 +14,15 @@ Number of Ratings: 401  (23.09.2022)
 | Correspondent | 12.00% | ~4,167 |
 | Lose Your Mind | 12.00% | ~4,167 |
 | Sound Mind? | 12.00% | ~4,167 |
-| Salt's Curse | 11.00% | ~3,819 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,819 |
-| The Fall of the House | 11.00% | ~3,819 |
-| Shipmate | 11.00% | ~3,819 |
+| Salt's Curse | 11.00% | ~3,820 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,820 |
+| The Fall of the House | 11.00% | ~3,820 |
+| Shipmate | 11.00% | ~3,820 |
 | One Year at Zee | 8.00% | ~2,778 |
-| Pupil | 7.00% | ~2,430 |
-| Salvager | 7.00% | ~2,430 |
-| Open Your Ears | 7.00% | ~2,430 |
-| The Ascent of Man | 7.00% | ~2,430 |
+| Pupil | 7.00% | ~2,431 |
+| Salvager | 7.00% | ~2,431 |
+| Open Your Ears | 7.00% | ~2,431 |
+| The Ascent of Man | 7.00% | ~2,431 |
 | Zee Fever | 5.00% | ~1,736 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,389 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,389 |
@@ -43,10 +43,10 @@ Number of Ratings: 401  (23.09.2022)
 | Rosewater sailor | 1.00% | ~347 |
 | Under the zee | 1.00% | ~347 |
 | A current under zee | 1.00% | ~347 |
-| Never Stop Sinking... | 0.90% | ~312 |
-| Leviathan | 0.90% | ~312 |
-| No regrets | 0.90% | ~312 |
-| Depth charge | 0.90% | ~312 |
+| Never Stop Sinking... | 0.90% | ~313 |
+| Leviathan | 0.90% | ~313 |
+| No regrets | 0.90% | ~313 |
+| Depth charge | 0.90% | ~313 |
 | A zee-change | 0.80% | ~278 |
 | What lies beneath | 0.80% | ~278 |
 | Stone's Curse | 0.70% | ~243 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~35 |
 | Ten Years at Zee | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,721 (Ranked 95)  
+Progressed: 34,723 (Ranked 95)  
 Completed: 3 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 3 (0.01%) (Ranked 234)
 | 2023-07-30 | 34,582 | 3 |
 | 2023-07-31 | 34,632 | 3 |
 | 2023-08-01 | 34,694 | 3 |
-| 2023-08-02 | 34,721 | 3 |
+| 2023-08-02 | 34,723 | 3 |
 ## Awards
 Max (Character Customization): 213  (Ranked 267)  
 Sum: 283 (Ranked 340)  

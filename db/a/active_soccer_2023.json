@@ -2,10 +2,10 @@
   "ID": "40ee4b54a5d14a4d99f3050395dfb443",
   "Name": "Active Soccer 2023",
   "ProductSlug": "active-soccer-2023-624dfb",
-  "Ranking_EOS_Progress": 523,
+  "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-30T00:00:00+00:00",
     "PcReleaseDate": "2023-03-29T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.7708845+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:05:09.7717637+00:00",
-  "LastUpdate_Achievements": "2023-08-02T13:10:02.1834799+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:59:05.6880473+00:00",
+  "LastUpdate_Achievements": "2023-08-02T14:03:57.6932898+00:00"
 }

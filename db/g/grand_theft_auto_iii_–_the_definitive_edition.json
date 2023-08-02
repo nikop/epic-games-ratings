@@ -406,7 +406,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7367,
+  "EOS_Progressed": 7368,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 1,
@@ -6756,6 +6756,11 @@
       "Time": "2023-08-02T12:06:50.379876+00:00",
       "NumProgressed": 7367,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-02T14:05:16.0763474+00:00",
+      "NumProgressed": 7368,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 29,
@@ -6871,7 +6876,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "ACH15",
@@ -6998,7 +7003,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7367,
+      "Progressed": 7368,
       "Completed": 42
     }
   ],
@@ -7006,8 +7011,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-01T02:03:47.9919957+00:00",
-  "LastChanged_Achievements": "2023-08-02T13:11:19.3879135+00:00",
+  "LastChanged_Achievements": "2023-08-02T14:05:16.0763469+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:45.6186895+00:00",
-  "LastUpdate_Ratings": "2023-08-02T13:04:32.973008+00:00",
-  "LastUpdate_Achievements": "2023-08-02T13:11:19.3879704+00:00"
+  "LastUpdate_Ratings": "2023-08-02T13:58:27.7826008+00:00",
+  "LastUpdate_Achievements": "2023-08-02T14:05:16.0763915+00:00"
 }
