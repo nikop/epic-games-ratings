@@ -46,6 +46,7 @@
 | [Saints Row IV Re-Elected](../games/s/saints_row_iv_re-elected.md) | 72 | 1,000 |
 | [Hi-Fi RUSH](../games/h/hi-fi_rush.md) | 71 | 1,250 |
 | [Sniper Elite 5](../games/s/sniper_elite_5.md) | 71 | 1,705 |
+| [The Evil Within](../games/d/d602fd70876141ba9bf4d54809c423d1.md) | 71 | 1,735 |
 | [Curse of the Deadwood](../games/c/curse_of_the_deadwood.md) | 70 | 1,000 |
 | [Model Builder](../games/m/model_builder.md) | 70 | 1,000 |
 | [House Party](../games/h/house_party.md) | 69 | 1,040 |
@@ -115,6 +116,7 @@
 | [Miasma Chronicles](../games/m/miasma_chronicles.md) | 51 | 1,000 |
 | [Mount & Blade II: Bannerlord](../games/m/mount_&_blade_ii__bannerlord.md) | 51 | 1,000 |
 | [Smelter](../games/s/smelter.md) | 51 | 1,000 |
+| [The Evil Within 2](../games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 51 | 1,000 |
 | [Against the Storm](../games/a/against_the_storm.md) | 50 | 1,000 |
 | [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 50 | 1,215 |
 | [Arcadegeddon](../games/a/arcadegeddon.md) | 50 | 1,000 |

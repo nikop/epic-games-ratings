@@ -1,8 +1,7 @@
 | Game | Total Achievements | Total XP | Sets |
 | ---- | ------------------ | -------- | ---- |
-| [](../games/4/4ceb047b661d401e95132c459fb00f9a.md) | 0 | 0 | 2 |
 | [](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 0 | 0 | 2 |
-| [](../games/d/d602fd70876141ba9bf4d54809c423d1.md) | 0 | 0 | 2 |
+| [](../games/4/4ceb047b661d401e95132c459fb00f9a.md) | 0 | 0 | 2 |
 | [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 50 | 1,215 | 2 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 | 2 |
 | [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 | 2 |
@@ -45,6 +44,7 @@
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 47 | 1,750 | 2 |
 | [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 14 | 1,220 | 2 |
 | [The Dungeon of Naheulbeuk](../games/t/the_dungeon_of_naheulbeuk.md) | 88 | 1,490 | 2 |
+| [The Evil Within](../games/d/d602fd70876141ba9bf4d54809c423d1.md) | 71 | 1,735 | 2 |
 | [The Tenants](../games/t/the_tenants.md) | 86 | 1,400 | 2 |
 | [Train Valley 2](../games/t/train_valley_2.md) | 89 | 1,300 | 2 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](../games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 68 | 1,300 | 2 |

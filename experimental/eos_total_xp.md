@@ -7,6 +7,7 @@
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 |
 | [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 512 | 2,560 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 47 | 1,750 |
+| [The Evil Within](../games/d/d602fd70876141ba9bf4d54809c423d1.md) | 71 | 1,735 |
 | [Sniper Elite 5](../games/s/sniper_elite_5.md) | 71 | 1,705 |
 | [Fallout: New Vegas](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 |
@@ -485,6 +486,7 @@
 | [The Devil's Face](../games/t/the_devil's_face.md) | 14 | 1,000 |
 | [The Dragoness Command Of The Flame](../games/8/8bf17fa0bd774f72bb06bd095830af2a.md) | 37 | 1,000 |
 | [The Entropy Centre](../games/t/the_entropy_centre.md) | 27 | 1,000 |
+| [The Evil Within 2](../games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 51 | 1,000 |
 | [The Expanse - A Telltale Series](../games/t/the_expanse_-_a_telltale_series.md) | 30 | 1,000 |
 | [The First Tree](../games/t/the_first_tree.md) | 14 | 1,000 |
 | [The Future Project](../games/1/1846202a6db1495189ceefd84672b545.md) | 32 | 1,000 |
