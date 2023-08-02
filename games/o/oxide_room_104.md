@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | What's going on here? | 88.00% | ~114 |
 | Brute force | 82.00% | ~107 |
-| Nimble fingers | 78.00% | ~101 |
+| Nimble fingers | 79.00% | ~103 |
 | Room 104 | 78.00% | ~101 |
-| Face to face | 77.00% | ~100 |
-| Let's play a game… | 73.00% | ~95 |
-| Now or never | 73.00% | ~95 |
+| Face to face | 78.00% | ~101 |
+| Let's play a game… | 74.00% | ~96 |
+| Now or never | 74.00% | ~96 |
 | First aid | 61.00% | ~79 |
 | Soundtrack | 59.00% | ~77 |
 | Antidote | 50.00% | ~65 |
@@ -36,7 +36,7 @@
 | Matthew's mistakes | 0.00% | ~0 |
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130 (Ranked 303)  
+Progressed: 130 (Ranked 304)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |

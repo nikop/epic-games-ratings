@@ -6,7 +6,7 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,100 |
+| Atom Agent | 99.00% | ~1,101 |
 | One HIT wonder | 35.00% | ~389 |
 | Wanderer | 35.00% | ~389 |
 | One shot, one kill | 28.00% | ~311 |
@@ -33,17 +33,17 @@ Number of Ratings: 54  (23.09.2022)
 | It was worth a shot | 1.00% | ~11 |
 | Cosmic Horror | 1.00% | ~11 |
 | Ghostbuster | 0.70% | ~8 |
-| Cheeki Breeki | 0.50% | ~6 |
-| Comrade Yogi | 0.50% | ~6 |
-| Expert | 0.50% | ~6 |
-| Tourist Korallov | 0.50% | ~6 |
+| Cheeki Breeki | 0.40% | ~4 |
 | It's a classic! | 0.40% | ~4 |
+| Comrade Yogi | 0.40% | ~4 |
+| Expert | 0.40% | ~4 |
+| Tourist Korallov | 0.40% | ~4 |
 | Mystical relics | 0.20% | ~2 |
 | 27 Club | 0.00% | ~0 |
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,111 (Ranked 189)  
+Progressed: 1,112 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 1,092 | 0 |
 | 2023-07-31 | 1,100 | 0 |
 | 2023-08-01 | 1,107 | 0 |
-| 2023-08-02 | 1,111 | 0 |
+| 2023-08-02 | 1,112 | 0 |
 ## Awards
 Max (Character Customization): 49  (Ranked 404)  
 Sum: 49 (Ranked 451)  

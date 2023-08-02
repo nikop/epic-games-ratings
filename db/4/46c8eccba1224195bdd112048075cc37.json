@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 122,
+  "EOS_Progressed": 123,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -556,6 +556,11 @@
       "Time": "2023-08-02T16:05:25.8113333+00:00",
       "NumProgressed": 122,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T19:05:29.3314919+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 20,
@@ -591,7 +596,7 @@
       "Name": "Unlucky",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CollectGold",
@@ -623,23 +628,23 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "FourthBoss",
@@ -719,21 +724,21 @@
       "Name": "Flower",
       "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 122,
+      "Progressed": 123,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-08-02T18:06:53.8761523+00:00",
+  "LastChanged_Achievements": "2023-08-02T19:05:29.3314912+00:00",
   "LastUpdate_AppInfo": "2023-07-31T09:57:13.2028801+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:58:08.0721749+00:00",
-  "LastUpdate_Achievements": "2023-08-02T18:06:53.8761706+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:57:40.2971244+00:00",
+  "LastUpdate_Achievements": "2023-08-02T19:05:29.3315086+00:00"
 }

@@ -568,9 +568,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 9486,
+  "EOS_Progressed": 9488,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7723,6 +7723,11 @@
       "Time": "2023-08-02T18:05:49.1677994+00:00",
       "NumProgressed": 9486,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-02T19:04:34.6831016+00:00",
+      "NumProgressed": 9488,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 34,
@@ -7790,7 +7795,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH09",
@@ -7814,7 +7819,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "ACH12",
@@ -7838,7 +7843,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3889
+      "UsersEstimate": 3890
     },
     {
       "ID": "ACH15",
@@ -7894,7 +7899,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4269
+      "UsersEstimate": 4270
     },
     {
       "ID": "ACH22",
@@ -7902,7 +7907,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "ACH23",
@@ -7972,9 +7977,9 @@
       "ID": "ACH31",
       "SetID": "9llo822",
       "Name": "Chopper\u2019d Up",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 95
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH32",
@@ -8005,7 +8010,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9486,
+      "Progressed": 9488,
       "Completed": 44
     }
   ],
@@ -8013,8 +8018,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-01T16:59:33.8335317+00:00",
-  "LastChanged_Achievements": "2023-08-02T18:05:49.1677985+00:00",
+  "LastChanged_Achievements": "2023-08-02T19:04:34.6831011+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:59:44.5904605+00:00",
-  "LastUpdate_Achievements": "2023-08-02T18:05:49.167865+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:58:52.2450894+00:00",
+  "LastUpdate_Achievements": "2023-08-02T19:04:34.6831665+00:00"
 }

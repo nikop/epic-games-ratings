@@ -19,7 +19,7 @@
 | Holy Nails | 0.00% | ~0 |
 | Flagellation | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208 (Ranked 282)  
+Progressed: 209 (Ranked 280)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,4 +60,4 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 192 | 0 |
 | 2023-07-31 | 201 | 0 |
 | 2023-08-01 | 202 | 0 |
-| 2023-08-02 | 208 | 0 |
+| 2023-08-02 | 209 | 0 |

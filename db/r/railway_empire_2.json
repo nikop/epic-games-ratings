@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -146,7 +146,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1748,
+  "EOS_Progressed": 1749,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
@@ -3991,6 +3991,11 @@
       "Time": "2023-08-02T17:05:12.2047008+00:00",
       "NumProgressed": 1748,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T19:04:15.0905471+00:00",
+      "NumProgressed": 1749,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -4002,7 +4007,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "A01",
@@ -4010,7 +4015,7 @@
       "Name": "Stoker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "A02",
@@ -4114,7 +4119,7 @@
       "Name": "A new Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "A15",
@@ -4170,7 +4175,7 @@
       "Name": "Country Life",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "A22",
@@ -4178,7 +4183,7 @@
       "Name": "Brainstorm",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "A23",
@@ -4194,7 +4199,7 @@
       "Name": "Access granted",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "A25",
@@ -4226,7 +4231,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "A29",
@@ -4234,7 +4239,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "A30",
@@ -4296,9 +4301,9 @@
       "ID": "A37",
       "SetID": "9b7p7eo",
       "Name": "All around the World",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1084
     },
     {
       "ID": "A38",
@@ -4306,7 +4311,7 @@
       "Name": "Poor Devil",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "A39",
@@ -4330,7 +4335,7 @@
       "Name": "Right through the middle",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "A42",
@@ -4338,7 +4343,7 @@
       "Name": "Bridge Builder",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "A43",
@@ -4378,7 +4383,7 @@
       "Name": "Travel Company",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "A48",
@@ -4394,7 +4399,7 @@
       "Name": "Financial Shark",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "A50",
@@ -4441,7 +4446,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1748,
+      "Progressed": 1749,
       "Completed": 0
     }
   ],
@@ -4449,8 +4454,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-31T01:57:43.9842724+00:00",
-  "LastChanged_Achievements": "2023-08-02T18:05:21.9237438+00:00",
+  "LastChanged_Achievements": "2023-08-02T19:04:15.0905466+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:59.7965927+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:59:34.1541161+00:00",
-  "LastUpdate_Achievements": "2023-08-02T18:05:21.9238196+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:58:41.5732902+00:00",
+  "LastUpdate_Achievements": "2023-08-02T19:04:15.0906167+00:00"
 }

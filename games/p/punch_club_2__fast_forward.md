@@ -13,10 +13,10 @@
 | First defeat | 78.00% | ~164 |
 | Depressed visitor | 77.00% | ~162 |
 | Fitness professional | 76.00% | ~160 |
-| Neurotrainer – power gainer! | 74.00% | ~155 |
-| Employee of the week | 74.00% | ~155 |
-| Your own amateur gym | 73.00% | ~153 |
-| Run K, run! | 70.00% | ~147 |
+| Neurotrainer – power gainer! | 75.00% | ~158 |
+| Employee of the week | 75.00% | ~158 |
+| Your own amateur gym | 74.00% | ~155 |
+| Run K, run! | 71.00% | ~149 |
 | Hello, world! | 67.00% | ~141 |
 | Fighting is cool | 66.00% | ~139 |
 | No bullying more | 66.00% | ~139 |
@@ -36,7 +36,7 @@
 | Legal courier | 50.00% | ~105 |
 | Extreme neuropower! | 49.00% | ~103 |
 | Escaped from a big trouble | 49.00% | ~103 |
-| Now you are worthy | 45.00% | ~94 |
+| Now you are worthy | 46.00% | ~97 |
 | No blades in the gym | 45.00% | ~94 |
 | Your own way | 44.00% | ~92 |
 | Guiding on the right path | 43.00% | ~90 |
@@ -47,11 +47,11 @@
 | Responsible approach | 36.00% | ~76 |
 | Deal with life | 35.00% | ~74 |
 | GYM professional | 35.00% | ~74 |
-| Champion – no way back | 34.00% | ~71 |
-| Poisoned fighter | 34.00% | ~71 |
+| Champion – no way back | 35.00% | ~74 |
+| Poisoned fighter | 35.00% | ~74 |
+| Mom got better | 33.00% | ~69 |
+| The die is cast | 33.00% | ~69 |
 | Seashell hunter | 33.00% | ~69 |
-| Mom got better | 32.00% | ~67 |
-| The die is cast | 32.00% | ~67 |
 | Undercover robot | 31.00% | ~65 |
 | Gang wrangler | 30.00% | ~63 |
 | Not little hacker | 30.00% | ~63 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -862,25 +862,25 @@
       "ID": "ACH_ACT4",
       "SetID": "2310cb1",
       "Name": "This is a Wall",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_ACT5",
       "SetID": "2310cb1",
       "Name": "Extendable Bridges",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_ACT6",
       "SetID": "2310cb1",
       "Name": "48 Attempts",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_ACT7",
@@ -1007,8 +1007,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-08-02T18:08:48.2607695+00:00",
+  "LastChanged_Achievements": "2023-08-02T19:06:57.6557603+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:12.2377059+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:58:40.6859911+00:00",
-  "LastUpdate_Achievements": "2023-08-02T18:08:48.2607963+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:58:04.681535+00:00",
+  "LastUpdate_Achievements": "2023-08-02T19:06:57.6557833+00:00"
 }

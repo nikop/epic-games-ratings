@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 330,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 6.36,
   "EosHistory": [
@@ -1264,9 +1264,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 234
     },
     {
       "ID": "DevilRope",
@@ -1368,9 +1368,9 @@
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "PriestBroom",
@@ -1440,9 +1440,9 @@
       "ID": "RogueEat",
       "SetID": "db30heh",
       "Name": "Debt Free",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 310
     },
     {
       "ID": "RogueKing",
@@ -1527,8 +1527,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-02T18:07:55.5345164+00:00",
+  "LastChanged_Achievements": "2023-08-02T19:06:20.8686735+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:57:40.1188445+00:00",
-  "LastUpdate_Achievements": "2023-08-02T18:07:55.5345781+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:57:23.2402854+00:00",
+  "LastUpdate_Achievements": "2023-08-02T19:06:20.8687168+00:00"
 }

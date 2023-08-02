@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2493,
+  "EOS_Progressed": 2494,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3264,6 +3264,11 @@
       "Time": "2023-08-02T17:04:21.3712901+00:00",
       "NumProgressed": 2493,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-02T19:03:23.2195987+00:00",
+      "NumProgressed": 2494,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -3339,7 +3344,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2393
+      "UsersEstimate": 2394
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3379,7 +3384,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -3387,7 +3392,7 @@
       "Name": "I chose my shackles",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -3505,9 +3510,9 @@
       "ID": "STB_MISSION2B_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Clarion Cove",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 922
+      "UsersEstimate": 898
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -3523,7 +3528,7 @@
       "Name": "Sacred Woods",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -3539,7 +3544,7 @@
       "Name": "Capelworth",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -3651,7 +3656,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3683,7 +3688,7 @@
       "Name": "Ancient power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -3698,7 +3703,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2493,
+      "Progressed": 2494,
       "Completed": 5
     }
   ],
@@ -3706,8 +3711,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-08-02T18:04:12.0450342+00:00",
+  "LastChanged_Achievements": "2023-08-02T19:03:23.2195982+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:29.275218+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:58:48.8352258+00:00",
-  "LastUpdate_Achievements": "2023-08-02T18:04:12.0451028+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:58:10.5520426+00:00",
+  "LastUpdate_Achievements": "2023-08-02T19:03:23.2196641+00:00"
 }

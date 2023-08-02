@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 48.00% | ~46 |
-| Fire in the... nevermind | 48.00% | ~46 |
+| Chapter I | 49.00% | ~47 |
+| Fire in the... nevermind | 49.00% | ~47 |
 | Haute cuisine | 45.00% | ~43 |
-| I didn't do it! | 41.00% | ~39 |
+| I didn't do it! | 42.00% | ~40 |
+| Demolition expert | 35.00% | ~34 |
 | Keep away from children | 35.00% | ~34 |
+| Wooooooow! | 35.00% | ~34 |
 | Artistic fool | 34.00% | ~33 |
-| Demolition expert | 34.00% | ~33 |
-| Wooooooow! | 34.00% | ~33 |
 | Chapter II | 30.00% | ~29 |
 | Open up wide | 29.00% | ~28 |
 | Achoo!! | 29.00% | ~28 |

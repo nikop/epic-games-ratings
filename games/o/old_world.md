@@ -47,19 +47,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 0.80% | ~106 |
 | Brilliant | 0.70% | ~93 |
 | Fountainhead | 0.70% | ~93 |
+| Great | 0.70% | ~93 |
 | Wise | 0.70% | ~93 |
 | Strong Cities | 0.70% | ~93 |
 | Artisans | 0.70% | ~93 |
 | Great Ziggurat | 0.70% | ~93 |
+| Necropolis | 0.70% | ~93 |
 | Learn to Play 1 | 0.70% | ~93 |
 | Regicide | 0.60% | ~79 |
-| Great | 0.60% | ~79 |
 | Just Difficulty | 0.60% | ~79 |
 | Furious Family | 0.60% | ~79 |
 | Apadana | 0.60% | ~79 |
 | Colossus | 0.60% | ~79 |
 | Musaeum | 0.60% | ~79 |
-| Necropolis | 0.60% | ~79 |
 | Manichaeism | 0.60% | ~79 |
 | Drillmaster | 0.50% | ~66 |
 | Intercessor | 0.50% | ~66 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,237 (Ranked 117)  
+Progressed: 13,238 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,7 +407,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-07-30 | 13,191 | 5 |
 | 2023-07-31 | 13,209 | 5 |
 | 2023-08-01 | 13,228 | 5 |
-| 2023-08-02 | 13,237 | 5 |
+| 2023-08-02 | 13,238 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 262)  
 Sum: 1,786 (Ranked 206)  

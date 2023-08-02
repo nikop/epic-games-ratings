@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 60.00% | ~186 |
-| Starting Skyward | 53.00% | ~164 |
+| In the Black | 59.00% | ~183 |
+| Starting Skyward | 53.00% | ~165 |
 | Grime is Not Good | 48.00% | ~149 |
 | Floor Galore | 39.00% | ~121 |
 | Campaign Launch | 39.00% | ~121 |
 | Dinner Dash | 39.00% | ~121 |
 | It's Technical | 36.00% | ~112 |
-| Need a Consult | 35.00% | ~108 |
-| Upgrade Unlock | 35.00% | ~108 |
-| Delegate Maintenance | 34.00% | ~105 |
-| Proper Walls | 32.00% | ~99 |
+| Need a Consult | 35.00% | ~109 |
+| Upgrade Unlock | 34.00% | ~106 |
+| Delegate Maintenance | 33.00% | ~103 |
+| Proper Walls | 32.00% | ~100 |
 | Destination Destiny | 29.00% | ~90 |
 | Happy Tenants | 25.00% | ~78 |
-| Potent Potables | 24.00% | ~74 |
-| Smooth Service | 24.00% | ~74 |
-| Your Prestige is Rising | 23.00% | ~71 |
-| Retail Revenue | 23.00% | ~71 |
+| Your Prestige is Rising | 23.00% | ~72 |
+| Potent Potables | 23.00% | ~72 |
+| Retail Revenue | 23.00% | ~72 |
+| Smooth Service | 23.00% | ~72 |
 | Lux Living | 21.00% | ~65 |
 | Don't Feel a Loan | 21.00% | ~65 |
 | People Mover | 20.00% | ~62 |
@@ -31,11 +31,11 @@
 | Get Electrified | 19.00% | ~59 |
 | Rehab Expert | 17.00% | ~53 |
 | Tasty Profits | 17.00% | ~53 |
-| Under One Roof | 15.00% | ~46 |
-| Established Fame | 15.00% | ~46 |
-| Starred Dining | 15.00% | ~46 |
-| Cashflow Chief | 15.00% | ~46 |
-| Terrifically Trashed | 14.00% | ~43 |
+| Under One Roof | 15.00% | ~47 |
+| Established Fame | 15.00% | ~47 |
+| Cashflow Chief | 15.00% | ~47 |
+| Starred Dining | 14.00% | ~44 |
+| Terrifically Trashed | 14.00% | ~44 |
 | Smooth Operator | 13.00% | ~40 |
 | Boutique Benefits | 13.00% | ~40 |
 | Thrilled Tenants | 13.00% | ~40 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 310 (Ranked 254)  
+Progressed: 311 (Ranked 253)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 294 | 0 |
 | 2023-07-31 | 298 | 0 |
 | 2023-08-01 | 306 | 0 |
-| 2023-08-02 | 310 | 0 |
+| 2023-08-02 | 311 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

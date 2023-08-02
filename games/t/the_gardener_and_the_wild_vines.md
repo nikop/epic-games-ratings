@@ -27,7 +27,7 @@
 | Co-Authored By | 0.00% | ~0 |
 | The Gardener and the Wild Vines | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 461)  
+Progressed: 2 (Ranked 462)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |

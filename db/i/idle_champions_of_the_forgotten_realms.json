@@ -5494,9 +5494,9 @@
       "Count": 3337
     }
   ],
-  "EOS_Progressed": 217941,
+  "EOS_Progressed": 217961,
   "EOS_Completed": 2144,
-  "EOS_NewPlayers": 2191,
+  "EOS_NewPlayers": 2195,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16724,6 +16724,11 @@
       "Time": "2023-08-02T18:05:42.318476+00:00",
       "NumProgressed": 217941,
       "NumCompleted": 2144
+    },
+    {
+      "Time": "2023-08-02T19:04:30.3768076+00:00",
+      "NumProgressed": 217961,
+      "NumCompleted": 2144
     }
   ],
   "TotalAchievements": 512,
@@ -17039,7 +17044,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "objective_completed_1090",
@@ -17103,7 +17108,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6538
+      "UsersEstimate": 6539
     },
     {
       "ID": "objective_completed_110",
@@ -17295,7 +17300,7 @@
       "Name": "Supply Run",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "objective_completed_1142",
@@ -20830,21 +20835,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184215,
+      "Progressed": 184235,
       "Completed": 3051
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217941,
+      "Progressed": 217961,
       "Completed": 2144
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-02T14:59:51.4938579+00:00",
-  "LastChanged_Achievements": "2023-08-02T18:05:42.3184753+00:00",
+  "LastChanged_Achievements": "2023-08-02T19:04:30.3768071+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:59:37.0595294+00:00",
-  "LastUpdate_Achievements": "2023-08-02T18:05:42.3219865+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:58:43.4561854+00:00",
+  "LastUpdate_Achievements": "2023-08-02T19:04:30.3794396+00:00"
 }

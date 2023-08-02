@@ -9,7 +9,7 @@
 | Escape the Maze | 53.00% | ~10 |
 | Brace the cold | 42.00% | ~8 |
 | A Long Walk | 37.00% | ~7 |
-| Dont mind the heat | 16.00% | ~3 |
+| Dont mind the heat | 21.00% | ~4 |
 | A Dangerous Road | 11.00% | ~2 |
 | Scorched Ruins | 11.00% | ~2 |
 | City of Illusion | 11.00% | ~2 |

@@ -257,9 +257,9 @@
       "ID": "CgkInO_K3eIdEAIQBw",
       "SetID": "6bj96in",
       "Name": "SCRIPTORIUM SNEAK",
-      "Percentage": 51,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CgkInO_K3eIdEAIQCA",
@@ -424,8 +424,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-02T18:05:32.926587+00:00",
+  "LastChanged_Achievements": "2023-08-02T19:04:23.2603374+00:00",
   "LastUpdate_AppInfo": "2023-08-02T14:57:15.3975507+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:57:35.5030129+00:00",
-  "LastUpdate_Achievements": "2023-08-02T18:05:32.9266109+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:57:19.242996+00:00",
+  "LastUpdate_Achievements": "2023-08-02T19:04:23.2603564+00:00"
 }

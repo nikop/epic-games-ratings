@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3254,
+  "EOS_Progressed": 3255,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3871,6 +3871,11 @@
       "Time": "2023-08-02T17:03:19.5277187+00:00",
       "NumProgressed": 3254,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-02T19:01:29.1122554+00:00",
+      "NumProgressed": 3255,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3922,7 +3927,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1400
     },
     {
       "ID": "CrowdPleaser",
@@ -3986,7 +3991,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "HouseofCards_19",
@@ -4082,7 +4087,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -4106,7 +4111,7 @@
       "Name": "Tapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -4138,7 +4143,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -4202,7 +4207,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2440
+      "UsersEstimate": 2441
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4217,15 +4222,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3254,
+      "Progressed": 3255,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-08-02T18:03:22.7658386+00:00",
+  "LastChanged_Achievements": "2023-08-02T19:01:29.1122546+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.443387+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:59:18.0644484+00:00",
-  "LastUpdate_Achievements": "2023-08-02T18:03:22.7659286+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:58:28.9109855+00:00",
+  "LastUpdate_Achievements": "2023-08-02T19:01:29.1123074+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1333,
+  "EOS_Progressed": 1334,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2672,6 +2672,11 @@
       "Time": "2023-08-02T16:04:27.2468067+00:00",
       "NumProgressed": 1333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T19:04:32.2811662+00:00",
+      "NumProgressed": 1334,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2827,7 +2832,7 @@
       "Name": "Editor Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "ENDGAME",
@@ -2835,7 +2840,7 @@
       "Name": "Endgame",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "EXORCIST",
@@ -2867,7 +2872,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2915,7 +2920,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -2923,7 +2928,7 @@
       "Name": "Hold The Line",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "IM_THE_LAW",
@@ -2947,7 +2952,7 @@
       "Name": "Lumberjack",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -2987,7 +2992,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "RECYCLER",
@@ -2995,7 +3000,7 @@
       "Name": "Recycler",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "RUTHLESS",
@@ -3011,7 +3016,7 @@
       "Name": "Savior",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "SENSEI",
@@ -3059,7 +3064,7 @@
       "Name": "There Can Be Only One!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -3067,7 +3072,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "THE_WATCHERS",
@@ -3090,7 +3095,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1333,
+      "Progressed": 1334,
       "Completed": 0
     }
   ],
@@ -3098,8 +3103,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-25T07:58:49.2178401+00:00",
-  "LastChanged_Achievements": "2023-08-02T18:05:45.6456014+00:00",
+  "LastChanged_Achievements": "2023-08-02T19:04:32.2811656+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:07.4600739+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:59:44.2112445+00:00",
-  "LastUpdate_Achievements": "2023-08-02T18:05:45.6456783+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:58:51.1157909+00:00",
+  "LastUpdate_Achievements": "2023-08-02T19:04:32.2812233+00:00"
 }

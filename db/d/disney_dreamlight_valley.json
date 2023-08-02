@@ -2872,10 +2872,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7359,
       "NumberOfAwardsMax": 915
+    },
+    {
+      "Time": "2023-08-02T18:58:40.5210039+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7360,
+      "NumberOfAwardsMax": 915
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7359,
+  "NumberOfAwards": 7360,
   "NumberOfAwardsMax": 915,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2931,7 +2937,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 748
+      "Count": 749
     },
     {
       "Text": "This game has a Creative Community",
@@ -2946,9 +2952,9 @@
       "Count": 489
     }
   ],
-  "EOS_Progressed": 8080,
+  "EOS_Progressed": 8083,
   "EOS_Completed": 185,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 598,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.29,
   "EosHistory": [
@@ -8256,6 +8262,11 @@
       "Time": "2023-08-02T18:03:36.938952+00:00",
       "NumProgressed": 8080,
       "NumCompleted": 185
+    },
+    {
+      "Time": "2023-08-02T19:02:18.5524572+00:00",
+      "NumProgressed": 8083,
+      "NumCompleted": 185
     }
   ],
   "TotalAchievements": 15,
@@ -8275,7 +8286,7 @@
       "Name": "Banker",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 3313
+      "UsersEstimate": 3314
     },
     {
       "ID": "Bestest_Friend",
@@ -8283,7 +8294,7 @@
       "Name": "Bestest Friend",
       "Percentage": 49,
       "XP": 75,
-      "UsersEstimate": 3959
+      "UsersEstimate": 3961
     },
     {
       "ID": "Chef_Cook",
@@ -8291,7 +8302,7 @@
       "Name": "Chef Cook",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "Chit_Chatter",
@@ -8307,7 +8318,7 @@
       "Name": "Constructor",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 4282
+      "UsersEstimate": 4284
     },
     {
       "ID": "Duty_Bound",
@@ -8323,7 +8334,7 @@
       "Name": "Gardener",
       "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "Generous",
@@ -8331,7 +8342,7 @@
       "Name": "Generous",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "Goofys_Investor",
@@ -8339,7 +8350,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 71,
       "XP": 75,
-      "UsersEstimate": 5737
+      "UsersEstimate": 5739
     },
     {
       "ID": "Miner",
@@ -8355,7 +8366,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 5575
+      "UsersEstimate": 5577
     },
     {
       "ID": "Renovator",
@@ -8363,7 +8374,7 @@
       "Name": "Renovator",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 4202
+      "UsersEstimate": 4203
     },
     {
       "ID": "Thorn_Cleaner",
@@ -8379,23 +8390,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 5171
+      "UsersEstimate": 5173
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 8080,
+      "Progressed": 8083,
       "Completed": 185
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-08-02T17:59:33.1131843+00:00",
-  "LastChanged_Achievements": "2023-08-02T18:03:36.9389513+00:00",
+  "LastChanged": "2023-08-02T18:58:40.5210038+00:00",
+  "LastChanged_Achievements": "2023-08-02T19:02:18.5524565+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:57.9650377+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:59:33.1131848+00:00",
-  "LastUpdate_Achievements": "2023-08-02T18:03:36.9389944+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:58:40.5210043+00:00",
+  "LastUpdate_Achievements": "2023-08-02T19:02:18.5524986+00:00"
 }

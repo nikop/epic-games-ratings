@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -207,9 +207,9 @@
       "ID": "18",
       "SetID": "38ide56",
       "Name": "Training Day",
-      "Percentage": 33,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "19",
@@ -247,9 +247,9 @@
       "ID": "22",
       "SetID": "38ide56",
       "Name": "Clear the Road",
-      "Percentage": 22,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "23",
@@ -327,9 +327,9 @@
       "ID": "5",
       "SetID": "38ide56",
       "Name": "Mandy Family",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "6",
@@ -376,8 +376,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-08-02T18:06:13.3603279+00:00",
+  "LastChanged_Achievements": "2023-08-02T19:04:51.4875803+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:02.4264526+00:00",
-  "LastUpdate_Ratings": "2023-08-02T18:01:19.6410887+00:00",
-  "LastUpdate_Achievements": "2023-08-02T18:06:13.3603529+00:00"
+  "LastUpdate_Ratings": "2023-08-02T19:00:01.5750455+00:00",
+  "LastUpdate_Achievements": "2023-08-02T19:04:51.4876014+00:00"
 }

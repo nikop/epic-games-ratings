@@ -243,9 +243,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1944,
+  "EOS_Progressed": 1945,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -2038,6 +2038,11 @@
       "Time": "2023-08-02T18:04:39.664822+00:00",
       "NumProgressed": 1944,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-02T19:03:42.6334464+00:00",
+      "NumProgressed": 1945,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -2073,7 +2078,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "ACHV_05",
@@ -2097,7 +2102,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACHV_08",
@@ -2225,7 +2230,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACHV_24",
@@ -2241,7 +2246,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHV_26",
@@ -2249,7 +2254,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1555
+      "UsersEstimate": 1556
     },
     {
       "ID": "ACHV_27",
@@ -2257,7 +2262,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "ACHV_28",
@@ -2281,7 +2286,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "ACHV_31",
@@ -2321,7 +2326,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ACHV_36",
@@ -2353,7 +2358,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "ACHV_40",
@@ -2409,7 +2414,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACHV_47",
@@ -2504,7 +2509,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1944,
+      "Progressed": 1945,
       "Completed": 10
     }
   ],
@@ -2512,8 +2517,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-08-02T18:04:39.6648215+00:00",
+  "LastChanged_Achievements": "2023-08-02T19:03:42.6334456+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:20.3642762+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:57:24.5155379+00:00",
-  "LastUpdate_Achievements": "2023-08-02T18:04:39.6649233+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:57:10.3150776+00:00",
+  "LastUpdate_Achievements": "2023-08-02T19:03:42.6335019+00:00"
 }

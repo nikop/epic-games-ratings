@@ -1575,7 +1575,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13237,
+  "EOS_Progressed": 13238,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
@@ -9015,6 +9015,11 @@
       "Time": "2023-08-02T16:06:24.437546+00:00",
       "NumProgressed": 13237,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-02T19:06:35.888022+00:00",
+      "NumProgressed": 13238,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -9488,9 +9493,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
       "SetID": "7l38kb8",
       "Name": "Great",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 79
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_HOLY",
@@ -10464,9 +10469,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
@@ -11393,21 +11398,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13237,
+      "Progressed": 13238,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13237,
+      "Progressed": 13238,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-01T16:59:10.6733314+00:00",
-  "LastChanged_Achievements": "2023-08-02T18:08:17.2975357+00:00",
+  "LastChanged_Achievements": "2023-08-02T19:06:35.8880211+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.4550053+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:59:23.2583624+00:00",
-  "LastUpdate_Achievements": "2023-08-02T18:08:17.2985718+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:58:32.2940239+00:00",
+  "LastUpdate_Achievements": "2023-08-02T19:06:35.8889338+00:00"
 }

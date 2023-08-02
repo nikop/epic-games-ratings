@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.59 (Ranked 412)  
+Rating: 4.59 (Ranked 411)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,107 (Ranked 153)  
+Progressed: 3,109 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,20 +174,20 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 3,081 | 0 |
 | 2023-07-31 | 3,092 | 0 |
 | 2023-08-01 | 3,098 | 0 |
-| 2023-08-02 | 3,107 | 0 |
+| 2023-08-02 | 3,109 | 0 |
 ## Awards
 Max (Character Customization): 218  (Ranked 262)  
-Sum: 461 (Ranked 302)  
+Sum: 463 (Ranked 302)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 218 |
 | This game is Extremely Fun | 32 |
+| This game has Amazing Characters | 31 |
 | This game is Highly Recommended | 31 |
 | This game has Amazing Storytelling | 30 |
-| This game has Amazing Characters | 30 |
+| This game has Competitive Players | 27 |
 | This game has Challenging Combat | 27 |
-| This game has Competitive Players | 26 |
 | This game has Diverse Characters | 24 |
 | This game is Relaxing | 23 |
 | This game has Quickly Understood Controls | 20 |
@@ -286,4 +286,4 @@ Diff (max vs sum): -40
 | 2023-07-27 | 4.59 | - | 214 | 456 |
 | 2023-07-28 | 4.59 | - | 216 | 458 |
 | 2023-07-30 | 4.59 | - | 216 | 459 |
-| 2023-08-02 | 4.59 | - | 218 | 461 |
+| 2023-08-02 | 4.59 | - | 218 | 463 |

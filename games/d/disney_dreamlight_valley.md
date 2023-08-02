@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 71.00% | ~5,737 |
-| Photographer | 69.00% | ~5,575 |
-| Valley's Helper | 64.00% | ~5,171 |
-| Constructor | 53.00% | ~4,282 |
-| Renovator | 52.00% | ~4,202 |
-| Bestest Friend | 49.00% | ~3,959 |
-| Banker | 41.00% | ~3,313 |
-| Gardener | 32.00% | ~2,586 |
-| Generous | 24.00% | ~1,939 |
-| Chef Cook | 18.00% | ~1,454 |
+| Goofy's Investor | 71.00% | ~5,739 |
+| Photographer | 69.00% | ~5,577 |
+| Valley's Helper | 64.00% | ~5,173 |
+| Constructor | 53.00% | ~4,284 |
+| Renovator | 52.00% | ~4,203 |
+| Bestest Friend | 49.00% | ~3,961 |
+| Banker | 41.00% | ~3,314 |
+| Gardener | 32.00% | ~2,587 |
+| Generous | 24.00% | ~1,940 |
+| Chef Cook | 18.00% | ~1,455 |
 | Miner | 9.00% | ~727 |
 | Duty Bound | 6.00% | ~485 |
 | Angler | 5.00% | ~404 |
 | Thorn Cleaner | 4.00% | ~323 |
 | Chit Chatter | 3.00% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,080 (Ranked 126)  
+Progressed: 8,083 (Ranked 126)  
 Completed: 185 (2.29%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,10 +77,10 @@ Completed: 185 (2.29%) (Ranked 81)
 | 2023-07-30 | 7,857 | 184 |
 | 2023-07-31 | 7,942 | 185 |
 | 2023-08-01 | 8,013 | 185 |
-| 2023-08-02 | 8,080 | 185 |
+| 2023-08-02 | 8,083 | 185 |
 ## Awards
 Max (Great for Beginners): 915  (Ranked 148)  
-Sum: 7,359 (Ranked 106)  
+Sum: 7,360 (Ranked 106)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -89,7 +89,7 @@ Diff (max vs sum): 42
 | This game is Relaxing | 788 |
 | This game is Highly Recommended | 780 |
 | This game has Amazing Characters | 777 |
-| This game has Amazing Storytelling | 748 |
+| This game has Amazing Storytelling | 749 |
 | This game has Quickly Understood Controls | 731 |
 | This game is Extremely Fun | 728 |
 | This game has a Creative Community | 611 |
@@ -242,4 +242,4 @@ Diff (max vs sum): 42
 | 2023-07-29 | 4.76 | - | 911 | 7,346 |
 | 2023-07-31 | 4.76 | - | 912 | 7,350 |
 | 2023-08-01 | 4.76 | - | 912 | 7,353 |
-| 2023-08-02 | 4.76 | - | 915 | 7,359 |
+| 2023-08-02 | 4.76 | - | 915 | 7,360 |

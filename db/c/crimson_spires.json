@@ -2,9 +2,9 @@
   "ID": "99bfc8626efc488387233eb9ff427373",
   "Name": "Crimson Spires",
   "ProductSlug": "crimson-spires-07f5f3",
-  "Ranking_EOS_Progress": 482,
+  "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-04T12:30:00+00:00",
@@ -159,8 +159,8 @@
   ],
   "FirstSeen": "2023-06-11T19:57:19.800898+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:22.8919686+00:00",
-  "LastChanged_Achievements": "2023-08-02T18:08:44.3685548+00:00",
+  "LastChanged_Achievements": "2023-08-02T19:06:54.7462353+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:12.8171223+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:58:42.5813437+00:00",
-  "LastUpdate_Achievements": "2023-08-02T18:08:44.3685671+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:58:06.1384076+00:00",
+  "LastUpdate_Achievements": "2023-08-02T19:06:54.7462436+00:00"
 }

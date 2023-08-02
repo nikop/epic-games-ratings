@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 420,
+  "EOS_Progressed": 421,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -385,6 +385,11 @@
       "Time": "2023-08-02T12:03:13.8277907+00:00",
       "NumProgressed": 420,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-02T19:01:29.1751278+00:00",
+      "NumProgressed": 421,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -444,7 +449,7 @@
       "Name": "No Mercy",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "different-items1",
@@ -516,7 +521,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "finished-quest-reaper",
@@ -564,7 +569,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "last-hero",
@@ -572,7 +577,7 @@
       "Name": "Last Man Standing",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "save-zombie",
@@ -604,7 +609,7 @@
       "Name": "Great Hero",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "win-first-biom",
@@ -612,7 +617,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "win-first-level",
@@ -620,7 +625,7 @@
       "Name": "Good start!",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "win-koth-fights1",
@@ -652,7 +657,7 @@
       "Name": "Through the Darkness",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "win-with-3-cultists",
@@ -660,7 +665,7 @@
       "Name": "Honorary Cultist",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "win-with-mrakus",
@@ -675,7 +680,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 420,
+      "Progressed": 421,
       "Completed": 1
     }
   ],
@@ -683,8 +688,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-08-02T18:03:23.029263+00:00",
+  "LastChanged_Achievements": "2023-08-02T19:01:29.1751268+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:34.0808187+00:00",
-  "LastUpdate_Ratings": "2023-08-02T18:00:27.7030451+00:00",
-  "LastUpdate_Achievements": "2023-08-02T18:03:23.0292946+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:59:24.3602553+00:00",
+  "LastUpdate_Achievements": "2023-08-02T19:01:29.1751561+00:00"
 }

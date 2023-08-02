@@ -3,8 +3,8 @@
   "Name": "Gigapocalypse",
   "ProductSlug": "gigapocalypse-fdc53b",
   "Ranking_EOS_Progress": 293,
-  "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_Completed": 128,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 170,
+  "EOS_Progressed": 171,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.59,
+  "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:25.0690428+00:00",
@@ -308,6 +308,11 @@
       "Time": "2023-08-02T01:53:42.03943+00:00",
       "NumProgressed": 170,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-02T19:03:35.19699+00:00",
+      "NumProgressed": 171,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -335,7 +340,7 @@
       "Name": "Math Wizard",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "secret12",
@@ -343,7 +348,7 @@
       "Name": "The Duelist",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "secret13",
@@ -351,7 +356,7 @@
       "Name": "You Shall Not Pass",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "secret14",
@@ -383,7 +388,7 @@
       "Name": "Who\u0027s A Good Boy",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "secret18",
@@ -397,9 +402,9 @@
       "ID": "secret19",
       "SetID": "39f6ck8",
       "Name": "Feng Shui",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 121
     },
     {
       "ID": "secret2",
@@ -415,15 +420,15 @@
       "Name": "Caretaker",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "secret21",
       "SetID": "39f6ck8",
       "Name": "Mutant And Proud",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 63
     },
     {
       "ID": "secret22",
@@ -431,7 +436,7 @@
       "Name": "The Emperor\u0027s New Clothes",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "secret23",
@@ -445,17 +450,17 @@
       "ID": "secret24",
       "SetID": "39f6ck8",
       "Name": "Power Up",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "secret25",
       "SetID": "39f6ck8",
       "Name": "Power Overload",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "secret26",
@@ -471,7 +476,7 @@
       "Name": "Godlike Power",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "secret28",
@@ -485,9 +490,9 @@
       "ID": "secret29",
       "SetID": "39f6ck8",
       "Name": "Impenetrable Skin",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "secret3",
@@ -503,15 +508,15 @@
       "Name": "Undying Skin",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "secret31",
       "SetID": "39f6ck8",
       "Name": "Immortal Skin",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "secret32",
@@ -549,9 +554,9 @@
       "ID": "secret36",
       "SetID": "39f6ck8",
       "Name": "Overwhelming Power",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "secret37",
@@ -559,7 +564,7 @@
       "Name": "Meat Larder",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "secret38",
@@ -573,9 +578,9 @@
       "ID": "secret39",
       "SetID": "39f6ck8",
       "Name": "Chomp Chomp!",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 75
     },
     {
       "ID": "secret4",
@@ -583,7 +588,7 @@
       "Name": "Unlucky Luke",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "secret40",
@@ -599,7 +604,7 @@
       "Name": "Happy Little Home",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "secret42",
@@ -615,15 +620,15 @@
       "Name": "Quite A Snack",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "secret44",
       "SetID": "39f6ck8",
       "Name": "Lunch Before The Lunch",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "secret45",
@@ -679,7 +684,7 @@
       "Name": "Cheesy Chess",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "secret51",
@@ -687,7 +692,7 @@
       "Name": "Fire Beacon",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "secret52",
@@ -719,7 +724,7 @@
       "Name": "Too Cool For School",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "secret8",
@@ -727,22 +732,22 @@
       "Name": "Destroy Erase Improve",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "secret9",
       "SetID": "39f6ck8",
       "Name": "Supremacy",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "39f6ck8",
       "IsBase": true,
-      "Progressed": 170,
+      "Progressed": 171,
       "Completed": 1
     }
   ],
@@ -750,8 +755,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-08-02T18:04:29.0083327+00:00",
+  "LastChanged_Achievements": "2023-08-02T19:03:35.1969895+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:46.0968305+00:00",
-  "LastUpdate_Ratings": "2023-08-02T18:02:06.4362601+00:00",
-  "LastUpdate_Achievements": "2023-08-02T18:04:29.0083948+00:00"
+  "LastUpdate_Ratings": "2023-08-02T19:00:37.3954281+00:00",
+  "LastUpdate_Achievements": "2023-08-02T19:03:35.1970643+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -511,9 +511,9 @@
       "ID": "success_azalea",
       "SetID": "6h5h9ho",
       "Name": "The activist",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "success_bash",
@@ -608,8 +608,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-08-02T18:04:18.7507412+00:00",
+  "LastChanged_Achievements": "2023-08-02T19:03:28.3669904+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:06.9740875+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:58:33.2211146+00:00",
-  "LastUpdate_Achievements": "2023-08-02T18:04:18.7507585+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:57:58.1961909+00:00",
+  "LastUpdate_Achievements": "2023-08-02T19:03:28.3670081+00:00"
 }

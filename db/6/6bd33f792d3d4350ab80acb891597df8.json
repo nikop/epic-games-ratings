@@ -258,9 +258,9 @@
       "ID": "CgkIxYDzrbcPEAIQBw",
       "SetID": "4egpam7",
       "Name": "Cave Exploration",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCA",
@@ -457,8 +457,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-02T18:06:53.3929247+00:00",
+  "LastChanged_Achievements": "2023-08-02T19:05:29.0323156+00:00",
   "LastUpdate_AppInfo": "2023-08-01T13:03:42.8439888+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:57:49.3665514+00:00",
-  "LastUpdate_Achievements": "2023-08-02T18:06:53.3929546+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:57:28.8866575+00:00",
+  "LastUpdate_Achievements": "2023-08-02T19:05:29.0323394+00:00"
 }
