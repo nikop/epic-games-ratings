@@ -5470,9 +5470,9 @@
       "Count": 3337
     }
   ],
-  "EOS_Progressed": 217772,
+  "EOS_Progressed": 217778,
   "EOS_Completed": 2142,
-  "EOS_NewPlayers": 2223,
+  "EOS_NewPlayers": 2229,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16620,6 +16620,11 @@
       "Time": "2023-08-02T02:25:43.8153806+00:00",
       "NumProgressed": 217772,
       "NumCompleted": 2142
+    },
+    {
+      "Time": "2023-08-02T03:04:20.8092222+00:00",
+      "NumProgressed": 217778,
+      "NumCompleted": 2142
     }
   ],
   "TotalAchievements": 512,
@@ -16639,7 +16644,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4355
+      "UsersEstimate": 4356
     },
     {
       "ID": "objective_completed_100",
@@ -20655,7 +20660,7 @@
       "Name": "Rocky Reception",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1840
+      "UsersEstimate": 1841
     },
     {
       "ID": "objective_completed_1376",
@@ -20726,21 +20731,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184046,
+      "Progressed": 184052,
       "Completed": 3049
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217772,
+      "Progressed": 217778,
       "Completed": 2142
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-01T23:59:23.8661987+00:00",
-  "LastChanged_Achievements": "2023-08-02T02:25:43.8153801+00:00",
+  "LastChanged_Achievements": "2023-08-02T03:04:20.8092215+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-02T02:19:57.1091278+00:00",
-  "LastUpdate_Achievements": "2023-08-02T02:25:43.8185402+00:00"
+  "LastUpdate_Ratings": "2023-08-02T02:58:37.183594+00:00",
+  "LastUpdate_Achievements": "2023-08-02T03:04:20.8124203+00:00"
 }

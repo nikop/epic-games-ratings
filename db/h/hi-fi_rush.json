@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3668,
+  "EOS_Progressed": 3669,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -5042,6 +5042,11 @@
       "Time": "2023-08-02T00:05:13.6216712+00:00",
       "NumProgressed": 3668,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-02T03:04:17.0454714+00:00",
+      "NumProgressed": 3669,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -5315,9 +5320,9 @@
       "ID": "Ach034",
       "SetID": "12n4k20",
       "Name": "That\u0027s a lot of junk metal\u2026",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 73
     },
     {
       "ID": "Ach035",
@@ -5620,13 +5625,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3668,
+      "Progressed": 3669,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2189,
+      "Progressed": 2190,
       "Completed": 1928
     }
   ],
@@ -5634,8 +5639,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-08-02T02:25:40.0329811+00:00",
+  "LastChanged_Achievements": "2023-08-02T03:04:17.0454705+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:25.5055416+00:00",
-  "LastUpdate_Ratings": "2023-08-02T02:20:21.410073+00:00",
-  "LastUpdate_Achievements": "2023-08-02T02:25:40.033088+00:00"
+  "LastUpdate_Ratings": "2023-08-02T02:58:58.4397123+00:00",
+  "LastUpdate_Achievements": "2023-08-02T03:04:17.0456537+00:00"
 }

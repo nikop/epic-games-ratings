@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 493,
+  "EOS_Progressed": 494,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1100,6 +1100,11 @@
       "Time": "2023-08-01T17:08:23.9957679+00:00",
       "NumProgressed": 493,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-02T03:06:32.7600422+00:00",
+      "NumProgressed": 494,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1111,7 +1116,7 @@
       "Name": "He\u0027s so Annoying",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "BreakLegs",
@@ -1141,9 +1146,9 @@
       "ID": "Chapter10",
       "SetID": "70l3651",
       "Name": "The Friend",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 35
     },
     {
       "ID": "Chapter2",
@@ -1157,9 +1162,9 @@
       "ID": "Chapter3",
       "SetID": "70l3651",
       "Name": "The Breeder",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 109
     },
     {
       "ID": "Chapter4",
@@ -1215,7 +1220,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "Collectibles2",
@@ -1279,7 +1284,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Memories",
@@ -1295,7 +1300,7 @@
       "Name": "Murderer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "NoDamage",
@@ -1391,21 +1396,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 493,
+      "Progressed": 494,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-08-02T02:28:21.1233832+00:00",
+  "LastChanged_Achievements": "2023-08-02T03:06:32.7600414+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:41.3820376+00:00",
-  "LastUpdate_Ratings": "2023-08-02T02:19:36.2201522+00:00",
-  "LastUpdate_Achievements": "2023-08-02T02:28:21.1234166+00:00"
+  "LastUpdate_Ratings": "2023-08-02T02:58:16.735608+00:00",
+  "LastUpdate_Achievements": "2023-08-02T03:06:32.7600778+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~120,713 |
-| Where's that freaking Dwarf? | 47.00% | ~96,161 |
-| GG EZ | 28.00% | ~57,287 |
-| Speedrun | 26.00% | ~53,195 |
-| Déjà vu | 21.00% | ~42,966 |
-| Sock! SOCK! | 17.00% | ~34,782 |
+| Alt+F4 | 59.00% | ~120,716 |
+| Where's that freaking Dwarf? | 47.00% | ~96,163 |
+| GG EZ | 28.00% | ~57,289 |
+| Speedrun | 26.00% | ~53,197 |
+| Déjà vu | 21.00% | ~42,967 |
+| Sock! SOCK! | 17.00% | ~34,783 |
 | DM intervention | 13.00% | ~26,598 |
 | Fireproof Wizardess | 10.00% | ~20,460 |
 | Livin' in a dwarven paradise | 8.00% | ~16,368 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,598 (Ranked 55)  
+Progressed: 204,603 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 203,178 | 0 |
 | 2023-07-31 | 203,882 | 0 |
 | 2023-08-01 | 204,538 | 0 |
-| 2023-08-02 | 204,598 | 0 |
+| 2023-08-02 | 204,603 | 0 |
 ## Awards
 Max (Character Customization): 146  (Ranked 298)  
 Sum: 146 (Ranked 393)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -575,9 +575,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 531,
+  "EOS_Progressed": 534,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1635,6 +1635,11 @@
       "Time": "2023-08-02T01:54:13.2215755+00:00",
       "NumProgressed": 531,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T03:03:56.5347831+00:00",
+      "NumProgressed": 534,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -1661,9 +1666,9 @@
       "ID": "MF_Ach_Deadication",
       "SetID": "9b9n573",
       "Name": "Deadication",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 5
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -1685,7 +1690,7 @@
       "ID": "MF_Ach_EverythingMustGo",
       "SetID": "9b9n573",
       "Name": "Everything Must Go!",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -1765,17 +1770,17 @@
       "ID": "MF_Ach_NextTimeOnMythForce",
       "SetID": "9b9n573",
       "Name": "Next Time on MythForce...",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 5
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
       "SetID": "9b9n573",
       "Name": "On this Episode!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 5
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -1805,9 +1810,9 @@
       "ID": "MF_Ach_TenStepsFromTheGrave",
       "SetID": "9b9n573",
       "Name": "Ten Steps from the Grave",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 5
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -1830,15 +1835,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 531,
+      "Progressed": 534,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-26T02:04:08.2630657+00:00",
-  "LastChanged_Achievements": "2023-08-02T02:25:27.7617852+00:00",
+  "LastChanged_Achievements": "2023-08-02T03:03:56.5347825+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.6709929+00:00",
-  "LastUpdate_Ratings": "2023-08-02T02:20:14.0007987+00:00",
-  "LastUpdate_Achievements": "2023-08-02T02:25:27.7618078+00:00"
+  "LastUpdate_Ratings": "2023-08-02T02:58:52.9426512+00:00",
+  "LastUpdate_Achievements": "2023-08-02T03:03:56.5348128+00:00"
 }

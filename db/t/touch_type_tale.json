@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3096,
+  "EOS_Progressed": 3097,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2639,6 +2639,11 @@
       "Time": "2023-08-02T02:25:45.9971398+00:00",
       "NumProgressed": 3096,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-02T03:04:22.1546995+00:00",
+      "NumProgressed": 3097,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2650,7 +2655,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "bonus2",
@@ -2698,7 +2703,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2756
     },
     {
       "ID": "campaign10",
@@ -2786,7 +2791,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2447
     },
     {
       "ID": "campaign20",
@@ -2802,7 +2807,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "campaign4",
@@ -2810,7 +2815,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "campaign5",
@@ -2826,7 +2831,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "campaign7",
@@ -2842,7 +2847,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "campaign9",
@@ -2850,7 +2855,7 @@
       "Name": "Boulder Clash",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "scenario1",
@@ -2858,7 +2863,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "scenario2",
@@ -2913,7 +2918,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3096,
+      "Progressed": 3097,
       "Completed": 10
     }
   ],
@@ -2921,8 +2926,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-08-02T02:25:45.9971393+00:00",
+  "LastChanged_Achievements": "2023-08-02T03:04:22.154699+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:07.7269994+00:00",
-  "LastUpdate_Ratings": "2023-08-02T02:22:01.5499586+00:00",
-  "LastUpdate_Achievements": "2023-08-02T02:25:45.9971811+00:00"
+  "LastUpdate_Ratings": "2023-08-02T03:00:27.1801323+00:00",
+  "LastUpdate_Achievements": "2023-08-02T03:04:22.1547457+00:00"
 }

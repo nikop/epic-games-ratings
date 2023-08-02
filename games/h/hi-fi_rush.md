@@ -32,9 +32,9 @@ Rating: 4.87 (Ranked 24)
 | Beat-hit mania | 2.00% | ~73 |
 | You must like calling me in, Chai | 2.00% | ~73 |
 | Perfecter Parry-er! | 2.00% | ~73 |
+| That's a lot of junk metal… | 2.00% | ~73 |
 | I look cool. But I can look COOLER. | 2.00% | ~73 |
 | Chip-tuned | 1.00% | ~37 |
-| That's a lot of junk metal… | 1.00% | ~37 |
 | There's such a thing as TOO helpful | 1.00% | ~37 |
 | Wanna hear my playlist? | 0.90% | ~33 |
 | Call me Turbo Chai | 0.90% | ~20 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,668 (Ranked 146)  
+Progressed: 3,669 (Ranked 146)  
 Completed: 6 (0.16%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 6 (0.16%) (Ranked 180)
 | 2023-07-30 | 3,640 | 6 |
 | 2023-07-31 | 3,656 | 6 |
 | 2023-08-01 | 3,666 | 6 |
-| 2023-08-02 | 3,668 | 6 |
+| 2023-08-02 | 3,669 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

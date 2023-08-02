@@ -8,7 +8,7 @@
 | Your first fight | 85.00% | ~173 |
 | Good Person Chip | 84.00% | ~171 |
 | First winning | 83.00% | ~168 |
-| Your first job | 82.00% | ~166 |
+| Your first job | 83.00% | ~168 |
 | Old movies enjoyer | 79.00% | ~160 |
 | First defeat | 78.00% | ~158 |
 | Fitness professional | 76.00% | ~154 |
@@ -24,10 +24,10 @@
 | Employee of the month | 61.00% | ~124 |
 | Spirit of the past | 60.00% | ~122 |
 | Law student | 59.00% | ~120 |
-| Workout professional | 56.00% | ~114 |
+| Workout professional | 57.00% | ~116 |
+| Intriguing candies | 57.00% | ~116 |
 | Little hacker | 56.00% | ~114 |
 | Champion – starter pack | 56.00% | ~114 |
-| Intriguing candies | 56.00% | ~114 |
 | Own four walls | 55.00% | ~112 |
 | Handyman | 54.00% | ~110 |
 | It's good to be alive | 54.00% | ~110 |
@@ -52,12 +52,12 @@
 | Mom got better | 33.00% | ~67 |
 | The die is cast | 33.00% | ~67 |
 | Seashell hunter | 33.00% | ~67 |
+| Undercover robot | 32.00% | ~65 |
 | The last bell ring | 31.00% | ~63 |
-| Undercover robot | 31.00% | ~63 |
 | Gang wrangler | 30.00% | ~61 |
+| Problems of cyborgs | 30.00% | ~61 |
 | Not little hacker | 30.00% | ~61 |
 | Absolute Champion! | 30.00% | ~61 |
-| Problems of cyborgs | 29.00% | ~59 |
 | Another world | 28.00% | ~57 |
 | The lonesome road | 28.00% | ~57 |
 | Keep nature safe | 28.00% | ~57 |

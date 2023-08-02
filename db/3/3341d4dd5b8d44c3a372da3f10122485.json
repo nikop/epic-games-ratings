@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -322,17 +322,17 @@
       "ID": "Kanalizace",
       "SetID": "823jm6g",
       "Name": "Sewers",
-      "Percentage": 84,
+      "Percentage": 87,
       "XP": 75,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Kompotarna",
       "SetID": "823jm6g",
       "Name": "Pantry",
-      "Percentage": 84,
+      "Percentage": 87,
       "XP": 80,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Konec",
@@ -417,8 +417,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-08-02T02:26:17.4666437+00:00",
+  "LastChanged_Achievements": "2023-08-02T03:04:48.6407961+00:00",
   "LastUpdate_AppInfo": "2023-07-28T14:57:04.1674151+00:00",
-  "LastUpdate_Ratings": "2023-08-02T02:18:33.0218504+00:00",
-  "LastUpdate_Achievements": "2023-08-02T02:26:17.4666545+00:00"
+  "LastUpdate_Ratings": "2023-08-02T02:57:23.6540729+00:00",
+  "LastUpdate_Achievements": "2023-08-02T03:04:48.6408077+00:00"
 }

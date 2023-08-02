@@ -10,13 +10,13 @@
 | Cadenza | 2.00% | ~16 |
 | Staccato | 2.00% | ~16 |
 | Maestro Mountain | 2.00% | ~16 |
+| Fugue Forest | 2.00% | ~16 |
 | Tempo | 1.00% | ~8 |
-| Fugue Forest | 1.00% | ~8 |
+| Coda Cave | 0.80% | ~6 |
+| Solo Sea | 0.80% | ~6 |
+| Silent City: Reprise | 0.80% | ~6 |
 | Cadence | 0.80% | ~6 |
 | Coda Cave Glyph | 0.60% | ~5 |
-| Coda Cave | 0.60% | ~5 |
-| Solo Sea | 0.60% | ~5 |
-| Silent City: Reprise | 0.60% | ~5 |
 | Antiphony | 0.50% | ~4 |
 | Silent City Glyph | 0.50% | ~4 |
 | Maestro Mountain Glyph | 0.50% | ~4 |

@@ -1,13 +1,13 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.67 (Ranked 257)  
+Rating: 4.67 (Ranked 256)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,393 |
-| Un-Lonely Island | 47.00% | ~2,126 |
+| Just One...More...Term... | 75.00% | ~3,394 |
+| Un-Lonely Island | 47.00% | ~2,127 |
 | The Beginning of a Servantship | 45.00% | ~2,036 |
 | Trade Is My Trait | 37.00% | ~1,674 |
 | Number 18 | 24.00% | ~1,086 |
@@ -26,10 +26,10 @@ Number of Ratings: 398  (23.09.2022)
 | Make Tropico Great Again! | 8.00% | ~362 |
 | I Owe You Nothing | 7.00% | ~317 |
 | French Connection | 7.00% | ~317 |
-| Don't Panic! | 6.00% | ~271 |
-| Computer Says "No" | 6.00% | ~271 |
-| Beware The Betman | 6.00% | ~271 |
-| Watch The World Burn | 6.00% | ~271 |
+| Don't Panic! | 6.00% | ~272 |
+| Computer Says "No" | 6.00% | ~272 |
+| Beware The Betman | 6.00% | ~272 |
+| Watch The World Burn | 6.00% | ~272 |
 | Viva Tropico! | 5.00% | ~226 |
 | Fairy Tale Come True | 5.00% | ~226 |
 | Apocalypso | 4.00% | ~181 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~41 |
 | My Ways | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,524 (Ranked 144)  
+Progressed: 4,525 (Ranked 144)  
 Completed: 2 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 2 (0.04%) (Ranked 218)
 | 2023-07-30 | 4,451 | 2 |
 | 2023-07-31 | 4,478 | 2 |
 | 2023-08-01 | 4,521 | 2 |
-| 2023-08-02 | 4,524 | 2 |
+| 2023-08-02 | 4,525 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 341)  
 Sum: 672 (Ranked 276)  

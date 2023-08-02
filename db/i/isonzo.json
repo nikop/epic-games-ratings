@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -736,9 +736,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6544,
+  "EOS_Progressed": 6545,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4051,6 +4051,11 @@
       "Time": "2023-08-02T00:06:45.6786942+00:00",
       "NumProgressed": 6544,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-02T03:05:20.7405456+00:00",
+      "NumProgressed": 6545,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4230,7 +4235,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2421
+      "UsersEstimate": 2422
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -4254,7 +4259,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3599
+      "UsersEstimate": 3600
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -4270,7 +4275,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -4390,7 +4395,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3599
+      "UsersEstimate": 3600
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -4414,14 +4419,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3468
+      "UsersEstimate": 3469
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6544,
+      "Progressed": 6545,
       "Completed": 8
     }
   ],
@@ -4429,8 +4434,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-01T20:57:49.8563487+00:00",
-  "LastChanged_Achievements": "2023-08-02T02:26:55.5968182+00:00",
+  "LastChanged_Achievements": "2023-08-02T03:05:20.7405449+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:14.0482826+00:00",
-  "LastUpdate_Ratings": "2023-08-02T02:19:21.5090839+00:00",
-  "LastUpdate_Achievements": "2023-08-02T02:26:55.5968764+00:00"
+  "LastUpdate_Ratings": "2023-08-02T02:58:01.037767+00:00",
+  "LastUpdate_Achievements": "2023-08-02T03:05:20.7406128+00:00"
 }

@@ -493,9 +493,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 334255,
+  "EOS_Progressed": 334258,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1730,
+  "EOS_NewPlayers": 1729,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11788,6 +11788,11 @@
       "Time": "2023-08-02T02:28:10.6516299+00:00",
       "NumProgressed": 334255,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-02T03:06:23.9816261+00:00",
+      "NumProgressed": 334258,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 80,
@@ -11887,7 +11892,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26740
+      "UsersEstimate": 26741
     },
     {
       "ID": "ach013",
@@ -11927,7 +11932,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 43453
+      "UsersEstimate": 43454
     },
     {
       "ID": "ach018",
@@ -11935,7 +11940,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26740
+      "UsersEstimate": 26741
     },
     {
       "ID": "ach019",
@@ -12007,7 +12012,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 153757
+      "UsersEstimate": 153759
     },
     {
       "ID": "ach028",
@@ -12151,7 +12156,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 43453
+      "UsersEstimate": 43454
     },
     {
       "ID": "ach046",
@@ -12438,7 +12443,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 334255,
+      "Progressed": 334258,
       "Completed": 6
     }
   ],
@@ -12446,8 +12451,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-08-01T21:58:52.584391+00:00",
-  "LastChanged_Achievements": "2023-08-02T02:28:10.6516292+00:00",
+  "LastChanged_Achievements": "2023-08-02T03:06:23.9816255+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:41.4176028+00:00",
-  "LastUpdate_Ratings": "2023-08-02T02:19:37.113393+00:00",
-  "LastUpdate_Achievements": "2023-08-02T02:28:10.6517953+00:00"
+  "LastUpdate_Ratings": "2023-08-02T02:58:20.4551521+00:00",
+  "LastUpdate_Achievements": "2023-08-02T03:06:23.9819195+00:00"
 }

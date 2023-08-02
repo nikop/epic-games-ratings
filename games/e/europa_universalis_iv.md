@@ -14,8 +14,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Navy | 6.00% | ~4,622 |
 | Seriously?! | 6.00% | ~4,622 |
 | For the Glory | 5.00% | ~3,852 |
-| Cold War | 4.00% | ~3,081 |
-| True Catholic | 4.00% | ~3,081 |
+| Cold War | 4.00% | ~3,082 |
+| True Catholic | 4.00% | ~3,082 |
 | Defender of the Faith | 3.00% | ~2,311 |
 | It's all about luck | 3.00% | ~2,311 |
 | It's all about the money | 3.00% | ~2,311 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,035 (Ranked 76)  
+Progressed: 77,038 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -465,7 +465,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 76,185 | 0 |
 | 2023-07-31 | 76,579 | 0 |
 | 2023-08-01 | 77,006 | 0 |
-| 2023-08-02 | 77,035 | 0 |
+| 2023-08-02 | 77,038 | 0 |
 ## Awards
 Max (Educational): 5,603  (Ranked 61)  
 Sum: 46,238 (Ranked 26)  

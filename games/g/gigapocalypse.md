@@ -22,8 +22,8 @@
 | Glorious Battle | 41.00% | ~70 |
 | Diaper Time! | 41.00% | ~70 |
 | Target Practice | 41.00% | ~70 |
+| Meat Larder | 39.00% | ~66 |
 | Mutant And Proud | 38.00% | ~65 |
-| Meat Larder | 38.00% | ~65 |
 | The Emperor's New Clothes | 32.00% | ~54 |
 | Final Evolution | 30.00% | ~51 |
 | You Shall Not Pass | 29.00% | ~49 |

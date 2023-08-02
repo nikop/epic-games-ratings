@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 630,
+  "EOS_Progressed": 631,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 10.95,
+  "EOS_Completed_Percentage": 10.94,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2026,6 +2026,11 @@
       "Time": "2023-08-02T02:27:49.7005676+00:00",
       "NumProgressed": 630,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-08-02T03:06:06.3105422+00:00",
+      "NumProgressed": 631,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 30,
@@ -2037,7 +2042,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "LEVEL_002",
@@ -2053,7 +2058,7 @@
       "Name": "A horse in the country",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "LEVEL_004",
@@ -2061,7 +2066,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "LEVEL_005",
@@ -2069,7 +2074,7 @@
       "Name": "Small village",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "LEVEL_006",
@@ -2093,7 +2098,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "LEVEL_009",
@@ -2133,7 +2138,7 @@
       "Name": "Higher ground",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "LEVEL_014",
@@ -2157,7 +2162,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "LEVEL_017",
@@ -2173,7 +2178,7 @@
       "Name": "Isle rock city",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "LEVEL_019",
@@ -2276,14 +2281,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 630,
+      "Progressed": 631,
       "Completed": 69
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-08-02T02:27:49.7005671+00:00",
+  "LastChanged_Achievements": "2023-08-02T03:06:06.3105414+00:00",
   "LastUpdate_AppInfo": "2023-07-31T17:57:14.0464775+00:00",
-  "LastUpdate_Ratings": "2023-08-02T02:18:52.5296608+00:00",
-  "LastUpdate_Achievements": "2023-08-02T02:27:49.7006008+00:00"
+  "LastUpdate_Ratings": "2023-08-02T02:57:37.2531268+00:00",
+  "LastUpdate_Achievements": "2023-08-02T03:06:06.3105768+00:00"
 }

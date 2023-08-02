@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -90,10 +90,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68465,
+  "EOS_Progressed": 68466,
   "EOS_Completed": 679,
-  "EOS_NewPlayers": 894,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 893,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
@@ -11405,6 +11405,11 @@
       "Time": "2023-08-02T01:57:18.0011398+00:00",
       "NumProgressed": 68465,
       "NumCompleted": 679
+    },
+    {
+      "Time": "2023-08-02T03:06:28.8966+00:00",
+      "NumProgressed": 68466,
+      "NumCompleted": 679
     }
   ],
   "TotalAchievements": 25,
@@ -11448,7 +11453,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 15062
+      "UsersEstimate": 15063
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -11536,7 +11541,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13008
+      "UsersEstimate": 13009
     },
     {
       "ID": "Nice Try",
@@ -11544,7 +11549,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10954
+      "UsersEstimate": 10955
     },
     {
       "ID": "Nothing Left to Say",
@@ -11560,7 +11565,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 6846
+      "UsersEstimate": 6847
     },
     {
       "ID": "Right On Target",
@@ -11568,7 +11573,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 8900
+      "UsersEstimate": 8901
     },
     {
       "ID": "Sniper",
@@ -11615,7 +11620,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 68465,
+      "Progressed": 68466,
       "Completed": 679
     }
   ],
@@ -11623,8 +11628,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-07-28T23:00:50.3607038+00:00",
-  "LastChanged_Achievements": "2023-08-02T02:28:16.6496163+00:00",
+  "LastChanged_Achievements": "2023-08-02T03:06:28.8965993+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:54.7008229+00:00",
-  "LastUpdate_Ratings": "2023-08-02T02:18:14.0285507+00:00",
-  "LastUpdate_Achievements": "2023-08-02T02:28:16.6497034+00:00"
+  "LastUpdate_Ratings": "2023-08-02T02:57:07.2822326+00:00",
+  "LastUpdate_Achievements": "2023-08-02T03:06:28.8967491+00:00"
 }

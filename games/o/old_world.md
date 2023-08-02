@@ -13,9 +13,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 1.00% | ~132 |
 | Architect | 1.00% | ~132 |
 | Explorer | 1.00% | ~132 |
+| Good | 1.00% | ~132 |
 | Intrepid | 1.00% | ~132 |
 | Mason | 1.00% | ~132 |
 | Noble | 1.00% | ~132 |
+| Pioneer | 1.00% | ~132 |
 | Strong | 1.00% | ~132 |
 | Friendly Family | 1.00% | ~132 |
 | Hanging Gardens | 1.00% | ~132 |
@@ -23,15 +25,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 1.00% | ~132 |
 | Poetic Leader | 1.00% | ~132 |
 | Enlightened | 0.90% | ~119 |
-| Good | 0.90% | ~119 |
+| Glorious | 0.90% | ~119 |
 | Just | 0.90% | ~119 |
 | Keystone | 0.90% | ~119 |
 | Learned | 0.90% | ~119 |
-| Pioneer | 0.90% | ~119 |
 | Judaism | 0.90% | ~119 |
 | Naming Landmarks | 0.90% | ~119 |
 | Ambitious | 0.80% | ~106 |
-| Glorious | 0.80% | ~106 |
 | Magnificent | 0.80% | ~106 |
 | Warrior | 0.80% | ~106 |
 | Developing Cities | 0.80% | ~106 |
@@ -64,6 +64,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.50% | ~66 |
 | Valiant | 0.50% | ~66 |
 | Legendary Cities | 0.50% | ~66 |
+| Champions | 0.50% | ~66 |
 | Sages | 0.50% | ~66 |
 | Acropolis | 0.50% | ~66 |
 | Apadana | 0.50% | ~66 |
@@ -76,7 +77,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.40% | ~53 |
 | Conqueror | 0.40% | ~53 |
 | Good Difficulty | 0.40% | ~53 |
-| Champions | 0.40% | ~53 |
 | Patrons | 0.40% | ~53 |
 | Statesmen | 0.40% | ~53 |
 | Traders | 0.40% | ~53 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,229 (Ranked 117)  
+Progressed: 13,230 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,7 +407,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-07-30 | 13,191 | 5 |
 | 2023-07-31 | 13,209 | 5 |
 | 2023-08-01 | 13,228 | 5 |
-| 2023-08-02 | 13,229 | 5 |
+| 2023-08-02 | 13,230 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 262)  
 Sum: 1,786 (Ranked 206)  
