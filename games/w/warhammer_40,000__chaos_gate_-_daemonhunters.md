@@ -18,18 +18,19 @@ Number of Ratings: 371  (23.09.2022)
 | Surgical Excision | 0.90% | ~28 |
 | A Foul Creche | 0.90% | ~28 |
 | Honoured Battle-Brother | 0.70% | ~22 |
-| The Emperor Protects | 0.60% | ~19 |
+| The Emperor Protects | 0.70% | ~22 |
 | Nemesis Master | 0.50% | ~16 |
 | Gunmaster | 0.50% | ~16 |
 | Just a Scratch | 0.50% | ~16 |
 | Execution Force | 0.50% | ~16 |
+| Hive Exterminator | 0.50% | ~16 |
 | Hold Your Ground | 0.40% | ~12 |
-| Hive Exterminator | 0.40% | ~12 |
 | Corruption Cleanser | 0.30% | ~9 |
 | Mind Like a Fortress | 0.30% | ~9 |
 | Efficient Killer | 0.30% | ~9 |
 | Long Distance Call | 0.30% | ~9 |
 | Tactical Sabotage | 0.30% | ~9 |
+| Fleetmaster | 0.20% | ~6 |
 | Daemonkeeper | 0.20% | ~6 |
 | Exterminator | 0.20% | ~6 |
 | Only in Death | 0.20% | ~6 |
@@ -40,7 +41,6 @@ Number of Ratings: 371  (23.09.2022)
 | Blood and Iron | 0.10% | ~3 |
 | Clean Slate | 0.10% | ~3 |
 | Patron of Deimos | 0.10% | ~3 |
-| Fleetmaster | 0.10% | ~3 |
 | For the Machine God | 0.10% | ~3 |
 | Unstable Immaterium | 0.10% | ~3 |
 | Strike Force | 0.10% | ~3 |

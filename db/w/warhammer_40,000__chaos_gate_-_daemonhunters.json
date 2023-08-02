@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -2975,9 +2975,9 @@
       "ID": "FleetMaster",
       "SetID": "2im8phi",
       "Name": "Fleetmaster",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ForTheMachineGod",
@@ -3127,9 +3127,9 @@
       "ID": "MasterCraftLevel3_Armour",
       "SetID": "3jha1np",
       "Name": "The Emperor Protects",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -3399,9 +3399,9 @@
       "ID": "TentarusHive_Destroyed",
       "SetID": "2im8phi",
       "Name": "Hive Exterminator",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
@@ -3421,8 +3421,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-02T18:59:25.1426431+00:00",
-  "LastChanged_Achievements": "2023-08-02T19:04:28.7796352+00:00",
+  "LastChanged_Achievements": "2023-08-02T20:05:02.3147235+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:36.2653351+00:00",
-  "LastUpdate_Ratings": "2023-08-02T18:59:25.1426437+00:00",
-  "LastUpdate_Achievements": "2023-08-02T19:04:28.7797173+00:00"
+  "LastUpdate_Ratings": "2023-08-02T19:59:41.6093202+00:00",
+  "LastUpdate_Achievements": "2023-08-02T20:05:02.3148084+00:00"
 }

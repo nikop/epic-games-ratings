@@ -6,11 +6,11 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 58.00% | ~1,559 |
+| You're free now! | 58.00% | ~1,560 |
 | Keeping it classy | 26.00% | ~699 |
 | Welcome to the family | 20.00% | ~538 |
 | The finer things in life | 17.00% | ~457 |
-| Backpacker | 13.00% | ~349 |
+| Backpacker | 13.00% | ~350 |
 | Go with the Flow | 12.00% | ~323 |
 | Plastic Surgeon | 9.00% | ~242 |
 | The flip trick crown jewel | 9.00% | ~242 |
@@ -23,18 +23,18 @@ Number of Ratings: 111  (23.09.2022)
 | Finally he zips it | 6.00% | ~161 |
 | That pinch! | 6.00% | ~161 |
 | Tight lipslides | 6.00% | ~161 |
-| Commence the Hijinx! | 5.00% | ~134 |
 | Fulfilled the dream | 5.00% | ~134 |
 | G'Day Mate! | 5.00% | ~134 |
-| Laid back | 5.00% | ~134 |
 | NAHELL! | 5.00% | ~134 |
 | Purple passion | 5.00% | ~134 |
 | Squad goals | 5.00% | ~134 |
 | Sup widdit big dog! | 5.00% | ~134 |
+| Commence the Hijinx! | 4.00% | ~108 |
 | Cops called! | 4.00% | ~108 |
 | DIY Boss | 4.00% | ~108 |
 | Globetrotter | 4.00% | ~108 |
 | G.O.A.T. status | 4.00% | ~108 |
+| Laid back | 4.00% | ~108 |
 | Lines for days | 4.00% | ~108 |
 | Manny Destroys All | 4.00% | ~108 |
 | Prince of Philly | 4.00% | ~108 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,688 (Ranked 159)  
+Progressed: 2,689 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 2,660 | 0 |
 | 2023-07-31 | 2,669 | 0 |
 | 2023-08-01 | 2,680 | 0 |
-| 2023-08-02 | 2,688 | 0 |
+| 2023-08-02 | 2,689 | 0 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 399)  
 Sum: 443 (Ranked 306)  

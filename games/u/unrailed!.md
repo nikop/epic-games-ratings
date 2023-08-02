@@ -6,24 +6,24 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 16.00% | ~100,512 |
-| Incurious | 15.00% | ~94,230 |
-| Stroller | 14.00% | ~87,948 |
-| Climate Change | 14.00% | ~87,948 |
-| Toy Train | 12.00% | ~75,384 |
-| Advanced Hiker | 11.00% | ~69,102 |
-| Hiker | 10.00% | ~62,820 |
-| Mojave Courier | 5.00% | ~31,410 |
-| Saved by Nausicaä | 4.00% | ~25,128 |
-| Voyager | 3.00% | ~18,846 |
-| Advanced Voyager | 3.00% | ~18,846 |
-| Expert Stroller | 3.00% | ~18,846 |
-| Orient Express | 3.00% | ~18,846 |
-| Expert Hiker | 2.00% | ~12,564 |
-| Marathon | 2.00% | ~12,564 |
-| Destructionist | 2.00% | ~12,564 |
+| Advanced Stroller | 16.00% | ~100,518 |
+| Incurious | 15.00% | ~94,235 |
+| Stroller | 14.00% | ~87,953 |
+| Climate Change | 14.00% | ~87,953 |
+| Toy Train | 12.00% | ~75,388 |
+| Advanced Hiker | 11.00% | ~69,106 |
+| Hiker | 10.00% | ~62,824 |
+| Mojave Courier | 5.00% | ~31,412 |
+| Saved by Nausicaä | 4.00% | ~25,129 |
+| Voyager | 3.00% | ~18,847 |
+| Advanced Voyager | 3.00% | ~18,847 |
+| Expert Stroller | 3.00% | ~18,847 |
+| Orient Express | 3.00% | ~18,847 |
+| Expert Hiker | 2.00% | ~12,565 |
+| Marathon | 2.00% | ~12,565 |
+| Destructionist | 2.00% | ~12,565 |
 | Lost | 1.00% | ~6,282 |
-| Rocketman | 0.70% | ~4,397 |
+| Rocketman | 0.70% | ~4,398 |
 | Expert Voyager | 0.60% | ~3,769 |
 | Shopaholic | 0.60% | ~3,769 |
 | Nanuk | 0.50% | ~3,141 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~628 |
 | 20 Miles under the Sea | 0.10% | ~628 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 628,198 (Ranked 25)  
+Progressed: 628,235 (Ranked 25)  
 Completed: 7 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 7 (0.00%) (Ranked 247)
 | 2023-07-30 | 626,918 | 7 |
 | 2023-07-31 | 627,311 | 7 |
 | 2023-08-01 | 627,820 | 7 |
-| 2023-08-02 | 628,198 | 7 |
+| 2023-08-02 | 628,235 | 7 |
 ## Awards
 Max (Diverse Characters): 190  (Ranked 276)  
 Sum: 1,542 (Ranked 215)  

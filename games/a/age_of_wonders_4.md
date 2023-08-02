@@ -31,16 +31,16 @@ Rating: 4.63 (Ranked 333)
 | Fiery Friend | 3.00% | ~152 |
 | Against the Odds | 3.00% | ~152 |
 | Impenetrable Fortress | 3.00% | ~152 |
-| The Magic That Empowers Me! | 2.00% | ~101 |
-| God Emperor | 2.00% | ~101 |
-| Lord of Chaos | 2.00% | ~101 |
-| Arch Mage | 2.00% | ~101 |
-| The Creator | 2.00% | ~101 |
-| The Goddess of Nature | 2.00% | ~101 |
-| Eternal Lord | 2.00% | ~101 |
-| Crimson Caldera | 2.00% | ~101 |
-| The Eternal Court | 2.00% | ~101 |
-| Duality | 2.00% | ~101 |
+| The Magic That Empowers Me! | 2.00% | ~102 |
+| God Emperor | 2.00% | ~102 |
+| Lord of Chaos | 2.00% | ~102 |
+| Arch Mage | 2.00% | ~102 |
+| The Creator | 2.00% | ~102 |
+| The Goddess of Nature | 2.00% | ~102 |
+| Eternal Lord | 2.00% | ~102 |
+| Crimson Caldera | 2.00% | ~102 |
+| The Eternal Court | 2.00% | ~102 |
+| Duality | 2.00% | ~102 |
 | Jack of All Tomes | 1.00% | ~51 |
 | Pruning for Progress | 1.00% | ~51 |
 | Grexolis | 1.00% | ~51 |
@@ -56,7 +56,7 @@ Rating: 4.63 (Ranked 333)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,074 (Ranked 138)  
+Progressed: 5,075 (Ranked 138)  
 Completed: 5 (0.10%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 5 (0.10%) (Ranked 196)
 | 2023-07-30 | 5,061 | 5 |
 | 2023-07-31 | 5,068 | 5 |
 | 2023-08-01 | 5,070 | 5 |
-| 2023-08-02 | 5,074 | 5 |
+| 2023-08-02 | 5,075 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

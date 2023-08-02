@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5074,
+  "EOS_Progressed": 5075,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5585,6 +5585,11 @@
       "Time": "2023-08-02T19:04:39.2800941+00:00",
       "NumProgressed": 5074,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-02T20:05:12.8232039+00:00",
+      "NumProgressed": 5075,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5628,7 +5633,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "14",
@@ -5652,7 +5657,7 @@
       "Name": "God Emperor",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "17",
@@ -5660,7 +5665,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "18",
@@ -5668,7 +5673,7 @@
       "Name": "Arch Mage",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "19",
@@ -5676,7 +5681,7 @@
       "Name": "The Creator",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "2",
@@ -5692,7 +5697,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "21",
@@ -5700,7 +5705,7 @@
       "Name": "Eternal Lord",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "22",
@@ -5772,7 +5777,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "30",
@@ -5860,7 +5865,7 @@
       "Name": "The Eternal Court",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "40",
@@ -5964,7 +5969,7 @@
       "Name": "Duality",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "48",
@@ -5995,13 +6000,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5074,
+      "Progressed": 5075,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5074,
+      "Progressed": 5075,
       "Completed": 5
     }
   ],
@@ -6009,8 +6014,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-19T14:00:18.5966835+00:00",
-  "LastChanged_Achievements": "2023-08-02T19:04:39.2800935+00:00",
+  "LastChanged_Achievements": "2023-08-02T20:05:12.8232033+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:09.0087451+00:00",
-  "LastUpdate_Ratings": "2023-08-02T19:00:05.9846075+00:00",
-  "LastUpdate_Achievements": "2023-08-02T19:04:39.2801688+00:00"
+  "LastUpdate_Ratings": "2023-08-02T20:00:26.3818419+00:00",
+  "LastUpdate_Achievements": "2023-08-02T20:05:12.8232859+00:00"
 }

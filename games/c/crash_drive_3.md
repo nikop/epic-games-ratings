@@ -5,27 +5,27 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Brace for impact! | 32.00% | ~114 |
+| A Forest Walk | 31.00% | ~111 |
 | Baby's First Car | 30.00% | ~107 |
 | Pushover | 30.00% | ~107 |
-| A Forest Walk | 30.00% | ~107 |
-| Amateur Mechanic | 29.00% | ~103 |
-| C-C-C-Combo! | 28.00% | ~100 |
-| Multiply that! | 28.00% | ~100 |
+| Amateur Mechanic | 29.00% | ~104 |
+| C-C-C-Combo! | 27.00% | ~96 |
+| Multiply that! | 27.00% | ~96 |
 | Fore! | 25.00% | ~89 |
 | Insurance fraud | 25.00% | ~89 |
 | Snow Fun! | 25.00% | ~89 |
-| The Collector | 24.00% | ~85 |
-| The Wild West | 24.00% | ~85 |
-| Bag of Tricks | 24.00% | ~85 |
-| In the Bag! | 24.00% | ~85 |
-| You're it | 24.00% | ~85 |
+| The Collector | 24.00% | ~86 |
+| The Wild West | 24.00% | ~86 |
+| Bag of Tricks | 24.00% | ~86 |
+| In the Bag! | 24.00% | ~86 |
+| You're it | 24.00% | ~86 |
 | To and Fro | 23.00% | ~82 |
 | Goodbye cruel world | 23.00% | ~82 |
 | I see the light! | 23.00% | ~82 |
-| First Come, First Serve | 22.00% | ~78 |
-| Disoriented | 22.00% | ~78 |
-| Take that Frosty! | 22.00% | ~78 |
-| Beach Party! | 22.00% | ~78 |
+| First Come, First Serve | 22.00% | ~79 |
+| Disoriented | 22.00% | ~79 |
+| Take that Frosty! | 22.00% | ~79 |
+| Beach Party! | 22.00% | ~79 |
 | Car-Tapult | 21.00% | ~75 |
 | Anger Issues | 21.00% | ~75 |
 | Your Highness | 21.00% | ~75 |
@@ -36,15 +36,15 @@
 | Ferry Good! | 18.00% | ~64 |
 | Assert Dominance | 18.00% | ~64 |
 | Speed of light | 18.00% | ~64 |
-| Out of this League | 15.00% | ~53 |
+| Out of this League | 15.00% | ~54 |
 | Special Forces | 14.00% | ~50 |
 | Toot Toot! | 13.00% | ~46 |
 | Blasting away! | 13.00% | ~46 |
-| High Roller | 12.00% | ~43 |
 | Earth Defense Force | 12.00% | ~43 |
 | Rocketman | 12.00% | ~43 |
+| High Roller | 11.00% | ~39 |
 | Event Pro | 10.00% | ~36 |
-| Space Crash | 8.00% | ~28 |
+| Space Crash | 8.00% | ~29 |
 | To war! | 7.00% | ~25 |
 | Hoarder | 6.00% | ~21 |
 | Event Master | 5.00% | ~18 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 356 (Ranked 244)  
+Progressed: 357 (Ranked 244)  
 Completed: 2 (0.56%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 2 (0.56%) (Ranked 130)
 | 2023-07-26 | 350 | 2 |
 | 2023-07-31 | 352 | 2 |
 | 2023-08-01 | 354 | 2 |
-| 2023-08-02 | 356 | 2 |
+| 2023-08-02 | 357 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

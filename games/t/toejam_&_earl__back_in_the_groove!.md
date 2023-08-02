@@ -10,7 +10,7 @@ Rating: 4.32 (Ranked 773)
 | HFZ Goober | 6.00% | ~3,371 |
 | Thrill Seeker | 6.00% | ~3,371 |
 | Flying Present Catcher | 5.00% | ~2,809 |
-| Sunflower Master | 4.00% | ~2,247 |
+| Sunflower Master | 4.00% | ~2,248 |
 | Hi Fiver | 3.00% | ~1,686 |
 | Backer Visitor | 2.00% | ~1,124 |
 | Hate That Randomizer | 2.00% | ~1,124 |
@@ -20,7 +20,7 @@ Rating: 4.32 (Ranked 773)
 | Fool Me Twice | 1.00% | ~562 |
 | Old School Jammin' | 1.00% | ~562 |
 | Wakey Wakey | 1.00% | ~562 |
-| Level Diver | 0.80% | ~449 |
+| Level Diver | 0.80% | ~450 |
 | Gimme My Presents Back! | 0.70% | ~393 |
 | Cleaning Out Santa's Sack | 0.70% | ~393 |
 | Teamwork Rules | 0.70% | ~393 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 773)
 | Why Do I Keep Doing That? | 0.10% | ~56 |
 | Hey, You Did It! | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,187 (Ranked 87)  
+Progressed: 56,189 (Ranked 87)  
 Completed: 4 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 4 (0.01%) (Ranked 234)
 | 2023-07-30 | 56,133 | 4 |
 | 2023-07-31 | 56,149 | 4 |
 | 2023-08-01 | 56,162 | 4 |
-| 2023-08-02 | 56,187 | 4 |
+| 2023-08-02 | 56,189 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

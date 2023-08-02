@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -646,9 +646,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11748,
+  "EOS_Progressed": 11750,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -8196,6 +8196,11 @@
       "Time": "2023-08-02T19:06:58.128229+00:00",
       "NumProgressed": 11748,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-08-02T20:08:11.2754546+00:00",
+      "NumProgressed": 11750,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 35,
@@ -8207,7 +8212,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9516
+      "UsersEstimate": 9518
     },
     {
       "ID": "ACH02",
@@ -8223,7 +8228,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "ACH04",
@@ -8231,7 +8236,7 @@
       "Name": "Hoopin\u0027 it Up",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH05",
@@ -8263,7 +8268,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5874
+      "UsersEstimate": 5875
     },
     {
       "ID": "ACH09",
@@ -8287,7 +8292,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "ACH12",
@@ -8295,7 +8300,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH13",
@@ -8351,7 +8356,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH20",
@@ -8367,7 +8372,7 @@
       "Name": "Lucky Spinner",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH22",
@@ -8383,7 +8388,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2937
+      "UsersEstimate": 2938
     },
     {
       "ID": "ACH24",
@@ -8415,7 +8420,7 @@
       "Name": "Assassin",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH28",
@@ -8447,7 +8452,7 @@
       "Name": "Chick Magnet",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH32",
@@ -8486,7 +8491,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11748,
+      "Progressed": 11750,
       "Completed": 34
     }
   ],
@@ -8494,8 +8499,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-01T05:01:22.5591656+00:00",
-  "LastChanged_Achievements": "2023-08-02T19:06:58.1282283+00:00",
+  "LastChanged_Achievements": "2023-08-02T20:08:11.2754537+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.4328142+00:00",
-  "LastUpdate_Ratings": "2023-08-02T19:00:58.7814644+00:00",
-  "LastUpdate_Achievements": "2023-08-02T19:06:58.1282981+00:00"
+  "LastUpdate_Ratings": "2023-08-02T20:01:20.659683+00:00",
+  "LastUpdate_Achievements": "2023-08-02T20:08:11.2755288+00:00"
 }

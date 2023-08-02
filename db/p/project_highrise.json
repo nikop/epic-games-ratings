@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 311,
+  "EOS_Progressed": 312,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -762,6 +762,11 @@
       "Time": "2023-08-02T19:02:26.5104588+00:00",
       "NumProgressed": 311,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T20:03:50.6218837+00:00",
+      "NumProgressed": 312,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -789,15 +794,15 @@
       "Name": "Lux Living",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_apartments_2",
       "SetID": "b8gh1fi",
       "Name": "Penthouse in the Sky",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_area",
@@ -805,7 +810,7 @@
       "Name": "Floor Galore",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ach_area_1",
@@ -861,7 +866,7 @@
       "Name": "Campaign Launch",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ach_campaigns_1",
@@ -941,7 +946,7 @@
       "Name": "Smooth Operator",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_contracts_1",
@@ -979,9 +984,9 @@
       "ID": "ach_deco",
       "SetID": "b8gh1fi",
       "Name": "Proper Walls",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 97
     },
     {
       "ID": "ach_drones",
@@ -1107,9 +1112,9 @@
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 147
     },
     {
       "ID": "ach_grime_1",
@@ -1141,7 +1146,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_mod_1",
@@ -1211,9 +1216,9 @@
       "ID": "ach_prestige_1",
       "SetID": "b8gh1fi",
       "Name": "Your Prestige is Rising",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_prestige_2",
@@ -1237,7 +1242,7 @@
       "Name": "In the Black",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ach_profit_1",
@@ -1293,7 +1298,7 @@
       "Name": "Dinner Dash",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ach_restaurants_4",
@@ -1315,9 +1320,9 @@
       "ID": "ach_retail_1",
       "SetID": "b8gh1fi",
       "Name": "Retail Revenue",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_retail_2",
@@ -1341,7 +1346,7 @@
       "Name": "Boutique Benefits",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_revs_1",
@@ -1403,9 +1408,9 @@
       "ID": "ach_trash_1",
       "SetID": "b8gh1fi",
       "Name": "Terrifically Trashed",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_tutorial",
@@ -1461,7 +1466,7 @@
       "Name": "Thrilled Tenants",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_visitors_1",
@@ -1476,7 +1481,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 311,
+      "Progressed": 312,
       "Completed": 0
     }
   ],
@@ -1484,8 +1489,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-08-02T19:02:26.5104579+00:00",
+  "LastChanged_Achievements": "2023-08-02T20:03:50.6218833+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:50.6819272+00:00",
-  "LastUpdate_Ratings": "2023-08-02T18:58:34.0960807+00:00",
-  "LastUpdate_Achievements": "2023-08-02T19:02:26.5105677+00:00"
+  "LastUpdate_Ratings": "2023-08-02T19:58:50.936082+00:00",
+  "LastUpdate_Achievements": "2023-08-02T20:03:50.6219988+00:00"
 }

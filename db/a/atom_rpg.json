@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -360,7 +360,7 @@
   ],
   "EOS_Progressed": 1112,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2133,9 +2133,9 @@
       "ID": "HEAD_BURST_1",
       "SetID": "bf13m8j",
       "Name": "Head Burst",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 222
     },
     {
       "ID": "INDY_1",
@@ -2333,8 +2333,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-08-02T19:03:57.5551918+00:00",
+  "LastChanged_Achievements": "2023-08-02T20:04:41.9428773+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:04.0177394+00:00",
-  "LastUpdate_Ratings": "2023-08-02T19:00:50.193618+00:00",
-  "LastUpdate_Achievements": "2023-08-02T19:03:57.555224+00:00"
+  "LastUpdate_Ratings": "2023-08-02T20:01:11.8689175+00:00",
+  "LastUpdate_Achievements": "2023-08-02T20:04:41.9429179+00:00"
 }

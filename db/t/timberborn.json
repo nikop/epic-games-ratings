@@ -4,11 +4,11 @@
   "ProductSlug": "timberborn",
   "Ranking_Rating": 170,
   "Ranking_Popularity": 307,
-  "Ranking_PopularitySum": 245,
+  "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 527,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-09-15T15:00:00+00:00",
     "PcReleaseDate": "2021-09-15T15:00:00+00:00",
@@ -1263,11 +1263,17 @@
       "Rating": 4.72,
       "NumberOfAwards": 913,
       "NumberOfAwardsMax": 130
+    },
+    {
+      "Time": "2023-08-02T19:58:53.7229969+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 914,
+      "NumberOfAwardsMax": 131
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 913,
-  "NumberOfAwardsMax": 130,
+  "NumberOfAwards": 914,
+  "NumberOfAwardsMax": 131,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1286,7 +1292,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 130
+      "Count": 131
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1342,8 +1348,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:12.1167851+00:00",
-  "LastChanged": "2023-07-30T21:59:04.0134477+00:00",
+  "LastChanged": "2023-08-02T19:58:53.7229967+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:54.4627308+00:00",
-  "LastUpdate_Ratings": "2023-08-02T18:58:36.1784391+00:00",
-  "LastUpdate_Achievements": "2023-08-02T19:02:18.375974+00:00"
+  "LastUpdate_Ratings": "2023-08-02T19:58:53.7229973+00:00",
+  "LastUpdate_Achievements": "2023-08-02T20:03:42.5439518+00:00"
 }

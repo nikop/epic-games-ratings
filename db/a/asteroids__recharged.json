@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
     "PcReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -244,9 +244,9 @@
       "ID": "ACH_NOW_IM_HERE",
       "SetID": "ca3jj1k",
       "Name": "Now I\u0027m Here",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -276,9 +276,9 @@
       "ID": "ACH_THE_HITMAN",
       "SetID": "ca3jj1k",
       "Name": "The Hitman",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -317,8 +317,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2023-08-02T19:04:35.9329757+00:00",
+  "LastChanged_Achievements": "2023-08-02T20:05:09.4968248+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:34.9768378+00:00",
-  "LastUpdate_Ratings": "2023-08-02T18:59:27.9550046+00:00",
-  "LastUpdate_Achievements": "2023-08-02T19:04:35.9329905+00:00"
+  "LastUpdate_Ratings": "2023-08-02T19:59:44.3924115+00:00",
+  "LastUpdate_Achievements": "2023-08-02T20:05:09.4968356+00:00"
 }

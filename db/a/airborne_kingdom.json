@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6944,
+  "EOS_Progressed": 6945,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -3268,6 +3268,11 @@
       "Time": "2023-08-02T19:01:11.6412465+00:00",
       "NumProgressed": 6944,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-02T20:03:16.1918238+00:00",
+      "NumProgressed": 6945,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -3287,7 +3292,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -3311,7 +3316,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3680
+      "UsersEstimate": 3681
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -3375,7 +3380,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -3487,22 +3492,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6944,
+      "Progressed": 6945,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-08-02T19:01:11.6412461+00:00",
+  "LastChanged_Achievements": "2023-08-02T20:03:16.1918231+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.513053+00:00",
-  "LastUpdate_Ratings": "2023-08-02T18:58:01.501079+00:00",
-  "LastUpdate_Achievements": "2023-08-02T19:01:11.6413206+00:00"
+  "LastUpdate_Ratings": "2023-08-02T19:58:14.9935569+00:00",
+  "LastUpdate_Achievements": "2023-08-02T20:03:16.1918671+00:00"
 }

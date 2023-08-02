@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -2122,8 +2122,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-08-02T19:06:54.1773134+00:00",
+  "LastChanged_Achievements": "2023-08-02T20:07:27.7061192+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:25.5227526+00:00",
-  "LastUpdate_Ratings": "2023-08-02T18:59:14.420157+00:00",
-  "LastUpdate_Achievements": "2023-08-02T19:06:54.1773347+00:00"
+  "LastUpdate_Ratings": "2023-08-02T19:59:30.1632496+00:00",
+  "LastUpdate_Achievements": "2023-08-02T20:07:27.7061404+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "way-of-the-hunter",
   "Ranking_Rating": 735,
   "Ranking_Popularity": 424,
-  "Ranking_PopularitySum": 348,
+  "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 527,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-08-22T17:00:00+00:00",
     "PcReleaseDate": "2022-08-16T17:00:00+00:00",
@@ -770,10 +770,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 268,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-08-02T19:59:55.0196238+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 269,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 268,
+  "NumberOfAwards": 269,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -823,7 +829,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Diverse Characters",
@@ -862,8 +868,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
-  "LastChanged": "2023-08-01T02:04:47.6442486+00:00",
+  "LastChanged": "2023-08-02T19:59:55.0196237+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:48.3280962+00:00",
-  "LastUpdate_Ratings": "2023-08-02T18:59:38.1031663+00:00",
-  "LastUpdate_Achievements": "2023-08-02T19:05:32.9366793+00:00"
+  "LastUpdate_Ratings": "2023-08-02T19:59:55.0196243+00:00",
+  "LastUpdate_Achievements": "2023-08-02T20:05:56.7787529+00:00"
 }

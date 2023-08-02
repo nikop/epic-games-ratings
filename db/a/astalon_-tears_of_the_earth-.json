@@ -3,9 +3,9 @@
   "Name": "Astalon -Tears of the Earth-",
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 347,
-  "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_Completed": 62,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 61,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.33,
+  "EOS_Completed_Percentage": 3.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:01.3708206+00:00",
@@ -75,6 +75,11 @@
     {
       "Time": "2023-07-30T14:06:44.1545774+00:00",
       "NumProgressed": 60,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-02T20:03:26.8223187+00:00",
+      "NumProgressed": 61,
       "NumCompleted": 2
     }
   ],
@@ -141,7 +146,7 @@
       "ID": "Buy_All_Bram_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Gorgonslayer Mastery",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -149,7 +154,7 @@
       "ID": "Buy_All_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Built for adventure",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -157,7 +162,7 @@
       "ID": "Buy_All_Kyuli_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Rogue Mastery",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -165,7 +170,7 @@
       "ID": "Buy_All_Zeek_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Collector Mastery",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -173,7 +178,7 @@
       "ID": "Collect_10000_Orbs",
       "SetID": "4f0g260",
       "Name": "Orb Gatherer",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -205,7 +210,7 @@
       "ID": "Complete_Bestiary_50",
       "SetID": "4f0g260",
       "Name": "Beast Hunter",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -261,15 +266,15 @@
       "ID": "Defeat_Tauros",
       "SetID": "4f0g260",
       "Name": "Horn prize!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Defeat_Volantis",
       "SetID": "4f0g260",
       "Name": "Space worm!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -277,7 +282,7 @@
       "ID": "Find_Secret_Ending1",
       "SetID": "4f0g260",
       "Name": "Fly, you fool!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -326,7 +331,7 @@
     {
       "ID": "4f0g260",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 61,
       "Completed": 2
     }
   ],
@@ -334,8 +339,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-08-02T19:01:22.5238642+00:00",
+  "LastChanged_Achievements": "2023-08-02T20:03:26.8223182+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.0042283+00:00",
-  "LastUpdate_Ratings": "2023-08-02T18:58:58.4648964+00:00",
-  "LastUpdate_Achievements": "2023-08-02T19:01:22.5238844+00:00"
+  "LastUpdate_Ratings": "2023-08-02T19:59:12.7547215+00:00",
+  "LastUpdate_Achievements": "2023-08-02T20:03:26.8223403+00:00"
 }
