@@ -745,9 +745,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 33683,
+  "EOS_Progressed": 33685,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1008,
+  "EOS_NewPlayers": 1003,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11985,6 +11985,11 @@
       "Time": "2023-08-02T03:03:50.892932+00:00",
       "NumProgressed": 33683,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-02T04:03:51.0353296+00:00",
+      "NumProgressed": 33685,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -11996,7 +12001,7 @@
       "Name": "Junkie",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "distance1000000",
@@ -12012,7 +12017,7 @@
       "Name": "Traveler",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "distance50000",
@@ -12052,7 +12057,7 @@
       "Name": "Amateur",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3031
+      "UsersEstimate": 3032
     },
     {
       "ID": "goals75",
@@ -12084,7 +12089,7 @@
       "Name": "Journeyer",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "lifeaquatic",
@@ -12124,7 +12129,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5389
+      "UsersEstimate": 5390
     },
     {
       "ID": "playerFelipe",
@@ -12156,7 +12161,7 @@
       "Name": "Unlock Paz",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "playerTime3days",
@@ -12260,7 +12265,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5052
+      "UsersEstimate": 5053
     },
     {
       "ID": "unlockpaz",
@@ -12307,15 +12312,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 33683,
+      "Progressed": 33685,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-28T06:00:25.7046366+00:00",
-  "LastChanged_Achievements": "2023-08-02T03:03:50.8929312+00:00",
+  "LastChanged_Achievements": "2023-08-02T04:03:51.035329+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:58.7881773+00:00",
-  "LastUpdate_Ratings": "2023-08-02T02:59:38.2722627+00:00",
-  "LastUpdate_Achievements": "2023-08-02T03:03:50.8930928+00:00"
+  "LastUpdate_Ratings": "2023-08-02T03:59:35.2669676+00:00",
+  "LastUpdate_Achievements": "2023-08-02T04:03:51.0354271+00:00"
 }

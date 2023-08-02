@@ -9687,18 +9687,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 196465,
       "NumberOfAwardsMax": 74576
+    },
+    {
+      "Time": "2023-08-02T03:58:23.8780527+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 196533,
+      "NumberOfAwardsMax": 74644
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 196465,
-  "NumberOfAwardsMax": 74576,
+  "NumberOfAwards": 196533,
+  "NumberOfAwardsMax": 74644,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 74576
+      "Count": 74644
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -9767,9 +9773,9 @@
       "Count": 5467
     }
   ],
-  "EOS_Progressed": 868827,
+  "EOS_Progressed": 868829,
   "EOS_Completed": 1926,
-  "EOS_NewPlayers": 1174,
+  "EOS_NewPlayers": 1169,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -21072,6 +21078,11 @@
       "Time": "2023-08-02T03:04:10.1804269+00:00",
       "NumProgressed": 868827,
       "NumCompleted": 1926
+    },
+    {
+      "Time": "2023-08-02T04:04:00.0976154+00:00",
+      "NumProgressed": 868829,
+      "NumCompleted": 1926
     }
   ],
   "TotalAchievements": 44,
@@ -21099,7 +21110,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 139012
+      "UsersEstimate": 139013
     },
     {
       "ID": "Cyberjunkie",
@@ -21131,7 +21142,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 78194
+      "UsersEstimate": 78195
     },
     {
       "ID": "Gearhead",
@@ -21211,7 +21222,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 78194
+      "UsersEstimate": 78195
     },
     {
       "ID": "MustBeTheRats",
@@ -21267,7 +21278,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 78194
+      "UsersEstimate": 78195
     },
     {
       "ID": "Temperance",
@@ -21299,7 +21310,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 590802
+      "UsersEstimate": 590804
     },
     {
       "ID": "TheHermit",
@@ -21307,7 +21318,7 @@
       "Name": "The Hermit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 208518
+      "UsersEstimate": 208519
     },
     {
       "ID": "TheHightPriestess",
@@ -21323,7 +21334,7 @@
       "Name": "The Lovers",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 295401
+      "UsersEstimate": 295402
     },
     {
       "ID": "TheStar",
@@ -21347,7 +21358,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 234583
+      "UsersEstimate": 234584
     },
     {
       "ID": "TheWorld",
@@ -21379,7 +21390,7 @@
       "Name": "True Soldier",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 199830
+      "UsersEstimate": 199831
     },
     {
       "ID": "TrueWarrior",
@@ -21434,15 +21445,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 868827,
+      "Progressed": 868829,
       "Completed": 1926
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-08-01T21:59:00.6999666+00:00",
-  "LastChanged_Achievements": "2023-08-02T03:04:10.1804262+00:00",
+  "LastChanged": "2023-08-02T03:58:23.8780526+00:00",
+  "LastChanged_Achievements": "2023-08-02T04:04:00.0976148+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.8722173+00:00",
-  "LastUpdate_Ratings": "2023-08-02T02:58:25.0124269+00:00",
-  "LastUpdate_Achievements": "2023-08-02T03:04:10.1805338+00:00"
+  "LastUpdate_Ratings": "2023-08-02T03:58:23.8780531+00:00",
+  "LastUpdate_Achievements": "2023-08-02T04:04:00.0977191+00:00"
 }

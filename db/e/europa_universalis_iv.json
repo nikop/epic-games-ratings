@@ -7734,9 +7734,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 77038,
+  "EOS_Progressed": 77047,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2855,
+  "EOS_NewPlayers": 2856,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19084,6 +19084,11 @@
       "Time": "2023-08-02T03:06:02.6766413+00:00",
       "NumProgressed": 77038,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T04:05:53.1833259+00:00",
+      "NumProgressed": 77047,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -19535,7 +19540,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4622
+      "UsersEstimate": 4623
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -20095,7 +20100,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 6163
+      "UsersEstimate": 6164
     },
     {
       "ID": "achievement_grand_coalition",
@@ -20119,7 +20124,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4622
+      "UsersEstimate": 4623
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -21095,7 +21100,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4622
+      "UsersEstimate": 4623
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -21375,7 +21380,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 6163
+      "UsersEstimate": 6164
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -21759,7 +21764,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 6933
+      "UsersEstimate": 6934
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -21791,7 +21796,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 6163
+      "UsersEstimate": 6164
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -21926,21 +21931,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 77038,
+      "Progressed": 77047,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 77038,
+      "Progressed": 77047,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-08-01T19:58:06.0751547+00:00",
-  "LastChanged_Achievements": "2023-08-02T03:06:02.6766408+00:00",
+  "LastChanged_Achievements": "2023-08-02T04:05:53.1833255+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.0548947+00:00",
-  "LastUpdate_Ratings": "2023-08-02T02:57:52.7777177+00:00",
-  "LastUpdate_Achievements": "2023-08-02T03:06:02.678023+00:00"
+  "LastUpdate_Ratings": "2023-08-02T03:57:57.3851953+00:00",
+  "LastUpdate_Achievements": "2023-08-02T04:05:53.1846919+00:00"
 }

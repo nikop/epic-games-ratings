@@ -205,9 +205,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 32277,
+  "EOS_Progressed": 32282,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 904,
+  "EOS_NewPlayers": 907,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11445,6 +11445,11 @@
       "Time": "2023-08-02T03:04:36.6006639+00:00",
       "NumProgressed": 32277,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-02T04:04:26.2123521+00:00",
+      "NumProgressed": 32282,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -11464,7 +11469,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6455
+      "UsersEstimate": 6456
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -11488,7 +11493,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -11550,9 +11555,9 @@
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
       "SetID": "443p4o4",
       "Name": "Oh God, Mother! Blood! Blood!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -11687,7 +11692,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 32277,
+      "Progressed": 32282,
       "Completed": 20
     }
   ],
@@ -11695,8 +11700,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-01T20:00:57.6814566+00:00",
-  "LastChanged_Achievements": "2023-08-02T03:04:36.6006632+00:00",
+  "LastChanged_Achievements": "2023-08-02T04:04:26.2123511+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:53.1512382+00:00",
-  "LastUpdate_Ratings": "2023-08-02T03:00:18.0467691+00:00",
-  "LastUpdate_Achievements": "2023-08-02T03:04:36.6008158+00:00"
+  "LastUpdate_Ratings": "2023-08-02T04:00:08.6235576+00:00",
+  "LastUpdate_Achievements": "2023-08-02T04:04:26.2124635+00:00"
 }

@@ -3332,9 +3332,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10750,
+  "EOS_Progressed": 10752,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9927,6 +9927,11 @@
       "Time": "2023-08-02T03:00:49.9098894+00:00",
       "NumProgressed": 10750,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T04:00:42.0353534+00:00",
+      "NumProgressed": 10752,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9946,7 +9951,7 @@
       "Name": "Burning City",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -9954,7 +9959,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "04_FithCrusade",
@@ -9978,7 +9983,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "07_FinalThreshold",
@@ -10170,7 +10175,7 @@
       "Name": "Divide and Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "32_MythicReinforcements",
@@ -10178,7 +10183,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "33_DefendersHeart",
@@ -10306,7 +10311,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "49_Flame",
@@ -10322,7 +10327,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -10865,21 +10870,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9532,
+      "Progressed": 9534,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10750,
+      "Progressed": 10752,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-01T23:59:49.2334934+00:00",
-  "LastChanged_Achievements": "2023-08-02T03:00:49.9098889+00:00",
+  "LastChanged_Achievements": "2023-08-02T04:00:42.0353529+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-08-02T02:58:53.0693862+00:00",
-  "LastUpdate_Achievements": "2023-08-02T03:00:49.9101194+00:00"
+  "LastUpdate_Ratings": "2023-08-02T03:58:48.7516429+00:00",
+  "LastUpdate_Achievements": "2023-08-02T04:00:42.0355692+00:00"
 }

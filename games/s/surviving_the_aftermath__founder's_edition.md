@@ -39,7 +39,7 @@ Number of Ratings: 836  (23.09.2022)
 | Bookworm | 15.00% | ~1,192 |
 | Famous Adventurer | 14.00% | ~1,112 |
 | Prepared for Anything | 13.00% | ~1,033 |
-| Big Catastrofan | 12.00% | ~953 |
+| Big Catastrofan | 13.00% | ~1,033 |
 | It's a Finnish Thing | 10.00% | ~794 |
 | Sky Burial | 9.00% | ~715 |
 | Trader | 8.00% | ~636 |

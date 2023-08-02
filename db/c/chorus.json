@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -280,9 +280,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 1105,
+  "EOS_Progressed": 1106,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -1570,6 +1570,11 @@
       "Time": "2023-08-02T00:05:45.5200257+00:00",
       "NumProgressed": 1105,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-02T04:04:28.3804035+00:00",
+      "NumProgressed": 1106,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 43,
@@ -1581,7 +1586,7 @@
       "Name": "Demigod",
       "Percentage": 75,
       "XP": 150,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "DieInPermadeath",
@@ -1597,7 +1602,7 @@
       "Name": "Voices from the Past",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "Finish5SideMissions",
@@ -1605,7 +1610,7 @@
       "Name": "Helping Hand",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "FinishAllSideMissions",
@@ -1613,7 +1618,7 @@
       "Name": "Paragon",
       "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "GatlingVsArmor",
@@ -1669,7 +1674,7 @@
       "Name": "Mastery of Weapons",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "MissionActivateDish",
@@ -1749,7 +1754,7 @@
       "Name": "Disciple",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "MissionHelios",
@@ -1763,9 +1768,9 @@
       "ID": "MissionLiberateEnclave",
       "SetID": "a6c395p",
       "Name": "Safe Home",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 730
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -1781,7 +1786,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -1805,7 +1810,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "MissionShipyard",
@@ -1821,7 +1826,7 @@
       "Name": "The Path Forward",
       "Percentage": 45,
       "XP": 70,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "MissionTemple",
@@ -1829,7 +1834,7 @@
       "Name": "Disruption",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -1853,7 +1858,7 @@
       "Name": "Overcharged",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "RadiationCloud",
@@ -1861,7 +1866,7 @@
       "Name": "Radiation Area",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "RiteOfControl",
@@ -1901,7 +1906,7 @@
       "Name": "Phoenix",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "VisitAllLocations",
@@ -1909,7 +1914,7 @@
       "Name": "Space Traveler",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "WinARace",
@@ -1917,22 +1922,22 @@
       "Name": "Relentless",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1105,
+      "Progressed": 1106,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-08-02T03:04:38.7193298+00:00",
+  "LastChanged_Achievements": "2023-08-02T04:04:28.3804026+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:56.2520049+00:00",
-  "LastUpdate_Ratings": "2023-08-02T03:00:20.5132649+00:00",
-  "LastUpdate_Achievements": "2023-08-02T03:04:38.7193819+00:00"
+  "LastUpdate_Ratings": "2023-08-02T04:00:11.2040844+00:00",
+  "LastUpdate_Achievements": "2023-08-02T04:04:28.380445+00:00"
 }

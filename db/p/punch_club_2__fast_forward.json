@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 59,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -903,9 +903,9 @@
       "ID": "huey_win",
       "SetID": "69co12a",
       "Name": "No bullying more",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     },
     {
       "ID": "intro_dream",
@@ -1175,17 +1175,17 @@
       "ID": "work_promotion_1",
       "SetID": "69co12a",
       "Name": "Employee of the week",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 152
     },
     {
       "ID": "work_promotion_2",
       "SetID": "69co12a",
       "Name": "Employee of the month",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "work_promotion_3",
@@ -1206,8 +1206,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-02T03:03:13.0783264+00:00",
+  "LastChanged_Achievements": "2023-08-02T04:03:12.4488163+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:10.4822993+00:00",
-  "LastUpdate_Ratings": "2023-08-02T02:57:55.1788707+00:00",
-  "LastUpdate_Achievements": "2023-08-02T03:03:13.0784101+00:00"
+  "LastUpdate_Ratings": "2023-08-02T03:57:59.7247887+00:00",
+  "LastUpdate_Achievements": "2023-08-02T04:03:12.4488873+00:00"
 }

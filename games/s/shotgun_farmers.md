@@ -11,7 +11,7 @@
 | Survivor | 54.00% | ~102 |
 | No Asperascope | 51.00% | ~122 |
 | Cornivore | 50.00% | ~120 |
-| I Believe I Can Fly | 47.00% | ~112 |
+| I Believe I Can Fly | 48.00% | ~115 |
 | Early Survivor | 41.00% | ~77 |
 | No Diggity | 41.00% | ~77 |
 | Amateur Survivor | 30.00% | ~57 |
@@ -22,7 +22,7 @@
 | Professional Survivor | 22.00% | ~42 |
 | Grave Digger | 22.00% | ~42 |
 | Drinking Problem | 21.00% | ~50 |
-| Pork Chop Express | 17.00% | ~41 |
+| Pork Chop Express | 18.00% | ~43 |
 | This Is My Boomstick | 16.00% | ~30 |
 | Skin Of Your Teeth | 15.00% | ~36 |
 | Getting Started | 13.00% | ~31 |

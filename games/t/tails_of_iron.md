@@ -5,23 +5,23 @@ Rating: 4.53 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 80.00% | ~1,466 |
-| Become King | 73.00% | ~1,338 |
-| Defeat 25 Frogs | 62.00% | ~1,136 |
-| Ranged Weapon | 61.00% | ~1,118 |
-| Collect Monster Parts | 58.00% | ~1,063 |
-| Two Handed Weapon | 56.00% | ~1,026 |
-| Defeat 25 Grubs | 52.00% | ~953 |
-| Rescue Redgi's Brothers | 52.00% | ~953 |
+| Complete Guard Faction | 80.00% | ~1,467 |
+| Become King | 72.00% | ~1,320 |
+| Defeat 25 Frogs | 62.00% | ~1,137 |
+| Ranged Weapon | 61.00% | ~1,119 |
+| Collect Monster Parts | 58.00% | ~1,064 |
+| Two Handed Weapon | 56.00% | ~1,027 |
+| Defeat 25 Grubs | 52.00% | ~954 |
+| Rescue Redgi's Brothers | 52.00% | ~954 |
 | Collect Iron Ore | 47.00% | ~862 |
-| Defeat 25 Mozis | 46.00% | ~843 |
-| Kitchen Ready To Cook | 46.00% | ~843 |
+| Defeat 25 Mozis | 46.00% | ~844 |
+| Kitchen Ready To Cook | 46.00% | ~844 |
 | Collect Gold | 45.00% | ~825 |
 | Smithy Ready to Craft | 45.00% | ~825 |
-| Fix the Travellers Wagon | 43.00% | ~788 |
-| Complete Elder Faction | 40.00% | ~733 |
-| End of the Mozis | 37.00% | ~678 |
-| Throne Room Fit For A King | 37.00% | ~678 |
+| Fix the Travellers Wagon | 43.00% | ~789 |
+| Complete Elder Faction | 40.00% | ~734 |
+| End of the Mozis | 37.00% | ~679 |
+| Throne Room Fit For A King | 37.00% | ~679 |
 | Meet the Creatures from the Deep | 35.00% | ~642 |
 | Return Power To The Depths | 35.00% | ~642 |
 | Defeat Ratnor Rodentson | 29.00% | ~532 |
@@ -36,7 +36,7 @@ Rating: 4.53 (Ranked 512)
 | King of Kings | 8.00% | ~147 |
 | A new Warchief rises | 0.80% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,833 (Ranked 170)  
+Progressed: 1,834 (Ranked 170)  
 Completed: 8 (0.44%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,6 +128,7 @@ Completed: 8 (0.44%) (Ranked 143)
 | 2023-07-30 | 1,823 | 8 |
 | 2023-07-31 | 1,830 | 8 |
 | 2023-08-01 | 1,833 | 8 |
+| 2023-08-02 | 1,834 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

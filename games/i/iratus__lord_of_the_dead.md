@@ -6,32 +6,32 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~30,938 |
-| Blood Moon | 73.00% | ~26,571 |
-| Path of the Necromancer | 66.00% | ~24,023 |
-| Chainbreaker - I | 60.00% | ~21,839 |
-| Cursed Creature | 57.00% | ~20,747 |
-| Extraction | 57.00% | ~20,747 |
-| Chainbreaker - II | 55.00% | ~20,019 |
-| Necromancer's Apprentice | 51.00% | ~18,563 |
-| Keeper of Keys | 47.00% | ~17,107 |
-| Distillation | 43.00% | ~15,651 |
-| Mountain King - I | 42.00% | ~15,287 |
-| Transmutation | 42.00% | ~15,287 |
-| Prepared Necromancer | 41.00% | ~14,923 |
-| Mountain King - II | 40.00% | ~14,559 |
-| Blind Rage | 38.00% | ~13,831 |
-| Mad Genius | 35.00% | ~12,739 |
-| Cannon Fodder - I | 35.00% | ~12,739 |
-| Soul of Lies | 34.00% | ~12,375 |
-| Bane of Mercenaries - I | 33.00% | ~12,011 |
-| Bane of Mercenaries - II | 31.00% | ~11,283 |
-| Shadow Between Worlds | 30.00% | ~10,919 |
-| Cannon Fodder - II | 29.00% | ~10,555 |
-| Bane of Monsters | 28.00% | ~10,191 |
-| Chainbreaker - III | 28.00% | ~10,191 |
-| Revealed Secrets - I | 27.00% | ~9,827 |
-| Revealed Secrets - II | 26.00% | ~9,463 |
+| Improvement | 85.00% | ~30,942 |
+| Blood Moon | 73.00% | ~26,573 |
+| Path of the Necromancer | 66.00% | ~24,025 |
+| Chainbreaker - I | 60.00% | ~21,841 |
+| Cursed Creature | 57.00% | ~20,749 |
+| Extraction | 57.00% | ~20,749 |
+| Chainbreaker - II | 55.00% | ~20,021 |
+| Necromancer's Apprentice | 51.00% | ~18,565 |
+| Keeper of Keys | 47.00% | ~17,109 |
+| Distillation | 43.00% | ~15,653 |
+| Mountain King - I | 42.00% | ~15,289 |
+| Transmutation | 42.00% | ~15,289 |
+| Prepared Necromancer | 41.00% | ~14,925 |
+| Mountain King - II | 40.00% | ~14,561 |
+| Blind Rage | 38.00% | ~13,833 |
+| Mad Genius | 35.00% | ~12,741 |
+| Cannon Fodder - I | 35.00% | ~12,741 |
+| Soul of Lies | 34.00% | ~12,377 |
+| Bane of Mercenaries - I | 33.00% | ~12,013 |
+| Bane of Mercenaries - II | 31.00% | ~11,285 |
+| Shadow Between Worlds | 30.00% | ~10,921 |
+| Cannon Fodder - II | 29.00% | ~10,557 |
+| Bane of Monsters | 28.00% | ~10,193 |
+| Chainbreaker - III | 28.00% | ~10,193 |
+| Revealed Secrets - I | 27.00% | ~9,829 |
+| Revealed Secrets - II | 26.00% | ~9,465 |
 | Unholy Bones | 24.00% | ~8,736 |
 | Blood Elemental | 24.00% | ~8,736 |
 | Lord of Fire | 23.00% | ~8,372 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.60% | ~218 |
 | Renowned Researcher | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,398 (Ranked 94)  
+Progressed: 36,402 (Ranked 94)  
 Completed: 23 (0.06%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 23 (0.06%) (Ranked 207)
 | 2023-07-30 | 36,242 | 23 |
 | 2023-07-31 | 36,316 | 23 |
 | 2023-08-01 | 36,388 | 23 |
-| 2023-08-02 | 36,398 | 23 |
+| 2023-08-02 | 36,402 | 23 |
 ## Awards
 Max (Character Customization): 2,146  (Ranked 108)  
 Sum: 4,159 (Ranked 138)  

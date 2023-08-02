@@ -5420,10 +5420,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30850,
       "NumberOfAwardsMax": 5108
+    },
+    {
+      "Time": "2023-08-02T03:58:35.4853319+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30851,
+      "NumberOfAwardsMax": 5108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30850,
+  "NumberOfAwards": 30851,
   "NumberOfAwardsMax": 5108,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5461,7 +5467,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4046
+      "Count": 4047
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5470,9 +5476,9 @@
       "Count": 3337
     }
   ],
-  "EOS_Progressed": 217778,
+  "EOS_Progressed": 217787,
   "EOS_Completed": 2142,
-  "EOS_NewPlayers": 2229,
+  "EOS_NewPlayers": 2209,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16625,6 +16631,11 @@
       "Time": "2023-08-02T03:04:20.8092222+00:00",
       "NumProgressed": 217778,
       "NumCompleted": 2142
+    },
+    {
+      "Time": "2023-08-02T04:04:10.2706851+00:00",
+      "NumProgressed": 217787,
+      "NumCompleted": 2142
     }
   ],
   "TotalAchievements": 512,
@@ -17004,7 +17015,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6533
+      "UsersEstimate": 6534
     },
     {
       "ID": "objective_completed_110",
@@ -17316,7 +17327,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "objective_completed_1164",
@@ -20676,7 +20687,7 @@
       "Name": "Rock and Roll",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "objective_completed_1381",
@@ -20731,21 +20742,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184052,
+      "Progressed": 184061,
       "Completed": 3049
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217778,
+      "Progressed": 217787,
       "Completed": 2142
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-01T23:59:23.8661987+00:00",
-  "LastChanged_Achievements": "2023-08-02T03:04:20.8092215+00:00",
+  "LastChanged": "2023-08-02T03:58:35.4853317+00:00",
+  "LastChanged_Achievements": "2023-08-02T04:04:10.2706846+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-02T02:58:37.183594+00:00",
-  "LastUpdate_Achievements": "2023-08-02T03:04:20.8124203+00:00"
+  "LastUpdate_Ratings": "2023-08-02T03:58:35.4853324+00:00",
+  "LastUpdate_Achievements": "2023-08-02T04:04:10.2733655+00:00"
 }

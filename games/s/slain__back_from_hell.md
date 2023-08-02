@@ -5,7 +5,7 @@ Rating: 4.29 (Ranked 788)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~6,455 |
+| Man 'O War | 20.00% | ~6,456 |
 | A Good Day To Die | 15.00% | ~4,842 |
 | Right Back Atcha | 6.00% | ~1,937 |
 | Killed by Death | 5.00% | ~1,614 |
@@ -14,7 +14,7 @@ Rating: 4.29 (Ranked 788)
 | Down Boy! | 2.00% | ~646 |
 | A Snowball's Chance in Hell | 2.00% | ~646 |
 | Enjoy The Silence | 1.00% | ~323 |
-| Sure Footed As A Goat | 0.90% | ~290 |
+| Sure Footed As A Goat | 0.90% | ~291 |
 | Thorn in My Herbicide | 0.80% | ~258 |
 | Backdoor Man | 0.80% | ~258 |
 | Schadenfreude | 0.80% | ~258 |
@@ -24,8 +24,8 @@ Rating: 4.29 (Ranked 788)
 | Start As You Mean To Go On | 0.60% | ~194 |
 | Hail the Great Horned Metal God! | 0.60% | ~194 |
 | That'll Come In Handy... | 0.60% | ~194 |
+| Oh God, Mother! Blood! Blood! | 0.50% | ~161 |
 | Four Legged Friend | 0.40% | ~129 |
-| Oh God, Mother! Blood! Blood! | 0.40% | ~129 |
 | Ice To See You | 0.40% | ~129 |
 | Smack My Imp Up | 0.40% | ~129 |
 | Vroll With It | 0.30% | ~97 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 788)
 | Too Metal For Magic | 0.10% | ~32 |
 | Heart Of Steel | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,277 (Ranked 98)  
+Progressed: 32,282 (Ranked 98)  
 Completed: 20 (0.06%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 20 (0.06%) (Ranked 207)
 | 2023-07-30 | 32,004 | 20 |
 | 2023-07-31 | 32,124 | 20 |
 | 2023-08-01 | 32,255 | 20 |
-| 2023-08-02 | 32,277 | 20 |
+| 2023-08-02 | 32,282 | 20 |
 ## Awards
 Max (Great Boss Battles): 126  (Ranked 310)  
 Sum: 126 (Ranked 401)  

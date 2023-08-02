@@ -9,15 +9,15 @@ Number of Ratings: 98  (23.09.2022)
 | Peak Performance | 55.00% | ~3,600 |
 | Tutti Eroi! | 55.00% | ~3,600 |
 | You Shall Not Pass | 53.00% | ~3,469 |
-| Avanti Savoia! | 47.00% | ~3,076 |
+| Avanti Savoia! | 47.00% | ~3,077 |
 | Mamma Mia! | 37.00% | ~2,422 |
-| Conrad von Hotzensocks | 36.00% | ~2,356 |
+| Conrad von Hotzensocks | 36.00% | ~2,357 |
 | Gabriele D'Annunzio | 33.00% | ~2,160 |
 | Silver Lining | 29.00% | ~1,898 |
-| Aurelio Baruzzi | 23.00% | ~1,505 |
+| Aurelio Baruzzi | 23.00% | ~1,506 |
 | Veni Vidi Vici | 22.00% | ~1,440 |
-| Decimation | 21.00% | ~1,374 |
-| Donatello | 21.00% | ~1,374 |
+| Decimation | 21.00% | ~1,375 |
+| Donatello | 21.00% | ~1,375 |
 | Insubordination | 20.00% | ~1,309 |
 | The Italian Job | 20.00% | ~1,309 |
 | The Lion of the Isonzo | 18.00% | ~1,178 |
@@ -27,12 +27,12 @@ Number of Ratings: 98  (23.09.2022)
 | Thus With A Kiss | 14.00% | ~916 |
 | Uomo Universale | 14.00% | ~916 |
 | Shaken, Not Stirred | 13.00% | ~851 |
-| Die Bosniaken Kommen! | 12.00% | ~785 |
-| Machiavelli | 12.00% | ~785 |
+| Die Bosniaken Kommen! | 12.00% | ~786 |
+| Machiavelli | 12.00% | ~786 |
 | Dante's Inferno | 11.00% | ~720 |
 | The Devil's Paintbrush | 11.00% | ~720 |
-| I Have the High Ground | 10.00% | ~654 |
-| Millenial | 10.00% | ~654 |
+| I Have the High Ground | 10.00% | ~655 |
+| Millenial | 10.00% | ~655 |
 | The Show Must Go On | 9.00% | ~589 |
 | Tosca | 9.00% | ~589 |
 | 12th Bottle of the Isonzo | 6.00% | ~393 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~26 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,545 (Ranked 133)  
+Progressed: 6,546 (Ranked 133)  
 Completed: 8 (0.12%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 8 (0.12%) (Ranked 189)
 | 2023-07-30 | 6,519 | 8 |
 | 2023-07-31 | 6,529 | 8 |
 | 2023-08-01 | 6,543 | 8 |
-| 2023-08-02 | 6,545 | 8 |
+| 2023-08-02 | 6,546 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 436)  
 Sum: 262 (Ranked 349)  

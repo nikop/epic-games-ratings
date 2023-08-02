@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 882,
+  "EOS_Progressed": 883,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
@@ -2558,6 +2558,11 @@
       "Time": "2023-08-01T22:08:18.3571306+00:00",
       "NumProgressed": 882,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T04:06:18.3370491+00:00",
+      "NumProgressed": 883,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -2577,7 +2582,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "CHIEF",
@@ -2585,7 +2590,7 @@
       "Name": "CHIEF",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "CLEANER",
@@ -2593,7 +2598,7 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "DEBTOR",
@@ -2633,7 +2638,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "INTRODUCTION",
@@ -2680,7 +2685,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 882,
+      "Progressed": 883,
       "Completed": 0
     }
   ],
@@ -2688,8 +2693,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-08-02T03:06:28.5935296+00:00",
+  "LastChanged_Achievements": "2023-08-02T04:06:18.3370487+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:02.6399778+00:00",
-  "LastUpdate_Ratings": "2023-08-02T02:59:40.1154844+00:00",
-  "LastUpdate_Achievements": "2023-08-02T03:06:28.5935568+00:00"
+  "LastUpdate_Ratings": "2023-08-02T03:59:37.1285677+00:00",
+  "LastUpdate_Achievements": "2023-08-02T04:06:18.3370731+00:00"
 }
