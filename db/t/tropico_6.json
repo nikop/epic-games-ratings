@@ -1026,9 +1026,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4549,
+  "EOS_Progressed": 4552,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7406,6 +7406,11 @@
       "Time": "2023-08-02T17:07:11.4160967+00:00",
       "NumProgressed": 4549,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-02T18:07:42.8644831+00:00",
+      "NumProgressed": 4552,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -7449,7 +7454,7 @@
       "Name": "Been there, Done That",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_EP_BALLGAME",
@@ -7457,7 +7462,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -7465,7 +7470,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -7481,7 +7486,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -7489,7 +7494,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -7513,7 +7518,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2048
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -7553,7 +7558,7 @@
       "Name": "Apocalypso",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -7561,7 +7566,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -7577,7 +7582,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3412
+      "UsersEstimate": 3414
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -7585,7 +7590,7 @@
       "Name": "From Knight to Little Duck",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_MILITARYCOUP",
@@ -7601,7 +7606,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -7609,7 +7614,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACH_MYWAYS",
@@ -7625,7 +7630,7 @@
       "Name": "Narcissist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_PROMISINGENDEAVORS",
@@ -7633,7 +7638,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -7657,7 +7662,7 @@
       "Name": "Teamplayer",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_TERRAFORMER",
@@ -7673,7 +7678,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2138
+      "UsersEstimate": 2139
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -7681,7 +7686,7 @@
       "Name": "The Time For Wonders",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_TRADEISMYTRAIT",
@@ -7689,7 +7694,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -7705,7 +7710,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -7713,7 +7718,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -7721,7 +7726,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -7736,15 +7741,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4549,
+      "Progressed": 4552,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-29T23:00:35.7289146+00:00",
-  "LastChanged_Achievements": "2023-08-02T17:07:11.4160959+00:00",
+  "LastChanged_Achievements": "2023-08-02T18:07:42.8644822+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:19.2698244+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:02:09.7796055+00:00",
-  "LastUpdate_Achievements": "2023-08-02T17:07:11.4161752+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:02:43.6838891+00:00",
+  "LastUpdate_Achievements": "2023-08-02T18:07:42.8645685+00:00"
 }

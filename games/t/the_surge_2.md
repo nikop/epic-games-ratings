@@ -5,19 +5,19 @@ Rating: 4.25 (Ranked 818)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,554 |
+| Rigged And Ready | 80.00% | ~1,555 |
 | Don't I Know You...? | 76.00% | ~1,477 |
-| Jailbreak | 65.00% | ~1,263 |
-| Suited and Booted | 38.00% | ~738 |
+| Jailbreak | 65.00% | ~1,264 |
+| Suited and Booted | 38.00% | ~739 |
 | HEADSHOT! | 37.00% | ~719 |
 | Sleeping With The Fishes | 35.00% | ~680 |
 | Overheated | 30.00% | ~583 |
 | High Performance | 30.00% | ~583 |
 | Powered Up | 28.00% | ~544 |
-| Studied The Blade | 24.00% | ~466 |
-| Home Invasion | 22.00% | ~427 |
-| Luminary | 22.00% | ~427 |
-| It's a Trap | 22.00% | ~427 |
+| Studied The Blade | 24.00% | ~467 |
+| Home Invasion | 22.00% | ~428 |
+| Luminary | 22.00% | ~428 |
+| It's a Trap | 22.00% | ~428 |
 | True Survivor | 21.00% | ~408 |
 | Offensive Defense | 20.00% | ~389 |
 | Shocking | 20.00% | ~389 |
@@ -26,7 +26,7 @@ Rating: 4.25 (Ranked 818)
 | Dead Again | 18.00% | ~350 |
 | Clean Cut | 18.00% | ~350 |
 | Full Arsenal | 17.00% | ~330 |
-| Can't Trust Banks | 15.00% | ~291 |
+| Can't Trust Banks | 15.00% | ~292 |
 | Mommy Dearest | 13.00% | ~253 |
 | Bad Dog | 13.00% | ~253 |
 | Where It All Began | 13.00% | ~253 |
@@ -38,9 +38,9 @@ Rating: 4.25 (Ranked 818)
 | Triplets | 10.00% | ~194 |
 | Defense in Depth | 9.00% | ~175 |
 | Stimulating The Local Economy | 9.00% | ~175 |
-| A Little Banged Up | 8.00% | ~155 |
-| Denying Prophecy | 8.00% | ~155 |
-| Following In Their Footsteps | 8.00% | ~155 |
+| A Little Banged Up | 8.00% | ~156 |
+| Denying Prophecy | 8.00% | ~156 |
+| Following In Their Footsteps | 8.00% | ~156 |
 | Reverse Engineering | 7.00% | ~136 |
 | Remote Surgery | 6.00% | ~117 |
 | Turbo Booster | 6.00% | ~117 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 818)
 | Box Office Smash | 1.00% | ~19 |
 | The Easy Way Out | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,943 (Ranked 168)  
+Progressed: 1,944 (Ranked 168)  
 Completed: 10 (0.51%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 10 (0.51%) (Ranked 135)
 | 2023-07-30 | 1,923 | 10 |
 | 2023-07-31 | 1,929 | 10 |
 | 2023-08-01 | 1,937 | 10 |
-| 2023-08-02 | 1,943 | 10 |
+| 2023-08-02 | 1,944 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 856,
+  "EOS_Progressed": 857,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1454,6 +1454,11 @@
       "Time": "2023-08-02T15:06:44.8112643+00:00",
       "NumProgressed": 856,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T18:06:38.5341893+00:00",
+      "NumProgressed": 857,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1489,7 +1494,7 @@
       "Name": "Always Finding Your Mark",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -1545,7 +1550,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1609,15 +1614,15 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
       "SetID": "108h92c",
       "Name": "I can fix it!",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 531
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1625,7 +1630,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1639,9 +1644,9 @@
       "ID": "ACH_POST_NO_BILLS",
       "SetID": "108h92c",
       "Name": "Post No Bills",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 463
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -1665,7 +1670,7 @@
       "Name": "The Weight of the World",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -1680,7 +1685,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 856,
+      "Progressed": 857,
       "Completed": 0
     }
   ],
@@ -1688,8 +1693,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-08-02T17:06:17.8537542+00:00",
+  "LastChanged_Achievements": "2023-08-02T18:06:38.5341869+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:11.3748437+00:00",
-  "LastUpdate_Ratings": "2023-08-02T16:58:38.6766104+00:00",
-  "LastUpdate_Achievements": "2023-08-02T17:06:17.8537856+00:00"
+  "LastUpdate_Ratings": "2023-08-02T17:58:39.9897237+00:00",
+  "LastUpdate_Achievements": "2023-08-02T18:06:38.534318+00:00"
 }

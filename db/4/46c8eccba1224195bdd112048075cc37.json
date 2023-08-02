@@ -605,9 +605,9 @@
       "ID": "DemonHunter",
       "SetID": "7g1kpc8",
       "Name": "Demonologist",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FinalBoss",
@@ -629,9 +629,9 @@
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "FirstStep",
@@ -669,9 +669,9 @@
       "ID": "Leprechaun",
       "SetID": "7g1kpc8",
       "Name": "Leprechaun",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "MonsterSlayer",
@@ -732,8 +732,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-08-02T17:06:30.6791661+00:00",
+  "LastChanged_Achievements": "2023-08-02T18:06:53.8761523+00:00",
   "LastUpdate_AppInfo": "2023-07-31T09:57:13.2028801+00:00",
-  "LastUpdate_Ratings": "2023-08-02T16:58:11.9553274+00:00",
-  "LastUpdate_Achievements": "2023-08-02T17:06:30.6791857+00:00"
+  "LastUpdate_Ratings": "2023-08-02T17:58:08.0721749+00:00",
+  "LastUpdate_Achievements": "2023-08-02T18:06:53.8761706+00:00"
 }

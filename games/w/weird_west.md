@@ -1,21 +1,21 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.45 (Ranked 630)  
+Rating: 4.45 (Ranked 629)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,556 |
-| Self-Improvement | 72.00% | ~1,273 |
-| Perky | 66.00% | ~1,167 |
+| Unforgiven | 88.00% | ~1,557 |
+| Self-Improvement | 72.00% | ~1,274 |
+| Perky | 66.00% | ~1,168 |
 | Let’s Ride | 60.00% | ~1,061 |
 | Welcome to the Weird West | 57.00% | ~1,008 |
-| Dead or Alive | 56.00% | ~990 |
-| Full House | 36.00% | ~636 |
-| Off the Trail | 33.00% | ~583 |
+| Dead or Alive | 56.00% | ~991 |
+| Full House | 36.00% | ~637 |
+| Off the Trail | 33.00% | ~584 |
 | Justice Served | 29.00% | ~513 |
-| Chain Reaction | 27.00% | ~477 |
+| Chain Reaction | 27.00% | ~478 |
 | Dishonored | 25.00% | ~442 |
 | Rain of Death | 25.00% | ~442 |
 | Scholar | 25.00% | ~442 |
@@ -32,15 +32,15 @@ Number of Ratings: 125  (23.09.2022)
 | Out on the Ebb Tide | 12.00% | ~212 |
 | Power Behind the Pulpit | 12.00% | ~212 |
 | Turning the Tables | 12.00% | ~212 |
-| Something Wicked This Way Comes… | 11.00% | ~194 |
-| There is Hope | 11.00% | ~194 |
+| Something Wicked This Way Comes… | 11.00% | ~195 |
+| There is Hope | 11.00% | ~195 |
 | The Philosopher’s Stone | 10.00% | ~177 |
 | Loyalty to the Pack | 9.00% | ~159 |
 | Mystery Machine | 9.00% | ~159 |
-| Do Not Pass Go… | 8.00% | ~141 |
-| Gold Digger | 8.00% | ~141 |
-| Eternity Can Wait | 8.00% | ~141 |
-| Knuckle Sandwich | 8.00% | ~141 |
+| Do Not Pass Go… | 8.00% | ~142 |
+| Gold Digger | 8.00% | ~142 |
+| Eternity Can Wait | 8.00% | ~142 |
+| Knuckle Sandwich | 8.00% | ~142 |
 | Getting the Gang Back Together | 7.00% | ~124 |
 | Monster Hunter | 7.00% | ~124 |
 | Healing Old Wounds | 6.00% | ~106 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,768 (Ranked 171)  
+Progressed: 1,769 (Ranked 171)  
 Completed: 4 (0.23%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 4 (0.23%) (Ranked 170)
 | 2023-07-30 | 1,758 | 4 |
 | 2023-07-31 | 1,762 | 4 |
 | 2023-08-01 | 1,765 | 4 |
-| 2023-08-02 | 1,768 | 4 |
+| 2023-08-02 | 1,769 | 4 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 481)  
 Sum: 24 (Ranked 485)  

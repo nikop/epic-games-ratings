@@ -27,13 +27,13 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game II | 5.00% | ~212 |
 | Tools of the trade I | 5.00% | ~212 |
 | Knee deep in snow | 5.00% | ~212 |
-| Bread for the people II | 4.00% | ~169 |
-| I like to build stuff... III | 4.00% | ~169 |
-| The King's new clothes I | 4.00% | ~169 |
-| Builder II | 4.00% | ~169 |
-| An honorable Governor II | 4.00% | ~169 |
-| Tax-man IV | 4.00% | ~169 |
-| Conflicting parties | 4.00% | ~169 |
+| Bread for the people II | 4.00% | ~170 |
+| I like to build stuff... III | 4.00% | ~170 |
+| The King's new clothes I | 4.00% | ~170 |
+| Builder II | 4.00% | ~170 |
+| An honorable Governor II | 4.00% | ~170 |
+| Tax-man IV | 4.00% | ~170 |
+| Conflicting parties | 4.00% | ~170 |
 | Another one bites the dust | 3.00% | ~127 |
 | Bread for the people III | 3.00% | ~127 |
 | I like to build stuff... IV | 3.00% | ~127 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,236 (Ranked 145)  
+Progressed: 4,238 (Ranked 145)  
 Completed: 3 (0.07%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,6 +171,7 @@ Completed: 3 (0.07%) (Ranked 206)
 | 2023-07-30 | 4,227 | 3 |
 | 2023-07-31 | 4,231 | 3 |
 | 2023-08-01 | 4,236 | 3 |
+| 2023-08-02 | 4,238 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

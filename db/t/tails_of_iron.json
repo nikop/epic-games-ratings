@@ -227,7 +227,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1837,
+  "EOS_Progressed": 1838,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
@@ -2317,6 +2317,11 @@
       "Time": "2023-08-02T17:04:32.9421364+00:00",
       "NumProgressed": 1837,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-02T18:04:25.8104376+00:00",
+      "NumProgressed": 1838,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2326,9 +2331,9 @@
       "ID": "BecomeKing",
       "SetID": "9lj35g4",
       "Name": "Become King",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1323
     },
     {
       "ID": "Collect20Gold",
@@ -2344,7 +2349,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "Collect50MonsterParts",
@@ -2352,7 +2357,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "CollectAllStatues",
@@ -2432,7 +2437,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "DefeatMoziQueen",
@@ -2488,7 +2493,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "Kill25Frogs",
@@ -2496,7 +2501,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "Kill25Mozi",
@@ -2550,9 +2555,9 @@
       "ID": "RescueBrothers",
       "SetID": "9lj35g4",
       "Name": "Rescue Redgi\u0027s Brothers",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 937
+      "UsersEstimate": 956
     },
     {
       "ID": "ReturnPowerInMines",
@@ -2567,22 +2572,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1837,
+      "Progressed": 1838,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 478,
-      "Completed": 478
+      "Progressed": 479,
+      "Completed": 479
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-30T07:58:33.6633976+00:00",
-  "LastChanged_Achievements": "2023-08-02T17:04:32.9421355+00:00",
+  "LastChanged_Achievements": "2023-08-02T18:04:25.810437+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.5556081+00:00",
-  "LastUpdate_Ratings": "2023-08-02T16:59:45.5791469+00:00",
-  "LastUpdate_Achievements": "2023-08-02T17:04:32.9421771+00:00"
+  "LastUpdate_Ratings": "2023-08-02T17:59:55.9792369+00:00",
+  "LastUpdate_Achievements": "2023-08-02T18:04:25.8104749+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -2404,9 +2404,9 @@
       "ID": "Level10",
       "SetID": "d1bm05f",
       "Name": "Sous-Chef",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 32
     },
     {
       "ID": "Level20",
@@ -2597,8 +2597,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-08-02T17:02:21.100145+00:00",
+  "LastChanged_Achievements": "2023-08-02T18:03:00.8114414+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:21.1366678+00:00",
-  "LastUpdate_Ratings": "2023-08-02T16:59:54.6652211+00:00",
-  "LastUpdate_Achievements": "2023-08-02T17:02:21.1001991+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:00:06.6965409+00:00",
+  "LastUpdate_Achievements": "2023-08-02T18:03:00.8114936+00:00"
 }

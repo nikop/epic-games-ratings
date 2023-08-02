@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15976,
+  "EOS_Progressed": 15977,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -8342,6 +8342,11 @@
       "Time": "2023-08-02T16:04:42.6115504+00:00",
       "NumProgressed": 15976,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-08-02T18:06:07.1509168+00:00",
+      "NumProgressed": 15977,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 16,
@@ -8361,7 +8366,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "Deadline",
@@ -8369,7 +8374,7 @@
       "Name": "Deadline",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 2396
+      "UsersEstimate": 2397
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -8480,15 +8485,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 15976,
+      "Progressed": 15977,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-08-02T17:05:50.5390611+00:00",
+  "LastChanged_Achievements": "2023-08-02T18:06:07.1509161+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:52.6123588+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:00:33.3349434+00:00",
-  "LastUpdate_Achievements": "2023-08-02T17:05:50.5391351+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:00:54.1119297+00:00",
+  "LastUpdate_Achievements": "2023-08-02T18:06:07.1509775+00:00"
 }

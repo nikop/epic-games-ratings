@@ -5494,9 +5494,9 @@
       "Count": 3337
     }
   ],
-  "EOS_Progressed": 217930,
+  "EOS_Progressed": 217941,
   "EOS_Completed": 2144,
-  "EOS_NewPlayers": 2195,
+  "EOS_NewPlayers": 2191,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16719,6 +16719,11 @@
       "Time": "2023-08-02T17:05:28.9596933+00:00",
       "NumProgressed": 217930,
       "NumCompleted": 2144
+    },
+    {
+      "Time": "2023-08-02T18:05:42.318476+00:00",
+      "NumProgressed": 217941,
+      "NumCompleted": 2144
     }
   ],
   "TotalAchievements": 512,
@@ -16730,7 +16735,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8717
+      "UsersEstimate": 8718
     },
     {
       "ID": "objective_completed_10",
@@ -17354,7 +17359,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "objective_completed_1153",
@@ -17466,7 +17471,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "objective_completed_1174",
@@ -20825,21 +20830,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184204,
+      "Progressed": 184215,
       "Completed": 3051
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217930,
+      "Progressed": 217941,
       "Completed": 2144
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-02T14:59:51.4938579+00:00",
-  "LastChanged_Achievements": "2023-08-02T17:05:28.9596927+00:00",
+  "LastChanged_Achievements": "2023-08-02T18:05:42.3184753+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-02T16:59:30.1956851+00:00",
-  "LastUpdate_Achievements": "2023-08-02T17:05:28.9626577+00:00"
+  "LastUpdate_Ratings": "2023-08-02T17:59:37.0595294+00:00",
+  "LastUpdate_Achievements": "2023-08-02T18:05:42.3219865+00:00"
 }

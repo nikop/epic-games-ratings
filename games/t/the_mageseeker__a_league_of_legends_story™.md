@@ -13,7 +13,7 @@ Rating: 4.81 (Ranked 76)
 | The use of petricite | 74.00% | ~1,845 |
 | You can pet the dog | 61.00% | ~1,521 |
 | Big Helmet Bro | 37.00% | ~922 |
-| Clarion Cove | 36.00% | ~897 |
+| Clarion Cove | 37.00% | ~922 |
 | Past trauma | 35.00% | ~873 |
 | Thornbarrow | 35.00% | ~873 |
 | Elemental master | 34.00% | ~848 |

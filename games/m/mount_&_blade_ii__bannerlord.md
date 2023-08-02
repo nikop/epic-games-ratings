@@ -6,27 +6,27 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~22,023 |
-| Landlord | 32.00% | ~18,545 |
-| Bannerlord | 22.00% | ~12,750 |
-| Horde breaker | 22.00% | ~12,750 |
-| Lawmaker | 22.00% | ~12,750 |
-| Trained | 22.00% | ~12,750 |
-| The king is pleased | 18.00% | ~10,432 |
-| King Solomon | 16.00% | ~9,273 |
-| Apple of my eye | 15.00% | ~8,693 |
-| I can do it | 15.00% | ~8,693 |
-| God of the Arena | 12.00% | ~6,954 |
-| Against all odds | 11.00% | ~6,375 |
-| Swordbearer | 10.00% | ~5,795 |
-| This Is Our Land | 10.00% | ~5,795 |
-| Duelist | 9.00% | ~5,216 |
-| Dynasty | 9.00% | ~5,216 |
-| I spit on your grave | 9.00% | ~5,216 |
-| What have the Romans ever done for us? | 9.00% | ~5,216 |
-| Butterlord | 8.00% | ~4,636 |
+| Lawbringer | 38.00% | ~22,026 |
+| Landlord | 32.00% | ~18,548 |
+| Bannerlord | 22.00% | ~12,752 |
+| Horde breaker | 22.00% | ~12,752 |
+| Lawmaker | 22.00% | ~12,752 |
+| Trained | 22.00% | ~12,752 |
+| The king is pleased | 18.00% | ~10,433 |
+| King Solomon | 16.00% | ~9,274 |
+| Apple of my eye | 15.00% | ~8,694 |
+| I can do it | 15.00% | ~8,694 |
+| God of the Arena | 12.00% | ~6,955 |
+| Against all odds | 11.00% | ~6,376 |
+| Swordbearer | 10.00% | ~5,796 |
+| This Is Our Land | 10.00% | ~5,796 |
+| Duelist | 9.00% | ~5,217 |
+| Dynasty | 9.00% | ~5,217 |
+| I spit on your grave | 9.00% | ~5,217 |
+| What have the Romans ever done for us? | 9.00% | ~5,217 |
+| Butterlord | 8.00% | ~4,637 |
 | Mastery | 7.00% | ~4,057 |
-| Know your enemy | 6.00% | ~3,477 |
+| Know your enemy | 6.00% | ~3,478 |
 | My way | 5.00% | ~2,898 |
 | Crowdfunded | 4.00% | ~2,318 |
 | Crush your enemies | 4.00% | ~2,318 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,954 (Ranked 86)  
+Progressed: 57,962 (Ranked 86)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 57,577 | 0 |
 | 2023-07-31 | 57,713 | 0 |
 | 2023-08-01 | 57,849 | 0 |
-| 2023-08-02 | 57,954 | 0 |
+| 2023-08-02 | 57,962 | 0 |
 ## Awards
 Max (Character Customization): 6,876  (Ranked 48)  
 Sum: 13,944 (Ranked 67)  

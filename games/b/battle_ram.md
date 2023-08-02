@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| START | 92.00% | ~164 |
-| Ram Corporal | 87.00% | ~155 |
-| Ram Sergeant | 65.00% | ~116 |
-| Ram Staff Sergeant | 64.00% | ~114 |
-| Ram First Sergeant | 56.00% | ~100 |
-| Senior Sergeant Baran | 55.00% | ~98 |
-| Sergeant Major Baran | 42.00% | ~75 |
-| Senior warrant officer Baran 1st class | 28.00% | ~50 |
-| Senior warrant officer Baran 2nd class | 28.00% | ~50 |
-| Senior warrant officer Baran 3rd class | 26.00% | ~46 |
-| Senior warrant officer Baran 4th class | 20.00% | ~36 |
-| Junior Lieutenant Baran | 19.00% | ~34 |
-| Baran Senior Warrant Officer Grade 5 | 15.00% | ~27 |
-| Senior Lieutenant Baran | 12.00% | ~21 |
-| Captain Baran | 10.00% | ~18 |
+| START | 92.00% | ~168 |
+| Ram Corporal | 86.00% | ~157 |
+| Ram Sergeant | 64.00% | ~117 |
+| Ram Staff Sergeant | 63.00% | ~115 |
+| Ram First Sergeant | 55.00% | ~101 |
+| Senior Sergeant Baran | 55.00% | ~101 |
+| Sergeant Major Baran | 42.00% | ~77 |
+| Senior warrant officer Baran 1st class | 27.00% | ~49 |
+| Senior warrant officer Baran 2nd class | 27.00% | ~49 |
+| Senior warrant officer Baran 3rd class | 26.00% | ~48 |
+| Senior warrant officer Baran 4th class | 19.00% | ~35 |
+| Junior Lieutenant Baran | 18.00% | ~33 |
+| Baran Senior Warrant Officer Grade 5 | 14.00% | ~26 |
+| Senior Lieutenant Baran | 12.00% | ~22 |
+| Captain Baran | 9.00% | ~16 |
 | Senior Major Baran | 9.00% | ~16 |
-| Lieutenant Colonel Baran | 8.00% | ~14 |
-| Colonel Baran | 6.00% | ~11 |
+| Lieutenant Colonel Baran | 8.00% | ~15 |
+| Colonel Baran | 5.00% | ~9 |
 | Brigadier General Baran | 4.00% | ~7 |
 | Lieutenant General Baran | 3.00% | ~5 |
 | EMERAID RAM | 2.00% | ~4 |
 | GOLDEN RAM | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 178 (Ranked 288)  
+Progressed: 183 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,4 +73,4 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 154 | 0 |
 | 2023-07-31 | 158 | 0 |
 | 2023-08-01 | 167 | 0 |
-| 2023-08-02 | 178 | 0 |
+| 2023-08-02 | 183 | 0 |

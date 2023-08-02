@@ -4,7 +4,7 @@
   "ProductSlug": "session-skate-sim",
   "Ranking_Rating": 256,
   "Ranking_Popularity": 399,
-  "Ranking_PopularitySum": 305,
+  "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 140,
@@ -832,9 +832,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2686,
+  "EOS_Progressed": 2688,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3792,6 +3792,11 @@
       "Time": "2023-08-02T10:02:13.5509154+00:00",
       "NumProgressed": 2686,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T18:03:23.1063327+00:00",
+      "NumProgressed": 2688,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3835,7 +3840,7 @@
       "Name": "Cops called!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_CROSS-LOCK-COUNTRY",
@@ -3859,7 +3864,7 @@
       "Name": "DIY Boss",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_FASHIONISTA",
@@ -3899,7 +3904,7 @@
       "Name": "Globetrotter",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_GO-WITH-THE-FLOW",
@@ -3907,7 +3912,7 @@
       "Name": "Go with the Flow",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -3915,7 +3920,7 @@
       "Name": "G.O.A.T. status",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_GOLDEN",
@@ -3955,7 +3960,7 @@
       "Name": "Keeping it classy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -3971,7 +3976,7 @@
       "Name": "Lines for days",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_LOVES-YOU-BACK",
@@ -3987,7 +3992,7 @@
       "Name": "Manny Destroys All",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_MANY-PLYS-LATER",
@@ -4027,7 +4032,7 @@
       "Name": "Prince of Philly",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_PURPLE-PASSION",
@@ -4043,7 +4048,7 @@
       "Name": "Renaissance man",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_SKATEPARK-HERO",
@@ -4051,7 +4056,7 @@
       "Name": "Skatepark hero",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_SQUAD-GOALS",
@@ -4075,7 +4080,7 @@
       "Name": "Tank commander",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_THAT-PINCH",
@@ -4139,7 +4144,7 @@
       "Name": "Trick shot marksman",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_ULTIMATE-SKATE-NERD",
@@ -4163,7 +4168,7 @@
       "Name": "We get it, you\u0027re good",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_WELCOME-TO-THE-FAMILY",
@@ -4171,7 +4176,7 @@
       "Name": "Welcome to the family",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -4179,22 +4184,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2686,
+      "Progressed": 2688,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-08-02T08:59:42.2718026+00:00",
-  "LastChanged_Achievements": "2023-08-02T17:03:19.9682328+00:00",
+  "LastChanged_Achievements": "2023-08-02T18:03:23.1063321+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:59.3777566+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:00:43.324734+00:00",
-  "LastUpdate_Achievements": "2023-08-02T17:03:19.9682948+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:01:02.220128+00:00",
+  "LastUpdate_Achievements": "2023-08-02T18:03:23.1063945+00:00"
 }

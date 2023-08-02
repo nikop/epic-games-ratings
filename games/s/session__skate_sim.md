@@ -6,12 +6,12 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 58.00% | ~1,558 |
-| Keeping it classy | 26.00% | ~698 |
-| Welcome to the family | 20.00% | ~537 |
+| You're free now! | 58.00% | ~1,559 |
+| Keeping it classy | 26.00% | ~699 |
+| Welcome to the family | 20.00% | ~538 |
 | The finer things in life | 17.00% | ~457 |
 | Backpacker | 13.00% | ~349 |
-| Go with the Flow | 12.00% | ~322 |
+| Go with the Flow | 12.00% | ~323 |
 | Plastic Surgeon | 9.00% | ~242 |
 | The flip trick crown jewel | 9.00% | ~242 |
 | The hard way | 9.00% | ~242 |
@@ -31,31 +31,31 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 5.00% | ~134 |
 | Squad goals | 5.00% | ~134 |
 | Sup widdit big dog! | 5.00% | ~134 |
-| Cops called! | 4.00% | ~107 |
-| DIY Boss | 4.00% | ~107 |
-| Globetrotter | 4.00% | ~107 |
-| G.O.A.T. status | 4.00% | ~107 |
-| Lines for days | 4.00% | ~107 |
-| Manny Destroys All | 4.00% | ~107 |
-| Prince of Philly | 4.00% | ~107 |
-| Renaissance man | 4.00% | ~107 |
-| Tank commander | 4.00% | ~107 |
-| Trick shot marksman | 4.00% | ~107 |
-| We get it, you're good | 4.00% | ~107 |
+| Cops called! | 4.00% | ~108 |
+| DIY Boss | 4.00% | ~108 |
+| Globetrotter | 4.00% | ~108 |
+| G.O.A.T. status | 4.00% | ~108 |
+| Lines for days | 4.00% | ~108 |
+| Manny Destroys All | 4.00% | ~108 |
+| Prince of Philly | 4.00% | ~108 |
+| Renaissance man | 4.00% | ~108 |
+| Tank commander | 4.00% | ~108 |
+| Trick shot marksman | 4.00% | ~108 |
+| We get it, you're good | 4.00% | ~108 |
 | Hoarder | 3.00% | ~81 |
 | Pew-Pew | 3.00% | ~81 |
 | Cross lock country | 2.00% | ~54 |
 | Many plys later... | 2.00% | ~54 |
 | Dipped! | 1.00% | ~27 |
 | That was wheelie fun | 1.00% | ~27 |
-| Skatepark hero | 0.80% | ~21 |
+| Skatepark hero | 0.80% | ~22 |
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 | Bing Bong! | 0.00% | ~0 |
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,686 (Ranked 159)  
+Progressed: 2,688 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,11 +152,11 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 2,660 | 0 |
 | 2023-07-31 | 2,669 | 0 |
 | 2023-08-01 | 2,680 | 0 |
-| 2023-08-02 | 2,686 | 0 |
+| 2023-08-02 | 2,688 | 0 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 399)  
-Sum: 443 (Ranked 305)  
-Diff (max vs sum): 94  
+Sum: 443 (Ranked 306)  
+Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 50 |

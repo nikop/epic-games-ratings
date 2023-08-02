@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5514,10 +5514,10 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 712062,
-  "EOS_Completed": 12839,
-  "EOS_NewPlayers": 525,
-  "EOS_NewCompleters": 6,
+  "EOS_Progressed": 712065,
+  "EOS_Completed": 12840,
+  "EOS_NewPlayers": 523,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -15429,6 +15429,11 @@
       "Time": "2023-08-02T17:08:19.2035856+00:00",
       "NumProgressed": 712062,
       "NumCompleted": 12839
+    },
+    {
+      "Time": "2023-08-02T18:08:49.6707486+00:00",
+      "NumProgressed": 712065,
+      "NumCompleted": 12840
     }
   ],
   "TotalAchievements": 50,
@@ -15488,7 +15493,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 5696
+      "UsersEstimate": 5697
     },
     {
       "ID": "08_Wude_H2",
@@ -15839,21 +15844,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21363,
+      "Progressed": 21366,
       "Completed": 10477
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712062,
-      "Completed": 12839
+      "Progressed": 712065,
+      "Completed": 12840
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-02T15:59:41.4232331+00:00",
-  "LastChanged_Achievements": "2023-08-02T17:08:19.203585+00:00",
+  "LastChanged_Achievements": "2023-08-02T18:08:49.670748+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:51.4583284+00:00",
-  "LastUpdate_Ratings": "2023-08-02T17:00:32.7228995+00:00",
-  "LastUpdate_Achievements": "2023-08-02T17:08:19.2037026+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:00:52.6873327+00:00",
+  "LastUpdate_Achievements": "2023-08-02T18:08:49.6708528+00:00"
 }

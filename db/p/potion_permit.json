@@ -346,9 +346,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 1521,
+  "EOS_Progressed": 1522,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -1741,6 +1741,11 @@
       "Time": "2023-08-02T14:03:32.5967734+00:00",
       "NumProgressed": 1521,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-02T18:04:20.0791013+00:00",
+      "NumProgressed": 1522,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 38,
@@ -1752,7 +1757,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -1808,15 +1813,15 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "ACHIEVEMENTS_09",
       "SetID": "d4o538a",
       "Name": "Rookie Chemist",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 958
+      "UsersEstimate": 944
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -1824,7 +1829,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -1864,7 +1869,7 @@
       "Name": "Friendly",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -1888,7 +1893,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -1920,7 +1925,7 @@
       "Name": "The Capitalist",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -2016,7 +2021,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -2055,7 +2060,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1521,
+      "Progressed": 1522,
       "Completed": 9
     }
   ],
@@ -2063,8 +2068,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-07-16T08:02:07.497774+00:00",
-  "LastChanged_Achievements": "2023-08-02T17:04:28.0538491+00:00",
+  "LastChanged_Achievements": "2023-08-02T18:04:20.0791007+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:26.8145926+00:00",
-  "LastUpdate_Ratings": "2023-08-02T16:57:24.9772827+00:00",
-  "LastUpdate_Achievements": "2023-08-02T17:04:28.0538961+00:00"
+  "LastUpdate_Ratings": "2023-08-02T17:57:12.9982999+00:00",
+  "LastUpdate_Achievements": "2023-08-02T18:04:20.0791758+00:00"
 }

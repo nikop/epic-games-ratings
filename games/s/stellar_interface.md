@@ -40,6 +40,7 @@
 | Omicron Beta | 4.00% | ~2 |
 | Hoarder | 4.00% | ~2 |
 | No Peace | 4.00% | ~2 |
+| Bird of Prey | 4.00% | ~2 |
 | 50Gb HDD | 4.00% | ~2 |
 | Galactic Lieutenant | 4.00% | ~2 |
 | Fighting Fit II | 4.00% | ~2 |
@@ -53,7 +54,6 @@
 | Pilgrim | 2.00% | ~1 |
 | Diligent | 2.00% | ~1 |
 | Omicron Theta | 2.00% | ~1 |
-| Bird of Prey | 2.00% | ~1 |
 | Food Poisoning | 2.00% | ~1 |
 | Wicked Sick | 2.00% | ~1 |
 | Usurper II | 2.00% | ~1 |

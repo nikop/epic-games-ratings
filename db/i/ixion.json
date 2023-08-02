@@ -5,7 +5,7 @@
   "Ranking_Rating": 483,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
-  "Ranking_EOS_Progress": 158,
+  "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 105,
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3000,
+  "EOS_Progressed": 3002,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4219,6 +4219,11 @@
       "Time": "2023-08-02T15:07:12.6528555+00:00",
       "NumProgressed": 3000,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-02T18:07:07.4316094+00:00",
+      "NumProgressed": 3002,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4348,9 +4353,9 @@
       "ID": "ACH_BASE_25",
       "SetID": "92iocjf",
       "Name": "Remember the Dead",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_BASE_26",
@@ -4420,9 +4425,9 @@
       "ID": "ACH_BASE_33",
       "SetID": "92iocjf",
       "Name": "Fully Recycled",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_BASE_34",
@@ -4685,13 +4690,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1182,
+      "Progressed": 1184,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3000,
+      "Progressed": 3002,
       "Completed": 0
     }
   ],
@@ -4699,8 +4704,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-08-02T17:06:41.4841962+00:00",
+  "LastChanged_Achievements": "2023-08-02T18:07:07.4316086+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:24.1949352+00:00",
-  "LastUpdate_Ratings": "2023-08-02T16:59:56.479964+00:00",
-  "LastUpdate_Achievements": "2023-08-02T17:06:41.4842764+00:00"
+  "LastUpdate_Ratings": "2023-08-02T18:00:09.4989735+00:00",
+  "LastUpdate_Achievements": "2023-08-02T18:07:07.4316926+00:00"
 }

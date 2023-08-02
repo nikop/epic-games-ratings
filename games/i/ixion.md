@@ -13,9 +13,9 @@ Rating: 4.55 (Ranked 483)
 | A Thousand Strong | 14.00% | ~420 |
 | Ready for a New World | 14.00% | ~420 |
 | Permanent Redesigns | 12.00% | ~360 |
-| Fully Recycled | 11.00% | ~330 |
 | The Ship of Theseus | 11.00% | ~330 |
 | Guy de Borderlands | 10.00% | ~300 |
+| Fully Recycled | 10.00% | ~300 |
 | Ain't Nobody Got Time for That | 10.00% | ~300 |
 | Hope Seeker | 10.00% | ~300 |
 | Exceeding Capacity | 9.00% | ~270 |
@@ -51,7 +51,7 @@ Rating: 4.55 (Ranked 483)
 | Scientifically Accurate | 1.00% | ~30 |
 | Gregor Spinoza | 0.90% | ~27 |
 | Better Him Than Me | 0.80% | ~24 |
-| Remember the Dead | 0.70% | ~21 |
+| Remember the Dead | 0.80% | ~24 |
 | Work Harder | 0.40% | ~12 |
 | Soylent Green | 0.30% | ~9 |
 | A Junker's Dream | 0.20% | ~6 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 483)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,000 (Ranked 158)  
+Progressed: 3,002 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 2,977 | 0 |
 | 2023-07-31 | 2,988 | 0 |
 | 2023-08-01 | 2,996 | 0 |
-| 2023-08-02 | 3,000 | 0 |
+| 2023-08-02 | 3,002 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
