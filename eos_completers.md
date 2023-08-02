@@ -11,8 +11,8 @@
 | 9 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 18.60% |
-| 13 | [Island Cities](games/i/island_cities.md) | 18.54% |
+| 12 | [Island Cities](games/i/island_cities.md) | 18.49% |
+| 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 18.39% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.11% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.92% |
 | 16 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 13.33% |
@@ -35,9 +35,9 @@
 | 33 | [Ravenlok](games/r/ravenlok.md) | 7.35% |
 | 34 | [Scorn](games/s/scorn.md) | 6.99% |
 | 35 | [Time Loader](games/t/time_loader.md) | 6.96% |
-| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.91% |
-| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.86% |
-| 37 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.86% |
+| 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.86% |
+| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.86% |
+| 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.86% |
 | 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.36% |
 | 40 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 41 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.12% |
@@ -76,7 +76,7 @@
 | 74 | [The Bunker](games/t/the_bunker.md) | 2.70% |
 | 75 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.62% |
 | 76 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
-| 76 | [Lamentum](games/l/lamentum.md) | 2.60% |
+| 77 | [Lamentum](games/l/lamentum.md) | 2.59% |
 | 78 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.40% |
 | 80 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.37% |
@@ -87,8 +87,8 @@
 | 85 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.02% |
 | 86 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 87 | [Night Book](games/n/night_book.md) | 1.90% |
-| 88 | [Frogun](games/f/frogun.md) | 1.84% |
 | 88 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
+| 89 | [Frogun](games/f/frogun.md) | 1.83% |
 | 90 | [Sifu](games/s/sifu.md) | 1.80% |
 | 91 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.77% |
 | 92 | [Iron Danger](games/i/iron_danger.md) | 1.66% |
@@ -126,7 +126,7 @@
 | 124 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.64% |
 | 125 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 126 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.61% |
-| 126 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.61% |
+| 127 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.60% |
 | 128 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.59% |
 | 128 | [Potion Permit](games/p/potion_permit.md) | 0.59% |
 | 130 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.57% |
@@ -519,4 +519,4 @@
 | 247 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 247 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 247 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,984 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,985 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
