@@ -908,9 +908,9 @@
       "ID": "Achievement_NonFiction",
       "SetID": "c01p6e5",
       "Name": "Non-Fiction",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 84
     },
     {
       "ID": "Achievement_SecondLife",
@@ -1013,8 +1013,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-08-02T09:06:25.6746665+00:00",
+  "LastChanged_Achievements": "2023-08-02T10:06:19.2378881+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:19.9078412+00:00",
-  "LastUpdate_Ratings": "2023-08-02T08:57:23.4524815+00:00",
-  "LastUpdate_Achievements": "2023-08-02T09:06:25.6746985+00:00"
+  "LastUpdate_Ratings": "2023-08-02T09:57:16.8485038+00:00",
+  "LastUpdate_Achievements": "2023-08-02T10:06:19.2379536+00:00"
 }

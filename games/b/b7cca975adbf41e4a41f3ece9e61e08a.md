@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 100.00% | ~2 |
-| I Challenge You To Save More Money! | 50.00% | ~1 |
-| Hurrah! | 50.00% | ~1 |
-| FIRST LOVE | 50.00% | ~1 |
-| Are You Alright? | 50.00% | ~1 |
-| Go Clean up In Your Own Way | 50.00% | ~1 |
+| Last Night...Did We... | 67.00% | ~2 |
+| I Challenge You To Save More Money! | 33.00% | ~1 |
+| Hurrah! | 33.00% | ~1 |
+| FIRST LOVE | 33.00% | ~1 |
+| Are You Alright? | 33.00% | ~1 |
+| Go Clean up In Your Own Way | 33.00% | ~1 |
 | My Dear Love! | 0.00% | ~0 |
 | Doesn't Matter I'll Handle It | 0.00% | ~0 |
 | Off We Sail Tonight | 0.00% | ~0 |
@@ -47,9 +47,10 @@
 | This Ain't Right In Many Ways... | 0.00% | ~0 |
 | SALUTE | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 460)  
+Progressed: 3 (Ranked 454)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-27 | 2 | 0 |
+| 2023-08-02 | 3 | 0 |

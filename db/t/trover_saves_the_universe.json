@@ -2,7 +2,7 @@
   "ID": "sweetpea",
   "Name": "Trover Saves the Universe",
   "ProductSlug": "trover-saves-the-universe",
-  "Ranking_EOS_Progress": 522,
+  "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 104,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:55.863488+00:00",
   "LastChanged": "2023-03-31T05:57:55.8634881+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:16.1896077+00:00",
-  "LastUpdate_Ratings": "2023-08-02T09:00:50.7449186+00:00",
-  "LastUpdate_Achievements": "2023-08-02T09:03:34.7908952+00:00"
+  "LastUpdate_Ratings": "2023-08-02T10:00:50.4038933+00:00",
+  "LastUpdate_Achievements": "2023-08-02T10:03:16.3622453+00:00"
 }

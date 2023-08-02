@@ -5,7 +5,7 @@
   "Ranking_Rating": 900,
   "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 66,
-  "Ranking_EOS_Progress": 522,
+  "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 104,
@@ -6272,10 +6272,16 @@
       "Rating": 4.1,
       "NumberOfAwards": 13944,
       "NumberOfAwardsMax": 2479
+    },
+    {
+      "Time": "2023-08-02T09:58:53.1782129+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 13946,
+      "NumberOfAwardsMax": 2479
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13944,
+  "NumberOfAwards": 13946,
   "NumberOfAwardsMax": 2479,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -6307,7 +6313,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 2462
+      "Count": 2464
     },
     {
       "Text": "This game has a Competitive Community",
@@ -6333,8 +6339,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-08-01T16:59:39.9908892+00:00",
+  "LastChanged": "2023-08-02T09:58:53.1782127+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:11.7719357+00:00",
-  "LastUpdate_Ratings": "2023-08-02T08:58:55.7740092+00:00",
-  "LastUpdate_Achievements": "2023-08-02T09:04:25.1003394+00:00"
+  "LastUpdate_Ratings": "2023-08-02T09:58:53.1782133+00:00",
+  "LastUpdate_Achievements": "2023-08-02T10:04:07.2927345+00:00"
 }

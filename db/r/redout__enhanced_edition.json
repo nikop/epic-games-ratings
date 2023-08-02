@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228703,
+  "EOS_Progressed": 228704,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 577,
+  "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11098,6 +11098,11 @@
       "Time": "2023-08-02T09:04:28.2210603+00:00",
       "NumProgressed": 228703,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-02T10:04:10.608318+00:00",
+      "NumProgressed": 228704,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -11373,22 +11378,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 93768
+      "UsersEstimate": 93769
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 228703,
+      "Progressed": 228704,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-08-02T09:04:28.2210599+00:00",
+  "LastChanged_Achievements": "2023-08-02T10:04:10.6083173+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.6745563+00:00",
-  "LastUpdate_Ratings": "2023-08-02T08:58:53.0136501+00:00",
-  "LastUpdate_Achievements": "2023-08-02T09:04:28.2211394+00:00"
+  "LastUpdate_Ratings": "2023-08-02T09:58:50.3694637+00:00",
+  "LastUpdate_Achievements": "2023-08-02T10:04:10.6084106+00:00"
 }

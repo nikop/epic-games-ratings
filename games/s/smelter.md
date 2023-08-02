@@ -11,7 +11,7 @@
 | Deep in the Mounds | 69.00% | ~27 |
 | Smeltastic! | 36.00% | ~14 |
 | Locked Away | 33.00% | ~13 |
-| A Little Renovating | 28.00% | ~11 |
+| A Little Renovating | 31.00% | ~12 |
 | Deflect This! | 26.00% | ~10 |
 | It's a Sign! | 26.00% | ~10 |
 | Just Some Improvements | 21.00% | ~8 |

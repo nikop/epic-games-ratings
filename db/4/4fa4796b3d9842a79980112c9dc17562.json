@@ -2,7 +2,7 @@
   "ID": "4fa4796b3d9842a79980112c9dc17562",
   "Name": "Nick Quest",
   "ProductSlug": "nick-quest-a3cdb8",
-  "Ranking_EOS_Progress": 522,
+  "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 104,
@@ -40,8 +40,8 @@
   ],
   "FirstSeen": "2023-05-31T07:57:05.0715996+00:00",
   "FirstSeenAchievements": "2023-05-24T15:01:37.8506848+00:00",
-  "LastChanged_Achievements": "2023-08-02T09:05:20.5147054+00:00",
+  "LastChanged_Achievements": "2023-08-02T10:05:13.4241635+00:00",
   "LastUpdate_AppInfo": "2023-07-26T19:57:14.8475188+00:00",
-  "LastUpdate_Ratings": "2023-08-02T08:57:45.0367835+00:00",
-  "LastUpdate_Achievements": "2023-08-02T09:05:20.5147081+00:00"
+  "LastUpdate_Ratings": "2023-08-02T09:57:38.2151224+00:00",
+  "LastUpdate_Achievements": "2023-08-02T10:05:13.4241761+00:00"
 }

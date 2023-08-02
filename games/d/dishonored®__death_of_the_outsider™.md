@@ -4,7 +4,7 @@
 Rating: 4.42 (Ranked 667)  
 ## Awards
 Max (Diverse Characters): 34  (Ranked 441)  
-Sum: 201 (Ranked 366)  
+Sum: 202 (Ranked 366)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): 75
 | This game is Extremely Fun | 27 |
 | This game is Relaxing | 26 |
 | This game has Unique Visuals | 22 |
-| This game has Quickly Understood Controls | 20 |
+| This game has Quickly Understood Controls | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -109,3 +109,4 @@ Diff (max vs sum): 75
 | 2023-07-28 | 4.42 | 33 | 199 |
 | 2023-07-29 | 4.42 | 33 | 200 |
 | 2023-07-30 | 4.42 | 34 | 201 |
+| 2023-08-02 | 4.42 | 34 | 202 |

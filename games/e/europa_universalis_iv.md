@@ -6,13 +6,13 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,939 |
-| That's a Grand Army | 8.00% | ~6,168 |
-| That is mine! | 8.00% | ~6,168 |
-| Victorious! | 8.00% | ~6,168 |
-| Brothers in Arms | 6.00% | ~4,626 |
-| That's a Grand Navy | 6.00% | ~4,626 |
-| Seriously?! | 6.00% | ~4,626 |
+| Until death do us apart | 9.00% | ~6,940 |
+| That's a Grand Army | 8.00% | ~6,169 |
+| That is mine! | 8.00% | ~6,169 |
+| Victorious! | 8.00% | ~6,169 |
+| Brothers in Arms | 6.00% | ~4,627 |
+| That's a Grand Navy | 6.00% | ~4,627 |
+| Seriously?! | 6.00% | ~4,627 |
 | For the Glory | 5.00% | ~3,855 |
 | Cold War | 4.00% | ~3,084 |
 | True Catholic | 4.00% | ~3,084 |
@@ -54,12 +54,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.60% | ~463 |
 | This is My Faith | 0.60% | ~463 |
 | Time Bandit | 0.60% | ~463 |
-| Absolutely | 0.50% | ~385 |
-| Grand Coalition | 0.50% | ~385 |
-| In the Name of the Father | 0.50% | ~385 |
-| Live Long and Prosper | 0.50% | ~385 |
-| Trophy Hunter | 0.50% | ~385 |
-| Voting Streak | 0.50% | ~385 |
+| Absolutely | 0.50% | ~386 |
+| Grand Coalition | 0.50% | ~386 |
+| In the Name of the Father | 0.50% | ~386 |
+| Live Long and Prosper | 0.50% | ~386 |
+| Trophy Hunter | 0.50% | ~386 |
+| Voting Streak | 0.50% | ~386 |
 | All Your Trade Are Belong to Us | 0.40% | ~308 |
 | Bleed Them Dry | 0.40% | ~308 |
 | Dude, Where's my Boat? | 0.40% | ~308 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,099 (Ranked 76)  
+Progressed: 77,109 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -465,10 +465,10 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 76,185 | 0 |
 | 2023-07-31 | 76,579 | 0 |
 | 2023-08-01 | 77,006 | 0 |
-| 2023-08-02 | 77,099 | 0 |
+| 2023-08-02 | 77,109 | 0 |
 ## Awards
 Max (Educational): 5,603  (Ranked 61)  
-Sum: 46,238 (Ranked 26)  
+Sum: 46,242 (Ranked 26)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
@@ -478,7 +478,7 @@ Diff (max vs sum): 35
 | This game is Extremely Fun | 5,313 |
 | This game has Diverse Characters | 5,279 |
 | This game is Relaxing | 5,178 |
-| This game has Competitive Players | 5,043 |
+| This game has Competitive Players | 5,047 |
 | This game has Amazing Storytelling | 4,743 |
 | This game has Amazing Characters | 4,388 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -682,3 +682,4 @@ Diff (max vs sum): 35
 | 2023-07-30 | 4.69 | - | 5,597 | 46,167 |
 | 2023-07-31 | 4.69 | - | 5,599 | 46,208 |
 | 2023-08-01 | 4.69 | - | 5,603 | 46,238 |
+| 2023-08-02 | 4.69 | - | 5,603 | 46,242 |

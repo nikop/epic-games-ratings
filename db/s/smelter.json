@@ -4,7 +4,7 @@
   "ProductSlug": "smelter-97a47b",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-22T00:00:00+00:00",
@@ -407,9 +407,9 @@
       "ID": "SMELTER_SALVAGE",
       "SetID": "1g58k92",
       "Name": "A Little Renovating",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SMELTER_SECRET_ENDING",
@@ -512,8 +512,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2023-08-02T09:04:18.1273215+00:00",
+  "LastChanged_Achievements": "2023-08-02T10:04:00.5051744+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:46.1692784+00:00",
-  "LastUpdate_Ratings": "2023-08-02T08:59:31.3201276+00:00",
-  "LastUpdate_Achievements": "2023-08-02T09:04:18.1273564+00:00"
+  "LastUpdate_Ratings": "2023-08-02T09:59:33.9420096+00:00",
+  "LastUpdate_Achievements": "2023-08-02T10:04:00.5052358+00:00"
 }

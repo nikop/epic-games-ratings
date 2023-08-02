@@ -6,26 +6,26 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~366,745 |
+| First Step | 70.00% | ~366,746 |
 | Now You're Talking | 62.00% | ~324,832 |
 | Steel Yourself | 62.00% | ~324,832 |
-| Window Dressing | 50.00% | ~261,961 |
-| Trigger Happy | 46.00% | ~241,004 |
+| Window Dressing | 50.00% | ~261,962 |
+| Trigger Happy | 46.00% | ~241,005 |
 | Riverborn | 45.00% | ~235,765 |
-| Starry Eyed | 34.00% | ~178,133 |
-| Poking Around | 34.00% | ~178,133 |
-| Talk of the Town | 24.00% | ~125,741 |
+| Starry Eyed | 34.00% | ~178,134 |
+| Poking Around | 34.00% | ~178,134 |
+| Talk of the Town | 24.00% | ~125,742 |
 | AAARR! | 23.00% | ~120,502 |
 | Hello Darkness | 23.00% | ~120,502 |
 | Wind At Our Backs | 22.00% | ~115,263 |
-| To the Beat | 20.00% | ~104,784 |
+| To the Beat | 20.00% | ~104,785 |
 | Sunny Shores | 17.00% | ~89,067 |
 | Sunday Best | 16.00% | ~83,828 |
 | To Victory! | 15.00% | ~78,588 |
 | Two of a Kind | 14.00% | ~73,349 |
 | Keep On Trucking | 13.00% | ~68,110 |
-| Going on an Adventure | 11.00% | ~57,631 |
-| Make Peace, Not War | 11.00% | ~57,631 |
+| Going on an Adventure | 11.00% | ~57,632 |
+| Make Peace, Not War | 11.00% | ~57,632 |
 | Walking The Line | 10.00% | ~52,392 |
 | Not So Cute Anymore | 10.00% | ~52,392 |
 | Road Less Travelled | 9.00% | ~47,153 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,572 |
 | Point Taken | 0.10% | ~524 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523,922 (Ranked 30)  
+Progressed: 523,923 (Ranked 30)  
 Completed: 453 (0.09%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 453 (0.09%) (Ranked 198)
 | 2023-07-30 | 523,720 | 453 |
 | 2023-07-31 | 523,791 | 453 |
 | 2023-08-01 | 523,889 | 453 |
-| 2023-08-02 | 523,922 | 453 |
+| 2023-08-02 | 523,923 | 453 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

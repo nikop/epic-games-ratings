@@ -2,10 +2,10 @@
   "ID": "4e9703c510444252886ee033a7c01ad6",
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
-  "Ranking_EOS_Progress": 280,
+  "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 208,
+  "EOS_Progressed": 209,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.4,
+  "EOS_Completed_Percentage": 2.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -313,6 +313,11 @@
       "Time": "2023-07-31T20:04:20.4966312+00:00",
       "NumProgressed": 208,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-02T10:03:58.7387354+00:00",
+      "NumProgressed": 209,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 15,
@@ -324,15 +329,15 @@
       "Name": "The T-Rex plain.",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "02",
       "SetID": "6glb5g1",
       "Name": "Crazy Jungle.",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 71
     },
     {
       "ID": "03",
@@ -348,7 +353,7 @@
       "Name": "At the top of the mountain.",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "05",
@@ -380,7 +385,7 @@
       "Name": "Aggressive rocks.",
       "Percentage": 17,
       "XP": 80,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "09",
@@ -402,9 +407,9 @@
       "ID": "11",
       "SetID": "6glb5g1",
       "Name": "Rocky fall.",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "12",
@@ -420,7 +425,7 @@
       "Name": "Passing the carcass.",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "14",
@@ -443,7 +448,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 208,
+      "Progressed": 209,
       "Completed": 5
     }
   ],
@@ -451,8 +456,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-08-02T09:04:16.6567725+00:00",
+  "LastChanged_Achievements": "2023-08-02T10:03:58.7387346+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:34.4582495+00:00",
-  "LastUpdate_Ratings": "2023-08-02T08:58:23.1377337+00:00",
-  "LastUpdate_Achievements": "2023-08-02T09:04:16.6567837+00:00"
+  "LastUpdate_Ratings": "2023-08-02T09:58:21.3614839+00:00",
+  "LastUpdate_Achievements": "2023-08-02T10:03:58.7387595+00:00"
 }

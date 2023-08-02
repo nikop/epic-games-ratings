@@ -5,7 +5,7 @@
   "Ranking_Rating": 40,
   "Ranking_Popularity": 166,
   "Ranking_PopularitySum": 125,
-  "Ranking_EOS_Progress": 522,
+  "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 104,
@@ -4210,10 +4210,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 5445,
       "NumberOfAwardsMax": 681
+    },
+    {
+      "Time": "2023-08-02T09:59:42.026392+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 5447,
+      "NumberOfAwardsMax": 681
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5445,
+  "NumberOfAwards": 5447,
   "NumberOfAwardsMax": 681,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -4275,7 +4281,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 429
+      "Count": 431
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -4295,8 +4301,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2023-08-02T02:59:26.6350453+00:00",
+  "LastChanged": "2023-08-02T09:59:42.0263919+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:57.9148702+00:00",
-  "LastUpdate_Ratings": "2023-08-02T08:59:40.4877782+00:00",
-  "LastUpdate_Achievements": "2023-08-02T09:03:49.3192276+00:00"
+  "LastUpdate_Ratings": "2023-08-02T09:59:42.0263925+00:00",
+  "LastUpdate_Achievements": "2023-08-02T10:03:31.2670178+00:00"
 }

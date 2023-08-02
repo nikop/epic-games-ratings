@@ -20,8 +20,8 @@ Number of Ratings: 98  (23.09.2022)
 | Donatello | 21.00% | ~1,375 |
 | Insubordination | 20.00% | ~1,310 |
 | The Italian Job | 20.00% | ~1,310 |
+| Ragazzi del '99 | 18.00% | ~1,179 |
 | The Lion of the Isonzo | 18.00% | ~1,179 |
-| Ragazzi del '99 | 17.00% | ~1,113 |
 | Dirty Dozen | 14.00% | ~917 |
 | Luigi Cadorna | 14.00% | ~917 |
 | Thus With A Kiss | 14.00% | ~917 |

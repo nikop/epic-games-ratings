@@ -2,7 +2,7 @@
   "ID": "8b9d052509c8474f9fc14a214ce6bed2",
   "Name": "Die By The Blade",
   "ProductSlug": "die-by-the-blade-0d29ad",
-  "Ranking_EOS_Progress": 522,
+  "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 104,
@@ -36,8 +36,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:57.005318+00:00",
-  "LastChanged_Achievements": "2023-08-02T09:03:40.7969928+00:00",
+  "LastChanged_Achievements": "2023-08-02T10:03:22.4782368+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:15.8567613+00:00",
-  "LastUpdate_Ratings": "2023-08-02T08:58:58.5995142+00:00",
-  "LastUpdate_Achievements": "2023-08-02T09:03:40.7969956+00:00"
+  "LastUpdate_Ratings": "2023-08-02T09:58:55.7755319+00:00",
+  "LastUpdate_Achievements": "2023-08-02T10:03:22.4782405+00:00"
 }

@@ -2804,10 +2804,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 3134,
       "NumberOfAwardsMax": 374
+    },
+    {
+      "Time": "2023-08-02T10:00:57.881563+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 3136,
+      "NumberOfAwardsMax": 374
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3134,
+  "NumberOfAwards": 3136,
   "NumberOfAwardsMax": 374,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2857,7 +2863,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 316
+      "Count": 318
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2878,9 +2884,9 @@
       "Count": 260
     }
   ],
-  "EOS_Progressed": 235073,
+  "EOS_Progressed": 235074,
   "EOS_Completed": 783,
-  "EOS_NewPlayers": 995,
+  "EOS_NewPlayers": 994,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -13953,6 +13959,11 @@
       "Time": "2023-08-02T09:04:43.0151761+00:00",
       "NumProgressed": 235073,
       "NumCompleted": 783
+    },
+    {
+      "Time": "2023-08-02T10:04:25.6570095+00:00",
+      "NumProgressed": 235074,
+      "NumCompleted": 783
     }
   ],
   "TotalAchievements": 39,
@@ -14028,7 +14039,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 213916
+      "UsersEstimate": 213917
     },
     {
       "ID": "AchievementClownID",
@@ -14036,7 +14047,7 @@
       "Name": "Where is It?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 39962
+      "UsersEstimate": 39963
     },
     {
       "ID": "AchievementContainerPartyID",
@@ -14052,7 +14063,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 65820
+      "UsersEstimate": 65821
     },
     {
       "ID": "AchievementEggID",
@@ -14060,7 +14071,7 @@
       "Name": "Egg Simulator",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 39962
+      "UsersEstimate": 39963
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -14196,7 +14207,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 173954
+      "UsersEstimate": 173955
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -14212,7 +14223,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 117536
+      "UsersEstimate": 117537
     },
     {
       "ID": "AchievementStreakingID",
@@ -14236,7 +14247,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 129290
+      "UsersEstimate": 129291
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -14244,7 +14255,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 110484
+      "UsersEstimate": 110485
     },
     {
       "ID": "AchievementTrinketID",
@@ -14260,7 +14271,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 152797
+      "UsersEstimate": 152798
     },
     {
       "ID": "AchievementWhaleID",
@@ -14275,16 +14286,16 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 235073,
+      "Progressed": 235074,
       "Completed": 783
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-08-01T20:01:23.5098522+00:00",
-  "LastChanged_Achievements": "2023-08-02T09:04:43.0151756+00:00",
+  "LastChanged": "2023-08-02T10:00:57.8815627+00:00",
+  "LastChanged_Achievements": "2023-08-02T10:04:25.6570089+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:24.5998227+00:00",
-  "LastUpdate_Ratings": "2023-08-02T09:00:56.2742275+00:00",
-  "LastUpdate_Achievements": "2023-08-02T09:04:43.0152579+00:00"
+  "LastUpdate_Ratings": "2023-08-02T10:00:57.8815634+00:00",
+  "LastUpdate_Achievements": "2023-08-02T10:04:25.6571071+00:00"
 }
