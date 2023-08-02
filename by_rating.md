@@ -46,7 +46,7 @@
 | 40 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 374 | 219 |
 | 40 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 220 | 261 |
 | 40 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 138 | 303 |
-| 40 | [Subnautica](games/s/subnautica.md) | 4.85 | 679 | 166 |
+| 40 | [Subnautica](games/s/subnautica.md) | 4.85 | 681 | 166 |
 | 40 | [WarmSnow](games/w/warmsnow.md) | 4.85 | 0 | 509 |
 | 49 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 51 | 398 |
 | 49 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 408 |
@@ -93,7 +93,7 @@
 | 89 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 291 |
 | 89 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 509 |
 | 89 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 779 | 156 |
-| 89 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,952 | 57 |
+| 89 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,955 | 57 |
 | 89 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 47 | 408 |
 | 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 383 | 216 |
 | 89 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 119 | 317 |
@@ -253,25 +253,25 @@
 | 240 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 419 | 206 |
 | 240 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 561 | 183 |
 | 240 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 678 | 167 |
-| 240 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.68 | 50 | 399 |
 | 240 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 0 | 509 |
 | 240 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 88 | 351 |
-| 257 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 509 |
-| 257 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 663 | 168 |
-| 257 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 509 |
-| 257 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 613 | 176 |
-| 257 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,240 | 105 |
-| 257 | [Overcooked](games/o/overcooked.md) | 4.67 | 115 | 321 |
-| 257 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.67 | 0 | 509 |
-| 257 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 509 |
-| 257 | [Tavern Master](games/t/tavern_master.md) | 4.67 | 0 | 509 |
-| 257 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 549 | 190 |
-| 257 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.67 | 0 | 509 |
-| 257 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 509 |
-| 257 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 509 |
-| 257 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,072 | 92 |
-| 257 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 96 | 341 |
-| 257 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 509 |
+| 256 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 509 |
+| 256 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 663 | 168 |
+| 256 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 509 |
+| 256 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 613 | 176 |
+| 256 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,240 | 105 |
+| 256 | [Overcooked](games/o/overcooked.md) | 4.67 | 115 | 321 |
+| 256 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.67 | 50 | 399 |
+| 256 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.67 | 0 | 509 |
+| 256 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 509 |
+| 256 | [Tavern Master](games/t/tavern_master.md) | 4.67 | 0 | 509 |
+| 256 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 549 | 190 |
+| 256 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.67 | 0 | 509 |
+| 256 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 509 |
+| 256 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 509 |
+| 256 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,072 | 92 |
+| 256 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 96 | 341 |
+| 256 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 509 |
 | 273 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 76 | 364 |
 | 273 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 420 |
 | 273 | [Crashlands](games/c/crashlands.md) | 4.66 | 191 | 274 |
@@ -461,7 +461,7 @@
 | 446 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,615 | 83 |
 | 446 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 458 |
 | 446 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,113 | 19 |
-| 446 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,758 | 115 |
+| 446 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,759 | 115 |
 | 446 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.57 | 0 | 509 |
 | 446 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 57 | 393 |
 | 465 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 509 |
@@ -721,19 +721,19 @@
 | 716 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 288 |
 | 716 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 167 | 287 |
 | 716 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 72 | 373 |
+| 716 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.38 | 0 | 509 |
 | 716 | [Tacoma](games/t/tacoma.md) | 4.38 | 0 | 509 |
 | 716 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 509 |
 | 716 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 509 |
 | 716 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.38 | 102 | 331 |
-| 726 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 509 |
-| 726 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,146 | 108 |
-| 726 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.37 | 0 | 509 |
-| 726 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 509 |
-| 726 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 48 | 406 |
-| 726 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 509 |
-| 726 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.37 | 0 | 509 |
-| 726 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.37 | 101 | 333 |
-| 726 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 451 |
+| 727 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 509 |
+| 727 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,146 | 108 |
+| 727 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.37 | 0 | 509 |
+| 727 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 509 |
+| 727 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 48 | 406 |
+| 727 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 509 |
+| 727 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.37 | 101 | 333 |
+| 727 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 451 |
 | 735 | [Core](games/c/core.md) | 4.36 | 745 | 159 |
 | 735 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 284 |
 | 735 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,609 | 29 |
