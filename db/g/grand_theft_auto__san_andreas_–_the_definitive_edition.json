@@ -646,9 +646,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11720,
+  "EOS_Progressed": 11722,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8131,6 +8131,11 @@
       "Time": "2023-08-02T05:08:12.749091+00:00",
       "NumProgressed": 11720,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-08-02T06:08:32.9303236+00:00",
+      "NumProgressed": 11722,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 35,
@@ -8142,7 +8147,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9493
+      "UsersEstimate": 9495
     },
     {
       "ID": "ACH02",
@@ -8158,7 +8163,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "ACH04",
@@ -8198,7 +8203,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5860
+      "UsersEstimate": 5861
     },
     {
       "ID": "ACH09",
@@ -8262,7 +8267,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "ACH17",
@@ -8421,7 +8426,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11720,
+      "Progressed": 11722,
       "Completed": 33
     }
   ],
@@ -8429,8 +8434,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-01T05:01:22.5591656+00:00",
-  "LastChanged_Achievements": "2023-08-02T05:08:12.7490905+00:00",
+  "LastChanged_Achievements": "2023-08-02T06:08:32.9303228+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.4328142+00:00",
-  "LastUpdate_Ratings": "2023-08-02T05:01:58.5132695+00:00",
-  "LastUpdate_Achievements": "2023-08-02T05:08:12.7491545+00:00"
+  "LastUpdate_Ratings": "2023-08-02T06:02:08.2430833+00:00",
+  "LastUpdate_Achievements": "2023-08-02T06:08:32.9304488+00:00"
 }

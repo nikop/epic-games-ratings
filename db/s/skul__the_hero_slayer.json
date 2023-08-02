@@ -932,9 +932,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 8072,
+  "EOS_Progressed": 8073,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4092,6 +4092,11 @@
       "Time": "2023-08-02T04:05:02.7154131+00:00",
       "NumProgressed": 8072,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-08-02T06:06:38.3617941+00:00",
+      "NumProgressed": 8073,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -4127,7 +4132,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5085
+      "UsersEstimate": 5086
     },
     {
       "ID": "DemonCastleRestoration",
@@ -4183,7 +4188,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "HeroSlayer",
@@ -4223,7 +4228,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "SavedElderEnt",
@@ -4231,7 +4236,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5085
+      "UsersEstimate": 5086
     },
     {
       "ID": "SavedElderEnt_2",
@@ -4239,7 +4244,7 @@
       "Name": "Quick Movements",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 2744
+      "UsersEstimate": 2745
     },
     {
       "ID": "SkeletonKing",
@@ -4255,7 +4260,7 @@
       "Name": "Inventory Management",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2744
+      "UsersEstimate": 2745
     },
     {
       "ID": "TheLegendBegins",
@@ -4263,7 +4268,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7507
+      "UsersEstimate": 7508
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4279,7 +4284,7 @@
       "Name": "Master of Speed",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "WhattoBuy",
@@ -4287,22 +4292,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6780
+      "UsersEstimate": 6781
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8072,
+      "Progressed": 8073,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-01T09:59:29.4512812+00:00",
-  "LastChanged_Achievements": "2023-08-02T05:06:18.3311708+00:00",
+  "LastChanged_Achievements": "2023-08-02T06:06:38.3617933+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:57.8506775+00:00",
-  "LastUpdate_Ratings": "2023-08-02T05:00:24.4074377+00:00",
-  "LastUpdate_Achievements": "2023-08-02T05:06:18.3312087+00:00"
+  "LastUpdate_Ratings": "2023-08-02T06:00:37.1287372+00:00",
+  "LastUpdate_Achievements": "2023-08-02T06:06:38.3618327+00:00"
 }

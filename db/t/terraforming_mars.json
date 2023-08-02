@@ -2584,9 +2584,9 @@
       "Count": 237
     }
   ],
-  "EOS_Progressed": 69949,
+  "EOS_Progressed": 69950,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 1118,
+  "EOS_NewPlayers": 1116,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -13764,6 +13764,11 @@
       "Time": "2023-08-02T05:06:23.5735132+00:00",
       "NumProgressed": 69949,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-08-02T06:06:43.7673692+00:00",
+      "NumProgressed": 69950,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 30,
@@ -13839,7 +13844,7 @@
       "Name": "Variety Expert",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 6295
+      "UsersEstimate": 6296
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -13871,7 +13876,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 23083
+      "UsersEstimate": 23084
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -13935,7 +13940,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 9093
+      "UsersEstimate": 9094
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -13951,7 +13956,7 @@
       "Name": "Final touch",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 25881
+      "UsersEstimate": 25882
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -14014,15 +14019,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 69949,
+      "Progressed": 69950,
       "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-08-01T21:59:30.103059+00:00",
-  "LastChanged_Achievements": "2023-08-02T05:06:23.5735125+00:00",
+  "LastChanged_Achievements": "2023-08-02T06:06:43.7673687+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:10.0155154+00:00",
-  "LastUpdate_Ratings": "2023-08-02T04:59:19.6250142+00:00",
-  "LastUpdate_Achievements": "2023-08-02T05:06:23.5736171+00:00"
+  "LastUpdate_Ratings": "2023-08-02T05:59:34.7789139+00:00",
+  "LastUpdate_Achievements": "2023-08-02T06:06:43.7674664+00:00"
 }

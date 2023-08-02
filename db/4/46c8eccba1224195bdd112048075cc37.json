@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -673,17 +673,17 @@
       "ID": "ReturnShell",
       "SetID": "7g1kpc8",
       "Name": "Detective",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SecondBoss",
       "SetID": "7g1kpc8",
       "Name": "Spider",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "TenLevel",
@@ -712,8 +712,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-08-02T05:06:21.6632715+00:00",
+  "LastChanged_Achievements": "2023-08-02T06:06:41.7269116+00:00",
   "LastUpdate_AppInfo": "2023-07-31T09:57:13.2028801+00:00",
-  "LastUpdate_Ratings": "2023-08-02T04:57:47.7584745+00:00",
-  "LastUpdate_Achievements": "2023-08-02T05:06:21.6632908+00:00"
+  "LastUpdate_Ratings": "2023-08-02T05:58:07.1275721+00:00",
+  "LastUpdate_Achievements": "2023-08-02T06:06:41.7269387+00:00"
 }

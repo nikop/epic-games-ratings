@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5704,10 +5704,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 40332,
       "NumberOfAwardsMax": 21463
+    },
+    {
+      "Time": "2023-08-02T05:58:29.247063+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40335,
+      "NumberOfAwardsMax": 21463
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40332,
+  "NumberOfAwards": 40335,
   "NumberOfAwardsMax": 21463,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5769,7 +5775,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 909
+      "Count": 912
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5784,9 +5790,9 @@
       "Count": 574
     }
   ],
-  "EOS_Progressed": 289162,
+  "EOS_Progressed": 289168,
   "EOS_Completed": 437,
-  "EOS_NewPlayers": 578,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -16944,6 +16950,11 @@
       "Time": "2023-08-02T05:05:54.0134458+00:00",
       "NumProgressed": 289162,
       "NumCompleted": 437
+    },
+    {
+      "Time": "2023-08-02T06:06:13.3632287+00:00",
+      "NumProgressed": 289168,
+      "NumCompleted": 437
     }
   ],
   "TotalAchievements": 45,
@@ -16955,7 +16966,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34699
+      "UsersEstimate": 34700
     },
     {
       "ID": "PFA_10",
@@ -17003,7 +17014,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20241
+      "UsersEstimate": 20242
     },
     {
       "ID": "PFA_16",
@@ -17027,7 +17038,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20241
+      "UsersEstimate": 20242
     },
     {
       "ID": "PFA_19",
@@ -17035,7 +17046,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20241
+      "UsersEstimate": 20242
     },
     {
       "ID": "PFA_2",
@@ -17043,7 +17054,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11566
+      "UsersEstimate": 11567
     },
     {
       "ID": "PFA_20",
@@ -17067,7 +17078,7 @@
       "Name": "Collector\u0027s Edition",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "PFA_23",
@@ -17075,7 +17086,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28916
+      "UsersEstimate": 28917
     },
     {
       "ID": "PFA_24",
@@ -17219,7 +17230,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11566
+      "UsersEstimate": 11567
     },
     {
       "ID": "PFA_40",
@@ -17235,7 +17246,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11566
+      "UsersEstimate": 11567
     },
     {
       "ID": "PFA_42",
@@ -17259,7 +17270,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20241
+      "UsersEstimate": 20242
     },
     {
       "ID": "PFA_45",
@@ -17299,7 +17310,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28916
+      "UsersEstimate": 28917
     },
     {
       "ID": "PFA_9",
@@ -17314,16 +17325,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289162,
+      "Progressed": 289168,
       "Completed": 437
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-02T02:57:53.1808708+00:00",
-  "LastChanged_Achievements": "2023-08-02T05:05:54.0134451+00:00",
+  "LastChanged": "2023-08-02T05:58:29.2470626+00:00",
+  "LastChanged_Achievements": "2023-08-02T06:06:13.363228+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-08-02T04:58:15.2672698+00:00",
-  "LastUpdate_Achievements": "2023-08-02T05:05:54.013605+00:00"
+  "LastUpdate_Ratings": "2023-08-02T05:58:29.2470636+00:00",
+  "LastUpdate_Achievements": "2023-08-02T06:06:13.3633586+00:00"
 }

@@ -152,6 +152,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum in Alexandria | 0.10% | ~13 |
 | Alliance Victory | 0.10% | ~13 |
 | Future Regicide | 0.10% | ~13 |
+| Acropolis in Athenai | 0.10% | ~13 |
 | Barbarian Horde | 0.10% | ~13 |
 | Battle of Opis | 0.10% | ~13 |
 | Blade of the Monkey | 0.10% | ~13 |
@@ -267,7 +268,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.10% | ~13 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
-| Acropolis in Athenai | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | United Against The Horde | 0.00% | ~0 |
 | Before the Mongol Horde | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,231 (Ranked 117)  
+Progressed: 13,232 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,7 +407,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-07-30 | 13,191 | 5 |
 | 2023-07-31 | 13,209 | 5 |
 | 2023-08-01 | 13,228 | 5 |
-| 2023-08-02 | 13,231 | 5 |
+| 2023-08-02 | 13,232 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 262)  
 Sum: 1,786 (Ranked 206)  

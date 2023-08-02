@@ -12,8 +12,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 1.00% | ~2,178 |
 | Supply Run | 1.00% | ~2,178 |
 | Rocky Reception | 1.00% | ~1,841 |
+| Rock and Roll | 1.00% | ~1,841 |
 | Vecna Lives! | 0.90% | ~1,657 |
-| Rock and Roll | 0.90% | ~1,657 |
 | Vecna Loots! | 0.80% | ~1,473 |
 | Flight of the Kindori Pod | 0.80% | ~1,473 |
 | Topolah's Tower | 0.80% | ~1,473 |
@@ -21,17 +21,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Destruction | 0.70% | ~1,289 |
 | Return to the Tomb | 0.70% | ~1,289 |
 | Pros and CONs | 0.60% | ~1,307 |
-| The Witchlight Carnival | 0.60% | ~1,104 |
+| The Witchlight Carnival | 0.60% | ~1,105 |
 | Wet Feet | 0.60% | ~1,307 |
 | Hatchlings Underfoot | 0.60% | ~1,307 |
-| Heatwave | 0.60% | ~1,104 |
+| Heatwave | 0.60% | ~1,105 |
 | Were-verpowered | 0.60% | ~1,307 |
 | A Persistent Buzzing | 0.60% | ~1,307 |
 | Terror in the Dark | 0.60% | ~1,307 |
 | A Mysterious Summons | 0.60% | ~1,307 |
 | Building Trust | 0.60% | ~1,307 |
 | Unearthed Evil | 0.60% | ~1,307 |
-| The Champion's Guide to Wildspace | 0.60% | ~1,104 |
+| The Champion's Guide to Wildspace | 0.60% | ~1,105 |
 | Don't Look Up! | 0.50% | ~1,089 |
 | Heavy Burden | 0.50% | ~1,089 |
 | The Evacuation of Waterdeep | 0.50% | ~920 |
@@ -61,6 +61,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Thay Ever | 0.40% | ~736 |
 | A Demi-god's Defender | 0.40% | ~736 |
 | Homecoming | 0.40% | ~871 |
+| The Lost Heir of Omu | 0.40% | ~871 |
 | No One Can Hear You Scream | 0.40% | ~736 |
 | Welcome to the Rock | 0.40% | ~736 |
 | Wisdom Check | 0.40% | ~871 |
@@ -91,7 +92,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.30% | ~552 |
 | Who Lurks Below? | 0.30% | ~552 |
 | Xanathaaaaaaar! | 0.30% | ~552 |
-| The Lost Heir of Omu | 0.30% | ~653 |
 | The Forbidden City | 0.30% | ~653 |
 | Captured! | 0.30% | ~653 |
 | Force Grey Unleashed | 0.30% | ~653 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,800 (Ranked 53)  
+Progressed: 217,810 (Ranked 53)  
 Completed: 2,142 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -623,7 +623,7 @@ Completed: 2,142 (0.98%) (Ranked 112)
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
-| 2023-08-02 | 217,800 | 2,142 |
+| 2023-08-02 | 217,810 | 2,142 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
 Sum: 30,851 (Ranked 38)  

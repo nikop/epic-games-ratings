@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 60.00% | ~184 |
+| In the Black | 60.00% | ~185 |
 | Starting Skyward | 52.00% | ~160 |
-| Grime is Not Good | 48.00% | ~147 |
+| Grime is Not Good | 47.00% | ~145 |
+| Floor Galore | 39.00% | ~120 |
 | Campaign Launch | 39.00% | ~120 |
 | Dinner Dash | 39.00% | ~120 |
-| Floor Galore | 38.00% | ~117 |
-| Need a Consult | 36.00% | ~111 |
 | It's Technical | 36.00% | ~111 |
-| Upgrade Unlock | 34.00% | ~104 |
-| Delegate Maintenance | 33.00% | ~101 |
-| Proper Walls | 32.00% | ~98 |
+| Need a Consult | 35.00% | ~108 |
+| Upgrade Unlock | 34.00% | ~105 |
+| Delegate Maintenance | 33.00% | ~102 |
+| Proper Walls | 32.00% | ~99 |
 | Destination Destiny | 28.00% | ~86 |
-| Happy Tenants | 24.00% | ~74 |
-| Potent Potables | 23.00% | ~71 |
+| Happy Tenants | 25.00% | ~77 |
+| Potent Potables | 24.00% | ~74 |
+| Your Prestige is Rising | 23.00% | ~71 |
 | Smooth Service | 23.00% | ~71 |
-| Your Prestige is Rising | 22.00% | ~68 |
 | Retail Revenue | 22.00% | ~68 |
-| Lux Living | 21.00% | ~64 |
-| Don't Feel a Loan | 21.00% | ~64 |
-| People Mover | 20.00% | ~61 |
-| Leveled Up Shops | 20.00% | ~61 |
-| Artfully Done | 19.00% | ~58 |
-| Emporium Empire | 19.00% | ~58 |
-| We Don't Need No Education | 19.00% | ~58 |
-| Get Electrified | 19.00% | ~58 |
+| Lux Living | 21.00% | ~65 |
+| Don't Feel a Loan | 20.00% | ~62 |
+| People Mover | 20.00% | ~62 |
+| Leveled Up Shops | 20.00% | ~62 |
+| Artfully Done | 19.00% | ~59 |
+| Emporium Empire | 19.00% | ~59 |
+| We Don't Need No Education | 19.00% | ~59 |
+| Get Electrified | 19.00% | ~59 |
 | Rehab Expert | 18.00% | ~55 |
 | Tasty Profits | 17.00% | ~52 |
+| Cashflow Chief | 16.00% | ~49 |
 | Under One Roof | 15.00% | ~46 |
 | Established Fame | 15.00% | ~46 |
-| Cashflow Chief | 15.00% | ~46 |
 | Starred Dining | 14.00% | ~43 |
 | Smooth Operator | 13.00% | ~40 |
 | Boutique Benefits | 13.00% | ~40 |
@@ -47,10 +47,9 @@
 | Plaza Plan | 8.00% | ~25 |
 | Refined Palates | 8.00% | ~25 |
 | Phoning It In | 8.00% | ~25 |
-| Water Features | 7.00% | ~21 |
-| Meet Me at HQ | 7.00% | ~21 |
-| Revenue Royalty | 7.00% | ~21 |
-| Pipe Up | 7.00% | ~21 |
+| Water Features | 7.00% | ~22 |
+| Meet Me at HQ | 7.00% | ~22 |
+| Revenue Royalty | 7.00% | ~22 |
 | I'm Busy Ruling | 6.00% | ~18 |
 | Careful Constructor | 6.00% | ~18 |
 | Sky High Stature | 6.00% | ~18 |
@@ -58,6 +57,7 @@
 | Maximum Reuse | 6.00% | ~18 |
 | Golden Opportunity | 6.00% | ~18 |
 | It's a Gas | 6.00% | ~18 |
+| Pipe Up | 6.00% | ~18 |
 | Meet ADA/360 | 5.00% | ~15 |
 | Baron of Business | 5.00% | ~15 |
 | Tuned In | 5.00% | ~15 |
@@ -82,10 +82,10 @@
 | Such Great Heights | 1.00% | ~3 |
 | Lofty Landlord | 1.00% | ~3 |
 | Scenario Success | 1.00% | ~3 |
-| Artistic Largesse | 0.70% | ~2 |
-| High Hand | 0.70% | ~2 |
-| Poker Face | 0.70% | ~2 |
-| Scenario Master | 0.70% | ~2 |
+| Artistic Largesse | 0.60% | ~2 |
+| High Hand | 0.60% | ~2 |
+| Poker Face | 0.60% | ~2 |
+| Scenario Master | 0.60% | ~2 |
 | Infrastructure Info | 0.30% | ~1 |
 | Statue Stature | 0.00% | ~0 |
 | Commercial Campaigns | 0.00% | ~0 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 307 (Ranked 255)  
+Progressed: 308 (Ranked 255)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 294 | 0 |
 | 2023-07-31 | 298 | 0 |
 | 2023-08-01 | 306 | 0 |
-| 2023-08-02 | 307 | 0 |
+| 2023-08-02 | 308 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

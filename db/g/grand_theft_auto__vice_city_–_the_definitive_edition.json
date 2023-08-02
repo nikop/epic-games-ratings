@@ -6,7 +6,7 @@
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 123,
-  "Ranking_EOS_Completed": 140,
+  "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
@@ -568,11 +568,11 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 9462,
+  "EOS_Progressed": 9464,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.47,
+  "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -7668,6 +7668,11 @@
       "Time": "2023-08-02T04:04:20.3737821+00:00",
       "NumProgressed": 9462,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-02T06:05:38.1924216+00:00",
+      "NumProgressed": 9464,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 34,
@@ -7735,7 +7740,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACH09",
@@ -7783,7 +7788,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3879
+      "UsersEstimate": 3880
     },
     {
       "ID": "ACH15",
@@ -7839,7 +7844,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4258
+      "UsersEstimate": 4259
     },
     {
       "ID": "ACH22",
@@ -7847,7 +7852,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "ACH23",
@@ -7879,7 +7884,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "ACH27",
@@ -7950,7 +7955,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9462,
+      "Progressed": 9464,
       "Completed": 44
     }
   ],
@@ -7958,8 +7963,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-01T16:59:33.8335317+00:00",
-  "LastChanged_Achievements": "2023-08-02T05:05:19.3294395+00:00",
+  "LastChanged_Achievements": "2023-08-02T06:05:38.192421+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-08-02T04:59:17.388945+00:00",
-  "LastUpdate_Achievements": "2023-08-02T05:05:19.3295219+00:00"
+  "LastUpdate_Ratings": "2023-08-02T05:59:32.8347264+00:00",
+  "LastUpdate_Achievements": "2023-08-02T06:05:38.1925188+00:00"
 }

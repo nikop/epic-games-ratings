@@ -5,11 +5,11 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,699 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,700 |
 | First Class Student | 11.00% | ~31,808 |
 | Troll with the Punches | 11.00% | ~31,808 |
-| A Keen Sense of Spell | 10.00% | ~28,916 |
-| That's a Keeper | 10.00% | ~28,916 |
+| A Keen Sense of Spell | 10.00% | ~28,917 |
+| That's a Keeper | 10.00% | ~28,917 |
 | Grappling with a Graphorn | 9.00% | ~26,025 |
 | The One Who Mastered Memories | 9.00% | ~26,025 |
 | The Hallowed Hero | 9.00% | ~26,025 |
@@ -21,18 +21,18 @@ Rating: 4.77 (Ranked 108)
 | Challenge Accepted | 8.00% | ~23,133 |
 | Followed the Butterflies | 8.00% | ~23,133 |
 | Rising From the Ashes | 8.00% | ~23,133 |
-| The Avenging Gazelle | 7.00% | ~20,241 |
-| A Sallow Grave | 7.00% | ~20,241 |
-| Flight the Good Flight | 7.00% | ~20,241 |
-| The Spell Master | 7.00% | ~20,241 |
+| The Avenging Gazelle | 7.00% | ~20,242 |
+| A Sallow Grave | 7.00% | ~20,242 |
+| Flight the Good Flight | 7.00% | ~20,242 |
+| The Spell Master | 7.00% | ~20,242 |
 | Beast Friends | 6.00% | ~17,350 |
 | The Seeker of Knowledge | 5.00% | ~14,458 |
 | The Root of the Problem | 5.00% | ~14,458 |
 | Third Time's a Charm | 5.00% | ~14,458 |
 | Raising Expectations | 5.00% | ~14,458 |
-| The Toast of the Town | 4.00% | ~11,566 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,566 |
-| The Ends Petrify the Means | 4.00% | ~11,566 |
+| The Toast of the Town | 4.00% | ~11,567 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,567 |
+| The Ends Petrify the Means | 4.00% | ~11,567 |
 | Going Through the Potions | 3.00% | ~8,675 |
 | Room with a View | 3.00% | ~8,675 |
 | Floo Around the World | 3.00% | ~8,675 |
@@ -49,9 +49,9 @@ Rating: 4.77 (Ranked 108)
 | Merlin's Beard! | 0.80% | ~2,313 |
 | Spilled Milk | 0.70% | ~2,024 |
 | The Nature of the Beast | 0.60% | ~1,735 |
-| Collector's Edition | 0.30% | ~867 |
+| Collector's Edition | 0.30% | ~868 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,162 (Ranked 42)  
+Progressed: 289,168 (Ranked 42)  
 Completed: 437 (0.15%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,10 +155,10 @@ Completed: 437 (0.15%) (Ranked 183)
 | 2023-07-30 | 288,994 | 437 |
 | 2023-07-31 | 289,064 | 437 |
 | 2023-08-01 | 289,146 | 437 |
-| 2023-08-02 | 289,162 | 437 |
+| 2023-08-02 | 289,168 | 437 |
 ## Awards
 Max (Character Customization): 21,463  (Ranked 17)  
-Sum: 40,332 (Ranked 30)  
+Sum: 40,335 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -167,8 +167,8 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 950 |
 | This game is Extremely Fun | 928 |
 | This game is Relaxing | 926 |
+| This game has Amazing Storytelling | 912 |
 | This game has Diverse Characters | 909 |
-| This game has Amazing Storytelling | 909 |
 | This game has Amazing Characters | 890 |
 | This game is Highly Recommended | 863 |
 | This game has Quickly Understood Controls | 824 |
@@ -308,4 +308,4 @@ Diff (max vs sum): -13
 | 2023-07-30 | 4.77 | 21,416 | 40,216 |
 | 2023-07-31 | 4.77 | 21,442 | 40,273 |
 | 2023-08-01 | 4.77 | 21,463 | 40,326 |
-| 2023-08-02 | 4.77 | 21,463 | 40,332 |
+| 2023-08-02 | 4.77 | 21,463 | 40,335 |

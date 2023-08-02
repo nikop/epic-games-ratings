@@ -6208,10 +6208,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 27414,
       "NumberOfAwardsMax": 7353
+    },
+    {
+      "Time": "2023-08-02T05:59:42.4440533+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27415,
+      "NumberOfAwardsMax": 7353
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27414,
+  "NumberOfAwards": 27415,
   "NumberOfAwardsMax": 7353,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6249,7 +6255,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1719
+      "Count": 1720
     },
     {
       "Text": "This game is Educational",
@@ -6294,9 +6300,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 795267,
+  "EOS_Progressed": 795269,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1056,
+  "EOS_NewPlayers": 1057,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17534,6 +17540,11 @@
       "Time": "2023-08-02T05:04:56.3591028+00:00",
       "NumProgressed": 795267,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-02T06:05:14.459651+00:00",
+      "NumProgressed": 795269,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -17633,7 +17644,7 @@
       "Name": "Bookworm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 111337
+      "UsersEstimate": 111338
     },
     {
       "ID": "Buddy",
@@ -17745,7 +17756,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 182911
+      "UsersEstimate": 182912
     },
     {
       "ID": "Fighter",
@@ -18025,7 +18036,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159053
+      "UsersEstimate": 159054
     },
     {
       "ID": "RevenantOfLedechko",
@@ -18065,7 +18076,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159053
+      "UsersEstimate": 159054
     },
     {
       "ID": "SerialKiller",
@@ -18081,7 +18092,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 87479
+      "UsersEstimate": 87480
     },
     {
       "ID": "Sniper",
@@ -18200,15 +18211,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 795267,
+      "Progressed": 795269,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-08-02T01:48:59.5055101+00:00",
-  "LastChanged_Achievements": "2023-08-02T05:04:56.3591022+00:00",
+  "LastChanged": "2023-08-02T05:59:42.4440531+00:00",
+  "LastChanged_Achievements": "2023-08-02T06:05:14.4596498+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:16.6403338+00:00",
-  "LastUpdate_Ratings": "2023-08-02T04:59:28.4343099+00:00",
-  "LastUpdate_Achievements": "2023-08-02T05:04:56.3593702+00:00"
+  "LastUpdate_Ratings": "2023-08-02T05:59:42.4440539+00:00",
+  "LastUpdate_Achievements": "2023-08-02T06:05:14.4599332+00:00"
 }

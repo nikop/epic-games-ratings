@@ -1575,9 +1575,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13231,
+  "EOS_Progressed": 13232,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8990,6 +8990,11 @@
       "Time": "2023-08-02T04:05:58.0237026+00:00",
       "NumProgressed": 13231,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-02T06:07:58.1808235+00:00",
+      "NumProgressed": 13232,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -9071,9 +9076,9 @@
       "ID": "ACHIEVEMENT_ATHENS_ACROPOLIS",
       "SetID": "9201eeb",
       "Name": "Acropolis in Athenai",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_HANGING_GARDENS",
@@ -11368,21 +11373,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13231,
+      "Progressed": 13232,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13231,
+      "Progressed": 13232,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-01T16:59:10.6733314+00:00",
-  "LastChanged_Achievements": "2023-08-02T05:07:38.3007011+00:00",
+  "LastChanged_Achievements": "2023-08-02T06:07:58.1808231+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.4550053+00:00",
-  "LastUpdate_Ratings": "2023-08-02T04:58:54.4159486+00:00",
-  "LastUpdate_Achievements": "2023-08-02T05:07:38.301748+00:00"
+  "LastUpdate_Ratings": "2023-08-02T05:59:10.5657896+00:00",
+  "LastUpdate_Achievements": "2023-08-02T06:07:58.181951+00:00"
 }

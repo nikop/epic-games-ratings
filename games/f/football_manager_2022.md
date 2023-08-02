@@ -6,8 +6,8 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~234,424 |
-| First Victory | 50.00% | ~234,424 |
+| He's Signed! | 50.00% | ~234,425 |
+| First Victory | 50.00% | ~234,425 |
 | Clean Sheet | 49.00% | ~229,736 |
 | He's Sold! | 48.00% | ~225,048 |
 | I'm The Boss! | 42.00% | ~196,917 |
@@ -15,10 +15,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Scoring Streak | 38.00% | ~178,163 |
 | Unbeatable! | 37.00% | ~173,474 |
 | Thumping | 37.00% | ~173,474 |
-| Superb Dressing Room Atmosphere | 35.00% | ~164,097 |
+| Superb Dressing Room Atmosphere | 35.00% | ~164,098 |
 | Total Support | 32.00% | ~150,032 |
 | Record Signing | 32.00% | ~150,032 |
-| Millionaire's Club | 31.00% | ~145,343 |
+| Millionaire's Club | 31.00% | ~145,344 |
 | Team Performance | 30.00% | ~140,655 |
 | He's a Natural | 30.00% | ~140,655 |
 | Parked The Bus | 29.00% | ~135,966 |
@@ -34,8 +34,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Full Faith | 24.00% | ~112,524 |
 | The Boss | 24.00% | ~112,524 |
 | Armchair Expert | 24.00% | ~112,524 |
-| Iron Curtain | 23.00% | ~107,835 |
-| Goal Machine | 23.00% | ~107,835 |
+| Iron Curtain | 23.00% | ~107,836 |
+| Goal Machine | 23.00% | ~107,836 |
 | What A Goal! | 22.00% | ~103,147 |
 | Top Of The Class | 22.00% | ~103,147 |
 | Cup Glory! | 22.00% | ~103,147 |
@@ -43,13 +43,13 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Bill of Health | 21.00% | ~98,458 |
 | Irresistible Force | 20.00% | ~93,770 |
 | Excellent Match Cohesion | 20.00% | ~93,770 |
-| Do The Double | 19.00% | ~89,081 |
+| Do The Double | 19.00% | ~89,082 |
 | Top Form | 17.00% | ~79,704 |
 | Cash To Burn | 17.00% | ~79,704 |
-| Beating Expectations | 15.00% | ~70,327 |
-| Overachiever! | 15.00% | ~70,327 |
-| Rushed signing | 15.00% | ~70,327 |
-| Window Shopping | 15.00% | ~70,327 |
+| Beating Expectations | 15.00% | ~70,328 |
+| Overachiever! | 15.00% | ~70,328 |
+| Rushed signing | 15.00% | ~70,328 |
+| Window Shopping | 15.00% | ~70,328 |
 | Eyes and Ears | 14.00% | ~65,639 |
 | Comeback King! | 13.00% | ~60,950 |
 | You're Up! | 13.00% | ~60,950 |
@@ -70,10 +70,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Head-to-Head | 6.00% | ~28,131 |
 | Going Places | 5.00% | ~23,442 |
 | We Trust You | 5.00% | ~23,442 |
-| National Hero | 3.00% | ~14,065 |
-| Golden Boot | 3.00% | ~14,065 |
-| Trophy Hoarder | 3.00% | ~14,065 |
-| Freedom Of The Country | 3.00% | ~14,065 |
+| National Hero | 3.00% | ~14,066 |
+| Golden Boot | 3.00% | ~14,066 |
+| Trophy Hoarder | 3.00% | ~14,066 |
+| Freedom Of The Country | 3.00% | ~14,066 |
 | Part Of The Furniture | 2.00% | ~9,377 |
 | Childhood Dream | 2.00% | ~9,377 |
 | Invitational | 2.00% | ~9,377 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~469 |
 | Shoestring Budget | 0.10% | ~469 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468,849 (Ranked 36)  
+Progressed: 468,850 (Ranked 36)  
 Completed: 19 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,10 +209,10 @@ Completed: 19 (0.00%) (Ranked 247)
 | 2023-07-30 | 468,647 | 19 |
 | 2023-07-31 | 468,736 | 19 |
 | 2023-08-01 | 468,840 | 19 |
-| 2023-08-02 | 468,849 | 19 |
+| 2023-08-02 | 468,850 | 19 |
 ## Awards
 Max (Relaxing): 6,382  (Ranked 52)  
-Sum: 50,260 (Ranked 24)  
+Sum: 50,263 (Ranked 24)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -221,7 +221,7 @@ Diff (max vs sum): 28
 | This game has Competitive Players | 5,825 |
 | This game has Quickly Understood Controls | 5,822 |
 | This game is Educational | 5,797 |
-| This game is Highly Recommended | 5,788 |
+| This game is Highly Recommended | 5,791 |
 | This game has Diverse Characters | 5,426 |
 | This game has Amazing Storytelling | 4,875 |
 | This game has Obsessive Gameplay | 4,416 |
@@ -418,3 +418,4 @@ Diff (max vs sum): 28
 | 2023-07-30 | 4.80 | - | 6,380 | 50,251 |
 | 2023-07-31 | 4.80 | - | 6,380 | 50,256 |
 | 2023-08-01 | 4.80 | - | 6,382 | 50,260 |
+| 2023-08-02 | 4.80 | - | 6,382 | 50,263 |
