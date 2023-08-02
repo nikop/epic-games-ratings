@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100031,
+  "EOS_Progressed": 100034,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1916,
+  "EOS_NewPlayers": 1909,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5641,6 +5641,11 @@
       "Time": "2023-08-02T07:06:38.8591849+00:00",
       "NumProgressed": 100031,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-08-02T08:06:31.3277316+00:00",
+      "NumProgressed": 100034,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 49,
@@ -5660,7 +5665,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 76024
+      "UsersEstimate": 76026
     },
     {
       "ID": "EAwards_10",
@@ -5724,7 +5729,7 @@
       "Name": "Talented Player",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 35011
+      "UsersEstimate": 35012
     },
     {
       "ID": "EAwards_18",
@@ -5732,7 +5737,7 @@
       "Name": "You Survived",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8002
+      "UsersEstimate": 8003
     },
     {
       "ID": "EAwards_19",
@@ -5748,7 +5753,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 47015
+      "UsersEstimate": 47016
     },
     {
       "ID": "EAwards_20",
@@ -5796,7 +5801,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 17005
+      "UsersEstimate": 17006
     },
     {
       "ID": "EAwards_26",
@@ -5812,7 +5817,7 @@
       "Name": "One down...",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 8002
+      "UsersEstimate": 8003
     },
     {
       "ID": "EAwards_28",
@@ -5924,7 +5929,7 @@
       "Name": "Severed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11003
+      "UsersEstimate": 11004
     },
     {
       "ID": "EAwards_40",
@@ -6004,7 +6009,7 @@
       "Name": "Prickly Pair",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8002
+      "UsersEstimate": 8003
     },
     {
       "ID": "EAwards_6",
@@ -6043,7 +6048,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 100031,
+      "Progressed": 100034,
       "Completed": 29
     }
   ],
@@ -6051,8 +6056,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-08-01T21:57:33.93343+00:00",
-  "LastChanged_Achievements": "2023-08-02T07:06:38.8591842+00:00",
+  "LastChanged_Achievements": "2023-08-02T08:06:31.3277311+00:00",
   "LastUpdate_AppInfo": "2023-07-27T18:56:58.2284125+00:00",
-  "LastUpdate_Ratings": "2023-08-02T06:57:42.5802711+00:00",
-  "LastUpdate_Achievements": "2023-08-02T07:06:38.8592908+00:00"
+  "LastUpdate_Ratings": "2023-08-02T07:57:32.4003672+00:00",
+  "LastUpdate_Achievements": "2023-08-02T08:06:31.32779+00:00"
 }

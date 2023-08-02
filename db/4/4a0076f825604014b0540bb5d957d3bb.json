@@ -210,9 +210,9 @@
       "ID": "CgkInO_K3eIdEAIQAw",
       "SetID": "6bj96in",
       "Name": "GREAT ESCAPE",
-      "Percentage": 94,
+      "Percentage": 97,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "CgkInO_K3eIdEAIQBA",
@@ -258,9 +258,9 @@
       "ID": "CgkInO_K3eIdEAIQCQ",
       "SetID": "6bj96in",
       "Name": "NOVICE CRAFTSMAN",
-      "Percentage": 103,
+      "Percentage": 106,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "CgkInO_K3eIdEAIQCg",
@@ -282,9 +282,9 @@
       "ID": "CgkInO_K3eIdEAIQDA",
       "SetID": "6bj96in",
       "Name": "BRIDGES OF THE PAST",
-      "Percentage": 97,
+      "Percentage": 100,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CgkInO_K3eIdEAIQDQ",
@@ -409,8 +409,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-02T07:05:09.6278537+00:00",
+  "LastChanged_Achievements": "2023-08-02T08:05:17.8880273+00:00",
   "LastUpdate_AppInfo": "2023-07-26T13:57:00.7387624+00:00",
-  "LastUpdate_Ratings": "2023-08-02T06:57:39.6575954+00:00",
-  "LastUpdate_Achievements": "2023-08-02T07:05:09.6278747+00:00"
+  "LastUpdate_Ratings": "2023-08-02T07:57:28.9041239+00:00",
+  "LastUpdate_Achievements": "2023-08-02T08:05:17.8880414+00:00"
 }

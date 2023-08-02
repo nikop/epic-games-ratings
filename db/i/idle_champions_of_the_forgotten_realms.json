@@ -5426,10 +5426,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30851,
       "NumberOfAwardsMax": 5108
+    },
+    {
+      "Time": "2023-08-02T07:59:10.7019961+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30854,
+      "NumberOfAwardsMax": 5108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30851,
+  "NumberOfAwards": 30854,
   "NumberOfAwardsMax": 5108,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5437,7 +5443,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5045
+      "Count": 5048
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5476,9 +5482,9 @@
       "Count": 3337
     }
   ],
-  "EOS_Progressed": 217818,
+  "EOS_Progressed": 217828,
   "EOS_Completed": 2142,
-  "EOS_NewPlayers": 2198,
+  "EOS_NewPlayers": 2208,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16651,6 +16657,11 @@
       "Time": "2023-08-02T07:05:13.3203357+00:00",
       "NumProgressed": 217818,
       "NumCompleted": 2142
+    },
+    {
+      "Time": "2023-08-02T08:05:21.6510597+00:00",
+      "NumProgressed": 217828,
+      "NumCompleted": 2142
     }
   ],
   "TotalAchievements": 512,
@@ -16670,7 +16681,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4356
+      "UsersEstimate": 4357
     },
     {
       "ID": "objective_completed_100",
@@ -16796,9 +16807,9 @@
       "ID": "objective_completed_1060",
       "SetID": "415jc5c",
       "Name": "Thieves of the Coven",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 921
     },
     {
       "ID": "objective_completed_1061",
@@ -17310,7 +17321,7 @@
       "Name": "The Evacuation of Waterdeep",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "objective_completed_1159",
@@ -17446,7 +17457,7 @@
       "Name": "The Dread Domain of Tovag",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "objective_completed_1184",
@@ -18124,9 +18135,9 @@
       "ID": "objective_completed_237",
       "SetID": "cc37lbc",
       "Name": "Domesticated Owlbears",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 653
     },
     {
       "ID": "objective_completed_238",
@@ -19732,9 +19743,9 @@
       "ID": "objective_completed_69",
       "SetID": "cc37lbc",
       "Name": "Escort to Waterdeep",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 653
+      "UsersEstimate": 871
     },
     {
       "ID": "objective_completed_690",
@@ -20630,7 +20641,7 @@
       "Name": "Not That Type of Helm!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "objective_completed_1327",
@@ -20654,7 +20665,7 @@
       "Name": "Calcryx Tricks",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "objective_completed_593",
@@ -20662,7 +20673,7 @@
       "Name": "Goblin Halls: the Next Generation",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "objective_completed_663",
@@ -20670,7 +20681,7 @@
       "Name": "Bazaar Companions",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "objective_completed_668",
@@ -20678,7 +20689,7 @@
       "Name": "Bahamut\u0027s Army",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "objective_completed_1375",
@@ -20742,7 +20753,7 @@
       "Name": "Krux\u0027s Speed Run",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "objective_completed_1392",
@@ -20757,21 +20768,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184092,
-      "Completed": 3049
+      "Progressed": 184102,
+      "Completed": 3050
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 217818,
+      "Progressed": 217828,
       "Completed": 2142
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-02T03:58:35.4853317+00:00",
-  "LastChanged_Achievements": "2023-08-02T07:05:13.3203349+00:00",
+  "LastChanged": "2023-08-02T07:59:10.701996+00:00",
+  "LastChanged_Achievements": "2023-08-02T08:05:21.6510593+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-02T06:59:29.0202675+00:00",
-  "LastUpdate_Achievements": "2023-08-02T07:05:13.3234766+00:00"
+  "LastUpdate_Ratings": "2023-08-02T07:59:10.7019965+00:00",
+  "LastUpdate_Achievements": "2023-08-02T08:05:21.6534509+00:00"
 }

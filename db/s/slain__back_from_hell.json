@@ -2,7 +2,7 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 788,
+  "Ranking_Rating": 787,
   "Ranking_Popularity": 310,
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 98,
@@ -205,9 +205,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 32291,
+  "EOS_Progressed": 32294,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 906,
+  "EOS_NewPlayers": 905,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11465,6 +11465,11 @@
       "Time": "2023-08-02T07:05:34.6770121+00:00",
       "NumProgressed": 32291,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-02T08:05:41.0737475+00:00",
+      "NumProgressed": 32294,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -11484,7 +11489,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6458
+      "UsersEstimate": 6459
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -11636,7 +11641,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -11707,7 +11712,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 32291,
+      "Progressed": 32294,
       "Completed": 20
     }
   ],
@@ -11715,8 +11720,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-01T20:00:57.6814566+00:00",
-  "LastChanged_Achievements": "2023-08-02T07:05:34.6770116+00:00",
+  "LastChanged_Achievements": "2023-08-02T08:05:41.073747+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:53.1512382+00:00",
-  "LastUpdate_Ratings": "2023-08-02T07:01:55.1942905+00:00",
-  "LastUpdate_Achievements": "2023-08-02T07:05:34.677151+00:00"
+  "LastUpdate_Ratings": "2023-08-02T08:01:32.9223622+00:00",
+  "LastUpdate_Achievements": "2023-08-02T08:05:41.0738149+00:00"
 }

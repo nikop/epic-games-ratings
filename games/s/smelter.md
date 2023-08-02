@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What took you so long? | 89.00% | ~34 |
-| Welcome to the Rumbly Lands! | 89.00% | ~34 |
-| Time to Bash Some Heads! | 82.00% | ~31 |
-| Shiny! | 71.00% | ~27 |
-| Deep in the Mounds | 68.00% | ~26 |
-| Smeltastic! | 37.00% | ~14 |
-| Locked Away | 34.00% | ~13 |
-| A Little Renovating | 29.00% | ~11 |
+| What took you so long? | 87.00% | ~34 |
+| Welcome to the Rumbly Lands! | 87.00% | ~34 |
+| Time to Bash Some Heads! | 79.00% | ~31 |
+| Shiny! | 69.00% | ~27 |
+| Deep in the Mounds | 67.00% | ~26 |
+| Smeltastic! | 36.00% | ~14 |
+| Locked Away | 33.00% | ~13 |
+| A Little Renovating | 28.00% | ~11 |
 | Deflect This! | 26.00% | ~10 |
 | It's a Sign! | 26.00% | ~10 |
 | Just Some Improvements | 21.00% | ~8 |
 | A Little Extra Love | 18.00% | ~7 |
 | Final Announcement | 18.00% | ~7 |
 | A New Strategy | 18.00% | ~7 |
-| My Precious Gems! | 16.00% | ~6 |
-| Isn't It Beautiful? | 16.00% | ~6 |
-| A Generous Leader | 16.00% | ~6 |
-| An Unexpected Visitor | 16.00% | ~6 |
+| My Precious Gems! | 15.00% | ~6 |
+| Isn't It Beautiful? | 15.00% | ~6 |
+| A Generous Leader | 15.00% | ~6 |
+| An Unexpected Visitor | 15.00% | ~6 |
 | Orcharion Boost | 13.00% | ~5 |
 | Case Closed | 13.00% | ~5 |
+| How Do You Like Them Apples? | 13.00% | ~5 |
 | A Terrible Way to Go | 13.00% | ~5 |
-| Dr. Dreinstein III | 11.00% | ~4 |
-| Fishing for Fissures | 11.00% | ~4 |
-| You did it? You did it! | 11.00% | ~4 |
-| All Beefed Up | 11.00% | ~4 |
-| The Smelter | 11.00% | ~4 |
-| What's Yours Is Mine | 11.00% | ~4 |
-| We're Breaking Up | 11.00% | ~4 |
-| Remains of the Rumbly Lands | 11.00% | ~4 |
-| How Do You Like Them Apples? | 11.00% | ~4 |
-| A Wingman Falls | 11.00% | ~4 |
-| With a Little Help from My Friends | 11.00% | ~4 |
+| Dr. Dreinstein III | 10.00% | ~4 |
+| Fishing for Fissures | 10.00% | ~4 |
+| You did it? You did it! | 10.00% | ~4 |
+| All Beefed Up | 10.00% | ~4 |
+| The Smelter | 10.00% | ~4 |
+| What's Yours Is Mine | 10.00% | ~4 |
+| We're Breaking Up | 10.00% | ~4 |
+| Remains of the Rumbly Lands | 10.00% | ~4 |
+| A Wingman Falls | 10.00% | ~4 |
+| With a Little Help from My Friends | 10.00% | ~4 |
 | Gotta Collect Them All | 8.00% | ~3 |
 | Keeping Things Tidy | 8.00% | ~3 |
 | Scheming Away | 8.00% | ~3 |
@@ -56,8 +56,8 @@
 | In Her Prime | 8.00% | ~3 |
 | The More the Merrier | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 371)  
-Completed: 3 (7.89%) (Ranked 32)  
+Progressed: 39 (Ranked 370)  
+Completed: 3 (7.69%) (Ranked 32)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,6 +71,7 @@ Completed: 3 (7.89%) (Ranked 32)
 | 2023-06-09 | 36 | 3 |
 | 2023-06-26 | 37 | 3 |
 | 2023-07-30 | 38 | 3 |
+| 2023-08-02 | 39 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

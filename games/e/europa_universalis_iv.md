@@ -6,13 +6,13 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,936 |
-| That's a Grand Army | 8.00% | ~6,166 |
-| That is mine! | 8.00% | ~6,166 |
-| Victorious! | 8.00% | ~6,166 |
-| Brothers in Arms | 6.00% | ~4,624 |
-| That's a Grand Navy | 6.00% | ~4,624 |
-| Seriously?! | 6.00% | ~4,624 |
+| Until death do us apart | 9.00% | ~6,937 |
+| That's a Grand Army | 8.00% | ~6,167 |
+| That is mine! | 8.00% | ~6,167 |
+| Victorious! | 8.00% | ~6,167 |
+| Brothers in Arms | 6.00% | ~4,625 |
+| That's a Grand Navy | 6.00% | ~4,625 |
+| Seriously?! | 6.00% | ~4,625 |
 | For the Glory | 5.00% | ~3,854 |
 | Cold War | 4.00% | ~3,083 |
 | True Catholic | 4.00% | ~3,083 |
@@ -22,14 +22,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Respected | 3.00% | ~2,312 |
 | The Princess is in this Castle | 3.00% | ~2,312 |
 | Truly Divine Ruler | 3.00% | ~2,312 |
-| Agressive Expander | 2.00% | ~1,541 |
-| Blockader | 2.00% | ~1,541 |
-| Combined Arms | 2.00% | ~1,541 |
-| Double the Love | 2.00% | ~1,541 |
-| My armies are invincible! | 2.00% | ~1,541 |
-| Queen of Conquest | 2.00% | ~1,541 |
-| Royal Authority | 2.00% | ~1,541 |
-| Total Control | 2.00% | ~1,541 |
+| Agressive Expander | 2.00% | ~1,542 |
+| Blockader | 2.00% | ~1,542 |
+| Combined Arms | 2.00% | ~1,542 |
+| Double the Love | 2.00% | ~1,542 |
+| My armies are invincible! | 2.00% | ~1,542 |
+| Queen of Conquest | 2.00% | ~1,542 |
+| Royal Authority | 2.00% | ~1,542 |
+| Total Control | 2.00% | ~1,542 |
 | All That's Thine Shall Be Mine | 1.00% | ~771 |
 | Azur semé de lis or | 1.00% | ~771 |
 | Bright Spark | 1.00% | ~771 |
@@ -44,8 +44,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.90% | ~694 |
 | Market Control | 0.90% | ~694 |
 | Trustworthy | 0.90% | ~694 |
-| Electable! | 0.70% | ~539 |
-| Populists in Government | 0.70% | ~539 |
+| Electable! | 0.70% | ~540 |
+| Populists in Government | 0.70% | ~540 |
 | All belongs to Mother Russia | 0.60% | ~462 |
 | At every continent | 0.60% | ~462 |
 | Early-Modern Warfare | 0.60% | ~462 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,070 (Ranked 76)  
+Progressed: 77,083 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -465,7 +465,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-30 | 76,185 | 0 |
 | 2023-07-31 | 76,579 | 0 |
 | 2023-08-01 | 77,006 | 0 |
-| 2023-08-02 | 77,070 | 0 |
+| 2023-08-02 | 77,083 | 0 |
 ## Awards
 Max (Educational): 5,603  (Ranked 61)  
 Sum: 46,238 (Ranked 26)  

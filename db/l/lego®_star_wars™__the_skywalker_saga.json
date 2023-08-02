@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2846,9 +2846,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 50005,
+  "EOS_Progressed": 50006,
   "EOS_Completed": 217,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -9636,6 +9636,11 @@
       "Time": "2023-08-02T06:02:25.7217116+00:00",
       "NumProgressed": 50005,
       "NumCompleted": 217
+    },
+    {
+      "Time": "2023-08-02T08:02:32.0392106+00:00",
+      "NumProgressed": 50006,
+      "NumCompleted": 217
     }
   ],
   "TotalAchievements": 45,
@@ -9671,7 +9676,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39504
+      "UsersEstimate": 39505
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -9759,7 +9764,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29503
+      "UsersEstimate": 29504
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -9767,7 +9772,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23502
+      "UsersEstimate": 23503
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -9783,7 +9788,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 24002
+      "UsersEstimate": 24003
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -9807,7 +9812,7 @@
       "Name": "The Force Awakens",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 13501
+      "UsersEstimate": 13502
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -9911,7 +9916,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48505
+      "UsersEstimate": 48506
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -10006,15 +10011,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 50005,
+      "Progressed": 50006,
       "Completed": 217
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-08-01T19:57:04.7316079+00:00",
-  "LastChanged_Achievements": "2023-08-02T07:02:34.650318+00:00",
+  "LastChanged_Achievements": "2023-08-02T08:02:32.0392101+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:55.9032562+00:00",
-  "LastUpdate_Ratings": "2023-08-02T06:57:22.4869728+00:00",
-  "LastUpdate_Achievements": "2023-08-02T07:02:34.6504253+00:00"
+  "LastUpdate_Ratings": "2023-08-02T07:57:09.0380724+00:00",
+  "LastUpdate_Achievements": "2023-08-02T08:02:32.039273+00:00"
 }

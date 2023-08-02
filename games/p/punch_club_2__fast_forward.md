@@ -54,21 +54,21 @@
 | Seashell hunter | 33.00% | ~68 |
 | Undercover robot | 31.00% | ~64 |
 | Gang wrangler | 30.00% | ~62 |
+| Not little hacker | 30.00% | ~62 |
 | Absolute Champion! | 30.00% | ~62 |
 | The last bell ring | 30.00% | ~62 |
 | Problems of cyborgs | 29.00% | ~60 |
-| Not little hacker | 29.00% | ~60 |
 | Another world | 28.00% | ~58 |
 | The lonesome road | 28.00% | ~58 |
+| Keep nature safe | 28.00% | ~58 |
+| Family comes first | 28.00% | ~58 |
 | Key memories | 28.00% | ~58 |
 | Careerist | 28.00% | ~58 |
 | The heart of the Resistance | 28.00% | ~58 |
 | Trap disarmed | 27.00% | ~56 |
-| Keep nature safe | 27.00% | ~56 |
-| Family comes first | 27.00% | ~56 |
 | Anyone can resist | 27.00% | ~56 |
-| Silver’s past | 24.00% | ~49 |
-| Better cooking at home | 24.00% | ~49 |
+| Silver’s past | 25.00% | ~52 |
+| Better cooking at home | 25.00% | ~52 |
 | The only right decision | 24.00% | ~49 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 206 (Ranked 281)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2488,
+  "EOS_Progressed": 2489,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3244,6 +3244,11 @@
       "Time": "2023-08-02T06:04:12.604946+00:00",
       "NumProgressed": 2488,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-02T08:04:13.1425443+00:00",
+      "NumProgressed": 2489,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -3319,7 +3324,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3383,7 +3388,7 @@
       "Name": "Little light",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -3431,7 +3436,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3439,7 +3444,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2289
+      "UsersEstimate": 2290
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3471,7 +3476,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3503,7 +3508,7 @@
       "Name": "Sacred Woods",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -3519,7 +3524,7 @@
       "Name": "Capelworth",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -3607,7 +3612,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -3631,7 +3636,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1842
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3647,7 +3652,7 @@
       "Name": "Full equipped",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -3661,9 +3666,9 @@
       "ID": "STB_UNLOCK_ULTIMATE",
       "SetID": "3pe2bac",
       "Name": "Ancient power",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 597
+      "UsersEstimate": 622
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -3671,14 +3676,14 @@
       "Name": "Petricite Burst",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2488,
+      "Progressed": 2489,
       "Completed": 5
     }
   ],
@@ -3686,8 +3691,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-08-02T07:03:50.1044256+00:00",
+  "LastChanged_Achievements": "2023-08-02T08:04:13.1425439+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:29.275218+00:00",
-  "LastUpdate_Ratings": "2023-08-02T06:58:41.5079757+00:00",
-  "LastUpdate_Achievements": "2023-08-02T07:03:50.1044894+00:00"
+  "LastUpdate_Ratings": "2023-08-02T07:58:32.50208+00:00",
+  "LastUpdate_Achievements": "2023-08-02T08:04:13.1425954+00:00"
 }

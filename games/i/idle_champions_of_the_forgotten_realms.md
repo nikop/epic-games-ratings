@@ -8,7 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,713 |
 | Beast Intentions | 3.00% | ~6,535 |
-| Maddening | 2.00% | ~4,356 |
+| Maddening | 2.00% | ~4,357 |
 | The Silken Swamp | 1.00% | ~2,178 |
 | Supply Run | 1.00% | ~2,178 |
 | Rocky Reception | 1.00% | ~1,841 |
@@ -32,11 +32,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.60% | ~1,307 |
 | Unearthed Evil | 0.60% | ~1,307 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,105 |
+| Thieves of the Coven | 0.50% | ~921 |
 | Don't Look Up! | 0.50% | ~1,089 |
 | Heavy Burden | 0.50% | ~1,089 |
-| The Evacuation of Waterdeep | 0.50% | ~920 |
+| The Evacuation of Waterdeep | 0.50% | ~921 |
 | Friends of the Forest | 0.50% | ~1,089 |
-| The Dread Domain of Tovag | 0.50% | ~920 |
+| The Dread Domain of Tovag | 0.50% | ~921 |
 | Beast Mode | 0.50% | ~1,089 |
 | Low Initiative | 0.50% | ~1,089 |
 | Street War | 0.50% | ~1,089 |
@@ -47,14 +48,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.50% | ~1,089 |
 | The Cursed Farmer | 0.50% | ~1,089 |
 | The Mad Wizard | 0.50% | ~1,089 |
-| Not That Type of Helm! | 0.50% | ~920 |
-| Calcryx Tricks | 0.50% | ~920 |
-| Goblin Halls: the Next Generation | 0.50% | ~920 |
-| Bazaar Companions | 0.50% | ~920 |
-| Bahamut's Army | 0.50% | ~920 |
-| Krux's Speed Run | 0.50% | ~920 |
+| Not That Type of Helm! | 0.50% | ~921 |
+| Calcryx Tricks | 0.50% | ~921 |
+| Goblin Halls: the Next Generation | 0.50% | ~921 |
+| Bazaar Companions | 0.50% | ~921 |
+| Bahamut's Army | 0.50% | ~921 |
+| Krux's Speed Run | 0.50% | ~921 |
 | Upholding the Law | 0.40% | ~871 |
-| Thieves of the Coven | 0.40% | ~736 |
 | Hither of the Feywild | 0.40% | ~736 |
 | Speeds of Destruction | 0.40% | ~736 |
 | On the Hunt | 0.40% | ~871 |
@@ -73,6 +73,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.40% | ~871 |
 | Exploring Port Nyanzaru | 0.40% | ~871 |
 | Running of the Saurs | 0.40% | ~871 |
+| Escort to Waterdeep | 0.40% | ~871 |
 | Waterdeep Detours | 0.40% | ~871 |
 | Underdeep Cartography | 0.40% | ~871 |
 | Friendly Imps | 0.40% | ~871 |
@@ -103,6 +104,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Chatty Nobles | 0.30% | ~653 |
 | Modron Assistance | 0.30% | ~653 |
 | Haaave You Met Asmodeus? | 0.30% | ~653 |
+| Domesticated Owlbears | 0.30% | ~653 |
 | The Immortal Warrior | 0.30% | ~653 |
 | The Wyrmheart Mine | 0.30% | ~653 |
 | Trollskull Manor | 0.30% | ~653 |
@@ -120,7 +122,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.30% | ~653 |
 | The Contagious Curse | 0.30% | ~653 |
 | Dinosaur Racing | 0.30% | ~653 |
-| Escort to Waterdeep | 0.30% | ~653 |
 | The Giant's Bane Tavern | 0.30% | ~552 |
 | The Everlasting Rime | 0.30% | ~552 |
 | Close Escort | 0.30% | ~653 |
@@ -173,7 +174,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | We're not in Faerûn Anymore | 0.20% | ~436 |
 | Haunted Fortunes | 0.20% | ~436 |
 | Thine Bounty is Mine! | 0.20% | ~368 |
-| Domesticated Owlbears | 0.20% | ~436 |
 | This Quest Stinks! | 0.20% | ~368 |
 | Hold for the Red Wizards | 0.20% | ~436 |
 | Seeds of Deceit | 0.20% | ~436 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,818 (Ranked 53)  
+Progressed: 217,828 (Ranked 53)  
 Completed: 2,142 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -623,15 +623,15 @@ Completed: 2,142 (0.98%) (Ranked 112)
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
-| 2023-08-02 | 217,818 | 2,142 |
+| 2023-08-02 | 217,828 | 2,142 |
 ## Awards
 Max (Diverse Characters): 5,108  (Ranked 67)  
-Sum: 30,851 (Ranked 38)  
+Sum: 30,854 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,108 |
-| This game is Great for Beginners | 5,045 |
+| This game is Great for Beginners | 5,048 |
 | This game has Quickly Understood Controls | 4,699 |
 | This game is Relaxing | 4,588 |
 | This game has Amazing Characters | 4,047 |
@@ -828,4 +828,4 @@ Diff (max vs sum): 29
 | 2023-07-30 | 4.05 | - | 5,100 | 30,813 |
 | 2023-07-31 | 4.05 | - | 5,106 | 30,831 |
 | 2023-08-01 | 4.05 | - | 5,108 | 30,850 |
-| 2023-08-02 | 4.05 | - | 5,108 | 30,851 |
+| 2023-08-02 | 4.05 | - | 5,108 | 30,854 |

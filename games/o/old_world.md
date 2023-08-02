@@ -35,23 +35,23 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 0.80% | ~106 |
 | Warrior | 0.80% | ~106 |
 | Developing Cities | 0.80% | ~106 |
+| Able Difficulty | 0.80% | ~106 |
+| Ishtar Gate | 0.80% | ~106 |
 | Lighthouse | 0.80% | ~106 |
 | Pyramids | 0.80% | ~106 |
 | Babylonian Paganism | 0.80% | ~106 |
 | Greek Paganism | 0.80% | ~106 |
 | Zoroastrianism | 0.80% | ~106 |
+| Brilliant | 0.70% | ~93 |
 | Fountainhead | 0.70% | ~93 |
 | Wise | 0.70% | ~93 |
 | Strong Cities | 0.70% | ~93 |
-| Able Difficulty | 0.70% | ~93 |
 | Great Ziggurat | 0.70% | ~93 |
-| Ishtar Gate | 0.70% | ~93 |
 | Learn to Play 1 | 0.70% | ~93 |
 | Christianity | 0.70% | ~93 |
 | Carthaginian Paganism | 0.70% | ~93 |
 | Roman Paganism | 0.70% | ~93 |
 | Regicide | 0.60% | ~79 |
-| Brilliant | 0.60% | ~79 |
 | Great | 0.60% | ~79 |
 | Just Difficulty | 0.60% | ~79 |
 | Artisans | 0.60% | ~79 |
@@ -82,6 +82,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.40% | ~53 |
 | Traders | 0.40% | ~53 |
 | Temple of Solomon | 0.40% | ~53 |
+| Adur Burzen-Mihr | 0.40% | ~53 |
 | Persian Paganism | 0.40% | ~53 |
 | Building Wonders | 0.40% | ~53 |
 | Legalism | 0.40% | ~53 |
@@ -102,7 +103,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.30% | ~40 |
 | Hagia Sophia | 0.30% | ~40 |
 | Church of the Holy Sepulchre | 0.30% | ~40 |
-| Adur Burzen-Mihr | 0.30% | ~40 |
 | Pantheon | 0.30% | ~40 |
 | Via Recta Souk | 0.30% | ~40 |
 | Learn to Play 3 | 0.30% | ~40 |
@@ -128,9 +128,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.20% | ~26 |
 | Noble Difficulty | 0.20% | ~26 |
 | Clerics | 0.20% | ~26 |
+| Cao'an | 0.20% | ~26 |
 | Learn to Play 4 | 0.20% | ~26 |
 | Egypt | 0.20% | ~26 |
 | Rome | 0.20% | ~26 |
+| Old World Order | 0.20% | ~26 |
 | One True Faith | 0.20% | ~26 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~26 |
 | Play a Network Game | 0.20% | ~26 |
@@ -220,7 +222,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pharaoh | 0.10% | ~13 |
 | A Tyresome Siege | 0.10% | ~13 |
 | Hardcore | 0.10% | ~13 |
-| Cao'an | 0.10% | ~13 |
 | Learn By Playing 1 - Able | 0.10% | ~13 |
 | Learn By Playing 2 - Just | 0.10% | ~13 |
 | Learn By Playing 3 - Good | 0.10% | ~13 |
@@ -233,7 +234,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyria | 0.10% | ~13 |
 | Hatti | 0.10% | ~13 |
 | Persia | 0.10% | ~13 |
-| Old World Order | 0.10% | ~13 |
 | Pantheon of Gods | 0.10% | ~13 |
 | Apadana in Parsa | 0.10% | ~13 |
 | Play a 1-v-1 Game | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,232 (Ranked 117)  
+Progressed: 13,233 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,7 +407,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-07-30 | 13,191 | 5 |
 | 2023-07-31 | 13,209 | 5 |
 | 2023-08-01 | 13,228 | 5 |
-| 2023-08-02 | 13,232 | 5 |
+| 2023-08-02 | 13,233 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 262)  
 Sum: 1,786 (Ranked 206)  

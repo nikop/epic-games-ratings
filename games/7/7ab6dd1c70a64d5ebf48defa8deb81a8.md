@@ -3,39 +3,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Powerful Allies | 23.00% | ~5 |
-| Calm before the Storm | 23.00% | ~5 |
-| Geared Up | 23.00% | ~5 |
-| Scholar | 23.00% | ~5 |
-| To Battle | 18.00% | ~4 |
-| Godslayer | 18.00% | ~4 |
-| Adventurer | 18.00% | ~4 |
-| Tributes of Caladrias | 18.00% | ~4 |
-| Fashion Victim | 18.00% | ~4 |
-| Stone Collection | 18.00% | ~4 |
-| The Collector | 18.00% | ~4 |
-| Essence Blow | 14.00% | ~3 |
-| Flawless Victory | 14.00% | ~3 |
-| Alchemist | 14.00% | ~3 |
-| Miner | 14.00% | ~3 |
-| The Mentor | 9.00% | ~2 |
-| I Found It | 9.00% | ~2 |
-| Break Out | 5.00% | ~1 |
-| Find Allies | 5.00% | ~1 |
-| Clear Sight | 5.00% | ~1 |
-| Airborne | 5.00% | ~1 |
-| Big Bazar | 5.00% | ~1 |
+| Break Out | 0.00% | ~0 |
+| Find Allies | 0.00% | ~0 |
+| Powerful Allies | 0.00% | ~0 |
+| Calm before the Storm | 0.00% | ~0 |
+| To Battle | 0.00% | ~0 |
+| Godslayer | 0.00% | ~0 |
+| Clear Sight | 0.00% | ~0 |
 | A Taste of Wrath | 0.00% | ~0 |
+| The Mentor | 0.00% | ~0 |
 | Trinity | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
+| Adventurer | 0.00% | ~0 |
+| Airborne | 0.00% | ~0 |
+| Tributes of Caladrias | 0.00% | ~0 |
+| Essence Blow | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | Shatter Them All | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
+| Flawless Victory | 0.00% | ~0 |
+| Big Bazar | 0.00% | ~0 |
 | Fine Feathers Make Fine Birds | 0.00% | ~0 |
+| Geared Up | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
+| Fashion Victim | 0.00% | ~0 |
+| Scholar | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
+| I Found It | 0.00% | ~0 |
 | All That Gold | 0.00% | ~0 |
+| Alchemist | 0.00% | ~0 |
+| Stone Collection | 0.00% | ~0 |
+| Miner | 0.00% | ~0 |
+| The Collector | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | A Queen's Tale | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |

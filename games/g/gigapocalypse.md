@@ -52,9 +52,9 @@
 | Unlucky Luke | 5.00% | ~8 |
 | Cheesy Chess | 5.00% | ~8 |
 | A Phony Clown | 4.00% | ~7 |
+| Duck Knight | 4.00% | ~7 |
 | Octopy Mayhem | 4.00% | ~7 |
 | Got'em Totem | 4.00% | ~7 |
-| Duck Knight | 3.00% | ~5 |
 | Destroy Everything | 0.60% | ~1 |
 | Hearty Meteor | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)

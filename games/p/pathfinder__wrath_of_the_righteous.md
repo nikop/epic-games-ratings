@@ -10,8 +10,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Burning City | 15.00% | ~1,613 |
 | A Spark | 15.00% | ~1,613 |
 | Defender's Heart | 13.00% | ~1,398 |
+| Banner over the Citadel | 12.00% | ~1,290 |
 | Mythic Choices | 12.00% | ~1,290 |
-| Banner over the Citadel | 11.00% | ~1,183 |
 | Queen's Gratitude | 10.00% | ~1,075 |
 | Fifth Crusade | 7.00% | ~753 |
 | Embrace of the Abyss | 5.00% | ~538 |
