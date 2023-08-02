@@ -15,21 +15,21 @@
 | City of Illusion | 11.00% | ~2 |
 | Kill the Flames | 11.00% | ~2 |
 | Find the Light | 11.00% | ~2 |
+| Fight and Overcome | 11.00% | ~2 |
+| A Walk to the End | 11.00% | ~2 |
+| The Final Test | 11.00% | ~2 |
+| A Journey's End | 11.00% | ~2 |
 | City of Puzzles | 11.00% | ~2 |
 | This field of danger | 11.00% | ~2 |
 | Labyrinths of the Mind | 11.00% | ~2 |
-| Fight and Overcome | 5.00% | ~1 |
-| A Walk to the End | 5.00% | ~1 |
-| The Final Test | 5.00% | ~1 |
-| A Journey's End | 5.00% | ~1 |
 | A Stone Left Unturned | 5.00% | ~1 |
+| Celibacy/Delicacy | 5.00% | ~1 |
 | A Terrifying Blizzard | 5.00% | ~1 |
 | No End is Eternal | 0.00% | ~0 |
 | Tranquility/Resilience | 0.00% | ~0 |
 | Recovery/Imagination | 0.00% | ~0 |
 | Infatuation/Strength | 0.00% | ~0 |
 | Love/Indulgence | 0.00% | ~0 |
-| Celibacy/Delicacy | 0.00% | ~0 |
 | Innocence/Transformation | 0.00% | ~0 |
 | Constellation of Beauty | 0.00% | ~0 |
 | Quickstart to a Journey | 0.00% | ~0 |

@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2071,
+  "EOS_Progressed": 2072,
   "EOS_Completed": 185,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 8.93,
   "EosHistory": [
@@ -4508,6 +4508,11 @@
       "Time": "2023-08-02T08:03:37.3212086+00:00",
       "NumProgressed": 2071,
       "NumCompleted": 185
+    },
+    {
+      "Time": "2023-08-02T16:02:17.5514332+00:00",
+      "NumProgressed": 2072,
+      "NumCompleted": 185
     }
   ],
   "TotalAchievements": 12,
@@ -4543,7 +4548,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "Jacques a Dit",
@@ -4551,7 +4556,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "Jakob",
@@ -4583,7 +4588,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -4599,7 +4604,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "Nuremberg Laws",
@@ -4614,7 +4619,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2071,
+      "Progressed": 2072,
       "Completed": 185
     }
   ],
@@ -4622,8 +4627,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-02T15:04:04.7237933+00:00",
+  "LastChanged_Achievements": "2023-08-02T16:02:17.5514327+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:15.148373+00:00",
-  "LastUpdate_Ratings": "2023-08-02T15:01:53.3249792+00:00",
-  "LastUpdate_Achievements": "2023-08-02T15:04:04.7238389+00:00"
+  "LastUpdate_Ratings": "2023-08-02T16:00:14.263152+00:00",
+  "LastUpdate_Achievements": "2023-08-02T16:02:17.5514606+00:00"
 }

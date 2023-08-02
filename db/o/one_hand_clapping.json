@@ -4,7 +4,7 @@
   "ProductSlug": "one-hand-clapping",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
@@ -343,17 +343,17 @@
       "ID": "15",
       "SetID": "7l2nmpm",
       "Name": "Consonance",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "16",
       "SetID": "7l2nmpm",
       "Name": "Dissonance",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "17",
@@ -528,8 +528,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2023-08-02T15:03:52.8963331+00:00",
+  "LastChanged_Achievements": "2023-08-02T16:01:39.40394+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:24.8644656+00:00",
-  "LastUpdate_Ratings": "2023-08-02T15:02:05.7655849+00:00",
-  "LastUpdate_Achievements": "2023-08-02T15:03:52.8963561+00:00"
+  "LastUpdate_Ratings": "2023-08-02T16:00:21.1193224+00:00",
+  "LastUpdate_Achievements": "2023-08-02T16:01:39.403966+00:00"
 }

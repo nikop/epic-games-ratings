@@ -19,23 +19,23 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 0.30% | ~401 |
 | Budding Merchant | 0.30% | ~401 |
 | Own the Means of Production | 0.30% | ~401 |
-| The Daily Grind | 0.20% | ~267 |
-| Ascended | 0.20% | ~267 |
-| Bounty Hunters | 0.20% | ~267 |
-| Fated Encounters | 0.20% | ~267 |
-| Blank Page Syndrome | 0.20% | ~267 |
-| Demand for Supplies | 0.20% | ~267 |
-| Flooding the Market | 0.20% | ~267 |
-| Where it Hurts | 0.20% | ~267 |
-| Efficient Floor Space | 0.20% | ~267 |
-| Gem Expert | 0.20% | ~267 |
-| Gild-Gotten Goods | 0.20% | ~267 |
-| One-Armed Bandit | 0.20% | ~267 |
-| Accomplished Merchant | 0.20% | ~267 |
-| Dungeon Imports | 0.20% | ~267 |
-| Through Repetition, Perfection | 0.20% | ~267 |
-| Did we pack lunch? | 0.20% | ~267 |
-| Arcane Industries | 0.20% | ~267 |
+| The Daily Grind | 0.20% | ~268 |
+| Ascended | 0.20% | ~268 |
+| Bounty Hunters | 0.20% | ~268 |
+| Fated Encounters | 0.20% | ~268 |
+| Blank Page Syndrome | 0.20% | ~268 |
+| Demand for Supplies | 0.20% | ~268 |
+| Flooding the Market | 0.20% | ~268 |
+| Where it Hurts | 0.20% | ~268 |
+| Efficient Floor Space | 0.20% | ~268 |
+| Gem Expert | 0.20% | ~268 |
+| Gild-Gotten Goods | 0.20% | ~268 |
+| One-Armed Bandit | 0.20% | ~268 |
+| Accomplished Merchant | 0.20% | ~268 |
+| Dungeon Imports | 0.20% | ~268 |
+| Through Repetition, Perfection | 0.20% | ~268 |
+| Did we pack lunch? | 0.20% | ~268 |
+| Arcane Industries | 0.20% | ~268 |
 | On the Path to Greatness | 0.10% | ~134 |
 | A Notch Above the Rest | 0.10% | ~134 |
 | Cream of the Crop | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,749 (Ranked 62)  
+Progressed: 133,750 (Ranked 62)  
 Completed: 126 (0.09%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,16 +223,16 @@ Completed: 126 (0.09%) (Ranked 199)
 | 2023-07-30 | 133,588 | 124 |
 | 2023-07-31 | 133,652 | 124 |
 | 2023-08-01 | 133,708 | 125 |
-| 2023-08-02 | 133,749 | 126 |
+| 2023-08-02 | 133,750 | 126 |
 ## Awards
 Max (Great for Beginners): 4,682  (Ranked 70)  
-Sum: 27,025 (Ranked 46)  
+Sum: 27,028 (Ranked 46)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,682 |
-| This game is Relaxing | 3,990 |
-| This game has Quickly Understood Controls | 3,980 |
+| This game is Relaxing | 3,991 |
+| This game has Quickly Understood Controls | 3,982 |
 | This game has Diverse Characters | 3,840 |
 | This game is Highly Recommended | 3,724 |
 | This game has Easy Combat | 3,665 |
@@ -431,4 +431,4 @@ Diff (max vs sum): 24
 | 2023-07-30 | 3.99 | - | 4,678 | 27,014 |
 | 2023-07-31 | 3.99 | - | 4,679 | 27,015 |
 | 2023-08-01 | 3.99 | - | 4,682 | 27,021 |
-| 2023-08-02 | 3.99 | - | 4,682 | 27,025 |
+| 2023-08-02 | 3.99 | - | 4,682 | 27,028 |

@@ -24,7 +24,7 @@ Rating: 4.50 (Ranked 559)
 | Frugal | 21.00% | ~88 |
 | Feed a God | 21.00% | ~88 |
 | To the Moon and Back | 20.00% | ~84 |
-| Great Flight | 17.00% | ~71 |
+| Great Flight | 18.00% | ~76 |
 | Holy Vengeance | 15.00% | ~63 |
 | Honorary Cultist | 12.00% | ~50 |
 | Strength and Sorcery | 10.00% | ~42 |

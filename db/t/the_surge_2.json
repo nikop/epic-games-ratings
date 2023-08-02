@@ -243,9 +243,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1942,
+  "EOS_Progressed": 1943,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -2028,6 +2028,11 @@
       "Time": "2023-08-02T12:04:32.4514301+00:00",
       "NumProgressed": 1942,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-02T16:03:36.3115655+00:00",
+      "NumProgressed": 1943,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -2047,7 +2052,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "ACHV_03",
@@ -2095,7 +2100,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACHV_09",
@@ -2103,7 +2108,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACHV_10",
@@ -2207,7 +2212,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACHV_23",
@@ -2279,7 +2284,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACHV_32",
@@ -2303,7 +2308,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACHV_35",
@@ -2335,7 +2340,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACHV_39",
@@ -2343,7 +2348,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "ACHV_40",
@@ -2375,7 +2380,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACHV_44",
@@ -2494,7 +2499,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1942,
+      "Progressed": 1943,
       "Completed": 10
     }
   ],
@@ -2502,8 +2507,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-08-02T15:04:57.5818317+00:00",
+  "LastChanged_Achievements": "2023-08-02T16:03:36.311565+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:20.3642762+00:00",
-  "LastUpdate_Ratings": "2023-08-02T14:57:37.0176447+00:00",
-  "LastUpdate_Achievements": "2023-08-02T15:04:57.5818989+00:00"
+  "LastUpdate_Ratings": "2023-08-02T15:57:04.0168344+00:00",
+  "LastUpdate_Achievements": "2023-08-02T16:03:36.3116142+00:00"
 }

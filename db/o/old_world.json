@@ -1575,9 +1575,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13236,
+  "EOS_Progressed": 13237,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9010,6 +9010,11 @@
       "Time": "2023-08-02T15:08:18.5943034+00:00",
       "NumProgressed": 13236,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-02T16:06:24.437546+00:00",
+      "NumProgressed": 13237,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10835,9 +10840,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthaginian Paganism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
@@ -11388,21 +11393,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13236,
+      "Progressed": 13237,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13236,
+      "Progressed": 13237,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-01T16:59:10.6733314+00:00",
-  "LastChanged_Achievements": "2023-08-02T15:08:18.5943027+00:00",
+  "LastChanged_Achievements": "2023-08-02T16:06:24.4375455+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.4550053+00:00",
-  "LastUpdate_Ratings": "2023-08-02T14:59:36.2897266+00:00",
-  "LastUpdate_Achievements": "2023-08-02T15:08:18.5953097+00:00"
+  "LastUpdate_Ratings": "2023-08-02T15:58:32.7597177+00:00",
+  "LastUpdate_Achievements": "2023-08-02T16:06:24.438267+00:00"
 }

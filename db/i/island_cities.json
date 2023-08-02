@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 440,
+  "EOS_Progressed": 441,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 18.41,
+  "EOS_Completed_Percentage": 18.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2128,6 +2128,11 @@
       "Time": "2023-08-02T13:09:52.9826772+00:00",
       "NumProgressed": 440,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-08-02T16:03:39.1573438+00:00",
+      "NumProgressed": 441,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 22,
@@ -2139,7 +2144,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "LEVEL_002",
@@ -2147,7 +2152,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "LEVEL_003",
@@ -2155,7 +2160,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "LEVEL_004",
@@ -2219,7 +2224,7 @@
       "Name": "At the heart of the city",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "LEVEL_012",
@@ -2249,9 +2254,9 @@
       "ID": "LEVEL_015",
       "SetID": "3khpmem",
       "Name": "Monumental tribute",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 97
     },
     {
       "ID": "LEVEL_016",
@@ -2259,7 +2264,7 @@
       "Name": "The beach is right there",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "LEVEL_017",
@@ -2267,7 +2272,7 @@
       "Name": "Commuting",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "LEVEL_018",
@@ -2314,7 +2319,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 440,
+      "Progressed": 441,
       "Completed": 81
     }
   ],
@@ -2322,8 +2327,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-08-02T15:05:01.3518162+00:00",
+  "LastChanged_Achievements": "2023-08-02T16:03:39.1573433+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:55.2732426+00:00",
-  "LastUpdate_Ratings": "2023-08-02T14:59:44.9584345+00:00",
-  "LastUpdate_Achievements": "2023-08-02T15:05:01.351852+00:00"
+  "LastUpdate_Ratings": "2023-08-02T15:58:38.5559059+00:00",
+  "LastUpdate_Achievements": "2023-08-02T16:03:39.1573672+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2582,7 +2582,7 @@
       "Count": 312
     }
   ],
-  "EOS_Progressed": 16130,
+  "EOS_Progressed": 16131,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 2,
@@ -8347,6 +8347,11 @@
       "Time": "2023-08-02T10:04:23.5231162+00:00",
       "NumProgressed": 16130,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-02T16:04:19.7747892+00:00",
+      "NumProgressed": 16131,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 50,
@@ -8734,7 +8739,7 @@
       "Name": "No Deaths",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "WinWithoutOrders",
@@ -8757,15 +8762,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16130,
+      "Progressed": 16131,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-08-02T14:00:43.4856595+00:00",
-  "LastChanged_Achievements": "2023-08-02T15:05:43.3584601+00:00",
+  "LastChanged_Achievements": "2023-08-02T16:04:19.7747887+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:58.4052315+00:00",
-  "LastUpdate_Ratings": "2023-08-02T15:02:42.7066021+00:00",
-  "LastUpdate_Achievements": "2023-08-02T15:05:43.3585463+00:00"
+  "LastUpdate_Ratings": "2023-08-02T16:00:48.3819356+00:00",
+  "LastUpdate_Achievements": "2023-08-02T16:04:19.7748476+00:00"
 }

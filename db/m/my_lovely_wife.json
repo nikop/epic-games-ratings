@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -390,9 +390,9 @@
       "ID": "ACH_ASSIGN_RUIN_1",
       "SetID": "ajki3eh",
       "Name": "Devout",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 541
     },
     {
       "ID": "ACH_ASSIGN_RUIN_2",
@@ -542,9 +542,9 @@
       "ID": "ACH_UNLOCK_CHAPTER_1",
       "SetID": "ajki3eh",
       "Name": "The Love Martyr",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 523
+      "UsersEstimate": 529
     },
     {
       "ID": "ACH_UNLOCK_CHAPTER_2",
@@ -630,8 +630,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-08-02T15:06:48.9138333+00:00",
+  "LastChanged_Achievements": "2023-08-02T16:05:18.2329427+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:03.2644945+00:00",
-  "LastUpdate_Ratings": "2023-08-02T14:59:54.369868+00:00",
-  "LastUpdate_Achievements": "2023-08-02T15:06:48.9138625+00:00"
+  "LastUpdate_Ratings": "2023-08-02T15:58:44.8756675+00:00",
+  "LastUpdate_Achievements": "2023-08-02T16:05:18.2329634+00:00"
 }

@@ -10,8 +10,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Spark | 16.00% | ~1,722 |
 | Burning City | 15.00% | ~1,614 |
 | Defender's Heart | 13.00% | ~1,399 |
+| Banner over the Citadel | 12.00% | ~1,291 |
 | Mythic Choices | 12.00% | ~1,291 |
-| Banner over the Citadel | 11.00% | ~1,184 |
 | Queen's Gratitude | 10.00% | ~1,076 |
 | Fifth Crusade | 7.00% | ~753 |
 | Embrace of the Abyss | 5.00% | ~538 |
@@ -27,13 +27,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Next-Door Play | 4.00% | ~430 |
 | Get the Toad | 4.00% | ~430 |
 | Heart of the Fallen Land | 3.00% | ~323 |
+| Path of the Trickster | 3.00% | ~323 |
 | Divide and Rule | 3.00% | ~323 |
 | Mythic Reinforcements | 3.00% | ~323 |
 | Hey, I Know You! | 3.00% | ~323 |
 | The Lady of the Forest | 3.00% | ~286 |
 | Beware Still Water | 3.00% | ~286 |
 | Path of the Aeon | 2.00% | ~215 |
-| Path of the Trickster | 2.00% | ~215 |
 | Path of the Lich | 2.00% | ~215 |
 | Heroic Victory | 2.00% | ~215 |
 | Capitulation Is Now Moot | 2.00% | ~215 |

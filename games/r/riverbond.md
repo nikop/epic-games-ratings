@@ -6,15 +6,15 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~366,757 |
-| Now You're Talking | 62.00% | ~324,842 |
-| Steel Yourself | 62.00% | ~324,842 |
+| First Step | 70.00% | ~366,758 |
+| Now You're Talking | 62.00% | ~324,843 |
+| Steel Yourself | 62.00% | ~324,843 |
 | Window Dressing | 50.00% | ~261,970 |
 | Trigger Happy | 46.00% | ~241,012 |
 | Riverborn | 45.00% | ~235,773 |
-| Starry Eyed | 34.00% | ~178,139 |
-| Poking Around | 34.00% | ~178,139 |
-| Talk of the Town | 24.00% | ~125,745 |
+| Starry Eyed | 34.00% | ~178,140 |
+| Poking Around | 34.00% | ~178,140 |
+| Talk of the Town | 24.00% | ~125,746 |
 | AAARR! | 23.00% | ~120,506 |
 | Hello Darkness | 23.00% | ~120,506 |
 | Wind At Our Backs | 22.00% | ~115,267 |
@@ -22,7 +22,7 @@ Number of Ratings: 617  (23.09.2022)
 | Sunny Shores | 17.00% | ~89,070 |
 | Sunday Best | 16.00% | ~83,830 |
 | To Victory! | 15.00% | ~78,591 |
-| Two of a Kind | 14.00% | ~73,351 |
+| Two of a Kind | 14.00% | ~73,352 |
 | Keep On Trucking | 13.00% | ~68,112 |
 | Going on an Adventure | 11.00% | ~57,633 |
 | Make Peace, Not War | 11.00% | ~57,633 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,572 |
 | Point Taken | 0.10% | ~524 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523,939 (Ranked 30)  
+Progressed: 523,940 (Ranked 30)  
 Completed: 453 (0.09%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 453 (0.09%) (Ranked 199)
 | 2023-07-30 | 523,720 | 453 |
 | 2023-07-31 | 523,791 | 453 |
 | 2023-08-01 | 523,889 | 453 |
-| 2023-08-02 | 523,939 | 453 |
+| 2023-08-02 | 523,940 | 453 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

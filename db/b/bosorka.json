@@ -4,7 +4,7 @@
   "ProductSlug": "bosorka-c0e6b6",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -328,9 +328,9 @@
       "ID": "RUNE_CURSEDCOMPANIONSPELL",
       "SetID": "9433p49",
       "Name": "Gold Digger",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "RUNE_DROPEXTRAHEART",
@@ -368,9 +368,9 @@
       "ID": "RUNE_OVERSTAMINA",
       "SetID": "9433p49",
       "Name": "A small victory",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "RUNE_STORM",
@@ -401,8 +401,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-08-02T15:08:46.1981303+00:00",
+  "LastChanged_Achievements": "2023-08-02T16:06:44.3014055+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:29.0944655+00:00",
-  "LastUpdate_Ratings": "2023-08-02T14:59:07.0895862+00:00",
-  "LastUpdate_Achievements": "2023-08-02T15:08:46.1981455+00:00"
+  "LastUpdate_Ratings": "2023-08-02T15:58:11.032165+00:00",
+  "LastUpdate_Achievements": "2023-08-02T16:06:44.3014159+00:00"
 }

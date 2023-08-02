@@ -11,7 +11,7 @@
 | Open Sesame | 27.00% | ~53 |
 | What have I done!? | 17.00% | ~34 |
 | Them and Us | 16.00% | ~32 |
-| OUTRAGE | 15.00% | ~30 |
+| OUTRAGE | 16.00% | ~32 |
 | Alone In The Dark | 12.00% | ~24 |
 | This Coffin Has Your Name On It! | 12.00% | ~24 |
 | Parasite Exterminated | 11.00% | ~22 |
@@ -25,8 +25,8 @@
 | What A Mansion | 6.00% | ~12 |
 | Researcher | 5.00% | ~10 |
 | I Am The Gate Keeper! | 5.00% | ~10 |
+| The bus stop | 4.00% | ~8 |
 | This Mansion Is Clean | 4.00% | ~8 |
-| The bus stop | 3.00% | ~6 |
 | Armed To The Teeth | 2.00% | ~4 |
 | Back In Time | 2.00% | ~4 |
 | Retro Player | 2.00% | ~4 |

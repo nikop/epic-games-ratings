@@ -163,33 +163,33 @@
       "ID": "15",
       "SetID": "6m1k8ai",
       "Name": "Fight and Overcome",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "16",
       "SetID": "6m1k8ai",
       "Name": "A Walk to the End",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "17",
       "SetID": "6m1k8ai",
       "Name": "The Final Test",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "18",
       "SetID": "6m1k8ai",
       "Name": "A Journey\u0027s End",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "19",
@@ -251,9 +251,9 @@
       "ID": "25",
       "SetID": "6m1k8ai",
       "Name": "Celibacy/Delicacy",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "26",
@@ -506,8 +506,8 @@
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-08-02T15:06:29.0148559+00:00",
+  "LastChanged_Achievements": "2023-08-02T16:04:53.7469855+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.5511093+00:00",
-  "LastUpdate_Ratings": "2023-08-02T15:00:19.3592255+00:00",
-  "LastUpdate_Achievements": "2023-08-02T15:06:29.0148981+00:00"
+  "LastUpdate_Ratings": "2023-08-02T15:59:01.6536451+00:00",
+  "LastUpdate_Achievements": "2023-08-02T16:04:53.7470175+00:00"
 }

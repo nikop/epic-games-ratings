@@ -26,7 +26,7 @@ Rating: 4.35 (Ranked 746)
 | Well-acquainted | 42.00% | ~171 |
 | Zakariya Demir | 41.00% | ~167 |
 | Well-read | 38.00% | ~155 |
-| Cassandra Van den Bosch | 37.00% | ~151 |
+| Cassandra Van den Bosch | 38.00% | ~155 |
 | The Secret | 37.00% | ~151 |
 | Gedeon Demir | 35.00% | ~142 |
 | Rehana Piette | 34.00% | ~138 |
@@ -44,8 +44,8 @@ Rating: 4.35 (Ranked 746)
 | Well-prepared | 21.00% | ~85 |
 | The Truth | 20.00% | ~81 |
 | Sunken Secrets | 18.00% | ~73 |
+| What Else Did I Miss? | 18.00% | ~73 |
 | I Like an Audience | 18.00% | ~73 |
-| What Else Did I Miss? | 17.00% | ~69 |
 | The Denouement | 16.00% | ~65 |
 | Probably the Greatest Detective in the World | 13.00% | ~53 |
 | Take a Break | 12.00% | ~49 |

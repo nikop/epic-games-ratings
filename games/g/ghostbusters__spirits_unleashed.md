@@ -20,7 +20,7 @@ Rating: 4.49 (Ranked 576)
 | Back Off | 35.00% | ~8,631 |
 | Daily Dose | 34.00% | ~8,385 |
 | Solo Capture | 32.00% | ~7,892 |
-| Welcome to the Crew | 31.00% | ~7,645 |
+| Welcome to the Crew | 32.00% | ~7,892 |
 | Ghostbuster In Training | 30.00% | ~7,398 |
 | Icing on the Cake | 30.00% | ~7,398 |
 | Side Hustle | 27.00% | ~6,658 |

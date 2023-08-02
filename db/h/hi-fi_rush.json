@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3675,
+  "EOS_Progressed": 3676,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -5072,6 +5072,11 @@
       "Time": "2023-08-02T14:04:14.4594833+00:00",
       "NumProgressed": 3675,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-02T16:04:15.321452+00:00",
+      "NumProgressed": 3676,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -5083,7 +5088,7 @@
       "Name": "Start with a bang!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "Ach002",
@@ -5259,7 +5264,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "Ach024",
@@ -5650,13 +5655,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3675,
+      "Progressed": 3676,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2196,
+      "Progressed": 2197,
       "Completed": 1928
     }
   ],
@@ -5664,8 +5669,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-08-02T15:05:37.4881801+00:00",
+  "LastChanged_Achievements": "2023-08-02T16:04:15.3214513+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:25.5055416+00:00",
-  "LastUpdate_Ratings": "2023-08-02T15:00:25.4885024+00:00",
-  "LastUpdate_Achievements": "2023-08-02T15:05:37.4883048+00:00"
+  "LastUpdate_Ratings": "2023-08-02T15:59:08.0054668+00:00",
+  "LastUpdate_Achievements": "2023-08-02T16:04:15.3215363+00:00"
 }

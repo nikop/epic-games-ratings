@@ -6,22 +6,22 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~246,547 |
-| Cavalier | 25.00% | ~198,828 |
-| Fatso | 23.00% | ~182,922 |
-| Awakening | 21.00% | ~167,016 |
-| Ranger | 20.00% | ~159,063 |
-| Scrooge | 20.00% | ~159,063 |
-| Anorectic | 16.00% | ~127,250 |
-| Firestarter | 15.00% | ~119,297 |
-| Bookworm | 14.00% | ~111,344 |
-| Insomniac | 13.00% | ~103,391 |
+| Blacksmith's Son | 31.00% | ~246,549 |
+| Cavalier | 25.00% | ~198,830 |
+| Fatso | 23.00% | ~182,924 |
+| Awakening | 21.00% | ~167,017 |
+| Ranger | 20.00% | ~159,064 |
+| Scrooge | 20.00% | ~159,064 |
+| Anorectic | 16.00% | ~127,251 |
+| Firestarter | 15.00% | ~119,298 |
+| Bookworm | 14.00% | ~111,345 |
+| Insomniac | 13.00% | ~103,392 |
 | Buddy | 12.00% | ~95,438 |
 | Thief | 12.00% | ~95,438 |
 | Sinner | 11.00% | ~87,485 |
-| Convict | 10.00% | ~79,531 |
-| Traveller | 10.00% | ~79,531 |
-| Haggler | 9.00% | ~71,578 |
+| Convict | 10.00% | ~79,532 |
+| Traveller | 10.00% | ~79,532 |
+| Haggler | 9.00% | ~71,579 |
 | McLovin | 7.00% | ~55,672 |
 | Runt | 7.00% | ~55,672 |
 | Casanova | 6.00% | ~47,719 |
@@ -31,10 +31,10 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bastard | 4.00% | ~31,813 |
 | Hunter | 4.00% | ~31,813 |
 | Plague Doctor | 4.00% | ~31,813 |
-| Bard | 3.00% | ~23,859 |
-| Conqueror | 3.00% | ~23,859 |
-| Ginger in a Pickle | 3.00% | ~23,859 |
-| Kingdom did not come | 3.00% | ~23,859 |
+| Bard | 3.00% | ~23,860 |
+| Conqueror | 3.00% | ~23,860 |
+| Ginger in a Pickle | 3.00% | ~23,860 |
+| Kingdom did not come | 3.00% | ~23,860 |
 | Completionist | 2.00% | ~15,906 |
 | Death by splinter | 2.00% | ~15,906 |
 | King Charming | 2.00% | ~15,906 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~795 |
 | Wingman | 0.10% | ~795 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 795,314 (Ranked 15)  
+Progressed: 795,320 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 44 (0.01%) (Ranked 234)
 | 2023-07-30 | 794,966 | 44 |
 | 2023-07-31 | 795,100 | 44 |
 | 2023-08-01 | 795,249 | 44 |
-| 2023-08-02 | 795,314 | 44 |
+| 2023-08-02 | 795,320 | 44 |
 ## Awards
 Max (Character Customization): 7,353  (Ranked 46)  
 Sum: 27,415 (Ranked 45)  

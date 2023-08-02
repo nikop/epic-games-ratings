@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,716 |
+| A Brief Tour of the Realms | 4.00% | ~8,717 |
 | Beast Intentions | 3.00% | ~6,537 |
 | Maddening | 2.00% | ~4,358 |
 | The Silken Swamp | 1.00% | ~2,179 |
@@ -33,21 +33,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.60% | ~1,307 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,105 |
 | Thieves of the Coven | 0.50% | ~921 |
-| Don't Look Up! | 0.50% | ~1,089 |
-| Heavy Burden | 0.50% | ~1,089 |
+| Don't Look Up! | 0.50% | ~1,090 |
+| Heavy Burden | 0.50% | ~1,090 |
 | The Evacuation of Waterdeep | 0.50% | ~921 |
-| Friends of the Forest | 0.50% | ~1,089 |
+| Friends of the Forest | 0.50% | ~1,090 |
 | The Dread Domain of Tovag | 0.50% | ~921 |
-| Beast Mode | 0.50% | ~1,089 |
-| Low Initiative | 0.50% | ~1,089 |
-| Street War | 0.50% | ~1,089 |
-| March of the Undead | 0.50% | ~1,089 |
-| No Time To Rest | 0.50% | ~1,089 |
-| The Mists of Ravenloft | 0.50% | ~1,089 |
-| The Dinner Party | 0.50% | ~1,089 |
-| The Botched Kidnapping | 0.50% | ~1,089 |
-| The Cursed Farmer | 0.50% | ~1,089 |
-| The Mad Wizard | 0.50% | ~1,089 |
+| Beast Mode | 0.50% | ~1,090 |
+| Low Initiative | 0.50% | ~1,090 |
+| Street War | 0.50% | ~1,090 |
+| March of the Undead | 0.50% | ~1,090 |
+| No Time To Rest | 0.50% | ~1,090 |
+| The Mists of Ravenloft | 0.50% | ~1,090 |
+| The Dinner Party | 0.50% | ~1,090 |
+| The Botched Kidnapping | 0.50% | ~1,090 |
+| The Cursed Farmer | 0.50% | ~1,090 |
+| The Mad Wizard | 0.50% | ~1,090 |
 | Not That Type of Helm! | 0.50% | ~921 |
 | Calcryx Tricks | 0.50% | ~921 |
 | Goblin Halls: the Next Generation | 0.50% | ~921 |
@@ -90,6 +90,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.30% | ~553 |
 | Owlbear Necessities | 0.30% | ~553 |
 | Well Equipped | 0.30% | ~553 |
+| Keep Your Distance | 0.30% | ~553 |
 | The Castle of a Thousand Vecnas | 0.30% | ~553 |
 | The Sanctum of the Sword | 0.30% | ~553 |
 | Who Lurks Below? | 0.30% | ~553 |
@@ -155,7 +156,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelmed with Knowledge | 0.20% | ~368 |
 | More Than Well Equipped | 0.20% | ~368 |
 | Arcane Efforts | 0.20% | ~368 |
-| Keep Your Distance | 0.20% | ~368 |
 | To Avernus in a Handbasket | 0.20% | ~368 |
 | Hands Off! | 0.20% | ~368 |
 | Weak Doesn't Mean Feeble | 0.20% | ~368 |
@@ -208,6 +208,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dreamscape | 0.20% | ~368 |
 | The Path of Dreams | 0.20% | ~368 |
 | The Lost Hollyphant | 0.20% | ~368 |
+| Alterdeep | 0.20% | ~368 |
 | The Wandering Emporium | 0.20% | ~368 |
 | Tiamat's Army | 0.20% | ~368 |
 | Questlines | 0.20% | ~368 |
@@ -224,6 +225,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Bleeding Citadel | 0.20% | ~368 |
 | Idyllglen | 0.20% | ~368 |
 | The Radiant Nightmare | 0.20% | ~368 |
+| The Battle of High Hall Tower | 0.20% | ~368 |
 | The Haunted Jungle | 0.20% | ~436 |
 | Poor Guidance | 0.20% | ~436 |
 | All The World's A Stage | 0.20% | ~368 |
@@ -422,7 +424,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Zapper Overload | 0.10% | ~184 |
 | Best Friend Search Squad! | 0.10% | ~184 |
 | An Even Worse Time in Avernus | 0.10% | ~184 |
-| Alterdeep | 0.10% | ~184 |
 | Elder Rune Attack | 0.10% | ~184 |
 | The Gargoyle | 0.10% | ~184 |
 | Ulkoria's Escape from Alterdeep | 0.10% | ~184 |
@@ -478,7 +479,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frozen Vengeance | 0.10% | ~184 |
 | Mimic Vengeance | 0.10% | ~184 |
 | REALLY Frozen Vengeance | 0.10% | ~184 |
-| The Battle of High Hall Tower | 0.10% | ~184 |
 | Might Makes Right | 0.10% | ~184 |
 | The Stunning Tower Battle | 0.10% | ~184 |
 | Elturel's Last Stand | 0.10% | ~184 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,896 (Ranked 53)  
+Progressed: 217,913 (Ranked 53)  
 Completed: 2,143 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -623,7 +623,7 @@ Completed: 2,143 (0.98%) (Ranked 112)
 | 2023-07-30 | 217,226 | 2,137 |
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
-| 2023-08-02 | 217,896 | 2,143 |
+| 2023-08-02 | 217,913 | 2,143 |
 ## Awards
 Max (Diverse Characters): 5,109  (Ranked 67)  
 Sum: 30,857 (Ranked 38)  

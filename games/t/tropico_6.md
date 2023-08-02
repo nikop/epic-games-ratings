@@ -6,34 +6,34 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,405 |
-| Un-Lonely Island | 47.00% | ~2,134 |
-| The Beginning of a Servantship | 45.00% | ~2,043 |
-| Trade Is My Trait | 37.00% | ~1,680 |
-| Number 18 | 24.00% | ~1,090 |
-| We Don't Have Time For That | 19.00% | ~863 |
-| The Governator | 18.00% | ~817 |
-| Caribbean Comrade | 16.00% | ~726 |
-| The Legend of Langostino | 16.00% | ~726 |
-| The Dreamer of Dreams | 15.00% | ~681 |
-| Go Sovereigns! | 11.00% | ~499 |
-| For Science! | 11.00% | ~499 |
-| Happy Ending? | 10.00% | ~454 |
-| Of Seals And Men | 10.00% | ~454 |
-| Shackadelic | 10.00% | ~454 |
-| Double Trouble | 8.00% | ~363 |
-| Firestarter | 8.00% | ~363 |
-| Make Tropico Great Again! | 8.00% | ~363 |
+| Just One...More...Term... | 75.00% | ~3,410 |
+| Un-Lonely Island | 47.00% | ~2,137 |
+| The Beginning of a Servantship | 45.00% | ~2,046 |
+| Trade Is My Trait | 37.00% | ~1,682 |
+| Number 18 | 24.00% | ~1,091 |
+| We Don't Have Time For That | 19.00% | ~864 |
+| The Governator | 18.00% | ~818 |
+| Caribbean Comrade | 16.00% | ~727 |
+| The Legend of Langostino | 16.00% | ~727 |
+| The Dreamer of Dreams | 15.00% | ~682 |
+| Go Sovereigns! | 11.00% | ~500 |
+| For Science! | 11.00% | ~500 |
+| Happy Ending? | 10.00% | ~455 |
+| Of Seals And Men | 10.00% | ~455 |
+| Shackadelic | 10.00% | ~455 |
+| Double Trouble | 8.00% | ~364 |
+| Firestarter | 8.00% | ~364 |
+| Make Tropico Great Again! | 8.00% | ~364 |
 | I Owe You Nothing | 7.00% | ~318 |
 | French Connection | 7.00% | ~318 |
-| Don't Panic! | 6.00% | ~272 |
-| Beware The Betman | 6.00% | ~272 |
+| Don't Panic! | 6.00% | ~273 |
+| Beware The Betman | 6.00% | ~273 |
 | Viva Tropico! | 5.00% | ~227 |
 | Computer Says "No" | 5.00% | ~227 |
 | Watch The World Burn | 5.00% | ~227 |
 | Fairy Tale Come True | 5.00% | ~227 |
-| Apocalypso | 4.00% | ~182 |
 | Been there, Done That | 3.00% | ~136 |
+| Apocalypso | 3.00% | ~136 |
 | Narcissist | 3.00% | ~136 |
 | Promising Endeavors | 3.00% | ~136 |
 | The Time For Wonders | 3.00% | ~136 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~41 |
 | My Ways | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,540 (Ranked 144)  
+Progressed: 4,546 (Ranked 144)  
 Completed: 2 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 2 (0.04%) (Ranked 218)
 | 2023-07-30 | 4,451 | 2 |
 | 2023-07-31 | 4,478 | 2 |
 | 2023-08-01 | 4,521 | 2 |
-| 2023-08-02 | 4,540 | 2 |
+| 2023-08-02 | 4,546 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 341)  
 Sum: 672 (Ranked 276)  

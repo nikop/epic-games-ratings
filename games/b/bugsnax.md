@@ -33,7 +33,7 @@ Number of Ratings: 425  (23.09.2022)
 | Feeding Frenzy | 18.00% | ~5,051 |
 | Clothesline | 17.00% | ~4,770 |
 | Say Cheese! | 15.00% | ~4,209 |
-| Sundae Best | 13.00% | ~3,648 |
+| Sundae Best | 14.00% | ~3,929 |
 | Live Laugh Hut | 8.00% | ~2,245 |
 | Dapper Capper | 6.00% | ~1,684 |
 ## Popularity (Based on EOS Achievements)

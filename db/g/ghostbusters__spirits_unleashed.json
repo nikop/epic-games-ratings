@@ -1628,7 +1628,7 @@
   ],
   "EOS_Progressed": 24661,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9672,9 +9672,9 @@
       "ID": "Welcome_Crew",
       "SetID": "819popo",
       "Name": "Welcome to the Crew",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 7645
+      "UsersEstimate": 7892
     },
     {
       "ID": "Whoopsie",
@@ -9697,8 +9697,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-02T06:00:35.7062281+00:00",
-  "LastChanged_Achievements": "2023-08-02T15:04:13.2223619+00:00",
+  "LastChanged_Achievements": "2023-08-02T16:02:24.3077394+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:56.6577114+00:00",
-  "LastUpdate_Ratings": "2023-08-02T15:01:08.9871494+00:00",
-  "LastUpdate_Achievements": "2023-08-02T15:04:13.222502+00:00"
+  "LastUpdate_Ratings": "2023-08-02T15:59:45.5018025+00:00",
+  "LastUpdate_Achievements": "2023-08-02T16:02:24.3078124+00:00"
 }

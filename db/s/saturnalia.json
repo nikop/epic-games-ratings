@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65079,
+  "EOS_Progressed": 65081,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6680,6 +6680,11 @@
       "Time": "2023-08-02T15:07:07.339862+00:00",
       "NumProgressed": 65079,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-02T16:05:31.0644443+00:00",
+      "NumProgressed": 65081,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -6745,9 +6750,9 @@
       "ID": "ACH_FRIENDSHIPPOWER",
       "SetID": "6ccjg6f",
       "Name": "Power of Friendship",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_LIGHTMINES",
@@ -6850,7 +6855,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 65079,
+      "Progressed": 65081,
       "Completed": 13
     }
   ],
@@ -6858,8 +6863,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-08-02T15:07:07.3398615+00:00",
+  "LastChanged_Achievements": "2023-08-02T16:05:31.0644435+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:12.051457+00:00",
-  "LastUpdate_Ratings": "2023-08-02T14:58:58.6111324+00:00",
-  "LastUpdate_Achievements": "2023-08-02T15:07:07.339929+00:00"
+  "LastUpdate_Ratings": "2023-08-02T15:58:04.4191989+00:00",
+  "LastUpdate_Achievements": "2023-08-02T16:05:31.0644848+00:00"
 }

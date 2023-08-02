@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5318,10 +5318,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27025,
       "NumberOfAwardsMax": 4682
+    },
+    {
+      "Time": "2023-08-02T15:59:01.7729599+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27028,
+      "NumberOfAwardsMax": 4682
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27025,
+  "NumberOfAwards": 27028,
   "NumberOfAwardsMax": 4682,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5353,13 +5359,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3980
+      "Count": 3982
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 3990
+      "Count": 3991
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5374,9 +5380,9 @@
       "Count": 3724
     }
   ],
-  "EOS_Progressed": 133749,
+  "EOS_Progressed": 133750,
   "EOS_Completed": 126,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -15944,6 +15950,11 @@
       "Time": "2023-08-02T15:05:10.6232642+00:00",
       "NumProgressed": 133749,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2023-08-02T16:03:45.6828143+00:00",
+      "NumProgressed": 133750,
+      "NumCompleted": 126
     }
   ],
   "TotalAchievements": 112,
@@ -15955,7 +15966,7 @@
       "Name": "The Daily Grind",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "advlevel02",
@@ -16003,7 +16014,7 @@
       "Name": "Ascended",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ascend02",
@@ -16091,7 +16102,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "boss02",
@@ -16115,7 +16126,7 @@
       "Name": "Fated Encounters",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "chest01",
@@ -16147,7 +16158,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "collection02",
@@ -16195,7 +16206,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "commonres03",
@@ -16227,7 +16238,7 @@
       "Name": "Flooding the Market",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "craft03",
@@ -16259,7 +16270,7 @@
       "Name": "Where it Hurts",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "damage02",
@@ -16363,7 +16374,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "furniture02",
@@ -16419,7 +16430,7 @@
       "Name": "Gem Expert",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "gold01",
@@ -16443,7 +16454,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "gold04",
@@ -16507,7 +16518,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "jackslot02",
@@ -16547,7 +16558,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "level03",
@@ -16579,7 +16590,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "loot02",
@@ -16611,7 +16622,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "master02",
@@ -16667,7 +16678,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "quest02",
@@ -16827,7 +16838,7 @@
       "Name": "Arcane Industries",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "workers03",
@@ -16850,15 +16861,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133749,
+      "Progressed": 133750,
       "Completed": 126
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-02T08:59:03.0067954+00:00",
-  "LastChanged_Achievements": "2023-08-02T15:05:10.6232638+00:00",
+  "LastChanged": "2023-08-02T15:59:01.7729597+00:00",
+  "LastChanged_Achievements": "2023-08-02T16:03:45.6828137+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.2465054+00:00",
-  "LastUpdate_Ratings": "2023-08-02T15:00:19.5572231+00:00",
-  "LastUpdate_Achievements": "2023-08-02T15:05:10.6234862+00:00"
+  "LastUpdate_Ratings": "2023-08-02T15:59:01.7729603+00:00",
+  "LastUpdate_Achievements": "2023-08-02T16:03:45.6829813+00:00"
 }

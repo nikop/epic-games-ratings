@@ -17,18 +17,18 @@
 | Employee of the week | 75.00% | ~156 |
 | Your own amateur gym | 74.00% | ~154 |
 | Run K, run! | 71.00% | ~148 |
+| Hello, world! | 68.00% | ~141 |
 | No bullying more | 67.00% | ~139 |
-| Hello, world! | 67.00% | ~139 |
 | Fighting is cool | 66.00% | ~137 |
 | Pal of your father? | 63.00% | ~131 |
+| Employee of the month | 62.00% | ~129 |
 | Spirit of the past | 61.00% | ~127 |
-| Employee of the month | 61.00% | ~127 |
-| Law student | 58.00% | ~121 |
+| Law student | 59.00% | ~123 |
 | Workout professional | 56.00% | ~116 |
 | Little hacker | 56.00% | ~116 |
 | Intriguing candies | 56.00% | ~116 |
+| It's good to be alive | 55.00% | ~114 |
 | Champion – starter pack | 54.00% | ~112 |
-| It's good to be alive | 54.00% | ~112 |
 | Own four walls | 54.00% | ~112 |
 | Fight for life | 53.00% | ~110 |
 | Handyman | 53.00% | ~110 |

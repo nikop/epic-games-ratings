@@ -22,6 +22,8 @@
 | Maestro Mountain Glyph | 0.50% | ~4 |
 | Symphony | 0.10% | ~1 |
 | Musica Universalis | 0.10% | ~1 |
+| Consonance | 0.10% | ~1 |
+| Dissonance | 0.10% | ~1 |
 | Resonance | 0.10% | ~1 |
 | Duet Desert Glyph | 0.10% | ~1 |
 | Fugue Forest Glyph | 0.10% | ~1 |
@@ -29,8 +31,6 @@
 | Silent City: Reprise Glyph | 0.10% | ~1 |
 | Ostinato | 0.00% | ~0 |
 | Rondo | 0.00% | ~0 |
-| Consonance | 0.00% | ~0 |
-| Dissonance | 0.00% | ~0 |
 | Tritone | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 786 (Ranked 204)  
