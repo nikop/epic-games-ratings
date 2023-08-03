@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23761,
+  "EOS_Progressed": 23762,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 378,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3678,6 +3678,11 @@
       "Time": "2023-08-03T00:07:11.8743091+00:00",
       "NumProgressed": 23761,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-08-03T01:59:31.0790188+00:00",
+      "NumProgressed": 23762,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 32,
@@ -3705,7 +3710,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18296
+      "UsersEstimate": 18297
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -3713,7 +3718,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10217
+      "UsersEstimate": 10218
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -3721,7 +3726,7 @@
       "Name": "Eatin\u0027 Good in the Neighborhood",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2138
+      "UsersEstimate": 2139
     },
     {
       "ID": "ACH_GET_CREATURE",
@@ -3753,7 +3758,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 18058
+      "UsersEstimate": 18059
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -3817,7 +3822,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 14019
+      "UsersEstimate": 14020
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -3841,7 +3846,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 5227
+      "UsersEstimate": 5228
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -3937,29 +3942,29 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5227
+      "UsersEstimate": 5228
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23761,
+      "Progressed": 23762,
       "Completed": 11
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1054,
-      "Completed": 1054
+      "Progressed": 1055,
+      "Completed": 1055
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-01T02:03:53.4121642+00:00",
-  "LastChanged_Achievements": "2023-08-03T00:07:11.8743082+00:00",
+  "LastChanged_Achievements": "2023-08-03T01:59:31.0790178+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.7380308+00:00",
-  "LastUpdate_Ratings": "2023-08-02T23:58:44.1269458+00:00",
-  "LastUpdate_Achievements": "2023-08-03T00:07:11.8743502+00:00"
+  "LastUpdate_Ratings": "2023-08-03T01:51:40.2180295+00:00",
+  "LastUpdate_Achievements": "2023-08-03T01:59:31.0790676+00:00"
 }

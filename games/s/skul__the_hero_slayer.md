@@ -6,20 +6,20 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,514 |
-| What should I buy? | 84.00% | ~6,787 |
-| Focus! | 63.00% | ~5,090 |
-| Rescued Elder Ent | 63.00% | ~5,090 |
-| The End of the Gold Mane Knights | 48.00% | ~3,878 |
+| The Legend Begins | 93.00% | ~7,515 |
+| What should I buy? | 84.00% | ~6,788 |
+| Focus! | 63.00% | ~5,091 |
+| Rescued Elder Ent | 63.00% | ~5,091 |
+| The End of the Gold Mane Knights | 48.00% | ~3,879 |
 | False Goddess, Disappear | 40.00% | ~3,232 |
 | Rules of Etiquette | 40.00% | ~3,232 |
-| Quick Movements | 34.00% | ~2,747 |
-| Inventory Management | 34.00% | ~2,747 |
+| Quick Movements | 34.00% | ~2,748 |
+| Inventory Management | 34.00% | ~2,748 |
 | The Fall of the Leonia Order | 30.00% | ~2,424 |
-| The Hero Killer | 28.00% | ~2,262 |
+| The Hero Killer | 28.00% | ~2,263 |
 | Go Home... | 27.00% | ~2,182 |
 | The Final Battle of the First Hero | 26.00% | ~2,101 |
-| Brain at Full Throttle | 23.00% | ~1,858 |
+| Brain at Full Throttle | 23.00% | ~1,859 |
 | Rookies Welcome | 20.00% | ~1,616 |
 | Deadly Power | 16.00% | ~1,293 |
 | Castle Restoration Plans | 14.00% | ~1,131 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~162 |
 | Cold-Blooded | 0.80% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,080 (Ranked 127)  
+Progressed: 8,081 (Ranked 127)  
 Completed: 12 (0.15%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,10 +130,10 @@ Completed: 12 (0.15%) (Ranked 183)
 | 2023-07-31 | 8,063 | 12 |
 | 2023-08-01 | 8,071 | 12 |
 | 2023-08-02 | 8,079 | 12 |
-| 2023-08-03 | 8,080 | 12 |
+| 2023-08-03 | 8,081 | 12 |
 ## Awards
 Max (Great for Beginners): 123  (Ranked 311)  
-Sum: 895 (Ranked 248)  
+Sum: 896 (Ranked 248)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -145,7 +145,7 @@ Diff (max vs sum): 63
 | This game has Quickly Understood Controls | 101 |
 | This game has Amazing Storytelling | 90 |
 | This game has Amazing Characters | 81 |
-| This game has a Creative Community | 59 |
+| This game has a Creative Community | 60 |
 | This game has Challenging Combat | 51 |
 | This game has Playful Visuals | 45 |
 ## Ratings History
@@ -264,3 +264,4 @@ Diff (max vs sum): 63
 | 2023-07-29 | 4.72 | - | 122 | 892 |
 | 2023-07-30 | 4.72 | - | 122 | 893 |
 | 2023-08-01 | 4.72 | - | 123 | 895 |
+| 2023-08-03 | 4.72 | - | 123 | 896 |

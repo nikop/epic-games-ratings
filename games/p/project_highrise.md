@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 59.00% | ~185 |
-| Starting Skyward | 52.00% | ~163 |
+| Starting Skyward | 53.00% | ~166 |
 | Grime is Not Good | 47.00% | ~147 |
+| Campaign Launch | 40.00% | ~125 |
 | Floor Galore | 39.00% | ~122 |
-| Campaign Launch | 39.00% | ~122 |
 | Dinner Dash | 39.00% | ~122 |
 | Need a Consult | 35.00% | ~110 |
 | It's Technical | 35.00% | ~110 |

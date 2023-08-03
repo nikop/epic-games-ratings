@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 974,
+  "EOS_Progressed": 975,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1264,6 +1264,11 @@
       "Time": "2023-08-02T20:05:17.1133294+00:00",
       "NumProgressed": 974,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T01:57:46.5104735+00:00",
+      "NumProgressed": 975,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1291,7 +1296,7 @@
       "Name": "The First King",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "CHALLENGE_FEWBUTGOOD",
@@ -1435,7 +1440,7 @@
       "Name": "The Greedy Ones",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "EXILED_PRIEST_FRIEND",
@@ -1451,7 +1456,7 @@
       "Name": "The Unruly Ones",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "FIND_ATTACKS_SOURCE",
@@ -1634,7 +1639,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 974,
+      "Progressed": 975,
       "Completed": 0
     }
   ],
@@ -1642,8 +1647,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-08-03T00:05:10.6304761+00:00",
+  "LastChanged_Achievements": "2023-08-03T01:57:46.510473+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:34.6009035+00:00",
-  "LastUpdate_Ratings": "2023-08-02T23:58:26.7726273+00:00",
-  "LastUpdate_Achievements": "2023-08-03T00:05:10.6305203+00:00"
+  "LastUpdate_Ratings": "2023-08-03T01:51:23.1314345+00:00",
+  "LastUpdate_Achievements": "2023-08-03T01:57:46.5105129+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "abda8262a7884126a637518b1b44a0f8",
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
-  "Ranking_Rating": 958,
+  "Ranking_Rating": 957,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.76,
+  "Rating": 3.77,
   "RatingHistory": [
     {
       "Time": "2023-01-26T03:57:13.5091099+00:00",
@@ -224,15 +224,21 @@
       "Rating": 3.76,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-03T01:53:52.0652572+00:00",
+      "Rating": 3.77,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16033,
+  "EOS_Progressed": 16035,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3685,6 +3691,11 @@
       "Time": "2023-08-02T20:05:26.9386906+00:00",
       "NumProgressed": 16033,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T01:57:56.5108748+00:00",
+      "NumProgressed": 16035,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -3696,7 +3707,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15231
+      "UsersEstimate": 15233
     },
     {
       "ID": "ACH001",
@@ -3704,7 +3715,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 13788
+      "UsersEstimate": 13790
     },
     {
       "ID": "ACH0010",
@@ -3744,7 +3755,7 @@
       "Name": "Sharing Is Caring",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "ACH0015",
@@ -3776,7 +3787,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3527
+      "UsersEstimate": 3528
     },
     {
       "ID": "ACH0019",
@@ -3792,7 +3803,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11544
+      "UsersEstimate": 11545
     },
     {
       "ID": "ACH0020",
@@ -3816,7 +3827,7 @@
       "Name": "House Party!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 5451
+      "UsersEstimate": 5452
     },
     {
       "ID": "ACH0023",
@@ -3848,7 +3859,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 8818
+      "UsersEstimate": 8819
     },
     {
       "ID": "ACH004",
@@ -3856,7 +3867,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 14109
+      "UsersEstimate": 14111
     },
     {
       "ID": "ACH005",
@@ -3864,7 +3875,7 @@
       "Name": "Head First",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2565
+      "UsersEstimate": 2566
     },
     {
       "ID": "ACH006",
@@ -3903,16 +3914,16 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16033,
+      "Progressed": 16035,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-01-19T15:57:46.7735502+00:00",
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
-  "LastChanged": "2023-07-15T00:01:25.4338441+00:00",
-  "LastChanged_Achievements": "2023-08-03T00:05:20.0896882+00:00",
+  "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
+  "LastChanged_Achievements": "2023-08-03T01:57:56.5108743+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:05.2909264+00:00",
-  "LastUpdate_Ratings": "2023-08-03T00:01:03.3781084+00:00",
-  "LastUpdate_Achievements": "2023-08-03T00:05:20.0897275+00:00"
+  "LastUpdate_Ratings": "2023-08-03T01:53:52.0652575+00:00",
+  "LastUpdate_Achievements": "2023-08-03T01:57:56.510917+00:00"
 }

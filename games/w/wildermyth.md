@@ -6,34 +6,34 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 38.00% | ~512 |
-| Me and My Familiar | 36.00% | ~485 |
-| This Too Shall Pass | 30.00% | ~404 |
-| Passing Shadow | 29.00% | ~391 |
-| Cutthroat Competitors | 29.00% | ~391 |
+| The Cost of Heroism | 39.00% | ~526 |
+| Me and My Familiar | 36.00% | ~486 |
+| This Too Shall Pass | 30.00% | ~405 |
+| Passing Shadow | 29.00% | ~392 |
+| Cutthroat Competitors | 29.00% | ~392 |
 | How Romantic! | 27.00% | ~364 |
 | Daybreak | 27.00% | ~364 |
-| Gotta Ca... Must Collect All of Them | 25.00% | ~337 |
+| Gotta Ca... Must Collect All of Them | 25.00% | ~338 |
 | Completing the Look | 14.00% | ~189 |
 | War Endured | 14.00% | ~189 |
-| A Mythic Menagerie | 13.00% | ~175 |
-| Who's Counting? | 13.00% | ~175 |
-| Core Failure | 13.00% | ~175 |
+| A Mythic Menagerie | 13.00% | ~176 |
+| Who's Counting? | 13.00% | ~176 |
+| Core Failure | 13.00% | ~176 |
 | Pyrrhic Victory | 11.00% | ~148 |
-| Thematic Divergence | 9.00% | ~121 |
-| Echoes Die | 9.00% | ~121 |
+| Thematic Divergence | 9.00% | ~122 |
+| Echoes Die | 9.00% | ~122 |
 | Chain Reaction | 8.00% | ~108 |
 | Everfading | 8.00% | ~108 |
-| Let Me Get My Chisel | 7.00% | ~94 |
-| Plague Doctor | 7.00% | ~94 |
-| Another Tale to Tell | 7.00% | ~94 |
-| A Story of Heroes | 7.00% | ~94 |
+| Let Me Get My Chisel | 7.00% | ~95 |
+| Plague Doctor | 7.00% | ~95 |
+| Another Tale to Tell | 7.00% | ~95 |
+| A Story of Heroes | 7.00% | ~95 |
 | All My Birds, Safely Home | 6.00% | ~81 |
-| Legends Never Die | 5.00% | ~67 |
-| In Soil, In Smoke | 5.00% | ~67 |
-| A Hunger, Sated | 5.00% | ~67 |
-| Wingknight's Prowess | 5.00% | ~67 |
-| Turncoat | 5.00% | ~67 |
+| Legends Never Die | 5.00% | ~68 |
+| In Soil, In Smoke | 5.00% | ~68 |
+| A Hunger, Sated | 5.00% | ~68 |
+| Wingknight's Prowess | 5.00% | ~68 |
+| Turncoat | 5.00% | ~68 |
 | Worldwalker | 4.00% | ~54 |
 | Grillmaster | 4.00% | ~54 |
 | No Time for Clawmonsters | 4.00% | ~54 |
@@ -56,14 +56,14 @@ Number of Ratings: 45  (23.09.2022)
 | Solid as the Hills | 2.00% | ~27 |
 | Symbiosis | 2.00% | ~27 |
 | A Temperamental Shrub | 2.00% | ~27 |
-| A Lowly Crust of Beef | 1.00% | ~13 |
-| I'm Not Smiling | 1.00% | ~13 |
-| Thwack! | 1.00% | ~13 |
+| A Lowly Crust of Beef | 1.00% | ~14 |
+| I'm Not Smiling | 1.00% | ~14 |
+| Thwack! | 1.00% | ~14 |
 | Overwhelming Monstrosity | 0.90% | ~12 |
 | We Call That Mortificient! | 0.80% | ~11 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,348 (Ranked 182)  
+Progressed: 1,350 (Ranked 182)  
 Completed: 5 (0.37%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,6 +155,7 @@ Completed: 5 (0.37%) (Ranked 149)
 | 2023-07-30 | 1,344 | 5 |
 | 2023-07-31 | 1,347 | 5 |
 | 2023-08-01 | 1,348 | 5 |
+| 2023-08-03 | 1,350 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 465)  
 Sum: 28 (Ranked 477)  

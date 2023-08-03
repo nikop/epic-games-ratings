@@ -1,24 +1,24 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.76 (Ranked 958)  
+Rating: 3.77 (Ranked 957)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~15,231 |
-| No Half Measures | 88.00% | ~14,109 |
-| Personal Matter | 86.00% | ~13,788 |
-| But You Have Heard of Me | 72.00% | ~11,544 |
-| Double the Barrels, double the Fun | 55.00% | ~8,818 |
+| Eeligally Ambitious | 95.00% | ~15,233 |
+| No Half Measures | 88.00% | ~14,111 |
+| Personal Matter | 86.00% | ~13,790 |
+| But You Have Heard of Me | 72.00% | ~11,545 |
+| Double the Barrels, double the Fun | 55.00% | ~8,819 |
 | Pimp My Glide | 47.00% | ~7,536 |
 | ... And Where Do the Stories Come From? | 41.00% | ~6,574 |
-| House Party! | 34.00% | ~5,451 |
+| House Party! | 34.00% | ~5,452 |
 | Make It Rain | 23.00% | ~3,688 |
-| Curse of the Seven Seas | 22.00% | ~3,527 |
-| Head First | 16.00% | ~2,565 |
+| Curse of the Seven Seas | 22.00% | ~3,528 |
+| Head First | 16.00% | ~2,566 |
 | To the World's End | 12.00% | ~1,924 |
 | Table for Six | 11.00% | ~1,764 |
-| Sharing Is Caring | 10.00% | ~1,603 |
+| Sharing Is Caring | 10.00% | ~1,604 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,283 |
 | Morally Flexible | 6.00% | ~962 |
 | Fishing for Compliments | 5.00% | ~802 |
@@ -32,7 +32,7 @@ Rating: 3.76 (Ranked 958)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,033 (Ranked 112)  
+Progressed: 16,035 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-31 | 16,016 | 0 |
 | 2023-08-01 | 16,022 | 0 |
 | 2023-08-02 | 16,033 | 0 |
+| 2023-08-03 | 16,035 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -181,3 +182,4 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-09 | 3.81 | 0 | 0 |
 | 2023-07-11 | 3.79 | 0 | 0 |
 | 2023-07-15 | 3.76 | 0 | 0 |
+| 2023-08-03 | 3.77 | 0 | 0 |

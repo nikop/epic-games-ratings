@@ -6,52 +6,52 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 36.00% | ~21,604 |
-| Let There Be Light | 29.00% | ~17,403 |
-| Float Like a Butterfly | 28.00% | ~16,803 |
-| Nordic Walking | 22.00% | ~13,203 |
-| Bright Falls' Finest | 22.00% | ~13,203 |
-| Under a Thin Layer of Skin | 19.00% | ~11,402 |
-| Park Ranger | 16.00% | ~9,602 |
-| Paging Mr. Wake | 16.00% | ~9,602 |
-| Back! Back, I Say! | 15.00% | ~9,002 |
-| Finders Keepers | 15.00% | ~9,002 |
-| Damn Good Cup of Coffee | 14.00% | ~8,402 |
-| They're Heeeeeere! | 13.00% | ~7,802 |
-| Sound and Fury | 13.00% | ~7,802 |
-| Missed by a Mile | 13.00% | ~7,802 |
-| Wheels Within Wheels | 12.00% | ~7,201 |
-| The Six-Gun Scribe | 12.00% | ~7,201 |
-| Heavy Metal | 11.00% | ~6,601 |
-| Iron Horse | 11.00% | ~6,601 |
-| Perchance to Dream | 11.00% | ~6,601 |
-| Collateral Carnage | 11.00% | ~6,601 |
-| Come One, Come All | 11.00% | ~6,601 |
-| Gatekeeper | 10.00% | ~6,001 |
-| It's Not Just a Typewriter Brand | 10.00% | ~6,001 |
-| Thunder and Lightning | 10.00% | ~6,001 |
-| Two For the Price of One | 10.00% | ~6,001 |
-| The Lady of the Light | 9.00% | ~5,401 |
-| Energized! | 9.00% | ~5,401 |
-| What Light Through Yonder Window | 8.00% | ~4,801 |
-| Right of Way | 8.00% | ~4,801 |
-| A Friend in Need | 8.00% | ~1,878 |
-| Tornado Wrangler | 7.00% | ~4,201 |
-| Departure | 6.00% | ~3,601 |
-| A Friend Indeed | 6.00% | ~1,409 |
+| Follow the Light | 36.00% | ~21,610 |
+| Let There Be Light | 29.00% | ~17,408 |
+| Float Like a Butterfly | 28.00% | ~16,808 |
+| Nordic Walking | 22.00% | ~13,206 |
+| Bright Falls' Finest | 22.00% | ~13,206 |
+| Under a Thin Layer of Skin | 19.00% | ~11,405 |
+| Park Ranger | 16.00% | ~9,604 |
+| Paging Mr. Wake | 16.00% | ~9,604 |
+| Back! Back, I Say! | 15.00% | ~9,004 |
+| Finders Keepers | 15.00% | ~9,004 |
+| Damn Good Cup of Coffee | 14.00% | ~8,404 |
+| They're Heeeeeere! | 13.00% | ~7,804 |
+| Sound and Fury | 13.00% | ~7,804 |
+| Missed by a Mile | 13.00% | ~7,804 |
+| Wheels Within Wheels | 12.00% | ~7,203 |
+| The Six-Gun Scribe | 12.00% | ~7,203 |
+| Heavy Metal | 11.00% | ~6,603 |
+| Iron Horse | 11.00% | ~6,603 |
+| Perchance to Dream | 11.00% | ~6,603 |
+| Collateral Carnage | 11.00% | ~6,603 |
+| Come One, Come All | 11.00% | ~6,603 |
+| Gatekeeper | 10.00% | ~6,003 |
+| It's Not Just a Typewriter Brand | 10.00% | ~6,003 |
+| Thunder and Lightning | 10.00% | ~6,003 |
+| Two For the Price of One | 10.00% | ~6,003 |
+| The Lady of the Light | 9.00% | ~5,402 |
+| Energized! | 9.00% | ~5,402 |
+| What Light Through Yonder Window | 8.00% | ~4,802 |
+| Right of Way | 8.00% | ~4,802 |
+| A Friend in Need | 8.00% | ~1,880 |
+| Tornado Wrangler | 7.00% | ~4,202 |
+| Departure | 6.00% | ~3,602 |
+| A Friend Indeed | 6.00% | ~1,410 |
 | Children of the Elder God | 5.00% | ~3,001 |
 | Drink 'Em Both Up | 5.00% | ~3,001 |
 | Hardboiled Writer | 5.00% | ~3,001 |
-| Ding! | 5.00% | ~1,174 |
-| Boob Tube | 4.00% | ~2,400 |
-| If It Flies, It Burns | 4.00% | ~2,400 |
-| KBF-FM | 4.00% | ~2,400 |
-| Carny | 3.00% | ~1,800 |
-| Kill Your Darlings | 3.00% | ~704 |
-| Heartbreaker | 3.00% | ~704 |
-| Medical Opinions | 2.00% | ~1,200 |
-| Taken Season | 2.00% | ~1,200 |
-| An Idyllic Small Town | 2.00% | ~1,200 |
+| Ding! | 5.00% | ~1,175 |
+| Boob Tube | 4.00% | ~2,401 |
+| If It Flies, It Burns | 4.00% | ~2,401 |
+| KBF-FM | 4.00% | ~2,401 |
+| Carny | 3.00% | ~1,801 |
+| Kill Your Darlings | 3.00% | ~705 |
+| Heartbreaker | 3.00% | ~705 |
+| Medical Opinions | 2.00% | ~1,201 |
+| Taken Season | 2.00% | ~1,201 |
+| An Idyllic Small Town | 2.00% | ~1,201 |
 | Iron Will | 2.00% | ~470 |
 | Couch Potato | 1.00% | ~600 |
 | Go Gentle Into That Good Light | 1.00% | ~235 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~60 |
 | No Punctuation | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,012 (Ranked 84)  
+Progressed: 60,027 (Ranked 84)  
 Completed: 63 (0.10%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 63 (0.10%) (Ranked 195)
 | 2023-07-31 | 59,709 | 60 |
 | 2023-08-01 | 59,826 | 61 |
 | 2023-08-02 | 59,999 | 63 |
-| 2023-08-03 | 60,012 | 63 |
+| 2023-08-03 | 60,027 | 63 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

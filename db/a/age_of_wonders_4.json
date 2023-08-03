@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5075,
+  "EOS_Progressed": 5076,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5590,6 +5590,11 @@
       "Time": "2023-08-02T20:05:12.8232039+00:00",
       "NumProgressed": 5075,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-03T01:57:42.1980617+00:00",
+      "NumProgressed": 5076,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5729,7 +5734,7 @@
       "Name": "Secret Technique",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "25",
@@ -6000,13 +6005,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5075,
+      "Progressed": 5076,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5075,
+      "Progressed": 5076,
       "Completed": 5
     }
   ],
@@ -6014,8 +6019,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-19T14:00:18.5966835+00:00",
-  "LastChanged_Achievements": "2023-08-03T00:04:56.2164959+00:00",
+  "LastChanged_Achievements": "2023-08-03T01:57:42.1980612+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:09.0087451+00:00",
-  "LastUpdate_Ratings": "2023-08-03T00:00:13.9716721+00:00",
-  "LastUpdate_Achievements": "2023-08-03T00:04:56.2165825+00:00"
+  "LastUpdate_Ratings": "2023-08-03T01:53:08.6821458+00:00",
+  "LastUpdate_Achievements": "2023-08-03T01:57:42.1981413+00:00"
 }

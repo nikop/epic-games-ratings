@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -958,9 +958,9 @@
       "ID": "Killed5000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Unstoppable",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Killed500BossesAchievement",
@@ -990,9 +990,9 @@
       "ID": "LilySpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Flower Power",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MultipleProjectileAchievement",
@@ -1373,8 +1373,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-08-03T00:06:01.4044525+00:00",
+  "LastChanged_Achievements": "2023-08-03T01:58:38.6760312+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:39.4262374+00:00",
-  "LastUpdate_Ratings": "2023-08-02T23:59:37.7697793+00:00",
-  "LastUpdate_Achievements": "2023-08-03T00:06:01.4046938+00:00"
+  "LastUpdate_Ratings": "2023-08-03T01:52:29.0909972+00:00",
+  "LastUpdate_Achievements": "2023-08-03T01:58:38.676261+00:00"
 }

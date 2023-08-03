@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 95.00% | ~108 |
+| You're Going Down! | 94.00% | ~108 |
 | To Each Their Own | 47.00% | ~54 |
 | You Get An Upgrade, You Get An Upgrade! | 23.00% | ~26 |
 | Onwards and Upwards | 20.00% | ~23 |
-| Like Phileas Fogg | 17.00% | ~19 |
+| Like Phileas Fogg | 17.00% | ~20 |
 | Serial Winner | 15.00% | ~17 |
-| Highly Qualified | 11.00% | ~13 |
-| No Room for Improvement | 11.00% | ~13 |
-| Start Your Engines | 11.00% | ~13 |
-| Lone Wolf | 11.00% | ~13 |
+| Highly Qualified | 10.00% | ~12 |
+| No Room for Improvement | 10.00% | ~12 |
+| Start Your Engines | 10.00% | ~12 |
+| Lone Wolf | 10.00% | ~12 |
 | Nerd | 8.00% | ~9 |
 | Playing God | 8.00% | ~9 |
 | First and Foremost | 6.00% | ~7 |
@@ -21,16 +21,16 @@
 | Made Mother Proud | 5.00% | ~6 |
 | Winner Winner Chicken Dinner | 5.00% | ~6 |
 | Tailor-Made | 5.00% | ~6 |
-| POI Hunter | 4.00% | ~5 |
 | Seven-League Boots | 4.00% | ~5 |
-| Gotta Go Fast! | 4.00% | ~5 |
-| Say My Name | 4.00% | ~5 |
-| Tailor-Made for Two | 4.00% | ~5 |
-| Tempus Fugit | 4.00% | ~5 |
 | Déjà-Vu | 3.00% | ~3 |
+| POI Hunter | 3.00% | ~3 |
+| Gotta Go Fast! | 3.00% | ~3 |
+| Say My Name | 3.00% | ~3 |
 | Last One Standing | 3.00% | ~3 |
 | Time Lord | 3.00% | ~3 |
 | First Things First | 3.00% | ~3 |
+| Tailor-Made for Two | 3.00% | ~3 |
+| Tempus Fugit | 3.00% | ~3 |
 | Golden Ratio | 2.00% | ~2 |
 | The Joy of Discovery | 2.00% | ~2 |
 | Geek | 2.00% | ~2 |
@@ -44,8 +44,8 @@
 | Superbike Superfan | 2.00% | ~2 |
 | Playing Favourites | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114 (Ranked 310)  
-Completed: 2 (1.75%) (Ranked 91)  
+Progressed: 115 (Ranked 309)  
+Completed: 2 (1.74%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,4 +100,4 @@ Completed: 2 (1.75%) (Ranked 91)
 | 2023-07-30 | 110 | 2 |
 | 2023-07-31 | 111 | 2 |
 | 2023-08-01 | 113 | 2 |
-| 2023-08-03 | 114 | 2 |
+| 2023-08-03 | 115 | 2 |

@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97,
+  "EOS_Progressed": 98,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 19,
-  "EOS_Completed_Percentage": 19.59,
+  "EOS_Completed_Percentage": 19.39,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -416,6 +416,11 @@
       "Time": "2023-08-02T22:05:13.7809999+00:00",
       "NumProgressed": 97,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-08-03T01:57:30.1309787+00:00",
+      "NumProgressed": 98,
+      "NumCompleted": 19
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -426,15 +431,15 @@
       "ID": "AllSafes",
       "SetID": "7jbi7el",
       "Name": "Safe Cracker",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 70,
       "UsersEstimate": 54
     },
@@ -460,13 +465,13 @@
       "Name": "Test Task",
       "Percentage": 97,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 70,
       "UsersEstimate": 52
     },
@@ -476,15 +481,15 @@
       "Name": "Beginner Electrician",
       "Percentage": 86,
       "XP": 70,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "GasDeath",
@@ -522,31 +527,31 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 80,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 80,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 97,
+      "Progressed": 98,
       "Completed": 19
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-03T00:04:43.5872636+00:00",
+  "LastChanged_Achievements": "2023-08-03T01:57:30.1309781+00:00",
   "LastUpdate_AppInfo": "2023-08-01T17:57:05.506677+00:00",
-  "LastUpdate_Ratings": "2023-08-02T23:57:30.4915935+00:00",
-  "LastUpdate_Achievements": "2023-08-03T00:04:43.5872781+00:00"
+  "LastUpdate_Ratings": "2023-08-03T01:50:17.3437738+00:00",
+  "LastUpdate_Achievements": "2023-08-03T01:57:30.1309906+00:00"
 }

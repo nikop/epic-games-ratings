@@ -16,17 +16,17 @@
 | Neurotrainer – power gainer! | 75.00% | ~159 |
 | Employee of the week | 75.00% | ~159 |
 | Your own amateur gym | 74.00% | ~157 |
-| Run K, run! | 71.00% | ~151 |
+| Run K, run! | 72.00% | ~153 |
+| Hello, world! | 68.00% | ~144 |
 | No bullying more | 67.00% | ~142 |
-| Hello, world! | 67.00% | ~142 |
 | Fighting is cool | 66.00% | ~140 |
 | Pal of your father? | 62.00% | ~131 |
 | Employee of the month | 62.00% | ~131 |
 | Spirit of the past | 60.00% | ~127 |
 | Law student | 58.00% | ~123 |
+| Little hacker | 57.00% | ~121 |
 | Intriguing candies | 57.00% | ~121 |
 | Workout professional | 56.00% | ~119 |
-| Little hacker | 56.00% | ~119 |
 | It's good to be alive | 55.00% | ~117 |
 | Own four walls | 54.00% | ~114 |
 | Handyman | 53.00% | ~112 |
@@ -58,13 +58,13 @@
 | Not little hacker | 30.00% | ~64 |
 | Absolute Champion! | 30.00% | ~64 |
 | The last bell ring | 30.00% | ~64 |
-| The lonesome road | 28.00% | ~59 |
+| The lonesome road | 29.00% | ~61 |
+| Key memories | 29.00% | ~61 |
+| The heart of the Resistance | 29.00% | ~61 |
+| Another world | 28.00% | ~59 |
 | Keep nature safe | 28.00% | ~59 |
 | Family comes first | 28.00% | ~59 |
-| Key memories | 28.00% | ~59 |
 | Careerist | 28.00% | ~59 |
-| The heart of the Resistance | 28.00% | ~59 |
-| Another world | 27.00% | ~57 |
 | Anyone can resist | 27.00% | ~57 |
 | Trap disarmed | 26.00% | ~55 |
 | Silver’s past | 25.00% | ~53 |

@@ -21,7 +21,7 @@
 | Cybernetic | 5.00% | ~37 |
 | Fully Modded | 5.00% | ~37 |
 | Rookie | 5.00% | ~37 |
-| Up Close And Personal | 4.00% | ~29 |
+| Up Close And Personal | 5.00% | ~37 |
 | Eden Heights | 3.00% | ~22 |
 | Outer Core | 3.00% | ~22 |
 | Inner Core | 2.00% | ~15 |

@@ -6,15 +6,15 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,442 |
-| Ready for Winter | 64.00% | ~2,084 |
-| Ready for Summer | 51.00% | ~1,661 |
-| Cordon Bleu | 43.00% | ~1,400 |
-| Tapped! | 36.00% | ~1,172 |
-| Eureka | 31.00% | ~1,009 |
+| Venture Outward | 75.00% | ~2,444 |
+| Ready for Winter | 64.00% | ~2,085 |
+| Ready for Summer | 51.00% | ~1,662 |
+| Cordon Bleu | 43.00% | ~1,401 |
+| Tapped! | 36.00% | ~1,173 |
+| Eureka | 31.00% | ~1,010 |
 | Scourge Slayer | 25.00% | ~814 |
 | Science, Troglodyte! | 23.00% | ~749 |
-| Exceptional Skill | 22.00% | ~716 |
+| Exceptional Skill | 22.00% | ~717 |
 | Home Sweet Home | 21.00% | ~684 |
 | Encyclopedic! | 19.00% | ~619 |
 | A Fortress Toppled! | 16.00% | ~521 |
@@ -23,9 +23,9 @@ Number of Ratings: 266  (23.09.2022)
 | The Power of Faith | 12.00% | ~391 |
 | Strange amalgams | 11.00% | ~358 |
 | The Power of Freedom | 9.00% | ~293 |
-| Ace Detective | 8.00% | ~260 |
-| Gift from the Ancestors | 8.00% | ~260 |
-| Magic is a science | 8.00% | ~260 |
+| Ace Detective | 8.00% | ~261 |
+| Gift from the Ancestors | 8.00% | ~261 |
+| Magic is a science | 8.00% | ~261 |
 | House of Cards | 7.00% | ~228 |
 | Let ‘em eat magma! | 7.00% | ~228 |
 | The power of ambition | 7.00% | ~228 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,256 (Ranked 152)  
+Progressed: 3,258 (Ranked 152)  
 Completed: 3 (0.09%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,6 +151,7 @@ Completed: 3 (0.09%) (Ranked 199)
 | 2023-07-31 | 3,217 | 3 |
 | 2023-08-01 | 3,238 | 3 |
 | 2023-08-02 | 3,256 | 3 |
+| 2023-08-03 | 3,258 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 446)  
 Sum: 241 (Ranked 352)  

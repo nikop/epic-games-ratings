@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -858,10 +858,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 895,
       "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-08-03T01:52:48.9086549+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 896,
+      "NumberOfAwardsMax": 123
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 895,
+  "NumberOfAwards": 896,
   "NumberOfAwardsMax": 123,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -923,7 +929,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game is Great for Beginners",
@@ -932,9 +938,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 8080,
+  "EOS_Progressed": 8081,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4132,6 +4138,11 @@
       "Time": "2023-08-03T00:05:42.6148232+00:00",
       "NumProgressed": 8080,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-08-03T01:58:19.5867922+00:00",
+      "NumProgressed": 8081,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -4143,7 +4154,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "Chatterbox",
@@ -4167,7 +4178,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5090
+      "UsersEstimate": 5091
     },
     {
       "ID": "DemonCastleRestoration",
@@ -4231,7 +4242,7 @@
       "Name": "The Hero Killer",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 2262
+      "UsersEstimate": 2263
     },
     {
       "ID": "LeoniasFall",
@@ -4271,7 +4282,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5090
+      "UsersEstimate": 5091
     },
     {
       "ID": "SavedElderEnt_2",
@@ -4279,7 +4290,7 @@
       "Name": "Quick Movements",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "SkeletonKing",
@@ -4295,7 +4306,7 @@
       "Name": "Inventory Management",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "TheLegendBegins",
@@ -4303,7 +4314,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7514
+      "UsersEstimate": 7515
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4311,7 +4322,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3878
+      "UsersEstimate": 3879
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -4327,22 +4338,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6787
+      "UsersEstimate": 6788
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8080,
+      "Progressed": 8081,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-08-01T09:59:29.4512812+00:00",
-  "LastChanged_Achievements": "2023-08-03T00:05:42.6148226+00:00",
+  "LastChanged": "2023-08-03T01:52:48.9086548+00:00",
+  "LastChanged_Achievements": "2023-08-03T01:58:19.5867917+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:57.8506775+00:00",
-  "LastUpdate_Ratings": "2023-08-02T23:59:53.9013603+00:00",
-  "LastUpdate_Achievements": "2023-08-03T00:05:42.6148728+00:00"
+  "LastUpdate_Ratings": "2023-08-03T01:52:48.9086557+00:00",
+  "LastUpdate_Achievements": "2023-08-03T01:58:19.5868316+00:00"
 }

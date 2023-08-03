@@ -5494,9 +5494,9 @@
       "Count": 3337
     }
   ],
-  "EOS_Progressed": 218041,
-  "EOS_Completed": 2145,
-  "EOS_NewPlayers": 2216,
+  "EOS_Progressed": 218070,
+  "EOS_Completed": 2146,
+  "EOS_NewPlayers": 2223,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16754,6 +16754,11 @@
       "Time": "2023-08-03T00:04:49.2526326+00:00",
       "NumProgressed": 218041,
       "NumCompleted": 2145
+    },
+    {
+      "Time": "2023-08-03T01:57:36.3221528+00:00",
+      "NumProgressed": 218070,
+      "NumCompleted": 2146
     }
   ],
   "TotalAchievements": 512,
@@ -16765,7 +16770,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8722
+      "UsersEstimate": 8723
     },
     {
       "ID": "objective_completed_10",
@@ -17069,7 +17074,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "objective_completed_1090",
@@ -17133,7 +17138,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6541
+      "UsersEstimate": 6542
     },
     {
       "ID": "objective_completed_110",
@@ -17325,7 +17330,7 @@
       "Name": "Supply Run",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "objective_completed_1142",
@@ -19907,9 +19912,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1308
     },
     {
       "ID": "objective_completed_70",
@@ -20860,21 +20865,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184315,
+      "Progressed": 184344,
       "Completed": 3052
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218041,
-      "Completed": 2145
+      "Progressed": 218070,
+      "Completed": 2146
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-02T14:59:51.4938579+00:00",
-  "LastChanged_Achievements": "2023-08-03T00:04:49.2526321+00:00",
+  "LastChanged_Achievements": "2023-08-03T01:57:36.3221523+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-02T23:58:59.3620936+00:00",
-  "LastUpdate_Achievements": "2023-08-03T00:04:49.2558957+00:00"
+  "LastUpdate_Ratings": "2023-08-03T01:51:50.776013+00:00",
+  "LastUpdate_Achievements": "2023-08-03T01:57:36.3253015+00:00"
 }

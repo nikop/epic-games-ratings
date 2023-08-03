@@ -10,6 +10,7 @@ Rating: 4.43 (Ranked 659)
 | Sharpshooter | 4.00% | ~136 |
 | Confirming Suspicions | 4.00% | ~136 |
 | Lord of War | 4.00% | ~136 |
+| As Quiet as a Mouse | 4.00% | ~136 |
 | The Kraken Wakes | 4.00% | ~136 |
 | It's Starting to Crack | 4.00% | ~136 |
 | Change the Channel | 4.00% | ~136 |
@@ -22,7 +23,6 @@ Rating: 4.43 (Ranked 659)
 | Gunslinger | 3.00% | ~102 |
 | Resourceful | 3.00% | ~102 |
 | Der Geist | 3.00% | ~102 |
-| As Quiet as a Mouse | 3.00% | ~102 |
 | Brains of the Operation | 3.00% | ~102 |
 | Opposing Force | 2.00% | ~68 |
 | Enemy at the Gates | 2.00% | ~68 |

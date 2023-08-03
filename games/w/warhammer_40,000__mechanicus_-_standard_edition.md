@@ -5,27 +5,27 @@ Rating: 4.43 (Ranked 659)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~54,781 |
-| This is only the beginning | 19.00% | ~41,633 |
-| Knowledge is power | 12.00% | ~26,295 |
-| Power Ranger | 9.00% | ~19,721 |
-| Galvanic Rifle | 9.00% | ~19,721 |
-| Taser Goad | 9.00% | ~19,721 |
-| Radium Ready | 9.00% | ~19,721 |
-| Half a cog | 9.00% | ~19,721 |
-| Watch them crumble | 6.00% | ~13,147 |
+| No aid from the Omnissiah | 25.00% | ~54,782 |
+| This is only the beginning | 19.00% | ~41,635 |
+| Knowledge is power | 12.00% | ~26,296 |
+| Power Ranger | 9.00% | ~19,722 |
+| Galvanic Rifle | 9.00% | ~19,722 |
+| Taser Goad | 9.00% | ~19,722 |
+| Radium Ready | 9.00% | ~19,722 |
+| Half a cog | 9.00% | ~19,722 |
+| Watch them crumble | 6.00% | ~13,148 |
 | Competent Cohort | 4.00% | ~8,765 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,765 |
 | One with the Machine | 4.00% | ~8,765 |
 | Legio Cybernetica | 3.00% | ~6,574 |
 | Fleshy Disposal | 3.00% | ~6,574 |
-| Battle Servitor | 2.00% | ~4,382 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,382 |
-| Impatient destruction | 2.00% | ~4,382 |
-| Vivisected Vizier | 2.00% | ~4,382 |
-| Architect Abortion | 2.00% | ~4,382 |
+| Battle Servitor | 2.00% | ~4,383 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,383 |
+| Impatient destruction | 2.00% | ~4,383 |
+| Vivisected Vizier | 2.00% | ~4,383 |
+| Architect Abortion | 2.00% | ~4,383 |
 | Cohortus Maximus | 0.80% | ~1,753 |
-| Mother of Xenarites | 0.40% | ~876 |
+| Mother of Xenarites | 0.40% | ~877 |
 | False God | 0.30% | ~657 |
 | Hard | 0.20% | ~438 |
 | Sensory overload | 0.20% | ~438 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 659)
 | Perma-live | 0.10% | ~219 |
 | Purge the Heretek | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,123 (Ranked 52)  
+Progressed: 219,130 (Ranked 52)  
 Completed: 4 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 4 (0.00%) (Ranked 247)
 | 2023-07-31 | 218,911 | 4 |
 | 2023-08-01 | 219,037 | 4 |
 | 2023-08-02 | 219,121 | 4 |
-| 2023-08-03 | 219,123 | 4 |
+| 2023-08-03 | 219,130 | 4 |
 ## Awards
 Max (Highly Recommended): 280  (Ranked 238)  
 Sum: 2,124 (Ranked 193)  

@@ -8,7 +8,7 @@
 | Law and Order | 78.00% | ~21 |
 | Licence To Kill | 67.00% | ~18 |
 | Hammer Time | 41.00% | ~11 |
-| Escape From M.C. | 22.00% | ~6 |
+| Escape From M.C. | 26.00% | ~7 |
 | Restore Honor | 22.00% | ~6 |
 | Overkill | 11.00% | ~3 |
 | Bring Down the Corp | 7.00% | ~2 |

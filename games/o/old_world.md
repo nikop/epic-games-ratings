@@ -28,20 +28,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~132 |
 | Trade Caravan | 1.00% | ~132 |
 | Poetic Leader | 1.00% | ~132 |
+| Ambitious | 0.90% | ~119 |
 | Glorious | 0.90% | ~119 |
 | Keystone | 0.90% | ~119 |
+| Pyramids | 0.90% | ~119 |
 | Judaism | 0.90% | ~119 |
+| Babylonian Paganism | 0.90% | ~119 |
 | Greek Paganism | 0.90% | ~119 |
-| Ambitious | 0.80% | ~106 |
 | Magnificent | 0.80% | ~106 |
 | Warrior | 0.80% | ~106 |
 | Developing Cities | 0.80% | ~106 |
 | Able Difficulty | 0.80% | ~106 |
 | Ishtar Gate | 0.80% | ~106 |
 | Lighthouse | 0.80% | ~106 |
-| Pyramids | 0.80% | ~106 |
 | Christianity | 0.80% | ~106 |
-| Babylonian Paganism | 0.80% | ~106 |
 | Carthaginian Paganism | 0.80% | ~106 |
 | Roman Paganism | 0.80% | ~106 |
 | Zoroastrianism | 0.80% | ~106 |
@@ -77,6 +77,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.40% | ~53 |
 | Beloved | 0.40% | ~53 |
 | Conqueror | 0.40% | ~53 |
+| Mighty | 0.40% | ~53 |
 | Good Difficulty | 0.40% | ~53 |
 | Patrons | 0.40% | ~53 |
 | Statesmen | 0.40% | ~53 |
@@ -88,11 +89,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 0.40% | ~53 |
 | Legalism | 0.40% | ~53 |
 | Phalangite | 0.40% | ~53 |
+| Ambition Victory | 0.40% | ~53 |
 | Double Victory | 0.40% | ~53 |
 | Devout | 0.30% | ~40 |
 | Invincible | 0.30% | ~40 |
 | Lion | 0.30% | ~40 |
-| Mighty | 0.30% | ~40 |
 | Ready | 0.30% | ~40 |
 | Subjugator | 0.30% | ~40 |
 | Victorious | 0.30% | ~40 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.30% | ~40 |
 | Kushite Cavalry | 0.30% | ~40 |
 | Legionary | 0.30% | ~40 |
-| Ambition Victory | 0.30% | ~40 |
 | Win a Single Player Game | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
 | Bad Heir Day | 0.20% | ~26 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,244 (Ranked 117)  
+Progressed: 13,245 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,6 +408,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-07-31 | 13,209 | 5 |
 | 2023-08-01 | 13,228 | 5 |
 | 2023-08-02 | 13,244 | 5 |
+| 2023-08-03 | 13,245 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 262)  
 Sum: 1,786 (Ranked 206)  

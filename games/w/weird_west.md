@@ -6,35 +6,35 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,560 |
-| Self-Improvement | 72.00% | ~1,277 |
-| Perky | 65.00% | ~1,152 |
-| Let’s Ride | 60.00% | ~1,064 |
-| Welcome to the Weird West | 57.00% | ~1,011 |
-| Dead or Alive | 55.00% | ~975 |
-| Full House | 36.00% | ~638 |
-| Off the Trail | 33.00% | ~585 |
-| Justice Served | 29.00% | ~514 |
+| Unforgiven | 88.00% | ~1,562 |
+| Self-Improvement | 72.00% | ~1,278 |
+| Perky | 65.00% | ~1,154 |
+| Let’s Ride | 60.00% | ~1,065 |
+| Welcome to the Weird West | 57.00% | ~1,012 |
+| Dead or Alive | 55.00% | ~976 |
+| Full House | 36.00% | ~639 |
+| Off the Trail | 33.00% | ~586 |
+| Justice Served | 29.00% | ~515 |
 | Chain Reaction | 27.00% | ~479 |
-| Dishonored | 25.00% | ~443 |
-| Rain of Death | 25.00% | ~443 |
-| Scholar | 25.00% | ~443 |
-| Through Their Eyes | 25.00% | ~443 |
+| Dishonored | 25.00% | ~444 |
+| Rain of Death | 25.00% | ~444 |
+| Scholar | 25.00% | ~444 |
+| Through Their Eyes | 25.00% | ~444 |
 | The Great Escape | 23.00% | ~408 |
-| That’s All, Folks | 18.00% | ~319 |
+| That’s All, Folks | 18.00% | ~320 |
 | Fallen Star | 16.00% | ~284 |
 | For Balance | 16.00% | ~284 |
 | Here Comes Santa Claus | 16.00% | ~284 |
 | Winds of War | 16.00% | ~284 |
-| Dog Days | 13.00% | ~230 |
-| Workers' Rights | 13.00% | ~230 |
+| Dog Days | 13.00% | ~231 |
+| Workers' Rights | 13.00% | ~231 |
 | Elusive Prey | 12.00% | ~213 |
 | Out on the Ebb Tide | 12.00% | ~213 |
 | Power Behind the Pulpit | 12.00% | ~213 |
 | Turning the Tables | 12.00% | ~213 |
 | Something Wicked This Way Comes… | 11.00% | ~195 |
 | There is Hope | 11.00% | ~195 |
-| The Philosopher’s Stone | 10.00% | ~177 |
+| The Philosopher’s Stone | 10.00% | ~178 |
 | Loyalty to the Pack | 9.00% | ~160 |
 | Mystery Machine | 9.00% | ~160 |
 | Do Not Pass Go… | 8.00% | ~142 |
@@ -50,7 +50,7 @@ Number of Ratings: 125  (23.09.2022)
 | Ghost Town | 3.00% | ~53 |
 | Lord Inut Sends His Regards | 3.00% | ~53 |
 | Moondrunk | 3.00% | ~53 |
-| 'Ma Barker | 2.00% | ~35 |
+| 'Ma Barker | 2.00% | ~36 |
 | I Kicked a Bird and I Liked it | 1.00% | ~18 |
 | Hog Wild | 1.00% | ~18 |
 | Explorer | 0.60% | ~11 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,773 (Ranked 171)  
+Progressed: 1,775 (Ranked 171)  
 Completed: 4 (0.23%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,6 +151,7 @@ Completed: 4 (0.23%) (Ranked 170)
 | 2023-07-31 | 1,762 | 4 |
 | 2023-08-01 | 1,765 | 4 |
 | 2023-08-02 | 1,773 | 4 |
+| 2023-08-03 | 1,775 | 4 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 481)  
 Sum: 24 (Ranked 485)  
