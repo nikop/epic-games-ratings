@@ -2434,9 +2434,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 26141,
+  "EOS_Progressed": 26142,
   "EOS_Completed": 211,
-  "EOS_NewPlayers": 874,
+  "EOS_NewPlayers": 873,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -13699,6 +13699,11 @@
       "Time": "2023-08-03T21:08:54.6067125+00:00",
       "NumProgressed": 26141,
       "NumCompleted": 211
+    },
+    {
+      "Time": "2023-08-03T22:08:49.3033414+00:00",
+      "NumProgressed": 26142,
+      "NumCompleted": 211
     }
   ],
   "TotalAchievements": 60,
@@ -13726,7 +13731,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 14900
+      "UsersEstimate": 14901
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -13750,7 +13755,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 6012
+      "UsersEstimate": 6013
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -13774,7 +13779,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 6535
+      "UsersEstimate": 6536
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -13798,7 +13803,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 9149
+      "UsersEstimate": 9150
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -13806,7 +13811,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 4705
+      "UsersEstimate": 4706
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -13822,7 +13827,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 13070
+      "UsersEstimate": 13071
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -13830,7 +13835,7 @@
       "Name": "Spawner Killer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1569
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_2",
@@ -13854,7 +13859,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 6535
+      "UsersEstimate": 6536
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -13894,7 +13899,7 @@
       "Name": "Angel of Fire",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 6535
+      "UsersEstimate": 6536
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -13950,7 +13955,7 @@
       "Name": "Thirst quencher",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 7319
+      "UsersEstimate": 7320
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -13966,7 +13971,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 7319
+      "UsersEstimate": 7320
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -14078,7 +14083,7 @@
       "Name": "A little something extra",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1569
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_Completed",
@@ -14094,7 +14099,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 11763
+      "UsersEstimate": 11764
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -14118,7 +14123,7 @@
       "Name": "The Benevolent Evil",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1569
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_2",
@@ -14158,7 +14163,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 7842
+      "UsersEstimate": 7843
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -14166,7 +14171,7 @@
       "Name": "Lifeguard",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 4705
+      "UsersEstimate": 4706
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -14189,15 +14194,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 26141,
+      "Progressed": 26142,
       "Completed": 211
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-08-03T14:00:33.5410924+00:00",
-  "LastChanged_Achievements": "2023-08-03T21:08:54.6067118+00:00",
+  "LastChanged_Achievements": "2023-08-03T22:08:49.3033406+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:06.5004839+00:00",
-  "LastUpdate_Ratings": "2023-08-03T21:01:14.5898389+00:00",
-  "LastUpdate_Achievements": "2023-08-03T21:08:54.606856+00:00"
+  "LastUpdate_Ratings": "2023-08-03T22:01:18.937489+00:00",
+  "LastUpdate_Achievements": "2023-08-03T22:08:49.3034842+00:00"
 }

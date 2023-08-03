@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -3610,9 +3610,9 @@
       "ID": "STB_PET_HORSE",
       "SetID": "3pe2bac",
       "Name": "You can pet the... horse",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 250
     },
     {
       "ID": "STB_PLATINUM",
@@ -3731,8 +3731,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-08-03T21:04:45.6364578+00:00",
+  "LastChanged_Achievements": "2023-08-03T22:04:31.8676495+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:29.275218+00:00",
-  "LastUpdate_Ratings": "2023-08-03T20:59:00.9022656+00:00",
-  "LastUpdate_Achievements": "2023-08-03T21:04:45.6365236+00:00"
+  "LastUpdate_Ratings": "2023-08-03T21:58:55.3327181+00:00",
+  "LastUpdate_Achievements": "2023-08-03T22:04:31.8677304+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 651,
+  "EOS_Progressed": 652,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 10.6,
+  "EOS_Completed_Percentage": 10.58,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2116,6 +2116,11 @@
       "Time": "2023-08-03T15:08:48.0205281+00:00",
       "NumProgressed": 651,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-08-03T22:08:16.6694682+00:00",
+      "NumProgressed": 652,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 30,
@@ -2127,15 +2132,15 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "LEVEL_002",
       "SetID": "212bg48",
       "Name": "Promising crop",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 541
     },
     {
       "ID": "LEVEL_003",
@@ -2143,7 +2148,7 @@
       "Name": "A horse in the country",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "LEVEL_004",
@@ -2167,7 +2172,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "LEVEL_007",
@@ -2199,7 +2204,7 @@
       "Name": "Rocks around the island",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "LEVEL_011",
@@ -2229,9 +2234,9 @@
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 124
     },
     {
       "ID": "LEVEL_015",
@@ -2366,14 +2371,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 651,
+      "Progressed": 652,
       "Completed": 69
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-08-03T21:08:22.0623+00:00",
+  "LastChanged_Achievements": "2023-08-03T22:08:16.6694664+00:00",
   "LastUpdate_AppInfo": "2023-07-31T17:57:14.0464775+00:00",
-  "LastUpdate_Ratings": "2023-08-03T20:58:18.5406831+00:00",
-  "LastUpdate_Achievements": "2023-08-03T21:08:22.0623402+00:00"
+  "LastUpdate_Ratings": "2023-08-03T21:58:14.5128851+00:00",
+  "LastUpdate_Achievements": "2023-08-03T22:08:16.6695043+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3350,9 +3350,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10788,
+  "EOS_Progressed": 10789,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10080,6 +10080,11 @@
       "Time": "2023-08-03T19:03:27.3134178+00:00",
       "NumProgressed": 10788,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T22:03:40.7817171+00:00",
+      "NumProgressed": 10789,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10091,7 +10096,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2373
+      "UsersEstimate": 2374
     },
     {
       "ID": "02_BurningCity",
@@ -10339,7 +10344,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -11018,21 +11023,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9570,
+      "Progressed": 9571,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10788,
+      "Progressed": 10789,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-03T15:59:46.6893059+00:00",
-  "LastChanged_Achievements": "2023-08-03T21:03:42.4474915+00:00",
+  "LastChanged_Achievements": "2023-08-03T22:03:40.7817166+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-08-03T21:00:09.2160329+00:00",
-  "LastUpdate_Achievements": "2023-08-03T21:03:42.4477086+00:00"
+  "LastUpdate_Ratings": "2023-08-03T22:00:06.6747868+00:00",
+  "LastUpdate_Achievements": "2023-08-03T22:03:40.7819319+00:00"
 }

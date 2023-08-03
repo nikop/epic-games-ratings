@@ -33,21 +33,21 @@
 | Champion – starter pack | 53.00% | ~116 |
 | Employee of the year | 53.00% | ~116 |
 | Fight for life | 51.00% | ~112 |
-| Legal courier | 49.00% | ~107 |
-| Extreme neuropower! | 48.00% | ~105 |
+| Legal courier | 50.00% | ~110 |
+| Extreme neuropower! | 49.00% | ~107 |
 | Escaped from a big trouble | 47.00% | ~103 |
-| Now you are worthy | 45.00% | ~99 |
+| Now you are worthy | 46.00% | ~101 |
 | No blades in the gym | 43.00% | ~94 |
 | Guiding on the right path | 43.00% | ~94 |
 | Your own way | 43.00% | ~94 |
+| Fight is life | 42.00% | ~92 |
 | Mysterious voice | 42.00% | ~92 |
-| Fight is life | 41.00% | ~90 |
 | Underground dwellers | 37.00% | ~81 |
 | Get out of my apartment! | 36.00% | ~79 |
 | Responsible approach | 36.00% | ~79 |
+| GYM professional | 35.00% | ~77 |
 | Poisoned fighter | 35.00% | ~77 |
 | Deal with life | 34.00% | ~74 |
-| GYM professional | 34.00% | ~74 |
 | Champion – no way back | 34.00% | ~74 |
 | Seashell hunter | 34.00% | ~74 |
 | Mom got better | 32.00% | ~70 |

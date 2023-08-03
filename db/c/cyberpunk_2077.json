@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -9863,9 +9863,9 @@
       "Count": 5488
     }
   ],
-  "EOS_Progressed": 869091,
+  "EOS_Progressed": 869094,
   "EOS_Completed": 1930,
-  "EOS_NewPlayers": 1174,
+  "EOS_NewPlayers": 1170,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -21373,6 +21373,11 @@
       "Time": "2023-08-03T21:05:39.3860953+00:00",
       "NumProgressed": 869091,
       "NumCompleted": 1930
+    },
+    {
+      "Time": "2023-08-03T22:05:25.4873949+00:00",
+      "NumProgressed": 869094,
+      "NumCompleted": 1930
     }
   ],
   "TotalAchievements": 44,
@@ -21392,7 +21397,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 52145
+      "UsersEstimate": 52146
     },
     {
       "ID": "BushidoAndChill",
@@ -21408,7 +21413,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 156436
+      "UsersEstimate": 156437
     },
     {
       "ID": "Denied",
@@ -21416,7 +21421,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 338945
+      "UsersEstimate": 338947
     },
     {
       "ID": "FollowingTheRiver",
@@ -21504,7 +21509,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 199891
+      "UsersEstimate": 199892
     },
     {
       "ID": "MaxPain",
@@ -21528,7 +21533,7 @@
       "Name": "Breathtaking",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 69527
+      "UsersEstimate": 69528
     },
     {
       "ID": "NoMansLand",
@@ -21552,7 +21557,7 @@
       "Name": "Life of the Road",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 182509
+      "UsersEstimate": 182510
     },
     {
       "ID": "Roleplayer",
@@ -21560,7 +21565,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 243345
+      "UsersEstimate": 243346
     },
     {
       "ID": "Specialist",
@@ -21600,7 +21605,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 590982
+      "UsersEstimate": 590984
     },
     {
       "ID": "TheHermit",
@@ -21608,7 +21613,7 @@
       "Name": "The Hermit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 208582
+      "UsersEstimate": 208583
     },
     {
       "ID": "TheHightPriestess",
@@ -21616,7 +21621,7 @@
       "Name": "The High Priestess",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 191200
+      "UsersEstimate": 191201
     },
     {
       "ID": "TheLovers",
@@ -21624,7 +21629,7 @@
       "Name": "The Lovers",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 295491
+      "UsersEstimate": 295492
     },
     {
       "ID": "TheStar",
@@ -21632,7 +21637,7 @@
       "Name": "The Star",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 60836
+      "UsersEstimate": 60837
     },
     {
       "ID": "TheSun",
@@ -21640,7 +21645,7 @@
       "Name": "The Sun",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 52145
+      "UsersEstimate": 52146
     },
     {
       "ID": "TheWheelOfFortune",
@@ -21656,7 +21661,7 @@
       "Name": "The World",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 156436
+      "UsersEstimate": 156437
     },
     {
       "ID": "ThisIsPacifica",
@@ -21680,7 +21685,7 @@
       "Name": "True Soldier",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 199891
+      "UsersEstimate": 199892
     },
     {
       "ID": "TrueWarrior",
@@ -21728,22 +21733,22 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 191200
+      "UsersEstimate": 191201
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 869091,
+      "Progressed": 869094,
       "Completed": 1930
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-08-03T20:59:28.7614913+00:00",
-  "LastChanged_Achievements": "2023-08-03T21:05:39.3860947+00:00",
+  "LastChanged_Achievements": "2023-08-03T22:05:25.4873942+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.8722173+00:00",
-  "LastUpdate_Ratings": "2023-08-03T20:59:28.7614921+00:00",
-  "LastUpdate_Achievements": "2023-08-03T21:05:39.3862267+00:00"
+  "LastUpdate_Ratings": "2023-08-03T21:59:21.9112372+00:00",
+  "LastUpdate_Achievements": "2023-08-03T22:05:25.4875844+00:00"
 }

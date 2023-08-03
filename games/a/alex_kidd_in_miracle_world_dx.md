@@ -9,7 +9,7 @@
 | Assailants | 27.00% | ~72 |
 | Prisoner | 24.00% | ~64 |
 | First Commander | 20.00% | ~53 |
-| Adventurer | 19.00% | ~51 |
+| Adventurer | 20.00% | ~53 |
 | Second Commander | 18.00% | ~48 |
 | Third Commander | 15.00% | ~40 |
 | Janken The Great | 11.00% | ~29 |

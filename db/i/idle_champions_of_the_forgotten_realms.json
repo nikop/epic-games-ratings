@@ -5474,10 +5474,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30881,
       "NumberOfAwardsMax": 5116
+    },
+    {
+      "Time": "2023-08-03T21:59:40.9587959+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30886,
+      "NumberOfAwardsMax": 5116
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30881,
+  "NumberOfAwards": 30886,
   "NumberOfAwardsMax": 5116,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5515,7 +5521,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4047
+      "Count": 4052
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5524,9 +5530,9 @@
       "Count": 3338
     }
   ],
-  "EOS_Progressed": 218342,
+  "EOS_Progressed": 218370,
   "EOS_Completed": 2148,
-  "EOS_NewPlayers": 2219,
+  "EOS_NewPlayers": 2225,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16884,6 +16890,11 @@
       "Time": "2023-08-03T21:03:12.8671869+00:00",
       "NumProgressed": 218342,
       "NumCompleted": 2148
+    },
+    {
+      "Time": "2023-08-03T22:03:11.9288691+00:00",
+      "NumProgressed": 218370,
+      "NumCompleted": 2148
     }
   ],
   "TotalAchievements": 512,
@@ -16895,7 +16906,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8734
+      "UsersEstimate": 8735
     },
     {
       "ID": "objective_completed_10",
@@ -17063,7 +17074,7 @@
       "Name": "Hither of the Feywild",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "objective_completed_1066",
@@ -17199,7 +17210,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "objective_completed_1090",
@@ -17263,7 +17274,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6550
+      "UsersEstimate": 6551
     },
     {
       "ID": "objective_completed_110",
@@ -17271,7 +17282,7 @@
       "Name": "Wet Feet",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "objective_completed_1100",
@@ -17455,7 +17466,7 @@
       "Name": "Supply Run",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "objective_completed_1142",
@@ -17519,7 +17530,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "objective_completed_1153",
@@ -17527,7 +17538,7 @@
       "Name": "Speeds of Destruction",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "objective_completed_1154",
@@ -17567,7 +17578,7 @@
       "Name": "Best Thay Ever",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "objective_completed_1163",
@@ -17591,7 +17602,7 @@
       "Name": "A Demi-god\u0027s Defender",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "objective_completed_1168",
@@ -17631,7 +17642,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "objective_completed_1174",
@@ -17967,7 +17978,7 @@
       "Name": "No One Can Hear You Scream",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "objective_completed_1346",
@@ -17983,7 +17994,7 @@
       "Name": "Welcome to the Rock",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "objective_completed_1351",
@@ -20847,7 +20858,7 @@
       "Name": "Devilishly Cold",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "objective_completed_1215",
@@ -20927,7 +20938,7 @@
       "Name": "Luigi After Hours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "objective_completed_1380",
@@ -20943,7 +20954,7 @@
       "Name": "Electric Mayhem",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "objective_completed_1385",
@@ -20959,7 +20970,7 @@
       "Name": "3,720 to 1",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "objective_completed_1390",
@@ -20983,28 +20994,28 @@
       "Name": "Animated Giff",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184616,
+      "Progressed": 184644,
       "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218342,
+      "Progressed": 218370,
       "Completed": 2148
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-03T19:58:47.5322245+00:00",
-  "LastChanged_Achievements": "2023-08-03T21:03:12.8671863+00:00",
+  "LastChanged": "2023-08-03T21:59:40.9587957+00:00",
+  "LastChanged_Achievements": "2023-08-03T22:03:11.9288683+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-03T20:59:46.3460072+00:00",
-  "LastUpdate_Achievements": "2023-08-03T21:03:12.8700402+00:00"
+  "LastUpdate_Ratings": "2023-08-03T21:59:40.9587964+00:00",
+  "LastUpdate_Achievements": "2023-08-03T22:03:11.9330743+00:00"
 }

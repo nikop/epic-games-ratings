@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,734 |
-| Beast Intentions | 3.00% | ~6,550 |
+| A Brief Tour of the Realms | 4.00% | ~8,735 |
+| Beast Intentions | 3.00% | ~6,551 |
 | Maddening | 2.00% | ~4,367 |
-| The Silken Swamp | 1.00% | ~2,183 |
-| Supply Run | 1.00% | ~2,183 |
+| The Silken Swamp | 1.00% | ~2,184 |
+| Supply Run | 1.00% | ~2,184 |
 | Rocky Reception | 1.00% | ~1,846 |
 | Rock and Roll | 1.00% | ~1,846 |
 | Vecna Lives! | 0.90% | ~1,662 |
@@ -18,9 +18,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.80% | ~1,477 |
 | Vecna Loots! | 0.80% | ~1,477 |
 | Topolah's Tower | 0.80% | ~1,477 |
-| Wet Feet | 0.70% | ~1,528 |
-| Seeds of Destruction | 0.70% | ~1,292 |
-| Return to the Tomb | 0.70% | ~1,292 |
+| Wet Feet | 0.70% | ~1,529 |
+| Seeds of Destruction | 0.70% | ~1,293 |
+| Return to the Tomb | 0.70% | ~1,293 |
 | Pros and CONs | 0.60% | ~1,310 |
 | The Witchlight Carnival | 0.60% | ~1,108 |
 | Hatchlings Underfoot | 0.60% | ~1,310 |
@@ -57,15 +57,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.50% | ~923 |
 | Krux's Speed Run | 0.50% | ~923 |
 | Upholding the Law | 0.40% | ~873 |
-| Hither of the Feywild | 0.40% | ~738 |
-| Speeds of Destruction | 0.40% | ~738 |
+| Hither of the Feywild | 0.40% | ~739 |
+| Speeds of Destruction | 0.40% | ~739 |
 | On the Hunt | 0.40% | ~873 |
-| Best Thay Ever | 0.40% | ~738 |
-| A Demi-god's Defender | 0.40% | ~738 |
+| Best Thay Ever | 0.40% | ~739 |
+| A Demi-god's Defender | 0.40% | ~739 |
 | Homecoming | 0.40% | ~873 |
 | The Lost Heir of Omu | 0.40% | ~873 |
-| No One Can Hear You Scream | 0.40% | ~738 |
-| Welcome to the Rock | 0.40% | ~738 |
+| No One Can Hear You Scream | 0.40% | ~739 |
+| Welcome to the Rock | 0.40% | ~739 |
 | Wisdom Check | 0.40% | ~873 |
 | Family Entanglements | 0.40% | ~873 |
 | Tower on the Lake | 0.40% | ~873 |
@@ -81,11 +81,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.40% | ~873 |
 | Overdue Rendezvous | 0.40% | ~873 |
 | Pure Energy | 0.40% | ~873 |
-| Devilishly Cold | 0.40% | ~738 |
-| Luigi After Hours | 0.40% | ~738 |
-| Electric Mayhem | 0.40% | ~738 |
-| 3,720 to 1 | 0.40% | ~738 |
-| Animated Giff | 0.40% | ~738 |
+| Devilishly Cold | 0.40% | ~739 |
+| Luigi After Hours | 0.40% | ~739 |
+| Electric Mayhem | 0.40% | ~739 |
+| 3,720 to 1 | 0.40% | ~739 |
+| Animated Giff | 0.40% | ~739 |
 | Nightmare Rats! | 0.30% | ~554 |
 | The Prince of a Thousand Enemies | 0.30% | ~554 |
 | Downfall | 0.30% | ~554 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,342 (Ranked 53)  
+Progressed: 218,370 (Ranked 53)  
 Completed: 2,148 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -624,10 +624,10 @@ Completed: 2,148 (0.98%) (Ranked 112)
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
-| 2023-08-03 | 218,342 | 2,148 |
+| 2023-08-03 | 218,370 | 2,148 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
-Sum: 30,881 (Ranked 38)  
+Sum: 30,886 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -635,7 +635,7 @@ Diff (max vs sum): 29
 | This game is Great for Beginners | 5,055 |
 | This game has Quickly Understood Controls | 4,701 |
 | This game is Relaxing | 4,594 |
-| This game has Amazing Characters | 4,047 |
+| This game has Amazing Characters | 4,052 |
 | This game is Highly Recommended | 4,030 |
 | This game has Playful Visuals | 3,338 |
 ## Ratings History
@@ -830,4 +830,4 @@ Diff (max vs sum): 29
 | 2023-07-31 | 4.05 | - | 5,106 | 30,831 |
 | 2023-08-01 | 4.05 | - | 5,108 | 30,850 |
 | 2023-08-02 | 4.05 | - | 5,109 | 30,857 |
-| 2023-08-03 | 4.05 | - | 5,116 | 30,881 |
+| 2023-08-03 | 4.05 | - | 5,116 | 30,886 |

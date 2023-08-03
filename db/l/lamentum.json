@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -432,9 +432,9 @@
       "ID": "achievement_15",
       "SetID": "7881h0d",
       "Name": "My dear Magda",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_16",
@@ -473,8 +473,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-08-03T21:08:37.101665+00:00",
+  "LastChanged_Achievements": "2023-08-03T22:08:31.6496172+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:41.254733+00:00",
-  "LastUpdate_Ratings": "2023-08-03T20:59:15.4600758+00:00",
-  "LastUpdate_Achievements": "2023-08-03T21:08:37.1016846+00:00"
+  "LastUpdate_Ratings": "2023-08-03T21:59:10.1219492+00:00",
+  "LastUpdate_Achievements": "2023-08-03T22:08:31.6497223+00:00"
 }

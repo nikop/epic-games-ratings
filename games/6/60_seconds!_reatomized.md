@@ -11,7 +11,7 @@ Rating: 4.65 (Ranked 299)
 | Home, sweet home | 90.00% | ~4,366 |
 | Survivalist | 89.00% | ~4,317 |
 | One way ticket | 83.00% | ~4,026 |
-| Last man standing | 78.00% | ~3,784 |
+| Last man standing | 79.00% | ~3,832 |
 | Family guy | 76.00% | ~3,687 |
 | Out of the Bag | 74.00% | ~3,590 |
 | The Dark Side | 69.00% | ~3,347 |
@@ -21,7 +21,7 @@ Rating: 4.65 (Ranked 299)
 | 2-1-6 | 57.00% | ~2,765 |
 | A gift | 52.00% | ~2,523 |
 | Girl Power | 46.00% | ~2,231 |
-| What goes around... | 42.00% | ~2,037 |
+| What goes around... | 43.00% | ~2,086 |
 | Be Prepared | 36.00% | ~1,746 |
 | Unbreakable | 36.00% | ~1,746 |
 | This is the end | 33.00% | ~1,601 |

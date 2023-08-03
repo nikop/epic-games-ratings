@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 488,
+  "EOS_Progressed": 489,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -510,6 +510,11 @@
       "Time": "2023-08-03T15:03:57.2004154+00:00",
       "NumProgressed": 488,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-03T22:03:29.7164895+00:00",
+      "NumProgressed": 489,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -545,15 +550,15 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "Doors_Closing",
       "SetID": "ek310c",
       "Name": "Mind the Gap",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 59
     },
     {
       "ID": "Echoes",
@@ -641,7 +646,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "Leisurely_Strol",
@@ -657,7 +662,7 @@
       "Name": "Does Not Compute",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Misanthrope",
@@ -752,7 +757,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 488,
+      "Progressed": 489,
       "Completed": 5
     }
   ],
@@ -760,8 +765,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-08-03T21:03:31.5400031+00:00",
+  "LastChanged_Achievements": "2023-08-03T22:03:29.7164882+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:21.7155213+00:00",
-  "LastUpdate_Ratings": "2023-08-03T20:57:35.5705495+00:00",
-  "LastUpdate_Achievements": "2023-08-03T21:03:31.5400455+00:00"
+  "LastUpdate_Ratings": "2023-08-03T21:57:34.5639654+00:00",
+  "LastUpdate_Achievements": "2023-08-03T22:03:29.7165281+00:00"
 }

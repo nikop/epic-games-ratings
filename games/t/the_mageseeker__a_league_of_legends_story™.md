@@ -51,10 +51,10 @@ Rating: 4.81 (Ranked 76)
 | Call it 'redistribution of magic | 11.00% | ~275 |
 | Chains master | 10.00% | ~250 |
 | Truth is a dark mirror | 10.00% | ~250 |
+| You can pet the... horse | 10.00% | ~250 |
 | Back to sleep, then... | 10.00% | ~250 |
 | Do you trust me? | 9.00% | ~225 |
 | The great mage rebellion starts now | 9.00% | ~225 |
-| You can pet the... horse | 9.00% | ~225 |
 | Spellcrafting | 9.00% | ~225 |
 | Silverwing nest | 2.00% | ~50 |
 | The Unshackled | 0.80% | ~20 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -231,10 +231,10 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 198148,
-  "EOS_Completed": 474,
-  "EOS_NewPlayers": 645,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 198150,
+  "EOS_Completed": 475,
+  "EOS_NewPlayers": 639,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -11461,6 +11461,11 @@
       "Time": "2023-08-03T21:03:31.8473079+00:00",
       "NumProgressed": 198148,
       "NumCompleted": 474
+    },
+    {
+      "Time": "2023-08-03T22:03:29.9736397+00:00",
+      "NumProgressed": 198150,
+      "NumCompleted": 475
     }
   ],
   "TotalAchievements": 29,
@@ -11496,7 +11501,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 186259
+      "UsersEstimate": 186261
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -11512,7 +11517,7 @@
       "Name": "I hope you\u0027re ready.",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "ACHIEVEMENT_CARDS",
@@ -11552,7 +11557,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9907
+      "UsersEstimate": 9908
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -11632,7 +11637,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9907
+      "UsersEstimate": 9908
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -11672,7 +11677,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13870
+      "UsersEstimate": 13871
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -11703,16 +11708,16 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 198148,
-      "Completed": 474
+      "Progressed": 198150,
+      "Completed": 475
     }
   ],
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-07-27T20:00:18.65769+00:00",
-  "LastChanged_Achievements": "2023-08-03T21:03:31.8473072+00:00",
+  "LastChanged_Achievements": "2023-08-03T22:03:29.9736391+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:42.5561818+00:00",
-  "LastUpdate_Ratings": "2023-08-03T21:00:42.5724425+00:00",
-  "LastUpdate_Achievements": "2023-08-03T21:03:31.8474351+00:00"
+  "LastUpdate_Ratings": "2023-08-03T22:00:44.8145011+00:00",
+  "LastUpdate_Achievements": "2023-08-03T22:03:29.9738002+00:00"
 }
