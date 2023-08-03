@@ -75,8 +75,8 @@ Rating: 4.04 (Ranked 917)
 | Pokerface | 0.50% | ~9 |
 | Enchanting skill x5 | 0.40% | ~7 |
 | Ultimate War Machines | 0.40% | ~7 |
+| Angel Power | 0.30% | ~5 |
 | Conqueror | 0.30% | ~5 |
-| Angel Power | 0.20% | ~4 |
 | Jewel Enchanting | 0.20% | ~4 |
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |

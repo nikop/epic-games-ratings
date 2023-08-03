@@ -2,7 +2,7 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 787,
+  "Ranking_Rating": 788,
   "Ranking_Popularity": 310,
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 98,
@@ -205,9 +205,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 32444,
+  "EOS_Progressed": 32447,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 916,
+  "EOS_NewPlayers": 909,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11620,6 +11620,11 @@
       "Time": "2023-08-03T15:06:30.9663015+00:00",
       "NumProgressed": 32444,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-03T16:05:32.6486927+00:00",
+      "NumProgressed": 32447,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -11725,9 +11730,9 @@
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
       "SetID": "443p4o4",
       "Name": "Oh God, Mother! Blood! Blood!",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -11862,7 +11867,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 32444,
+      "Progressed": 32447,
       "Completed": 20
     }
   ],
@@ -11870,8 +11875,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-01T20:00:57.6814566+00:00",
-  "LastChanged_Achievements": "2023-08-03T15:06:30.966301+00:00",
+  "LastChanged_Achievements": "2023-08-03T16:05:32.6486921+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:53.1512382+00:00",
-  "LastUpdate_Ratings": "2023-08-03T15:02:49.3116482+00:00",
-  "LastUpdate_Achievements": "2023-08-03T15:06:30.9664609+00:00"
+  "LastUpdate_Ratings": "2023-08-03T16:01:26.7792154+00:00",
+  "LastUpdate_Achievements": "2023-08-03T16:05:32.6487622+00:00"
 }

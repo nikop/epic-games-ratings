@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 1.00% | ~133 |
 | Architect | 1.00% | ~133 |
 | Enlightened | 1.00% | ~133 |
+| Glorious | 1.00% | ~133 |
 | Good | 1.00% | ~133 |
 | Intrepid | 1.00% | ~133 |
 | Just | 1.00% | ~133 |
@@ -31,7 +32,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 1.00% | ~133 |
 | Poetic Leader | 1.00% | ~133 |
 | Ambitious | 0.90% | ~119 |
-| Glorious | 0.90% | ~119 |
 | Magnificent | 0.90% | ~119 |
 | Warrior | 0.90% | ~119 |
 | Developing Cities | 0.90% | ~119 |
@@ -92,6 +92,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.40% | ~53 |
 | Pantheon | 0.40% | ~53 |
 | Via Recta Souk | 0.40% | ~53 |
+| Learn to Play 3 | 0.40% | ~53 |
 | Carthage | 0.40% | ~53 |
 | Power to the People | 0.40% | ~53 |
 | Persian Paganism | 0.40% | ~53 |
@@ -114,7 +115,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.30% | ~40 |
 | Hagia Sophia | 0.30% | ~40 |
 | Church of the Holy Sepulchre | 0.30% | ~40 |
-| Learn to Play 3 | 0.30% | ~40 |
 | Babylonia | 0.30% | ~40 |
 | Rome | 0.30% | ~40 |
 | One True Faith | 0.30% | ~40 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,253 (Ranked 117)  
+Progressed: 13,255 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-07-31 | 13,209 | 5 |
 | 2023-08-01 | 13,228 | 5 |
 | 2023-08-02 | 13,244 | 5 |
-| 2023-08-03 | 13,253 | 5 |
+| 2023-08-03 | 13,255 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 263)  
 Sum: 1,786 (Ranked 206)  

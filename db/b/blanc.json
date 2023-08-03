@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2440,
+  "EOS_Progressed": 2441,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -2313,6 +2313,11 @@
       "Time": "2023-08-03T15:04:57.3290333+00:00",
       "NumProgressed": 2440,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-03T16:04:24.6065566+00:00",
+      "NumProgressed": 2441,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2346,9 +2351,9 @@
       "ID": "HELPING_LITTLE_ONES",
       "SetID": "1a29mp6",
       "Name": "Helping the little ones",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 268
+      "UsersEstimate": 293
     },
     {
       "ID": "MOVE_ON",
@@ -2362,9 +2367,9 @@
       "ID": "REUNION",
       "SetID": "1a29mp6",
       "Name": "Reunion",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 195
+      "UsersEstimate": 171
     },
     {
       "ID": "SLIDERS",
@@ -2388,7 +2393,7 @@
       "Name": "Starting as a duo",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -2427,7 +2432,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2440,
+      "Progressed": 2441,
       "Completed": 6
     }
   ],
@@ -2435,8 +2440,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-03T15:04:57.3290326+00:00",
+  "LastChanged_Achievements": "2023-08-03T16:04:24.6065561+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:06.4701918+00:00",
-  "LastUpdate_Ratings": "2023-08-03T15:01:45.1227491+00:00",
-  "LastUpdate_Achievements": "2023-08-03T15:04:57.3290762+00:00"
+  "LastUpdate_Ratings": "2023-08-03T16:00:41.4212452+00:00",
+  "LastUpdate_Achievements": "2023-08-03T16:04:24.6065745+00:00"
 }

@@ -64,13 +64,13 @@ Rating: 4.43 (Ranked 659)
 | Sight Beyond Sights | 0.30% | ~10 |
 | Best of the Best | 0.20% | ~7 |
 | Master of Secondaries | 0.20% | ~7 |
+| Master of Rifles | 0.20% | ~7 |
 | Führerious Repetition | 0.20% | ~7 |
 | Reich To The Point | 0.20% | ~7 |
 | Covert Elimination | 0.20% | ~7 |
 | Stroll in the Woods | 0.20% | ~7 |
 | Going Overboard | 0.20% | ~7 |
 | Master of Pistols | 0.10% | ~3 |
-| Master of Rifles | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
 | From Führer Away | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |

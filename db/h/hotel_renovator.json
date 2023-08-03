@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -92,9 +92,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 938,
+  "EOS_Progressed": 939,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.6,
   "EosHistory": [
@@ -1282,6 +1282,11 @@
       "Time": "2023-08-03T15:07:07.5128989+00:00",
       "NumProgressed": 938,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-03T16:05:58.6647307+00:00",
+      "NumProgressed": 939,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1307,9 +1312,9 @@
       "ID": "ACH_CHICKEN_ENCOUNTERED",
       "SetID": "7k95e4n",
       "Name": "Soulmate?",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -1317,7 +1322,7 @@
       "Name": "Roll with it",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -1325,7 +1330,7 @@
       "Name": "Kaboom",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -1349,7 +1354,7 @@
       "Name": "Broken heart",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -1405,7 +1410,7 @@
       "Name": "Hotel sleuthing",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_NEWSPAPER_ARTICLE",
@@ -1437,7 +1442,7 @@
       "Name": "Unstoppable",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_STAR_1",
@@ -1445,7 +1450,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "ACH_STAR_2",
@@ -1485,7 +1490,7 @@
       "Name": "Reunited",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_TIP_EARNED",
@@ -1508,7 +1513,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 938,
+      "Progressed": 939,
       "Completed": 15
     }
   ],
@@ -1516,8 +1521,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-29T09:57:37.1491908+00:00",
-  "LastChanged_Achievements": "2023-08-03T15:07:07.5128982+00:00",
+  "LastChanged_Achievements": "2023-08-03T16:05:58.6647302+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:54.1482303+00:00",
-  "LastUpdate_Ratings": "2023-08-03T14:58:29.8552789+00:00",
-  "LastUpdate_Achievements": "2023-08-03T15:07:07.5129437+00:00"
+  "LastUpdate_Ratings": "2023-08-03T15:58:20.5975629+00:00",
+  "LastUpdate_Achievements": "2023-08-03T16:05:58.6647552+00:00"
 }

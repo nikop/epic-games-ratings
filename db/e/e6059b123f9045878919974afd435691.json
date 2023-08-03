@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 657,
+  "EOS_Progressed": 658,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1351,6 +1351,11 @@
       "Time": "2023-08-03T08:06:50.6098724+00:00",
       "NumProgressed": 657,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T16:06:42.1714724+00:00",
+      "NumProgressed": 658,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1362,7 +1367,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1402,7 +1407,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1434,15 +1439,15 @@
       "Name": "Capraphobia",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "The Judge, the Jury and the ... Barkannan",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 20
     },
     {
       "ID": "BARK_ACHIEVEMENT_3",
@@ -1578,7 +1583,7 @@
       "Name": "Fire Alarm",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -1602,7 +1607,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -1610,7 +1615,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -1634,7 +1639,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -1642,7 +1647,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1682,7 +1687,7 @@
       "Name": "And There We Go",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -1810,7 +1815,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -1889,14 +1894,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 657,
+      "Progressed": 658,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-03T15:07:55.6527159+00:00",
+  "LastChanged_Achievements": "2023-08-03T16:06:42.1714719+00:00",
   "LastUpdate_AppInfo": "2023-08-03T14:57:17.7014877+00:00",
-  "LastUpdate_Ratings": "2023-08-03T14:57:59.2696885+00:00",
-  "LastUpdate_Achievements": "2023-08-03T15:07:55.6528547+00:00"
+  "LastUpdate_Ratings": "2023-08-03T15:57:56.817899+00:00",
+  "LastUpdate_Achievements": "2023-08-03T16:06:42.1715304+00:00"
 }

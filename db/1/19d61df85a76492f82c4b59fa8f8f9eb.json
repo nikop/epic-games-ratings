@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -1251,17 +1251,17 @@
       "ID": "CgkIgaGB2J0LEAIQAg",
       "SetID": "4ocea6d",
       "Name": "Viola Organista",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 165,
-      "UsersEstimate": 118
+      "UsersEstimate": 121
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
       "SetID": "4ocea6d",
       "Name": "Scythed Chariot",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 165,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -1290,8 +1290,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-03T15:07:16.616068+00:00",
+  "LastChanged_Achievements": "2023-08-03T16:06:15.0077993+00:00",
   "LastUpdate_AppInfo": "2023-08-03T14:57:18.1003103+00:00",
-  "LastUpdate_Ratings": "2023-08-03T14:58:05.0146033+00:00",
-  "LastUpdate_Achievements": "2023-08-03T15:07:16.6160938+00:00"
+  "LastUpdate_Ratings": "2023-08-03T15:58:00.1173012+00:00",
+  "LastUpdate_Achievements": "2023-08-03T16:06:15.0078108+00:00"
 }

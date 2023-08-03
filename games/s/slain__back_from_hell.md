@@ -1,7 +1,7 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.29 (Ranked 787)  
+Rating: 4.29 (Ranked 788)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,8 +24,8 @@ Rating: 4.29 (Ranked 787)
 | Start As You Mean To Go On | 0.60% | ~195 |
 | Hail the Great Horned Metal God! | 0.60% | ~195 |
 | That'll Come In Handy... | 0.60% | ~195 |
-| Oh God, Mother! Blood! Blood! | 0.50% | ~162 |
 | Four Legged Friend | 0.40% | ~130 |
+| Oh God, Mother! Blood! Blood! | 0.40% | ~130 |
 | Ice To See You | 0.40% | ~130 |
 | Smack My Imp Up | 0.40% | ~130 |
 | Vroll With It | 0.30% | ~97 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 787)
 | Too Metal For Magic | 0.10% | ~32 |
 | Heart Of Steel | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,444 (Ranked 98)  
+Progressed: 32,447 (Ranked 98)  
 Completed: 20 (0.06%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 20 (0.06%) (Ranked 207)
 | 2023-07-31 | 32,124 | 20 |
 | 2023-08-01 | 32,255 | 20 |
 | 2023-08-02 | 32,374 | 20 |
-| 2023-08-03 | 32,444 | 20 |
+| 2023-08-03 | 32,447 | 20 |
 ## Awards
 Max (Great Boss Battles): 126  (Ranked 310)  
 Sum: 126 (Ranked 402)  

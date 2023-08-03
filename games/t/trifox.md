@@ -27,8 +27,8 @@
 | Complete Level 3-2 | 10.00% | ~9 |
 | Engineer-warrior hybrid | 10.00% | ~9 |
 | Should have left me alone | 9.00% | ~8 |
+| Drink up | 9.00% | ~8 |
 | Mage-warrior hybrid | 9.00% | ~8 |
-| Drink up | 8.00% | ~7 |
 | Complete Level 3-3 | 8.00% | ~7 |
 | Party popper | 8.00% | ~7 |
 | Mage specialist | 7.00% | ~6 |

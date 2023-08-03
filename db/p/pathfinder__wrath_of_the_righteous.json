@@ -3270,10 +3270,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6866,
       "NumberOfAwardsMax": 1695
+    },
+    {
+      "Time": "2023-08-03T15:59:46.6893062+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6867,
+      "NumberOfAwardsMax": 1695
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6866,
+  "NumberOfAwards": 6867,
   "NumberOfAwardsMax": 1695,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3323,7 +3329,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 541
+      "Count": 542
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3344,7 +3350,7 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10783,
+  "EOS_Progressed": 10785,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
@@ -10059,6 +10065,11 @@
       "Time": "2023-08-03T14:02:34.5614111+00:00",
       "NumProgressed": 10783,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T16:03:40.3116998+00:00",
+      "NumProgressed": 10785,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10070,7 +10081,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2373
     },
     {
       "ID": "02_BurningCity",
@@ -10078,7 +10089,7 @@
       "Name": "Burning City",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -10110,7 +10121,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "07_FinalThreshold",
@@ -10158,7 +10169,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "13_PathOfLich",
@@ -10302,7 +10313,7 @@
       "Name": "Divide and Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "32_MythicReinforcements",
@@ -10310,7 +10321,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "33_DefendersHeart",
@@ -10438,7 +10449,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "49_Flame",
@@ -10454,7 +10465,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -10997,21 +11008,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9565,
+      "Progressed": 9567,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10783,
+      "Progressed": 10785,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-08-03T15:00:24.2073993+00:00",
-  "LastChanged_Achievements": "2023-08-03T15:04:09.0969989+00:00",
+  "LastChanged": "2023-08-03T15:59:46.6893059+00:00",
+  "LastChanged_Achievements": "2023-08-03T16:03:40.3116993+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-08-03T15:00:24.2074002+00:00",
-  "LastUpdate_Achievements": "2023-08-03T15:04:09.097387+00:00"
+  "LastUpdate_Ratings": "2023-08-03T15:59:46.6893068+00:00",
+  "LastUpdate_Achievements": "2023-08-03T16:03:40.3118567+00:00"
 }

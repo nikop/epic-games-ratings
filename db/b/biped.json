@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5007,
+  "EOS_Progressed": 5010,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7756,6 +7756,11 @@
       "Time": "2023-08-03T15:09:17.3787884+00:00",
       "NumProgressed": 5007,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T16:07:32.4429391+00:00",
+      "NumProgressed": 5010,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -7767,7 +7772,7 @@
       "Name": "First Step",
       "Percentage": 39,
       "XP": 45,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1954
     },
     {
       "ID": "10",
@@ -7823,7 +7828,7 @@
       "Name": "Dense Forest",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "3",
@@ -7837,9 +7842,9 @@
       "ID": "4",
       "SetID": "1dkhij4",
       "Name": "Rainy Ruins",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 651
+      "UsersEstimate": 701
     },
     {
       "ID": "5",
@@ -7863,7 +7868,7 @@
       "Name": "Blue Rapids",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "8",
@@ -7879,14 +7884,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 7,
       "XP": 65,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5007,
+      "Progressed": 5010,
       "Completed": 0
     }
   ],
@@ -7894,8 +7899,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-08-03T15:09:17.3787878+00:00",
+  "LastChanged_Achievements": "2023-08-03T16:07:32.4429386+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.1828699+00:00",
-  "LastUpdate_Ratings": "2023-08-03T14:59:46.1340543+00:00",
-  "LastUpdate_Achievements": "2023-08-03T15:09:17.378848+00:00"
+  "LastUpdate_Ratings": "2023-08-03T15:59:17.1365993+00:00",
+  "LastUpdate_Achievements": "2023-08-03T16:07:32.4429819+00:00"
 }

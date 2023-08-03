@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 449,
+  "EOS_Progressed": 450,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 18.26,
+  "EOS_Completed_Percentage": 18.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2168,6 +2168,11 @@
       "Time": "2023-08-03T14:04:22.3350461+00:00",
       "NumProgressed": 449,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-08-03T16:04:48.9529965+00:00",
+      "NumProgressed": 450,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 22,
@@ -2187,7 +2192,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "LEVEL_003",
@@ -2195,7 +2200,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "LEVEL_004",
@@ -2203,23 +2208,23 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 220
+      "UsersEstimate": 225
     },
     {
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 193
+      "UsersEstimate": 198
     },
     {
       "ID": "LEVEL_007",
@@ -2241,9 +2246,9 @@
       "ID": "LEVEL_009",
       "SetID": "3khpmem",
       "Name": "Who loves trains?",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 139
+      "UsersEstimate": 135
     },
     {
       "ID": "LEVEL_010",
@@ -2283,7 +2288,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "LEVEL_015",
@@ -2323,7 +2328,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "LEVEL_020",
@@ -2354,7 +2359,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 449,
+      "Progressed": 450,
       "Completed": 82
     }
   ],
@@ -2362,8 +2367,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-08-03T15:05:29.8244465+00:00",
+  "LastChanged_Achievements": "2023-08-03T16:04:48.952996+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:55.2732426+00:00",
-  "LastUpdate_Ratings": "2023-08-03T14:59:49.6787538+00:00",
-  "LastUpdate_Achievements": "2023-08-03T15:05:29.8244967+00:00"
+  "LastUpdate_Ratings": "2023-08-03T15:59:22.4767762+00:00",
+  "LastUpdate_Achievements": "2023-08-03T16:04:48.9530238+00:00"
 }

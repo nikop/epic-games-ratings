@@ -49,7 +49,7 @@
 | GYM professional | 34.00% | ~74 |
 | Champion – no way back | 34.00% | ~74 |
 | Poisoned fighter | 34.00% | ~74 |
-| Seashell hunter | 33.00% | ~72 |
+| Seashell hunter | 34.00% | ~74 |
 | Mom got better | 32.00% | ~69 |
 | The die is cast | 32.00% | ~69 |
 | Undercover robot | 31.00% | ~67 |

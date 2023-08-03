@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221,
+  "EOS_Progressed": 222,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -928,6 +928,11 @@
       "Time": "2023-08-02T19:04:52.4966368+00:00",
       "NumProgressed": 221,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T16:05:44.8139127+00:00",
+      "NumProgressed": 222,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -963,7 +968,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "achBett",
@@ -1139,7 +1144,7 @@
       "Name": "Fright \u2714",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achLizun",
@@ -1209,9 +1214,9 @@
       "ID": "achPolice",
       "SetID": "72gjli4",
       "Name": "Police officers \u2714",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 60
     },
     {
       "ID": "achPriest",
@@ -1291,7 +1296,7 @@
       "Name": "Mutation \u2714",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "achVip",
@@ -1315,7 +1320,7 @@
       "Name": "Thirst \u2714",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achWeapon",
@@ -1338,7 +1343,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 221,
+      "Progressed": 222,
       "Completed": 0
     }
   ],
@@ -1346,8 +1351,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-08-03T15:06:48.0150629+00:00",
+  "LastChanged_Achievements": "2023-08-03T16:05:44.8139122+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:15.9134787+00:00",
-  "LastUpdate_Ratings": "2023-08-03T15:03:13.4693353+00:00",
-  "LastUpdate_Achievements": "2023-08-03T15:06:48.0151153+00:00"
+  "LastUpdate_Ratings": "2023-08-03T16:01:45.5143029+00:00",
+  "LastUpdate_Achievements": "2023-08-03T16:05:44.8139517+00:00"
 }

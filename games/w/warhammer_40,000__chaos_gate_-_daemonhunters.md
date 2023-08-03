@@ -17,14 +17,14 @@ Number of Ratings: 371  (23.09.2022)
 | Bloodless | 1.00% | ~31 |
 | A Foul Creche | 1.00% | ~31 |
 | Surgical Excision | 0.90% | ~28 |
-| Honoured Battle-Brother | 0.70% | ~22 |
+| Honoured Battle-Brother | 0.80% | ~25 |
 | The Emperor Protects | 0.70% | ~22 |
 | Just a Scratch | 0.60% | ~19 |
+| Hold Your Ground | 0.50% | ~16 |
 | Nemesis Master | 0.50% | ~16 |
 | Gunmaster | 0.50% | ~16 |
 | Execution Force | 0.50% | ~16 |
 | Hive Exterminator | 0.50% | ~16 |
-| Hold Your Ground | 0.40% | ~12 |
 | Corruption Cleanser | 0.40% | ~12 |
 | Daemonkeeper | 0.30% | ~9 |
 | Mind Like a Fortress | 0.30% | ~9 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,117 (Ranked 153)  
+Progressed: 3,118 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-31 | 3,092 | 0 |
 | 2023-08-01 | 3,098 | 0 |
 | 2023-08-02 | 3,111 | 0 |
-| 2023-08-03 | 3,117 | 0 |
+| 2023-08-03 | 3,118 | 0 |
 ## Awards
 Max (Character Customization): 218  (Ranked 263)  
 Sum: 464 (Ranked 302)  

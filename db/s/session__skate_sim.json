@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2693,
+  "EOS_Progressed": 2695,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3823,6 +3823,11 @@
       "Time": "2023-08-03T08:03:21.2751872+00:00",
       "NumProgressed": 2693,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T16:03:46.2352524+00:00",
+      "NumProgressed": 2695,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3962,7 +3967,7 @@
       "Name": "Good vibes",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_HOARDER",
@@ -3978,7 +3983,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -3986,7 +3991,7 @@
       "Name": "Keeping it classy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -4050,7 +4055,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -4146,7 +4151,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -4154,7 +4159,7 @@
       "Name": "The hard way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -4186,7 +4191,7 @@
       "Name": "Upfront shredder",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -4210,22 +4215,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2693,
+      "Progressed": 2695,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-08-03T12:01:16.9190704+00:00",
-  "LastChanged_Achievements": "2023-08-03T15:04:17.1202664+00:00",
+  "LastChanged_Achievements": "2023-08-03T16:03:46.235252+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:59.3777566+00:00",
-  "LastUpdate_Ratings": "2023-08-03T15:01:33.3067461+00:00",
-  "LastUpdate_Achievements": "2023-08-03T15:04:17.1203693+00:00"
+  "LastUpdate_Ratings": "2023-08-03T16:00:32.3964466+00:00",
+  "LastUpdate_Achievements": "2023-08-03T16:03:46.2353+00:00"
 }

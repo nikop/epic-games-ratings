@@ -4356,9 +4356,9 @@
       "ID": "A42",
       "SetID": "9b7p7eo",
       "Name": "Bridge Builder",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 701
+      "UsersEstimate": 719
     },
     {
       "ID": "A43",
@@ -4469,8 +4469,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-31T01:57:43.9842724+00:00",
-  "LastChanged_Achievements": "2023-08-03T15:05:57.0249441+00:00",
+  "LastChanged_Achievements": "2023-08-03T16:05:08.5211716+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:59.7965927+00:00",
-  "LastUpdate_Ratings": "2023-08-03T14:59:55.2884553+00:00",
-  "LastUpdate_Achievements": "2023-08-03T15:05:57.02507+00:00"
+  "LastUpdate_Ratings": "2023-08-03T15:59:26.2505378+00:00",
+  "LastUpdate_Achievements": "2023-08-03T16:05:08.5212287+00:00"
 }

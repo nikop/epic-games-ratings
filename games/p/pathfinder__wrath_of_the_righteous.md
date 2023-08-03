@@ -6,9 +6,9 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 22.00% | ~2,372 |
-| A Spark | 16.00% | ~1,725 |
-| Burning City | 15.00% | ~1,617 |
+| Devoured by Darkness | 22.00% | ~2,373 |
+| A Spark | 16.00% | ~1,726 |
+| Burning City | 15.00% | ~1,618 |
 | Defender's Heart | 13.00% | ~1,402 |
 | Banner over the Citadel | 12.00% | ~1,294 |
 | Mythic Choices | 12.00% | ~1,294 |
@@ -26,11 +26,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 4.00% | ~431 |
 | Next-Door Play | 4.00% | ~431 |
 | Get the Toad | 4.00% | ~431 |
-| Heart of the Fallen Land | 3.00% | ~323 |
-| Path of the Trickster | 3.00% | ~323 |
-| Divide and Rule | 3.00% | ~323 |
-| Mythic Reinforcements | 3.00% | ~323 |
-| Hey, I Know You! | 3.00% | ~323 |
+| Heart of the Fallen Land | 3.00% | ~324 |
+| Path of the Trickster | 3.00% | ~324 |
+| Divide and Rule | 3.00% | ~324 |
+| Mythic Reinforcements | 3.00% | ~324 |
+| Hey, I Know You! | 3.00% | ~324 |
 | The Lady of the Forest | 3.00% | ~287 |
 | Beware Still Water | 3.00% | ~287 |
 | Path of the Aeon | 2.00% | ~216 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,783 (Ranked 120)  
+Progressed: 10,785 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,10 +228,10 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-31 | 10,721 | 0 |
 | 2023-08-01 | 10,749 | 0 |
 | 2023-08-02 | 10,767 | 0 |
-| 2023-08-03 | 10,783 | 0 |
+| 2023-08-03 | 10,785 | 0 |
 ## Awards
 Max (Character Customization): 1,695  (Ranked 117)  
-Sum: 6,866 (Ranked 113)  
+Sum: 6,867 (Ranked 113)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -243,7 +243,7 @@ Diff (max vs sum): 4
 | This game has Amazing Storytelling | 605 |
 | This game has Challenging Combat | 566 |
 | This game has Quickly Understood Controls | 563 |
-| This game is Relaxing | 541 |
+| This game is Relaxing | 542 |
 | This game has a Creative Community | 384 |
 | This game has Obsessive Gameplay | 364 |
 ## Ratings History
@@ -431,4 +431,4 @@ Diff (max vs sum): 4
 | 2023-07-30 | 4.76 | - | 1,694 | 6,860 |
 | 2023-08-01 | 4.76 | - | 1,695 | 6,863 |
 | 2023-08-02 | 4.76 | - | 1,695 | 6,864 |
-| 2023-08-03 | 4.76 | - | 1,695 | 6,866 |
+| 2023-08-03 | 4.76 | - | 1,695 | 6,867 |

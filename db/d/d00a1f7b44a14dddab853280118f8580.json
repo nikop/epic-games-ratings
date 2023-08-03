@@ -443,9 +443,9 @@
       "ID": "ach_skip_3",
       "SetID": "5e260i9",
       "Name": "Advance further!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_skip_5",
@@ -466,8 +466,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-08-03T15:03:53.3179049+00:00",
+  "LastChanged_Achievements": "2023-08-03T16:03:27.4126916+00:00",
   "LastUpdate_AppInfo": "2023-07-27T19:57:03.7416297+00:00",
-  "LastUpdate_Ratings": "2023-08-03T14:57:30.3039559+00:00",
-  "LastUpdate_Achievements": "2023-08-03T15:03:53.3179213+00:00"
+  "LastUpdate_Ratings": "2023-08-03T15:57:37.2877221+00:00",
+  "LastUpdate_Achievements": "2023-08-03T16:03:27.4127014+00:00"
 }
