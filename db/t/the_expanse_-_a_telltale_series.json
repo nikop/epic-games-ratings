@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3642,
+  "EOS_Progressed": 3662,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3640,
+  "EOS_NewPlayers": 3660,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -572,6 +572,11 @@
       "Time": "2023-08-03T02:31:41.5597776+00:00",
       "NumProgressed": 3642,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T03:05:35.6557398+00:00",
+      "NumProgressed": 3662,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -584,7 +589,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "10",
@@ -624,7 +629,7 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 583
+      "UsersEstimate": 586
     },
     {
       "ID": "15",
@@ -672,7 +677,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "20",
@@ -760,7 +765,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 549
     },
     {
       "ID": "30",
@@ -823,14 +828,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 3642,
+      "Progressed": 3662,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-03T02:31:41.5597769+00:00",
+  "LastChanged_Achievements": "2023-08-03T03:05:35.6557391+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:00.9603289+00:00",
-  "LastUpdate_Ratings": "2023-08-03T02:25:44.2619275+00:00",
-  "LastUpdate_Achievements": "2023-08-03T02:31:41.5598077+00:00"
+  "LastUpdate_Ratings": "2023-08-03T02:59:56.331046+00:00",
+  "LastUpdate_Achievements": "2023-08-03T03:05:35.6557631+00:00"
 }

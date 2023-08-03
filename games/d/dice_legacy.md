@@ -29,8 +29,8 @@ Rating: 4.27 (Ranked 805)
 | The Mad | 0.90% | ~9 |
 | Like the dream | 0.60% | ~6 |
 | Six Faces | 0.50% | ~5 |
+| The Great Winter | 0.50% | ~5 |
 | Charismatic Leader | 0.50% | ~5 |
-| The Great Winter | 0.40% | ~4 |
 | Metropolis | 0.40% | ~4 |
 | Red Tape | 0.30% | ~3 |
 | Knowledge is Power | 0.30% | ~3 |

@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119,
+  "EOS_Progressed": 120,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -481,6 +481,11 @@
       "Time": "2023-08-03T00:04:36.8457807+00:00",
       "NumProgressed": 119,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T03:04:34.8362297+00:00",
+      "NumProgressed": 120,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -653,7 +658,7 @@
       "Name": "The 4 Pillars",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -701,7 +706,7 @@
       "Name": "Capitalism",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -844,14 +849,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 119,
+      "Progressed": 120,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-08-03T02:30:16.9990859+00:00",
+  "LastChanged_Achievements": "2023-08-03T03:04:34.836229+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:38.0107995+00:00",
-  "LastUpdate_Ratings": "2023-08-03T02:25:09.624862+00:00",
-  "LastUpdate_Achievements": "2023-08-03T02:30:16.9991298+00:00"
+  "LastUpdate_Ratings": "2023-08-03T02:59:31.1148176+00:00",
+  "LastUpdate_Achievements": "2023-08-03T03:04:34.8362686+00:00"
 }

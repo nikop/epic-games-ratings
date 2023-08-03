@@ -190,9 +190,9 @@
       "ID": "ach_00_glove",
       "SetID": "16n29hg",
       "Name": "Fully Charged",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_01_defeatPing",
@@ -246,9 +246,9 @@
       "ID": "ach_07_foundHidden",
       "SetID": "16n29hg",
       "Name": "Hidden Corner",
-      "Percentage": 64,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_08_hpFrag3",
@@ -270,9 +270,9 @@
       "ID": "ach_10_scarvenger1",
       "SetID": "16n29hg",
       "Name": "Scavenger",
-      "Percentage": 61,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_11_scarvengerEA",
@@ -310,9 +310,9 @@
       "ID": "ach_15_breakTile100",
       "SetID": "16n29hg",
       "Name": "Destroyer",
-      "Percentage": 72,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_16_defeatPing3",
@@ -637,8 +637,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-08-03T02:31:09.39298+00:00",
+  "LastChanged_Achievements": "2023-08-03T03:05:12.825856+00:00",
   "LastUpdate_AppInfo": "2023-08-02T07:57:00.7319768+00:00",
-  "LastUpdate_Ratings": "2023-08-03T02:22:27.2037057+00:00",
-  "LastUpdate_Achievements": "2023-08-03T02:31:09.3930362+00:00"
+  "LastUpdate_Ratings": "2023-08-03T02:57:33.4005405+00:00",
+  "LastUpdate_Achievements": "2023-08-03T03:05:12.8259199+00:00"
 }

@@ -2852,9 +2852,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 50008,
+  "EOS_Progressed": 50009,
   "EOS_Completed": 217,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -9657,6 +9657,11 @@
       "Time": "2023-08-02T19:01:24.2500578+00:00",
       "NumProgressed": 50008,
       "NumCompleted": 217
+    },
+    {
+      "Time": "2023-08-03T03:03:15.3785794+00:00",
+      "NumProgressed": 50009,
+      "NumCompleted": 217
     }
   ],
   "TotalAchievements": 45,
@@ -9692,7 +9697,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39506
+      "UsersEstimate": 39507
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -9796,7 +9801,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 20003
+      "UsersEstimate": 20004
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -9932,7 +9937,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48508
+      "UsersEstimate": 48509
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -10004,7 +10009,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 26504
+      "UsersEstimate": 26505
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -10027,15 +10032,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 50008,
+      "Progressed": 50009,
       "Completed": 217
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-08-02T15:56:59.1520879+00:00",
-  "LastChanged_Achievements": "2023-08-03T02:28:05.7805934+00:00",
+  "LastChanged_Achievements": "2023-08-03T03:03:15.3785786+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:55.9032562+00:00",
-  "LastUpdate_Ratings": "2023-08-03T02:21:47.1051092+00:00",
-  "LastUpdate_Achievements": "2023-08-03T02:28:05.7807471+00:00"
+  "LastUpdate_Ratings": "2023-08-03T02:57:08.3170697+00:00",
+  "LastUpdate_Achievements": "2023-08-03T03:03:15.3786599+00:00"
 }

@@ -82,6 +82,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.40% | ~53 |
 | Statesmen | 0.40% | ~53 |
 | Traders | 0.40% | ~53 |
+| Hittite Iron | 0.40% | ~53 |
 | Temple of Solomon | 0.40% | ~53 |
 | Adur Burzen-Mihr | 0.40% | ~53 |
 | Via Recta Souk | 0.40% | ~53 |
@@ -102,7 +103,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.30% | ~40 |
 | Landowners | 0.30% | ~40 |
 | Riders | 0.30% | ~40 |
-| Hittite Iron | 0.30% | ~40 |
 | Circus Maximus | 0.30% | ~40 |
 | Hagia Sophia | 0.30% | ~40 |
 | Church of the Holy Sepulchre | 0.30% | ~40 |

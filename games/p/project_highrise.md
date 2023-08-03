@@ -10,10 +10,10 @@
 | Campaign Launch | 40.00% | ~125 |
 | Floor Galore | 39.00% | ~122 |
 | Dinner Dash | 39.00% | ~122 |
+| It's Technical | 36.00% | ~113 |
 | Need a Consult | 35.00% | ~110 |
 | Upgrade Unlock | 35.00% | ~110 |
-| It's Technical | 35.00% | ~110 |
-| Delegate Maintenance | 33.00% | ~103 |
+| Delegate Maintenance | 34.00% | ~106 |
 | Proper Walls | 31.00% | ~97 |
 | Destination Destiny | 29.00% | ~91 |
 | Happy Tenants | 25.00% | ~78 |

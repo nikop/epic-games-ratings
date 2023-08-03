@@ -17,14 +17,14 @@
 | True Story! | 44.00% | ~36 |
 | Bedroom Secret Spot | 38.00% | ~31 |
 | Kick It | 32.00% | ~26 |
-| Spooky | 28.00% | ~23 |
+| Spooky | 29.00% | ~24 |
 | Grand Slam! | 26.00% | ~21 |
 | Classroom Secret Spot | 24.00% | ~20 |
 | Save some water for the fishies | 23.00% | ~19 |
 | Have Mercy | 23.00% | ~19 |
+| Angry Dad | 22.00% | ~18 |
 | At least everyone still had fun | 22.00% | ~18 |
 | Bathroom Secret Spot | 21.00% | ~17 |
-| Angry Dad | 21.00% | ~17 |
 | Living Room Secret Spot | 20.00% | ~16 |
 | Hi Hungry, I'm Dad | 16.00% | ~13 |
 | Angry Mom | 15.00% | ~12 |
@@ -35,7 +35,7 @@
 | Found the Secret Formula! | 5.00% | ~4 |
 | Basement Secret Spot | 4.00% | ~3 |
 | Attic Secret Spot | 2.00% | ~2 |
-| Garage Secret Spot | 1.00% | ~1 |
+| Garage Secret Spot | 2.00% | ~2 |
 | Kickball Kup | 1.00% | ~1 |
 | Goooooooooal! | 1.00% | ~1 |
 | Backyard Secret Spot | 0.00% | ~0 |

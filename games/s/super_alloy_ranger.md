@@ -9,7 +9,7 @@
 | A Grand Show | 70.00% | ~37 |
 | Freshen Up | 58.00% | ~31 |
 | GG EZ | 57.00% | ~30 |
-| Hydrophobia | 40.00% | ~21 |
+| Hydrophobia | 42.00% | ~22 |
 | Ka-Ching! | 36.00% | ~19 |
 | Stop Right There | 34.00% | ~18 |
 | Get to the Point | 32.00% | ~17 |
@@ -26,6 +26,7 @@
 | The Fortress Conqueror | 6.00% | ~3 |
 | The Paradox Coordinate Conqueror | 6.00% | ~3 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~3 |
+| Rapidfire | 6.00% | ~3 |
 | Antaeus | 6.00% | ~3 |
 | Air Interception | 6.00% | ~3 |
 | Hell of a Fight | 6.00% | ~3 |
@@ -35,7 +36,6 @@
 | The Inactivated Frozen Conqueror | 4.00% | ~2 |
 | Death Bringer Conqueror | 4.00% | ~2 |
 | he Ultra Fortress Conqueror | 4.00% | ~2 |
-| Rapidfire | 4.00% | ~2 |
 | Break Through the Forbidden | 2.00% | ~1 |
 | Space Ranger: Prologue | 2.00% | ~1 |
 | Breaking the Limit | 2.00% | ~1 |

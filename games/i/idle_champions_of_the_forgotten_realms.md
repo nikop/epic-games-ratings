@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,723 |
-| Beast Intentions | 3.00% | ~6,542 |
+| Beast Intentions | 3.00% | ~6,543 |
 | Maddening | 2.00% | ~4,362 |
 | The Silken Swamp | 1.00% | ~2,181 |
 | Supply Run | 1.00% | ~2,181 |
@@ -19,20 +19,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flight of the Kindori Pod | 0.80% | ~1,475 |
 | Topolah's Tower | 0.80% | ~1,475 |
 | Wet Feet | 0.70% | ~1,527 |
-| Seeds of Destruction | 0.70% | ~1,290 |
-| Return to the Tomb | 0.70% | ~1,290 |
-| Pros and CONs | 0.60% | ~1,308 |
+| Seeds of Destruction | 0.70% | ~1,291 |
+| Return to the Tomb | 0.70% | ~1,291 |
+| Pros and CONs | 0.60% | ~1,309 |
 | The Witchlight Carnival | 0.60% | ~1,106 |
-| Hatchlings Underfoot | 0.60% | ~1,308 |
+| Hatchlings Underfoot | 0.60% | ~1,309 |
 | Heatwave | 0.60% | ~1,106 |
-| Were-verpowered | 0.60% | ~1,308 |
-| A Persistent Buzzing | 0.60% | ~1,308 |
-| Terror in the Dark | 0.60% | ~1,308 |
-| A Mysterious Summons | 0.60% | ~1,308 |
-| Building Trust | 0.60% | ~1,308 |
-| Unearthed Evil | 0.60% | ~1,308 |
-| The Cursed Farmer | 0.60% | ~1,308 |
-| The Mad Wizard | 0.60% | ~1,308 |
+| Were-verpowered | 0.60% | ~1,309 |
+| A Persistent Buzzing | 0.60% | ~1,309 |
+| Terror in the Dark | 0.60% | ~1,309 |
+| A Mysterious Summons | 0.60% | ~1,309 |
+| Building Trust | 0.60% | ~1,309 |
+| Unearthed Evil | 0.60% | ~1,309 |
+| The Cursed Farmer | 0.60% | ~1,309 |
+| The Mad Wizard | 0.60% | ~1,309 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,106 |
 | Thieves of the Coven | 0.50% | ~922 |
 | Don't Look Up! | 0.50% | ~1,090 |
@@ -116,6 +116,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimble Escape | 0.30% | ~654 |
 | Are Ya Chicken? | 0.30% | ~654 |
 | Useless Allies | 0.30% | ~654 |
+| Fugitives | 0.30% | ~654 |
 | Premature Betrayal | 0.30% | ~654 |
 | Mad Cow Disease | 0.30% | ~654 |
 | A Tale of Two Cities | 0.30% | ~654 |
@@ -187,7 +188,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Resolve | 0.20% | ~436 |
 | Flies on the Wall | 0.20% | ~436 |
 | Backtracking Through Barovia | 0.20% | ~436 |
-| Fugitives | 0.20% | ~436 |
 | Excavating History | 0.20% | ~436 |
 | Towering Expectations | 0.20% | ~436 |
 | Hopelessly Lost | 0.20% | ~436 |
@@ -225,6 +225,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Bleeding Citadel | 0.20% | ~369 |
 | Idyllglen | 0.20% | ~369 |
 | The Radiant Nightmare | 0.20% | ~369 |
+| Waiting on Sunrise | 0.20% | ~369 |
 | The Battle of High Hall Tower | 0.20% | ~369 |
 | The Haunted Jungle | 0.20% | ~436 |
 | Poor Guidance | 0.20% | ~436 |
@@ -469,7 +470,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Quick Thinking | 0.10% | ~184 |
 | Tough Acting | 0.10% | ~184 |
 | Witty Riposting | 0.10% | ~184 |
-| Waiting on Sunrise | 0.10% | ~184 |
 | Frontline Fighters | 0.10% | ~184 |
 | A Chilling Encounter | 0.10% | ~184 |
 | How Far Away is Thay | 0.10% | ~184 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,078 (Ranked 53)  
+Progressed: 218,084 (Ranked 53)  
 Completed: 2,147 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -624,7 +624,7 @@ Completed: 2,147 (0.98%) (Ranked 112)
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
-| 2023-08-03 | 218,078 | 2,147 |
+| 2023-08-03 | 218,084 | 2,147 |
 ## Awards
 Max (Diverse Characters): 5,109  (Ranked 67)  
 Sum: 30,857 (Ranked 38)  

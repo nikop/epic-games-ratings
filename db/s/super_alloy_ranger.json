@@ -511,9 +511,9 @@
       "ID": "Achi_29",
       "SetID": "51a97k7",
       "Name": "Rapidfire",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_30",
@@ -551,9 +551,9 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Achi_35",
@@ -696,8 +696,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-08-03T02:30:48.6922813+00:00",
+  "LastChanged_Achievements": "2023-08-03T03:04:57.9125336+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:49.9463353+00:00",
-  "LastUpdate_Ratings": "2023-08-03T02:26:56.1565068+00:00",
-  "LastUpdate_Achievements": "2023-08-03T02:30:48.6923252+00:00"
+  "LastUpdate_Ratings": "2023-08-03T03:00:41.8782941+00:00",
+  "LastUpdate_Achievements": "2023-08-03T03:04:57.912576+00:00"
 }

@@ -171,9 +171,9 @@
       "ID": "APATE",
       "SetID": "e4de54",
       "Name": "Apate",
-      "Percentage": 63,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "APHRODITE",
@@ -251,17 +251,17 @@
       "ID": "CAREFULNESS",
       "SetID": "e4de54",
       "Name": "Carefulness",
-      "Percentage": 53,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "COBWEB",
       "SetID": "e4de54",
       "Name": "Cobweb",
-      "Percentage": 63,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "DANGEROUS_MEDUSA",
@@ -466,8 +466,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-08-03T02:30:13.0417879+00:00",
+  "LastChanged_Achievements": "2023-08-03T03:04:31.7688902+00:00",
   "LastUpdate_AppInfo": "2023-07-28T21:57:00.7979866+00:00",
-  "LastUpdate_Ratings": "2023-08-03T02:22:07.756989+00:00",
-  "LastUpdate_Achievements": "2023-08-03T02:30:13.0418242+00:00"
+  "LastUpdate_Ratings": "2023-08-03T02:57:20.8825307+00:00",
+  "LastUpdate_Achievements": "2023-08-03T03:04:31.7689194+00:00"
 }

@@ -5,37 +5,37 @@ Rating: 4.76 (Ranked 117)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 10.00% | ~11,045 |
-| The Killing Jar | 8.00% | ~8,836 |
-| Expanding Horizons | 7.00% | ~7,732 |
-| Not Your Average Trait | 7.00% | ~7,732 |
-| Quest for Survival | 6.00% | ~6,627 |
-| Trait Chaser | 6.00% | ~6,627 |
-| Gleaming the Cube | 5.00% | ~5,523 |
-| Familiar Face | 5.00% | ~5,523 |
-| Boss'n Up | 5.00% | ~5,523 |
-| Not a Janitor | 4.00% | ~4,418 |
-| Equal Measures | 4.00% | ~4,418 |
-| Blue Goddess | 4.00% | ~4,418 |
-| Duality | 4.00% | ~4,418 |
-| Top Performer | 4.00% | ~4,418 |
-| Make Some Room | 4.00% | ~4,418 |
-| Good, But Could Be Better! | 4.00% | ~4,418 |
-| Chaos | 3.00% | ~3,314 |
-| Traitor | 3.00% | ~3,314 |
-| The God Gambit | 3.00% | ~3,314 |
-| Dark Designs | 3.00% | ~3,314 |
-| Not So Special Now | 3.00% | ~3,314 |
-| Shhh...It's a Secret | 3.00% | ~3,314 |
-| The Web | 3.00% | ~3,314 |
-| Almost There | 3.00% | ~3,314 |
-| Power Surge | 2.00% | ~2,209 |
-| Madman's Paradise | 2.00% | ~2,209 |
-| The Agenda | 2.00% | ~2,209 |
-| Bad Moon Rising | 2.00% | ~2,209 |
-| Was This Supposed To Happen? | 2.00% | ~2,209 |
-| Scrap Collector | 2.00% | ~2,209 |
-| All These Traits� | 2.00% | ~2,209 |
+| First of Many | 10.00% | ~11,053 |
+| The Killing Jar | 8.00% | ~8,843 |
+| Expanding Horizons | 7.00% | ~7,737 |
+| Not Your Average Trait | 7.00% | ~7,737 |
+| Quest for Survival | 6.00% | ~6,632 |
+| Trait Chaser | 6.00% | ~6,632 |
+| Gleaming the Cube | 5.00% | ~5,527 |
+| Familiar Face | 5.00% | ~5,527 |
+| Boss'n Up | 5.00% | ~5,527 |
+| Not a Janitor | 4.00% | ~4,421 |
+| Equal Measures | 4.00% | ~4,421 |
+| Blue Goddess | 4.00% | ~4,421 |
+| Duality | 4.00% | ~4,421 |
+| Top Performer | 4.00% | ~4,421 |
+| Make Some Room | 4.00% | ~4,421 |
+| Good, But Could Be Better! | 4.00% | ~4,421 |
+| Chaos | 3.00% | ~3,316 |
+| Traitor | 3.00% | ~3,316 |
+| The God Gambit | 3.00% | ~3,316 |
+| Dark Designs | 3.00% | ~3,316 |
+| Not So Special Now | 3.00% | ~3,316 |
+| Shhh...It's a Secret | 3.00% | ~3,316 |
+| The Web | 3.00% | ~3,316 |
+| Almost There | 3.00% | ~3,316 |
+| Power Surge | 2.00% | ~2,211 |
+| Madman's Paradise | 2.00% | ~2,211 |
+| The Agenda | 2.00% | ~2,211 |
+| Bad Moon Rising | 2.00% | ~2,211 |
+| Was This Supposed To Happen? | 2.00% | ~2,211 |
+| Scrap Collector | 2.00% | ~2,211 |
+| All These Traits� | 2.00% | ~2,211 |
 | Am I Seeing This? | 1.00% | ~1,105 |
 | Only Human | 1.00% | ~1,105 |
 | Forever is a Long Time Coming | 1.00% | ~1,105 |
@@ -47,16 +47,16 @@ Rating: 4.76 (Ranked 117)
 | No One Should Have All That Power | 1.00% | ~1,105 |
 | Transmutate | 1.00% | ~1,105 |
 | Maxed Out! | 0.80% | ~884 |
-| Carnage in C-Minor | 0.70% | ~773 |
+| Carnage in C-Minor | 0.70% | ~774 |
 | Scrap Hoarder | 0.60% | ~663 |
-| Ghost in the Machine | 0.50% | ~552 |
+| Ghost in the Machine | 0.50% | ~553 |
 | Crafty | 0.40% | ~442 |
-| The Collector | 0.30% | ~331 |
+| The Collector | 0.30% | ~332 |
 | The Trigger | 0.20% | ~221 |
 | Cutting Edge | 0.20% | ~221 |
-| Proving Grounds | 0.10% | ~110 |
+| Proving Grounds | 0.10% | ~111 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110,451 (Ranked 68)  
+Progressed: 110,533 (Ranked 68)  
 Completed: 3 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 3 (0.00%) (Ranked 247)
 | 2023-07-31 | 97,269 | 0 |
 | 2023-08-01 | 103,786 | 2 |
 | 2023-08-02 | 109,846 | 3 |
-| 2023-08-03 | 110,451 | 3 |
+| 2023-08-03 | 110,533 | 3 |
 ## Awards
 Max (Great Boss Battles): 204  (Ranked 271)  
 Sum: 204 (Ranked 364)  

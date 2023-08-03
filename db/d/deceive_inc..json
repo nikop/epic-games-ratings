@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16755,
+  "EOS_Progressed": 16756,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9250,
+  "EOS_NewPlayers": 9251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7103,6 +7103,11 @@
       "Time": "2023-08-03T02:29:29.120803+00:00",
       "NumProgressed": 16755,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-03T03:04:07.4111995+00:00",
+      "NumProgressed": 16756,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -7114,7 +7119,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5026
+      "UsersEstimate": 5027
     },
     {
       "ID": "0002",
@@ -7130,7 +7135,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2849
     },
     {
       "ID": "0004",
@@ -7218,7 +7223,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2849
     },
     {
       "ID": "0015",
@@ -7242,7 +7247,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3183
+      "UsersEstimate": 3184
     },
     {
       "ID": "0018",
@@ -7401,7 +7406,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 16755,
+      "Progressed": 16756,
       "Completed": 1
     }
   ],
@@ -7409,8 +7414,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-02T22:01:16.8257648+00:00",
-  "LastChanged_Achievements": "2023-08-03T02:29:29.1208021+00:00",
+  "LastChanged_Achievements": "2023-08-03T03:04:07.411199+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:28.2482926+00:00",
-  "LastUpdate_Ratings": "2023-08-03T02:26:28.0581315+00:00",
-  "LastUpdate_Achievements": "2023-08-03T02:29:29.1208842+00:00"
+  "LastUpdate_Ratings": "2023-08-03T03:00:25.3490459+00:00",
+  "LastUpdate_Achievements": "2023-08-03T03:04:07.4112678+00:00"
 }

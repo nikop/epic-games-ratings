@@ -5494,10 +5494,10 @@
       "Count": 3337
     }
   ],
-  "EOS_Progressed": 218078,
+  "EOS_Progressed": 218084,
   "EOS_Completed": 2147,
   "EOS_NewPlayers": 2222,
-  "EOS_NewCompleters": 25,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16764,6 +16764,11 @@
       "Time": "2023-08-03T02:30:35.4532255+00:00",
       "NumProgressed": 218078,
       "NumCompleted": 2147
+    },
+    {
+      "Time": "2023-08-03T03:04:48.7533615+00:00",
+      "NumProgressed": 218084,
+      "NumCompleted": 2147
     }
   ],
   "TotalAchievements": 512,
@@ -16791,7 +16796,7 @@
       "Name": "Pros and CONs",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "objective_completed_101",
@@ -17143,7 +17148,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6542
+      "UsersEstimate": 6543
     },
     {
       "ID": "objective_completed_110",
@@ -17207,7 +17212,7 @@
       "Name": "Hatchlings Underfoot",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "objective_completed_1111",
@@ -17399,7 +17404,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "objective_completed_1153",
@@ -17511,7 +17516,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "objective_completed_1174",
@@ -17639,7 +17644,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "objective_completed_1203",
@@ -17751,7 +17756,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "objective_completed_130",
@@ -17895,7 +17900,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "objective_completed_150",
@@ -17967,7 +17972,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "objective_completed_165",
@@ -17999,7 +18004,7 @@
       "Name": "Building Trust",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "objective_completed_17",
@@ -18103,7 +18108,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "objective_completed_20",
@@ -18447,7 +18452,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "objective_completed_34",
@@ -18669,9 +18674,9 @@
       "ID": "objective_completed_403",
       "SetID": "cc37lbc",
       "Name": "Fugitives",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 654
     },
     {
       "ID": "objective_completed_404",
@@ -19919,7 +19924,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "objective_completed_70",
@@ -20277,9 +20282,9 @@
       "ID": "objective_completed_852",
       "SetID": "415jc5c",
       "Name": "Waiting on Sunrise",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 369
     },
     {
       "ID": "objective_completed_853",
@@ -20870,21 +20875,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184352,
+      "Progressed": 184358,
       "Completed": 3052
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218078,
+      "Progressed": 218084,
       "Completed": 2147
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-02T14:59:51.4938579+00:00",
-  "LastChanged_Achievements": "2023-08-03T02:30:35.4532248+00:00",
+  "LastChanged_Achievements": "2023-08-03T03:04:48.753361+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-03T02:24:16.4169214+00:00",
-  "LastUpdate_Achievements": "2023-08-03T02:30:35.4562268+00:00"
+  "LastUpdate_Ratings": "2023-08-03T02:58:51.0435744+00:00",
+  "LastUpdate_Achievements": "2023-08-03T03:04:48.7560795+00:00"
 }
