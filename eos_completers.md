@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.15% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 43.90% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.27% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 31.25% |
@@ -30,7 +30,7 @@
 | 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.91% |
 | 29 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.70% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
-| 31 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.15% |
+| 31 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.06% |
 | 32 | [Smelter](games/s/smelter.md) | 7.69% |
 | 33 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.39% |
 | 34 | [Ravenlok](games/r/ravenlok.md) | 7.35% |
@@ -39,7 +39,7 @@
 | 37 | [Scorn](games/s/scorn.md) | 6.95% |
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.16% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.14% |
 | 41 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.00% |
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.29% |
 | 43 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
@@ -48,10 +48,10 @@
 | 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.82% |
 | 47 | [JARS](games/j/jars.md) | 4.76% |
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.73% |
-| 49 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
+| 49 | [Bugsnax](games/b/bugsnax.md) | 4.69% |
 | 50 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
-| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.38% |
-| 52 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.29% |
+| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.41% |
+| 52 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.28% |
 | 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.02% |
 | 54 | [Without Escape](games/w/without_escape.md) | 4.00% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.76% |
@@ -123,8 +123,8 @@
 | 121 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.67% |
 | 122 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 122 | [Haven](games/h/haven.md) | 0.66% |
-| 124 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 124 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.63% |
+| 125 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 126 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.61% |
 | 127 | [Potion Permit](games/p/potion_permit.md) | 0.59% |
 | 128 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.58% |
@@ -304,6 +304,7 @@
 | 247 | [Delivery from the Pain](games/d/delivery_from_the_pain.md) | 0.00% |
 | 247 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 0.00% |
 | 247 | [Dice Legacy](games/d/dice_legacy.md) | 0.00% |
+| 247 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.00% |
 | 247 | [Don't Byte Your Tongue](games/d/don't_byte_your_tongue.md) | 0.00% |
 | 247 | [Dungeon Drafters](games/d/dungeon_drafters.md) | 0.00% |
 | 247 | [Dungeon Knight](games/b/bb813cebe527480abb7d459661931369.md) | 0.00% |
