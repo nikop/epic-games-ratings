@@ -12,7 +12,7 @@
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 13 | [Island Cities](games/i/island_cities.md) | 18.26% |
+| 13 | [Island Cities](games/i/island_cities.md) | 18.22% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.02% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.68% |
 | 16 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 13.33% |
@@ -37,7 +37,7 @@
 | 35 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.02% |
 | 36 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 37 | [Scorn](games/s/scorn.md) | 6.94% |
-| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.40% |
+| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.36% |
 | 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 40 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 41 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.88% |
@@ -526,4 +526,4 @@
 | 247 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 247 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 247 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,993 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,994 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

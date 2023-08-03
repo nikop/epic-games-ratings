@@ -34,6 +34,7 @@
 | [The Many Pieces of Mr. Coo](games/t/the_many_pieces_of_mr._coo.md) | 2023-09-06 | - |  | - | - |
 | [Fae Farm Pre-Purchase](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | - |  | - | - |
 | [Dirty Wars: September 11](games/a/a3df291e5482464898a00f1ed892605f.md) | 2023-09-11 | - |  | - | - |
+| [Nour: Play with Your Food](games/n/nour__play_with_your_food.md) | 2023-09-12 | - |  | - | - |
 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 2023-09-14 | - |  | - | - |
 | [Ad Infinitum](games/a/ad_infinitum.md) | 2023-09-14 | 29 (1,000 XP) | 1 | - | - |
 | [Outlive](games/o/outlive.md) | 2023-09-14 | - |  | - | - |
@@ -397,7 +398,6 @@
 | [Frostpunk 2](games/f/frostpunk_2.md) | 2099-01-02 | - |  | - | - |
 | [GALAHAD 3093](games/g/galahad_3093.md) | 2099-01-02 | - |  | - | - |
 | [Homeworld 3](games/h/homeworld_3.md) | 2099-01-02 | - |  | - | - |
-| [Nour: Play with Your Food](games/n/nour__play_with_your_food.md) | 2099-01-02 | - |  | - | - |
 | [Read Only Memories: NEURODIVER](games/r/read_only_memories__neurodiver.md) | 2099-01-02 | - |  | - | - |
 | [REPLACED](games/r/replaced.md) | 2099-01-02 | - |  | - | - |
 | [Rollers of The Realm: Reunion](games/r/rollers_of_the_realm__reunion.md) | 2099-01-02 | - |  | - | - |
