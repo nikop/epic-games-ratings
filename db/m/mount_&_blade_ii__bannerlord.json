@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6031,10 +6031,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13950,
       "NumberOfAwardsMax": 6882
+    },
+    {
+      "Time": "2023-08-03T18:01:46.0281272+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13951,
+      "NumberOfAwardsMax": 6882
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13950,
+  "NumberOfAwards": 13951,
   "NumberOfAwardsMax": 6882,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6072,7 +6078,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 785
+      "Count": 786
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6111,7 +6117,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 58089,
+  "EOS_Progressed": 58090,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 988,
   "EOS_NewCompleters": 0,
@@ -17136,6 +17142,11 @@
       "Time": "2023-08-03T17:04:30.0540692+00:00",
       "NumProgressed": 58089,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T18:04:22.2567503+00:00",
+      "NumProgressed": 58090,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -17155,7 +17166,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 8713
+      "UsersEstimate": 8714
     },
     {
       "ID": "Bannerlord",
@@ -17315,7 +17326,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8713
+      "UsersEstimate": 8714
     },
     {
       "ID": "I spit on your grave",
@@ -17371,7 +17382,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18588
+      "UsersEstimate": 18589
     },
     {
       "ID": "Lawbringer",
@@ -17554,15 +17565,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 58089,
+      "Progressed": 58090,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-08-02T19:00:29.7632978+00:00",
-  "LastChanged_Achievements": "2023-08-03T17:04:30.0540686+00:00",
+  "LastChanged": "2023-08-03T18:01:46.028127+00:00",
+  "LastChanged_Achievements": "2023-08-03T18:04:22.2567494+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:33.2077536+00:00",
-  "LastUpdate_Ratings": "2023-08-03T17:01:54.5276275+00:00",
-  "LastUpdate_Achievements": "2023-08-03T17:04:30.0542629+00:00"
+  "LastUpdate_Ratings": "2023-08-03T18:01:46.0281277+00:00",
+  "LastUpdate_Achievements": "2023-08-03T18:04:22.2569499+00:00"
 }

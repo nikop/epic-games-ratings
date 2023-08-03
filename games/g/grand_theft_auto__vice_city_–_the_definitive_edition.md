@@ -5,22 +5,22 @@ Rating: 4.54 (Ranked 498)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 45.00% | ~4,288 |
-| Greasy Palms | 41.00% | ~3,907 |
-| South American Connection | 25.00% | ~2,382 |
-| Life of the Party | 20.00% | ~1,906 |
-| Tommy Two-Wheels | 15.00% | ~1,429 |
-| Big Heat from Little Havana | 14.00% | ~1,334 |
-| Chauffeur | 14.00% | ~1,334 |
-| Salutations My Little Friend | 11.00% | ~1,048 |
+| Legal Counsel | 45.00% | ~4,290 |
+| Greasy Palms | 41.00% | ~3,909 |
+| South American Connection | 25.00% | ~2,384 |
+| Life of the Party | 20.00% | ~1,907 |
+| Tommy Two-Wheels | 15.00% | ~1,430 |
+| Big Heat from Little Havana | 14.00% | ~1,335 |
+| Chauffeur | 14.00% | ~1,335 |
+| Salutations My Little Friend | 11.00% | ~1,049 |
 | Iron-y | 10.00% | ~953 |
 | Gun for Hire | 9.00% | ~858 |
-| Mischief Managed | 8.00% | ~762 |
+| Mischief Managed | 8.00% | ~763 |
 | Vice City Mogul | 6.00% | ~572 |
 | Catch Me if You Can | 6.00% | ~572 |
 | Bloodstained Hands | 6.00% | ~572 |
-| Not my First Time | 5.00% | ~476 |
-| Grand Theft Auto | 5.00% | ~476 |
+| Not my First Time | 5.00% | ~477 |
+| Grand Theft Auto | 5.00% | ~477 |
 | Pie Guy | 4.00% | ~381 |
 | Running Rampant | 3.00% | ~286 |
 | Point A to Point B | 3.00% | ~286 |
@@ -31,16 +31,16 @@ Rating: 4.54 (Ranked 498)
 | Don't Need Roads | 3.00% | ~286 |
 | One is Better Than Two | 2.00% | ~191 |
 | Take the Cannoli | 2.00% | ~191 |
-| Chopper’d Up | 2.00% | ~191 |
 | City Sleuth | 2.00% | ~191 |
 | Daredevil | 1.00% | ~95 |
+| Chopper’d Up | 1.00% | ~95 |
 | Born in the 80’s | 0.90% | ~86 |
 | Keepie-Uppy Okie Dokie | 0.90% | ~86 |
 | I'm Famous! | 0.90% | ~86 |
 | Done it All | 0.80% | ~76 |
 | Kingpin | 0.50% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,529 (Ranked 123)  
+Progressed: 9,534 (Ranked 123)  
 Completed: 44 (0.46%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 44 (0.46%) (Ranked 141)
 | 2023-07-31 | 9,415 | 43 |
 | 2023-08-01 | 9,454 | 44 |
 | 2023-08-02 | 9,497 | 44 |
-| 2023-08-03 | 9,529 | 44 |
+| 2023-08-03 | 9,534 | 44 |
 ## Awards
 Max (Great Boss Battles): 65  (Ranked 385)  
 Sum: 65 (Ranked 440)  

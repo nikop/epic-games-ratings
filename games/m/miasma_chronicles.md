@@ -5,21 +5,21 @@ Rating: 4.40 (Ranked 698)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,234 |
+| First Blood | 92.00% | ~1,235 |
 | Ranidaphobia | 77.00% | ~1,033 |
 | Aspiring Editor | 75.00% | ~1,006 |
 | Gun for Hire | 70.00% | ~939 |
 | I am the law! | 63.00% | ~845 |
-| Lumberjack | 52.00% | ~697 |
+| Lumberjack | 52.00% | ~698 |
 | Croaked | 48.00% | ~644 |
-| Limp Richard | 47.00% | ~630 |
-| From Darkness to Light | 47.00% | ~630 |
+| Limp Richard | 47.00% | ~631 |
+| From Darkness to Light | 47.00% | ~631 |
 | Editor Adept | 46.00% | ~617 |
 | Exorcist | 46.00% | ~617 |
 | Giant Killer | 44.00% | ~590 |
-| Sensei | 42.00% | ~563 |
+| Sensei | 42.00% | ~564 |
 | Firestarter | 41.00% | ~550 |
-| The meaning of Kain | 40.00% | ~536 |
+| The meaning of Kain | 40.00% | ~537 |
 | Technophobe | 39.00% | ~523 |
 | Recycler | 38.00% | ~510 |
 | Are you not entertained? | 33.00% | ~443 |
@@ -27,11 +27,11 @@ Rating: 4.40 (Ranked 698)
 | Jarhead | 33.00% | ~443 |
 | Infiltrator | 32.00% | ~429 |
 | Pushing Daisy | 31.00% | ~416 |
-| Experienced | 30.00% | ~402 |
-| Hold The Line | 28.00% | ~375 |
-| Endgame | 25.00% | ~335 |
-| Savior | 25.00% | ~335 |
-| There Can Be Only One! | 25.00% | ~335 |
+| Experienced | 30.00% | ~403 |
+| Hold The Line | 28.00% | ~376 |
+| Endgame | 25.00% | ~336 |
+| Savior | 25.00% | ~336 |
+| There Can Be Only One! | 25.00% | ~336 |
 | Chain Killer | 22.00% | ~295 |
 | The Watchers | 21.00% | ~282 |
 | Silent but Violent | 17.00% | ~228 |
@@ -45,7 +45,7 @@ Rating: 4.40 (Ranked 698)
 | Bot Whisperer | 8.00% | ~107 |
 | Curveball | 8.00% | ~107 |
 | Wipe Out | 7.00% | ~94 |
-| Dressed To Kill | 6.00% | ~80 |
+| Dressed To Kill | 6.00% | ~81 |
 | Master Editor | 4.00% | ~54 |
 | Attenborough | 3.00% | ~40 |
 | Cruelty | 3.00% | ~40 |
@@ -57,7 +57,7 @@ Rating: 4.40 (Ranked 698)
 | QA Has Suffered! (Redux) | 0.80% | ~11 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,341 (Ranked 184)  
+Progressed: 1,342 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-31 | 1,325 | 0 |
 | 2023-08-01 | 1,328 | 0 |
 | 2023-08-02 | 1,337 | 0 |
-| 2023-08-03 | 1,341 | 0 |
+| 2023-08-03 | 1,342 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,38 +1,38 @@
 # STAR WARS Jedi: Fallen Order Standard Edition
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-fallen-order)  
 [View Rawdata](../../db/s/star_wars_jedi__fallen_order_standard_edition.json)  
-Rating: 4.69 (Ranked 214)  
+Rating: 4.69 (Ranked 213)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 99.00% | ~1,063 |
+| The Mantis | 99.00% | ~1,064 |
 | A Long Time Ago | 94.00% | ~1,010 |
-| Sabersmith | 82.00% | ~881 |
-| The Obstacle is the Way | 81.00% | ~870 |
-| Back At You | 76.00% | ~816 |
+| Sabersmith | 82.00% | ~882 |
+| The Obstacle is the Way | 80.00% | ~860 |
+| Back At You | 76.00% | ~817 |
 | Happy Go Wookiee | 71.00% | ~763 |
-| Everything is Connected | 61.00% | ~655 |
+| Everything is Connected | 61.00% | ~656 |
 | Her Name Was Masana Tide | 54.00% | ~580 |
 | Bank Shot | 54.00% | ~580 |
-| Perfect Timing | 53.00% | ~569 |
-| Gorgara Falls | 49.00% | ~526 |
-| The Full Glow-Up | 49.00% | ~526 |
-| For A More Civilized Age | 45.00% | ~483 |
+| Perfect Timing | 53.00% | ~570 |
+| Gorgara Falls | 49.00% | ~527 |
+| The Full Glow-Up | 49.00% | ~527 |
+| For A More Civilized Age | 45.00% | ~484 |
 | Look Out Below | 43.00% | ~462 |
-| I Knew He Was No Good | 42.00% | ~451 |
-| Don't Mess with BD-1 | 41.00% | ~440 |
+| I Knew He Was No Good | 42.00% | ~452 |
+| Don't Mess with BD-1 | 41.00% | ~441 |
 | The Holocron Awaits | 40.00% | ~430 |
 | Scum and Villainy | 40.00% | ~430 |
-| Trust Only In The Force | 37.00% | ~397 |
+| Trust Only In The Force | 37.00% | ~398 |
 | Blade Master | 36.00% | ~387 |
-| Full House | 33.00% | ~354 |
+| Full House | 33.00% | ~355 |
 | Legendary Beasts | 23.00% | ~247 |
 | Echo Location | 20.00% | ~215 |
 | Visiting Alderaan Places | 17.00% | ~183 |
 | Cal Got Your Tongue? | 13.00% | ~140 |
 | Triple Take | 12.00% | ~129 |
 | Big Bang | 11.00% | ~118 |
-| Feel the Force | 10.00% | ~107 |
+| Feel the Force | 10.00% | ~108 |
 | Can't Touch This | 9.00% | ~97 |
 | Medical Droid | 8.00% | ~86 |
 | Data Collector | 7.00% | ~75 |
@@ -42,10 +42,10 @@ Rating: 4.69 (Ranked 214)
 | What Goes Around... | 3.00% | ~32 |
 | Green Thumb | 3.00% | ~32 |
 | A Galaxy Far, Far Away | 3.00% | ~32 |
-| Kicking Back | 2.00% | ~21 |
+| Kicking Back | 2.00% | ~22 |
 | Not So Fast | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,074 (Ranked 194)  
+Progressed: 1,075 (Ranked 194)  
 Completed: 5 (0.47%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 5 (0.47%) (Ranked 138)
 | 2023-07-31 | 194 | 1 |
 | 2023-08-01 | 754 | 5 |
 | 2023-08-02 | 1,067 | 5 |
-| 2023-08-03 | 1,074 | 5 |
+| 2023-08-03 | 1,075 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

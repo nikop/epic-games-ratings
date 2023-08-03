@@ -14,6 +14,7 @@ Rating: 4.87 (Ranked 24)
 | I play my own way! | 4.00% | ~148 |
 | You got this, Peppermint? | 4.00% | ~148 |
 | Perfect Parry | 4.00% | ~148 |
+| Uh, they were broken when I got here | 4.00% | ~148 |
 | Alright, that felt AWESOME! | 4.00% | ~148 |
 | NOW we got a kickass hideout! | 4.00% | ~89 |
 | This will cost you big time | 3.00% | ~111 |
@@ -26,14 +27,13 @@ Rating: 4.87 (Ranked 24)
 | Z-shielding's got nothing on us! | 3.00% | ~111 |
 | Out in a puff of smoke | 3.00% | ~111 |
 | Perfecter Parry-er! | 3.00% | ~111 |
-| Uh, they were broken when I got here | 3.00% | ~111 |
 | Kissing the sky! | 3.00% | ~111 |
+| I look cool. But I can look COOLER. | 3.00% | ~111 |
 | Does that say weakpoint? | 3.00% | ~111 |
 | Well that was a rush! | 2.00% | ~74 |
 | I have to read these things? | 2.00% | ~74 |
 | Beat-hit mania | 2.00% | ~74 |
 | That's a lot of junk metal… | 2.00% | ~74 |
-| I look cool. But I can look COOLER. | 2.00% | ~74 |
 | Chip-tuned | 1.00% | ~37 |
 | There's such a thing as TOO helpful | 1.00% | ~37 |
 | Wanna hear my playlist? | 1.00% | ~37 |

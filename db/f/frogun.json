@@ -4,8 +4,8 @@
   "ProductSlug": "frogun-9cf69e",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-02T14:00:00+00:00",
     "PcReleaseDate": "2022-08-02T14:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 219,
+  "EOS_Progressed": 220,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.83,
+  "EOS_Completed_Percentage": 1.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:55.639606+00:00",
@@ -172,6 +172,11 @@
       "Time": "2023-08-03T00:06:46.0602215+00:00",
       "NumProgressed": 219,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-03T18:08:18.9609386+00:00",
+      "NumProgressed": 220,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -183,7 +188,7 @@
       "Name": "Coin collector",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "Achievement_Beelzebub",
@@ -199,7 +204,7 @@
       "Name": "Treasure hunter",
       "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "Achievement_Hexy",
@@ -223,7 +228,7 @@
       "Name": "Survivalist",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Achievement_Notes",
@@ -231,7 +236,7 @@
       "Name": "Historian",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "Achievement_Prickly",
@@ -239,7 +244,7 @@
       "Name": "Prickly situation handler",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Achievement_Race1",
@@ -271,7 +276,7 @@
       "Name": "Challenge seeker",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "Achievement_TimeTrial",
@@ -279,15 +284,15 @@
       "Name": "Speedrunner",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Achievement_Wrintry",
       "SetID": "cn6a29l",
       "Name": "Snow digger",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "Achievement_arena",
@@ -333,9 +338,9 @@
       "ID": "Achievement_float",
       "SetID": "cn6a29l",
       "Name": "Floater",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 130
     },
     {
       "ID": "Achievement_hat",
@@ -343,7 +348,7 @@
       "Name": "Hat lover",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Achievement_healthup",
@@ -365,9 +370,9 @@
       "ID": "Achievement_hubworld",
       "SetID": "cn6a29l",
       "Name": "Hubworld fan",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "Achievement_mirrormatch",
@@ -430,7 +435,7 @@
     {
       "ID": "cn6a29l",
       "IsBase": true,
-      "Progressed": 219,
+      "Progressed": 220,
       "Completed": 4
     }
   ],
@@ -438,8 +443,8 @@
   "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00",
   "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
-  "LastChanged_Achievements": "2023-08-03T17:08:28.2330161+00:00",
+  "LastChanged_Achievements": "2023-08-03T18:08:18.9609378+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:44.776221+00:00",
-  "LastUpdate_Ratings": "2023-08-03T17:02:06.3146664+00:00",
-  "LastUpdate_Achievements": "2023-08-03T17:08:28.2330559+00:00"
+  "LastUpdate_Ratings": "2023-08-03T18:01:58.2781781+00:00",
+  "LastUpdate_Achievements": "2023-08-03T18:08:18.9609691+00:00"
 }

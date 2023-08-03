@@ -9,14 +9,14 @@
 | Capitalism | 18.00% | ~22 |
 | Indebted | 12.00% | ~15 |
 | Desert Rat | 10.00% | ~12 |
-| There's something in those trees | 7.00% | ~8 |
+| There's something in those trees | 8.00% | ~10 |
 | Good payer | 7.00% | ~8 |
 | Great Producer | 7.00% | ~8 |
 | Green Energy | 7.00% | ~8 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~7 |
+| Desert Power | 6.00% | ~7 |
 | Perfect Soldier | 5.00% | ~6 |
 | Health Care | 5.00% | ~6 |
-| Desert Power | 5.00% | ~6 |
 | Pathfinder | 5.00% | ~6 |
 | Ammo Tycoon | 5.00% | ~6 |
 | Outdoor Decorator | 4.00% | ~5 |

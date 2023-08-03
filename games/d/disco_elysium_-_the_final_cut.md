@@ -6,19 +6,19 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,124 |
-| Biggest Communism Builder | 24.00% | ~30,106 |
-| The World's Most Laughable Centrist | 20.00% | ~25,089 |
-| Il Coppo Del'Arte! | 18.00% | ~22,580 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,071 |
-| Hyperstellar Law Official | 15.00% | ~18,816 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,562 |
+| Goodest Of The Good Cops | 28.00% | ~35,126 |
+| Biggest Communism Builder | 24.00% | ~30,108 |
+| The World's Most Laughable Centrist | 20.00% | ~25,090 |
+| Il Coppo Del'Arte! | 18.00% | ~22,581 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,072 |
+| Hyperstellar Law Official | 15.00% | ~18,817 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,563 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,308 |
 | Gurdi-Ball Is Lit | 13.00% | ~16,308 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,799 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,290 |
-| Unbelievably Boring **** | 8.00% | ~10,035 |
-| Enemy Of The Physical Realm | 8.00% | ~10,035 |
+| Unbelievably Boring **** | 8.00% | ~10,036 |
+| Enemy Of The Physical Realm | 8.00% | ~10,036 |
 | Hardie's Heroes | 6.00% | ~7,527 |
 | The Lawbringer | 4.00% | ~5,018 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,018 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~125 |
 | What body? | 0.10% | ~125 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125,443 (Ranked 65)  
+Progressed: 125,449 (Ranked 65)  
 Completed: 27 (0.02%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 27 (0.02%) (Ranked 227)
 | 2023-07-31 | 125,017 | 27 |
 | 2023-08-01 | 125,145 | 27 |
 | 2023-08-02 | 125,322 | 27 |
-| 2023-08-03 | 125,443 | 27 |
+| 2023-08-03 | 125,449 | 27 |
 ## Awards
 Max (Character Customization): 714  (Ranked 162)  
 Sum: 1,076 (Ranked 233)  

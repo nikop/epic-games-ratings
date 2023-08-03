@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10190,
+  "EOS_Progressed": 10191,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1251,6 +1251,11 @@
       "Time": "2023-08-02T14:04:41.6100329+00:00",
       "NumProgressed": 10190,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-03T18:06:08.0203488+00:00",
+      "NumProgressed": 10191,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1302,7 +1307,7 @@
       "Name": "bicycle race",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "ACH_CAR_WASH",
@@ -1374,7 +1379,7 @@
       "Name": "rwd only",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -1422,7 +1427,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7846
+      "UsersEstimate": 7847
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1470,7 +1475,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5808
+      "UsersEstimate": 5809
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1486,7 +1491,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9782
+      "UsersEstimate": 9783
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1502,7 +1507,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6114
+      "UsersEstimate": 6115
     },
     {
       "ID": "ACH_NIGHT",
@@ -1582,7 +1587,7 @@
       "Name": "food tour: pasta",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "ACH_WEEKLY",
@@ -1598,22 +1603,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7337
+      "UsersEstimate": 7338
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10190,
+      "Progressed": 10191,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-08-03T17:06:16.9534224+00:00",
+  "LastChanged_Achievements": "2023-08-03T18:06:08.020348+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:04.5642141+00:00",
-  "LastUpdate_Ratings": "2023-08-03T16:58:36.8394297+00:00",
-  "LastUpdate_Achievements": "2023-08-03T17:06:16.9534903+00:00"
+  "LastUpdate_Ratings": "2023-08-03T17:58:30.9026347+00:00",
+  "LastUpdate_Achievements": "2023-08-03T18:06:08.0204152+00:00"
 }

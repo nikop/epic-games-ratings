@@ -21,8 +21,8 @@
 | I see the light! | 24.00% | ~86 |
 | In the Bag! | 24.00% | ~86 |
 | You're it | 24.00% | ~86 |
+| First Come, First Serve | 23.00% | ~82 |
 | Goodbye cruel world | 23.00% | ~82 |
-| First Come, First Serve | 22.00% | ~79 |
 | Disoriented | 22.00% | ~79 |
 | Take that Frosty! | 22.00% | ~79 |
 | Beach Party! | 22.00% | ~79 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-07-31T00:00:00+00:00",
     "PcReleaseDate": "2023-06-28T09:00:00+00:00",
@@ -25,9 +25,603 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-03T18:02:58.054518+00:00",
+  "TotalAchievements": 74,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ALL_BH",
+      "SetID": "6c20fo5",
+      "Name": "I know Kung-fu",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AP_10",
+      "SetID": "6c20fo5",
+      "Name": "Gutpiercer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AP_60",
+      "SetID": "6c20fo5",
+      "Name": "Armor? Doesn\u0027t matter!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARS_10",
+      "SetID": "6c20fo5",
+      "Name": "Quick hands",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARS_60",
+      "SetID": "6c20fo5",
+      "Name": "Always buffed, eh?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AR_250_Kills",
+      "SetID": "6c20fo5",
+      "Name": "Not such a trifle anymore",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AR_50_Kills",
+      "SetID": "6c20fo5",
+      "Name": "Assault Trifle",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AR_LAH_1",
+      "SetID": "6c20fo5",
+      "Name": "Last Action Hero - Rifle I",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AR_LAH_2",
+      "SetID": "6c20fo5",
+      "Name": "Last Action Hero - Rifle II",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AR_TNK_1",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - Rifle I",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AR_TNK_2",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - Rifle II",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AR_TNK_3",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - Rifle III",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AR_TNK_4",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - Rifle IV",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BH_10",
+      "SetID": "6c20fo5",
+      "Name": "Rhythm Hacker",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BH_60",
+      "SetID": "6c20fo5",
+      "Name": "Hack the planet!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CH_25",
+      "SetID": "6c20fo5",
+      "Name": "Beauty within",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CH_50",
+      "SetID": "6c20fo5",
+      "Name": "Collector",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DIE_10",
+      "SetID": "6c20fo5",
+      "Name": "Go easy on yourself!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DMGH_10",
+      "SetID": "6c20fo5",
+      "Name": "Sting like a bee",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DMGH_25",
+      "SetID": "6c20fo5",
+      "Name": "Remote work",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DRN_10",
+      "SetID": "6c20fo5",
+      "Name": "Spider Huntsman",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DRN_25",
+      "SetID": "6c20fo5",
+      "Name": "Arachnophile",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DSH",
+      "SetID": "6c20fo5",
+      "Name": "Dashing through the snow",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EB_10",
+      "SetID": "6c20fo5",
+      "Name": "Master Exploder",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EB_60",
+      "SetID": "6c20fo5",
+      "Name": "Splash Damage!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EMP_10",
+      "SetID": "6c20fo5",
+      "Name": "Shocked to death",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EMP_60",
+      "SetID": "6c20fo5",
+      "Name": "Electrocutor",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIN",
+      "SetID": "6c20fo5",
+      "Name": "Rodent was right!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HCK_5",
+      "SetID": "6c20fo5",
+      "Name": "Script kiddie",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IB_10",
+      "SetID": "6c20fo5",
+      "Name": "Dragonforce",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IB_60",
+      "SetID": "6c20fo5",
+      "Name": "Through the Fire and Flames",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LKR",
+      "SetID": "6c20fo5",
+      "Name": "Served on the rocks",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NTT",
+      "SetID": "6c20fo5",
+      "Name": "Down with the corporate!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PEN_10",
+      "SetID": "6c20fo5",
+      "Name": "Right through",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PEN_60",
+      "SetID": "6c20fo5",
+      "Name": "Hole in more than one",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RDNT",
+      "SetID": "6c20fo5",
+      "Name": "High-tech, Low life.",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RDNT_DRY",
+      "SetID": "6c20fo5",
+      "Name": "The truth will set you free",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RG_250_Kills",
+      "SetID": "6c20fo5",
+      "Name": "BFRailgun!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RG_50_Kills",
+      "SetID": "6c20fo5",
+      "Name": "Railed it!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RG_TNK_1",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - Railgun I",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RG_TNK_2",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - Railgun II",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RG_TNK_3",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - Railgun III",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RG_TNK_4",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - Railgun IV",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RLL",
+      "SetID": "6c20fo5",
+      "Name": "They see me rollin...",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Rev_250_Kills",
+      "SetID": "6c20fo5",
+      "Name": "Pistolero",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Rev_50_Kills",
+      "SetID": "6c20fo5",
+      "Name": "Big iron",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Rev_LAH_1",
+      "SetID": "6c20fo5",
+      "Name": "Last Action Hero - Revolver I",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Rev_LAH_2",
+      "SetID": "6c20fo5",
+      "Name": "Last Action Hero - Revolver II",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Rev_TNK_1",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - Revolver I",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Rev_TNK_2",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - Revolver II",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Rev_TNK_3",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - Revolver III",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Rev_TNK_4",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - Revolver IV",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SG_250_Kills",
+      "SetID": "6c20fo5",
+      "Name": "Rip and tear!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SG_50_Kills",
+      "SetID": "6c20fo5",
+      "Name": "Duck hunt",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SG_LAH_1",
+      "SetID": "6c20fo5",
+      "Name": "Last Action Hero - Shotgun I",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SG_LAH_2",
+      "SetID": "6c20fo5",
+      "Name": "Last Action Hero - Shotgun II",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SG_TNK_1",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - Shotgun I",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SG_TNK_2",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - Shotgun II",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SG_TNK_3",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - Shotgun III",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SG_TNK_4",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - Shotgun IV",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SHP",
+      "SetID": "6c20fo5",
+      "Name": "Shopping spree",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SLNC_10",
+      "SetID": "6c20fo5",
+      "Name": "Never knew what hit\u0027em",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SLNC_60",
+      "SetID": "6c20fo5",
+      "Name": "Silent killer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SMG_250_Kills",
+      "SetID": "6c20fo5",
+      "Name": "Super Machine Fun",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SMG_50_Kills",
+      "SetID": "6c20fo5",
+      "Name": "Machine Fun",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SMG_LAH_1",
+      "SetID": "6c20fo5",
+      "Name": "Last Action Hero - SMG I",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SMG_LAH_2",
+      "SetID": "6c20fo5",
+      "Name": "Last Action Hero - SMG II",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SMG_TNK_1",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - SMG I",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SMG_TNK_2",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - SMG II",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SMG_TNK_3",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - SMG III",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SMG_TNK_4",
+      "SetID": "6c20fo5",
+      "Name": "Tinkerer - SMG IV",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STN_10",
+      "SetID": "6c20fo5",
+      "Name": "Stunning Performance",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STN_25",
+      "SetID": "6c20fo5",
+      "Name": "Shocking!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TRP",
+      "SetID": "6c20fo5",
+      "Name": "High as a kite",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "6c20fo5",
@@ -37,8 +631,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-01T13:09:17.3833059+00:00",
-  "LastChanged_Achievements": "2023-08-03T17:03:06.669095+00:00",
+  "LastChanged_Achievements": "2023-08-03T18:02:58.0545153+00:00",
   "LastUpdate_AppInfo": "2023-07-31T18:57:17.5710575+00:00",
-  "LastUpdate_Ratings": "2023-08-03T16:57:30.7517427+00:00",
-  "LastUpdate_Achievements": "2023-08-03T17:03:06.6691001+00:00"
+  "LastUpdate_Ratings": "2023-08-03T17:57:23.7607846+00:00",
+  "LastUpdate_Achievements": "2023-08-03T18:02:58.1038127+00:00"
 }

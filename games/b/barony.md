@@ -5,8 +5,8 @@ Rating: 4.71 (Ranked 185)
 Number of Ratings: 763  (23.09.2022)  
 ## Awards
 Max (Challenging Combat): 74  (Ranked 369)  
-Sum: 510 (Ranked 297)  
-Diff (max vs sum): 72  
+Sum: 510 (Ranked 298)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 74 |

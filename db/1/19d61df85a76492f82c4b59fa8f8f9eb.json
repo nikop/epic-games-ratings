@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 276,
+  "EOS_Progressed": 277,
   "EOS_Completed": 24,
   "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 8.7,
+  "EOS_Completed_Percentage": 8.66,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1231,6 +1231,11 @@
       "Time": "2023-08-03T17:06:52.2825878+00:00",
       "NumProgressed": 276,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-08-03T18:06:43.0241602+00:00",
+      "NumProgressed": 277,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 6,
@@ -1240,9 +1245,9 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 175,
-      "UsersEstimate": 163
+      "UsersEstimate": 161
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -1258,7 +1263,7 @@
       "Name": "Viola Organista",
       "Percentage": 44,
       "XP": 165,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -1289,14 +1294,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 276,
+      "Progressed": 277,
       "Completed": 24
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-03T17:06:52.2825869+00:00",
+  "LastChanged_Achievements": "2023-08-03T18:06:43.0241592+00:00",
   "LastUpdate_AppInfo": "2023-08-03T14:57:18.1003103+00:00",
-  "LastUpdate_Ratings": "2023-08-03T16:57:50.1042694+00:00",
-  "LastUpdate_Achievements": "2023-08-03T17:06:52.2826133+00:00"
+  "LastUpdate_Ratings": "2023-08-03T17:57:43.950932+00:00",
+  "LastUpdate_Achievements": "2023-08-03T18:06:43.0241835+00:00"
 }

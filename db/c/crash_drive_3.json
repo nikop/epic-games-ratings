@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -467,9 +467,9 @@
       "ID": "FIND_THE_GAP",
       "SetID": "20koof9",
       "Name": "First Come, First Serve",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -804,8 +804,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-08-03T17:06:01.3290753+00:00",
+  "LastChanged_Achievements": "2023-08-03T18:05:52.6174949+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:38.9893142+00:00",
-  "LastUpdate_Ratings": "2023-08-03T17:00:32.6795423+00:00",
-  "LastUpdate_Achievements": "2023-08-03T17:06:01.3291459+00:00"
+  "LastUpdate_Ratings": "2023-08-03T18:00:29.7827204+00:00",
+  "LastUpdate_Achievements": "2023-08-03T18:05:52.617589+00:00"
 }

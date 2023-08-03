@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -5417,9 +5417,9 @@
       "ID": "Ach033",
       "SetID": "12n4k20",
       "Name": "Uh, they were broken when I got here",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 148
     },
     {
       "ID": "Ach034",
@@ -5489,9 +5489,9 @@
       "ID": "Ach042",
       "SetID": "12n4k20",
       "Name": "I look cool. But I can look COOLER.",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 111
     },
     {
       "ID": "Ach043",
@@ -5744,8 +5744,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-08-03T17:05:38.9947025+00:00",
+  "LastChanged_Achievements": "2023-08-03T18:05:31.0019639+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:25.5055416+00:00",
-  "LastUpdate_Ratings": "2023-08-03T17:00:14.3596918+00:00",
-  "LastUpdate_Achievements": "2023-08-03T17:05:38.994886+00:00"
+  "LastUpdate_Ratings": "2023-08-03T18:00:09.612649+00:00",
+  "LastUpdate_Achievements": "2023-08-03T18:05:31.0021557+00:00"
 }

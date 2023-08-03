@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fright ✔ | 57.00% | ~127 |
-| Chest ✔ | 55.00% | ~122 |
+| Chest ✔ | 55.00% | ~123 |
 | Inventory ✔ | 54.00% | ~120 |
 | Police officers ✔ | 27.00% | ~60 |
 | Mutation ✔ | 25.00% | ~56 |
 | Doberman ✔ | 14.00% | ~31 |
-| Chess ✔ | 11.00% | ~24 |
-| Weapon ✔ | 11.00% | ~24 |
+| Chess ✔ | 11.00% | ~25 |
+| Weapon ✔ | 11.00% | ~25 |
 | Survival ✔ | 9.00% | ~20 |
 | Master of Unlocking ✔ | 9.00% | ~20 |
 | Thirst ✔ | 7.00% | ~16 |
@@ -23,13 +23,13 @@
 | Food ✔ | 6.00% | ~13 |
 | Hospital ✔ | 6.00% | ~13 |
 | Fraternal help ✔ | 6.00% | ~13 |
-| Boss 1 ✔ | 5.00% | ~11 |
 | Brain ✔ | 5.00% | ~11 |
 | Eva ✔ | 5.00% | ~11 |
-| Mutant fight ✔ | 5.00% | ~11 |
 | King of survival ✔ | 5.00% | ~11 |
 | All secrets revealed ✔ | 5.00% | ~11 |
+| Boss 1 ✔ | 4.00% | ~9 |
 | Group Alpha ✔ | 4.00% | ~9 |
+| Mutant fight ✔ | 4.00% | ~9 |
 | Sheriff ✔ | 4.00% | ~9 |
 | City on fire ✔ | 4.00% | ~9 |
 | Infected ✔ | 4.00% | ~9 |
@@ -52,10 +52,10 @@
 | Exterminate pests ✔ | 0.90% | ~2 |
 | Hardcore ✔ | 0.90% | ~2 |
 | Speedrun ✔ | 0.90% | ~2 |
-| Seeker Two ✔ | 0.50% | ~1 |
-| Rank A+ ✔ | 0.50% | ~1 |
+| Seeker Two ✔ | 0.40% | ~1 |
+| Rank A+ ✔ | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222 (Ranked 275)  
+Progressed: 223 (Ranked 275)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-26 | 219 | 0 |
 | 2023-08-01 | 220 | 0 |
 | 2023-08-02 | 221 | 0 |
-| 2023-08-03 | 222 | 0 |
+| 2023-08-03 | 223 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

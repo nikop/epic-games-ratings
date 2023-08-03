@@ -406,7 +406,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7405,
+  "EOS_Progressed": 7406,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 1,
@@ -6856,6 +6856,11 @@
       "Time": "2023-08-03T16:06:23.7301284+00:00",
       "NumProgressed": 7405,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-03T18:06:55.4498444+00:00",
+      "NumProgressed": 7406,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 29,
@@ -6867,7 +6872,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6146
+      "UsersEstimate": 6147
     },
     {
       "ID": "ACH02",
@@ -6931,7 +6936,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "ACH10",
@@ -6939,7 +6944,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2073
+      "UsersEstimate": 2074
     },
     {
       "ID": "ACH11",
@@ -6987,7 +6992,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "ACH17",
@@ -7003,7 +7008,7 @@
       "Name": "Not So Fast",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "ACH19",
@@ -7059,7 +7064,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "ACH26",
@@ -7098,7 +7103,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7405,
+      "Progressed": 7406,
       "Completed": 42
     }
   ],
@@ -7106,8 +7111,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-01T02:03:47.9919957+00:00",
-  "LastChanged_Achievements": "2023-08-03T17:07:04.9798011+00:00",
+  "LastChanged_Achievements": "2023-08-03T18:06:55.4498433+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:45.6186895+00:00",
-  "LastUpdate_Ratings": "2023-08-03T16:59:16.630624+00:00",
-  "LastUpdate_Achievements": "2023-08-03T17:07:04.9799053+00:00"
+  "LastUpdate_Ratings": "2023-08-03T17:59:07.0964447+00:00",
+  "LastUpdate_Achievements": "2023-08-03T18:06:55.4499515+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "2c3af4f6ffce46e78bac85bcbe7bc11f",
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
-  "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Progress": 392,
+  "Ranking_EOS_Completed": 31,
+  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-04-17T15:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 23,
+  "EOS_Progressed": 24,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.7,
+  "EOS_Completed_Percentage": 8.33,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -149,6 +149,11 @@
       "Time": "2023-08-02T18:04:24.0658754+00:00",
       "NumProgressed": 23,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-03T18:04:38.2454502+00:00",
+      "NumProgressed": 24,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 26,
@@ -174,7 +179,7 @@
       "ID": "Bonus",
       "SetID": "6j29jep",
       "Name": "Something more...",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -182,7 +187,7 @@
       "ID": "Bonus_Fragile",
       "SetID": "6j29jep",
       "Name": "Something more... (fragile)",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -206,7 +211,7 @@
       "ID": "Cloud",
       "SetID": "6j29jep",
       "Name": "Something ever-changing...",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -246,7 +251,7 @@
       "ID": "Grass",
       "SetID": "6j29jep",
       "Name": "Something foundational...",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -278,7 +283,7 @@
       "ID": "Moon",
       "SetID": "6j29jep",
       "Name": "Something to make you dream...",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -294,7 +299,7 @@
       "ID": "Mountain",
       "SetID": "6j29jep",
       "Name": "Something monumental...",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -318,7 +323,7 @@
       "ID": "Star",
       "SetID": "6j29jep",
       "Name": "Something to long for...",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -334,7 +339,7 @@
       "ID": "Tree",
       "SetID": "6j29jep",
       "Name": "Something firmly rooted...",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -367,13 +372,13 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 23,
+      "Progressed": 24,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-08-03T17:04:45.9705519+00:00",
+  "LastChanged_Achievements": "2023-08-03T18:04:38.2454495+00:00",
   "LastUpdate_AppInfo": "2023-08-02T14:57:16.7657067+00:00",
-  "LastUpdate_Ratings": "2023-08-03T16:58:12.39627+00:00",
-  "LastUpdate_Achievements": "2023-08-03T17:04:45.9705877+00:00"
+  "LastUpdate_Ratings": "2023-08-03T17:58:02.7530865+00:00",
+  "LastUpdate_Achievements": "2023-08-03T18:04:38.2454852+00:00"
 }

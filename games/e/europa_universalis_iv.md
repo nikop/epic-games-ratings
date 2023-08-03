@@ -1,35 +1,35 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 214)  
+Rating: 4.69 (Ranked 213)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,992 |
-| That's a Grand Army | 8.00% | ~6,215 |
-| That is mine! | 8.00% | ~6,215 |
-| Victorious! | 8.00% | ~6,215 |
-| Brothers in Arms | 6.00% | ~4,661 |
-| That's a Grand Navy | 6.00% | ~4,661 |
-| Seriously?! | 6.00% | ~4,661 |
-| For the Glory | 5.00% | ~3,884 |
-| Cold War | 4.00% | ~3,107 |
-| True Catholic | 4.00% | ~3,107 |
-| Defender of the Faith | 3.00% | ~2,331 |
-| It's all about luck | 3.00% | ~2,331 |
-| It's all about the money | 3.00% | ~2,331 |
-| Respected | 3.00% | ~2,331 |
-| The Princess is in this Castle | 3.00% | ~2,331 |
-| Truly Divine Ruler | 3.00% | ~2,331 |
-| Agressive Expander | 2.00% | ~1,554 |
-| Blockader | 2.00% | ~1,554 |
-| Combined Arms | 2.00% | ~1,554 |
-| Double the Love | 2.00% | ~1,554 |
-| My armies are invincible! | 2.00% | ~1,554 |
-| Queen of Conquest | 2.00% | ~1,554 |
-| Royal Authority | 2.00% | ~1,554 |
-| Total Control | 2.00% | ~1,554 |
+| Until death do us apart | 9.00% | ~6,997 |
+| That's a Grand Army | 8.00% | ~6,220 |
+| That is mine! | 8.00% | ~6,220 |
+| Victorious! | 8.00% | ~6,220 |
+| Brothers in Arms | 6.00% | ~4,665 |
+| That's a Grand Navy | 6.00% | ~4,665 |
+| Seriously?! | 6.00% | ~4,665 |
+| For the Glory | 5.00% | ~3,887 |
+| Cold War | 4.00% | ~3,110 |
+| True Catholic | 4.00% | ~3,110 |
+| Defender of the Faith | 3.00% | ~2,332 |
+| It's all about luck | 3.00% | ~2,332 |
+| It's all about the money | 3.00% | ~2,332 |
+| Respected | 3.00% | ~2,332 |
+| The Princess is in this Castle | 3.00% | ~2,332 |
+| Truly Divine Ruler | 3.00% | ~2,332 |
+| Agressive Expander | 2.00% | ~1,555 |
+| Blockader | 2.00% | ~1,555 |
+| Combined Arms | 2.00% | ~1,555 |
+| Double the Love | 2.00% | ~1,555 |
+| My armies are invincible! | 2.00% | ~1,555 |
+| Queen of Conquest | 2.00% | ~1,555 |
+| Royal Authority | 2.00% | ~1,555 |
+| Total Control | 2.00% | ~1,555 |
 | All That's Thine Shall Be Mine | 1.00% | ~777 |
 | Azur semé de lis or | 1.00% | ~777 |
 | Bright Spark | 1.00% | ~777 |
@@ -40,10 +40,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~777 |
 | The Five Colonies | 1.00% | ~777 |
 | This navy can take it all | 1.00% | ~777 |
-| Down Under | 0.90% | ~699 |
-| Isn't this the way to India? | 0.90% | ~699 |
-| Market Control | 0.90% | ~699 |
-| Trustworthy | 0.90% | ~699 |
+| Down Under | 0.90% | ~700 |
+| Isn't this the way to India? | 0.90% | ~700 |
+| Market Control | 0.90% | ~700 |
+| Trustworthy | 0.90% | ~700 |
 | Electable! | 0.70% | ~544 |
 | Populists in Government | 0.70% | ~544 |
 | All belongs to Mother Russia | 0.60% | ~466 |
@@ -53,13 +53,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.60% | ~466 |
 | This is My Faith | 0.60% | ~466 |
 | Time Bandit | 0.60% | ~466 |
-| Absolutely | 0.50% | ~388 |
-| Early-Modern Warfare | 0.50% | ~388 |
-| Grand Coalition | 0.50% | ~388 |
-| In the Name of the Father | 0.50% | ~388 |
-| Live Long and Prosper | 0.50% | ~388 |
-| Trophy Hunter | 0.50% | ~388 |
-| Voting Streak | 0.50% | ~388 |
+| Absolutely | 0.50% | ~389 |
+| Early-Modern Warfare | 0.50% | ~389 |
+| Grand Coalition | 0.50% | ~389 |
+| In the Name of the Father | 0.50% | ~389 |
+| Live Long and Prosper | 0.50% | ~389 |
+| Trophy Hunter | 0.50% | ~389 |
+| Voting Streak | 0.50% | ~389 |
 | All Your Trade Are Belong to Us | 0.40% | ~311 |
 | Bleed Them Dry | 0.40% | ~311 |
 | Dude, Where's my Boat? | 0.40% | ~311 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,686 (Ranked 76)  
+Progressed: 77,746 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -466,7 +466,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-31 | 76,579 | 0 |
 | 2023-08-01 | 77,006 | 0 |
 | 2023-08-02 | 77,371 | 0 |
-| 2023-08-03 | 77,686 | 0 |
+| 2023-08-03 | 77,746 | 0 |
 ## Awards
 Max (Educational): 5,608  (Ranked 62)  
 Sum: 46,294 (Ranked 26)  

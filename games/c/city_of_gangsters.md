@@ -5,42 +5,42 @@ Rating: 4.26 (Ranked 813)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~153,919 |
-| Copacetic Coordination | 16.00% | ~53,537 |
-| Fronting the Money | 14.00% | ~46,845 |
-| The Dawn of Automation | 14.00% | ~46,845 |
-| Extraordinary Logistics | 14.00% | ~46,845 |
-| Dirty Money | 13.00% | ~43,499 |
-| Family First | 13.00% | ~43,499 |
-| Cleaning House | 12.00% | ~40,153 |
-| Room in the Back | 12.00% | ~40,153 |
-| Booze Baron | 11.00% | ~36,807 |
+| Corner Clout | 46.00% | ~153,922 |
+| Copacetic Coordination | 16.00% | ~53,538 |
+| Fronting the Money | 14.00% | ~46,846 |
+| The Dawn of Automation | 14.00% | ~46,846 |
+| Extraordinary Logistics | 14.00% | ~46,846 |
+| Dirty Money | 13.00% | ~43,500 |
+| Family First | 13.00% | ~43,500 |
+| Cleaning House | 12.00% | ~40,154 |
+| Room in the Back | 12.00% | ~40,154 |
+| Booze Baron | 11.00% | ~36,808 |
 | Beating the Heat | 10.00% | ~33,461 |
 | Friends on the Force | 10.00% | ~33,461 |
 | Neighborhood Watch | 10.00% | ~33,461 |
-| Core Corps | 8.00% | ~26,768 |
-| Sizeable Stash | 8.00% | ~26,768 |
-| Street Fighter | 7.00% | ~23,422 |
-| Friendly Gestures | 7.00% | ~23,422 |
-| People Person | 7.00% | ~23,422 |
-| Liquor Lord | 6.00% | ~20,076 |
-| Safety in Numbers | 6.00% | ~20,076 |
-| Show ‘em the Sugar | 6.00% | ~20,076 |
-| Killing Them Softly | 6.00% | ~20,076 |
-| Street Knowledge | 5.00% | ~16,730 |
-| Oh Captain | 5.00% | ~16,730 |
-| Branching Out | 5.00% | ~16,730 |
-| Improvement Missions | 5.00% | ~16,730 |
-| Opportunity Knocked | 5.00% | ~16,730 |
-| City of Big Shoulders | 5.00% | ~16,730 |
-| Moving Experiences | 5.00% | ~16,730 |
-| Mission Mastery | 5.00% | ~16,730 |
-| Wise Head | 5.00% | ~16,730 |
-| Considerable Clams | 4.00% | ~13,384 |
-| Gin Joint | 4.00% | ~13,384 |
-| An Affront to the Enemy | 4.00% | ~13,384 |
-| Friends from Back Home | 4.00% | ~13,384 |
-| Half Century Mark | 4.00% | ~13,384 |
+| Core Corps | 8.00% | ~26,769 |
+| Sizeable Stash | 8.00% | ~26,769 |
+| Street Fighter | 7.00% | ~23,423 |
+| Friendly Gestures | 7.00% | ~23,423 |
+| People Person | 7.00% | ~23,423 |
+| Liquor Lord | 6.00% | ~20,077 |
+| Safety in Numbers | 6.00% | ~20,077 |
+| Show ‘em the Sugar | 6.00% | ~20,077 |
+| Killing Them Softly | 6.00% | ~20,077 |
+| Street Knowledge | 5.00% | ~16,731 |
+| Oh Captain | 5.00% | ~16,731 |
+| Branching Out | 5.00% | ~16,731 |
+| Improvement Missions | 5.00% | ~16,731 |
+| Opportunity Knocked | 5.00% | ~16,731 |
+| City of Big Shoulders | 5.00% | ~16,731 |
+| Moving Experiences | 5.00% | ~16,731 |
+| Mission Mastery | 5.00% | ~16,731 |
+| Wise Head | 5.00% | ~16,731 |
+| Considerable Clams | 4.00% | ~13,385 |
+| Gin Joint | 4.00% | ~13,385 |
+| An Affront to the Enemy | 4.00% | ~13,385 |
+| Friends from Back Home | 4.00% | ~13,385 |
+| Half Century Mark | 4.00% | ~13,385 |
 | Corner Opportunities | 3.00% | ~10,038 |
 | 2122 North Clark Street | 3.00% | ~10,038 |
 | Copious Cabbage | 3.00% | ~10,038 |
@@ -59,8 +59,8 @@ Rating: 4.26 (Ranked 813)
 | Full House | 1.00% | ~3,346 |
 | The Rubber Meets the Road | 1.00% | ~3,346 |
 | Cat’s Meow Clubs | 1.00% | ~3,346 |
-| Determined Deliveries | 0.90% | ~3,011 |
-| Stepping It Up | 0.90% | ~3,011 |
+| Determined Deliveries | 0.90% | ~3,012 |
+| Stepping It Up | 0.90% | ~3,012 |
 | Crossing Over | 0.80% | ~2,677 |
 | Boots in the Ground | 0.70% | ~2,342 |
 | Getting Fancy | 0.70% | ~2,342 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 813)
 | High Pillow | 0.10% | ~335 |
 | Station Master | 0.10% | ~335 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 334,606 (Ranked 41)  
+Progressed: 334,614 (Ranked 41)  
 Completed: 6 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,14 +191,14 @@ Completed: 6 (0.00%) (Ranked 247)
 | 2023-07-31 | 334,025 | 5 |
 | 2023-08-01 | 334,233 | 6 |
 | 2023-08-02 | 334,475 | 6 |
-| 2023-08-03 | 334,606 | 6 |
+| 2023-08-03 | 334,614 | 6 |
 ## Awards
-Max (Highly Recommended): 28  (Ranked 465)  
-Sum: 125 (Ranked 403)  
-Diff (max vs sum): 62  
+Max (Highly Recommended): 29  (Ranked 461)  
+Sum: 126 (Ranked 402)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 28 |
+| This game is Highly Recommended | 29 |
 | This game is Relaxing | 27 |
 | This game is Extremely Fun | 25 |
 | This game has Quickly Understood Controls | 24 |
@@ -268,3 +268,4 @@ Diff (max vs sum): 62
 | 2023-07-23 | 4.26 | 27 | 122 |
 | 2023-07-29 | 4.26 | 28 | 124 |
 | 2023-08-01 | 4.26 | 28 | 125 |
+| 2023-08-03 | 4.26 | 29 | 126 |

@@ -6,7 +6,7 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~12,528 |
+| Sink Beneath the Waves | 36.00% | ~12,529 |
 | Sweet Sorrow | 18.00% | ~6,264 |
 | Rules the Waves | 17.00% | ~5,916 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,220 |
@@ -35,6 +35,7 @@ Number of Ratings: 401  (23.09.2022)
 | Frightful, sheer, no-man-fathomed | 1.00% | ~348 |
 | The Bell Tolls | 1.00% | ~348 |
 | His bones in whispers | 1.00% | ~348 |
+| The beauty of the deep | 1.00% | ~348 |
 | The dragon in the zee | 1.00% | ~348 |
 | Thanks for all the fish | 1.00% | ~348 |
 | Knife, Cup and Bone | 1.00% | ~348 |
@@ -43,7 +44,6 @@ Number of Ratings: 401  (23.09.2022)
 | Under the zee | 1.00% | ~348 |
 | A current under zee | 1.00% | ~348 |
 | Never Stop Sinking... | 0.90% | ~313 |
-| The beauty of the deep | 0.90% | ~313 |
 | Leviathan | 0.90% | ~313 |
 | No regrets | 0.90% | ~313 |
 | Depth charge | 0.90% | ~313 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~35 |
 | Ten Years at Zee | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,801 (Ranked 95)  
+Progressed: 34,802 (Ranked 95)  
 Completed: 3 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 3 (0.01%) (Ranked 234)
 | 2023-07-31 | 34,632 | 3 |
 | 2023-08-01 | 34,694 | 3 |
 | 2023-08-02 | 34,751 | 3 |
-| 2023-08-03 | 34,801 | 3 |
+| 2023-08-03 | 34,802 | 3 |
 ## Awards
 Max (Character Customization): 213  (Ranked 268)  
 Sum: 283 (Ranked 340)  

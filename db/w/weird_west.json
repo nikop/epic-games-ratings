@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -331,9 +331,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1776,
+  "EOS_Progressed": 1777,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1701,6 +1701,11 @@
       "Time": "2023-08-03T09:05:58.0445518+00:00",
       "NumProgressed": 1776,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-03T18:06:28.1426096+00:00",
+      "NumProgressed": 1777,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1792,7 +1797,7 @@
       "Name": "Full House",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -1960,7 +1965,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2040,7 +2045,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -2088,7 +2093,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2096,7 +2101,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2135,15 +2140,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1776,
+      "Progressed": 1777,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-02T19:59:24.9286429+00:00",
-  "LastChanged_Achievements": "2023-08-03T17:06:36.9120242+00:00",
+  "LastChanged_Achievements": "2023-08-03T18:06:28.1426086+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.150321+00:00",
-  "LastUpdate_Ratings": "2023-08-03T17:00:10.9738709+00:00",
-  "LastUpdate_Achievements": "2023-08-03T17:06:36.9121175+00:00"
+  "LastUpdate_Ratings": "2023-08-03T18:00:06.771127+00:00",
+  "LastUpdate_Achievements": "2023-08-03T18:06:28.1426783+00:00"
 }
