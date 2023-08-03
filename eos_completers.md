@@ -8,12 +8,12 @@
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 22.99% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
-| 9 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 19.39% |
+| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 20.41% |
+| 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
+| 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.43% |
-| 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.29% |
+| 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.13% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.02% |
 | 16 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 13.33% |
 | 17 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
@@ -50,14 +50,14 @@
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.73% |
 | 49 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 50 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
-| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.35% |
+| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.38% |
 | 52 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.29% |
 | 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.02% |
 | 54 | [Without Escape](games/w/without_escape.md) | 4.00% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.76% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.69% |
 | 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
-| 58 | [Doodle God](games/d/doodle_god.md) | 3.49% |
+| 58 | [Doodle God](games/d/doodle_god.md) | 3.48% |
 | 59 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 60 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.35% |
 | 61 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.29% |
