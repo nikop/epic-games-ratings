@@ -1,23 +1,23 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.23 (Ranked 836)  
+Rating: 4.24 (Ranked 828)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~344,293 |
-| Well educated | 37.00% | ~265,393 |
-| City Planner | 19.00% | ~136,283 |
-| Deforester | 17.00% | ~121,937 |
-| Big Hauling | 16.00% | ~114,764 |
-| Apprentice Manufacturer | 13.00% | ~93,246 |
-| Exporter | 13.00% | ~93,246 |
-| I would drive 500 tiles... | 12.00% | ~86,073 |
-| Landscaper | 12.00% | ~86,073 |
-| Railwayman | 7.00% | ~50,209 |
-| Penniless | 6.00% | ~43,037 |
-| Massive Gains | 6.00% | ~43,037 |
-| Salesman | 3.00% | ~21,518 |
+| Entrepreneur | 48.00% | ~344,303 |
+| Well educated | 37.00% | ~265,400 |
+| City Planner | 19.00% | ~136,287 |
+| Deforester | 17.00% | ~121,941 |
+| Big Hauling | 16.00% | ~114,768 |
+| Apprentice Manufacturer | 13.00% | ~93,249 |
+| Exporter | 13.00% | ~93,249 |
+| I would drive 500 tiles... | 12.00% | ~86,076 |
+| Landscaper | 12.00% | ~86,076 |
+| Railwayman | 7.00% | ~50,211 |
+| Penniless | 6.00% | ~43,038 |
+| Massive Gains | 6.00% | ~43,038 |
+| Salesman | 3.00% | ~21,519 |
 | Engineer | 2.00% | ~14,346 |
 | High Flyer | 2.00% | ~14,346 |
 | Captain | 0.80% | ~5,738 |
@@ -33,7 +33,7 @@ Rating: 4.23 (Ranked 836)
 | Master Builder | 0.10% | ~717 |
 | Hard working | 0.10% | ~717 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,278 (Ranked 19)  
+Progressed: 717,298 (Ranked 19)  
 Completed: 3 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 3 (0.00%) (Ranked 247)
 | 2023-07-31 | 716,335 | 3 |
 | 2023-08-01 | 716,746 | 3 |
 | 2023-08-02 | 717,174 | 3 |
-| 2023-08-03 | 717,278 | 3 |
+| 2023-08-03 | 717,298 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -175,3 +175,4 @@ Completed: 3 (0.00%) (Ranked 247)
 | 2023-06-02 | 4.23 | 0 | 0 |
 | 2023-06-22 | 4.24 | 0 | 0 |
 | 2023-06-24 | 4.23 | 0 | 0 |
+| 2023-08-03 | 4.24 | 0 | 0 |

@@ -2,7 +2,7 @@
   "ID": "4b9bd8b8a4804e088d3412062a4f0251",
   "Name": "Aeterna Noctis",
   "ProductSlug": "aeterna-noctis",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 368,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 527,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 21,
   "RatingHistory": [
     {
@@ -83,6 +83,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-03T09:02:01.0399668+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -109,9 +115,9 @@
   "FirstSeen": "2022-07-22T20:17:49.6622036+00:00",
   "FirstSeenRating": "2022-09-14T16:00:55.3418121+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.35812+00:00",
-  "LastChanged": "2023-07-04T22:59:55.4379089+00:00",
-  "LastChanged_Achievements": "2023-08-03T08:04:18.538306+00:00",
+  "LastChanged": "2023-08-03T09:02:01.0399665+00:00",
+  "LastChanged_Achievements": "2023-08-03T09:04:30.2777477+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:52.4935632+00:00",
-  "LastUpdate_Ratings": "2023-08-03T08:01:58.7556722+00:00",
-  "LastUpdate_Achievements": "2023-08-03T08:04:18.5383126+00:00"
+  "LastUpdate_Ratings": "2023-08-03T09:02:01.0399672+00:00",
+  "LastUpdate_Achievements": "2023-08-03T09:04:30.2777503+00:00"
 }

@@ -324,9 +324,9 @@
       "ID": "digTreasure10",
       "SetID": "ci65fo0",
       "Name": "Treasure hunter",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "drown",
@@ -796,9 +796,9 @@
       "ID": "questRedsBoss",
       "SetID": "ci65fo0",
       "Name": "The conqueror of the Reds",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "questReturnSun",
@@ -905,8 +905,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-03T08:03:25.2263534+00:00",
+  "LastChanged_Achievements": "2023-08-03T09:03:24.7854299+00:00",
   "LastUpdate_AppInfo": "2023-08-02T10:57:06.3883378+00:00",
-  "LastUpdate_Ratings": "2023-08-03T07:57:35.4511918+00:00",
-  "LastUpdate_Achievements": "2023-08-03T08:03:25.2264336+00:00"
+  "LastUpdate_Ratings": "2023-08-03T08:58:04.6066917+00:00",
+  "LastUpdate_Achievements": "2023-08-03T09:03:24.785515+00:00"
 }

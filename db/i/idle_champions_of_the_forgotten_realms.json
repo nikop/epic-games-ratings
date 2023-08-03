@@ -5456,10 +5456,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30864,
       "NumberOfAwardsMax": 5109
+    },
+    {
+      "Time": "2023-08-03T08:59:34.5945867+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30873,
+      "NumberOfAwardsMax": 5109
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30864,
+  "NumberOfAwards": 30873,
   "NumberOfAwardsMax": 5109,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5467,7 +5473,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5048
+      "Count": 5055
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5479,7 +5485,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4699
+      "Count": 4701
     },
     {
       "Text": "This game is Relaxing",
@@ -5506,9 +5512,9 @@
       "Count": 3338
     }
   ],
-  "EOS_Progressed": 218133,
+  "EOS_Progressed": 218142,
   "EOS_Completed": 2147,
-  "EOS_NewPlayers": 2222,
+  "EOS_NewPlayers": 2224,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16806,6 +16812,11 @@
       "Time": "2023-08-03T08:05:31.201046+00:00",
       "NumProgressed": 218133,
       "NumCompleted": 2147
+    },
+    {
+      "Time": "2023-08-03T09:05:31.638524+00:00",
+      "NumProgressed": 218142,
+      "NumCompleted": 2147
     }
   ],
   "TotalAchievements": 512,
@@ -16817,7 +16828,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8725
+      "UsersEstimate": 8726
     },
     {
       "ID": "objective_completed_10",
@@ -20912,21 +20923,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184407,
+      "Progressed": 184416,
       "Completed": 3053
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218133,
+      "Progressed": 218142,
       "Completed": 2147
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-03T05:58:58.7167763+00:00",
-  "LastChanged_Achievements": "2023-08-03T08:05:31.2010452+00:00",
+  "LastChanged": "2023-08-03T08:59:34.5945863+00:00",
+  "LastChanged_Achievements": "2023-08-03T09:05:31.6385233+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-03T07:59:22.2631691+00:00",
-  "LastUpdate_Achievements": "2023-08-03T08:05:31.2038122+00:00"
+  "LastUpdate_Ratings": "2023-08-03T08:59:34.5945872+00:00",
+  "LastUpdate_Achievements": "2023-08-03T09:05:31.6413458+00:00"
 }

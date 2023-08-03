@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good Start | 95.00% | ~218 |
-| Practice Makes Perfect | 84.00% | ~192 |
-| Creator of Life | 83.00% | ~190 |
-| Creator of Diversity | 70.00% | ~160 |
-| Similar to Similar | 69.00% | ~158 |
-| Creator of Humanity | 63.00% | ~144 |
+| Practice Makes Perfect | 84.00% | ~193 |
+| Creator of Life | 83.00% | ~191 |
+| Creator of Diversity | 70.00% | ~161 |
+| Similar to Similar | 69.00% | ~159 |
+| Creator of Humanity | 63.00% | ~145 |
 | Creator of Civilization | 38.00% | ~87 |
-| Creator of Technology | 24.00% | ~55 |
+| Creator of Technology | 23.00% | ~53 |
 | Honorable Santa | 23.00% | ~53 |
 | Creator of Modernity | 17.00% | ~39 |
 | God of Fun | 17.00% | ~39 |
@@ -27,8 +27,8 @@
 | Master of the Worlds | 6.00% | ~14 |
 | God of Patience | 3.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229 (Ranked 272)  
-Completed: 8 (3.49%) (Ranked 58)  
+Progressed: 230 (Ranked 272)  
+Completed: 8 (3.48%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,6 +63,7 @@ Completed: 8 (3.49%) (Ranked 58)
 | 2023-07-22 | 227 | 8 |
 | 2023-07-24 | 228 | 8 |
 | 2023-07-25 | 229 | 8 |
+| 2023-08-03 | 230 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

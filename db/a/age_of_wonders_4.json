@@ -5628,9 +5628,9 @@
       "ID": "12",
       "SetID": "3aa2279",
       "Name": "I\u0027ve Got Everything I Need Right Here",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 51
     },
     {
       "ID": "13",
@@ -6019,8 +6019,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-19T14:00:18.5966835+00:00",
-  "LastChanged_Achievements": "2023-08-03T08:05:35.3832406+00:00",
+  "LastChanged_Achievements": "2023-08-03T09:05:34.565094+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:09.0087451+00:00",
-  "LastUpdate_Ratings": "2023-08-03T08:01:14.0522281+00:00",
-  "LastUpdate_Achievements": "2023-08-03T08:05:35.3833239+00:00"
+  "LastUpdate_Ratings": "2023-08-03T09:01:15.5966211+00:00",
+  "LastUpdate_Achievements": "2023-08-03T09:05:34.5651764+00:00"
 }

@@ -1,22 +1,22 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.60 (Ranked 390)  
+Rating: 4.60 (Ranked 391)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,031 |
-| Mainframe Hacker | 23.00% | ~3,857 |
-| The Spy who eliminated me | 23.00% | ~3,857 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,032 |
+| Mainframe Hacker | 23.00% | ~3,858 |
+| The Spy who eliminated me | 23.00% | ~3,858 |
 | Tomorrow Never Dyes | 22.00% | ~3,690 |
-| Never Say Loser Again | 19.00% | ~3,186 |
+| Never Say Loser Again | 19.00% | ~3,187 |
 | From the Vault with Love | 18.00% | ~3,019 |
 | Tailor-Made | 18.00% | ~3,019 |
 | For your Eyes only | 18.00% | ~3,019 |
-| Assistant Accountant | 17.00% | ~2,851 |
-| Fully Decked Out | 17.00% | ~2,851 |
-| You Only Live Twice | 16.00% | ~2,683 |
-| A view to Win | 13.00% | ~2,180 |
+| Assistant Accountant | 17.00% | ~2,852 |
+| Fully Decked Out | 17.00% | ~2,852 |
+| You Only Live Twice | 16.00% | ~2,684 |
+| A view to Win | 13.00% | ~2,181 |
 | The Living Portrait | 12.00% | ~2,013 |
 | Private Collection | 12.00% | ~2,013 |
 | Killer Looks | 12.00% | ~2,013 |
@@ -42,7 +42,7 @@ Rating: 4.60 (Ranked 390)
 | Extraction Confusion | 0.20% | ~34 |
 | Spyfall | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,771 (Ranked 110)  
+Progressed: 16,774 (Ranked 110)  
 Completed: 1 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 1 (0.01%) (Ranked 234)
 | 2023-07-31 | 16,437 | 1 |
 | 2023-08-01 | 16,594 | 1 |
 | 2023-08-02 | 16,739 | 1 |
-| 2023-08-03 | 16,771 | 1 |
+| 2023-08-03 | 16,774 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

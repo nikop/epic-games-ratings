@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -331,9 +331,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1775,
+  "EOS_Progressed": 1776,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1696,6 +1696,11 @@
       "Time": "2023-08-03T01:58:04.7658043+00:00",
       "NumProgressed": 1775,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-03T09:05:58.0445518+00:00",
+      "NumProgressed": 1776,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1707,7 +1712,7 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -1715,7 +1720,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1819,7 +1824,7 @@
       "Name": "Healing Old Wounds",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_HERE_COMES_SANTA_CLAUS",
@@ -1859,7 +1864,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2003,7 +2008,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2083,7 +2088,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2107,7 +2112,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_WINDS_OF_WAR",
@@ -2130,15 +2135,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1775,
+      "Progressed": 1776,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-02T19:59:24.9286429+00:00",
-  "LastChanged_Achievements": "2023-08-03T08:06:03.3548538+00:00",
+  "LastChanged_Achievements": "2023-08-03T09:05:58.0445513+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.150321+00:00",
-  "LastUpdate_Ratings": "2023-08-03T07:59:54.2678221+00:00",
-  "LastUpdate_Achievements": "2023-08-03T08:06:03.3549108+00:00"
+  "LastUpdate_Ratings": "2023-08-03T08:59:59.0340467+00:00",
+  "LastUpdate_Achievements": "2023-08-03T09:05:58.044609+00:00"
 }

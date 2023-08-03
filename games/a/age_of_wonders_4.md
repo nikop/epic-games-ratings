@@ -41,11 +41,11 @@ Rating: 4.63 (Ranked 333)
 | Crimson Caldera | 2.00% | ~102 |
 | The Eternal Court | 2.00% | ~102 |
 | Duality | 2.00% | ~102 |
+| I've Got Everything I Need Right Here | 1.00% | ~51 |
 | Jack of All Tomes | 1.00% | ~51 |
 | Pruning for Progress | 1.00% | ~51 |
 | Grexolis | 1.00% | ~51 |
 | One for All, All for One | 1.00% | ~51 |
-| I've Got Everything I Need Right Here | 0.90% | ~46 |
 | Manufactured War | 0.70% | ~36 |
 | Snap Out of It! | 0.60% | ~30 |
 | I Want to Break Free | 0.30% | ~15 |

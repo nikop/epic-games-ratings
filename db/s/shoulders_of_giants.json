@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -1515,9 +1515,9 @@
       "ID": "save_planet",
       "SetID": "236b9eg",
       "Name": "Frogbot",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1601
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1572,8 +1572,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-08-03T08:02:41.061155+00:00",
+  "LastChanged_Achievements": "2023-08-03T09:02:37.0774091+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:16.3952227+00:00",
-  "LastUpdate_Ratings": "2023-08-03T08:02:23.0167152+00:00",
-  "LastUpdate_Achievements": "2023-08-03T08:02:41.0611831+00:00"
+  "LastUpdate_Ratings": "2023-08-03T09:02:23.5511704+00:00",
+  "LastUpdate_Achievements": "2023-08-03T09:02:37.077431+00:00"
 }

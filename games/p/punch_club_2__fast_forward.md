@@ -48,13 +48,13 @@
 | Deal with life | 35.00% | ~75 |
 | GYM professional | 35.00% | ~75 |
 | Champion – no way back | 35.00% | ~75 |
-| Poisoned fighter | 34.00% | ~72 |
+| Poisoned fighter | 35.00% | ~75 |
 | Seashell hunter | 34.00% | ~72 |
 | Mom got better | 33.00% | ~70 |
 | The die is cast | 33.00% | ~70 |
+| Gang wrangler | 31.00% | ~66 |
 | The last bell ring | 31.00% | ~66 |
 | Undercover robot | 31.00% | ~66 |
-| Gang wrangler | 30.00% | ~64 |
 | Problems of cyborgs | 30.00% | ~64 |
 | Not little hacker | 30.00% | ~64 |
 | Absolute Champion! | 30.00% | ~64 |

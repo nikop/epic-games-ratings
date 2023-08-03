@@ -568,9 +568,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 9505,
+  "EOS_Progressed": 9506,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7763,6 +7763,11 @@
       "Time": "2023-08-03T08:05:29.5810121+00:00",
       "NumProgressed": 9505,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-03T09:05:29.7135726+00:00",
+      "NumProgressed": 9506,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 34,
@@ -7790,7 +7795,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "ACH04",
@@ -7902,7 +7907,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "ACH18",
@@ -7934,7 +7939,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4277
+      "UsersEstimate": 4278
     },
     {
       "ID": "ACH22",
@@ -8045,7 +8050,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9505,
+      "Progressed": 9506,
       "Completed": 44
     }
   ],
@@ -8053,8 +8058,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-01T16:59:33.8335317+00:00",
-  "LastChanged_Achievements": "2023-08-03T08:05:29.5810117+00:00",
+  "LastChanged_Achievements": "2023-08-03T09:05:29.7135721+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-08-03T07:59:30.9503047+00:00",
-  "LastUpdate_Achievements": "2023-08-03T08:05:29.5810814+00:00"
+  "LastUpdate_Ratings": "2023-08-03T08:59:41.5892255+00:00",
+  "LastUpdate_Achievements": "2023-08-03T09:05:29.7136435+00:00"
 }

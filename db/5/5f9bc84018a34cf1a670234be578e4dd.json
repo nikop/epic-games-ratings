@@ -3,7 +3,7 @@
   "Name": "Access Denied Escape",
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 316,
-  "Ranking_EOS_Completed": 11,
+  "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 98,
-  "EOS_Completed": 19,
+  "EOS_Completed": 20,
   "EOS_NewPlayers": 96,
-  "EOS_NewCompleters": 19,
-  "EOS_Completed_Percentage": 19.39,
+  "EOS_NewCompleters": 20,
+  "EOS_Completed_Percentage": 20.41,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -421,6 +421,11 @@
       "Time": "2023-08-03T01:57:30.1309787+00:00",
       "NumProgressed": 98,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-08-03T09:05:22.3537451+00:00",
+      "NumProgressed": 98,
+      "NumCompleted": 20
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -431,9 +436,9 @@
       "ID": "AllSafes",
       "SetID": "7jbi7el",
       "Name": "Safe Cracker",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Batteries",
@@ -487,9 +492,9 @@
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "GasDeath",
@@ -535,9 +540,9 @@
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 80,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
@@ -545,13 +550,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 98,
-      "Completed": 19
+      "Completed": 20
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-03T08:05:20.4181148+00:00",
+  "LastChanged_Achievements": "2023-08-03T09:05:22.3537445+00:00",
   "LastUpdate_AppInfo": "2023-08-01T17:57:05.506677+00:00",
-  "LastUpdate_Ratings": "2023-08-03T07:57:20.8825104+00:00",
-  "LastUpdate_Achievements": "2023-08-03T08:05:20.41813+00:00"
+  "LastUpdate_Ratings": "2023-08-03T08:57:47.5224345+00:00",
+  "LastUpdate_Achievements": "2023-08-03T09:05:22.3537589+00:00"
 }

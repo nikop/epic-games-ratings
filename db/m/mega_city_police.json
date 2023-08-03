@@ -196,9 +196,9 @@
       "ID": "ACH_DEATH_1",
       "SetID": "a2aifpa",
       "Name": "Welcome to Mega City",
-      "Percentage": 100,
+      "Percentage": 104,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_DECAPITATE_50",
@@ -284,9 +284,9 @@
       "ID": "ACH_LEVEL_01",
       "SetID": "a2aifpa",
       "Name": "Law and Order",
-      "Percentage": 75,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_LEVEL_02",
@@ -377,8 +377,8 @@
   ],
   "FirstSeen": "2023-07-30T18:59:40.5539908+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2023-08-03T08:06:40.4420678+00:00",
+  "LastChanged_Achievements": "2023-08-03T09:06:38.4163118+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:40.3156912+00:00",
-  "LastUpdate_Ratings": "2023-08-03T08:00:23.4495166+00:00",
-  "LastUpdate_Achievements": "2023-08-03T08:06:40.4420869+00:00"
+  "LastUpdate_Ratings": "2023-08-03T09:00:30.8220018+00:00",
+  "LastUpdate_Achievements": "2023-08-03T09:06:38.4163301+00:00"
 }

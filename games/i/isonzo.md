@@ -8,20 +8,20 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Peak Performance | 55.00% | ~3,610 |
 | Tutti Eroi! | 55.00% | ~3,610 |
-| You Shall Not Pass | 53.00% | ~3,478 |
+| You Shall Not Pass | 53.00% | ~3,479 |
 | Avanti Savoia! | 47.00% | ~3,085 |
-| Mamma Mia! | 37.00% | ~2,428 |
+| Mamma Mia! | 37.00% | ~2,429 |
 | Conrad von Hotzensocks | 36.00% | ~2,363 |
 | Gabriele D'Annunzio | 33.00% | ~2,166 |
-| Silver Lining | 29.00% | ~1,903 |
-| Aurelio Baruzzi | 23.00% | ~1,509 |
+| Silver Lining | 29.00% | ~1,904 |
+| Aurelio Baruzzi | 23.00% | ~1,510 |
 | Veni Vidi Vici | 22.00% | ~1,444 |
 | Decimation | 21.00% | ~1,378 |
 | Donatello | 21.00% | ~1,378 |
 | Insubordination | 20.00% | ~1,313 |
 | The Italian Job | 20.00% | ~1,313 |
-| Ragazzi del '99 | 18.00% | ~1,181 |
-| The Lion of the Isonzo | 18.00% | ~1,181 |
+| Ragazzi del '99 | 18.00% | ~1,182 |
+| The Lion of the Isonzo | 18.00% | ~1,182 |
 | Dirty Dozen | 14.00% | ~919 |
 | Luigi Cadorna | 14.00% | ~919 |
 | Thus With A Kiss | 14.00% | ~919 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~26 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,563 (Ranked 133)  
+Progressed: 6,564 (Ranked 133)  
 Completed: 8 (0.12%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 8 (0.12%) (Ranked 189)
 | 2023-07-31 | 6,529 | 8 |
 | 2023-08-01 | 6,543 | 8 |
 | 2023-08-02 | 6,560 | 8 |
-| 2023-08-03 | 6,563 | 8 |
+| 2023-08-03 | 6,564 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 436)  
 Sum: 262 (Ranked 349)  

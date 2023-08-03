@@ -2,9 +2,9 @@
   "ID": "5891aa5c4c6f4aabbf555a679e02cfb9",
   "Name": "The Evil Within 2",
   "ProductSlug": "the-evil-within-2",
-  "Ranking_EOS_Progress": 463,
+  "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29,6 +29,11 @@
     {
       "Time": "2023-08-03T05:03:24.549051+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T09:03:10.956628+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -72,7 +77,7 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "b36c5kb",
       "Name": "Welcome to Union",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -240,7 +245,7 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "b36c5kb",
       "Name": "DIY",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -336,7 +341,7 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "b36c5kb",
       "Name": "Thinning Them Out",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -449,13 +454,13 @@
     {
       "ID": "b36c5kb",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-03T08:02:57.9423021+00:00",
+  "LastChanged_Achievements": "2023-08-03T09:03:10.9566271+00:00",
   "LastUpdate_AppInfo": "2023-08-02T15:56:51.7948798+00:00",
-  "LastUpdate_Ratings": "2023-08-03T07:56:58.8196905+00:00",
-  "LastUpdate_Achievements": "2023-08-03T08:02:57.9423508+00:00"
+  "LastUpdate_Ratings": "2023-08-03T08:57:23.7772492+00:00",
+  "LastUpdate_Achievements": "2023-08-03T09:03:10.9566796+00:00"
 }

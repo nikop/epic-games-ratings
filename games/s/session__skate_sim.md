@@ -25,6 +25,7 @@ Number of Ratings: 111  (23.09.2022)
 | Tight lipslides | 6.00% | ~162 |
 | Fulfilled the dream | 5.00% | ~135 |
 | G'Day Mate! | 5.00% | ~135 |
+| Laid back | 5.00% | ~135 |
 | NAHELL! | 5.00% | ~135 |
 | Purple passion | 5.00% | ~135 |
 | Squad goals | 5.00% | ~135 |
@@ -34,7 +35,6 @@ Number of Ratings: 111  (23.09.2022)
 | DIY Boss | 4.00% | ~108 |
 | Globetrotter | 4.00% | ~108 |
 | G.O.A.T. status | 4.00% | ~108 |
-| Laid back | 4.00% | ~108 |
 | Lines for days | 4.00% | ~108 |
 | Manny Destroys All | 4.00% | ~108 |
 | Prince of Philly | 4.00% | ~108 |

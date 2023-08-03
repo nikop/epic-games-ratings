@@ -7770,9 +7770,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 77428,
+  "EOS_Progressed": 77440,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2821,
+  "EOS_NewPlayers": 2820,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19265,6 +19265,11 @@
       "Time": "2023-08-03T08:07:41.3344733+00:00",
       "NumProgressed": 77428,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T09:07:40.0352571+00:00",
+      "NumProgressed": 77440,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -19796,7 +19801,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3097
+      "UsersEstimate": 3098
     },
     {
       "ID": "achievement_colonial_management",
@@ -20108,7 +20113,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3871
+      "UsersEstimate": 3872
     },
     {
       "ID": "achievement_forever_golden",
@@ -20276,7 +20281,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 6194
+      "UsersEstimate": 6195
     },
     {
       "ID": "achievement_grand_coalition",
@@ -21556,7 +21561,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 6194
+      "UsersEstimate": 6195
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -21868,7 +21873,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3097
+      "UsersEstimate": 3098
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -21940,7 +21945,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 6969
+      "UsersEstimate": 6970
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -21972,7 +21977,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 6194
+      "UsersEstimate": 6195
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -22107,21 +22112,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 77428,
+      "Progressed": 77440,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 77428,
+      "Progressed": 77440,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-08-03T01:51:07.8898664+00:00",
-  "LastChanged_Achievements": "2023-08-03T08:07:41.3344728+00:00",
+  "LastChanged_Achievements": "2023-08-03T09:07:40.0352566+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.0548947+00:00",
-  "LastUpdate_Ratings": "2023-08-03T07:58:16.3088833+00:00",
-  "LastUpdate_Achievements": "2023-08-03T08:07:41.3358573+00:00"
+  "LastUpdate_Ratings": "2023-08-03T08:58:43.7871692+00:00",
+  "LastUpdate_Achievements": "2023-08-03T09:07:40.0366907+00:00"
 }
