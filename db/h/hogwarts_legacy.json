@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5752,18 +5752,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 40384,
       "NumberOfAwardsMax": 21473
+    },
+    {
+      "Time": "2023-08-03T18:58:26.2017398+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40407,
+      "NumberOfAwardsMax": 21493
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40384,
-  "NumberOfAwardsMax": 21473,
+  "NumberOfAwards": 40407,
+  "NumberOfAwardsMax": 21493,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21473
+      "Count": 21493
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5793,7 +5799,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 929
+      "Count": 932
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5832,9 +5838,9 @@
       "Count": 574
     }
   ],
-  "EOS_Progressed": 289267,
+  "EOS_Progressed": 289271,
   "EOS_Completed": 438,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -17167,6 +17173,11 @@
       "Time": "2023-08-03T18:06:24.8976245+00:00",
       "NumProgressed": 289267,
       "NumCompleted": 438
+    },
+    {
+      "Time": "2023-08-03T19:06:03.8876903+00:00",
+      "NumProgressed": 289271,
+      "NumCompleted": 438
     }
   ],
   "TotalAchievements": 45,
@@ -17178,7 +17189,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34712
+      "UsersEstimate": 34713
     },
     {
       "ID": "PFA_10",
@@ -17210,7 +17221,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 23141
+      "UsersEstimate": 23142
     },
     {
       "ID": "PFA_14",
@@ -17218,7 +17229,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14463
+      "UsersEstimate": 14464
     },
     {
       "ID": "PFA_15",
@@ -17282,7 +17293,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23141
+      "UsersEstimate": 23142
     },
     {
       "ID": "PFA_22",
@@ -17314,7 +17325,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14463
+      "UsersEstimate": 14464
     },
     {
       "ID": "PFA_26",
@@ -17346,7 +17357,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14463
+      "UsersEstimate": 14464
     },
     {
       "ID": "PFA_3",
@@ -17402,7 +17413,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23141
+      "UsersEstimate": 23142
     },
     {
       "ID": "PFA_36",
@@ -17466,7 +17477,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14463
+      "UsersEstimate": 14464
     },
     {
       "ID": "PFA_43",
@@ -17506,7 +17517,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31819
+      "UsersEstimate": 31820
     },
     {
       "ID": "PFA_7",
@@ -17514,7 +17525,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31819
+      "UsersEstimate": 31820
     },
     {
       "ID": "PFA_8",
@@ -17530,23 +17541,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23141
+      "UsersEstimate": 23142
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289267,
+      "Progressed": 289271,
       "Completed": 438
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-03T17:58:35.0695681+00:00",
-  "LastChanged_Achievements": "2023-08-03T18:06:24.8976234+00:00",
+  "LastChanged": "2023-08-03T18:58:26.2017397+00:00",
+  "LastChanged_Achievements": "2023-08-03T19:06:03.8876898+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-08-03T17:58:35.0695687+00:00",
-  "LastUpdate_Achievements": "2023-08-03T18:06:24.8978499+00:00"
+  "LastUpdate_Ratings": "2023-08-03T18:58:26.2017402+00:00",
+  "LastUpdate_Achievements": "2023-08-03T19:06:03.887773+00:00"
 }

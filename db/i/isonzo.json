@@ -742,9 +742,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6570,
+  "EOS_Progressed": 6571,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4152,6 +4152,11 @@
       "Time": "2023-08-03T16:06:27.0980867+00:00",
       "NumProgressed": 6570,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-03T19:06:34.4475985+00:00",
+      "NumProgressed": 6571,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4211,7 +4216,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2365
+      "UsersEstimate": 2366
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -4235,7 +4240,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -4283,7 +4288,7 @@
       "Name": "Generalissimo",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ISONZO_ACH_INSUBORDINATION",
@@ -4411,7 +4416,7 @@
       "Name": "Silver Lining",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -4507,7 +4512,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -4515,14 +4520,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3482
+      "UsersEstimate": 3483
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6570,
+      "Progressed": 6571,
       "Completed": 8
     }
   ],
@@ -4530,8 +4535,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-03T13:04:56.6804323+00:00",
-  "LastChanged_Achievements": "2023-08-03T18:07:00.373293+00:00",
+  "LastChanged_Achievements": "2023-08-03T19:06:34.4475982+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:14.0482826+00:00",
-  "LastUpdate_Ratings": "2023-08-03T17:58:45.1484881+00:00",
-  "LastUpdate_Achievements": "2023-08-03T18:07:00.3733529+00:00"
+  "LastUpdate_Ratings": "2023-08-03T18:58:36.0640136+00:00",
+  "LastUpdate_Achievements": "2023-08-03T19:06:34.4476431+00:00"
 }

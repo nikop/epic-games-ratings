@@ -9,13 +9,13 @@
 | First winning | 84.00% | ~184 |
 | Good Person Chip | 84.00% | ~184 |
 | Your first job | 83.00% | ~182 |
+| Old movies enjoyer | 79.00% | ~173 |
 | First defeat | 78.00% | ~171 |
-| Old movies enjoyer | 78.00% | ~171 |
 | Depressed visitor | 77.00% | ~169 |
 | Fitness professional | 76.00% | ~166 |
+| Neurotrainer – power gainer! | 75.00% | ~164 |
 | Employee of the week | 75.00% | ~164 |
 | Your own amateur gym | 74.00% | ~162 |
-| Neurotrainer – power gainer! | 74.00% | ~162 |
 | Run K, run! | 71.00% | ~155 |
 | Hello, world! | 68.00% | ~149 |
 | No bullying more | 67.00% | ~147 |
@@ -27,10 +27,10 @@
 | Little hacker | 57.00% | ~125 |
 | Intriguing candies | 57.00% | ~125 |
 | Workout professional | 55.00% | ~120 |
-| It's good to be alive | 54.00% | ~118 |
+| It's good to be alive | 55.00% | ~120 |
+| Handyman | 53.00% | ~116 |
 | Own four walls | 53.00% | ~116 |
 | Employee of the year | 53.00% | ~116 |
-| Handyman | 52.00% | ~114 |
 | Champion – starter pack | 52.00% | ~114 |
 | Fight for life | 51.00% | ~112 |
 | Legal courier | 49.00% | ~107 |
@@ -42,14 +42,14 @@
 | Mysterious voice | 42.00% | ~92 |
 | Guiding on the right path | 42.00% | ~92 |
 | Fight is life | 41.00% | ~90 |
+| Underground dwellers | 37.00% | ~81 |
 | Get out of my apartment! | 36.00% | ~79 |
-| Underground dwellers | 36.00% | ~79 |
 | Responsible approach | 36.00% | ~79 |
 | Deal with life | 34.00% | ~74 |
 | GYM professional | 34.00% | ~74 |
 | Champion – no way back | 34.00% | ~74 |
 | Poisoned fighter | 34.00% | ~74 |
-| Seashell hunter | 33.00% | ~72 |
+| Seashell hunter | 34.00% | ~74 |
 | Mom got better | 32.00% | ~70 |
 | The die is cast | 32.00% | ~70 |
 | Undercover robot | 31.00% | ~68 |

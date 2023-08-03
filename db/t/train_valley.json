@@ -871,9 +871,9 @@
       "ID": "10_japan",
       "SetID": "chb1m60",
       "Name": "Japan",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 38
     },
     {
       "ID": "11_germany",
@@ -1119,8 +1119,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-02T17:58:52.5324483+00:00",
-  "LastChanged_Achievements": "2023-08-03T18:05:35.5704976+00:00",
+  "LastChanged_Achievements": "2023-08-03T19:05:20.0059408+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:31.9818041+00:00",
-  "LastUpdate_Ratings": "2023-08-03T17:58:52.5961671+00:00",
-  "LastUpdate_Achievements": "2023-08-03T18:05:35.570534+00:00"
+  "LastUpdate_Ratings": "2023-08-03T18:58:42.4670548+00:00",
+  "LastUpdate_Achievements": "2023-08-03T19:05:20.0059695+00:00"
 }

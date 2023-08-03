@@ -206,9 +206,9 @@
       "ID": "Houby",
       "SetID": "ag48e8e",
       "Name": "Mushrooms",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Jing",
@@ -246,17 +246,17 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 68,
+      "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MluviciPapouch",
@@ -382,9 +382,9 @@
       "ID": "Xicht",
       "SetID": "ag48e8e",
       "Name": "Rockheads",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Zelvak",
@@ -413,8 +413,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-08-03T18:03:31.6271506+00:00",
+  "LastChanged_Achievements": "2023-08-03T19:03:32.1733459+00:00",
   "LastUpdate_AppInfo": "2023-07-28T14:57:04.029049+00:00",
-  "LastUpdate_Ratings": "2023-08-03T17:57:31.1265614+00:00",
-  "LastUpdate_Achievements": "2023-08-03T18:03:31.6271889+00:00"
+  "LastUpdate_Ratings": "2023-08-03T18:57:31.4247265+00:00",
+  "LastUpdate_Achievements": "2023-08-03T19:03:32.1733643+00:00"
 }

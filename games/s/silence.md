@@ -8,10 +8,10 @@
 | Fire in the... nevermind | 49.00% | ~47 |
 | Haute cuisine | 45.00% | ~43 |
 | I didn't do it! | 42.00% | ~40 |
+| Artistic fool | 35.00% | ~34 |
 | Demolition expert | 35.00% | ~34 |
 | Keep away from children | 35.00% | ~34 |
 | Wooooooow! | 35.00% | ~34 |
-| Artistic fool | 34.00% | ~33 |
 | Chapter II | 31.00% | ~30 |
 | Achoo!! | 30.00% | ~29 |
 | Open up wide | 29.00% | ~28 |
@@ -29,7 +29,7 @@
 | Pacifist | 19.00% | ~18 |
 | Master of Thermodynamics | 17.00% | ~16 |
 | Death is a part of life | 17.00% | ~16 |
-| Unfullfilled dreams | 15.00% | ~14 |
+| Unfullfilled dreams | 16.00% | ~15 |
 | To err is human... | 11.00% | ~11 |
 | Nothing can stop me | 11.00% | ~11 |
 | Mumbo Jumbo | 10.00% | ~10 |

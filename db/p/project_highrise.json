@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 316,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -812,9 +812,9 @@
       "ID": "ach_apartments_1",
       "SetID": "b8gh1fi",
       "Name": "Lux Living",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_apartments_2",
@@ -1244,9 +1244,9 @@
       "ID": "ach_prestige_2",
       "SetID": "b8gh1fi",
       "Name": "Established Fame",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_prestige_3",
@@ -1300,9 +1300,9 @@
       "ID": "ach_restaurants_1",
       "SetID": "b8gh1fi",
       "Name": "Refined Palates",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_restaurants_2",
@@ -1509,8 +1509,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-08-03T18:03:55.7036029+00:00",
+  "LastChanged_Achievements": "2023-08-03T19:03:52.5420943+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:50.6819272+00:00",
-  "LastUpdate_Ratings": "2023-08-03T17:59:19.9896545+00:00",
-  "LastUpdate_Achievements": "2023-08-03T18:03:55.7038014+00:00"
+  "LastUpdate_Ratings": "2023-08-03T18:59:08.7635881+00:00",
+  "LastUpdate_Achievements": "2023-08-03T19:03:52.5421787+00:00"
 }

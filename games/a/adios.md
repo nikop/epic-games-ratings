@@ -5,33 +5,33 @@ Rating: 3.48 (Ranked 963)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~15,103 |
-| Hard Worker | 20.00% | ~13,730 |
-| Master, Commander | 20.00% | ~13,730 |
-| Mechanic | 19.00% | ~13,043 |
-| Adios, Friendo | 18.00% | ~12,357 |
-| Bottom's Up | 18.00% | ~12,357 |
-| Nice Try | 16.00% | ~10,984 |
-| Right On Target | 13.00% | ~8,924 |
+| Be Seeing You | 22.00% | ~15,104 |
+| Hard Worker | 20.00% | ~13,731 |
+| Master, Commander | 20.00% | ~13,731 |
+| Mechanic | 19.00% | ~13,044 |
+| Adios, Friendo | 18.00% | ~12,358 |
+| Bottom's Up | 18.00% | ~12,358 |
+| Nice Try | 16.00% | ~10,985 |
+| Right On Target | 13.00% | ~8,925 |
 | Piano Man | 10.00% | ~6,865 |
-| Lazy Bones | 9.00% | ~6,178 |
+| Lazy Bones | 9.00% | ~6,179 |
 | Vinyl Vibes | 8.00% | ~5,492 |
-| Nothing Left to Say | 7.00% | ~4,805 |
-| Sniper | 7.00% | ~4,805 |
-| Cut Call | 5.00% | ~3,432 |
+| Nothing Left to Say | 7.00% | ~4,806 |
+| Sniper | 7.00% | ~4,806 |
+| Cut Call | 5.00% | ~3,433 |
 | Butcher | 4.00% | ~2,746 |
 | Magnetic Miracles | 4.00% | ~2,746 |
 | Spicy | 4.00% | ~2,746 |
-| A Man Of Taste | 3.00% | ~2,059 |
-| Ace in the Hole | 3.00% | ~2,059 |
-| Fair's Fair | 3.00% | ~2,059 |
-| Hearty | 3.00% | ~2,059 |
-| Meaty | 3.00% | ~2,059 |
-| Taco Toto | 3.00% | ~2,059 |
+| A Man Of Taste | 3.00% | ~2,060 |
+| Ace in the Hole | 3.00% | ~2,060 |
+| Fair's Fair | 3.00% | ~2,060 |
+| Hearty | 3.00% | ~2,060 |
+| Meaty | 3.00% | ~2,060 |
+| Taco Toto | 3.00% | ~2,060 |
 | Audiophile | 2.00% | ~1,373 |
 | Tape Head | 2.00% | ~1,373 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,649 (Ranked 79)  
+Progressed: 68,654 (Ranked 79)  
 Completed: 683 (0.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 683 (0.99%) (Ranked 111)
 | 2023-07-31 | 68,326 | 677 |
 | 2023-08-01 | 68,448 | 678 |
 | 2023-08-02 | 68,569 | 681 |
-| 2023-08-03 | 68,649 | 683 |
+| 2023-08-03 | 68,654 | 683 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

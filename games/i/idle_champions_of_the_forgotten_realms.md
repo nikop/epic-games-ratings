@@ -6,18 +6,18 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,731 |
-| Beast Intentions | 3.00% | ~6,548 |
-| Maddening | 2.00% | ~4,365 |
+| A Brief Tour of the Realms | 4.00% | ~8,732 |
+| Beast Intentions | 3.00% | ~6,549 |
+| Maddening | 2.00% | ~4,366 |
 | The Silken Swamp | 1.00% | ~2,183 |
 | Supply Run | 1.00% | ~2,183 |
-| Rocky Reception | 1.00% | ~1,845 |
-| Rock and Roll | 1.00% | ~1,845 |
+| Rocky Reception | 1.00% | ~1,846 |
+| Rock and Roll | 1.00% | ~1,846 |
 | Vecna Lives! | 0.90% | ~1,661 |
 | Flight of the Kindori Pod | 0.90% | ~1,661 |
-| Tall Tales | 0.80% | ~1,476 |
-| Vecna Loots! | 0.80% | ~1,476 |
-| Topolah's Tower | 0.80% | ~1,476 |
+| Tall Tales | 0.80% | ~1,477 |
+| Vecna Loots! | 0.80% | ~1,477 |
+| Topolah's Tower | 0.80% | ~1,477 |
 | Wet Feet | 0.70% | ~1,528 |
 | Seeds of Destruction | 0.70% | ~1,292 |
 | Return to the Tomb | 0.70% | ~1,292 |
@@ -49,6 +49,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mists of Ravenloft | 0.50% | ~1,091 |
 | Invisible Shadows | 0.50% | ~1,091 |
 | The Botched Kidnapping | 0.50% | ~1,091 |
+| The Ring of Regeneration | 0.50% | ~1,091 |
 | Not That Type of Helm! | 0.50% | ~923 |
 | Calcryx Tricks | 0.50% | ~923 |
 | Goblin Halls: the Next Generation | 0.50% | ~923 |
@@ -68,11 +69,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wisdom Check | 0.40% | ~873 |
 | Family Entanglements | 0.40% | ~873 |
 | Tower on the Lake | 0.40% | ~873 |
-| The Ring of Regeneration | 0.40% | ~873 |
 | The Crumbling Temple | 0.40% | ~873 |
 | Seeking Allies | 0.40% | ~873 |
 | Are Ya Chicken? | 0.40% | ~873 |
-| Mad Cow Disease | 0.40% | ~873 |
 | Exploring Port Nyanzaru | 0.40% | ~873 |
 | Running of the Saurs | 0.40% | ~873 |
 | Escort to Waterdeep | 0.40% | ~873 |
@@ -121,6 +120,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fugitives | 0.30% | ~655 |
 | Premature Betrayal | 0.30% | ~655 |
 | Hopelessly Lost | 0.30% | ~655 |
+| Mad Cow Disease | 0.30% | ~655 |
 | A Tale of Two Cities | 0.30% | ~655 |
 | The Dead Three | 0.30% | ~655 |
 | Flying Monkey Skulls of Doom | 0.30% | ~655 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,268 (Ranked 53)  
+Progressed: 218,292 (Ranked 53)  
 Completed: 2,147 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -624,7 +624,7 @@ Completed: 2,147 (0.98%) (Ranked 112)
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
-| 2023-08-03 | 218,268 | 2,147 |
+| 2023-08-03 | 218,292 | 2,147 |
 ## Awards
 Max (Diverse Characters): 5,109  (Ranked 67)  
 Sum: 30,874 (Ranked 38)  

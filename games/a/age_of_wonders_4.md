@@ -40,9 +40,9 @@ Rating: 4.63 (Ranked 332)
 | Eternal Lord | 2.00% | ~102 |
 | Crimson Caldera | 2.00% | ~102 |
 | The Eternal Court | 2.00% | ~102 |
+| Jack of All Tomes | 2.00% | ~102 |
 | Duality | 2.00% | ~102 |
 | I've Got Everything I Need Right Here | 1.00% | ~51 |
-| Jack of All Tomes | 1.00% | ~51 |
 | Pruning for Progress | 1.00% | ~51 |
 | Grexolis | 1.00% | ~51 |
 | One for All, All for One | 1.00% | ~51 |

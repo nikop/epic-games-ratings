@@ -18,6 +18,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 0.30% | ~401 |
 | Pretty Penny | 0.30% | ~401 |
 | Budding Merchant | 0.30% | ~401 |
+| Through Repetition, Perfection | 0.30% | ~401 |
 | Own the Means of Production | 0.30% | ~401 |
 | The Daily Grind | 0.20% | ~268 |
 | On the Path to Greatness | 0.20% | ~268 |
@@ -37,7 +38,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 0.20% | ~268 |
 | Accomplished Merchant | 0.20% | ~268 |
 | Dungeon Imports | 0.20% | ~268 |
-| Through Repetition, Perfection | 0.20% | ~268 |
+| Natural 20 | 0.20% | ~268 |
 | Did we pack lunch? | 0.20% | ~268 |
 | Arcane Industries | 0.20% | ~268 |
 | A Notch Above the Rest | 0.10% | ~134 |
@@ -94,7 +95,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 0.10% | ~134 |
 | Bountiful Harvest | 0.10% | ~134 |
 | Anything not Nailed Down | 0.10% | ~134 |
-| Natural 20 | 0.10% | ~134 |
 | Seasoned Journeyman | 0.10% | ~134 |
 | Precision Engineering | 0.10% | ~134 |
 | The Greatest Grind | 0.10% | ~134 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,799 (Ranked 62)  
-Completed: 127 (0.09%) (Ranked 199)  
+Progressed: 133,805 (Ranked 62)  
+Completed: 128 (0.10%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -224,7 +224,7 @@ Completed: 127 (0.09%) (Ranked 199)
 | 2023-07-31 | 133,652 | 124 |
 | 2023-08-01 | 133,708 | 125 |
 | 2023-08-02 | 133,764 | 126 |
-| 2023-08-03 | 133,799 | 127 |
+| 2023-08-03 | 133,805 | 128 |
 ## Awards
 Max (Great for Beginners): 4,682  (Ranked 70)  
 Sum: 27,029 (Ranked 46)  

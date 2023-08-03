@@ -30,8 +30,8 @@ Number of Ratings: 28  (23.09.2022)
 | Woodcutter | 10.00% | ~42 |
 | Engineer | 10.00% | ~42 |
 | Achtung! | 10.00% | ~42 |
+| Japan | 9.00% | ~38 |
 | Tycoon | 8.00% | ~34 |
-| Japan | 8.00% | ~34 |
 | Germany | 6.00% | ~25 |
 | Chuck Norris | 5.00% | ~21 |
 | Сhancellor | 4.00% | ~17 |

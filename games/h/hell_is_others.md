@@ -1,23 +1,23 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.43 (Ranked 659)  
+Rating: 4.43 (Ranked 658)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~78,797 |
-| Predator I | 22.00% | ~55,920 |
-| Fixer I | 10.00% | ~25,418 |
-| A week in Century City | 10.00% | ~25,418 |
+| Survivor | 31.00% | ~78,799 |
+| Predator I | 22.00% | ~55,922 |
+| Fixer I | 10.00% | ~25,419 |
+| A week in Century City | 10.00% | ~25,419 |
 | The Wait | 7.00% | ~17,793 |
 | Green thumb I | 6.00% | ~15,251 |
 | Cleaning Company | 6.00% | ~15,251 |
-| Well-oiled machine | 5.00% | ~12,709 |
-| Saver I | 5.00% | ~12,709 |
-| The Ascent | 4.00% | ~10,167 |
-| Pacifist | 4.00% | ~10,167 |
-| Vandalism | 4.00% | ~10,167 |
-| Capitalist I | 4.00% | ~10,167 |
+| Well-oiled machine | 5.00% | ~12,710 |
+| Saver I | 5.00% | ~12,710 |
+| The Ascent | 4.00% | ~10,168 |
+| Pacifist | 4.00% | ~10,168 |
+| Vandalism | 4.00% | ~10,168 |
+| Capitalist I | 4.00% | ~10,168 |
 | Adrenaline | 3.00% | ~7,626 |
 | By a hair | 2.00% | ~5,084 |
 | Fixer II | 2.00% | ~5,084 |
@@ -35,7 +35,7 @@ Rating: 4.43 (Ranked 659)
 | Don't try this at home | 1.00% | ~2,542 |
 | Bricklayer | 1.00% | ~2,542 |
 | Run the Economy | 1.00% | ~2,542 |
-| Committed Relationship | 0.80% | ~2,033 |
+| Committed Relationship | 0.80% | ~2,034 |
 | Number 1 | 0.70% | ~1,779 |
 | Interior designer | 0.60% | ~1,525 |
 | The Gamble | 0.50% | ~1,271 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 659)
 | Capitalist III | 0.10% | ~254 |
 | Hell Is You | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,184 (Ranked 43)  
+Progressed: 254,190 (Ranked 43)  
 Completed: 3 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 3 (0.00%) (Ranked 247)
 | 2023-07-31 | 254,026 | 3 |
 | 2023-08-01 | 254,083 | 3 |
 | 2023-08-02 | 254,140 | 3 |
-| 2023-08-03 | 254,184 | 3 |
+| 2023-08-03 | 254,190 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 35  (Ranked 436)  
 Sum: 214 (Ranked 361)  

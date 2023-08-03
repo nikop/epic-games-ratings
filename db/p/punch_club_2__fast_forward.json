@@ -938,9 +938,9 @@
       "ID": "get_tape",
       "SetID": "69co12a",
       "Name": "Old movies enjoyer",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 173
     },
     {
       "ID": "gpp_chip",
@@ -970,9 +970,9 @@
       "ID": "handyman",
       "SetID": "69co12a",
       "Name": "Handyman",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "huey_win",
@@ -1058,9 +1058,9 @@
       "ID": "mike_resurect",
       "SetID": "69co12a",
       "Name": "It\u0027s good to be alive",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "mysterious_voice",
@@ -1074,9 +1074,9 @@
       "ID": "nero_basic",
       "SetID": "69co12a",
       "Name": "Neurotrainer \u2013 power gainer!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 164
     },
     {
       "ID": "nero_extrime",
@@ -1162,9 +1162,9 @@
       "ID": "resistance_fake",
       "SetID": "69co12a",
       "Name": "Underground dwellers",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "resistance_slime",
@@ -1186,9 +1186,9 @@
       "ID": "seashell_hunter",
       "SetID": "69co12a",
       "Name": "Seashell hunter",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "sleep_candy",
@@ -1281,8 +1281,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-03T18:04:17.8358997+00:00",
+  "LastChanged_Achievements": "2023-08-03T19:04:12.6895552+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:10.4822993+00:00",
-  "LastUpdate_Ratings": "2023-08-03T17:58:38.1677703+00:00",
-  "LastUpdate_Achievements": "2023-08-03T18:04:17.8360141+00:00"
+  "LastUpdate_Ratings": "2023-08-03T18:58:30.0726797+00:00",
+  "LastUpdate_Achievements": "2023-08-03T19:04:12.6896114+00:00"
 }

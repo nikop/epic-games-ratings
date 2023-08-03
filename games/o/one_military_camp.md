@@ -21,11 +21,11 @@
 | Ammo Tycoon | 5.00% | ~6 |
 | Outdoor Decorator | 4.00% | ~5 |
 | Self-sufficient | 4.00% | ~5 |
+| Fuel Tycoon | 4.00% | ~5 |
 | Medicine Tycoon | 4.00% | ~5 |
 | Property Bro | 3.00% | ~4 |
 | Human Resources | 3.00% | ~4 |
 | Food Tycoon | 3.00% | ~4 |
-| Fuel Tycoon | 3.00% | ~4 |
 | Tear Down the Wall! | 2.00% | ~2 |
 | Supersoldier | 2.00% | ~2 |
 | Vive le Résistance | 2.00% | ~2 |
@@ -33,12 +33,12 @@
 | Snowman | 2.00% | ~2 |
 | Overpopulation | 2.00% | ~2 |
 | Reconquest | 2.00% | ~2 |
+| Winter Soldier | 2.00% | ~2 |
 | Researcher | 2.00% | ~2 |
 | Economist | 0.80% | ~1 |
 | Crisis Committee | 0.80% | ~1 |
 | No News is Good News | 0.80% | ~1 |
 | Training Camp | 0.80% | ~1 |
-| Winter Soldier | 0.80% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
 | Counter-espionage | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |

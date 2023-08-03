@@ -39,12 +39,12 @@ Rating: 4.87 (Ranked 24)
 | Wanna hear my playlist? | 1.00% | ~37 |
 | Check out my moves! | 0.90% | ~33 |
 | Call me Turbo Chai | 0.90% | ~20 |
+| I think I found your calling, Macaron | 0.80% | ~30 |
 | I told you I'd be fine, Peppermint! | 0.80% | ~30 |
-| I think I found your calling, Macaron | 0.70% | ~26 |
 | I think I deserve some praise, here! | 0.60% | ~22 |
 | I hit things with a guitar really well. | 0.60% | ~22 |
-| This is a breeze! | 0.50% | ~18 |
-| We're Jammin' | 0.50% | ~18 |
+| This is a breeze! | 0.50% | ~19 |
+| We're Jammin' | 0.50% | ~19 |
 | New bad guys? No problem! | 0.50% | ~11 |
 | I'm not done with you yet | 0.40% | ~15 |
 | First we parry, then we counter | 0.40% | ~15 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,700 (Ranked 147)  
+Progressed: 3,703 (Ranked 147)  
 Completed: 6 (0.16%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 6 (0.16%) (Ranked 179)
 | 2023-07-31 | 3,656 | 6 |
 | 2023-08-01 | 3,666 | 6 |
 | 2023-08-02 | 3,680 | 6 |
-| 2023-08-03 | 3,700 | 6 |
+| 2023-08-03 | 3,703 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -364,7 +364,7 @@
   "Tags": [],
   "EOS_Progressed": 6012,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4366,9 +4366,9 @@
       "ID": "DnD_Ashley",
       "SetID": "bmkn7o4",
       "Name": "Drunk and Disorderly: Ashley",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 54
     },
     {
       "ID": "DnD_Madison",
@@ -4478,9 +4478,9 @@
       "ID": "IRLLetsPlay",
       "SetID": "bmkn7o4",
       "Name": "IRL Let\u0027s Player",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 54
     },
     {
       "ID": "IceBath",
@@ -4812,8 +4812,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-07-26T20:57:57.6865468+00:00",
-  "LastChanged_Achievements": "2023-08-03T18:08:19.6815636+00:00",
+  "LastChanged_Achievements": "2023-08-03T19:07:43.2422516+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:02.164364+00:00",
-  "LastUpdate_Ratings": "2023-08-03T17:58:25.9713884+00:00",
-  "LastUpdate_Achievements": "2023-08-03T18:08:19.6817556+00:00"
+  "LastUpdate_Ratings": "2023-08-03T18:58:18.3484825+00:00",
+  "LastUpdate_Achievements": "2023-08-03T19:07:43.2423257+00:00"
 }

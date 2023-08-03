@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -731,9 +731,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -755,9 +755,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -787,9 +787,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -803,9 +803,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -850,8 +850,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-03T18:07:09.3833424+00:00",
+  "LastChanged_Achievements": "2023-08-03T19:06:42.1081205+00:00",
   "LastUpdate_AppInfo": "2023-07-29T13:57:01.6016157+00:00",
-  "LastUpdate_Ratings": "2023-08-03T17:57:42.4905299+00:00",
-  "LastUpdate_Achievements": "2023-08-03T18:07:09.3833617+00:00"
+  "LastUpdate_Ratings": "2023-08-03T18:57:43.4924486+00:00",
+  "LastUpdate_Achievements": "2023-08-03T19:06:42.1081353+00:00"
 }

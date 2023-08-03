@@ -315,9 +315,9 @@
       "ID": "CgkInO_K3eIdEAIQDQ",
       "SetID": "6bj96in",
       "Name": "TEMPORAL ARCHITECT",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "CgkInO_K3eIdEAIQDg",
@@ -434,8 +434,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-03T18:05:34.7810654+00:00",
+  "LastChanged_Achievements": "2023-08-03T19:05:19.3809996+00:00",
   "LastUpdate_AppInfo": "2023-08-02T14:57:15.3975507+00:00",
-  "LastUpdate_Ratings": "2023-08-03T17:57:38.1098191+00:00",
-  "LastUpdate_Achievements": "2023-08-03T18:05:34.7810976+00:00"
+  "LastUpdate_Ratings": "2023-08-03T18:57:39.661993+00:00",
+  "LastUpdate_Achievements": "2023-08-03T19:05:19.381015+00:00"
 }

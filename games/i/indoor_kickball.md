@@ -33,8 +33,8 @@
 | Kitchen Secret Spot | 6.00% | ~5 |
 | You broke it, you bought it | 6.00% | ~5 |
 | Found the Secret Formula! | 5.00% | ~4 |
+| Attic Secret Spot | 4.00% | ~3 |
 | Basement Secret Spot | 4.00% | ~3 |
-| Attic Secret Spot | 2.00% | ~2 |
 | Garage Secret Spot | 2.00% | ~2 |
 | Kickball Kup | 1.00% | ~1 |
 | Goooooooooal! | 1.00% | ~1 |

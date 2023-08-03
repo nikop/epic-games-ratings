@@ -115,8 +115,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Tunnel Vision | 1.00% | ~2,337 |
 | Martial Master | 1.00% | ~2,337 |
 | You Call That A Knife? | 1.00% | ~2,337 |
+| Disposal | 0.90% | ~2,103 |
 | Master of Strategy | 0.90% | ~2,103 |
-| Disposal | 0.80% | ~1,870 |
 | Blizzard | 0.80% | ~1,870 |
 | Need An Antidote? | 0.80% | ~1,870 |
 | No Swapsies | 0.80% | ~1,870 |
@@ -237,8 +237,8 @@ Completed: 255 (0.11%) (Ranked 192)
 | 2023-08-03 | 233,698 | 255 |
 ## Awards
 Max (Quickly Understood Controls): 1,487  (Ranked 121)  
-Sum: 11,510 (Ranked 78)  
-Diff (max vs sum): 43  
+Sum: 11,510 (Ranked 79)  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 1,487 |

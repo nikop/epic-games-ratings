@@ -6,53 +6,53 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,997 |
-| That's a Grand Army | 8.00% | ~6,220 |
-| That is mine! | 8.00% | ~6,220 |
-| Victorious! | 8.00% | ~6,220 |
-| Brothers in Arms | 6.00% | ~4,665 |
-| That's a Grand Navy | 6.00% | ~4,665 |
-| Seriously?! | 6.00% | ~4,665 |
-| For the Glory | 5.00% | ~3,887 |
-| Cold War | 4.00% | ~3,110 |
-| True Catholic | 4.00% | ~3,110 |
-| Defender of the Faith | 3.00% | ~2,332 |
-| It's all about luck | 3.00% | ~2,332 |
-| It's all about the money | 3.00% | ~2,332 |
-| Respected | 3.00% | ~2,332 |
-| The Princess is in this Castle | 3.00% | ~2,332 |
-| Truly Divine Ruler | 3.00% | ~2,332 |
-| Agressive Expander | 2.00% | ~1,555 |
-| Blockader | 2.00% | ~1,555 |
-| Combined Arms | 2.00% | ~1,555 |
-| Double the Love | 2.00% | ~1,555 |
-| My armies are invincible! | 2.00% | ~1,555 |
-| Queen of Conquest | 2.00% | ~1,555 |
-| Royal Authority | 2.00% | ~1,555 |
-| Total Control | 2.00% | ~1,555 |
-| All That's Thine Shall Be Mine | 1.00% | ~777 |
-| Azur semé de lis or | 1.00% | ~777 |
-| Bright Spark | 1.00% | ~777 |
-| City of Cities | 1.00% | ~777 |
-| The Emperors new clothes | 1.00% | ~777 |
-| Factionalism | 1.00% | ~777 |
-| Gentle Persuasion | 1.00% | ~777 |
-| A Golden Empire | 1.00% | ~777 |
-| The Five Colonies | 1.00% | ~777 |
-| This navy can take it all | 1.00% | ~777 |
+| Until death do us apart | 9.00% | ~7,004 |
+| That's a Grand Army | 8.00% | ~6,226 |
+| That is mine! | 8.00% | ~6,226 |
+| Victorious! | 8.00% | ~6,226 |
+| Brothers in Arms | 6.00% | ~4,669 |
+| That's a Grand Navy | 6.00% | ~4,669 |
+| Seriously?! | 6.00% | ~4,669 |
+| For the Glory | 5.00% | ~3,891 |
+| Cold War | 4.00% | ~3,113 |
+| True Catholic | 4.00% | ~3,113 |
+| Defender of the Faith | 3.00% | ~2,335 |
+| It's all about luck | 3.00% | ~2,335 |
+| It's all about the money | 3.00% | ~2,335 |
+| Respected | 3.00% | ~2,335 |
+| The Princess is in this Castle | 3.00% | ~2,335 |
+| Truly Divine Ruler | 3.00% | ~2,335 |
+| Agressive Expander | 2.00% | ~1,556 |
+| Blockader | 2.00% | ~1,556 |
+| Combined Arms | 2.00% | ~1,556 |
+| Double the Love | 2.00% | ~1,556 |
+| My armies are invincible! | 2.00% | ~1,556 |
+| Queen of Conquest | 2.00% | ~1,556 |
+| Royal Authority | 2.00% | ~1,556 |
+| Total Control | 2.00% | ~1,556 |
+| All That's Thine Shall Be Mine | 1.00% | ~778 |
+| Azur semé de lis or | 1.00% | ~778 |
+| Bright Spark | 1.00% | ~778 |
+| City of Cities | 1.00% | ~778 |
+| The Emperors new clothes | 1.00% | ~778 |
+| Factionalism | 1.00% | ~778 |
+| Gentle Persuasion | 1.00% | ~778 |
+| A Golden Empire | 1.00% | ~778 |
+| The Five Colonies | 1.00% | ~778 |
+| This navy can take it all | 1.00% | ~778 |
 | Down Under | 0.90% | ~700 |
 | Isn't this the way to India? | 0.90% | ~700 |
 | Market Control | 0.90% | ~700 |
 | Trustworthy | 0.90% | ~700 |
-| Electable! | 0.70% | ~544 |
-| Populists in Government | 0.70% | ~544 |
-| All belongs to Mother Russia | 0.60% | ~466 |
-| At every continent | 0.60% | ~466 |
-| One Family to Rule them All | 0.60% | ~466 |
-| Ruina Imperii | 0.60% | ~466 |
-| The pen is mightier than the sword | 0.60% | ~466 |
-| This is My Faith | 0.60% | ~466 |
-| Time Bandit | 0.60% | ~466 |
+| Electable! | 0.70% | ~545 |
+| Populists in Government | 0.70% | ~545 |
+| All belongs to Mother Russia | 0.60% | ~467 |
+| At every continent | 0.60% | ~467 |
+| One Family to Rule them All | 0.60% | ~467 |
+| Ruina Imperii | 0.60% | ~467 |
+| The pen is mightier than the sword | 0.60% | ~467 |
+| This is My Faith | 0.60% | ~467 |
+| Time Bandit | 0.60% | ~467 |
 | Absolutely | 0.50% | ~389 |
 | Early-Modern Warfare | 0.50% | ~389 |
 | Grand Coalition | 0.50% | ~389 |
@@ -84,21 +84,21 @@ Number of Ratings: 8,414  (23.09.2022)
 | Three Trivial Tributary Tribes | 0.30% | ~233 |
 | Vasa or Wettin? | 0.30% | ~233 |
 | World Discoverer | 0.30% | ~233 |
-| A Protected Market | 0.20% | ~155 |
-| AAA Credit | 0.20% | ~155 |
-| An early Reich | 0.20% | ~155 |
-| Basileus | 0.20% | ~155 |
-| Center of Attention | 0.20% | ~155 |
-| Fine Financials | 0.20% | ~155 |
-| Full House | 0.20% | ~155 |
-| Imperio español | 0.20% | ~155 |
-| Industrial Powerhouse | 0.20% | ~155 |
-| Je maintiendrai | 0.20% | ~155 |
-| A Kaiser not just in name | 0.20% | ~155 |
-| Pyramid of Skulls | 0.20% | ~155 |
-| The Power of Three | 0.20% | ~155 |
-| Viva la Revolución! | 0.20% | ~155 |
-| We bled for this | 0.20% | ~155 |
+| A Protected Market | 0.20% | ~156 |
+| AAA Credit | 0.20% | ~156 |
+| An early Reich | 0.20% | ~156 |
+| Basileus | 0.20% | ~156 |
+| Center of Attention | 0.20% | ~156 |
+| Fine Financials | 0.20% | ~156 |
+| Full House | 0.20% | ~156 |
+| Imperio español | 0.20% | ~156 |
+| Industrial Powerhouse | 0.20% | ~156 |
+| Je maintiendrai | 0.20% | ~156 |
+| A Kaiser not just in name | 0.20% | ~156 |
+| Pyramid of Skulls | 0.20% | ~156 |
+| The Power of Three | 0.20% | ~156 |
+| Viva la Revolución! | 0.20% | ~156 |
+| We bled for this | 0.20% | ~156 |
 | The 52 Garhs | 0.10% | ~78 |
 | I don't like sand | 0.10% | ~78 |
 | A Blessed Nation | 0.10% | ~78 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,746 (Ranked 76)  
+Progressed: 77,821 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -466,14 +466,14 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-31 | 76,579 | 0 |
 | 2023-08-01 | 77,006 | 0 |
 | 2023-08-02 | 77,371 | 0 |
-| 2023-08-03 | 77,746 | 0 |
+| 2023-08-03 | 77,821 | 0 |
 ## Awards
-Max (Educational): 5,608  (Ranked 62)  
-Sum: 46,294 (Ranked 26)  
+Max (Educational): 5,611  (Ranked 62)  
+Sum: 46,297 (Ranked 26)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,608 |
+| This game is Educational | 5,611 |
 | This game is Highly Recommended | 5,382 |
 | This game has Challenging Combat | 5,326 |
 | This game is Extremely Fun | 5,321 |
@@ -684,4 +684,4 @@ Diff (max vs sum): 36
 | 2023-07-31 | 4.69 | - | 5,599 | 46,208 |
 | 2023-08-01 | 4.69 | - | 5,603 | 46,238 |
 | 2023-08-02 | 4.69 | - | 5,608 | 46,273 |
-| 2023-08-03 | 4.69 | - | 5,608 | 46,294 |
+| 2023-08-03 | 4.69 | - | 5,611 | 46,297 |

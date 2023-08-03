@@ -21,8 +21,8 @@
 | Smooth Service | 24.00% | ~76 |
 | Your Prestige is Rising | 23.00% | ~73 |
 | Retail Revenue | 23.00% | ~73 |
+| Lux Living | 21.00% | ~66 |
 | Don't Feel a Loan | 21.00% | ~66 |
-| Lux Living | 20.00% | ~63 |
 | People Mover | 20.00% | ~63 |
 | Leveled Up Shops | 20.00% | ~63 |
 | Artfully Done | 19.00% | ~60 |
@@ -31,8 +31,8 @@
 | Get Electrified | 19.00% | ~60 |
 | Rehab Expert | 18.00% | ~57 |
 | Tasty Profits | 17.00% | ~54 |
+| Established Fame | 16.00% | ~51 |
 | Under One Roof | 15.00% | ~47 |
-| Established Fame | 15.00% | ~47 |
 | Cashflow Chief | 15.00% | ~47 |
 | Starred Dining | 14.00% | ~44 |
 | Smooth Operator | 13.00% | ~41 |
@@ -42,10 +42,10 @@
 | Swimming in Surplus | 11.00% | ~35 |
 | 28 Days Later | 10.00% | ~32 |
 | Master of Puppets | 9.00% | ~28 |
+| Refined Palates | 9.00% | ~28 |
 | First 100 Days | 8.00% | ~25 |
 | Aestheticly Pleased | 8.00% | ~25 |
 | Plaza Plan | 8.00% | ~25 |
-| Refined Palates | 8.00% | ~25 |
 | Phoning It In | 8.00% | ~25 |
 | Water Features | 7.00% | ~22 |
 | Meet Me at HQ | 7.00% | ~22 |

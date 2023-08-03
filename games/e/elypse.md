@@ -29,8 +29,8 @@
 | Nokron tower | 20.00% | ~16 |
 | Compulsive hoarder | 19.00% | ~15 |
 | Magnitude 5 | 18.00% | ~14 |
-| GG EZ | 14.00% | ~11 |
-| Comeback | 14.00% | ~11 |
+| GG EZ | 15.00% | ~12 |
+| Comeback | 15.00% | ~12 |
 | MayDay! MayDay! | 13.00% | ~10 |
 | Gooooooaaaaal!!! | 10.00% | ~8 |
 | Sadistic | 3.00% | ~2 |

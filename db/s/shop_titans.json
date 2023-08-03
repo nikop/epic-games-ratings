@@ -6,9 +6,9 @@
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5386,11 +5386,11 @@
       "Count": 3725
     }
   ],
-  "EOS_Progressed": 133799,
-  "EOS_Completed": 127,
-  "EOS_NewPlayers": 437,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.09,
+  "EOS_Progressed": 133805,
+  "EOS_Completed": 128,
+  "EOS_NewPlayers": 443,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:59.5794002+00:00",
@@ -16076,6 +16076,11 @@
       "Time": "2023-08-03T18:05:08.2260946+00:00",
       "NumProgressed": 133799,
       "NumCompleted": 127
+    },
+    {
+      "Time": "2023-08-03T19:04:56.1386133+00:00",
+      "NumProgressed": 133805,
+      "NumCompleted": 128
     }
   ],
   "TotalAchievements": 112,
@@ -16741,17 +16746,17 @@
       "ID": "master01",
       "SetID": "anfd17p",
       "Name": "Through Repetition, Perfection",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 401
     },
     {
       "ID": "master02",
       "SetID": "anfd17p",
       "Name": "Natural 20",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 268
     },
     {
       "ID": "master03",
@@ -16982,15 +16987,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133799,
-      "Completed": 127
+      "Progressed": 133805,
+      "Completed": 128
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-03T13:06:16.3466463+00:00",
-  "LastChanged_Achievements": "2023-08-03T18:05:08.2260938+00:00",
+  "LastChanged_Achievements": "2023-08-03T19:04:56.138613+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.2465054+00:00",
-  "LastUpdate_Ratings": "2023-08-03T18:00:03.1942934+00:00",
-  "LastUpdate_Achievements": "2023-08-03T18:05:08.2264958+00:00"
+  "LastUpdate_Ratings": "2023-08-03T18:59:41.7436556+00:00",
+  "LastUpdate_Achievements": "2023-08-03T19:04:56.138782+00:00"
 }

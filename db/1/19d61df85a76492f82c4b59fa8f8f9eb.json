@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 277,
+  "EOS_Progressed": 278,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 8.66,
+  "EOS_Completed_Percentage": 8.63,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1236,6 +1236,11 @@
       "Time": "2023-08-03T18:06:43.0241602+00:00",
       "NumProgressed": 277,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-08-03T19:06:19.461122+00:00",
+      "NumProgressed": 278,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 6,
@@ -1255,7 +1260,7 @@
       "Name": "File-cutter",
       "Percentage": 60,
       "XP": 165,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -1269,9 +1274,9 @@
       "ID": "CgkIgaGB2J0LEAIQAw",
       "SetID": "4ocea6d",
       "Name": "Scythed Chariot",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 165,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -1294,14 +1299,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 277,
+      "Progressed": 278,
       "Completed": 24
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-03T18:06:43.0241592+00:00",
+  "LastChanged_Achievements": "2023-08-03T19:06:19.4611214+00:00",
   "LastUpdate_AppInfo": "2023-08-03T14:57:18.1003103+00:00",
-  "LastUpdate_Ratings": "2023-08-03T17:57:43.950932+00:00",
-  "LastUpdate_Achievements": "2023-08-03T18:06:43.0241835+00:00"
+  "LastUpdate_Ratings": "2023-08-03T18:57:44.7714692+00:00",
+  "LastUpdate_Achievements": "2023-08-03T19:06:19.4611335+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -476,9 +476,9 @@
       "ID": "fat-human",
       "SetID": "799afm0",
       "Name": "Fat of the Earth",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 152
     },
     {
       "ID": "finished-quest-cube",
@@ -693,8 +693,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-08-03T18:03:32.58671+00:00",
+  "LastChanged_Achievements": "2023-08-03T19:03:33.0226111+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:34.0808187+00:00",
-  "LastUpdate_Ratings": "2023-08-03T18:00:25.5971643+00:00",
-  "LastUpdate_Achievements": "2023-08-03T18:03:32.586741+00:00"
+  "LastUpdate_Ratings": "2023-08-03T18:59:59.2893082+00:00",
+  "LastUpdate_Achievements": "2023-08-03T19:03:33.0226353+00:00"
 }

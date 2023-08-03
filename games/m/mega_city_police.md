@@ -15,6 +15,7 @@
 | Gibbing Love | 4.00% | ~1 |
 | Lieutenant | 4.00% | ~1 |
 | Dust to Dust | 4.00% | ~1 |
+| Flawless Victory | 4.00% | ~1 |
 | Knife Juggler | 4.00% | ~1 |
 | Head of the Snake | 0.00% | ~0 |
 | Barbecue Time | 0.00% | ~0 |
@@ -24,7 +25,6 @@
 | Captain | 0.00% | ~0 |
 | Chief | 0.00% | ~0 |
 | Feel the Spark | 0.00% | ~0 |
-| Flawless Victory | 0.00% | ~0 |
 | The Hunt | 0.00% | ~0 |
 | For Science | 0.00% | ~0 |
 | Millionaire | 0.00% | ~0 |

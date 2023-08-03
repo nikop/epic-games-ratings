@@ -1,11 +1,11 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.44 (Ranked 647)  
+Rating: 4.44 (Ranked 646)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,507 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,538 |
 | Snatched Out | 74.00% | ~2,290 |
 | Keep 'Em Coming | 73.00% | ~2,259 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,074 |

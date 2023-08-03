@@ -4,7 +4,7 @@
   "ProductSlug": "space-elite-force-a00006",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-07-27T13:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 15,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 13.33,
   "EosHistory": [
@@ -360,8 +360,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-08-03T18:04:43.9095402+00:00",
+  "LastChanged_Achievements": "2023-08-03T19:04:34.8603385+00:00",
   "LastUpdate_AppInfo": "2023-07-28T10:57:28.6177192+00:00",
-  "LastUpdate_Ratings": "2023-08-03T17:57:24.3611738+00:00",
-  "LastUpdate_Achievements": "2023-08-03T18:04:43.9095648+00:00"
+  "LastUpdate_Ratings": "2023-08-03T18:57:25.4357561+00:00",
+  "LastUpdate_Achievements": "2023-08-03T19:04:34.8603563+00:00"
 }

@@ -7,15 +7,15 @@ Number of Ratings: 6,336  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Escaped Tartarus | 89.00% | ~623,279 |
-| Escaped Asphodel | 80.00% | ~560,250 |
-| Arms Collector | 71.00% | ~497,222 |
-| Friends in High Places | 68.00% | ~476,213 |
+| Escaped Asphodel | 80.00% | ~560,251 |
+| Arms Collector | 71.00% | ~497,223 |
+| Friends in High Places | 68.00% | ~476,214 |
 | Escaped Elysium | 66.00% | ~462,207 |
-| Chthonic Colleagues | 63.00% | ~441,197 |
+| Chthonic Colleagues | 63.00% | ~441,198 |
 | Is There No Escape? | 52.00% | ~364,163 |
 | Death Dealer | 45.00% | ~315,141 |
-| Skelly Slayer | 42.00% | ~294,131 |
-| Well Stocked | 40.00% | ~280,125 |
+| Skelly Slayer | 42.00% | ~294,132 |
+| Well Stocked | 40.00% | ~280,126 |
 | Back to Work | 38.00% | ~266,119 |
 | Day-or-Night Trader | 37.00% | ~259,116 |
 | Blessed by the Gods | 37.00% | ~259,116 |
@@ -32,15 +32,15 @@ Number of Ratings: 6,336  (23.09.2022)
 | To Charon's Credit | 22.00% | ~154,069 |
 | Rare Collectible | 22.00% | ~154,069 |
 | Weapon of Fate | 21.00% | ~147,066 |
-| Something From Everyone | 19.00% | ~133,059 |
-| Hold the Onions | 18.00% | ~126,056 |
+| Something From Everyone | 19.00% | ~133,060 |
+| Hold the Onions | 18.00% | ~126,057 |
 | Well Versed | 17.00% | ~119,053 |
 | War-God's Bloodlust | 15.00% | ~105,047 |
 | Musician and Muse | 14.00% | ~98,044 |
 | The Useless Trinket | 13.00% | ~91,041 |
 | Champion of Elysium | 13.00% | ~91,041 |
 | Slashed Benefits | 12.00% | ~84,038 |
-| Haste of Hermes | 11.00% | ~77,034 |
+| Haste of Hermes | 11.00% | ~77,035 |
 | Bad Call | 10.00% | ~70,031 |
 | Nyx's Mirror | 10.00% | ~70,031 |
 | Night and Darkness | 10.00% | ~70,031 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,013 |
 | Friends Forever | 4.00% | ~28,013 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 700,313 (Ranked 21)  
+Progressed: 700,314 (Ranked 21)  
 Completed: 6,268 (0.90%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 6,268 (0.90%) (Ranked 114)
 | 2023-07-31 | 700,050 | 6,266 |
 | 2023-08-01 | 700,132 | 6,267 |
 | 2023-08-02 | 700,242 | 6,267 |
-| 2023-08-03 | 700,313 | 6,268 |
+| 2023-08-03 | 700,314 | 6,268 |
 ## Awards
 Max (Character Customization): 3,199  (Ranked 90)  
 Sum: 7,748 (Ranked 101)  
