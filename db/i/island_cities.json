@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 448,
+  "EOS_Progressed": 449,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 18.3,
+  "EOS_Completed_Percentage": 18.26,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2163,6 +2163,11 @@
       "Time": "2023-08-03T12:04:35.8234317+00:00",
       "NumProgressed": 448,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-08-03T14:04:22.3350461+00:00",
+      "NumProgressed": 449,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 22,
@@ -2174,15 +2179,15 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "LEVEL_002",
       "SetID": "3khpmem",
       "Name": "A tiny town",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 381
+      "UsersEstimate": 386
     },
     {
       "ID": "LEVEL_003",
@@ -2204,17 +2209,17 @@
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 224
+      "UsersEstimate": 220
     },
     {
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 197
+      "UsersEstimate": 193
     },
     {
       "ID": "LEVEL_007",
@@ -2222,7 +2227,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "LEVEL_008",
@@ -2230,7 +2235,7 @@
       "Name": "Passion for sports",
       "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "LEVEL_009",
@@ -2254,7 +2259,7 @@
       "Name": "At the heart of the city",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "LEVEL_012",
@@ -2300,9 +2305,9 @@
       "ID": "LEVEL_017",
       "SetID": "3khpmem",
       "Name": "Commuting",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 90
     },
     {
       "ID": "LEVEL_018",
@@ -2324,9 +2329,9 @@
       "ID": "LEVEL_020",
       "SetID": "3khpmem",
       "Name": "City of dreams",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 81
     },
     {
       "ID": "LEVEL_021",
@@ -2349,7 +2354,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 448,
+      "Progressed": 449,
       "Completed": 82
     }
   ],
@@ -2357,8 +2362,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-08-03T13:11:22.3493613+00:00",
+  "LastChanged_Achievements": "2023-08-03T14:04:22.3350457+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:55.2732426+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:05:43.7700561+00:00",
-  "LastUpdate_Achievements": "2023-08-03T13:11:22.3494133+00:00"
+  "LastUpdate_Ratings": "2023-08-03T13:58:59.9324966+00:00",
+  "LastUpdate_Achievements": "2023-08-03T14:04:22.3350679+00:00"
 }

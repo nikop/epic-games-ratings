@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6902,
+  "EOS_Progressed": 6903,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -5259,6 +5259,11 @@
       "Time": "2023-08-03T13:12:09.1117644+00:00",
       "NumProgressed": 6902,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-08-03T14:05:11.3867578+00:00",
+      "NumProgressed": 6903,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 21,
@@ -5318,7 +5323,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -5374,7 +5379,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "LIBERATOR",
@@ -5437,7 +5442,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6902,
+      "Progressed": 6903,
       "Completed": 30
     }
   ],
@@ -5445,8 +5450,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-16T23:57:58.4349982+00:00",
-  "LastChanged_Achievements": "2023-08-03T13:12:09.1117618+00:00",
+  "LastChanged_Achievements": "2023-08-03T14:05:11.3867572+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:48.4178879+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:05:31.2722529+00:00",
-  "LastUpdate_Achievements": "2023-08-03T13:12:09.1118443+00:00"
+  "LastUpdate_Ratings": "2023-08-03T13:58:53.2544902+00:00",
+  "LastUpdate_Achievements": "2023-08-03T14:05:11.3867939+00:00"
 }

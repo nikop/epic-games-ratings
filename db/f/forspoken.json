@@ -322,9 +322,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 39520,
+  "EOS_Progressed": 39524,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6742,6 +6742,11 @@
       "Time": "2023-08-03T12:03:25.3045728+00:00",
       "NumProgressed": 39520,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-03T14:02:19.3179411+00:00",
+      "NumProgressed": 39524,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -6905,7 +6910,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2766
+      "UsersEstimate": 2767
     },
     {
       "ID": "CUFF_ATTACK",
@@ -6991,9 +6996,9 @@
       "ID": "MAGIC_BREAK",
       "SetID": "6d0g7k8",
       "Name": "Knock \u0027Em Dead",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2766
+      "UsersEstimate": 2371
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -7176,22 +7181,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39520,
+      "Progressed": 39524,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4357,
-      "Completed": 4357
+      "Progressed": 4361,
+      "Completed": 4361
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-08-01T18:59:08.1065463+00:00",
-  "LastChanged_Achievements": "2023-08-03T13:09:32.3464638+00:00",
+  "LastChanged_Achievements": "2023-08-03T14:02:19.3179407+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.6362522+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:06:19.5331247+00:00",
-  "LastUpdate_Achievements": "2023-08-03T13:09:32.3465562+00:00"
+  "LastUpdate_Ratings": "2023-08-03T13:59:32.3814348+00:00",
+  "LastUpdate_Achievements": "2023-08-03T14:02:19.318185+00:00"
 }

@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3783,
+  "EOS_Progressed": 3793,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3780,
+  "EOS_NewPlayers": 3790,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -627,6 +627,11 @@
       "Time": "2023-08-03T13:13:20.3033302+00:00",
       "NumProgressed": 3783,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T14:06:11.1248501+00:00",
+      "NumProgressed": 3793,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -637,9 +642,9 @@
       "ID": "1",
       "SetID": "458bbdk",
       "Name": "Urshanabi Hoarder",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     },
     {
       "ID": "10",
@@ -679,7 +684,7 @@
       "Name": "Doctor Approved",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 643
+      "UsersEstimate": 645
     },
     {
       "ID": "15",
@@ -727,7 +732,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "20",
@@ -815,7 +820,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 569
     },
     {
       "ID": "30",
@@ -878,14 +883,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 3783,
+      "Progressed": 3793,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-03T13:13:20.3033298+00:00",
+  "LastChanged_Achievements": "2023-08-03T14:06:11.1248496+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:00.9603289+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:07:18.0553737+00:00",
-  "LastUpdate_Achievements": "2023-08-03T13:13:20.3033568+00:00"
+  "LastUpdate_Ratings": "2023-08-03T14:00:21.1468136+00:00",
+  "LastUpdate_Achievements": "2023-08-03T14:06:11.1248706+00:00"
 }

@@ -1688,9 +1688,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "End the Infestation",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 46
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -1760,9 +1760,9 @@
       "ID": "MEAT_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "To Get Stronger",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 59
     },
     {
       "ID": "MEAT_ACHIEVEMENT_3",
@@ -1895,8 +1895,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-03T13:13:46.8749385+00:00",
+  "LastChanged_Achievements": "2023-08-03T14:06:33.5717673+00:00",
   "LastUpdate_AppInfo": "2023-07-27T13:57:11.3772461+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:03:49.3194503+00:00",
-  "LastUpdate_Achievements": "2023-08-03T13:13:46.8750196+00:00"
+  "LastUpdate_Ratings": "2023-08-03T13:57:29.9285881+00:00",
+  "LastUpdate_Achievements": "2023-08-03T14:06:33.5718258+00:00"
 }

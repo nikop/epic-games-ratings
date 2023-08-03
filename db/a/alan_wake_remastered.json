@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60078,
+  "EOS_Progressed": 60081,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 1090,
+  "EOS_NewPlayers": 1086,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10057,6 +10057,11 @@
       "Time": "2023-08-03T13:12:07.4792071+00:00",
       "NumProgressed": 60078,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-08-03T14:05:10.0144294+00:00",
+      "NumProgressed": 60081,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 67,
@@ -10068,7 +10073,7 @@
       "Name": "Follow the Light",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 21628
+      "UsersEstimate": 21629
     },
     {
       "ID": "02",
@@ -10076,7 +10081,7 @@
       "Name": "Nordic Walking",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13217
+      "UsersEstimate": 13218
     },
     {
       "ID": "03",
@@ -10084,7 +10089,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13217
+      "UsersEstimate": 13218
     },
     {
       "ID": "04",
@@ -10108,7 +10113,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9612
+      "UsersEstimate": 9613
     },
     {
       "ID": "07",
@@ -10132,7 +10137,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7810
+      "UsersEstimate": 7811
     },
     {
       "ID": "10",
@@ -10188,7 +10193,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4205
+      "UsersEstimate": 4206
     },
     {
       "ID": "17",
@@ -10228,7 +10233,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7810
+      "UsersEstimate": 7811
     },
     {
       "ID": "22",
@@ -10236,7 +10241,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7209
+      "UsersEstimate": 7210
     },
     {
       "ID": "23",
@@ -10292,7 +10297,7 @@
       "Name": "Sound and Fury",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7810
+      "UsersEstimate": 7811
     },
     {
       "ID": "30",
@@ -10316,7 +10321,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16822
+      "UsersEstimate": 16823
     },
     {
       "ID": "33",
@@ -10324,7 +10329,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7810
+      "UsersEstimate": 7811
     },
     {
       "ID": "34",
@@ -10404,7 +10409,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9612
+      "UsersEstimate": 9613
     },
     {
       "ID": "44",
@@ -10603,21 +10608,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60078,
+      "Progressed": 60081,
       "Completed": 63
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23546,
+      "Progressed": 23549,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-03T13:12:07.4792064+00:00",
+  "LastChanged_Achievements": "2023-08-03T14:05:10.0144289+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:35.0351219+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:05:06.1525322+00:00",
-  "LastUpdate_Achievements": "2023-08-03T13:12:07.4794358+00:00"
+  "LastUpdate_Ratings": "2023-08-03T13:58:34.9892237+00:00",
+  "LastUpdate_Achievements": "2023-08-03T14:05:10.0145222+00:00"
 }

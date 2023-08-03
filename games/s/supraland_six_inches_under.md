@@ -22,8 +22,8 @@ Number of Ratings: 209  (23.09.2022)
 | Magnet | 91.00% | ~1,986 |
 | Industrial Area | 89.00% | ~1,942 |
 | Magnet Repel | 88.00% | ~1,920 |
+| You feel middle classy | 87.00% | ~1,898 |
 | Boomeraxe | 87.00% | ~1,898 |
-| You feel middle classy | 86.00% | ~1,877 |
 | Banking District | 86.00% | ~1,877 |
 | Iron Pickaxe | 86.00% | ~1,877 |
 | Arrested | 85.00% | ~1,855 |
@@ -38,7 +38,7 @@ Number of Ratings: 209  (23.09.2022)
 | Guard Distracted | 80.00% | ~1,746 |
 | Translocator | 80.00% | ~1,746 |
 | Inner Peace | 77.00% | ~1,680 |
-| Diamond Pickaxe | 76.00% | ~1,658 |
+| Diamond Pickaxe | 77.00% | ~1,680 |
 | Killed them all | 76.00% | ~1,658 |
 | Trickle Down Economy | 76.00% | ~1,658 |
 | Win | 75.00% | ~1,636 |

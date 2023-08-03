@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14322,
+  "EOS_Progressed": 14324,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -7385,6 +7385,11 @@
       "Time": "2023-08-03T11:05:32.6390692+00:00",
       "NumProgressed": 14322,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-03T14:03:49.7755942+00:00",
+      "NumProgressed": 14324,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 41,
@@ -7396,7 +7401,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "tpote_achievement_10",
@@ -7412,7 +7417,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3437
+      "UsersEstimate": 3438
     },
     {
       "ID": "tpote_achievement_12",
@@ -7436,7 +7441,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4869
+      "UsersEstimate": 4870
     },
     {
       "ID": "tpote_achievement_15",
@@ -7468,7 +7473,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "tpote_achievement_19",
@@ -7484,7 +7489,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4869
+      "UsersEstimate": 4870
     },
     {
       "ID": "tpote_achievement_20",
@@ -7508,7 +7513,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2864
+      "UsersEstimate": 2865
     },
     {
       "ID": "tpote_achievement_23",
@@ -7524,7 +7529,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "tpote_achievement_25",
@@ -7572,7 +7577,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4583
+      "UsersEstimate": 4584
     },
     {
       "ID": "tpote_achievement_30",
@@ -7596,7 +7601,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "tpote_achievement_33",
@@ -7660,7 +7665,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5872
+      "UsersEstimate": 5873
     },
     {
       "ID": "tpote_achievement_40",
@@ -7684,7 +7689,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3437
+      "UsersEstimate": 3438
     },
     {
       "ID": "tpote_achievement_6",
@@ -7692,7 +7697,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3437
+      "UsersEstimate": 3438
     },
     {
       "ID": "tpote_achievement_7",
@@ -7723,15 +7728,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14322,
+      "Progressed": 14324,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-03T13:10:55.3718338+00:00",
+  "LastChanged_Achievements": "2023-08-03T14:03:49.7755938+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:48.9237471+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:08:30.3350422+00:00",
-  "LastUpdate_Achievements": "2023-08-03T13:10:55.3719702+00:00"
+  "LastUpdate_Ratings": "2023-08-03T14:01:17.701027+00:00",
+  "LastUpdate_Achievements": "2023-08-03T14:03:49.7756497+00:00"
 }

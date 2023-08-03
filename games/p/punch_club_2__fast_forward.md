@@ -11,16 +11,16 @@
 | Your first job | 83.00% | ~179 |
 | First defeat | 79.00% | ~171 |
 | Old movies enjoyer | 79.00% | ~171 |
+| Fitness professional | 77.00% | ~166 |
 | Depressed visitor | 77.00% | ~166 |
-| Fitness professional | 76.00% | ~164 |
 | Employee of the week | 76.00% | ~164 |
 | Neurotrainer – power gainer! | 75.00% | ~162 |
 | Your own amateur gym | 74.00% | ~160 |
-| Run K, run! | 70.00% | ~151 |
-| Hello, world! | 68.00% | ~147 |
+| Run K, run! | 71.00% | ~153 |
+| Hello, world! | 69.00% | ~149 |
+| No bullying more | 67.00% | ~145 |
 | Fighting is cool | 66.00% | ~143 |
-| No bullying more | 66.00% | ~143 |
-| Pal of your father? | 63.00% | ~136 |
+| Pal of your father? | 64.00% | ~138 |
 | Employee of the month | 62.00% | ~134 |
 | Spirit of the past | 61.00% | ~132 |
 | Law student | 59.00% | ~127 |
@@ -28,10 +28,10 @@
 | Little hacker | 57.00% | ~123 |
 | Workout professional | 55.00% | ~119 |
 | It's good to be alive | 55.00% | ~119 |
+| Own four walls | 54.00% | ~117 |
+| Handyman | 53.00% | ~114 |
 | Champion – starter pack | 53.00% | ~114 |
-| Own four walls | 53.00% | ~114 |
 | Employee of the year | 53.00% | ~114 |
-| Handyman | 52.00% | ~112 |
 | Fight for life | 51.00% | ~110 |
 | Legal courier | 49.00% | ~106 |
 | Extreme neuropower! | 48.00% | ~104 |

@@ -23,6 +23,7 @@ Number of Ratings: 111  (23.09.2022)
 | Finally he zips it | 6.00% | ~162 |
 | That pinch! | 6.00% | ~162 |
 | Tight lipslides | 6.00% | ~162 |
+| Commence the Hijinx! | 5.00% | ~135 |
 | Fulfilled the dream | 5.00% | ~135 |
 | G'Day Mate! | 5.00% | ~135 |
 | Laid back | 5.00% | ~135 |
@@ -30,7 +31,6 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 5.00% | ~135 |
 | Squad goals | 5.00% | ~135 |
 | Sup widdit big dog! | 5.00% | ~135 |
-| Commence the Hijinx! | 4.00% | ~108 |
 | Cops called! | 4.00% | ~108 |
 | DIY Boss | 4.00% | ~108 |
 | Globetrotter | 4.00% | ~108 |

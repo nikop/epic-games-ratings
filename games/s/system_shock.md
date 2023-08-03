@@ -5,13 +5,14 @@ Rating: 4.62 (Ranked 351)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| En Garde! | 50.00% | ~1 |
+| Supersleuth | 50.00% | ~1 |
 | Shields Up! | 0.00% | ~0 |
 | Load ‘em Up! | 0.00% | ~0 |
 | I’ll See You Again, Hacker | 0.00% | ~0 |
 | The Inside Scoop | 0.00% | ~0 |
 | Maxed Out | 0.00% | ~0 |
 | This Is My Boomstick! | 0.00% | ~0 |
-| En Garde! | 0.00% | ~0 |
 | Gut-Wrenching | 0.00% | ~0 |
 | Hacker? You Hardly Know’er! | 0.00% | ~0 |
 | Look At You, Hacker | 0.00% | ~0 |
@@ -26,7 +27,6 @@ Rating: 4.62 (Ranked 351)
 | Decrypted | 0.00% | ~0 |
 | Thermal BOOMing | 0.00% | ~0 |
 | Override Superposition | 0.00% | ~0 |
-| Supersleuth | 0.00% | ~0 |
 | Head Hunter | 0.00% | ~0 |
 | In the Not Too Distant Future | 0.00% | ~0 |
 | Somebody Set Up Us The Bomb | 0.00% | ~0 |

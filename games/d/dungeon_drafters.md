@@ -10,9 +10,9 @@
 | Shine! | 29.00% | ~24 |
 | Uncut Gem | 28.00% | ~23 |
 | Setting Off | 26.00% | ~21 |
-| Clear as Water | 23.00% | ~19 |
+| Clear as Water | 24.00% | ~20 |
+| Card Collector | 22.00% | ~18 |
 | Riddlesolver | 21.00% | ~17 |
-| Card Collector | 21.00% | ~17 |
 | Dungeon Mastery | 20.00% | ~16 |
 | The Steed | 10.00% | ~8 |
 | A Strange Proposition | 10.00% | ~8 |
@@ -21,12 +21,12 @@
 | The Familiar | 6.00% | ~5 |
 | Braving Miasma | 5.00% | ~4 |
 | Ancient Nemesis | 5.00% | ~4 |
+| Card Completionist | 5.00% | ~4 |
 | No Stone Unturned | 5.00% | ~4 |
 | Oracle Mastery | 4.00% | ~3 |
 | Raider Mastery | 4.00% | ~3 |
 | Traveler Mastery | 4.00% | ~3 |
 | The Plot Thickens | 4.00% | ~3 |
-| Card Completionist | 4.00% | ~3 |
 | The False Prophet | 4.00% | ~3 |
 | Sealed Once Again | 4.00% | ~3 |
 | Best Pupil | 2.00% | ~2 |

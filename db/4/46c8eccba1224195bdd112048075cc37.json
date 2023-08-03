@@ -641,9 +641,9 @@
       "ID": "FirstBlood",
       "SetID": "7g1kpc8",
       "Name": "First Blood",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "FirstBoss",
@@ -705,9 +705,9 @@
       "ID": "Persistence",
       "SetID": "7g1kpc8",
       "Name": "Persistence",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ReturnShell",
@@ -752,8 +752,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-08-03T13:13:15.5989475+00:00",
+  "LastChanged_Achievements": "2023-08-03T14:06:07.2597289+00:00",
   "LastUpdate_AppInfo": "2023-07-31T09:57:13.2028801+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:04:15.1215217+00:00",
-  "LastUpdate_Achievements": "2023-08-03T13:13:15.5989758+00:00"
+  "LastUpdate_Ratings": "2023-08-03T13:57:52.836784+00:00",
+  "LastUpdate_Achievements": "2023-08-03T14:06:07.2597437+00:00"
 }

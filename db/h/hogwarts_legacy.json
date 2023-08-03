@@ -5820,9 +5820,9 @@
       "Count": 574
     }
   ],
-  "EOS_Progressed": 289255,
+  "EOS_Progressed": 289257,
   "EOS_Completed": 437,
-  "EOS_NewPlayers": 586,
+  "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -17130,6 +17130,11 @@
       "Time": "2023-08-03T13:12:50.1656429+00:00",
       "NumProgressed": 289255,
       "NumCompleted": 437
+    },
+    {
+      "Time": "2023-08-03T14:05:45.9138723+00:00",
+      "NumProgressed": 289257,
+      "NumCompleted": 437
     }
   ],
   "TotalAchievements": 45,
@@ -17173,7 +17178,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 23140
+      "UsersEstimate": 23141
     },
     {
       "ID": "PFA_14",
@@ -17245,7 +17250,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23140
+      "UsersEstimate": 23141
     },
     {
       "ID": "PFA_22",
@@ -17365,7 +17370,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23140
+      "UsersEstimate": 23141
     },
     {
       "ID": "PFA_36",
@@ -17493,14 +17498,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23140
+      "UsersEstimate": 23141
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289255,
+      "Progressed": 289257,
       "Completed": 437
     }
   ],
@@ -17508,8 +17513,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-02T20:58:00.0885656+00:00",
-  "LastChanged_Achievements": "2023-08-03T13:12:50.1656422+00:00",
+  "LastChanged_Achievements": "2023-08-03T14:05:45.9138718+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:04:45.932513+00:00",
-  "LastUpdate_Achievements": "2023-08-03T13:12:50.1657614+00:00"
+  "LastUpdate_Ratings": "2023-08-03T13:58:15.5636932+00:00",
+  "LastUpdate_Achievements": "2023-08-03T14:05:45.9139595+00:00"
 }
