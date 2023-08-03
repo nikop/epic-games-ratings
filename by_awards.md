@@ -28,7 +28,7 @@
 | 26 | [Maneater](games/m/maneater.md) | 13,602 | 4.49 | 576 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,552 | 4.60 | 390 |
 | 28 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 13,040 | 4.60 | 390 |
-| 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,609 | 4.36 | 735 |
+| 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,612 | 4.36 | 735 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,544 | 4.42 | 668 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,252 | 4.86 | 28 |
 | 32 | [NBA 2K21](games/n/nba_2k21.md) | 11,733 | 4.39 | 705 |
@@ -81,7 +81,7 @@
 | 79 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,106 | 4.51 | 542 |
 | 80 | [Days Gone](games/d/days_gone.md) | 3,894 | 4.68 | 241 |
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,858 | 4.76 | 117 |
-| 82 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,700 | 4.28 | 797 |
+| 82 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,700 | 4.28 | 798 |
 | 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,620 | 4.57 | 447 |
 | 84 | [Gloomhaven](games/g/gloomhaven.md) | 3,496 | 4.47 | 608 |
 | 85 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,476 | 4.46 | 616 |
@@ -201,7 +201,7 @@
 | 199 | [Surviving Mars](games/s/surviving_mars.md) | 470 | 4.60 | 390 |
 | 200 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 272 |
 | 201 | [Second Extinction™](games/s/second_extinction™.md) | 456 | 4.05 | 914 |
-| 202 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 455 | 4.28 | 797 |
+| 202 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 455 | 4.29 | 787 |
 | 203 | [Dishonored 2](games/d/dishonored_2.md) | 433 | 4.79 | 89 |
 | 204 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 432 | 4.40 | 697 |
 | 205 | [RimWorld](games/r/rimworld.md) | 424 | 4.89 | 12 |
@@ -285,7 +285,7 @@
 | 282 | [The Witness](games/t/the_witness.md) | 178 | 4.70 | 198 |
 | 284 | [Space Punks](games/s/space_punks.md) | 174 | 4.16 | 876 |
 | 285 | [Cris Tales](games/c/cris_tales.md) | 173 | 4.36 | 735 |
-| 285 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 797 |
+| 285 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 798 |
 | 287 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 168 | 4.66 | 272 |
 | 288 | [Mothergunship](games/m/mothergunship.md) | 167 | 4.38 | 716 |
 | 289 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 164 | 4.38 | 716 |
@@ -301,7 +301,7 @@
 | 299 | [Blasphemous](games/b/blasphemous.md) | 144 | 4.85 | 40 |
 | 300 | [Night in the Woods](games/n/night_in_the_woods.md) | 142 | 4.72 | 170 |
 | 300 | [Predecessor](games/p/predecessor.md) | 142 | 4.43 | 659 |
-| 302 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 140 | 4.28 | 797 |
+| 302 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 140 | 4.28 | 798 |
 | 303 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 138 | 4.85 | 40 |
 | 304 | [Encased](games/e/encased.md) | 137 | 4.34 | 753 |
 | 305 | [Atomicrops](games/a/atomicrops.md) | 135 | 4.88 | 18 |
@@ -433,7 +433,7 @@
 | 430 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 37 | 4.57 | 447 |
 | 430 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 37 | 4.76 | 117 |
 | 433 | [20XX](games/2/20xx.md) | 36 | 4.61 | 368 |
-| 433 | [Steelrising](games/s/steelrising.md) | 36 | 4.28 | 797 |
+| 433 | [Steelrising](games/s/steelrising.md) | 36 | 4.28 | 798 |
 | 433 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 36 | 4.48 | 590 |
 | 436 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 185 |
 | 436 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 35 | 4.56 | 465 |

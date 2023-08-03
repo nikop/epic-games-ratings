@@ -736,7 +736,7 @@
 | 727 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 451 |
 | 735 | [Core](games/c/core.md) | 4.36 | 745 | 160 |
 | 735 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 285 |
-| 735 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,609 | 29 |
+| 735 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,612 | 29 |
 | 735 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 0 | 509 |
 | 735 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 509 |
 | 735 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 478 |
@@ -795,15 +795,15 @@
 | 787 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 707 | 163 |
 | 787 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 417 |
 | 787 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 126 | 310 |
+| 787 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.29 | 455 | 202 |
 | 787 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.29 | 0 | 509 |
-| 797 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 509 |
-| 797 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 509 |
-| 797 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,700 | 82 |
-| 797 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.28 | 0 | 509 |
-| 797 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 140 | 302 |
-| 797 | [Steelrising](games/s/steelrising.md) | 4.28 | 36 | 433 |
-| 797 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 285 |
-| 797 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.28 | 455 | 202 |
+| 798 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 509 |
+| 798 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 509 |
+| 798 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,700 | 82 |
+| 798 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.28 | 0 | 509 |
+| 798 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 140 | 302 |
+| 798 | [Steelrising](games/s/steelrising.md) | 4.28 | 36 | 433 |
+| 798 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 285 |
 | 805 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.27 | 0 | 509 |
 | 805 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 509 |
 | 805 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.27 | 0 | 509 |
