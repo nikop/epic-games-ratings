@@ -6,18 +6,18 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,721 |
+| A Brief Tour of the Realms | 4.00% | ~8,722 |
 | Beast Intentions | 3.00% | ~6,541 |
-| Maddening | 2.00% | ~4,360 |
+| Maddening | 2.00% | ~4,361 |
 | The Silken Swamp | 1.00% | ~2,180 |
 | Supply Run | 1.00% | ~2,180 |
 | Rocky Reception | 1.00% | ~1,843 |
 | Rock and Roll | 1.00% | ~1,843 |
 | Vecna Lives! | 0.90% | ~1,659 |
-| Tall Tales | 0.80% | ~1,474 |
-| Vecna Loots! | 0.80% | ~1,474 |
-| Flight of the Kindori Pod | 0.80% | ~1,474 |
-| Topolah's Tower | 0.80% | ~1,474 |
+| Tall Tales | 0.80% | ~1,475 |
+| Vecna Loots! | 0.80% | ~1,475 |
+| Flight of the Kindori Pod | 0.80% | ~1,475 |
+| Topolah's Tower | 0.80% | ~1,475 |
 | Wet Feet | 0.70% | ~1,526 |
 | Seeds of Destruction | 0.70% | ~1,290 |
 | Return to the Tomb | 0.70% | ~1,290 |
@@ -33,12 +33,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.60% | ~1,308 |
 | The Cursed Farmer | 0.60% | ~1,308 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,106 |
-| Thieves of the Coven | 0.50% | ~921 |
+| Thieves of the Coven | 0.50% | ~922 |
 | Don't Look Up! | 0.50% | ~1,090 |
 | Heavy Burden | 0.50% | ~1,090 |
-| The Evacuation of Waterdeep | 0.50% | ~921 |
+| The Evacuation of Waterdeep | 0.50% | ~922 |
 | Friends of the Forest | 0.50% | ~1,090 |
-| The Dread Domain of Tovag | 0.50% | ~921 |
+| The Dread Domain of Tovag | 0.50% | ~922 |
 | Beast Mode | 0.50% | ~1,090 |
 | Low Initiative | 0.50% | ~1,090 |
 | Street War | 0.50% | ~1,090 |
@@ -48,12 +48,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.50% | ~1,090 |
 | The Botched Kidnapping | 0.50% | ~1,090 |
 | The Mad Wizard | 0.50% | ~1,090 |
-| Not That Type of Helm! | 0.50% | ~921 |
-| Calcryx Tricks | 0.50% | ~921 |
-| Goblin Halls: the Next Generation | 0.50% | ~921 |
-| Bazaar Companions | 0.50% | ~921 |
-| Bahamut's Army | 0.50% | ~921 |
-| Krux's Speed Run | 0.50% | ~921 |
+| Not That Type of Helm! | 0.50% | ~922 |
+| Calcryx Tricks | 0.50% | ~922 |
+| Goblin Halls: the Next Generation | 0.50% | ~922 |
+| Bazaar Companions | 0.50% | ~922 |
+| Bahamut's Army | 0.50% | ~922 |
+| Krux's Speed Run | 0.50% | ~922 |
 | Upholding the Law | 0.40% | ~872 |
 | Hither of the Feywild | 0.40% | ~737 |
 | Speeds of Destruction | 0.40% | ~737 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,025 (Ranked 53)  
+Progressed: 218,041 (Ranked 53)  
 Completed: 2,145 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -624,6 +624,7 @@ Completed: 2,145 (0.98%) (Ranked 112)
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
+| 2023-08-03 | 218,041 | 2,145 |
 ## Awards
 Max (Diverse Characters): 5,109  (Ranked 67)  
 Sum: 30,857 (Ranked 38)  

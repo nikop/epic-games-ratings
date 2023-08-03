@@ -14,22 +14,22 @@
 | 10Gb HDD | 28.00% | ~16 |
 | The Vette | 25.00% | ~14 |
 | Mega Kill | 21.00% | ~12 |
+| Almost There I | 19.00% | ~11 |
 | Stoic | 18.00% | ~10 |
-| Almost There I | 18.00% | ~10 |
 | Omicron Alpha | 14.00% | ~8 |
+| Bronze Prince of Ball-air | 12.00% | ~7 |
+| Pacifist | 12.00% | ~7 |
 | Galactic Cadet | 12.00% | ~7 |
-| Bronze Prince of Ball-air | 11.00% | ~6 |
-| Pacifist | 11.00% | ~6 |
+| Collateral Damage I | 12.00% | ~7 |
+| Defrosted | 11.00% | ~6 |
 | 25Gb HDD | 11.00% | ~6 |
-| Collateral Damage I | 11.00% | ~6 |
-| Defrosted | 9.00% | ~5 |
-| Sectoral Ensign | 7.00% | ~4 |
-| Rambo II | 7.00% | ~4 |
+| Sectoral Ensign | 9.00% | ~5 |
+| Rambo II | 9.00% | ~5 |
+| Space Surfer | 9.00% | ~5 |
+| Silver Prince of Ball-air | 9.00% | ~5 |
+| Merchant Prince II | 9.00% | ~5 |
 | Golden Prince of Ball-air | 7.00% | ~4 |
-| Space Surfer | 7.00% | ~4 |
 | Unstoppable | 7.00% | ~4 |
-| Silver Prince of Ball-air | 7.00% | ~4 |
-| Merchant Prince II | 7.00% | ~4 |
 | Usurper I | 5.00% | ~3 |
 | Flower Power | 5.00% | ~3 |
 | Sectoral Captain | 5.00% | ~3 |

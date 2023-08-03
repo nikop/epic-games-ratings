@@ -736,9 +736,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6560,
+  "EOS_Progressed": 6561,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4106,6 +4106,11 @@
       "Time": "2023-08-02T21:05:32.0878253+00:00",
       "NumProgressed": 6560,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-03T00:05:50.7747817+00:00",
+      "NumProgressed": 6561,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4133,7 +4138,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3084
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -4197,7 +4202,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -4261,7 +4266,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -4285,7 +4290,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -4309,7 +4314,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3608
+      "UsersEstimate": 3609
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -4365,7 +4370,7 @@
       "Name": "Silver Lining",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -4429,7 +4434,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -4445,7 +4450,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3608
+      "UsersEstimate": 3609
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -4453,7 +4458,7 @@
       "Name": "Uomo Universale",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -4476,7 +4481,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6560,
+      "Progressed": 6561,
       "Completed": 8
     }
   ],
@@ -4484,8 +4489,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-01T20:57:49.8563487+00:00",
-  "LastChanged_Achievements": "2023-08-02T23:06:18.3148767+00:00",
+  "LastChanged_Achievements": "2023-08-03T00:05:50.7747811+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:14.0482826+00:00",
-  "LastUpdate_Ratings": "2023-08-02T22:58:20.8260923+00:00",
-  "LastUpdate_Achievements": "2023-08-02T23:06:18.3149738+00:00"
+  "LastUpdate_Ratings": "2023-08-02T23:58:20.8402482+00:00",
+  "LastUpdate_Achievements": "2023-08-03T00:05:50.7748442+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "n-verlore-verstand-1d7f5b",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
@@ -291,9 +291,9 @@
       "ID": "3",
       "SetID": "6m1k8ai",
       "Name": "Brace the cold",
-      "Percentage": 42,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "30",
@@ -379,9 +379,9 @@
       "ID": "4",
       "SetID": "6m1k8ai",
       "Name": "A Long Walk",
-      "Percentage": 37,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "40",
@@ -506,8 +506,8 @@
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-08-02T23:05:36.4168214+00:00",
+  "LastChanged_Achievements": "2023-08-03T00:05:24.7027701+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.5511093+00:00",
-  "LastUpdate_Ratings": "2023-08-02T22:59:34.8701165+00:00",
-  "LastUpdate_Achievements": "2023-08-02T23:05:36.4168911+00:00"
+  "LastUpdate_Ratings": "2023-08-02T23:59:14.9326832+00:00",
+  "LastUpdate_Achievements": "2023-08-03T00:05:24.7028117+00:00"
 }

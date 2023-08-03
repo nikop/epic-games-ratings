@@ -1,46 +1,46 @@
 # Football Manager 2023
 [Store](https://store.epicgames.com/en-US/p/football-manager-2023)  
 [View Rawdata](../../db/f/football_manager_2023.json)  
-Rating: 4.76 (Ranked 117)  
+Rating: 4.75 (Ranked 135)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 77.00% | ~62,563 |
-| The Player Whisperer | 76.00% | ~61,751 |
-| One of Us, One of Us! | 73.00% | ~59,313 |
+| Motivational Speaker | 77.00% | ~62,564 |
+| The Player Whisperer | 76.00% | ~61,752 |
+| One of Us, One of Us! | 73.00% | ~59,314 |
 | Clean Sheet | 68.00% | ~55,251 |
 | First Victory | 68.00% | ~55,251 |
-| #DoneDeal | 67.00% | ~54,438 |
-| Off the Books | 65.00% | ~52,813 |
-| Super-Sub | 65.00% | ~52,813 |
+| #DoneDeal | 67.00% | ~54,439 |
+| Off the Books | 65.00% | ~52,814 |
+| Super-Sub | 65.00% | ~52,814 |
 | Hat-trick | 60.00% | ~48,751 |
 | "I Would Love It If We Beat Them" | 58.00% | ~47,126 |
 | Planned Signing | 58.00% | ~47,126 |
-| Thumping | 53.00% | ~43,063 |
-| Scoring Streak | 53.00% | ~43,063 |
+| Thumping | 53.00% | ~43,064 |
+| Scoring Streak | 53.00% | ~43,064 |
 | Wheeler Dealer | 52.00% | ~42,251 |
-| Unbeatable! | 51.00% | ~41,438 |
-| People Pleaser | 51.00% | ~41,438 |
-| One Of Our Own | 48.00% | ~39,000 |
+| Unbeatable! | 51.00% | ~41,439 |
+| People Pleaser | 51.00% | ~41,439 |
+| One Of Our Own | 48.00% | ~39,001 |
 | They're a Natural | 45.00% | ~36,563 |
-| Team Performance | 44.00% | ~35,750 |
-| Record Signing | 44.00% | ~35,750 |
-| The Only Stat That Matters | 44.00% | ~35,750 |
+| Team Performance | 44.00% | ~35,751 |
+| Record Signing | 44.00% | ~35,751 |
+| The Only Stat That Matters | 44.00% | ~35,751 |
 | Star Player | 41.00% | ~33,313 |
-| Full Faith | 40.00% | ~32,500 |
-| Squad Goals | 40.00% | ~32,500 |
-| The People's Champion | 40.00% | ~32,500 |
+| Full Faith | 40.00% | ~32,501 |
+| Squad Goals | 40.00% | ~32,501 |
+| The People's Champion | 40.00% | ~32,501 |
 | Parked The Bus | 39.00% | ~31,688 |
 | Beating Expectations | 39.00% | ~31,688 |
 | Goal Rush | 39.00% | ~31,688 |
 | Flavour Of The Month | 37.00% | ~30,063 |
-| What A Goal! | 36.00% | ~29,250 |
-| Unstoppable Force | 36.00% | ~29,250 |
-| Record Sale | 36.00% | ~29,250 |
+| What A Goal! | 36.00% | ~29,251 |
+| Unstoppable Force | 36.00% | ~29,251 |
+| Record Sale | 36.00% | ~29,251 |
 | You're on Fire | 35.00% | ~28,438 |
 | Tremendous Trio | 35.00% | ~28,438 |
 | Shots For Days | 35.00% | ~28,438 |
-| The Special One | 34.00% | ~27,625 |
+| The Special One | 34.00% | ~27,626 |
 | On a Roll | 33.00% | ~26,813 |
 | Splashing the Cash | 33.00% | ~26,813 |
 | Drilling Down | 31.00% | ~25,188 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 117)
 | Versus Anyone | 0.10% | ~81 |
 | 200 Club | 0.10% | ~81 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81,251 (Ranked 72)  
+Progressed: 81,252 (Ranked 72)  
 Completed: 22 (0.03%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,6 +211,7 @@ Completed: 22 (0.03%) (Ranked 222)
 | 2023-07-31 | 80,912 | 22 |
 | 2023-08-01 | 81,071 | 22 |
 | 2023-08-02 | 81,251 | 22 |
+| 2023-08-03 | 81,252 | 22 |
 ## Awards
 Max (Diverse Characters): 582  (Ranked 180)  
 Sum: 4,206 (Ranked 137)  
@@ -388,3 +389,4 @@ Diff (max vs sum): 43
 | 2023-07-31 | 4.76 | 578 | 4,179 |
 | 2023-08-01 | 4.76 | 582 | 4,198 |
 | 2023-08-02 | 4.76 | 582 | 4,206 |
+| 2023-08-03 | 4.75 | 582 | 4,206 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 421,
+  "EOS_Progressed": 422,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -390,6 +390,11 @@
       "Time": "2023-08-02T19:01:29.1751278+00:00",
       "NumProgressed": 421,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-03T00:03:21.197649+00:00",
+      "NumProgressed": 422,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -433,7 +438,7 @@
       "Name": "Frugal",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "collect-discounted-items2",
@@ -457,7 +462,7 @@
       "Name": "Party",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "different-items2",
@@ -473,7 +478,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "finished-quest-cube",
@@ -481,7 +486,7 @@
       "Name": "Impossible Cube",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "finished-quest-flight",
@@ -497,7 +502,7 @@
       "Name": "Campaigning",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "finished-quest-nurgle",
@@ -505,7 +510,7 @@
       "Name": "Feed a God",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "finished-quest-pit",
@@ -529,7 +534,7 @@
       "Name": "Catch Jonathan_tostar",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "finished-quest-sci",
@@ -537,7 +542,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "finished-quest-secret",
@@ -615,9 +620,9 @@
       "ID": "win-first-biom",
       "SetID": "799afm0",
       "Name": "Vanquisher of Robots",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 316
     },
     {
       "ID": "win-first-level",
@@ -625,7 +630,7 @@
       "Name": "Good start!",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "win-koth-fights1",
@@ -633,7 +638,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "win-koth-fights2",
@@ -647,7 +652,7 @@
       "ID": "win-koth-fights3",
       "SetID": "799afm0",
       "Name": "Vet",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -680,7 +685,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 421,
+      "Progressed": 422,
       "Completed": 1
     }
   ],
@@ -688,8 +693,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-08-02T23:02:30.3787334+00:00",
+  "LastChanged_Achievements": "2023-08-03T00:03:21.1976484+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:34.0808187+00:00",
-  "LastUpdate_Ratings": "2023-08-02T22:59:55.4051972+00:00",
-  "LastUpdate_Achievements": "2023-08-02T23:02:30.3787804+00:00"
+  "LastUpdate_Ratings": "2023-08-02T23:59:31.5339832+00:00",
+  "LastUpdate_Achievements": "2023-08-03T00:03:21.1976802+00:00"
 }

@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 87.00% | ~184 |
-| Your first fight | 85.00% | ~180 |
-| Good Person Chip | 84.00% | ~178 |
-| First winning | 83.00% | ~176 |
+| Your first fight | 86.00% | ~182 |
+| Good Person Chip | 85.00% | ~180 |
+| First winning | 84.00% | ~178 |
 | Your first job | 83.00% | ~176 |
 | Old movies enjoyer | 79.00% | ~167 |
 | First defeat | 78.00% | ~165 |
+| Depressed visitor | 77.00% | ~163 |
 | Fitness professional | 76.00% | ~161 |
-| Depressed visitor | 76.00% | ~161 |
 | Neurotrainer – power gainer! | 75.00% | ~159 |
 | Employee of the week | 75.00% | ~159 |
 | Your own amateur gym | 74.00% | ~157 |
@@ -29,10 +29,10 @@
 | Little hacker | 56.00% | ~119 |
 | It's good to be alive | 55.00% | ~117 |
 | Own four walls | 54.00% | ~114 |
+| Handyman | 53.00% | ~112 |
 | Champion – starter pack | 53.00% | ~112 |
 | Employee of the year | 53.00% | ~112 |
 | Fight for life | 52.00% | ~110 |
-| Handyman | 52.00% | ~110 |
 | Legal courier | 50.00% | ~106 |
 | Extreme neuropower! | 48.00% | ~102 |
 | Escaped from a big trouble | 48.00% | ~102 |
@@ -49,22 +49,22 @@
 | GYM professional | 35.00% | ~74 |
 | Champion – no way back | 35.00% | ~74 |
 | Poisoned fighter | 34.00% | ~72 |
+| Seashell hunter | 34.00% | ~72 |
 | Mom got better | 33.00% | ~70 |
 | The die is cast | 33.00% | ~70 |
-| Seashell hunter | 33.00% | ~70 |
 | Undercover robot | 31.00% | ~66 |
 | Gang wrangler | 30.00% | ~64 |
 | Problems of cyborgs | 30.00% | ~64 |
+| Not little hacker | 30.00% | ~64 |
 | Absolute Champion! | 30.00% | ~64 |
 | The last bell ring | 30.00% | ~64 |
-| Not little hacker | 29.00% | ~61 |
 | The lonesome road | 28.00% | ~59 |
+| Keep nature safe | 28.00% | ~59 |
+| Family comes first | 28.00% | ~59 |
 | Key memories | 28.00% | ~59 |
+| Careerist | 28.00% | ~59 |
 | The heart of the Resistance | 28.00% | ~59 |
 | Another world | 27.00% | ~57 |
-| Keep nature safe | 27.00% | ~57 |
-| Family comes first | 27.00% | ~57 |
-| Careerist | 27.00% | ~57 |
 | Anyone can resist | 27.00% | ~57 |
 | Trap disarmed | 26.00% | ~55 |
 | Silver’s past | 25.00% | ~53 |

@@ -2,9 +2,9 @@
   "ID": "494a9b22e0ce449aa1a362ba9dce9ba5",
   "Name": "World of Contraptions",
   "ProductSlug": "world-of-contraptions-6dbc07",
-  "Ranking_EOS_Progress": 269,
+  "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238,
+  "EOS_Progressed": 239,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -976,6 +976,11 @@
       "Time": "2023-08-02T23:03:30.965029+00:00",
       "NumProgressed": 238,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T00:03:45.970414+00:00",
+      "NumProgressed": 239,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -985,9 +990,9 @@
       "ID": "FIRST_LEVEL",
       "SetID": "aemieak",
       "Name": "The first of many",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 134
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -1219,21 +1224,21 @@
       "Name": "Starting to take notes",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     }
   ],
   "AchievementSets": [
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 238,
+      "Progressed": 239,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-08-02T23:03:30.9650281+00:00",
+  "LastChanged_Achievements": "2023-08-03T00:03:45.9704131+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.942279+00:00",
-  "LastUpdate_Ratings": "2023-08-02T22:59:11.6797879+00:00",
-  "LastUpdate_Achievements": "2023-08-02T23:03:30.9650726+00:00"
+  "LastUpdate_Ratings": "2023-08-02T23:58:59.7521107+00:00",
+  "LastUpdate_Achievements": "2023-08-03T00:03:45.9704425+00:00"
 }

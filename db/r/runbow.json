@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247537,
+  "EOS_Progressed": 247538,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10134,6 +10134,11 @@
       "Time": "2023-08-02T23:02:34.7945264+00:00",
       "NumProgressed": 247537,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-03T00:03:25.1326812+00:00",
+      "NumProgressed": 247538,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -10249,7 +10254,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49507
+      "UsersEstimate": 49508
     },
     {
       "ID": "didYourTime",
@@ -10385,7 +10390,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123768
+      "UsersEstimate": 123769
     },
     {
       "ID": "notScared",
@@ -10512,7 +10517,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 247537,
+      "Progressed": 247538,
       "Completed": 3
     }
   ],
@@ -10520,8 +10525,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-02T23:02:34.7945256+00:00",
+  "LastChanged_Achievements": "2023-08-03T00:03:25.1326805+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:02.5493145+00:00",
-  "LastUpdate_Ratings": "2023-08-02T23:00:31.7258736+00:00",
-  "LastUpdate_Achievements": "2023-08-02T23:02:34.7946767+00:00"
+  "LastUpdate_Ratings": "2023-08-02T23:59:58.2010852+00:00",
+  "LastUpdate_Achievements": "2023-08-03T00:03:25.1327784+00:00"
 }

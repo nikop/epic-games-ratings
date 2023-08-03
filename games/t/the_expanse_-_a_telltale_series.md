@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Doctor Approved | 16.00% | ~567 |
-| Captain Drummer | 15.00% | ~532 |
-| Data Logger | 3.00% | ~106 |
-| Urshanabi Hoarder | 1.00% | ~35 |
+| Doctor Approved | 17.00% | ~608 |
+| Captain Drummer | 15.00% | ~537 |
+| Data Logger | 3.00% | ~107 |
+| Urshanabi Hoarder | 1.00% | ~36 |
 | Martian Music | 0.10% | ~4 |
 | Celebrations are in Order | 0.10% | ~4 |
 | Data Miner | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Data Recoverer | 0.00% | ~0 |
 | Impossible Objects | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,546 (Ranked 147)  
+Progressed: 3,578 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,3 +47,4 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-31 | 2,464 | 0 |
 | 2023-08-01 | 3,074 | 0 |
 | 2023-08-02 | 3,546 | 0 |
+| 2023-08-03 | 3,578 | 0 |

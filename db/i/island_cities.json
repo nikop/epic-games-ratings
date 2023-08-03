@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 443,
+  "EOS_Progressed": 444,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 18.51,
+  "EOS_Completed_Percentage": 18.47,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2143,6 +2143,11 @@
       "Time": "2023-08-02T21:03:55.1139328+00:00",
       "NumProgressed": 443,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-08-03T00:04:13.514113+00:00",
+      "NumProgressed": 444,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 22,
@@ -2154,7 +2159,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "LEVEL_002",
@@ -2162,7 +2167,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "LEVEL_003",
@@ -2170,7 +2175,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "LEVEL_004",
@@ -2202,7 +2207,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "LEVEL_008",
@@ -2226,7 +2231,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "LEVEL_011",
@@ -2250,7 +2255,7 @@
       "Name": "Elevated ring",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "LEVEL_014",
@@ -2266,7 +2271,7 @@
       "Name": "Monumental tribute",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "LEVEL_016",
@@ -2329,7 +2334,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 443,
+      "Progressed": 444,
       "Completed": 82
     }
   ],
@@ -2337,8 +2342,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-08-02T23:04:13.6506376+00:00",
+  "LastChanged_Achievements": "2023-08-03T00:04:13.5141124+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:55.2732426+00:00",
-  "LastUpdate_Ratings": "2023-08-02T22:59:02.4512413+00:00",
-  "LastUpdate_Achievements": "2023-08-02T23:04:13.6506673+00:00"
+  "LastUpdate_Ratings": "2023-08-02T23:58:52.557015+00:00",
+  "LastUpdate_Achievements": "2023-08-03T00:04:13.5141397+00:00"
 }

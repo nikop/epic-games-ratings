@@ -15,8 +15,8 @@ Rating: 4.69 (Ranked 214)
 | Her Name Was Masana Tide | 54.00% | ~576 |
 | Bank Shot | 54.00% | ~576 |
 | Perfect Timing | 53.00% | ~566 |
+| Gorgara Falls | 49.00% | ~523 |
 | The Full Glow-Up | 49.00% | ~523 |
-| Gorgara Falls | 48.00% | ~512 |
 | For A More Civilized Age | 45.00% | ~480 |
 | Look Out Below | 43.00% | ~459 |
 | I Knew He Was No Good | 42.00% | ~448 |
@@ -24,7 +24,7 @@ Rating: 4.69 (Ranked 214)
 | The Holocron Awaits | 40.00% | ~427 |
 | Scum and Villainy | 40.00% | ~427 |
 | Trust Only In The Force | 37.00% | ~395 |
-| Blade Master | 35.00% | ~373 |
+| Blade Master | 36.00% | ~384 |
 | Full House | 33.00% | ~352 |
 | Legendary Beasts | 23.00% | ~245 |
 | Echo Location | 20.00% | ~213 |
@@ -43,7 +43,7 @@ Rating: 4.69 (Ranked 214)
 | Green Thumb | 3.00% | ~32 |
 | A Galaxy Far, Far Away | 3.00% | ~32 |
 | Kicking Back | 2.00% | ~21 |
-| Not So Fast | 0.90% | ~10 |
+| Not So Fast | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,067 (Ranked 194)  
 Completed: 5 (0.47%) (Ranked 139)  

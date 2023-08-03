@@ -4,7 +4,7 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 894,
+  "EOS_Progressed": 895,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2608,6 +2608,11 @@
       "Time": "2023-08-02T23:07:49.2122766+00:00",
       "NumProgressed": 894,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T00:07:16.5305693+00:00",
+      "NumProgressed": 895,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -2627,7 +2632,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "CHIEF",
@@ -2643,7 +2648,7 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "DEBTOR",
@@ -2651,7 +2656,7 @@
       "Name": "DEBTOR",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "FIREFIGHTER",
@@ -2683,7 +2688,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "INTRODUCTION",
@@ -2691,7 +2696,7 @@
       "Name": "INTRODUCTION",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "SECOND_FLOOR",
@@ -2730,7 +2735,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 894,
+      "Progressed": 895,
       "Completed": 0
     }
   ],
@@ -2738,8 +2743,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-08-02T23:07:49.2122762+00:00",
+  "LastChanged_Achievements": "2023-08-03T00:07:16.5305686+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:02.6399778+00:00",
-  "LastUpdate_Ratings": "2023-08-02T23:00:44.0598741+00:00",
-  "LastUpdate_Achievements": "2023-08-02T23:07:49.2123102+00:00"
+  "LastUpdate_Ratings": "2023-08-03T00:00:10.3143404+00:00",
+  "LastUpdate_Achievements": "2023-08-03T00:07:16.5305995+00:00"
 }
