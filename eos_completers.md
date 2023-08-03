@@ -142,11 +142,11 @@
 | 139 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.47% |
 | 141 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.46% |
 | 142 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.45% |
-| 143 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
-| 144 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.43% |
-| 144 | [Tchia](games/t/tchia.md) | 0.43% |
-| 146 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.41% |
+| 143 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.43% |
+| 143 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
+| 143 | [Tchia](games/t/tchia.md) | 0.43% |
 | 146 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
+| 147 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.40% |
 | 148 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 149 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 149 | [Wildermyth](games/w/wildermyth.md) | 0.37% |
@@ -525,4 +525,4 @@
 | 247 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 247 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 247 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,990 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,991 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

@@ -453,6 +453,7 @@
 | [The Backroom Project](../games/5/51dd70aea58d47609d82b87473877daa.md) | 18 | 1,000 |
 | [Trail Of Ayash](../games/5/538efd8138f94b088f2d9e3da178edd6.md) | 18 | 1,000 |
 | [Bloodshore](../games/b/bloodshore.md) | 17 | 1,000 |
+| [Dodo Peak](../games/c/cea01263911a4e179a5e3892ef710930.md) | 17 | 1,000 |
 | [Faraday Protocol](../games/f/faraday_protocol.md) | 17 | 1,000 |
 | [Lemon Cake](../games/l/lemon_cake.md) | 17 | 1,000 |
 | [Mask of the Rose](../games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 17 | 1,000 |
