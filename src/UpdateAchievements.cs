@@ -125,7 +125,6 @@ namespace EpicRatingsUpdater
                     if (item.FirstSeenAchievements == null)
                     {
                         item.FirstSeenAchievements = DateTimeOffset.UtcNow;
-
                     }
                 }
 
@@ -138,7 +137,11 @@ namespace EpicRatingsUpdater
                 if (previousAchies == 0 && item.TotalAchievements > 0)
                 {
                     item.AchievementsAdded = DateTimeOffset.UtcNow;
-                    webhookClient?.SendMessageAsync($"Achievements Added: [{item.Name}](https://epicgames.com/achievements/{item.ProductSlug}) - {item.TotalAchievements} achievements for {item.TotalAchievementsXP} XP");
+
+                    var displayName = item.Name ?? $"App {item.ID}";
+                    var link = item.ProductSlug != null ? $"[{displayName}](https://epicgames.com/achievements/{item.ProductSlug})" : displayName;
+
+                    webhookClient?.SendMessageAsync($"Achievements Added: {link} - {item.TotalAchievements} achievements for {item.TotalAchievementsXP} XP");
                 }
 
                 // Sets
