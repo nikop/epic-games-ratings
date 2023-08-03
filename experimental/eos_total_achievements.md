@@ -39,6 +39,7 @@
 | [Iratus: Lord of the Dead](../games/i/iratus__lord_of_the_dead.md) | 75 | 1,000 |
 | [Quest Hunter](../games/b/b72f5f79f855471e9691ff22e4967656.md) | 74 | 1,110 |
 | [Shotgun Farmers](../games/s/shotgun_farmers.md) | 74 | 1,150 |
+| [SlavicPunk: Oldtimer](../games/1/1e9b7636582f4251a1e1a61906d31c47.md) | 74 | 1,000 |
 | [Mokoko X](../games/c/cace077f51674e66b937ba8d5646fff7.md) | 73 | 1,000 |
 | [NOOB - The Factionless](../games/n/noob_-_the_factionless.md) | 73 | 1,000 |
 | [Zombie Rollerz: Pinball Heroes](../games/z/zombie_rollerz__pinball_heroes.md) | 73 | 1,000 |
@@ -135,6 +136,7 @@
 | [Hades](../games/h/hades.md) | 49 | 1,000 |
 | [The Caligula Effect 2](../games/t/the_caligula_effect_2.md) | 49 | 1,000 |
 | [ToeJam & Earl: Back in the Groove!](../games/t/toejam_&_earl__back_in_the_groove!.md) | 49 | 1,000 |
+| [](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 48 | 1,440 |
 | ['n Verlore Verstand](../games/'/'n_verlore_verstand.md) | 48 | 1,000 |
 | [Chaos Galaxy](../games/c/chaos_galaxy.md) | 48 | 1,000 |
 | [Hand of Fate 2](../games/h/hand_of_fate_2.md) | 48 | 1,000 |

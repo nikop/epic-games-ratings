@@ -12,6 +12,7 @@
 | [Fallout: New Vegas](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 |
 | [The Dungeon of Naheulbeuk](../games/t/the_dungeon_of_naheulbeuk.md) | 88 | 1,490 |
+| [](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 48 | 1,440 |
 | [The Tenants](../games/t/the_tenants.md) | 86 | 1,400 |
 | [Gotham Knights](../games/g/gotham_knights.md) | 61 | 1,390 |
 | [Sifu](../games/s/sifu.md) | 50 | 1,350 |
@@ -432,6 +433,7 @@
 | [Skul: The Hero Slayer](../games/s/skul__the_hero_slayer.md) | 24 | 1,000 |
 | [Skye Tales](../games/0/06c6603778ed47859ce523af7e0b566b.md) | 41 | 1,000 |
 | [Slain: Back From Hell](../games/s/slain__back_from_hell.md) | 29 | 1,000 |
+| [SlavicPunk: Oldtimer](../games/1/1e9b7636582f4251a1e1a61906d31c47.md) | 74 | 1,000 |
 | [Smalland: Survive the Wilds](../games/s/smalland__survive_the_wilds.md) | 13 | 1,000 |
 | [Smelter](../games/s/smelter.md) | 51 | 1,000 |
 | [Somerville](../games/s/somerville.md) | 11 | 1,000 |

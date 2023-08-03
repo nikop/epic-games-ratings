@@ -23,7 +23,7 @@
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | - |  | - | - |
 | [Polker](games/1/1c380e2b8e7b4c2ea0643aff249fb7f1.md) | 2023-09-29 | - |  | - | - |
 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | - |  | - | - |
-| [canVERSE](games/c/canverse.md) | 2023-08-02 | - |  | - | - |
+| [canVERSE](games/c/canverse.md) | 2023-08-02 | - |  | - | 0 |
 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 2023-07-24 | - |  | - | 0 |
 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2023-07-12 | 19 (1,000 XP) | 172 | - | 0 |
 | [POLYGOD](games/p/polygod.md) | 2023-07-01 | - |  | - | 0 |
