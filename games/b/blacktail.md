@@ -29,12 +29,12 @@ Rating: 4.68 (Ranked 241)
 | Specialist | 3.00% | ~18 |
 | Witch's cookbook | 3.00% | ~18 |
 | Gnowlledgeable | 2.00% | ~12 |
+| Awards unwarded | 2.00% | ~12 |
 | Always worth a try | 2.00% | ~12 |
 | Toxic | 2.00% | ~12 |
 | Entangled | 2.00% | ~12 |
 | Bad apple | 1.00% | ~6 |
 | Loremaster | 1.00% | ~6 |
-| Awards unwarded | 1.00% | ~6 |
 | Mushrooming enthusiast | 0.50% | ~3 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)

@@ -5,9 +5,9 @@
   "Ranking_Rating": 368,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
-  "Ranking_EOS_Progress": 186,
+  "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1247,
+  "EOS_Progressed": 1249,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2000,6 +2000,11 @@
       "Time": "2023-08-02T23:04:25.778148+00:00",
       "NumProgressed": 1247,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-03T08:04:46.7320351+00:00",
+      "NumProgressed": 1249,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2011,7 +2016,7 @@
       "Name": "Agent 47",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Auditor",
@@ -2043,7 +2048,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Commandos",
@@ -2091,7 +2096,7 @@
       "Name": "E1M1",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "Everyone_is_here",
@@ -2121,9 +2126,9 @@
       "ID": "Grenadier",
       "SetID": "85nb4h3",
       "Name": "Grenadier",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 437
     },
     {
       "ID": "Hard_Serpent",
@@ -2139,7 +2144,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "High_noon",
@@ -2185,9 +2190,9 @@
       "ID": "Long_fire",
       "SetID": "85nb4h3",
       "Name": "One by One",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 150
     },
     {
       "ID": "Miner",
@@ -2227,7 +2232,7 @@
       "Name": "War Never Changes",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "We_were_not_here",
@@ -2250,15 +2255,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1247,
+      "Progressed": 1249,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-03T07:04:36.8054465+00:00",
+  "LastChanged_Achievements": "2023-08-03T08:04:46.7320346+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:01.8247035+00:00",
-  "LastUpdate_Ratings": "2023-08-03T07:00:33.458746+00:00",
-  "LastUpdate_Achievements": "2023-08-03T07:04:36.8054826+00:00"
+  "LastUpdate_Ratings": "2023-08-03T08:00:51.4187663+00:00",
+  "LastUpdate_Achievements": "2023-08-03T08:04:46.7320664+00:00"
 }

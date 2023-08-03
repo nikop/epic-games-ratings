@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -354,9 +354,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2686,
+  "EOS_Progressed": 2687,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.76,
   "EosHistory": [
@@ -2339,6 +2339,11 @@
       "Time": "2023-08-03T01:58:21.2393283+00:00",
       "NumProgressed": 2686,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-08-03T08:06:22.9804616+00:00",
+      "NumProgressed": 2687,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 14,
@@ -2390,7 +2395,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -2454,14 +2459,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 2014
+      "UsersEstimate": 2015
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2686,
+      "Progressed": 2687,
       "Completed": 101
     }
   ],
@@ -2469,8 +2474,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-08-03T07:06:12.0273603+00:00",
+  "LastChanged_Achievements": "2023-08-03T08:06:22.9804611+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.70294+00:00",
-  "LastUpdate_Ratings": "2023-08-03T07:02:04.5840713+00:00",
-  "LastUpdate_Achievements": "2023-08-03T07:06:12.0274256+00:00"
+  "LastUpdate_Ratings": "2023-08-03T08:02:22.8037927+00:00",
+  "LastUpdate_Achievements": "2023-08-03T08:06:22.9804831+00:00"
 }

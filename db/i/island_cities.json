@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 444,
+  "EOS_Progressed": 445,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 18.47,
+  "EOS_Completed_Percentage": 18.43,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2148,6 +2148,11 @@
       "Time": "2023-08-03T00:04:13.514113+00:00",
       "NumProgressed": 444,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-08-03T08:04:34.4635078+00:00",
+      "NumProgressed": 445,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 22,
@@ -2159,7 +2164,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "LEVEL_002",
@@ -2167,7 +2172,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "LEVEL_003",
@@ -2175,15 +2180,15 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 253
+      "UsersEstimate": 249
     },
     {
       "ID": "LEVEL_005",
@@ -2199,7 +2204,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "LEVEL_007",
@@ -2229,9 +2234,9 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 133
+      "UsersEstimate": 129
     },
     {
       "ID": "LEVEL_011",
@@ -2239,7 +2244,7 @@
       "Name": "At the heart of the city",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "LEVEL_012",
@@ -2303,7 +2308,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "LEVEL_020",
@@ -2311,7 +2316,7 @@
       "Name": "City of dreams",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "LEVEL_021",
@@ -2334,7 +2339,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 444,
+      "Progressed": 445,
       "Completed": 82
     }
   ],
@@ -2342,8 +2347,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-08-03T07:04:24.7775555+00:00",
+  "LastChanged_Achievements": "2023-08-03T08:04:34.4635073+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:55.2732426+00:00",
-  "LastUpdate_Ratings": "2023-08-03T06:59:04.228207+00:00",
-  "LastUpdate_Achievements": "2023-08-03T07:04:24.7775885+00:00"
+  "LastUpdate_Ratings": "2023-08-03T07:59:11.8680305+00:00",
+  "LastUpdate_Achievements": "2023-08-03T08:04:34.4635341+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5506,9 +5506,9 @@
       "Count": 3338
     }
   ],
-  "EOS_Progressed": 218124,
+  "EOS_Progressed": 218133,
   "EOS_Completed": 2147,
-  "EOS_NewPlayers": 2223,
+  "EOS_NewPlayers": 2222,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16801,6 +16801,11 @@
       "Time": "2023-08-03T07:05:20.2337039+00:00",
       "NumProgressed": 218124,
       "NumCompleted": 2147
+    },
+    {
+      "Time": "2023-08-03T08:05:31.201046+00:00",
+      "NumProgressed": 218133,
+      "NumCompleted": 2147
     }
   ],
   "TotalAchievements": 512,
@@ -16820,7 +16825,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4362
+      "UsersEstimate": 4363
     },
     {
       "ID": "objective_completed_100",
@@ -16836,7 +16841,7 @@
       "Name": "Upholding the Law",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "objective_completed_102",
@@ -17282,9 +17287,9 @@
       "ID": "objective_completed_112",
       "SetID": "cc37lbc",
       "Name": "Don\u0027t Look Up!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1309
     },
     {
       "ID": "objective_completed_1121",
@@ -17476,7 +17481,7 @@
       "Name": "On the Hunt",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "objective_completed_1160",
@@ -17748,7 +17753,7 @@
       "Name": "Homecoming",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "objective_completed_125",
@@ -17780,7 +17785,7 @@
       "Name": "The Lost Heir of Omu",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "objective_completed_13",
@@ -18052,7 +18057,7 @@
       "Name": "Wisdom Check",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "objective_completed_171",
@@ -18196,7 +18201,7 @@
       "Name": "Family Entanglements",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "objective_completed_214",
@@ -18356,7 +18361,7 @@
       "Name": "Tower on the Lake",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "objective_completed_263",
@@ -18492,7 +18497,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "objective_completed_35",
@@ -18500,7 +18505,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "objective_completed_36",
@@ -18604,7 +18609,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "objective_completed_390",
@@ -18956,7 +18961,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "objective_completed_540",
@@ -19300,7 +19305,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "objective_completed_590",
@@ -19884,7 +19889,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "objective_completed_690",
@@ -19988,7 +19993,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "objective_completed_75",
@@ -20020,7 +20025,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "objective_completed_8",
@@ -20028,7 +20033,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "objective_completed_80",
@@ -20036,7 +20041,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "objective_completed_802",
@@ -20556,7 +20561,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "objective_completed_902",
@@ -20907,21 +20912,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184398,
+      "Progressed": 184407,
       "Completed": 3053
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218124,
+      "Progressed": 218133,
       "Completed": 2147
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-03T05:58:58.7167763+00:00",
-  "LastChanged_Achievements": "2023-08-03T07:05:20.2337031+00:00",
+  "LastChanged_Achievements": "2023-08-03T08:05:31.2010452+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-03T06:59:11.335397+00:00",
-  "LastUpdate_Achievements": "2023-08-03T07:05:20.2363302+00:00"
+  "LastUpdate_Ratings": "2023-08-03T07:59:22.2631691+00:00",
+  "LastUpdate_Achievements": "2023-08-03T08:05:31.2038122+00:00"
 }

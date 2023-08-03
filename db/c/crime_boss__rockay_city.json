@@ -2838,9 +2838,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71125,
+  "EOS_Progressed": 71127,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 930,
+  "EOS_NewPlayers": 928,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -13873,6 +13873,11 @@
       "Time": "2023-08-03T07:06:23.78277+00:00",
       "NumProgressed": 71125,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-08-03T08:06:35.4048917+00:00",
+      "NumProgressed": 71127,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -13884,7 +13889,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 35562
+      "UsersEstimate": 35564
     },
     {
       "ID": "ACH_0011",
@@ -13892,7 +13897,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20626
+      "UsersEstimate": 20627
     },
     {
       "ID": "ACH_0012",
@@ -13900,7 +13905,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 14936
+      "UsersEstimate": 14937
     },
     {
       "ID": "ACH_0013",
@@ -13908,7 +13913,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 9246
+      "UsersEstimate": 9247
     },
     {
       "ID": "ACH_0014",
@@ -13940,7 +13945,7 @@
       "Name": "Rockay Raider",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "ACH_0022",
@@ -13980,7 +13985,7 @@
       "Name": "Freebooter",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 7112
+      "UsersEstimate": 7113
     },
     {
       "ID": "ACH_0061",
@@ -14020,7 +14025,7 @@
       "Name": "Moneybags",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "ACH_0200",
@@ -14028,7 +14033,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46231
+      "UsersEstimate": 46233
     },
     {
       "ID": "ACH_0210",
@@ -14036,7 +14041,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 52632
+      "UsersEstimate": 52634
     },
     {
       "ID": "ACH_0211",
@@ -14052,7 +14057,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 33429
+      "UsersEstimate": 33430
     },
     {
       "ID": "ACH_0300",
@@ -14098,9 +14103,9 @@
       "ID": "ACH_0400",
       "SetID": "3kam13l",
       "Name": "Case Closed",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 24182
+      "UsersEstimate": 24894
     },
     {
       "ID": "ACH_0420",
@@ -14108,7 +14113,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24182
+      "UsersEstimate": 24183
     },
     {
       "ID": "ACH_0430",
@@ -14156,7 +14161,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12091
+      "UsersEstimate": 12092
     },
     {
       "ID": "ACH_0460",
@@ -14164,7 +14169,7 @@
       "Name": "Impossible Dreamer",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "ACH_0600",
@@ -14179,7 +14184,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71125,
+      "Progressed": 71127,
       "Completed": 36
     }
   ],
@@ -14187,8 +14192,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-03T07:01:37.7828946+00:00",
-  "LastChanged_Achievements": "2023-08-03T07:06:23.7827684+00:00",
+  "LastChanged_Achievements": "2023-08-03T08:06:35.404891+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:52.515351+00:00",
-  "LastUpdate_Ratings": "2023-08-03T07:01:37.7828957+00:00",
-  "LastUpdate_Achievements": "2023-08-03T07:06:23.7828823+00:00"
+  "LastUpdate_Ratings": "2023-08-03T08:01:58.6602084+00:00",
+  "LastUpdate_Achievements": "2023-08-03T08:06:35.404985+00:00"
 }

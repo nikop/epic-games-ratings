@@ -8,7 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,725 |
 | Beast Intentions | 3.00% | ~6,544 |
-| Maddening | 2.00% | ~4,362 |
+| Maddening | 2.00% | ~4,363 |
 | The Silken Swamp | 1.00% | ~2,181 |
 | Supply Run | 1.00% | ~2,181 |
 | Rocky Reception | 1.00% | ~1,844 |
@@ -24,6 +24,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pros and CONs | 0.60% | ~1,309 |
 | The Witchlight Carnival | 0.60% | ~1,106 |
 | Hatchlings Underfoot | 0.60% | ~1,309 |
+| Don't Look Up! | 0.60% | ~1,309 |
 | Heatwave | 0.60% | ~1,106 |
 | Were-verpowered | 0.60% | ~1,309 |
 | A Persistent Buzzing | 0.60% | ~1,309 |
@@ -35,7 +36,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.60% | ~1,309 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,106 |
 | Thieves of the Coven | 0.50% | ~922 |
-| Don't Look Up! | 0.50% | ~1,091 |
 | Heavy Burden | 0.50% | ~1,091 |
 | The Evacuation of Waterdeep | 0.50% | ~922 |
 | Friends of the Forest | 0.50% | ~1,091 |
@@ -55,30 +55,30 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.50% | ~922 |
 | Bahamut's Army | 0.50% | ~922 |
 | Krux's Speed Run | 0.50% | ~922 |
-| Upholding the Law | 0.40% | ~872 |
+| Upholding the Law | 0.40% | ~873 |
 | Hither of the Feywild | 0.40% | ~738 |
 | Speeds of Destruction | 0.40% | ~738 |
-| On the Hunt | 0.40% | ~872 |
+| On the Hunt | 0.40% | ~873 |
 | Best Thay Ever | 0.40% | ~738 |
 | A Demi-god's Defender | 0.40% | ~738 |
-| Homecoming | 0.40% | ~872 |
-| The Lost Heir of Omu | 0.40% | ~872 |
+| Homecoming | 0.40% | ~873 |
+| The Lost Heir of Omu | 0.40% | ~873 |
 | No One Can Hear You Scream | 0.40% | ~738 |
 | Welcome to the Rock | 0.40% | ~738 |
-| Wisdom Check | 0.40% | ~872 |
-| Family Entanglements | 0.40% | ~872 |
-| Tower on the Lake | 0.40% | ~872 |
-| The Ring of Regeneration | 0.40% | ~872 |
-| The Crumbling Temple | 0.40% | ~872 |
-| Seeking Allies | 0.40% | ~872 |
-| Exploring Port Nyanzaru | 0.40% | ~872 |
-| Running of the Saurs | 0.40% | ~872 |
-| Escort to Waterdeep | 0.40% | ~872 |
-| Waterdeep Detours | 0.40% | ~872 |
-| Underdeep Cartography | 0.40% | ~872 |
-| Friendly Imps | 0.40% | ~872 |
-| Overdue Rendezvous | 0.40% | ~872 |
-| Pure Energy | 0.40% | ~872 |
+| Wisdom Check | 0.40% | ~873 |
+| Family Entanglements | 0.40% | ~873 |
+| Tower on the Lake | 0.40% | ~873 |
+| The Ring of Regeneration | 0.40% | ~873 |
+| The Crumbling Temple | 0.40% | ~873 |
+| Seeking Allies | 0.40% | ~873 |
+| Exploring Port Nyanzaru | 0.40% | ~873 |
+| Running of the Saurs | 0.40% | ~873 |
+| Escort to Waterdeep | 0.40% | ~873 |
+| Waterdeep Detours | 0.40% | ~873 |
+| Underdeep Cartography | 0.40% | ~873 |
+| Friendly Imps | 0.40% | ~873 |
+| Overdue Rendezvous | 0.40% | ~873 |
+| Pure Energy | 0.40% | ~873 |
 | Luigi After Hours | 0.40% | ~738 |
 | Electric Mayhem | 0.40% | ~738 |
 | 3,720 to 1 | 0.40% | ~738 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,124 (Ranked 53)  
+Progressed: 218,133 (Ranked 53)  
 Completed: 2,147 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -624,7 +624,7 @@ Completed: 2,147 (0.98%) (Ranked 112)
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
-| 2023-08-03 | 218,124 | 2,147 |
+| 2023-08-03 | 218,133 | 2,147 |
 ## Awards
 Max (Diverse Characters): 5,109  (Ranked 67)  
 Sum: 30,864 (Ranked 38)  

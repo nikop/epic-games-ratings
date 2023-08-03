@@ -271,9 +271,9 @@
       "ID": "BLUE_SLIME_GOO",
       "SetID": "ca3djk0",
       "Name": "Blue Goo",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "FURNITURE_IN_THE_FOREST",
@@ -360,8 +360,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-08-03T07:07:48.8890447+00:00",
+  "LastChanged_Achievements": "2023-08-03T08:08:11.6638336+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:10.6242852+00:00",
-  "LastUpdate_Ratings": "2023-08-03T06:59:24.0574764+00:00",
-  "LastUpdate_Achievements": "2023-08-03T07:07:48.8890564+00:00"
+  "LastUpdate_Ratings": "2023-08-03T07:59:33.9739654+00:00",
+  "LastUpdate_Achievements": "2023-08-03T08:08:11.6638445+00:00"
 }

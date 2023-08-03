@@ -3254,11 +3254,17 @@
       "Rating": 3.98,
       "NumberOfAwards": 9547,
       "NumberOfAwardsMax": 2955
+    },
+    {
+      "Time": "2023-08-03T08:00:01.604976+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 9562,
+      "NumberOfAwardsMax": 2970
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9547,
-  "NumberOfAwardsMax": 2955,
+  "NumberOfAwards": 9562,
+  "NumberOfAwardsMax": 2970,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
@@ -3289,7 +3295,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2955
+      "Count": 2970
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3316,9 +3322,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 500937,
+  "EOS_Progressed": 501015,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 22048,
+  "EOS_NewPlayers": 22004,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14806,6 +14812,11 @@
       "Time": "2023-08-03T07:02:19.9377474+00:00",
       "NumProgressed": 500937,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-03T08:02:38.3914033+00:00",
+      "NumProgressed": 501015,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -14817,7 +14828,7 @@
       "Name": "Last Survivor",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 20037
+      "UsersEstimate": 20041
     },
     {
       "ID": "10",
@@ -14825,7 +14836,7 @@
       "Name": "Marksman Master",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 20037
+      "UsersEstimate": 20041
     },
     {
       "ID": "11",
@@ -14833,7 +14844,7 @@
       "Name": "Marksman Expert",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 45084
+      "UsersEstimate": 45091
     },
     {
       "ID": "12",
@@ -14841,7 +14852,7 @@
       "Name": "Marksman Novice",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 95178
+      "UsersEstimate": 95193
     },
     {
       "ID": "13",
@@ -14865,7 +14876,7 @@
       "Name": "Nade King Novice",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 4007
+      "UsersEstimate": 4008
     },
     {
       "ID": "16",
@@ -14881,7 +14892,7 @@
       "Name": "Collateral Damage",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 35066
+      "UsersEstimate": 35071
     },
     {
       "ID": "18",
@@ -14889,7 +14900,7 @@
       "Name": "Devil Inside Me",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 145272
+      "UsersEstimate": 145294
     },
     {
       "ID": "19",
@@ -14897,7 +14908,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 380712
+      "UsersEstimate": 380771
     },
     {
       "ID": "2",
@@ -14905,7 +14916,7 @@
       "Name": "Winner Winner Chicken Dinner!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 10019
+      "UsersEstimate": 10020
     },
     {
       "ID": "20",
@@ -14921,7 +14932,7 @@
       "Name": "Killing Spree",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 105197
+      "UsersEstimate": 105213
     },
     {
       "ID": "22",
@@ -14929,7 +14940,7 @@
       "Name": "Trigonometry Novice",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 20037
+      "UsersEstimate": 20041
     },
     {
       "ID": "23",
@@ -14937,7 +14948,7 @@
       "Name": "Okay, Now I\u0027m Ready",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 10019
+      "UsersEstimate": 10020
     },
     {
       "ID": "24",
@@ -14945,7 +14956,7 @@
       "Name": "First Blood",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 65122
+      "UsersEstimate": 65132
     },
     {
       "ID": "25",
@@ -14961,7 +14972,7 @@
       "Name": "First Come, First Served",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 20037
+      "UsersEstimate": 20041
     },
     {
       "ID": "27",
@@ -14969,7 +14980,7 @@
       "Name": "Agent 48",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 10019
+      "UsersEstimate": 10020
     },
     {
       "ID": "28",
@@ -14977,7 +14988,7 @@
       "Name": "Now You See Me, Now You Don\u0027t",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 55103
+      "UsersEstimate": 55112
     },
     {
       "ID": "29",
@@ -14985,7 +14996,7 @@
       "Name": "Airborne",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 30056
+      "UsersEstimate": 30061
     },
     {
       "ID": "3",
@@ -14993,7 +15004,7 @@
       "Name": "Dynamic Duo",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 20037
+      "UsersEstimate": 20041
     },
     {
       "ID": "30",
@@ -15001,7 +15012,7 @@
       "Name": "Fury Road",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 5009
+      "UsersEstimate": 5010
     },
     {
       "ID": "31",
@@ -15009,7 +15020,7 @@
       "Name": "Guardian Angel",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 185347
+      "UsersEstimate": 185376
     },
     {
       "ID": "32",
@@ -15017,7 +15028,7 @@
       "Name": "Ghost",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 5009
+      "UsersEstimate": 5010
     },
     {
       "ID": "33",
@@ -15025,7 +15036,7 @@
       "Name": "Don\u0027t Pan Me Bro!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10019
+      "UsersEstimate": 10020
     },
     {
       "ID": "34",
@@ -15033,7 +15044,7 @@
       "Name": "Fast and Furious",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10019
+      "UsersEstimate": 10020
     },
     {
       "ID": "35",
@@ -15041,7 +15052,7 @@
       "Name": "You Complete Me",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 205384
+      "UsersEstimate": 205416
     },
     {
       "ID": "36",
@@ -15049,7 +15060,7 @@
       "Name": "Cruising with the Enemy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5009
+      "UsersEstimate": 5010
     },
     {
       "ID": "37",
@@ -15057,7 +15068,7 @@
       "Name": "Health Junkie",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 215403
+      "UsersEstimate": 215436
     },
     {
       "ID": "4",
@@ -15065,7 +15076,7 @@
       "Name": "Fantastic Four",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 105197
+      "UsersEstimate": 105213
     },
     {
       "ID": "5",
@@ -15073,7 +15084,7 @@
       "Name": "Top 10",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 65122
+      "UsersEstimate": 65132
     },
     {
       "ID": "6",
@@ -15081,7 +15092,7 @@
       "Name": "Pacifist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 30056
+      "UsersEstimate": 30061
     },
     {
       "ID": "7",
@@ -15097,7 +15108,7 @@
       "Name": "CQB Expert",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 10019
+      "UsersEstimate": 10020
     },
     {
       "ID": "9",
@@ -15105,23 +15116,23 @@
       "Name": "CQB Novice",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 40075
+      "UsersEstimate": 40081
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 500937,
+      "Progressed": 501015,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
-  "LastChanged": "2023-08-02T13:59:11.0420819+00:00",
-  "LastChanged_Achievements": "2023-08-03T07:02:19.9377464+00:00",
+  "LastChanged": "2023-08-03T08:00:01.6049759+00:00",
+  "LastChanged_Achievements": "2023-08-03T08:02:38.3914029+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:27.5611329+00:00",
-  "LastUpdate_Ratings": "2023-08-03T06:59:48.3890183+00:00",
-  "LastUpdate_Achievements": "2023-08-03T07:02:19.9378667+00:00"
+  "LastUpdate_Ratings": "2023-08-03T08:00:01.6049765+00:00",
+  "LastUpdate_Achievements": "2023-08-03T08:02:38.3915123+00:00"
 }

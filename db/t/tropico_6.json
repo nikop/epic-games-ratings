@@ -1026,9 +1026,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4568,
+  "EOS_Progressed": 4570,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7451,6 +7451,11 @@
       "Time": "2023-08-03T07:06:52.248946+00:00",
       "NumProgressed": 4568,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-03T08:07:14.3625907+00:00",
+      "NumProgressed": 4570,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -7478,7 +7483,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -7502,7 +7507,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -7534,7 +7539,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -7572,9 +7577,9 @@
       "ID": "ACH_EP_SHACKLAND",
       "SetID": "1p8ab95",
       "Name": "Shackadelic",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -7582,7 +7587,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -7590,7 +7595,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -7606,7 +7611,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -7614,7 +7619,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -7622,7 +7627,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3426
+      "UsersEstimate": 3428
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -7718,7 +7723,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -7734,7 +7739,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -7742,7 +7747,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -7781,15 +7786,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4568,
+      "Progressed": 4570,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-29T23:00:35.7289146+00:00",
-  "LastChanged_Achievements": "2023-08-03T07:06:52.248945+00:00",
+  "LastChanged_Achievements": "2023-08-03T08:07:14.3625902+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:19.2698244+00:00",
-  "LastUpdate_Ratings": "2023-08-03T07:02:09.882813+00:00",
-  "LastUpdate_Achievements": "2023-08-03T07:06:52.2490217+00:00"
+  "LastUpdate_Ratings": "2023-08-03T08:02:27.9121162+00:00",
+  "LastUpdate_Achievements": "2023-08-03T08:07:14.3626582+00:00"
 }

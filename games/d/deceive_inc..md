@@ -5,29 +5,29 @@ Rating: 4.60 (Ranked 390)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,030 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,031 |
 | Mainframe Hacker | 23.00% | ~3,857 |
 | The Spy who eliminated me | 23.00% | ~3,857 |
-| Tomorrow Never Dyes | 22.00% | ~3,689 |
+| Tomorrow Never Dyes | 22.00% | ~3,690 |
 | Never Say Loser Again | 19.00% | ~3,186 |
-| From the Vault with Love | 18.00% | ~3,018 |
-| Tailor-Made | 18.00% | ~3,018 |
-| For your Eyes only | 18.00% | ~3,018 |
+| From the Vault with Love | 18.00% | ~3,019 |
+| Tailor-Made | 18.00% | ~3,019 |
+| For your Eyes only | 18.00% | ~3,019 |
 | Assistant Accountant | 17.00% | ~2,851 |
 | Fully Decked Out | 17.00% | ~2,851 |
 | You Only Live Twice | 16.00% | ~2,683 |
 | A view to Win | 13.00% | ~2,180 |
-| The Living Portrait | 12.00% | ~2,012 |
-| Private Collection | 12.00% | ~2,012 |
-| Killer Looks | 12.00% | ~2,012 |
-| Hostile Takeover | 12.00% | ~2,012 |
-| Smells Like Trouble | 12.00% | ~2,012 |
-| Keycards Royale | 11.00% | ~1,844 |
-| Dr. No Kill | 11.00% | ~1,844 |
-| My Motto, My Creed | 11.00% | ~1,844 |
+| The Living Portrait | 12.00% | ~2,013 |
+| Private Collection | 12.00% | ~2,013 |
+| Killer Looks | 12.00% | ~2,013 |
+| Hostile Takeover | 12.00% | ~2,013 |
+| Smells Like Trouble | 12.00% | ~2,013 |
+| Keycards Royale | 11.00% | ~1,845 |
+| Dr. No Kill | 11.00% | ~1,845 |
+| My Motto, My Creed | 11.00% | ~1,845 |
 | In It to Win It | 10.00% | ~1,677 |
 | Security Supervisor | 6.00% | ~1,006 |
-| License to Thrill | 5.00% | ~838 |
+| License to Thrill | 5.00% | ~839 |
 | Social of Solace | 4.00% | ~671 |
 | Live and let lie | 3.00% | ~503 |
 | Safe Withdrawal | 3.00% | ~503 |
@@ -42,7 +42,7 @@ Rating: 4.60 (Ranked 390)
 | Extraction Confusion | 0.20% | ~34 |
 | Spyfall | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,768 (Ranked 110)  
+Progressed: 16,771 (Ranked 110)  
 Completed: 1 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 1 (0.01%) (Ranked 234)
 | 2023-07-31 | 16,437 | 1 |
 | 2023-08-01 | 16,594 | 1 |
 | 2023-08-02 | 16,739 | 1 |
-| 2023-08-03 | 16,768 | 1 |
+| 2023-08-03 | 16,771 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

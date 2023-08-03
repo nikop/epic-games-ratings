@@ -4,7 +4,7 @@
   "ProductSlug": "organs-please-a5e5e4",
   "Ranking_EOS_Progress": 527,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-26T20:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-25T18:01:12.8923633+00:00",
-  "LastChanged_Achievements": "2023-08-03T07:03:19.379984+00:00",
+  "LastChanged_Achievements": "2023-08-03T08:03:17.6128229+00:00",
   "LastUpdate_AppInfo": "2023-08-01T17:57:04.9368647+00:00",
-  "LastUpdate_Ratings": "2023-08-03T06:57:12.9494032+00:00",
-  "LastUpdate_Achievements": "2023-08-03T07:03:19.3799879+00:00"
+  "LastUpdate_Ratings": "2023-08-03T07:57:12.0122117+00:00",
+  "LastUpdate_Achievements": "2023-08-03T08:03:17.6128254+00:00"
 }

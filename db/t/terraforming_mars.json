@@ -2584,9 +2584,9 @@
       "Count": 237
     }
   ],
-  "EOS_Progressed": 70079,
+  "EOS_Progressed": 70080,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 1107,
+  "EOS_NewPlayers": 1105,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -13884,6 +13884,11 @@
       "Time": "2023-08-03T06:05:42.1145622+00:00",
       "NumProgressed": 70079,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-08-03T08:06:25.712983+00:00",
+      "NumProgressed": 70080,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 30,
@@ -13895,7 +13900,7 @@
       "Name": "First Journey",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 8409
+      "UsersEstimate": 8410
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -13951,7 +13956,7 @@
       "Name": "Most Achievements",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 8409
+      "UsersEstimate": 8410
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -14031,7 +14036,7 @@
       "Name": "Sojourner",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 18921
+      "UsersEstimate": 18922
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -14047,7 +14052,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 15417
+      "UsersEstimate": 15418
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -14071,7 +14076,7 @@
       "Name": "Final touch",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 25929
+      "UsersEstimate": 25930
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -14095,7 +14100,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 8409
+      "UsersEstimate": 8410
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -14111,7 +14116,7 @@
       "Name": "Grand champion",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 8409
+      "UsersEstimate": 8410
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -14134,15 +14139,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 70079,
+      "Progressed": 70080,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-08-01T21:59:30.103059+00:00",
-  "LastChanged_Achievements": "2023-08-03T07:06:14.6877496+00:00",
+  "LastChanged_Achievements": "2023-08-03T08:06:25.7129827+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:10.0155154+00:00",
-  "LastUpdate_Ratings": "2023-08-03T06:59:22.9971096+00:00",
-  "LastUpdate_Achievements": "2023-08-03T07:06:14.6878508+00:00"
+  "LastUpdate_Ratings": "2023-08-03T07:59:32.825467+00:00",
+  "LastUpdate_Achievements": "2023-08-03T08:06:25.7130716+00:00"
 }

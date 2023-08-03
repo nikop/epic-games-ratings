@@ -6,28 +6,28 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~121,132 |
-| Where's that freaking Dwarf? | 47.00% | ~96,495 |
-| GG EZ | 28.00% | ~57,486 |
-| Speedrun | 26.00% | ~53,380 |
-| Déjà vu | 21.00% | ~43,115 |
-| Sock! SOCK! | 17.00% | ~34,902 |
-| DM intervention | 13.00% | ~26,690 |
-| Fireproof Wizardess | 10.00% | ~20,531 |
-| Livin' in a dwarven paradise | 8.00% | ~16,425 |
-| A beer, two curses, three companions | 8.00% | ~16,425 |
-| Way of the Wimp | 7.00% | ~14,372 |
-| The plot thickens... At the tavern | 5.00% | ~10,265 |
-| The Woman in the High Castle | 4.00% | ~8,212 |
-| I am the night | 4.00% | ~8,212 |
-| Team Building Exercise | 4.00% | ~8,212 |
-| Shiny and Crôm | 3.00% | ~6,159 |
-| The demons' feast | 3.00% | ~6,159 |
-| Res Judicata | 3.00% | ~6,159 |
-| Dwarf Fortress | 3.00% | ~6,159 |
-| The Ranger of Chaos | 3.00% | ~6,159 |
-| Thieves' Guild Accreditation | 3.00% | ~6,159 |
-| Oh, when I'll be level 10... | 3.00% | ~6,159 |
+| Alt+F4 | 59.00% | ~121,140 |
+| Where's that freaking Dwarf? | 47.00% | ~96,501 |
+| GG EZ | 28.00% | ~57,490 |
+| Speedrun | 26.00% | ~53,384 |
+| Déjà vu | 21.00% | ~43,118 |
+| Sock! SOCK! | 17.00% | ~34,905 |
+| DM intervention | 13.00% | ~26,692 |
+| Fireproof Wizardess | 10.00% | ~20,532 |
+| Livin' in a dwarven paradise | 8.00% | ~16,426 |
+| A beer, two curses, three companions | 8.00% | ~16,426 |
+| Way of the Wimp | 7.00% | ~14,373 |
+| The plot thickens... At the tavern | 5.00% | ~10,266 |
+| The Woman in the High Castle | 4.00% | ~8,213 |
+| I am the night | 4.00% | ~8,213 |
+| Team Building Exercise | 4.00% | ~8,213 |
+| Shiny and Crôm | 3.00% | ~6,160 |
+| The demons' feast | 3.00% | ~6,160 |
+| Res Judicata | 3.00% | ~6,160 |
+| Dwarf Fortress | 3.00% | ~6,160 |
+| The Ranger of Chaos | 3.00% | ~6,160 |
+| Thieves' Guild Accreditation | 3.00% | ~6,160 |
+| Oh, when I'll be level 10... | 3.00% | ~6,160 |
 | The Great Library | 2.00% | ~4,106 |
 | Torture and Sensibility | 2.00% | ~4,106 |
 | Urik's Depths | 2.00% | ~4,106 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,308 (Ranked 55)  
+Progressed: 205,322 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-31 | 203,882 | 0 |
 | 2023-08-01 | 204,538 | 0 |
 | 2023-08-02 | 205,167 | 0 |
-| 2023-08-03 | 205,308 | 0 |
+| 2023-08-03 | 205,322 | 0 |
 ## Awards
 Max (Character Customization): 149  (Ranked 295)  
 Sum: 149 (Ranked 392)  

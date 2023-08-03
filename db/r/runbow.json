@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247541,
+  "EOS_Progressed": 247542,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
@@ -10149,6 +10149,11 @@
       "Time": "2023-08-03T03:03:23.090915+00:00",
       "NumProgressed": 247541,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-03T08:03:24.7313627+00:00",
+      "NumProgressed": 247542,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -10208,7 +10213,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14852
+      "UsersEstimate": 14853
     },
     {
       "ID": "canYouDigIt",
@@ -10256,7 +10261,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44557
+      "UsersEstimate": 44558
     },
     {
       "ID": "curator",
@@ -10400,7 +10405,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123770
+      "UsersEstimate": 123771
     },
     {
       "ID": "notScared",
@@ -10527,7 +10532,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 247541,
+      "Progressed": 247542,
       "Completed": 3
     }
   ],
@@ -10535,8 +10540,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-03T07:03:26.371388+00:00",
+  "LastChanged_Achievements": "2023-08-03T08:03:24.7313623+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:02.5493145+00:00",
-  "LastUpdate_Ratings": "2023-08-03T07:00:34.2172541+00:00",
-  "LastUpdate_Achievements": "2023-08-03T07:03:26.3714996+00:00"
+  "LastUpdate_Ratings": "2023-08-03T08:00:51.9043543+00:00",
+  "LastUpdate_Achievements": "2023-08-03T08:03:24.7314589+00:00"
 }
