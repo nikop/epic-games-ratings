@@ -4,7 +4,7 @@
   "ProductSlug": "exo-one",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-11-18T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:46.2956858+00:00",
   "LastChanged": "2023-03-31T05:57:46.2956859+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:03.276382+00:00",
-  "LastUpdate_Ratings": "2023-08-03T16:00:47.5035364+00:00",
-  "LastUpdate_Achievements": "2023-08-03T16:07:17.6611969+00:00"
+  "LastUpdate_Ratings": "2023-08-03T17:01:21.4391418+00:00",
+  "LastUpdate_Achievements": "2023-08-03T17:08:22.2943891+00:00"
 }

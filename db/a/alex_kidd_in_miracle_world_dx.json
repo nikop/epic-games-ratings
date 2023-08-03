@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -314,9 +314,9 @@
       "ID": "JANKEN_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Janken The Great",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "LEVEL_04",
@@ -387,8 +387,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-08-03T16:03:27.9198325+00:00",
+  "LastChanged_Achievements": "2023-08-03T17:03:19.2154525+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:58.8421701+00:00",
-  "LastUpdate_Ratings": "2023-08-03T15:59:26.9829315+00:00",
-  "LastUpdate_Achievements": "2023-08-03T16:03:27.9198415+00:00"
+  "LastUpdate_Ratings": "2023-08-03T16:59:40.24761+00:00",
+  "LastUpdate_Achievements": "2023-08-03T17:03:19.2154707+00:00"
 }

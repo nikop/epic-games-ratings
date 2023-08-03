@@ -6,21 +6,21 @@
 | ---- | ---------- | ----- |
 | In the Black | 59.00% | ~186 |
 | Starting Skyward | 53.00% | ~167 |
-| Grime is Not Good | 47.00% | ~148 |
+| Grime is Not Good | 47.00% | ~149 |
 | Campaign Launch | 40.00% | ~126 |
 | Floor Galore | 39.00% | ~123 |
 | Dinner Dash | 39.00% | ~123 |
-| Need a Consult | 36.00% | ~113 |
-| It's Technical | 36.00% | ~113 |
-| Upgrade Unlock | 35.00% | ~110 |
+| It's Technical | 36.00% | ~114 |
+| Need a Consult | 35.00% | ~111 |
+| Upgrade Unlock | 35.00% | ~111 |
 | Delegate Maintenance | 34.00% | ~107 |
 | Proper Walls | 32.00% | ~101 |
-| Destination Destiny | 29.00% | ~91 |
+| Destination Destiny | 29.00% | ~92 |
 | Happy Tenants | 25.00% | ~79 |
 | Potent Potables | 24.00% | ~76 |
 | Smooth Service | 24.00% | ~76 |
-| Your Prestige is Rising | 23.00% | ~72 |
-| Retail Revenue | 23.00% | ~72 |
+| Your Prestige is Rising | 23.00% | ~73 |
+| Retail Revenue | 23.00% | ~73 |
 | Don't Feel a Loan | 21.00% | ~66 |
 | Lux Living | 20.00% | ~63 |
 | People Mover | 20.00% | ~63 |
@@ -78,10 +78,10 @@
 | The King of Cool | 2.00% | ~6 |
 | It is Payday | 2.00% | ~6 |
 | Full House | 1.00% | ~3 |
-| Double Down | 1.00% | ~3 |
-| Such Great Heights | 1.00% | ~3 |
-| Lofty Landlord | 1.00% | ~3 |
 | Scenario Success | 1.00% | ~3 |
+| Double Down | 0.90% | ~3 |
+| Such Great Heights | 0.90% | ~3 |
+| Lofty Landlord | 0.90% | ~3 |
 | Artistic Largesse | 0.60% | ~2 |
 | High Hand | 0.60% | ~2 |
 | Poker Face | 0.60% | ~2 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 315 (Ranked 253)  
+Progressed: 316 (Ranked 253)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-31 | 298 | 0 |
 | 2023-08-01 | 306 | 0 |
 | 2023-08-02 | 313 | 0 |
-| 2023-08-03 | 315 | 0 |
+| 2023-08-03 | 316 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

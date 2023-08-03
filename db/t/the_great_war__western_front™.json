@@ -2,9 +2,9 @@
   "ID": "d84e1be6c7764408b3d0f610c84cb8ea",
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
-  "Ranking_EOS_Progress": 242,
+  "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 363,
+  "EOS_Progressed": 366,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1609,6 +1609,11 @@
       "Time": "2023-08-03T15:04:49.4425589+00:00",
       "NumProgressed": 363,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T17:04:24.2606064+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1666,9 +1671,9 @@
       "ID": "KILL_1000_WITH_GAS",
       "SetID": "6kcl14p",
       "Name": "The Chemists\u0027 War",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 22
+      "UsersEstimate": 18
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -1684,7 +1689,7 @@
       "Name": "Earth Shattering",
       "Percentage": 49,
       "XP": 90,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -1692,7 +1697,7 @@
       "Name": "La Der des Ders",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -1700,7 +1705,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -1715,7 +1720,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 363,
+      "Progressed": 366,
       "Completed": 0
     }
   ],
@@ -1723,8 +1728,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-08-03T16:04:19.153154+00:00",
+  "LastChanged_Achievements": "2023-08-03T17:04:24.2606056+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:23.8427295+00:00",
-  "LastUpdate_Ratings": "2023-08-03T15:59:52.2896605+00:00",
-  "LastUpdate_Achievements": "2023-08-03T16:04:19.1531702+00:00"
+  "LastUpdate_Ratings": "2023-08-03T17:00:12.8020921+00:00",
+  "LastUpdate_Achievements": "2023-08-03T17:04:24.2606389+00:00"
 }

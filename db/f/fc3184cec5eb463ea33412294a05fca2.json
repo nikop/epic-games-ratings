@@ -3,9 +3,9 @@
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 290,
-  "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 34,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 176,
+  "EOS_Progressed": 177,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.39,
+  "EOS_Completed_Percentage": 7.34,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -696,6 +696,11 @@
       "Time": "2023-08-03T01:58:34.2157447+00:00",
       "NumProgressed": 176,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-03T17:07:18.3738738+00:00",
+      "NumProgressed": 177,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -713,9 +718,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -731,7 +736,7 @@
       "Name": "Ducks adrift",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -747,7 +752,7 @@
       "Name": "High-rise",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -755,7 +760,7 @@
       "Name": "Putting challenge",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -771,7 +776,7 @@
       "Name": "Family pond",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -785,9 +790,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -827,21 +832,21 @@
       "Name": "Watery help",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 176,
+      "Progressed": 177,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-03T16:06:32.9806345+00:00",
+  "LastChanged_Achievements": "2023-08-03T17:07:18.3738731+00:00",
   "LastUpdate_AppInfo": "2023-07-29T13:57:01.6016157+00:00",
-  "LastUpdate_Ratings": "2023-08-03T15:57:59.1115803+00:00",
-  "LastUpdate_Achievements": "2023-08-03T16:06:32.9806476+00:00"
+  "LastUpdate_Ratings": "2023-08-03T16:57:48.2800173+00:00",
+  "LastUpdate_Achievements": "2023-08-03T17:07:18.3738979+00:00"
 }

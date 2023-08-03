@@ -7,12 +7,12 @@ Rating: 4.20 (Ranked 850)
 | ---- | ---------- | ----- |
 | Get a Grip | 5.00% | ~790 |
 | Paper Jams | 4.00% | ~632 |
+| Keep Fighting | 4.00% | ~149 |
 | You Need a Gun | 3.00% | ~474 |
 | Flesh Wound | 3.00% | ~474 |
 | Two Heads Are Better Than One | 3.00% | ~474 |
 | Chew 'Em Up | 3.00% | ~474 |
 | Float Like A Butterfly | 3.00% | ~474 |
-| Keep Fighting | 3.00% | ~112 |
 | It's Time | 3.00% | ~112 |
 | Giving Back | 2.00% | ~316 |
 | I Do Belong Here | 2.00% | ~316 |

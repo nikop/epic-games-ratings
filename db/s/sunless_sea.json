@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 34798,
+  "EOS_Progressed": 34801,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11290,6 +11290,11 @@
       "Time": "2023-08-03T16:04:58.2331694+00:00",
       "NumProgressed": 34798,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-03T17:05:18.3170169+00:00",
+      "NumProgressed": 34801,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -11339,9 +11344,9 @@
       "ID": "ach_constant",
       "SetID": "ammcm",
       "Name": "What lies beneath",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 244
     },
     {
       "ID": "ach_contdrownie",
@@ -11421,7 +11426,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 12527
+      "UsersEstimate": 12528
     },
     {
       "ID": "ach_die10",
@@ -11732,15 +11737,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 34798,
+      "Progressed": 34801,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-08-03T16:04:58.233169+00:00",
+  "LastChanged_Achievements": "2023-08-03T17:05:18.3170161+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:30.3882701+00:00",
-  "LastUpdate_Ratings": "2023-08-03T16:01:08.3439759+00:00",
-  "LastUpdate_Achievements": "2023-08-03T16:04:58.2332587+00:00"
+  "LastUpdate_Ratings": "2023-08-03T17:01:54.109501+00:00",
+  "LastUpdate_Achievements": "2023-08-03T17:05:18.3172132+00:00"
 }

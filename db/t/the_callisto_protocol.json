@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -6541,9 +6541,9 @@
       "ID": "KILL_BIOBOT",
       "SetID": "6j5ggkc",
       "Name": "Keep Fighting",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 149
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -6580,8 +6580,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-30T15:58:22.9244985+00:00",
-  "LastChanged_Achievements": "2023-08-03T16:03:56.4717822+00:00",
+  "LastChanged_Achievements": "2023-08-03T17:03:56.8498034+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.2008274+00:00",
-  "LastUpdate_Ratings": "2023-08-03T15:59:17.9118005+00:00",
-  "LastUpdate_Achievements": "2023-08-03T16:03:56.4718395+00:00"
+  "LastUpdate_Ratings": "2023-08-03T16:59:28.4563783+00:00",
+  "LastUpdate_Achievements": "2023-08-03T17:03:56.8499259+00:00"
 }

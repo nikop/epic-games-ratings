@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 86.00% | ~31 |
-| Tinkerer | 58.00% | ~21 |
-| Welcome to the Club | 31.00% | ~11 |
+| Self-Defence | 86.00% | ~32 |
+| Tinkerer | 59.00% | ~22 |
+| Welcome to the Club | 30.00% | ~11 |
 | A new World ahead | 22.00% | ~8 |
 | Can't touch this | 22.00% | ~8 |
 | Don't Cry Wolf | 19.00% | ~7 |
@@ -19,7 +19,7 @@
 | Nothing but the Truth | 8.00% | ~3 |
 | The Golden Flash | 8.00% | ~3 |
 | Changing the World | 8.00% | ~3 |
-| Locked and Loaded | 6.00% | ~2 |
+| Locked and Loaded | 5.00% | ~2 |
 | Mirror, Mirror on the Wall | 3.00% | ~1 |
 | Sponsor | 3.00% | ~1 |
 | Defeat Ingla | 3.00% | ~1 |
@@ -51,7 +51,7 @@
 | Master of all Domains | 0.00% | ~0 |
 | Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 377)  
+Progressed: 37 (Ranked 375)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-28 | 33 | 0 |
 | 2023-08-01 | 34 | 0 |
 | 2023-08-02 | 35 | 0 |
-| 2023-08-03 | 36 | 0 |
+| 2023-08-03 | 37 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

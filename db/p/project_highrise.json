@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -782,6 +782,11 @@
       "Time": "2023-08-03T11:05:12.3063444+00:00",
       "NumProgressed": 315,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T17:04:13.9181403+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -927,9 +932,9 @@
       "ID": "ach_consultant",
       "SetID": "b8gh1fi",
       "Name": "Need a Consult",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 111
     },
     {
       "ID": "ach_consultant_1",
@@ -937,7 +942,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ach_consultants_a",
@@ -1039,7 +1044,7 @@
       "ID": "ach_ep1_event_1",
       "SetID": "b8gh1fi",
       "Name": "Double Down",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -1111,7 +1116,7 @@
       "ID": "ach_floors_2",
       "SetID": "b8gh1fi",
       "Name": "Such Great Heights",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -1129,7 +1134,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ach_grime_1",
@@ -1193,7 +1198,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ach_office_2",
@@ -1233,7 +1238,7 @@
       "Name": "Your Prestige is Rising",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_prestige_2",
@@ -1287,7 +1292,7 @@
       "ID": "ach_renters",
       "SetID": "b8gh1fi",
       "Name": "Lofty Landlord",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -1337,7 +1342,7 @@
       "Name": "Retail Revenue",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_retail_2",
@@ -1489,14 +1494,14 @@
       "Name": "Destination Destiny",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 0
     }
   ],
@@ -1504,8 +1509,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-08-03T16:04:11.5179996+00:00",
+  "LastChanged_Achievements": "2023-08-03T17:04:13.9181398+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:50.6819272+00:00",
-  "LastUpdate_Ratings": "2023-08-03T15:59:16.7593604+00:00",
-  "LastUpdate_Achievements": "2023-08-03T16:04:11.5180875+00:00"
+  "LastUpdate_Ratings": "2023-08-03T16:59:27.63596+00:00",
+  "LastUpdate_Achievements": "2023-08-03T17:04:13.918335+00:00"
 }

@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 660242,
+  "EOS_Progressed": 660246,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10752,6 +10752,11 @@
       "Time": "2023-08-03T16:04:39.3416514+00:00",
       "NumProgressed": 660242,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-08-03T17:04:51.5109486+00:00",
+      "NumProgressed": 660246,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -10763,7 +10768,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 475374
+      "UsersEstimate": 475377
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -10771,7 +10776,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382940
+      "UsersEstimate": 382943
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -10779,7 +10784,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151856
+      "UsersEstimate": 151857
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -10803,7 +10808,7 @@
       "Name": "Knight",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 52819
+      "UsersEstimate": 52820
     },
     {
       "ID": "Achievement_07_Dungeon_Master",
@@ -10827,7 +10832,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66024
+      "UsersEstimate": 66025
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -10859,7 +10864,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66024
+      "UsersEstimate": 66025
     },
     {
       "ID": "Achievement_14_Magician",
@@ -10899,7 +10904,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151856
+      "UsersEstimate": 151857
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -10915,7 +10920,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112241
+      "UsersEstimate": 112242
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -10931,7 +10936,7 @@
       "Name": "Cure for Corruption",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52819
+      "UsersEstimate": 52820
     },
     {
       "ID": "Achievement_23_Smithy",
@@ -10987,7 +10992,7 @@
       "Name": "Focused",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 52819
+      "UsersEstimate": 52820
     },
     {
       "ID": "Achievement_30_Devil_Dice",
@@ -11003,7 +11008,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79229
+      "UsersEstimate": 79230
     },
     {
       "ID": "Achievement_32_Karma",
@@ -11027,7 +11032,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165060
+      "UsersEstimate": 165062
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -11059,7 +11064,7 @@
       "Name": "Flurry of Fury",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52819
+      "UsersEstimate": 52820
     },
     {
       "ID": "Achievement_39_Stuffed_Potato",
@@ -11146,15 +11151,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 660242,
+      "Progressed": 660246,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-08-03T16:04:39.3416509+00:00",
+  "LastChanged_Achievements": "2023-08-03T17:04:51.5109482+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:32.2842788+00:00",
-  "LastUpdate_Ratings": "2023-08-03T15:58:55.3452001+00:00",
-  "LastUpdate_Achievements": "2023-08-03T16:04:39.3417271+00:00"
+  "LastUpdate_Ratings": "2023-08-03T16:59:04.4668874+00:00",
+  "LastUpdate_Achievements": "2023-08-03T17:04:51.5110552+00:00"
 }

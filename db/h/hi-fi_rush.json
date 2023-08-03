@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3698,
+  "EOS_Progressed": 3700,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -5147,6 +5147,11 @@
       "Time": "2023-08-03T16:05:12.9466321+00:00",
       "NumProgressed": 3698,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-03T17:05:38.994703+00:00",
+      "NumProgressed": 3700,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -5252,9 +5257,9 @@
       "ID": "Ach013",
       "SetID": "12n4k20",
       "Name": "Problem solved... wait, what?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "Ach014",
@@ -5725,13 +5730,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3698,
+      "Progressed": 3700,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2219,
+      "Progressed": 2221,
       "Completed": 1928
     }
   ],
@@ -5739,8 +5744,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-08-03T16:05:12.9466313+00:00",
+  "LastChanged_Achievements": "2023-08-03T17:05:38.9947025+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:25.5055416+00:00",
-  "LastUpdate_Ratings": "2023-08-03T15:59:53.3132741+00:00",
-  "LastUpdate_Achievements": "2023-08-03T16:05:12.9467162+00:00"
+  "LastUpdate_Ratings": "2023-08-03T17:00:14.3596918+00:00",
+  "LastUpdate_Achievements": "2023-08-03T17:05:38.994886+00:00"
 }

@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,729 |
-| Beast Intentions | 3.00% | ~6,547 |
+| A Brief Tour of the Realms | 4.00% | ~8,730 |
+| Beast Intentions | 3.00% | ~6,548 |
 | Maddening | 2.00% | ~4,365 |
-| The Silken Swamp | 1.00% | ~2,182 |
-| Supply Run | 1.00% | ~2,182 |
+| The Silken Swamp | 1.00% | ~2,183 |
+| Supply Run | 1.00% | ~2,183 |
 | Rocky Reception | 1.00% | ~1,845 |
 | Rock and Roll | 1.00% | ~1,845 |
 | Vecna Lives! | 0.90% | ~1,661 |
@@ -21,19 +21,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wet Feet | 0.70% | ~1,528 |
 | Seeds of Destruction | 0.70% | ~1,292 |
 | Return to the Tomb | 0.70% | ~1,292 |
-| Pros and CONs | 0.60% | ~1,309 |
+| Pros and CONs | 0.60% | ~1,310 |
 | The Witchlight Carnival | 0.60% | ~1,107 |
-| Hatchlings Underfoot | 0.60% | ~1,309 |
-| Don't Look Up! | 0.60% | ~1,309 |
+| Hatchlings Underfoot | 0.60% | ~1,310 |
+| Don't Look Up! | 0.60% | ~1,310 |
 | Heatwave | 0.60% | ~1,107 |
-| Were-verpowered | 0.60% | ~1,309 |
-| A Persistent Buzzing | 0.60% | ~1,309 |
-| Terror in the Dark | 0.60% | ~1,309 |
-| A Mysterious Summons | 0.60% | ~1,309 |
-| Building Trust | 0.60% | ~1,309 |
-| Unearthed Evil | 0.60% | ~1,309 |
-| The Cursed Farmer | 0.60% | ~1,309 |
-| The Mad Wizard | 0.60% | ~1,309 |
+| Were-verpowered | 0.60% | ~1,310 |
+| A Persistent Buzzing | 0.60% | ~1,310 |
+| Terror in the Dark | 0.60% | ~1,310 |
+| A Mysterious Summons | 0.60% | ~1,310 |
+| Building Trust | 0.60% | ~1,310 |
+| Unearthed Evil | 0.60% | ~1,310 |
+| The Cursed Farmer | 0.60% | ~1,310 |
+| The Mad Wizard | 0.60% | ~1,310 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,107 |
 | Thieves of the Coven | 0.50% | ~923 |
 | Heavy Burden | 0.50% | ~1,091 |
@@ -142,7 +142,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rescue in the Jungle | 0.30% | ~655 |
 | Willing to Sacrifice | 0.30% | ~554 |
 | Tiny Treaty | 0.30% | ~554 |
-| Starving in the Jungle | 0.20% | ~436 |
+| Starving in the Jungle | 0.20% | ~437 |
 | Cold as Ice | 0.20% | ~369 |
 | Friends and Foes | 0.20% | ~369 |
 | An Unexpected Geist | 0.20% | ~369 |
@@ -168,45 +168,45 @@ Number of Ratings: 9,041  (23.09.2022)
 | Checkmate | 0.20% | ~369 |
 | Vecna Out! | 0.20% | ~369 |
 | Clowning Around | 0.20% | ~369 |
-| Anti-Dexterous Explorers | 0.20% | ~436 |
-| Not Very Charming | 0.20% | ~436 |
-| Lobsterfolk Assault | 0.20% | ~436 |
-| Periodic Petrification | 0.20% | ~436 |
-| Home Field Advantage | 0.20% | ~436 |
-| Double Vision | 0.20% | ~436 |
+| Anti-Dexterous Explorers | 0.20% | ~437 |
+| Not Very Charming | 0.20% | ~437 |
+| Lobsterfolk Assault | 0.20% | ~437 |
+| Periodic Petrification | 0.20% | ~437 |
+| Home Field Advantage | 0.20% | ~437 |
+| Double Vision | 0.20% | ~437 |
 | The Newcomers of Notoriety | 0.20% | ~369 |
-| Azaka's Procession - Part 1 | 0.20% | ~436 |
-| Azaka's Procession - Part 2 | 0.20% | ~436 |
-| We're not in Faerûn Anymore | 0.20% | ~436 |
-| Haunted Fortunes | 0.20% | ~436 |
+| Azaka's Procession - Part 1 | 0.20% | ~437 |
+| Azaka's Procession - Part 2 | 0.20% | ~437 |
+| We're not in Faerûn Anymore | 0.20% | ~437 |
+| Haunted Fortunes | 0.20% | ~437 |
 | Thine Bounty is Mine! | 0.20% | ~369 |
 | This Quest Stinks! | 0.20% | ~369 |
-| Hold for the Red Wizards | 0.20% | ~436 |
-| Seeds of Deceit | 0.20% | ~436 |
-| The Gargoyle's Apprentice | 0.20% | ~436 |
-| House of Darkness | 0.20% | ~436 |
-| The Trepidatious Trio | 0.20% | ~436 |
-| Treasure Hunters | 0.20% | ~436 |
-| The Guardian of Orolunga | 0.20% | ~436 |
-| The Lost Love | 0.20% | ~436 |
-| A Saurial's Resolve | 0.20% | ~436 |
-| Flies on the Wall | 0.20% | ~436 |
-| Backtracking Through Barovia | 0.20% | ~436 |
-| Excavating History | 0.20% | ~436 |
-| Towering Expectations | 0.20% | ~436 |
-| Cramped Quarters | 0.20% | ~436 |
-| Enter the Sargauth | 0.20% | ~436 |
-| Slow and Steady | 0.20% | ~436 |
-| Lair of the Xanathar | 0.20% | ~436 |
-| Waterdeep Under Siege | 0.20% | ~436 |
-| Crowded Streets | 0.20% | ~436 |
-| Vault of Dragons | 0.20% | ~436 |
-| Champions of Waterdeep | 0.20% | ~436 |
-| Elturel Has Fallen | 0.20% | ~436 |
-| Resolve Amongst Chaos | 0.20% | ~436 |
-| Market Fluctuations | 0.20% | ~436 |
-| Once More Into The Breach | 0.20% | ~436 |
-| Wyllowwood | 0.20% | ~436 |
+| Hold for the Red Wizards | 0.20% | ~437 |
+| Seeds of Deceit | 0.20% | ~437 |
+| The Gargoyle's Apprentice | 0.20% | ~437 |
+| House of Darkness | 0.20% | ~437 |
+| The Trepidatious Trio | 0.20% | ~437 |
+| Treasure Hunters | 0.20% | ~437 |
+| The Guardian of Orolunga | 0.20% | ~437 |
+| The Lost Love | 0.20% | ~437 |
+| A Saurial's Resolve | 0.20% | ~437 |
+| Flies on the Wall | 0.20% | ~437 |
+| Backtracking Through Barovia | 0.20% | ~437 |
+| Excavating History | 0.20% | ~437 |
+| Towering Expectations | 0.20% | ~437 |
+| Cramped Quarters | 0.20% | ~437 |
+| Enter the Sargauth | 0.20% | ~437 |
+| Slow and Steady | 0.20% | ~437 |
+| Lair of the Xanathar | 0.20% | ~437 |
+| Waterdeep Under Siege | 0.20% | ~437 |
+| Crowded Streets | 0.20% | ~437 |
+| Vault of Dragons | 0.20% | ~437 |
+| Champions of Waterdeep | 0.20% | ~437 |
+| Elturel Has Fallen | 0.20% | ~437 |
+| Resolve Amongst Chaos | 0.20% | ~437 |
+| Market Fluctuations | 0.20% | ~437 |
+| Once More Into The Breach | 0.20% | ~437 |
+| Wyllowwood | 0.20% | ~437 |
 | An Illithid Undertaking | 0.20% | ~369 |
 | Déjà Vu | 0.20% | ~369 |
 | Into The Fire | 0.20% | ~369 |
@@ -222,7 +222,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.20% | ~369 |
 | The Sibriex | 0.20% | ~369 |
 | Wrecked Flying Fortress | 0.20% | ~369 |
-| Expert Opinion | 0.20% | ~436 |
+| Expert Opinion | 0.20% | ~437 |
 | Dwarven Rumors | 0.20% | ~369 |
 | Sunblight | 0.20% | ~369 |
 | The Bleeding Citadel | 0.20% | ~369 |
@@ -231,8 +231,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waiting on Sunrise | 0.20% | ~369 |
 | The Battle of High Hall Tower | 0.20% | ~369 |
 | Elturel's Last Stand | 0.20% | ~369 |
-| The Haunted Jungle | 0.20% | ~436 |
-| Poor Guidance | 0.20% | ~436 |
+| The Haunted Jungle | 0.20% | ~437 |
+| Poor Guidance | 0.20% | ~437 |
 | All The World's A Stage | 0.20% | ~369 |
 | Keep Your Friends Close | 0.10% | ~185 |
 | And Your Enemies Closer | 0.10% | ~185 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,236 (Ranked 53)  
+Progressed: 218,253 (Ranked 53)  
 Completed: 2,147 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -624,10 +624,10 @@ Completed: 2,147 (0.98%) (Ranked 112)
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
-| 2023-08-03 | 218,236 | 2,147 |
+| 2023-08-03 | 218,253 | 2,147 |
 ## Awards
 Max (Diverse Characters): 5,109  (Ranked 67)  
-Sum: 30,873 (Ranked 38)  
+Sum: 30,874 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -636,7 +636,7 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 4,701 |
 | This game is Relaxing | 4,594 |
 | This game has Amazing Characters | 4,047 |
-| This game is Highly Recommended | 4,029 |
+| This game is Highly Recommended | 4,030 |
 | This game has Playful Visuals | 3,338 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -830,4 +830,4 @@ Diff (max vs sum): 29
 | 2023-07-31 | 4.05 | - | 5,106 | 30,831 |
 | 2023-08-01 | 4.05 | - | 5,108 | 30,850 |
 | 2023-08-02 | 4.05 | - | 5,109 | 30,857 |
-| 2023-08-03 | 4.05 | - | 5,109 | 30,873 |
+| 2023-08-03 | 4.05 | - | 5,109 | 30,874 |

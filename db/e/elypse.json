@@ -405,9 +405,9 @@
       "ID": "Ach_AllSlashDashUnlock",
       "SetID": "4o5gjp0",
       "Name": "Full power",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Ach_AllSucces",
@@ -453,17 +453,17 @@
       "ID": "Ach_BossSlugMk2",
       "SetID": "4o5gjp0",
       "Name": "\u0022Ah sh*t... Here we go again!\u0022",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Ach_BuyAllItemAndUpgrade",
       "SetID": "4o5gjp0",
       "Name": "Compulsive hoarder",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Ach_BuyHut",
@@ -525,9 +525,9 @@
       "ID": "Ach_DiscoveryFinalTower",
       "SetID": "4o5gjp0",
       "Name": "Nokron tower",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Ach_DiscoveryTemple",
@@ -621,9 +621,9 @@
       "ID": "Ach_OptionalDialogRead",
       "SetID": "4o5gjp0",
       "Name": "Bookworm",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Ach_SkullGoal",
@@ -684,8 +684,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-08-03T16:05:23.8360625+00:00",
+  "LastChanged_Achievements": "2023-08-03T17:05:55.0257181+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:57.8923597+00:00",
-  "LastUpdate_Ratings": "2023-08-03T15:59:24.8272479+00:00",
-  "LastUpdate_Achievements": "2023-08-03T16:05:23.8360845+00:00"
+  "LastUpdate_Ratings": "2023-08-03T16:59:36.2520108+00:00",
+  "LastUpdate_Achievements": "2023-08-03T17:05:55.0257464+00:00"
 }

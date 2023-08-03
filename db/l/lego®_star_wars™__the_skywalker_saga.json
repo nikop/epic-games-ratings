@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -9985,9 +9985,9 @@
       "ID": "LEVEL_CHALLENGES_ONE_LEVEL",
       "SetID": "3fcpmbm",
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35508
+      "UsersEstimate": 36008
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -10049,8 +10049,8 @@
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-08-02T15:56:59.1520879+00:00",
-  "LastChanged_Achievements": "2023-08-03T16:03:42.2702328+00:00",
+  "LastChanged_Achievements": "2023-08-03T17:03:36.8514915+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:55.9032562+00:00",
-  "LastUpdate_Ratings": "2023-08-03T15:57:38.0499409+00:00",
-  "LastUpdate_Achievements": "2023-08-03T16:03:42.2702929+00:00"
+  "LastUpdate_Ratings": "2023-08-03T16:57:21.9681695+00:00",
+  "LastUpdate_Achievements": "2023-08-03T17:03:36.8516259+00:00"
 }

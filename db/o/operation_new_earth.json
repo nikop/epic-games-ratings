@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 765,
+  "EOS_Progressed": 766,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2651,6 +2651,11 @@
       "Time": "2023-08-03T15:08:13.0804413+00:00",
       "NumProgressed": 765,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T17:07:38.8330634+00:00",
+      "NumProgressed": 766,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2678,7 +2683,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_defeat_players_100",
@@ -2742,7 +2747,7 @@
       "Name": "Keeping Busy",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "objective_headquarters_15",
@@ -2774,7 +2779,7 @@
       "Name": "Corporal",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -2846,7 +2851,7 @@
       "Name": "Covert Operative",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -2902,7 +2907,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -2965,14 +2970,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 765,
+      "Progressed": 766,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-03T16:06:47.0654723+00:00",
+  "LastChanged_Achievements": "2023-08-03T17:07:38.8330627+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-08-03T15:57:33.7568767+00:00",
-  "LastUpdate_Achievements": "2023-08-03T16:06:47.0655064+00:00"
+  "LastUpdate_Ratings": "2023-08-03T16:57:17.7373356+00:00",
+  "LastUpdate_Achievements": "2023-08-03T17:07:38.8331388+00:00"
 }

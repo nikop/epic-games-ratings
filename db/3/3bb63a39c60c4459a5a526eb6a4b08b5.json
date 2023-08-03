@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 388,
+  "EOS_Progressed": 389,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1326,6 +1326,11 @@
       "Time": "2023-08-03T14:03:40.247514+00:00",
       "NumProgressed": 388,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-03T17:04:26.1091333+00:00",
+      "NumProgressed": 389,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1335,9 +1340,9 @@
       "ID": "ABigLuck",
       "SetID": "1e89b4i",
       "Name": "Great Luck",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 31
     },
     {
       "ID": "ActivePause",
@@ -1361,7 +1366,7 @@
       "Name": "Expensive Plane",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "BudgetFlight",
@@ -1665,21 +1670,21 @@
       "Name": "Transport Hub",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 388,
+      "Progressed": 389,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-03T16:04:20.4458312+00:00",
+  "LastChanged_Achievements": "2023-08-03T17:04:26.1091329+00:00",
   "LastUpdate_AppInfo": "2023-08-01T09:57:03.2842232+00:00",
-  "LastUpdate_Ratings": "2023-08-03T15:58:01.1267343+00:00",
-  "LastUpdate_Achievements": "2023-08-03T16:04:20.4458643+00:00"
+  "LastUpdate_Ratings": "2023-08-03T16:57:52.3680744+00:00",
+  "LastUpdate_Achievements": "2023-08-03T17:04:26.1091748+00:00"
 }

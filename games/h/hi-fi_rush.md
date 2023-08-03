@@ -51,11 +51,11 @@ Rating: 4.87 (Ranked 24)
 | Choose your own adventure | 0.40% | ~9 |
 | OK, well THEY came after ME! | 0.30% | ~11 |
 | Easy Listening | 0.20% | ~7 |
+| Problem solved... wait, what? | 0.20% | ~7 |
 | Now this is how you fight like a team! | 0.20% | ~7 |
 | You ever parry a volcano? | 0.20% | ~7 |
 | It'll do, CNMN | 0.20% | ~4 |
 | And the crowd goes wild! | 0.10% | ~4 |
-| Problem solved... wait, what? | 0.10% | ~4 |
 | I can't see this ever being a problem again | 0.10% | ~4 |
 | I think that's enough health for now | 0.10% | ~4 |
 | Fully Powered Up! | 0.10% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,698 (Ranked 147)  
+Progressed: 3,700 (Ranked 147)  
 Completed: 6 (0.16%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 6 (0.16%) (Ranked 179)
 | 2023-07-31 | 3,656 | 6 |
 | 2023-08-01 | 3,666 | 6 |
 | 2023-08-02 | 3,680 | 6 |
-| 2023-08-03 | 3,698 | 6 |
+| 2023-08-03 | 3,700 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

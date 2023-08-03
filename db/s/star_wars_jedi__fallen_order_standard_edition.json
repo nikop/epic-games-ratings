@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1073,
+  "EOS_Progressed": 1074,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1072,
+  "EOS_NewPlayers": 1073,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -472,6 +472,11 @@
       "Time": "2023-08-03T15:03:51.0898054+00:00",
       "NumProgressed": 1073,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-03T17:03:16.2915319+00:00",
+      "NumProgressed": 1074,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -500,7 +505,7 @@
       "Name": "The Holocron Awaits",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "achievement_12",
@@ -508,7 +513,7 @@
       "Name": "Happy Go Wookiee",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "achievement_13",
@@ -516,7 +521,7 @@
       "Name": "Her Name Was Masana Tide",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "achievement_14",
@@ -524,7 +529,7 @@
       "Name": "Visiting Alderaan Places",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "achievement_15",
@@ -556,7 +561,7 @@
       "Name": "Back At You",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "achievement_19",
@@ -628,7 +633,7 @@
       "Name": "Look Out Below",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "achievement_27",
@@ -644,7 +649,7 @@
       "Name": "Bank Shot",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "achievement_29",
@@ -652,7 +657,7 @@
       "Name": "Blade Master",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "achievement_3",
@@ -668,7 +673,7 @@
       "Name": "Cal Got Your Tongue?",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "achievement_31",
@@ -708,7 +713,7 @@
       "Name": "Sabersmith",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "achievement_36",
@@ -732,7 +737,7 @@
       "Name": "Scum and Villainy",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "achievement_39",
@@ -772,7 +777,7 @@
       "Name": "The Mantis",
       "Percentage": 99,
       "XP": 25,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "achievement_8",
@@ -780,7 +785,7 @@
       "Name": "A Long Time Ago",
       "Percentage": 94,
       "XP": 25,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "achievement_9",
@@ -788,14 +793,14 @@
       "Name": "The Obstacle is the Way",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     }
   ],
   "AchievementSets": [
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 1073,
+      "Progressed": 1074,
       "Completed": 5
     }
   ],
@@ -803,8 +808,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-07-11T17:57:37.1037412+00:00",
-  "LastChanged_Achievements": "2023-08-03T16:03:25.7958601+00:00",
+  "LastChanged_Achievements": "2023-08-03T17:03:16.2915311+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:11.5236835+00:00",
-  "LastUpdate_Ratings": "2023-08-03T15:58:37.6848127+00:00",
-  "LastUpdate_Achievements": "2023-08-03T16:03:25.7958863+00:00"
+  "LastUpdate_Ratings": "2023-08-03T16:58:44.7000307+00:00",
+  "LastUpdate_Achievements": "2023-08-03T17:03:16.2915888+00:00"
 }

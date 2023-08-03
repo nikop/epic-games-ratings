@@ -2,9 +2,9 @@
   "ID": "162c788ef5924c688fa0d0663c15a763",
   "Name": "Get Together: A Coop Adventure",
   "ProductSlug": "get-together-176532",
-  "Ranking_EOS_Progress": 346,
+  "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-10T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 62,
+  "EOS_Progressed": 63,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -173,6 +173,11 @@
       "Time": "2023-07-31T12:05:16.3709822+00:00",
       "NumProgressed": 62,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T17:06:00.3318231+00:00",
+      "NumProgressed": 63,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 10,
@@ -182,7 +187,7 @@
       "ID": "GT_ACH_CAVESYNC",
       "SetID": "883j7b4",
       "Name": "Beam me up",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 100,
       "UsersEstimate": 38
     },
@@ -190,9 +195,9 @@
       "ID": "GT_ACH_ELEVATOR",
       "SetID": "883j7b4",
       "Name": "Elevator Pitch",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "GT_ACH_ENDBOTH",
@@ -206,7 +211,7 @@
       "ID": "GT_ACH_FREECOMP",
       "SetID": "883j7b4",
       "Name": "Uncaged",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -238,7 +243,7 @@
       "ID": "GT_ACH_RITUALEND",
       "SetID": "883j7b4",
       "Name": "The end is nigh!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
       "UsersEstimate": 11
     },
@@ -246,7 +251,7 @@
       "ID": "GT_ACH_RITUALSYNC",
       "SetID": "883j7b4",
       "Name": "Get Together",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
       "UsersEstimate": 11
     },
@@ -256,14 +261,14 @@
       "Name": "Get lost!",
       "Percentage": 92,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     }
   ],
   "AchievementSets": [
     {
       "ID": "883j7b4",
       "IsBase": true,
-      "Progressed": 62,
+      "Progressed": 63,
       "Completed": 0
     }
   ],
@@ -271,8 +276,8 @@
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "LastChanged_Achievements": "2023-08-03T16:05:27.9068817+00:00",
+  "LastChanged_Achievements": "2023-08-03T17:06:00.3318224+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:11.0402415+00:00",
-  "LastUpdate_Ratings": "2023-08-03T16:00:51.7187716+00:00",
-  "LastUpdate_Achievements": "2023-08-03T16:05:27.9068898+00:00"
+  "LastUpdate_Ratings": "2023-08-03T17:01:29.0885987+00:00",
+  "LastUpdate_Achievements": "2023-08-03T17:06:00.3318398+00:00"
 }

@@ -1648,9 +1648,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 247131,
+  "EOS_Progressed": 247146,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2667,
+  "EOS_NewPlayers": 2663,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13173,6 +13173,11 @@
       "Time": "2023-08-03T16:06:11.5664085+00:00",
       "NumProgressed": 247131,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T17:06:47.6929059+00:00",
+      "NumProgressed": 247146,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -13232,7 +13237,7 @@
       "Name": "Contender",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 27184
+      "UsersEstimate": 27186
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -13272,7 +13277,7 @@
       "Name": "First but not Last",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9885
+      "UsersEstimate": 9886
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -13344,7 +13349,7 @@
       "Name": "I Found it!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22242
+      "UsersEstimate": 22243
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -13408,7 +13413,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 202647
+      "UsersEstimate": 202660
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -13416,22 +13421,22 @@
       "Name": "I know the Rules",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 96381
+      "UsersEstimate": 96387
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 247131,
+      "Progressed": 247146,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-08-02T20:59:46.094704+00:00",
-  "LastChanged_Achievements": "2023-08-03T16:06:11.566408+00:00",
+  "LastChanged_Achievements": "2023-08-03T17:06:47.6929051+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:50.1755245+00:00",
-  "LastUpdate_Ratings": "2023-08-03T16:00:26.1733796+00:00",
-  "LastUpdate_Achievements": "2023-08-03T16:06:11.5664875+00:00"
+  "LastUpdate_Ratings": "2023-08-03T17:00:49.9363432+00:00",
+  "LastUpdate_Achievements": "2023-08-03T17:06:47.693067+00:00"
 }

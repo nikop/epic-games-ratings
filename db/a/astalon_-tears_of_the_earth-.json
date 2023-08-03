@@ -2,7 +2,7 @@
   "ID": "5e09944aaced4155ac9463196b5deada",
   "Name": "Astalon -Tears of the Earth-",
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
-  "Ranking_EOS_Progress": 346,
+  "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 104,
@@ -191,9 +191,9 @@
       "ID": "Collect_50000_Orbs",
       "SetID": "4f0g260",
       "Name": "Orb Collector",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Complete_Bestiary_100",
@@ -344,8 +344,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-08-03T16:03:39.1319526+00:00",
+  "LastChanged_Achievements": "2023-08-03T17:03:32.5869662+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.0042283+00:00",
-  "LastUpdate_Ratings": "2023-08-03T15:59:38.5704986+00:00",
-  "LastUpdate_Achievements": "2023-08-03T16:03:39.1319721+00:00"
+  "LastUpdate_Ratings": "2023-08-03T16:59:57.569773+00:00",
+  "LastUpdate_Achievements": "2023-08-03T17:03:32.5869969+00:00"
 }
