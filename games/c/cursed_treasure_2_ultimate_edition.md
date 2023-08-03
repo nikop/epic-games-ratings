@@ -13,8 +13,8 @@
 | Tinned Corpse | 84.00% | ~138 |
 | Your War is Over | 82.00% | ~134 |
 | The Starry Night | 76.00% | ~125 |
+| Brilliant: Meadowshire | 74.00% | ~121 |
 | Go Home! | 74.00% | ~121 |
-| Brilliant: Meadowshire | 73.00% | ~120 |
 | Look After the Pence... | 73.00% | ~120 |
 | Sergeant of the Evil | 73.00% | ~120 |
 | Drunken Master | 72.00% | ~118 |

@@ -15,7 +15,7 @@ Number of Ratings: 266  (23.09.2022)
 | Scourge Slayer | 25.00% | ~814 |
 | Science, Troglodyte! | 23.00% | ~749 |
 | Exceptional Skill | 22.00% | ~717 |
-| Home Sweet Home | 21.00% | ~684 |
+| Home Sweet Home | 22.00% | ~717 |
 | Encyclopedic! | 19.00% | ~619 |
 | A Fortress Toppled! | 16.00% | ~521 |
 | Apex Predator | 16.00% | ~521 |

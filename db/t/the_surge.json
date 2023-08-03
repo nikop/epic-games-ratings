@@ -343,9 +343,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 4572,
+  "EOS_Progressed": 4573,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2023,6 +2023,11 @@
       "Time": "2023-08-02T23:03:48.6052366+00:00",
       "NumProgressed": 4572,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-03T02:29:17.0169405+00:00",
+      "NumProgressed": 4573,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 67,
@@ -2042,7 +2047,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -2082,7 +2087,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3886
+      "UsersEstimate": 3887
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -2090,7 +2095,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4298
+      "UsersEstimate": 4299
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -2098,7 +2103,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3520
+      "UsersEstimate": 3521
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -2178,7 +2183,7 @@
       "Name": "Melting Down",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -2266,7 +2271,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -2362,7 +2367,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -2569,15 +2574,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4572,
+      "Progressed": 4573,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-07-15T15:00:43.484172+00:00",
-  "LastChanged_Achievements": "2023-08-03T01:56:35.7601695+00:00",
+  "LastChanged_Achievements": "2023-08-03T02:29:17.0169395+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.6544505+00:00",
-  "LastUpdate_Ratings": "2023-08-03T01:51:43.5424161+00:00",
-  "LastUpdate_Achievements": "2023-08-03T01:56:35.7602597+00:00"
+  "LastUpdate_Ratings": "2023-08-03T02:24:06.5567501+00:00",
+  "LastUpdate_Achievements": "2023-08-03T02:29:17.0170289+00:00"
 }

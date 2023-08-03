@@ -5,7 +5,7 @@
   "Ranking_Rating": 902,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
-  "Ranking_EOS_Progress": 149,
+  "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 103,
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3543,
+  "EOS_Progressed": 3544,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1048,6 +1048,11 @@
       "Time": "2023-08-02T21:03:59.4125914+00:00",
       "NumProgressed": 3543,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T02:29:40.0149921+00:00",
+      "NumProgressed": 3544,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1059,7 +1064,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -1089,9 +1094,9 @@
       "ID": "FAIL_QTE_FIRST_TIME",
       "SetID": "kakdpn",
       "Name": "Totally Intentional",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1559
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1115,7 +1120,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -1155,7 +1160,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -1163,7 +1168,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -1179,7 +1184,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1266,7 +1271,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3543,
+      "Progressed": 3544,
       "Completed": 0
     }
   ],
@@ -1274,8 +1279,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-08-03T01:56:53.5208786+00:00",
+  "LastChanged_Achievements": "2023-08-03T02:29:40.0149915+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:07.7078521+00:00",
-  "LastUpdate_Ratings": "2023-08-03T01:53:07.1446834+00:00",
-  "LastUpdate_Achievements": "2023-08-03T01:56:53.5209023+00:00"
+  "LastUpdate_Ratings": "2023-08-03T02:26:05.0219561+00:00",
+  "LastUpdate_Achievements": "2023-08-03T02:29:40.0150178+00:00"
 }

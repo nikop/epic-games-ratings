@@ -7770,9 +7770,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 77389,
+  "EOS_Progressed": 77390,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2838,
+  "EOS_NewPlayers": 2832,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19230,6 +19230,11 @@
       "Time": "2023-08-03T01:59:16.4220002+00:00",
       "NumProgressed": 77389,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T02:33:05.1963366+00:00",
+      "NumProgressed": 77390,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -20073,7 +20078,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3869
+      "UsersEstimate": 3870
     },
     {
       "ID": "achievement_forever_golden",
@@ -22072,21 +22077,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 77389,
+      "Progressed": 77390,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 77389,
+      "Progressed": 77390,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-08-03T01:51:07.8898664+00:00",
-  "LastChanged_Achievements": "2023-08-03T01:59:16.4219996+00:00",
+  "LastChanged_Achievements": "2023-08-03T02:33:05.196336+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.0548947+00:00",
-  "LastUpdate_Ratings": "2023-08-03T01:51:07.889867+00:00",
-  "LastUpdate_Achievements": "2023-08-03T01:59:16.4233195+00:00"
+  "LastUpdate_Ratings": "2023-08-03T02:23:11.2808046+00:00",
+  "LastUpdate_Achievements": "2023-08-03T02:33:05.1977855+00:00"
 }

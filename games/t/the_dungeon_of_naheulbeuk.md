@@ -6,18 +6,18 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~121,082 |
-| Where's that freaking Dwarf? | 47.00% | ~96,455 |
-| GG EZ | 28.00% | ~57,462 |
-| Speedrun | 26.00% | ~53,358 |
-| Déjà vu | 21.00% | ~43,097 |
-| Sock! SOCK! | 17.00% | ~34,888 |
-| DM intervention | 13.00% | ~26,679 |
-| Fireproof Wizardess | 10.00% | ~20,522 |
+| Alt+F4 | 59.00% | ~121,086 |
+| Where's that freaking Dwarf? | 47.00% | ~96,459 |
+| GG EZ | 28.00% | ~57,465 |
+| Speedrun | 26.00% | ~53,360 |
+| Déjà vu | 21.00% | ~43,099 |
+| Sock! SOCK! | 17.00% | ~34,889 |
+| DM intervention | 13.00% | ~26,680 |
+| Fireproof Wizardess | 10.00% | ~20,523 |
 | Livin' in a dwarven paradise | 8.00% | ~16,418 |
 | A beer, two curses, three companions | 8.00% | ~16,418 |
 | Way of the Wimp | 7.00% | ~14,366 |
-| The plot thickens... At the tavern | 5.00% | ~10,261 |
+| The plot thickens... At the tavern | 5.00% | ~10,262 |
 | The Woman in the High Castle | 4.00% | ~8,209 |
 | I am the night | 4.00% | ~8,209 |
 | Team Building Exercise | 4.00% | ~8,209 |
@@ -28,14 +28,14 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 3.00% | ~6,157 |
 | Thieves' Guild Accreditation | 3.00% | ~6,157 |
 | Oh, when I'll be level 10... | 3.00% | ~6,157 |
-| The Great Library | 2.00% | ~4,104 |
-| Torture and Sensibility | 2.00% | ~4,104 |
-| Urik's Depths | 2.00% | ~4,104 |
-| Look but don't touch | 2.00% | ~4,104 |
-| The beards of change | 2.00% | ~4,104 |
-| Gargantua | 2.00% | ~4,104 |
-| In Navalu's footsteps | 2.00% | ~4,104 |
-| Material Girl | 2.00% | ~4,104 |
+| The Great Library | 2.00% | ~4,105 |
+| Torture and Sensibility | 2.00% | ~4,105 |
+| Urik's Depths | 2.00% | ~4,105 |
+| Look but don't touch | 2.00% | ~4,105 |
+| The beards of change | 2.00% | ~4,105 |
+| Gargantua | 2.00% | ~4,105 |
+| In Navalu's footsteps | 2.00% | ~4,105 |
+| Material Girl | 2.00% | ~4,105 |
 | The Dungeon Master | 1.00% | ~2,052 |
 | The Statuette of Gladeulfeurah | 1.00% | ~2,052 |
 | The Famous Dungeon of Naheulbeuk | 1.00% | ~2,052 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,223 (Ranked 55)  
+Progressed: 205,231 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-31 | 203,882 | 0 |
 | 2023-08-01 | 204,538 | 0 |
 | 2023-08-02 | 205,167 | 0 |
-| 2023-08-03 | 205,223 | 0 |
+| 2023-08-03 | 205,231 | 0 |
 ## Awards
 Max (Character Customization): 149  (Ranked 295)  
 Sum: 149 (Ranked 392)  

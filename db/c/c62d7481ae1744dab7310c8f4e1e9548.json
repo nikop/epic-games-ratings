@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -383,9 +383,9 @@
       "ID": "ZpivajiciHouba",
       "SetID": "ag48e8e",
       "Name": "Dancing Fungus",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -398,8 +398,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-08-03T01:55:23.7281757+00:00",
+  "LastChanged_Achievements": "2023-08-03T02:28:09.4986327+00:00",
   "LastUpdate_AppInfo": "2023-07-28T14:57:04.029049+00:00",
-  "LastUpdate_Ratings": "2023-08-03T01:50:17.7833419+00:00",
-  "LastUpdate_Achievements": "2023-08-03T01:55:23.7281982+00:00"
+  "LastUpdate_Ratings": "2023-08-03T02:22:06.8453057+00:00",
+  "LastUpdate_Achievements": "2023-08-03T02:28:09.4986601+00:00"
 }

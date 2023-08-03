@@ -1658,9 +1658,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 53766,
+  "EOS_Progressed": 53769,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 888,
+  "EOS_NewPlayers": 890,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12868,6 +12868,11 @@
       "Time": "2023-08-03T01:54:19.646437+00:00",
       "NumProgressed": 53766,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-03T02:27:51.2674248+00:00",
+      "NumProgressed": 53769,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -12879,7 +12884,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 29571
+      "UsersEstimate": 29573
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -12999,7 +13004,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 12904
+      "UsersEstimate": 12905
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -13111,7 +13116,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 13979
+      "UsersEstimate": 13980
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -13135,7 +13140,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17205
+      "UsersEstimate": 17206
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -13143,7 +13148,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 21506
+      "UsersEstimate": 21508
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -13167,7 +13172,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 33873
+      "UsersEstimate": 33874
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -13191,7 +13196,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 12904
+      "UsersEstimate": 12905
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -13199,7 +13204,7 @@
       "Name": "Battle hardened",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4301
+      "UsersEstimate": 4302
     },
     {
       "ID": "VERDUN_ACH_LEVEL75",
@@ -13247,7 +13252,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 41400
+      "UsersEstimate": 41402
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -13343,22 +13348,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 19893
+      "UsersEstimate": 19895
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 53766,
+      "Progressed": 53769,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-08-02T19:59:24.1084787+00:00",
-  "LastChanged_Achievements": "2023-08-03T01:54:19.6464365+00:00",
+  "LastChanged_Achievements": "2023-08-03T02:27:51.2674238+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.1031858+00:00",
-  "LastUpdate_Ratings": "2023-08-03T01:52:09.4106952+00:00",
-  "LastUpdate_Achievements": "2023-08-03T01:54:19.6465686+00:00"
+  "LastUpdate_Ratings": "2023-08-03T02:24:44.8223378+00:00",
+  "LastUpdate_Achievements": "2023-08-03T02:27:51.2675447+00:00"
 }

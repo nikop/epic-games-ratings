@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 101.00% | ~80 |
-| A bottomless pit | 87.00% | ~69 |
-| Pigeon | 82.00% | ~65 |
-| Baited | 71.00% | ~56 |
+| A path of no return | 101.00% | ~81 |
+| A bottomless pit | 86.00% | ~69 |
+| Pigeon | 81.00% | ~65 |
+| Baited | 70.00% | ~56 |
 | "Swoosh" | 63.00% | ~50 |
-| The light at the end of the tunnel | 62.00% | ~49 |
-| Splash! | 57.00% | ~45 |
-| Masochistic | 51.00% | ~40 |
+| The light at the end of the tunnel | 61.00% | ~49 |
+| Splash! | 56.00% | ~45 |
+| Masochistic | 50.00% | ~40 |
 | Soft skin | 48.00% | ~38 |
 | Squid game | 38.00% | ~30 |
 | Sensitive soul | 33.00% | ~26 |
@@ -20,10 +20,10 @@
 | It's getting dark | 29.00% | ~23 |
 | Hard Rock | 29.00% | ~23 |
 | Rooftop | 28.00% | ~22 |
-| Homeless | 27.00% | ~21 |
+| Homeless | 26.00% | ~21 |
 | Big badaboom! | 25.00% | ~20 |
 | Bookworm | 23.00% | ~18 |
-| Payback | 22.00% | ~17 |
+| Payback | 21.00% | ~17 |
 | Full power | 19.00% | ~15 |
 | "Ah sh*t... Here we go again!" | 19.00% | ~15 |
 | Nokron tower | 19.00% | ~15 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79 (Ranked 335)  
+Progressed: 80 (Ranked 334)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,3 +77,4 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-25 | 75 | 0 |
 | 2023-07-31 | 76 | 0 |
 | 2023-08-02 | 79 | 0 |
+| 2023-08-03 | 80 | 0 |

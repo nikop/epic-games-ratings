@@ -13,7 +13,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brothers in Arms | 6.00% | ~4,643 |
 | That's a Grand Navy | 6.00% | ~4,643 |
 | Seriously?! | 6.00% | ~4,643 |
-| For the Glory | 5.00% | ~3,869 |
+| For the Glory | 5.00% | ~3,870 |
 | Cold War | 4.00% | ~3,096 |
 | True Catholic | 4.00% | ~3,096 |
 | Defender of the Faith | 3.00% | ~2,322 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,389 (Ranked 76)  
+Progressed: 77,390 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -466,7 +466,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-31 | 76,579 | 0 |
 | 2023-08-01 | 77,006 | 0 |
 | 2023-08-02 | 77,371 | 0 |
-| 2023-08-03 | 77,389 | 0 |
+| 2023-08-03 | 77,390 | 0 |
 ## Awards
 Max (Educational): 5,608  (Ranked 61)  
 Sum: 46,284 (Ranked 26)  

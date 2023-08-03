@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -925,9 +925,9 @@
       "ID": "ach_consultant_1",
       "SetID": "b8gh1fi",
       "Name": "Upgrade Unlock",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 110
     },
     {
       "ID": "ach_consultants_a",
@@ -1117,9 +1117,9 @@
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 150
     },
     {
       "ID": "ach_grime_1",
@@ -1494,8 +1494,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-08-03T01:56:10.9840033+00:00",
+  "LastChanged_Achievements": "2023-08-03T02:28:32.7794098+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:50.6819272+00:00",
-  "LastUpdate_Ratings": "2023-08-03T01:51:42.7077702+00:00",
-  "LastUpdate_Achievements": "2023-08-03T01:56:10.9841185+00:00"
+  "LastUpdate_Ratings": "2023-08-03T02:24:04.2755545+00:00",
+  "LastUpdate_Achievements": "2023-08-03T02:28:32.7795301+00:00"
 }

@@ -84,6 +84,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.40% | ~53 |
 | Temple of Solomon | 0.40% | ~53 |
 | Adur Burzen-Mihr | 0.40% | ~53 |
+| Via Recta Souk | 0.40% | ~53 |
 | Power to the People | 0.40% | ~53 |
 | Persian Paganism | 0.40% | ~53 |
 | Building Wonders | 0.40% | ~53 |
@@ -106,7 +107,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.30% | ~40 |
 | Church of the Holy Sepulchre | 0.30% | ~40 |
 | Pantheon | 0.30% | ~40 |
-| Via Recta Souk | 0.30% | ~40 |
 | Learn to Play 3 | 0.30% | ~40 |
 | Babylonia | 0.30% | ~40 |
 | Carthage | 0.30% | ~40 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,245 (Ranked 117)  
+Progressed: 13,246 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-07-31 | 13,209 | 5 |
 | 2023-08-01 | 13,228 | 5 |
 | 2023-08-02 | 13,244 | 5 |
-| 2023-08-03 | 13,245 | 5 |
+| 2023-08-03 | 13,246 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 262)  
 Sum: 1,786 (Ranked 206)  

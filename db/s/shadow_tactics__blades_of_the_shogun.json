@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1375,9 +1375,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 190753,
+  "EOS_Progressed": 190757,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1904,
+  "EOS_NewPlayers": 1901,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12850,6 +12850,11 @@
       "Time": "2023-08-03T01:59:38.0565878+00:00",
       "NumProgressed": 190753,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-08-03T02:33:35.5341429+00:00",
+      "NumProgressed": 190757,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 44,
@@ -13085,7 +13090,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 15260
+      "UsersEstimate": 15261
     },
     {
       "ID": "StillRollin",
@@ -13117,7 +13122,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 15260
+      "UsersEstimate": 15261
     },
     {
       "ID": "TheCave",
@@ -13212,15 +13217,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 190753,
+      "Progressed": 190757,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-01T15:01:04.9218002+00:00",
-  "LastChanged_Achievements": "2023-08-03T01:59:38.0565873+00:00",
+  "LastChanged_Achievements": "2023-08-03T02:33:35.5341421+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:58.4166867+00:00",
-  "LastUpdate_Ratings": "2023-08-03T01:52:50.3219136+00:00",
-  "LastUpdate_Achievements": "2023-08-03T01:59:38.0566966+00:00"
+  "LastUpdate_Ratings": "2023-08-03T02:25:42.5799277+00:00",
+  "LastUpdate_Achievements": "2023-08-03T02:33:35.5342514+00:00"
 }

@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 523979,
+  "EOS_Progressed": 523982,
   "EOS_Completed": 453,
-  "EOS_NewPlayers": 669,
+  "EOS_NewPlayers": 672,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -11410,6 +11410,11 @@
       "Time": "2023-08-03T01:57:25.0779375+00:00",
       "NumProgressed": 523979,
       "NumCompleted": 453
+    },
+    {
+      "Time": "2023-08-03T02:30:19.2317363+00:00",
+      "NumProgressed": 523982,
+      "NumCompleted": 453
     }
   ],
   "TotalAchievements": 57,
@@ -11421,7 +11426,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 120515
+      "UsersEstimate": 120516
     },
     {
       "ID": "10",
@@ -11429,7 +11434,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 235791
+      "UsersEstimate": 235792
     },
     {
       "ID": "11",
@@ -11437,7 +11442,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 366785
+      "UsersEstimate": 366787
     },
     {
       "ID": "12",
@@ -11445,7 +11450,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 115275
+      "UsersEstimate": 115276
     },
     {
       "ID": "13",
@@ -11453,7 +11458,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68117
+      "UsersEstimate": 68118
     },
     {
       "ID": "14",
@@ -11501,7 +11506,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 324867
+      "UsersEstimate": 324869
     },
     {
       "ID": "2",
@@ -11517,7 +11522,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 125755
+      "UsersEstimate": 125756
     },
     {
       "ID": "21",
@@ -11645,7 +11650,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 261990
+      "UsersEstimate": 261991
     },
     {
       "ID": "36",
@@ -11677,7 +11682,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 178153
+      "UsersEstimate": 178154
     },
     {
       "ID": "4",
@@ -11717,7 +11722,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 89076
+      "UsersEstimate": 89077
     },
     {
       "ID": "44",
@@ -11749,7 +11754,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 324867
+      "UsersEstimate": 324869
     },
     {
       "ID": "48",
@@ -11765,7 +11770,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 178153
+      "UsersEstimate": 178154
     },
     {
       "ID": "5",
@@ -11797,7 +11802,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 241030
+      "UsersEstimate": 241032
     },
     {
       "ID": "53",
@@ -11805,7 +11810,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 120515
+      "UsersEstimate": 120516
     },
     {
       "ID": "54",
@@ -11876,15 +11881,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 523979,
+      "Progressed": 523982,
       "Completed": 453
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-03T01:57:25.077937+00:00",
+  "LastChanged_Achievements": "2023-08-03T02:30:19.2317356+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:06.8481314+00:00",
-  "LastUpdate_Ratings": "2023-08-03T01:51:08.9147999+00:00",
-  "LastUpdate_Achievements": "2023-08-03T01:57:25.0780612+00:00"
+  "LastUpdate_Ratings": "2023-08-03T02:23:12.9849987+00:00",
+  "LastUpdate_Achievements": "2023-08-03T02:30:19.2318549+00:00"
 }

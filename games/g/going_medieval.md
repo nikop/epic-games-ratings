@@ -6,39 +6,39 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 74.00% | ~3,721 |
-| Having A Field Day | 73.00% | ~3,671 |
-| Reap What You Sow | 70.00% | ~3,520 |
-| The First Day | 67.00% | ~3,369 |
-| Green Thumb | 66.00% | ~3,319 |
-| Novice Researcher | 65.00% | ~3,269 |
+| Get A Room | 74.00% | ~3,722 |
+| Having A Field Day | 73.00% | ~3,672 |
+| Reap What You Sow | 70.00% | ~3,521 |
+| The First Day | 67.00% | ~3,370 |
+| Green Thumb | 66.00% | ~3,320 |
+| Novice Researcher | 65.00% | ~3,270 |
 | Putting Food on the Table | 61.00% | ~3,068 |
-| Home Cooked Meal | 56.00% | ~2,816 |
+| Home Cooked Meal | 56.00% | ~2,817 |
 | Onward | 55.00% | ~2,766 |
-| The First Week | 53.00% | ~2,665 |
+| The First Week | 53.00% | ~2,666 |
 | Studious Researcher | 51.00% | ~2,565 |
-| Beam Me Up | 50.00% | ~2,514 |
-| Feast or Famine | 50.00% | ~2,514 |
+| Beam Me Up | 50.00% | ~2,515 |
+| Feast or Famine | 50.00% | ~2,515 |
 | Adept Researcher | 44.00% | ~2,213 |
 | Retribution | 41.00% | ~2,062 |
 | ...And Don’t Come Back! | 40.00% | ~2,012 |
-| Fit For A King | 39.00% | ~1,961 |
+| Fit For A King | 39.00% | ~1,962 |
 | Luminary Researcher | 33.00% | ~1,660 |
-| Heating Up | 29.00% | ~1,458 |
+| Heating Up | 29.00% | ~1,459 |
 | Winter Is Coming | 26.00% | ~1,308 |
 | Winter Is Here | 23.00% | ~1,157 |
 | Disassembled | 20.00% | ~1,006 |
 | A Party Now | 19.00% | ~956 |
 | Oh Deer! | 19.00% | ~956 |
 | All Year Round | 19.00% | ~956 |
-| Nothing Wasted | 12.00% | ~603 |
-| Don't Cry Wolf | 12.00% | ~603 |
+| Nothing Wasted | 12.00% | ~604 |
+| Don't Cry Wolf | 12.00% | ~604 |
 | Deerly Departed | 8.00% | ~402 |
-| Where Wolf? | 5.00% | ~251 |
+| Where Wolf? | 5.00% | ~252 |
 | Food Chain | 2.00% | ~101 |
 | Wabbit Season | 0.60% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,029 (Ranked 139)  
+Progressed: 5,030 (Ranked 139)  
 Completed: 10 (0.20%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 10 (0.20%) (Ranked 173)
 | 2023-07-31 | 4,972 | 10 |
 | 2023-08-01 | 4,992 | 10 |
 | 2023-08-02 | 5,026 | 10 |
-| 2023-08-03 | 5,029 | 10 |
+| 2023-08-03 | 5,030 | 10 |
 ## Awards
 Max (Relaxing): 121  (Ranked 315)  
 Sum: 966 (Ranked 238)  

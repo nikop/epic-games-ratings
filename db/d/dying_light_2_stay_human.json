@@ -7867,9 +7867,9 @@
       "Count": 628
     }
   ],
-  "EOS_Progressed": 606699,
+  "EOS_Progressed": 606703,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 4513,
+  "EOS_NewPlayers": 4504,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19332,6 +19332,11 @@
       "Time": "2023-08-03T01:58:02.2891588+00:00",
       "NumProgressed": 606699,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-08-03T02:31:10.8346167+00:00",
+      "NumProgressed": 606703,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 65,
@@ -19581,9 +19586,9 @@
       "ID": "achievement_31",
       "SetID": "3cbf5jh",
       "Name": "Combat Master",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 12134
+      "UsersEstimate": 18201
     },
     {
       "ID": "achievement_32",
@@ -19862,21 +19867,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 606699,
+      "Progressed": 606703,
       "Completed": 61
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 252143,
+      "Progressed": 252147,
       "Completed": 1423
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-08-02T23:01:29.2005525+00:00",
-  "LastChanged_Achievements": "2023-08-03T01:58:02.2891583+00:00",
+  "LastChanged_Achievements": "2023-08-03T02:31:10.8346159+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:49.4818152+00:00",
-  "LastUpdate_Ratings": "2023-08-03T01:53:40.5919524+00:00",
-  "LastUpdate_Achievements": "2023-08-03T01:58:02.2893094+00:00"
+  "LastUpdate_Ratings": "2023-08-03T02:26:55.7867787+00:00",
+  "LastUpdate_Achievements": "2023-08-03T02:31:10.8347758+00:00"
 }

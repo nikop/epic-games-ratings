@@ -35,11 +35,11 @@ Number of Ratings: 7,305  (23.09.2022)
 | Terminal Headache | 4.00% | ~24,268 |
 | Slowpoke! | 4.00% | ~24,268 |
 | Tickets, Please! | 3.00% | ~18,201 |
+| Combat Master | 3.00% | ~18,201 |
 | You're Going Down! | 3.00% | ~18,201 |
 | Municipal Services | 2.00% | ~12,134 |
 | Ban Hammer | 2.00% | ~12,134 |
 | Parkour Master | 2.00% | ~12,134 |
-| Combat Master | 2.00% | ~12,134 |
 | Modder | 2.00% | ~12,134 |
 | Tube Map | 1.00% | ~6,067 |
 | Don Quixote | 1.00% | ~6,067 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~252 |
 | Connoisseur | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 606,699 (Ranked 26)  
+Progressed: 606,703 (Ranked 26)  
 Completed: 61 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 61 (0.01%) (Ranked 234)
 | 2023-07-31 | 605,376 | 61 |
 | 2023-08-01 | 606,007 | 61 |
 | 2023-08-02 | 606,634 | 61 |
-| 2023-08-03 | 606,699 | 61 |
+| 2023-08-03 | 606,703 | 61 |
 ## Awards
 Max (Character Customization): 8,654  (Ranked 39)  
 Sum: 20,668 (Ranked 54)  

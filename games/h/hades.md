@@ -6,24 +6,24 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~623,223 |
-| Escaped Asphodel | 80.00% | ~560,201 |
-| Arms Collector | 71.00% | ~497,178 |
+| Escaped Tartarus | 89.00% | ~623,224 |
+| Escaped Asphodel | 80.00% | ~560,202 |
+| Arms Collector | 71.00% | ~497,179 |
 | Friends in High Places | 68.00% | ~476,171 |
 | Escaped Elysium | 66.00% | ~462,166 |
-| Chthonic Colleagues | 63.00% | ~441,158 |
+| Chthonic Colleagues | 63.00% | ~441,159 |
 | Is There No Escape? | 52.00% | ~364,131 |
 | Death Dealer | 45.00% | ~315,113 |
-| Skelly Slayer | 42.00% | ~294,105 |
-| Well Stocked | 40.00% | ~280,100 |
-| Back to Work | 38.00% | ~266,095 |
+| Skelly Slayer | 42.00% | ~294,106 |
+| Well Stocked | 40.00% | ~280,101 |
+| Back to Work | 38.00% | ~266,096 |
 | Day-or-Night Trader | 37.00% | ~259,093 |
 | Blessed by the Gods | 37.00% | ~259,093 |
-| Urge to Sing | 36.00% | ~252,090 |
+| Urge to Sing | 36.00% | ~252,091 |
 | Blood Bound | 35.00% | ~245,088 |
-| Three-Headed Boy | 32.00% | ~224,080 |
-| River Denizens | 28.00% | ~196,070 |
-| Grown Close | 28.00% | ~196,070 |
+| Three-Headed Boy | 32.00% | ~224,081 |
+| River Denizens | 28.00% | ~196,071 |
+| Grown Close | 28.00% | ~196,071 |
 | Home Makeover | 27.00% | ~189,068 |
 | Had to Happen | 25.00% | ~175,063 |
 | The Family Secret | 25.00% | ~175,063 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,010 |
 | Friends Forever | 4.00% | ~28,010 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 700,251 (Ranked 21)  
+Progressed: 700,252 (Ranked 21)  
 Completed: 6,267 (0.89%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 6,267 (0.89%) (Ranked 114)
 | 2023-07-31 | 700,050 | 6,266 |
 | 2023-08-01 | 700,132 | 6,267 |
 | 2023-08-02 | 700,242 | 6,267 |
-| 2023-08-03 | 700,251 | 6,267 |
+| 2023-08-03 | 700,252 | 6,267 |
 ## Awards
 Max (Character Customization): 3,199  (Ranked 90)  
 Sum: 7,746 (Ranked 101)  
