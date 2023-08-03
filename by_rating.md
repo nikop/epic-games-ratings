@@ -16,7 +16,7 @@
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 509 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 425 | 205 |
 | 12 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 509 |
-| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,370 | 20 |
+| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,388 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 305 |
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 277 | 240 |
 | 18 | [God of War](games/g/god_of_war.md) | 4.88 | 4,186 | 77 |
@@ -377,7 +377,7 @@
 | 367 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 42,289 | 12 |
 | 367 | [GigaBash](games/g/gigabash.md) | 4.61 | 0 | 509 |
 | 367 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 37 | 430 |
-| 367 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,155 | 136 |
+| 367 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,156 | 136 |
 | 367 | [MudRunner](games/m/mudrunner.md) | 4.61 | 250 | 248 |
 | 367 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 509 |
 | 367 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,541 | 98 |
@@ -452,7 +452,6 @@
 | 447 | [Aztez](games/a/aztez.md) | 4.57 | 0 | 509 |
 | 447 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 469 |
 | 447 | [Hob](games/h/hob.md) | 4.57 | 0 | 509 |
-| 447 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.57 | 0 | 509 |
 | 447 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 37 | 430 |
 | 447 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 0 | 509 |
 | 447 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,644 | 45 |
@@ -466,22 +465,23 @@
 | 447 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,759 | 115 |
 | 447 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.57 | 0 | 509 |
 | 447 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 57 | 393 |
-| 467 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 509 |
-| 467 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 509 |
-| 467 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 818 | 151 |
-| 467 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 239 | 255 |
-| 467 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 35 | 436 |
-| 467 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 509 |
-| 467 | [Hue](games/h/hue.md) | 4.56 | 0 | 509 |
-| 467 | [Isonzo](games/i/isonzo.md) | 4.56 | 35 | 436 |
-| 467 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 509 |
-| 467 | [Minit](games/m/minit.md) | 4.56 | 0 | 509 |
-| 467 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,746 | 69 |
-| 467 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.56 | 906 | 149 |
-| 467 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,795 | 113 |
-| 467 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 509 |
-| 467 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.56 | 0 | 509 |
-| 467 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,225 | 76 |
+| 466 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 509 |
+| 466 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 509 |
+| 466 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 818 | 151 |
+| 466 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 239 | 255 |
+| 466 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 35 | 436 |
+| 466 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 509 |
+| 466 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.56 | 0 | 509 |
+| 466 | [Hue](games/h/hue.md) | 4.56 | 0 | 509 |
+| 466 | [Isonzo](games/i/isonzo.md) | 4.56 | 35 | 436 |
+| 466 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 509 |
+| 466 | [Minit](games/m/minit.md) | 4.56 | 0 | 509 |
+| 466 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,746 | 69 |
+| 466 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.56 | 906 | 149 |
+| 466 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,795 | 113 |
+| 466 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 509 |
+| 466 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.56 | 0 | 509 |
+| 466 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,225 | 76 |
 | 483 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 509 |
 | 483 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 509 |
 | 483 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.55 | 50 | 400 |
@@ -541,7 +541,7 @@
 | 526 | [Verdun](games/v/verdun.md) | 4.52 | 96 | 341 |
 | 526 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.52 | 28 | 466 |
 | 526 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 509 |
-| 542 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,679 | 118 |
+| 542 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,680 | 118 |
 | 542 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 95 | 345 |
 | 542 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 764 | 157 |
 | 542 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,106 | 79 |
@@ -585,7 +585,7 @@
 | 577 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 245 | 251 |
 | 577 | [Maneater](games/m/maneater.md) | 4.49 | 13,607 | 26 |
 | 577 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 451 |
-| 577 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 491,472 | 2 |
+| 577 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 492,563 | 2 |
 | 577 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 358 |
 | 577 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 509 |
 | 577 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 509 |
@@ -928,7 +928,7 @@
 | 925 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 0 | 509 |
 | 927 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 509 |
 | 928 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 372 | 220 |
-| 928 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,682 | 70 |
+| 928 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,686 | 70 |
 | 930 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 509 |
 | 930 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,970 | 94 |
 | 930 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 509 |

@@ -47,7 +47,7 @@
 | 45 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.91% |
 | 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.82% |
 | 47 | [JARS](games/j/jars.md) | 4.76% |
-| 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.73% |
+| 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.71% |
 | 49 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 50 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.44% |
@@ -132,7 +132,7 @@
 | 130 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.56% |
 | 130 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 132 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.55% |
-| 133 | [Godlike Burger](games/g/godlike_burger.md) | 0.54% |
+| 133 | [Godlike Burger](games/g/godlike_burger.md) | 0.53% |
 | 134 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 135 | [The Surge 2](games/t/the_surge_2.md) | 0.51% |
 | 136 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
