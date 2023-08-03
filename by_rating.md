@@ -75,7 +75,7 @@
 | 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,620 | 95 |
 | 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,331 | 53 |
 | 66 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 397 | 213 |
-| 76 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 420 | 206 |
+| 76 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 421 | 206 |
 | 76 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 228 | 259 |
 | 76 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.81 | 0 | 509 |
 | 76 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.81 | 0 | 509 |
@@ -174,7 +174,7 @@
 | 171 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.72 | 82 | 359 |
 | 171 | [Fez](games/f/fez.md) | 4.72 | 23 | 485 |
 | 171 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 474 | 197 |
-| 171 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 142 | 300 |
+| 171 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 142 | 301 |
 | 171 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 427 |
 | 171 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 509 |
 | 171 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 75 | 367 |
@@ -374,7 +374,7 @@
 | 367 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 381 | 217 |
 | 367 | [Darkwood](games/d/darkwood.md) | 4.61 | 322 | 230 |
 | 367 | [Dead Space](games/d/dead_space.md) | 4.61 | 85 | 355 |
-| 367 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 42,229 | 12 |
+| 367 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 42,289 | 12 |
 | 367 | [GigaBash](games/g/gigabash.md) | 4.61 | 0 | 509 |
 | 367 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 37 | 430 |
 | 367 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,155 | 136 |
@@ -426,7 +426,7 @@
 | 413 | [Wall World](games/w/wall_world.md) | 4.59 | 0 | 509 |
 | 413 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 218 | 263 |
 | 426 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 509 |
-| 426 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 59,651 | 11 |
+| 426 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 59,677 | 11 |
 | 426 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 162 | 291 |
 | 426 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 509 |
 | 426 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,668 | 39 |
@@ -563,7 +563,6 @@
 | 560 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 214 | 267 |
 | 560 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 90 | 349 |
 | 560 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 509 |
-| 560 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 36,125 | 13 |
 | 560 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 117 | 319 |
 | 560 | [Horace](games/h/horace.md) | 4.50 | 0 | 509 |
 | 560 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.50 | 0 | 509 |
@@ -575,19 +574,20 @@
 | 560 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 509 |
 | 560 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 0 | 509 |
 | 560 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 35 | 436 |
-| 576 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 63 | 387 |
-| 576 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 509 |
-| 576 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 408 | 210 |
-| 576 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,984 | 109 |
-| 576 | [Duskers](games/d/duskers.md) | 4.49 | 0 | 509 |
-| 576 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 242 |
-| 576 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 245 | 251 |
-| 576 | [Maneater](games/m/maneater.md) | 4.49 | 13,602 | 26 |
-| 576 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 451 |
-| 576 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 491,472 | 2 |
-| 576 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 358 |
-| 576 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 509 |
-| 576 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 509 |
+| 575 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 63 | 387 |
+| 575 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 509 |
+| 575 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 408 | 210 |
+| 575 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,984 | 109 |
+| 575 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 36,125 | 13 |
+| 575 | [Duskers](games/d/duskers.md) | 4.49 | 0 | 509 |
+| 575 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 242 |
+| 575 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 245 | 251 |
+| 575 | [Maneater](games/m/maneater.md) | 4.49 | 13,602 | 26 |
+| 575 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 451 |
+| 575 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 491,472 | 2 |
+| 575 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 358 |
+| 575 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 509 |
+| 575 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 509 |
 | 589 | [Anno 2070](games/a/anno_2070.md) | 4.48 | 0 | 509 |
 | 589 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 509 |
 | 589 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 0 | 509 |
@@ -660,7 +660,7 @@
 | 658 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 209 | 270 |
 | 658 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 35 | 436 |
 | 658 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,180 | 134 |
-| 658 | [Predecessor](games/p/predecessor.md) | 4.43 | 142 | 300 |
+| 658 | [Predecessor](games/p/predecessor.md) | 4.43 | 144 | 299 |
 | 658 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 509 |
 | 658 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 509 |
 | 658 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.43 | 0 | 509 |
@@ -793,7 +793,7 @@
 | 788 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 509 |
 | 788 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,548,427 | 1 |
 | 788 | [Mortal Shell](games/m/mortal_shell.md) | 4.29 | 0 | 509 |
-| 788 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 707 | 163 |
+| 788 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 709 | 163 |
 | 788 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 417 |
 | 788 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 126 | 310 |
 | 788 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.29 | 513 | 194 |
@@ -914,7 +914,7 @@
 | 911 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 181 | 281 |
 | 913 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 509 |
 | 914 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 509 |
-| 914 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 5,109 | 67 |
+| 914 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 5,116 | 67 |
 | 914 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 456 | 202 |
 | 917 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.04 | 0 | 509 |
 | 917 | [Banished](games/b/banished.md) | 4.04 | 0 | 509 |
