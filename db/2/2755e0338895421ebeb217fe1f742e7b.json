@@ -4,7 +4,7 @@
   "ProductSlug": "nocturnal-ef3fa0",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -105,9 +105,9 @@
       "ID": "Nocturnal_Achivement_10_Brun",
       "SetID": "329ifed",
       "Name": "Mr. Brightside",
-      "Percentage": 36,
+      "Percentage": 43,
       "XP": 150,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Nocturnal_Achivement_11_FireShrine",
@@ -200,8 +200,8 @@
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-08-03T11:07:20.7742329+00:00",
+  "LastChanged_Achievements": "2023-08-03T12:06:25.5640729+00:00",
   "LastUpdate_AppInfo": "2023-07-31T17:57:13.8284671+00:00",
-  "LastUpdate_Ratings": "2023-08-03T10:58:08.7270467+00:00",
-  "LastUpdate_Achievements": "2023-08-03T11:07:20.7742455+00:00"
+  "LastUpdate_Ratings": "2023-08-03T11:57:49.5458256+00:00",
+  "LastUpdate_Achievements": "2023-08-03T12:06:25.5640827+00:00"
 }

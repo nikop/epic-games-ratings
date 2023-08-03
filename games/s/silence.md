@@ -12,9 +12,9 @@
 | Keep away from children | 35.00% | ~34 |
 | Wooooooow! | 35.00% | ~34 |
 | Artistic fool | 34.00% | ~33 |
-| Chapter II | 30.00% | ~29 |
+| Chapter II | 31.00% | ~30 |
+| Achoo!! | 30.00% | ~29 |
 | Open up wide | 29.00% | ~28 |
-| Achoo!! | 29.00% | ~28 |
 | Let the boot talk | 28.00% | ~27 |
 | Chapter III | 28.00% | ~27 |
 | Like a moth in the Wind | 28.00% | ~27 |
@@ -28,7 +28,7 @@
 | Home is where the heart is | 21.00% | ~20 |
 | Pacifist | 19.00% | ~18 |
 | Master of Thermodynamics | 17.00% | ~16 |
-| Death is a part of life | 16.00% | ~15 |
+| Death is a part of life | 17.00% | ~16 |
 | Unfullfilled dreams | 15.00% | ~14 |
 | To err is human... | 11.00% | ~11 |
 | Nothing can stop me | 11.00% | ~11 |

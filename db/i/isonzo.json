@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -736,9 +736,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6564,
+  "EOS_Progressed": 6565,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4126,6 +4126,11 @@
       "Time": "2023-08-03T09:06:31.1576792+00:00",
       "NumProgressed": 6564,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-03T12:06:43.2373088+00:00",
+      "NumProgressed": 6565,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4153,7 +4158,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 3085
+      "UsersEstimate": 3086
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -4201,7 +4206,7 @@
       "Name": "Decimation",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -4225,7 +4230,7 @@
       "Name": "Donatello",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -4329,7 +4334,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3610
+      "UsersEstimate": 3611
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -4465,7 +4470,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3610
+      "UsersEstimate": 3611
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -4496,7 +4501,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6564,
+      "Progressed": 6565,
       "Completed": 8
     }
   ],
@@ -4504,8 +4509,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-01T20:57:49.8563487+00:00",
-  "LastChanged_Achievements": "2023-08-03T11:07:42.7024256+00:00",
+  "LastChanged_Achievements": "2023-08-03T12:06:43.2373081+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:14.0482826+00:00",
-  "LastUpdate_Ratings": "2023-08-03T10:59:20.1390707+00:00",
-  "LastUpdate_Achievements": "2023-08-03T11:07:42.7024986+00:00"
+  "LastUpdate_Ratings": "2023-08-03T11:58:42.7159662+00:00",
+  "LastUpdate_Achievements": "2023-08-03T12:06:43.2373772+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 494,
+  "EOS_Progressed": 495,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1335,6 +1335,11 @@
       "Time": "2023-08-03T06:03:17.8976716+00:00",
       "NumProgressed": 494,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-03T12:03:35.1762346+00:00",
+      "NumProgressed": 495,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -1362,7 +1367,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "dont-miss-calls",
@@ -1370,7 +1375,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "female-conqueror",
@@ -1394,7 +1399,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "kill-lieutenants",
@@ -1402,7 +1407,7 @@
       "Name": "Spreading Fear",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "pack-and-sell",
@@ -1432,9 +1437,9 @@
       "ID": "rage-quit",
       "SetID": "bed33dd",
       "Name": "Bad Trip",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 228
     },
     {
       "ID": "rename-lieutenant",
@@ -1482,7 +1487,7 @@
       "Name": "Take-Off",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "use-submarine",
@@ -1497,15 +1502,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 494,
+      "Progressed": 495,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-08-03T11:04:41.8517166+00:00",
+  "LastChanged_Achievements": "2023-08-03T12:03:35.1762341+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:06.1742041+00:00",
-  "LastUpdate_Ratings": "2023-08-03T11:03:45.2639657+00:00",
-  "LastUpdate_Achievements": "2023-08-03T11:04:41.8517376+00:00"
+  "LastUpdate_Ratings": "2023-08-03T12:02:47.4676548+00:00",
+  "LastUpdate_Achievements": "2023-08-03T12:03:35.1762567+00:00"
 }

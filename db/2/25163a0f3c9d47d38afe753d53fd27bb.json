@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -2155,9 +2155,9 @@
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 273
     },
     {
       "ID": "LEVEL_007",
@@ -2171,9 +2171,9 @@
       "ID": "LEVEL_008",
       "SetID": "212bg48",
       "Name": "Let\u0027s go to the market",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 227
     },
     {
       "ID": "LEVEL_009",
@@ -2362,8 +2362,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-08-03T11:08:47.7306111+00:00",
+  "LastChanged_Achievements": "2023-08-03T12:08:17.5890727+00:00",
   "LastUpdate_AppInfo": "2023-07-31T17:57:14.0464775+00:00",
-  "LastUpdate_Ratings": "2023-08-03T10:58:27.424473+00:00",
-  "LastUpdate_Achievements": "2023-08-03T11:08:47.7306498+00:00"
+  "LastUpdate_Ratings": "2023-08-03T11:58:04.2855927+00:00",
+  "LastUpdate_Achievements": "2023-08-03T12:08:17.5891165+00:00"
 }

@@ -1575,7 +1575,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13251,
+  "EOS_Progressed": 13252,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
@@ -9060,6 +9060,11 @@
       "Time": "2023-08-03T09:02:47.8712558+00:00",
       "NumProgressed": 13251,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-03T12:03:30.5446189+00:00",
+      "NumProgressed": 13252,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -9613,9 +9618,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
       "SetID": "7l38kb8",
       "Name": "Magnificent",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 106
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
@@ -10485,9 +10490,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
       "SetID": "9201eeb",
       "Name": "Lighthouse",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -10973,9 +10978,9 @@
       "ID": "ACHIEVEMENT_STAT_SEVEN_WONDERS",
       "SetID": "9201eeb",
       "Name": "Building Wonders",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
@@ -11438,21 +11443,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13251,
+      "Progressed": 13252,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13251,
+      "Progressed": 13252,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-01T16:59:10.6733314+00:00",
-  "LastChanged_Achievements": "2023-08-03T11:04:37.1482037+00:00",
+  "LastChanged_Achievements": "2023-08-03T12:03:30.5446183+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.4550053+00:00",
-  "LastUpdate_Ratings": "2023-08-03T11:00:02.9858343+00:00",
-  "LastUpdate_Achievements": "2023-08-03T11:04:37.1490486+00:00"
+  "LastUpdate_Ratings": "2023-08-03T11:59:21.9101441+00:00",
+  "LastUpdate_Achievements": "2023-08-03T12:03:30.5454925+00:00"
 }

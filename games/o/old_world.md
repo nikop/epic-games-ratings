@@ -32,19 +32,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 1.00% | ~133 |
 | Ambitious | 0.90% | ~119 |
 | Glorious | 0.90% | ~119 |
+| Magnificent | 0.90% | ~119 |
 | Warrior | 0.90% | ~119 |
 | Developing Cities | 0.90% | ~119 |
+| Lighthouse | 0.90% | ~119 |
 | Pyramids | 0.90% | ~119 |
 | Babylonian Paganism | 0.90% | ~119 |
 | Greek Paganism | 0.90% | ~119 |
 | Zoroastrianism | 0.90% | ~119 |
 | Fountainhead | 0.80% | ~106 |
-| Magnificent | 0.80% | ~106 |
 | Wise | 0.80% | ~106 |
 | Strong Cities | 0.80% | ~106 |
 | Able Difficulty | 0.80% | ~106 |
 | Ishtar Gate | 0.80% | ~106 |
-| Lighthouse | 0.80% | ~106 |
 | Christianity | 0.80% | ~106 |
 | Carthaginian Paganism | 0.80% | ~106 |
 | Roman Paganism | 0.80% | ~106 |
@@ -74,6 +74,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.50% | ~66 |
 | Acropolis | 0.50% | ~66 |
 | Greece | 0.50% | ~66 |
+| Building Wonders | 0.50% | ~66 |
 | Points Victory | 0.50% | ~66 |
 | Beloved | 0.40% | ~53 |
 | Conqueror | 0.40% | ~53 |
@@ -94,7 +95,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.40% | ~53 |
 | Power to the People | 0.40% | ~53 |
 | Persian Paganism | 0.40% | ~53 |
-| Building Wonders | 0.40% | ~53 |
 | Economic Reform | 0.40% | ~53 |
 | Legalism | 0.40% | ~53 |
 | Cimmerian Archer | 0.40% | ~53 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,251 (Ranked 117)  
+Progressed: 13,252 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-07-31 | 13,209 | 5 |
 | 2023-08-01 | 13,228 | 5 |
 | 2023-08-02 | 13,244 | 5 |
-| 2023-08-03 | 13,251 | 5 |
+| 2023-08-03 | 13,252 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 263)  
 Sum: 1,786 (Ranked 206)  

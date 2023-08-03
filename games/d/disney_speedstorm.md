@@ -14,7 +14,7 @@
 | AGGRESSIVE RACER | 31.00% | ~949 |
 | ACE SPEEDSTER | 23.00% | ~704 |
 | IT'S A LONG WAY TO THE TOP | 20.00% | ~612 |
-| MASTER | 17.00% | ~520 |
+| MASTER | 17.00% | ~521 |
 | ACE BRAWLER | 15.00% | ~459 |
 | TRAINING HARD | 14.00% | ~429 |
 | DEFEAT OUR CHAMPION | 14.00% | ~429 |
@@ -29,8 +29,8 @@
 | EXPERIENCED CREW | 6.00% | ~184 |
 | FRAMED! | 5.00% | ~153 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,061 (Ranked 156)  
-Completed: 135 (4.41%) (Ranked 51)  
+Progressed: 3,062 (Ranked 156)  
+Completed: 136 (4.44%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -133,4 +133,4 @@ Completed: 135 (4.41%) (Ranked 51)
 | 2023-07-31 | 3,039 | 122 |
 | 2023-08-01 | 3,047 | 129 |
 | 2023-08-02 | 3,055 | 131 |
-| 2023-08-03 | 3,061 | 135 |
+| 2023-08-03 | 3,062 | 136 |

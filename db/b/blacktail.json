@@ -1508,9 +1508,9 @@
       "ID": "CompleteSmile",
       "SetID": "2aagp3d",
       "Name": "Dental maturity",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 121
     },
     {
       "ID": "DevilDetail",
@@ -1749,8 +1749,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-08-03T11:04:28.7735986+00:00",
+  "LastChanged_Achievements": "2023-08-03T12:03:24.2231192+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:48.1262101+00:00",
-  "LastUpdate_Ratings": "2023-08-03T10:59:57.7254541+00:00",
-  "LastUpdate_Achievements": "2023-08-03T11:04:28.7736294+00:00"
+  "LastUpdate_Ratings": "2023-08-03T11:59:16.5804259+00:00",
+  "LastUpdate_Achievements": "2023-08-03T12:03:24.2231574+00:00"
 }

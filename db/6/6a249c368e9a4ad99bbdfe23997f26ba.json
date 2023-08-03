@@ -139,17 +139,17 @@
       "ID": "A19",
       "SetID": "7f5j12l",
       "Name": "Purple Flame",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "A2",
       "SetID": "7f5j12l",
       "Name": "Level 2 Completed",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "A20",
@@ -179,9 +179,9 @@
       "ID": "A23",
       "SetID": "7f5j12l",
       "Name": "Pyramids Destroyed",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "A24",
@@ -337,8 +337,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-08-03T11:05:43.211642+00:00",
+  "LastChanged_Achievements": "2023-08-03T12:04:25.2313322+00:00",
   "LastUpdate_AppInfo": "2023-08-01T02:02:32.2723888+00:00",
-  "LastUpdate_Ratings": "2023-08-03T10:57:37.5955678+00:00",
-  "LastUpdate_Achievements": "2023-08-03T11:05:43.2116831+00:00"
+  "LastUpdate_Ratings": "2023-08-03T11:57:24.4870407+00:00",
+  "LastUpdate_Achievements": "2023-08-03T12:04:25.2313651+00:00"
 }

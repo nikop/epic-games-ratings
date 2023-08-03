@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1369,
+  "EOS_Progressed": 1370,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -1388,6 +1388,11 @@
       "Time": "2023-08-02T22:02:23.4235138+00:00",
       "NumProgressed": 1369,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-03T12:03:18.0899462+00:00",
+      "NumProgressed": 1370,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1423,7 +1428,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "13",
@@ -1471,7 +1476,7 @@
       "Name": "Like new!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "19",
@@ -1551,7 +1556,7 @@
       "Name": "A love supreme",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "3",
@@ -1559,7 +1564,7 @@
       "Name": "Hug therapy",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "30",
@@ -1638,15 +1643,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1369,
+      "Progressed": 1370,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-08-03T11:04:21.2339958+00:00",
+  "LastChanged_Achievements": "2023-08-03T12:03:18.0899457+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:08.3716541+00:00",
-  "LastUpdate_Ratings": "2023-08-03T11:02:32.7598593+00:00",
-  "LastUpdate_Achievements": "2023-08-03T11:04:21.2340457+00:00"
+  "LastUpdate_Ratings": "2023-08-03T12:01:49.5506822+00:00",
+  "LastUpdate_Achievements": "2023-08-03T12:03:18.089986+00:00"
 }

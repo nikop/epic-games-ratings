@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,726 |
+| A Brief Tour of the Realms | 4.00% | ~8,727 |
 | Beast Intentions | 3.00% | ~6,545 |
 | Maddening | 2.00% | ~4,363 |
 | The Silken Swamp | 1.00% | ~2,182 |
@@ -14,10 +14,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 1.00% | ~1,844 |
 | Rock and Roll | 1.00% | ~1,844 |
 | Vecna Lives! | 0.90% | ~1,660 |
-| Tall Tales | 0.80% | ~1,475 |
-| Vecna Loots! | 0.80% | ~1,475 |
-| Flight of the Kindori Pod | 0.80% | ~1,475 |
-| Topolah's Tower | 0.80% | ~1,475 |
+| Flight of the Kindori Pod | 0.90% | ~1,660 |
+| Tall Tales | 0.80% | ~1,476 |
+| Vecna Loots! | 0.80% | ~1,476 |
+| Topolah's Tower | 0.80% | ~1,476 |
 | Wet Feet | 0.70% | ~1,527 |
 | Seeds of Destruction | 0.70% | ~1,291 |
 | Return to the Tomb | 0.70% | ~1,291 |
@@ -79,6 +79,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.40% | ~873 |
 | Overdue Rendezvous | 0.40% | ~873 |
 | Pure Energy | 0.40% | ~873 |
+| Devilishly Cold | 0.40% | ~738 |
 | Luigi After Hours | 0.40% | ~738 |
 | Electric Mayhem | 0.40% | ~738 |
 | 3,720 to 1 | 0.40% | ~738 |
@@ -95,51 +96,50 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sanctum of the Sword | 0.30% | ~553 |
 | Who Lurks Below? | 0.30% | ~553 |
 | Xanathaaaaaaar! | 0.30% | ~553 |
-| The Forbidden City | 0.30% | ~654 |
-| Captured! | 0.30% | ~654 |
-| Force Grey Unleashed | 0.30% | ~654 |
-| Vajra's Guards | 0.30% | ~654 |
-| Sleuth It Out | 0.30% | ~654 |
-| A Grand Puzzle | 0.30% | ~654 |
-| Tomb of the Nine Gods | 0.30% | ~654 |
-| The Hunt for Owl-y | 0.30% | ~654 |
-| Werewolves in the Mist | 0.30% | ~654 |
-| Chatty Nobles | 0.30% | ~654 |
-| Modron Assistance | 0.30% | ~654 |
-| Haaave You Met Asmodeus? | 0.30% | ~654 |
-| Domesticated Owlbears | 0.30% | ~654 |
-| The Immortal Warrior | 0.30% | ~654 |
-| The Wyrmheart Mine | 0.30% | ~654 |
-| Trollskull Manor | 0.30% | ~654 |
-| Attack on the Manor | 0.30% | ~654 |
-| The Death Curse | 0.30% | ~654 |
-| Nimble Escape | 0.30% | ~654 |
-| Are Ya Chicken? | 0.30% | ~654 |
-| Useless Allies | 0.30% | ~654 |
-| Fugitives | 0.30% | ~654 |
-| Premature Betrayal | 0.30% | ~654 |
-| Mad Cow Disease | 0.30% | ~654 |
-| A Tale of Two Cities | 0.30% | ~654 |
-| The Dead Three | 0.30% | ~654 |
-| Flying Monkey Skulls of Doom | 0.30% | ~654 |
-| The Darkness Runs Deeper | 0.30% | ~654 |
-| Difficult Terrain | 0.30% | ~654 |
-| The Contagious Curse | 0.30% | ~654 |
-| Dinosaur Racing | 0.30% | ~654 |
+| The Forbidden City | 0.30% | ~655 |
+| Captured! | 0.30% | ~655 |
+| Force Grey Unleashed | 0.30% | ~655 |
+| Vajra's Guards | 0.30% | ~655 |
+| Sleuth It Out | 0.30% | ~655 |
+| A Grand Puzzle | 0.30% | ~655 |
+| Tomb of the Nine Gods | 0.30% | ~655 |
+| The Hunt for Owl-y | 0.30% | ~655 |
+| Werewolves in the Mist | 0.30% | ~655 |
+| Chatty Nobles | 0.30% | ~655 |
+| Modron Assistance | 0.30% | ~655 |
+| Haaave You Met Asmodeus? | 0.30% | ~655 |
+| Domesticated Owlbears | 0.30% | ~655 |
+| The Immortal Warrior | 0.30% | ~655 |
+| The Wyrmheart Mine | 0.30% | ~655 |
+| Trollskull Manor | 0.30% | ~655 |
+| Attack on the Manor | 0.30% | ~655 |
+| The Death Curse | 0.30% | ~655 |
+| Nimble Escape | 0.30% | ~655 |
+| Are Ya Chicken? | 0.30% | ~655 |
+| Useless Allies | 0.30% | ~655 |
+| Fugitives | 0.30% | ~655 |
+| Premature Betrayal | 0.30% | ~655 |
+| Mad Cow Disease | 0.30% | ~655 |
+| A Tale of Two Cities | 0.30% | ~655 |
+| The Dead Three | 0.30% | ~655 |
+| Flying Monkey Skulls of Doom | 0.30% | ~655 |
+| The Darkness Runs Deeper | 0.30% | ~655 |
+| Difficult Terrain | 0.30% | ~655 |
+| The Contagious Curse | 0.30% | ~655 |
+| Dinosaur Racing | 0.30% | ~655 |
 | The Giant's Bane Tavern | 0.30% | ~553 |
 | The Everlasting Rime | 0.30% | ~553 |
-| Close Escort | 0.30% | ~654 |
-| Constant Banditry | 0.30% | ~654 |
-| The Long Haul | 0.30% | ~654 |
-| Lost in the Deep | 0.30% | ~654 |
-| Easily Distracted | 0.30% | ~654 |
-| Rude Welcome | 0.30% | ~654 |
+| Close Escort | 0.30% | ~655 |
+| Constant Banditry | 0.30% | ~655 |
+| The Long Haul | 0.30% | ~655 |
+| Lost in the Deep | 0.30% | ~655 |
+| Easily Distracted | 0.30% | ~655 |
+| Rude Welcome | 0.30% | ~655 |
 | Moose Tracks | 0.30% | ~553 |
-| Durable Deep | 0.30% | ~654 |
-| The Templar's Camp | 0.30% | ~654 |
-| Rescue in the Jungle | 0.30% | ~654 |
+| Durable Deep | 0.30% | ~655 |
+| The Templar's Camp | 0.30% | ~655 |
+| Rescue in the Jungle | 0.30% | ~655 |
 | Willing to Sacrifice | 0.30% | ~553 |
-| Devilishly Cold | 0.30% | ~553 |
 | Tiny Treaty | 0.30% | ~553 |
 | Starving in the Jungle | 0.20% | ~436 |
 | Cold as Ice | 0.20% | ~369 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,159 (Ranked 53)  
+Progressed: 218,174 (Ranked 53)  
 Completed: 2,147 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -624,7 +624,7 @@ Completed: 2,147 (0.98%) (Ranked 112)
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
-| 2023-08-03 | 218,159 | 2,147 |
+| 2023-08-03 | 218,174 | 2,147 |
 ## Awards
 Max (Diverse Characters): 5,109  (Ranked 67)  
 Sum: 30,873 (Ranked 38)  

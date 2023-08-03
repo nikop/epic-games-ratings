@@ -3,7 +3,7 @@
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
   "Ranking_Rating": 256,
-  "Ranking_Popularity": 399,
+  "Ranking_Popularity": 398,
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 247,
@@ -752,18 +752,24 @@
       "Rating": 4.67,
       "NumberOfAwards": 443,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-08-03T12:01:16.9190706+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 444,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 443,
-  "NumberOfAwardsMax": 50,
+  "NumberOfAwards": 444,
+  "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game is Relaxing",
@@ -4217,9 +4223,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2023-08-02T08:59:42.2718026+00:00",
-  "LastChanged_Achievements": "2023-08-03T11:04:53.6879527+00:00",
+  "LastChanged": "2023-08-03T12:01:16.9190704+00:00",
+  "LastChanged_Achievements": "2023-08-03T12:03:44.6627624+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:59.3777566+00:00",
-  "LastUpdate_Ratings": "2023-08-03T11:01:59.3206849+00:00",
-  "LastUpdate_Achievements": "2023-08-03T11:04:53.6880058+00:00"
+  "LastUpdate_Ratings": "2023-08-03T12:01:16.919071+00:00",
+  "LastUpdate_Achievements": "2023-08-03T12:03:44.6628622+00:00"
 }
