@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -1484,9 +1484,9 @@
       "ID": "ID_01_SONIC1_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic the Hedgehog",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 343
     },
     {
       "ID": "ID_02_SONICCD_WATCH_OPENING",
@@ -1516,9 +1516,9 @@
       "ID": "ID_05_SONIC1_DEFEAT_MOTORA",
       "SetID": "7o8nc5m",
       "Name": "Beware Moto Bugs!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 157
     },
     {
       "ID": "ID_06_SONIC1_BREATHING_COUNT",
@@ -1588,9 +1588,9 @@
       "ID": "ID_14_DEFEAT_ENEMY_BY_SPIN_DASH",
       "SetID": "7o8nc5m",
       "Name": "Gallant Spin Dash",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 234
     },
     {
       "ID": "ID_15_NOVICE_HERO",
@@ -1772,8 +1772,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-25T19:58:34.9167983+00:00",
-  "LastChanged_Achievements": "2023-08-03T03:03:49.5985593+00:00",
+  "LastChanged_Achievements": "2023-08-03T04:03:51.2540933+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:41.5361086+00:00",
-  "LastUpdate_Ratings": "2023-08-03T02:58:29.3175301+00:00",
-  "LastUpdate_Achievements": "2023-08-03T03:03:49.5985944+00:00"
+  "LastUpdate_Ratings": "2023-08-03T03:58:51.8393558+00:00",
+  "LastUpdate_Achievements": "2023-08-03T04:03:51.2541196+00:00"
 }

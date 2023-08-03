@@ -7,7 +7,7 @@ Rating: 4.65 (Ranked 299)
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 66.00% | ~385 |
 | Read Between The Lines | 64.00% | ~373 |
-| High Profile | 58.00% | ~338 |
+| High Profile | 59.00% | ~344 |
 | Whispers In The Dark | 57.00% | ~332 |
 | Fond Memories | 54.00% | ~315 |
 | A Method To His Madness | 53.00% | ~309 |
@@ -15,8 +15,8 @@ Rating: 4.65 (Ranked 299)
 | The New World | 49.00% | ~286 |
 | Open Sesame | 48.00% | ~280 |
 | Sticky Fingers | 48.00% | ~280 |
+| Knives Out | 48.00% | ~280 |
 | Gaze Into The Abyss | 47.00% | ~274 |
-| Knives Out | 47.00% | ~274 |
 | Land, Ho! | 47.00% | ~274 |
 | Lock, Stock, And Barrel | 46.00% | ~268 |
 | Back In The Saddle | 46.00% | ~268 |

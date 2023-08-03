@@ -6,17 +6,17 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~66,739 |
-| Into the Unknown | 10.00% | ~60,671 |
-| First Shot | 10.00% | ~60,671 |
-| Herzlich Wilkommen! | 9.00% | ~54,604 |
-| Good Night & Good Luck | 9.00% | ~54,604 |
-| Sancho Panza | 8.00% | ~48,537 |
-| Oh, So This Is How It Works! | 8.00% | ~48,537 |
-| Under Pressure | 7.00% | ~42,470 |
-| On the Trail of the Enemy | 7.00% | ~42,470 |
-| Flag Burning | 7.00% | ~42,470 |
-| Night Hunter | 7.00% | ~42,470 |
+| You Never Forget Your First... | 11.00% | ~66,740 |
+| Into the Unknown | 10.00% | ~60,672 |
+| First Shot | 10.00% | ~60,672 |
+| Herzlich Wilkommen! | 9.00% | ~54,605 |
+| Good Night & Good Luck | 9.00% | ~54,605 |
+| Sancho Panza | 8.00% | ~48,538 |
+| Oh, So This Is How It Works! | 8.00% | ~48,538 |
+| Under Pressure | 7.00% | ~42,471 |
+| On the Trail of the Enemy | 7.00% | ~42,471 |
+| Flag Burning | 7.00% | ~42,471 |
+| Night Hunter | 7.00% | ~42,471 |
 | Light in the Darkness | 6.00% | ~36,403 |
 | Get Outta My House! | 6.00% | ~36,403 |
 | It Wasn't That Hard, Was It? | 6.00% | ~36,403 |
@@ -34,12 +34,12 @@ Number of Ratings: 7,305  (23.09.2022)
 | Death From Afar | 4.00% | ~24,269 |
 | Terminal Headache | 4.00% | ~24,269 |
 | Slowpoke! | 4.00% | ~24,269 |
-| Tickets, Please! | 3.00% | ~18,201 |
-| Combat Master | 3.00% | ~18,201 |
-| You're Going Down! | 3.00% | ~18,201 |
+| Tickets, Please! | 3.00% | ~18,202 |
+| You're Going Down! | 3.00% | ~18,202 |
 | Municipal Services | 2.00% | ~12,134 |
 | Ban Hammer | 2.00% | ~12,134 |
 | Parkour Master | 2.00% | ~12,134 |
+| Combat Master | 2.00% | ~12,134 |
 | Modder | 2.00% | ~12,134 |
 | Tube Map | 1.00% | ~6,067 |
 | Don Quixote | 1.00% | ~6,067 |
@@ -49,10 +49,10 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ironheart | 1.00% | ~6,067 |
 | Nemesis | 1.00% | ~2,522 |
 | Enter the Hall | 1.00% | ~2,522 |
-| Find Anything Interesting? | 0.90% | ~5,460 |
-| Boot Licker | 0.90% | ~5,460 |
-| Who Wants To Be a... | 0.90% | ~5,460 |
-| Night of Terrors | 0.90% | ~2,269 |
+| Find Anything Interesting? | 0.90% | ~5,461 |
+| Boot Licker | 0.90% | ~5,461 |
+| Who Wants To Be a... | 0.90% | ~5,461 |
+| Night of Terrors | 0.90% | ~2,270 |
 | Revenants | 0.70% | ~4,247 |
 | Get the Point? | 0.70% | ~4,247 |
 | My Friend, Ciro | 0.70% | ~1,765 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~252 |
 | Connoisseur | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 606,714 (Ranked 26)  
+Progressed: 606,724 (Ranked 26)  
 Completed: 61 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,16 +177,16 @@ Completed: 61 (0.01%) (Ranked 234)
 | 2023-07-31 | 605,376 | 61 |
 | 2023-08-01 | 606,007 | 61 |
 | 2023-08-02 | 606,634 | 61 |
-| 2023-08-03 | 606,714 | 61 |
+| 2023-08-03 | 606,724 | 61 |
 ## Awards
 Max (Character Customization): 8,654  (Ranked 39)  
-Sum: 20,668 (Ranked 54)  
+Sum: 20,673 (Ranked 54)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,654 |
 | This game has Great Boss Battles | 5,133 |
-| This game is Great for Beginners | 874 |
+| This game is Great for Beginners | 877 |
 | This game is Highly Recommended | 815 |
 | This game has Diverse Characters | 795 |
 | This game has Amazing Characters | 783 |
@@ -194,7 +194,7 @@ Diff (max vs sum): -15
 | This game has Amazing Storytelling | 764 |
 | This game has Quickly Understood Controls | 740 |
 | This game is Relaxing | 718 |
-| This game has a Creative Community | 628 |
+| This game has a Creative Community | 630 |
 | This game has Obsessive Gameplay | 230 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -402,3 +402,4 @@ Diff (max vs sum): -15
 | 2023-07-31 | 4.58 | - | 8,628 | 20,573 |
 | 2023-08-01 | 4.58 | - | 8,636 | 20,617 |
 | 2023-08-02 | 4.58 | - | 8,654 | 20,668 |
+| 2023-08-03 | 4.58 | - | 8,654 | 20,673 |

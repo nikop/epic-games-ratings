@@ -7,11 +7,11 @@ Rating: 4.18 (Ranked 866)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 6.00% | ~4,055 |
 | Har, Har, Har, Very Funny | 5.00% | ~3,379 |
-| To the Victor Go the Spoils | 4.00% | ~2,703 |
-| Get ReQ'd | 4.00% | ~2,703 |
-| Knighthood | 4.00% | ~2,703 |
-| Loose Ends | 4.00% | ~2,703 |
-| Whispered Words | 4.00% | ~2,703 |
+| To the Victor Go the Spoils | 4.00% | ~2,704 |
+| Get ReQ'd | 4.00% | ~2,704 |
+| Knighthood | 4.00% | ~2,704 |
+| Loose Ends | 4.00% | ~2,704 |
+| Whispered Words | 4.00% | ~2,704 |
 | The Batman Family | 3.00% | ~2,028 |
 | Protector of Gotham | 3.00% | ~2,028 |
 | Something in the Clay | 3.00% | ~2,028 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 866)
 | History Major | 0.10% | ~68 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,586 (Ranked 80)  
+Progressed: 67,588 (Ranked 80)  
 Completed: 106 (0.16%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,10 +172,10 @@ Completed: 106 (0.16%) (Ranked 179)
 | 2023-07-31 | 67,537 | 105 |
 | 2023-08-01 | 67,559 | 106 |
 | 2023-08-02 | 67,581 | 106 |
-| 2023-08-03 | 67,586 | 106 |
+| 2023-08-03 | 67,588 | 106 |
 ## Awards
 Max (Great Boss Battles): 2,476  (Ranked 101)  
-Sum: 4,111 (Ranked 139)  
+Sum: 4,112 (Ranked 139)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
@@ -185,7 +185,7 @@ Diff (max vs sum): -38
 | This game is Relaxing | 210 |
 | This game has Diverse Characters | 204 |
 | This game has Amazing Characters | 203 |
-| This game is Great for Beginners | 201 |
+| This game is Great for Beginners | 202 |
 | This game has Amazing Storytelling | 199 |
 | This game is Highly Recommended | 197 |
 | This game is Great for Quick Sessions | 60 |
@@ -354,3 +354,4 @@ Diff (max vs sum): -38
 | 2023-07-31 | 4.18 | 2,472 | 4,105 |
 | 2023-08-01 | 4.18 | 2,475 | 4,110 |
 | 2023-08-02 | 4.18 | 2,476 | 4,111 |
+| 2023-08-03 | 4.18 | 2,476 | 4,112 |

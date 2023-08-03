@@ -29,9 +29,9 @@
 | Final Evolution | 30.00% | ~51 |
 | You Shall Not Pass | 29.00% | ~50 |
 | Undying Skin | 29.00% | ~50 |
+| Fight Me! | 29.00% | ~50 |
 | Happy Little Home | 29.00% | ~50 |
 | Animal Lover | 28.00% | ~48 |
-| Fight Me! | 28.00% | ~48 |
 | Mommy's Very Angry | 27.00% | ~46 |
 | Supremacy | 27.00% | ~46 |
 | Loyal Companion | 24.00% | ~41 |

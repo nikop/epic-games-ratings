@@ -8,13 +8,13 @@
 | First Blood | 56.00% | ~134 |
 | Aspairagus | 56.00% | ~106 |
 | Triple Kill | 55.00% | ~131 |
-| Survivor | 54.00% | ~102 |
+| Survivor | 55.00% | ~104 |
 | No Asperascope | 52.00% | ~124 |
 | Cornivore | 51.00% | ~122 |
 | I Believe I Can Fly | 48.00% | ~115 |
 | Early Survivor | 42.00% | ~79 |
 | No Diggity | 41.00% | ~77 |
-| Amateur Survivor | 30.00% | ~57 |
+| Amateur Survivor | 31.00% | ~59 |
 | 10K | 29.00% | ~69 |
 | Bouncemato | 29.00% | ~55 |
 | 15K | 27.00% | ~65 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239 (Ranked 267)  
+Progressed: 239 (Ranked 268)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |

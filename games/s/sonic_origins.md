@@ -6,7 +6,7 @@ Number of Ratings: 154  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sonic the Hedgehog | 93.00% | ~339 |
+| Welcome to Sonic the Hedgehog | 94.00% | ~343 |
 | Newbie Hero | 83.00% | ~303 |
 | Welcome to Sonic CD | 77.00% | ~281 |
 | Welcome to Sonic the Hedgehog 2 | 76.00% | ~277 |
@@ -16,7 +16,7 @@ Number of Ratings: 154  (23.09.2022)
 | Everyone's Hero | 66.00% | ~241 |
 | Easy Peasy with Shields | 65.00% | ~237 |
 | Knuckles the Echidna | 65.00% | ~237 |
-| Gallant Spin Dash | 63.00% | ~230 |
+| Gallant Spin Dash | 64.00% | ~234 |
 | Miles "Tails" Prower | 63.00% | ~230 |
 | Bubbly Breath | 61.00% | ~223 |
 | Boss Rush Attempt | 56.00% | ~204 |
@@ -28,7 +28,7 @@ Number of Ratings: 154  (23.09.2022)
 | Beware Stingers! | 47.00% | ~172 |
 | Cleared Sonic the Hedgehog 2 | 45.00% | ~164 |
 | Cleared Sonic CD | 44.00% | ~161 |
-| Beware Moto Bugs! | 42.00% | ~153 |
+| Beware Moto Bugs! | 43.00% | ~157 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 42.00% | ~153 |
 | Lucky Hedgehog | 34.00% | ~124 |
 | All Clear! | 34.00% | ~124 |

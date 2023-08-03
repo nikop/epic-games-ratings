@@ -6,10 +6,12 @@
 | ---- | ---------- | ----- |
 | Last Night...Did We... | 67.00% | ~2 |
 | I Challenge You To Save More Money! | 33.00% | ~1 |
+| I Love How Tough You Are | 33.00% | ~1 |
 | Hurrah! | 33.00% | ~1 |
 | FIRST LOVE | 33.00% | ~1 |
 | Are You Alright? | 33.00% | ~1 |
 | Go Clean up In Your Own Way | 33.00% | ~1 |
+| You're Really Something Else | 33.00% | ~1 |
 | My Dear Love! | 0.00% | ~0 |
 | Doesn't Matter I'll Handle It | 0.00% | ~0 |
 | Off We Sail Tonight | 0.00% | ~0 |
@@ -20,7 +22,6 @@
 | Go Get Some Fries On The Pier | 0.00% | ~0 |
 | Days Of Innocence | 0.00% | ~0 |
 | A Slap In The Face! | 0.00% | ~0 |
-| I Love How Tough You Are | 0.00% | ~0 |
 | Happy Family | 0.00% | ~0 |
 | Let Me Be Your Toy Boy | 0.00% | ~0 |
 | Love You Three Thousand | 0.00% | ~0 |
@@ -41,7 +42,6 @@
 | Drama CP: Reel to Real | 0.00% | ~0 |
 | David | 0.00% | ~0 |
 | That's So You | 0.00% | ~0 |
-| You're Really Something Else | 0.00% | ~0 |
 | Worthless Speech | 0.00% | ~0 |
 | Drama King | 0.00% | ~0 |
 | This Ain't Right In Many Ways... | 0.00% | ~0 |

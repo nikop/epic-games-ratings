@@ -6111,9 +6111,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 57998,
+  "EOS_Progressed": 58000,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 966,
+  "EOS_NewPlayers": 965,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17066,6 +17066,11 @@
       "Time": "2023-08-03T03:03:46.9706263+00:00",
       "NumProgressed": 57998,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T04:03:47.5345461+00:00",
+      "NumProgressed": 58000,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -17301,7 +17306,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18559
+      "UsersEstimate": 18560
     },
     {
       "ID": "Lawbringer",
@@ -17309,7 +17314,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22039
+      "UsersEstimate": 22040
     },
     {
       "ID": "Lawmaker",
@@ -17484,15 +17489,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 57998,
+      "Progressed": 58000,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-02T19:00:29.7632978+00:00",
-  "LastChanged_Achievements": "2023-08-03T03:03:46.9706257+00:00",
+  "LastChanged_Achievements": "2023-08-03T04:03:47.5345456+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:33.2077536+00:00",
-  "LastUpdate_Ratings": "2023-08-03T03:00:29.7514183+00:00",
-  "LastUpdate_Achievements": "2023-08-03T03:03:46.9707283+00:00"
+  "LastUpdate_Ratings": "2023-08-03T04:01:39.4111703+00:00",
+  "LastUpdate_Achievements": "2023-08-03T04:03:47.5346308+00:00"
 }

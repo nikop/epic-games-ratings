@@ -8,7 +8,7 @@
 | Trouble with the swerve | 68.00% | ~531 |
 | Oops, My bad | 67.00% | ~523 |
 | Don't get ahead on yourself | 39.00% | ~305 |
-| I didn't know you where there! | 29.00% | ~226 |
+| I didn't know you where there! | 30.00% | ~234 |
 | Participation trophy | 24.00% | ~187 |
 | Whole again | 12.00% | ~94 |
 | Cash Rules Everything Around Me | 8.00% | ~62 |

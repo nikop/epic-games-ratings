@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -2896,10 +2896,10 @@
       "Count": 260
     }
   ],
-  "EOS_Progressed": 235180,
-  "EOS_Completed": 783,
-  "EOS_NewPlayers": 995,
-  "EOS_NewCompleters": 3,
+  "EOS_Progressed": 235181,
+  "EOS_Completed": 784,
+  "EOS_NewPlayers": 994,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -14056,6 +14056,11 @@
       "Time": "2023-08-03T02:30:27.08132+00:00",
       "NumProgressed": 235180,
       "NumCompleted": 783
+    },
+    {
+      "Time": "2023-08-03T04:05:22.2106387+00:00",
+      "NumProgressed": 235181,
+      "NumCompleted": 784
     }
   ],
   "TotalAchievements": 39,
@@ -14131,7 +14136,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 214014
+      "UsersEstimate": 214015
     },
     {
       "ID": "AchievementClownID",
@@ -14155,7 +14160,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 65850
+      "UsersEstimate": 65851
     },
     {
       "ID": "AchievementEggID",
@@ -14179,7 +14184,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 77609
+      "UsersEstimate": 77610
     },
     {
       "ID": "AchievementGoatID",
@@ -14195,7 +14200,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 124645
+      "UsersEstimate": 124646
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -14267,7 +14272,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 89368
+      "UsersEstimate": 89369
     },
     {
       "ID": "AchievementRampID",
@@ -14299,7 +14304,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 174033
+      "UsersEstimate": 174034
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -14339,7 +14344,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 129349
+      "UsersEstimate": 129350
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -14363,7 +14368,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 152867
+      "UsersEstimate": 152868
     },
     {
       "ID": "AchievementWhaleID",
@@ -14378,16 +14383,16 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 235180,
-      "Completed": 783
+      "Progressed": 235181,
+      "Completed": 784
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-08-02T20:01:29.5473612+00:00",
-  "LastChanged_Achievements": "2023-08-03T03:04:42.0863361+00:00",
+  "LastChanged_Achievements": "2023-08-03T04:05:22.210638+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:24.5998227+00:00",
-  "LastUpdate_Ratings": "2023-08-03T03:01:11.2754925+00:00",
-  "LastUpdate_Achievements": "2023-08-03T03:04:42.0864301+00:00"
+  "LastUpdate_Ratings": "2023-08-03T04:02:28.711702+00:00",
+  "LastUpdate_Achievements": "2023-08-03T04:05:22.2107161+00:00"
 }

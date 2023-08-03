@@ -6,28 +6,28 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~121,094 |
-| Where's that freaking Dwarf? | 47.00% | ~96,465 |
-| GG EZ | 28.00% | ~57,468 |
-| Speedrun | 26.00% | ~53,363 |
-| Déjà vu | 21.00% | ~43,101 |
-| Sock! SOCK! | 17.00% | ~34,891 |
-| DM intervention | 13.00% | ~26,682 |
-| Fireproof Wizardess | 10.00% | ~20,524 |
-| Livin' in a dwarven paradise | 8.00% | ~16,420 |
-| A beer, two curses, three companions | 8.00% | ~16,420 |
-| Way of the Wimp | 7.00% | ~14,367 |
-| The plot thickens... At the tavern | 5.00% | ~10,262 |
+| Alt+F4 | 59.00% | ~121,102 |
+| Where's that freaking Dwarf? | 47.00% | ~96,471 |
+| GG EZ | 28.00% | ~57,472 |
+| Speedrun | 26.00% | ~53,367 |
+| Déjà vu | 21.00% | ~43,104 |
+| Sock! SOCK! | 17.00% | ~34,894 |
+| DM intervention | 13.00% | ~26,684 |
+| Fireproof Wizardess | 10.00% | ~20,526 |
+| Livin' in a dwarven paradise | 8.00% | ~16,421 |
+| A beer, two curses, three companions | 8.00% | ~16,421 |
+| Way of the Wimp | 7.00% | ~14,368 |
+| The plot thickens... At the tavern | 5.00% | ~10,263 |
 | The Woman in the High Castle | 4.00% | ~8,210 |
 | I am the night | 4.00% | ~8,210 |
 | Team Building Exercise | 4.00% | ~8,210 |
-| Shiny and Crôm | 3.00% | ~6,157 |
-| The demons' feast | 3.00% | ~6,157 |
-| Res Judicata | 3.00% | ~6,157 |
-| Dwarf Fortress | 3.00% | ~6,157 |
-| The Ranger of Chaos | 3.00% | ~6,157 |
-| Thieves' Guild Accreditation | 3.00% | ~6,157 |
-| Oh, when I'll be level 10... | 3.00% | ~6,157 |
+| Shiny and Crôm | 3.00% | ~6,158 |
+| The demons' feast | 3.00% | ~6,158 |
+| Res Judicata | 3.00% | ~6,158 |
+| Dwarf Fortress | 3.00% | ~6,158 |
+| The Ranger of Chaos | 3.00% | ~6,158 |
+| Thieves' Guild Accreditation | 3.00% | ~6,158 |
+| Oh, when I'll be level 10... | 3.00% | ~6,158 |
 | The Great Library | 2.00% | ~4,105 |
 | Torture and Sensibility | 2.00% | ~4,105 |
 | Urik's Depths | 2.00% | ~4,105 |
@@ -36,15 +36,15 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 2.00% | ~4,105 |
 | In Navalu's footsteps | 2.00% | ~4,105 |
 | Material Girl | 2.00% | ~4,105 |
-| The Dungeon Master | 1.00% | ~2,052 |
-| The Statuette of Gladeulfeurah | 1.00% | ~2,052 |
-| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,052 |
-| A tale of adventurers not quite like the others... | 1.00% | ~2,052 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,052 |
-| Dead for good | 1.00% | ~2,052 |
-| Law and Order | 1.00% | ~2,052 |
-| It's been a hard day's night | 1.00% | ~2,052 |
-| Lust and Debauchery | 1.00% | ~2,052 |
+| The Dungeon Master | 1.00% | ~2,053 |
+| The Statuette of Gladeulfeurah | 1.00% | ~2,053 |
+| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,053 |
+| A tale of adventurers not quite like the others... | 1.00% | ~2,053 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,053 |
+| Dead for good | 1.00% | ~2,053 |
+| Law and Order | 1.00% | ~2,053 |
+| It's been a hard day's night | 1.00% | ~2,053 |
+| Lust and Debauchery | 1.00% | ~2,053 |
 | Lëgal Legend | 0.90% | ~1,847 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,437 |
 | Holistic Adventuring Party | 0.50% | ~1,026 |
@@ -55,11 +55,11 @@ Number of Ratings: 118  (23.09.2022)
 | The Blood Countess | 0.30% | ~616 |
 | Insult to injury | 0.30% | ~616 |
 | We come in peace | 0.30% | ~616 |
-| Cursed die | 0.20% | ~410 |
-| He’s alive! Aliiiive! | 0.20% | ~410 |
-| Super-Ultra-Lydian | 0.20% | ~410 |
-| Inception | 0.20% | ~410 |
-| Demisemiquaver | 0.20% | ~410 |
+| Cursed die | 0.20% | ~411 |
+| He’s alive! Aliiiive! | 0.20% | ~411 |
+| Super-Ultra-Lydian | 0.20% | ~411 |
+| Inception | 0.20% | ~411 |
+| Demisemiquaver | 0.20% | ~411 |
 | Necrophilia | 0.10% | ~205 |
 | Restless night | 0.10% | ~205 |
 | King of the Arena | 0.10% | ~205 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,244 (Ranked 55)  
+Progressed: 205,258 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-31 | 203,882 | 0 |
 | 2023-08-01 | 204,538 | 0 |
 | 2023-08-02 | 205,167 | 0 |
-| 2023-08-03 | 205,244 | 0 |
+| 2023-08-03 | 205,258 | 0 |
 ## Awards
 Max (Character Customization): 149  (Ranked 295)  
 Sum: 149 (Ranked 392)  

@@ -22,6 +22,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Daily Grind | 0.20% | ~268 |
 | On the Path to Greatness | 0.20% | ~268 |
 | Ascended | 0.20% | ~268 |
+| Vanity, Verily | 0.20% | ~268 |
 | Bounty Hunters | 0.20% | ~268 |
 | Fated Encounters | 0.20% | ~268 |
 | Blank Page Syndrome | 0.20% | ~268 |
@@ -49,7 +50,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | The King's Caprice | 0.10% | ~134 |
 | Research & Development | 0.10% | ~134 |
 | Thirst for Knowledge | 0.10% | ~134 |
-| Vanity, Verily | 0.10% | ~134 |
 | Big Game Hunting | 0.10% | ~134 |
 | Bane of Legends | 0.10% | ~134 |
 | For the Hoard! | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,767 (Ranked 62)  
+Progressed: 133,768 (Ranked 62)  
 Completed: 126 (0.09%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 126 (0.09%) (Ranked 199)
 | 2023-07-31 | 133,652 | 124 |
 | 2023-08-01 | 133,708 | 125 |
 | 2023-08-02 | 133,764 | 126 |
-| 2023-08-03 | 133,767 | 126 |
+| 2023-08-03 | 133,768 | 126 |
 ## Awards
 Max (Great for Beginners): 4,682  (Ranked 70)  
 Sum: 27,028 (Ranked 46)  
