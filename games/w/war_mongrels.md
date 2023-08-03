@@ -10,24 +10,24 @@ Number of Ratings: 34  (23.09.2022)
 | Cowardice | 56.00% | ~249 |
 | NO LIFE IS WORTH SAVING... | 49.00% | ~218 |
 | Eat Lead! | 47.00% | ~209 |
+| The Breaking Point | 43.00% | ~191 |
 | Here Comes the Boom | 43.00% | ~191 |
 | Prospector | 42.00% | ~186 |
-| The Breaking Point | 42.00% | ~186 |
 | Treasure Hunter | 39.00% | ~173 |
 | Sniper Wolf | 38.00% | ~169 |
 | The Motivation | 37.00% | ~164 |
 | Heroism | 35.00% | ~155 |
 | Missing in Action | 34.00% | ~151 |
 | Collectibles of Chapter I | 33.00% | ~147 |
+| Consequences | 32.00% | ~142 |
 | King of Knives | 32.00% | ~142 |
-| Consequences | 31.00% | ~138 |
 | Opportunities | 30.00% | ~133 |
-| The Horror | 28.00% | ~124 |
+| The Horror | 29.00% | ~129 |
 | The Difference | 25.00% | ~111 |
 | Vengeance | 23.00% | ~102 |
 | Collectibles of Chapter II | 22.00% | ~98 |
+| Broken Hopes | 21.00% | ~93 |
 | It's Just an Accident | 21.00% | ~93 |
-| Broken Hopes | 20.00% | ~89 |
 | Bullseye! | 20.00% | ~89 |
 | Sorrow | 18.00% | ~80 |
 | Food Massacre | 18.00% | ~80 |
@@ -37,16 +37,16 @@ Number of Ratings: 34  (23.09.2022)
 | Helping Hand | 15.00% | ~67 |
 | Without a Second Thought | 14.00% | ~62 |
 | Collectibles of Chapter V | 10.00% | ~44 |
-| Such is War! | 8.00% | ~36 |
+| Such is War! | 9.00% | ~40 |
 | Tiptoe Around | 8.00% | ~36 |
 | Collectibles of Chapter XII | 7.00% | ~31 |
 | Piece of Cake | 7.00% | ~31 |
 | Collectibles of Chapter VII | 6.00% | ~27 |
 | Collectibles of Chapter VIII | 5.00% | ~22 |
+| Collectibles of Chapter XI | 5.00% | ~22 |
 | It Will Rain | 5.00% | ~22 |
 | Not Spill a Drop | 5.00% | ~22 |
 | Collectibles of Chapter X | 4.00% | ~18 |
-| Collectibles of Chapter XI | 4.00% | ~18 |
 | The Good Samaritan | 4.00% | ~18 |
 | Collectibles of Chapter VI | 3.00% | ~13 |
 | Collectibles of Chapter IX | 3.00% | ~13 |

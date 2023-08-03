@@ -2,13 +2,13 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 541,
+  "Ranking_Rating": 542,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228807,
+  "EOS_Progressed": 228808,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 569,
+  "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11253,6 +11253,11 @@
       "Time": "2023-08-03T20:04:39.5780079+00:00",
       "NumProgressed": 228807,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-03T21:05:37.6035753+00:00",
+      "NumProgressed": 228808,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -11304,7 +11309,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16016
+      "UsersEstimate": 16017
     },
     {
       "ID": "DRAGOON",
@@ -11352,7 +11357,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45761
+      "UsersEstimate": 45762
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -11400,7 +11405,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 75506
+      "UsersEstimate": 75507
     },
     {
       "ID": "NOBUNAGA",
@@ -11432,7 +11437,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16016
+      "UsersEstimate": 16017
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -11535,15 +11540,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 228807,
+      "Progressed": 228808,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-08-03T20:04:39.5780072+00:00",
+  "LastChanged_Achievements": "2023-08-03T21:05:37.6035745+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.6745563+00:00",
-  "LastUpdate_Ratings": "2023-08-03T19:58:53.150581+00:00",
-  "LastUpdate_Achievements": "2023-08-03T20:04:39.5781268+00:00"
+  "LastUpdate_Ratings": "2023-08-03T20:59:54.6717427+00:00",
+  "LastUpdate_Achievements": "2023-08-03T21:05:37.6037155+00:00"
 }

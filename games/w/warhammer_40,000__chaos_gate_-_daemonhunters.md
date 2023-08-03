@@ -19,9 +19,9 @@ Number of Ratings: 371  (23.09.2022)
 | Surgical Excision | 0.90% | ~28 |
 | Honoured Battle-Brother | 0.80% | ~25 |
 | The Emperor Protects | 0.70% | ~22 |
+| Nemesis Master | 0.60% | ~19 |
 | Just a Scratch | 0.60% | ~19 |
 | Hold Your Ground | 0.50% | ~16 |
-| Nemesis Master | 0.50% | ~16 |
 | Gunmaster | 0.50% | ~16 |
 | Execution Force | 0.50% | ~16 |
 | Hive Exterminator | 0.50% | ~16 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5758,10 +5758,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 40407,
       "NumberOfAwardsMax": 21493
+    },
+    {
+      "Time": "2023-08-03T20:58:46.2061452+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40408,
+      "NumberOfAwardsMax": 21493
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40407,
+  "NumberOfAwards": 40408,
   "NumberOfAwardsMax": 21493,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5835,12 +5841,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 574
+      "Count": 575
     }
   ],
-  "EOS_Progressed": 289275,
+  "EOS_Progressed": 289277,
   "EOS_Completed": 438,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -17183,6 +17189,11 @@
       "Time": "2023-08-03T20:05:27.3737153+00:00",
       "NumProgressed": 289275,
       "NumCompleted": 438
+    },
+    {
+      "Time": "2023-08-03T21:06:43.3325965+00:00",
+      "NumProgressed": 289277,
+      "NumCompleted": 438
     }
   ],
   "TotalAchievements": 45,
@@ -17258,7 +17269,7 @@
       "Name": "Beast Friends",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17356
+      "UsersEstimate": 17357
     },
     {
       "ID": "PFA_18",
@@ -17553,16 +17564,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289275,
+      "Progressed": 289277,
       "Completed": 438
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-03T18:58:26.2017397+00:00",
-  "LastChanged_Achievements": "2023-08-03T20:05:27.3737144+00:00",
+  "LastChanged": "2023-08-03T20:58:46.2061451+00:00",
+  "LastChanged_Achievements": "2023-08-03T21:06:43.3325959+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-08-03T19:58:01.3065683+00:00",
-  "LastUpdate_Achievements": "2023-08-03T20:05:27.3739165+00:00"
+  "LastUpdate_Ratings": "2023-08-03T20:58:46.2061461+00:00",
+  "LastUpdate_Achievements": "2023-08-03T21:06:43.3327422+00:00"
 }

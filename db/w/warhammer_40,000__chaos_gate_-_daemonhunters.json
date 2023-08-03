@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3186,9 +3186,9 @@
       "ID": "MasterCraftLevel3_Melee",
       "SetID": "3jha1np",
       "Name": "Nemesis Master",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -3472,8 +3472,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-03T04:00:16.6556032+00:00",
-  "LastChanged_Achievements": "2023-08-03T20:04:56.1633862+00:00",
+  "LastChanged_Achievements": "2023-08-03T21:06:00.2444379+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:36.2653351+00:00",
-  "LastUpdate_Ratings": "2023-08-03T19:59:21.2417904+00:00",
-  "LastUpdate_Achievements": "2023-08-03T20:04:56.1635363+00:00"
+  "LastUpdate_Ratings": "2023-08-03T21:00:31.0765494+00:00",
+  "LastUpdate_Achievements": "2023-08-03T21:06:00.24453+00:00"
 }

@@ -8,7 +8,7 @@
 | First Step | 53.00% | ~64 |
 | Capitalism | 18.00% | ~22 |
 | Indebted | 12.00% | ~15 |
-| Desert Rat | 10.00% | ~12 |
+| Desert Rat | 11.00% | ~13 |
 | There's something in those trees | 8.00% | ~10 |
 | Good payer | 7.00% | ~8 |
 | Great Producer | 7.00% | ~8 |

@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 210,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.38,
   "EosHistory": [
@@ -461,8 +461,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-08-03T20:04:27.9637837+00:00",
+  "LastChanged_Achievements": "2023-08-03T21:05:21.7508567+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:34.4582495+00:00",
-  "LastUpdate_Ratings": "2023-08-03T19:58:16.9509056+00:00",
-  "LastUpdate_Achievements": "2023-08-03T20:04:27.9638051+00:00"
+  "LastUpdate_Ratings": "2023-08-03T20:59:10.6206421+00:00",
+  "LastUpdate_Achievements": "2023-08-03T21:05:21.750891+00:00"
 }

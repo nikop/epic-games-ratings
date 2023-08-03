@@ -20,7 +20,7 @@ Rating: 4.65 (Ranked 299)
 | Gaze Into The Abyss | 47.00% | ~275 |
 | Land, Ho! | 47.00% | ~275 |
 | Back In The Saddle | 46.00% | ~269 |
-| No Man Is An Island | 45.00% | ~263 |
+| No Man Is An Island | 46.00% | ~269 |
 | At Wits' End | 45.00% | ~263 |
 | Up In Flames | 43.00% | ~252 |
 | Fhtagn! | 43.00% | ~252 |

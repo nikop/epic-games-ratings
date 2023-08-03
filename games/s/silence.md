@@ -19,19 +19,19 @@
 | Like a moth in the Wind | 29.00% | ~28 |
 | Let the boot talk | 28.00% | ~27 |
 | Bubblekillerfamily | 25.00% | ~24 |
+| Mirror mirror on the wall... | 25.00% | ~24 |
 | Quite a buggy game | 24.00% | ~23 |
-| Mirror mirror on the wall... | 24.00% | ~23 |
 | Handyman | 23.00% | ~22 |
 | Fastidious Clown | 23.00% | ~22 |
 | Shadow on the wall | 22.00% | ~21 |
 | It's not easy being green! | 22.00% | ~21 |
-| Home is where the heart is | 21.00% | ~20 |
+| Home is where the heart is | 22.00% | ~21 |
 | Pacifist | 19.00% | ~18 |
 | Master of Thermodynamics | 17.00% | ~16 |
 | Death is a part of life | 17.00% | ~16 |
 | Unfullfilled dreams | 16.00% | ~15 |
+| Nothing can stop me | 13.00% | ~12 |
 | To err is human... | 11.00% | ~11 |
-| Nothing can stop me | 11.00% | ~11 |
 | Mumbo Jumbo | 11.00% | ~11 |
 | Useless but beautiful | 9.00% | ~9 |
 | Lollipop | 9.00% | ~9 |

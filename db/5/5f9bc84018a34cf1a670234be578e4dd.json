@@ -2,10 +2,10 @@
   "ID": "5f9bc84018a34cf1a670234be578e4dd",
   "Name": "Access Denied Escape",
   "ProductSlug": "access-denied-escape-1d486e",
-  "Ranking_EOS_Progress": 316,
+  "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99,
+  "EOS_Progressed": 100,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 20,
-  "EOS_Completed_Percentage": 20.2,
+  "EOS_Completed_Percentage": 20,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -431,6 +431,11 @@
       "Time": "2023-08-03T14:04:56.9503568+00:00",
       "NumProgressed": 99,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-03T21:05:55.5430597+00:00",
+      "NumProgressed": 100,
+      "NumCompleted": 20
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -449,7 +454,7 @@
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 70,
       "UsersEstimate": 55
     },
@@ -475,13 +480,13 @@
       "Name": "Test Task",
       "Percentage": 97,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 70,
       "UsersEstimate": 53
     },
@@ -489,7 +494,7 @@
       "ID": "Fusses",
       "SetID": "7jbi7el",
       "Name": "Beginner Electrician",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 70,
       "UsersEstimate": 85
     },
@@ -529,7 +534,7 @@
       "ID": "Screwdriver",
       "SetID": "7jbi7el",
       "Name": "Screwdriver",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 70,
       "UsersEstimate": 77
     },
@@ -554,14 +559,14 @@
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 99,
+      "Progressed": 100,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-03T20:04:52.7610709+00:00",
+  "LastChanged_Achievements": "2023-08-03T21:05:55.5430591+00:00",
   "LastUpdate_AppInfo": "2023-08-01T17:57:05.506677+00:00",
-  "LastUpdate_Ratings": "2023-08-03T19:57:19.8515537+00:00",
-  "LastUpdate_Achievements": "2023-08-03T20:04:52.761086+00:00"
+  "LastUpdate_Ratings": "2023-08-03T20:57:40.7207441+00:00",
+  "LastUpdate_Achievements": "2023-08-03T21:05:55.5430759+00:00"
 }

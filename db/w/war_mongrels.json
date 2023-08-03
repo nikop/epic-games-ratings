@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -1455,9 +1455,9 @@
       "ID": "ACH_COLL_CH11",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter XI",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_COLL_CH12",
@@ -1479,9 +1479,9 @@
       "ID": "ACH_FIN_CH02",
       "SetID": "1j25agn",
       "Name": "The Breaking Point",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -1503,9 +1503,9 @@
       "ID": "ACH_FIN_CH05",
       "SetID": "1j25agn",
       "Name": "Consequences",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -1519,9 +1519,9 @@
       "ID": "ACH_FIN_CH07",
       "SetID": "1j25agn",
       "Name": "The Horror",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -1543,9 +1543,9 @@
       "ID": "ACH_FIN_CH10",
       "SetID": "1j25agn",
       "Name": "Broken Hopes",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -1567,9 +1567,9 @@
       "ID": "ACH_HARD_1",
       "SetID": "1j25agn",
       "Name": "Such is War!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_HARD_ALL",
@@ -1727,8 +1727,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-08-03T20:05:55.3131771+00:00",
+  "LastChanged_Achievements": "2023-08-03T21:07:20.9434211+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:12.2817401+00:00",
-  "LastUpdate_Ratings": "2023-08-03T19:58:04.1102572+00:00",
-  "LastUpdate_Achievements": "2023-08-03T20:05:55.3132717+00:00"
+  "LastUpdate_Ratings": "2023-08-03T20:58:50.2737193+00:00",
+  "LastUpdate_Achievements": "2023-08-03T21:07:20.9434813+00:00"
 }

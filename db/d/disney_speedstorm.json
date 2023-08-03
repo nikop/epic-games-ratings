@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 51,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3063,
+  "EOS_Progressed": 3064,
   "EOS_Completed": 136,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 4.44,
   "EosHistory": [
@@ -4045,6 +4045,11 @@
       "Time": "2023-08-03T14:07:00.3117167+00:00",
       "NumProgressed": 3063,
       "NumCompleted": 136
+    },
+    {
+      "Time": "2023-08-03T21:08:11.9419252+00:00",
+      "NumProgressed": 3064,
+      "NumCompleted": 136
     }
   ],
   "TotalAchievements": 24,
@@ -4064,7 +4069,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "11",
@@ -4096,7 +4101,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "15",
@@ -4128,7 +4133,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "19",
@@ -4144,7 +4149,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "20",
@@ -4208,7 +4213,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "6",
@@ -4216,7 +4221,7 @@
       "Name": "PRO",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "7",
@@ -4247,13 +4252,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3063,
+      "Progressed": 3064,
       "Completed": 136
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-03T20:06:32.062865+00:00",
+  "LastChanged_Achievements": "2023-08-03T21:08:11.9419246+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:49.7326864+00:00",
-  "LastUpdate_Ratings": "2023-08-03T19:59:35.7945858+00:00",
-  "LastUpdate_Achievements": "2023-08-03T20:06:32.0629423+00:00"
+  "LastUpdate_Ratings": "2023-08-03T21:00:50.4127818+00:00",
+  "LastUpdate_Achievements": "2023-08-03T21:08:11.9420252+00:00"
 }

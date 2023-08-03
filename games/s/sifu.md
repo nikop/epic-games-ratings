@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~1,071 |
+| Diligence as a goal | 5.00% | ~1,072 |
 | Project Arena | 4.00% | ~857 |
 | The Old Grandmaster | 2.00% | ~14,243 |
 | The Assault | 2.00% | ~14,243 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,424 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,128 (Ranked 20)  
-Completed: 12,841 (1.80%) (Ranked 90)  
+Progressed: 712,130 (Ranked 20)  
+Completed: 12,842 (1.80%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -162,14 +162,14 @@ Completed: 12,841 (1.80%) (Ranked 90)
 | 2023-07-31 | 711,949 | 12,837 |
 | 2023-08-01 | 712,009 | 12,838 |
 | 2023-08-02 | 712,079 | 12,840 |
-| 2023-08-03 | 712,128 | 12,841 |
+| 2023-08-03 | 712,130 | 12,842 |
 ## Awards
-Max (Great Boss Battles): 6,331  (Ranked 53)  
-Sum: 10,869 (Ranked 82)  
+Max (Great Boss Battles): 6,336  (Ranked 53)  
+Sum: 10,874 (Ranked 82)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,331 |
+| This game has Great Boss Battles | 6,336 |
 | This game has Diverse Characters | 562 |
 | This game has Challenging Combat | 538 |
 | This game has Quickly Understood Controls | 531 |
@@ -382,4 +382,4 @@ Diff (max vs sum): -29
 | 2023-07-31 | 4.82 | - | 6,322 | 10,851 |
 | 2023-08-01 | 4.82 | - | 6,327 | 10,860 |
 | 2023-08-02 | 4.82 | - | 6,331 | 10,868 |
-| 2023-08-03 | 4.82 | - | 6,331 | 10,869 |
+| 2023-08-03 | 4.82 | - | 6,336 | 10,874 |

@@ -2,13 +2,13 @@
   "ID": "4f09ede568514ca6ad487f9c22a66b81",
   "Name": "Slime Rancher 2",
   "ProductSlug": "slime-rancher-2",
-  "Ranking_Rating": 82,
+  "Ranking_Rating": 88,
   "Ranking_Popularity": 334,
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-09-22T17:00:00+00:00",
     "PcReleaseDate": "2022-09-22T17:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.79,
   "NumberOfRatings": 36,
   "RatingHistory": [
     {
@@ -354,6 +354,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 832,
       "NumberOfAwardsMax": 101
+    },
+    {
+      "Time": "2023-08-03T21:01:33.2476092+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 832,
+      "NumberOfAwardsMax": 101
     }
   ],
   "ReviewsDisabled": false,
@@ -446,8 +452,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T20:03:01.7820576+00:00",
   "FirstSeenRating": "2022-09-23T13:02:43.6402723+00:00",
-  "LastChanged": "2023-07-31T20:59:34.6047729+00:00",
+  "LastChanged": "2023-08-03T21:01:33.2476091+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:10.4690857+00:00",
-  "LastUpdate_Ratings": "2023-08-03T20:00:06.90972+00:00",
-  "LastUpdate_Achievements": "2023-08-03T20:05:00.5798238+00:00"
+  "LastUpdate_Ratings": "2023-08-03T21:01:33.2476098+00:00",
+  "LastUpdate_Achievements": "2023-08-03T21:06:06.6787668+00:00"
 }

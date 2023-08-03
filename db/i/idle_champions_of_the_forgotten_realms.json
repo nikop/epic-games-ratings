@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5524,10 +5524,10 @@
       "Count": 3338
     }
   ],
-  "EOS_Progressed": 218317,
+  "EOS_Progressed": 218342,
   "EOS_Completed": 2148,
-  "EOS_NewPlayers": 2220,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 2219,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16879,6 +16879,11 @@
       "Time": "2023-08-03T20:02:20.9636853+00:00",
       "NumProgressed": 218317,
       "NumCompleted": 2148
+    },
+    {
+      "Time": "2023-08-03T21:03:12.8671869+00:00",
+      "NumProgressed": 218342,
+      "NumCompleted": 2148
     }
   ],
   "TotalAchievements": 512,
@@ -16890,7 +16895,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8733
+      "UsersEstimate": 8734
     },
     {
       "ID": "objective_completed_10",
@@ -16898,7 +16903,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4366
+      "UsersEstimate": 4367
     },
     {
       "ID": "objective_completed_100",
@@ -17570,7 +17575,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "objective_completed_1164",
@@ -19024,9 +19029,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 655
+      "UsersEstimate": 873
     },
     {
       "ID": "objective_completed_54",
@@ -20946,7 +20951,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "objective_completed_1386",
@@ -20985,21 +20990,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184591,
+      "Progressed": 184616,
       "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218317,
+      "Progressed": 218342,
       "Completed": 2148
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-03T19:58:47.5322245+00:00",
-  "LastChanged_Achievements": "2023-08-03T20:02:20.9636843+00:00",
+  "LastChanged_Achievements": "2023-08-03T21:03:12.8671863+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-03T19:58:47.5322256+00:00",
-  "LastUpdate_Achievements": "2023-08-03T20:02:20.9688241+00:00"
+  "LastUpdate_Ratings": "2023-08-03T20:59:46.3460072+00:00",
+  "LastUpdate_Achievements": "2023-08-03T21:03:12.8700402+00:00"
 }

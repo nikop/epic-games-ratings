@@ -21,7 +21,7 @@
 | Hello, world! | 68.00% | ~149 |
 | Fighting is cool | 67.00% | ~147 |
 | Pal of your father? | 64.00% | ~140 |
-| Spirit of the past | 61.00% | ~134 |
+| Spirit of the past | 62.00% | ~136 |
 | Employee of the month | 61.00% | ~134 |
 | Law student | 59.00% | ~129 |
 | Little hacker | 57.00% | ~125 |
@@ -45,10 +45,10 @@
 | Underground dwellers | 37.00% | ~81 |
 | Get out of my apartment! | 36.00% | ~79 |
 | Responsible approach | 36.00% | ~79 |
+| Poisoned fighter | 35.00% | ~77 |
 | Deal with life | 34.00% | ~74 |
 | GYM professional | 34.00% | ~74 |
 | Champion – no way back | 34.00% | ~74 |
-| Poisoned fighter | 34.00% | ~74 |
 | Seashell hunter | 34.00% | ~74 |
 | Mom got better | 32.00% | ~70 |
 | The die is cast | 32.00% | ~70 |
@@ -65,8 +65,8 @@
 | Another world | 27.00% | ~59 |
 | Keep nature safe | 27.00% | ~59 |
 | Family comes first | 27.00% | ~59 |
+| Anyone can resist | 27.00% | ~59 |
 | Trap disarmed | 26.00% | ~57 |
-| Anyone can resist | 26.00% | ~57 |
 | Silver’s past | 25.00% | ~55 |
 | Better cooking at home | 24.00% | ~53 |
 | The only right decision | 24.00% | ~53 |

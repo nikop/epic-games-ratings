@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 770,
+  "EOS_Progressed": 771,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2671,6 +2671,11 @@
       "Time": "2023-08-03T20:06:14.2573841+00:00",
       "NumProgressed": 770,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T21:07:47.1813116+00:00",
+      "NumProgressed": 771,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2810,7 +2815,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -2985,14 +2990,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 770,
+      "Progressed": 771,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-03T20:06:14.2573832+00:00",
+  "LastChanged_Achievements": "2023-08-03T21:07:47.1813111+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-08-03T19:57:07.3981535+00:00",
-  "LastUpdate_Achievements": "2023-08-03T20:06:14.2574644+00:00"
+  "LastUpdate_Ratings": "2023-08-03T20:57:21.9498211+00:00",
+  "LastUpdate_Achievements": "2023-08-03T21:07:47.1813984+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -331,11 +331,11 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1777,
+  "EOS_Progressed": 1778,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.23,
+  "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:31.998977+00:00",
@@ -1706,6 +1706,11 @@
       "Time": "2023-08-03T18:06:28.1426096+00:00",
       "NumProgressed": 1777,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-03T21:06:46.3934049+00:00",
+      "NumProgressed": 1778,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1725,7 +1730,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1861,7 +1866,7 @@
       "Name": "Justice Served",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -1869,7 +1874,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1949,7 +1954,7 @@
       "Name": "Off the Trail",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1965,7 +1970,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1995,9 +2000,9 @@
       "ID": "ACH_REVENANT",
       "SetID": "8j30i9k",
       "Name": "Revenant",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_SCHOLAR",
@@ -2013,7 +2018,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2021,7 +2026,7 @@
       "Name": "Something Wicked This Way Comes\u2026",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_THATS_ALL_FOLKS",
@@ -2037,7 +2042,7 @@
       "Name": "There is Hope",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_THE_GREAT_ESCAPE",
@@ -2093,7 +2098,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2140,15 +2145,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1777,
+      "Progressed": 1778,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-02T19:59:24.9286429+00:00",
-  "LastChanged_Achievements": "2023-08-03T20:05:29.7556255+00:00",
+  "LastChanged_Achievements": "2023-08-03T21:06:46.3934041+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.150321+00:00",
-  "LastUpdate_Ratings": "2023-08-03T19:59:10.2978721+00:00",
-  "LastUpdate_Achievements": "2023-08-03T20:05:29.7557283+00:00"
+  "LastUpdate_Ratings": "2023-08-03T21:00:14.5872168+00:00",
+  "LastUpdate_Achievements": "2023-08-03T21:06:46.3935293+00:00"
 }

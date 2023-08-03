@@ -16,8 +16,8 @@ Number of Ratings: 22  (23.09.2022)
 | Magni | 21.00% | ~84 |
 | Bora | 18.00% | ~72 |
 | Scientist | 15.00% | ~60 |
+| Edora | 14.00% | ~56 |
 | Campaign Gold | 13.00% | ~52 |
-| Edora | 13.00% | ~52 |
 | Environmentalist | 12.00% | ~48 |
 | Iqunox | 9.00% | ~36 |
 | Udion Torix | 8.00% | ~32 |

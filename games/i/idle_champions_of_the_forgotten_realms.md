@@ -6,15 +6,15 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,733 |
+| A Brief Tour of the Realms | 4.00% | ~8,734 |
 | Beast Intentions | 3.00% | ~6,550 |
-| Maddening | 2.00% | ~4,366 |
+| Maddening | 2.00% | ~4,367 |
 | The Silken Swamp | 1.00% | ~2,183 |
 | Supply Run | 1.00% | ~2,183 |
 | Rocky Reception | 1.00% | ~1,846 |
 | Rock and Roll | 1.00% | ~1,846 |
-| Vecna Lives! | 0.90% | ~1,661 |
-| Flight of the Kindori Pod | 0.90% | ~1,661 |
+| Vecna Lives! | 0.90% | ~1,662 |
+| Flight of the Kindori Pod | 0.90% | ~1,662 |
 | Tall Tales | 0.80% | ~1,477 |
 | Vecna Loots! | 0.80% | ~1,477 |
 | Topolah's Tower | 0.80% | ~1,477 |
@@ -72,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.40% | ~873 |
 | Seeking Allies | 0.40% | ~873 |
 | Are Ya Chicken? | 0.40% | ~873 |
+| Mad Cow Disease | 0.40% | ~873 |
 | Exploring Port Nyanzaru | 0.40% | ~873 |
 | Running of the Saurs | 0.40% | ~873 |
 | Escort to Waterdeep | 0.40% | ~873 |
@@ -121,7 +122,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fugitives | 0.30% | ~655 |
 | Premature Betrayal | 0.30% | ~655 |
 | Hopelessly Lost | 0.30% | ~655 |
-| Mad Cow Disease | 0.30% | ~655 |
 | A Tale of Two Cities | 0.30% | ~655 |
 | The Dead Three | 0.30% | ~655 |
 | Flying Monkey Skulls of Doom | 0.30% | ~655 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,317 (Ranked 53)  
+Progressed: 218,342 (Ranked 53)  
 Completed: 2,148 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -624,7 +624,7 @@ Completed: 2,148 (0.98%) (Ranked 112)
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
-| 2023-08-03 | 218,317 | 2,148 |
+| 2023-08-03 | 218,342 | 2,148 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,881 (Ranked 38)  

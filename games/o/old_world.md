@@ -45,6 +45,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 0.80% | ~106 |
 | Able Difficulty | 0.80% | ~106 |
 | Ishtar Gate | 0.80% | ~106 |
+| Learn to Play 1 | 0.80% | ~106 |
 | Christianity | 0.80% | ~106 |
 | Carthaginian Paganism | 0.80% | ~106 |
 | Roman Paganism | 0.80% | ~106 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.70% | ~93 |
 | Musaeum | 0.70% | ~93 |
 | Necropolis | 0.70% | ~93 |
-| Learn to Play 1 | 0.70% | ~93 |
 | Manichaeism | 0.70% | ~93 |
 | Regicide | 0.60% | ~80 |
 | Drillmaster | 0.60% | ~80 |
@@ -67,6 +67,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.60% | ~80 |
 | Mausoleum | 0.60% | ~80 |
 | Learn to Play 2 | 0.60% | ~80 |
+| Greece | 0.60% | ~80 |
 | Egyptian Paganism | 0.60% | ~80 |
 | Mythology | 0.60% | ~80 |
 | Hanging Gardens in Babylon | 0.50% | ~66 |
@@ -76,7 +77,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.50% | ~66 |
 | Sages | 0.50% | ~66 |
 | Statesmen | 0.50% | ~66 |
-| Greece | 0.50% | ~66 |
 | Building Wonders | 0.50% | ~66 |
 | Points Victory | 0.50% | ~66 |
 | Beloved | 0.40% | ~53 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,257 (Ranked 117)  
+Progressed: 13,258 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-07-31 | 13,209 | 5 |
 | 2023-08-01 | 13,228 | 5 |
 | 2023-08-02 | 13,244 | 5 |
-| 2023-08-03 | 13,257 | 5 |
+| 2023-08-03 | 13,258 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 263)  
 Sum: 1,786 (Ranked 206)  

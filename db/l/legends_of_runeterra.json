@@ -4,11 +4,11 @@
   "ProductSlug": "legends-of-runeterra",
   "Ranking_Rating": 273,
   "Ranking_Popularity": 292,
-  "Ranking_PopularitySum": 224,
+  "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2020-04-29T18:06:30+00:00",
@@ -1551,10 +1551,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 1390,
       "NumberOfAwardsMax": 159
+    },
+    {
+      "Time": "2023-08-03T21:02:28.0782581+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1297,
+      "NumberOfAwardsMax": 159
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1390,
+  "NumberOfAwards": 1297,
   "NumberOfAwardsMax": 159,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1636,8 +1642,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2023-08-03T15:03:04.7198312+00:00",
+  "LastChanged": "2023-08-03T21:02:28.078258+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:05.0671535+00:00",
-  "LastUpdate_Ratings": "2023-08-03T20:00:47.4950751+00:00",
-  "LastUpdate_Achievements": "2023-08-03T20:05:35.5478107+00:00"
+  "LastUpdate_Ratings": "2023-08-03T21:02:28.0782587+00:00",
+  "LastUpdate_Achievements": "2023-08-03T21:06:54.2295637+00:00"
 }

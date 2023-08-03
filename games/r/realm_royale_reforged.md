@@ -5,8 +5,8 @@ Rating: 4.28 (Ranked 799)
 Number of Ratings: 841  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 140  (Ranked 302)  
-Sum: 1,340 (Ranked 225)  
-Diff (max vs sum): 77  
+Sum: 1,340 (Ranked 224)  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 140 |
