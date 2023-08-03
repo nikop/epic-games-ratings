@@ -8,9 +8,9 @@
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 22.99% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
-| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 20.20% |
-| 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
+| 9 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
+| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 20.00% |
+| 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.22% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.02% |
@@ -24,16 +24,16 @@
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Remains](games/r/remains.md) | 10.64% |
 | 24 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.60% |
-| 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.11% |
+| 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.08% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.43% |
-| 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
+| 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.60% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 31 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.33% |
 | 32 | [Smelter](games/s/smelter.md) | 7.69% |
 | 33 | [Ravenlok](games/r/ravenlok.md) | 7.35% |
-| 34 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.26% |
+| 34 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.22% |
 | 35 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.02% |
 | 36 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 37 | [Scorn](games/s/scorn.md) | 6.94% |
@@ -112,7 +112,7 @@
 | 109 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.02% |
 | 111 | [Adios](games/a/adios.md) | 0.99% |
 | 112 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 112 | [Sable](games/s/sable.md) | 0.98% |
+| 113 | [Sable](games/s/sable.md) | 0.97% |
 | 114 | [Hades](games/h/hades.md) | 0.90% |
 | 115 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 116 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
@@ -169,9 +169,9 @@
 | 166 | [Blanc](games/b/blanc.md) | 0.25% |
 | 168 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
 | 168 | [Filament](games/f/filament.md) | 0.24% |
-| 170 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.23% |
-| 171 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
-| 171 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
+| 170 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
+| 170 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
+| 170 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.22% |
 | 173 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 173 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
 | 173 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
