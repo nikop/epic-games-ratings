@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -352,9 +352,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1526,
+  "EOS_Progressed": 1527,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -1772,6 +1772,11 @@
       "Time": "2023-08-03T11:05:36.7439845+00:00",
       "NumProgressed": 1526,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-03T15:05:06.944968+00:00",
+      "NumProgressed": 1527,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 38,
@@ -1783,7 +1788,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1496
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -1791,7 +1796,7 @@
       "Name": "Great Doctor",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -1831,7 +1836,7 @@
       "Name": "K.O.!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -1839,7 +1844,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -1847,7 +1852,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -1855,7 +1860,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -1893,9 +1898,9 @@
       "ID": "ACHIEVEMENTS_15",
       "SetID": "d4o538a",
       "Name": "Friendly",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 732
+      "UsersEstimate": 718
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -1927,7 +1932,7 @@
       "Name": "Spark of Love",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACHIEVEMENTS_20",
@@ -1951,7 +1956,7 @@
       "Name": "The Capitalist",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -1967,7 +1972,7 @@
       "Name": "Stone Specialist",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACHIEVEMENTS_25",
@@ -1975,7 +1980,7 @@
       "Name": "Community Helper",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACHIEVEMENTS_26",
@@ -2023,7 +2028,7 @@
       "Name": "Ablutomaniac",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACHIEVEMENTS_32",
@@ -2086,7 +2091,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1526,
+      "Progressed": 1527,
       "Completed": 9
     }
   ],
@@ -2094,8 +2099,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-08-02T21:57:10.4950325+00:00",
-  "LastChanged_Achievements": "2023-08-03T14:03:53.6158594+00:00",
+  "LastChanged_Achievements": "2023-08-03T15:05:06.9449674+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:26.8145926+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:57:10.048745+00:00",
-  "LastUpdate_Achievements": "2023-08-03T14:03:53.6158897+00:00"
+  "LastUpdate_Ratings": "2023-08-03T14:57:28.7902981+00:00",
+  "LastUpdate_Achievements": "2023-08-03T15:05:06.9450371+00:00"
 }

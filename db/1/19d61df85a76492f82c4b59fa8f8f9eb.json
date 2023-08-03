@@ -3,9 +3,9 @@
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 261,
-  "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_Completed": 29,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 275,
-  "EOS_Completed": 23,
+  "EOS_Completed": 24,
   "EOS_NewPlayers": 72,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 8.36,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 8.73,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1221,6 +1221,11 @@
       "Time": "2023-08-03T13:13:08.6236088+00:00",
       "NumProgressed": 275,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-08-03T15:07:16.6160688+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 6,
@@ -1262,9 +1267,9 @@
       "ID": "CgkIgaGB2J0LEAIQBA",
       "SetID": "4ocea6d",
       "Name": "Revolving Bridge",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 165,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -1280,13 +1285,13 @@
       "ID": "4ocea6d",
       "IsBase": true,
       "Progressed": 275,
-      "Completed": 23
+      "Completed": 24
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-03T14:06:01.3509655+00:00",
-  "LastUpdate_AppInfo": "2023-07-27T13:57:11.6016453+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:57:33.8778224+00:00",
-  "LastUpdate_Achievements": "2023-08-03T14:06:01.3509771+00:00"
+  "LastChanged_Achievements": "2023-08-03T15:07:16.616068+00:00",
+  "LastUpdate_AppInfo": "2023-08-03T14:57:18.1003103+00:00",
+  "LastUpdate_Ratings": "2023-08-03T14:58:05.0146033+00:00",
+  "LastUpdate_Achievements": "2023-08-03T15:07:16.6160938+00:00"
 }

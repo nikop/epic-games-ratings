@@ -6,27 +6,27 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 74.00% | ~635 |
-| It’s Heating up! | 69.00% | ~592 |
-| Let’s patch things up | 66.00% | ~566 |
-| I can fix it! | 62.00% | ~532 |
-| Post No Bills | 55.00% | ~472 |
+| Breathe In… Breathe Out… | 74.00% | ~636 |
+| It’s Heating up! | 69.00% | ~593 |
+| Let’s patch things up | 65.00% | ~558 |
+| I can fix it! | 62.00% | ~533 |
+| Post No Bills | 54.00% | ~464 |
 | Truly Shocking! | 48.00% | ~412 |
-| Critical Thinker | 35.00% | ~300 |
+| Critical Thinker | 35.00% | ~301 |
 | Always Finding Your Mark | 29.00% | ~249 |
 | The Weight of the World | 29.00% | ~249 |
-| Act I Complete | 28.00% | ~240 |
-| A drop in the Ocean | 28.00% | ~240 |
+| Act I Complete | 28.00% | ~241 |
+| A drop in the Ocean | 28.00% | ~241 |
 | No Niños | 27.00% | ~232 |
 | I ain’t afraid of no Ghost | 24.00% | ~206 |
 | Act II Complete | 20.00% | ~172 |
-| A successful procedure! | 18.00% | ~154 |
-| Bing Bang BOOM | 18.00% | ~154 |
+| A successful procedure! | 18.00% | ~155 |
+| Bing Bang BOOM | 18.00% | ~155 |
 | Breaking the Ice | 17.00% | ~146 |
 | Solidarity Forever | 12.00% | ~103 |
 | A Tucked Tale | 9.00% | ~77 |
 | The best thing money can buy | 9.00% | ~77 |
-| Act III Complete | 6.00% | ~51 |
+| Act III Complete | 6.00% | ~52 |
 | Fire and Brimstone | 5.00% | ~43 |
 | See you Space Cowboy | 5.00% | ~43 |
 | Ghost in the Ship | 2.00% | ~17 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 858 (Ranked 201)  
+Progressed: 859 (Ranked 201)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-31 | 851 | 0 |
 | 2023-08-01 | 853 | 0 |
 | 2023-08-02 | 857 | 0 |
-| 2023-08-03 | 858 | 0 |
+| 2023-08-03 | 859 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -1504,9 +1504,9 @@
       "ID": "BURN_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Completing The Duty",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 20
     },
     {
       "ID": "BURN_ACHIEVEMENT_5",
@@ -1720,9 +1720,9 @@
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 158
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -1895,8 +1895,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-03T14:06:33.5717673+00:00",
-  "LastUpdate_AppInfo": "2023-07-27T13:57:11.3772461+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:57:29.9285881+00:00",
-  "LastUpdate_Achievements": "2023-08-03T14:06:33.5718258+00:00"
+  "LastChanged_Achievements": "2023-08-03T15:07:55.6527159+00:00",
+  "LastUpdate_AppInfo": "2023-08-03T14:57:17.7014877+00:00",
+  "LastUpdate_Ratings": "2023-08-03T14:57:59.2696885+00:00",
+  "LastUpdate_Achievements": "2023-08-03T15:07:55.6528547+00:00"
 }

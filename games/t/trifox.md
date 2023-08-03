@@ -37,10 +37,10 @@
 | Remote retrieved | 6.00% | ~5 |
 | Engineer specialist | 6.00% | ~5 |
 | Way of the engineer | 6.00% | ~5 |
+| Rich | 4.00% | ~4 |
 | Warrior specialist | 4.00% | ~4 |
 | The True Trifox | 4.00% | ~4 |
 | Way of the warrior | 4.00% | ~4 |
-| Rich | 3.00% | ~3 |
 | Halfway | 3.00% | ~3 |
 | Delicious | 3.00% | ~3 |
 | Bye bye Wilson | 2.00% | ~2 |

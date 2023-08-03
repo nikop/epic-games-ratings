@@ -3,8 +3,8 @@
   "Name": "Astalon -Tears of the Earth-",
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 346,
-  "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_Completed": 61,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -327,9 +327,9 @@
       "ID": "Unlock_Zeek",
       "SetID": "4f0g260",
       "Name": "Loot, loot!",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
@@ -344,8 +344,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-08-03T14:02:33.7055054+00:00",
+  "LastChanged_Achievements": "2023-08-03T15:04:07.9947808+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.0042283+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:59:20.1340496+00:00",
-  "LastUpdate_Achievements": "2023-08-03T14:02:33.7055215+00:00"
+  "LastUpdate_Ratings": "2023-08-03T15:00:15.4913515+00:00",
+  "LastUpdate_Achievements": "2023-08-03T15:04:07.994812+00:00"
 }

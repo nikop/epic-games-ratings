@@ -4,7 +4,7 @@
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 50,
+  "EOS_Progressed": 51,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6,
+  "EOS_Completed_Percentage": 5.88,
   "EosHistory": [
     {
       "Time": "2023-05-23T11:00:16.5750246+00:00",
@@ -266,6 +266,11 @@
       "Time": "2023-08-02T16:05:49.4751553+00:00",
       "NumProgressed": 50,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-03T15:07:55.0477661+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 10,
@@ -275,7 +280,7 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "1ejicho",
       "Name": "Clothes Hunter",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 100,
       "UsersEstimate": 13
     },
@@ -283,7 +288,7 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "1ejicho",
       "Name": "Con Artist",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 100,
       "UsersEstimate": 13
     },
@@ -291,7 +296,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "1ejicho",
       "Name": "I See Dead People",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 100,
       "UsersEstimate": 14
     },
@@ -356,14 +361,14 @@
     {
       "ID": "1ejicho",
       "IsBase": true,
-      "Progressed": 50,
+      "Progressed": 51,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-08-03T14:06:33.1094909+00:00",
+  "LastChanged_Achievements": "2023-08-03T15:07:55.047765+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:57.4966989+00:00",
-  "LastUpdate_Ratings": "2023-08-03T14:00:18.4876023+00:00",
-  "LastUpdate_Achievements": "2023-08-03T14:06:33.1095006+00:00"
+  "LastUpdate_Ratings": "2023-08-03T15:01:32.3424435+00:00",
+  "LastUpdate_Achievements": "2023-08-03T15:07:55.047781+00:00"
 }

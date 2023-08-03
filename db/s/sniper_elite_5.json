@@ -5838,9 +5838,9 @@
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 136
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6197,8 +6197,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-01T09:57:21.2845993+00:00",
-  "LastChanged_Achievements": "2023-08-03T14:05:26.9010848+00:00",
+  "LastChanged_Achievements": "2023-08-03T15:06:34.5651043+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:23.0951004+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:57:25.7496251+00:00",
-  "LastUpdate_Achievements": "2023-08-03T14:05:26.9011615+00:00"
+  "LastUpdate_Ratings": "2023-08-03T14:57:48.9895921+00:00",
+  "LastUpdate_Achievements": "2023-08-03T15:06:34.5652939+00:00"
 }

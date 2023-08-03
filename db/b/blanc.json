@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2437,
+  "EOS_Progressed": 2440,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -2308,6 +2308,11 @@
       "Time": "2023-08-03T14:03:45.2232841+00:00",
       "NumProgressed": 2437,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-03T15:04:57.3290333+00:00",
+      "NumProgressed": 2440,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2391,7 +2396,7 @@
       "Name": "Stronger together",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "THE_END",
@@ -2407,7 +2412,7 @@
       "Name": "Transmission",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -2422,7 +2427,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2437,
+      "Progressed": 2440,
       "Completed": 6
     }
   ],
@@ -2430,8 +2435,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-03T14:03:45.2232837+00:00",
+  "LastChanged_Achievements": "2023-08-03T15:04:57.3290326+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:06.4701918+00:00",
-  "LastUpdate_Ratings": "2023-08-03T14:00:34.1705035+00:00",
-  "LastUpdate_Achievements": "2023-08-03T14:03:45.2233028+00:00"
+  "LastUpdate_Ratings": "2023-08-03T15:01:45.1227491+00:00",
+  "LastUpdate_Achievements": "2023-08-03T15:04:57.3290762+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
-  "Ranking_EOS_Progress": 242,
+  "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 104,
@@ -1202,9 +1202,9 @@
       "ID": "scoreminrankrv1",
       "SetID": "40n95i5",
       "Name": "Welcome to the Garage",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "scoreminrankrv2",
@@ -1227,8 +1227,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-08-03T14:03:34.5207731+00:00",
+  "LastChanged_Achievements": "2023-08-03T15:04:44.7674213+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:37.5183891+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:59:54.9343754+00:00",
-  "LastUpdate_Achievements": "2023-08-03T14:03:34.5207875+00:00"
+  "LastUpdate_Ratings": "2023-08-03T15:01:00.1481478+00:00",
+  "LastUpdate_Achievements": "2023-08-03T15:04:44.7674406+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "f7d5c4e850874d2c9fa043e9516a7a49",
   "Name": "Twin Mirror",
   "ProductSlug": "twin-mirror",
-  "Ranking_Rating": 813,
+  "Ranking_Rating": 818,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-12-01T14:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.26,
+  "Rating": 4.25,
   "NumberOfRatings": 39,
   "RatingHistory": [
     {
@@ -140,6 +140,12 @@
       "Rating": 4.26,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-03T15:03:11.3861869+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -157,8 +163,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:33.1438666+00:00",
-  "LastChanged": "2023-03-31T05:57:27.0616364+00:00",
+  "LastChanged": "2023-08-03T15:03:11.3861867+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:12.1515391+00:00",
-  "LastUpdate_Ratings": "2023-08-03T14:01:37.069595+00:00",
-  "LastUpdate_Achievements": "2023-08-03T14:02:18.9490434+00:00"
+  "LastUpdate_Ratings": "2023-08-03T15:03:11.3861878+00:00",
+  "LastUpdate_Achievements": "2023-08-03T15:03:50.3439822+00:00"
 }

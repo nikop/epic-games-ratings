@@ -10,7 +10,7 @@
 | Who's A Good Boy | 70.00% | ~120 |
 | Power Up | 70.00% | ~120 |
 | Thick Skin | 68.00% | ~117 |
-| Math Wizard | 65.00% | ~112 |
+| Math Wizard | 66.00% | ~114 |
 | Destroy Erase Improve | 65.00% | ~112 |
 | Power Overload | 62.00% | ~107 |
 | Quite A Snack | 59.00% | ~101 |
@@ -26,10 +26,10 @@
 | Mutant And Proud | 37.00% | ~64 |
 | The Emperor's New Clothes | 32.00% | ~55 |
 | Godlike Power | 30.00% | ~52 |
+| Happy Little Home | 30.00% | ~52 |
 | Final Evolution | 30.00% | ~52 |
 | You Shall Not Pass | 29.00% | ~50 |
 | Undying Skin | 29.00% | ~50 |
-| Happy Little Home | 29.00% | ~50 |
 | Animal Lover | 28.00% | ~48 |
 | Fight Me! | 28.00% | ~48 |
 | Mommy's Very Angry | 27.00% | ~46 |

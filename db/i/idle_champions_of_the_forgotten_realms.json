@@ -5512,9 +5512,9 @@
       "Count": 3338
     }
   ],
-  "EOS_Progressed": 218197,
+  "EOS_Progressed": 218220,
   "EOS_Completed": 2147,
-  "EOS_NewPlayers": 2223,
+  "EOS_NewPlayers": 2226,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16837,6 +16837,11 @@
       "Time": "2023-08-03T14:01:55.9606433+00:00",
       "NumProgressed": 218197,
       "NumCompleted": 2147
+    },
+    {
+      "Time": "2023-08-03T15:03:35.442892+00:00",
+      "NumProgressed": 218220,
+      "NumCompleted": 2147
     }
   ],
   "TotalAchievements": 512,
@@ -16848,7 +16853,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8728
+      "UsersEstimate": 8729
     },
     {
       "ID": "objective_completed_10",
@@ -17216,7 +17221,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6546
+      "UsersEstimate": 6547
     },
     {
       "ID": "objective_completed_110",
@@ -17224,7 +17229,7 @@
       "Name": "Wet Feet",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "objective_completed_1100",
@@ -20943,21 +20948,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184471,
+      "Progressed": 184494,
       "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218197,
+      "Progressed": 218220,
       "Completed": 2147
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-03T08:59:34.5945863+00:00",
-  "LastChanged_Achievements": "2023-08-03T14:01:55.9606426+00:00",
+  "LastChanged_Achievements": "2023-08-03T15:03:35.4428913+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:59:07.3964965+00:00",
-  "LastUpdate_Achievements": "2023-08-03T14:01:55.9630017+00:00"
+  "LastUpdate_Ratings": "2023-08-03T14:59:57.954389+00:00",
+  "LastUpdate_Achievements": "2023-08-03T15:03:35.4466059+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_Rating": 746,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
-  "Ranking_EOS_Progress": 223,
+  "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 104,
@@ -1458,9 +1458,9 @@
       "ID": "rob-village",
       "SetID": "bed33dd",
       "Name": "Bite the Blow",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 119
     },
     {
       "ID": "sell-variety",
@@ -1514,8 +1514,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-08-03T14:02:30.7246087+00:00",
+  "LastChanged_Achievements": "2023-08-03T15:04:04.2995442+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:06.1742041+00:00",
-  "LastUpdate_Ratings": "2023-08-03T14:01:31.994359+00:00",
-  "LastUpdate_Achievements": "2023-08-03T14:02:30.7246241+00:00"
+  "LastUpdate_Ratings": "2023-08-03T15:03:01.7575688+00:00",
+  "LastUpdate_Achievements": "2023-08-03T15:04:04.299603+00:00"
 }

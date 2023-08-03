@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1752,
+  "EOS_Progressed": 1753,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4006,6 +4006,11 @@
       "Time": "2023-08-03T13:11:49.4159432+00:00",
       "NumProgressed": 1752,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T15:05:57.0249447+00:00",
+      "NumProgressed": 1753,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -4033,7 +4038,7 @@
       "Name": "Trailblazer",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "A03",
@@ -4097,7 +4102,7 @@
       "Name": "From X to Y",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "A11",
@@ -4113,7 +4118,7 @@
       "Name": "Departure",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "A13",
@@ -4129,7 +4134,7 @@
       "Name": "A new Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "A15",
@@ -4145,7 +4150,7 @@
       "Name": "Traffic Jam",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "A17",
@@ -4177,7 +4182,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "A21",
@@ -4241,7 +4246,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "A29",
@@ -4265,7 +4270,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "A32",
@@ -4289,7 +4294,7 @@
       "Name": "Producer",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "A35",
@@ -4305,7 +4310,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "A37",
@@ -4313,7 +4318,7 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "A38",
@@ -4337,7 +4342,7 @@
       "Name": "Mind the Gap",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "A41",
@@ -4369,7 +4374,7 @@
       "Name": "Breaking Ground",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "A45",
@@ -4385,7 +4390,7 @@
       "Name": "Mystery Tour",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "A47",
@@ -4456,7 +4461,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1752,
+      "Progressed": 1753,
       "Completed": 0
     }
   ],
@@ -4464,8 +4469,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-31T01:57:43.9842724+00:00",
-  "LastChanged_Achievements": "2023-08-03T14:04:44.7819846+00:00",
+  "LastChanged_Achievements": "2023-08-03T15:05:57.0249441+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:59.7965927+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:59:03.6685478+00:00",
-  "LastUpdate_Achievements": "2023-08-03T14:04:44.7820402+00:00"
+  "LastUpdate_Ratings": "2023-08-03T14:59:55.2884553+00:00",
+  "LastUpdate_Achievements": "2023-08-03T15:05:57.02507+00:00"
 }

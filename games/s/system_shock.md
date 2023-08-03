@@ -1,12 +1,14 @@
 # System Shock
 [Store](https://store.epicgames.com/en-US/p/system-shock)  
 [View Rawdata](../../db/s/system_shock.json)  
-Rating: 4.62 (Ranked 351)  
+Rating: 4.62 (Ranked 350)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| En Garde! | 50.00% | ~1 |
+| En Garde! | 100.00% | ~2 |
+| Déjà Vu | 50.00% | ~1 |
 | Supersleuth | 50.00% | ~1 |
+| Somebody Set Up Us The Bomb | 50.00% | ~1 |
 | Shields Up! | 0.00% | ~0 |
 | Load ‘em Up! | 0.00% | ~0 |
 | I’ll See You Again, Hacker | 0.00% | ~0 |
@@ -20,7 +22,6 @@ Rating: 4.62 (Ranked 351)
 | Look At You, Snacker | 0.00% | ~0 |
 | Get Ahead | 0.00% | ~0 |
 | I’ll Be Back | 0.00% | ~0 |
-| Déjà Vu | 0.00% | ~0 |
 | Edward DIEgo | 0.00% | ~0 |
 | It’s Over. | 0.00% | ~0 |
 | No Reception | 0.00% | ~0 |
@@ -29,7 +30,6 @@ Rating: 4.62 (Ranked 351)
 | Override Superposition | 0.00% | ~0 |
 | Head Hunter | 0.00% | ~0 |
 | In the Not Too Distant Future | 0.00% | ~0 |
-| Somebody Set Up Us The Bomb | 0.00% | ~0 |
 | Remote Control | 0.00% | ~0 |
 | The Key To Vector Sigma | 0.00% | ~0 |
 | Not Even My Final Form | 0.00% | ~0 |
@@ -52,7 +52,7 @@ Rating: 4.62 (Ranked 351)
 | Enjoy Your Purchase | 0.00% | ~0 |
 | Off The Grid | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 464)  
+Progressed: 2 (Ranked 465)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |

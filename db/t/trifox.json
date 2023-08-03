@@ -4,7 +4,7 @@
   "ProductSlug": "trifox-b361b7",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -109,9 +109,9 @@
       "ID": "ACH_COINSCORECOLLECTED_LARGE",
       "SetID": "cfld5bl",
       "Name": "Rich",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_COINSCORECOLLECTED_MEDIUM",
@@ -478,8 +478,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-08-03T14:05:58.901999+00:00",
+  "LastChanged_Achievements": "2023-08-03T15:07:13.897462+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:55.7130275+00:00",
-  "LastUpdate_Ratings": "2023-08-03T14:00:16.2682111+00:00",
-  "LastUpdate_Achievements": "2023-08-03T14:05:58.9020286+00:00"
+  "LastUpdate_Ratings": "2023-08-03T15:01:29.4804829+00:00",
+  "LastUpdate_Achievements": "2023-08-03T15:07:13.8975296+00:00"
 }

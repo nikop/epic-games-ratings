@@ -2,12 +2,12 @@
   "ID": "e49aaa31c1324e398e0b1029a0c6d390",
   "Name": "System Shock",
   "ProductSlug": "system-shock",
-  "Ranking_Rating": 351,
+  "Ranking_Rating": 350,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
-  "Ranking_EOS_Progress": 464,
+  "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-30T15:00:00+00:00",
@@ -196,9 +196,9 @@
       "ID": "CollectRapier",
       "SetID": "bf8o3co",
       "Name": "En Garde!",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CollectWrench",
@@ -260,9 +260,9 @@
       "ID": "DefeatDiegoV2",
       "SetID": "bf8o3co",
       "Name": "D\u00E9j\u00E0 Vu",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DefeatDiegoV3",
@@ -340,9 +340,9 @@
       "ID": "FragGrenadeMultiKill",
       "SetID": "bf8o3co",
       "Name": "Somebody Set Up Us The Bomb",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HackEnemies",
@@ -525,8 +525,8 @@
   "FirstSeenRating": "2023-06-14T13:58:13.4205723+00:00",
   "FirstSeenAchievements": "2023-05-26T00:04:35.1577542+00:00",
   "LastChanged": "2023-07-29T03:59:04.3574608+00:00",
-  "LastChanged_Achievements": "2023-08-03T14:07:34.6915312+00:00",
+  "LastChanged_Achievements": "2023-08-03T15:09:16.9060738+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.1554394+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:58:47.9660486+00:00",
-  "LastUpdate_Achievements": "2023-08-03T14:07:34.6915612+00:00"
+  "LastUpdate_Ratings": "2023-08-03T14:59:35.211136+00:00",
+  "LastUpdate_Achievements": "2023-08-03T15:09:16.9061407+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 223,
+  "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 496,
+  "EOS_Progressed": 497,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -1115,6 +1115,11 @@
       "Time": "2023-08-02T23:07:51.7946775+00:00",
       "NumProgressed": 496,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-03T15:09:19.5856979+00:00",
+      "NumProgressed": 497,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1190,7 +1195,7 @@
       "Name": "The Traitor",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Chapter6",
@@ -1198,7 +1203,7 @@
       "Name": "The Spider",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Chapter7",
@@ -1413,14 +1418,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 496,
+      "Progressed": 497,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-08-03T14:07:37.4186315+00:00",
+  "LastChanged_Achievements": "2023-08-03T15:09:19.5856969+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:41.3820376+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:58:41.5946559+00:00",
-  "LastUpdate_Achievements": "2023-08-03T14:07:37.4186576+00:00"
+  "LastUpdate_Ratings": "2023-08-03T14:59:28.2951885+00:00",
+  "LastUpdate_Achievements": "2023-08-03T15:09:19.5857573+00:00"
 }

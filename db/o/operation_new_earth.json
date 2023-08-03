@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 762,
+  "EOS_Progressed": 765,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2646,6 +2646,11 @@
       "Time": "2023-08-03T14:06:39.7023171+00:00",
       "NumProgressed": 762,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T15:08:13.0804413+00:00",
+      "NumProgressed": 765,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2657,7 +2662,7 @@
       "Name": "Know The Enemy",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -2665,7 +2670,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_defeat_players_10",
@@ -2681,7 +2686,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -2729,7 +2734,7 @@
       "Name": "Silver Achiever",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "objective_headquarters_10",
@@ -2745,7 +2750,7 @@
       "Name": "Moving On Up",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "objective_headquarters_20",
@@ -2761,7 +2766,7 @@
       "Name": "Facility Online",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -2777,7 +2782,7 @@
       "Name": "Sergeant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -2785,7 +2790,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -2833,7 +2838,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -2905,7 +2910,7 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -2913,7 +2918,7 @@
       "Name": "Defenses Online",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2960,14 +2965,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 762,
+      "Progressed": 765,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-03T14:06:39.7023165+00:00",
+  "LastChanged_Achievements": "2023-08-03T15:08:13.0804406+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-08-03T13:57:09.7323967+00:00",
-  "LastUpdate_Achievements": "2023-08-03T14:06:39.7023525+00:00"
+  "LastUpdate_Ratings": "2023-08-03T14:57:28.4096724+00:00",
+  "LastUpdate_Achievements": "2023-08-03T15:08:13.0805203+00:00"
 }

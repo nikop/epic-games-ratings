@@ -6,7 +6,7 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 39.00% | ~527 |
+| The Cost of Heroism | 39.00% | ~528 |
 | Me and My Familiar | 36.00% | ~487 |
 | This Too Shall Pass | 30.00% | ~406 |
 | Passing Shadow | 29.00% | ~392 |
@@ -20,8 +20,8 @@ Number of Ratings: 45  (23.09.2022)
 | Who's Counting? | 13.00% | ~176 |
 | Core Failure | 13.00% | ~176 |
 | Pyrrhic Victory | 11.00% | ~149 |
+| Echoes Die | 10.00% | ~135 |
 | Thematic Divergence | 9.00% | ~122 |
-| Echoes Die | 9.00% | ~122 |
 | Chain Reaction | 8.00% | ~108 |
 | Everfading | 8.00% | ~108 |
 | Let Me Get My Chisel | 7.00% | ~95 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.80% | ~11 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,352 (Ranked 182)  
+Progressed: 1,353 (Ranked 182)  
 Completed: 5 (0.37%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 5 (0.37%) (Ranked 149)
 | 2023-07-30 | 1,344 | 5 |
 | 2023-07-31 | 1,347 | 5 |
 | 2023-08-01 | 1,348 | 5 |
-| 2023-08-03 | 1,352 | 5 |
+| 2023-08-03 | 1,353 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 465)  
 Sum: 28 (Ranked 477)  

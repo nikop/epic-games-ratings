@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -474,9 +474,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19376,
+  "EOS_Progressed": 19377,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4659,6 +4659,11 @@
       "Time": "2023-08-03T14:07:37.131631+00:00",
       "NumProgressed": 19376,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-08-03T15:09:19.2828809+00:00",
+      "NumProgressed": 19377,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 37,
@@ -4702,7 +4707,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 16082
+      "UsersEstimate": 16083
     },
     {
       "ID": "ach.060.goingdistance",
@@ -4710,7 +4715,7 @@
       "Name": "Going the Distance",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 10463
+      "UsersEstimate": 10464
     },
     {
       "ID": "ach.070.8kenough",
@@ -4718,7 +4723,7 @@
       "Name": "8K is Enough for Everyone",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4456
+      "UsersEstimate": 4457
     },
     {
       "ID": "ach.080.eraser",
@@ -4726,7 +4731,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13563
+      "UsersEstimate": 13564
     },
     {
       "ID": "ach.090.perfectionist",
@@ -4734,7 +4739,7 @@
       "Name": "Perfectionist",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4456
+      "UsersEstimate": 4457
     },
     {
       "ID": "ach.100.indecisive",
@@ -4766,7 +4771,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 17438
+      "UsersEstimate": 17439
     },
     {
       "ID": "ach.140.legacy",
@@ -4774,7 +4779,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 18988
+      "UsersEstimate": 18989
     },
     {
       "ID": "ach.150.pocket",
@@ -4782,7 +4787,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 12594
+      "UsersEstimate": 12595
     },
     {
       "ID": "ach.160.box",
@@ -4822,7 +4827,7 @@
       "Name": "Let There be Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 6200
+      "UsersEstimate": 6201
     },
     {
       "ID": "ach.210.baron",
@@ -4862,7 +4867,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 18020
+      "UsersEstimate": 18021
     },
     {
       "ID": "ach.260.investor",
@@ -4926,7 +4931,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17632
+      "UsersEstimate": 17633
     },
     {
       "ID": "ach.340.steel",
@@ -4942,7 +4947,7 @@
       "Name": "Trains over Pipes",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4456
+      "UsersEstimate": 4457
     },
     {
       "ID": "ach.360.lightning",
@@ -4965,7 +4970,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19376,
+      "Progressed": 19377,
       "Completed": 34
     }
   ],
@@ -4973,8 +4978,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-07-28T06:00:31.3207811+00:00",
-  "LastChanged_Achievements": "2023-08-03T14:07:37.1316304+00:00",
+  "LastChanged_Achievements": "2023-08-03T15:09:19.2828803+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:04.7795229+00:00",
-  "LastUpdate_Ratings": "2023-08-03T14:00:43.3891138+00:00",
-  "LastUpdate_Achievements": "2023-08-03T14:07:37.1316725+00:00"
+  "LastUpdate_Ratings": "2023-08-03T15:01:57.2087586+00:00",
+  "LastUpdate_Achievements": "2023-08-03T15:09:19.2829592+00:00"
 }

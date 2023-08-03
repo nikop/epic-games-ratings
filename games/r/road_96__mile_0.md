@@ -8,7 +8,7 @@
 | Conspiracy Theorist | 45.00% | ~163 |
 | On the Road | 44.00% | ~159 |
 | Souvenirs | 31.00% | ~112 |
-| Welcome to the Garage | 19.00% | ~69 |
+| Welcome to the Garage | 20.00% | ~72 |
 | This is Not Heavy Metal! | 17.00% | ~62 |
 | Truthseeker | 15.00% | ~54 |
 | Partners in Crime | 10.00% | ~36 |
@@ -20,7 +20,7 @@
 | Song Harvester | 1.00% | ~4 |
 | Try Harder | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 362 (Ranked 242)  
+Progressed: 362 (Ranked 243)  
 Completed: 2 (0.55%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
