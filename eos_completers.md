@@ -78,7 +78,7 @@
 | 76 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 77 | [Lamentum](games/l/lamentum.md) | 2.57% |
 | 78 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.39% |
+| 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.38% |
 | 80 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.37% |
 | 81 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
 | 82 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
@@ -162,9 +162,9 @@
 | 159 | [Scrapnaut](games/s/scrapnaut.md) | 0.30% |
 | 161 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.29% |
 | 162 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
-| 163 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
-| 164 | [Against the Storm](games/a/against_the_storm.md) | 0.26% |
-| 164 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.26% |
+| 163 | [Against the Storm](games/a/against_the_storm.md) | 0.26% |
+| 163 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.26% |
+| 163 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
 | 166 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 166 | [Blanc](games/b/blanc.md) | 0.25% |
 | 168 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
