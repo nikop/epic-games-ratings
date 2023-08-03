@@ -35,15 +35,15 @@
 | 33 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.39% |
 | 34 | [Ravenlok](games/r/ravenlok.md) | 7.35% |
 | 35 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.03% |
-| 36 | [Scorn](games/s/scorn.md) | 6.96% |
 | 36 | [Time Loader](games/t/time_loader.md) | 6.96% |
+| 37 | [Scorn](games/s/scorn.md) | 6.95% |
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.18% |
 | 41 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.00% |
-| 42 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.56% |
-| 43 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.29% |
-| 44 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
+| 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.29% |
+| 43 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
+| 43 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.26% |
 | 45 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
 | 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.82% |
 | 47 | [JARS](games/j/jars.md) | 4.76% |
@@ -70,7 +70,7 @@
 | 68 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.89% |
 | 69 | [HordeCore](games/h/hordecore.md) | 2.87% |
 | 70 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.86% |
-| 71 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.80% |
+| 71 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.78% |
 | 72 | [Destiny 2](games/d/destiny_2.md) | 2.76% |
 | 73 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 74 | [The Bunker](games/t/the_bunker.md) | 2.70% |
