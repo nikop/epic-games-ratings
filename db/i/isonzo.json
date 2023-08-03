@@ -668,10 +668,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 262,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-08-03T13:04:56.6804325+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 263,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 262,
+  "NumberOfAwards": 263,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -709,7 +715,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game is Educational",
@@ -736,9 +742,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6565,
+  "EOS_Progressed": 6566,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4131,6 +4137,11 @@
       "Time": "2023-08-03T12:06:43.2373088+00:00",
       "NumProgressed": 6565,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-03T13:13:25.6504047+00:00",
+      "NumProgressed": 6566,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4190,7 +4201,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2363
+      "UsersEstimate": 2364
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -4254,7 +4265,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -4278,7 +4289,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -4294,7 +4305,7 @@
       "Name": "Machiavelli",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -4318,7 +4329,7 @@
       "Name": "Millenial",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -4382,7 +4393,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -4486,7 +4497,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -4494,23 +4505,23 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3479
+      "UsersEstimate": 3480
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6565,
+      "Progressed": 6566,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2023-08-01T20:57:49.8563487+00:00",
-  "LastChanged_Achievements": "2023-08-03T12:06:43.2373081+00:00",
+  "LastChanged": "2023-08-03T13:04:56.6804323+00:00",
+  "LastChanged_Achievements": "2023-08-03T13:13:25.6504037+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:14.0482826+00:00",
-  "LastUpdate_Ratings": "2023-08-03T11:58:42.7159662+00:00",
-  "LastUpdate_Achievements": "2023-08-03T12:06:43.2373772+00:00"
+  "LastUpdate_Ratings": "2023-08-03T13:04:56.6804329+00:00",
+  "LastUpdate_Achievements": "2023-08-03T13:13:25.650513+00:00"
 }

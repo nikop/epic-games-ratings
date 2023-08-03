@@ -5,32 +5,32 @@ Rating: 4.60 (Ranked 391)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,034 |
-| Mainframe Hacker | 23.00% | ~3,859 |
-| The Spy who eliminated me | 23.00% | ~3,859 |
-| Tomorrow Never Dyes | 22.00% | ~3,691 |
-| Never Say Loser Again | 19.00% | ~3,188 |
-| From the Vault with Love | 18.00% | ~3,020 |
-| Tailor-Made | 18.00% | ~3,020 |
-| For your Eyes only | 18.00% | ~3,020 |
-| Assistant Accountant | 17.00% | ~2,852 |
-| Fully Decked Out | 17.00% | ~2,852 |
-| You Only Live Twice | 16.00% | ~2,685 |
-| A view to Win | 13.00% | ~2,181 |
-| The Living Portrait | 12.00% | ~2,013 |
-| Private Collection | 12.00% | ~2,013 |
-| Killer Looks | 12.00% | ~2,013 |
-| Hostile Takeover | 12.00% | ~2,013 |
-| Smells Like Trouble | 12.00% | ~2,013 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,036 |
+| Mainframe Hacker | 23.00% | ~3,861 |
+| The Spy who eliminated me | 23.00% | ~3,861 |
+| Tomorrow Never Dyes | 22.00% | ~3,693 |
+| Never Say Loser Again | 19.00% | ~3,189 |
+| From the Vault with Love | 18.00% | ~3,021 |
+| Tailor-Made | 18.00% | ~3,021 |
+| For your Eyes only | 18.00% | ~3,021 |
+| Assistant Accountant | 17.00% | ~2,854 |
+| Fully Decked Out | 17.00% | ~2,854 |
+| You Only Live Twice | 16.00% | ~2,686 |
+| A view to Win | 13.00% | ~2,182 |
+| The Living Portrait | 12.00% | ~2,014 |
+| Private Collection | 12.00% | ~2,014 |
+| Killer Looks | 12.00% | ~2,014 |
+| Hostile Takeover | 12.00% | ~2,014 |
+| Smells Like Trouble | 12.00% | ~2,014 |
 | Keycards Royale | 11.00% | ~1,846 |
 | Dr. No Kill | 11.00% | ~1,846 |
 | My Motto, My Creed | 11.00% | ~1,846 |
-| In It to Win It | 10.00% | ~1,678 |
+| In It to Win It | 10.00% | ~1,679 |
 | Security Supervisor | 6.00% | ~1,007 |
 | License to Thrill | 5.00% | ~839 |
 | Social of Solace | 4.00% | ~671 |
-| Live and let lie | 3.00% | ~503 |
-| Safe Withdrawal | 3.00% | ~503 |
+| Live and let lie | 3.00% | ~504 |
+| Safe Withdrawal | 3.00% | ~504 |
 | Call Me Maybe | 2.00% | ~336 |
 | PHD in VIP | 2.00% | ~336 |
 | Branch Manager | 1.00% | ~168 |
@@ -42,7 +42,7 @@ Rating: 4.60 (Ranked 391)
 | Extraction Confusion | 0.20% | ~34 |
 | Spyfall | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,779 (Ranked 110)  
+Progressed: 16,786 (Ranked 110)  
 Completed: 1 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 1 (0.01%) (Ranked 234)
 | 2023-07-31 | 16,437 | 1 |
 | 2023-08-01 | 16,594 | 1 |
 | 2023-08-02 | 16,739 | 1 |
-| 2023-08-03 | 16,779 | 1 |
+| 2023-08-03 | 16,786 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

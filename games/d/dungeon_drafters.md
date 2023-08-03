@@ -7,8 +7,8 @@
 | Might be useful… | 38.00% | ~31 |
 | Treasure Hunting | 37.00% | ~30 |
 | Friend! | 32.00% | ~26 |
+| Shine! | 29.00% | ~24 |
 | Uncut Gem | 28.00% | ~23 |
-| Shine! | 28.00% | ~23 |
 | Setting Off | 26.00% | ~21 |
 | Clear as Water | 23.00% | ~19 |
 | Riddlesolver | 21.00% | ~17 |

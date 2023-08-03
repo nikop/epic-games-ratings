@@ -6,17 +6,17 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~405,807 |
-| Haikyo | 80.00% | ~341,732 |
-| Good as New | 72.00% | ~307,559 |
-| Into the Woods | 69.00% | ~294,744 |
-| Hunter in the Forest | 60.00% | ~256,299 |
-| Rot Commander | 60.00% | ~256,299 |
-| Taro's Fear | 56.00% | ~239,212 |
+| Found a Friend | 95.00% | ~405,808 |
+| Haikyo | 80.00% | ~341,733 |
+| Good as New | 72.00% | ~307,560 |
+| Into the Woods | 69.00% | ~294,745 |
+| Hunter in the Forest | 60.00% | ~256,300 |
+| Rot Commander | 60.00% | ~256,300 |
+| Taro's Fear | 56.00% | ~239,213 |
 | Between the Eyes | 46.00% | ~196,496 |
-| Taro's Love | 45.00% | ~192,224 |
+| Taro's Love | 45.00% | ~192,225 |
 | Taro's Regret | 43.00% | ~183,681 |
-| Spirit Guide | 42.00% | ~179,409 |
+| Spirit Guide | 42.00% | ~179,410 |
 | Harness Your Power | 38.00% | ~162,323 |
 | The Open Range | 37.00% | ~158,051 |
 | Adira's Love | 34.00% | ~145,236 |
@@ -32,8 +32,8 @@ Number of Ratings: 3,313  (23.09.2022)
 | A Leader Walks Alone | 26.00% | ~111,063 |
 | Bow Master | 26.00% | ~111,063 |
 | The Lonely Path | 26.00% | ~111,063 |
-| Restore Balance | 25.00% | ~106,791 |
-| Say Cheese | 16.00% | ~68,346 |
+| Restore Balance | 25.00% | ~106,792 |
+| Say Cheese | 16.00% | ~68,347 |
 | Skillful Spirit Guide | 15.00% | ~64,075 |
 | Piercing Blow | 14.00% | ~59,803 |
 | Zen Master | 8.00% | ~34,173 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,844 |
 | Master Spirit Guide | 0.30% | ~1,281 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427,165 (Ranked 39)  
+Progressed: 427,166 (Ranked 39)  
 Completed: 524 (0.12%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 524 (0.12%) (Ranked 189)
 | 2023-07-31 | 427,117 | 524 |
 | 2023-08-01 | 427,139 | 524 |
 | 2023-08-02 | 427,158 | 524 |
-| 2023-08-03 | 427,165 | 524 |
+| 2023-08-03 | 427,166 | 524 |
 ## Awards
 Max (Great Boss Battles): 1,311  (Ranked 129)  
 Sum: 1,687 (Ranked 207)  

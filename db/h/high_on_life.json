@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23775,
+  "EOS_Progressed": 23776,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 2,
@@ -3723,6 +3723,11 @@
       "Time": "2023-08-03T12:08:34.0256084+00:00",
       "NumProgressed": 23775,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-08-03T13:14:51.5191735+00:00",
+      "NumProgressed": 23776,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 32,
@@ -3750,7 +3755,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18307
+      "UsersEstimate": 18308
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -3758,7 +3763,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10223
+      "UsersEstimate": 10224
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -3798,7 +3803,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 18069
+      "UsersEstimate": 18070
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -3838,7 +3843,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19733
+      "UsersEstimate": 19734
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -3862,7 +3867,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 14027
+      "UsersEstimate": 14028
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -3886,7 +3891,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 5230
+      "UsersEstimate": 5231
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -3982,29 +3987,29 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5230
+      "UsersEstimate": 5231
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23775,
+      "Progressed": 23776,
       "Completed": 11
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1068,
-      "Completed": 1068
+      "Progressed": 1069,
+      "Completed": 1069
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-01T02:03:53.4121642+00:00",
-  "LastChanged_Achievements": "2023-08-03T12:08:34.0256079+00:00",
+  "LastChanged_Achievements": "2023-08-03T13:14:51.519173+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.7380308+00:00",
-  "LastUpdate_Ratings": "2023-08-03T11:59:21.7628166+00:00",
-  "LastUpdate_Achievements": "2023-08-03T12:08:34.0256697+00:00"
+  "LastUpdate_Ratings": "2023-08-03T13:05:33.2774796+00:00",
+  "LastUpdate_Achievements": "2023-08-03T13:14:51.5192545+00:00"
 }

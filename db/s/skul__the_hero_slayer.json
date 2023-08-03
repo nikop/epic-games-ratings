@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -938,7 +938,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 8083,
+  "EOS_Progressed": 8084,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
@@ -4153,6 +4153,11 @@
       "Time": "2023-08-03T05:06:46.4530253+00:00",
       "NumProgressed": 8083,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-08-03T13:13:13.3130516+00:00",
+      "NumProgressed": 8084,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -4188,7 +4193,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5092
+      "UsersEstimate": 5093
     },
     {
       "ID": "DemonCastleRestoration",
@@ -4212,7 +4217,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3233
+      "UsersEstimate": 3234
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -4236,7 +4241,7 @@
       "Name": "The God of Battle",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "GoHome",
@@ -4244,7 +4249,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "HeroSlayer",
@@ -4252,7 +4257,7 @@
       "Name": "The Hero Killer",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "LeoniasFall",
@@ -4276,7 +4281,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3233
+      "UsersEstimate": 3234
     },
     {
       "ID": "RookieWelcome",
@@ -4292,7 +4297,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5092
+      "UsersEstimate": 5093
     },
     {
       "ID": "SavedElderEnt_2",
@@ -4300,7 +4305,7 @@
       "Name": "Quick Movements",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 2748
+      "UsersEstimate": 2749
     },
     {
       "ID": "SkeletonKing",
@@ -4316,7 +4321,7 @@
       "Name": "Inventory Management",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2748
+      "UsersEstimate": 2749
     },
     {
       "ID": "TheLegendBegins",
@@ -4324,7 +4329,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7517
+      "UsersEstimate": 7518
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4340,7 +4345,7 @@
       "Name": "Master of Speed",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "WhattoBuy",
@@ -4348,22 +4353,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6790
+      "UsersEstimate": 6791
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8083,
+      "Progressed": 8084,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-03T01:52:48.9086548+00:00",
-  "LastChanged_Achievements": "2023-08-03T12:06:34.5233894+00:00",
+  "LastChanged_Achievements": "2023-08-03T13:13:13.313051+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:57.8506775+00:00",
-  "LastUpdate_Ratings": "2023-08-03T12:01:14.2520431+00:00",
-  "LastUpdate_Achievements": "2023-08-03T12:06:34.5234392+00:00"
+  "LastUpdate_Ratings": "2023-08-03T13:07:13.2063791+00:00",
+  "LastUpdate_Achievements": "2023-08-03T13:13:13.3131169+00:00"
 }

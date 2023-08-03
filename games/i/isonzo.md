@@ -8,14 +8,14 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Peak Performance | 55.00% | ~3,611 |
 | Tutti Eroi! | 55.00% | ~3,611 |
-| You Shall Not Pass | 53.00% | ~3,479 |
+| You Shall Not Pass | 53.00% | ~3,480 |
 | Avanti Savoia! | 47.00% | ~3,086 |
 | Mamma Mia! | 37.00% | ~2,429 |
-| Conrad von Hotzensocks | 36.00% | ~2,363 |
-| Gabriele D'Annunzio | 33.00% | ~2,166 |
+| Conrad von Hotzensocks | 36.00% | ~2,364 |
+| Gabriele D'Annunzio | 33.00% | ~2,167 |
 | Silver Lining | 29.00% | ~1,904 |
 | Aurelio Baruzzi | 23.00% | ~1,510 |
-| Veni Vidi Vici | 22.00% | ~1,444 |
+| Veni Vidi Vici | 22.00% | ~1,445 |
 | Decimation | 21.00% | ~1,379 |
 | Donatello | 21.00% | ~1,379 |
 | Insubordination | 20.00% | ~1,313 |
@@ -26,13 +26,13 @@ Number of Ratings: 98  (23.09.2022)
 | Luigi Cadorna | 14.00% | ~919 |
 | Thus With A Kiss | 14.00% | ~919 |
 | Uomo Universale | 14.00% | ~919 |
-| Machiavelli | 13.00% | ~853 |
-| Shaken, Not Stirred | 13.00% | ~853 |
+| Machiavelli | 13.00% | ~854 |
+| Shaken, Not Stirred | 13.00% | ~854 |
 | Die Bosniaken Kommen! | 12.00% | ~788 |
 | Dante's Inferno | 11.00% | ~722 |
 | The Devil's Paintbrush | 11.00% | ~722 |
-| I Have the High Ground | 10.00% | ~656 |
-| Millenial | 10.00% | ~656 |
+| I Have the High Ground | 10.00% | ~657 |
+| Millenial | 10.00% | ~657 |
 | The Show Must Go On | 9.00% | ~591 |
 | Tosca | 9.00% | ~591 |
 | 12th Bottle of the Isonzo | 6.00% | ~394 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~26 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,565 (Ranked 133)  
+Progressed: 6,566 (Ranked 133)  
 Completed: 8 (0.12%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,16 +152,16 @@ Completed: 8 (0.12%) (Ranked 189)
 | 2023-07-31 | 6,529 | 8 |
 | 2023-08-01 | 6,543 | 8 |
 | 2023-08-02 | 6,560 | 8 |
-| 2023-08-03 | 6,565 | 8 |
+| 2023-08-03 | 6,566 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 436)  
-Sum: 262 (Ranked 349)  
+Sum: 263 (Ranked 349)  
 Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |
 | This game is Extremely Fun | 32 |
-| This game has Amazing Characters | 30 |
+| This game has Amazing Characters | 31 |
 | This game has Diverse Characters | 29 |
 | This game has Realistic Visuals | 29 |
 | This game has Quickly Understood Controls | 28 |
@@ -268,3 +268,4 @@ Diff (max vs sum): 87
 | 2023-07-29 | 4.56 | - | 35 | 260 |
 | 2023-07-30 | 4.56 | - | 35 | 261 |
 | 2023-08-01 | 4.56 | - | 35 | 262 |
+| 2023-08-03 | 4.56 | - | 35 | 263 |

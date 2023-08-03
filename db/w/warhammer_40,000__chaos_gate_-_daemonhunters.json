@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -660,9 +660,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3115,
+  "EOS_Progressed": 3116,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2880,6 +2880,11 @@
       "Time": "2023-08-03T08:05:23.2795647+00:00",
       "NumProgressed": 3115,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T13:12:08.013804+00:00",
+      "NumProgressed": 3116,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3249,9 +3254,9 @@
       "ID": "MissionVictory_WoundedKnights",
       "SetID": "3jha1np",
       "Name": "Just a Scratch",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "NexusCompleted",
@@ -3434,21 +3439,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3115,
+      "Progressed": 3116,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3115,
+      "Progressed": 3116,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-03T04:00:16.6556032+00:00",
-  "LastChanged_Achievements": "2023-08-03T12:05:27.2046859+00:00",
+  "LastChanged_Achievements": "2023-08-03T13:12:08.0138036+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:36.2653351+00:00",
-  "LastUpdate_Ratings": "2023-08-03T12:00:33.6603486+00:00",
-  "LastUpdate_Achievements": "2023-08-03T12:05:27.2047821+00:00"
+  "LastUpdate_Ratings": "2023-08-03T13:06:42.2977635+00:00",
+  "LastUpdate_Achievements": "2023-08-03T13:12:08.0138965+00:00"
 }

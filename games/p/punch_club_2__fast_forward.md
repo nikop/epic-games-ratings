@@ -5,41 +5,41 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 87.00% | ~188 |
-| Your first fight | 85.00% | ~184 |
-| Good Person Chip | 84.00% | ~181 |
-| First winning | 83.00% | ~179 |
+| Your first fight | 86.00% | ~186 |
+| Good Person Chip | 85.00% | ~184 |
+| First winning | 84.00% | ~181 |
 | Your first job | 83.00% | ~179 |
-| First defeat | 78.00% | ~168 |
-| Old movies enjoyer | 78.00% | ~168 |
+| First defeat | 79.00% | ~171 |
+| Old movies enjoyer | 79.00% | ~171 |
+| Depressed visitor | 77.00% | ~166 |
 | Fitness professional | 76.00% | ~164 |
-| Depressed visitor | 76.00% | ~164 |
+| Employee of the week | 76.00% | ~164 |
 | Neurotrainer – power gainer! | 75.00% | ~162 |
-| Employee of the week | 75.00% | ~162 |
-| Your own amateur gym | 73.00% | ~158 |
+| Your own amateur gym | 74.00% | ~160 |
 | Run K, run! | 70.00% | ~151 |
-| Hello, world! | 67.00% | ~145 |
+| Hello, world! | 68.00% | ~147 |
+| Fighting is cool | 66.00% | ~143 |
 | No bullying more | 66.00% | ~143 |
-| Fighting is cool | 65.00% | ~140 |
 | Pal of your father? | 63.00% | ~136 |
 | Employee of the month | 62.00% | ~134 |
-| Spirit of the past | 60.00% | ~130 |
+| Spirit of the past | 61.00% | ~132 |
 | Law student | 59.00% | ~127 |
-| Intriguing candies | 57.00% | ~123 |
-| Little hacker | 56.00% | ~121 |
+| Intriguing candies | 58.00% | ~125 |
+| Little hacker | 57.00% | ~123 |
 | Workout professional | 55.00% | ~119 |
 | It's good to be alive | 55.00% | ~119 |
+| Champion – starter pack | 53.00% | ~114 |
 | Own four walls | 53.00% | ~114 |
 | Employee of the year | 53.00% | ~114 |
 | Handyman | 52.00% | ~112 |
-| Champion – starter pack | 52.00% | ~112 |
 | Fight for life | 51.00% | ~110 |
 | Legal courier | 49.00% | ~106 |
 | Extreme neuropower! | 48.00% | ~104 |
 | Escaped from a big trouble | 47.00% | ~102 |
 | Now you are worthy | 45.00% | ~97 |
 | No blades in the gym | 44.00% | ~95 |
+| Your own way | 44.00% | ~95 |
 | Guiding on the right path | 43.00% | ~93 |
-| Your own way | 43.00% | ~93 |
 | Mysterious voice | 42.00% | ~91 |
 | Fight is life | 41.00% | ~89 |
 | Get out of my apartment! | 37.00% | ~80 |

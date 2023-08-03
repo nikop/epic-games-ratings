@@ -11,15 +11,15 @@
 | "Swoosh" | 63.00% | ~50 |
 | The light at the end of the tunnel | 61.00% | ~49 |
 | Splash! | 56.00% | ~45 |
-| Masochistic | 50.00% | ~40 |
+| Masochistic | 51.00% | ~41 |
 | Soft skin | 48.00% | ~38 |
 | Squid game | 38.00% | ~30 |
 | Sensitive soul | 33.00% | ~26 |
-| Rock Solid | 29.00% | ~23 |
-| The beast within | 29.00% | ~23 |
-| It's getting dark | 29.00% | ~23 |
+| Rock Solid | 30.00% | ~24 |
+| The beast within | 30.00% | ~24 |
+| It's getting dark | 30.00% | ~24 |
+| Rooftop | 29.00% | ~23 |
 | Hard Rock | 29.00% | ~23 |
-| Rooftop | 28.00% | ~22 |
 | Homeless | 26.00% | ~21 |
 | Big badaboom! | 25.00% | ~20 |
 | Bookworm | 23.00% | ~18 |
@@ -28,7 +28,7 @@
 | "Ah sh*t... Here we go again!" | 19.00% | ~15 |
 | Nokron tower | 19.00% | ~15 |
 | Compulsive hoarder | 18.00% | ~14 |
-| Magnitude 5 | 16.00% | ~13 |
+| Magnitude 5 | 18.00% | ~14 |
 | GG EZ | 14.00% | ~11 |
 | Comeback | 14.00% | ~11 |
 | MayDay! MayDay! | 13.00% | ~10 |

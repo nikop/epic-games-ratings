@@ -9,13 +9,13 @@ Rating: 4.60 (Ranked 391)
 | The Mysterious Stranger | 20.00% | ~164 |
 | Rail Rat | 20.00% | ~164 |
 | Immaculate Aim | 18.00% | ~148 |
+| The Steel Shadow | 17.00% | ~139 |
 | Make Up For Lost Time | 17.00% | ~139 |
 | No, Thanks! | 17.00% | ~139 |
 | Breaking Down Barriers | 17.00% | ~139 |
 | The Prince in Heels | 17.00% | ~139 |
 | Immaculate Aim | 17.00% | ~139 |
 | The Brass Boss | 17.00% | ~139 |
-| The Steel Shadow | 16.00% | ~131 |
 | Time Flies | 16.00% | ~131 |
 | The Harder They Fall | 16.00% | ~131 |
 | The Wicked Twins | 16.00% | ~131 |

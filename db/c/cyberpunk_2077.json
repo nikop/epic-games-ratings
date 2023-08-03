@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -9839,7 +9839,7 @@
       "Count": 5478
     }
   ],
-  "EOS_Progressed": 869026,
+  "EOS_Progressed": 869031,
   "EOS_Completed": 1929,
   "EOS_NewPlayers": 1179,
   "EOS_NewCompleters": 20,
@@ -21304,6 +21304,11 @@
       "Time": "2023-08-03T12:05:13.3095992+00:00",
       "NumProgressed": 869026,
       "NumCompleted": 1929
+    },
+    {
+      "Time": "2023-08-03T13:11:47.042527+00:00",
+      "NumProgressed": 869031,
+      "NumCompleted": 1929
     }
   ],
   "TotalAchievements": 44,
@@ -21331,7 +21336,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 139044
+      "UsersEstimate": 139045
     },
     {
       "ID": "Cyberjunkie",
@@ -21339,7 +21344,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 156425
+      "UsersEstimate": 156426
     },
     {
       "ID": "Denied",
@@ -21347,7 +21352,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 338920
+      "UsersEstimate": 338922
     },
     {
       "ID": "FollowingTheRiver",
@@ -21355,7 +21360,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 112973
+      "UsersEstimate": 112974
     },
     {
       "ID": "Fortuneteller",
@@ -21363,7 +21368,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 78212
+      "UsersEstimate": 78213
     },
     {
       "ID": "Gearhead",
@@ -21387,7 +21392,7 @@
       "Name": "Gun Fu",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 130354
+      "UsersEstimate": 130355
     },
     {
       "ID": "Gunslinger",
@@ -21403,7 +21408,7 @@
       "Name": "Master Crafter",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 112973
+      "UsersEstimate": 112974
     },
     {
       "ID": "IAmMaxTac",
@@ -21435,7 +21440,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 199876
+      "UsersEstimate": 199877
     },
     {
       "ID": "MaxPain",
@@ -21443,7 +21448,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 78212
+      "UsersEstimate": 78213
     },
     {
       "ID": "MustBeTheRats",
@@ -21483,7 +21488,7 @@
       "Name": "Life of the Road",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 182495
+      "UsersEstimate": 182497
     },
     {
       "ID": "Roleplayer",
@@ -21491,7 +21496,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 243327
+      "UsersEstimate": 243329
     },
     {
       "ID": "Specialist",
@@ -21499,7 +21504,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 78212
+      "UsersEstimate": 78213
     },
     {
       "ID": "Temperance",
@@ -21531,7 +21536,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 590938
+      "UsersEstimate": 590941
     },
     {
       "ID": "TheHermit",
@@ -21539,7 +21544,7 @@
       "Name": "The Hermit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 208566
+      "UsersEstimate": 208567
     },
     {
       "ID": "TheHightPriestess",
@@ -21547,7 +21552,7 @@
       "Name": "The High Priestess",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 182495
+      "UsersEstimate": 182497
     },
     {
       "ID": "TheLovers",
@@ -21555,7 +21560,7 @@
       "Name": "The Lovers",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 295469
+      "UsersEstimate": 295471
     },
     {
       "ID": "TheStar",
@@ -21579,7 +21584,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 234637
+      "UsersEstimate": 234638
     },
     {
       "ID": "TheWorld",
@@ -21587,7 +21592,7 @@
       "Name": "The World",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 156425
+      "UsersEstimate": 156426
     },
     {
       "ID": "ThisIsPacifica",
@@ -21611,7 +21616,7 @@
       "Name": "True Soldier",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 199876
+      "UsersEstimate": 199877
     },
     {
       "ID": "TrueWarrior",
@@ -21619,7 +21624,7 @@
       "Name": "True Warrior",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 130354
+      "UsersEstimate": 130355
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -21627,7 +21632,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 104283
+      "UsersEstimate": 104284
     },
     {
       "ID": "UnderPressure",
@@ -21659,22 +21664,22 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 191186
+      "UsersEstimate": 191187
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 869026,
+      "Progressed": 869031,
       "Completed": 1929
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-08-03T10:59:58.1991156+00:00",
-  "LastChanged_Achievements": "2023-08-03T12:05:13.3095986+00:00",
+  "LastChanged_Achievements": "2023-08-03T13:11:47.0425266+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.8722173+00:00",
-  "LastUpdate_Ratings": "2023-08-03T11:59:16.7735426+00:00",
-  "LastUpdate_Achievements": "2023-08-03T12:05:13.309753+00:00"
+  "LastUpdate_Ratings": "2023-08-03T13:05:30.7840732+00:00",
+  "LastUpdate_Achievements": "2023-08-03T13:11:47.0427216+00:00"
 }

@@ -170,7 +170,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1080,
+  "EOS_Progressed": 1081,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -1265,6 +1265,11 @@
       "Time": "2023-08-03T09:03:38.1064176+00:00",
       "NumProgressed": 1080,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T13:10:33.1934751+00:00",
+      "NumProgressed": 1081,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -1316,7 +1321,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "07",
@@ -1340,7 +1345,7 @@
       "Name": "Awakening",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "10",
@@ -1412,7 +1417,7 @@
       "Name": "Earning Trust",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "19",
@@ -1428,7 +1433,7 @@
       "Name": "Digging Deep",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "21",
@@ -1459,7 +1464,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1080,
+      "Progressed": 1081,
       "Completed": 0
     }
   ],
@@ -1467,8 +1472,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-08-03T12:04:00.9199734+00:00",
+  "LastChanged_Achievements": "2023-08-03T13:10:33.1934747+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:26.3547076+00:00",
-  "LastUpdate_Ratings": "2023-08-03T12:02:04.45406+00:00",
-  "LastUpdate_Achievements": "2023-08-03T12:04:00.920002+00:00"
+  "LastUpdate_Ratings": "2023-08-03T13:08:00.5570136+00:00",
+  "LastUpdate_Achievements": "2023-08-03T13:10:33.1934987+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 247,
-  "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_Completed": 38,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 343,
-  "EOS_Completed": 21,
-  "EOS_NewPlayers": 134,
-  "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 6.12,
+  "EOS_Completed": 22,
+  "EOS_NewPlayers": 131,
+  "EOS_NewCompleters": 12,
+  "EOS_Completed_Percentage": 6.41,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -1191,6 +1191,11 @@
       "Time": "2023-08-03T12:07:37.2898912+00:00",
       "NumProgressed": 343,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-03T13:14:14.4160465+00:00",
+      "NumProgressed": 343,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 45,
@@ -1200,9 +1205,9 @@
       "ID": "AmanitaRun",
       "SetID": "db30heh",
       "Name": "Wild Run",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 158
     },
     {
       "ID": "BasiliskBroom",
@@ -1224,9 +1229,9 @@
       "ID": "BearBroom",
       "SetID": "db30heh",
       "Name": "Dusted",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "BearPistol",
@@ -1256,9 +1261,9 @@
       "ID": "BearSword",
       "SetID": "db30heh",
       "Name": "Full Deck",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "BeggarWomanCoin",
@@ -1552,9 +1557,9 @@
       "ID": "WormGrilled",
       "SetID": "db30heh",
       "Name": "Bratwurm",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
@@ -1562,13 +1567,13 @@
       "ID": "db30heh",
       "IsBase": true,
       "Progressed": 343,
-      "Completed": 21
+      "Completed": 22
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-03T12:07:37.2898907+00:00",
+  "LastChanged_Achievements": "2023-08-03T13:14:14.416046+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-03T11:57:40.0125932+00:00",
-  "LastUpdate_Achievements": "2023-08-03T12:07:37.2899377+00:00"
+  "LastUpdate_Ratings": "2023-08-03T13:03:50.854347+00:00",
+  "LastUpdate_Achievements": "2023-08-03T13:14:14.4161104+00:00"
 }

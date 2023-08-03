@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5512,9 +5512,9 @@
       "Count": 3338
     }
   ],
-  "EOS_Progressed": 218174,
+  "EOS_Progressed": 218184,
   "EOS_Completed": 2147,
-  "EOS_NewPlayers": 2231,
+  "EOS_NewPlayers": 2229,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16827,6 +16827,11 @@
       "Time": "2023-08-03T12:03:13.6740372+00:00",
       "NumProgressed": 218174,
       "NumCompleted": 2147
+    },
+    {
+      "Time": "2023-08-03T13:09:15.9558042+00:00",
+      "NumProgressed": 218184,
+      "NumCompleted": 2147
     }
   ],
   "TotalAchievements": 512,
@@ -16846,7 +16851,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4363
+      "UsersEstimate": 4364
     },
     {
       "ID": "objective_completed_100",
@@ -17206,7 +17211,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6545
+      "UsersEstimate": 6546
     },
     {
       "ID": "objective_completed_110",
@@ -20862,7 +20867,7 @@
       "Name": "Rocky Reception",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1844
+      "UsersEstimate": 1845
     },
     {
       "ID": "objective_completed_1376",
@@ -20878,7 +20883,7 @@
       "Name": "Rock and Roll",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1844
+      "UsersEstimate": 1845
     },
     {
       "ID": "objective_completed_1381",
@@ -20933,21 +20938,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184448,
-      "Completed": 3054
+      "Progressed": 184458,
+      "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218174,
+      "Progressed": 218184,
       "Completed": 2147
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-03T08:59:34.5945863+00:00",
-  "LastChanged_Achievements": "2023-08-03T12:03:13.6740364+00:00",
+  "LastChanged_Achievements": "2023-08-03T13:09:15.9558037+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-03T11:59:35.5610322+00:00",
-  "LastUpdate_Achievements": "2023-08-03T12:03:13.6767546+00:00"
+  "LastUpdate_Ratings": "2023-08-03T13:05:51.8998622+00:00",
+  "LastUpdate_Achievements": "2023-08-03T13:09:15.9590485+00:00"
 }

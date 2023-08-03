@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1459,
+  "EOS_Progressed": 1460,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2968,6 +2968,11 @@
       "Time": "2023-08-02T00:05:52.8920501+00:00",
       "NumProgressed": 1459,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T13:12:34.5140737+00:00",
+      "NumProgressed": 1460,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3155,7 +3160,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -3203,7 +3208,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -3235,7 +3240,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -3362,7 +3367,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1459,
+      "Progressed": 1460,
       "Completed": 0
     }
   ],
@@ -3370,8 +3375,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-07-31T07:57:50.7109089+00:00",
-  "LastChanged_Achievements": "2023-08-03T12:05:46.2172102+00:00",
+  "LastChanged_Achievements": "2023-08-03T13:12:34.514073+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:07.5190813+00:00",
-  "LastUpdate_Ratings": "2023-08-03T11:58:31.9303135+00:00",
-  "LastUpdate_Achievements": "2023-08-03T12:05:46.2172789+00:00"
+  "LastUpdate_Ratings": "2023-08-03T13:04:45.1393634+00:00",
+  "LastUpdate_Achievements": "2023-08-03T13:12:34.5141766+00:00"
 }

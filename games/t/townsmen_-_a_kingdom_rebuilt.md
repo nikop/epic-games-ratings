@@ -37,6 +37,7 @@ Number of Ratings: 37  (23.09.2022)
 | Another one bites the dust | 3.00% | ~127 |
 | Bread for the people III | 3.00% | ~127 |
 | I like to build stuff... IV | 3.00% | ~127 |
+| The King's new clothes II | 3.00% | ~127 |
 | Experienced decorator | 3.00% | ~127 |
 | My precious... I | 3.00% | ~127 |
 | Full-time job III | 3.00% | ~127 |
@@ -45,7 +46,6 @@ Number of Ratings: 37  (23.09.2022)
 | The Art of War | 2.00% | ~85 |
 | Five brews are a schnitzel | 2.00% | ~85 |
 | I like to build stuff... V | 2.00% | ~85 |
-| The King's new clothes II | 2.00% | ~85 |
 | The King's new clothes III | 2.00% | ~85 |
 | Saint Florian | 2.00% | ~85 |
 | My precious... II | 2.00% | ~85 |

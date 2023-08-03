@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 361,
+  "EOS_Progressed": 362,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -1084,6 +1084,11 @@
       "Time": "2023-08-03T11:05:17.3792427+00:00",
       "NumProgressed": 361,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-03T13:10:37.5467331+00:00",
+      "NumProgressed": 362,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1103,7 +1108,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 45,
       "XP": 80,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "completeact3",
@@ -1143,7 +1148,7 @@
       "Name": "Freedom",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "scoreminrankrf1",
@@ -1151,7 +1156,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "scoreminrankrf2",
@@ -1175,7 +1180,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "scoreminrankrp2",
@@ -1214,7 +1219,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 361,
+      "Progressed": 362,
       "Completed": 2
     }
   ],
@@ -1222,8 +1227,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-08-03T12:04:03.7141475+00:00",
+  "LastChanged_Achievements": "2023-08-03T13:10:37.5467325+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:37.5183891+00:00",
-  "LastUpdate_Ratings": "2023-08-03T12:00:39.0474948+00:00",
-  "LastUpdate_Achievements": "2023-08-03T12:04:03.7141694+00:00"
+  "LastUpdate_Ratings": "2023-08-03T13:06:47.9554793+00:00",
+  "LastUpdate_Achievements": "2023-08-03T13:10:37.5467629+00:00"
 }

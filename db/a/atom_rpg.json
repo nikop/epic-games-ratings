@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1114,
+  "EOS_Progressed": 1115,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2038,6 +2038,11 @@
       "Time": "2023-08-03T10:05:33.4562802+00:00",
       "NumProgressed": 1114,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T13:11:39.7811983+00:00",
+      "NumProgressed": 1115,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2105,7 +2110,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "EXPERT_1",
@@ -2169,7 +2174,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "LOVE_GURU_1",
@@ -2273,7 +2278,7 @@
       "Name": "Savant",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "SECRET_ROOM",
@@ -2305,7 +2310,7 @@
       "Name": "Traveler",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "VVE",
@@ -2336,15 +2341,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1114,
+      "Progressed": 1115,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-08-03T12:04:47.9727573+00:00",
+  "LastChanged_Achievements": "2023-08-03T13:11:39.7811976+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:04.0177394+00:00",
-  "LastUpdate_Ratings": "2023-08-03T12:02:45.068706+00:00",
-  "LastUpdate_Achievements": "2023-08-03T12:04:47.9728023+00:00"
+  "LastUpdate_Ratings": "2023-08-03T13:08:43.1129602+00:00",
+  "LastUpdate_Achievements": "2023-08-03T13:11:39.78124+00:00"
 }

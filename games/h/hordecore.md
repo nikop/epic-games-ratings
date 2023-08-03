@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just Went Shopping | 97.00% | ~338 |
-| Decision Maker | 80.00% | ~278 |
-| Sneaky Sneak | 78.00% | ~271 |
-| DIY | 78.00% | ~271 |
-| Master Chef | 65.00% | ~226 |
-| Master of Cards | 59.00% | ~205 |
-| Over Nine Thousaaand | 57.00% | ~198 |
-| Getting the Hang Of This | 48.00% | ~167 |
+| Just Went Shopping | 97.00% | ~339 |
+| Decision Maker | 80.00% | ~279 |
+| Sneaky Sneak | 78.00% | ~272 |
+| DIY | 78.00% | ~272 |
+| Master Chef | 65.00% | ~227 |
+| Master of Cards | 59.00% | ~206 |
+| Over Nine Thousaaand | 56.00% | ~195 |
+| Getting the Hang Of This | 48.00% | ~168 |
 | Collector | 29.00% | ~101 |
 | That’s What Friends Are For | 21.00% | ~73 |
 | Blow ‘Em Up | 21.00% | ~73 |
@@ -33,7 +33,7 @@
 | Lord of the Wastes | 3.00% | ~10 |
 | Through Hell and Back | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 348 (Ranked 246)  
+Progressed: 349 (Ranked 246)  
 Completed: 10 (2.87%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,6 +58,7 @@ Completed: 10 (2.87%) (Ranked 69)
 | 2023-07-30 | 345 | 10 |
 | 2023-07-31 | 347 | 10 |
 | 2023-08-01 | 348 | 10 |
+| 2023-08-03 | 349 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

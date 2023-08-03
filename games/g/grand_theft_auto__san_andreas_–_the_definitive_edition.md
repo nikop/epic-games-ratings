@@ -5,24 +5,24 @@ Rating: 4.56 (Ranked 466)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~9,541 |
-| Pay 'n' Spray | 50.00% | ~5,890 |
-| All Dressed Up for San Fierro | 25.00% | ~2,945 |
-| The American Dream | 19.00% | ~2,238 |
-| School's Out | 18.00% | ~2,120 |
+| Getting Started | 81.00% | ~9,545 |
+| Pay 'n' Spray | 50.00% | ~5,892 |
+| All Dressed Up for San Fierro | 25.00% | ~2,946 |
+| The American Dream | 19.00% | ~2,239 |
+| School's Out | 18.00% | ~2,121 |
 | Smooth Moves | 16.00% | ~1,885 |
-| Today Was a Good Day | 15.00% | ~1,767 |
-| What happens in Las Venturas... | 14.00% | ~1,649 |
+| Today Was a Good Day | 15.00% | ~1,768 |
+| What happens in Las Venturas... | 14.00% | ~1,650 |
 | Horror of the Santa Maria | 10.00% | ~1,178 |
-| Liberty City State of Mind | 9.00% | ~1,060 |
-| Original Gangster | 8.00% | ~942 |
+| Liberty City State of Mind | 9.00% | ~1,061 |
+| Original Gangster | 8.00% | ~943 |
 | The End of the Line | 7.00% | ~825 |
 | With Extra Dip | 6.00% | ~707 |
 | Saviour | 6.00% | ~707 |
 | Rescue a Kitten Too? | 5.00% | ~589 |
 | They Can’t Stop All of Us | 4.00% | ~471 |
-| Bike or Biker | 3.00% | ~353 |
-| What are the Odds | 3.00% | ~353 |
+| Bike or Biker | 3.00% | ~354 |
+| What are the Odds | 3.00% | ~354 |
 | A Legitimate Business | 2.00% | ~236 |
 | I’ll Have Two Number 9s | 2.00% | ~236 |
 | Who Needs Directions? | 2.00% | ~236 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 466)
 | ...Here we go again | 0.40% | ~47 |
 | I Ain't No Buster | 0.30% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,779 (Ranked 119)  
+Progressed: 11,784 (Ranked 119)  
 Completed: 34 (0.29%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 34 (0.29%) (Ranked 161)
 | 2023-07-31 | 11,653 | 32 |
 | 2023-08-01 | 11,707 | 33 |
 | 2023-08-02 | 11,757 | 34 |
-| 2023-08-03 | 11,779 | 34 |
+| 2023-08-03 | 11,784 | 34 |
 ## Awards
 Max (Great Boss Battles): 235  (Ranked 255)  
 Sum: 255 (Ranked 350)  

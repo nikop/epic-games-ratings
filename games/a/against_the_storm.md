@@ -29,6 +29,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Against All Odds | 2.00% | ~323 |
 | Ruined Armory | 2.00% | ~323 |
 | Dangerous Lands | 2.00% | ~323 |
+| Fishmen Ritual Site | 2.00% | ~323 |
 | Forbidden Lands | 2.00% | ~323 |
 | Haunted Forest | 2.00% | ~323 |
 | Levitating Monument | 2.00% | ~323 |
@@ -41,7 +42,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 2.00% | ~323 |
 | Defying the Crown | 2.00% | ~323 |
 | Into the Forest | 2.00% | ~323 |
-| Fishmen Ritual Site | 1.00% | ~161 |
 | Efficient Explorer | 0.90% | ~145 |
 | Prestigious Expedition | 0.80% | ~129 |
 | Blood Flower Farmer | 0.80% | ~129 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.20% | ~32 |
 | Paradise | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,145 (Ranked 111)  
+Progressed: 16,146 (Ranked 111)  
 Completed: 42 (0.26%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 42 (0.26%) (Ranked 163)
 | 2023-07-31 | 16,109 | 41 |
 | 2023-08-01 | 16,122 | 42 |
 | 2023-08-02 | 16,134 | 42 |
-| 2023-08-03 | 16,145 | 42 |
+| 2023-08-03 | 16,146 | 42 |
 ## Awards
 Max (Quickly Understood Controls): 420  (Ranked 206)  
 Sum: 3,085 (Ranked 159)  
