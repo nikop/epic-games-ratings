@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3544,
+  "EOS_Progressed": 3545,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1053,6 +1053,11 @@
       "Time": "2023-08-03T02:29:40.0149921+00:00",
       "NumProgressed": 3544,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T07:04:29.7041101+00:00",
+      "NumProgressed": 3545,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1094,9 +1099,9 @@
       "ID": "FAIL_QTE_FIRST_TIME",
       "SetID": "kakdpn",
       "Name": "Totally Intentional",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1595
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1104,7 +1109,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -1112,7 +1117,7 @@
       "Name": "From Zeroes...",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -1136,7 +1141,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -1232,7 +1237,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -1264,14 +1269,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3544,
+      "Progressed": 3545,
       "Completed": 0
     }
   ],
@@ -1279,8 +1284,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-08-03T06:04:23.1437768+00:00",
+  "LastChanged_Achievements": "2023-08-03T07:04:29.7041097+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:07.7078521+00:00",
-  "LastUpdate_Ratings": "2023-08-03T06:00:15.913048+00:00",
-  "LastUpdate_Achievements": "2023-08-03T06:04:23.1437968+00:00"
+  "LastUpdate_Ratings": "2023-08-03T07:00:51.4240533+00:00",
+  "LastUpdate_Achievements": "2023-08-03T07:04:29.704134+00:00"
 }

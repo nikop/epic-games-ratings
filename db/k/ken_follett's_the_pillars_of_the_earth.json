@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14320,
+  "EOS_Progressed": 14321,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -7369,6 +7369,11 @@
       "Time": "2023-08-03T06:03:59.6680883+00:00",
       "NumProgressed": 14320,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-03T07:04:01.6431657+00:00",
+      "NumProgressed": 14321,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 41,
@@ -7444,7 +7449,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2434
+      "UsersEstimate": 2435
     },
     {
       "ID": "tpote_achievement_18",
@@ -7556,7 +7561,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4582
+      "UsersEstimate": 4583
     },
     {
       "ID": "tpote_achievement_30",
@@ -7644,7 +7649,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5871
+      "UsersEstimate": 5872
     },
     {
       "ID": "tpote_achievement_40",
@@ -7692,7 +7697,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3150
+      "UsersEstimate": 3151
     },
     {
       "ID": "tpote_achievement_9",
@@ -7707,15 +7712,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14320,
+      "Progressed": 14321,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-08-03T06:03:59.6680879+00:00",
+  "LastChanged_Achievements": "2023-08-03T07:04:01.6431651+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:48.9237471+00:00",
-  "LastUpdate_Ratings": "2023-08-03T06:00:45.9885493+00:00",
-  "LastUpdate_Achievements": "2023-08-03T06:03:59.668146+00:00"
+  "LastUpdate_Ratings": "2023-08-03T07:01:33.3234389+00:00",
+  "LastUpdate_Achievements": "2023-08-03T07:04:01.6432504+00:00"
 }

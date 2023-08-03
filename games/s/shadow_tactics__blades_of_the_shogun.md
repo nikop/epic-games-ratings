@@ -19,14 +19,14 @@ Number of Ratings: 495  (23.09.2022)
 | Happy Planning | 6.00% | ~11,447 |
 | Ice Ice Yuki | 6.00% | ~11,447 |
 | Yabu | 6.00% | ~11,447 |
-| Flying Rocks | 5.00% | ~9,539 |
-| Mugen Unchained | 5.00% | ~9,539 |
-| Warzone | 5.00% | ~9,539 |
-| Gear up | 4.00% | ~7,631 |
-| Happy little accidents | 4.00% | ~7,631 |
-| Okkoto | 4.00% | ~7,631 |
-| Prisoners | 4.00% | ~7,631 |
-| Too Early | 4.00% | ~7,631 |
+| Flying Rocks | 5.00% | ~9,540 |
+| Mugen Unchained | 5.00% | ~9,540 |
+| Warzone | 5.00% | ~9,540 |
+| Gear up | 4.00% | ~7,632 |
+| Happy little accidents | 4.00% | ~7,632 |
+| Okkoto | 4.00% | ~7,632 |
+| Prisoners | 4.00% | ~7,632 |
+| Too Early | 4.00% | ~7,632 |
 | Noboru | 3.00% | ~5,724 |
 | Still Rollin' | 3.00% | ~5,724 |
 | Stoned | 3.00% | ~5,724 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~191 |
 | Release the Kraken | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 190,787 (Ranked 59)  
+Progressed: 190,791 (Ranked 59)  
 Completed: 65 (0.03%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 65 (0.03%) (Ranked 222)
 | 2023-07-31 | 190,283 | 65 |
 | 2023-08-01 | 190,508 | 65 |
 | 2023-08-02 | 190,727 | 65 |
-| 2023-08-03 | 190,787 | 65 |
+| 2023-08-03 | 190,791 | 65 |
 ## Awards
 Max (Great for Beginners): 559  (Ranked 184)  
 Sum: 4,717 (Ranked 133)  

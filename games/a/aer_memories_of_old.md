@@ -6,20 +6,20 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~12,828 |
-| Mama? | 28.00% | ~4,726 |
-| People's Haven | 19.00% | ~3,207 |
-| Cartographer | 17.00% | ~2,869 |
+| Light at the end of the tunnel | 76.00% | ~12,831 |
+| Mama? | 28.00% | ~4,727 |
+| People's Haven | 19.00% | ~3,208 |
+| Cartographer | 17.00% | ~2,870 |
 | Antlers of Stone | 15.00% | ~2,532 |
-| Knowledge for Power | 14.00% | ~2,363 |
-| Gaze into the abyss | 14.00% | ~2,363 |
-| Mausoleum of Ice | 14.00% | ~2,363 |
-| In the belly of the beast | 12.00% | ~2,025 |
-| Wings of Stone | 12.00% | ~2,025 |
-| Equilibrium | 12.00% | ~2,025 |
+| Knowledge for Power | 14.00% | ~2,364 |
+| Gaze into the abyss | 14.00% | ~2,364 |
+| Mausoleum of Ice | 14.00% | ~2,364 |
+| In the belly of the beast | 12.00% | ~2,026 |
+| Wings of Stone | 12.00% | ~2,026 |
+| Equilibrium | 12.00% | ~2,026 |
 | Condor condo | 10.00% | ~1,688 |
 | Memorial | 9.00% | ~1,519 |
-| An uninvited guest | 8.00% | ~1,350 |
+| An uninvited guest | 8.00% | ~1,351 |
 | Talk to all the spirit animals | 7.00% | ~1,182 |
 | Ripples on the surface | 6.00% | ~1,013 |
 | Tails of Stone | 6.00% | ~1,013 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Written in stone | 6.00% | ~1,013 |
 | Hide and Seek | 5.00% | ~844 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,879 (Ranked 108)  
+Progressed: 16,883 (Ranked 108)  
 Completed: 348 (2.06%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 348 (2.06%) (Ranked 84)
 | 2023-07-31 | 16,695 | 345 |
 | 2023-08-01 | 16,779 | 347 |
 | 2023-08-02 | 16,860 | 348 |
-| 2023-08-03 | 16,879 | 348 |
+| 2023-08-03 | 16,883 | 348 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

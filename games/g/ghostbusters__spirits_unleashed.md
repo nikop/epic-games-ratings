@@ -5,22 +5,22 @@ Rating: 4.49 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,235 |
-| Advancement | 73.00% | ~18,025 |
-| Meticulously Efficient | 63.00% | ~15,556 |
-| Discovery | 61.00% | ~15,062 |
+| Stylish | 86.00% | ~21,236 |
+| Advancement | 73.00% | ~18,026 |
+| Meticulously Efficient | 63.00% | ~15,557 |
+| Discovery | 61.00% | ~15,063 |
 | Fully Upgraded | 54.00% | ~13,334 |
 | Swift Rift Removers | 54.00% | ~13,334 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,593 |
 | Cultured | 51.00% | ~12,593 |
-| Vaporous Expansion | 48.00% | ~11,852 |
-| Teamwork | 44.00% | ~10,864 |
+| Vaporous Expansion | 48.00% | ~11,853 |
+| Teamwork | 44.00% | ~10,865 |
 | There you are! | 42.00% | ~10,371 |
 | Clutch Capture | 41.00% | ~10,124 |
-| Back Off | 35.00% | ~8,642 |
-| Daily Dose | 34.00% | ~8,395 |
-| Solo Capture | 32.00% | ~7,901 |
-| Welcome to the Crew | 32.00% | ~7,901 |
+| Back Off | 35.00% | ~8,643 |
+| Daily Dose | 34.00% | ~8,396 |
+| Solo Capture | 32.00% | ~7,902 |
+| Welcome to the Crew | 32.00% | ~7,902 |
 | Ghostbuster In Training | 30.00% | ~7,408 |
 | Icing on the Cake | 30.00% | ~7,408 |
 | Side Hustle | 27.00% | ~6,667 |
@@ -34,7 +34,7 @@ Rating: 4.49 (Ranked 576)
 | Skilled | 24.00% | ~5,926 |
 | Collector | 23.00% | ~5,679 |
 | Ectoplasmic Entity | 23.00% | ~5,679 |
-| Rift Destroyer | 19.00% | ~4,691 |
+| Rift Destroyer | 19.00% | ~4,692 |
 | Terrifying | 18.00% | ~4,445 |
 | Tobin's Prodigy | 18.00% | ~4,445 |
 | Reckless | 17.00% | ~4,198 |
@@ -46,8 +46,8 @@ Rating: 4.49 (Ranked 576)
 | Rivalry | 10.00% | ~2,469 |
 | Fragile Panes | 9.00% | ~2,222 |
 | Surprise! | 9.00% | ~2,222 |
-| Rift Seeker | 7.00% | ~1,728 |
-| Therapeutic | 7.00% | ~1,728 |
+| Rift Seeker | 7.00% | ~1,729 |
+| Therapeutic | 7.00% | ~1,729 |
 | Master Collector | 6.00% | ~1,482 |
 | Ghost Expert | 3.00% | ~741 |
 | Catostrophic Destroyer | 2.00% | ~494 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 576)
 | I don't need these | 1.00% | ~247 |
 | Mycophile | 1.00% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,692 (Ranked 101)  
+Progressed: 24,693 (Ranked 101)  
 Completed: 48 (0.19%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 48 (0.19%) (Ranked 177)
 | 2023-07-31 | 24,608 | 48 |
 | 2023-08-01 | 24,634 | 48 |
 | 2023-08-02 | 24,681 | 48 |
-| 2023-08-03 | 24,692 | 48 |
+| 2023-08-03 | 24,693 | 48 |
 ## Awards
 Max (Great for Quick Sessions): 245  (Ranked 250)  
 Sum: 2,201 (Ranked 189)  

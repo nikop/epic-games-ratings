@@ -10,7 +10,7 @@ Number of Ratings: 154  (23.09.2022)
 | Newbie Hero | 83.00% | ~303 |
 | Welcome to Sonic CD | 77.00% | ~281 |
 | Welcome to Sonic the Hedgehog 2 | 76.00% | ~277 |
-| Welcome to Sonic 3 & Knuckles | 75.00% | ~274 |
+| Welcome to Sonic 3 & Knuckles | 76.00% | ~277 |
 | Ring Collector | 72.00% | ~263 |
 | Time Traveler | 71.00% | ~259 |
 | Everyone's Hero | 66.00% | ~241 |

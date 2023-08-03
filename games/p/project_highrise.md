@@ -8,18 +8,18 @@
 | Starting Skyward | 53.00% | ~166 |
 | Grime is Not Good | 48.00% | ~150 |
 | Campaign Launch | 40.00% | ~125 |
+| Dinner Dash | 40.00% | ~125 |
 | Floor Galore | 39.00% | ~122 |
-| Dinner Dash | 39.00% | ~122 |
+| Need a Consult | 36.00% | ~113 |
 | It's Technical | 36.00% | ~113 |
-| Need a Consult | 35.00% | ~110 |
 | Upgrade Unlock | 35.00% | ~110 |
 | Delegate Maintenance | 34.00% | ~106 |
 | Proper Walls | 32.00% | ~100 |
 | Destination Destiny | 29.00% | ~91 |
 | Happy Tenants | 25.00% | ~78 |
-| Potent Potables | 23.00% | ~72 |
+| Potent Potables | 24.00% | ~75 |
+| Your Prestige is Rising | 23.00% | ~72 |
 | Smooth Service | 23.00% | ~72 |
-| Your Prestige is Rising | 22.00% | ~69 |
 | Retail Revenue | 22.00% | ~69 |
 | Don't Feel a Loan | 21.00% | ~66 |
 | Lux Living | 20.00% | ~63 |

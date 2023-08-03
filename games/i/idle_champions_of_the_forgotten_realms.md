@@ -46,6 +46,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | March of the Undead | 0.50% | ~1,091 |
 | No Time To Rest | 0.50% | ~1,091 |
 | The Mists of Ravenloft | 0.50% | ~1,091 |
+| Invisible Shadows | 0.50% | ~1,091 |
 | The Dinner Party | 0.50% | ~1,091 |
 | The Botched Kidnapping | 0.50% | ~1,091 |
 | Not That Type of Helm! | 0.50% | ~922 |
@@ -65,7 +66,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.40% | ~738 |
 | Welcome to the Rock | 0.40% | ~738 |
 | Wisdom Check | 0.40% | ~872 |
-| Invisible Shadows | 0.40% | ~872 |
 | Family Entanglements | 0.40% | ~872 |
 | Tower on the Lake | 0.40% | ~872 |
 | The Ring of Regeneration | 0.40% | ~872 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,118 (Ranked 53)  
+Progressed: 218,124 (Ranked 53)  
 Completed: 2,147 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -624,7 +624,7 @@ Completed: 2,147 (0.98%) (Ranked 112)
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
-| 2023-08-03 | 218,118 | 2,147 |
+| 2023-08-03 | 218,124 | 2,147 |
 ## Awards
 Max (Diverse Characters): 5,109  (Ranked 67)  
 Sum: 30,864 (Ranked 38)  

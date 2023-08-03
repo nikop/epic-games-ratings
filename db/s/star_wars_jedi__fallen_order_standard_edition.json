@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1070,
+  "EOS_Progressed": 1071,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1069,
+  "EOS_NewPlayers": 1070,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -462,6 +462,11 @@
       "Time": "2023-08-03T06:01:27.4069134+00:00",
       "NumProgressed": 1070,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-03T07:02:30.2172915+00:00",
+      "NumProgressed": 1071,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -522,7 +527,7 @@
       "Name": "Gorgara Falls",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "achievement_16",
@@ -538,7 +543,7 @@
       "Name": "I Knew He Was No Good",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "achievement_18",
@@ -546,7 +551,7 @@
       "Name": "Back At You",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "achievement_19",
@@ -554,7 +559,7 @@
       "Name": "Perfect Timing",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "achievement_2",
@@ -578,7 +583,7 @@
       "Name": "Triple Take",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_22",
@@ -618,7 +623,7 @@
       "Name": "Look Out Below",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "achievement_27",
@@ -642,7 +647,7 @@
       "Name": "Blade Master",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "achievement_3",
@@ -698,7 +703,7 @@
       "Name": "Sabersmith",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "achievement_36",
@@ -706,7 +711,7 @@
       "Name": "The Full Glow-Up",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "achievement_37",
@@ -762,7 +767,7 @@
       "Name": "The Mantis",
       "Percentage": 99,
       "XP": 25,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "achievement_8",
@@ -770,7 +775,7 @@
       "Name": "A Long Time Ago",
       "Percentage": 94,
       "XP": 25,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "achievement_9",
@@ -778,14 +783,14 @@
       "Name": "The Obstacle is the Way",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     }
   ],
   "AchievementSets": [
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 1070,
+      "Progressed": 1071,
       "Completed": 5
     }
   ],
@@ -793,8 +798,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-07-11T17:57:37.1037412+00:00",
-  "LastChanged_Achievements": "2023-08-03T06:01:27.4069129+00:00",
+  "LastChanged_Achievements": "2023-08-03T07:02:30.2172902+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:11.5236835+00:00",
-  "LastUpdate_Ratings": "2023-08-03T05:58:11.6169565+00:00",
-  "LastUpdate_Achievements": "2023-08-03T06:01:27.4069437+00:00"
+  "LastUpdate_Ratings": "2023-08-03T06:58:22.2341234+00:00",
+  "LastUpdate_Achievements": "2023-08-03T07:02:30.2175547+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2270,9 +2270,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67589,
+  "EOS_Progressed": 67590,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -11495,6 +11495,11 @@
       "Time": "2023-08-03T05:06:31.1720159+00:00",
       "NumProgressed": 67589,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-08-03T07:05:57.5576318+00:00",
+      "NumProgressed": 67590,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 61,
@@ -11810,7 +11815,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3379
+      "UsersEstimate": 3380
     },
     {
       "ID": "HARLEY_2",
@@ -11993,13 +11998,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67589,
+      "Progressed": 67590,
       "Completed": 106
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37869,
+      "Progressed": 37870,
       "Completed": 2655
     }
   ],
@@ -12007,8 +12012,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-03T04:01:45.8630807+00:00",
-  "LastChanged_Achievements": "2023-08-03T06:05:27.994061+00:00",
+  "LastChanged_Achievements": "2023-08-03T07:05:57.5576312+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:38.4399056+00:00",
-  "LastUpdate_Ratings": "2023-08-03T06:00:40.2129742+00:00",
-  "LastUpdate_Achievements": "2023-08-03T06:05:27.9941539+00:00"
+  "LastUpdate_Ratings": "2023-08-03T07:01:24.8027984+00:00",
+  "LastUpdate_Achievements": "2023-08-03T07:05:57.5577577+00:00"
 }

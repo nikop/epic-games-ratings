@@ -15,7 +15,7 @@
 | In the heart of the volcano. | 11.00% | ~23 |
 | Dinosaur graveyard. | 10.00% | ~21 |
 | Swimming on a dino's back. | 9.00% | ~19 |
-| The entrails of the beast. | 8.00% | ~17 |
+| The entrails of the beast. | 9.00% | ~19 |
 | The mountain of peril. | 7.00% | ~15 |
 | Passing the carcass. | 6.00% | ~13 |
 | Lightning swamp. | 5.00% | ~10 |
