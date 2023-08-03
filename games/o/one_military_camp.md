@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The 4 Pillars | 53.00% | ~64 |
-| First Step | 52.00% | ~62 |
+| First Step | 53.00% | ~64 |
 | Capitalism | 18.00% | ~22 |
 | Indebted | 12.00% | ~14 |
 | Desert Rat | 10.00% | ~12 |
@@ -14,11 +14,11 @@
 | Green Energy | 7.00% | ~8 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~7 |
 | Great Producer | 6.00% | ~7 |
+| Perfect Soldier | 5.00% | ~6 |
 | Health Care | 5.00% | ~6 |
 | Desert Power | 5.00% | ~6 |
 | Pathfinder | 5.00% | ~6 |
 | Ammo Tycoon | 5.00% | ~6 |
-| Perfect Soldier | 4.00% | ~5 |
 | Outdoor Decorator | 4.00% | ~5 |
 | Self-sufficient | 4.00% | ~5 |
 | Medicine Tycoon | 4.00% | ~5 |

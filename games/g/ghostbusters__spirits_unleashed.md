@@ -5,24 +5,24 @@ Rating: 4.49 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,234 |
-| Advancement | 73.00% | ~18,024 |
-| Meticulously Efficient | 63.00% | ~15,555 |
+| Stylish | 86.00% | ~21,235 |
+| Advancement | 73.00% | ~18,025 |
+| Meticulously Efficient | 63.00% | ~15,556 |
 | Discovery | 61.00% | ~15,062 |
-| Fully Upgraded | 54.00% | ~13,333 |
-| Swift Rift Removers | 54.00% | ~13,333 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,592 |
-| Cultured | 51.00% | ~12,592 |
+| Fully Upgraded | 54.00% | ~13,334 |
+| Swift Rift Removers | 54.00% | ~13,334 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,593 |
+| Cultured | 51.00% | ~12,593 |
 | Vaporous Expansion | 48.00% | ~11,852 |
 | Teamwork | 44.00% | ~10,864 |
-| There you are! | 42.00% | ~10,370 |
-| Clutch Capture | 41.00% | ~10,123 |
+| There you are! | 42.00% | ~10,371 |
+| Clutch Capture | 41.00% | ~10,124 |
 | Back Off | 35.00% | ~8,642 |
 | Daily Dose | 34.00% | ~8,395 |
 | Solo Capture | 32.00% | ~7,901 |
 | Welcome to the Crew | 32.00% | ~7,901 |
-| Ghostbuster In Training | 30.00% | ~7,407 |
-| Icing on the Cake | 30.00% | ~7,407 |
+| Ghostbuster In Training | 30.00% | ~7,408 |
+| Icing on the Cake | 30.00% | ~7,408 |
 | Side Hustle | 27.00% | ~6,667 |
 | We have the best insurance | 26.00% | ~6,420 |
 | Legions | 26.00% | ~6,420 |
@@ -35,9 +35,9 @@ Rating: 4.49 (Ranked 576)
 | Collector | 23.00% | ~5,679 |
 | Ectoplasmic Entity | 23.00% | ~5,679 |
 | Rift Destroyer | 19.00% | ~4,691 |
-| Terrifying | 18.00% | ~4,444 |
-| Tobin's Prodigy | 18.00% | ~4,444 |
-| Reckless | 17.00% | ~4,197 |
+| Terrifying | 18.00% | ~4,445 |
+| Tobin's Prodigy | 18.00% | ~4,445 |
+| Reckless | 17.00% | ~4,198 |
 | Diabolical | 16.00% | ~3,951 |
 | Escape Artist | 16.00% | ~3,951 |
 | Seasoned | 16.00% | ~3,951 |
@@ -48,7 +48,7 @@ Rating: 4.49 (Ranked 576)
 | Surprise! | 9.00% | ~2,222 |
 | Rift Seeker | 7.00% | ~1,728 |
 | Therapeutic | 7.00% | ~1,728 |
-| Master Collector | 6.00% | ~1,481 |
+| Master Collector | 6.00% | ~1,482 |
 | Ghost Expert | 3.00% | ~741 |
 | Catostrophic Destroyer | 2.00% | ~494 |
 | Line em' up | 2.00% | ~494 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 576)
 | I don't need these | 1.00% | ~247 |
 | Mycophile | 1.00% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,691 (Ranked 101)  
+Progressed: 24,692 (Ranked 101)  
 Completed: 48 (0.19%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,10 +162,10 @@ Completed: 48 (0.19%) (Ranked 177)
 | 2023-07-31 | 24,608 | 48 |
 | 2023-08-01 | 24,634 | 48 |
 | 2023-08-02 | 24,681 | 48 |
-| 2023-08-03 | 24,691 | 48 |
+| 2023-08-03 | 24,692 | 48 |
 ## Awards
 Max (Great for Quick Sessions): 245  (Ranked 250)  
-Sum: 2,199 (Ranked 189)  
+Sum: 2,201 (Ranked 189)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -174,9 +174,9 @@ Diff (max vs sum): 61
 | This game has Competitive Players | 226 |
 | This game has Diverse Characters | 220 |
 | This game has Amazing Storytelling | 220 |
+| This game is Extremely Fun | 216 |
 | This game is Highly Recommended | 215 |
 | This game is Relaxing | 215 |
-| This game is Extremely Fun | 214 |
 | This game has Quickly Understood Controls | 205 |
 | This game has Amazing Characters | 204 |
 | This game has Playful Visuals | 94 |
@@ -310,3 +310,4 @@ Diff (max vs sum): 61
 | 2023-07-30 | 4.49 | 245 | 2,191 |
 | 2023-08-01 | 4.49 | 245 | 2,194 |
 | 2023-08-02 | 4.49 | 245 | 2,199 |
+| 2023-08-03 | 4.49 | 245 | 2,201 |

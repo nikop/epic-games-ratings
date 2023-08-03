@@ -3,12 +3,12 @@
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
   "Ranking_Rating": 426,
-  "Ranking_Popularity": 267,
+  "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 34767,
+  "EOS_Progressed": 34768,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11235,6 +11235,11 @@
       "Time": "2023-08-03T05:05:06.4655868+00:00",
       "NumProgressed": 34767,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-03T06:04:27.9138442+00:00",
+      "NumProgressed": 34768,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -11262,7 +11267,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5910
+      "UsersEstimate": 5911
     },
     {
       "ID": "ach_antiquarian10",
@@ -11454,7 +11459,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4867
+      "UsersEstimate": 4868
     },
     {
       "ID": "ach_legacysalvager",
@@ -11677,15 +11682,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 34767,
+      "Progressed": 34768,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-08-03T05:05:06.4655861+00:00",
+  "LastChanged_Achievements": "2023-08-03T06:04:27.9138437+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:30.3882701+00:00",
-  "LastUpdate_Ratings": "2023-08-03T05:01:58.5689985+00:00",
-  "LastUpdate_Achievements": "2023-08-03T05:05:06.465787+00:00"
+  "LastUpdate_Ratings": "2023-08-03T06:00:34.790477+00:00",
+  "LastUpdate_Achievements": "2023-08-03T06:04:27.9139348+00:00"
 }

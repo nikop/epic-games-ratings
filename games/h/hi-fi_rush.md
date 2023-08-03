@@ -16,18 +16,18 @@ Rating: 4.87 (Ranked 24)
 | Perfect Parry | 4.00% | ~147 |
 | Alright, that felt AWESOME! | 4.00% | ~147 |
 | NOW we got a kickass hideout! | 4.00% | ~88 |
-| This will cost you big time | 3.00% | ~110 |
-| The Negotiator | 3.00% | ~110 |
-| Headliner | 3.00% | ~110 |
-| Time to pay up! | 3.00% | ~110 |
-| Who's the boss now? | 3.00% | ~110 |
-| Whoa! There's ANOTHER health bar!? | 3.00% | ~110 |
-| You must like calling me in, Chai | 3.00% | ~110 |
-| Z-shielding's got nothing on us! | 3.00% | ~110 |
-| Out in a puff of smoke | 3.00% | ~110 |
-| Uh, they were broken when I got here | 3.00% | ~110 |
-| Kissing the sky! | 3.00% | ~110 |
-| Does that say weakpoint? | 3.00% | ~110 |
+| This will cost you big time | 3.00% | ~111 |
+| The Negotiator | 3.00% | ~111 |
+| Headliner | 3.00% | ~111 |
+| Time to pay up! | 3.00% | ~111 |
+| Who's the boss now? | 3.00% | ~111 |
+| Whoa! There's ANOTHER health bar!? | 3.00% | ~111 |
+| You must like calling me in, Chai | 3.00% | ~111 |
+| Z-shielding's got nothing on us! | 3.00% | ~111 |
+| Out in a puff of smoke | 3.00% | ~111 |
+| Uh, they were broken when I got here | 3.00% | ~111 |
+| Kissing the sky! | 3.00% | ~111 |
+| Does that say weakpoint? | 3.00% | ~111 |
 | Well that was a rush! | 2.00% | ~74 |
 | I have to read these things? | 2.00% | ~74 |
 | Beat-hit mania | 2.00% | ~74 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,683 (Ranked 147)  
+Progressed: 3,685 (Ranked 147)  
 Completed: 6 (0.16%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 6 (0.16%) (Ranked 179)
 | 2023-07-31 | 3,656 | 6 |
 | 2023-08-01 | 3,666 | 6 |
 | 2023-08-02 | 3,680 | 6 |
-| 2023-08-03 | 3,683 | 6 |
+| 2023-08-03 | 3,685 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

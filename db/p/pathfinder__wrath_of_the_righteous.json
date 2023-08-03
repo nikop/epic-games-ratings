@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3338,9 +3338,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10773,
+  "EOS_Progressed": 10775,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10018,6 +10018,11 @@
       "Time": "2023-08-03T04:03:01.8488436+00:00",
       "NumProgressed": 10773,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T06:03:21.0932775+00:00",
+      "NumProgressed": 10775,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10043,9 +10048,9 @@
       "ID": "03_BannerOverCitadel",
       "SetID": "989of5o",
       "Name": "Banner over the Citadel",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1185
     },
     {
       "ID": "04_FithCrusade",
@@ -10109,7 +10114,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "12_PathOfTrickster",
@@ -10125,7 +10130,7 @@
       "Name": "Path of the Lich",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "14_PathOfSwarm",
@@ -10229,7 +10234,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "28_GreatUpstart",
@@ -10253,7 +10258,7 @@
       "Name": "Heroic Victory",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "31_DivideAndRule",
@@ -10277,7 +10282,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -10285,7 +10290,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -10301,7 +10306,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -10309,7 +10314,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -10429,7 +10434,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -10956,21 +10961,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9555,
+      "Progressed": 9557,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10773,
+      "Progressed": 10775,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-02T19:59:19.7876012+00:00",
-  "LastChanged_Achievements": "2023-08-03T05:03:31.5071363+00:00",
+  "LastChanged_Achievements": "2023-08-03T06:03:21.093277+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:19.5248906+00:00",
-  "LastUpdate_Ratings": "2023-08-03T05:00:00.1601973+00:00",
-  "LastUpdate_Achievements": "2023-08-03T05:03:31.5073141+00:00"
+  "LastUpdate_Ratings": "2023-08-03T05:59:16.3558538+00:00",
+  "LastUpdate_Achievements": "2023-08-03T06:03:21.093433+00:00"
 }

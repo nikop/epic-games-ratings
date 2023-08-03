@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3698,
+  "EOS_Progressed": 3710,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3696,
+  "EOS_NewPlayers": 3708,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -587,6 +587,11 @@
       "Time": "2023-08-03T05:06:52.8298211+00:00",
       "NumProgressed": 3698,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T06:05:43.1791657+00:00",
+      "NumProgressed": 3710,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -637,9 +642,9 @@
       "ID": "14",
       "SetID": "458bbdk",
       "Name": "Doctor Approved",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 592
+      "UsersEstimate": 631
     },
     {
       "ID": "15",
@@ -775,7 +780,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "30",
@@ -838,14 +843,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 3698,
+      "Progressed": 3710,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-03T05:06:52.8298201+00:00",
+  "LastChanged_Achievements": "2023-08-03T06:05:43.1791653+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:00.9603289+00:00",
-  "LastUpdate_Ratings": "2023-08-03T05:01:04.9315706+00:00",
-  "LastUpdate_Achievements": "2023-08-03T05:06:52.8298626+00:00"
+  "LastUpdate_Ratings": "2023-08-03T05:59:58.0891005+00:00",
+  "LastUpdate_Achievements": "2023-08-03T06:05:43.1791865+00:00"
 }

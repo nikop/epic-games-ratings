@@ -1,7 +1,7 @@
 # Saturnalia
 [Store](https://store.epicgames.com/en-US/p/saturnalia)  
 [View Rawdata](../../db/s/saturnalia.json)  
-Rating: 4.25 (Ranked 818)  
+Rating: 4.25 (Ranked 819)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,7 +26,7 @@ Rating: 4.25 (Ranked 818)
 | Paparazzi | 0.30% | ~195 |
 | Ear Ringing | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,104 (Ranked 82)  
+Progressed: 65,105 (Ranked 82)  
 Completed: 13 (0.02%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 13 (0.02%) (Ranked 227)
 | 2023-07-31 | 65,023 | 13 |
 | 2023-08-01 | 65,063 | 13 |
 | 2023-08-02 | 65,097 | 13 |
-| 2023-08-03 | 65,104 | 13 |
+| 2023-08-03 | 65,105 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

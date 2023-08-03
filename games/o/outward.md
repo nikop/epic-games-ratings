@@ -1,19 +1,19 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 482)  
+Rating: 4.55 (Ranked 483)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Venture Outward | 75.00% | ~2,444 |
-| Ready for Winter | 64.00% | ~2,085 |
+| Ready for Winter | 64.00% | ~2,086 |
 | Ready for Summer | 51.00% | ~1,662 |
 | Cordon Bleu | 43.00% | ~1,401 |
 | Tapped! | 36.00% | ~1,173 |
 | Eureka | 31.00% | ~1,010 |
-| Scourge Slayer | 25.00% | ~814 |
-| Science, Troglodyte! | 23.00% | ~749 |
+| Scourge Slayer | 25.00% | ~815 |
+| Science, Troglodyte! | 23.00% | ~750 |
 | Exceptional Skill | 22.00% | ~717 |
 | Home Sweet Home | 22.00% | ~717 |
 | Encyclopedic! | 19.00% | ~619 |
@@ -29,8 +29,8 @@ Number of Ratings: 266  (23.09.2022)
 | House of Cards | 7.00% | ~228 |
 | Let ‘em eat magma! | 7.00% | ~228 |
 | The power of ambition | 7.00% | ~228 |
-| Hold my Mead and Watch This | 6.00% | ~195 |
-| The stuff of legends. | 6.00% | ~195 |
+| Hold my Mead and Watch This | 6.00% | ~196 |
+| The stuff of legends. | 6.00% | ~196 |
 | Blood and justice | 5.00% | ~163 |
 | Ancestor's Pride | 4.00% | ~130 |
 | For All Aurai | 4.00% | ~130 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,258 (Ranked 152)  
+Progressed: 3,259 (Ranked 152)  
 Completed: 3 (0.09%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,11 +151,11 @@ Completed: 3 (0.09%) (Ranked 199)
 | 2023-07-31 | 3,217 | 3 |
 | 2023-08-01 | 3,238 | 3 |
 | 2023-08-02 | 3,256 | 3 |
-| 2023-08-03 | 3,258 | 3 |
+| 2023-08-03 | 3,259 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 446)  
-Sum: 241 (Ranked 352)  
-Diff (max vs sum): 94  
+Sum: 241 (Ranked 353)  
+Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 33 |

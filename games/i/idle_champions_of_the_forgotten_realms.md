@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,724 |
-| Beast Intentions | 3.00% | ~6,543 |
+| A Brief Tour of the Realms | 4.00% | ~8,725 |
+| Beast Intentions | 3.00% | ~6,544 |
 | Maddening | 2.00% | ~4,362 |
 | The Silken Swamp | 1.00% | ~2,181 |
 | Supply Run | 1.00% | ~2,181 |
 | Rocky Reception | 1.00% | ~1,844 |
 | Rock and Roll | 1.00% | ~1,844 |
-| Vecna Lives! | 0.90% | ~1,659 |
+| Vecna Lives! | 0.90% | ~1,660 |
 | Tall Tales | 0.80% | ~1,475 |
 | Vecna Loots! | 0.80% | ~1,475 |
 | Flight of the Kindori Pod | 0.80% | ~1,475 |
@@ -145,6 +145,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friends and Foes | 0.20% | ~369 |
 | An Unexpected Geist | 0.20% | ~369 |
 | A Monarch Among Us | 0.20% | ~369 |
+| A Dragon Against Us | 0.20% | ~369 |
 | Sticky Fingers | 0.20% | ~369 |
 | The Spire of Iriolarthas | 0.20% | ~369 |
 | The Fall of Ythryn | 0.20% | ~369 |
@@ -234,7 +235,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.10% | ~184 |
 | And Your Enemies Closer | 0.10% | ~184 |
 | Back to Nature | 0.10% | ~184 |
-| A Dragon Against Us | 0.10% | ~184 |
 | A Familiar Behind Us | 0.10% | ~184 |
 | Patron Party | 0.10% | ~184 |
 | Go Fourth | 0.10% | ~184 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,106 (Ranked 53)  
+Progressed: 218,118 (Ranked 53)  
 Completed: 2,147 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -624,10 +624,10 @@ Completed: 2,147 (0.98%) (Ranked 112)
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
-| 2023-08-03 | 218,106 | 2,147 |
+| 2023-08-03 | 218,118 | 2,147 |
 ## Awards
 Max (Diverse Characters): 5,109  (Ranked 67)  
-Sum: 30,863 (Ranked 38)  
+Sum: 30,864 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -637,7 +637,7 @@ Diff (max vs sum): 29
 | This game is Relaxing | 4,594 |
 | This game has Amazing Characters | 4,047 |
 | This game is Highly Recommended | 4,029 |
-| This game has Playful Visuals | 3,337 |
+| This game has Playful Visuals | 3,338 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -830,4 +830,4 @@ Diff (max vs sum): 29
 | 2023-07-31 | 4.05 | - | 5,106 | 30,831 |
 | 2023-08-01 | 4.05 | - | 5,108 | 30,850 |
 | 2023-08-02 | 4.05 | - | 5,109 | 30,857 |
-| 2023-08-03 | 4.05 | - | 5,109 | 30,863 |
+| 2023-08-03 | 4.05 | - | 5,109 | 30,864 |

@@ -4,8 +4,8 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2017-10-12T00:00:00+00:00",
@@ -72,9 +72,9 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "b36c5kb",
       "Name": "Welcome to Union",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -454,8 +454,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-03T05:03:24.5490504+00:00",
+  "LastChanged_Achievements": "2023-08-03T06:03:15.998646+00:00",
   "LastUpdate_AppInfo": "2023-08-02T15:56:51.7948798+00:00",
-  "LastUpdate_Ratings": "2023-08-03T04:57:03.5408689+00:00",
-  "LastUpdate_Achievements": "2023-08-03T05:03:24.5491145+00:00"
+  "LastUpdate_Ratings": "2023-08-03T05:57:03.7008604+00:00",
+  "LastUpdate_Achievements": "2023-08-03T06:03:15.9986929+00:00"
 }

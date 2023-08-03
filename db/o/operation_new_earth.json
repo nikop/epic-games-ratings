@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 759,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2656,9 +2656,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 76
     },
     {
       "ID": "ach_defeat_players_100",
@@ -2951,8 +2951,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-03T05:07:27.6079391+00:00",
+  "LastChanged_Achievements": "2023-08-03T06:06:07.9632914+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-08-03T04:57:09.5924019+00:00",
-  "LastUpdate_Achievements": "2023-08-03T05:07:27.6080255+00:00"
+  "LastUpdate_Ratings": "2023-08-03T05:57:07.2051215+00:00",
+  "LastUpdate_Achievements": "2023-08-03T06:06:07.9633312+00:00"
 }

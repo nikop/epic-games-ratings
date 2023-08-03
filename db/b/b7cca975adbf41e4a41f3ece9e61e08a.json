@@ -4,8 +4,8 @@
   "ProductSlug": "love-is-all-around-3a8046",
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -233,9 +233,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "7opfcp",
       "Name": "Wanna Come To My Place For Dinner?",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -391,8 +391,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
-  "LastChanged_Achievements": "2023-08-03T05:03:22.8730827+00:00",
+  "LastChanged_Achievements": "2023-08-03T06:03:14.7914578+00:00",
   "LastUpdate_AppInfo": "2023-07-28T11:57:14.9232889+00:00",
-  "LastUpdate_Ratings": "2023-08-03T04:57:37.872338+00:00",
-  "LastUpdate_Achievements": "2023-08-03T05:03:22.8731635+00:00"
+  "LastUpdate_Ratings": "2023-08-03T05:57:30.0130127+00:00",
+  "LastUpdate_Achievements": "2023-08-03T06:03:14.7914944+00:00"
 }

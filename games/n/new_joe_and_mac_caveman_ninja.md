@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The T-Rex plain. | 53.00% | ~111 |
-| Crazy Jungle. | 34.00% | ~71 |
+| The T-Rex plain. | 54.00% | ~113 |
+| Crazy Jungle. | 35.00% | ~74 |
 | A turbulent river. | 21.00% | ~44 |
 | In the treetops. | 20.00% | ~42 |
 | At the top of the mountain. | 18.00% | ~38 |
-| Aggressive rocks. | 17.00% | ~36 |
+| Aggressive rocks. | 18.00% | ~38 |
 | Dino Ride. | 16.00% | ~34 |
+| Rocky fall. | 12.00% | ~25 |
 | In the heart of the volcano. | 11.00% | ~23 |
-| Rocky fall. | 11.00% | ~23 |
 | Dinosaur graveyard. | 10.00% | ~21 |
 | Swimming on a dino's back. | 9.00% | ~19 |
 | The entrails of the beast. | 8.00% | ~17 |

@@ -4,8 +4,8 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -387,9 +387,9 @@
       "ID": "BADGE_BUILDINGS_CAPTURE",
       "SetID": "ak6pfjk",
       "Name": "Takeover",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "BADGE_CHAMPIONS_KILL",
@@ -403,9 +403,9 @@
       "ID": "BADGE_CHAMPIONS_KILL_2",
       "SetID": "ak6pfjk",
       "Name": "V.I.P. Cemetery",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "BADGE_DEADMANS_CHEST",
@@ -427,9 +427,9 @@
       "ID": "BADGE_ENEMIES_KILL",
       "SetID": "ak6pfjk",
       "Name": "The Apotheosis of War",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "BADGE_ENEMIES_USING_MINES_KILL",
@@ -499,9 +499,9 @@
       "ID": "BADGE_METEOR_SIMULTANEOUS_KILL",
       "SetID": "ak6pfjk",
       "Name": "Sharpshooter",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "BADGE_MONUMENT_KEEPER",
@@ -587,9 +587,9 @@
       "ID": "BADGE_TOWER_UPGRADE_2",
       "SetID": "ak6pfjk",
       "Name": "Architect of Darkness",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     }
   ],
   "AchievementSets": [
@@ -604,8 +604,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-08-03T05:05:16.0229148+00:00",
+  "LastChanged_Achievements": "2023-08-03T06:04:34.3703634+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:27.292424+00:00",
-  "LastUpdate_Ratings": "2023-08-03T05:00:13.2798746+00:00",
-  "LastUpdate_Achievements": "2023-08-03T05:05:16.0229926+00:00"
+  "LastUpdate_Ratings": "2023-08-03T05:59:23.4362058+00:00",
+  "LastUpdate_Achievements": "2023-08-03T06:04:34.3704007+00:00"
 }

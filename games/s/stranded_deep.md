@@ -1,12 +1,12 @@
 # Stranded Deep
 [Store](https://store.epicgames.com/en-US/p/stranded-deep)  
 [View Rawdata](../../db/s/stranded_deep.json)  
-Rating: 4.22 (Ranked 839)  
+Rating: 4.22 (Ranked 840)  
 Number of Ratings: 3,300  (23.09.2022)  
 ## Awards
-Max (Quickly Understood Controls): 206  (Ranked 270)  
+Max (Quickly Understood Controls): 206  (Ranked 271)  
 Sum: 1,061 (Ranked 235)  
-Diff (max vs sum): 35  
+Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 206 |

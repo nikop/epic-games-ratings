@@ -9,10 +9,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Devoured by Darkness | 22.00% | ~2,370 |
 | A Spark | 16.00% | ~1,724 |
 | Burning City | 15.00% | ~1,616 |
-| Defender's Heart | 13.00% | ~1,400 |
-| Banner over the Citadel | 12.00% | ~1,293 |
+| Defender's Heart | 13.00% | ~1,401 |
 | Mythic Choices | 12.00% | ~1,293 |
-| Queen's Gratitude | 10.00% | ~1,077 |
+| Banner over the Citadel | 11.00% | ~1,185 |
+| Queen's Gratitude | 10.00% | ~1,078 |
 | Fifth Crusade | 7.00% | ~754 |
 | Embrace of the Abyss | 5.00% | ~539 |
 | Path of the Angel | 5.00% | ~539 |
@@ -33,13 +33,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hey, I Know You! | 3.00% | ~323 |
 | The Lady of the Forest | 3.00% | ~287 |
 | Beware Still Water | 3.00% | ~287 |
-| Path of the Aeon | 2.00% | ~215 |
-| Path of the Lich | 2.00% | ~215 |
-| Heroic Victory | 2.00% | ~215 |
-| Capitulation Is Now Moot | 2.00% | ~215 |
-| Core of the Riddle | 2.00% | ~215 |
-| Your First Big Enemy | 2.00% | ~215 |
-| Truly Important Deed | 2.00% | ~215 |
+| Path of the Aeon | 2.00% | ~216 |
+| Path of the Lich | 2.00% | ~216 |
+| Heroic Victory | 2.00% | ~216 |
+| Capitulation Is Now Moot | 2.00% | ~216 |
+| Core of the Riddle | 2.00% | ~216 |
+| Your First Big Enemy | 2.00% | ~216 |
+| Truly Important Deed | 2.00% | ~216 |
 | Stay Underground | 2.00% | ~191 |
 | Hanged Man's Notes | 2.00% | ~191 |
 | Sarkoris Will Be Green | 2.00% | ~191 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,773 (Ranked 120)  
+Progressed: 10,775 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-31 | 10,721 | 0 |
 | 2023-08-01 | 10,749 | 0 |
 | 2023-08-02 | 10,767 | 0 |
-| 2023-08-03 | 10,773 | 0 |
+| 2023-08-03 | 10,775 | 0 |
 ## Awards
 Max (Character Customization): 1,695  (Ranked 117)  
 Sum: 6,864 (Ranked 113)  

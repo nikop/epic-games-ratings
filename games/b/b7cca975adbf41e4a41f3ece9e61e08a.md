@@ -8,6 +8,7 @@
 | I Challenge You To Save More Money! | 33.00% | ~1 |
 | I Love How Tough You Are | 33.00% | ~1 |
 | Hurrah! | 33.00% | ~1 |
+| Wanna Come To My Place For Dinner? | 33.00% | ~1 |
 | FIRST LOVE | 33.00% | ~1 |
 | Are You Alright? | 33.00% | ~1 |
 | Go Clean up In Your Own Way | 33.00% | ~1 |
@@ -31,7 +32,6 @@
 | Counting Sheep? | 0.00% | ~0 |
 | The Flash | 0.00% | ~0 |
 | Can You Do This Or Not? | 0.00% | ~0 |
-| Wanna Come To My Place For Dinner? | 0.00% | ~0 |
 | New Yoga Pose Unlocked | 0.00% | ~0 |
 | Stubborn Noob | 0.00% | ~0 |
 | What I Want Is You | 0.00% | ~0 |

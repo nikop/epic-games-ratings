@@ -9,7 +9,7 @@ Number of Ratings: 111  (23.09.2022)
 | You're free now! | 58.00% | ~1,561 |
 | Keeping it classy | 26.00% | ~700 |
 | Welcome to the family | 20.00% | ~538 |
-| The finer things in life | 17.00% | ~458 |
+| The finer things in life | 18.00% | ~485 |
 | Backpacker | 13.00% | ~350 |
 | Go with the Flow | 12.00% | ~323 |
 | Plastic Surgeon | 9.00% | ~242 |

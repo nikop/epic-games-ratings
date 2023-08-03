@@ -52,12 +52,12 @@
 | Seashell hunter | 34.00% | ~72 |
 | Mom got better | 33.00% | ~70 |
 | The die is cast | 33.00% | ~70 |
+| The last bell ring | 31.00% | ~66 |
 | Undercover robot | 31.00% | ~66 |
 | Gang wrangler | 30.00% | ~64 |
 | Problems of cyborgs | 30.00% | ~64 |
 | Not little hacker | 30.00% | ~64 |
 | Absolute Champion! | 30.00% | ~64 |
-| The last bell ring | 30.00% | ~64 |
 | The lonesome road | 29.00% | ~61 |
 | Key memories | 29.00% | ~61 |
 | The heart of the Resistance | 29.00% | ~61 |

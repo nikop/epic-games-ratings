@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -227,11 +227,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1839,
+  "EOS_Progressed": 1840,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.44,
+  "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:46.139377+00:00",
@@ -2327,6 +2327,11 @@
       "Time": "2023-08-03T05:04:36.8820227+00:00",
       "NumProgressed": 1839,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-03T06:04:06.8707518+00:00",
+      "NumProgressed": 1840,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2336,9 +2341,9 @@
       "ID": "BecomeKing",
       "SetID": "9lj35g4",
       "Name": "Become King",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1343
     },
     {
       "ID": "Collect20Gold",
@@ -2354,7 +2359,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "Collect50MonsterParts",
@@ -2402,7 +2407,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "CompleteElderFaction",
@@ -2418,7 +2423,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2450,7 +2455,7 @@
       "Name": "End of the Mozis",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -2458,7 +2463,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -2498,7 +2503,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "Kill25Frogs",
@@ -2506,7 +2511,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "Kill25Mozi",
@@ -2530,7 +2535,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "RepairChef",
@@ -2554,7 +2559,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "RescueBrothers",
@@ -2577,22 +2582,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1839,
+      "Progressed": 1840,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 480,
-      "Completed": 480
+      "Progressed": 481,
+      "Completed": 481
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-30T07:58:33.6633976+00:00",
-  "LastChanged_Achievements": "2023-08-03T05:04:36.882022+00:00",
+  "LastChanged_Achievements": "2023-08-03T06:04:06.8707515+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.5556081+00:00",
-  "LastUpdate_Ratings": "2023-08-03T04:59:51.9567524+00:00",
-  "LastUpdate_Achievements": "2023-08-03T05:04:36.8820909+00:00"
+  "LastUpdate_Ratings": "2023-08-03T05:59:11.4912068+00:00",
+  "LastUpdate_Achievements": "2023-08-03T06:04:06.8707757+00:00"
 }

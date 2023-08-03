@@ -6,11 +6,11 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~20,986 |
-| A thief's beginning | 9.00% | ~17,170 |
-| Thorough | 9.00% | ~17,170 |
-| Rollin' | 8.00% | ~15,262 |
-| Tanuki Time | 8.00% | ~15,262 |
+| Genin | 11.00% | ~20,987 |
+| A thief's beginning | 9.00% | ~17,171 |
+| Thorough | 9.00% | ~17,171 |
+| Rollin' | 8.00% | ~15,263 |
+| Tanuki Time | 8.00% | ~15,263 |
 | Disguised | 7.00% | ~13,355 |
 | Jonin | 7.00% | ~13,355 |
 | Rescue Takuma | 7.00% | ~13,355 |
@@ -27,9 +27,9 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 4.00% | ~7,631 |
 | Prisoners | 4.00% | ~7,631 |
 | Too Early | 4.00% | ~7,631 |
-| Noboru | 3.00% | ~5,723 |
-| Still Rollin' | 3.00% | ~5,723 |
-| Stoned | 3.00% | ~5,723 |
+| Noboru | 3.00% | ~5,724 |
+| Still Rollin' | 3.00% | ~5,724 |
+| Stoned | 3.00% | ~5,724 |
 | Atheist Ox | 2.00% | ~3,816 |
 | It's raining men | 2.00% | ~3,816 |
 | Old Man | 2.00% | ~3,816 |
@@ -40,8 +40,8 @@ Number of Ratings: 495  (23.09.2022)
 | The End | 1.00% | ~1,908 |
 | Undeserved Honor | 0.90% | ~1,717 |
 | When Cut Across the Neck | 0.80% | ~1,526 |
-| High Five the Moon | 0.70% | ~1,335 |
-| The Cave | 0.70% | ~1,335 |
+| High Five the Moon | 0.70% | ~1,336 |
+| The Cave | 0.70% | ~1,336 |
 | Merciful | 0.50% | ~954 |
 | Time Paradox | 0.50% | ~954 |
 | Five Shadows | 0.30% | ~572 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~191 |
 | Release the Kraken | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 190,779 (Ranked 59)  
+Progressed: 190,787 (Ranked 59)  
 Completed: 65 (0.03%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 65 (0.03%) (Ranked 222)
 | 2023-07-31 | 190,283 | 65 |
 | 2023-08-01 | 190,508 | 65 |
 | 2023-08-02 | 190,727 | 65 |
-| 2023-08-03 | 190,779 | 65 |
+| 2023-08-03 | 190,787 | 65 |
 ## Awards
 Max (Great for Beginners): 559  (Ranked 184)  
 Sum: 4,717 (Ranked 133)  

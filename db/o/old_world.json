@@ -3,12 +3,12 @@
   "Name": "Old World",
   "ProductSlug": "old-world",
   "Ranking_Rating": 299,
-  "Ranking_Popularity": 262,
+  "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -9110,9 +9110,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
       "SetID": "9201eeb",
       "Name": "Bad Heir Day",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 40
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
@@ -9134,9 +9134,9 @@
       "ID": "ACHIEVEMENT_BABYLON_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens in Babylon",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_ISHTAR_GATE",
@@ -9494,9 +9494,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
       "SetID": "9201eeb",
       "Name": "Fountainhead",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GLORIOUS",
@@ -9758,17 +9758,17 @@
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
       "SetID": "9201eeb",
       "Name": "Legendary Cities",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 66
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
       "SetID": "9201eeb",
       "Name": "Strong Cities",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_DAMASCUS_VIA_RECTA_SOUK",
@@ -10390,9 +10390,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
       "SetID": "9201eeb",
       "Name": "Circus Maximus",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
@@ -10478,9 +10478,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
       "SetID": "9201eeb",
       "Name": "Mausoleum",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
@@ -10582,9 +10582,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 2",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
@@ -10838,17 +10838,17 @@
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
       "SetID": "7l38kb8",
       "Name": "Judaism",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
       "SetID": "7l38kb8",
       "Name": "Manichaeism",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
@@ -10878,9 +10878,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egyptian Paganism",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
@@ -10998,9 +10998,9 @@
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
       "SetID": "9201eeb",
       "Name": "Industrial Progress",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 40
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -11126,9 +11126,9 @@
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
       "SetID": "9201eeb",
       "Name": "Legionary",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -11436,8 +11436,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-01T16:59:10.6733314+00:00",
-  "LastChanged_Achievements": "2023-08-03T05:03:19.1018391+00:00",
+  "LastChanged_Achievements": "2023-08-03T06:03:12.28413+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.4550053+00:00",
-  "LastUpdate_Ratings": "2023-08-03T04:59:14.2949969+00:00",
-  "LastUpdate_Achievements": "2023-08-03T05:03:19.1028144+00:00"
+  "LastUpdate_Ratings": "2023-08-03T05:58:48.126907+00:00",
+  "LastUpdate_Achievements": "2023-08-03T06:03:12.2849049+00:00"
 }

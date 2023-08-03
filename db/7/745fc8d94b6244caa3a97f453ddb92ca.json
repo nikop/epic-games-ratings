@@ -4,8 +4,8 @@
   "ProductSlug": "project-nightmares-dcc54b",
   "Ranking_EOS_Progress": 527,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T13:10:49.3119111+00:00",
-  "LastChanged_Achievements": "2023-08-03T05:05:19.8104139+00:00",
+  "LastChanged_Achievements": "2023-08-03T06:04:37.174875+00:00",
   "LastUpdate_AppInfo": "2023-07-27T13:57:11.1397983+00:00",
-  "LastUpdate_Ratings": "2023-08-03T04:57:29.4957047+00:00",
-  "LastUpdate_Achievements": "2023-08-03T05:05:19.8104188+00:00"
+  "LastUpdate_Ratings": "2023-08-03T05:57:22.4458295+00:00",
+  "LastUpdate_Achievements": "2023-08-03T06:04:37.1748778+00:00"
 }

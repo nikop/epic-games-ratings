@@ -2,13 +2,13 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 866,
+  "Ranking_Rating": 867,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -406,9 +406,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7390,
+  "EOS_Progressed": 7391,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -6816,6 +6816,11 @@
       "Time": "2023-08-03T05:06:54.0628883+00:00",
       "NumProgressed": 7390,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-03T06:05:43.9219562+00:00",
+      "NumProgressed": 7391,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 29,
@@ -6827,7 +6832,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6134
+      "UsersEstimate": 6135
     },
     {
       "ID": "ACH02",
@@ -6851,7 +6856,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2734
+      "UsersEstimate": 2735
     },
     {
       "ID": "ACH05",
@@ -7058,7 +7063,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7390,
+      "Progressed": 7391,
       "Completed": 42
     }
   ],
@@ -7066,8 +7071,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-01T02:03:47.9919957+00:00",
-  "LastChanged_Achievements": "2023-08-03T05:06:54.0628874+00:00",
+  "LastChanged_Achievements": "2023-08-03T06:05:43.9219558+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:45.6186895+00:00",
-  "LastUpdate_Ratings": "2023-08-03T04:59:05.5930387+00:00",
-  "LastUpdate_Achievements": "2023-08-03T05:06:54.0629927+00:00"
+  "LastUpdate_Ratings": "2023-08-03T05:58:40.745575+00:00",
+  "LastUpdate_Achievements": "2023-08-03T06:05:43.9220003+00:00"
 }

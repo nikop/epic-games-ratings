@@ -4,8 +4,8 @@
   "ProductSlug": "trials-of-fire",
   "Ranking_EOS_Progress": 527,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-06-09T15:00:00+00:00",
     "PcReleaseDate": "2021-04-09T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:04.6975561+00:00",
   "LastChanged": "2023-03-31T05:58:04.6975562+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:29.047493+00:00",
-  "LastUpdate_Ratings": "2023-08-03T04:57:08.6291682+00:00",
-  "LastUpdate_Achievements": "2023-08-03T05:06:56.1211202+00:00"
+  "LastUpdate_Ratings": "2023-08-03T05:57:06.3677848+00:00",
+  "LastUpdate_Achievements": "2023-08-03T06:05:45.3707386+00:00"
 }

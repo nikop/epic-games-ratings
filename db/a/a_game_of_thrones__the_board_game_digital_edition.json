@@ -2,13 +2,13 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 849,
+  "Ranking_Rating": 850,
   "Ranking_Popularity": 312,
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1269,9 +1269,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 20337,
+  "EOS_Progressed": 20340,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 720,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -12329,6 +12329,11 @@
       "Time": "2023-08-03T05:04:57.821745+00:00",
       "NumProgressed": 20337,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-03T06:04:21.9585406+00:00",
+      "NumProgressed": 20340,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 22,
@@ -12436,7 +12441,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "1028",
@@ -12460,7 +12465,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4067
+      "UsersEstimate": 4068
     },
     {
       "ID": "1031",
@@ -12468,7 +12473,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2847
+      "UsersEstimate": 2848
     },
     {
       "ID": "1032",
@@ -12476,7 +12481,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 8135
+      "UsersEstimate": 8136
     },
     {
       "ID": "1033",
@@ -12515,15 +12520,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 20337,
+      "Progressed": 20340,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-08-02T00:02:09.7226533+00:00",
-  "LastChanged_Achievements": "2023-08-03T05:04:57.8217443+00:00",
+  "LastChanged_Achievements": "2023-08-03T06:04:21.9585401+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:09.3482059+00:00",
-  "LastUpdate_Ratings": "2023-08-03T05:02:38.5373268+00:00",
-  "LastUpdate_Achievements": "2023-08-03T05:04:57.8218995+00:00"
+  "LastUpdate_Ratings": "2023-08-03T06:01:02.2239721+00:00",
+  "LastUpdate_Achievements": "2023-08-03T06:04:21.9586045+00:00"
 }
