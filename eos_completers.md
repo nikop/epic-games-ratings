@@ -28,7 +28,7 @@
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.43% |
 | 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
-| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.66% |
+| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.63% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 31 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.33% |
 | 32 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -38,7 +38,7 @@
 | 36 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 37 | [Scorn](games/s/scorn.md) | 6.94% |
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.32% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.30% |
 | 40 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 41 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.88% |
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.70% |
@@ -91,7 +91,7 @@
 | 89 | [Frogun](games/f/frogun.md) | 1.82% |
 | 90 | [Sifu](games/s/sifu.md) | 1.80% |
 | 91 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.74% |
-| 92 | [Iron Danger](games/i/iron_danger.md) | 1.66% |
+| 92 | [Iron Danger](games/i/iron_danger.md) | 1.65% |
 | 93 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.62% |
 | 94 | [Somerville](games/s/somerville.md) | 1.61% |
 | 95 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.60% |
@@ -197,13 +197,13 @@
 | 195 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
 | 195 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 195 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 195 | [Shop Titans](games/s/shop_titans.md) | 0.10% |
 | 195 | [Supraland](games/s/supraland.md) | 0.10% |
-| 199 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 199 | [Outward Definitive Edition](games/o/outward.md) | 0.09% |
-| 199 | [Riverbond](games/r/riverbond.md) | 0.09% |
-| 199 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
-| 199 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 199 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 200 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 200 | [Outward Definitive Edition](games/o/outward.md) | 0.09% |
+| 200 | [Riverbond](games/r/riverbond.md) | 0.09% |
+| 200 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 200 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 205 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
 | 206 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 207 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.06% |
@@ -526,4 +526,4 @@
 | 247 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 247 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 247 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,994 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,995 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
