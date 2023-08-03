@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1644,9 +1644,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24722,
+  "EOS_Progressed": 24723,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9414,6 +9414,11 @@
       "Time": "2023-08-03T22:04:15.6126333+00:00",
       "NumProgressed": 24722,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-03T23:04:30.7330023+00:00",
+      "NumProgressed": 24723,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 51,
@@ -9425,7 +9430,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18047
+      "UsersEstimate": 18048
     },
     {
       "ID": "Animated",
@@ -9433,7 +9438,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 5933
+      "UsersEstimate": 5934
     },
     {
       "ID": "Back_Off",
@@ -9473,7 +9478,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 12608
+      "UsersEstimate": 12609
     },
     {
       "ID": "Collector",
@@ -9489,7 +9494,7 @@
       "Name": "Cultured",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 12608
+      "UsersEstimate": 12609
     },
     {
       "ID": "Daily_Dose",
@@ -9497,7 +9502,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8405
+      "UsersEstimate": 8406
     },
     {
       "ID": "Diabolical",
@@ -9513,7 +9518,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15080
+      "UsersEstimate": 15081
     },
     {
       "ID": "Dont_Need_These",
@@ -9641,7 +9646,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6180
+      "UsersEstimate": 6181
     },
     {
       "ID": "Reckless",
@@ -9705,7 +9710,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5933
+      "UsersEstimate": 5934
     },
     {
       "ID": "Solo_Capture",
@@ -9729,7 +9734,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21261
+      "UsersEstimate": 21262
     },
     {
       "ID": "Summoner",
@@ -9785,7 +9790,7 @@
       "Name": "There you are!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10383
+      "UsersEstimate": 10384
     },
     {
       "ID": "Tobins_Prodigy",
@@ -9832,7 +9837,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24722,
+      "Progressed": 24723,
       "Completed": 48
     }
   ],
@@ -9840,8 +9845,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-03T05:59:52.2827785+00:00",
-  "LastChanged_Achievements": "2023-08-03T22:04:15.6126327+00:00",
+  "LastChanged_Achievements": "2023-08-03T23:04:30.7330017+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:56.6577114+00:00",
-  "LastUpdate_Ratings": "2023-08-03T22:01:00.4105507+00:00",
-  "LastUpdate_Achievements": "2023-08-03T22:04:15.6127957+00:00"
+  "LastUpdate_Ratings": "2023-08-03T23:01:08.5027376+00:00",
+  "LastUpdate_Achievements": "2023-08-03T23:04:30.7331353+00:00"
 }

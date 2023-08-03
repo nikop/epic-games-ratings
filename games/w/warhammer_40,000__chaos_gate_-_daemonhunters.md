@@ -13,8 +13,8 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 2.00% | ~62 |
 | Purging Spree | 2.00% | ~62 |
 | An Ill Omen | 2.00% | ~62 |
+| Bloodless | 2.00% | ~62 |
 | Friendly Fire | 1.00% | ~31 |
-| Bloodless | 1.00% | ~31 |
 | A Foul Creche | 1.00% | ~31 |
 | Surgical Excision | 0.90% | ~28 |
 | Honoured Battle-Brother | 0.80% | ~25 |

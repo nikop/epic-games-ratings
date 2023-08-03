@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524046,
+  "EOS_Progressed": 524047,
   "EOS_Completed": 454,
-  "EOS_NewPlayers": 663,
+  "EOS_NewPlayers": 661,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -11510,6 +11510,11 @@
       "Time": "2023-08-03T22:05:35.6655328+00:00",
       "NumProgressed": 524046,
       "NumCompleted": 454
+    },
+    {
+      "Time": "2023-08-03T23:05:51.3938106+00:00",
+      "NumProgressed": 524047,
+      "NumCompleted": 454
     }
   ],
   "TotalAchievements": 57,
@@ -11537,7 +11542,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 366832
+      "UsersEstimate": 366833
     },
     {
       "ID": "12",
@@ -11745,7 +11750,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 262023
+      "UsersEstimate": 262024
     },
     {
       "ID": "36",
@@ -11753,7 +11758,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 83847
+      "UsersEstimate": 83848
     },
     {
       "ID": "37",
@@ -11881,7 +11886,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 73366
+      "UsersEstimate": 73367
     },
     {
       "ID": "51",
@@ -11897,7 +11902,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 241061
+      "UsersEstimate": 241062
     },
     {
       "ID": "53",
@@ -11976,15 +11981,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 524046,
+      "Progressed": 524047,
       "Completed": 454
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-03T22:05:35.6655322+00:00",
+  "LastChanged_Achievements": "2023-08-03T23:05:51.3938101+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:06.8481314+00:00",
-  "LastUpdate_Ratings": "2023-08-03T21:58:42.2993146+00:00",
-  "LastUpdate_Achievements": "2023-08-03T22:05:35.6656568+00:00"
+  "LastUpdate_Ratings": "2023-08-03T22:58:47.6434208+00:00",
+  "LastUpdate_Achievements": "2023-08-03T23:05:51.3940086+00:00"
 }

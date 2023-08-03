@@ -16,7 +16,7 @@
 | Neurotrainer – power gainer! | 75.00% | ~164 |
 | Employee of the week | 75.00% | ~164 |
 | Your own amateur gym | 74.00% | ~162 |
-| Run K, run! | 71.00% | ~155 |
+| Run K, run! | 72.00% | ~158 |
 | No bullying more | 68.00% | ~149 |
 | Hello, world! | 68.00% | ~149 |
 | Fighting is cool | 67.00% | ~147 |
@@ -28,12 +28,12 @@
 | Intriguing candies | 57.00% | ~125 |
 | Workout professional | 55.00% | ~120 |
 | It's good to be alive | 55.00% | ~120 |
-| Own four walls | 54.00% | ~118 |
+| Own four walls | 55.00% | ~120 |
 | Handyman | 53.00% | ~116 |
 | Champion – starter pack | 53.00% | ~116 |
 | Employee of the year | 53.00% | ~116 |
-| Fight for life | 51.00% | ~112 |
-| Legal courier | 50.00% | ~110 |
+| Fight for life | 52.00% | ~114 |
+| Legal courier | 51.00% | ~112 |
 | Extreme neuropower! | 49.00% | ~107 |
 | Escaped from a big trouble | 47.00% | ~103 |
 | Now you are worthy | 46.00% | ~101 |
@@ -46,9 +46,9 @@
 | Get out of my apartment! | 36.00% | ~79 |
 | Responsible approach | 36.00% | ~79 |
 | GYM professional | 35.00% | ~77 |
+| Champion – no way back | 35.00% | ~77 |
 | Poisoned fighter | 35.00% | ~77 |
 | Deal with life | 34.00% | ~74 |
-| Champion – no way back | 34.00% | ~74 |
 | Seashell hunter | 34.00% | ~74 |
 | Mom got better | 32.00% | ~70 |
 | The die is cast | 32.00% | ~70 |

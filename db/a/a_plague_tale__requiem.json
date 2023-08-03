@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -368,7 +368,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12588,
+  "EOS_Progressed": 12589,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 2,
@@ -6623,6 +6623,11 @@
       "Time": "2023-08-03T22:04:35.0867444+00:00",
       "NumProgressed": 12588,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-08-03T23:04:50.5745975+00:00",
+      "NumProgressed": 12589,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 35,
@@ -6634,7 +6639,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11581
+      "UsersEstimate": 11582
     },
     {
       "ID": "ACH_02",
@@ -6650,7 +6655,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9190
     },
     {
       "ID": "ACH_04",
@@ -6666,7 +6671,7 @@
       "Name": "In our Wake",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 8434
+      "UsersEstimate": 8435
     },
     {
       "ID": "ACH_06",
@@ -6674,7 +6679,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 8056
+      "UsersEstimate": 8057
     },
     {
       "ID": "ACH_07",
@@ -6690,7 +6695,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 7427
+      "UsersEstimate": 7428
     },
     {
       "ID": "ACH_09",
@@ -6698,7 +6703,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 7049
+      "UsersEstimate": 7050
     },
     {
       "ID": "ACH_10",
@@ -6714,7 +6719,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 5916
+      "UsersEstimate": 5917
     },
     {
       "ID": "ACH_12",
@@ -6730,7 +6735,7 @@
       "Name": "Nothing Left",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 4783
+      "UsersEstimate": 4784
     },
     {
       "ID": "ACH_14",
@@ -6818,7 +6823,7 @@
       "Name": "Handful of pockets",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "ACH_25",
@@ -6826,7 +6831,7 @@
       "Name": "Effective instruments",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "ACH_26",
@@ -6850,7 +6855,7 @@
       "Name": "Alchemist",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 8434
+      "UsersEstimate": 8435
     },
     {
       "ID": "ACH_29",
@@ -6882,7 +6887,7 @@
       "Name": "Perfect shot",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2769
+      "UsersEstimate": 2770
     },
     {
       "ID": "ACH_33",
@@ -6890,7 +6895,7 @@
       "Name": "Perfect throw",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "ACH_34",
@@ -6913,7 +6918,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12588,
+      "Progressed": 12589,
       "Completed": 40
     }
   ],
@@ -6921,8 +6926,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-08-03T22:04:35.0867437+00:00",
+  "LastChanged_Achievements": "2023-08-03T23:04:50.574597+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:06.5960214+00:00",
-  "LastUpdate_Ratings": "2023-08-03T22:01:30.3500217+00:00",
-  "LastUpdate_Achievements": "2023-08-03T22:04:35.0868116+00:00"
+  "LastUpdate_Ratings": "2023-08-03T23:01:35.9687314+00:00",
+  "LastUpdate_Achievements": "2023-08-03T23:04:50.5746811+00:00"
 }

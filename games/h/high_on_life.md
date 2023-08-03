@@ -5,20 +5,20 @@ Rating: 4.66 (Ranked 273)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,749 |
-| Mods Please Ban | 77.00% | ~18,321 |
-| Bring A Knife to a Gun Fight | 76.00% | ~18,083 |
+| Eye Scream, You Scream | 83.00% | ~19,750 |
+| Mods Please Ban | 77.00% | ~18,322 |
+| Bring A Knife to a Gun Fight | 76.00% | ~18,084 |
 | Fallout Doesn't Let You Do This | 73.00% | ~17,370 |
-| First Bounty Down | 59.00% | ~14,038 |
+| First Bounty Down | 59.00% | ~14,039 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,563 |
-| Luglox Genocide | 43.00% | ~10,231 |
+| Luglox Genocide | 43.00% | ~10,232 |
 | Playing Card To Get | 33.00% | ~7,852 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,852 |
-| Creature Feature | 29.00% | ~6,900 |
-| Satisfied Gus-tomer | 28.00% | ~6,662 |
-| Cold-Blooded Driller | 28.00% | ~6,662 |
-| Are You Packin'? | 25.00% | ~5,948 |
-| G3 Graduation | 25.00% | ~5,948 |
+| Creature Feature | 29.00% | ~6,901 |
+| Satisfied Gus-tomer | 28.00% | ~6,663 |
+| Cold-Blooded Driller | 28.00% | ~6,663 |
+| Are You Packin'? | 25.00% | ~5,949 |
+| G3 Graduation | 25.00% | ~5,949 |
 | RIP Davey Glutes | 24.00% | ~5,711 |
 | Sweezy Like Sunday Morning | 24.00% | ~5,711 |
 | Hardest Battle In The Game | 22.00% | ~5,235 |
@@ -31,14 +31,14 @@ Rating: 4.66 (Ranked 273)
 | Seeing All The Sights | 15.00% | ~3,569 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,855 |
 | Carried Stan's Load To Completion | 12.00% | ~2,855 |
-| Eatin' Good in the Neighborhood | 9.00% | ~2,141 |
+| Eatin' Good in the Neighborhood | 9.00% | ~2,142 |
 | Sequel-Bait | 8.00% | ~1,904 |
 | Gunning For Your Job | 7.00% | ~1,666 |
 | Playing Favorites | 5.00% | ~1,190 |
 | Epic Legendary Prize | 1.00% | ~238 |
 | A Starfish Is Born | 1.00% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,794 (Ranked 102)  
+Progressed: 23,795 (Ranked 102)  
 Completed: 11 (0.05%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 11 (0.05%) (Ranked 212)
 | 2023-07-31 | 23,646 | 11 |
 | 2023-08-01 | 23,692 | 11 |
 | 2023-08-02 | 23,755 | 11 |
-| 2023-08-03 | 23,794 | 11 |
+| 2023-08-03 | 23,795 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

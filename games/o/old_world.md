@@ -77,6 +77,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.50% | ~66 |
 | Sages | 0.50% | ~66 |
 | Statesmen | 0.50% | ~66 |
+| Persian Paganism | 0.50% | ~66 |
 | Building Wonders | 0.50% | ~66 |
 | Points Victory | 0.50% | ~66 |
 | Beloved | 0.40% | ~53 |
@@ -96,7 +97,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.40% | ~53 |
 | Carthage | 0.40% | ~53 |
 | Power to the People | 0.40% | ~53 |
-| Persian Paganism | 0.40% | ~53 |
 | Economic Reform | 0.40% | ~53 |
 | Legalism | 0.40% | ~53 |
 | Cimmerian Archer | 0.40% | ~53 |

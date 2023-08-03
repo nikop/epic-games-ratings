@@ -5530,9 +5530,9 @@
       "Count": 3338
     }
   ],
-  "EOS_Progressed": 218370,
+  "EOS_Progressed": 218391,
   "EOS_Completed": 2148,
-  "EOS_NewPlayers": 2225,
+  "EOS_NewPlayers": 2222,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16895,6 +16895,11 @@
       "Time": "2023-08-03T22:03:11.9288691+00:00",
       "NumProgressed": 218370,
       "NumCompleted": 2148
+    },
+    {
+      "Time": "2023-08-03T23:03:17.6950098+00:00",
+      "NumProgressed": 218391,
+      "NumCompleted": 2148
     }
   ],
   "TotalAchievements": 512,
@@ -16906,7 +16911,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8735
+      "UsersEstimate": 8736
     },
     {
       "ID": "objective_completed_10",
@@ -16914,7 +16919,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4367
+      "UsersEstimate": 4368
     },
     {
       "ID": "objective_completed_100",
@@ -16930,7 +16935,7 @@
       "Name": "Upholding the Law",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_102",
@@ -17274,7 +17279,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6551
+      "UsersEstimate": 6552
     },
     {
       "ID": "objective_completed_110",
@@ -17570,7 +17575,7 @@
       "Name": "On the Hunt",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_1160",
@@ -17842,7 +17847,7 @@
       "Name": "Homecoming",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_125",
@@ -17874,7 +17879,7 @@
       "Name": "The Lost Heir of Omu",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_13",
@@ -18146,7 +18151,7 @@
       "Name": "Wisdom Check",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_171",
@@ -18290,7 +18295,7 @@
       "Name": "Family Entanglements",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_214",
@@ -18450,7 +18455,7 @@
       "Name": "Tower on the Lake",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_263",
@@ -18594,7 +18599,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_36",
@@ -18698,7 +18703,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_390",
@@ -18770,7 +18775,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_40",
@@ -19042,7 +19047,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_54",
@@ -19050,7 +19055,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_540",
@@ -19394,7 +19399,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_590",
@@ -19978,7 +19983,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_690",
@@ -20082,7 +20087,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_75",
@@ -20114,7 +20119,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_8",
@@ -20122,7 +20127,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_80",
@@ -20130,7 +20135,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_802",
@@ -20440,9 +20445,9 @@
       "ID": "objective_completed_857",
       "SetID": "415jc5c",
       "Name": "Deekin\u0027s Mission",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 369
     },
     {
       "ID": "objective_completed_858",
@@ -20650,7 +20655,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_902",
@@ -20930,7 +20935,7 @@
       "Name": "Rocky Reception",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "objective_completed_1376",
@@ -20946,7 +20951,7 @@
       "Name": "Rock and Roll",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "objective_completed_1381",
@@ -21001,21 +21006,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184644,
+      "Progressed": 184665,
       "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218370,
+      "Progressed": 218391,
       "Completed": 2148
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-03T21:59:40.9587957+00:00",
-  "LastChanged_Achievements": "2023-08-03T22:03:11.9288683+00:00",
+  "LastChanged_Achievements": "2023-08-03T23:03:17.6950094+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-03T21:59:40.9587964+00:00",
-  "LastUpdate_Achievements": "2023-08-03T22:03:11.9330743+00:00"
+  "LastUpdate_Ratings": "2023-08-03T22:59:49.6673731+00:00",
+  "LastUpdate_Achievements": "2023-08-03T23:03:17.6984913+00:00"
 }

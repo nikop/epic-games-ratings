@@ -4,8 +4,8 @@
   "ProductSlug": "deverse-world-3ccb84",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
     "PcReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 174,
+  "EOS_Progressed": 175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -676,6 +676,11 @@
       "Time": "2023-08-03T20:05:22.7290679+00:00",
       "NumProgressed": 174,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T23:06:37.5660935+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -688,7 +693,7 @@
       "Name": "Best pianist in the metaverse",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "bitcoin_collector",
@@ -704,7 +709,7 @@
       "Name": "Construct your world",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "goblin_slayed",
@@ -736,7 +741,7 @@
       "Name": "Moon Conquerer",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "pianist",
@@ -744,7 +749,7 @@
       "Name": "Pianist",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "platformer_player",
@@ -800,7 +805,7 @@
       "Name": "Tireless Explorer",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "treant_destroyer",
@@ -839,14 +844,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 174,
+      "Progressed": 175,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-08-03T22:06:31.9447018+00:00",
+  "LastChanged_Achievements": "2023-08-03T23:06:37.566093+00:00",
   "LastUpdate_AppInfo": "2023-08-03T07:56:56.1663904+00:00",
-  "LastUpdate_Ratings": "2023-08-03T21:57:52.7594655+00:00",
-  "LastUpdate_Achievements": "2023-08-03T22:06:31.9447218+00:00"
+  "LastUpdate_Ratings": "2023-08-03T22:57:57.5407934+00:00",
+  "LastUpdate_Achievements": "2023-08-03T23:06:37.5661128+00:00"
 }

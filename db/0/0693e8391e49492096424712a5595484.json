@@ -1240,9 +1240,9 @@
       "ID": "AmanitaRun",
       "SetID": "db30heh",
       "Name": "Wild Run",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 162
     },
     {
       "ID": "BasiliskBroom",
@@ -1376,9 +1376,9 @@
       "ID": "DwarfBeggarWoman",
       "SetID": "db30heh",
       "Name": "Funny Granny",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 151
     },
     {
       "ID": "DwarfHobo",
@@ -1400,9 +1400,9 @@
       "ID": "HastrmanAcorn",
       "SetID": "db30heh",
       "Name": "Do Not Disturb",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 176
+      "UsersEstimate": 180
     },
     {
       "ID": "HastrmanAmanita",
@@ -1607,8 +1607,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-03T22:08:02.7579175+00:00",
+  "LastChanged_Achievements": "2023-08-03T23:08:08.2923351+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-03T21:57:47.9906497+00:00",
-  "LastUpdate_Achievements": "2023-08-03T22:08:02.757999+00:00"
+  "LastUpdate_Ratings": "2023-08-03T22:57:55.3751331+00:00",
+  "LastUpdate_Achievements": "2023-08-03T23:08:08.292382+00:00"
 }

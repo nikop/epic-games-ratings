@@ -4,8 +4,8 @@
   "ProductSlug": "robocop-rogue-city",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-29T03:57:09.4287705+00:00",
-  "LastUpdate_Ratings": "2023-08-03T21:58:43.6039944+00:00",
-  "LastUpdate_Achievements": "2023-08-03T22:05:26.3657865+00:00"
+  "LastUpdate_Ratings": "2023-08-03T22:58:48.8312463+00:00",
+  "LastUpdate_Achievements": "2023-08-03T23:05:41.9791357+00:00"
 }

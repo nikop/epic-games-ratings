@@ -19,8 +19,8 @@
 | Solved The Spider of Lanka 2nd Case | 0.60% | ~1 |
 | Solved The Spider of Lanka 3rd Case | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169 (Ranked 295)  
-Completed: 8 (4.73%) (Ranked 48)  
+Progressed: 170 (Ranked 295)  
+Completed: 8 (4.71%) (Ranked 48)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,6 +79,7 @@ Completed: 8 (4.73%) (Ranked 48)
 | 2023-07-21 | 166 | 8 |
 | 2023-07-24 | 167 | 8 |
 | 2023-07-27 | 169 | 8 |
+| 2023-08-03 | 170 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

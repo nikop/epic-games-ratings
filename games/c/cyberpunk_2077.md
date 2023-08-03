@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~590,984 |
+| The Fool | 68.00% | ~590,985 |
 | Right Back At Ya | 39.00% | ~338,947 |
-| The Lovers | 34.00% | ~295,492 |
-| Stanislavski's Method | 28.00% | ~243,346 |
-| The Wheel of Fortune | 27.00% | ~234,655 |
+| The Lovers | 34.00% | ~295,493 |
+| Stanislavski's Method | 28.00% | ~243,347 |
+| The Wheel of Fortune | 27.00% | ~234,656 |
 | The Hermit | 24.00% | ~208,583 |
 | Christmas Tree Attack | 23.00% | ~199,892 |
 | True Soldier | 23.00% | ~199,892 |
@@ -26,10 +26,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 14.00% | ~121,673 |
 | To Protect and Serve | 13.00% | ~112,982 |
 | Master Crafter | 13.00% | ~112,982 |
-| Two Heads, One Bullet | 12.00% | ~104,291 |
-| The Quick and the Dead | 10.00% | ~86,909 |
-| The Wandering Fool | 9.00% | ~78,218 |
-| Ten out of Ten | 9.00% | ~78,218 |
+| Two Heads, One Bullet | 12.00% | ~104,292 |
+| The Quick and the Dead | 10.00% | ~86,910 |
+| The Wandering Fool | 9.00% | ~78,219 |
+| Ten out of Ten | 9.00% | ~78,219 |
 | Breathtaking | 8.00% | ~69,528 |
 | The Star | 7.00% | ~60,837 |
 | To Bad Decisions! | 6.00% | ~52,146 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,691 |
 | Rough Landing | 0.50% | ~4,345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 869,094 (Ranked 14)  
+Progressed: 869,096 (Ranked 14)  
 Completed: 1,930 (0.22%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 1,930 (0.22%) (Ranked 170)
 | 2023-07-31 | 868,663 | 1,922 |
 | 2023-08-01 | 868,813 | 1,926 |
 | 2023-08-02 | 868,963 | 1,929 |
-| 2023-08-03 | 869,094 | 1,930 |
+| 2023-08-03 | 869,096 | 1,930 |
 ## Awards
 Max (Character Customization): 74,715  (Ranked 9)  
 Sum: 196,898 (Ranked 13)  

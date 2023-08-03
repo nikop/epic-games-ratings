@@ -35,6 +35,7 @@
 | Sectoral Captain | 5.00% | ~3 |
 | Collateral Damage II | 5.00% | ~3 |
 | System Ensign | 4.00% | ~2 |
+| Cartridge Hoarder | 4.00% | ~2 |
 | Rambo III | 4.00% | ~2 |
 | Hitchhiker | 4.00% | ~2 |
 | Omicron Beta | 4.00% | ~2 |
@@ -48,7 +49,6 @@
 | Bronze Foundation | 2.00% | ~1 |
 | Bronze BBQ | 2.00% | ~1 |
 | Bronze Pest Control | 2.00% | ~1 |
-| Cartridge Hoarder | 2.00% | ~1 |
 | Rambo IV | 2.00% | ~1 |
 | Curious | 2.00% | ~1 |
 | Pilgrim | 2.00% | ~1 |

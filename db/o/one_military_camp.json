@@ -4,8 +4,8 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -733,17 +733,17 @@
       "ID": "ACHIEVEMENT_ID_35",
       "SetID": "c504de6",
       "Name": "Food Tycoon",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_ID_36",
       "SetID": "c504de6",
       "Name": "Fuel Tycoon",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_ID_37",
@@ -757,9 +757,9 @@
       "ID": "ACHIEVEMENT_ID_38",
       "SetID": "c504de6",
       "Name": "Ammo Tycoon",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_ID_39",
@@ -860,8 +860,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-08-03T22:05:33.4924295+00:00",
+  "LastChanged_Achievements": "2023-08-03T23:05:49.2756406+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:38.0107995+00:00",
-  "LastUpdate_Ratings": "2023-08-03T22:00:37.6162249+00:00",
-  "LastUpdate_Achievements": "2023-08-03T22:05:33.492472+00:00"
+  "LastUpdate_Ratings": "2023-08-03T23:00:43.1643469+00:00",
+  "LastUpdate_Achievements": "2023-08-03T23:05:49.2756855+00:00"
 }

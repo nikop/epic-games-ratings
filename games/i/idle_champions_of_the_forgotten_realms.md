@@ -6,13 +6,13 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,735 |
-| Beast Intentions | 3.00% | ~6,551 |
-| Maddening | 2.00% | ~4,367 |
+| A Brief Tour of the Realms | 4.00% | ~8,736 |
+| Beast Intentions | 3.00% | ~6,552 |
+| Maddening | 2.00% | ~4,368 |
 | The Silken Swamp | 1.00% | ~2,184 |
 | Supply Run | 1.00% | ~2,184 |
-| Rocky Reception | 1.00% | ~1,846 |
-| Rock and Roll | 1.00% | ~1,846 |
+| Rocky Reception | 1.00% | ~1,847 |
+| Rock and Roll | 1.00% | ~1,847 |
 | Vecna Lives! | 0.90% | ~1,662 |
 | Flight of the Kindori Pod | 0.90% | ~1,662 |
 | Tall Tales | 0.80% | ~1,477 |
@@ -56,31 +56,31 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.50% | ~923 |
 | Bahamut's Army | 0.50% | ~923 |
 | Krux's Speed Run | 0.50% | ~923 |
-| Upholding the Law | 0.40% | ~873 |
+| Upholding the Law | 0.40% | ~874 |
 | Hither of the Feywild | 0.40% | ~739 |
 | Speeds of Destruction | 0.40% | ~739 |
-| On the Hunt | 0.40% | ~873 |
+| On the Hunt | 0.40% | ~874 |
 | Best Thay Ever | 0.40% | ~739 |
 | A Demi-god's Defender | 0.40% | ~739 |
-| Homecoming | 0.40% | ~873 |
-| The Lost Heir of Omu | 0.40% | ~873 |
+| Homecoming | 0.40% | ~874 |
+| The Lost Heir of Omu | 0.40% | ~874 |
 | No One Can Hear You Scream | 0.40% | ~739 |
 | Welcome to the Rock | 0.40% | ~739 |
-| Wisdom Check | 0.40% | ~873 |
-| Family Entanglements | 0.40% | ~873 |
-| Tower on the Lake | 0.40% | ~873 |
-| The Crumbling Temple | 0.40% | ~873 |
-| Seeking Allies | 0.40% | ~873 |
-| Are Ya Chicken? | 0.40% | ~873 |
-| Mad Cow Disease | 0.40% | ~873 |
-| Exploring Port Nyanzaru | 0.40% | ~873 |
-| Running of the Saurs | 0.40% | ~873 |
-| Escort to Waterdeep | 0.40% | ~873 |
-| Waterdeep Detours | 0.40% | ~873 |
-| Underdeep Cartography | 0.40% | ~873 |
-| Friendly Imps | 0.40% | ~873 |
-| Overdue Rendezvous | 0.40% | ~873 |
-| Pure Energy | 0.40% | ~873 |
+| Wisdom Check | 0.40% | ~874 |
+| Family Entanglements | 0.40% | ~874 |
+| Tower on the Lake | 0.40% | ~874 |
+| The Crumbling Temple | 0.40% | ~874 |
+| Seeking Allies | 0.40% | ~874 |
+| Are Ya Chicken? | 0.40% | ~874 |
+| Mad Cow Disease | 0.40% | ~874 |
+| Exploring Port Nyanzaru | 0.40% | ~874 |
+| Running of the Saurs | 0.40% | ~874 |
+| Escort to Waterdeep | 0.40% | ~874 |
+| Waterdeep Detours | 0.40% | ~874 |
+| Underdeep Cartography | 0.40% | ~874 |
+| Friendly Imps | 0.40% | ~874 |
+| Overdue Rendezvous | 0.40% | ~874 |
+| Pure Energy | 0.40% | ~874 |
 | Devilishly Cold | 0.40% | ~739 |
 | Luigi After Hours | 0.40% | ~739 |
 | Electric Mayhem | 0.40% | ~739 |
@@ -229,6 +229,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Idyllglen | 0.20% | ~369 |
 | The Radiant Nightmare | 0.20% | ~369 |
 | Waiting on Sunrise | 0.20% | ~369 |
+| Deekin's Mission | 0.20% | ~369 |
 | The Battle of High Hall Tower | 0.20% | ~369 |
 | Elturel's Last Stand | 0.20% | ~369 |
 | The Haunted Jungle | 0.20% | ~437 |
@@ -474,7 +475,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frontline Fighters | 0.10% | ~185 |
 | A Chilling Encounter | 0.10% | ~185 |
 | How Far Away is Thay | 0.10% | ~185 |
-| Deekin's Mission | 0.10% | ~185 |
 | Dive Bomb | 0.10% | ~185 |
 | Fire and Ice | 0.10% | ~185 |
 | Frozen Vengeance | 0.10% | ~185 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,370 (Ranked 53)  
+Progressed: 218,391 (Ranked 53)  
 Completed: 2,148 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -624,7 +624,7 @@ Completed: 2,148 (0.98%) (Ranked 112)
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
-| 2023-08-03 | 218,370 | 2,148 |
+| 2023-08-03 | 218,391 | 2,148 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,886 (Ranked 38)  

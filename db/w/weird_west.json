@@ -331,9 +331,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1779,
+  "EOS_Progressed": 1780,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1716,6 +1716,11 @@
       "Time": "2023-08-03T22:06:41.1822826+00:00",
       "NumProgressed": 1779,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-03T23:06:46.9028526+00:00",
+      "NumProgressed": 1780,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1727,7 +1732,7 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -1735,7 +1740,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1775,7 +1780,7 @@
       "Name": "Elusive Prey",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_EXPLORER",
@@ -1807,7 +1812,7 @@
       "Name": "Full House",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -1879,7 +1884,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1967,7 +1972,7 @@
       "Name": "Out on the Ebb Tide",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_PERKY",
@@ -1975,7 +1980,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1991,7 +1996,7 @@
       "Name": "Power Behind the Pulpit",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_RAIN_OF_DEATH",
@@ -2021,9 +2026,9 @@
       "ID": "ACH_SELF_IMPROVEMENT",
       "SetID": "8j30i9k",
       "Name": "Self-Improvement",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1264
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2095,7 +2100,7 @@
       "Name": "Turning the Tables",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_UNFORGIVEN",
@@ -2111,7 +2116,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2150,15 +2155,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1779,
+      "Progressed": 1780,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-02T19:59:24.9286429+00:00",
-  "LastChanged_Achievements": "2023-08-03T22:06:41.1822821+00:00",
+  "LastChanged_Achievements": "2023-08-03T23:06:46.9028523+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.150321+00:00",
-  "LastUpdate_Ratings": "2023-08-03T22:00:13.6676529+00:00",
-  "LastUpdate_Achievements": "2023-08-03T22:06:41.1823411+00:00"
+  "LastUpdate_Ratings": "2023-08-03T23:00:20.5119715+00:00",
+  "LastUpdate_Achievements": "2023-08-03T23:06:46.9028994+00:00"
 }

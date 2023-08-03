@@ -16,10 +16,10 @@
 | Coda Cave | 0.80% | ~6 |
 | Solo Sea | 0.80% | ~6 |
 | Cadence | 0.80% | ~6 |
+| Maestro Mountain Glyph | 0.60% | ~5 |
 | Coda Cave Glyph | 0.60% | ~5 |
 | Antiphony | 0.50% | ~4 |
 | Silent City Glyph | 0.50% | ~4 |
-| Maestro Mountain Glyph | 0.50% | ~4 |
 | Symphony | 0.10% | ~1 |
 | Musica Universalis | 0.10% | ~1 |
 | Consonance | 0.10% | ~1 |

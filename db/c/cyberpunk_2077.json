@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -9863,10 +9863,10 @@
       "Count": 5488
     }
   ],
-  "EOS_Progressed": 869094,
+  "EOS_Progressed": 869096,
   "EOS_Completed": 1930,
-  "EOS_NewPlayers": 1170,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 1165,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -21378,6 +21378,11 @@
       "Time": "2023-08-03T22:05:25.4873949+00:00",
       "NumProgressed": 869094,
       "NumCompleted": 1930
+    },
+    {
+      "Time": "2023-08-03T23:05:41.2829378+00:00",
+      "NumProgressed": 869096,
+      "NumCompleted": 1930
     }
   ],
   "TotalAchievements": 44,
@@ -21437,7 +21442,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 78218
+      "UsersEstimate": 78219
     },
     {
       "ID": "Gearhead",
@@ -21517,7 +21522,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 86909
+      "UsersEstimate": 86910
     },
     {
       "ID": "MustBeTheRats",
@@ -21565,7 +21570,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 243346
+      "UsersEstimate": 243347
     },
     {
       "ID": "Specialist",
@@ -21573,7 +21578,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 78218
+      "UsersEstimate": 78219
     },
     {
       "ID": "Temperance",
@@ -21605,7 +21610,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 590984
+      "UsersEstimate": 590985
     },
     {
       "ID": "TheHermit",
@@ -21629,7 +21634,7 @@
       "Name": "The Lovers",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 295492
+      "UsersEstimate": 295493
     },
     {
       "ID": "TheStar",
@@ -21653,7 +21658,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 234655
+      "UsersEstimate": 234656
     },
     {
       "ID": "TheWorld",
@@ -21701,7 +21706,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 104291
+      "UsersEstimate": 104292
     },
     {
       "ID": "UnderPressure",
@@ -21740,15 +21745,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 869094,
+      "Progressed": 869096,
       "Completed": 1930
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-08-03T20:59:28.7614913+00:00",
-  "LastChanged_Achievements": "2023-08-03T22:05:25.4873942+00:00",
+  "LastChanged_Achievements": "2023-08-03T23:05:41.2829373+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.8722173+00:00",
-  "LastUpdate_Ratings": "2023-08-03T21:59:21.9112372+00:00",
-  "LastUpdate_Achievements": "2023-08-03T22:05:25.4875844+00:00"
+  "LastUpdate_Ratings": "2023-08-03T22:59:31.161814+00:00",
+  "LastUpdate_Achievements": "2023-08-03T23:05:41.2830835+00:00"
 }

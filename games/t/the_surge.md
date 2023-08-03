@@ -6,18 +6,18 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,303 |
-| I'll Be Back | 85.00% | ~3,891 |
-| Sorry, I Dropped This | 77.00% | ~3,525 |
-| First Day on the Job | 77.00% | ~3,525 |
+| On My Own Two Feet | 94.00% | ~4,304 |
+| I'll Be Back | 85.00% | ~3,892 |
+| Sorry, I Dropped This | 77.00% | ~3,526 |
+| First Day on the Job | 77.00% | ~3,526 |
 | Butcher's Bill | 55.00% | ~2,518 |
 | P.A.X | 37.00% | ~1,694 |
 | Hey Listen | 37.00% | ~1,694 |
 | OPERATOR | 36.00% | ~1,648 |
 | It's Blue Light | 33.00% | ~1,511 |
-| Most Wanted | 26.00% | ~1,190 |
+| Most Wanted | 26.00% | ~1,191 |
 | Infidel | 23.00% | ~1,053 |
-| GOLIATH | 21.00% | ~961 |
+| GOLIATH | 21.00% | ~962 |
 | Firebug | 20.00% | ~916 |
 | Nothing to Lose | 18.00% | ~824 |
 | I Choose You | 17.00% | ~778 |
@@ -38,10 +38,10 @@ Number of Ratings: 62  (23.09.2022)
 | Squad Chief Helvig | 8.00% | ~366 |
 | No More Marching | 8.00% | ~366 |
 | Is This Real Life? | 8.00% | ~366 |
-| Duty-Bound | 7.00% | ~320 |
-| Follow the White Rabbit | 7.00% | ~320 |
-| Liberation | 7.00% | ~320 |
-| Risk Assessment | 7.00% | ~320 |
+| Duty-Bound | 7.00% | ~321 |
+| Follow the White Rabbit | 7.00% | ~321 |
+| Liberation | 7.00% | ~321 |
+| Risk Assessment | 7.00% | ~321 |
 | Sunglasses at Night | 6.00% | ~275 |
 | Carbon Cat | 6.00% | ~275 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~229 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~27 |
 | The Surge | 0.40% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,578 (Ranked 144)  
+Progressed: 4,579 (Ranked 144)  
 Completed: 16 (0.35%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 16 (0.35%) (Ranked 152)
 | 2023-07-31 | 4,551 | 15 |
 | 2023-08-01 | 4,558 | 16 |
 | 2023-08-02 | 4,572 | 16 |
-| 2023-08-03 | 4,578 | 16 |
+| 2023-08-03 | 4,579 | 16 |
 ## Awards
 Max (Great Boss Battles): 27  (Ranked 469)  
 Sum: 27 (Ranked 479)  

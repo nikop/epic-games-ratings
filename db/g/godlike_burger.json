@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -79,11 +79,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 373,
+  "EOS_Progressed": 374,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.54,
+  "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:15.8385226+00:00",
@@ -634,6 +634,11 @@
       "Time": "2023-07-30T03:06:10.5589515+00:00",
       "NumProgressed": 373,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-03T23:07:23.9646378+00:00",
+      "NumProgressed": 374,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 28,
@@ -669,7 +674,7 @@
       "Name": "CRIMINAL",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "GB_DEBTOR",
@@ -693,7 +698,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "GB_GOURMET",
@@ -717,7 +722,7 @@
       "Name": "GRATITUDE",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "GB_HELLS_KITCHEN",
@@ -749,7 +754,7 @@
       "Name": "INDIVIDUAL APPROACH",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "GB_IVE_SEEN_SOME",
@@ -773,15 +778,15 @@
       "Name": "KEVIN!",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
       "SetID": "8ga3kd9",
       "Name": "LAW-ABIDING CITIZEN",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 41
     },
     {
       "ID": "GB_MARTYR",
@@ -797,7 +802,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -868,7 +873,7 @@
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 373,
+      "Progressed": 374,
       "Completed": 2
     }
   ],
@@ -876,8 +881,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-08-03T22:07:18.0074506+00:00",
+  "LastChanged_Achievements": "2023-08-03T23:07:23.9646372+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:14.8286354+00:00",
-  "LastUpdate_Ratings": "2023-08-03T22:00:03.9749851+00:00",
-  "LastUpdate_Achievements": "2023-08-03T22:07:18.0074843+00:00"
+  "LastUpdate_Ratings": "2023-08-03T23:00:11.2367468+00:00",
+  "LastUpdate_Achievements": "2023-08-03T23:07:23.9646643+00:00"
 }

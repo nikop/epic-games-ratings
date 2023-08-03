@@ -15,17 +15,17 @@
 | Green Energy | 7.00% | ~8 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~7 |
 | Desert Power | 6.00% | ~7 |
+| Ammo Tycoon | 6.00% | ~7 |
 | Perfect Soldier | 5.00% | ~6 |
 | Health Care | 5.00% | ~6 |
 | Pathfinder | 5.00% | ~6 |
-| Ammo Tycoon | 5.00% | ~6 |
+| Fuel Tycoon | 5.00% | ~6 |
 | Outdoor Decorator | 4.00% | ~5 |
 | Self-sufficient | 4.00% | ~5 |
-| Fuel Tycoon | 4.00% | ~5 |
+| Food Tycoon | 4.00% | ~5 |
 | Medicine Tycoon | 4.00% | ~5 |
 | Property Bro | 3.00% | ~4 |
 | Human Resources | 3.00% | ~4 |
-| Food Tycoon | 3.00% | ~4 |
 | Tear Down the Wall! | 2.00% | ~2 |
 | Supersoldier | 2.00% | ~2 |
 | Vive le Résistance | 2.00% | ~2 |

@@ -2219,25 +2219,25 @@
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 221
+      "UsersEstimate": 226
     },
     {
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 194
+      "UsersEstimate": 198
     },
     {
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 176
+      "UsersEstimate": 180
     },
     {
       "ID": "LEVEL_008",
@@ -2372,8 +2372,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-08-03T22:05:00.6267487+00:00",
+  "LastChanged_Achievements": "2023-08-03T23:05:16.4556752+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:55.2732426+00:00",
-  "LastUpdate_Ratings": "2023-08-03T21:59:31.5493084+00:00",
-  "LastUpdate_Achievements": "2023-08-03T22:05:00.6267986+00:00"
+  "LastUpdate_Ratings": "2023-08-03T22:59:39.9810339+00:00",
+  "LastUpdate_Achievements": "2023-08-03T23:05:16.4557102+00:00"
 }

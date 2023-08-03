@@ -8,6 +8,7 @@ Number of Ratings: 285  (23.09.2022)
 | ---- | ---------- | ----- |
 | Death Becomes You | 3.00% | ~17 |
 | That'll Leave a Mark | 3.00% | ~17 |
+| Deadication | 2.00% | ~11 |
 | Debuff Dogpile | 2.00% | ~11 |
 | Faceroll the Bones | 2.00% | ~11 |
 | First Strike | 2.00% | ~11 |
@@ -17,7 +18,6 @@ Number of Ratings: 285  (23.09.2022)
 | Perk Shard Punch Card | 2.00% | ~11 |
 | Season Finale | 2.00% | ~11 |
 | Cold-Blooded Critters | 1.00% | ~6 |
-| Deadication | 1.00% | ~6 |
 | The Harder They Fall | 1.00% | ~6 |
 | Horder Better Faster Stronger | 1.00% | ~6 |
 | Next Time on MythForce... | 1.00% | ~6 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 570 (Ranked 218)  
+Progressed: 573 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,7 +49,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-31 | 492 | 0 |
 | 2023-08-01 | 525 | 0 |
 | 2023-08-02 | 552 | 0 |
-| 2023-08-03 | 570 | 0 |
+| 2023-08-03 | 573 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 451)  
 Sum: 226 (Ranked 355)  

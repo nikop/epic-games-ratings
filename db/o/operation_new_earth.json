@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 771,
+  "EOS_Progressed": 772,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2676,6 +2676,11 @@
       "Time": "2023-08-03T21:07:47.1813116+00:00",
       "NumProgressed": 771,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T23:07:48.0968769+00:00",
+      "NumProgressed": 772,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2685,9 +2690,9 @@
       "ID": "ach_defeat_aliens_250",
       "SetID": "bm61c2p",
       "Name": "Know The Enemy",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 31
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -2757,9 +2762,9 @@
       "ID": "ach_silver_rewards_50",
       "SetID": "bm61c2p",
       "Name": "Silver Achiever",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 23
     },
     {
       "ID": "objective_headquarters_10",
@@ -2799,7 +2804,7 @@
       "Name": "Corporal",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -2861,9 +2866,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -2871,7 +2876,7 @@
       "Name": "Covert Operative",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -2990,14 +2995,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 771,
+      "Progressed": 772,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-03T22:07:42.1634183+00:00",
+  "LastChanged_Achievements": "2023-08-03T23:07:48.0968762+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-08-03T21:57:21.3811681+00:00",
-  "LastUpdate_Achievements": "2023-08-03T22:07:42.1634786+00:00"
+  "LastUpdate_Ratings": "2023-08-03T22:57:23.5089484+00:00",
+  "LastUpdate_Achievements": "2023-08-03T23:07:48.0969209+00:00"
 }
