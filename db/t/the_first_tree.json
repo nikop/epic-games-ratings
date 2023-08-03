@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34373,
+  "EOS_Progressed": 34375,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -9839,6 +9839,11 @@
       "Time": "2023-08-03T09:05:55.7944889+00:00",
       "NumProgressed": 34373,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-08-03T10:06:33.4590865+00:00",
+      "NumProgressed": 34375,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 14,
@@ -9858,7 +9863,7 @@
       "Name": "150 Stars",
       "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "50stars",
@@ -9866,7 +9871,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8937
+      "UsersEstimate": 8938
     },
     {
       "ID": "allItems",
@@ -9874,7 +9879,7 @@
       "Name": "Excavator",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "allSecrets",
@@ -9882,7 +9887,7 @@
       "Name": "No Stone Left Unturned",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "bigBunny",
@@ -9906,7 +9911,7 @@
       "Name": "Completionist",
       "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "dejaVu",
@@ -9914,7 +9919,7 @@
       "Name": "Deja Vu",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ending",
@@ -9930,7 +9935,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 8593
+      "UsersEstimate": 8594
     },
     {
       "ID": "firstItem",
@@ -9938,7 +9943,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 26467
+      "UsersEstimate": 26469
     },
     {
       "ID": "roots",
@@ -9946,7 +9951,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 5843
+      "UsersEstimate": 5844
     },
     {
       "ID": "secretItem",
@@ -9961,15 +9966,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 34373,
+      "Progressed": 34375,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-08-03T09:05:55.7944884+00:00",
+  "LastChanged_Achievements": "2023-08-03T10:06:33.4590859+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:09.7602428+00:00",
-  "LastUpdate_Ratings": "2023-08-03T08:57:24.2372121+00:00",
-  "LastUpdate_Achievements": "2023-08-03T09:05:55.7945511+00:00"
+  "LastUpdate_Ratings": "2023-08-03T09:57:56.6463452+00:00",
+  "LastUpdate_Achievements": "2023-08-03T10:06:33.4591574+00:00"
 }

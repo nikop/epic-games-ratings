@@ -4,7 +4,7 @@
   "ProductSlug": "grim-nights-fa4c5a",
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37,
+  "EOS_Progressed": 38,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -213,6 +213,11 @@
       "Time": "2023-07-29T16:07:29.8992352+00:00",
       "NumProgressed": 37,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T10:08:44.3572886+00:00",
+      "NumProgressed": 38,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -222,7 +227,7 @@
       "ID": "ach_boss1",
       "SetID": "c2c0fb6",
       "Name": "Slay it!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 150,
       "UsersEstimate": 13
     },
@@ -230,7 +235,7 @@
       "ID": "ach_boss2",
       "SetID": "c2c0fb6",
       "Name": "Slay that one too!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 150,
       "UsersEstimate": 5
     },
@@ -246,7 +251,7 @@
       "ID": "ach_bunny10",
       "SetID": "c2c0fb6",
       "Name": "Poor things...",
-      "Percentage": 57,
+      "Percentage": 55,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -262,7 +267,7 @@
       "ID": "ach_day10",
       "SetID": "c2c0fb6",
       "Name": "Still alive!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -286,7 +291,7 @@
       "ID": "ach_day5",
       "SetID": "c2c0fb6",
       "Name": "So far so good...",
-      "Percentage": 49,
+      "Percentage": 47,
       "XP": 20,
       "UsersEstimate": 18
     },
@@ -294,7 +299,7 @@
       "ID": "ach_level2",
       "SetID": "c2c0fb6",
       "Name": "Getting somewhere",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
       "UsersEstimate": 23
     },
@@ -302,7 +307,7 @@
       "ID": "ach_level3",
       "SetID": "c2c0fb6",
       "Name": "Top notch!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 70,
       "UsersEstimate": 13
     },
@@ -310,7 +315,7 @@
       "ID": "ach_lose",
       "SetID": "c2c0fb6",
       "Name": "Lives lost",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -318,7 +323,7 @@
       "ID": "ach_rich",
       "SetID": "c2c0fb6",
       "Name": "Bling bling!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 100,
       "UsersEstimate": 10
     },
@@ -343,7 +348,7 @@
     {
       "ID": "c2c0fb6",
       "IsBase": true,
-      "Progressed": 37,
+      "Progressed": 38,
       "Completed": 0
     }
   ],
@@ -351,8 +356,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-08-03T09:08:16.7612947+00:00",
+  "LastChanged_Achievements": "2023-08-03T10:08:44.357288+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:50.6149276+00:00",
-  "LastUpdate_Ratings": "2023-08-03T09:00:43.8400185+00:00",
-  "LastUpdate_Achievements": "2023-08-03T09:08:16.7613081+00:00"
+  "LastUpdate_Ratings": "2023-08-03T10:01:27.1250831+00:00",
+  "LastUpdate_Achievements": "2023-08-03T10:08:44.3573023+00:00"
 }

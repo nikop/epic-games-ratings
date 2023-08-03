@@ -6,27 +6,27 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,230 |
-| Gone Home | 93.00% | ~26,107 |
-| Wonderfalls | 87.00% | ~24,423 |
-| Got to Catch a Few | 77.00% | ~21,615 |
-| Double Trapper | 75.00% | ~21,054 |
+| Everybody Gets One | 97.00% | ~27,231 |
+| Gone Home | 93.00% | ~26,108 |
+| Wonderfalls | 87.00% | ~24,424 |
+| Got to Catch a Few | 77.00% | ~21,616 |
+| Double Trapper | 75.00% | ~21,055 |
 | I'm Stuffed | 69.00% | ~19,370 |
 | Got to Catch a Lot | 66.00% | ~18,528 |
-| Talkin' 'Bout Bugsnax | 61.00% | ~17,124 |
-| In the Arms of the Gramble | 59.00% | ~16,562 |
-| Know Thy Neighbor | 59.00% | ~16,562 |
-| Launch Party | 56.00% | ~15,720 |
-| Perf Dirt | 56.00% | ~15,720 |
-| Vacation's End | 52.00% | ~14,597 |
-| Bossy Bugs | 46.00% | ~12,913 |
-| Survivor | 45.00% | ~12,632 |
+| Talkin' 'Bout Bugsnax | 61.00% | ~17,125 |
+| In the Arms of the Gramble | 59.00% | ~16,563 |
+| Know Thy Neighbor | 59.00% | ~16,563 |
+| Launch Party | 56.00% | ~15,721 |
+| Perf Dirt | 56.00% | ~15,721 |
+| Vacation's End | 52.00% | ~14,598 |
+| Bossy Bugs | 46.00% | ~12,914 |
+| Survivor | 45.00% | ~12,633 |
 | That Reminds Me of a Puzzle | 43.00% | ~12,071 |
 | Sidetracked | 40.00% | ~11,229 |
-| Film Buff | 38.00% | ~10,667 |
-| Combo Meal | 38.00% | ~10,667 |
+| Film Buff | 38.00% | ~10,668 |
+| Combo Meal | 38.00% | ~10,668 |
 | Midnight Snak | 36.00% | ~10,106 |
-| Candid Cryptid | 35.00% | ~9,825 |
+| Candid Cryptid | 35.00% | ~9,826 |
 | Got to Catch Them All | 32.00% | ~8,983 |
 | Deep Impact | 23.00% | ~6,457 |
 | Grab Bag | 23.00% | ~6,457 |
@@ -37,8 +37,8 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 8.00% | ~2,246 |
 | Dapper Capper | 6.00% | ~1,684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,072 (Ranked 99)  
-Completed: 1,318 (4.70%) (Ranked 49)  
+Progressed: 28,073 (Ranked 99)  
+Completed: 1,318 (4.69%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -142,7 +142,7 @@ Completed: 1,318 (4.70%) (Ranked 49)
 | 2023-07-31 | 28,053 | 1,318 |
 | 2023-08-01 | 28,059 | 1,318 |
 | 2023-08-02 | 28,068 | 1,318 |
-| 2023-08-03 | 28,072 | 1,318 |
+| 2023-08-03 | 28,073 | 1,318 |
 ## Awards
 Max (Amazing Storytelling): 38  (Ranked 428)  
 Sum: 299 (Ranked 334)  

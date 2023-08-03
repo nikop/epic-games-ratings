@@ -2958,7 +2958,7 @@
       "Count": 489
     }
   ],
-  "EOS_Progressed": 8124,
+  "EOS_Progressed": 8125,
   "EOS_Completed": 185,
   "EOS_NewPlayers": 599,
   "EOS_NewCompleters": 5,
@@ -8333,6 +8333,11 @@
       "Time": "2023-08-03T08:02:51.6229458+00:00",
       "NumProgressed": 8124,
       "NumCompleted": 185
+    },
+    {
+      "Time": "2023-08-03T10:03:43.9344401+00:00",
+      "NumProgressed": 8125,
+      "NumCompleted": 185
     }
   ],
   "TotalAchievements": 15,
@@ -8392,7 +8397,7 @@
       "Name": "Duty Bound",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "Gardener",
@@ -8416,7 +8421,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 71,
       "XP": 75,
-      "UsersEstimate": 5768
+      "UsersEstimate": 5769
     },
     {
       "ID": "Miner",
@@ -8440,7 +8445,7 @@
       "Name": "Renovator",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 4224
+      "UsersEstimate": 4225
     },
     {
       "ID": "Thorn_Cleaner",
@@ -8456,14 +8461,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 5199
+      "UsersEstimate": 5200
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 8124,
+      "Progressed": 8125,
       "Completed": 185
     }
   ],
@@ -8471,8 +8476,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-08-03T02:24:16.2242166+00:00",
-  "LastChanged_Achievements": "2023-08-03T09:02:45.8066968+00:00",
+  "LastChanged_Achievements": "2023-08-03T10:03:43.9344395+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:57.9650377+00:00",
-  "LastUpdate_Ratings": "2023-08-03T08:59:34.4757703+00:00",
-  "LastUpdate_Achievements": "2023-08-03T09:02:45.8067408+00:00"
+  "LastUpdate_Ratings": "2023-08-03T10:00:13.125106+00:00",
+  "LastUpdate_Achievements": "2023-08-03T10:03:43.9344848+00:00"
 }

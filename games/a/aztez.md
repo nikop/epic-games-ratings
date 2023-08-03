@@ -1,7 +1,7 @@
 # Aztez
 [Store](https://store.epicgames.com/en-US/p/aztez)  
 [View Rawdata](../../db/a/aztez.json)  
-Rating: 4.56 (Ranked 465)  
+Rating: 4.57 (Ranked 447)  
 Number of Ratings: 43  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -51,3 +51,4 @@ Number of Ratings: 43  (23.09.2022)
 | 2023-05-13 | 4.54 | - | 0 | 0 |
 | 2023-05-27 | 4.55 | - | 0 | 0 |
 | 2023-06-17 | 4.56 | - | 0 | 0 |
+| 2023-08-03 | 4.57 | - | 0 | 0 |

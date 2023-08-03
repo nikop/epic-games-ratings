@@ -33,7 +33,7 @@ Number of Ratings: 209  (23.09.2022)
 | Don't draw dicks pls | 84.00% | ~1,833 |
 | Ripped | 84.00% | ~1,833 |
 | Beat the big arena | 82.00% | ~1,789 |
-| Force Cube | 81.00% | ~1,767 |
+| Force Cube | 82.00% | ~1,789 |
 | Got Battery | 80.00% | ~1,746 |
 | Guard Distracted | 80.00% | ~1,746 |
 | Translocator | 80.00% | ~1,746 |

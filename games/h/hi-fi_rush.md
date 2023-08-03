@@ -8,8 +8,8 @@ Rating: 4.87 (Ranked 24)
 | Start with a bang! | 6.00% | ~221 |
 | Feeling the beat! | 6.00% | ~221 |
 | You can pet the cat! | 6.00% | ~221 |
+| Cream of the Crop | 5.00% | ~184 |
 | Who put gears in there? | 5.00% | ~184 |
-| Cream of the Crop | 4.00% | ~148 |
 | Thanks for the free chip, Peppermint! | 4.00% | ~148 |
 | I play my own way! | 4.00% | ~148 |
 | You got this, Peppermint? | 4.00% | ~148 |
@@ -25,13 +25,13 @@ Rating: 4.87 (Ranked 24)
 | You must like calling me in, Chai | 3.00% | ~111 |
 | Z-shielding's got nothing on us! | 3.00% | ~111 |
 | Out in a puff of smoke | 3.00% | ~111 |
+| Perfecter Parry-er! | 3.00% | ~111 |
 | Uh, they were broken when I got here | 3.00% | ~111 |
 | Kissing the sky! | 3.00% | ~111 |
 | Does that say weakpoint? | 3.00% | ~111 |
 | Well that was a rush! | 2.00% | ~74 |
 | I have to read these things? | 2.00% | ~74 |
 | Beat-hit mania | 2.00% | ~74 |
-| Perfecter Parry-er! | 2.00% | ~74 |
 | That's a lot of junk metal… | 2.00% | ~74 |
 | I look cool. But I can look COOLER. | 2.00% | ~74 |
 | Chip-tuned | 1.00% | ~37 |

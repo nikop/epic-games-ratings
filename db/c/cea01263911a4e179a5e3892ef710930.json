@@ -2,9 +2,9 @@
   "ID": "cea01263911a4e179a5e3892ef710930",
   "Name": "Dodo Peak",
   "ProductSlug": "dodo-peak-159276",
-  "Ranking_EOS_Progress": 527,
+  "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
@@ -19,12 +19,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-08-03T10:03:35.2173803+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
   "TotalAchievements": 17,
   "TotalAchievementsXP": 1000,
@@ -33,9 +39,9 @@
       "ID": "grp_arcadeFTUX_welcome",
       "SetID": "2gd32f",
       "Name": "Welcome to Dodo Peak",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "grp_beet",
@@ -170,13 +176,13 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
-  "LastChanged_Achievements": "2023-08-03T09:02:35.5035253+00:00",
+  "LastChanged_Achievements": "2023-08-03T10:03:35.2173797+00:00",
   "LastUpdate_AppInfo": "2023-08-03T05:57:01.7177556+00:00",
-  "LastUpdate_Ratings": "2023-08-03T08:57:23.4710284+00:00",
-  "LastUpdate_Achievements": "2023-08-03T09:02:35.5035393+00:00"
+  "LastUpdate_Ratings": "2023-08-03T09:57:55.3615628+00:00",
+  "LastUpdate_Achievements": "2023-08-03T10:03:35.2173962+00:00"
 }

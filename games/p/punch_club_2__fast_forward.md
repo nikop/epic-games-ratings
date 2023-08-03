@@ -23,7 +23,7 @@
 | Pal of your father? | 63.00% | ~134 |
 | Employee of the month | 62.00% | ~132 |
 | Spirit of the past | 61.00% | ~130 |
-| Law student | 59.00% | ~126 |
+| Law student | 60.00% | ~128 |
 | Little hacker | 57.00% | ~121 |
 | Intriguing candies | 57.00% | ~121 |
 | Workout professional | 55.00% | ~117 |

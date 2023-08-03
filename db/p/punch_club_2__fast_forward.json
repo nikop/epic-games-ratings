@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -969,9 +969,9 @@
       "ID": "law_student",
       "SetID": "69co12a",
       "Name": "Law student",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 128
     },
     {
       "ID": "league_1",
@@ -1256,8 +1256,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-03T09:04:15.5095803+00:00",
+  "LastChanged_Achievements": "2023-08-03T10:04:34.1682128+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:10.4822993+00:00",
-  "LastUpdate_Ratings": "2023-08-03T08:58:47.8499203+00:00",
-  "LastUpdate_Achievements": "2023-08-03T09:04:15.5096449+00:00"
+  "LastUpdate_Ratings": "2023-08-03T09:59:20.9796273+00:00",
+  "LastUpdate_Achievements": "2023-08-03T10:04:34.1682855+00:00"
 }

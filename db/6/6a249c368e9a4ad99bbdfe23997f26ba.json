@@ -4,7 +4,7 @@
   "ProductSlug": "forest-fire-b4bb7e",
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -291,9 +291,9 @@
       "ID": "A5",
       "SetID": "7f5j12l",
       "Name": "1M Trees Burnt",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "A6",
@@ -337,8 +337,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-08-03T09:04:33.0406678+00:00",
+  "LastChanged_Achievements": "2023-08-03T10:05:10.8626026+00:00",
   "LastUpdate_AppInfo": "2023-08-01T02:02:32.2723888+00:00",
-  "LastUpdate_Ratings": "2023-08-03T08:57:42.1313679+00:00",
-  "LastUpdate_Achievements": "2023-08-03T09:04:33.0406955+00:00"
+  "LastUpdate_Ratings": "2023-08-03T09:58:09.9733835+00:00",
+  "LastUpdate_Achievements": "2023-08-03T10:05:10.8626315+00:00"
 }

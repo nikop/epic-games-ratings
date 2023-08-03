@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -607,9 +607,9 @@
       "ID": "CollectGold",
       "SetID": "7g1kpc8",
       "Name": "Merchant",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DemonHunter",
@@ -742,8 +742,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-08-03T09:06:24.4021438+00:00",
+  "LastChanged_Achievements": "2023-08-03T10:07:11.5172354+00:00",
   "LastUpdate_AppInfo": "2023-07-31T09:57:13.2028801+00:00",
-  "LastUpdate_Ratings": "2023-08-03T08:58:18.413885+00:00",
-  "LastUpdate_Achievements": "2023-08-03T09:06:24.4022417+00:00"
+  "LastUpdate_Ratings": "2023-08-03T09:58:52.7393946+00:00",
+  "LastUpdate_Achievements": "2023-08-03T10:07:11.5172557+00:00"
 }

@@ -4815,9 +4815,9 @@
       "ID": "dragonslayer",
       "SetID": "3nl4bcg",
       "Name": "Dragon Slayer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 123
     },
     {
       "ID": "ebonyjungleliberator",
@@ -4863,9 +4863,9 @@
       "ID": "enlightenment",
       "SetID": "3nl4bcg",
       "Name": "Enlightenment",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 263
     },
     {
       "ID": "exoticmerchant",
@@ -5063,9 +5063,9 @@
       "ID": "mythicpower",
       "SetID": "3nl4bcg",
       "Name": "Mythic Power",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "naturaltalent",
@@ -5304,8 +5304,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-01T23:59:17.1143124+00:00",
-  "LastChanged_Achievements": "2023-08-03T09:04:56.9238755+00:00",
+  "LastChanged_Achievements": "2023-08-03T10:05:35.126808+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:54.4032931+00:00",
-  "LastUpdate_Ratings": "2023-08-03T08:59:28.3202075+00:00",
-  "LastUpdate_Achievements": "2023-08-03T09:04:56.9239838+00:00"
+  "LastUpdate_Ratings": "2023-08-03T10:00:06.2657449+00:00",
+  "LastUpdate_Achievements": "2023-08-03T10:05:35.1269159+00:00"
 }

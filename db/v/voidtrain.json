@@ -4,10 +4,10 @@
   "ProductSlug": "voidtrain",
   "Ranking_Rating": 559,
   "Ranking_Popularity": 436,
-  "Ranking_PopularitySum": 409,
-  "Ranking_EOS_Progress": 527,
+  "Ranking_PopularitySum": 400,
+  "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-08-12T17:00:00+00:00",
@@ -873,10 +873,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 113,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-08-03T10:00:03.9867468+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 133,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 113,
+  "NumberOfAwards": 133,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -909,6 +915,12 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 24
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -922,8 +934,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
-  "LastChanged": "2023-07-14T20:58:41.9923108+00:00",
+  "LastChanged": "2023-08-03T10:00:03.9867467+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:54.1614891+00:00",
-  "LastUpdate_Ratings": "2023-08-03T08:59:26.0237408+00:00",
-  "LastUpdate_Achievements": "2023-08-03T09:03:13.7163201+00:00"
+  "LastUpdate_Ratings": "2023-08-03T10:00:03.986747+00:00",
+  "LastUpdate_Achievements": "2023-08-03T10:03:52.9380731+00:00"
 }

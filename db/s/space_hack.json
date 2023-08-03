@@ -2,9 +2,9 @@
   "ID": "7714e1bf11674737b664ff88cafd5261",
   "Name": "Space Hack",
   "ProductSlug": "space-hack-02fd17",
-  "Ranking_EOS_Progress": 527,
+  "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-05-30T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:46.2593181+00:00",
   "LastChanged": "2023-03-31T05:57:46.2593182+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:38.2372016+00:00",
-  "LastUpdate_Ratings": "2023-08-03T09:00:26.7104417+00:00",
-  "LastUpdate_Achievements": "2023-08-03T09:03:15.7287429+00:00"
+  "LastUpdate_Ratings": "2023-08-03T10:01:06.3589939+00:00",
+  "LastUpdate_Achievements": "2023-08-03T10:03:55.0431851+00:00"
 }

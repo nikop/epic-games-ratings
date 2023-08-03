@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 401,
+  "EOS_Progressed": 402,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -274,6 +274,11 @@
       "Time": "2023-08-02T22:04:52.1019005+00:00",
       "NumProgressed": 401,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T10:05:33.6530456+00:00",
+      "NumProgressed": 402,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -293,7 +298,7 @@
       "Name": "Campaign Bronze",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "CampaignStars2",
@@ -365,7 +370,7 @@
       "Name": "Metropolis",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Multitalent",
@@ -405,7 +410,7 @@
       "Name": "Joma",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "PlanetLorian",
@@ -413,7 +418,7 @@
       "Name": "Lorian",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "PlanetMagni",
@@ -476,7 +481,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 401,
+      "Progressed": 402,
       "Completed": 0
     }
   ],
@@ -484,8 +489,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-08-03T09:04:55.5316353+00:00",
+  "LastChanged_Achievements": "2023-08-03T10:05:33.6530451+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:03.2728301+00:00",
-  "LastUpdate_Ratings": "2023-08-03T09:01:00.1504852+00:00",
-  "LastUpdate_Achievements": "2023-08-03T09:04:55.5316537+00:00"
+  "LastUpdate_Ratings": "2023-08-03T10:01:48.5365992+00:00",
+  "LastUpdate_Achievements": "2023-08-03T10:05:33.6530641+00:00"
 }

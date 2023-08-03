@@ -1027,9 +1027,9 @@
       "ID": "ETUA_OutRage",
       "SetID": "65jc0ap",
       "Name": "OUTRAGE",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "ETUA_PTD",
@@ -1196,8 +1196,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-08-03T09:04:24.1330215+00:00",
+  "LastChanged_Achievements": "2023-08-03T10:04:41.8318831+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:53.0006088+00:00",
-  "LastUpdate_Ratings": "2023-08-03T08:58:18.8116488+00:00",
-  "LastUpdate_Achievements": "2023-08-03T09:04:24.1330582+00:00"
+  "LastUpdate_Ratings": "2023-08-03T09:58:52.9707294+00:00",
+  "LastUpdate_Achievements": "2023-08-03T10:04:41.831921+00:00"
 }

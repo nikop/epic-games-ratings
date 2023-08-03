@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -52,11 +52,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 583,
+  "EOS_Progressed": 584,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.29,
+  "EOS_Completed_Percentage": 4.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -2022,6 +2022,11 @@
       "Time": "2023-08-03T03:06:44.75651+00:00",
       "NumProgressed": 583,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-08-03T10:08:33.1120172+00:00",
+      "NumProgressed": 584,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 28,
@@ -2033,7 +2038,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "MQ01_2",
@@ -2049,7 +2054,7 @@
       "Name": "High Profile",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "MQ02_2",
@@ -2065,7 +2070,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "MQ02_4",
@@ -2073,7 +2078,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "MQ03_1",
@@ -2089,7 +2094,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "MQ03_3",
@@ -2097,7 +2102,7 @@
       "Name": "History Check",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "MQ03_4",
@@ -2113,7 +2118,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "MQ04_1",
@@ -2121,7 +2126,7 @@
       "Name": "Going Once...",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "MQ04_2",
@@ -2153,7 +2158,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "MQ05_3",
@@ -2167,9 +2172,9 @@
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 280
+      "UsersEstimate": 274
     },
     {
       "ID": "MQ06_1",
@@ -2201,7 +2206,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "MQ07_1",
@@ -2217,7 +2222,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "MQ08_1",
@@ -2239,9 +2244,9 @@
       "ID": "MQ08_3",
       "SetID": "bbing49",
       "Name": "Fhtagn!",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 251
     },
     {
       "ID": "PLTN",
@@ -2256,7 +2261,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 583,
+      "Progressed": 584,
       "Completed": 25
     }
   ],
@@ -2264,8 +2269,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-07-24T23:58:19.6744242+00:00",
-  "LastChanged_Achievements": "2023-08-03T09:07:45.2698327+00:00",
+  "LastChanged_Achievements": "2023-08-03T10:08:33.1120167+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:58.5261994+00:00",
-  "LastUpdate_Ratings": "2023-08-03T08:58:34.0203756+00:00",
-  "LastUpdate_Achievements": "2023-08-03T09:07:45.2698652+00:00"
+  "LastUpdate_Ratings": "2023-08-03T09:59:07.1216024+00:00",
+  "LastUpdate_Achievements": "2023-08-03T10:08:33.1120485+00:00"
 }

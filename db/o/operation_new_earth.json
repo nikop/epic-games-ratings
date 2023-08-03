@@ -2885,9 +2885,9 @@
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 84
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -2956,8 +2956,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-03T09:07:11.874874+00:00",
+  "LastChanged_Achievements": "2023-08-03T10:07:39.0668686+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-08-03T08:57:29.0910582+00:00",
-  "LastUpdate_Achievements": "2023-08-03T09:07:11.8749204+00:00"
+  "LastUpdate_Ratings": "2023-08-03T09:58:00.5022218+00:00",
+  "LastUpdate_Achievements": "2023-08-03T10:07:39.066916+00:00"
 }

@@ -7437,9 +7437,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 46529,
+  "EOS_Progressed": 46530,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16657,6 +16657,11 @@
       "Time": "2023-08-03T08:05:25.0738901+00:00",
       "NumProgressed": 46529,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-03T10:05:54.4803225+00:00",
+      "NumProgressed": 46530,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -16668,7 +16673,7 @@
       "Name": "Clucky Streak",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6979
+      "UsersEstimate": 6980
     },
     {
       "ID": "BreedCows",
@@ -16804,7 +16809,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 27917
+      "UsersEstimate": 27918
     },
     {
       "ID": "Harvested",
@@ -16812,7 +16817,7 @@
       "Name": "Large-scale supplier",
       "Percentage": 15,
       "XP": 55,
-      "UsersEstimate": 6979
+      "UsersEstimate": 6980
     },
     {
       "ID": "HarvestedFirst",
@@ -16820,7 +16825,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 34897
+      "UsersEstimate": 34898
     },
     {
       "ID": "HorseJumps",
@@ -16852,7 +16857,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 22799
+      "UsersEstimate": 22800
     },
     {
       "ID": "Mission",
@@ -16876,7 +16881,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 24660
+      "UsersEstimate": 24661
     },
     {
       "ID": "NumBeehives",
@@ -16916,7 +16921,7 @@
       "Name": "Vehicle fleet",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 10236
+      "UsersEstimate": 10237
     },
     {
       "ID": "NumVehiclesSmall",
@@ -16956,7 +16961,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 29313
+      "UsersEstimate": 29314
     },
     {
       "ID": "Stones",
@@ -16964,7 +16969,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5583
+      "UsersEstimate": 5584
     },
     {
       "ID": "TractorDriving",
@@ -16972,7 +16977,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 20007
+      "UsersEstimate": 20008
     },
     {
       "ID": "TruckDriving",
@@ -17011,15 +17016,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 46529,
+      "Progressed": 46530,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-08-03T01:53:25.2317133+00:00",
-  "LastChanged_Achievements": "2023-08-03T09:05:26.1512512+00:00",
+  "LastChanged_Achievements": "2023-08-03T10:05:54.4803219+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:27.4750397+00:00",
-  "LastUpdate_Ratings": "2023-08-03T09:01:39.6024067+00:00",
-  "LastUpdate_Achievements": "2023-08-03T09:05:26.1513418+00:00"
+  "LastUpdate_Ratings": "2023-08-03T10:02:29.123205+00:00",
+  "LastUpdate_Achievements": "2023-08-03T10:05:54.480412+00:00"
 }

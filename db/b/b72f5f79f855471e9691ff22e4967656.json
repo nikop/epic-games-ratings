@@ -340,9 +340,9 @@
       "ID": "explodeItem10",
       "SetID": "ci65fo0",
       "Name": "Demoman",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "explodeItem100",
@@ -540,9 +540,9 @@
       "ID": "killZombie10",
       "SetID": "ci65fo0",
       "Name": "Paladin",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "killZombie50",
@@ -628,9 +628,9 @@
       "ID": "questAntiquities",
       "SetID": "ci65fo0",
       "Name": "Antiquities expert",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "questBadNews",
@@ -905,8 +905,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-03T09:03:24.7854299+00:00",
+  "LastChanged_Achievements": "2023-08-03T10:04:14.0982674+00:00",
   "LastUpdate_AppInfo": "2023-08-02T10:57:06.3883378+00:00",
-  "LastUpdate_Ratings": "2023-08-03T08:58:04.6066917+00:00",
-  "LastUpdate_Achievements": "2023-08-03T09:03:24.785515+00:00"
+  "LastUpdate_Ratings": "2023-08-03T09:58:33.7250393+00:00",
+  "LastUpdate_Achievements": "2023-08-03T10:04:14.0983621+00:00"
 }

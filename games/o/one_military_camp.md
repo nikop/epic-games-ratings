@@ -11,9 +11,9 @@
 | Desert Rat | 10.00% | ~12 |
 | There's something in those trees | 8.00% | ~10 |
 | Good payer | 7.00% | ~8 |
+| Great Producer | 7.00% | ~8 |
 | Green Energy | 7.00% | ~8 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~7 |
-| Great Producer | 6.00% | ~7 |
 | Perfect Soldier | 5.00% | ~6 |
 | Health Care | 5.00% | ~6 |
 | Desert Power | 5.00% | ~6 |
@@ -24,6 +24,7 @@
 | Medicine Tycoon | 4.00% | ~5 |
 | Supersoldier | 3.00% | ~4 |
 | Healing | 3.00% | ~4 |
+| Overpopulation | 3.00% | ~4 |
 | Property Bro | 3.00% | ~4 |
 | Human Resources | 3.00% | ~4 |
 | Food Tycoon | 3.00% | ~4 |
@@ -31,7 +32,6 @@
 | Tear Down the Wall! | 2.00% | ~2 |
 | Vive le Résistance | 2.00% | ~2 |
 | Snowman | 2.00% | ~2 |
-| Overpopulation | 2.00% | ~2 |
 | Reconquest | 2.00% | ~2 |
 | Researcher | 2.00% | ~2 |
 | Economist | 0.80% | ~1 |

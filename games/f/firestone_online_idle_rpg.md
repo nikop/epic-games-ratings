@@ -18,8 +18,8 @@ Rating: 4.04 (Ranked 917)
 | Miner Clicker | 17.00% | ~298 |
 | Full Party | 16.00% | ~281 |
 | Inspection | 16.00% | ~281 |
+| Enlightenment | 15.00% | ~263 |
 | Dragon Master | 14.00% | ~246 |
-| Enlightenment | 14.00% | ~246 |
 | Hero inspection | 14.00% | ~246 |
 | Lieutenant | 14.00% | ~246 |
 | Milestone collector | 13.00% | ~228 |
@@ -43,13 +43,13 @@ Rating: 4.04 (Ranked 917)
 | Master Enchanter | 8.00% | ~140 |
 | The father of Dragons | 8.00% | ~140 |
 | Crystal Mining | 7.00% | ~123 |
+| Dragon Slayer | 7.00% | ~123 |
 | Enchanting skill | 7.00% | ~123 |
 | The Expeditioner | 7.00% | ~123 |
 | Trader | 7.00% | ~123 |
 | Weekly Quest Completionist | 7.00% | ~123 |
 | Ancient Knowledge | 6.00% | ~105 |
 | Blueprint Upgrades | 6.00% | ~105 |
-| Dragon Slayer | 6.00% | ~105 |
 | Engineer Mastery | 6.00% | ~105 |
 | How Do You Turn This On? | 6.00% | ~105 |
 | Lock And Load | 6.00% | ~105 |
@@ -62,9 +62,9 @@ Rating: 4.04 (Ranked 917)
 | The Alchemist | 4.00% | ~70 |
 | Ebony Jungle Liberator | 3.00% | ~53 |
 | What lies behind the bush | 3.00% | ~53 |
+| Mythic Power | 2.00% | ~35 |
 | Gear Enchanting | 1.00% | ~18 |
 | Guardian Master | 1.00% | ~18 |
-| Mythic Power | 1.00% | ~18 |
 | Training makes a Pro player | 0.90% | ~16 |
 | Cauldron Liberator | 0.80% | ~14 |
 | Transmute | 0.80% | ~14 |

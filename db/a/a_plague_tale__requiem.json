@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -368,9 +368,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12568,
+  "EOS_Progressed": 12569,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -6563,6 +6563,11 @@
       "Time": "2023-08-03T09:04:25.5619378+00:00",
       "NumProgressed": 12568,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-08-03T10:04:43.3372649+00:00",
+      "NumProgressed": 12569,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 35,
@@ -6582,7 +6587,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 9803
+      "UsersEstimate": 9804
     },
     {
       "ID": "ACH_03",
@@ -6598,7 +6603,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8672
+      "UsersEstimate": 8673
     },
     {
       "ID": "ACH_05",
@@ -6622,7 +6627,7 @@
       "Name": "Felons",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7666
+      "UsersEstimate": 7667
     },
     {
       "ID": "ACH_08",
@@ -6630,7 +6635,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 7415
+      "UsersEstimate": 7416
     },
     {
       "ID": "ACH_09",
@@ -6638,7 +6643,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 7038
+      "UsersEstimate": 7039
     },
     {
       "ID": "ACH_10",
@@ -6678,7 +6683,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 4524
+      "UsersEstimate": 4525
     },
     {
       "ID": "ACH_15",
@@ -6694,7 +6699,7 @@
       "Name": "King Hugo",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3016
+      "UsersEstimate": 3017
     },
     {
       "ID": "ACH_17",
@@ -6742,7 +6747,7 @@
       "Name": "Not a toy anymore",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "ACH_23",
@@ -6774,7 +6779,7 @@
       "Name": "Pocket laboratory",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "ACH_27",
@@ -6853,7 +6858,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12568,
+      "Progressed": 12569,
       "Completed": 40
     }
   ],
@@ -6861,8 +6866,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-08-03T09:04:25.5619373+00:00",
+  "LastChanged_Achievements": "2023-08-03T10:04:43.3372644+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:06.5960214+00:00",
-  "LastUpdate_Ratings": "2023-08-03T09:01:12.6748385+00:00",
-  "LastUpdate_Achievements": "2023-08-03T09:04:25.562004+00:00"
+  "LastUpdate_Ratings": "2023-08-03T10:02:06.4780006+00:00",
+  "LastUpdate_Achievements": "2023-08-03T10:04:43.3373289+00:00"
 }

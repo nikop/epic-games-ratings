@@ -57,9 +57,10 @@
 | Wanderer | 0.00% | ~0 |
 | Whispers long forgotten | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 484)  
+Progressed: 2 (Ranked 464)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-08-02 | 1 | 0 |
+| 2023-08-03 | 2 | 0 |

@@ -378,9 +378,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 240307,
+  "EOS_Progressed": 240310,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1164,
+  "EOS_NewPlayers": 1160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11798,6 +11798,11 @@
       "Time": "2023-08-03T09:04:26.390108+00:00",
       "NumProgressed": 240307,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-03T10:04:44.1512452+00:00",
+      "NumProgressed": 240310,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -11809,7 +11814,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 64883
+      "UsersEstimate": 64884
     },
     {
       "ID": "ACH_AON",
@@ -11953,7 +11958,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 67286
+      "UsersEstimate": 67287
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -12041,7 +12046,7 @@
       "Name": "Good listener",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 12015
+      "UsersEstimate": 12016
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
@@ -12081,7 +12086,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16821
+      "UsersEstimate": 16822
     },
     {
       "ID": "ACH_MEMESMART",
@@ -12089,7 +12094,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 14418
+      "UsersEstimate": 14419
     },
     {
       "ID": "ACH_MEMORY5",
@@ -12113,7 +12118,7 @@
       "Name": "Griever",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16821
+      "UsersEstimate": 16822
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -12129,7 +12134,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 60077
+      "UsersEstimate": 60078
     },
     {
       "ID": "ACH_SOREAD",
@@ -12177,7 +12182,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14418
+      "UsersEstimate": 14419
     },
     {
       "ID": "ACH_TROLLKING",
@@ -12193,7 +12198,7 @@
       "Name": "Valedictorian",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 12015
+      "UsersEstimate": 12016
     },
     {
       "ID": "ACH_WAKEUP",
@@ -12224,7 +12229,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 240307,
+      "Progressed": 240310,
       "Completed": 7
     }
   ],
@@ -12232,8 +12237,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-07-21T15:58:43.8877276+00:00",
-  "LastChanged_Achievements": "2023-08-03T09:04:26.3901073+00:00",
+  "LastChanged_Achievements": "2023-08-03T10:04:44.1512447+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:50.6151057+00:00",
-  "LastUpdate_Ratings": "2023-08-03T08:59:21.6401119+00:00",
-  "LastUpdate_Achievements": "2023-08-03T09:04:26.3902249+00:00"
+  "LastUpdate_Ratings": "2023-08-03T09:59:59.2527986+00:00",
+  "LastUpdate_Achievements": "2023-08-03T10:04:44.1513634+00:00"
 }
