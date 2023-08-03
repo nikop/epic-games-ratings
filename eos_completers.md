@@ -22,7 +22,7 @@
 | 19 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.00% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 23 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.70% |
+| 23 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.68% |
 | 24 | [Remains](games/r/remains.md) | 10.64% |
 | 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.14% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
@@ -62,7 +62,7 @@
 | 60 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.35% |
 | 61 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.30% |
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.23% |
-| 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.11% |
+| 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.10% |
 | 64 | [The Complex](games/t/the_complex.md) | 3.04% |
 | 65 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
 | 66 | [MultiVersus](games/m/multiversus.md) | 2.93% |
