@@ -393,17 +393,17 @@
       "ID": "ach_hint_6",
       "SetID": "5e260i9",
       "Name": "Supported success!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 70,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_hint_9",
       "SetID": "5e260i9",
       "Name": "Together is better!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ach_items_50",
@@ -417,9 +417,9 @@
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 80,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_skip_1",
@@ -433,9 +433,9 @@
       "ID": "ach_skip_3",
       "SetID": "5e260i9",
       "Name": "Advance further!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_skip_5",
@@ -456,8 +456,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-08-03T10:03:43.5163151+00:00",
+  "LastChanged_Achievements": "2023-08-03T11:04:32.5888678+00:00",
   "LastUpdate_AppInfo": "2023-07-27T19:57:03.7416297+00:00",
-  "LastUpdate_Ratings": "2023-08-03T09:58:02.3439222+00:00",
-  "LastUpdate_Achievements": "2023-08-03T10:03:43.5163452+00:00"
+  "LastUpdate_Ratings": "2023-08-03T10:57:25.5798094+00:00",
+  "LastUpdate_Achievements": "2023-08-03T11:04:32.5888788+00:00"
 }

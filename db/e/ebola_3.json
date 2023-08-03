@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -1025,9 +1025,9 @@
       "ID": "achCoinThree",
       "SetID": "72gjli4",
       "Name": "Seeker Three \u2714",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "achCoinTwo",
@@ -1346,8 +1346,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-08-03T10:06:26.6513583+00:00",
+  "LastChanged_Achievements": "2023-08-03T11:07:03.6994224+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:15.9134787+00:00",
-  "LastUpdate_Ratings": "2023-08-03T10:03:15.164429+00:00",
-  "LastUpdate_Achievements": "2023-08-03T10:06:26.65141+00:00"
+  "LastUpdate_Ratings": "2023-08-03T11:03:56.4369942+00:00",
+  "LastUpdate_Achievements": "2023-08-03T11:07:03.699501+00:00"
 }

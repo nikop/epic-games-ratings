@@ -42,11 +42,11 @@ Rating: 4.04 (Ranked 917)
 | Here We Go Again | 8.00% | ~140 |
 | Master Enchanter | 8.00% | ~140 |
 | The father of Dragons | 8.00% | ~140 |
+| Trader | 8.00% | ~140 |
 | Crystal Mining | 7.00% | ~123 |
 | Dragon Slayer | 7.00% | ~123 |
 | Enchanting skill | 7.00% | ~123 |
 | The Expeditioner | 7.00% | ~123 |
-| Trader | 7.00% | ~123 |
 | Weekly Quest Completionist | 7.00% | ~123 |
 | Ancient Knowledge | 6.00% | ~105 |
 | Blueprint Upgrades | 6.00% | ~105 |

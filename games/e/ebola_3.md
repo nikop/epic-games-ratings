@@ -44,9 +44,9 @@
 | Boss 3 ✔ | 3.00% | ~7 |
 | Car ✔ | 2.00% | ~4 |
 | Seeker One ✔ | 2.00% | ~4 |
+| Seeker Three ✔ | 2.00% | ~4 |
 | The escape ✔ | 2.00% | ~4 |
 | Rank B+ ✔ | 2.00% | ~4 |
-| Seeker Three ✔ | 1.00% | ~2 |
 | Crocodile Escape ✔ | 1.00% | ~2 |
 | VIP ✔ | 1.00% | ~2 |
 | Exterminate pests ✔ | 0.90% | ~2 |

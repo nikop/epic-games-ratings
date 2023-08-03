@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 97.00% | ~432 |
-| A tiny town | 86.00% | ~383 |
-| Buildings, roads, cars, ...and people | 66.00% | ~294 |
-| Great view from the beach and from the hill | 56.00% | ~249 |
-| Bridges to come and go | 50.00% | ~222 |
-| Found an oasis | 44.00% | ~196 |
-| Burger or pizza? | 40.00% | ~178 |
-| Passion for sports | 34.00% | ~151 |
-| Who loves trains? | 31.00% | ~138 |
-| Easy and steady climb | 29.00% | ~129 |
+| Welcome! | 97.00% | ~434 |
+| A tiny town | 86.00% | ~384 |
+| Buildings, roads, cars, ...and people | 66.00% | ~295 |
+| Great view from the beach and from the hill | 56.00% | ~250 |
+| Bridges to come and go | 49.00% | ~219 |
+| Found an oasis | 43.00% | ~192 |
+| Burger or pizza? | 39.00% | ~174 |
+| Passion for sports | 34.00% | ~152 |
+| Who loves trains? | 30.00% | ~134 |
+| Easy and steady climb | 29.00% | ~130 |
 | At the heart of the city | 26.00% | ~116 |
-| Calm neighborhood | 25.00% | ~111 |
+| Calm neighborhood | 25.00% | ~112 |
 | Elevated ring | 24.00% | ~107 |
-| Not lonely anymore | 23.00% | ~102 |
+| Not lonely anymore | 23.00% | ~103 |
 | Monumental tribute | 22.00% | ~98 |
-| The beach is right there | 21.00% | ~93 |
-| Commuting | 21.00% | ~93 |
+| The beach is right there | 21.00% | ~94 |
+| Commuting | 21.00% | ~94 |
 | Le jardin magnifique | 20.00% | ~89 |
 | Aiming for a living and human city | 19.00% | ~85 |
 | City of dreams | 19.00% | ~85 |
 | Happy Christmas night! | 18.00% | ~80 |
 | Night walk along the beach | 18.00% | ~80 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 445 (Ranked 229)  
-Completed: 82 (18.43%) (Ranked 13)  
+Progressed: 447 (Ranked 229)  
+Completed: 82 (18.34%) (Ranked 13)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,7 +122,7 @@ Completed: 82 (18.43%) (Ranked 13)
 | 2023-07-31 | 429 | 80 |
 | 2023-08-01 | 435 | 81 |
 | 2023-08-02 | 443 | 82 |
-| 2023-08-03 | 445 | 82 |
+| 2023-08-03 | 447 | 82 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

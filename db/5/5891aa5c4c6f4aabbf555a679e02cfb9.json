@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2017-10-12T00:00:00+00:00",
@@ -245,9 +245,9 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "b36c5kb",
       "Name": "DIY",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -459,8 +459,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-03T10:03:50.2287659+00:00",
+  "LastChanged_Achievements": "2023-08-03T11:04:40.4820888+00:00",
   "LastUpdate_AppInfo": "2023-08-02T15:56:51.7948798+00:00",
-  "LastUpdate_Ratings": "2023-08-03T09:57:55.8625883+00:00",
-  "LastUpdate_Achievements": "2023-08-03T10:03:50.2288143+00:00"
+  "LastUpdate_Ratings": "2023-08-03T10:57:16.4449437+00:00",
+  "LastUpdate_Achievements": "2023-08-03T11:04:40.482133+00:00"
 }

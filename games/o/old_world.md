@@ -77,6 +77,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.50% | ~66 |
 | Beloved | 0.40% | ~53 |
 | Conqueror | 0.40% | ~53 |
+| Devout | 0.40% | ~53 |
 | Mighty | 0.40% | ~53 |
 | Victorious | 0.40% | ~53 |
 | Good Difficulty | 0.40% | ~53 |
@@ -94,6 +95,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.40% | ~53 |
 | Persian Paganism | 0.40% | ~53 |
 | Building Wonders | 0.40% | ~53 |
+| Economic Reform | 0.40% | ~53 |
 | Legalism | 0.40% | ~53 |
 | Cimmerian Archer | 0.40% | ~53 |
 | Legionary | 0.40% | ~53 |
@@ -102,7 +104,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.40% | ~53 |
 | Bad Heir Day | 0.30% | ~40 |
 | Ishtar Gate in Babylon | 0.30% | ~40 |
-| Devout | 0.30% | ~40 |
 | Invincible | 0.30% | ~40 |
 | Lion | 0.30% | ~40 |
 | Ready | 0.30% | ~40 |
@@ -118,7 +119,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.30% | ~40 |
 | One True Faith | 0.30% | ~40 |
 | Assyrian Paganism | 0.30% | ~40 |
-| Economic Reform | 0.30% | ~40 |
 | Industrial Progress | 0.30% | ~40 |
 | Dualism | 0.30% | ~40 |
 | Enlightenment | 0.30% | ~40 |

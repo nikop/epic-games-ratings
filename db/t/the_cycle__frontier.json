@@ -4,11 +4,11 @@
   "ProductSlug": "thecycle",
   "Ranking_Rating": 899,
   "Ranking_Popularity": 100,
-  "Ranking_PopularitySum": 67,
+  "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2099-06-08T10:00:00+00:00",
     "PcReleaseDate": "2022-06-08T10:00:00+00:00",
@@ -6290,10 +6290,16 @@
       "Rating": 4.1,
       "NumberOfAwards": 13949,
       "NumberOfAwardsMax": 2481
+    },
+    {
+      "Time": "2023-08-03T11:00:34.557051+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 13953,
+      "NumberOfAwardsMax": 2481
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13949,
+  "NumberOfAwards": 13953,
   "NumberOfAwardsMax": 2481,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -6325,13 +6331,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 2464
+      "Count": 2466
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1995
+      "Count": 1997
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6351,8 +6357,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-08-02T13:58:53.9209838+00:00",
+  "LastChanged": "2023-08-03T11:00:34.5570509+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:11.7719357+00:00",
-  "LastUpdate_Ratings": "2023-08-03T10:00:25.1793246+00:00",
-  "LastUpdate_Achievements": "2023-08-03T10:05:33.9947043+00:00"
+  "LastUpdate_Ratings": "2023-08-03T11:00:34.5570516+00:00",
+  "LastUpdate_Achievements": "2023-08-03T11:06:11.6161874+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -352,9 +352,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1525,
+  "EOS_Progressed": 1526,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -1767,6 +1767,11 @@
       "Time": "2023-08-03T10:04:45.4114469+00:00",
       "NumProgressed": 1525,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-03T11:05:36.7439845+00:00",
+      "NumProgressed": 1526,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 38,
@@ -1778,7 +1783,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -1794,7 +1799,7 @@
       "Name": "Good Samaritan",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENTS_04",
@@ -1802,7 +1807,7 @@
       "Name": "Being forgetful...",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENTS_05",
@@ -1834,7 +1839,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -1906,7 +1911,7 @@
       "Name": "Kind-hearted",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -1914,7 +1919,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -1960,9 +1965,9 @@
       "ID": "ACHIEVEMENTS_24",
       "SetID": "d4o538a",
       "Name": "Stone Specialist",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 198
     },
     {
       "ID": "ACHIEVEMENTS_25",
@@ -1978,7 +1983,7 @@
       "Name": "Community Advisor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENTS_27",
@@ -1994,7 +1999,7 @@
       "Name": "Rock Exterminator",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENTS_29",
@@ -2002,7 +2007,7 @@
       "Name": "Tree Exterminator",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENTS_30",
@@ -2034,7 +2039,7 @@
       "Name": "Catch of the Day",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACHIEVEMENTS_34",
@@ -2042,7 +2047,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -2081,7 +2086,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1525,
+      "Progressed": 1526,
       "Completed": 9
     }
   ],
@@ -2089,8 +2094,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-08-02T21:57:10.4950325+00:00",
-  "LastChanged_Achievements": "2023-08-03T10:04:45.4114463+00:00",
+  "LastChanged_Achievements": "2023-08-03T11:05:36.7439841+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:26.8145926+00:00",
-  "LastUpdate_Ratings": "2023-08-03T09:58:01.326208+00:00",
-  "LastUpdate_Achievements": "2023-08-03T10:04:45.4114892+00:00"
+  "LastUpdate_Ratings": "2023-08-03T10:57:22.4997538+00:00",
+  "LastUpdate_Achievements": "2023-08-03T11:05:36.7440277+00:00"
 }

@@ -7,8 +7,8 @@ Number of Ratings: 37  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eureka! | 12.00% | ~509 |
-| Tax-man I | 11.00% | ~466 |
-| A new beginning | 11.00% | ~466 |
+| Tax-man I | 11.00% | ~467 |
+| A new beginning | 11.00% | ~467 |
 | Friends from the past | 9.00% | ~382 |
 | I like to build stuff... I | 8.00% | ~339 |
 | Builder I | 7.00% | ~297 |
@@ -17,9 +17,9 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man II | 7.00% | ~297 |
 | A time consuming game I | 7.00% | ~297 |
 | Time for some trade | 7.00% | ~297 |
-| Bread for the people I | 6.00% | ~254 |
-| Completionist I | 6.00% | ~254 |
-| Full-time job I | 6.00% | ~254 |
+| Bread for the people I | 6.00% | ~255 |
+| Completionist I | 6.00% | ~255 |
+| Full-time job I | 6.00% | ~255 |
 | Not a small trader anymore | 5.00% | ~212 |
 | I like to build stuff... II | 5.00% | ~212 |
 | Full-time job II | 5.00% | ~212 |
@@ -37,7 +37,6 @@ Number of Ratings: 37  (23.09.2022)
 | Another one bites the dust | 3.00% | ~127 |
 | Bread for the people III | 3.00% | ~127 |
 | I like to build stuff... IV | 3.00% | ~127 |
-| The King's new clothes II | 3.00% | ~127 |
 | Experienced decorator | 3.00% | ~127 |
 | My precious... I | 3.00% | ~127 |
 | Full-time job III | 3.00% | ~127 |
@@ -46,6 +45,7 @@ Number of Ratings: 37  (23.09.2022)
 | The Art of War | 2.00% | ~85 |
 | Five brews are a schnitzel | 2.00% | ~85 |
 | I like to build stuff... V | 2.00% | ~85 |
+| The King's new clothes II | 2.00% | ~85 |
 | The King's new clothes III | 2.00% | ~85 |
 | Saint Florian | 2.00% | ~85 |
 | My precious... II | 2.00% | ~85 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,240 (Ranked 145)  
+Progressed: 4,242 (Ranked 145)  
 Completed: 3 (0.07%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,6 +172,7 @@ Completed: 3 (0.07%) (Ranked 206)
 | 2023-07-31 | 4,231 | 3 |
 | 2023-08-01 | 4,236 | 3 |
 | 2023-08-02 | 4,240 | 3 |
+| 2023-08-03 | 4,242 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

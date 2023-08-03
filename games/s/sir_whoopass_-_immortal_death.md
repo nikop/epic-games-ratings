@@ -22,14 +22,14 @@
 | You're not going to blow me up! | 53.00% | ~49 |
 | Mushroom soup of the day | 52.00% | ~48 |
 | Honk honk! | 49.00% | ~46 |
-| Butcher | 48.00% | ~45 |
-| Spare Ribs | 48.00% | ~45 |
+| Butcher | 49.00% | ~46 |
+| Spare Ribs | 49.00% | ~46 |
 | Cockadoodledoo! | 48.00% | ~45 |
 | Thats disgusting! | 45.00% | ~42 |
 | My pants squeak when I walk | 44.00% | ~41 |
-| Surprise!! | 41.00% | ~38 |
-| Self assessed tax return | 39.00% | ~36 |
-| Haemochromatosis | 39.00% | ~36 |
+| Surprise!! | 42.00% | ~39 |
+| Self assessed tax return | 40.00% | ~37 |
+| Haemochromatosis | 40.00% | ~37 |
 | Make America Grate Again | 35.00% | ~33 |
 | Catch the bus with me! | 33.00% | ~31 |
 | Karaoke king | 33.00% | ~31 |

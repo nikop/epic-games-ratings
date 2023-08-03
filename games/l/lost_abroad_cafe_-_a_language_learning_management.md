@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get Lost! | 84.00% | ~252 |
-| Barista | 48.00% | ~144 |
+| Barista | 49.00% | ~147 |
 | Tea-ser | 39.00% | ~117 |
 | Coffee Connoisseur | 20.00% | ~60 |
 | Tea Master | 11.00% | ~33 |

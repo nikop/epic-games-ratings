@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -475,9 +475,9 @@
       "ID": "FRONT_AND_BACKFLIP",
       "SetID": "20koof9",
       "Name": "To and Fro",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 86
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -715,9 +715,9 @@
       "ID": "USE_TUNNEL",
       "SetID": "20koof9",
       "Name": "I see the light!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 86
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -804,8 +804,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-08-03T10:06:10.8304178+00:00",
+  "LastChanged_Achievements": "2023-08-03T11:06:43.6547251+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:38.9893142+00:00",
-  "LastUpdate_Ratings": "2023-08-03T10:01:06.9775812+00:00",
-  "LastUpdate_Achievements": "2023-08-03T10:06:10.8304727+00:00"
+  "LastUpdate_Ratings": "2023-08-03T11:01:22.0992783+00:00",
+  "LastUpdate_Achievements": "2023-08-03T11:06:43.654835+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5512,10 +5512,10 @@
       "Count": 3338
     }
   ],
-  "EOS_Progressed": 218142,
+  "EOS_Progressed": 218159,
   "EOS_Completed": 2147,
-  "EOS_NewPlayers": 2224,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 2222,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16817,6 +16817,11 @@
       "Time": "2023-08-03T09:05:31.638524+00:00",
       "NumProgressed": 218142,
       "NumCompleted": 2147
+    },
+    {
+      "Time": "2023-08-03T11:04:15.4600447+00:00",
+      "NumProgressed": 218159,
+      "NumCompleted": 2147
     }
   ],
   "TotalAchievements": 512,
@@ -16932,7 +16937,7 @@
       "Name": "The Witchlight Carnival",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "objective_completed_1056",
@@ -17132,7 +17137,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "objective_completed_1090",
@@ -17196,7 +17201,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6544
+      "UsersEstimate": 6545
     },
     {
       "ID": "objective_completed_110",
@@ -17388,7 +17393,7 @@
       "Name": "Supply Run",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "objective_completed_1142",
@@ -17588,7 +17593,7 @@
       "Name": "Heatwave",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "objective_completed_1179",
@@ -20058,9 +20063,9 @@
       "ID": "objective_completed_802",
       "SetID": "415jc5c",
       "Name": "Moose Tracks",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 553
     },
     {
       "ID": "objective_completed_803",
@@ -20434,9 +20439,9 @@
       "ID": "objective_completed_872",
       "SetID": "415jc5c",
       "Name": "Elturel\u0027s Last Stand",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 369
     },
     {
       "ID": "objective_completed_873",
@@ -20788,7 +20793,7 @@
       "Name": "The Champion\u0027s Guide to Wildspace",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "objective_completed_1220",
@@ -20923,21 +20928,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184416,
-      "Completed": 3053
+      "Progressed": 184433,
+      "Completed": 3054
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218142,
+      "Progressed": 218159,
       "Completed": 2147
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-03T08:59:34.5945863+00:00",
-  "LastChanged_Achievements": "2023-08-03T09:05:31.6385233+00:00",
+  "LastChanged_Achievements": "2023-08-03T11:04:15.4600443+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-03T10:00:13.2458816+00:00",
-  "LastUpdate_Achievements": "2023-08-03T09:05:31.6413458+00:00"
+  "LastUpdate_Ratings": "2023-08-03T11:00:21.3636756+00:00",
+  "LastUpdate_Achievements": "2023-08-03T11:04:15.4627835+00:00"
 }

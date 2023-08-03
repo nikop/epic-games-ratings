@@ -37,6 +37,7 @@ Number of Ratings: 371  (23.09.2022)
 | Exterminator | 0.20% | ~6 |
 | Junk Banishment | 0.20% | ~6 |
 | A Gift Spurned | 0.20% | ~6 |
+| Death Comes For All | 0.20% | ~6 |
 | Tactical Flexibility | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Blood and Iron | 0.10% | ~3 |
@@ -52,7 +53,6 @@ Number of Ratings: 371  (23.09.2022)
 | Preservationist | 0.10% | ~3 |
 | Engine Kill | 0.10% | ~3 |
 | Harvest No More | 0.10% | ~3 |
-| Death Comes For All | 0.10% | ~3 |
 | True Mastery | 0.10% | ~3 |
 | Reign of Confusion | 0.10% | ~3 |
 | Abomination | 0.10% | ~3 |
