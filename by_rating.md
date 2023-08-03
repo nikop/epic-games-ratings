@@ -210,7 +210,7 @@
 | 198 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 0 | 509 |
 | 198 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 46 | 410 |
 | 198 | [The Witness](games/t/the_witness.md) | 4.70 | 178 | 282 |
-| 198 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,451 | 73 |
+| 198 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,454 | 73 |
 | 198 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 509 |
 | 198 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 509 |
 | 214 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 114,027 | 8 |
@@ -501,7 +501,7 @@
 | 498 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,362 | 127 |
 | 498 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,496 | 65 |
 | 498 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 446 |
-| 498 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,248 | 131 |
+| 498 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,253 | 131 |
 | 498 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 65 | 384 |
 | 498 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.54 | 0 | 509 |
 | 498 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 373 |
@@ -930,7 +930,7 @@
 | 928 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 372 | 220 |
 | 928 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,682 | 70 |
 | 930 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 509 |
-| 930 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,955 | 94 |
+| 930 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,970 | 94 |
 | 930 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 509 |
 | 933 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 509 |
 | 933 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.97 | 0 | 509 |

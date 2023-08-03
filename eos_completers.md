@@ -12,7 +12,7 @@
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 19.39% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 13 | [Island Cities](games/i/island_cities.md) | 18.47% |
+| 13 | [Island Cities](games/i/island_cities.md) | 18.43% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.29% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.02% |
 | 16 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 13.33% |
@@ -22,7 +22,7 @@
 | 19 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.00% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 23 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.68% |
+| 23 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.66% |
 | 24 | [Remains](games/r/remains.md) | 10.64% |
 | 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.14% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
@@ -39,7 +39,7 @@
 | 37 | [Scorn](games/s/scorn.md) | 6.95% |
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.18% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.16% |
 | 41 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 6.00% |
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.29% |
 | 43 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
@@ -50,7 +50,7 @@
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.73% |
 | 49 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 50 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
-| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.32% |
+| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.35% |
 | 52 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.29% |
 | 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.02% |
 | 54 | [Without Escape](games/w/without_escape.md) | 4.00% |
@@ -60,7 +60,7 @@
 | 58 | [Doodle God](games/d/doodle_god.md) | 3.49% |
 | 59 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 60 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.35% |
-| 61 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.30% |
+| 61 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.29% |
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.23% |
 | 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.10% |
 | 64 | [The Complex](games/t/the_complex.md) | 3.04% |

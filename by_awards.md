@@ -72,7 +72,7 @@
 | 70 | [Shop Titans](games/s/shop_titans.md) | 4,682 | 3.99 | 928 |
 | 71 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,654 | 4.69 | 214 |
 | 72 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,551 | 4.70 | 198 |
-| 73 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,451 | 4.70 | 198 |
+| 73 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,454 | 4.70 | 198 |
 | 74 | [Chivalry 2](games/c/chivalry_2.md) | 4,449 | 4.60 | 390 |
 | 75 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,357 | 4.76 | 117 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,225 | 4.56 | 465 |
@@ -93,7 +93,7 @@
 | 91 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,188 | 4.57 | 447 |
 | 92 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 3,090 | 4.68 | 241 |
 | 93 | [Trackmania](games/t/trackmania.md) | 3,082 | 4.67 | 256 |
-| 94 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,955 | 3.98 | 930 |
+| 94 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,970 | 3.98 | 930 |
 | 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,620 | 4.82 | 66 |
 | 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,608 | 4.51 | 542 |
 | 97 | [Among Us](games/a/among_us.md) | 2,585 | 4.57 | 447 |
@@ -130,7 +130,7 @@
 | 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,358 | 4.86 | 28 |
 | 129 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,311 | 4.70 | 198 |
 | 130 | [DOOM 64](games/d/doom_64.md) | 1,292 | 4.66 | 272 |
-| 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,248 | 4.54 | 498 |
+| 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,253 | 4.54 | 498 |
 | 132 | [World of Warships](games/w/world_of_warships.md) | 1,240 | 4.41 | 679 |
 | 133 | [XCOM® 2](games/x/xcom®_2.md) | 1,228 | 4.55 | 483 |
 | 134 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,180 | 4.70 | 198 |
