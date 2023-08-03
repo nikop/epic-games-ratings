@@ -19,10 +19,10 @@
 | Pathfinder | 5.00% | ~6 |
 | Ammo Tycoon | 5.00% | ~6 |
 | Perfect Soldier | 4.00% | ~5 |
+| Outdoor Decorator | 4.00% | ~5 |
 | Self-sufficient | 4.00% | ~5 |
 | Medicine Tycoon | 4.00% | ~5 |
 | Supersoldier | 3.00% | ~4 |
-| Outdoor Decorator | 3.00% | ~4 |
 | Healing | 3.00% | ~4 |
 | Property Bro | 3.00% | ~4 |
 | Human Resources | 3.00% | ~4 |

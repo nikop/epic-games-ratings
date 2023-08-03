@@ -9,6 +9,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 3.00% | ~397 |
 | Explorer | 2.00% | ~265 |
 | Settler | 2.00% | ~265 |
+| Friendly Family | 2.00% | ~265 |
 | Play a Single Player Game | 2.00% | ~265 |
 | The Great Mage | 2.00% | ~265 |
 | Able | 1.00% | ~132 |
@@ -17,12 +18,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 1.00% | ~132 |
 | Intrepid | 1.00% | ~132 |
 | Just | 1.00% | ~132 |
+| Keystone | 1.00% | ~132 |
 | Learned | 1.00% | ~132 |
 | Mason | 1.00% | ~132 |
 | Noble | 1.00% | ~132 |
 | Pioneer | 1.00% | ~132 |
 | Strong | 1.00% | ~132 |
-| Friendly Family | 1.00% | ~132 |
 | Hanging Gardens | 1.00% | ~132 |
 | Oracle | 1.00% | ~132 |
 | Naming Landmarks | 1.00% | ~132 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 1.00% | ~132 |
 | Ambitious | 0.90% | ~119 |
 | Glorious | 0.90% | ~119 |
-| Keystone | 0.90% | ~119 |
 | Pyramids | 0.90% | ~119 |
 | Judaism | 0.90% | ~119 |
 | Babylonian Paganism | 0.90% | ~119 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,246 (Ranked 117)  
+Progressed: 13,247 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-07-31 | 13,209 | 5 |
 | 2023-08-01 | 13,228 | 5 |
 | 2023-08-02 | 13,244 | 5 |
-| 2023-08-03 | 13,246 | 5 |
+| 2023-08-03 | 13,247 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 262)  
 Sum: 1,786 (Ranked 206)  

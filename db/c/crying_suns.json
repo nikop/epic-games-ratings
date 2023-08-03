@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 464371,
+  "EOS_Progressed": 464375,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 515,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11367,6 +11367,11 @@
       "Time": "2023-08-03T04:05:11.085581+00:00",
       "NumProgressed": 464371,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-03T05:05:25.4241561+00:00",
+      "NumProgressed": 464375,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -11394,7 +11399,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -11498,7 +11503,7 @@
       "Name": "Mother",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -11560,9 +11565,9 @@
       "ID": "achievement_story_second_awakening",
       "SetID": "8cokdon",
       "Name": "Second Coming",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 2322
+      "UsersEstimate": 2786
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -11810,7 +11815,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -12009,21 +12014,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 8305,
+      "Progressed": 8309,
       "Completed": 2354
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 464371,
+      "Progressed": 464375,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-08-03T04:05:11.0855802+00:00",
+  "LastChanged_Achievements": "2023-08-03T05:05:25.4241555+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:07.5889306+00:00",
-  "LastUpdate_Ratings": "2023-08-03T04:01:03.1628163+00:00",
-  "LastUpdate_Achievements": "2023-08-03T04:05:11.085715+00:00"
+  "LastUpdate_Ratings": "2023-08-03T05:01:17.8890451+00:00",
+  "LastUpdate_Achievements": "2023-08-03T05:05:25.4243603+00:00"
 }

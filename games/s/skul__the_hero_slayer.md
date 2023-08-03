@@ -6,11 +6,11 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,516 |
-| What should I buy? | 84.00% | ~6,789 |
+| The Legend Begins | 93.00% | ~7,517 |
+| What should I buy? | 84.00% | ~6,790 |
 | Focus! | 63.00% | ~5,092 |
 | Rescued Elder Ent | 63.00% | ~5,092 |
-| The End of the Gold Mane Knights | 48.00% | ~3,879 |
+| The End of the Gold Mane Knights | 48.00% | ~3,880 |
 | False Goddess, Disappear | 40.00% | ~3,233 |
 | Rules of Etiquette | 40.00% | ~3,233 |
 | Quick Movements | 34.00% | ~2,748 |
@@ -18,11 +18,11 @@ Number of Ratings: 546  (23.09.2022)
 | The Fall of the Leonia Order | 30.00% | ~2,425 |
 | The Hero Killer | 28.00% | ~2,263 |
 | Go Home... | 27.00% | ~2,182 |
-| The Final Battle of the First Hero | 26.00% | ~2,101 |
+| The Final Battle of the First Hero | 26.00% | ~2,102 |
 | Brain at Full Throttle | 23.00% | ~1,859 |
-| Rookies Welcome | 20.00% | ~1,616 |
+| Rookies Welcome | 20.00% | ~1,617 |
 | Deadly Power | 16.00% | ~1,293 |
-| Castle Restoration Plans | 14.00% | ~1,131 |
+| Castle Restoration Plans | 14.00% | ~1,132 |
 | The Dwarven Chandelier | 12.00% | ~970 |
 | Master of Speed | 9.00% | ~727 |
 | The Levitator | 6.00% | ~485 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~162 |
 | Cold-Blooded | 0.80% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,082 (Ranked 127)  
+Progressed: 8,083 (Ranked 127)  
 Completed: 12 (0.15%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,11 +130,11 @@ Completed: 12 (0.15%) (Ranked 183)
 | 2023-07-31 | 8,063 | 12 |
 | 2023-08-01 | 8,071 | 12 |
 | 2023-08-02 | 8,079 | 12 |
-| 2023-08-03 | 8,082 | 12 |
+| 2023-08-03 | 8,083 | 12 |
 ## Awards
-Max (Great for Beginners): 123  (Ranked 311)  
+Max (Great for Beginners): 123  (Ranked 312)  
 Sum: 896 (Ranked 248)  
-Diff (max vs sum): 63  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 123 |

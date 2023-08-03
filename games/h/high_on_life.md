@@ -5,28 +5,28 @@ Rating: 4.66 (Ranked 272)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,725 |
-| Mods Please Ban | 77.00% | ~18,299 |
-| Bring A Knife to a Gun Fight | 76.00% | ~18,061 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,348 |
-| First Bounty Down | 59.00% | ~14,021 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,546 |
-| Luglox Genocide | 43.00% | ~10,219 |
-| Playing Card To Get | 33.00% | ~7,842 |
-| Don't Knife The Hand That Feeds | 33.00% | ~7,842 |
+| Eye Scream, You Scream | 83.00% | ~19,727 |
+| Mods Please Ban | 77.00% | ~18,301 |
+| Bring A Knife to a Gun Fight | 76.00% | ~18,063 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,350 |
+| First Bounty Down | 59.00% | ~14,023 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,547 |
+| Luglox Genocide | 43.00% | ~10,220 |
+| Playing Card To Get | 33.00% | ~7,843 |
+| Don't Knife The Hand That Feeds | 33.00% | ~7,843 |
 | Creature Feature | 29.00% | ~6,892 |
-| Satisfied Gus-tomer | 28.00% | ~6,654 |
-| Cold-Blooded Driller | 28.00% | ~6,654 |
-| Are You Packin'? | 25.00% | ~5,941 |
-| G3 Graduation | 25.00% | ~5,941 |
+| Satisfied Gus-tomer | 28.00% | ~6,655 |
+| Cold-Blooded Driller | 28.00% | ~6,655 |
+| Are You Packin'? | 25.00% | ~5,942 |
+| G3 Graduation | 25.00% | ~5,942 |
 | RIP Davey Glutes | 24.00% | ~5,704 |
 | Sweezy Like Sunday Morning | 24.00% | ~5,704 |
-| Hardest Battle In The Game | 22.00% | ~5,228 |
-| Series Wrap on Suit-O | 22.00% | ~5,228 |
+| Hardest Battle In The Game | 22.00% | ~5,229 |
+| Series Wrap on Suit-O | 22.00% | ~5,229 |
 | Lezduit! | 20.00% | ~4,753 |
 | Who's The Boss? | 20.00% | ~4,753 |
-| Self-Actualization | 19.00% | ~4,515 |
-| Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,515 |
+| Self-Actualization | 19.00% | ~4,516 |
+| Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,516 |
 | Legendary Bounty Hunter | 18.00% | ~4,278 |
 | Seeing All The Sights | 15.00% | ~3,565 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,852 |
@@ -38,7 +38,7 @@ Rating: 4.66 (Ranked 272)
 | Epic Legendary Prize | 1.00% | ~238 |
 | A Starfish Is Born | 1.00% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,765 (Ranked 102)  
+Progressed: 23,767 (Ranked 102)  
 Completed: 11 (0.05%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 11 (0.05%) (Ranked 212)
 | 2023-07-31 | 23,646 | 11 |
 | 2023-08-01 | 23,692 | 11 |
 | 2023-08-02 | 23,755 | 11 |
-| 2023-08-03 | 23,765 | 11 |
+| 2023-08-03 | 23,767 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

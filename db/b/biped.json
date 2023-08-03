@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4975,
+  "EOS_Progressed": 4976,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7701,6 +7701,11 @@
       "Time": "2023-08-03T04:08:20.6863335+00:00",
       "NumProgressed": 4975,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T05:08:45.7134424+00:00",
+      "NumProgressed": 4976,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -7712,7 +7717,7 @@
       "Name": "First Step",
       "Percentage": 39,
       "XP": 45,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "10",
@@ -7808,7 +7813,7 @@
       "Name": "Blue Rapids",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "8",
@@ -7831,7 +7836,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4975,
+      "Progressed": 4976,
       "Completed": 0
     }
   ],
@@ -7839,8 +7844,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-08-03T04:08:20.686333+00:00",
+  "LastChanged_Achievements": "2023-08-03T05:08:45.7134418+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.1828699+00:00",
-  "LastUpdate_Ratings": "2023-08-03T03:59:12.2659912+00:00",
-  "LastUpdate_Achievements": "2023-08-03T04:08:20.6863769+00:00"
+  "LastUpdate_Ratings": "2023-08-03T04:59:16.9849331+00:00",
+  "LastUpdate_Achievements": "2023-08-03T05:08:45.7135426+00:00"
 }

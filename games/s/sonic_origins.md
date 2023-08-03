@@ -33,7 +33,7 @@ Number of Ratings: 154  (23.09.2022)
 | Lucky Hedgehog | 34.00% | ~124 |
 | All Clear! | 34.00% | ~124 |
 | To the Mirror World | 32.00% | ~117 |
-| Movie Maniac | 24.00% | ~88 |
+| Movie Maniac | 25.00% | ~91 |
 | Sound Savant | 24.00% | ~88 |
 | Sonic the Hedgehog Mission Master | 20.00% | ~73 |
 | Beware Rhinobots! | 19.00% | ~69 |
@@ -90,12 +90,12 @@ Completed: 37 (10.14%) (Ranked 25)
 | 2023-08-02 | 364 | 37 |
 | 2023-08-03 | 365 | 37 |
 ## Awards
-Max (Great Boss Battles): 123  (Ranked 311)  
-Sum: 123 (Ranked 403)  
-Diff (max vs sum): -92  
+Max (Great Boss Battles): 125  (Ranked 311)  
+Sum: 125 (Ranked 402)  
+Diff (max vs sum): -91  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 123 |
+| This game has Great Boss Battles | 125 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -147,3 +147,4 @@ Diff (max vs sum): -92
 | 2023-07-02 | 4.57 | - | 122 | 122 |
 | 2023-07-11 | 4.58 | - | 122 | 122 |
 | 2023-07-25 | 4.58 | - | 123 | 123 |
+| 2023-08-03 | 4.58 | - | 125 | 125 |

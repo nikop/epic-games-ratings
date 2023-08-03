@@ -35,19 +35,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.60% | ~1,309 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,106 |
 | Thieves of the Coven | 0.50% | ~922 |
-| Don't Look Up! | 0.50% | ~1,090 |
-| Heavy Burden | 0.50% | ~1,090 |
+| Don't Look Up! | 0.50% | ~1,091 |
+| Heavy Burden | 0.50% | ~1,091 |
 | The Evacuation of Waterdeep | 0.50% | ~922 |
-| Friends of the Forest | 0.50% | ~1,090 |
+| Friends of the Forest | 0.50% | ~1,091 |
 | The Dread Domain of Tovag | 0.50% | ~922 |
-| Beast Mode | 0.50% | ~1,090 |
-| Low Initiative | 0.50% | ~1,090 |
-| Street War | 0.50% | ~1,090 |
-| March of the Undead | 0.50% | ~1,090 |
-| No Time To Rest | 0.50% | ~1,090 |
-| The Mists of Ravenloft | 0.50% | ~1,090 |
-| The Dinner Party | 0.50% | ~1,090 |
-| The Botched Kidnapping | 0.50% | ~1,090 |
+| Beast Mode | 0.50% | ~1,091 |
+| Low Initiative | 0.50% | ~1,091 |
+| Street War | 0.50% | ~1,091 |
+| March of the Undead | 0.50% | ~1,091 |
+| No Time To Rest | 0.50% | ~1,091 |
+| The Mists of Ravenloft | 0.50% | ~1,091 |
+| The Dinner Party | 0.50% | ~1,091 |
+| The Botched Kidnapping | 0.50% | ~1,091 |
 | Not That Type of Helm! | 0.50% | ~922 |
 | Calcryx Tricks | 0.50% | ~922 |
 | Goblin Halls: the Next Generation | 0.50% | ~922 |
@@ -55,15 +55,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.50% | ~922 |
 | Krux's Speed Run | 0.50% | ~922 |
 | Upholding the Law | 0.40% | ~872 |
-| Hither of the Feywild | 0.40% | ~737 |
-| Speeds of Destruction | 0.40% | ~737 |
+| Hither of the Feywild | 0.40% | ~738 |
+| Speeds of Destruction | 0.40% | ~738 |
 | On the Hunt | 0.40% | ~872 |
-| Best Thay Ever | 0.40% | ~737 |
-| A Demi-god's Defender | 0.40% | ~737 |
+| Best Thay Ever | 0.40% | ~738 |
+| A Demi-god's Defender | 0.40% | ~738 |
 | Homecoming | 0.40% | ~872 |
 | The Lost Heir of Omu | 0.40% | ~872 |
-| No One Can Hear You Scream | 0.40% | ~737 |
-| Welcome to the Rock | 0.40% | ~737 |
+| No One Can Hear You Scream | 0.40% | ~738 |
+| Welcome to the Rock | 0.40% | ~738 |
 | Wisdom Check | 0.40% | ~872 |
 | Invisible Shadows | 0.40% | ~872 |
 | Family Entanglements | 0.40% | ~872 |
@@ -79,10 +79,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.40% | ~872 |
 | Overdue Rendezvous | 0.40% | ~872 |
 | Pure Energy | 0.40% | ~872 |
-| Luigi After Hours | 0.40% | ~737 |
-| Electric Mayhem | 0.40% | ~737 |
-| 3,720 to 1 | 0.40% | ~737 |
-| Animated Giff | 0.40% | ~737 |
+| Luigi After Hours | 0.40% | ~738 |
+| Electric Mayhem | 0.40% | ~738 |
+| 3,720 to 1 | 0.40% | ~738 |
+| Animated Giff | 0.40% | ~738 |
 | Nightmare Rats! | 0.30% | ~553 |
 | The Prince of a Thousand Enemies | 0.30% | ~553 |
 | Downfall | 0.30% | ~553 |
@@ -191,6 +191,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Excavating History | 0.20% | ~436 |
 | Towering Expectations | 0.20% | ~436 |
 | Hopelessly Lost | 0.20% | ~436 |
+| Cramped Quarters | 0.20% | ~436 |
 | Enter the Sargauth | 0.20% | ~436 |
 | Slow and Steady | 0.20% | ~436 |
 | Lair of the Xanathar | 0.20% | ~436 |
@@ -343,7 +344,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Careful Consideration | 0.10% | ~218 |
 | Tanking Expectations | 0.10% | ~184 |
 | Bazaar Exploits | 0.10% | ~218 |
-| Cramped Quarters | 0.10% | ~218 |
 | Flame(skull) War | 0.10% | ~218 |
 | Servants of the Demon Prince | 0.10% | ~184 |
 | Elder Rune Madness | 0.10% | ~218 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~184 |
 | Quick or Quack | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,094 (Ranked 53)  
+Progressed: 218,106 (Ranked 53)  
 Completed: 2,147 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -624,17 +624,17 @@ Completed: 2,147 (0.98%) (Ranked 112)
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
-| 2023-08-03 | 218,094 | 2,147 |
+| 2023-08-03 | 218,106 | 2,147 |
 ## Awards
 Max (Diverse Characters): 5,109  (Ranked 67)  
-Sum: 30,857 (Ranked 38)  
+Sum: 30,863 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,109 |
 | This game is Great for Beginners | 5,048 |
 | This game has Quickly Understood Controls | 4,699 |
-| This game is Relaxing | 4,588 |
+| This game is Relaxing | 4,594 |
 | This game has Amazing Characters | 4,047 |
 | This game is Highly Recommended | 4,029 |
 | This game has Playful Visuals | 3,337 |
@@ -830,3 +830,4 @@ Diff (max vs sum): 29
 | 2023-07-31 | 4.05 | - | 5,106 | 30,831 |
 | 2023-08-01 | 4.05 | - | 5,108 | 30,850 |
 | 2023-08-02 | 4.05 | - | 5,109 | 30,857 |
+| 2023-08-03 | 4.05 | - | 5,109 | 30,863 |

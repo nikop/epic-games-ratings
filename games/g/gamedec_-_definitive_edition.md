@@ -6,17 +6,17 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~67,278 |
-| Powergamer | 27.00% | ~64,875 |
-| Barely scratched the surface | 25.00% | ~60,069 |
-| Write that down | 24.00% | ~57,666 |
-| Guns, lots of guns | 12.00% | ~28,833 |
-| Collector | 11.00% | ~26,430 |
+| I will finish what you started | 28.00% | ~67,279 |
+| Powergamer | 27.00% | ~64,876 |
+| Barely scratched the surface | 25.00% | ~60,071 |
+| Write that down | 24.00% | ~57,668 |
+| Guns, lots of guns | 12.00% | ~28,834 |
+| Collector | 11.00% | ~26,431 |
 | Elementary! | 9.00% | ~21,625 |
-| Pumpkin Jack | 8.00% | ~19,222 |
-| Wake up! | 8.00% | ~19,222 |
-| It's honest work | 7.00% | ~16,819 |
-| Griever | 7.00% | ~16,819 |
+| Pumpkin Jack | 8.00% | ~19,223 |
+| Wake up! | 8.00% | ~19,223 |
+| It's honest work | 7.00% | ~16,820 |
+| Griever | 7.00% | ~16,820 |
 | Me smart | 6.00% | ~14,417 |
 | Trash compactor | 6.00% | ~14,417 |
 | Good listener | 5.00% | ~12,014 |
@@ -42,7 +42,7 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,403 |
 | Take the blue pill | 1.00% | ~2,403 |
 | The power of three | 1.00% | ~2,403 |
-| A true blacksmith | 0.90% | ~2,162 |
+| A true blacksmith | 0.90% | ~2,163 |
 | Let's try another | 0.80% | ~1,922 |
 | Home run | 0.80% | ~1,922 |
 | I have the high ground | 0.70% | ~1,682 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~481 |
 | Memory 5 | 0.10% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,277 (Ranked 46)  
+Progressed: 240,283 (Ranked 46)  
 Completed: 7 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 7 (0.00%) (Ranked 247)
 | 2023-07-31 | 239,970 | 7 |
 | 2023-08-01 | 240,109 | 7 |
 | 2023-08-02 | 240,256 | 7 |
-| 2023-08-03 | 240,277 | 7 |
+| 2023-08-03 | 240,283 | 7 |
 ## Awards
 Max (Character Customization): 76  (Ranked 364)  
 Sum: 76 (Ranked 428)  

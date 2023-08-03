@@ -419,9 +419,9 @@
       "ID": "BADGE_ENEMIES_FRIGHTEN",
       "SetID": "ak6pfjk",
       "Name": "Go Home!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 123
     },
     {
       "ID": "BADGE_ENEMIES_KILL",
@@ -435,9 +435,9 @@
       "ID": "BADGE_ENEMIES_USING_MINES_KILL",
       "SetID": "ak6pfjk",
       "Name": "It\u0027s a Trap",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "BADGE_ENEMIES_WITH_GEM_KILL",
@@ -491,9 +491,9 @@
       "ID": "BADGE_MANA_POTIONS_COLLECT",
       "SetID": "ak6pfjk",
       "Name": "Drunken Master",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "BADGE_METEOR_SIMULTANEOUS_KILL",
@@ -604,8 +604,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-08-03T04:04:52.0940755+00:00",
+  "LastChanged_Achievements": "2023-08-03T05:05:16.0229148+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:27.292424+00:00",
-  "LastUpdate_Ratings": "2023-08-03T04:00:04.1157866+00:00",
-  "LastUpdate_Achievements": "2023-08-03T04:04:52.0941123+00:00"
+  "LastUpdate_Ratings": "2023-08-03T05:00:13.2798746+00:00",
+  "LastUpdate_Achievements": "2023-08-03T05:05:16.0229926+00:00"
 }

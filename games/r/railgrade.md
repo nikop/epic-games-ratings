@@ -5,28 +5,28 @@ Rating: 4.55 (Ranked 482)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,984 |
-| Before the Downfall | 93.00% | ~18,015 |
-| Money like Water | 91.00% | ~17,628 |
-| Minimalist | 90.00% | ~17,434 |
-| Builder | 83.00% | ~16,078 |
+| Trevithick's Legacy | 98.00% | ~18,985 |
+| Before the Downfall | 93.00% | ~18,016 |
+| Money like Water | 91.00% | ~17,629 |
+| Minimalist | 90.00% | ~17,435 |
+| Builder | 83.00% | ~16,079 |
 | Eraser | 70.00% | ~13,560 |
-| Pocket of Trains | 65.00% | ~12,591 |
+| Pocket of Trains | 65.00% | ~12,592 |
 | Inspector | 59.00% | ~11,429 |
-| Going the Distance | 54.00% | ~10,460 |
+| Going the Distance | 54.00% | ~10,461 |
 | Oil Baron | 42.00% | ~8,136 |
 | Loads-a-Money | 42.00% | ~8,136 |
 | Helper of the People | 39.00% | ~7,555 |
 | Simplification | 34.00% | ~6,586 |
-| Box of Trains | 33.00% | ~6,392 |
+| Box of Trains | 33.00% | ~6,393 |
 | Let There be Light | 32.00% | ~6,199 |
 | Hot Water | 31.00% | ~6,005 |
 | Indecisive | 29.00% | ~5,618 |
 | The scenic route | 27.00% | ~5,230 |
 | Industrialist | 25.00% | ~4,843 |
-| 8K is Enough for Everyone | 23.00% | ~4,455 |
-| Perfectionist | 23.00% | ~4,455 |
-| Trains over Pipes | 23.00% | ~4,455 |
+| 8K is Enough for Everyone | 23.00% | ~4,456 |
+| Perfectionist | 23.00% | ~4,456 |
+| Trains over Pipes | 23.00% | ~4,456 |
 | Man of Steel | 17.00% | ~3,293 |
 | Room Full of Trains | 12.00% | ~2,325 |
 | Investor | 10.00% | ~1,937 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 482)
 | Overdeer | 0.50% | ~97 |
 | Cloud Services | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,371 (Ranked 107)  
+Progressed: 19,372 (Ranked 107)  
 Completed: 34 (0.18%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,6 +148,7 @@ Completed: 34 (0.18%) (Ranked 178)
 | 2023-07-31 | 19,358 | 33 |
 | 2023-08-01 | 19,364 | 34 |
 | 2023-08-02 | 19,371 | 34 |
+| 2023-08-03 | 19,372 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 352)  
 Sum: 655 (Ranked 283)  

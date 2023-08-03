@@ -646,9 +646,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11767,
+  "EOS_Progressed": 11769,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -8241,6 +8241,11 @@
       "Time": "2023-08-03T04:08:22.4622874+00:00",
       "NumProgressed": 11767,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-08-03T05:08:47.7307477+00:00",
+      "NumProgressed": 11769,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 35,
@@ -8252,7 +8257,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9531
+      "UsersEstimate": 9533
     },
     {
       "ID": "ACH02",
@@ -8420,7 +8425,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "ACH23",
@@ -8468,7 +8473,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "ACH29",
@@ -8531,7 +8536,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11767,
+      "Progressed": 11769,
       "Completed": 34
     }
   ],
@@ -8539,8 +8544,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-01T05:01:22.5591656+00:00",
-  "LastChanged_Achievements": "2023-08-03T04:08:22.4622869+00:00",
+  "LastChanged_Achievements": "2023-08-03T05:08:47.7307469+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.4328142+00:00",
-  "LastUpdate_Ratings": "2023-08-03T04:02:19.0008369+00:00",
-  "LastUpdate_Achievements": "2023-08-03T04:08:22.4623447+00:00"
+  "LastUpdate_Ratings": "2023-08-03T05:02:46.559399+00:00",
+  "LastUpdate_Achievements": "2023-08-03T05:08:47.7308741+00:00"
 }

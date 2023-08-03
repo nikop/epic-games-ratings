@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-origins",
   "Ranking_Rating": 426,
   "Ranking_Popularity": 311,
-  "Ranking_PopularitySum": 403,
+  "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 25,
   "Ranking_EOS_NewPlayers": 203,
@@ -261,18 +261,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 123,
       "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-08-03T04:58:59.3110814+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 125,
+      "NumberOfAwardsMax": 125
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 123,
-  "NumberOfAwardsMax": 123,
+  "NumberOfAwards": 125,
+  "NumberOfAwardsMax": 125,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 123
+      "Count": 125
     }
   ],
   "EOS_Progressed": 365,
@@ -1684,9 +1690,9 @@
       "ID": "ID_26_MOVIE_MANIA",
       "SetID": "7o8nc5m",
       "Name": "Movie Maniac",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 91
     },
     {
       "ID": "ID_27_SOUND_MANIA",
@@ -1771,9 +1777,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
-  "LastChanged": "2023-07-25T19:58:34.9167983+00:00",
-  "LastChanged_Achievements": "2023-08-03T04:03:51.2540933+00:00",
+  "LastChanged": "2023-08-03T04:58:59.3110812+00:00",
+  "LastChanged_Achievements": "2023-08-03T05:04:22.9998016+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:41.5361086+00:00",
-  "LastUpdate_Ratings": "2023-08-03T03:58:51.8393558+00:00",
-  "LastUpdate_Achievements": "2023-08-03T04:03:51.2541196+00:00"
+  "LastUpdate_Ratings": "2023-08-03T04:58:59.3110818+00:00",
+  "LastUpdate_Achievements": "2023-08-03T05:04:22.9998578+00:00"
 }

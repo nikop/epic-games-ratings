@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71,
+  "EOS_Progressed": 72,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -346,6 +346,11 @@
       "Time": "2023-08-03T01:58:17.4997871+00:00",
       "NumProgressed": 71,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T05:06:43.2799597+00:00",
+      "NumProgressed": 72,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 5,
@@ -396,14 +401,14 @@
     {
       "ID": "9ajogia",
       "IsBase": true,
-      "Progressed": 71,
+      "Progressed": 72,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T04:57:23.9027898+00:00",
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2023-08-03T04:06:24.8552421+00:00",
+  "LastChanged_Achievements": "2023-08-03T05:06:43.2799588+00:00",
   "LastUpdate_AppInfo": "2023-07-27T18:56:58.9983134+00:00",
-  "LastUpdate_Ratings": "2023-08-03T03:57:54.5271006+00:00",
-  "LastUpdate_Achievements": "2023-08-03T04:06:24.8552501+00:00"
+  "LastUpdate_Ratings": "2023-08-03T04:57:57.2952237+00:00",
+  "LastUpdate_Achievements": "2023-08-03T05:06:43.2799746+00:00"
 }

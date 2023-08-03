@@ -1638,9 +1638,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24690,
+  "EOS_Progressed": 24691,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9333,6 +9333,11 @@
       "Time": "2023-08-03T04:03:36.6975708+00:00",
       "NumProgressed": 24690,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-03T05:04:07.8014137+00:00",
+      "NumProgressed": 24691,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 51,
@@ -9368,7 +9373,7 @@
       "Name": "We have the best insurance",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 6419
+      "UsersEstimate": 6420
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -9424,7 +9429,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3950
+      "UsersEstimate": 3951
     },
     {
       "ID": "Discovery",
@@ -9432,7 +9437,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15061
+      "UsersEstimate": 15062
     },
     {
       "ID": "Dont_Need_These",
@@ -9464,7 +9469,7 @@
       "Name": "Escape Artist",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3950
+      "UsersEstimate": 3951
     },
     {
       "ID": "Fragile_Panes",
@@ -9512,7 +9517,7 @@
       "Name": "Legions",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6419
+      "UsersEstimate": 6420
     },
     {
       "ID": "Liability",
@@ -9560,7 +9565,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6172
+      "UsersEstimate": 6173
     },
     {
       "ID": "Reckless",
@@ -9592,7 +9597,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6419
+      "UsersEstimate": 6420
     },
     {
       "ID": "Rivalry",
@@ -9608,7 +9613,7 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 3950
+      "UsersEstimate": 3951
     },
     {
       "ID": "Side_Hustle",
@@ -9616,7 +9621,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6666
+      "UsersEstimate": 6667
     },
     {
       "ID": "Skilled",
@@ -9640,7 +9645,7 @@
       "Name": "Stunner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6419
+      "UsersEstimate": 6420
     },
     {
       "ID": "Stylish",
@@ -9648,7 +9653,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21233
+      "UsersEstimate": 21234
     },
     {
       "ID": "Summoner",
@@ -9656,7 +9661,7 @@
       "Name": "Summoner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6419
+      "UsersEstimate": 6420
     },
     {
       "ID": "Surprise",
@@ -9728,7 +9733,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11851
+      "UsersEstimate": 11852
     },
     {
       "ID": "Welcome_Crew",
@@ -9751,7 +9756,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24690,
+      "Progressed": 24691,
       "Completed": 48
     }
   ],
@@ -9759,8 +9764,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-02T22:00:30.7514951+00:00",
-  "LastChanged_Achievements": "2023-08-03T04:03:36.6975703+00:00",
+  "LastChanged_Achievements": "2023-08-03T05:04:07.8014129+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:56.6577114+00:00",
-  "LastUpdate_Ratings": "2023-08-03T04:00:44.8567057+00:00",
-  "LastUpdate_Achievements": "2023-08-03T04:03:36.6976394+00:00"
+  "LastUpdate_Ratings": "2023-08-03T05:00:56.6841171+00:00",
+  "LastUpdate_Achievements": "2023-08-03T05:04:07.8015761+00:00"
 }

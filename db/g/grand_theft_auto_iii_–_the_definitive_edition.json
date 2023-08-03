@@ -406,7 +406,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7388,
+  "EOS_Progressed": 7390,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 1,
@@ -6811,6 +6811,11 @@
       "Time": "2023-08-03T04:06:35.1689613+00:00",
       "NumProgressed": 7388,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-03T05:06:54.0628883+00:00",
+      "NumProgressed": 7390,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 29,
@@ -6822,7 +6827,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6132
+      "UsersEstimate": 6134
     },
     {
       "ID": "ACH02",
@@ -6830,7 +6835,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2439
     },
     {
       "ID": "ACH03",
@@ -6942,7 +6947,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1847
+      "UsersEstimate": 1848
     },
     {
       "ID": "ACH17",
@@ -6950,7 +6955,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "ACH18",
@@ -7022,7 +7027,7 @@
       "Name": "Furious First Responder",
       "Percentage": 0.9,
       "XP": 55,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH27",
@@ -7053,7 +7058,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7388,
+      "Progressed": 7390,
       "Completed": 42
     }
   ],
@@ -7061,8 +7066,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-01T02:03:47.9919957+00:00",
-  "LastChanged_Achievements": "2023-08-03T04:06:35.1689608+00:00",
+  "LastChanged_Achievements": "2023-08-03T05:06:54.0628874+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:45.6186895+00:00",
-  "LastUpdate_Ratings": "2023-08-03T03:58:58.6065655+00:00",
-  "LastUpdate_Achievements": "2023-08-03T04:06:35.1690093+00:00"
+  "LastUpdate_Ratings": "2023-08-03T04:59:05.5930387+00:00",
+  "LastUpdate_Achievements": "2023-08-03T05:06:54.0629927+00:00"
 }

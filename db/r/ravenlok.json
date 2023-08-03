@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2779,9 +2779,9 @@
       "ID": "15",
       "SetID": "d0g98p",
       "Name": "Pull the Plug",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 361
+      "UsersEstimate": 371
     },
     {
       "ID": "16",
@@ -2851,9 +2851,9 @@
       "ID": "23",
       "SetID": "d0g98p",
       "Name": "All Heart",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 361
+      "UsersEstimate": 371
     },
     {
       "ID": "24",
@@ -3140,8 +3140,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-08-03T04:04:29.1550428+00:00",
+  "LastChanged_Achievements": "2023-08-03T05:04:52.5766506+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:05.5849484+00:00",
-  "LastUpdate_Ratings": "2023-08-03T03:58:19.4122773+00:00",
-  "LastUpdate_Achievements": "2023-08-03T04:04:29.1550898+00:00"
+  "LastUpdate_Ratings": "2023-08-03T04:58:22.2918521+00:00",
+  "LastUpdate_Achievements": "2023-08-03T05:04:52.5767546+00:00"
 }

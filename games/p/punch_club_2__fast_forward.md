@@ -27,7 +27,7 @@
 | Little hacker | 57.00% | ~121 |
 | Intriguing candies | 57.00% | ~121 |
 | Workout professional | 56.00% | ~119 |
-| It's good to be alive | 55.00% | ~117 |
+| It's good to be alive | 56.00% | ~119 |
 | Own four walls | 54.00% | ~114 |
 | Handyman | 53.00% | ~112 |
 | Champion – starter pack | 53.00% | ~112 |
@@ -40,8 +40,8 @@
 | No blades in the gym | 44.00% | ~93 |
 | Your own way | 44.00% | ~93 |
 | Guiding on the right path | 43.00% | ~91 |
+| Fight is life | 42.00% | ~89 |
 | Mysterious voice | 42.00% | ~89 |
-| Fight is life | 41.00% | ~87 |
 | Get out of my apartment! | 37.00% | ~78 |
 | Underground dwellers | 36.00% | ~76 |
 | Responsible approach | 36.00% | ~76 |

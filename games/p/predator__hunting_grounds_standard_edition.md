@@ -1,7 +1,7 @@
 # Predator: Hunting Grounds Standard Edition
 [Store](https://store.epicgames.com/en-US/p/predator-hunting-grounds)  
 [View Rawdata](../../db/p/predator__hunting_grounds_standard_edition.json)  
-Rating: 4.44 (Ranked 646)  
+Rating: 4.45 (Ranked 630)  
 Number of Ratings: 1,373  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 867  (Ranked 150)  
@@ -153,3 +153,4 @@ Diff (max vs sum): -29
 | 2023-07-27 | 4.45 | - | 866 | 2,355 |
 | 2023-07-29 | 4.44 | - | 866 | 2,356 |
 | 2023-08-02 | 4.44 | - | 867 | 2,357 |
+| 2023-08-03 | 4.45 | - | 867 | 2,357 |

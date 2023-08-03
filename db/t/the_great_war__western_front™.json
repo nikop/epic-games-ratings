@@ -1701,9 +1701,9 @@
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
       "SetID": "6kcl14p",
       "Name": "Nothing Can Stop Us!",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -1718,8 +1718,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-08-03T04:03:42.3473816+00:00",
+  "LastChanged_Achievements": "2023-08-03T05:04:13.7291818+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:23.8427295+00:00",
-  "LastUpdate_Ratings": "2023-08-03T03:59:57.7386972+00:00",
-  "LastUpdate_Achievements": "2023-08-03T04:03:42.347397+00:00"
+  "LastUpdate_Ratings": "2023-08-03T05:00:09.0283379+00:00",
+  "LastUpdate_Achievements": "2023-08-03T05:04:13.7292125+00:00"
 }

@@ -17,7 +17,7 @@
 | Amateur Survivor | 31.00% | ~59 |
 | 10K | 29.00% | ~69 |
 | Bouncemato | 29.00% | ~55 |
-| 15K | 27.00% | ~65 |
+| 15K | 28.00% | ~67 |
 | Drinking Problem | 22.00% | ~53 |
 | Quick-Draw Pod | 22.00% | ~42 |
 | Professional Survivor | 22.00% | ~42 |

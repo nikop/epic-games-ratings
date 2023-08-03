@@ -13,11 +13,11 @@
 | Tinned Corpse | 84.00% | ~138 |
 | Your War is Over | 82.00% | ~134 |
 | The Starry Night | 76.00% | ~125 |
+| Go Home! | 75.00% | ~123 |
 | Brilliant: Meadowshire | 74.00% | ~121 |
-| Go Home! | 74.00% | ~121 |
 | Look After the Pence... | 73.00% | ~120 |
+| Drunken Master | 73.00% | ~120 |
 | Sergeant of the Evil | 73.00% | ~120 |
-| Drunken Master | 72.00% | ~118 |
 | V.I.P. Cemetery | 70.00% | ~115 |
 | Takeover | 69.00% | ~113 |
 | Woodcutter | 69.00% | ~113 |
@@ -35,8 +35,8 @@
 | Lieutenant of the Evil | 55.00% | ~90 |
 | Avada Kedavra | 54.00% | ~89 |
 | Brilliant: Tanglewood | 52.00% | ~85 |
+| It's a Trap | 52.00% | ~85 |
 | Starry: Holy Mountain | 51.00% | ~84 |
-| It's a Trap | 51.00% | ~84 |
 | Deposition | 48.00% | ~79 |
 | Brilliant: Arcania | 48.00% | ~79 |
 | Starry: Tanglewood | 46.00% | ~75 |

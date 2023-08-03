@@ -568,9 +568,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 9499,
+  "EOS_Progressed": 9502,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7753,6 +7753,11 @@
       "Time": "2023-08-03T04:05:31.6312692+00:00",
       "NumProgressed": 9499,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-03T05:05:47.2560179+00:00",
+      "NumProgressed": 9502,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 34,
@@ -7764,7 +7769,7 @@
       "Name": "Born in the 80\u2019s",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH02",
@@ -7868,7 +7873,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3895
+      "UsersEstimate": 3896
     },
     {
       "ID": "ACH15",
@@ -7884,7 +7889,7 @@
       "Name": "Keepie-Uppy Okie Dokie",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH17",
@@ -7900,7 +7905,7 @@
       "Name": "I\u0027m Famous!",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH19",
@@ -7924,7 +7929,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4275
+      "UsersEstimate": 4276
     },
     {
       "ID": "ACH22",
@@ -7940,7 +7945,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2375
+      "UsersEstimate": 2376
     },
     {
       "ID": "ACH24",
@@ -8028,14 +8033,14 @@
       "Name": "Kingpin",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9499,
+      "Progressed": 9502,
       "Completed": 44
     }
   ],
@@ -8043,8 +8048,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-01T16:59:33.8335317+00:00",
-  "LastChanged_Achievements": "2023-08-03T04:05:31.6312688+00:00",
+  "LastChanged_Achievements": "2023-08-03T05:05:47.2560076+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-08-03T03:59:35.4334719+00:00",
-  "LastUpdate_Achievements": "2023-08-03T04:05:31.631324+00:00"
+  "LastUpdate_Ratings": "2023-08-03T04:59:40.6158336+00:00",
+  "LastUpdate_Achievements": "2023-08-03T05:05:47.2561465+00:00"
 }
