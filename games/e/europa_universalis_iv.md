@@ -6,44 +6,44 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~7,004 |
-| That's a Grand Army | 8.00% | ~6,226 |
-| That is mine! | 8.00% | ~6,226 |
-| Victorious! | 8.00% | ~6,226 |
-| Brothers in Arms | 6.00% | ~4,669 |
-| That's a Grand Navy | 6.00% | ~4,669 |
-| Seriously?! | 6.00% | ~4,669 |
-| For the Glory | 5.00% | ~3,891 |
-| Cold War | 4.00% | ~3,113 |
-| True Catholic | 4.00% | ~3,113 |
-| Defender of the Faith | 3.00% | ~2,335 |
-| It's all about luck | 3.00% | ~2,335 |
-| It's all about the money | 3.00% | ~2,335 |
-| Respected | 3.00% | ~2,335 |
-| The Princess is in this Castle | 3.00% | ~2,335 |
-| Truly Divine Ruler | 3.00% | ~2,335 |
-| Agressive Expander | 2.00% | ~1,556 |
-| Blockader | 2.00% | ~1,556 |
-| Combined Arms | 2.00% | ~1,556 |
-| Double the Love | 2.00% | ~1,556 |
-| My armies are invincible! | 2.00% | ~1,556 |
-| Queen of Conquest | 2.00% | ~1,556 |
-| Royal Authority | 2.00% | ~1,556 |
-| Total Control | 2.00% | ~1,556 |
-| All That's Thine Shall Be Mine | 1.00% | ~778 |
-| Azur semé de lis or | 1.00% | ~778 |
-| Bright Spark | 1.00% | ~778 |
-| City of Cities | 1.00% | ~778 |
-| The Emperors new clothes | 1.00% | ~778 |
-| Factionalism | 1.00% | ~778 |
-| Gentle Persuasion | 1.00% | ~778 |
-| A Golden Empire | 1.00% | ~778 |
-| The Five Colonies | 1.00% | ~778 |
-| This navy can take it all | 1.00% | ~778 |
-| Down Under | 0.90% | ~700 |
-| Isn't this the way to India? | 0.90% | ~700 |
-| Market Control | 0.90% | ~700 |
-| Trustworthy | 0.90% | ~700 |
+| Until death do us apart | 9.00% | ~7,010 |
+| That's a Grand Army | 8.00% | ~6,232 |
+| That is mine! | 8.00% | ~6,232 |
+| Victorious! | 8.00% | ~6,232 |
+| Brothers in Arms | 6.00% | ~4,674 |
+| That's a Grand Navy | 6.00% | ~4,674 |
+| Seriously?! | 6.00% | ~4,674 |
+| For the Glory | 5.00% | ~3,895 |
+| Cold War | 4.00% | ~3,116 |
+| True Catholic | 4.00% | ~3,116 |
+| Defender of the Faith | 3.00% | ~2,337 |
+| It's all about luck | 3.00% | ~2,337 |
+| It's all about the money | 3.00% | ~2,337 |
+| Respected | 3.00% | ~2,337 |
+| The Princess is in this Castle | 3.00% | ~2,337 |
+| Truly Divine Ruler | 3.00% | ~2,337 |
+| Agressive Expander | 2.00% | ~1,558 |
+| Blockader | 2.00% | ~1,558 |
+| Combined Arms | 2.00% | ~1,558 |
+| Double the Love | 2.00% | ~1,558 |
+| My armies are invincible! | 2.00% | ~1,558 |
+| Queen of Conquest | 2.00% | ~1,558 |
+| Royal Authority | 2.00% | ~1,558 |
+| Total Control | 2.00% | ~1,558 |
+| All That's Thine Shall Be Mine | 1.00% | ~779 |
+| Azur semé de lis or | 1.00% | ~779 |
+| Bright Spark | 1.00% | ~779 |
+| City of Cities | 1.00% | ~779 |
+| The Emperors new clothes | 1.00% | ~779 |
+| Factionalism | 1.00% | ~779 |
+| Gentle Persuasion | 1.00% | ~779 |
+| A Golden Empire | 1.00% | ~779 |
+| The Five Colonies | 1.00% | ~779 |
+| This navy can take it all | 1.00% | ~779 |
+| Down Under | 0.90% | ~701 |
+| Isn't this the way to India? | 0.90% | ~701 |
+| Market Control | 0.90% | ~701 |
+| Trustworthy | 0.90% | ~701 |
 | Electable! | 0.70% | ~545 |
 | Populists in Government | 0.70% | ~545 |
 | All belongs to Mother Russia | 0.60% | ~467 |
@@ -60,30 +60,30 @@ Number of Ratings: 8,414  (23.09.2022)
 | Live Long and Prosper | 0.50% | ~389 |
 | Trophy Hunter | 0.50% | ~389 |
 | Voting Streak | 0.50% | ~389 |
-| All Your Trade Are Belong to Us | 0.40% | ~311 |
-| Bleed Them Dry | 0.40% | ~311 |
-| Dude, Where's my Boat? | 0.40% | ~311 |
-| Four For Trade | 0.40% | ~311 |
-| Global Hegemony | 0.40% | ~311 |
-| Italian Ambition | 0.40% | ~311 |
-| Just a Little Patience | 0.40% | ~311 |
-| One Night in Paris | 0.40% | ~311 |
-| Tear Down This Wall | 0.40% | ~311 |
-| The Continuation of Diplomacy | 0.40% | ~311 |
-| Traditional Player | 0.40% | ~311 |
-| Wonderful | 0.40% | ~311 |
-| A Decent Reserve | 0.30% | ~233 |
-| A Pile of Gold | 0.30% | ~233 |
-| A Fine Goosestep | 0.30% | ~233 |
-| Grand Duchy | 0.30% | ~233 |
-| Magellan’s Voyage | 0.30% | ~233 |
-| Multiculturalism | 0.30% | ~233 |
-| No Pirates in my Caribbean | 0.30% | ~233 |
-| Not so sad a state... | 0.30% | ~233 |
-| The Chrysanthemum Throne | 0.30% | ~233 |
-| Three Trivial Tributary Tribes | 0.30% | ~233 |
-| Vasa or Wettin? | 0.30% | ~233 |
-| World Discoverer | 0.30% | ~233 |
+| All Your Trade Are Belong to Us | 0.40% | ~312 |
+| Bleed Them Dry | 0.40% | ~312 |
+| Dude, Where's my Boat? | 0.40% | ~312 |
+| Four For Trade | 0.40% | ~312 |
+| Global Hegemony | 0.40% | ~312 |
+| Italian Ambition | 0.40% | ~312 |
+| Just a Little Patience | 0.40% | ~312 |
+| One Night in Paris | 0.40% | ~312 |
+| Tear Down This Wall | 0.40% | ~312 |
+| The Continuation of Diplomacy | 0.40% | ~312 |
+| Traditional Player | 0.40% | ~312 |
+| Wonderful | 0.40% | ~312 |
+| A Decent Reserve | 0.30% | ~234 |
+| A Pile of Gold | 0.30% | ~234 |
+| A Fine Goosestep | 0.30% | ~234 |
+| Grand Duchy | 0.30% | ~234 |
+| Magellan’s Voyage | 0.30% | ~234 |
+| Multiculturalism | 0.30% | ~234 |
+| No Pirates in my Caribbean | 0.30% | ~234 |
+| Not so sad a state... | 0.30% | ~234 |
+| The Chrysanthemum Throne | 0.30% | ~234 |
+| Three Trivial Tributary Tribes | 0.30% | ~234 |
+| Vasa or Wettin? | 0.30% | ~234 |
+| World Discoverer | 0.30% | ~234 |
 | A Protected Market | 0.20% | ~156 |
 | AAA Credit | 0.20% | ~156 |
 | An early Reich | 0.20% | ~156 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,821 (Ranked 76)  
+Progressed: 77,894 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -466,10 +466,10 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-31 | 76,579 | 0 |
 | 2023-08-01 | 77,006 | 0 |
 | 2023-08-02 | 77,371 | 0 |
-| 2023-08-03 | 77,821 | 0 |
+| 2023-08-03 | 77,894 | 0 |
 ## Awards
 Max (Educational): 5,611  (Ranked 62)  
-Sum: 46,297 (Ranked 26)  
+Sum: 46,300 (Ranked 26)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
@@ -480,7 +480,7 @@ Diff (max vs sum): 36
 | This game has Diverse Characters | 5,286 |
 | This game is Relaxing | 5,186 |
 | This game has Competitive Players | 5,047 |
-| This game has Amazing Storytelling | 4,747 |
+| This game has Amazing Storytelling | 4,750 |
 | This game has Amazing Characters | 4,391 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -684,4 +684,4 @@ Diff (max vs sum): 36
 | 2023-07-31 | 4.69 | - | 5,599 | 46,208 |
 | 2023-08-01 | 4.69 | - | 5,603 | 46,238 |
 | 2023-08-02 | 4.69 | - | 5,608 | 46,273 |
-| 2023-08-03 | 4.69 | - | 5,611 | 46,297 |
+| 2023-08-03 | 4.69 | - | 5,611 | 46,300 |

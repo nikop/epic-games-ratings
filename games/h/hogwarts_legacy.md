@@ -8,15 +8,15 @@ Rating: 4.77 (Ranked 108)
 | The Sort Who Makes an Entrance | 12.00% | ~34,713 |
 | First Class Student | 11.00% | ~31,820 |
 | Troll with the Punches | 11.00% | ~31,820 |
-| A Keen Sense of Spell | 10.00% | ~28,927 |
-| That's a Keeper | 10.00% | ~28,927 |
-| Grappling with a Graphorn | 9.00% | ~26,034 |
-| The One Who Mastered Memories | 9.00% | ~26,034 |
-| The Hallowed Hero | 9.00% | ~26,034 |
-| The Defender of Dragons | 9.00% | ~26,034 |
-| Loom for Improvement | 9.00% | ~26,034 |
-| A Talent for Spending | 9.00% | ~26,034 |
-| Coasting Along | 9.00% | ~26,034 |
+| A Keen Sense of Spell | 10.00% | ~28,928 |
+| That's a Keeper | 10.00% | ~28,928 |
+| Grappling with a Graphorn | 9.00% | ~26,035 |
+| The One Who Mastered Memories | 9.00% | ~26,035 |
+| The Hallowed Hero | 9.00% | ~26,035 |
+| The Defender of Dragons | 9.00% | ~26,035 |
+| Loom for Improvement | 9.00% | ~26,035 |
+| A Talent for Spending | 9.00% | ~26,035 |
+| Coasting Along | 9.00% | ~26,035 |
 | The Hero of Hogwarts | 8.00% | ~23,142 |
 | Challenge Accepted | 8.00% | ~23,142 |
 | Followed the Butterflies | 8.00% | ~23,142 |
@@ -38,10 +38,10 @@ Rating: 4.77 (Ranked 108)
 | Floo Around the World | 3.00% | ~8,678 |
 | The Intrepid Explorer | 3.00% | ~8,678 |
 | The Wise Owl | 3.00% | ~8,678 |
-| The Good Samaritan | 2.00% | ~5,785 |
-| Put Down Roots | 2.00% | ~5,785 |
-| The Auror's Apprentice | 2.00% | ~5,785 |
-| Rise to the Challenges | 2.00% | ~5,785 |
+| The Good Samaritan | 2.00% | ~5,786 |
+| Put Down Roots | 2.00% | ~5,786 |
+| The Auror's Apprentice | 2.00% | ~5,786 |
+| Rise to the Challenges | 2.00% | ~5,786 |
 | Savvy Spender | 1.00% | ~2,893 |
 | Demiguise Dread | 1.00% | ~2,893 |
 | Finishing Touches | 1.00% | ~2,893 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,736 |
 | Collector's Edition | 0.30% | ~868 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,271 (Ranked 42)  
+Progressed: 289,275 (Ranked 42)  
 Completed: 438 (0.15%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 438 (0.15%) (Ranked 183)
 | 2023-07-31 | 289,064 | 437 |
 | 2023-08-01 | 289,146 | 437 |
 | 2023-08-02 | 289,222 | 437 |
-| 2023-08-03 | 289,271 | 438 |
+| 2023-08-03 | 289,275 | 438 |
 ## Awards
 Max (Character Customization): 21,493  (Ranked 17)  
 Sum: 40,407 (Ranked 30)  

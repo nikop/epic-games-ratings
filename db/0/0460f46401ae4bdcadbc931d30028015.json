@@ -4,7 +4,7 @@
   "ProductSlug": "madden-nfl-24",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-18T04:00:00+00:00",
@@ -35,8 +35,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged_Achievements": "2023-08-03T19:05:30.6104801+00:00",
+  "LastChanged_Achievements": "2023-08-03T20:04:59.4195605+00:00",
   "LastUpdate_AppInfo": "2023-08-02T20:56:52.9431371+00:00",
-  "LastUpdate_Ratings": "2023-08-03T18:58:03.487803+00:00",
-  "LastUpdate_Achievements": "2023-08-03T19:05:30.6104844+00:00"
+  "LastUpdate_Ratings": "2023-08-03T19:57:42.7743713+00:00",
+  "LastUpdate_Achievements": "2023-08-03T20:04:59.419565+00:00"
 }

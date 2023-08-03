@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5468,11 +5468,17 @@
       "Rating": 4.05,
       "NumberOfAwards": 30874,
       "NumberOfAwardsMax": 5109
+    },
+    {
+      "Time": "2023-08-03T19:58:47.5322247+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30881,
+      "NumberOfAwardsMax": 5116
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30874,
-  "NumberOfAwardsMax": 5109,
+  "NumberOfAwards": 30881,
+  "NumberOfAwardsMax": 5116,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -5485,7 +5491,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5109
+      "Count": 5116
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5518,10 +5524,10 @@
       "Count": 3338
     }
   ],
-  "EOS_Progressed": 218292,
-  "EOS_Completed": 2147,
-  "EOS_NewPlayers": 2208,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 218317,
+  "EOS_Completed": 2148,
+  "EOS_NewPlayers": 2220,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16868,6 +16874,11 @@
       "Time": "2023-08-03T19:02:18.1561382+00:00",
       "NumProgressed": 218292,
       "NumCompleted": 2147
+    },
+    {
+      "Time": "2023-08-03T20:02:20.9636853+00:00",
+      "NumProgressed": 218317,
+      "NumCompleted": 2148
     }
   ],
   "TotalAchievements": 512,
@@ -16879,7 +16890,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8732
+      "UsersEstimate": 8733
     },
     {
       "ID": "objective_completed_10",
@@ -16983,7 +16994,7 @@
       "Name": "The Witchlight Carnival",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "objective_completed_1056",
@@ -17247,7 +17258,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6549
+      "UsersEstimate": 6550
     },
     {
       "ID": "objective_completed_110",
@@ -17495,7 +17506,7 @@
       "Name": "Heavy Burden",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "objective_completed_1152",
@@ -17599,7 +17610,7 @@
       "Name": "Friends of the Forest",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "objective_completed_1170",
@@ -17639,7 +17650,7 @@
       "Name": "Heatwave",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "objective_completed_1179",
@@ -17661,9 +17672,9 @@
       "ID": "objective_completed_1183",
       "SetID": "415jc5c",
       "Name": "The Dread Domain of Tovag",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 923
+      "UsersEstimate": 1108
     },
     {
       "ID": "objective_completed_1184",
@@ -17981,9 +17992,9 @@
       "ID": "objective_completed_14",
       "SetID": "cc37lbc",
       "Name": "Beast Mode",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1310
     },
     {
       "ID": "objective_completed_149",
@@ -18063,7 +18074,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "objective_completed_164",
@@ -18079,7 +18090,7 @@
       "Name": "Street War",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "objective_completed_166",
@@ -18111,7 +18122,7 @@
       "Name": "March of the Undead",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "objective_completed_170",
@@ -18157,9 +18168,9 @@
       "ID": "objective_completed_181",
       "SetID": "cc37lbc",
       "Name": "Azaka\u0027s Procession - Part 1",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 655
     },
     {
       "ID": "objective_completed_182",
@@ -18215,7 +18226,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "objective_completed_208",
@@ -18223,7 +18234,7 @@
       "Name": "The Mists of Ravenloft",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "objective_completed_209",
@@ -18239,7 +18250,7 @@
       "Name": "Invisible Shadows",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "objective_completed_210",
@@ -18327,7 +18338,7 @@
       "Name": "The Botched Kidnapping",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "objective_completed_236",
@@ -18559,7 +18570,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "objective_completed_35",
@@ -20839,7 +20850,7 @@
       "Name": "The Champion\u0027s Guide to Wildspace",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "objective_completed_1220",
@@ -20974,21 +20985,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184566,
+      "Progressed": 184591,
       "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218292,
-      "Completed": 2147
+      "Progressed": 218317,
+      "Completed": 2148
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-03T16:59:42.3106854+00:00",
-  "LastChanged_Achievements": "2023-08-03T19:02:18.1561376+00:00",
+  "LastChanged": "2023-08-03T19:58:47.5322245+00:00",
+  "LastChanged_Achievements": "2023-08-03T20:02:20.9636843+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-03T18:59:19.3160701+00:00",
-  "LastUpdate_Achievements": "2023-08-03T19:02:18.1585075+00:00"
+  "LastUpdate_Ratings": "2023-08-03T19:58:47.5322256+00:00",
+  "LastUpdate_Achievements": "2023-08-03T20:02:20.9688241+00:00"
 }

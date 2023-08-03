@@ -4,7 +4,7 @@
   "ProductSlug": "forest-fire-b4bb7e",
   "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -163,17 +163,17 @@
       "ID": "A21",
       "SetID": "7f5j12l",
       "Name": "Black Flame",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "A22",
       "SetID": "7f5j12l",
       "Name": "Level 5 Completed",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "A23",
@@ -227,9 +227,9 @@
       "ID": "A29",
       "SetID": "7f5j12l",
       "Name": "Airport Destroyed",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "A3",
@@ -243,9 +243,9 @@
       "ID": "A30",
       "SetID": "7f5j12l",
       "Name": "Munitions Factory Destroyed",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "A31",
@@ -259,9 +259,9 @@
       "ID": "A32",
       "SetID": "7f5j12l",
       "Name": "Main Quest Completed",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "A33",
@@ -283,9 +283,9 @@
       "ID": "A4",
       "SetID": "7f5j12l",
       "Name": "Level 4 Completed",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "A5",
@@ -299,9 +299,9 @@
       "ID": "A6",
       "SetID": "7f5j12l",
       "Name": "10M Trees Burnt",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "A7",
@@ -323,9 +323,9 @@
       "ID": "A9",
       "SetID": "7f5j12l",
       "Name": "10k Humans Killed",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -337,8 +337,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-08-03T19:04:33.2032204+00:00",
+  "LastChanged_Achievements": "2023-08-03T20:04:11.4414885+00:00",
   "LastUpdate_AppInfo": "2023-08-01T02:02:32.2723888+00:00",
-  "LastUpdate_Ratings": "2023-08-03T18:57:25.8498448+00:00",
-  "LastUpdate_Achievements": "2023-08-03T19:04:33.2032418+00:00"
+  "LastUpdate_Ratings": "2023-08-03T19:57:15.7539513+00:00",
+  "LastUpdate_Achievements": "2023-08-03T20:04:11.4415324+00:00"
 }

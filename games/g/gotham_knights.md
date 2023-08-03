@@ -43,7 +43,7 @@ Rating: 4.18 (Ranked 867)
 | A Worthy Successor | 1.00% | ~676 |
 | Solid Alibi | 1.00% | ~676 |
 | Dressed to Impress | 0.80% | ~541 |
-| A Momentum Occasion | 0.60% | ~406 |
+| A Momentum Occasion | 0.70% | ~473 |
 | Bat Out of Hell | 0.60% | ~406 |
 | He'd Be So Proud of You | 0.50% | ~338 |
 | Hammer and Icicle | 0.30% | ~114 |

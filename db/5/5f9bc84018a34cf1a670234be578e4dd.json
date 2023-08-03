@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -521,9 +521,9 @@
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 70,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Screwdriver",
@@ -560,8 +560,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-03T19:05:22.6504155+00:00",
+  "LastChanged_Achievements": "2023-08-03T20:04:52.7610709+00:00",
   "LastUpdate_AppInfo": "2023-08-01T17:57:05.506677+00:00",
-  "LastUpdate_Ratings": "2023-08-03T18:57:31.3961823+00:00",
-  "LastUpdate_Achievements": "2023-08-03T19:05:22.6504268+00:00"
+  "LastUpdate_Ratings": "2023-08-03T19:57:19.8515537+00:00",
+  "LastUpdate_Achievements": "2023-08-03T20:04:52.761086+00:00"
 }

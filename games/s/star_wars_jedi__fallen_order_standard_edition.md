@@ -8,7 +8,7 @@ Rating: 4.69 (Ranked 213)
 | The Mantis | 99.00% | ~1,064 |
 | A Long Time Ago | 94.00% | ~1,010 |
 | Sabersmith | 82.00% | ~882 |
-| The Obstacle is the Way | 80.00% | ~860 |
+| The Obstacle is the Way | 81.00% | ~871 |
 | Back At You | 76.00% | ~817 |
 | Happy Go Wookiee | 71.00% | ~763 |
 | Everything is Connected | 61.00% | ~656 |

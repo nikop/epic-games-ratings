@@ -4,42 +4,42 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 101.00% | ~81 |
-| A bottomless pit | 86.00% | ~69 |
-| Pigeon | 81.00% | ~65 |
-| Baited | 70.00% | ~56 |
-| "Swoosh" | 63.00% | ~50 |
-| The light at the end of the tunnel | 61.00% | ~49 |
+| A path of no return | 101.00% | ~82 |
+| A bottomless pit | 85.00% | ~69 |
+| Pigeon | 80.00% | ~65 |
+| Baited | 69.00% | ~56 |
+| "Swoosh" | 62.00% | ~50 |
+| The light at the end of the tunnel | 60.00% | ~49 |
 | Splash! | 56.00% | ~45 |
 | Masochistic | 51.00% | ~41 |
-| Soft skin | 48.00% | ~38 |
-| Squid game | 38.00% | ~30 |
-| Sensitive soul | 33.00% | ~26 |
+| Soft skin | 47.00% | ~38 |
+| Squid game | 37.00% | ~30 |
+| Sensitive soul | 32.00% | ~26 |
 | Rock Solid | 30.00% | ~24 |
 | The beast within | 30.00% | ~24 |
 | It's getting dark | 30.00% | ~24 |
 | Hard Rock | 30.00% | ~24 |
-| Rooftop | 29.00% | ~23 |
-| Homeless | 28.00% | ~22 |
+| Rooftop | 28.00% | ~23 |
+| Homeless | 27.00% | ~22 |
 | Big badaboom! | 26.00% | ~21 |
-| Bookworm | 24.00% | ~19 |
-| Payback | 23.00% | ~18 |
+| Bookworm | 23.00% | ~19 |
+| Payback | 22.00% | ~18 |
 | Full power | 20.00% | ~16 |
 | "Ah sh*t... Here we go again!" | 20.00% | ~16 |
 | Nokron tower | 20.00% | ~16 |
 | Compulsive hoarder | 19.00% | ~15 |
-| Magnitude 5 | 18.00% | ~14 |
+| Magnitude 5 | 17.00% | ~14 |
 | GG EZ | 15.00% | ~12 |
 | Comeback | 15.00% | ~12 |
-| MayDay! MayDay! | 13.00% | ~10 |
+| MayDay! MayDay! | 12.00% | ~10 |
 | Gooooooaaaaal!!! | 10.00% | ~8 |
-| Sadistic | 3.00% | ~2 |
+| Sadistic | 2.00% | ~2 |
 | Abyssal God | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 334)  
+Progressed: 81 (Ranked 334)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,4 +77,4 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-25 | 75 | 0 |
 | 2023-07-31 | 76 | 0 |
 | 2023-08-02 | 79 | 0 |
-| 2023-08-03 | 80 | 0 |
+| 2023-08-03 | 81 | 0 |

@@ -6,22 +6,22 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~246,603 |
-| Cavalier | 25.00% | ~198,874 |
-| Fatso | 23.00% | ~182,964 |
-| Awakening | 21.00% | ~167,054 |
-| Ranger | 20.00% | ~159,099 |
-| Scrooge | 20.00% | ~159,099 |
-| Anorectic | 16.00% | ~127,279 |
-| Bookworm | 15.00% | ~119,324 |
-| Firestarter | 15.00% | ~119,324 |
-| Insomniac | 13.00% | ~103,414 |
-| Buddy | 12.00% | ~95,459 |
-| Thief | 12.00% | ~95,459 |
-| Sinner | 11.00% | ~87,504 |
-| Convict | 10.00% | ~79,549 |
-| Traveller | 10.00% | ~79,549 |
-| Haggler | 9.00% | ~71,594 |
+| Blacksmith's Son | 31.00% | ~246,605 |
+| Cavalier | 25.00% | ~198,875 |
+| Fatso | 23.00% | ~182,965 |
+| Awakening | 21.00% | ~167,055 |
+| Ranger | 20.00% | ~159,100 |
+| Scrooge | 20.00% | ~159,100 |
+| Anorectic | 16.00% | ~127,280 |
+| Bookworm | 15.00% | ~119,325 |
+| Firestarter | 15.00% | ~119,325 |
+| Insomniac | 13.00% | ~103,415 |
+| Buddy | 12.00% | ~95,460 |
+| Thief | 12.00% | ~95,460 |
+| Sinner | 11.00% | ~87,505 |
+| Convict | 10.00% | ~79,550 |
+| Traveller | 10.00% | ~79,550 |
+| Haggler | 9.00% | ~71,595 |
 | McLovin | 7.00% | ~55,685 |
 | Runt | 7.00% | ~55,685 |
 | Casanova | 6.00% | ~47,730 |
@@ -51,45 +51,45 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~7,955 |
 | Master Huntsman | 1.00% | ~7,955 |
 | Stealth Killer | 1.00% | ~7,955 |
-| Bailiff | 0.90% | ~7,159 |
-| Tracker | 0.90% | ~7,159 |
-| David Horak | 0.70% | ~5,568 |
-| Mercenary's Honour | 0.70% | ~5,568 |
-| Saviour | 0.70% | ~5,568 |
+| Bailiff | 0.90% | ~7,160 |
+| Tracker | 0.90% | ~7,160 |
+| David Horak | 0.70% | ~5,569 |
+| Mercenary's Honour | 0.70% | ~5,569 |
+| Saviour | 0.70% | ~5,569 |
 | Edward Kelly | 0.60% | ~4,773 |
 | Fighter | 0.60% | ~4,773 |
-| I Can Quit Anytime | 0.50% | ~3,977 |
+| I Can Quit Anytime | 0.50% | ~3,978 |
 | Perfectionist | 0.40% | ~3,182 |
-| Alcoholic | 0.30% | ~2,386 |
-| Sniper | 0.30% | ~2,386 |
+| Alcoholic | 0.30% | ~2,387 |
+| Sniper | 0.30% | ~2,387 |
 | Angel of Mercy | 0.20% | ~1,591 |
 | Christian Burial | 0.20% | ~1,591 |
 | Friends without benefits | 0.20% | ~1,591 |
 | Game Over | 0.20% | ~1,591 |
 | Not-so-Christian Burial | 0.20% | ~1,591 |
 | True Friend | 0.20% | ~1,591 |
-| Bad Girl | 0.10% | ~795 |
-| Cleric's pet | 0.10% | ~795 |
-| Full House Sinner | 0.10% | ~795 |
-| Lord Capon's Ghost | 0.10% | ~795 |
-| Hardcore Henry | 0.10% | ~795 |
-| Infernal Justice | 0.10% | ~795 |
-| Judas | 0.10% | ~795 |
-| Like a Ghost | 0.10% | ~795 |
-| Lost Trinket | 0.10% | ~795 |
-| Merciful | 0.10% | ~795 |
-| You had one job! | 0.10% | ~795 |
-| Pilgrim | 0.10% | ~795 |
-| Pinky Promis | 0.10% | ~795 |
-| Ledetchko Revenant | 0.10% | ~795 |
-| 'Tis but a scratch | 0.10% | ~795 |
-| Torturer | 0.10% | ~795 |
-| Trial-And-Error | 0.10% | ~795 |
-| Virgin | 0.10% | ~795 |
-| Voyeur | 0.10% | ~795 |
-| Wingman | 0.10% | ~795 |
+| Bad Girl | 0.10% | ~796 |
+| Cleric's pet | 0.10% | ~796 |
+| Full House Sinner | 0.10% | ~796 |
+| Lord Capon's Ghost | 0.10% | ~796 |
+| Hardcore Henry | 0.10% | ~796 |
+| Infernal Justice | 0.10% | ~796 |
+| Judas | 0.10% | ~796 |
+| Like a Ghost | 0.10% | ~796 |
+| Lost Trinket | 0.10% | ~796 |
+| Merciful | 0.10% | ~796 |
+| You had one job! | 0.10% | ~796 |
+| Pilgrim | 0.10% | ~796 |
+| Pinky Promis | 0.10% | ~796 |
+| Ledetchko Revenant | 0.10% | ~796 |
+| 'Tis but a scratch | 0.10% | ~796 |
+| Torturer | 0.10% | ~796 |
+| Trial-And-Error | 0.10% | ~796 |
+| Virgin | 0.10% | ~796 |
+| Voyeur | 0.10% | ~796 |
+| Wingman | 0.10% | ~796 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 795,494 (Ranked 15)  
+Progressed: 795,501 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 44 (0.01%) (Ranked 234)
 | 2023-07-31 | 795,100 | 44 |
 | 2023-08-01 | 795,249 | 44 |
 | 2023-08-02 | 795,372 | 44 |
-| 2023-08-03 | 795,494 | 44 |
+| 2023-08-03 | 795,501 | 44 |
 ## Awards
 Max (Character Customization): 7,357  (Ranked 46)  
 Sum: 27,425 (Ranked 45)  

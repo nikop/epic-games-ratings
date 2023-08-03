@@ -5,10 +5,10 @@ Rating: 4.48 (Ranked 589)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A new Journey | 74.00% | ~1,299 |
 | Country Bumpkin | 74.00% | ~1,299 |
-| A new Journey | 73.00% | ~1,282 |
+| Departure | 73.00% | ~1,282 |
 | From X to Y | 72.00% | ~1,264 |
-| Departure | 72.00% | ~1,264 |
 | Way of Iron | 70.00% | ~1,229 |
 | Mystery Tour | 68.00% | ~1,194 |
 | We brake for nobody | 67.00% | ~1,177 |

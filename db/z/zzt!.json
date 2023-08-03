@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3008,
+  "EOS_Progressed": 3009,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.69,
   "EosHistory": [
@@ -3671,6 +3671,11 @@
       "Time": "2023-08-03T17:02:53.136595+00:00",
       "NumProgressed": 3008,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-08-03T20:02:14.5737308+00:00",
+      "NumProgressed": 3009,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 5,
@@ -3682,7 +3687,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3008
+      "UsersEstimate": 3009
     },
     {
       "ID": "2",
@@ -3690,7 +3695,7 @@
       "Name": "Traveler",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "3",
@@ -3721,7 +3726,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3008,
+      "Progressed": 3009,
       "Completed": 111
     }
   ],
@@ -3729,8 +3734,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-08-03T19:02:10.6011273+00:00",
+  "LastChanged_Achievements": "2023-08-03T20:02:14.5737297+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.3360651+00:00",
-  "LastUpdate_Ratings": "2023-08-03T18:59:30.5904238+00:00",
-  "LastUpdate_Achievements": "2023-08-03T19:02:10.6019377+00:00"
+  "LastUpdate_Ratings": "2023-08-03T19:58:59.219176+00:00",
+  "LastUpdate_Achievements": "2023-08-03T20:02:14.5738182+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,732 |
-| Beast Intentions | 3.00% | ~6,549 |
+| A Brief Tour of the Realms | 4.00% | ~8,733 |
+| Beast Intentions | 3.00% | ~6,550 |
 | Maddening | 2.00% | ~4,366 |
 | The Silken Swamp | 1.00% | ~2,183 |
 | Supply Run | 1.00% | ~2,183 |
@@ -22,12 +22,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Destruction | 0.70% | ~1,292 |
 | Return to the Tomb | 0.70% | ~1,292 |
 | Pros and CONs | 0.60% | ~1,310 |
-| The Witchlight Carnival | 0.60% | ~1,107 |
+| The Witchlight Carnival | 0.60% | ~1,108 |
 | Hatchlings Underfoot | 0.60% | ~1,310 |
 | Don't Look Up! | 0.60% | ~1,310 |
-| Heatwave | 0.60% | ~1,107 |
+| Heatwave | 0.60% | ~1,108 |
+| The Dread Domain of Tovag | 0.60% | ~1,108 |
 | Were-verpowered | 0.60% | ~1,310 |
 | A Persistent Buzzing | 0.60% | ~1,310 |
+| Beast Mode | 0.60% | ~1,310 |
 | Terror in the Dark | 0.60% | ~1,310 |
 | A Mysterious Summons | 0.60% | ~1,310 |
 | Building Trust | 0.60% | ~1,310 |
@@ -35,21 +37,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.60% | ~1,310 |
 | The Cursed Farmer | 0.60% | ~1,310 |
 | The Mad Wizard | 0.60% | ~1,310 |
-| The Champion's Guide to Wildspace | 0.60% | ~1,107 |
+| The Champion's Guide to Wildspace | 0.60% | ~1,108 |
 | Thieves of the Coven | 0.50% | ~923 |
-| Heavy Burden | 0.50% | ~1,091 |
+| Heavy Burden | 0.50% | ~1,092 |
 | The Evacuation of Waterdeep | 0.50% | ~923 |
-| Friends of the Forest | 0.50% | ~1,091 |
-| The Dread Domain of Tovag | 0.50% | ~923 |
-| Beast Mode | 0.50% | ~1,091 |
-| Low Initiative | 0.50% | ~1,091 |
-| Street War | 0.50% | ~1,091 |
-| March of the Undead | 0.50% | ~1,091 |
-| No Time To Rest | 0.50% | ~1,091 |
-| The Mists of Ravenloft | 0.50% | ~1,091 |
-| Invisible Shadows | 0.50% | ~1,091 |
-| The Botched Kidnapping | 0.50% | ~1,091 |
-| The Ring of Regeneration | 0.50% | ~1,091 |
+| Friends of the Forest | 0.50% | ~1,092 |
+| Low Initiative | 0.50% | ~1,092 |
+| Street War | 0.50% | ~1,092 |
+| March of the Undead | 0.50% | ~1,092 |
+| No Time To Rest | 0.50% | ~1,092 |
+| The Mists of Ravenloft | 0.50% | ~1,092 |
+| Invisible Shadows | 0.50% | ~1,092 |
+| The Botched Kidnapping | 0.50% | ~1,092 |
+| The Ring of Regeneration | 0.50% | ~1,092 |
 | Not That Type of Helm! | 0.50% | ~923 |
 | Calcryx Tricks | 0.50% | ~923 |
 | Goblin Halls: the Next Generation | 0.50% | ~923 |
@@ -103,6 +103,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vajra's Guards | 0.30% | ~655 |
 | Sleuth It Out | 0.30% | ~655 |
 | A Grand Puzzle | 0.30% | ~655 |
+| Azaka's Procession - Part 1 | 0.30% | ~655 |
 | Tomb of the Nine Gods | 0.30% | ~655 |
 | The Hunt for Owl-y | 0.30% | ~655 |
 | Werewolves in the Mist | 0.30% | ~655 |
@@ -175,7 +176,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.20% | ~437 |
 | Double Vision | 0.20% | ~437 |
 | The Newcomers of Notoriety | 0.20% | ~369 |
-| Azaka's Procession - Part 1 | 0.20% | ~437 |
 | Azaka's Procession - Part 2 | 0.20% | ~437 |
 | We're not in Faerûn Anymore | 0.20% | ~437 |
 | Haunted Fortunes | 0.20% | ~437 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,292 (Ranked 53)  
-Completed: 2,147 (0.98%) (Ranked 112)  
+Progressed: 218,317 (Ranked 53)  
+Completed: 2,148 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -624,14 +624,14 @@ Completed: 2,147 (0.98%) (Ranked 112)
 | 2023-07-31 | 217,503 | 2,140 |
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
-| 2023-08-03 | 218,292 | 2,147 |
+| 2023-08-03 | 218,317 | 2,148 |
 ## Awards
-Max (Diverse Characters): 5,109  (Ranked 67)  
-Sum: 30,874 (Ranked 38)  
+Max (Diverse Characters): 5,116  (Ranked 67)  
+Sum: 30,881 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,109 |
+| This game has Diverse Characters | 5,116 |
 | This game is Great for Beginners | 5,055 |
 | This game has Quickly Understood Controls | 4,701 |
 | This game is Relaxing | 4,594 |
@@ -830,4 +830,4 @@ Diff (max vs sum): 29
 | 2023-07-31 | 4.05 | - | 5,106 | 30,831 |
 | 2023-08-01 | 4.05 | - | 5,108 | 30,850 |
 | 2023-08-02 | 4.05 | - | 5,109 | 30,857 |
-| 2023-08-03 | 4.05 | - | 5,109 | 30,874 |
+| 2023-08-03 | 4.05 | - | 5,116 | 30,881 |

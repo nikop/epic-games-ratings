@@ -28,6 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 1.00% | ~133 |
 | Oracle | 1.00% | ~133 |
 | Judaism | 1.00% | ~133 |
+| Greek Paganism | 1.00% | ~133 |
 | Naming Landmarks | 1.00% | ~133 |
 | Trade Caravan | 1.00% | ~133 |
 | Poetic Leader | 1.00% | ~133 |
@@ -38,7 +39,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.90% | ~119 |
 | Pyramids | 0.90% | ~119 |
 | Babylonian Paganism | 0.90% | ~119 |
-| Greek Paganism | 0.90% | ~119 |
 | Zoroastrianism | 0.90% | ~119 |
 | Fountainhead | 0.80% | ~106 |
 | Wise | 0.80% | ~106 |
@@ -63,28 +63,29 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 0.60% | ~80 |
 | Just Difficulty | 0.60% | ~80 |
 | Furious Family | 0.60% | ~80 |
+| Acropolis | 0.60% | ~80 |
 | Apadana | 0.60% | ~80 |
 | Mausoleum | 0.60% | ~80 |
 | Learn to Play 2 | 0.60% | ~80 |
 | Egyptian Paganism | 0.60% | ~80 |
 | Mythology | 0.60% | ~80 |
 | Hanging Gardens in Babylon | 0.50% | ~66 |
+| Conqueror | 0.50% | ~66 |
 | Valiant | 0.50% | ~66 |
+| Good Difficulty | 0.50% | ~66 |
 | Champions | 0.50% | ~66 |
 | Sages | 0.50% | ~66 |
-| Acropolis | 0.50% | ~66 |
+| Statesmen | 0.50% | ~66 |
 | Greece | 0.50% | ~66 |
 | Building Wonders | 0.50% | ~66 |
 | Points Victory | 0.50% | ~66 |
 | Beloved | 0.40% | ~53 |
-| Conqueror | 0.40% | ~53 |
 | Devout | 0.40% | ~53 |
+| Lion | 0.40% | ~53 |
 | Mighty | 0.40% | ~53 |
 | Victorious | 0.40% | ~53 |
-| Good Difficulty | 0.40% | ~53 |
 | Patrons | 0.40% | ~53 |
 | Riders | 0.40% | ~53 |
-| Statesmen | 0.40% | ~53 |
 | Traders | 0.40% | ~53 |
 | Hittite Iron | 0.40% | ~53 |
 | Circus Maximus | 0.40% | ~53 |
@@ -106,7 +107,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.30% | ~40 |
 | Ishtar Gate in Babylon | 0.30% | ~40 |
 | Invincible | 0.30% | ~40 |
-| Lion | 0.30% | ~40 |
 | Ready | 0.30% | ~40 |
 | Subjugator | 0.30% | ~40 |
 | Strong Difficulty | 0.30% | ~40 |
@@ -115,6 +115,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.30% | ~40 |
 | Hagia Sophia | 0.30% | ~40 |
 | Church of the Holy Sepulchre | 0.30% | ~40 |
+| Learn to Play 4 | 0.30% | ~40 |
 | Babylonia | 0.30% | ~40 |
 | Rome | 0.30% | ~40 |
 | One True Faith | 0.30% | ~40 |
@@ -136,7 +137,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.20% | ~27 |
 | Noble Difficulty | 0.20% | ~27 |
 | Cao'an | 0.20% | ~27 |
-| Learn to Play 4 | 0.20% | ~27 |
 | Egypt | 0.20% | ~27 |
 | Persia | 0.20% | ~27 |
 | Old World Order | 0.20% | ~27 |
@@ -147,6 +147,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.20% | ~27 |
 | Turreted Elephant | 0.20% | ~27 |
 | All Nations | 0.20% | ~27 |
+| Conquest Victory | 0.20% | ~27 |
 | No Undo | 0.20% | ~27 |
 | Patriarch St Paul | 0.20% | ~27 |
 | Hypatia the Teacher | 0.20% | ~27 |
@@ -250,7 +251,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Word of God | 0.10% | ~13 |
 | Three Man Chariot | 0.10% | ~13 |
 | Siege Tower | 0.10% | ~13 |
-| Conquest Victory | 0.10% | ~13 |
 | One City Challenge | 0.10% | ~13 |
 | Randomized Families | 0.10% | ~13 |
 | Randomized Leaders | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,256 (Ranked 117)  
+Progressed: 13,257 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-07-31 | 13,209 | 5 |
 | 2023-08-01 | 13,228 | 5 |
 | 2023-08-02 | 13,244 | 5 |
-| 2023-08-03 | 13,256 | 5 |
+| 2023-08-03 | 13,257 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 263)  
 Sum: 1,786 (Ranked 206)  

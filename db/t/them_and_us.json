@@ -1115,9 +1115,9 @@
       "ID": "ETUA_TheCultists",
       "SetID": "65jc0ap",
       "Name": "The Cultists",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "ETUA_TheCurseIsReal",
@@ -1196,8 +1196,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-08-03T19:04:22.3175797+00:00",
+  "LastChanged_Achievements": "2023-08-03T20:04:02.5332195+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:53.0006088+00:00",
-  "LastUpdate_Ratings": "2023-08-03T18:58:05.1450318+00:00",
-  "LastUpdate_Achievements": "2023-08-03T19:04:22.3176104+00:00"
+  "LastUpdate_Ratings": "2023-08-03T19:57:44.5828435+00:00",
+  "LastUpdate_Achievements": "2023-08-03T20:04:02.5332615+00:00"
 }

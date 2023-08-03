@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1962,
+  "EOS_Progressed": 1963,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -3341,6 +3341,11 @@
       "Time": "2023-08-03T19:06:23.7827675+00:00",
       "NumProgressed": 1962,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-03T20:05:44.6987226+00:00",
+      "NumProgressed": 1963,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -3384,7 +3389,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "ach_architecture_completed",
@@ -3424,7 +3429,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "ach_food_completed",
@@ -3448,7 +3453,7 @@
       "Name": "Game opened",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "ach_magic_wand",
@@ -3472,21 +3477,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 1962,
+      "Progressed": 1963,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-08-03T19:06:23.7827669+00:00",
+  "LastChanged_Achievements": "2023-08-03T20:05:44.6987216+00:00",
   "LastUpdate_AppInfo": "2023-07-28T10:57:28.8987406+00:00",
-  "LastUpdate_Ratings": "2023-08-03T18:57:51.8110956+00:00",
-  "LastUpdate_Achievements": "2023-08-03T19:06:23.7827925+00:00"
+  "LastUpdate_Ratings": "2023-08-03T19:57:34.8570834+00:00",
+  "LastUpdate_Achievements": "2023-08-03T20:05:44.6987793+00:00"
 }

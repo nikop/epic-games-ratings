@@ -4,7 +4,7 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 366,
+  "EOS_Progressed": 367,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1614,6 +1614,11 @@
       "Time": "2023-08-03T17:04:24.2606064+00:00",
       "NumProgressed": 366,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-03T20:03:52.8093108+00:00",
+      "NumProgressed": 367,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1689,7 +1694,7 @@
       "Name": "Earth Shattering",
       "Percentage": 49,
       "XP": 90,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -1720,7 +1725,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 366,
+      "Progressed": 367,
       "Completed": 0
     }
   ],
@@ -1728,8 +1733,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-08-03T19:04:11.1941638+00:00",
+  "LastChanged_Achievements": "2023-08-03T20:03:52.8093095+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:23.8427295+00:00",
-  "LastUpdate_Ratings": "2023-08-03T18:59:45.2804892+00:00",
-  "LastUpdate_Achievements": "2023-08-03T19:04:11.1941787+00:00"
+  "LastUpdate_Ratings": "2023-08-03T19:59:10.9548504+00:00",
+  "LastUpdate_Achievements": "2023-08-03T20:03:52.8093493+00:00"
 }

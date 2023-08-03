@@ -33,12 +33,12 @@ Rating: 4.04 (Ranked 917)
 | Challenger | 10.00% | ~176 |
 | Daily Quest Completionist | 10.00% | ~176 |
 | Doing My Part | 10.00% | ~176 |
+| Four Leaf Clover | 10.00% | ~176 |
 | Frostfire Liberator | 10.00% | ~176 |
 | Mastery | 10.00% | ~176 |
 | Moving Up The Ladder | 10.00% | ~176 |
 | Relic Of The Past | 10.00% | ~176 |
 | Scroll Master | 10.00% | ~176 |
-| Four Leaf Clover | 9.00% | ~158 |
 | Here We Go Again | 8.00% | ~140 |
 | Master Enchanter | 8.00% | ~140 |
 | The father of Dragons | 8.00% | ~140 |

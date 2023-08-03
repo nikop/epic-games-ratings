@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-03-18T04:00:00+00:00",
     "PcReleaseDate": "2022-04-18T04:00:00+00:00",
@@ -1624,9 +1624,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 79353,
+  "EOS_Progressed": 79354,
   "EOS_Completed": 2163,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.73,
   "EosHistory": [
@@ -6994,6 +6994,11 @@
       "Time": "2023-08-03T18:05:13.0970073+00:00",
       "NumProgressed": 79353,
       "NumCompleted": 2163
+    },
+    {
+      "Time": "2023-08-03T20:04:34.5698299+00:00",
+      "NumProgressed": 79354,
+      "NumCompleted": 2163
     }
   ],
   "TotalAchievements": 46,
@@ -7013,7 +7018,7 @@
       "Name": "Hopes and Dreams",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 65069
+      "UsersEstimate": 65070
     },
     {
       "ID": "002_TROPHY_MISSION_JOURNEY_BEGIN",
@@ -7021,7 +7026,7 @@
       "Name": "The Pirate\u0027s Way",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 58721
+      "UsersEstimate": 58722
     },
     {
       "ID": "003_TROPHY_MISSION_DARK_ELF",
@@ -7029,7 +7034,7 @@
       "Name": "The King of the Dark Elves",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 53960
+      "UsersEstimate": 53961
     },
     {
       "ID": "004_TROPHY_MISSION_NATURAL_DISTORTION",
@@ -7037,7 +7042,7 @@
       "Name": "Distortion\u0027s Progeny",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 49992
+      "UsersEstimate": 49993
     },
     {
       "ID": "005_TROPHY_MISSION_FAMILIAR_PLACE",
@@ -7093,7 +7098,7 @@
       "Name": "Shared Recollections",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 33328
+      "UsersEstimate": 33329
     },
     {
       "ID": "012_TROPHY_MISSION_WATER_MEMORIES",
@@ -7101,7 +7106,7 @@
       "Name": "The Water\u0027s Light",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 31741
+      "UsersEstimate": 31742
     },
     {
       "ID": "013_TROPHY_MISSION_PAST_SCHEME",
@@ -7133,7 +7138,7 @@
       "Name": "Terminus of Fate",
       "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 26186
+      "UsersEstimate": 26187
     },
     {
       "ID": "017_TROPHY_CLEAR_CHAOS_DIFFICULTY",
@@ -7149,7 +7154,7 @@
       "Name": "Cycle of Darkness",
       "Percentage": 16,
       "XP": 95,
-      "UsersEstimate": 12696
+      "UsersEstimate": 12697
     },
     {
       "ID": "019_TROPHY_CLEAR_SUB_MISSION",
@@ -7157,7 +7162,7 @@
       "Name": "Memories of the Distant Past",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 52373
+      "UsersEstimate": 52374
     },
     {
       "ID": "020_TROPHY_COMPLETE_SUB_MISSION",
@@ -7173,7 +7178,7 @@
       "Name": "Manifestation of the Soul",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 76972
+      "UsersEstimate": 76973
     },
     {
       "ID": "022_TROPHY_FIRST_WEAPON_ABILITY",
@@ -7197,7 +7202,7 @@
       "Name": "Lantern Smasher",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 61895
+      "UsersEstimate": 61896
     },
     {
       "ID": "025_TROPHY_FIRST_ANIMA_FRAGMENT",
@@ -7205,7 +7210,7 @@
       "Name": "Seeker of Power",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 67450
+      "UsersEstimate": 67451
     },
     {
       "ID": "026_TROPHY_FIRST_ANIMA_CRYSTAL",
@@ -7309,7 +7314,7 @@
       "Name": "Path of the Ninja",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 26186
+      "UsersEstimate": 26187
     },
     {
       "ID": "039_TROPHY_UNLOCKED_ASSASSIN",
@@ -7357,7 +7362,7 @@
       "Name": "Path of the Sage",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 31741
+      "UsersEstimate": 31742
     },
     {
       "ID": "045_TROPHY_UNLOCKED_CYCLIC_WARRIOR",
@@ -7365,22 +7370,22 @@
       "Name": "His Name Is Garland",
       "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 26186
+      "UsersEstimate": 26187
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ajkb4b",
       "IsBase": true,
-      "Progressed": 79353,
+      "Progressed": 79354,
       "Completed": 2163
     }
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-07-31T05:59:55.0215965+00:00",
-  "LastChanged_Achievements": "2023-08-03T19:05:00.3472407+00:00",
+  "LastChanged_Achievements": "2023-08-03T20:04:34.5698289+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:46.7647556+00:00",
-  "LastUpdate_Ratings": "2023-08-03T19:01:27.6805136+00:00",
-  "LastUpdate_Achievements": "2023-08-03T19:05:00.347297+00:00"
+  "LastUpdate_Ratings": "2023-08-03T20:00:29.3310302+00:00",
+  "LastUpdate_Achievements": "2023-08-03T20:04:34.5699749+00:00"
 }

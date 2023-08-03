@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2019-11-14T05:00:00+00:00",
@@ -796,9 +796,9 @@
       "ID": "achievement_9",
       "SetID": "nk00bp",
       "Name": "The Obstacle is the Way",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 860
+      "UsersEstimate": 871
     }
   ],
   "AchievementSets": [
@@ -813,8 +813,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-07-11T17:57:37.1037412+00:00",
-  "LastChanged_Achievements": "2023-08-03T18:03:07.1287146+00:00",
+  "LastChanged_Achievements": "2023-08-03T20:02:11.68234+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:11.5236835+00:00",
-  "LastUpdate_Ratings": "2023-08-03T18:58:30.3508955+00:00",
-  "LastUpdate_Achievements": "2023-08-03T18:03:07.1287866+00:00"
+  "LastUpdate_Ratings": "2023-08-03T19:58:03.6969361+00:00",
+  "LastUpdate_Achievements": "2023-08-03T20:02:11.6823833+00:00"
 }
