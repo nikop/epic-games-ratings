@@ -28,13 +28,13 @@
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.26% |
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.15% |
-| 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.90% |
+| 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 31 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.00% |
 | 32 | [Smelter](games/s/smelter.md) | 7.69% |
 | 33 | [Ravenlok](games/r/ravenlok.md) | 7.35% |
 | 34 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.18% |
-| 35 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.00% |
+| 35 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.07% |
 | 36 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 37 | [Scorn](games/s/scorn.md) | 6.93% |
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -56,10 +56,10 @@
 | 54 | [Without Escape](games/w/without_escape.md) | 3.85% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.82% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.68% |
-| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.64% |
+| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.62% |
 | 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.48% |
-| 60 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
+| 60 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
 | 61 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
 | 61 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.33% |
 | 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.17% |
