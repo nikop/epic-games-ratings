@@ -6,7 +6,7 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 37.00% | ~462 |
+| E1M1 | 37.00% | ~463 |
 | Grenadier | 36.00% | ~450 |
 | War Never Changes | 36.00% | ~450 |
 | Heroes Never Die | 32.00% | ~400 |
@@ -26,18 +26,18 @@ Number of Ratings: 98  (23.09.2022)
 | No Witness | 4.00% | ~50 |
 | Strategist | 3.00% | ~38 |
 | Unbreakable Wall | 2.00% | ~25 |
-| Do a Barrel Roll! | 1.00% | ~12 |
-| Experienced Strategist | 1.00% | ~12 |
+| Do a Barrel Roll! | 1.00% | ~13 |
+| Experienced Strategist | 1.00% | ~13 |
 | How?! | 0.80% | ~10 |
 | Tough as Nails | 0.40% | ~5 |
-| Commandos | 0.20% | ~2 |
-| We Weren't There | 0.20% | ~2 |
+| Commandos | 0.20% | ~3 |
+| We Weren't There | 0.20% | ~3 |
 | A Little Culture | 0.10% | ~1 |
 | Inspector General | 0.00% | ~0 |
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,250 (Ranked 186)  
+Progressed: 1,251 (Ranked 186)  
 Completed: 1 (0.08%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 1 (0.08%) (Ranked 206)
 | 2023-08-01 | 1,241 | 1 |
 | 2023-08-02 | 1,247 | 1 |
 | 2023-08-03 | 1,249 | 1 |
-| 2023-08-04 | 1,250 | 1 |
+| 2023-08-04 | 1,251 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

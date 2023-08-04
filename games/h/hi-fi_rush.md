@@ -7,8 +7,8 @@ Rating: 4.87 (Ranked 24)
 | ---- | ---------- | ----- |
 | Start with a bang! | 7.00% | ~261 |
 | Feeling the beat! | 7.00% | ~261 |
-| Who put gears in there? | 6.00% | ~223 |
-| You can pet the cat! | 6.00% | ~223 |
+| Who put gears in there? | 6.00% | ~224 |
+| You can pet the cat! | 6.00% | ~224 |
 | Cream of the Crop | 5.00% | ~186 |
 | Thanks for the free chip, Peppermint! | 5.00% | ~186 |
 | This will cost you big time | 4.00% | ~149 |
@@ -30,10 +30,10 @@ Rating: 4.87 (Ranked 24)
 | Kissing the sky! | 3.00% | ~112 |
 | I look cool. But I can look COOLER. | 3.00% | ~112 |
 | Does that say weakpoint? | 3.00% | ~112 |
-| Well that was a rush! | 2.00% | ~74 |
-| I have to read these things? | 2.00% | ~74 |
-| Beat-hit mania | 2.00% | ~74 |
-| That's a lot of junk metal… | 2.00% | ~74 |
+| Well that was a rush! | 2.00% | ~75 |
+| I have to read these things? | 2.00% | ~75 |
+| Beat-hit mania | 2.00% | ~75 |
+| That's a lot of junk metal… | 2.00% | ~75 |
 | Chip-tuned | 1.00% | ~37 |
 | There's such a thing as TOO helpful | 1.00% | ~37 |
 | Wanna hear my playlist? | 1.00% | ~37 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,724 (Ranked 147)  
+Progressed: 3,726 (Ranked 147)  
 Completed: 6 (0.16%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 6 (0.16%) (Ranked 180)
 | 2023-08-01 | 3,666 | 6 |
 | 2023-08-02 | 3,680 | 6 |
 | 2023-08-03 | 3,705 | 6 |
-| 2023-08-04 | 3,724 | 6 |
+| 2023-08-04 | 3,726 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

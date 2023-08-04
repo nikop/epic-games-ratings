@@ -33,6 +33,7 @@ Number of Ratings: 37  (23.09.2022)
 | Builder II | 4.00% | ~170 |
 | An honorable Governor II | 4.00% | ~170 |
 | Tax-man IV | 4.00% | ~170 |
+| A time consuming game III | 4.00% | ~170 |
 | Conflicting parties | 4.00% | ~170 |
 | Another one bites the dust | 3.00% | ~127 |
 | Bread for the people III | 3.00% | ~127 |
@@ -41,7 +42,6 @@ Number of Ratings: 37  (23.09.2022)
 | Experienced decorator | 3.00% | ~127 |
 | My precious... I | 3.00% | ~127 |
 | Full-time job III | 3.00% | ~127 |
-| A time consuming game III | 3.00% | ~127 |
 | Tools of the trade II | 3.00% | ~127 |
 | The Art of War | 2.00% | ~85 |
 | Five brews are a schnitzel | 2.00% | ~85 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,242 (Ranked 145)  
+Progressed: 4,242 (Ranked 146)  
 Completed: 3 (0.07%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |

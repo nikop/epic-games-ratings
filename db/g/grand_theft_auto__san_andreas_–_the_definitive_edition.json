@@ -652,9 +652,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11822,
+  "EOS_Progressed": 11823,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -8377,6 +8377,11 @@
       "Time": "2023-08-04T17:02:13.7459573+00:00",
       "NumProgressed": 11822,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-08-04T19:02:47.1600628+00:00",
+      "NumProgressed": 11823,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 35,
@@ -8388,7 +8393,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9576
+      "UsersEstimate": 9577
     },
     {
       "ID": "ACH02",
@@ -8444,7 +8449,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5911
+      "UsersEstimate": 5912
     },
     {
       "ID": "ACH09",
@@ -8492,7 +8497,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "ACH15",
@@ -8667,7 +8672,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11822,
+      "Progressed": 11823,
       "Completed": 34
     }
   ],
@@ -8675,8 +8680,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-03T18:02:27.9339148+00:00",
-  "LastChanged_Achievements": "2023-08-04T18:02:07.1520576+00:00",
+  "LastChanged_Achievements": "2023-08-04T19:02:47.160062+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.4328142+00:00",
-  "LastUpdate_Ratings": "2023-08-04T18:00:18.0823684+00:00",
-  "LastUpdate_Achievements": "2023-08-04T18:02:07.1521363+00:00"
+  "LastUpdate_Ratings": "2023-08-04T19:02:14.7289524+00:00",
+  "LastUpdate_Achievements": "2023-08-04T19:02:47.1601846+00:00"
 }

@@ -5498,10 +5498,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30895,
       "NumberOfAwardsMax": 5116
+    },
+    {
+      "Time": "2023-08-04T18:59:33.4169361+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30897,
+      "NumberOfAwardsMax": 5116
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30895,
+  "NumberOfAwards": 30897,
   "NumberOfAwardsMax": 5116,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5533,7 +5539,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4030
+      "Count": 4032
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5548,7 +5554,7 @@
       "Count": 3341
     }
   ],
-  "EOS_Progressed": 218642,
+  "EOS_Progressed": 218658,
   "EOS_Completed": 2151,
   "EOS_NewPlayers": 2213,
   "EOS_NewCompleters": 18,
@@ -17003,6 +17009,11 @@
       "Time": "2023-08-04T18:02:09.5691787+00:00",
       "NumProgressed": 218642,
       "NumCompleted": 2151
+    },
+    {
+      "Time": "2023-08-04T19:02:50.7123888+00:00",
+      "NumProgressed": 218658,
+      "NumCompleted": 2151
     }
   ],
   "TotalAchievements": 512,
@@ -17118,7 +17129,7 @@
       "Name": "The Witchlight Carnival",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "objective_completed_1056",
@@ -17318,7 +17329,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "objective_completed_1090",
@@ -17382,7 +17393,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6559
+      "UsersEstimate": 6560
     },
     {
       "ID": "objective_completed_110",
@@ -17390,7 +17401,7 @@
       "Name": "Wet Feet",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "objective_completed_1100",
@@ -17574,7 +17585,7 @@
       "Name": "Supply Run",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "objective_completed_1142",
@@ -17638,7 +17649,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "objective_completed_1153",
@@ -17662,7 +17673,7 @@
       "Name": "The Evacuation of Waterdeep",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "objective_completed_1159",
@@ -17750,7 +17761,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "objective_completed_1174",
@@ -17774,7 +17785,7 @@
       "Name": "Heatwave",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "objective_completed_1179",
@@ -17798,7 +17809,7 @@
       "Name": "The Dread Domain of Tovag",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "objective_completed_1184",
@@ -19636,9 +19647,9 @@
       "ID": "objective_completed_61",
       "SetID": "cc37lbc",
       "Name": "Market Fluctuations",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 656
     },
     {
       "ID": "objective_completed_610",
@@ -20974,7 +20985,7 @@
       "Name": "The Champion\u0027s Guide to Wildspace",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "objective_completed_1220",
@@ -21109,21 +21120,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184916,
+      "Progressed": 184932,
       "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218642,
+      "Progressed": 218658,
       "Completed": 2151
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-04T15:59:38.933994+00:00",
-  "LastChanged_Achievements": "2023-08-04T18:02:09.569178+00:00",
+  "LastChanged": "2023-08-04T18:59:33.4169358+00:00",
+  "LastChanged_Achievements": "2023-08-04T19:02:50.7123883+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-04T17:58:31.9621242+00:00",
-  "LastUpdate_Achievements": "2023-08-04T18:02:09.5722614+00:00"
+  "LastUpdate_Ratings": "2023-08-04T18:59:33.4169368+00:00",
+  "LastUpdate_Achievements": "2023-08-04T19:02:50.7161009+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1250,
+  "EOS_Progressed": 1251,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -2010,6 +2010,11 @@
       "Time": "2023-08-04T13:09:16.6063584+00:00",
       "NumProgressed": 1250,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-04T19:05:11.0581302+00:00",
+      "NumProgressed": 1251,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2037,7 +2042,7 @@
       "Name": "Do a Barrel Roll!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Big_Bertha",
@@ -2061,7 +2066,7 @@
       "Name": "Commandos",
       "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Death_to_the_dictator",
@@ -2101,7 +2106,7 @@
       "Name": "E1M1",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "Everyone_is_here",
@@ -2117,7 +2122,7 @@
       "Name": "Experienced Strategist",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Game_Over",
@@ -2245,7 +2250,7 @@
       "Name": "We Weren\u0027t There",
       "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Your_turn",
@@ -2260,15 +2265,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1250,
+      "Progressed": 1251,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-04T18:04:14.1016676+00:00",
+  "LastChanged_Achievements": "2023-08-04T19:05:11.0581295+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:01.8247035+00:00",
-  "LastUpdate_Ratings": "2023-08-04T17:59:22.7527338+00:00",
-  "LastUpdate_Achievements": "2023-08-04T18:04:14.1016996+00:00"
+  "LastUpdate_Ratings": "2023-08-04T19:00:52.050753+00:00",
+  "LastUpdate_Achievements": "2023-08-04T19:05:11.0581881+00:00"
 }

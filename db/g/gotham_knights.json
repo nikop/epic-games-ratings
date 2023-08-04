@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2284,7 +2284,7 @@
   ],
   "EOS_Progressed": 67617,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -11683,9 +11683,9 @@
       "ID": "ALL_TRAINING_ROOMS",
       "SetID": "4eo5ebm",
       "Name": "Practice Makes Perfect",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 270
     },
     {
       "ID": "ALL_VILLAIN",
@@ -12114,8 +12114,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-04T13:05:35.2894061+00:00",
-  "LastChanged_Achievements": "2023-08-04T18:05:11.7706325+00:00",
+  "LastChanged_Achievements": "2023-08-04T19:06:32.0864246+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:38.4399056+00:00",
-  "LastUpdate_Ratings": "2023-08-04T17:59:58.1782208+00:00",
-  "LastUpdate_Achievements": "2023-08-04T18:05:11.7707506+00:00"
+  "LastUpdate_Ratings": "2023-08-04T19:01:44.0195538+00:00",
+  "LastUpdate_Achievements": "2023-08-04T19:06:32.0865796+00:00"
 }

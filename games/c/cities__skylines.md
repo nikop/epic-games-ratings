@@ -6,36 +6,36 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~683,868 |
-| Green Energy | 60.00% | ~577,917 |
-| Foggy Weather | 59.00% | ~568,285 |
-| Singing In The- | 59.00% | ~568,285 |
-| Unpopular Mayor | 41.00% | ~394,910 |
-| Power at Your Fingertips | 33.00% | ~317,854 |
-| City Planner | 23.00% | ~221,535 |
-| Rolling in Dough | 20.00% | ~192,639 |
-| Does My Bum Look Big In This? | 17.00% | ~163,743 |
-| Climbing the Social Ladder | 16.00% | ~154,111 |
-| Safe City | 14.00% | ~134,847 |
-| Quay-King | 11.00% | ~105,951 |
-| Lawmaker | 10.00% | ~96,320 |
-| With Canals You Can! | 10.00% | ~96,320 |
-| Nomen Est Omen | 7.00% | ~67,424 |
-| Well Informed | 6.00% | ~57,792 |
-| Fire Watch | 5.00% | ~48,160 |
-| Greenest City | 4.00% | ~38,528 |
-| Heavenly City | 3.00% | ~28,896 |
-| Reporting! | 3.00% | ~28,896 |
-| SIMulated City | 3.00% | ~28,896 |
-| The Safest Town | 3.00% | ~28,896 |
-| Professional Dumper | 2.00% | ~19,264 |
-| City in Motion | 1.00% | ~9,632 |
-| Earthloving City | 1.00% | ~9,632 |
-| Metropolis | 1.00% | ~9,632 |
+| Pioneer | 71.00% | ~683,942 |
+| Green Energy | 60.00% | ~577,979 |
+| Foggy Weather | 59.00% | ~568,346 |
+| Singing In The- | 59.00% | ~568,346 |
+| Unpopular Mayor | 41.00% | ~394,953 |
+| Power at Your Fingertips | 33.00% | ~317,889 |
+| City Planner | 23.00% | ~221,559 |
+| Rolling in Dough | 20.00% | ~192,660 |
+| Does My Bum Look Big In This? | 17.00% | ~163,761 |
+| Climbing the Social Ladder | 16.00% | ~154,128 |
+| Safe City | 14.00% | ~134,862 |
+| Quay-King | 11.00% | ~105,963 |
+| Lawmaker | 10.00% | ~96,330 |
+| With Canals You Can! | 10.00% | ~96,330 |
+| Nomen Est Omen | 7.00% | ~67,431 |
+| Well Informed | 6.00% | ~57,798 |
+| Fire Watch | 5.00% | ~48,165 |
+| Greenest City | 4.00% | ~38,532 |
+| Heavenly City | 3.00% | ~28,899 |
+| Reporting! | 3.00% | ~28,899 |
+| SIMulated City | 3.00% | ~28,899 |
+| The Safest Town | 3.00% | ~28,899 |
+| Professional Dumper | 2.00% | ~19,266 |
+| City in Motion | 1.00% | ~9,633 |
+| Earthloving City | 1.00% | ~9,633 |
+| Metropolis | 1.00% | ~9,633 |
 | Higher Education | 0.80% | ~7,706 |
-| Beam Me Up | 0.70% | ~6,742 |
-| Full Capacity | 0.60% | ~5,779 |
-| Terraformer | 0.60% | ~5,779 |
+| Beam Me Up | 0.70% | ~6,743 |
+| Full Capacity | 0.60% | ~5,780 |
+| Terraformer | 0.60% | ~5,780 |
 | Decorator | 0.50% | ~4,816 |
 | Drop the Base | 0.50% | ~4,816 |
 | It's heading right for us! | 0.50% | ~4,816 |
@@ -59,14 +59,14 @@ Number of Ratings: 25,248  (23.09.2022)
 | Run, Bambi! | 0.30% | ~2,890 |
 | Short Fuse | 0.30% | ~2,890 |
 | We need snorkels! | 0.30% | ~2,890 |
-| City in Motion 2 | 0.20% | ~1,926 |
-| Eternal City | 0.20% | ~1,926 |
-| It's Wintertime! | 0.20% | ~1,926 |
-| Make Them Pay | 0.20% | ~1,926 |
-| Medic! | 0.20% | ~1,926 |
-| New Eden | 0.20% | ~1,926 |
-| Power to the People | 0.20% | ~1,926 |
-| The Park To Rule All Parks | 0.20% | ~1,926 |
+| City in Motion 2 | 0.20% | ~1,927 |
+| Eternal City | 0.20% | ~1,927 |
+| It's Wintertime! | 0.20% | ~1,927 |
+| Make Them Pay | 0.20% | ~1,927 |
+| Medic! | 0.20% | ~1,927 |
+| New Eden | 0.20% | ~1,927 |
+| Power to the People | 0.20% | ~1,927 |
+| The Park To Rule All Parks | 0.20% | ~1,927 |
 | 1001 Nights | 0.10% | ~963 |
 | Academic Scholar | 0.10% | ~963 |
 | Airline Tycoon | 0.10% | ~963 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~963 |
 | Z00 | 0.10% | ~963 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 963,195 (Ranked 13)  
+Progressed: 963,299 (Ranked 13)  
 Completed: 10 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 10 (0.00%) (Ranked 248)
 | 2023-08-01 | 955,884 | 10 |
 | 2023-08-02 | 958,762 | 10 |
 | 2023-08-03 | 961,414 | 10 |
-| 2023-08-04 | 963,195 | 10 |
+| 2023-08-04 | 963,299 | 10 |
 ## Awards
 Max (Great for Beginners): 5,066  (Ranked 68)  
 Sum: 38,422 (Ranked 32)  

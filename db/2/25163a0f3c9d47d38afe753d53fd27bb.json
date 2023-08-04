@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 656,
+  "EOS_Progressed": 657,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 10.67,
+  "EOS_Completed_Percentage": 10.65,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2146,6 +2146,11 @@
       "Time": "2023-08-04T14:07:16.2863143+00:00",
       "NumProgressed": 656,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-08-04T19:08:00.1066789+00:00",
+      "NumProgressed": 657,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 30,
@@ -2157,7 +2162,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "LEVEL_002",
@@ -2165,7 +2170,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "LEVEL_003",
@@ -2173,7 +2178,7 @@
       "Name": "A horse in the country",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "LEVEL_004",
@@ -2181,7 +2186,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "LEVEL_005",
@@ -2189,7 +2194,7 @@
       "Name": "Small village",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "LEVEL_006",
@@ -2221,15 +2226,15 @@
       "Name": "Going zig zag",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "LEVEL_010",
       "SetID": "212bg48",
       "Name": "Rocks around the island",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 171
     },
     {
       "ID": "LEVEL_011",
@@ -2245,7 +2250,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "LEVEL_013",
@@ -2293,7 +2298,7 @@
       "Name": "Isle rock city",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "LEVEL_019",
@@ -2381,7 +2386,7 @@
       "Name": "Bridges connect us",
       "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "LEVEL_030",
@@ -2389,21 +2394,21 @@
       "Name": "Celebration with Cake and Balloons",
       "Percentage": 8,
       "XP": 110,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     }
   ],
   "AchievementSets": [
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 656,
+      "Progressed": 657,
       "Completed": 70
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-08-04T18:06:12.7545795+00:00",
+  "LastChanged_Achievements": "2023-08-04T19:08:00.1066782+00:00",
   "LastUpdate_AppInfo": "2023-07-31T17:57:14.0464775+00:00",
-  "LastUpdate_Ratings": "2023-08-04T17:57:35.9527694+00:00",
-  "LastUpdate_Achievements": "2023-08-04T18:06:12.7546187+00:00"
+  "LastUpdate_Ratings": "2023-08-04T18:58:11.4050759+00:00",
+  "LastUpdate_Achievements": "2023-08-04T19:08:00.1067274+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 87.00% | ~191 |
+| Such a strange dream… | 88.00% | ~194 |
 | Your first fight | 86.00% | ~189 |
 | Good Person Chip | 85.00% | ~187 |
 | First winning | 84.00% | ~185 |

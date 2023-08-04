@@ -208,9 +208,9 @@
       "ID": "Fletny",
       "SetID": "ag48e8e",
       "Name": "Four Flutes",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Houby",
@@ -232,9 +232,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 53,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Kour",
@@ -264,9 +264,9 @@
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 37,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MluviciPapouch",
@@ -304,9 +304,9 @@
       "ID": "Pejsek",
       "SetID": "ag48e8e",
       "Name": "Dog",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Poustevnik",
@@ -320,9 +320,9 @@
       "ID": "Prstenec",
       "SetID": "ag48e8e",
       "Name": "Cosmic Ring",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Rybka",
@@ -344,9 +344,9 @@
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Sputnik2",
@@ -392,9 +392,9 @@
       "ID": "Xicht",
       "SetID": "ag48e8e",
       "Name": "Rockheads",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Zelvak",
@@ -423,8 +423,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-08-04T18:03:15.6004575+00:00",
+  "LastChanged_Achievements": "2023-08-04T19:03:35.8560601+00:00",
   "LastUpdate_AppInfo": "2023-08-04T15:57:19.5735536+00:00",
-  "LastUpdate_Ratings": "2023-08-04T17:57:17.2211394+00:00",
-  "LastUpdate_Achievements": "2023-08-04T18:03:15.6004804+00:00"
+  "LastUpdate_Ratings": "2023-08-04T18:57:39.7461244+00:00",
+  "LastUpdate_Achievements": "2023-08-04T19:03:35.8560852+00:00"
 }

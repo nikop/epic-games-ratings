@@ -144,6 +144,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~27 |
 | Play a Network Game | 0.20% | ~27 |
 | Hittite Paganism | 0.20% | ~27 |
+| Capturing Cities | 0.20% | ~27 |
 | Military Prestige | 0.20% | ~27 |
 | Cataphract Archer | 0.20% | ~27 |
 | All Nations | 0.20% | ~27 |
@@ -249,7 +250,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Papacy | 0.10% | ~13 |
 | Circus Maximus in Roma | 0.10% | ~13 |
 | Pantheon in Roma | 0.10% | ~13 |
-| Capturing Cities | 0.10% | ~13 |
 | Ten Crowns | 0.10% | ~13 |
 | Word of God | 0.10% | ~13 |
 | Three Man Chariot | 0.10% | ~13 |

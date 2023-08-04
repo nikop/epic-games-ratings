@@ -6,18 +6,18 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~41,542 |
-| Worth it | 63.00% | ~33,989 |
-| Eagle Eye | 55.00% | ~29,673 |
-| Corpseman I | 40.00% | ~21,580 |
-| Blast fishing | 37.00% | ~19,962 |
-| Not alone | 32.00% | ~17,264 |
-| Headhunter I | 26.00% | ~14,027 |
-| Manual Labour I | 25.00% | ~13,488 |
-| Developers, Developers, Developers | 24.00% | ~12,948 |
-| Basic Training | 24.00% | ~12,948 |
+| Setting an example | 77.00% | ~41,546 |
+| Worth it | 63.00% | ~33,992 |
+| Eagle Eye | 55.00% | ~29,676 |
+| Corpseman I | 40.00% | ~21,582 |
+| Blast fishing | 37.00% | ~19,964 |
+| Not alone | 32.00% | ~17,266 |
+| Headhunter I | 26.00% | ~14,029 |
+| Manual Labour I | 25.00% | ~13,489 |
+| Developers, Developers, Developers | 24.00% | ~12,949 |
+| Basic Training | 24.00% | ~12,949 |
 | Furchtlos und Treu | 13.00% | ~7,014 |
-| Gott Mit Uns | 12.00% | ~6,474 |
+| Gott Mit Uns | 12.00% | ~6,475 |
 | This We'll Defend! | 9.00% | ~4,856 |
 | Anker wirf! | 9.00% | ~4,856 |
 | Providentiea Memor | 9.00% | ~4,856 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~54 |
 | Blood Brother | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,951 (Ranked 88)  
+Progressed: 53,956 (Ranked 88)  
 Completed: 4 (0.01%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 4 (0.01%) (Ranked 235)
 | 2023-08-01 | 53,625 | 4 |
 | 2023-08-02 | 53,758 | 4 |
 | 2023-08-03 | 53,878 | 4 |
-| 2023-08-04 | 53,951 | 4 |
+| 2023-08-04 | 53,956 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 341)  
 Sum: 763 (Ranked 262)  

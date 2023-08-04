@@ -5,14 +5,14 @@ Rating: 4.32 (Ranked 773)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~186,321 |
-| Snooper. | 10.00% | ~19,821 |
+| Boarded! | 94.00% | ~186,326 |
+| Snooper. | 10.00% | ~19,822 |
 | You have to start somewhere, right? | 7.00% | ~13,875 |
 | So you're saying I don't touch these ones? | 6.00% | ~11,893 |
 | Corrupted. | 5.00% | ~9,911 |
 | Good things come in pairs... Coloured Pairs. | 5.00% | ~9,911 |
-| Answers can be found amongst the stars | 3.00% | ~5,946 |
-| Bend to the will of the arrows. | 3.00% | ~5,946 |
+| Answers can be found amongst the stars | 3.00% | ~5,947 |
+| Bend to the will of the arrows. | 3.00% | ~5,947 |
 | You've been through a lot. | 2.00% | ~3,964 |
 | People's feelings on these ones are very... Binary... | 2.00% | ~3,964 |
 | I hope your remember your colour theory. | 2.00% | ~3,964 |
@@ -25,17 +25,17 @@ Rating: 4.32 (Ranked 773)
 | That's a wrap. | 2.00% | ~3,964 |
 | In balance. | 2.00% | ~3,964 |
 | I hope you're ready. | 1.00% | ~1,982 |
-| Bridge crossed. | 0.70% | ~1,387 |
-| Cockpit | 0.70% | ~1,387 |
-| Names to faces. | 0.70% | ~1,387 |
-| Witness it. | 0.70% | ~1,387 |
+| Bridge crossed. | 0.70% | ~1,388 |
+| Cockpit | 0.70% | ~1,388 |
+| Names to faces. | 0.70% | ~1,388 |
+| Witness it. | 0.70% | ~1,388 |
 | A full deck. | 0.60% | ~1,189 |
 | 14237b6509eafd8c | 0.60% | ~1,189 |
 | No Anchor too great. | 0.50% | ~991 |
 | Snooper + | 0.40% | ~793 |
 | Corrupted + | 0.30% | ~595 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198,214 (Ranked 56)  
+Progressed: 198,219 (Ranked 56)  
 Completed: 475 (0.24%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 475 (0.24%) (Ranked 169)
 | 2023-08-01 | 197,987 | 472 |
 | 2023-08-02 | 198,068 | 473 |
 | 2023-08-03 | 198,156 | 475 |
-| 2023-08-04 | 198,214 | 475 |
+| 2023-08-04 | 198,219 | 475 |
 ## Awards
 Max (Challenging Puzzles): 559  (Ranked 185)  
 Sum: 673 (Ranked 275)  

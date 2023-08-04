@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2445,
+  "EOS_Progressed": 2446,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -2338,6 +2338,11 @@
       "Time": "2023-08-04T09:04:11.3886321+00:00",
       "NumProgressed": 2445,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-04T19:04:23.3865226+00:00",
+      "NumProgressed": 2446,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2357,7 +2362,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "FALLEN_TREE",
@@ -2373,7 +2378,7 @@
       "Name": "Helping the little ones",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "MOVE_ON",
@@ -2452,7 +2457,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2445,
+      "Progressed": 2446,
       "Completed": 6
     }
   ],
@@ -2460,8 +2465,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-04T18:03:41.8598604+00:00",
+  "LastChanged_Achievements": "2023-08-04T19:04:23.3865218+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:06.4701918+00:00",
-  "LastUpdate_Ratings": "2023-08-04T17:59:28.1387054+00:00",
-  "LastUpdate_Achievements": "2023-08-04T18:03:41.8599198+00:00"
+  "LastUpdate_Ratings": "2023-08-04T19:00:59.9138559+00:00",
+  "LastUpdate_Achievements": "2023-08-04T19:04:23.3865668+00:00"
 }

@@ -1745,9 +1745,9 @@
       "ID": "PickaxeDiamond",
       "SetID": "5lok9mm",
       "Name": "Diamond Pickaxe",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1682
     },
     {
       "ID": "PickaxeGuy",
@@ -1905,8 +1905,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-07-21T20:00:23.2474099+00:00",
-  "LastChanged_Achievements": "2023-08-04T18:02:07.1989555+00:00",
+  "LastChanged_Achievements": "2023-08-04T19:02:47.1826734+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:50.568035+00:00",
-  "LastUpdate_Ratings": "2023-08-04T18:00:05.3698894+00:00",
-  "LastUpdate_Achievements": "2023-08-04T18:02:07.1990129+00:00"
+  "LastUpdate_Ratings": "2023-08-04T19:01:54.7792129+00:00",
+  "LastUpdate_Achievements": "2023-08-04T19:02:47.1827296+00:00"
 }

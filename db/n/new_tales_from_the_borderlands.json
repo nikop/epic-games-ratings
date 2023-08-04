@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,7 +168,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3549,
+  "EOS_Progressed": 3550,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -1078,6 +1078,11 @@
       "Time": "2023-08-03T20:04:26.92248+00:00",
       "NumProgressed": 3549,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T19:05:01.9570926+00:00",
+      "NumProgressed": 3550,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1089,7 +1094,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -1121,7 +1126,7 @@
       "Name": "Totally Intentional",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1129,7 +1134,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -1185,7 +1190,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -1209,7 +1214,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1740
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1233,7 +1238,7 @@
       "Name": "Super Trusting Friend!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "SUMMON_SEXY_INTERNS",
@@ -1273,7 +1278,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -1289,14 +1294,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3549,
+      "Progressed": 3550,
       "Completed": 0
     }
   ],
@@ -1304,8 +1309,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-08-04T18:04:08.012671+00:00",
+  "LastChanged_Achievements": "2023-08-04T19:05:01.9570917+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:07.7078521+00:00",
-  "LastUpdate_Ratings": "2023-08-04T17:59:36.9009052+00:00",
-  "LastUpdate_Achievements": "2023-08-04T18:04:08.0126968+00:00"
+  "LastUpdate_Ratings": "2023-08-04T19:01:10.4621091+00:00",
+  "LastUpdate_Achievements": "2023-08-04T19:05:01.957136+00:00"
 }

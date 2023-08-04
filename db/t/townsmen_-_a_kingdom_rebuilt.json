@@ -5,10 +5,10 @@
   "Ranking_Rating": 847,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
-  "Ranking_EOS_Progress": 145,
+  "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -1743,9 +1743,9 @@
       "ID": "ACHIEVEMENT_TIME3",
       "SetID": "9eacipp",
       "Name": "A time consuming game III",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_TIME4",
@@ -1855,8 +1855,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-08-04T18:05:40.6373387+00:00",
+  "LastChanged_Achievements": "2023-08-04T19:07:13.0497626+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:52.1616278+00:00",
-  "LastUpdate_Ratings": "2023-08-04T17:58:25.2166672+00:00",
-  "LastUpdate_Achievements": "2023-08-04T18:05:40.6374604+00:00"
+  "LastUpdate_Ratings": "2023-08-04T18:59:23.9392957+00:00",
+  "LastUpdate_Achievements": "2023-08-04T19:07:13.049967+00:00"
 }

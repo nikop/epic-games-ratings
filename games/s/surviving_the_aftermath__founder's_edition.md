@@ -6,10 +6,10 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~5,760 |
-| Leader | 60.00% | ~4,800 |
-| Explorer | 53.00% | ~4,240 |
-| Healer | 52.00% | ~4,160 |
+| First Step | 72.00% | ~5,761 |
+| Leader | 60.00% | ~4,801 |
+| Explorer | 53.00% | ~4,241 |
+| Healer | 52.00% | ~4,161 |
 | Aspiring Inventor | 44.00% | ~3,520 |
 | Adventurer | 41.00% | ~3,280 |
 | Famous Healer | 38.00% | ~3,040 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~16 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,000 (Ranked 128)  
+Progressed: 8,001 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 0 (0.00%) (Ranked 248)
 | 2023-08-01 | 7,937 | 0 |
 | 2023-08-02 | 7,965 | 0 |
 | 2023-08-03 | 7,985 | 0 |
-| 2023-08-04 | 8,000 | 0 |
+| 2023-08-04 | 8,001 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 335)  
 Sum: 684 (Ranked 273)  

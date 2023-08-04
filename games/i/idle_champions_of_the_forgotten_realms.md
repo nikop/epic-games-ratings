@@ -7,10 +7,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,746 |
-| Beast Intentions | 3.00% | ~6,559 |
+| Beast Intentions | 3.00% | ~6,560 |
 | Maddening | 2.00% | ~4,373 |
-| The Silken Swamp | 1.00% | ~2,186 |
-| Supply Run | 1.00% | ~2,186 |
+| The Silken Swamp | 1.00% | ~2,187 |
+| Supply Run | 1.00% | ~2,187 |
 | Vecna Lives! | 1.00% | ~1,849 |
 | Rocky Reception | 1.00% | ~1,849 |
 | Rock and Roll | 1.00% | ~1,849 |
@@ -18,16 +18,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.80% | ~1,479 |
 | Vecna Loots! | 0.80% | ~1,479 |
 | Topolah's Tower | 0.80% | ~1,479 |
-| Wet Feet | 0.70% | ~1,530 |
-| Seeds of Destruction | 0.70% | ~1,294 |
-| Return to the Tomb | 0.70% | ~1,294 |
+| Wet Feet | 0.70% | ~1,531 |
+| Seeds of Destruction | 0.70% | ~1,295 |
+| Return to the Tomb | 0.70% | ~1,295 |
 | Pros and CONs | 0.60% | ~1,312 |
-| The Witchlight Carnival | 0.60% | ~1,109 |
+| The Witchlight Carnival | 0.60% | ~1,110 |
 | Hatchlings Underfoot | 0.60% | ~1,312 |
 | Don't Look Up! | 0.60% | ~1,312 |
-| The Evacuation of Waterdeep | 0.60% | ~1,109 |
-| Heatwave | 0.60% | ~1,109 |
-| The Dread Domain of Tovag | 0.60% | ~1,109 |
+| The Evacuation of Waterdeep | 0.60% | ~1,110 |
+| Heatwave | 0.60% | ~1,110 |
+| The Dread Domain of Tovag | 0.60% | ~1,110 |
 | Were-verpowered | 0.60% | ~1,312 |
 | A Persistent Buzzing | 0.60% | ~1,312 |
 | Beast Mode | 0.60% | ~1,312 |
@@ -38,7 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.60% | ~1,312 |
 | The Cursed Farmer | 0.60% | ~1,312 |
 | The Mad Wizard | 0.60% | ~1,312 |
-| The Champion's Guide to Wildspace | 0.60% | ~1,109 |
+| The Champion's Guide to Wildspace | 0.60% | ~1,110 |
 | Thieves of the Coven | 0.50% | ~925 |
 | Heavy Burden | 0.50% | ~1,093 |
 | Friends of the Forest | 0.50% | ~1,093 |
@@ -136,6 +136,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.30% | ~656 |
 | Dinosaur Racing | 0.30% | ~656 |
 | Elturel Has Fallen | 0.30% | ~656 |
+| Market Fluctuations | 0.30% | ~656 |
 | The Giant's Bane Tavern | 0.30% | ~555 |
 | The Everlasting Rime | 0.30% | ~555 |
 | Close Escort | 0.30% | ~656 |
@@ -207,7 +208,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Dragons | 0.20% | ~437 |
 | Champions of Waterdeep | 0.20% | ~437 |
 | Resolve Amongst Chaos | 0.20% | ~437 |
-| Market Fluctuations | 0.20% | ~437 |
 | Once More Into The Breach | 0.20% | ~437 |
 | Wyllowwood | 0.20% | ~437 |
 | An Illithid Undertaking | 0.20% | ~370 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,642 (Ranked 53)  
+Progressed: 218,658 (Ranked 53)  
 Completed: 2,151 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -625,10 +625,10 @@ Completed: 2,151 (0.98%) (Ranked 113)
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
-| 2023-08-04 | 218,642 | 2,151 |
+| 2023-08-04 | 218,658 | 2,151 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
-Sum: 30,895 (Ranked 38)  
+Sum: 30,897 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -637,7 +637,7 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 4,702 |
 | This game is Relaxing | 4,595 |
 | This game has Amazing Characters | 4,052 |
-| This game is Highly Recommended | 4,030 |
+| This game is Highly Recommended | 4,032 |
 | This game has Playful Visuals | 3,341 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -832,4 +832,4 @@ Diff (max vs sum): 29
 | 2023-08-01 | 4.05 | - | 5,108 | 30,850 |
 | 2023-08-02 | 4.05 | - | 5,109 | 30,857 |
 | 2023-08-03 | 4.05 | - | 5,116 | 30,886 |
-| 2023-08-04 | 4.05 | - | 5,116 | 30,895 |
+| 2023-08-04 | 4.05 | - | 5,116 | 30,897 |

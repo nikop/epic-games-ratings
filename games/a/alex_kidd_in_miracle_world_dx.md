@@ -11,7 +11,7 @@
 | First Commander | 20.00% | ~54 |
 | Adventurer | 20.00% | ~54 |
 | Second Commander | 18.00% | ~48 |
-| Third Commander | 15.00% | ~40 |
+| Third Commander | 16.00% | ~43 |
 | Janken The Great | 11.00% | ~29 |
 | Pacifist | 11.00% | ~29 |
 | Overwhelmed Beast | 9.00% | ~24 |

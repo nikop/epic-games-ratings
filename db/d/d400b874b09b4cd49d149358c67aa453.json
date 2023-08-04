@@ -2,10 +2,10 @@
   "ID": "d400b874b09b4cd49d149358c67aa453",
   "Name": "Electrician Simulator",
   "ProductSlug": "electrician-simulator-164e9f",
-  "Ranking_EOS_Progress": 423,
+  "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 12,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -49,6 +49,11 @@
       "Time": "2023-08-04T18:05:30.9968466+00:00",
       "NumProgressed": 11,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T19:06:58.8847941+00:00",
+      "NumProgressed": 12,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -67,7 +72,7 @@
       "ID": "ACH_CONNECT_19_LAMPS_TO_SWITCH",
       "SetID": "al4k4nh",
       "Name": "One to rule them all",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -107,7 +112,7 @@
       "ID": "ACH_END_FIRST_MAIL_MISSION",
       "SetID": "al4k4nh",
       "Name": "I love customers",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -115,15 +120,15 @@
       "ID": "ACH_END_FIRST_TUTORIAL",
       "SetID": "al4k4nh",
       "Name": "Ready to go",
-      "Percentage": 18,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
       "SetID": "al4k4nh",
       "Name": "I can fix that",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -131,7 +136,7 @@
       "ID": "ACH_END_MAIL_MISSION_FAST",
       "SetID": "al4k4nh",
       "Name": "Gotta go fast",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -139,9 +144,9 @@
       "ID": "ACH_FIRST_SHOCK",
       "SetID": "al4k4nh",
       "Name": "First shock",
-      "Percentage": 27,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -163,7 +168,7 @@
       "ID": "ACH_GET_ALL_MAILS",
       "SetID": "al4k4nh",
       "Name": "Full inbox",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -187,7 +192,7 @@
       "ID": "ACH_GO_TO_MISSION_WITHOUT_NEEDED_ITEMS",
       "SetID": "al4k4nh",
       "Name": "I like the risk",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -203,9 +208,9 @@
       "ID": "ACH_PLACE_FIRST_ITEM_IN_OFFICE",
       "SetID": "al4k4nh",
       "Name": "Home sweet home",
-      "Percentage": 109,
+      "Percentage": 108,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -229,13 +234,13 @@
       "Name": "Unpacked",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
       "SetID": "al4k4nh",
       "Name": "Shocker",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -268,13 +273,13 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 12,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-04T18:05:30.996846+00:00",
+  "LastChanged_Achievements": "2023-08-04T19:06:58.8847933+00:00",
   "LastUpdate_AppInfo": "2023-08-02T16:57:18.5596155+00:00",
-  "LastUpdate_Ratings": "2023-08-04T17:57:38.6705362+00:00",
-  "LastUpdate_Achievements": "2023-08-04T18:05:30.9968623+00:00"
+  "LastUpdate_Ratings": "2023-08-04T18:58:15.870237+00:00",
+  "LastUpdate_Achievements": "2023-08-04T19:06:58.8848143+00:00"
 }
