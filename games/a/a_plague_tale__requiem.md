@@ -9,8 +9,8 @@ Rating: 4.73 (Ranked 160)
 | Newcomers | 78.00% | ~9,826 |
 | A Burden of Blood | 73.00% | ~9,197 |
 | Protector's Duty | 69.00% | ~8,693 |
+| Alchemist | 68.00% | ~8,567 |
 | In our Wake | 67.00% | ~8,441 |
-| Alchemist | 67.00% | ~8,441 |
 | Leaving all Behind | 64.00% | ~8,063 |
 | Felons | 61.00% | ~7,685 |
 | A Sea of Promises | 59.00% | ~7,433 |
@@ -150,8 +150,8 @@ Completed: 40 (0.32%) (Ranked 155)
 | 2023-08-04 | 12,598 | 40 |
 ## Awards
 Max (Great Boss Battles): 410  (Ranked 209)  
-Sum: 628 (Ranked 289)  
-Diff (max vs sum): -80  
+Sum: 628 (Ranked 290)  
+Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 410 |

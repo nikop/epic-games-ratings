@@ -46,10 +46,10 @@ Rating: 4.87 (Ranked 24)
 | This is a breeze! | 0.50% | ~19 |
 | We're Jammin' | 0.50% | ~19 |
 | New bad guys? No problem! | 0.50% | ~11 |
+| I'm not done with you yet | 0.40% | ~15 |
 | First we parry, then we counter | 0.40% | ~15 |
 | Easy Listening | 0.30% | ~11 |
 | OK, well THEY came after ME! | 0.30% | ~11 |
-| I'm not done with you yet | 0.30% | ~11 |
 | Choose your own adventure | 0.30% | ~7 |
 | Problem solved... wait, what? | 0.20% | ~7 |
 | Now this is how you fight like a team! | 0.20% | ~7 |

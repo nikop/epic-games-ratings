@@ -6,17 +6,17 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~67,338 |
-| Powergamer | 27.00% | ~64,933 |
-| Barely scratched the surface | 25.00% | ~60,123 |
-| Write that down | 24.00% | ~57,718 |
-| Guns, lots of guns | 12.00% | ~28,859 |
-| Collector | 11.00% | ~26,454 |
-| Elementary! | 9.00% | ~21,644 |
-| Pumpkin Jack | 8.00% | ~19,239 |
-| Wake up! | 8.00% | ~19,239 |
-| It's honest work | 7.00% | ~16,834 |
-| Griever | 7.00% | ~16,834 |
+| I will finish what you started | 28.00% | ~67,341 |
+| Powergamer | 27.00% | ~64,936 |
+| Barely scratched the surface | 25.00% | ~60,126 |
+| Write that down | 24.00% | ~57,720 |
+| Guns, lots of guns | 12.00% | ~28,860 |
+| Collector | 11.00% | ~26,455 |
+| Elementary! | 9.00% | ~21,645 |
+| Pumpkin Jack | 8.00% | ~19,240 |
+| Wake up! | 8.00% | ~19,240 |
+| It's honest work | 7.00% | ~16,835 |
+| Griever | 7.00% | ~16,835 |
 | Me smart | 6.00% | ~14,430 |
 | Trash compactor | 6.00% | ~14,430 |
 | Good listener | 5.00% | ~12,025 |
@@ -42,24 +42,24 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,405 |
 | Take the blue pill | 1.00% | ~2,405 |
 | The power of three | 1.00% | ~2,405 |
-| A true blacksmith | 0.90% | ~2,164 |
+| A true blacksmith | 0.90% | ~2,165 |
 | Let's try another | 0.80% | ~1,924 |
 | Home run | 0.80% | ~1,924 |
-| I have the high ground | 0.70% | ~1,683 |
-| It's blue, always blue | 0.70% | ~1,683 |
-| Enjoy these little moments | 0.50% | ~1,202 |
-| Who wouldn't love a troll? | 0.50% | ~1,202 |
+| I have the high ground | 0.70% | ~1,684 |
+| It's blue, always blue | 0.70% | ~1,684 |
+| Enjoy these little moments | 0.50% | ~1,203 |
+| Who wouldn't love a troll? | 0.50% | ~1,203 |
 | Irondec | 0.40% | ~962 |
 | Un-bear-able | 0.40% | ~962 |
-| LET ME OUT! | 0.30% | ~721 |
-| Well-deserved reunion | 0.30% | ~721 |
+| LET ME OUT! | 0.30% | ~722 |
+| Well-deserved reunion | 0.30% | ~722 |
 | Breaking the chains | 0.20% | ~481 |
 | Aren't you overthinking? | 0.20% | ~481 |
 | Take the red pill | 0.20% | ~481 |
 | This is the way | 0.20% | ~481 |
-| Memory 5 | 0.10% | ~240 |
+| Memory 5 | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,492 (Ranked 46)  
+Progressed: 240,502 (Ranked 46)  
 Completed: 7 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 7 (0.00%) (Ranked 248)
 | 2023-08-01 | 240,109 | 7 |
 | 2023-08-02 | 240,256 | 7 |
 | 2023-08-03 | 240,393 | 7 |
-| 2023-08-04 | 240,492 | 7 |
+| 2023-08-04 | 240,502 | 7 |
 ## Awards
 Max (Character Customization): 76  (Ranked 364)  
 Sum: 76 (Ranked 428)  

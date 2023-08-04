@@ -730,9 +730,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -770,9 +770,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 105
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -865,8 +865,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-04T17:06:08.2709352+00:00",
+  "LastChanged_Achievements": "2023-08-04T18:05:35.8165834+00:00",
   "LastUpdate_AppInfo": "2023-07-29T13:57:01.6016157+00:00",
-  "LastUpdate_Ratings": "2023-08-04T16:57:30.4022102+00:00",
-  "LastUpdate_Achievements": "2023-08-04T17:06:08.2709537+00:00"
+  "LastUpdate_Ratings": "2023-08-04T17:57:24.2485273+00:00",
+  "LastUpdate_Achievements": "2023-08-04T18:05:35.8166019+00:00"
 }

@@ -6,14 +6,15 @@ Rating: 4.20 (Ranked 850)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 5.00% | ~791 |
-| Paper Jams | 4.00% | ~632 |
-| Keep Fighting | 4.00% | ~149 |
+| Paper Jams | 4.00% | ~633 |
+| Keep Fighting | 4.00% | ~150 |
 | You Need a Gun | 3.00% | ~474 |
 | Flesh Wound | 3.00% | ~474 |
 | Two Heads Are Better Than One | 3.00% | ~474 |
 | Chew 'Em Up | 3.00% | ~474 |
 | Float Like A Butterfly | 3.00% | ~474 |
 | In the Pipe, Five by Five | 3.00% | ~474 |
+| Full Circle | 3.00% | ~474 |
 | It's Time | 3.00% | ~112 |
 | Giving Back | 2.00% | ~316 |
 | I Do Belong Here | 2.00% | ~316 |
@@ -27,7 +28,6 @@ Rating: 4.20 (Ranked 850)
 | What Lies Beneath | 2.00% | ~316 |
 | Desperate Times | 2.00% | ~316 |
 | Crash Site | 2.00% | ~316 |
-| Full Circle | 2.00% | ~316 |
 | Power Up | 2.00% | ~316 |
 | In Striking Distance | 1.00% | ~158 |
 | One Last Job | 1.00% | ~37 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 850)
 | Don't Let It Mellow | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,811 (Ranked 114)  
+Progressed: 15,813 (Ranked 114)  
 Completed: 71 (0.45%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 71 (0.45%) (Ranked 143)
 | 2023-08-01 | 15,796 | 71 |
 | 2023-08-02 | 15,802 | 71 |
 | 2023-08-03 | 15,805 | 71 |
-| 2023-08-04 | 15,811 | 71 |
+| 2023-08-04 | 15,813 | 71 |
 ## Awards
 Max (Amazing Storytelling): 72  (Ranked 373)  
 Sum: 400 (Ranked 316)  

@@ -3,8 +3,8 @@
 [View Rawdata](../../db/p/paragon__the_overprime.json)  
 Rating: 4.24 (Ranked 828)  
 ## Awards
-Max (Diverse Characters): 534  (Ranked 192)  
-Sum: 3,969 (Ranked 140)  
+Max (Diverse Characters): 534  (Ranked 193)  
+Sum: 3,969 (Ranked 141)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |

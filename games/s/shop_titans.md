@@ -10,10 +10,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 0.60% | ~803 |
 | Titan's First Steps | 0.60% | ~803 |
 | Tinkle of Coins | 0.50% | ~669 |
-| Disintermediation | 0.40% | ~535 |
-| It's Free Real Estate | 0.40% | ~535 |
-| Budding Merchant | 0.40% | ~535 |
-| Capitalism Ho! | 0.40% | ~535 |
+| Disintermediation | 0.40% | ~536 |
+| It's Free Real Estate | 0.40% | ~536 |
+| Budding Merchant | 0.40% | ~536 |
+| Capitalism Ho! | 0.40% | ~536 |
 | One Easy Payment | 0.30% | ~402 |
 | Some Assembly Required | 0.30% | ~402 |
 | Another Satisfied Customer | 0.30% | ~402 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,873 (Ranked 62)  
+Progressed: 133,878 (Ranked 62)  
 Completed: 128 (0.10%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 128 (0.10%) (Ranked 196)
 | 2023-08-01 | 133,708 | 125 |
 | 2023-08-02 | 133,764 | 126 |
 | 2023-08-03 | 133,815 | 128 |
-| 2023-08-04 | 133,873 | 128 |
+| 2023-08-04 | 133,878 | 128 |
 ## Awards
 Max (Great for Beginners): 4,686  (Ranked 70)  
 Sum: 27,041 (Ranked 46)  

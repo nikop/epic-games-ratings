@@ -148,7 +148,7 @@
   "Tags": [],
   "EOS_Progressed": 1760,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4314,9 +4314,9 @@
       "ID": "A33",
       "SetID": "9b7p7eo",
       "Name": "Locusts",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 264
     },
     {
       "ID": "A34",
@@ -4362,9 +4362,9 @@
       "ID": "A39",
       "SetID": "9b7p7eo",
       "Name": "Bold and beautiful",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 229
     },
     {
       "ID": "A40",
@@ -4499,8 +4499,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-31T01:57:43.9842724+00:00",
-  "LastChanged_Achievements": "2023-08-04T17:04:41.8513893+00:00",
+  "LastChanged_Achievements": "2023-08-04T18:04:23.9950057+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:59.7965927+00:00",
-  "LastUpdate_Ratings": "2023-08-04T16:58:51.5002307+00:00",
-  "LastUpdate_Achievements": "2023-08-04T17:04:41.8514672+00:00"
+  "LastUpdate_Ratings": "2023-08-04T17:58:29.5261825+00:00",
+  "LastUpdate_Achievements": "2023-08-04T18:04:23.9950711+00:00"
 }

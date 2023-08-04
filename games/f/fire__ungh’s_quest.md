@@ -16,24 +16,24 @@
 | Onk Boga IV | 44.00% | ~101 |
 | BumBum | 42.00% | ~96 |
 | Blunga 10 | 41.00% | ~94 |
-| Onk Boga V | 38.00% | ~87 |
-| Onk Boga VI | 35.00% | ~80 |
-| IQ62 | 35.00% | ~80 |
-| 1978 | 34.00% | ~78 |
-| Onk Boga VII | 34.00% | ~78 |
+| Onk Boga V | 39.00% | ~89 |
+| Onk Boga VI | 36.00% | ~82 |
+| IQ62 | 36.00% | ~82 |
+| 1978 | 35.00% | ~80 |
+| Onk Boga VII | 35.00% | ~80 |
 | Onk Boga VIII | 34.00% | ~78 |
 | Blubb | 34.00% | ~78 |
+| ParaPara! | 32.00% | ~73 |
+| Onk Boga IX | 32.00% | ~73 |
 | Blunga 15 | 31.00% | ~71 |
-| ParaPara! | 31.00% | ~71 |
 | Kokakoka | 31.00% | ~71 |
-| Onk Boga IX | 31.00% | ~71 |
 | AKRE! | 31.00% | ~71 |
 | Blunga 20 | 12.00% | ~27 |
 | Blunga 25 | 7.00% | ~16 |
 | Blunga 30 | 7.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 229 (Ranked 274)  
-Completed: 14 (6.11%) (Ranked 41)  
+Completed: 14 (6.11%) (Ranked 40)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

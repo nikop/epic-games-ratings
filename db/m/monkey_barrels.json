@@ -4,7 +4,7 @@
   "ProductSlug": "monkey-barrels",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-02-09T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:18.2020188+00:00",
   "LastChanged": "2023-03-31T05:57:18.2020189+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:32.2274494+00:00",
-  "LastUpdate_Ratings": "2023-08-04T16:59:27.4534182+00:00",
-  "LastUpdate_Achievements": "2023-08-04T17:06:35.0505558+00:00"
+  "LastUpdate_Ratings": "2023-08-04T17:58:58.3088656+00:00",
+  "LastUpdate_Achievements": "2023-08-04T18:05:57.8079612+00:00"
 }

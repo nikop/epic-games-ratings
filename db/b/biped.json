@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5061,
+  "EOS_Progressed": 5063,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7861,6 +7861,11 @@
       "Time": "2023-08-04T17:07:16.8310402+00:00",
       "NumProgressed": 5061,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T18:06:32.398136+00:00",
+      "NumProgressed": 5063,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -7872,7 +7877,7 @@
       "Name": "First Step",
       "Percentage": 38,
       "XP": 45,
-      "UsersEstimate": 1923
+      "UsersEstimate": 1924
     },
     {
       "ID": "10",
@@ -7952,7 +7957,7 @@
       "Name": "Snowy Peak",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "6",
@@ -7991,7 +7996,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5061,
+      "Progressed": 5063,
       "Completed": 0
     }
   ],
@@ -7999,8 +8004,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-08-04T17:07:16.8310395+00:00",
+  "LastChanged_Achievements": "2023-08-04T18:06:32.3981354+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.1828699+00:00",
-  "LastUpdate_Ratings": "2023-08-04T16:58:45.183158+00:00",
-  "LastUpdate_Achievements": "2023-08-04T17:07:16.831101+00:00"
+  "LastUpdate_Ratings": "2023-08-04T17:58:24.071138+00:00",
+  "LastUpdate_Achievements": "2023-08-04T18:06:32.3982012+00:00"
 }

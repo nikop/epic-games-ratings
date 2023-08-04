@@ -3,9 +3,9 @@
   "Name": "Fire: Ungh\u2019s Quest",
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Completed": 40,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -534,9 +534,9 @@
       "ID": "Butterfly_eats_Caterpillar_in_007",
       "SetID": "6od1ndi",
       "Name": "ParaPara!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "Eliminated_3_Mask_Men_in_009",
@@ -558,9 +558,9 @@
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
       "SetID": "6od1ndi",
       "Name": "1978",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "Level_completed_001_002",
@@ -598,25 +598,25 @@
       "ID": "Level_completed_005_003",
       "SetID": "6od1ndi",
       "Name": "Onk Boga V",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "Level_completed_006_004",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VI",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "Level_completed_007_006",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VII",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "Level_completed_008_005",
@@ -630,9 +630,9 @@
       "ID": "Level_completed_009_007",
       "SetID": "6od1ndi",
       "Name": "Onk Boga IX",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "Level_completed_010_010",
@@ -646,9 +646,9 @@
       "ID": "Monkey_IQ_test_passed_in_004",
       "SetID": "6od1ndi",
       "Name": "IQ62",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "Rainman_was_shocked_by_lightning_in_001",
@@ -687,8 +687,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-08-04T17:03:53.2602822+00:00",
+  "LastChanged_Achievements": "2023-08-04T18:03:43.8043014+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:38.8063462+00:00",
-  "LastUpdate_Ratings": "2023-08-04T17:00:42.4630823+00:00",
-  "LastUpdate_Achievements": "2023-08-04T17:03:53.2603041+00:00"
+  "LastUpdate_Ratings": "2023-08-04T17:59:57.2020625+00:00",
+  "LastUpdate_Achievements": "2023-08-04T18:03:43.8043238+00:00"
 }

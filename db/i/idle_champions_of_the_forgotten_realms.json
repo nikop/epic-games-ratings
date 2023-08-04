@@ -5548,9 +5548,9 @@
       "Count": 3341
     }
   ],
-  "EOS_Progressed": 218626,
+  "EOS_Progressed": 218642,
   "EOS_Completed": 2151,
-  "EOS_NewPlayers": 2215,
+  "EOS_NewPlayers": 2213,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16998,6 +16998,11 @@
       "Time": "2023-08-04T17:02:15.564009+00:00",
       "NumProgressed": 218626,
       "NumCompleted": 2151
+    },
+    {
+      "Time": "2023-08-04T18:02:09.5691787+00:00",
+      "NumProgressed": 218642,
+      "NumCompleted": 2151
     }
   ],
   "TotalAchievements": 512,
@@ -17009,7 +17014,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8745
+      "UsersEstimate": 8746
     },
     {
       "ID": "objective_completed_10",
@@ -17145,7 +17150,7 @@
       "Name": "Thieves of the Coven",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "objective_completed_1061",
@@ -20977,7 +20982,7 @@
       "Name": "Not That Type of Helm!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "objective_completed_1327",
@@ -21001,7 +21006,7 @@
       "Name": "Calcryx Tricks",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "objective_completed_593",
@@ -21009,7 +21014,7 @@
       "Name": "Goblin Halls: the Next Generation",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "objective_completed_663",
@@ -21017,7 +21022,7 @@
       "Name": "Bazaar Companions",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "objective_completed_668",
@@ -21025,7 +21030,7 @@
       "Name": "Bahamut\u0027s Army",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "objective_completed_1375",
@@ -21089,7 +21094,7 @@
       "Name": "Krux\u0027s Speed Run",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "objective_completed_1392",
@@ -21104,21 +21109,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184900,
+      "Progressed": 184916,
       "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218626,
+      "Progressed": 218642,
       "Completed": 2151
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-04T15:59:38.933994+00:00",
-  "LastChanged_Achievements": "2023-08-04T17:02:15.5640082+00:00",
+  "LastChanged_Achievements": "2023-08-04T18:02:09.569178+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-04T16:58:54.485299+00:00",
-  "LastUpdate_Achievements": "2023-08-04T17:02:15.5672495+00:00"
+  "LastUpdate_Ratings": "2023-08-04T17:58:31.9621242+00:00",
+  "LastUpdate_Achievements": "2023-08-04T18:02:09.5722614+00:00"
 }

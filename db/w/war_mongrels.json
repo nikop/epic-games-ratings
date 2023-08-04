@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 445,
+  "EOS_Progressed": 446,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1243,6 +1243,11 @@
       "Time": "2023-08-04T08:05:53.513844+00:00",
       "NumProgressed": 445,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T18:05:32.1754552+00:00",
+      "NumProgressed": 446,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1414,7 +1419,7 @@
       "Name": "Collectibles of Chapter V",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_COLL_CH06",
@@ -1478,7 +1483,7 @@
       "Name": "Cowardice",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -1486,7 +1491,7 @@
       "Name": "The Breaking Point",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -1502,7 +1507,7 @@
       "Name": "Heroism",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -1510,7 +1515,7 @@
       "Name": "Consequences",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -1550,23 +1555,23 @@
       "Name": "Broken Hopes",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_FIN_CH11",
       "SetID": "1j25agn",
       "Name": "Sorrow",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_FIN_CH12",
       "SetID": "1j25agn",
       "Name": "Atonement",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_HARD_1",
@@ -1622,7 +1627,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -1638,7 +1643,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -1646,7 +1651,7 @@
       "Name": "It\u0027s Just an Accident",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_KILL_FRAG",
@@ -1662,7 +1667,7 @@
       "Name": "Eat Lead!",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -1676,9 +1681,9 @@
       "ID": "ACH_KILL_SNIPER",
       "SetID": "1j25agn",
       "Name": "Sniper Wolf",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -1686,7 +1691,7 @@
       "Name": "King of Knives",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_NEST1",
@@ -1694,7 +1699,7 @@
       "Name": "Bullseye!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_NEST2",
@@ -1725,15 +1730,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 445,
+      "Progressed": 446,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-08-04T17:06:03.5101857+00:00",
+  "LastChanged_Achievements": "2023-08-04T18:05:32.1754547+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:12.2817401+00:00",
-  "LastUpdate_Ratings": "2023-08-04T16:58:12.6727285+00:00",
-  "LastUpdate_Achievements": "2023-08-04T17:06:03.5102464+00:00"
+  "LastUpdate_Ratings": "2023-08-04T17:57:57.976255+00:00",
+  "LastUpdate_Achievements": "2023-08-04T18:05:32.1755088+00:00"
 }

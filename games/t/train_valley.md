@@ -6,33 +6,33 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 77.00% | ~326 |
-| Close call! | 72.00% | ~305 |
-| Builder | 53.00% | ~225 |
-| Pangs of conscience | 46.00% | ~195 |
-| Living it large! | 43.00% | ~182 |
-| Collector | 42.00% | ~178 |
+| Getting started | 77.00% | ~327 |
+| Close call! | 72.00% | ~306 |
+| Builder | 52.00% | ~221 |
+| Pangs of conscience | 46.00% | ~196 |
+| Living it large! | 43.00% | ~183 |
+| Collector | 41.00% | ~174 |
 | Need to think | 41.00% | ~174 |
 | Completely nuts! | 37.00% | ~157 |
 | Just in time! | 32.00% | ~136 |
-| Europe | 30.00% | ~127 |
-| It's no coincidence. | 29.00% | ~123 |
-| Madness! | 26.00% | ~110 |
+| Europe | 30.00% | ~128 |
+| It's no coincidence. | 28.00% | ~119 |
+| Madness! | 27.00% | ~115 |
 | Philatelist | 25.00% | ~106 |
 | Let's roll! | 25.00% | ~106 |
-| Non Stop! | 25.00% | ~106 |
 | Ouroboros | 24.00% | ~102 |
+| Non Stop! | 24.00% | ~102 |
 | Foreman | 21.00% | ~89 |
 | Missed it! | 19.00% | ~81 |
 | Russia | 17.00% | ~72 |
 | Sabotage | 17.00% | ~72 |
 | America | 16.00% | ~68 |
-| Woodcutter | 10.00% | ~42 |
+| Woodcutter | 11.00% | ~47 |
 | Engineer | 10.00% | ~42 |
 | Achtung! | 10.00% | ~42 |
 | Japan | 9.00% | ~38 |
 | Tycoon | 8.00% | ~34 |
-| Germany | 6.00% | ~25 |
+| Germany | 6.00% | ~26 |
 | Chuck Norris | 5.00% | ~21 |
 | Сhancellor | 4.00% | ~17 |
 | Peacemaker | 4.00% | ~17 |
@@ -40,13 +40,13 @@ Number of Ratings: 28  (23.09.2022)
 | Forgotten | 3.00% | ~13 |
 | Lucky vandal | 2.00% | ~8 |
 | BBQ | 0.70% | ~3 |
+| Salesman | 0.70% | ~3 |
 | Vandal | 0.50% | ~2 |
 | Mega-railroad | 0.50% | ~2 |
 | Juggler | 0.50% | ~2 |
 | Maniac vandal | 0.50% | ~2 |
-| Salesman | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 424 (Ranked 231)  
+Progressed: 425 (Ranked 231)  
 Completed: 2 (0.47%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 2 (0.47%) (Ranked 139)
 | 2023-08-01 | 413 | 2 |
 | 2023-08-02 | 419 | 2 |
 | 2023-08-03 | 422 | 2 |
-| 2023-08-04 | 424 | 2 |
+| 2023-08-04 | 425 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

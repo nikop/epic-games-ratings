@@ -4,11 +4,11 @@
   "ProductSlug": "a-plague-tale-requiem",
   "Ranking_Rating": 160,
   "Ranking_Popularity": 209,
-  "Ranking_PopularitySum": 289,
+  "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -6888,9 +6888,9 @@
       "ID": "ACH_28",
       "SetID": "9d4cf4c",
       "Name": "Alchemist",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8441
+      "UsersEstimate": 8567
     },
     {
       "ID": "ACH_29",
@@ -6961,8 +6961,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-08-04T17:03:56.9899482+00:00",
+  "LastChanged_Achievements": "2023-08-04T18:03:46.8945707+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:06.5960214+00:00",
-  "LastUpdate_Ratings": "2023-08-04T17:00:15.7621527+00:00",
-  "LastUpdate_Achievements": "2023-08-04T17:03:56.9900161+00:00"
+  "LastUpdate_Ratings": "2023-08-04T17:59:36.1438571+00:00",
+  "LastUpdate_Achievements": "2023-08-04T18:03:46.8946846+00:00"
 }

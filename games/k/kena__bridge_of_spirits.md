@@ -6,19 +6,19 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~405,833 |
-| Haikyo | 80.00% | ~341,754 |
-| Good as New | 72.00% | ~307,579 |
-| Into the Woods | 69.00% | ~294,763 |
+| Found a Friend | 95.00% | ~405,834 |
+| Haikyo | 80.00% | ~341,755 |
+| Good as New | 72.00% | ~307,580 |
+| Into the Woods | 69.00% | ~294,764 |
 | Hunter in the Forest | 60.00% | ~256,316 |
 | Rot Commander | 60.00% | ~256,316 |
-| Taro's Fear | 56.00% | ~239,228 |
+| Taro's Fear | 56.00% | ~239,229 |
 | Between the Eyes | 46.00% | ~196,509 |
 | Taro's Love | 45.00% | ~192,237 |
 | Taro's Regret | 43.00% | ~183,693 |
 | Spirit Guide | 42.00% | ~179,421 |
-| Harness Your Power | 38.00% | ~162,333 |
-| The Open Range | 37.00% | ~158,061 |
+| Harness Your Power | 38.00% | ~162,334 |
+| The Open Range | 37.00% | ~158,062 |
 | Adira's Love | 34.00% | ~145,246 |
 | Adira's Fear | 32.00% | ~136,702 |
 | Weigh Them Down | 31.00% | ~132,430 |
@@ -36,7 +36,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Say Cheese | 16.00% | ~68,351 |
 | Skillful Spirit Guide | 15.00% | ~64,079 |
 | Piercing Blow | 14.00% | ~59,807 |
-| Zen Master | 8.00% | ~34,175 |
+| Zen Master | 8.00% | ~34,176 |
 | Curse Collector | 7.00% | ~29,904 |
 | The Last Stop | 7.00% | ~29,904 |
 | Hat Collector | 4.00% | ~17,088 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,845 |
 | Master Spirit Guide | 0.30% | ~1,282 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427,193 (Ranked 39)  
+Progressed: 427,194 (Ranked 39)  
 Completed: 524 (0.12%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 524 (0.12%) (Ranked 189)
 | 2023-08-01 | 427,139 | 524 |
 | 2023-08-02 | 427,158 | 524 |
 | 2023-08-03 | 427,174 | 524 |
-| 2023-08-04 | 427,193 | 524 |
+| 2023-08-04 | 427,194 | 524 |
 ## Awards
 Max (Great Boss Battles): 1,311  (Ranked 129)  
 Sum: 1,687 (Ranked 207)  

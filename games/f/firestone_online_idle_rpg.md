@@ -27,12 +27,12 @@ Rating: 4.06 (Ranked 913)
 | Natural Talent | 13.00% | ~229 |
 | Superior | 13.00% | ~229 |
 | The Unstoppable | 13.00% | ~229 |
+| Doing My Part | 11.00% | ~194 |
 | Hunter | 11.00% | ~194 |
 | Scientist | 11.00% | ~194 |
 | The power of Awakening | 11.00% | ~194 |
 | Challenger | 10.00% | ~176 |
 | Daily Quest Completionist | 10.00% | ~176 |
-| Doing My Part | 10.00% | ~176 |
 | Four Leaf Clover | 10.00% | ~176 |
 | Frostfire Liberator | 10.00% | ~176 |
 | Mastery | 10.00% | ~176 |

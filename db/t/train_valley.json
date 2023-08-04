@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -105,9 +105,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 424,
+  "EOS_Progressed": 425,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -800,6 +800,11 @@
       "Time": "2023-08-04T15:04:27.2849571+00:00",
       "NumProgressed": 424,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-04T18:04:31.041208+00:00",
+      "NumProgressed": 425,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -811,15 +816,15 @@
       "Name": "Getting started",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "02_collector",
       "SetID": "chb1m60",
       "Name": "Collector",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 174
     },
     {
       "ID": "03_philatelist",
@@ -843,7 +848,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "06_living",
@@ -851,7 +856,7 @@
       "Name": "Living it large!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "07_europe",
@@ -859,7 +864,7 @@
       "Name": "Europe",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "08_america",
@@ -891,7 +896,7 @@
       "Name": "Germany",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "12_roll",
@@ -905,17 +910,17 @@
       "ID": "13_bunkrupt",
       "SetID": "chb1m60",
       "Name": "It\u0027s no coincidence.",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 119
     },
     {
       "ID": "14_woodcutter",
       "SetID": "chb1m60",
       "Name": "Woodcutter",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 47
     },
     {
       "ID": "15_bbq",
@@ -937,9 +942,9 @@
       "ID": "17_builder",
       "SetID": "chb1m60",
       "Name": "Builder",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 225
+      "UsersEstimate": 221
     },
     {
       "ID": "18_foreman",
@@ -987,7 +992,7 @@
       "Name": "Close call!",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "24_mega",
@@ -1025,17 +1030,17 @@
       "ID": "28_nonstop",
       "SetID": "chb1m60",
       "Name": "Non Stop!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 102
     },
     {
       "ID": "29_madness",
       "SetID": "chb1m60",
       "Name": "Madness!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 115
     },
     {
       "ID": "30_completelynuts",
@@ -1113,24 +1118,24 @@
       "ID": "39_salesman",
       "SetID": "chb1m60",
       "Name": "Salesman",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 424,
+      "Progressed": 425,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-02T17:58:52.5324483+00:00",
-  "LastChanged_Achievements": "2023-08-04T17:04:50.3451762+00:00",
+  "LastChanged_Achievements": "2023-08-04T18:04:31.0412074+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:31.9818041+00:00",
-  "LastUpdate_Ratings": "2023-08-04T16:58:24.0253695+00:00",
-  "LastUpdate_Achievements": "2023-08-04T17:04:50.3452124+00:00"
+  "LastUpdate_Ratings": "2023-08-04T17:58:07.285995+00:00",
+  "LastUpdate_Achievements": "2023-08-04T18:04:31.041263+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,745 |
+| A Brief Tour of the Realms | 4.00% | ~8,746 |
 | Beast Intentions | 3.00% | ~6,559 |
 | Maddening | 2.00% | ~4,373 |
 | The Silken Swamp | 1.00% | ~2,186 |
@@ -39,7 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.60% | ~1,312 |
 | The Mad Wizard | 0.60% | ~1,312 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,109 |
-| Thieves of the Coven | 0.50% | ~924 |
+| Thieves of the Coven | 0.50% | ~925 |
 | Heavy Burden | 0.50% | ~1,093 |
 | Friends of the Forest | 0.50% | ~1,093 |
 | Low Initiative | 0.50% | ~1,093 |
@@ -50,12 +50,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.50% | ~1,093 |
 | The Botched Kidnapping | 0.50% | ~1,093 |
 | The Ring of Regeneration | 0.50% | ~1,093 |
-| Not That Type of Helm! | 0.50% | ~924 |
-| Calcryx Tricks | 0.50% | ~924 |
-| Goblin Halls: the Next Generation | 0.50% | ~924 |
-| Bazaar Companions | 0.50% | ~924 |
-| Bahamut's Army | 0.50% | ~924 |
-| Krux's Speed Run | 0.50% | ~924 |
+| Not That Type of Helm! | 0.50% | ~925 |
+| Calcryx Tricks | 0.50% | ~925 |
+| Goblin Halls: the Next Generation | 0.50% | ~925 |
+| Bazaar Companions | 0.50% | ~925 |
+| Bahamut's Army | 0.50% | ~925 |
+| Krux's Speed Run | 0.50% | ~925 |
 | Upholding the Law | 0.40% | ~875 |
 | Hither of the Feywild | 0.40% | ~740 |
 | Speeds of Destruction | 0.40% | ~740 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,626 (Ranked 53)  
+Progressed: 218,642 (Ranked 53)  
 Completed: 2,151 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -625,7 +625,7 @@ Completed: 2,151 (0.98%) (Ranked 113)
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
-| 2023-08-04 | 218,626 | 2,151 |
+| 2023-08-04 | 218,642 | 2,151 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,895 (Ranked 38)  

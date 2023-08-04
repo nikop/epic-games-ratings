@@ -5527,9 +5527,9 @@
       "ID": "Ach038",
       "SetID": "12n4k20",
       "Name": "I\u0027m not done with you yet",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "Ach039",
@@ -5814,8 +5814,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-08-04T17:04:46.8839038+00:00",
+  "LastChanged_Achievements": "2023-08-04T18:04:28.4232055+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:25.5055416+00:00",
-  "LastUpdate_Ratings": "2023-08-04T16:59:19.8107694+00:00",
-  "LastUpdate_Achievements": "2023-08-04T17:04:46.8840178+00:00"
+  "LastUpdate_Ratings": "2023-08-04T17:58:52.9386652+00:00",
+  "LastUpdate_Achievements": "2023-08-04T18:04:28.423325+00:00"
 }
