@@ -13,7 +13,7 @@ Rating: 4.65 (Ranked 297)
 | History Check | 53.00% | ~311 |
 | A Method To His Madness | 53.00% | ~311 |
 | The New World | 49.00% | ~287 |
-| Open Sesame | 48.00% | ~281 |
+| Open Sesame | 49.00% | ~287 |
 | Sticky Fingers | 48.00% | ~281 |
 | Knives Out | 48.00% | ~281 |
 | Lock, Stock, And Barrel | 47.00% | ~275 |

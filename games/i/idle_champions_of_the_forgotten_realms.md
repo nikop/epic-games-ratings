@@ -8,7 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,745 |
 | Beast Intentions | 3.00% | ~6,559 |
-| Maddening | 2.00% | ~4,372 |
+| Maddening | 2.00% | ~4,373 |
 | The Silken Swamp | 1.00% | ~2,186 |
 | Supply Run | 1.00% | ~2,186 |
 | Vecna Lives! | 1.00% | ~1,849 |
@@ -56,33 +56,33 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.50% | ~924 |
 | Bahamut's Army | 0.50% | ~924 |
 | Krux's Speed Run | 0.50% | ~924 |
-| Upholding the Law | 0.40% | ~874 |
+| Upholding the Law | 0.40% | ~875 |
 | Hither of the Feywild | 0.40% | ~740 |
 | Speeds of Destruction | 0.40% | ~740 |
-| On the Hunt | 0.40% | ~874 |
+| On the Hunt | 0.40% | ~875 |
 | Best Thay Ever | 0.40% | ~740 |
 | A Demi-god's Defender | 0.40% | ~740 |
-| Homecoming | 0.40% | ~874 |
-| The Lost Heir of Omu | 0.40% | ~874 |
+| Homecoming | 0.40% | ~875 |
+| The Lost Heir of Omu | 0.40% | ~875 |
 | No One Can Hear You Scream | 0.40% | ~740 |
 | Welcome to the Rock | 0.40% | ~740 |
-| The Forbidden City | 0.40% | ~874 |
-| Wisdom Check | 0.40% | ~874 |
-| Family Entanglements | 0.40% | ~874 |
-| Tower on the Lake | 0.40% | ~874 |
-| The Crumbling Temple | 0.40% | ~874 |
-| Seeking Allies | 0.40% | ~874 |
-| Are Ya Chicken? | 0.40% | ~874 |
-| Useless Allies | 0.40% | ~874 |
-| Mad Cow Disease | 0.40% | ~874 |
-| Exploring Port Nyanzaru | 0.40% | ~874 |
-| Running of the Saurs | 0.40% | ~874 |
-| Escort to Waterdeep | 0.40% | ~874 |
-| Waterdeep Detours | 0.40% | ~874 |
-| Underdeep Cartography | 0.40% | ~874 |
-| Friendly Imps | 0.40% | ~874 |
-| Overdue Rendezvous | 0.40% | ~874 |
-| Pure Energy | 0.40% | ~874 |
+| The Forbidden City | 0.40% | ~875 |
+| Wisdom Check | 0.40% | ~875 |
+| Family Entanglements | 0.40% | ~875 |
+| Tower on the Lake | 0.40% | ~875 |
+| The Crumbling Temple | 0.40% | ~875 |
+| Seeking Allies | 0.40% | ~875 |
+| Are Ya Chicken? | 0.40% | ~875 |
+| Useless Allies | 0.40% | ~875 |
+| Mad Cow Disease | 0.40% | ~875 |
+| Exploring Port Nyanzaru | 0.40% | ~875 |
+| Running of the Saurs | 0.40% | ~875 |
+| Escort to Waterdeep | 0.40% | ~875 |
+| Waterdeep Detours | 0.40% | ~875 |
+| Underdeep Cartography | 0.40% | ~875 |
+| Friendly Imps | 0.40% | ~875 |
+| Overdue Rendezvous | 0.40% | ~875 |
+| Pure Energy | 0.40% | ~875 |
 | Devilishly Cold | 0.40% | ~740 |
 | Luigi After Hours | 0.40% | ~740 |
 | Electric Mayhem | 0.40% | ~740 |
@@ -99,6 +99,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Distance | 0.30% | ~555 |
 | The Castle of a Thousand Vecnas | 0.30% | ~555 |
 | The Sanctum of the Sword | 0.30% | ~555 |
+| Get Back In The Castle | 0.30% | ~555 |
 | Who Lurks Below? | 0.30% | ~555 |
 | Xanathaaaaaaar! | 0.30% | ~555 |
 | Captured! | 0.30% | ~656 |
@@ -117,6 +118,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Domesticated Owlbears | 0.30% | ~656 |
 | The Immortal Warrior | 0.30% | ~656 |
 | The Wyrmheart Mine | 0.30% | ~656 |
+| Seeds of Deceit | 0.30% | ~656 |
 | Trollskull Manor | 0.30% | ~656 |
 | Attack on the Manor | 0.30% | ~656 |
 | The Death Curse | 0.30% | ~656 |
@@ -170,7 +172,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Avernus in a Handbasket | 0.20% | ~370 |
 | Hands Off! | 0.20% | ~370 |
 | Weak Doesn't Mean Feeble | 0.20% | ~370 |
-| Get Back In The Castle | 0.20% | ~370 |
 | Checkmate | 0.20% | ~370 |
 | Vecna Out! | 0.20% | ~370 |
 | Clowning Around | 0.20% | ~370 |
@@ -187,7 +188,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thine Bounty is Mine! | 0.20% | ~370 |
 | This Quest Stinks! | 0.20% | ~370 |
 | Hold for the Red Wizards | 0.20% | ~437 |
-| Seeds of Deceit | 0.20% | ~437 |
 | The Gargoyle's Apprentice | 0.20% | ~437 |
 | House of Darkness | 0.20% | ~437 |
 | The Trepidatious Trio | 0.20% | ~437 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,620 (Ranked 53)  
+Progressed: 218,626 (Ranked 53)  
 Completed: 2,151 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -625,7 +625,7 @@ Completed: 2,151 (0.98%) (Ranked 113)
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
-| 2023-08-04 | 218,620 | 2,151 |
+| 2023-08-04 | 218,626 | 2,151 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,895 (Ranked 38)  

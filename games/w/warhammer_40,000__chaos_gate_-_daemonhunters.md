@@ -18,7 +18,7 @@ Number of Ratings: 371  (23.09.2022)
 | Friendly Fire | 1.00% | ~31 |
 | A Foul Creche | 1.00% | ~31 |
 | Honoured Battle-Brother | 0.80% | ~25 |
-| The Emperor Protects | 0.70% | ~22 |
+| The Emperor Protects | 0.80% | ~25 |
 | Nemesis Master | 0.60% | ~19 |
 | Gunmaster | 0.60% | ~19 |
 | Just a Scratch | 0.60% | ~19 |
@@ -30,6 +30,7 @@ Number of Ratings: 371  (23.09.2022)
 | Mind Like a Fortress | 0.30% | ~9 |
 | Efficient Killer | 0.30% | ~9 |
 | Only in Death | 0.30% | ~9 |
+| A Gift Spurned | 0.30% | ~9 |
 | Long Distance Call | 0.30% | ~9 |
 | Tactical Sabotage | 0.30% | ~9 |
 | Patron of Deimos | 0.20% | ~6 |
@@ -38,7 +39,6 @@ Number of Ratings: 371  (23.09.2022)
 | Strike Force | 0.20% | ~6 |
 | Exterminator | 0.20% | ~6 |
 | Junk Banishment | 0.20% | ~6 |
-| A Gift Spurned | 0.20% | ~6 |
 | Death Comes For All | 0.20% | ~6 |
 | Tactical Flexibility | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |

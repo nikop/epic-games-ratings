@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3194,9 +3194,9 @@
       "ID": "MasterCraftLevel3_Armour",
       "SetID": "3jha1np",
       "Name": "The Emperor Protects",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -3354,9 +3354,9 @@
       "ID": "ReaperDefeated_Poxus",
       "SetID": "3jha1np",
       "Name": "A Gift Spurned",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -3488,8 +3488,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-04T03:59:32.5294271+00:00",
-  "LastChanged_Achievements": "2023-08-04T16:05:33.62391+00:00",
+  "LastChanged_Achievements": "2023-08-04T17:04:57.0970228+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:36.2653351+00:00",
-  "LastUpdate_Ratings": "2023-08-04T16:00:21.8035006+00:00",
-  "LastUpdate_Achievements": "2023-08-04T16:05:33.6239936+00:00"
+  "LastUpdate_Ratings": "2023-08-04T16:59:31.706519+00:00",
+  "LastUpdate_Achievements": "2023-08-04T17:04:57.0971299+00:00"
 }

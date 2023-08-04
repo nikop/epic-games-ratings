@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16919,
+  "EOS_Progressed": 16920,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -9001,6 +9001,11 @@
       "Time": "2023-08-04T16:02:33.1543991+00:00",
       "NumProgressed": 16919,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-08-04T17:01:23.1500439+00:00",
+      "NumProgressed": 16920,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 14,
@@ -9012,7 +9017,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 13366
+      "UsersEstimate": 13367
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -9068,7 +9073,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 8967
+      "UsersEstimate": 8968
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -9084,7 +9089,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -9092,7 +9097,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 4737
+      "UsersEstimate": 4738
     },
     {
       "ID": "ACH_THE_FALL",
@@ -9100,7 +9105,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3045
+      "UsersEstimate": 3046
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -9123,15 +9128,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 16919,
+      "Progressed": 16920,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-08-04T16:02:33.1543983+00:00",
+  "LastChanged_Achievements": "2023-08-04T17:01:23.1500428+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:19.368117+00:00",
-  "LastUpdate_Ratings": "2023-08-04T16:02:23.7998308+00:00",
-  "LastUpdate_Achievements": "2023-08-04T16:02:33.1544985+00:00"
+  "LastUpdate_Ratings": "2023-08-04T17:01:15.5471706+00:00",
+  "LastUpdate_Achievements": "2023-08-04T17:01:23.1501076+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~648 |
-| My little farm | 65.00% | ~520 |
-| Every beginning is difficult | 62.00% | ~496 |
-| 3, 2, 1, mine | 56.00% | ~448 |
-| Gofer | 56.00% | ~448 |
-| Seafarer | 54.00% | ~432 |
-| O Captain! My Captain! | 53.00% | ~424 |
+| Cabin boy | 81.00% | ~649 |
+| My little farm | 65.00% | ~521 |
+| Every beginning is difficult | 62.00% | ~497 |
+| 3, 2, 1, mine | 56.00% | ~449 |
+| Gofer | 56.00% | ~449 |
+| Seafarer | 54.00% | ~433 |
+| O Captain! My Captain! | 53.00% | ~425 |
 | Greed for gold | 43.00% | ~344 |
 | Intangible | 41.00% | ~328 |
 | I'm out of here for a while | 41.00% | ~328 |
@@ -22,13 +22,13 @@ Number of Ratings: 53  (23.09.2022)
 | Megalomania | 29.00% | ~232 |
 | Collectionitis | 28.00% | ~224 |
 | Christening | 27.00% | ~216 |
-| Groundskeeper | 26.00% | ~208 |
+| Groundskeeper | 25.00% | ~200 |
 | Wholesale | 22.00% | ~176 |
 | Walk the plank | 20.00% | ~160 |
 | Pearly gates | 17.00% | ~136 |
 | My precious! | 17.00% | ~136 |
 | Conquistador | 13.00% | ~104 |
-| Panic buying | 12.00% | ~96 |
+| Panic buying | 11.00% | ~88 |
 | Just a scratch | 9.00% | ~72 |
 | Your vessel, my vessel | 9.00% | ~72 |
 | All mine! | 8.00% | ~64 |
@@ -37,8 +37,8 @@ Number of Ratings: 53  (23.09.2022)
 | Maker | 7.00% | ~56 |
 | Conglomerate | 6.00% | ~48 |
 | Buccaneer | 5.00% | ~40 |
-| Flying Dutchman | 5.00% | ~40 |
 | The Grande Bouffe | 5.00% | ~40 |
+| Flying Dutchman | 4.00% | ~32 |
 | Premier Maître | 3.00% | ~24 |
 | Supreme conqueror | 3.00% | ~24 |
 | A true pirate! | 3.00% | ~24 |
@@ -48,16 +48,16 @@ Number of Ratings: 53  (23.09.2022)
 | Master & Commander | 2.00% | ~16 |
 | All aboard! | 2.00% | ~16 |
 | Gold fever | 2.00% | ~16 |
-| Fill it up, please! | 2.00% | ~16 |
+| Fill it up, please! | 1.00% | ~8 |
 | Raiders of the Lost Ark | 0.90% | ~7 |
 | Traffic chaos | 0.90% | ~7 |
-| Capitalist | 0.80% | ~6 |
-| Administrator | 0.80% | ~6 |
-| Parlay? | 0.80% | ~6 |
+| Capitalist | 0.70% | ~6 |
+| Administrator | 0.70% | ~6 |
+| Parlay? | 0.70% | ~6 |
 | Fleet Admiral | 0.50% | ~4 |
-| Davy Jones' locker | 0.30% | ~2 |
+| Davy Jones' locker | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 800 (Ranked 203)  
+Progressed: 801 (Ranked 203)  
 Completed: 1 (0.12%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 1 (0.12%) (Ranked 189)
 | 2023-08-01 | 791 | 1 |
 | 2023-08-02 | 796 | 1 |
 | 2023-08-03 | 799 | 1 |
-| 2023-08-04 | 800 | 1 |
+| 2023-08-04 | 801 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

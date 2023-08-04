@@ -22,8 +22,8 @@
 | Fighting is cool | 67.00% | ~147 |
 | Pal of your father? | 64.00% | ~141 |
 | Spirit of the past | 62.00% | ~136 |
-| Employee of the month | 61.00% | ~134 |
-| Law student | 59.00% | ~130 |
+| Employee of the month | 62.00% | ~136 |
+| Law student | 60.00% | ~132 |
 | Intriguing candies | 58.00% | ~128 |
 | Little hacker | 57.00% | ~125 |
 | Workout professional | 55.00% | ~121 |

@@ -86,6 +86,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.40% | ~53 |
 | Lion | 0.40% | ~53 |
 | Mighty | 0.40% | ~53 |
+| Subjugator | 0.40% | ~53 |
 | Victorious | 0.40% | ~53 |
 | Riders | 0.40% | ~53 |
 | Hittite Iron | 0.40% | ~53 |
@@ -110,7 +111,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.30% | ~40 |
 | Invincible | 0.30% | ~40 |
 | Ready | 0.30% | ~40 |
-| Subjugator | 0.30% | ~40 |
 | Strong Difficulty | 0.30% | ~40 |
 | Clerics | 0.30% | ~40 |
 | Hunters | 0.30% | ~40 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,266 (Ranked 117)  
+Progressed: 13,268 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,7 +409,7 @@ Completed: 5 (0.04%) (Ranked 219)
 | 2023-08-01 | 13,228 | 5 |
 | 2023-08-02 | 13,244 | 5 |
 | 2023-08-03 | 13,260 | 5 |
-| 2023-08-04 | 13,266 | 5 |
+| 2023-08-04 | 13,268 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 264)  
 Sum: 1,786 (Ranked 206)  

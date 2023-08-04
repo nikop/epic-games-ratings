@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 359,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 6.13,
   "EosHistory": [
@@ -1260,9 +1260,9 @@
       "ID": "AmanitaRun",
       "SetID": "db30heh",
       "Name": "Wild Run",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 169
     },
     {
       "ID": "BasiliskBroom",
@@ -1276,9 +1276,9 @@
       "ID": "BasiliskFishingRod",
       "SetID": "db30heh",
       "Name": "Fishing Prop",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "BearBroom",
@@ -1300,9 +1300,9 @@
       "ID": "BearPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Sleeping Potion",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "BearRum",
@@ -1460,9 +1460,9 @@
       "ID": "KingDiamond",
       "SetID": "db30heh",
       "Name": "King\u0027s Jewel",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 140
+      "UsersEstimate": 144
     },
     {
       "ID": "PitSoul",
@@ -1508,9 +1508,9 @@
       "ID": "PriestRum",
       "SetID": "db30heh",
       "Name": "Rummy",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 133
     },
     {
       "ID": "Priestess",
@@ -1524,9 +1524,9 @@
       "ID": "PrincessThrone",
       "SetID": "db30heh",
       "Name": "New Order",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 61
     },
     {
       "ID": "RogueChest",
@@ -1556,9 +1556,9 @@
       "ID": "RogueNaked",
       "SetID": "db30heh",
       "Name": "The King is Naked",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 65
     },
     {
       "ID": "RogueRum",
@@ -1604,9 +1604,9 @@
       "ID": "SwordMoneyBag",
       "SetID": "db30heh",
       "Name": "Expensive Deal",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 140
+      "UsersEstimate": 144
     },
     {
       "ID": "WormGrilled",
@@ -1627,8 +1627,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-04T16:07:36.5637525+00:00",
+  "LastChanged_Achievements": "2023-08-04T17:06:41.5138484+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-04T15:57:57.2741151+00:00",
-  "LastUpdate_Achievements": "2023-08-04T16:07:36.5637974+00:00"
+  "LastUpdate_Ratings": "2023-08-04T16:57:28.7129083+00:00",
+  "LastUpdate_Achievements": "2023-08-04T17:06:41.5138896+00:00"
 }

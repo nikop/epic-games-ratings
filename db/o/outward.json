@@ -4182,9 +4182,9 @@
       "ID": "TheAbsolutePinnacle",
       "SetID": "c4hee28",
       "Name": "The Absolute Pinnacle.",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "TheBloodIsLife_54",
@@ -4294,8 +4294,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-08-04T16:03:27.5078597+00:00",
+  "LastChanged_Achievements": "2023-08-04T17:03:18.1743954+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.443387+00:00",
-  "LastUpdate_Ratings": "2023-08-04T15:59:20.3561094+00:00",
-  "LastUpdate_Achievements": "2023-08-04T16:03:27.5079079+00:00"
+  "LastUpdate_Ratings": "2023-08-04T16:58:38.7612752+00:00",
+  "LastUpdate_Achievements": "2023-08-04T17:03:18.1744522+00:00"
 }

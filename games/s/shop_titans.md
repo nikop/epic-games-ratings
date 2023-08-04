@@ -18,6 +18,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Some Assembly Required | 0.30% | ~402 |
 | Another Satisfied Customer | 0.30% | ~402 |
 | Pretty Penny | 0.30% | ~402 |
+| One-Armed Bandit | 0.30% | ~402 |
 | Through Repetition, Perfection | 0.30% | ~402 |
 | Own the Means of Production | 0.30% | ~402 |
 | The Daily Grind | 0.20% | ~268 |
@@ -37,7 +38,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gem Expert | 0.20% | ~268 |
 | Gild-Gotten Goods | 0.20% | ~268 |
 | Helping Hand | 0.20% | ~268 |
-| One-Armed Bandit | 0.20% | ~268 |
 | Accomplished Merchant | 0.20% | ~268 |
 | Dungeon Imports | 0.20% | ~268 |
 | Natural 20 | 0.20% | ~268 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,869 (Ranked 62)  
+Progressed: 133,873 (Ranked 62)  
 Completed: 128 (0.10%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 128 (0.10%) (Ranked 196)
 | 2023-08-01 | 133,708 | 125 |
 | 2023-08-02 | 133,764 | 126 |
 | 2023-08-03 | 133,815 | 128 |
-| 2023-08-04 | 133,869 | 128 |
+| 2023-08-04 | 133,873 | 128 |
 ## Awards
 Max (Great for Beginners): 4,686  (Ranked 70)  
 Sum: 27,041 (Ranked 46)  

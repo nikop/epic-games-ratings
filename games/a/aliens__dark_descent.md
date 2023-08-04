@@ -21,7 +21,7 @@ Rating: 4.44 (Ranked 646)
 | Making a Stand | 42.00% | ~1,301 |
 | Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,270 |
 | Where It All Begun | 38.00% | ~1,177 |
-| Recouped Investment | 37.00% | ~1,146 |
+| Recouped Investment | 38.00% | ~1,177 |
 | Omelette Du Fromage | 33.00% | ~1,022 |
 | Living Nightmare | 31.00% | ~960 |
 | The More The Merrier | 31.00% | ~960 |

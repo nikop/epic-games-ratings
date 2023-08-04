@@ -4,7 +4,7 @@
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -116,9 +116,9 @@
       "ID": "Beat_Game_100",
       "SetID": "4f0g260",
       "Name": "God of the Tower!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Beat_Game_BK",
@@ -292,25 +292,25 @@
       "ID": "Find_Secret_Ending1",
       "SetID": "4f0g260",
       "Name": "Fly, you fool!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Get_100_Item_Completion",
       "SetID": "4f0g260",
       "Name": "Relic Collector",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Get_100_Map_Completion",
       "SetID": "4f0g260",
       "Name": "Cartographer",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Unlock_All_Secrets",
@@ -349,8 +349,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-08-04T16:03:19.455092+00:00",
+  "LastChanged_Achievements": "2023-08-04T17:03:11.5571278+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.0042283+00:00",
-  "LastUpdate_Ratings": "2023-08-04T15:59:53.6631995+00:00",
-  "LastUpdate_Achievements": "2023-08-04T16:03:19.4551167+00:00"
+  "LastUpdate_Ratings": "2023-08-04T16:59:07.6227039+00:00",
+  "LastUpdate_Achievements": "2023-08-04T17:03:11.5571514+00:00"
 }

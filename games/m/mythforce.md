@@ -17,20 +17,20 @@ Number of Ratings: 285  (23.09.2022)
 | Mushroom Madness! | 2.00% | ~12 |
 | Perk Shard Punch Card | 2.00% | ~12 |
 | Season Finale | 2.00% | ~12 |
+| Ten Steps from the Grave | 2.00% | ~12 |
 | Cold-Blooded Critters | 1.00% | ~6 |
 | The Harder They Fall | 1.00% | ~6 |
 | Horder Better Faster Stronger | 1.00% | ~6 |
 | Next Time on MythForce... | 1.00% | ~6 |
 | On this Episode! | 1.00% | ~6 |
 | Spending Spree | 1.00% | ~6 |
-| Ten Steps from the Grave | 1.00% | ~6 |
-| The Fourth Gate | 0.90% | ~5 |
+| The Fourth Gate | 0.80% | ~5 |
 | Everything Must Go! | 0.70% | ~4 |
 | We've Got a Kaiju on the Field | 0.20% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 587 (Ranked 217)  
+Progressed: 589 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 0 (0.00%) (Ranked 248)
 | 2023-08-01 | 525 | 0 |
 | 2023-08-02 | 552 | 0 |
 | 2023-08-03 | 573 | 0 |
-| 2023-08-04 | 587 | 0 |
+| 2023-08-04 | 589 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 451)  
 Sum: 226 (Ranked 355)  

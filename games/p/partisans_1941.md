@@ -21,7 +21,7 @@ Number of Ratings: 98  (23.09.2022)
 | Your Answer | 12.00% | ~150 |
 | The Big Bertha | 10.00% | ~125 |
 | Game Over | 8.00% | ~100 |
-| Lock, Stock | 6.00% | ~75 |
+| Lock, Stock | 7.00% | ~88 |
 | Payback Time | 6.00% | ~75 |
 | No Witness | 4.00% | ~50 |
 | Strategist | 3.00% | ~38 |

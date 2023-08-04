@@ -4,7 +4,7 @@
   "ProductSlug": "mega-city-police-22a245",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-07-28T14:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 29,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -382,8 +382,8 @@
   ],
   "FirstSeen": "2023-07-30T18:59:40.5539908+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2023-08-04T16:06:58.0653239+00:00",
+  "LastChanged_Achievements": "2023-08-04T17:06:08.8301673+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:40.3156912+00:00",
-  "LastUpdate_Ratings": "2023-08-04T16:00:31.0021153+00:00",
-  "LastUpdate_Achievements": "2023-08-04T16:06:58.0653504+00:00"
+  "LastUpdate_Ratings": "2023-08-04T16:59:39.2829965+00:00",
+  "LastUpdate_Achievements": "2023-08-04T17:06:08.8301867+00:00"
 }

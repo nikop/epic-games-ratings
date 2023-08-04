@@ -1575,9 +1575,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13266,
+  "EOS_Progressed": 13268,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9120,6 +9120,11 @@
       "Time": "2023-08-04T14:03:10.764515+00:00",
       "NumProgressed": 13266,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-04T17:03:08.5939629+00:00",
+      "NumProgressed": 13268,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -9769,9 +9774,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
       "SetID": "9201eeb",
       "Name": "Subjugator",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -11498,21 +11503,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13266,
+      "Progressed": 13268,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13266,
+      "Progressed": 13268,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-01T16:59:10.6733314+00:00",
-  "LastChanged_Achievements": "2023-08-04T16:03:15.507488+00:00",
+  "LastChanged_Achievements": "2023-08-04T17:03:08.5939621+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.4550053+00:00",
-  "LastUpdate_Ratings": "2023-08-04T15:59:25.064531+00:00",
-  "LastUpdate_Achievements": "2023-08-04T16:03:15.5084529+00:00"
+  "LastUpdate_Ratings": "2023-08-04T16:58:42.7484802+00:00",
+  "LastUpdate_Achievements": "2023-08-04T17:03:08.5949508+00:00"
 }

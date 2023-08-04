@@ -5,6 +5,7 @@ Rating: 4.43 (Ranked 658)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Kraken Sleeps | 5.00% | ~170 |
 | Liberté | 4.00% | ~136 |
 | Meeting Resistance | 4.00% | ~136 |
 | Sharpshooter | 4.00% | ~136 |
@@ -17,7 +18,6 @@ Rating: 4.43 (Ranked 658)
 | Change the Channel | 4.00% | ~136 |
 | Taking it back | 4.00% | ~136 |
 | Target America | 4.00% | ~136 |
-| The Kraken Sleeps | 4.00% | ~136 |
 | Climbing the Ladder | 3.00% | ~102 |
 | No Stone Unturned | 3.00% | ~102 |
 | Organ Grinder | 3.00% | ~102 |

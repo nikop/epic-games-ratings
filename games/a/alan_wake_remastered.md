@@ -6,27 +6,27 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,275 |
+| Follow the Light | 37.00% | ~22,276 |
 | Let There Be Light | 29.00% | ~17,459 |
 | Float Like a Butterfly | 28.00% | ~16,857 |
-| Nordic Walking | 23.00% | ~13,846 |
-| Bright Falls' Finest | 22.00% | ~13,244 |
-| Under a Thin Layer of Skin | 19.00% | ~11,438 |
-| Park Ranger | 16.00% | ~9,632 |
-| Paging Mr. Wake | 16.00% | ~9,632 |
-| Back! Back, I Say! | 15.00% | ~9,030 |
-| Finders Keepers | 15.00% | ~9,030 |
-| Damn Good Cup of Coffee | 14.00% | ~8,428 |
-| Wheels Within Wheels | 13.00% | ~7,826 |
-| They're Heeeeeere! | 13.00% | ~7,826 |
-| Sound and Fury | 13.00% | ~7,826 |
-| Missed by a Mile | 13.00% | ~7,826 |
-| Iron Horse | 12.00% | ~7,224 |
-| The Six-Gun Scribe | 12.00% | ~7,224 |
-| Collateral Carnage | 12.00% | ~7,224 |
-| Heavy Metal | 11.00% | ~6,622 |
-| Perchance to Dream | 11.00% | ~6,622 |
-| Come One, Come All | 11.00% | ~6,622 |
+| Nordic Walking | 23.00% | ~13,847 |
+| Bright Falls' Finest | 22.00% | ~13,245 |
+| Under a Thin Layer of Skin | 19.00% | ~11,439 |
+| Park Ranger | 16.00% | ~9,633 |
+| Paging Mr. Wake | 16.00% | ~9,633 |
+| Back! Back, I Say! | 15.00% | ~9,031 |
+| Finders Keepers | 15.00% | ~9,031 |
+| Damn Good Cup of Coffee | 14.00% | ~8,429 |
+| Wheels Within Wheels | 13.00% | ~7,827 |
+| They're Heeeeeere! | 13.00% | ~7,827 |
+| Sound and Fury | 13.00% | ~7,827 |
+| Missed by a Mile | 13.00% | ~7,827 |
+| Iron Horse | 12.00% | ~7,225 |
+| The Six-Gun Scribe | 12.00% | ~7,225 |
+| Collateral Carnage | 12.00% | ~7,225 |
+| Heavy Metal | 11.00% | ~6,623 |
+| Perchance to Dream | 11.00% | ~6,623 |
+| Come One, Come All | 11.00% | ~6,623 |
 | Gatekeeper | 10.00% | ~6,020 |
 | It's Not Just a Typewriter Brand | 10.00% | ~6,020 |
 | Thunder and Lightning | 10.00% | ~6,020 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~60 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,202 (Ranked 84)  
+Progressed: 60,205 (Ranked 84)  
 Completed: 63 (0.10%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 63 (0.10%) (Ranked 196)
 | 2023-08-01 | 59,826 | 61 |
 | 2023-08-02 | 59,999 | 63 |
 | 2023-08-03 | 60,143 | 63 |
-| 2023-08-04 | 60,202 | 63 |
+| 2023-08-04 | 60,205 | 63 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

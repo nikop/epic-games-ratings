@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1760,
+  "EOS_Progressed": 1761,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4717,6 +4717,11 @@
       "Time": "2023-08-04T16:05:07.7347541+00:00",
       "NumProgressed": 1760,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-04T17:04:35.6716896+00:00",
+      "NumProgressed": 1761,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -4840,7 +4845,7 @@
       "Name": "Dragon Master",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "dragonslayer",
@@ -4976,7 +4981,7 @@
       "Name": "Hero inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "howdoyouturnthison",
@@ -5024,7 +5029,7 @@
       "Name": "Lieutenant",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "lockandload",
@@ -5238,17 +5243,17 @@
       "ID": "titanpower",
       "SetID": "3nl4bcg",
       "Name": "Titan Power",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "trader",
       "SetID": "3nl4bcg",
       "Name": "Trader",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 123
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -5288,7 +5293,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "warmachinesarmy",
@@ -5320,14 +5325,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1760,
+      "Progressed": 1761,
       "Completed": 2
     }
   ],
@@ -5335,8 +5340,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-04T03:58:50.3286371+00:00",
-  "LastChanged_Achievements": "2023-08-04T16:05:07.7347537+00:00",
+  "LastChanged_Achievements": "2023-08-04T17:04:35.6716887+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:54.4032931+00:00",
-  "LastUpdate_Ratings": "2023-08-04T15:59:31.7918542+00:00",
-  "LastUpdate_Achievements": "2023-08-04T16:05:07.7348616+00:00"
+  "LastUpdate_Ratings": "2023-08-04T16:58:48.5389497+00:00",
+  "LastUpdate_Achievements": "2023-08-04T17:04:35.671797+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -297,7 +297,7 @@
   "Tags": [],
   "EOS_Progressed": 1250,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2091,9 +2091,9 @@
       "ID": "Double_barrel",
       "SetID": "85nb4h3",
       "Name": "Lock, Stock",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 88
     },
     {
       "ID": "E1M1",
@@ -2267,8 +2267,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-04T16:05:01.4628077+00:00",
+  "LastChanged_Achievements": "2023-08-04T17:04:30.2375072+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:01.8247035+00:00",
-  "LastUpdate_Ratings": "2023-08-04T16:00:55.3823908+00:00",
-  "LastUpdate_Achievements": "2023-08-04T16:05:01.4628537+00:00"
+  "LastUpdate_Ratings": "2023-08-04T17:00:00.8802471+00:00",
+  "LastUpdate_Achievements": "2023-08-04T17:04:30.2375393+00:00"
 }

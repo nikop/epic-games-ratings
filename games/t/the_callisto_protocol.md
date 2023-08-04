@@ -5,7 +5,7 @@ Rating: 4.20 (Ranked 850)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 5.00% | ~790 |
+| Get a Grip | 5.00% | ~791 |
 | Paper Jams | 4.00% | ~632 |
 | Keep Fighting | 4.00% | ~149 |
 | You Need a Gun | 3.00% | ~474 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 850)
 | Don't Let It Mellow | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,810 (Ranked 114)  
+Progressed: 15,811 (Ranked 114)  
 Completed: 71 (0.45%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 71 (0.45%) (Ranked 143)
 | 2023-08-01 | 15,796 | 71 |
 | 2023-08-02 | 15,802 | 71 |
 | 2023-08-03 | 15,805 | 71 |
-| 2023-08-04 | 15,810 | 71 |
+| 2023-08-04 | 15,811 | 71 |
 ## Awards
 Max (Amazing Storytelling): 72  (Ranked 373)  
 Sum: 400 (Ranked 316)  
