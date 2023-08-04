@@ -1,14 +1,14 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 483)  
+Rating: 4.55 (Ranked 484)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 36.00% | ~21,662 |
-| Let There Be Light | 29.00% | ~17,450 |
-| Float Like a Butterfly | 28.00% | ~16,848 |
+| Follow the Light | 36.00% | ~21,663 |
+| Let There Be Light | 29.00% | ~17,451 |
+| Float Like a Butterfly | 28.00% | ~16,849 |
 | Nordic Walking | 22.00% | ~13,238 |
 | Bright Falls' Finest | 22.00% | ~13,238 |
 | Under a Thin Layer of Skin | 19.00% | ~11,433 |
@@ -17,20 +17,20 @@ Number of Ratings: 524  (23.09.2022)
 | Back! Back, I Say! | 15.00% | ~9,026 |
 | Finders Keepers | 15.00% | ~9,026 |
 | Damn Good Cup of Coffee | 14.00% | ~8,424 |
-| Wheels Within Wheels | 13.00% | ~7,822 |
-| They're Heeeeeere! | 13.00% | ~7,822 |
-| Sound and Fury | 13.00% | ~7,822 |
-| Missed by a Mile | 13.00% | ~7,822 |
+| Wheels Within Wheels | 13.00% | ~7,823 |
+| They're Heeeeeere! | 13.00% | ~7,823 |
+| Sound and Fury | 13.00% | ~7,823 |
+| Missed by a Mile | 13.00% | ~7,823 |
 | The Six-Gun Scribe | 12.00% | ~7,221 |
 | Collateral Carnage | 12.00% | ~7,221 |
 | Heavy Metal | 11.00% | ~6,619 |
 | Iron Horse | 11.00% | ~6,619 |
 | Perchance to Dream | 11.00% | ~6,619 |
 | Come One, Come All | 11.00% | ~6,619 |
-| Gatekeeper | 10.00% | ~6,017 |
-| It's Not Just a Typewriter Brand | 10.00% | ~6,017 |
-| Thunder and Lightning | 10.00% | ~6,017 |
-| Two For the Price of One | 10.00% | ~6,017 |
+| Gatekeeper | 10.00% | ~6,018 |
+| It's Not Just a Typewriter Brand | 10.00% | ~6,018 |
+| Thunder and Lightning | 10.00% | ~6,018 |
+| Two For the Price of One | 10.00% | ~6,018 |
 | The Lady of the Light | 9.00% | ~5,416 |
 | Energized! | 9.00% | ~5,416 |
 | What Light Through Yonder Window | 8.00% | ~4,814 |
@@ -38,7 +38,7 @@ Number of Ratings: 524  (23.09.2022)
 | A Friend in Need | 8.00% | ~1,891 |
 | Tornado Wrangler | 7.00% | ~4,212 |
 | Departure | 6.00% | ~3,610 |
-| A Friend Indeed | 6.00% | ~1,418 |
+| A Friend Indeed | 6.00% | ~1,419 |
 | Children of the Elder God | 5.00% | ~3,009 |
 | Drink 'Em Both Up | 5.00% | ~3,009 |
 | Hardboiled Writer | 5.00% | ~3,009 |
@@ -49,13 +49,13 @@ Number of Ratings: 524  (23.09.2022)
 | Carny | 3.00% | ~1,805 |
 | Kill Your Darlings | 3.00% | ~709 |
 | Heartbreaker | 3.00% | ~709 |
-| Medical Opinions | 2.00% | ~1,203 |
-| Taken Season | 2.00% | ~1,203 |
-| An Idyllic Small Town | 2.00% | ~1,203 |
+| Medical Opinions | 2.00% | ~1,204 |
+| Taken Season | 2.00% | ~1,204 |
+| An Idyllic Small Town | 2.00% | ~1,204 |
 | Iron Will | 2.00% | ~473 |
 | Couch Potato | 1.00% | ~602 |
 | Go Gentle Into That Good Light | 1.00% | ~236 |
-| Words Will Never Harm You | 0.70% | ~165 |
+| Words Will Never Harm You | 0.70% | ~166 |
 | Cardboard Companions | 0.60% | ~142 |
 | Fast and Furious | 0.50% | ~118 |
 | Run-On Sentence | 0.40% | ~95 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~60 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,173 (Ranked 84)  
+Progressed: 60,175 (Ranked 84)  
 Completed: 63 (0.10%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 63 (0.10%) (Ranked 195)
 | 2023-08-01 | 59,826 | 61 |
 | 2023-08-02 | 59,999 | 63 |
 | 2023-08-03 | 60,143 | 63 |
-| 2023-08-04 | 60,173 | 63 |
+| 2023-08-04 | 60,175 | 63 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

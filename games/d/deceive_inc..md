@@ -15,7 +15,7 @@ Rating: 4.60 (Ranked 391)
 | For your Eyes only | 18.00% | ~3,032 |
 | Assistant Accountant | 17.00% | ~2,864 |
 | Fully Decked Out | 17.00% | ~2,864 |
-| You Only Live Twice | 16.00% | ~2,695 |
+| You Only Live Twice | 16.00% | ~2,696 |
 | A view to Win | 13.00% | ~2,190 |
 | The Living Portrait | 12.00% | ~2,022 |
 | Private Collection | 12.00% | ~2,022 |
@@ -42,7 +42,7 @@ Rating: 4.60 (Ranked 391)
 | Extraction Confusion | 0.20% | ~34 |
 | Spyfall | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,846 (Ranked 110)  
+Progressed: 16,847 (Ranked 110)  
 Completed: 1 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 1 (0.01%) (Ranked 234)
 | 2023-08-01 | 16,594 | 1 |
 | 2023-08-02 | 16,739 | 1 |
 | 2023-08-03 | 16,824 | 1 |
-| 2023-08-04 | 16,846 | 1 |
+| 2023-08-04 | 16,847 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

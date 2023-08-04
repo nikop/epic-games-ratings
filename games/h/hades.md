@@ -6,12 +6,12 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~623,318 |
+| Escaped Tartarus | 89.00% | ~623,319 |
 | Escaped Asphodel | 80.00% | ~560,286 |
-| Arms Collector | 71.00% | ~497,253 |
+| Arms Collector | 71.00% | ~497,254 |
 | Friends in High Places | 68.00% | ~476,243 |
 | Escaped Elysium | 66.00% | ~462,236 |
-| Chthonic Colleagues | 63.00% | ~441,225 |
+| Chthonic Colleagues | 63.00% | ~441,226 |
 | Is There No Escape? | 52.00% | ~364,186 |
 | Death Dealer | 45.00% | ~315,161 |
 | Skelly Slayer | 42.00% | ~294,150 |
@@ -21,12 +21,12 @@ Number of Ratings: 6,336  (23.09.2022)
 | Blessed by the Gods | 37.00% | ~259,132 |
 | Urge to Sing | 36.00% | ~252,129 |
 | Blood Bound | 35.00% | ~245,125 |
-| Three-Headed Boy | 32.00% | ~224,114 |
+| Three-Headed Boy | 32.00% | ~224,115 |
 | River Denizens | 28.00% | ~196,100 |
 | Grown Close | 28.00% | ~196,100 |
-| Home Makeover | 27.00% | ~189,096 |
-| Had to Happen | 25.00% | ~175,089 |
-| The Family Secret | 25.00% | ~175,089 |
+| Home Makeover | 27.00% | ~189,097 |
+| Had to Happen | 25.00% | ~175,090 |
+| The Family Secret | 25.00% | ~175,090 |
 | Tools of the Architect | 23.00% | ~161,082 |
 | Master of Arms | 23.00% | ~161,082 |
 | To Charon's Credit | 22.00% | ~154,079 |
@@ -37,8 +37,8 @@ Number of Ratings: 6,336  (23.09.2022)
 | Well Versed | 17.00% | ~119,061 |
 | War-God's Bloodlust | 15.00% | ~105,054 |
 | Musician and Muse | 14.00% | ~98,050 |
-| The Useless Trinket | 13.00% | ~91,046 |
-| Champion of Elysium | 13.00% | ~91,046 |
+| The Useless Trinket | 13.00% | ~91,047 |
+| Champion of Elysium | 13.00% | ~91,047 |
 | Slashed Benefits | 12.00% | ~84,043 |
 | Haste of Hermes | 11.00% | ~77,039 |
 | Bad Call | 10.00% | ~70,036 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,014 |
 | Friends Forever | 4.00% | ~28,014 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 700,357 (Ranked 21)  
+Progressed: 700,358 (Ranked 21)  
 Completed: 6,269 (0.90%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 6,269 (0.90%) (Ranked 114)
 | 2023-08-01 | 700,132 | 6,267 |
 | 2023-08-02 | 700,242 | 6,267 |
 | 2023-08-03 | 700,331 | 6,269 |
-| 2023-08-04 | 700,357 | 6,269 |
+| 2023-08-04 | 700,358 | 6,269 |
 ## Awards
 Max (Character Customization): 3,199  (Ranked 90)  
 Sum: 7,748 (Ranked 101)  

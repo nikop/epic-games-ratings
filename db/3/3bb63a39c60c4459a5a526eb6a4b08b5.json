@@ -1507,9 +1507,9 @@
       "ID": "LegendaryTransporter",
       "SetID": "1e89b4i",
       "Name": "Legendary transporter",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 39
     },
     {
       "ID": "LinearNetwork",
@@ -1698,8 +1698,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-04T06:04:18.7179366+00:00",
+  "LastChanged_Achievements": "2023-08-04T07:04:22.2397442+00:00",
   "LastUpdate_AppInfo": "2023-08-01T09:57:03.2842232+00:00",
-  "LastUpdate_Ratings": "2023-08-04T05:57:55.5592917+00:00",
-  "LastUpdate_Achievements": "2023-08-04T06:04:18.7179801+00:00"
+  "LastUpdate_Ratings": "2023-08-04T06:57:59.4589554+00:00",
+  "LastUpdate_Achievements": "2023-08-04T07:04:22.2397899+00:00"
 }

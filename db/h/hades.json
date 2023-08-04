@@ -3931,9 +3931,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 700357,
+  "EOS_Progressed": 700358,
   "EOS_Completed": 6269,
-  "EOS_NewPlayers": 709,
+  "EOS_NewPlayers": 708,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -15161,6 +15161,11 @@
       "Time": "2023-08-04T06:04:56.1306808+00:00",
       "NumProgressed": 700357,
       "NumCompleted": 6269
+    },
+    {
+      "Time": "2023-08-04T07:05:05.6637315+00:00",
+      "NumProgressed": 700358,
+      "NumCompleted": 6269
     }
   ],
   "TotalAchievements": 49,
@@ -15196,7 +15201,7 @@
       "Name": "The Useless Trinket",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 91046
+      "UsersEstimate": 91047
     },
     {
       "ID": "AchBuffedButterfly",
@@ -15220,7 +15225,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 224114
+      "UsersEstimate": 224115
     },
     {
       "ID": "AchClearAnyRun",
@@ -15252,7 +15257,7 @@
       "Name": "Champion of Elysium",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 91046
+      "UsersEstimate": 91047
     },
     {
       "ID": "AchClearHeatGate",
@@ -15276,7 +15281,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 623318
+      "UsersEstimate": 623319
     },
     {
       "ID": "AchCrushedThanatos",
@@ -15372,7 +15377,7 @@
       "Name": "Home Makeover",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 189096
+      "UsersEstimate": 189097
     },
     {
       "ID": "AchManyQuests",
@@ -15380,7 +15385,7 @@
       "Name": "Had to Happen",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 175089
+      "UsersEstimate": 175090
     },
     {
       "ID": "AchMaxedAnyAspect",
@@ -15396,7 +15401,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 441225
+      "UsersEstimate": 441226
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -15484,7 +15489,7 @@
       "Name": "The Family Secret",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 175089
+      "UsersEstimate": 175090
     },
     {
       "ID": "AchReachedEpilogue",
@@ -15532,7 +15537,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 497253
+      "UsersEstimate": 497254
     },
     {
       "ID": "AchWeaponClears",
@@ -15563,15 +15568,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 700357,
+      "Progressed": 700358,
       "Completed": 6269
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-08-03T13:58:45.8143808+00:00",
-  "LastChanged_Achievements": "2023-08-04T06:04:56.1306803+00:00",
+  "LastChanged_Achievements": "2023-08-04T07:05:05.6637309+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:42.26293+00:00",
-  "LastUpdate_Ratings": "2023-08-04T05:59:07.3055663+00:00",
-  "LastUpdate_Achievements": "2023-08-04T06:04:56.1308443+00:00"
+  "LastUpdate_Ratings": "2023-08-04T06:59:12.9381427+00:00",
+  "LastUpdate_Achievements": "2023-08-04T07:05:05.6638651+00:00"
 }

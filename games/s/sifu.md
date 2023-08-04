@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~1,072 |
+| Diligence as a goal | 5.00% | ~1,073 |
 | Project Arena | 4.00% | ~858 |
 | The Old Grandmaster | 2.00% | ~14,243 |
 | The Assault | 2.00% | ~14,243 |
@@ -22,17 +22,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~14,243 |
 | Rumble in the Hangar | 2.00% | ~14,243 |
 | Bloody Sport | 2.00% | ~429 |
-| Furious Fists | 1.00% | ~7,121 |
-| Scareless | 1.00% | ~7,121 |
-| Kill Nil | 1.00% | ~7,121 |
-| Stuntmaster | 1.00% | ~7,121 |
-| Dance of the Praying Mantis | 1.00% | ~7,121 |
-| Qi Gong: Mind | 1.00% | ~7,121 |
-| I know Kung-Fu | 1.00% | ~7,121 |
-| Old Child | 1.00% | ~7,121 |
-| Kung-Fu Tussle | 1.00% | ~7,121 |
-| Take damage to save time | 1.00% | ~7,121 |
-| The best strikes are the ones we avoid | 1.00% | ~214 |
+| Furious Fists | 1.00% | ~7,122 |
+| Scareless | 1.00% | ~7,122 |
+| Kill Nil | 1.00% | ~7,122 |
+| Stuntmaster | 1.00% | ~7,122 |
+| Dance of the Praying Mantis | 1.00% | ~7,122 |
+| Qi Gong: Mind | 1.00% | ~7,122 |
+| I know Kung-Fu | 1.00% | ~7,122 |
+| Old Child | 1.00% | ~7,122 |
+| Kung-Fu Tussle | 1.00% | ~7,122 |
+| Take damage to save time | 1.00% | ~7,122 |
+| The best strikes are the ones we avoid | 1.00% | ~215 |
 | Muk Yan Master | 0.80% | ~5,697 |
 | Deadly Venom | 0.80% | ~172 |
 | Tiger on Fire | 0.70% | ~4,985 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,424 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,146 (Ranked 20)  
+Progressed: 712,150 (Ranked 20)  
 Completed: 12,843 (1.80%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 12,843 (1.80%) (Ranked 90)
 | 2023-08-01 | 712,009 | 12,838 |
 | 2023-08-02 | 712,079 | 12,840 |
 | 2023-08-03 | 712,134 | 12,842 |
-| 2023-08-04 | 712,146 | 12,843 |
+| 2023-08-04 | 712,150 | 12,843 |
 ## Awards
 Max (Great Boss Battles): 6,336  (Ranked 53)  
 Sum: 10,877 (Ranked 82)  

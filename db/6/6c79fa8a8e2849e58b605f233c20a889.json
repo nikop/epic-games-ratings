@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -4613,8 +4613,8 @@
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-08-04T06:02:16.6037989+00:00",
+  "LastChanged_Achievements": "2023-08-04T07:02:30.7877422+00:00",
   "LastUpdate_AppInfo": "2023-08-01T20:56:50.3342535+00:00",
-  "LastUpdate_Ratings": "2023-08-04T05:58:14.9138648+00:00",
-  "LastUpdate_Achievements": "2023-08-04T06:02:16.6038738+00:00"
+  "LastUpdate_Ratings": "2023-08-04T06:58:21.9698537+00:00",
+  "LastUpdate_Achievements": "2023-08-04T07:02:30.7877963+00:00"
 }

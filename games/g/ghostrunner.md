@@ -6,16 +6,16 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~10,938 |
-| Sword Runner | 62.00% | ~8,923 |
+| Longrunner | 76.00% | ~10,939 |
+| Sword Runner | 62.00% | ~8,924 |
 | Running out of breath | 54.00% | ~7,772 |
 | Wallrunner | 54.00% | ~7,772 |
-| Homerunner | 45.00% | ~6,476 |
-| Out of order | 45.00% | ~6,476 |
-| I call it luck | 44.00% | ~6,332 |
+| Homerunner | 45.00% | ~6,477 |
+| Out of order | 45.00% | ~6,477 |
+| I call it luck | 44.00% | ~6,333 |
 | Where are my Keys? | 41.00% | ~5,901 |
 | Back to hell | 37.00% | ~5,325 |
-| Perfection | 32.00% | ~4,605 |
+| Perfection | 32.00% | ~4,606 |
 | Why not both | 30.00% | ~4,318 |
 | Sword to a gunfight | 29.00% | ~4,174 |
 | Upgrades not mandatory | 29.00% | ~4,174 |
@@ -30,11 +30,11 @@ Number of Ratings: 1,047  (23.09.2022)
 | Dead in the air | 15.00% | ~2,159 |
 | Improvise, adapt, overrun | 13.00% | ~1,871 |
 | Pre-empative strike | 13.00% | ~1,871 |
-| Strike | 13.00% | ~1,871 |
 | More than human | 12.00% | ~1,727 |
+| Strike | 12.00% | ~1,727 |
 | Triple A | 9.00% | ~1,295 |
-| Fine addition | 7.00% | ~1,007 |
-| One Of Those Days | 7.00% | ~1,007 |
+| Fine addition | 7.00% | ~1,008 |
+| One Of Those Days | 7.00% | ~1,008 |
 | Where He Stood | 5.00% | ~720 |
 | About Adam | 4.00% | ~576 |
 | Push it to the limit | 4.00% | ~576 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~58 |
 | Up Close And Personal | 0.40% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,392 (Ranked 115)  
+Progressed: 14,393 (Ranked 115)  
 Completed: 54 (0.38%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 54 (0.38%) (Ranked 148)
 | 2023-08-01 | 14,171 | 54 |
 | 2023-08-02 | 14,272 | 54 |
 | 2023-08-03 | 14,370 | 54 |
-| 2023-08-04 | 14,392 | 54 |
+| 2023-08-04 | 14,393 | 54 |
 ## Awards
 Max (Great Boss Battles): 474  (Ranked 197)  
 Sum: 634 (Ranked 287)  

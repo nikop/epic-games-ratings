@@ -5,24 +5,24 @@ Rating: 4.26 (Ranked 813)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~153,977 |
-| Copacetic Coordination | 16.00% | ~53,557 |
-| Fronting the Money | 14.00% | ~46,862 |
-| The Dawn of Automation | 14.00% | ~46,862 |
-| Extraordinary Logistics | 14.00% | ~46,862 |
-| Dirty Money | 13.00% | ~43,515 |
-| Family First | 13.00% | ~43,515 |
+| Corner Clout | 46.00% | ~153,979 |
+| Copacetic Coordination | 16.00% | ~53,558 |
+| Fronting the Money | 14.00% | ~46,863 |
+| The Dawn of Automation | 14.00% | ~46,863 |
+| Extraordinary Logistics | 14.00% | ~46,863 |
+| Dirty Money | 13.00% | ~43,516 |
+| Family First | 13.00% | ~43,516 |
 | Cleaning House | 12.00% | ~40,168 |
 | Room in the Back | 12.00% | ~40,168 |
 | Booze Baron | 11.00% | ~36,821 |
-| Beating the Heat | 10.00% | ~33,473 |
-| Friends on the Force | 10.00% | ~33,473 |
-| Neighborhood Watch | 10.00% | ~33,473 |
+| Beating the Heat | 10.00% | ~33,474 |
+| Friends on the Force | 10.00% | ~33,474 |
+| Neighborhood Watch | 10.00% | ~33,474 |
 | Core Corps | 8.00% | ~26,779 |
 | Sizeable Stash | 8.00% | ~26,779 |
-| Street Fighter | 7.00% | ~23,431 |
-| Friendly Gestures | 7.00% | ~23,431 |
-| People Person | 7.00% | ~23,431 |
+| Street Fighter | 7.00% | ~23,432 |
+| Friendly Gestures | 7.00% | ~23,432 |
+| People Person | 7.00% | ~23,432 |
 | Liquor Lord | 6.00% | ~20,084 |
 | Safety in Numbers | 6.00% | ~20,084 |
 | Show ‘em the Sugar | 6.00% | ~20,084 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 813)
 | High Pillow | 0.10% | ~335 |
 | Station Master | 0.10% | ~335 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 334,732 (Ranked 41)  
+Progressed: 334,736 (Ranked 41)  
 Completed: 6 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 6 (0.00%) (Ranked 247)
 | 2023-08-01 | 334,233 | 6 |
 | 2023-08-02 | 334,475 | 6 |
 | 2023-08-03 | 334,674 | 6 |
-| 2023-08-04 | 334,732 | 6 |
+| 2023-08-04 | 334,736 | 6 |
 ## Awards
 Max (Highly Recommended): 29  (Ranked 461)  
 Sum: 127 (Ranked 402)  

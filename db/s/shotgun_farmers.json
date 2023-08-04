@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1111,9 +1111,9 @@
       "ID": "ach_first_rocket_jump",
       "SetID": "cmg602e",
       "Name": "I Believe I Can Fly",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -1351,9 +1351,9 @@
       "ID": "ach_ten_thousand_points",
       "SetID": "cmg602e",
       "Name": "10K",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_tripleKill",
@@ -1654,8 +1654,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-08-04T06:06:47.6439673+00:00",
+  "LastChanged_Achievements": "2023-08-04T07:07:15.6416507+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:09.5553683+00:00",
-  "LastUpdate_Ratings": "2023-08-04T05:59:41.7327614+00:00",
-  "LastUpdate_Achievements": "2023-08-04T06:06:47.64406+00:00"
+  "LastUpdate_Ratings": "2023-08-04T06:59:45.0876898+00:00",
+  "LastUpdate_Achievements": "2023-08-04T07:07:15.6417344+00:00"
 }

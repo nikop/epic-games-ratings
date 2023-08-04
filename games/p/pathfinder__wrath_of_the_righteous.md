@@ -14,11 +14,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Choices | 12.00% | ~1,295 |
 | Queen's Gratitude | 10.00% | ~1,079 |
 | Fifth Crusade | 7.00% | ~755 |
-| Embrace of the Abyss | 5.00% | ~539 |
-| Path of the Angel | 5.00% | ~539 |
-| Great Upstart | 5.00% | ~539 |
-| All Paths Open | 5.00% | ~539 |
-| Demonic and Divine | 5.00% | ~539 |
+| Embrace of the Abyss | 5.00% | ~540 |
+| Path of the Angel | 5.00% | ~540 |
+| Great Upstart | 5.00% | ~540 |
+| All Paths Open | 5.00% | ~540 |
+| Demonic and Divine | 5.00% | ~540 |
 | Path of the Azata | 4.00% | ~432 |
 | Transformation | 4.00% | ~432 |
 | The Legacy | 4.00% | ~432 |
@@ -33,6 +33,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hey, I Know You! | 3.00% | ~324 |
 | The Lady of the Forest | 3.00% | ~287 |
 | Beware Still Water | 3.00% | ~287 |
+| Path of the Demon | 2.00% | ~216 |
 | Path of the Aeon | 2.00% | ~216 |
 | Path of the Lich | 2.00% | ~216 |
 | Heroic Victory | 2.00% | ~216 |
@@ -44,7 +45,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hanged Man's Notes | 2.00% | ~191 |
 | Sarkoris Will Be Green | 2.00% | ~191 |
 | The Final Threshold | 1.00% | ~108 |
-| Path of the Demon | 1.00% | ~108 |
 | Strategic Victory | 1.00% | ~108 |
 | Abyssal Conspiracy | 1.00% | ~108 |
 | This Wall Won't Fall | 1.00% | ~96 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,789 (Ranked 120)  
+Progressed: 10,790 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,6 +229,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-08-01 | 10,749 | 0 |
 | 2023-08-02 | 10,767 | 0 |
 | 2023-08-03 | 10,789 | 0 |
+| 2023-08-04 | 10,790 | 0 |
 ## Awards
 Max (Character Customization): 1,695  (Ranked 117)  
 Sum: 6,867 (Ranked 113)  
