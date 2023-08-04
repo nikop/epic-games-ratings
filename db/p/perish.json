@@ -3,9 +3,9 @@
   "Name": "PERISH",
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3330,
+  "EOS_Progressed": 3331,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2418,6 +2418,11 @@
       "Time": "2023-08-04T08:04:43.331411+00:00",
       "NumProgressed": 3330,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T14:04:51.5027095+00:00",
+      "NumProgressed": 3331,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -2525,7 +2530,7 @@
       "Name": "Missilis",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_MC",
@@ -2621,7 +2626,7 @@
       "Name": "Armaments of the Pantheon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_M_SC",
@@ -2637,7 +2642,7 @@
       "Name": "Persephone\u0027s Guidance",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_OB_BB",
@@ -2733,7 +2738,7 @@
       "Name": "Lochos",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_OB_LS",
@@ -2765,7 +2770,7 @@
       "Name": "Strength of Herakles",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_OB_SD",
@@ -2853,7 +2858,7 @@
       "Name": "Reign in Blood",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_TP",
@@ -2932,7 +2937,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3330,
+      "Progressed": 3331,
       "Completed": 0
     }
   ],
@@ -2940,8 +2945,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-08-04T13:09:24.3890266+00:00",
+  "LastChanged_Achievements": "2023-08-04T14:04:51.5027091+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:31.896769+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:05:26.3113943+00:00",
-  "LastUpdate_Achievements": "2023-08-04T13:09:24.3891077+00:00"
+  "LastUpdate_Ratings": "2023-08-04T14:01:01.0840142+00:00",
+  "LastUpdate_Achievements": "2023-08-04T14:04:51.5027702+00:00"
 }

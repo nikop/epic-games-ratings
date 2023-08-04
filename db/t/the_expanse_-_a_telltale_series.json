@@ -3,9 +3,9 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4155,
+  "EOS_Progressed": 4167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4147,
+  "EOS_NewPlayers": 4159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -742,6 +742,11 @@
       "Time": "2023-08-04T13:10:41.3520237+00:00",
       "NumProgressed": 4155,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T14:06:13.9344832+00:00",
+      "NumProgressed": 4167,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -754,7 +759,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "10",
@@ -794,7 +799,7 @@
       "Name": "Doctor Approved",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 706
+      "UsersEstimate": 708
     },
     {
       "ID": "15",
@@ -930,7 +935,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 625
     },
     {
       "ID": "30",
@@ -993,14 +998,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 4155,
+      "Progressed": 4167,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-04T13:10:41.3520232+00:00",
+  "LastChanged_Achievements": "2023-08-04T14:06:13.9344818+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:00.9603289+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:04:47.4003128+00:00",
-  "LastUpdate_Achievements": "2023-08-04T13:10:41.3520492+00:00"
+  "LastUpdate_Ratings": "2023-08-04T14:00:20.3009273+00:00",
+  "LastUpdate_Achievements": "2023-08-04T14:06:13.9345404+00:00"
 }

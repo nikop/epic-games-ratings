@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -23,8 +23,8 @@
   "Tags": [],
   "EOS_Progressed": 358,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 132,
-  "EOS_NewCompleters": 11,
+  "EOS_NewPlayers": 130,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 6.15,
   "EosHistory": [
     {
@@ -1303,9 +1303,9 @@
       "ID": "BearRum",
       "SetID": "db30heh",
       "Name": "Ready for Bed",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 68
     },
     {
       "ID": "BearSword",
@@ -1423,9 +1423,9 @@
       "ID": "HastrmanAmanita",
       "SetID": "db30heh",
       "Name": "Tastes Funny",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 175
     },
     {
       "ID": "HastrmanHappy",
@@ -1463,9 +1463,9 @@
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 143
     },
     {
       "ID": "PriestBroom",
@@ -1503,9 +1503,9 @@
       "ID": "PriestRum",
       "SetID": "db30heh",
       "Name": "Rummy",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 132
     },
     {
       "ID": "Priestess",
@@ -1607,9 +1607,9 @@
       "ID": "WormGrilled",
       "SetID": "db30heh",
       "Name": "Bratwurm",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
@@ -1622,8 +1622,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-04T13:11:18.4807631+00:00",
+  "LastChanged_Achievements": "2023-08-04T14:07:03.632238+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:02:28.8522948+00:00",
-  "LastUpdate_Achievements": "2023-08-04T13:11:18.4808107+00:00"
+  "LastUpdate_Ratings": "2023-08-04T13:57:36.9018282+00:00",
+  "LastUpdate_Achievements": "2023-08-04T14:07:03.6322724+00:00"
 }

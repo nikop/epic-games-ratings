@@ -2,13 +2,13 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 350,
+  "Ranking_Rating": 349,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 14,
-  "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_NewPlayers": 50,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -9893,10 +9893,10 @@
       "Count": 5488
     }
   ],
-  "EOS_Progressed": 869160,
+  "EOS_Progressed": 869162,
   "EOS_Completed": 1934,
-  "EOS_NewPlayers": 1152,
-  "EOS_NewCompleters": 23,
+  "EOS_NewPlayers": 1140,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -21473,6 +21473,11 @@
       "Time": "2023-08-04T13:09:23.8936334+00:00",
       "NumProgressed": 869160,
       "NumCompleted": 1934
+    },
+    {
+      "Time": "2023-08-04T14:04:50.8503645+00:00",
+      "NumProgressed": 869162,
+      "NumCompleted": 1934
     }
   ],
   "TotalAchievements": 44,
@@ -21516,7 +21521,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 338972
+      "UsersEstimate": 338973
     },
     {
       "ID": "FollowingTheRiver",
@@ -21532,7 +21537,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 78224
+      "UsersEstimate": 78225
     },
     {
       "ID": "Gearhead",
@@ -21580,7 +21585,7 @@
       "Name": "I Am The Law",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 121682
+      "UsersEstimate": 121683
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -21668,7 +21673,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 78224
+      "UsersEstimate": 78225
     },
     {
       "ID": "Temperance",
@@ -21700,7 +21705,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 591029
+      "UsersEstimate": 591030
     },
     {
       "ID": "TheHermit",
@@ -21708,7 +21713,7 @@
       "Name": "The Hermit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 208598
+      "UsersEstimate": 208599
     },
     {
       "ID": "TheHightPriestess",
@@ -21716,7 +21721,7 @@
       "Name": "The High Priestess",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 191215
+      "UsersEstimate": 191216
     },
     {
       "ID": "TheLovers",
@@ -21724,7 +21729,7 @@
       "Name": "The Lovers",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 295514
+      "UsersEstimate": 295515
     },
     {
       "ID": "TheStar",
@@ -21748,7 +21753,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 234673
+      "UsersEstimate": 234674
     },
     {
       "ID": "TheWorld",
@@ -21804,7 +21809,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 121682
+      "UsersEstimate": 121683
     },
     {
       "ID": "VForVendetta",
@@ -21828,22 +21833,22 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 191215
+      "UsersEstimate": 191216
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 869160,
+      "Progressed": 869162,
       "Completed": 1934
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-08-04T11:59:06.7392675+00:00",
-  "LastChanged_Achievements": "2023-08-04T13:09:23.8936328+00:00",
+  "LastChanged_Achievements": "2023-08-04T14:04:50.8503637+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.8722173+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:03:33.9585381+00:00",
-  "LastUpdate_Achievements": "2023-08-04T13:09:23.8937419+00:00"
+  "LastUpdate_Ratings": "2023-08-04T13:58:55.6144311+00:00",
+  "LastUpdate_Achievements": "2023-08-04T14:04:50.8504454+00:00"
 }

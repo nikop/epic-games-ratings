@@ -6,9 +6,9 @@
   "Ranking_Popularity": 195,
   "Ranking_PopularitySum": 157,
   "Ranking_EOS_Progress": 78,
-  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2584,9 +2584,9 @@
       "Count": 237
     }
   ],
-  "EOS_Progressed": 70245,
+  "EOS_Progressed": 70247,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 1095,
+  "EOS_NewPlayers": 1092,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -14019,6 +14019,11 @@
       "Time": "2023-08-04T13:10:39.5086893+00:00",
       "NumProgressed": 70245,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-08-04T14:06:11.5585118+00:00",
+      "NumProgressed": 70247,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 30,
@@ -14030,7 +14035,7 @@
       "Name": "First Journey",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 8429
+      "UsersEstimate": 8430
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -14078,7 +14083,7 @@
       "Name": "Biggest Reward",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 9834
+      "UsersEstimate": 9835
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -14086,7 +14091,7 @@
       "Name": "Most Achievements",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 8429
+      "UsersEstimate": 8430
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -14110,7 +14115,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 26693
+      "UsersEstimate": 26694
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -14126,7 +14131,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 23181
+      "UsersEstimate": 23182
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -14134,7 +14139,7 @@
       "Name": "Spirit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 7024
+      "UsersEstimate": 7025
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -14166,7 +14171,7 @@
       "Name": "Sojourner",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 18966
+      "UsersEstimate": 18967
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -14198,7 +14203,7 @@
       "Name": "Money money",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11239
+      "UsersEstimate": 11240
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -14230,7 +14235,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 8429
+      "UsersEstimate": 8430
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -14238,7 +14243,7 @@
       "Name": "Ultimate success",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 7024
+      "UsersEstimate": 7025
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -14246,7 +14251,7 @@
       "Name": "Grand champion",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 8429
+      "UsersEstimate": 8430
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -14269,15 +14274,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 70245,
+      "Progressed": 70247,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-08-01T21:59:30.103059+00:00",
-  "LastChanged_Achievements": "2023-08-04T13:10:39.5086887+00:00",
+  "LastChanged_Achievements": "2023-08-04T14:06:11.5585112+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:10.0155154+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:03:54.6069609+00:00",
-  "LastUpdate_Achievements": "2023-08-04T13:10:39.508789+00:00"
+  "LastUpdate_Ratings": "2023-08-04T13:59:18.7182186+00:00",
+  "LastUpdate_Achievements": "2023-08-04T14:06:11.5585817+00:00"
 }

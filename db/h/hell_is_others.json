@@ -4,11 +4,11 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 658,
   "Ranking_Popularity": 436,
-  "Ranking_PopularitySum": 361,
+  "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 43,
-  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -790,7 +790,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 254232,
+  "EOS_Progressed": 254234,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 0,
@@ -11600,6 +11600,11 @@
       "Time": "2023-08-04T13:11:22.9742057+00:00",
       "NumProgressed": 254232,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-04T14:07:09.7792498+00:00",
+      "NumProgressed": 254234,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -11659,7 +11664,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78812
+      "UsersEstimate": 78813
     },
     {
       "ID": "BackHomeNTimes",
@@ -12058,7 +12063,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 254232,
+      "Progressed": 254234,
       "Completed": 3
     }
   ],
@@ -12066,8 +12071,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-08-03T16:01:45.7689643+00:00",
-  "LastChanged_Achievements": "2023-08-04T13:11:22.9742051+00:00",
+  "LastChanged_Achievements": "2023-08-04T14:07:09.7792492+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:16.1144116+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:05:59.4176154+00:00",
-  "LastUpdate_Achievements": "2023-08-04T13:11:22.9743294+00:00"
+  "LastUpdate_Ratings": "2023-08-04T14:01:40.215816+00:00",
+  "LastUpdate_Achievements": "2023-08-04T14:07:09.7793387+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "67eb392889234b4d99a6562c5e60c825",
   "Name": "The Suicide of Rachel Foster",
   "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
-  "Ranking_Rating": 868,
+  "Ranking_Rating": 872,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -18,7 +18,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.18,
+  "Rating": 4.17,
   "NumberOfRatings": 71,
   "RatingHistory": [
     {
@@ -234,6 +234,12 @@
     {
       "Time": "2023-04-30T21:59:51.1763775+00:00",
       "Rating": 4.18,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-04T14:01:27.1522231+00:00",
+      "Rating": 4.17,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2066,9 +2072,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
-  "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-08-04T13:07:10.8405502+00:00",
+  "LastChanged": "2023-08-04T14:01:27.152223+00:00",
+  "LastChanged_Achievements": "2023-08-04T14:02:06.0113318+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:57.8120898+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:05:50.1759803+00:00",
-  "LastUpdate_Achievements": "2023-08-04T13:07:10.8405727+00:00"
+  "LastUpdate_Ratings": "2023-08-04T14:01:27.1522237+00:00",
+  "LastUpdate_Achievements": "2023-08-04T14:02:06.0113478+00:00"
 }

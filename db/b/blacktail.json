@@ -6,9 +6,9 @@
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 215,
-  "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_Completed": 180,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 610,
+  "EOS_Progressed": 611,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1490,6 +1490,11 @@
       "Time": "2023-08-04T05:02:52.9362892+00:00",
       "NumProgressed": 610,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-04T14:01:52.1059672+00:00",
+      "NumProgressed": 611,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1523,9 +1528,9 @@
       "ID": "CompleteSmile",
       "SetID": "2aagp3d",
       "Name": "Dental maturity",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 116
     },
     {
       "ID": "DevilDetail",
@@ -1533,7 +1538,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Devoted",
@@ -1557,7 +1562,7 @@
       "Name": "Sneak peek",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Favourite",
@@ -1573,7 +1578,7 @@
       "Name": "Fishing fanatic",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Goal",
@@ -1597,7 +1602,7 @@
       "Name": "The word around is...",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "HeadOnHerShoulders",
@@ -1621,7 +1626,7 @@
       "Name": "Liar Liar",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "LittleHelper",
@@ -1645,7 +1650,7 @@
       "Name": "The cycle acknowledged",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "NoMoreWards",
@@ -1701,7 +1706,7 @@
       "Name": "Baba Yaga",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ToadCharming",
@@ -1717,7 +1722,7 @@
       "Name": "Tooth fairy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Toxic",
@@ -1756,7 +1761,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 610,
+      "Progressed": 611,
       "Completed": 1
     }
   ],
@@ -1764,8 +1769,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-08-04T12:03:05.4902651+00:00",
+  "LastChanged_Achievements": "2023-08-04T14:01:52.1059665+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:48.1262101+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:03:33.7083976+00:00",
-  "LastUpdate_Achievements": "2023-08-04T12:03:05.4903027+00:00"
+  "LastUpdate_Ratings": "2023-08-04T13:58:55.1498347+00:00",
+  "LastUpdate_Achievements": "2023-08-04T14:01:52.1060024+00:00"
 }

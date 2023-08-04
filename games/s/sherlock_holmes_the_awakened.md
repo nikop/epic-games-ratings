@@ -1,7 +1,7 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.65 (Ranked 299)  
+Rating: 4.65 (Ranked 298)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,8 +10,8 @@ Rating: 4.65 (Ranked 299)
 | High Profile | 59.00% | ~346 |
 | Whispers In The Dark | 58.00% | ~340 |
 | Fond Memories | 55.00% | ~322 |
+| History Check | 53.00% | ~311 |
 | A Method To His Madness | 53.00% | ~311 |
-| History Check | 52.00% | ~305 |
 | The New World | 49.00% | ~287 |
 | Open Sesame | 48.00% | ~281 |
 | Sticky Fingers | 48.00% | ~281 |

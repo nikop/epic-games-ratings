@@ -6,30 +6,30 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~7,074 |
-| That's a Grand Army | 8.00% | ~6,288 |
-| Victorious! | 8.00% | ~6,288 |
-| That is mine! | 7.00% | ~5,502 |
-| Brothers in Arms | 6.00% | ~4,716 |
-| That's a Grand Navy | 6.00% | ~4,716 |
-| Seriously?! | 6.00% | ~4,716 |
-| For the Glory | 5.00% | ~3,930 |
-| Cold War | 4.00% | ~3,144 |
-| True Catholic | 4.00% | ~3,144 |
-| Defender of the Faith | 3.00% | ~2,358 |
-| It's all about luck | 3.00% | ~2,358 |
-| It's all about the money | 3.00% | ~2,358 |
-| Respected | 3.00% | ~2,358 |
-| The Princess is in this Castle | 3.00% | ~2,358 |
-| Truly Divine Ruler | 3.00% | ~2,358 |
-| Agressive Expander | 2.00% | ~1,572 |
-| Blockader | 2.00% | ~1,572 |
-| Combined Arms | 2.00% | ~1,572 |
-| Double the Love | 2.00% | ~1,572 |
-| My armies are invincible! | 2.00% | ~1,572 |
-| Queen of Conquest | 2.00% | ~1,572 |
-| Royal Authority | 2.00% | ~1,572 |
-| Total Control | 2.00% | ~1,572 |
+| Until death do us apart | 9.00% | ~7,078 |
+| That's a Grand Army | 8.00% | ~6,292 |
+| Victorious! | 8.00% | ~6,292 |
+| That is mine! | 7.00% | ~5,505 |
+| Brothers in Arms | 6.00% | ~4,719 |
+| That's a Grand Navy | 6.00% | ~4,719 |
+| Seriously?! | 6.00% | ~4,719 |
+| For the Glory | 5.00% | ~3,932 |
+| Cold War | 4.00% | ~3,146 |
+| True Catholic | 4.00% | ~3,146 |
+| Defender of the Faith | 3.00% | ~2,359 |
+| It's all about luck | 3.00% | ~2,359 |
+| It's all about the money | 3.00% | ~2,359 |
+| Respected | 3.00% | ~2,359 |
+| The Princess is in this Castle | 3.00% | ~2,359 |
+| Truly Divine Ruler | 3.00% | ~2,359 |
+| Agressive Expander | 2.00% | ~1,573 |
+| Blockader | 2.00% | ~1,573 |
+| Combined Arms | 2.00% | ~1,573 |
+| Double the Love | 2.00% | ~1,573 |
+| My armies are invincible! | 2.00% | ~1,573 |
+| Queen of Conquest | 2.00% | ~1,573 |
+| Royal Authority | 2.00% | ~1,573 |
+| Total Control | 2.00% | ~1,573 |
 | All That's Thine Shall Be Mine | 1.00% | ~786 |
 | Azur semé de lis or | 1.00% | ~786 |
 | Bright Spark | 1.00% | ~786 |
@@ -40,12 +40,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~786 |
 | The Five Colonies | 1.00% | ~786 |
 | This navy can take it all | 1.00% | ~786 |
-| Down Under | 0.90% | ~707 |
-| Isn't this the way to India? | 0.90% | ~707 |
-| Market Control | 0.90% | ~707 |
-| Trustworthy | 0.90% | ~707 |
-| Electable! | 0.70% | ~550 |
-| Populists in Government | 0.70% | ~550 |
+| Down Under | 0.90% | ~708 |
+| Isn't this the way to India? | 0.90% | ~708 |
+| Market Control | 0.90% | ~708 |
+| Trustworthy | 0.90% | ~708 |
+| Electable! | 0.70% | ~551 |
+| Populists in Government | 0.70% | ~551 |
 | All belongs to Mother Russia | 0.60% | ~472 |
 | At every continent | 0.60% | ~472 |
 | One Family to Rule them All | 0.60% | ~472 |
@@ -60,18 +60,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ruina Imperii | 0.50% | ~393 |
 | Trophy Hunter | 0.50% | ~393 |
 | Voting Streak | 0.50% | ~393 |
-| All Your Trade Are Belong to Us | 0.40% | ~314 |
-| Bleed Them Dry | 0.40% | ~314 |
-| Dude, Where's my Boat? | 0.40% | ~314 |
-| Four For Trade | 0.40% | ~314 |
-| Global Hegemony | 0.40% | ~314 |
-| Italian Ambition | 0.40% | ~314 |
-| Just a Little Patience | 0.40% | ~314 |
-| One Night in Paris | 0.40% | ~314 |
-| Tear Down This Wall | 0.40% | ~314 |
-| The Continuation of Diplomacy | 0.40% | ~314 |
-| Traditional Player | 0.40% | ~314 |
-| Wonderful | 0.40% | ~314 |
+| All Your Trade Are Belong to Us | 0.40% | ~315 |
+| Bleed Them Dry | 0.40% | ~315 |
+| Dude, Where's my Boat? | 0.40% | ~315 |
+| Four For Trade | 0.40% | ~315 |
+| Global Hegemony | 0.40% | ~315 |
+| Italian Ambition | 0.40% | ~315 |
+| Just a Little Patience | 0.40% | ~315 |
+| One Night in Paris | 0.40% | ~315 |
+| Tear Down This Wall | 0.40% | ~315 |
+| The Continuation of Diplomacy | 0.40% | ~315 |
+| Traditional Player | 0.40% | ~315 |
+| Wonderful | 0.40% | ~315 |
 | A Decent Reserve | 0.30% | ~236 |
 | A Pile of Gold | 0.30% | ~236 |
 | A Fine Goosestep | 0.30% | ~236 |
@@ -361,8 +361,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,604 (Ranked 76)  
-Completed: 0 (0.00%) (Ranked 247)  
+Progressed: 78,645 (Ranked 76)  
+Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -467,7 +467,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-08-01 | 77,006 | 0 |
 | 2023-08-02 | 77,371 | 0 |
 | 2023-08-03 | 78,060 | 0 |
-| 2023-08-04 | 78,604 | 0 |
+| 2023-08-04 | 78,645 | 0 |
 ## Awards
 Max (Educational): 5,611  (Ranked 62)  
 Sum: 46,328 (Ranked 26)  

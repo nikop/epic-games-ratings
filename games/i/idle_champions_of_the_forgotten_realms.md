@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,742 |
+| A Brief Tour of the Realms | 4.00% | ~8,743 |
 | Beast Intentions | 3.00% | ~6,557 |
-| Maddening | 2.00% | ~4,371 |
+| Maddening | 2.00% | ~4,372 |
 | The Silken Swamp | 1.00% | ~2,186 |
 | Supply Run | 1.00% | ~2,186 |
-| Vecna Lives! | 1.00% | ~1,848 |
-| Rocky Reception | 1.00% | ~1,848 |
-| Rock and Roll | 1.00% | ~1,848 |
+| Vecna Lives! | 1.00% | ~1,849 |
+| Rocky Reception | 1.00% | ~1,849 |
+| Rock and Roll | 1.00% | ~1,849 |
 | Flight of the Kindori Pod | 0.90% | ~1,664 |
 | Tall Tales | 0.80% | ~1,479 |
 | Vecna Loots! | 0.80% | ~1,479 |
@@ -25,6 +25,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Witchlight Carnival | 0.60% | ~1,109 |
 | Hatchlings Underfoot | 0.60% | ~1,311 |
 | Don't Look Up! | 0.60% | ~1,311 |
+| The Evacuation of Waterdeep | 0.60% | ~1,109 |
 | Heatwave | 0.60% | ~1,109 |
 | The Dread Domain of Tovag | 0.60% | ~1,109 |
 | Were-verpowered | 0.60% | ~1,311 |
@@ -40,7 +41,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Champion's Guide to Wildspace | 0.60% | ~1,109 |
 | Thieves of the Coven | 0.50% | ~924 |
 | Heavy Burden | 0.50% | ~1,093 |
-| The Evacuation of Waterdeep | 0.50% | ~924 |
 | Friends of the Forest | 0.50% | ~1,093 |
 | Low Initiative | 0.50% | ~1,093 |
 | Street War | 0.50% | ~1,093 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,561 (Ranked 53)  
-Completed: 2,150 (0.98%) (Ranked 112)  
+Progressed: 218,577 (Ranked 53)  
+Completed: 2,150 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -625,7 +625,7 @@ Completed: 2,150 (0.98%) (Ranked 112)
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
-| 2023-08-04 | 218,561 | 2,150 |
+| 2023-08-04 | 218,577 | 2,150 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,894 (Ranked 38)  

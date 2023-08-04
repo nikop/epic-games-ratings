@@ -76,7 +76,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,123 (Ranked 153)  
-Completed: 0 (0.00%) (Ranked 247)  
+Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -178,9 +178,9 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-08-03 | 3,121 | 0 |
 | 2023-08-04 | 3,123 | 0 |
 ## Awards
-Max (Character Customization): 218  (Ranked 263)  
+Max (Character Customization): 218  (Ranked 264)  
 Sum: 464 (Ranked 303)  
-Diff (max vs sum): -40  
+Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 218 |

@@ -11,7 +11,7 @@ Rating: 3.82 (Ranked 949)
 | Rookie Chemist | 62.00% | ~949 |
 | Great Doctor | 51.00% | ~780 |
 | Dog Whisperer | 49.00% | ~750 |
-| Friendly | 47.00% | ~719 |
+| Friendly | 48.00% | ~734 |
 | The Capitalist | 44.00% | ~673 |
 | K.O.! | 43.00% | ~658 |
 | Intermediate Chemist | 40.00% | ~612 |
@@ -45,7 +45,7 @@ Rating: 3.82 (Ranked 949)
 | Being a donut... | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,530 (Ranked 176)  
-Completed: 9 (0.59%) (Ranked 127)  
+Completed: 9 (0.59%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

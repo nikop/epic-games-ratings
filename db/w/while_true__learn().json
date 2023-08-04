@@ -6,7 +6,7 @@
   "Ranking_Popularity": 306,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 28,
-  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
@@ -490,9 +490,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 599040,
+  "EOS_Progressed": 599046,
   "EOS_Completed": 510,
-  "EOS_NewPlayers": 944,
+  "EOS_NewPlayers": 943,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -11990,6 +11990,11 @@
       "Time": "2023-08-04T13:09:48.8483462+00:00",
       "NumProgressed": 599040,
       "NumCompleted": 510
+    },
+    {
+      "Time": "2023-08-04T14:05:24.7878221+00:00",
+      "NumProgressed": 599046,
+      "NumCompleted": 510
     }
   ],
   "TotalAchievements": 28,
@@ -12065,7 +12070,7 @@
       "Name": "We need more gold",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 359424
+      "UsersEstimate": 359428
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -12081,7 +12086,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 263578
+      "UsersEstimate": 263580
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -12097,7 +12102,7 @@
       "Name": "Cosplay",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 77875
+      "UsersEstimate": 77876
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -12105,7 +12110,7 @@
       "Name": "Evolution in progress...",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 77875
+      "UsersEstimate": 77876
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -12113,7 +12118,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 287539
+      "UsersEstimate": 287542
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -12121,7 +12126,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 293530
+      "UsersEstimate": 293533
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -12129,7 +12134,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 557107
+      "UsersEstimate": 557113
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -12137,7 +12142,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 143770
+      "UsersEstimate": 143771
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -12161,7 +12166,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 395366
+      "UsersEstimate": 395370
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -12169,7 +12174,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 107827
+      "UsersEstimate": 107828
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -12177,7 +12182,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 317491
+      "UsersEstimate": 317494
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -12185,7 +12190,7 @@
       "Name": "Step by step",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 47923
+      "UsersEstimate": 47924
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -12224,15 +12229,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 599040,
+      "Progressed": 599046,
       "Completed": 510
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-07-16T08:00:08.7749167+00:00",
-  "LastChanged_Achievements": "2023-08-04T13:09:48.8483457+00:00",
+  "LastChanged_Achievements": "2023-08-04T14:05:24.7878214+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:51.2029945+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:04:39.4661347+00:00",
-  "LastUpdate_Achievements": "2023-08-04T13:09:48.8484397+00:00"
+  "LastUpdate_Ratings": "2023-08-04T14:00:09.3815918+00:00",
+  "LastUpdate_Achievements": "2023-08-04T14:05:24.7878896+00:00"
 }

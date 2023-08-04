@@ -6,7 +6,7 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
-  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
@@ -5856,9 +5856,9 @@
       "Count": 575
     }
   ],
-  "EOS_Progressed": 289320,
+  "EOS_Progressed": 289323,
   "EOS_Completed": 439,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -17281,6 +17281,11 @@
       "Time": "2023-08-04T13:10:21.4553334+00:00",
       "NumProgressed": 289320,
       "NumCompleted": 439
+    },
+    {
+      "Time": "2023-08-04T14:05:47.4929943+00:00",
+      "NumProgressed": 289323,
+      "NumCompleted": 439
     }
   ],
   "TotalAchievements": 45,
@@ -17292,7 +17297,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34718
+      "UsersEstimate": 34719
     },
     {
       "ID": "PFA_10",
@@ -17340,7 +17345,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20252
+      "UsersEstimate": 20253
     },
     {
       "ID": "PFA_16",
@@ -17364,7 +17369,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20252
+      "UsersEstimate": 20253
     },
     {
       "ID": "PFA_19",
@@ -17372,7 +17377,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20252
+      "UsersEstimate": 20253
     },
     {
       "ID": "PFA_2",
@@ -17596,7 +17601,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20252
+      "UsersEstimate": 20253
     },
     {
       "ID": "PFA_45",
@@ -17620,7 +17625,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31825
+      "UsersEstimate": 31826
     },
     {
       "ID": "PFA_7",
@@ -17628,7 +17633,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31825
+      "UsersEstimate": 31826
     },
     {
       "ID": "PFA_8",
@@ -17651,7 +17656,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289320,
+      "Progressed": 289323,
       "Completed": 439
     }
   ],
@@ -17659,8 +17664,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-04T01:53:43.8587074+00:00",
-  "LastChanged_Achievements": "2023-08-04T13:10:21.4553328+00:00",
+  "LastChanged_Achievements": "2023-08-04T14:05:47.4929936+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:03:04.2747364+00:00",
-  "LastUpdate_Achievements": "2023-08-04T13:10:21.4554452+00:00"
+  "LastUpdate_Ratings": "2023-08-04T13:58:19.1893705+00:00",
+  "LastUpdate_Achievements": "2023-08-04T14:05:47.4930756+00:00"
 }

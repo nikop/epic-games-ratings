@@ -60,6 +60,7 @@
 | Titanium | 2.00% | ~2 |
 | Rocket | 2.00% | ~2 |
 | Inferno | 2.00% | ~2 |
+| Sapphire | 2.00% | ~2 |
 | Nuclear Bomb | 2.00% | ~2 |
 | Divinity | 2.00% | ~2 |
 | Hammer | 2.00% | ~2 |
@@ -67,7 +68,6 @@
 | Blaze | 0.80% | ~1 |
 | Topaz | 0.80% | ~1 |
 | Immortality | 0.80% | ~1 |
-| Sapphire | 0.80% | ~1 |
 | Encore | 0.80% | ~1 |
 | Adamantite | 0.80% | ~1 |
 | Warp Drive Spacecraft | 0.80% | ~1 |
@@ -79,7 +79,7 @@
 | Zombie Exterminator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 124 (Ranked 306)  
-Completed: 0 (0.00%) (Ranked 247)  
+Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

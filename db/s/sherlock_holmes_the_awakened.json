@@ -2,13 +2,13 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 299,
+  "Ranking_Rating": 298,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 52,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -2110,9 +2110,9 @@
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 305
+      "UsersEstimate": 311
     },
     {
       "ID": "MQ03_4",
@@ -2279,8 +2279,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-07-24T23:58:19.6744242+00:00",
-  "LastChanged_Achievements": "2023-08-04T13:11:36.5963487+00:00",
+  "LastChanged_Achievements": "2023-08-04T14:07:27.8306798+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:58.5261994+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:02:58.46189+00:00",
-  "LastUpdate_Achievements": "2023-08-04T13:11:36.5963828+00:00"
+  "LastUpdate_Ratings": "2023-08-04T13:58:11.6301983+00:00",
+  "LastUpdate_Achievements": "2023-08-04T14:07:27.8307061+00:00"
 }

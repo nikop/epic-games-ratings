@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 655,
+  "EOS_Progressed": 656,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 10.69,
+  "EOS_Completed_Percentage": 10.67,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2141,6 +2141,11 @@
       "Time": "2023-08-04T13:11:27.9300445+00:00",
       "NumProgressed": 655,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-08-04T14:07:16.2863143+00:00",
+      "NumProgressed": 656,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 30,
@@ -2152,15 +2157,15 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "LEVEL_002",
       "SetID": "212bg48",
       "Name": "Promising crop",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 538
     },
     {
       "ID": "LEVEL_003",
@@ -2168,7 +2173,7 @@
       "Name": "A horse in the country",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "LEVEL_004",
@@ -2190,9 +2195,9 @@
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 269
     },
     {
       "ID": "LEVEL_007",
@@ -2200,15 +2205,15 @@
       "Name": "Animals in the farm",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "LEVEL_008",
       "SetID": "212bg48",
       "Name": "Let\u0027s go to the market",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 223
     },
     {
       "ID": "LEVEL_009",
@@ -2280,7 +2285,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "LEVEL_018",
@@ -2391,14 +2396,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 655,
+      "Progressed": 656,
       "Completed": 70
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-08-04T13:11:27.9300441+00:00",
+  "LastChanged_Achievements": "2023-08-04T14:07:16.2863135+00:00",
   "LastUpdate_AppInfo": "2023-07-31T17:57:14.0464775+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:02:45.0554806+00:00",
-  "LastUpdate_Achievements": "2023-08-04T13:11:27.9300821+00:00"
+  "LastUpdate_Ratings": "2023-08-04T13:57:57.3361569+00:00",
+  "LastUpdate_Achievements": "2023-08-04T14:07:16.2863416+00:00"
 }

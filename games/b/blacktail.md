@@ -5,9 +5,9 @@ Rating: 4.68 (Ranked 242)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tooth fairy | 25.00% | ~152 |
-| Dental maturity | 20.00% | ~122 |
-| Devil's in the details | 14.00% | ~85 |
+| Tooth fairy | 25.00% | ~153 |
+| Dental maturity | 19.00% | ~116 |
+| Devil's in the details | 14.00% | ~86 |
 | Uprooting | 13.00% | ~79 |
 | Forbidden techniques | 12.00% | ~73 |
 | Devoted | 9.00% | ~55 |
@@ -15,12 +15,12 @@ Rating: 4.68 (Ranked 242)
 | Spirit animal | 8.00% | ~49 |
 | Gold rush | 7.00% | ~43 |
 | A friend in need... | 6.00% | ~37 |
-| Sneak peek | 5.00% | ~30 |
-| Fishing fanatic | 5.00% | ~30 |
-| The word around is... | 5.00% | ~30 |
-| Liar Liar | 5.00% | ~30 |
-| The cycle acknowledged | 5.00% | ~30 |
-| Baba Yaga | 5.00% | ~30 |
+| Sneak peek | 5.00% | ~31 |
+| Fishing fanatic | 5.00% | ~31 |
+| The word around is... | 5.00% | ~31 |
+| Liar Liar | 5.00% | ~31 |
+| The cycle acknowledged | 5.00% | ~31 |
+| Baba Yaga | 5.00% | ~31 |
 | Extensive retelling | 4.00% | ~24 |
 | Favorite | 4.00% | ~24 |
 | Queen | 4.00% | ~24 |
@@ -38,8 +38,8 @@ Rating: 4.68 (Ranked 242)
 | Mushrooming enthusiast | 0.50% | ~3 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 610 (Ranked 215)  
-Completed: 1 (0.16%) (Ranked 179)  
+Progressed: 611 (Ranked 215)  
+Completed: 1 (0.16%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -137,7 +137,7 @@ Completed: 1 (0.16%) (Ranked 179)
 | 2023-08-01 | 601 | 1 |
 | 2023-08-02 | 606 | 1 |
 | 2023-08-03 | 609 | 1 |
-| 2023-08-04 | 610 | 1 |
+| 2023-08-04 | 611 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

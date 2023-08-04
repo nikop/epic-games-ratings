@@ -16,7 +16,7 @@ Number of Ratings: 98  (23.09.2022)
 | Agent 47 | 22.00% | ~275 |
 | You're Gonna Go Far, Kid | 22.00% | ~275 |
 | Death to the Oppressor! | 16.00% | ~200 |
-| The Gang's All Here | 13.00% | ~162 |
+| The Gang's All Here | 14.00% | ~175 |
 | One by One | 12.00% | ~150 |
 | Your Answer | 12.00% | ~150 |
 | The Big Bertha | 10.00% | ~125 |
@@ -38,7 +38,7 @@ Number of Ratings: 98  (23.09.2022)
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,250 (Ranked 186)  
-Completed: 1 (0.08%) (Ranked 205)  
+Completed: 1 (0.08%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

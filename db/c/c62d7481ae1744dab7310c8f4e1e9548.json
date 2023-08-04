@@ -3,9 +3,9 @@
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 385,
-  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 30,
-  "EOS_Completed": 0,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 18,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 3.33,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -161,6 +161,11 @@
       "Time": "2023-08-04T10:03:36.3524756+00:00",
       "NumProgressed": 30,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T14:03:21.9684495+00:00",
+      "NumProgressed": 30,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -187,25 +192,25 @@
       "ID": "Destilat",
       "SetID": "ag48e8e",
       "Name": "Distilled Spirits",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Dusici",
       "SetID": "ag48e8e",
       "Name": "Young Spirits",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Fletny",
       "SetID": "ag48e8e",
       "Name": "Four Flutes",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Houby",
@@ -299,9 +304,9 @@
       "ID": "Pejsek",
       "SetID": "ag48e8e",
       "Name": "Dog",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Poustevnik",
@@ -315,9 +320,9 @@
       "ID": "Prstenec",
       "SetID": "ag48e8e",
       "Name": "Cosmic Ring",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Rybka",
@@ -363,9 +368,9 @@
       "ID": "Strom",
       "SetID": "ag48e8e",
       "Name": "Sprouting Tree",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Termit",
@@ -379,9 +384,9 @@
       "ID": "Truhlice",
       "SetID": "ag48e8e",
       "Name": "Shem Is Home",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Xicht",
@@ -413,13 +418,13 @@
       "ID": "ag48e8e",
       "IsBase": true,
       "Progressed": 30,
-      "Completed": 0
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-08-04T13:08:18.0284089+00:00",
+  "LastChanged_Achievements": "2023-08-04T14:03:21.9684488+00:00",
   "LastUpdate_AppInfo": "2023-07-28T14:57:04.029049+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:02:21.2070713+00:00",
-  "LastUpdate_Achievements": "2023-08-04T13:08:18.028437+00:00"
+  "LastUpdate_Ratings": "2023-08-04T13:57:27.6977735+00:00",
+  "LastUpdate_Achievements": "2023-08-04T14:03:21.9684668+00:00"
 }

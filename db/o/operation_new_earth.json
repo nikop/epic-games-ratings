@@ -3,9 +3,9 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 206,
-  "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 776,
+  "EOS_Progressed": 779,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2701,6 +2701,11 @@
       "Time": "2023-08-04T08:06:11.4647005+00:00",
       "NumProgressed": 776,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T14:06:44.6994286+00:00",
+      "NumProgressed": 779,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2720,15 +2725,15 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_defeat_players_100",
@@ -2814,9 +2819,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -2824,7 +2829,7 @@
       "Name": "Corporal",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -2888,7 +2893,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -2896,7 +2901,7 @@
       "Name": "Covert Operative",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -2904,7 +2909,7 @@
       "Name": "Getting Deployment",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -2920,7 +2925,7 @@
       "Name": "Stocking Up",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -2936,7 +2941,7 @@
       "Name": "On Target",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -2960,7 +2965,7 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -3015,14 +3020,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 776,
+      "Progressed": 779,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-04T13:11:04.8574031+00:00",
+  "LastChanged_Achievements": "2023-08-04T14:06:44.6994279+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:02:07.7511707+00:00",
-  "LastUpdate_Achievements": "2023-08-04T13:11:04.8574501+00:00"
+  "LastUpdate_Ratings": "2023-08-04T13:57:11.7920515+00:00",
+  "LastUpdate_Achievements": "2023-08-04T14:06:44.6994633+00:00"
 }

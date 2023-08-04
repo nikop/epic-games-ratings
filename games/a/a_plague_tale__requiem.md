@@ -42,7 +42,7 @@ Rating: 4.73 (Ranked 160)
 | Malignant | 1.00% | ~126 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,595 (Ranked 118)  
-Completed: 40 (0.32%) (Ranked 154)  
+Completed: 40 (0.32%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 112,
+  "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5542,10 +5542,10 @@
       "Count": 3341
     }
   ],
-  "EOS_Progressed": 218561,
+  "EOS_Progressed": 218577,
   "EOS_Completed": 2150,
-  "EOS_NewPlayers": 2223,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 2216,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16972,6 +16972,11 @@
       "Time": "2023-08-04T13:07:09.2284099+00:00",
       "NumProgressed": 218561,
       "NumCompleted": 2150
+    },
+    {
+      "Time": "2023-08-04T14:02:04.3339443+00:00",
+      "NumProgressed": 218577,
+      "NumCompleted": 2150
     }
   ],
   "TotalAchievements": 512,
@@ -16983,7 +16988,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8742
+      "UsersEstimate": 8743
     },
     {
       "ID": "objective_completed_10",
@@ -16991,7 +16996,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4371
+      "UsersEstimate": 4372
     },
     {
       "ID": "objective_completed_100",
@@ -17629,9 +17634,9 @@
       "ID": "objective_completed_1158",
       "SetID": "415jc5c",
       "Name": "The Evacuation of Waterdeep",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 1109
     },
     {
       "ID": "objective_completed_1159",
@@ -17663,7 +17668,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "objective_completed_1164",
@@ -21007,7 +21012,7 @@
       "Name": "Rocky Reception",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "objective_completed_1376",
@@ -21023,7 +21028,7 @@
       "Name": "Rock and Roll",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "objective_completed_1381",
@@ -21078,21 +21083,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184835,
+      "Progressed": 184851,
       "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218561,
+      "Progressed": 218577,
       "Completed": 2150
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-04T11:59:23.3560437+00:00",
-  "LastChanged_Achievements": "2023-08-04T13:07:09.2284093+00:00",
+  "LastChanged_Achievements": "2023-08-04T14:02:04.3339437+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:03:45.7872598+00:00",
-  "LastUpdate_Achievements": "2023-08-04T13:07:09.2311857+00:00"
+  "LastUpdate_Ratings": "2023-08-04T13:59:10.7761185+00:00",
+  "LastUpdate_Achievements": "2023-08-04T14:02:04.336331+00:00"
 }

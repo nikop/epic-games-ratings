@@ -13,7 +13,7 @@
 | Splash! | 55.00% | ~45 |
 | Masochistic | 51.00% | ~42 |
 | Soft skin | 46.00% | ~38 |
-| Squid game | 38.00% | ~31 |
+| Squid game | 39.00% | ~32 |
 | Sensitive soul | 32.00% | ~26 |
 | Hard Rock | 30.00% | ~25 |
 | Rock Solid | 29.00% | ~24 |
@@ -40,7 +40,7 @@
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 82 (Ranked 331)  
-Completed: 0 (0.00%) (Ranked 247)  
+Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

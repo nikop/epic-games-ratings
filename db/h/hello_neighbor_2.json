@@ -354,11 +354,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2692,
+  "EOS_Progressed": 2693,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.83,
+  "EOS_Completed_Percentage": 3.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -2379,6 +2379,11 @@
       "Time": "2023-08-04T13:10:37.2397252+00:00",
       "NumProgressed": 2692,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-08-04T14:06:08.5662483+00:00",
+      "NumProgressed": 2693,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 14,
@@ -2422,7 +2427,7 @@
       "Name": "Dog Person",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -2430,7 +2435,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -2438,7 +2443,7 @@
       "Name": "Family Lost",
       "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -2494,14 +2499,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 76,
       "XP": 35,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2692,
+      "Progressed": 2693,
       "Completed": 103
     }
   ],
@@ -2509,8 +2514,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-08-04T13:10:37.2397242+00:00",
+  "LastChanged_Achievements": "2023-08-04T14:06:08.5662476+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.70294+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:06:00.2797871+00:00",
-  "LastUpdate_Achievements": "2023-08-04T13:10:37.239747+00:00"
+  "LastUpdate_Ratings": "2023-08-04T14:01:40.8853321+00:00",
+  "LastUpdate_Achievements": "2023-08-04T14:06:08.5662664+00:00"
 }

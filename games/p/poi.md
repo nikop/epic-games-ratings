@@ -30,8 +30,8 @@
 | Meet the Merchant | 0.00% | ~0 |
 | Say Cheese! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 466)  
-Completed: 0 (0.00%) (Ranked 247)  
+Progressed: 2 (Ranked 467)  
+Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
