@@ -28,7 +28,7 @@
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.43% |
 | 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
-| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.87% |
+| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.83% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 31 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.33% |
 | 32 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -123,7 +123,7 @@
 | 120 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
 | 122 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 122 | [Haven](games/h/haven.md) | 0.66% |
-| 122 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.66% |
+| 124 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.65% |
 | 125 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 125 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.63% |
 | 127 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.61% |
