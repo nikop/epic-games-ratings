@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.27% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 31.25% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -39,8 +39,8 @@
 | 37 | [Scorn](games/s/scorn.md) | 6.93% |
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.13% |
-| 41 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 6.11% |
+| 40 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 6.11% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.11% |
 | 42 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.77% |
 | 43 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
 | 44 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.00% |
@@ -50,7 +50,7 @@
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.71% |
 | 49 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 50 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
-| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.53% |
+| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.52% |
 | 52 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.27% |
 | 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.02% |
 | 54 | [Without Escape](games/w/without_escape.md) | 3.85% |
@@ -65,7 +65,7 @@
 | 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.17% |
 | 64 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.08% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.04% |
-| 66 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
+| 66 | [Monster Harvest](games/m/monster_harvest.md) | 2.99% |
 | 67 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 68 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.88% |
 | 69 | [HordeCore](games/h/hordecore.md) | 2.87% |
@@ -111,7 +111,7 @@
 | 109 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.03% |
 | 110 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
 | 110 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.02% |
-| 112 | [Adios](games/a/adios.md) | 0.99% |
+| 112 | [Adios](games/a/adios.md) | 1.00% |
 | 113 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 113 | [Sable](games/s/sable.md) | 0.98% |
 | 115 | [Hades](games/h/hades.md) | 0.90% |
