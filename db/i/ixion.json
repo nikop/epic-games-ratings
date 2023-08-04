@@ -5,10 +5,10 @@
   "Ranking_Rating": 484,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
-  "Ranking_EOS_Progress": 158,
+  "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3012,
+  "EOS_Progressed": 3013,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4274,6 +4274,11 @@
       "Time": "2023-08-04T06:06:35.1866447+00:00",
       "NumProgressed": 3012,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T16:06:52.1997803+00:00",
+      "NumProgressed": 3013,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4285,7 +4290,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ACH_BASE_10",
@@ -4307,9 +4312,9 @@
       "ID": "ACH_BASE_12",
       "SetID": "92iocjf",
       "Name": "Better Him Than Me",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_BASE_14",
@@ -4317,7 +4322,7 @@
       "Name": "Oats",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_BASE_15",
@@ -4581,7 +4586,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH_BASE_49",
@@ -4621,7 +4626,7 @@
       "Name": "BRAWL!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_BASE_53",
@@ -4629,7 +4634,7 @@
       "Name": "All in Good Health",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_BASE_56",
@@ -4725,7 +4730,7 @@
       "Name": "What the Ruins Teach Us",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_BASE_9",
@@ -4740,13 +4745,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1194,
+      "Progressed": 1195,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3012,
+      "Progressed": 3013,
       "Completed": 0
     }
   ],
@@ -4754,8 +4759,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-08-04T15:05:29.2073305+00:00",
+  "LastChanged_Achievements": "2023-08-04T16:06:52.1997797+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:24.1949352+00:00",
-  "LastUpdate_Ratings": "2023-08-04T14:58:54.6026342+00:00",
-  "LastUpdate_Achievements": "2023-08-04T15:05:29.2074169+00:00"
+  "LastUpdate_Ratings": "2023-08-04T16:00:06.4805954+00:00",
+  "LastUpdate_Achievements": "2023-08-04T16:06:52.1998731+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -331,9 +331,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1780,
+  "EOS_Progressed": 1782,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1721,6 +1721,11 @@
       "Time": "2023-08-03T23:06:46.9028526+00:00",
       "NumProgressed": 1780,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-04T16:06:17.2228465+00:00",
+      "NumProgressed": 1782,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1738,9 +1743,9 @@
       "ID": "ACH_DEAD_OR_ALIVE",
       "SetID": "8j30i9k",
       "Name": "Dead or Alive",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 997
+      "UsersEstimate": 980
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1756,7 +1761,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -1764,7 +1769,7 @@
       "Name": "Dog Days",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_DO_NOT_PASS_GO",
@@ -1772,7 +1777,7 @@
       "Name": "Do Not Pass Go\u2026",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_ELUSIVE_PREY",
@@ -1802,9 +1807,9 @@
       "ID": "ACH_FOR_BALANCE",
       "SetID": "8j30i9k",
       "Name": "For Balance",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_FULL_HOUSE",
@@ -1812,7 +1817,7 @@
       "Name": "Full House",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -1836,7 +1841,7 @@
       "Name": "Gold Digger",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_HEALING_OLD_WOUNDS",
@@ -1876,7 +1881,7 @@
       "Name": "Justice Served",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -1884,7 +1889,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1916,7 +1921,7 @@
       "Name": "Eternity Can Wait",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_MA_BARKER",
@@ -1964,7 +1969,7 @@
       "Name": "Off the Trail",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1980,7 +1985,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2004,7 +2009,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ACH_REVENANT",
@@ -2020,15 +2025,15 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
       "SetID": "8j30i9k",
       "Name": "Self-Improvement",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1265
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2044,7 +2049,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -2060,7 +2065,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -2068,7 +2073,7 @@
       "Name": "Knuckle Sandwich",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_THE_PHILOSOPHERS_STONE",
@@ -2092,7 +2097,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -2108,7 +2113,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1568
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2116,7 +2121,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2148,22 +2153,22 @@
       "Name": "Workers\u0027 Rights",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     }
   ],
   "AchievementSets": [
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1780,
+      "Progressed": 1782,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-02T19:59:24.9286429+00:00",
-  "LastChanged_Achievements": "2023-08-04T15:05:04.0985198+00:00",
+  "LastChanged_Achievements": "2023-08-04T16:06:17.2228458+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:22.150321+00:00",
-  "LastUpdate_Ratings": "2023-08-04T14:58:54.2227465+00:00",
-  "LastUpdate_Achievements": "2023-08-04T15:05:04.0985748+00:00"
+  "LastUpdate_Ratings": "2023-08-04T16:00:05.7715225+00:00",
+  "LastUpdate_Achievements": "2023-08-04T16:06:17.2228975+00:00"
 }

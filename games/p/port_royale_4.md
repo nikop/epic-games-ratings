@@ -22,7 +22,7 @@ Number of Ratings: 53  (23.09.2022)
 | Megalomania | 29.00% | ~232 |
 | Collectionitis | 28.00% | ~224 |
 | Christening | 27.00% | ~216 |
-| Groundskeeper | 25.00% | ~200 |
+| Groundskeeper | 26.00% | ~208 |
 | Wholesale | 22.00% | ~176 |
 | Walk the plank | 20.00% | ~160 |
 | Pearly gates | 17.00% | ~136 |

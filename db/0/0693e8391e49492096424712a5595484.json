@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 40,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 359,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 6.13,
   "EosHistory": [
@@ -1428,9 +1428,9 @@
       "ID": "HastrmanAmanita",
       "SetID": "db30heh",
       "Name": "Tastes Funny",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     },
     {
       "ID": "HastrmanHappy",
@@ -1564,9 +1564,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 287
+      "UsersEstimate": 291
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -1627,8 +1627,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-04T15:06:01.0792248+00:00",
+  "LastChanged_Achievements": "2023-08-04T16:07:36.5637525+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-04T14:57:24.6483005+00:00",
-  "LastUpdate_Achievements": "2023-08-04T15:06:01.0792685+00:00"
+  "LastUpdate_Ratings": "2023-08-04T15:57:57.2741151+00:00",
+  "LastUpdate_Achievements": "2023-08-04T16:07:36.5637974+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1155,9 +1155,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 7997,
+  "EOS_Progressed": 7998,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9750,6 +9750,11 @@
       "Time": "2023-08-04T15:05:46.3345427+00:00",
       "NumProgressed": 7997,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T16:07:15.7576022+00:00",
+      "NumProgressed": 7998,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -9761,7 +9766,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4798
+      "UsersEstimate": 4799
     },
     {
       "ID": "10",
@@ -9793,7 +9798,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4238
+      "UsersEstimate": 4239
     },
     {
       "ID": "14",
@@ -9841,7 +9846,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4159
     },
     {
       "ID": "2",
@@ -9873,7 +9878,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5758
+      "UsersEstimate": 5759
     },
     {
       "ID": "23",
@@ -9905,7 +9910,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "27",
@@ -9921,7 +9926,7 @@
       "Name": "Merchant",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1760
     },
     {
       "ID": "29",
@@ -9937,7 +9942,7 @@
       "Name": "Great Leader",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1760
     },
     {
       "ID": "30",
@@ -9977,7 +9982,7 @@
       "Name": "Ice Lakes",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "35",
@@ -9985,7 +9990,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "36",
@@ -10001,7 +10006,7 @@
       "Name": "Spreading Influence",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "38",
@@ -10017,7 +10022,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "4",
@@ -10105,7 +10110,7 @@
       "Name": "Mentor",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "5",
@@ -10153,7 +10158,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1999
+      "UsersEstimate": 2000
     },
     {
       "ID": "55",
@@ -10217,7 +10222,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1760
     },
     {
       "ID": "9",
@@ -10232,15 +10237,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 7997,
+      "Progressed": 7998,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-02T01:50:50.0712664+00:00",
-  "LastChanged_Achievements": "2023-08-04T15:05:46.3345422+00:00",
+  "LastChanged_Achievements": "2023-08-04T16:07:15.7576016+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:46.4035157+00:00",
-  "LastUpdate_Ratings": "2023-08-04T15:00:11.5062947+00:00",
-  "LastUpdate_Achievements": "2023-08-04T15:05:46.3346523+00:00"
+  "LastUpdate_Ratings": "2023-08-04T16:01:55.6102661+00:00",
+  "LastUpdate_Achievements": "2023-08-04T16:07:15.7577306+00:00"
 }

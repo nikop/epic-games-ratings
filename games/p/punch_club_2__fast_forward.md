@@ -17,9 +17,9 @@
 | Employee of the week | 75.00% | ~165 |
 | Your own amateur gym | 74.00% | ~163 |
 | Run K, run! | 72.00% | ~158 |
+| No bullying more | 68.00% | ~150 |
 | Hello, world! | 68.00% | ~150 |
 | Fighting is cool | 67.00% | ~147 |
-| No bullying more | 67.00% | ~147 |
 | Pal of your father? | 64.00% | ~141 |
 | Spirit of the past | 62.00% | ~136 |
 | Employee of the month | 61.00% | ~134 |
@@ -44,9 +44,9 @@
 | Mysterious voice | 42.00% | ~92 |
 | Get out of my apartment! | 37.00% | ~81 |
 | Underground dwellers | 37.00% | ~81 |
+| GYM professional | 36.00% | ~79 |
 | Responsible approach | 36.00% | ~79 |
 | Deal with life | 35.00% | ~77 |
-| GYM professional | 35.00% | ~77 |
 | Champion – no way back | 35.00% | ~77 |
 | Poisoned fighter | 35.00% | ~77 |
 | Seashell hunter | 34.00% | ~75 |
@@ -56,8 +56,8 @@
 | Gang wrangler | 30.00% | ~66 |
 | Problems of cyborgs | 30.00% | ~66 |
 | Not little hacker | 30.00% | ~66 |
+| Absolute Champion! | 30.00% | ~66 |
 | The last bell ring | 30.00% | ~66 |
-| Absolute Champion! | 29.00% | ~64 |
 | The lonesome road | 28.00% | ~62 |
 | Keep nature safe | 28.00% | ~62 |
 | Family comes first | 28.00% | ~62 |

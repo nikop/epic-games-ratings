@@ -1,41 +1,41 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.26 (Ranked 814)  
+Rating: 4.26 (Ranked 813)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~154,017 |
-| Copacetic Coordination | 16.00% | ~53,571 |
-| Fronting the Money | 14.00% | ~46,875 |
-| The Dawn of Automation | 14.00% | ~46,875 |
-| Extraordinary Logistics | 14.00% | ~46,875 |
-| Dirty Money | 13.00% | ~43,527 |
-| Family First | 13.00% | ~43,527 |
-| Cleaning House | 12.00% | ~40,178 |
-| Room in the Back | 12.00% | ~40,178 |
-| Booze Baron | 11.00% | ~36,830 |
-| Beating the Heat | 10.00% | ~33,482 |
-| Friends on the Force | 10.00% | ~33,482 |
-| Neighborhood Watch | 10.00% | ~33,482 |
+| Corner Clout | 46.00% | ~154,022 |
+| Copacetic Coordination | 16.00% | ~53,573 |
+| Fronting the Money | 14.00% | ~46,876 |
+| The Dawn of Automation | 14.00% | ~46,876 |
+| Extraordinary Logistics | 14.00% | ~46,876 |
+| Dirty Money | 13.00% | ~43,528 |
+| Family First | 13.00% | ~43,528 |
+| Cleaning House | 12.00% | ~40,180 |
+| Room in the Back | 12.00% | ~40,180 |
+| Booze Baron | 11.00% | ~36,831 |
+| Beating the Heat | 10.00% | ~33,483 |
+| Friends on the Force | 10.00% | ~33,483 |
+| Neighborhood Watch | 10.00% | ~33,483 |
 | Core Corps | 8.00% | ~26,786 |
 | Sizeable Stash | 8.00% | ~26,786 |
-| Street Fighter | 7.00% | ~23,437 |
-| Friendly Gestures | 7.00% | ~23,437 |
-| People Person | 7.00% | ~23,437 |
-| Liquor Lord | 6.00% | ~20,089 |
-| Safety in Numbers | 6.00% | ~20,089 |
-| Show ‘em the Sugar | 6.00% | ~20,089 |
-| Killing Them Softly | 6.00% | ~20,089 |
-| Street Knowledge | 5.00% | ~16,741 |
-| Oh Captain | 5.00% | ~16,741 |
-| Branching Out | 5.00% | ~16,741 |
-| Improvement Missions | 5.00% | ~16,741 |
-| Opportunity Knocked | 5.00% | ~16,741 |
-| City of Big Shoulders | 5.00% | ~16,741 |
-| Moving Experiences | 5.00% | ~16,741 |
-| Mission Mastery | 5.00% | ~16,741 |
-| Wise Head | 5.00% | ~16,741 |
+| Street Fighter | 7.00% | ~23,438 |
+| Friendly Gestures | 7.00% | ~23,438 |
+| People Person | 7.00% | ~23,438 |
+| Liquor Lord | 6.00% | ~20,090 |
+| Safety in Numbers | 6.00% | ~20,090 |
+| Show ‘em the Sugar | 6.00% | ~20,090 |
+| Killing Them Softly | 6.00% | ~20,090 |
+| Street Knowledge | 5.00% | ~16,742 |
+| Oh Captain | 5.00% | ~16,742 |
+| Branching Out | 5.00% | ~16,742 |
+| Improvement Missions | 5.00% | ~16,742 |
+| Opportunity Knocked | 5.00% | ~16,742 |
+| City of Big Shoulders | 5.00% | ~16,742 |
+| Moving Experiences | 5.00% | ~16,742 |
+| Mission Mastery | 5.00% | ~16,742 |
+| Wise Head | 5.00% | ~16,742 |
 | Considerable Clams | 4.00% | ~13,393 |
 | Gin Joint | 4.00% | ~13,393 |
 | An Affront to the Enemy | 4.00% | ~13,393 |
@@ -48,11 +48,11 @@ Rating: 4.26 (Ranked 814)
 | Still Stalwart | 3.00% | ~10,045 |
 | Bees Knees Bootlegger | 3.00% | ~10,045 |
 | Tighten the Screws | 3.00% | ~10,045 |
-| One of Us | 2.00% | ~6,696 |
-| Baker’s Dozen | 2.00% | ~6,696 |
-| Dropping the Dime | 2.00% | ~6,696 |
-| Spiffy Speakeasies | 2.00% | ~6,696 |
-| Keeping Your Word | 2.00% | ~6,696 |
+| One of Us | 2.00% | ~6,697 |
+| Baker’s Dozen | 2.00% | ~6,697 |
+| Dropping the Dime | 2.00% | ~6,697 |
+| Spiffy Speakeasies | 2.00% | ~6,697 |
+| Keeping Your Word | 2.00% | ~6,697 |
 | Boxing Them In | 1.00% | ~3,348 |
 | Backroom Empire | 1.00% | ~3,348 |
 | Corner Control | 1.00% | ~3,348 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 814)
 | High Pillow | 0.10% | ~335 |
 | Station Master | 0.10% | ~335 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 334,820 (Ranked 41)  
+Progressed: 334,831 (Ranked 41)  
 Completed: 6 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 6 (0.00%) (Ranked 248)
 | 2023-08-01 | 334,233 | 6 |
 | 2023-08-02 | 334,475 | 6 |
 | 2023-08-03 | 334,674 | 6 |
-| 2023-08-04 | 334,820 | 6 |
+| 2023-08-04 | 334,831 | 6 |
 ## Awards
 Max (Highly Recommended): 29  (Ranked 461)  
 Sum: 127 (Ranked 402)  

@@ -2,10 +2,10 @@
   "ID": "d400b874b09b4cd49d149358c67aa453",
   "Name": "Electrician Simulator",
   "ProductSlug": "electrician-simulator-164e9f",
-  "Ranking_EOS_Progress": 440,
+  "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38,6 +38,11 @@
     {
       "Time": "2023-08-04T15:05:27.9725057+00:00",
       "NumProgressed": 7,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T16:06:50.3706113+00:00",
+      "NumProgressed": 8,
       "NumCompleted": 0
     }
   ],
@@ -57,7 +62,7 @@
       "ID": "ACH_CONNECT_19_LAMPS_TO_SWITCH",
       "SetID": "al4k4nh",
       "Name": "One to rule them all",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -97,7 +102,7 @@
       "ID": "ACH_END_FIRST_MAIL_MISSION",
       "SetID": "al4k4nh",
       "Name": "I love customers",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -105,7 +110,7 @@
       "ID": "ACH_END_FIRST_TUTORIAL",
       "SetID": "al4k4nh",
       "Name": "Ready to go",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -121,7 +126,7 @@
       "ID": "ACH_END_MAIL_MISSION_FAST",
       "SetID": "al4k4nh",
       "Name": "Gotta go fast",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -129,7 +134,7 @@
       "ID": "ACH_FIRST_SHOCK",
       "SetID": "al4k4nh",
       "Name": "First shock",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -153,7 +158,7 @@
       "ID": "ACH_GET_ALL_MAILS",
       "SetID": "al4k4nh",
       "Name": "Full inbox",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -177,7 +182,7 @@
       "ID": "ACH_GO_TO_MISSION_WITHOUT_NEEDED_ITEMS",
       "SetID": "al4k4nh",
       "Name": "I like the risk",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -193,9 +198,9 @@
       "ID": "ACH_PLACE_FIRST_ITEM_IN_OFFICE",
       "SetID": "al4k4nh",
       "Name": "Home sweet home",
-      "Percentage": 114,
+      "Percentage": 113,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -219,13 +224,13 @@
       "Name": "Unpacked",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
       "SetID": "al4k4nh",
       "Name": "Shocker",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -258,13 +263,13 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-04T15:05:27.972505+00:00",
+  "LastChanged_Achievements": "2023-08-04T16:06:50.3706106+00:00",
   "LastUpdate_AppInfo": "2023-08-02T16:57:18.5596155+00:00",
-  "LastUpdate_Ratings": "2023-08-04T14:57:41.7569255+00:00",
-  "LastUpdate_Achievements": "2023-08-04T15:05:27.990581+00:00"
+  "LastUpdate_Ratings": "2023-08-04T15:58:24.0517157+00:00",
+  "LastUpdate_Achievements": "2023-08-04T16:06:50.3706307+00:00"
 }

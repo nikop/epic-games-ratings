@@ -9,9 +9,9 @@
 | Onk Boga I | 96.00% | ~220 |
 | Sniarb! | 91.00% | ~208 |
 | Blunga 5 | 67.00% | ~153 |
-| Onk Boga II | 64.00% | ~147 |
-| Bzzzzzz | 58.00% | ~133 |
-| Onk Boga III | 50.00% | ~114 |
+| Onk Boga II | 65.00% | ~149 |
+| Bzzzzzz | 59.00% | ~135 |
+| Onk Boga III | 51.00% | ~117 |
 | Danka, Lagga, Wonwon | 43.00% | ~98 |
 | Onk Boga IV | 43.00% | ~98 |
 | Blunga 10 | 41.00% | ~94 |
@@ -23,11 +23,11 @@
 | Onk Boga VII | 34.00% | ~78 |
 | Onk Boga VIII | 34.00% | ~78 |
 | Blubb | 34.00% | ~78 |
+| Blunga 15 | 31.00% | ~71 |
 | ParaPara! | 31.00% | ~71 |
 | Kokakoka | 31.00% | ~71 |
 | Onk Boga IX | 31.00% | ~71 |
 | AKRE! | 31.00% | ~71 |
-| Blunga 15 | 30.00% | ~69 |
 | Blunga 20 | 12.00% | ~27 |
 | Blunga 25 | 7.00% | ~16 |
 | Blunga 30 | 7.00% | ~16 |

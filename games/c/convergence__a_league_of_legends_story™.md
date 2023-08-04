@@ -17,10 +17,10 @@ Rating: 4.60 (Ranked 390)
 | The Prince in Heels | 17.00% | ~140 |
 | Immaculate Aim | 17.00% | ~140 |
 | The Brass Boss | 17.00% | ~140 |
-| The Harder They Fall | 16.00% | ~131 |
-| The Wicked Twins | 16.00% | ~131 |
-| Honest Mistake | 16.00% | ~131 |
-| Fast Learner | 16.00% | ~131 |
+| The Harder They Fall | 16.00% | ~132 |
+| The Wicked Twins | 16.00% | ~132 |
+| Honest Mistake | 16.00% | ~132 |
+| Fast Learner | 16.00% | ~132 |
 | Like Clockwork | 15.00% | ~123 |
 | The Betrayer | 15.00% | ~123 |
 | The Man Who Shattered Time | 15.00% | ~123 |
@@ -42,8 +42,8 @@ Rating: 4.60 (Ranked 390)
 | Factorywood Explorer | 8.00% | ~66 |
 | Fairgrounds Explorer | 8.00% | ~66 |
 | Syron for Hope | 8.00% | ~66 |
-| Cultivair Explorer | 7.00% | ~57 |
-| Entresol Explorer | 7.00% | ~57 |
+| Cultivair Explorer | 7.00% | ~58 |
+| Entresol Explorer | 7.00% | ~58 |
 | Corin Goes Home | 6.00% | ~49 |
 | Sartorialist | 6.00% | ~49 |
 | Clovemary for Remembering | 5.00% | ~41 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 390)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 821 (Ranked 202)  
+Progressed: 822 (Ranked 202)  
 Completed: 5 (0.61%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 5 (0.61%) (Ranked 127)
 | 2023-07-31 | 815 | 5 |
 | 2023-08-01 | 816 | 5 |
 | 2023-08-02 | 820 | 5 |
-| 2023-08-04 | 821 | 5 |
+| 2023-08-04 | 822 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

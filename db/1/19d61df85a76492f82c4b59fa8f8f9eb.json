@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 282,
+  "EOS_Progressed": 283,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 8.87,
+  "EOS_Completed_Percentage": 8.83,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1261,6 +1261,11 @@
       "Time": "2023-08-04T15:05:14.2958103+00:00",
       "NumProgressed": 282,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-08-04T16:06:30.8055271+00:00",
+      "NumProgressed": 283,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 6,
@@ -1272,7 +1277,7 @@
       "Name": "Printing Press",
       "Percentage": 59,
       "XP": 175,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -1280,7 +1285,7 @@
       "Name": "File-cutter",
       "Percentage": 60,
       "XP": 165,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -1304,7 +1309,7 @@
       "Name": "Revolving Bridge",
       "Percentage": 26,
       "XP": 165,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -1319,14 +1324,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 282,
+      "Progressed": 283,
       "Completed": 25
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-04T15:05:14.2958096+00:00",
+  "LastChanged_Achievements": "2023-08-04T16:06:30.8055263+00:00",
   "LastUpdate_AppInfo": "2023-08-03T14:57:18.1003103+00:00",
-  "LastUpdate_Ratings": "2023-08-04T14:57:26.2668993+00:00",
-  "LastUpdate_Achievements": "2023-08-04T15:05:14.2958276+00:00"
+  "LastUpdate_Ratings": "2023-08-04T15:57:59.4794932+00:00",
+  "LastUpdate_Achievements": "2023-08-04T16:06:30.805544+00:00"
 }

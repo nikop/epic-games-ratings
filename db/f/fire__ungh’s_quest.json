@@ -4,8 +4,8 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 229,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 6.11,
   "EosHistory": [
@@ -486,9 +486,9 @@
       "ID": "15_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 15",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "20_Coins",
@@ -574,17 +574,17 @@
       "ID": "Level_completed_002_008",
       "SetID": "6od1ndi",
       "Name": "Onk Boga II",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 147
+      "UsersEstimate": 149
     },
     {
       "ID": "Level_completed_003_001",
       "SetID": "6od1ndi",
       "Name": "Onk Boga III",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 35,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "Level_completed_004_009",
@@ -654,9 +654,9 @@
       "ID": "Rainman_was_shocked_by_lightning_in_001",
       "SetID": "6od1ndi",
       "Name": "Bzzzzzz",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 35,
-      "UsersEstimate": 133
+      "UsersEstimate": 135
     },
     {
       "ID": "Toad_exploded_in_003",
@@ -687,8 +687,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-08-04T15:03:37.9062559+00:00",
+  "LastChanged_Achievements": "2023-08-04T16:04:17.8380322+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:38.8063462+00:00",
-  "LastUpdate_Ratings": "2023-08-04T15:00:05.5809429+00:00",
-  "LastUpdate_Achievements": "2023-08-04T15:03:37.9062782+00:00"
+  "LastUpdate_Ratings": "2023-08-04T16:01:47.0826766+00:00",
+  "LastUpdate_Achievements": "2023-08-04T16:04:17.8380556+00:00"
 }

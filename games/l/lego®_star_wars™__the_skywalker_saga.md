@@ -44,10 +44,10 @@ Number of Ratings: 2,536  (23.09.2022)
 | Western Reaches | 2.00% | ~1,000 |
 | Trailing Sectors | 2.00% | ~1,000 |
 | The Arkanis Sector | 2.00% | ~1,000 |
+| ''A little short for a Stormtrooper...'' | 2.00% | ~1,000 |
 | ''Power! Unlimited power!'' | 2.00% | ~1,000 |
 | ''You needn't worry about your reward'' | 2.00% | ~1,000 |
 | ''Now I am the Master'' | 2.00% | ~1,000 |
-| ''A little short for a Stormtrooper...'' | 1.00% | ~500 |
 | ''Jedi Business'' | 1.00% | ~500 |
 | ''No more training, do you require'' | 1.00% | ~500 |
 | ''I've never seen a real one!'' | 0.90% | ~450 |

@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1169,
+  "EOS_Progressed": 1170,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.02,
   "EosHistory": [
@@ -1981,6 +1981,11 @@
       "Time": "2023-08-04T05:08:05.1653653+00:00",
       "NumProgressed": 1169,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-08-04T16:08:17.1295393+00:00",
+      "NumProgressed": 1170,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 16,
@@ -2000,7 +2005,7 @@
       "Name": "Deep Listener",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -2119,7 +2124,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1169,
+      "Progressed": 1170,
       "Completed": 47
     }
   ],
@@ -2127,8 +2132,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-08-04T15:06:29.6887554+00:00",
+  "LastChanged_Achievements": "2023-08-04T16:08:17.1295388+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:25.5227526+00:00",
-  "LastUpdate_Ratings": "2023-08-04T14:58:57.8257529+00:00",
-  "LastUpdate_Achievements": "2023-08-04T15:06:29.6887799+00:00"
+  "LastUpdate_Ratings": "2023-08-04T16:00:11.7315742+00:00",
+  "LastUpdate_Achievements": "2023-08-04T16:08:17.1295632+00:00"
 }

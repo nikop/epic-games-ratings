@@ -1,29 +1,29 @@
 # Salt and Sacrifice
 [Store](https://store.epicgames.com/en-US/p/salt-and-sacrifice)  
 [View Rawdata](../../db/s/salt_and_sacrifice.json)  
-Rating: 4.31 (Ranked 778)  
+Rating: 4.31 (Ranked 779)  
 Number of Ratings: 2,205  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Champion | 90.00% | ~59,044 |
-| The Pyromancer | 86.00% | ~56,419 |
-| The Wastes | 83.00% | ~54,451 |
-| Waste Not | 80.00% | ~52,483 |
-| The Cryomancer | 76.00% | ~49,859 |
-| Stock Up | 75.00% | ~49,203 |
-| The Hydromancer | 73.00% | ~47,891 |
-| The Matriarch | 70.00% | ~45,923 |
+| The Pyromancer | 86.00% | ~56,420 |
+| The Wastes | 83.00% | ~54,452 |
+| Waste Not | 80.00% | ~52,484 |
+| The Cryomancer | 76.00% | ~49,860 |
+| Stock Up | 75.00% | ~49,204 |
+| The Hydromancer | 73.00% | ~47,892 |
+| The Matriarch | 70.00% | ~45,924 |
 | The Aeromancer | 66.00% | ~43,299 |
 | The Venomancer | 66.00% | ~43,299 |
 | The Huntsman | 65.00% | ~42,643 |
 | Dawnlight Order | 64.00% | ~41,987 |
-| The Electromancer | 61.00% | ~40,018 |
-| The Terramancer | 59.00% | ~38,706 |
-| The Exalted | 57.00% | ~37,394 |
-| Blueheart Runners | 55.00% | ~36,082 |
-| Sheriff Inquisitors | 55.00% | ~36,082 |
-| The Necromancer | 52.00% | ~34,114 |
+| The Electromancer | 61.00% | ~40,019 |
+| The Terramancer | 59.00% | ~38,707 |
+| The Exalted | 57.00% | ~37,395 |
+| Blueheart Runners | 55.00% | ~36,083 |
+| Sheriff Inquisitors | 55.00% | ~36,083 |
+| The Necromancer | 52.00% | ~34,115 |
 | The Swamp | 50.00% | ~32,802 |
 | The Fungalmancer | 47.00% | ~30,834 |
 | The Thaumamancer | 47.00% | ~30,834 |
@@ -32,14 +32,14 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Mountain | 40.00% | ~26,242 |
 | The Treeheart | 40.00% | ~26,242 |
 | Shroud Alliance | 39.00% | ~25,586 |
-| The Two Monks | 37.00% | ~24,273 |
-| The Neuromancer | 35.00% | ~22,961 |
-| Oathbound Watchers | 33.00% | ~21,649 |
-| The Chronomancer | 32.00% | ~20,993 |
-| The Mechanomancer | 32.00% | ~20,993 |
-| The Copse | 30.00% | ~19,681 |
-| The Dragon | 30.00% | ~19,681 |
-| The Dracomancer | 30.00% | ~19,681 |
+| The Two Monks | 37.00% | ~24,274 |
+| The Neuromancer | 35.00% | ~22,962 |
+| Oathbound Watchers | 33.00% | ~21,650 |
+| The Chronomancer | 32.00% | ~20,994 |
+| The Mechanomancer | 32.00% | ~20,994 |
+| The Copse | 30.00% | ~19,682 |
+| The Dragon | 30.00% | ~19,682 |
+| The Dracomancer | 30.00% | ~19,682 |
 | Well Stocked | 28.00% | ~18,369 |
 | The Umbramancer | 28.00% | ~18,369 |
 | Chaos Hunger | 27.00% | ~17,713 |
@@ -55,12 +55,12 @@ Number of Ratings: 2,205  (23.09.2022)
 | The King | 19.00% | ~12,465 |
 | Take Your Place | 14.00% | ~9,185 |
 | The Nomad | 14.00% | ~9,185 |
-| The Soldier | 11.00% | ~7,216 |
+| The Soldier | 11.00% | ~7,217 |
 | Make The Climb | 10.00% | ~6,560 |
 | The Scholar | 10.00% | ~6,560 |
 | Top Shelf | 5.00% | ~3,280 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,604 (Ranked 81)  
+Progressed: 65,605 (Ranked 81)  
 Completed: 1,206 (1.84%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 1,206 (1.84%) (Ranked 89)
 | 2023-08-01 | 65,570 | 1,205 |
 | 2023-08-02 | 65,588 | 1,205 |
 | 2023-08-03 | 65,596 | 1,206 |
-| 2023-08-04 | 65,604 | 1,206 |
+| 2023-08-04 | 65,605 | 1,206 |
 ## Awards
 Max (Character Customization): 959  (Ranked 145)  
 Sum: 1,920 (Ranked 201)  

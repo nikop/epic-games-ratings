@@ -4,8 +4,8 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -487,9 +487,9 @@
       "ID": "MasterOracleQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "Oracle Mastery",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MasterRaiderQuestlineFirst",
@@ -623,17 +623,17 @@
       "ID": "cards_discovered_complete",
       "SetID": "3b8n56h",
       "Name": "Card Completionist",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "cards_discovered_half",
       "SetID": "3b8n56h",
       "Name": "Card Collector",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "demiurge_defeated",
@@ -736,8 +736,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-08-04T15:04:01.164588+00:00",
+  "LastChanged_Achievements": "2023-08-04T16:04:49.6240924+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:59.0527657+00:00",
-  "LastUpdate_Ratings": "2023-08-04T14:57:47.7203972+00:00",
-  "LastUpdate_Achievements": "2023-08-04T15:04:01.1646213+00:00"
+  "LastUpdate_Ratings": "2023-08-04T15:58:32.6646115+00:00",
+  "LastUpdate_Achievements": "2023-08-04T16:04:49.6241309+00:00"
 }

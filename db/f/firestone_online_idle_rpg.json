@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1759,
+  "EOS_Progressed": 1760,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4712,6 +4712,11 @@
       "Time": "2023-08-04T15:04:14.721944+00:00",
       "NumProgressed": 1759,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-04T16:05:07.7347541+00:00",
+      "NumProgressed": 1760,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -4907,7 +4912,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "fourleafclover",
@@ -4931,7 +4936,7 @@
       "Name": "Full Party",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "gearenchanting",
@@ -4987,7 +4992,7 @@
       "Name": "Hunter",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "inspection",
@@ -4995,7 +5000,7 @@
       "Name": "Inspection",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "jewelenchanting",
@@ -5115,7 +5120,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "prestigiousx10",
@@ -5147,7 +5152,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "scrollmaster",
@@ -5179,7 +5184,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "thealchemist",
@@ -5219,7 +5224,7 @@
       "Name": "The power of Awakening",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "theunstoppable",
@@ -5257,9 +5262,9 @@
       "ID": "transmute",
       "SetID": "3nl4bcg",
       "Name": "Transmute",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "treeoflife",
@@ -5283,7 +5288,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "warmachinesarmy",
@@ -5322,7 +5327,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1759,
+      "Progressed": 1760,
       "Completed": 2
     }
   ],
@@ -5330,8 +5335,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-04T03:58:50.3286371+00:00",
-  "LastChanged_Achievements": "2023-08-04T15:04:14.7219434+00:00",
+  "LastChanged_Achievements": "2023-08-04T16:05:07.7347537+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:54.4032931+00:00",
-  "LastUpdate_Ratings": "2023-08-04T14:58:30.8831282+00:00",
-  "LastUpdate_Achievements": "2023-08-04T15:04:14.7220532+00:00"
+  "LastUpdate_Ratings": "2023-08-04T15:59:31.7918542+00:00",
+  "LastUpdate_Achievements": "2023-08-04T16:05:07.7348616+00:00"
 }

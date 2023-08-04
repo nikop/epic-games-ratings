@@ -5492,10 +5492,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30894,
       "NumberOfAwardsMax": 5116
+    },
+    {
+      "Time": "2023-08-04T15:59:38.9339942+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30895,
+      "NumberOfAwardsMax": 5116
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30894,
+  "NumberOfAwards": 30895,
   "NumberOfAwardsMax": 5116,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5515,7 +5521,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4701
+      "Count": 4702
     },
     {
       "Text": "This game is Relaxing",
@@ -5542,9 +5548,9 @@
       "Count": 3341
     }
   ],
-  "EOS_Progressed": 218595,
+  "EOS_Progressed": 218620,
   "EOS_Completed": 2151,
-  "EOS_NewPlayers": 2217,
+  "EOS_NewPlayers": 2227,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16982,6 +16988,11 @@
       "Time": "2023-08-04T15:02:09.2747997+00:00",
       "NumProgressed": 218595,
       "NumCompleted": 2151
+    },
+    {
+      "Time": "2023-08-04T16:02:48.4933326+00:00",
+      "NumProgressed": 218620,
+      "NumCompleted": 2151
     }
   ],
   "TotalAchievements": 512,
@@ -16993,7 +17004,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8744
+      "UsersEstimate": 8745
     },
     {
       "ID": "objective_completed_10",
@@ -17161,7 +17172,7 @@
       "Name": "Hither of the Feywild",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "objective_completed_1066",
@@ -17361,7 +17372,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6558
+      "UsersEstimate": 6559
     },
     {
       "ID": "objective_completed_110",
@@ -17625,7 +17636,7 @@
       "Name": "Speeds of Destruction",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "objective_completed_1154",
@@ -17665,7 +17676,7 @@
       "Name": "Best Thay Ever",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "objective_completed_1163",
@@ -17689,7 +17700,7 @@
       "Name": "A Demi-god\u0027s Defender",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "objective_completed_1168",
@@ -18065,7 +18076,7 @@
       "Name": "No One Can Hear You Scream",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "objective_completed_1346",
@@ -18081,7 +18092,7 @@
       "Name": "Welcome to the Rock",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "objective_completed_1351",
@@ -18695,9 +18706,9 @@
       "ID": "objective_completed_37",
       "SetID": "cc37lbc",
       "Name": "Treasure Hunters",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 656
     },
     {
       "ID": "objective_completed_378",
@@ -20945,7 +20956,7 @@
       "Name": "Devilishly Cold",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "objective_completed_1215",
@@ -21025,7 +21036,7 @@
       "Name": "Luigi After Hours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "objective_completed_1380",
@@ -21041,7 +21052,7 @@
       "Name": "Electric Mayhem",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "objective_completed_1385",
@@ -21057,7 +21068,7 @@
       "Name": "3,720 to 1",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "objective_completed_1390",
@@ -21081,28 +21092,28 @@
       "Name": "Animated Giff",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184869,
+      "Progressed": 184894,
       "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218595,
+      "Progressed": 218620,
       "Completed": 2151
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-04T11:59:23.3560437+00:00",
-  "LastChanged_Achievements": "2023-08-04T15:02:09.2747989+00:00",
+  "LastChanged": "2023-08-04T15:59:38.933994+00:00",
+  "LastChanged_Achievements": "2023-08-04T16:02:48.493332+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-04T14:58:36.0459624+00:00",
-  "LastUpdate_Achievements": "2023-08-04T15:02:09.2774818+00:00"
+  "LastUpdate_Ratings": "2023-08-04T15:59:38.9340028+00:00",
+  "LastUpdate_Achievements": "2023-08-04T16:02:48.4963186+00:00"
 }

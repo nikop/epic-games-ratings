@@ -5,19 +5,19 @@ Rating: 4.06 (Ranked 913)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,636 |
+| Victor | 93.00% | ~1,637 |
 | World Map | 79.00% | ~1,390 |
-| Temple of Eternals | 56.00% | ~985 |
-| Prestigious | 53.00% | ~932 |
-| Fellowship Power | 41.00% | ~721 |
+| Temple of Eternals | 56.00% | ~986 |
+| Prestigious | 53.00% | ~933 |
+| Fellowship Power | 41.00% | ~722 |
 | Guild Power | 25.00% | ~440 |
 | Prestigious x10 | 22.00% | ~387 |
 | The game is on | 20.00% | ~352 |
 | Exotic Merchant | 18.00% | ~317 |
 | Dragon Clicker | 17.00% | ~299 |
 | Miner Clicker | 17.00% | ~299 |
-| Full Party | 16.00% | ~281 |
-| Inspection | 16.00% | ~281 |
+| Full Party | 16.00% | ~282 |
+| Inspection | 16.00% | ~282 |
 | Enlightenment | 15.00% | ~264 |
 | Dragon Master | 14.00% | ~246 |
 | Hero inspection | 14.00% | ~246 |
@@ -27,9 +27,9 @@ Rating: 4.06 (Ranked 913)
 | Natural Talent | 13.00% | ~229 |
 | Superior | 13.00% | ~229 |
 | The Unstoppable | 13.00% | ~229 |
-| Hunter | 11.00% | ~193 |
-| Scientist | 11.00% | ~193 |
-| The power of Awakening | 11.00% | ~193 |
+| Hunter | 11.00% | ~194 |
+| Scientist | 11.00% | ~194 |
+| The power of Awakening | 11.00% | ~194 |
 | Challenger | 10.00% | ~176 |
 | Daily Quest Completionist | 10.00% | ~176 |
 | Doing My Part | 10.00% | ~176 |
@@ -66,8 +66,8 @@ Rating: 4.06 (Ranked 913)
 | Gear Enchanting | 1.00% | ~18 |
 | Guardian Master | 1.00% | ~18 |
 | Training makes a Pro player | 0.90% | ~16 |
+| Transmute | 0.90% | ~16 |
 | Cauldron Liberator | 0.80% | ~14 |
-| Transmute | 0.80% | ~14 |
 | Titan Power | 0.70% | ~12 |
 | Tree of Life | 0.60% | ~11 |
 | Beast War Machines | 0.50% | ~9 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 913)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,759 (Ranked 172)  
+Progressed: 1,760 (Ranked 172)  
 Completed: 2 (0.11%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 2 (0.11%) (Ranked 193)
 | 2023-07-31 | 1,749 | 2 |
 | 2023-08-01 | 1,750 | 2 |
 | 2023-08-02 | 1,755 | 2 |
-| 2023-08-04 | 1,759 | 2 |
+| 2023-08-04 | 1,760 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -230,7 +230,7 @@
   ],
   "EOS_Progressed": 3097,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3508,9 +3508,9 @@
       "ID": "ACH_EMBRAYO_EXTRACTION",
       "SetID": "816efe",
       "Name": "Stuff Of Nightmares",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 681
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -3821,8 +3821,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-31T01:58:49.4710667+00:00",
-  "LastChanged_Achievements": "2023-08-04T15:03:19.939334+00:00",
+  "LastChanged_Achievements": "2023-08-04T16:03:43.9041716+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.5854461+00:00",
-  "LastUpdate_Ratings": "2023-08-04T14:59:40.3298322+00:00",
-  "LastUpdate_Achievements": "2023-08-04T15:03:19.9393931+00:00"
+  "LastUpdate_Ratings": "2023-08-04T16:01:13.5106179+00:00",
+  "LastUpdate_Achievements": "2023-08-04T16:03:43.9042321+00:00"
 }

@@ -31,8 +31,8 @@ Number of Ratings: 180  (23.09.2022)
 | Exemplary student | 41.00% | ~625 |
 | Mass production | 35.00% | ~533 |
 | Aircraft entrepreneur | 33.00% | ~503 |
+| Crowd in a train | 32.00% | ~488 |
 | The future is now, old man | 32.00% | ~488 |
-| Crowd in a train | 31.00% | ~472 |
 | Not in my backyard | 30.00% | ~457 |
 | The king of the sea | 29.00% | ~442 |
 | City | 28.00% | ~427 |

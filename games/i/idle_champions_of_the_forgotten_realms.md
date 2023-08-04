@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,744 |
-| Beast Intentions | 3.00% | ~6,558 |
+| A Brief Tour of the Realms | 4.00% | ~8,745 |
+| Beast Intentions | 3.00% | ~6,559 |
 | Maddening | 2.00% | ~4,372 |
 | The Silken Swamp | 1.00% | ~2,186 |
 | Supply Run | 1.00% | ~2,186 |
@@ -57,15 +57,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.50% | ~924 |
 | Krux's Speed Run | 0.50% | ~924 |
 | Upholding the Law | 0.40% | ~874 |
-| Hither of the Feywild | 0.40% | ~739 |
-| Speeds of Destruction | 0.40% | ~739 |
+| Hither of the Feywild | 0.40% | ~740 |
+| Speeds of Destruction | 0.40% | ~740 |
 | On the Hunt | 0.40% | ~874 |
-| Best Thay Ever | 0.40% | ~739 |
-| A Demi-god's Defender | 0.40% | ~739 |
+| Best Thay Ever | 0.40% | ~740 |
+| A Demi-god's Defender | 0.40% | ~740 |
 | Homecoming | 0.40% | ~874 |
 | The Lost Heir of Omu | 0.40% | ~874 |
-| No One Can Hear You Scream | 0.40% | ~739 |
-| Welcome to the Rock | 0.40% | ~739 |
+| No One Can Hear You Scream | 0.40% | ~740 |
+| Welcome to the Rock | 0.40% | ~740 |
 | The Forbidden City | 0.40% | ~874 |
 | Wisdom Check | 0.40% | ~874 |
 | Family Entanglements | 0.40% | ~874 |
@@ -83,11 +83,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.40% | ~874 |
 | Overdue Rendezvous | 0.40% | ~874 |
 | Pure Energy | 0.40% | ~874 |
-| Devilishly Cold | 0.40% | ~739 |
-| Luigi After Hours | 0.40% | ~739 |
-| Electric Mayhem | 0.40% | ~739 |
-| 3,720 to 1 | 0.40% | ~739 |
-| Animated Giff | 0.40% | ~739 |
+| Devilishly Cold | 0.40% | ~740 |
+| Luigi After Hours | 0.40% | ~740 |
+| Electric Mayhem | 0.40% | ~740 |
+| 3,720 to 1 | 0.40% | ~740 |
+| Animated Giff | 0.40% | ~740 |
 | Nightmare Rats! | 0.30% | ~555 |
 | The Prince of a Thousand Enemies | 0.30% | ~555 |
 | Downfall | 0.30% | ~555 |
@@ -120,6 +120,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.30% | ~656 |
 | Attack on the Manor | 0.30% | ~656 |
 | The Death Curse | 0.30% | ~656 |
+| Treasure Hunters | 0.30% | ~656 |
 | Nimble Escape | 0.30% | ~656 |
 | Fugitives | 0.30% | ~656 |
 | Premature Betrayal | 0.30% | ~656 |
@@ -190,7 +191,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Gargoyle's Apprentice | 0.20% | ~437 |
 | House of Darkness | 0.20% | ~437 |
 | The Trepidatious Trio | 0.20% | ~437 |
-| Treasure Hunters | 0.20% | ~437 |
 | The Guardian of Orolunga | 0.20% | ~437 |
 | The Lost Love | 0.20% | ~437 |
 | A Saurial's Resolve | 0.20% | ~437 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,595 (Ranked 53)  
+Progressed: 218,620 (Ranked 53)  
 Completed: 2,151 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -625,16 +625,16 @@ Completed: 2,151 (0.98%) (Ranked 113)
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
-| 2023-08-04 | 218,595 | 2,151 |
+| 2023-08-04 | 218,620 | 2,151 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
-Sum: 30,894 (Ranked 38)  
+Sum: 30,895 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,116 |
 | This game is Great for Beginners | 5,059 |
-| This game has Quickly Understood Controls | 4,701 |
+| This game has Quickly Understood Controls | 4,702 |
 | This game is Relaxing | 4,595 |
 | This game has Amazing Characters | 4,052 |
 | This game is Highly Recommended | 4,030 |
@@ -832,4 +832,4 @@ Diff (max vs sum): 29
 | 2023-08-01 | 4.05 | - | 5,108 | 30,850 |
 | 2023-08-02 | 4.05 | - | 5,109 | 30,857 |
 | 2023-08-03 | 4.05 | - | 5,116 | 30,886 |
-| 2023-08-04 | 4.05 | - | 5,116 | 30,894 |
+| 2023-08-04 | 4.05 | - | 5,116 | 30,895 |

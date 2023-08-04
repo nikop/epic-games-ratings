@@ -1,7 +1,7 @@
 # Centipede: Recharged
 [Store](https://store.epicgames.com/en-US/p/centipede-recharged)  
 [View Rawdata](../../db/c/centipede__recharged.json)  
-Rating: 4.31 (Ranked 778)  
+Rating: 4.31 (Ranked 779)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,7 +14,7 @@ Number of Ratings: 76  (23.09.2022)
 | Beat 'em Up | 27.00% | ~4,328 |
 | I Am The Storm | 18.00% | ~2,885 |
 | Still Burnin' | 18.00% | ~2,885 |
-| Deadline | 14.00% | ~2,244 |
+| Deadline | 15.00% | ~2,404 |
 | Eyes On Fire | 13.00% | ~2,084 |
 | Don't Fear The Reaper | 12.00% | ~1,923 |
 | Harvester Of Eyes | 7.00% | ~1,122 |

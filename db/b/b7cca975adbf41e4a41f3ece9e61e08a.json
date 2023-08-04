@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -137,9 +137,9 @@
       "ID": "NEW_ACHIEVEMENT_1_19",
       "SetID": "7opfcp",
       "Name": "A Slap In The Face!",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -169,9 +169,9 @@
       "ID": "NEW_ACHIEVEMENT_1_22",
       "SetID": "7opfcp",
       "Name": "Love You Three Thousand",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_23",
@@ -391,8 +391,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
-  "LastChanged_Achievements": "2023-08-04T15:00:38.9318237+00:00",
+  "LastChanged_Achievements": "2023-08-04T16:02:34.3385624+00:00",
   "LastUpdate_AppInfo": "2023-08-04T13:02:00.8548915+00:00",
-  "LastUpdate_Ratings": "2023-08-04T14:57:23.5287873+00:00",
-  "LastUpdate_Achievements": "2023-08-04T15:00:38.931884+00:00"
+  "LastUpdate_Ratings": "2023-08-04T15:57:56.6767283+00:00",
+  "LastUpdate_Achievements": "2023-08-04T16:02:34.3386029+00:00"
 }

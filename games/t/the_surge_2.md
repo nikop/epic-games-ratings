@@ -10,21 +10,21 @@ Rating: 4.25 (Ranked 819)
 | Jailbreak | 65.00% | ~1,269 |
 | HEADSHOT! | 38.00% | ~742 |
 | Suited and Booted | 38.00% | ~742 |
-| Sleeping With The Fishes | 35.00% | ~683 |
+| Sleeping With The Fishes | 35.00% | ~684 |
 | Overheated | 30.00% | ~586 |
 | High Performance | 30.00% | ~586 |
 | Powered Up | 28.00% | ~547 |
-| Studied The Blade | 24.00% | ~468 |
-| Home Invasion | 22.00% | ~429 |
-| Luminary | 22.00% | ~429 |
-| It's a Trap | 22.00% | ~429 |
+| Studied The Blade | 24.00% | ~469 |
+| Home Invasion | 22.00% | ~430 |
+| Luminary | 22.00% | ~430 |
+| It's a Trap | 22.00% | ~430 |
 | True Survivor | 21.00% | ~410 |
-| Offensive Defense | 20.00% | ~390 |
-| Shocking | 20.00% | ~390 |
+| Offensive Defense | 20.00% | ~391 |
+| Shocking | 20.00% | ~391 |
 | Court Martial | 19.00% | ~371 |
 | Unforeseeable Consequences | 19.00% | ~371 |
-| Dead Again | 18.00% | ~351 |
-| Clean Cut | 18.00% | ~351 |
+| Dead Again | 18.00% | ~352 |
+| Clean Cut | 18.00% | ~352 |
 | Full Arsenal | 16.00% | ~312 |
 | Can't Trust Banks | 15.00% | ~293 |
 | Mommy Dearest | 13.00% | ~254 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 819)
 | Box Office Smash | 1.00% | ~20 |
 | The Easy Way Out | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,952 (Ranked 169)  
+Progressed: 1,953 (Ranked 169)  
 Completed: 10 (0.51%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 10 (0.51%) (Ranked 136)
 | 2023-08-01 | 1,937 | 10 |
 | 2023-08-02 | 1,945 | 10 |
 | 2023-08-03 | 1,949 | 10 |
-| 2023-08-04 | 1,952 | 10 |
+| 2023-08-04 | 1,953 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

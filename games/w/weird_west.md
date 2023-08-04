@@ -6,28 +6,28 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,566 |
-| Self-Improvement | 72.00% | ~1,282 |
-| Perky | 65.00% | ~1,157 |
-| Let’s Ride | 60.00% | ~1,068 |
-| Welcome to the Weird West | 57.00% | ~1,015 |
-| Dead or Alive | 56.00% | ~997 |
-| Full House | 36.00% | ~641 |
-| Off the Trail | 33.00% | ~587 |
-| Justice Served | 29.00% | ~516 |
+| Unforgiven | 88.00% | ~1,568 |
+| Self-Improvement | 71.00% | ~1,265 |
+| Perky | 65.00% | ~1,158 |
+| Let’s Ride | 60.00% | ~1,069 |
+| Welcome to the Weird West | 57.00% | ~1,016 |
+| Dead or Alive | 55.00% | ~980 |
+| Full House | 36.00% | ~642 |
+| Off the Trail | 33.00% | ~588 |
+| Justice Served | 29.00% | ~517 |
 | Chain Reaction | 27.00% | ~481 |
-| Dishonored | 25.00% | ~445 |
-| Rain of Death | 25.00% | ~445 |
-| Scholar | 25.00% | ~445 |
-| Through Their Eyes | 25.00% | ~445 |
-| The Great Escape | 23.00% | ~409 |
-| That’s All, Folks | 18.00% | ~320 |
+| Dishonored | 25.00% | ~446 |
+| Rain of Death | 25.00% | ~446 |
+| Scholar | 25.00% | ~446 |
+| Through Their Eyes | 25.00% | ~446 |
+| The Great Escape | 23.00% | ~410 |
+| That’s All, Folks | 18.00% | ~321 |
 | Fallen Star | 16.00% | ~285 |
-| For Balance | 16.00% | ~285 |
 | Here Comes Santa Claus | 16.00% | ~285 |
 | Winds of War | 16.00% | ~285 |
-| Dog Days | 13.00% | ~231 |
-| Workers' Rights | 13.00% | ~231 |
+| For Balance | 15.00% | ~267 |
+| Dog Days | 13.00% | ~232 |
+| Workers' Rights | 13.00% | ~232 |
 | Elusive Prey | 12.00% | ~214 |
 | Out on the Ebb Tide | 12.00% | ~214 |
 | Power Behind the Pulpit | 12.00% | ~214 |
@@ -37,10 +37,10 @@ Number of Ratings: 125  (23.09.2022)
 | The Philosopher’s Stone | 10.00% | ~178 |
 | Loyalty to the Pack | 9.00% | ~160 |
 | Mystery Machine | 9.00% | ~160 |
-| Do Not Pass Go… | 8.00% | ~142 |
-| Gold Digger | 8.00% | ~142 |
-| Eternity Can Wait | 8.00% | ~142 |
-| Knuckle Sandwich | 8.00% | ~142 |
+| Do Not Pass Go… | 8.00% | ~143 |
+| Gold Digger | 8.00% | ~143 |
+| Eternity Can Wait | 8.00% | ~143 |
+| Knuckle Sandwich | 8.00% | ~143 |
 | Getting the Gang Back Together | 7.00% | ~125 |
 | Monster Hunter | 7.00% | ~125 |
 | Healing Old Wounds | 6.00% | ~107 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,780 (Ranked 171)  
+Progressed: 1,782 (Ranked 171)  
 Completed: 4 (0.22%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,6 +152,7 @@ Completed: 4 (0.22%) (Ranked 171)
 | 2023-08-01 | 1,765 | 4 |
 | 2023-08-02 | 1,773 | 4 |
 | 2023-08-03 | 1,780 | 4 |
+| 2023-08-04 | 1,782 | 4 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 481)  
 Sum: 24 (Ranked 485)  

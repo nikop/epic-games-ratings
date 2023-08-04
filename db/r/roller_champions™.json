@@ -4,11 +4,11 @@
   "ProductSlug": "roller-champions",
   "Ranking_Rating": 753,
   "Ranking_Popularity": 251,
-  "Ranking_PopularitySum": 192,
+  "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-06-23T13:40:00+00:00",
     "PcReleaseDate": "2022-05-25T14:00:00+00:00",
@@ -2438,10 +2438,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 2139,
       "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2023-08-04T15:59:52.239959+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 2141,
+      "NumberOfAwardsMax": 247
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2139,
+  "NumberOfAwards": 2141,
   "NumberOfAwardsMax": 247,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2467,7 +2473,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 236
+      "Count": 238
     },
     {
       "Text": "This game is Relaxing",
@@ -2523,8 +2529,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2023-08-04T13:03:57.8287621+00:00",
+  "LastChanged": "2023-08-04T15:59:52.2399588+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:12.8135388+00:00",
-  "LastUpdate_Ratings": "2023-08-04T14:58:45.4001177+00:00",
-  "LastUpdate_Achievements": "2023-08-04T15:02:29.8036763+00:00"
+  "LastUpdate_Ratings": "2023-08-04T15:59:52.2399599+00:00",
+  "LastUpdate_Achievements": "2023-08-04T16:03:15.9345412+00:00"
 }

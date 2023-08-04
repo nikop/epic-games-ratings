@@ -9,8 +9,8 @@ Number of Ratings: 371  (23.09.2022)
 | Look Over There! | 3.00% | ~94 |
 | Not So Fast... | 3.00% | ~94 |
 | Executioner | 3.00% | ~94 |
+| Watch Where You Step... | 3.00% | ~94 |
 | Blood for the Blood God! | 2.00% | ~62 |
-| Watch Where You Step... | 2.00% | ~62 |
 | Purging Spree | 2.00% | ~62 |
 | An Ill Omen | 2.00% | ~62 |
 | Bloodless | 2.00% | ~62 |
@@ -22,9 +22,9 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 0.60% | ~19 |
 | Gunmaster | 0.60% | ~19 |
 | Just a Scratch | 0.60% | ~19 |
+| Execution Force | 0.60% | ~19 |
 | Hold Your Ground | 0.50% | ~16 |
 | Corruption Cleanser | 0.50% | ~16 |
-| Execution Force | 0.50% | ~16 |
 | Hive Exterminator | 0.50% | ~16 |
 | Daemonkeeper | 0.30% | ~9 |
 | Mind Like a Fortress | 0.30% | ~9 |

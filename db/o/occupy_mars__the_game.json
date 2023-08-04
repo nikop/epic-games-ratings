@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1462,
+  "EOS_Progressed": 1463,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2983,6 +2983,11 @@
       "Time": "2023-08-04T12:05:50.0354758+00:00",
       "NumProgressed": 1462,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T16:05:57.9737371+00:00",
+      "NumProgressed": 1463,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3090,7 +3095,7 @@
       "Name": "\u201CAliens\u201D",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALL_WHEEL_TROUBLE",
@@ -3170,7 +3175,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -3210,7 +3215,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -3250,7 +3255,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -3377,7 +3382,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1462,
+      "Progressed": 1463,
       "Completed": 0
     }
   ],
@@ -3385,8 +3390,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-07-31T07:57:50.7109089+00:00",
-  "LastChanged_Achievements": "2023-08-04T15:04:50.9824358+00:00",
+  "LastChanged_Achievements": "2023-08-04T16:05:57.9737364+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:07.5190813+00:00",
-  "LastUpdate_Ratings": "2023-08-04T14:57:55.5048116+00:00",
-  "LastUpdate_Achievements": "2023-08-04T15:04:50.9824945+00:00"
+  "LastUpdate_Ratings": "2023-08-04T15:58:44.1083314+00:00",
+  "LastUpdate_Achievements": "2023-08-04T16:05:57.9737901+00:00"
 }

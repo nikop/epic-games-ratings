@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -742,7 +742,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6574,
+  "EOS_Progressed": 6575,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -4172,6 +4172,11 @@
       "Time": "2023-08-04T11:05:48.7479476+00:00",
       "NumProgressed": 6574,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-04T16:06:48.6317119+00:00",
+      "NumProgressed": 6575,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4263,7 +4268,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -4287,7 +4292,7 @@
       "Name": "Farewell to Arms",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
@@ -4295,7 +4300,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 2169
+      "UsersEstimate": 2170
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -4319,7 +4324,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -4327,7 +4332,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -4351,7 +4356,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2432
+      "UsersEstimate": 2433
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -4359,7 +4364,7 @@
       "Name": "Millenial",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -4391,7 +4396,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -4447,7 +4452,7 @@
       "Name": "Saboteur",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ISONZO_ACH_THE_DEVILS_PAINTBRUSH",
@@ -4479,7 +4484,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -4495,7 +4500,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -4519,7 +4524,7 @@
       "Name": "Uomo Universale",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -4535,14 +4540,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6574,
+      "Progressed": 6575,
       "Completed": 8
     }
   ],
@@ -4550,8 +4555,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-03T13:04:56.6804323+00:00",
-  "LastChanged_Achievements": "2023-08-04T15:05:26.7170591+00:00",
+  "LastChanged_Achievements": "2023-08-04T16:06:48.6317113+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:14.0482826+00:00",
-  "LastUpdate_Ratings": "2023-08-04T14:58:03.6608948+00:00",
-  "LastUpdate_Achievements": "2023-08-04T15:05:26.7171365+00:00"
+  "LastUpdate_Ratings": "2023-08-04T15:58:53.4534502+00:00",
+  "LastUpdate_Achievements": "2023-08-04T16:06:48.6317626+00:00"
 }

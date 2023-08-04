@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 821,
+  "EOS_Progressed": 822,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -1930,6 +1930,11 @@
       "Time": "2023-08-04T05:05:08.4777252+00:00",
       "NumProgressed": 821,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-04T16:05:20.7878242+00:00",
+      "NumProgressed": 822,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2021,7 +2026,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "EntresolChests1",
@@ -2029,7 +2034,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -2189,7 +2194,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ParryRepeated1",
@@ -2213,7 +2218,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "PidgeDefeated",
@@ -2237,7 +2242,7 @@
       "Name": "Honest Mistake",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2269,7 +2274,7 @@
       "Name": "Fast Learner",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "SpeedRun",
@@ -2364,7 +2369,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 821,
+      "Progressed": 822,
       "Completed": 5
     }
   ],
@@ -2372,8 +2377,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-04T15:04:23.8787738+00:00",
+  "LastChanged_Achievements": "2023-08-04T16:05:20.7878236+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.2379789+00:00",
-  "LastUpdate_Ratings": "2023-08-04T14:59:38.6927831+00:00",
-  "LastUpdate_Achievements": "2023-08-04T15:04:23.878834+00:00"
+  "LastUpdate_Ratings": "2023-08-04T16:01:10.6129765+00:00",
+  "LastUpdate_Achievements": "2023-08-04T16:05:20.787912+00:00"
 }

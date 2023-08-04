@@ -8,11 +8,11 @@ Rating: 4.55 (Ranked 484)
 | Wakey Wakey | 24.00% | ~723 |
 | Infinite Growth... | 21.00% | ~633 |
 | Sputnik 2049 | 21.00% | ~633 |
-| Without Breaking Some Eggs... | 20.00% | ~602 |
+| Without Breaking Some Eggs... | 20.00% | ~603 |
 | Space Society | 14.00% | ~422 |
 | A Thousand Strong | 14.00% | ~422 |
 | Ready for a New World | 14.00% | ~422 |
-| Permanent Redesigns | 12.00% | ~361 |
+| Permanent Redesigns | 12.00% | ~362 |
 | Fully Recycled | 11.00% | ~331 |
 | Ain't Nobody Got Time for That | 11.00% | ~331 |
 | The Ship of Theseus | 11.00% | ~331 |
@@ -29,10 +29,10 @@ Rating: 4.55 (Ranked 484)
 | Access Granted | 5.00% | ~151 |
 | Necessary Enhancement | 5.00% | ~151 |
 | From the Past | 5.00% | ~151 |
-| Oats | 4.00% | ~120 |
-| BRAWL! | 4.00% | ~120 |
-| All in Good Health | 4.00% | ~120 |
-| What the Ruins Teach Us | 4.00% | ~120 |
+| Oats | 4.00% | ~121 |
+| BRAWL! | 4.00% | ~121 |
+| All in Good Health | 4.00% | ~121 |
+| What the Ruins Teach Us | 4.00% | ~121 |
 | What They Hide From Us | 3.00% | ~90 |
 | ...  in a finite world | 3.00% | ~90 |
 | Sustainable Energy | 3.00% | ~90 |
@@ -49,8 +49,8 @@ Rating: 4.55 (Ranked 484)
 | You Had One Job... | 1.00% | ~30 |
 | Tiqqun Unchained | 1.00% | ~30 |
 | Scientifically Accurate | 1.00% | ~30 |
+| Better Him Than Me | 0.90% | ~27 |
 | Gregor Spinoza | 0.90% | ~27 |
-| Better Him Than Me | 0.80% | ~24 |
 | Remember the Dead | 0.80% | ~24 |
 | Work Harder | 0.40% | ~12 |
 | Soylent Green | 0.30% | ~9 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 484)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,012 (Ranked 158)  
+Progressed: 3,013 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 0 (0.00%) (Ranked 248)
 | 2023-08-01 | 2,996 | 0 |
 | 2023-08-02 | 3,005 | 0 |
 | 2023-08-03 | 3,011 | 0 |
-| 2023-08-04 | 3,012 | 0 |
+| 2023-08-04 | 3,013 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
