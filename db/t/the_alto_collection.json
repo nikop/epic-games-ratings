@@ -745,9 +745,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 34032,
+  "EOS_Progressed": 34035,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 975,
+  "EOS_NewPlayers": 970,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12305,6 +12305,11 @@
       "Time": "2023-08-04T20:04:18.3583534+00:00",
       "NumProgressed": 34032,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-04T21:04:53.7276691+00:00",
+      "NumProgressed": 34035,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -12340,7 +12345,7 @@
       "Name": "Scout",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3403
+      "UsersEstimate": 3404
     },
     {
       "ID": "distance500000",
@@ -12356,7 +12361,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 8848
+      "UsersEstimate": 8849
     },
     {
       "ID": "goals180",
@@ -12444,7 +12449,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5445
+      "UsersEstimate": 5446
     },
     {
       "ID": "playerFelipe",
@@ -12524,7 +12529,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 8848
+      "UsersEstimate": 8849
     },
     {
       "ID": "sandboarder",
@@ -12627,15 +12632,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 34032,
+      "Progressed": 34035,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-28T06:00:25.7046366+00:00",
-  "LastChanged_Achievements": "2023-08-04T20:04:18.3583527+00:00",
+  "LastChanged_Achievements": "2023-08-04T21:04:53.7276686+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:58.7881773+00:00",
-  "LastUpdate_Ratings": "2023-08-04T19:59:43.1865446+00:00",
-  "LastUpdate_Achievements": "2023-08-04T20:04:18.3584299+00:00"
+  "LastUpdate_Ratings": "2023-08-04T21:00:52.65722+00:00",
+  "LastUpdate_Achievements": "2023-08-04T21:04:53.7278513+00:00"
 }

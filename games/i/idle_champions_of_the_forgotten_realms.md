@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,747 |
+| A Brief Tour of the Realms | 4.00% | ~8,748 |
 | Beast Intentions | 3.00% | ~6,561 |
 | Maddening | 2.00% | ~4,374 |
 | The Silken Swamp | 1.00% | ~2,187 |
@@ -137,6 +137,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.30% | ~656 |
 | Dinosaur Racing | 0.30% | ~656 |
 | Elturel Has Fallen | 0.30% | ~656 |
+| Resolve Amongst Chaos | 0.30% | ~656 |
 | Market Fluctuations | 0.30% | ~656 |
 | The Giant's Bane Tavern | 0.30% | ~555 |
 | The Everlasting Rime | 0.30% | ~555 |
@@ -147,6 +148,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Easily Distracted | 0.30% | ~656 |
 | Rude Welcome | 0.30% | ~656 |
 | Moose Tracks | 0.30% | ~555 |
+| Civilization | 0.30% | ~555 |
 | Durable Deep | 0.30% | ~656 |
 | The Templar's Camp | 0.30% | ~656 |
 | Rescue in the Jungle | 0.30% | ~656 |
@@ -208,7 +210,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Troublesome Prisoner | 0.20% | ~437 |
 | Vault of Dragons | 0.20% | ~437 |
 | Champions of Waterdeep | 0.20% | ~437 |
-| Resolve Amongst Chaos | 0.20% | ~437 |
 | Once More Into The Breach | 0.20% | ~437 |
 | Wyllowwood | 0.20% | ~437 |
 | An Illithid Undertaking | 0.20% | ~370 |
@@ -223,7 +224,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Questlines | 0.20% | ~370 |
 | Bel's Forge | 0.20% | ~370 |
 | Rime Bandits | 0.20% | ~370 |
-| Civilization | 0.20% | ~370 |
 | The Sibriex | 0.20% | ~370 |
 | Wrecked Flying Fortress | 0.20% | ~370 |
 | Expert Opinion | 0.20% | ~437 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,685 (Ranked 53)  
-Completed: 2,151 (0.98%) (Ranked 113)  
+Progressed: 218,698 (Ranked 53)  
+Completed: 2,152 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -625,7 +625,7 @@ Completed: 2,151 (0.98%) (Ranked 113)
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
-| 2023-08-04 | 218,685 | 2,151 |
+| 2023-08-04 | 218,698 | 2,152 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,897 (Ranked 38)  

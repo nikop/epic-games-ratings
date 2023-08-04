@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -1298,9 +1298,9 @@
       "ID": "ACTIVATE_ALL_TYPEGROUPS",
       "SetID": "6ohhfoc",
       "Name": "Full house",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 59
     },
     {
       "ID": "CHALLENGE_ALPHA",
@@ -1418,9 +1418,9 @@
       "ID": "DIE_FORGE_CUSTOM",
       "SetID": "6ohhfoc",
       "Name": "Manipulating Fate",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 88
     },
     {
       "ID": "DIE_MAX_POWER",
@@ -1530,9 +1530,9 @@
       "ID": "THREE_HAPPY_CLASSES",
       "SetID": "6ohhfoc",
       "Name": "Listening to the crowd",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 59
     },
     {
       "ID": "TRIPLE_FAIR",
@@ -1667,8 +1667,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-08-04T20:04:55.6559465+00:00",
+  "LastChanged_Achievements": "2023-08-04T21:05:45.5249307+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:34.6009035+00:00",
-  "LastUpdate_Ratings": "2023-08-04T19:58:16.0084834+00:00",
-  "LastUpdate_Achievements": "2023-08-04T20:04:55.655981+00:00"
+  "LastUpdate_Ratings": "2023-08-04T20:58:45.6129991+00:00",
+  "LastUpdate_Achievements": "2023-08-04T21:05:45.52499+00:00"
 }

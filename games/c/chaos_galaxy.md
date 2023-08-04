@@ -8,7 +8,7 @@
 | Honor Medal | 28.00% | ~7 |
 | Assassination | 24.00% | ~6 |
 | Great Civil War | 24.00% | ~6 |
-| Princess Crowned | 12.00% | ~3 |
+| Princess Crowned | 16.00% | ~4 |
 | Secret War | 12.00% | ~3 |
 | Investment | 12.00% | ~3 |
 | 2nd AI War | 8.00% | ~2 |

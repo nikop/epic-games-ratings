@@ -88,9 +88,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 0.40% | ~53 |
 | Subjugator | 0.40% | ~53 |
 | Victorious | 0.40% | ~53 |
+| Strong Difficulty | 0.40% | ~53 |
 | Riders | 0.40% | ~53 |
 | Hittite Iron | 0.40% | ~53 |
 | Circus Maximus | 0.40% | ~53 |
+| Hagia Sophia | 0.40% | ~53 |
 | Temple of Solomon | 0.40% | ~53 |
 | Adur Burzen-Mihr | 0.40% | ~53 |
 | Pantheon | 0.40% | ~53 |
@@ -111,11 +113,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.30% | ~40 |
 | Invincible | 0.30% | ~40 |
 | Ready | 0.30% | ~40 |
-| Strong Difficulty | 0.30% | ~40 |
 | Clerics | 0.30% | ~40 |
 | Hunters | 0.30% | ~40 |
 | Landowners | 0.30% | ~40 |
-| Hagia Sophia | 0.30% | ~40 |
 | Church of the Holy Sepulchre | 0.30% | ~40 |
 | Learn to Play 4 | 0.30% | ~40 |
 | Babylonia | 0.30% | ~40 |

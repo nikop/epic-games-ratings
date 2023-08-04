@@ -17,15 +17,15 @@
 | Employee of the week | 76.00% | ~167 |
 | Your own amateur gym | 74.00% | ~163 |
 | Run K, run! | 72.00% | ~158 |
+| Hello, world! | 69.00% | ~152 |
+| Fighting is cool | 68.00% | ~150 |
 | No bullying more | 68.00% | ~150 |
-| Hello, world! | 68.00% | ~150 |
-| Fighting is cool | 67.00% | ~147 |
-| Pal of your father? | 64.00% | ~141 |
+| Pal of your father? | 65.00% | ~143 |
+| Spirit of the past | 63.00% | ~139 |
 | Employee of the month | 63.00% | ~139 |
-| Spirit of the past | 62.00% | ~136 |
-| Law student | 60.00% | ~132 |
+| Law student | 61.00% | ~134 |
+| Little hacker | 58.00% | ~128 |
 | Intriguing candies | 58.00% | ~128 |
-| Little hacker | 57.00% | ~125 |
 | Workout professional | 55.00% | ~121 |
 | Champion – starter pack | 55.00% | ~121 |
 | It's good to be alive | 55.00% | ~121 |
@@ -58,12 +58,12 @@
 | Not little hacker | 30.00% | ~66 |
 | Absolute Champion! | 30.00% | ~66 |
 | The last bell ring | 30.00% | ~66 |
-| The lonesome road | 28.00% | ~62 |
-| Keep nature safe | 28.00% | ~62 |
+| The lonesome road | 29.00% | ~64 |
+| Keep nature safe | 29.00% | ~64 |
+| Key memories | 29.00% | ~64 |
+| The heart of the Resistance | 29.00% | ~64 |
 | Family comes first | 28.00% | ~62 |
-| Key memories | 28.00% | ~62 |
 | Careerist | 28.00% | ~62 |
-| The heart of the Resistance | 28.00% | ~62 |
 | Another world | 27.00% | ~59 |
 | Anyone can resist | 27.00% | ~59 |
 | Trap disarmed | 26.00% | ~57 |
@@ -71,7 +71,7 @@
 | Better cooking at home | 25.00% | ~55 |
 | The only right decision | 24.00% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220 (Ranked 276)  
+Progressed: 220 (Ranked 277)  
 Completed: 8 (3.64%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |

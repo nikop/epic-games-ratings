@@ -5554,10 +5554,10 @@
       "Count": 3341
     }
   ],
-  "EOS_Progressed": 218685,
-  "EOS_Completed": 2151,
-  "EOS_NewPlayers": 2228,
-  "EOS_NewCompleters": 18,
+  "EOS_Progressed": 218698,
+  "EOS_Completed": 2152,
+  "EOS_NewPlayers": 2221,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -17019,6 +17019,11 @@
       "Time": "2023-08-04T20:02:13.8974699+00:00",
       "NumProgressed": 218685,
       "NumCompleted": 2151
+    },
+    {
+      "Time": "2023-08-04T21:02:38.6965899+00:00",
+      "NumProgressed": 218698,
+      "NumCompleted": 2152
     }
   ],
   "TotalAchievements": 512,
@@ -17030,7 +17035,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8747
+      "UsersEstimate": 8748
     },
     {
       "ID": "objective_completed_10",
@@ -19620,9 +19625,9 @@
       "ID": "objective_completed_605",
       "SetID": "cc37lbc",
       "Name": "Resolve Amongst Chaos",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 656
     },
     {
       "ID": "objective_completed_606",
@@ -20292,9 +20297,9 @@
       "ID": "objective_completed_807",
       "SetID": "415jc5c",
       "Name": "Civilization",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 370
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_808",
@@ -21125,21 +21130,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184959,
+      "Progressed": 184972,
       "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218685,
-      "Completed": 2151
+      "Progressed": 218698,
+      "Completed": 2152
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-04T18:59:33.4169358+00:00",
-  "LastChanged_Achievements": "2023-08-04T20:02:13.8974695+00:00",
+  "LastChanged_Achievements": "2023-08-04T21:02:38.6965894+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-04T19:58:43.6142114+00:00",
-  "LastUpdate_Achievements": "2023-08-04T20:02:13.8998205+00:00"
+  "LastUpdate_Ratings": "2023-08-04T20:59:21.9031561+00:00",
+  "LastUpdate_Achievements": "2023-08-04T21:02:38.6997227+00:00"
 }

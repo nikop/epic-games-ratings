@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -2988,11 +2988,11 @@
       "Count": 490
     }
   ],
-  "EOS_Progressed": 8219,
+  "EOS_Progressed": 8220,
   "EOS_Completed": 187,
-  "EOS_NewPlayers": 578,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 2.28,
+  "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:05:01.9582543+00:00",
@@ -8513,6 +8513,11 @@
       "Time": "2023-08-04T20:03:05.4263079+00:00",
       "NumProgressed": 8219,
       "NumCompleted": 187
+    },
+    {
+      "Time": "2023-08-04T21:03:03.5511462+00:00",
+      "NumProgressed": 8220,
+      "NumCompleted": 187
     }
   ],
   "TotalAchievements": 15,
@@ -8540,7 +8545,7 @@
       "Name": "Bestest Friend",
       "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 3945
+      "UsersEstimate": 3946
     },
     {
       "ID": "Chef_Cook",
@@ -8548,7 +8553,7 @@
       "Name": "Chef Cook",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "Chit_Chatter",
@@ -8564,7 +8569,7 @@
       "Name": "Constructor",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 4356
+      "UsersEstimate": 4357
     },
     {
       "ID": "Duty_Bound",
@@ -8596,7 +8601,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 71,
       "XP": 75,
-      "UsersEstimate": 5835
+      "UsersEstimate": 5836
     },
     {
       "ID": "Miner",
@@ -8612,7 +8617,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 5671
+      "UsersEstimate": 5672
     },
     {
       "ID": "Renovator",
@@ -8636,14 +8641,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 5260
+      "UsersEstimate": 5261
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 8219,
+      "Progressed": 8220,
       "Completed": 187
     }
   ],
@@ -8651,8 +8656,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-08-04T18:59:33.0211279+00:00",
-  "LastChanged_Achievements": "2023-08-04T20:03:05.4263073+00:00",
+  "LastChanged_Achievements": "2023-08-04T21:03:03.5511455+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:57.9650377+00:00",
-  "LastUpdate_Ratings": "2023-08-04T19:58:43.4572645+00:00",
-  "LastUpdate_Achievements": "2023-08-04T20:03:05.426342+00:00"
+  "LastUpdate_Ratings": "2023-08-04T20:59:21.6495438+00:00",
+  "LastUpdate_Achievements": "2023-08-04T21:03:03.5511959+00:00"
 }

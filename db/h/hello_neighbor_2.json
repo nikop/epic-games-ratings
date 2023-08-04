@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -354,9 +354,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2694,
+  "EOS_Progressed": 2695,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.82,
   "EosHistory": [
@@ -2389,6 +2389,11 @@
       "Time": "2023-08-04T18:05:22.0338434+00:00",
       "NumProgressed": 2694,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-08-04T21:06:30.6632746+00:00",
+      "NumProgressed": 2695,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 14,
@@ -2400,7 +2405,7 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -2504,14 +2509,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 76,
       "XP": 35,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2048
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2694,
+      "Progressed": 2695,
       "Completed": 103
     }
   ],
@@ -2519,8 +2524,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-08-04T20:05:27.3216048+00:00",
+  "LastChanged_Achievements": "2023-08-04T21:06:30.6632741+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.70294+00:00",
-  "LastUpdate_Ratings": "2023-08-04T20:00:31.5029077+00:00",
-  "LastUpdate_Achievements": "2023-08-04T20:05:27.3216335+00:00"
+  "LastUpdate_Ratings": "2023-08-04T21:02:04.6673528+00:00",
+  "LastUpdate_Achievements": "2023-08-04T21:06:30.6633005+00:00"
 }

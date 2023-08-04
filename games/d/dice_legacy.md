@@ -6,12 +6,12 @@ Rating: 4.27 (Ranked 807)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | We made it | 36.00% | ~353 |
+| Manipulating Fate | 9.00% | ~88 |
 | The City | 9.00% | ~88 |
-| Manipulating Fate | 8.00% | ~78 |
+| Full house | 6.00% | ~59 |
 | Burn and Pillage | 6.00% | ~59 |
-| Full house | 5.00% | ~49 |
+| Listening to the crowd | 6.00% | ~59 |
 | Hear me out | 5.00% | ~49 |
-| Listening to the crowd | 5.00% | ~49 |
 | Accepting the Prophecy | 5.00% | ~49 |
 | Ascended | 4.00% | ~39 |
 | The Penitent Ones | 4.00% | ~39 |

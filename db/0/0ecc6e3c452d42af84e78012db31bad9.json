@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1994,
+  "EOS_Progressed": 1995,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -3431,6 +3431,11 @@
       "Time": "2023-08-04T20:05:27.0233568+00:00",
       "NumProgressed": 1994,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-04T21:06:30.2826695+00:00",
+      "NumProgressed": 1995,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -3498,7 +3503,7 @@
       "Name": "Cannoneer",
       "Percentage": 27,
       "XP": 65,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "ach_color_splash",
@@ -3514,7 +3519,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "ach_food_completed",
@@ -3546,7 +3551,7 @@
       "Name": "Magic time",
       "Percentage": 29,
       "XP": 65,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ach_no_boosters",
@@ -3562,21 +3567,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 1994,
+      "Progressed": 1995,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-08-04T20:05:27.0233564+00:00",
+  "LastChanged_Achievements": "2023-08-04T21:06:30.282669+00:00",
   "LastUpdate_AppInfo": "2023-08-04T11:57:01.4081798+00:00",
-  "LastUpdate_Ratings": "2023-08-04T19:57:40.587745+00:00",
-  "LastUpdate_Achievements": "2023-08-04T20:05:27.0233807+00:00"
+  "LastUpdate_Ratings": "2023-08-04T20:57:50.8397299+00:00",
+  "LastUpdate_Achievements": "2023-08-04T21:06:30.2827066+00:00"
 }

@@ -30,10 +30,10 @@ Rating: 4.55 (Ranked 485)
 | Necessary Enhancement | 5.00% | ~151 |
 | From the Past | 5.00% | ~151 |
 | Oats | 4.00% | ~121 |
+| What They Hide From Us | 4.00% | ~121 |
 | BRAWL! | 4.00% | ~121 |
 | All in Good Health | 4.00% | ~121 |
 | What the Ruins Teach Us | 4.00% | ~121 |
-| What They Hide From Us | 3.00% | ~90 |
 | ...  in a finite world | 3.00% | ~90 |
 | Sustainable Energy | 3.00% | ~90 |
 | In Dolos We Trust | 2.00% | ~60 |

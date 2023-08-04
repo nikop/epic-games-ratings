@@ -14,6 +14,7 @@
 | Something gentle... | 16.00% | ~4 |
 | Something fully in bloom... | 16.00% | ~4 |
 | Somewhere to belong... | 16.00% | ~4 |
+| Something to make you dream... (fragile) | 16.00% | ~4 |
 | Something natural... | 16.00% | ~4 |
 | Something reflective... | 16.00% | ~4 |
 | Something free... (fragile) | 12.00% | ~3 |
@@ -23,7 +24,6 @@
 | Something fragile... | 12.00% | ~3 |
 | Something foundational... (fragile) | 12.00% | ~3 |
 | Somewhere to belong... (fragile) | 12.00% | ~3 |
-| Something to make you dream... (fragile) | 12.00% | ~3 |
 | Something monumental... (fragile) | 12.00% | ~3 |
 | Something to long for... (fragile) | 12.00% | ~3 |
 | Something firmly rooted... (fragile) | 12.00% | ~3 |

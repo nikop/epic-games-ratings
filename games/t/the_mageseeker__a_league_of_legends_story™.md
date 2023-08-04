@@ -14,8 +14,8 @@ Rating: 4.81 (Ranked 76)
 | You can pet the dog | 61.00% | ~1,526 |
 | Big Helmet Bro | 37.00% | ~925 |
 | Clarion Cove | 37.00% | ~925 |
+| Thornbarrow | 36.00% | ~900 |
 | Past trauma | 35.00% | ~875 |
-| Thornbarrow | 35.00% | ~875 |
 | Elemental master | 34.00% | ~850 |
 | Ternmoat Headquarters | 34.00% | ~850 |
 | Cypress Glen Headquarters | 32.00% | ~800 |

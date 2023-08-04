@@ -6,22 +6,22 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~649 |
+| Cabin boy | 81.00% | ~650 |
 | My little farm | 65.00% | ~521 |
 | Every beginning is difficult | 62.00% | ~497 |
-| 3, 2, 1, mine | 56.00% | ~449 |
 | Gofer | 56.00% | ~449 |
+| 3, 2, 1, mine | 55.00% | ~441 |
 | Seafarer | 54.00% | ~433 |
 | O Captain! My Captain! | 53.00% | ~425 |
-| Greed for gold | 43.00% | ~344 |
-| Intangible | 41.00% | ~328 |
-| I'm out of here for a while | 41.00% | ~328 |
-| In a mint condition | 37.00% | ~296 |
-| Licence to Kill | 36.00% | ~288 |
-| Pirates! | 34.00% | ~272 |
-| Megalomania | 29.00% | ~232 |
-| Collectionitis | 28.00% | ~224 |
-| Christening | 27.00% | ~216 |
+| Greed for gold | 43.00% | ~345 |
+| Intangible | 41.00% | ~329 |
+| I'm out of here for a while | 41.00% | ~329 |
+| In a mint condition | 37.00% | ~297 |
+| Licence to Kill | 36.00% | ~289 |
+| Pirates! | 34.00% | ~273 |
+| Megalomania | 29.00% | ~233 |
+| Collectionitis | 28.00% | ~225 |
+| Christening | 27.00% | ~217 |
 | Groundskeeper | 25.00% | ~200 |
 | Wholesale | 22.00% | ~176 |
 | Walk the plank | 20.00% | ~160 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.50% | ~4 |
 | Davy Jones' locker | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 801 (Ranked 203)  
+Progressed: 802 (Ranked 203)  
 Completed: 1 (0.12%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 1 (0.12%) (Ranked 189)
 | 2023-08-01 | 791 | 1 |
 | 2023-08-02 | 796 | 1 |
 | 2023-08-03 | 799 | 1 |
-| 2023-08-04 | 801 | 1 |
+| 2023-08-04 | 802 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

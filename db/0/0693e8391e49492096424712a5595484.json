@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 360,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 6.11,
   "EosHistory": [
@@ -1273,9 +1273,9 @@
       "ID": "BasiliskBroom",
       "SetID": "db30heh",
       "Name": "Sweeping Prop",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 83
     },
     {
       "ID": "BasiliskFishingRod",
@@ -1632,8 +1632,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-04T20:06:09.5309624+00:00",
+  "LastChanged_Achievements": "2023-08-04T21:07:30.4931489+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-04T19:57:34.0033651+00:00",
-  "LastUpdate_Achievements": "2023-08-04T20:06:09.5310012+00:00"
+  "LastUpdate_Ratings": "2023-08-04T20:57:40.9534634+00:00",
+  "LastUpdate_Achievements": "2023-08-04T21:07:30.4931957+00:00"
 }

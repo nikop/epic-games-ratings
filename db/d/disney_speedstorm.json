@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3072,
+  "EOS_Progressed": 3073,
   "EOS_Completed": 139,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 20,
@@ -4090,6 +4090,11 @@
       "Time": "2023-08-04T18:06:05.7169527+00:00",
       "NumProgressed": 3072,
       "NumCompleted": 139
+    },
+    {
+      "Time": "2023-08-04T21:07:33.7605595+00:00",
+      "NumProgressed": 3073,
+      "NumCompleted": 139
     }
   ],
   "TotalAchievements": 24,
@@ -4101,7 +4106,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "10",
@@ -4109,7 +4114,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "11",
@@ -4141,7 +4146,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "15",
@@ -4221,7 +4226,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "24",
@@ -4245,7 +4250,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "5",
@@ -4261,7 +4266,7 @@
       "Name": "PRO",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "7",
@@ -4292,13 +4297,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3072,
+      "Progressed": 3073,
       "Completed": 139
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-04T20:06:11.8403769+00:00",
+  "LastChanged_Achievements": "2023-08-04T21:07:33.760559+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:49.7326864+00:00",
-  "LastUpdate_Ratings": "2023-08-04T19:59:24.3947632+00:00",
-  "LastUpdate_Achievements": "2023-08-04T20:06:11.8404829+00:00"
+  "LastUpdate_Ratings": "2023-08-04T21:00:26.2102624+00:00",
+  "LastUpdate_Achievements": "2023-08-04T21:07:33.760604+00:00"
 }

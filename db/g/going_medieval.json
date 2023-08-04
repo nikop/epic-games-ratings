@@ -1178,9 +1178,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 5071,
+  "EOS_Progressed": 5072,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6763,6 +6763,11 @@
       "Time": "2023-08-04T20:03:58.289649+00:00",
       "NumProgressed": 5071,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-04T21:04:26.6106498+00:00",
+      "NumProgressed": 5072,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 31,
@@ -6806,7 +6811,7 @@
       "Name": "Green Thumb",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 3347
+      "UsersEstimate": 3348
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -6814,7 +6819,7 @@
       "Name": "Having A Field Day",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3702
+      "UsersEstimate": 3703
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -6830,7 +6835,7 @@
       "Name": "A Party Now",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "HUNT_DEER_20",
@@ -6846,7 +6851,7 @@
       "Name": "Oh Deer!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -6886,7 +6891,7 @@
       "Name": "Retribution",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -6926,7 +6931,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -6942,7 +6947,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -6956,9 +6961,9 @@
       "ID": "SURVIVE_FIRST_WINTER",
       "SetID": "5349c2e",
       "Name": "Winter Is Here",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1116
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -6966,7 +6971,7 @@
       "Name": "All Year Round",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -6982,7 +6987,7 @@
       "Name": "Novice Researcher",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 3296
+      "UsersEstimate": 3297
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -6990,7 +6995,7 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 2231
+      "UsersEstimate": 2232
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -6998,7 +7003,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -7006,7 +7011,7 @@
       "Name": "Onward",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 2789
+      "UsersEstimate": 2790
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -7014,22 +7019,22 @@
       "Name": "Studious Researcher",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5071,
+      "Progressed": 5072,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-03T20:00:30.0019484+00:00",
-  "LastChanged_Achievements": "2023-08-04T20:03:58.2896486+00:00",
+  "LastChanged_Achievements": "2023-08-04T21:04:26.6106494+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:44.1332197+00:00",
-  "LastUpdate_Ratings": "2023-08-04T20:00:13.8764582+00:00",
-  "LastUpdate_Achievements": "2023-08-04T20:03:58.2896939+00:00"
+  "LastUpdate_Ratings": "2023-08-04T21:01:37.5495772+00:00",
+  "LastUpdate_Achievements": "2023-08-04T21:04:26.6107096+00:00"
 }

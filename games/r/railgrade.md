@@ -5,31 +5,31 @@ Rating: 4.55 (Ranked 485)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~19,017 |
-| Before the Downfall | 93.00% | ~18,047 |
+| Trevithick's Legacy | 98.00% | ~19,018 |
+| Before the Downfall | 93.00% | ~18,048 |
 | Money like Water | 91.00% | ~17,659 |
-| Minimalist | 90.00% | ~17,464 |
-| Builder | 83.00% | ~16,106 |
+| Minimalist | 90.00% | ~17,465 |
+| Builder | 83.00% | ~16,107 |
 | Eraser | 70.00% | ~13,584 |
-| Pocket of Trains | 65.00% | ~12,613 |
-| Inspector | 59.00% | ~11,449 |
+| Pocket of Trains | 65.00% | ~12,614 |
+| Inspector | 59.00% | ~11,450 |
 | Going the Distance | 54.00% | ~10,479 |
-| Oil Baron | 42.00% | ~8,150 |
-| Loads-a-Money | 42.00% | ~8,150 |
+| Oil Baron | 42.00% | ~8,151 |
+| Loads-a-Money | 42.00% | ~8,151 |
 | Helper of the People | 39.00% | ~7,568 |
 | Simplification | 34.00% | ~6,598 |
 | Box of Trains | 33.00% | ~6,404 |
 | Let There be Light | 32.00% | ~6,210 |
 | Hot Water | 31.00% | ~6,016 |
-| Indecisive | 29.00% | ~5,627 |
-| The scenic route | 27.00% | ~5,239 |
-| Industrialist | 25.00% | ~4,851 |
+| Indecisive | 29.00% | ~5,628 |
+| The scenic route | 27.00% | ~5,240 |
+| Industrialist | 25.00% | ~4,852 |
 | Perfectionist | 23.00% | ~4,463 |
 | Trains over Pipes | 23.00% | ~4,463 |
 | 8K is Enough for Everyone | 22.00% | ~4,269 |
 | Man of Steel | 17.00% | ~3,299 |
 | Room Full of Trains | 12.00% | ~2,329 |
-| Investor | 10.00% | ~1,940 |
+| Investor | 10.00% | ~1,941 |
 | Multiverse | 7.00% | ~1,358 |
 | The poor groundwater levels | 7.00% | ~1,358 |
 | Metropolis | 7.00% | ~1,358 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 485)
 | Overdeer | 0.50% | ~97 |
 | Cloud Services | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,405 (Ranked 107)  
+Progressed: 19,406 (Ranked 107)  
 Completed: 34 (0.18%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 34 (0.18%) (Ranked 179)
 | 2023-08-01 | 19,364 | 34 |
 | 2023-08-02 | 19,371 | 34 |
 | 2023-08-03 | 19,392 | 34 |
-| 2023-08-04 | 19,405 | 34 |
+| 2023-08-04 | 19,406 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 352)  
 Sum: 655 (Ranked 283)  

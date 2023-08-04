@@ -4,10 +4,10 @@
   "ProductSlug": "mount-and-blade-2",
   "Ranking_Rating": 147,
   "Ranking_Popularity": 48,
-  "Ranking_PopularitySum": 67,
+  "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -6067,18 +6067,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 13962,
       "NumberOfAwardsMax": 6887
+    },
+    {
+      "Time": "2023-08-04T21:01:25.7927992+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13970,
+      "NumberOfAwardsMax": 6895
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13962,
-  "NumberOfAwardsMax": 6887,
+  "NumberOfAwards": 13970,
+  "NumberOfAwardsMax": 6895,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6887
+      "Count": 6895
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6149,7 +6155,7 @@
   ],
   "EOS_Progressed": 58191,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 960,
+  "EOS_NewPlayers": 954,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17726,9 +17732,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-08-04T17:59:53.1310756+00:00",
-  "LastChanged_Achievements": "2023-08-04T20:03:45.0589135+00:00",
+  "LastChanged": "2023-08-04T21:01:25.792799+00:00",
+  "LastChanged_Achievements": "2023-08-04T21:04:08.2493216+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:33.2077536+00:00",
-  "LastUpdate_Ratings": "2023-08-04T20:00:05.5760209+00:00",
-  "LastUpdate_Achievements": "2023-08-04T20:03:45.0589985+00:00"
+  "LastUpdate_Ratings": "2023-08-04T21:01:25.7927996+00:00",
+  "LastUpdate_Achievements": "2023-08-04T21:04:08.249453+00:00"
 }

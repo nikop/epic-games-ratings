@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17014,
+  "EOS_Progressed": 17015,
   "EOS_Completed": 350,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.06,
   "EosHistory": [
@@ -11599,6 +11599,11 @@
       "Time": "2023-08-04T20:04:50.5824894+00:00",
       "NumProgressed": 17014,
       "NumCompleted": 350
+    },
+    {
+      "Time": "2023-08-04T21:05:38.5341395+00:00",
+      "NumProgressed": 17015,
+      "NumCompleted": 350
     }
   ],
   "TotalAchievements": 20,
@@ -11610,7 +11615,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2892
+      "UsersEstimate": 2893
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -11650,7 +11655,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -11769,15 +11774,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 17014,
+      "Progressed": 17015,
       "Completed": 350
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-08-04T20:04:50.582489+00:00",
+  "LastChanged_Achievements": "2023-08-04T21:05:38.534139+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:59.0842389+00:00",
-  "LastUpdate_Ratings": "2023-08-04T20:00:22.4689301+00:00",
-  "LastUpdate_Achievements": "2023-08-04T20:04:50.5825504+00:00"
+  "LastUpdate_Ratings": "2023-08-04T21:01:50.5922366+00:00",
+  "LastUpdate_Achievements": "2023-08-04T21:05:38.5342222+00:00"
 }
