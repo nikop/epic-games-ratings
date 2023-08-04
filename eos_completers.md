@@ -26,11 +26,11 @@
 | 24 | [Remains](games/r/remains.md) | 10.64% |
 | 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.08% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.43% |
-| 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.91% |
-| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.83% |
+| 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.26% |
+| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.19% |
+| 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.90% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
-| 31 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.33% |
+| 31 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.00% |
 | 32 | [Smelter](games/s/smelter.md) | 7.69% |
 | 33 | [Ravenlok](games/r/ravenlok.md) | 7.35% |
 | 34 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.18% |
@@ -84,7 +84,7 @@
 | 82 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
 | 83 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
 | 83 | [FORECLOSED](games/f/foreclosed.md) | 2.25% |
-| 85 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.05% |
+| 85 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.06% |
 | 86 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.98% |
 | 87 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 88 | [Night Book](games/n/night_book.md) | 1.90% |
@@ -173,10 +173,10 @@
 | 171 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 171 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
 | 171 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.22% |
-| 174 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
-| 175 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
-| 175 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
-| 175 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
+| 174 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
+| 174 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
+| 174 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
+| 174 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
 | 178 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 179 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
 | 180 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
@@ -192,14 +192,14 @@
 | 189 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 189 | [Port Royale 4](games/p/port_royale_4.md) | 0.12% |
 | 189 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.12% |
+| 193 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
 | 193 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
 | 193 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.11% |
 | 193 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
-| 196 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
-| 196 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 196 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 196 | [Shop Titans](games/s/shop_titans.md) | 0.10% |
-| 196 | [Supraland](games/s/supraland.md) | 0.10% |
+| 197 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
+| 197 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 197 | [Shop Titans](games/s/shop_titans.md) | 0.10% |
+| 197 | [Supraland](games/s/supraland.md) | 0.10% |
 | 201 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 201 | [Outward Definitive Edition](games/o/outward.md) | 0.09% |
 | 201 | [Riverbond](games/r/riverbond.md) | 0.09% |
