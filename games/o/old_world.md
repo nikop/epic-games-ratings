@@ -98,6 +98,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.40% | ~53 |
 | Power to the People | 0.40% | ~53 |
 | Economic Reform | 0.40% | ~53 |
+| Dualism | 0.40% | ~53 |
 | Legalism | 0.40% | ~53 |
 | Cimmerian Archer | 0.40% | ~53 |
 | Legionary | 0.40% | ~53 |
@@ -122,7 +123,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.30% | ~40 |
 | Assyrian Paganism | 0.30% | ~40 |
 | Industrial Progress | 0.30% | ~40 |
-| Dualism | 0.30% | ~40 |
 | Enlightenment | 0.30% | ~40 |
 | Gnosticism | 0.30% | ~40 |
 | Redemption | 0.30% | ~40 |
@@ -222,6 +222,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Queen of Opportunity | 0.10% | ~13 |
 | Mighty Bucephalus | 0.10% | ~13 |
 | Knot So Hard | 0.10% | ~13 |
+| Gate to Victory | 0.10% | ~13 |
 | Pharaoh | 0.10% | ~13 |
 | A Tyresome Siege | 0.10% | ~13 |
 | Hardcore | 0.10% | ~13 |
@@ -286,7 +287,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Not a Chance | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
 | Queen of War | 0.00% | ~0 |
-| Gate to Victory | 0.00% | ~0 |
 | Alexander the Mediocre | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the Alright | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,264 (Ranked 117)  
+Progressed: 13,265 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,7 +409,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-08-01 | 13,228 | 5 |
 | 2023-08-02 | 13,244 | 5 |
 | 2023-08-03 | 13,260 | 5 |
-| 2023-08-04 | 13,264 | 5 |
+| 2023-08-04 | 13,265 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 263)  
 Sum: 1,786 (Ranked 206)  

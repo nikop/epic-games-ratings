@@ -11,12 +11,12 @@
 | Your first job | 84.00% | ~185 |
 | Old movies enjoyer | 79.00% | ~174 |
 | First defeat | 78.00% | ~172 |
+| Fitness professional | 77.00% | ~169 |
 | Depressed visitor | 77.00% | ~169 |
-| Fitness professional | 76.00% | ~167 |
 | Neurotrainer – power gainer! | 75.00% | ~165 |
 | Employee of the week | 75.00% | ~165 |
-| Your own amateur gym | 73.00% | ~161 |
-| Run K, run! | 71.00% | ~156 |
+| Your own amateur gym | 74.00% | ~163 |
+| Run K, run! | 72.00% | ~158 |
 | Hello, world! | 68.00% | ~150 |
 | Fighting is cool | 67.00% | ~147 |
 | No bullying more | 67.00% | ~147 |
@@ -45,10 +45,10 @@
 | Get out of my apartment! | 37.00% | ~81 |
 | Underground dwellers | 36.00% | ~79 |
 | Responsible approach | 36.00% | ~79 |
+| Deal with life | 35.00% | ~77 |
 | GYM professional | 35.00% | ~77 |
 | Champion – no way back | 35.00% | ~77 |
 | Poisoned fighter | 35.00% | ~77 |
-| Deal with life | 34.00% | ~75 |
 | Seashell hunter | 34.00% | ~75 |
 | Mom got better | 33.00% | ~73 |
 | The die is cast | 33.00% | ~73 |

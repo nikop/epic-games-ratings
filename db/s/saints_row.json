@@ -3198,9 +3198,9 @@
       "Count": 1052
     }
   ],
-  "EOS_Progressed": 59569,
+  "EOS_Progressed": 59572,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 2313,
+  "EOS_NewPlayers": 2304,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -14688,6 +14688,11 @@
       "Time": "2023-08-04T12:02:49.6869689+00:00",
       "NumProgressed": 59569,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-04T13:07:12.6924636+00:00",
+      "NumProgressed": 59572,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 53,
@@ -14715,7 +14720,7 @@
       "Name": "Quality Time",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8935
+      "UsersEstimate": 8936
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -14747,7 +14752,7 @@
       "Name": "Finders Keepers",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13105
+      "UsersEstimate": 13106
     },
     {
       "ID": "complet_epilogue_mission",
@@ -14803,7 +14808,7 @@
       "Name": "Wet Work",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16679
+      "UsersEstimate": 16680
     },
     {
       "ID": "complete_mission_1",
@@ -14811,7 +14816,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 24423
+      "UsersEstimate": 24425
     },
     {
       "ID": "customize_a_vehicle",
@@ -14819,7 +14824,7 @@
       "Name": "Tune Up",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17275
+      "UsersEstimate": 17276
     },
     {
       "ID": "customize_a_weapon",
@@ -14827,7 +14832,7 @@
       "Name": "Optimized",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 19062
+      "UsersEstimate": 19063
     },
     {
       "ID": "cutting_edge_materials",
@@ -14875,7 +14880,7 @@
       "Name": "A Young Empire",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 13105
+      "UsersEstimate": 13106
     },
     {
       "ID": "empire_tier_3",
@@ -14883,7 +14888,7 @@
       "Name": "Power Players",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 9531
+      "UsersEstimate": 9532
     },
     {
       "ID": "empire_tier_4",
@@ -14907,7 +14912,7 @@
       "Name": "Landlord",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16679
+      "UsersEstimate": 16680
     },
     {
       "ID": "fully_complete_a_building",
@@ -14931,7 +14936,7 @@
       "Name": "Kitted Out",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7148
+      "UsersEstimate": 7149
     },
     {
       "ID": "get_betrayed",
@@ -14947,7 +14952,7 @@
       "Name": "Performance Review",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 18466
+      "UsersEstimate": 18467
     },
     {
       "ID": "hit_max_level",
@@ -14963,7 +14968,7 @@
       "Name": "Free Refills",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2978
+      "UsersEstimate": 2979
     },
     {
       "ID": "kill_each_faction_miniboss",
@@ -14971,7 +14976,7 @@
       "Name": "Picking Fights",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 9531
+      "UsersEstimate": 9532
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -14995,7 +15000,7 @@
       "Name": "Making a Name",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 17871
+      "UsersEstimate": 17872
     },
     {
       "ID": "one_third_purple",
@@ -15051,7 +15056,7 @@
       "Name": "Food for Thought",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13701
+      "UsersEstimate": 13702
     },
     {
       "ID": "two_thirds_purple",
@@ -15083,7 +15088,7 @@
       "Name": "To The Nines",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22041
+      "UsersEstimate": 22042
     },
     {
       "ID": "whole_map_purple",
@@ -15099,7 +15104,7 @@
       "Name": "Producer Credit",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "bfhj_complete_mission_2_collectible",
@@ -15122,22 +15127,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 59569,
+      "Progressed": 59572,
       "Completed": 32
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 31206,
-      "Completed": 2918
+      "Progressed": 31209,
+      "Completed": 2919
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-08-04T07:01:34.5917501+00:00",
-  "LastChanged_Achievements": "2023-08-04T12:02:49.6869678+00:00",
+  "LastChanged_Achievements": "2023-08-04T13:07:12.6924631+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:31.5509073+00:00",
-  "LastUpdate_Ratings": "2023-08-04T12:01:36.0211846+00:00",
-  "LastUpdate_Achievements": "2023-08-04T12:02:49.6870796+00:00"
+  "LastUpdate_Ratings": "2023-08-04T13:05:26.4589869+00:00",
+  "LastUpdate_Achievements": "2023-08-04T13:07:12.6925829+00:00"
 }

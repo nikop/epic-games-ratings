@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -666,9 +666,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3122,
+  "EOS_Progressed": 3123,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2916,6 +2916,11 @@
       "Time": "2023-08-04T11:04:54.9096575+00:00",
       "NumProgressed": 3122,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T13:09:38.1073451+00:00",
+      "NumProgressed": 3123,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -2941,9 +2946,9 @@
       "ID": "AutoDisrupted",
       "SetID": "3jha1np",
       "Name": "Look Over There!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 94
     },
     {
       "ID": "BloodAndIron",
@@ -3205,9 +3210,9 @@
       "ID": "MasterCraftLevel3_Ranged",
       "SetID": "3jha1np",
       "Name": "Gunmaster",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "MasterOfTheForge",
@@ -3470,21 +3475,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3122,
+      "Progressed": 3123,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3122,
+      "Progressed": 3123,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-04T03:59:32.5294271+00:00",
-  "LastChanged_Achievements": "2023-08-04T12:05:24.7774214+00:00",
+  "LastChanged_Achievements": "2023-08-04T13:09:38.1073446+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:36.2653351+00:00",
-  "LastUpdate_Ratings": "2023-08-04T12:00:09.797604+00:00",
-  "LastUpdate_Achievements": "2023-08-04T12:05:24.7775205+00:00"
+  "LastUpdate_Ratings": "2023-08-04T13:04:24.7052288+00:00",
+  "LastUpdate_Achievements": "2023-08-04T13:09:38.1074286+00:00"
 }

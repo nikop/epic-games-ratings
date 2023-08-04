@@ -46,11 +46,11 @@ Rating: 4.87 (Ranked 24)
 | This is a breeze! | 0.50% | ~19 |
 | We're Jammin' | 0.50% | ~19 |
 | New bad guys? No problem! | 0.50% | ~11 |
-| I'm not done with you yet | 0.40% | ~15 |
 | First we parry, then we counter | 0.40% | ~15 |
-| Choose your own adventure | 0.40% | ~9 |
 | Easy Listening | 0.30% | ~11 |
 | OK, well THEY came after ME! | 0.30% | ~11 |
+| I'm not done with you yet | 0.30% | ~11 |
+| Choose your own adventure | 0.30% | ~7 |
 | Problem solved... wait, what? | 0.20% | ~7 |
 | Now this is how you fight like a team! | 0.20% | ~7 |
 | You ever parry a volcano? | 0.20% | ~7 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,714 (Ranked 147)  
+Progressed: 3,716 (Ranked 147)  
 Completed: 6 (0.16%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 6 (0.16%) (Ranked 179)
 | 2023-08-01 | 3,666 | 6 |
 | 2023-08-02 | 3,680 | 6 |
 | 2023-08-03 | 3,705 | 6 |
-| 2023-08-04 | 3,714 | 6 |
+| 2023-08-04 | 3,716 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

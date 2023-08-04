@@ -5542,9 +5542,9 @@
       "Count": 3341
     }
   ],
-  "EOS_Progressed": 218550,
+  "EOS_Progressed": 218561,
   "EOS_Completed": 2150,
-  "EOS_NewPlayers": 2231,
+  "EOS_NewPlayers": 2223,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16967,6 +16967,11 @@
       "Time": "2023-08-04T12:02:44.5935654+00:00",
       "NumProgressed": 218550,
       "NumCompleted": 2150
+    },
+    {
+      "Time": "2023-08-04T13:07:09.2284099+00:00",
+      "NumProgressed": 218561,
+      "NumCompleted": 2150
     }
   ],
   "TotalAchievements": 512,
@@ -17058,7 +17063,7 @@
       "Name": "Nightmare Rats!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_1052",
@@ -17218,7 +17223,7 @@
       "Name": "The Prince of a Thousand Enemies",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_1081",
@@ -17250,7 +17255,7 @@
       "Name": "Downfall",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_1086",
@@ -17290,7 +17295,7 @@
       "Name": "Slack-jawed Lorna",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_1091",
@@ -17322,7 +17327,7 @@
       "Name": "The Fairy Rings of Thither",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_1096",
@@ -17346,7 +17351,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6556
+      "UsersEstimate": 6557
     },
     {
       "ID": "objective_completed_110",
@@ -17618,7 +17623,7 @@
       "Name": "Owlbear Necessities",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_1158",
@@ -17690,7 +17695,7 @@
       "Name": "Well Equipped",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_117",
@@ -17706,7 +17711,7 @@
       "Name": "More Than Well Equipped",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_1173",
@@ -17730,7 +17735,7 @@
       "Name": "Keep Your Distance",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_1178",
@@ -17786,7 +17791,7 @@
       "Name": "The Castle of a Thousand Vecnas",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_1189",
@@ -17810,7 +17815,7 @@
       "Name": "The Sanctum of the Sword",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_1194",
@@ -17882,7 +17887,7 @@
       "Name": "Who Lurks Below?",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_1214",
@@ -17898,7 +17903,7 @@
       "Name": "Xanathaaaaaaar!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_1219",
@@ -19136,9 +19141,9 @@
       "ID": "objective_completed_541",
       "SetID": "cc37lbc",
       "Name": "A Tale of Two Fiends",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 437
     },
     {
       "ID": "objective_completed_542",
@@ -20058,7 +20063,7 @@
       "Name": "The Giant\u0027s Bane Tavern",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_691",
@@ -20090,7 +20095,7 @@
       "Name": "The Everlasting Rime",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_696",
@@ -20210,7 +20215,7 @@
       "Name": "Moose Tracks",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_803",
@@ -20922,7 +20927,7 @@
       "Name": "Willing to Sacrifice",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_1047",
@@ -20954,7 +20959,7 @@
       "Name": "Tiny Treaty",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_1332",
@@ -21034,7 +21039,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "objective_completed_1386",
@@ -21073,21 +21078,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184824,
+      "Progressed": 184835,
       "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218550,
+      "Progressed": 218561,
       "Completed": 2150
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-04T11:59:23.3560437+00:00",
-  "LastChanged_Achievements": "2023-08-04T12:02:44.5935645+00:00",
+  "LastChanged_Achievements": "2023-08-04T13:07:09.2284093+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-04T11:59:23.3560444+00:00",
-  "LastUpdate_Achievements": "2023-08-04T12:02:44.5969111+00:00"
+  "LastUpdate_Ratings": "2023-08-04T13:03:45.7872598+00:00",
+  "LastUpdate_Achievements": "2023-08-04T13:07:09.2311857+00:00"
 }

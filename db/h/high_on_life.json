@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23810,
+  "EOS_Progressed": 23811,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 2,
@@ -3813,6 +3813,11 @@
       "Time": "2023-08-04T11:06:48.1049491+00:00",
       "NumProgressed": 23810,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-08-04T13:11:43.3544967+00:00",
+      "NumProgressed": 23811,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 32,
@@ -3832,7 +3837,7 @@
       "Name": "Playing Card To Get",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 7857
+      "UsersEstimate": 7858
     },
     {
       "ID": "ACH_ALL_HUNTCHALS",
@@ -3848,7 +3853,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10238
+      "UsersEstimate": 10239
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -3880,7 +3885,7 @@
       "Name": "Are You Packin\u0027?",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5952
+      "UsersEstimate": 5953
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -3904,7 +3909,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5714
+      "UsersEstimate": 5715
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -3912,7 +3917,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5714
+      "UsersEstimate": 5715
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -3928,7 +3933,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19762
+      "UsersEstimate": 19763
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -3960,7 +3965,7 @@
       "Name": "G3 Graduation",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5952
+      "UsersEstimate": 5953
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -4008,7 +4013,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17381
+      "UsersEstimate": 17382
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -4016,7 +4021,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7857
+      "UsersEstimate": 7858
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -4056,7 +4061,7 @@
       "Name": "Playing Favorites",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "ACH_STANS_STUFF",
@@ -4079,22 +4084,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23810,
+      "Progressed": 23811,
       "Completed": 11
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1103,
-      "Completed": 1103
+      "Progressed": 1104,
+      "Completed": 1104
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-01T02:03:53.4121642+00:00",
-  "LastChanged_Achievements": "2023-08-04T12:08:16.0790271+00:00",
+  "LastChanged_Achievements": "2023-08-04T13:11:43.3544963+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.7380308+00:00",
-  "LastUpdate_Ratings": "2023-08-04T11:59:09.2563037+00:00",
-  "LastUpdate_Achievements": "2023-08-04T12:08:16.0790929+00:00"
+  "LastUpdate_Ratings": "2023-08-04T13:03:35.5662145+00:00",
+  "LastUpdate_Achievements": "2023-08-04T13:11:43.3545438+00:00"
 }

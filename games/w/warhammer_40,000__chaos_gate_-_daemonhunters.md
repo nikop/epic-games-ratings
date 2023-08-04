@@ -6,9 +6,9 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Look Over There! | 3.00% | ~94 |
 | Not So Fast... | 3.00% | ~94 |
 | Executioner | 3.00% | ~94 |
-| Look Over There! | 2.00% | ~62 |
 | Blood for the Blood God! | 2.00% | ~62 |
 | Watch Where You Step... | 2.00% | ~62 |
 | Purging Spree | 2.00% | ~62 |
@@ -20,10 +20,10 @@ Number of Ratings: 371  (23.09.2022)
 | Honoured Battle-Brother | 0.80% | ~25 |
 | The Emperor Protects | 0.70% | ~22 |
 | Nemesis Master | 0.60% | ~19 |
+| Gunmaster | 0.60% | ~19 |
 | Just a Scratch | 0.60% | ~19 |
 | Hold Your Ground | 0.50% | ~16 |
 | Corruption Cleanser | 0.50% | ~16 |
-| Gunmaster | 0.50% | ~16 |
 | Execution Force | 0.50% | ~16 |
 | Hive Exterminator | 0.50% | ~16 |
 | Daemonkeeper | 0.30% | ~9 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,122 (Ranked 153)  
+Progressed: 3,123 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-08-01 | 3,098 | 0 |
 | 2023-08-02 | 3,111 | 0 |
 | 2023-08-03 | 3,121 | 0 |
-| 2023-08-04 | 3,122 | 0 |
+| 2023-08-04 | 3,123 | 0 |
 ## Awards
 Max (Character Customization): 218  (Ranked 263)  
 Sum: 464 (Ranked 303)  

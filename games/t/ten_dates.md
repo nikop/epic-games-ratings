@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That wasn't so bad | 86.00% | ~233 |
-| Let it begin | 50.00% | ~136 |
+| Let it begin | 51.00% | ~138 |
 | The intellectual | 27.00% | ~73 |
 | The boss | 26.00% | ~70 |
 | The athlete | 25.00% | ~68 |

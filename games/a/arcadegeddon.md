@@ -34,9 +34,9 @@ Number of Ratings: 801  (23.09.2022)
 | To Be Continued | 13.00% | ~1,089 |
 | Light My Fire | 12.00% | ~1,005 |
 | Seasoned Adventurer | 12.00% | ~1,005 |
+| Get In The Ring! | 10.00% | ~838 |
 | 1.21 Gigawatts | 10.00% | ~838 |
 | This Is My Boomstick! | 10.00% | ~838 |
-| Get In The Ring! | 9.00% | ~754 |
 | Rescue Ranger | 8.00% | ~670 |
 | Ticket Titan | 7.00% | ~586 |
 | Surge Gauntlet Scholar | 6.00% | ~502 |

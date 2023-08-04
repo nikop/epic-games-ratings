@@ -107,9 +107,9 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "b36c5kb",
       "Name": "Welcome to Union",
-      "Percentage": 70,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -331,9 +331,9 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "b36c5kb",
       "Name": "Good to See You Again",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -489,8 +489,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-04T12:03:13.7829774+00:00",
+  "LastChanged_Achievements": "2023-08-04T13:08:08.6492062+00:00",
   "LastUpdate_AppInfo": "2023-08-02T15:56:51.7948798+00:00",
-  "LastUpdate_Ratings": "2023-08-04T11:57:06.4583112+00:00",
-  "LastUpdate_Achievements": "2023-08-04T12:03:13.7830387+00:00"
+  "LastUpdate_Ratings": "2023-08-04T13:02:04.2297468+00:00",
+  "LastUpdate_Achievements": "2023-08-04T13:08:08.6492565+00:00"
 }

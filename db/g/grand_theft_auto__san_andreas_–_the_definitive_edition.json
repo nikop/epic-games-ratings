@@ -652,9 +652,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11815,
+  "EOS_Progressed": 11817,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -8357,6 +8357,11 @@
       "Time": "2023-08-04T10:03:05.0116574+00:00",
       "NumProgressed": 11815,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-08-04T13:07:09.2976901+00:00",
+      "NumProgressed": 11817,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 35,
@@ -8368,7 +8373,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9570
+      "UsersEstimate": 9572
     },
     {
       "ID": "ACH02",
@@ -8432,7 +8437,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH10",
@@ -8448,7 +8453,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "ACH12",
@@ -8488,7 +8493,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "ACH17",
@@ -8560,7 +8565,7 @@
       "Name": "What are the Odds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH26",
@@ -8592,7 +8597,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "ACH30",
@@ -8647,7 +8652,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11815,
+      "Progressed": 11817,
       "Completed": 34
     }
   ],
@@ -8655,8 +8660,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-03T18:02:27.9339148+00:00",
-  "LastChanged_Achievements": "2023-08-04T12:02:45.060017+00:00",
+  "LastChanged_Achievements": "2023-08-04T13:07:09.2976894+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.4328142+00:00",
-  "LastUpdate_Ratings": "2023-08-04T12:02:20.4618239+00:00",
-  "LastUpdate_Achievements": "2023-08-04T12:02:45.0600928+00:00"
+  "LastUpdate_Ratings": "2023-08-04T13:05:58.8097624+00:00",
+  "LastUpdate_Achievements": "2023-08-04T13:07:09.2978216+00:00"
 }

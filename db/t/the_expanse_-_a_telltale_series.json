@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4133,
+  "EOS_Progressed": 4155,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4125,
+  "EOS_NewPlayers": 4147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -737,6 +737,11 @@
       "Time": "2023-08-04T12:06:35.5557531+00:00",
       "NumProgressed": 4133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T13:10:41.3520237+00:00",
+      "NumProgressed": 4155,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -789,7 +794,7 @@
       "Name": "Doctor Approved",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 703
+      "UsersEstimate": 706
     },
     {
       "ID": "15",
@@ -837,7 +842,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "20",
@@ -923,9 +928,9 @@
       "ID": "3",
       "SetID": "458bbdk",
       "Name": "Captain Drummer",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 623
     },
     {
       "ID": "30",
@@ -988,14 +993,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 4133,
+      "Progressed": 4155,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-04T12:06:35.5557525+00:00",
+  "LastChanged_Achievements": "2023-08-04T13:10:41.3520232+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:00.9603289+00:00",
-  "LastUpdate_Ratings": "2023-08-04T12:00:45.584228+00:00",
-  "LastUpdate_Achievements": "2023-08-04T12:06:35.5557846+00:00"
+  "LastUpdate_Ratings": "2023-08-04T13:04:47.4003128+00:00",
+  "LastUpdate_Achievements": "2023-08-04T13:10:41.3520492+00:00"
 }

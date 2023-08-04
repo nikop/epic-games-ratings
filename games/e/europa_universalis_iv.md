@@ -6,52 +6,52 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~7,068 |
-| That's a Grand Army | 8.00% | ~6,283 |
-| Victorious! | 8.00% | ~6,283 |
-| That is mine! | 7.00% | ~5,498 |
-| Brothers in Arms | 6.00% | ~4,712 |
-| That's a Grand Navy | 6.00% | ~4,712 |
-| Seriously?! | 6.00% | ~4,712 |
-| For the Glory | 5.00% | ~3,927 |
-| Cold War | 4.00% | ~3,141 |
-| True Catholic | 4.00% | ~3,141 |
-| Defender of the Faith | 3.00% | ~2,356 |
-| It's all about luck | 3.00% | ~2,356 |
-| It's all about the money | 3.00% | ~2,356 |
-| Respected | 3.00% | ~2,356 |
-| The Princess is in this Castle | 3.00% | ~2,356 |
-| Truly Divine Ruler | 3.00% | ~2,356 |
-| Agressive Expander | 2.00% | ~1,571 |
-| Blockader | 2.00% | ~1,571 |
-| Combined Arms | 2.00% | ~1,571 |
-| Double the Love | 2.00% | ~1,571 |
-| My armies are invincible! | 2.00% | ~1,571 |
-| Queen of Conquest | 2.00% | ~1,571 |
-| Royal Authority | 2.00% | ~1,571 |
-| Total Control | 2.00% | ~1,571 |
-| All That's Thine Shall Be Mine | 1.00% | ~785 |
-| Azur semé de lis or | 1.00% | ~785 |
-| Bright Spark | 1.00% | ~785 |
-| City of Cities | 1.00% | ~785 |
-| The Emperors new clothes | 1.00% | ~785 |
-| Factionalism | 1.00% | ~785 |
-| Gentle Persuasion | 1.00% | ~785 |
-| A Golden Empire | 1.00% | ~785 |
-| The Five Colonies | 1.00% | ~785 |
-| This navy can take it all | 1.00% | ~785 |
+| Until death do us apart | 9.00% | ~7,074 |
+| That's a Grand Army | 8.00% | ~6,288 |
+| Victorious! | 8.00% | ~6,288 |
+| That is mine! | 7.00% | ~5,502 |
+| Brothers in Arms | 6.00% | ~4,716 |
+| That's a Grand Navy | 6.00% | ~4,716 |
+| Seriously?! | 6.00% | ~4,716 |
+| For the Glory | 5.00% | ~3,930 |
+| Cold War | 4.00% | ~3,144 |
+| True Catholic | 4.00% | ~3,144 |
+| Defender of the Faith | 3.00% | ~2,358 |
+| It's all about luck | 3.00% | ~2,358 |
+| It's all about the money | 3.00% | ~2,358 |
+| Respected | 3.00% | ~2,358 |
+| The Princess is in this Castle | 3.00% | ~2,358 |
+| Truly Divine Ruler | 3.00% | ~2,358 |
+| Agressive Expander | 2.00% | ~1,572 |
+| Blockader | 2.00% | ~1,572 |
+| Combined Arms | 2.00% | ~1,572 |
+| Double the Love | 2.00% | ~1,572 |
+| My armies are invincible! | 2.00% | ~1,572 |
+| Queen of Conquest | 2.00% | ~1,572 |
+| Royal Authority | 2.00% | ~1,572 |
+| Total Control | 2.00% | ~1,572 |
+| All That's Thine Shall Be Mine | 1.00% | ~786 |
+| Azur semé de lis or | 1.00% | ~786 |
+| Bright Spark | 1.00% | ~786 |
+| City of Cities | 1.00% | ~786 |
+| The Emperors new clothes | 1.00% | ~786 |
+| Factionalism | 1.00% | ~786 |
+| Gentle Persuasion | 1.00% | ~786 |
+| A Golden Empire | 1.00% | ~786 |
+| The Five Colonies | 1.00% | ~786 |
+| This navy can take it all | 1.00% | ~786 |
 | Down Under | 0.90% | ~707 |
 | Isn't this the way to India? | 0.90% | ~707 |
 | Market Control | 0.90% | ~707 |
 | Trustworthy | 0.90% | ~707 |
 | Electable! | 0.70% | ~550 |
 | Populists in Government | 0.70% | ~550 |
-| All belongs to Mother Russia | 0.60% | ~471 |
-| At every continent | 0.60% | ~471 |
-| One Family to Rule them All | 0.60% | ~471 |
-| The pen is mightier than the sword | 0.60% | ~471 |
-| This is My Faith | 0.60% | ~471 |
-| Time Bandit | 0.60% | ~471 |
+| All belongs to Mother Russia | 0.60% | ~472 |
+| At every continent | 0.60% | ~472 |
+| One Family to Rule them All | 0.60% | ~472 |
+| The pen is mightier than the sword | 0.60% | ~472 |
+| This is My Faith | 0.60% | ~472 |
+| Time Bandit | 0.60% | ~472 |
 | Absolutely | 0.50% | ~393 |
 | Early-Modern Warfare | 0.50% | ~393 |
 | Grand Coalition | 0.50% | ~393 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,537 (Ranked 76)  
+Progressed: 78,604 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -467,7 +467,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-08-01 | 77,006 | 0 |
 | 2023-08-02 | 77,371 | 0 |
 | 2023-08-03 | 78,060 | 0 |
-| 2023-08-04 | 78,537 | 0 |
+| 2023-08-04 | 78,604 | 0 |
 ## Awards
 Max (Educational): 5,611  (Ranked 62)  
 Sum: 46,328 (Ranked 26)  

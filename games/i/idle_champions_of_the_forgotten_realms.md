@@ -7,14 +7,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,742 |
-| Beast Intentions | 3.00% | ~6,556 |
+| Beast Intentions | 3.00% | ~6,557 |
 | Maddening | 2.00% | ~4,371 |
 | The Silken Swamp | 1.00% | ~2,186 |
 | Supply Run | 1.00% | ~2,186 |
 | Vecna Lives! | 1.00% | ~1,848 |
 | Rocky Reception | 1.00% | ~1,848 |
 | Rock and Roll | 1.00% | ~1,848 |
-| Flight of the Kindori Pod | 0.90% | ~1,663 |
+| Flight of the Kindori Pod | 0.90% | ~1,664 |
 | Tall Tales | 0.80% | ~1,479 |
 | Vecna Loots! | 0.80% | ~1,479 |
 | Topolah's Tower | 0.80% | ~1,479 |
@@ -88,19 +88,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Electric Mayhem | 0.40% | ~739 |
 | 3,720 to 1 | 0.40% | ~739 |
 | Animated Giff | 0.40% | ~739 |
-| Nightmare Rats! | 0.30% | ~554 |
-| The Prince of a Thousand Enemies | 0.30% | ~554 |
-| Downfall | 0.30% | ~554 |
-| Slack-jawed Lorna | 0.30% | ~554 |
-| The Fairy Rings of Thither | 0.30% | ~554 |
-| Owlbear Necessities | 0.30% | ~554 |
-| Well Equipped | 0.30% | ~554 |
-| More Than Well Equipped | 0.30% | ~554 |
-| Keep Your Distance | 0.30% | ~554 |
-| The Castle of a Thousand Vecnas | 0.30% | ~554 |
-| The Sanctum of the Sword | 0.30% | ~554 |
-| Who Lurks Below? | 0.30% | ~554 |
-| Xanathaaaaaaar! | 0.30% | ~554 |
+| Nightmare Rats! | 0.30% | ~555 |
+| The Prince of a Thousand Enemies | 0.30% | ~555 |
+| Downfall | 0.30% | ~555 |
+| Slack-jawed Lorna | 0.30% | ~555 |
+| The Fairy Rings of Thither | 0.30% | ~555 |
+| Owlbear Necessities | 0.30% | ~555 |
+| Well Equipped | 0.30% | ~555 |
+| More Than Well Equipped | 0.30% | ~555 |
+| Keep Your Distance | 0.30% | ~555 |
+| The Castle of a Thousand Vecnas | 0.30% | ~555 |
+| The Sanctum of the Sword | 0.30% | ~555 |
+| Who Lurks Below? | 0.30% | ~555 |
+| Xanathaaaaaaar! | 0.30% | ~555 |
 | Captured! | 0.30% | ~656 |
 | Force Grey Unleashed | 0.30% | ~656 |
 | Vajra's Guards | 0.30% | ~656 |
@@ -133,20 +133,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.30% | ~656 |
 | Dinosaur Racing | 0.30% | ~656 |
 | Elturel Has Fallen | 0.30% | ~656 |
-| The Giant's Bane Tavern | 0.30% | ~554 |
-| The Everlasting Rime | 0.30% | ~554 |
+| The Giant's Bane Tavern | 0.30% | ~555 |
+| The Everlasting Rime | 0.30% | ~555 |
 | Close Escort | 0.30% | ~656 |
 | Constant Banditry | 0.30% | ~656 |
 | The Long Haul | 0.30% | ~656 |
 | Lost in the Deep | 0.30% | ~656 |
 | Easily Distracted | 0.30% | ~656 |
 | Rude Welcome | 0.30% | ~656 |
-| Moose Tracks | 0.30% | ~554 |
+| Moose Tracks | 0.30% | ~555 |
 | Durable Deep | 0.30% | ~656 |
 | The Templar's Camp | 0.30% | ~656 |
 | Rescue in the Jungle | 0.30% | ~656 |
-| Willing to Sacrifice | 0.30% | ~554 |
-| Tiny Treaty | 0.30% | ~554 |
+| Willing to Sacrifice | 0.30% | ~555 |
+| Tiny Treaty | 0.30% | ~555 |
 | Starving in the Jungle | 0.20% | ~437 |
 | Cold as Ice | 0.20% | ~370 |
 | Friends and Foes | 0.20% | ~370 |
@@ -199,6 +199,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Excavating History | 0.20% | ~437 |
 | Towering Expectations | 0.20% | ~437 |
 | Cramped Quarters | 0.20% | ~437 |
+| A Tale of Two Fiends | 0.20% | ~437 |
 | Slow and Steady | 0.20% | ~437 |
 | Lair of the Xanathar | 0.20% | ~437 |
 | Waterdeep Under Siege | 0.20% | ~437 |
@@ -359,7 +360,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Abyssal Situation | 0.10% | ~219 |
 | Dino Nightmare | 0.10% | ~219 |
 | A Familiar Friend | 0.10% | ~185 |
-| A Tale of Two Fiends | 0.10% | ~219 |
 | A Tale of Two Champions | 0.10% | ~219 |
 | A Tale of Two Years | 0.10% | ~185 |
 | A Hero's Entourage | 0.10% | ~219 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,550 (Ranked 53)  
+Progressed: 218,561 (Ranked 53)  
 Completed: 2,150 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -625,7 +625,7 @@ Completed: 2,150 (0.98%) (Ranked 112)
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
-| 2023-08-04 | 218,550 | 2,150 |
+| 2023-08-04 | 218,561 | 2,150 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,894 (Ranked 38)  

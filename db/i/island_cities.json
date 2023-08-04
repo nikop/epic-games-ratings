@@ -2,10 +2,10 @@
   "ID": "405a48516fba4540bd8cc17c53085ab2",
   "Name": "Island Cities",
   "ProductSlug": "island-cities-0a3026",
-  "Ranking_EOS_Progress": 229,
+  "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 452,
+  "EOS_Progressed": 454,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 18.14,
+  "EOS_Completed_Percentage": 18.06,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2183,6 +2183,11 @@
       "Time": "2023-08-04T05:04:35.585297+00:00",
       "NumProgressed": 452,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-08-04T13:09:06.3529148+00:00",
+      "NumProgressed": 454,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 22,
@@ -2194,7 +2199,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 438
+      "UsersEstimate": 440
     },
     {
       "ID": "LEVEL_002",
@@ -2202,7 +2207,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "LEVEL_003",
@@ -2210,7 +2215,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 298
+      "UsersEstimate": 300
     },
     {
       "ID": "LEVEL_004",
@@ -2218,39 +2223,39 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 226
+      "UsersEstimate": 222
     },
     {
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 199
+      "UsersEstimate": 195
     },
     {
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 181
+      "UsersEstimate": 177
     },
     {
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 154
+      "UsersEstimate": 150
     },
     {
       "ID": "LEVEL_009",
@@ -2266,7 +2271,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "LEVEL_011",
@@ -2282,7 +2287,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "LEVEL_013",
@@ -2296,9 +2301,9 @@
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 100
     },
     {
       "ID": "LEVEL_015",
@@ -2306,15 +2311,15 @@
       "Name": "Monumental tribute",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "LEVEL_016",
       "SetID": "3khpmem",
       "Name": "The beach is right there",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 91
     },
     {
       "ID": "LEVEL_017",
@@ -2322,7 +2327,7 @@
       "Name": "Commuting",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "LEVEL_018",
@@ -2330,7 +2335,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "LEVEL_019",
@@ -2346,7 +2351,7 @@
       "Name": "City of dreams",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "LEVEL_021",
@@ -2354,7 +2359,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "LEVEL_022",
@@ -2362,14 +2367,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 452,
+      "Progressed": 454,
       "Completed": 82
     }
   ],
@@ -2377,8 +2382,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-08-04T12:04:38.3774663+00:00",
+  "LastChanged_Achievements": "2023-08-04T13:09:06.3529143+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:55.2732426+00:00",
-  "LastUpdate_Ratings": "2023-08-04T11:59:15.2960298+00:00",
-  "LastUpdate_Achievements": "2023-08-04T12:04:38.3774968+00:00"
+  "LastUpdate_Ratings": "2023-08-04T13:03:39.25667+00:00",
+  "LastUpdate_Achievements": "2023-08-04T13:09:06.3529476+00:00"
 }

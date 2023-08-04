@@ -285,9 +285,9 @@
       "ID": "CgkInO_K3eIdEAIQCA",
       "SetID": "6bj96in",
       "Name": "GIFTED LIBRARIAN",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "CgkInO_K3eIdEAIQCQ",
@@ -444,8 +444,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-04T12:05:15.6450282+00:00",
+  "LastChanged_Achievements": "2023-08-04T13:09:32.0301827+00:00",
   "LastUpdate_AppInfo": "2023-08-02T14:57:15.3975507+00:00",
-  "LastUpdate_Ratings": "2023-08-04T11:57:37.0431934+00:00",
-  "LastUpdate_Achievements": "2023-08-04T12:05:15.6450495+00:00"
+  "LastUpdate_Ratings": "2023-08-04T13:02:27.3402184+00:00",
+  "LastUpdate_Achievements": "2023-08-04T13:09:32.0302019+00:00"
 }
