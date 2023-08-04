@@ -39,7 +39,7 @@
 | 37 | [Scorn](games/s/scorn.md) | 6.93% |
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.21% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.20% |
 | 41 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.88% |
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.70% |
 | 43 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
@@ -60,15 +60,15 @@
 | 58 | [Doodle God](games/d/doodle_god.md) | 3.48% |
 | 59 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 60 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.35% |
-| 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.23% |
-| 62 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.20% |
+| 61 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.20% |
+| 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.17% |
 | 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.09% |
 | 64 | [The Complex](games/t/the_complex.md) | 3.04% |
 | 65 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
 | 66 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 67 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.90% |
-| 68 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.89% |
-| 69 | [HordeCore](games/h/hordecore.md) | 2.87% |
+| 67 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.89% |
+| 68 | [HordeCore](games/h/hordecore.md) | 2.87% |
+| 69 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.86% |
 | 70 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.78% |
 | 70 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.78% |
 | 72 | [Destiny 2](games/d/destiny_2.md) | 2.76% |
