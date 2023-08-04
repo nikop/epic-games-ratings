@@ -177,6 +177,7 @@
 | [Echo Storm](../games/0/0b4313e25d17431b901edda54d678ab4.md) | 16 | 1,000 |
 | [Eigengrau](../games/d/d683ed3004f1479abdf2fc4bcfdc615d.md) | 62 | 1,000 |
 | [Eiyuden Chronicle: Rising](../games/e/eiyuden_chronicle__rising.md) | 50 | 1,000 |
+| [Electrician Simulator](../games/d/d400b874b09b4cd49d149358c67aa453.md) | 26 | 1,000 |
 | [ELEGIES Aya](../games/e/elegies_aya.md) | 13 | 1,000 |
 | [Elemental War 2](../games/9/97c2829c7b9047a7bf8657d7c5f87765.md) | 42 | 1,000 |
 | [Elypse](../games/e/elypse.md) | 34 | 1,000 |
