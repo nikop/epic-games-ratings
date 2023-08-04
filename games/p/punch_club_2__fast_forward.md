@@ -29,14 +29,14 @@
 | Workout professional | 55.00% | ~120 |
 | It's good to be alive | 55.00% | ~120 |
 | Own four walls | 55.00% | ~120 |
+| Champion – starter pack | 54.00% | ~118 |
 | Handyman | 53.00% | ~116 |
-| Champion – starter pack | 53.00% | ~116 |
 | Employee of the year | 53.00% | ~116 |
 | Fight for life | 52.00% | ~114 |
 | Legal courier | 51.00% | ~112 |
-| Extreme neuropower! | 49.00% | ~107 |
+| Extreme neuropower! | 50.00% | ~110 |
+| Now you are worthy | 47.00% | ~103 |
 | Escaped from a big trouble | 47.00% | ~103 |
-| Now you are worthy | 46.00% | ~101 |
 | No blades in the gym | 44.00% | ~96 |
 | Guiding on the right path | 43.00% | ~94 |
 | Your own way | 43.00% | ~94 |
@@ -50,8 +50,8 @@
 | Poisoned fighter | 35.00% | ~77 |
 | Deal with life | 34.00% | ~74 |
 | Seashell hunter | 34.00% | ~74 |
-| Mom got better | 32.00% | ~70 |
-| The die is cast | 32.00% | ~70 |
+| Mom got better | 33.00% | ~72 |
+| The die is cast | 33.00% | ~72 |
 | Undercover robot | 31.00% | ~68 |
 | Gang wrangler | 30.00% | ~66 |
 | Problems of cyborgs | 30.00% | ~66 |
@@ -72,7 +72,7 @@
 | The only right decision | 24.00% | ~53 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 219 (Ranked 277)  
-Completed: 7 (3.20%) (Ranked 62)  
+Completed: 7 (3.20%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 775,
+  "EOS_Progressed": 776,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2696,6 +2696,11 @@
       "Time": "2023-08-04T06:07:06.2628936+00:00",
       "NumProgressed": 775,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T08:06:11.4647005+00:00",
+      "NumProgressed": 776,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2811,7 +2816,7 @@
       "Name": "Facility Online",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -2875,7 +2880,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -2963,7 +2968,7 @@
       "Name": "Defenses Online",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -3010,14 +3015,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 775,
+      "Progressed": 776,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-04T07:07:25.6237327+00:00",
+  "LastChanged_Achievements": "2023-08-04T08:06:11.4646999+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:27.0275663+00:00",
-  "LastUpdate_Ratings": "2023-08-04T06:57:29.3642194+00:00",
-  "LastUpdate_Achievements": "2023-08-04T07:07:25.6237865+00:00"
+  "LastUpdate_Ratings": "2023-08-04T07:57:18.4406311+00:00",
+  "LastUpdate_Achievements": "2023-08-04T08:06:11.4647451+00:00"
 }

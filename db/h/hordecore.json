@@ -3,7 +3,7 @@
   "Name": "HordeCore",
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 247,
-  "Ranking_EOS_Completed": 69,
+  "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
@@ -368,9 +368,9 @@
       "ID": "8",
       "SetID": "1530e6b",
       "Name": "Master Chef",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 230
     },
     {
       "ID": "9",
@@ -393,8 +393,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-08-04T07:05:35.3336704+00:00",
+  "LastChanged_Achievements": "2023-08-04T08:04:50.7842753+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:42.3372122+00:00",
-  "LastUpdate_Ratings": "2023-08-04T07:01:46.3401355+00:00",
-  "LastUpdate_Achievements": "2023-08-04T07:05:35.3337047+00:00"
+  "LastUpdate_Ratings": "2023-08-04T08:00:15.5704139+00:00",
+  "LastUpdate_Achievements": "2023-08-04T08:04:50.7842985+00:00"
 }

@@ -271,17 +271,17 @@
       "ID": "CgkIxYDzrbcPEAIQCA",
       "SetID": "4egpam7",
       "Name": "Secrets of Justice",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCQ",
       "SetID": "4egpam7",
       "Name": "Ancient Enigma",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCg",
@@ -343,9 +343,9 @@
       "ID": "CgkIxYDzrbcPEAIQEQ",
       "SetID": "4egpam7",
       "Name": "Seeker of Mysteries",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEg",
@@ -462,8 +462,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-04T07:06:48.5218665+00:00",
+  "LastChanged_Achievements": "2023-08-04T08:05:44.6138616+00:00",
   "LastUpdate_AppInfo": "2023-08-01T13:03:42.8439888+00:00",
-  "LastUpdate_Ratings": "2023-08-04T06:58:04.6750437+00:00",
-  "LastUpdate_Achievements": "2023-08-04T07:06:48.5218941+00:00"
+  "LastUpdate_Ratings": "2023-08-04T07:57:45.0828353+00:00",
+  "LastUpdate_Achievements": "2023-08-04T08:05:44.6138846+00:00"
 }

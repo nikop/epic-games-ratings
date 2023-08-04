@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81097,
+  "EOS_Progressed": 81104,
   "EOS_Completed": 380,
-  "EOS_NewPlayers": 853,
+  "EOS_NewPlayers": 857,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -11823,6 +11823,11 @@
       "Time": "2023-08-04T07:06:24.1340423+00:00",
       "NumProgressed": 81097,
       "NumCompleted": 380
+    },
+    {
+      "Time": "2023-08-04T08:05:26.7544434+00:00",
+      "NumProgressed": 81104,
+      "NumCompleted": 380
     }
   ],
   "TotalAchievements": 10,
@@ -11874,7 +11879,7 @@
       "Name": "Collected all drawings",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "DrawingsDLC",
@@ -11882,7 +11887,7 @@
       "Name": "Prologue Drawings",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "GameCompleted",
@@ -11898,7 +11903,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 28384
+      "UsersEstimate": 28386
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -11913,15 +11918,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 81097,
+      "Progressed": 81104,
       "Completed": 380
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-08-04T07:06:24.1340419+00:00",
+  "LastChanged_Achievements": "2023-08-04T08:05:26.7544427+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:25.0463004+00:00",
-  "LastUpdate_Ratings": "2023-08-04T06:57:20.3384659+00:00",
-  "LastUpdate_Achievements": "2023-08-04T07:06:24.134149+00:00"
+  "LastUpdate_Ratings": "2023-08-04T07:57:11.1145623+00:00",
+  "LastUpdate_Achievements": "2023-08-04T08:05:26.7545233+00:00"
 }

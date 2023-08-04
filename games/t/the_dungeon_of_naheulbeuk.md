@@ -1,26 +1,26 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 425)  
+Rating: 4.58 (Ranked 424)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~121,497 |
-| Where's that freaking Dwarf? | 47.00% | ~96,786 |
-| GG EZ | 28.00% | ~57,660 |
-| Speedrun | 26.00% | ~53,541 |
-| Déjà vu | 21.00% | ~43,245 |
-| Sock! SOCK! | 17.00% | ~35,008 |
-| DM intervention | 13.00% | ~26,771 |
-| Fireproof Wizardess | 10.00% | ~20,593 |
-| Livin' in a dwarven paradise | 8.00% | ~16,474 |
-| A beer, two curses, three companions | 8.00% | ~16,474 |
-| Way of the Wimp | 7.00% | ~14,415 |
-| The plot thickens... At the tavern | 5.00% | ~10,296 |
-| The Woman in the High Castle | 4.00% | ~8,237 |
-| I am the night | 4.00% | ~8,237 |
-| Team Building Exercise | 4.00% | ~8,237 |
+| Alt+F4 | 59.00% | ~121,505 |
+| Where's that freaking Dwarf? | 47.00% | ~96,792 |
+| GG EZ | 28.00% | ~57,663 |
+| Speedrun | 26.00% | ~53,545 |
+| Déjà vu | 21.00% | ~43,248 |
+| Sock! SOCK! | 17.00% | ~35,010 |
+| DM intervention | 13.00% | ~26,772 |
+| Fireproof Wizardess | 10.00% | ~20,594 |
+| Livin' in a dwarven paradise | 8.00% | ~16,475 |
+| A beer, two curses, three companions | 8.00% | ~16,475 |
+| Way of the Wimp | 7.00% | ~14,416 |
+| The plot thickens... At the tavern | 5.00% | ~10,297 |
+| The Woman in the High Castle | 4.00% | ~8,238 |
+| I am the night | 4.00% | ~8,238 |
+| Team Building Exercise | 4.00% | ~8,238 |
 | Shiny and Crôm | 3.00% | ~6,178 |
 | The demons' feast | 3.00% | ~6,178 |
 | The Great Library | 3.00% | ~6,178 |
@@ -46,7 +46,7 @@ Number of Ratings: 118  (23.09.2022)
 | It's been a hard day's night | 1.00% | ~2,059 |
 | Lust and Debauchery | 1.00% | ~2,059 |
 | Lëgal Legend | 0.90% | ~1,853 |
-| An old poacher makes the best gamekeeper | 0.70% | ~1,441 |
+| An old poacher makes the best gamekeeper | 0.70% | ~1,442 |
 | Holistic Adventuring Party | 0.50% | ~1,030 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,030 |
 | Friendly fire | 0.50% | ~1,030 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,927 (Ranked 55)  
+Progressed: 205,941 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-08-01 | 204,538 | 0 |
 | 2023-08-02 | 205,167 | 0 |
 | 2023-08-03 | 205,780 | 0 |
-| 2023-08-04 | 205,927 | 0 |
+| 2023-08-04 | 205,941 | 0 |
 ## Awards
 Max (Character Customization): 149  (Ranked 295)  
 Sum: 149 (Ranked 392)  

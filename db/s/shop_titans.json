@@ -5410,9 +5410,9 @@
       "Count": 3725
     }
   ],
-  "EOS_Progressed": 133833,
+  "EOS_Progressed": 133834,
   "EOS_Completed": 128,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16160,6 +16160,11 @@
       "Time": "2023-08-04T07:05:11.4941916+00:00",
       "NumProgressed": 133833,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2023-08-04T08:04:33.7717641+00:00",
+      "NumProgressed": 133834,
+      "NumCompleted": 128
     }
   ],
   "TotalAchievements": 112,
@@ -16251,7 +16256,7 @@
       "Name": "One Easy Payment",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "bigsale02",
@@ -16275,7 +16280,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "blueprint02",
@@ -16523,7 +16528,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "energy02",
@@ -16651,7 +16656,7 @@
       "Name": "Pretty Penny",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "gold03",
@@ -16755,7 +16760,7 @@
       "Name": "Budding Merchant",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "level02",
@@ -16827,7 +16832,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "master02",
@@ -17035,7 +17040,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "workers02",
@@ -17066,15 +17071,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133833,
+      "Progressed": 133834,
       "Completed": 128
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-04T02:59:43.6180734+00:00",
-  "LastChanged_Achievements": "2023-08-04T07:05:11.4941911+00:00",
+  "LastChanged_Achievements": "2023-08-04T08:04:33.7717635+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.2465054+00:00",
-  "LastUpdate_Ratings": "2023-08-04T07:00:00.3190285+00:00",
-  "LastUpdate_Achievements": "2023-08-04T07:05:11.4944459+00:00"
+  "LastUpdate_Ratings": "2023-08-04T07:59:03.7253628+00:00",
+  "LastUpdate_Achievements": "2023-08-04T08:04:33.7719673+00:00"
 }

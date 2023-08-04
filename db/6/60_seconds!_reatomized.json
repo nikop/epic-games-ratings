@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -162,9 +162,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4852,
+  "EOS_Progressed": 4853,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3887,6 +3887,11 @@
       "Time": "2023-08-04T02:00:36.8218387+00:00",
       "NumProgressed": 4852,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-04T08:05:12.4166178+00:00",
+      "NumProgressed": 4853,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -3970,7 +3975,7 @@
       "Name": "All thumbs",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 4415
+      "UsersEstimate": 4416
     },
     {
       "ID": "ACH_BUG_KILLER",
@@ -3986,7 +3991,7 @@
       "Name": "Out of the Bag",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 3590
+      "UsersEstimate": 3591
     },
     {
       "ID": "ACH_CATDOM",
@@ -4026,7 +4031,7 @@
       "Name": "One way ticket",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4027
+      "UsersEstimate": 4028
     },
     {
       "ID": "ACH_DEEDEE",
@@ -4034,7 +4039,7 @@
       "Name": "Dawkins Residence",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "ACH_DEFEND",
@@ -4042,7 +4047,7 @@
       "Name": "Pacifist",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "ACH_DEFEND_THREE",
@@ -4146,7 +4151,7 @@
       "Name": "Rescue time!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ACH_HARD",
@@ -4162,7 +4167,7 @@
       "Name": "What goes around...",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2086
+      "UsersEstimate": 2087
     },
     {
       "ID": "ACH_HOLIDAYS",
@@ -4194,7 +4199,7 @@
       "Name": "Home, sweet home",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 4367
+      "UsersEstimate": 4368
     },
     {
       "ID": "ACH_MADHATTER",
@@ -4242,7 +4247,7 @@
       "Name": "Duck and cover!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 3105
+      "UsersEstimate": 3106
     },
     {
       "ID": "ACH_PANZER",
@@ -4266,7 +4271,7 @@
       "Name": "A gift",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 2523
+      "UsersEstimate": 2524
     },
     {
       "ID": "ACH_PRO_GAMER",
@@ -4298,7 +4303,7 @@
       "Name": "The Dark Side",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 3348
+      "UsersEstimate": 3349
     },
     {
       "ID": "ACH_ROGUE",
@@ -4314,7 +4319,7 @@
       "Name": "I will survive!",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 4464
+      "UsersEstimate": 4465
     },
     {
       "ID": "ACH_SURVIVE_111_DAYS",
@@ -4330,7 +4335,7 @@
       "Name": "Survivalist",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 4318
+      "UsersEstimate": 4319
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -4338,7 +4343,7 @@
       "Name": "Last man standing",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 3833
+      "UsersEstimate": 3834
     },
     {
       "ID": "ACH_SURVIVE_5_DAYS",
@@ -4346,7 +4351,7 @@
       "Name": "Prepper",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 4512
+      "UsersEstimate": 4513
     },
     {
       "ID": "ACH_TOILET_BUSTER",
@@ -4377,7 +4382,7 @@
     {
       "ID": "5nj1ea3",
       "IsBase": true,
-      "Progressed": 4852,
+      "Progressed": 4853,
       "Completed": 1
     }
   ],
@@ -4385,8 +4390,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-08-02T17:02:12.6296444+00:00",
-  "LastChanged_Achievements": "2023-08-04T07:06:04.5037682+00:00",
+  "LastChanged_Achievements": "2023-08-04T08:05:12.416617+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:21.1822177+00:00",
-  "LastUpdate_Ratings": "2023-08-04T07:02:23.9555002+00:00",
-  "LastUpdate_Achievements": "2023-08-04T07:06:04.5038648+00:00"
+  "LastUpdate_Ratings": "2023-08-04T08:00:41.850518+00:00",
+  "LastUpdate_Achievements": "2023-08-04T08:05:12.4166961+00:00"
 }

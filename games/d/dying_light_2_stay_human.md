@@ -1,26 +1,26 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 425)  
+Rating: 4.58 (Ranked 424)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~66,807 |
-| Into the Unknown | 10.00% | ~60,734 |
-| First Shot | 10.00% | ~60,734 |
-| Herzlich Wilkommen! | 9.00% | ~54,660 |
-| Good Night & Good Luck | 9.00% | ~54,660 |
-| Sancho Panza | 8.00% | ~48,587 |
-| Oh, So This Is How It Works! | 8.00% | ~48,587 |
+| You Never Forget Your First... | 11.00% | ~66,808 |
+| Into the Unknown | 10.00% | ~60,735 |
+| First Shot | 10.00% | ~60,735 |
+| Herzlich Wilkommen! | 9.00% | ~54,661 |
+| Good Night & Good Luck | 9.00% | ~54,661 |
+| Sancho Panza | 8.00% | ~48,588 |
+| Oh, So This Is How It Works! | 8.00% | ~48,588 |
 | Under Pressure | 7.00% | ~42,514 |
 | On the Trail of the Enemy | 7.00% | ~42,514 |
 | Flag Burning | 7.00% | ~42,514 |
 | Night Hunter | 7.00% | ~42,514 |
-| Light in the Darkness | 6.00% | ~36,440 |
-| Get Outta My House! | 6.00% | ~36,440 |
-| It Wasn't That Hard, Was It? | 6.00% | ~36,440 |
-| Being All Social | 6.00% | ~36,440 |
+| Light in the Darkness | 6.00% | ~36,441 |
+| Get Outta My House! | 6.00% | ~36,441 |
+| It Wasn't That Hard, Was It? | 6.00% | ~36,441 |
+| Being All Social | 6.00% | ~36,441 |
 | Debris and Ashes | 5.00% | ~30,367 |
 | We Will Be Heard! | 5.00% | ~30,367 |
 | Known Associate | 5.00% | ~30,367 |
@@ -28,12 +28,12 @@ Number of Ratings: 7,305  (23.09.2022)
 | Tunnel Entrance | 5.00% | ~30,367 |
 | After the Fall | 5.00% | ~30,367 |
 | Can't Touch This! | 5.00% | ~30,367 |
-| Going Down | 4.00% | ~24,293 |
-| Family First | 4.00% | ~24,293 |
-| Your World, Your Rules | 4.00% | ~24,293 |
-| Death From Afar | 4.00% | ~24,293 |
-| Terminal Headache | 4.00% | ~24,293 |
-| Slowpoke! | 4.00% | ~24,293 |
+| Going Down | 4.00% | ~24,294 |
+| Family First | 4.00% | ~24,294 |
+| Your World, Your Rules | 4.00% | ~24,294 |
+| Death From Afar | 4.00% | ~24,294 |
+| Terminal Headache | 4.00% | ~24,294 |
+| Slowpoke! | 4.00% | ~24,294 |
 | Tickets, Please! | 3.00% | ~18,220 |
 | Combat Master | 3.00% | ~18,220 |
 | You're Going Down! | 3.00% | ~18,220 |
@@ -55,8 +55,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Night of Terrors | 0.90% | ~2,275 |
 | Revenants | 0.70% | ~4,251 |
 | Get the Point? | 0.70% | ~4,251 |
-| My Friend, Ciro | 0.70% | ~1,769 |
-| Skullcrusher | 0.70% | ~1,769 |
+| My Friend, Ciro | 0.70% | ~1,770 |
+| Skullcrusher | 0.70% | ~1,770 |
 | Tanning Salon | 0.60% | ~3,644 |
 | Lightning Reflexes | 0.40% | ~2,429 |
 | A Friend in Need... | 0.30% | ~1,822 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~253 |
 | Connoisseur | 0.10% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 607,337 (Ranked 27)  
+Progressed: 607,347 (Ranked 27)  
 Completed: 61 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 61 (0.01%) (Ranked 234)
 | 2023-08-01 | 606,007 | 61 |
 | 2023-08-02 | 606,634 | 61 |
 | 2023-08-03 | 607,225 | 61 |
-| 2023-08-04 | 607,337 | 61 |
+| 2023-08-04 | 607,347 | 61 |
 ## Awards
 Max (Character Customization): 8,668  (Ranked 39)  
 Sum: 20,703 (Ranked 54)  

@@ -245,9 +245,9 @@
       "ID": "CgkInO_K3eIdEAIQAw",
       "SetID": "6bj96in",
       "Name": "GREAT ESCAPE",
-      "Percentage": 95,
+      "Percentage": 98,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "CgkInO_K3eIdEAIQBA",
@@ -444,8 +444,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-04T07:05:35.8599461+00:00",
+  "LastChanged_Achievements": "2023-08-04T08:04:51.1442816+00:00",
   "LastUpdate_AppInfo": "2023-08-02T14:57:15.3975507+00:00",
-  "LastUpdate_Ratings": "2023-08-04T06:57:52.6696326+00:00",
-  "LastUpdate_Achievements": "2023-08-04T07:05:35.8599685+00:00"
+  "LastUpdate_Ratings": "2023-08-04T07:57:35.4628447+00:00",
+  "LastUpdate_Achievements": "2023-08-04T08:04:51.1442981+00:00"
 }

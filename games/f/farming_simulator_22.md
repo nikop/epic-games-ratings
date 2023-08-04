@@ -6,19 +6,19 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~34,929 |
-| I read Shakespeare and stuff | 64.00% | ~29,806 |
-| Just a sprinkle | 63.00% | ~29,340 |
-| I'm stumped | 61.00% | ~28,409 |
-| Plant get enough | 60.00% | ~27,943 |
+| Own use | 75.00% | ~34,930 |
+| I read Shakespeare and stuff | 64.00% | ~29,807 |
+| Just a sprinkle | 63.00% | ~29,341 |
+| I'm stumped | 61.00% | ~28,410 |
+| Plant get enough | 60.00% | ~27,944 |
 | This is just my weekend vehicle | 58.00% | ~27,012 |
 | It's just the beginning | 58.00% | ~27,012 |
-| Hard work pays off | 53.00% | ~24,683 |
-| It's never too late to farm | 49.00% | ~22,820 |
+| Hard work pays off | 53.00% | ~24,684 |
+| It's never too late to farm | 49.00% | ~22,821 |
 | All out of Land | 44.00% | ~20,492 |
 | Field Trip | 43.00% | ~20,026 |
 | I like to switch it up | 40.00% | ~18,629 |
-| Help me to help you | 38.00% | ~17,697 |
+| Help me to help you | 38.00% | ~17,698 |
 | Ultimutt Pawesomeness | 28.00% | ~13,040 |
 | Van Gogh | 26.00% | ~12,109 |
 | You wood not believe it | 22.00% | ~10,246 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~186 |
 | Raisin the stakes | 0.30% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,572 (Ranked 90)  
+Progressed: 46,573 (Ranked 90)  
 Completed: 5 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,10 +156,10 @@ Completed: 5 (0.01%) (Ranked 234)
 | 2023-08-01 | 46,468 | 5 |
 | 2023-08-02 | 46,521 | 5 |
 | 2023-08-03 | 46,562 | 5 |
-| 2023-08-04 | 46,572 | 5 |
+| 2023-08-04 | 46,573 | 5 |
 ## Awards
 Max (Great for Beginners): 4,660  (Ranked 71)  
-Sum: 38,767 (Ranked 31)  
+Sum: 38,770 (Ranked 31)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -172,7 +172,7 @@ Diff (max vs sum): 40
 | This game is Extremely Fun | 3,868 |
 | This game has Amazing Storytelling | 3,753 |
 | This game has Amazing Characters | 3,382 |
-| This game has a Creative Community | 3,219 |
+| This game has a Creative Community | 3,222 |
 | This game has Obsessive Gameplay | 2,386 |
 | This game has Easy Combat | 1,816 |
 ## Ratings History
@@ -377,4 +377,4 @@ Diff (max vs sum): 40
 | 2023-08-01 | 4.69 | - | 4,645 | 38,682 |
 | 2023-08-02 | 4.69 | - | 4,645 | 38,717 |
 | 2023-08-03 | 4.69 | - | 4,654 | 38,757 |
-| 2023-08-04 | 4.69 | - | 4,660 | 38,767 |
+| 2023-08-04 | 4.69 | - | 4,660 | 38,770 |

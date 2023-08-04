@@ -10,10 +10,10 @@
 | Hammer Time | 41.00% | ~12 |
 | Escape From M.C. | 28.00% | ~8 |
 | Restore Honor | 24.00% | ~7 |
-| Overkill | 14.00% | ~4 |
-| Bring Down the Corp | 7.00% | ~2 |
+| Overkill | 17.00% | ~5 |
+| Bring Down the Corp | 10.00% | ~3 |
+| Lieutenant | 7.00% | ~2 |
 | Gibbing Love | 3.00% | ~1 |
-| Lieutenant | 3.00% | ~1 |
 | Dust to Dust | 3.00% | ~1 |
 | Flawless Victory | 3.00% | ~1 |
 | Knife Juggler | 3.00% | ~1 |

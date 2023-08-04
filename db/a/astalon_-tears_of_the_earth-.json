@@ -2,9 +2,9 @@
   "ID": "5e09944aaced4155ac9463196b5deada",
   "Name": "Astalon -Tears of the Earth-",
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
-  "Ranking_EOS_Progress": 347,
-  "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_Progress": 345,
+  "Ranking_EOS_Completed": 62,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 62,
+  "EOS_Progressed": 63,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.23,
+  "EOS_Completed_Percentage": 3.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:01.3708206+00:00",
@@ -85,6 +85,11 @@
     {
       "Time": "2023-08-02T23:02:23.0354101+00:00",
       "NumProgressed": 62,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-04T08:03:28.3410741+00:00",
+      "NumProgressed": 63,
       "NumCompleted": 2
     }
   ],
@@ -143,7 +148,7 @@
       "ID": "Buy_All_Arias_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Fighter Mastery",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -191,7 +196,7 @@
       "ID": "Collect_50000_Orbs",
       "SetID": "4f0g260",
       "Name": "Orb Collector",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -207,7 +212,7 @@
       "ID": "Complete_Bestiary_20",
       "SetID": "4f0g260",
       "Name": "Beast Quest",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -231,7 +236,7 @@
       "ID": "Defeat_1000_Enemies",
       "SetID": "4f0g260",
       "Name": "Monster Hunt",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -239,7 +244,7 @@
       "ID": "Defeat_5000_Enemies",
       "SetID": "4f0g260",
       "Name": "Slay the Monster!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -271,7 +276,7 @@
       "ID": "Defeat_Tauros",
       "SetID": "4f0g260",
       "Name": "Horn prize!",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -287,9 +292,9 @@
       "ID": "Find_Secret_Ending1",
       "SetID": "4f0g260",
       "Name": "Fly, you fool!",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Get_100_Item_Completion",
@@ -327,7 +332,7 @@
       "ID": "Unlock_Zeek",
       "SetID": "4f0g260",
       "Name": "Loot, loot!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
       "UsersEstimate": 19
     }
@@ -336,7 +341,7 @@
     {
       "ID": "4f0g260",
       "IsBase": true,
-      "Progressed": 62,
+      "Progressed": 63,
       "Completed": 2
     }
   ],
@@ -344,8 +349,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-08-04T07:03:22.3485014+00:00",
+  "LastChanged_Achievements": "2023-08-04T08:03:28.3410734+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.0042283+00:00",
-  "LastUpdate_Ratings": "2023-08-04T06:59:51.1514037+00:00",
-  "LastUpdate_Achievements": "2023-08-04T07:03:22.3485251+00:00"
+  "LastUpdate_Ratings": "2023-08-04T07:58:57.1076634+00:00",
+  "LastUpdate_Achievements": "2023-08-04T08:03:28.3411016+00:00"
 }

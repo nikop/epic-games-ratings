@@ -6,30 +6,30 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~7,047 |
-| That's a Grand Army | 8.00% | ~6,264 |
-| Victorious! | 8.00% | ~6,264 |
-| That is mine! | 7.00% | ~5,481 |
-| Brothers in Arms | 6.00% | ~4,698 |
-| That's a Grand Navy | 6.00% | ~4,698 |
-| Seriously?! | 6.00% | ~4,698 |
-| For the Glory | 5.00% | ~3,915 |
-| Cold War | 4.00% | ~3,132 |
-| True Catholic | 4.00% | ~3,132 |
-| Defender of the Faith | 3.00% | ~2,349 |
-| It's all about luck | 3.00% | ~2,349 |
-| It's all about the money | 3.00% | ~2,349 |
-| Respected | 3.00% | ~2,349 |
-| The Princess is in this Castle | 3.00% | ~2,349 |
-| Truly Divine Ruler | 3.00% | ~2,349 |
-| Agressive Expander | 2.00% | ~1,566 |
-| Blockader | 2.00% | ~1,566 |
-| Combined Arms | 2.00% | ~1,566 |
-| Double the Love | 2.00% | ~1,566 |
-| My armies are invincible! | 2.00% | ~1,566 |
-| Queen of Conquest | 2.00% | ~1,566 |
-| Royal Authority | 2.00% | ~1,566 |
-| Total Control | 2.00% | ~1,566 |
+| Until death do us apart | 9.00% | ~7,050 |
+| That's a Grand Army | 8.00% | ~6,267 |
+| Victorious! | 8.00% | ~6,267 |
+| That is mine! | 7.00% | ~5,483 |
+| Brothers in Arms | 6.00% | ~4,700 |
+| That's a Grand Navy | 6.00% | ~4,700 |
+| Seriously?! | 6.00% | ~4,700 |
+| For the Glory | 5.00% | ~3,917 |
+| Cold War | 4.00% | ~3,133 |
+| True Catholic | 4.00% | ~3,133 |
+| Defender of the Faith | 3.00% | ~2,350 |
+| It's all about luck | 3.00% | ~2,350 |
+| It's all about the money | 3.00% | ~2,350 |
+| Respected | 3.00% | ~2,350 |
+| The Princess is in this Castle | 3.00% | ~2,350 |
+| Truly Divine Ruler | 3.00% | ~2,350 |
+| Agressive Expander | 2.00% | ~1,567 |
+| Blockader | 2.00% | ~1,567 |
+| Combined Arms | 2.00% | ~1,567 |
+| Double the Love | 2.00% | ~1,567 |
+| My armies are invincible! | 2.00% | ~1,567 |
+| Queen of Conquest | 2.00% | ~1,567 |
+| Royal Authority | 2.00% | ~1,567 |
+| Total Control | 2.00% | ~1,567 |
 | All That's Thine Shall Be Mine | 1.00% | ~783 |
 | Azur semé de lis or | 1.00% | ~783 |
 | Bright Spark | 1.00% | ~783 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,301 (Ranked 76)  
+Progressed: 78,335 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -467,7 +467,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-08-01 | 77,006 | 0 |
 | 2023-08-02 | 77,371 | 0 |
 | 2023-08-03 | 78,060 | 0 |
-| 2023-08-04 | 78,301 | 0 |
+| 2023-08-04 | 78,335 | 0 |
 ## Awards
 Max (Educational): 5,611  (Ranked 62)  
 Sum: 46,324 (Ranked 26)  
