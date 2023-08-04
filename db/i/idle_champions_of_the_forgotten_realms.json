@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5486,10 +5486,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30889,
       "NumberOfAwardsMax": 5116
+    },
+    {
+      "Time": "2023-08-04T11:59:23.3560439+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30894,
+      "NumberOfAwardsMax": 5116
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30889,
+  "NumberOfAwards": 30894,
   "NumberOfAwardsMax": 5116,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5497,7 +5503,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5055
+      "Count": 5059
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5515,7 +5521,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4594
+      "Count": 4595
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5536,10 +5542,10 @@
       "Count": 3341
     }
   ],
-  "EOS_Progressed": 218534,
+  "EOS_Progressed": 218550,
   "EOS_Completed": 2150,
   "EOS_NewPlayers": 2231,
-  "EOS_NewCompleters": 20,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16956,6 +16962,11 @@
       "Time": "2023-08-04T11:00:58.5367207+00:00",
       "NumProgressed": 218534,
       "NumCompleted": 2150
+    },
+    {
+      "Time": "2023-08-04T12:02:44.5935654+00:00",
+      "NumProgressed": 218550,
+      "NumCompleted": 2150
     }
   ],
   "TotalAchievements": 512,
@@ -16967,7 +16978,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8741
+      "UsersEstimate": 8742
     },
     {
       "ID": "objective_completed_10",
@@ -17039,7 +17050,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "objective_completed_1051",
@@ -17271,7 +17282,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "objective_completed_1090",
@@ -17527,7 +17538,7 @@
       "Name": "Supply Run",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "objective_completed_1142",
@@ -17671,7 +17682,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "objective_completed_1169",
@@ -18077,9 +18088,9 @@
       "ID": "objective_completed_149",
       "SetID": "cc37lbc",
       "Name": "The Forbidden City",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 656
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_15",
@@ -21039,7 +21050,7 @@
       "Name": "Topolah\u0027s Tower",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "objective_completed_1391",
@@ -21062,21 +21073,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184808,
+      "Progressed": 184824,
       "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218534,
+      "Progressed": 218550,
       "Completed": 2150
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-04T08:59:26.8933095+00:00",
-  "LastChanged_Achievements": "2023-08-04T11:00:58.5367199+00:00",
+  "LastChanged": "2023-08-04T11:59:23.3560437+00:00",
+  "LastChanged_Achievements": "2023-08-04T12:02:44.5935645+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-04T10:58:47.6715414+00:00",
-  "LastUpdate_Achievements": "2023-08-04T11:00:58.5398958+00:00"
+  "LastUpdate_Ratings": "2023-08-04T11:59:23.3560444+00:00",
+  "LastUpdate_Achievements": "2023-08-04T12:02:44.5969111+00:00"
 }

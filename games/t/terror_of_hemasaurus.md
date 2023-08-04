@@ -12,7 +12,7 @@
 | Monstrosity Atrocity | 39.00% | ~27 |
 | Test of Faith | 37.00% | ~26 |
 | Reign of Terror | 31.00% | ~22 |
-| Crushing All Cars | 26.00% | ~18 |
+| Crushing All Cars | 27.00% | ~19 |
 | Brain Chopper | 21.00% | ~15 |
 | Horror Show | 20.00% | ~14 |
 | Night Bird | 17.00% | ~12 |

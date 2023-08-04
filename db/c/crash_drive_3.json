@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -355,9 +355,9 @@
       "ID": "AIRTIME_6_SEC",
       "SetID": "20koof9",
       "Name": "Brace for impact!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 118
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -387,9 +387,9 @@
       "ID": "COIN_COLLECT",
       "SetID": "20koof9",
       "Name": "The Collector",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 89
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -595,9 +595,9 @@
       "ID": "KING_CROWN",
       "SetID": "20koof9",
       "Name": "Your Highness",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 79
     },
     {
       "ID": "LEFT_LEVEL",
@@ -804,8 +804,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-08-04T11:05:01.9750901+00:00",
+  "LastChanged_Achievements": "2023-08-04T12:05:34.2404216+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:38.9893142+00:00",
-  "LastUpdate_Ratings": "2023-08-04T10:59:24.6117508+00:00",
-  "LastUpdate_Achievements": "2023-08-04T11:05:01.975141+00:00"
+  "LastUpdate_Ratings": "2023-08-04T12:00:15.4980692+00:00",
+  "LastUpdate_Achievements": "2023-08-04T12:05:34.2404844+00:00"
 }

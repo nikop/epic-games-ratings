@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60186,
+  "EOS_Progressed": 60190,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 1064,
+  "EOS_NewPlayers": 1058,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10162,6 +10162,11 @@
       "Time": "2023-08-04T11:04:53.8743687+00:00",
       "NumProgressed": 60186,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-08-04T12:05:23.4768775+00:00",
+      "NumProgressed": 60190,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 67,
@@ -10173,7 +10178,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22269
+      "UsersEstimate": 22270
     },
     {
       "ID": "02",
@@ -10181,7 +10186,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13843
+      "UsersEstimate": 13844
     },
     {
       "ID": "03",
@@ -10189,7 +10194,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13241
+      "UsersEstimate": 13242
     },
     {
       "ID": "04",
@@ -10197,7 +10202,7 @@
       "Name": "Boob Tube",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "05",
@@ -10205,7 +10210,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 11435
+      "UsersEstimate": 11436
     },
     {
       "ID": "06",
@@ -10221,7 +10226,7 @@
       "Name": "Heavy Metal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6620
+      "UsersEstimate": 6621
     },
     {
       "ID": "08",
@@ -10229,7 +10234,7 @@
       "Name": "Iron Horse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7222
+      "UsersEstimate": 7223
     },
     {
       "ID": "09",
@@ -10237,7 +10242,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7824
+      "UsersEstimate": 7825
     },
     {
       "ID": "10",
@@ -10253,7 +10258,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3009
+      "UsersEstimate": 3010
     },
     {
       "ID": "12",
@@ -10261,7 +10266,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6620
+      "UsersEstimate": 6621
     },
     {
       "ID": "13",
@@ -10269,7 +10274,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3009
+      "UsersEstimate": 3010
     },
     {
       "ID": "14",
@@ -10309,7 +10314,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3009
+      "UsersEstimate": 3010
     },
     {
       "ID": "19",
@@ -10325,7 +10330,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "21",
@@ -10333,7 +10338,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7824
+      "UsersEstimate": 7825
     },
     {
       "ID": "22",
@@ -10341,7 +10346,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7222
+      "UsersEstimate": 7223
     },
     {
       "ID": "23",
@@ -10381,7 +10386,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7222
+      "UsersEstimate": 7223
     },
     {
       "ID": "28",
@@ -10389,7 +10394,7 @@
       "Name": "Come One, Come All",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6620
+      "UsersEstimate": 6621
     },
     {
       "ID": "29",
@@ -10397,7 +10402,7 @@
       "Name": "Sound and Fury",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7824
+      "UsersEstimate": 7825
     },
     {
       "ID": "30",
@@ -10421,7 +10426,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16852
+      "UsersEstimate": 16853
     },
     {
       "ID": "33",
@@ -10429,7 +10434,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7824
+      "UsersEstimate": 7825
     },
     {
       "ID": "34",
@@ -10445,7 +10450,7 @@
       "Name": "Let There Be Light",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17454
+      "UsersEstimate": 17455
     },
     {
       "ID": "36",
@@ -10533,7 +10538,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 8426
+      "UsersEstimate": 8427
     },
     {
       "ID": "47",
@@ -10549,7 +10554,7 @@
       "Name": "KBF-FM",
       "Percentage": 4,
       "XP": 110,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "49",
@@ -10573,7 +10578,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "52",
@@ -10708,21 +10713,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60186,
+      "Progressed": 60190,
       "Completed": 63
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23654,
+      "Progressed": 23658,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-04T11:04:53.8743681+00:00",
+  "LastChanged_Achievements": "2023-08-04T12:05:23.476877+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:35.0351219+00:00",
-  "LastUpdate_Ratings": "2023-08-04T10:58:22.8286904+00:00",
-  "LastUpdate_Achievements": "2023-08-04T11:04:53.874692+00:00"
+  "LastUpdate_Ratings": "2023-08-04T11:58:47.1866711+00:00",
+  "LastUpdate_Achievements": "2023-08-04T12:05:23.4770295+00:00"
 }

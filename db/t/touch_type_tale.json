@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3104,
+  "EOS_Progressed": 3105,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2674,6 +2674,11 @@
       "Time": "2023-08-03T17:03:03.9406706+00:00",
       "NumProgressed": 3104,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-04T12:02:57.4454196+00:00",
+      "NumProgressed": 3105,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2773,7 +2778,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "campaign15",
@@ -2821,7 +2826,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "campaign20",
@@ -2948,7 +2953,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3104,
+      "Progressed": 3105,
       "Completed": 10
     }
   ],
@@ -2956,8 +2961,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-08-04T11:03:09.1864052+00:00",
+  "LastChanged_Achievements": "2023-08-04T12:02:57.4454191+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:07.7269994+00:00",
-  "LastUpdate_Ratings": "2023-08-04T11:00:38.1656045+00:00",
-  "LastUpdate_Achievements": "2023-08-04T11:03:09.1864496+00:00"
+  "LastUpdate_Ratings": "2023-08-04T12:02:13.3837051+00:00",
+  "LastUpdate_Achievements": "2023-08-04T12:02:57.4454737+00:00"
 }

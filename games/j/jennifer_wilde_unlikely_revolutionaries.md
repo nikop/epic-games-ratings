@@ -16,7 +16,7 @@
 | Top Detective | 6.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 51 (Ranked 357)  
-Completed: 3 (5.88%) (Ranked 41)  
+Completed: 3 (5.88%) (Ranked 42)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

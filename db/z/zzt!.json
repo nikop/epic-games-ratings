@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3012,
+  "EOS_Progressed": 3013,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 3.69,
+  "EOS_Completed_Percentage": 3.68,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -3691,6 +3691,11 @@
       "Time": "2023-08-04T10:03:10.6838117+00:00",
       "NumProgressed": 3012,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-08-04T12:02:34.2785262+00:00",
+      "NumProgressed": 3013,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 5,
@@ -3702,7 +3707,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3012
+      "UsersEstimate": 3013
     },
     {
       "ID": "2",
@@ -3726,7 +3731,7 @@
       "Name": "Adventurer",
       "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "5",
@@ -3734,14 +3739,14 @@
       "Name": "Hero",
       "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     }
   ],
   "AchievementSets": [
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3012,
+      "Progressed": 3013,
       "Completed": 111
     }
   ],
@@ -3749,8 +3754,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-08-04T10:03:10.6838109+00:00",
+  "LastChanged_Achievements": "2023-08-04T12:02:34.2785244+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.3360651+00:00",
-  "LastUpdate_Ratings": "2023-08-04T10:58:58.164617+00:00",
-  "LastUpdate_Achievements": "2023-08-04T10:03:10.6838415+00:00"
+  "LastUpdate_Ratings": "2023-08-04T11:59:37.7023678+00:00",
+  "LastUpdate_Achievements": "2023-08-04T12:02:34.2796794+00:00"
 }

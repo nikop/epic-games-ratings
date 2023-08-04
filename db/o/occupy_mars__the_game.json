@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -208,7 +208,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1461,
+  "EOS_Progressed": 1462,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
@@ -2978,6 +2978,11 @@
       "Time": "2023-08-03T16:05:40.3760309+00:00",
       "NumProgressed": 1461,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T12:05:50.0354758+00:00",
+      "NumProgressed": 1462,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3061,7 +3066,7 @@
       "Name": "The Collector",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -3181,7 +3186,7 @@
       "Name": "Gardener",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -3189,7 +3194,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -3237,7 +3242,7 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -3372,7 +3377,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1461,
+      "Progressed": 1462,
       "Completed": 0
     }
   ],
@@ -3380,8 +3385,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-07-31T07:57:50.7109089+00:00",
-  "LastChanged_Achievements": "2023-08-04T11:05:13.0444162+00:00",
+  "LastChanged_Achievements": "2023-08-04T12:05:50.0354752+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:07.5190813+00:00",
-  "LastUpdate_Ratings": "2023-08-04T10:58:10.0745303+00:00",
-  "LastUpdate_Achievements": "2023-08-04T11:05:13.0444738+00:00"
+  "LastUpdate_Ratings": "2023-08-04T11:58:26.7266995+00:00",
+  "LastUpdate_Achievements": "2023-08-04T12:05:50.035547+00:00"
 }

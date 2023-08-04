@@ -6,9 +6,9 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Not So Fast... | 3.00% | ~94 |
 | Executioner | 3.00% | ~94 |
 | Look Over There! | 2.00% | ~62 |
-| Not So Fast... | 2.00% | ~62 |
 | Blood for the Blood God! | 2.00% | ~62 |
 | Watch Where You Step... | 2.00% | ~62 |
 | Purging Spree | 2.00% | ~62 |

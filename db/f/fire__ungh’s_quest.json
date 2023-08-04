@@ -3,9 +3,9 @@
   "Name": "Fire: Ungh\u2019s Quest",
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_Completed": 41,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 228,
-  "EOS_Completed": 13,
+  "EOS_Completed": 14,
   "EOS_NewPlayers": 8,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.7,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 6.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:26.5588507+00:00",
@@ -443,6 +443,11 @@
       "Time": "2023-08-03T12:04:14.9385271+00:00",
       "NumProgressed": 228,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-04T12:04:09.2192521+00:00",
+      "NumProgressed": 228,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 27,
@@ -500,9 +505,9 @@
       "ID": "30_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 30",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "Apple_eaten_in_002",
@@ -670,15 +675,15 @@
       "ID": "6od1ndi",
       "IsBase": true,
       "Progressed": 228,
-      "Completed": 13
+      "Completed": 14
     }
   ],
   "FirstSeen": "2022-12-16T21:58:34.8167877+00:00",
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-08-04T11:04:00.4506417+00:00",
+  "LastChanged_Achievements": "2023-08-04T12:04:09.2192513+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:38.8063462+00:00",
-  "LastUpdate_Ratings": "2023-08-04T11:00:19.5469921+00:00",
-  "LastUpdate_Achievements": "2023-08-04T11:04:00.4506662+00:00"
+  "LastUpdate_Ratings": "2023-08-04T12:01:46.8768187+00:00",
+  "LastUpdate_Achievements": "2023-08-04T12:04:09.2192842+00:00"
 }

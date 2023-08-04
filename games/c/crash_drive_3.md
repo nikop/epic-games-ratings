@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 32.00% | ~114 |
+| Brace for impact! | 33.00% | ~118 |
 | Baby's First Car | 31.00% | ~111 |
 | Pushover | 31.00% | ~111 |
 | A Forest Walk | 31.00% | ~111 |
@@ -12,10 +12,10 @@
 | C-C-C-Combo! | 28.00% | ~100 |
 | Multiply that! | 28.00% | ~100 |
 | Fore! | 25.00% | ~89 |
+| The Collector | 25.00% | ~89 |
 | Insurance fraud | 25.00% | ~89 |
 | Snow Fun! | 25.00% | ~89 |
 | You're it | 25.00% | ~89 |
-| The Collector | 24.00% | ~86 |
 | To and Fro | 24.00% | ~86 |
 | The Wild West | 24.00% | ~86 |
 | Bag of Tricks | 24.00% | ~86 |
@@ -25,10 +25,10 @@
 | Goodbye cruel world | 23.00% | ~82 |
 | Disoriented | 22.00% | ~79 |
 | Take that Frosty! | 22.00% | ~79 |
+| Your Highness | 22.00% | ~79 |
 | Beach Party! | 22.00% | ~79 |
 | Car-Tapult | 21.00% | ~75 |
 | Anger Issues | 21.00% | ~75 |
-| Your Highness | 21.00% | ~75 |
 | Event Amateur | 20.00% | ~71 |
 | Feeling Dizzy? | 19.00% | ~68 |
 | Drift King! | 18.00% | ~64 |

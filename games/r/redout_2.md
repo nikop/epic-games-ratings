@@ -32,6 +32,7 @@ Rating: 4.48 (Ranked 590)
 | Almost broke the game | 4.00% | ~44 |
 | Better luck next time | 4.00% | ~44 |
 | Dev, this! | 4.00% | ~44 |
+| He who laughs last... | 4.00% | ~44 |
 | Try them all | 3.00% | ~33 |
 | A-mazing! | 3.00% | ~33 |
 | To infinity and gravity! | 3.00% | ~33 |
@@ -39,7 +40,6 @@ Rating: 4.48 (Ranked 590)
 | Had to sweat a bit | 3.00% | ~33 |
 | [Sweats profusely] | 3.00% | ~33 |
 | It's like a party! | 3.00% | ~33 |
-| He who laughs last... | 3.00% | ~33 |
 | Healthy competition | 3.00% | ~33 |
 | This is to go, even Further Beyond! | 2.00% | ~22 |
 | Gitting Gud | 2.00% | ~22 |

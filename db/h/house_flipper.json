@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1806,9 +1806,9 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20567,
+  "EOS_Progressed": 20568,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7376,6 +7376,11 @@
       "Time": "2023-08-04T10:06:56.8088307+00:00",
       "NumProgressed": 20567,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-04T12:08:22.1277448+00:00",
+      "NumProgressed": 20568,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 23,
@@ -7419,7 +7424,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2879
+      "UsersEstimate": 2880
     },
     {
       "ID": "EstateAgent",
@@ -7435,7 +7440,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 19333
+      "UsersEstimate": 19334
     },
     {
       "ID": "GameOver",
@@ -7570,15 +7575,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20567,
+      "Progressed": 20568,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-08-04T10:00:03.0420564+00:00",
-  "LastChanged_Achievements": "2023-08-04T11:06:52.5109735+00:00",
+  "LastChanged_Achievements": "2023-08-04T12:08:22.1277442+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:16.0622663+00:00",
-  "LastUpdate_Ratings": "2023-08-04T11:00:04.002731+00:00",
-  "LastUpdate_Achievements": "2023-08-04T11:06:52.5110277+00:00"
+  "LastUpdate_Ratings": "2023-08-04T12:01:19.4540979+00:00",
+  "LastUpdate_Achievements": "2023-08-04T12:08:22.1277917+00:00"
 }

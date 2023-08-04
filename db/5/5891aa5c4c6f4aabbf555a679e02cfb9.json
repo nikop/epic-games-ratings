@@ -2,10 +2,10 @@
   "ID": "5891aa5c4c6f4aabbf555a679e02cfb9",
   "Name": "The Evil Within 2",
   "ProductSlug": "the-evil-within-2",
-  "Ranking_EOS_Progress": 433,
+  "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2017-10-12T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -59,6 +59,11 @@
     {
       "Time": "2023-08-04T11:03:20.6185609+00:00",
       "NumProgressed": 9,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T12:03:13.7829781+00:00",
+      "NumProgressed": 10,
       "NumCompleted": 0
     }
   ],
@@ -102,15 +107,15 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "b36c5kb",
       "Name": "Welcome to Union",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_06",
       "SetID": "b36c5kb",
       "Name": "Taken",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -118,7 +123,7 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "b36c5kb",
       "Name": "Not Running This Time",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -126,7 +131,7 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "b36c5kb",
       "Name": "The Team Psychologist",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -198,7 +203,7 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "b36c5kb",
       "Name": "Backup Ain\u0027t Coming",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -222,7 +227,7 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "b36c5kb",
       "Name": "You Got Red in You",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -238,7 +243,7 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "b36c5kb",
       "Name": "Making Things a Little Easier",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -270,7 +275,7 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "b36c5kb",
       "Name": "DIY",
-      "Percentage": 44,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -294,7 +299,7 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "b36c5kb",
       "Name": "Doing Some Detecting",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -326,7 +331,7 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "b36c5kb",
       "Name": "Good to See You Again",
-      "Percentage": 44,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -366,7 +371,7 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "b36c5kb",
       "Name": "Thinning Them Out",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -374,7 +379,7 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "b36c5kb",
       "Name": "Clearing a Path",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -406,7 +411,7 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "b36c5kb",
       "Name": "Kick, Shoot, Burn",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -479,13 +484,13 @@
     {
       "ID": "b36c5kb",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-04T11:03:20.6185605+00:00",
+  "LastChanged_Achievements": "2023-08-04T12:03:13.7829774+00:00",
   "LastUpdate_AppInfo": "2023-08-02T15:56:51.7948798+00:00",
-  "LastUpdate_Ratings": "2023-08-04T10:57:14.9562378+00:00",
-  "LastUpdate_Achievements": "2023-08-04T11:03:20.618615+00:00"
+  "LastUpdate_Ratings": "2023-08-04T11:57:06.4583112+00:00",
+  "LastUpdate_Achievements": "2023-08-04T12:03:13.7830387+00:00"
 }

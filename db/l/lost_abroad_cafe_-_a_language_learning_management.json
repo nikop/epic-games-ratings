@@ -4,8 +4,8 @@
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
     "PcReleaseDate": "2022-12-31T01:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 305,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1441,8 +1441,8 @@
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-08-04T11:06:43.0834264+00:00",
+  "LastChanged_Achievements": "2023-08-04T12:08:08.9222148+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:27.9801852+00:00",
-  "LastUpdate_Ratings": "2023-08-04T10:59:14.1138517+00:00",
-  "LastUpdate_Achievements": "2023-08-04T11:06:43.0834465+00:00"
+  "LastUpdate_Ratings": "2023-08-04T12:00:01.1654437+00:00",
+  "LastUpdate_Achievements": "2023-08-04T12:08:08.9222339+00:00"
 }

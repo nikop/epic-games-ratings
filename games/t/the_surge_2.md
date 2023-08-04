@@ -1,19 +1,19 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.25 (Ranked 818)  
+Rating: 4.25 (Ranked 819)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,561 |
-| Don't I Know You...? | 76.00% | ~1,483 |
-| Jailbreak | 65.00% | ~1,268 |
-| HEADSHOT! | 38.00% | ~741 |
-| Suited and Booted | 38.00% | ~741 |
+| Rigged And Ready | 80.00% | ~1,562 |
+| Don't I Know You...? | 76.00% | ~1,484 |
+| Jailbreak | 65.00% | ~1,269 |
+| HEADSHOT! | 38.00% | ~742 |
+| Suited and Booted | 38.00% | ~742 |
 | Sleeping With The Fishes | 35.00% | ~683 |
-| Overheated | 30.00% | ~585 |
-| High Performance | 30.00% | ~585 |
-| Powered Up | 28.00% | ~546 |
+| Overheated | 30.00% | ~586 |
+| High Performance | 30.00% | ~586 |
+| Powered Up | 28.00% | ~547 |
 | Studied The Blade | 24.00% | ~468 |
 | Home Invasion | 22.00% | ~429 |
 | Luminary | 22.00% | ~429 |
@@ -25,7 +25,7 @@ Rating: 4.25 (Ranked 818)
 | Unforeseeable Consequences | 19.00% | ~371 |
 | Dead Again | 18.00% | ~351 |
 | Clean Cut | 18.00% | ~351 |
-| Full Arsenal | 17.00% | ~332 |
+| Full Arsenal | 16.00% | ~312 |
 | Can't Trust Banks | 15.00% | ~293 |
 | Mommy Dearest | 13.00% | ~254 |
 | Bad Dog | 13.00% | ~254 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 818)
 | Box Office Smash | 1.00% | ~20 |
 | The Easy Way Out | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,951 (Ranked 169)  
+Progressed: 1,952 (Ranked 169)  
 Completed: 10 (0.51%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 10 (0.51%) (Ranked 135)
 | 2023-08-01 | 1,937 | 10 |
 | 2023-08-02 | 1,945 | 10 |
 | 2023-08-03 | 1,949 | 10 |
-| 2023-08-04 | 1,951 | 10 |
+| 2023-08-04 | 1,952 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

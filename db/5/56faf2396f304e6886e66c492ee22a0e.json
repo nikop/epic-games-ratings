@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
     "PcReleaseDate": "2022-08-22T16:00:00+00:00",
@@ -148,9 +148,9 @@
       "ID": "ACHIEVEMENT_Ach_SpeedrunFail",
       "SetID": "70j9o42",
       "Name": "Speed Run!",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_Buff",
@@ -435,8 +435,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-08-04T11:04:36.6015579+00:00",
+  "LastChanged_Achievements": "2023-08-04T12:04:59.1920768+00:00",
   "LastUpdate_AppInfo": "2023-08-01T07:57:11.103237+00:00",
-  "LastUpdate_Ratings": "2023-08-04T10:57:43.4154682+00:00",
-  "LastUpdate_Achievements": "2023-08-04T11:04:36.6015905+00:00"
+  "LastUpdate_Ratings": "2023-08-04T11:57:47.1978973+00:00",
+  "LastUpdate_Achievements": "2023-08-04T12:04:59.1921167+00:00"
 }

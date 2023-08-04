@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3068,
+  "EOS_Progressed": 3069,
   "EOS_Completed": 137,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 18,
-  "EOS_Completed_Percentage": 4.47,
+  "EOS_Completed_Percentage": 4.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -4070,6 +4070,11 @@
       "Time": "2023-08-04T09:07:30.9355386+00:00",
       "NumProgressed": 3068,
       "NumCompleted": 137
+    },
+    {
+      "Time": "2023-08-04T12:07:32.8598736+00:00",
+      "NumProgressed": 3069,
+      "NumCompleted": 137
     }
   ],
   "TotalAchievements": 24,
@@ -4097,7 +4102,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "12",
@@ -4193,7 +4198,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "23",
@@ -4272,13 +4277,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3068,
+      "Progressed": 3069,
       "Completed": 137
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-04T11:06:24.9606413+00:00",
+  "LastChanged_Achievements": "2023-08-04T12:07:32.8598731+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:49.7326864+00:00",
-  "LastUpdate_Ratings": "2023-08-04T10:59:33.8952091+00:00",
-  "LastUpdate_Achievements": "2023-08-04T11:06:24.9606878+00:00"
+  "LastUpdate_Ratings": "2023-08-04T12:00:31.3217021+00:00",
+  "LastUpdate_Achievements": "2023-08-04T12:07:32.8599185+00:00"
 }

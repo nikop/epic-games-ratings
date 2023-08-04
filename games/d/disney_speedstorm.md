@@ -23,14 +23,14 @@
 | LEGENDARY HERO | 14.00% | ~430 |
 | RELEASE THE KRAKEN | 13.00% | ~399 |
 | BE OUR GUEST | 13.00% | ~399 |
-| PERFECTLY POISED | 11.00% | ~337 |
-| THE EYE OF THE HUNTER | 11.00% | ~337 |
+| PERFECTLY POISED | 11.00% | ~338 |
+| THE EYE OF THE HUNTER | 11.00% | ~338 |
 | ACE TRICKSTER | 10.00% | ~307 |
 | EXPERIENCED CREW | 6.00% | ~184 |
 | FRAMED! | 6.00% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,068 (Ranked 156)  
-Completed: 137 (4.47%) (Ranked 51)  
+Progressed: 3,069 (Ranked 156)  
+Completed: 137 (4.46%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -134,4 +134,4 @@ Completed: 137 (4.47%) (Ranked 51)
 | 2023-08-01 | 3,047 | 129 |
 | 2023-08-02 | 3,055 | 131 |
 | 2023-08-03 | 3,065 | 136 |
-| 2023-08-04 | 3,068 | 137 |
+| 2023-08-04 | 3,069 | 137 |

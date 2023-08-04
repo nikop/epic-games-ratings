@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2897,9 +2897,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 632
     },
     {
       "ID": "EXPERIENCED",
@@ -3154,8 +3154,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-04T08:59:32.8395184+00:00",
-  "LastChanged_Achievements": "2023-08-04T11:04:57.8323469+00:00",
+  "LastChanged_Achievements": "2023-08-04T12:05:28.938759+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:07.4600739+00:00",
-  "LastUpdate_Ratings": "2023-08-04T10:58:54.0744989+00:00",
-  "LastUpdate_Achievements": "2023-08-04T11:04:57.8324088+00:00"
+  "LastUpdate_Ratings": "2023-08-04T11:59:31.4350872+00:00",
+  "LastUpdate_Achievements": "2023-08-04T12:05:28.938822+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -234,9 +234,9 @@
       "ID": "ACH_100_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Crushing All Cars",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_100_HELICOPTERS_DESTROYED",
@@ -475,8 +475,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-08-04T11:06:06.3301348+00:00",
+  "LastChanged_Achievements": "2023-08-04T12:07:05.9333199+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:14.1707239+00:00",
-  "LastUpdate_Ratings": "2023-08-04T10:59:00.5455159+00:00",
-  "LastUpdate_Achievements": "2023-08-04T11:06:06.33016+00:00"
+  "LastUpdate_Ratings": "2023-08-04T11:59:41.3488453+00:00",
+  "LastUpdate_Achievements": "2023-08-04T12:07:05.9333481+00:00"
 }

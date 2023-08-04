@@ -368,7 +368,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12594,
+  "EOS_Progressed": 12595,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 2,
@@ -6648,6 +6648,11 @@
       "Time": "2023-08-04T10:04:09.1235996+00:00",
       "NumProgressed": 12594,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-08-04T12:04:13.8098338+00:00",
+      "NumProgressed": 12595,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 35,
@@ -6659,7 +6664,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11586
+      "UsersEstimate": 11587
     },
     {
       "ID": "ACH_02",
@@ -6667,7 +6672,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 9823
+      "UsersEstimate": 9824
     },
     {
       "ID": "ACH_03",
@@ -6683,7 +6688,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8690
+      "UsersEstimate": 8691
     },
     {
       "ID": "ACH_05",
@@ -6691,7 +6696,7 @@
       "Name": "In our Wake",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 8438
+      "UsersEstimate": 8439
     },
     {
       "ID": "ACH_06",
@@ -6699,7 +6704,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 8060
+      "UsersEstimate": 8061
     },
     {
       "ID": "ACH_07",
@@ -6707,7 +6712,7 @@
       "Name": "Felons",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7682
+      "UsersEstimate": 7683
     },
     {
       "ID": "ACH_08",
@@ -6715,7 +6720,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 7430
+      "UsersEstimate": 7431
     },
     {
       "ID": "ACH_09",
@@ -6739,7 +6744,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 5919
+      "UsersEstimate": 5920
     },
     {
       "ID": "ACH_12",
@@ -6747,7 +6752,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 5667
+      "UsersEstimate": 5668
     },
     {
       "ID": "ACH_13",
@@ -6835,7 +6840,7 @@
       "Name": "Improved crossbow",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3274
+      "UsersEstimate": 3275
     },
     {
       "ID": "ACH_24",
@@ -6867,7 +6872,7 @@
       "Name": "Night guard",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 5289
+      "UsersEstimate": 5290
     },
     {
       "ID": "ACH_28",
@@ -6875,7 +6880,7 @@
       "Name": "Alchemist",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 8438
+      "UsersEstimate": 8439
     },
     {
       "ID": "ACH_29",
@@ -6938,7 +6943,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12594,
+      "Progressed": 12595,
       "Completed": 40
     }
   ],
@@ -6946,8 +6951,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-08-04T11:04:03.8614648+00:00",
+  "LastChanged_Achievements": "2023-08-04T12:04:13.8098333+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:06.5960214+00:00",
-  "LastUpdate_Ratings": "2023-08-04T10:59:55.3559716+00:00",
-  "LastUpdate_Achievements": "2023-08-04T11:04:03.8615335+00:00"
+  "LastUpdate_Ratings": "2023-08-04T12:01:06.0205231+00:00",
+  "LastUpdate_Achievements": "2023-08-04T12:04:13.809917+00:00"
 }

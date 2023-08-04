@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1269,9 +1269,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 20448,
+  "EOS_Progressed": 20450,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 696,
+  "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -12464,6 +12464,11 @@
       "Time": "2023-08-04T11:04:23.5454677+00:00",
       "NumProgressed": 20448,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-04T12:04:41.4503213+00:00",
+      "NumProgressed": 20450,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 22,
@@ -12483,7 +12488,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "1017",
@@ -12507,7 +12512,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "1020",
@@ -12539,7 +12544,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "1024",
@@ -12611,7 +12616,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 8179
+      "UsersEstimate": 8180
     },
     {
       "ID": "1033",
@@ -12619,7 +12624,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "1034",
@@ -12627,7 +12632,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "1035",
@@ -12650,15 +12655,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 20448,
+      "Progressed": 20450,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-08-02T00:02:09.7226533+00:00",
-  "LastChanged_Achievements": "2023-08-04T11:04:23.5454668+00:00",
+  "LastChanged_Achievements": "2023-08-04T12:04:41.4503208+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:09.3482059+00:00",
-  "LastUpdate_Ratings": "2023-08-04T11:00:41.7885509+00:00",
-  "LastUpdate_Achievements": "2023-08-04T11:04:23.5455563+00:00"
+  "LastUpdate_Ratings": "2023-08-04T12:02:18.906231+00:00",
+  "LastUpdate_Achievements": "2023-08-04T12:04:41.4504232+00:00"
 }

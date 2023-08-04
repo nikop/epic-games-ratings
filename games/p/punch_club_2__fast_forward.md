@@ -11,8 +11,8 @@
 | Your first job | 84.00% | ~185 |
 | Old movies enjoyer | 79.00% | ~174 |
 | First defeat | 78.00% | ~172 |
+| Depressed visitor | 77.00% | ~169 |
 | Fitness professional | 76.00% | ~167 |
-| Depressed visitor | 76.00% | ~167 |
 | Neurotrainer – power gainer! | 75.00% | ~165 |
 | Employee of the week | 75.00% | ~165 |
 | Your own amateur gym | 73.00% | ~161 |
@@ -27,10 +27,10 @@
 | Little hacker | 57.00% | ~125 |
 | Intriguing candies | 57.00% | ~125 |
 | Workout professional | 55.00% | ~121 |
+| Champion – starter pack | 55.00% | ~121 |
 | It's good to be alive | 55.00% | ~121 |
 | Own four walls | 55.00% | ~121 |
 | Handyman | 54.00% | ~119 |
-| Champion – starter pack | 54.00% | ~119 |
 | Employee of the year | 54.00% | ~119 |
 | Fight for life | 53.00% | ~117 |
 | Legal courier | 51.00% | ~112 |
