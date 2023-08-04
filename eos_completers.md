@@ -28,7 +28,7 @@
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.43% |
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.93% |
-| 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
+| 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 31 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.33% |
 | 32 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -40,8 +40,8 @@
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.20% |
-| 41 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.88% |
-| 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.70% |
+| 41 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 6.14% |
+| 42 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.88% |
 | 43 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
 | 43 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.26% |
 | 45 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.90% |
@@ -50,12 +50,12 @@
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.71% |
 | 49 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 50 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
-| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.47% |
+| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.46% |
 | 52 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.27% |
 | 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.02% |
 | 54 | [Without Escape](games/w/without_escape.md) | 3.85% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.79% |
-| 56 | [ZZT!](games/z/zzt!.md) | 3.69% |
+| 56 | [ZZT!](games/z/zzt!.md) | 3.68% |
 | 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 58 | [Doodle God](games/d/doodle_god.md) | 3.48% |
 | 59 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
@@ -141,10 +141,10 @@
 | 138 | [Train Valley](games/t/train_valley.md) | 0.47% |
 | 140 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.46% |
 | 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
+| 142 | [Tchia](games/t/tchia.md) | 0.45% |
 | 142 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.45% |
-| 143 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.43% |
-| 143 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
-| 143 | [Tchia](games/t/tchia.md) | 0.43% |
+| 144 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.43% |
+| 144 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 146 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 147 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.40% |
 | 148 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
@@ -187,10 +187,10 @@
 | 183 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 186 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 186 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.14% |
-| 188 | [Port Royale 4](games/p/port_royale_4.md) | 0.13% |
-| 189 | [Isonzo](games/i/isonzo.md) | 0.12% |
-| 189 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 189 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.12% |
+| 188 | [Isonzo](games/i/isonzo.md) | 0.12% |
+| 188 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 188 | [Port Royale 4](games/p/port_royale_4.md) | 0.12% |
+| 188 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.12% |
 | 192 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
 | 192 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.11% |
 | 192 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
