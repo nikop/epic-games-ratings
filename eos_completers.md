@@ -44,7 +44,7 @@
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.70% |
 | 43 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
 | 43 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.26% |
-| 45 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.91% |
+| 45 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.90% |
 | 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.82% |
 | 47 | [JARS](games/j/jars.md) | 4.76% |
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.71% |
@@ -78,7 +78,7 @@
 | 76 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 77 | [Lamentum](games/l/lamentum.md) | 2.57% |
 | 78 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.38% |
+| 79 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.37% |
 | 80 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.36% |
 | 81 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 82 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
