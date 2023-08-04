@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -742,9 +742,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6572,
+  "EOS_Progressed": 6573,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4162,6 +4162,11 @@
       "Time": "2023-08-04T09:06:41.2740405+00:00",
       "NumProgressed": 6572,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-04T10:05:52.9575893+00:00",
+      "NumProgressed": 6573,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4301,7 +4306,7 @@
       "Name": "Insubordination",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -4379,9 +4384,9 @@
       "ID": "ISONZO_ACH_RAGAZZI_DEL_99",
       "SetID": "akchbl3",
       "Name": "Ragazzi del \u002799",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1183
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -4461,7 +4466,7 @@
       "Name": "The Italian Job",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -4477,7 +4482,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -4493,7 +4498,7 @@
       "Name": "Tosca",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -4525,14 +4530,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3483
+      "UsersEstimate": 3484
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6572,
+      "Progressed": 6573,
       "Completed": 8
     }
   ],
@@ -4540,8 +4545,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-03T13:04:56.6804323+00:00",
-  "LastChanged_Achievements": "2023-08-04T09:06:41.2740399+00:00",
+  "LastChanged_Achievements": "2023-08-04T10:05:52.9575887+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:14.0482826+00:00",
-  "LastUpdate_Ratings": "2023-08-04T08:58:41.6455614+00:00",
-  "LastUpdate_Achievements": "2023-08-04T09:06:41.2740844+00:00"
+  "LastUpdate_Ratings": "2023-08-04T09:58:14.3048163+00:00",
+  "LastUpdate_Achievements": "2023-08-04T10:05:52.9576557+00:00"
 }

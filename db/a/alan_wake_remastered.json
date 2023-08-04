@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60181,
+  "EOS_Progressed": 60184,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 1072,
+  "EOS_NewPlayers": 1070,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10152,6 +10152,11 @@
       "Time": "2023-08-04T09:05:25.5852687+00:00",
       "NumProgressed": 60181,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-08-04T10:04:59.0229326+00:00",
+      "NumProgressed": 60184,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 67,
@@ -10161,9 +10166,9 @@
       "ID": "01",
       "SetID": "212770e",
       "Name": "Follow the Light",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 21665
+      "UsersEstimate": 22268
     },
     {
       "ID": "02",
@@ -10195,7 +10200,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 11434
+      "UsersEstimate": 11435
     },
     {
       "ID": "06",
@@ -10275,7 +10280,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5416
+      "UsersEstimate": 5417
     },
     {
       "ID": "16",
@@ -10355,7 +10360,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4814
+      "UsersEstimate": 4815
     },
     {
       "ID": "26",
@@ -10403,7 +10408,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9027
+      "UsersEstimate": 9028
     },
     {
       "ID": "32",
@@ -10411,7 +10416,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16851
+      "UsersEstimate": 16852
     },
     {
       "ID": "33",
@@ -10427,7 +10432,7 @@
       "Name": "Energized!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5416
+      "UsersEstimate": 5417
     },
     {
       "ID": "35",
@@ -10435,7 +10440,7 @@
       "Name": "Let There Be Light",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17452
+      "UsersEstimate": 17453
     },
     {
       "ID": "36",
@@ -10443,7 +10448,7 @@
       "Name": "Carny",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "37",
@@ -10475,7 +10480,7 @@
       "Name": "Right of Way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4814
+      "UsersEstimate": 4815
     },
     {
       "ID": "41",
@@ -10483,7 +10488,7 @@
       "Name": "Finders Keepers",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9027
+      "UsersEstimate": 9028
     },
     {
       "ID": "42",
@@ -10523,7 +10528,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 8425
+      "UsersEstimate": 8426
     },
     {
       "ID": "47",
@@ -10627,7 +10632,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "60",
@@ -10635,7 +10640,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "61",
@@ -10643,7 +10648,7 @@
       "Name": "Go Gentle Into That Good Light",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "62",
@@ -10691,28 +10696,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60181,
+      "Progressed": 60184,
       "Completed": 63
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23649,
+      "Progressed": 23652,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-04T09:05:25.585268+00:00",
+  "LastChanged_Achievements": "2023-08-04T10:04:59.0229319+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:35.0351219+00:00",
-  "LastUpdate_Ratings": "2023-08-04T08:58:51.6432896+00:00",
-  "LastUpdate_Achievements": "2023-08-04T09:05:25.5854073+00:00"
+  "LastUpdate_Ratings": "2023-08-04T09:58:21.8824526+00:00",
+  "LastUpdate_Achievements": "2023-08-04T10:04:59.0230786+00:00"
 }

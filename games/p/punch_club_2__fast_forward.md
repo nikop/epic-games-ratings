@@ -29,10 +29,10 @@
 | Workout professional | 56.00% | ~123 |
 | It's good to be alive | 56.00% | ~123 |
 | Own four walls | 55.00% | ~120 |
+| Handyman | 54.00% | ~118 |
 | Champion – starter pack | 54.00% | ~118 |
+| Employee of the year | 54.00% | ~118 |
 | Fight for life | 53.00% | ~116 |
-| Handyman | 53.00% | ~116 |
-| Employee of the year | 53.00% | ~116 |
 | Legal courier | 51.00% | ~112 |
 | Extreme neuropower! | 50.00% | ~110 |
 | Now you are worthy | 47.00% | ~103 |
@@ -52,10 +52,10 @@
 | Seashell hunter | 34.00% | ~74 |
 | Mom got better | 33.00% | ~72 |
 | The die is cast | 33.00% | ~72 |
+| The last bell ring | 31.00% | ~68 |
 | Undercover robot | 31.00% | ~68 |
 | Gang wrangler | 30.00% | ~66 |
 | Problems of cyborgs | 30.00% | ~66 |
-| The last bell ring | 30.00% | ~66 |
 | Not little hacker | 29.00% | ~64 |
 | Absolute Champion! | 29.00% | ~64 |
 | The lonesome road | 28.00% | ~61 |

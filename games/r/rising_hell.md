@@ -4,20 +4,20 @@
 Rating: 4.41 (Ranked 678)  
 ## Awards
 Max (Quickly Understood Controls): 74  (Ranked 369)  
-Sum: 664 (Ranked 279)  
+Sum: 666 (Ranked 279)  
 Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 74 |
 | This game has Amazing Storytelling | 68 |
-| This game has Diverse Characters | 65 |
+| This game has Diverse Characters | 66 |
 | This game has Unique Visuals | 63 |
 | This game is Relaxing | 62 |
 | This game is Extremely Fun | 61 |
 | This game is Great for Beginners | 59 |
 | This game has Amazing Characters | 58 |
 | This game is Highly Recommended | 57 |
-| This game is Great for Quick Sessions | 56 |
+| This game is Great for Quick Sessions | 57 |
 | This game has a Creative Community | 41 |
 | This game has Obsessive Gameplay | 26 |
 | This game has Challenging Combat | 20 |
@@ -55,3 +55,4 @@ Diff (max vs sum): 90
 | 2023-07-08 | 4.41 | 74 | 662 |
 | 2023-07-13 | 4.41 | 74 | 663 |
 | 2023-07-25 | 4.41 | 74 | 664 |
+| 2023-08-04 | 4.41 | 74 | 666 |

@@ -6,13 +6,13 @@ Rating: 4.54 (Ranked 498)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Legal Counsel | 45.00% | ~4,298 |
-| Greasy Palms | 41.00% | ~3,915 |
+| Greasy Palms | 41.00% | ~3,916 |
 | South American Connection | 25.00% | ~2,388 |
 | Life of the Party | 20.00% | ~1,910 |
-| Tommy Two-Wheels | 15.00% | ~1,432 |
+| Tommy Two-Wheels | 15.00% | ~1,433 |
 | Big Heat from Little Havana | 14.00% | ~1,337 |
 | Chauffeur | 14.00% | ~1,337 |
-| Salutations My Little Friend | 11.00% | ~1,050 |
+| Salutations My Little Friend | 11.00% | ~1,051 |
 | Iron-y | 10.00% | ~955 |
 | Gun for Hire | 9.00% | ~860 |
 | Mischief Managed | 8.00% | ~764 |
@@ -22,13 +22,13 @@ Rating: 4.54 (Ranked 498)
 | Not my First Time | 5.00% | ~478 |
 | Grand Theft Auto | 5.00% | ~478 |
 | Pie Guy | 4.00% | ~382 |
-| Running Rampant | 3.00% | ~286 |
-| Point A to Point B | 3.00% | ~286 |
-| High Quality H2O | 3.00% | ~286 |
-| Bull in a China Shop | 3.00% | ~286 |
-| Somebody Call the Wambulance? | 3.00% | ~286 |
-| Just Like the Real Thing | 3.00% | ~286 |
-| Don't Need Roads | 3.00% | ~286 |
+| Running Rampant | 3.00% | ~287 |
+| Point A to Point B | 3.00% | ~287 |
+| High Quality H2O | 3.00% | ~287 |
+| Bull in a China Shop | 3.00% | ~287 |
+| Somebody Call the Wambulance? | 3.00% | ~287 |
+| Just Like the Real Thing | 3.00% | ~287 |
+| Don't Need Roads | 3.00% | ~287 |
 | One is Better Than Two | 2.00% | ~191 |
 | Take the Cannoli | 2.00% | ~191 |
 | City Sleuth | 2.00% | ~191 |
@@ -40,7 +40,7 @@ Rating: 4.54 (Ranked 498)
 | Done it All | 0.80% | ~76 |
 | Kingpin | 0.50% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,550 (Ranked 123)  
+Progressed: 9,551 (Ranked 123)  
 Completed: 44 (0.46%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 44 (0.46%) (Ranked 141)
 | 2023-08-01 | 9,454 | 44 |
 | 2023-08-02 | 9,497 | 44 |
 | 2023-08-03 | 9,538 | 44 |
-| 2023-08-04 | 9,550 | 44 |
+| 2023-08-04 | 9,551 | 44 |
 ## Awards
 Max (Great Boss Battles): 65  (Ranked 385)  
 Sum: 65 (Ranked 440)  

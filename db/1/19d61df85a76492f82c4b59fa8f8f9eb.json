@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 28,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 280,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 8.93,
   "EosHistory": [
@@ -1305,9 +1305,9 @@
       "ID": "CgkIgaGB2J0LEAIQBQ",
       "SetID": "4ocea6d",
       "Name": "Flying Machine",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 165,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     }
   ],
   "AchievementSets": [
@@ -1320,8 +1320,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-04T09:06:24.1442598+00:00",
+  "LastChanged_Achievements": "2023-08-04T10:05:40.5281269+00:00",
   "LastUpdate_AppInfo": "2023-08-03T14:57:18.1003103+00:00",
-  "LastUpdate_Ratings": "2023-08-04T08:57:42.3701821+00:00",
-  "LastUpdate_Achievements": "2023-08-04T09:06:24.1442769+00:00"
+  "LastUpdate_Ratings": "2023-08-04T09:57:37.632423+00:00",
+  "LastUpdate_Achievements": "2023-08-04T10:05:40.5281468+00:00"
 }

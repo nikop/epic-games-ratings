@@ -50,6 +50,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.80% | ~106 |
 | Carthaginian Paganism | 0.80% | ~106 |
 | Roman Paganism | 0.80% | ~106 |
+| Regicide | 0.70% | ~93 |
 | Brilliant | 0.70% | ~93 |
 | Great | 0.70% | ~93 |
 | Artisans | 0.70% | ~93 |
@@ -57,7 +58,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 0.70% | ~93 |
 | Necropolis | 0.70% | ~93 |
 | Manichaeism | 0.70% | ~93 |
-| Regicide | 0.60% | ~80 |
 | Drillmaster | 0.60% | ~80 |
 | Intercessor | 0.60% | ~80 |
 | Legendary Cities | 0.60% | ~80 |

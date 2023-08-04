@@ -11972,9 +11972,9 @@
       "ID": "MYSTERY_01",
       "SetID": "4eo5ebm",
       "Name": "Loose Ends",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2704
+      "UsersEstimate": 3380
     },
     {
       "ID": "MYSTERY_02",
@@ -12083,8 +12083,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-03T09:01:50.0722982+00:00",
-  "LastChanged_Achievements": "2023-08-04T09:06:16.0208872+00:00",
+  "LastChanged_Achievements": "2023-08-04T10:05:34.7294561+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:38.4399056+00:00",
-  "LastUpdate_Ratings": "2023-08-04T09:01:33.8832995+00:00",
-  "LastUpdate_Achievements": "2023-08-04T09:06:16.0209758+00:00"
+  "LastUpdate_Ratings": "2023-08-04T10:00:19.273984+00:00",
+  "LastUpdate_Achievements": "2023-08-04T10:05:34.7295704+00:00"
 }

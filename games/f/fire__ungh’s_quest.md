@@ -21,14 +21,14 @@
 | IQ62 | 36.00% | ~82 |
 | 1978 | 35.00% | ~80 |
 | Onk Boga VII | 35.00% | ~80 |
-| Onk Boga VIII | 33.00% | ~75 |
-| Blubb | 33.00% | ~75 |
-| ParaPara! | 31.00% | ~71 |
-| Onk Boga IX | 31.00% | ~71 |
-| AKRE! | 31.00% | ~71 |
+| Onk Boga VIII | 34.00% | ~78 |
+| Blubb | 34.00% | ~78 |
+| ParaPara! | 32.00% | ~73 |
+| Onk Boga IX | 32.00% | ~73 |
+| AKRE! | 32.00% | ~73 |
+| Kokakoka | 31.00% | ~71 |
 | Blunga 15 | 30.00% | ~68 |
-| Kokakoka | 30.00% | ~68 |
-| Blunga 20 | 11.00% | ~25 |
+| Blunga 20 | 12.00% | ~27 |
 | Blunga 25 | 7.00% | ~16 |
 | Blunga 30 | 6.00% | ~14 |
 ## Popularity (Based on EOS Achievements)

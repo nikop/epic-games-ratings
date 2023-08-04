@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3274,
+  "EOS_Progressed": 3275,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3936,6 +3936,11 @@
       "Time": "2023-08-04T01:58:31.1645029+00:00",
       "NumProgressed": 3274,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-04T10:03:36.8004739+00:00",
+      "NumProgressed": 3275,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3995,7 +4000,7 @@
       "Name": "Crowd Pleaser.",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Encyclopedic_30",
@@ -4115,7 +4120,7 @@
       "Name": "Perfect Defense",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "PowerToThePeople",
@@ -4123,7 +4128,7 @@
       "Name": "Power! To! The People!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ReadyforSummer_41",
@@ -4139,7 +4144,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4155,7 +4160,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -4275,22 +4280,22 @@
       "Name": "Your actions define you",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3274,
+      "Progressed": 3275,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-08-04T09:03:34.1266987+00:00",
+  "LastChanged_Achievements": "2023-08-04T10:03:36.8004733+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.443387+00:00",
-  "LastUpdate_Ratings": "2023-08-04T08:59:08.3238579+00:00",
-  "LastUpdate_Achievements": "2023-08-04T09:03:34.126742+00:00"
+  "LastUpdate_Ratings": "2023-08-04T09:58:33.6108788+00:00",
+  "LastUpdate_Achievements": "2023-08-04T10:03:36.8005284+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -246,7 +246,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19716,
+  "EOS_Progressed": 19717,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -5331,6 +5331,11 @@
       "Time": "2023-08-04T04:04:55.8444925+00:00",
       "NumProgressed": 19716,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-08-04T10:04:49.4940749+00:00",
+      "NumProgressed": 19717,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -5358,7 +5363,7 @@
       "Name": "Getting some shuteye",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "FirstTame",
@@ -5406,7 +5411,7 @@
       "Name": "Insect hunter",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "PickupKey",
@@ -5438,14 +5443,14 @@
       "Name": "Stone Age",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     }
   ],
   "AchievementSets": [
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 19716,
+      "Progressed": 19717,
       "Completed": 18
     }
   ],
@@ -5453,8 +5458,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-07-30T20:57:57.4474552+00:00",
-  "LastChanged_Achievements": "2023-08-04T09:05:13.6575013+00:00",
+  "LastChanged_Achievements": "2023-08-04T10:04:49.4940742+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:07.6891673+00:00",
-  "LastUpdate_Ratings": "2023-08-04T08:58:25.7893849+00:00",
-  "LastUpdate_Achievements": "2023-08-04T09:05:13.6575344+00:00"
+  "LastUpdate_Ratings": "2023-08-04T09:58:05.9014394+00:00",
+  "LastUpdate_Achievements": "2023-08-04T10:04:49.4941167+00:00"
 }

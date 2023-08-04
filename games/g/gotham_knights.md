@@ -7,10 +7,10 @@ Rating: 4.18 (Ranked 868)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 6.00% | ~4,057 |
 | Har, Har, Har, Very Funny | 5.00% | ~3,380 |
+| Loose Ends | 5.00% | ~3,380 |
 | To the Victor Go the Spoils | 4.00% | ~2,704 |
 | Get ReQ'd | 4.00% | ~2,704 |
 | Knighthood | 4.00% | ~2,704 |
-| Loose Ends | 4.00% | ~2,704 |
 | Whispered Words | 4.00% | ~2,704 |
 | The Batman Family | 3.00% | ~2,028 |
 | Protector of Gotham | 3.00% | ~2,028 |

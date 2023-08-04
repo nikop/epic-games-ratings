@@ -1032,9 +1032,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14399,
+  "EOS_Progressed": 14400,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 739,
+  "EOS_NewPlayers": 734,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -12267,6 +12267,11 @@
       "Time": "2023-08-04T09:04:39.5426349+00:00",
       "NumProgressed": 14399,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-08-04T10:04:24.2189349+00:00",
+      "NumProgressed": 14400,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 45,
@@ -12414,7 +12419,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 10943
+      "UsersEstimate": 10944
     },
     {
       "ID": "MoreThanHuman",
@@ -12502,7 +12507,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 7775
+      "UsersEstimate": 7776
     },
     {
       "ID": "RunningWild",
@@ -12550,7 +12555,7 @@
       "Name": "Sword Runner",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 8927
+      "UsersEstimate": 8928
     },
     {
       "ID": "SwordToAGunfight",
@@ -12598,7 +12603,7 @@
       "Name": "Wallrunner",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 7775
+      "UsersEstimate": 7776
     },
     {
       "ID": "WaveOfMutilation",
@@ -12637,21 +12642,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 14399,
+      "Progressed": 14400,
       "Completed": 33
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 14399,
+      "Progressed": 14400,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-07-31T08:58:47.177129+00:00",
-  "LastChanged_Achievements": "2023-08-04T09:04:39.5426344+00:00",
+  "LastChanged_Achievements": "2023-08-04T10:04:24.218934+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:57.4259207+00:00",
-  "LastUpdate_Ratings": "2023-08-04T08:59:24.2738036+00:00",
-  "LastUpdate_Achievements": "2023-08-04T09:04:39.5427141+00:00"
+  "LastUpdate_Ratings": "2023-08-04T09:58:45.0208026+00:00",
+  "LastUpdate_Achievements": "2023-08-04T10:04:24.219043+00:00"
 }

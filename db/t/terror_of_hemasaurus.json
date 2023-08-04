@@ -354,9 +354,9 @@
       "ID": "ACH_50_CHOPPER_BLADES",
       "SetID": "aio76gp",
       "Name": "Aerosolized",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_50_MILITARY_CARS",
@@ -434,9 +434,9 @@
       "ID": "ACH_KILL_300_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Monstrosity Atrocity",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_STORY_MODE",
@@ -475,8 +475,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-08-04T09:07:05.2345821+00:00",
+  "LastChanged_Achievements": "2023-08-04T10:06:10.5865348+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:14.1707239+00:00",
-  "LastUpdate_Ratings": "2023-08-04T08:59:42.7003055+00:00",
-  "LastUpdate_Achievements": "2023-08-04T09:07:05.2346013+00:00"
+  "LastUpdate_Ratings": "2023-08-04T09:58:57.9612206+00:00",
+  "LastUpdate_Achievements": "2023-08-04T10:06:10.5865611+00:00"
 }
