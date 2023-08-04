@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -495,7 +495,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14337,
+  "EOS_Progressed": 14338,
   "EOS_Completed": 107,
   "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 1,
@@ -7425,6 +7425,11 @@
       "Time": "2023-08-04T00:04:25.6081611+00:00",
       "NumProgressed": 14337,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-04T01:59:32.4129246+00:00",
+      "NumProgressed": 14338,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 41,
@@ -7548,7 +7553,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2867
+      "UsersEstimate": 2868
     },
     {
       "ID": "tpote_achievement_23",
@@ -7572,7 +7577,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "tpote_achievement_26",
@@ -7660,7 +7665,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "tpote_achievement_36",
@@ -7684,7 +7689,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "tpote_achievement_39",
@@ -7700,7 +7705,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5878
+      "UsersEstimate": 5879
     },
     {
       "ID": "tpote_achievement_40",
@@ -7763,15 +7768,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14337,
+      "Progressed": 14338,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-04T00:04:25.6081603+00:00",
+  "LastChanged_Achievements": "2023-08-04T01:59:32.4129241+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:48.9237471+00:00",
-  "LastUpdate_Ratings": "2023-08-04T00:01:40.5898891+00:00",
-  "LastUpdate_Achievements": "2023-08-04T00:04:25.6082701+00:00"
+  "LastUpdate_Ratings": "2023-08-04T01:56:21.9939494+00:00",
+  "LastUpdate_Achievements": "2023-08-04T01:59:32.4129914+00:00"
 }

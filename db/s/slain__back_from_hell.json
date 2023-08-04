@@ -2,7 +2,7 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 788,
+  "Ranking_Rating": 789,
   "Ranking_Popularity": 310,
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 98,
@@ -205,9 +205,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 32499,
+  "EOS_Progressed": 32510,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 901,
+  "EOS_NewPlayers": 896,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11665,6 +11665,11 @@
       "Time": "2023-08-04T00:05:40.1352801+00:00",
       "NumProgressed": 32499,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-04T02:00:32.2984366+00:00",
+      "NumProgressed": 32510,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -11676,7 +11681,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4875
+      "UsersEstimate": 4876
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -11684,7 +11689,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6500
+      "UsersEstimate": 6502
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -11708,7 +11713,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -11724,7 +11729,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -11732,7 +11737,7 @@
       "Name": "Flame Retardant",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_10_DEFEATED_BANSHEE_QUEEN",
@@ -11748,7 +11753,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1625
+      "UsersEstimate": 1626
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -11764,7 +11769,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -11780,7 +11785,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -11812,7 +11817,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -11828,7 +11833,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1625
+      "UsersEstimate": 1626
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -11836,7 +11841,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1950
+      "UsersEstimate": 1951
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -11868,7 +11873,7 @@
       "Name": "Vroll With It",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_27_VROLL_QUICK_KILL",
@@ -11876,7 +11881,7 @@
       "Name": "Swift of Foot, Keen of Blade",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_28_FINISHED_GAME_NO_MANA_USE",
@@ -11884,7 +11889,7 @@
       "Name": "Too Metal For Magic",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_29_FINISHED_GAME_NO_DEATHS",
@@ -11892,7 +11897,7 @@
       "Name": "Heart Of Steel",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_30_FINISHED_HARDCORE_MODE",
@@ -11907,7 +11912,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 32499,
+      "Progressed": 32510,
       "Completed": 20
     }
   ],
@@ -11915,8 +11920,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-01T20:00:57.6814566+00:00",
-  "LastChanged_Achievements": "2023-08-04T00:05:40.1352796+00:00",
+  "LastChanged_Achievements": "2023-08-04T02:00:32.2984361+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:53.1512382+00:00",
-  "LastUpdate_Ratings": "2023-08-04T00:01:43.8798716+00:00",
-  "LastUpdate_Achievements": "2023-08-04T00:05:40.1354021+00:00"
+  "LastUpdate_Ratings": "2023-08-04T01:56:24.8925486+00:00",
+  "LastUpdate_Achievements": "2023-08-04T02:00:32.2985474+00:00"
 }

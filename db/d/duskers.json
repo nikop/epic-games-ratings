@@ -2,7 +2,7 @@
   "ID": "f27cd07f948348dfb27165510c56c569",
   "Name": "Duskers",
   "ProductSlug": "duskers-672fdc",
-  "Ranking_Rating": 577,
+  "Ranking_Rating": 589,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 528,
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.48,
   "RatingHistory": [
     {
       "Time": "2023-02-25T11:58:28.9977523+00:00",
@@ -236,6 +236,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-04T01:54:49.241801+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -254,8 +260,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-23T18:58:14.3629002+00:00",
   "FirstSeenRating": "2023-02-25T11:58:28.997752+00:00",
-  "LastChanged": "2023-07-30T01:55:32.192414+00:00",
+  "LastChanged": "2023-08-04T01:54:49.2418009+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:21.4434152+00:00",
-  "LastUpdate_Ratings": "2023-08-03T23:59:49.6736216+00:00",
-  "LastUpdate_Achievements": "2023-08-04T00:05:18.4252754+00:00"
+  "LastUpdate_Ratings": "2023-08-04T01:54:49.2418015+00:00",
+  "LastUpdate_Achievements": "2023-08-04T02:00:14.791815+00:00"
 }

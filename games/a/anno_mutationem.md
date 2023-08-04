@@ -29,9 +29,9 @@ Rating: 4.56 (Ranked 466)
 | So Fresh and So clean clean | 8.00% | ~52 |
 | Welcome home, 06 | 8.00% | ~52 |
 | Clarity of Mind | 7.00% | ~46 |
+| I feel secure, contained & protected | 7.00% | ~46 |
 | I'm walking here! | 7.00% | ~46 |
 | Supreme Bartender Ann | 7.00% | ~46 |
-| I feel secure, contained & protected | 6.00% | ~39 |
 | Science, it works! | 6.00% | ~39 |
 | The Traveler | 6.00% | ~39 |
 | Woman on a (side) mission | 5.00% | ~33 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -834,9 +834,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6290,
+  "EOS_Progressed": 6293,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4689,6 +4689,11 @@
       "Time": "2023-08-03T22:03:08.4020291+00:00",
       "NumProgressed": 6290,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T01:57:04.9359835+00:00",
+      "NumProgressed": 6293,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -4732,7 +4737,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1950
+      "UsersEstimate": 1951
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -4740,7 +4745,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3963
+      "UsersEstimate": 3965
     },
     {
       "ID": "Control_All_Relics",
@@ -4764,7 +4769,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -4780,7 +4785,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "First_Major_Ally",
@@ -4788,7 +4793,7 @@
       "Name": "Gain an Ally",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "First_Nebula_Anomaly",
@@ -4802,9 +4807,9 @@
       "ID": "First_Planet_Colonized",
       "SetID": "4h07amh",
       "Name": "Colonize a Planet",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4969
+      "UsersEstimate": 4909
     },
     {
       "ID": "First_Race_Met",
@@ -4812,7 +4817,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4592
+      "UsersEstimate": 4594
     },
     {
       "ID": "First_Ship_Designed",
@@ -4820,7 +4825,7 @@
       "Name": "Design a Ship",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "First_Stream_Travel",
@@ -4836,7 +4841,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4906
+      "UsersEstimate": 4909
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -4916,7 +4921,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2139
+      "UsersEstimate": 2140
     },
     {
       "ID": "Play_1000_Hours",
@@ -5004,7 +5009,7 @@
       "Name": "Commodity Seller",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -5020,7 +5025,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3900
+      "UsersEstimate": 3902
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -5044,7 +5049,7 @@
       "Name": "War with the Unknown",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "Win_As_Altarian",
@@ -5156,7 +5161,7 @@
       "Name": "Win as Terrans",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "Win_As_Torian",
@@ -5188,7 +5193,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4214
+      "UsersEstimate": 4216
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -5212,7 +5217,7 @@
       "Name": "Win with a Custom Faction",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "Win_Diplomacy",
@@ -5275,15 +5280,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6290,
+      "Progressed": 6293,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-07-30T08:58:20.2585485+00:00",
-  "LastChanged_Achievements": "2023-08-04T00:02:33.8238143+00:00",
+  "LastChanged_Achievements": "2023-08-04T01:57:04.9359831+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:11.8834524+00:00",
-  "LastUpdate_Ratings": "2023-08-03T23:58:33.9657834+00:00",
-  "LastUpdate_Achievements": "2023-08-04T00:02:33.8241328+00:00"
+  "LastUpdate_Ratings": "2023-08-04T01:53:48.5035799+00:00",
+  "LastUpdate_Achievements": "2023-08-04T01:57:04.936135+00:00"
 }

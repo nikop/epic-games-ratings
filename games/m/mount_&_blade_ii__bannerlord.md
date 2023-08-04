@@ -6,18 +6,18 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~22,086 |
+| Lawbringer | 38.00% | ~22,087 |
 | Landlord | 32.00% | ~18,599 |
 | Bannerlord | 22.00% | ~12,787 |
 | Horde breaker | 22.00% | ~12,787 |
 | Lawmaker | 22.00% | ~12,787 |
 | Trained | 22.00% | ~12,787 |
 | The king is pleased | 18.00% | ~10,462 |
-| King Solomon | 16.00% | ~9,299 |
+| King Solomon | 16.00% | ~9,300 |
 | Apple of my eye | 15.00% | ~8,718 |
 | I can do it | 15.00% | ~8,718 |
 | God of the Arena | 12.00% | ~6,975 |
-| Against all odds | 11.00% | ~6,393 |
+| Against all odds | 11.00% | ~6,394 |
 | Swordbearer | 10.00% | ~5,812 |
 | This Is Our Land | 10.00% | ~5,812 |
 | Duelist | 9.00% | ~5,231 |
@@ -25,7 +25,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | I spit on your grave | 9.00% | ~5,231 |
 | What have the Romans ever done for us? | 9.00% | ~5,231 |
 | Butterlord | 8.00% | ~4,650 |
-| Mastery | 7.00% | ~4,068 |
+| Mastery | 7.00% | ~4,069 |
 | Know your enemy | 6.00% | ~3,487 |
 | My way | 5.00% | ~2,906 |
 | Crowdfunded | 4.00% | ~2,325 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,121 (Ranked 86)  
+Progressed: 58,123 (Ranked 86)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,10 +164,10 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-08-01 | 57,849 | 0 |
 | 2023-08-02 | 57,987 | 0 |
 | 2023-08-03 | 58,119 | 0 |
-| 2023-08-04 | 58,121 | 0 |
+| 2023-08-04 | 58,123 | 0 |
 ## Awards
 Max (Character Customization): 6,887  (Ranked 48)  
-Sum: 13,957 (Ranked 67)  
+Sum: 13,958 (Ranked 67)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -179,7 +179,7 @@ Diff (max vs sum): -19
 | This game has Amazing Storytelling | 786 |
 | This game is Relaxing | 773 |
 | This game has Amazing Characters | 770 |
-| This game has Quickly Understood Controls | 766 |
+| This game has Quickly Understood Controls | 767 |
 | This game has a Creative Community | 570 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
@@ -387,3 +387,4 @@ Diff (max vs sum): -19
 | 2023-08-01 | 4.75 | - | 6,876 | 13,940 |
 | 2023-08-02 | 4.75 | - | 6,882 | 13,950 |
 | 2023-08-03 | 4.74 | - | 6,887 | 13,957 |
+| 2023-08-04 | 4.74 | - | 6,887 | 13,958 |

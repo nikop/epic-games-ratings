@@ -14,9 +14,9 @@ Number of Ratings: 371  (23.09.2022)
 | Purging Spree | 2.00% | ~62 |
 | An Ill Omen | 2.00% | ~62 |
 | Bloodless | 2.00% | ~62 |
+| Surgical Excision | 1.00% | ~31 |
 | Friendly Fire | 1.00% | ~31 |
 | A Foul Creche | 1.00% | ~31 |
-| Surgical Excision | 0.90% | ~28 |
 | Honoured Battle-Brother | 0.80% | ~25 |
 | The Emperor Protects | 0.70% | ~22 |
 | Nemesis Master | 0.60% | ~19 |

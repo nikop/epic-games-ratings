@@ -23,8 +23,8 @@
 | Rookie | 5.00% | ~37 |
 | Up Close And Personal | 5.00% | ~37 |
 | Eden Heights | 4.00% | ~29 |
+| Inner Core | 3.00% | ~22 |
 | Outer Core | 3.00% | ~22 |
-| Inner Core | 2.00% | ~15 |
 | Integration | 2.00% | ~15 |
 | Trickshot | 1.00% | ~7 |
 | Destruction | 0.70% | ~5 |

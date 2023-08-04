@@ -26,6 +26,7 @@ Number of Ratings: 111  (23.09.2022)
 | Commence the Hijinx! | 5.00% | ~135 |
 | Fulfilled the dream | 5.00% | ~135 |
 | G'Day Mate! | 5.00% | ~135 |
+| Globetrotter | 5.00% | ~135 |
 | Laid back | 5.00% | ~135 |
 | NAHELL! | 5.00% | ~135 |
 | Purple passion | 5.00% | ~135 |
@@ -33,7 +34,6 @@ Number of Ratings: 111  (23.09.2022)
 | Sup widdit big dog! | 5.00% | ~135 |
 | Cops called! | 4.00% | ~108 |
 | DIY Boss | 4.00% | ~108 |
-| Globetrotter | 4.00% | ~108 |
 | G.O.A.T. status | 4.00% | ~108 |
 | Lines for days | 4.00% | ~108 |
 | Manny Destroys All | 4.00% | ~108 |

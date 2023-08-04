@@ -30,23 +30,23 @@
 | Unstoppable | 9.00% | ~5 |
 | Silver Prince of Ball-air | 9.00% | ~5 |
 | Merchant Prince II | 9.00% | ~5 |
+| Usurper I | 7.00% | ~4 |
 | Flower Power | 7.00% | ~4 |
+| System Ensign | 5.00% | ~3 |
 | Rambo III | 5.00% | ~3 |
-| Usurper I | 5.00% | ~3 |
+| Hitchhiker | 5.00% | ~3 |
+| Omicron Beta | 5.00% | ~3 |
+| Hoarder | 5.00% | ~3 |
+| 50Gb HDD | 5.00% | ~3 |
+| Galactic Lieutenant | 5.00% | ~3 |
 | Sectoral Captain | 5.00% | ~3 |
 | Collateral Damage II | 5.00% | ~3 |
-| System Ensign | 4.00% | ~2 |
+| Fighting Fit II | 5.00% | ~3 |
+| Bronze Foundation | 4.00% | ~2 |
 | Cartridge Hoarder | 4.00% | ~2 |
-| Hitchhiker | 4.00% | ~2 |
-| Omicron Beta | 4.00% | ~2 |
-| Hoarder | 4.00% | ~2 |
 | No Peace | 4.00% | ~2 |
 | Bird of Prey | 4.00% | ~2 |
-| 50Gb HDD | 4.00% | ~2 |
-| Galactic Lieutenant | 4.00% | ~2 |
-| Fighting Fit II | 4.00% | ~2 |
 | Revenge | 2.00% | ~1 |
-| Bronze Foundation | 2.00% | ~1 |
 | Bronze BBQ | 2.00% | ~1 |
 | Bronze Pest Control | 2.00% | ~1 |
 | Rambo IV | 2.00% | ~1 |

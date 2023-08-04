@@ -77,6 +77,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.50% | ~66 |
 | Sages | 0.50% | ~66 |
 | Statesmen | 0.50% | ~66 |
+| Traders | 0.50% | ~66 |
 | Persian Paganism | 0.50% | ~66 |
 | Building Wonders | 0.50% | ~66 |
 | Points Victory | 0.50% | ~66 |
@@ -87,7 +88,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.40% | ~53 |
 | Patrons | 0.40% | ~53 |
 | Riders | 0.40% | ~53 |
-| Traders | 0.40% | ~53 |
 | Hittite Iron | 0.40% | ~53 |
 | Circus Maximus | 0.40% | ~53 |
 | Temple of Solomon | 0.40% | ~53 |

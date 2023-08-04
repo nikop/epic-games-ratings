@@ -6,41 +6,41 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,736 |
-| Beast Intentions | 3.00% | ~6,552 |
-| Maddening | 2.00% | ~4,368 |
+| A Brief Tour of the Realms | 4.00% | ~8,737 |
+| Beast Intentions | 3.00% | ~6,553 |
+| Maddening | 2.00% | ~4,369 |
 | The Silken Swamp | 1.00% | ~2,184 |
 | Supply Run | 1.00% | ~2,184 |
+| Vecna Lives! | 1.00% | ~1,847 |
 | Rocky Reception | 1.00% | ~1,847 |
 | Rock and Roll | 1.00% | ~1,847 |
-| Vecna Lives! | 0.90% | ~1,662 |
 | Flight of the Kindori Pod | 0.90% | ~1,662 |
-| Tall Tales | 0.80% | ~1,477 |
-| Vecna Loots! | 0.80% | ~1,477 |
-| Topolah's Tower | 0.80% | ~1,477 |
+| Tall Tales | 0.80% | ~1,478 |
+| Vecna Loots! | 0.80% | ~1,478 |
+| Topolah's Tower | 0.80% | ~1,478 |
 | Wet Feet | 0.70% | ~1,529 |
 | Seeds of Destruction | 0.70% | ~1,293 |
 | Return to the Tomb | 0.70% | ~1,293 |
-| Pros and CONs | 0.60% | ~1,310 |
+| Pros and CONs | 0.60% | ~1,311 |
 | The Witchlight Carnival | 0.60% | ~1,108 |
-| Hatchlings Underfoot | 0.60% | ~1,310 |
-| Don't Look Up! | 0.60% | ~1,310 |
+| Hatchlings Underfoot | 0.60% | ~1,311 |
+| Don't Look Up! | 0.60% | ~1,311 |
 | Heatwave | 0.60% | ~1,108 |
 | The Dread Domain of Tovag | 0.60% | ~1,108 |
-| Were-verpowered | 0.60% | ~1,310 |
-| A Persistent Buzzing | 0.60% | ~1,310 |
-| Beast Mode | 0.60% | ~1,310 |
-| Terror in the Dark | 0.60% | ~1,310 |
-| A Mysterious Summons | 0.60% | ~1,310 |
-| Building Trust | 0.60% | ~1,310 |
-| Unearthed Evil | 0.60% | ~1,310 |
-| The Dinner Party | 0.60% | ~1,310 |
-| The Cursed Farmer | 0.60% | ~1,310 |
-| The Mad Wizard | 0.60% | ~1,310 |
+| Were-verpowered | 0.60% | ~1,311 |
+| A Persistent Buzzing | 0.60% | ~1,311 |
+| Beast Mode | 0.60% | ~1,311 |
+| Terror in the Dark | 0.60% | ~1,311 |
+| A Mysterious Summons | 0.60% | ~1,311 |
+| Building Trust | 0.60% | ~1,311 |
+| Unearthed Evil | 0.60% | ~1,311 |
+| The Dinner Party | 0.60% | ~1,311 |
+| The Cursed Farmer | 0.60% | ~1,311 |
+| The Mad Wizard | 0.60% | ~1,311 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,108 |
-| Thieves of the Coven | 0.50% | ~923 |
+| Thieves of the Coven | 0.50% | ~924 |
 | Heavy Burden | 0.50% | ~1,092 |
-| The Evacuation of Waterdeep | 0.50% | ~923 |
+| The Evacuation of Waterdeep | 0.50% | ~924 |
 | Friends of the Forest | 0.50% | ~1,092 |
 | Low Initiative | 0.50% | ~1,092 |
 | Street War | 0.50% | ~1,092 |
@@ -50,12 +50,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.50% | ~1,092 |
 | The Botched Kidnapping | 0.50% | ~1,092 |
 | The Ring of Regeneration | 0.50% | ~1,092 |
-| Not That Type of Helm! | 0.50% | ~923 |
-| Calcryx Tricks | 0.50% | ~923 |
-| Goblin Halls: the Next Generation | 0.50% | ~923 |
-| Bazaar Companions | 0.50% | ~923 |
-| Bahamut's Army | 0.50% | ~923 |
-| Krux's Speed Run | 0.50% | ~923 |
+| Not That Type of Helm! | 0.50% | ~924 |
+| Calcryx Tricks | 0.50% | ~924 |
+| Goblin Halls: the Next Generation | 0.50% | ~924 |
+| Bazaar Companions | 0.50% | ~924 |
+| Bahamut's Army | 0.50% | ~924 |
+| Krux's Speed Run | 0.50% | ~924 |
 | Upholding the Law | 0.40% | ~874 |
 | Hither of the Feywild | 0.40% | ~739 |
 | Speeds of Destruction | 0.40% | ~739 |
@@ -72,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.40% | ~874 |
 | Seeking Allies | 0.40% | ~874 |
 | Are Ya Chicken? | 0.40% | ~874 |
+| Useless Allies | 0.40% | ~874 |
 | Mad Cow Disease | 0.40% | ~874 |
 | Exploring Port Nyanzaru | 0.40% | ~874 |
 | Running of the Saurs | 0.40% | ~874 |
@@ -118,7 +119,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.30% | ~655 |
 | The Death Curse | 0.30% | ~655 |
 | Nimble Escape | 0.30% | ~655 |
-| Useless Allies | 0.30% | ~655 |
 | Fugitives | 0.30% | ~655 |
 | Premature Betrayal | 0.30% | ~655 |
 | Hopelessly Lost | 0.30% | ~655 |
@@ -154,6 +154,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fall of Ythryn | 0.20% | ~369 |
 | A Lesson in Classes | 0.20% | ~369 |
 | Bully for You! | 0.20% | ~369 |
+| The Dark Heart | 0.20% | ~369 |
 | Will of the Feywild | 0.20% | ~369 |
 | The Roots of Loomlurch | 0.20% | ~369 |
 | Best Laid Plans | 0.20% | ~369 |
@@ -256,7 +257,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | End of the Line | 0.10% | ~185 |
 | A Steadfast Love | 0.10% | ~185 |
 | Zarak's Revenge | 0.10% | ~185 |
-| The Dark Heart | 0.10% | ~185 |
 | Undergeared | 0.10% | ~185 |
 | Underdark Chill | 0.10% | ~185 |
 | The Alien Underdark | 0.10% | ~185 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,404 (Ranked 53)  
-Completed: 2,148 (0.98%) (Ranked 112)  
+Progressed: 218,427 (Ranked 53)  
+Completed: 2,149 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -625,7 +625,7 @@ Completed: 2,148 (0.98%) (Ranked 112)
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
-| 2023-08-04 | 218,404 | 2,148 |
+| 2023-08-04 | 218,427 | 2,149 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,886 (Ranked 38)  

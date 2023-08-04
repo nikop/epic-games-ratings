@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 352,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 6.25,
   "EosHistory": [
@@ -1360,9 +1360,9 @@
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 99
     },
     {
       "ID": "DwarDevil",
@@ -1512,9 +1512,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 201
     },
     {
       "ID": "RogueEat",
@@ -1607,8 +1607,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-04T00:07:23.990772+00:00",
+  "LastChanged_Achievements": "2023-08-04T02:01:59.4409443+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-03T23:57:46.3951323+00:00",
-  "LastUpdate_Achievements": "2023-08-04T00:07:23.9908158+00:00"
+  "LastUpdate_Ratings": "2023-08-04T01:53:05.4033892+00:00",
+  "LastUpdate_Achievements": "2023-08-04T02:01:59.441045+00:00"
 }

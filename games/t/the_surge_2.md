@@ -5,11 +5,11 @@ Rating: 4.25 (Ranked 818)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,559 |
-| Don't I Know You...? | 77.00% | ~1,501 |
-| Jailbreak | 65.00% | ~1,267 |
-| HEADSHOT! | 38.00% | ~741 |
+| Rigged And Ready | 80.00% | ~1,560 |
+| Don't I Know You...? | 76.00% | ~1,482 |
+| Jailbreak | 65.00% | ~1,268 |
 | Suited and Booted | 38.00% | ~741 |
+| HEADSHOT! | 37.00% | ~722 |
 | Sleeping With The Fishes | 35.00% | ~682 |
 | Overheated | 30.00% | ~585 |
 | High Performance | 30.00% | ~585 |
@@ -18,26 +18,26 @@ Rating: 4.25 (Ranked 818)
 | Home Invasion | 22.00% | ~429 |
 | Luminary | 22.00% | ~429 |
 | It's a Trap | 22.00% | ~429 |
-| True Survivor | 21.00% | ~409 |
+| True Survivor | 21.00% | ~410 |
 | Offensive Defense | 20.00% | ~390 |
 | Shocking | 20.00% | ~390 |
 | Court Martial | 19.00% | ~370 |
 | Unforeseeable Consequences | 19.00% | ~370 |
 | Clean Cut | 18.00% | ~351 |
-| Dead Again | 17.00% | ~331 |
-| Full Arsenal | 17.00% | ~331 |
+| Dead Again | 17.00% | ~332 |
+| Full Arsenal | 17.00% | ~332 |
 | Can't Trust Banks | 15.00% | ~292 |
-| Mommy Dearest | 13.00% | ~253 |
-| Bad Dog | 13.00% | ~253 |
-| Where It All Began | 13.00% | ~253 |
-| Risk Tolerant | 13.00% | ~253 |
-| What A Catchy Song | 13.00% | ~253 |
+| Mommy Dearest | 13.00% | ~254 |
+| Bad Dog | 13.00% | ~254 |
+| Where It All Began | 13.00% | ~254 |
+| Risk Tolerant | 13.00% | ~254 |
+| What A Catchy Song | 13.00% | ~254 |
 | Marked For Success | 12.00% | ~234 |
 | Sorry, Didn't See You There | 12.00% | ~234 |
 | Corrupted Beauty | 11.00% | ~214 |
 | Triplets | 10.00% | ~195 |
-| Defense in Depth | 9.00% | ~175 |
-| Stimulating The Local Economy | 9.00% | ~175 |
+| Defense in Depth | 9.00% | ~176 |
+| Stimulating The Local Economy | 9.00% | ~176 |
 | A Little Banged Up | 8.00% | ~156 |
 | Denying Prophecy | 8.00% | ~156 |
 | Following In Their Footsteps | 8.00% | ~156 |
@@ -45,10 +45,10 @@ Rating: 4.25 (Ranked 818)
 | Remote Surgery | 6.00% | ~117 |
 | Turbo Booster | 6.00% | ~117 |
 | Squid Pro Quo | 6.00% | ~117 |
-| Reborn | 5.00% | ~97 |
-| Counter-Sniper | 5.00% | ~97 |
-| Shrimp Cocktail | 5.00% | ~97 |
-| Juiced Up | 5.00% | ~97 |
+| Reborn | 5.00% | ~98 |
+| Counter-Sniper | 5.00% | ~98 |
+| Shrimp Cocktail | 5.00% | ~98 |
+| Juiced Up | 5.00% | ~98 |
 | Hello Darkness My Old Friend | 4.00% | ~78 |
 | Geronimo! | 4.00% | ~78 |
 | Homewrecker | 4.00% | ~78 |
@@ -58,12 +58,12 @@ Rating: 4.25 (Ranked 818)
 | Three Birds With One Stone | 2.00% | ~39 |
 | Going Postal | 2.00% | ~39 |
 | Loot, Pillage & Craft | 2.00% | ~39 |
-| Own Medicine | 1.00% | ~19 |
-| Swiss Army Drone | 1.00% | ~19 |
-| Box Office Smash | 1.00% | ~19 |
-| The Easy Way Out | 1.00% | ~19 |
+| Own Medicine | 1.00% | ~20 |
+| Swiss Army Drone | 1.00% | ~20 |
+| Box Office Smash | 1.00% | ~20 |
+| The Easy Way Out | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,949 (Ranked 169)  
+Progressed: 1,950 (Ranked 169)  
 Completed: 10 (0.51%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,6 +150,7 @@ Completed: 10 (0.51%) (Ranked 135)
 | 2023-08-01 | 1,937 | 10 |
 | 2023-08-02 | 1,945 | 10 |
 | 2023-08-03 | 1,949 | 10 |
+| 2023-08-04 | 1,950 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

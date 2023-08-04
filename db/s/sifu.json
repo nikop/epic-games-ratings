@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 90,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5526,10 +5526,10 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 712134,
-  "EOS_Completed": 12842,
-  "EOS_NewPlayers": 502,
-  "EOS_NewCompleters": 9,
+  "EOS_Progressed": 712138,
+  "EOS_Completed": 12843,
+  "EOS_NewPlayers": 501,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -15581,6 +15581,11 @@
       "Time": "2023-08-03T23:08:55.3954444+00:00",
       "NumProgressed": 712134,
       "NumCompleted": 12842
+    },
+    {
+      "Time": "2023-08-04T02:02:30.4594307+00:00",
+      "NumProgressed": 712138,
+      "NumCompleted": 12843
     }
   ],
   "TotalAchievements": 50,
@@ -15928,7 +15933,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -15960,7 +15965,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -15991,21 +15996,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21435,
+      "Progressed": 21439,
       "Completed": 10480
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712134,
-      "Completed": 12842
+      "Progressed": 712138,
+      "Completed": 12843
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-03T21:00:52.925951+00:00",
-  "LastChanged_Achievements": "2023-08-04T00:08:13.1116426+00:00",
+  "LastChanged_Achievements": "2023-08-04T02:02:30.4594302+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:51.4583284+00:00",
-  "LastUpdate_Ratings": "2023-08-04T00:00:32.403058+00:00",
-  "LastUpdate_Achievements": "2023-08-04T00:08:13.1118441+00:00"
+  "LastUpdate_Ratings": "2023-08-04T01:55:21.1234546+00:00",
+  "LastUpdate_Achievements": "2023-08-04T02:02:30.4595324+00:00"
 }

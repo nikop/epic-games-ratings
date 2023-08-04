@@ -42,8 +42,8 @@
 | Your own way | 43.00% | ~94 |
 | Fight is life | 42.00% | ~92 |
 | Mysterious voice | 42.00% | ~92 |
+| Get out of my apartment! | 37.00% | ~81 |
 | Underground dwellers | 37.00% | ~81 |
-| Get out of my apartment! | 36.00% | ~79 |
 | Responsible approach | 36.00% | ~79 |
 | GYM professional | 35.00% | ~77 |
 | Champion – no way back | 35.00% | ~77 |

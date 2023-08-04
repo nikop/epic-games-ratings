@@ -1,26 +1,26 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.29 (Ranked 788)  
+Rating: 4.29 (Ranked 789)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~6,500 |
-| A Good Day To Die | 15.00% | ~4,875 |
-| Right Back Atcha | 6.00% | ~1,950 |
-| Killed by Death | 5.00% | ~1,625 |
-| Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,625 |
+| Man 'O War | 20.00% | ~6,502 |
+| A Good Day To Die | 15.00% | ~4,876 |
+| Right Back Atcha | 6.00% | ~1,951 |
+| Killed by Death | 5.00% | ~1,626 |
+| Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,626 |
 | Kill 'Em All | 4.00% | ~1,300 |
 | Down Boy! | 2.00% | ~650 |
 | A Snowball's Chance in Hell | 2.00% | ~650 |
 | Enjoy The Silence | 1.00% | ~325 |
-| Sure Footed As A Goat | 0.90% | ~292 |
-| Backdoor Man | 0.90% | ~292 |
+| Sure Footed As A Goat | 0.90% | ~293 |
+| Backdoor Man | 0.90% | ~293 |
 | Thorn in My Herbicide | 0.80% | ~260 |
 | Schadenfreude | 0.80% | ~260 |
-| Red In Tooth And Claw | 0.70% | ~227 |
-| Death Becomes Her | 0.70% | ~227 |
-| The Sky Is Falling | 0.70% | ~227 |
+| Red In Tooth And Claw | 0.70% | ~228 |
+| Death Becomes Her | 0.70% | ~228 |
+| The Sky Is Falling | 0.70% | ~228 |
 | Start As You Mean To Go On | 0.60% | ~195 |
 | Hail the Great Horned Metal God! | 0.60% | ~195 |
 | That'll Come In Handy... | 0.60% | ~195 |
@@ -28,14 +28,14 @@ Rating: 4.29 (Ranked 788)
 | Oh God, Mother! Blood! Blood! | 0.40% | ~130 |
 | Ice To See You | 0.40% | ~130 |
 | Smack My Imp Up | 0.40% | ~130 |
-| Vroll With It | 0.30% | ~97 |
-| Swift of Foot, Keen of Blade | 0.30% | ~97 |
+| Vroll With It | 0.30% | ~98 |
+| Swift of Foot, Keen of Blade | 0.30% | ~98 |
 | Death or Glory | 0.20% | ~65 |
-| Flame Retardant | 0.10% | ~32 |
-| Too Metal For Magic | 0.10% | ~32 |
-| Heart Of Steel | 0.10% | ~32 |
+| Flame Retardant | 0.10% | ~33 |
+| Too Metal For Magic | 0.10% | ~33 |
+| Heart Of Steel | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,499 (Ranked 98)  
+Progressed: 32,510 (Ranked 98)  
 Completed: 20 (0.06%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 20 (0.06%) (Ranked 207)
 | 2023-08-01 | 32,255 | 20 |
 | 2023-08-02 | 32,374 | 20 |
 | 2023-08-03 | 32,494 | 20 |
-| 2023-08-04 | 32,499 | 20 |
+| 2023-08-04 | 32,510 | 20 |
 ## Awards
 Max (Great Boss Battles): 126  (Ranked 310)  
 Sum: 126 (Ranked 403)  

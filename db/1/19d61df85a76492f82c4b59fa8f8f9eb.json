@@ -3,9 +3,9 @@
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 261,
-  "Ranking_EOS_Completed": 29,
+  "Ranking_EOS_Completed": 28,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 279,
-  "EOS_Completed": 24,
-  "EOS_NewPlayers": 74,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 8.6,
+  "EOS_Completed": 25,
+  "EOS_NewPlayers": 73,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 8.96,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1246,6 +1246,11 @@
       "Time": "2023-08-03T20:05:40.693256+00:00",
       "NumProgressed": 279,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-08-04T02:01:13.7873724+00:00",
+      "NumProgressed": 279,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 6,
@@ -1271,17 +1276,17 @@
       "ID": "CgkIgaGB2J0LEAIQAg",
       "SetID": "4ocea6d",
       "Name": "Viola Organista",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 165,
-      "UsersEstimate": 123
+      "UsersEstimate": 126
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
       "SetID": "4ocea6d",
       "Name": "Scythed Chariot",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 165,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -1305,13 +1310,13 @@
       "ID": "4ocea6d",
       "IsBase": true,
       "Progressed": 279,
-      "Completed": 24
+      "Completed": 25
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-04T00:06:27.9313308+00:00",
+  "LastChanged_Achievements": "2023-08-04T02:01:13.7873718+00:00",
   "LastUpdate_AppInfo": "2023-08-03T14:57:18.1003103+00:00",
-  "LastUpdate_Ratings": "2023-08-03T23:57:49.6337299+00:00",
-  "LastUpdate_Achievements": "2023-08-04T00:06:27.9313478+00:00"
+  "LastUpdate_Ratings": "2023-08-04T01:53:07.9912902+00:00",
+  "LastUpdate_Achievements": "2023-08-04T02:01:13.7873893+00:00"
 }

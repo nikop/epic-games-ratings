@@ -4,10 +4,10 @@
   "ProductSlug": "stranger-of-paradise-final-fantasy-origin",
   "Ranking_Rating": 542,
   "Ranking_Popularity": 158,
-  "Ranking_PopularitySum": 214,
+  "Ranking_PopularitySum": 213,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-03-18T04:00:00+00:00",
@@ -1544,10 +1544,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 1568,
       "NumberOfAwardsMax": 761
+    },
+    {
+      "Time": "2023-08-04T01:56:18.7936684+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1569,
+      "NumberOfAwardsMax": 761
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1568,
+  "NumberOfAwards": 1569,
   "NumberOfAwardsMax": 761,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1591,7 +1597,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 104
+      "Count": 105
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1626,7 +1632,7 @@
   ],
   "EOS_Progressed": 79356,
   "EOS_Completed": 2163,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.73,
   "EosHistory": [
@@ -7393,9 +7399,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
-  "LastChanged": "2023-07-31T05:59:55.0215965+00:00",
-  "LastChanged_Achievements": "2023-08-04T00:05:02.6519625+00:00",
+  "LastChanged": "2023-08-04T01:56:18.7936683+00:00",
+  "LastChanged_Achievements": "2023-08-04T02:00:01.8223938+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:46.7647556+00:00",
-  "LastUpdate_Ratings": "2023-08-04T00:01:37.2465959+00:00",
-  "LastUpdate_Achievements": "2023-08-04T00:05:02.6520334+00:00"
+  "LastUpdate_Ratings": "2023-08-04T01:56:18.7936691+00:00",
+  "LastUpdate_Achievements": "2023-08-04T02:00:01.8224576+00:00"
 }

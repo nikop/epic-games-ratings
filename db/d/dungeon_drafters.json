@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -439,9 +439,9 @@
       "ID": "InnkeeperQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "Dungeon Mastery",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "LW_complete",
@@ -615,9 +615,9 @@
       "ID": "bought_rune_clear",
       "SetID": "3b8n56h",
       "Name": "Clear as Water",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "cards_discovered_complete",
@@ -631,9 +631,9 @@
       "ID": "cards_discovered_half",
       "SetID": "3b8n56h",
       "Name": "Card Collector",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "demiurge_defeated",
@@ -736,8 +736,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-08-04T00:04:49.9891913+00:00",
+  "LastChanged_Achievements": "2023-08-04T01:59:52.3443862+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:59.0527657+00:00",
-  "LastUpdate_Ratings": "2023-08-03T23:58:18.0129253+00:00",
-  "LastUpdate_Achievements": "2023-08-04T00:04:49.9892224+00:00"
+  "LastUpdate_Ratings": "2023-08-04T01:53:35.554503+00:00",
+  "LastUpdate_Achievements": "2023-08-04T01:59:52.3444379+00:00"
 }

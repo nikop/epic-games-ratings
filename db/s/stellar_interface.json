@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -350,9 +350,9 @@
       "ID": "BronzeHoberMallowBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Foundation",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BronzeHomunculusBossDefeatedAchievement",
@@ -374,9 +374,9 @@
       "ID": "BronzeMissionsCompleted10Achievement",
       "SetID": "a8djcgh",
       "Name": "System Ensign",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BronzeMissionsCompleted20Achievement",
@@ -502,9 +502,9 @@
       "ID": "ClearedAllLevels1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Hitchhiker",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearedAllLevels20TimesAchievement",
@@ -662,17 +662,17 @@
       "ID": "ConsumableUsed50TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Omicron Beta",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ConsumableWithActiveCountOf10Achievement",
       "SetID": "a8djcgh",
       "Name": "Hoarder",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CorvetteSpacecraftUnlockAchievement",
@@ -926,9 +926,9 @@
       "ID": "Killed10BossesAchievement",
       "SetID": "a8djcgh",
       "Name": "Usurper I",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Killed10EnemiesAchievement",
@@ -1030,9 +1030,9 @@
       "ID": "PerksUnlocked50Achievement",
       "SetID": "a8djcgh",
       "Name": "50Gb HDD",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PerksUnlocked5Achievement",
@@ -1086,9 +1086,9 @@
       "ID": "PlayedFor5HoursAchievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Lieutenant",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PlayerHas10DronesAchievement",
@@ -1342,9 +1342,9 @@
       "ID": "VisitRegular100TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Fighting Fit II",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "VisitRegular10TimeAchievement",
@@ -1373,8 +1373,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-08-04T00:06:57.14255+00:00",
+  "LastChanged_Achievements": "2023-08-04T02:01:37.3728382+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:39.4262374+00:00",
-  "LastUpdate_Ratings": "2023-08-04T00:00:15.2854093+00:00",
-  "LastUpdate_Achievements": "2023-08-04T00:06:57.1427716+00:00"
+  "LastUpdate_Ratings": "2023-08-04T01:55:07.8075874+00:00",
+  "LastUpdate_Achievements": "2023-08-04T02:01:37.3730251+00:00"
 }

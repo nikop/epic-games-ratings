@@ -862,7 +862,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 660264,
+  "EOS_Progressed": 660266,
   "EOS_Completed": 168,
   "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 0,
@@ -10792,6 +10792,11 @@
       "Time": "2023-08-04T00:04:37.2345999+00:00",
       "NumProgressed": 660264,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-08-04T01:59:41.9537425+00:00",
+      "NumProgressed": 660266,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -10803,7 +10808,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 475390
+      "UsersEstimate": 475392
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -10811,7 +10816,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382953
+      "UsersEstimate": 382954
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -10867,7 +10872,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66026
+      "UsersEstimate": 66027
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -10875,7 +10880,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46218
+      "UsersEstimate": 46219
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -10899,7 +10904,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66026
+      "UsersEstimate": 66027
     },
     {
       "ID": "Achievement_14_Magician",
@@ -11035,7 +11040,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46218
+      "UsersEstimate": 46219
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -11115,7 +11120,7 @@
       "Name": "Broken Heart",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46218
+      "UsersEstimate": 46219
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -11186,15 +11191,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 660264,
+      "Progressed": 660266,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-08-04T00:04:37.2345993+00:00",
+  "LastChanged_Achievements": "2023-08-04T01:59:41.9537419+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:32.2842788+00:00",
-  "LastUpdate_Ratings": "2023-08-03T23:58:46.3811088+00:00",
-  "LastUpdate_Achievements": "2023-08-04T00:04:37.2347207+00:00"
+  "LastUpdate_Ratings": "2023-08-04T01:54:00.6198606+00:00",
+  "LastUpdate_Achievements": "2023-08-04T01:59:41.9538393+00:00"
 }

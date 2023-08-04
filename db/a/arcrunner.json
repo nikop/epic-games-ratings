@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1713,9 +1713,9 @@
       "ID": "ACHV_INNERCORE",
       "SetID": "cceobco",
       "Name": "Inner Core",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHV_INTEGRATION",
@@ -1864,8 +1864,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-08-04T00:05:25.7429835+00:00",
+  "LastChanged_Achievements": "2023-08-04T02:00:20.7782556+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:26.3220019+00:00",
-  "LastUpdate_Ratings": "2023-08-04T00:01:20.1943915+00:00",
-  "LastUpdate_Achievements": "2023-08-04T00:05:25.7430167+00:00"
+  "LastUpdate_Ratings": "2023-08-04T01:56:04.2509252+00:00",
+  "LastUpdate_Achievements": "2023-08-04T02:00:20.7782864+00:00"
 }

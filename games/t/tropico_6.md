@@ -6,24 +6,24 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,436 |
-| Un-Lonely Island | 47.00% | ~2,153 |
-| The Beginning of a Servantship | 45.00% | ~2,061 |
-| Trade Is My Trait | 37.00% | ~1,695 |
-| Number 18 | 24.00% | ~1,099 |
-| We Don't Have Time For That | 19.00% | ~870 |
+| Just One...More...Term... | 75.00% | ~3,438 |
+| Un-Lonely Island | 47.00% | ~2,154 |
+| The Beginning of a Servantship | 45.00% | ~2,063 |
+| Trade Is My Trait | 37.00% | ~1,696 |
+| Number 18 | 24.00% | ~1,100 |
+| We Don't Have Time For That | 19.00% | ~871 |
 | The Governator | 18.00% | ~825 |
 | Caribbean Comrade | 16.00% | ~733 |
 | The Legend of Langostino | 16.00% | ~733 |
-| The Dreamer of Dreams | 15.00% | ~687 |
+| The Dreamer of Dreams | 15.00% | ~688 |
 | Go Sovereigns! | 11.00% | ~504 |
 | For Science! | 11.00% | ~504 |
 | Happy Ending? | 10.00% | ~458 |
 | Of Seals And Men | 10.00% | ~458 |
-| Shackadelic | 9.00% | ~412 |
-| Double Trouble | 8.00% | ~366 |
-| Firestarter | 8.00% | ~366 |
-| Make Tropico Great Again! | 8.00% | ~366 |
+| Shackadelic | 9.00% | ~413 |
+| Double Trouble | 8.00% | ~367 |
+| Firestarter | 8.00% | ~367 |
+| Make Tropico Great Again! | 8.00% | ~367 |
 | I Owe You Nothing | 7.00% | ~321 |
 | French Connection | 7.00% | ~321 |
 | Don't Panic! | 6.00% | ~275 |
@@ -32,11 +32,11 @@ Number of Ratings: 398  (23.09.2022)
 | Computer Says "No" | 5.00% | ~229 |
 | Watch The World Burn | 5.00% | ~229 |
 | Fairy Tale Come True | 5.00% | ~229 |
-| Been there, Done That | 3.00% | ~137 |
-| Apocalypso | 3.00% | ~137 |
-| Narcissist | 3.00% | ~137 |
-| Promising Endeavors | 3.00% | ~137 |
-| The Time For Wonders | 3.00% | ~137 |
+| Been there, Done That | 3.00% | ~138 |
+| Apocalypso | 3.00% | ~138 |
+| Narcissist | 3.00% | ~138 |
+| Promising Endeavors | 3.00% | ~138 |
+| The Time For Wonders | 3.00% | ~138 |
 | Chain Gang | 2.00% | ~92 |
 | One Does Not Simply Stage A Coup | 2.00% | ~92 |
 | Sublime Subliminal Supreme | 2.00% | ~92 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~41 |
 | My Ways | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,581 (Ranked 143)  
+Progressed: 4,584 (Ranked 143)  
 Completed: 2 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,6 +153,7 @@ Completed: 2 (0.04%) (Ranked 218)
 | 2023-08-01 | 4,521 | 2 |
 | 2023-08-02 | 4,564 | 2 |
 | 2023-08-03 | 4,581 | 2 |
+| 2023-08-04 | 4,584 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 341)  
 Sum: 672 (Ranked 276)  

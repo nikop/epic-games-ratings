@@ -2,12 +2,12 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 590,
+  "Ranking_Rating": 589,
   "Ranking_Popularity": 335,
   "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1155,9 +1155,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 7985,
+  "EOS_Progressed": 7987,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9715,6 +9715,11 @@
       "Time": "2023-08-03T23:07:46.5479861+00:00",
       "NumProgressed": 7985,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T02:01:44.7466206+00:00",
+      "NumProgressed": 7987,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -9726,7 +9731,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4791
+      "UsersEstimate": 4792
     },
     {
       "ID": "10",
@@ -9758,7 +9763,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4232
+      "UsersEstimate": 4233
     },
     {
       "ID": "14",
@@ -9766,7 +9771,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2716
     },
     {
       "ID": "15",
@@ -9782,7 +9787,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3274
+      "UsersEstimate": 3275
     },
     {
       "ID": "17",
@@ -9806,7 +9811,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4152
+      "UsersEstimate": 4153
     },
     {
       "ID": "2",
@@ -9822,7 +9827,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 3034
+      "UsersEstimate": 3035
     },
     {
       "ID": "21",
@@ -9830,7 +9835,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2475
+      "UsersEstimate": 2476
     },
     {
       "ID": "22",
@@ -9838,7 +9843,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5749
+      "UsersEstimate": 5751
     },
     {
       "ID": "23",
@@ -9846,7 +9851,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2716
     },
     {
       "ID": "24",
@@ -9854,7 +9859,7 @@
       "Name": "It\u0027s a Finnish Thing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "25",
@@ -9870,7 +9875,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "27",
@@ -9878,7 +9883,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "28",
@@ -9950,7 +9955,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1518
     },
     {
       "ID": "36",
@@ -9966,7 +9971,7 @@
       "Name": "Spreading Influence",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "38",
@@ -9974,7 +9979,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3513
+      "UsersEstimate": 3514
     },
     {
       "ID": "39",
@@ -10046,7 +10051,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2076
+      "UsersEstimate": 2077
     },
     {
       "ID": "47",
@@ -10054,7 +10059,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "48",
@@ -10118,7 +10123,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "55",
@@ -10174,7 +10179,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2475
+      "UsersEstimate": 2476
     },
     {
       "ID": "8",
@@ -10197,15 +10202,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 7985,
+      "Progressed": 7987,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-02T01:50:50.0712664+00:00",
-  "LastChanged_Achievements": "2023-08-04T00:07:05.6466174+00:00",
+  "LastChanged_Achievements": "2023-08-04T02:01:44.7466201+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:46.4035157+00:00",
-  "LastUpdate_Ratings": "2023-08-04T00:01:39.6034546+00:00",
-  "LastUpdate_Achievements": "2023-08-04T00:07:05.6467314+00:00"
+  "LastUpdate_Ratings": "2023-08-04T01:56:21.0110858+00:00",
+  "LastUpdate_Achievements": "2023-08-04T02:01:44.7468184+00:00"
 }

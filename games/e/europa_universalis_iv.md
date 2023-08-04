@@ -6,40 +6,40 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~7,029 |
-| That's a Grand Army | 8.00% | ~6,248 |
-| That is mine! | 8.00% | ~6,248 |
-| Victorious! | 8.00% | ~6,248 |
-| Brothers in Arms | 6.00% | ~4,686 |
-| That's a Grand Navy | 6.00% | ~4,686 |
-| Seriously?! | 6.00% | ~4,686 |
-| For the Glory | 5.00% | ~3,905 |
-| Cold War | 4.00% | ~3,124 |
-| True Catholic | 4.00% | ~3,124 |
-| Defender of the Faith | 3.00% | ~2,343 |
-| It's all about luck | 3.00% | ~2,343 |
-| It's all about the money | 3.00% | ~2,343 |
-| Respected | 3.00% | ~2,343 |
-| The Princess is in this Castle | 3.00% | ~2,343 |
-| Truly Divine Ruler | 3.00% | ~2,343 |
-| Agressive Expander | 2.00% | ~1,562 |
-| Blockader | 2.00% | ~1,562 |
-| Combined Arms | 2.00% | ~1,562 |
-| Double the Love | 2.00% | ~1,562 |
-| My armies are invincible! | 2.00% | ~1,562 |
-| Queen of Conquest | 2.00% | ~1,562 |
-| Royal Authority | 2.00% | ~1,562 |
-| Total Control | 2.00% | ~1,562 |
-| All That's Thine Shall Be Mine | 1.00% | ~781 |
-| Azur semé de lis or | 1.00% | ~781 |
-| Bright Spark | 1.00% | ~781 |
-| City of Cities | 1.00% | ~781 |
-| The Emperors new clothes | 1.00% | ~781 |
-| Factionalism | 1.00% | ~781 |
-| Gentle Persuasion | 1.00% | ~781 |
-| A Golden Empire | 1.00% | ~781 |
-| The Five Colonies | 1.00% | ~781 |
-| This navy can take it all | 1.00% | ~781 |
+| Until death do us apart | 9.00% | ~7,034 |
+| That's a Grand Army | 8.00% | ~6,252 |
+| Victorious! | 8.00% | ~6,252 |
+| That is mine! | 7.00% | ~5,471 |
+| Brothers in Arms | 6.00% | ~4,689 |
+| That's a Grand Navy | 6.00% | ~4,689 |
+| Seriously?! | 6.00% | ~4,689 |
+| For the Glory | 5.00% | ~3,908 |
+| Cold War | 4.00% | ~3,126 |
+| True Catholic | 4.00% | ~3,126 |
+| Defender of the Faith | 3.00% | ~2,345 |
+| It's all about luck | 3.00% | ~2,345 |
+| It's all about the money | 3.00% | ~2,345 |
+| Respected | 3.00% | ~2,345 |
+| The Princess is in this Castle | 3.00% | ~2,345 |
+| Truly Divine Ruler | 3.00% | ~2,345 |
+| Agressive Expander | 2.00% | ~1,563 |
+| Blockader | 2.00% | ~1,563 |
+| Combined Arms | 2.00% | ~1,563 |
+| Double the Love | 2.00% | ~1,563 |
+| My armies are invincible! | 2.00% | ~1,563 |
+| Queen of Conquest | 2.00% | ~1,563 |
+| Royal Authority | 2.00% | ~1,563 |
+| Total Control | 2.00% | ~1,563 |
+| All That's Thine Shall Be Mine | 1.00% | ~782 |
+| Azur semé de lis or | 1.00% | ~782 |
+| Bright Spark | 1.00% | ~782 |
+| City of Cities | 1.00% | ~782 |
+| The Emperors new clothes | 1.00% | ~782 |
+| Factionalism | 1.00% | ~782 |
+| Gentle Persuasion | 1.00% | ~782 |
+| A Golden Empire | 1.00% | ~782 |
+| The Five Colonies | 1.00% | ~782 |
+| This navy can take it all | 1.00% | ~782 |
 | Down Under | 0.90% | ~703 |
 | Isn't this the way to India? | 0.90% | ~703 |
 | Market Control | 0.90% | ~703 |
@@ -60,18 +60,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | Live Long and Prosper | 0.50% | ~391 |
 | Trophy Hunter | 0.50% | ~391 |
 | Voting Streak | 0.50% | ~391 |
-| All Your Trade Are Belong to Us | 0.40% | ~312 |
-| Bleed Them Dry | 0.40% | ~312 |
-| Dude, Where's my Boat? | 0.40% | ~312 |
-| Four For Trade | 0.40% | ~312 |
-| Global Hegemony | 0.40% | ~312 |
-| Italian Ambition | 0.40% | ~312 |
-| Just a Little Patience | 0.40% | ~312 |
-| One Night in Paris | 0.40% | ~312 |
-| Tear Down This Wall | 0.40% | ~312 |
-| The Continuation of Diplomacy | 0.40% | ~312 |
-| Traditional Player | 0.40% | ~312 |
-| Wonderful | 0.40% | ~312 |
+| All Your Trade Are Belong to Us | 0.40% | ~313 |
+| Bleed Them Dry | 0.40% | ~313 |
+| Dude, Where's my Boat? | 0.40% | ~313 |
+| Four For Trade | 0.40% | ~313 |
+| Global Hegemony | 0.40% | ~313 |
+| Italian Ambition | 0.40% | ~313 |
+| Just a Little Patience | 0.40% | ~313 |
+| One Night in Paris | 0.40% | ~313 |
+| Tear Down This Wall | 0.40% | ~313 |
+| The Continuation of Diplomacy | 0.40% | ~313 |
+| Traditional Player | 0.40% | ~313 |
+| Wonderful | 0.40% | ~313 |
 | A Decent Reserve | 0.30% | ~234 |
 | A Pile of Gold | 0.30% | ~234 |
 | A Fine Goosestep | 0.30% | ~234 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,101 (Ranked 76)  
+Progressed: 78,154 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -467,7 +467,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-08-01 | 77,006 | 0 |
 | 2023-08-02 | 77,371 | 0 |
 | 2023-08-03 | 78,060 | 0 |
-| 2023-08-04 | 78,101 | 0 |
+| 2023-08-04 | 78,154 | 0 |
 ## Awards
 Max (Educational): 5,611  (Ranked 62)  
 Sum: 46,303 (Ranked 26)  

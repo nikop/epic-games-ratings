@@ -13,8 +13,8 @@ Rating: 4.35 (Ranked 746)
 | The Bracelet | 64.00% | ~262 |
 | The Blackmail | 55.00% | ~225 |
 | Major Felix Hagen | 55.00% | ~225 |
+| Florette Duval | 54.00% | ~221 |
 | Fine-toothed Comb | 53.00% | ~217 |
-| Florette Duval | 53.00% | ~217 |
 | Order and Method | 52.00% | ~213 |
 | The Altercation | 50.00% | ~204 |
 | Truth from Within | 49.00% | ~200 |
