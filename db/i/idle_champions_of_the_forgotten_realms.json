@@ -5530,9 +5530,9 @@
       "Count": 3338
     }
   ],
-  "EOS_Progressed": 218462,
+  "EOS_Progressed": 218471,
   "EOS_Completed": 2149,
-  "EOS_NewPlayers": 2215,
+  "EOS_NewPlayers": 2216,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16925,6 +16925,11 @@
       "Time": "2023-08-04T05:02:47.511906+00:00",
       "NumProgressed": 218462,
       "NumCompleted": 2149
+    },
+    {
+      "Time": "2023-08-04T06:03:07.4433177+00:00",
+      "NumProgressed": 218471,
+      "NumCompleted": 2149
     }
   ],
   "TotalAchievements": 512,
@@ -16936,7 +16941,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8738
+      "UsersEstimate": 8739
     },
     {
       "ID": "objective_completed_10",
@@ -18246,9 +18251,9 @@
       "ID": "objective_completed_186",
       "SetID": "cc37lbc",
       "Name": "Azaka\u0027s Procession - Part 2",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 655
     },
     {
       "ID": "objective_completed_187",
@@ -18974,9 +18979,9 @@
       "ID": "objective_completed_423",
       "SetID": "cc37lbc",
       "Name": "Enter the Sargauth",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 655
     },
     {
       "ID": "objective_completed_424",
@@ -21031,21 +21036,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184736,
+      "Progressed": 184745,
       "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218462,
+      "Progressed": 218471,
       "Completed": 2149
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-03T21:59:40.9587957+00:00",
-  "LastChanged_Achievements": "2023-08-04T05:02:47.5119053+00:00",
+  "LastChanged_Achievements": "2023-08-04T06:03:07.4433167+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-04T04:59:25.0796568+00:00",
-  "LastUpdate_Achievements": "2023-08-04T05:02:47.5148385+00:00"
+  "LastUpdate_Ratings": "2023-08-04T05:59:31.5043167+00:00",
+  "LastUpdate_Achievements": "2023-08-04T06:03:07.4464291+00:00"
 }

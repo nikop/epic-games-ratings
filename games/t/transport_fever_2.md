@@ -31,8 +31,8 @@ Number of Ratings: 180  (23.09.2022)
 | Exemplary student | 41.00% | ~624 |
 | Mass production | 35.00% | ~533 |
 | Aircraft entrepreneur | 33.00% | ~503 |
+| Crowd in a train | 32.00% | ~487 |
 | The future is now, old man | 32.00% | ~487 |
-| Crowd in a train | 31.00% | ~472 |
 | Not in my backyard | 30.00% | ~457 |
 | The king of the sea | 29.00% | ~442 |
 | City | 28.00% | ~426 |
@@ -174,8 +174,8 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-08-04 | 1,523 | 0 |
 ## Awards
 Max (Highly Recommended): 40  (Ranked 424)  
-Sum: 277 (Ranked 343)  
-Diff (max vs sum): 81  
+Sum: 277 (Ranked 344)  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 40 |

@@ -4,11 +4,11 @@
   "ProductSlug": "sunless-sea",
   "Ranking_Rating": 425,
   "Ranking_Popularity": 268,
-  "Ranking_PopularitySum": 340,
+  "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 34833,
+  "EOS_Progressed": 34835,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11345,6 +11345,11 @@
       "Time": "2023-08-04T04:04:42.3894654+00:00",
       "NumProgressed": 34833,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-04T06:05:01.4583259+00:00",
+      "NumProgressed": 34835,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -11476,7 +11481,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 12540
+      "UsersEstimate": 12541
     },
     {
       "ID": "ach_die10",
@@ -11484,7 +11489,7 @@
       "Name": "Never Stop Sinking...",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ach_die5",
@@ -11644,7 +11649,7 @@
       "Name": "Leviathan",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ach_portpearls",
@@ -11660,7 +11665,7 @@
       "Name": "No regrets",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ach_portrose",
@@ -11740,7 +11745,7 @@
       "Name": "Depth charge",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ach_underpressure",
@@ -11787,15 +11792,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 34833,
+      "Progressed": 34835,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-08-04T05:04:48.4989413+00:00",
+  "LastChanged_Achievements": "2023-08-04T06:05:01.4583254+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:30.3882701+00:00",
-  "LastUpdate_Ratings": "2023-08-04T05:01:29.1504284+00:00",
-  "LastUpdate_Achievements": "2023-08-04T05:04:48.4991469+00:00"
+  "LastUpdate_Ratings": "2023-08-04T06:01:27.1905275+00:00",
+  "LastUpdate_Achievements": "2023-08-04T06:05:01.4584386+00:00"
 }

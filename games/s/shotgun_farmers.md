@@ -5,15 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 75.00% | ~182 |
-| Aspairagus | 57.00% | ~109 |
+| Aspairagus | 57.00% | ~110 |
 | First Blood | 56.00% | ~136 |
 | Triple Kill | 56.00% | ~136 |
 | Survivor | 56.00% | ~108 |
-| No Asperascope | 52.00% | ~126 |
-| Cornivore | 51.00% | ~123 |
-| I Believe I Can Fly | 48.00% | ~116 |
+| No Asperascope | 51.00% | ~124 |
+| Cornivore | 51.00% | ~124 |
+| I Believe I Can Fly | 47.00% | ~114 |
 | Early Survivor | 43.00% | ~83 |
-| No Diggity | 41.00% | ~79 |
+| No Diggity | 42.00% | ~81 |
 | Amateur Survivor | 31.00% | ~60 |
 | Bouncemato | 30.00% | ~58 |
 | 10K | 29.00% | ~70 |
@@ -36,7 +36,7 @@
 | Expert Survivor | 10.00% | ~19 |
 | Bring Home The Bacon | 8.00% | ~19 |
 | Quadsparagus | 8.00% | ~15 |
-| Pyromaniac | 7.00% | ~13 |
+| Pyromaniac | 7.00% | ~14 |
 | Chick Magnet | 5.00% | ~12 |
 | I Have The High Ground | 5.00% | ~12 |
 | Early Bird | 5.00% | ~12 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242 (Ranked 268)  
+Progressed: 243 (Ranked 267)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,6 +158,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-07-31 | 238 | 0 |
 | 2023-08-02 | 239 | 0 |
 | 2023-08-03 | 242 | 0 |
+| 2023-08-04 | 243 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

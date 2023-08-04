@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -243,9 +243,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1950,
+  "EOS_Progressed": 1951,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -2058,6 +2058,11 @@
       "Time": "2023-08-04T01:59:48.5270069+00:00",
       "NumProgressed": 1950,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-04T06:04:47.8341256+00:00",
+      "NumProgressed": 1951,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -2083,9 +2088,9 @@
       "ID": "ACHV_03",
       "SetID": "8p5mlmc",
       "Name": "Dead Again",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 351
     },
     {
       "ID": "ACHV_04",
@@ -2117,7 +2122,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACHV_08",
@@ -2141,7 +2146,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACHV_11",
@@ -2157,7 +2162,7 @@
       "Name": "Reverse Engineering",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHV_13",
@@ -2189,7 +2194,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHV_17",
@@ -2253,7 +2258,7 @@
       "Name": "Gotta Craft \u0027em All",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHV_25",
@@ -2269,7 +2274,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "ACHV_27",
@@ -2341,7 +2346,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACHV_36",
@@ -2349,7 +2354,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACHV_37",
@@ -2371,9 +2376,9 @@
       "ID": "ACHV_39",
       "SetID": "8p5mlmc",
       "Name": "Don\u0027t I Know You...?",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1483
     },
     {
       "ID": "ACHV_40",
@@ -2429,7 +2434,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACHV_47",
@@ -2524,7 +2529,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1950,
+      "Progressed": 1951,
       "Completed": 10
     }
   ],
@@ -2532,8 +2537,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-08-04T05:04:32.6861755+00:00",
+  "LastChanged_Achievements": "2023-08-04T06:04:47.8341249+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:20.3642762+00:00",
-  "LastUpdate_Ratings": "2023-08-04T04:57:22.3986158+00:00",
-  "LastUpdate_Achievements": "2023-08-04T05:04:32.6862943+00:00"
+  "LastUpdate_Ratings": "2023-08-04T05:57:35.8418414+00:00",
+  "LastUpdate_Achievements": "2023-08-04T06:04:47.8341943+00:00"
 }

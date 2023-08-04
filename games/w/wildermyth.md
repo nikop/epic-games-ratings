@@ -7,20 +7,20 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 39.00% | ~528 |
-| Me and My Familiar | 36.00% | ~487 |
+| Me and My Familiar | 36.00% | ~488 |
 | This Too Shall Pass | 30.00% | ~406 |
 | Passing Shadow | 29.00% | ~393 |
 | Cutthroat Competitors | 29.00% | ~393 |
 | How Romantic! | 27.00% | ~366 |
 | Daybreak | 27.00% | ~366 |
-| Gotta Ca... Must Collect All of Them | 25.00% | ~338 |
+| Gotta Ca... Must Collect All of Them | 25.00% | ~339 |
 | Completing the Look | 14.00% | ~190 |
 | War Endured | 14.00% | ~190 |
 | A Mythic Menagerie | 13.00% | ~176 |
 | Who's Counting? | 13.00% | ~176 |
 | Core Failure | 13.00% | ~176 |
 | Pyrrhic Victory | 11.00% | ~149 |
-| Echoes Die | 10.00% | ~135 |
+| Echoes Die | 10.00% | ~136 |
 | Thematic Divergence | 9.00% | ~122 |
 | Chain Reaction | 8.00% | ~108 |
 | Everfading | 8.00% | ~108 |
@@ -29,11 +29,11 @@ Number of Ratings: 45  (23.09.2022)
 | Another Tale to Tell | 7.00% | ~95 |
 | A Story of Heroes | 7.00% | ~95 |
 | All My Birds, Safely Home | 6.00% | ~81 |
+| Turncoat | 6.00% | ~81 |
 | Legends Never Die | 5.00% | ~68 |
 | In Soil, In Smoke | 5.00% | ~68 |
 | A Hunger, Sated | 5.00% | ~68 |
 | Wingknight's Prowess | 5.00% | ~68 |
-| Turncoat | 5.00% | ~68 |
 | Worldwalker | 4.00% | ~54 |
 | Grillmaster | 4.00% | ~54 |
 | No Time for Clawmonsters | 4.00% | ~54 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.80% | ~11 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,354 (Ranked 182)  
+Progressed: 1,355 (Ranked 182)  
 Completed: 5 (0.37%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,6 +156,7 @@ Completed: 5 (0.37%) (Ranked 149)
 | 2023-07-31 | 1,347 | 5 |
 | 2023-08-01 | 1,348 | 5 |
 | 2023-08-03 | 1,354 | 5 |
+| 2023-08-04 | 1,355 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 466)  
 Sum: 28 (Ranked 477)  

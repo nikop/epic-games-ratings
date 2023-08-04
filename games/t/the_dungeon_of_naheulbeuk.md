@@ -6,17 +6,17 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~121,477 |
-| Where's that freaking Dwarf? | 47.00% | ~96,770 |
-| GG EZ | 28.00% | ~57,650 |
-| Speedrun | 26.00% | ~53,532 |
-| Déjà vu | 21.00% | ~43,238 |
-| Sock! SOCK! | 17.00% | ~35,002 |
-| DM intervention | 13.00% | ~26,766 |
-| Fireproof Wizardess | 10.00% | ~20,589 |
-| Livin' in a dwarven paradise | 8.00% | ~16,471 |
-| A beer, two curses, three companions | 8.00% | ~16,471 |
-| Way of the Wimp | 7.00% | ~14,413 |
+| Alt+F4 | 59.00% | ~121,486 |
+| Where's that freaking Dwarf? | 47.00% | ~96,777 |
+| GG EZ | 28.00% | ~57,654 |
+| Speedrun | 26.00% | ~53,536 |
+| Déjà vu | 21.00% | ~43,241 |
+| Sock! SOCK! | 17.00% | ~35,004 |
+| DM intervention | 13.00% | ~26,768 |
+| Fireproof Wizardess | 10.00% | ~20,591 |
+| Livin' in a dwarven paradise | 8.00% | ~16,473 |
+| A beer, two curses, three companions | 8.00% | ~16,473 |
+| Way of the Wimp | 7.00% | ~14,414 |
 | The plot thickens... At the tavern | 5.00% | ~10,295 |
 | The Woman in the High Castle | 4.00% | ~8,236 |
 | I am the night | 4.00% | ~8,236 |
@@ -47,11 +47,11 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 1.00% | ~2,059 |
 | Lëgal Legend | 0.90% | ~1,853 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,441 |
-| Holistic Adventuring Party | 0.50% | ~1,029 |
-| Scholar of the Lands of Fangh | 0.50% | ~1,029 |
-| Friendly fire | 0.50% | ~1,029 |
-| I'd rather... Just... Sing! | 0.50% | ~1,029 |
-| The number of the counting shalt be 7 | 0.50% | ~1,029 |
+| Holistic Adventuring Party | 0.50% | ~1,030 |
+| Scholar of the Lands of Fangh | 0.50% | ~1,030 |
+| Friendly fire | 0.50% | ~1,030 |
+| I'd rather... Just... Sing! | 0.50% | ~1,030 |
+| The number of the counting shalt be 7 | 0.50% | ~1,030 |
 | The Blood Countess | 0.30% | ~618 |
 | Insult to injury | 0.30% | ~618 |
 | We come in peace | 0.30% | ~618 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,893 (Ranked 55)  
+Progressed: 205,908 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-08-01 | 204,538 | 0 |
 | 2023-08-02 | 205,167 | 0 |
 | 2023-08-03 | 205,780 | 0 |
-| 2023-08-04 | 205,893 | 0 |
+| 2023-08-04 | 205,908 | 0 |
 ## Awards
 Max (Character Customization): 149  (Ranked 295)  
 Sum: 149 (Ranked 392)  

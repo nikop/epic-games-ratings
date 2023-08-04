@@ -1375,9 +1375,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 191032,
+  "EOS_Progressed": 191036,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1894,
+  "EOS_NewPlayers": 1886,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12980,6 +12980,11 @@
       "Time": "2023-08-04T05:02:25.8661481+00:00",
       "NumProgressed": 191032,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-08-04T06:02:18.3463461+00:00",
+      "NumProgressed": 191036,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 44,
@@ -13031,7 +13036,7 @@
       "Name": "Disguised",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13372
+      "UsersEstimate": 13373
     },
     {
       "ID": "FiveShadows",
@@ -13111,7 +13116,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 13372
+      "UsersEstimate": 13373
     },
     {
       "ID": "Mercyful",
@@ -13207,7 +13212,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13372
+      "UsersEstimate": 13373
     },
     {
       "ID": "Rollin",
@@ -13239,7 +13244,7 @@
       "Name": "Stoned Ox",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13372
+      "UsersEstimate": 13373
     },
     {
       "ID": "TanukiTime",
@@ -13342,15 +13347,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 191032,
+      "Progressed": 191036,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-01T15:01:04.9218002+00:00",
-  "LastChanged_Achievements": "2023-08-04T05:02:25.8661473+00:00",
+  "LastChanged_Achievements": "2023-08-04T06:02:18.3463456+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:58.4166867+00:00",
-  "LastUpdate_Ratings": "2023-08-04T05:00:39.689325+00:00",
-  "LastUpdate_Achievements": "2023-08-04T05:02:25.8662559+00:00"
+  "LastUpdate_Ratings": "2023-08-04T06:00:42.9429378+00:00",
+  "LastUpdate_Achievements": "2023-08-04T06:02:18.3464582+00:00"
 }

@@ -106,6 +106,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.40% | ~53 |
 | Bad Heir Day | 0.30% | ~40 |
 | Ishtar Gate in Babylon | 0.30% | ~40 |
+| Capable | 0.30% | ~40 |
 | Invincible | 0.30% | ~40 |
 | Ready | 0.30% | ~40 |
 | Subjugator | 0.30% | ~40 |
@@ -131,7 +132,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
 | Carthage - Ox Hide | 0.20% | ~27 |
-| Capable | 0.20% | ~27 |
 | Old | 0.20% | ~27 |
 | Peacemaker | 0.20% | ~27 |
 | Glorious Difficulty | 0.20% | ~27 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5033,
+  "EOS_Progressed": 5035,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 0,
@@ -7806,6 +7806,11 @@
       "Time": "2023-08-04T05:08:06.3706017+00:00",
       "NumProgressed": 5033,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T06:07:58.6588766+00:00",
+      "NumProgressed": 5035,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -7817,7 +7822,7 @@
       "Name": "First Step",
       "Percentage": 39,
       "XP": 45,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "10",
@@ -7833,7 +7838,7 @@
       "Name": "Telepathic",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "12",
@@ -7889,7 +7894,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "5",
@@ -7936,7 +7941,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5033,
+      "Progressed": 5035,
       "Completed": 0
     }
   ],
@@ -7944,8 +7949,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-08-04T05:08:06.370601+00:00",
+  "LastChanged_Achievements": "2023-08-04T06:07:58.658876+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.1828699+00:00",
-  "LastUpdate_Ratings": "2023-08-04T04:59:14.0751445+00:00",
-  "LastUpdate_Achievements": "2023-08-04T05:08:06.3706817+00:00"
+  "LastUpdate_Ratings": "2023-08-04T05:59:19.3874443+00:00",
+  "LastUpdate_Achievements": "2023-08-04T06:07:58.6589362+00:00"
 }

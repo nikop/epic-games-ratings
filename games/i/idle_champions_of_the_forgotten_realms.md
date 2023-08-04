@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,738 |
+| A Brief Tour of the Realms | 4.00% | ~8,739 |
 | Beast Intentions | 3.00% | ~6,554 |
 | Maddening | 2.00% | ~4,369 |
 | The Silken Swamp | 1.00% | ~2,185 |
@@ -107,6 +107,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Grand Puzzle | 0.30% | ~655 |
 | Azaka's Procession - Part 1 | 0.30% | ~655 |
 | Tomb of the Nine Gods | 0.30% | ~655 |
+| Azaka's Procession - Part 2 | 0.30% | ~655 |
 | The Hunt for Owl-y | 0.30% | ~655 |
 | Werewolves in the Mist | 0.30% | ~655 |
 | Chatty Nobles | 0.30% | ~655 |
@@ -122,6 +123,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fugitives | 0.30% | ~655 |
 | Premature Betrayal | 0.30% | ~655 |
 | Hopelessly Lost | 0.30% | ~655 |
+| Enter the Sargauth | 0.30% | ~655 |
 | A Tale of Two Cities | 0.30% | ~655 |
 | The Dead Three | 0.30% | ~655 |
 | Flying Monkey Skulls of Doom | 0.30% | ~655 |
@@ -177,7 +179,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.20% | ~437 |
 | Double Vision | 0.20% | ~437 |
 | The Newcomers of Notoriety | 0.20% | ~369 |
-| Azaka's Procession - Part 2 | 0.20% | ~437 |
 | We're not in Faerûn Anymore | 0.20% | ~437 |
 | Haunted Fortunes | 0.20% | ~437 |
 | Thine Bounty is Mine! | 0.20% | ~369 |
@@ -196,7 +197,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Excavating History | 0.20% | ~437 |
 | Towering Expectations | 0.20% | ~437 |
 | Cramped Quarters | 0.20% | ~437 |
-| Enter the Sargauth | 0.20% | ~437 |
 | Slow and Steady | 0.20% | ~437 |
 | Lair of the Xanathar | 0.20% | ~437 |
 | Waterdeep Under Siege | 0.20% | ~437 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,462 (Ranked 53)  
+Progressed: 218,471 (Ranked 53)  
 Completed: 2,149 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -625,7 +625,7 @@ Completed: 2,149 (0.98%) (Ranked 112)
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
-| 2023-08-04 | 218,462 | 2,149 |
+| 2023-08-04 | 218,471 | 2,149 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,886 (Ranked 38)  

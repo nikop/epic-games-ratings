@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Mega City | 100.00% | ~29 |
+| Welcome to Mega City | 103.00% | ~30 |
 | Law and Order | 76.00% | ~22 |
-| Licence To Kill | 66.00% | ~19 |
+| Licence To Kill | 69.00% | ~20 |
 | Hammer Time | 41.00% | ~12 |
 | Escape From M.C. | 28.00% | ~8 |
 | Restore Honor | 24.00% | ~7 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16843,
+  "EOS_Progressed": 16846,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7234,
+  "EOS_NewPlayers": 7131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7233,6 +7233,11 @@
       "Time": "2023-08-04T05:04:30.1085008+00:00",
       "NumProgressed": 16843,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-04T06:04:45.5105773+00:00",
+      "NumProgressed": 16846,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -7244,7 +7249,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5053
+      "UsersEstimate": 5054
     },
     {
       "ID": "0002",
@@ -7260,7 +7265,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "0004",
@@ -7308,7 +7313,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3874
+      "UsersEstimate": 3875
     },
     {
       "ID": "0010",
@@ -7348,7 +7353,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "0015",
@@ -7372,7 +7377,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3200
+      "UsersEstimate": 3201
     },
     {
       "ID": "0018",
@@ -7380,7 +7385,7 @@
       "Name": "In It to Win It",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "0019",
@@ -7428,7 +7433,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3705
+      "UsersEstimate": 3706
     },
     {
       "ID": "0025",
@@ -7444,7 +7449,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "0027",
@@ -7460,7 +7465,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3874
+      "UsersEstimate": 3875
     },
     {
       "ID": "0029",
@@ -7484,7 +7489,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "0032",
@@ -7492,7 +7497,7 @@
       "Name": "Killer Looks",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "0033",
@@ -7500,7 +7505,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "0034",
@@ -7508,7 +7513,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "0035",
@@ -7531,7 +7536,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 16843,
+      "Progressed": 16846,
       "Completed": 1
     }
   ],
@@ -7539,8 +7544,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-02T22:01:16.8257648+00:00",
-  "LastChanged_Achievements": "2023-08-04T05:04:30.1084998+00:00",
+  "LastChanged_Achievements": "2023-08-04T06:04:45.5105767+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:28.2482926+00:00",
-  "LastUpdate_Ratings": "2023-08-04T05:01:22.6070801+00:00",
-  "LastUpdate_Achievements": "2023-08-04T05:04:30.1086238+00:00"
+  "LastUpdate_Ratings": "2023-08-04T06:01:20.2314456+00:00",
+  "LastUpdate_Achievements": "2023-08-04T06:04:45.5106652+00:00"
 }

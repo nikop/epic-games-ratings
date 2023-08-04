@@ -5,25 +5,25 @@ Rating: 4.43 (Ranked 658)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~54,806 |
+| No aid from the Omnissiah | 25.00% | ~54,807 |
 | This is only the beginning | 19.00% | ~41,653 |
 | Knowledge is power | 12.00% | ~26,307 |
-| Power Ranger | 9.00% | ~19,730 |
-| Galvanic Rifle | 9.00% | ~19,730 |
-| Taser Goad | 9.00% | ~19,730 |
-| Radium Ready | 9.00% | ~19,730 |
-| Half a cog | 9.00% | ~19,730 |
-| Watch them crumble | 6.00% | ~13,153 |
+| Power Ranger | 9.00% | ~19,731 |
+| Galvanic Rifle | 9.00% | ~19,731 |
+| Taser Goad | 9.00% | ~19,731 |
+| Radium Ready | 9.00% | ~19,731 |
+| Half a cog | 9.00% | ~19,731 |
+| Watch them crumble | 6.00% | ~13,154 |
 | Competent Cohort | 4.00% | ~8,769 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,769 |
 | One with the Machine | 4.00% | ~8,769 |
 | Legio Cybernetica | 3.00% | ~6,577 |
 | Fleshy Disposal | 3.00% | ~6,577 |
-| Battle Servitor | 2.00% | ~4,384 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,384 |
-| Impatient destruction | 2.00% | ~4,384 |
-| Vivisected Vizier | 2.00% | ~4,384 |
-| Architect Abortion | 2.00% | ~4,384 |
+| Battle Servitor | 2.00% | ~4,385 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,385 |
+| Impatient destruction | 2.00% | ~4,385 |
+| Vivisected Vizier | 2.00% | ~4,385 |
+| Architect Abortion | 2.00% | ~4,385 |
 | Cohortus Maximus | 0.80% | ~1,754 |
 | Mother of Xenarites | 0.40% | ~877 |
 | False God | 0.30% | ~658 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 658)
 | Perma-live | 0.10% | ~219 |
 | Purge the Heretek | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,224 (Ranked 52)  
+Progressed: 219,228 (Ranked 52)  
 Completed: 4 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,11 +146,11 @@ Completed: 4 (0.00%) (Ranked 247)
 | 2023-08-01 | 219,037 | 4 |
 | 2023-08-02 | 219,121 | 4 |
 | 2023-08-03 | 219,210 | 4 |
-| 2023-08-04 | 219,224 | 4 |
+| 2023-08-04 | 219,228 | 4 |
 ## Awards
-Max (Highly Recommended): 280  (Ranked 238)  
+Max (Highly Recommended): 280  (Ranked 239)  
 Sum: 2,124 (Ranked 193)  
-Diff (max vs sum): 45  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 280 |

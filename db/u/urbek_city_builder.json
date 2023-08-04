@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 300,
+  "EOS_Progressed": 301,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -857,6 +857,11 @@
       "Time": "2023-08-03T13:09:26.7285718+00:00",
       "NumProgressed": 300,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T06:03:08.448131+00:00",
+      "NumProgressed": 301,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1196,7 +1201,7 @@
       "Name": "I like parks",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -1300,7 +1305,7 @@
       "Name": "Small town",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "POPULATION_2",
@@ -1499,7 +1504,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 300,
+      "Progressed": 301,
       "Completed": 0
     }
   ],
@@ -1507,8 +1512,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-08-04T05:02:49.3116094+00:00",
+  "LastChanged_Achievements": "2023-08-04T06:03:08.4481303+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:43.1827432+00:00",
-  "LastUpdate_Ratings": "2023-08-04T05:00:22.129537+00:00",
-  "LastUpdate_Achievements": "2023-08-04T05:02:49.3117779+00:00"
+  "LastUpdate_Ratings": "2023-08-04T06:00:23.3012261+00:00",
+  "LastUpdate_Achievements": "2023-08-04T06:03:08.448225+00:00"
 }

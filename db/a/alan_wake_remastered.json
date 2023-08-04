@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60170,
+  "EOS_Progressed": 60173,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 1080,
+  "EOS_NewPlayers": 1077,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10132,6 +10132,11 @@
       "Time": "2023-08-04T05:05:19.5259719+00:00",
       "NumProgressed": 60170,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-08-04T06:05:27.9765769+00:00",
+      "NumProgressed": 60173,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 67,
@@ -10143,7 +10148,7 @@
       "Name": "Follow the Light",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 21661
+      "UsersEstimate": 21662
     },
     {
       "ID": "02",
@@ -10151,7 +10156,7 @@
       "Name": "Nordic Walking",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13237
+      "UsersEstimate": 13238
     },
     {
       "ID": "03",
@@ -10159,7 +10164,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13237
+      "UsersEstimate": 13238
     },
     {
       "ID": "04",
@@ -10175,7 +10180,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 11432
+      "UsersEstimate": 11433
     },
     {
       "ID": "06",
@@ -10183,7 +10188,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9627
+      "UsersEstimate": 9628
     },
     {
       "ID": "07",
@@ -10223,7 +10228,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3008
+      "UsersEstimate": 3009
     },
     {
       "ID": "12",
@@ -10239,7 +10244,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3008
+      "UsersEstimate": 3009
     },
     {
       "ID": "14",
@@ -10255,7 +10260,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5415
+      "UsersEstimate": 5416
     },
     {
       "ID": "16",
@@ -10279,7 +10284,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3008
+      "UsersEstimate": 3009
     },
     {
       "ID": "19",
@@ -10311,7 +10316,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7220
+      "UsersEstimate": 7221
     },
     {
       "ID": "23",
@@ -10351,7 +10356,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7220
+      "UsersEstimate": 7221
     },
     {
       "ID": "28",
@@ -10407,7 +10412,7 @@
       "Name": "Energized!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5415
+      "UsersEstimate": 5416
     },
     {
       "ID": "35",
@@ -10415,7 +10420,7 @@
       "Name": "Let There Be Light",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17449
+      "UsersEstimate": 17450
     },
     {
       "ID": "36",
@@ -10479,7 +10484,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9627
+      "UsersEstimate": 9628
     },
     {
       "ID": "44",
@@ -10678,21 +10683,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60170,
+      "Progressed": 60173,
       "Completed": 63
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23638,
+      "Progressed": 23641,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-04T05:05:19.5259709+00:00",
+  "LastChanged_Achievements": "2023-08-04T06:05:27.9765762+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:35.0351219+00:00",
-  "LastUpdate_Ratings": "2023-08-04T04:58:50.5607811+00:00",
-  "LastUpdate_Achievements": "2023-08-04T05:05:19.5262041+00:00"
+  "LastUpdate_Ratings": "2023-08-04T05:58:53.2189981+00:00",
+  "LastUpdate_Achievements": "2023-08-04T06:05:27.9767037+00:00"
 }
