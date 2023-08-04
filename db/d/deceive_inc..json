@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16824,
+  "EOS_Progressed": 16829,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8330,
+  "EOS_NewPlayers": 8076,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7208,6 +7208,11 @@
       "Time": "2023-08-03T23:05:10.652551+00:00",
       "NumProgressed": 16824,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-04T00:04:43.2706077+00:00",
+      "NumProgressed": 16829,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -7219,7 +7224,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5047
+      "UsersEstimate": 5049
     },
     {
       "ID": "0002",
@@ -7235,7 +7240,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2860
+      "UsersEstimate": 2861
     },
     {
       "ID": "0004",
@@ -7243,7 +7248,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "0005",
@@ -7275,7 +7280,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3028
+      "UsersEstimate": 3029
     },
     {
       "ID": "0009",
@@ -7283,7 +7288,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3870
+      "UsersEstimate": 3871
     },
     {
       "ID": "0010",
@@ -7307,7 +7312,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2692
+      "UsersEstimate": 2693
     },
     {
       "ID": "0013",
@@ -7323,7 +7328,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2860
+      "UsersEstimate": 2861
     },
     {
       "ID": "0015",
@@ -7347,7 +7352,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "0018",
@@ -7355,7 +7360,7 @@
       "Name": "In It to Win It",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "0019",
@@ -7379,7 +7384,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "0022",
@@ -7387,7 +7392,7 @@
       "Name": "PHD in VIP",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "0023",
@@ -7403,7 +7408,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3701
+      "UsersEstimate": 3702
     },
     {
       "ID": "0025",
@@ -7411,7 +7416,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3028
+      "UsersEstimate": 3029
     },
     {
       "ID": "0026",
@@ -7435,7 +7440,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3870
+      "UsersEstimate": 3871
     },
     {
       "ID": "0029",
@@ -7443,7 +7448,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2188
     },
     {
       "ID": "0030",
@@ -7451,7 +7456,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3028
+      "UsersEstimate": 3029
     },
     {
       "ID": "0031",
@@ -7506,7 +7511,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 16824,
+      "Progressed": 16829,
       "Completed": 1
     }
   ],
@@ -7514,8 +7519,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-02T22:01:16.8257648+00:00",
-  "LastChanged_Achievements": "2023-08-03T23:05:10.6525503+00:00",
+  "LastChanged_Achievements": "2023-08-04T00:04:43.2706071+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:28.2482926+00:00",
-  "LastUpdate_Ratings": "2023-08-03T23:01:57.4184897+00:00",
-  "LastUpdate_Achievements": "2023-08-03T23:05:10.6526368+00:00"
+  "LastUpdate_Ratings": "2023-08-04T00:01:21.7562978+00:00",
+  "LastUpdate_Achievements": "2023-08-04T00:04:43.2706816+00:00"
 }

@@ -7,13 +7,13 @@ Number of Ratings: 285  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Death Becomes You | 3.00% | ~17 |
+| Hit 'Em Where It Hurts | 3.00% | ~17 |
 | That'll Leave a Mark | 3.00% | ~17 |
 | Deadication | 2.00% | ~11 |
 | Debuff Dogpile | 2.00% | ~11 |
 | Faceroll the Bones | 2.00% | ~11 |
 | First Strike | 2.00% | ~11 |
 | Flawless Victory | 2.00% | ~11 |
-| Hit 'Em Where It Hurts | 2.00% | ~11 |
 | Mushroom Madness! | 2.00% | ~11 |
 | Perk Shard Punch Card | 2.00% | ~11 |
 | Season Finale | 2.00% | ~11 |

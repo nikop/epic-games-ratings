@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -9900,9 +9900,9 @@
       "ID": "3",
       "SetID": "8idi9ml",
       "Name": "Great Leader",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1837
     },
     {
       "ID": "30",
@@ -10204,8 +10204,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-02T01:50:50.0712664+00:00",
-  "LastChanged_Achievements": "2023-08-03T23:07:46.5479855+00:00",
+  "LastChanged_Achievements": "2023-08-04T00:07:05.6466174+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:46.4035157+00:00",
-  "LastUpdate_Ratings": "2023-08-03T23:02:18.7824917+00:00",
-  "LastUpdate_Achievements": "2023-08-03T23:07:46.5481309+00:00"
+  "LastUpdate_Ratings": "2023-08-04T00:01:39.6034546+00:00",
+  "LastUpdate_Achievements": "2023-08-04T00:07:05.6467314+00:00"
 }

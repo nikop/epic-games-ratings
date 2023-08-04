@@ -25,10 +25,10 @@ Number of Ratings: 836  (23.09.2022)
 | Catastrofan | 28.00% | ~2,236 |
 | Finders, Keepers | 26.00% | ~2,076 |
 | Top Notch | 25.00% | ~1,996 |
+| Great Leader | 23.00% | ~1,837 |
 | Ice Lakes | 23.00% | ~1,837 |
 | Mentor | 23.00% | ~1,837 |
 | Merchant | 22.00% | ~1,757 |
-| Great Leader | 22.00% | ~1,757 |
 | Real Survivor | 22.00% | ~1,757 |
 | Rocket Surgeon | 20.00% | ~1,597 |
 | War Never Changes | 19.00% | ~1,517 |

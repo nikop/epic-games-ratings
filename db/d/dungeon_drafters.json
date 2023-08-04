@@ -703,9 +703,9 @@
       "ID": "scavanger_curios",
       "SetID": "3b8n56h",
       "Name": "No Stone Unturned",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "thanks_but_why?",
@@ -736,8 +736,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-08-03T23:05:18.816097+00:00",
+  "LastChanged_Achievements": "2023-08-04T00:04:49.9891913+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:59.0527657+00:00",
-  "LastUpdate_Ratings": "2023-08-03T22:58:34.2500115+00:00",
-  "LastUpdate_Achievements": "2023-08-03T23:05:18.8161311+00:00"
+  "LastUpdate_Ratings": "2023-08-03T23:58:18.0129253+00:00",
+  "LastUpdate_Achievements": "2023-08-04T00:04:49.9892224+00:00"
 }

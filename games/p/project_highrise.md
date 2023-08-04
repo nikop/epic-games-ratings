@@ -54,12 +54,12 @@
 | Careful Constructor | 6.00% | ~19 |
 | Profound Proceeds | 6.00% | ~19 |
 | Maximum Reuse | 6.00% | ~19 |
+| Golden Opportunity | 6.00% | ~19 |
 | It's a Gas | 6.00% | ~19 |
 | Meet ADA/360 | 5.00% | ~16 |
 | Baron of Business | 5.00% | ~16 |
 | I'm Busy Ruling | 5.00% | ~16 |
 | Sky High Stature | 5.00% | ~16 |
-| Golden Opportunity | 5.00% | ~16 |
 | Tuned In | 5.00% | ~16 |
 | Penthouse in the Sky | 4.00% | ~13 |
 | Office Bigwigs | 4.00% | ~13 |

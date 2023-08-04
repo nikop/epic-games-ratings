@@ -38,22 +38,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 0.90% | ~119 |
 | Lighthouse | 0.90% | ~119 |
 | Pyramids | 0.90% | ~119 |
+| Christianity | 0.90% | ~119 |
 | Babylonian Paganism | 0.90% | ~119 |
 | Zoroastrianism | 0.90% | ~119 |
 | Fountainhead | 0.80% | ~106 |
 | Wise | 0.80% | ~106 |
 | Strong Cities | 0.80% | ~106 |
 | Able Difficulty | 0.80% | ~106 |
+| Great Ziggurat | 0.80% | ~106 |
 | Ishtar Gate | 0.80% | ~106 |
 | Learn to Play 1 | 0.80% | ~106 |
-| Christianity | 0.80% | ~106 |
 | Carthaginian Paganism | 0.80% | ~106 |
 | Roman Paganism | 0.80% | ~106 |
 | Brilliant | 0.70% | ~93 |
 | Great | 0.70% | ~93 |
 | Artisans | 0.70% | ~93 |
 | Colossus | 0.70% | ~93 |
-| Great Ziggurat | 0.70% | ~93 |
 | Musaeum | 0.70% | ~93 |
 | Necropolis | 0.70% | ~93 |
 | Manichaeism | 0.70% | ~93 |
@@ -233,6 +233,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Macedonian Wars | 0.10% | ~13 |
 | Medo-Babylonian Conquest | 0.10% | ~13 |
 | Pyramids in Menefer | 0.10% | ~13 |
+| Merchants of the Levant | 0.10% | ~13 |
 | Realistic Mortality | 0.10% | ~13 |
 | Assyria | 0.10% | ~13 |
 | Hatti | 0.10% | ~13 |
@@ -295,7 +296,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
-| Merchants of the Levant | 0.00% | ~0 |
 | Play a LAN Game | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,260 (Ranked 117)  
+Progressed: 13,262 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,6 +409,7 @@ Completed: 5 (0.04%) (Ranked 218)
 | 2023-08-01 | 13,228 | 5 |
 | 2023-08-02 | 13,244 | 5 |
 | 2023-08-03 | 13,260 | 5 |
+| 2023-08-04 | 13,262 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 263)  
 Sum: 1,786 (Ranked 206)  

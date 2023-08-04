@@ -17,13 +17,13 @@ Number of Ratings: 76  (23.09.2022)
 | Deadline | 15.00% | ~2,403 |
 | Eyes On Fire | 13.00% | ~2,083 |
 | Don't Fear The Reaper | 12.00% | ~1,923 |
-| Harvester Of Eyes | 7.00% | ~1,121 |
-| The Reaper | 7.00% | ~1,121 |
+| Harvester Of Eyes | 7.00% | ~1,122 |
+| The Reaper | 7.00% | ~1,122 |
 | Feel The Thunder | 6.00% | ~961 |
 | Shadow Warrior | 2.00% | ~320 |
 | Mirrors | 1.00% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,021 (Ranked 113)  
+Progressed: 16,022 (Ranked 113)  
 Completed: 100 (0.62%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,6 +129,7 @@ Completed: 100 (0.62%) (Ranked 125)
 | 2023-08-01 | 15,954 | 100 |
 | 2023-08-02 | 15,987 | 100 |
 | 2023-08-03 | 16,021 | 100 |
+| 2023-08-04 | 16,022 | 100 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

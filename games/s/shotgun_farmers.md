@@ -8,18 +8,18 @@
 | Aspairagus | 57.00% | ~109 |
 | First Blood | 56.00% | ~136 |
 | Triple Kill | 56.00% | ~136 |
-| Survivor | 55.00% | ~106 |
+| Survivor | 56.00% | ~108 |
 | No Asperascope | 52.00% | ~126 |
 | Cornivore | 51.00% | ~123 |
 | I Believe I Can Fly | 48.00% | ~116 |
-| Early Survivor | 42.00% | ~81 |
+| Early Survivor | 43.00% | ~83 |
 | No Diggity | 41.00% | ~79 |
 | Amateur Survivor | 31.00% | ~60 |
+| Bouncemato | 30.00% | ~58 |
 | 10K | 29.00% | ~70 |
-| Bouncemato | 29.00% | ~56 |
 | 15K | 28.00% | ~68 |
+| Professional Survivor | 23.00% | ~44 |
 | Quick-Draw Pod | 22.00% | ~42 |
-| Professional Survivor | 22.00% | ~42 |
 | Grave Digger | 22.00% | ~42 |
 | Drinking Problem | 21.00% | ~51 |
 | Pork Chop Express | 17.00% | ~41 |
@@ -33,7 +33,7 @@
 | Fresh Pancake | 10.00% | ~24 |
 | Quit Horsin' Around | 10.00% | ~24 |
 | Perfect | 10.00% | ~19 |
-| Expert Survivor | 9.00% | ~17 |
+| Expert Survivor | 10.00% | ~19 |
 | Bring Home The Bacon | 8.00% | ~19 |
 | Quadsparagus | 8.00% | ~15 |
 | Pyromaniac | 7.00% | ~13 |

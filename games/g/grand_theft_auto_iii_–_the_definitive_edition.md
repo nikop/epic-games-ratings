@@ -15,8 +15,8 @@ Rating: 4.18 (Ranked 867)
 | Offshore Delivery | 13.00% | ~963 |
 | Dirty Money | 12.00% | ~889 |
 | By a Mile | 10.00% | ~741 |
+| Not So Fast | 10.00% | ~741 |
 | Right-hand Man | 10.00% | ~741 |
-| Not So Fast | 9.00% | ~667 |
 | A Gift from the King | 7.00% | ~519 |
 | Full Artillery | 4.00% | ~296 |
 | Mob Boss | 2.00% | ~148 |

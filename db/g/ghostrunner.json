@@ -1032,9 +1032,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14370,
+  "EOS_Progressed": 14371,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 744,
+  "EOS_NewPlayers": 743,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -12222,6 +12222,11 @@
       "Time": "2023-08-03T23:05:12.7296881+00:00",
       "NumProgressed": 14370,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-08-04T00:04:45.0218317+00:00",
+      "NumProgressed": 14371,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 45,
@@ -12321,7 +12326,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 6466
+      "UsersEstimate": 6467
     },
     {
       "ID": "ICallItLuck",
@@ -12369,7 +12374,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 10921
+      "UsersEstimate": 10922
     },
     {
       "ID": "MoreThanHuman",
@@ -12377,15 +12382,15 @@
       "Name": "More than human",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "Neuromancer",
       "SetID": "6ce5bmd",
       "Name": "Control freak",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 4024
+      "UsersEstimate": 3880
     },
     {
       "ID": "ObedientMachine",
@@ -12417,7 +12422,7 @@
       "Name": "Out of order",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 6466
+      "UsersEstimate": 6467
     },
     {
       "ID": "Perfection",
@@ -12425,7 +12430,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 4598
+      "UsersEstimate": 4599
     },
     {
       "ID": "PreempativeStrike",
@@ -12505,7 +12510,7 @@
       "Name": "Sword Runner",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 8909
+      "UsersEstimate": 8910
     },
     {
       "ID": "SwordToAGunfight",
@@ -12513,7 +12518,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4167
+      "UsersEstimate": 4168
     },
     {
       "ID": "TripleA",
@@ -12545,7 +12550,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 4167
+      "UsersEstimate": 4168
     },
     {
       "ID": "Wallrunner",
@@ -12561,7 +12566,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 3161
+      "UsersEstimate": 3162
     },
     {
       "ID": "WhereAreMyKeys",
@@ -12577,7 +12582,7 @@
       "Name": "Where He Stood",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "WhyNotBoth",
@@ -12592,21 +12597,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 14370,
+      "Progressed": 14371,
       "Completed": 33
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 14370,
+      "Progressed": 14371,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-07-31T08:58:47.177129+00:00",
-  "LastChanged_Achievements": "2023-08-03T23:05:12.7296873+00:00",
+  "LastChanged_Achievements": "2023-08-04T00:04:45.0218311+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:57.4259207+00:00",
-  "LastUpdate_Ratings": "2023-08-03T22:59:46.1287658+00:00",
-  "LastUpdate_Achievements": "2023-08-03T23:05:12.7299163+00:00"
+  "LastUpdate_Ratings": "2023-08-03T23:59:19.3382176+00:00",
+  "LastUpdate_Achievements": "2023-08-04T00:04:45.0219502+00:00"
 }

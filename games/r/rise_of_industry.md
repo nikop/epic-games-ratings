@@ -5,24 +5,24 @@ Rating: 4.24 (Ranked 828)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~344,455 |
-| Well educated | 37.00% | ~265,518 |
-| City Planner | 19.00% | ~136,347 |
-| Deforester | 17.00% | ~121,995 |
-| Big Hauling | 16.00% | ~114,818 |
-| Apprentice Manufacturer | 13.00% | ~93,290 |
-| Exporter | 13.00% | ~93,290 |
-| I would drive 500 tiles... | 12.00% | ~86,114 |
-| Landscaper | 12.00% | ~86,114 |
-| Railwayman | 7.00% | ~50,233 |
-| Penniless | 6.00% | ~43,057 |
-| Massive Gains | 6.00% | ~43,057 |
-| Salesman | 3.00% | ~21,528 |
-| Engineer | 2.00% | ~14,352 |
-| High Flyer | 2.00% | ~14,352 |
+| Entrepreneur | 48.00% | ~344,464 |
+| Well educated | 37.00% | ~265,525 |
+| City Planner | 19.00% | ~136,350 |
+| Deforester | 17.00% | ~121,998 |
+| Big Hauling | 16.00% | ~114,821 |
+| Apprentice Manufacturer | 13.00% | ~93,292 |
+| Exporter | 13.00% | ~93,292 |
+| I would drive 500 tiles... | 12.00% | ~86,116 |
+| Landscaper | 12.00% | ~86,116 |
+| Railwayman | 7.00% | ~50,234 |
+| Penniless | 6.00% | ~43,058 |
+| Massive Gains | 6.00% | ~43,058 |
+| Salesman | 3.00% | ~21,529 |
+| Engineer | 2.00% | ~14,353 |
+| High Flyer | 2.00% | ~14,353 |
 | Captain | 0.80% | ~5,741 |
 | Billionaire | 0.60% | ~4,306 |
-| Vroom Vroom | 0.40% | ~2,870 |
+| Vroom Vroom | 0.40% | ~2,871 |
 | Excavator | 0.30% | ~2,153 |
 | Loan Ranger | 0.30% | ~2,153 |
 | [2130] Nature Lover | 0.10% | ~718 |
@@ -33,7 +33,7 @@ Rating: 4.24 (Ranked 828)
 | Master Builder | 0.10% | ~718 |
 | Hard working | 0.10% | ~718 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,615 (Ranked 19)  
+Progressed: 717,634 (Ranked 19)  
 Completed: 3 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,6 +139,7 @@ Completed: 3 (0.00%) (Ranked 247)
 | 2023-08-01 | 716,746 | 3 |
 | 2023-08-02 | 717,174 | 3 |
 | 2023-08-03 | 717,615 | 3 |
+| 2023-08-04 | 717,634 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

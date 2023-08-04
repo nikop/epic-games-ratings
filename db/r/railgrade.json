@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -474,9 +474,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19392,
+  "EOS_Progressed": 19393,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4694,6 +4694,11 @@
       "Time": "2023-08-03T23:08:54.4165585+00:00",
       "NumProgressed": 19392,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-08-04T00:08:12.2660971+00:00",
+      "NumProgressed": 19393,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 37,
@@ -4737,7 +4742,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 16095
+      "UsersEstimate": 16096
     },
     {
       "ID": "ach.060.goingdistance",
@@ -4761,7 +4766,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13574
+      "UsersEstimate": 13575
     },
     {
       "ID": "ach.090.perfectionist",
@@ -4785,7 +4790,7 @@
       "Name": "Multiverse",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "ach.120.simplification",
@@ -4793,7 +4798,7 @@
       "Name": "Simplification",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6593
+      "UsersEstimate": 6594
     },
     {
       "ID": "ach.130.minimalist",
@@ -4801,7 +4806,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 17453
+      "UsersEstimate": 17454
     },
     {
       "ID": "ach.140.legacy",
@@ -4809,7 +4814,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 19004
+      "UsersEstimate": 19005
     },
     {
       "ID": "ach.150.pocket",
@@ -4825,7 +4830,7 @@
       "Name": "Box of Trains",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6399
+      "UsersEstimate": 6400
     },
     {
       "ID": "ach.170.room",
@@ -4841,7 +4846,7 @@
       "Name": "Inspector",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 11441
+      "UsersEstimate": 11442
     },
     {
       "ID": "ach.190.scenic",
@@ -4857,7 +4862,7 @@
       "Name": "Let There be Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 6205
+      "UsersEstimate": 6206
     },
     {
       "ID": "ach.210.baron",
@@ -4913,7 +4918,7 @@
       "Name": "The poor groundwater levels",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "ach.280.metropolis",
@@ -4921,7 +4926,7 @@
       "Name": "Metropolis",
       "Percentage": 7,
       "XP": 110,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "ach.290.hightech",
@@ -4961,7 +4966,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17647
+      "UsersEstimate": 17648
     },
     {
       "ID": "ach.340.steel",
@@ -5000,7 +5005,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19392,
+      "Progressed": 19393,
       "Completed": 34
     }
   ],
@@ -5008,8 +5013,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-07-28T06:00:31.3207811+00:00",
-  "LastChanged_Achievements": "2023-08-03T23:08:54.416558+00:00",
+  "LastChanged_Achievements": "2023-08-04T00:08:12.2660965+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:04.7795229+00:00",
-  "LastUpdate_Ratings": "2023-08-03T23:01:37.8258128+00:00",
-  "LastUpdate_Achievements": "2023-08-03T23:08:54.4166136+00:00"
+  "LastUpdate_Ratings": "2023-08-04T00:01:03.454125+00:00",
+  "LastUpdate_Achievements": "2023-08-04T00:08:12.2661432+00:00"
 }

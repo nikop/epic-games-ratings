@@ -19,8 +19,8 @@ Number of Ratings: 53  (23.09.2022)
 | In a mint condition | 37.00% | ~296 |
 | Licence to Kill | 36.00% | ~288 |
 | Pirates! | 34.00% | ~272 |
+| Megalomania | 29.00% | ~232 |
 | Collectionitis | 28.00% | ~224 |
-| Megalomania | 28.00% | ~224 |
 | Christening | 27.00% | ~216 |
 | Groundskeeper | 25.00% | ~200 |
 | Wholesale | 22.00% | ~176 |

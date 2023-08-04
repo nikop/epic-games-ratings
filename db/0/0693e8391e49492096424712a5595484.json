@@ -1272,9 +1272,9 @@
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 190
     },
     {
       "ID": "BearPoppiesBroth",
@@ -1344,9 +1344,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 246
     },
     {
       "ID": "DevilRope",
@@ -1544,9 +1544,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 282
+      "UsersEstimate": 285
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -1607,8 +1607,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-03T23:08:08.2923351+00:00",
+  "LastChanged_Achievements": "2023-08-04T00:07:23.990772+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-03T22:57:55.3751331+00:00",
-  "LastUpdate_Achievements": "2023-08-03T23:08:08.292382+00:00"
+  "LastUpdate_Ratings": "2023-08-03T23:57:46.3951323+00:00",
+  "LastUpdate_Achievements": "2023-08-04T00:07:23.9908158+00:00"
 }

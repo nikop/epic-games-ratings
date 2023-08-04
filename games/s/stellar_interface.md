@@ -25,18 +25,18 @@
 | 25Gb HDD | 11.00% | ~6 |
 | Sectoral Ensign | 9.00% | ~5 |
 | Rambo II | 9.00% | ~5 |
+| Golden Prince of Ball-air | 9.00% | ~5 |
 | Space Surfer | 9.00% | ~5 |
 | Unstoppable | 9.00% | ~5 |
 | Silver Prince of Ball-air | 9.00% | ~5 |
 | Merchant Prince II | 9.00% | ~5 |
-| Golden Prince of Ball-air | 7.00% | ~4 |
 | Flower Power | 7.00% | ~4 |
+| Rambo III | 5.00% | ~3 |
 | Usurper I | 5.00% | ~3 |
 | Sectoral Captain | 5.00% | ~3 |
 | Collateral Damage II | 5.00% | ~3 |
 | System Ensign | 4.00% | ~2 |
 | Cartridge Hoarder | 4.00% | ~2 |
-| Rambo III | 4.00% | ~2 |
 | Hitchhiker | 4.00% | ~2 |
 | Omicron Beta | 4.00% | ~2 |
 | Hoarder | 4.00% | ~2 |

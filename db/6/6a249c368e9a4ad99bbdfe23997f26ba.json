@@ -4,7 +4,7 @@
   "ProductSlug": "forest-fire-b4bb7e",
   "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -337,8 +337,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-08-03T23:05:01.1292611+00:00",
+  "LastChanged_Achievements": "2023-08-04T00:04:35.5881235+00:00",
   "LastUpdate_AppInfo": "2023-08-01T02:02:32.2723888+00:00",
-  "LastUpdate_Ratings": "2023-08-03T22:57:37.0672601+00:00",
-  "LastUpdate_Achievements": "2023-08-03T23:05:01.1292897+00:00"
+  "LastUpdate_Ratings": "2023-08-03T23:57:30.4847441+00:00",
+  "LastUpdate_Achievements": "2023-08-04T00:04:35.58815+00:00"
 }
