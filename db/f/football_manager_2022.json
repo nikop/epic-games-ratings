@@ -6299,9 +6299,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 469045,
+  "EOS_Progressed": 469046,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 731,
+  "EOS_NewPlayers": 730,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17289,6 +17289,11 @@
       "Time": "2023-08-04T02:00:57.7619337+00:00",
       "NumProgressed": 469045,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-08-04T03:06:03.4751647+00:00",
+      "NumProgressed": 469046,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 98,
@@ -17460,7 +17465,7 @@
       "Name": "Splashing The Cash",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 98499
+      "UsersEstimate": 98500
     },
     {
       "ID": "achievement_childhood_dream",
@@ -17476,7 +17481,7 @@
       "Name": "Clean Bill of Health",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 98499
+      "UsersEstimate": 98500
     },
     {
       "ID": "achievement_clean_sheet",
@@ -17484,7 +17489,7 @@
       "Name": "Clean Sheet",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 229832
+      "UsersEstimate": 229833
     },
     {
       "ID": "achievement_club_world_cup",
@@ -17580,7 +17585,7 @@
       "Name": "Superb Strike",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 46904
+      "UsersEstimate": 46905
     },
     {
       "ID": "achievement_goal_scored_in_20_consecutive_matches",
@@ -17620,7 +17625,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 192308
+      "UsersEstimate": 192309
     },
     {
       "ID": "achievement_head_to_head",
@@ -17668,7 +17673,7 @@
       "Name": "Iron Curtain",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 107880
+      "UsersEstimate": 107881
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -17732,7 +17737,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 150094
+      "UsersEstimate": 150095
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -17804,7 +17809,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 150094
+      "UsersEstimate": 150095
     },
     {
       "ID": "achievement_rushed_signing",
@@ -17852,7 +17857,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 234522
+      "UsersEstimate": 234523
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -17860,7 +17865,7 @@
       "Name": "Goal Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 107880
+      "UsersEstimate": 107881
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -17876,7 +17881,7 @@
       "Name": "Invincible!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46904
+      "UsersEstimate": 46905
     },
     {
       "ID": "achievement_watch_popup_match_viewer",
@@ -17932,7 +17937,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 234522
+      "UsersEstimate": 234523
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -17972,7 +17977,7 @@
       "Name": "Best In The World",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 46904
+      "UsersEstimate": 46905
     },
     {
       "ID": "career_earnings_over_100_million",
@@ -17988,7 +17993,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56285
+      "UsersEstimate": 56286
     },
     {
       "ID": "career_earnings_over_1_million",
@@ -18083,15 +18088,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 469045,
+      "Progressed": 469046,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-08-04T01:56:52.6126136+00:00",
-  "LastChanged_Achievements": "2023-08-04T02:00:57.7619331+00:00",
+  "LastChanged_Achievements": "2023-08-04T03:06:03.475164+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:22.7097853+00:00",
-  "LastUpdate_Ratings": "2023-08-04T01:56:52.6126142+00:00",
-  "LastUpdate_Achievements": "2023-08-04T02:00:57.7621382+00:00"
+  "LastUpdate_Ratings": "2023-08-04T03:02:01.2459482+00:00",
+  "LastUpdate_Achievements": "2023-08-04T03:06:03.4754672+00:00"
 }

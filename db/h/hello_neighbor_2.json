@@ -354,9 +354,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2691,
+  "EOS_Progressed": 2692,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.75,
   "EosHistory": [
@@ -2364,6 +2364,11 @@
       "Time": "2023-08-04T02:01:17.9752129+00:00",
       "NumProgressed": 2691,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-08-04T03:06:15.8060238+00:00",
+      "NumProgressed": 2692,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 14,
@@ -2375,7 +2380,7 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -2471,22 +2476,22 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
       "SetID": "4kfb9pd",
       "Name": "Welcome to Raven Brooks",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 2045
+      "UsersEstimate": 2019
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2691,
+      "Progressed": 2692,
       "Completed": 101
     }
   ],
@@ -2494,8 +2499,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-08-04T02:01:17.9752113+00:00",
+  "LastChanged_Achievements": "2023-08-04T03:06:15.8060231+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.70294+00:00",
-  "LastUpdate_Ratings": "2023-08-04T01:56:48.5584573+00:00",
-  "LastUpdate_Achievements": "2023-08-04T02:01:17.9755008+00:00"
+  "LastUpdate_Ratings": "2023-08-04T03:01:55.1707548+00:00",
+  "LastUpdate_Achievements": "2023-08-04T03:06:15.8060512+00:00"
 }

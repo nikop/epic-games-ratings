@@ -24,7 +24,7 @@ Number of Ratings: 36  (23.09.2022)
 | Bing Bang BOOM | 18.00% | ~155 |
 | Breaking the Ice | 17.00% | ~146 |
 | Solidarity Forever | 12.00% | ~103 |
-| A Tucked Tale | 9.00% | ~77 |
+| A Tucked Tale | 10.00% | ~86 |
 | The best thing money can buy | 9.00% | ~77 |
 | Act III Complete | 6.00% | ~52 |
 | Fire and Brimstone | 5.00% | ~43 |

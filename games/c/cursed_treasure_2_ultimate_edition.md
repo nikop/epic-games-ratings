@@ -20,7 +20,7 @@
 | Sergeant of the Evil | 73.00% | ~120 |
 | V.I.P. Cemetery | 71.00% | ~116 |
 | Takeover | 70.00% | ~115 |
-| Woodcutter | 69.00% | ~113 |
+| Woodcutter | 70.00% | ~115 |
 | Sharpshooter | 69.00% | ~113 |
 | Architect of Darkness | 69.00% | ~113 |
 | Top of the World | 68.00% | ~112 |

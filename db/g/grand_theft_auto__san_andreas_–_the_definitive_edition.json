@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -652,9 +652,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11806,
+  "EOS_Progressed": 11807,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -8327,6 +8327,11 @@
       "Time": "2023-08-04T02:02:30.2002758+00:00",
       "NumProgressed": 11806,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-08-04T03:07:46.1239958+00:00",
+      "NumProgressed": 11807,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 35,
@@ -8338,7 +8343,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9563
+      "UsersEstimate": 9564
     },
     {
       "ID": "ACH02",
@@ -8394,7 +8399,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5903
+      "UsersEstimate": 5904
     },
     {
       "ID": "ACH09",
@@ -8554,7 +8559,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ACH29",
@@ -8617,7 +8622,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11806,
+      "Progressed": 11807,
       "Completed": 34
     }
   ],
@@ -8625,8 +8630,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-03T18:02:27.9339148+00:00",
-  "LastChanged_Achievements": "2023-08-04T02:02:30.2002752+00:00",
+  "LastChanged_Achievements": "2023-08-04T03:07:46.1239952+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.4328142+00:00",
-  "LastUpdate_Ratings": "2023-08-04T01:56:47.357415+00:00",
-  "LastUpdate_Achievements": "2023-08-04T02:02:30.2003565+00:00"
+  "LastUpdate_Ratings": "2023-08-04T03:01:53.9512434+00:00",
+  "LastUpdate_Achievements": "2023-08-04T03:07:46.124064+00:00"
 }

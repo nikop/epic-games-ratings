@@ -5,8 +5,8 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 7.00% | ~259 |
-| Feeling the beat! | 7.00% | ~259 |
+| Start with a bang! | 7.00% | ~260 |
+| Feeling the beat! | 7.00% | ~260 |
 | You can pet the cat! | 6.00% | ~222 |
 | Cream of the Crop | 5.00% | ~185 |
 | Thanks for the free chip, Peppermint! | 5.00% | ~185 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,707 (Ranked 147)  
+Progressed: 3,708 (Ranked 147)  
 Completed: 6 (0.16%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 6 (0.16%) (Ranked 179)
 | 2023-08-01 | 3,666 | 6 |
 | 2023-08-02 | 3,680 | 6 |
 | 2023-08-03 | 3,705 | 6 |
-| 2023-08-04 | 3,707 | 6 |
+| 2023-08-04 | 3,708 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

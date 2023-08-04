@@ -31,7 +31,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 0.20% | ~268 |
 | Flooding the Market | 0.20% | ~268 |
 | Where it Hurts | 0.20% | ~268 |
+| Power of Love | 0.20% | ~268 |
 | Efficient Floor Space | 0.20% | ~268 |
+| Flawless Fusion | 0.20% | ~268 |
 | Gem Expert | 0.20% | ~268 |
 | Gild-Gotten Goods | 0.20% | ~268 |
 | Helping Hand | 0.20% | ~268 |
@@ -69,7 +71,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master of Transmutation | 0.10% | ~134 |
 | Hidden Potential | 0.10% | ~134 |
 | Unleashed Potential | 0.10% | ~134 |
-| Power of Love | 0.10% | ~134 |
 | Supercharged | 0.10% | ~134 |
 | Expansion in Session | 0.10% | ~134 |
 | Thank You Tom Nook | 0.10% | ~134 |
@@ -77,7 +78,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cranked up to 11 | 0.10% | ~134 |
 | Fit for a King | 0.10% | ~134 |
 | By Your Powers Combined... | 0.10% | ~134 |
-| Flawless Fusion | 0.10% | ~134 |
 | A Legend is Born | 0.10% | ~134 |
 | Trash to Treasure | 0.10% | ~134 |
 | Royal Ransom | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,820 (Ranked 62)  
+Progressed: 133,822 (Ranked 62)  
 Completed: 128 (0.10%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,10 +225,10 @@ Completed: 128 (0.10%) (Ranked 195)
 | 2023-08-01 | 133,708 | 125 |
 | 2023-08-02 | 133,764 | 126 |
 | 2023-08-03 | 133,815 | 128 |
-| 2023-08-04 | 133,820 | 128 |
+| 2023-08-04 | 133,822 | 128 |
 ## Awards
 Max (Great for Beginners): 4,686  (Ranked 70)  
-Sum: 27,038 (Ranked 46)  
+Sum: 27,041 (Ranked 46)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
@@ -238,7 +238,7 @@ Diff (max vs sum): 24
 | This game has Diverse Characters | 3,843 |
 | This game is Highly Recommended | 3,725 |
 | This game has Easy Combat | 3,667 |
-| This game has Playful Visuals | 3,144 |
+| This game has Playful Visuals | 3,147 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -435,4 +435,4 @@ Diff (max vs sum): 24
 | 2023-08-01 | 3.99 | - | 4,682 | 27,021 |
 | 2023-08-02 | 3.99 | - | 4,682 | 27,028 |
 | 2023-08-03 | 3.99 | - | 4,686 | 27,035 |
-| 2023-08-04 | 3.99 | - | 4,686 | 27,038 |
+| 2023-08-04 | 3.99 | - | 4,686 | 27,041 |

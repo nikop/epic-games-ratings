@@ -6,26 +6,26 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~712,736 |
-| The Blues | 85.00% | ~611,945 |
-| Fast | 66.00% | ~475,157 |
-| Healthbar | 55.00% | ~395,964 |
+| Out of bed | 99.00% | ~712,737 |
+| The Blues | 85.00% | ~611,946 |
+| Fast | 66.00% | ~475,158 |
+| Healthbar | 55.00% | ~395,965 |
 | Force Cube | 53.00% | ~381,566 |
 | Double Jump | 48.00% | ~345,569 |
-| Regeneration | 47.00% | ~338,369 |
+| Regeneration | 47.00% | ~338,370 |
 | Climb the hill | 42.00% | ~302,373 |
 | Triple Jump | 42.00% | ~302,373 |
-| Through the fire pipe | 38.00% | ~273,575 |
-| MacGuffin | 38.00% | ~273,575 |
+| Through the fire pipe | 38.00% | ~273,576 |
+| MacGuffin | 38.00% | ~273,576 |
 | Just once | 36.00% | ~259,177 |
-| Armor | 30.00% | ~215,980 |
-| True holy spirit | 27.00% | ~194,382 |
+| Armor | 30.00% | ~215,981 |
+| True holy spirit | 27.00% | ~194,383 |
 | That's how electronics work obviously | 26.00% | ~187,183 |
 | Force Cube Catapult | 25.00% | ~179,984 |
 | Holy Sword | 23.00% | ~165,585 |
 | Telefrag | 22.00% | ~158,386 |
-| Freed from prison | 21.00% | ~151,186 |
-| Stomp | 21.00% | ~151,186 |
+| Freed from prison | 21.00% | ~151,187 |
+| Stomp | 21.00% | ~151,187 |
 | Double Health | 18.00% | ~129,588 |
 | Buckle | 17.00% | ~122,389 |
 | Green Keycard | 17.00% | ~122,389 |
@@ -55,7 +55,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 9.00% | ~64,794 |
 | Through the tiny pipe | 9.00% | ~64,794 |
 | Win! | 8.00% | ~57,595 |
-| The real real teleported man | 7.00% | ~50,395 |
+| The real real teleported man | 7.00% | ~50,396 |
 | Well deserved | 6.00% | ~43,196 |
 | Happiness | 3.00% | ~21,598 |
 | Super Sword | 3.00% | ~21,598 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~720 |
 | DLC: Top of the world | 0.10% | ~720 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,935 (Ranked 18)  
+Progressed: 719,936 (Ranked 18)  
 Completed: 717 (0.10%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,10 +211,10 @@ Completed: 717 (0.10%) (Ranked 195)
 | 2023-08-01 | 719,606 | 716 |
 | 2023-08-02 | 719,757 | 717 |
 | 2023-08-03 | 719,922 | 717 |
-| 2023-08-04 | 719,935 | 717 |
+| 2023-08-04 | 719,936 | 717 |
 ## Awards
 Max (Challenging Puzzles): 7,663  (Ranked 44)  
-Sum: 9,985 (Ranked 84)  
+Sum: 9,986 (Ranked 84)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
@@ -224,7 +224,7 @@ Diff (max vs sum): -40
 | This game has Amazing Characters | 274 |
 | This game has Amazing Storytelling | 274 |
 | This game has Quickly Understood Controls | 267 |
-| This game is Great for Beginners | 263 |
+| This game is Great for Beginners | 264 |
 | This game is Extremely Fun | 260 |
 | This game has Obsessive Gameplay | 243 |
 | This game is Highly Recommended | 235 |
@@ -366,3 +366,4 @@ Diff (max vs sum): -40
 | 2023-07-31 | 4.61 | - | 7,659 | 9,978 |
 | 2023-08-01 | 4.61 | - | 7,663 | 9,983 |
 | 2023-08-03 | 4.61 | - | 7,663 | 9,985 |
+| 2023-08-04 | 4.61 | - | 7,663 | 9,986 |

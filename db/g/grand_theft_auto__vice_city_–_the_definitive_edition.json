@@ -568,9 +568,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 9543,
+  "EOS_Progressed": 9545,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7843,6 +7843,11 @@
       "Time": "2023-08-04T02:00:26.7520134+00:00",
       "NumProgressed": 9543,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-04T03:05:25.4197561+00:00",
+      "NumProgressed": 9545,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 34,
@@ -8014,7 +8019,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4294
+      "UsersEstimate": 4295
     },
     {
       "ID": "ACH22",
@@ -8054,7 +8059,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "ACH27",
@@ -8086,7 +8091,7 @@
       "Name": "Mischief Managed",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "ACH31",
@@ -8125,7 +8130,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9543,
+      "Progressed": 9545,
       "Completed": 44
     }
   ],
@@ -8133,8 +8138,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-01T16:59:33.8335317+00:00",
-  "LastChanged_Achievements": "2023-08-04T02:00:26.7520129+00:00",
+  "LastChanged_Achievements": "2023-08-04T03:05:25.4197549+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-08-04T01:54:35.4305101+00:00",
-  "LastUpdate_Achievements": "2023-08-04T02:00:26.7521237+00:00"
+  "LastUpdate_Ratings": "2023-08-04T02:59:28.7254016+00:00",
+  "LastUpdate_Achievements": "2023-08-04T03:05:25.4198252+00:00"
 }
