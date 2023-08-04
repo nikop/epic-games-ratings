@@ -14,9 +14,9 @@
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.14% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.02% |
-| 15 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 13.33% |
-| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.27% |
-| 17 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.27% |
+| 16 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
+| 16 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 12.50% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
 | 19 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 11.11% |
 | 19 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
@@ -54,7 +54,7 @@
 | 52 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.27% |
 | 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.02% |
 | 54 | [Without Escape](games/w/without_escape.md) | 3.85% |
-| 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.75% |
+| 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.79% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.69% |
 | 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 58 | [Doodle God](games/d/doodle_god.md) | 3.48% |
@@ -110,7 +110,7 @@
 | 108 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.03% |
 | 109 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
 | 109 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.02% |
-| 111 | [Adios](games/a/adios.md) | 0.99% |
+| 111 | [Adios](games/a/adios.md) | 1.00% |
 | 112 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 112 | [Sable](games/s/sable.md) | 0.98% |
 | 114 | [Hades](games/h/hades.md) | 0.90% |
