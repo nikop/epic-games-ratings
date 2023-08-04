@@ -442,9 +442,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1533353,
+  "EOS_Progressed": 1533361,
   "EOS_Completed": 655,
-  "EOS_NewPlayers": 1287,
+  "EOS_NewPlayers": 1284,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12087,6 +12087,11 @@
       "Time": "2023-08-04T22:06:29.1761484+00:00",
       "NumProgressed": 1533353,
       "NumCompleted": 655
+    },
+    {
+      "Time": "2023-08-04T23:07:02.6265645+00:00",
+      "NumProgressed": 1533361,
+      "NumCompleted": 655
     }
   ],
   "TotalAchievements": 20,
@@ -12138,7 +12143,7 @@
       "Name": "Drift Line Master",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 10733
+      "UsersEstimate": 10734
     },
     {
       "ID": "ACH_GOOD_SKILLS",
@@ -12162,7 +12167,7 @@
       "Name": "Insane Skills",
       "Percentage": 0.7,
       "XP": 95,
-      "UsersEstimate": 10733
+      "UsersEstimate": 10734
     },
     {
       "ID": "ACH_JELLY_FILLED_DONUTS",
@@ -12194,7 +12199,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 153335
+      "UsersEstimate": 153336
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -12257,15 +12262,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1533353,
+      "Progressed": 1533361,
       "Completed": 655
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-23T19:00:00.3270793+00:00",
-  "LastChanged_Achievements": "2023-08-04T22:06:29.1761473+00:00",
+  "LastChanged_Achievements": "2023-08-04T23:07:02.6265639+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:01.387221+00:00",
-  "LastUpdate_Ratings": "2023-08-04T22:00:39.0792226+00:00",
-  "LastUpdate_Achievements": "2023-08-04T22:06:29.1762328+00:00"
+  "LastUpdate_Ratings": "2023-08-04T23:01:06.6612283+00:00",
+  "LastUpdate_Achievements": "2023-08-04T23:07:02.6266831+00:00"
 }

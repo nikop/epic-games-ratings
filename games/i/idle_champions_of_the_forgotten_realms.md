@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,748 |
-| Beast Intentions | 3.00% | ~6,561 |
+| A Brief Tour of the Realms | 4.00% | ~8,749 |
+| Beast Intentions | 3.00% | ~6,562 |
 | Maddening | 2.00% | ~4,374 |
 | The Silken Swamp | 1.00% | ~2,187 |
 | Supply Run | 1.00% | ~2,187 |
@@ -63,6 +63,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | On the Hunt | 0.40% | ~875 |
 | Best Thay Ever | 0.40% | ~740 |
 | A Demi-god's Defender | 0.40% | ~740 |
+| Who Lurks Below? | 0.40% | ~740 |
 | Homecoming | 0.40% | ~875 |
 | The Lost Heir of Omu | 0.40% | ~875 |
 | No One Can Hear You Scream | 0.40% | ~740 |
@@ -101,7 +102,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.30% | ~555 |
 | The Sanctum of the Sword | 0.30% | ~555 |
 | Get Back In The Castle | 0.30% | ~555 |
-| Who Lurks Below? | 0.30% | ~555 |
 | Xanathaaaaaaar! | 0.30% | ~555 |
 | Captured! | 0.30% | ~656 |
 | Force Grey Unleashed | 0.30% | ~656 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,712 (Ranked 53)  
+Progressed: 218,717 (Ranked 53)  
 Completed: 2,152 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -625,7 +625,7 @@ Completed: 2,152 (0.98%) (Ranked 113)
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
-| 2023-08-04 | 218,712 | 2,152 |
+| 2023-08-04 | 218,717 | 2,152 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,897 (Ranked 38)  

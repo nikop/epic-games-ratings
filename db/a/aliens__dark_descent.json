@@ -2,7 +2,7 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 646,
+  "Ranking_Rating": 630,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 155,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.44,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2023-06-25T13:13:06.191665+00:00",
@@ -212,6 +212,12 @@
     {
       "Time": "2023-07-31T01:58:49.4710669+00:00",
       "Rating": 4.44,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-08-04T23:00:23.9127671+00:00",
+      "Rating": 4.45,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
     }
@@ -3729,9 +3735,9 @@
       "ID": "ACH_MISSION_11",
       "SetID": "816efe",
       "Name": "Excavating The Truth",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 558
+      "UsersEstimate": 589
     },
     {
       "ID": "ACH_MISSION_12",
@@ -3761,9 +3767,9 @@
       "ID": "ACH_PROLOGUE",
       "SetID": "816efe",
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2510
+      "UsersEstimate": 2541
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -3825,9 +3831,9 @@
   "FirstSeen": "2023-06-20T02:04:43.7723421+00:00",
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
-  "LastChanged": "2023-07-31T01:58:49.4710667+00:00",
-  "LastChanged_Achievements": "2023-08-04T22:03:29.2447637+00:00",
+  "LastChanged": "2023-08-04T23:00:23.912767+00:00",
+  "LastChanged_Achievements": "2023-08-04T23:03:58.9156584+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.5854461+00:00",
-  "LastUpdate_Ratings": "2023-08-04T21:59:57.3045457+00:00",
-  "LastUpdate_Achievements": "2023-08-04T22:03:29.2448212+00:00"
+  "LastUpdate_Ratings": "2023-08-04T23:00:23.9127677+00:00",
+  "LastUpdate_Achievements": "2023-08-04T23:03:58.9157193+00:00"
 }

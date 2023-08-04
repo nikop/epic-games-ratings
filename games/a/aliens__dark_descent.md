@@ -1,11 +1,11 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.44 (Ranked 646)  
+Rating: 4.45 (Ranked 630)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,510 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,541 |
 | Snatched Out | 74.00% | ~2,293 |
 | Keep 'Em Coming | 73.00% | ~2,262 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,076 |
@@ -32,10 +32,10 @@ Rating: 4.44 (Ranked 646)
 | El Riesgo Siempre Vive | 22.00% | ~682 |
 | The Spire | 22.00% | ~682 |
 | Stuff Of Nightmares | 21.00% | ~651 |
+| Excavating The Truth | 19.00% | ~589 |
 | One For Every Occasion | 18.00% | ~558 |
 | Frontliner | 18.00% | ~558 |
 | The Cable Guy | 18.00% | ~558 |
-| Excavating The Truth | 18.00% | ~558 |
 | Abysmal Horrors | 18.00% | ~558 |
 | Bandage Lover | 17.00% | ~527 |
 | Regicide | 13.00% | ~403 |
@@ -142,3 +142,4 @@ Diff (max vs sum): -3
 | 2023-07-29 | 4.43 | 20 | 20 |
 | 2023-07-30 | 4.44 | 20 | 20 |
 | 2023-07-31 | 4.44 | 22 | 22 |
+| 2023-08-04 | 4.45 | 22 | 22 |

@@ -1,15 +1,15 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.56 (Ranked 465)  
+Rating: 4.56 (Ranked 466)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~9,578 |
-| Pay 'n' Spray | 50.00% | ~5,912 |
-| All Dressed Up for San Fierro | 25.00% | ~2,956 |
+| Getting Started | 81.00% | ~9,580 |
+| Pay 'n' Spray | 50.00% | ~5,914 |
+| All Dressed Up for San Fierro | 25.00% | ~2,957 |
 | The American Dream | 19.00% | ~2,247 |
-| School's Out | 18.00% | ~2,128 |
+| School's Out | 18.00% | ~2,129 |
 | Smooth Moves | 16.00% | ~1,892 |
 | Today Was a Good Day | 15.00% | ~1,774 |
 | What happens in Las Venturas... | 14.00% | ~1,656 |
@@ -23,14 +23,14 @@ Rating: 4.56 (Ranked 465)
 | Rescue a Kitten Too? | 4.00% | ~473 |
 | Bike or Biker | 3.00% | ~355 |
 | What are the Odds | 3.00% | ~355 |
-| A Legitimate Business | 2.00% | ~236 |
-| I’ll Have Two Number 9s | 2.00% | ~236 |
-| Who Needs Directions? | 2.00% | ~236 |
-| What the City Needs | 2.00% | ~236 |
-| Yes I Speak English | 2.00% | ~236 |
-| Double or Nothin' | 2.00% | ~236 |
-| Public Enemy No. 1 | 2.00% | ~236 |
-| Ain’t Nothing But a G Thing | 2.00% | ~236 |
+| A Legitimate Business | 2.00% | ~237 |
+| I’ll Have Two Number 9s | 2.00% | ~237 |
+| Who Needs Directions? | 2.00% | ~237 |
+| What the City Needs | 2.00% | ~237 |
+| Yes I Speak English | 2.00% | ~237 |
+| Double or Nothin' | 2.00% | ~237 |
+| Public Enemy No. 1 | 2.00% | ~237 |
+| Ain’t Nothing But a G Thing | 2.00% | ~237 |
 | Hoopin' it Up | 1.00% | ~118 |
 | Swiss Army Strife | 1.00% | ~118 |
 | Lucky Spinner | 1.00% | ~118 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 465)
 | ...Here we go again | 0.40% | ~47 |
 | I Ain't No Buster | 0.30% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,825 (Ranked 119)  
+Progressed: 11,827 (Ranked 119)  
 Completed: 34 (0.29%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 34 (0.29%) (Ranked 162)
 | 2023-08-01 | 11,707 | 33 |
 | 2023-08-02 | 11,757 | 34 |
 | 2023-08-03 | 11,804 | 34 |
-| 2023-08-04 | 11,825 | 34 |
+| 2023-08-04 | 11,827 | 34 |
 ## Awards
 Max (Great Boss Battles): 242  (Ranked 253)  
 Sum: 262 (Ranked 351)  

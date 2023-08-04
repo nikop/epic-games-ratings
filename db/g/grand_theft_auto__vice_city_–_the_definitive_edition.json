@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 499,
+  "Ranking_Rating": 498,
   "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 123,
@@ -568,7 +568,7 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 9563,
+  "EOS_Progressed": 9565,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 1,
@@ -7903,6 +7903,11 @@
       "Time": "2023-08-04T22:04:57.2580134+00:00",
       "NumProgressed": 9563,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-04T23:05:28.0122213+00:00",
+      "NumProgressed": 9565,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 34,
@@ -8018,7 +8023,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3922
     },
     {
       "ID": "ACH15",
@@ -8074,7 +8079,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4303
+      "UsersEstimate": 4304
     },
     {
       "ID": "ACH22",
@@ -8114,7 +8119,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "ACH27",
@@ -8185,7 +8190,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9563,
+      "Progressed": 9565,
       "Completed": 44
     }
   ],
@@ -8193,8 +8198,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-01T16:59:33.8335317+00:00",
-  "LastChanged_Achievements": "2023-08-04T22:04:57.2580128+00:00",
+  "LastChanged_Achievements": "2023-08-04T23:05:28.0122207+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-08-04T21:58:49.8903335+00:00",
-  "LastUpdate_Achievements": "2023-08-04T22:04:57.2580855+00:00"
+  "LastUpdate_Ratings": "2023-08-04T22:59:14.4076373+00:00",
+  "LastUpdate_Achievements": "2023-08-04T23:05:28.0123006+00:00"
 }

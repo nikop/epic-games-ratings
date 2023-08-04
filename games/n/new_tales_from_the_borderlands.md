@@ -18,21 +18,21 @@ Rating: 4.09 (Ranked 902)
 | Our Lucky Winner | 20.00% | ~710 |
 | You Poor Now! | 20.00% | ~710 |
 | You Got the Goods, Kid | 20.00% | ~710 |
-| The Shardmenstration | 19.00% | ~674 |
-| Those Were the Days... | 19.00% | ~674 |
+| The Shardmenstration | 19.00% | ~675 |
+| Those Were the Days... | 19.00% | ~675 |
 | ...To Heroes | 18.00% | ~639 |
 | Mas, Por Favor | 17.00% | ~604 |
 | And Still Champion... | 14.00% | ~497 |
 | Super Trusting Friend! | 9.00% | ~320 |
 | Bring back the butt! | 4.00% | ~142 |
 | Hey, thanks! | 4.00% | ~142 |
-| Murderous Mascot Mayhem | 3.00% | ~106 |
-| New Business | 0.90% | ~32 |
+| Murderous Mascot Mayhem | 3.00% | ~107 |
+| New Business | 1.00% | ~36 |
 | Okay, Vain Much? | 0.50% | ~18 |
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,550 (Ranked 148)  
+Progressed: 3,551 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 248)
 | 2023-08-01 | 3,537 | 0 |
 | 2023-08-02 | 3,543 | 0 |
 | 2023-08-03 | 3,549 | 0 |
-| 2023-08-04 | 3,550 | 0 |
+| 2023-08-04 | 3,551 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

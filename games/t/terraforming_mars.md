@@ -1,27 +1,27 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.54 (Ranked 499)  
+Rating: 4.54 (Ranked 498)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 38.00% | ~26,717 |
-| Final touch | 37.00% | ~26,014 |
-| Prop-M Rover | 33.00% | ~23,202 |
-| Changing the Planet | 28.00% | ~19,686 |
-| Sojourner | 27.00% | ~18,983 |
-| New Home | 24.00% | ~16,874 |
-| Beagle 2 | 24.00% | ~16,874 |
+| It's a steal! | 38.00% | ~26,718 |
+| Final touch | 37.00% | ~26,015 |
+| Prop-M Rover | 33.00% | ~23,203 |
+| Changing the Planet | 28.00% | ~19,687 |
+| Sojourner | 27.00% | ~18,984 |
+| New Home | 24.00% | ~16,875 |
+| Beagle 2 | 24.00% | ~16,875 |
 | Winner Winner Terraformer | 22.00% | ~15,468 |
 | Project Manager | 20.00% | ~14,062 |
 | Collector | 20.00% | ~14,062 |
 | Master | 20.00% | ~14,062 |
 | Curiosity | 19.00% | ~13,359 |
 | Self-sufficient | 19.00% | ~13,359 |
-| No Longer Red | 18.00% | ~12,655 |
-| Money money | 16.00% | ~11,249 |
-| Biggest Reward | 14.00% | ~9,843 |
+| No Longer Red | 18.00% | ~12,656 |
+| Money money | 16.00% | ~11,250 |
+| Biggest Reward | 14.00% | ~9,844 |
 | Acquired knowledge | 13.00% | ~9,140 |
 | First Journey | 12.00% | ~8,437 |
 | Most Achievements | 12.00% | ~8,437 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,109 |
 | Opportunity | 3.00% | ~2,109 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,308 (Ranked 78)  
+Progressed: 70,311 (Ranked 78)  
 Completed: 86 (0.12%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,15 +143,15 @@ Completed: 86 (0.12%) (Ranked 189)
 | 2023-08-01 | 69,927 | 85 |
 | 2023-08-02 | 70,055 | 86 |
 | 2023-08-03 | 70,192 | 86 |
-| 2023-08-04 | 70,308 | 86 |
+| 2023-08-04 | 70,311 | 86 |
 ## Awards
 Max (Relaxing): 508  (Ranked 195)  
-Sum: 3,140 (Ranked 157)  
+Sum: 3,141 (Ranked 157)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 508 |
-| This game is Highly Recommended | 493 |
+| This game is Highly Recommended | 494 |
 | This game has Quickly Understood Controls | 455 |
 | This game has Competitive Players | 449 |
 | This game is Extremely Fun | 445 |
@@ -311,4 +311,4 @@ Diff (max vs sum): 38
 | 2023-07-29 | 4.54 | - | 506 | 3,134 |
 | 2023-07-31 | 4.54 | - | 506 | 3,136 |
 | 2023-08-01 | 4.54 | - | 507 | 3,139 |
-| 2023-08-04 | 4.54 | - | 508 | 3,140 |
+| 2023-08-04 | 4.54 | - | 508 | 3,141 |

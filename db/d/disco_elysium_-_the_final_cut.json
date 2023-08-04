@@ -1241,9 +1241,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 125560,
+  "EOS_Progressed": 125562,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 1012,
+  "EOS_NewPlayers": 1010,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11686,6 +11686,11 @@
       "Time": "2023-08-04T22:03:46.2656362+00:00",
       "NumProgressed": 125560,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-04T23:04:15.8937354+00:00",
+      "NumProgressed": 125562,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -11753,7 +11758,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30134
+      "UsersEstimate": 30135
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -11857,7 +11862,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11300
+      "UsersEstimate": 11301
     },
     {
       "ID": "ACH_GLUTEN",
@@ -11913,7 +11918,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17578
+      "UsersEstimate": 17579
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -12016,15 +12021,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 125560,
+      "Progressed": 125562,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-04T01:55:33.6301654+00:00",
-  "LastChanged_Achievements": "2023-08-04T22:03:46.2656356+00:00",
+  "LastChanged_Achievements": "2023-08-04T23:04:15.893735+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:01.9422737+00:00",
-  "LastUpdate_Ratings": "2023-08-04T21:59:43.4525566+00:00",
-  "LastUpdate_Achievements": "2023-08-04T22:03:46.2657318+00:00"
+  "LastUpdate_Ratings": "2023-08-04T23:00:10.9486879+00:00",
+  "LastUpdate_Achievements": "2023-08-04T23:04:15.8938719+00:00"
 }

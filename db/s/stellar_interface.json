@@ -414,9 +414,9 @@
       "ID": "BronzeTheHiveBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Pest Control",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CartdridgeHoarderAchievement",
@@ -470,9 +470,9 @@
       "ID": "Cleared20LevelsInAtLeast20LongAGraph",
       "SetID": "a8djcgh",
       "Name": "Curious",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Cleared500LevelsAchievement",
@@ -518,9 +518,9 @@
       "ID": "ClearedAllLevels2TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Pilgrim",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ClearedAllLevels50TimesAchievement",
@@ -542,9 +542,9 @@
       "ID": "CompleteAllMissionsAchievement",
       "SetID": "a8djcgh",
       "Name": "Diligent",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CompleteFullRunWithCorvetteAchievement",
@@ -686,9 +686,9 @@
       "ID": "DoveSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "No Peace",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "EagleSpacecraftUnlockAchievement",
@@ -886,9 +886,9 @@
       "ID": "Killed10000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Wicked Sick",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Killed1000BossesAchievement",
@@ -1094,9 +1094,9 @@
       "ID": "PlayerHas10DronesAchievement",
       "SetID": "a8djcgh",
       "Name": "You\u0027ve drone good!",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PlayerHas20DronesAchievement",
@@ -1134,9 +1134,9 @@
       "ID": "SilverHoberMallowBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Silver Foundation",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SilverHomunculusBossDefeatedAchievement",
@@ -1254,9 +1254,9 @@
       "ID": "VisitLostLord10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Collateral Damage II",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "VisitLostLord1TimeAchievement",
@@ -1373,8 +1373,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-08-04T22:06:09.1878967+00:00",
+  "LastChanged_Achievements": "2023-08-04T23:06:41.9549119+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:39.4262374+00:00",
-  "LastUpdate_Ratings": "2023-08-04T21:59:21.8307749+00:00",
-  "LastUpdate_Achievements": "2023-08-04T22:06:09.188117+00:00"
+  "LastUpdate_Ratings": "2023-08-04T22:59:47.4877093+00:00",
+  "LastUpdate_Achievements": "2023-08-04T23:06:41.9552926+00:00"
 }

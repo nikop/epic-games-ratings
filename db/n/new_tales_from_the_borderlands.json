@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3550,
+  "EOS_Progressed": 3551,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1083,6 +1083,11 @@
       "Time": "2023-08-04T19:05:01.9570926+00:00",
       "NumProgressed": 3550,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T23:04:48.2058461+00:00",
+      "NumProgressed": 3551,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1166,7 +1171,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -1180,9 +1185,9 @@
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
       "SetID": "kakdpn",
       "Name": "New Business",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 36
     },
     {
       "ID": "GAMEOVER_FIRST_TIME",
@@ -1262,7 +1267,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -1286,7 +1291,7 @@
       "Name": "Murderous Mascot Mayhem",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "WISH_FOR_MORE_TACOS",
@@ -1301,7 +1306,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3550,
+      "Progressed": 3551,
       "Completed": 0
     }
   ],
@@ -1309,8 +1314,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-08-04T22:04:18.3062834+00:00",
+  "LastChanged_Achievements": "2023-08-04T23:04:48.2058453+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:07.7078521+00:00",
-  "LastUpdate_Ratings": "2023-08-04T21:59:58.9068258+00:00",
-  "LastUpdate_Achievements": "2023-08-04T22:04:18.3063079+00:00"
+  "LastUpdate_Ratings": "2023-08-04T23:00:25.3485426+00:00",
+  "LastUpdate_Achievements": "2023-08-04T23:04:48.2058758+00:00"
 }

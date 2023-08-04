@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 398,
+  "EOS_Progressed": 399,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -282,6 +282,11 @@
       "Time": "2023-07-31T16:06:34.6856036+00:00",
       "NumProgressed": 398,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-04T23:06:44.1275216+00:00",
+      "NumProgressed": 399,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -293,7 +298,7 @@
       "Name": "Batteries Included",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Award_BigSpender",
@@ -333,7 +338,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -341,7 +346,7 @@
       "Name": "Death from Above",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "Award_DemolitionDerby",
@@ -365,7 +370,7 @@
       "Name": "DocKing",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "Award_EarlyBird",
@@ -445,7 +450,7 @@
       "Name": "Hull King",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Award_IntelKing",
@@ -541,7 +546,7 @@
       "Name": "Scavenger",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "Award_ShellShock",
@@ -637,14 +642,14 @@
       "Name": "What-A-Shot",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 398,
+      "Progressed": 399,
       "Completed": 1
     }
   ],
@@ -652,8 +657,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-08-04T22:06:11.1629484+00:00",
+  "LastChanged_Achievements": "2023-08-04T23:06:44.1275207+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.5924175+00:00",
-  "LastUpdate_Ratings": "2023-08-04T21:58:50.2718727+00:00",
-  "LastUpdate_Achievements": "2023-08-04T22:06:11.1629862+00:00"
+  "LastUpdate_Ratings": "2023-08-04T22:59:14.8741807+00:00",
+  "LastUpdate_Achievements": "2023-08-04T23:06:44.1275634+00:00"
 }

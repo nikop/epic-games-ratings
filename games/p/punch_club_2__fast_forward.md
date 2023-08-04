@@ -34,7 +34,7 @@
 | Employee of the year | 53.00% | ~117 |
 | Fight for life | 52.00% | ~115 |
 | Legal courier | 51.00% | ~113 |
-| Extreme neuropower! | 50.00% | ~110 |
+| Extreme neuropower! | 51.00% | ~113 |
 | Escaped from a big trouble | 48.00% | ~106 |
 | Now you are worthy | 46.00% | ~102 |
 | No blades in the gym | 43.00% | ~95 |
@@ -65,7 +65,7 @@
 | Another world | 28.00% | ~62 |
 | Family comes first | 28.00% | ~62 |
 | Careerist | 28.00% | ~62 |
-| Anyone can resist | 27.00% | ~60 |
+| Anyone can resist | 28.00% | ~62 |
 | Trap disarmed | 26.00% | ~57 |
 | Silver’s past | 25.00% | ~55 |
 | Better cooking at home | 24.00% | ~53 |
