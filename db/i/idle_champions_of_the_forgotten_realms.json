@@ -2,13 +2,13 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 914,
+  "Ranking_Rating": 915,
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5530,9 +5530,9 @@
       "Count": 3338
     }
   ],
-  "EOS_Progressed": 218444,
+  "EOS_Progressed": 218453,
   "EOS_Completed": 2149,
-  "EOS_NewPlayers": 2223,
+  "EOS_NewPlayers": 2225,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -16915,6 +16915,11 @@
       "Time": "2023-08-04T03:02:23.618439+00:00",
       "NumProgressed": 218444,
       "NumCompleted": 2149
+    },
+    {
+      "Time": "2023-08-04T04:03:14.2595021+00:00",
+      "NumProgressed": 218453,
+      "NumCompleted": 2149
     }
   ],
   "TotalAchievements": 512,
@@ -17230,7 +17235,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "objective_completed_1090",
@@ -17294,7 +17299,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6553
+      "UsersEstimate": 6554
     },
     {
       "ID": "objective_completed_110",
@@ -17486,7 +17491,7 @@
       "Name": "Supply Run",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "objective_completed_1142",
@@ -20982,7 +20987,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "objective_completed_1386",
@@ -21021,21 +21026,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184718,
+      "Progressed": 184727,
       "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218444,
+      "Progressed": 218453,
       "Completed": 2149
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-03T21:59:40.9587957+00:00",
-  "LastChanged_Achievements": "2023-08-04T03:02:23.6184387+00:00",
+  "LastChanged_Achievements": "2023-08-04T04:03:14.2595017+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-04T02:59:21.8176355+00:00",
-  "LastUpdate_Achievements": "2023-08-04T03:02:23.6213811+00:00"
+  "LastUpdate_Ratings": "2023-08-04T03:58:56.2161712+00:00",
+  "LastUpdate_Achievements": "2023-08-04T04:03:14.2621543+00:00"
 }

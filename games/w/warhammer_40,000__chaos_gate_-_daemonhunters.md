@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.59 (Ranked 413)  
+Rating: 4.58 (Ranked 425)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,6 +32,7 @@ Number of Ratings: 371  (23.09.2022)
 | Only in Death | 0.30% | ~9 |
 | Long Distance Call | 0.30% | ~9 |
 | Tactical Sabotage | 0.30% | ~9 |
+| Patron of Deimos | 0.20% | ~6 |
 | Fleetmaster | 0.20% | ~6 |
 | For the Machine God | 0.20% | ~6 |
 | Strike Force | 0.20% | ~6 |
@@ -43,7 +44,6 @@ Number of Ratings: 371  (23.09.2022)
 | Arsenal of Destruction | 0.10% | ~3 |
 | Blood and Iron | 0.10% | ~3 |
 | Clean Slate | 0.10% | ~3 |
-| Patron of Deimos | 0.10% | ~3 |
 | Unstable Immaterium | 0.10% | ~3 |
 | Opportunist | 0.10% | ~3 |
 | Hands-On Research | 0.10% | ~3 |
@@ -289,3 +289,4 @@ Diff (max vs sum): -40
 | 2023-07-30 | 4.59 | - | 216 | 459 |
 | 2023-08-02 | 4.59 | - | 218 | 463 |
 | 2023-08-03 | 4.59 | - | 218 | 464 |
+| 2023-08-04 | 4.58 | - | 218 | 464 |

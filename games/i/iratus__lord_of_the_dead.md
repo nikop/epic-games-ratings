@@ -6,32 +6,32 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~31,098 |
-| Blood Moon | 73.00% | ~26,708 |
+| Improvement | 85.00% | ~31,099 |
+| Blood Moon | 73.00% | ~26,709 |
 | Path of the Necromancer | 66.00% | ~24,147 |
 | Chainbreaker - I | 60.00% | ~21,952 |
-| Cursed Creature | 57.00% | ~20,854 |
-| Extraction | 57.00% | ~20,854 |
-| Chainbreaker - II | 55.00% | ~20,122 |
+| Cursed Creature | 57.00% | ~20,855 |
+| Extraction | 57.00% | ~20,855 |
+| Chainbreaker - II | 55.00% | ~20,123 |
 | Necromancer's Apprentice | 51.00% | ~18,659 |
-| Keeper of Keys | 47.00% | ~17,195 |
+| Keeper of Keys | 47.00% | ~17,196 |
 | Distillation | 43.00% | ~15,732 |
-| Mountain King - I | 42.00% | ~15,366 |
-| Transmutation | 42.00% | ~15,366 |
-| Prepared Necromancer | 41.00% | ~15,000 |
-| Mountain King - II | 40.00% | ~14,634 |
+| Mountain King - I | 42.00% | ~15,367 |
+| Transmutation | 42.00% | ~15,367 |
+| Prepared Necromancer | 41.00% | ~15,001 |
+| Mountain King - II | 40.00% | ~14,635 |
 | Blind Rage | 38.00% | ~13,903 |
 | Mad Genius | 35.00% | ~12,805 |
 | Cannon Fodder - I | 35.00% | ~12,805 |
-| Soul of Lies | 34.00% | ~12,439 |
-| Bane of Mercenaries - I | 33.00% | ~12,073 |
+| Soul of Lies | 34.00% | ~12,440 |
+| Bane of Mercenaries - I | 33.00% | ~12,074 |
 | Bane of Mercenaries - II | 31.00% | ~11,342 |
 | Shadow Between Worlds | 30.00% | ~10,976 |
 | Cannon Fodder - II | 29.00% | ~10,610 |
 | Bane of Monsters | 28.00% | ~10,244 |
 | Chainbreaker - III | 28.00% | ~10,244 |
 | Revealed Secrets - I | 27.00% | ~9,878 |
-| Revealed Secrets - II | 26.00% | ~9,512 |
+| Revealed Secrets - II | 26.00% | ~9,513 |
 | Unholy Bones | 24.00% | ~8,781 |
 | Blood Elemental | 24.00% | ~8,781 |
 | Lord of Fire | 23.00% | ~8,415 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.60% | ~220 |
 | Renowned Researcher | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,586 (Ranked 94)  
+Progressed: 36,587 (Ranked 94)  
 Completed: 23 (0.06%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 23 (0.06%) (Ranked 207)
 | 2023-08-01 | 36,388 | 23 |
 | 2023-08-02 | 36,479 | 23 |
 | 2023-08-03 | 36,572 | 23 |
-| 2023-08-04 | 36,586 | 23 |
+| 2023-08-04 | 36,587 | 23 |
 ## Awards
 Max (Character Customization): 2,146  (Ranked 108)  
 Sum: 4,159 (Ranked 138)  

@@ -2086,9 +2086,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 36586,
+  "EOS_Progressed": 36587,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 661,
+  "EOS_NewPlayers": 658,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -13291,6 +13291,11 @@
       "Time": "2023-08-04T03:03:35.367667+00:00",
       "NumProgressed": 36586,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-08-04T04:03:38.9958564+00:00",
+      "NumProgressed": 36587,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -13334,7 +13339,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 20854
+      "UsersEstimate": 20855
     },
     {
       "ID": "achievements_14",
@@ -13350,7 +13355,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 17195
+      "UsersEstimate": 17196
     },
     {
       "ID": "achievements_17",
@@ -13414,7 +13419,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 20122
+      "UsersEstimate": 20123
     },
     {
       "ID": "achievements_25",
@@ -13430,7 +13435,7 @@
       "Name": "Mountain King - I",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 15366
+      "UsersEstimate": 15367
     },
     {
       "ID": "achievements_27",
@@ -13438,7 +13443,7 @@
       "Name": "Mountain King - II",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 14634
+      "UsersEstimate": 14635
     },
     {
       "ID": "achievements_28",
@@ -13454,7 +13459,7 @@
       "Name": "Bane of Mercenaries - I",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 12073
+      "UsersEstimate": 12074
     },
     {
       "ID": "achievements_3",
@@ -13606,7 +13611,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 31098
+      "UsersEstimate": 31099
     },
     {
       "ID": "achievements_47",
@@ -13654,7 +13659,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 15000
+      "UsersEstimate": 15001
     },
     {
       "ID": "achievements_52",
@@ -13662,7 +13667,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 15366
+      "UsersEstimate": 15367
     },
     {
       "ID": "achievements_53",
@@ -13670,7 +13675,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 20854
+      "UsersEstimate": 20855
     },
     {
       "ID": "achievements_54",
@@ -13726,7 +13731,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 12439
+      "UsersEstimate": 12440
     },
     {
       "ID": "achievements_61",
@@ -13750,7 +13755,7 @@
       "Name": "Revealed Secrets - II",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 9512
+      "UsersEstimate": 9513
     },
     {
       "ID": "achievements_64",
@@ -13878,7 +13883,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 26708
+      "UsersEstimate": 26709
     },
     {
       "ID": "achievements_8",
@@ -13901,15 +13906,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 36586,
+      "Progressed": 36587,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-07-28T08:00:15.0195129+00:00",
-  "LastChanged_Achievements": "2023-08-04T03:03:35.3676662+00:00",
+  "LastChanged_Achievements": "2023-08-04T04:03:38.9958558+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:37.6782361+00:00",
-  "LastUpdate_Ratings": "2023-08-04T03:00:04.2799616+00:00",
-  "LastUpdate_Achievements": "2023-08-04T03:03:35.3678463+00:00"
+  "LastUpdate_Ratings": "2023-08-04T03:59:34.8796777+00:00",
+  "LastUpdate_Achievements": "2023-08-04T04:03:38.9960149+00:00"
 }

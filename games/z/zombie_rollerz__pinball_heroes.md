@@ -59,6 +59,7 @@
 | TNT | 2.00% | ~2 |
 | Titanium | 2.00% | ~2 |
 | Rocket | 2.00% | ~2 |
+| Inferno | 2.00% | ~2 |
 | Nuclear Bomb | 2.00% | ~2 |
 | Divinity | 2.00% | ~2 |
 | Hammer | 2.00% | ~2 |
@@ -66,7 +67,6 @@
 | Blaze | 0.80% | ~1 |
 | Topaz | 0.80% | ~1 |
 | Immortality | 0.80% | ~1 |
-| Inferno | 0.80% | ~1 |
 | Sapphire | 0.80% | ~1 |
 | Encore | 0.80% | ~1 |
 | Adamantite | 0.80% | ~1 |

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breaking Free | 29.00% | ~5 |
+| Breaking Free | 35.00% | ~6 |
 | Overcoming Weakness | 18.00% | ~3 |
 | Boulder Breaker | 12.00% | ~2 |
 | Crystal Hunter | 6.00% | ~1 |

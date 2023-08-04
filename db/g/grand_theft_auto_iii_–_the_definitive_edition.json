@@ -412,7 +412,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7412,
+  "EOS_Progressed": 7413,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 1,
@@ -6887,6 +6887,11 @@
       "Time": "2023-08-04T02:01:22.2135213+00:00",
       "NumProgressed": 7412,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-04T04:05:53.1970697+00:00",
+      "NumProgressed": 7413,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 29,
@@ -6898,7 +6903,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6152
+      "UsersEstimate": 6153
     },
     {
       "ID": "ACH02",
@@ -6970,7 +6975,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "ACH11",
@@ -7010,7 +7015,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH16",
@@ -7082,7 +7087,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "ACH25",
@@ -7129,7 +7134,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7412,
+      "Progressed": 7413,
       "Completed": 42
     }
   ],
@@ -7137,8 +7142,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-04T02:58:57.5803366+00:00",
-  "LastChanged_Achievements": "2023-08-04T03:06:21.4425414+00:00",
+  "LastChanged_Achievements": "2023-08-04T04:05:53.197069+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:45.6186895+00:00",
-  "LastUpdate_Ratings": "2023-08-04T02:58:57.5803375+00:00",
-  "LastUpdate_Achievements": "2023-08-04T03:06:21.4426773+00:00"
+  "LastUpdate_Ratings": "2023-08-04T03:58:39.171831+00:00",
+  "LastUpdate_Achievements": "2023-08-04T04:05:53.1971309+00:00"
 }

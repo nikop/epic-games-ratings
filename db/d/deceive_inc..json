@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16839,
+  "EOS_Progressed": 16841,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7497,
+  "EOS_NewPlayers": 7356,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7223,6 +7223,11 @@
       "Time": "2023-08-04T03:04:36.0059618+00:00",
       "NumProgressed": 16839,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-04T04:04:29.1535039+00:00",
+      "NumProgressed": 16841,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -7322,7 +7327,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2694
+      "UsersEstimate": 2695
     },
     {
       "ID": "0013",
@@ -7330,7 +7335,7 @@
       "Name": "Keycards Royale",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "0014",
@@ -7362,7 +7367,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3199
+      "UsersEstimate": 3200
     },
     {
       "ID": "0018",
@@ -7386,7 +7391,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 11,
       "XP": 115,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "0021",
@@ -7442,7 +7447,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "0028",
@@ -7521,7 +7526,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 16839,
+      "Progressed": 16841,
       "Completed": 1
     }
   ],
@@ -7529,8 +7534,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-02T22:01:16.8257648+00:00",
-  "LastChanged_Achievements": "2023-08-04T03:04:36.005961+00:00",
+  "LastChanged_Achievements": "2023-08-04T04:04:29.1535031+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:28.2482926+00:00",
-  "LastUpdate_Ratings": "2023-08-04T03:01:07.0732152+00:00",
-  "LastUpdate_Achievements": "2023-08-04T03:04:36.0060638+00:00"
+  "LastUpdate_Ratings": "2023-08-04T04:00:32.8048889+00:00",
+  "LastUpdate_Achievements": "2023-08-04T04:04:29.153575+00:00"
 }

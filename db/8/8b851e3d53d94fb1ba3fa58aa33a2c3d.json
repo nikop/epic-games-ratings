@@ -4,7 +4,7 @@
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -155,9 +155,9 @@
       "ID": "ANDREAS_AND_THE_CHAMBER_OF_SECRETS",
       "SetID": "e4de54",
       "Name": "Andreas and the chamber of secrets",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ANXIETY",
@@ -243,9 +243,9 @@
       "ID": "BEVERAGE_OF_THE_GODS",
       "SetID": "e4de54",
       "Name": "Beverage of the gods",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CAREFULNESS",
@@ -291,9 +291,9 @@
       "ID": "GIFT_OF_THE_ANCIENTS",
       "SetID": "e4de54",
       "Name": "Gift of the ancients",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GOLD_DIGGER",
@@ -323,9 +323,9 @@
       "ID": "HERA",
       "SetID": "e4de54",
       "Name": "Hera",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HERMES",
@@ -403,9 +403,9 @@
       "ID": "RAT_TERROR",
       "SetID": "e4de54",
       "Name": "Rat terror",
-      "Percentage": 21,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "RED_HERRING",
@@ -451,9 +451,9 @@
       "ID": "THE_CUP_OF_HEBE",
       "SetID": "e4de54",
       "Name": "The cup of Hebe",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -466,8 +466,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-08-04T03:05:04.1138449+00:00",
+  "LastChanged_Achievements": "2023-08-04T04:04:52.3961084+00:00",
   "LastUpdate_AppInfo": "2023-07-28T21:57:00.7979866+00:00",
-  "LastUpdate_Ratings": "2023-08-04T02:57:32.4102832+00:00",
-  "LastUpdate_Achievements": "2023-08-04T03:05:04.1138723+00:00"
+  "LastUpdate_Ratings": "2023-08-04T03:57:29.5913894+00:00",
+  "LastUpdate_Achievements": "2023-08-04T04:04:52.3961388+00:00"
 }

@@ -1,20 +1,20 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.05 (Ranked 914)  
+Rating: 4.05 (Ranked 915)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,738 |
-| Beast Intentions | 3.00% | ~6,553 |
+| Beast Intentions | 3.00% | ~6,554 |
 | Maddening | 2.00% | ~4,369 |
-| The Silken Swamp | 1.00% | ~2,184 |
-| Supply Run | 1.00% | ~2,184 |
+| The Silken Swamp | 1.00% | ~2,185 |
+| Supply Run | 1.00% | ~2,185 |
 | Vecna Lives! | 1.00% | ~1,847 |
 | Rocky Reception | 1.00% | ~1,847 |
 | Rock and Roll | 1.00% | ~1,847 |
-| Flight of the Kindori Pod | 0.90% | ~1,662 |
+| Flight of the Kindori Pod | 0.90% | ~1,663 |
 | Tall Tales | 0.80% | ~1,478 |
 | Vecna Loots! | 0.80% | ~1,478 |
 | Topolah's Tower | 0.80% | ~1,478 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,444 (Ranked 53)  
+Progressed: 218,453 (Ranked 53)  
 Completed: 2,149 (0.98%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -625,7 +625,7 @@ Completed: 2,149 (0.98%) (Ranked 112)
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
-| 2023-08-04 | 218,444 | 2,149 |
+| 2023-08-04 | 218,453 | 2,149 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,886 (Ranked 38)  

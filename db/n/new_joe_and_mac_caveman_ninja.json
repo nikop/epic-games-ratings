@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 211,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.38,
+  "EOS_Completed_Percentage": 2.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -323,6 +323,11 @@
       "Time": "2023-08-03T05:05:01.5231796+00:00",
       "NumProgressed": 210,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-04T04:04:38.1888011+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 15,
@@ -334,7 +339,7 @@
       "Name": "The T-Rex plain.",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "02",
@@ -438,7 +443,7 @@
       "Name": "Lightning swamp.",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "15",
@@ -453,7 +458,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 211,
       "Completed": 5
     }
   ],
@@ -461,8 +466,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-08-04T03:04:46.8759953+00:00",
+  "LastChanged_Achievements": "2023-08-04T04:04:38.1888004+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:34.4582495+00:00",
-  "LastUpdate_Ratings": "2023-08-04T02:58:48.6305932+00:00",
-  "LastUpdate_Achievements": "2023-08-04T03:04:46.8760103+00:00"
+  "LastUpdate_Ratings": "2023-08-04T03:58:30.2903651+00:00",
+  "LastUpdate_Achievements": "2023-08-04T04:04:38.1888129+00:00"
 }

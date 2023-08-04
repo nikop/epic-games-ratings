@@ -1,26 +1,26 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 426)  
+Rating: 4.58 (Ranked 425)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~121,453 |
-| Where's that freaking Dwarf? | 47.00% | ~96,751 |
-| GG EZ | 28.00% | ~57,639 |
-| Speedrun | 26.00% | ~53,522 |
-| Déjà vu | 21.00% | ~43,229 |
-| Sock! SOCK! | 17.00% | ~34,995 |
-| DM intervention | 13.00% | ~26,761 |
-| Fireproof Wizardess | 10.00% | ~20,585 |
-| Livin' in a dwarven paradise | 8.00% | ~16,468 |
-| A beer, two curses, three companions | 8.00% | ~16,468 |
-| Way of the Wimp | 7.00% | ~14,410 |
-| The plot thickens... At the tavern | 5.00% | ~10,293 |
-| The Woman in the High Castle | 4.00% | ~8,234 |
-| I am the night | 4.00% | ~8,234 |
-| Team Building Exercise | 4.00% | ~8,234 |
+| Alt+F4 | 59.00% | ~121,464 |
+| Where's that freaking Dwarf? | 47.00% | ~96,759 |
+| GG EZ | 28.00% | ~57,644 |
+| Speedrun | 26.00% | ~53,526 |
+| Déjà vu | 21.00% | ~43,233 |
+| Sock! SOCK! | 17.00% | ~34,998 |
+| DM intervention | 13.00% | ~26,763 |
+| Fireproof Wizardess | 10.00% | ~20,587 |
+| Livin' in a dwarven paradise | 8.00% | ~16,470 |
+| A beer, two curses, three companions | 8.00% | ~16,470 |
+| Way of the Wimp | 7.00% | ~14,411 |
+| The plot thickens... At the tavern | 5.00% | ~10,294 |
+| The Woman in the High Castle | 4.00% | ~8,235 |
+| I am the night | 4.00% | ~8,235 |
+| Team Building Exercise | 4.00% | ~8,235 |
 | Shiny and Crôm | 3.00% | ~6,176 |
 | The demons' feast | 3.00% | ~6,176 |
 | The Great Library | 3.00% | ~6,176 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,853 (Ranked 55)  
+Progressed: 205,871 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-08-01 | 204,538 | 0 |
 | 2023-08-02 | 205,167 | 0 |
 | 2023-08-03 | 205,780 | 0 |
-| 2023-08-04 | 205,853 | 0 |
+| 2023-08-04 | 205,871 | 0 |
 ## Awards
 Max (Character Customization): 149  (Ranked 295)  
 Sum: 149 (Ranked 392)  
