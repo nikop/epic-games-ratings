@@ -36,22 +36,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 0.90% | ~119 |
 | Warrior | 0.90% | ~119 |
 | Developing Cities | 0.90% | ~119 |
+| Able Difficulty | 0.90% | ~119 |
 | Lighthouse | 0.90% | ~119 |
 | Pyramids | 0.90% | ~119 |
 | Christianity | 0.90% | ~119 |
 | Babylonian Paganism | 0.90% | ~119 |
 | Zoroastrianism | 0.90% | ~119 |
+| Brilliant | 0.80% | ~106 |
 | Fountainhead | 0.80% | ~106 |
 | Wise | 0.80% | ~106 |
 | Strong Cities | 0.80% | ~106 |
-| Able Difficulty | 0.80% | ~106 |
 | Great Ziggurat | 0.80% | ~106 |
 | Ishtar Gate | 0.80% | ~106 |
 | Learn to Play 1 | 0.80% | ~106 |
 | Carthaginian Paganism | 0.80% | ~106 |
 | Roman Paganism | 0.80% | ~106 |
 | Regicide | 0.70% | ~93 |
-| Brilliant | 0.70% | ~93 |
 | Great | 0.70% | ~93 |
 | Artisans | 0.70% | ~93 |
 | Colossus | 0.70% | ~93 |
@@ -62,6 +62,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.60% | ~80 |
 | Legendary Cities | 0.60% | ~80 |
 | Just Difficulty | 0.60% | ~80 |
+| Sages | 0.60% | ~80 |
 | Furious Family | 0.60% | ~80 |
 | Acropolis | 0.60% | ~80 |
 | Apadana | 0.60% | ~80 |
@@ -75,7 +76,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.50% | ~66 |
 | Good Difficulty | 0.50% | ~66 |
 | Champions | 0.50% | ~66 |
-| Sages | 0.50% | ~66 |
+| Patrons | 0.50% | ~66 |
 | Statesmen | 0.50% | ~66 |
 | Traders | 0.50% | ~66 |
 | Persian Paganism | 0.50% | ~66 |
@@ -86,7 +87,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.40% | ~53 |
 | Mighty | 0.40% | ~53 |
 | Victorious | 0.40% | ~53 |
-| Patrons | 0.40% | ~53 |
 | Riders | 0.40% | ~53 |
 | Hittite Iron | 0.40% | ~53 |
 | Circus Maximus | 0.40% | ~53 |
@@ -129,6 +129,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.30% | ~40 |
 | Veneration | 0.30% | ~40 |
 | Kushite Cavalry | 0.30% | ~40 |
+| Turreted Elephant | 0.30% | ~40 |
 | Win a Single Player Game | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
 | Carthage - Ox Hide | 0.20% | ~27 |
@@ -145,7 +146,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.20% | ~27 |
 | Military Prestige | 0.20% | ~27 |
 | Cataphract Archer | 0.20% | ~27 |
-| Turreted Elephant | 0.20% | ~27 |
 | All Nations | 0.20% | ~27 |
 | Conquest Victory | 0.20% | ~27 |
 | No Undo | 0.20% | ~27 |

@@ -5,20 +5,20 @@ Rating: 4.69 (Ranked 213)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 99.00% | ~1,064 |
-| A Long Time Ago | 94.00% | ~1,010 |
+| The Mantis | 99.00% | ~1,065 |
+| A Long Time Ago | 94.00% | ~1,011 |
 | Sabersmith | 82.00% | ~882 |
-| The Obstacle is the Way | 81.00% | ~871 |
-| Back At You | 76.00% | ~817 |
-| Happy Go Wookiee | 71.00% | ~763 |
+| The Obstacle is the Way | 81.00% | ~872 |
+| Back At You | 76.00% | ~818 |
+| Happy Go Wookiee | 71.00% | ~764 |
 | Everything is Connected | 61.00% | ~656 |
-| Her Name Was Masana Tide | 54.00% | ~580 |
-| Bank Shot | 54.00% | ~580 |
+| Her Name Was Masana Tide | 54.00% | ~581 |
+| Bank Shot | 54.00% | ~581 |
 | Perfect Timing | 53.00% | ~570 |
+| The Full Glow-Up | 50.00% | ~538 |
 | Gorgara Falls | 49.00% | ~527 |
-| The Full Glow-Up | 49.00% | ~527 |
 | For A More Civilized Age | 45.00% | ~484 |
-| Look Out Below | 43.00% | ~462 |
+| Look Out Below | 43.00% | ~463 |
 | I Knew He Was No Good | 42.00% | ~452 |
 | Don't Mess with BD-1 | 41.00% | ~441 |
 | The Holocron Awaits | 40.00% | ~430 |
@@ -31,7 +31,7 @@ Rating: 4.69 (Ranked 213)
 | Visiting Alderaan Places | 17.00% | ~183 |
 | Cal Got Your Tongue? | 13.00% | ~140 |
 | Triple Take | 12.00% | ~129 |
-| Big Bang | 11.00% | ~118 |
+| Big Bang | 12.00% | ~129 |
 | Feel the Force | 10.00% | ~108 |
 | Can't Touch This | 9.00% | ~97 |
 | Medical Droid | 8.00% | ~86 |
@@ -45,8 +45,8 @@ Rating: 4.69 (Ranked 213)
 | Kicking Back | 2.00% | ~22 |
 | Not So Fast | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,075 (Ranked 194)  
-Completed: 5 (0.47%) (Ranked 138)  
+Progressed: 1,076 (Ranked 194)  
+Completed: 5 (0.46%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -56,6 +56,7 @@ Completed: 5 (0.47%) (Ranked 138)
 | 2023-08-01 | 754 | 5 |
 | 2023-08-02 | 1,067 | 5 |
 | 2023-08-03 | 1,075 | 5 |
+| 2023-08-04 | 1,076 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

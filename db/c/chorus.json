@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -282,7 +282,7 @@
   ],
   "EOS_Progressed": 1112,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -1873,9 +1873,9 @@
       "ID": "MissionTheiaStep1",
       "SetID": "a6c395p",
       "Name": "Origin",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 434
+      "UsersEstimate": 445
     },
     {
       "ID": "Overcharge",
@@ -1961,8 +1961,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-08-04T10:05:11.4102908+00:00",
+  "LastChanged_Achievements": "2023-08-04T11:05:06.8431258+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:56.2520049+00:00",
-  "LastUpdate_Ratings": "2023-08-04T10:00:28.8690637+00:00",
-  "LastUpdate_Achievements": "2023-08-04T10:05:11.4103541+00:00"
+  "LastUpdate_Ratings": "2023-08-04T11:00:31.3957918+00:00",
+  "LastUpdate_Achievements": "2023-08-04T11:05:06.8431701+00:00"
 }

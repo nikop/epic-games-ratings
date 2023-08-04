@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 365,
+  "EOS_Progressed": 366,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -1104,6 +1104,11 @@
       "Time": "2023-08-04T01:59:20.3660268+00:00",
       "NumProgressed": 365,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-04T11:03:50.5279654+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1123,7 +1128,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 45,
       "XP": 80,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "completeact3",
@@ -1179,7 +1184,7 @@
       "Name": "Partners in Crime",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "scoreminrankrh1",
@@ -1219,7 +1224,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "scoreminrankrv2",
@@ -1234,7 +1239,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 365,
+      "Progressed": 366,
       "Completed": 2
     }
   ],
@@ -1242,8 +1247,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-08-04T10:03:56.0382385+00:00",
+  "LastChanged_Achievements": "2023-08-04T11:03:50.5279649+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:37.5183891+00:00",
-  "LastUpdate_Ratings": "2023-08-04T09:59:20.6927995+00:00",
-  "LastUpdate_Achievements": "2023-08-04T10:03:56.0382622+00:00"
+  "LastUpdate_Ratings": "2023-08-04T10:59:24.6954015+00:00",
+  "LastUpdate_Achievements": "2023-08-04T11:03:50.5279869+00:00"
 }

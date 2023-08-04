@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -21,10 +21,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1979,
+  "EOS_Progressed": 1980,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 206,
-  "EOS_NewCompleters": 4,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
     {
@@ -3396,6 +3396,11 @@
       "Time": "2023-08-04T10:05:44.2649301+00:00",
       "NumProgressed": 1979,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-04T11:05:40.1416785+00:00",
+      "NumProgressed": 1980,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -3439,7 +3444,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "ach_architecture_completed",
@@ -3455,7 +3460,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ach_bomb",
@@ -3463,7 +3468,7 @@
       "Name": "Cannoneer",
       "Percentage": 27,
       "XP": 65,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ach_color_splash",
@@ -3471,7 +3476,7 @@
       "Name": "Color flood",
       "Percentage": 32,
       "XP": 65,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ach_first_picture",
@@ -3479,7 +3484,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "ach_food_completed",
@@ -3534,14 +3539,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 1979,
+      "Progressed": 1980,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-08-04T10:05:44.2649296+00:00",
+  "LastChanged_Achievements": "2023-08-04T11:05:40.1416781+00:00",
   "LastUpdate_AppInfo": "2023-07-28T10:57:28.8987406+00:00",
-  "LastUpdate_Ratings": "2023-08-04T09:57:42.8480831+00:00",
-  "LastUpdate_Achievements": "2023-08-04T10:05:44.2649719+00:00"
+  "LastUpdate_Ratings": "2023-08-04T10:57:44.907517+00:00",
+  "LastUpdate_Achievements": "2023-08-04T11:05:40.1417124+00:00"
 }

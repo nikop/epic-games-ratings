@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60184,
+  "EOS_Progressed": 60186,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 1070,
+  "EOS_NewPlayers": 1064,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10157,6 +10157,11 @@
       "Time": "2023-08-04T10:04:59.0229326+00:00",
       "NumProgressed": 60184,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-08-04T11:04:53.8743687+00:00",
+      "NumProgressed": 60186,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 67,
@@ -10168,7 +10173,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22268
+      "UsersEstimate": 22269
     },
     {
       "ID": "02",
@@ -10176,7 +10181,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13842
+      "UsersEstimate": 13843
     },
     {
       "ID": "03",
@@ -10184,7 +10189,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13240
+      "UsersEstimate": 13241
     },
     {
       "ID": "04",
@@ -10208,7 +10213,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9629
+      "UsersEstimate": 9630
     },
     {
       "ID": "07",
@@ -10222,9 +10227,9 @@
       "ID": "08",
       "SetID": "212770e",
       "Name": "Iron Horse",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6620
+      "UsersEstimate": 7222
     },
     {
       "ID": "09",
@@ -10272,7 +10277,7 @@
       "Name": "Gatekeeper",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "15",
@@ -10352,7 +10357,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "25",
@@ -10368,7 +10373,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "27",
@@ -10400,7 +10405,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "31",
@@ -10440,7 +10445,7 @@
       "Name": "Let There Be Light",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17453
+      "UsersEstimate": 17454
     },
     {
       "ID": "36",
@@ -10504,7 +10509,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9629
+      "UsersEstimate": 9630
     },
     {
       "ID": "44",
@@ -10703,21 +10708,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60184,
+      "Progressed": 60186,
       "Completed": 63
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23652,
+      "Progressed": 23654,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-04T10:04:59.0229319+00:00",
+  "LastChanged_Achievements": "2023-08-04T11:04:53.8743681+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:35.0351219+00:00",
-  "LastUpdate_Ratings": "2023-08-04T09:58:21.8824526+00:00",
-  "LastUpdate_Achievements": "2023-08-04T10:04:59.0230786+00:00"
+  "LastUpdate_Ratings": "2023-08-04T10:58:22.8286904+00:00",
+  "LastUpdate_Achievements": "2023-08-04T11:04:53.874692+00:00"
 }

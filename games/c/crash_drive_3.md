@@ -14,13 +14,13 @@
 | Fore! | 25.00% | ~89 |
 | Insurance fraud | 25.00% | ~89 |
 | Snow Fun! | 25.00% | ~89 |
+| You're it | 25.00% | ~89 |
 | The Collector | 24.00% | ~86 |
 | To and Fro | 24.00% | ~86 |
 | The Wild West | 24.00% | ~86 |
 | Bag of Tricks | 24.00% | ~86 |
 | I see the light! | 24.00% | ~86 |
 | In the Bag! | 24.00% | ~86 |
-| You're it | 24.00% | ~86 |
 | First Come, First Serve | 23.00% | ~82 |
 | Goodbye cruel world | 23.00% | ~82 |
 | Disoriented | 22.00% | ~79 |

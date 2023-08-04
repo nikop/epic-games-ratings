@@ -6,21 +6,21 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~121,535 |
-| Where's that freaking Dwarf? | 47.00% | ~96,816 |
-| GG EZ | 28.00% | ~57,677 |
-| Speedrun | 26.00% | ~53,558 |
-| Déjà vu | 21.00% | ~43,258 |
-| Sock! SOCK! | 17.00% | ~35,018 |
-| DM intervention | 13.00% | ~26,779 |
-| Fireproof Wizardess | 10.00% | ~20,599 |
-| Livin' in a dwarven paradise | 8.00% | ~16,479 |
-| A beer, two curses, three companions | 8.00% | ~16,479 |
-| Way of the Wimp | 7.00% | ~14,419 |
-| The plot thickens... At the tavern | 5.00% | ~10,300 |
-| The Woman in the High Castle | 4.00% | ~8,240 |
-| I am the night | 4.00% | ~8,240 |
-| Team Building Exercise | 4.00% | ~8,240 |
+| Alt+F4 | 59.00% | ~121,549 |
+| Where's that freaking Dwarf? | 47.00% | ~96,827 |
+| GG EZ | 28.00% | ~57,684 |
+| Speedrun | 26.00% | ~53,564 |
+| Déjà vu | 21.00% | ~43,263 |
+| Sock! SOCK! | 17.00% | ~35,023 |
+| DM intervention | 13.00% | ~26,782 |
+| Fireproof Wizardess | 10.00% | ~20,602 |
+| Livin' in a dwarven paradise | 8.00% | ~16,481 |
+| A beer, two curses, three companions | 8.00% | ~16,481 |
+| Way of the Wimp | 7.00% | ~14,421 |
+| The plot thickens... At the tavern | 5.00% | ~10,301 |
+| The Woman in the High Castle | 4.00% | ~8,241 |
+| I am the night | 4.00% | ~8,241 |
+| Team Building Exercise | 4.00% | ~8,241 |
 | Shiny and Crôm | 3.00% | ~6,180 |
 | The demons' feast | 3.00% | ~6,180 |
 | The Great Library | 3.00% | ~6,180 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,991 (Ranked 55)  
+Progressed: 206,015 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-08-01 | 204,538 | 0 |
 | 2023-08-02 | 205,167 | 0 |
 | 2023-08-03 | 205,780 | 0 |
-| 2023-08-04 | 205,991 | 0 |
+| 2023-08-04 | 206,015 | 0 |
 ## Awards
 Max (Character Customization): 149  (Ranked 295)  
 Sum: 149 (Ranked 392)  
