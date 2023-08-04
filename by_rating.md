@@ -757,7 +757,7 @@
 | 753 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 509 |
 | 753 | [Encased](games/e/encased.md) | 4.34 | 137 | 304 |
 | 753 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 509 |
-| 753 | [Paladins](games/p/paladins.md) | 4.34 | 3,468 | 86 |
+| 753 | [Paladins](games/p/paladins.md) | 4.34 | 3,473 | 86 |
 | 753 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 509 |
 | 753 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 247 | 250 |
 | 753 | [Train Valley 2](games/t/train_valley_2.md) | 4.34 | 252 | 247 |
@@ -792,26 +792,26 @@
 | 788 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | 0 | 509 |
 | 788 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 509 |
 | 788 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,550,661 | 1 |
-| 788 | [Mortal Shell](games/m/mortal_shell.md) | 4.29 | 0 | 509 |
 | 788 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 709 | 163 |
 | 788 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 417 |
 | 788 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 126 | 310 |
 | 788 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.29 | 513 | 194 |
 | 788 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.29 | 0 | 509 |
-| 799 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 509 |
-| 799 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 509 |
-| 799 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,700 | 82 |
-| 799 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.28 | 0 | 509 |
-| 799 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 140 | 302 |
-| 799 | [Steelrising](games/s/steelrising.md) | 4.28 | 36 | 433 |
-| 799 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 285 |
-| 806 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.27 | 0 | 509 |
-| 806 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 509 |
-| 806 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.27 | 0 | 509 |
-| 806 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 509 |
-| 806 | [Godlike Burger](games/g/godlike_burger.md) | 4.27 | 0 | 509 |
-| 806 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,510 | 99 |
-| 806 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 509 |
+| 798 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 509 |
+| 798 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 509 |
+| 798 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.28 | 0 | 509 |
+| 798 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,700 | 82 |
+| 798 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.28 | 0 | 509 |
+| 798 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 509 |
+| 798 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 140 | 302 |
+| 798 | [Steelrising](games/s/steelrising.md) | 4.28 | 36 | 433 |
+| 798 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 285 |
+| 807 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.27 | 0 | 509 |
+| 807 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 509 |
+| 807 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 509 |
+| 807 | [Godlike Burger](games/g/godlike_burger.md) | 4.27 | 0 | 509 |
+| 807 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,510 | 99 |
+| 807 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 509 |
 | 813 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 509 |
 | 813 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 29 | 461 |
 | 813 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 509 |
