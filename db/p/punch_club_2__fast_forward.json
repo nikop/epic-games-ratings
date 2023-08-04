@@ -802,9 +802,9 @@
       "ID": "any_stat_15",
       "SetID": "69co12a",
       "Name": "Workout professional",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 123
     },
     {
       "ID": "any_stat_30",
@@ -874,9 +874,9 @@
       "ID": "fight_win_25",
       "SetID": "69co12a",
       "Name": "Fight for life",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "fight_win_50",
@@ -1058,9 +1058,9 @@
       "ID": "mike_resurect",
       "SetID": "69co12a",
       "Name": "It\u0027s good to be alive",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 123
     },
     {
       "ID": "mysterious_voice",
@@ -1258,9 +1258,9 @@
       "ID": "work_promotion_2",
       "SetID": "69co12a",
       "Name": "Employee of the month",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     },
     {
       "ID": "work_promotion_3",
@@ -1281,8 +1281,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-04T08:03:58.2908264+00:00",
+  "LastChanged_Achievements": "2023-08-04T09:04:06.5300599+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:10.4822993+00:00",
-  "LastUpdate_Ratings": "2023-08-04T07:58:12.7439817+00:00",
-  "LastUpdate_Achievements": "2023-08-04T08:03:58.2909085+00:00"
+  "LastUpdate_Ratings": "2023-08-04T08:58:29.8146605+00:00",
+  "LastUpdate_Achievements": "2023-08-04T09:04:06.530117+00:00"
 }

@@ -6,22 +6,22 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,016 |
-| A thief's beginning | 9.00% | ~17,194 |
-| Thorough | 9.00% | ~17,194 |
-| Rollin' | 8.00% | ~15,284 |
-| Tanuki Time | 8.00% | ~15,284 |
+| Genin | 11.00% | ~21,017 |
+| A thief's beginning | 9.00% | ~17,196 |
+| Thorough | 9.00% | ~17,196 |
+| Rollin' | 8.00% | ~15,285 |
+| Tanuki Time | 8.00% | ~15,285 |
 | Disguised | 7.00% | ~13,374 |
 | Jonin | 7.00% | ~13,374 |
 | Rescue Takuma | 7.00% | ~13,374 |
 | Stoned Ox | 7.00% | ~13,374 |
-| Chunin | 6.00% | ~11,463 |
-| Happy Planning | 6.00% | ~11,463 |
-| Ice Ice Yuki | 6.00% | ~11,463 |
-| Yabu | 6.00% | ~11,463 |
-| Flying Rocks | 5.00% | ~9,552 |
-| Mugen Unchained | 5.00% | ~9,552 |
-| Warzone | 5.00% | ~9,552 |
+| Chunin | 6.00% | ~11,464 |
+| Happy Planning | 6.00% | ~11,464 |
+| Ice Ice Yuki | 6.00% | ~11,464 |
+| Yabu | 6.00% | ~11,464 |
+| Flying Rocks | 5.00% | ~9,553 |
+| Mugen Unchained | 5.00% | ~9,553 |
+| Warzone | 5.00% | ~9,553 |
 | Gear up | 4.00% | ~7,642 |
 | Happy little accidents | 4.00% | ~7,642 |
 | Okkoto | 4.00% | ~7,642 |
@@ -35,10 +35,10 @@ Number of Ratings: 495  (23.09.2022)
 | Old Man | 2.00% | ~3,821 |
 | The Old Way | 2.00% | ~3,821 |
 | Winner Winner | 2.00% | ~3,821 |
-| Meticulous | 1.00% | ~1,910 |
-| No Gimmicks | 1.00% | ~1,910 |
-| The End | 1.00% | ~1,910 |
-| Undeserved Honor | 0.90% | ~1,719 |
+| Meticulous | 1.00% | ~1,911 |
+| No Gimmicks | 1.00% | ~1,911 |
+| The End | 1.00% | ~1,911 |
+| Undeserved Honor | 0.90% | ~1,720 |
 | When Cut Across the Neck | 0.80% | ~1,528 |
 | High Five the Moon | 0.70% | ~1,337 |
 | The Cave | 0.70% | ~1,337 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~191 |
 | Release the Kraken | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191,050 (Ranked 59)  
+Progressed: 191,062 (Ranked 59)  
 Completed: 65 (0.03%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 65 (0.03%) (Ranked 222)
 | 2023-08-01 | 190,508 | 65 |
 | 2023-08-02 | 190,727 | 65 |
 | 2023-08-03 | 190,993 | 65 |
-| 2023-08-04 | 191,050 | 65 |
+| 2023-08-04 | 191,062 | 65 |
 ## Awards
 Max (Great for Beginners): 559  (Ranked 184)  
 Sum: 4,717 (Ranked 133)  

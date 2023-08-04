@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -900,9 +900,9 @@
       "ID": "13_bunkrupt",
       "SetID": "chb1m60",
       "Name": "It\u0027s no coincidence.",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 123
     },
     {
       "ID": "14_woodcutter",
@@ -1020,9 +1020,9 @@
       "ID": "28_nonstop",
       "SetID": "chb1m60",
       "Name": "Non Stop!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 106
     },
     {
       "ID": "29_madness",
@@ -1124,8 +1124,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-02T17:58:52.5324483+00:00",
-  "LastChanged_Achievements": "2023-08-04T08:04:51.8281227+00:00",
+  "LastChanged_Achievements": "2023-08-04T09:05:19.5809629+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:31.9818041+00:00",
-  "LastUpdate_Ratings": "2023-08-04T07:58:23.0981925+00:00",
-  "LastUpdate_Achievements": "2023-08-04T08:04:51.8281579+00:00"
+  "LastUpdate_Ratings": "2023-08-04T08:58:49.7500027+00:00",
+  "LastUpdate_Achievements": "2023-08-04T09:05:19.5809899+00:00"
 }

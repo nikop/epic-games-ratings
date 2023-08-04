@@ -44,12 +44,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,273 |
 | Sword Stained With Blood | 0.60% | ~4,273 |
 | Prodigal Child | 0.50% | ~3,561 |
+| Drunken Fighter | 0.40% | ~2,849 |
 | Martial Artist | 0.40% | ~2,849 |
 | Knowledge Greed | 0.40% | ~2,849 |
 | The Pit Protector | 0.40% | ~2,849 |
 | Martial Hub | 0.40% | ~86 |
 | Secure, Protect, Leave | 0.40% | ~86 |
-| Drunken Fighter | 0.30% | ~2,136 |
 | Healing Memory | 0.30% | ~2,136 |
 | Master of the Phoenix Eye Fist | 0.30% | ~2,136 |
 | Be like water my friend | 0.30% | ~2,136 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,424 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,150 (Ranked 20)  
+Progressed: 712,151 (Ranked 20)  
 Completed: 12,843 (1.80%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 12,843 (1.80%) (Ranked 90)
 | 2023-08-01 | 712,009 | 12,838 |
 | 2023-08-02 | 712,079 | 12,840 |
 | 2023-08-03 | 712,134 | 12,842 |
-| 2023-08-04 | 712,150 | 12,843 |
+| 2023-08-04 | 712,151 | 12,843 |
 ## Awards
 Max (Great Boss Battles): 6,336  (Ranked 53)  
 Sum: 10,877 (Ranked 82)  

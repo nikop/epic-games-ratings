@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2196,
+  "EOS_Progressed": 2197,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4426,6 +4426,11 @@
       "Time": "2023-08-04T08:00:48.9967126+00:00",
       "NumProgressed": 2196,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-04T09:02:27.3632065+00:00",
+      "NumProgressed": 2197,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -4517,7 +4522,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "GLOVE_SLAP",
@@ -4612,14 +4617,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2196,
+      "Progressed": 2197,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-08-04T08:00:48.9967123+00:00",
+  "LastChanged_Achievements": "2023-08-04T09:02:27.363206+00:00",
   "LastUpdate_AppInfo": "2023-08-01T20:56:50.3342535+00:00",
-  "LastUpdate_Ratings": "2023-08-04T07:57:56.5601792+00:00",
-  "LastUpdate_Achievements": "2023-08-04T08:00:48.9967574+00:00"
+  "LastUpdate_Ratings": "2023-08-04T08:58:05.6380177+00:00",
+  "LastUpdate_Achievements": "2023-08-04T09:02:27.3632421+00:00"
 }

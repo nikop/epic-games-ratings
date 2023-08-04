@@ -13,10 +13,10 @@ Rating: 4.56 (Ranked 465)
 | From the Vault with Love | 18.00% | ~3,033 |
 | Tailor-Made | 18.00% | ~3,033 |
 | For your Eyes only | 18.00% | ~3,033 |
-| Assistant Accountant | 17.00% | ~2,864 |
-| Fully Decked Out | 17.00% | ~2,864 |
+| Assistant Accountant | 17.00% | ~2,865 |
+| Fully Decked Out | 17.00% | ~2,865 |
 | You Only Live Twice | 16.00% | ~2,696 |
-| A view to Win | 13.00% | ~2,190 |
+| A view to Win | 13.00% | ~2,191 |
 | The Living Portrait | 12.00% | ~2,022 |
 | Private Collection | 12.00% | ~2,022 |
 | Killer Looks | 12.00% | ~2,022 |
@@ -27,14 +27,14 @@ Rating: 4.56 (Ranked 465)
 | My Motto, My Creed | 11.00% | ~1,854 |
 | In It to Win It | 10.00% | ~1,685 |
 | Security Supervisor | 6.00% | ~1,011 |
-| License to Thrill | 5.00% | ~842 |
+| License to Thrill | 5.00% | ~843 |
 | Social of Solace | 4.00% | ~674 |
 | Live and let lie | 3.00% | ~506 |
 | Safe Withdrawal | 3.00% | ~506 |
 | Call Me Maybe | 2.00% | ~337 |
 | PHD in VIP | 2.00% | ~337 |
-| Branch Manager | 1.00% | ~168 |
-| The terminals are not enough | 1.00% | ~168 |
+| Branch Manager | 1.00% | ~169 |
+| The terminals are not enough | 1.00% | ~169 |
 | Lose Another Day | 0.90% | ~152 |
 | Chairman of Deceive Inc. | 0.80% | ~135 |
 | Chief Information Officer | 0.60% | ~101 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 465)
 | Extraction Confusion | 0.20% | ~34 |
 | Spyfall | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,850 (Ranked 110)  
+Progressed: 16,851 (Ranked 110)  
 Completed: 1 (0.01%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 1 (0.01%) (Ranked 234)
 | 2023-08-01 | 16,594 | 1 |
 | 2023-08-02 | 16,739 | 1 |
 | 2023-08-03 | 16,824 | 1 |
-| 2023-08-04 | 16,850 | 1 |
+| 2023-08-04 | 16,851 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

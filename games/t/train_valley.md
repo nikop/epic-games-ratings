@@ -16,12 +16,12 @@ Number of Ratings: 28  (23.09.2022)
 | Completely nuts! | 37.00% | ~157 |
 | Just in time! | 32.00% | ~135 |
 | Europe | 30.00% | ~127 |
-| It's no coincidence. | 28.00% | ~118 |
+| It's no coincidence. | 29.00% | ~123 |
 | Madness! | 26.00% | ~110 |
 | Philatelist | 25.00% | ~106 |
 | Let's roll! | 25.00% | ~106 |
+| Non Stop! | 25.00% | ~106 |
 | Ouroboros | 24.00% | ~102 |
-| Non Stop! | 24.00% | ~102 |
 | Foreman | 21.00% | ~89 |
 | Missed it! | 19.00% | ~80 |
 | Russia | 17.00% | ~72 |

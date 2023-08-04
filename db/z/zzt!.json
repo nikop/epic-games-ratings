@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3010,
+  "EOS_Progressed": 3011,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.69,
   "EosHistory": [
@@ -3681,6 +3681,11 @@
       "Time": "2023-08-03T21:02:53.6973696+00:00",
       "NumProgressed": 3010,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-08-04T09:02:36.7538609+00:00",
+      "NumProgressed": 3011,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 5,
@@ -3692,7 +3697,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3010
+      "UsersEstimate": 3011
     },
     {
       "ID": "2",
@@ -3708,7 +3713,7 @@
       "Name": "Explorer",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "4",
@@ -3731,7 +3736,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3010,
+      "Progressed": 3011,
       "Completed": 111
     }
   ],
@@ -3739,8 +3744,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-08-04T08:03:07.3783244+00:00",
+  "LastChanged_Achievements": "2023-08-04T09:02:36.7538604+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.3360651+00:00",
-  "LastUpdate_Ratings": "2023-08-04T07:58:55.6131353+00:00",
-  "LastUpdate_Achievements": "2023-08-04T08:03:07.3783545+00:00"
+  "LastUpdate_Ratings": "2023-08-04T08:59:39.2501169+00:00",
+  "LastUpdate_Achievements": "2023-08-04T09:02:36.7538853+00:00"
 }

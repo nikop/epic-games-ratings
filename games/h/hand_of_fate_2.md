@@ -6,16 +6,16 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~475,397 |
-| Apprentice | 58.00% | ~382,959 |
-| Close Shave | 25.00% | ~165,068 |
+| The Fool | 72.00% | ~475,398 |
+| Apprentice | 58.00% | ~382,960 |
+| Close Shave | 25.00% | ~165,069 |
 | Mercenary | 23.00% | ~151,863 |
 | Ninja | 23.00% | ~151,863 |
 | Northern Scourge | 17.00% | ~112,247 |
-| Thief Bane | 14.00% | ~92,438 |
+| Thief Bane | 14.00% | ~92,439 |
 | Master of Arms | 12.00% | ~79,233 |
-| Gambler | 10.00% | ~66,027 |
-| Dice Master | 10.00% | ~66,027 |
+| Gambler | 10.00% | ~66,028 |
+| Dice Master | 10.00% | ~66,028 |
 | Swordsman | 9.00% | ~59,425 |
 | Knight | 8.00% | ~52,822 |
 | Cure for Corruption | 8.00% | ~52,822 |
@@ -31,9 +31,9 @@ Number of Ratings: 780  (23.09.2022)
 | Leap of Faith | 3.00% | ~19,808 |
 | Combat Ready | 3.00% | ~19,808 |
 | Stuffed Potato | 3.00% | ~19,808 |
-| Card Sharp | 2.00% | ~13,205 |
-| Magician | 2.00% | ~13,205 |
-| Draknar's Bane | 2.00% | ~13,205 |
+| Card Sharp | 2.00% | ~13,206 |
+| Magician | 2.00% | ~13,206 |
+| Draknar's Bane | 2.00% | ~13,206 |
 | Protector of the Realm | 1.00% | ~6,603 |
 | Purgatorium | 1.00% | ~6,603 |
 | Cursed Soul | 1.00% | ~6,603 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~660 |
 | Blood Pact | 0.10% | ~660 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 660,274 (Ranked 22)  
+Progressed: 660,275 (Ranked 22)  
 Completed: 168 (0.03%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 168 (0.03%) (Ranked 222)
 | 2023-08-01 | 660,174 | 168 |
 | 2023-08-02 | 660,214 | 168 |
 | 2023-08-03 | 660,260 | 168 |
-| 2023-08-04 | 660,274 | 168 |
+| 2023-08-04 | 660,275 | 168 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 436)  
 Sum: 180 (Ranked 377)  

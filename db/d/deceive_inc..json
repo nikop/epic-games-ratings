@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16850,
+  "EOS_Progressed": 16851,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6898,
+  "EOS_NewPlayers": 6800,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7254,6 +7254,11 @@
       "Time": "2023-08-04T08:04:20.5895764+00:00",
       "NumProgressed": 16850,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-04T09:04:37.3601686+00:00",
+      "NumProgressed": 16851,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -7273,7 +7278,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "0003",
@@ -7281,7 +7286,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2864
+      "UsersEstimate": 2865
     },
     {
       "ID": "0004",
@@ -7297,7 +7302,7 @@
       "Name": "Branch Manager",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "0006",
@@ -7369,7 +7374,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2864
+      "UsersEstimate": 2865
     },
     {
       "ID": "0015",
@@ -7377,7 +7382,7 @@
       "Name": "The terminals are not enough",
       "Percentage": 1,
       "XP": 115,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "0016",
@@ -7489,7 +7494,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "0030",
@@ -7552,7 +7557,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 16850,
+      "Progressed": 16851,
       "Completed": 1
     }
   ],
@@ -7560,8 +7565,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-04T08:00:04.3199402+00:00",
-  "LastChanged_Achievements": "2023-08-04T08:04:20.5895758+00:00",
+  "LastChanged_Achievements": "2023-08-04T09:04:37.3601681+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:28.2482926+00:00",
-  "LastUpdate_Ratings": "2023-08-04T08:00:04.3199412+00:00",
-  "LastUpdate_Achievements": "2023-08-04T08:04:20.5896477+00:00"
+  "LastUpdate_Ratings": "2023-08-04T09:01:20.2675804+00:00",
+  "LastUpdate_Achievements": "2023-08-04T09:04:37.3602217+00:00"
 }

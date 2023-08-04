@@ -2571,9 +2571,9 @@
       "ID": "ACH_M_D2",
       "SetID": "b3fep3o",
       "Name": "War Chest",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_M_D3",
@@ -2940,8 +2940,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-08-04T08:04:43.3314101+00:00",
+  "LastChanged_Achievements": "2023-08-04T09:05:07.7966485+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:31.896769+00:00",
-  "LastUpdate_Ratings": "2023-08-04T08:00:07.0626892+00:00",
-  "LastUpdate_Achievements": "2023-08-04T08:04:43.3314857+00:00"
+  "LastUpdate_Ratings": "2023-08-04T09:01:24.335882+00:00",
+  "LastUpdate_Achievements": "2023-08-04T09:05:07.7967083+00:00"
 }

@@ -22,17 +22,17 @@
 | Fighting is cool | 67.00% | ~147 |
 | Pal of your father? | 64.00% | ~140 |
 | Spirit of the past | 62.00% | ~136 |
-| Employee of the month | 61.00% | ~134 |
+| Employee of the month | 62.00% | ~136 |
 | Law student | 59.00% | ~129 |
 | Little hacker | 57.00% | ~125 |
 | Intriguing candies | 57.00% | ~125 |
-| Workout professional | 55.00% | ~120 |
-| It's good to be alive | 55.00% | ~120 |
+| Workout professional | 56.00% | ~123 |
+| It's good to be alive | 56.00% | ~123 |
 | Own four walls | 55.00% | ~120 |
 | Champion – starter pack | 54.00% | ~118 |
+| Fight for life | 53.00% | ~116 |
 | Handyman | 53.00% | ~116 |
 | Employee of the year | 53.00% | ~116 |
-| Fight for life | 52.00% | ~114 |
 | Legal courier | 51.00% | ~112 |
 | Extreme neuropower! | 50.00% | ~110 |
 | Now you are worthy | 47.00% | ~103 |

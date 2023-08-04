@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
@@ -6950,10 +6950,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1622918,
       "NumberOfAwardsMax": 207269
+    },
+    {
+      "Time": "2023-08-04T09:01:59.9596263+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1623846,
+      "NumberOfAwardsMax": 207269
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1622918,
+  "NumberOfAwards": 1623846,
   "NumberOfAwardsMax": 207269,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6967,7 +6973,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 172951
+      "Count": 173256
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6985,7 +6991,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 174305
+      "Count": 174606
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7009,7 +7015,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 174029
+      "Count": 174351
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7029,8 +7035,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-08-04T07:02:08.0366427+00:00",
+  "LastChanged": "2023-08-04T09:01:59.9596262+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:06.8981051+00:00",
-  "LastUpdate_Ratings": "2023-08-04T08:00:31.9741642+00:00",
-  "LastUpdate_Achievements": "2023-08-04T08:06:24.9240088+00:00"
+  "LastUpdate_Ratings": "2023-08-04T09:01:59.959627+00:00",
+  "LastUpdate_Achievements": "2023-08-04T09:07:25.636142+00:00"
 }

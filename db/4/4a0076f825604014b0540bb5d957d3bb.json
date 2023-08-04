@@ -285,9 +285,9 @@
       "ID": "CgkInO_K3eIdEAIQCA",
       "SetID": "6bj96in",
       "Name": "GIFTED LIBRARIAN",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "CgkInO_K3eIdEAIQCQ",
@@ -341,9 +341,9 @@
       "ID": "CgkInO_K3eIdEAIQDw",
       "SetID": "6bj96in",
       "Name": "TIME THIEF",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "CgkInO_K3eIdEAIQEA",
@@ -381,17 +381,17 @@
       "ID": "CgkInO_K3eIdEAIQFA",
       "SetID": "6bj96in",
       "Name": "WALKER",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "CgkInO_K3eIdEAIQFQ",
       "SetID": "6bj96in",
       "Name": "RUNNER",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CgkInO_K3eIdEAIQFg",
@@ -444,8 +444,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-04T08:04:51.1442816+00:00",
+  "LastChanged_Achievements": "2023-08-04T09:05:18.5931124+00:00",
   "LastUpdate_AppInfo": "2023-08-02T14:57:15.3975507+00:00",
-  "LastUpdate_Ratings": "2023-08-04T07:57:35.4628447+00:00",
-  "LastUpdate_Achievements": "2023-08-04T08:04:51.1442981+00:00"
+  "LastUpdate_Ratings": "2023-08-04T08:57:36.2496796+00:00",
+  "LastUpdate_Achievements": "2023-08-04T09:05:18.5931269+00:00"
 }

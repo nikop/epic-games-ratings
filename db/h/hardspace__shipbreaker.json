@@ -1630,9 +1630,9 @@
       "ID": "ACH_I_CAN_FIX_IT",
       "SetID": "108h92c",
       "Name": "I can fix it!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 541
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1703,8 +1703,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-08-04T08:00:52.3354601+00:00",
+  "LastChanged_Achievements": "2023-08-04T09:02:31.8174432+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:11.3748437+00:00",
-  "LastUpdate_Ratings": "2023-08-04T07:58:13.4066267+00:00",
-  "LastUpdate_Achievements": "2023-08-04T08:00:52.3354974+00:00"
+  "LastUpdate_Ratings": "2023-08-04T08:58:31.6145884+00:00",
+  "LastUpdate_Achievements": "2023-08-04T09:02:31.8174642+00:00"
 }

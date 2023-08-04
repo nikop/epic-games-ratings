@@ -11,12 +11,12 @@ Rating: 4.87 (Ranked 24)
 | Cream of the Crop | 5.00% | ~186 |
 | Thanks for the free chip, Peppermint! | 5.00% | ~186 |
 | Who put gears in there? | 5.00% | ~186 |
-| This will cost you big time | 4.00% | ~148 |
-| I play my own way! | 4.00% | ~148 |
-| You got this, Peppermint? | 4.00% | ~148 |
-| Perfect Parry | 4.00% | ~148 |
-| Uh, they were broken when I got here | 4.00% | ~148 |
-| Alright, that felt AWESOME! | 4.00% | ~148 |
+| This will cost you big time | 4.00% | ~149 |
+| I play my own way! | 4.00% | ~149 |
+| You got this, Peppermint? | 4.00% | ~149 |
+| Perfect Parry | 4.00% | ~149 |
+| Uh, they were broken when I got here | 4.00% | ~149 |
+| Alright, that felt AWESOME! | 4.00% | ~149 |
 | NOW we got a kickass hideout! | 4.00% | ~89 |
 | The Negotiator | 3.00% | ~111 |
 | Headliner | 3.00% | ~111 |
@@ -49,8 +49,8 @@ Rating: 4.87 (Ranked 24)
 | I'm not done with you yet | 0.40% | ~15 |
 | First we parry, then we counter | 0.40% | ~15 |
 | Choose your own adventure | 0.40% | ~9 |
+| Easy Listening | 0.30% | ~11 |
 | OK, well THEY came after ME! | 0.30% | ~11 |
-| Easy Listening | 0.20% | ~7 |
 | Problem solved... wait, what? | 0.20% | ~7 |
 | Now this is how you fight like a team! | 0.20% | ~7 |
 | You ever parry a volcano? | 0.20% | ~7 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,712 (Ranked 147)  
+Progressed: 3,713 (Ranked 147)  
 Completed: 6 (0.16%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 6 (0.16%) (Ranked 179)
 | 2023-08-01 | 3,666 | 6 |
 | 2023-08-02 | 3,680 | 6 |
 | 2023-08-03 | 3,705 | 6 |
-| 2023-08-04 | 3,712 | 6 |
+| 2023-08-04 | 3,713 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

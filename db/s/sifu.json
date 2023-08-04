@@ -5532,9 +5532,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 712150,
+  "EOS_Progressed": 712151,
   "EOS_Completed": 12843,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -15612,6 +15612,11 @@
       "Time": "2023-08-04T07:02:32.9588763+00:00",
       "NumProgressed": 712150,
       "NumCompleted": 12843
+    },
+    {
+      "Time": "2023-08-04T09:02:29.6532268+00:00",
+      "NumProgressed": 712151,
+      "NumCompleted": 12843
     }
   ],
   "TotalAchievements": 50,
@@ -15741,9 +15746,9 @@
       "ID": "16_Detective_H2",
       "SetID": "adcm20g",
       "Name": "Drunken Fighter",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2849
     },
     {
       "ID": "17_Detective_H3",
@@ -16022,21 +16027,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21451,
+      "Progressed": 21452,
       "Completed": 10481
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712150,
+      "Progressed": 712151,
       "Completed": 12843
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-04T03:00:20.0894455+00:00",
-  "LastChanged_Achievements": "2023-08-04T08:00:50.7306459+00:00",
+  "LastChanged_Achievements": "2023-08-04T09:02:29.6532262+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:51.4583284+00:00",
-  "LastUpdate_Ratings": "2023-08-04T07:59:31.166919+00:00",
-  "LastUpdate_Achievements": "2023-08-04T08:00:50.7307875+00:00"
+  "LastUpdate_Ratings": "2023-08-04T09:00:27.916162+00:00",
+  "LastUpdate_Achievements": "2023-08-04T09:02:29.6533117+00:00"
 }
