@@ -14,6 +14,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 11,
   "EOS_Completed": 0,
@@ -248,17 +250,17 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "b36c5kb",
       "Name": "Making Things a Little Easier",
-      "Percentage": 18,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_23",
       "SetID": "b36c5kb",
       "Name": "Now You\u0027re Playing with Power",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -493,9 +495,10 @@
       "Completed": 0
     }
   ],
+  "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-04T14:03:09.3304479+00:00",
+  "LastChanged_Achievements": "2023-08-04T15:02:27.8914543+00:00",
   "LastUpdate_AppInfo": "2023-08-02T15:56:51.7948798+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:57:05.0324+00:00",
-  "LastUpdate_Achievements": "2023-08-04T14:03:09.3304835+00:00"
+  "LastUpdate_Ratings": "2023-08-04T14:57:02.8417927+00:00",
+  "LastUpdate_Achievements": "2023-08-04T15:02:27.8915046+00:00"
 }

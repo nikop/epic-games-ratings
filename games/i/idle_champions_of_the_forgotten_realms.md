@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,743 |
-| Beast Intentions | 3.00% | ~6,557 |
+| A Brief Tour of the Realms | 4.00% | ~8,744 |
+| Beast Intentions | 3.00% | ~6,558 |
 | Maddening | 2.00% | ~4,372 |
 | The Silken Swamp | 1.00% | ~2,186 |
 | Supply Run | 1.00% | ~2,186 |
@@ -21,23 +21,23 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wet Feet | 0.70% | ~1,530 |
 | Seeds of Destruction | 0.70% | ~1,294 |
 | Return to the Tomb | 0.70% | ~1,294 |
-| Pros and CONs | 0.60% | ~1,311 |
+| Pros and CONs | 0.60% | ~1,312 |
 | The Witchlight Carnival | 0.60% | ~1,109 |
-| Hatchlings Underfoot | 0.60% | ~1,311 |
-| Don't Look Up! | 0.60% | ~1,311 |
+| Hatchlings Underfoot | 0.60% | ~1,312 |
+| Don't Look Up! | 0.60% | ~1,312 |
 | The Evacuation of Waterdeep | 0.60% | ~1,109 |
 | Heatwave | 0.60% | ~1,109 |
 | The Dread Domain of Tovag | 0.60% | ~1,109 |
-| Were-verpowered | 0.60% | ~1,311 |
-| A Persistent Buzzing | 0.60% | ~1,311 |
-| Beast Mode | 0.60% | ~1,311 |
-| Terror in the Dark | 0.60% | ~1,311 |
-| A Mysterious Summons | 0.60% | ~1,311 |
-| Building Trust | 0.60% | ~1,311 |
-| Unearthed Evil | 0.60% | ~1,311 |
-| The Dinner Party | 0.60% | ~1,311 |
-| The Cursed Farmer | 0.60% | ~1,311 |
-| The Mad Wizard | 0.60% | ~1,311 |
+| Were-verpowered | 0.60% | ~1,312 |
+| A Persistent Buzzing | 0.60% | ~1,312 |
+| Beast Mode | 0.60% | ~1,312 |
+| Terror in the Dark | 0.60% | ~1,312 |
+| A Mysterious Summons | 0.60% | ~1,312 |
+| Building Trust | 0.60% | ~1,312 |
+| Unearthed Evil | 0.60% | ~1,312 |
+| The Dinner Party | 0.60% | ~1,312 |
+| The Cursed Farmer | 0.60% | ~1,312 |
+| The Mad Wizard | 0.60% | ~1,312 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,109 |
 | Thieves of the Coven | 0.50% | ~924 |
 | Heavy Burden | 0.50% | ~1,093 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,577 (Ranked 53)  
-Completed: 2,150 (0.98%) (Ranked 113)  
+Progressed: 218,595 (Ranked 53)  
+Completed: 2,151 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -625,7 +625,7 @@ Completed: 2,150 (0.98%) (Ranked 113)
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
-| 2023-08-04 | 218,577 | 2,150 |
+| 2023-08-04 | 218,595 | 2,151 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,894 (Ranked 38)  

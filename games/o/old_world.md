@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 298)  
+Rating: 4.65 (Ranked 297)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -225,6 +225,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gate to Victory | 0.10% | ~13 |
 | Pharaoh | 0.10% | ~13 |
 | A Tyresome Siege | 0.10% | ~13 |
+| Alexander the Mediocre | 0.10% | ~13 |
 | Hardcore | 0.10% | ~13 |
 | Learn By Playing 1 - Able | 0.10% | ~13 |
 | Learn By Playing 2 - Just | 0.10% | ~13 |
@@ -287,7 +288,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Not a Chance | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
 | Queen of War | 0.00% | ~0 |
-| Alexander the Mediocre | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the Alright | 0.00% | ~0 |
 | Youth Prevails | 0.00% | ~0 |

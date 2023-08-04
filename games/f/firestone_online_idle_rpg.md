@@ -5,15 +5,15 @@ Rating: 4.06 (Ranked 913)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,635 |
-| World Map | 79.00% | ~1,389 |
-| Temple of Eternals | 56.00% | ~984 |
+| Victor | 93.00% | ~1,636 |
+| World Map | 79.00% | ~1,390 |
+| Temple of Eternals | 56.00% | ~985 |
 | Prestigious | 53.00% | ~932 |
 | Fellowship Power | 41.00% | ~721 |
 | Guild Power | 25.00% | ~440 |
 | Prestigious x10 | 22.00% | ~387 |
 | The game is on | 20.00% | ~352 |
-| Exotic Merchant | 18.00% | ~316 |
+| Exotic Merchant | 18.00% | ~317 |
 | Dragon Clicker | 17.00% | ~299 |
 | Miner Clicker | 17.00% | ~299 |
 | Full Party | 16.00% | ~281 |
@@ -48,12 +48,12 @@ Rating: 4.06 (Ranked 913)
 | Enchanting skill | 7.00% | ~123 |
 | The Expeditioner | 7.00% | ~123 |
 | Weekly Quest Completionist | 7.00% | ~123 |
-| Ancient Knowledge | 6.00% | ~105 |
-| Blueprint Upgrades | 6.00% | ~105 |
-| Engineer Mastery | 6.00% | ~105 |
-| How Do You Turn This On? | 6.00% | ~105 |
-| Lock And Load | 6.00% | ~105 |
-| Missions Dedication | 6.00% | ~105 |
+| Ancient Knowledge | 6.00% | ~106 |
+| Blueprint Upgrades | 6.00% | ~106 |
+| Engineer Mastery | 6.00% | ~106 |
+| How Do You Turn This On? | 6.00% | ~106 |
+| Lock And Load | 6.00% | ~106 |
+| Missions Dedication | 6.00% | ~106 |
 | Sailor | 5.00% | ~88 |
 | Active Member | 4.00% | ~70 |
 | Arena Challenger | 4.00% | ~70 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 913)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,758 (Ranked 173)  
+Progressed: 1,759 (Ranked 172)  
 Completed: 2 (0.11%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 2 (0.11%) (Ranked 193)
 | 2023-07-31 | 1,749 | 2 |
 | 2023-08-01 | 1,750 | 2 |
 | 2023-08-02 | 1,755 | 2 |
-| 2023-08-04 | 1,758 | 2 |
+| 2023-08-04 | 1,759 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

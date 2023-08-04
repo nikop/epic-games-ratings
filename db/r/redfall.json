@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -202,9 +202,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1730,
+  "EOS_Progressed": 1731,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2157,6 +2157,11 @@
       "Time": "2023-08-01T10:04:34.447835+00:00",
       "NumProgressed": 1730,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T15:04:22.280431+00:00",
+      "NumProgressed": 1731,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2182,9 +2187,9 @@
       "ID": "Achievement_003",
       "SetID": "6b34g18",
       "Name": "Home Is Where the Heart Is",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1039
     },
     {
       "ID": "Achievement_004",
@@ -2192,7 +2197,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "Achievement_006",
@@ -2216,7 +2221,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "Achievement_009",
@@ -2224,7 +2229,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "Achievement_010",
@@ -2304,7 +2309,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "Achievement_020",
@@ -2328,7 +2333,7 @@
       "Name": "Bell-ringer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Achievement_023",
@@ -2336,7 +2341,7 @@
       "Name": "Silence Is Golden",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Achievement_024",
@@ -2352,7 +2357,7 @@
       "Name": "Grounded",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "Achievement_026",
@@ -2368,7 +2373,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "Achievement_028",
@@ -2392,7 +2397,7 @@
       "Name": "ICU",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "Achievement_031",
@@ -2416,7 +2421,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "Achievement_034",
@@ -2424,7 +2429,7 @@
       "Name": "Catch and Release",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "Achievement_035",
@@ -2504,7 +2509,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "Achievement_046",
@@ -2695,7 +2700,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1730,
+      "Progressed": 1731,
       "Completed": 0
     }
   ],
@@ -2703,8 +2708,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-07-23T15:58:25.0076082+00:00",
-  "LastChanged_Achievements": "2023-08-04T14:04:56.6961456+00:00",
+  "LastChanged_Achievements": "2023-08-04T15:04:22.2804305+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:42.1299484+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:58:48.2602962+00:00",
-  "LastUpdate_Achievements": "2023-08-04T14:04:56.6962083+00:00"
+  "LastUpdate_Ratings": "2023-08-04T14:58:18.8159663+00:00",
+  "LastUpdate_Achievements": "2023-08-04T15:04:22.2805184+00:00"
 }

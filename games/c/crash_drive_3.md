@@ -22,9 +22,9 @@
 | I see the light! | 24.00% | ~86 |
 | In the Bag! | 24.00% | ~86 |
 | First Come, First Serve | 23.00% | ~82 |
+| Take that Frosty! | 23.00% | ~82 |
 | Goodbye cruel world | 23.00% | ~82 |
 | Disoriented | 22.00% | ~79 |
-| Take that Frosty! | 22.00% | ~79 |
 | Your Highness | 22.00% | ~79 |
 | Beach Party! | 22.00% | ~79 |
 | Car-Tapult | 21.00% | ~75 |

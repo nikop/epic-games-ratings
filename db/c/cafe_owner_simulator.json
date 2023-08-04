@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 901,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2719,9 +2719,9 @@
       "ID": "INTRODUCTION",
       "SetID": "64e5lgf",
       "Name": "INTRODUCTION",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 99
     },
     {
       "ID": "SECOND_FLOOR",
@@ -2768,8 +2768,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-08-04T14:07:41.809065+00:00",
+  "LastChanged_Achievements": "2023-08-04T15:06:30.5713202+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:02.6399778+00:00",
-  "LastUpdate_Ratings": "2023-08-04T14:00:36.4111046+00:00",
-  "LastUpdate_Achievements": "2023-08-04T14:07:41.809086+00:00"
+  "LastUpdate_Ratings": "2023-08-04T14:59:38.4521878+00:00",
+  "LastUpdate_Achievements": "2023-08-04T15:06:30.5713447+00:00"
 }

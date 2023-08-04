@@ -4,8 +4,8 @@
 Rating: 4.52 (Ranked 526)  
 Number of Ratings: 276  (23.09.2022)  
 ## Awards
-Max (Great for Quick Sessions): 21  (Ranked 498)  
-Sum: 21 (Ranked 498)  
+Max (Great for Quick Sessions): 21  (Ranked 499)  
+Sum: 21 (Ranked 499)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |

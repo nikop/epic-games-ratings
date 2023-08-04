@@ -11,7 +11,7 @@
 | ADVANCED | 40.00% | ~360 |
 | CHIEF | 20.00% | ~180 |
 | SECOND_FLOOR | 13.00% | ~117 |
-| INTRODUCTION | 10.00% | ~90 |
+| INTRODUCTION | 11.00% | ~99 |
 | DEBTOR | 9.00% | ~81 |
 | SUCCESSFUL | 5.00% | ~45 |
 | THINGS ARE GOING WELL | 5.00% | ~45 |

@@ -1,15 +1,15 @@
 # We Were Here Forever
 [Store](https://store.epicgames.com/en-US/p/we-were-here-forever)  
 [View Rawdata](../../db/w/we_were_here_forever.json)  
-Rating: 4.66 (Ranked 273)  
+Rating: 4.66 (Ranked 272)  
 Number of Ratings: 113  (23.09.2022)  
 ## Awards
-Max (Challenging Puzzles): 21  (Ranked 498)  
-Sum: 21 (Ranked 498)  
-Diff (max vs sum): 0  
+Max (Challenging Puzzles): 22  (Ranked 491)  
+Sum: 22 (Ranked 493)  
+Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 21 |
+| This game features Challenging Puzzles | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -63,3 +63,4 @@ Diff (max vs sum): 0
 | 2023-05-24 | 4.67 | - | 21 | 21 |
 | 2023-06-12 | 4.65 | - | 21 | 21 |
 | 2023-08-02 | 4.66 | - | 21 | 21 |
+| 2023-08-04 | 4.66 | - | 22 | 22 |

@@ -2,9 +2,9 @@
   "ID": "b7cca975adbf41e4a41f3ece9e61e08a",
   "Name": "Love Is All Around",
   "ProductSlug": "love-is-all-around-3a8046",
-  "Ranking_EOS_Progress": 459,
+  "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -129,9 +129,9 @@
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "7opfcp",
       "Name": "Days Of Innocence",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -217,9 +217,9 @@
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "7opfcp",
       "Name": "The Flash",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
@@ -391,8 +391,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
-  "LastChanged_Achievements": "2023-08-04T14:01:50.8945092+00:00",
+  "LastChanged_Achievements": "2023-08-04T15:00:38.9318237+00:00",
   "LastUpdate_AppInfo": "2023-08-04T13:02:00.8548915+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:57:35.7057746+00:00",
-  "LastUpdate_Achievements": "2023-08-04T14:01:50.8964497+00:00"
+  "LastUpdate_Ratings": "2023-08-04T14:57:23.5287873+00:00",
+  "LastUpdate_Achievements": "2023-08-04T15:00:38.931884+00:00"
 }

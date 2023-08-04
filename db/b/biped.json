@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5058,
+  "EOS_Progressed": 5059,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7851,6 +7851,11 @@
       "Time": "2023-08-04T14:07:42.05067+00:00",
       "NumProgressed": 5058,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T15:06:30.744981+00:00",
+      "NumProgressed": 5059,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -7926,7 +7931,7 @@
       "Name": "Cactus Vally",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "4",
@@ -7958,7 +7963,7 @@
       "Name": "Blue Rapids",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "8",
@@ -7981,7 +7986,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5058,
+      "Progressed": 5059,
       "Completed": 0
     }
   ],
@@ -7989,8 +7994,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-08-04T14:07:42.0506693+00:00",
+  "LastChanged_Achievements": "2023-08-04T15:06:30.7449804+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:53.1828699+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:59:00.7456843+00:00",
-  "LastUpdate_Achievements": "2023-08-04T14:07:42.0507118+00:00"
+  "LastUpdate_Ratings": "2023-08-04T14:58:28.0048583+00:00",
+  "LastUpdate_Achievements": "2023-08-04T15:06:30.7450399+00:00"
 }

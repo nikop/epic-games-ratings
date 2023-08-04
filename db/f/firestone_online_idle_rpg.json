@@ -5,10 +5,10 @@
   "Ranking_Rating": 913,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
-  "Ranking_EOS_Progress": 173,
+  "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1758,
+  "EOS_Progressed": 1759,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4707,6 +4707,11 @@
       "Time": "2023-08-04T10:04:41.5381719+00:00",
       "NumProgressed": 1758,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-04T15:04:14.721944+00:00",
+      "NumProgressed": 1759,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -4726,7 +4731,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "angelpower",
@@ -4766,7 +4771,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "cauldronliberator",
@@ -4870,7 +4875,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "enhancedwarmachines",
@@ -4894,7 +4899,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "fellowshippower",
@@ -4974,7 +4979,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "hunter",
@@ -5022,7 +5027,7 @@
       "Name": "Lock And Load",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "masterenchanter",
@@ -5062,7 +5067,7 @@
       "Name": "Missions Dedication",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "movinguptheladder",
@@ -5174,7 +5179,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "thealchemist",
@@ -5278,7 +5283,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "warmachinesarmy",
@@ -5310,14 +5315,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1758,
+      "Progressed": 1759,
       "Completed": 2
     }
   ],
@@ -5325,8 +5330,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-04T03:58:50.3286371+00:00",
-  "LastChanged_Achievements": "2023-08-04T14:04:46.9874225+00:00",
+  "LastChanged_Achievements": "2023-08-04T15:04:14.7219434+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:54.4032931+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:59:04.6025043+00:00",
-  "LastUpdate_Achievements": "2023-08-04T14:04:46.9875029+00:00"
+  "LastUpdate_Ratings": "2023-08-04T14:58:30.8831282+00:00",
+  "LastUpdate_Achievements": "2023-08-04T15:04:14.7220532+00:00"
 }

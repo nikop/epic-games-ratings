@@ -13,7 +13,7 @@
 | The Miracle | 34.00% | ~30 |
 | The Invisible Man | 32.00% | ~28 |
 | We Will Rock You | 25.00% | ~22 |
-| Rock It | 23.00% | ~20 |
+| Rock It | 24.00% | ~21 |
 | Friends Will Be Friends | 10.00% | ~9 |
 | Killer Queen | 7.00% | ~6 |
 | Machines | 6.00% | ~5 |

@@ -24,8 +24,8 @@
 | Spirit of the past | 62.00% | ~136 |
 | Employee of the month | 61.00% | ~134 |
 | Law student | 59.00% | ~130 |
+| Intriguing candies | 58.00% | ~128 |
 | Little hacker | 57.00% | ~125 |
-| Intriguing candies | 57.00% | ~125 |
 | Workout professional | 55.00% | ~121 |
 | Champion – starter pack | 55.00% | ~121 |
 | It's good to be alive | 55.00% | ~121 |
@@ -35,7 +35,7 @@
 | Fight for life | 53.00% | ~117 |
 | Legal courier | 51.00% | ~112 |
 | Extreme neuropower! | 50.00% | ~110 |
-| Escaped from a big trouble | 47.00% | ~103 |
+| Escaped from a big trouble | 48.00% | ~106 |
 | Now you are worthy | 46.00% | ~101 |
 | No blades in the gym | 44.00% | ~97 |
 | Guiding on the right path | 43.00% | ~95 |
@@ -43,7 +43,7 @@
 | Fight is life | 42.00% | ~92 |
 | Mysterious voice | 42.00% | ~92 |
 | Get out of my apartment! | 37.00% | ~81 |
-| Underground dwellers | 36.00% | ~79 |
+| Underground dwellers | 37.00% | ~81 |
 | Responsible approach | 36.00% | ~79 |
 | Deal with life | 35.00% | ~77 |
 | GYM professional | 35.00% | ~77 |
@@ -72,7 +72,7 @@
 | The only right decision | 24.00% | ~53 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 220 (Ranked 276)  
-Completed: 7 (3.18%) (Ranked 62)  
+Completed: 8 (3.64%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -92,4 +92,4 @@ Completed: 7 (3.18%) (Ranked 62)
 | 2023-08-01 | 202 | 7 |
 | 2023-08-02 | 212 | 7 |
 | 2023-08-03 | 219 | 7 |
-| 2023-08-04 | 220 | 7 |
+| 2023-08-04 | 220 | 8 |

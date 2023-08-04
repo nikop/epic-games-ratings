@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 298,
+  "Ranking_Rating": 297,
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 117,
@@ -1577,7 +1577,7 @@
   ],
   "EOS_Progressed": 13266,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10369,9 +10369,9 @@
       "ID": "ACHIEVEMENT_GREECE5_VICTORY",
       "SetID": "9201eeb",
       "Name": "Alexander the Mediocre",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_VICTORY_BEST",
@@ -11511,8 +11511,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-01T16:59:10.6733314+00:00",
-  "LastChanged_Achievements": "2023-08-04T14:03:10.7645143+00:00",
+  "LastChanged_Achievements": "2023-08-04T15:02:29.3684414+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:49.4550053+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:58:58.0231573+00:00",
-  "LastUpdate_Achievements": "2023-08-04T14:03:10.7652653+00:00"
+  "LastUpdate_Ratings": "2023-08-04T14:58:26.4282222+00:00",
+  "LastUpdate_Achievements": "2023-08-04T15:02:29.3694201+00:00"
 }

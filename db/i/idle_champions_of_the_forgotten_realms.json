@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5542,10 +5542,10 @@
       "Count": 3341
     }
   ],
-  "EOS_Progressed": 218577,
-  "EOS_Completed": 2150,
-  "EOS_NewPlayers": 2216,
-  "EOS_NewCompleters": 18,
+  "EOS_Progressed": 218595,
+  "EOS_Completed": 2151,
+  "EOS_NewPlayers": 2217,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -16977,6 +16977,11 @@
       "Time": "2023-08-04T14:02:04.3339443+00:00",
       "NumProgressed": 218577,
       "NumCompleted": 2150
+    },
+    {
+      "Time": "2023-08-04T15:02:09.2747997+00:00",
+      "NumProgressed": 218595,
+      "NumCompleted": 2151
     }
   ],
   "TotalAchievements": 512,
@@ -16988,7 +16993,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8743
+      "UsersEstimate": 8744
     },
     {
       "ID": "objective_completed_10",
@@ -17004,7 +17009,7 @@
       "Name": "Pros and CONs",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "objective_completed_101",
@@ -17356,7 +17361,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6557
+      "UsersEstimate": 6558
     },
     {
       "ID": "objective_completed_110",
@@ -17420,7 +17425,7 @@
       "Name": "Hatchlings Underfoot",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "objective_completed_1111",
@@ -17460,7 +17465,7 @@
       "Name": "Don\u0027t Look Up!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "objective_completed_1121",
@@ -17852,7 +17857,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "objective_completed_1203",
@@ -17964,7 +17969,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "objective_completed_130",
@@ -18092,7 +18097,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "objective_completed_149",
@@ -18108,7 +18113,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "objective_completed_150",
@@ -18180,7 +18185,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "objective_completed_165",
@@ -18212,7 +18217,7 @@
       "Name": "Building Trust",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "objective_completed_17",
@@ -18316,7 +18321,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "objective_completed_20",
@@ -18404,7 +18409,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "objective_completed_231",
@@ -18660,7 +18665,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "objective_completed_34",
@@ -20132,7 +20137,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "objective_completed_70",
@@ -21083,21 +21088,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184851,
+      "Progressed": 184869,
       "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218577,
-      "Completed": 2150
+      "Progressed": 218595,
+      "Completed": 2151
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-04T11:59:23.3560437+00:00",
-  "LastChanged_Achievements": "2023-08-04T14:02:04.3339437+00:00",
+  "LastChanged_Achievements": "2023-08-04T15:02:09.2747989+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-04T13:59:10.7761185+00:00",
-  "LastUpdate_Achievements": "2023-08-04T14:02:04.336331+00:00"
+  "LastUpdate_Ratings": "2023-08-04T14:58:36.0459624+00:00",
+  "LastUpdate_Achievements": "2023-08-04T15:02:09.2774818+00:00"
 }
