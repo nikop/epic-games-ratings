@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60168,
+  "EOS_Progressed": 60170,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 1084,
+  "EOS_NewPlayers": 1080,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10127,6 +10127,11 @@
       "Time": "2023-08-04T04:05:04.1163464+00:00",
       "NumProgressed": 60168,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-08-04T05:05:19.5259719+00:00",
+      "NumProgressed": 60170,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 67,
@@ -10138,7 +10143,7 @@
       "Name": "Follow the Light",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 21660
+      "UsersEstimate": 21661
     },
     {
       "ID": "02",
@@ -10186,7 +10191,7 @@
       "Name": "Heavy Metal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6618
+      "UsersEstimate": 6619
     },
     {
       "ID": "08",
@@ -10194,7 +10199,7 @@
       "Name": "Iron Horse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6618
+      "UsersEstimate": 6619
     },
     {
       "ID": "09",
@@ -10226,7 +10231,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6618
+      "UsersEstimate": 6619
     },
     {
       "ID": "13",
@@ -10330,7 +10335,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4813
+      "UsersEstimate": 4814
     },
     {
       "ID": "26",
@@ -10344,9 +10349,9 @@
       "ID": "27",
       "SetID": "212770e",
       "Name": "Collateral Carnage",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6618
+      "UsersEstimate": 7220
     },
     {
       "ID": "28",
@@ -10354,7 +10359,7 @@
       "Name": "Come One, Come All",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6618
+      "UsersEstimate": 6619
     },
     {
       "ID": "29",
@@ -10378,7 +10383,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9025
+      "UsersEstimate": 9026
     },
     {
       "ID": "32",
@@ -10386,7 +10391,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16847
+      "UsersEstimate": 16848
     },
     {
       "ID": "33",
@@ -10450,7 +10455,7 @@
       "Name": "Right of Way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4813
+      "UsersEstimate": 4814
     },
     {
       "ID": "41",
@@ -10458,7 +10463,7 @@
       "Name": "Finders Keepers",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9025
+      "UsersEstimate": 9026
     },
     {
       "ID": "42",
@@ -10673,21 +10678,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60168,
+      "Progressed": 60170,
       "Completed": 63
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23636,
+      "Progressed": 23638,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-04T04:05:04.1163459+00:00",
+  "LastChanged_Achievements": "2023-08-04T05:05:19.5259709+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:35.0351219+00:00",
-  "LastUpdate_Ratings": "2023-08-04T03:58:29.3927962+00:00",
-  "LastUpdate_Achievements": "2023-08-04T04:05:04.1164806+00:00"
+  "LastUpdate_Ratings": "2023-08-04T04:58:50.5607811+00:00",
+  "LastUpdate_Achievements": "2023-08-04T05:05:19.5262041+00:00"
 }

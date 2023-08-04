@@ -9869,7 +9869,7 @@
       "Count": 5488
     }
   ],
-  "EOS_Progressed": 869111,
+  "EOS_Progressed": 869113,
   "EOS_Completed": 1932,
   "EOS_NewPlayers": 1156,
   "EOS_NewCompleters": 22,
@@ -21404,6 +21404,11 @@
       "Time": "2023-08-04T04:04:50.8125982+00:00",
       "NumProgressed": 869111,
       "NumCompleted": 1932
+    },
+    {
+      "Time": "2023-08-04T05:05:00.2157704+00:00",
+      "NumProgressed": 869113,
+      "NumCompleted": 1932
     }
   ],
   "TotalAchievements": 44,
@@ -21447,7 +21452,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 338953
+      "UsersEstimate": 338954
     },
     {
       "ID": "FollowingTheRiver",
@@ -21455,7 +21460,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 112984
+      "UsersEstimate": 112985
     },
     {
       "ID": "Fortuneteller",
@@ -21503,7 +21508,7 @@
       "Name": "Master Crafter",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 112984
+      "UsersEstimate": 112985
     },
     {
       "ID": "IAmMaxTac",
@@ -21551,7 +21556,7 @@
       "Name": "Must Be Rats",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 34764
+      "UsersEstimate": 34765
     },
     {
       "ID": "NeverFadeAway",
@@ -21583,7 +21588,7 @@
       "Name": "Life of the Road",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 182513
+      "UsersEstimate": 182514
     },
     {
       "ID": "Roleplayer",
@@ -21591,7 +21596,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 243351
+      "UsersEstimate": 243352
     },
     {
       "ID": "Specialist",
@@ -21607,7 +21612,7 @@
       "Name": "Temperance",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 34764
+      "UsersEstimate": 34765
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -21631,7 +21636,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 590995
+      "UsersEstimate": 590997
     },
     {
       "ID": "TheHermit",
@@ -21647,7 +21652,7 @@
       "Name": "The High Priestess",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 191204
+      "UsersEstimate": 191205
     },
     {
       "ID": "TheLovers",
@@ -21679,7 +21684,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 234660
+      "UsersEstimate": 234661
     },
     {
       "ID": "TheWorld",
@@ -21727,7 +21732,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 104293
+      "UsersEstimate": 104294
     },
     {
       "ID": "UnderPressure",
@@ -21759,22 +21764,22 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 191204
+      "UsersEstimate": 191205
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 869111,
+      "Progressed": 869113,
       "Completed": 1932
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-08-04T03:58:43.8416351+00:00",
-  "LastChanged_Achievements": "2023-08-04T04:04:50.8125975+00:00",
+  "LastChanged_Achievements": "2023-08-04T05:05:00.2157698+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:46.8722173+00:00",
-  "LastUpdate_Ratings": "2023-08-04T03:58:43.8416358+00:00",
-  "LastUpdate_Achievements": "2023-08-04T04:04:50.8127037+00:00"
+  "LastUpdate_Ratings": "2023-08-04T04:59:08.1161323+00:00",
+  "LastUpdate_Achievements": "2023-08-04T05:05:00.2158843+00:00"
 }

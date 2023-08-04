@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 733,
+  "EOS_Progressed": 734,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1608,6 +1608,11 @@
       "Time": "2023-08-03T10:05:52.0361641+00:00",
       "NumProgressed": 733,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T05:05:18.3820411+00:00",
+      "NumProgressed": 734,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1633,9 +1638,9 @@
       "ID": "ACHV_CHALLENGEACCEPTED",
       "SetID": "cceobco",
       "Name": "Challenge Accepted",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -1825,9 +1830,9 @@
       "ID": "ACHV_UPCLOSEANDPERSONAL",
       "SetID": "cceobco",
       "Name": "Up Close And Personal",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHV_WEAPONSMITH",
@@ -1850,13 +1855,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 733,
+      "Progressed": 734,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 159,
+      "Progressed": 160,
       "Completed": 3
     }
   ],
@@ -1864,8 +1869,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-08-04T04:05:03.3828797+00:00",
+  "LastChanged_Achievements": "2023-08-04T05:05:18.3820404+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:26.3220019+00:00",
-  "LastUpdate_Ratings": "2023-08-04T04:00:32.3094272+00:00",
-  "LastUpdate_Achievements": "2023-08-04T04:05:03.3829115+00:00"
+  "LastUpdate_Ratings": "2023-08-04T05:01:21.8351052+00:00",
+  "LastUpdate_Achievements": "2023-08-04T05:05:18.3820951+00:00"
 }

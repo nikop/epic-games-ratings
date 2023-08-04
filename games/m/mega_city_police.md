@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Mega City | 104.00% | ~29 |
-| Law and Order | 79.00% | ~22 |
-| Licence To Kill | 68.00% | ~19 |
-| Hammer Time | 43.00% | ~12 |
-| Escape From M.C. | 29.00% | ~8 |
-| Restore Honor | 25.00% | ~7 |
+| Welcome to Mega City | 100.00% | ~29 |
+| Law and Order | 76.00% | ~22 |
+| Licence To Kill | 66.00% | ~19 |
+| Hammer Time | 41.00% | ~12 |
+| Escape From M.C. | 28.00% | ~8 |
+| Restore Honor | 24.00% | ~7 |
 | Overkill | 14.00% | ~4 |
 | Bring Down the Corp | 7.00% | ~2 |
-| Gibbing Love | 4.00% | ~1 |
-| Lieutenant | 4.00% | ~1 |
-| Dust to Dust | 4.00% | ~1 |
-| Flawless Victory | 4.00% | ~1 |
-| Knife Juggler | 4.00% | ~1 |
+| Gibbing Love | 3.00% | ~1 |
+| Lieutenant | 3.00% | ~1 |
+| Dust to Dust | 3.00% | ~1 |
+| Flawless Victory | 3.00% | ~1 |
+| Knife Juggler | 3.00% | ~1 |
 | Head of the Snake | 0.00% | ~0 |
 | Barbecue Time | 0.00% | ~0 |
 | Vehicular Mayhem | 0.00% | ~0 |
@@ -31,7 +31,7 @@
 | Fashionista | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 386)  
+Progressed: 29 (Ranked 385)  
 Completed: 0 (0.00%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -44,3 +44,4 @@ Completed: 0 (0.00%) (Ranked 247)
 | 2023-08-01 | 26 | 0 |
 | 2023-08-02 | 27 | 0 |
 | 2023-08-03 | 28 | 0 |
+| 2023-08-04 | 29 | 0 |

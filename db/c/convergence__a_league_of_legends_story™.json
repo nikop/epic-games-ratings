@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 820,
+  "EOS_Progressed": 821,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
@@ -1925,6 +1925,11 @@
       "Time": "2023-08-02T14:04:14.1783679+00:00",
       "NumProgressed": 820,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-04T05:05:08.4777252+00:00",
+      "NumProgressed": 821,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -1944,7 +1949,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2128,7 +2133,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "MapCompletion1",
@@ -2176,7 +2181,7 @@
       "Name": "Time Flies",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ParryBoss",
@@ -2192,7 +2197,7 @@
       "Name": "No, Thanks!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2200,7 +2205,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2216,7 +2221,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "RewindDamage1",
@@ -2320,7 +2325,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "WatcherFought",
@@ -2334,9 +2339,9 @@
       "ID": "WatcherSpared",
       "SetID": "a9e499d",
       "Name": "Good Neighbor",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 90
     },
     {
       "ID": "Zarkon1Defeated",
@@ -2344,7 +2349,7 @@
       "Name": "The Brass Boss",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2359,7 +2364,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 820,
+      "Progressed": 821,
       "Completed": 5
     }
   ],
@@ -2367,8 +2372,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-04T04:04:56.6276936+00:00",
+  "LastChanged_Achievements": "2023-08-04T05:05:08.4777243+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.2379789+00:00",
-  "LastUpdate_Ratings": "2023-08-04T04:00:12.5240547+00:00",
-  "LastUpdate_Achievements": "2023-08-04T04:04:56.6277525+00:00"
+  "LastUpdate_Ratings": "2023-08-04T05:00:57.8436442+00:00",
+  "LastUpdate_Achievements": "2023-08-04T05:05:08.4778282+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 451,
+  "EOS_Progressed": 452,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 18.18,
+  "EOS_Completed_Percentage": 18.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2178,6 +2178,11 @@
       "Time": "2023-08-03T22:05:00.6267495+00:00",
       "NumProgressed": 451,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-08-04T05:04:35.585297+00:00",
+      "NumProgressed": 452,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 22,
@@ -2189,7 +2194,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "LEVEL_002",
@@ -2197,7 +2202,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "LEVEL_003",
@@ -2229,7 +2234,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "LEVEL_007",
@@ -2237,7 +2242,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "LEVEL_008",
@@ -2245,7 +2250,7 @@
       "Name": "Passion for sports",
       "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "LEVEL_009",
@@ -2253,7 +2258,7 @@
       "Name": "Who loves trains?",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "LEVEL_010",
@@ -2269,7 +2274,7 @@
       "Name": "At the heart of the city",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "LEVEL_012",
@@ -2283,9 +2288,9 @@
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 104
     },
     {
       "ID": "LEVEL_014",
@@ -2364,7 +2369,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 451,
+      "Progressed": 452,
       "Completed": 82
     }
   ],
@@ -2372,8 +2377,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-08-04T04:04:33.2680134+00:00",
+  "LastChanged_Achievements": "2023-08-04T05:04:35.585296+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:55.2732426+00:00",
-  "LastUpdate_Ratings": "2023-08-04T03:58:50.1960322+00:00",
-  "LastUpdate_Achievements": "2023-08-04T04:04:33.2680428+00:00"
+  "LastUpdate_Ratings": "2023-08-04T04:59:17.9327948+00:00",
+  "LastUpdate_Achievements": "2023-08-04T05:04:35.5853481+00:00"
 }

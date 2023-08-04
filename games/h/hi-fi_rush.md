@@ -11,13 +11,13 @@ Rating: 4.87 (Ranked 24)
 | Cream of the Crop | 5.00% | ~186 |
 | Thanks for the free chip, Peppermint! | 5.00% | ~186 |
 | Who put gears in there? | 5.00% | ~186 |
+| This will cost you big time | 4.00% | ~148 |
 | I play my own way! | 4.00% | ~148 |
 | You got this, Peppermint? | 4.00% | ~148 |
 | Perfect Parry | 4.00% | ~148 |
 | Uh, they were broken when I got here | 4.00% | ~148 |
 | Alright, that felt AWESOME! | 4.00% | ~148 |
 | NOW we got a kickass hideout! | 4.00% | ~89 |
-| This will cost you big time | 3.00% | ~111 |
 | The Negotiator | 3.00% | ~111 |
 | Headliner | 3.00% | ~111 |
 | Time to pay up! | 3.00% | ~111 |
@@ -37,7 +37,7 @@ Rating: 4.87 (Ranked 24)
 | Chip-tuned | 1.00% | ~37 |
 | There's such a thing as TOO helpful | 1.00% | ~37 |
 | Wanna hear my playlist? | 1.00% | ~37 |
-| Check out my moves! | 0.90% | ~33 |
+| Check out my moves! | 1.00% | ~37 |
 | Call me Turbo Chai | 0.90% | ~20 |
 | I think I found your calling, Macaron | 0.80% | ~30 |
 | I told you I'd be fine, Peppermint! | 0.80% | ~30 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,710 (Ranked 147)  
+Progressed: 3,711 (Ranked 147)  
 Completed: 6 (0.16%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 6 (0.16%) (Ranked 179)
 | 2023-08-01 | 3,666 | 6 |
 | 2023-08-02 | 3,680 | 6 |
 | 2023-08-03 | 3,705 | 6 |
-| 2023-08-04 | 3,710 | 6 |
+| 2023-08-04 | 3,711 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

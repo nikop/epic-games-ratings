@@ -2,9 +2,9 @@
   "ID": "a0a5746aad2645a9a23913766d2f4667",
   "Name": "Mega City Police",
   "ProductSlug": "mega-city-police-22a245",
-  "Ranking_EOS_Progress": 386,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-07-28T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 29,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -146,6 +146,11 @@
       "Time": "2023-08-03T08:06:40.4420685+00:00",
       "NumProgressed": 28,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T05:06:44.8923973+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-26T06:05:38.0002826+00:00",
@@ -156,7 +161,7 @@
       "ID": "ACH_BLAST_APART_100",
       "SetID": "a2aifpa",
       "Name": "Gibbing Love",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -196,7 +201,7 @@
       "ID": "ACH_DEATH_1",
       "SetID": "a2aifpa",
       "Name": "Welcome to Mega City",
-      "Percentage": 104,
+      "Percentage": 100,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -212,7 +217,7 @@
       "ID": "ACH_DIFFICULTY_01",
       "SetID": "a2aifpa",
       "Name": "Lieutenant",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -236,7 +241,7 @@
       "ID": "ACH_DISINTEGRATE_100",
       "SetID": "a2aifpa",
       "Name": "Dust to Dust",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -260,7 +265,7 @@
       "ID": "ACH_FLAWLESS_BOSS",
       "SetID": "a2aifpa",
       "Name": "Flawless Victory",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -284,7 +289,7 @@
       "ID": "ACH_LEVEL_01",
       "SetID": "a2aifpa",
       "Name": "Law and Order",
-      "Percentage": 79,
+      "Percentage": 76,
       "XP": 20,
       "UsersEstimate": 22
     },
@@ -292,7 +297,7 @@
       "ID": "ACH_LEVEL_02",
       "SetID": "a2aifpa",
       "Name": "Hammer Time",
-      "Percentage": 43,
+      "Percentage": 41,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -300,7 +305,7 @@
       "ID": "ACH_LEVEL_03",
       "SetID": "a2aifpa",
       "Name": "Escape From M.C.",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -308,7 +313,7 @@
       "ID": "ACH_LEVEL_04",
       "SetID": "a2aifpa",
       "Name": "Restore Honor",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -348,7 +353,7 @@
       "ID": "ACH_THROW_KILLS_50",
       "SetID": "a2aifpa",
       "Name": "Knife Juggler",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -356,7 +361,7 @@
       "ID": "ACH_TUTORIAL",
       "SetID": "a2aifpa",
       "Name": "Licence To Kill",
-      "Percentage": 68,
+      "Percentage": 66,
       "XP": 20,
       "UsersEstimate": 19
     }
@@ -365,20 +370,20 @@
     {
       "ID": "a2aifpa",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 29,
       "Completed": 0
     },
     {
       "ID": "467j267",
       "IsBase": false,
-      "Progressed": 4,
-      "Completed": 4
+      "Progressed": 5,
+      "Completed": 5
     }
   ],
   "FirstSeen": "2023-07-30T18:59:40.5539908+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2023-08-04T04:06:12.8006989+00:00",
+  "LastChanged_Achievements": "2023-08-04T05:06:44.8923964+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:40.3156912+00:00",
-  "LastUpdate_Ratings": "2023-08-04T03:59:39.7715726+00:00",
-  "LastUpdate_Achievements": "2023-08-04T04:06:12.8007186+00:00"
+  "LastUpdate_Ratings": "2023-08-04T05:00:18.7937968+00:00",
+  "LastUpdate_Achievements": "2023-08-04T05:06:44.8924313+00:00"
 }

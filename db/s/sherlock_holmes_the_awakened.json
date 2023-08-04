@@ -2174,17 +2174,17 @@
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 275
+      "UsersEstimate": 281
     },
     {
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 275
+      "UsersEstimate": 281
     },
     {
       "ID": "MQ06_1",
@@ -2279,8 +2279,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-07-24T23:58:19.6744242+00:00",
-  "LastChanged_Achievements": "2023-08-04T04:06:57.3112521+00:00",
+  "LastChanged_Achievements": "2023-08-04T05:07:50.787879+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:58.5261994+00:00",
-  "LastUpdate_Ratings": "2023-08-04T03:58:05.6527884+00:00",
-  "LastUpdate_Achievements": "2023-08-04T04:06:57.3112859+00:00"
+  "LastUpdate_Ratings": "2023-08-04T04:58:19.0284055+00:00",
+  "LastUpdate_Achievements": "2023-08-04T05:07:50.7879276+00:00"
 }
