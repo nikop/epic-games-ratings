@@ -67,7 +67,7 @@
 | 58 | [TUNIC](games/t/tunic.md) | 4.83 | 34 | 441 |
 | 66 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 509 |
 | 66 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,501 | 120 |
-| 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,686 | 60 |
+| 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,691 | 60 |
 | 66 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 509 |
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 509 |
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 446 |
@@ -898,15 +898,15 @@
 | 896 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 509 |
 | 897 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 86 | 354 |
 | 897 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.11 | 0 | 509 |
-| 899 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 0 | 509 |
-| 899 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 509 |
-| 899 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,481 | 100 |
-| 902 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.09 | 0 | 509 |
-| 902 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 509 |
-| 902 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 509 |
-| 902 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 509 |
-| 902 | [Obduction](games/o/obduction.md) | 4.09 | 52 | 396 |
-| 902 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 509 |
+| 897 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.11 | 0 | 509 |
+| 900 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 0 | 509 |
+| 900 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 509 |
+| 900 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,481 | 100 |
+| 903 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 509 |
+| 903 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 509 |
+| 903 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 509 |
+| 903 | [Obduction](games/o/obduction.md) | 4.09 | 52 | 396 |
+| 903 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 509 |
 | 908 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.08 | 0 | 509 |
 | 908 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 0 | 509 |
 | 908 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 509 |

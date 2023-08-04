@@ -59,7 +59,7 @@
 | 57 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,955 | 4.79 | 88 |
 | 58 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,824 | 4.66 | 273 |
 | 59 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 5,726 | 4.74 | 147 |
-| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,686 | 4.82 | 66 |
+| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,691 | 4.82 | 66 |
 | 61 | [Prey](games/p/prey.md) | 5,625 | 4.62 | 350 |
 | 62 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,611 | 4.69 | 213 |
 | 63 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,594 | 4.75 | 135 |
@@ -99,7 +99,7 @@
 | 97 | [Among Us](games/a/among_us.md) | 2,586 | 4.57 | 446 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,541 | 4.61 | 367 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,510 | 4.27 | 807 |
-| 100 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,481 | 4.10 | 899 |
+| 100 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,481 | 4.10 | 900 |
 | 101 | [Gotham Knights](games/g/gotham_knights.md) | 2,476 | 4.18 | 868 |
 | 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,438 | 4.80 | 82 |
 | 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,366 | 4.78 | 99 |
@@ -395,7 +395,7 @@
 | 393 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 57 | 4.57 | 446 |
 | 394 | [Ranch Simulator](games/r/ranch_simulator.md) | 53 | 4.45 | 630 |
 | 394 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 53 | 4.65 | 299 |
-| 396 | [Obduction](games/o/obduction.md) | 52 | 4.09 | 902 |
+| 396 | [Obduction](games/o/obduction.md) | 52 | 4.09 | 903 |
 | 396 | [The Escapists 2](games/t/the_escapists_2.md) | 52 | 4.58 | 424 |
 | 398 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 51 | 4.84 | 49 |
 | 398 | [Session: Skate Sim](games/s/session__skate_sim.md) | 51 | 4.67 | 256 |

@@ -22,8 +22,8 @@
 | 19 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.95% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 23 | [Remains](games/r/remains.md) | 10.64% |
-| 24 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.55% |
+| 23 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.70% |
+| 24 | [Remains](games/r/remains.md) | 10.64% |
 | 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.08% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.43% |
@@ -526,4 +526,4 @@
 | 247 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 247 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 247 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,997 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,998 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
