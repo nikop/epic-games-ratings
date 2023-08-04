@@ -14,8 +14,8 @@
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.18% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.02% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.40% |
-| 16 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 13.33% |
+| 15 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 13.33% |
+| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.27% |
 | 17 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
 | 19 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 11.11% |
@@ -36,7 +36,7 @@
 | 34 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.22% |
 | 35 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.01% |
 | 36 | [Time Loader](games/t/time_loader.md) | 6.96% |
-| 37 | [Scorn](games/s/scorn.md) | 6.94% |
+| 37 | [Scorn](games/s/scorn.md) | 6.93% |
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.25% |
@@ -62,7 +62,7 @@
 | 60 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.35% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.23% |
 | 62 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.20% |
-| 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.10% |
+| 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.09% |
 | 64 | [The Complex](games/t/the_complex.md) | 3.04% |
 | 65 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
 | 66 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -112,7 +112,7 @@
 | 109 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.02% |
 | 111 | [Adios](games/a/adios.md) | 0.99% |
 | 112 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 113 | [Sable](games/s/sable.md) | 0.97% |
+| 112 | [Sable](games/s/sable.md) | 0.98% |
 | 114 | [Hades](games/h/hades.md) | 0.90% |
 | 115 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 116 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |

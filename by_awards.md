@@ -75,7 +75,7 @@
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,455 | 4.60 | 391 |
 | 74 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,454 | 4.70 | 198 |
 | 75 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,360 | 4.76 | 117 |
-| 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,225 | 4.56 | 466 |
+| 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,229 | 4.56 | 466 |
 | 77 | [God of War](games/g/god_of_war.md) | 4,186 | 4.88 | 18 |
 | 78 | [SMITE](games/s/smite.md) | 4,118 | 4.44 | 646 |
 | 79 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,106 | 4.51 | 542 |
@@ -100,7 +100,7 @@
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,541 | 4.61 | 367 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,510 | 4.27 | 807 |
 | 100 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,481 | 4.10 | 899 |
-| 101 | [Gotham Knights](games/g/gotham_knights.md) | 2,476 | 4.18 | 867 |
+| 101 | [Gotham Knights](games/g/gotham_knights.md) | 2,476 | 4.18 | 868 |
 | 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,438 | 4.80 | 82 |
 | 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,366 | 4.78 | 99 |
 | 104 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,256 | 4.48 | 589 |
@@ -213,8 +213,8 @@
 | 211 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 406 | 4.60 | 391 |
 | 212 | [Warface](games/w/warface.md) | 405 | 3.91 | 943 |
 | 213 | [Slime Rancher](games/s/slime_rancher.md) | 397 | 4.82 | 66 |
-| 214 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 389 | 3.94 | 936 |
-| 215 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 388 | 4.70 | 198 |
+| 214 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 390 | 4.70 | 198 |
+| 215 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 389 | 3.94 | 936 |
 | 216 | [Nuclear Throne](games/n/nuclear_throne.md) | 383 | 4.79 | 88 |
 | 217 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 381 | 4.61 | 367 |
 | 218 | [For The King](games/f/for_the_king.md) | 378 | 4.70 | 198 |
@@ -273,7 +273,7 @@
 | 271 | [Stranded Deep](games/s/stranded_deep.md) | 206 | 4.22 | 840 |
 | 272 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 202 | 4.35 | 746 |
 | 273 | [HITMAN](games/h/hitman.md) | 201 | 4.64 | 316 |
-| 274 | [Relicta](games/r/relicta.md) | 199 | 4.15 | 883 |
+| 274 | [Relicta](games/r/relicta.md) | 199 | 4.15 | 884 |
 | 275 | [Crashlands](games/c/crashlands.md) | 191 | 4.66 | 273 |
 | 276 | [Unrailed!](games/u/unrailed!.md) | 190 | 4.64 | 316 |
 | 277 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 188 | 4.51 | 542 |
@@ -341,7 +341,7 @@
 | 339 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 97 | 4.86 | 29 |
 | 339 | [The Captain](games/t/the_captain.md) | 97 | 4.44 | 646 |
 | 341 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 96 | 4.35 | 746 |
-| 341 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 867 |
+| 341 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 868 |
 | 341 | [Tropico 6](games/t/tropico_6.md) | 96 | 4.67 | 256 |
 | 341 | [Verdun](games/v/verdun.md) | 96 | 4.52 | 526 |
 | 345 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 95 | 4.51 | 542 |
@@ -450,7 +450,7 @@
 | 446 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 33 | 4.19 | 861 |
 | 446 | [Outward Definitive Edition](games/o/outward.md) | 33 | 4.55 | 483 |
 | 446 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 33 | 4.53 | 513 |
-| 451 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 32 | 4.15 | 883 |
+| 451 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 32 | 4.15 | 884 |
 | 451 | [Chorus](games/c/chorus.md) | 32 | 4.45 | 630 |
 | 451 | [MythForce](games/m/mythforce.md) | 32 | 4.49 | 577 |
 | 451 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 32 | 4.66 | 273 |
