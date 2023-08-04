@@ -4,7 +4,7 @@
   "ProductSlug": "infindustry-cccc40",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
@@ -418,9 +418,9 @@
       "ID": "Cook",
       "SetID": "82ojhod",
       "Name": "Cook",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Crafter",
@@ -513,8 +513,8 @@
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-08-04T21:03:47.8198634+00:00",
+  "LastChanged_Achievements": "2023-08-04T22:03:37.0052763+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:56:55.0389971+00:00",
-  "LastUpdate_Ratings": "2023-08-04T20:58:11.1489403+00:00",
-  "LastUpdate_Achievements": "2023-08-04T21:03:47.8198757+00:00"
+  "LastUpdate_Ratings": "2023-08-04T21:57:49.4433094+00:00",
+  "LastUpdate_Achievements": "2023-08-04T22:03:37.005288+00:00"
 }

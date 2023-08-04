@@ -149,12 +149,12 @@ Completed: 34 (0.29%) (Ranked 162)
 | 2023-08-03 | 11,804 | 34 |
 | 2023-08-04 | 11,825 | 34 |
 ## Awards
-Max (Great Boss Battles): 239  (Ranked 255)  
-Sum: 259 (Ranked 351)  
-Diff (max vs sum): -96  
+Max (Great Boss Battles): 242  (Ranked 253)  
+Sum: 262 (Ranked 351)  
+Diff (max vs sum): -98  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 239 |
+| This game has Great Boss Battles | 242 |
 | This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -248,3 +248,4 @@ Diff (max vs sum): -96
 | 2023-07-31 | 4.56 | 233 | 253 |
 | 2023-08-01 | 4.56 | 235 | 255 |
 | 2023-08-03 | 4.56 | 239 | 259 |
+| 2023-08-04 | 4.56 | 242 | 262 |

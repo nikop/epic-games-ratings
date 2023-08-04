@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -2561,9 +2561,9 @@
       "ID": "RepairChef",
       "SetID": "9lj35g4",
       "Name": "Kitchen Ready To Cook",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 867
     },
     {
       "ID": "RepairSmith",
@@ -2616,8 +2616,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-30T07:58:33.6633976+00:00",
-  "LastChanged_Achievements": "2023-08-04T21:04:25.9326161+00:00",
+  "LastChanged_Achievements": "2023-08-04T22:04:01.248137+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.5556081+00:00",
-  "LastUpdate_Ratings": "2023-08-04T20:59:39.8759617+00:00",
-  "LastUpdate_Achievements": "2023-08-04T21:04:25.9326559+00:00"
+  "LastUpdate_Ratings": "2023-08-04T21:58:56.4995564+00:00",
+  "LastUpdate_Achievements": "2023-08-04T22:04:01.248177+00:00"
 }

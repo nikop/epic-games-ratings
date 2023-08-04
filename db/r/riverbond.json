@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524135,
+  "EOS_Progressed": 524137,
   "EOS_Completed": 455,
-  "EOS_NewPlayers": 668,
+  "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -11620,6 +11620,11 @@
       "Time": "2023-08-04T21:05:15.6634822+00:00",
       "NumProgressed": 524135,
       "NumCompleted": 455
+    },
+    {
+      "Time": "2023-08-04T22:04:42.868306+00:00",
+      "NumProgressed": 524137,
+      "NumCompleted": 455
     }
   ],
   "TotalAchievements": 57,
@@ -11631,7 +11636,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 120551
+      "UsersEstimate": 120552
     },
     {
       "ID": "10",
@@ -11639,7 +11644,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 235861
+      "UsersEstimate": 235862
     },
     {
       "ID": "11",
@@ -11647,7 +11652,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 366894
+      "UsersEstimate": 366896
     },
     {
       "ID": "12",
@@ -11703,7 +11708,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 78620
+      "UsersEstimate": 78621
     },
     {
       "ID": "19",
@@ -11711,7 +11716,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 324964
+      "UsersEstimate": 324965
     },
     {
       "ID": "2",
@@ -11727,7 +11732,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 125792
+      "UsersEstimate": 125793
     },
     {
       "ID": "21",
@@ -11751,7 +11756,7 @@
       "Name": "Partner in Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 36689
+      "UsersEstimate": 36690
     },
     {
       "ID": "24",
@@ -11831,7 +11836,7 @@
       "Name": "Hard to Hear",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36689
+      "UsersEstimate": 36690
     },
     {
       "ID": "33",
@@ -11887,7 +11892,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 178206
+      "UsersEstimate": 178207
     },
     {
       "ID": "4",
@@ -11935,7 +11940,7 @@
       "Name": "Under the Radar",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36689
+      "UsersEstimate": 36690
     },
     {
       "ID": "45",
@@ -11959,7 +11964,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 324964
+      "UsersEstimate": 324965
     },
     {
       "ID": "48",
@@ -11975,7 +11980,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 178206
+      "UsersEstimate": 178207
     },
     {
       "ID": "5",
@@ -12007,7 +12012,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 241102
+      "UsersEstimate": 241103
     },
     {
       "ID": "53",
@@ -12015,7 +12020,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 120551
+      "UsersEstimate": 120552
     },
     {
       "ID": "54",
@@ -12086,15 +12091,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 524135,
+      "Progressed": 524137,
       "Completed": 455
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-04T21:05:15.6634817+00:00",
+  "LastChanged_Achievements": "2023-08-04T22:04:42.8683054+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:06.8481314+00:00",
-  "LastUpdate_Ratings": "2023-08-04T20:58:27.1704688+00:00",
-  "LastUpdate_Achievements": "2023-08-04T21:05:15.6637055+00:00"
+  "LastUpdate_Ratings": "2023-08-04T21:58:01.4315901+00:00",
+  "LastUpdate_Achievements": "2023-08-04T22:04:42.8684279+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2446,
+  "EOS_Progressed": 2447,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -2343,6 +2343,11 @@
       "Time": "2023-08-04T19:04:23.3865226+00:00",
       "NumProgressed": 2446,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-04T22:03:46.8351419+00:00",
+      "NumProgressed": 2447,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2418,7 +2423,7 @@
       "Name": "Starting as a duo",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -2426,7 +2431,7 @@
       "Name": "Stronger together",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "THE_END",
@@ -2457,7 +2462,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2446,
+      "Progressed": 2447,
       "Completed": 6
     }
   ],
@@ -2465,8 +2470,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-04T21:04:09.3304249+00:00",
+  "LastChanged_Achievements": "2023-08-04T22:03:46.8351407+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:06.4701918+00:00",
-  "LastUpdate_Ratings": "2023-08-04T21:00:48.0449034+00:00",
-  "LastUpdate_Achievements": "2023-08-04T21:04:09.3304527+00:00"
+  "LastUpdate_Ratings": "2023-08-04T21:59:49.5986698+00:00",
+  "LastUpdate_Achievements": "2023-08-04T22:03:46.835166+00:00"
 }

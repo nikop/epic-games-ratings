@@ -73,6 +73,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 0.60% | ~80 |
 | Mythology | 0.60% | ~80 |
 | Hanging Gardens in Babylon | 0.50% | ~66 |
+| Beloved | 0.50% | ~66 |
 | Conqueror | 0.50% | ~66 |
 | Good Difficulty | 0.50% | ~66 |
 | Champions | 0.50% | ~66 |
@@ -82,7 +83,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.50% | ~66 |
 | Building Wonders | 0.50% | ~66 |
 | Points Victory | 0.50% | ~66 |
-| Beloved | 0.40% | ~53 |
 | Devout | 0.40% | ~53 |
 | Lion | 0.40% | ~53 |
 | Mighty | 0.40% | ~53 |
@@ -227,6 +227,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pharaoh | 0.10% | ~13 |
 | A Tyresome Siege | 0.10% | ~13 |
 | Alexander the Mediocre | 0.10% | ~13 |
+| Alexander the Alright | 0.10% | ~13 |
 | Hardcore | 0.10% | ~13 |
 | Learn By Playing 1 - Able | 0.10% | ~13 |
 | Learn By Playing 2 - Just | 0.10% | ~13 |
@@ -289,7 +290,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Not a Scratch | 0.00% | ~0 |
 | Queen of War | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
-| Alexander the Alright | 0.00% | ~0 |
 | Youth Prevails | 0.00% | ~0 |
 | Toppling the Giants | 0.00% | ~0 |
 | Rule of Pharaohs | 0.00% | ~0 |

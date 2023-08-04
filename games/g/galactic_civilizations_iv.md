@@ -6,7 +6,7 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 78.00% | ~4,913 |
+| Colonize a Planet | 79.00% | ~4,976 |
 | Worker Specialization | 78.00% | ~4,913 |
 | First Contact | 73.00% | ~4,598 |
 | Win a Battle | 67.00% | ~4,220 |

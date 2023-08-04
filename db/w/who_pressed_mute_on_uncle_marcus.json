@@ -377,9 +377,9 @@
       "ID": "blow",
       "SetID": "202dmm8",
       "Name": "Blow",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "brown_nosing",
@@ -393,9 +393,9 @@
       "ID": "cheat",
       "SetID": "202dmm8",
       "Name": "Cheat",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "delusions",
@@ -409,9 +409,9 @@
       "ID": "dont_fear_the_baldness",
       "SetID": "202dmm8",
       "Name": "Don\u0027t fear the baldness",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "instinct",
@@ -433,9 +433,9 @@
       "ID": "just_like_me",
       "SetID": "202dmm8",
       "Name": "Just like me",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "making_a_murderer",
@@ -506,8 +506,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-08-04T21:05:23.1492262+00:00",
+  "LastChanged_Achievements": "2023-08-04T22:04:48.9951244+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:57.5511107+00:00",
-  "LastUpdate_Ratings": "2023-08-04T21:01:46.6847312+00:00",
-  "LastUpdate_Achievements": "2023-08-04T21:05:23.1492589+00:00"
+  "LastUpdate_Ratings": "2023-08-04T22:00:36.3572991+00:00",
+  "LastUpdate_Achievements": "2023-08-04T22:04:48.9951413+00:00"
 }

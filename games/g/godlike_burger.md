@@ -5,8 +5,8 @@ Rating: 4.27 (Ranked 807)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 81.00% | ~303 |
-| FIRST BLOOD | 77.00% | ~288 |
+| MASTER CHEF | 82.00% | ~307 |
+| FIRST BLOOD | 78.00% | ~292 |
 | KEVIN! | 67.00% | ~251 |
 | JACK OF ALL TRADES | 60.00% | ~224 |
 | CRIMINAL | 55.00% | ~206 |

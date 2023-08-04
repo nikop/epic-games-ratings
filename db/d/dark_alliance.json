@@ -4,7 +4,7 @@
   "ProductSlug": "dark-alliance",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-29T03:57:14.3937975+00:00",
-  "LastUpdate_Ratings": "2023-08-04T20:58:43.3054782+00:00",
-  "LastUpdate_Achievements": "2023-08-04T21:06:43.0643969+00:00"
+  "LastUpdate_Ratings": "2023-08-04T21:58:13.7129047+00:00",
+  "LastUpdate_Achievements": "2023-08-04T22:05:54.2681222+00:00"
 }

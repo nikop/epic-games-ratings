@@ -4,7 +4,7 @@
   "ProductSlug": "nhra-championship-drag-racing-speed-for-all-690d95",
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 781,
+  "EOS_Progressed": 782,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -573,6 +573,11 @@
       "Time": "2023-08-02T05:04:39.4053025+00:00",
       "NumProgressed": 781,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-04T22:04:26.527147+00:00",
+      "NumProgressed": 782,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -584,7 +589,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "11",
@@ -616,7 +621,7 @@
       "Name": "Trouble with the swerve",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "15",
@@ -654,9 +659,9 @@
       "ID": "19",
       "SetID": "4n5bj21",
       "Name": "Risky business",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 39
     },
     {
       "ID": "2",
@@ -680,7 +685,7 @@
       "Name": "Participation trophy",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "22",
@@ -824,7 +829,7 @@
       "Name": "Cash Rules Everything Around Me",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "8",
@@ -832,7 +837,7 @@
       "Name": "I didn\u0027t know you where there!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "9",
@@ -840,14 +845,14 @@
       "Name": "Oops, My bad",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 781,
+      "Progressed": 782,
       "Completed": 0
     }
   ],
@@ -855,8 +860,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-08-04T21:04:56.1678853+00:00",
+  "LastChanged_Achievements": "2023-08-04T22:04:26.5271464+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.7257654+00:00",
-  "LastUpdate_Ratings": "2023-08-04T20:59:36.6625584+00:00",
-  "LastUpdate_Achievements": "2023-08-04T21:04:56.1679111+00:00"
+  "LastUpdate_Ratings": "2023-08-04T21:58:54.6252956+00:00",
+  "LastUpdate_Achievements": "2023-08-04T22:04:26.5271751+00:00"
 }

@@ -25,7 +25,7 @@ Number of Ratings: 180  (23.09.2022)
 | First electric train arrived | 47.00% | ~718 |
 | First ship arrived | 46.00% | ~703 |
 | Now what? | 46.00% | ~703 |
-| High speed | 43.00% | ~657 |
+| High speed | 44.00% | ~672 |
 | Transport shark | 41.00% | ~626 |
 | First aircraft arrived | 41.00% | ~626 |
 | Exemplary student | 41.00% | ~626 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -243,9 +243,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1953,
+  "EOS_Progressed": 1955,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -2073,6 +2073,11 @@
       "Time": "2023-08-04T16:04:44.3499663+00:00",
       "NumProgressed": 1953,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-04T22:04:12.0764161+00:00",
+      "NumProgressed": 1955,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -2092,15 +2097,15 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1271
     },
     {
       "ID": "ACHV_03",
       "SetID": "8p5mlmc",
       "Name": "Dead Again",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_04",
@@ -2170,9 +2175,9 @@
       "ID": "ACHV_12",
       "SetID": "8p5mlmc",
       "Name": "Reverse Engineering",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHV_13",
@@ -2220,7 +2225,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACHV_19",
@@ -2236,7 +2241,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACHV_21",
@@ -2258,9 +2263,9 @@
       "ID": "ACHV_23",
       "SetID": "8p5mlmc",
       "Name": "HEADSHOT!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 742
+      "UsersEstimate": 723
     },
     {
       "ID": "ACHV_24",
@@ -2276,7 +2281,7 @@
       "Name": "Full Arsenal",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACHV_26",
@@ -2284,7 +2289,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1564
     },
     {
       "ID": "ACHV_27",
@@ -2308,7 +2313,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACHV_30",
@@ -2388,7 +2393,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1486
     },
     {
       "ID": "ACHV_40",
@@ -2404,7 +2409,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "ACHV_42",
@@ -2412,7 +2417,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACHV_43",
@@ -2539,7 +2544,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1953,
+      "Progressed": 1955,
       "Completed": 10
     }
   ],
@@ -2547,8 +2552,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-08-04T21:04:39.0627572+00:00",
+  "LastChanged_Achievements": "2023-08-04T22:04:12.0764156+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:20.3642762+00:00",
-  "LastUpdate_Ratings": "2023-08-04T20:57:26.1577518+00:00",
-  "LastUpdate_Achievements": "2023-08-04T21:04:39.0628368+00:00"
+  "LastUpdate_Ratings": "2023-08-04T21:57:13.7696808+00:00",
+  "LastUpdate_Achievements": "2023-08-04T22:04:12.0764834+00:00"
 }

@@ -14,8 +14,8 @@ Rating: 4.53 (Ranked 513)
 | Defeat 25 Grubs | 52.00% | ~959 |
 | Rescue Redgi's Brothers | 52.00% | ~959 |
 | Collect Iron Ore | 47.00% | ~867 |
+| Kitchen Ready To Cook | 47.00% | ~867 |
 | Defeat 25 Mozis | 46.00% | ~849 |
-| Kitchen Ready To Cook | 46.00% | ~849 |
 | Collect Gold | 45.00% | ~830 |
 | Smithy Ready to Craft | 45.00% | ~830 |
 | Fix the Travellers Wagon | 43.00% | ~793 |

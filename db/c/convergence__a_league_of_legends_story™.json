@@ -2,13 +2,13 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 389,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2008,9 +2008,9 @@
       "ID": "CosmeticCompletion1",
       "SetID": "a9e499d",
       "Name": "Sartorialist",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 58
     },
     {
       "ID": "CosmeticProgress1",
@@ -2377,8 +2377,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-04T21:05:14.6855182+00:00",
+  "LastChanged_Achievements": "2023-08-04T22:04:41.8810468+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:01.2379789+00:00",
-  "LastUpdate_Ratings": "2023-08-04T21:00:53.8574617+00:00",
-  "LastUpdate_Achievements": "2023-08-04T21:05:14.6855913+00:00"
+  "LastUpdate_Ratings": "2023-08-04T21:59:54.8521599+00:00",
+  "LastUpdate_Achievements": "2023-08-04T22:04:41.8811017+00:00"
 }

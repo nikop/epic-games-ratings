@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56214,
+  "EOS_Progressed": 56215,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6887,6 +6887,11 @@
       "Time": "2023-08-04T19:07:07.1012078+00:00",
       "NumProgressed": 56214,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-04T22:06:01.9202212+00:00",
+      "NumProgressed": 56215,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -7034,7 +7039,7 @@
       "Name": "Gimme My Presents Back!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "HFZGoober",
@@ -7186,7 +7191,7 @@
       "Name": "Cleaning Out Santa\u0027s Sack",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "SecretLevel",
@@ -7218,7 +7223,7 @@
       "Name": "Teamwork Rules",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "TheWorstPossibleLuck",
@@ -7289,7 +7294,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56214,
+      "Progressed": 56215,
       "Completed": 4
     }
   ],
@@ -7297,8 +7302,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-08-04T21:06:52.1264384+00:00",
+  "LastChanged_Achievements": "2023-08-04T22:06:01.9202207+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:57.4410287+00:00",
-  "LastUpdate_Ratings": "2023-08-04T20:57:22.0379249+00:00",
-  "LastUpdate_Achievements": "2023-08-04T21:06:52.1265111+00:00"
+  "LastUpdate_Ratings": "2023-08-04T21:57:10.3818552+00:00",
+  "LastUpdate_Achievements": "2023-08-04T22:06:01.9202976+00:00"
 }

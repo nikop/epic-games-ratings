@@ -5554,9 +5554,9 @@
       "Count": 3341
     }
   ],
-  "EOS_Progressed": 218698,
+  "EOS_Progressed": 218712,
   "EOS_Completed": 2152,
-  "EOS_NewPlayers": 2221,
+  "EOS_NewPlayers": 2216,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17024,6 +17024,11 @@
       "Time": "2023-08-04T21:02:38.6965899+00:00",
       "NumProgressed": 218698,
       "NumCompleted": 2152
+    },
+    {
+      "Time": "2023-08-04T22:02:08.5205652+00:00",
+      "NumProgressed": 218712,
+      "NumCompleted": 2152
     }
   ],
   "TotalAchievements": 512,
@@ -17651,7 +17656,7 @@
       "Name": "Heavy Burden",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "objective_completed_1152",
@@ -17673,9 +17678,9 @@
       "ID": "objective_completed_1154",
       "SetID": "415jc5c",
       "Name": "Owlbear Necessities",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 740
     },
     {
       "ID": "objective_completed_1158",
@@ -17755,7 +17760,7 @@
       "Name": "Friends of the Forest",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "objective_completed_1170",
@@ -18219,7 +18224,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "objective_completed_164",
@@ -18235,7 +18240,7 @@
       "Name": "Street War",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "objective_completed_166",
@@ -18267,7 +18272,7 @@
       "Name": "March of the Undead",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "objective_completed_170",
@@ -18371,7 +18376,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "objective_completed_208",
@@ -18379,7 +18384,7 @@
       "Name": "The Mists of Ravenloft",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "objective_completed_209",
@@ -18395,7 +18400,7 @@
       "Name": "Invisible Shadows",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "objective_completed_210",
@@ -18483,7 +18488,7 @@
       "Name": "The Botched Kidnapping",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "objective_completed_236",
@@ -18715,7 +18720,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "objective_completed_35",
@@ -21130,21 +21135,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184972,
+      "Progressed": 184986,
       "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218698,
+      "Progressed": 218712,
       "Completed": 2152
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-04T18:59:33.4169358+00:00",
-  "LastChanged_Achievements": "2023-08-04T21:02:38.6965894+00:00",
+  "LastChanged_Achievements": "2023-08-04T22:02:08.5205644+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-04T20:59:21.9031561+00:00",
-  "LastUpdate_Achievements": "2023-08-04T21:02:38.6997227+00:00"
+  "LastUpdate_Ratings": "2023-08-04T21:58:43.4555171+00:00",
+  "LastUpdate_Achievements": "2023-08-04T22:02:08.5237414+00:00"
 }

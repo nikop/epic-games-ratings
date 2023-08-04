@@ -42,7 +42,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 2.00% | ~323 |
 | Defying the Crown | 2.00% | ~323 |
 | Into the Forest | 2.00% | ~323 |
-| Efficient Explorer | 0.90% | ~146 |
+| Efficient Explorer | 1.00% | ~162 |
 | Prestigious Expedition | 0.80% | ~129 |
 | Blood Flower Farmer | 0.80% | ~129 |
 | Victory through Prosperity | 0.80% | ~129 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~32 |
 | Paradise | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,167 (Ranked 111)  
+Progressed: 16,168 (Ranked 111)  
 Completed: 42 (0.26%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 42 (0.26%) (Ranked 164)
 | 2023-08-01 | 16,122 | 42 |
 | 2023-08-02 | 16,134 | 42 |
 | 2023-08-03 | 16,152 | 42 |
-| 2023-08-04 | 16,167 | 42 |
+| 2023-08-04 | 16,168 | 42 |
 ## Awards
 Max (Quickly Understood Controls): 421  (Ranked 206)  
 Sum: 3,088 (Ranked 159)  

@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,883 (Ranked 62)  
+Progressed: 133,885 (Ranked 62)  
 Completed: 128 (0.10%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 128 (0.10%) (Ranked 197)
 | 2023-08-01 | 133,708 | 125 |
 | 2023-08-02 | 133,764 | 126 |
 | 2023-08-03 | 133,815 | 128 |
-| 2023-08-04 | 133,883 | 128 |
+| 2023-08-04 | 133,885 | 128 |
 ## Awards
 Max (Great for Beginners): 4,686  (Ranked 70)  
 Sum: 27,045 (Ranked 46)  

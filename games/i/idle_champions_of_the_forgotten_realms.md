@@ -40,16 +40,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.60% | ~1,312 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,110 |
 | Thieves of the Coven | 0.50% | ~925 |
-| Heavy Burden | 0.50% | ~1,093 |
-| Friends of the Forest | 0.50% | ~1,093 |
-| Low Initiative | 0.50% | ~1,093 |
-| Street War | 0.50% | ~1,093 |
-| March of the Undead | 0.50% | ~1,093 |
-| No Time To Rest | 0.50% | ~1,093 |
-| The Mists of Ravenloft | 0.50% | ~1,093 |
-| Invisible Shadows | 0.50% | ~1,093 |
-| The Botched Kidnapping | 0.50% | ~1,093 |
-| The Ring of Regeneration | 0.50% | ~1,093 |
+| Heavy Burden | 0.50% | ~1,094 |
+| Friends of the Forest | 0.50% | ~1,094 |
+| Low Initiative | 0.50% | ~1,094 |
+| Street War | 0.50% | ~1,094 |
+| March of the Undead | 0.50% | ~1,094 |
+| No Time To Rest | 0.50% | ~1,094 |
+| The Mists of Ravenloft | 0.50% | ~1,094 |
+| Invisible Shadows | 0.50% | ~1,094 |
+| The Botched Kidnapping | 0.50% | ~1,094 |
+| The Ring of Regeneration | 0.50% | ~1,094 |
 | Not That Type of Helm! | 0.50% | ~925 |
 | Calcryx Tricks | 0.50% | ~925 |
 | Goblin Halls: the Next Generation | 0.50% | ~925 |
@@ -59,6 +59,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Upholding the Law | 0.40% | ~875 |
 | Hither of the Feywild | 0.40% | ~740 |
 | Speeds of Destruction | 0.40% | ~740 |
+| Owlbear Necessities | 0.40% | ~740 |
 | On the Hunt | 0.40% | ~875 |
 | Best Thay Ever | 0.40% | ~740 |
 | A Demi-god's Defender | 0.40% | ~740 |
@@ -94,7 +95,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Downfall | 0.30% | ~555 |
 | Slack-jawed Lorna | 0.30% | ~555 |
 | The Fairy Rings of Thither | 0.30% | ~555 |
-| Owlbear Necessities | 0.30% | ~555 |
 | Well Equipped | 0.30% | ~555 |
 | More Than Well Equipped | 0.30% | ~555 |
 | Keep Your Distance | 0.30% | ~555 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,698 (Ranked 53)  
+Progressed: 218,712 (Ranked 53)  
 Completed: 2,152 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -625,7 +625,7 @@ Completed: 2,152 (0.98%) (Ranked 113)
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
-| 2023-08-04 | 218,698 | 2,152 |
+| 2023-08-04 | 218,712 | 2,152 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,897 (Ranked 38)  
