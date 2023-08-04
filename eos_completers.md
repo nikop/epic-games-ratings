@@ -26,9 +26,9 @@
 | 24 | [Remains](games/r/remains.md) | 10.64% |
 | 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.08% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.26% |
-| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.15% |
-| 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
+| 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.12% |
+| 28 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.09% |
+| 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 31 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.00% |
 | 32 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -91,7 +91,7 @@
 | 89 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 90 | [Frogun](games/f/frogun.md) | 1.81% |
 | 91 | [Sifu](games/s/sifu.md) | 1.80% |
-| 92 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.74% |
+| 92 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.72% |
 | 93 | [Iron Danger](games/i/iron_danger.md) | 1.65% |
 | 94 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.62% |
 | 95 | [Somerville](games/s/somerville.md) | 1.61% |
