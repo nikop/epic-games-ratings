@@ -568,9 +568,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 9560,
+  "EOS_Progressed": 9562,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7893,6 +7893,11 @@
       "Time": "2023-08-04T19:05:48.8676003+00:00",
       "NumProgressed": 9560,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-04T20:04:46.39715+00:00",
+      "NumProgressed": 9562,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 34,
@@ -7910,9 +7915,9 @@
       "ID": "ACH02",
       "SetID": "9llo822",
       "Name": "Running Rampant",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 287
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH03",
@@ -8032,7 +8037,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "ACH18",
@@ -8064,7 +8069,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4302
+      "UsersEstimate": 4303
     },
     {
       "ID": "ACH22",
@@ -8088,7 +8093,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "ACH25",
@@ -8096,7 +8101,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "ACH26",
@@ -8175,7 +8180,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9560,
+      "Progressed": 9562,
       "Completed": 44
     }
   ],
@@ -8183,8 +8188,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-01T16:59:33.8335317+00:00",
-  "LastChanged_Achievements": "2023-08-04T19:05:48.8675998+00:00",
+  "LastChanged_Achievements": "2023-08-04T20:04:46.3971496+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-08-04T18:59:42.2075813+00:00",
-  "LastUpdate_Achievements": "2023-08-04T19:05:48.8676777+00:00"
+  "LastUpdate_Ratings": "2023-08-04T19:58:49.1320382+00:00",
+  "LastUpdate_Achievements": "2023-08-04T20:04:46.3972074+00:00"
 }

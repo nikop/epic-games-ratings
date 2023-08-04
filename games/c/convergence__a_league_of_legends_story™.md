@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.60 (Ranked 390)  
+Rating: 4.60 (Ranked 389)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -37,11 +37,11 @@ Rating: 4.60 (Ranked 390)
 | Chaincrawler Explorer | 10.00% | ~82 |
 | Family Memories | 9.00% | ~74 |
 | Sump Explorer | 9.00% | ~74 |
+| Syron for Hope | 9.00% | ~74 |
 | Theater Explorer | 9.00% | ~74 |
 | Ask Questions Later | 9.00% | ~74 |
 | Factorywood Explorer | 8.00% | ~66 |
 | Fairgrounds Explorer | 8.00% | ~66 |
-| Syron for Hope | 8.00% | ~66 |
 | Cultivair Explorer | 7.00% | ~58 |
 | Entresol Explorer | 7.00% | ~58 |
 | Corin Goes Home | 6.00% | ~49 |

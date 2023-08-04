@@ -5538,9 +5538,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 712166,
+  "EOS_Progressed": 712169,
   "EOS_Completed": 12844,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -15658,6 +15658,11 @@
       "Time": "2023-08-04T19:02:47.703081+00:00",
       "NumProgressed": 712166,
       "NumCompleted": 12844
+    },
+    {
+      "Time": "2023-08-04T20:02:10.8668421+00:00",
+      "NumProgressed": 712169,
+      "NumCompleted": 12844
     }
   ],
   "TotalAchievements": 50,
@@ -15813,7 +15818,7 @@
       "Name": "Healing Memory",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "20_Traversal_Trophy",
@@ -15893,7 +15898,7 @@
       "Name": "Master of the Phoenix Eye Fist",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "30_ComboMid",
@@ -15973,7 +15978,7 @@
       "Name": "Be like water my friend",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "40_CustomTrophy_H4",
@@ -15997,7 +16002,7 @@
       "Name": "Come Snap With Me",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "43_Arena_UnlockPack",
@@ -16013,7 +16018,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -16068,21 +16073,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21467,
+      "Progressed": 21470,
       "Completed": 10483
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712166,
+      "Progressed": 712169,
       "Completed": 12844
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-04T13:04:40.0701186+00:00",
-  "LastChanged_Achievements": "2023-08-04T19:02:47.7030804+00:00",
+  "LastChanged_Achievements": "2023-08-04T20:02:10.8668417+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:51.4583284+00:00",
-  "LastUpdate_Ratings": "2023-08-04T19:00:37.2311132+00:00",
-  "LastUpdate_Achievements": "2023-08-04T19:02:47.7032037+00:00"
+  "LastUpdate_Ratings": "2023-08-04T19:59:25.3997549+00:00",
+  "LastUpdate_Achievements": "2023-08-04T20:02:10.8669225+00:00"
 }

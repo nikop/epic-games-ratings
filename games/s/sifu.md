@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~1,073 |
+| Diligence as a goal | 5.00% | ~1,074 |
 | Project Arena | 4.00% | ~859 |
 | The Old Grandmaster | 2.00% | ~14,243 |
 | The Assault | 2.00% | ~14,243 |
@@ -50,14 +50,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Pit Protector | 0.40% | ~2,849 |
 | Martial Hub | 0.40% | ~86 |
 | Secure, Protect, Leave | 0.40% | ~86 |
-| Healing Memory | 0.30% | ~2,136 |
-| Master of the Phoenix Eye Fist | 0.30% | ~2,136 |
-| Be like water my friend | 0.30% | ~2,136 |
-| Come Snap With Me | 0.30% | ~2,136 |
+| Healing Memory | 0.30% | ~2,137 |
+| Master of the Phoenix Eye Fist | 0.30% | ~2,137 |
+| Be like water my friend | 0.30% | ~2,137 |
+| Come Snap With Me | 0.30% | ~2,137 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,424 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,166 (Ranked 20)  
+Progressed: 712,169 (Ranked 20)  
 Completed: 12,844 (1.80%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 12,844 (1.80%) (Ranked 91)
 | 2023-08-01 | 712,009 | 12,838 |
 | 2023-08-02 | 712,079 | 12,840 |
 | 2023-08-03 | 712,134 | 12,842 |
-| 2023-08-04 | 712,166 | 12,844 |
+| 2023-08-04 | 712,169 | 12,844 |
 ## Awards
 Max (Great Boss Battles): 6,336  (Ranked 53)  
 Sum: 10,880 (Ranked 81)  

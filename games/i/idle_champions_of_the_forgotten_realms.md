@@ -6,18 +6,18 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,746 |
-| Beast Intentions | 3.00% | ~6,560 |
-| Maddening | 2.00% | ~4,373 |
+| A Brief Tour of the Realms | 4.00% | ~8,747 |
+| Beast Intentions | 3.00% | ~6,561 |
+| Maddening | 2.00% | ~4,374 |
 | The Silken Swamp | 1.00% | ~2,187 |
 | Supply Run | 1.00% | ~2,187 |
-| Vecna Lives! | 1.00% | ~1,849 |
-| Rocky Reception | 1.00% | ~1,849 |
-| Rock and Roll | 1.00% | ~1,849 |
-| Flight of the Kindori Pod | 0.90% | ~1,664 |
-| Tall Tales | 0.80% | ~1,479 |
-| Vecna Loots! | 0.80% | ~1,479 |
-| Topolah's Tower | 0.80% | ~1,479 |
+| Vecna Lives! | 1.00% | ~1,850 |
+| Rocky Reception | 1.00% | ~1,850 |
+| Rock and Roll | 1.00% | ~1,850 |
+| Flight of the Kindori Pod | 0.90% | ~1,665 |
+| Tall Tales | 0.80% | ~1,480 |
+| Vecna Loots! | 0.80% | ~1,480 |
+| Topolah's Tower | 0.80% | ~1,480 |
 | Wet Feet | 0.70% | ~1,531 |
 | Seeds of Destruction | 0.70% | ~1,295 |
 | Return to the Tomb | 0.70% | ~1,295 |
@@ -77,6 +77,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.40% | ~875 |
 | Exploring Port Nyanzaru | 0.40% | ~875 |
 | Running of the Saurs | 0.40% | ~875 |
+| The Contagious Curse | 0.40% | ~875 |
 | Escort to Waterdeep | 0.40% | ~875 |
 | Waterdeep Detours | 0.40% | ~875 |
 | Underdeep Cartography | 0.40% | ~875 |
@@ -112,6 +113,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Azaka's Procession - Part 2 | 0.30% | ~656 |
 | The Hunt for Owl-y | 0.30% | ~656 |
 | Werewolves in the Mist | 0.30% | ~656 |
+| We're not in Faerûn Anymore | 0.30% | ~656 |
 | Chatty Nobles | 0.30% | ~656 |
 | Modron Assistance | 0.30% | ~656 |
 | Haaave You Met Asmodeus? | 0.30% | ~656 |
@@ -133,7 +135,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flying Monkey Skulls of Doom | 0.30% | ~656 |
 | The Darkness Runs Deeper | 0.30% | ~656 |
 | Difficult Terrain | 0.30% | ~656 |
-| The Contagious Curse | 0.30% | ~656 |
 | Dinosaur Racing | 0.30% | ~656 |
 | Elturel Has Fallen | 0.30% | ~656 |
 | Market Fluctuations | 0.30% | ~656 |
@@ -184,7 +185,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.20% | ~437 |
 | Double Vision | 0.20% | ~437 |
 | The Newcomers of Notoriety | 0.20% | ~370 |
-| We're not in Faerûn Anymore | 0.20% | ~437 |
 | Haunted Fortunes | 0.20% | ~437 |
 | Thine Bounty is Mine! | 0.20% | ~370 |
 | This Quest Stinks! | 0.20% | ~370 |
@@ -205,6 +205,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lair of the Xanathar | 0.20% | ~437 |
 | Waterdeep Under Siege | 0.20% | ~437 |
 | Crowded Streets | 0.20% | ~437 |
+| Troublesome Prisoner | 0.20% | ~437 |
 | Vault of Dragons | 0.20% | ~437 |
 | Champions of Waterdeep | 0.20% | ~437 |
 | Resolve Amongst Chaos | 0.20% | ~437 |
@@ -378,7 +379,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | She's Harmless! | 0.10% | ~219 |
 | The Tallest of Kobolds | 0.10% | ~185 |
 | Patience is Key | 0.10% | ~219 |
-| Troublesome Prisoner | 0.10% | ~219 |
 | Dark Doppelgangers | 0.10% | ~219 |
 | Faerûn's Most Wanted | 0.10% | ~185 |
 | Cold & Wet | 0.10% | ~219 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,658 (Ranked 53)  
+Progressed: 218,685 (Ranked 53)  
 Completed: 2,151 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -625,7 +625,7 @@ Completed: 2,151 (0.98%) (Ranked 113)
 | 2023-08-01 | 217,745 | 2,142 |
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
-| 2023-08-04 | 218,658 | 2,151 |
+| 2023-08-04 | 218,685 | 2,151 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,897 (Ranked 38)  

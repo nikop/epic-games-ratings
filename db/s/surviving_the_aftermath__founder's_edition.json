@@ -9974,9 +9974,9 @@
       "ID": "32",
       "SetID": "8idi9ml",
       "Name": "Slimy yet Satisfying",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 80
     },
     {
       "ID": "33",
@@ -10254,8 +10254,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-02T01:50:50.0712664+00:00",
-  "LastChanged_Achievements": "2023-08-04T19:07:25.0502047+00:00",
+  "LastChanged_Achievements": "2023-08-04T20:05:54.8200853+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:46.4035157+00:00",
-  "LastUpdate_Ratings": "2023-08-04T19:01:50.9325207+00:00",
-  "LastUpdate_Achievements": "2023-08-04T19:07:25.0503263+00:00"
+  "LastUpdate_Ratings": "2023-08-04T20:00:15.3299187+00:00",
+  "LastUpdate_Achievements": "2023-08-04T20:05:54.8201693+00:00"
 }

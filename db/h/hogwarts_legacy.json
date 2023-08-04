@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5788,18 +5788,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 40424,
       "NumberOfAwardsMax": 21493
+    },
+    {
+      "Time": "2023-08-04T19:58:04.5710738+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40442,
+      "NumberOfAwardsMax": 21511
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40424,
-  "NumberOfAwardsMax": 21493,
+  "NumberOfAwards": 40442,
+  "NumberOfAwardsMax": 21511,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21493
+      "Count": 21511
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5868,7 +5874,7 @@
       "Count": 575
     }
   ],
-  "EOS_Progressed": 289345,
+  "EOS_Progressed": 289349,
   "EOS_Completed": 439,
   "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 4,
@@ -17323,6 +17329,11 @@
       "Time": "2023-08-04T19:06:23.3377245+00:00",
       "NumProgressed": 289345,
       "NumCompleted": 439
+    },
+    {
+      "Time": "2023-08-04T20:05:11.026354+00:00",
+      "NumProgressed": 289349,
+      "NumCompleted": 439
     }
   ],
   "TotalAchievements": 45,
@@ -17334,7 +17345,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34721
+      "UsersEstimate": 34722
     },
     {
       "ID": "PFA_10",
@@ -17454,7 +17465,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28934
+      "UsersEstimate": 28935
     },
     {
       "ID": "PFA_24",
@@ -17678,7 +17689,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28934
+      "UsersEstimate": 28935
     },
     {
       "ID": "PFA_9",
@@ -17693,16 +17704,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289345,
+      "Progressed": 289349,
       "Completed": 439
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-04T16:58:09.115136+00:00",
-  "LastChanged_Achievements": "2023-08-04T19:06:23.3377237+00:00",
+  "LastChanged": "2023-08-04T19:58:04.5710737+00:00",
+  "LastChanged_Achievements": "2023-08-04T20:05:11.0263536+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-08-04T18:58:37.0832937+00:00",
-  "LastUpdate_Achievements": "2023-08-04T19:06:23.3378868+00:00"
+  "LastUpdate_Ratings": "2023-08-04T19:58:04.5710742+00:00",
+  "LastUpdate_Achievements": "2023-08-04T20:05:11.0264413+00:00"
 }

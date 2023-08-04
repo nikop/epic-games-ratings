@@ -5554,9 +5554,9 @@
       "Count": 3341
     }
   ],
-  "EOS_Progressed": 218658,
+  "EOS_Progressed": 218685,
   "EOS_Completed": 2151,
-  "EOS_NewPlayers": 2213,
+  "EOS_NewPlayers": 2228,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17014,6 +17014,11 @@
       "Time": "2023-08-04T19:02:50.7123888+00:00",
       "NumProgressed": 218658,
       "NumCompleted": 2151
+    },
+    {
+      "Time": "2023-08-04T20:02:13.8974699+00:00",
+      "NumProgressed": 218685,
+      "NumCompleted": 2151
     }
   ],
   "TotalAchievements": 512,
@@ -17025,7 +17030,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8746
+      "UsersEstimate": 8747
     },
     {
       "ID": "objective_completed_10",
@@ -17033,7 +17038,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4373
+      "UsersEstimate": 4374
     },
     {
       "ID": "objective_completed_100",
@@ -17097,7 +17102,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "objective_completed_1051",
@@ -17393,7 +17398,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6560
+      "UsersEstimate": 6561
     },
     {
       "ID": "objective_completed_110",
@@ -17705,7 +17710,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1849
+      "UsersEstimate": 1850
     },
     {
       "ID": "objective_completed_1164",
@@ -17729,7 +17734,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "objective_completed_1169",
@@ -18399,9 +18404,9 @@
       "ID": "objective_completed_211",
       "SetID": "cc37lbc",
       "Name": "We\u0027re not in Faer\u00FBn Anymore",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 656
     },
     {
       "ID": "objective_completed_213",
@@ -19391,9 +19396,9 @@
       "ID": "objective_completed_571",
       "SetID": "cc37lbc",
       "Name": "Troublesome Prisoner",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 437
     },
     {
       "ID": "objective_completed_572",
@@ -19567,9 +19572,9 @@
       "ID": "objective_completed_6",
       "SetID": "cc37lbc",
       "Name": "The Contagious Curse",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 656
+      "UsersEstimate": 875
     },
     {
       "ID": "objective_completed_60",
@@ -21049,7 +21054,7 @@
       "Name": "Rocky Reception",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1849
+      "UsersEstimate": 1850
     },
     {
       "ID": "objective_completed_1376",
@@ -21065,7 +21070,7 @@
       "Name": "Rock and Roll",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1849
+      "UsersEstimate": 1850
     },
     {
       "ID": "objective_completed_1381",
@@ -21081,7 +21086,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "objective_completed_1386",
@@ -21097,7 +21102,7 @@
       "Name": "Topolah\u0027s Tower",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "objective_completed_1391",
@@ -21120,21 +21125,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 184932,
+      "Progressed": 184959,
       "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218658,
+      "Progressed": 218685,
       "Completed": 2151
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-04T18:59:33.4169358+00:00",
-  "LastChanged_Achievements": "2023-08-04T19:02:50.7123883+00:00",
+  "LastChanged_Achievements": "2023-08-04T20:02:13.8974695+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-04T18:59:33.4169368+00:00",
-  "LastUpdate_Achievements": "2023-08-04T19:02:50.7161009+00:00"
+  "LastUpdate_Ratings": "2023-08-04T19:58:43.6142114+00:00",
+  "LastUpdate_Achievements": "2023-08-04T20:02:13.8998205+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "fpvsim-2a20cb",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-26T07:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-21T13:56:48.17454+00:00",
   "LastUpdate_AppInfo": "2023-08-03T09:57:53.322866+00:00",
-  "LastUpdate_Ratings": "2023-08-04T18:58:12.7857285+00:00",
-  "LastUpdate_Achievements": "2023-08-04T19:06:35.3825819+00:00"
+  "LastUpdate_Ratings": "2023-08-04T19:57:48.5660494+00:00",
+  "LastUpdate_Achievements": "2023-08-04T20:05:19.6055156+00:00"
 }

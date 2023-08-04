@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 360,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 6.11,
   "EosHistory": [
@@ -1313,9 +1313,9 @@
       "ID": "BearRum",
       "SetID": "db30heh",
       "Name": "Ready for Bed",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 72
     },
     {
       "ID": "BearSword",
@@ -1369,9 +1369,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 252
     },
     {
       "ID": "DevilRope",
@@ -1417,9 +1417,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 238
     },
     {
       "ID": "HastrmanAcorn",
@@ -1465,17 +1465,17 @@
       "ID": "KingDiamond",
       "SetID": "db30heh",
       "Name": "King\u0027s Jewel",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 140
+      "UsersEstimate": 144
     },
     {
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 144
     },
     {
       "ID": "PriestBroom",
@@ -1609,9 +1609,9 @@
       "ID": "SwordMoneyBag",
       "SetID": "db30heh",
       "Name": "Expensive Deal",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 140
+      "UsersEstimate": 144
     },
     {
       "ID": "WormGrilled",
@@ -1632,8 +1632,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-04T19:07:46.4533384+00:00",
+  "LastChanged_Achievements": "2023-08-04T20:06:09.5309624+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-04T18:57:50.7055307+00:00",
-  "LastUpdate_Achievements": "2023-08-04T19:07:46.4534185+00:00"
+  "LastUpdate_Ratings": "2023-08-04T19:57:34.0033651+00:00",
+  "LastUpdate_Achievements": "2023-08-04T20:06:09.5310012+00:00"
 }

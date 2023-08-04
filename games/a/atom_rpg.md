@@ -11,7 +11,7 @@ Number of Ratings: 54  (23.09.2022)
 | Wanderer | 35.00% | ~391 |
 | One shot, one kill | 28.00% | ~312 |
 | Traveler | 26.00% | ~290 |
-| Head Burst | 19.00% | ~212 |
+| Head Burst | 20.00% | ~223 |
 | Explorer | 18.00% | ~201 |
 | Grave Robber | 18.00% | ~201 |
 | Double agent | 15.00% | ~167 |

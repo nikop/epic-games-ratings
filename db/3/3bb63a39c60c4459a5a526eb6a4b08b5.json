@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 393,
+  "EOS_Progressed": 394,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1346,6 +1346,11 @@
       "Time": "2023-08-04T01:59:24.4489116+00:00",
       "NumProgressed": 393,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-04T20:03:41.9937984+00:00",
+      "NumProgressed": 394,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1357,7 +1362,7 @@
       "Name": "Great Luck",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ActivePause",
@@ -1397,7 +1402,7 @@
       "Name": "Calculated",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "Close",
@@ -1525,7 +1530,7 @@
       "Name": "Long Distances",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ManagementMaster",
@@ -1557,7 +1562,7 @@
       "Name": "New Record",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "NoTimeForModernization",
@@ -1573,7 +1578,7 @@
       "Name": "No Way Back",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "NotPlanned",
@@ -1619,9 +1624,9 @@
       "ID": "ReliableTransporter",
       "SetID": "1e89b4i",
       "Name": "Reliable Transporter",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "ResourceEconomy",
@@ -1685,21 +1690,21 @@
       "Name": "Transport Hub",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 393,
+      "Progressed": 394,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-04T19:04:17.9879708+00:00",
+  "LastChanged_Achievements": "2023-08-04T20:03:41.9937975+00:00",
   "LastUpdate_AppInfo": "2023-08-01T09:57:03.2842232+00:00",
-  "LastUpdate_Ratings": "2023-08-04T18:57:54.6892072+00:00",
-  "LastUpdate_Achievements": "2023-08-04T19:04:17.9880187+00:00"
+  "LastUpdate_Ratings": "2023-08-04T19:57:36.4511638+00:00",
+  "LastUpdate_Achievements": "2023-08-04T20:03:41.9938878+00:00"
 }

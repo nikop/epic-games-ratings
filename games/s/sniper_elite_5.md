@@ -39,10 +39,10 @@ Rating: 4.43 (Ranked 658)
 | The Long Game | 1.00% | ~34 |
 | Rigged to Blow | 1.00% | ~34 |
 | Tinkerer | 1.00% | ~34 |
+| It'll Buff Right Out | 0.90% | ~31 |
 | Road Rage | 0.90% | ~31 |
 | Don't hold your breath | 0.90% | ~31 |
 | Herr Today, Gone Tomorrow | 0.90% | ~30 |
-| It'll Buff Right Out | 0.80% | ~27 |
 | Shipbreaker | 0.80% | ~27 |
 | Sink or Swim | 0.70% | ~23 |
 | Strategist | 0.60% | ~20 |
