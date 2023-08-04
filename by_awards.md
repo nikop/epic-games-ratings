@@ -11,7 +11,7 @@
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 74,785 | 4.62 | 349 |
 | 10 | [VALORANT](games/v/valorant.md) | 63,478 | 4.53 | 513 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 59,712 | 4.58 | 424 |
-| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 42,289 | 4.61 | 366 |
+| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 42,363 | 4.61 | 366 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 36,150 | 4.49 | 576 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 35,529 | 4.74 | 147 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 30,697 | 4.52 | 526 |
@@ -47,7 +47,7 @@
 | 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,644 | 4.57 | 446 |
 | 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,360 | 4.71 | 185 |
 | 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,316 | 4.68 | 242 |
-| 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,887 | 4.74 | 147 |
+| 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,895 | 4.74 | 147 |
 | 49 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,837 | 4.71 | 185 |
 | 50 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 667 |
 | 51 | [DEATH STRANDING](games/d/death_stranding.md) | 6,571 | 4.77 | 108 |
@@ -88,7 +88,7 @@
 | 86 | [Paladins](games/p/paladins.md) | 3,473 | 4.34 | 753 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,341 | 4.68 | 242 |
 | 88 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,339 | 4.68 | 242 |
-| 89 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,291 | 4.76 | 117 |
+| 89 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,295 | 4.76 | 117 |
 | 90 | [Hades](games/h/hades.md) | 3,200 | 4.92 | 4 |
 | 91 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,188 | 4.57 | 446 |
 | 92 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 3,142 | 4.68 | 242 |
@@ -298,8 +298,8 @@
 | 296 | [Star Stable Online](games/s/star_stable_online.md) | 149 | 4.42 | 667 |
 | 297 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 148 | 4.51 | 544 |
 | 298 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 147 | 4.77 | 108 |
-| 299 | [Blasphemous](games/b/blasphemous.md) | 144 | 4.85 | 40 |
-| 299 | [Predecessor](games/p/predecessor.md) | 144 | 4.43 | 658 |
+| 299 | [Blasphemous](games/b/blasphemous.md) | 145 | 4.85 | 40 |
+| 300 | [Predecessor](games/p/predecessor.md) | 144 | 4.43 | 658 |
 | 301 | [Night in the Woods](games/n/night_in_the_woods.md) | 142 | 4.72 | 171 |
 | 302 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 140 | 4.28 | 798 |
 | 303 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 139 | 4.85 | 40 |
@@ -473,13 +473,13 @@
 | 469 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 213 |
 | 469 | [The Surge](games/t/the_surge.md) | 27 | 4.45 | 630 |
 | 473 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 26 | 4.75 | 135 |
+| 473 | [Chimeraland](games/c/chimeraland.md) | 26 | 3.91 | 942 |
 | 473 | [DOOM II](games/d/doom_ii.md) | 26 | 4.69 | 213 |
 | 473 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 26 | 4.60 | 389 |
 | 473 | [God's Trigger](games/g/god's_trigger.md) | 26 | 4.16 | 876 |
 | 473 | [Warpips](games/w/warpips.md) | 26 | 4.41 | 678 |
-| 478 | [Chimeraland](games/c/chimeraland.md) | 25 | 3.91 | 942 |
-| 478 | [Rayman Origins](games/r/rayman_origins.md) | 25 | 4.84 | 50 |
-| 478 | [Spirit of the North](games/s/spirit_of_the_north.md) | 25 | 4.36 | 735 |
+| 479 | [Rayman Origins](games/r/rayman_origins.md) | 25 | 4.84 | 50 |
+| 479 | [Spirit of the North](games/s/spirit_of_the_north.md) | 25 | 4.36 | 735 |
 | 481 | [ELEX](games/e/elex.md) | 24 | 4.44 | 646 |
 | 481 | [Solar Ash](games/s/solar_ash.md) | 24 | 4.64 | 315 |
 | 481 | [Weird West: Definitive Edition](games/w/weird_west.md) | 24 | 4.44 | 646 |
