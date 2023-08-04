@@ -9,8 +9,8 @@
 | 7 | [Volley Pals](games/v/volley_pals.md) | 22.99% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 20.00% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 19.80% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.14% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.02% |
@@ -60,7 +60,7 @@
 | 58 | [Doodle God](games/d/doodle_god.md) | 3.48% |
 | 59 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 60 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.35% |
-| 61 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.20% |
+| 61 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.18% |
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.17% |
 | 63 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.08% |
 | 64 | [The Complex](games/t/the_complex.md) | 3.04% |
@@ -138,18 +138,18 @@
 | 136 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 137 | [Them and Us](games/t/them_and_us.md) | 0.49% |
 | 138 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 138 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.47% |
 | 138 | [Train Valley](games/t/train_valley.md) | 0.47% |
-| 141 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.46% |
+| 140 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.46% |
+| 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
 | 142 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.45% |
 | 143 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.43% |
 | 143 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 143 | [Tchia](games/t/tchia.md) | 0.43% |
 | 146 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 147 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.40% |
-| 148 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
-| 149 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 149 | [Wildermyth](games/w/wildermyth.md) | 0.37% |
+| 148 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
+| 148 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 148 | [Wildermyth](games/w/wildermyth.md) | 0.37% |
 | 151 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.36% |
 | 152 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 153 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
