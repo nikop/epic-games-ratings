@@ -10,7 +10,7 @@ Number of Ratings: 54  (23.09.2022)
 | One HIT wonder | 35.00% | ~393 |
 | Wanderer | 35.00% | ~393 |
 | One shot, one kill | 28.00% | ~314 |
-| Traveler | 25.00% | ~280 |
+| Traveler | 26.00% | ~292 |
 | Head Burst | 19.00% | ~213 |
 | Explorer | 18.00% | ~202 |
 | Grave Robber | 18.00% | ~202 |
@@ -22,7 +22,7 @@ Number of Ratings: 54  (23.09.2022)
 | Bustin' nuts | 8.00% | ~90 |
 | Not-so-private Eye | 8.00% | ~90 |
 | Superhuman | 8.00% | ~90 |
-| The Vitinsky Rifle | 6.00% | ~67 |
+| The Vitinsky Rifle | 7.00% | ~79 |
 | Protection racket | 5.00% | ~56 |
 | Secret room | 5.00% | ~56 |
 | Indy | 4.00% | ~45 |

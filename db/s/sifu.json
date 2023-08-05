@@ -3,12 +3,12 @@
   "Name": "Sifu",
   "ProductSlug": "sifu",
   "Ranking_Rating": 66,
-  "Ranking_Popularity": 53,
+  "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5544,9 +5544,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 712200,
-  "EOS_Completed": 12844,
-  "EOS_NewPlayers": 399,
+  "EOS_Progressed": 712202,
+  "EOS_Completed": 12845,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -15759,6 +15759,11 @@
       "Time": "2023-08-05T19:03:18.8716545+00:00",
       "NumProgressed": 712200,
       "NumCompleted": 12844
+    },
+    {
+      "Time": "2023-08-05T20:02:18.7129288+00:00",
+      "NumProgressed": 712202,
+      "NumCompleted": 12845
     }
   ],
   "TotalAchievements": 50,
@@ -16169,21 +16174,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21501,
+      "Progressed": 21503,
       "Completed": 10484
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712200,
-      "Completed": 12844
+      "Progressed": 712202,
+      "Completed": 12845
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-04T21:59:32.9587803+00:00",
-  "LastChanged_Achievements": "2023-08-05T19:03:18.8716539+00:00",
+  "LastChanged_Achievements": "2023-08-05T20:02:18.7129283+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:56.2454888+00:00",
-  "LastUpdate_Ratings": "2023-08-05T19:00:57.202127+00:00",
-  "LastUpdate_Achievements": "2023-08-05T19:03:18.8717784+00:00"
+  "LastUpdate_Ratings": "2023-08-05T19:59:56.7511344+00:00",
+  "LastUpdate_Achievements": "2023-08-05T20:02:18.7130196+00:00"
 }

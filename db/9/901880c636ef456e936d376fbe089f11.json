@@ -647,9 +647,9 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_UNLOCK_ALL_DRINK",
@@ -726,8 +726,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-08-05T19:08:00.2136399+00:00",
+  "LastChanged_Achievements": "2023-08-05T20:06:49.1773091+00:00",
   "LastUpdate_AppInfo": "2023-08-01T07:57:11.1025351+00:00",
-  "LastUpdate_Ratings": "2023-08-05T18:58:06.2004687+00:00",
-  "LastUpdate_Achievements": "2023-08-05T19:08:00.2136944+00:00"
+  "LastUpdate_Ratings": "2023-08-05T19:57:30.3634151+00:00",
+  "LastUpdate_Achievements": "2023-08-05T20:06:49.177358+00:00"
 }

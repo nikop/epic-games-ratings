@@ -5560,9 +5560,9 @@
       "Count": 3341
     }
   ],
-  "EOS_Progressed": 218995,
+  "EOS_Progressed": 219016,
   "EOS_Completed": 2153,
-  "EOS_NewPlayers": 2196,
+  "EOS_NewPlayers": 2202,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17130,6 +17130,11 @@
       "Time": "2023-08-05T19:03:15.2667172+00:00",
       "NumProgressed": 218995,
       "NumCompleted": 2153
+    },
+    {
+      "Time": "2023-08-05T20:02:16.0484335+00:00",
+      "NumProgressed": 219016,
+      "NumCompleted": 2153
     }
   ],
   "TotalAchievements": 512,
@@ -17141,7 +17146,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8760
+      "UsersEstimate": 8761
     },
     {
       "ID": "objective_completed_10",
@@ -21197,7 +21202,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "objective_completed_1386",
@@ -21236,21 +21241,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185269,
+      "Progressed": 185290,
       "Completed": 3058
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218995,
+      "Progressed": 219016,
       "Completed": 2153
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-05T04:59:24.4871745+00:00",
-  "LastChanged_Achievements": "2023-08-05T19:03:15.2667167+00:00",
+  "LastChanged_Achievements": "2023-08-05T20:02:16.0484328+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-05T18:59:46.7772652+00:00",
-  "LastUpdate_Achievements": "2023-08-05T19:03:15.2697599+00:00"
+  "LastUpdate_Ratings": "2023-08-05T19:58:58.4689956+00:00",
+  "LastUpdate_Achievements": "2023-08-05T20:02:16.0534567+00:00"
 }

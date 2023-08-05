@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1376,6 +1376,11 @@
       "Time": "2023-08-05T19:04:39.0742338+00:00",
       "NumProgressed": 400,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-05T20:03:58.7159955+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1403,7 +1408,7 @@
       "Name": "Basic Controls",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "BigPlane",
@@ -1425,9 +1430,9 @@
       "ID": "Calculated",
       "SetID": "1e89b4i",
       "Name": "Calculated",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 88
     },
     {
       "ID": "Close",
@@ -1449,9 +1454,9 @@
       "ID": "Debtor",
       "SetID": "1e89b4i",
       "Name": "Debtor",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 36
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -1481,15 +1486,15 @@
       "ID": "First",
       "SetID": "1e89b4i",
       "Name": "Game Started",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 64
     },
     {
       "ID": "FullCompletion",
       "SetID": "1e89b4i",
       "Name": "Full Completion",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -1513,9 +1518,9 @@
       "ID": "LackOfTime",
       "SetID": "1e89b4i",
       "Name": "Lack of Time",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 48
     },
     {
       "ID": "LargeAirport",
@@ -1529,7 +1534,7 @@
       "ID": "LargeTerritories",
       "SetID": "1e89b4i",
       "Name": "Large Territories",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1537,9 +1542,9 @@
       "ID": "LegendaryTransporter",
       "SetID": "1e89b4i",
       "Name": "Legendary transporter",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 36
     },
     {
       "ID": "LinearNetwork",
@@ -1553,9 +1558,9 @@
       "ID": "LongDistance",
       "SetID": "1e89b4i",
       "Name": "Long Distances",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 88
     },
     {
       "ID": "ManagementMaster",
@@ -1601,9 +1606,9 @@
       "ID": "NoWayBack",
       "SetID": "1e89b4i",
       "Name": "No Way Back",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 144
     },
     {
       "ID": "NotPlanned",
@@ -1617,7 +1622,7 @@
       "ID": "Ownway",
       "SetID": "1e89b4i",
       "Name": "Own Way",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -1633,15 +1638,15 @@
       "ID": "RacingAgainstTime",
       "SetID": "1e89b4i",
       "Name": "Race Against Time",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 36
     },
     {
       "ID": "Reaction",
       "SetID": "1e89b4i",
       "Name": "Fast Response",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -1681,15 +1686,15 @@
       "ID": "ScenarioAmateur",
       "SetID": "1e89b4i",
       "Name": "Scenario Amateur",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "ScenarioExpert",
       "SetID": "1e89b4i",
       "Name": "Scenario Expert",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -1722,14 +1727,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-05T19:04:39.0742331+00:00",
+  "LastChanged_Achievements": "2023-08-05T20:03:58.7159949+00:00",
   "LastUpdate_AppInfo": "2023-08-01T09:57:03.2842232+00:00",
-  "LastUpdate_Ratings": "2023-08-05T18:58:04.026439+00:00",
-  "LastUpdate_Achievements": "2023-08-05T19:04:39.0742991+00:00"
+  "LastUpdate_Ratings": "2023-08-05T19:57:28.4476567+00:00",
+  "LastUpdate_Achievements": "2023-08-05T20:03:58.7160505+00:00"
 }

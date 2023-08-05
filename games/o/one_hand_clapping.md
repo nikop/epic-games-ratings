@@ -13,9 +13,9 @@
 | Fugue Forest | 2.00% | ~16 |
 | Tempo | 1.00% | ~8 |
 | Silent City: Reprise | 0.90% | ~7 |
+| Cadence | 0.90% | ~7 |
 | Coda Cave | 0.80% | ~6 |
 | Solo Sea | 0.80% | ~6 |
-| Cadence | 0.80% | ~6 |
 | Maestro Mountain Glyph | 0.60% | ~5 |
 | Coda Cave Glyph | 0.60% | ~5 |
 | Antiphony | 0.50% | ~4 |

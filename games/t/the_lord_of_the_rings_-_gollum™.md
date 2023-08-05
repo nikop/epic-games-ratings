@@ -7,7 +7,7 @@
 | The Wraith | 62.00% | ~310 |
 | Welcome to Mordor! | 52.00% | ~260 |
 | Collectibles Part 1 | 51.00% | ~255 |
-| Wait! Wait! Not yet! | 37.00% | ~185 |
+| Wait! Wait! Not yet! | 38.00% | ~190 |
 | Like Flying... | 33.00% | ~165 |
 | The Maggot | 27.00% | ~135 |
 | Memories | 27.00% | ~135 |
@@ -15,7 +15,7 @@
 | The Veteran | 18.00% | ~90 |
 | The Traitor | 15.00% | ~75 |
 | The Spider | 14.00% | ~70 |
-| Good as Fish | 10.00% | ~50 |
+| Good as Fish | 11.00% | ~55 |
 | Her Eyes | 10.00% | ~50 |
 | Trigger-Happy | 9.00% | ~45 |
 | He's so Annoying | 8.00% | ~40 |

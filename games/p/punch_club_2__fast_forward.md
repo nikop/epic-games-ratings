@@ -18,8 +18,8 @@
 | Your own amateur gym | 73.00% | ~165 |
 | Run K, run! | 72.00% | ~163 |
 | Hello, world! | 68.00% | ~154 |
+| Fighting is cool | 67.00% | ~151 |
 | No bullying more | 67.00% | ~151 |
-| Fighting is cool | 66.00% | ~149 |
 | Pal of your father? | 64.00% | ~145 |
 | Spirit of the past | 62.00% | ~140 |
 | Employee of the month | 62.00% | ~140 |
@@ -54,8 +54,8 @@
 | Seashell hunter | 33.00% | ~75 |
 | Gang wrangler | 31.00% | ~70 |
 | Undercover robot | 31.00% | ~70 |
+| Problems of cyborgs | 30.00% | ~68 |
 | The last bell ring | 30.00% | ~68 |
-| Problems of cyborgs | 29.00% | ~66 |
 | The lonesome road | 29.00% | ~66 |
 | Key memories | 29.00% | ~66 |
 | Not little hacker | 29.00% | ~66 |

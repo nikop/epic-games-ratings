@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -248,7 +248,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1352,
+  "EOS_Progressed": 1353,
   "EOS_Completed": 66,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
@@ -1998,6 +1998,11 @@
       "Time": "2023-08-05T19:03:33.5372869+00:00",
       "NumProgressed": 1352,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-08-05T20:03:11.298413+00:00",
+      "NumProgressed": 1353,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 11,
@@ -2041,7 +2046,7 @@
       "Name": "Is she really dead?",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "ACH_FineEV9",
@@ -2081,7 +2086,7 @@
       "Name": "Someone was here",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -2089,22 +2094,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1352,
+      "Progressed": 1353,
       "Completed": 66
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-08-05T19:03:33.5372862+00:00",
+  "LastChanged_Achievements": "2023-08-05T20:03:11.2984126+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:05.1963612+00:00",
-  "LastUpdate_Ratings": "2023-08-05T19:02:28.1484364+00:00",
-  "LastUpdate_Achievements": "2023-08-05T19:03:33.5373119+00:00"
+  "LastUpdate_Ratings": "2023-08-05T20:01:08.4361933+00:00",
+  "LastUpdate_Achievements": "2023-08-05T20:03:11.2984317+00:00"
 }

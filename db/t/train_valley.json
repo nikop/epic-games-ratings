@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -113,7 +113,7 @@
   "Tags": [],
   "EOS_Progressed": 429,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -1064,9 +1064,9 @@
       "ID": "29_madness",
       "SetID": "chb1m60",
       "Name": "Madness!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 116
     },
     {
       "ID": "30_completelynuts",
@@ -1160,8 +1160,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-05T18:00:22.7295334+00:00",
-  "LastChanged_Achievements": "2023-08-05T19:05:54.7308194+00:00",
+  "LastChanged_Achievements": "2023-08-05T20:05:04.4034329+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:23.250379+00:00",
-  "LastUpdate_Ratings": "2023-08-05T18:59:06.0556655+00:00",
-  "LastUpdate_Achievements": "2023-08-05T19:05:54.7308579+00:00"
+  "LastUpdate_Ratings": "2023-08-05T19:58:25.3863344+00:00",
+  "LastUpdate_Achievements": "2023-08-05T20:05:04.403471+00:00"
 }

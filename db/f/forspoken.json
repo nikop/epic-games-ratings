@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -322,9 +322,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 39562,
+  "EOS_Progressed": 39564,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6857,6 +6857,11 @@
       "Time": "2023-08-05T16:03:09.2145795+00:00",
       "NumProgressed": 39562,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-05T20:03:14.1811456+00:00",
+      "NumProgressed": 39564,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -6900,7 +6905,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1582
+      "UsersEstimate": 1583
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -6924,7 +6929,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1582
+      "UsersEstimate": 1583
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -7124,7 +7129,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1582
+      "UsersEstimate": 1583
     },
     {
       "ID": "MAGIC_IVY",
@@ -7291,22 +7296,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39562,
+      "Progressed": 39564,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4399,
-      "Completed": 4399
+      "Progressed": 4401,
+      "Completed": 4401
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-08-01T18:59:08.1065463+00:00",
-  "LastChanged_Achievements": "2023-08-05T19:03:36.6296644+00:00",
+  "LastChanged_Achievements": "2023-08-05T20:03:14.1811452+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:22.3874193+00:00",
-  "LastUpdate_Ratings": "2023-08-05T19:00:16.3349163+00:00",
-  "LastUpdate_Achievements": "2023-08-05T19:03:36.6297684+00:00"
+  "LastUpdate_Ratings": "2023-08-05T19:59:24.886784+00:00",
+  "LastUpdate_Achievements": "2023-08-05T20:03:14.1812341+00:00"
 }

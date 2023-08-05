@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6964,
+  "EOS_Progressed": 6965,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -3363,6 +3363,11 @@
       "Time": "2023-08-05T18:05:11.6948762+00:00",
       "NumProgressed": 6964,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-05T20:03:16.6796645+00:00",
+      "NumProgressed": 6965,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -3390,7 +3395,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2855
+      "UsersEstimate": 2856
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -3446,7 +3451,7 @@
       "Name": "Knowledge Seeker",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -3518,7 +3523,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2855
+      "UsersEstimate": 2856
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -3589,15 +3594,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6964,
+      "Progressed": 6965,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-08-05T19:03:39.5159754+00:00",
+  "LastChanged_Achievements": "2023-08-05T20:03:16.6796641+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:47.6725573+00:00",
-  "LastUpdate_Ratings": "2023-08-05T18:58:50.887745+00:00",
-  "LastUpdate_Achievements": "2023-08-05T19:03:39.5160221+00:00"
+  "LastUpdate_Ratings": "2023-08-05T19:58:12.083298+00:00",
+  "LastUpdate_Achievements": "2023-08-05T20:03:16.6797035+00:00"
 }

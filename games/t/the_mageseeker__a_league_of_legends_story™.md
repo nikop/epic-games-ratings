@@ -18,7 +18,7 @@ Rating: 4.81 (Ranked 76)
 | Past trauma | 35.00% | ~876 |
 | Elemental master | 34.00% | ~851 |
 | Ternmoat Headquarters | 34.00% | ~851 |
-| Cypress Glen Headquarters | 32.00% | ~801 |
+| Cypress Glen Headquarters | 33.00% | ~826 |
 | Petricite Burst | 30.00% | ~751 |
 | Old friend | 29.00% | ~726 |
 | Hijack | 28.00% | ~701 |
@@ -50,10 +50,10 @@ Rating: 4.81 (Ranked 76)
 | The Great City of Demacia | 11.00% | ~275 |
 | Back to sleep, then... | 11.00% | ~275 |
 | Call it 'redistribution of magic | 11.00% | ~275 |
+| Do you trust me? | 10.00% | ~250 |
 | Chains master | 10.00% | ~250 |
 | Truth is a dark mirror | 10.00% | ~250 |
 | You can pet the... horse | 10.00% | ~250 |
-| Do you trust me? | 9.00% | ~225 |
 | The great mage rebellion starts now | 9.00% | ~225 |
 | Spellcrafting | 9.00% | ~225 |
 | Silverwing nest | 2.00% | ~50 |

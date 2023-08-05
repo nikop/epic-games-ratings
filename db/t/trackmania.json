@@ -8535,10 +8535,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 26085,
       "NumberOfAwardsMax": 3095
+    },
+    {
+      "Time": "2023-08-05T19:59:03.9081303+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 26088,
+      "NumberOfAwardsMax": 3095
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26085,
+  "NumberOfAwards": 26088,
   "NumberOfAwardsMax": 3095,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -8594,7 +8600,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 2131
+      "Count": 2134
     },
     {
       "Text": "This game has Challenging Combat",
@@ -8626,8 +8632,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-08-05T18:01:05.3374316+00:00",
+  "LastChanged": "2023-08-05T19:59:03.9081301+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:04.0172691+00:00",
-  "LastUpdate_Ratings": "2023-08-05T18:59:52.5513406+00:00",
-  "LastUpdate_Achievements": "2023-08-05T19:07:08.2864729+00:00"
+  "LastUpdate_Ratings": "2023-08-05T19:59:03.9081308+00:00",
+  "LastUpdate_Achievements": "2023-08-05T20:06:06.415045+00:00"
 }
