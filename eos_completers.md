@@ -21,14 +21,14 @@
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.39% |
 | 20 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 11.11% |
 | 20 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
-| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.64% |
 | 22 | [Remains](games/r/remains.md) | 10.64% |
+| 23 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.62% |
 | 24 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.05% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.12% |
 | 28 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.09% |
-| 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
+| 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.97% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 31 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.00% |
 | 32 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -40,7 +40,7 @@
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 40 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 6.11% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.11% |
+| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.09% |
 | 42 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.66% |
 | 43 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
 | 44 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.00% |
@@ -56,7 +56,7 @@
 | 54 | [Without Escape](games/w/without_escape.md) | 3.85% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.82% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.68% |
-| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.62% |
+| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.60% |
 | 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.48% |
 | 60 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
@@ -91,7 +91,7 @@
 | 89 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 90 | [Frogun](games/f/frogun.md) | 1.81% |
 | 91 | [Sifu](games/s/sifu.md) | 1.80% |
-| 92 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.72% |
+| 92 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.71% |
 | 93 | [Iron Danger](games/i/iron_danger.md) | 1.65% |
 | 94 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.62% |
 | 95 | [Somerville](games/s/somerville.md) | 1.61% |
@@ -183,11 +183,11 @@
 | 180 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 180 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.16% |
 | 180 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 184 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.15% |
 | 184 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
 | 184 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 184 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 187 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
-| 187 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.14% |
+| 188 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 189 | [Isonzo](games/i/isonzo.md) | 0.12% |
 | 189 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 189 | [Port Royale 4](games/p/port_royale_4.md) | 0.12% |

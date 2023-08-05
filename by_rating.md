@@ -188,7 +188,7 @@
 | 185 | [Barony](games/b/barony.md) | 4.71 | 75 | 367 |
 | 185 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,837 | 49 |
 | 185 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 436 |
-| 185 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,360 | 46 |
+| 185 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,364 | 46 |
 | 185 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.71 | 0 | 509 |
 | 185 | [Northgard](games/n/northgard.md) | 4.71 | 30 | 458 |
 | 185 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 509 |
@@ -383,7 +383,7 @@
 | 366 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 472 | 199 |
 | 366 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,678 | 37 |
 | 366 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,070 | 137 |
-| 366 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 276 | 242 |
+| 366 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 277 | 242 |
 | 366 | [Supraland](games/s/supraland.md) | 4.61 | 7,663 | 44 |
 | 366 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 509 |
 | 366 | [Warframe](games/w/warframe.md) | 4.61 | 16,313 | 22 |
@@ -457,7 +457,7 @@
 | 446 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 0 | 509 |
 | 446 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,648 | 45 |
 | 446 | [Observation](games/o/observation.md) | 4.57 | 0 | 509 |
-| 446 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,188 | 91 |
+| 446 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,189 | 91 |
 | 446 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.57 | 6,312 | 54 |
 | 446 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 509 |
 | 446 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,640 | 83 |
@@ -545,7 +545,7 @@
 | 526 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 509 |
 | 544 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,680 | 118 |
 | 544 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 96 | 341 |
-| 544 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,106 | 79 |
+| 544 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,108 | 79 |
 | 544 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 509 |
 | 544 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 41 | 421 |
 | 544 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,612 | 96 |
@@ -583,7 +583,7 @@
 | 576 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 243 |
 | 576 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 0 | 509 |
 | 576 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 246 | 252 |
-| 576 | [Maneater](games/m/maneater.md) | 4.49 | 13,607 | 26 |
+| 576 | [Maneater](games/m/maneater.md) | 4.49 | 13,610 | 26 |
 | 576 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 451 |
 | 576 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 493,580 | 2 |
 | 576 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 358 |
@@ -787,15 +787,15 @@
 | 784 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 509 |
 | 784 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 509 |
 | 784 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 509 |
-| 784 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.30 | 588 | 180 |
-| 789 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 509 |
-| 789 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | 0 | 509 |
-| 789 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 509 |
-| 789 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,553,123 | 1 |
-| 789 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 709 | 163 |
-| 789 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 417 |
-| 789 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 126 | 310 |
-| 789 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.29 | 0 | 509 |
+| 788 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 509 |
+| 788 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | 0 | 509 |
+| 788 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 509 |
+| 788 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,553,123 | 1 |
+| 788 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 709 | 163 |
+| 788 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 417 |
+| 788 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 126 | 310 |
+| 788 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.29 | 588 | 180 |
+| 788 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.29 | 0 | 509 |
 | 797 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 509 |
 | 797 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 509 |
 | 797 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.28 | 0 | 509 |
