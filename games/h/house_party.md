@@ -18,10 +18,10 @@ Number of Ratings: 177  (23.09.2022)
 | Drunk and Disorderly: Ashley | 0.90% | ~54 |
 | IRL Let's Player | 0.90% | ~54 |
 | Newcomer: Vickie | 0.80% | ~48 |
+| Inspector | 0.70% | ~42 |
 | Social Butterfly | 0.70% | ~42 |
 | The Muse: Madison | 0.70% | ~42 |
 | Amy | 0.60% | ~36 |
-| Inspector | 0.60% | ~36 |
 | Smooth Operator: Ashley | 0.60% | ~36 |
 | Amy: Scavenger Hunt | 0.50% | ~30 |
 | It Smells Like Roses | 0.50% | ~15 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,020 (Ranked 135)  
+Progressed: 6,021 (Ranked 135)  
 Completed: 3 (0.05%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,6 +182,7 @@ Completed: 3 (0.05%) (Ranked 213)
 | 2023-08-02 | 6,007 | 3 |
 | 2023-08-03 | 6,014 | 3 |
 | 2023-08-04 | 6,020 | 3 |
+| 2023-08-05 | 6,021 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

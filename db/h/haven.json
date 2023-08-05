@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1371,
+  "EOS_Progressed": 1372,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -1398,6 +1398,11 @@
       "Time": "2023-08-03T13:09:21.8220392+00:00",
       "NumProgressed": 1371,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-05T01:53:18.8625102+00:00",
+      "NumProgressed": 1372,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1407,9 +1412,9 @@
       "ID": "1",
       "SetID": "n50no0",
       "Name": "Lovebirds",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 672
     },
     {
       "ID": "10",
@@ -1425,7 +1430,7 @@
       "Name": "Strike!",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "12",
@@ -1473,7 +1478,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "18",
@@ -1569,7 +1574,7 @@
       "Name": "Hug therapy",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "30",
@@ -1633,7 +1638,7 @@
       "Name": "Over my dead body",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "9",
@@ -1648,15 +1653,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1371,
+      "Progressed": 1372,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-08-05T00:02:23.356992+00:00",
+  "LastChanged_Achievements": "2023-08-05T01:53:18.8625097+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:08.3716541+00:00",
-  "LastUpdate_Ratings": "2023-08-05T00:00:14.2562764+00:00",
-  "LastUpdate_Achievements": "2023-08-05T00:02:23.3570338+00:00"
+  "LastUpdate_Ratings": "2023-08-05T01:50:38.6710839+00:00",
+  "LastUpdate_Achievements": "2023-08-05T01:53:18.8625343+00:00"
 }

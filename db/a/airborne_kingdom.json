@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,7 +313,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6956,
+  "EOS_Progressed": 6957,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 1,
@@ -3323,6 +3323,11 @@
       "Time": "2023-08-04T22:02:12.7105811+00:00",
       "NumProgressed": 6956,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-05T01:53:16.4064075+00:00",
+      "NumProgressed": 6957,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -3382,7 +3387,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -3470,7 +3475,7 @@
       "Name": "Seekers Found",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2782
+      "UsersEstimate": 2783
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -3486,7 +3491,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3895
+      "UsersEstimate": 3896
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -3534,7 +3539,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2782
+      "UsersEstimate": 2783
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -3549,15 +3554,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6956,
+      "Progressed": 6957,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-08-05T00:02:20.7842859+00:00",
+  "LastChanged_Achievements": "2023-08-05T01:53:16.4064071+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.513053+00:00",
-  "LastUpdate_Ratings": "2023-08-04T23:58:06.3613743+00:00",
-  "LastUpdate_Achievements": "2023-08-05T00:02:20.7843383+00:00"
+  "LastUpdate_Ratings": "2023-08-05T01:48:30.0222206+00:00",
+  "LastUpdate_Achievements": "2023-08-05T01:53:16.4064379+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "e58f8f670f3243f690ed3c89cba89c9e",
   "Name": "Jennifer Wilde Unlikely Revolutionaries",
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
-  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 52,
+  "EOS_Progressed": 53,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.77,
+  "EOS_Completed_Percentage": 5.66,
   "EosHistory": [
     {
       "Time": "2023-05-23T11:00:16.5750246+00:00",
@@ -276,6 +276,11 @@
       "Time": "2023-08-04T14:06:37.2102606+00:00",
       "NumProgressed": 52,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-05T01:56:44.9962814+00:00",
+      "NumProgressed": 53,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 10,
@@ -301,7 +306,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "1ejicho",
       "Name": "I See Dead People",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 100,
       "UsersEstimate": 14
     },
@@ -317,7 +322,7 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "1ejicho",
       "Name": "I Ain\u0027t Afraid of No Ghost",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -349,7 +354,7 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "1ejicho",
       "Name": "Joyrider",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -366,14 +371,14 @@
     {
       "ID": "1ejicho",
       "IsBase": true,
-      "Progressed": 52,
+      "Progressed": 53,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-08-05T00:06:15.9812505+00:00",
+  "LastChanged_Achievements": "2023-08-05T01:56:44.9962811+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:57.4966989+00:00",
-  "LastUpdate_Ratings": "2023-08-04T23:59:50.7548598+00:00",
-  "LastUpdate_Achievements": "2023-08-05T00:06:15.981265+00:00"
+  "LastUpdate_Ratings": "2023-08-05T01:50:16.6923698+00:00",
+  "LastUpdate_Achievements": "2023-08-05T01:56:44.9962899+00:00"
 }

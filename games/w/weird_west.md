@@ -6,16 +6,16 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,569 |
-| Self-Improvement | 71.00% | ~1,266 |
-| Perky | 65.00% | ~1,159 |
+| Unforgiven | 88.00% | ~1,570 |
+| Self-Improvement | 71.00% | ~1,267 |
+| Perky | 65.00% | ~1,160 |
 | Let’s Ride | 60.00% | ~1,070 |
-| Welcome to the Weird West | 57.00% | ~1,016 |
-| Dead or Alive | 56.00% | ~998 |
+| Welcome to the Weird West | 57.00% | ~1,017 |
+| Dead or Alive | 55.00% | ~981 |
 | Full House | 36.00% | ~642 |
-| Off the Trail | 33.00% | ~588 |
+| Off the Trail | 33.00% | ~589 |
 | Justice Served | 29.00% | ~517 |
-| Chain Reaction | 27.00% | ~481 |
+| Chain Reaction | 27.00% | ~482 |
 | Dishonored | 25.00% | ~446 |
 | Rain of Death | 25.00% | ~446 |
 | Scholar | 25.00% | ~446 |
@@ -25,7 +25,7 @@ Number of Ratings: 125  (23.09.2022)
 | Fallen Star | 16.00% | ~285 |
 | Here Comes Santa Claus | 16.00% | ~285 |
 | Winds of War | 16.00% | ~285 |
-| For Balance | 15.00% | ~267 |
+| For Balance | 15.00% | ~268 |
 | Dog Days | 13.00% | ~232 |
 | Workers' Rights | 13.00% | ~232 |
 | Elusive Prey | 12.00% | ~214 |
@@ -35,8 +35,8 @@ Number of Ratings: 125  (23.09.2022)
 | Something Wicked This Way Comes… | 11.00% | ~196 |
 | There is Hope | 11.00% | ~196 |
 | The Philosopher’s Stone | 10.00% | ~178 |
-| Loyalty to the Pack | 9.00% | ~160 |
-| Mystery Machine | 9.00% | ~160 |
+| Loyalty to the Pack | 9.00% | ~161 |
+| Mystery Machine | 9.00% | ~161 |
 | Do Not Pass Go… | 8.00% | ~143 |
 | Gold Digger | 8.00% | ~143 |
 | Eternity Can Wait | 8.00% | ~143 |
@@ -47,9 +47,9 @@ Number of Ratings: 125  (23.09.2022)
 | Who You Gonna Call? | 6.00% | ~107 |
 | This Is Sparta | 5.00% | ~89 |
 | What’s in the Box? | 5.00% | ~89 |
-| Ghost Town | 3.00% | ~53 |
-| Lord Inut Sends His Regards | 3.00% | ~53 |
-| Moondrunk | 3.00% | ~53 |
+| Ghost Town | 3.00% | ~54 |
+| Lord Inut Sends His Regards | 3.00% | ~54 |
+| Moondrunk | 3.00% | ~54 |
 | 'Ma Barker | 2.00% | ~36 |
 | I Kicked a Bird and I Liked it | 1.00% | ~18 |
 | Hog Wild | 1.00% | ~18 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,783 (Ranked 171)  
+Progressed: 1,784 (Ranked 171)  
 Completed: 4 (0.22%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,6 +153,7 @@ Completed: 4 (0.22%) (Ranked 171)
 | 2023-08-02 | 1,773 | 4 |
 | 2023-08-03 | 1,780 | 4 |
 | 2023-08-04 | 1,783 | 4 |
+| 2023-08-05 | 1,784 | 4 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 481)  
 Sum: 24 (Ranked 486)  

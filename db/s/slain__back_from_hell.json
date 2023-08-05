@@ -2,13 +2,13 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 789,
+  "Ranking_Rating": 788,
   "Ranking_Popularity": 310,
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -205,7 +205,7 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 32637,
+  "EOS_Progressed": 32647,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 912,
   "EOS_NewCompleters": 0,
@@ -11780,6 +11780,11 @@
       "Time": "2023-08-05T00:05:05.7458069+00:00",
       "NumProgressed": 32637,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-05T01:55:37.1186325+00:00",
+      "NumProgressed": 32647,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -11791,7 +11796,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4896
+      "UsersEstimate": 4897
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -11799,7 +11804,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6527
+      "UsersEstimate": 6529
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -11879,7 +11884,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -11895,7 +11900,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -11927,7 +11932,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -11935,7 +11940,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -11951,7 +11956,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1959
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -12022,7 +12027,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 32637,
+      "Progressed": 32647,
       "Completed": 20
     }
   ],
@@ -12030,8 +12035,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-01T20:00:57.6814566+00:00",
-  "LastChanged_Achievements": "2023-08-05T00:05:05.7458063+00:00",
+  "LastChanged_Achievements": "2023-08-05T01:55:37.118632+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:53.1512382+00:00",
-  "LastUpdate_Ratings": "2023-08-05T00:00:47.6840618+00:00",
-  "LastUpdate_Achievements": "2023-08-05T00:05:05.7458965+00:00"
+  "LastUpdate_Ratings": "2023-08-05T01:51:10.5319042+00:00",
+  "LastUpdate_Achievements": "2023-08-05T01:55:37.118704+00:00"
 }

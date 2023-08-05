@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65162,
+  "EOS_Progressed": 65169,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6885,6 +6885,11 @@
       "Time": "2023-08-05T00:05:56.9128602+00:00",
       "NumProgressed": 65162,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-05T01:56:26.5014616+00:00",
+      "NumProgressed": 65169,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -6928,7 +6933,7 @@
       "Name": "Soda addiction",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_FIRECRACKERS",
@@ -6944,7 +6949,7 @@
       "Name": "Paparazzi",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_FRIENDSHIPPOWER",
@@ -7032,7 +7037,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2606
+      "UsersEstimate": 2607
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -7055,7 +7060,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 65162,
+      "Progressed": 65169,
       "Completed": 13
     }
   ],
@@ -7063,8 +7068,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-08-05T00:05:56.9128596+00:00",
+  "LastChanged_Achievements": "2023-08-05T01:56:26.5014611+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:12.051457+00:00",
-  "LastUpdate_Ratings": "2023-08-04T23:58:08.1465714+00:00",
-  "LastUpdate_Achievements": "2023-08-05T00:05:56.9129433+00:00"
+  "LastUpdate_Ratings": "2023-08-05T01:48:31.7874414+00:00",
+  "LastUpdate_Achievements": "2023-08-05T01:56:26.5015059+00:00"
 }

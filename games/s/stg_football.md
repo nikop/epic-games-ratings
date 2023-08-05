@@ -4,8 +4,8 @@
 Rating: 4.45 (Ranked 630)  
 ## Awards
 Max (Great for Beginners): 42  (Ranked 420)  
-Sum: 362 (Ranked 324)  
-Diff (max vs sum): 96  
+Sum: 364 (Ranked 323)  
+Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 42 |
@@ -14,12 +14,12 @@ Diff (max vs sum): 96
 | This game has Diverse Characters | 33 |
 | This game is Highly Recommended | 32 |
 | This game is Extremely Fun | 32 |
-| This game has a Competitive Community | 28 |
+| This game has a Competitive Community | 29 |
 | This game has Competitive Players | 28 |
 | This game has Amazing Characters | 27 |
 | This game has Amazing Storytelling | 24 |
 | This game is Educational | 23 |
-| This game is Relaxing | 22 |
+| This game is Relaxing | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -116,3 +116,4 @@ Diff (max vs sum): 96
 | 2023-07-26 | 4.45 | 41 | 356 |
 | 2023-07-30 | 4.45 | 41 | 358 |
 | 2023-08-03 | 4.45 | 42 | 362 |
+| 2023-08-05 | 4.45 | 42 | 364 |

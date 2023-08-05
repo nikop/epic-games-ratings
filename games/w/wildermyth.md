@@ -1,24 +1,24 @@
 # Wildermyth
 [Store](https://store.epicgames.com/en-US/p/wildermyth-593344)  
 [View Rawdata](../../db/w/wildermyth.json)  
-Rating: 4.77 (Ranked 108)  
+Rating: 4.77 (Ranked 109)  
 Number of Ratings: 45  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 39.00% | ~529 |
+| The Cost of Heroism | 39.00% | ~530 |
 | Me and My Familiar | 36.00% | ~489 |
 | This Too Shall Pass | 31.00% | ~421 |
 | Passing Shadow | 29.00% | ~394 |
 | Cutthroat Competitors | 29.00% | ~394 |
-| How Romantic! | 27.00% | ~366 |
-| Daybreak | 27.00% | ~366 |
-| Gotta Ca... Must Collect All of Them | 25.00% | ~339 |
+| How Romantic! | 27.00% | ~367 |
+| Daybreak | 27.00% | ~367 |
+| Gotta Ca... Must Collect All of Them | 25.00% | ~340 |
 | Completing the Look | 14.00% | ~190 |
 | War Endured | 14.00% | ~190 |
-| A Mythic Menagerie | 13.00% | ~176 |
-| Who's Counting? | 13.00% | ~176 |
-| Core Failure | 13.00% | ~176 |
+| A Mythic Menagerie | 13.00% | ~177 |
+| Who's Counting? | 13.00% | ~177 |
+| Core Failure | 13.00% | ~177 |
 | Pyrrhic Victory | 11.00% | ~149 |
 | Echoes Die | 10.00% | ~136 |
 | Thematic Divergence | 9.00% | ~122 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.80% | ~11 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,357 (Ranked 182)  
+Progressed: 1,358 (Ranked 182)  
 Completed: 5 (0.37%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 5 (0.37%) (Ranked 149)
 | 2023-08-01 | 1,348 | 5 |
 | 2023-08-03 | 1,354 | 5 |
 | 2023-08-04 | 1,356 | 5 |
-| 2023-08-05 | 1,357 | 5 |
+| 2023-08-05 | 1,358 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 466)  
 Sum: 28 (Ranked 478)  

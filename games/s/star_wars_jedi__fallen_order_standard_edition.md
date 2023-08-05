@@ -5,28 +5,28 @@ Rating: 4.69 (Ranked 213)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 99.00% | ~1,065 |
-| A Long Time Ago | 94.00% | ~1,011 |
-| Sabersmith | 82.00% | ~882 |
+| The Mantis | 99.00% | ~1,066 |
+| A Long Time Ago | 94.00% | ~1,012 |
+| Sabersmith | 82.00% | ~883 |
 | The Obstacle is the Way | 81.00% | ~872 |
-| Back At You | 76.00% | ~818 |
-| Happy Go Wookiee | 71.00% | ~764 |
-| Everything is Connected | 61.00% | ~656 |
-| Her Name Was Masana Tide | 54.00% | ~581 |
-| Bank Shot | 54.00% | ~581 |
-| Perfect Timing | 53.00% | ~570 |
+| Back At You | 76.00% | ~819 |
+| Happy Go Wookiee | 71.00% | ~765 |
+| Everything is Connected | 61.00% | ~657 |
+| Her Name Was Masana Tide | 54.00% | ~582 |
+| Bank Shot | 54.00% | ~582 |
+| Perfect Timing | 53.00% | ~571 |
 | The Full Glow-Up | 50.00% | ~538 |
-| Gorgara Falls | 49.00% | ~527 |
-| For A More Civilized Age | 45.00% | ~484 |
+| Gorgara Falls | 49.00% | ~528 |
+| For A More Civilized Age | 45.00% | ~485 |
 | Look Out Below | 43.00% | ~463 |
 | I Knew He Was No Good | 42.00% | ~452 |
-| Don't Mess with BD-1 | 41.00% | ~441 |
-| The Holocron Awaits | 40.00% | ~430 |
-| Scum and Villainy | 40.00% | ~430 |
+| Don't Mess with BD-1 | 41.00% | ~442 |
+| The Holocron Awaits | 40.00% | ~431 |
+| Scum and Villainy | 40.00% | ~431 |
 | Trust Only In The Force | 37.00% | ~398 |
-| Blade Master | 36.00% | ~387 |
+| Blade Master | 36.00% | ~388 |
 | Full House | 33.00% | ~355 |
-| Legendary Beasts | 23.00% | ~247 |
+| Legendary Beasts | 23.00% | ~248 |
 | Echo Location | 20.00% | ~215 |
 | Visiting Alderaan Places | 17.00% | ~183 |
 | Cal Got Your Tongue? | 13.00% | ~140 |
@@ -45,7 +45,7 @@ Rating: 4.69 (Ranked 213)
 | Kicking Back | 2.00% | ~22 |
 | Not So Fast | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,076 (Ranked 194)  
+Progressed: 1,077 (Ranked 194)  
 Completed: 5 (0.46%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,6 +57,7 @@ Completed: 5 (0.46%) (Ranked 141)
 | 2023-08-02 | 1,067 | 5 |
 | 2023-08-03 | 1,075 | 5 |
 | 2023-08-04 | 1,076 | 5 |
+| 2023-08-05 | 1,077 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

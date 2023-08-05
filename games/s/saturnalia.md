@@ -5,7 +5,7 @@ Rating: 4.25 (Ranked 819)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of Shape | 4.00% | ~2,606 |
+| Out of Shape | 4.00% | ~2,607 |
 | Bonfire Lit | 3.00% | ~1,955 |
 | Survival Expert | 3.00% | ~1,955 |
 | Denial | 2.00% | ~1,303 |
@@ -22,11 +22,11 @@ Rating: 4.25 (Ranked 819)
 | Let there be light | 0.50% | ~326 |
 | Silent Advisor | 0.50% | ~326 |
 | Are you still there? | 0.40% | ~261 |
-| Soda addiction | 0.30% | ~195 |
-| Paparazzi | 0.30% | ~195 |
+| Soda addiction | 0.30% | ~196 |
+| Paparazzi | 0.30% | ~196 |
 | Ear Ringing | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,162 (Ranked 82)  
+Progressed: 65,169 (Ranked 82)  
 Completed: 13 (0.02%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 13 (0.02%) (Ranked 228)
 | 2023-08-02 | 65,097 | 13 |
 | 2023-08-03 | 65,134 | 13 |
 | 2023-08-04 | 65,159 | 13 |
-| 2023-08-05 | 65,162 | 13 |
+| 2023-08-05 | 65,169 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -26,13 +26,13 @@ Number of Ratings: 371  (23.09.2022)
 | Hold Your Ground | 0.50% | ~16 |
 | Corruption Cleanser | 0.50% | ~16 |
 | Hive Exterminator | 0.50% | ~16 |
+| Tactical Sabotage | 0.40% | ~12 |
 | Daemonkeeper | 0.30% | ~9 |
 | Mind Like a Fortress | 0.30% | ~9 |
 | Efficient Killer | 0.30% | ~9 |
 | Only in Death | 0.30% | ~9 |
 | A Gift Spurned | 0.30% | ~9 |
 | Long Distance Call | 0.30% | ~9 |
-| Tactical Sabotage | 0.30% | ~9 |
 | Patron of Deimos | 0.20% | ~6 |
 | Fleetmaster | 0.20% | ~6 |
 | For the Machine God | 0.20% | ~6 |

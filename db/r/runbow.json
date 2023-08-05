@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247618,
+  "EOS_Progressed": 247620,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10299,6 +10299,11 @@
       "Time": "2023-08-04T23:03:48.2230198+00:00",
       "NumProgressed": 247618,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-05T01:53:42.18689+00:00",
+      "NumProgressed": 247620,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -10406,7 +10411,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44571
+      "UsersEstimate": 44572
     },
     {
       "ID": "curator",
@@ -10486,7 +10491,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131238
+      "UsersEstimate": 131239
     },
     {
       "ID": "indegestible",
@@ -10526,7 +10531,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19809
+      "UsersEstimate": 19810
     },
     {
       "ID": "lockupLockdown",
@@ -10550,7 +10555,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123809
+      "UsersEstimate": 123810
     },
     {
       "ID": "notScared",
@@ -10630,7 +10635,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32190
+      "UsersEstimate": 32191
     },
     {
       "ID": "treeMedalist",
@@ -10677,7 +10682,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 247618,
+      "Progressed": 247620,
       "Completed": 3
     }
   ],
@@ -10685,8 +10690,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-05T00:03:18.0257148+00:00",
+  "LastChanged_Achievements": "2023-08-05T01:53:42.1868895+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:02.5493145+00:00",
-  "LastUpdate_Ratings": "2023-08-04T23:59:55.1052157+00:00",
-  "LastUpdate_Achievements": "2023-08-05T00:03:18.0258244+00:00"
+  "LastUpdate_Ratings": "2023-08-05T01:50:21.3123785+00:00",
+  "LastUpdate_Achievements": "2023-08-05T01:53:42.1869699+00:00"
 }

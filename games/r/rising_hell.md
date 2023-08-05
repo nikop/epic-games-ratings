@@ -3,9 +3,9 @@
 [View Rawdata](../../db/r/rising_hell.json)  
 Rating: 4.41 (Ranked 678)  
 ## Awards
-Max (Quickly Understood Controls): 74  (Ranked 369)  
+Max (Quickly Understood Controls): 74  (Ranked 370)  
 Sum: 666 (Ranked 279)  
-Diff (max vs sum): 90  
+Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 74 |

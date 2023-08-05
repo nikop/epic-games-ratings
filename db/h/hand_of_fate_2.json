@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 660308,
+  "EOS_Progressed": 660311,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10897,6 +10897,11 @@
       "Time": "2023-08-05T00:04:02.9058954+00:00",
       "NumProgressed": 660308,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-08-05T01:54:35.6430819+00:00",
+      "NumProgressed": 660311,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -10908,7 +10913,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 475422
+      "UsersEstimate": 475424
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -10916,7 +10921,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382979
+      "UsersEstimate": 382980
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -10924,7 +10929,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151871
+      "UsersEstimate": 151872
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -10932,7 +10937,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39618
+      "UsersEstimate": 39619
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -10996,7 +11001,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 33015
+      "UsersEstimate": 33016
     },
     {
       "ID": "Achievement_13_Dice_Master",
@@ -11044,7 +11049,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151871
+      "UsersEstimate": 151872
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -11052,7 +11057,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92443
+      "UsersEstimate": 92444
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -11060,7 +11065,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112252
+      "UsersEstimate": 112253
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -11068,7 +11073,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39618
+      "UsersEstimate": 39619
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -11084,7 +11089,7 @@
       "Name": "Smithy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 33015
+      "UsersEstimate": 33016
     },
     {
       "ID": "Achievement_24_Leap_of_Faith",
@@ -11172,7 +11177,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165077
+      "UsersEstimate": 165078
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -11291,15 +11296,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 660308,
+      "Progressed": 660311,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-08-05T00:04:02.9058948+00:00",
+  "LastChanged_Achievements": "2023-08-05T01:54:35.6430815+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:32.2842788+00:00",
-  "LastUpdate_Ratings": "2023-08-04T23:58:21.917479+00:00",
-  "LastUpdate_Achievements": "2023-08-05T00:04:02.9060916+00:00"
+  "LastUpdate_Ratings": "2023-08-05T01:48:45.4529508+00:00",
+  "LastUpdate_Achievements": "2023-08-05T01:54:35.6431596+00:00"
 }

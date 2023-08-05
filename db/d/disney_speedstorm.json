@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3073,
+  "EOS_Progressed": 3074,
   "EOS_Completed": 139,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 20,
@@ -4095,6 +4095,11 @@
       "Time": "2023-08-04T21:07:33.7605595+00:00",
       "NumProgressed": 3073,
       "NumCompleted": 139
+    },
+    {
+      "Time": "2023-08-05T01:57:11.9274083+00:00",
+      "NumProgressed": 3074,
+      "NumCompleted": 139
     }
   ],
   "TotalAchievements": 24,
@@ -4162,7 +4167,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "17",
@@ -4170,7 +4175,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "18",
@@ -4202,7 +4207,7 @@
       "Name": "PROTECTED",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "21",
@@ -4234,7 +4239,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "3",
@@ -4258,7 +4263,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "6",
@@ -4274,7 +4279,7 @@
       "Name": "MASTER",
       "Percentage": 17,
       "XP": 65,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "8",
@@ -4297,13 +4302,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3073,
+      "Progressed": 3074,
       "Completed": 139
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-05T00:06:43.098807+00:00",
+  "LastChanged_Achievements": "2023-08-05T01:57:11.9274078+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:49.7326864+00:00",
-  "LastUpdate_Ratings": "2023-08-04T23:59:42.4943616+00:00",
-  "LastUpdate_Achievements": "2023-08-05T00:06:43.0988544+00:00"
+  "LastUpdate_Ratings": "2023-08-05T01:50:08.8523401+00:00",
+  "LastUpdate_Achievements": "2023-08-05T01:57:11.9274419+00:00"
 }

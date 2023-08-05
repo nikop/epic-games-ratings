@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34454,
+  "EOS_Progressed": 34458,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -10004,6 +10004,11 @@
       "Time": "2023-08-05T00:05:27.8181692+00:00",
       "NumProgressed": 34454,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-08-05T01:55:58.3093109+00:00",
+      "NumProgressed": 34458,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 14,
@@ -10031,7 +10036,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8958
+      "UsersEstimate": 8959
     },
     {
       "ID": "allItems",
@@ -10103,7 +10108,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 26530
+      "UsersEstimate": 26533
     },
     {
       "ID": "roots",
@@ -10111,7 +10116,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 5857
+      "UsersEstimate": 5858
     },
     {
       "ID": "secretItem",
@@ -10126,15 +10131,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 34454,
+      "Progressed": 34458,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-08-05T00:05:27.8181686+00:00",
+  "LastChanged_Achievements": "2023-08-05T01:55:58.3093104+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:09.7602428+00:00",
-  "LastUpdate_Ratings": "2023-08-04T23:56:59.923291+00:00",
-  "LastUpdate_Achievements": "2023-08-05T00:05:27.8182519+00:00"
+  "LastUpdate_Ratings": "2023-08-05T01:47:24.6515275+00:00",
+  "LastUpdate_Achievements": "2023-08-05T01:55:58.309367+00:00"
 }

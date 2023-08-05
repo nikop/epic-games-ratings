@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We've only just begun | 95.00% | ~83 |
-| You're spelunkin' now! | 85.00% | ~74 |
-| The Birdman of The Caves | 51.00% | ~44 |
+| We've only just begun | 95.00% | ~84 |
+| You're spelunkin' now! | 85.00% | ~75 |
+| The Birdman of The Caves | 50.00% | ~44 |
 | I've Fallen & I Can't Get Up | 49.00% | ~43 |
-| Charmin' the Snake | 36.00% | ~31 |
+| Charmin' the Snake | 35.00% | ~31 |
 | Drums in the Deep | 22.00% | ~19 |
 | Treasure Seeker | 22.00% | ~19 |
 | Bridge Builder | 22.00% | ~19 |
@@ -29,7 +29,7 @@
 | Colossal Cave Explorer | 3.00% | ~3 |
 | Perfect 350 pt score | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 329)  
+Progressed: 88 (Ranked 328)  
 Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,6 +46,7 @@ Completed: 0 (0.00%) (Ranked 248)
 | 2023-07-08 | 85 | 0 |
 | 2023-07-11 | 86 | 0 |
 | 2023-07-16 | 87 | 0 |
+| 2023-08-05 | 88 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

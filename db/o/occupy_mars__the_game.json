@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1464,
+  "EOS_Progressed": 1465,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2993,6 +2993,11 @@
       "Time": "2023-08-04T18:04:54.3857093+00:00",
       "NumProgressed": 1464,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-05T01:55:46.8855704+00:00",
+      "NumProgressed": 1465,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3108,7 +3113,7 @@
       "Name": "All Wheel Trouble",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -3124,7 +3129,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -3228,7 +3233,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -3260,7 +3265,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -3276,7 +3281,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -3340,7 +3345,7 @@
       "Name": "Space Forest",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPOTTY_FRIEND",
@@ -3387,7 +3392,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1464,
+      "Progressed": 1465,
       "Completed": 0
     }
   ],
@@ -3395,8 +3400,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-07-31T07:57:50.7109089+00:00",
-  "LastChanged_Achievements": "2023-08-05T00:05:15.8999777+00:00",
+  "LastChanged_Achievements": "2023-08-05T01:55:46.88557+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:07.5190813+00:00",
-  "LastUpdate_Ratings": "2023-08-04T23:58:04.7034205+00:00",
-  "LastUpdate_Achievements": "2023-08-05T00:05:15.9000391+00:00"
+  "LastUpdate_Ratings": "2023-08-05T01:48:28.2782067+00:00",
+  "LastUpdate_Achievements": "2023-08-05T01:55:46.8856146+00:00"
 }

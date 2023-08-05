@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -314,9 +314,9 @@
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Achievement19",
@@ -338,9 +338,9 @@
       "ID": "Achievement20",
       "SetID": "jf6ho5",
       "Name": "Amokuali Tower",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Achievement21",
@@ -419,8 +419,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-08-05T00:05:18.5617349+00:00",
+  "LastChanged_Achievements": "2023-08-05T01:55:49.6478021+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:15.5631098+00:00",
-  "LastUpdate_Ratings": "2023-08-05T00:01:06.9157328+00:00",
-  "LastUpdate_Achievements": "2023-08-05T00:05:18.5617509+00:00"
+  "LastUpdate_Ratings": "2023-08-05T01:51:33.3632249+00:00",
+  "LastUpdate_Achievements": "2023-08-05T01:55:49.6478139+00:00"
 }
