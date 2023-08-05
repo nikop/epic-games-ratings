@@ -162,15 +162,15 @@ Completed: 71 (0.45%) (Ranked 144)
 | 2023-08-05 | 15,816 | 71 |
 ## Awards
 Max (Amazing Storytelling): 72  (Ranked 373)  
-Sum: 400 (Ranked 316)  
-Diff (max vs sum): 57  
+Sum: 401 (Ranked 315)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 72 |
 | This game has Amazing Characters | 68 |
 | This game is Highly Recommended | 66 |
 | This game has Quickly Understood Controls | 63 |
-| This game is Extremely Fun | 57 |
+| This game is Extremely Fun | 58 |
 | This game has Challenging Combat | 50 |
 | This game has a Creative Community | 24 |
 ## Ratings History
@@ -279,3 +279,4 @@ Diff (max vs sum): 57
 | 2023-07-24 | 4.20 | 72 | 398 |
 | 2023-07-29 | 4.20 | 72 | 399 |
 | 2023-07-30 | 4.20 | 72 | 400 |
+| 2023-08-05 | 4.20 | 72 | 401 |

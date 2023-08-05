@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 297)  
+Rating: 4.65 (Ranked 298)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -44,15 +44,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 0.90% | ~119 |
 | Babylonian Paganism | 0.90% | ~119 |
 | Carthaginian Paganism | 0.90% | ~119 |
+| Roman Paganism | 0.90% | ~119 |
 | Zoroastrianism | 0.90% | ~119 |
 | Brilliant | 0.80% | ~106 |
 | Fountainhead | 0.80% | ~106 |
 | Wise | 0.80% | ~106 |
 | Great Ziggurat | 0.80% | ~106 |
 | Learn to Play 1 | 0.80% | ~106 |
-| Roman Paganism | 0.80% | ~106 |
 | Regicide | 0.70% | ~93 |
 | Great | 0.70% | ~93 |
+| Just Difficulty | 0.70% | ~93 |
 | Artisans | 0.70% | ~93 |
 | Furious Family | 0.70% | ~93 |
 | Apadana | 0.70% | ~93 |
@@ -62,9 +63,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.70% | ~93 |
 | Drillmaster | 0.60% | ~80 |
 | Intercessor | 0.60% | ~80 |
-| Valiant | 0.60% | ~80 |
 | Legendary Cities | 0.60% | ~80 |
-| Just Difficulty | 0.60% | ~80 |
 | Sages | 0.60% | ~80 |
 | Acropolis | 0.60% | ~80 |
 | Mausoleum | 0.60% | ~80 |
@@ -72,10 +71,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 0.60% | ~80 |
 | Egyptian Paganism | 0.60% | ~80 |
 | Mythology | 0.60% | ~80 |
-| Points Victory | 0.60% | ~80 |
 | Hanging Gardens in Babylon | 0.50% | ~66 |
 | Beloved | 0.50% | ~66 |
 | Conqueror | 0.50% | ~66 |
+| Valiant | 0.50% | ~66 |
 | Good Difficulty | 0.50% | ~66 |
 | Champions | 0.50% | ~66 |
 | Patrons | 0.50% | ~66 |
@@ -84,6 +83,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.50% | ~66 |
 | Building Wonders | 0.50% | ~66 |
 | Phalangite | 0.50% | ~66 |
+| Points Victory | 0.50% | ~66 |
 | Devout | 0.40% | ~53 |
 | Invincible | 0.40% | ~53 |
 | Lion | 0.40% | ~53 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,272 (Ranked 117)  
+Progressed: 13,274 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -410,7 +410,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-02 | 13,244 | 5 |
 | 2023-08-03 | 13,260 | 5 |
 | 2023-08-04 | 13,269 | 5 |
-| 2023-08-05 | 13,272 | 5 |
+| 2023-08-05 | 13,274 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 264)  
 Sum: 1,786 (Ranked 206)  

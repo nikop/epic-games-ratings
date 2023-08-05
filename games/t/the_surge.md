@@ -6,13 +6,13 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,310 |
-| I'll Be Back | 85.00% | ~3,897 |
-| Sorry, I Dropped This | 77.00% | ~3,530 |
-| First Day on the Job | 77.00% | ~3,530 |
+| On My Own Two Feet | 94.00% | ~4,311 |
+| I'll Be Back | 85.00% | ~3,898 |
+| Sorry, I Dropped This | 77.00% | ~3,531 |
+| First Day on the Job | 77.00% | ~3,531 |
 | Butcher's Bill | 55.00% | ~2,522 |
-| P.A.X | 37.00% | ~1,696 |
-| Hey Listen | 37.00% | ~1,696 |
+| P.A.X | 37.00% | ~1,697 |
+| Hey Listen | 37.00% | ~1,697 |
 | OPERATOR | 36.00% | ~1,651 |
 | It's Blue Light | 33.00% | ~1,513 |
 | Most Wanted | 26.00% | ~1,192 |
@@ -20,7 +20,7 @@ Number of Ratings: 62  (23.09.2022)
 | GOLIATH | 21.00% | ~963 |
 | Firebug | 20.00% | ~917 |
 | Nothing to Lose | 18.00% | ~825 |
-| I Choose You | 17.00% | ~779 |
+| I Choose You | 17.00% | ~780 |
 | Big Sister | 15.00% | ~688 |
 | Gear Up | 15.00% | ~688 |
 | SENTINEL | 15.00% | ~688 |
@@ -30,7 +30,7 @@ Number of Ratings: 62  (23.09.2022)
 | CREO Killed the Video Star | 11.00% | ~504 |
 | Who's in Charge Here? | 11.00% | ~504 |
 | Shall Not Pass | 11.00% | ~504 |
-| Right Tool for the Job | 10.00% | ~458 |
+| Right Tool for the Job | 10.00% | ~459 |
 | Melting Down | 9.00% | ~413 |
 | Raging Drones | 9.00% | ~413 |
 | Overconfident | 9.00% | ~413 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~28 |
 | The Surge | 0.40% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,585 (Ranked 144)  
+Progressed: 4,586 (Ranked 144)  
 Completed: 16 (0.35%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 16 (0.35%) (Ranked 154)
 | 2023-08-02 | 4,572 | 16 |
 | 2023-08-03 | 4,579 | 16 |
 | 2023-08-04 | 4,584 | 16 |
-| 2023-08-05 | 4,585 | 16 |
+| 2023-08-05 | 4,586 | 16 |
 ## Awards
 Max (Great Boss Battles): 27  (Ranked 469)  
 Sum: 27 (Ranked 480)  

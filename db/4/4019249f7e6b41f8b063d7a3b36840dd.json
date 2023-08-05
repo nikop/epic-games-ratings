@@ -4,7 +4,7 @@
   "ProductSlug": "pufferfishshow-14b732",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-02T14:57:16.5576569+00:00",
-  "LastUpdate_Ratings": "2023-08-05T12:59:44.0670933+00:00",
-  "LastUpdate_Achievements": "2023-08-05T13:07:08.2744672+00:00"
+  "LastUpdate_Ratings": "2023-08-05T13:57:34.3338992+00:00",
+  "LastUpdate_Achievements": "2023-08-05T14:05:16.2901016+00:00"
 }

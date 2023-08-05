@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 108.00% | ~99 |
-| Break no Sweat | 102.00% | ~94 |
-| Every little bit counts | 101.00% | ~93 |
-| Growth | 89.00% | ~82 |
-| Targeting the Enemy | 72.00% | ~66 |
-| Unavoidable | 66.00% | ~61 |
-| Revenge | 65.00% | ~60 |
-| Reunion | 43.00% | ~40 |
+| Black Cat's Warning | 109.00% | ~99 |
+| Break no Sweat | 103.00% | ~94 |
+| Every little bit counts | 102.00% | ~93 |
+| Growth | 90.00% | ~82 |
+| Targeting the Enemy | 73.00% | ~66 |
+| Unavoidable | 67.00% | ~61 |
+| Revenge | 66.00% | ~60 |
+| Reunion | 44.00% | ~40 |
 | Elimination | 35.00% | ~32 |
 | Fluke | 35.00% | ~32 |
 | Victor's Prejudice | 35.00% | ~32 |
 | Excellent Driving Skills | 32.00% | ~29 |
 | Once Bitten, Twice Shy | 32.00% | ~29 |
 | Memento | 32.00% | ~29 |
-| Fleet-footed | 28.00% | ~26 |
+| Fleet-footed | 29.00% | ~26 |
 | Defeat the AI | 27.00% | ~25 |
 | Invincible | 27.00% | ~25 |
 | Unsalvageable | 26.00% | ~24 |
@@ -28,7 +28,7 @@
 | Disdain | 22.00% | ~20 |
 | Final Battle | 20.00% | ~18 |
 | Outsider's Profit | 20.00% | ~18 |
-| Brain in a Vat | 17.00% | ~16 |
+| Brain in a Vat | 18.00% | ~16 |
 | Reappearance | 16.00% | ~15 |
 | King of the Streets | 11.00% | ~10 |
 | Survival Expert | 11.00% | ~10 |
@@ -62,7 +62,7 @@
 | Extreme Challenge | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92 (Ranked 324)  
+Progressed: 91 (Ranked 324)  
 Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |

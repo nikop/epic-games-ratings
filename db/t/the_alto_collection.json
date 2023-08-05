@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -745,9 +745,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 34137,
+  "EOS_Progressed": 34141,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 988,
+  "EOS_NewPlayers": 982,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12390,6 +12390,11 @@
       "Time": "2023-08-05T13:06:25.2681042+00:00",
       "NumProgressed": 34137,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-05T14:04:26.3578116+00:00",
+      "NumProgressed": 34141,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -12441,7 +12446,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 8876
+      "UsersEstimate": 8877
     },
     {
       "ID": "goals180",
@@ -12457,7 +12462,7 @@
       "Name": "Amateur",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3072
+      "UsersEstimate": 3073
     },
     {
       "ID": "goals75",
@@ -12529,7 +12534,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5462
+      "UsersEstimate": 5463
     },
     {
       "ID": "playerFelipe",
@@ -12609,7 +12614,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 8876
+      "UsersEstimate": 8877
     },
     {
       "ID": "sandboarder",
@@ -12617,7 +12622,7 @@
       "Name": "Sandboarder",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "sightseer",
@@ -12625,7 +12630,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3755
+      "UsersEstimate": 3756
     },
     {
       "ID": "ultimate",
@@ -12657,7 +12662,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "unlockmaya",
@@ -12712,15 +12717,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 34137,
+      "Progressed": 34141,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-28T06:00:25.7046366+00:00",
-  "LastChanged_Achievements": "2023-08-05T13:06:25.2681036+00:00",
+  "LastChanged_Achievements": "2023-08-05T14:04:26.357811+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:18.9047127+00:00",
-  "LastUpdate_Ratings": "2023-08-05T13:01:47.3803895+00:00",
-  "LastUpdate_Achievements": "2023-08-05T13:06:25.268182+00:00"
+  "LastUpdate_Ratings": "2023-08-05T14:00:02.6176134+00:00",
+  "LastUpdate_Achievements": "2023-08-05T14:04:26.3579197+00:00"
 }

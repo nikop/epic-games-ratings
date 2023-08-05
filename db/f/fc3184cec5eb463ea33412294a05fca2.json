@@ -743,9 +743,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -823,9 +823,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -870,8 +870,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-05T13:07:49.2117589+00:00",
+  "LastChanged_Achievements": "2023-08-05T14:06:03.2409253+00:00",
   "LastUpdate_AppInfo": "2023-07-29T13:57:01.6016157+00:00",
-  "LastUpdate_Ratings": "2023-08-05T12:59:35.0999719+00:00",
-  "LastUpdate_Achievements": "2023-08-05T13:07:49.2117725+00:00"
+  "LastUpdate_Ratings": "2023-08-05T13:57:23.3653335+00:00",
+  "LastUpdate_Achievements": "2023-08-05T14:06:03.2409451+00:00"
 }

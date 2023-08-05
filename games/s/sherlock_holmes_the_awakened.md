@@ -1,7 +1,7 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.65 (Ranked 297)  
+Rating: 4.65 (Ranked 298)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,8 +23,8 @@ Rating: 4.65 (Ranked 297)
 | No Man Is An Island | 46.00% | ~270 |
 | At Wits' End | 45.00% | ~264 |
 | Fhtagn! | 44.00% | ~258 |
+| Bookworm | 43.00% | ~252 |
 | Up In Flames | 43.00% | ~252 |
-| Bookworm | 42.00% | ~247 |
 | Going Once... | 39.00% | ~229 |
 | Let Me Be Frank | 38.00% | ~223 |
 | Brain Food | 37.00% | ~217 |

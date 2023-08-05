@@ -4,7 +4,7 @@
   "ProductSlug": "buddy-simulator-1984",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-09-23T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:00.2890831+00:00",
   "LastChanged": "2023-03-31T05:58:00.2890832+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:44.340431+00:00",
-  "LastUpdate_Ratings": "2023-08-05T13:01:19.3879675+00:00",
-  "LastUpdate_Achievements": "2023-08-05T13:07:00.9160962+00:00"
+  "LastUpdate_Ratings": "2023-08-05T13:59:29.3485234+00:00",
+  "LastUpdate_Achievements": "2023-08-05T14:05:07.9118047+00:00"
 }

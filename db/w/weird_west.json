@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2051,9 +2051,9 @@
       "ID": "ACH_SELF_IMPROVEMENT",
       "SetID": "8j30i9k",
       "Name": "Self-Improvement",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1286
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2187,8 +2187,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-02T19:59:24.9286429+00:00",
-  "LastChanged_Achievements": "2023-08-05T13:07:20.537736+00:00",
+  "LastChanged_Achievements": "2023-08-05T14:05:30.3871782+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:22.9454252+00:00",
-  "LastUpdate_Ratings": "2023-08-05T13:01:03.419723+00:00",
-  "LastUpdate_Achievements": "2023-08-05T13:07:20.5377784+00:00"
+  "LastUpdate_Ratings": "2023-08-05T13:59:08.7053218+00:00",
+  "LastUpdate_Achievements": "2023-08-05T14:05:30.3872364+00:00"
 }

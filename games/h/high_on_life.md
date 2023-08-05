@@ -28,7 +28,7 @@ Rating: 4.66 (Ranked 270)
 | Self-Actualization | 19.00% | ~4,528 |
 | Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,528 |
 | Legendary Bounty Hunter | 18.00% | ~4,290 |
-| Seeing All The Sights | 15.00% | ~3,575 |
+| Seeing All The Sights | 16.00% | ~3,813 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,860 |
 | Carried Stan's Load To Completion | 12.00% | ~2,860 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,145 |

@@ -5,7 +5,7 @@ Rating: 4.73 (Ranked 160)
 Number of Ratings: 5,157  (23.09.2022)  
 ## Awards
 Max (Relaxing): 230  (Ranked 258)  
-Sum: 2,222 (Ranked 188)  
+Sum: 2,223 (Ranked 188)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): 70
 | This game is Great for Beginners | 226 |
 | This game is Educational | 199 |
 | This game is Extremely Fun | 196 |
-| This game has Diverse Characters | 192 |
+| This game has Diverse Characters | 193 |
 | This game is Great for Quick Sessions | 190 |
 | This game has Quickly Understood Controls | 189 |
 | This game is Highly Recommended | 186 |
@@ -163,3 +163,4 @@ Diff (max vs sum): 70
 | 2023-07-29 | 4.73 | - | 230 | 2,219 |
 | 2023-08-02 | 4.73 | - | 230 | 2,220 |
 | 2023-08-03 | 4.73 | - | 230 | 2,222 |
+| 2023-08-05 | 4.73 | - | 230 | 2,223 |

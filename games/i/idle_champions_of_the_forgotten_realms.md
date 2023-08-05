@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.05 (Ranked 915)  
+Rating: 4.05 (Ranked 916)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -40,18 +40,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.60% | ~1,313 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,111 |
 | Thieves of the Coven | 0.50% | ~926 |
-| Heavy Burden | 0.50% | ~1,094 |
-| Friends of the Forest | 0.50% | ~1,094 |
-| Low Initiative | 0.50% | ~1,094 |
-| Street War | 0.50% | ~1,094 |
-| March of the Undead | 0.50% | ~1,094 |
-| No Time To Rest | 0.50% | ~1,094 |
-| The Mists of Ravenloft | 0.50% | ~1,094 |
-| Invisible Shadows | 0.50% | ~1,094 |
-| Family Entanglements | 0.50% | ~1,094 |
-| The Botched Kidnapping | 0.50% | ~1,094 |
-| The Ring of Regeneration | 0.50% | ~1,094 |
-| Seeking Allies | 0.50% | ~1,094 |
+| Heavy Burden | 0.50% | ~1,095 |
+| Friends of the Forest | 0.50% | ~1,095 |
+| Low Initiative | 0.50% | ~1,095 |
+| Street War | 0.50% | ~1,095 |
+| March of the Undead | 0.50% | ~1,095 |
+| No Time To Rest | 0.50% | ~1,095 |
+| The Mists of Ravenloft | 0.50% | ~1,095 |
+| Invisible Shadows | 0.50% | ~1,095 |
+| Family Entanglements | 0.50% | ~1,095 |
+| The Botched Kidnapping | 0.50% | ~1,095 |
+| The Ring of Regeneration | 0.50% | ~1,095 |
+| Seeking Allies | 0.50% | ~1,095 |
 | Not That Type of Helm! | 0.50% | ~926 |
 | Calcryx Tricks | 0.50% | ~926 |
 | Goblin Halls: the Next Generation | 0.50% | ~926 |
@@ -204,6 +204,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Resolve | 0.20% | ~438 |
 | Flies on the Wall | 0.20% | ~438 |
 | Backtracking Through Barovia | 0.20% | ~438 |
+| Nimblest Escape | 0.20% | ~438 |
 | Excavating History | 0.20% | ~438 |
 | Towering Expectations | 0.20% | ~438 |
 | Cramped Quarters | 0.20% | ~438 |
@@ -336,7 +337,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Diversity Day-Trip | 0.10% | ~219 |
 | Late Game | 0.10% | ~219 |
 | Shadowfell Stalwarts | 0.10% | ~185 |
-| Nimblest Escape | 0.10% | ~219 |
 | Stumbling Escape | 0.10% | ~219 |
 | Distracted Escape | 0.10% | ~185 |
 | From The Shadows | 0.10% | ~219 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,894 (Ranked 53)  
+Progressed: 218,902 (Ranked 53)  
 Completed: 2,152 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 2,152 (0.98%) (Ranked 113)
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
-| 2023-08-05 | 218,894 | 2,152 |
+| 2023-08-05 | 218,902 | 2,152 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,900 (Ranked 38)  
