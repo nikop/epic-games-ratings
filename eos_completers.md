@@ -14,7 +14,7 @@
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.02% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.02% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 12.75% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 12.62% |
 | 16 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.39% |
@@ -34,7 +34,7 @@
 | 32 | [Smelter](games/s/smelter.md) | 7.69% |
 | 33 | [Ravenlok](games/r/ravenlok.md) | 7.34% |
 | 34 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.14% |
-| 35 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
+| 35 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.04% |
 | 36 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 37 | [Scorn](games/s/scorn.md) | 6.93% |
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -72,8 +72,8 @@
 | 70 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.86% |
 | 71 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.78% |
 | 72 | [Destiny 2](games/d/destiny_2.md) | 2.76% |
-| 73 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.75% |
-| 74 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 73 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 73 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.73% |
 | 75 | [The Bunker](games/t/the_bunker.md) | 2.70% |
 | 76 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.61% |
 | 77 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
