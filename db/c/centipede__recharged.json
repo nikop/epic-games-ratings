@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16043,
+  "EOS_Progressed": 16044,
   "EOS_Completed": 101,
   "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 2,
@@ -8547,6 +8547,11 @@
       "Time": "2023-08-05T13:07:03.8118959+00:00",
       "NumProgressed": 16043,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-08-05T15:05:09.4674532+00:00",
+      "NumProgressed": 16044,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 16,
@@ -8574,7 +8579,7 @@
       "Name": "Deadline",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -8606,7 +8611,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -8685,15 +8690,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 16043,
+      "Progressed": 16044,
       "Completed": 101
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-08-05T14:05:11.1277757+00:00",
+  "LastChanged_Achievements": "2023-08-05T15:05:09.4674522+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:58.3251375+00:00",
-  "LastUpdate_Ratings": "2023-08-05T13:59:41.3172186+00:00",
-  "LastUpdate_Achievements": "2023-08-05T14:05:11.1278405+00:00"
+  "LastUpdate_Ratings": "2023-08-05T14:59:50.7687699+00:00",
+  "LastUpdate_Achievements": "2023-08-05T15:05:09.4675763+00:00"
 }

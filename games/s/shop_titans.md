@@ -6,7 +6,7 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 0.70% | ~937 |
+| Sponsored by Argon | 0.70% | ~938 |
 | Basic in Bulk | 0.60% | ~804 |
 | Tinkle of Coins | 0.60% | ~804 |
 | Titan's First Steps | 0.60% | ~804 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,926 (Ranked 62)  
+Progressed: 133,931 (Ranked 62)  
 Completed: 128 (0.10%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,10 +226,10 @@ Completed: 128 (0.10%) (Ranked 198)
 | 2023-08-02 | 133,764 | 126 |
 | 2023-08-03 | 133,815 | 128 |
 | 2023-08-04 | 133,890 | 128 |
-| 2023-08-05 | 133,926 | 128 |
+| 2023-08-05 | 133,931 | 128 |
 ## Awards
 Max (Great for Beginners): 4,688  (Ranked 70)  
-Sum: 27,050 (Ranked 46)  
+Sum: 27,051 (Ranked 46)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
@@ -239,7 +239,7 @@ Diff (max vs sum): 24
 | This game has Diverse Characters | 3,846 |
 | This game is Highly Recommended | 3,728 |
 | This game has Easy Combat | 3,667 |
-| This game has Playful Visuals | 3,147 |
+| This game has Playful Visuals | 3,148 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -437,4 +437,4 @@ Diff (max vs sum): 24
 | 2023-08-02 | 3.99 | - | 4,682 | 27,028 |
 | 2023-08-03 | 3.99 | - | 4,686 | 27,035 |
 | 2023-08-04 | 3.99 | - | 4,686 | 27,045 |
-| 2023-08-05 | 3.99 | - | 4,688 | 27,050 |
+| 2023-08-05 | 3.99 | - | 4,688 | 27,051 |

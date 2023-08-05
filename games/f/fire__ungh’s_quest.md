@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blunga 1 | 99.00% | ~228 |
-| Mjam-Mjam | 97.00% | ~223 |
-| Onk Boga I | 96.00% | ~221 |
-| Sniarb! | 91.00% | ~209 |
-| Blunga 5 | 67.00% | ~154 |
-| Onk Boga II | 64.00% | ~147 |
-| Bzzzzzz | 58.00% | ~133 |
-| Onk Boga III | 50.00% | ~115 |
-| Danka, Lagga, Wonwon | 43.00% | ~99 |
-| Onk Boga IV | 43.00% | ~99 |
-| BumBum | 42.00% | ~97 |
-| Blunga 10 | 41.00% | ~94 |
-| Onk Boga V | 39.00% | ~90 |
-| Onk Boga VI | 36.00% | ~83 |
-| IQ62 | 36.00% | ~83 |
-| 1978 | 35.00% | ~80 |
-| Onk Boga VII | 35.00% | ~80 |
-| Onk Boga VIII | 34.00% | ~78 |
-| Blubb | 34.00% | ~78 |
-| ParaPara! | 32.00% | ~74 |
-| Onk Boga IX | 32.00% | ~74 |
-| AKRE! | 32.00% | ~74 |
-| Blunga 15 | 31.00% | ~71 |
-| Kokakoka | 31.00% | ~71 |
+| Blunga 1 | 99.00% | ~230 |
+| Mjam-Mjam | 97.00% | ~225 |
+| Onk Boga I | 96.00% | ~223 |
+| Sniarb! | 91.00% | ~211 |
+| Blunga 5 | 67.00% | ~155 |
+| Onk Boga II | 64.00% | ~148 |
+| Bzzzzzz | 58.00% | ~135 |
+| Onk Boga III | 50.00% | ~116 |
+| Danka, Lagga, Wonwon | 43.00% | ~100 |
+| Onk Boga IV | 43.00% | ~100 |
+| Blunga 10 | 41.00% | ~95 |
+| BumBum | 41.00% | ~95 |
+| Onk Boga V | 38.00% | ~88 |
+| Onk Boga VI | 35.00% | ~81 |
+| IQ62 | 35.00% | ~81 |
+| 1978 | 34.00% | ~79 |
+| Onk Boga VII | 34.00% | ~79 |
+| Onk Boga VIII | 34.00% | ~79 |
+| Blubb | 34.00% | ~79 |
+| Blunga 15 | 31.00% | ~72 |
+| ParaPara! | 31.00% | ~72 |
+| Kokakoka | 31.00% | ~72 |
+| Onk Boga IX | 31.00% | ~72 |
+| AKRE! | 31.00% | ~72 |
 | Blunga 20 | 12.00% | ~28 |
 | Blunga 25 | 7.00% | ~16 |
-| Blunga 30 | 7.00% | ~16 |
+| Blunga 30 | 6.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230 (Ranked 272)  
-Completed: 14 (6.09%) (Ranked 40)  
+Progressed: 232 (Ranked 272)  
+Completed: 14 (6.03%) (Ranked 41)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -92,7 +92,7 @@ Completed: 14 (6.09%) (Ranked 40)
 | 2023-08-02 | 227 | 12 |
 | 2023-08-03 | 228 | 13 |
 | 2023-08-04 | 229 | 14 |
-| 2023-08-05 | 230 | 14 |
+| 2023-08-05 | 232 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

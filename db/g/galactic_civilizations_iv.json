@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -846,7 +846,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6301,
+  "EOS_Progressed": 6302,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
@@ -4736,6 +4736,11 @@
       "Time": "2023-08-05T14:01:12.3355986+00:00",
       "NumProgressed": 6301,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-05T15:01:29.4544583+00:00",
+      "NumProgressed": 6302,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -4779,7 +4784,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1954
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -4811,7 +4816,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -4827,7 +4832,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "First_Major_Ally",
@@ -4851,7 +4856,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4978
+      "UsersEstimate": 4979
     },
     {
       "ID": "First_Race_Met",
@@ -4867,7 +4872,7 @@
       "Name": "Design a Ship",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "First_Stream_Travel",
@@ -4883,7 +4888,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4915
+      "UsersEstimate": 4916
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -4963,7 +4968,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2142
+      "UsersEstimate": 2143
     },
     {
       "ID": "Play_1000_Hours",
@@ -5051,7 +5056,7 @@
       "Name": "Commodity Seller",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -5305,9 +5310,9 @@
       "ID": "Win_Quickly",
       "SetID": "4h07amh",
       "Name": "Win Quickly",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 315
     },
     {
       "ID": "Win_Research",
@@ -5322,15 +5327,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6301,
+      "Progressed": 6302,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-05T01:48:33.3979759+00:00",
-  "LastChanged_Achievements": "2023-08-05T14:01:12.3355981+00:00",
+  "LastChanged_Achievements": "2023-08-05T15:01:29.4544577+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:50.5738346+00:00",
-  "LastUpdate_Ratings": "2023-08-05T13:58:04.8462133+00:00",
-  "LastUpdate_Achievements": "2023-08-05T14:01:12.3357163+00:00"
+  "LastUpdate_Ratings": "2023-08-05T14:58:16.5197779+00:00",
+  "LastUpdate_Achievements": "2023-08-05T15:01:29.454562+00:00"
 }

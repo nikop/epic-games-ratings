@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23831,
+  "EOS_Progressed": 23832,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3883,6 +3883,11 @@
       "Time": "2023-08-05T10:06:40.5102075+00:00",
       "NumProgressed": 23831,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-08-05T15:07:05.2296821+00:00",
+      "NumProgressed": 23832,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 32,
@@ -3902,7 +3907,7 @@
       "Name": "Playing Card To Get",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 7864
+      "UsersEstimate": 7865
     },
     {
       "ID": "ACH_ALL_HUNTCHALS",
@@ -3910,7 +3915,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18350
+      "UsersEstimate": 18351
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -3918,7 +3923,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10247
+      "UsersEstimate": 10248
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -3974,7 +3979,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5719
+      "UsersEstimate": 5720
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -3982,7 +3987,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5719
+      "UsersEstimate": 5720
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -3998,7 +4003,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19780
+      "UsersEstimate": 19781
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -4006,7 +4011,7 @@
       "Name": "Sequel-Bait",
       "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 1906
+      "UsersEstimate": 1907
     },
     {
       "ID": "ACH_JUGGLE_SKILLS",
@@ -4022,7 +4027,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 14060
+      "UsersEstimate": 14061
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -4086,7 +4091,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7864
+      "UsersEstimate": 7865
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -4149,22 +4154,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23831,
+      "Progressed": 23832,
       "Completed": 11
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1124,
-      "Completed": 1124
+      "Progressed": 1125,
+      "Completed": 1125
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-01T02:03:53.4121642+00:00",
-  "LastChanged_Achievements": "2023-08-05T14:07:06.4755696+00:00",
+  "LastChanged_Achievements": "2023-08-05T15:07:05.2296814+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:45.9653672+00:00",
-  "LastUpdate_Ratings": "2023-08-05T13:58:34.4364774+00:00",
-  "LastUpdate_Achievements": "2023-08-05T14:07:06.4756196+00:00"
+  "LastUpdate_Ratings": "2023-08-05T14:58:45.4077189+00:00",
+  "LastUpdate_Achievements": "2023-08-05T15:07:05.2297674+00:00"
 }

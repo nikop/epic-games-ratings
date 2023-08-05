@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,7 +240,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 807,
+  "EOS_Progressed": 808,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
@@ -1660,6 +1660,11 @@
       "Time": "2023-08-05T13:07:28.6047282+00:00",
       "NumProgressed": 807,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-05T15:05:39.2617385+00:00",
+      "NumProgressed": 808,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1677,9 +1682,9 @@
       "ID": "ACH001",
       "SetID": "69nfp41",
       "Name": "Seafarer",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 436
+      "UsersEstimate": 428
     },
     {
       "ID": "ACH002",
@@ -1735,7 +1740,7 @@
       "Name": "Maker",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH009",
@@ -1903,7 +1908,7 @@
       "Name": "Licence to Kill",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH030",
@@ -1911,7 +1916,7 @@
       "Name": "Walk the plank",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH031",
@@ -1927,7 +1932,7 @@
       "Name": "Pirates!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH033",
@@ -1959,7 +1964,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH037",
@@ -2053,9 +2058,9 @@
       "ID": "ACH048",
       "SetID": "69nfp41",
       "Name": "Megalomania",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH049",
@@ -2070,15 +2075,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 807,
+      "Progressed": 808,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-08-05T14:05:40.0601191+00:00",
+  "LastChanged_Achievements": "2023-08-05T15:05:39.2617376+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:19.8733538+00:00",
-  "LastUpdate_Ratings": "2023-08-05T13:59:04.4298072+00:00",
-  "LastUpdate_Achievements": "2023-08-05T14:05:40.0601741+00:00"
+  "LastUpdate_Ratings": "2023-08-05T14:59:14.7219323+00:00",
+  "LastUpdate_Achievements": "2023-08-05T15:05:39.2618697+00:00"
 }

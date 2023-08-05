@@ -6,7 +6,7 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 0.80% | ~3,716 |
+| The Shutdown | 0.80% | ~3,717 |
 | Second Coming | 0.60% | ~2,787 |
 | Jeef Skeejj | 0.60% | ~2,787 |
 | Careful planning | 0.60% | ~2,787 |
@@ -19,7 +19,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Things persisted in not being what they seemed | 0.30% | ~1,394 |
 | Plan for the worst | 0.30% | ~1,394 |
 | Excelsior Rule | 0.30% | ~1,394 |
-| Hand of the Emperor | 0.30% | ~25 |
+| Hand of the Emperor | 0.30% | ~26 |
 | Chapter II: Fallible Flesh | 0.20% | ~929 |
 | Chapter III: The Man Who Sold the World | 0.20% | ~929 |
 | Chapter IV: Through the Looking Glass | 0.20% | ~929 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~8 |
 | Kronos Rule | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,560 (Ranked 37)  
+Progressed: 464,566 (Ranked 37)  
 Completed: 16 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 16 (0.00%) (Ranked 249)
 | 2023-08-02 | 464,359 | 16 |
 | 2023-08-03 | 464,444 | 16 |
 | 2023-08-04 | 464,523 | 16 |
-| 2023-08-05 | 464,560 | 16 |
+| 2023-08-05 | 464,566 | 16 |
 ## Awards
 Max (Character Customization): 214  (Ranked 268)  
 Sum: 214 (Ranked 362)  

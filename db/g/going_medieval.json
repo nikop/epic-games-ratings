@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1178,9 +1178,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 5087,
+  "EOS_Progressed": 5088,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6813,6 +6813,11 @@
       "Time": "2023-08-05T11:04:16.9995257+00:00",
       "NumProgressed": 5087,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-05T15:04:00.8359711+00:00",
+      "NumProgressed": 5088,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 31,
@@ -6824,7 +6829,7 @@
       "Name": "Get A Room",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 3764
+      "UsersEstimate": 3765
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -6840,7 +6845,7 @@
       "Name": "Disassembled",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "DISMANTLE_ITEMS_50",
@@ -6848,7 +6853,7 @@
       "Name": "Nothing Wasted",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "HARVEST_CROPS_200",
@@ -6856,7 +6861,7 @@
       "Name": "Green Thumb",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 3357
+      "UsersEstimate": 3358
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -6872,7 +6877,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 3561
+      "UsersEstimate": 3562
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -6952,7 +6957,7 @@
       "Name": "Feast or Famine",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 2594
+      "UsersEstimate": 2595
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -6968,7 +6973,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 3052
+      "UsersEstimate": 3053
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -6984,7 +6989,7 @@
       "Name": "The First Day",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 3408
+      "UsersEstimate": 3409
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -7000,7 +7005,7 @@
       "Name": "Heating Up",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -7024,7 +7029,7 @@
       "Name": "The First Week",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 2696
+      "UsersEstimate": 2697
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -7040,7 +7045,7 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -7064,22 +7069,22 @@
       "Name": "Studious Researcher",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 2594
+      "UsersEstimate": 2595
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5087,
+      "Progressed": 5088,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-03T20:00:30.0019484+00:00",
-  "LastChanged_Achievements": "2023-08-05T14:04:02.6599775+00:00",
+  "LastChanged_Achievements": "2023-08-05T15:04:00.8359704+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:53.1800311+00:00",
-  "LastUpdate_Ratings": "2023-08-05T14:00:42.3934925+00:00",
-  "LastUpdate_Achievements": "2023-08-05T14:04:02.6600347+00:00"
+  "LastUpdate_Ratings": "2023-08-05T15:00:55.7679062+00:00",
+  "LastUpdate_Achievements": "2023-08-05T15:04:00.8360765+00:00"
 }

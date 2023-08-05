@@ -5372,10 +5372,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27050,
       "NumberOfAwardsMax": 4688
+    },
+    {
+      "Time": "2023-08-05T14:59:15.8010936+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27051,
+      "NumberOfAwardsMax": 4688
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27050,
+  "NumberOfAwards": 27051,
   "NumberOfAwardsMax": 4688,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5419,7 +5425,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3147
+      "Count": 3148
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5428,9 +5434,9 @@
       "Count": 3728
     }
   ],
-  "EOS_Progressed": 133926,
+  "EOS_Progressed": 133931,
   "EOS_Completed": 128,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16318,6 +16324,11 @@
       "Time": "2023-08-05T14:04:28.8213433+00:00",
       "NumProgressed": 133926,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2023-08-05T15:04:27.4563355+00:00",
+      "NumProgressed": 133931,
+      "NumCompleted": 128
     }
   ],
   "TotalAchievements": 112,
@@ -16497,7 +16508,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "chest02",
@@ -17224,15 +17235,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133926,
+      "Progressed": 133931,
       "Completed": 128
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-05T08:58:50.9137094+00:00",
-  "LastChanged_Achievements": "2023-08-05T14:04:28.8213428+00:00",
+  "LastChanged": "2023-08-05T14:59:15.8010932+00:00",
+  "LastChanged_Achievements": "2023-08-05T15:04:27.4563347+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.2056858+00:00",
-  "LastUpdate_Ratings": "2023-08-05T13:59:05.6267593+00:00",
-  "LastUpdate_Achievements": "2023-08-05T14:04:28.8215728+00:00"
+  "LastUpdate_Ratings": "2023-08-05T14:59:15.8010946+00:00",
+  "LastUpdate_Achievements": "2023-08-05T15:04:27.4567611+00:00"
 }

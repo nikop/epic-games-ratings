@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2095,
+  "EOS_Progressed": 2097,
   "EOS_Completed": 188,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 8.97,
   "EosHistory": [
@@ -4618,6 +4618,11 @@
       "Time": "2023-08-05T05:04:06.9264698+00:00",
       "NumProgressed": 2095,
       "NumCompleted": 188
+    },
+    {
+      "Time": "2023-08-05T15:03:29.2515994+00:00",
+      "NumProgressed": 2097,
+      "NumCompleted": 188
     }
   ],
   "TotalAchievements": 12,
@@ -4629,7 +4634,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "Bernard",
@@ -4637,7 +4642,7 @@
       "Name": "Bernard",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "Building the Fox",
@@ -4661,7 +4666,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "Jakob",
@@ -4669,7 +4674,7 @@
       "Name": "Jakob",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "Jude",
@@ -4677,7 +4682,7 @@
       "Name": "Jude",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "Le Juif et la France",
@@ -4685,7 +4690,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "Little Helper",
@@ -4693,7 +4698,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -4717,14 +4722,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2095,
+      "Progressed": 2097,
       "Completed": 188
     }
   ],
@@ -4732,8 +4737,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-05T14:03:32.0481758+00:00",
+  "LastChanged_Achievements": "2023-08-05T15:03:29.2515988+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:24.0632297+00:00",
-  "LastUpdate_Ratings": "2023-08-05T14:00:12.978413+00:00",
-  "LastUpdate_Achievements": "2023-08-05T14:03:32.0482166+00:00"
+  "LastUpdate_Ratings": "2023-08-05T15:00:25.47102+00:00",
+  "LastUpdate_Achievements": "2023-08-05T15:03:29.2516393+00:00"
 }

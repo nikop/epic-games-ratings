@@ -38,6 +38,7 @@ Number of Ratings: 371  (23.09.2022)
 | For the Machine God | 0.20% | ~6 |
 | Strike Force | 0.20% | ~6 |
 | Exterminator | 0.20% | ~6 |
+| Engine Kill | 0.20% | ~6 |
 | Junk Banishment | 0.20% | ~6 |
 | Death Comes For All | 0.20% | ~6 |
 | Tactical Flexibility | 0.20% | ~6 |
@@ -51,7 +52,6 @@ Number of Ratings: 371  (23.09.2022)
 | Phalanx | 0.10% | ~3 |
 | Exercise in Restraint | 0.10% | ~3 |
 | Preservationist | 0.10% | ~3 |
-| Engine Kill | 0.10% | ~3 |
 | Harvest No More | 0.10% | ~3 |
 | True Mastery | 0.10% | ~3 |
 | Reign of Confusion | 0.10% | ~3 |

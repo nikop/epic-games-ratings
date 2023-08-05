@@ -5560,10 +5560,10 @@
       "Count": 3341
     }
   ],
-  "EOS_Progressed": 218902,
-  "EOS_Completed": 2152,
-  "EOS_NewPlayers": 2201,
-  "EOS_NewCompleters": 16,
+  "EOS_Progressed": 218929,
+  "EOS_Completed": 2153,
+  "EOS_NewPlayers": 2203,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -17105,6 +17105,11 @@
       "Time": "2023-08-05T14:01:18.9741207+00:00",
       "NumProgressed": 218902,
       "NumCompleted": 2152
+    },
+    {
+      "Time": "2023-08-05T15:02:06.7506448+00:00",
+      "NumProgressed": 218929,
+      "NumCompleted": 2153
     }
   ],
   "TotalAchievements": 512,
@@ -17116,7 +17121,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8756
+      "UsersEstimate": 8757
     },
     {
       "ID": "objective_completed_10",
@@ -17124,7 +17129,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4378
+      "UsersEstimate": 4379
     },
     {
       "ID": "objective_completed_100",
@@ -17132,7 +17137,7 @@
       "Name": "Pros and CONs",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "objective_completed_101",
@@ -17188,7 +17193,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "objective_completed_1051",
@@ -17354,9 +17359,9 @@
       "ID": "objective_completed_1080",
       "SetID": "415jc5c",
       "Name": "The Prince of a Thousand Enemies",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 741
     },
     {
       "ID": "objective_completed_1081",
@@ -17484,7 +17489,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6567
+      "UsersEstimate": 6568
     },
     {
       "ID": "objective_completed_110",
@@ -17492,7 +17497,7 @@
       "Name": "Wet Feet",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "objective_completed_1100",
@@ -17548,7 +17553,7 @@
       "Name": "Hatchlings Underfoot",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "objective_completed_1111",
@@ -17588,7 +17593,7 @@
       "Name": "Don\u0027t Look Up!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "objective_completed_1121",
@@ -17626,9 +17631,9 @@
       "ID": "objective_completed_1132",
       "SetID": "415jc5c",
       "Name": "Will of the Feywild",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 370
+      "UsersEstimate": 556
     },
     {
       "ID": "objective_completed_1133",
@@ -17740,7 +17745,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "objective_completed_1153",
@@ -17820,7 +17825,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "objective_completed_1169",
@@ -17980,7 +17985,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "objective_completed_1203",
@@ -18092,7 +18097,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "objective_completed_130",
@@ -18220,7 +18225,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "objective_completed_149",
@@ -18236,7 +18241,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "objective_completed_150",
@@ -18308,7 +18313,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "objective_completed_165",
@@ -18340,7 +18345,7 @@
       "Name": "Building Trust",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "objective_completed_17",
@@ -18444,7 +18449,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "objective_completed_20",
@@ -18532,7 +18537,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "objective_completed_231",
@@ -18788,7 +18793,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "objective_completed_34",
@@ -20260,7 +20265,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "objective_completed_70",
@@ -21188,7 +21193,7 @@
       "Name": "Topolah\u0027s Tower",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "objective_completed_1391",
@@ -21211,21 +21216,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185176,
+      "Progressed": 185203,
       "Completed": 3058
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218902,
-      "Completed": 2152
+      "Progressed": 218929,
+      "Completed": 2153
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-05T04:59:24.4871745+00:00",
-  "LastChanged_Achievements": "2023-08-05T14:01:18.9741199+00:00",
+  "LastChanged_Achievements": "2023-08-05T15:02:06.7506444+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-05T13:58:45.1128272+00:00",
-  "LastUpdate_Achievements": "2023-08-05T14:01:18.9773569+00:00"
+  "LastUpdate_Ratings": "2023-08-05T14:58:56.2718769+00:00",
+  "LastUpdate_Achievements": "2023-08-05T15:02:06.7665241+00:00"
 }

@@ -6,38 +6,38 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,756 |
-| Beast Intentions | 3.00% | ~6,567 |
-| Maddening | 2.00% | ~4,378 |
+| A Brief Tour of the Realms | 4.00% | ~8,757 |
+| Beast Intentions | 3.00% | ~6,568 |
+| Maddening | 2.00% | ~4,379 |
 | The Silken Swamp | 1.00% | ~2,189 |
 | Supply Run | 1.00% | ~2,189 |
 | Vecna Lives! | 1.00% | ~1,852 |
 | Rocky Reception | 1.00% | ~1,852 |
 | Rock and Roll | 1.00% | ~1,852 |
 | Flight of the Kindori Pod | 0.90% | ~1,667 |
-| Tall Tales | 0.80% | ~1,481 |
-| Seeds of Destruction | 0.80% | ~1,481 |
-| Vecna Loots! | 0.80% | ~1,481 |
-| Topolah's Tower | 0.80% | ~1,481 |
-| Wet Feet | 0.70% | ~1,532 |
+| Tall Tales | 0.80% | ~1,482 |
+| Seeds of Destruction | 0.80% | ~1,482 |
+| Vecna Loots! | 0.80% | ~1,482 |
+| Topolah's Tower | 0.80% | ~1,482 |
+| Wet Feet | 0.70% | ~1,533 |
 | Return to the Tomb | 0.70% | ~1,296 |
-| Were-verpowered | 0.70% | ~1,532 |
-| The Cursed Farmer | 0.70% | ~1,532 |
-| Pros and CONs | 0.60% | ~1,313 |
+| Were-verpowered | 0.70% | ~1,533 |
+| The Cursed Farmer | 0.70% | ~1,533 |
+| Pros and CONs | 0.60% | ~1,314 |
 | The Witchlight Carnival | 0.60% | ~1,111 |
-| Hatchlings Underfoot | 0.60% | ~1,313 |
-| Don't Look Up! | 0.60% | ~1,313 |
+| Hatchlings Underfoot | 0.60% | ~1,314 |
+| Don't Look Up! | 0.60% | ~1,314 |
 | The Evacuation of Waterdeep | 0.60% | ~1,111 |
 | Heatwave | 0.60% | ~1,111 |
 | The Dread Domain of Tovag | 0.60% | ~1,111 |
-| A Persistent Buzzing | 0.60% | ~1,313 |
-| Beast Mode | 0.60% | ~1,313 |
-| Terror in the Dark | 0.60% | ~1,313 |
-| A Mysterious Summons | 0.60% | ~1,313 |
-| Building Trust | 0.60% | ~1,313 |
-| Unearthed Evil | 0.60% | ~1,313 |
-| The Dinner Party | 0.60% | ~1,313 |
-| The Mad Wizard | 0.60% | ~1,313 |
+| A Persistent Buzzing | 0.60% | ~1,314 |
+| Beast Mode | 0.60% | ~1,314 |
+| Terror in the Dark | 0.60% | ~1,314 |
+| A Mysterious Summons | 0.60% | ~1,314 |
+| Building Trust | 0.60% | ~1,314 |
+| Unearthed Evil | 0.60% | ~1,314 |
+| The Dinner Party | 0.60% | ~1,314 |
+| The Mad Wizard | 0.60% | ~1,314 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,111 |
 | Thieves of the Coven | 0.50% | ~926 |
 | Heavy Burden | 0.50% | ~1,095 |
@@ -61,6 +61,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Animated Giff | 0.50% | ~926 |
 | Upholding the Law | 0.40% | ~876 |
 | Hither of the Feywild | 0.40% | ~741 |
+| The Prince of a Thousand Enemies | 0.40% | ~741 |
 | Speeds of Destruction | 0.40% | ~741 |
 | Owlbear Necessities | 0.40% | ~741 |
 | On the Hunt | 0.40% | ~876 |
@@ -92,10 +93,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Electric Mayhem | 0.40% | ~741 |
 | 3,720 to 1 | 0.40% | ~741 |
 | Nightmare Rats! | 0.30% | ~556 |
-| The Prince of a Thousand Enemies | 0.30% | ~556 |
 | Downfall | 0.30% | ~556 |
 | Slack-jawed Lorna | 0.30% | ~556 |
 | The Fairy Rings of Thither | 0.30% | ~556 |
+| Will of the Feywild | 0.30% | ~556 |
 | Well Equipped | 0.30% | ~556 |
 | More Than Well Equipped | 0.30% | ~556 |
 | Keep Your Distance | 0.30% | ~556 |
@@ -173,7 +174,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bully for You! | 0.20% | ~370 |
 | The Dark Heart | 0.20% | ~370 |
 | The Alien Underdark | 0.20% | ~370 |
-| Will of the Feywild | 0.20% | ~370 |
 | The Roots of Loomlurch | 0.20% | ~370 |
 | Best Laid Plans | 0.20% | ~370 |
 | The Howling Peaks of Yon | 0.20% | ~370 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,902 (Ranked 53)  
-Completed: 2,152 (0.98%) (Ranked 113)  
+Progressed: 218,929 (Ranked 53)  
+Completed: 2,153 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -626,7 +626,7 @@ Completed: 2,152 (0.98%) (Ranked 113)
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
-| 2023-08-05 | 218,902 | 2,152 |
+| 2023-08-05 | 218,929 | 2,153 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,900 (Ranked 38)  

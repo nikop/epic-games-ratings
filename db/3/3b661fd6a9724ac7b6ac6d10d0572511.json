@@ -2524,9 +2524,9 @@
       "Count": 617
     }
   ],
-  "EOS_Progressed": 1531546,
+  "EOS_Progressed": 1531826,
   "EOS_Completed": 459,
-  "EOS_NewPlayers": 22987,
+  "EOS_NewPlayers": 23081,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -9149,6 +9149,11 @@
       "Time": "2023-08-05T14:04:06.7754669+00:00",
       "NumProgressed": 1531546,
       "NumCompleted": 459
+    },
+    {
+      "Time": "2023-08-05T15:04:06.4453859+00:00",
+      "NumProgressed": 1531826,
+      "NumCompleted": 459
     }
   ],
   "TotalAchievements": 1328,
@@ -9192,7 +9197,7 @@
       "Name": "The Wolf Lures You to Your Grave",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ameno_6",
@@ -9216,7 +9221,7 @@
       "Name": "The Collector",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 76577
+      "UsersEstimate": 76591
     },
     {
       "ID": "armed_and_dangerous",
@@ -9224,7 +9229,7 @@
       "Name": "Armed and Dangerous",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 30631
+      "UsersEstimate": 30637
     },
     {
       "ID": "armed_to_the_teeth",
@@ -9232,7 +9237,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 76577
+      "UsersEstimate": 76591
     },
     {
       "ID": "armored_1",
@@ -9256,7 +9261,7 @@
       "Name": "Heat Around the Corner",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "armored_2",
@@ -9264,7 +9269,7 @@
       "Name": "But Wait - There\u0027s More!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "armored_3",
@@ -9328,7 +9333,7 @@
       "Name": "Dmitri, Dearest of All My Friends!",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "axe_11",
@@ -9352,7 +9357,7 @@
       "Name": "Fire Sale",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "axe_15",
@@ -9360,7 +9365,7 @@
       "Name": "Bag Throwing Simulator",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "axe_16",
@@ -9384,7 +9389,7 @@
       "Name": "Fort Knoxed Down",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "axe_19",
@@ -9792,7 +9797,7 @@
       "Name": "You Can Run, but Not Hide",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "bat_1",
@@ -9984,7 +9989,7 @@
       "Name": "Career Criminal",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 13784
+      "UsersEstimate": 13786
     },
     {
       "ID": "bigbank_1",
@@ -10016,7 +10021,7 @@
       "Name": "Sweet Sixteen",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "bigbank_4",
@@ -10096,7 +10101,7 @@
       "Name": "I\u0027m a Swinger",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "bob_4",
@@ -10104,7 +10109,7 @@
       "Name": "Storage Hunter",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "bob_5",
@@ -10144,7 +10149,7 @@
       "Name": "Yes, We Can!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "born_1",
@@ -10192,7 +10197,7 @@
       "Name": "Awaiting Trial",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "bph_10",
@@ -10224,7 +10229,7 @@
       "Name": "3rd Degree Felony",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "bph_4",
@@ -10280,7 +10285,7 @@
       "Name": "Sweet Talk the Teller",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 13784
+      "UsersEstimate": 13786
     },
     {
       "ID": "brb_10",
@@ -10296,7 +10301,7 @@
       "Name": "Hard Crackin\u0027",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "brb_3",
@@ -10312,7 +10317,7 @@
       "Name": "Hidden Treasures",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "brb_5",
@@ -10344,7 +10349,7 @@
       "Name": "All the Gold in Brooklyn",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "brb_9",
@@ -10360,7 +10365,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 153155
+      "UsersEstimate": 153183
     },
     {
       "ID": "brooklyn_2",
@@ -10376,7 +10381,7 @@
       "Name": "I Never Asked for This",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 45946
+      "UsersEstimate": 45955
     },
     {
       "ID": "brooklyn_4",
@@ -10392,7 +10397,7 @@
       "Name": "Why Don\u0027t We Just Use a Spoon?",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "bulldog_2",
@@ -10432,7 +10437,7 @@
       "Name": "Federal Assurance",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "cac_11",
@@ -10448,7 +10453,7 @@
       "Name": "I\u0027m Sure No One Heard That",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "cac_13",
@@ -10488,7 +10493,7 @@
       "Name": "Van Gogh to Hell",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "cac_18",
@@ -10584,7 +10589,7 @@
       "Name": "Virus",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 91893
+      "UsersEstimate": 91910
     },
     {
       "ID": "cac_29",
@@ -10624,7 +10629,7 @@
       "Name": "WULULULULU--BZZZT!!!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "cac_33",
@@ -10648,7 +10653,7 @@
       "Name": "Drive By",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "cac_36",
@@ -10656,7 +10661,7 @@
       "Name": "A Tazed of Your Own Medicine",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "cac_4",
@@ -10664,7 +10669,7 @@
       "Name": "Hipster",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 13784
+      "UsersEstimate": 13786
     },
     {
       "ID": "cac_5",
@@ -10744,7 +10749,7 @@
       "Name": "Only Santa Brings Gifts",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "caribbean_pirate",
@@ -10760,7 +10765,7 @@
       "Name": "Indulge in Crime",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "cee_2",
@@ -10792,7 +10797,7 @@
       "Name": "Is Everything OK?",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "charliesierra_3",
@@ -10808,7 +10813,7 @@
       "Name": "Upside Down",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "charliesierra_5",
@@ -10816,7 +10821,7 @@
       "Name": "All Eggs in One Basket",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 12252
+      "UsersEstimate": 12255
     },
     {
       "ID": "charliesierra_6",
@@ -11040,7 +11045,7 @@
       "Name": "Dead, Wrapped in Plastic",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9191
     },
     {
       "ID": "ckr_2",
@@ -11048,7 +11053,7 @@
       "Name": "Fast Track to Hell",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ckr_3",
@@ -11280,7 +11285,7 @@
       "Name": "Valuable Ornaments",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "dah_10",
@@ -11296,7 +11301,7 @@
       "Name": "Some Very Expensive Rocks",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9191
     },
     {
       "ID": "dah_3",
@@ -11304,7 +11309,7 @@
       "Name": "Costly Gems",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "dah_4",
@@ -11320,7 +11325,7 @@
       "Name": "Shiny Pieces of Carbon",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "dah_6",
@@ -11360,7 +11365,7 @@
       "Name": "Blackout",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "dark_2",
@@ -11400,7 +11405,7 @@
       "Name": "Wedding Crashers",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "death_11",
@@ -11424,7 +11429,7 @@
       "Name": "Snatch and Grab",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "death_14",
@@ -11432,7 +11437,7 @@
       "Name": "Tough As Diamonds",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "death_15",
@@ -11440,7 +11445,7 @@
       "Name": "Cash in Before You Cash Out!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "death_16",
@@ -11448,15 +11453,15 @@
       "Name": "Because That\u0027s Where the Money Is",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "death_17",
       "SetID": "61cefe3",
       "Name": "Striking Gold",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 6126
+      "UsersEstimate": 7659
     },
     {
       "ID": "death_18",
@@ -11472,7 +11477,7 @@
       "Name": "Yes Hello, I\u0027d Like to Make a De-paws-it",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "death_2",
@@ -11568,7 +11573,7 @@
       "Name": "Becoming a Regular",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "death_30",
@@ -11584,7 +11589,7 @@
       "Name": "With an Iron Fist",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "death_32",
@@ -11624,7 +11629,7 @@
       "Name": "Blood on the Dance Floor",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "death_5",
@@ -11768,7 +11773,7 @@
       "Name": "Vlad\u0027s Little Helpers",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 13784
+      "UsersEstimate": 13786
     },
     {
       "ID": "deer_2",
@@ -11776,7 +11781,7 @@
       "Name": "Stealing Christmas",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "deer_3",
@@ -11784,7 +11789,7 @@
       "Name": "Cancelling Santa\u0027s Christmas",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "deer_4",
@@ -11824,7 +11829,7 @@
       "Name": "Sand in Your Shoes",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9191
     },
     {
       "ID": "des_10",
@@ -11856,7 +11861,7 @@
       "Name": "Kicked a Tumbleweed",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "des_4",
@@ -11912,7 +11917,7 @@
       "Name": "Diamonds Are Forever",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "djur_1",
@@ -11928,7 +11933,7 @@
       "Name": "Doctor Fantastic",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "eagle_1",
@@ -11984,7 +11989,7 @@
       "Name": "The one that had many names",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "eng_3",
@@ -12000,7 +12005,7 @@
       "Name": "The one who declared himself the hero",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "f_in_chemistry",
@@ -12008,7 +12013,7 @@
       "Name": "F in Chemistry",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "farm_1",
@@ -12056,7 +12061,7 @@
       "Name": "Pork Royale",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "fex_1",
@@ -12208,7 +12213,7 @@
       "Name": "Fish A.I.",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "flake_1",
@@ -12240,7 +12245,7 @@
       "Name": "The Dentist Delight",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "flat_5",
@@ -12264,7 +12269,7 @@
       "Name": "Pink Slip",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 45946
+      "UsersEstimate": 45955
     },
     {
       "ID": "fort_3",
@@ -12288,7 +12293,7 @@
       "Name": "Cappuccino to Go, Please",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "friend_1",
@@ -12352,7 +12357,7 @@
       "Name": "Fully Loaded",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "gage2_1",
@@ -12368,7 +12373,7 @@
       "Name": "Are You Kidding Me?",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "gage2_2",
@@ -12376,7 +12381,7 @@
       "Name": "Cloak and Dagger",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "gage2_3",
@@ -12392,7 +12397,7 @@
       "Name": "Killin\u0027s As Easy As Breathing",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "gage2_5",
@@ -12400,7 +12405,7 @@
       "Name": "They Drew First Blood, Not Me",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "gage2_6",
@@ -12424,7 +12429,7 @@
       "Name": "HOLY SHI-",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 45946
+      "UsersEstimate": 45955
     },
     {
       "ID": "gage2_9",
@@ -12440,7 +12445,7 @@
       "Name": "Build Me an Army Worthy of Crime.net",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "gage3_10",
@@ -12520,7 +12525,7 @@
       "Name": "Lord of the Flies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "gage3_4",
@@ -12536,7 +12541,7 @@
       "Name": "Pest Control",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "gage3_6",
@@ -12544,7 +12549,7 @@
       "Name": "Seer of Death",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "gage3_7",
@@ -12568,7 +12573,7 @@
       "Name": "Triple Kill",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "gage4_1",
@@ -12584,7 +12589,7 @@
       "Name": "Bang for the Buck",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "gage4_11",
@@ -12624,7 +12629,7 @@
       "Name": "Seven Eleven",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "gage4_5",
@@ -12824,7 +12829,7 @@
       "Name": "Fire in the Hole!",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "ggez_1",
@@ -12904,7 +12909,7 @@
       "Name": "Connoisseurs of the Fine Arts",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ggez_19",
@@ -12928,7 +12933,7 @@
       "Name": "Lockpicking Masters",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ggez_21",
@@ -12936,7 +12941,7 @@
       "Name": "Nothing Glitters Like Gold",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "ggez_22",
@@ -12944,7 +12949,7 @@
       "Name": "Hey, It Looks Like You are Robbing a Bank",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ggez_23",
@@ -13080,7 +13085,7 @@
       "Name": "Stealing and Dealing",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "ggez_39",
@@ -13136,7 +13141,7 @@
       "Name": "We Can Be Trusteed",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ggez_45",
@@ -13208,7 +13213,7 @@
       "Name": "The_heister27",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "ggez_53",
@@ -13240,7 +13245,7 @@
       "Name": "DIY EMP",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ggez_57",
@@ -13248,7 +13253,7 @@
       "Name": "Shoot to the Beat",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ggez_58",
@@ -13400,7 +13405,7 @@
       "Name": "Pretty Pretty Princesses",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "ggez_75",
@@ -13456,7 +13461,7 @@
       "Name": "Taking the High Road",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12252
+      "UsersEstimate": 12255
     },
     {
       "ID": "glace_10",
@@ -13472,7 +13477,7 @@
       "Name": "Breaking the Four-Piece Suit",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "glace_3",
@@ -13480,7 +13485,7 @@
       "Name": "Rabbit Ride",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "glace_4",
@@ -13536,7 +13541,7 @@
       "Name": "Praying Mantis",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "gmod_10",
@@ -13624,7 +13629,7 @@
       "Name": "Going Places",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 30631
+      "UsersEstimate": 30637
     },
     {
       "ID": "gone_in_30_seconds",
@@ -13632,7 +13637,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 61262
+      "UsersEstimate": 61273
     },
     {
       "ID": "gorilla_1",
@@ -13696,7 +13701,7 @@
       "Name": "Au Ticket",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "grill_1",
@@ -13704,7 +13709,7 @@
       "Name": "Disco Inferno",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "grill_2",
@@ -13728,7 +13733,7 @@
       "Name": "OVERGRILL",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "grv_1",
@@ -13768,7 +13773,7 @@
       "Name": "For all you legends",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "guilty_of_crime",
@@ -13776,7 +13781,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 91893
+      "UsersEstimate": 91910
     },
     {
       "ID": "halloween_1",
@@ -13904,7 +13909,7 @@
       "Name": "Coming in Hot",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "how_do_you_like_me_now",
@@ -13912,7 +13917,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 91893
+      "UsersEstimate": 91910
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -13936,7 +13941,7 @@
       "Name": "Becoming Infamous",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "ignominy_10",
@@ -14088,7 +14093,7 @@
       "Name": "Becoming Wicked",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ignominy_4",
@@ -14096,7 +14101,7 @@
       "Name": "Becoming Notorious",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ignominy_5",
@@ -14104,7 +14109,7 @@
       "Name": "Becoming Vicious",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ignominy_50",
@@ -14160,7 +14165,7 @@
       "Name": "I\u0027m a Healer-Tank-Damage-Dealer",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "iron_man",
@@ -14168,7 +14173,7 @@
       "Name": "Man of Iron",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "ja22_01",
@@ -14200,7 +14205,7 @@
       "Name": "No Blood on the Carpet",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "jerry_4",
@@ -14264,7 +14269,7 @@
       "Name": "King of the Hill",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "kosugi_1",
@@ -14272,7 +14277,7 @@
       "Name": "I Will Fade to Dark",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9191
     },
     {
       "ID": "kosugi_2",
@@ -14288,7 +14293,7 @@
       "Name": "I Will Take With Impunity",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "kosugi_4",
@@ -14304,7 +14309,7 @@
       "Name": "I Am Ninja",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "kosugi_6",
@@ -14400,7 +14405,7 @@
       "Name": "Lord of War",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "lrfo_1",
@@ -14496,7 +14501,7 @@
       "Name": "Masked Villain",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "melt_1",
@@ -14512,7 +14517,7 @@
       "Name": "Sunday Drive",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "melt_3",
@@ -14528,7 +14533,7 @@
       "Name": "There Was a Car?!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "mex2_1",
@@ -14608,7 +14613,7 @@
       "Name": "A Stroll Across the Border",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "mex_10",
@@ -14712,7 +14717,7 @@
       "Name": "Imitations",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "moon_5",
@@ -14736,7 +14741,7 @@
       "Name": "Most Wanted",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "murphys_laws",
@@ -14744,7 +14749,7 @@
       "Name": "I Got It, I Got It!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 30631
+      "UsersEstimate": 30637
     },
     {
       "ID": "nbm_1",
@@ -14752,7 +14757,7 @@
       "Name": "First Nightmare",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "nbm_2",
@@ -14784,7 +14789,7 @@
       "Name": "Just Some Medical Students",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 13784
+      "UsersEstimate": 13786
     },
     {
       "ID": "nmh_10",
@@ -14808,7 +14813,7 @@
       "Name": "Interns on the Floor",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "nmh_3",
@@ -14824,7 +14829,7 @@
       "Name": "A General Practitioner of the Medical Art",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "nmh_5",
@@ -14872,7 +14877,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 122524
+      "UsersEstimate": 122546
     },
     {
       "ID": "no_turning_back",
@@ -14880,7 +14885,7 @@
       "Name": "No Turning Back",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 122524
+      "UsersEstimate": 122546
     },
     {
       "ID": "orange_1",
@@ -15008,7 +15013,7 @@
       "Name": "Bring Your Cop To Work Day",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9191
     },
     {
       "ID": "pal_1",
@@ -15072,7 +15077,7 @@
       "Name": "I\u0027m An Avenger!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12252
+      "UsersEstimate": 12255
     },
     {
       "ID": "pent_1",
@@ -15304,7 +15309,7 @@
       "Name": "Getting Back at Dmitri",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9191
     },
     {
       "ID": "pick_11",
@@ -15320,7 +15325,7 @@
       "Name": "Who Killed the Lights?",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "pick_14",
@@ -15328,7 +15333,7 @@
       "Name": "Bling Bling Gone",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9191
     },
     {
       "ID": "pick_15",
@@ -15336,7 +15341,7 @@
       "Name": "Truly Outrageous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "pick_16",
@@ -15360,7 +15365,7 @@
       "Name": "Gold Rush",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9191
     },
     {
       "ID": "pick_19",
@@ -15368,7 +15373,7 @@
       "Name": "Cash Only Please",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "pick_2",
@@ -15376,7 +15381,7 @@
       "Name": "A $2000 Sports Car",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "pick_20",
@@ -15440,7 +15445,7 @@
       "Name": "4 More Years",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "pick_29",
@@ -15456,7 +15461,7 @@
       "Name": "Window Shopper",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "pick_30",
@@ -15480,7 +15485,7 @@
       "Name": "I Know What I Like",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "pick_34",
@@ -15528,7 +15533,7 @@
       "Name": "This Was Easier in the Tutorial...",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "pick_40",
@@ -15544,7 +15549,7 @@
       "Name": "You\u0027ve Got a Fast Car",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "pick_42",
@@ -15640,7 +15645,7 @@
       "Name": "It\u0027s Just Drones On And On",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "pick_54",
@@ -15984,7 +15989,7 @@
       "Name": "The Heat\u0027s Around the Corner",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12252
+      "UsersEstimate": 12255
     },
     {
       "ID": "run_10",
@@ -16000,7 +16005,7 @@
       "Name": "Hard Street",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "run_3",
@@ -16016,7 +16021,7 @@
       "Name": "Ghetto Bonfire",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "run_5",
@@ -16064,7 +16069,7 @@
       "Name": "Walking the Dogs",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "rvd_10",
@@ -16104,7 +16109,7 @@
       "Name": "Break out the Popcorn",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "rvd_4",
@@ -16160,7 +16165,7 @@
       "Name": "Trip to the Coast",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "sah_10",
@@ -16168,7 +16173,7 @@
       "Name": "Press [F] to Pay Respects",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 12252
+      "UsersEstimate": 12255
     },
     {
       "ID": "sah_11",
@@ -16184,7 +16189,7 @@
       "Name": "Stomped on a Spider",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9191
     },
     {
       "ID": "sah_3",
@@ -16192,7 +16197,7 @@
       "Name": "Shipwreck Survivor",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "sah_4",
@@ -16208,7 +16213,7 @@
       "Name": "Hey, you guys!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "sah_6",
@@ -16384,7 +16389,7 @@
       "Name": "400 Bucks",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "sinus_2",
@@ -16776,7 +16781,7 @@
       "Name": "Spend Money to Make Money",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 30631
+      "UsersEstimate": 30637
     },
     {
       "ID": "squek",
@@ -16784,7 +16789,7 @@
       "Name": "State of the Art",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "steel_1",
@@ -16824,7 +16829,7 @@
       "Name": "Donut Run",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "tag_10",
@@ -16952,7 +16957,7 @@
       "Name": "The First Line",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "the_wire",
@@ -17080,7 +17085,7 @@
       "Name": "That\u0027s a 4.0 on the Heist Scale of Magnitude",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_af_1",
@@ -17088,7 +17093,7 @@
       "Name": "Lift With Your Legs",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 13784
+      "UsersEstimate": 13786
     },
     {
       "ID": "trk_af_2",
@@ -17096,7 +17101,7 @@
       "Name": "A Safe Drive to L.A.",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_af_3",
@@ -17104,7 +17109,7 @@
       "Name": "Bring it Back Safe",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_ag_0",
@@ -17112,7 +17117,7 @@
       "Name": "Heisting By Numbers",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "trk_ag_1",
@@ -17120,7 +17125,7 @@
       "Name": "Art Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_ag_2",
@@ -17144,7 +17149,7 @@
       "Name": "All Your Bass Are Belong to Us",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_al_1",
@@ -17208,7 +17213,7 @@
       "Name": "Broke the Piggy Bank",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_bb_1",
@@ -17232,7 +17237,7 @@
       "Name": "Go Big or Go Home",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_bc_0",
@@ -17240,7 +17245,7 @@
       "Name": "No Thermal Drill was Harmed During the Heist",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 45946
+      "UsersEstimate": 45955
     },
     {
       "ID": "trk_bc_1",
@@ -17248,7 +17253,7 @@
       "Name": "Harvest \u0026 Not So Trustee",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_bc_2",
@@ -17256,7 +17261,7 @@
       "Name": "Waddles of Cash",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "trk_bc_3",
@@ -17264,7 +17269,7 @@
       "Name": "Dolla Dolla Dolla Bling Bling!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "trk_bd_0",
@@ -17272,7 +17277,7 @@
       "Name": "Lockpicker",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_bd_1",
@@ -17280,7 +17285,7 @@
       "Name": "Taking a Deposit",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "trk_bd_2",
@@ -17288,7 +17293,7 @@
       "Name": "Master of Unlocking",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "trk_bd_3",
@@ -17296,7 +17301,7 @@
       "Name": "Veni, Saw, Vici",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_bg_0",
@@ -17304,7 +17309,7 @@
       "Name": "Taking the Bars",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 30631
+      "UsersEstimate": 30637
     },
     {
       "ID": "trk_bg_1",
@@ -17312,7 +17317,7 @@
       "Name": "We are Golden",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_bg_2",
@@ -17320,7 +17325,7 @@
       "Name": "Goldmember",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 13784
+      "UsersEstimate": 13786
     },
     {
       "ID": "trk_bg_3",
@@ -17328,7 +17333,7 @@
       "Name": "Came for the Money, Stayed for the Gold",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "trk_bi_0",
@@ -17336,7 +17341,7 @@
       "Name": "Crime Don\u0027t Rust",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_bi_1",
@@ -17344,7 +17349,7 @@
       "Name": "Heist to Live, Live to Heist",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_bi_2",
@@ -17352,7 +17357,7 @@
       "Name": "Sons of Robbery",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_bi_3",
@@ -17368,7 +17373,7 @@
       "Name": "Mountain Climbers",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_bm_1",
@@ -17376,7 +17381,7 @@
       "Name": "Priceless Relic Collector",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_bm_2",
@@ -17400,7 +17405,7 @@
       "Name": "Throw Some Oil on the Fire",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "trk_bo_1",
@@ -17408,7 +17413,7 @@
       "Name": "Basic Capitalism",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "trk_bo_2",
@@ -17416,7 +17421,7 @@
       "Name": "Diesel is My Juice",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_bo_3",
@@ -17424,7 +17429,7 @@
       "Name": "Black Gold",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_bod_1",
@@ -17440,7 +17445,7 @@
       "Name": "Heavy Tariffs",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_bod_3",
@@ -17480,7 +17485,7 @@
       "Name": "Modern Cold War",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_bp_1",
@@ -17488,7 +17493,7 @@
       "Name": "Hardcore Heisting",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9191
     },
     {
       "ID": "trk_bp_2",
@@ -17504,7 +17509,7 @@
       "Name": "Sawmill Massacre",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_br_0",
@@ -17512,7 +17517,7 @@
       "Name": "Bank Robbery for Dummies",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_br_1",
@@ -17520,7 +17525,7 @@
       "Name": "Random Access Larceny",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "trk_br_2",
@@ -17528,7 +17533,7 @@
       "Name": "Trustee Robbers",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "trk_br_3",
@@ -17536,7 +17541,7 @@
       "Name": "Winning the Loottery",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_bs_0",
@@ -17544,7 +17549,7 @@
       "Name": "Fo\u0027 Sho\u0027!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_bs_1",
@@ -17552,7 +17557,7 @@
       "Name": "Enjoy Your Flight",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_bs_2",
@@ -17560,7 +17565,7 @@
       "Name": "By Air, Land, and Sea",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_bs_3",
@@ -17576,7 +17581,7 @@
       "Name": "Babysitters with Assault Rifles",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_bt_1",
@@ -17584,7 +17589,7 @@
       "Name": "Eye in the Sky",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_bt_2",
@@ -17592,7 +17597,7 @@
       "Name": "Someone to Watch Over",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_bt_3",
@@ -17776,7 +17781,7 @@
       "Name": "Grandmother\u0027s Recipe",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9191
     },
     {
       "ID": "trk_co_1",
@@ -17784,7 +17789,7 @@
       "Name": "Bain\u0027s Bakery",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "trk_co_2",
@@ -17800,7 +17805,7 @@
       "Name": "Kiss the Chemist",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_cou_0",
@@ -17808,7 +17813,7 @@
       "Name": "Ink, Paper, Roll Out the Dough",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_cou_1",
@@ -17816,7 +17821,7 @@
       "Name": "Hidden in Plain Sight",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_cou_2",
@@ -17824,7 +17829,7 @@
       "Name": "False Economy",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_cou_3",
@@ -17840,7 +17845,7 @@
       "Name": "Are We There Yet?",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_cs_1",
@@ -17848,7 +17853,7 @@
       "Name": "Student Driver",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "trk_cs_2",
@@ -17856,7 +17861,7 @@
       "Name": "Burning Rubber",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "trk_cs_3",
@@ -17864,7 +17869,7 @@
       "Name": "Drive It Like You Stole It",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_d_0",
@@ -17872,7 +17877,7 @@
       "Name": "I Know Who You Are",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_d_1",
@@ -17880,7 +17885,7 @@
       "Name": "I Need My PAYDAY 2",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_d_2",
@@ -17888,7 +17893,7 @@
       "Name": "A Tooth for a Tooth",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_d_3",
@@ -17944,7 +17949,7 @@
       "Name": "Not Just Any Diamond",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_dm_3",
@@ -17960,7 +17965,7 @@
       "Name": "Being Precious",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 30631
+      "UsersEstimate": 30637
     },
     {
       "ID": "trk_ds_1",
@@ -17968,7 +17973,7 @@
       "Name": "A Diamond Dozen",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_ds_2",
@@ -17976,7 +17981,7 @@
       "Name": "Diamonds, Rubies, Sapphires, Emeralds: I Take Them All",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "trk_ds_3",
@@ -17984,7 +17989,7 @@
       "Name": "Diamonds Are a Heister\u0027s Best Friend",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9191
     },
     {
       "ID": "trk_e_0",
@@ -18024,7 +18029,7 @@
       "Name": "Don\u0027t Forget to Vote!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9191
     },
     {
       "ID": "trk_ed_1",
@@ -18032,7 +18037,7 @@
       "Name": "Your Vote Matters!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "trk_ed_2",
@@ -18040,7 +18045,7 @@
       "Name": "The Most Honest Political Move",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_ed_3",
@@ -18048,7 +18053,7 @@
       "Name": "Democracy in Action",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_ev_0",
@@ -18112,7 +18117,7 @@
       "Name": "The Paintings Are Looking at Me!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9191
     },
     {
       "ID": "trk_ff_1",
@@ -18120,7 +18125,7 @@
       "Name": "Name \u0026 Shame",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_ff_2",
@@ -18128,7 +18133,7 @@
       "Name": "Senator Set-up",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_ff_3",
@@ -18136,7 +18141,7 @@
       "Name": "Picture Perfect",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_fir_0",
@@ -18144,7 +18149,7 @@
       "Name": "Hector\u0027s Heroes",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "trk_fir_1",
@@ -18152,7 +18157,7 @@
       "Name": "Playing With Matches",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "trk_fir_2",
@@ -18160,7 +18165,7 @@
       "Name": "Flame War",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "trk_fir_3",
@@ -18168,7 +18173,7 @@
       "Name": "A Burning Love for Loot",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_fs_0",
@@ -18176,7 +18181,7 @@
       "Name": "Cash or Credit",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_fs_1",
@@ -18184,7 +18189,7 @@
       "Name": "Shoplifter",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_fs_2",
@@ -18192,7 +18197,7 @@
       "Name": "Five Finger Discount",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "trk_fs_3",
@@ -18208,7 +18213,7 @@
       "Name": "I Would Like to Speak to the Manager",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_fw_1",
@@ -18216,7 +18221,7 @@
       "Name": "A Sense of D\u00E9j\u00E0 Vu",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12252
+      "UsersEstimate": 12255
     },
     {
       "ID": "trk_fw_2",
@@ -18224,7 +18229,7 @@
       "Name": "First Robbed Bank",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "trk_fw_3",
@@ -18232,7 +18237,7 @@
       "Name": "Listen Up! This Is a Robbery!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_gb_0",
@@ -18240,7 +18245,7 @@
       "Name": "Go, Go, Go",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 30631
+      "UsersEstimate": 30637
     },
     {
       "ID": "trk_gb_1",
@@ -18248,7 +18253,7 @@
       "Name": "pd_bank",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_gb_2",
@@ -18256,7 +18261,7 @@
       "Name": "Clutch",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "trk_gb_3",
@@ -18264,7 +18269,7 @@
       "Name": "Greed Gets the Best of You",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_gg_0",
@@ -18304,7 +18309,7 @@
       "Name": "Best Use of a Farm Animal",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_gs_1",
@@ -18336,7 +18341,7 @@
       "Name": "Small Operation",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_h_1",
@@ -18368,7 +18373,7 @@
       "Name": "Hoxworth Redemption",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_hb_2",
@@ -18376,7 +18381,7 @@
       "Name": "Did Ya Miss Me?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_hb_3",
@@ -18384,7 +18389,7 @@
       "Name": "Bring the Crew Together",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_hm_0",
@@ -18424,7 +18429,7 @@
       "Name": "Snitches Get Stitches",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9191
     },
     {
       "ID": "trk_hr_1",
@@ -18432,7 +18437,7 @@
       "Name": "Breaking and Entering",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_hr_2",
@@ -18448,7 +18453,7 @@
       "Name": "CLASSIFIED",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_j_0",
@@ -18456,7 +18461,7 @@
       "Name": "Alright Boys n Girls",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_j_1",
@@ -18464,7 +18469,7 @@
       "Name": "No Cops Were Harmed",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_j_2",
@@ -18472,7 +18477,7 @@
       "Name": "Remote Controlled Contractor",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_j_3",
@@ -18512,7 +18517,7 @@
       "Name": "There is Always a First Time",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 45946
+      "UsersEstimate": 45955
     },
     {
       "ID": "trk_js_1",
@@ -18520,7 +18525,7 @@
       "Name": "As Cool as Ice",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_js_2",
@@ -18528,7 +18533,7 @@
       "Name": "All That Glimmer isn\u0027t Gold",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 13784
+      "UsersEstimate": 13786
     },
     {
       "ID": "trk_js_3",
@@ -18536,7 +18541,7 @@
       "Name": "Master Thief",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "trk_l_0",
@@ -18632,7 +18637,7 @@
       "Name": "No Return Policy",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_mc_1",
@@ -18640,7 +18645,7 @@
       "Name": "Fury Day",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_mc_2",
@@ -18648,7 +18653,7 @@
       "Name": "Black Friday",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_mc_3",
@@ -18664,7 +18669,7 @@
       "Name": "Warehouse Workers",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "trk_md_2",
@@ -18672,7 +18677,7 @@
       "Name": "Critical Mass",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_md_3",
@@ -18688,7 +18693,7 @@
       "Name": "EMP, Easy as 1-2-3",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_ms_1",
@@ -18696,7 +18701,7 @@
       "Name": "We Raid It Hardcore",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_ms_2",
@@ -18720,7 +18725,7 @@
       "Name": "Heist Fever",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_nc_1",
@@ -18728,7 +18733,7 @@
       "Name": "Do the Kozak Dance",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 13784
+      "UsersEstimate": 13786
     },
     {
       "ID": "trk_nc_2",
@@ -18736,7 +18741,7 @@
       "Name": "Can\u0027t Teach a Bad Dog to Stay Off the Dance Floor",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "trk_nc_3",
@@ -18744,7 +18749,7 @@
       "Name": "Party Hard!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_pn_0",
@@ -18752,7 +18757,7 @@
       "Name": "Heister\u0027s Nightmare",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9191
     },
     {
       "ID": "trk_pn_1",
@@ -18760,7 +18765,7 @@
       "Name": "WULULULU",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_pn_2",
@@ -18784,7 +18789,7 @@
       "Name": "Keep Calm and Carry on... Shooting",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_pr_1",
@@ -18792,7 +18797,7 @@
       "Name": "Flying Money",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "trk_pr_2",
@@ -18800,7 +18805,7 @@
       "Name": "Don\u0027t Panic",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_pr_3",
@@ -18808,7 +18813,7 @@
       "Name": "Demolition Crew",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_ra_0",
@@ -18816,7 +18821,7 @@
       "Name": "Cooking for Dummies",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9191
     },
     {
       "ID": "trk_ra_1",
@@ -18824,7 +18829,7 @@
       "Name": "Get the Rat Poison!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "trk_ra_2",
@@ -18832,7 +18837,7 @@
       "Name": "Infestation",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "trk_ra_3",
@@ -18840,7 +18845,7 @@
       "Name": "Science Expertise",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_sa_0",
@@ -18848,7 +18853,7 @@
       "Name": "Too Close to Home",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 30631
+      "UsersEstimate": 30637
     },
     {
       "ID": "trk_sa_1",
@@ -18856,7 +18861,7 @@
       "Name": "Not in My Backyard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_sa_2",
@@ -18864,7 +18869,7 @@
       "Name": "Where\u0027s Your Warrant?",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "trk_sa_3",
@@ -18872,7 +18877,7 @@
       "Name": "Home Invasion",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_sa_4",
@@ -18880,7 +18885,7 @@
       "Name": "House Party",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_sa_5",
@@ -18928,7 +18933,7 @@
       "Name": "The World is Yours",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_sh_0",
@@ -18936,7 +18941,7 @@
       "Name": "Some Kind of Piggy Bank",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_sh_1",
@@ -18944,7 +18949,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "trk_sh_2",
@@ -18952,7 +18957,7 @@
       "Name": "Black and Blue and Broken Bones",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_sh_3",
@@ -18960,7 +18965,7 @@
       "Name": "Puts the \u0022S\u0022 in Laughterhouse.",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_sr_0",
@@ -18968,7 +18973,7 @@
       "Name": "Is There Anyone There?",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9191
     },
     {
       "ID": "trk_sr_1",
@@ -18976,7 +18981,7 @@
       "Name": "Murky Deals",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_sr_2",
@@ -18984,7 +18989,7 @@
       "Name": "Shinobi Wibe",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_sr_3",
@@ -19000,7 +19005,7 @@
       "Name": "Milk and Cookies",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "trk_sw_1",
@@ -19016,7 +19021,7 @@
       "Name": "All I Want for Christmas is Cocaine",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_sw_3",
@@ -19032,7 +19037,7 @@
       "Name": "Sold Out",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_sx_1",
@@ -19040,7 +19045,7 @@
       "Name": "Stocking Stuffer",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 13784
+      "UsersEstimate": 13786
     },
     {
       "ID": "trk_sx_2",
@@ -19048,7 +19053,7 @@
       "Name": "How the Winch Stole Christmas",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_sx_3",
@@ -19056,7 +19061,7 @@
       "Name": "Getting on the Naughty List",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_tc_0",
@@ -19064,7 +19069,7 @@
       "Name": "When \u0022X\u0022 Marks the Spot",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_tc_1",
@@ -19072,7 +19077,7 @@
       "Name": "Crosstown Traffic",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_tc_2",
@@ -19096,7 +19101,7 @@
       "Name": "Making My Way Downtown",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_td_1",
@@ -19104,7 +19109,7 @@
       "Name": "Downtown Crowd",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_td_2",
@@ -19128,7 +19133,7 @@
       "Name": "Heisters in a Tincan",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_th_1",
@@ -19136,7 +19141,7 @@
       "Name": "Working Class Hero",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_th_2",
@@ -19160,7 +19165,7 @@
       "Name": "Picnic",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_tp_1",
@@ -19168,7 +19173,7 @@
       "Name": "We Like Long Walks",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_tp_2",
@@ -19192,7 +19197,7 @@
       "Name": "The Little Heister That Could",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "trk_tt_1",
@@ -19208,7 +19213,7 @@
       "Name": "Off the Rails",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_tt_3",
@@ -19224,7 +19229,7 @@
       "Name": "Midnight Ride\u0027s Over",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "trk_tu_1",
@@ -19232,7 +19237,7 @@
       "Name": "Traffic Congestion",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_tu_2",
@@ -19256,7 +19261,7 @@
       "Name": "Big Fish",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_uc_1",
@@ -19264,7 +19269,7 @@
       "Name": "MercyKill",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_uc_2",
@@ -19272,7 +19277,7 @@
       "Name": "Starbreezer",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_uc_3",
@@ -19288,7 +19293,7 @@
       "Name": "Precious Delicious",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 30631
+      "UsersEstimate": 30637
     },
     {
       "ID": "trk_uj_1",
@@ -19296,7 +19301,7 @@
       "Name": "Heisters and Tiaras",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "trk_uj_2",
@@ -19304,7 +19309,7 @@
       "Name": "The Princess is in Another Safe!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 13784
+      "UsersEstimate": 13786
     },
     {
       "ID": "trk_uj_3",
@@ -19312,7 +19317,7 @@
       "Name": "The Jewel in the Crown",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "trk_v_0",
@@ -19352,7 +19357,7 @@
       "Name": "I Swear Officer, We are Not Transporting Drugs",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 13784
+      "UsersEstimate": 13786
     },
     {
       "ID": "trk_wd_1",
@@ -19360,7 +19365,7 @@
       "Name": "Every Dog Has Its Afternoon",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "trk_wd_2",
@@ -19368,7 +19373,7 @@
       "Name": "A Truckload of Kicking A** and Taking Names",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "trk_wd_3",
@@ -19376,7 +19381,7 @@
       "Name": "Payday Transport Service",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_yh_0",
@@ -19384,7 +19389,7 @@
       "Name": "Guppy",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_yh_1",
@@ -19392,7 +19397,7 @@
       "Name": "Salmon",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_yh_2",
@@ -19400,7 +19405,7 @@
       "Name": "Stingray",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "trk_yh_3",
@@ -19448,7 +19453,7 @@
       "Name": "A Good Haul",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 30631
+      "UsersEstimate": 30637
     },
     {
       "ID": "uno_2",
@@ -19488,7 +19493,7 @@
       "Name": "Let them Boogie",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "uno_7",
@@ -19520,7 +19525,7 @@
       "Name": "Strolling through the Rose Garden",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9189
+      "UsersEstimate": 9191
     },
     {
       "ID": "vit_10",
@@ -19544,7 +19549,7 @@
       "Name": "Just Like John Adams",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "vit_3",
@@ -19552,7 +19557,7 @@
       "Name": "You Can\u0027t Vote Twice",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "vit_4",
@@ -19648,7 +19653,7 @@
       "Name": "Weapon Collector",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "window_cleaner",
@@ -19664,7 +19669,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 76577
+      "UsersEstimate": 76591
     },
     {
       "ID": "wwh_1",
@@ -19672,7 +19677,7 @@
       "Name": "Friendship Frozen",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15318
     },
     {
       "ID": "wwh_10",
@@ -19688,7 +19693,7 @@
       "Name": "Chilly Deception",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "wwh_3",
@@ -19704,7 +19709,7 @@
       "Name": "A Cold Deal",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "wwh_5",
@@ -19760,7 +19765,7 @@
       "Name": "Yeah, He\u0027s a Gold Digger",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10723
     },
     {
       "ID": "you_gotta_start_somewhere",
@@ -19768,7 +19773,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 122524
+      "UsersEstimate": 122546
     },
     {
       "ID": "you_shall_not_pass",
@@ -19783,13 +19788,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1531546,
+      "Progressed": 1531826,
       "Completed": 459
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1531546,
+      "Progressed": 1531826,
       "Completed": 6
     }
   ],
@@ -19797,8 +19802,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-05T12:59:47.0467139+00:00",
-  "LastChanged_Achievements": "2023-08-05T14:04:06.7754664+00:00",
+  "LastChanged_Achievements": "2023-08-05T15:04:06.4453855+00:00",
   "LastUpdate_AppInfo": "2023-08-03T18:57:09.7066132+00:00",
-  "LastUpdate_Ratings": "2023-08-05T13:57:38.0453145+00:00",
-  "LastUpdate_Achievements": "2023-08-05T14:04:06.7917136+00:00"
+  "LastUpdate_Ratings": "2023-08-05T14:57:45.1618849+00:00",
+  "LastUpdate_Achievements": "2023-08-05T15:04:06.4617966+00:00"
 }

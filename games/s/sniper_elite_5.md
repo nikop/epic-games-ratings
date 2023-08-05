@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.43 (Ranked 658)  
+Rating: 4.44 (Ranked 647)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -44,8 +44,8 @@ Rating: 4.43 (Ranked 658)
 | Road Rage | 0.90% | ~31 |
 | Don't hold your breath | 0.90% | ~31 |
 | Shipbreaker | 0.80% | ~27 |
+| Strategist | 0.70% | ~24 |
 | Sink or Swim | 0.70% | ~24 |
-| Strategist | 0.60% | ~20 |
 | From Paris with Love | 0.60% | ~20 |
 | Burn after reading | 0.60% | ~20 |
 | Souvenir hunter | 0.60% | ~20 |
@@ -252,3 +252,4 @@ Completed: 9 (0.26%) (Ranked 165)
 | 2023-07-23 | 4.41 | 0 | 0 |
 | 2023-07-30 | 4.42 | 0 | 0 |
 | 2023-08-01 | 4.43 | 0 | 0 |
+| 2023-08-05 | 4.44 | 0 | 0 |

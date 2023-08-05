@@ -6,7 +6,7 @@ Rating: 4.58 (Ranked 425)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Pushing a pull door | 96.00% | ~647 |
-| Fetch Quest Complete | 90.00% | ~607 |
+| Fetch Quest Complete | 91.00% | ~613 |
 | I can't wait! | 83.00% | ~559 |
 | Swish | 56.00% | ~377 |
 | Clean up on Aisle 9 | 40.00% | ~270 |
@@ -18,7 +18,7 @@ Rating: 4.58 (Ranked 425)
 | I ran the numbers | 15.00% | ~101 |
 | Taking the plunge | 13.00% | ~88 |
 | Hidden Packages | 11.00% | ~74 |
-| GOOOAAAL | 10.00% | ~67 |
+| GOOOAAAL | 9.00% | ~61 |
 | Ahoy Hoy | 7.00% | ~47 |
 | Rhythm is a dancer | 6.00% | ~40 |
 | New Kid on the Block | 6.00% | ~40 |

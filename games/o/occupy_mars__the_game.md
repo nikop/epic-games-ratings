@@ -30,8 +30,8 @@ Rating: 3.93 (Ranked 939)
 | Explosive Miner | 1.00% | ~15 |
 | Caveman | 1.00% | ~15 |
 | Rocket Jump | 1.00% | ~15 |
+| Thunderstruck | 0.80% | ~12 |
 | Planetary Defence | 0.70% | ~10 |
-| Thunderstruck | 0.70% | ~10 |
 | 5G Network | 0.60% | ~9 |
 | Bull’s eye | 0.50% | ~7 |
 | One does not simply... | 0.50% | ~7 |

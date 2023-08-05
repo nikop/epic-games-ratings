@@ -4,8 +4,8 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 706,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -838,9 +838,9 @@
       "ID": "Achievement_HelloWorld",
       "SetID": "c01p6e5",
       "Name": "Hello World",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 522
+      "UsersEstimate": 530
     },
     {
       "ID": "Achievement_Improvinator",
@@ -1023,8 +1023,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-08-05T14:06:45.0370375+00:00",
+  "LastChanged_Achievements": "2023-08-05T15:06:43.1479676+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:29.9752568+00:00",
-  "LastUpdate_Ratings": "2023-08-05T13:57:07.119074+00:00",
-  "LastUpdate_Achievements": "2023-08-05T14:06:45.0370778+00:00"
+  "LastUpdate_Ratings": "2023-08-05T14:57:16.5006347+00:00",
+  "LastUpdate_Achievements": "2023-08-05T15:06:43.1480369+00:00"
 }

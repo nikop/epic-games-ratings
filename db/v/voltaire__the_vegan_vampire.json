@@ -4,8 +4,8 @@
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
     "PcReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107,
+  "EOS_Progressed": 108,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -198,6 +198,11 @@
       "Time": "2023-07-25T03:08:02.7602824+00:00",
       "NumProgressed": 107,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-05T15:04:34.697826+00:00",
+      "NumProgressed": 108,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -241,7 +246,7 @@
       "Name": "Good to grow",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "FISH",
@@ -263,9 +268,9 @@
       "ID": "GET_SOULSTONES",
       "SetID": "3c20ib3",
       "Name": "Make it rain",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "GLOWBUG",
@@ -279,7 +284,7 @@
       "ID": "GRAVEYARD",
       "SetID": "3c20ib3",
       "Name": "So it begins",
-      "Percentage": 96,
+      "Percentage": 95,
       "XP": 5,
       "UsersEstimate": 103
     },
@@ -319,9 +324,9 @@
       "ID": "KILL_ELCAPITAN",
       "SetID": "3c20ib3",
       "Name": "Ay ay yarrr!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "KILL_ENEMIES",
@@ -375,9 +380,9 @@
       "ID": "PLANT_VEGGIES",
       "SetID": "3c20ib3",
       "Name": "Holy Crops!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "REACH_10",
@@ -417,7 +422,7 @@
       "Name": "It gets everywhere",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "STRIKE",
@@ -431,7 +436,7 @@
       "ID": "TUTORIAL",
       "SetID": "3c20ib3",
       "Name": "Graduated",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 36
     },
@@ -456,7 +461,7 @@
     {
       "ID": "3c20ib3",
       "IsBase": true,
-      "Progressed": 107,
+      "Progressed": 108,
       "Completed": 0
     }
   ],
@@ -464,8 +469,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-08-05T14:04:36.0791798+00:00",
+  "LastChanged_Achievements": "2023-08-05T15:04:34.6978253+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:48.5697427+00:00",
-  "LastUpdate_Ratings": "2023-08-05T13:58:02.5703289+00:00",
-  "LastUpdate_Achievements": "2023-08-05T14:04:36.0791999+00:00"
+  "LastUpdate_Ratings": "2023-08-05T14:58:14.1738257+00:00",
+  "LastUpdate_Achievements": "2023-08-05T15:04:34.6978742+00:00"
 }
