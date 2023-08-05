@@ -255,9 +255,9 @@
       "ID": "CgkInO_K3eIdEAIQAw",
       "SetID": "6bj96in",
       "Name": "GREAT ESCAPE",
-      "Percentage": 96,
+      "Percentage": 98,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "CgkInO_K3eIdEAIQBA",
@@ -295,9 +295,9 @@
       "ID": "CgkInO_K3eIdEAIQCA",
       "SetID": "6bj96in",
       "Name": "GIFTED LIBRARIAN",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "CgkInO_K3eIdEAIQCQ",
@@ -327,9 +327,9 @@
       "ID": "CgkInO_K3eIdEAIQDA",
       "SetID": "6bj96in",
       "Name": "BRIDGES OF THE PAST",
-      "Percentage": 98,
+      "Percentage": 100,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "CgkInO_K3eIdEAIQDQ",
@@ -351,9 +351,9 @@
       "ID": "CgkInO_K3eIdEAIQDw",
       "SetID": "6bj96in",
       "Name": "TIME THIEF",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "CgkInO_K3eIdEAIQEA",
@@ -391,9 +391,9 @@
       "ID": "CgkInO_K3eIdEAIQFA",
       "SetID": "6bj96in",
       "Name": "WALKER",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "CgkInO_K3eIdEAIQFQ",
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-05T11:04:53.136969+00:00",
+  "LastChanged_Achievements": "2023-08-05T12:04:55.5627408+00:00",
   "LastUpdate_AppInfo": "2023-08-02T14:57:15.3975507+00:00",
-  "LastUpdate_Ratings": "2023-08-05T10:57:41.9010334+00:00",
-  "LastUpdate_Achievements": "2023-08-05T11:04:53.1369884+00:00"
+  "LastUpdate_Ratings": "2023-08-05T11:57:31.1477926+00:00",
+  "LastUpdate_Achievements": "2023-08-05T12:04:55.5627634+00:00"
 }

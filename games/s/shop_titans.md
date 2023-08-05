@@ -32,6 +32,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 0.20% | ~268 |
 | Flooding the Market | 0.20% | ~268 |
 | Where it Hurts | 0.20% | ~268 |
+| Master of Transmutation | 0.20% | ~268 |
 | Power of Love | 0.20% | ~268 |
 | Efficient Floor Space | 0.20% | ~268 |
 | Flawless Fusion | 0.20% | ~268 |
@@ -69,7 +70,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Oligarch Monarch | 0.10% | ~134 |
 | This Power Level...! | 0.10% | ~134 |
 | Omae wa Mou Shindeiru | 0.10% | ~134 |
-| Master of Transmutation | 0.10% | ~134 |
 | Hidden Potential | 0.10% | ~134 |
 | Unleashed Potential | 0.10% | ~134 |
 | Supercharged | 0.10% | ~134 |

@@ -26,7 +26,7 @@ Rating: 4.45 (Ranked 630)
 | Living Nightmare | 31.00% | ~961 |
 | The More The Merrier | 31.00% | ~961 |
 | The Darwin Era Was Here | 27.00% | ~837 |
-| Deep Into Insanity | 25.00% | ~775 |
+| Deep Into Insanity | 26.00% | ~806 |
 | The Passenger | 25.00% | ~775 |
 | Come on, You Wanna Live Forever? | 24.00% | ~744 |
 | Stuff Of Nightmares | 22.00% | ~682 |

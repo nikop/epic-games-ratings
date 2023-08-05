@@ -2,12 +2,12 @@
   "ID": "7b57136ac766477eb1e687dcd0310da5",
   "Name": "War Mongrels",
   "ProductSlug": "war-mongrels",
-  "Ranking_Rating": 763,
+  "Ranking_Rating": 764,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -1499,9 +1499,9 @@
       "ID": "ACH_FIN_CH02",
       "SetID": "1j25agn",
       "Name": "The Breaking Point",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -1747,8 +1747,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-08-05T11:05:54.4995944+00:00",
+  "LastChanged_Achievements": "2023-08-05T12:06:09.2988127+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:49.2531898+00:00",
-  "LastUpdate_Ratings": "2023-08-05T10:58:17.9926051+00:00",
-  "LastUpdate_Achievements": "2023-08-05T11:05:54.499658+00:00"
+  "LastUpdate_Ratings": "2023-08-05T11:58:20.2043836+00:00",
+  "LastUpdate_Achievements": "2023-08-05T12:06:09.2988859+00:00"
 }

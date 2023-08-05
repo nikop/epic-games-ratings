@@ -13,6 +13,7 @@ Rating: 4.20 (Ranked 850)
 | Two Heads Are Better Than One | 3.00% | ~474 |
 | Chew 'Em Up | 3.00% | ~474 |
 | Float Like A Butterfly | 3.00% | ~474 |
+| Reforged | 3.00% | ~474 |
 | In the Pipe, Five by Five | 3.00% | ~474 |
 | Full Circle | 3.00% | ~474 |
 | It's Time | 3.00% | ~112 |
@@ -21,7 +22,6 @@ Rating: 4.20 (Ranked 850)
 | Terminated | 2.00% | ~316 |
 | Workplace Hazard | 2.00% | ~316 |
 | The Commonality | 2.00% | ~316 |
-| Reforged | 2.00% | ~316 |
 | The Outer Way | 2.00% | ~316 |
 | If the SHU Fits... | 2.00% | ~316 |
 | Without A Paddle | 2.00% | ~316 |

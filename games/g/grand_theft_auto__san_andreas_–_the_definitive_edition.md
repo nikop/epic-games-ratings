@@ -19,8 +19,8 @@ Rating: 4.56 (Ranked 465)
 | The End of the Line | 7.00% | ~829 |
 | With Extra Dip | 6.00% | ~710 |
 | Saviour | 6.00% | ~710 |
+| Rescue a Kitten Too? | 5.00% | ~592 |
 | They Can’t Stop All of Us | 4.00% | ~474 |
-| Rescue a Kitten Too? | 4.00% | ~474 |
 | Bike or Biker | 3.00% | ~355 |
 | What are the Odds | 3.00% | ~355 |
 | A Legitimate Business | 2.00% | ~237 |
@@ -150,9 +150,9 @@ Completed: 34 (0.29%) (Ranked 163)
 | 2023-08-04 | 11,827 | 34 |
 | 2023-08-05 | 11,838 | 34 |
 ## Awards
-Max (Great Boss Battles): 242  (Ranked 253)  
+Max (Great Boss Battles): 242  (Ranked 254)  
 Sum: 262 (Ranked 351)  
-Diff (max vs sum): -98  
+Diff (max vs sum): -97  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 242 |

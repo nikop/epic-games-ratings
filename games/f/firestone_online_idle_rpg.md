@@ -5,14 +5,14 @@ Rating: 4.06 (Ranked 913)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,639 |
-| World Map | 79.00% | ~1,392 |
+| Victor | 93.00% | ~1,640 |
+| World Map | 79.00% | ~1,393 |
 | Temple of Eternals | 56.00% | ~987 |
 | Prestigious | 53.00% | ~934 |
-| Fellowship Power | 41.00% | ~722 |
-| Guild Power | 25.00% | ~440 |
+| Fellowship Power | 41.00% | ~723 |
+| Guild Power | 25.00% | ~441 |
 | Prestigious x10 | 22.00% | ~388 |
-| The game is on | 20.00% | ~352 |
+| The game is on | 20.00% | ~353 |
 | Exotic Merchant | 18.00% | ~317 |
 | Dragon Clicker | 17.00% | ~300 |
 | Miner Clicker | 17.00% | ~300 |
@@ -55,11 +55,11 @@ Rating: 4.06 (Ranked 913)
 | Lock And Load | 6.00% | ~106 |
 | Missions Dedication | 6.00% | ~106 |
 | Sailor | 5.00% | ~88 |
-| Active Member | 4.00% | ~70 |
-| Arena Challenger | 4.00% | ~70 |
-| Background Story | 4.00% | ~70 |
-| Legendary | 4.00% | ~70 |
-| The Alchemist | 4.00% | ~70 |
+| Active Member | 4.00% | ~71 |
+| Arena Challenger | 4.00% | ~71 |
+| Background Story | 4.00% | ~71 |
+| Legendary | 4.00% | ~71 |
+| The Alchemist | 4.00% | ~71 |
 | Ebony Jungle Liberator | 3.00% | ~53 |
 | What lies behind the bush | 3.00% | ~53 |
 | Mythic Power | 2.00% | ~35 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 913)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,762 (Ranked 172)  
+Progressed: 1,763 (Ranked 172)  
 Completed: 2 (0.11%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 2 (0.11%) (Ranked 194)
 | 2023-08-01 | 1,750 | 2 |
 | 2023-08-02 | 1,755 | 2 |
 | 2023-08-04 | 1,761 | 2 |
-| 2023-08-05 | 1,762 | 2 |
+| 2023-08-05 | 1,763 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

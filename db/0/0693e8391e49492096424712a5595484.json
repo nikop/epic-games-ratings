@@ -2,7 +2,7 @@
   "ID": "0693e8391e49492096424712a5595484",
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
-  "Ranking_EOS_Progress": 244,
+  "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 40,
   "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 21,
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 361,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 6.09,
   "EosHistory": [
@@ -1462,9 +1462,9 @@
       "ID": "HatFlower",
       "SetID": "db30heh",
       "Name": "Flower",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 188
     },
     {
       "ID": "KingDiamond",
@@ -1637,8 +1637,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-05T11:06:27.1123246+00:00",
+  "LastChanged_Achievements": "2023-08-05T12:06:47.7816534+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-05T10:57:44.3755323+00:00",
-  "LastUpdate_Achievements": "2023-08-05T11:06:27.1123746+00:00"
+  "LastUpdate_Ratings": "2023-08-05T11:57:33.8683753+00:00",
+  "LastUpdate_Achievements": "2023-08-05T12:06:47.781708+00:00"
 }

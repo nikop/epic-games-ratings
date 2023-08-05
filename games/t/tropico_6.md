@@ -6,16 +6,16 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,457 |
-| Un-Lonely Island | 47.00% | ~2,166 |
-| The Beginning of a Servantship | 45.00% | ~2,074 |
-| Trade Is My Trait | 37.00% | ~1,705 |
-| Number 18 | 24.00% | ~1,106 |
+| Just One...More...Term... | 75.00% | ~3,460 |
+| Un-Lonely Island | 47.00% | ~2,168 |
+| The Beginning of a Servantship | 45.00% | ~2,076 |
+| Trade Is My Trait | 37.00% | ~1,707 |
+| Number 18 | 24.00% | ~1,107 |
 | We Don't Have Time For That | 19.00% | ~876 |
 | The Governator | 18.00% | ~830 |
-| Caribbean Comrade | 16.00% | ~737 |
-| The Legend of Langostino | 16.00% | ~737 |
-| The Dreamer of Dreams | 15.00% | ~691 |
+| Caribbean Comrade | 16.00% | ~738 |
+| The Legend of Langostino | 16.00% | ~738 |
+| The Dreamer of Dreams | 15.00% | ~692 |
 | Go Sovereigns! | 11.00% | ~507 |
 | For Science! | 11.00% | ~507 |
 | Happy Ending? | 10.00% | ~461 |
@@ -28,10 +28,10 @@ Number of Ratings: 398  (23.09.2022)
 | French Connection | 7.00% | ~323 |
 | Don't Panic! | 6.00% | ~277 |
 | Beware The Betman | 6.00% | ~277 |
-| Viva Tropico! | 5.00% | ~230 |
-| Computer Says "No" | 5.00% | ~230 |
-| Watch The World Burn | 5.00% | ~230 |
-| Fairy Tale Come True | 5.00% | ~230 |
+| Viva Tropico! | 5.00% | ~231 |
+| Computer Says "No" | 5.00% | ~231 |
+| Watch The World Burn | 5.00% | ~231 |
+| Fairy Tale Come True | 5.00% | ~231 |
 | Been there, Done That | 3.00% | ~138 |
 | Apocalypso | 3.00% | ~138 |
 | Narcissist | 3.00% | ~138 |
@@ -44,10 +44,10 @@ Number of Ratings: 398  (23.09.2022)
 | Curse of the Mummy | 2.00% | ~92 |
 | From Knight to Little Duck | 1.00% | ~46 |
 | Teamplayer | 1.00% | ~46 |
-| Survivor | 0.90% | ~41 |
+| Survivor | 0.90% | ~42 |
 | My Ways | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,609 (Ranked 143)  
+Progressed: 4,613 (Ranked 143)  
 Completed: 2 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 2 (0.04%) (Ranked 220)
 | 2023-08-02 | 4,564 | 2 |
 | 2023-08-03 | 4,581 | 2 |
 | 2023-08-04 | 4,601 | 2 |
-| 2023-08-05 | 4,609 | 2 |
+| 2023-08-05 | 4,613 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 341)  
 Sum: 672 (Ranked 277)  

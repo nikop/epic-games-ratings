@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -107,7 +107,7 @@
   "Tags": [],
   "EOS_Progressed": 426,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -915,9 +915,9 @@
       "ID": "13_bunkrupt",
       "SetID": "chb1m60",
       "Name": "It\u0027s no coincidence.",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 124
     },
     {
       "ID": "14_woodcutter",
@@ -1139,8 +1139,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-02T17:58:52.5324483+00:00",
-  "LastChanged_Achievements": "2023-08-05T11:04:54.2176478+00:00",
+  "LastChanged_Achievements": "2023-08-05T12:04:56.8156865+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:23.250379+00:00",
-  "LastUpdate_Ratings": "2023-08-05T10:58:27.7115415+00:00",
-  "LastUpdate_Achievements": "2023-08-05T11:04:54.2176851+00:00"
+  "LastUpdate_Ratings": "2023-08-05T11:58:30.7291886+00:00",
+  "LastUpdate_Achievements": "2023-08-05T12:04:56.8157288+00:00"
 }

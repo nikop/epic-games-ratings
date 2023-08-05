@@ -6412,9 +6412,9 @@
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 474
     },
     {
       "ID": "PRINT_WEAPON",
@@ -6635,8 +6635,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-30T15:58:22.9244985+00:00",
-  "LastChanged_Achievements": "2023-08-05T11:03:47.9889691+00:00",
+  "LastChanged_Achievements": "2023-08-05T12:03:28.0544767+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:48.8250875+00:00",
-  "LastUpdate_Ratings": "2023-08-05T10:58:46.770015+00:00",
-  "LastUpdate_Achievements": "2023-08-05T11:03:47.9890362+00:00"
+  "LastUpdate_Ratings": "2023-08-05T11:58:55.0122816+00:00",
+  "LastUpdate_Achievements": "2023-08-05T12:03:28.0545632+00:00"
 }

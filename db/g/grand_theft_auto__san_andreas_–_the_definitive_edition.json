@@ -3,7 +3,7 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 465,
-  "Ranking_Popularity": 253,
+  "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 163,
@@ -660,7 +660,7 @@
   ],
   "EOS_Progressed": 11838,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -8581,9 +8581,9 @@
       "ID": "ACH19",
       "SetID": "4ck5mbe",
       "Name": "Rescue a Kitten Too?",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 474
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH20",
@@ -8726,8 +8726,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-04T22:00:49.3953547+00:00",
-  "LastChanged_Achievements": "2023-08-05T11:01:01.9629214+00:00",
+  "LastChanged_Achievements": "2023-08-05T12:01:44.7351713+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:17.9546727+00:00",
-  "LastUpdate_Ratings": "2023-08-05T11:00:46.1444335+00:00",
-  "LastUpdate_Achievements": "2023-08-05T11:01:01.963+00:00"
+  "LastUpdate_Ratings": "2023-08-05T12:01:26.4201152+00:00",
+  "LastUpdate_Achievements": "2023-08-05T12:01:44.7352846+00:00"
 }
