@@ -6,9 +6,9 @@
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -763,9 +763,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 8384,
+  "EOS_Progressed": 8385,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7103,6 +7103,11 @@
       "Time": "2023-08-05T06:10:14.2203765+00:00",
       "NumProgressed": 8384,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-05T10:06:31.2951017+00:00",
+      "NumProgressed": 8385,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -7114,7 +7119,7 @@
       "Name": "Adventure Time",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6707
+      "UsersEstimate": 6708
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -7122,7 +7127,7 @@
       "Name": "Booty Bashing",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 3437
+      "UsersEstimate": 3438
     },
     {
       "ID": "ACH_BOSS_OF_BOSSES",
@@ -7178,7 +7183,7 @@
       "Name": "Get Furious",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 4695
+      "UsersEstimate": 4696
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -7210,7 +7215,7 @@
       "Name": "Guardian Angel",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2431
+      "UsersEstimate": 2432
     },
     {
       "ID": "ACH_GUNPLAY_AND_COSPLAY",
@@ -7218,7 +7223,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 4611
+      "UsersEstimate": 4612
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -7226,7 +7231,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 4611
+      "UsersEstimate": 4612
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -7258,7 +7263,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 7629
+      "UsersEstimate": 7630
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -7282,7 +7287,7 @@
       "Name": "Meching Enemies",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 4108
+      "UsersEstimate": 4109
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -7314,7 +7319,7 @@
       "Name": "Photogenic",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 7378
+      "UsersEstimate": 7379
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -7418,7 +7423,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 7126
+      "UsersEstimate": 7127
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -7513,15 +7518,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 8384,
+      "Progressed": 8385,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-07-22T11:58:35.0651733+00:00",
-  "LastChanged_Achievements": "2023-08-05T09:06:13.9611951+00:00",
+  "LastChanged_Achievements": "2023-08-05T10:06:31.2951011+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:18.4293252+00:00",
-  "LastUpdate_Ratings": "2023-08-05T08:58:48.9955028+00:00",
-  "LastUpdate_Achievements": "2023-08-05T09:06:13.9612568+00:00"
+  "LastUpdate_Ratings": "2023-08-05T09:59:08.815293+00:00",
+  "LastUpdate_Achievements": "2023-08-05T10:06:31.2951816+00:00"
 }

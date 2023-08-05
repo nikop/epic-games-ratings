@@ -12,7 +12,7 @@
 | Tinkerer | 63.00% | ~445 |
 | Dust to Dust | 57.00% | ~402 |
 | Across The Stars | 47.00% | ~332 |
-| Crafty | 46.00% | ~325 |
+| Crafty | 47.00% | ~332 |
 | All Seats Taken | 38.00% | ~268 |
 | For Science! | 34.00% | ~240 |
 | Meet the Petersons | 31.00% | ~219 |
@@ -50,7 +50,7 @@
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 706 (Ranked 208)  
-Completed: 1 (0.14%) (Ranked 188)  
+Completed: 1 (0.14%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

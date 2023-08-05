@@ -15,9 +15,9 @@
 | Crushing All Cars | 27.00% | ~19 |
 | Brain Chopper | 23.00% | ~16 |
 | Horror Show | 20.00% | ~14 |
-| Night Bird | 17.00% | ~12 |
+| Night Bird | 19.00% | ~13 |
 | Demolition Ambition | 13.00% | ~9 |
-| Hindenburgerer | 9.00% | ~6 |
+| Hindenburgerer | 10.00% | ~7 |
 | Punchy Wagon | 9.00% | ~6 |
 | Kill All Humans! | 7.00% | ~5 |
 | Holy Terror | 6.00% | ~4 |

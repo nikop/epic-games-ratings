@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Such a strange dream… | 88.00% | ~196 |
 | Your first fight | 87.00% | ~194 |
-| Good Person Chip | 85.00% | ~190 |
-| First winning | 84.00% | ~187 |
+| Good Person Chip | 86.00% | ~192 |
+| First winning | 85.00% | ~190 |
 | Your first job | 84.00% | ~187 |
 | Old movies enjoyer | 79.00% | ~176 |
 | First defeat | 78.00% | ~174 |
@@ -20,16 +20,16 @@
 | Hello, world! | 68.00% | ~152 |
 | Fighting is cool | 67.00% | ~149 |
 | No bullying more | 67.00% | ~149 |
-| Pal of your father? | 64.00% | ~143 |
+| Pal of your father? | 65.00% | ~145 |
 | Spirit of the past | 62.00% | ~138 |
 | Employee of the month | 62.00% | ~138 |
 | Law student | 60.00% | ~134 |
+| Intriguing candies | 58.00% | ~129 |
 | Little hacker | 57.00% | ~127 |
-| Intriguing candies | 57.00% | ~127 |
 | Workout professional | 56.00% | ~125 |
 | It's good to be alive | 56.00% | ~125 |
-| Champion – starter pack | 54.00% | ~120 |
-| Own four walls | 54.00% | ~120 |
+| Champion – starter pack | 55.00% | ~123 |
+| Own four walls | 55.00% | ~123 |
 | Employee of the year | 54.00% | ~120 |
 | Fight for life | 53.00% | ~118 |
 | Handyman | 53.00% | ~118 |
@@ -52,8 +52,8 @@
 | Mom got better | 33.00% | ~74 |
 | The die is cast | 33.00% | ~74 |
 | Seashell hunter | 33.00% | ~74 |
+| Gang wrangler | 31.00% | ~69 |
 | Undercover robot | 31.00% | ~69 |
-| Gang wrangler | 30.00% | ~67 |
 | Not little hacker | 30.00% | ~67 |
 | Absolute Champion! | 30.00% | ~67 |
 | The last bell ring | 30.00% | ~67 |

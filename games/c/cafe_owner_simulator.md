@@ -11,7 +11,7 @@
 | ADVANCED | 40.00% | ~363 |
 | CHIEF | 20.00% | ~181 |
 | SECOND_FLOOR | 13.00% | ~118 |
-| INTRODUCTION | 10.00% | ~91 |
+| INTRODUCTION | 11.00% | ~100 |
 | DEBTOR | 9.00% | ~82 |
 | SUCCESSFUL | 5.00% | ~45 |
 | THINGS ARE GOING WELL | 5.00% | ~45 |
@@ -20,7 +20,7 @@
 | 500K$. | 1.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 907 (Ranked 199)  
-Completed: 0 (0.00%) (Ranked 248)  
+Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

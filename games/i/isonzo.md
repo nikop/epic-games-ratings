@@ -53,7 +53,7 @@ Number of Ratings: 98  (23.09.2022)
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,581 (Ranked 133)  
-Completed: 8 (0.12%) (Ranked 189)  
+Completed: 8 (0.12%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -157,12 +157,12 @@ Completed: 8 (0.12%) (Ranked 189)
 | 2023-08-05 | 6,581 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 436)  
-Sum: 263 (Ranked 350)  
+Sum: 264 (Ranked 350)  
 Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |
-| This game is Extremely Fun | 32 |
+| This game is Extremely Fun | 33 |
 | This game has Amazing Characters | 31 |
 | This game has Diverse Characters | 29 |
 | This game has Realistic Visuals | 29 |
@@ -271,3 +271,4 @@ Diff (max vs sum): 86
 | 2023-07-30 | 4.56 | - | 35 | 261 |
 | 2023-08-01 | 4.56 | - | 35 | 262 |
 | 2023-08-03 | 4.56 | - | 35 | 263 |
+| 2023-08-05 | 4.56 | - | 35 | 264 |

@@ -34,8 +34,8 @@ Rating: 4.87 (Ranked 23)
 | I have to read these things? | 2.00% | ~75 |
 | Beat-hit mania | 2.00% | ~75 |
 | That's a lot of junk metal… | 2.00% | ~75 |
+| There's such a thing as TOO helpful | 2.00% | ~75 |
 | Chip-tuned | 1.00% | ~37 |
-| There's such a thing as TOO helpful | 1.00% | ~37 |
 | Wanna hear my playlist? | 1.00% | ~37 |
 | Check out my moves! | 1.00% | ~37 |
 | Call me Turbo Chai | 1.00% | ~23 |
@@ -78,7 +78,7 @@ Rating: 4.87 (Ranked 23)
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,738 (Ranked 147)  
-Completed: 6 (0.16%) (Ranked 180)  
+Completed: 6 (0.16%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

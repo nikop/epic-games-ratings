@@ -5,22 +5,22 @@ Rating: 4.40 (Ranked 696)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,239 |
-| Ranidaphobia | 78.00% | ~1,051 |
-| Aspiring Editor | 75.00% | ~1,010 |
-| Gun for Hire | 70.00% | ~943 |
+| First Blood | 92.00% | ~1,240 |
+| Ranidaphobia | 77.00% | ~1,038 |
+| Aspiring Editor | 75.00% | ~1,011 |
+| Gun for Hire | 70.00% | ~944 |
 | I am the law! | 63.00% | ~849 |
-| Lumberjack | 52.00% | ~700 |
+| Lumberjack | 52.00% | ~701 |
 | Croaked | 48.00% | ~647 |
-| Limp Richard | 47.00% | ~633 |
-| From Darkness to Light | 47.00% | ~633 |
+| Limp Richard | 47.00% | ~634 |
+| From Darkness to Light | 47.00% | ~634 |
 | Editor Adept | 46.00% | ~620 |
 | Exorcist | 46.00% | ~620 |
 | Giant Killer | 44.00% | ~593 |
 | Sensei | 42.00% | ~566 |
-| Firestarter | 41.00% | ~552 |
+| Firestarter | 41.00% | ~553 |
 | The meaning of Kain | 40.00% | ~539 |
-| Technophobe | 39.00% | ~525 |
+| Technophobe | 39.00% | ~526 |
 | Recycler | 38.00% | ~512 |
 | Are you not entertained? | 33.00% | ~445 |
 | Ganglord | 33.00% | ~445 |
@@ -32,7 +32,7 @@ Rating: 4.40 (Ranked 696)
 | Endgame | 25.00% | ~337 |
 | Savior | 25.00% | ~337 |
 | There Can Be Only One! | 25.00% | ~337 |
-| Chain Killer | 22.00% | ~296 |
+| Chain Killer | 22.00% | ~297 |
 | The Watchers | 21.00% | ~283 |
 | Silent but Violent | 17.00% | ~229 |
 | Commando | 16.00% | ~216 |
@@ -57,8 +57,8 @@ Rating: 4.40 (Ranked 696)
 | QA Has Suffered! (Redux) | 0.80% | ~11 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,347 (Ranked 184)  
-Completed: 0 (0.00%) (Ranked 248)  
+Progressed: 1,348 (Ranked 184)  
+Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -129,6 +129,7 @@ Completed: 0 (0.00%) (Ranked 248)
 | 2023-08-02 | 1,337 | 0 |
 | 2023-08-03 | 1,344 | 0 |
 | 2023-08-04 | 1,347 | 0 |
+| 2023-08-05 | 1,348 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

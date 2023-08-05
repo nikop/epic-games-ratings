@@ -3,9 +3,9 @@
   "Name": "SYMMETRY",
   "ProductSlug": "symmetry-44cf24",
   "Ranking_EOS_Progress": 529,
-  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-05-26T14:00:00+00:00",
     "PcReleaseDate": "2018-02-20T00:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:20.6109921+00:00",
   "LastChanged": "2023-03-31T05:58:20.6109922+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:34.5219893+00:00",
-  "LastUpdate_Ratings": "2023-08-05T08:57:35.9577453+00:00",
-  "LastUpdate_Achievements": "2023-08-05T09:02:07.2367818+00:00"
+  "LastUpdate_Ratings": "2023-08-05T09:57:55.5298344+00:00",
+  "LastUpdate_Achievements": "2023-08-05T10:03:07.1316329+00:00"
 }

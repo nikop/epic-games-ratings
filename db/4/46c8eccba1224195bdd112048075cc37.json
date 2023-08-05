@@ -3,9 +3,9 @@
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 305,
-  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
     "PcReleaseDate": "2022-09-19T02:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 129,
-  "EOS_Completed": 0,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 27,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
     {
       "Time": "2023-06-10T02:13:27.744268+00:00",
@@ -591,6 +591,11 @@
       "Time": "2023-08-04T17:05:52.0140906+00:00",
       "NumProgressed": 129,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-05T10:05:35.9317937+00:00",
+      "NumProgressed": 129,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -696,9 +701,9 @@
       "ID": "KingBoss",
       "SetID": "7g1kpc8",
       "Name": "Revolution",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Leprechaun",
@@ -762,13 +767,13 @@
       "ID": "7g1kpc8",
       "IsBase": true,
       "Progressed": 129,
-      "Completed": 0
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-08-05T09:05:17.6504597+00:00",
+  "LastChanged_Achievements": "2023-08-05T10:05:35.9317931+00:00",
   "LastUpdate_AppInfo": "2023-07-31T09:57:13.2028801+00:00",
-  "LastUpdate_Ratings": "2023-08-05T08:57:36.6721794+00:00",
-  "LastUpdate_Achievements": "2023-08-05T09:05:17.6504744+00:00"
+  "LastUpdate_Ratings": "2023-08-05T09:57:56.1526678+00:00",
+  "LastUpdate_Achievements": "2023-08-05T10:05:35.9318122+00:00"
 }

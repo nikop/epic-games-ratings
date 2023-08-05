@@ -6,9 +6,9 @@
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 131,
-  "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6961,
+  "EOS_Progressed": 6962,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -3348,6 +3348,11 @@
       "Time": "2023-08-05T09:02:15.7070721+00:00",
       "NumProgressed": 6961,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-05T10:03:15.4818164+00:00",
+      "NumProgressed": 6962,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -3391,7 +3396,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3689
+      "UsersEstimate": 3690
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -3407,7 +3412,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -3495,7 +3500,7 @@
       "Name": "Seekers Found",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2785
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -3511,7 +3516,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -3559,7 +3564,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2785
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -3574,15 +3579,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6961,
+      "Progressed": 6962,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-08-05T09:02:15.7070716+00:00",
+  "LastChanged_Achievements": "2023-08-05T10:03:15.4818159+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:47.6725573+00:00",
-  "LastUpdate_Ratings": "2023-08-05T08:57:55.6542446+00:00",
-  "LastUpdate_Achievements": "2023-08-05T09:02:15.7071013+00:00"
+  "LastUpdate_Ratings": "2023-08-05T09:58:15.4377847+00:00",
+  "LastUpdate_Achievements": "2023-08-05T10:03:15.4818545+00:00"
 }

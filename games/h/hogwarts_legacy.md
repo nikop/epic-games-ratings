@@ -10,13 +10,13 @@ Rating: 4.77 (Ranked 109)
 | Troll with the Punches | 11.00% | ~31,832 |
 | A Keen Sense of Spell | 10.00% | ~28,938 |
 | That's a Keeper | 10.00% | ~28,938 |
-| Grappling with a Graphorn | 9.00% | ~26,044 |
-| The One Who Mastered Memories | 9.00% | ~26,044 |
-| The Hallowed Hero | 9.00% | ~26,044 |
-| The Defender of Dragons | 9.00% | ~26,044 |
-| Loom for Improvement | 9.00% | ~26,044 |
-| A Talent for Spending | 9.00% | ~26,044 |
-| Coasting Along | 9.00% | ~26,044 |
+| Grappling with a Graphorn | 9.00% | ~26,045 |
+| The One Who Mastered Memories | 9.00% | ~26,045 |
+| The Hallowed Hero | 9.00% | ~26,045 |
+| The Defender of Dragons | 9.00% | ~26,045 |
+| Loom for Improvement | 9.00% | ~26,045 |
+| A Talent for Spending | 9.00% | ~26,045 |
+| Coasting Along | 9.00% | ~26,045 |
 | The Hero of Hogwarts | 8.00% | ~23,151 |
 | Challenge Accepted | 8.00% | ~23,151 |
 | Followed the Butterflies | 8.00% | ~23,151 |
@@ -34,10 +34,10 @@ Rating: 4.77 (Ranked 109)
 | Room with a View | 4.00% | ~11,575 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,575 |
 | The Ends Petrify the Means | 4.00% | ~11,575 |
-| Going Through the Potions | 3.00% | ~8,681 |
-| Floo Around the World | 3.00% | ~8,681 |
-| The Intrepid Explorer | 3.00% | ~8,681 |
-| The Wise Owl | 3.00% | ~8,681 |
+| Going Through the Potions | 3.00% | ~8,682 |
+| Floo Around the World | 3.00% | ~8,682 |
+| The Intrepid Explorer | 3.00% | ~8,682 |
+| The Wise Owl | 3.00% | ~8,682 |
 | The Good Samaritan | 2.00% | ~5,788 |
 | Put Down Roots | 2.00% | ~5,788 |
 | The Auror's Apprentice | 2.00% | ~5,788 |
@@ -51,8 +51,8 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,736 |
 | Collector's Edition | 0.30% | ~868 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,383 (Ranked 42)  
-Completed: 440 (0.15%) (Ranked 184)  
+Progressed: 289,385 (Ranked 42)  
+Completed: 440 (0.15%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -158,7 +158,7 @@ Completed: 440 (0.15%) (Ranked 184)
 | 2023-08-02 | 289,222 | 437 |
 | 2023-08-03 | 289,287 | 438 |
 | 2023-08-04 | 289,362 | 439 |
-| 2023-08-05 | 289,383 | 440 |
+| 2023-08-05 | 289,385 | 440 |
 ## Awards
 Max (Character Customization): 21,511  (Ranked 17)  
 Sum: 40,465 (Ranked 30)  

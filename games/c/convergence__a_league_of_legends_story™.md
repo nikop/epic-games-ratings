@@ -32,7 +32,7 @@ Rating: 4.60 (Ranked 388)
 | Right On Time | 14.00% | ~115 |
 | Cartographer | 14.00% | ~115 |
 | Street Style | 13.00% | ~107 |
-| Whiz Kid | 11.00% | ~91 |
+| Whiz Kid | 12.00% | ~99 |
 | Good Neighbor | 11.00% | ~91 |
 | Chaincrawler Explorer | 10.00% | ~82 |
 | Family Memories | 9.00% | ~74 |
@@ -60,7 +60,7 @@ Rating: 4.60 (Ranked 388)
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 823 (Ranked 202)  
-Completed: 5 (0.61%) (Ranked 127)  
+Completed: 5 (0.61%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

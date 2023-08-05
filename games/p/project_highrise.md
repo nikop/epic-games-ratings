@@ -14,7 +14,7 @@
 | It's Technical | 36.00% | ~115 |
 | Upgrade Unlock | 35.00% | ~112 |
 | Delegate Maintenance | 34.00% | ~108 |
-| Proper Walls | 32.00% | ~102 |
+| Proper Walls | 33.00% | ~105 |
 | Destination Destiny | 29.00% | ~93 |
 | Happy Tenants | 25.00% | ~80 |
 | Potent Potables | 24.00% | ~77 |
@@ -94,7 +94,7 @@
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 319 (Ranked 253)  
-Completed: 0 (0.00%) (Ranked 248)  
+Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -21,9 +21,9 @@
 | The Apprentice | 6.00% | ~5 |
 | Braving Miasma | 6.00% | ~5 |
 | The Familiar | 6.00% | ~5 |
+| Oracle Mastery | 6.00% | ~5 |
 | No Stone Unturned | 6.00% | ~5 |
 | Ancient Nemesis | 5.00% | ~4 |
-| Oracle Mastery | 5.00% | ~4 |
 | Traveler Mastery | 5.00% | ~4 |
 | Raider Mastery | 4.00% | ~3 |
 | Warden Mastery | 4.00% | ~3 |
@@ -46,7 +46,7 @@
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 82 (Ranked 331)  
-Completed: 0 (0.00%) (Ranked 248)  
+Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -54,7 +54,7 @@
 | Compliance Edict | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 25 (Ranked 391)  
-Completed: 0 (0.00%) (Ranked 248)  
+Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -38,7 +38,7 @@ Rating: 4.45 (Ranked 630)
 | The Cable Guy | 18.00% | ~558 |
 | Abysmal Horrors | 18.00% | ~558 |
 | Bandage Lover | 17.00% | ~527 |
-| Regicide | 13.00% | ~403 |
+| Regicide | 14.00% | ~434 |
 | Flawless Victory | 11.00% | ~341 |
 | This Went Smoothly | 11.00% | ~341 |
 | Heavy Steps | 11.00% | ~341 |
@@ -52,7 +52,7 @@ Rating: 4.45 (Ranked 630)
 | This Ain't No Picnic | 0.50% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,100 (Ranked 155)  
-Completed: 2 (0.06%) (Ranked 208)  
+Completed: 2 (0.06%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

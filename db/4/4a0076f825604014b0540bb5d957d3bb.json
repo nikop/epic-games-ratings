@@ -2,10 +2,10 @@
   "ID": "4a0076f825604014b0540bb5d957d3bb",
   "Name": "The House of Da Vinci 2",
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
-  "Ranking_EOS_Progress": 365,
-  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_Progress": 366,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -282,9 +282,9 @@
       "ID": "CgkInO_K3eIdEAIQBw",
       "SetID": "6bj96in",
       "Name": "SCRIPTORIUM SNEAK",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "CgkInO_K3eIdEAIQCA",
@@ -426,9 +426,9 @@
       "ID": "CgkInO_K3eIdEAIQGQ",
       "SetID": "6bj96in",
       "Name": "BLINDED BY THE LIGHT",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CgkInO_K3eIdEAIQGg",
@@ -449,8 +449,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-05T09:04:26.1384055+00:00",
+  "LastChanged_Achievements": "2023-08-05T10:04:45.265464+00:00",
   "LastUpdate_AppInfo": "2023-08-02T14:57:15.3975507+00:00",
-  "LastUpdate_Ratings": "2023-08-05T08:57:18.1167912+00:00",
-  "LastUpdate_Achievements": "2023-08-05T09:04:26.1384207+00:00"
+  "LastUpdate_Ratings": "2023-08-05T09:57:40.8135986+00:00",
+  "LastUpdate_Achievements": "2023-08-05T10:04:45.2654826+00:00"
 }

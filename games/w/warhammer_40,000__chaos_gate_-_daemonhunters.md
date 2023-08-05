@@ -10,9 +10,9 @@ Number of Ratings: 371  (23.09.2022)
 | Not So Fast... | 3.00% | ~94 |
 | Executioner | 3.00% | ~94 |
 | Watch Where You Step... | 3.00% | ~94 |
+| An Ill Omen | 3.00% | ~94 |
 | Blood for the Blood God! | 2.00% | ~62 |
 | Purging Spree | 2.00% | ~62 |
-| An Ill Omen | 2.00% | ~62 |
 | Bloodless | 2.00% | ~62 |
 | Surgical Excision | 1.00% | ~31 |
 | Friendly Fire | 1.00% | ~31 |
@@ -76,7 +76,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,124 (Ranked 153)  
-Completed: 0 (0.00%) (Ranked 248)  
+Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

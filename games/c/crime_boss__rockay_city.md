@@ -44,7 +44,7 @@ Rating: 3.94 (Ranked 936)
 | Full House | 0.20% | ~143 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 71,327 (Ranked 77)  
-Completed: 37 (0.05%) (Ranked 213)  
+Completed: 37 (0.05%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

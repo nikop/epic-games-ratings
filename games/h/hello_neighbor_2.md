@@ -13,8 +13,8 @@ Rating: 4.45 (Ranked 630)
 | Treasure Hunt | 30.00% | ~809 |
 | Ancient Curse | 28.00% | ~755 |
 | Cat Person | 26.00% | ~701 |
+| Hidden Secrets | 25.00% | ~674 |
 | Climber | 24.00% | ~647 |
-| Hidden Secrets | 24.00% | ~647 |
 | Reunion | 24.00% | ~647 |
 | Imprisonment | 23.00% | ~620 |
 | Mad Scientist | 23.00% | ~620 |

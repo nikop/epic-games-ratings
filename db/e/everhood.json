@@ -3,9 +3,9 @@
   "Name": "Everhood",
   "ProductSlug": "everhood",
   "Ranking_EOS_Progress": 529,
-  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-09-16T18:00:00+00:00",
     "PcReleaseDate": "2021-03-04T12:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:46.6963773+00:00",
   "LastChanged": "2023-03-31T05:57:46.6963774+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.8124234+00:00",
-  "LastUpdate_Ratings": "2023-08-05T08:58:51.2955+00:00",
-  "LastUpdate_Achievements": "2023-08-05T09:06:02.7065657+00:00"
+  "LastUpdate_Ratings": "2023-08-05T09:59:10.9916245+00:00",
+  "LastUpdate_Achievements": "2023-08-05T10:06:20.1000661+00:00"
 }

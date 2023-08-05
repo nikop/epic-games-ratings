@@ -8,7 +8,7 @@
 | You're the Expert! | 31.00% | ~165 |
 | Home Cook | 29.00% | ~154 |
 | So Clean You Can Eat Off the Floor | 18.00% | ~96 |
-| French Flair | 16.00% | ~85 |
+| French Flair | 17.00% | ~90 |
 | S is for Scrumptious | 16.00% | ~85 |
 | Next Level Cuisine | 10.00% | ~53 |
 | Haute Cuisine | 8.00% | ~42 |
@@ -46,7 +46,7 @@
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 531 (Ranked 219)  
-Completed: 0 (0.00%) (Ranked 248)  
+Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

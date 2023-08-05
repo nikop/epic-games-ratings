@@ -13,11 +13,11 @@ Number of Ratings: 209  (23.09.2022)
 | High Jump | 96.00% | ~2,097 |
 | Knee bending | 96.00% | ~2,097 |
 | Pickaxe | 94.00% | ~2,053 |
+| Cage Town | 94.00% | ~2,053 |
 | Force Beam | 93.00% | ~2,031 |
 | Entered Cage Town | 93.00% | ~2,031 |
 | Stone Pickaxe | 93.00% | ~2,031 |
 | Revenge | 93.00% | ~2,031 |
-| Cage Town | 93.00% | ~2,031 |
 | Surprise | 93.00% | ~2,031 |
 | Magnet | 91.00% | ~1,987 |
 | Industrial Area | 89.00% | ~1,944 |
@@ -41,7 +41,7 @@ Number of Ratings: 209  (23.09.2022)
 | Diamond Pickaxe | 77.00% | ~1,682 |
 | Killed them all | 76.00% | ~1,660 |
 | Trickle Down Economy | 76.00% | ~1,660 |
-| Win | 75.00% | ~1,638 |
+| Win | 76.00% | ~1,660 |
 | Greenhouse | 72.00% | ~1,572 |
 | Played with fire | 70.00% | ~1,529 |
 | You feel very sorry | 69.00% | ~1,507 |
