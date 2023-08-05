@@ -17,7 +17,7 @@ Number of Ratings: 371  (23.09.2022)
 | Surgical Excision | 1.00% | ~31 |
 | Friendly Fire | 1.00% | ~31 |
 | A Foul Creche | 1.00% | ~31 |
-| Honoured Battle-Brother | 0.80% | ~25 |
+| Honoured Battle-Brother | 0.90% | ~28 |
 | The Emperor Protects | 0.80% | ~25 |
 | Nemesis Master | 0.70% | ~22 |
 | Gunmaster | 0.60% | ~19 |
@@ -43,6 +43,7 @@ Number of Ratings: 371  (23.09.2022)
 | Death Comes For All | 0.20% | ~6 |
 | Tactical Flexibility | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
+| The Flesh is Weak | 0.10% | ~3 |
 | Blood and Iron | 0.10% | ~3 |
 | Clean Slate | 0.10% | ~3 |
 | Unstable Immaterium | 0.10% | ~3 |
@@ -60,7 +61,6 @@ Number of Ratings: 371  (23.09.2022)
 | Deadshot | 0.10% | ~3 |
 | Terminal Meltdown | 0.10% | ~3 |
 | Suffer Not the Mutant | 0.10% | ~3 |
-| The Flesh is Weak | 0.00% | ~0 |
 | Crisis Management | 0.00% | ~0 |
 | Grand Master | 0.00% | ~0 |
 | Legend of Titan | 0.00% | ~0 |

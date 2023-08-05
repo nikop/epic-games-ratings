@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -270,9 +270,9 @@
       "ID": "CgkIxYDzrbcPEAIQBg",
       "SetID": "4egpam7",
       "Name": "Uninvited Guests",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBw",
@@ -334,9 +334,9 @@
       "ID": "CgkIxYDzrbcPEAIQDg",
       "SetID": "4egpam7",
       "Name": "Fireman",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDw",
@@ -477,8 +477,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-05T18:08:22.0752172+00:00",
+  "LastChanged_Achievements": "2023-08-05T19:07:07.2644627+00:00",
   "LastUpdate_AppInfo": "2023-08-01T13:03:42.8439888+00:00",
-  "LastUpdate_Ratings": "2023-08-05T17:59:29.7695708+00:00",
-  "LastUpdate_Achievements": "2023-08-05T18:08:22.0752356+00:00"
+  "LastUpdate_Ratings": "2023-08-05T18:58:09.2335044+00:00",
+  "LastUpdate_Achievements": "2023-08-05T19:07:07.2644898+00:00"
 }

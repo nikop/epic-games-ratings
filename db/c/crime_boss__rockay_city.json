@@ -2862,9 +2862,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71367,
+  "EOS_Progressed": 71368,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 830,
+  "EOS_NewPlayers": 828,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -14167,6 +14167,11 @@
       "Time": "2023-08-05T18:08:35.6756446+00:00",
       "NumProgressed": 71367,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-08-05T19:07:22.1408382+00:00",
+      "NumProgressed": 71368,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 37,
@@ -14186,7 +14191,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20696
+      "UsersEstimate": 20697
     },
     {
       "ID": "ACH_0012",
@@ -14346,7 +14351,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 33542
+      "UsersEstimate": 33543
     },
     {
       "ID": "ACH_0300",
@@ -14394,7 +14399,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 24978
+      "UsersEstimate": 24979
     },
     {
       "ID": "ACH_0420",
@@ -14410,7 +14415,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 24978
+      "UsersEstimate": 24979
     },
     {
       "ID": "ACH_0431",
@@ -14450,7 +14455,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12132
+      "UsersEstimate": 12133
     },
     {
       "ID": "ACH_0460",
@@ -14473,7 +14478,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71367,
+      "Progressed": 71368,
       "Completed": 37
     }
   ],
@@ -14481,8 +14486,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-05T01:51:10.383909+00:00",
-  "LastChanged_Achievements": "2023-08-05T18:08:35.6756439+00:00",
+  "LastChanged_Achievements": "2023-08-05T19:07:22.1408373+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:57.6753466+00:00",
-  "LastUpdate_Ratings": "2023-08-05T18:03:21.7686507+00:00",
-  "LastUpdate_Achievements": "2023-08-05T18:08:35.6757184+00:00"
+  "LastUpdate_Ratings": "2023-08-05T19:02:18.7335926+00:00",
+  "LastUpdate_Achievements": "2023-08-05T19:07:22.1409657+00:00"
 }

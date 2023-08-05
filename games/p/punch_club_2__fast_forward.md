@@ -14,11 +14,11 @@
 | Depressed visitor | 77.00% | ~174 |
 | Fitness professional | 76.00% | ~172 |
 | Neurotrainer – power gainer! | 76.00% | ~172 |
-| Employee of the week | 74.00% | ~167 |
+| Employee of the week | 75.00% | ~170 |
 | Your own amateur gym | 73.00% | ~165 |
-| Run K, run! | 71.00% | ~160 |
+| Run K, run! | 72.00% | ~163 |
+| Hello, world! | 68.00% | ~154 |
 | No bullying more | 67.00% | ~151 |
-| Hello, world! | 67.00% | ~151 |
 | Fighting is cool | 66.00% | ~149 |
 | Pal of your father? | 64.00% | ~145 |
 | Spirit of the past | 62.00% | ~140 |
@@ -64,8 +64,8 @@
 | Another world | 28.00% | ~63 |
 | Keep nature safe | 28.00% | ~63 |
 | Family comes first | 28.00% | ~63 |
+| Anyone can resist | 28.00% | ~63 |
 | Careerist | 27.00% | ~61 |
-| Anyone can resist | 27.00% | ~61 |
 | Trap disarmed | 26.00% | ~59 |
 | Silver’s past | 25.00% | ~56 |
 | The only right decision | 25.00% | ~56 |

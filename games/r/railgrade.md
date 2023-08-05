@@ -1,38 +1,38 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.54 (Ranked 497)  
+Rating: 4.54 (Ranked 498)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~19,033 |
+| Trevithick's Legacy | 98.00% | ~19,034 |
 | Before the Downfall | 93.00% | ~18,062 |
-| Money like Water | 91.00% | ~17,673 |
-| Minimalist | 90.00% | ~17,479 |
-| Builder | 83.00% | ~16,119 |
+| Money like Water | 91.00% | ~17,674 |
+| Minimalist | 90.00% | ~17,480 |
+| Builder | 83.00% | ~16,120 |
 | Eraser | 70.00% | ~13,595 |
 | Pocket of Trains | 65.00% | ~12,624 |
-| Inspector | 59.00% | ~11,458 |
-| Going the Distance | 54.00% | ~10,487 |
+| Inspector | 59.00% | ~11,459 |
+| Going the Distance | 54.00% | ~10,488 |
 | Oil Baron | 42.00% | ~8,157 |
 | Loads-a-Money | 42.00% | ~8,157 |
-| Helper of the People | 39.00% | ~7,574 |
+| Helper of the People | 39.00% | ~7,575 |
 | Simplification | 34.00% | ~6,603 |
 | Box of Trains | 33.00% | ~6,409 |
 | Let There be Light | 32.00% | ~6,215 |
 | Hot Water | 31.00% | ~6,021 |
 | Indecisive | 29.00% | ~5,632 |
 | The scenic route | 27.00% | ~5,244 |
-| Industrialist | 25.00% | ~4,855 |
+| Industrialist | 25.00% | ~4,856 |
 | Perfectionist | 23.00% | ~4,467 |
 | Trains over Pipes | 23.00% | ~4,467 |
 | 8K is Enough for Everyone | 22.00% | ~4,273 |
 | Man of Steel | 17.00% | ~3,302 |
 | Room Full of Trains | 12.00% | ~2,331 |
 | Investor | 10.00% | ~1,942 |
-| Multiverse | 7.00% | ~1,359 |
-| The poor groundwater levels | 7.00% | ~1,359 |
-| Metropolis | 7.00% | ~1,359 |
+| Multiverse | 7.00% | ~1,360 |
+| The poor groundwater levels | 7.00% | ~1,360 |
+| Metropolis | 7.00% | ~1,360 |
 | High Flier | 3.00% | ~583 |
 | To infinity, and beyond! | 3.00% | ~583 |
 | Space industrialization | 2.00% | ~388 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 497)
 | Overdeer | 0.50% | ~97 |
 | Cloud Services | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,421 (Ranked 107)  
+Progressed: 19,422 (Ranked 107)  
 Completed: 35 (0.18%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 35 (0.18%) (Ranked 180)
 | 2023-08-02 | 19,371 | 34 |
 | 2023-08-03 | 19,392 | 34 |
 | 2023-08-04 | 19,406 | 35 |
-| 2023-08-05 | 19,421 | 35 |
+| 2023-08-05 | 19,422 | 35 |
 ## Awards
 Max (Great for Beginners): 87  (Ranked 352)  
 Sum: 656 (Ranked 284)  

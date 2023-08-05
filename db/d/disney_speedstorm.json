@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3074,
+  "EOS_Progressed": 3075,
   "EOS_Completed": 139,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 4.52,
   "EosHistory": [
@@ -4100,6 +4100,11 @@
       "Time": "2023-08-05T01:57:11.9274083+00:00",
       "NumProgressed": 3074,
       "NumCompleted": 139
+    },
+    {
+      "Time": "2023-08-05T19:08:08.914214+00:00",
+      "NumProgressed": 3075,
+      "NumCompleted": 139
     }
   ],
   "TotalAchievements": 24,
@@ -4119,7 +4124,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 1291
+      "UsersEstimate": 1292
     },
     {
       "ID": "11",
@@ -4151,7 +4156,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 1291
+      "UsersEstimate": 1292
     },
     {
       "ID": "15",
@@ -4191,7 +4196,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 14,
       "XP": 85,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "2",
@@ -4215,7 +4220,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "22",
@@ -4247,7 +4252,7 @@
       "Name": "FRIENDLY",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "4",
@@ -4271,7 +4276,7 @@
       "Name": "PRO",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "7",
@@ -4295,20 +4300,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3074,
+      "Progressed": 3075,
       "Completed": 139
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-05T18:09:20.3092001+00:00",
+  "LastChanged_Achievements": "2023-08-05T19:08:08.9142133+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:54.7430332+00:00",
-  "LastUpdate_Ratings": "2023-08-05T18:02:01.429083+00:00",
-  "LastUpdate_Achievements": "2023-08-05T18:09:20.3092333+00:00"
+  "LastUpdate_Ratings": "2023-08-05T19:00:55.7658114+00:00",
+  "LastUpdate_Achievements": "2023-08-05T19:08:08.9142878+00:00"
 }

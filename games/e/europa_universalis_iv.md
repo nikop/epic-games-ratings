@@ -6,52 +6,52 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~7,192 |
-| That's a Grand Army | 8.00% | ~6,393 |
-| Victorious! | 8.00% | ~6,393 |
-| That is mine! | 7.00% | ~5,594 |
-| Brothers in Arms | 6.00% | ~4,795 |
-| That's a Grand Navy | 6.00% | ~4,795 |
-| Seriously?! | 6.00% | ~4,795 |
-| For the Glory | 5.00% | ~3,995 |
-| Cold War | 4.00% | ~3,196 |
-| True Catholic | 4.00% | ~3,196 |
-| Defender of the Faith | 3.00% | ~2,397 |
-| It's all about the money | 3.00% | ~2,397 |
-| Respected | 3.00% | ~2,397 |
-| The Princess is in this Castle | 3.00% | ~2,397 |
-| Truly Divine Ruler | 3.00% | ~2,397 |
-| Agressive Expander | 2.00% | ~1,598 |
-| Blockader | 2.00% | ~1,598 |
-| Combined Arms | 2.00% | ~1,598 |
-| Double the Love | 2.00% | ~1,598 |
-| It's all about luck | 2.00% | ~1,598 |
-| My armies are invincible! | 2.00% | ~1,598 |
-| Royal Authority | 2.00% | ~1,598 |
-| Total Control | 2.00% | ~1,598 |
-| All That's Thine Shall Be Mine | 1.00% | ~799 |
-| Azur semé de lis or | 1.00% | ~799 |
-| Bright Spark | 1.00% | ~799 |
-| City of Cities | 1.00% | ~799 |
-| The Emperors new clothes | 1.00% | ~799 |
-| Factionalism | 1.00% | ~799 |
-| Gentle Persuasion | 1.00% | ~799 |
-| A Golden Empire | 1.00% | ~799 |
-| Queen of Conquest | 1.00% | ~799 |
-| The Five Colonies | 1.00% | ~799 |
-| This navy can take it all | 1.00% | ~799 |
-| Isn't this the way to India? | 0.90% | ~719 |
-| Market Control | 0.90% | ~719 |
-| Trustworthy | 0.90% | ~719 |
-| Down Under | 0.80% | ~639 |
-| Electable! | 0.70% | ~559 |
-| Populists in Government | 0.70% | ~559 |
-| All belongs to Mother Russia | 0.60% | ~479 |
-| At every continent | 0.60% | ~479 |
-| One Family to Rule them All | 0.60% | ~479 |
-| The pen is mightier than the sword | 0.60% | ~479 |
-| This is My Faith | 0.60% | ~479 |
-| Time Bandit | 0.60% | ~479 |
+| Until death do us apart | 9.00% | ~7,197 |
+| That's a Grand Army | 8.00% | ~6,397 |
+| Victorious! | 8.00% | ~6,397 |
+| That is mine! | 7.00% | ~5,597 |
+| Brothers in Arms | 6.00% | ~4,798 |
+| That's a Grand Navy | 6.00% | ~4,798 |
+| Seriously?! | 6.00% | ~4,798 |
+| For the Glory | 5.00% | ~3,998 |
+| Cold War | 4.00% | ~3,199 |
+| True Catholic | 4.00% | ~3,199 |
+| Defender of the Faith | 3.00% | ~2,399 |
+| It's all about the money | 3.00% | ~2,399 |
+| Respected | 3.00% | ~2,399 |
+| The Princess is in this Castle | 3.00% | ~2,399 |
+| Truly Divine Ruler | 3.00% | ~2,399 |
+| Agressive Expander | 2.00% | ~1,599 |
+| Blockader | 2.00% | ~1,599 |
+| Combined Arms | 2.00% | ~1,599 |
+| Double the Love | 2.00% | ~1,599 |
+| It's all about luck | 2.00% | ~1,599 |
+| My armies are invincible! | 2.00% | ~1,599 |
+| Royal Authority | 2.00% | ~1,599 |
+| Total Control | 2.00% | ~1,599 |
+| All That's Thine Shall Be Mine | 1.00% | ~800 |
+| Azur semé de lis or | 1.00% | ~800 |
+| Bright Spark | 1.00% | ~800 |
+| City of Cities | 1.00% | ~800 |
+| The Emperors new clothes | 1.00% | ~800 |
+| Factionalism | 1.00% | ~800 |
+| Gentle Persuasion | 1.00% | ~800 |
+| A Golden Empire | 1.00% | ~800 |
+| Queen of Conquest | 1.00% | ~800 |
+| The Five Colonies | 1.00% | ~800 |
+| This navy can take it all | 1.00% | ~800 |
+| Down Under | 0.90% | ~720 |
+| Isn't this the way to India? | 0.90% | ~720 |
+| Market Control | 0.90% | ~720 |
+| Trustworthy | 0.90% | ~720 |
+| Electable! | 0.70% | ~560 |
+| Populists in Government | 0.70% | ~560 |
+| All belongs to Mother Russia | 0.60% | ~480 |
+| At every continent | 0.60% | ~480 |
+| One Family to Rule them All | 0.60% | ~480 |
+| The pen is mightier than the sword | 0.60% | ~480 |
+| This is My Faith | 0.60% | ~480 |
+| Time Bandit | 0.60% | ~480 |
 | Absolutely | 0.50% | ~400 |
 | Early-Modern Warfare | 0.50% | ~400 |
 | Grand Coalition | 0.50% | ~400 |
@@ -121,6 +121,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Assembly Instructions Needed | 0.10% | ~80 |
 | Atwix Legacy | 0.10% | ~80 |
 | Auld Alliance Reversed | 0.10% | ~80 |
+| Australia-Hungary | 0.10% | ~80 |
 | Avar Khaganate | 0.10% | ~80 |
 | Baa Baa Black Sheep | 0.10% | ~80 |
 | Back in Control | 0.10% | ~80 |
@@ -337,7 +338,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | World Conqueror | 0.10% | ~80 |
 | Yarr Harr a Pirate's Life For Me | 0.10% | ~80 |
 | You Get A New Home, And You Get A New Home | 0.10% | ~80 |
-| Australia-Hungary | 0.00% | ~0 |
 | Blood for the Sky God! | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,909 (Ranked 75)  
+Progressed: 79,964 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -468,7 +468,7 @@ Completed: 0 (0.00%) (Ranked 249)
 | 2023-08-02 | 77,371 | 0 |
 | 2023-08-03 | 78,060 | 0 |
 | 2023-08-04 | 79,131 | 0 |
-| 2023-08-05 | 79,909 | 0 |
+| 2023-08-05 | 79,964 | 0 |
 ## Awards
 Max (Educational): 5,617  (Ranked 62)  
 Sum: 46,369 (Ranked 26)  

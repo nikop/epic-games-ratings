@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,759 |
+| A Brief Tour of the Realms | 4.00% | ~8,760 |
 | Beast Intentions | 3.00% | ~6,570 |
 | Maddening | 2.00% | ~4,380 |
 | The Silken Swamp | 1.00% | ~2,190 |
@@ -88,6 +88,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.40% | ~876 |
 | Overdue Rendezvous | 0.40% | ~876 |
 | Pure Energy | 0.40% | ~876 |
+| The Templar's Camp | 0.40% | ~876 |
 | Devilishly Cold | 0.40% | ~741 |
 | Luigi After Hours | 0.40% | ~741 |
 | Electric Mayhem | 0.40% | ~741 |
@@ -157,7 +158,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.30% | ~556 |
 | Durable Deep | 0.30% | ~657 |
 | Expert Opinion | 0.30% | ~657 |
-| The Templar's Camp | 0.30% | ~657 |
 | Rescue in the Jungle | 0.30% | ~657 |
 | Willing to Sacrifice | 0.30% | ~556 |
 | Tiny Treaty | 0.30% | ~556 |
@@ -241,6 +241,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frozen Vengeance | 0.20% | ~371 |
 | The Battle of High Hall Tower | 0.20% | ~371 |
 | Elturel's Last Stand | 0.20% | ~371 |
+| Ending the Rime - Part 1 | 0.20% | ~371 |
 | The Haunted Jungle | 0.20% | ~438 |
 | Poor Guidance | 0.20% | ~438 |
 | All The World's A Stage | 0.20% | ~371 |
@@ -489,7 +490,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Leemooggoogoon Rises | 0.10% | ~185 |
 | Stragglers | 0.10% | ~185 |
 | Volo's Guide to Kuo-toa | 0.10% | ~185 |
-| Ending the Rime - Part 1 | 0.10% | ~185 |
 | Ambitious Speakers - Part 1 | 0.10% | ~185 |
 | Shady Sidekicks - Part 1 | 0.10% | ~185 |
 | Ending the Rime - Part 2 | 0.10% | ~185 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,986 (Ranked 53)  
+Progressed: 218,995 (Ranked 53)  
 Completed: 2,153 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 2,153 (0.98%) (Ranked 113)
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
-| 2023-08-05 | 218,986 | 2,153 |
+| 2023-08-05 | 218,995 | 2,153 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,900 (Ranked 38)  

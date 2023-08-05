@@ -5560,9 +5560,9 @@
       "Count": 3341
     }
   ],
-  "EOS_Progressed": 218986,
+  "EOS_Progressed": 218995,
   "EOS_Completed": 2153,
-  "EOS_NewPlayers": 2200,
+  "EOS_NewPlayers": 2196,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17125,6 +17125,11 @@
       "Time": "2023-08-05T18:04:17.2074351+00:00",
       "NumProgressed": 218986,
       "NumCompleted": 2153
+    },
+    {
+      "Time": "2023-08-05T19:03:15.2667172+00:00",
+      "NumProgressed": 218995,
+      "NumCompleted": 2153
     }
   ],
   "TotalAchievements": 512,
@@ -17136,7 +17141,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8759
+      "UsersEstimate": 8760
     },
     {
       "ID": "objective_completed_10",
@@ -20806,9 +20811,9 @@
       "ID": "objective_completed_887",
       "SetID": "415jc5c",
       "Name": "Ending the Rime - Part 1",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 371
     },
     {
       "ID": "objective_completed_888",
@@ -21006,9 +21011,9 @@
       "ID": "objective_completed_94",
       "SetID": "cc37lbc",
       "Name": "The Templar\u0027s Camp",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 657
+      "UsersEstimate": 876
     },
     {
       "ID": "objective_completed_95",
@@ -21231,21 +21236,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185260,
+      "Progressed": 185269,
       "Completed": 3058
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218986,
+      "Progressed": 218995,
       "Completed": 2153
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-05T04:59:24.4871745+00:00",
-  "LastChanged_Achievements": "2023-08-05T18:04:17.2074346+00:00",
+  "LastChanged_Achievements": "2023-08-05T19:03:15.2667167+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-05T18:00:59.8393624+00:00",
-  "LastUpdate_Achievements": "2023-08-05T18:04:17.2098895+00:00"
+  "LastUpdate_Ratings": "2023-08-05T18:59:46.7772652+00:00",
+  "LastUpdate_Achievements": "2023-08-05T19:03:15.2697599+00:00"
 }

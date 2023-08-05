@@ -26,6 +26,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 1.00% | ~133 |
 | Pioneer | 1.00% | ~133 |
 | Strong | 1.00% | ~133 |
+| Warrior | 1.00% | ~133 |
 | Developing Cities | 1.00% | ~133 |
 | Hanging Gardens | 1.00% | ~133 |
 | Lighthouse | 1.00% | ~133 |
@@ -37,15 +38,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~133 |
 | Trade Caravan | 1.00% | ~133 |
 | Poetic Leader | 1.00% | ~133 |
-| Magnificent | 0.90% | ~119 |
-| Warrior | 0.90% | ~119 |
-| Strong Cities | 0.90% | ~119 |
-| Able Difficulty | 0.90% | ~119 |
-| Ishtar Gate | 0.90% | ~119 |
-| Christianity | 0.90% | ~119 |
-| Carthaginian Paganism | 0.90% | ~119 |
-| Roman Paganism | 0.90% | ~119 |
-| Zoroastrianism | 0.90% | ~119 |
+| Magnificent | 0.90% | ~120 |
+| Strong Cities | 0.90% | ~120 |
+| Able Difficulty | 0.90% | ~120 |
+| Ishtar Gate | 0.90% | ~120 |
+| Christianity | 0.90% | ~120 |
+| Carthaginian Paganism | 0.90% | ~120 |
+| Roman Paganism | 0.90% | ~120 |
+| Zoroastrianism | 0.90% | ~120 |
 | Brilliant | 0.80% | ~106 |
 | Fountainhead | 0.80% | ~106 |
 | Great | 0.80% | ~106 |
@@ -56,6 +56,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.80% | ~106 |
 | Manichaeism | 0.80% | ~106 |
 | Regicide | 0.70% | ~93 |
+| Legendary Cities | 0.70% | ~93 |
 | Just Difficulty | 0.70% | ~93 |
 | Furious Family | 0.70% | ~93 |
 | Apadana | 0.70% | ~93 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.60% | ~80 |
 | Intercessor | 0.60% | ~80 |
 | Valiant | 0.60% | ~80 |
-| Legendary Cities | 0.60% | ~80 |
 | Sages | 0.60% | ~80 |
 | Acropolis | 0.60% | ~80 |
 | Mausoleum | 0.60% | ~80 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,277 (Ranked 117)  
+Progressed: 13,280 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -410,7 +410,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-02 | 13,244 | 5 |
 | 2023-08-03 | 13,260 | 5 |
 | 2023-08-04 | 13,269 | 5 |
-| 2023-08-05 | 13,277 | 5 |
+| 2023-08-05 | 13,280 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 264)  
 Sum: 1,786 (Ranked 206)  
