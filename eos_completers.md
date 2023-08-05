@@ -25,8 +25,8 @@
 | 23 | [Remains](games/r/remains.md) | 10.64% |
 | 24 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.61% |
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
-| 26 | [Sonic Origins](games/s/sonic_origins.md) | 10.03% |
-| 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
+| 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
+| 26 | [Sonic Origins](games/s/sonic_origins.md) | 10.00% |
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.09% |
 | 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.01% |
 | 30 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.93% |
@@ -44,7 +44,7 @@
 | 42 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.66% |
 | 43 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
 | 44 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.00% |
-| 45 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.89% |
+| 45 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.88% |
 | 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.82% |
 | 47 | [JARS](games/j/jars.md) | 4.76% |
 | 48 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.71% |
@@ -69,9 +69,9 @@
 | 67 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 68 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.88% |
 | 69 | [HordeCore](games/h/hordecore.md) | 2.87% |
-| 70 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.86% |
+| 70 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.82% |
 | 71 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.78% |
-| 72 | [Destiny 2](games/d/destiny_2.md) | 2.76% |
+| 72 | [Destiny 2](games/d/destiny_2.md) | 2.75% |
 | 73 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 73 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.73% |
 | 75 | [The Bunker](games/t/the_bunker.md) | 2.70% |
