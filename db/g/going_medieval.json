@@ -5,7 +5,7 @@
   "Ranking_Rating": 388,
   "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 238,
-  "Ranking_EOS_Progress": 139,
+  "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 107,
@@ -6991,9 +6991,9 @@
       "ID": "SURVIVE_FIRST_WINTER",
       "SetID": "5349c2e",
       "Name": "Winter Is Here",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1169
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -7063,8 +7063,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-03T20:00:30.0019484+00:00",
-  "LastChanged_Achievements": "2023-08-05T07:05:54.1742325+00:00",
+  "LastChanged_Achievements": "2023-08-05T08:04:12.1960646+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:53.1800311+00:00",
-  "LastUpdate_Ratings": "2023-08-05T07:03:03.5971833+00:00",
-  "LastUpdate_Achievements": "2023-08-05T07:05:54.1743094+00:00"
+  "LastUpdate_Ratings": "2023-08-05T08:00:06.4299274+00:00",
+  "LastUpdate_Achievements": "2023-08-05T08:04:12.1961208+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 77.00% | ~327 |
-| Close call! | 72.00% | ~306 |
-| Builder | 53.00% | ~225 |
+| Getting started | 77.00% | ~328 |
+| Close call! | 72.00% | ~307 |
+| Builder | 53.00% | ~226 |
 | Pangs of conscience | 46.00% | ~196 |
-| Living it large! | 44.00% | ~187 |
-| Collector | 42.00% | ~178 |
-| Need to think | 41.00% | ~174 |
-| Completely nuts! | 37.00% | ~157 |
+| Living it large! | 43.00% | ~183 |
+| Collector | 42.00% | ~179 |
+| Need to think | 41.00% | ~175 |
+| Completely nuts! | 37.00% | ~158 |
 | Just in time! | 32.00% | ~136 |
 | Europe | 30.00% | ~128 |
 | It's no coincidence. | 28.00% | ~119 |
@@ -28,8 +28,8 @@ Number of Ratings: 28  (23.09.2022)
 | Sabotage | 17.00% | ~72 |
 | America | 16.00% | ~68 |
 | Woodcutter | 11.00% | ~47 |
-| Engineer | 10.00% | ~42 |
-| Achtung! | 10.00% | ~42 |
+| Engineer | 10.00% | ~43 |
+| Achtung! | 10.00% | ~43 |
 | Japan | 9.00% | ~38 |
 | Tycoon | 8.00% | ~34 |
 | Germany | 6.00% | ~26 |
@@ -38,7 +38,7 @@ Number of Ratings: 28  (23.09.2022)
 | Peacemaker | 4.00% | ~17 |
 | Supercrash! | 4.00% | ~17 |
 | Forgotten | 3.00% | ~13 |
-| Lucky vandal | 2.00% | ~8 |
+| Lucky vandal | 2.00% | ~9 |
 | BBQ | 0.70% | ~3 |
 | Salesman | 0.70% | ~3 |
 | Vandal | 0.50% | ~2 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.50% | ~2 |
 | Maniac vandal | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 231)  
+Progressed: 426 (Ranked 231)  
 Completed: 2 (0.47%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 2 (0.47%) (Ranked 139)
 | 2023-08-02 | 419 | 2 |
 | 2023-08-03 | 422 | 2 |
 | 2023-08-04 | 425 | 2 |
+| 2023-08-05 | 426 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -44,7 +44,7 @@ Rating: 4.43 (Ranked 658)
 | Road Rage | 0.90% | ~31 |
 | Don't hold your breath | 0.90% | ~31 |
 | Shipbreaker | 0.80% | ~27 |
-| Sink or Swim | 0.70% | ~23 |
+| Sink or Swim | 0.70% | ~24 |
 | Strategist | 0.60% | ~20 |
 | From Paris with Love | 0.60% | ~20 |
 | Burn after reading | 0.60% | ~20 |
@@ -77,7 +77,7 @@ Rating: 4.43 (Ranked 658)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,406 (Ranked 150)  
+Progressed: 3,407 (Ranked 150)  
 Completed: 9 (0.26%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 9 (0.26%) (Ranked 164)
 | 2023-08-02 | 3,396 | 9 |
 | 2023-08-03 | 3,401 | 9 |
 | 2023-08-04 | 3,405 | 9 |
-| 2023-08-05 | 3,406 | 9 |
+| 2023-08-05 | 3,407 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

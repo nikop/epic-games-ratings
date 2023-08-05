@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126,
+  "EOS_Progressed": 127,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -516,6 +516,11 @@
       "Time": "2023-08-05T00:04:42.9332944+00:00",
       "NumProgressed": 126,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-05T08:04:45.753326+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -686,7 +691,7 @@
       "ID": "ACHIEVEMENT_ID_27",
       "SetID": "c504de6",
       "Name": "The 4 Pillars",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 64
     },
@@ -798,9 +803,9 @@
       "ID": "ACHIEVEMENT_ID_4",
       "SetID": "c504de6",
       "Name": "First Step",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -879,14 +884,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-08-05T07:06:41.1343703+00:00",
+  "LastChanged_Achievements": "2023-08-05T08:04:45.7533255+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:41.7077293+00:00",
-  "LastUpdate_Ratings": "2023-08-05T07:01:35.6663686+00:00",
-  "LastUpdate_Achievements": "2023-08-05T07:06:41.1344142+00:00"
+  "LastUpdate_Ratings": "2023-08-05T07:59:08.5263804+00:00",
+  "LastUpdate_Achievements": "2023-08-05T08:04:45.7533631+00:00"
 }

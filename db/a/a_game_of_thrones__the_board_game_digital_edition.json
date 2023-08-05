@@ -1269,9 +1269,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 20521,
+  "EOS_Progressed": 20526,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 681,
+  "EOS_NewPlayers": 685,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -12554,6 +12554,11 @@
       "Time": "2023-08-05T06:07:08.1778312+00:00",
       "NumProgressed": 20521,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-05T08:04:24.4206794+00:00",
+      "NumProgressed": 20526,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 22,
@@ -12573,7 +12578,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "1017",
@@ -12581,7 +12586,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "1018",
@@ -12589,7 +12594,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "1019",
@@ -12597,7 +12602,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "1020",
@@ -12613,7 +12618,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "1022",
@@ -12621,7 +12626,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "1023",
@@ -12645,7 +12650,7 @@
       "Name": "King in the North",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "1026",
@@ -12669,7 +12674,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3694
+      "UsersEstimate": 3695
     },
     {
       "ID": "1029",
@@ -12685,7 +12690,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4104
+      "UsersEstimate": 4105
     },
     {
       "ID": "1031",
@@ -12693,7 +12698,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2874
     },
     {
       "ID": "1032",
@@ -12701,7 +12706,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 8208
+      "UsersEstimate": 8210
     },
     {
       "ID": "1033",
@@ -12717,7 +12722,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "1035",
@@ -12740,15 +12745,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 20521,
+      "Progressed": 20526,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-08-02T00:02:09.7226533+00:00",
-  "LastChanged_Achievements": "2023-08-05T07:06:11.4530038+00:00",
+  "LastChanged_Achievements": "2023-08-05T08:04:24.4206788+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:16.1086425+00:00",
-  "LastUpdate_Ratings": "2023-08-05T07:03:28.7764405+00:00",
-  "LastUpdate_Achievements": "2023-08-05T07:06:11.4530946+00:00"
+  "LastUpdate_Ratings": "2023-08-05T08:00:22.8929078+00:00",
+  "LastUpdate_Achievements": "2023-08-05T08:04:24.4207757+00:00"
 }

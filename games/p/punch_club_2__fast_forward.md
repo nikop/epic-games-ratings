@@ -65,7 +65,7 @@
 | The heart of the Resistance | 29.00% | ~64 |
 | Family comes first | 28.00% | ~62 |
 | Careerist | 28.00% | ~62 |
-| Anyone can resist | 27.00% | ~60 |
+| Anyone can resist | 28.00% | ~62 |
 | Trap disarmed | 26.00% | ~58 |
 | Silver’s past | 25.00% | ~56 |
 | Better cooking at home | 25.00% | ~56 |

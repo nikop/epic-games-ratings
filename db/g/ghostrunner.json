@@ -1032,9 +1032,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14457,
+  "EOS_Progressed": 14458,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 705,
+  "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -12357,6 +12357,11 @@
       "Time": "2023-08-05T06:07:02.7757792+00:00",
       "NumProgressed": 14457,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-08-05T08:04:20.6259865+00:00",
+      "NumProgressed": 14458,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 45,
@@ -12464,7 +12469,7 @@
       "Name": "I call it luck",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 6361
+      "UsersEstimate": 6362
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -12472,7 +12477,7 @@
       "Name": "Improvise, adapt, overrun",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "Junkrunner",
@@ -12504,7 +12509,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 10987
+      "UsersEstimate": 10988
     },
     {
       "ID": "MoreThanHuman",
@@ -12560,7 +12565,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 4626
+      "UsersEstimate": 4627
     },
     {
       "ID": "PreempativeStrike",
@@ -12568,7 +12573,7 @@
       "Name": "Pre-empative strike",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "PushItToTheLimit",
@@ -12600,7 +12605,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3903
+      "UsersEstimate": 3904
     },
     {
       "ID": "Scrapped",
@@ -12640,7 +12645,7 @@
       "Name": "Sword Runner",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 8963
+      "UsersEstimate": 8964
     },
     {
       "ID": "SwordToAGunfight",
@@ -12704,7 +12709,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 5927
+      "UsersEstimate": 5928
     },
     {
       "ID": "WhereHeStood",
@@ -12727,21 +12732,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 14457,
+      "Progressed": 14458,
       "Completed": 33
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 14457,
+      "Progressed": 14458,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-07-31T08:58:47.177129+00:00",
-  "LastChanged_Achievements": "2023-08-05T07:06:06.0244821+00:00",
+  "LastChanged_Achievements": "2023-08-05T08:04:20.625986+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:55.4271201+00:00",
-  "LastUpdate_Ratings": "2023-08-05T07:00:44.1695265+00:00",
-  "LastUpdate_Achievements": "2023-08-05T07:06:06.0245872+00:00"
+  "LastUpdate_Ratings": "2023-08-05T07:58:34.9971648+00:00",
+  "LastUpdate_Achievements": "2023-08-05T08:04:20.6260943+00:00"
 }

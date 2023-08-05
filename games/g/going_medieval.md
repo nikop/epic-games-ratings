@@ -26,7 +26,7 @@ Number of Ratings: 706  (23.09.2022)
 | Luminary Researcher | 33.00% | ~1,677 |
 | Heating Up | 29.00% | ~1,474 |
 | Winter Is Coming | 26.00% | ~1,321 |
-| Winter Is Here | 22.00% | ~1,118 |
+| Winter Is Here | 23.00% | ~1,169 |
 | Disassembled | 20.00% | ~1,016 |
 | A Party Now | 19.00% | ~966 |
 | Oh Deer! | 19.00% | ~966 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~102 |
 | Wabbit Season | 0.60% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,082 (Ranked 139)  
+Progressed: 5,082 (Ranked 140)  
 Completed: 10 (0.20%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
