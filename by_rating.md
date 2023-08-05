@@ -76,7 +76,7 @@
 | 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,339 | 53 |
 | 66 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 397 | 213 |
 | 76 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 421 | 206 |
-| 76 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 228 | 259 |
+| 76 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 229 | 259 |
 | 76 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.81 | 0 | 509 |
 | 76 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.81 | 0 | 509 |
 | 76 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 28 | 466 |
@@ -216,7 +216,7 @@
 | 213 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 509 |
 | 213 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 509 |
 | 213 | [DOOM II](games/d/doom_ii.md) | 4.69 | 26 | 473 |
-| 213 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,611 | 62 |
+| 213 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,617 | 62 |
 | 213 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.69 | 0 | 509 |
 | 213 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,660 | 71 |
 | 213 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.69 | 0 | 509 |
@@ -582,7 +582,7 @@
 | 576 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 36,150 | 13 |
 | 576 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 243 |
 | 576 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 0 | 509 |
-| 576 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 245 | 252 |
+| 576 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 246 | 252 |
 | 576 | [Maneater](games/m/maneater.md) | 4.49 | 13,607 | 26 |
 | 576 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 451 |
 | 576 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 493,580 | 2 |
@@ -694,7 +694,7 @@
 | 678 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 0 | 509 |
 | 678 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 554 | 188 |
 | 678 | [Warpips](games/w/warpips.md) | 4.41 | 26 | 473 |
-| 678 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,242 | 132 |
+| 678 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,246 | 132 |
 | 696 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 509 |
 | 696 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 509 |
 | 696 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 434 | 203 |
@@ -809,15 +809,15 @@
 | 806 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 509 |
 | 806 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 509 |
 | 806 | [Godlike Burger](games/g/godlike_burger.md) | 4.27 | 0 | 509 |
+| 806 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 0 | 509 |
 | 806 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,510 | 99 |
 | 806 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 509 |
-| 812 | [Against All Odds](games/a/against_all_odds.md) | 4.26 | 0 | 509 |
-| 812 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 509 |
-| 812 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 29 | 461 |
-| 812 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 509 |
-| 812 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.26 | 0 | 509 |
-| 812 | [The Fall](games/t/the_fall.md) | 4.26 | 0 | 509 |
-| 812 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 235 |
+| 813 | [Against All Odds](games/a/against_all_odds.md) | 4.26 | 0 | 509 |
+| 813 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 509 |
+| 813 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 29 | 461 |
+| 813 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 509 |
+| 813 | [The Fall](games/t/the_fall.md) | 4.26 | 0 | 509 |
+| 813 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 235 |
 | 819 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 491 |
 | 819 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 16,636 | 21 |
 | 819 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,053 | 139 |

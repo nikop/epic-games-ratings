@@ -24,7 +24,7 @@
 | 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.64% |
 | 22 | [Remains](games/r/remains.md) | 10.64% |
 | 24 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
-| 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.08% |
+| 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.05% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.12% |
 | 28 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.09% |
@@ -65,7 +65,7 @@
 | 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.17% |
 | 64 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.06% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.04% |
-| 66 | [Monster Harvest](games/m/monster_harvest.md) | 2.97% |
+| 66 | [Monster Harvest](games/m/monster_harvest.md) | 2.96% |
 | 67 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 68 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.88% |
 | 69 | [HordeCore](games/h/hordecore.md) | 2.87% |
