@@ -11,12 +11,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 0.60% | ~804 |
 | Tinkle of Coins | 0.60% | ~804 |
 | Disintermediation | 0.50% | ~670 |
+| Capitalism Ho! | 0.50% | ~670 |
 | Another Satisfied Customer | 0.40% | ~536 |
 | It's Free Real Estate | 0.40% | ~536 |
 | Budding Merchant | 0.40% | ~536 |
-| Capitalism Ho! | 0.40% | ~536 |
 | One Easy Payment | 0.30% | ~402 |
 | Some Assembly Required | 0.30% | ~402 |
+| Bounty Hunters | 0.30% | ~402 |
 | Pretty Penny | 0.30% | ~402 |
 | One-Armed Bandit | 0.30% | ~402 |
 | Through Repetition, Perfection | 0.30% | ~402 |
@@ -26,7 +27,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ascended | 0.20% | ~268 |
 | Research & Development | 0.20% | ~268 |
 | Vanity, Verily | 0.20% | ~268 |
-| Bounty Hunters | 0.20% | ~268 |
 | Fated Encounters | 0.20% | ~268 |
 | Blank Page Syndrome | 0.20% | ~268 |
 | Demand for Supplies | 0.20% | ~268 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,939 (Ranked 62)  
+Progressed: 133,943 (Ranked 62)  
 Completed: 128 (0.10%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 128 (0.10%) (Ranked 198)
 | 2023-08-02 | 133,764 | 126 |
 | 2023-08-03 | 133,815 | 128 |
 | 2023-08-04 | 133,890 | 128 |
-| 2023-08-05 | 133,939 | 128 |
+| 2023-08-05 | 133,943 | 128 |
 ## Awards
 Max (Great for Beginners): 4,688  (Ranked 70)  
 Sum: 27,051 (Ranked 46)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewPlayers": 30,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16966,
+  "EOS_Progressed": 16969,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3436,
+  "EOS_NewPlayers": 3340,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7409,6 +7409,11 @@
       "Time": "2023-08-05T17:04:35.547302+00:00",
       "NumProgressed": 16966,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-05T18:06:30.4446481+00:00",
+      "NumProgressed": 16969,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -7420,7 +7425,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5090
+      "UsersEstimate": 5091
     },
     {
       "ID": "0002",
@@ -7436,7 +7441,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2884
+      "UsersEstimate": 2885
     },
     {
       "ID": "0004",
@@ -7484,7 +7489,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3902
+      "UsersEstimate": 3903
     },
     {
       "ID": "0010",
@@ -7516,7 +7521,7 @@
       "Name": "Keycards Royale",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "0014",
@@ -7524,7 +7529,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2884
+      "UsersEstimate": 2885
     },
     {
       "ID": "0015",
@@ -7572,7 +7577,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 11,
       "XP": 115,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "0021",
@@ -7628,7 +7633,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "0028",
@@ -7636,7 +7641,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3902
+      "UsersEstimate": 3903
     },
     {
       "ID": "0029",
@@ -7707,7 +7712,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 16966,
+      "Progressed": 16969,
       "Completed": 1
     }
   ],
@@ -7715,8 +7720,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-04T08:00:04.3199402+00:00",
-  "LastChanged_Achievements": "2023-08-05T17:04:35.5473009+00:00",
+  "LastChanged_Achievements": "2023-08-05T18:06:30.4446475+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-05T17:01:23.1249425+00:00",
-  "LastUpdate_Achievements": "2023-08-05T17:04:35.5473899+00:00"
+  "LastUpdate_Ratings": "2023-08-05T18:02:55.5432011+00:00",
+  "LastUpdate_Achievements": "2023-08-05T18:06:30.4447028+00:00"
 }

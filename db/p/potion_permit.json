@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -354,7 +354,7 @@
   ],
   "EOS_Progressed": 1531,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -1990,9 +1990,9 @@
       "ID": "ACHIEVEMENTS_24",
       "SetID": "d4o538a",
       "Name": "Stone Specialist",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENTS_25",
@@ -2119,8 +2119,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-08-02T21:57:10.4950325+00:00",
-  "LastChanged_Achievements": "2023-08-05T17:04:17.1242788+00:00",
+  "LastChanged_Achievements": "2023-08-05T18:06:12.8063819+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:21.7121731+00:00",
-  "LastUpdate_Ratings": "2023-08-05T16:57:13.7999958+00:00",
-  "LastUpdate_Achievements": "2023-08-05T17:04:17.1243266+00:00"
+  "LastUpdate_Ratings": "2023-08-05T17:58:51.9323588+00:00",
+  "LastUpdate_Achievements": "2023-08-05T18:06:12.8064112+00:00"
 }

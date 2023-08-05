@@ -41,7 +41,7 @@ Number of Ratings: 209  (23.09.2022)
 | Diamond Pickaxe | 77.00% | ~1,682 |
 | Killed them all | 76.00% | ~1,661 |
 | Trickle Down Economy | 76.00% | ~1,661 |
-| Win | 75.00% | ~1,639 |
+| Win | 76.00% | ~1,661 |
 | Greenhouse | 72.00% | ~1,573 |
 | Played with fire | 70.00% | ~1,530 |
 | You feel very sorry | 70.00% | ~1,530 |
@@ -61,7 +61,7 @@ Number of Ratings: 209  (23.09.2022)
 | All the chests | 13.00% | ~284 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,185 (Ranked 166)  
-Completed: 261 (11.95%) (Ranked 17)  
+Completed: 261 (11.95%) (Ranked 18)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

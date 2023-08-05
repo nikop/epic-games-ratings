@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 647,
+  "Ranking_Rating": 645,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 150,
@@ -6222,9 +6222,9 @@
       "ID": "REWARD_DLC04_02_SINK_OR_SWIM",
       "SetID": "83mdf7p",
       "Name": "Sink or Swim",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_DLC04_03_GOING_OVERBOARD",
@@ -6253,8 +6253,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-05T14:57:23.5179626+00:00",
-  "LastChanged_Achievements": "2023-08-05T17:05:46.0141415+00:00",
+  "LastChanged_Achievements": "2023-08-05T18:07:38.6060671+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:33.5601025+00:00",
-  "LastUpdate_Ratings": "2023-08-05T16:57:32.5030296+00:00",
-  "LastUpdate_Achievements": "2023-08-05T17:05:46.0142592+00:00"
+  "LastUpdate_Ratings": "2023-08-05T17:59:10.8224528+00:00",
+  "LastUpdate_Achievements": "2023-08-05T18:07:38.6061489+00:00"
 }

@@ -745,9 +745,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 34160,
+  "EOS_Progressed": 34162,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 981,
+  "EOS_NewPlayers": 974,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12410,6 +12410,11 @@
       "Time": "2023-08-05T17:04:52.9482907+00:00",
       "NumProgressed": 34160,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-05T18:06:47.6465223+00:00",
+      "NumProgressed": 34162,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -12477,7 +12482,7 @@
       "Name": "Amateur",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3074
+      "UsersEstimate": 3075
     },
     {
       "ID": "goals75",
@@ -12732,15 +12737,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 34160,
+      "Progressed": 34162,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-28T06:00:25.7046366+00:00",
-  "LastChanged_Achievements": "2023-08-05T17:04:52.9482895+00:00",
+  "LastChanged_Achievements": "2023-08-05T18:06:47.6465215+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:18.9047127+00:00",
-  "LastUpdate_Ratings": "2023-08-05T17:00:59.8028146+00:00",
-  "LastUpdate_Achievements": "2023-08-05T17:04:52.9484178+00:00"
+  "LastUpdate_Ratings": "2023-08-05T18:02:30.1309564+00:00",
+  "LastUpdate_Achievements": "2023-08-05T18:06:47.6465992+00:00"
 }

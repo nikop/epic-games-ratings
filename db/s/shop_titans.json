@@ -5434,9 +5434,9 @@
       "Count": 3728
     }
   ],
-  "EOS_Progressed": 133939,
+  "EOS_Progressed": 133943,
   "EOS_Completed": 128,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16339,6 +16339,11 @@
       "Time": "2023-08-05T17:04:56.2691761+00:00",
       "NumProgressed": 133939,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2023-08-05T18:06:50.9567271+00:00",
+      "NumProgressed": 133943,
+      "NumCompleted": 128
     }
   ],
   "TotalAchievements": 112,
@@ -16484,9 +16489,9 @@
       "ID": "boss01",
       "SetID": "anfd17p",
       "Name": "Bounty Hunters",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 402
     },
     {
       "ID": "boss02",
@@ -17124,9 +17129,9 @@
       "ID": "sell01",
       "SetID": "anfd17p",
       "Name": "Capitalism Ho!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 670
     },
     {
       "ID": "sell02",
@@ -17245,15 +17250,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133939,
+      "Progressed": 133943,
       "Completed": 128
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-05T14:59:15.8010932+00:00",
-  "LastChanged_Achievements": "2023-08-05T17:04:56.2691751+00:00",
+  "LastChanged_Achievements": "2023-08-05T18:06:50.9567265+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.2056858+00:00",
-  "LastUpdate_Ratings": "2023-08-05T16:59:52.4977602+00:00",
-  "LastUpdate_Achievements": "2023-08-05T17:04:56.2694213+00:00"
+  "LastUpdate_Ratings": "2023-08-05T18:01:23.4866797+00:00",
+  "LastUpdate_Achievements": "2023-08-05T18:06:50.9568984+00:00"
 }

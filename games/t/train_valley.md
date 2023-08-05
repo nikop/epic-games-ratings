@@ -1,17 +1,17 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.45 (Ranked 630)  
+Rating: 4.46 (Ranked 616)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting started | 76.00% | ~325 |
-| Close call! | 72.00% | ~307 |
-| Builder | 52.00% | ~222 |
-| Pangs of conscience | 46.00% | ~196 |
+| Close call! | 71.00% | ~304 |
+| Builder | 52.00% | ~223 |
+| Pangs of conscience | 46.00% | ~197 |
 | Living it large! | 43.00% | ~184 |
-| Collector | 42.00% | ~179 |
+| Collector | 42.00% | ~180 |
 | Need to think | 41.00% | ~175 |
 | Completely nuts! | 37.00% | ~158 |
 | Just in time! | 32.00% | ~137 |
@@ -21,7 +21,7 @@ Number of Ratings: 28  (23.09.2022)
 | Philatelist | 25.00% | ~107 |
 | Let's roll! | 25.00% | ~107 |
 | Non Stop! | 25.00% | ~107 |
-| Ouroboros | 24.00% | ~102 |
+| Ouroboros | 24.00% | ~103 |
 | Foreman | 21.00% | ~90 |
 | Missed it! | 19.00% | ~81 |
 | Russia | 17.00% | ~73 |
@@ -30,7 +30,7 @@ Number of Ratings: 28  (23.09.2022)
 | Woodcutter | 11.00% | ~47 |
 | Engineer | 10.00% | ~43 |
 | Achtung! | 10.00% | ~43 |
-| Japan | 9.00% | ~38 |
+| Japan | 9.00% | ~39 |
 | Tycoon | 8.00% | ~34 |
 | Germany | 6.00% | ~26 |
 | Chuck Norris | 5.00% | ~21 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.50% | ~2 |
 | Maniac vandal | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427 (Ranked 231)  
+Progressed: 428 (Ranked 231)  
 Completed: 2 (0.47%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 2 (0.47%) (Ranked 140)
 | 2023-08-02 | 419 | 2 |
 | 2023-08-03 | 422 | 2 |
 | 2023-08-04 | 425 | 2 |
-| 2023-08-05 | 427 | 2 |
+| 2023-08-05 | 428 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -123,3 +123,4 @@ Completed: 2 (0.47%) (Ranked 140)
 | 2023-03-31 | 4.47 | - | 0 | 0 |
 | 2023-07-28 | 4.46 | - | 0 | 0 |
 | 2023-08-02 | 4.45 | - | 0 | 0 |
+| 2023-08-05 | 4.46 | - | 0 | 0 |

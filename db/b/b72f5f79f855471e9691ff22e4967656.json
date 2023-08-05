@@ -755,9 +755,9 @@
       "ID": "questGenerous",
       "SetID": "ci65fo0",
       "Name": "Generous",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "questHallucinationsKing",
@@ -920,8 +920,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-05T17:03:39.7996036+00:00",
+  "LastChanged_Achievements": "2023-08-05T18:05:36.7585629+00:00",
   "LastUpdate_AppInfo": "2023-08-02T10:57:06.3883378+00:00",
-  "LastUpdate_Ratings": "2023-08-05T16:57:44.7264556+00:00",
-  "LastUpdate_Achievements": "2023-08-05T17:03:39.7996941+00:00"
+  "LastUpdate_Ratings": "2023-08-05T17:59:24.252527+00:00",
+  "LastUpdate_Achievements": "2023-08-05T18:05:36.758624+00:00"
 }

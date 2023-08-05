@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -898,9 +898,9 @@
       "ID": "fight_win_1",
       "SetID": "69co12a",
       "Name": "First winning",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 192
     },
     {
       "ID": "fight_win_10",
@@ -1034,9 +1034,9 @@
       "ID": "law_student",
       "SetID": "69co12a",
       "Name": "Law student",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 136
     },
     {
       "ID": "league_1",
@@ -1082,9 +1082,9 @@
       "ID": "met_k",
       "SetID": "69co12a",
       "Name": "Depressed visitor",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 174
     },
     {
       "ID": "mick_house",
@@ -1114,9 +1114,9 @@
       "ID": "nero_basic",
       "SetID": "69co12a",
       "Name": "Neurotrainer \u2013 power gainer!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 172
     },
     {
       "ID": "nero_extrime",
@@ -1234,9 +1234,9 @@
       "ID": "sleep_candy",
       "SetID": "69co12a",
       "Name": "Intriguing candies",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 131
     },
     {
       "ID": "soft_install",
@@ -1321,8 +1321,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-05T17:04:04.6841589+00:00",
+  "LastChanged_Achievements": "2023-08-05T18:06:00.7869562+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:48.1217165+00:00",
-  "LastUpdate_Ratings": "2023-08-05T16:58:30.380347+00:00",
-  "LastUpdate_Achievements": "2023-08-05T17:04:04.6842482+00:00"
+  "LastUpdate_Ratings": "2023-08-05T18:00:08.0164494+00:00",
+  "LastUpdate_Achievements": "2023-08-05T18:06:00.7870081+00:00"
 }

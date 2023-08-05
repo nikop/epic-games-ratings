@@ -7,13 +7,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,759 |
-| Beast Intentions | 3.00% | ~6,569 |
-| Maddening | 2.00% | ~4,379 |
+| Beast Intentions | 3.00% | ~6,570 |
+| Maddening | 2.00% | ~4,380 |
 | The Silken Swamp | 1.00% | ~2,190 |
 | Supply Run | 1.00% | ~2,190 |
-| Vecna Lives! | 1.00% | ~1,852 |
-| Rocky Reception | 1.00% | ~1,852 |
-| Rock and Roll | 1.00% | ~1,852 |
+| Vecna Lives! | 1.00% | ~1,853 |
+| Rocky Reception | 1.00% | ~1,853 |
+| Rock and Roll | 1.00% | ~1,853 |
 | Flight of the Kindori Pod | 0.90% | ~1,667 |
 | Tall Tales | 0.80% | ~1,482 |
 | Seeds of Destruction | 0.80% | ~1,482 |
@@ -24,12 +24,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.70% | ~1,533 |
 | The Cursed Farmer | 0.70% | ~1,533 |
 | Pros and CONs | 0.60% | ~1,314 |
-| The Witchlight Carnival | 0.60% | ~1,111 |
+| The Witchlight Carnival | 0.60% | ~1,112 |
 | Hatchlings Underfoot | 0.60% | ~1,314 |
 | Don't Look Up! | 0.60% | ~1,314 |
-| The Evacuation of Waterdeep | 0.60% | ~1,111 |
-| Heatwave | 0.60% | ~1,111 |
-| The Dread Domain of Tovag | 0.60% | ~1,111 |
+| The Evacuation of Waterdeep | 0.60% | ~1,112 |
+| Heatwave | 0.60% | ~1,112 |
+| The Dread Domain of Tovag | 0.60% | ~1,112 |
 | A Persistent Buzzing | 0.60% | ~1,314 |
 | Beast Mode | 0.60% | ~1,314 |
 | Terror in the Dark | 0.60% | ~1,314 |
@@ -38,7 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.60% | ~1,314 |
 | The Dinner Party | 0.60% | ~1,314 |
 | The Mad Wizard | 0.60% | ~1,314 |
-| The Champion's Guide to Wildspace | 0.60% | ~1,111 |
+| The Champion's Guide to Wildspace | 0.60% | ~1,112 |
 | Thieves of the Coven | 0.50% | ~926 |
 | Heavy Burden | 0.50% | ~1,095 |
 | Friends of the Forest | 0.50% | ~1,095 |
@@ -97,6 +97,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slack-jawed Lorna | 0.30% | ~556 |
 | The Fairy Rings of Thither | 0.30% | ~556 |
 | Will of the Feywild | 0.30% | ~556 |
+| Flapjacks and Waffles | 0.30% | ~556 |
 | Well Equipped | 0.30% | ~556 |
 | More Than Well Equipped | 0.30% | ~556 |
 | Keep Your Distance | 0.30% | ~556 |
@@ -161,30 +162,29 @@ Number of Ratings: 9,041  (23.09.2022)
 | Willing to Sacrifice | 0.30% | ~556 |
 | Tiny Treaty | 0.30% | ~556 |
 | Starving in the Jungle | 0.20% | ~438 |
-| Cold as Ice | 0.20% | ~370 |
-| Friends and Foes | 0.20% | ~370 |
-| An Unexpected Geist | 0.20% | ~370 |
-| A Monarch Among Us | 0.20% | ~370 |
-| A Dragon Against Us | 0.20% | ~370 |
-| Sticky Fingers | 0.20% | ~370 |
-| Patron Party | 0.20% | ~370 |
-| The Spire of Iriolarthas | 0.20% | ~370 |
-| The Fall of Ythryn | 0.20% | ~370 |
-| A Lesson in Classes | 0.20% | ~370 |
-| Bully for You! | 0.20% | ~370 |
-| The Dark Heart | 0.20% | ~370 |
-| The Alien Underdark | 0.20% | ~370 |
-| The Roots of Loomlurch | 0.20% | ~370 |
-| Best Laid Plans | 0.20% | ~370 |
-| The Howling Peaks of Yon | 0.20% | ~370 |
-| Flapjacks and Waffles | 0.20% | ~370 |
-| Overwhelmed with Knowledge | 0.20% | ~370 |
-| Arcane Efforts | 0.20% | ~370 |
-| To Avernus in a Handbasket | 0.20% | ~370 |
-| Hands Off! | 0.20% | ~370 |
-| Weak Doesn't Mean Feeble | 0.20% | ~370 |
-| Vecna Out! | 0.20% | ~370 |
-| Clowning Around | 0.20% | ~370 |
+| Cold as Ice | 0.20% | ~371 |
+| Friends and Foes | 0.20% | ~371 |
+| An Unexpected Geist | 0.20% | ~371 |
+| A Monarch Among Us | 0.20% | ~371 |
+| A Dragon Against Us | 0.20% | ~371 |
+| Sticky Fingers | 0.20% | ~371 |
+| Patron Party | 0.20% | ~371 |
+| The Spire of Iriolarthas | 0.20% | ~371 |
+| The Fall of Ythryn | 0.20% | ~371 |
+| A Lesson in Classes | 0.20% | ~371 |
+| Bully for You! | 0.20% | ~371 |
+| The Dark Heart | 0.20% | ~371 |
+| The Alien Underdark | 0.20% | ~371 |
+| The Roots of Loomlurch | 0.20% | ~371 |
+| Best Laid Plans | 0.20% | ~371 |
+| The Howling Peaks of Yon | 0.20% | ~371 |
+| Overwhelmed with Knowledge | 0.20% | ~371 |
+| Arcane Efforts | 0.20% | ~371 |
+| To Avernus in a Handbasket | 0.20% | ~371 |
+| Hands Off! | 0.20% | ~371 |
+| Weak Doesn't Mean Feeble | 0.20% | ~371 |
+| Vecna Out! | 0.20% | ~371 |
+| Clowning Around | 0.20% | ~371 |
 | Anti-Dexterous Explorers | 0.20% | ~438 |
 | Struggling Toward Omu | 0.20% | ~438 |
 | Not Very Charming | 0.20% | ~438 |
@@ -193,8 +193,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Double Vision | 0.20% | ~438 |
 | Haunted Fortunes | 0.20% | ~438 |
 | Poor Fortune | 0.20% | ~438 |
-| Thine Bounty is Mine! | 0.20% | ~370 |
-| This Quest Stinks! | 0.20% | ~370 |
+| Thine Bounty is Mine! | 0.20% | ~371 |
+| This Quest Stinks! | 0.20% | ~371 |
 | Hold for the Red Wizards | 0.20% | ~438 |
 | The Gargoyle's Apprentice | 0.20% | ~438 |
 | House of Darkness | 0.20% | ~438 |
@@ -217,33 +217,33 @@ Number of Ratings: 9,041  (23.09.2022)
 | Champions of Waterdeep | 0.20% | ~438 |
 | Once More Into The Breach | 0.20% | ~438 |
 | Wyllowwood | 0.20% | ~438 |
-| An Illithid Undertaking | 0.20% | ~370 |
-| Déjà Vu | 0.20% | ~370 |
-| Into The Fire | 0.20% | ~370 |
-| Dreamscape | 0.20% | ~370 |
-| The Path of Dreams | 0.20% | ~370 |
-| The Lost Hollyphant | 0.20% | ~370 |
-| Alterdeep | 0.20% | ~370 |
-| The Wandering Emporium | 0.20% | ~370 |
-| Tiamat's Army | 0.20% | ~370 |
-| Questlines | 0.20% | ~370 |
-| Bel's Forge | 0.20% | ~370 |
-| Rime Bandits | 0.20% | ~370 |
-| The Sibriex | 0.20% | ~370 |
-| Wrecked Flying Fortress | 0.20% | ~370 |
-| Dwarven Rumors | 0.20% | ~370 |
-| Sunblight | 0.20% | ~370 |
-| The Bleeding Citadel | 0.20% | ~370 |
-| Idyllglen | 0.20% | ~370 |
-| The Radiant Nightmare | 0.20% | ~370 |
-| Waiting on Sunrise | 0.20% | ~370 |
-| Deekin's Mission | 0.20% | ~370 |
-| Frozen Vengeance | 0.20% | ~370 |
-| The Battle of High Hall Tower | 0.20% | ~370 |
-| Elturel's Last Stand | 0.20% | ~370 |
+| An Illithid Undertaking | 0.20% | ~371 |
+| Déjà Vu | 0.20% | ~371 |
+| Into The Fire | 0.20% | ~371 |
+| Dreamscape | 0.20% | ~371 |
+| The Path of Dreams | 0.20% | ~371 |
+| The Lost Hollyphant | 0.20% | ~371 |
+| Alterdeep | 0.20% | ~371 |
+| The Wandering Emporium | 0.20% | ~371 |
+| Tiamat's Army | 0.20% | ~371 |
+| Questlines | 0.20% | ~371 |
+| Bel's Forge | 0.20% | ~371 |
+| Rime Bandits | 0.20% | ~371 |
+| The Sibriex | 0.20% | ~371 |
+| Wrecked Flying Fortress | 0.20% | ~371 |
+| Dwarven Rumors | 0.20% | ~371 |
+| Sunblight | 0.20% | ~371 |
+| The Bleeding Citadel | 0.20% | ~371 |
+| Idyllglen | 0.20% | ~371 |
+| The Radiant Nightmare | 0.20% | ~371 |
+| Waiting on Sunrise | 0.20% | ~371 |
+| Deekin's Mission | 0.20% | ~371 |
+| Frozen Vengeance | 0.20% | ~371 |
+| The Battle of High Hall Tower | 0.20% | ~371 |
+| Elturel's Last Stand | 0.20% | ~371 |
 | The Haunted Jungle | 0.20% | ~438 |
 | Poor Guidance | 0.20% | ~438 |
-| All The World's A Stage | 0.20% | ~370 |
+| All The World's A Stage | 0.20% | ~371 |
 | Keep Your Friends Close | 0.10% | ~185 |
 | And Your Enemies Closer | 0.10% | ~185 |
 | Back to Nature | 0.10% | ~185 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,964 (Ranked 53)  
+Progressed: 218,986 (Ranked 53)  
 Completed: 2,153 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 2,153 (0.98%) (Ranked 113)
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
-| 2023-08-05 | 218,964 | 2,153 |
+| 2023-08-05 | 218,986 | 2,153 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,900 (Ranked 38)  

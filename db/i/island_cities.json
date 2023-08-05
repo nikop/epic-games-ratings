@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 455,
+  "EOS_Progressed": 456,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 18.02,
+  "EOS_Completed_Percentage": 17.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2193,6 +2193,11 @@
       "Time": "2023-08-05T02:25:57.759771+00:00",
       "NumProgressed": 455,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-08-05T18:06:35.7191276+00:00",
+      "NumProgressed": 456,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 22,
@@ -2204,7 +2209,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "LEVEL_002",
@@ -2212,7 +2217,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "LEVEL_003",
@@ -2220,7 +2225,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "LEVEL_004",
@@ -2242,9 +2247,9 @@
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 200
+      "UsersEstimate": 196
     },
     {
       "ID": "LEVEL_007",
@@ -2284,7 +2289,7 @@
       "Name": "At the heart of the city",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "LEVEL_012",
@@ -2298,9 +2303,9 @@
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 105
     },
     {
       "ID": "LEVEL_014",
@@ -2348,7 +2353,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "LEVEL_020",
@@ -2379,7 +2384,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 455,
+      "Progressed": 456,
       "Completed": 82
     }
   ],
@@ -2387,8 +2392,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-08-05T17:04:40.8572166+00:00",
+  "LastChanged_Achievements": "2023-08-05T18:06:35.7191271+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:52.0261252+00:00",
-  "LastUpdate_Ratings": "2023-08-05T16:59:18.7688366+00:00",
-  "LastUpdate_Achievements": "2023-08-05T17:04:40.857254+00:00"
+  "LastUpdate_Ratings": "2023-08-05T18:00:52.9637353+00:00",
+  "LastUpdate_Achievements": "2023-08-05T18:06:35.7191492+00:00"
 }

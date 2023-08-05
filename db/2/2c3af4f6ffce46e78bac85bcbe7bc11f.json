@@ -3,9 +3,9 @@
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
   "Ranking_EOS_Progress": 391,
-  "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_Completed": 17,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-04-17T15:00:00+00:00",
@@ -20,10 +20,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 25,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 6,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 12,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -159,6 +159,11 @@
       "Time": "2023-08-04T20:03:55.4752127+00:00",
       "NumProgressed": 25,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-05T18:06:16.4833731+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 26,
@@ -184,9 +189,9 @@
       "ID": "Bonus",
       "SetID": "6j29jep",
       "Name": "Something more...",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Bonus_Fragile",
@@ -200,9 +205,9 @@
       "ID": "Butterfly",
       "SetID": "6j29jep",
       "Name": "Something gentle...",
-      "Percentage": 16,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Butterfly_Fragile",
@@ -232,9 +237,9 @@
       "ID": "Flower",
       "SetID": "6j29jep",
       "Name": "Something fully in bloom...",
-      "Percentage": 16,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Flower_Fragile",
@@ -272,9 +277,9 @@
       "ID": "Home",
       "SetID": "6j29jep",
       "Name": "Somewhere to belong...",
-      "Percentage": 16,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Home_Fragile",
@@ -320,9 +325,9 @@
       "ID": "Natural_Mode",
       "SetID": "6j29jep",
       "Name": "Something natural...",
-      "Percentage": 16,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Star",
@@ -360,9 +365,9 @@
       "ID": "Water",
       "SetID": "6j29jep",
       "Name": "Something reflective...",
-      "Percentage": 16,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Water_Fragile",
@@ -378,12 +383,12 @@
       "ID": "6j29jep",
       "IsBase": true,
       "Progressed": 25,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-08-05T17:04:20.8981349+00:00",
+  "LastChanged_Achievements": "2023-08-05T18:06:16.4833725+00:00",
   "LastUpdate_AppInfo": "2023-08-02T14:57:16.7657067+00:00",
-  "LastUpdate_Ratings": "2023-08-05T16:58:02.305469+00:00",
-  "LastUpdate_Achievements": "2023-08-05T17:04:20.8981593+00:00"
+  "LastUpdate_Ratings": "2023-08-05T17:59:39.2413742+00:00",
+  "LastUpdate_Achievements": "2023-08-05T18:06:16.4833876+00:00"
 }

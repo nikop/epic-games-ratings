@@ -189,9 +189,9 @@
       "ID": "Bloodlust",
       "SetID": "4nce15l",
       "Name": "Bloodlust",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "Determined",
@@ -342,8 +342,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-08-05T17:03:16.5922387+00:00",
+  "LastChanged_Achievements": "2023-08-05T18:05:14.2117509+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:58.0146204+00:00",
-  "LastUpdate_Ratings": "2023-08-05T17:00:32.757781+00:00",
-  "LastUpdate_Achievements": "2023-08-05T17:03:16.5922628+00:00"
+  "LastUpdate_Ratings": "2023-08-05T18:02:04.7260044+00:00",
+  "LastUpdate_Achievements": "2023-08-05T18:05:14.211762+00:00"
 }

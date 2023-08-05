@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2226,10 +2226,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4117,
       "NumberOfAwardsMax": 2478
+    },
+    {
+      "Time": "2023-08-05T18:03:08.3788179+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4119,
+      "NumberOfAwardsMax": 2478
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4117,
+  "NumberOfAwards": 4119,
   "NumberOfAwardsMax": 2478,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2285,7 +2291,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 205
+      "Count": 207
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2294,9 +2300,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67636,
+  "EOS_Progressed": 67638,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -11674,6 +11680,11 @@
       "Time": "2023-08-05T17:06:14.8430422+00:00",
       "NumProgressed": 67636,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-08-05T18:08:07.0306386+00:00",
+      "NumProgressed": 67638,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 61,
@@ -11909,7 +11920,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2705
+      "UsersEstimate": 2706
     },
     {
       "ID": "FREEZE_1_5",
@@ -11997,7 +12008,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2705
+      "UsersEstimate": 2706
     },
     {
       "ID": "HARLEY_3",
@@ -12061,7 +12072,7 @@
       "Name": "Knighthood",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2705
+      "UsersEstimate": 2706
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -12085,7 +12096,7 @@
       "Name": "Whispered Words",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2705
+      "UsersEstimate": 2706
     },
     {
       "ID": "MYSTERY_03",
@@ -12172,22 +12183,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67636,
+      "Progressed": 67638,
       "Completed": 106
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37916,
+      "Progressed": 37918,
       "Completed": 2655
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-08-05T17:01:36.2184593+00:00",
-  "LastChanged_Achievements": "2023-08-05T17:06:14.8430405+00:00",
+  "LastChanged": "2023-08-05T18:03:08.3788178+00:00",
+  "LastChanged_Achievements": "2023-08-05T18:08:07.0306379+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:47.9727791+00:00",
-  "LastUpdate_Ratings": "2023-08-05T17:01:36.2184605+00:00",
-  "LastUpdate_Achievements": "2023-08-05T17:06:14.8431785+00:00"
+  "LastUpdate_Ratings": "2023-08-05T18:03:08.3788187+00:00",
+  "LastUpdate_Achievements": "2023-08-05T18:08:07.0307263+00:00"
 }

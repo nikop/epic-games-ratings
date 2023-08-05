@@ -585,9 +585,9 @@
       "ID": "success_toni",
       "SetID": "6h5h9ho",
       "Name": "The athlete",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 68
+      "UsersEstimate": 71
     },
     {
       "ID": "success_ty",
@@ -618,8 +618,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-08-05T17:04:16.3743739+00:00",
+  "LastChanged_Achievements": "2023-08-05T18:06:11.9760212+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:45.1095211+00:00",
-  "LastUpdate_Ratings": "2023-08-05T16:58:25.7344768+00:00",
-  "LastUpdate_Achievements": "2023-08-05T17:04:16.3743976+00:00"
+  "LastUpdate_Ratings": "2023-08-05T18:00:03.4459353+00:00",
+  "LastUpdate_Achievements": "2023-08-05T18:06:11.9760331+00:00"
 }

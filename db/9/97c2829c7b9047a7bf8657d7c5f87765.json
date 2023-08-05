@@ -236,9 +236,9 @@
       "ID": "26",
       "SetID": "7095412",
       "Name": "Last Second",
-      "Percentage": 50,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "27",
@@ -426,8 +426,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-30T11:02:07.8457996+00:00",
-  "LastChanged_Achievements": "2023-08-05T17:05:44.4445502+00:00",
+  "LastChanged_Achievements": "2023-08-05T18:07:37.0056753+00:00",
   "LastUpdate_AppInfo": "2023-08-04T13:02:01.0870952+00:00",
-  "LastUpdate_Ratings": "2023-08-05T16:57:42.7771785+00:00",
-  "LastUpdate_Achievements": "2023-08-05T17:05:44.4445932+00:00"
+  "LastUpdate_Ratings": "2023-08-05T17:59:22.3299151+00:00",
+  "LastUpdate_Achievements": "2023-08-05T18:07:37.0057011+00:00"
 }
