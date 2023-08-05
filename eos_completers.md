@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.67% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.89% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 31.25% |
@@ -14,7 +14,7 @@
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.02% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.02% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 12.87% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 12.75% |
 | 16 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
 | 18 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 11.76% |
@@ -27,8 +27,8 @@
 | 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.03% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.12% |
-| 28 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.09% |
-| 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.97% |
+| 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.97% |
+| 29 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.93% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 31 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.00% |
 | 32 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -56,7 +56,7 @@
 | 54 | [Without Escape](games/w/without_escape.md) | 3.85% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.82% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.68% |
-| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.59% |
+| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.57% |
 | 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.48% |
 | 60 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
@@ -84,7 +84,7 @@
 | 82 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 83 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
 | 83 | [FORECLOSED](games/f/foreclosed.md) | 2.25% |
-| 85 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.05% |
+| 85 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.06% |
 | 86 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.98% |
 | 87 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 88 | [Night Book](games/n/night_book.md) | 1.90% |
@@ -113,7 +113,7 @@
 | 110 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.02% |
 | 112 | [Adios](games/a/adios.md) | 1.00% |
 | 113 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 114 | [Sable](games/s/sable.md) | 0.97% |
+| 113 | [Sable](games/s/sable.md) | 0.98% |
 | 115 | [Hades](games/h/hades.md) | 0.90% |
 | 116 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 117 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
