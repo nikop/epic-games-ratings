@@ -6,22 +6,23 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,751 |
-| Beast Intentions | 3.00% | ~6,563 |
-| Maddening | 2.00% | ~4,375 |
+| A Brief Tour of the Realms | 4.00% | ~8,752 |
+| Beast Intentions | 3.00% | ~6,564 |
+| Maddening | 2.00% | ~4,376 |
 | The Silken Swamp | 1.00% | ~2,188 |
 | Supply Run | 1.00% | ~2,188 |
-| Vecna Lives! | 1.00% | ~1,850 |
-| Rocky Reception | 1.00% | ~1,850 |
-| Rock and Roll | 1.00% | ~1,850 |
-| Flight of the Kindori Pod | 0.90% | ~1,665 |
-| Tall Tales | 0.80% | ~1,480 |
-| Vecna Loots! | 0.80% | ~1,480 |
-| Topolah's Tower | 0.80% | ~1,480 |
-| Wet Feet | 0.70% | ~1,531 |
+| Vecna Lives! | 1.00% | ~1,851 |
+| Rocky Reception | 1.00% | ~1,851 |
+| Rock and Roll | 1.00% | ~1,851 |
+| Flight of the Kindori Pod | 0.90% | ~1,666 |
+| Tall Tales | 0.80% | ~1,481 |
+| Vecna Loots! | 0.80% | ~1,481 |
+| Topolah's Tower | 0.80% | ~1,481 |
+| Wet Feet | 0.70% | ~1,532 |
 | Seeds of Destruction | 0.70% | ~1,295 |
 | Return to the Tomb | 0.70% | ~1,295 |
-| Were-verpowered | 0.70% | ~1,531 |
+| Were-verpowered | 0.70% | ~1,532 |
+| The Cursed Farmer | 0.70% | ~1,532 |
 | Pros and CONs | 0.60% | ~1,313 |
 | The Witchlight Carnival | 0.60% | ~1,110 |
 | Hatchlings Underfoot | 0.60% | ~1,313 |
@@ -36,7 +37,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.60% | ~1,313 |
 | Unearthed Evil | 0.60% | ~1,313 |
 | The Dinner Party | 0.60% | ~1,313 |
-| The Cursed Farmer | 0.60% | ~1,313 |
 | The Mad Wizard | 0.60% | ~1,313 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,110 |
 | Thieves of the Coven | 0.50% | ~925 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,774 (Ranked 53)  
+Progressed: 218,792 (Ranked 53)  
 Completed: 2,152 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,10 +626,10 @@ Completed: 2,152 (0.98%) (Ranked 113)
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
-| 2023-08-05 | 218,774 | 2,152 |
+| 2023-08-05 | 218,792 | 2,152 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
-Sum: 30,897 (Ranked 38)  
+Sum: 30,900 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -637,7 +637,7 @@ Diff (max vs sum): 29
 | This game is Great for Beginners | 5,059 |
 | This game has Quickly Understood Controls | 4,702 |
 | This game is Relaxing | 4,595 |
-| This game has Amazing Characters | 4,052 |
+| This game has Amazing Characters | 4,055 |
 | This game is Highly Recommended | 4,032 |
 | This game has Playful Visuals | 3,341 |
 ## Ratings History
@@ -834,3 +834,4 @@ Diff (max vs sum): 29
 | 2023-08-02 | 4.05 | - | 5,109 | 30,857 |
 | 2023-08-03 | 4.05 | - | 5,116 | 30,886 |
 | 2023-08-04 | 4.05 | - | 5,116 | 30,897 |
+| 2023-08-05 | 4.05 | - | 5,116 | 30,900 |

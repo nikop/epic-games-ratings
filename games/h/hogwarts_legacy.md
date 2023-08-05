@@ -6,10 +6,10 @@ Rating: 4.77 (Ranked 109)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 12.00% | ~34,725 |
-| First Class Student | 11.00% | ~31,831 |
-| Troll with the Punches | 11.00% | ~31,831 |
-| A Keen Sense of Spell | 10.00% | ~28,937 |
-| That's a Keeper | 10.00% | ~28,937 |
+| First Class Student | 11.00% | ~31,832 |
+| Troll with the Punches | 11.00% | ~31,832 |
+| A Keen Sense of Spell | 10.00% | ~28,938 |
+| That's a Keeper | 10.00% | ~28,938 |
 | Grappling with a Graphorn | 9.00% | ~26,044 |
 | The One Who Mastered Memories | 9.00% | ~26,044 |
 | The Hallowed Hero | 9.00% | ~26,044 |
@@ -25,7 +25,7 @@ Rating: 4.77 (Ranked 109)
 | A Sallow Grave | 7.00% | ~20,256 |
 | Flight the Good Flight | 7.00% | ~20,256 |
 | The Spell Master | 7.00% | ~20,256 |
-| Beast Friends | 6.00% | ~17,362 |
+| Beast Friends | 6.00% | ~17,363 |
 | The Seeker of Knowledge | 5.00% | ~14,469 |
 | The Root of the Problem | 5.00% | ~14,469 |
 | Third Time's a Charm | 5.00% | ~14,469 |
@@ -38,10 +38,10 @@ Rating: 4.77 (Ranked 109)
 | Floo Around the World | 3.00% | ~8,681 |
 | The Intrepid Explorer | 3.00% | ~8,681 |
 | The Wise Owl | 3.00% | ~8,681 |
-| The Good Samaritan | 2.00% | ~5,787 |
-| Put Down Roots | 2.00% | ~5,787 |
-| The Auror's Apprentice | 2.00% | ~5,787 |
-| Rise to the Challenges | 2.00% | ~5,787 |
+| The Good Samaritan | 2.00% | ~5,788 |
+| Put Down Roots | 2.00% | ~5,788 |
+| The Auror's Apprentice | 2.00% | ~5,788 |
+| Rise to the Challenges | 2.00% | ~5,788 |
 | Savvy Spender | 1.00% | ~2,894 |
 | Demiguise Dread | 1.00% | ~2,894 |
 | Finishing Touches | 1.00% | ~2,894 |
@@ -51,8 +51,8 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,736 |
 | Collector's Edition | 0.30% | ~868 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,374 (Ranked 42)  
-Completed: 439 (0.15%) (Ranked 184)  
+Progressed: 289,378 (Ranked 42)  
+Completed: 440 (0.15%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -158,10 +158,10 @@ Completed: 439 (0.15%) (Ranked 184)
 | 2023-08-02 | 289,222 | 437 |
 | 2023-08-03 | 289,287 | 438 |
 | 2023-08-04 | 289,362 | 439 |
-| 2023-08-05 | 289,374 | 439 |
+| 2023-08-05 | 289,378 | 440 |
 ## Awards
 Max (Character Customization): 21,511  (Ranked 17)  
-Sum: 40,462 (Ranked 30)  
+Sum: 40,464 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -171,7 +171,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 933 |
 | This game is Relaxing | 928 |
 | This game has Amazing Storytelling | 916 |
-| This game has Diverse Characters | 913 |
+| This game has Diverse Characters | 915 |
 | This game has Amazing Characters | 894 |
 | This game is Highly Recommended | 866 |
 | This game has Quickly Understood Controls | 827 |
@@ -314,4 +314,4 @@ Diff (max vs sum): -13
 | 2023-08-02 | 4.77 | 21,473 | 40,376 |
 | 2023-08-03 | 4.77 | 21,493 | 40,418 |
 | 2023-08-04 | 4.77 | 21,511 | 40,460 |
-| 2023-08-05 | 4.77 | 21,511 | 40,462 |
+| 2023-08-05 | 4.77 | 21,511 | 40,464 |

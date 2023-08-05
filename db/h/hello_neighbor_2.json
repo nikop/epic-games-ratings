@@ -354,9 +354,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2696,
+  "EOS_Progressed": 2697,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.82,
   "EosHistory": [
@@ -2399,6 +2399,11 @@
       "Time": "2023-08-05T01:56:18.7647574+00:00",
       "NumProgressed": 2696,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-08-05T05:05:58.5676404+00:00",
+      "NumProgressed": 2697,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 14,
@@ -2514,14 +2519,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 76,
       "XP": 35,
-      "UsersEstimate": 2049
+      "UsersEstimate": 2050
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2696,
+      "Progressed": 2697,
       "Completed": 103
     }
   ],
@@ -2529,8 +2534,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-08-05T04:05:17.9168992+00:00",
+  "LastChanged_Achievements": "2023-08-05T05:05:58.5676393+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.70294+00:00",
-  "LastUpdate_Ratings": "2023-08-05T04:00:22.2500357+00:00",
-  "LastUpdate_Achievements": "2023-08-05T04:05:17.9169221+00:00"
+  "LastUpdate_Ratings": "2023-08-05T05:01:15.9385688+00:00",
+  "LastUpdate_Achievements": "2023-08-05T05:05:58.5676675+00:00"
 }

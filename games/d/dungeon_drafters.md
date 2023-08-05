@@ -11,12 +11,12 @@
 | Uncut Gem | 30.00% | ~25 |
 | Clear as Water | 27.00% | ~22 |
 | Setting Off | 26.00% | ~21 |
-| Card Collector | 24.00% | ~20 |
+| Card Collector | 26.00% | ~21 |
 | Riddlesolver | 22.00% | ~18 |
 | Dungeon Mastery | 21.00% | ~17 |
 | The Steed | 11.00% | ~9 |
 | A Strange Proposition | 11.00% | ~9 |
-| Card Completionist | 7.00% | ~6 |
+| Card Completionist | 9.00% | ~7 |
 | The Bodyguard | 6.00% | ~5 |
 | The Apprentice | 6.00% | ~5 |
 | Braving Miasma | 6.00% | ~5 |
@@ -24,8 +24,8 @@
 | No Stone Unturned | 6.00% | ~5 |
 | Ancient Nemesis | 5.00% | ~4 |
 | Oracle Mastery | 5.00% | ~4 |
+| Traveler Mastery | 5.00% | ~4 |
 | Raider Mastery | 4.00% | ~3 |
-| Traveler Mastery | 4.00% | ~3 |
 | The Plot Thickens | 4.00% | ~3 |
 | The False Prophet | 4.00% | ~3 |
 | Sealed Once Again | 4.00% | ~3 |

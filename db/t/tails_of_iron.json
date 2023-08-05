@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1846,
+  "EOS_Progressed": 1847,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2357,6 +2357,11 @@
       "Time": "2023-08-05T01:54:33.5778024+00:00",
       "NumProgressed": 1846,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-05T05:04:33.2926254+00:00",
+      "NumProgressed": 1847,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2368,7 +2373,7 @@
       "Name": "Become King",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "Collect20Gold",
@@ -2424,7 +2429,7 @@
       "Name": "Complete Arena Faction",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "CompleteChefsBook",
@@ -2440,7 +2445,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "CompleteGuardFaction",
@@ -2448,7 +2453,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2488,7 +2493,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -2512,7 +2517,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "GetTHWeapon",
@@ -2544,7 +2549,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "MeetTheMoles",
@@ -2568,7 +2573,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "RepairSmith",
@@ -2590,9 +2595,9 @@
       "ID": "RescueBrothers",
       "SetID": "9lj35g4",
       "Name": "Rescue Redgi\u0027s Brothers",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 960
+      "UsersEstimate": 942
     },
     {
       "ID": "ReturnPowerInMines",
@@ -2607,22 +2612,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1846,
+      "Progressed": 1847,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 487,
-      "Completed": 487
+      "Progressed": 488,
+      "Completed": 488
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-30T07:58:33.6633976+00:00",
-  "LastChanged_Achievements": "2023-08-05T04:03:49.7061993+00:00",
+  "LastChanged_Achievements": "2023-08-05T05:04:33.2926249+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:13.5556081+00:00",
-  "LastUpdate_Ratings": "2023-08-05T03:58:44.5941188+00:00",
-  "LastUpdate_Achievements": "2023-08-05T04:03:49.7062361+00:00"
+  "LastUpdate_Ratings": "2023-08-05T04:59:36.0556339+00:00",
+  "LastUpdate_Achievements": "2023-08-05T05:04:33.2926628+00:00"
 }

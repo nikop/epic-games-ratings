@@ -486,9 +486,9 @@
       "ID": "killPlant20",
       "SetID": "ci65fo0",
       "Name": "Weed killer",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "killPlant5",
@@ -878,17 +878,17 @@
       "ID": "questTheft",
       "SetID": "ci65fo0",
       "Name": "Dark business",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "questWellCleaner",
       "SetID": "ci65fo0",
       "Name": "Cleaner of the Horrible Well",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "survivalGraveyard",
@@ -915,8 +915,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-05T04:03:15.1992278+00:00",
+  "LastChanged_Achievements": "2023-08-05T05:03:30.6995841+00:00",
   "LastUpdate_AppInfo": "2023-08-02T10:57:06.3883378+00:00",
-  "LastUpdate_Ratings": "2023-08-05T03:57:23.0983816+00:00",
-  "LastUpdate_Achievements": "2023-08-05T04:03:15.1993094+00:00"
+  "LastUpdate_Ratings": "2023-08-05T04:58:21.0638613+00:00",
+  "LastUpdate_Achievements": "2023-08-05T05:03:30.6996742+00:00"
 }

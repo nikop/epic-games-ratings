@@ -2,7 +2,7 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 789,
+  "Ranking_Rating": 788,
   "Ranking_Popularity": 310,
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 98,
@@ -205,9 +205,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 32665,
+  "EOS_Progressed": 32669,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 919,
+  "EOS_NewPlayers": 916,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11800,6 +11800,11 @@
       "Time": "2023-08-05T04:04:42.598138+00:00",
       "NumProgressed": 32665,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-05T05:05:23.9524023+00:00",
+      "NumProgressed": 32669,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -11819,7 +11824,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6533
+      "UsersEstimate": 6534
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -11865,9 +11870,9 @@
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
       "SetID": "443p4o4",
       "Name": "Flame Retardant",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_10_DEFEATED_BANSHEE_QUEEN",
@@ -12033,16 +12038,16 @@
       "ID": "ACH_30_FINISHED_HARDCORE_MODE",
       "SetID": "443p4o4",
       "Name": "Death or Glory",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 32665,
+      "Progressed": 32669,
       "Completed": 20
     }
   ],
@@ -12050,8 +12055,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-01T20:00:57.6814566+00:00",
-  "LastChanged_Achievements": "2023-08-05T04:04:42.5981373+00:00",
+  "LastChanged_Achievements": "2023-08-05T05:05:23.9524006+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:53.1512382+00:00",
-  "LastUpdate_Ratings": "2023-08-05T04:00:07.1645721+00:00",
-  "LastUpdate_Achievements": "2023-08-05T04:04:42.5982289+00:00"
+  "LastUpdate_Ratings": "2023-08-05T05:01:02.3184896+00:00",
+  "LastUpdate_Achievements": "2023-08-05T05:05:23.9524963+00:00"
 }

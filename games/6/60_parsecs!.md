@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~684 |
-| Space Colonization | 80.00% | ~564 |
-| Friendzone | 79.00% | ~557 |
+| Don't Panic! | 97.00% | ~685 |
+| Space Colonization | 80.00% | ~565 |
+| Friendzone | 79.00% | ~558 |
 | Hello World | 74.00% | ~522 |
-| Space Engineer | 63.00% | ~444 |
-| Tinkerer | 63.00% | ~444 |
+| Space Engineer | 63.00% | ~445 |
+| Tinkerer | 63.00% | ~445 |
 | Dust to Dust | 57.00% | ~402 |
-| Across The Stars | 47.00% | ~331 |
-| Crafty | 47.00% | ~331 |
+| Across The Stars | 47.00% | ~332 |
+| Crafty | 46.00% | ~325 |
 | All Seats Taken | 38.00% | ~268 |
 | For Science! | 34.00% | ~240 |
 | Meet the Petersons | 31.00% | ~219 |
-| Stay Cool | 29.00% | ~204 |
-| KIA | 26.00% | ~183 |
+| Stay Cool | 29.00% | ~205 |
+| KIA | 26.00% | ~184 |
 | Mutiny in making | 24.00% | ~169 |
 | Et tu, Astrocitizen? | 20.00% | ~141 |
 | Eco-Shuttle | 19.00% | ~134 |
@@ -25,7 +25,7 @@
 | Hands Full | 13.00% | ~92 |
 | Gold Medalist | 12.00% | ~85 |
 | Non-Fiction | 11.00% | ~78 |
-| No Man Left Behind | 9.00% | ~63 |
+| No Man Left Behind | 9.00% | ~64 |
 | Intergalactic Breakup | 8.00% | ~56 |
 | First of April | 7.00% | ~49 |
 | Fix-It Felix | 7.00% | ~49 |
@@ -40,17 +40,17 @@
 | That's No Moon! | 2.00% | ~14 |
 | AAARGH! | 1.00% | ~7 |
 | Feels like home | 1.00% | ~7 |
-| No Ticket | 0.90% | ~6 |
-| Bingpot! | 0.90% | ~6 |
-| Space Selfie | 0.90% | ~6 |
+| No Ticket | 0.80% | ~6 |
+| Bingpot! | 0.80% | ~6 |
+| Space Selfie | 0.80% | ~6 |
 | Small Step | 0.40% | ~3 |
 | Giant Leap | 0.30% | ~2 |
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Liberté, Égalité, Félinité | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705 (Ranked 208)  
-Completed: 1 (0.14%) (Ranked 187)  
+Progressed: 706 (Ranked 208)  
+Completed: 1 (0.14%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -126,7 +126,7 @@ Completed: 1 (0.14%) (Ranked 187)
 | 2023-07-30 | 700 | 1 |
 | 2023-07-31 | 703 | 1 |
 | 2023-08-01 | 704 | 1 |
-| 2023-08-05 | 705 | 1 |
+| 2023-08-05 | 706 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

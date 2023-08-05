@@ -6,34 +6,34 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~224,435 |
+| First Steps | 96.00% | ~224,436 |
 | Uncharted Territory | 89.00% | ~208,070 |
-| Getting A Glimpse | 73.00% | ~170,664 |
-| A Quick Escape | 65.00% | ~151,961 |
-| Explorer | 62.00% | ~144,947 |
-| Defeat The Dark | 61.00% | ~142,609 |
-| An Offering | 61.00% | ~142,609 |
+| Getting A Glimpse | 73.00% | ~170,665 |
+| A Quick Escape | 65.00% | ~151,962 |
+| Explorer | 62.00% | ~144,948 |
+| Defeat The Dark | 61.00% | ~142,610 |
+| An Offering | 61.00% | ~142,610 |
 | Colorful Corpse | 58.00% | ~135,596 |
-| That Was Quick | 56.00% | ~130,920 |
-| A Donation | 56.00% | ~130,920 |
-| Goodbye, Frog Friend | 54.00% | ~126,244 |
+| That Was Quick | 56.00% | ~130,921 |
+| A Donation | 56.00% | ~130,921 |
+| Goodbye, Frog Friend | 54.00% | ~126,245 |
 | Heavy Hitter | 53.00% | ~123,907 |
 | Heartless | 46.00% | ~107,542 |
 | Spine Breaker | 46.00% | ~107,542 |
 | Deflection | 45.00% | ~105,204 |
 | Sneaky | 43.00% | ~100,528 |
-| Delving Deeper | 42.00% | ~98,190 |
-| C-C-Combo | 42.00% | ~98,190 |
-| Ambitious Intent | 41.00% | ~95,852 |
-| Nothing To Lose | 40.00% | ~93,514 |
-| The Bestiary | 40.00% | ~93,514 |
+| Delving Deeper | 42.00% | ~98,191 |
+| C-C-Combo | 42.00% | ~98,191 |
+| Ambitious Intent | 41.00% | ~95,853 |
+| Nothing To Lose | 40.00% | ~93,515 |
+| The Bestiary | 40.00% | ~93,515 |
 | What's Yours Is Mine | 38.00% | ~88,839 |
 | R.I.P | 36.00% | ~84,163 |
 | Shootout | 36.00% | ~84,163 |
 | I Am Overburdened | 35.00% | ~81,825 |
-| Cold Hearted | 34.00% | ~79,487 |
-| Dig Your Own Grave | 33.00% | ~77,149 |
-| Toxic | 33.00% | ~77,149 |
+| Cold Hearted | 34.00% | ~79,488 |
+| Dig Your Own Grave | 33.00% | ~77,150 |
+| Toxic | 33.00% | ~77,150 |
 | Who To Trust? | 32.00% | ~74,812 |
 | Flesh Wound | 29.00% | ~67,798 |
 | Stone Touch | 28.00% | ~65,460 |
@@ -42,14 +42,14 @@ Number of Ratings: 15,086  (23.09.2022)
 | Acid Bath | 27.00% | ~63,122 |
 | New Perspectives | 27.00% | ~63,122 |
 | Shapeshifting | 27.00% | ~63,122 |
-| Consecutive Curses | 26.00% | ~60,784 |
-| Destroy Your Fears | 26.00% | ~60,784 |
-| Save Our Souls | 25.00% | ~58,446 |
+| Consecutive Curses | 26.00% | ~60,785 |
+| Destroy Your Fears | 26.00% | ~60,785 |
+| Save Our Souls | 25.00% | ~58,447 |
 | To The Death! | 20.00% | ~46,757 |
 | Well Prepared | 20.00% | ~46,757 |
 | Just Chilling | 20.00% | ~46,757 |
-| Stop Hitting Yourself | 19.00% | ~44,419 |
-| All Consuming | 18.00% | ~42,081 |
+| Stop Hitting Yourself | 19.00% | ~44,420 |
+| All Consuming | 18.00% | ~42,082 |
 | Shadow Spreads | 17.00% | ~39,744 |
 | Don't Ignore Me! | 17.00% | ~39,744 |
 | Illuminate, Eliminate | 17.00% | ~39,744 |
@@ -61,7 +61,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Chain Reaction | 13.00% | ~30,392 |
 | Berzerker | 12.00% | ~28,054 |
 | Antivenom | 12.00% | ~28,054 |
-| Thank You, Friend | 11.00% | ~25,716 |
+| Thank You, Friend | 11.00% | ~25,717 |
 | Barbecue | 10.00% | ~23,379 |
 | Snake Sneak | 9.00% | ~21,041 |
 | Challenge Increases | 8.00% | ~18,703 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~935 |
 | Near Death Experience | 0.30% | ~701 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,786 (Ranked 49)  
+Progressed: 233,787 (Ranked 49)  
 Completed: 256 (0.11%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,10 +236,10 @@ Completed: 256 (0.11%) (Ranked 193)
 | 2023-08-02 | 233,653 | 255 |
 | 2023-08-03 | 233,704 | 256 |
 | 2023-08-04 | 233,772 | 256 |
-| 2023-08-05 | 233,786 | 256 |
+| 2023-08-05 | 233,787 | 256 |
 ## Awards
 Max (Quickly Understood Controls): 1,487  (Ranked 121)  
-Sum: 11,513 (Ranked 78)  
+Sum: 11,515 (Ranked 78)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -251,7 +251,7 @@ Diff (max vs sum): 43
 | This game is Highly Recommended | 1,357 |
 | This game has Amazing Storytelling | 1,307 |
 | This game has Amazing Characters | 1,212 |
-| This game has Unique Visuals | 1,198 |
+| This game has Unique Visuals | 1,200 |
 | This game has Obsessive Gameplay | 1,088 |
 | This game has a Creative Community | 731 |
 ## Ratings History
@@ -388,4 +388,4 @@ Diff (max vs sum): 43
 | 2023-08-01 | 4.58 | - | 1,487 | 11,509 |
 | 2023-08-03 | 4.58 | - | 1,487 | 11,510 |
 | 2023-08-04 | 4.58 | - | 1,487 | 11,512 |
-| 2023-08-05 | 4.58 | - | 1,487 | 11,513 |
+| 2023-08-05 | 4.58 | - | 1,487 | 11,515 |

@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3019,
+  "EOS_Progressed": 3020,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4304,6 +4304,11 @@
       "Time": "2023-08-05T04:05:29.1981875+00:00",
       "NumProgressed": 3019,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-05T05:06:09.4182498+00:00",
+      "NumProgressed": 3020,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4401,9 +4406,9 @@
       "ID": "ACH_BASE_21",
       "SetID": "92iocjf",
       "Name": "Wakey Wakey",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 725
+      "UsersEstimate": 755
     },
     {
       "ID": "ACH_BASE_22",
@@ -4770,13 +4775,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1201,
+      "Progressed": 1202,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3019,
+      "Progressed": 3020,
       "Completed": 0
     }
   ],
@@ -4784,8 +4789,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-08-05T04:05:29.1981872+00:00",
+  "LastChanged_Achievements": "2023-08-05T05:06:09.4182493+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:24.1949352+00:00",
-  "LastUpdate_Ratings": "2023-08-05T03:58:50.7281105+00:00",
-  "LastUpdate_Achievements": "2023-08-05T04:05:29.1982713+00:00"
+  "LastUpdate_Ratings": "2023-08-05T04:59:42.4841596+00:00",
+  "LastUpdate_Achievements": "2023-08-05T05:06:09.4183389+00:00"
 }

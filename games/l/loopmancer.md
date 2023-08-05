@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 108.00% | ~99 |
-| Break no Sweat | 102.00% | ~94 |
-| Every little bit counts | 101.00% | ~93 |
-| Growth | 89.00% | ~82 |
-| Targeting the Enemy | 72.00% | ~66 |
+| Black Cat's Warning | 106.00% | ~99 |
+| Break no Sweat | 101.00% | ~94 |
+| Every little bit counts | 100.00% | ~93 |
+| Growth | 88.00% | ~82 |
+| Targeting the Enemy | 71.00% | ~66 |
 | Unavoidable | 66.00% | ~61 |
-| Revenge | 64.00% | ~59 |
+| Revenge | 65.00% | ~60 |
 | Reunion | 43.00% | ~40 |
-| Elimination | 35.00% | ~32 |
-| Fluke | 35.00% | ~32 |
-| Victor's Prejudice | 35.00% | ~32 |
-| Excellent Driving Skills | 32.00% | ~29 |
-| Once Bitten, Twice Shy | 32.00% | ~29 |
-| Memento | 32.00% | ~29 |
+| Elimination | 34.00% | ~32 |
+| Fluke | 34.00% | ~32 |
+| Victor's Prejudice | 34.00% | ~32 |
+| Excellent Driving Skills | 31.00% | ~29 |
+| Once Bitten, Twice Shy | 31.00% | ~29 |
+| Memento | 31.00% | ~29 |
 | Fleet-footed | 28.00% | ~26 |
 | Defeat the AI | 27.00% | ~25 |
 | Invincible | 27.00% | ~25 |
 | Unsalvageable | 26.00% | ~24 |
-| Best in Dragon City | 24.00% | ~22 |
+| Best in Dragon City | 25.00% | ~23 |
 | Neutralize | 24.00% | ~22 |
 | Walking into a Trap | 23.00% | ~21 |
 | Disdain | 22.00% | ~20 |
-| Final Battle | 20.00% | ~18 |
-| Outsider's Profit | 20.00% | ~18 |
+| Final Battle | 19.00% | ~18 |
+| Outsider's Profit | 19.00% | ~18 |
 | Brain in a Vat | 17.00% | ~16 |
 | Reappearance | 16.00% | ~15 |
 | King of the Streets | 11.00% | ~10 |
@@ -50,6 +50,7 @@
 | Clairvoyance | 2.00% | ~2 |
 | Encore | 2.00% | ~2 |
 | Pro Gamer | 1.00% | ~1 |
+| Heavenly Music | 1.00% | ~1 |
 | Cat Lover | 1.00% | ~1 |
 | Story King | 1.00% | ~1 |
 | Omni-compatibility | 1.00% | ~1 |
@@ -59,10 +60,9 @@
 | Thoughts | 1.00% | ~1 |
 | Terrible Weather | 0.00% | ~0 |
 | Extreme Challenge | 0.00% | ~0 |
-| Heavenly Music | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92 (Ranked 324)  
+Progressed: 93 (Ranked 322)  
 Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |

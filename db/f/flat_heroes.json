@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -281,6 +281,11 @@
       "Time": "2023-08-03T15:08:10.370273+00:00",
       "NumProgressed": 333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-05T05:06:24.8321282+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -298,9 +303,9 @@
       "ID": "CompleteLightWorlds",
       "SetID": "d9ekhim",
       "Name": "Path of the Hero",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "DashAttack",
@@ -308,7 +313,7 @@
       "Name": "Fireball",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "DashDashDash",
@@ -316,15 +321,15 @@
       "Name": "Be water, my friend",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "DashLevitationDashAttack",
       "SetID": "d9ekhim",
       "Name": "Black Belt",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "FloorIsLava",
@@ -346,9 +351,9 @@
       "ID": "HeroWorld1Boss",
       "SetID": "d9ekhim",
       "Name": "Dash Crash - Hero Edition",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "HeroWorld2Boss",
@@ -378,9 +383,9 @@
       "ID": "HeroWorld5Boss",
       "SetID": "d9ekhim",
       "Name": "Eat That Apple - Hero Edition",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "HeroWorld6Boss",
@@ -586,9 +591,9 @@
       "ID": "World3Boss",
       "SetID": "d9ekhim",
       "Name": "The King of Flat",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 164
     },
     {
       "ID": "World4Boss",
@@ -610,9 +615,9 @@
       "ID": "World6Boss",
       "SetID": "d9ekhim",
       "Name": "Tornado Chaser",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 53
     },
     {
       "ID": "World7Boss",
@@ -643,7 +648,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 0
     }
   ],
@@ -651,8 +656,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-08-05T04:05:44.8663769+00:00",
-  "LastUpdate_AppInfo": "2023-07-29T03:56:56.6362517+00:00",
-  "LastUpdate_Ratings": "2023-08-05T03:57:42.5859515+00:00",
-  "LastUpdate_Achievements": "2023-08-05T04:05:44.8664128+00:00"
+  "LastChanged_Achievements": "2023-08-05T05:06:24.8321276+00:00",
+  "LastUpdate_AppInfo": "2023-08-05T04:57:37.0163135+00:00",
+  "LastUpdate_Ratings": "2023-08-05T04:58:39.6709843+00:00",
+  "LastUpdate_Achievements": "2023-08-05T05:06:24.8321664+00:00"
 }

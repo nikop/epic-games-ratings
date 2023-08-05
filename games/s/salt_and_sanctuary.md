@@ -6,20 +6,20 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~439,594 |
-| The Three | 64.00% | ~338,964 |
-| The Banquet | 40.00% | ~211,852 |
-| Devara's Light | 30.00% | ~158,889 |
+| Find Sanctuary | 83.00% | ~439,595 |
+| The Three | 64.00% | ~338,965 |
+| The Banquet | 40.00% | ~211,853 |
+| Devara's Light | 30.00% | ~158,890 |
 | The Iron Ones | 18.00% | ~95,334 |
 | The Village | 16.00% | ~84,741 |
-| The Forest | 14.00% | ~74,148 |
+| The Forest | 14.00% | ~74,149 |
 | Branded | 13.00% | ~68,852 |
 | The Imposter | 13.00% | ~68,852 |
 | The Keep | 13.00% | ~68,852 |
-| The Castle | 11.00% | ~58,259 |
+| The Castle | 11.00% | ~58,260 |
 | The Dome | 9.00% | ~47,667 |
 | The Red Hall | 9.00% | ~47,667 |
-| The Sacrifice | 8.00% | ~42,370 |
+| The Sacrifice | 8.00% | ~42,371 |
 | The Cave | 7.00% | ~37,074 |
 | The Mire | 7.00% | ~37,074 |
 | The Stone Roots | 7.00% | ~37,074 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,593 |
 | Fading Fast | 1.00% | ~5,296 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 529,631 (Ranked 29)  
+Progressed: 529,633 (Ranked 29)  
 Completed: 1,495 (0.28%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,14 +151,14 @@ Completed: 1,495 (0.28%) (Ranked 163)
 | 2023-08-02 | 529,419 | 1,495 |
 | 2023-08-03 | 529,524 | 1,495 |
 | 2023-08-04 | 529,609 | 1,495 |
-| 2023-08-05 | 529,631 | 1,495 |
+| 2023-08-05 | 529,633 | 1,495 |
 ## Awards
-Max (Challenging Combat): 276  (Ranked 242)  
-Sum: 1,924 (Ranked 200)  
+Max (Challenging Combat): 277  (Ranked 242)  
+Sum: 1,925 (Ranked 200)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
-| This game has Challenging Combat | 276 |
+| This game has Challenging Combat | 277 |
 | This game has Quickly Understood Controls | 256 |
 | This game is Highly Recommended | 253 |
 | This game is Extremely Fun | 235 |
@@ -310,3 +310,4 @@ Diff (max vs sum): 42
 | 2023-07-27 | 4.61 | - | 275 | 1,922 |
 | 2023-07-31 | 4.61 | - | 276 | 1,923 |
 | 2023-08-04 | 4.61 | - | 276 | 1,924 |
+| 2023-08-05 | 4.61 | - | 277 | 1,925 |

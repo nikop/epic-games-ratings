@@ -5,32 +5,32 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Dash Crash | 72.00% | ~240 |
-| Be water, my friend | 65.00% | ~216 |
+| Be water, my friend | 65.00% | ~217 |
 | Snake Eyes | 60.00% | ~200 |
-| Fireball | 53.00% | ~176 |
-| The King of Flat | 48.00% | ~160 |
+| Fireball | 53.00% | ~177 |
+| The King of Flat | 49.00% | ~164 |
 | Hit That Ball | 39.00% | ~130 |
 | Air Slash | 38.00% | ~127 |
 | Eat That Apple | 29.00% | ~97 |
-| Tornado Chaser | 17.00% | ~57 |
+| Tornado Chaser | 16.00% | ~53 |
 | Bomberman | 11.00% | ~37 |
 | Bubble Party | 9.00% | ~30 |
 | The Colossus | 9.00% | ~30 |
 | Floor is Lava | 7.00% | ~23 |
 | Pim Pam Pum | 7.00% | ~23 |
 | Ambush | 6.00% | ~20 |
-| Black Belt | 5.00% | ~17 |
-| Dash Crash - Hero Edition | 5.00% | ~17 |
+| Black Belt | 4.00% | ~13 |
+| Dash Crash - Hero Edition | 4.00% | ~13 |
 | Quite The Hero | 4.00% | ~13 |
-| Path of the Hero | 2.00% | ~7 |
 | Snake Eyes - Hero Edition | 2.00% | ~7 |
 | The King of Flat - Hero Edition | 2.00% | ~7 |
-| Eat That Apple - Hero Edition | 2.00% | ~7 |
 | Snakecharmer | 2.00% | ~7 |
 | Apprentice | 2.00% | ~7 |
 | Vertigo | 2.00% | ~7 |
 | Rogue | 2.00% | ~7 |
+| Path of the Hero | 1.00% | ~3 |
 | Hit That Ball - Hero Edition | 1.00% | ~3 |
+| Eat That Apple - Hero Edition | 1.00% | ~3 |
 | Tornado Chaser - Hero Edition | 1.00% | ~3 |
 | Bomberman - Hero Edition | 1.00% | ~3 |
 | Oh, no | 1.00% | ~3 |
@@ -49,7 +49,7 @@
 | Warrior Trials | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333 (Ranked 250)  
+Progressed: 334 (Ranked 250)  
 Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,6 +83,7 @@ Completed: 0 (0.00%) (Ranked 248)
 | 2023-07-18 | 330 | 0 |
 | 2023-07-21 | 331 | 0 |
 | 2023-08-03 | 333 | 0 |
+| 2023-08-05 | 334 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

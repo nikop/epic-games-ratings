@@ -568,9 +568,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 9568,
+  "EOS_Progressed": 9570,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7918,6 +7918,11 @@
       "Time": "2023-08-05T01:55:31.4631154+00:00",
       "NumProgressed": 9568,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-05T05:05:19.5398611+00:00",
+      "NumProgressed": 9570,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 34,
@@ -7999,9 +8004,9 @@
       "ID": "ACH10",
       "SetID": "9llo822",
       "Name": "Vice City Mogul",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 670
+      "UsersEstimate": 574
     },
     {
       "ID": "ACH11",
@@ -8009,7 +8014,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "ACH12",
@@ -8033,7 +8038,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3923
+      "UsersEstimate": 3924
     },
     {
       "ID": "ACH15",
@@ -8129,7 +8134,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "ACH27",
@@ -8161,7 +8166,7 @@
       "Name": "Mischief Managed",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "ACH31",
@@ -8200,7 +8205,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9568,
+      "Progressed": 9570,
       "Completed": 44
     }
   ],
@@ -8208,8 +8213,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-01T16:59:33.8335317+00:00",
-  "LastChanged_Achievements": "2023-08-05T04:04:38.0577052+00:00",
+  "LastChanged_Achievements": "2023-08-05T05:05:19.5398605+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-08-05T03:58:37.2426255+00:00",
-  "LastUpdate_Achievements": "2023-08-05T04:04:38.0577753+00:00"
+  "LastUpdate_Ratings": "2023-08-05T04:59:30.0752037+00:00",
+  "LastUpdate_Achievements": "2023-08-05T05:05:19.5399343+00:00"
 }

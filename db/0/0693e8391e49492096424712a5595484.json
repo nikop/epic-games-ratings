@@ -3,7 +3,7 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 244,
-  "Ranking_EOS_Completed": 40,
+  "Ranking_EOS_Completed": 41,
   "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 360,
+  "EOS_Progressed": 361,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 6.11,
+  "EOS_Completed_Percentage": 6.09,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -1256,6 +1256,11 @@
       "Time": "2023-08-04T18:06:03.4493215+00:00",
       "NumProgressed": 360,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-08-05T05:06:39.9960624+00:00",
+      "NumProgressed": 361,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 45,
@@ -1273,9 +1278,9 @@
       "ID": "BasiliskBroom",
       "SetID": "db30heh",
       "Name": "Sweeping Prop",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 79
     },
     {
       "ID": "BasiliskFishingRod",
@@ -1283,7 +1288,7 @@
       "Name": "Fishing Prop",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "BearBroom",
@@ -1305,9 +1310,9 @@
       "ID": "BearPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Sleeping Potion",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 90
     },
     {
       "ID": "BearRum",
@@ -1331,7 +1336,7 @@
       "Name": "Alms",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -1347,7 +1352,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "BroomAmanita",
@@ -1363,7 +1368,7 @@
       "Name": "Target Hit",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "DevilPriest",
@@ -1371,7 +1376,7 @@
       "Name": "Deal with the Devil",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "DevilRope",
@@ -1379,7 +1384,7 @@
       "Name": "The Devil is My Friend",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Drunkard",
@@ -1435,7 +1440,7 @@
       "Name": "Tastes Funny",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "HastrmanHappy",
@@ -1451,7 +1456,7 @@
       "Name": "That\u0027s Not Water",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "HatFlower",
@@ -1507,7 +1512,7 @@
       "Name": "Direct Hit",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "PriestRum",
@@ -1515,7 +1520,7 @@
       "Name": "Rummy",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Priestess",
@@ -1523,7 +1528,7 @@
       "Name": "Blessed",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "PrincessThrone",
@@ -1547,7 +1552,7 @@
       "Name": "Debt Free",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "RogueKing",
@@ -1601,9 +1606,9 @@
       "ID": "SwordDiamond",
       "SetID": "db30heh",
       "Name": "Precious Barter",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 170
     },
     {
       "ID": "SwordMoneyBag",
@@ -1626,14 +1631,14 @@
     {
       "ID": "db30heh",
       "IsBase": true,
-      "Progressed": 360,
+      "Progressed": 361,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-05T04:06:00.2689379+00:00",
+  "LastChanged_Achievements": "2023-08-05T05:06:39.9960619+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-05T03:57:20.1892368+00:00",
-  "LastUpdate_Achievements": "2023-08-05T04:06:00.2689843+00:00"
+  "LastUpdate_Ratings": "2023-08-05T04:58:18.897765+00:00",
+  "LastUpdate_Achievements": "2023-08-05T05:06:39.9961105+00:00"
 }

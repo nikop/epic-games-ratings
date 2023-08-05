@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 96.00% | ~111 |
-| To Each Their Own | 47.00% | ~55 |
+| You're Going Down! | 95.00% | ~111 |
+| To Each Their Own | 46.00% | ~54 |
 | You Get An Upgrade, You Get An Upgrade! | 22.00% | ~26 |
 | Onwards and Upwards | 20.00% | ~23 |
 | Like Phileas Fogg | 16.00% | ~19 |
-| Serial Winner | 15.00% | ~17 |
+| Serial Winner | 15.00% | ~18 |
 | Highly Qualified | 10.00% | ~12 |
 | No Room for Improvement | 10.00% | ~12 |
 | Start Your Engines | 10.00% | ~12 |
@@ -22,15 +22,15 @@
 | Winner Winner Chicken Dinner | 5.00% | ~6 |
 | Tailor-Made | 5.00% | ~6 |
 | Seven-League Boots | 4.00% | ~5 |
-| Déjà-Vu | 3.00% | ~3 |
-| POI Hunter | 3.00% | ~3 |
-| Gotta Go Fast! | 3.00% | ~3 |
-| Say My Name | 3.00% | ~3 |
-| Last One Standing | 3.00% | ~3 |
-| Time Lord | 3.00% | ~3 |
-| First Things First | 3.00% | ~3 |
-| Tailor-Made for Two | 3.00% | ~3 |
-| Tempus Fugit | 3.00% | ~3 |
+| Déjà-Vu | 3.00% | ~4 |
+| POI Hunter | 3.00% | ~4 |
+| Gotta Go Fast! | 3.00% | ~4 |
+| Say My Name | 3.00% | ~4 |
+| Last One Standing | 3.00% | ~4 |
+| Time Lord | 3.00% | ~4 |
+| First Things First | 3.00% | ~4 |
+| Tailor-Made for Two | 3.00% | ~4 |
+| Tempus Fugit | 3.00% | ~4 |
 | Golden Ratio | 2.00% | ~2 |
 | The Joy of Discovery | 2.00% | ~2 |
 | Geek | 2.00% | ~2 |
@@ -44,8 +44,8 @@
 | Superbike Superfan | 2.00% | ~2 |
 | Playing Favourites | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 309)  
-Completed: 2 (1.72%) (Ranked 92)  
+Progressed: 117 (Ranked 309)  
+Completed: 2 (1.71%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,3 +102,4 @@ Completed: 2 (1.72%) (Ranked 92)
 | 2023-08-01 | 113 | 2 |
 | 2023-08-03 | 115 | 2 |
 | 2023-08-04 | 116 | 2 |
+| 2023-08-05 | 117 | 2 |

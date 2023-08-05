@@ -5,17 +5,17 @@ Rating: 4.45 (Ranked 630)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,541 |
-| Keep 'Em Coming | 74.00% | ~2,293 |
-| Snatched Out | 74.00% | ~2,293 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,076 |
-| Call Me Snake | 62.00% | ~1,921 |
-| Something Lurks Under The Hills | 60.00% | ~1,859 |
-| This Was No Papercut | 59.00% | ~1,828 |
-| The Shrink Hates Me | 56.00% | ~1,735 |
-| People Person | 55.00% | ~1,704 |
-| Use The Bumper, That's What It's For | 52.00% | ~1,611 |
-| First Steps Into Madness | 52.00% | ~1,611 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,542 |
+| Keep 'Em Coming | 74.00% | ~2,294 |
+| Snatched Out | 74.00% | ~2,294 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,077 |
+| Call Me Snake | 62.00% | ~1,922 |
+| Something Lurks Under The Hills | 60.00% | ~1,860 |
+| This Was No Papercut | 59.00% | ~1,829 |
+| The Shrink Hates Me | 56.00% | ~1,736 |
+| People Person | 55.00% | ~1,705 |
+| Use The Bumper, That's What It's For | 52.00% | ~1,612 |
+| First Steps Into Madness | 52.00% | ~1,612 |
 | Colonial Barrels | 50.00% | ~1,550 |
 | Harper's Hell | 44.00% | ~1,364 |
 | Making a Stand | 42.00% | ~1,302 |
@@ -29,9 +29,9 @@ Rating: 4.45 (Ranked 630)
 | Deep Into Insanity | 25.00% | ~775 |
 | The Passenger | 25.00% | ~775 |
 | Come on, You Wanna Live Forever? | 24.00% | ~744 |
+| Stuff Of Nightmares | 22.00% | ~682 |
 | El Riesgo Siempre Vive | 22.00% | ~682 |
 | The Spire | 22.00% | ~682 |
-| Stuff Of Nightmares | 21.00% | ~651 |
 | One For Every Occasion | 19.00% | ~589 |
 | Excavating The Truth | 19.00% | ~589 |
 | Frontliner | 18.00% | ~558 |
@@ -49,9 +49,9 @@ Rating: 4.45 (Ranked 630)
 | Archivist | 1.00% | ~31 |
 | Perfect Organism | 0.70% | ~22 |
 | Chalk It Up To Experience | 0.70% | ~22 |
-| This Ain't No Picnic | 0.50% | ~15 |
+| This Ain't No Picnic | 0.50% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,099 (Ranked 155)  
+Progressed: 3,100 (Ranked 155)  
 Completed: 2 (0.06%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 2 (0.06%) (Ranked 208)
 | 2023-08-02 | 3,093 | 2 |
 | 2023-08-03 | 3,095 | 2 |
 | 2023-08-04 | 3,099 | 2 |
+| 2023-08-05 | 3,100 | 2 |
 ## Awards
 Max (Great Boss Battles): 22  (Ranked 491)  
 Sum: 22 (Ranked 494)  
