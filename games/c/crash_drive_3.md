@@ -24,10 +24,10 @@
 | First Come, First Serve | 23.00% | ~82 |
 | Take that Frosty! | 23.00% | ~82 |
 | Goodbye cruel world | 23.00% | ~82 |
+| Car-Tapult | 22.00% | ~79 |
 | Disoriented | 22.00% | ~79 |
 | Your Highness | 22.00% | ~79 |
 | Beach Party! | 22.00% | ~79 |
-| Car-Tapult | 21.00% | ~75 |
 | Anger Issues | 21.00% | ~75 |
 | Event Amateur | 20.00% | ~71 |
 | Feeling Dizzy? | 19.00% | ~68 |

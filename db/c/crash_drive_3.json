@@ -379,9 +379,9 @@
       "ID": "CATAPULT_THROW",
       "SetID": "20koof9",
       "Name": "Car-Tapult",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 79
     },
     {
       "ID": "COIN_COLLECT",
@@ -804,8 +804,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-08-05T03:04:29.9785455+00:00",
+  "LastChanged_Achievements": "2023-08-05T04:04:40.5023907+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:38.9893142+00:00",
-  "LastUpdate_Ratings": "2023-08-05T02:58:53.0486276+00:00",
-  "LastUpdate_Achievements": "2023-08-05T03:04:29.9785908+00:00"
+  "LastUpdate_Ratings": "2023-08-05T03:59:03.8555366+00:00",
+  "LastUpdate_Achievements": "2023-08-05T04:04:40.5024443+00:00"
 }

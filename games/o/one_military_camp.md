@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | First Step | 52.00% | ~66 |
 | The 4 Pillars | 51.00% | ~64 |
-| Capitalism | 18.00% | ~23 |
+| Capitalism | 19.00% | ~24 |
 | Indebted | 11.00% | ~14 |
 | Desert Rat | 10.00% | ~13 |
-| There's something in those trees | 8.00% | ~10 |
+| There's something in those trees | 9.00% | ~11 |
 | Great Producer | 8.00% | ~10 |
 | Good payer | 7.00% | ~9 |
 | Green Energy | 7.00% | ~9 |
@@ -21,10 +21,10 @@
 | Pathfinder | 5.00% | ~6 |
 | Fuel Tycoon | 5.00% | ~6 |
 | Outdoor Decorator | 4.00% | ~5 |
+| Healing | 4.00% | ~5 |
 | Self-sufficient | 4.00% | ~5 |
 | Food Tycoon | 4.00% | ~5 |
 | Medicine Tycoon | 4.00% | ~5 |
-| Healing | 3.00% | ~4 |
 | Property Bro | 3.00% | ~4 |
 | Human Resources | 3.00% | ~4 |
 | Tear Down the Wall! | 2.00% | ~3 |

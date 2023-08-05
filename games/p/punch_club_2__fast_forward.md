@@ -31,8 +31,8 @@
 | Own four walls | 55.00% | ~122 |
 | Handyman | 54.00% | ~119 |
 | Champion – starter pack | 54.00% | ~119 |
-| Employee of the year | 53.00% | ~117 |
-| Fight for life | 52.00% | ~115 |
+| Employee of the year | 54.00% | ~119 |
+| Fight for life | 53.00% | ~117 |
 | Legal courier | 51.00% | ~113 |
 | Extreme neuropower! | 51.00% | ~113 |
 | Escaped from a big trouble | 48.00% | ~106 |

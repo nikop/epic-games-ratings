@@ -1622,9 +1622,9 @@
       "ID": "ACHV_AUGMENTED",
       "SetID": "cceobco",
       "Name": "Augmented",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -1638,9 +1638,9 @@
       "ID": "ACHV_CHALLENGEACCEPTED",
       "SetID": "cceobco",
       "Name": "Challenge Accepted",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -1869,8 +1869,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-08-05T03:04:21.4805874+00:00",
+  "LastChanged_Achievements": "2023-08-05T04:04:31.7227718+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:26.3220019+00:00",
-  "LastUpdate_Ratings": "2023-08-05T02:59:37.1076334+00:00",
-  "LastUpdate_Achievements": "2023-08-05T03:04:21.4806182+00:00"
+  "LastUpdate_Ratings": "2023-08-05T03:59:50.0797992+00:00",
+  "LastUpdate_Achievements": "2023-08-05T04:04:31.7228063+00:00"
 }

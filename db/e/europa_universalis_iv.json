@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 26,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 27,
+  "Ranking_EOS_NewPlayers": 26,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
@@ -7762,11 +7762,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 46343,
       "NumberOfAwardsMax": 5611
+    },
+    {
+      "Time": "2023-08-05T03:57:51.3516659+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 46349,
+      "NumberOfAwardsMax": 5617
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46343,
-  "NumberOfAwardsMax": 5611,
+  "NumberOfAwards": 46349,
+  "NumberOfAwardsMax": 5617,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -7797,7 +7803,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 5611
+      "Count": 5617
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7836,9 +7842,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 79226,
+  "EOS_Progressed": 79241,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3887,
+  "EOS_NewPlayers": 3894,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19541,6 +19547,11 @@
       "Time": "2023-08-05T03:06:08.4974505+00:00",
       "NumProgressed": 79226,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-05T04:06:21.1437852+00:00",
+      "NumProgressed": 79241,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -20072,7 +20083,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "achievement_colonial_management",
@@ -20384,7 +20395,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3961
+      "UsersEstimate": 3962
     },
     {
       "ID": "achievement_forever_golden",
@@ -20552,7 +20563,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6339
     },
     {
       "ID": "achievement_grand_coalition",
@@ -21832,7 +21843,7 @@
       "Name": "That is mine!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 5546
+      "UsersEstimate": 5547
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -22144,7 +22155,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -22216,7 +22227,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 7130
+      "UsersEstimate": 7132
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -22248,7 +22259,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6339
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -22383,21 +22394,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 79226,
+      "Progressed": 79241,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 79226,
+      "Progressed": 79241,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-08-05T02:19:50.0293639+00:00",
-  "LastChanged_Achievements": "2023-08-05T03:06:08.4974499+00:00",
+  "LastChanged": "2023-08-05T03:57:51.3516657+00:00",
+  "LastChanged_Achievements": "2023-08-05T04:06:21.1437846+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.0548947+00:00",
-  "LastUpdate_Ratings": "2023-08-05T02:57:45.592948+00:00",
-  "LastUpdate_Achievements": "2023-08-05T03:06:08.5146528+00:00"
+  "LastUpdate_Ratings": "2023-08-05T03:57:51.3516664+00:00",
+  "LastUpdate_Achievements": "2023-08-05T04:06:21.1449692+00:00"
 }

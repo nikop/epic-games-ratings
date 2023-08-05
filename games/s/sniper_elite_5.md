@@ -55,8 +55,8 @@ Rating: 4.43 (Ranked 658)
 | Last Resort | 0.60% | ~20 |
 | Siegebreaker | 0.60% | ~20 |
 | Ghost of Falaise | 0.60% | ~20 |
+| Shoot for the Moon | 0.50% | ~17 |
 | Up close and personal | 0.40% | ~14 |
-| Shoot for the Moon | 0.40% | ~14 |
 | Can't Outrun A Bullet | 0.40% | ~14 |
 | If You Go Down To The Woods Today | 0.40% | ~13 |
 | Fight Another Day | 0.40% | ~13 |

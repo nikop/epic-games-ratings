@@ -16,7 +16,7 @@ Rating: 4.54 (Ranked 498)
 | Iron-y | 10.00% | ~957 |
 | Gun for Hire | 9.00% | ~861 |
 | Mischief Managed | 8.00% | ~765 |
-| Vice City Mogul | 6.00% | ~574 |
+| Vice City Mogul | 7.00% | ~670 |
 | Catch Me if You Can | 6.00% | ~574 |
 | Bloodstained Hands | 6.00% | ~574 |
 | Not my First Time | 5.00% | ~478 |

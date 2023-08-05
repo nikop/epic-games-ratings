@@ -6,11 +6,11 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~712,899 |
-| The Blues | 85.00% | ~612,085 |
-| Fast | 66.00% | ~475,266 |
-| Healthbar | 55.00% | ~396,055 |
-| Force Cube | 53.00% | ~381,653 |
+| Out of bed | 99.00% | ~712,900 |
+| The Blues | 85.00% | ~612,086 |
+| Fast | 66.00% | ~475,267 |
+| Healthbar | 55.00% | ~396,056 |
+| Force Cube | 53.00% | ~381,654 |
 | Double Jump | 48.00% | ~345,648 |
 | Regeneration | 47.00% | ~338,447 |
 | Climb the hill | 42.00% | ~302,442 |
@@ -66,21 +66,21 @@ Number of Ratings: 25,175  (23.09.2022)
 | Groupies | 1.00% | ~7,201 |
 | Jesus Christ Suprastar | 1.00% | ~7,201 |
 | Redstone Pickaxe | 1.00% | ~7,201 |
-| DLC: Green Bird | 0.50% | ~3,600 |
-| DLC: Basement Robbery | 0.50% | ~3,600 |
-| DLC: Rooftop Chase | 0.50% | ~3,600 |
-| DLC: Home Invasion | 0.50% | ~3,600 |
-| DLC: Crashed again | 0.50% | ~3,600 |
-| DLC: Crashed again (again) | 0.50% | ~3,600 |
-| DLC: Crashed | 0.50% | ~3,600 |
-| DLC: Discovering the Globe | 0.50% | ~3,600 |
-| DLC: Gotta Jump High | 0.50% | ~3,600 |
-| DLC: Gotta Run Fast | 0.50% | ~3,600 |
-| DLC: Monster Maker | 0.50% | ~3,600 |
-| DLC: Race the First | 0.50% | ~3,600 |
-| DLC: No-ball Winner | 0.50% | ~3,600 |
-| DLC: Welcome to Orangeburg | 0.50% | ~3,600 |
-| DLC: A Wrinkle in Spacetime | 0.50% | ~3,600 |
+| DLC: Green Bird | 0.50% | ~3,601 |
+| DLC: Basement Robbery | 0.50% | ~3,601 |
+| DLC: Rooftop Chase | 0.50% | ~3,601 |
+| DLC: Home Invasion | 0.50% | ~3,601 |
+| DLC: Crashed again | 0.50% | ~3,601 |
+| DLC: Crashed again (again) | 0.50% | ~3,601 |
+| DLC: Crashed | 0.50% | ~3,601 |
+| DLC: Discovering the Globe | 0.50% | ~3,601 |
+| DLC: Gotta Jump High | 0.50% | ~3,601 |
+| DLC: Gotta Run Fast | 0.50% | ~3,601 |
+| DLC: Monster Maker | 0.50% | ~3,601 |
+| DLC: Race the First | 0.50% | ~3,601 |
+| DLC: No-ball Winner | 0.50% | ~3,601 |
+| DLC: Welcome to Orangeburg | 0.50% | ~3,601 |
+| DLC: A Wrinkle in Spacetime | 0.50% | ~3,601 |
 | DLC: The palace job | 0.40% | ~2,880 |
 | DLC: A Criminal Revealed | 0.40% | ~2,880 |
 | DLC: Crashed for the final time! | 0.40% | ~2,880 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~720 |
 | DLC: Top of the world | 0.10% | ~720 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 720,100 (Ranked 18)  
+Progressed: 720,101 (Ranked 18)  
 Completed: 717 (0.10%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 717 (0.10%) (Ranked 197)
 | 2023-08-02 | 719,757 | 717 |
 | 2023-08-03 | 719,922 | 717 |
 | 2023-08-04 | 720,082 | 717 |
-| 2023-08-05 | 720,100 | 717 |
+| 2023-08-05 | 720,101 | 717 |
 ## Awards
 Max (Challenging Puzzles): 7,663  (Ranked 44)  
 Sum: 9,986 (Ranked 83)  

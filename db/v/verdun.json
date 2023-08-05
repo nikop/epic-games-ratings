@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 262,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1670,9 +1670,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 53994,
+  "EOS_Progressed": 53996,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 856,
+  "EOS_NewPlayers": 852,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13125,6 +13125,11 @@
       "Time": "2023-08-05T03:02:14.6208639+00:00",
       "NumProgressed": 53994,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-05T04:02:32.0905078+00:00",
+      "NumProgressed": 53996,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -13136,7 +13141,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 29697
+      "UsersEstimate": 29698
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -13264,7 +13269,7 @@
       "Name": "This We\u0027ll Defend!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4859
+      "UsersEstimate": 4860
     },
     {
       "ID": "VERDUN_ACH_GOLD100",
@@ -13368,7 +13373,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14038
+      "UsersEstimate": 14039
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -13392,7 +13397,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17278
+      "UsersEstimate": 17279
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -13424,7 +13429,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 34016
+      "UsersEstimate": 34017
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -13432,7 +13437,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6479
+      "UsersEstimate": 6480
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -13480,7 +13485,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13498
+      "UsersEstimate": 13499
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -13504,7 +13509,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 41575
+      "UsersEstimate": 41577
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -13512,7 +13517,7 @@
       "Name": "Anker wirf!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4859
+      "UsersEstimate": 4860
     },
     {
       "ID": "VERDUN_ACH_POILUS",
@@ -13576,7 +13581,7 @@
       "Name": "Providentiea Memor",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4859
+      "UsersEstimate": 4860
     },
     {
       "ID": "VERDUN_ACH_TIRAILLEURS",
@@ -13592,7 +13597,7 @@
       "Name": "For King and Country",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4859
+      "UsersEstimate": 4860
     },
     {
       "ID": "VERDUN_ACH_TRIPLEEXPL",
@@ -13600,22 +13605,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 19978
+      "UsersEstimate": 19979
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 53994,
+      "Progressed": 53996,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-08-04T21:59:03.8115796+00:00",
-  "LastChanged_Achievements": "2023-08-05T03:02:14.6208633+00:00",
+  "LastChanged_Achievements": "2023-08-05T04:02:32.0905074+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:20.1031858+00:00",
-  "LastUpdate_Ratings": "2023-08-05T02:58:37.429929+00:00",
-  "LastUpdate_Achievements": "2023-08-05T03:02:14.620988+00:00"
+  "LastUpdate_Ratings": "2023-08-05T03:58:49.959302+00:00",
+  "LastUpdate_Achievements": "2023-08-05T04:02:32.0906147+00:00"
 }

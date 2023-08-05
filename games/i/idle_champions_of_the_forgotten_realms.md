@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,750 |
+| A Brief Tour of the Realms | 4.00% | ~8,751 |
 | Beast Intentions | 3.00% | ~6,563 |
 | Maddening | 2.00% | ~4,375 |
 | The Silken Swamp | 1.00% | ~2,188 |
@@ -235,6 +235,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Radiant Nightmare | 0.20% | ~370 |
 | Waiting on Sunrise | 0.20% | ~370 |
 | Deekin's Mission | 0.20% | ~370 |
+| Frozen Vengeance | 0.20% | ~370 |
 | The Battle of High Hall Tower | 0.20% | ~370 |
 | Elturel's Last Stand | 0.20% | ~370 |
 | The Haunted Jungle | 0.20% | ~438 |
@@ -477,7 +478,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | How Far Away is Thay | 0.10% | ~185 |
 | Dive Bomb | 0.10% | ~185 |
 | Fire and Ice | 0.10% | ~185 |
-| Frozen Vengeance | 0.10% | ~185 |
 | Mimic Vengeance | 0.10% | ~185 |
 | REALLY Frozen Vengeance | 0.10% | ~185 |
 | Might Makes Right | 0.10% | ~185 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,756 (Ranked 53)  
+Progressed: 218,774 (Ranked 53)  
 Completed: 2,152 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 2,152 (0.98%) (Ranked 113)
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
-| 2023-08-05 | 218,756 | 2,152 |
+| 2023-08-05 | 218,774 | 2,152 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,897 (Ranked 38)  

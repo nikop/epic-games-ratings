@@ -6,14 +6,14 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~203,296 |
-| I know the Rules | 39.00% | ~96,690 |
-| Contender | 11.00% | ~27,271 |
-| I Found it! | 9.00% | ~22,313 |
+| Ball Launched | 82.00% | ~203,307 |
+| I know the Rules | 39.00% | ~96,695 |
+| Contender | 11.00% | ~27,273 |
+| I Found it! | 9.00% | ~22,314 |
 | First but not Last | 4.00% | ~9,917 |
 | Ready Steady Score | 3.00% | ~7,438 |
 | Dress Code | 3.00% | ~7,438 |
-| Full Loot Madness | 2.00% | ~4,958 |
+| Full Loot Madness | 2.00% | ~4,959 |
 | My Table, my Rules | 1.00% | ~2,479 |
 | Nine Zeroes | 0.90% | ~2,231 |
 | Shiny Memento | 0.30% | ~744 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,922 (Ranked 44)  
+Progressed: 247,935 (Ranked 44)  
 Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,10 +144,10 @@ Completed: 0 (0.00%) (Ranked 248)
 | 2023-08-02 | 246,972 | 0 |
 | 2023-08-03 | 247,312 | 0 |
 | 2023-08-04 | 247,854 | 0 |
-| 2023-08-05 | 247,922 | 0 |
+| 2023-08-05 | 247,935 | 0 |
 ## Awards
 Max (Great for Beginners): 182  (Ranked 280)  
-Sum: 1,520 (Ranked 219)  
+Sum: 1,521 (Ranked 219)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -158,7 +158,7 @@ Diff (max vs sum): 61
 | This game is Extremely Fun | 154 |
 | This game is Highly Recommended | 150 |
 | This game has Competitive Players | 146 |
-| This game has Challenging Combat | 104 |
+| This game has Challenging Combat | 105 |
 | This game has Amazing Storytelling | 101 |
 | This game has a Competitive Community | 99 |
 | This game has Amazing Characters | 90 |
@@ -312,3 +312,4 @@ Diff (max vs sum): 61
 | 2023-07-31 | 4.04 | - | 182 | 1,518 |
 | 2023-08-01 | 4.04 | - | 182 | 1,519 |
 | 2023-08-02 | 4.04 | - | 182 | 1,520 |
+| 2023-08-05 | 4.04 | - | 182 | 1,521 |

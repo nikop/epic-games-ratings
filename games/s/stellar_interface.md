@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 84.00% | ~48 |
-| Killing Spree | 68.00% | ~39 |
-| 5Gb HDD | 51.00% | ~29 |
-| Merchant Prince I | 51.00% | ~29 |
+| First Blood | 84.00% | ~49 |
+| Killing Spree | 67.00% | ~39 |
+| Merchant Prince I | 52.00% | ~30 |
+| 5Gb HDD | 50.00% | ~29 |
 | Dominating | 33.00% | ~19 |
-| Fighting Fit I | 32.00% | ~18 |
+| Fighting Fit I | 31.00% | ~18 |
 | Rambo I | 28.00% | ~16 |
 | 10Gb HDD | 28.00% | ~16 |
-| The Vette | 25.00% | ~14 |
+| The Vette | 24.00% | ~14 |
 | Mega Kill | 21.00% | ~12 |
 | Almost There I | 19.00% | ~11 |
-| Stoic | 18.00% | ~10 |
+| Stoic | 17.00% | ~10 |
 | Omicron Alpha | 14.00% | ~8 |
 | Bronze Prince of Ball-air | 12.00% | ~7 |
 | Pacifist | 12.00% | ~7 |
 | Galactic Cadet | 12.00% | ~7 |
 | Collateral Damage I | 12.00% | ~7 |
-| Defrosted | 11.00% | ~6 |
-| 25Gb HDD | 11.00% | ~6 |
+| Defrosted | 10.00% | ~6 |
+| 25Gb HDD | 10.00% | ~6 |
 | Sectoral Ensign | 9.00% | ~5 |
 | Rambo II | 9.00% | ~5 |
 | Golden Prince of Ball-air | 9.00% | ~5 |
@@ -43,15 +43,15 @@
 | Galactic Lieutenant | 5.00% | ~3 |
 | Sectoral Captain | 5.00% | ~3 |
 | Fighting Fit II | 5.00% | ~3 |
-| Bronze Foundation | 4.00% | ~2 |
-| Bronze Pest Control | 4.00% | ~2 |
-| Cartridge Hoarder | 4.00% | ~2 |
-| Curious | 4.00% | ~2 |
-| Pilgrim | 4.00% | ~2 |
-| Diligent | 4.00% | ~2 |
-| Bird of Prey | 4.00% | ~2 |
-| Wicked Sick | 4.00% | ~2 |
-| Silver Foundation | 4.00% | ~2 |
+| Bronze Foundation | 3.00% | ~2 |
+| Bronze Pest Control | 3.00% | ~2 |
+| Cartridge Hoarder | 3.00% | ~2 |
+| Curious | 3.00% | ~2 |
+| Pilgrim | 3.00% | ~2 |
+| Diligent | 3.00% | ~2 |
+| Bird of Prey | 3.00% | ~2 |
+| Wicked Sick | 3.00% | ~2 |
+| Silver Foundation | 3.00% | ~2 |
 | Revenge | 2.00% | ~1 |
 | Bronze BBQ | 2.00% | ~1 |
 | Rambo IV | 2.00% | ~1 |
@@ -137,7 +137,7 @@
 | Fighting Fit IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57 (Ranked 350)  
+Progressed: 58 (Ranked 349)  
 Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,3 +175,4 @@ Completed: 0 (0.00%) (Ranked 248)
 | 2023-07-23 | 54 | 0 |
 | 2023-08-01 | 56 | 0 |
 | 2023-08-02 | 57 | 0 |
+| 2023-08-05 | 58 | 0 |

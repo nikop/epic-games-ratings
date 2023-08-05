@@ -2,7 +2,7 @@
   "ID": "2f0ada8893114e90910b83b554e5e9e7",
   "Name": "LOOPMANCER",
   "ProductSlug": "loopmancer",
-  "Ranking_EOS_Progress": 322,
+  "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 3000,
   "Ranking_EOS_NewCompleters": 107,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93,
+  "EOS_Progressed": 92,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": -1,
+  "EOS_NewPlayers": -2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -279,6 +279,11 @@
       "Time": "2023-08-05T02:29:04.6054603+00:00",
       "NumProgressed": 93,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-05T04:06:28.6231992+00:00",
+      "NumProgressed": 92,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -288,7 +293,7 @@
       "ID": "ACH_AVOID_BIGGUY",
       "SetID": "6d82akp",
       "Name": "Break no Sweat",
-      "Percentage": 101,
+      "Percentage": 102,
       "XP": 5,
       "UsersEstimate": 94
     },
@@ -296,7 +301,7 @@
       "ID": "ACH_AVOID_PLAZA_ATTACK",
       "SetID": "6d82akp",
       "Name": "Excellent Driving Skills",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
       "UsersEstimate": 29
     },
@@ -304,7 +309,7 @@
       "ID": "ACH_AVOID_SNIPER",
       "SetID": "6d82akp",
       "Name": "Black Cat\u0027s Warning",
-      "Percentage": 106,
+      "Percentage": 108,
       "XP": 5,
       "UsersEstimate": 99
     },
@@ -344,7 +349,7 @@
       "ID": "ACH_DEFEAT_ZFGZ_TPSN",
       "SetID": "6d82akp",
       "Name": "Final Battle",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -416,7 +421,7 @@
       "ID": "ACH_ENDING_TVSHOW",
       "SetID": "6d82akp",
       "Name": "Outsider\u0027s Profit",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 18
     },
@@ -456,7 +461,7 @@
       "ID": "ACH_GET_STORY_TRUTH",
       "SetID": "6d82akp",
       "Name": "Targeting the Enemy",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
       "UsersEstimate": 66
     },
@@ -496,7 +501,7 @@
       "ID": "ACH_KILL_XFGZ_SEABASE",
       "SetID": "6d82akp",
       "Name": "Elimination",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -536,7 +541,7 @@
       "ID": "ACH_NOT_TUMBLE_DOWN",
       "SetID": "6d82akp",
       "Name": "Once Bitten, Twice Shy",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
       "UsersEstimate": 29
     },
@@ -600,7 +605,7 @@
       "ID": "ACH_SURVIVE_OGATA",
       "SetID": "6d82akp",
       "Name": "Fluke",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 32
     },
@@ -688,7 +693,7 @@
       "ID": "ACH_UNLOCK_CHARGE_ACTOR",
       "SetID": "6d82akp",
       "Name": "Every little bit counts",
-      "Percentage": 100,
+      "Percentage": 101,
       "XP": 5,
       "UsersEstimate": 93
     },
@@ -696,7 +701,7 @@
       "ID": "ACH_UNLOCK_MANY_CARDS",
       "SetID": "6d82akp",
       "Name": "Memento",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -704,7 +709,7 @@
       "ID": "ACH_UNLOCK_SKILL",
       "SetID": "6d82akp",
       "Name": "Growth",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
       "UsersEstimate": 82
     },
@@ -712,7 +717,7 @@
       "ID": "ACH_UNPLUG_EBRAIN",
       "SetID": "6d82akp",
       "Name": "Revenge",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
       "UsersEstimate": 59
     },
@@ -736,7 +741,7 @@
       "ID": "ACH_XFGZ_FALL_SEABASE",
       "SetID": "6d82akp",
       "Name": "Victor\u0027s Prejudice",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 32
     }
@@ -745,7 +750,7 @@
     {
       "ID": "6d82akp",
       "IsBase": true,
-      "Progressed": 93,
+      "Progressed": 92,
       "Completed": 0
     }
   ],
@@ -753,8 +758,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2023-08-05T03:06:15.5668828+00:00",
+  "LastChanged_Achievements": "2023-08-05T04:06:28.6231988+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:29.5049411+00:00",
-  "LastUpdate_Ratings": "2023-08-05T02:59:40.2375066+00:00",
-  "LastUpdate_Achievements": "2023-08-05T03:06:15.5669364+00:00"
+  "LastUpdate_Ratings": "2023-08-05T03:59:53.8579379+00:00",
+  "LastUpdate_Achievements": "2023-08-05T04:06:28.623253+00:00"
 }
