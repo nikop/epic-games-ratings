@@ -6,7 +6,7 @@
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 31.25% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 22.99% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 23.86% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -14,7 +14,7 @@
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.02% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.02% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.59% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.46% |
 | 16 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.39% |
@@ -26,8 +26,8 @@
 | 24 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.03% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.12% |
-| 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
+| 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.09% |
+| 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.01% |
 | 29 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.93% |
 | 30 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 31 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 8.00% |
@@ -51,20 +51,20 @@
 | 49 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 50 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.52% |
-| 52 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.25% |
+| 52 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.24% |
 | 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.02% |
+| 54 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.85% |
 | 54 | [Without Escape](games/w/without_escape.md) | 3.85% |
-| 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.82% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.68% |
-| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.56% |
+| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.54% |
 | 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.48% |
 | 60 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
 | 61 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
 | 62 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.23% |
 | 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.12% |
-| 64 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.04% |
 | 64 | [The Complex](games/t/the_complex.md) | 3.04% |
+| 65 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.03% |
 | 66 | [Monster Harvest](games/m/monster_harvest.md) | 2.96% |
 | 67 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 68 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.88% |
@@ -136,8 +136,8 @@
 | 134 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.54% |
 | 135 | [Godlike Burger](games/g/godlike_burger.md) | 0.53% |
 | 136 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
+| 137 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
 | 137 | [The Surge 2](games/t/the_surge_2.md) | 0.51% |
-| 138 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 139 | [Them and Us](games/t/them_and_us.md) | 0.49% |
 | 140 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 140 | [Train Valley](games/t/train_valley.md) | 0.47% |
