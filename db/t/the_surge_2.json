@@ -243,9 +243,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1958,
+  "EOS_Progressed": 1959,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -2093,6 +2093,11 @@
       "Time": "2023-08-05T10:04:18.2379902+00:00",
       "NumProgressed": 1958,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-05T11:04:25.9206493+00:00",
+      "NumProgressed": 1959,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -2128,7 +2133,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACHV_05",
@@ -2192,7 +2197,7 @@
       "Name": "Reverse Engineering",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHV_13",
@@ -2280,7 +2285,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACHV_24",
@@ -2304,7 +2309,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1567
     },
     {
       "ID": "ACHV_27",
@@ -2312,7 +2317,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACHV_28",
@@ -2320,7 +2325,7 @@
       "Name": "Clean Cut",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACHV_29",
@@ -2336,7 +2341,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "ACHV_31",
@@ -2352,7 +2357,7 @@
       "Name": "Remote Surgery",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHV_33",
@@ -2376,7 +2381,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ACHV_36",
@@ -2408,7 +2413,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "ACHV_40",
@@ -2480,7 +2485,7 @@
       "Name": "Turbo Booster",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHV_49",
@@ -2544,7 +2549,7 @@
       "Name": "Squid Pro Quo",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHV_57",
@@ -2559,7 +2564,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1958,
+      "Progressed": 1959,
       "Completed": 10
     }
   ],
@@ -2567,8 +2572,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-08-05T10:04:18.2379896+00:00",
+  "LastChanged_Achievements": "2023-08-05T11:04:25.9206487+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:30.8115902+00:00",
-  "LastUpdate_Ratings": "2023-08-05T09:57:30.1702588+00:00",
-  "LastUpdate_Achievements": "2023-08-05T10:04:18.2380544+00:00"
+  "LastUpdate_Ratings": "2023-08-05T10:57:32.6460596+00:00",
+  "LastUpdate_Achievements": "2023-08-05T11:04:25.9207065+00:00"
 }

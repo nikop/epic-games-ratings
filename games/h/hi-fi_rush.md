@@ -14,6 +14,7 @@ Rating: 4.87 (Ranked 23)
 | You got this, Peppermint? | 5.00% | ~187 |
 | This will cost you big time | 4.00% | ~150 |
 | I play my own way! | 4.00% | ~150 |
+| Z-shielding's got nothing on us! | 4.00% | ~150 |
 | Perfect Parry | 4.00% | ~150 |
 | Uh, they were broken when I got here | 4.00% | ~150 |
 | Alright, that felt AWESOME! | 4.00% | ~150 |
@@ -25,7 +26,6 @@ Rating: 4.87 (Ranked 23)
 | Who's the boss now? | 3.00% | ~112 |
 | Whoa! There's ANOTHER health bar!? | 3.00% | ~112 |
 | You must like calling me in, Chai | 3.00% | ~112 |
-| Z-shielding's got nothing on us! | 3.00% | ~112 |
 | Out in a puff of smoke | 3.00% | ~112 |
 | Perfecter Parry-er! | 3.00% | ~112 |
 | Kissing the sky! | 3.00% | ~112 |

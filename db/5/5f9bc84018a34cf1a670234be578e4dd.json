@@ -476,9 +476,9 @@
       "ID": "AllSafes",
       "SetID": "7jbi7el",
       "Name": "Safe Cracker",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Batteries",
@@ -492,9 +492,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "FallDeath",
@@ -524,33 +524,33 @@
       "ID": "Fusses",
       "SetID": "7jbi7el",
       "Name": "Beginner Electrician",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 70,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Hologram",
@@ -572,17 +572,17 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 80,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 80,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
@@ -595,8 +595,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-05T10:04:47.0629764+00:00",
+  "LastChanged_Achievements": "2023-08-05T11:04:54.8869373+00:00",
   "LastUpdate_AppInfo": "2023-08-01T17:57:05.506677+00:00",
-  "LastUpdate_Ratings": "2023-08-05T09:57:33.6144162+00:00",
-  "LastUpdate_Achievements": "2023-08-05T10:04:47.0629925+00:00"
+  "LastUpdate_Ratings": "2023-08-05T10:57:37.4639504+00:00",
+  "LastUpdate_Achievements": "2023-08-05T11:04:54.8869538+00:00"
 }

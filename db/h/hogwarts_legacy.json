@@ -5910,9 +5910,9 @@
       "Count": 575
     }
   ],
-  "EOS_Progressed": 289385,
+  "EOS_Progressed": 289387,
   "EOS_Completed": 440,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 558,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -17430,6 +17430,11 @@
       "Time": "2023-08-05T10:05:19.3552866+00:00",
       "NumProgressed": 289385,
       "NumCompleted": 440
+    },
+    {
+      "Time": "2023-08-05T11:05:28.3792407+00:00",
+      "NumProgressed": 289387,
+      "NumCompleted": 440
     }
   ],
   "TotalAchievements": 45,
@@ -17561,7 +17566,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28938
+      "UsersEstimate": 28939
     },
     {
       "ID": "PFA_24",
@@ -17769,7 +17774,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31832
+      "UsersEstimate": 31833
     },
     {
       "ID": "PFA_7",
@@ -17777,7 +17782,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31832
+      "UsersEstimate": 31833
     },
     {
       "ID": "PFA_8",
@@ -17785,7 +17790,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28938
+      "UsersEstimate": 28939
     },
     {
       "ID": "PFA_9",
@@ -17800,7 +17805,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289385,
+      "Progressed": 289387,
       "Completed": 440
     }
   ],
@@ -17808,8 +17813,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-05T06:59:53.7851087+00:00",
-  "LastChanged_Achievements": "2023-08-05T10:05:19.3552861+00:00",
+  "LastChanged_Achievements": "2023-08-05T11:05:28.3792402+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.8672159+00:00",
-  "LastUpdate_Ratings": "2023-08-05T09:58:14.6956721+00:00",
-  "LastUpdate_Achievements": "2023-08-05T10:05:19.3553919+00:00"
+  "LastUpdate_Ratings": "2023-08-05T10:58:14.7500445+00:00",
+  "LastUpdate_Achievements": "2023-08-05T11:05:28.3793518+00:00"
 }

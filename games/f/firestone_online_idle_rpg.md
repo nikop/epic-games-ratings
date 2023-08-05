@@ -39,9 +39,9 @@ Rating: 4.06 (Ranked 913)
 | Moving Up The Ladder | 10.00% | ~176 |
 | Relic Of The Past | 10.00% | ~176 |
 | Scroll Master | 10.00% | ~176 |
+| The father of Dragons | 9.00% | ~159 |
 | Here We Go Again | 8.00% | ~141 |
 | Master Enchanter | 8.00% | ~141 |
-| The father of Dragons | 8.00% | ~141 |
 | Crystal Mining | 7.00% | ~123 |
 | Dragon Slayer | 7.00% | ~123 |
 | Enchanting skill | 7.00% | ~123 |

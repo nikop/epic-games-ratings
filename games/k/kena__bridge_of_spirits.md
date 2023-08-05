@@ -20,7 +20,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Harness Your Power | 38.00% | ~162,339 |
 | The Open Range | 37.00% | ~158,067 |
 | Adira's Love | 34.00% | ~145,251 |
-| Adira's Fear | 32.00% | ~136,707 |
+| Adira's Fear | 33.00% | ~140,979 |
 | Weigh Them Down | 31.00% | ~132,435 |
 | Adira's Regret | 31.00% | ~132,435 |
 | A Heavy Hammer | 30.00% | ~128,163 |

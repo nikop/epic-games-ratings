@@ -5,15 +5,15 @@ Rating: 4.25 (Ranked 819)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,566 |
-| Don't I Know You...? | 76.00% | ~1,488 |
+| Rigged And Ready | 80.00% | ~1,567 |
+| Don't I Know You...? | 76.00% | ~1,489 |
 | Jailbreak | 65.00% | ~1,273 |
 | Suited and Booted | 38.00% | ~744 |
-| HEADSHOT! | 37.00% | ~724 |
-| Sleeping With The Fishes | 35.00% | ~685 |
-| Overheated | 30.00% | ~587 |
-| High Performance | 30.00% | ~587 |
-| Powered Up | 28.00% | ~548 |
+| HEADSHOT! | 37.00% | ~725 |
+| Sleeping With The Fishes | 35.00% | ~686 |
+| Overheated | 30.00% | ~588 |
+| High Performance | 30.00% | ~588 |
+| Powered Up | 28.00% | ~549 |
 | Studied The Blade | 24.00% | ~470 |
 | Home Invasion | 22.00% | ~431 |
 | Luminary | 22.00% | ~431 |
@@ -23,7 +23,7 @@ Rating: 4.25 (Ranked 819)
 | Shocking | 20.00% | ~392 |
 | Court Martial | 19.00% | ~372 |
 | Unforeseeable Consequences | 19.00% | ~372 |
-| Clean Cut | 18.00% | ~352 |
+| Clean Cut | 18.00% | ~353 |
 | Dead Again | 17.00% | ~333 |
 | Full Arsenal | 16.00% | ~313 |
 | Can't Trust Banks | 15.00% | ~294 |
@@ -41,10 +41,10 @@ Rating: 4.25 (Ranked 819)
 | A Little Banged Up | 8.00% | ~157 |
 | Denying Prophecy | 8.00% | ~157 |
 | Following In Their Footsteps | 8.00% | ~157 |
-| Reverse Engineering | 6.00% | ~117 |
-| Remote Surgery | 6.00% | ~117 |
-| Turbo Booster | 6.00% | ~117 |
-| Squid Pro Quo | 6.00% | ~117 |
+| Reverse Engineering | 6.00% | ~118 |
+| Remote Surgery | 6.00% | ~118 |
+| Turbo Booster | 6.00% | ~118 |
+| Squid Pro Quo | 6.00% | ~118 |
 | Reborn | 5.00% | ~98 |
 | Counter-Sniper | 5.00% | ~98 |
 | Shrimp Cocktail | 5.00% | ~98 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 819)
 | Swiss Army Drone | 1.00% | ~20 |
 | The Easy Way Out | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,958 (Ranked 169)  
+Progressed: 1,959 (Ranked 169)  
 Completed: 10 (0.51%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 10 (0.51%) (Ranked 137)
 | 2023-08-02 | 1,945 | 10 |
 | 2023-08-03 | 1,949 | 10 |
 | 2023-08-04 | 1,955 | 10 |
-| 2023-08-05 | 1,958 | 10 |
+| 2023-08-05 | 1,959 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

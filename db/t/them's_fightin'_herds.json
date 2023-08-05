@@ -220,9 +220,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 227499,
+  "EOS_Progressed": 227501,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11370,6 +11370,11 @@
       "Time": "2023-08-05T09:05:10.2507001+00:00",
       "NumProgressed": 227499,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-05T11:05:37.3036262+00:00",
+      "NumProgressed": 227501,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -11381,7 +11386,7 @@
       "Name": "Well-Done",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ALL_COMBO_OLEANDER",
@@ -11389,7 +11394,7 @@
       "Name": "Valedictorian",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ALL_COMBO_PAPRIKA",
@@ -11397,7 +11402,7 @@
       "Name": "Love is a Battlefield",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ALL_COMBO_POM",
@@ -11405,7 +11410,7 @@
       "Name": "That\u0027ll Do",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ALL_COMBO_SHANTY",
@@ -11413,7 +11418,7 @@
       "Name": "Swashbuckle\u0027d",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ALL_COMBO_STARTING_6",
@@ -11421,7 +11426,7 @@
       "Name": "School of Hard Knocks",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ALL_COMBO_TIANHUO",
@@ -11429,7 +11434,7 @@
       "Name": "Way of the Dragon",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ALL_COMBO_VELVET",
@@ -11437,7 +11442,7 @@
       "Name": "Iced Out",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "BEGIN_STORY_MODE",
@@ -11453,7 +11458,7 @@
       "Name": "Kickin\u0027 \u0027n Stompin\u0027",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "COMPLETE_ARCADE_OLEANDER_GREENHORN",
@@ -11461,7 +11466,7 @@
       "Name": "Dark Magic",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "COMPLETE_ARCADE_PAPRIKA_GREENHORN",
@@ -11469,7 +11474,7 @@
       "Name": "I Love You This Much",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "COMPLETE_ARCADE_POM_GREENHORN",
@@ -11477,7 +11482,7 @@
       "Name": "Who Let The Dogs Out?",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "COMPLETE_ARCADE_SHANTY_GREENHORN",
@@ -11485,7 +11490,7 @@
       "Name": "The GOAT",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "COMPLETE_ARCADE_STARTING_6",
@@ -11493,7 +11498,7 @@
       "Name": "The Key To Victory",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "COMPLETE_ARCADE_TIANHUO_GREENHORN",
@@ -11501,7 +11506,7 @@
       "Name": "Honor For All",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "COMPLETE_ARCADE_VELVET_GREENHORN",
@@ -11509,7 +11514,7 @@
       "Name": "Ice Queen",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "COMPLETE_ARIZONAS_STORY_MODE_CHAPTER",
@@ -11533,7 +11538,7 @@
       "Name": "Doohickeys",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "PLAY_1_ONLINE_MATCH",
@@ -11557,7 +11562,7 @@
       "Name": "Alpaca Space Program",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "STOMP_SON_OF_DEER_PAINTING",
@@ -11573,7 +11578,7 @@
       "Name": "High Priestess",
       "Percentage": 0.1,
       "XP": 145,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "WIN_10_ONLINE_MATCHES",
@@ -11604,7 +11609,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 227499,
+      "Progressed": 227501,
       "Completed": 3
     }
   ],
@@ -11612,8 +11617,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-08-04T01:56:12.3403254+00:00",
-  "LastChanged_Achievements": "2023-08-05T10:05:28.6110513+00:00",
+  "LastChanged_Achievements": "2023-08-05T11:05:37.3036253+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:44.3429926+00:00",
-  "LastUpdate_Ratings": "2023-08-05T10:00:19.4619065+00:00",
-  "LastUpdate_Achievements": "2023-08-05T10:05:28.6111382+00:00"
+  "LastUpdate_Ratings": "2023-08-05T11:00:20.0921323+00:00",
+  "LastUpdate_Achievements": "2023-08-05T11:05:37.3037179+00:00"
 }

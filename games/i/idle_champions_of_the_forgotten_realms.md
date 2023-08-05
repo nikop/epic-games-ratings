@@ -6,20 +6,20 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,753 |
-| Beast Intentions | 3.00% | ~6,565 |
+| A Brief Tour of the Realms | 4.00% | ~8,755 |
+| Beast Intentions | 3.00% | ~6,566 |
 | Maddening | 2.00% | ~4,377 |
-| The Silken Swamp | 1.00% | ~2,188 |
-| Supply Run | 1.00% | ~2,188 |
+| The Silken Swamp | 1.00% | ~2,189 |
+| Supply Run | 1.00% | ~2,189 |
 | Vecna Lives! | 1.00% | ~1,851 |
 | Rocky Reception | 1.00% | ~1,851 |
 | Rock and Roll | 1.00% | ~1,851 |
 | Flight of the Kindori Pod | 0.90% | ~1,666 |
 | Tall Tales | 0.80% | ~1,481 |
+| Seeds of Destruction | 0.80% | ~1,481 |
 | Vecna Loots! | 0.80% | ~1,481 |
 | Topolah's Tower | 0.80% | ~1,481 |
 | Wet Feet | 0.70% | ~1,532 |
-| Seeds of Destruction | 0.70% | ~1,296 |
 | Return to the Tomb | 0.70% | ~1,296 |
 | Were-verpowered | 0.70% | ~1,532 |
 | The Cursed Farmer | 0.70% | ~1,532 |
@@ -59,17 +59,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.50% | ~926 |
 | Animated Giff | 0.50% | ~926 |
 | Upholding the Law | 0.40% | ~875 |
-| Hither of the Feywild | 0.40% | ~740 |
-| Speeds of Destruction | 0.40% | ~740 |
-| Owlbear Necessities | 0.40% | ~740 |
+| Hither of the Feywild | 0.40% | ~741 |
+| Speeds of Destruction | 0.40% | ~741 |
+| Owlbear Necessities | 0.40% | ~741 |
 | On the Hunt | 0.40% | ~875 |
-| Best Thay Ever | 0.40% | ~740 |
-| A Demi-god's Defender | 0.40% | ~740 |
-| Who Lurks Below? | 0.40% | ~740 |
+| Best Thay Ever | 0.40% | ~741 |
+| A Demi-god's Defender | 0.40% | ~741 |
+| Who Lurks Below? | 0.40% | ~741 |
 | Homecoming | 0.40% | ~875 |
 | The Lost Heir of Omu | 0.40% | ~875 |
-| No One Can Hear You Scream | 0.40% | ~740 |
-| Welcome to the Rock | 0.40% | ~740 |
+| No One Can Hear You Scream | 0.40% | ~741 |
+| Welcome to the Rock | 0.40% | ~741 |
 | The Forbidden City | 0.40% | ~875 |
 | Wisdom Check | 0.40% | ~875 |
 | Family Entanglements | 0.40% | ~875 |
@@ -87,10 +87,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.40% | ~875 |
 | Overdue Rendezvous | 0.40% | ~875 |
 | Pure Energy | 0.40% | ~875 |
-| Devilishly Cold | 0.40% | ~740 |
-| Luigi After Hours | 0.40% | ~740 |
-| Electric Mayhem | 0.40% | ~740 |
-| 3,720 to 1 | 0.40% | ~740 |
+| Devilishly Cold | 0.40% | ~741 |
+| Luigi After Hours | 0.40% | ~741 |
+| Electric Mayhem | 0.40% | ~741 |
+| 3,720 to 1 | 0.40% | ~741 |
 | Nightmare Rats! | 0.30% | ~555 |
 | The Prince of a Thousand Enemies | 0.30% | ~555 |
 | Downfall | 0.30% | ~555 |
@@ -102,6 +102,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.30% | ~555 |
 | The Sanctum of the Sword | 0.30% | ~555 |
 | Get Back In The Castle | 0.30% | ~555 |
+| Checkmate | 0.30% | ~555 |
 | Xanathaaaaaaar! | 0.30% | ~555 |
 | Captured! | 0.30% | ~657 |
 | Force Grey Unleashed | 0.30% | ~657 |
@@ -181,7 +182,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Avernus in a Handbasket | 0.20% | ~370 |
 | Hands Off! | 0.20% | ~370 |
 | Weak Doesn't Mean Feeble | 0.20% | ~370 |
-| Checkmate | 0.20% | ~370 |
 | Vecna Out! | 0.20% | ~370 |
 | Clowning Around | 0.20% | ~370 |
 | Anti-Dexterous Explorers | 0.20% | ~438 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,835 (Ranked 53)  
+Progressed: 218,865 (Ranked 53)  
 Completed: 2,152 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 2,152 (0.98%) (Ranked 113)
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
-| 2023-08-05 | 218,835 | 2,152 |
+| 2023-08-05 | 218,865 | 2,152 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,900 (Ranked 38)  

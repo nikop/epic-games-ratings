@@ -2298,17 +2298,17 @@
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 109
     },
     {
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 105
     },
     {
       "ID": "LEVEL_015",
@@ -2387,8 +2387,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-08-05T10:04:19.6143535+00:00",
+  "LastChanged_Achievements": "2023-08-05T11:04:27.2148032+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:52.0261252+00:00",
-  "LastUpdate_Ratings": "2023-08-05T09:58:46.7177068+00:00",
-  "LastUpdate_Achievements": "2023-08-05T10:04:19.6143832+00:00"
+  "LastUpdate_Ratings": "2023-08-05T10:58:49.2247549+00:00",
+  "LastUpdate_Achievements": "2023-08-05T11:04:27.2148339+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "quantum-recharged-6553fd",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T17:02:16.8413806+00:00",
-  "LastChanged_Achievements": "2023-08-05T10:03:33.1460704+00:00",
+  "LastChanged_Achievements": "2023-08-05T11:03:40.4318012+00:00",
   "LastUpdate_AppInfo": "2023-08-03T16:57:09.0880995+00:00",
-  "LastUpdate_Ratings": "2023-08-05T09:57:25.2830803+00:00",
-  "LastUpdate_Achievements": "2023-08-05T10:03:33.1460732+00:00"
+  "LastUpdate_Ratings": "2023-08-05T10:57:27.6877605+00:00",
+  "LastUpdate_Achievements": "2023-08-05T11:03:40.4318041+00:00"
 }

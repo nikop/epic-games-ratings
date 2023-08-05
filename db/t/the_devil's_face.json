@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 218,
+  "EOS_Progressed": 219,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -959,6 +959,11 @@
       "Time": "2023-08-05T10:06:23.0957838+00:00",
       "NumProgressed": 218,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-05T11:06:34.1098648+00:00",
+      "NumProgressed": 219,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -1081,13 +1086,13 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 218,
+      "Progressed": 219,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-08-05T10:06:23.0957833+00:00",
+  "LastChanged_Achievements": "2023-08-05T11:06:34.1098642+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:44.2579666+00:00",
-  "LastUpdate_Ratings": "2023-08-05T09:58:10.8717695+00:00",
-  "LastUpdate_Achievements": "2023-08-05T10:06:23.0957999+00:00"
+  "LastUpdate_Ratings": "2023-08-05T10:58:12.0296504+00:00",
+  "LastUpdate_Achievements": "2023-08-05T11:06:34.1098834+00:00"
 }

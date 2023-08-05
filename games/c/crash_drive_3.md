@@ -14,10 +14,10 @@
 | Fore! | 25.00% | ~90 |
 | The Collector | 25.00% | ~90 |
 | Insurance fraud | 25.00% | ~90 |
+| The Wild West | 25.00% | ~90 |
 | Snow Fun! | 25.00% | ~90 |
 | You're it | 25.00% | ~90 |
 | To and Fro | 24.00% | ~86 |
-| The Wild West | 24.00% | ~86 |
 | Bag of Tricks | 24.00% | ~86 |
 | I see the light! | 24.00% | ~86 |
 | First Come, First Serve | 23.00% | ~82 |

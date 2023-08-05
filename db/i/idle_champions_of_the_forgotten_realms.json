@@ -5560,9 +5560,9 @@
       "Count": 3341
     }
   ],
-  "EOS_Progressed": 218835,
+  "EOS_Progressed": 218865,
   "EOS_Completed": 2152,
-  "EOS_NewPlayers": 2210,
+  "EOS_NewPlayers": 2217,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17085,6 +17085,11 @@
       "Time": "2023-08-05T09:00:51.7861729+00:00",
       "NumProgressed": 218835,
       "NumCompleted": 2152
+    },
+    {
+      "Time": "2023-08-05T11:00:57.83944+00:00",
+      "NumProgressed": 218865,
+      "NumCompleted": 2152
     }
   ],
   "TotalAchievements": 512,
@@ -17096,7 +17101,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8753
+      "UsersEstimate": 8755
     },
     {
       "ID": "objective_completed_10",
@@ -17264,7 +17269,7 @@
       "Name": "Hither of the Feywild",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "objective_completed_1066",
@@ -17400,7 +17405,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2188
+      "UsersEstimate": 2189
     },
     {
       "ID": "objective_completed_1090",
@@ -17464,7 +17469,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6565
+      "UsersEstimate": 6566
     },
     {
       "ID": "objective_completed_110",
@@ -17656,7 +17661,7 @@
       "Name": "Supply Run",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2188
+      "UsersEstimate": 2189
     },
     {
       "ID": "objective_completed_1142",
@@ -17718,9 +17723,9 @@
       "ID": "objective_completed_1152",
       "SetID": "415jc5c",
       "Name": "Seeds of Destruction",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1481
     },
     {
       "ID": "objective_completed_1153",
@@ -17728,7 +17733,7 @@
       "Name": "Speeds of Destruction",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "objective_completed_1154",
@@ -17736,7 +17741,7 @@
       "Name": "Owlbear Necessities",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "objective_completed_1158",
@@ -17768,7 +17773,7 @@
       "Name": "Best Thay Ever",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "objective_completed_1163",
@@ -17792,7 +17797,7 @@
       "Name": "A Demi-god\u0027s Defender",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "objective_completed_1168",
@@ -17966,9 +17971,9 @@
       "ID": "objective_completed_1203",
       "SetID": "415jc5c",
       "Name": "Checkmate",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 370
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_1204",
@@ -18000,7 +18005,7 @@
       "Name": "Who Lurks Below?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "objective_completed_1214",
@@ -18168,7 +18173,7 @@
       "Name": "No One Can Hear You Scream",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "objective_completed_1346",
@@ -18184,7 +18189,7 @@
       "Name": "Welcome to the Rock",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "objective_completed_1351",
@@ -21048,7 +21053,7 @@
       "Name": "Devilishly Cold",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "objective_completed_1215",
@@ -21128,7 +21133,7 @@
       "Name": "Luigi After Hours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "objective_completed_1380",
@@ -21144,7 +21149,7 @@
       "Name": "Electric Mayhem",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "objective_completed_1385",
@@ -21160,7 +21165,7 @@
       "Name": "3,720 to 1",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "objective_completed_1390",
@@ -21191,21 +21196,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185109,
+      "Progressed": 185139,
       "Completed": 3057
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218835,
+      "Progressed": 218865,
       "Completed": 2152
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-05T04:59:24.4871745+00:00",
-  "LastChanged_Achievements": "2023-08-05T09:00:51.7861725+00:00",
+  "LastChanged_Achievements": "2023-08-05T11:00:57.8394395+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-05T09:58:51.8867128+00:00",
-  "LastUpdate_Achievements": "2023-08-05T09:00:51.7885188+00:00"
+  "LastUpdate_Ratings": "2023-08-05T10:58:53.7418463+00:00",
+  "LastUpdate_Achievements": "2023-08-05T11:00:57.8425421+00:00"
 }

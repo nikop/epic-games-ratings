@@ -6,17 +6,17 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,304 |
-| Let There Be Light | 30.00% | ~18,084 |
+| Follow the Light | 37.00% | ~22,305 |
+| Let There Be Light | 30.00% | ~18,085 |
 | Float Like a Butterfly | 28.00% | ~16,879 |
 | Nordic Walking | 23.00% | ~13,865 |
 | Bright Falls' Finest | 22.00% | ~13,262 |
-| Under a Thin Layer of Skin | 19.00% | ~11,453 |
+| Under a Thin Layer of Skin | 19.00% | ~11,454 |
 | Park Ranger | 16.00% | ~9,645 |
 | Paging Mr. Wake | 16.00% | ~9,645 |
 | Back! Back, I Say! | 15.00% | ~9,042 |
 | Finders Keepers | 15.00% | ~9,042 |
-| Damn Good Cup of Coffee | 14.00% | ~8,439 |
+| Damn Good Cup of Coffee | 14.00% | ~8,440 |
 | Wheels Within Wheels | 13.00% | ~7,837 |
 | They're Heeeeeere! | 13.00% | ~7,837 |
 | Sound and Fury | 13.00% | ~7,837 |
@@ -33,8 +33,8 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 10.00% | ~6,028 |
 | The Lady of the Light | 9.00% | ~5,425 |
 | Energized! | 9.00% | ~5,425 |
-| What Light Through Yonder Window | 8.00% | ~4,822 |
-| Right of Way | 8.00% | ~4,822 |
+| What Light Through Yonder Window | 8.00% | ~4,823 |
+| Right of Way | 8.00% | ~4,823 |
 | A Friend in Need | 8.00% | ~1,900 |
 | Tornado Wrangler | 7.00% | ~4,220 |
 | Departure | 6.00% | ~3,617 |
@@ -42,21 +42,21 @@ Number of Ratings: 524  (23.09.2022)
 | Children of the Elder God | 5.00% | ~3,014 |
 | Drink 'Em Both Up | 5.00% | ~3,014 |
 | Hardboiled Writer | 5.00% | ~3,014 |
-| Ding! | 5.00% | ~1,187 |
+| Ding! | 5.00% | ~1,188 |
 | Boob Tube | 4.00% | ~2,411 |
 | If It Flies, It Burns | 4.00% | ~2,411 |
 | KBF-FM | 4.00% | ~2,411 |
 | Carny | 3.00% | ~1,808 |
-| Kill Your Darlings | 3.00% | ~712 |
-| Heartbreaker | 3.00% | ~712 |
+| Kill Your Darlings | 3.00% | ~713 |
+| Heartbreaker | 3.00% | ~713 |
 | Medical Opinions | 2.00% | ~1,206 |
 | Taken Season | 2.00% | ~1,206 |
 | An Idyllic Small Town | 2.00% | ~1,206 |
 | Iron Will | 2.00% | ~475 |
 | Couch Potato | 1.00% | ~603 |
-| Go Gentle Into That Good Light | 1.00% | ~237 |
+| Go Gentle Into That Good Light | 1.00% | ~238 |
 | Words Will Never Harm You | 0.70% | ~166 |
-| Cardboard Companions | 0.60% | ~142 |
+| Cardboard Companions | 0.60% | ~143 |
 | Fast and Furious | 0.50% | ~119 |
 | Run-On Sentence | 0.40% | ~95 |
 | License Revoked | 0.40% | ~95 |
@@ -69,12 +69,12 @@ Number of Ratings: 524  (23.09.2022)
 | Gunless Wonder | 0.20% | ~121 |
 | Every Nook and Cranny | 0.20% | ~121 |
 | Bright Falls Aficionado | 0.20% | ~121 |
-| Licensed Properties | 0.20% | ~47 |
+| Licensed Properties | 0.20% | ~48 |
 | Collector's Edition | 0.10% | ~60 |
 | Hypercaffeinated | 0.10% | ~60 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,281 (Ranked 84)  
+Progressed: 60,283 (Ranked 84)  
 Completed: 64 (0.11%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 64 (0.11%) (Ranked 194)
 | 2023-08-02 | 59,999 | 63 |
 | 2023-08-03 | 60,143 | 63 |
 | 2023-08-04 | 60,237 | 64 |
-| 2023-08-05 | 60,281 | 64 |
+| 2023-08-05 | 60,283 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

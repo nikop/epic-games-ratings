@@ -2,12 +2,12 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 466,
+  "Ranking_Rating": 465,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewPlayers": 26,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16942,
+  "EOS_Progressed": 16943,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4039,
+  "EOS_NewPlayers": 3974,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7379,6 +7379,11 @@
       "Time": "2023-08-05T10:04:15.6299339+00:00",
       "NumProgressed": 16942,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-05T11:04:23.294557+00:00",
+      "NumProgressed": 16943,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -7614,7 +7619,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "0030",
@@ -7677,7 +7682,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 16942,
+      "Progressed": 16943,
       "Completed": 1
     }
   ],
@@ -7685,8 +7690,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-04T08:00:04.3199402+00:00",
-  "LastChanged_Achievements": "2023-08-05T10:04:15.6299333+00:00",
+  "LastChanged_Achievements": "2023-08-05T11:04:23.2945565+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-05T10:00:13.8509887+00:00",
-  "LastUpdate_Achievements": "2023-08-05T10:04:15.6300056+00:00"
+  "LastUpdate_Ratings": "2023-08-05T11:00:14.1584669+00:00",
+  "LastUpdate_Achievements": "2023-08-05T11:04:23.2946311+00:00"
 }
