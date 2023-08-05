@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56227,
+  "EOS_Progressed": 56230,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6927,6 +6927,11 @@
       "Time": "2023-08-05T09:05:32.1915868+00:00",
       "NumProgressed": 56227,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-05T13:07:50.3981858+00:00",
+      "NumProgressed": 56230,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -7010,7 +7015,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2811
+      "UsersEstimate": 2812
     },
     {
       "ID": "FlyingPresentMaster",
@@ -7026,7 +7031,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5060
+      "UsersEstimate": 5061
     },
     {
       "ID": "FoolMeTwice",
@@ -7329,7 +7334,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56227,
+      "Progressed": 56230,
       "Completed": 4
     }
   ],
@@ -7337,8 +7342,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-08-05T12:06:14.9712665+00:00",
+  "LastChanged_Achievements": "2023-08-05T13:07:50.3981853+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:17.4893543+00:00",
-  "LastUpdate_Ratings": "2023-08-05T11:57:16.877416+00:00",
-  "LastUpdate_Achievements": "2023-08-05T12:06:14.9713664+00:00"
+  "LastUpdate_Ratings": "2023-08-05T12:59:21.3067011+00:00",
+  "LastUpdate_Achievements": "2023-08-05T13:07:50.3982461+00:00"
 }

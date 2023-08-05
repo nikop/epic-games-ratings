@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -508,9 +508,9 @@
       "ID": "ACH_018",
       "SetID": "72imik0",
       "Name": "Thinking of Everything",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_019",
@@ -532,9 +532,9 @@
       "ID": "ACH_020",
       "SetID": "72imik0",
       "Name": "Exquisite Artwork",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_021",
@@ -636,9 +636,9 @@
       "ID": "ACH_032",
       "SetID": "72imik0",
       "Name": "Archibald Sterling",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_033",
@@ -692,9 +692,9 @@
       "ID": "ACH_039",
       "SetID": "72imik0",
       "Name": "Hugo Beckers",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_04",
@@ -740,9 +740,9 @@
       "ID": "ACH_044",
       "SetID": "72imik0",
       "Name": "Rehana Piette",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_045",
@@ -813,8 +813,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-08-05T12:04:57.9103313+00:00",
+  "LastChanged_Achievements": "2023-08-05T13:06:44.8876927+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:28.7854708+00:00",
-  "LastUpdate_Ratings": "2023-08-05T11:58:34.8157333+00:00",
-  "LastUpdate_Achievements": "2023-08-05T12:04:57.910382+00:00"
+  "LastUpdate_Ratings": "2023-08-05T13:00:21.2301667+00:00",
+  "LastUpdate_Achievements": "2023-08-05T13:06:44.8877234+00:00"
 }

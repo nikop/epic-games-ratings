@@ -27,6 +27,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 1.00% | ~133 |
 | Hanging Gardens | 1.00% | ~133 |
 | Oracle | 1.00% | ~133 |
+| Pyramids | 1.00% | ~133 |
 | Judaism | 1.00% | ~133 |
 | Greek Paganism | 1.00% | ~133 |
 | Naming Landmarks | 1.00% | ~133 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 0.90% | ~119 |
 | Ishtar Gate | 0.90% | ~119 |
 | Lighthouse | 0.90% | ~119 |
-| Pyramids | 0.90% | ~119 |
 | Christianity | 0.90% | ~119 |
 | Babylonian Paganism | 0.90% | ~119 |
 | Carthaginian Paganism | 0.90% | ~119 |
@@ -85,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 0.50% | ~66 |
 | Phalangite | 0.50% | ~66 |
 | Devout | 0.40% | ~53 |
+| Invincible | 0.40% | ~53 |
 | Lion | 0.40% | ~53 |
 | Mighty | 0.40% | ~53 |
 | Subjugator | 0.40% | ~53 |
@@ -112,7 +113,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.30% | ~40 |
 | Ishtar Gate in Babylon | 0.30% | ~40 |
 | Capable | 0.30% | ~40 |
-| Invincible | 0.30% | ~40 |
 | Ready | 0.30% | ~40 |
 | Clerics | 0.30% | ~40 |
 | Hunters | 0.30% | ~40 |

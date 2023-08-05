@@ -4,8 +4,8 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -395,9 +395,9 @@
       "ID": "interactBerry10",
       "SetID": "ci65fo0",
       "Name": "Gourmand",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "interactChest10",
@@ -595,9 +595,9 @@
       "ID": "locDungeon1",
       "SetID": "ci65fo0",
       "Name": "The first dungeon",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "locDungeon2",
@@ -627,9 +627,9 @@
       "ID": "locSmith",
       "SetID": "ci65fo0",
       "Name": "The second friend",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "locWorker",
@@ -667,9 +667,9 @@
       "ID": "questBuildShip",
       "SetID": "ci65fo0",
       "Name": "Captain",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "questBuilder",
@@ -771,9 +771,9 @@
       "ID": "questKillGoblinMage",
       "SetID": "ci65fo0",
       "Name": "Goblins Conqueror",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "questKillSwampMonster",
@@ -827,9 +827,9 @@
       "ID": "questRobHut",
       "SetID": "ci65fo0",
       "Name": "Thief",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "questSWAntidot",
@@ -859,9 +859,9 @@
       "ID": "questSavePrincess",
       "SetID": "ci65fo0",
       "Name": "The Savior of Princesses",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "questSavePrincessFinal",
@@ -920,8 +920,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-05T12:03:22.0987548+00:00",
+  "LastChanged_Achievements": "2023-08-05T13:05:31.6755683+00:00",
   "LastUpdate_AppInfo": "2023-08-02T10:57:06.3883378+00:00",
-  "LastUpdate_Ratings": "2023-08-05T11:57:36.4810448+00:00",
-  "LastUpdate_Achievements": "2023-08-05T12:03:22.0988528+00:00"
+  "LastUpdate_Ratings": "2023-08-05T12:59:36.5454453+00:00",
+  "LastUpdate_Achievements": "2023-08-05T13:05:31.6756336+00:00"
 }

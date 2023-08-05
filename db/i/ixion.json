@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3022,
+  "EOS_Progressed": 3023,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4319,6 +4319,11 @@
       "Time": "2023-08-05T10:05:45.8565666+00:00",
       "NumProgressed": 3022,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-05T13:07:46.2440013+00:00",
+      "NumProgressed": 3023,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4330,7 +4335,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "ACH_BASE_10",
@@ -4522,7 +4527,7 @@
       "Name": "Fully Recycled",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_BASE_34",
@@ -4634,7 +4639,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_BASE_5",
@@ -4706,7 +4711,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_BASE_6",
@@ -4785,13 +4790,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1204,
+      "Progressed": 1205,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3022,
+      "Progressed": 3023,
       "Completed": 0
     }
   ],
@@ -4799,8 +4804,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-08-05T12:06:09.9224482+00:00",
+  "LastChanged_Achievements": "2023-08-05T13:07:46.2440008+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:23.7106164+00:00",
-  "LastUpdate_Ratings": "2023-08-05T11:59:29.9692576+00:00",
-  "LastUpdate_Achievements": "2023-08-05T12:06:09.9225517+00:00"
+  "LastUpdate_Ratings": "2023-08-05T13:01:03.5833114+00:00",
+  "LastUpdate_Achievements": "2023-08-05T13:07:46.2440663+00:00"
 }

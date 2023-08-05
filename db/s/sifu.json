@@ -5544,9 +5544,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 712186,
+  "EOS_Progressed": 712190,
   "EOS_Completed": 12844,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -15729,6 +15729,11 @@
       "Time": "2023-08-05T12:01:47.1319592+00:00",
       "NumProgressed": 712186,
       "NumCompleted": 12844
+    },
+    {
+      "Time": "2023-08-05T13:02:54.7091688+00:00",
+      "NumProgressed": 712190,
+      "NumCompleted": 12844
     }
   ],
   "TotalAchievements": 50,
@@ -15788,7 +15793,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 5697
+      "UsersEstimate": 5698
     },
     {
       "ID": "08_Wude_H2",
@@ -16076,7 +16081,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -16084,7 +16089,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -16139,21 +16144,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21487,
+      "Progressed": 21491,
       "Completed": 10484
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712186,
+      "Progressed": 712190,
       "Completed": 12844
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-04T21:59:32.9587803+00:00",
-  "LastChanged_Achievements": "2023-08-05T12:01:47.1319589+00:00",
+  "LastChanged_Achievements": "2023-08-05T13:02:54.7091684+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:56.2454888+00:00",
-  "LastUpdate_Ratings": "2023-08-05T12:00:00.3904941+00:00",
-  "LastUpdate_Achievements": "2023-08-05T12:01:47.1320884+00:00"
+  "LastUpdate_Ratings": "2023-08-05T13:01:29.8335727+00:00",
+  "LastUpdate_Achievements": "2023-08-05T13:02:54.7092539+00:00"
 }

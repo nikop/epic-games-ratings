@@ -6,15 +6,15 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,755 |
-| Beast Intentions | 3.00% | ~6,566 |
+| A Brief Tour of the Realms | 4.00% | ~8,756 |
+| Beast Intentions | 3.00% | ~6,567 |
 | Maddening | 2.00% | ~4,378 |
 | The Silken Swamp | 1.00% | ~2,189 |
 | Supply Run | 1.00% | ~2,189 |
 | Vecna Lives! | 1.00% | ~1,852 |
 | Rocky Reception | 1.00% | ~1,852 |
 | Rock and Roll | 1.00% | ~1,852 |
-| Flight of the Kindori Pod | 0.90% | ~1,666 |
+| Flight of the Kindori Pod | 0.90% | ~1,667 |
 | Tall Tales | 0.80% | ~1,481 |
 | Seeds of Destruction | 0.80% | ~1,481 |
 | Vecna Loots! | 0.80% | ~1,481 |
@@ -48,6 +48,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.50% | ~1,094 |
 | The Mists of Ravenloft | 0.50% | ~1,094 |
 | Invisible Shadows | 0.50% | ~1,094 |
+| Family Entanglements | 0.50% | ~1,094 |
 | The Botched Kidnapping | 0.50% | ~1,094 |
 | The Ring of Regeneration | 0.50% | ~1,094 |
 | Seeking Allies | 0.50% | ~1,094 |
@@ -72,7 +73,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Rock | 0.40% | ~741 |
 | The Forbidden City | 0.40% | ~876 |
 | Wisdom Check | 0.40% | ~876 |
-| Family Entanglements | 0.40% | ~876 |
 | Tower on the Lake | 0.40% | ~876 |
 | The Crumbling Temple | 0.40% | ~876 |
 | Are Ya Chicken? | 0.40% | ~876 |
@@ -91,24 +91,25 @@ Number of Ratings: 9,041  (23.09.2022)
 | Luigi After Hours | 0.40% | ~741 |
 | Electric Mayhem | 0.40% | ~741 |
 | 3,720 to 1 | 0.40% | ~741 |
-| Nightmare Rats! | 0.30% | ~555 |
-| The Prince of a Thousand Enemies | 0.30% | ~555 |
-| Downfall | 0.30% | ~555 |
-| Slack-jawed Lorna | 0.30% | ~555 |
-| The Fairy Rings of Thither | 0.30% | ~555 |
-| Well Equipped | 0.30% | ~555 |
-| More Than Well Equipped | 0.30% | ~555 |
-| Keep Your Distance | 0.30% | ~555 |
-| The Castle of a Thousand Vecnas | 0.30% | ~555 |
-| The Sanctum of the Sword | 0.30% | ~555 |
-| Get Back In The Castle | 0.30% | ~555 |
-| Checkmate | 0.30% | ~555 |
-| Xanathaaaaaaar! | 0.30% | ~555 |
+| Nightmare Rats! | 0.30% | ~556 |
+| The Prince of a Thousand Enemies | 0.30% | ~556 |
+| Downfall | 0.30% | ~556 |
+| Slack-jawed Lorna | 0.30% | ~556 |
+| The Fairy Rings of Thither | 0.30% | ~556 |
+| Well Equipped | 0.30% | ~556 |
+| More Than Well Equipped | 0.30% | ~556 |
+| Keep Your Distance | 0.30% | ~556 |
+| The Castle of a Thousand Vecnas | 0.30% | ~556 |
+| The Sanctum of the Sword | 0.30% | ~556 |
+| Get Back In The Castle | 0.30% | ~556 |
+| Checkmate | 0.30% | ~556 |
+| Xanathaaaaaaar! | 0.30% | ~556 |
+| Lobsterfolk Assault | 0.30% | ~657 |
 | Captured! | 0.30% | ~657 |
 | Force Grey Unleashed | 0.30% | ~657 |
 | Vajra's Guards | 0.30% | ~657 |
 | Sleuth It Out | 0.30% | ~657 |
-| The Newcomers of Notoriety | 0.30% | ~555 |
+| The Newcomers of Notoriety | 0.30% | ~556 |
 | A Grand Puzzle | 0.30% | ~657 |
 | Azaka's Procession - Part 1 | 0.30% | ~657 |
 | Tomb of the Nine Gods | 0.30% | ~657 |
@@ -142,22 +143,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.30% | ~657 |
 | Resolve Amongst Chaos | 0.30% | ~657 |
 | Market Fluctuations | 0.30% | ~657 |
-| The Giant's Bane Tavern | 0.30% | ~555 |
-| The Everlasting Rime | 0.30% | ~555 |
+| The Giant's Bane Tavern | 0.30% | ~556 |
+| The Everlasting Rime | 0.30% | ~556 |
 | Close Escort | 0.30% | ~657 |
 | Constant Banditry | 0.30% | ~657 |
 | The Long Haul | 0.30% | ~657 |
 | Lost in the Deep | 0.30% | ~657 |
 | Easily Distracted | 0.30% | ~657 |
 | Rude Welcome | 0.30% | ~657 |
-| Moose Tracks | 0.30% | ~555 |
-| Civilization | 0.30% | ~555 |
+| Moose Tracks | 0.30% | ~556 |
+| Civilization | 0.30% | ~556 |
 | Durable Deep | 0.30% | ~657 |
 | Expert Opinion | 0.30% | ~657 |
 | The Templar's Camp | 0.30% | ~657 |
 | Rescue in the Jungle | 0.30% | ~657 |
-| Willing to Sacrifice | 0.30% | ~555 |
-| Tiny Treaty | 0.30% | ~555 |
+| Willing to Sacrifice | 0.30% | ~556 |
+| Tiny Treaty | 0.30% | ~556 |
 | Starving in the Jungle | 0.20% | ~438 |
 | Cold as Ice | 0.20% | ~370 |
 | Friends and Foes | 0.20% | ~370 |
@@ -187,7 +188,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anti-Dexterous Explorers | 0.20% | ~438 |
 | Struggling Toward Omu | 0.20% | ~438 |
 | Not Very Charming | 0.20% | ~438 |
-| Lobsterfolk Assault | 0.20% | ~438 |
 | Periodic Petrification | 0.20% | ~438 |
 | Home Field Advantage | 0.20% | ~438 |
 | Double Vision | 0.20% | ~438 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,878 (Ranked 53)  
+Progressed: 218,894 (Ranked 53)  
 Completed: 2,152 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 2,152 (0.98%) (Ranked 113)
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
-| 2023-08-05 | 218,878 | 2,152 |
+| 2023-08-05 | 218,894 | 2,152 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,900 (Ranked 38)  

@@ -5,23 +5,23 @@ Rating: 4.65 (Ranked 297)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,525 |
-| I will survive! | 92.00% | ~4,477 |
-| All thumbs | 91.00% | ~4,428 |
-| Home, sweet home | 90.00% | ~4,379 |
-| Survivalist | 89.00% | ~4,331 |
-| One way ticket | 84.00% | ~4,087 |
-| Last man standing | 79.00% | ~3,844 |
-| Family guy | 77.00% | ~3,747 |
-| Out of the Bag | 74.00% | ~3,601 |
+| Prepper | 93.00% | ~4,526 |
+| I will survive! | 92.00% | ~4,478 |
+| All thumbs | 91.00% | ~4,429 |
+| Home, sweet home | 90.00% | ~4,380 |
+| Survivalist | 89.00% | ~4,332 |
+| One way ticket | 84.00% | ~4,088 |
+| Last man standing | 79.00% | ~3,845 |
+| Family guy | 76.00% | ~3,699 |
+| Out of the Bag | 74.00% | ~3,602 |
 | The Dark Side | 69.00% | ~3,358 |
-| Duck and cover! | 64.00% | ~3,114 |
+| Duck and cover! | 64.00% | ~3,115 |
 | Souper! | 63.00% | ~3,066 |
-| Pacifist | 58.00% | ~2,822 |
+| Pacifist | 58.00% | ~2,823 |
 | 2-1-6 | 57.00% | ~2,774 |
-| A gift | 52.00% | ~2,530 |
-| Girl Power | 46.00% | ~2,238 |
-| What goes around... | 43.00% | ~2,092 |
+| A gift | 52.00% | ~2,531 |
+| Girl Power | 46.00% | ~2,239 |
+| What goes around... | 43.00% | ~2,093 |
 | Be Prepared | 36.00% | ~1,752 |
 | Unbreakable | 36.00% | ~1,752 |
 | This is the end | 33.00% | ~1,606 |
@@ -66,7 +66,7 @@ Rating: 4.65 (Ranked 297)
 | Tora! Tora! Tora! | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,866 (Ranked 141)  
+Progressed: 4,867 (Ranked 141)  
 Completed: 1 (0.02%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 1 (0.02%) (Ranked 229)
 | 2023-08-02 | 4,842 | 1 |
 | 2023-08-03 | 4,851 | 1 |
 | 2023-08-04 | 4,861 | 1 |
-| 2023-08-05 | 4,866 | 1 |
+| 2023-08-05 | 4,867 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

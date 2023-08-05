@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | A path of no return | 100.00% | ~82 |
 | A bottomless pit | 85.00% | ~70 |
-| Pigeon | 80.00% | ~66 |
+| Pigeon | 82.00% | ~67 |
 | Baited | 70.00% | ~57 |
 | "Swoosh" | 61.00% | ~50 |
 | The light at the end of the tunnel | 60.00% | ~49 |

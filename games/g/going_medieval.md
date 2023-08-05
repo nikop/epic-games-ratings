@@ -16,9 +16,9 @@ Number of Ratings: 706  (23.09.2022)
 | Home Cooked Meal | 56.00% | ~2,849 |
 | Onward | 55.00% | ~2,798 |
 | The First Week | 53.00% | ~2,696 |
+| Feast or Famine | 51.00% | ~2,594 |
 | Studious Researcher | 51.00% | ~2,594 |
 | Beam Me Up | 50.00% | ~2,544 |
-| Feast or Famine | 50.00% | ~2,544 |
 | Adept Researcher | 44.00% | ~2,238 |
 | Retribution | 40.00% | ~2,035 |
 | ...And Don’t Come Back! | 40.00% | ~2,035 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~102 |
 | Wabbit Season | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,087 (Ranked 138)  
+Progressed: 5,087 (Ranked 139)  
 Completed: 10 (0.20%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |

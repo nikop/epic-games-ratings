@@ -6,42 +6,42 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~391,414 |
-| Hey! That's mine! | 78.00% | ~376,917 |
-| Happy Returns | 77.00% | ~372,085 |
-| Field Promotion | 74.00% | ~357,588 |
-| Leadhead | 71.00% | ~343,091 |
-| Eradicator | 67.00% | ~323,762 |
-| Surplus | 65.00% | ~314,098 |
-| I Spy | 64.00% | ~309,265 |
-| Burn Baby Burn | 59.00% | ~285,104 |
-| Yellow Beats Green | 55.00% | ~265,775 |
-| Salvage Rights | 53.00% | ~256,110 |
+| First Blood | 81.00% | ~391,415 |
+| Hey! That's mine! | 78.00% | ~376,919 |
+| Happy Returns | 77.00% | ~372,086 |
+| Field Promotion | 74.00% | ~357,589 |
+| Leadhead | 71.00% | ~343,093 |
+| Eradicator | 67.00% | ~323,763 |
+| Surplus | 65.00% | ~314,099 |
+| I Spy | 64.00% | ~309,267 |
+| Burn Baby Burn | 59.00% | ~285,105 |
+| Yellow Beats Green | 55.00% | ~265,776 |
+| Salvage Rights | 53.00% | ~256,111 |
 | Close Call | 50.00% | ~241,614 |
 | Pew Pew | 50.00% | ~241,614 |
 | What IS that? | 50.00% | ~241,614 |
-| Penny Pincher | 49.00% | ~236,781 |
-| Arsenal | 46.00% | ~222,284 |
-| Boot Camp | 45.00% | ~217,452 |
-| Flawless Victory | 42.00% | ~202,955 |
-| Confident | 40.00% | ~193,291 |
+| Penny Pincher | 49.00% | ~236,782 |
+| Arsenal | 46.00% | ~222,285 |
+| Boot Camp | 45.00% | ~217,453 |
+| Flawless Victory | 42.00% | ~202,956 |
+| Confident | 40.00% | ~193,292 |
 | Exterminator | 36.00% | ~173,962 |
-| Not So Fast | 33.00% | ~159,465 |
-| Sharpshooter | 33.00% | ~159,465 |
+| Not So Fast | 33.00% | ~159,466 |
+| Sharpshooter | 33.00% | ~159,466 |
 | Great Ball of Fire | 32.00% | ~154,633 |
-| Kaboom! | 30.00% | ~144,968 |
-| No Sale | 30.00% | ~144,968 |
+| Kaboom! | 30.00% | ~144,969 |
+| No Sale | 30.00% | ~144,969 |
 | Liquidator | 29.00% | ~140,136 |
-| High Voltage | 24.00% | ~115,974 |
-| Filthy Rich | 19.00% | ~91,813 |
+| High Voltage | 24.00% | ~115,975 |
+| Filthy Rich | 19.00% | ~91,814 |
 | The Not-So-Friendly Skies | 18.00% | ~86,981 |
 | Power Builder | 17.00% | ~82,149 |
 | Pyrrhic Victory | 17.00% | ~82,149 |
-| Death From Above | 16.00% | ~77,316 |
-| Retry | 16.00% | ~77,316 |
+| Death From Above | 16.00% | ~77,317 |
+| Retry | 16.00% | ~77,317 |
 | Head Trauma | 12.00% | ~57,987 |
 | Full Defense | 10.00% | ~48,323 |
-| Overseer | 9.00% | ~43,490 |
+| Overseer | 9.00% | ~43,491 |
 | Annihilator | 8.00% | ~38,658 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~38,658 |
 | Indecisive | 6.00% | ~28,994 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~483 |
 | You Monster | 0.10% | ~483 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 483,227 (Ranked 35)  
+Progressed: 483,229 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 4 (0.00%) (Ranked 249)
 | 2023-08-02 | 483,039 | 4 |
 | 2023-08-03 | 483,123 | 4 |
 | 2023-08-04 | 483,197 | 4 |
-| 2023-08-05 | 483,227 | 4 |
+| 2023-08-05 | 483,229 | 4 |
 ## Awards
 Max (Great for Beginners): 242  (Ranked 254)  
 Sum: 1,673 (Ranked 209)  

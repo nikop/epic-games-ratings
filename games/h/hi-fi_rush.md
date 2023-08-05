@@ -12,10 +12,10 @@ Rating: 4.87 (Ranked 23)
 | Cream of the Crop | 5.00% | ~187 |
 | Thanks for the free chip, Peppermint! | 5.00% | ~187 |
 | You got this, Peppermint? | 5.00% | ~187 |
+| Perfect Parry | 5.00% | ~187 |
 | This will cost you big time | 4.00% | ~150 |
 | I play my own way! | 4.00% | ~150 |
 | Z-shielding's got nothing on us! | 4.00% | ~150 |
-| Perfect Parry | 4.00% | ~150 |
 | Uh, they were broken when I got here | 4.00% | ~150 |
 | Kissing the sky! | 4.00% | ~150 |
 | Alright, that felt AWESOME! | 4.00% | ~150 |

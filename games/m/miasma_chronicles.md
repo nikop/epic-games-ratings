@@ -6,7 +6,7 @@ Rating: 4.40 (Ranked 696)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 92.00% | ~1,240 |
-| Ranidaphobia | 77.00% | ~1,038 |
+| Ranidaphobia | 78.00% | ~1,051 |
 | Aspiring Editor | 75.00% | ~1,011 |
 | Gun for Hire | 70.00% | ~944 |
 | I am the law! | 64.00% | ~863 |
@@ -34,7 +34,7 @@ Rating: 4.40 (Ranked 696)
 | There Can Be Only One! | 25.00% | ~337 |
 | Chain Killer | 22.00% | ~297 |
 | The Watchers | 21.00% | ~283 |
-| Silent but Violent | 17.00% | ~229 |
+| Silent but Violent | 18.00% | ~243 |
 | Commando | 16.00% | ~216 |
 | Newtonian Knockout | 16.00% | ~216 |
 | Chaos Theory | 15.00% | ~202 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -440,9 +440,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3410,
+  "EOS_Progressed": 3411,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -5650,6 +5650,11 @@
       "Time": "2023-08-05T11:05:13.606531+00:00",
       "NumProgressed": 3410,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-05T13:07:03.4805502+00:00",
+      "NumProgressed": 3411,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6053,7 +6058,7 @@
       "Name": "Target America",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -6069,7 +6074,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -6228,13 +6233,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3361,
+      "Progressed": 3362,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3410,
+      "Progressed": 3411,
       "Completed": 9
     }
   ],
@@ -6242,8 +6247,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-01T09:57:21.2845993+00:00",
-  "LastChanged_Achievements": "2023-08-05T12:05:20.2160764+00:00",
+  "LastChanged_Achievements": "2023-08-05T13:07:03.4805496+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:33.5601025+00:00",
-  "LastUpdate_Ratings": "2023-08-05T11:57:26.3800427+00:00",
-  "LastUpdate_Achievements": "2023-08-05T12:05:20.2162014+00:00"
+  "LastUpdate_Ratings": "2023-08-05T12:59:28.7103257+00:00",
+  "LastUpdate_Achievements": "2023-08-05T13:07:03.4806498+00:00"
 }

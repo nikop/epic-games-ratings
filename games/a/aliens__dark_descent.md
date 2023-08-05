@@ -5,7 +5,7 @@ Rating: 4.45 (Ranked 630)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,543 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,544 |
 | Snatched Out | 74.00% | ~2,295 |
 | Keep 'Em Coming | 73.00% | ~2,264 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,078 |
@@ -16,18 +16,18 @@ Rating: 4.45 (Ranked 630)
 | People Person | 55.00% | ~1,706 |
 | Use The Bumper, That's What It's For | 52.00% | ~1,613 |
 | First Steps Into Madness | 52.00% | ~1,613 |
-| Colonial Barrels | 50.00% | ~1,550 |
-| Harper's Hell | 44.00% | ~1,364 |
-| Making a Stand | 42.00% | ~1,302 |
-| Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,271 |
-| Where It All Begun | 38.00% | ~1,178 |
-| Recouped Investment | 38.00% | ~1,178 |
-| Omelette Du Fromage | 33.00% | ~1,023 |
-| Living Nightmare | 31.00% | ~961 |
-| The More The Merrier | 31.00% | ~961 |
-| The Darwin Era Was Here | 27.00% | ~837 |
-| Deep Into Insanity | 26.00% | ~806 |
-| The Passenger | 25.00% | ~775 |
+| Colonial Barrels | 50.00% | ~1,551 |
+| Harper's Hell | 44.00% | ~1,365 |
+| Making a Stand | 42.00% | ~1,303 |
+| Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,272 |
+| Where It All Begun | 38.00% | ~1,179 |
+| Recouped Investment | 38.00% | ~1,179 |
+| Omelette Du Fromage | 33.00% | ~1,024 |
+| Living Nightmare | 31.00% | ~962 |
+| The More The Merrier | 31.00% | ~962 |
+| The Darwin Era Was Here | 27.00% | ~838 |
+| Deep Into Insanity | 25.00% | ~776 |
+| The Passenger | 25.00% | ~776 |
 | Come on, You Wanna Live Forever? | 24.00% | ~744 |
 | Stuff Of Nightmares | 22.00% | ~682 |
 | El Riesgo Siempre Vive | 22.00% | ~682 |
@@ -51,7 +51,7 @@ Rating: 4.45 (Ranked 630)
 | Chalk It Up To Experience | 0.70% | ~22 |
 | This Ain't No Picnic | 0.50% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,101 (Ranked 155)  
+Progressed: 3,102 (Ranked 155)  
 Completed: 2 (0.06%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 2 (0.06%) (Ranked 209)
 | 2023-08-02 | 3,093 | 2 |
 | 2023-08-03 | 3,095 | 2 |
 | 2023-08-04 | 3,099 | 2 |
-| 2023-08-05 | 3,101 | 2 |
+| 2023-08-05 | 3,102 | 2 |
 ## Awards
 Max (Great Boss Battles): 22  (Ranked 491)  
 Sum: 22 (Ranked 494)  

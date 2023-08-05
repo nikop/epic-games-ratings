@@ -46,7 +46,7 @@ Rating: 4.62 (Ranked 349)
 | Pruning for Progress | 1.00% | ~51 |
 | Grexolis | 1.00% | ~51 |
 | One for All, All for One | 1.00% | ~51 |
-| Manufactured War | 0.70% | ~36 |
+| Manufactured War | 0.80% | ~41 |
 | Snap Out of It! | 0.60% | ~31 |
 | I Want to Break Free | 0.30% | ~15 |
 | Betrayal Most Foul | 0.30% | ~15 |

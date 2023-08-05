@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's going on here? | 88.00% | ~115 |
-| Brute force | 82.00% | ~107 |
-| Nimble fingers | 79.00% | ~103 |
-| Room 104 | 79.00% | ~103 |
-| Face to face | 78.00% | ~102 |
-| Let's play a game… | 74.00% | ~97 |
-| Now or never | 74.00% | ~97 |
-| First aid | 61.00% | ~80 |
-| Soundtrack | 59.00% | ~77 |
+| What's going on here? | 88.00% | ~116 |
+| Brute force | 83.00% | ~110 |
+| Nimble fingers | 80.00% | ~106 |
+| Room 104 | 79.00% | ~104 |
+| Face to face | 78.00% | ~103 |
+| Let's play a game… | 74.00% | ~98 |
+| Now or never | 74.00% | ~98 |
+| First aid | 61.00% | ~81 |
+| Soundtrack | 58.00% | ~77 |
 | Antidote | 51.00% | ~67 |
 | Pick the right door | 26.00% | ~34 |
 | The third floor | 17.00% | ~22 |
-| One-way | 15.00% | ~20 |
 | On the right path | 14.00% | ~18 |
+| One-way | 14.00% | ~18 |
 | It can't be true | 13.00% | ~17 |
-| I'm close now | 11.00% | ~14 |
-| Failed attempt | 11.00% | ~14 |
-| The real escape | 11.00% | ~14 |
-| Good choice | 11.00% | ~14 |
-| Take the long way round | 11.00% | ~14 |
-| He who seeks, finds! | 11.00% | ~14 |
+| I'm close now | 11.00% | ~15 |
+| Failed attempt | 11.00% | ~15 |
+| The real escape | 11.00% | ~15 |
+| Good choice | 11.00% | ~15 |
+| Take the long way round | 11.00% | ~15 |
+| He who seeks, finds! | 11.00% | ~15 |
 | Nightmare in the kitchen | 10.00% | ~13 |
-| Born again | 8.00% | ~10 |
+| Born again | 8.00% | ~11 |
 | 373 | 6.00% | ~8 |
 | The experiment | 6.00% | ~8 |
 | Matthew's revenge | 5.00% | ~7 |
@@ -36,7 +36,7 @@
 | Matthew's mistakes | 0.00% | ~0 |
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131 (Ranked 304)  
+Progressed: 132 (Ranked 303)  
 Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,4 +81,4 @@ Completed: 0 (0.00%) (Ranked 249)
 | 2023-07-25 | 128 | 0 |
 | 2023-07-29 | 129 | 0 |
 | 2023-08-02 | 130 | 0 |
-| 2023-08-05 | 131 | 0 |
+| 2023-08-05 | 132 | 0 |

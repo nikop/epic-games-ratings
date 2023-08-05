@@ -23,7 +23,7 @@ Number of Ratings: 98  (23.09.2022)
 | Game Over | 8.00% | ~100 |
 | Lock, Stock | 7.00% | ~88 |
 | Payback Time | 6.00% | ~75 |
-| No Witness | 4.00% | ~50 |
+| No Witness | 5.00% | ~63 |
 | Strategist | 3.00% | ~38 |
 | Unbreakable Wall | 2.00% | ~25 |
 | Do a Barrel Roll! | 1.00% | ~13 |

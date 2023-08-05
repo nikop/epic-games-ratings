@@ -16,14 +16,14 @@ Rating: 4.65 (Ranked 297)
 | Open Sesame | 49.00% | ~288 |
 | Sticky Fingers | 48.00% | ~282 |
 | Knives Out | 48.00% | ~282 |
+| Land, Ho! | 48.00% | ~282 |
 | Lock, Stock, And Barrel | 47.00% | ~276 |
 | Gaze Into The Abyss | 47.00% | ~276 |
 | Back In The Saddle | 47.00% | ~276 |
-| Land, Ho! | 47.00% | ~276 |
 | No Man Is An Island | 46.00% | ~270 |
 | At Wits' End | 45.00% | ~264 |
+| Fhtagn! | 44.00% | ~258 |
 | Up In Flames | 43.00% | ~252 |
-| Fhtagn! | 43.00% | ~252 |
 | Bookworm | 42.00% | ~247 |
 | Going Once... | 39.00% | ~229 |
 | Let Me Be Frank | 38.00% | ~223 |

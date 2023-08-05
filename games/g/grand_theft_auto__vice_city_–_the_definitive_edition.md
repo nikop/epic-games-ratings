@@ -31,9 +31,9 @@ Rating: 4.54 (Ranked 497)
 | Running Rampant | 2.00% | ~191 |
 | One is Better Than Two | 2.00% | ~191 |
 | Take the Cannoli | 2.00% | ~191 |
+| Chopper’d Up | 2.00% | ~191 |
 | City Sleuth | 2.00% | ~191 |
 | Daredevil | 1.00% | ~96 |
-| Chopper’d Up | 1.00% | ~96 |
 | Born in the 80’s | 0.90% | ~86 |
 | Keepie-Uppy Okie Dokie | 0.90% | ~86 |
 | I'm Famous! | 0.90% | ~86 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 85,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,10 +374,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17059,
+  "EOS_Progressed": 17062,
   "EOS_Completed": 351,
-  "EOS_NewPlayers": 571,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 572,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.06,
   "EosHistory": [
     {
@@ -11669,6 +11669,11 @@
       "Time": "2023-08-05T12:05:12.8797972+00:00",
       "NumProgressed": 17059,
       "NumCompleted": 351
+    },
+    {
+      "Time": "2023-08-05T13:06:57.0787833+00:00",
+      "NumProgressed": 17062,
+      "NumCompleted": 351
     }
   ],
   "TotalAchievements": 20,
@@ -11680,7 +11685,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2900
+      "UsersEstimate": 2901
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -11696,7 +11701,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -11704,7 +11709,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -11776,7 +11781,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -11800,7 +11805,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12965
+      "UsersEstimate": 12967
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -11816,7 +11821,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -11832,22 +11837,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3241
+      "UsersEstimate": 3242
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 17059,
+      "Progressed": 17062,
       "Completed": 351
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-08-05T12:05:12.8797967+00:00",
+  "LastChanged_Achievements": "2023-08-05T13:06:57.0787829+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:05.7530633+00:00",
-  "LastUpdate_Ratings": "2023-08-05T12:01:15.7357667+00:00",
-  "LastUpdate_Achievements": "2023-08-05T12:05:12.8799006+00:00"
+  "LastUpdate_Ratings": "2023-08-05T13:02:27.157548+00:00",
+  "LastUpdate_Achievements": "2023-08-05T13:06:57.0788469+00:00"
 }

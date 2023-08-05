@@ -29,18 +29,18 @@ Rating: 4.35 (Ranked 746)
 | Cassandra Van den Bosch | 38.00% | ~155 |
 | The Secret | 37.00% | ~151 |
 | Gedeon Demir | 35.00% | ~143 |
-| Rehana Piette | 34.00% | ~139 |
+| Rehana Piette | 35.00% | ~143 |
 | Instinct is Marvellous | 33.00% | ~135 |
 | Ernesto da Silva | 33.00% | ~135 |
 | Inge Frank | 31.00% | ~127 |
+| Hugo Beckers | 30.00% | ~123 |
 | The Search | 30.00% | ~123 |
-| Hugo Beckers | 29.00% | ~119 |
 | The Family | 27.00% | ~110 |
 | Well-travelled | 26.00% | ~106 |
-| Thinking of Everything | 25.00% | ~102 |
-| Exquisite Artwork | 25.00% | ~102 |
+| Thinking of Everything | 26.00% | ~106 |
+| Exquisite Artwork | 26.00% | ~106 |
+| Archibald Sterling | 25.00% | ~102 |
 | Viscount Edwin Van den Bosch | 25.00% | ~102 |
-| Archibald Sterling | 24.00% | ~98 |
 | Well-prepared | 21.00% | ~86 |
 | The Truth | 20.00% | ~82 |
 | Sunken Secrets | 18.00% | ~74 |

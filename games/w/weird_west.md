@@ -11,7 +11,7 @@ Number of Ratings: 125  (23.09.2022)
 | Perky | 65.00% | ~1,161 |
 | Let’s Ride | 60.00% | ~1,072 |
 | Welcome to the Weird West | 57.00% | ~1,018 |
-| Dead or Alive | 55.00% | ~982 |
+| Dead or Alive | 56.00% | ~1,000 |
 | Full House | 36.00% | ~643 |
 | Off the Trail | 33.00% | ~589 |
 | Justice Served | 29.00% | ~518 |

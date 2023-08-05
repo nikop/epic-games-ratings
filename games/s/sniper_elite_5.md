@@ -5,8 +5,8 @@ Rating: 4.43 (Ranked 658)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Target America | 5.00% | ~170 |
-| The Kraken Sleeps | 5.00% | ~170 |
+| Target America | 5.00% | ~171 |
+| The Kraken Sleeps | 5.00% | ~171 |
 | Liberté | 4.00% | ~136 |
 | Meeting Resistance | 4.00% | ~136 |
 | Sharpshooter | 4.00% | ~136 |
@@ -77,7 +77,7 @@ Rating: 4.43 (Ranked 658)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,410 (Ranked 150)  
+Progressed: 3,411 (Ranked 150)  
 Completed: 9 (0.26%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 9 (0.26%) (Ranked 165)
 | 2023-08-02 | 3,396 | 9 |
 | 2023-08-03 | 3,401 | 9 |
 | 2023-08-04 | 3,405 | 9 |
-| 2023-08-05 | 3,410 | 9 |
+| 2023-08-05 | 3,411 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
