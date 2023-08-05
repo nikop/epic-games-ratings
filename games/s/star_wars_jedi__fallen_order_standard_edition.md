@@ -34,7 +34,7 @@ Rating: 4.69 (Ranked 213)
 | Big Bang | 12.00% | ~129 |
 | Feel the Force | 10.00% | ~108 |
 | Can't Touch This | 9.00% | ~97 |
-| Medical Droid | 8.00% | ~86 |
+| Medical Droid | 9.00% | ~97 |
 | Data Collector | 8.00% | ~86 |
 | Collector | 5.00% | ~54 |
 | Data Disk | 5.00% | ~54 |

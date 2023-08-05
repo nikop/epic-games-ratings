@@ -2,13 +2,13 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 773,
+  "Ranking_Rating": 774,
   "Ranking_Popularity": 185,
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -231,9 +231,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 198299,
+  "EOS_Progressed": 198305,
   "EOS_Completed": 476,
-  "EOS_NewPlayers": 628,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -11651,6 +11651,11 @@
       "Time": "2023-08-05T15:03:06.134483+00:00",
       "NumProgressed": 198299,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-08-05T16:03:19.6562947+00:00",
+      "NumProgressed": 198305,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 29,
@@ -11662,7 +11667,7 @@
       "Name": "No Anchor too great.",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "ACHIEVEMENT_ARCHWAY",
@@ -11686,7 +11691,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 186401
+      "UsersEstimate": 186407
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -11893,7 +11898,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 198299,
+      "Progressed": 198305,
       "Completed": 476
     }
   ],
@@ -11901,8 +11906,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-07-27T20:00:18.65769+00:00",
-  "LastChanged_Achievements": "2023-08-05T15:03:06.134482+00:00",
+  "LastChanged_Achievements": "2023-08-05T16:03:19.6562939+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:48.6889671+00:00",
-  "LastUpdate_Ratings": "2023-08-05T14:59:42.6279816+00:00",
-  "LastUpdate_Achievements": "2023-08-05T15:03:06.1346575+00:00"
+  "LastUpdate_Ratings": "2023-08-05T16:00:26.4908811+00:00",
+  "LastUpdate_Achievements": "2023-08-05T16:03:19.6564528+00:00"
 }

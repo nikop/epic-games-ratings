@@ -11,23 +11,23 @@
 | Something monumental... | 24.00% | ~6 |
 | Something firmly rooted... | 20.00% | ~5 |
 | Something free... | 16.00% | ~4 |
+| Something free... (fragile) | 16.00% | ~4 |
 | Something gentle... | 16.00% | ~4 |
+| Something gentle... (fragile) | 16.00% | ~4 |
+| Something ever-changing... (fragile) | 16.00% | ~4 |
 | Something fully in bloom... | 16.00% | ~4 |
+| Something fully in bloom... (fragile) | 16.00% | ~4 |
+| Something fragile... | 16.00% | ~4 |
+| Something foundational... (fragile) | 16.00% | ~4 |
 | Somewhere to belong... | 16.00% | ~4 |
+| Somewhere to belong... (fragile) | 16.00% | ~4 |
 | Something to make you dream... (fragile) | 16.00% | ~4 |
+| Something monumental... (fragile) | 16.00% | ~4 |
 | Something natural... | 16.00% | ~4 |
+| Something to long for... (fragile) | 16.00% | ~4 |
+| Something firmly rooted... (fragile) | 16.00% | ~4 |
 | Something reflective... | 16.00% | ~4 |
-| Something free... (fragile) | 12.00% | ~3 |
-| Something gentle... (fragile) | 12.00% | ~3 |
-| Something ever-changing... (fragile) | 12.00% | ~3 |
-| Something fully in bloom... (fragile) | 12.00% | ~3 |
-| Something fragile... | 12.00% | ~3 |
-| Something foundational... (fragile) | 12.00% | ~3 |
-| Somewhere to belong... (fragile) | 12.00% | ~3 |
-| Something monumental... (fragile) | 12.00% | ~3 |
-| Something to long for... (fragile) | 12.00% | ~3 |
-| Something firmly rooted... (fragile) | 12.00% | ~3 |
-| Something reflective... (fragile) | 12.00% | ~3 |
+| Something reflective... (fragile) | 16.00% | ~4 |
 | Something more... | 8.00% | ~2 |
 | Something more... (fragile) | 8.00% | ~2 |
 ## Popularity (Based on EOS Achievements)

@@ -10700,10 +10700,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 424190,
       "NumberOfAwardsMax": 164759
+    },
+    {
+      "Time": "2023-08-05T16:00:42.8952566+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 424220,
+      "NumberOfAwardsMax": 164759
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 424190,
+  "NumberOfAwards": 424220,
   "NumberOfAwardsMax": 164759,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -10747,7 +10753,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 14987
+      "Count": 15017
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10803,8 +10809,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-08-05T14:59:55.7840771+00:00",
+  "LastChanged": "2023-08-05T16:00:42.8952564+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:03.7878494+00:00",
-  "LastUpdate_Ratings": "2023-08-05T14:59:55.784078+00:00",
-  "LastUpdate_Achievements": "2023-08-05T15:05:28.5076998+00:00"
+  "LastUpdate_Ratings": "2023-08-05T16:00:42.8952575+00:00",
+  "LastUpdate_Achievements": "2023-08-05T16:06:09.7804903+00:00"
 }

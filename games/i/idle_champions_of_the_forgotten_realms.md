@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,757 |
+| A Brief Tour of the Realms | 4.00% | ~8,758 |
 | Beast Intentions | 3.00% | ~6,568 |
 | Maddening | 2.00% | ~4,379 |
-| The Silken Swamp | 1.00% | ~2,189 |
-| Supply Run | 1.00% | ~2,189 |
+| The Silken Swamp | 1.00% | ~2,190 |
+| Supply Run | 1.00% | ~2,190 |
 | Vecna Lives! | 1.00% | ~1,852 |
 | Rocky Reception | 1.00% | ~1,852 |
 | Rock and Roll | 1.00% | ~1,852 |
@@ -20,7 +20,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Loots! | 0.80% | ~1,482 |
 | Topolah's Tower | 0.80% | ~1,482 |
 | Wet Feet | 0.70% | ~1,533 |
-| Return to the Tomb | 0.70% | ~1,296 |
+| Return to the Tomb | 0.70% | ~1,297 |
 | Were-verpowered | 0.70% | ~1,533 |
 | The Cursed Farmer | 0.70% | ~1,533 |
 | Pros and CONs | 0.60% | ~1,314 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,929 (Ranked 53)  
+Progressed: 218,950 (Ranked 53)  
 Completed: 2,153 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 2,153 (0.98%) (Ranked 113)
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
-| 2023-08-05 | 218,929 | 2,153 |
+| 2023-08-05 | 218,950 | 2,153 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,900 (Ranked 38)  

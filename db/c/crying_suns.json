@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 464566,
+  "EOS_Progressed": 464569,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 513,
+  "EOS_NewPlayers": 510,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11632,6 +11632,11 @@
       "Time": "2023-08-05T15:04:40.8856935+00:00",
       "NumProgressed": 464566,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-05T16:05:12.8099001+00:00",
+      "NumProgressed": 464569,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -12163,7 +12168,7 @@
       "Name": "The Blade",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_unlock_officer_phalanx_2",
@@ -12171,7 +12176,7 @@
       "Name": "The Ghost",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_unlock_officer_pragmah_1",
@@ -12179,7 +12184,7 @@
       "Name": "The Extractor",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_unlock_officer_pragmah_2",
@@ -12187,7 +12192,7 @@
       "Name": "The Executioner",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_unlock_phalanx_battleship",
@@ -12211,7 +12216,7 @@
       "Name": "Savior",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_hard",
@@ -12219,7 +12224,7 @@
       "Name": "The God of War",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_win_all_chapers_with_phalanx_easy_normal",
@@ -12227,7 +12232,7 @@
       "Name": "Horus Mastery",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_win_all_chapers_with_phalanx_hard",
@@ -12235,7 +12240,7 @@
       "Name": "Horus Supremacy",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_win_all_chapers_with_pragmah_easy_normal",
@@ -12243,7 +12248,7 @@
       "Name": "Kronos Mastery",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_win_all_chapers_with_pragmah_hard",
@@ -12251,7 +12256,7 @@
       "Name": "Kronos Supremacy",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_win_run_with_phalanx",
@@ -12259,7 +12264,7 @@
       "Name": "Horus Rule",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_win_run_with_pragmah",
@@ -12267,28 +12272,28 @@
       "Name": "Kronos Rule",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 8500,
+      "Progressed": 8503,
       "Completed": 2354
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 464566,
+      "Progressed": 464569,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-08-05T15:04:40.8856928+00:00",
+  "LastChanged_Achievements": "2023-08-05T16:05:12.8098996+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:16.4768007+00:00",
-  "LastUpdate_Ratings": "2023-08-05T15:00:10.8877988+00:00",
-  "LastUpdate_Achievements": "2023-08-05T15:04:40.885989+00:00"
+  "LastUpdate_Ratings": "2023-08-05T16:00:59.1698619+00:00",
+  "LastUpdate_Achievements": "2023-08-05T16:05:12.8100542+00:00"
 }

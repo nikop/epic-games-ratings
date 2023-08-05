@@ -34,10 +34,10 @@
 | Employee of the year | 54.00% | ~122 |
 | Fight for life | 53.00% | ~119 |
 | Legal courier | 51.00% | ~115 |
-| Extreme neuropower! | 50.00% | ~112 |
+| Extreme neuropower! | 51.00% | ~115 |
 | Escaped from a big trouble | 47.00% | ~106 |
 | Now you are worthy | 46.00% | ~104 |
-| No blades in the gym | 43.00% | ~97 |
+| No blades in the gym | 44.00% | ~99 |
 | Guiding on the right path | 43.00% | ~97 |
 | Your own way | 42.00% | ~94 |
 | Fight is life | 41.00% | ~92 |

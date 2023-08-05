@@ -6,8 +6,8 @@ Rating: 4.60 (Ranked 388)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 24.00% | ~198 |
+| Rail Rat | 21.00% | ~173 |
 | The Mysterious Stranger | 20.00% | ~165 |
-| Rail Rat | 20.00% | ~165 |
 | Immaculate Aim | 18.00% | ~148 |
 | The Steel Shadow | 17.00% | ~140 |
 | Make Up For Lost Time | 17.00% | ~140 |
@@ -42,10 +42,10 @@ Rating: 4.60 (Ranked 388)
 | Ask Questions Later | 9.00% | ~74 |
 | Factorywood Explorer | 8.00% | ~66 |
 | Fairgrounds Explorer | 8.00% | ~66 |
+| Corin Goes Home | 7.00% | ~58 |
 | Sartorialist | 7.00% | ~58 |
 | Cultivair Explorer | 7.00% | ~58 |
 | Entresol Explorer | 7.00% | ~58 |
-| Corin Goes Home | 6.00% | ~49 |
 | Clovemary for Remembering | 5.00% | ~41 |
 | Golem Hunter | 5.00% | ~41 |
 | Rungs Was Right | 5.00% | ~41 |

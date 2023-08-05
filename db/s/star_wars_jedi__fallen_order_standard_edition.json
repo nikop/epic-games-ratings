@@ -699,9 +699,9 @@
       "ID": "achievement_31",
       "SetID": "nk00bp",
       "Name": "Medical Droid",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_32",
@@ -828,8 +828,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-07-11T17:57:37.1037412+00:00",
-  "LastChanged_Achievements": "2023-08-05T15:02:10.7629249+00:00",
+  "LastChanged_Achievements": "2023-08-05T16:02:39.5219253+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:29.0919434+00:00",
-  "LastUpdate_Ratings": "2023-08-05T14:56:58.520615+00:00",
-  "LastUpdate_Achievements": "2023-08-05T15:02:10.7629873+00:00"
+  "LastUpdate_Ratings": "2023-08-05T15:57:02.1452504+00:00",
+  "LastUpdate_Achievements": "2023-08-05T16:02:39.5219778+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "577c5cbc303a4d168b1a104f3b46e751",
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
-  "Ranking_Rating": 23,
+  "Ranking_Rating": 24,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 147,
@@ -114,7 +114,7 @@
   "Tags": [],
   "EOS_Progressed": 3742,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -5667,9 +5667,9 @@
       "ID": "Ach048",
       "SetID": "12n4k20",
       "Name": "Alright, that felt AWESOME!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 187
     },
     {
       "ID": "Ach049",
@@ -5874,8 +5874,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-08-05T15:04:44.1256759+00:00",
+  "LastChanged_Achievements": "2023-08-05T16:05:16.9025246+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:24.9640697+00:00",
-  "LastUpdate_Ratings": "2023-08-05T14:59:19.6669023+00:00",
-  "LastUpdate_Achievements": "2023-08-05T15:04:44.1258795+00:00"
+  "LastUpdate_Ratings": "2023-08-05T15:59:59.3809256+00:00",
+  "LastUpdate_Achievements": "2023-08-05T16:05:16.9027153+00:00"
 }

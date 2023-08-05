@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -322,9 +322,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 39559,
+  "EOS_Progressed": 39562,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6852,6 +6852,11 @@
       "Time": "2023-08-05T07:04:14.7421426+00:00",
       "NumProgressed": 39559,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-05T16:03:09.2145795+00:00",
+      "NumProgressed": 39562,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -7199,7 +7204,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3560
+      "UsersEstimate": 3561
     },
     {
       "ID": "SPRING_ALL",
@@ -7286,22 +7291,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39559,
+      "Progressed": 39562,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4396,
-      "Completed": 4396
+      "Progressed": 4399,
+      "Completed": 4399
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-08-01T18:59:08.1065463+00:00",
-  "LastChanged_Achievements": "2023-08-05T15:02:27.0805857+00:00",
+  "LastChanged_Achievements": "2023-08-05T16:03:09.2145785+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:22.3874193+00:00",
-  "LastUpdate_Ratings": "2023-08-05T14:59:16.6249037+00:00",
-  "LastUpdate_Achievements": "2023-08-05T15:02:27.0807482+00:00"
+  "LastUpdate_Ratings": "2023-08-05T15:59:54.7505807+00:00",
+  "LastUpdate_Achievements": "2023-08-05T16:03:09.214729+00:00"
 }

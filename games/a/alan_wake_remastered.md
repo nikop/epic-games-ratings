@@ -35,7 +35,7 @@ Number of Ratings: 524  (23.09.2022)
 | Energized! | 9.00% | ~5,427 |
 | What Light Through Yonder Window | 8.00% | ~4,824 |
 | Right of Way | 8.00% | ~4,824 |
-| A Friend in Need | 8.00% | ~1,901 |
+| A Friend in Need | 8.00% | ~1,902 |
 | Tornado Wrangler | 7.00% | ~4,221 |
 | Departure | 6.00% | ~3,618 |
 | A Friend Indeed | 6.00% | ~1,426 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~60 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,299 (Ranked 84)  
+Progressed: 60,301 (Ranked 84)  
 Completed: 64 (0.11%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 64 (0.11%) (Ranked 194)
 | 2023-08-02 | 59,999 | 63 |
 | 2023-08-03 | 60,143 | 63 |
 | 2023-08-04 | 60,237 | 64 |
-| 2023-08-05 | 60,299 | 64 |
+| 2023-08-05 | 60,301 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

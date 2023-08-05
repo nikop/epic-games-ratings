@@ -32,6 +32,7 @@
 | Merchant Prince II | 9.00% | ~5 |
 | Usurper I | 7.00% | ~4 |
 | Flower Power | 7.00% | ~4 |
+| Galactic Lieutenant | 7.00% | ~4 |
 | Collateral Damage II | 7.00% | ~4 |
 | System Ensign | 5.00% | ~3 |
 | Rambo III | 5.00% | ~3 |
@@ -39,8 +40,8 @@
 | Omicron Beta | 5.00% | ~3 |
 | Hoarder | 5.00% | ~3 |
 | No Peace | 5.00% | ~3 |
+| Wicked Sick | 5.00% | ~3 |
 | 50Gb HDD | 5.00% | ~3 |
-| Galactic Lieutenant | 5.00% | ~3 |
 | Sectoral Captain | 5.00% | ~3 |
 | Fighting Fit II | 5.00% | ~3 |
 | Bronze Foundation | 3.00% | ~2 |
@@ -49,18 +50,19 @@
 | Curious | 3.00% | ~2 |
 | Pilgrim | 3.00% | ~2 |
 | Diligent | 3.00% | ~2 |
+| Omicron Theta | 3.00% | ~2 |
 | Bird of Prey | 3.00% | ~2 |
-| Wicked Sick | 3.00% | ~2 |
 | Silver Foundation | 3.00% | ~2 |
 | Revenge | 2.00% | ~1 |
 | Bronze BBQ | 2.00% | ~1 |
 | Rambo IV | 2.00% | ~1 |
-| Omicron Theta | 2.00% | ~1 |
 | Food Poisoning | 2.00% | ~1 |
 | Usurper II | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
 | Silver Pest Control | 2.00% | ~1 |
 | Mysterious Skin | 2.00% | ~1 |
+| Beetle | 2.00% | ~1 |
+| Anger Management | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
 | Archer's Bronze Fate | 0.00% | ~0 |
@@ -124,8 +126,6 @@
 | Galactic Captain | 0.00% | ~0 |
 | Universal Captain | 0.00% | ~0 |
 | Silver BBQ | 0.00% | ~0 |
-| Beetle | 0.00% | ~0 |
-| Anger Management | 0.00% | ~0 |
 | Consumist | 0.00% | ~0 |
 | Hal | 0.00% | ~0 |
 | Collateral Damage IV | 0.00% | ~0 |

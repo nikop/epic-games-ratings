@@ -1,33 +1,33 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.87 (Ranked 23)  
+Rating: 4.87 (Ranked 24)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,174 |
-| Biggest Communism Builder | 24.00% | ~30,149 |
-| The World's Most Laughable Centrist | 20.00% | ~25,124 |
-| Il Coppo Del'Arte! | 18.00% | ~22,612 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,099 |
-| Hyperstellar Law Official | 15.00% | ~18,843 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,587 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,331 |
-| Gurdi-Ball Is Lit | 13.00% | ~16,331 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,818 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,306 |
+| Goodest Of The Good Cops | 28.00% | ~35,176 |
+| Biggest Communism Builder | 24.00% | ~30,151 |
+| The World's Most Laughable Centrist | 20.00% | ~25,126 |
+| Il Coppo Del'Arte! | 18.00% | ~22,613 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,100 |
+| Hyperstellar Law Official | 15.00% | ~18,844 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,588 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,332 |
+| Gurdi-Ball Is Lit | 13.00% | ~16,332 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,819 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,307 |
 | Unbelievably Boring **** | 8.00% | ~10,050 |
 | Enemy Of The Physical Realm | 8.00% | ~10,050 |
-| Hardie's Heroes | 6.00% | ~7,537 |
+| Hardie's Heroes | 6.00% | ~7,538 |
 | The Lawbringer | 4.00% | ~5,025 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,025 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,769 |
 | Bother Kim After Hours | 3.00% | ~3,769 |
-| Baddest Of the Bad Cops | 2.00% | ~2,512 |
-| Expert Advanced Remote Viewer | 2.00% | ~2,512 |
-| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,512 |
-| Wheel of Pleasure and Light | 2.00% | ~2,512 |
+| Baddest Of the Bad Cops | 2.00% | ~2,513 |
+| Expert Advanced Remote Viewer | 2.00% | ~2,513 |
+| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,513 |
+| Wheel of Pleasure and Light | 2.00% | ~2,513 |
 | Massive Torque Dork | 1.00% | ~1,256 |
 | Avowed Inframaterialist | 1.00% | ~1,256 |
 | Real Musor | 0.90% | ~1,131 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~126 |
 | What body? | 0.10% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125,621 (Ranked 65)  
+Progressed: 125,628 (Ranked 65)  
 Completed: 27 (0.02%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 27 (0.02%) (Ranked 229)
 | 2023-08-02 | 125,322 | 27 |
 | 2023-08-03 | 125,472 | 27 |
 | 2023-08-04 | 125,562 | 27 |
-| 2023-08-05 | 125,621 | 27 |
+| 2023-08-05 | 125,628 | 27 |
 ## Awards
 Max (Character Customization): 715  (Ranked 162)  
 Sum: 1,077 (Ranked 233)  

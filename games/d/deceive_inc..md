@@ -31,9 +31,9 @@ Rating: 4.56 (Ranked 465)
 | Social of Solace | 4.00% | ~679 |
 | Live and let lie | 3.00% | ~509 |
 | Safe Withdrawal | 3.00% | ~509 |
+| Branch Manager | 2.00% | ~339 |
 | Call Me Maybe | 2.00% | ~339 |
 | PHD in VIP | 2.00% | ~339 |
-| Branch Manager | 1.00% | ~170 |
 | The terminals are not enough | 1.00% | ~170 |
 | Lose Another Day | 0.90% | ~153 |
 | Chairman of Deceive Inc. | 0.90% | ~153 |

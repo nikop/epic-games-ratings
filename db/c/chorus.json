@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -280,9 +280,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 1113,
+  "EOS_Progressed": 1114,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -1605,6 +1605,11 @@
       "Time": "2023-08-04T21:05:43.0542882+00:00",
       "NumProgressed": 1113,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-05T16:05:44.3921963+00:00",
+      "NumProgressed": 1114,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 43,
@@ -1616,7 +1621,7 @@
       "Name": "Demigod",
       "Percentage": 75,
       "XP": 150,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "DieInPermadeath",
@@ -1632,7 +1637,7 @@
       "Name": "Voices from the Past",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "Finish5SideMissions",
@@ -1648,7 +1653,7 @@
       "Name": "Paragon",
       "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "GatlingVsArmor",
@@ -1656,7 +1661,7 @@
       "Name": "Controlled Demolition",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "Kill3InOneDrift",
@@ -1710,9 +1715,9 @@
       "ID": "MissionActivateDish",
       "SetID": "a6c395p",
       "Name": "The Crimson Void",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 390
+      "UsersEstimate": 379
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -1760,7 +1765,7 @@
       "Name": "Full Arsenal",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "MissionEosReturn",
@@ -1776,7 +1781,7 @@
       "Name": "The Nameless Dread",
       "Percentage": 34,
       "XP": 75,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "MissionHeartOfTheFaceless",
@@ -1792,7 +1797,7 @@
       "Name": "Cult Slayer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "MissionLiberateEnclave",
@@ -1808,7 +1813,7 @@
       "Name": "Rise as One",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "MissionOldFriend",
@@ -1816,7 +1821,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -1830,9 +1835,9 @@
       "ID": "MissionSalvage",
       "SetID": "a6c395p",
       "Name": "Shields Down",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 791
     },
     {
       "ID": "MissionScavengingJob",
@@ -1840,7 +1845,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "MissionShipyard",
@@ -1872,7 +1877,7 @@
       "Name": "Ascension",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "MissionTheiaStep1",
@@ -1880,7 +1885,7 @@
       "Name": "Origin",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "Overcharge",
@@ -1926,9 +1931,9 @@
       "ID": "RiteOfTheStorm",
       "SetID": "a6c395p",
       "Name": "It Was An Accident",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 434
     },
     {
       "ID": "UseRepairDrones",
@@ -1944,7 +1949,7 @@
       "Name": "Space Traveler",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "WinARace",
@@ -1952,22 +1957,22 @@
       "Name": "Relentless",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1113,
+      "Progressed": 1114,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-08-05T15:05:06.7253112+00:00",
+  "LastChanged_Achievements": "2023-08-05T16:05:44.3921953+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:02.342624+00:00",
-  "LastUpdate_Ratings": "2023-08-05T15:01:02.2755185+00:00",
-  "LastUpdate_Achievements": "2023-08-05T15:05:06.7253631+00:00"
+  "LastUpdate_Ratings": "2023-08-05T16:01:52.9033861+00:00",
+  "LastUpdate_Achievements": "2023-08-05T16:05:44.3922488+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "413361d2d5db4912ac2dfbcf27a38141",
   "Name": "Ooblets",
   "ProductSlug": "ooblets",
-  "Ranking_Rating": 23,
+  "Ranking_Rating": 18,
   "Ranking_Popularity": 141,
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 529,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.87,
+  "Rating": 4.88,
   "NumberOfRatings": 1446,
   "RatingHistory": [
     {
@@ -1431,6 +1431,12 @@
       "Rating": 4.87,
       "NumberOfAwards": 1828,
       "NumberOfAwardsMax": 1018
+    },
+    {
+      "Time": "2023-08-05T16:00:59.7486171+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 1828,
+      "NumberOfAwardsMax": 1018
     }
   ],
   "ReviewsDisabled": false,
@@ -1528,8 +1534,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:49.4319987+00:00",
-  "LastChanged": "2023-08-03T15:01:49.4309189+00:00",
+  "LastChanged": "2023-08-05T16:00:59.7486169+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:17.4328941+00:00",
-  "LastUpdate_Ratings": "2023-08-05T15:00:11.6042768+00:00",
-  "LastUpdate_Achievements": "2023-08-05T15:05:57.5428334+00:00"
+  "LastUpdate_Ratings": "2023-08-05T16:00:59.7486176+00:00",
+  "LastUpdate_Achievements": "2023-08-05T16:06:45.1081216+00:00"
 }

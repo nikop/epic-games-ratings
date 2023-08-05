@@ -9,7 +9,7 @@ Rating: 4.06 (Ranked 914)
 | World Map | 79.00% | ~1,394 |
 | Temple of Eternals | 56.00% | ~988 |
 | Prestigious | 53.00% | ~935 |
-| Fellowship Power | 41.00% | ~723 |
+| Fellowship Power | 41.00% | ~724 |
 | Guild Power | 25.00% | ~441 |
 | Prestigious x10 | 22.00% | ~388 |
 | The game is on | 20.00% | ~353 |
@@ -39,15 +39,15 @@ Rating: 4.06 (Ranked 914)
 | Moving Up The Ladder | 10.00% | ~176 |
 | Relic Of The Past | 10.00% | ~176 |
 | Scroll Master | 10.00% | ~176 |
-| The father of Dragons | 9.00% | ~159 |
 | Here We Go Again | 8.00% | ~141 |
 | Master Enchanter | 8.00% | ~141 |
-| Crystal Mining | 7.00% | ~123 |
-| Dragon Slayer | 7.00% | ~123 |
-| Enchanting skill | 7.00% | ~123 |
-| The Expeditioner | 7.00% | ~123 |
-| Trader | 7.00% | ~123 |
-| Weekly Quest Completionist | 7.00% | ~123 |
+| The father of Dragons | 8.00% | ~141 |
+| Crystal Mining | 7.00% | ~124 |
+| Dragon Slayer | 7.00% | ~124 |
+| Enchanting skill | 7.00% | ~124 |
+| The Expeditioner | 7.00% | ~124 |
+| Trader | 7.00% | ~124 |
+| Weekly Quest Completionist | 7.00% | ~124 |
 | Ancient Knowledge | 6.00% | ~106 |
 | Blueprint Upgrades | 6.00% | ~106 |
 | Engineer Mastery | 6.00% | ~106 |
@@ -65,10 +65,10 @@ Rating: 4.06 (Ranked 914)
 | Mythic Power | 2.00% | ~35 |
 | Gear Enchanting | 1.00% | ~18 |
 | Guardian Master | 1.00% | ~18 |
-| Training makes a Pro player | 0.90% | ~16 |
-| Transmute | 0.90% | ~16 |
 | Cauldron Liberator | 0.80% | ~14 |
 | Titan Power | 0.80% | ~14 |
+| Training makes a Pro player | 0.80% | ~14 |
+| Transmute | 0.80% | ~14 |
 | Tree of Life | 0.60% | ~11 |
 | Beast War Machines | 0.50% | ~9 |
 | Enhanced War Machines | 0.50% | ~9 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 914)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,764 (Ranked 172)  
+Progressed: 1,765 (Ranked 172)  
 Completed: 2 (0.11%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 2 (0.11%) (Ranked 194)
 | 2023-08-01 | 1,750 | 2 |
 | 2023-08-02 | 1,755 | 2 |
 | 2023-08-04 | 1,761 | 2 |
-| 2023-08-05 | 1,764 | 2 |
+| 2023-08-05 | 1,765 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

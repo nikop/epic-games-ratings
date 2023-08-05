@@ -1575,7 +1575,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13274,
+  "EOS_Progressed": 13275,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
@@ -9150,6 +9150,11 @@
       "Time": "2023-08-05T14:03:16.1386246+00:00",
       "NumProgressed": 13274,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-05T16:03:28.1947202+00:00",
+      "NumProgressed": 13275,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -9495,9 +9500,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
       "SetID": "9201eeb",
       "Name": "Ambitious",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
@@ -9593,7 +9598,7 @@
       "Name": "Explorer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -9785,7 +9790,7 @@
       "Name": "Settler",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -10073,7 +10078,7 @@
       "Name": "Friendly Family",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -10913,7 +10918,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -11473,7 +11478,7 @@
       "Name": "The Great Mage",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST",
@@ -11528,21 +11533,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13274,
+      "Progressed": 13275,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13274,
+      "Progressed": 13275,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-01T16:59:10.6733314+00:00",
-  "LastChanged_Achievements": "2023-08-05T15:03:13.2100974+00:00",
+  "LastChanged_Achievements": "2023-08-05T16:03:28.1947193+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:46.1485999+00:00",
-  "LastUpdate_Ratings": "2023-08-05T14:58:45.0790372+00:00",
-  "LastUpdate_Achievements": "2023-08-05T15:03:13.2111745+00:00"
+  "LastUpdate_Ratings": "2023-08-05T15:59:11.805702+00:00",
+  "LastUpdate_Achievements": "2023-08-05T16:03:28.1957316+00:00"
 }

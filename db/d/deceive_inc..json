@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 27,
+  "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -216,7 +216,7 @@
   "Tags": [],
   "EOS_Progressed": 16965,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3622,
+  "EOS_NewPlayers": 3511,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7445,9 +7445,9 @@
       "ID": "0005",
       "SetID": "2n2feee",
       "Name": "Branch Manager",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 339
     },
     {
       "ID": "0006",
@@ -7710,8 +7710,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-04T08:00:04.3199402+00:00",
-  "LastChanged_Achievements": "2023-08-05T15:04:09.9981171+00:00",
+  "LastChanged_Achievements": "2023-08-05T16:04:34.9559784+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-05T15:00:35.2386791+00:00",
-  "LastUpdate_Achievements": "2023-08-05T15:04:09.9982829+00:00"
+  "LastUpdate_Ratings": "2023-08-05T16:01:26.2982634+00:00",
+  "LastUpdate_Achievements": "2023-08-05T16:04:34.956104+00:00"
 }
