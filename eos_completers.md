@@ -39,8 +39,8 @@
 | 37 | [Scorn](games/s/scorn.md) | 6.93% |
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 40 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 6.09% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.06% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.06% |
+| 41 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 6.03% |
 | 42 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.66% |
 | 43 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
 | 44 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.00% |
@@ -84,7 +84,7 @@
 | 82 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 83 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
 | 84 | [FORECLOSED](games/f/foreclosed.md) | 2.22% |
-| 85 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.06% |
+| 85 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 86 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.98% |
 | 87 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 88 | [Night Book](games/n/night_book.md) | 1.90% |
@@ -98,8 +98,8 @@
 | 96 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.59% |
 | 97 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 98 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.49% |
-| 99 | [Ten Dates](games/t/ten_dates.md) | 1.48% |
-| 100 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.47% |
+| 99 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.47% |
+| 99 | [Ten Dates](games/t/ten_dates.md) | 1.47% |
 | 101 | [Poosh XL](games/p/poosh_xl.md) | 1.44% |
 | 102 | [Five Dates](games/f/five_dates.md) | 1.41% |
 | 103 | [Late Shift](games/l/late_shift.md) | 1.32% |
