@@ -2,15 +2,15 @@
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.89% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
-| 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 31.25% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 33.33% |
+| 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 23.86% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
-| 9 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 19.63% |
+| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 20.56% |
+| 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
+| 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 17.98% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.02% |
@@ -18,7 +18,7 @@
 | 16 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 17 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.00% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
-| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.39% |
+| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.33% |
 | 20 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 20 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 11.11% |
 | 22 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 10.81% |
@@ -55,7 +55,7 @@
 | 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.02% |
 | 54 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.85% |
 | 54 | [Without Escape](games/w/without_escape.md) | 3.85% |
-| 56 | [ZZT!](games/z/zzt!.md) | 3.68% |
+| 56 | [ZZT!](games/z/zzt!.md) | 3.71% |
 | 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.54% |
 | 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.48% |
@@ -81,7 +81,7 @@
 | 79 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 80 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.37% |
 | 81 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.35% |
-| 82 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.29% |
+| 82 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
 | 83 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
 | 84 | [FORECLOSED](games/f/foreclosed.md) | 2.22% |
 | 85 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.06% |
