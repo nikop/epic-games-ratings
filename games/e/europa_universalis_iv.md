@@ -76,7 +76,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Pile of Gold | 0.30% | ~238 |
 | A Fine Goosestep | 0.30% | ~238 |
 | Grand Duchy | 0.30% | ~238 |
-| Magellan’s Voyage | 0.30% | ~238 |
 | Multiculturalism | 0.30% | ~238 |
 | No Pirates in my Caribbean | 0.30% | ~238 |
 | Not so sad a state... | 0.30% | ~238 |
@@ -95,6 +94,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Industrial Powerhouse | 0.20% | ~158 |
 | Je maintiendrai | 0.20% | ~158 |
 | A Kaiser not just in name | 0.20% | ~158 |
+| Magellan’s Voyage | 0.20% | ~158 |
 | Pyramid of Skulls | 0.20% | ~158 |
 | The Power of Three | 0.20% | ~158 |
 | Viva la Revolución! | 0.20% | ~158 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,199 (Ranked 76)  
+Progressed: 79,205 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -468,10 +468,10 @@ Completed: 0 (0.00%) (Ranked 248)
 | 2023-08-02 | 77,371 | 0 |
 | 2023-08-03 | 78,060 | 0 |
 | 2023-08-04 | 79,131 | 0 |
-| 2023-08-05 | 79,199 | 0 |
+| 2023-08-05 | 79,205 | 0 |
 ## Awards
 Max (Educational): 5,611  (Ranked 62)  
-Sum: 46,339 (Ranked 26)  
+Sum: 46,343 (Ranked 26)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
@@ -482,7 +482,7 @@ Diff (max vs sum): 36
 | This game has Diverse Characters | 5,291 |
 | This game is Relaxing | 5,192 |
 | This game has Competitive Players | 5,050 |
-| This game has Amazing Storytelling | 4,750 |
+| This game has Amazing Storytelling | 4,754 |
 | This game has Amazing Characters | 4,395 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -688,3 +688,4 @@ Diff (max vs sum): 36
 | 2023-08-02 | 4.69 | - | 5,608 | 46,273 |
 | 2023-08-03 | 4.69 | - | 5,611 | 46,303 |
 | 2023-08-04 | 4.69 | - | 5,611 | 46,339 |
+| 2023-08-05 | 4.69 | - | 5,611 | 46,343 |

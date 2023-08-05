@@ -3556,9 +3556,9 @@
       "ID": "ach_game_opened",
       "SetID": "3h4khpo",
       "Name": "Game opened",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1481
     },
     {
       "ID": "ach_magic_wand",
@@ -3595,8 +3595,8 @@
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-08-05T01:56:18.3812739+00:00",
+  "LastChanged_Achievements": "2023-08-05T02:27:29.8052375+00:00",
   "LastUpdate_AppInfo": "2023-08-04T11:57:01.4081798+00:00",
-  "LastUpdate_Ratings": "2023-08-05T01:47:57.7145511+00:00",
-  "LastUpdate_Achievements": "2023-08-05T01:56:18.3813005+00:00"
+  "LastUpdate_Ratings": "2023-08-05T02:19:21.6534494+00:00",
+  "LastUpdate_Achievements": "2023-08-05T02:27:29.8052778+00:00"
 }

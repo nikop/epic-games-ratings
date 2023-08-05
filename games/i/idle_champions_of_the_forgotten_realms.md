@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wet Feet | 0.70% | ~1,531 |
 | Seeds of Destruction | 0.70% | ~1,295 |
 | Return to the Tomb | 0.70% | ~1,295 |
+| Were-verpowered | 0.70% | ~1,531 |
 | Pros and CONs | 0.60% | ~1,313 |
 | The Witchlight Carnival | 0.60% | ~1,110 |
 | Hatchlings Underfoot | 0.60% | ~1,313 |
@@ -28,7 +29,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Evacuation of Waterdeep | 0.60% | ~1,110 |
 | Heatwave | 0.60% | ~1,110 |
 | The Dread Domain of Tovag | 0.60% | ~1,110 |
-| Were-verpowered | 0.60% | ~1,313 |
 | A Persistent Buzzing | 0.60% | ~1,313 |
 | Beast Mode | 0.60% | ~1,313 |
 | Terror in the Dark | 0.60% | ~1,313 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,755 (Ranked 53)  
+Progressed: 218,756 (Ranked 53)  
 Completed: 2,152 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 2,152 (0.98%) (Ranked 113)
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
-| 2023-08-05 | 218,755 | 2,152 |
+| 2023-08-05 | 218,756 | 2,152 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,897 (Ranked 38)  

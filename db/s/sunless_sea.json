@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 34900,
+  "EOS_Progressed": 34903,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 473,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11445,6 +11445,11 @@
       "Time": "2023-08-05T01:54:57.3960843+00:00",
       "NumProgressed": 34900,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-05T02:26:08.2309895+00:00",
+      "NumProgressed": 34903,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -11472,7 +11477,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5933
+      "UsersEstimate": 5934
     },
     {
       "ID": "ach_antiquarian10",
@@ -11576,7 +11581,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 12564
+      "UsersEstimate": 12565
     },
     {
       "ID": "ach_die10",
@@ -11808,7 +11813,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6282
+      "UsersEstimate": 6283
     },
     {
       "ID": "ach_terror100",
@@ -11880,22 +11885,22 @@
       "Name": "Five Years at Zee",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     }
   ],
   "AchievementSets": [
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 34900,
+      "Progressed": 34903,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-08-05T01:54:57.3960839+00:00",
+  "LastChanged_Achievements": "2023-08-05T02:26:08.2309889+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:30.3882701+00:00",
-  "LastUpdate_Ratings": "2023-08-05T01:50:56.0072375+00:00",
-  "LastUpdate_Achievements": "2023-08-05T01:54:57.3961751+00:00"
+  "LastUpdate_Ratings": "2023-08-05T02:22:19.8205385+00:00",
+  "LastUpdate_Achievements": "2023-08-05T02:26:08.23109+00:00"
 }

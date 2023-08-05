@@ -26,7 +26,7 @@
 | Law student | 61.00% | ~135 |
 | Little hacker | 58.00% | ~128 |
 | Intriguing candies | 58.00% | ~128 |
-| Workout professional | 56.00% | ~124 |
+| Workout professional | 57.00% | ~126 |
 | It's good to be alive | 56.00% | ~124 |
 | Own four walls | 55.00% | ~122 |
 | Handyman | 54.00% | ~119 |
@@ -36,7 +36,7 @@
 | Legal courier | 51.00% | ~113 |
 | Extreme neuropower! | 51.00% | ~113 |
 | Escaped from a big trouble | 48.00% | ~106 |
-| Now you are worthy | 46.00% | ~102 |
+| Now you are worthy | 47.00% | ~104 |
 | No blades in the gym | 43.00% | ~95 |
 | Guiding on the right path | 43.00% | ~95 |
 | Your own way | 43.00% | ~95 |
@@ -58,12 +58,12 @@
 | Absolute Champion! | 30.00% | ~66 |
 | The last bell ring | 30.00% | ~66 |
 | Problems of cyborgs | 29.00% | ~64 |
+| Another world | 29.00% | ~64 |
 | The lonesome road | 29.00% | ~64 |
 | Keep nature safe | 29.00% | ~64 |
 | Family comes first | 29.00% | ~64 |
 | Key memories | 29.00% | ~64 |
 | The heart of the Resistance | 29.00% | ~64 |
-| Another world | 28.00% | ~62 |
 | Careerist | 28.00% | ~62 |
 | Anyone can resist | 28.00% | ~62 |
 | Trap disarmed | 26.00% | ~57 |

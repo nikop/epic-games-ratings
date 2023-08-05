@@ -6,18 +6,18 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~121,816 |
-| Where's that freaking Dwarf? | 47.00% | ~97,040 |
-| GG EZ | 28.00% | ~57,811 |
-| Speedrun | 26.00% | ~53,682 |
-| Déjà vu | 21.00% | ~43,358 |
-| Sock! SOCK! | 17.00% | ~35,100 |
-| DM intervention | 13.00% | ~26,841 |
-| Fireproof Wizardess | 10.00% | ~20,647 |
-| Livin' in a dwarven paradise | 8.00% | ~16,517 |
-| A beer, two curses, three companions | 8.00% | ~16,517 |
+| Alt+F4 | 59.00% | ~121,821 |
+| Where's that freaking Dwarf? | 47.00% | ~97,044 |
+| GG EZ | 28.00% | ~57,813 |
+| Speedrun | 26.00% | ~53,684 |
+| Déjà vu | 21.00% | ~43,360 |
+| Sock! SOCK! | 17.00% | ~35,101 |
+| DM intervention | 13.00% | ~26,842 |
+| Fireproof Wizardess | 10.00% | ~20,648 |
+| Livin' in a dwarven paradise | 8.00% | ~16,518 |
+| A beer, two curses, three companions | 8.00% | ~16,518 |
 | Way of the Wimp | 7.00% | ~14,453 |
-| The plot thickens... At the tavern | 5.00% | ~10,323 |
+| The plot thickens... At the tavern | 5.00% | ~10,324 |
 | The Woman in the High Castle | 4.00% | ~8,259 |
 | I am the night | 4.00% | ~8,259 |
 | Team Building Exercise | 4.00% | ~8,259 |
@@ -30,12 +30,12 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 3.00% | ~6,194 |
 | Thieves' Guild Accreditation | 3.00% | ~6,194 |
 | Oh, when I'll be level 10... | 3.00% | ~6,194 |
-| Urik's Depths | 2.00% | ~4,129 |
-| Look but don't touch | 2.00% | ~4,129 |
-| The beards of change | 2.00% | ~4,129 |
-| Gargantua | 2.00% | ~4,129 |
-| In Navalu's footsteps | 2.00% | ~4,129 |
-| Material Girl | 2.00% | ~4,129 |
+| Urik's Depths | 2.00% | ~4,130 |
+| Look but don't touch | 2.00% | ~4,130 |
+| The beards of change | 2.00% | ~4,130 |
+| Gargantua | 2.00% | ~4,130 |
+| In Navalu's footsteps | 2.00% | ~4,130 |
+| Material Girl | 2.00% | ~4,130 |
 | The Dungeon Master | 1.00% | ~2,065 |
 | The Statuette of Gladeulfeurah | 1.00% | ~2,065 |
 | The Famous Dungeon of Naheulbeuk | 1.00% | ~2,065 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,468 (Ranked 55)  
+Progressed: 206,476 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 0 (0.00%) (Ranked 248)
 | 2023-08-02 | 205,167 | 0 |
 | 2023-08-03 | 205,780 | 0 |
 | 2023-08-04 | 206,418 | 0 |
-| 2023-08-05 | 206,468 | 0 |
+| 2023-08-05 | 206,476 | 0 |
 ## Awards
 Max (Character Customization): 151  (Ranked 294)  
 Sum: 151 (Ranked 393)  

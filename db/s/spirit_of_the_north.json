@@ -318,7 +318,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 64557,
+  "EOS_Progressed": 64558,
   "EOS_Completed": 334,
   "EOS_NewPlayers": 841,
   "EOS_NewCompleters": 8,
@@ -11713,6 +11713,11 @@
       "Time": "2023-08-05T01:54:26.1586131+00:00",
       "NumProgressed": 64557,
       "NumCompleted": 334
+    },
+    {
+      "Time": "2023-08-05T02:25:37.6623563+00:00",
+      "NumProgressed": 64558,
+      "NumCompleted": 334
     }
   ],
   "TotalAchievements": 24,
@@ -11772,7 +11777,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 17430
+      "UsersEstimate": 17431
     },
     {
       "ID": "FOXIN_AROUND",
@@ -11804,7 +11809,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 34215
+      "UsersEstimate": 34216
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -11915,7 +11920,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 64557,
+      "Progressed": 64558,
       "Completed": 334
     }
   ],
@@ -11923,8 +11928,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-08-05T01:54:26.1586122+00:00",
+  "LastChanged_Achievements": "2023-08-05T02:25:37.6623557+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:08.8774615+00:00",
-  "LastUpdate_Ratings": "2023-08-05T01:50:38.0475738+00:00",
-  "LastUpdate_Achievements": "2023-08-05T01:54:26.1586839+00:00"
+  "LastUpdate_Ratings": "2023-08-05T02:22:01.5525854+00:00",
+  "LastUpdate_Achievements": "2023-08-05T02:25:37.6624505+00:00"
 }

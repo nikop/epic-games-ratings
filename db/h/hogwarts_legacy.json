@@ -5898,9 +5898,9 @@
       "Count": 575
     }
   ],
-  "EOS_Progressed": 289368,
+  "EOS_Progressed": 289370,
   "EOS_Completed": 439,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -17383,6 +17383,11 @@
       "Time": "2023-08-05T01:56:00.0091918+00:00",
       "NumProgressed": 289368,
       "NumCompleted": 439
+    },
+    {
+      "Time": "2023-08-05T02:27:11.514191+00:00",
+      "NumProgressed": 289370,
+      "NumCompleted": 439
     }
   ],
   "TotalAchievements": 45,
@@ -17426,7 +17431,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 23149
+      "UsersEstimate": 23150
     },
     {
       "ID": "PFA_14",
@@ -17498,7 +17503,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23149
+      "UsersEstimate": 23150
     },
     {
       "ID": "PFA_22",
@@ -17618,7 +17623,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23149
+      "UsersEstimate": 23150
     },
     {
       "ID": "PFA_36",
@@ -17722,7 +17727,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31830
+      "UsersEstimate": 31831
     },
     {
       "ID": "PFA_7",
@@ -17730,7 +17735,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31830
+      "UsersEstimate": 31831
     },
     {
       "ID": "PFA_8",
@@ -17746,14 +17751,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23149
+      "UsersEstimate": 23150
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289368,
+      "Progressed": 289370,
       "Completed": 439
     }
   ],
@@ -17761,8 +17766,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-05T01:48:28.8692609+00:00",
-  "LastChanged_Achievements": "2023-08-05T01:56:00.0091911+00:00",
+  "LastChanged_Achievements": "2023-08-05T02:27:11.5141904+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:08.2059673+00:00",
-  "LastUpdate_Ratings": "2023-08-05T01:48:28.8692617+00:00",
-  "LastUpdate_Achievements": "2023-08-05T01:56:00.0092819+00:00"
+  "LastUpdate_Ratings": "2023-08-05T02:19:51.3078238+00:00",
+  "LastUpdate_Achievements": "2023-08-05T02:27:11.5143575+00:00"
 }

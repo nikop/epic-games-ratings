@@ -8,19 +8,19 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~1,074 |
 | Project Arena | 4.00% | ~859 |
-| The Old Grandmaster | 2.00% | ~14,243 |
-| The Assault | 2.00% | ~14,243 |
-| The Hateful Pole Fighter | 2.00% | ~14,243 |
-| A Lady's Blood in the Snow | 2.00% | ~14,243 |
-| Lady Wing Chun | 2.00% | ~14,243 |
-| Street Fighting | 2.00% | ~14,243 |
-| Life is your teacher | 2.00% | ~14,243 |
-| State of constant learning | 2.00% | ~14,243 |
-| Qi Gong: Breath | 2.00% | ~14,243 |
-| Qi Gong: Essence | 2.00% | ~14,243 |
-| Lightning Hands | 2.00% | ~14,243 |
-| Path of the Prospect | 2.00% | ~14,243 |
-| Rumble in the Hangar | 2.00% | ~14,243 |
+| The Old Grandmaster | 2.00% | ~14,244 |
+| The Assault | 2.00% | ~14,244 |
+| The Hateful Pole Fighter | 2.00% | ~14,244 |
+| A Lady's Blood in the Snow | 2.00% | ~14,244 |
+| Lady Wing Chun | 2.00% | ~14,244 |
+| Street Fighting | 2.00% | ~14,244 |
+| Life is your teacher | 2.00% | ~14,244 |
+| State of constant learning | 2.00% | ~14,244 |
+| Qi Gong: Breath | 2.00% | ~14,244 |
+| Qi Gong: Essence | 2.00% | ~14,244 |
+| Lightning Hands | 2.00% | ~14,244 |
+| Path of the Prospect | 2.00% | ~14,244 |
+| Rumble in the Hangar | 2.00% | ~14,244 |
 | Bloody Sport | 2.00% | ~430 |
 | Furious Fists | 1.00% | ~7,122 |
 | Scareless | 1.00% | ~7,122 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,424 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,174 (Ranked 20)  
+Progressed: 712,175 (Ranked 20)  
 Completed: 12,844 (1.80%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 12,844 (1.80%) (Ranked 91)
 | 2023-08-02 | 712,079 | 12,840 |
 | 2023-08-03 | 712,134 | 12,842 |
 | 2023-08-04 | 712,173 | 12,844 |
-| 2023-08-05 | 712,174 | 12,844 |
+| 2023-08-05 | 712,175 | 12,844 |
 ## Awards
 Max (Great Boss Battles): 6,339  (Ranked 53)  
 Sum: 10,883 (Ranked 81)  

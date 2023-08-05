@@ -4,7 +4,7 @@
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -144,9 +144,9 @@
       "ID": "ANCIENT_ARTIFACT",
       "SetID": "e4de54",
       "Name": "Ancient artifact",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ANCIENT_TREASURE",
@@ -232,9 +232,9 @@
       "ID": "BAD_MUSICIAN",
       "SetID": "e4de54",
       "Name": "Bad musician",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BAD_SHOT",
@@ -471,8 +471,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-08-05T01:55:10.3770545+00:00",
+  "LastChanged_Achievements": "2023-08-05T02:26:20.9939336+00:00",
   "LastUpdate_AppInfo": "2023-08-04T22:57:14.0188097+00:00",
-  "LastUpdate_Ratings": "2023-08-05T01:47:42.7573806+00:00",
-  "LastUpdate_Achievements": "2023-08-05T01:55:10.3770818+00:00"
+  "LastUpdate_Ratings": "2023-08-05T02:19:06.0370914+00:00",
+  "LastUpdate_Achievements": "2023-08-05T02:26:20.9939709+00:00"
 }

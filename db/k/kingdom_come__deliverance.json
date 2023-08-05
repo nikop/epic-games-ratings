@@ -6348,9 +6348,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 795663,
+  "EOS_Progressed": 795665,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1019,
+  "EOS_NewPlayers": 1021,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17918,6 +17918,11 @@
       "Time": "2023-08-05T01:55:15.6508553+00:00",
       "NumProgressed": 795663,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-05T02:26:26.0956168+00:00",
+      "NumProgressed": 795665,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -17961,7 +17966,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 167089
+      "UsersEstimate": 167090
     },
     {
       "ID": "BadGirl",
@@ -18017,7 +18022,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 119349
+      "UsersEstimate": 119350
     },
     {
       "ID": "Buddy",
@@ -18129,7 +18134,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 183002
+      "UsersEstimate": 183003
     },
     {
       "ID": "Fighter",
@@ -18145,7 +18150,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 119349
+      "UsersEstimate": 119350
     },
     {
       "ID": "Freud",
@@ -18329,7 +18334,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 55696
+      "UsersEstimate": 55697
     },
     {
       "ID": "MercenarysHonor",
@@ -18433,7 +18438,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 55696
+      "UsersEstimate": 55697
     },
     {
       "ID": "Saviour",
@@ -18584,15 +18589,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 795663,
+      "Progressed": 795665,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-04T13:59:29.7119185+00:00",
-  "LastChanged_Achievements": "2023-08-05T01:55:15.6508548+00:00",
+  "LastChanged_Achievements": "2023-08-05T02:26:26.0956161+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:16.6403338+00:00",
-  "LastUpdate_Ratings": "2023-08-05T01:49:33.2655591+00:00",
-  "LastUpdate_Achievements": "2023-08-05T01:55:15.6509834+00:00"
+  "LastUpdate_Ratings": "2023-08-05T02:20:52.9948544+00:00",
+  "LastUpdate_Achievements": "2023-08-05T02:26:26.0958364+00:00"
 }

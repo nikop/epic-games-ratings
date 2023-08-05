@@ -494,9 +494,9 @@
       "ID": "killPlant5",
       "SetID": "ci65fo0",
       "Name": "Nature\u0027s enemy",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "killSWBoss",
@@ -558,9 +558,9 @@
       "ID": "killZombie50",
       "SetID": "ci65fo0",
       "Name": "Threat to the undead",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "locBanditBoss",
@@ -758,9 +758,9 @@
       "ID": "questHallucinationsKing",
       "SetID": "ci65fo0",
       "Name": "Hallucinations King",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "questKillGoblinMage",
@@ -915,8 +915,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-05T01:53:43.5493881+00:00",
+  "LastChanged_Achievements": "2023-08-05T02:25:05.5550423+00:00",
   "LastUpdate_AppInfo": "2023-08-02T10:57:06.3883378+00:00",
-  "LastUpdate_Ratings": "2023-08-05T01:47:52.8482156+00:00",
-  "LastUpdate_Achievements": "2023-08-05T01:53:43.5494526+00:00"
+  "LastUpdate_Ratings": "2023-08-05T02:19:16.5962048+00:00",
+  "LastUpdate_Achievements": "2023-08-05T02:25:05.5551234+00:00"
 }

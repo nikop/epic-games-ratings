@@ -658,9 +658,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11827,
+  "EOS_Progressed": 11829,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -8403,6 +8403,11 @@
       "Time": "2023-08-04T23:01:27.9034863+00:00",
       "NumProgressed": 11827,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-08-05T02:23:07.7124204+00:00",
+      "NumProgressed": 11829,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 35,
@@ -8414,7 +8419,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9580
+      "UsersEstimate": 9581
     },
     {
       "ID": "ACH02",
@@ -8462,7 +8467,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2247
+      "UsersEstimate": 2248
     },
     {
       "ID": "ACH08",
@@ -8494,7 +8499,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "ACH12",
@@ -8534,7 +8539,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "ACH17",
@@ -8693,7 +8698,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11827,
+      "Progressed": 11829,
       "Completed": 34
     }
   ],
@@ -8701,8 +8706,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-04T22:00:49.3953547+00:00",
-  "LastChanged_Achievements": "2023-08-05T01:51:45.0459261+00:00",
+  "LastChanged_Achievements": "2023-08-05T02:23:07.7124196+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:13.4328142+00:00",
-  "LastUpdate_Ratings": "2023-08-05T01:51:30.272577+00:00",
-  "LastUpdate_Achievements": "2023-08-05T01:51:45.046011+00:00"
+  "LastUpdate_Ratings": "2023-08-05T02:22:51.6442357+00:00",
+  "LastUpdate_Achievements": "2023-08-05T02:23:07.712508+00:00"
 }

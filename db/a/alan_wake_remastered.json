@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60246,
+  "EOS_Progressed": 60249,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 1018,
+  "EOS_NewPlayers": 1019,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10227,6 +10227,11 @@
       "Time": "2023-08-05T01:55:25.8639383+00:00",
       "NumProgressed": 60246,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-05T02:26:36.4324991+00:00",
+      "NumProgressed": 60249,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10238,7 +10243,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22291
+      "UsersEstimate": 22292
     },
     {
       "ID": "02",
@@ -10254,7 +10259,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13254
+      "UsersEstimate": 13255
     },
     {
       "ID": "04",
@@ -10278,7 +10283,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9639
+      "UsersEstimate": 9640
     },
     {
       "ID": "07",
@@ -10486,7 +10491,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16869
+      "UsersEstimate": 16870
     },
     {
       "ID": "33",
@@ -10510,7 +10515,7 @@
       "Name": "Let There Be Light",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17471
+      "UsersEstimate": 17472
     },
     {
       "ID": "36",
@@ -10574,7 +10579,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9639
+      "UsersEstimate": 9640
     },
     {
       "ID": "44",
@@ -10598,7 +10603,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 8434
+      "UsersEstimate": 8435
     },
     {
       "ID": "47",
@@ -10710,7 +10715,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "61",
@@ -10766,28 +10771,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60246,
+      "Progressed": 60249,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23714,
+      "Progressed": 23717,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-05T01:55:25.8639378+00:00",
+  "LastChanged_Achievements": "2023-08-05T02:26:36.4324986+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:35.0351219+00:00",
-  "LastUpdate_Ratings": "2023-08-05T01:48:45.3044466+00:00",
-  "LastUpdate_Achievements": "2023-08-05T01:55:25.8640379+00:00"
+  "LastUpdate_Ratings": "2023-08-05T02:20:07.3760591+00:00",
+  "LastUpdate_Achievements": "2023-08-05T02:26:36.4326467+00:00"
 }

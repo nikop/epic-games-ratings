@@ -5,23 +5,23 @@ Rating: 4.39 (Ranked 703)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 79.00% | ~86,582 |
-| 74 miles East of Otaheité | 55.00% | ~60,278 |
-| Interesting... | 42.00% | ~46,031 |
-| The Everhart Expedition | 39.00% | ~42,743 |
-| The Vanishing of the Lady Shannon | 30.00% | ~32,879 |
-| Seaside Serenade | 30.00% | ~32,879 |
-| Halfway there | 29.00% | ~31,783 |
-| A brigantine, a brig and a barque | 28.00% | ~30,687 |
-| Weekend at Walakea's | 27.00% | ~29,591 |
-| 506 East Hampden Avenue | 27.00% | ~29,591 |
-| Quite a Show | 26.00% | ~28,495 |
-| Dark Water Ride | 24.00% | ~26,303 |
-| Sunken | 24.00% | ~26,303 |
-| Deep Cut | 23.00% | ~25,207 |
-| FHALGOF'N' | 22.00% | ~24,111 |
-| Marsh Cannery | 20.00% | ~21,919 |
-| Greetings from Y'ha-nthlei! | 17.00% | ~18,631 |
+| A Family Heirloom | 79.00% | ~86,584 |
+| 74 miles East of Otaheité | 55.00% | ~60,280 |
+| Interesting... | 42.00% | ~46,032 |
+| The Everhart Expedition | 39.00% | ~42,744 |
+| The Vanishing of the Lady Shannon | 30.00% | ~32,880 |
+| Seaside Serenade | 30.00% | ~32,880 |
+| Halfway there | 29.00% | ~31,784 |
+| A brigantine, a brig and a barque | 28.00% | ~30,688 |
+| Weekend at Walakea's | 27.00% | ~29,592 |
+| 506 East Hampden Avenue | 27.00% | ~29,592 |
+| Quite a Show | 26.00% | ~28,496 |
+| Dark Water Ride | 24.00% | ~26,304 |
+| Sunken | 24.00% | ~26,304 |
+| Deep Cut | 23.00% | ~25,208 |
+| FHALGOF'N' | 22.00% | ~24,112 |
+| Marsh Cannery | 20.00% | ~21,920 |
+| Greetings from Y'ha-nthlei! | 17.00% | ~18,632 |
 | The only thing I have now | 16.00% | ~17,536 |
 | Not Another Boring Slideshow! | 15.00% | ~16,440 |
 | Naacalvision | 15.00% | ~16,440 |
@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 703)
 | Gently down the stream... | 1.00% | ~1,096 |
 | Meta-reference | 1.00% | ~1,096 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109,597 (Ranked 69)  
+Progressed: 109,600 (Ranked 69)  
 Completed: 867 (0.79%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 867 (0.79%) (Ranked 118)
 | 2023-08-02 | 109,039 | 866 |
 | 2023-08-03 | 109,281 | 866 |
 | 2023-08-04 | 109,564 | 867 |
-| 2023-08-05 | 109,597 | 867 |
+| 2023-08-05 | 109,600 | 867 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

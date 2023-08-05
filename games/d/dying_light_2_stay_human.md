@@ -7,27 +7,27 @@ Number of Ratings: 7,305  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Never Forget Your First... | 11.00% | ~66,852 |
-| Into the Unknown | 10.00% | ~60,774 |
-| First Shot | 10.00% | ~60,774 |
-| Herzlich Wilkommen! | 9.00% | ~54,697 |
-| Good Night & Good Luck | 9.00% | ~54,697 |
-| Sancho Panza | 8.00% | ~48,619 |
-| Oh, So This Is How It Works! | 8.00% | ~48,619 |
-| Under Pressure | 7.00% | ~42,542 |
-| On the Trail of the Enemy | 7.00% | ~42,542 |
-| Flag Burning | 7.00% | ~42,542 |
-| Night Hunter | 7.00% | ~42,542 |
+| Into the Unknown | 10.00% | ~60,775 |
+| First Shot | 10.00% | ~60,775 |
+| Herzlich Wilkommen! | 9.00% | ~54,698 |
+| Good Night & Good Luck | 9.00% | ~54,698 |
+| Sancho Panza | 8.00% | ~48,620 |
+| Oh, So This Is How It Works! | 8.00% | ~48,620 |
+| Under Pressure | 7.00% | ~42,543 |
+| On the Trail of the Enemy | 7.00% | ~42,543 |
+| Flag Burning | 7.00% | ~42,543 |
+| Night Hunter | 7.00% | ~42,543 |
 | Light in the Darkness | 6.00% | ~36,465 |
 | Get Outta My House! | 6.00% | ~36,465 |
 | It Wasn't That Hard, Was It? | 6.00% | ~36,465 |
 | Being All Social | 6.00% | ~36,465 |
-| Debris and Ashes | 5.00% | ~30,387 |
-| We Will Be Heard! | 5.00% | ~30,387 |
-| Known Associate | 5.00% | ~30,387 |
-| Brush with Death | 5.00% | ~30,387 |
-| Tunnel Entrance | 5.00% | ~30,387 |
-| After the Fall | 5.00% | ~30,387 |
-| Can't Touch This! | 5.00% | ~30,387 |
+| Debris and Ashes | 5.00% | ~30,388 |
+| We Will Be Heard! | 5.00% | ~30,388 |
+| Known Associate | 5.00% | ~30,388 |
+| Brush with Death | 5.00% | ~30,388 |
+| Tunnel Entrance | 5.00% | ~30,388 |
+| After the Fall | 5.00% | ~30,388 |
+| Can't Touch This! | 5.00% | ~30,388 |
 | Going Down | 4.00% | ~24,310 |
 | Family First | 4.00% | ~24,310 |
 | Your World, Your Rules | 4.00% | ~24,310 |
@@ -41,12 +41,12 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ban Hammer | 2.00% | ~12,155 |
 | Parkour Master | 2.00% | ~12,155 |
 | Modder | 2.00% | ~12,155 |
-| Tube Map | 1.00% | ~6,077 |
-| Don Quixote | 1.00% | ~6,077 |
-| Can't You Read the Signs? | 1.00% | ~6,077 |
-| That's Teamwork! | 1.00% | ~6,077 |
-| Fit as a Fiddle | 1.00% | ~6,077 |
-| Ironheart | 1.00% | ~6,077 |
+| Tube Map | 1.00% | ~6,078 |
+| Don Quixote | 1.00% | ~6,078 |
+| Can't You Read the Signs? | 1.00% | ~6,078 |
+| That's Teamwork! | 1.00% | ~6,078 |
+| Fit as a Fiddle | 1.00% | ~6,078 |
+| Ironheart | 1.00% | ~6,078 |
 | Nemesis | 1.00% | ~2,532 |
 | Enter the Hall | 1.00% | ~2,532 |
 | Find Anything Interesting? | 0.90% | ~5,470 |
@@ -61,8 +61,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Lightning Reflexes | 0.40% | ~2,431 |
 | A Friend in Need... | 0.30% | ~1,823 |
 | Man On a Mission | 0.30% | ~1,823 |
-| Ultramarathon | 0.20% | ~1,215 |
-| Don't Look Up | 0.20% | ~1,215 |
+| Ultramarathon | 0.20% | ~1,216 |
+| Don't Look Up | 0.20% | ~1,216 |
 | True Nightrunner | 0.10% | ~608 |
 | Bing Bang Boom! | 0.10% | ~608 |
 | Archivist | 0.10% | ~608 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~253 |
 | Connoisseur | 0.10% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 607,743 (Ranked 27)  
+Progressed: 607,750 (Ranked 27)  
 Completed: 61 (0.01%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 61 (0.01%) (Ranked 235)
 | 2023-08-02 | 606,634 | 61 |
 | 2023-08-03 | 607,225 | 61 |
 | 2023-08-04 | 607,698 | 61 |
-| 2023-08-05 | 607,743 | 61 |
+| 2023-08-05 | 607,750 | 61 |
 ## Awards
 Max (Character Customization): 8,686  (Ranked 39)  
 Sum: 20,746 (Ranked 54)  
