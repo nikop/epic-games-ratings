@@ -20,7 +20,7 @@
 | Hello, world! | 68.00% | ~154 |
 | Fighting is cool | 67.00% | ~151 |
 | No bullying more | 67.00% | ~151 |
-| Pal of your father? | 64.00% | ~145 |
+| Pal of your father? | 65.00% | ~147 |
 | Spirit of the past | 62.00% | ~140 |
 | Employee of the month | 62.00% | ~140 |
 | Law student | 60.00% | ~136 |
@@ -38,10 +38,10 @@
 | Escaped from a big trouble | 47.00% | ~106 |
 | Now you are worthy | 46.00% | ~104 |
 | No blades in the gym | 43.00% | ~97 |
+| Mysterious voice | 42.00% | ~95 |
 | Guiding on the right path | 42.00% | ~95 |
 | Your own way | 42.00% | ~95 |
 | Fight is life | 41.00% | ~93 |
-| Mysterious voice | 41.00% | ~93 |
 | Get out of my apartment! | 37.00% | ~84 |
 | Underground dwellers | 36.00% | ~81 |
 | Responsible approach | 36.00% | ~81 |

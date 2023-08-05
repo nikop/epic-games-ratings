@@ -5,31 +5,31 @@ Rating: 4.40 (Ranked 696)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,240 |
-| Ranidaphobia | 78.00% | ~1,051 |
-| Aspiring Editor | 75.00% | ~1,011 |
+| First Blood | 92.00% | ~1,241 |
+| Ranidaphobia | 77.00% | ~1,039 |
+| Aspiring Editor | 75.00% | ~1,012 |
 | Gun for Hire | 70.00% | ~944 |
 | I am the law! | 64.00% | ~863 |
-| Lumberjack | 53.00% | ~714 |
-| Croaked | 48.00% | ~647 |
+| Lumberjack | 53.00% | ~715 |
+| Croaked | 48.00% | ~648 |
 | Limp Richard | 47.00% | ~634 |
 | Exorcist | 47.00% | ~634 |
 | From Darkness to Light | 47.00% | ~634 |
-| Editor Adept | 46.00% | ~620 |
-| Giant Killer | 44.00% | ~593 |
-| Sensei | 42.00% | ~566 |
+| Editor Adept | 46.00% | ~621 |
+| Giant Killer | 44.00% | ~594 |
+| Sensei | 42.00% | ~567 |
 | Firestarter | 41.00% | ~553 |
-| The meaning of Kain | 40.00% | ~539 |
+| The meaning of Kain | 40.00% | ~540 |
 | Technophobe | 39.00% | ~526 |
-| Recycler | 38.00% | ~512 |
+| Recycler | 38.00% | ~513 |
 | Are you not entertained? | 33.00% | ~445 |
 | Ganglord | 33.00% | ~445 |
 | Jarhead | 33.00% | ~445 |
-| Infiltrator | 32.00% | ~431 |
+| Infiltrator | 32.00% | ~432 |
 | Pushing Daisy | 31.00% | ~418 |
-| Experienced | 30.00% | ~404 |
+| Experienced | 30.00% | ~405 |
 | Hold The Line | 29.00% | ~391 |
-| Endgame | 26.00% | ~350 |
+| Endgame | 26.00% | ~351 |
 | Savior | 25.00% | ~337 |
 | There Can Be Only One! | 25.00% | ~337 |
 | Chain Killer | 22.00% | ~297 |
@@ -57,7 +57,7 @@ Rating: 4.40 (Ranked 696)
 | QA Has Suffered! (Redux) | 0.80% | ~11 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,348 (Ranked 184)  
+Progressed: 1,349 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 0 (0.00%) (Ranked 249)
 | 2023-08-02 | 1,337 | 0 |
 | 2023-08-03 | 1,344 | 0 |
 | 2023-08-04 | 1,347 | 0 |
-| 2023-08-05 | 1,348 | 0 |
+| 2023-08-05 | 1,349 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

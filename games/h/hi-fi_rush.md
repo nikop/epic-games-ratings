@@ -56,6 +56,7 @@ Rating: 4.87 (Ranked 24)
 | Now this is how you fight like a team! | 0.20% | ~7 |
 | It'll do, CNMN | 0.20% | ~5 |
 | And the crowd goes wild! | 0.10% | ~4 |
+| Didn't skip a beat! | 0.10% | ~4 |
 | I can't see this ever being a problem again | 0.10% | ~4 |
 | I think that's enough health for now | 0.10% | ~4 |
 | Fully Powered Up! | 0.10% | ~4 |
@@ -75,9 +76,8 @@ Rating: 4.87 (Ranked 24)
 | It was all for this | 0.10% | ~2 |
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
-| Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,746 (Ranked 147)  
+Progressed: 3,747 (Ranked 147)  
 Completed: 6 (0.16%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 6 (0.16%) (Ranked 181)
 | 2023-08-02 | 3,680 | 6 |
 | 2023-08-03 | 3,705 | 6 |
 | 2023-08-04 | 3,731 | 6 |
-| 2023-08-05 | 3,746 | 6 |
+| 2023-08-05 | 3,747 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

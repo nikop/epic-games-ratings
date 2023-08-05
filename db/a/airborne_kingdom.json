@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6965,
+  "EOS_Progressed": 6966,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -3368,6 +3368,11 @@
       "Time": "2023-08-05T20:03:16.6796645+00:00",
       "NumProgressed": 6965,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-05T21:03:08.1271144+00:00",
+      "NumProgressed": 6966,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -3411,7 +3416,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3691
+      "UsersEstimate": 3692
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -3427,7 +3432,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -3435,7 +3440,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -3443,7 +3448,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -3467,7 +3472,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "AK_ON_TOWN",
@@ -3491,7 +3496,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -3531,7 +3536,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3900
+      "UsersEstimate": 3901
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -3587,22 +3592,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6965,
+      "Progressed": 6966,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-08-05T20:03:16.6796641+00:00",
+  "LastChanged_Achievements": "2023-08-05T21:03:08.1271138+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:47.6725573+00:00",
-  "LastUpdate_Ratings": "2023-08-05T19:58:12.083298+00:00",
-  "LastUpdate_Achievements": "2023-08-05T20:03:16.6797035+00:00"
+  "LastUpdate_Ratings": "2023-08-05T20:58:09.1070147+00:00",
+  "LastUpdate_Achievements": "2023-08-05T21:03:08.1271545+00:00"
 }

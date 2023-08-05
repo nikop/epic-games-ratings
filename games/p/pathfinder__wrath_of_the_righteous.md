@@ -14,11 +14,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Banner over the Citadel | 12.00% | ~1,297 |
 | Queen's Gratitude | 10.00% | ~1,081 |
 | Fifth Crusade | 7.00% | ~757 |
-| Embrace of the Abyss | 5.00% | ~540 |
-| Path of the Angel | 5.00% | ~540 |
-| Great Upstart | 5.00% | ~540 |
-| All Paths Open | 5.00% | ~540 |
-| Demonic and Divine | 5.00% | ~540 |
+| Embrace of the Abyss | 5.00% | ~541 |
+| Path of the Angel | 5.00% | ~541 |
+| Great Upstart | 5.00% | ~541 |
+| All Paths Open | 5.00% | ~541 |
+| Demonic and Divine | 5.00% | ~541 |
 | Path of the Azata | 4.00% | ~432 |
 | Transformation | 4.00% | ~432 |
 | The Legacy | 4.00% | ~432 |
@@ -54,13 +54,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | End of Eternal Guard | 0.80% | ~86 |
 | Truly Profane Gift | 0.80% | ~86 |
 | Playful Mood | 0.70% | ~76 |
+| Masterful Charge | 0.60% | ~65 |
 | Dreadful Dragon | 0.60% | ~65 |
-| Masterful Charge | 0.50% | ~54 |
 | Prelate's Nemesis | 0.40% | ~43 |
 | Just Pathetic | 0.30% | ~32 |
 | Ashes to Ashes | 0.30% | ~32 |
+| Path of the Swarm | 0.20% | ~22 |
 | Masterful Dispel | 0.20% | ~22 |
-| Path of the Swarm | 0.10% | ~11 |
 | Equal to Aroden | 0.10% | ~11 |
 | Spirit of Adventure | 0.10% | ~11 |
 | Test of the Starstone | 0.10% | ~11 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,810 (Ranked 120)  
+Progressed: 10,811 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 0 (0.00%) (Ranked 249)
 | 2023-08-02 | 10,767 | 0 |
 | 2023-08-03 | 10,789 | 0 |
 | 2023-08-04 | 10,798 | 0 |
-| 2023-08-05 | 10,810 | 0 |
+| 2023-08-05 | 10,811 | 0 |
 ## Awards
 Max (Character Customization): 1,695  (Ranked 117)  
 Sum: 6,870 (Ranked 113)  

@@ -25,12 +25,12 @@ Number of Ratings: 285  (23.09.2022)
 | Spending Spree | 1.00% | ~6 |
 | Ten Steps from the Grave | 1.00% | ~6 |
 | The Fourth Gate | 0.80% | ~5 |
-| Everything Must Go! | 0.70% | ~4 |
+| Everything Must Go! | 0.60% | ~4 |
 | We've Got a Kaiju on the Field | 0.20% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 615 (Ranked 215)  
+Progressed: 616 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,7 +51,7 @@ Completed: 0 (0.00%) (Ranked 249)
 | 2023-08-02 | 552 | 0 |
 | 2023-08-03 | 573 | 0 |
 | 2023-08-04 | 597 | 0 |
-| 2023-08-05 | 615 | 0 |
+| 2023-08-05 | 616 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 451)  
 Sum: 226 (Ranked 355)  

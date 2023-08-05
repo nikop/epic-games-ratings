@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,761 |
-| Beast Intentions | 3.00% | ~6,570 |
-| Maddening | 2.00% | ~4,380 |
+| Beast Intentions | 3.00% | ~6,571 |
+| Maddening | 2.00% | ~4,381 |
 | The Silken Swamp | 1.00% | ~2,190 |
 | Supply Run | 1.00% | ~2,190 |
 | Vecna Lives! | 1.00% | ~1,853 |
@@ -39,7 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.60% | ~1,314 |
 | The Mad Wizard | 0.60% | ~1,314 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,112 |
-| Thieves of the Coven | 0.50% | ~926 |
+| Thieves of the Coven | 0.50% | ~927 |
 | Heavy Burden | 0.50% | ~1,095 |
 | Friends of the Forest | 0.50% | ~1,095 |
 | Low Initiative | 0.50% | ~1,095 |
@@ -52,13 +52,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.50% | ~1,095 |
 | The Ring of Regeneration | 0.50% | ~1,095 |
 | Seeking Allies | 0.50% | ~1,095 |
-| Not That Type of Helm! | 0.50% | ~926 |
-| Calcryx Tricks | 0.50% | ~926 |
-| Goblin Halls: the Next Generation | 0.50% | ~926 |
-| Bazaar Companions | 0.50% | ~926 |
-| Bahamut's Army | 0.50% | ~926 |
-| Krux's Speed Run | 0.50% | ~926 |
-| Animated Giff | 0.50% | ~926 |
+| Not That Type of Helm! | 0.50% | ~927 |
+| Calcryx Tricks | 0.50% | ~927 |
+| Goblin Halls: the Next Generation | 0.50% | ~927 |
+| Bazaar Companions | 0.50% | ~927 |
+| Bahamut's Army | 0.50% | ~927 |
+| Krux's Speed Run | 0.50% | ~927 |
+| Animated Giff | 0.50% | ~927 |
 | Upholding the Law | 0.40% | ~876 |
 | Hither of the Feywild | 0.40% | ~741 |
 | The Prince of a Thousand Enemies | 0.40% | ~741 |
@@ -93,6 +93,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Luigi After Hours | 0.40% | ~741 |
 | Electric Mayhem | 0.40% | ~741 |
 | 3,720 to 1 | 0.40% | ~741 |
+| Starving in the Jungle | 0.30% | ~657 |
 | Nightmare Rats! | 0.30% | ~556 |
 | Downfall | 0.30% | ~556 |
 | Slack-jawed Lorna | 0.30% | ~556 |
@@ -161,7 +162,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rescue in the Jungle | 0.30% | ~657 |
 | Willing to Sacrifice | 0.30% | ~556 |
 | Tiny Treaty | 0.30% | ~556 |
-| Starving in the Jungle | 0.20% | ~438 |
 | Cold as Ice | 0.20% | ~371 |
 | Friends and Foes | 0.20% | ~371 |
 | An Unexpected Geist | 0.20% | ~371 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,016 (Ranked 53)  
+Progressed: 219,029 (Ranked 53)  
 Completed: 2,153 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,15 +626,15 @@ Completed: 2,153 (0.98%) (Ranked 113)
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
-| 2023-08-05 | 219,016 | 2,153 |
+| 2023-08-05 | 219,029 | 2,153 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
-Sum: 30,900 (Ranked 38)  
+Sum: 30,905 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,116 |
-| This game is Great for Beginners | 5,059 |
+| This game is Great for Beginners | 5,064 |
 | This game has Quickly Understood Controls | 4,702 |
 | This game is Relaxing | 4,595 |
 | This game has Amazing Characters | 4,055 |
@@ -834,4 +834,4 @@ Diff (max vs sum): 29
 | 2023-08-02 | 4.05 | - | 5,109 | 30,857 |
 | 2023-08-03 | 4.05 | - | 5,116 | 30,886 |
 | 2023-08-04 | 4.05 | - | 5,116 | 30,897 |
-| 2023-08-05 | 4.05 | - | 5,116 | 30,900 |
+| 2023-08-05 | 4.05 | - | 5,116 | 30,905 |

@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -23,8 +23,8 @@
   "Tags": [],
   "EOS_Progressed": 107,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 63,
-  "EOS_NewCompleters": 16,
+  "EOS_NewPlayers": 60,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 19.63,
   "EosHistory": [
     {
@@ -494,9 +494,9 @@
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 70,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Compiling",
@@ -526,9 +526,9 @@
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 70,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Fusses",
@@ -574,9 +574,9 @@
       "ID": "Screwdriver",
       "SetID": "7jbi7el",
       "Name": "Screwdriver",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 70,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "SecretRoom",
@@ -605,8 +605,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-05T20:05:04.9352688+00:00",
+  "LastChanged_Achievements": "2023-08-05T21:04:55.5224929+00:00",
   "LastUpdate_AppInfo": "2023-08-01T17:57:05.506677+00:00",
-  "LastUpdate_Ratings": "2023-08-05T19:57:16.842495+00:00",
-  "LastUpdate_Achievements": "2023-08-05T20:05:04.9352834+00:00"
+  "LastUpdate_Ratings": "2023-08-05T20:57:15.4825836+00:00",
+  "LastUpdate_Achievements": "2023-08-05T21:04:55.522509+00:00"
 }

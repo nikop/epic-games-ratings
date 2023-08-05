@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -282,7 +282,7 @@
   ],
   "EOS_Progressed": 1114,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -1835,9 +1835,9 @@
       "ID": "MissionSalvage",
       "SetID": "a6c395p",
       "Name": "Shields Down",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 791
+      "UsersEstimate": 802
     },
     {
       "ID": "MissionScavengingJob",
@@ -1971,8 +1971,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-08-05T20:05:24.7710169+00:00",
+  "LastChanged_Achievements": "2023-08-05T21:05:15.414127+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:02.342624+00:00",
-  "LastUpdate_Ratings": "2023-08-05T20:01:05.9655336+00:00",
-  "LastUpdate_Achievements": "2023-08-05T20:05:24.7710622+00:00"
+  "LastUpdate_Ratings": "2023-08-05T21:00:57.5059916+00:00",
+  "LastUpdate_Achievements": "2023-08-05T21:05:15.4141681+00:00"
 }

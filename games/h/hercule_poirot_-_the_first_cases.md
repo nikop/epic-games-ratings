@@ -18,7 +18,7 @@ Rating: 4.35 (Ranked 746)
 | Fine-toothed Comb | 53.00% | ~217 |
 | The Altercation | 50.00% | ~204 |
 | Truth from Within | 49.00% | ~200 |
-| The Major | 47.00% | ~192 |
+| The Major | 48.00% | ~196 |
 | Comtesse Margaux de Vos | 45.00% | ~184 |
 | Curious and Beautiful | 44.00% | ~180 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~180 |

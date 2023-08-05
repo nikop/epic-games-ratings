@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,7 +112,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3746,
+  "EOS_Progressed": 3747,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
@@ -5292,6 +5292,11 @@
       "Time": "2023-08-05T20:05:01.3988956+00:00",
       "NumProgressed": 3746,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-05T21:04:52.4881329+00:00",
+      "NumProgressed": 3747,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -5389,9 +5394,9 @@
       "ID": "Ach012",
       "SetID": "12n4k20",
       "Name": "Didn\u0027t skip a beat!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach013",
@@ -5870,13 +5875,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3746,
+      "Progressed": 3747,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2267,
+      "Progressed": 2268,
       "Completed": 1928
     }
   ],
@@ -5884,8 +5889,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-08-05T20:05:01.3988952+00:00",
+  "LastChanged_Achievements": "2023-08-05T21:04:52.4881324+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:24.9640697+00:00",
-  "LastUpdate_Ratings": "2023-08-05T19:59:27.7094894+00:00",
-  "LastUpdate_Achievements": "2023-08-05T20:05:01.3990137+00:00"
+  "LastUpdate_Ratings": "2023-08-05T20:59:18.9416686+00:00",
+  "LastUpdate_Achievements": "2023-08-05T21:04:52.4882414+00:00"
 }

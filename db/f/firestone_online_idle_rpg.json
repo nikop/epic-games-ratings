@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -5225,9 +5225,9 @@
       "ID": "thealchemist",
       "SetID": "3nl4bcg",
       "Name": "The Alchemist",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 88
     },
     {
       "ID": "theexpeditioner",
@@ -5370,8 +5370,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-04T03:58:50.3286371+00:00",
-  "LastChanged_Achievements": "2023-08-05T20:04:49.1118155+00:00",
+  "LastChanged_Achievements": "2023-08-05T21:04:39.305114+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:51.9873939+00:00",
-  "LastUpdate_Ratings": "2023-08-05T19:58:52.5774217+00:00",
-  "LastUpdate_Achievements": "2023-08-05T20:04:49.1119223+00:00"
+  "LastUpdate_Ratings": "2023-08-05T20:58:48.0029419+00:00",
+  "LastUpdate_Achievements": "2023-08-05T21:04:39.3052194+00:00"
 }

@@ -990,9 +990,9 @@
       "ID": "LEVEL_001",
       "SetID": "7jk5g4e",
       "Name": "Pit-house",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 45,
-      "UsersEstimate": 341
+      "UsersEstimate": 345
     },
     {
       "ID": "LEVEL_003",
@@ -1006,9 +1006,9 @@
       "ID": "LEVEL_004",
       "SetID": "7jk5g4e",
       "Name": "Two-story house",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 45,
-      "UsersEstimate": 261
+      "UsersEstimate": 265
     },
     {
       "ID": "LEVEL_006",
@@ -1085,8 +1085,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-08-05T20:06:11.9233723+00:00",
+  "LastChanged_Achievements": "2023-08-05T21:06:02.6136275+00:00",
   "LastUpdate_AppInfo": "2023-07-31T17:57:13.9336019+00:00",
-  "LastUpdate_Ratings": "2023-08-05T19:57:37.3650958+00:00",
-  "LastUpdate_Achievements": "2023-08-05T20:06:11.9233875+00:00"
+  "LastUpdate_Ratings": "2023-08-05T20:57:36.8279858+00:00",
+  "LastUpdate_Achievements": "2023-08-05T21:06:02.6136435+00:00"
 }
