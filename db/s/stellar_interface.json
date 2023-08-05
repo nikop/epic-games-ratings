@@ -779,9 +779,9 @@
       "ID": "GoldHoberMallowBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Golden Foundation",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GoldHomunculusBossDefeatedAchievement",
@@ -819,9 +819,9 @@
       "ID": "GoldMissionsCompleted5Achievement",
       "SetID": "a8djcgh",
       "Name": "Sectoral Admiral",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GoldMissionsCompletedAllAchievement",
@@ -947,9 +947,9 @@
       "ID": "Killed20BossesAchievement",
       "SetID": "a8djcgh",
       "Name": "Usurper II",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Killed50000EnemiesAchievement",
@@ -1203,9 +1203,9 @@
       "ID": "SilverTheHiveBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Silver Pest Control",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SkinPerksAchievement",
@@ -1219,17 +1219,17 @@
       "ID": "StagSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Beetle",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "StarFurySpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Anger Management",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "UsedAllConsumablesAchievement",
@@ -1378,8 +1378,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-08-05T22:07:02.8245319+00:00",
+  "LastChanged_Achievements": "2023-08-05T23:07:26.223232+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:42.8405355+00:00",
-  "LastUpdate_Ratings": "2023-08-05T22:00:13.0026049+00:00",
-  "LastUpdate_Achievements": "2023-08-05T22:07:02.8246848+00:00"
+  "LastUpdate_Ratings": "2023-08-05T23:00:16.4535296+00:00",
+  "LastUpdate_Achievements": "2023-08-05T23:07:26.2235928+00:00"
 }

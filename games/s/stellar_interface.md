@@ -53,16 +53,18 @@
 | Curious | 3.00% | ~2 |
 | Pilgrim | 3.00% | ~2 |
 | Diligent | 3.00% | ~2 |
+| Usurper II | 3.00% | ~2 |
 | Silver Foundation | 3.00% | ~2 |
+| Silver Pest Control | 3.00% | ~2 |
+| Beetle | 3.00% | ~2 |
+| Anger Management | 3.00% | ~2 |
 | Revenge | 2.00% | ~1 |
 | Bronze BBQ | 2.00% | ~1 |
 | Food Poisoning | 2.00% | ~1 |
-| Usurper II | 2.00% | ~1 |
+| Golden Foundation | 2.00% | ~1 |
+| Sectoral Admiral | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
-| Silver Pest Control | 2.00% | ~1 |
 | Mysterious Skin | 2.00% | ~1 |
-| Beetle | 2.00% | ~1 |
-| Anger Management | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
 | Archer's Bronze Fate | 0.00% | ~0 |
@@ -95,12 +97,10 @@
 | U.N. Squadron III | 0.00% | ~0 |
 | Golden Tovarish | 0.00% | ~0 |
 | Archer's Golden Fate | 0.00% | ~0 |
-| Golden Foundation | 0.00% | ~0 |
 | Golden Alchemist | 0.00% | ~0 |
 | Magic Golden mirror; on the wall | 0.00% | ~0 |
 | System Admiral | 0.00% | ~0 |
 | Galactic Admiral | 0.00% | ~0 |
-| Sectoral Admiral | 0.00% | ~0 |
 | Universal Admiral | 0.00% | ~0 |
 | Golden BBQ | 0.00% | ~0 |
 | Golden Pest Control | 0.00% | ~0 |

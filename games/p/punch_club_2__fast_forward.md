@@ -44,9 +44,9 @@
 | Your own way | 42.00% | ~95 |
 | Get out of my apartment! | 37.00% | ~84 |
 | GYM professional | 36.00% | ~81 |
+| Champion – no way back | 36.00% | ~81 |
 | Underground dwellers | 36.00% | ~81 |
 | Responsible approach | 36.00% | ~81 |
-| Champion – no way back | 35.00% | ~79 |
 | Poisoned fighter | 35.00% | ~79 |
 | Deal with life | 34.00% | ~77 |
 | Mom got better | 33.00% | ~75 |

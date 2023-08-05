@@ -33,6 +33,7 @@ Number of Ratings: 371  (23.09.2022)
 | Only in Death | 0.30% | ~9 |
 | A Gift Spurned | 0.30% | ~9 |
 | Long Distance Call | 0.30% | ~9 |
+| Tactical Flexibility | 0.30% | ~9 |
 | Patron of Deimos | 0.20% | ~6 |
 | Fleetmaster | 0.20% | ~6 |
 | For the Machine God | 0.20% | ~6 |
@@ -42,7 +43,6 @@ Number of Ratings: 371  (23.09.2022)
 | Engine Kill | 0.20% | ~6 |
 | Junk Banishment | 0.20% | ~6 |
 | Death Comes For All | 0.20% | ~6 |
-| Tactical Flexibility | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | The Flesh is Weak | 0.10% | ~3 |
 | Blood and Iron | 0.10% | ~3 |

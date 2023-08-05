@@ -45,8 +45,8 @@ Rating: 4.48 (Ranked 590)
 | Locusts | 15.00% | ~265 |
 | Settler | 14.00% | ~247 |
 | Max Power | 13.00% | ~230 |
+| Bold and beautiful | 13.00% | ~230 |
 | Go West | 12.00% | ~212 |
-| Bold and beautiful | 12.00% | ~212 |
 | A new Hope | 10.00% | ~177 |
 | Tycoon | 10.00% | ~177 |
 | Unstoppable | 7.00% | ~124 |

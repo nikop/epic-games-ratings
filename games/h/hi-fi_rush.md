@@ -9,11 +9,11 @@ Rating: 4.87 (Ranked 24)
 | Feeling the beat! | 7.00% | ~262 |
 | You can pet the cat! | 7.00% | ~262 |
 | Who put gears in there? | 6.00% | ~225 |
-| Cream of the Crop | 5.00% | ~187 |
-| Thanks for the free chip, Peppermint! | 5.00% | ~187 |
-| You got this, Peppermint? | 5.00% | ~187 |
-| Perfect Parry | 5.00% | ~187 |
-| Alright, that felt AWESOME! | 5.00% | ~187 |
+| Cream of the Crop | 5.00% | ~188 |
+| Thanks for the free chip, Peppermint! | 5.00% | ~188 |
+| You got this, Peppermint? | 5.00% | ~188 |
+| Perfect Parry | 5.00% | ~188 |
+| Alright, that felt AWESOME! | 5.00% | ~188 |
 | This will cost you big time | 4.00% | ~150 |
 | I play my own way! | 4.00% | ~150 |
 | Z-shielding's got nothing on us! | 4.00% | ~150 |
@@ -35,9 +35,9 @@ Rating: 4.87 (Ranked 24)
 | Beat-hit mania | 2.00% | ~75 |
 | That's a lot of junk metal… | 2.00% | ~75 |
 | There's such a thing as TOO helpful | 2.00% | ~75 |
-| Chip-tuned | 1.00% | ~37 |
-| Wanna hear my playlist? | 1.00% | ~37 |
-| Check out my moves! | 1.00% | ~37 |
+| Chip-tuned | 1.00% | ~38 |
+| Wanna hear my playlist? | 1.00% | ~38 |
+| Check out my moves! | 1.00% | ~38 |
 | Call me Turbo Chai | 1.00% | ~23 |
 | I told you I'd be fine, Peppermint! | 0.90% | ~34 |
 | I think I found your calling, Macaron | 0.70% | ~26 |
@@ -52,8 +52,8 @@ Rating: 4.87 (Ranked 24)
 | OK, well THEY came after ME! | 0.30% | ~11 |
 | You ever parry a volcano? | 0.30% | ~11 |
 | Choose your own adventure | 0.30% | ~7 |
-| Problem solved... wait, what? | 0.20% | ~7 |
-| Now this is how you fight like a team! | 0.20% | ~7 |
+| Problem solved... wait, what? | 0.20% | ~8 |
+| Now this is how you fight like a team! | 0.20% | ~8 |
 | It'll do, CNMN | 0.20% | ~5 |
 | And the crowd goes wild! | 0.10% | ~4 |
 | Didn't skip a beat! | 0.10% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,748 (Ranked 147)  
+Progressed: 3,750 (Ranked 147)  
 Completed: 6 (0.16%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 6 (0.16%) (Ranked 181)
 | 2023-08-02 | 3,680 | 6 |
 | 2023-08-03 | 3,705 | 6 |
 | 2023-08-04 | 3,731 | 6 |
-| 2023-08-05 | 3,748 | 6 |
+| 2023-08-05 | 3,750 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

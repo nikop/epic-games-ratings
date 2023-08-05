@@ -7,10 +7,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,762 |
-| Beast Intentions | 3.00% | ~6,571 |
+| Beast Intentions | 3.00% | ~6,572 |
 | Maddening | 2.00% | ~4,381 |
-| The Silken Swamp | 1.00% | ~2,190 |
-| Supply Run | 1.00% | ~2,190 |
+| The Silken Swamp | 1.00% | ~2,191 |
+| Supply Run | 1.00% | ~2,191 |
 | Vecna Lives! | 1.00% | ~1,853 |
 | Rocky Reception | 1.00% | ~1,853 |
 | Rock and Roll | 1.00% | ~1,853 |
@@ -75,6 +75,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Forbidden City | 0.40% | ~876 |
 | Wisdom Check | 0.40% | ~876 |
 | Tower on the Lake | 0.40% | ~876 |
+| Trollskull Manor | 0.40% | ~876 |
 | The Crumbling Temple | 0.40% | ~876 |
 | Are Ya Chicken? | 0.40% | ~876 |
 | Useless Allies | 0.40% | ~876 |
@@ -128,7 +129,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Immortal Warrior | 0.30% | ~657 |
 | The Wyrmheart Mine | 0.30% | ~657 |
 | Seeds of Deceit | 0.30% | ~657 |
-| Trollskull Manor | 0.30% | ~657 |
 | Attack on the Manor | 0.30% | ~657 |
 | The Death Curse | 0.30% | ~657 |
 | Treasure Hunters | 0.30% | ~657 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,042 (Ranked 53)  
+Progressed: 219,057 (Ranked 53)  
 Completed: 2,153 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,14 +626,14 @@ Completed: 2,153 (0.98%) (Ranked 113)
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
-| 2023-08-05 | 219,042 | 2,153 |
+| 2023-08-05 | 219,057 | 2,153 |
 ## Awards
-Max (Diverse Characters): 5,116  (Ranked 67)  
-Sum: 30,907 (Ranked 38)  
+Max (Diverse Characters): 5,119  (Ranked 67)  
+Sum: 30,910 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,116 |
+| This game has Diverse Characters | 5,119 |
 | This game is Great for Beginners | 5,064 |
 | This game has Quickly Understood Controls | 4,702 |
 | This game is Relaxing | 4,595 |
@@ -834,4 +834,4 @@ Diff (max vs sum): 29
 | 2023-08-02 | 4.05 | - | 5,109 | 30,857 |
 | 2023-08-03 | 4.05 | - | 5,116 | 30,886 |
 | 2023-08-04 | 4.05 | - | 5,116 | 30,897 |
-| 2023-08-05 | 4.05 | - | 5,116 | 30,907 |
+| 2023-08-05 | 4.05 | - | 5,119 | 30,910 |

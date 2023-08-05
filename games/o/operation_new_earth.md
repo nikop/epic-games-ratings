@@ -22,9 +22,9 @@
 | Exterminator | 7.00% | ~56 |
 | Factory Expansion | 7.00% | ~56 |
 | Brothers in Arms | 6.00% | ~48 |
+| Know The Enemy | 4.00% | ~32 |
 | Player Betrayer | 4.00% | ~32 |
 | Moving On Up | 4.00% | ~32 |
-| Know The Enemy | 3.00% | ~24 |
 | Silver Achiever | 3.00% | ~24 |
 | Major | 3.00% | ~24 |
 | Gold Achiever | 2.00% | ~16 |

@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~41,758 |
-| Get Busy Living | 16.00% | ~25,697 |
-| Samuel Norton | 9.00% | ~14,455 |
-| Spare The Rod | 5.00% | ~8,030 |
-| Don't Put Me In The Dark | 3.00% | ~4,818 |
-| Wait and Hope | 3.00% | ~4,818 |
-| I May Have Found A Way Out Of Here | 3.00% | ~4,818 |
-| Iron Bars | 3.00% | ~4,818 |
-| Throw The Book At Them | 2.00% | ~3,212 |
+| Stone Walls | 26.00% | ~41,764 |
+| Get Busy Living | 16.00% | ~25,701 |
+| Samuel Norton | 9.00% | ~14,457 |
+| Spare The Rod | 5.00% | ~8,031 |
+| Don't Put Me In The Dark | 3.00% | ~4,819 |
+| Wait and Hope | 3.00% | ~4,819 |
+| I May Have Found A Way Out Of Here | 3.00% | ~4,819 |
+| Iron Bars | 3.00% | ~4,819 |
+| Throw The Book At Them | 2.00% | ~3,213 |
 | D.B. Cooper | 1.00% | ~1,606 |
 | Reformation | 0.60% | ~964 |
 | Crowd Control | 0.50% | ~803 |
-| Freedom | 0.40% | ~642 |
-| Confined | 0.40% | ~642 |
+| Freedom | 0.40% | ~643 |
+| Confined | 0.40% | ~643 |
 | It's Not What You Know... | 0.10% | ~161 |
 | ... It's What You Can Prove | 0.10% | ~161 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160,609 (Ranked 61)  
+Progressed: 160,629 (Ranked 61)  
 Completed: 5 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,10 +130,10 @@ Completed: 5 (0.00%) (Ranked 249)
 | 2023-08-02 | 159,254 | 5 |
 | 2023-08-03 | 159,701 | 5 |
 | 2023-08-04 | 160,171 | 5 |
-| 2023-08-05 | 160,609 | 5 |
+| 2023-08-05 | 160,629 | 5 |
 ## Awards
 Max (Extremely Fun): 473  (Ranked 199)  
-Sum: 3,667 (Ranked 149)  
+Sum: 3,669 (Ranked 149)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -145,7 +145,7 @@ Diff (max vs sum): 50
 | This game has Diverse Characters | 399 |
 | This game has Amazing Storytelling | 387 |
 | This game has Amazing Characters | 369 |
-| This game has a Creative Community | 283 |
+| This game has a Creative Community | 285 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -345,4 +345,4 @@ Diff (max vs sum): 50
 | 2023-08-01 | 4.61 | - | 469 | 3,646 |
 | 2023-08-02 | 4.61 | - | 471 | 3,656 |
 | 2023-08-04 | 4.61 | - | 472 | 3,663 |
-| 2023-08-05 | 4.61 | - | 473 | 3,667 |
+| 2023-08-05 | 4.61 | - | 473 | 3,669 |

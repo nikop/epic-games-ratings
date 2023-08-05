@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 399,
+  "EOS_Progressed": 400,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -287,6 +287,11 @@
       "Time": "2023-08-04T23:06:44.1275216+00:00",
       "NumProgressed": 399,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-05T23:07:26.7021429+00:00",
+      "NumProgressed": 400,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -338,7 +343,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -410,7 +415,7 @@
       "Name": "Gunner",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Award_HalfwayThere",
@@ -472,9 +477,9 @@
       "ID": "Award_LineOfDuty",
       "SetID": "9ojec6n",
       "Name": "Line of Duty",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 292
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -546,7 +551,7 @@
       "Name": "Scavenger",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "Award_ShellShock",
@@ -649,7 +654,7 @@
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 399,
+      "Progressed": 400,
       "Completed": 1
     }
   ],
@@ -657,8 +662,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-08-05T22:07:03.3207481+00:00",
+  "LastChanged_Achievements": "2023-08-05T23:07:26.7021423+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:06.9469657+00:00",
-  "LastUpdate_Ratings": "2023-08-05T21:59:30.0559437+00:00",
-  "LastUpdate_Achievements": "2023-08-05T22:07:03.3207767+00:00"
+  "LastUpdate_Ratings": "2023-08-05T22:59:33.8162211+00:00",
+  "LastUpdate_Achievements": "2023-08-05T23:07:26.7022054+00:00"
 }
