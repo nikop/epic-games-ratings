@@ -9,8 +9,8 @@
 | 7 | [Volley Pals](games/v/volley_pals.md) | 22.99% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 20.00% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 19.81% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.02% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.02% |
@@ -34,7 +34,7 @@
 | 32 | [Smelter](games/s/smelter.md) | 7.69% |
 | 33 | [Ravenlok](games/r/ravenlok.md) | 7.34% |
 | 34 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.14% |
-| 35 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.06% |
+| 35 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
 | 36 | [Time Loader](games/t/time_loader.md) | 6.96% |
 | 37 | [Scorn](games/s/scorn.md) | 6.93% |
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -63,8 +63,8 @@
 | 61 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
 | 62 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.23% |
 | 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.12% |
-| 64 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.06% |
-| 65 | [The Complex](games/t/the_complex.md) | 3.04% |
+| 64 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.04% |
+| 64 | [The Complex](games/t/the_complex.md) | 3.04% |
 | 66 | [Monster Harvest](games/m/monster_harvest.md) | 2.96% |
 | 67 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 68 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.88% |
@@ -95,7 +95,7 @@
 | 93 | [Iron Danger](games/i/iron_danger.md) | 1.65% |
 | 94 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.62% |
 | 95 | [Somerville](games/s/somerville.md) | 1.61% |
-| 96 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.60% |
+| 96 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.59% |
 | 97 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 98 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.49% |
 | 99 | [Ten Dates](games/t/ten_dates.md) | 1.48% |
@@ -105,8 +105,8 @@
 | 103 | [Late Shift](games/l/late_shift.md) | 1.32% |
 | 104 | [Chorus](games/c/chorus.md) | 1.17% |
 | 105 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.14% |
-| 106 | [A Musical Story](games/a/a_musical_story.md) | 1.12% |
-| 107 | [Trifox](games/t/trifox.md) | 1.11% |
+| 106 | [A Musical Story](games/a/a_musical_story.md) | 1.11% |
+| 106 | [Trifox](games/t/trifox.md) | 1.11% |
 | 108 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.05% |
 | 109 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.03% |
 | 110 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
