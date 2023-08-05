@@ -8,13 +8,13 @@
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 22.99% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
-| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 20.59% |
+| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 20.39% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
-| 13 | [Island Cities](games/i/island_cities.md) | 18.06% |
+| 13 | [Island Cities](games/i/island_cities.md) | 18.02% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.02% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.00% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 12.87% |
 | 16 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
 | 18 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 11.76% |
@@ -132,7 +132,7 @@
 | 130 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.57% |
 | 131 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.56% |
 | 131 | [Grindstone](games/g/grindstone.md) | 0.56% |
-| 133 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.55% |
+| 133 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.54% |
 | 134 | [Godlike Burger](games/g/godlike_burger.md) | 0.53% |
 | 135 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 136 | [The Surge 2](games/t/the_surge_2.md) | 0.51% |

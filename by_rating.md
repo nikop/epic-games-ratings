@@ -787,15 +787,15 @@
 | 784 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 509 |
 | 784 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 509 |
 | 784 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 509 |
-| 788 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 509 |
-| 788 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | 0 | 509 |
-| 788 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 509 |
-| 788 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,553,123 | 1 |
-| 788 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 709 | 163 |
-| 788 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 417 |
-| 788 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 126 | 310 |
-| 788 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.29 | 588 | 180 |
-| 788 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.29 | 0 | 509 |
+| 784 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.30 | 588 | 180 |
+| 789 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 509 |
+| 789 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | 0 | 509 |
+| 789 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 509 |
+| 789 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,553,123 | 1 |
+| 789 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 709 | 163 |
+| 789 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 417 |
+| 789 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 126 | 310 |
+| 789 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.29 | 0 | 509 |
 | 797 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 509 |
 | 797 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 509 |
 | 797 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.28 | 0 | 509 |
