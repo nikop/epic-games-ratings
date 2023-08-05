@@ -58,11 +58,11 @@
 | Absolute Champion! | 30.00% | ~67 |
 | The last bell ring | 30.00% | ~67 |
 | Problems of cyborgs | 29.00% | ~64 |
+| Another world | 29.00% | ~64 |
 | The lonesome road | 29.00% | ~64 |
 | Keep nature safe | 29.00% | ~64 |
 | Key memories | 29.00% | ~64 |
 | The heart of the Resistance | 29.00% | ~64 |
-| Another world | 28.00% | ~62 |
 | Family comes first | 28.00% | ~62 |
 | Careerist | 28.00% | ~62 |
 | Anyone can resist | 27.00% | ~60 |

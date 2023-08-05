@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -286,9 +286,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5083,
+  "EOS_Progressed": 5084,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5631,6 +5631,11 @@
       "Time": "2023-08-05T01:55:36.9182398+00:00",
       "NumProgressed": 5083,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-05T07:07:06.2706619+00:00",
+      "NumProgressed": 5084,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5642,7 +5647,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "10",
@@ -5650,7 +5655,7 @@
       "Name": "Snap Out of It!",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "11",
@@ -5690,7 +5695,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "16",
@@ -5730,7 +5735,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "20",
@@ -5794,7 +5799,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "28",
@@ -5826,7 +5831,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "31",
@@ -5858,7 +5863,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "35",
@@ -5874,7 +5879,7 @@
       "Name": "Fiery Friend",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "37",
@@ -5882,7 +5887,7 @@
       "Name": "Against the Odds",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "38",
@@ -6041,13 +6046,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5083,
+      "Progressed": 5084,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5083,
+      "Progressed": 5084,
       "Completed": 5
     }
   ],
@@ -6055,8 +6060,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-08-04T14:00:41.3605153+00:00",
-  "LastChanged_Achievements": "2023-08-05T06:08:03.0322779+00:00",
+  "LastChanged_Achievements": "2023-08-05T07:07:06.2706612+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:24.1363855+00:00",
-  "LastUpdate_Ratings": "2023-08-05T06:03:24.9334518+00:00",
-  "LastUpdate_Achievements": "2023-08-05T06:08:03.0324175+00:00"
+  "LastUpdate_Ratings": "2023-08-05T07:02:24.2478445+00:00",
+  "LastUpdate_Achievements": "2023-08-05T07:07:06.2707609+00:00"
 }

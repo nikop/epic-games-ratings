@@ -6,25 +6,25 @@ Rating: 4.65 (Ranked 297)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 66.00% | ~387 |
-| Read Between The Lines | 64.00% | ~375 |
+| Read Between The Lines | 64.00% | ~376 |
 | High Profile | 59.00% | ~346 |
 | Whispers In The Dark | 58.00% | ~340 |
-| Fond Memories | 55.00% | ~322 |
-| History Check | 53.00% | ~311 |
+| Fond Memories | 55.00% | ~323 |
 | A Method To His Madness | 53.00% | ~311 |
-| The New World | 49.00% | ~287 |
-| Open Sesame | 49.00% | ~287 |
-| Sticky Fingers | 48.00% | ~281 |
-| Knives Out | 48.00% | ~281 |
-| Lock, Stock, And Barrel | 47.00% | ~275 |
-| Gaze Into The Abyss | 47.00% | ~275 |
-| Back In The Saddle | 47.00% | ~275 |
-| Land, Ho! | 47.00% | ~275 |
+| History Check | 52.00% | ~305 |
+| The New World | 49.00% | ~288 |
+| Open Sesame | 49.00% | ~288 |
+| Sticky Fingers | 48.00% | ~282 |
+| Knives Out | 48.00% | ~282 |
+| Lock, Stock, And Barrel | 47.00% | ~276 |
+| Gaze Into The Abyss | 47.00% | ~276 |
+| Back In The Saddle | 47.00% | ~276 |
+| Land, Ho! | 47.00% | ~276 |
 | No Man Is An Island | 46.00% | ~270 |
 | At Wits' End | 45.00% | ~264 |
-| Fhtagn! | 44.00% | ~258 |
 | Up In Flames | 43.00% | ~252 |
-| Bookworm | 42.00% | ~246 |
+| Fhtagn! | 43.00% | ~252 |
+| Bookworm | 42.00% | ~247 |
 | Going Once... | 39.00% | ~229 |
 | Let Me Be Frank | 38.00% | ~223 |
 | Brain Food | 37.00% | ~217 |
@@ -34,8 +34,8 @@ Rating: 4.65 (Ranked 297)
 | Big Breakthrough | 14.00% | ~82 |
 | Reawakened | 5.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 586 (Ranked 218)  
-Completed: 25 (4.27%) (Ranked 52)  
+Progressed: 587 (Ranked 218)  
+Completed: 25 (4.26%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -132,6 +132,7 @@ Completed: 25 (4.27%) (Ranked 52)
 | 2023-08-02 | 582 | 25 |
 | 2023-08-03 | 585 | 25 |
 | 2023-08-04 | 586 | 25 |
+| 2023-08-05 | 587 | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

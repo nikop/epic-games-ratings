@@ -1,11 +1,11 @@
 # Dead Cells
 [Store](https://store.epicgames.com/en-US/p/dead-cells)  
 [View Rawdata](../../db/d/dead_cells.json)  
-Rating: 4.88 (Ranked 18)  
+Rating: 4.87 (Ranked 23)  
 Number of Ratings: 1,319  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 278  (Ranked 241)  
-Sum: 2,333 (Ranked 184)  
+Sum: 2,334 (Ranked 184)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 57
 | This game is Relaxing | 245 |
 | This game is Highly Recommended | 240 |
 | This game is Extremely Fun | 238 |
-| This game has Challenging Combat | 236 |
+| This game has Challenging Combat | 237 |
 | This game has Unique Visuals | 229 |
 | This game has Amazing Characters | 222 |
 | This game has Amazing Storytelling | 217 |
@@ -196,3 +196,4 @@ Diff (max vs sum): 57
 | 2023-08-01 | 4.88 | - | 276 | 2,326 |
 | 2023-08-03 | 4.88 | - | 277 | 2,329 |
 | 2023-08-04 | 4.88 | - | 278 | 2,333 |
+| 2023-08-05 | 4.87 | - | 278 | 2,334 |

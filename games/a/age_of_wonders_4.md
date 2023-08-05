@@ -23,14 +23,14 @@ Rating: 4.62 (Ranked 349)
 | Here be Dragons | 4.00% | ~203 |
 | Blood of the Dragon | 4.00% | ~203 |
 | Mighty Hoard | 4.00% | ~203 |
-| Valley of Wonders | 3.00% | ~152 |
-| Return of the Wizard King | 3.00% | ~152 |
-| Enchanted Archipelago | 3.00% | ~152 |
-| Digging for Treasure | 3.00% | ~152 |
-| Preparation Is Everything | 3.00% | ~152 |
-| In a Liege of Your Own | 3.00% | ~152 |
-| Fiery Friend | 3.00% | ~152 |
-| Against the Odds | 3.00% | ~152 |
+| Valley of Wonders | 3.00% | ~153 |
+| Return of the Wizard King | 3.00% | ~153 |
+| Enchanted Archipelago | 3.00% | ~153 |
+| Digging for Treasure | 3.00% | ~153 |
+| Preparation Is Everything | 3.00% | ~153 |
+| In a Liege of Your Own | 3.00% | ~153 |
+| Fiery Friend | 3.00% | ~153 |
+| Against the Odds | 3.00% | ~153 |
 | The Magic That Empowers Me! | 2.00% | ~102 |
 | God Emperor | 2.00% | ~102 |
 | Lord of Chaos | 2.00% | ~102 |
@@ -47,7 +47,7 @@ Rating: 4.62 (Ranked 349)
 | Grexolis | 1.00% | ~51 |
 | One for All, All for One | 1.00% | ~51 |
 | Manufactured War | 0.70% | ~36 |
-| Snap Out of It! | 0.60% | ~30 |
+| Snap Out of It! | 0.60% | ~31 |
 | I Want to Break Free | 0.30% | ~15 |
 | Betrayal Most Foul | 0.30% | ~15 |
 | Returning Circle | 0.20% | ~10 |
@@ -56,7 +56,7 @@ Rating: 4.62 (Ranked 349)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,083 (Ranked 138)  
+Progressed: 5,084 (Ranked 138)  
 Completed: 5 (0.10%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 5 (0.10%) (Ranked 197)
 | 2023-08-02 | 5,075 | 5 |
 | 2023-08-03 | 5,080 | 5 |
 | 2023-08-04 | 5,082 | 5 |
-| 2023-08-05 | 5,083 | 5 |
+| 2023-08-05 | 5,084 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

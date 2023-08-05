@@ -566,17 +566,17 @@
       "ID": "ACHIEVEMENT_ID_13",
       "SetID": "c504de6",
       "Name": "Supersoldier",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_ID_14",
       "SetID": "c504de6",
       "Name": "Perfect Soldier",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_ID_15",
@@ -766,9 +766,9 @@
       "ID": "ACHIEVEMENT_ID_36",
       "SetID": "c504de6",
       "Name": "Fuel Tycoon",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_ID_37",
@@ -885,8 +885,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-08-05T06:07:37.7302875+00:00",
+  "LastChanged_Achievements": "2023-08-05T07:06:41.1343703+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:41.7077293+00:00",
-  "LastUpdate_Ratings": "2023-08-05T06:02:38.509185+00:00",
-  "LastUpdate_Achievements": "2023-08-05T06:07:37.7303715+00:00"
+  "LastUpdate_Ratings": "2023-08-05T07:01:35.6663686+00:00",
+  "LastUpdate_Achievements": "2023-08-05T07:06:41.1344142+00:00"
 }

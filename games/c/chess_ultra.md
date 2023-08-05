@@ -5,26 +5,26 @@ Rating: 4.28 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 69.00% | ~136,590 |
-| Doubled Pawn | 56.00% | ~110,856 |
-| Check | 54.00% | ~106,897 |
-| Absolute pin | 46.00% | ~91,060 |
-| Promotion | 30.00% | ~59,387 |
-| Checkmate | 29.00% | ~57,408 |
-| O-O | 23.00% | ~45,530 |
-| Queen Sacrifice | 20.00% | ~39,591 |
-| Spanish Bishop | 20.00% | ~39,591 |
-| Stalemate | 18.00% | ~35,632 |
-| O-O-O | 13.00% | ~25,734 |
-| Octopus | 13.00% | ~25,734 |
-| Stranger Danger | 12.00% | ~23,755 |
+| Chop Wood | 69.00% | ~136,595 |
+| Doubled Pawn | 56.00% | ~110,860 |
+| Check | 54.00% | ~106,901 |
+| Absolute pin | 46.00% | ~91,063 |
+| Promotion | 30.00% | ~59,389 |
+| Checkmate | 29.00% | ~57,410 |
+| O-O | 23.00% | ~45,532 |
+| Queen Sacrifice | 20.00% | ~39,593 |
+| Spanish Bishop | 20.00% | ~39,593 |
+| Stalemate | 18.00% | ~35,634 |
+| O-O-O | 13.00% | ~25,735 |
+| Octopus | 13.00% | ~25,735 |
+| Stranger Danger | 12.00% | ~23,756 |
 | En Passant | 8.00% | ~15,837 |
 | Double Check | 7.00% | ~13,857 |
-| Piece Collector | 6.00% | ~11,877 |
+| Piece Collector | 6.00% | ~11,878 |
 | ELO | 5.00% | ~9,898 |
 | Family Fork | 5.00% | ~9,898 |
 | Friendly Fire | 5.00% | ~9,898 |
-| Underpromote | 4.00% | ~7,918 |
+| Underpromote | 4.00% | ~7,919 |
 | ELO ELO | 3.00% | ~5,939 |
 | Blind Pigs | 2.00% | ~3,959 |
 | ELO ELO ELO | 2.00% | ~3,959 |
@@ -44,7 +44,7 @@ Rating: 4.28 (Ranked 797)
 | Tournament Master | 0.10% | ~198 |
 | Tournament Pro | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197,957 (Ranked 57)  
+Progressed: 197,964 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 2 (0.00%) (Ranked 248)
 | 2023-08-02 | 197,379 | 2 |
 | 2023-08-03 | 197,612 | 2 |
 | 2023-08-04 | 197,889 | 2 |
-| 2023-08-05 | 197,957 | 2 |
+| 2023-08-05 | 197,964 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

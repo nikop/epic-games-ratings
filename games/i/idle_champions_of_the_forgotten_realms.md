@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,752 |
+| A Brief Tour of the Realms | 4.00% | ~8,753 |
 | Beast Intentions | 3.00% | ~6,564 |
 | Maddening | 2.00% | ~4,376 |
 | The Silken Swamp | 1.00% | ~2,188 |
@@ -24,12 +24,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.70% | ~1,532 |
 | The Cursed Farmer | 0.70% | ~1,532 |
 | Pros and CONs | 0.60% | ~1,313 |
-| The Witchlight Carnival | 0.60% | ~1,110 |
+| The Witchlight Carnival | 0.60% | ~1,111 |
 | Hatchlings Underfoot | 0.60% | ~1,313 |
 | Don't Look Up! | 0.60% | ~1,313 |
-| The Evacuation of Waterdeep | 0.60% | ~1,110 |
-| Heatwave | 0.60% | ~1,110 |
-| The Dread Domain of Tovag | 0.60% | ~1,110 |
+| The Evacuation of Waterdeep | 0.60% | ~1,111 |
+| Heatwave | 0.60% | ~1,111 |
+| The Dread Domain of Tovag | 0.60% | ~1,111 |
 | A Persistent Buzzing | 0.60% | ~1,313 |
 | Beast Mode | 0.60% | ~1,313 |
 | Terror in the Dark | 0.60% | ~1,313 |
@@ -38,7 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.60% | ~1,313 |
 | The Dinner Party | 0.60% | ~1,313 |
 | The Mad Wizard | 0.60% | ~1,313 |
-| The Champion's Guide to Wildspace | 0.60% | ~1,110 |
+| The Champion's Guide to Wildspace | 0.60% | ~1,111 |
 | Thieves of the Coven | 0.50% | ~925 |
 | Heavy Burden | 0.50% | ~1,094 |
 | Friends of the Forest | 0.50% | ~1,094 |
@@ -107,6 +107,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Force Grey Unleashed | 0.30% | ~656 |
 | Vajra's Guards | 0.30% | ~656 |
 | Sleuth It Out | 0.30% | ~656 |
+| The Newcomers of Notoriety | 0.30% | ~555 |
 | A Grand Puzzle | 0.30% | ~656 |
 | Azaka's Procession - Part 1 | 0.30% | ~656 |
 | Tomb of the Nine Gods | 0.30% | ~656 |
@@ -151,6 +152,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Moose Tracks | 0.30% | ~555 |
 | Civilization | 0.30% | ~555 |
 | Durable Deep | 0.30% | ~656 |
+| Expert Opinion | 0.30% | ~656 |
 | The Templar's Camp | 0.30% | ~656 |
 | Rescue in the Jungle | 0.30% | ~656 |
 | Willing to Sacrifice | 0.30% | ~555 |
@@ -168,6 +170,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Lesson in Classes | 0.20% | ~370 |
 | Bully for You! | 0.20% | ~370 |
 | The Dark Heart | 0.20% | ~370 |
+| The Alien Underdark | 0.20% | ~370 |
 | Will of the Feywild | 0.20% | ~370 |
 | The Roots of Loomlurch | 0.20% | ~370 |
 | Best Laid Plans | 0.20% | ~370 |
@@ -188,8 +191,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.20% | ~438 |
 | Home Field Advantage | 0.20% | ~438 |
 | Double Vision | 0.20% | ~438 |
-| The Newcomers of Notoriety | 0.20% | ~370 |
 | Haunted Fortunes | 0.20% | ~438 |
+| Poor Fortune | 0.20% | ~438 |
 | Thine Bounty is Mine! | 0.20% | ~370 |
 | This Quest Stinks! | 0.20% | ~370 |
 | Hold for the Red Wizards | 0.20% | ~438 |
@@ -227,7 +230,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rime Bandits | 0.20% | ~370 |
 | The Sibriex | 0.20% | ~370 |
 | Wrecked Flying Fortress | 0.20% | ~370 |
-| Expert Opinion | 0.20% | ~438 |
 | Dwarven Rumors | 0.20% | ~370 |
 | Sunblight | 0.20% | ~370 |
 | The Bleeding Citadel | 0.20% | ~370 |
@@ -263,7 +265,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Zarak's Revenge | 0.10% | ~185 |
 | Undergeared | 0.10% | ~185 |
 | Underdark Chill | 0.10% | ~185 |
-| The Alien Underdark | 0.10% | ~185 |
 | Thoughts on the Menu | 0.10% | ~185 |
 | Brains on Ice | 0.10% | ~185 |
 | The Oozing Hunger | 0.10% | ~185 |
@@ -309,7 +310,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Snakes on our Plane | 0.10% | ~185 |
 | The Soulmonger Calls | 0.10% | ~219 |
 | Acererak's Puzzle | 0.10% | ~185 |
-| Poor Fortune | 0.10% | ~219 |
 | Relentless Misfortune | 0.10% | ~219 |
 | Form Ranks | 0.10% | ~219 |
 | Drop of Time | 0.10% | ~185 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,804 (Ranked 53)  
+Progressed: 218,813 (Ranked 53)  
 Completed: 2,152 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 2,152 (0.98%) (Ranked 113)
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
-| 2023-08-05 | 218,804 | 2,152 |
+| 2023-08-05 | 218,813 | 2,152 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,900 (Ranked 38)  

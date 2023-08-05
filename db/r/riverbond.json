@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524161,
+  "EOS_Progressed": 524162,
   "EOS_Completed": 455,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -11660,6 +11660,11 @@
       "Time": "2023-08-05T06:07:39.4692378+00:00",
       "NumProgressed": 524161,
       "NumCompleted": 455
+    },
+    {
+      "Time": "2023-08-05T07:06:42.8139623+00:00",
+      "NumProgressed": 524162,
+      "NumCompleted": 455
     }
   ],
   "TotalAchievements": 57,
@@ -11679,7 +11684,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 235872
+      "UsersEstimate": 235873
     },
     {
       "ID": "11",
@@ -11695,7 +11700,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 115315
+      "UsersEstimate": 115316
     },
     {
       "ID": "13",
@@ -11727,7 +11732,7 @@
       "Name": "Road Less Travelled",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47174
+      "UsersEstimate": 47175
     },
     {
       "ID": "17",
@@ -11783,7 +11788,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 47174
+      "UsersEstimate": 47175
     },
     {
       "ID": "23",
@@ -11895,7 +11900,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 262080
+      "UsersEstimate": 262081
     },
     {
       "ID": "36",
@@ -11967,7 +11972,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 89107
+      "UsersEstimate": 89108
     },
     {
       "ID": "44",
@@ -12047,7 +12052,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 241114
+      "UsersEstimate": 241115
     },
     {
       "ID": "53",
@@ -12126,15 +12131,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 524161,
+      "Progressed": 524162,
       "Completed": 455
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-05T06:07:39.4692368+00:00",
+  "LastChanged_Achievements": "2023-08-05T07:06:42.8139617+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.5047426+00:00",
-  "LastUpdate_Ratings": "2023-08-05T06:00:51.818539+00:00",
-  "LastUpdate_Achievements": "2023-08-05T06:07:39.469356+00:00"
+  "LastUpdate_Ratings": "2023-08-05T06:59:53.1533264+00:00",
+  "LastUpdate_Achievements": "2023-08-05T07:06:42.8141099+00:00"
 }

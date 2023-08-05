@@ -6,45 +6,45 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~121,861 |
-| Where's that freaking Dwarf? | 47.00% | ~97,076 |
-| GG EZ | 28.00% | ~57,832 |
-| Speedrun | 26.00% | ~53,701 |
-| Déjà vu | 21.00% | ~43,374 |
-| Sock! SOCK! | 17.00% | ~35,112 |
-| DM intervention | 13.00% | ~26,851 |
-| Fireproof Wizardess | 10.00% | ~20,654 |
-| Livin' in a dwarven paradise | 8.00% | ~16,524 |
-| A beer, two curses, three companions | 8.00% | ~16,524 |
-| Way of the Wimp | 7.00% | ~14,458 |
-| The plot thickens... At the tavern | 5.00% | ~10,327 |
-| The Woman in the High Castle | 4.00% | ~8,262 |
-| I am the night | 4.00% | ~8,262 |
-| Team Building Exercise | 4.00% | ~8,262 |
-| Shiny and Crôm | 3.00% | ~6,196 |
-| The demons' feast | 3.00% | ~6,196 |
-| The Great Library | 3.00% | ~6,196 |
-| Torture and Sensibility | 3.00% | ~6,196 |
-| Res Judicata | 3.00% | ~6,196 |
-| Dwarf Fortress | 3.00% | ~6,196 |
-| The Ranger of Chaos | 3.00% | ~6,196 |
-| Thieves' Guild Accreditation | 3.00% | ~6,196 |
-| Oh, when I'll be level 10... | 3.00% | ~6,196 |
+| Alt+F4 | 59.00% | ~121,874 |
+| Where's that freaking Dwarf? | 47.00% | ~97,086 |
+| GG EZ | 28.00% | ~57,838 |
+| Speedrun | 26.00% | ~53,707 |
+| Déjà vu | 21.00% | ~43,379 |
+| Sock! SOCK! | 17.00% | ~35,116 |
+| DM intervention | 13.00% | ~26,854 |
+| Fireproof Wizardess | 10.00% | ~20,657 |
+| Livin' in a dwarven paradise | 8.00% | ~16,525 |
+| A beer, two curses, three companions | 8.00% | ~16,525 |
+| Way of the Wimp | 7.00% | ~14,460 |
+| The plot thickens... At the tavern | 5.00% | ~10,328 |
+| The Woman in the High Castle | 4.00% | ~8,263 |
+| I am the night | 4.00% | ~8,263 |
+| Team Building Exercise | 4.00% | ~8,263 |
+| Shiny and Crôm | 3.00% | ~6,197 |
+| The demons' feast | 3.00% | ~6,197 |
+| The Great Library | 3.00% | ~6,197 |
+| Torture and Sensibility | 3.00% | ~6,197 |
+| Res Judicata | 3.00% | ~6,197 |
+| Dwarf Fortress | 3.00% | ~6,197 |
+| The Ranger of Chaos | 3.00% | ~6,197 |
+| Thieves' Guild Accreditation | 3.00% | ~6,197 |
+| Oh, when I'll be level 10... | 3.00% | ~6,197 |
 | Urik's Depths | 2.00% | ~4,131 |
 | Look but don't touch | 2.00% | ~4,131 |
 | The beards of change | 2.00% | ~4,131 |
 | Gargantua | 2.00% | ~4,131 |
 | In Navalu's footsteps | 2.00% | ~4,131 |
 | Material Girl | 2.00% | ~4,131 |
-| The Dungeon Master | 1.00% | ~2,065 |
-| The Statuette of Gladeulfeurah | 1.00% | ~2,065 |
-| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,065 |
-| A tale of adventurers not quite like the others... | 1.00% | ~2,065 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,065 |
-| Dead for good | 1.00% | ~2,065 |
-| Law and Order | 1.00% | ~2,065 |
-| It's been a hard day's night | 1.00% | ~2,065 |
-| Lust and Debauchery | 1.00% | ~2,065 |
+| The Dungeon Master | 1.00% | ~2,066 |
+| The Statuette of Gladeulfeurah | 1.00% | ~2,066 |
+| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,066 |
+| A tale of adventurers not quite like the others... | 1.00% | ~2,066 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,066 |
+| Dead for good | 1.00% | ~2,066 |
+| Law and Order | 1.00% | ~2,066 |
+| It's been a hard day's night | 1.00% | ~2,066 |
+| Lust and Debauchery | 1.00% | ~2,066 |
 | Lëgal Legend | 0.90% | ~1,859 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,446 |
 | Holistic Adventuring Party | 0.50% | ~1,033 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,544 (Ranked 55)  
+Progressed: 206,566 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 0 (0.00%) (Ranked 248)
 | 2023-08-02 | 205,167 | 0 |
 | 2023-08-03 | 205,780 | 0 |
 | 2023-08-04 | 206,418 | 0 |
-| 2023-08-05 | 206,544 | 0 |
+| 2023-08-05 | 206,566 | 0 |
 ## Awards
 Max (Character Customization): 151  (Ranked 294)  
 Sum: 151 (Ranked 393)  

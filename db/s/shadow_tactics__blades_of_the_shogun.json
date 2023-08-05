@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 133,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 42,
+  "Ranking_EOS_NewPlayers": 43,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -1381,9 +1381,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 191257,
+  "EOS_Progressed": 191259,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 1822,
+  "EOS_NewPlayers": 1811,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13106,6 +13106,11 @@
       "Time": "2023-08-05T06:04:55.3253985+00:00",
       "NumProgressed": 191257,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-08-05T07:03:58.4567398+00:00",
+      "NumProgressed": 191259,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 44,
@@ -13141,7 +13146,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 11475
+      "UsersEstimate": 11476
     },
     {
       "ID": "CompleteMastery",
@@ -13205,7 +13210,7 @@
       "Name": "Happy Planning",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 11475
+      "UsersEstimate": 11476
     },
     {
       "ID": "HighFiveTheMoon",
@@ -13221,7 +13226,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 11475
+      "UsersEstimate": 11476
     },
     {
       "ID": "ItsRainingMen",
@@ -13461,22 +13466,22 @@
       "Name": "Yabu",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 11475
+      "UsersEstimate": 11476
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 191257,
+      "Progressed": 191259,
       "Completed": 66
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-04T14:00:18.5307788+00:00",
-  "LastChanged_Achievements": "2023-08-05T06:04:55.3253979+00:00",
+  "LastChanged_Achievements": "2023-08-05T07:03:58.4567394+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:04.7393029+00:00",
-  "LastUpdate_Ratings": "2023-08-05T06:03:03.3675613+00:00",
-  "LastUpdate_Achievements": "2023-08-05T06:04:55.3255907+00:00"
+  "LastUpdate_Ratings": "2023-08-05T07:02:01.5076952+00:00",
+  "LastUpdate_Achievements": "2023-08-05T07:03:58.4569058+00:00"
 }

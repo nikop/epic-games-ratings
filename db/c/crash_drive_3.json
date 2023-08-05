@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 357,
+  "EOS_Progressed": 358,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -346,6 +346,11 @@
       "Time": "2023-08-02T20:05:10.5111821+00:00",
       "NumProgressed": 357,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-05T07:07:03.498361+00:00",
+      "NumProgressed": 358,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -373,7 +378,7 @@
       "Name": "Fore!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "CATAPULT_THROW",
@@ -389,7 +394,7 @@
       "Name": "The Collector",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -565,7 +570,7 @@
       "Name": "Insurance fraud",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -581,7 +586,7 @@
       "Name": "Toot Toot!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "JOIN_A_FRIEND",
@@ -619,9 +624,9 @@
       "ID": "LOADED_LVL_FOREST",
       "SetID": "20koof9",
       "Name": "A Forest Walk",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 107
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -629,7 +634,7 @@
       "Name": "Snow Fun!",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -733,7 +738,7 @@
       "Name": "Event Amateur",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "WIN_50_EVENTS",
@@ -771,9 +776,9 @@
       "ID": "WIN_ROBBER",
       "SetID": "20koof9",
       "Name": "In the Bag!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 82
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -781,7 +786,7 @@
       "Name": "You\u0027re it",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -789,14 +794,14 @@
       "Name": "Blasting away!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 357,
+      "Progressed": 358,
       "Completed": 2
     }
   ],
@@ -804,8 +809,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-08-05T06:08:00.1481481+00:00",
+  "LastChanged_Achievements": "2023-08-05T07:07:03.4983605+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:41.5790875+00:00",
-  "LastUpdate_Ratings": "2023-08-05T06:02:38.4888916+00:00",
-  "LastUpdate_Achievements": "2023-08-05T06:08:00.1482352+00:00"
+  "LastUpdate_Ratings": "2023-08-05T07:01:35.5813294+00:00",
+  "LastUpdate_Achievements": "2023-08-05T07:07:03.4984234+00:00"
 }

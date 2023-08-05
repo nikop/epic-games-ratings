@@ -1,7 +1,7 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.87 (Ranked 24)  
+Rating: 4.87 (Ranked 23)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,12 +12,12 @@ Rating: 4.87 (Ranked 24)
 | Cream of the Crop | 5.00% | ~187 |
 | Thanks for the free chip, Peppermint! | 5.00% | ~187 |
 | You got this, Peppermint? | 5.00% | ~187 |
-| This will cost you big time | 4.00% | ~149 |
-| I play my own way! | 4.00% | ~149 |
-| Perfect Parry | 4.00% | ~149 |
-| Uh, they were broken when I got here | 4.00% | ~149 |
-| Alright, that felt AWESOME! | 4.00% | ~149 |
-| Does that say weakpoint? | 4.00% | ~149 |
+| This will cost you big time | 4.00% | ~150 |
+| I play my own way! | 4.00% | ~150 |
+| Perfect Parry | 4.00% | ~150 |
+| Uh, they were broken when I got here | 4.00% | ~150 |
+| Alright, that felt AWESOME! | 4.00% | ~150 |
+| Does that say weakpoint? | 4.00% | ~150 |
 | NOW we got a kickass hideout! | 4.00% | ~90 |
 | The Negotiator | 3.00% | ~112 |
 | Headliner | 3.00% | ~112 |
@@ -38,22 +38,22 @@ Rating: 4.87 (Ranked 24)
 | There's such a thing as TOO helpful | 1.00% | ~37 |
 | Wanna hear my playlist? | 1.00% | ~37 |
 | Check out my moves! | 1.00% | ~37 |
+| Call me Turbo Chai | 1.00% | ~23 |
 | I told you I'd be fine, Peppermint! | 0.90% | ~34 |
-| Call me Turbo Chai | 0.90% | ~20 |
 | I think I found your calling, Macaron | 0.70% | ~26 |
 | I think I deserve some praise, here! | 0.60% | ~22 |
 | I hit things with a guitar really well. | 0.60% | ~22 |
 | This is a breeze! | 0.50% | ~19 |
 | We're Jammin' | 0.50% | ~19 |
+| First we parry, then we counter | 0.50% | ~19 |
 | New bad guys? No problem! | 0.50% | ~11 |
 | I'm not done with you yet | 0.40% | ~15 |
-| First we parry, then we counter | 0.40% | ~15 |
 | Easy Listening | 0.30% | ~11 |
 | OK, well THEY came after ME! | 0.30% | ~11 |
+| You ever parry a volcano? | 0.30% | ~11 |
 | Choose your own adventure | 0.30% | ~7 |
 | Problem solved... wait, what? | 0.20% | ~7 |
 | Now this is how you fight like a team! | 0.20% | ~7 |
-| You ever parry a volcano? | 0.20% | ~7 |
 | It'll do, CNMN | 0.20% | ~5 |
 | And the crowd goes wild! | 0.10% | ~4 |
 | I can't see this ever being a problem again | 0.10% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | Didn't skip a beat! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,737 (Ranked 147)  
+Progressed: 3,738 (Ranked 147)  
 Completed: 6 (0.16%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 6 (0.16%) (Ranked 180)
 | 2023-08-02 | 3,680 | 6 |
 | 2023-08-03 | 3,705 | 6 |
 | 2023-08-04 | 3,731 | 6 |
-| 2023-08-05 | 3,737 | 6 |
+| 2023-08-05 | 3,738 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

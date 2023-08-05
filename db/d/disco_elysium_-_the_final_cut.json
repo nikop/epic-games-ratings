@@ -2,7 +2,7 @@
   "ID": "ff52981b1d9947978153c7a7f8bc6d90",
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
-  "Ranking_Rating": 24,
+  "Ranking_Rating": 23,
   "Ranking_Popularity": 162,
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 65,
@@ -1241,9 +1241,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 125577,
+  "EOS_Progressed": 125579,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 998,
+  "EOS_NewPlayers": 995,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11726,6 +11726,11 @@
       "Time": "2023-08-05T06:06:31.4684761+00:00",
       "NumProgressed": 125577,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-05T07:05:34.7773733+00:00",
+      "NumProgressed": 125579,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -11793,7 +11798,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30138
+      "UsersEstimate": 30139
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -11841,7 +11846,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20092
+      "UsersEstimate": 20093
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -11849,7 +11854,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25115
+      "UsersEstimate": 25116
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -11881,7 +11886,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13813
+      "UsersEstimate": 13814
     },
     {
       "ID": "ACH_CUNO",
@@ -12056,15 +12061,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 125577,
+      "Progressed": 125579,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-04T01:55:33.6301654+00:00",
-  "LastChanged_Achievements": "2023-08-05T06:06:31.4684751+00:00",
+  "LastChanged_Achievements": "2023-08-05T07:05:34.7773728+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:08.5525123+00:00",
-  "LastUpdate_Ratings": "2023-08-05T06:03:07.6251498+00:00",
-  "LastUpdate_Achievements": "2023-08-05T06:06:31.4686496+00:00"
+  "LastUpdate_Ratings": "2023-08-05T07:02:05.7932818+00:00",
+  "LastUpdate_Achievements": "2023-08-05T07:05:34.7774566+00:00"
 }

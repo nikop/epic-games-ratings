@@ -5560,9 +5560,9 @@
       "Count": 3341
     }
   ],
-  "EOS_Progressed": 218804,
+  "EOS_Progressed": 218813,
   "EOS_Completed": 2152,
-  "EOS_NewPlayers": 2210,
+  "EOS_NewPlayers": 2208,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17070,6 +17070,11 @@
       "Time": "2023-08-05T06:04:49.9829891+00:00",
       "NumProgressed": 218804,
       "NumCompleted": 2152
+    },
+    {
+      "Time": "2023-08-05T07:03:53.43864+00:00",
+      "NumProgressed": 218813,
+      "NumCompleted": 2152
     }
   ],
   "TotalAchievements": 512,
@@ -17081,7 +17086,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8752
+      "UsersEstimate": 8753
     },
     {
       "ID": "objective_completed_10",
@@ -17185,7 +17190,7 @@
       "Name": "The Witchlight Carnival",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "objective_completed_1056",
@@ -17487,9 +17492,9 @@
       "ID": "objective_completed_1105",
       "SetID": "415jc5c",
       "Name": "The Alien Underdark",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 370
     },
     {
       "ID": "objective_completed_1106",
@@ -17729,7 +17734,7 @@
       "Name": "The Evacuation of Waterdeep",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "objective_completed_1159",
@@ -17841,7 +17846,7 @@
       "Name": "Heatwave",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "objective_completed_1179",
@@ -17865,7 +17870,7 @@
       "Name": "The Dread Domain of Tovag",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "objective_completed_1184",
@@ -18335,9 +18340,9 @@
       "ID": "objective_completed_172",
       "SetID": "415jc5c",
       "Name": "The Newcomers of Notoriety",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 370
+      "UsersEstimate": 555
     },
     {
       "ID": "objective_completed_179",
@@ -18479,9 +18484,9 @@
       "ID": "objective_completed_215",
       "SetID": "cc37lbc",
       "Name": "Poor Fortune",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 438
     },
     {
       "ID": "objective_completed_216",
@@ -20431,9 +20436,9 @@
       "ID": "objective_completed_82",
       "SetID": "cc37lbc",
       "Name": "Expert Opinion",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 656
     },
     {
       "ID": "objective_completed_827",
@@ -21041,7 +21046,7 @@
       "Name": "The Champion\u0027s Guide to Wildspace",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "objective_completed_1220",
@@ -21176,21 +21181,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185078,
+      "Progressed": 185087,
       "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218804,
+      "Progressed": 218813,
       "Completed": 2152
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-05T04:59:24.4871745+00:00",
-  "LastChanged_Achievements": "2023-08-05T06:04:49.9829881+00:00",
+  "LastChanged_Achievements": "2023-08-05T07:03:53.4386396+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-05T06:01:48.8235679+00:00",
-  "LastUpdate_Achievements": "2023-08-05T06:04:49.9889104+00:00"
+  "LastUpdate_Ratings": "2023-08-05T07:00:47.9436055+00:00",
+  "LastUpdate_Achievements": "2023-08-05T07:03:53.4422264+00:00"
 }

@@ -568,9 +568,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 9570,
+  "EOS_Progressed": 9571,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7923,6 +7923,11 @@
       "Time": "2023-08-05T05:05:19.5398611+00:00",
       "NumProgressed": 9570,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-05T07:06:59.787764+00:00",
+      "NumProgressed": 9571,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 34,
@@ -7958,7 +7963,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "ACH05",
@@ -8094,7 +8099,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "ACH22",
@@ -8110,7 +8115,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2392
+      "UsersEstimate": 2393
     },
     {
       "ID": "ACH24",
@@ -8142,7 +8147,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "ACH28",
@@ -8205,7 +8210,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9570,
+      "Progressed": 9571,
       "Completed": 44
     }
   ],
@@ -8213,8 +8218,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-01T16:59:33.8335317+00:00",
-  "LastChanged_Achievements": "2023-08-05T06:07:56.5870337+00:00",
+  "LastChanged_Achievements": "2023-08-05T07:06:59.7877636+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:06.4488282+00:00",
-  "LastUpdate_Ratings": "2023-08-05T06:01:56.7881271+00:00",
-  "LastUpdate_Achievements": "2023-08-05T06:07:56.5871247+00:00"
+  "LastUpdate_Ratings": "2023-08-05T07:00:56.6097038+00:00",
+  "LastUpdate_Achievements": "2023-08-05T07:06:59.7878366+00:00"
 }

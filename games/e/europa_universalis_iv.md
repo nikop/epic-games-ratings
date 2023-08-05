@@ -6,21 +6,21 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~7,135 |
-| That's a Grand Army | 8.00% | ~6,343 |
-| Victorious! | 8.00% | ~6,343 |
-| That is mine! | 7.00% | ~5,550 |
-| Brothers in Arms | 6.00% | ~4,757 |
-| That's a Grand Navy | 6.00% | ~4,757 |
-| Seriously?! | 6.00% | ~4,757 |
-| For the Glory | 5.00% | ~3,964 |
-| Cold War | 4.00% | ~3,171 |
-| True Catholic | 4.00% | ~3,171 |
-| Defender of the Faith | 3.00% | ~2,378 |
-| It's all about the money | 3.00% | ~2,378 |
-| Respected | 3.00% | ~2,378 |
-| The Princess is in this Castle | 3.00% | ~2,378 |
-| Truly Divine Ruler | 3.00% | ~2,378 |
+| Until death do us apart | 9.00% | ~7,138 |
+| That's a Grand Army | 8.00% | ~6,345 |
+| Victorious! | 8.00% | ~6,345 |
+| That is mine! | 7.00% | ~5,552 |
+| Brothers in Arms | 6.00% | ~4,759 |
+| That's a Grand Navy | 6.00% | ~4,759 |
+| Seriously?! | 6.00% | ~4,759 |
+| For the Glory | 5.00% | ~3,966 |
+| Cold War | 4.00% | ~3,172 |
+| True Catholic | 4.00% | ~3,172 |
+| Defender of the Faith | 3.00% | ~2,379 |
+| It's all about the money | 3.00% | ~2,379 |
+| Respected | 3.00% | ~2,379 |
+| The Princess is in this Castle | 3.00% | ~2,379 |
+| Truly Divine Ruler | 3.00% | ~2,379 |
 | Agressive Expander | 2.00% | ~1,586 |
 | Blockader | 2.00% | ~1,586 |
 | Combined Arms | 2.00% | ~1,586 |
@@ -52,14 +52,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.60% | ~476 |
 | This is My Faith | 0.60% | ~476 |
 | Time Bandit | 0.60% | ~476 |
-| Absolutely | 0.50% | ~396 |
-| Early-Modern Warfare | 0.50% | ~396 |
-| Grand Coalition | 0.50% | ~396 |
-| In the Name of the Father | 0.50% | ~396 |
-| Live Long and Prosper | 0.50% | ~396 |
-| Ruina Imperii | 0.50% | ~396 |
-| Trophy Hunter | 0.50% | ~396 |
-| Voting Streak | 0.50% | ~396 |
+| Absolutely | 0.50% | ~397 |
+| Early-Modern Warfare | 0.50% | ~397 |
+| Grand Coalition | 0.50% | ~397 |
+| In the Name of the Father | 0.50% | ~397 |
+| Live Long and Prosper | 0.50% | ~397 |
+| Ruina Imperii | 0.50% | ~397 |
+| Trophy Hunter | 0.50% | ~397 |
+| Voting Streak | 0.50% | ~397 |
 | All Your Trade Are Belong to Us | 0.40% | ~317 |
 | Bleed Them Dry | 0.40% | ~317 |
 | Dude, Where's my Boat? | 0.40% | ~317 |
@@ -163,6 +163,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Even Better than Piet Heyn | 0.10% | ~79 |
 | Everything's Coming Up Mulhouse | 0.10% | ~79 |
 | Fanatic Collectivist | 0.10% | ~79 |
+| The Fezzan Corridors | 0.10% | ~79 |
 | First Come, First Serve | 0.10% | ~79 |
 | The First Toungoo Empire | 0.10% | ~79 |
 | For Odin! | 0.10% | ~79 |
@@ -340,7 +341,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Blood for the Sky God! | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
-| The Fezzan Corridors | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
 | Inner Turmoil | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,283 (Ranked 76)  
+Progressed: 79,311 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -468,7 +468,7 @@ Completed: 0 (0.00%) (Ranked 248)
 | 2023-08-02 | 77,371 | 0 |
 | 2023-08-03 | 78,060 | 0 |
 | 2023-08-04 | 79,131 | 0 |
-| 2023-08-05 | 79,283 | 0 |
+| 2023-08-05 | 79,311 | 0 |
 ## Awards
 Max (Educational): 5,617  (Ranked 62)  
 Sum: 46,349 (Ranked 26)  
