@@ -2605,9 +2605,9 @@
       "ID": "ACH_M_D5",
       "SetID": "b3fep3o",
       "Name": "Athenian Treasury",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_M_DC",
@@ -2950,8 +2950,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-08-05T08:04:41.1233085+00:00",
+  "LastChanged_Achievements": "2023-08-05T09:04:18.5837235+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:39.3691778+00:00",
-  "LastUpdate_Ratings": "2023-08-05T07:59:56.7987739+00:00",
-  "LastUpdate_Achievements": "2023-08-05T08:04:41.1233767+00:00"
+  "LastUpdate_Ratings": "2023-08-05T09:00:01.3512131+00:00",
+  "LastUpdate_Achievements": "2023-08-05T09:04:18.5837821+00:00"
 }

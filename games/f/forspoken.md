@@ -18,10 +18,10 @@ Rating: 4.14 (Ranked 890)
 | Through the Eyes of Another: Empath | 4.00% | ~1,582 |
 | Stuck | 4.00% | ~1,582 |
 | Help Me Out Here | 4.00% | ~1,582 |
+| Outdoorsperson | 3.00% | ~1,187 |
 | The Interloper | 3.00% | ~1,187 |
 | Hop, Step, Jump | 3.00% | ~1,187 |
 | Endless Runner | 3.00% | ~1,187 |
-| Outdoorsperson | 2.00% | ~791 |
 | What Must Be Done | 2.00% | ~791 |
 | Might and Main | 2.00% | ~791 |
 | Damned If You Do... | 2.00% | ~791 |

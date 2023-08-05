@@ -2,7 +2,7 @@
   "ID": "f312bc218b1d46f7921619cc9f3bf3c7",
   "Name": "Iron Harvest",
   "ProductSlug": "iron-harvest",
-  "Ranking_Rating": 703,
+  "Ranking_Rating": 704,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 529,
@@ -390,6 +390,6 @@
   "FirstSeen": "2022-07-22T20:22:43.0842749+00:00",
   "LastChanged": "2023-07-30T22:01:26.6882419+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:51.1467604+00:00",
-  "LastUpdate_Ratings": "2023-08-05T08:00:04.9863543+00:00",
-  "LastUpdate_Achievements": "2023-08-05T08:06:45.0325438+00:00"
+  "LastUpdate_Ratings": "2023-08-05T09:00:09.9414099+00:00",
+  "LastUpdate_Achievements": "2023-08-05T09:06:15.5005367+00:00"
 }

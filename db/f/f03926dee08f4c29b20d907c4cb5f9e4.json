@@ -148,9 +148,9 @@
       "ID": "ACH_05_HERDS_OF_HORSES",
       "SetID": "9loam6m",
       "Name": "Herds of horses",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_06_CAT_RESCUE",
@@ -396,9 +396,9 @@
       "ID": "ACH_36_LIFE_IN_COUNTRYSIDE",
       "SetID": "9loam6m",
       "Name": "Life in the countryside",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_37_UP_IN_THE_MOUNTAINS",
@@ -459,8 +459,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-08-05T08:05:10.3921349+00:00",
+  "LastChanged_Achievements": "2023-08-05T09:04:47.4651885+00:00",
   "LastUpdate_AppInfo": "2023-08-02T14:57:16.3692693+00:00",
-  "LastUpdate_Ratings": "2023-08-05T07:57:29.2704275+00:00",
-  "LastUpdate_Achievements": "2023-08-05T08:05:10.3921647+00:00"
+  "LastUpdate_Ratings": "2023-08-05T08:57:21.6546706+00:00",
+  "LastUpdate_Achievements": "2023-08-05T09:04:47.4652163+00:00"
 }

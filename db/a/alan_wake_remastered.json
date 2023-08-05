@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60274,
+  "EOS_Progressed": 60276,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 1011,
+  "EOS_NewPlayers": 1007,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10262,6 +10262,11 @@
       "Time": "2023-08-05T08:04:54.325239+00:00",
       "NumProgressed": 60274,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-05T09:04:31.6899672+00:00",
+      "NumProgressed": 60276,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10273,7 +10278,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22301
+      "UsersEstimate": 22302
     },
     {
       "ID": "02",
@@ -10289,7 +10294,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13260
+      "UsersEstimate": 13261
     },
     {
       "ID": "04",
@@ -10345,7 +10350,7 @@
       "Name": "Medical Opinions",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "11",
@@ -10377,7 +10382,7 @@
       "Name": "Gatekeeper",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6027
+      "UsersEstimate": 6028
     },
     {
       "ID": "15",
@@ -10401,7 +10406,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3616
+      "UsersEstimate": 3617
     },
     {
       "ID": "18",
@@ -10449,7 +10454,7 @@
       "Name": "Taken Season",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "24",
@@ -10457,7 +10462,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6027
+      "UsersEstimate": 6028
     },
     {
       "ID": "25",
@@ -10473,7 +10478,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6027
+      "UsersEstimate": 6028
     },
     {
       "ID": "27",
@@ -10505,7 +10510,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6027
+      "UsersEstimate": 6028
     },
     {
       "ID": "31",
@@ -10545,7 +10550,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18082
+      "UsersEstimate": 18083
     },
     {
       "ID": "36",
@@ -10569,7 +10574,7 @@
       "Name": "An Idyllic Small Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "39",
@@ -10633,7 +10638,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 8438
+      "UsersEstimate": 8439
     },
     {
       "ID": "47",
@@ -10673,7 +10678,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1899
+      "UsersEstimate": 1900
     },
     {
       "ID": "52",
@@ -10808,21 +10813,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60274,
+      "Progressed": 60276,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23742,
+      "Progressed": 23744,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-05T08:04:54.3252382+00:00",
+  "LastChanged_Achievements": "2023-08-05T09:04:31.6899659+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-05T07:58:11.9385208+00:00",
-  "LastUpdate_Achievements": "2023-08-05T08:04:54.3253984+00:00"
+  "LastUpdate_Ratings": "2023-08-05T08:58:08.7175926+00:00",
+  "LastUpdate_Achievements": "2023-08-05T09:04:31.6900628+00:00"
 }

@@ -9,11 +9,11 @@
 | Green-Bodied Monster | 60.00% | ~42 |
 | Chopper Stopper | 50.00% | ~35 |
 | Aerosolized | 46.00% | ~32 |
+| Test of Faith | 39.00% | ~27 |
 | Monstrosity Atrocity | 39.00% | ~27 |
-| Test of Faith | 37.00% | ~26 |
 | Reign of Terror | 33.00% | ~23 |
 | Crushing All Cars | 27.00% | ~19 |
-| Brain Chopper | 21.00% | ~15 |
+| Brain Chopper | 23.00% | ~16 |
 | Horror Show | 20.00% | ~14 |
 | Night Bird | 17.00% | ~12 |
 | Demolition Ambition | 13.00% | ~9 |

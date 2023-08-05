@@ -103,6 +103,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.40% | ~53 |
 | Dualism | 0.40% | ~53 |
 | Legalism | 0.40% | ~53 |
+| Redemption | 0.40% | ~53 |
 | Cimmerian Archer | 0.40% | ~53 |
 | Legionary | 0.40% | ~53 |
 | Phalangite | 0.40% | ~53 |
@@ -125,7 +126,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.30% | ~40 |
 | Enlightenment | 0.30% | ~40 |
 | Gnosticism | 0.30% | ~40 |
-| Redemption | 0.30% | ~40 |
 | Revelation | 0.30% | ~40 |
 | Veneration | 0.30% | ~40 |
 | Kushite Cavalry | 0.30% | ~40 |

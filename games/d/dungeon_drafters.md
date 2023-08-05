@@ -14,8 +14,8 @@
 | Card Collector | 26.00% | ~21 |
 | Riddlesolver | 22.00% | ~18 |
 | Dungeon Mastery | 21.00% | ~17 |
+| A Strange Proposition | 12.00% | ~10 |
 | The Steed | 11.00% | ~9 |
-| A Strange Proposition | 11.00% | ~9 |
 | Card Completionist | 9.00% | ~7 |
 | The Bodyguard | 6.00% | ~5 |
 | The Apprentice | 6.00% | ~5 |
@@ -26,6 +26,7 @@
 | Oracle Mastery | 5.00% | ~4 |
 | Traveler Mastery | 5.00% | ~4 |
 | Raider Mastery | 4.00% | ~3 |
+| Warden Mastery | 4.00% | ~3 |
 | The Plot Thickens | 4.00% | ~3 |
 | The False Prophet | 4.00% | ~3 |
 | Sealed Once Again | 4.00% | ~3 |
@@ -33,7 +34,6 @@
 | FOR JUSTICE! | 2.00% | ~2 |
 | Journey’s End | 2.00% | ~2 |
 | Masterpiece | 2.00% | ~2 |
-| Warden Mastery | 2.00% | ~2 |
 | Towards the Future | 2.00% | ~2 |
 | Trinket Enthusiast | 2.00% | ~2 |
 | The Usurper | 2.00% | ~2 |

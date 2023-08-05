@@ -8,7 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,753 |
 | Beast Intentions | 3.00% | ~6,565 |
-| Maddening | 2.00% | ~4,376 |
+| Maddening | 2.00% | ~4,377 |
 | The Silken Swamp | 1.00% | ~2,188 |
 | Supply Run | 1.00% | ~2,188 |
 | Vecna Lives! | 1.00% | ~1,851 |
@@ -39,7 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.60% | ~1,313 |
 | The Mad Wizard | 0.60% | ~1,313 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,111 |
-| Thieves of the Coven | 0.50% | ~925 |
+| Thieves of the Coven | 0.50% | ~926 |
 | Heavy Burden | 0.50% | ~1,094 |
 | Friends of the Forest | 0.50% | ~1,094 |
 | Low Initiative | 0.50% | ~1,094 |
@@ -51,13 +51,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.50% | ~1,094 |
 | The Ring of Regeneration | 0.50% | ~1,094 |
 | Seeking Allies | 0.50% | ~1,094 |
-| Not That Type of Helm! | 0.50% | ~925 |
-| Calcryx Tricks | 0.50% | ~925 |
-| Goblin Halls: the Next Generation | 0.50% | ~925 |
-| Bazaar Companions | 0.50% | ~925 |
-| Bahamut's Army | 0.50% | ~925 |
-| Krux's Speed Run | 0.50% | ~925 |
-| Animated Giff | 0.50% | ~925 |
+| Not That Type of Helm! | 0.50% | ~926 |
+| Calcryx Tricks | 0.50% | ~926 |
+| Goblin Halls: the Next Generation | 0.50% | ~926 |
+| Bazaar Companions | 0.50% | ~926 |
+| Bahamut's Army | 0.50% | ~926 |
+| Krux's Speed Run | 0.50% | ~926 |
+| Animated Giff | 0.50% | ~926 |
 | Upholding the Law | 0.40% | ~875 |
 | Hither of the Feywild | 0.40% | ~740 |
 | Speeds of Destruction | 0.40% | ~740 |
@@ -103,58 +103,58 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sanctum of the Sword | 0.30% | ~555 |
 | Get Back In The Castle | 0.30% | ~555 |
 | Xanathaaaaaaar! | 0.30% | ~555 |
-| Captured! | 0.30% | ~656 |
-| Force Grey Unleashed | 0.30% | ~656 |
-| Vajra's Guards | 0.30% | ~656 |
-| Sleuth It Out | 0.30% | ~656 |
+| Captured! | 0.30% | ~657 |
+| Force Grey Unleashed | 0.30% | ~657 |
+| Vajra's Guards | 0.30% | ~657 |
+| Sleuth It Out | 0.30% | ~657 |
 | The Newcomers of Notoriety | 0.30% | ~555 |
-| A Grand Puzzle | 0.30% | ~656 |
-| Azaka's Procession - Part 1 | 0.30% | ~656 |
-| Tomb of the Nine Gods | 0.30% | ~656 |
-| Azaka's Procession - Part 2 | 0.30% | ~656 |
-| The Hunt for Owl-y | 0.30% | ~656 |
-| Werewolves in the Mist | 0.30% | ~656 |
-| We're not in Faerûn Anymore | 0.30% | ~656 |
-| Chatty Nobles | 0.30% | ~656 |
-| Modron Assistance | 0.30% | ~656 |
-| Haaave You Met Asmodeus? | 0.30% | ~656 |
-| Domesticated Owlbears | 0.30% | ~656 |
-| The Immortal Warrior | 0.30% | ~656 |
-| The Wyrmheart Mine | 0.30% | ~656 |
-| Seeds of Deceit | 0.30% | ~656 |
-| Trollskull Manor | 0.30% | ~656 |
-| Attack on the Manor | 0.30% | ~656 |
-| The Death Curse | 0.30% | ~656 |
-| Treasure Hunters | 0.30% | ~656 |
-| Nimble Escape | 0.30% | ~656 |
-| Fugitives | 0.30% | ~656 |
-| Premature Betrayal | 0.30% | ~656 |
-| Hopelessly Lost | 0.30% | ~656 |
-| Enter the Sargauth | 0.30% | ~656 |
-| A Tale of Two Cities | 0.30% | ~656 |
-| The Dead Three | 0.30% | ~656 |
-| Flying Monkey Skulls of Doom | 0.30% | ~656 |
-| Lair of the Xanathar | 0.30% | ~656 |
-| The Darkness Runs Deeper | 0.30% | ~656 |
-| Difficult Terrain | 0.30% | ~656 |
-| Dinosaur Racing | 0.30% | ~656 |
-| Elturel Has Fallen | 0.30% | ~656 |
-| Resolve Amongst Chaos | 0.30% | ~656 |
-| Market Fluctuations | 0.30% | ~656 |
+| A Grand Puzzle | 0.30% | ~657 |
+| Azaka's Procession - Part 1 | 0.30% | ~657 |
+| Tomb of the Nine Gods | 0.30% | ~657 |
+| Azaka's Procession - Part 2 | 0.30% | ~657 |
+| The Hunt for Owl-y | 0.30% | ~657 |
+| Werewolves in the Mist | 0.30% | ~657 |
+| We're not in Faerûn Anymore | 0.30% | ~657 |
+| Chatty Nobles | 0.30% | ~657 |
+| Modron Assistance | 0.30% | ~657 |
+| Haaave You Met Asmodeus? | 0.30% | ~657 |
+| Domesticated Owlbears | 0.30% | ~657 |
+| The Immortal Warrior | 0.30% | ~657 |
+| The Wyrmheart Mine | 0.30% | ~657 |
+| Seeds of Deceit | 0.30% | ~657 |
+| Trollskull Manor | 0.30% | ~657 |
+| Attack on the Manor | 0.30% | ~657 |
+| The Death Curse | 0.30% | ~657 |
+| Treasure Hunters | 0.30% | ~657 |
+| Nimble Escape | 0.30% | ~657 |
+| Fugitives | 0.30% | ~657 |
+| Premature Betrayal | 0.30% | ~657 |
+| Hopelessly Lost | 0.30% | ~657 |
+| Enter the Sargauth | 0.30% | ~657 |
+| A Tale of Two Cities | 0.30% | ~657 |
+| The Dead Three | 0.30% | ~657 |
+| Flying Monkey Skulls of Doom | 0.30% | ~657 |
+| Lair of the Xanathar | 0.30% | ~657 |
+| The Darkness Runs Deeper | 0.30% | ~657 |
+| Difficult Terrain | 0.30% | ~657 |
+| Dinosaur Racing | 0.30% | ~657 |
+| Elturel Has Fallen | 0.30% | ~657 |
+| Resolve Amongst Chaos | 0.30% | ~657 |
+| Market Fluctuations | 0.30% | ~657 |
 | The Giant's Bane Tavern | 0.30% | ~555 |
 | The Everlasting Rime | 0.30% | ~555 |
-| Close Escort | 0.30% | ~656 |
-| Constant Banditry | 0.30% | ~656 |
-| The Long Haul | 0.30% | ~656 |
-| Lost in the Deep | 0.30% | ~656 |
-| Easily Distracted | 0.30% | ~656 |
-| Rude Welcome | 0.30% | ~656 |
+| Close Escort | 0.30% | ~657 |
+| Constant Banditry | 0.30% | ~657 |
+| The Long Haul | 0.30% | ~657 |
+| Lost in the Deep | 0.30% | ~657 |
+| Easily Distracted | 0.30% | ~657 |
+| Rude Welcome | 0.30% | ~657 |
 | Moose Tracks | 0.30% | ~555 |
 | Civilization | 0.30% | ~555 |
-| Durable Deep | 0.30% | ~656 |
-| Expert Opinion | 0.30% | ~656 |
-| The Templar's Camp | 0.30% | ~656 |
-| Rescue in the Jungle | 0.30% | ~656 |
+| Durable Deep | 0.30% | ~657 |
+| Expert Opinion | 0.30% | ~657 |
+| The Templar's Camp | 0.30% | ~657 |
+| Rescue in the Jungle | 0.30% | ~657 |
 | Willing to Sacrifice | 0.30% | ~555 |
 | Tiny Treaty | 0.30% | ~555 |
 | Starving in the Jungle | 0.20% | ~438 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,823 (Ranked 53)  
+Progressed: 218,835 (Ranked 53)  
 Completed: 2,152 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 2,152 (0.98%) (Ranked 113)
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
-| 2023-08-05 | 218,823 | 2,152 |
+| 2023-08-05 | 218,835 | 2,152 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,900 (Ranked 38)  
