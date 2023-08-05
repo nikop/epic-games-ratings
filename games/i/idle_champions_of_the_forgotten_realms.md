@@ -19,8 +19,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Loots! | 0.80% | ~1,481 |
 | Topolah's Tower | 0.80% | ~1,481 |
 | Wet Feet | 0.70% | ~1,532 |
-| Seeds of Destruction | 0.70% | ~1,295 |
-| Return to the Tomb | 0.70% | ~1,295 |
+| Seeds of Destruction | 0.70% | ~1,296 |
+| Return to the Tomb | 0.70% | ~1,296 |
 | Were-verpowered | 0.70% | ~1,532 |
 | The Cursed Farmer | 0.70% | ~1,532 |
 | Pros and CONs | 0.60% | ~1,313 |
@@ -57,6 +57,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.50% | ~925 |
 | Bahamut's Army | 0.50% | ~925 |
 | Krux's Speed Run | 0.50% | ~925 |
+| Animated Giff | 0.50% | ~925 |
 | Upholding the Law | 0.40% | ~875 |
 | Hither of the Feywild | 0.40% | ~740 |
 | Speeds of Destruction | 0.40% | ~740 |
@@ -90,7 +91,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Luigi After Hours | 0.40% | ~740 |
 | Electric Mayhem | 0.40% | ~740 |
 | 3,720 to 1 | 0.40% | ~740 |
-| Animated Giff | 0.40% | ~740 |
 | Nightmare Rats! | 0.30% | ~555 |
 | The Prince of a Thousand Enemies | 0.30% | ~555 |
 | Downfall | 0.30% | ~555 |
@@ -107,7 +107,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Force Grey Unleashed | 0.30% | ~656 |
 | Vajra's Guards | 0.30% | ~656 |
 | Sleuth It Out | 0.30% | ~656 |
-| The Newcomers of Notoriety | 0.30% | ~555 |
 | A Grand Puzzle | 0.30% | ~656 |
 | Azaka's Procession - Part 1 | 0.30% | ~656 |
 | Tomb of the Nine Gods | 0.30% | ~656 |
@@ -134,6 +133,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.30% | ~656 |
 | The Dead Three | 0.30% | ~656 |
 | Flying Monkey Skulls of Doom | 0.30% | ~656 |
+| Lair of the Xanathar | 0.30% | ~656 |
 | The Darkness Runs Deeper | 0.30% | ~656 |
 | Difficult Terrain | 0.30% | ~656 |
 | Dinosaur Racing | 0.30% | ~656 |
@@ -151,7 +151,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Moose Tracks | 0.30% | ~555 |
 | Civilization | 0.30% | ~555 |
 | Durable Deep | 0.30% | ~656 |
-| Expert Opinion | 0.30% | ~656 |
 | The Templar's Camp | 0.30% | ~656 |
 | Rescue in the Jungle | 0.30% | ~656 |
 | Willing to Sacrifice | 0.30% | ~555 |
@@ -189,6 +188,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.20% | ~438 |
 | Home Field Advantage | 0.20% | ~438 |
 | Double Vision | 0.20% | ~438 |
+| The Newcomers of Notoriety | 0.20% | ~370 |
 | Haunted Fortunes | 0.20% | ~438 |
 | Thine Bounty is Mine! | 0.20% | ~370 |
 | This Quest Stinks! | 0.20% | ~370 |
@@ -206,7 +206,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cramped Quarters | 0.20% | ~438 |
 | A Tale of Two Fiends | 0.20% | ~438 |
 | Slow and Steady | 0.20% | ~438 |
-| Lair of the Xanathar | 0.20% | ~438 |
 | Waterdeep Under Siege | 0.20% | ~438 |
 | Crowded Streets | 0.20% | ~438 |
 | Troublesome Prisoner | 0.20% | ~438 |
@@ -228,6 +227,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rime Bandits | 0.20% | ~370 |
 | The Sibriex | 0.20% | ~370 |
 | Wrecked Flying Fortress | 0.20% | ~370 |
+| Expert Opinion | 0.20% | ~438 |
 | Dwarven Rumors | 0.20% | ~370 |
 | Sunblight | 0.20% | ~370 |
 | The Bleeding Citadel | 0.20% | ~370 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,792 (Ranked 53)  
+Progressed: 218,804 (Ranked 53)  
 Completed: 2,152 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 2,152 (0.98%) (Ranked 113)
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
-| 2023-08-05 | 218,792 | 2,152 |
+| 2023-08-05 | 218,804 | 2,152 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
 Sum: 30,900 (Ranked 38)  

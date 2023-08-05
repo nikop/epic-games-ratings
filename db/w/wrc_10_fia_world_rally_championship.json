@@ -4,10 +4,10 @@
   "ProductSlug": "wrc-10",
   "Ranking_Rating": 590,
   "Ranking_Popularity": 433,
-  "Ranking_PopularitySum": 336,
+  "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-09-02T12:00:00+00:00",
@@ -634,7 +634,7 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:20.0440724+00:00",
   "LastChanged": "2023-07-27T17:59:59.6296506+00:00",
-  "LastUpdate_AppInfo": "2023-07-29T04:59:03.1098736+00:00",
-  "LastUpdate_Ratings": "2023-08-05T05:00:21.8331974+00:00",
-  "LastUpdate_Achievements": "2023-08-05T05:06:00.1566471+00:00"
+  "LastUpdate_AppInfo": "2023-08-05T05:59:10.2815463+00:00",
+  "LastUpdate_Ratings": "2023-08-05T06:03:09.5270736+00:00",
+  "LastUpdate_Achievements": "2023-08-05T06:08:54.6627871+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 370,
+  "EOS_Progressed": 371,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.62,
   "EosHistory": [
@@ -155,6 +155,11 @@
       "Time": "2023-07-30T17:06:30.8358192+00:00",
       "NumProgressed": 370,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-05T06:05:01.547047+00:00",
+      "NumProgressed": 371,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -174,7 +179,7 @@
       "Name": "Sole Music",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "dep4_achievement_11",
@@ -182,7 +187,7 @@
       "Name": "Distraction",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "dep4_achievement_12",
@@ -206,7 +211,7 @@
       "Name": "Shall we play a game?",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "dep4_achievement_15",
@@ -222,7 +227,7 @@
       "Name": "Brainfreeze",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "dep4_achievement_17",
@@ -236,9 +241,9 @@
       "ID": "dep4_achievement_18",
       "SetID": "5d32b60",
       "Name": "Chunky",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 186
     },
     {
       "ID": "dep4_achievement_19",
@@ -286,7 +291,7 @@
       "Name": "Every man for himself!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "dep4_achievement_24",
@@ -324,9 +329,9 @@
       "ID": "dep4_achievement_28",
       "SetID": "5d32b60",
       "Name": "Kuvaq Minigame-Master",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 223
     },
     {
       "ID": "dep4_achievement_29",
@@ -342,15 +347,15 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "dep4_achievement_30",
       "SetID": "5d32b60",
       "Name": "Elysian Minigame-Master",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 137
     },
     {
       "ID": "dep4_achievement_31",
@@ -372,9 +377,9 @@
       "ID": "dep4_achievement_33",
       "SetID": "5d32b60",
       "Name": "Heading the inverter",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 48
     },
     {
       "ID": "dep4_achievement_34",
@@ -406,7 +411,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "dep4_achievement_5",
@@ -422,7 +427,7 @@
       "Name": "School\u0027s out",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "dep4_achievement_7",
@@ -453,7 +458,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 370,
+      "Progressed": 371,
       "Completed": 6
     }
   ],
@@ -461,8 +466,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-04-17T16:58:11.036869+00:00",
-  "LastChanged_Achievements": "2023-08-05T05:01:39.0790868+00:00",
+  "LastChanged_Achievements": "2023-08-05T06:05:01.547046+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:12.4934114+00:00",
-  "LastUpdate_Ratings": "2023-08-05T05:01:14.1319851+00:00",
-  "LastUpdate_Achievements": "2023-08-05T05:01:39.0791175+00:00"
+  "LastUpdate_Ratings": "2023-08-05T06:04:26.1601399+00:00",
+  "LastUpdate_Achievements": "2023-08-05T06:05:01.5470777+00:00"
 }

@@ -220,9 +220,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 227487,
+  "EOS_Progressed": 227489,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11350,6 +11350,11 @@
       "Time": "2023-08-05T05:05:52.2438272+00:00",
       "NumProgressed": 227487,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-05T06:08:43.2186093+00:00",
+      "NumProgressed": 227489,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -11425,7 +11430,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 81895
+      "UsersEstimate": 81896
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -11521,7 +11526,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50047
+      "UsersEstimate": 50048
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -11561,7 +11566,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9099
+      "UsersEstimate": 9100
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -11584,7 +11589,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 227487,
+      "Progressed": 227489,
       "Completed": 3
     }
   ],
@@ -11592,8 +11597,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-08-04T01:56:12.3403254+00:00",
-  "LastChanged_Achievements": "2023-08-05T05:05:52.2438267+00:00",
+  "LastChanged_Achievements": "2023-08-05T06:08:43.2186087+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:36.5137044+00:00",
-  "LastUpdate_Ratings": "2023-08-05T05:00:53.0329086+00:00",
-  "LastUpdate_Achievements": "2023-08-05T05:05:52.2439168+00:00"
+  "LastUpdate_Ratings": "2023-08-05T06:03:53.436071+00:00",
+  "LastUpdate_Achievements": "2023-08-05T06:08:43.2187007+00:00"
 }

@@ -14,9 +14,9 @@
 | Getting Deployment | 11.00% | ~86 |
 | Stocking Up | 11.00% | ~86 |
 | On Target | 11.00% | ~86 |
+| Fighting for Survival | 10.00% | ~78 |
 | Keeping Busy | 10.00% | ~78 |
 | Infantry Reporting | 10.00% | ~78 |
-| Fighting for Survival | 9.00% | ~71 |
 | Silver Competitor | 8.00% | ~63 |
 | Captain | 8.00% | ~63 |
 | Exterminator | 7.00% | ~55 |

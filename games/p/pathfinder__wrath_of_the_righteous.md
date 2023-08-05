@@ -31,8 +31,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Divide and Rule | 3.00% | ~324 |
 | Mythic Reinforcements | 3.00% | ~324 |
 | Hey, I Know You! | 3.00% | ~324 |
-| The Lady of the Forest | 3.00% | ~287 |
-| Beware Still Water | 3.00% | ~287 |
+| The Lady of the Forest | 3.00% | ~288 |
+| Beware Still Water | 3.00% | ~288 |
 | Path of the Demon | 2.00% | ~216 |
 | Path of the Aeon | 2.00% | ~216 |
 | Path of the Lich | 2.00% | ~216 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,801 (Ranked 120)  
+Progressed: 10,802 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 0 (0.00%) (Ranked 248)
 | 2023-08-02 | 10,767 | 0 |
 | 2023-08-03 | 10,789 | 0 |
 | 2023-08-04 | 10,798 | 0 |
-| 2023-08-05 | 10,801 | 0 |
+| 2023-08-05 | 10,802 | 0 |
 ## Awards
 Max (Character Customization): 1,695  (Ranked 117)  
 Sum: 6,870 (Ranked 113)  

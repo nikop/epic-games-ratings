@@ -139,9 +139,9 @@ Completed: 20 (0.10%) (Ranked 197)
 | 2023-08-04 | 20,572 | 20 |
 | 2023-08-05 | 20,574 | 20 |
 ## Awards
-Max (Great for Beginners): 305  (Ranked 233)  
+Max (Great for Beginners): 305  (Ranked 234)  
 Sum: 2,198 (Ranked 190)  
-Diff (max vs sum): 43  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 305 |

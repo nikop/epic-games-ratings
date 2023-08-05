@@ -5560,7 +5560,7 @@
       "Count": 3341
     }
   ],
-  "EOS_Progressed": 218792,
+  "EOS_Progressed": 218804,
   "EOS_Completed": 2152,
   "EOS_NewPlayers": 2210,
   "EOS_NewCompleters": 18,
@@ -17065,6 +17065,11 @@
       "Time": "2023-08-05T05:01:30.6814585+00:00",
       "NumProgressed": 218792,
       "NumCompleted": 2152
+    },
+    {
+      "Time": "2023-08-05T06:04:49.9829891+00:00",
+      "NumProgressed": 218804,
+      "NumCompleted": 2152
     }
   ],
   "TotalAchievements": 512,
@@ -17700,7 +17705,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "objective_completed_1153",
@@ -17812,7 +17817,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "objective_completed_1174",
@@ -18330,9 +18335,9 @@
       "ID": "objective_completed_172",
       "SetID": "415jc5c",
       "Name": "The Newcomers of Notoriety",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 370
     },
     {
       "ID": "objective_completed_179",
@@ -19298,9 +19303,9 @@
       "ID": "objective_completed_550",
       "SetID": "cc37lbc",
       "Name": "Lair of the Xanathar",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 656
     },
     {
       "ID": "objective_completed_551",
@@ -20426,9 +20431,9 @@
       "ID": "objective_completed_82",
       "SetID": "cc37lbc",
       "Name": "Expert Opinion",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 656
+      "UsersEstimate": 438
     },
     {
       "ID": "objective_completed_827",
@@ -21162,30 +21167,30 @@
       "ID": "objective_completed_1392",
       "SetID": "415jc5c",
       "Name": "Animated Giff",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 925
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185066,
+      "Progressed": 185078,
       "Completed": 3055
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 218792,
+      "Progressed": 218804,
       "Completed": 2152
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-05T04:59:24.4871745+00:00",
-  "LastChanged_Achievements": "2023-08-05T05:01:30.681458+00:00",
-  "LastUpdate_AppInfo": "2023-07-29T04:58:01.8030424+00:00",
-  "LastUpdate_Ratings": "2023-08-05T04:59:24.4871752+00:00",
-  "LastUpdate_Achievements": "2023-08-05T05:01:30.6843203+00:00"
+  "LastChanged_Achievements": "2023-08-05T06:04:49.9829881+00:00",
+  "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
+  "LastUpdate_Ratings": "2023-08-05T06:01:48.8235679+00:00",
+  "LastUpdate_Achievements": "2023-08-05T06:04:49.9889104+00:00"
 }
