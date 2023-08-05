@@ -8,7 +8,7 @@
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 164,508 | 4.88 | 18 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 145,574 | 4.52 | 526 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 114,133 | 4.69 | 213 |
-| 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 74,785 | 4.62 | 349 |
+| 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 74,859 | 4.62 | 349 |
 | 10 | [VALORANT](games/v/valorant.md) | 63,478 | 4.53 | 513 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 59,712 | 4.58 | 424 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 42,363 | 4.61 | 366 |
@@ -122,7 +122,7 @@
 | 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,506 | 4.82 | 66 |
 | 121 | [Ring of Pain](games/r/ring_of_pain.md) | 1,487 | 4.58 | 424 |
 | 122 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,476 | 4.79 | 88 |
-| 123 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,421 | 4.87 | 24 |
+| 123 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,421 | 4.87 | 23 |
 | 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,419 | 4.62 | 349 |
 | 125 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,394 | 4.78 | 100 |
 | 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,379 | 4.52 | 526 |
@@ -140,7 +140,7 @@
 | 138 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,057 | 4.66 | 271 |
 | 139 | [EVE Online](games/e/eve_online.md) | 1,053 | 4.25 | 819 |
 | 140 | [Saints Row](games/s/saints_row.md) | 1,052 | 3.78 | 954 |
-| 141 | [Ooblets](games/o/ooblets.md) | 1,018 | 4.87 | 24 |
+| 141 | [Ooblets](games/o/ooblets.md) | 1,018 | 4.87 | 23 |
 | 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,013 | 4.39 | 703 |
 | 143 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 837 |
 | 144 | [Torchlight II](games/t/torchlight_ii.md) | 1,003 | 4.59 | 412 |
@@ -161,7 +161,7 @@
 | 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 746 | 4.50 | 561 |
 | 160 | [Core](games/c/core.md) | 745 | 4.36 | 735 |
 | 161 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 740 | 4.79 | 88 |
-| 162 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 715 | 4.87 | 24 |
+| 162 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 715 | 4.87 | 23 |
 | 163 | [Neverwinter](games/n/neverwinter.md) | 711 | 4.29 | 788 |
 | 164 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 705 | 4.59 | 412 |
 | 165 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 693 | 4.60 | 388 |
@@ -240,7 +240,7 @@
 | 238 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 286 | 4.46 | 616 |
 | 239 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 280 | 4.43 | 658 |
 | 240 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 279 | 4.62 | 349 |
-| 241 | [Dead Cells](games/d/dead_cells.md) | 278 | 4.88 | 18 |
+| 241 | [Dead Cells](games/d/dead_cells.md) | 278 | 4.87 | 23 |
 | 242 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 277 | 4.61 | 366 |
 | 243 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 273 | 4.49 | 576 |
 | 244 | [Diabotical](games/d/diabotical.md) | 271 | 4.75 | 135 |
@@ -459,12 +459,12 @@
 | 456 | [Blankos Block Party](games/b/blankos_block_party.md) | 31 | 4.21 | 847 |
 | 458 | [Northgard](games/n/northgard.md) | 30 | 4.71 | 185 |
 | 458 | [Poker Club](games/p/poker_club.md) | 30 | 3.80 | 953 |
+| 458 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 30 | 4.58 | 424 |
 | 458 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 30 | 4.57 | 446 |
-| 461 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.92 | 941 |
-| 461 | [City of Gangsters](games/c/city_of_gangsters.md) | 29 | 4.26 | 813 |
-| 461 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 29 | 4.45 | 630 |
-| 461 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.33 | 762 |
-| 461 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 29 | 4.58 | 424 |
+| 462 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.92 | 941 |
+| 462 | [City of Gangsters](games/c/city_of_gangsters.md) | 29 | 4.26 | 813 |
+| 462 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 29 | 4.45 | 630 |
+| 462 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.33 | 762 |
 | 466 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 28 | 4.81 | 76 |
 | 466 | [Wildermyth](games/w/wildermyth.md) | 28 | 4.77 | 109 |
 | 466 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 28 | 4.52 | 526 |

@@ -51,7 +51,7 @@
 | 49 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 50 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.52% |
-| 52 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.27% |
+| 52 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.26% |
 | 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.02% |
 | 54 | [Without Escape](games/w/without_escape.md) | 3.85% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.82% |
@@ -62,7 +62,7 @@
 | 60 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
 | 61 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
 | 61 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.33% |
-| 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.17% |
+| 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.12% |
 | 64 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.06% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.04% |
 | 66 | [Monster Harvest](games/m/monster_harvest.md) | 2.96% |

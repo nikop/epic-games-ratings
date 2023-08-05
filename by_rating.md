@@ -18,16 +18,16 @@
 | 12 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 509 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,413 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 305 |
-| 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 278 | 241 |
 | 18 | [God of War](games/g/god_of_war.md) | 4.88 | 4,186 | 77 |
 | 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 164,508 | 6 |
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,917 | 35 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 491 |
-| 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,421 | 123 |
-| 24 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 715 | 162 |
-| 24 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.87 | 0 | 509 |
-| 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,018 | 141 |
-| 24 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | 0 | 509 |
+| 23 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 278 | 241 |
+| 23 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,421 | 123 |
+| 23 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 715 | 162 |
+| 23 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.87 | 0 | 509 |
+| 23 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,018 | 141 |
+| 23 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | 0 | 509 |
 | 29 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 509 |
 | 29 | [Black Book](games/b/black_book.md) | 4.86 | 21 | 499 |
 | 29 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 38 | 428 |
@@ -350,7 +350,7 @@
 | 330 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 509 |
 | 349 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.62 | 0 | 509 |
 | 349 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.62 | 0 | 509 |
-| 349 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 74,785 | 9 |
+| 349 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 74,859 | 9 |
 | 349 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 279 | 240 |
 | 349 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 441 |
 | 349 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,419 | 124 |
@@ -438,7 +438,7 @@
 | 424 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 509 |
 | 424 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 151 | 294 |
 | 424 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 52 | 396 |
-| 424 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.58 | 29 | 461 |
+| 424 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.58 | 30 | 458 |
 | 424 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 307 | 233 |
 | 424 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,270 | 55 |
 | 424 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 509 |
@@ -637,7 +637,7 @@
 | 630 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 788 | 154 |
 | 630 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.45 | 0 | 509 |
 | 630 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,031 | 34 |
-| 630 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 29 | 461 |
+| 630 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 29 | 462 |
 | 630 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 509 |
 | 630 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 867 | 150 |
 | 630 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 53 | 394 |
@@ -768,7 +768,7 @@
 | 762 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.33 | 0 | 509 |
 | 762 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 509 |
 | 762 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,218 | 66 |
-| 762 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 461 |
+| 762 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 462 |
 | 762 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 0 | 509 |
 | 762 | [Torchlight](games/t/torchlight.md) | 4.33 | 21 | 499 |
 | 762 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 0 | 509 |
@@ -814,7 +814,7 @@
 | 806 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 509 |
 | 813 | [Against All Odds](games/a/against_all_odds.md) | 4.26 | 0 | 509 |
 | 813 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 509 |
-| 813 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 29 | 461 |
+| 813 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 29 | 462 |
 | 813 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 509 |
 | 813 | [The Fall](games/t/the_fall.md) | 4.26 | 0 | 509 |
 | 813 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 236 |
@@ -940,7 +940,7 @@
 | 936 | [Patron](games/p/patron.md) | 3.94 | 0 | 509 |
 | 939 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 509 |
 | 939 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.93 | 0 | 509 |
-| 941 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 461 |
+| 941 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 462 |
 | 942 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 26 | 473 |
 | 942 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 331 |
 | 942 | [Warface](games/w/warface.md) | 3.91 | 405 | 212 |
