@@ -21,9 +21,9 @@
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.39% |
 | 20 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 11.11% |
 | 20 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
-| 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 23 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.64% |
-| 23 | [Remains](games/r/remains.md) | 10.64% |
+| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.64% |
+| 22 | [Remains](games/r/remains.md) | 10.64% |
+| 24 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 25 | [Sonic Origins](games/s/sonic_origins.md) | 10.08% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.12% |

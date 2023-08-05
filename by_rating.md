@@ -124,7 +124,7 @@
 | 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,295 | 89 |
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 918 | 148 |
 | 118 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 43 | 418 |
-| 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,360 | 75 |
+| 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,366 | 75 |
 | 118 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 509 |
 | 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,695 | 117 |
 | 118 | [Quake](games/q/quake.md) | 4.76 | 48 | 407 |
@@ -251,7 +251,7 @@
 | 242 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,142 | 92 |
 | 242 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 301,379 | 3 |
 | 242 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 207,269 | 4 |
-| 242 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 419 | 207 |
+| 242 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 420 | 207 |
 | 242 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 561 | 184 |
 | 242 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 679 | 167 |
 | 242 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 88 | 351 |
@@ -455,7 +455,7 @@
 | 446 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.57 | 0 | 509 |
 | 446 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 37 | 430 |
 | 446 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 0 | 509 |
-| 446 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,644 | 45 |
+| 446 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,648 | 45 |
 | 446 | [Observation](games/o/observation.md) | 4.57 | 0 | 509 |
 | 446 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,188 | 91 |
 | 446 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.57 | 6,312 | 54 |
