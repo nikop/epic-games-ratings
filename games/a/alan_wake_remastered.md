@@ -8,9 +8,9 @@ Number of Ratings: 524  (23.09.2022)
 | ---- | ---------- | ----- |
 | Follow the Light | 37.00% | ~22,288 |
 | Let There Be Light | 29.00% | ~17,469 |
-| Float Like a Butterfly | 28.00% | ~16,866 |
+| Float Like a Butterfly | 28.00% | ~16,867 |
 | Nordic Walking | 23.00% | ~13,855 |
-| Bright Falls' Finest | 22.00% | ~13,252 |
+| Bright Falls' Finest | 22.00% | ~13,253 |
 | Under a Thin Layer of Skin | 19.00% | ~11,445 |
 | Park Ranger | 16.00% | ~9,638 |
 | Paging Mr. Wake | 16.00% | ~9,638 |
@@ -21,21 +21,21 @@ Number of Ratings: 524  (23.09.2022)
 | They're Heeeeeere! | 13.00% | ~7,831 |
 | Sound and Fury | 13.00% | ~7,831 |
 | Missed by a Mile | 13.00% | ~7,831 |
-| Iron Horse | 12.00% | ~7,228 |
-| The Six-Gun Scribe | 12.00% | ~7,228 |
-| Collateral Carnage | 12.00% | ~7,228 |
-| Come One, Come All | 12.00% | ~7,228 |
+| Iron Horse | 12.00% | ~7,229 |
+| The Six-Gun Scribe | 12.00% | ~7,229 |
+| Collateral Carnage | 12.00% | ~7,229 |
+| Come One, Come All | 12.00% | ~7,229 |
 | Heavy Metal | 11.00% | ~6,626 |
 | Perchance to Dream | 11.00% | ~6,626 |
 | Gatekeeper | 10.00% | ~6,024 |
 | It's Not Just a Typewriter Brand | 10.00% | ~6,024 |
 | Thunder and Lightning | 10.00% | ~6,024 |
 | Two For the Price of One | 10.00% | ~6,024 |
-| The Lady of the Light | 9.00% | ~5,421 |
-| Energized! | 9.00% | ~5,421 |
+| The Lady of the Light | 9.00% | ~5,422 |
+| Energized! | 9.00% | ~5,422 |
 | What Light Through Yonder Window | 8.00% | ~4,819 |
 | Right of Way | 8.00% | ~4,819 |
-| A Friend in Need | 8.00% | ~1,896 |
+| A Friend in Need | 8.00% | ~1,897 |
 | Tornado Wrangler | 7.00% | ~4,217 |
 | Departure | 6.00% | ~3,614 |
 | A Friend Indeed | 6.00% | ~1,422 |
@@ -43,9 +43,9 @@ Number of Ratings: 524  (23.09.2022)
 | Drink 'Em Both Up | 5.00% | ~3,012 |
 | Hardboiled Writer | 5.00% | ~3,012 |
 | Ding! | 5.00% | ~1,185 |
-| Boob Tube | 4.00% | ~2,409 |
-| If It Flies, It Burns | 4.00% | ~2,409 |
-| KBF-FM | 4.00% | ~2,409 |
+| Boob Tube | 4.00% | ~2,410 |
+| If It Flies, It Burns | 4.00% | ~2,410 |
+| KBF-FM | 4.00% | ~2,410 |
 | Carny | 3.00% | ~1,807 |
 | Kill Your Darlings | 3.00% | ~711 |
 | Heartbreaker | 3.00% | ~711 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~60 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,237 (Ranked 84)  
+Progressed: 60,239 (Ranked 84)  
 Completed: 64 (0.11%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,6 +181,7 @@ Completed: 64 (0.11%) (Ranked 193)
 | 2023-08-02 | 59,999 | 63 |
 | 2023-08-03 | 60,143 | 63 |
 | 2023-08-04 | 60,237 | 64 |
+| 2023-08-05 | 60,239 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -568,7 +568,7 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 9565,
+  "EOS_Progressed": 9566,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 1,
@@ -7908,6 +7908,11 @@
       "Time": "2023-08-04T23:05:28.0122213+00:00",
       "NumProgressed": 9565,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-05T00:04:59.9626767+00:00",
+      "NumProgressed": 9566,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 34,
@@ -7935,7 +7940,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "ACH04",
@@ -8079,7 +8084,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4304
+      "UsersEstimate": 4305
     },
     {
       "ID": "ACH22",
@@ -8095,7 +8100,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2391
+      "UsersEstimate": 2392
     },
     {
       "ID": "ACH24",
@@ -8190,7 +8195,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9565,
+      "Progressed": 9566,
       "Completed": 44
     }
   ],
@@ -8198,8 +8203,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-01T16:59:33.8335317+00:00",
-  "LastChanged_Achievements": "2023-08-04T23:05:28.0122207+00:00",
+  "LastChanged_Achievements": "2023-08-05T00:04:59.962676+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:08.2981969+00:00",
-  "LastUpdate_Ratings": "2023-08-04T22:59:14.4076373+00:00",
-  "LastUpdate_Achievements": "2023-08-04T23:05:28.0123006+00:00"
+  "LastUpdate_Ratings": "2023-08-04T23:58:57.9051769+00:00",
+  "LastUpdate_Achievements": "2023-08-05T00:04:59.962786+00:00"
 }

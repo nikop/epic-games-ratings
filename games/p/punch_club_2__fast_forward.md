@@ -52,8 +52,8 @@
 | Mom got better | 33.00% | ~73 |
 | The die is cast | 33.00% | ~73 |
 | Seashell hunter | 33.00% | ~73 |
+| Gang wrangler | 31.00% | ~69 |
 | Undercover robot | 31.00% | ~69 |
-| Gang wrangler | 30.00% | ~66 |
 | Absolute Champion! | 30.00% | ~66 |
 | The last bell ring | 30.00% | ~66 |
 | Problems of cyborgs | 29.00% | ~64 |

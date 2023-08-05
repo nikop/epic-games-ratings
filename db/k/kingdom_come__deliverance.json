@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -6348,7 +6348,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 795657,
+  "EOS_Progressed": 795659,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 1026,
   "EOS_NewCompleters": 0,
@@ -17908,6 +17908,11 @@
       "Time": "2023-08-04T23:05:11.7849586+00:00",
       "NumProgressed": 795657,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-05T00:04:43.4117771+00:00",
+      "NumProgressed": 795659,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -18023,7 +18028,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 47739
+      "UsersEstimate": 47740
     },
     {
       "ID": "Cavalier",
@@ -18031,7 +18036,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 198914
+      "UsersEstimate": 198915
     },
     {
       "ID": "Chivalrous",
@@ -18119,7 +18124,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 183001
+      "UsersEstimate": 183002
     },
     {
       "ID": "Fighter",
@@ -18239,7 +18244,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 103435
+      "UsersEstimate": 103436
     },
     {
       "ID": "Judas",
@@ -18399,7 +18404,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159131
+      "UsersEstimate": 159132
     },
     {
       "ID": "RevenantOfLedechko",
@@ -18439,7 +18444,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159131
+      "UsersEstimate": 159132
     },
     {
       "ID": "SerialKiller",
@@ -18574,15 +18579,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 795657,
+      "Progressed": 795659,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-04T13:59:29.7119185+00:00",
-  "LastChanged_Achievements": "2023-08-04T23:05:11.7849581+00:00",
+  "LastChanged_Achievements": "2023-08-05T00:04:43.4117764+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:16.6403338+00:00",
-  "LastUpdate_Ratings": "2023-08-04T22:59:24.4338815+00:00",
-  "LastUpdate_Achievements": "2023-08-04T23:05:11.7851313+00:00"
+  "LastUpdate_Ratings": "2023-08-04T23:59:08.7262361+00:00",
+  "LastUpdate_Achievements": "2023-08-05T00:04:43.412005+00:00"
 }

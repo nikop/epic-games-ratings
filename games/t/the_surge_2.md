@@ -5,15 +5,15 @@ Rating: 4.25 (Ranked 819)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,564 |
-| Don't I Know You...? | 76.00% | ~1,486 |
+| Rigged And Ready | 80.00% | ~1,565 |
+| Don't I Know You...? | 76.00% | ~1,487 |
 | Jailbreak | 65.00% | ~1,271 |
 | Suited and Booted | 38.00% | ~743 |
-| HEADSHOT! | 37.00% | ~723 |
-| Sleeping With The Fishes | 35.00% | ~684 |
-| Overheated | 30.00% | ~586 |
-| High Performance | 30.00% | ~586 |
-| Powered Up | 28.00% | ~547 |
+| HEADSHOT! | 37.00% | ~724 |
+| Sleeping With The Fishes | 35.00% | ~685 |
+| Overheated | 30.00% | ~587 |
+| High Performance | 30.00% | ~587 |
+| Powered Up | 28.00% | ~548 |
 | Studied The Blade | 24.00% | ~469 |
 | Home Invasion | 22.00% | ~430 |
 | Luminary | 22.00% | ~430 |
@@ -21,10 +21,10 @@ Rating: 4.25 (Ranked 819)
 | True Survivor | 21.00% | ~411 |
 | Offensive Defense | 20.00% | ~391 |
 | Shocking | 20.00% | ~391 |
-| Court Martial | 19.00% | ~371 |
-| Unforeseeable Consequences | 19.00% | ~371 |
+| Court Martial | 19.00% | ~372 |
+| Unforeseeable Consequences | 19.00% | ~372 |
 | Clean Cut | 18.00% | ~352 |
-| Dead Again | 17.00% | ~332 |
+| Dead Again | 17.00% | ~333 |
 | Full Arsenal | 16.00% | ~313 |
 | Can't Trust Banks | 15.00% | ~293 |
 | Mommy Dearest | 13.00% | ~254 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 819)
 | Box Office Smash | 1.00% | ~20 |
 | The Easy Way Out | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,955 (Ranked 169)  
+Progressed: 1,956 (Ranked 169)  
 Completed: 10 (0.51%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,6 +151,7 @@ Completed: 10 (0.51%) (Ranked 136)
 | 2023-08-02 | 1,945 | 10 |
 | 2023-08-03 | 1,949 | 10 |
 | 2023-08-04 | 1,955 | 10 |
+| 2023-08-05 | 1,956 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

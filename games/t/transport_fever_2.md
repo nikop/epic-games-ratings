@@ -30,7 +30,7 @@ Number of Ratings: 180  (23.09.2022)
 | First aircraft arrived | 41.00% | ~626 |
 | Exemplary student | 41.00% | ~626 |
 | Mass production | 35.00% | ~535 |
-| Aircraft entrepreneur | 33.00% | ~504 |
+| Aircraft entrepreneur | 34.00% | ~520 |
 | Crowd in a train | 32.00% | ~489 |
 | The future is now, old man | 32.00% | ~489 |
 | Not in my backyard | 30.00% | ~458 |

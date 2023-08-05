@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1356,
+  "EOS_Progressed": 1357,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1306,6 +1306,11 @@
       "Time": "2023-08-04T20:05:39.9016482+00:00",
       "NumProgressed": 1356,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-05T00:06:04.7252702+00:00",
+      "NumProgressed": 1357,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1333,7 +1338,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1389,7 +1394,7 @@
       "Name": "Passing Shadow",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1477,7 +1482,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1509,7 +1514,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1525,7 +1530,7 @@
       "Name": "Chain Reaction",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -1549,7 +1554,7 @@
       "Name": "Everfading",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "completedStory_enduringWar",
@@ -1764,15 +1769,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1356,
+      "Progressed": 1357,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-08-04T23:06:31.6837017+00:00",
+  "LastChanged_Achievements": "2023-08-05T00:06:04.7252696+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:58:31.6406597+00:00",
-  "LastUpdate_Ratings": "2023-08-04T22:57:21.0884742+00:00",
-  "LastUpdate_Achievements": "2023-08-04T23:06:31.6837698+00:00"
+  "LastUpdate_Ratings": "2023-08-04T23:57:02.2995256+00:00",
+  "LastUpdate_Achievements": "2023-08-05T00:06:04.7253291+00:00"
 }

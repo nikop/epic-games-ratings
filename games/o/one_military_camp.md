@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 52.00% | ~65 |
+| First Step | 52.00% | ~66 |
 | The 4 Pillars | 51.00% | ~64 |
-| Capitalism | 18.00% | ~22 |
+| Capitalism | 18.00% | ~23 |
 | Indebted | 11.00% | ~14 |
-| Desert Rat | 10.00% | ~12 |
+| Desert Rat | 10.00% | ~13 |
 | There's something in those trees | 8.00% | ~10 |
 | Great Producer | 8.00% | ~10 |
 | Good payer | 7.00% | ~9 |
@@ -27,15 +27,15 @@
 | Healing | 3.00% | ~4 |
 | Property Bro | 3.00% | ~4 |
 | Human Resources | 3.00% | ~4 |
-| Tear Down the Wall! | 2.00% | ~2 |
-| Supersoldier | 2.00% | ~2 |
-| Vive le Résistance | 2.00% | ~2 |
-| No News is Good News | 2.00% | ~2 |
-| Snowman | 2.00% | ~2 |
-| Overpopulation | 2.00% | ~2 |
-| Reconquest | 2.00% | ~2 |
-| Winter Soldier | 2.00% | ~2 |
-| Researcher | 2.00% | ~2 |
+| Tear Down the Wall! | 2.00% | ~3 |
+| Supersoldier | 2.00% | ~3 |
+| Vive le Résistance | 2.00% | ~3 |
+| No News is Good News | 2.00% | ~3 |
+| Snowman | 2.00% | ~3 |
+| Overpopulation | 2.00% | ~3 |
+| Reconquest | 2.00% | ~3 |
+| Winter Soldier | 2.00% | ~3 |
+| Researcher | 2.00% | ~3 |
 | Economist | 0.80% | ~1 |
 | Crisis Committee | 0.80% | ~1 |
 | Training Camp | 0.80% | ~1 |
@@ -49,7 +49,7 @@
 | Against Adversity | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125 (Ranked 306)  
+Progressed: 126 (Ranked 306)  
 Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,3 +69,4 @@ Completed: 0 (0.00%) (Ranked 248)
 | 2023-08-02 | 118 | 0 |
 | 2023-08-03 | 121 | 0 |
 | 2023-08-04 | 125 | 0 |
+| 2023-08-05 | 126 | 0 |

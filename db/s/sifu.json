@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 91,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5544,9 +5544,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 712173,
+  "EOS_Progressed": 712174,
   "EOS_Completed": 12844,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -15679,6 +15679,11 @@
       "Time": "2023-08-04T23:03:13.4646154+00:00",
       "NumProgressed": 712173,
       "NumCompleted": 12844
+    },
+    {
+      "Time": "2023-08-05T00:02:12.3583279+00:00",
+      "NumProgressed": 712174,
+      "NumCompleted": 12844
     }
   ],
   "TotalAchievements": 50,
@@ -16042,7 +16047,7 @@
       "Name": "Bloody Sport",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -16089,21 +16094,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21474,
+      "Progressed": 21475,
       "Completed": 10483
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712173,
+      "Progressed": 712174,
       "Completed": 12844
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-04T21:59:32.9587803+00:00",
-  "LastChanged_Achievements": "2023-08-04T23:03:13.4646148+00:00",
+  "LastChanged_Achievements": "2023-08-05T00:02:12.3583271+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:51.4583284+00:00",
-  "LastUpdate_Ratings": "2023-08-04T22:59:59.0686304+00:00",
-  "LastUpdate_Achievements": "2023-08-04T23:03:13.4647442+00:00"
+  "LastUpdate_Ratings": "2023-08-04T23:59:43.7748129+00:00",
+  "LastUpdate_Achievements": "2023-08-05T00:02:12.3584837+00:00"
 }

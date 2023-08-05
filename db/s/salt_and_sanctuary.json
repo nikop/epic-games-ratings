@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2445,9 +2445,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 529609,
+  "EOS_Progressed": 529610,
   "EOS_Completed": 1495,
-  "EOS_NewPlayers": 685,
+  "EOS_NewPlayers": 686,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -13805,6 +13805,11 @@
       "Time": "2023-08-04T23:04:21.2101379+00:00",
       "NumProgressed": 529609,
       "NumCompleted": 1495
+    },
+    {
+      "Time": "2023-08-05T00:03:51.109236+00:00",
+      "NumProgressed": 529610,
+      "NumCompleted": 1495
     }
   ],
   "TotalAchievements": 37,
@@ -13872,7 +13877,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 439575
+      "UsersEstimate": 439576
     },
     {
       "ID": "HONED",
@@ -14088,7 +14093,7 @@
       "Name": "The Village",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 84737
+      "UsersEstimate": 84738
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -14111,15 +14116,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 529609,
+      "Progressed": 529610,
       "Completed": 1495
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-08-04T16:01:14.9488322+00:00",
-  "LastChanged_Achievements": "2023-08-04T23:04:21.2101371+00:00",
+  "LastChanged_Achievements": "2023-08-05T00:03:51.1092354+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:06.7588581+00:00",
-  "LastUpdate_Ratings": "2023-08-04T23:00:25.1732061+00:00",
-  "LastUpdate_Achievements": "2023-08-04T23:04:21.2102786+00:00"
+  "LastUpdate_Ratings": "2023-08-05T00:00:10.6010461+00:00",
+  "LastUpdate_Achievements": "2023-08-05T00:03:51.1093857+00:00"
 }

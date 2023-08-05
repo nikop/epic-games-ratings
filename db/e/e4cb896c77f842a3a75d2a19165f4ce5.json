@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 358,
+  "EOS_Progressed": 359,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.07,
+  "EOS_Completed_Percentage": 3.06,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -961,6 +961,11 @@
       "Time": "2023-08-04T21:06:41.1593708+00:00",
       "NumProgressed": 358,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-08-05T00:05:57.6602136+00:00",
+      "NumProgressed": 359,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 11,
@@ -972,7 +977,7 @@
       "Name": "Pit-house",
       "Percentage": 95,
       "XP": 45,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "LEVEL_003",
@@ -980,7 +985,7 @@
       "Name": "Smith house",
       "Percentage": 86,
       "XP": 45,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "LEVEL_004",
@@ -988,7 +993,7 @@
       "Name": "Two-story house",
       "Percentage": 73,
       "XP": 45,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "LEVEL_006",
@@ -1004,7 +1009,7 @@
       "Name": "Poultry house",
       "Percentage": 28,
       "XP": 95,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "LEVEL_017",
@@ -1059,14 +1064,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 358,
+      "Progressed": 359,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-08-04T23:06:24.9235214+00:00",
+  "LastChanged_Achievements": "2023-08-05T00:05:57.660213+00:00",
   "LastUpdate_AppInfo": "2023-07-31T17:57:13.9336019+00:00",
-  "LastUpdate_Ratings": "2023-08-04T22:57:54.6355444+00:00",
-  "LastUpdate_Achievements": "2023-08-04T23:06:24.9235399+00:00"
+  "LastUpdate_Ratings": "2023-08-04T23:57:36.2425223+00:00",
+  "LastUpdate_Achievements": "2023-08-05T00:05:57.6602297+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1341,9 +1341,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22815,
+  "EOS_Progressed": 22816,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6531,6 +6531,11 @@
       "Time": "2023-08-04T23:04:56.2736268+00:00",
       "NumProgressed": 22815,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-08-05T00:04:27.5257717+00:00",
+      "NumProgressed": 22816,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -6620,9 +6625,9 @@
       "ID": "BossCastleDefeated",
       "SetID": "3ojhj46",
       "Name": "Spells and Swords",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 684
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -6853,21 +6858,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22815,
+      "Progressed": 22816,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1745,
+      "Progressed": 1746,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-07-31T16:00:32.8962634+00:00",
-  "LastChanged_Achievements": "2023-08-04T23:04:56.2736263+00:00",
+  "LastChanged_Achievements": "2023-08-05T00:04:27.5257712+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:59:01.3820252+00:00",
-  "LastUpdate_Ratings": "2023-08-04T23:00:10.0285138+00:00",
-  "LastUpdate_Achievements": "2023-08-04T23:04:56.2737+00:00"
+  "LastUpdate_Ratings": "2023-08-04T23:59:54.0250322+00:00",
+  "LastUpdate_Achievements": "2023-08-05T00:04:27.5258547+00:00"
 }

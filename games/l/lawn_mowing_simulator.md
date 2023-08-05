@@ -6,27 +6,27 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 81.00% | ~527,019 |
-| Every story has a beginning | 36.00% | ~234,231 |
-| The first of many | 32.00% | ~208,205 |
-| Positive word of mouth | 18.00% | ~117,115 |
-| Lawn in the U.S.A. | 15.00% | ~97,596 |
-| Blade Runner | 9.00% | ~58,558 |
-| Credible | 7.00% | ~45,545 |
-| Teamwork makes the dream work | 6.00% | ~39,038 |
+| The dream begins | 81.00% | ~527,036 |
+| Every story has a beginning | 36.00% | ~234,238 |
+| The first of many | 32.00% | ~208,212 |
+| Positive word of mouth | 18.00% | ~117,119 |
+| Lawn in the U.S.A. | 15.00% | ~97,599 |
+| Blade Runner | 9.00% | ~58,560 |
+| Credible | 7.00% | ~45,546 |
+| Teamwork makes the dream work | 6.00% | ~39,040 |
 | Where there's muck there's brass | 4.00% | ~26,026 |
 | Bigger and better | 4.00% | ~26,026 |
 | Aggressive expansion | 4.00% | ~26,026 |
-| Size isn't everything | 3.00% | ~19,519 |
-| Close shave | 3.00% | ~19,519 |
-| Established | 3.00% | ~19,519 |
+| Size isn't everything | 3.00% | ~19,520 |
+| Close shave | 3.00% | ~19,520 |
+| Established | 3.00% | ~19,520 |
 | Fighting on all fronts | 2.00% | ~13,013 |
 | Mighty Mowing Park Ranger | 2.00% | ~13,013 |
 | Every good deed… | 2.00% | ~13,013 |
 | Leaner and meaner | 2.00% | ~13,013 |
 | First step on the ladder | 2.00% | ~13,013 |
 | Trusted | 2.00% | ~13,013 |
-| The top of the mountain | 1.00% | ~6,506 |
+| The top of the mountain | 1.00% | ~6,507 |
 | Earn your stripes | 0.90% | ~5,856 |
 | Lawn & Order | 0.90% | ~5,856 |
 | Jack of all trades | 0.90% | ~5,856 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~651 |
 | Mo mowers, mo problems | 0.10% | ~651 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 650,641 (Ranked 23)  
+Progressed: 650,662 (Ranked 23)  
 Completed: 15 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,6 +168,7 @@ Completed: 15 (0.00%) (Ranked 248)
 | 2023-08-02 | 649,885 | 15 |
 | 2023-08-03 | 650,256 | 15 |
 | 2023-08-04 | 650,641 | 15 |
+| 2023-08-05 | 650,662 | 15 |
 ## Awards
 Max (Quickly Understood Controls): 181  (Ranked 281)  
 Sum: 971 (Ranked 237)  

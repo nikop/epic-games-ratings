@@ -17,6 +17,7 @@ Rating: 4.87 (Ranked 24)
 | Perfect Parry | 4.00% | ~149 |
 | Uh, they were broken when I got here | 4.00% | ~149 |
 | Alright, that felt AWESOME! | 4.00% | ~149 |
+| Does that say weakpoint? | 4.00% | ~149 |
 | NOW we got a kickass hideout! | 4.00% | ~90 |
 | The Negotiator | 3.00% | ~112 |
 | Headliner | 3.00% | ~112 |
@@ -29,7 +30,6 @@ Rating: 4.87 (Ranked 24)
 | Perfecter Parry-er! | 3.00% | ~112 |
 | Kissing the sky! | 3.00% | ~112 |
 | I look cool. But I can look COOLER. | 3.00% | ~112 |
-| Does that say weakpoint? | 3.00% | ~112 |
 | Well that was a rush! | 2.00% | ~75 |
 | I have to read these things? | 2.00% | ~75 |
 | Beat-hit mania | 2.00% | ~75 |

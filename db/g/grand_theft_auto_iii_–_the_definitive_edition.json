@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -412,7 +412,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7425,
+  "EOS_Progressed": 7426,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 1,
@@ -6942,6 +6942,11 @@
       "Time": "2023-08-04T22:05:49.7997747+00:00",
       "NumProgressed": 7425,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-05T00:05:54.7705006+00:00",
+      "NumProgressed": 7426,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 29,
@@ -6953,7 +6958,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6163
+      "UsersEstimate": 6164
     },
     {
       "ID": "ACH02",
@@ -6961,7 +6966,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2450
+      "UsersEstimate": 2451
     },
     {
       "ID": "ACH03",
@@ -6985,7 +6990,7 @@
       "Name": "Mob Boss",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH06",
@@ -6993,7 +6998,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "ACH07",
@@ -7017,7 +7022,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "ACH10",
@@ -7089,7 +7094,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "ACH19",
@@ -7113,7 +7118,7 @@
       "Name": "Splish Splash",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH22",
@@ -7145,7 +7150,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "ACH26",
@@ -7161,7 +7166,7 @@
       "Name": "Liberty City Secrets",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH28",
@@ -7184,7 +7189,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7425,
+      "Progressed": 7426,
       "Completed": 42
     }
   ],
@@ -7192,8 +7197,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-04T02:58:57.5803366+00:00",
-  "LastChanged_Achievements": "2023-08-04T23:06:22.0641789+00:00",
+  "LastChanged_Achievements": "2023-08-05T00:05:54.7705+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:45.6186895+00:00",
-  "LastUpdate_Ratings": "2023-08-04T22:58:46.7564622+00:00",
-  "LastUpdate_Achievements": "2023-08-04T23:06:22.0642629+00:00"
+  "LastUpdate_Ratings": "2023-08-04T23:58:31.4180411+00:00",
+  "LastUpdate_Achievements": "2023-08-05T00:05:54.7706019+00:00"
 }

@@ -6,64 +6,64 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~224,421 |
-| Uncharted Territory | 89.00% | ~208,057 |
-| Getting A Glimpse | 73.00% | ~170,654 |
-| A Quick Escape | 65.00% | ~151,952 |
-| Explorer | 62.00% | ~144,939 |
-| Defeat The Dark | 61.00% | ~142,601 |
-| An Offering | 61.00% | ~142,601 |
-| Colorful Corpse | 58.00% | ~135,588 |
-| That Was Quick | 56.00% | ~130,912 |
-| A Donation | 56.00% | ~130,912 |
-| Goodbye, Frog Friend | 54.00% | ~126,237 |
-| Heavy Hitter | 53.00% | ~123,899 |
-| Heartless | 46.00% | ~107,535 |
-| Spine Breaker | 46.00% | ~107,535 |
-| Deflection | 45.00% | ~105,197 |
-| Sneaky | 43.00% | ~100,522 |
-| Delving Deeper | 42.00% | ~98,184 |
-| C-C-Combo | 42.00% | ~98,184 |
-| Ambitious Intent | 41.00% | ~95,847 |
-| Nothing To Lose | 40.00% | ~93,509 |
-| The Bestiary | 40.00% | ~93,509 |
-| What's Yours Is Mine | 38.00% | ~88,833 |
-| R.I.P | 36.00% | ~84,158 |
-| Shootout | 36.00% | ~84,158 |
-| I Am Overburdened | 35.00% | ~81,820 |
-| Cold Hearted | 34.00% | ~79,482 |
-| Dig Your Own Grave | 33.00% | ~77,145 |
-| Toxic | 33.00% | ~77,145 |
-| Who To Trust? | 32.00% | ~74,807 |
-| Flesh Wound | 29.00% | ~67,794 |
-| Stone Touch | 28.00% | ~65,456 |
-| Shadow Walker | 28.00% | ~65,456 |
-| Walk It Off | 27.00% | ~63,118 |
-| Acid Bath | 27.00% | ~63,118 |
-| New Perspectives | 27.00% | ~63,118 |
-| Shapeshifting | 27.00% | ~63,118 |
-| Consecutive Curses | 26.00% | ~60,781 |
-| Destroy Your Fears | 26.00% | ~60,781 |
-| Save Our Souls | 25.00% | ~58,443 |
-| To The Death! | 20.00% | ~46,754 |
-| Well Prepared | 20.00% | ~46,754 |
-| Just Chilling | 20.00% | ~46,754 |
+| First Steps | 96.00% | ~224,424 |
+| Uncharted Territory | 89.00% | ~208,060 |
+| Getting A Glimpse | 73.00% | ~170,656 |
+| A Quick Escape | 65.00% | ~151,954 |
+| Explorer | 62.00% | ~144,940 |
+| Defeat The Dark | 61.00% | ~142,603 |
+| An Offering | 61.00% | ~142,603 |
+| Colorful Corpse | 58.00% | ~135,590 |
+| That Was Quick | 56.00% | ~130,914 |
+| A Donation | 56.00% | ~130,914 |
+| Goodbye, Frog Friend | 54.00% | ~126,239 |
+| Heavy Hitter | 53.00% | ~123,901 |
+| Heartless | 46.00% | ~107,536 |
+| Spine Breaker | 46.00% | ~107,536 |
+| Deflection | 45.00% | ~105,199 |
+| Sneaky | 43.00% | ~100,523 |
+| Delving Deeper | 42.00% | ~98,186 |
+| C-C-Combo | 42.00% | ~98,186 |
+| Ambitious Intent | 41.00% | ~95,848 |
+| Nothing To Lose | 40.00% | ~93,510 |
+| The Bestiary | 40.00% | ~93,510 |
+| What's Yours Is Mine | 38.00% | ~88,834 |
+| R.I.P | 36.00% | ~84,159 |
+| Shootout | 36.00% | ~84,159 |
+| I Am Overburdened | 35.00% | ~81,821 |
+| Cold Hearted | 34.00% | ~79,484 |
+| Dig Your Own Grave | 33.00% | ~77,146 |
+| Toxic | 33.00% | ~77,146 |
+| Who To Trust? | 32.00% | ~74,808 |
+| Flesh Wound | 29.00% | ~67,795 |
+| Stone Touch | 28.00% | ~65,457 |
+| Shadow Walker | 28.00% | ~65,457 |
+| Walk It Off | 27.00% | ~63,119 |
+| Acid Bath | 27.00% | ~63,119 |
+| New Perspectives | 27.00% | ~63,119 |
+| Shapeshifting | 27.00% | ~63,119 |
+| Consecutive Curses | 26.00% | ~60,782 |
+| Destroy Your Fears | 26.00% | ~60,782 |
+| Save Our Souls | 25.00% | ~58,444 |
+| To The Death! | 20.00% | ~46,755 |
+| Well Prepared | 20.00% | ~46,755 |
+| Just Chilling | 20.00% | ~46,755 |
 | Stop Hitting Yourself | 19.00% | ~44,417 |
-| All Consuming | 18.00% | ~42,079 |
-| Shadow Spreads | 17.00% | ~39,741 |
-| Don't Ignore Me! | 17.00% | ~39,741 |
-| Illuminate, Eliminate | 17.00% | ~39,741 |
+| All Consuming | 18.00% | ~42,080 |
+| Shadow Spreads | 17.00% | ~39,742 |
+| Don't Ignore Me! | 17.00% | ~39,742 |
+| Illuminate, Eliminate | 17.00% | ~39,742 |
 | Max Damage! | 16.00% | ~37,404 |
 | Doing Time | 16.00% | ~37,404 |
 | Spreading Plague | 15.00% | ~35,066 |
-| The Long Run | 14.00% | ~32,728 |
-| A Rough Road | 13.00% | ~30,390 |
-| Chain Reaction | 13.00% | ~30,390 |
+| The Long Run | 14.00% | ~32,729 |
+| A Rough Road | 13.00% | ~30,391 |
+| Chain Reaction | 13.00% | ~30,391 |
 | Berzerker | 12.00% | ~28,053 |
 | Antivenom | 12.00% | ~28,053 |
 | Thank You, Friend | 11.00% | ~25,715 |
-| Barbecue | 10.00% | ~23,377 |
-| Snake Sneak | 9.00% | ~21,039 |
+| Barbecue | 10.00% | ~23,378 |
+| Snake Sneak | 9.00% | ~21,040 |
 | Challenge Increases | 8.00% | ~18,702 |
 | New Game+ | 8.00% | ~18,702 |
 | Clearing The Room | 8.00% | ~18,702 |
@@ -102,13 +102,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Overthrown | 3.00% | ~7,013 |
 | Illuminate, Annihilate | 3.00% | ~7,013 |
 | Masochist | 3.00% | ~7,013 |
-| Poor Choices | 2.00% | ~4,675 |
-| Not What I Meant | 2.00% | ~4,675 |
-| A Rock And A Hard Place | 2.00% | ~4,675 |
-| Sprinter | 2.00% | ~4,675 |
-| The Tickler | 2.00% | ~4,675 |
-| Minimalist | 2.00% | ~4,675 |
-| Quick To Pick | 2.00% | ~4,675 |
+| Poor Choices | 2.00% | ~4,676 |
+| Not What I Meant | 2.00% | ~4,676 |
+| A Rock And A Hard Place | 2.00% | ~4,676 |
+| Sprinter | 2.00% | ~4,676 |
+| The Tickler | 2.00% | ~4,676 |
+| Minimalist | 2.00% | ~4,676 |
+| Quick To Pick | 2.00% | ~4,676 |
 | Hanging On | 1.00% | ~2,338 |
 | For Science | 1.00% | ~2,338 |
 | Good Boys | 1.00% | ~2,338 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~935 |
 | Near Death Experience | 0.30% | ~701 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,772 (Ranked 49)  
+Progressed: 233,775 (Ranked 49)  
 Completed: 256 (0.11%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,9 +236,10 @@ Completed: 256 (0.11%) (Ranked 193)
 | 2023-08-02 | 233,653 | 255 |
 | 2023-08-03 | 233,704 | 256 |
 | 2023-08-04 | 233,772 | 256 |
+| 2023-08-05 | 233,775 | 256 |
 ## Awards
 Max (Quickly Understood Controls): 1,487  (Ranked 121)  
-Sum: 11,512 (Ranked 78)  
+Sum: 11,513 (Ranked 78)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -247,7 +248,7 @@ Diff (max vs sum): 43
 | This game is Relaxing | 1,418 |
 | This game has Challenging Combat | 1,404 |
 | This game is Extremely Fun | 1,399 |
-| This game is Highly Recommended | 1,356 |
+| This game is Highly Recommended | 1,357 |
 | This game has Amazing Storytelling | 1,307 |
 | This game has Amazing Characters | 1,212 |
 | This game has Unique Visuals | 1,198 |
@@ -387,3 +388,4 @@ Diff (max vs sum): 43
 | 2023-08-01 | 4.58 | - | 1,487 | 11,509 |
 | 2023-08-03 | 4.58 | - | 1,487 | 11,510 |
 | 2023-08-04 | 4.58 | - | 1,487 | 11,512 |
+| 2023-08-05 | 4.58 | - | 1,487 | 11,513 |

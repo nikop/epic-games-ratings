@@ -6,8 +6,8 @@ Rating: 4.55 (Ranked 485)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 24.00% | ~724 |
-| Infinite Growth... | 21.00% | ~633 |
-| Sputnik 2049 | 21.00% | ~633 |
+| Infinite Growth... | 21.00% | ~634 |
+| Sputnik 2049 | 21.00% | ~634 |
 | Without Breaking Some Eggs... | 20.00% | ~603 |
 | Space Society | 14.00% | ~422 |
 | A Thousand Strong | 14.00% | ~422 |
@@ -18,8 +18,8 @@ Rating: 4.55 (Ranked 485)
 | The Ship of Theseus | 11.00% | ~332 |
 | Guy de Borderlands | 10.00% | ~302 |
 | Hope Seeker | 10.00% | ~302 |
-| Exceeding Capacity | 9.00% | ~271 |
-| Breaking Protocol | 9.00% | ~271 |
+| Exceeding Capacity | 9.00% | ~272 |
+| Breaking Protocol | 9.00% | ~272 |
 | A Hunk of Junk | 8.00% | ~241 |
 | Man's Best Friend | 6.00% | ~181 |
 | Power Outage | 6.00% | ~181 |
@@ -34,8 +34,8 @@ Rating: 4.55 (Ranked 485)
 | BRAWL! | 4.00% | ~121 |
 | All in Good Health | 4.00% | ~121 |
 | What the Ruins Teach Us | 4.00% | ~121 |
-| ...  in a finite world | 3.00% | ~90 |
-| Sustainable Energy | 3.00% | ~90 |
+| ...  in a finite world | 3.00% | ~91 |
+| Sustainable Energy | 3.00% | ~91 |
 | In Dolos We Trust | 2.00% | ~60 |
 | Praise the Hull! | 2.00% | ~60 |
 | Space Greenhouse | 2.00% | ~60 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 485)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,016 (Ranked 157)  
+Progressed: 3,017 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,6 +170,7 @@ Completed: 0 (0.00%) (Ranked 248)
 | 2023-08-02 | 3,005 | 0 |
 | 2023-08-03 | 3,011 | 0 |
 | 2023-08-04 | 3,016 | 0 |
+| 2023-08-05 | 3,017 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

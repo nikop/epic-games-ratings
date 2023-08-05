@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2864,9 +2864,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 50016,
+  "EOS_Progressed": 50017,
   "EOS_Completed": 217,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -9704,6 +9704,11 @@
       "Time": "2023-08-04T20:03:16.1068123+00:00",
       "NumProgressed": 50016,
       "NumCompleted": 217
+    },
+    {
+      "Time": "2023-08-05T00:03:10.789175+00:00",
+      "NumProgressed": 50017,
+      "NumCompleted": 217
     }
   ],
   "TotalAchievements": 45,
@@ -9723,7 +9728,7 @@
       "Name": "\u0027\u0027You may fire when ready\u0027\u0027",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "COLLECT_EVERY_DATACARD",
@@ -9731,7 +9736,7 @@
       "Name": "\u0027\u0027What have you done with those plans?\u0027\u0027",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "COMBAT_MULTIPLIER_OF_30",
@@ -9771,7 +9776,7 @@
       "Name": "\u0027\u0027GONK!\u0027\u0027",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "COMPLETE_ALL_HUB_RACES",
@@ -9827,7 +9832,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29509
+      "UsersEstimate": 29510
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -9843,7 +9848,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 20006
+      "UsersEstimate": 20007
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -9875,7 +9880,7 @@
       "Name": "The Force Awakens",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 13504
+      "UsersEstimate": 13505
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -9899,7 +9904,7 @@
       "Name": "\u0027\u0027Hey, what are you trying to push on us?\u0027\u0027",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "COMPLETE_FLIGHT_LEVEL_WITHOUT_DYING",
@@ -9907,7 +9912,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28509
+      "UsersEstimate": 28510
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -9931,7 +9936,7 @@
       "Name": "The Slice",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "COMPLETE_SKYWALKER_SAGA",
@@ -9955,7 +9960,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 29009
+      "UsersEstimate": 29010
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -10051,7 +10056,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 26508
+      "UsersEstimate": 26509
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -10074,15 +10079,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 50016,
+      "Progressed": 50017,
       "Completed": 217
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-08-04T20:57:15.1804186+00:00",
-  "LastChanged_Achievements": "2023-08-04T23:03:41.2511393+00:00",
+  "LastChanged_Achievements": "2023-08-05T00:03:10.7891743+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:56:55.9032562+00:00",
-  "LastUpdate_Ratings": "2023-08-04T22:57:24.5876838+00:00",
-  "LastUpdate_Achievements": "2023-08-04T23:03:41.2512247+00:00"
+  "LastUpdate_Ratings": "2023-08-04T23:57:05.8389991+00:00",
+  "LastUpdate_Achievements": "2023-08-05T00:03:10.7893571+00:00"
 }

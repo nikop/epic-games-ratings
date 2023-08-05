@@ -231,9 +231,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 198228,
+  "EOS_Progressed": 198232,
   "EOS_Completed": 475,
-  "EOS_NewPlayers": 634,
+  "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -11576,6 +11576,11 @@
       "Time": "2023-08-04T23:03:30.9624556+00:00",
       "NumProgressed": 198228,
       "NumCompleted": 475
+    },
+    {
+      "Time": "2023-08-05T00:02:30.0651413+00:00",
+      "NumProgressed": 198232,
+      "NumCompleted": 475
     }
   ],
   "TotalAchievements": 29,
@@ -11611,7 +11616,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 186334
+      "UsersEstimate": 186338
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -11667,7 +11672,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9911
+      "UsersEstimate": 9912
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -11747,7 +11752,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9911
+      "UsersEstimate": 9912
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -11818,7 +11823,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 198228,
+      "Progressed": 198232,
       "Completed": 475
     }
   ],
@@ -11826,8 +11831,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-07-27T20:00:18.65769+00:00",
-  "LastChanged_Achievements": "2023-08-04T23:03:30.9624549+00:00",
+  "LastChanged_Achievements": "2023-08-05T00:02:30.0651408+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:58:42.5561818+00:00",
-  "LastUpdate_Ratings": "2023-08-04T22:59:52.8542674+00:00",
-  "LastUpdate_Achievements": "2023-08-04T23:03:30.9625894+00:00"
+  "LastUpdate_Ratings": "2023-08-04T23:59:37.2493464+00:00",
+  "LastUpdate_Achievements": "2023-08-05T00:02:30.0652936+00:00"
 }
