@@ -16,7 +16,7 @@
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 509 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 425 | 205 |
 | 12 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 509 |
-| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,388 | 20 |
+| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,413 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 305 |
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 278 | 241 |
 | 18 | [God of War](games/g/god_of_war.md) | 4.88 | 4,186 | 77 |
@@ -650,7 +650,7 @@
 | 647 | [ELEX](games/e/elex.md) | 4.44 | 24 | 481 |
 | 647 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 509 |
 | 647 | [Good Company](games/g/good_company.md) | 4.44 | 0 | 509 |
-| 647 | [SMITE](games/s/smite.md) | 4.44 | 4,118 | 78 |
+| 647 | [SMITE](games/s/smite.md) | 4.44 | 4,123 | 78 |
 | 647 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 569 | 182 |
 | 647 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 509 |
 | 647 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 339 |
