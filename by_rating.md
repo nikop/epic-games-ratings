@@ -73,7 +73,7 @@
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 446 |
 | 66 | [Huntdown](games/h/huntdown.md) | 4.82 | 0 | 509 |
 | 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,639 | 95 |
-| 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,339 | 54 |
+| 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,343 | 54 |
 | 66 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 397 | 213 |
 | 76 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 421 | 206 |
 | 76 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 229 | 259 |
@@ -150,7 +150,7 @@
 | 147 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 802 | 153 |
 | 147 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 5,995 | 56 |
 | 147 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 650 | 172 |
-| 147 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,895 | 48 |
+| 147 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,899 | 48 |
 | 147 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 509 |
 | 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 35,590 | 14 |
 | 147 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 509 |
@@ -537,7 +537,7 @@
 | 527 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 122 | 314 |
 | 527 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,382 | 126 |
 | 527 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 509 |
-| 527 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 293 | 237 |
+| 527 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 294 | 237 |
 | 527 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.52 | 0 | 509 |
 | 527 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 0 | 509 |
 | 527 | [Verdun](games/v/verdun.md) | 4.52 | 96 | 341 |
@@ -585,7 +585,7 @@
 | 576 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 246 | 252 |
 | 576 | [Maneater](games/m/maneater.md) | 4.49 | 13,610 | 26 |
 | 576 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 451 |
-| 576 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 493,580 | 2 |
+| 576 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 494,558 | 2 |
 | 576 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 358 |
 | 576 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 509 |
 | 576 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 509 |
@@ -916,7 +916,7 @@
 | 914 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.06 | 0 | 509 |
 | 914 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 509 |
 | 916 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 509 |
-| 916 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 5,116 | 67 |
+| 916 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 5,119 | 67 |
 | 916 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 456 | 202 |
 | 919 | [Banished](games/b/banished.md) | 4.04 | 0 | 509 |
 | 919 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 509 |

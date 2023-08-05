@@ -20,10 +20,10 @@
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.33% |
 | 20 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
-| 20 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 11.11% |
-| 22 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 10.81% |
-| 23 | [Remains](games/r/remains.md) | 10.64% |
-| 24 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.61% |
+| 21 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 10.81% |
+| 22 | [Remains](games/r/remains.md) | 10.64% |
+| 23 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.61% |
+| 24 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.53% |
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 26 | [Sonic Origins](games/s/sonic_origins.md) | 10.00% |
@@ -34,13 +34,13 @@
 | 32 | [Smelter](games/s/smelter.md) | 7.69% |
 | 33 | [Ravenlok](games/r/ravenlok.md) | 7.34% |
 | 34 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.14% |
-| 35 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.04% |
-| 36 | [Time Loader](games/t/time_loader.md) | 6.96% |
-| 37 | [Scorn](games/s/scorn.md) | 6.93% |
+| 35 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.03% |
+| 36 | [Scorn](games/s/scorn.md) | 6.93% |
+| 37 | [Time Loader](games/t/time_loader.md) | 6.90% |
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 40 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 6.03% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.03% |
+| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.01% |
 | 42 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
 | 43 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
 | 44 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.00% |
@@ -64,7 +64,7 @@
 | 62 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.23% |
 | 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.12% |
 | 64 | [The Complex](games/t/the_complex.md) | 3.04% |
-| 65 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.03% |
+| 65 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.02% |
 | 66 | [Monster Harvest](games/m/monster_harvest.md) | 2.96% |
 | 67 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 68 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.88% |
@@ -109,8 +109,8 @@
 | 106 | [Trifox](games/t/trifox.md) | 1.11% |
 | 108 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.05% |
 | 109 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.03% |
-| 110 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
 | 110 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.02% |
+| 111 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
 | 112 | [Adios](games/a/adios.md) | 1.00% |
 | 113 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 113 | [Sable](games/s/sable.md) | 0.98% |
