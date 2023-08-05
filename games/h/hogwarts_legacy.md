@@ -6,52 +6,52 @@ Rating: 4.77 (Ranked 109)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 12.00% | ~34,734 |
-| First Class Student | 11.00% | ~31,839 |
-| Troll with the Punches | 11.00% | ~31,839 |
+| First Class Student | 11.00% | ~31,840 |
+| Troll with the Punches | 11.00% | ~31,840 |
 | A Keen Sense of Spell | 10.00% | ~28,945 |
 | That's a Keeper | 10.00% | ~28,945 |
-| Grappling with a Graphorn | 9.00% | ~26,050 |
-| The One Who Mastered Memories | 9.00% | ~26,050 |
-| The Hallowed Hero | 9.00% | ~26,050 |
-| The Hero of Hogwarts | 9.00% | ~26,050 |
-| The Defender of Dragons | 9.00% | ~26,050 |
-| Loom for Improvement | 9.00% | ~26,050 |
-| A Talent for Spending | 9.00% | ~26,050 |
-| Coasting Along | 9.00% | ~26,050 |
+| Grappling with a Graphorn | 9.00% | ~26,051 |
+| The One Who Mastered Memories | 9.00% | ~26,051 |
+| The Hallowed Hero | 9.00% | ~26,051 |
+| The Hero of Hogwarts | 9.00% | ~26,051 |
+| The Defender of Dragons | 9.00% | ~26,051 |
+| Loom for Improvement | 9.00% | ~26,051 |
+| A Talent for Spending | 9.00% | ~26,051 |
+| Coasting Along | 9.00% | ~26,051 |
 | Challenge Accepted | 8.00% | ~23,156 |
 | Followed the Butterflies | 8.00% | ~23,156 |
 | Rising From the Ashes | 8.00% | ~23,156 |
-| The Avenging Gazelle | 7.00% | ~20,261 |
-| A Sallow Grave | 7.00% | ~20,261 |
-| Flight the Good Flight | 7.00% | ~20,261 |
-| The Spell Master | 7.00% | ~20,261 |
+| The Avenging Gazelle | 7.00% | ~20,262 |
+| A Sallow Grave | 7.00% | ~20,262 |
+| Flight the Good Flight | 7.00% | ~20,262 |
+| The Spell Master | 7.00% | ~20,262 |
 | Beast Friends | 6.00% | ~17,367 |
-| The Seeker of Knowledge | 5.00% | ~14,472 |
-| The Root of the Problem | 5.00% | ~14,472 |
-| Third Time's a Charm | 5.00% | ~14,472 |
-| Raising Expectations | 5.00% | ~14,472 |
+| The Seeker of Knowledge | 5.00% | ~14,473 |
+| The Root of the Problem | 5.00% | ~14,473 |
+| Third Time's a Charm | 5.00% | ~14,473 |
+| Raising Expectations | 5.00% | ~14,473 |
 | The Toast of the Town | 4.00% | ~11,578 |
 | Room with a View | 4.00% | ~11,578 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,578 |
 | The Ends Petrify the Means | 4.00% | ~11,578 |
-| Going Through the Potions | 3.00% | ~8,683 |
-| Floo Around the World | 3.00% | ~8,683 |
-| The Intrepid Explorer | 3.00% | ~8,683 |
-| The Wise Owl | 3.00% | ~8,683 |
+| Going Through the Potions | 3.00% | ~8,684 |
+| Floo Around the World | 3.00% | ~8,684 |
+| The Intrepid Explorer | 3.00% | ~8,684 |
+| The Wise Owl | 3.00% | ~8,684 |
 | The Good Samaritan | 2.00% | ~5,789 |
 | Put Down Roots | 2.00% | ~5,789 |
 | The Auror's Apprentice | 2.00% | ~5,789 |
 | Rise to the Challenges | 2.00% | ~5,789 |
-| Savvy Spender | 1.00% | ~2,894 |
-| Demiguise Dread | 1.00% | ~2,894 |
-| Finishing Touches | 1.00% | ~2,894 |
-| A Forte for Achievement | 1.00% | ~2,894 |
+| Savvy Spender | 1.00% | ~2,895 |
+| Demiguise Dread | 1.00% | ~2,895 |
+| Finishing Touches | 1.00% | ~2,895 |
+| A Forte for Achievement | 1.00% | ~2,895 |
 | Merlin's Beard! | 0.80% | ~2,316 |
 | Spilled Milk | 0.70% | ~2,026 |
 | The Nature of the Beast | 0.60% | ~1,737 |
 | Collector's Edition | 0.30% | ~868 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,449 (Ranked 42)  
+Progressed: 289,453 (Ranked 42)  
 Completed: 442 (0.15%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,16 +158,16 @@ Completed: 442 (0.15%) (Ranked 185)
 | 2023-08-02 | 289,222 | 437 |
 | 2023-08-03 | 289,287 | 438 |
 | 2023-08-04 | 289,362 | 439 |
-| 2023-08-05 | 289,449 | 442 |
+| 2023-08-05 | 289,453 | 442 |
 ## Awards
 Max (Character Customization): 21,534  (Ranked 17)  
-Sum: 40,493 (Ranked 30)  
+Sum: 40,496 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,534 |
 | This game has Great Boss Battles | 10,378 |
-| This game is Great for Beginners | 952 |
+| This game is Great for Beginners | 955 |
 | This game is Extremely Fun | 933 |
 | This game is Relaxing | 930 |
 | This game has Amazing Storytelling | 916 |
@@ -314,4 +314,4 @@ Diff (max vs sum): -13
 | 2023-08-02 | 4.77 | 21,473 | 40,376 |
 | 2023-08-03 | 4.77 | 21,493 | 40,418 |
 | 2023-08-04 | 4.77 | 21,511 | 40,460 |
-| 2023-08-05 | 4.77 | 21,534 | 40,493 |
+| 2023-08-05 | 4.77 | 21,534 | 40,496 |

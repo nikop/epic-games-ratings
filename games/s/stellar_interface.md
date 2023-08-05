@@ -37,9 +37,11 @@
 | System Ensign | 5.00% | ~3 |
 | Rambo III | 5.00% | ~3 |
 | Hitchhiker | 5.00% | ~3 |
+| Omicron Theta | 5.00% | ~3 |
 | Omicron Beta | 5.00% | ~3 |
 | Hoarder | 5.00% | ~3 |
 | No Peace | 5.00% | ~3 |
+| Bird of Prey | 5.00% | ~3 |
 | Wicked Sick | 5.00% | ~3 |
 | 50Gb HDD | 5.00% | ~3 |
 | Sectoral Captain | 5.00% | ~3 |
@@ -47,15 +49,13 @@
 | Bronze Foundation | 3.00% | ~2 |
 | Bronze Pest Control | 3.00% | ~2 |
 | Cartridge Hoarder | 3.00% | ~2 |
+| Rambo IV | 3.00% | ~2 |
 | Curious | 3.00% | ~2 |
 | Pilgrim | 3.00% | ~2 |
 | Diligent | 3.00% | ~2 |
-| Omicron Theta | 3.00% | ~2 |
-| Bird of Prey | 3.00% | ~2 |
 | Silver Foundation | 3.00% | ~2 |
 | Revenge | 2.00% | ~1 |
 | Bronze BBQ | 2.00% | ~1 |
-| Rambo IV | 2.00% | ~1 |
 | Food Poisoning | 2.00% | ~1 |
 | Usurper II | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |

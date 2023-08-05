@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,761 |
+| A Brief Tour of the Realms | 4.00% | ~8,762 |
 | Beast Intentions | 3.00% | ~6,571 |
 | Maddening | 2.00% | ~4,381 |
 | The Silken Swamp | 1.00% | ~2,190 |
@@ -15,10 +15,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 1.00% | ~1,853 |
 | Rock and Roll | 1.00% | ~1,853 |
 | Flight of the Kindori Pod | 0.90% | ~1,668 |
-| Tall Tales | 0.80% | ~1,482 |
-| Seeds of Destruction | 0.80% | ~1,482 |
-| Vecna Loots! | 0.80% | ~1,482 |
-| Topolah's Tower | 0.80% | ~1,482 |
+| Tall Tales | 0.80% | ~1,483 |
+| Seeds of Destruction | 0.80% | ~1,483 |
+| Vecna Loots! | 0.80% | ~1,483 |
+| Topolah's Tower | 0.80% | ~1,483 |
 | Wet Feet | 0.70% | ~1,533 |
 | Return to the Tomb | 0.70% | ~1,297 |
 | Were-verpowered | 0.70% | ~1,533 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,029 (Ranked 53)  
+Progressed: 219,042 (Ranked 53)  
 Completed: 2,153 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,10 +626,10 @@ Completed: 2,153 (0.98%) (Ranked 113)
 | 2023-08-02 | 218,025 | 2,145 |
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
-| 2023-08-05 | 219,029 | 2,153 |
+| 2023-08-05 | 219,042 | 2,153 |
 ## Awards
 Max (Diverse Characters): 5,116  (Ranked 67)  
-Sum: 30,905 (Ranked 38)  
+Sum: 30,907 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -639,7 +639,7 @@ Diff (max vs sum): 29
 | This game is Relaxing | 4,595 |
 | This game has Amazing Characters | 4,055 |
 | This game is Highly Recommended | 4,032 |
-| This game has Playful Visuals | 3,341 |
+| This game has Playful Visuals | 3,343 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -834,4 +834,4 @@ Diff (max vs sum): 29
 | 2023-08-02 | 4.05 | - | 5,109 | 30,857 |
 | 2023-08-03 | 4.05 | - | 5,116 | 30,886 |
 | 2023-08-04 | 4.05 | - | 5,116 | 30,897 |
-| 2023-08-05 | 4.05 | - | 5,116 | 30,905 |
+| 2023-08-05 | 4.05 | - | 5,116 | 30,907 |

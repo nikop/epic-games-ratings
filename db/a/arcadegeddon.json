@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -763,9 +763,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 8396,
+  "EOS_Progressed": 8397,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7138,6 +7138,11 @@
       "Time": "2023-08-05T19:08:28.6795029+00:00",
       "NumProgressed": 8396,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-05T22:07:49.7239994+00:00",
+      "NumProgressed": 8397,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -7149,7 +7154,7 @@
       "Name": "Adventure Time",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6717
+      "UsersEstimate": 6718
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -7157,7 +7162,7 @@
       "Name": "Booty Bashing",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 3442
+      "UsersEstimate": 3443
     },
     {
       "ID": "ACH_BOSS_OF_BOSSES",
@@ -7165,7 +7170,7 @@
       "Name": "Boss of Bosses",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "ACH_CLIPS_AND_CRITS",
@@ -7205,7 +7210,7 @@
       "Name": "Field Medic",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 3190
+      "UsersEstimate": 3191
     },
     {
       "ID": "ACH_GET_FURIOUS",
@@ -7269,7 +7274,7 @@
       "Name": "Here Comes a New Challenger",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 3190
+      "UsersEstimate": 3191
     },
     {
       "ID": "ACH_IM_THE_PLUGGERNAUT",
@@ -7293,7 +7298,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 7640
+      "UsersEstimate": 7641
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -7317,7 +7322,7 @@
       "Name": "Meching Enemies",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 4114
+      "UsersEstimate": 4115
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -7349,7 +7354,7 @@
       "Name": "Photogenic",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 7388
+      "UsersEstimate": 7389
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -7357,7 +7362,7 @@
       "Name": "Playing With Power",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 6549
+      "UsersEstimate": 6550
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -7485,7 +7490,7 @@
       "Name": "The Final Blow",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "ACH_THE_FULL_MONTY",
@@ -7517,7 +7522,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3694
+      "UsersEstimate": 3695
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -7525,7 +7530,7 @@
       "Name": "To Be Continued",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "ACH_TREASURE_HUNTING",
@@ -7548,15 +7553,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 8396,
+      "Progressed": 8397,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-07-22T11:58:35.0651733+00:00",
-  "LastChanged_Achievements": "2023-08-05T21:07:04.1365805+00:00",
+  "LastChanged_Achievements": "2023-08-05T22:07:49.723999+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:18.4293252+00:00",
-  "LastUpdate_Ratings": "2023-08-05T20:59:13.0769189+00:00",
-  "LastUpdate_Achievements": "2023-08-05T21:07:04.1366659+00:00"
+  "LastUpdate_Ratings": "2023-08-05T21:59:44.219294+00:00",
+  "LastUpdate_Achievements": "2023-08-05T22:07:49.7240634+00:00"
 }

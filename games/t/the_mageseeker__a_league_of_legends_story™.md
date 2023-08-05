@@ -5,12 +5,12 @@ Rating: 4.81 (Ranked 76)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,403 |
-| No more cages! | 92.00% | ~2,303 |
-| Everfrost | 78.00% | ~1,952 |
-| Pentakill | 77.00% | ~1,927 |
-| Dark Forest | 77.00% | ~1,927 |
-| The use of petricite | 74.00% | ~1,852 |
+| For Demacia | 96.00% | ~2,404 |
+| No more cages! | 92.00% | ~2,304 |
+| Everfrost | 78.00% | ~1,953 |
+| Pentakill | 77.00% | ~1,928 |
+| Dark Forest | 77.00% | ~1,928 |
+| The use of petricite | 74.00% | ~1,853 |
 | You can pet the dog | 61.00% | ~1,527 |
 | Big Helmet Bro | 37.00% | ~926 |
 | Clarion Cove | 37.00% | ~926 |
@@ -34,15 +34,15 @@ Rating: 4.81 (Ranked 76)
 | Glyndemere | 20.00% | ~501 |
 | Whispers in the Woods II | 17.00% | ~426 |
 | Quickmoore Headquarters | 17.00% | ~426 |
-| No more holding back | 16.00% | ~400 |
-| Terbisia | 16.00% | ~400 |
-| Whispers in the Woods III | 15.00% | ~375 |
-| Friendly fire | 15.00% | ~375 |
-| True power | 15.00% | ~375 |
-| Meltridge | 15.00% | ~375 |
-| The Central Headquarters | 15.00% | ~375 |
-| My heart and sword always for Demacia | 14.00% | ~350 |
-| Cloven Dell Headquarters | 14.00% | ~350 |
+| No more holding back | 16.00% | ~401 |
+| Terbisia | 16.00% | ~401 |
+| Whispers in the Woods III | 15.00% | ~376 |
+| Friendly fire | 15.00% | ~376 |
+| True power | 15.00% | ~376 |
+| Meltridge | 15.00% | ~376 |
+| The Central Headquarters | 15.00% | ~376 |
+| My heart and sword always for Demacia | 14.00% | ~351 |
+| Cloven Dell Headquarters | 14.00% | ~351 |
 | Embrace the darkness | 12.00% | ~300 |
 | Whispers in the Woods IV | 12.00% | ~300 |
 | I smell fear | 12.00% | ~300 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 76)
 | Silverwing nest | 2.00% | ~50 |
 | The Unshackled | 0.80% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,503 (Ranked 161)  
+Progressed: 2,504 (Ranked 161)  
 Completed: 5 (0.20%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 5 (0.20%) (Ranked 175)
 | 2023-08-02 | 2,496 | 5 |
 | 2023-08-03 | 2,499 | 5 |
 | 2023-08-04 | 2,501 | 5 |
-| 2023-08-05 | 2,503 | 5 |
+| 2023-08-05 | 2,504 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

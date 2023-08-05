@@ -39,6 +39,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 1.00% | ~133 |
 | Poetic Leader | 1.00% | ~133 |
 | Magnificent | 0.90% | ~120 |
+| Wise | 0.90% | ~120 |
 | Strong Cities | 0.90% | ~120 |
 | Able Difficulty | 0.90% | ~120 |
 | Ishtar Gate | 0.90% | ~120 |
@@ -49,7 +50,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 0.80% | ~106 |
 | Fountainhead | 0.80% | ~106 |
 | Great | 0.80% | ~106 |
-| Wise | 0.80% | ~106 |
 | Artisans | 0.80% | ~106 |
 | Great Ziggurat | 0.80% | ~106 |
 | Necropolis | 0.80% | ~106 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1046,9 +1046,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 15817,
+  "EOS_Progressed": 15820,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -6251,6 +6251,11 @@
       "Time": "2023-08-05T19:04:23.3862016+00:00",
       "NumProgressed": 15817,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-08-05T22:03:46.8189768+00:00",
+      "NumProgressed": 15820,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 47,
@@ -6268,9 +6273,9 @@
       "ID": "ALL_WEAPONS_AND_UPGRADES",
       "SetID": "6j5ggkc",
       "Name": "Armed to the Teeth",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 19
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -6637,13 +6642,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15817,
+      "Progressed": 15820,
       "Completed": 71
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3743,
+      "Progressed": 3746,
       "Completed": 29
     }
   ],
@@ -6651,8 +6656,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-08-05T13:58:36.4364337+00:00",
-  "LastChanged_Achievements": "2023-08-05T21:03:36.4666931+00:00",
+  "LastChanged_Achievements": "2023-08-05T22:03:46.8189761+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:48.8250875+00:00",
-  "LastUpdate_Ratings": "2023-08-05T20:58:45.4654414+00:00",
-  "LastUpdate_Achievements": "2023-08-05T21:03:36.466766+00:00"
+  "LastUpdate_Ratings": "2023-08-05T21:59:09.0560575+00:00",
+  "LastUpdate_Achievements": "2023-08-05T22:03:46.8190353+00:00"
 }

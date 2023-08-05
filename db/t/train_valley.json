@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -848,9 +848,9 @@
       "ID": "02_collector",
       "SetID": "chb1m60",
       "Name": "Collector",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 180
     },
     {
       "ID": "03_philatelist",
@@ -968,9 +968,9 @@
       "ID": "17_builder",
       "SetID": "chb1m60",
       "Name": "Builder",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 227
     },
     {
       "ID": "18_foreman",
@@ -1160,8 +1160,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-05T18:00:22.7295334+00:00",
-  "LastChanged_Achievements": "2023-08-05T21:04:55.0025518+00:00",
+  "LastChanged_Achievements": "2023-08-05T22:05:24.7503085+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:23.250379+00:00",
-  "LastUpdate_Ratings": "2023-08-05T20:58:21.5619464+00:00",
-  "LastUpdate_Achievements": "2023-08-05T21:04:55.002586+00:00"
+  "LastUpdate_Ratings": "2023-08-05T21:58:41.2738065+00:00",
+  "LastUpdate_Achievements": "2023-08-05T22:05:24.7503353+00:00"
 }

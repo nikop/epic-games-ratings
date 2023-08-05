@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 52,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -2133,9 +2133,9 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 283
     },
     {
       "ID": "MQ03_5",
@@ -2165,9 +2165,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 289
+      "UsersEstimate": 294
     },
     {
       "ID": "MQ05_1",
@@ -2294,8 +2294,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-07-24T23:58:19.6744242+00:00",
-  "LastChanged_Achievements": "2023-08-05T21:07:07.5090767+00:00",
+  "LastChanged_Achievements": "2023-08-05T22:07:53.0853303+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:41.2332437+00:00",
-  "LastUpdate_Ratings": "2023-08-05T20:57:59.4262423+00:00",
-  "LastUpdate_Achievements": "2023-08-05T21:07:07.5091074+00:00"
+  "LastUpdate_Ratings": "2023-08-05T21:58:15.4138406+00:00",
+  "LastUpdate_Achievements": "2023-08-05T22:07:53.0853556+00:00"
 }

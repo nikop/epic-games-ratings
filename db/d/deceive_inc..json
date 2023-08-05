@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 31,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 33,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16979,
+  "EOS_Progressed": 16980,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2997,
+  "EOS_NewPlayers": 2854,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7429,6 +7429,11 @@
       "Time": "2023-08-05T21:04:16.511094+00:00",
       "NumProgressed": 16979,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-05T22:04:41.3093876+00:00",
+      "NumProgressed": 16980,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -7456,7 +7461,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2886
+      "UsersEstimate": 2887
     },
     {
       "ID": "0004",
@@ -7544,7 +7549,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2886
+      "UsersEstimate": 2887
     },
     {
       "ID": "0015",
@@ -7624,7 +7629,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3735
+      "UsersEstimate": 3736
     },
     {
       "ID": "0025",
@@ -7640,7 +7645,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2037
+      "UsersEstimate": 2038
     },
     {
       "ID": "0027",
@@ -7680,7 +7685,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2037
+      "UsersEstimate": 2038
     },
     {
       "ID": "0032",
@@ -7688,7 +7693,7 @@
       "Name": "Killer Looks",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2037
+      "UsersEstimate": 2038
     },
     {
       "ID": "0033",
@@ -7696,7 +7701,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2037
+      "UsersEstimate": 2038
     },
     {
       "ID": "0034",
@@ -7704,7 +7709,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2037
+      "UsersEstimate": 2038
     },
     {
       "ID": "0035",
@@ -7727,7 +7732,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 16979,
+      "Progressed": 16980,
       "Completed": 1
     }
   ],
@@ -7735,8 +7740,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-04T08:00:04.3199402+00:00",
-  "LastChanged_Achievements": "2023-08-05T21:04:16.511093+00:00",
+  "LastChanged_Achievements": "2023-08-05T22:04:41.3093871+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-05T21:00:34.4565943+00:00",
-  "LastUpdate_Achievements": "2023-08-05T21:04:16.5111725+00:00"
+  "LastUpdate_Ratings": "2023-08-05T22:01:19.9829098+00:00",
+  "LastUpdate_Achievements": "2023-08-05T22:04:41.3094471+00:00"
 }
