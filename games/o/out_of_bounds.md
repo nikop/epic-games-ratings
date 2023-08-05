@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Compiling (15)... | 43.00% | ~12 |
-| Noisy saturation | 43.00% | ~12 |
-| Almost there! | 43.00% | ~12 |
-| EnergyBackup >= 15 | 39.00% | ~11 |
-| Package ready! | 39.00% | ~11 |
-| Errors found you | 39.00% | ~11 |
-| No AI, only humans | 36.00% | ~10 |
-| Gamedev level 15 | 36.00% | ~10 |
-| SoundsFun = 15; | 36.00% | ~10 |
-| The dev life | 36.00% | ~10 |
-| 64 bugs fixed | 32.00% | ~9 |
-| Pro-dev | 25.00% | ~7 |
-| 128 bugs fixed | 25.00% | ~7 |
-| Two thirds is all I need | 25.00% | ~7 |
-| Half the time, half the fun | 25.00% | ~7 |
-| SoundsFun = 30; | 25.00% | ~7 |
-| Double-double | 21.00% | ~6 |
+| Noisy saturation | 45.00% | ~13 |
+| Compiling (15)... | 41.00% | ~12 |
+| Errors found you | 41.00% | ~12 |
+| Almost there! | 41.00% | ~12 |
+| No AI, only humans | 38.00% | ~11 |
+| EnergyBackup >= 15 | 38.00% | ~11 |
+| Package ready! | 38.00% | ~11 |
+| Gamedev level 15 | 34.00% | ~10 |
+| SoundsFun = 15; | 34.00% | ~10 |
+| The dev life | 34.00% | ~10 |
+| 64 bugs fixed | 31.00% | ~9 |
+| Pro-dev | 24.00% | ~7 |
+| 128 bugs fixed | 24.00% | ~7 |
+| Double-double | 24.00% | ~7 |
+| Two thirds is all I need | 24.00% | ~7 |
+| Half the time, half the fun | 24.00% | ~7 |
+| SoundsFun = 30; | 24.00% | ~7 |
 | Going nuts! | 21.00% | ~6 |
 | Compiling (30)... | 21.00% | ~6 |
 | Graphics outdated | 21.00% | ~6 |
-| Compiling (45)... | 18.00% | ~5 |
-| Gamedev level 30 | 18.00% | ~5 |
-| EnergyBackup >= 30 | 18.00% | ~5 |
-| SoundsFun = 45; | 18.00% | ~5 |
+| Compiling (45)... | 17.00% | ~5 |
+| Gamedev level 30 | 17.00% | ~5 |
+| EnergyBackup >= 30 | 17.00% | ~5 |
+| SoundsFun = 45; | 17.00% | ~5 |
 | 192 bugs fixed | 14.00% | ~4 |
 | Guru-dev | 14.00% | ~4 |
 | Going under... | 14.00% | ~4 |
 | What am I doing?! | 14.00% | ~4 |
 | Gamedev level 45 | 14.00% | ~4 |
 | EnergyBackup >= 45 | 14.00% | ~4 |
-| Damn, I'm GOOD! | 11.00% | ~3 |
-| Just in time! | 11.00% | ~3 |
+| Damn, I'm GOOD! | 10.00% | ~3 |
+| Just in time! | 10.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 388)  
-Completed: 3 (10.71%) (Ranked 22)  
+Progressed: 29 (Ranked 386)  
+Completed: 3 (10.34%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -48,3 +48,4 @@ Completed: 3 (10.71%) (Ranked 22)
 | 2023-05-21 | 26 | 2 |
 | 2023-05-28 | 27 | 3 |
 | 2023-06-01 | 28 | 3 |
+| 2023-08-05 | 29 | 3 |

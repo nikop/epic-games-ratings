@@ -37,6 +37,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flawless Fusion | 0.20% | ~268 |
 | Gem Expert | 0.20% | ~268 |
 | Gild-Gotten Goods | 0.20% | ~268 |
+| Royal Ransom | 0.20% | ~268 |
 | Helping Hand | 0.20% | ~268 |
 | Accomplished Merchant | 0.20% | ~268 |
 | Dungeon Imports | 0.20% | ~268 |
@@ -80,7 +81,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | By Your Powers Combined... | 0.10% | ~134 |
 | A Legend is Born | 0.10% | ~134 |
 | Trash to Treasure | 0.10% | ~134 |
-| Royal Ransom | 0.10% | ~134 |
 | Mammonite | 0.10% | ~134 |
 | Wealth Beyond Measure | 0.10% | ~134 |
 | Fat Cat Tag Team | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,895 (Ranked 62)  
+Progressed: 133,899 (Ranked 62)  
 Completed: 128 (0.10%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 128 (0.10%) (Ranked 197)
 | 2023-08-02 | 133,764 | 126 |
 | 2023-08-03 | 133,815 | 128 |
 | 2023-08-04 | 133,890 | 128 |
-| 2023-08-05 | 133,895 | 128 |
+| 2023-08-05 | 133,899 | 128 |
 ## Awards
 Max (Great for Beginners): 4,686  (Ranked 70)  
 Sum: 27,048 (Ranked 46)  

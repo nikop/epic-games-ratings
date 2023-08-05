@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1761,
+  "EOS_Progressed": 1762,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4046,6 +4046,11 @@
       "Time": "2023-08-04T19:05:24.8608168+00:00",
       "NumProgressed": 1761,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-05T03:04:11.8406169+00:00",
+      "NumProgressed": 1762,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -4137,7 +4142,7 @@
       "Name": "From X to Y",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "A11",
@@ -4169,7 +4174,7 @@
       "Name": "A new Journey",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "A15",
@@ -4193,7 +4198,7 @@
       "Name": "Facility Manager",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "A18",
@@ -4217,7 +4222,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "A21",
@@ -4231,9 +4236,9 @@
       "ID": "A22",
       "SetID": "9b7p7eo",
       "Name": "Brainstorm",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1145
     },
     {
       "ID": "A23",
@@ -4281,7 +4286,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "A29",
@@ -4361,7 +4366,7 @@
       "Name": "Poor Devil",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "A39",
@@ -4377,7 +4382,7 @@
       "Name": "Mind the Gap",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "A41",
@@ -4425,7 +4430,7 @@
       "Name": "Mystery Tour",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "A47",
@@ -4449,7 +4454,7 @@
       "Name": "Financial Shark",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "A50",
@@ -4481,7 +4486,7 @@
       "Name": "Networker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "A54",
@@ -4496,7 +4501,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1761,
+      "Progressed": 1762,
       "Completed": 0
     }
   ],
@@ -4504,8 +4509,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-31T01:57:43.9842724+00:00",
-  "LastChanged_Achievements": "2023-08-05T02:26:22.3044748+00:00",
+  "LastChanged_Achievements": "2023-08-05T03:04:11.8406164+00:00",
   "LastUpdate_AppInfo": "2023-07-29T04:57:59.7965927+00:00",
-  "LastUpdate_Ratings": "2023-08-05T02:20:33.809484+00:00",
-  "LastUpdate_Achievements": "2023-08-05T02:26:22.3045535+00:00"
+  "LastUpdate_Ratings": "2023-08-05T02:58:18.2590229+00:00",
+  "LastUpdate_Achievements": "2023-08-05T03:04:11.8406896+00:00"
 }

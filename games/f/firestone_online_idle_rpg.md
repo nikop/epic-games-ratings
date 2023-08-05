@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 913)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,761 (Ranked 172)  
+Progressed: 1,761 (Ranked 173)  
 Completed: 2 (0.11%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |

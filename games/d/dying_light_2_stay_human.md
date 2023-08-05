@@ -6,7 +6,7 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~66,852 |
+| You Never Forget Your First... | 11.00% | ~66,853 |
 | Into the Unknown | 10.00% | ~60,775 |
 | First Shot | 10.00% | ~60,775 |
 | Herzlich Wilkommen! | 9.00% | ~54,698 |
@@ -34,9 +34,9 @@ Number of Ratings: 7,305  (23.09.2022)
 | Death From Afar | 4.00% | ~24,310 |
 | Terminal Headache | 4.00% | ~24,310 |
 | Slowpoke! | 4.00% | ~24,310 |
-| Tickets, Please! | 3.00% | ~18,232 |
-| Combat Master | 3.00% | ~18,232 |
-| You're Going Down! | 3.00% | ~18,232 |
+| Tickets, Please! | 3.00% | ~18,233 |
+| Combat Master | 3.00% | ~18,233 |
+| You're Going Down! | 3.00% | ~18,233 |
 | Municipal Services | 2.00% | ~12,155 |
 | Ban Hammer | 2.00% | ~12,155 |
 | Parkour Master | 2.00% | ~12,155 |
@@ -57,7 +57,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Get the Point? | 0.70% | ~4,254 |
 | My Friend, Ciro | 0.70% | ~1,772 |
 | Skullcrusher | 0.70% | ~1,772 |
-| Tanning Salon | 0.60% | ~3,646 |
+| Tanning Salon | 0.60% | ~3,647 |
 | Lightning Reflexes | 0.40% | ~2,431 |
 | A Friend in Need... | 0.30% | ~1,823 |
 | Man On a Mission | 0.30% | ~1,823 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~253 |
 | Connoisseur | 0.10% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 607,750 (Ranked 27)  
+Progressed: 607,753 (Ranked 27)  
 Completed: 61 (0.01%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 61 (0.01%) (Ranked 235)
 | 2023-08-02 | 606,634 | 61 |
 | 2023-08-03 | 607,225 | 61 |
 | 2023-08-04 | 607,698 | 61 |
-| 2023-08-05 | 607,750 | 61 |
+| 2023-08-05 | 607,753 | 61 |
 ## Awards
 Max (Character Customization): 8,686  (Ranked 39)  
 Sum: 20,746 (Ranked 54)  

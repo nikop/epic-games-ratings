@@ -7939,9 +7939,9 @@
       "Count": 630
     }
   ],
-  "EOS_Progressed": 607750,
+  "EOS_Progressed": 607753,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 4316,
+  "EOS_NewPlayers": 4303,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19644,6 +19644,11 @@
       "Time": "2023-08-05T02:27:12.0464758+00:00",
       "NumProgressed": 607750,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-08-05T03:04:51.9485077+00:00",
+      "NumProgressed": 607753,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 65,
@@ -19799,7 +19804,7 @@
       "Name": "Tickets, Please!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 18232
+      "UsersEstimate": 18233
     },
     {
       "ID": "achievement_20",
@@ -19863,7 +19868,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 66852
+      "UsersEstimate": 66853
     },
     {
       "ID": "achievement_28",
@@ -19895,7 +19900,7 @@
       "Name": "Combat Master",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 18232
+      "UsersEstimate": 18233
     },
     {
       "ID": "achievement_32",
@@ -19975,7 +19980,7 @@
       "Name": "Tanning Salon",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 3646
+      "UsersEstimate": 3647
     },
     {
       "ID": "achievement_42",
@@ -20047,7 +20052,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 18232
+      "UsersEstimate": 18233
     },
     {
       "ID": "achievement_51",
@@ -20174,21 +20179,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 607750,
+      "Progressed": 607753,
       "Completed": 61
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 253194,
+      "Progressed": 253197,
       "Completed": 1424
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-08-04T18:00:03.5582027+00:00",
-  "LastChanged_Achievements": "2023-08-05T02:27:12.046475+00:00",
+  "LastChanged_Achievements": "2023-08-05T03:04:51.9485071+00:00",
   "LastUpdate_AppInfo": "2023-07-29T05:57:49.4818152+00:00",
-  "LastUpdate_Ratings": "2023-08-05T02:22:31.9606126+00:00",
-  "LastUpdate_Achievements": "2023-08-05T02:27:12.0466039+00:00"
+  "LastUpdate_Ratings": "2023-08-05T02:59:51.249284+00:00",
+  "LastUpdate_Achievements": "2023-08-05T03:04:51.9486472+00:00"
 }

@@ -69,7 +69,7 @@
 | Trap disarmed | 26.00% | ~57 |
 | Silver’s past | 25.00% | ~55 |
 | Better cooking at home | 25.00% | ~55 |
-| The only right decision | 24.00% | ~53 |
+| The only right decision | 25.00% | ~55 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 221 (Ranked 276)  
 Completed: 8 (3.62%) (Ranked 57)  

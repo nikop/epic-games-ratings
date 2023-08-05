@@ -350,9 +350,9 @@
       "ID": "explodeItem10",
       "SetID": "ci65fo0",
       "Name": "Demoman",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "explodeItem100",
@@ -686,9 +686,9 @@
       "ID": "questCemetery2",
       "SetID": "ci65fo0",
       "Name": "Cemetery secrets 2",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "questChef",
@@ -734,9 +734,9 @@
       "ID": "questDetective",
       "SetID": "ci65fo0",
       "Name": "True Detective",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "questEnemyTask",
@@ -915,8 +915,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-05T02:25:05.5550423+00:00",
+  "LastChanged_Achievements": "2023-08-05T03:03:08.7682507+00:00",
   "LastUpdate_AppInfo": "2023-08-02T10:57:06.3883378+00:00",
-  "LastUpdate_Ratings": "2023-08-05T02:19:16.5962048+00:00",
-  "LastUpdate_Achievements": "2023-08-05T02:25:05.5551234+00:00"
+  "LastUpdate_Ratings": "2023-08-05T02:57:17.5634825+00:00",
+  "LastUpdate_Achievements": "2023-08-05T03:03:08.7683378+00:00"
 }

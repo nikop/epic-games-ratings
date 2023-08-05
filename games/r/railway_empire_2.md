@@ -5,20 +5,20 @@ Rating: 4.48 (Ranked 590)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A new Journey | 74.00% | ~1,303 |
-| Country Bumpkin | 74.00% | ~1,303 |
+| A new Journey | 74.00% | ~1,304 |
+| Country Bumpkin | 74.00% | ~1,304 |
 | Departure | 73.00% | ~1,286 |
-| From X to Y | 72.00% | ~1,268 |
+| From X to Y | 72.00% | ~1,269 |
 | Way of Iron | 70.00% | ~1,233 |
-| Mystery Tour | 68.00% | ~1,197 |
-| We brake for nobody | 67.00% | ~1,180 |
-| Brainstorm | 66.00% | ~1,162 |
+| Mystery Tour | 68.00% | ~1,198 |
+| We brake for nobody | 67.00% | ~1,181 |
+| Brainstorm | 65.00% | ~1,145 |
 | Travel Company | 65.00% | ~1,145 |
-| Mind the Gap | 64.00% | ~1,127 |
+| Mind the Gap | 64.00% | ~1,128 |
 | All around the World | 62.00% | ~1,092 |
 | Right through the middle | 57.00% | ~1,004 |
-| Facility Manager | 53.00% | ~933 |
-| Poor Devil | 53.00% | ~933 |
+| Facility Manager | 53.00% | ~934 |
+| Poor Devil | 53.00% | ~934 |
 | Producer | 49.00% | ~863 |
 | Apprentice | 42.00% | ~740 |
 | Bridge Builder | 41.00% | ~722 |
@@ -27,7 +27,7 @@ Rating: 4.48 (Ranked 590)
 | Stoker | 33.00% | ~581 |
 | Bull and bear | 33.00% | ~581 |
 | Full Steam ahead | 31.00% | ~546 |
-| Financial Shark | 30.00% | ~528 |
+| Financial Shark | 30.00% | ~529 |
 | All mine | 29.00% | ~511 |
 | Mole | 29.00% | ~511 |
 | Socializer | 29.00% | ~511 |
@@ -39,7 +39,7 @@ Rating: 4.48 (Ranked 590)
 | Breaking Ground | 20.00% | ~352 |
 | Traffic Junction | 19.00% | ~335 |
 | Traffic Jam | 18.00% | ~317 |
-| Networker | 17.00% | ~299 |
+| Networker | 17.00% | ~300 |
 | Resistance is futile | 16.00% | ~282 |
 | Assimilated | 15.00% | ~264 |
 | Locusts | 15.00% | ~264 |
@@ -61,7 +61,7 @@ Rating: 4.48 (Ranked 590)
 | United States | 0.50% | ~9 |
 | Three Cheers for Progress | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,761 (Ranked 172)  
+Progressed: 1,762 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,6 +144,7 @@ Completed: 0 (0.00%) (Ranked 248)
 | 2023-08-02 | 1,749 | 0 |
 | 2023-08-03 | 1,756 | 0 |
 | 2023-08-04 | 1,761 | 0 |
+| 2023-08-05 | 1,762 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,13 +6,13 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~27,741 |
-| Just The Two of Us | 32.00% | ~26,109 |
+| Simoon | 34.00% | ~27,742 |
+| Just The Two of Us | 32.00% | ~26,110 |
 | Up On High | 25.00% | ~20,398 |
 | Under The Hood | 25.00% | ~20,398 |
-| Got Your Nose | 24.00% | ~19,582 |
-| The Gift of Gab | 24.00% | ~19,582 |
-| Wrapping Up | 22.00% | ~17,950 |
+| Got Your Nose | 24.00% | ~19,583 |
+| The Gift of Gab | 24.00% | ~19,583 |
+| Wrapping Up | 22.00% | ~17,951 |
 | More Than A Box Of Sand | 18.00% | ~14,687 |
 | The Dunboyne | 17.00% | ~13,871 |
 | Badge Hobbyist | 17.00% | ~13,871 |
@@ -39,15 +39,15 @@ Number of Ratings: 43  (23.09.2022)
 | Centre Of Brunswick | 9.00% | ~7,343 |
 | Bike Collector | 9.00% | ~7,343 |
 | Not That Kind Of Gliding | 9.00% | ~7,343 |
-| The Scrapper Mask | 8.00% | ~6,527 |
-| Shadow Of Neave | 8.00% | ~6,527 |
-| Fragile Goods | 8.00% | ~6,527 |
-| Glider on the Storm | 8.00% | ~6,527 |
-| Squeeze One Out | 8.00% | ~6,527 |
-| Dune Rider | 8.00% | ~6,527 |
-| The Beetle Mask | 7.00% | ~5,711 |
-| The Guard Mask | 7.00% | ~5,711 |
-| Smoked Out | 7.00% | ~5,711 |
+| The Scrapper Mask | 8.00% | ~6,528 |
+| Shadow Of Neave | 8.00% | ~6,528 |
+| Fragile Goods | 8.00% | ~6,528 |
+| Glider on the Storm | 8.00% | ~6,528 |
+| Squeeze One Out | 8.00% | ~6,528 |
+| Dune Rider | 8.00% | ~6,528 |
+| The Beetle Mask | 7.00% | ~5,712 |
+| The Guard Mask | 7.00% | ~5,712 |
+| Smoked Out | 7.00% | ~5,712 |
 | Amateur Historian | 6.00% | ~4,896 |
 | The Climber Mask | 6.00% | ~4,896 |
 | The Merchant Mask | 6.00% | ~4,896 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,448 |
 | Vivacious Vivarium | 2.00% | ~1,632 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81,592 (Ranked 72)  
+Progressed: 81,594 (Ranked 72)  
 Completed: 796 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 796 (0.98%) (Ranked 113)
 | 2023-08-02 | 81,112 | 793 |
 | 2023-08-03 | 81,358 | 793 |
 | 2023-08-04 | 81,566 | 796 |
-| 2023-08-05 | 81,592 | 796 |
+| 2023-08-05 | 81,594 | 796 |
 ## Awards
 Max (Quickly Understood Controls): 20  (Ranked 506)  
 Sum: 20 (Ranked 506)  

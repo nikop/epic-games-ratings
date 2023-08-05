@@ -742,9 +742,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6578,
+  "EOS_Progressed": 6579,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4187,6 +4187,11 @@
       "Time": "2023-08-04T21:06:41.9394797+00:00",
       "NumProgressed": 6578,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-05T03:05:14.111019+00:00",
+      "NumProgressed": 6579,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4262,7 +4267,7 @@
       "Name": "Decimation",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -4286,7 +4291,7 @@
       "Name": "Donatello",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -4446,7 +4451,7 @@
       "Name": "Silver Lining",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 1973
+      "UsersEstimate": 1974
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -4550,14 +4555,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3486
+      "UsersEstimate": 3487
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6578,
+      "Progressed": 6579,
       "Completed": 8
     }
   ],
@@ -4565,8 +4570,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-03T13:04:56.6804323+00:00",
-  "LastChanged_Achievements": "2023-08-05T02:27:39.2875601+00:00",
+  "LastChanged_Achievements": "2023-08-05T03:05:14.1110184+00:00",
   "LastUpdate_AppInfo": "2023-07-29T03:57:14.0482826+00:00",
-  "LastUpdate_Ratings": "2023-08-05T02:19:59.4821094+00:00",
-  "LastUpdate_Achievements": "2023-08-05T02:27:39.2876437+00:00"
+  "LastUpdate_Ratings": "2023-08-05T02:57:52.6354114+00:00",
+  "LastUpdate_Achievements": "2023-08-05T03:05:14.1110752+00:00"
 }

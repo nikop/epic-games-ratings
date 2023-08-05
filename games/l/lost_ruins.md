@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Inquisitor | 38.00% | ~160 |
-| Goblin Tales | 30.00% | ~126 |
-| Bug Hunter | 25.00% | ~105 |
+| Goblin Tales | 30.00% | ~127 |
+| Bug Hunter | 25.00% | ~106 |
 | Boss Killer | 23.00% | ~97 |
-| The Fallen | 21.00% | ~88 |
+| The Fallen | 21.00% | ~89 |
 | Artifact Collector | 20.00% | ~84 |
 | Trap Master | 20.00% | ~84 |
-| Ghost Buster | 16.00% | ~67 |
+| Ghost Buster | 16.00% | ~68 |
 | Reincarnation | 15.00% | ~63 |
 | Iconoclasm | 14.00% | ~59 |
 | Librarian | 14.00% | ~59 |
@@ -21,9 +21,9 @@
 | Lumberjack | 12.00% | ~51 |
 | Troubleshooter | 11.00% | ~46 |
 | Money Swag | 8.00% | ~34 |
-| Oops | 7.00% | ~29 |
-| Shield Crusher | 7.00% | ~29 |
-| Treasure Hunter | 7.00% | ~29 |
+| Oops | 7.00% | ~30 |
+| Shield Crusher | 7.00% | ~30 |
+| Treasure Hunter | 7.00% | ~30 |
 | Explorer | 6.00% | ~25 |
 | Pyromancer | 5.00% | ~21 |
 | Trio | 5.00% | ~21 |
@@ -34,18 +34,18 @@
 | Marksman | 3.00% | ~13 |
 | Meat Lover | 2.00% | ~8 |
 | Sling of David | 2.00% | ~8 |
-| Assassin | 1.00% | ~4 |
 | Roughneck | 1.00% | ~4 |
 | Rune Master | 1.00% | ~4 |
 | Sword Master | 1.00% | ~4 |
 | Weapon Master | 1.00% | ~4 |
 | Witch | 1.00% | ~4 |
+| Assassin | 0.90% | ~4 |
 | Art Collector | 0.20% | ~1 |
 | Cryomancer | 0.20% | ~1 |
 | Hardboiled | 0.20% | ~1 |
 | Necromancer | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421 (Ranked 233)  
+Progressed: 422 (Ranked 232)  
 Completed: 0 (0.00%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,6 +112,7 @@ Completed: 0 (0.00%) (Ranked 248)
 | 2023-08-01 | 417 | 0 |
 | 2023-08-03 | 419 | 0 |
 | 2023-08-04 | 421 | 0 |
+| 2023-08-05 | 422 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
