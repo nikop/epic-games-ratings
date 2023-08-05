@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 531,
+  "EOS_Progressed": 532,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2269,6 +2269,11 @@
       "Time": "2023-08-04T23:03:12.8618757+00:00",
       "NumProgressed": 531,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-05T17:02:41.7175755+00:00",
+      "NumProgressed": 532,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2440,7 +2445,7 @@
       "Name": "Haute Cuisine",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Money10000",
@@ -2464,7 +2469,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "PerfectGrade25",
@@ -2599,7 +2604,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 531,
+      "Progressed": 532,
       "Completed": 0
     }
   ],
@@ -2607,8 +2612,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-08-05T16:02:40.3137266+00:00",
+  "LastChanged_Achievements": "2023-08-05T17:02:41.7175746+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.7769167+00:00",
-  "LastUpdate_Ratings": "2023-08-05T15:59:54.1669296+00:00",
-  "LastUpdate_Achievements": "2023-08-05T16:02:40.3138333+00:00"
+  "LastUpdate_Ratings": "2023-08-05T16:59:52.6939791+00:00",
+  "LastUpdate_Achievements": "2023-08-05T17:02:41.7176361+00:00"
 }

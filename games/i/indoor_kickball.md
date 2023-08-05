@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 82.00% | ~67 |
+| Hat Unlocked | 83.00% | ~68 |
 | Accessory Unlocked | 82.00% | ~67 |
 | Character Unlocked | 80.00% | ~66 |
 | Settle Down | 73.00% | ~60 |
-| Homer | 72.00% | ~59 |
+| Homer | 73.00% | ~60 |
 | Butter Fingers | 71.00% | ~58 |
 | Have a good trip! | 70.00% | ~57 |
 | Kickball Unlocked | 68.00% | ~56 |
@@ -22,9 +22,9 @@
 | Classroom Secret Spot | 24.00% | ~20 |
 | Save some water for the fishies | 23.00% | ~19 |
 | Have Mercy | 23.00% | ~19 |
+| Bathroom Secret Spot | 22.00% | ~18 |
 | Angry Dad | 22.00% | ~18 |
 | At least everyone still had fun | 22.00% | ~18 |
-| Bathroom Secret Spot | 21.00% | ~17 |
 | Living Room Secret Spot | 20.00% | ~16 |
 | Hi Hungry, I'm Dad | 16.00% | ~13 |
 | Angry Mom | 15.00% | ~12 |

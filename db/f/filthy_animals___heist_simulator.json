@@ -4,8 +4,8 @@
   "ProductSlug": "filthy-animals-f6c65c",
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-04T17:30:00+00:00",
     "PcReleaseDate": "2023-04-04T17:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7575,
+  "EOS_Progressed": 7576,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
@@ -3598,6 +3598,11 @@
       "Time": "2023-08-05T08:00:40.6449065+00:00",
       "NumProgressed": 7575,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-05T17:02:50.9756298+00:00",
+      "NumProgressed": 7576,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -3825,14 +3830,14 @@
       "Name": "Tutorial Completed",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     }
   ],
   "AchievementSets": [
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 7575,
+      "Progressed": 7576,
       "Completed": 0
     }
   ],
@@ -3840,8 +3845,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2023-08-05T16:02:48.8367961+00:00",
+  "LastChanged_Achievements": "2023-08-05T17:02:50.9756288+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:46.9883942+00:00",
-  "LastUpdate_Ratings": "2023-08-05T15:59:12.4318052+00:00",
-  "LastUpdate_Achievements": "2023-08-05T16:02:48.836861+00:00"
+  "LastUpdate_Ratings": "2023-08-05T16:59:12.8069208+00:00",
+  "LastUpdate_Achievements": "2023-08-05T17:02:50.9756848+00:00"
 }

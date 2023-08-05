@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1155,9 +1155,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 8028,
+  "EOS_Progressed": 8029,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9830,6 +9830,11 @@
       "Time": "2023-08-05T16:07:10.1890589+00:00",
       "NumProgressed": 8028,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-05T17:07:06.5697782+00:00",
+      "NumProgressed": 8029,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -9849,7 +9854,7 @@
       "Name": "Friendly",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "11",
@@ -9897,7 +9902,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3291
+      "UsersEstimate": 3292
     },
     {
       "ID": "17",
@@ -9953,7 +9958,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5780
+      "UsersEstimate": 5781
     },
     {
       "ID": "23",
@@ -9993,7 +9998,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "28",
@@ -10049,7 +10054,7 @@
       "Name": "Around the World",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "34",
@@ -10057,7 +10062,7 @@
       "Name": "Ice Lakes",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "35",
@@ -10065,7 +10070,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1526
     },
     {
       "ID": "36",
@@ -10089,7 +10094,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3532
+      "UsersEstimate": 3533
     },
     {
       "ID": "39",
@@ -10161,7 +10166,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2087
+      "UsersEstimate": 2088
     },
     {
       "ID": "47",
@@ -10169,7 +10174,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "48",
@@ -10185,7 +10190,7 @@
       "Name": "Mentor",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "5",
@@ -10312,15 +10317,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8028,
+      "Progressed": 8029,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-02T01:50:50.0712664+00:00",
-  "LastChanged_Achievements": "2023-08-05T16:07:10.1890581+00:00",
+  "LastChanged_Achievements": "2023-08-05T17:07:06.5697771+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:55.2597008+00:00",
-  "LastUpdate_Ratings": "2023-08-05T16:01:46.1496124+00:00",
-  "LastUpdate_Achievements": "2023-08-05T16:07:10.1892467+00:00"
+  "LastUpdate_Ratings": "2023-08-05T17:01:46.2481786+00:00",
+  "LastUpdate_Achievements": "2023-08-05T17:07:06.5699081+00:00"
 }

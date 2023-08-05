@@ -4,8 +4,8 @@
   "ProductSlug": "battle-ram-d001fd",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-04T18:00:00+00:00",
     "PcReleaseDate": "2020-03-21T05:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195,
+  "EOS_Progressed": 196,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -806,6 +806,11 @@
       "Time": "2023-08-05T14:07:10.4566301+00:00",
       "NumProgressed": 195,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-05T17:08:17.3653053+00:00",
+      "NumProgressed": 196,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -817,7 +822,7 @@
       "Name": "START",
       "Percentage": 92,
       "XP": 45,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ach_10",
@@ -831,9 +836,9 @@
       "ID": "ach_11",
       "SetID": "392n4e7",
       "Name": "Senior warrant officer Baran 4th class",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_12",
@@ -905,7 +910,7 @@
       "Name": "Ram Corporal",
       "Percentage": 86,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ach_20",
@@ -953,7 +958,7 @@
       "Name": "Ram First Sergeant",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ach_6",
@@ -961,7 +966,7 @@
       "Name": "Senior Sergeant Baran",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ach_7",
@@ -992,14 +997,14 @@
     {
       "ID": "392n4e7",
       "IsBase": true,
-      "Progressed": 195,
+      "Progressed": 196,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-08-05T16:08:12.9853641+00:00",
+  "LastChanged_Achievements": "2023-08-05T17:08:17.3653043+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:50.3055524+00:00",
-  "LastUpdate_Ratings": "2023-08-05T15:59:16.8801902+00:00",
-  "LastUpdate_Achievements": "2023-08-05T16:08:12.9853887+00:00"
+  "LastUpdate_Ratings": "2023-08-05T16:59:16.6250376+00:00",
+  "LastUpdate_Achievements": "2023-08-05T17:08:17.3653322+00:00"
 }

@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something ever-changing... | 28.00% | ~7 |
-| Something foundational... | 28.00% | ~7 |
-| Something to make you dream... | 28.00% | ~7 |
-| Something to long for... | 28.00% | ~7 |
-| Something monumental... | 24.00% | ~6 |
-| Something firmly rooted... | 20.00% | ~5 |
-| Something free... | 16.00% | ~4 |
+| Something ever-changing... | 32.00% | ~8 |
+| Something foundational... | 32.00% | ~8 |
+| Something to make you dream... | 32.00% | ~8 |
+| Something to long for... | 32.00% | ~8 |
+| Something monumental... | 28.00% | ~7 |
+| Something firmly rooted... | 24.00% | ~6 |
+| Something free... | 20.00% | ~5 |
 | Something free... (fragile) | 16.00% | ~4 |
 | Something gentle... | 16.00% | ~4 |
 | Something gentle... (fragile) | 16.00% | ~4 |
@@ -28,8 +28,8 @@
 | Something firmly rooted... (fragile) | 16.00% | ~4 |
 | Something reflective... | 16.00% | ~4 |
 | Something reflective... (fragile) | 16.00% | ~4 |
+| Something more... (fragile) | 12.00% | ~3 |
 | Something more... | 8.00% | ~2 |
-| Something more... (fragile) | 8.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 25 (Ranked 391)  
 Completed: 2 (8.00%) (Ranked 31)  

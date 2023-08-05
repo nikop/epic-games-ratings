@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -4133,9 +4133,9 @@
       "ID": "12",
       "SetID": "9p3jgda",
       "Name": "TRAINING HARD",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 461
     },
     {
       "ID": "13",
@@ -4307,8 +4307,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-05T16:07:33.6426095+00:00",
+  "LastChanged_Achievements": "2023-08-05T17:07:29.796627+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:54.7430332+00:00",
-  "LastUpdate_Ratings": "2023-08-05T16:00:32.6962975+00:00",
-  "LastUpdate_Achievements": "2023-08-05T16:07:33.642668+00:00"
+  "LastUpdate_Ratings": "2023-08-05T17:00:29.4018344+00:00",
+  "LastUpdate_Achievements": "2023-08-05T17:07:29.7966806+00:00"
 }

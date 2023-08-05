@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1575,9 +1575,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13275,
+  "EOS_Progressed": 13276,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9155,6 +9155,11 @@
       "Time": "2023-08-05T16:03:28.1947202+00:00",
       "NumProgressed": 13275,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-05T17:03:29.6407571+00:00",
+      "NumProgressed": 13276,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -9628,9 +9633,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
       "SetID": "7l38kb8",
       "Name": "Great",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 93
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_HOLY",
@@ -9812,9 +9817,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
       "SetID": "9201eeb",
       "Name": "Valiant",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
@@ -10140,9 +10145,9 @@
       "ID": "ACHIEVEMENT_GREECE1_RUN",
       "SetID": "9201eeb",
       "Name": "Run, Pheidippides, Run!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_GREECE1_WIN",
@@ -10604,9 +10609,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
@@ -10772,9 +10777,9 @@
       "ID": "ACHIEVEMENT_NATION_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonia",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
@@ -10956,9 +10961,9 @@
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
       "SetID": "7l38kb8",
       "Name": "Manichaeism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
@@ -10972,9 +10977,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonian Paganism",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
@@ -11332,9 +11337,9 @@
       "ID": "ACHIEVEMENT_VICTORY_POINTS",
       "SetID": "7l38kb8",
       "Name": "Points Victory",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_FAMILIES",
@@ -11436,9 +11441,9 @@
       "ID": "ACHIEVEMENT_WIN_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Win a Single Player Game",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
@@ -11533,21 +11538,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13275,
+      "Progressed": 13276,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13275,
+      "Progressed": 13276,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-01T16:59:10.6733314+00:00",
-  "LastChanged_Achievements": "2023-08-05T16:03:28.1947193+00:00",
+  "LastChanged_Achievements": "2023-08-05T17:03:29.6407556+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:46.1485999+00:00",
-  "LastUpdate_Ratings": "2023-08-05T15:59:11.805702+00:00",
-  "LastUpdate_Achievements": "2023-08-05T16:03:28.1957316+00:00"
+  "LastUpdate_Ratings": "2023-08-05T16:59:11.6559891+00:00",
+  "LastUpdate_Achievements": "2023-08-05T17:03:29.6418501+00:00"
 }

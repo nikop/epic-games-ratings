@@ -9,7 +9,7 @@
 | Survivalist | 83.00% | ~183 |
 | Challenge seeker | 79.00% | ~175 |
 | Coin collector | 73.00% | ~161 |
-| Floater | 58.00% | ~128 |
+| Floater | 59.00% | ~130 |
 | Speedrunner | 44.00% | ~97 |
 | On foot racer | 40.00% | ~88 |
 | Prickly situation handler | 34.00% | ~75 |
@@ -17,7 +17,7 @@
 | Perfectionist | 31.00% | ~69 |
 | Protected | 30.00% | ~66 |
 | Pragmatic | 22.00% | ~49 |
-| Calory burner | 17.00% | ~38 |
+| Calory burner | 18.00% | ~40 |
 | Pacifist | 15.00% | ~33 |
 | Snow digger | 14.00% | ~31 |
 | Model | 14.00% | ~31 |

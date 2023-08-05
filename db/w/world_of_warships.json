@@ -4,11 +4,11 @@
   "ProductSlug": "world-of-warships",
   "Ranking_Rating": 678,
   "Ranking_Popularity": 132,
-  "Ranking_PopularitySum": 79,
+  "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 371,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-03-18T13:00:00+00:00",
     "PcReleaseDate": "2017-11-15T16:00:00+00:00",
@@ -7342,10 +7342,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 11070,
       "NumberOfAwardsMax": 1246
+    },
+    {
+      "Time": "2023-08-05T17:00:29.2175666+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 11075,
+      "NumberOfAwardsMax": 1246
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11070,
+  "NumberOfAwards": 11075,
   "NumberOfAwardsMax": 1246,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -7359,7 +7365,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1181
+      "Count": 1186
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7421,8 +7427,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-08-05T10:59:38.1392227+00:00",
+  "LastChanged": "2023-08-05T17:00:29.2175659+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:54.5211905+00:00",
-  "LastUpdate_Ratings": "2023-08-05T16:00:32.4928881+00:00",
-  "LastUpdate_Achievements": "2023-08-05T16:06:21.2682695+00:00"
+  "LastUpdate_Ratings": "2023-08-05T17:00:29.2175675+00:00",
+  "LastUpdate_Achievements": "2023-08-05T17:06:18.9094107+00:00"
 }

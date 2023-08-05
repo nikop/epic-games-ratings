@@ -30,6 +30,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 1.00% | ~133 |
 | Pyramids | 1.00% | ~133 |
 | Judaism | 1.00% | ~133 |
+| Babylonian Paganism | 1.00% | ~133 |
 | Greek Paganism | 1.00% | ~133 |
 | Naming Landmarks | 1.00% | ~133 |
 | Trade Caravan | 1.00% | ~133 |
@@ -42,27 +43,27 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 0.90% | ~119 |
 | Lighthouse | 0.90% | ~119 |
 | Christianity | 0.90% | ~119 |
-| Babylonian Paganism | 0.90% | ~119 |
 | Carthaginian Paganism | 0.90% | ~119 |
 | Roman Paganism | 0.90% | ~119 |
 | Zoroastrianism | 0.90% | ~119 |
 | Brilliant | 0.80% | ~106 |
 | Fountainhead | 0.80% | ~106 |
+| Great | 0.80% | ~106 |
 | Wise | 0.80% | ~106 |
 | Great Ziggurat | 0.80% | ~106 |
+| Necropolis | 0.80% | ~106 |
 | Learn to Play 1 | 0.80% | ~106 |
+| Manichaeism | 0.80% | ~106 |
 | Regicide | 0.70% | ~93 |
-| Great | 0.70% | ~93 |
 | Just Difficulty | 0.70% | ~93 |
 | Artisans | 0.70% | ~93 |
 | Furious Family | 0.70% | ~93 |
 | Apadana | 0.70% | ~93 |
 | Colossus | 0.70% | ~93 |
 | Musaeum | 0.70% | ~93 |
-| Necropolis | 0.70% | ~93 |
-| Manichaeism | 0.70% | ~93 |
 | Drillmaster | 0.60% | ~80 |
 | Intercessor | 0.60% | ~80 |
+| Valiant | 0.60% | ~80 |
 | Legendary Cities | 0.60% | ~80 |
 | Sages | 0.60% | ~80 |
 | Acropolis | 0.60% | ~80 |
@@ -71,10 +72,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 0.60% | ~80 |
 | Egyptian Paganism | 0.60% | ~80 |
 | Mythology | 0.60% | ~80 |
+| Points Victory | 0.60% | ~80 |
 | Hanging Gardens in Babylon | 0.50% | ~66 |
 | Beloved | 0.50% | ~66 |
 | Conqueror | 0.50% | ~66 |
-| Valiant | 0.50% | ~66 |
 | Good Difficulty | 0.50% | ~66 |
 | Champions | 0.50% | ~66 |
 | Patrons | 0.50% | ~66 |
@@ -83,7 +84,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.50% | ~66 |
 | Building Wonders | 0.50% | ~66 |
 | Phalangite | 0.50% | ~66 |
-| Points Victory | 0.50% | ~66 |
 | Devout | 0.40% | ~53 |
 | Invincible | 0.40% | ~53 |
 | Lion | 0.40% | ~53 |
@@ -100,6 +100,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.40% | ~53 |
 | Via Recta Souk | 0.40% | ~53 |
 | Learn to Play 3 | 0.40% | ~53 |
+| Babylonia | 0.40% | ~53 |
 | Carthage | 0.40% | ~53 |
 | Power to the People | 0.40% | ~53 |
 | Economic Reform | 0.40% | ~53 |
@@ -110,6 +111,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.40% | ~53 |
 | Ambition Victory | 0.40% | ~53 |
 | Double Victory | 0.40% | ~53 |
+| Win a Single Player Game | 0.40% | ~53 |
 | Bad Heir Day | 0.30% | ~40 |
 | Ishtar Gate in Babylon | 0.30% | ~40 |
 | Capable | 0.30% | ~40 |
@@ -119,7 +121,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.30% | ~40 |
 | Church of the Holy Sepulchre | 0.30% | ~40 |
 | Learn to Play 4 | 0.30% | ~40 |
-| Babylonia | 0.30% | ~40 |
 | Rome | 0.30% | ~40 |
 | One True Faith | 0.30% | ~40 |
 | Assyrian Paganism | 0.30% | ~40 |
@@ -130,13 +131,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.30% | ~40 |
 | Kushite Cavalry | 0.30% | ~40 |
 | Turreted Elephant | 0.30% | ~40 |
-| Win a Single Player Game | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
 | Carthage - Ox Hide | 0.20% | ~27 |
 | Old | 0.20% | ~27 |
 | Peacemaker | 0.20% | ~27 |
 | Glorious Difficulty | 0.20% | ~27 |
 | Noble Difficulty | 0.20% | ~27 |
+| Run, Pheidippides, Run! | 0.20% | ~27 |
 | Cao'an | 0.20% | ~27 |
 | Egypt | 0.20% | ~27 |
 | Persia | 0.20% | ~27 |
@@ -196,7 +197,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Five Routs | 0.10% | ~13 |
 | Game of the Week | 0.10% | ~13 |
 | Defend Where? | 0.10% | ~13 |
-| Run, Pheidippides, Run! | 0.10% | ~13 |
 | Nenikekamen | 0.10% | ~13 |
 | Get the Hellas Out | 0.10% | ~13 |
 | The Turning Point | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,275 (Ranked 117)  
+Progressed: 13,276 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -410,7 +410,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-02 | 13,244 | 5 |
 | 2023-08-03 | 13,260 | 5 |
 | 2023-08-04 | 13,269 | 5 |
-| 2023-08-05 | 13,275 | 5 |
+| 2023-08-05 | 13,276 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 264)  
 Sum: 1,786 (Ranked 206)  
