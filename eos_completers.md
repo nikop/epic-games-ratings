@@ -27,9 +27,9 @@
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 27 | [Sonic Origins](games/s/sonic_origins.md) | 9.97% |
-| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.00% |
-| 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.99% |
-| 30 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.93% |
+| 28 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.99% |
+| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.97% |
+| 30 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.77% |
 | 31 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
 | 32 | [Smelter](games/s/smelter.md) | 7.69% |
 | 33 | [Ravenlok](games/r/ravenlok.md) | 7.33% |
@@ -52,7 +52,7 @@
 | 50 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.52% |
 | 52 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.24% |
-| 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.02% |
+| 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.01% |
 | 54 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
 | 55 | [ZZT!](games/z/zzt!.md) | 3.71% |
 | 56 | [Without Escape](games/w/without_escape.md) | 3.70% |
