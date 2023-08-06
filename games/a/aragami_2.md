@@ -1,24 +1,24 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 485)  
+Rating: 4.55 (Ranked 486)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~37,198 |
-| First Steps | 80.00% | ~31,998 |
-| Control the Shadows | 67.00% | ~26,799 |
-| Tools of the Trade | 63.00% | ~25,199 |
-| Apprentice | 60.00% | ~23,999 |
-| Secret Seeker | 57.00% | ~22,799 |
-| Forge of Assassins | 55.00% | ~21,999 |
-| Revenant | 52.00% | ~20,799 |
-| I don’t Care! | 45.00% | ~17,999 |
-| Bird of Prey | 37.00% | ~14,799 |
-| Engraved with Power | 32.00% | ~12,799 |
-| Lady | 31.00% | ~12,399 |
-| Fashionable Assassin | 27.00% | ~10,799 |
+| Awakening | 93.00% | ~37,200 |
+| First Steps | 80.00% | ~32,000 |
+| Control the Shadows | 67.00% | ~26,800 |
+| Tools of the Trade | 63.00% | ~25,200 |
+| Apprentice | 60.00% | ~24,000 |
+| Secret Seeker | 57.00% | ~22,800 |
+| Forge of Assassins | 55.00% | ~22,000 |
+| Revenant | 52.00% | ~20,800 |
+| I don’t Care! | 45.00% | ~18,000 |
+| Bird of Prey | 37.00% | ~14,800 |
+| Engraved with Power | 32.00% | ~12,800 |
+| Lady | 31.00% | ~12,400 |
+| Fashionable Assassin | 27.00% | ~10,800 |
 | Apex Predator | 24.00% | ~9,600 |
 | Soul Reaver | 22.00% | ~8,800 |
 | Embers | 21.00% | ~8,400 |
@@ -51,8 +51,8 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~400 |
 | Anger Management | 1.00% | ~400 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,998 (Ranked 92)  
-Completed: 204 (0.51%) (Ranked 137)  
+Progressed: 40,000 (Ranked 92)  
+Completed: 204 (0.51%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -159,7 +159,7 @@ Completed: 204 (0.51%) (Ranked 137)
 | 2023-08-03 | 39,755 | 200 |
 | 2023-08-04 | 39,853 | 201 |
 | 2023-08-05 | 39,939 | 202 |
-| 2023-08-06 | 39,998 | 204 |
+| 2023-08-06 | 40,000 | 204 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,11 +4,11 @@
   "ProductSlug": "rimworld",
   "Ranking_Rating": 12,
   "Ranking_Popularity": 205,
-  "Ranking_PopularitySum": 147,
+  "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 529,
-  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-06-09T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -2042,10 +2042,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 3766,
       "NumberOfAwardsMax": 425
+    },
+    {
+      "Time": "2023-08-06T13:58:39.7052822+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 3767,
+      "NumberOfAwardsMax": 425
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3766,
+  "NumberOfAwards": 3767,
   "NumberOfAwardsMax": 425,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2053,7 +2059,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 399
+      "Count": 400
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2127,8 +2133,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2023-08-04T22:58:51.5975619+00:00",
+  "LastChanged": "2023-08-06T13:58:39.7052821+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:42.0516709+00:00",
-  "LastUpdate_Ratings": "2023-08-06T13:01:07.419724+00:00",
-  "LastUpdate_Achievements": "2023-08-06T13:05:16.4114842+00:00"
+  "LastUpdate_Ratings": "2023-08-06T13:58:39.7052827+00:00",
+  "LastUpdate_Achievements": "2023-08-06T14:03:10.414286+00:00"
 }

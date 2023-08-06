@@ -12,12 +12,12 @@
 | Through the Heavenly Gate | 27.00% | ~3 |
 | Where's the Sprint Button? | 27.00% | ~3 |
 | The Bigger They Are... | 27.00% | ~3 |
+| The Cipher Way | 18.00% | ~2 |
 | Cratepocalipse | 18.00% | ~2 |
 | Wingman | 18.00% | ~2 |
 | The Power of... Flight? | 18.00% | ~2 |
 | Critical Infrastructure | 18.00% | ~2 |
 | Master Archivist | 9.00% | ~1 |
-| The Cipher Way | 9.00% | ~1 |
 | Petting Zoo | 9.00% | ~1 |
 | Daemon Deferred | 9.00% | ~1 |
 | Apocryphile | 0.00% | ~0 |
@@ -27,7 +27,7 @@
 | Revisionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11 (Ranked 425)  
-Completed: 0 (0.00%) (Ranked 249)  
+Completed: 0 (0.00%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 144,
+  "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -206,7 +206,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6926,
+  "EOS_Progressed": 6927,
   "EOS_Completed": 31,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 1,
@@ -5381,6 +5381,11 @@
       "Time": "2023-08-06T12:04:51.3673146+00:00",
       "NumProgressed": 6926,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-08-06T14:04:46.4422658+00:00",
+      "NumProgressed": 6927,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 21,
@@ -5440,7 +5445,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -5496,7 +5501,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "LIBERATOR",
@@ -5559,7 +5564,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6926,
+      "Progressed": 6927,
       "Completed": 31
     }
   ],
@@ -5567,8 +5572,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-06T01:45:10.7713347+00:00",
-  "LastChanged_Achievements": "2023-08-06T13:07:20.7563315+00:00",
+  "LastChanged_Achievements": "2023-08-06T14:04:46.4422655+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:44.0074505+00:00",
-  "LastUpdate_Ratings": "2023-08-06T13:01:09.2376043+00:00",
-  "LastUpdate_Achievements": "2023-08-06T13:07:20.7563669+00:00"
+  "LastUpdate_Ratings": "2023-08-06T13:58:40.5890653+00:00",
+  "LastUpdate_Achievements": "2023-08-06T14:04:46.4423146+00:00"
 }

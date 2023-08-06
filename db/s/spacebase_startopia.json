@@ -3,9 +3,9 @@
   "Name": "Spacebase Startopia - Standard Edition",
   "ProductSlug": "spacebase-startopia",
   "Ranking_EOS_Progress": 420,
-  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-03-26T17:00:00+00:00",
     "PcReleaseDate": "2021-03-26T17:00:00+00:00",
@@ -329,8 +329,8 @@
   "FirstSeenRating": "2023-03-31T05:57:24.2044806+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:32.3445242+00:00",
   "LastChanged": "2023-03-31T05:57:24.2044807+00:00",
-  "LastChanged_Achievements": "2023-08-06T13:07:05.7200015+00:00",
+  "LastChanged_Achievements": "2023-08-06T14:04:34.3076348+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:50.221494+00:00",
-  "LastUpdate_Ratings": "2023-08-06T13:02:20.2000609+00:00",
-  "LastUpdate_Achievements": "2023-08-06T13:07:05.7200215+00:00"
+  "LastUpdate_Ratings": "2023-08-06T13:59:44.2316598+00:00",
+  "LastUpdate_Achievements": "2023-08-06T14:04:34.3076593+00:00"
 }

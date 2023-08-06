@@ -5,13 +5,13 @@ Rating: 4.08 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,646 |
-| World Map | 79.00% | ~1,398 |
-| Temple of Eternals | 56.00% | ~991 |
-| Prestigious | 53.00% | ~938 |
+| Victor | 93.00% | ~1,647 |
+| World Map | 79.00% | ~1,399 |
+| Temple of Eternals | 56.00% | ~992 |
+| Prestigious | 53.00% | ~939 |
 | Fellowship Power | 41.00% | ~726 |
-| Guild Power | 25.00% | ~442 |
-| Prestigious x10 | 22.00% | ~389 |
+| Guild Power | 25.00% | ~443 |
+| Prestigious x10 | 22.00% | ~390 |
 | The game is on | 20.00% | ~354 |
 | Exotic Merchant | 18.00% | ~319 |
 | Dragon Clicker | 17.00% | ~301 |
@@ -27,12 +27,12 @@ Rating: 4.08 (Ranked 907)
 | Natural Talent | 13.00% | ~230 |
 | Superior | 13.00% | ~230 |
 | The Unstoppable | 13.00% | ~230 |
+| Doing My Part | 11.00% | ~195 |
 | Hunter | 11.00% | ~195 |
 | Scientist | 11.00% | ~195 |
 | The power of Awakening | 11.00% | ~195 |
 | Challenger | 10.00% | ~177 |
 | Daily Quest Completionist | 10.00% | ~177 |
-| Doing My Part | 10.00% | ~177 |
 | Frostfire Liberator | 10.00% | ~177 |
 | Mastery | 10.00% | ~177 |
 | Moving Up The Ladder | 10.00% | ~177 |
@@ -54,8 +54,8 @@ Rating: 4.08 (Ranked 907)
 | How Do You Turn This On? | 6.00% | ~106 |
 | Lock And Load | 6.00% | ~106 |
 | Missions Dedication | 6.00% | ~106 |
-| Sailor | 5.00% | ~88 |
-| The Alchemist | 5.00% | ~88 |
+| Sailor | 5.00% | ~89 |
+| The Alchemist | 5.00% | ~89 |
 | Active Member | 4.00% | ~71 |
 | Arena Challenger | 4.00% | ~71 |
 | Background Story | 4.00% | ~71 |
@@ -81,8 +81,8 @@ Rating: 4.08 (Ranked 907)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,770 (Ranked 172)  
-Completed: 2 (0.11%) (Ranked 194)  
+Progressed: 1,771 (Ranked 172)  
+Completed: 2 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -188,7 +188,7 @@ Completed: 2 (0.11%) (Ranked 194)
 | 2023-08-02 | 1,755 | 2 |
 | 2023-08-04 | 1,761 | 2 |
 | 2023-08-05 | 1,767 | 2 |
-| 2023-08-06 | 1,770 | 2 |
+| 2023-08-06 | 1,771 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

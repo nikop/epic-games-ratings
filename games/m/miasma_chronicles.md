@@ -5,45 +5,45 @@ Rating: 4.40 (Ranked 696)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,244 |
-| Ranidaphobia | 77.00% | ~1,041 |
-| Aspiring Editor | 75.00% | ~1,014 |
-| Gun for Hire | 70.00% | ~946 |
-| I am the law! | 64.00% | ~865 |
-| Lumberjack | 53.00% | ~717 |
-| Croaked | 48.00% | ~649 |
-| Limp Richard | 48.00% | ~649 |
-| Exorcist | 47.00% | ~635 |
-| From Darkness to Light | 47.00% | ~635 |
-| Editor Adept | 46.00% | ~622 |
-| Giant Killer | 44.00% | ~595 |
-| Sensei | 42.00% | ~568 |
-| Firestarter | 41.00% | ~554 |
-| The meaning of Kain | 41.00% | ~554 |
-| Technophobe | 39.00% | ~527 |
-| Recycler | 38.00% | ~514 |
-| Are you not entertained? | 34.00% | ~460 |
-| Ganglord | 33.00% | ~446 |
-| Jarhead | 33.00% | ~446 |
-| Infiltrator | 32.00% | ~433 |
-| Pushing Daisy | 31.00% | ~419 |
-| Experienced | 30.00% | ~406 |
-| Hold The Line | 29.00% | ~392 |
-| Endgame | 26.00% | ~352 |
-| Savior | 25.00% | ~338 |
-| There Can Be Only One! | 25.00% | ~338 |
-| Chain Killer | 22.00% | ~297 |
-| The Watchers | 21.00% | ~284 |
-| Silent but Violent | 18.00% | ~243 |
-| Commando | 16.00% | ~216 |
-| Newtonian Knockout | 16.00% | ~216 |
-| Chaos Theory | 15.00% | ~203 |
-| Dr Jones | 15.00% | ~203 |
-| Ruthless | 14.00% | ~189 |
-| Side Order | 10.00% | ~135 |
+| First Blood | 92.00% | ~1,248 |
+| Ranidaphobia | 77.00% | ~1,045 |
+| Aspiring Editor | 75.00% | ~1,018 |
+| Gun for Hire | 70.00% | ~950 |
+| I am the law! | 63.00% | ~855 |
+| Lumberjack | 52.00% | ~706 |
+| Croaked | 48.00% | ~651 |
+| Limp Richard | 47.00% | ~638 |
+| From Darkness to Light | 47.00% | ~638 |
+| Editor Adept | 46.00% | ~624 |
+| Exorcist | 46.00% | ~624 |
+| Giant Killer | 44.00% | ~597 |
+| Sensei | 42.00% | ~570 |
+| Firestarter | 41.00% | ~556 |
+| The meaning of Kain | 40.00% | ~543 |
+| Technophobe | 39.00% | ~529 |
+| Recycler | 38.00% | ~516 |
+| Are you not entertained? | 33.00% | ~448 |
+| Ganglord | 33.00% | ~448 |
+| Jarhead | 33.00% | ~448 |
+| Infiltrator | 32.00% | ~434 |
+| Pushing Daisy | 31.00% | ~421 |
+| Experienced | 30.00% | ~407 |
+| Hold The Line | 29.00% | ~394 |
+| Endgame | 26.00% | ~353 |
+| Savior | 25.00% | ~339 |
+| There Can Be Only One! | 25.00% | ~339 |
+| Chain Killer | 22.00% | ~299 |
+| The Watchers | 21.00% | ~285 |
+| Silent but Violent | 18.00% | ~244 |
+| Commando | 16.00% | ~217 |
+| Newtonian Knockout | 16.00% | ~217 |
+| Chaos Theory | 15.00% | ~204 |
+| Dr Jones | 15.00% | ~204 |
+| Ruthless | 14.00% | ~190 |
+| Side Order | 10.00% | ~136 |
 | Chain Reaction | 9.00% | ~122 |
-| Bot Whisperer | 8.00% | ~108 |
-| Curveball | 8.00% | ~108 |
+| Bot Whisperer | 8.00% | ~109 |
+| Curveball | 8.00% | ~109 |
 | Wipe Out | 7.00% | ~95 |
 | Dressed To Kill | 6.00% | ~81 |
 | Master Editor | 4.00% | ~54 |
@@ -57,8 +57,8 @@ Rating: 4.40 (Ranked 696)
 | QA Has Suffered! (Redux) | 0.80% | ~11 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,352 (Ranked 184)  
-Completed: 0 (0.00%) (Ranked 249)  
+Progressed: 1,357 (Ranked 184)  
+Completed: 0 (0.00%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -130,7 +130,7 @@ Completed: 0 (0.00%) (Ranked 249)
 | 2023-08-03 | 1,344 | 0 |
 | 2023-08-04 | 1,347 | 0 |
 | 2023-08-05 | 1,350 | 0 |
-| 2023-08-06 | 1,352 | 0 |
+| 2023-08-06 | 1,357 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

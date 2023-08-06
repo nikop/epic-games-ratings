@@ -42,7 +42,7 @@ Rating: 4.45 (Ranked 631)
 | Flawless Victory | 11.00% | ~342 |
 | This Went Smoothly | 11.00% | ~342 |
 | Heavy Steps | 11.00% | ~342 |
-| Perfect Enhancements | 8.00% | ~249 |
+| Perfect Enhancements | 9.00% | ~280 |
 | Hardened In The Heat Of Battle | 6.00% | ~187 |
 | The True Experience | 6.00% | ~187 |
 | Fair And Square | 2.00% | ~62 |
@@ -52,7 +52,7 @@ Rating: 4.45 (Ranked 631)
 | This Ain't No Picnic | 0.50% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,111 (Ranked 154)  
-Completed: 2 (0.06%) (Ranked 209)  
+Completed: 2 (0.06%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

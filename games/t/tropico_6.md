@@ -6,16 +6,16 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,472 |
-| Un-Lonely Island | 47.00% | ~2,176 |
+| Just One...More...Term... | 75.00% | ~3,473 |
+| Un-Lonely Island | 47.00% | ~2,177 |
 | The Beginning of a Servantship | 45.00% | ~2,084 |
 | Trade Is My Trait | 37.00% | ~1,713 |
 | Number 18 | 24.00% | ~1,111 |
 | We Don't Have Time For That | 19.00% | ~880 |
-| The Governator | 18.00% | ~833 |
+| The Governator | 18.00% | ~834 |
 | Caribbean Comrade | 16.00% | ~741 |
 | The Legend of Langostino | 16.00% | ~741 |
-| The Dreamer of Dreams | 15.00% | ~694 |
+| The Dreamer of Dreams | 15.00% | ~695 |
 | Go Sovereigns! | 11.00% | ~509 |
 | For Science! | 11.00% | ~509 |
 | Happy Ending? | 10.00% | ~463 |
@@ -47,8 +47,8 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~42 |
 | My Ways | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,630 (Ranked 144)  
-Completed: 2 (0.04%) (Ranked 220)  
+Progressed: 4,631 (Ranked 144)  
+Completed: 2 (0.04%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -155,17 +155,17 @@ Completed: 2 (0.04%) (Ranked 220)
 | 2023-08-03 | 4,581 | 2 |
 | 2023-08-04 | 4,601 | 2 |
 | 2023-08-05 | 4,621 | 2 |
-| 2023-08-06 | 4,630 | 2 |
+| 2023-08-06 | 4,631 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 341)  
-Sum: 672 (Ranked 277)  
-Diff (max vs sum): 64  
+Sum: 673 (Ranked 276)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
 | This game has Quickly Understood Controls | 96 |
 | This game is Relaxing | 92 |
-| This game is Highly Recommended | 87 |
+| This game is Highly Recommended | 88 |
 | This game has Amazing Storytelling | 87 |
 | This game has Amazing Characters | 83 |
 | This game is Educational | 83 |
@@ -295,3 +295,4 @@ Diff (max vs sum): 64
 | 2023-07-18 | 4.67 | - | 95 | 668 |
 | 2023-07-22 | 4.67 | - | 96 | 669 |
 | 2023-07-29 | 4.67 | - | 96 | 672 |
+| 2023-08-06 | 4.67 | - | 96 | 673 |

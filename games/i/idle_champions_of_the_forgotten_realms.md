@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,770 |
+| A Brief Tour of the Realms | 4.00% | ~8,771 |
 | Beast Intentions | 3.00% | ~6,578 |
-| Maddening | 2.00% | ~4,385 |
+| Maddening | 2.00% | ~4,386 |
 | The Silken Swamp | 1.00% | ~2,193 |
 | Supply Run | 1.00% | ~2,193 |
-| Vecna Lives! | 1.00% | ~1,855 |
-| Rocky Reception | 1.00% | ~1,855 |
-| Rock and Roll | 1.00% | ~1,855 |
+| Vecna Lives! | 1.00% | ~1,856 |
+| Rocky Reception | 1.00% | ~1,856 |
+| Rock and Roll | 1.00% | ~1,856 |
 | Flight of the Kindori Pod | 0.90% | ~1,670 |
 | Tall Tales | 0.80% | ~1,484 |
 | Seeds of Destruction | 0.80% | ~1,484 |
@@ -27,11 +27,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.70% | ~1,535 |
 | Unearthed Evil | 0.70% | ~1,535 |
 | The Cursed Farmer | 0.70% | ~1,535 |
+| The Mad Wizard | 0.70% | ~1,535 |
 | Pros and CONs | 0.60% | ~1,316 |
 | The Witchlight Carnival | 0.60% | ~1,113 |
 | Hatchlings Underfoot | 0.60% | ~1,316 |
 | Don't Look Up! | 0.60% | ~1,316 |
-| Heavy Burden | 0.60% | ~1,316 |
 | The Evacuation of Waterdeep | 0.60% | ~1,113 |
 | The Dread Domain of Tovag | 0.60% | ~1,113 |
 | Beast Mode | 0.60% | ~1,316 |
@@ -39,9 +39,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.60% | ~1,316 |
 | The Dinner Party | 0.60% | ~1,316 |
 | The Botched Kidnapping | 0.60% | ~1,316 |
-| The Mad Wizard | 0.60% | ~1,316 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,113 |
 | Thieves of the Coven | 0.50% | ~928 |
+| Heavy Burden | 0.50% | ~1,096 |
 | Friends of the Forest | 0.50% | ~1,096 |
 | Low Initiative | 0.50% | ~1,096 |
 | Street War | 0.50% | ~1,096 |
@@ -75,6 +75,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.40% | ~742 |
 | Welcome to the Rock | 0.40% | ~742 |
 | The Forbidden City | 0.40% | ~877 |
+| Captured! | 0.40% | ~877 |
 | Wisdom Check | 0.40% | ~877 |
 | Tower on the Lake | 0.40% | ~877 |
 | Trollskull Manor | 0.40% | ~877 |
@@ -112,7 +113,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Get Back In The Castle | 0.30% | ~557 |
 | Checkmate | 0.30% | ~557 |
 | Lobsterfolk Assault | 0.30% | ~658 |
-| Captured! | 0.30% | ~658 |
 | Home Field Advantage | 0.30% | ~658 |
 | Force Grey Unleashed | 0.30% | ~658 |
 | Vajra's Guards | 0.30% | ~658 |
@@ -143,6 +143,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.30% | ~658 |
 | Flying Monkey Skulls of Doom | 0.30% | ~658 |
 | Lair of the Xanathar | 0.30% | ~658 |
+| Waterdeep Under Siege | 0.30% | ~658 |
 | The Darkness Runs Deeper | 0.30% | ~658 |
 | Difficult Terrain | 0.30% | ~658 |
 | Dinosaur Racing | 0.30% | ~658 |
@@ -215,7 +216,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cramped Quarters | 0.20% | ~439 |
 | A Tale of Two Fiends | 0.20% | ~439 |
 | Slow and Steady | 0.20% | ~439 |
-| Waterdeep Under Siege | 0.20% | ~439 |
 | Crowded Streets | 0.20% | ~439 |
 | Patience is Key | 0.20% | ~439 |
 | Troublesome Prisoner | 0.20% | ~439 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,252 (Ranked 53)  
-Completed: 2,154 (0.98%) (Ranked 113)  
+Progressed: 219,276 (Ranked 53)  
+Completed: 2,155 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -627,7 +627,7 @@ Completed: 2,154 (0.98%) (Ranked 113)
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
-| 2023-08-06 | 219,252 | 2,154 |
+| 2023-08-06 | 219,276 | 2,155 |
 ## Awards
 Max (Diverse Characters): 5,119  (Ranked 67)  
 Sum: 30,919 (Ranked 38)  

@@ -1,17 +1,17 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.56 (Ranked 466)  
+Rating: 4.56 (Ranked 467)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~9,608 |
-| Pay 'n' Spray | 50.00% | ~5,931 |
+| Getting Started | 81.00% | ~9,610 |
+| Pay 'n' Spray | 50.00% | ~5,932 |
 | All Dressed Up for San Fierro | 25.00% | ~2,966 |
 | The American Dream | 19.00% | ~2,254 |
-| School's Out | 18.00% | ~2,135 |
+| School's Out | 18.00% | ~2,136 |
 | Smooth Moves | 16.00% | ~1,898 |
-| Today Was a Good Day | 15.00% | ~1,779 |
+| Today Was a Good Day | 15.00% | ~1,780 |
 | What happens in Las Venturas... | 14.00% | ~1,661 |
 | Horror of the Santa Maria | 11.00% | ~1,305 |
 | Liberty City State of Mind | 9.00% | ~1,068 |
@@ -20,8 +20,8 @@ Rating: 4.56 (Ranked 466)
 | With Extra Dip | 6.00% | ~712 |
 | Saviour | 6.00% | ~712 |
 | Rescue a Kitten Too? | 5.00% | ~593 |
-| They Can’t Stop All of Us | 4.00% | ~474 |
-| What are the Odds | 4.00% | ~474 |
+| They Can’t Stop All of Us | 4.00% | ~475 |
+| What are the Odds | 4.00% | ~475 |
 | Bike or Biker | 3.00% | ~356 |
 | What the City Needs | 3.00% | ~356 |
 | A Legitimate Business | 2.00% | ~237 |
@@ -41,8 +41,8 @@ Rating: 4.56 (Ranked 466)
 | ...Here we go again | 0.40% | ~47 |
 | I Ain't No Buster | 0.30% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,862 (Ranked 119)  
-Completed: 34 (0.29%) (Ranked 163)  
+Progressed: 11,864 (Ranked 119)  
+Completed: 34 (0.29%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -149,7 +149,7 @@ Completed: 34 (0.29%) (Ranked 163)
 | 2023-08-03 | 11,804 | 34 |
 | 2023-08-04 | 11,827 | 34 |
 | 2023-08-05 | 11,853 | 34 |
-| 2023-08-06 | 11,862 | 34 |
+| 2023-08-06 | 11,864 | 34 |
 ## Awards
 Max (Great Boss Battles): 242  (Ranked 254)  
 Sum: 262 (Ranked 351)  

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 234,
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 105,
-  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1812,9 +1812,9 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20583,
+  "EOS_Progressed": 20584,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7452,6 +7452,11 @@
       "Time": "2023-08-06T11:07:29.2946046+00:00",
       "NumProgressed": 20583,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-06T14:06:48.8113406+00:00",
+      "NumProgressed": 20584,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 23,
@@ -7487,7 +7492,7 @@
       "Name": "Do it ASAP",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "DolanTrusk",
@@ -7511,7 +7516,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 19348
+      "UsersEstimate": 19349
     },
     {
       "ID": "GameOver",
@@ -7646,15 +7651,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20583,
+      "Progressed": 20584,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-08-05T21:00:28.1825083+00:00",
-  "LastChanged_Achievements": "2023-08-06T13:09:38.3532614+00:00",
+  "LastChanged_Achievements": "2023-08-06T14:06:48.8113401+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:27.5399246+00:00",
-  "LastUpdate_Ratings": "2023-08-06T13:03:06.7449122+00:00",
-  "LastUpdate_Achievements": "2023-08-06T13:09:38.3532985+00:00"
+  "LastUpdate_Ratings": "2023-08-06T14:00:29.3544436+00:00",
+  "LastUpdate_Achievements": "2023-08-06T14:06:48.8113983+00:00"
 }

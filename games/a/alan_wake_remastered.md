@@ -1,22 +1,22 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 485)  
+Rating: 4.55 (Ranked 486)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,339 |
-| Let There Be Light | 30.00% | ~18,112 |
-| Float Like a Butterfly | 28.00% | ~16,905 |
-| Nordic Walking | 23.00% | ~13,886 |
-| Bright Falls' Finest | 22.00% | ~13,282 |
-| Under a Thin Layer of Skin | 19.00% | ~11,471 |
+| Follow the Light | 37.00% | ~22,340 |
+| Let There Be Light | 30.00% | ~18,113 |
+| Float Like a Butterfly | 28.00% | ~16,906 |
+| Nordic Walking | 23.00% | ~13,887 |
+| Bright Falls' Finest | 22.00% | ~13,283 |
+| Under a Thin Layer of Skin | 19.00% | ~11,472 |
 | Park Ranger | 16.00% | ~9,660 |
 | Paging Mr. Wake | 16.00% | ~9,660 |
-| Back! Back, I Say! | 15.00% | ~9,056 |
-| Finders Keepers | 15.00% | ~9,056 |
-| Damn Good Cup of Coffee | 14.00% | ~8,452 |
+| Back! Back, I Say! | 15.00% | ~9,057 |
+| Finders Keepers | 15.00% | ~9,057 |
+| Damn Good Cup of Coffee | 14.00% | ~8,453 |
 | Wheels Within Wheels | 13.00% | ~7,849 |
 | They're Heeeeeere! | 13.00% | ~7,849 |
 | Sound and Fury | 13.00% | ~7,849 |
@@ -25,8 +25,8 @@ Number of Ratings: 524  (23.09.2022)
 | The Six-Gun Scribe | 12.00% | ~7,245 |
 | Collateral Carnage | 12.00% | ~7,245 |
 | Come One, Come All | 12.00% | ~7,245 |
-| Heavy Metal | 11.00% | ~6,641 |
-| Perchance to Dream | 11.00% | ~6,641 |
+| Heavy Metal | 11.00% | ~6,642 |
+| Perchance to Dream | 11.00% | ~6,642 |
 | Gatekeeper | 10.00% | ~6,038 |
 | It's Not Just a Typewriter Brand | 10.00% | ~6,038 |
 | Thunder and Lightning | 10.00% | ~6,038 |
@@ -35,9 +35,9 @@ Number of Ratings: 524  (23.09.2022)
 | Energized! | 9.00% | ~5,434 |
 | What Light Through Yonder Window | 8.00% | ~4,830 |
 | Right of Way | 8.00% | ~4,830 |
-| A Friend in Need | 8.00% | ~1,907 |
+| A Friend in Need | 8.00% | ~1,908 |
 | Tornado Wrangler | 7.00% | ~4,226 |
-| Departure | 6.00% | ~3,622 |
+| Departure | 6.00% | ~3,623 |
 | A Friend Indeed | 6.00% | ~1,431 |
 | Children of the Elder God | 5.00% | ~3,019 |
 | Drink 'Em Both Up | 5.00% | ~3,019 |
@@ -74,8 +74,8 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~60 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,375 (Ranked 84)  
-Completed: 64 (0.11%) (Ranked 194)  
+Progressed: 60,378 (Ranked 84)  
+Completed: 64 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -182,7 +182,7 @@ Completed: 64 (0.11%) (Ranked 194)
 | 2023-08-03 | 60,143 | 63 |
 | 2023-08-04 | 60,237 | 64 |
 | 2023-08-05 | 60,337 | 64 |
-| 2023-08-06 | 60,375 | 64 |
+| 2023-08-06 | 60,378 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -6,46 +6,46 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 8.00% | ~6,451 |
-| Until death do us apart | 8.00% | ~6,451 |
-| Victorious! | 8.00% | ~6,451 |
-| That is mine! | 7.00% | ~5,645 |
-| Brothers in Arms | 6.00% | ~4,838 |
-| That's a Grand Navy | 6.00% | ~4,838 |
-| Seriously?! | 6.00% | ~4,838 |
-| For the Glory | 5.00% | ~4,032 |
-| Cold War | 4.00% | ~3,226 |
-| True Catholic | 4.00% | ~3,226 |
-| Defender of the Faith | 3.00% | ~2,419 |
-| It's all about the money | 3.00% | ~2,419 |
-| Respected | 3.00% | ~2,419 |
-| The Princess is in this Castle | 3.00% | ~2,419 |
-| Truly Divine Ruler | 3.00% | ~2,419 |
-| Agressive Expander | 2.00% | ~1,613 |
-| Blockader | 2.00% | ~1,613 |
-| Combined Arms | 2.00% | ~1,613 |
-| Double the Love | 2.00% | ~1,613 |
-| It's all about luck | 2.00% | ~1,613 |
-| My armies are invincible! | 2.00% | ~1,613 |
-| Royal Authority | 2.00% | ~1,613 |
-| Total Control | 2.00% | ~1,613 |
-| All That's Thine Shall Be Mine | 1.00% | ~806 |
-| Azur semé de lis or | 1.00% | ~806 |
-| Bright Spark | 1.00% | ~806 |
-| City of Cities | 1.00% | ~806 |
-| The Emperors new clothes | 1.00% | ~806 |
-| Factionalism | 1.00% | ~806 |
-| Gentle Persuasion | 1.00% | ~806 |
-| A Golden Empire | 1.00% | ~806 |
-| Queen of Conquest | 1.00% | ~806 |
-| The Five Colonies | 1.00% | ~806 |
-| This navy can take it all | 1.00% | ~806 |
+| That's a Grand Army | 8.00% | ~6,455 |
+| Until death do us apart | 8.00% | ~6,455 |
+| Victorious! | 8.00% | ~6,455 |
+| That is mine! | 7.00% | ~5,648 |
+| Brothers in Arms | 6.00% | ~4,841 |
+| That's a Grand Navy | 6.00% | ~4,841 |
+| Seriously?! | 6.00% | ~4,841 |
+| For the Glory | 5.00% | ~4,034 |
+| Cold War | 4.00% | ~3,228 |
+| True Catholic | 4.00% | ~3,228 |
+| Defender of the Faith | 3.00% | ~2,421 |
+| It's all about the money | 3.00% | ~2,421 |
+| Respected | 3.00% | ~2,421 |
+| The Princess is in this Castle | 3.00% | ~2,421 |
+| Truly Divine Ruler | 3.00% | ~2,421 |
+| Agressive Expander | 2.00% | ~1,614 |
+| Blockader | 2.00% | ~1,614 |
+| Combined Arms | 2.00% | ~1,614 |
+| Double the Love | 2.00% | ~1,614 |
+| It's all about luck | 2.00% | ~1,614 |
+| My armies are invincible! | 2.00% | ~1,614 |
+| Royal Authority | 2.00% | ~1,614 |
+| Total Control | 2.00% | ~1,614 |
+| All That's Thine Shall Be Mine | 1.00% | ~807 |
+| Azur semé de lis or | 1.00% | ~807 |
+| Bright Spark | 1.00% | ~807 |
+| City of Cities | 1.00% | ~807 |
+| The Emperors new clothes | 1.00% | ~807 |
+| Factionalism | 1.00% | ~807 |
+| Gentle Persuasion | 1.00% | ~807 |
+| A Golden Empire | 1.00% | ~807 |
+| Queen of Conquest | 1.00% | ~807 |
+| The Five Colonies | 1.00% | ~807 |
+| This navy can take it all | 1.00% | ~807 |
 | Isn't this the way to India? | 0.90% | ~726 |
 | Market Control | 0.90% | ~726 |
 | Trustworthy | 0.90% | ~726 |
-| Down Under | 0.80% | ~645 |
-| Electable! | 0.70% | ~564 |
-| Populists in Government | 0.70% | ~564 |
+| Down Under | 0.80% | ~646 |
+| Electable! | 0.70% | ~565 |
+| Populists in Government | 0.70% | ~565 |
 | All belongs to Mother Russia | 0.60% | ~484 |
 | At every continent | 0.60% | ~484 |
 | One Family to Rule them All | 0.60% | ~484 |
@@ -87,7 +87,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | AAA Credit | 0.20% | ~161 |
 | An early Reich | 0.20% | ~161 |
 | Basileus | 0.20% | ~161 |
-| Center of Attention | 0.20% | ~161 |
 | Fine Financials | 0.20% | ~161 |
 | Full House | 0.20% | ~161 |
 | Imperio español | 0.20% | ~161 |
@@ -139,6 +138,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brick by Brick | 0.10% | ~81 |
 | The Buddhists Strike Back | 0.10% | ~81 |
 | Carthago Delenda Est | 0.10% | ~81 |
+| Center of Attention | 0.10% | ~81 |
 | Cherrypicking | 0.10% | ~81 |
 | Chop Chop | 0.10% | ~81 |
 | Choson One | 0.10% | ~81 |
@@ -361,8 +361,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,639 (Ranked 75)  
-Completed: 0 (0.00%) (Ranked 249)  
+Progressed: 80,690 (Ranked 75)  
+Completed: 0 (0.00%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -469,7 +469,7 @@ Completed: 0 (0.00%) (Ranked 249)
 | 2023-08-03 | 78,060 | 0 |
 | 2023-08-04 | 79,131 | 0 |
 | 2023-08-05 | 80,125 | 0 |
-| 2023-08-06 | 80,639 | 0 |
+| 2023-08-06 | 80,690 | 0 |
 ## Awards
 Max (Educational): 5,617  (Ranked 63)  
 Sum: 46,387 (Ranked 26)  

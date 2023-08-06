@@ -3,9 +3,9 @@
   "Name": "Battle Chess II: Chinese Chess",
   "ProductSlug": "battle-chess-ii-chinese-chess-f67c3c",
   "Ranking_EOS_Progress": 529,
-  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-07-01T16:00:00+00:00",
     "PcReleaseDate": "2022-07-01T16:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-05T05:59:17.0293211+00:00",
-  "LastUpdate_Ratings": "2023-08-06T13:02:45.9785275+00:00",
-  "LastUpdate_Achievements": "2023-08-06T13:07:34.8766582+00:00"
+  "LastUpdate_Ratings": "2023-08-06T14:00:13.0671671+00:00",
+  "LastUpdate_Achievements": "2023-08-06T14:04:58.2164726+00:00"
 }

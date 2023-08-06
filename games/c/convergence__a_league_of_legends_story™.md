@@ -6,8 +6,8 @@ Rating: 4.60 (Ranked 389)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 24.00% | ~198 |
+| Rail Rat | 21.00% | ~173 |
 | The Mysterious Stranger | 20.00% | ~165 |
-| Rail Rat | 20.00% | ~165 |
 | Make Up For Lost Time | 18.00% | ~148 |
 | The Prince in Heels | 18.00% | ~148 |
 | Immaculate Aim | 18.00% | ~148 |
@@ -21,6 +21,7 @@ Rating: 4.60 (Ranked 389)
 | The Wicked Twins | 16.00% | ~132 |
 | Honest Mistake | 16.00% | ~132 |
 | Fast Learner | 16.00% | ~132 |
+| Right On Time | 15.00% | ~124 |
 | Like Clockwork | 15.00% | ~124 |
 | The Betrayer | 15.00% | ~124 |
 | The Man Who Shattered Time | 15.00% | ~124 |
@@ -29,7 +30,6 @@ Rating: 4.60 (Ranked 389)
 | Check Your Pulse | 15.00% | ~124 |
 | The Family Fortune | 15.00% | ~124 |
 | Treasure Trove | 14.00% | ~116 |
-| Right On Time | 14.00% | ~116 |
 | Cartographer | 14.00% | ~116 |
 | Street Style | 13.00% | ~107 |
 | Whiz Kid | 12.00% | ~99 |
@@ -60,7 +60,7 @@ Rating: 4.60 (Ranked 389)
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 825 (Ranked 202)  
-Completed: 5 (0.61%) (Ranked 128)  
+Completed: 5 (0.61%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 202,
-  "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_Completed": 129,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1991,9 +1991,9 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 124
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2119,9 +2119,9 @@
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 173
     },
     {
       "ID": "HexlockGift",
@@ -2392,8 +2392,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-06T13:07:13.3599532+00:00",
+  "LastChanged_Achievements": "2023-08-06T14:04:40.5894957+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:20.0210953+00:00",
-  "LastUpdate_Ratings": "2023-08-06T13:02:52.135536+00:00",
-  "LastUpdate_Achievements": "2023-08-06T13:07:13.3600002+00:00"
+  "LastUpdate_Ratings": "2023-08-06T14:00:15.7118267+00:00",
+  "LastUpdate_Achievements": "2023-08-06T14:04:40.5895541+00:00"
 }

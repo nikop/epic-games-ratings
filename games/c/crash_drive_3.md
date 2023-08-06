@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 33.00% | ~118 |
-| Baby's First Car | 31.00% | ~111 |
-| Pushover | 31.00% | ~111 |
+| Brace for impact! | 33.00% | ~119 |
+| Baby's First Car | 31.00% | ~112 |
+| Pushover | 31.00% | ~112 |
 | Amateur Mechanic | 30.00% | ~108 |
 | A Forest Walk | 30.00% | ~108 |
 | C-C-C-Combo! | 28.00% | ~101 |
 | Multiply that! | 28.00% | ~101 |
 | Fore! | 25.00% | ~90 |
-| The Collector | 25.00% | ~90 |
 | Insurance fraud | 25.00% | ~90 |
-| The Wild West | 25.00% | ~90 |
 | Snow Fun! | 25.00% | ~90 |
-| You're it | 25.00% | ~90 |
+| The Collector | 24.00% | ~86 |
 | To and Fro | 24.00% | ~86 |
+| The Wild West | 24.00% | ~86 |
 | Bag of Tricks | 24.00% | ~86 |
 | I see the light! | 24.00% | ~86 |
+| You're it | 24.00% | ~86 |
 | First Come, First Serve | 23.00% | ~83 |
 | Take that Frosty! | 23.00% | ~83 |
 | Goodbye cruel world | 23.00% | ~83 |
 | In the Bag! | 23.00% | ~83 |
 | Disoriented | 22.00% | ~79 |
 | Beach Party! | 22.00% | ~79 |
-| Car-Tapult | 21.00% | ~75 |
-| Anger Issues | 21.00% | ~75 |
-| Your Highness | 21.00% | ~75 |
+| Car-Tapult | 21.00% | ~76 |
+| Anger Issues | 21.00% | ~76 |
+| Your Highness | 21.00% | ~76 |
 | Event Amateur | 20.00% | ~72 |
 | Feeling Dizzy? | 19.00% | ~68 |
 | Drift King! | 18.00% | ~65 |
@@ -42,7 +42,7 @@
 | Blasting away! | 13.00% | ~47 |
 | Earth Defense Force | 12.00% | ~43 |
 | Rocketman | 12.00% | ~43 |
-| High Roller | 11.00% | ~39 |
+| High Roller | 11.00% | ~40 |
 | Event Pro | 10.00% | ~36 |
 | Space Crash | 8.00% | ~29 |
 | To war! | 7.00% | ~25 |
@@ -60,8 +60,8 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 359 (Ranked 246)  
-Completed: 2 (0.56%) (Ranked 131)  
+Progressed: 360 (Ranked 246)  
+Completed: 2 (0.56%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,6 +111,7 @@ Completed: 2 (0.56%) (Ranked 131)
 | 2023-08-01 | 354 | 2 |
 | 2023-08-02 | 357 | 2 |
 | 2023-08-05 | 359 | 2 |
+| 2023-08-06 | 360 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -14,9 +14,9 @@
 | Fitness professional | 76.00% | ~174 |
 | Depressed visitor | 76.00% | ~174 |
 | Neurotrainer – power gainer! | 76.00% | ~174 |
-| Employee of the week | 75.00% | ~172 |
+| Employee of the week | 76.00% | ~174 |
 | Your own amateur gym | 72.00% | ~165 |
-| Run K, run! | 71.00% | ~163 |
+| Run K, run! | 72.00% | ~165 |
 | Hello, world! | 68.00% | ~156 |
 | No bullying more | 67.00% | ~153 |
 | Fighting is cool | 66.00% | ~151 |
@@ -72,7 +72,7 @@
 | Better cooking at home | 24.00% | ~55 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 229 (Ranked 275)  
-Completed: 8 (3.49%) (Ranked 58)  
+Completed: 8 (3.49%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 140,
-  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -5881,9 +5881,9 @@
       "ID": "34",
       "SetID": "3aa2279",
       "Name": "In a Liege of Your Own",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 204
     },
     {
       "ID": "35",
@@ -6080,8 +6080,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-08-04T14:00:41.3605153+00:00",
-  "LastChanged_Achievements": "2023-08-06T13:07:33.5166084+00:00",
+  "LastChanged_Achievements": "2023-08-06T14:04:57.1607471+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:24.1363855+00:00",
-  "LastUpdate_Ratings": "2023-08-06T13:02:55.910345+00:00",
-  "LastUpdate_Achievements": "2023-08-06T13:07:33.516672+00:00"
+  "LastUpdate_Ratings": "2023-08-06T14:00:19.277345+00:00",
+  "LastUpdate_Achievements": "2023-08-06T14:04:57.1608289+00:00"
 }

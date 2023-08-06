@@ -6,9 +6,9 @@
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 235,
-  "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -311,9 +311,9 @@
       "ID": "CampaignStars1",
       "SetID": "c2k469b",
       "Name": "Campaign Bronze",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 146
     },
     {
       "ID": "CampaignStars2",
@@ -423,9 +423,9 @@
       "ID": "PlanetJoma",
       "SetID": "c2k469b",
       "Name": "Joma",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 178
     },
     {
       "ID": "PlanetLorian",
@@ -504,8 +504,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-08-06T13:06:56.5561054+00:00",
+  "LastChanged_Achievements": "2023-08-06T14:04:25.8968209+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:11.6539581+00:00",
-  "LastUpdate_Ratings": "2023-08-06T13:02:40.6516145+00:00",
-  "LastUpdate_Achievements": "2023-08-06T13:06:56.5561197+00:00"
+  "LastUpdate_Ratings": "2023-08-06T14:00:06.4135199+00:00",
+  "LastUpdate_Achievements": "2023-08-06T14:04:25.8968405+00:00"
 }

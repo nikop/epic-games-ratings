@@ -3,9 +3,9 @@
   "Name": "Alan Wake 2",
   "ProductSlug": "alan-wake-2",
   "Ranking_EOS_Progress": 529,
-  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-10-17T16:00:00+00:00",
     "PcReleaseDate": "2023-10-17T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:50.7516471+00:00",
   "LastChanged": "2023-03-31T05:57:50.7516472+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:46.5949746+00:00",
-  "LastUpdate_Ratings": "2023-08-06T13:02:16.7334071+00:00",
-  "LastUpdate_Achievements": "2023-08-06T13:05:26.6562903+00:00"
+  "LastUpdate_Ratings": "2023-08-06T13:59:42.0849446+00:00",
+  "LastUpdate_Achievements": "2023-08-06T14:03:18.8654042+00:00"
 }

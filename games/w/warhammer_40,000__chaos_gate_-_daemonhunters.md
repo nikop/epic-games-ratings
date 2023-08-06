@@ -21,8 +21,8 @@ Number of Ratings: 371  (23.09.2022)
 | The Emperor Protects | 0.80% | ~25 |
 | Nemesis Master | 0.70% | ~22 |
 | Gunmaster | 0.70% | ~22 |
+| Execution Force | 0.70% | ~22 |
 | Just a Scratch | 0.60% | ~19 |
-| Execution Force | 0.60% | ~19 |
 | Hold Your Ground | 0.50% | ~16 |
 | Corruption Cleanser | 0.50% | ~16 |
 | Hive Exterminator | 0.50% | ~16 |
@@ -31,6 +31,7 @@ Number of Ratings: 371  (23.09.2022)
 | Mind Like a Fortress | 0.30% | ~9 |
 | Efficient Killer | 0.30% | ~9 |
 | Only in Death | 0.30% | ~9 |
+| Junk Banishment | 0.30% | ~9 |
 | A Gift Spurned | 0.30% | ~9 |
 | Long Distance Call | 0.30% | ~9 |
 | Tactical Flexibility | 0.30% | ~9 |
@@ -41,7 +42,6 @@ Number of Ratings: 371  (23.09.2022)
 | Exterminator | 0.20% | ~6 |
 | Preservationist | 0.20% | ~6 |
 | Engine Kill | 0.20% | ~6 |
-| Junk Banishment | 0.20% | ~6 |
 | Death Comes For All | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | The Flesh is Weak | 0.10% | ~3 |
@@ -75,8 +75,8 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,126 (Ranked 153)  
-Completed: 0 (0.00%) (Ranked 249)  
+Progressed: 3,127 (Ranked 153)  
+Completed: 0 (0.00%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 249)
 | 2023-08-03 | 3,121 | 0 |
 | 2023-08-04 | 3,123 | 0 |
 | 2023-08-05 | 3,125 | 0 |
-| 2023-08-06 | 3,126 | 0 |
+| 2023-08-06 | 3,127 | 0 |
 ## Awards
 Max (Character Customization): 219  (Ranked 264)  
 Sum: 465 (Ranked 303)  

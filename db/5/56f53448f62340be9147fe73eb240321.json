@@ -3,9 +3,9 @@
   "Name": "100 Worlds - Escape the room",
   "ProductSlug": "100-worlds-escape-the-room-c6f972",
   "Ranking_EOS_Progress": 529,
-  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-24T22:00:00+00:00",
     "PcReleaseDate": "2022-04-14T22:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-19T06:01:22.7935728+00:00",
-  "LastChanged_Achievements": "2023-08-06T13:04:21.9125048+00:00",
+  "LastChanged_Achievements": "2023-08-06T14:02:20.6589218+00:00",
   "LastUpdate_AppInfo": "2023-08-02T06:57:14.0718336+00:00",
-  "LastUpdate_Ratings": "2023-08-06T12:59:41.4365747+00:00",
-  "LastUpdate_Achievements": "2023-08-06T13:04:21.9125071+00:00"
+  "LastUpdate_Ratings": "2023-08-06T13:57:23.846197+00:00",
+  "LastUpdate_Achievements": "2023-08-06T14:02:20.6589249+00:00"
 }

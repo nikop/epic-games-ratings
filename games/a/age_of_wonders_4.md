@@ -18,6 +18,7 @@ Rating: 4.62 (Ranked 349)
 | Bone Peddler | 4.00% | ~204 |
 | My Final Form | 4.00% | ~204 |
 | Seat of Power | 4.00% | ~204 |
+| In a Liege of Your Own | 4.00% | ~204 |
 | Impenetrable Fortress | 4.00% | ~204 |
 | Intimidation Tactics | 4.00% | ~204 |
 | Here be Dragons | 4.00% | ~204 |
@@ -28,7 +29,6 @@ Rating: 4.62 (Ranked 349)
 | Enchanted Archipelago | 3.00% | ~153 |
 | Digging for Treasure | 3.00% | ~153 |
 | Preparation Is Everything | 3.00% | ~153 |
-| In a Liege of Your Own | 3.00% | ~153 |
 | Fiery Friend | 3.00% | ~153 |
 | Against the Odds | 3.00% | ~153 |
 | The Magic That Empowers Me! | 2.00% | ~102 |
@@ -57,7 +57,7 @@ Rating: 4.62 (Ranked 349)
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,089 (Ranked 140)  
-Completed: 5 (0.10%) (Ranked 198)  
+Completed: 5 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

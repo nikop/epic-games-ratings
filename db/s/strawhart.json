@@ -3,9 +3,9 @@
   "Name": "Strawhart",
   "ProductSlug": "strawhart-776f4d",
   "Ranking_EOS_Progress": 425,
-  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-20T08:00:00+00:00",
     "PcReleaseDate": "2022-03-11T04:00:00+00:00",
@@ -96,9 +96,9 @@
       "ID": "ACH_CIPHER_COLLECT",
       "SetID": "64pp6bc",
       "Name": "The Cipher Way",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CRATES",
@@ -249,8 +249,8 @@
   "FirstSeenRating": "2023-04-21T23:57:25.9719541+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.1466412+00:00",
   "LastChanged": "2023-04-21T23:57:25.9719541+00:00",
-  "LastChanged_Achievements": "2023-08-06T13:05:16.0838065+00:00",
+  "LastChanged_Achievements": "2023-08-06T14:03:10.1417968+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:52.6071792+00:00",
-  "LastUpdate_Ratings": "2023-08-06T13:03:28.7646149+00:00",
-  "LastUpdate_Achievements": "2023-08-06T13:05:16.0838191+00:00"
+  "LastUpdate_Ratings": "2023-08-06T14:00:54.0234319+00:00",
+  "LastUpdate_Achievements": "2023-08-06T14:03:10.1418131+00:00"
 }

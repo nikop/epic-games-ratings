@@ -11,7 +11,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Impressive, most impressive'' | 72.00% | ~36,016 |
 | ''You think you're some kind of Jedi?'' | 72.00% | ~36,016 |
 | The Phantom Menace | 59.00% | ~29,513 |
-| ''Aggressive Negotiations'' | 58.00% | ~29,013 |
+| ''Aggressive Negotiations'' | 59.00% | ~29,513 |
 | ''I can fly anything'' | 57.00% | ~28,513 |
 | ''And who gave you permission...?'' | 53.00% | ~26,512 |
 | A New Hope | 48.00% | ~24,011 |
@@ -53,7 +53,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''I've never seen a real one!'' | 0.90% | ~450 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 50,022 (Ranked 89)  
-Completed: 217 (0.43%) (Ranked 146)  
+Completed: 217 (0.43%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
