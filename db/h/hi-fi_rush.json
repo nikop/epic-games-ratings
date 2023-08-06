@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3762,
+  "EOS_Progressed": 3763,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -5352,6 +5352,11 @@
       "Time": "2023-08-06T14:04:41.9969305+00:00",
       "NumProgressed": 3762,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-06T15:05:09.3253026+00:00",
+      "NumProgressed": 3763,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -5379,7 +5384,7 @@
       "Name": "This will cost you big time",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Ach004",
@@ -5497,9 +5502,9 @@
       "ID": "Ach018",
       "SetID": "12n4k20",
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 151
     },
     {
       "ID": "Ach019",
@@ -5571,7 +5576,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Ach028",
@@ -5619,7 +5624,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Ach034",
@@ -5643,7 +5648,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Ach037",
@@ -5779,7 +5784,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Ach054",
@@ -5930,13 +5935,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3762,
+      "Progressed": 3763,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2283,
+      "Progressed": 2284,
       "Completed": 1928
     }
   ],
@@ -5944,8 +5949,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-08-06T14:04:41.99693+00:00",
+  "LastChanged_Achievements": "2023-08-06T15:05:09.3253022+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:24.9640697+00:00",
-  "LastUpdate_Ratings": "2023-08-06T13:59:20.9215129+00:00",
-  "LastUpdate_Achievements": "2023-08-06T14:04:41.9970445+00:00"
+  "LastUpdate_Ratings": "2023-08-06T14:59:43.0113265+00:00",
+  "LastUpdate_Achievements": "2023-08-06T15:05:09.3254154+00:00"
 }

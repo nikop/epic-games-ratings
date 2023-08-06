@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,771 |
-| Beast Intentions | 3.00% | ~6,578 |
+| A Brief Tour of the Realms | 4.00% | ~8,772 |
+| Beast Intentions | 3.00% | ~6,579 |
 | Maddening | 2.00% | ~4,386 |
 | The Silken Swamp | 1.00% | ~2,193 |
 | Supply Run | 1.00% | ~2,193 |
@@ -15,16 +15,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 1.00% | ~1,856 |
 | Rock and Roll | 1.00% | ~1,856 |
 | Flight of the Kindori Pod | 0.90% | ~1,670 |
-| Tall Tales | 0.80% | ~1,484 |
-| Seeds of Destruction | 0.80% | ~1,484 |
-| Vecna Loots! | 0.80% | ~1,484 |
-| Topolah's Tower | 0.80% | ~1,484 |
+| Tall Tales | 0.80% | ~1,485 |
+| Seeds of Destruction | 0.80% | ~1,485 |
+| Vecna Loots! | 0.80% | ~1,485 |
+| Topolah's Tower | 0.80% | ~1,485 |
 | Wet Feet | 0.70% | ~1,535 |
 | Return to the Tomb | 0.70% | ~1,299 |
 | Heatwave | 0.70% | ~1,299 |
 | Were-verpowered | 0.70% | ~1,535 |
 | A Persistent Buzzing | 0.70% | ~1,535 |
 | Terror in the Dark | 0.70% | ~1,535 |
+| Building Trust | 0.70% | ~1,535 |
 | Unearthed Evil | 0.70% | ~1,535 |
 | The Cursed Farmer | 0.70% | ~1,535 |
 | The Mad Wizard | 0.70% | ~1,535 |
@@ -36,23 +37,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.60% | ~1,113 |
 | Beast Mode | 0.60% | ~1,316 |
 | A Mysterious Summons | 0.60% | ~1,316 |
-| Building Trust | 0.60% | ~1,316 |
 | The Dinner Party | 0.60% | ~1,316 |
 | The Botched Kidnapping | 0.60% | ~1,316 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,113 |
 | Thieves of the Coven | 0.50% | ~928 |
-| Heavy Burden | 0.50% | ~1,096 |
-| Friends of the Forest | 0.50% | ~1,096 |
-| Low Initiative | 0.50% | ~1,096 |
-| Street War | 0.50% | ~1,096 |
-| March of the Undead | 0.50% | ~1,096 |
-| No Time To Rest | 0.50% | ~1,096 |
-| The Mists of Ravenloft | 0.50% | ~1,096 |
-| Invisible Shadows | 0.50% | ~1,096 |
-| Family Entanglements | 0.50% | ~1,096 |
-| The Ring of Regeneration | 0.50% | ~1,096 |
-| Seeking Allies | 0.50% | ~1,096 |
-| Friendly Imps | 0.50% | ~1,096 |
+| Heavy Burden | 0.50% | ~1,097 |
+| Friends of the Forest | 0.50% | ~1,097 |
+| Low Initiative | 0.50% | ~1,097 |
+| Street War | 0.50% | ~1,097 |
+| March of the Undead | 0.50% | ~1,097 |
+| No Time To Rest | 0.50% | ~1,097 |
+| The Mists of Ravenloft | 0.50% | ~1,097 |
+| Invisible Shadows | 0.50% | ~1,097 |
+| Family Entanglements | 0.50% | ~1,097 |
+| The Ring of Regeneration | 0.50% | ~1,097 |
+| Seeking Allies | 0.50% | ~1,097 |
+| Friendly Imps | 0.50% | ~1,097 |
 | Not That Type of Helm! | 0.50% | ~928 |
 | Calcryx Tricks | 0.50% | ~928 |
 | Goblin Halls: the Next Generation | 0.50% | ~928 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,276 (Ranked 53)  
+Progressed: 219,302 (Ranked 53)  
 Completed: 2,155 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,7 +627,7 @@ Completed: 2,155 (0.98%) (Ranked 114)
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
-| 2023-08-06 | 219,276 | 2,155 |
+| 2023-08-06 | 219,302 | 2,155 |
 ## Awards
 Max (Diverse Characters): 5,119  (Ranked 67)  
 Sum: 30,919 (Ranked 38)  

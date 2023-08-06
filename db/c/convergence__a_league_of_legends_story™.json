@@ -2087,9 +2087,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 132
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2392,8 +2392,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-06T14:04:40.5894957+00:00",
+  "LastChanged_Achievements": "2023-08-06T15:05:05.7233347+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:20.0210953+00:00",
-  "LastUpdate_Ratings": "2023-08-06T14:00:15.7118267+00:00",
-  "LastUpdate_Achievements": "2023-08-06T14:04:40.5895541+00:00"
+  "LastUpdate_Ratings": "2023-08-06T15:00:42.2180436+00:00",
+  "LastUpdate_Achievements": "2023-08-06T15:05:05.7233995+00:00"
 }

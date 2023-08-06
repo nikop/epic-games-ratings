@@ -19,10 +19,10 @@ Rating: 4.40 (Ranked 696)
 | Giant Killer | 44.00% | ~597 |
 | Sensei | 42.00% | ~570 |
 | Firestarter | 41.00% | ~556 |
-| The meaning of Kain | 40.00% | ~543 |
+| The meaning of Kain | 41.00% | ~556 |
 | Technophobe | 39.00% | ~529 |
 | Recycler | 38.00% | ~516 |
-| Are you not entertained? | 33.00% | ~448 |
+| Are you not entertained? | 34.00% | ~461 |
 | Ganglord | 33.00% | ~448 |
 | Jarhead | 33.00% | ~448 |
 | Infiltrator | 32.00% | ~434 |

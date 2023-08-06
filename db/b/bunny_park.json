@@ -268,9 +268,9 @@
       "ID": "BP-15",
       "SetID": "7fc93f2",
       "Name": "Helpful Bot-terfly",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 136
     },
     {
       "ID": "BP-16",
@@ -309,8 +309,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2023-08-06T14:05:05.6253707+00:00",
+  "LastChanged_Achievements": "2023-08-06T15:05:41.2805765+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:00.7832045+00:00",
-  "LastUpdate_Ratings": "2023-08-06T13:58:54.0192808+00:00",
-  "LastUpdate_Achievements": "2023-08-06T14:05:05.6253844+00:00"
+  "LastUpdate_Ratings": "2023-08-06T14:59:18.1252989+00:00",
+  "LastUpdate_Achievements": "2023-08-06T15:05:41.2806028+00:00"
 }

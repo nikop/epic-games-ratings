@@ -24,6 +24,7 @@
 | Been There | 3.00% | ~4 |
 | Spiritual Journey | 3.00% | ~4 |
 | Pilgrimage's End | 3.00% | ~4 |
+| Making Contact | 2.00% | ~3 |
 | Bounty Hunter | 2.00% | ~3 |
 | Quartermaster | 2.00% | ~3 |
 | Supercargo | 2.00% | ~3 |
@@ -42,7 +43,6 @@
 | Merchant | 2.00% | ~3 |
 | Trouble at Fort Larius | 2.00% | ~3 |
 | Unseen Patterns | 2.00% | ~3 |
-| Making Contact | 0.80% | ~1 |
 | Loremaster | 0.80% | ~1 |
 | Adept | 0.80% | ~1 |
 | Talent Nurtured | 0.80% | ~1 |

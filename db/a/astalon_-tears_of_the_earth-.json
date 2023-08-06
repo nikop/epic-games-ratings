@@ -233,9 +233,9 @@
       "ID": "Complete_Bestiary_80",
       "SetID": "4f0g260",
       "Name": "Beast Knight",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Defeat_1000_Enemies",
@@ -354,8 +354,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-08-06T14:02:19.3468036+00:00",
+  "LastChanged_Achievements": "2023-08-06T15:02:09.7337738+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:12.5593359+00:00",
-  "LastUpdate_Ratings": "2023-08-06T13:59:05.4316221+00:00",
-  "LastUpdate_Achievements": "2023-08-06T14:02:19.3468259+00:00"
+  "LastUpdate_Ratings": "2023-08-06T14:59:28.8153178+00:00",
+  "LastUpdate_Achievements": "2023-08-06T15:02:09.7337953+00:00"
 }

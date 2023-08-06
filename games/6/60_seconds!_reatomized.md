@@ -5,32 +5,32 @@ Rating: 4.65 (Ranked 298)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,532 |
-| I will survive! | 92.00% | ~4,483 |
-| All thumbs | 91.00% | ~4,434 |
-| Home, sweet home | 90.00% | ~4,386 |
-| Survivalist | 89.00% | ~4,337 |
-| One way ticket | 84.00% | ~4,093 |
+| Prepper | 93.00% | ~4,533 |
+| I will survive! | 92.00% | ~4,484 |
+| All thumbs | 91.00% | ~4,435 |
+| Home, sweet home | 90.00% | ~4,387 |
+| Survivalist | 89.00% | ~4,338 |
+| One way ticket | 84.00% | ~4,094 |
 | Last man standing | 79.00% | ~3,850 |
-| Family guy | 77.00% | ~3,752 |
-| Out of the Bag | 74.00% | ~3,606 |
-| The Dark Side | 69.00% | ~3,362 |
+| Family guy | 77.00% | ~3,753 |
+| Out of the Bag | 74.00% | ~3,607 |
+| The Dark Side | 69.00% | ~3,363 |
 | Duck and cover! | 64.00% | ~3,119 |
-| Souper! | 63.00% | ~3,070 |
-| Pacifist | 58.00% | ~2,826 |
+| Souper! | 63.00% | ~3,071 |
+| Pacifist | 58.00% | ~2,827 |
 | 2-1-6 | 57.00% | ~2,778 |
 | A gift | 52.00% | ~2,534 |
 | Girl Power | 46.00% | ~2,242 |
-| What goes around... | 43.00% | ~2,095 |
-| Be Prepared | 36.00% | ~1,754 |
-| Unbreakable | 36.00% | ~1,754 |
+| What goes around... | 43.00% | ~2,096 |
+| Be Prepared | 36.00% | ~1,755 |
+| Unbreakable | 36.00% | ~1,755 |
 | This is the end | 33.00% | ~1,608 |
-| Gotta get 'em all | 32.00% | ~1,559 |
-| Atomic drill | 32.00% | ~1,559 |
+| Gotta get 'em all | 32.00% | ~1,560 |
+| Atomic drill | 32.00% | ~1,560 |
 | Disco Roach | 27.00% | ~1,316 |
 | Dawkins Residence | 20.00% | ~975 |
 | Rescue time! | 18.00% | ~877 |
-| New order | 17.00% | ~828 |
+| New order | 17.00% | ~829 |
 | New species | 16.00% | ~780 |
 | A New Hope | 15.00% | ~731 |
 | Enigma | 15.00% | ~731 |
@@ -66,7 +66,7 @@ Rating: 4.65 (Ranked 298)
 | Tora! Tora! Tora! | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,873 (Ranked 142)  
+Progressed: 4,874 (Ranked 142)  
 Completed: 1 (0.02%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 1 (0.02%) (Ranked 230)
 | 2023-08-03 | 4,851 | 1 |
 | 2023-08-04 | 4,861 | 1 |
 | 2023-08-05 | 4,871 | 1 |
-| 2023-08-06 | 4,873 | 1 |
+| 2023-08-06 | 4,874 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,24 +6,24 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,906 |
-| A Grove Replanted | 53.00% | ~3,697 |
-| Fields Watered | 41.00% | ~2,860 |
-| Settling the Skies | 41.00% | ~2,860 |
-| Seekers Found | 40.00% | ~2,790 |
-| Wind Powered | 40.00% | ~2,790 |
+| A Small Community | 56.00% | ~3,907 |
+| A Grove Replanted | 53.00% | ~3,698 |
+| Fields Watered | 41.00% | ~2,861 |
+| Settling the Skies | 41.00% | ~2,861 |
+| Seekers Found | 40.00% | ~2,791 |
+| Wind Powered | 40.00% | ~2,791 |
 | It Takes a Village | 34.00% | ~2,372 |
-| On the Town | 28.00% | ~1,953 |
+| On the Town | 28.00% | ~1,954 |
 | Daylight Found | 26.00% | ~1,814 |
 | Irons Scorched | 25.00% | ~1,744 |
 | Islands Connected | 25.00% | ~1,744 |
-| Harp Tuned | 23.00% | ~1,604 |
-| Pyre Ignited | 23.00% | ~1,604 |
-| Travelers Returned | 23.00% | ~1,604 |
-| Hopes Hoisted | 22.00% | ~1,534 |
+| Harp Tuned | 23.00% | ~1,605 |
+| Pyre Ignited | 23.00% | ~1,605 |
+| Travelers Returned | 23.00% | ~1,605 |
+| Hopes Hoisted | 22.00% | ~1,535 |
 | Knowledge Shared | 20.00% | ~1,395 |
 | Relic Finder | 20.00% | ~1,395 |
-| Worthy of the Title | 19.00% | ~1,325 |
+| Worthy of the Title | 19.00% | ~1,326 |
 | A Peaceful Respite | 14.00% | ~977 |
 | A Learned Scholar | 13.00% | ~907 |
 | Prophecy Fulfilled | 13.00% | ~907 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~140 |
 | A True Challenge | 2.00% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,975 (Ranked 131)  
+Progressed: 6,977 (Ranked 131)  
 Completed: 53 (0.76%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 53 (0.76%) (Ranked 121)
 | 2023-08-02 | 6,945 | 53 |
 | 2023-08-04 | 6,956 | 53 |
 | 2023-08-05 | 6,967 | 53 |
-| 2023-08-06 | 6,975 | 53 |
+| 2023-08-06 | 6,977 | 53 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

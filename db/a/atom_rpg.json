@@ -2247,9 +2247,9 @@
       "ID": "ONE_SHOT_ONE_KILL_1",
       "SetID": "bf13m8j",
       "Name": "One shot, one kill",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 325
     },
     {
       "ID": "PACIFIST",
@@ -2383,8 +2383,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-08-06T14:04:25.1239032+00:00",
+  "LastChanged_Achievements": "2023-08-06T15:04:36.4475247+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:08.1278505+00:00",
-  "LastUpdate_Ratings": "2023-08-06T14:01:04.8112714+00:00",
-  "LastUpdate_Achievements": "2023-08-06T14:04:25.1239412+00:00"
+  "LastUpdate_Ratings": "2023-08-06T15:01:33.8630582+00:00",
+  "LastUpdate_Achievements": "2023-08-06T15:04:36.4475636+00:00"
 }

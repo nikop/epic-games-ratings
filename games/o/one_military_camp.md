@@ -15,11 +15,11 @@
 | Good payer | 7.00% | ~9 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~8 |
 | Desert Power | 6.00% | ~8 |
+| Ammo Tycoon | 6.00% | ~8 |
 | Perfect Soldier | 5.00% | ~7 |
 | Health Care | 5.00% | ~7 |
 | Pathfinder | 5.00% | ~7 |
 | Fuel Tycoon | 5.00% | ~7 |
-| Ammo Tycoon | 5.00% | ~7 |
 | Outdoor Decorator | 4.00% | ~5 |
 | Healing | 4.00% | ~5 |
 | Self-sufficient | 4.00% | ~5 |

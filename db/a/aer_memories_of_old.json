@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17170,
+  "EOS_Progressed": 17172,
   "EOS_Completed": 354,
-  "EOS_NewPlayers": 594,
+  "EOS_NewPlayers": 588,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 2.06,
   "EosHistory": [
@@ -11794,6 +11794,11 @@
       "Time": "2023-08-06T14:04:55.9603816+00:00",
       "NumProgressed": 17170,
       "NumCompleted": 354
+    },
+    {
+      "Time": "2023-08-06T15:05:29.3511049+00:00",
+      "NumProgressed": 17172,
+      "NumCompleted": 354
     }
   ],
   "TotalAchievements": 20,
@@ -11837,7 +11842,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2060
+      "UsersEstimate": 2061
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -11861,7 +11866,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2060
+      "UsersEstimate": 2061
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -11877,7 +11882,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -11917,7 +11922,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2060
+      "UsersEstimate": 2061
     },
     {
       "ID": "INTRO_FINISHED",
@@ -11925,7 +11930,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 13049
+      "UsersEstimate": 13051
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -11957,22 +11962,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3262
+      "UsersEstimate": 3263
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 17170,
+      "Progressed": 17172,
       "Completed": 354
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-08-06T14:04:55.9603811+00:00",
+  "LastChanged_Achievements": "2023-08-06T15:05:29.3511041+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:05.7530633+00:00",
-  "LastUpdate_Ratings": "2023-08-06T14:01:01.9659258+00:00",
-  "LastUpdate_Achievements": "2023-08-06T14:04:55.9604703+00:00"
+  "LastUpdate_Ratings": "2023-08-06T15:01:31.0617782+00:00",
+  "LastUpdate_Achievements": "2023-08-06T15:05:29.3512182+00:00"
 }

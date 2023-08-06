@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 505,
+  "EOS_Progressed": 506,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1385,6 +1385,11 @@
       "Time": "2023-08-06T11:03:26.9853014+00:00",
       "NumProgressed": 505,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-06T15:03:21.021698+00:00",
+      "NumProgressed": 506,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -1412,7 +1417,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "dont-miss-calls",
@@ -1420,7 +1425,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "female-conqueror",
@@ -1444,7 +1449,7 @@
       "Name": "Our Man",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "kill-lieutenants",
@@ -1452,7 +1457,7 @@
       "Name": "Spreading Fear",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "pack-and-sell",
@@ -1484,7 +1489,7 @@
       "Name": "Bad Trip",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "rename-lieutenant",
@@ -1508,7 +1513,7 @@
       "Name": "Spread",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "send-smuggling",
@@ -1532,7 +1537,7 @@
       "Name": "Take-Off",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "use-submarine",
@@ -1547,15 +1552,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 505,
+      "Progressed": 506,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-08-06T14:03:15.1349995+00:00",
+  "LastChanged_Achievements": "2023-08-06T15:03:21.0216975+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:10.4467648+00:00",
-  "LastUpdate_Ratings": "2023-08-06T14:01:06.6154476+00:00",
-  "LastUpdate_Achievements": "2023-08-06T14:03:15.1350209+00:00"
+  "LastUpdate_Ratings": "2023-08-06T15:01:35.8200352+00:00",
+  "LastUpdate_Achievements": "2023-08-06T15:03:21.0217182+00:00"
 }

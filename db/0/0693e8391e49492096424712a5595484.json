@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 369,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 6.23,
   "EosHistory": [
@@ -1417,9 +1417,9 @@
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 258
+      "UsersEstimate": 262
     },
     {
       "ID": "Drunkard",
@@ -1489,9 +1489,9 @@
       "ID": "HastrmanRum",
       "SetID": "db30heh",
       "Name": "That\u0027s Not Water",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     },
     {
       "ID": "HatFlower",
@@ -1672,8 +1672,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-06T14:06:23.1631084+00:00",
+  "LastChanged_Achievements": "2023-08-06T15:07:08.3778388+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-06T13:57:33.8275423+00:00",
-  "LastUpdate_Achievements": "2023-08-06T14:06:23.1631528+00:00"
+  "LastUpdate_Ratings": "2023-08-06T14:57:42.7523329+00:00",
+  "LastUpdate_Achievements": "2023-08-06T15:07:08.3778943+00:00"
 }

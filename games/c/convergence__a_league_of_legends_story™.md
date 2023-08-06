@@ -18,12 +18,12 @@ Rating: 4.60 (Ranked 389)
 | Breaking Down Barriers | 17.00% | ~140 |
 | Immaculate Aim | 17.00% | ~140 |
 | The Brass Boss | 17.00% | ~140 |
+| The Betrayer | 16.00% | ~132 |
 | The Wicked Twins | 16.00% | ~132 |
 | Honest Mistake | 16.00% | ~132 |
 | Fast Learner | 16.00% | ~132 |
 | Right On Time | 15.00% | ~124 |
 | Like Clockwork | 15.00% | ~124 |
-| The Betrayer | 15.00% | ~124 |
 | The Man Who Shattered Time | 15.00% | ~124 |
 | The Loose Cannon | 15.00% | ~124 |
 | Golem Chaser | 15.00% | ~124 |

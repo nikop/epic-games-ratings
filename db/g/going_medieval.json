@@ -1184,9 +1184,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 5118,
+  "EOS_Progressed": 5119,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6904,6 +6904,11 @@
       "Time": "2023-08-06T12:04:09.1393041+00:00",
       "NumProgressed": 5118,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-06T15:04:11.5442621+00:00",
+      "NumProgressed": 5119,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 31,
@@ -6915,7 +6920,7 @@
       "Name": "Get A Room",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 3787
+      "UsersEstimate": 3788
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -6923,7 +6928,7 @@
       "Name": "Beam Me Up",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -6955,7 +6960,7 @@
       "Name": "Having A Field Day",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3736
+      "UsersEstimate": 3737
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -6971,7 +6976,7 @@
       "Name": "A Party Now",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "HUNT_DEER_20",
@@ -6979,7 +6984,7 @@
       "Name": "Deerly Departed",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "HUNT_DEER_5",
@@ -6987,7 +6992,7 @@
       "Name": "Oh Deer!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -7017,9 +7022,9 @@
       "ID": "HUNT_WOLF_5",
       "SetID": "5349c2e",
       "Name": "Don\u0027t Cry Wolf",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 614
     },
     {
       "ID": "KILL_RAIDER",
@@ -7027,7 +7032,7 @@
       "Name": "Retribution",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2048
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -7035,7 +7040,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 2866
+      "UsersEstimate": 2867
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -7043,7 +7048,7 @@
       "Name": "Feast or Famine",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -7075,7 +7080,7 @@
       "Name": "The First Day",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 3480
+      "UsersEstimate": 3481
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -7083,7 +7088,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2048
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -7091,7 +7096,7 @@
       "Name": "Heating Up",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -7107,7 +7112,7 @@
       "Name": "All Year Round",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -7155,22 +7160,22 @@
       "Name": "Studious Researcher",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5118,
+      "Progressed": 5119,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-05T17:01:44.9591005+00:00",
-  "LastChanged_Achievements": "2023-08-06T14:04:05.1386266+00:00",
+  "LastChanged_Achievements": "2023-08-06T15:04:11.5442615+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:53.1800311+00:00",
-  "LastUpdate_Ratings": "2023-08-06T14:00:54.510523+00:00",
-  "LastUpdate_Achievements": "2023-08-06T14:04:05.1386866+00:00"
+  "LastUpdate_Ratings": "2023-08-06T15:01:19.3815087+00:00",
+  "LastUpdate_Achievements": "2023-08-06T15:04:11.5443394+00:00"
 }

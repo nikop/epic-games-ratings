@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -280,11 +280,11 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 1115,
+  "EOS_Progressed": 1116,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.17,
+  "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:24.544527+00:00",
@@ -1615,6 +1615,11 @@
       "Time": "2023-08-06T04:05:26.1300642+00:00",
       "NumProgressed": 1115,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-06T15:05:34.0841744+00:00",
+      "NumProgressed": 1116,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 43,
@@ -1626,7 +1631,7 @@
       "Name": "Demigod",
       "Percentage": 75,
       "XP": 150,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "DieInPermadeath",
@@ -1650,7 +1655,7 @@
       "Name": "Helping Hand",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "FinishAllSideMissions",
@@ -1658,7 +1663,7 @@
       "Name": "Paragon",
       "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "GatlingVsArmor",
@@ -1666,7 +1671,7 @@
       "Name": "Controlled Demolition",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "Kill3InOneDrift",
@@ -1690,7 +1695,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "MasteryOfCombat",
@@ -1714,7 +1719,7 @@
       "Name": "Mastery of Weapons",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "MissionActivateDish",
@@ -1762,7 +1767,7 @@
       "Name": "Time to Spear",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "MissionEnclaveWarPreparation",
@@ -1770,7 +1775,7 @@
       "Name": "Full Arsenal",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "MissionEosReturn",
@@ -1794,7 +1799,7 @@
       "Name": "Disciple",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "MissionHelios",
@@ -1802,15 +1807,15 @@
       "Name": "Cult Slayer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "MissionLiberateEnclave",
       "SetID": "a6c395p",
       "Name": "Safe Home",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 747
+      "UsersEstimate": 737
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -1826,7 +1831,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -1850,7 +1855,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "MissionShipyard",
@@ -1874,7 +1879,7 @@
       "Name": "Disruption",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -1904,9 +1909,9 @@
       "ID": "RadiationCloud",
       "SetID": "a6c395p",
       "Name": "Radiation Area",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 100
     },
     {
       "ID": "RiteOfControl",
@@ -1946,7 +1951,7 @@
       "Name": "Phoenix",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "VisitAllLocations",
@@ -1962,22 +1967,22 @@
       "Name": "Relentless",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1115,
+      "Progressed": 1116,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-08-06T14:04:59.8474893+00:00",
+  "LastChanged_Achievements": "2023-08-06T15:05:34.0841738+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:02.342624+00:00",
-  "LastUpdate_Ratings": "2023-08-06T14:01:01.1024878+00:00",
-  "LastUpdate_Achievements": "2023-08-06T14:04:59.8475341+00:00"
+  "LastUpdate_Ratings": "2023-08-06T15:01:30.0416357+00:00",
+  "LastUpdate_Achievements": "2023-08-06T15:05:34.0842182+00:00"
 }

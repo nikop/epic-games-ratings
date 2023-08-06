@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 805,
+  "EOS_Progressed": 806,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2811,6 +2811,11 @@
       "Time": "2023-08-06T11:06:36.2664363+00:00",
       "NumProgressed": 805,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T15:06:48.2068658+00:00",
+      "NumProgressed": 806,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2838,7 +2843,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ach_defeat_players_100",
@@ -2902,7 +2907,7 @@
       "Name": "Keeping Busy",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "objective_headquarters_15",
@@ -2926,7 +2931,7 @@
       "Name": "Facility Online",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3062,7 +3067,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -3125,14 +3130,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 805,
+      "Progressed": 806,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-06T14:06:07.5135548+00:00",
+  "LastChanged_Achievements": "2023-08-06T15:06:48.2068653+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:21.6461868+00:00",
-  "LastUpdate_Ratings": "2023-08-06T13:57:10.608663+00:00",
-  "LastUpdate_Achievements": "2023-08-06T14:06:07.5136048+00:00"
+  "LastUpdate_Ratings": "2023-08-06T14:57:17.7662186+00:00",
+  "LastUpdate_Achievements": "2023-08-06T15:06:48.2069139+00:00"
 }

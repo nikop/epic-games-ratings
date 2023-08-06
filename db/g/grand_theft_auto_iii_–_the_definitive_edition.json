@@ -412,7 +412,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7454,
+  "EOS_Progressed": 7455,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
@@ -7037,6 +7037,11 @@
       "Time": "2023-08-06T14:05:35.732925+00:00",
       "NumProgressed": 7454,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-06T15:06:19.7397899+00:00",
+      "NumProgressed": 7455,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 29,
@@ -7048,7 +7053,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6187
+      "UsersEstimate": 6188
     },
     {
       "ID": "ACH02",
@@ -7112,7 +7117,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ACH10",
@@ -7184,7 +7189,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ACH19",
@@ -7232,7 +7237,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "ACH25",
@@ -7240,7 +7245,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ACH26",
@@ -7279,7 +7284,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7454,
+      "Progressed": 7455,
       "Completed": 42
     }
   ],
@@ -7287,8 +7292,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-04T02:58:57.5803366+00:00",
-  "LastChanged_Achievements": "2023-08-06T14:05:35.7329244+00:00",
+  "LastChanged_Achievements": "2023-08-06T15:06:19.7397895+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:37.4794149+00:00",
-  "LastUpdate_Ratings": "2023-08-06T13:58:35.5052292+00:00",
-  "LastUpdate_Achievements": "2023-08-06T14:05:35.7329901+00:00"
+  "LastUpdate_Ratings": "2023-08-06T14:58:55.1528265+00:00",
+  "LastUpdate_Achievements": "2023-08-06T15:06:19.7398546+00:00"
 }
