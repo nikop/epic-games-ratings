@@ -75,12 +75,12 @@
 | 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,647 | 95 |
 | 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,343 | 54 |
 | 66 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 397 | 213 |
-| 76 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 421 | 206 |
-| 76 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 229 | 259 |
-| 76 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.81 | 0 | 509 |
-| 76 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.81 | 0 | 509 |
-| 76 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 28 | 466 |
-| 76 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 509 |
+| 66 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 509 |
+| 77 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 421 | 206 |
+| 77 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 229 | 259 |
+| 77 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.81 | 0 | 509 |
+| 77 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 28 | 466 |
+| 77 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 509 |
 | 82 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,386 | 52 |
 | 82 | [Griftlands](games/g/griftlands.md) | 4.80 | 0 | 509 |
 | 82 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,441 | 102 |
@@ -301,7 +301,7 @@
 | 299 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.65 | 0 | 509 |
 | 299 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 509 |
 | 299 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 0 | 509 |
-| 299 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 5,072 | 68 |
+| 299 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 5,077 | 68 |
 | 299 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 46 | 410 |
 | 299 | [GRIT](games/g/grit.md) | 4.65 | 0 | 509 |
 | 299 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 0 | 509 |
@@ -440,7 +440,7 @@
 | 425 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 151 | 294 |
 | 425 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 52 | 396 |
 | 425 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.58 | 30 | 459 |
-| 425 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,270 | 55 |
+| 425 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,273 | 55 |
 | 425 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 509 |
 | 425 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 509 |
 | 425 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 218 | 264 |

@@ -54,7 +54,7 @@
 | 52 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,386 | 4.80 | 82 |
 | 53 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 6,354 | 4.57 | 446 |
 | 54 | [Sifu](games/s/sifu.md) | 6,343 | 4.82 | 66 |
-| 55 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,270 | 4.58 | 425 |
+| 55 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,273 | 4.58 | 425 |
 | 56 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 5,995 | 4.74 | 147 |
 | 57 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,961 | 4.64 | 316 |
 | 58 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,957 | 4.79 | 88 |
@@ -67,7 +67,7 @@
 | 65 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,536 | 4.85 | 40 |
 | 66 | [Rogue Company](games/r/rogue_company.md) | 5,221 | 4.33 | 765 |
 | 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,119 | 4.05 | 916 |
-| 68 | [Cities: Skylines](games/c/cities__skylines.md) | 5,072 | 4.65 | 299 |
+| 68 | [Cities: Skylines](games/c/cities__skylines.md) | 5,077 | 4.65 | 299 |
 | 69 | [MultiVersus](games/m/multiversus.md) | 4,746 | 4.56 | 466 |
 | 70 | [Shop Titans](games/s/shop_titans.md) | 4,688 | 3.99 | 927 |
 | 71 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,670 | 4.69 | 213 |
@@ -205,7 +205,7 @@
 | 203 | [Dishonored 2](games/d/dishonored_2.md) | 435 | 4.79 | 88 |
 | 204 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 434 | 4.40 | 696 |
 | 205 | [RimWorld](games/r/rimworld.md) | 425 | 4.89 | 12 |
-| 206 | [Against the Storm](games/a/against_the_storm.md) | 421 | 4.81 | 76 |
+| 206 | [Against the Storm](games/a/against_the_storm.md) | 421 | 4.81 | 77 |
 | 207 | [Loop Hero](games/l/loop_hero.md) | 420 | 4.68 | 242 |
 | 208 | [Into the Breach](games/i/into_the_breach.md) | 416 | 4.84 | 49 |
 | 209 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 410 | 4.73 | 160 |
@@ -258,7 +258,7 @@
 | 256 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 237 | 4.84 | 49 |
 | 257 | [Hello Neighbor](games/h/hello_neighbor.md) | 232 | 4.55 | 485 |
 | 258 | [Overcooked! 2](games/o/overcooked!_2.md) | 230 | 4.73 | 160 |
-| 259 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 229 | 4.81 | 76 |
+| 259 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 229 | 4.81 | 77 |
 | 260 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 227 | 4.60 | 390 |
 | 261 | [Severed Steel](games/s/severed_steel.md) | 225 | 4.69 | 213 |
 | 262 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 222 | 4.59 | 412 |
@@ -465,7 +465,7 @@
 | 462 | [City of Gangsters](games/c/city_of_gangsters.md) | 29 | 4.26 | 812 |
 | 462 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 29 | 4.45 | 631 |
 | 462 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.33 | 765 |
-| 466 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 28 | 4.81 | 76 |
+| 466 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 28 | 4.81 | 77 |
 | 466 | [Wildermyth](games/w/wildermyth.md) | 28 | 4.77 | 108 |
 | 466 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 28 | 4.52 | 527 |
 | 469 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 755 |
