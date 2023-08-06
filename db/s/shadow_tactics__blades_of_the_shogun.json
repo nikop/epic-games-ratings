@@ -1387,9 +1387,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 191559,
+  "EOS_Progressed": 191570,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 1795,
+  "EOS_NewPlayers": 1792,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13232,6 +13232,11 @@
       "Time": "2023-08-06T07:03:27.6583772+00:00",
       "NumProgressed": 191559,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-08-06T08:03:05.141732+00:00",
+      "NumProgressed": 191570,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 44,
@@ -13243,7 +13248,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17240
+      "UsersEstimate": 17241
     },
     {
       "ID": "AtheistOx",
@@ -13283,7 +13288,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 15325
+      "UsersEstimate": 15326
     },
     {
       "ID": "FiveShadows",
@@ -13307,7 +13312,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7662
+      "UsersEstimate": 7663
     },
     {
       "ID": "Genin",
@@ -13315,7 +13320,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 21071
+      "UsersEstimate": 21073
     },
     {
       "ID": "HappyLittleAccidents",
@@ -13323,7 +13328,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7662
+      "UsersEstimate": 7663
     },
     {
       "ID": "HappyPlanning",
@@ -13363,7 +13368,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 13409
+      "UsersEstimate": 13410
     },
     {
       "ID": "Mercyful",
@@ -13443,7 +13448,7 @@
       "Name": "Prisoners",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7662
+      "UsersEstimate": 7663
     },
     {
       "ID": "ReleaseTheKraken",
@@ -13459,7 +13464,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13409
+      "UsersEstimate": 13410
     },
     {
       "ID": "Rollin",
@@ -13467,7 +13472,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 15325
+      "UsersEstimate": 15326
     },
     {
       "ID": "StillRollin",
@@ -13491,7 +13496,7 @@
       "Name": "Stoned Ox",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13409
+      "UsersEstimate": 13410
     },
     {
       "ID": "TanukiTime",
@@ -13499,7 +13504,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 15325
+      "UsersEstimate": 15326
     },
     {
       "ID": "TheCave",
@@ -13531,7 +13536,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 19156
+      "UsersEstimate": 19157
     },
     {
       "ID": "TimeParadox",
@@ -13555,7 +13560,7 @@
       "Name": "Too Early",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7662
+      "UsersEstimate": 7663
     },
     {
       "ID": "Warzone",
@@ -13571,7 +13576,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "WinnerWinner",
@@ -13594,15 +13599,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 191559,
+      "Progressed": 191570,
       "Completed": 66
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-06T02:17:21.6132481+00:00",
-  "LastChanged_Achievements": "2023-08-06T07:03:27.6583768+00:00",
+  "LastChanged_Achievements": "2023-08-06T08:03:05.1417314+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:04.7393029+00:00",
-  "LastUpdate_Ratings": "2023-08-06T07:01:10.3296909+00:00",
-  "LastUpdate_Achievements": "2023-08-06T07:03:27.65846+00:00"
+  "LastUpdate_Ratings": "2023-08-06T08:00:53.4323602+00:00",
+  "LastUpdate_Achievements": "2023-08-06T08:03:05.1418466+00:00"
 }

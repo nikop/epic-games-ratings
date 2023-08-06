@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 16,
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
@@ -8921,10 +8921,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 88949,
       "NumberOfAwardsMax": 11039
+    },
+    {
+      "Time": "2023-08-06T07:59:44.0137012+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 88952,
+      "NumberOfAwardsMax": 11039
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 88949,
+  "NumberOfAwards": 88952,
   "NumberOfAwardsMax": 11039,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -8968,7 +8974,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 8027
+      "Count": 8030
     },
     {
       "Text": "This game has Challenging Combat",
@@ -9006,8 +9012,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-08-06T03:59:04.2971866+00:00",
+  "LastChanged": "2023-08-06T07:59:44.0137011+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:07.3125269+00:00",
-  "LastUpdate_Ratings": "2023-08-06T06:59:56.327455+00:00",
-  "LastUpdate_Achievements": "2023-08-06T07:03:26.3969857+00:00"
+  "LastUpdate_Ratings": "2023-08-06T07:59:44.0137021+00:00",
+  "LastUpdate_Achievements": "2023-08-06T08:03:03.8380694+00:00"
 }

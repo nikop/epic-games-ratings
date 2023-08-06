@@ -5528,10 +5528,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30910,
       "NumberOfAwardsMax": 5119
+    },
+    {
+      "Time": "2023-08-06T07:59:33.3124971+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30914,
+      "NumberOfAwardsMax": 5119
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30910,
+  "NumberOfAwards": 30914,
   "NumberOfAwardsMax": 5119,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5563,7 +5569,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4032
+      "Count": 4036
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5578,7 +5584,7 @@
       "Count": 3343
     }
   ],
-  "EOS_Progressed": 219154,
+  "EOS_Progressed": 219162,
   "EOS_Completed": 2154,
   "EOS_NewPlayers": 2203,
   "EOS_NewCompleters": 17,
@@ -17208,6 +17214,11 @@
       "Time": "2023-08-06T07:03:32.6467193+00:00",
       "NumProgressed": 219154,
       "NumCompleted": 2154
+    },
+    {
+      "Time": "2023-08-06T08:03:10.3143159+00:00",
+      "NumProgressed": 219162,
+      "NumCompleted": 2154
     }
   ],
   "TotalAchievements": 512,
@@ -18625,9 +18636,9 @@
       "ID": "objective_completed_216",
       "SetID": "cc37lbc",
       "Name": "Relentless Misfortune",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 438
     },
     {
       "ID": "objective_completed_230",
@@ -21314,21 +21325,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185428,
+      "Progressed": 185436,
       "Completed": 3060
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219154,
+      "Progressed": 219162,
       "Completed": 2154
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-05T22:59:24.7392934+00:00",
-  "LastChanged_Achievements": "2023-08-06T07:03:32.6467188+00:00",
+  "LastChanged": "2023-08-06T07:59:33.3124968+00:00",
+  "LastChanged_Achievements": "2023-08-06T08:03:10.3143153+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-06T06:59:47.3473325+00:00",
-  "LastUpdate_Achievements": "2023-08-06T07:03:32.6490965+00:00"
+  "LastUpdate_Ratings": "2023-08-06T07:59:33.312498+00:00",
+  "LastUpdate_Achievements": "2023-08-06T08:03:10.3176578+00:00"
 }

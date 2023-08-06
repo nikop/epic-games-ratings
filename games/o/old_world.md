@@ -51,6 +51,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 0.80% | ~106 |
 | Great | 0.80% | ~106 |
 | Artisans | 0.80% | ~106 |
+| Colossus | 0.80% | ~106 |
 | Great Ziggurat | 0.80% | ~106 |
 | Necropolis | 0.80% | ~106 |
 | Learn to Play 1 | 0.80% | ~106 |
@@ -60,7 +61,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.70% | ~93 |
 | Furious Family | 0.70% | ~93 |
 | Apadana | 0.70% | ~93 |
-| Colossus | 0.70% | ~93 |
 | Musaeum | 0.70% | ~93 |
 | Drillmaster | 0.60% | ~80 |
 | Intercessor | 0.60% | ~80 |
@@ -81,6 +81,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.50% | ~66 |
 | Statesmen | 0.50% | ~66 |
 | Traders | 0.50% | ~66 |
+| Temple of Solomon | 0.50% | ~66 |
 | Persian Paganism | 0.50% | ~66 |
 | Building Wonders | 0.50% | ~66 |
 | Phalangite | 0.50% | ~66 |
@@ -95,7 +96,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.40% | ~53 |
 | Circus Maximus | 0.40% | ~53 |
 | Hagia Sophia | 0.40% | ~53 |
-| Temple of Solomon | 0.40% | ~53 |
+| Church of the Holy Sepulchre | 0.40% | ~53 |
 | Adur Burzen-Mihr | 0.40% | ~53 |
 | Pantheon | 0.40% | ~53 |
 | Via Recta Souk | 0.40% | ~53 |
@@ -120,7 +121,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.30% | ~40 |
 | Hunters | 0.30% | ~40 |
 | Landowners | 0.30% | ~40 |
-| Church of the Holy Sepulchre | 0.30% | ~40 |
 | Learn to Play 4 | 0.30% | ~40 |
 | Rome | 0.30% | ~40 |
 | One True Faith | 0.30% | ~40 |
@@ -148,6 +148,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.20% | ~27 |
 | Hittite Paganism | 0.20% | ~27 |
 | Capturing Cities | 0.20% | ~27 |
+| Ten Crowns | 0.20% | ~27 |
 | Cataphract Archer | 0.20% | ~27 |
 | Three Man Chariot | 0.20% | ~27 |
 | All Nations | 0.20% | ~27 |
@@ -252,7 +253,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Papacy | 0.10% | ~13 |
 | Circus Maximus in Roma | 0.10% | ~13 |
 | Pantheon in Roma | 0.10% | ~13 |
-| Ten Crowns | 0.10% | ~13 |
 | Word of God | 0.10% | ~13 |
 | Siege Tower | 0.10% | ~13 |
 | One City Challenge | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,284 (Ranked 117)  
+Progressed: 13,285 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,7 +411,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-03 | 13,260 | 5 |
 | 2023-08-04 | 13,269 | 5 |
 | 2023-08-05 | 13,281 | 5 |
-| 2023-08-06 | 13,284 | 5 |
+| 2023-08-06 | 13,285 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 264)  
 Sum: 1,786 (Ranked 206)  

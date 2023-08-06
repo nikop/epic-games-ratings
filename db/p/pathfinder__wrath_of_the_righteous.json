@@ -3368,9 +3368,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10821,
+  "EOS_Progressed": 10822,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10218,6 +10218,11 @@
       "Time": "2023-08-06T06:03:13.3823281+00:00",
       "NumProgressed": 10821,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T08:03:37.6033862+00:00",
+      "NumProgressed": 10822,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10253,7 +10258,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -10597,7 +10602,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "49_Flame",
@@ -11156,21 +11161,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9603,
+      "Progressed": 9604,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10821,
+      "Progressed": 10822,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-06T01:45:53.5882152+00:00",
-  "LastChanged_Achievements": "2023-08-06T07:04:02.7471914+00:00",
+  "LastChanged_Achievements": "2023-08-06T08:03:37.6033855+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:18.5411463+00:00",
-  "LastUpdate_Ratings": "2023-08-06T07:00:12.9663051+00:00",
-  "LastUpdate_Achievements": "2023-08-06T07:04:02.7473537+00:00"
+  "LastUpdate_Ratings": "2023-08-06T07:59:56.430221+00:00",
+  "LastUpdate_Achievements": "2023-08-06T08:03:37.6035915+00:00"
 }

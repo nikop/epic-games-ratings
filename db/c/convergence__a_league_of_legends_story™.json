@@ -2141,9 +2141,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 148
     },
     {
       "ID": "MapCompletion1",
@@ -2382,8 +2382,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-06T07:05:37.7032145+00:00",
+  "LastChanged_Achievements": "2023-08-06T08:05:25.8270626+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:20.0210953+00:00",
-  "LastUpdate_Ratings": "2023-08-06T07:01:30.4861254+00:00",
-  "LastUpdate_Achievements": "2023-08-06T07:05:37.7032574+00:00"
+  "LastUpdate_Ratings": "2023-08-06T08:01:14.2089665+00:00",
+  "LastUpdate_Achievements": "2023-08-06T08:05:25.8271268+00:00"
 }

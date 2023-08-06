@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -6053,9 +6053,9 @@
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 171
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6268,8 +6268,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-05T14:57:23.5179626+00:00",
-  "LastChanged_Achievements": "2023-08-06T07:06:07.7401938+00:00",
+  "LastChanged_Achievements": "2023-08-06T08:05:53.6236347+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:33.5601025+00:00",
-  "LastUpdate_Ratings": "2023-08-06T06:57:44.0938143+00:00",
-  "LastUpdate_Achievements": "2023-08-06T07:06:07.7402775+00:00"
+  "LastUpdate_Ratings": "2023-08-06T07:57:36.530669+00:00",
+  "LastUpdate_Achievements": "2023-08-06T08:05:53.6237611+00:00"
 }

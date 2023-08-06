@@ -19,7 +19,7 @@ Rating: 4.48 (Ranked 590)
 | Right through the middle | 57.00% | ~1,007 |
 | Facility Manager | 53.00% | ~936 |
 | Poor Devil | 53.00% | ~936 |
-| Producer | 49.00% | ~865 |
+| Producer | 50.00% | ~883 |
 | Apprentice | 42.00% | ~742 |
 | Bridge Builder | 41.00% | ~724 |
 | Access granted | 35.00% | ~618 |
@@ -33,7 +33,7 @@ Rating: 4.48 (Ranked 590)
 | Socializer | 29.00% | ~512 |
 | Country Life | 26.00% | ~459 |
 | General Manager | 25.00% | ~442 |
-| Hostile Takeover | 24.00% | ~424 |
+| Hostile Takeover | 25.00% | ~442 |
 | Seven at one stroke | 23.00% | ~406 |
 | Trailblazer | 20.00% | ~353 |
 | Breaking Ground | 20.00% | ~353 |

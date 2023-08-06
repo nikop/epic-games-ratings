@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23843,
+  "EOS_Progressed": 23844,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3928,6 +3928,11 @@
       "Time": "2023-08-06T06:06:40.5728268+00:00",
       "NumProgressed": 23843,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-08-06T08:07:56.227616+00:00",
+      "NumProgressed": 23844,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 32,
@@ -3947,7 +3952,7 @@
       "Name": "Playing Card To Get",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 7868
+      "UsersEstimate": 7869
     },
     {
       "ID": "ACH_ALL_HUNTCHALS",
@@ -3955,7 +3960,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18359
+      "UsersEstimate": 18360
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -3963,7 +3968,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10252
+      "UsersEstimate": 10253
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -3979,7 +3984,7 @@
       "Name": "Creature Feature",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6914
+      "UsersEstimate": 6915
     },
     {
       "ID": "ACH_GET_GUS",
@@ -4019,7 +4024,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5722
+      "UsersEstimate": 5723
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -4027,7 +4032,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5722
+      "UsersEstimate": 5723
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -4043,7 +4048,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19790
+      "UsersEstimate": 19791
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -4051,7 +4056,7 @@
       "Name": "Sequel-Bait",
       "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "ACH_JUGGLE_SKILLS",
@@ -4067,7 +4072,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 14067
+      "UsersEstimate": 14068
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -4091,7 +4096,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 5245
+      "UsersEstimate": 5246
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -4123,7 +4128,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17405
+      "UsersEstimate": 17406
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -4131,7 +4136,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7868
+      "UsersEstimate": 7869
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -4187,29 +4192,29 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5245
+      "UsersEstimate": 5246
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23843,
+      "Progressed": 23844,
       "Completed": 11
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1136,
-      "Completed": 1136
+      "Progressed": 1137,
+      "Completed": 1137
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-01T02:03:53.4121642+00:00",
-  "LastChanged_Achievements": "2023-08-06T07:08:29.3242053+00:00",
+  "LastChanged_Achievements": "2023-08-06T08:07:56.2276153+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:45.9653672+00:00",
-  "LastUpdate_Ratings": "2023-08-06T06:59:31.8468085+00:00",
-  "LastUpdate_Achievements": "2023-08-06T07:08:29.3242437+00:00"
+  "LastUpdate_Ratings": "2023-08-06T07:59:16.4077956+00:00",
+  "LastUpdate_Achievements": "2023-08-06T08:07:56.2276645+00:00"
 }

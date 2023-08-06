@@ -17,9 +17,9 @@
 | A Strange Proposition | 12.00% | ~10 |
 | The Steed | 11.00% | ~9 |
 | Card Completionist | 9.00% | ~7 |
+| The Bodyguard | 7.00% | ~6 |
 | The Apprentice | 7.00% | ~6 |
 | Braving Miasma | 7.00% | ~6 |
-| The Bodyguard | 6.00% | ~5 |
 | The Familiar | 6.00% | ~5 |
 | Oracle Mastery | 6.00% | ~5 |
 | No Stone Unturned | 6.00% | ~5 |

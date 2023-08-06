@@ -6,6 +6,7 @@ Rating: 4.44 (Ranked 644)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Liberté | 5.00% | ~171 |
+| Taking it back | 5.00% | ~171 |
 | Target America | 5.00% | ~171 |
 | The Kraken Sleeps | 5.00% | ~171 |
 | Meeting Resistance | 4.00% | ~137 |
@@ -17,7 +18,6 @@ Rating: 4.44 (Ranked 644)
 | The Kraken Wakes | 4.00% | ~137 |
 | It's Starting to Crack | 4.00% | ~137 |
 | Change the Channel | 4.00% | ~137 |
-| Taking it back | 4.00% | ~137 |
 | Climbing the Ladder | 3.00% | ~102 |
 | No Stone Unturned | 3.00% | ~102 |
 | Organ Grinder | 3.00% | ~102 |

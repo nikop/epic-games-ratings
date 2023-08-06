@@ -1,7 +1,7 @@
 # Absolute Drift
 [Store](https://store.epicgames.com/en-US/p/absolute-drift)  
 [View Rawdata](../../db/a/absolute_drift.json)  
-Rating: 4.41 (Ranked 678)  
+Rating: 4.41 (Ranked 679)  
 Number of Ratings: 216  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -27,7 +27,7 @@ Number of Ratings: 216  (23.09.2022)
 | Washing Machine | 0.40% | ~6,134 |
 | The Completionist | 0.10% | ~1,534 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,533,597 (Ranked 7)  
+Progressed: 1,533,602 (Ranked 7)  
 Completed: 655 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 655 (0.04%) (Ranked 220)
 | 2023-08-03 | 1,533,182 | 654 |
 | 2023-08-04 | 1,533,361 | 655 |
 | 2023-08-05 | 1,533,555 | 655 |
-| 2023-08-06 | 1,533,597 | 655 |
+| 2023-08-06 | 1,533,602 | 655 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

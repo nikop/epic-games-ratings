@@ -34,10 +34,10 @@ Number of Ratings: 62  (23.09.2022)
 | Melting Down | 9.00% | ~413 |
 | Raging Drones | 9.00% | ~413 |
 | Overconfident | 9.00% | ~413 |
+| Is This Real Life? | 9.00% | ~413 |
 | Pusher Man | 8.00% | ~367 |
 | Squad Chief Helvig | 8.00% | ~367 |
 | No More Marching | 8.00% | ~367 |
-| Is This Real Life? | 8.00% | ~367 |
 | Duty-Bound | 7.00% | ~321 |
 | Follow the White Rabbit | 7.00% | ~321 |
 | Liberation | 7.00% | ~321 |

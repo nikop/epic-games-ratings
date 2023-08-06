@@ -194,6 +194,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Double Vision | 0.20% | ~438 |
 | Haunted Fortunes | 0.20% | ~438 |
 | Poor Fortune | 0.20% | ~438 |
+| Relentless Misfortune | 0.20% | ~438 |
 | Thine Bounty is Mine! | 0.20% | ~371 |
 | This Quest Stinks! | 0.20% | ~371 |
 | Hold for the Red Wizards | 0.20% | ~438 |
@@ -312,7 +313,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Snakes on our Plane | 0.10% | ~185 |
 | The Soulmonger Calls | 0.10% | ~219 |
 | Acererak's Puzzle | 0.10% | ~185 |
-| Relentless Misfortune | 0.10% | ~219 |
 | Form Ranks | 0.10% | ~219 |
 | Drop of Time | 0.10% | ~185 |
 | They Who Smelt It | 0.10% | ~219 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,154 (Ranked 53)  
+Progressed: 219,162 (Ranked 53)  
 Completed: 2,154 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,10 +627,10 @@ Completed: 2,154 (0.98%) (Ranked 113)
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
-| 2023-08-06 | 219,154 | 2,154 |
+| 2023-08-06 | 219,162 | 2,154 |
 ## Awards
 Max (Diverse Characters): 5,119  (Ranked 67)  
-Sum: 30,910 (Ranked 38)  
+Sum: 30,914 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -639,7 +639,7 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 4,702 |
 | This game is Relaxing | 4,595 |
 | This game has Amazing Characters | 4,055 |
-| This game is Highly Recommended | 4,032 |
+| This game is Highly Recommended | 4,036 |
 | This game has Playful Visuals | 3,343 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -836,3 +836,4 @@ Diff (max vs sum): 29
 | 2023-08-03 | 4.05 | - | 5,116 | 30,886 |
 | 2023-08-04 | 4.05 | - | 5,116 | 30,897 |
 | 2023-08-05 | 4.05 | - | 5,119 | 30,910 |
+| 2023-08-06 | 4.05 | - | 5,119 | 30,914 |
