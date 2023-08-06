@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3029,
+  "EOS_Progressed": 3030,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4349,6 +4349,11 @@
       "Time": "2023-08-06T11:06:17.5728753+00:00",
       "NumProgressed": 3029,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T12:05:48.5046285+00:00",
+      "NumProgressed": 3030,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4448,7 +4453,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "ACH_BASE_22",
@@ -4472,7 +4477,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "ACH_BASE_25",
@@ -4488,7 +4493,7 @@
       "Name": "Sightseeing",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_BASE_27",
@@ -4576,7 +4581,7 @@
       "Name": "Access Granted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_BASE_37",
@@ -4584,7 +4589,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_BASE_38",
@@ -4656,7 +4661,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ACH_BASE_49",
@@ -4792,7 +4797,7 @@
       "Name": "From the Past",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_BASE_8",
@@ -4815,13 +4820,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1211,
+      "Progressed": 1212,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3029,
+      "Progressed": 3030,
       "Completed": 0
     }
   ],
@@ -4829,8 +4834,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-08-06T11:06:17.572875+00:00",
+  "LastChanged_Achievements": "2023-08-06T12:05:48.5046279+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:23.7106164+00:00",
-  "LastUpdate_Ratings": "2023-08-06T10:59:30.8555327+00:00",
-  "LastUpdate_Achievements": "2023-08-06T11:06:17.572979+00:00"
+  "LastUpdate_Ratings": "2023-08-06T11:59:21.0996682+00:00",
+  "LastUpdate_Achievements": "2023-08-06T12:05:48.504716+00:00"
 }

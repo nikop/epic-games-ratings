@@ -22,6 +22,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bounty Hunters | 0.30% | ~402 |
 | Pretty Penny | 0.30% | ~402 |
 | One-Armed Bandit | 0.30% | ~402 |
+| Dungeon Imports | 0.30% | ~402 |
 | Through Repetition, Perfection | 0.30% | ~402 |
 | On the Path to Greatness | 0.20% | ~268 |
 | Ascended | 0.20% | ~268 |
@@ -41,7 +42,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 0.20% | ~268 |
 | Helping Hand | 0.20% | ~268 |
 | Accomplished Merchant | 0.20% | ~268 |
-| Dungeon Imports | 0.20% | ~268 |
 | Natural 20 | 0.20% | ~268 |
 | Seasoned Journeyman | 0.20% | ~268 |
 | Did we pack lunch? | 0.20% | ~268 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,982 (Ranked 62)  
+Progressed: 133,986 (Ranked 62)  
 Completed: 128 (0.10%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 128 (0.10%) (Ranked 198)
 | 2023-08-03 | 133,815 | 128 |
 | 2023-08-04 | 133,890 | 128 |
 | 2023-08-05 | 133,956 | 128 |
-| 2023-08-06 | 133,982 | 128 |
+| 2023-08-06 | 133,986 | 128 |
 ## Awards
 Max (Great for Beginners): 4,688  (Ranked 70)  
 Sum: 27,053 (Ranked 46)  

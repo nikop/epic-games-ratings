@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -368,7 +368,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12637,
+  "EOS_Progressed": 12638,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 1,
@@ -6788,6 +6788,11 @@
       "Time": "2023-08-06T10:04:11.2593631+00:00",
       "NumProgressed": 12637,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-08-06T12:03:51.5919768+00:00",
+      "NumProgressed": 12638,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 35,
@@ -6799,7 +6804,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11626
+      "UsersEstimate": 11627
     },
     {
       "ID": "ACH_02",
@@ -6807,7 +6812,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 9857
+      "UsersEstimate": 9858
     },
     {
       "ID": "ACH_03",
@@ -6815,7 +6820,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 9225
+      "UsersEstimate": 9226
     },
     {
       "ID": "ACH_04",
@@ -6853,9 +6858,9 @@
       "ID": "ACH_08",
       "SetID": "9d4cf4c",
       "Name": "A Sea of Promises",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 7456
+      "UsersEstimate": 7583
     },
     {
       "ID": "ACH_09",
@@ -6871,7 +6876,7 @@
       "Name": "Bloodline",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 6571
+      "UsersEstimate": 6572
     },
     {
       "ID": "ACH_11",
@@ -6903,7 +6908,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 4549
+      "UsersEstimate": 4550
     },
     {
       "ID": "ACH_15",
@@ -6911,7 +6916,7 @@
       "Name": "Dying Sun",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4170
+      "UsersEstimate": 4171
     },
     {
       "ID": "ACH_16",
@@ -6927,7 +6932,7 @@
       "Name": "Knights!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2527
+      "UsersEstimate": 2528
     },
     {
       "ID": "ACH_18",
@@ -6959,7 +6964,7 @@
       "Name": "Immortal memories",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "ACH_22",
@@ -7015,7 +7020,7 @@
       "Name": "Alchemist",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8593
+      "UsersEstimate": 8594
     },
     {
       "ID": "ACH_29",
@@ -7023,7 +7028,7 @@
       "Name": "Sneaky",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "ACH_30",
@@ -7078,7 +7083,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12637,
+      "Progressed": 12638,
       "Completed": 40
     }
   ],
@@ -7086,8 +7091,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-08-06T11:04:07.9011539+00:00",
+  "LastChanged_Achievements": "2023-08-06T12:03:51.5919762+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:22.662799+00:00",
-  "LastUpdate_Ratings": "2023-08-06T11:00:35.2881506+00:00",
-  "LastUpdate_Achievements": "2023-08-06T11:04:07.9012729+00:00"
+  "LastUpdate_Ratings": "2023-08-06T12:00:10.9953505+00:00",
+  "LastUpdate_Achievements": "2023-08-06T12:03:51.5920438+00:00"
 }

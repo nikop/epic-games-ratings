@@ -5,15 +5,15 @@ Rating: 4.58 (Ranked 425)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~647 |
-| Fetch Quest Complete | 91.00% | ~613 |
-| I can't wait! | 83.00% | ~559 |
-| Swish | 56.00% | ~377 |
+| Pushing a pull door | 96.00% | ~648 |
+| Fetch Quest Complete | 90.00% | ~608 |
+| I can't wait! | 83.00% | ~560 |
+| Swish | 56.00% | ~378 |
 | Clean up on Aisle 9 | 40.00% | ~270 |
 | Machine Maxed | 30.00% | ~202 |
-| Bug Fixer | 25.00% | ~168 |
-| Existential dread | 25.00% | ~168 |
-| Gerald of Riviera | 25.00% | ~168 |
+| Bug Fixer | 25.00% | ~169 |
+| Existential dread | 25.00% | ~169 |
+| Gerald of Riviera | 25.00% | ~169 |
 | Goal | 22.00% | ~148 |
 | I ran the numbers | 15.00% | ~101 |
 | Taking the plunge | 13.00% | ~88 |
@@ -32,12 +32,12 @@ Rating: 4.58 (Ranked 425)
 | We come in peace | 3.00% | ~20 |
 | Crowning achievement | 3.00% | ~20 |
 | Hammer time | 3.00% | ~20 |
-| 1CC | 2.00% | ~13 |
-| GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~13 |
-| To do. Done! | 2.00% | ~13 |
-| Modern Gorefare | 2.00% | ~13 |
-| GTA: Crime City | 2.00% | ~13 |
-| Slacker | 2.00% | ~13 |
+| 1CC | 2.00% | ~14 |
+| GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~14 |
+| To do. Done! | 2.00% | ~14 |
+| Modern Gorefare | 2.00% | ~14 |
+| GTA: Crime City | 2.00% | ~14 |
+| Slacker | 2.00% | ~14 |
 | 1337 HAXXOR | 1.00% | ~7 |
 | Fresh Prince of Grindstone | 1.00% | ~7 |
 | Drop the ball | 1.00% | ~7 |
@@ -60,7 +60,7 @@ Rating: 4.58 (Ranked 425)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674 (Ranked 211)  
+Progressed: 675 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,6 +117,7 @@ Completed: 0 (0.00%) (Ranked 249)
 | 2023-08-02 | 672 | 0 |
 | 2023-08-04 | 673 | 0 |
 | 2023-08-05 | 674 | 0 |
+| 2023-08-06 | 675 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

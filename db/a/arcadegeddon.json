@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -7395,9 +7395,9 @@
       "ID": "ACH_PLAYING_WITH_POWER",
       "SetID": "97mcd7i",
       "Name": "Playing With Power",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 6475
+      "UsersEstimate": 6559
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -7595,8 +7595,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-07-22T11:58:35.0651733+00:00",
-  "LastChanged_Achievements": "2023-08-06T11:07:14.9688313+00:00",
+  "LastChanged_Achievements": "2023-08-06T12:06:35.8967218+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:18.4293252+00:00",
-  "LastUpdate_Ratings": "2023-08-06T10:59:26.477062+00:00",
-  "LastUpdate_Achievements": "2023-08-06T11:07:14.9689191+00:00"
+  "LastUpdate_Ratings": "2023-08-06T11:59:15.9338996+00:00",
+  "LastUpdate_Achievements": "2023-08-06T12:06:35.8968062+00:00"
 }

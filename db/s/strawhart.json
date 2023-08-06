@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-20T08:00:00+00:00",
     "PcReleaseDate": "2022-03-11T04:00:00+00:00",
@@ -216,9 +216,9 @@
       "ID": "ACH_STRAWHART_AWAKEN",
       "SetID": "64pp6bc",
       "Name": "What could possibly go wrong?",
-      "Percentage": 64,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_STRAWHART_DEFEAT",
@@ -249,8 +249,8 @@
   "FirstSeenRating": "2023-04-21T23:57:25.9719541+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.1466412+00:00",
   "LastChanged": "2023-04-21T23:57:25.9719541+00:00",
-  "LastChanged_Achievements": "2023-08-06T11:03:21.1508274+00:00",
+  "LastChanged_Achievements": "2023-08-06T12:03:12.3525311+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:52.6071792+00:00",
-  "LastUpdate_Ratings": "2023-08-06T11:01:07.9345789+00:00",
-  "LastUpdate_Achievements": "2023-08-06T11:03:21.1508625+00:00"
+  "LastUpdate_Ratings": "2023-08-06T12:00:36.6702536+00:00",
+  "LastUpdate_Achievements": "2023-08-06T12:03:12.3525483+00:00"
 }

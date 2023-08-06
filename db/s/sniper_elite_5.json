@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -446,9 +446,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3415,
+  "EOS_Progressed": 3417,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -5681,6 +5681,11 @@
       "Time": "2023-08-06T10:05:36.1777797+00:00",
       "NumProgressed": 3415,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-06T12:05:07.6696947+00:00",
+      "NumProgressed": 3417,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5692,7 +5697,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -5716,7 +5721,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -5756,7 +5761,7 @@
       "Name": "Organ Grinder",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -5812,7 +5817,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -5924,7 +5929,7 @@
       "Name": "Der Geist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -5964,7 +5969,7 @@
       "Name": "From Paris with Love",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -5972,7 +5977,7 @@
       "Name": "Burn after reading",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -5980,7 +5985,7 @@
       "Name": "Souvenir hunter",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
@@ -5988,7 +5993,7 @@
       "Name": "Eagle Eyed",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
@@ -6020,7 +6025,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -6068,7 +6073,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -6259,13 +6264,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3366,
+      "Progressed": 3368,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3415,
+      "Progressed": 3417,
       "Completed": 9
     }
   ],
@@ -6273,8 +6278,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-05T14:57:23.5179626+00:00",
-  "LastChanged_Achievements": "2023-08-06T11:05:27.5844354+00:00",
+  "LastChanged_Achievements": "2023-08-06T12:05:07.6696942+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:33.5601025+00:00",
-  "LastUpdate_Ratings": "2023-08-06T10:57:25.8962214+00:00",
-  "LastUpdate_Achievements": "2023-08-06T11:05:27.5845575+00:00"
+  "LastUpdate_Ratings": "2023-08-06T11:57:28.7064274+00:00",
+  "LastUpdate_Achievements": "2023-08-06T12:05:07.6698011+00:00"
 }

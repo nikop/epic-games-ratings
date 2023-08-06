@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-15T16:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -630,10 +630,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 203,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-08-06T12:00:11.2471582+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 204,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 203,
+  "NumberOfAwards": 204,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -659,7 +665,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -710,8 +716,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-15T22:58:09.2323476+00:00",
   "FirstSeenRating": "2022-12-26T17:58:45.352902+00:00",
-  "LastChanged": "2023-08-02T21:00:11.3835346+00:00",
+  "LastChanged": "2023-08-06T12:00:11.247158+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:23.4205513+00:00",
-  "LastUpdate_Ratings": "2023-08-06T11:00:35.6042619+00:00",
-  "LastUpdate_Achievements": "2023-08-06T11:06:43.7731819+00:00"
+  "LastUpdate_Ratings": "2023-08-06T12:00:11.2471587+00:00",
+  "LastUpdate_Achievements": "2023-08-06T12:06:09.6426847+00:00"
 }

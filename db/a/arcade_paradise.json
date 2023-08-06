@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 674,
+  "EOS_Progressed": 675,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -573,6 +573,11 @@
       "Time": "2023-08-05T14:04:36.0696163+00:00",
       "NumProgressed": 674,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T12:04:37.8543034+00:00",
+      "NumProgressed": 675,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -600,7 +605,7 @@
       "Name": "1CC",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "2DigitGoalTrophy",
@@ -616,7 +621,7 @@
       "Name": "GOOOOOOAAAAAAALLLL!!!!",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "4DigitGoalTrophy",
@@ -624,15 +629,15 @@
       "Name": "To do. Done!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "4HopperTrophy",
       "SetID": "32aeje8",
       "Name": "Fetch Quest Complete",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 613
+      "UsersEstimate": 608
     },
     {
       "ID": "AhoyTrophy",
@@ -704,7 +709,7 @@
       "Name": "Bug Fixer",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "DreadTrophy",
@@ -712,7 +717,7 @@
       "Name": "Existential dread",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "DropBallTrophy",
@@ -728,7 +733,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "Ext4Trophy",
@@ -776,7 +781,7 @@
       "Name": "Modern Gorefare",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "GrindTrophy",
@@ -864,7 +869,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "MaxPriceTrophy",
@@ -912,7 +917,7 @@
       "Name": "GTA: Crime City",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "RideTrophy",
@@ -936,7 +941,7 @@
       "Name": "Slacker",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SpinTrophy",
@@ -952,7 +957,7 @@
       "Name": "Swish",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "TerrorTrophy",
@@ -992,7 +997,7 @@
       "Name": "Gerald of Riviera",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "YouthTrophy",
@@ -1015,7 +1020,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 674,
+      "Progressed": 675,
       "Completed": 0
     }
   ],
@@ -1023,8 +1028,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-06-02T03:58:32.0065116+00:00",
-  "LastChanged_Achievements": "2023-08-06T11:04:51.1428643+00:00",
+  "LastChanged_Achievements": "2023-08-06T12:04:37.8543024+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:05.1659153+00:00",
-  "LastUpdate_Ratings": "2023-08-06T10:59:14.0221859+00:00",
-  "LastUpdate_Achievements": "2023-08-06T11:04:51.1429547+00:00"
+  "LastUpdate_Ratings": "2023-08-06T11:59:03.4816676+00:00",
+  "LastUpdate_Achievements": "2023-08-06T12:04:37.8543558+00:00"
 }

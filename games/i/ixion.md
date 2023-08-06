@@ -5,14 +5,14 @@ Rating: 4.55 (Ranked 485)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 25.00% | ~757 |
-| Sputnik 2049 | 22.00% | ~666 |
+| Wakey Wakey | 25.00% | ~758 |
+| Sputnik 2049 | 22.00% | ~667 |
 | Infinite Growth... | 21.00% | ~636 |
 | Without Breaking Some Eggs... | 20.00% | ~606 |
 | Space Society | 14.00% | ~424 |
 | A Thousand Strong | 14.00% | ~424 |
 | Ready for a New World | 14.00% | ~424 |
-| Permanent Redesigns | 12.00% | ~363 |
+| Permanent Redesigns | 12.00% | ~364 |
 | Fully Recycled | 11.00% | ~333 |
 | Ain't Nobody Got Time for That | 11.00% | ~333 |
 | The Ship of Theseus | 11.00% | ~333 |
@@ -25,10 +25,10 @@ Rating: 4.55 (Ranked 485)
 | Power Outage | 6.00% | ~182 |
 | Convenient Transport | 6.00% | ~182 |
 | Please Make it Stop! | 6.00% | ~182 |
-| Sightseeing | 5.00% | ~151 |
-| Access Granted | 5.00% | ~151 |
-| Necessary Enhancement | 5.00% | ~151 |
-| From the Past | 5.00% | ~151 |
+| Sightseeing | 5.00% | ~152 |
+| Access Granted | 5.00% | ~152 |
+| Necessary Enhancement | 5.00% | ~152 |
+| From the Past | 5.00% | ~152 |
 | Oats | 4.00% | ~121 |
 | What They Hide From Us | 4.00% | ~121 |
 | BRAWL! | 4.00% | ~121 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 485)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,029 (Ranked 157)  
+Progressed: 3,030 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 0 (0.00%) (Ranked 249)
 | 2023-08-03 | 3,011 | 0 |
 | 2023-08-04 | 3,016 | 0 |
 | 2023-08-05 | 3,027 | 0 |
-| 2023-08-06 | 3,029 | 0 |
+| 2023-08-06 | 3,030 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

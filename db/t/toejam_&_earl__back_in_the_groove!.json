@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56249,
+  "EOS_Progressed": 56250,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6982,6 +6982,11 @@
       "Time": "2023-08-06T11:06:22.9177453+00:00",
       "NumProgressed": 56249,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-06T12:05:53.0395697+00:00",
+      "NumProgressed": 56250,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -7057,7 +7062,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 3937
+      "UsersEstimate": 3938
     },
     {
       "ID": "FlyingPresent",
@@ -7153,7 +7158,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "IsThisPossible",
@@ -7177,7 +7182,7 @@
       "Name": "Beaten By A Little Girl",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "LordOfHFZ",
@@ -7345,7 +7350,7 @@
       "Name": "Totally Bummed Again",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "TrulyEvil",
@@ -7384,7 +7389,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56249,
+      "Progressed": 56250,
       "Completed": 4
     }
   ],
@@ -7392,8 +7397,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-08-06T11:06:22.9177444+00:00",
+  "LastChanged_Achievements": "2023-08-06T12:05:53.0395691+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:17.4893543+00:00",
-  "LastUpdate_Ratings": "2023-08-06T10:57:16.0317772+00:00",
-  "LastUpdate_Achievements": "2023-08-06T11:06:22.9178374+00:00"
+  "LastUpdate_Ratings": "2023-08-06T11:57:21.8132773+00:00",
+  "LastUpdate_Achievements": "2023-08-06T12:05:53.0396512+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What could possibly go wrong? | 64.00% | ~7 |
+| What could possibly go wrong? | 73.00% | ~8 |
 | Activist | 36.00% | ~4 |
 | Geneva Suggestion | 36.00% | ~4 |
 | The Archive is Incomplete | 27.00% | ~3 |

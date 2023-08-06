@@ -18,12 +18,12 @@ Rating: 4.44 (Ranked 644)
 | The Kraken Wakes | 4.00% | ~137 |
 | It's Starting to Crack | 4.00% | ~137 |
 | Change the Channel | 4.00% | ~137 |
-| Climbing the Ladder | 3.00% | ~102 |
-| No Stone Unturned | 3.00% | ~102 |
-| Organ Grinder | 3.00% | ~102 |
-| Gunslinger | 3.00% | ~102 |
-| Der Geist | 3.00% | ~102 |
-| Brains of the Operation | 3.00% | ~102 |
+| Climbing the Ladder | 3.00% | ~103 |
+| No Stone Unturned | 3.00% | ~103 |
+| Organ Grinder | 3.00% | ~103 |
+| Gunslinger | 3.00% | ~103 |
+| Der Geist | 3.00% | ~103 |
+| Brains of the Operation | 3.00% | ~103 |
 | Opposing Force | 2.00% | ~68 |
 | Enemy at the Gates | 2.00% | ~68 |
 | Fields of Glory | 2.00% | ~68 |
@@ -47,11 +47,11 @@ Rating: 4.44 (Ranked 644)
 | Sink or Swim | 0.80% | ~27 |
 | Strategist | 0.70% | ~24 |
 | Operation Foxley | 0.70% | ~24 |
-| From Paris with Love | 0.60% | ~20 |
-| Burn after reading | 0.60% | ~20 |
-| Souvenir hunter | 0.60% | ~20 |
-| Eagle Eyed | 0.60% | ~20 |
-| Locomotion Commotion | 0.60% | ~20 |
+| From Paris with Love | 0.60% | ~21 |
+| Burn after reading | 0.60% | ~21 |
+| Souvenir hunter | 0.60% | ~21 |
+| Eagle Eyed | 0.60% | ~21 |
+| Locomotion Commotion | 0.60% | ~21 |
 | Last Resort | 0.60% | ~20 |
 | Siegebreaker | 0.60% | ~20 |
 | Ghost of Falaise | 0.60% | ~20 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 644)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,415 (Ranked 150)  
+Progressed: 3,417 (Ranked 150)  
 Completed: 9 (0.26%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 9 (0.26%) (Ranked 165)
 | 2023-08-03 | 3,401 | 9 |
 | 2023-08-04 | 3,405 | 9 |
 | 2023-08-05 | 3,412 | 9 |
-| 2023-08-06 | 3,415 | 9 |
+| 2023-08-06 | 3,417 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

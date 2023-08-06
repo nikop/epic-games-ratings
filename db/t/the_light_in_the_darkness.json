@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2102,
+  "EOS_Progressed": 2103,
   "EOS_Completed": 189,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 8.99,
   "EosHistory": [
@@ -4648,6 +4648,11 @@
       "Time": "2023-08-06T05:03:32.6551816+00:00",
       "NumProgressed": 2102,
       "NumCompleted": 189
+    },
+    {
+      "Time": "2023-08-06T12:03:33.3700464+00:00",
+      "NumProgressed": 2103,
+      "NumCompleted": 189
     }
   ],
   "TotalAchievements": 12,
@@ -4673,9 +4678,9 @@
       "ID": "Building the Fox",
       "SetID": "b40dflc",
       "Name": "Building the Fox",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 462
+      "UsersEstimate": 442
     },
     {
       "ID": "Green Ticket Roundup",
@@ -4683,7 +4688,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "Jacques a Dit",
@@ -4754,7 +4759,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2102,
+      "Progressed": 2103,
       "Completed": 189
     }
   ],
@@ -4762,8 +4767,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-06T11:03:46.0706213+00:00",
+  "LastChanged_Achievements": "2023-08-06T12:03:33.3700459+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:24.0632297+00:00",
-  "LastUpdate_Ratings": "2023-08-06T11:00:41.3620888+00:00",
-  "LastUpdate_Achievements": "2023-08-06T11:03:46.0706678+00:00"
+  "LastUpdate_Ratings": "2023-08-06T12:00:16.0623694+00:00",
+  "LastUpdate_Achievements": "2023-08-06T12:03:33.3700865+00:00"
 }
