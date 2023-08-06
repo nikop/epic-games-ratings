@@ -6,17 +6,17 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~7,641 |
-| Photogenic | 88.00% | ~7,389 |
-| Surge Gauntlet Jockey | 85.00% | ~7,137 |
-| Plug It In | 84.00% | ~7,053 |
+| Let's Get This Party Started | 91.00% | ~7,642 |
+| Photogenic | 88.00% | ~7,390 |
+| Surge Gauntlet Jockey | 85.00% | ~7,138 |
+| Plug It In | 84.00% | ~7,054 |
 | Adventure Time | 80.00% | ~6,718 |
 | Playing With Power | 78.00% | ~6,550 |
-| Coup d'Etat | 59.00% | ~4,954 |
-| You're Fired | 58.00% | ~4,870 |
-| Get Furious | 56.00% | ~4,702 |
-| Gunplay And Cosplay | 55.00% | ~4,618 |
-| Hacks In Stacks | 55.00% | ~4,618 |
+| Coup d'Etat | 59.00% | ~4,955 |
+| You're Fired | 58.00% | ~4,871 |
+| Get Furious | 56.00% | ~4,703 |
+| Gunplay And Cosplay | 55.00% | ~4,619 |
+| Hacks In Stacks | 55.00% | ~4,619 |
 | Meching Enemies | 49.00% | ~4,115 |
 | Ticket Toddler | 44.00% | ~3,695 |
 | Booty Bashing | 41.00% | ~3,443 |
@@ -26,9 +26,9 @@ Number of Ratings: 801  (23.09.2022)
 | Surge Ahead | 31.00% | ~2,603 |
 | The Full Monty | 31.00% | ~2,603 |
 | Guardian Angel | 29.00% | ~2,435 |
-| Poppin Noggins | 25.00% | ~2,099 |
-| Clips and Crits | 20.00% | ~1,679 |
-| Grey Goo | 18.00% | ~1,511 |
+| Poppin Noggins | 25.00% | ~2,100 |
+| Clips and Crits | 20.00% | ~1,680 |
+| Grey Goo | 18.00% | ~1,512 |
 | Boss of Bosses | 15.00% | ~1,260 |
 | The Final Blow | 14.00% | ~1,176 |
 | To Be Continued | 13.00% | ~1,092 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~34 |
 | Pyrotechnical | 0.20% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,397 (Ranked 125)  
+Progressed: 8,398 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,6 +165,7 @@ Completed: 0 (0.00%) (Ranked 249)
 | 2023-08-03 | 8,367 | 0 |
 | 2023-08-04 | 8,382 | 0 |
 | 2023-08-05 | 8,397 | 0 |
+| 2023-08-06 | 8,398 | 0 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 387)  
 Sum: 454 (Ranked 305)  

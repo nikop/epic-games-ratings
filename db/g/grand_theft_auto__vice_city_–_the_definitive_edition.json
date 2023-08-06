@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -568,7 +568,7 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 9582,
+  "EOS_Progressed": 9583,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 1,
@@ -7963,6 +7963,11 @@
       "Time": "2023-08-05T21:05:06.2272703+00:00",
       "NumProgressed": 9582,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-06T01:51:48.7694681+00:00",
+      "NumProgressed": 9583,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 34,
@@ -8142,7 +8147,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "ACH23",
@@ -8158,7 +8163,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "ACH25",
@@ -8166,7 +8171,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "ACH26",
@@ -8245,7 +8250,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9582,
+      "Progressed": 9583,
       "Completed": 44
     }
   ],
@@ -8253,8 +8258,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-01T16:59:33.8335317+00:00",
-  "LastChanged_Achievements": "2023-08-06T00:05:03.6161874+00:00",
+  "LastChanged_Achievements": "2023-08-06T01:51:48.7694674+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:06.4488282+00:00",
-  "LastUpdate_Ratings": "2023-08-05T23:58:47.4304374+00:00",
-  "LastUpdate_Achievements": "2023-08-06T00:05:03.6162647+00:00"
+  "LastUpdate_Ratings": "2023-08-06T01:45:37.4806115+00:00",
+  "LastUpdate_Achievements": "2023-08-06T01:51:48.7695397+00:00"
 }

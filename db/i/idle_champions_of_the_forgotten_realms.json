@@ -5578,10 +5578,10 @@
       "Count": 3343
     }
   ],
-  "EOS_Progressed": 219070,
-  "EOS_Completed": 2153,
-  "EOS_NewPlayers": 2195,
-  "EOS_NewCompleters": 16,
+  "EOS_Progressed": 219093,
+  "EOS_Completed": 2154,
+  "EOS_NewPlayers": 2202,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -17173,6 +17173,11 @@
       "Time": "2023-08-06T00:03:13.8642724+00:00",
       "NumProgressed": 219070,
       "NumCompleted": 2153
+    },
+    {
+      "Time": "2023-08-06T01:48:53.802714+00:00",
+      "NumProgressed": 219093,
+      "NumCompleted": 2154
     }
   ],
   "TotalAchievements": 512,
@@ -17184,7 +17189,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8763
+      "UsersEstimate": 8764
     },
     {
       "ID": "objective_completed_10",
@@ -17192,7 +17197,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4381
+      "UsersEstimate": 4382
     },
     {
       "ID": "objective_completed_100",
@@ -17200,7 +17205,7 @@
       "Name": "Pros and CONs",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "objective_completed_101",
@@ -17552,7 +17557,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6572
+      "UsersEstimate": 6573
     },
     {
       "ID": "objective_completed_110",
@@ -17560,7 +17565,7 @@
       "Name": "Wet Feet",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "objective_completed_1100",
@@ -17616,7 +17621,7 @@
       "Name": "Hatchlings Underfoot",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "objective_completed_1111",
@@ -17656,7 +17661,7 @@
       "Name": "Don\u0027t Look Up!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "objective_completed_1121",
@@ -17864,15 +17869,15 @@
       "Name": "Vecna Lives!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1853
+      "UsersEstimate": 1854
     },
     {
       "ID": "objective_completed_1164",
       "SetID": "415jc5c",
       "Name": "Overwhelmed with Knowledge",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 556
     },
     {
       "ID": "objective_completed_1165",
@@ -17920,7 +17925,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "objective_completed_1174",
@@ -18048,7 +18053,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "objective_completed_1203",
@@ -18160,7 +18165,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "objective_completed_130",
@@ -18288,7 +18293,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "objective_completed_149",
@@ -18304,7 +18309,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "objective_completed_150",
@@ -18376,7 +18381,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "objective_completed_165",
@@ -18408,7 +18413,7 @@
       "Name": "Building Trust",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "objective_completed_17",
@@ -18512,7 +18517,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "objective_completed_20",
@@ -18600,7 +18605,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "objective_completed_231",
@@ -18856,7 +18861,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "objective_completed_34",
@@ -20328,7 +20333,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "objective_completed_70",
@@ -21208,7 +21213,7 @@
       "Name": "Rocky Reception",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1853
+      "UsersEstimate": 1854
     },
     {
       "ID": "objective_completed_1376",
@@ -21224,7 +21229,7 @@
       "Name": "Rock and Roll",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1853
+      "UsersEstimate": 1854
     },
     {
       "ID": "objective_completed_1381",
@@ -21279,21 +21284,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185344,
+      "Progressed": 185367,
       "Completed": 3058
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219070,
-      "Completed": 2153
+      "Progressed": 219093,
+      "Completed": 2154
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-05T22:59:24.7392934+00:00",
-  "LastChanged_Achievements": "2023-08-06T00:03:13.8642719+00:00",
+  "LastChanged_Achievements": "2023-08-06T01:48:53.8027132+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-05T23:58:42.3114835+00:00",
-  "LastUpdate_Achievements": "2023-08-06T00:03:13.8669789+00:00"
+  "LastUpdate_Ratings": "2023-08-06T01:45:28.9966751+00:00",
+  "LastUpdate_Achievements": "2023-08-06T01:48:53.808046+00:00"
 }

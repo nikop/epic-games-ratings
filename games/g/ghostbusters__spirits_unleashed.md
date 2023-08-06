@@ -5,24 +5,24 @@ Rating: 4.49 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,331 |
-| Advancement | 73.00% | ~18,106 |
-| Meticulously Efficient | 63.00% | ~15,626 |
-| Discovery | 61.00% | ~15,130 |
-| Fully Upgraded | 54.00% | ~13,394 |
-| Swift Rift Removers | 54.00% | ~13,394 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,650 |
-| Cultured | 51.00% | ~12,650 |
-| Vaporous Expansion | 48.00% | ~11,905 |
-| Teamwork | 44.00% | ~10,913 |
-| There you are! | 42.00% | ~10,417 |
-| Clutch Capture | 41.00% | ~10,169 |
-| Back Off | 35.00% | ~8,681 |
-| Daily Dose | 34.00% | ~8,433 |
-| Solo Capture | 32.00% | ~7,937 |
-| Welcome to the Crew | 31.00% | ~7,689 |
-| Ghostbuster In Training | 30.00% | ~7,441 |
-| Icing on the Cake | 30.00% | ~7,441 |
+| Stylish | 86.00% | ~21,332 |
+| Advancement | 73.00% | ~18,108 |
+| Meticulously Efficient | 63.00% | ~15,627 |
+| Discovery | 61.00% | ~15,131 |
+| Fully Upgraded | 54.00% | ~13,395 |
+| Swift Rift Removers | 54.00% | ~13,395 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,651 |
+| Cultured | 51.00% | ~12,651 |
+| Vaporous Expansion | 48.00% | ~11,906 |
+| Teamwork | 44.00% | ~10,914 |
+| There you are! | 42.00% | ~10,418 |
+| Clutch Capture | 41.00% | ~10,170 |
+| Back Off | 35.00% | ~8,682 |
+| Daily Dose | 34.00% | ~8,434 |
+| Solo Capture | 32.00% | ~7,938 |
+| Welcome to the Crew | 31.00% | ~7,690 |
+| Ghostbuster In Training | 30.00% | ~7,442 |
+| Icing on the Cake | 30.00% | ~7,442 |
 | Side Hustle | 27.00% | ~6,697 |
 | We have the best insurance | 26.00% | ~6,449 |
 | Legions | 26.00% | ~6,449 |
@@ -38,10 +38,10 @@ Rating: 4.49 (Ranked 576)
 | Terrifying | 18.00% | ~4,465 |
 | Tobin's Prodigy | 18.00% | ~4,465 |
 | Reckless | 17.00% | ~4,217 |
-| Diabolical | 16.00% | ~3,968 |
-| Escape Artist | 16.00% | ~3,968 |
-| Seasoned | 16.00% | ~3,968 |
-| Whoopsie | 12.00% | ~2,976 |
+| Diabolical | 16.00% | ~3,969 |
+| Escape Artist | 16.00% | ~3,969 |
+| Seasoned | 16.00% | ~3,969 |
+| Whoopsie | 12.00% | ~2,977 |
 | Liability | 10.00% | ~2,480 |
 | Rivalry | 10.00% | ~2,480 |
 | Fragile Panes | 9.00% | ~2,232 |
@@ -57,8 +57,8 @@ Rating: 4.49 (Ranked 576)
 | I don't need these | 1.00% | ~248 |
 | Mycophile | 1.00% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,803 (Ranked 101)  
-Completed: 48 (0.19%) (Ranked 179)  
+Progressed: 24,805 (Ranked 101)  
+Completed: 49 (0.20%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -165,7 +165,7 @@ Completed: 48 (0.19%) (Ranked 179)
 | 2023-08-03 | 24,723 | 48 |
 | 2023-08-04 | 24,762 | 48 |
 | 2023-08-05 | 24,800 | 48 |
-| 2023-08-06 | 24,803 | 48 |
+| 2023-08-06 | 24,805 | 49 |
 ## Awards
 Max (Great for Quick Sessions): 246  (Ranked 252)  
 Sum: 2,208 (Ranked 189)  

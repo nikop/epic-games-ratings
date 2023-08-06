@@ -11,7 +11,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Burning City | 15.00% | ~1,622 |
 | Mythic Choices | 13.00% | ~1,406 |
 | Defender's Heart | 13.00% | ~1,406 |
-| Banner over the Citadel | 12.00% | ~1,297 |
+| Banner over the Citadel | 12.00% | ~1,298 |
 | Queen's Gratitude | 10.00% | ~1,081 |
 | Fifth Crusade | 7.00% | ~757 |
 | Embrace of the Abyss | 5.00% | ~541 |
@@ -19,13 +19,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Great Upstart | 5.00% | ~541 |
 | All Paths Open | 5.00% | ~541 |
 | Demonic and Divine | 5.00% | ~541 |
-| Path of the Azata | 4.00% | ~432 |
-| Transformation | 4.00% | ~432 |
-| The Legacy | 4.00% | ~432 |
-| Voice from Your Dreams | 4.00% | ~432 |
-| A Flame | 4.00% | ~432 |
-| Next-Door Play | 4.00% | ~432 |
-| Get the Toad | 4.00% | ~432 |
+| Path of the Azata | 4.00% | ~433 |
+| Transformation | 4.00% | ~433 |
+| The Legacy | 4.00% | ~433 |
+| Voice from Your Dreams | 4.00% | ~433 |
+| A Flame | 4.00% | ~433 |
+| Next-Door Play | 4.00% | ~433 |
+| Get the Toad | 4.00% | ~433 |
 | Heart of the Fallen Land | 3.00% | ~324 |
 | Path of the Trickster | 3.00% | ~324 |
 | Divide and Rule | 3.00% | ~324 |
@@ -50,9 +50,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | This Wall Won't Fall | 1.00% | ~96 |
 | Not the Last Sarkorian | 1.00% | ~96 |
 | Path of the Legend | 0.90% | ~97 |
-| Path of the Dragon | 0.80% | ~86 |
-| End of Eternal Guard | 0.80% | ~86 |
-| Truly Profane Gift | 0.80% | ~86 |
+| Path of the Dragon | 0.80% | ~87 |
+| End of Eternal Guard | 0.80% | ~87 |
+| Truly Profane Gift | 0.80% | ~87 |
 | Playful Mood | 0.70% | ~76 |
 | Masterful Charge | 0.60% | ~65 |
 | Dreadful Dragon | 0.60% | ~65 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,812 (Ranked 120)  
+Progressed: 10,813 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,10 +231,10 @@ Completed: 0 (0.00%) (Ranked 249)
 | 2023-08-03 | 10,789 | 0 |
 | 2023-08-04 | 10,798 | 0 |
 | 2023-08-05 | 10,811 | 0 |
-| 2023-08-06 | 10,812 | 0 |
+| 2023-08-06 | 10,813 | 0 |
 ## Awards
 Max (Character Customization): 1,695  (Ranked 117)  
-Sum: 6,870 (Ranked 113)  
+Sum: 6,871 (Ranked 113)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -242,7 +242,7 @@ Diff (max vs sum): 4
 | This game is Extremely Fun | 644 |
 | This game is Highly Recommended | 630 |
 | This game has Amazing Characters | 626 |
-| This game has Diverse Characters | 613 |
+| This game has Diverse Characters | 614 |
 | This game has Amazing Storytelling | 605 |
 | This game has Challenging Combat | 568 |
 | This game has Quickly Understood Controls | 563 |
@@ -436,3 +436,4 @@ Diff (max vs sum): 4
 | 2023-08-02 | 4.76 | - | 1,695 | 6,864 |
 | 2023-08-03 | 4.76 | - | 1,695 | 6,867 |
 | 2023-08-04 | 4.76 | - | 1,695 | 6,870 |
+| 2023-08-06 | 4.76 | - | 1,695 | 6,871 |

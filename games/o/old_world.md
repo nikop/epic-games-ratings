@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 298)  
+Rating: 4.65 (Ranked 299)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -140,6 +140,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 0.20% | ~27 |
 | Run, Pheidippides, Run! | 0.20% | ~27 |
 | Cao'an | 0.20% | ~27 |
+| Learn to Play 5 | 0.20% | ~27 |
 | Egypt | 0.20% | ~27 |
 | Persia | 0.20% | ~27 |
 | Old World Order | 0.20% | ~27 |
@@ -233,7 +234,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 2 - Just | 0.10% | ~13 |
 | Learn By Playing 3 - Good | 0.10% | ~13 |
 | Learn By Playing 4 - Strong | 0.10% | ~13 |
-| Learn to Play 5 | 0.10% | ~13 |
 | Macedonian Wars | 0.10% | ~13 |
 | Medo-Babylonian Conquest | 0.10% | ~13 |
 | Pyramids in Menefer | 0.10% | ~13 |

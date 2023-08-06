@@ -16,7 +16,7 @@
 | Delegate Maintenance | 34.00% | ~108 |
 | Proper Walls | 33.00% | ~105 |
 | Destination Destiny | 29.00% | ~93 |
-| Happy Tenants | 25.00% | ~80 |
+| Happy Tenants | 26.00% | ~83 |
 | Potent Potables | 24.00% | ~77 |
 | Smooth Service | 24.00% | ~77 |
 | Your Prestige is Rising | 23.00% | ~73 |

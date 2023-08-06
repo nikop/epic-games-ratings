@@ -6,38 +6,38 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,763 |
-| Beast Intentions | 3.00% | ~6,572 |
-| Maddening | 2.00% | ~4,381 |
+| A Brief Tour of the Realms | 4.00% | ~8,764 |
+| Beast Intentions | 3.00% | ~6,573 |
+| Maddening | 2.00% | ~4,382 |
 | The Silken Swamp | 1.00% | ~2,191 |
 | Supply Run | 1.00% | ~2,191 |
-| Vecna Lives! | 1.00% | ~1,853 |
-| Rocky Reception | 1.00% | ~1,853 |
-| Rock and Roll | 1.00% | ~1,853 |
+| Vecna Lives! | 1.00% | ~1,854 |
+| Rocky Reception | 1.00% | ~1,854 |
+| Rock and Roll | 1.00% | ~1,854 |
 | Flight of the Kindori Pod | 0.90% | ~1,668 |
 | Tall Tales | 0.80% | ~1,483 |
 | Seeds of Destruction | 0.80% | ~1,483 |
 | Vecna Loots! | 0.80% | ~1,483 |
 | Topolah's Tower | 0.80% | ~1,483 |
-| Wet Feet | 0.70% | ~1,533 |
-| Return to the Tomb | 0.70% | ~1,297 |
-| Were-verpowered | 0.70% | ~1,533 |
-| Unearthed Evil | 0.70% | ~1,533 |
-| The Cursed Farmer | 0.70% | ~1,533 |
-| Pros and CONs | 0.60% | ~1,314 |
+| Wet Feet | 0.70% | ~1,534 |
+| Return to the Tomb | 0.70% | ~1,298 |
+| Were-verpowered | 0.70% | ~1,534 |
+| Unearthed Evil | 0.70% | ~1,534 |
+| The Cursed Farmer | 0.70% | ~1,534 |
+| Pros and CONs | 0.60% | ~1,315 |
 | The Witchlight Carnival | 0.60% | ~1,112 |
-| Hatchlings Underfoot | 0.60% | ~1,314 |
-| Don't Look Up! | 0.60% | ~1,314 |
+| Hatchlings Underfoot | 0.60% | ~1,315 |
+| Don't Look Up! | 0.60% | ~1,315 |
 | The Evacuation of Waterdeep | 0.60% | ~1,112 |
 | Heatwave | 0.60% | ~1,112 |
 | The Dread Domain of Tovag | 0.60% | ~1,112 |
-| A Persistent Buzzing | 0.60% | ~1,314 |
-| Beast Mode | 0.60% | ~1,314 |
-| Terror in the Dark | 0.60% | ~1,314 |
-| A Mysterious Summons | 0.60% | ~1,314 |
-| Building Trust | 0.60% | ~1,314 |
-| The Dinner Party | 0.60% | ~1,314 |
-| The Mad Wizard | 0.60% | ~1,314 |
+| A Persistent Buzzing | 0.60% | ~1,315 |
+| Beast Mode | 0.60% | ~1,315 |
+| Terror in the Dark | 0.60% | ~1,315 |
+| A Mysterious Summons | 0.60% | ~1,315 |
+| Building Trust | 0.60% | ~1,315 |
+| The Dinner Party | 0.60% | ~1,315 |
+| The Mad Wizard | 0.60% | ~1,315 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,112 |
 | Thieves of the Coven | 0.50% | ~927 |
 | Heavy Burden | 0.50% | ~1,095 |
@@ -102,6 +102,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.30% | ~556 |
 | Will of the Feywild | 0.30% | ~556 |
 | Flapjacks and Waffles | 0.30% | ~556 |
+| Overwhelmed with Knowledge | 0.30% | ~556 |
 | Well Equipped | 0.30% | ~556 |
 | More Than Well Equipped | 0.30% | ~556 |
 | Keep Your Distance | 0.30% | ~556 |
@@ -179,7 +180,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Roots of Loomlurch | 0.20% | ~371 |
 | Best Laid Plans | 0.20% | ~371 |
 | The Howling Peaks of Yon | 0.20% | ~371 |
-| Overwhelmed with Knowledge | 0.20% | ~371 |
 | Arcane Efforts | 0.20% | ~371 |
 | To Avernus in a Handbasket | 0.20% | ~371 |
 | Hands Off! | 0.20% | ~371 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,070 (Ranked 53)  
-Completed: 2,153 (0.98%) (Ranked 113)  
+Progressed: 219,093 (Ranked 53)  
+Completed: 2,154 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -627,7 +627,7 @@ Completed: 2,153 (0.98%) (Ranked 113)
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
-| 2023-08-06 | 219,070 | 2,153 |
+| 2023-08-06 | 219,093 | 2,154 |
 ## Awards
 Max (Diverse Characters): 5,119  (Ranked 67)  
 Sum: 30,910 (Ranked 38)  

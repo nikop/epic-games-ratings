@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 33,
   "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2741,9 +2741,9 @@
       "ID": "1",
       "SetID": "d0g98p",
       "Name": "Once Upon a Time",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1031
     },
     {
       "ID": "10",
@@ -3150,8 +3150,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-08-06T00:04:25.3697139+00:00",
+  "LastChanged_Achievements": "2023-08-06T01:50:55.5709233+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:44.1195163+00:00",
-  "LastUpdate_Ratings": "2023-08-05T23:58:03.1227938+00:00",
-  "LastUpdate_Achievements": "2023-08-06T00:04:25.3697743+00:00"
+  "LastUpdate_Ratings": "2023-08-06T01:44:24.653939+00:00",
+  "LastUpdate_Achievements": "2023-08-06T01:50:55.5709853+00:00"
 }

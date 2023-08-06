@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 868)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~4,058 |
+| First Step Into the Knight | 6.00% | ~4,059 |
 | Har, Har, Har, Very Funny | 5.00% | ~3,382 |
 | Loose Ends | 5.00% | ~3,382 |
 | To the Victor Go the Spoils | 4.00% | ~2,706 |
@@ -43,7 +43,7 @@ Rating: 4.18 (Ranked 868)
 | A Worthy Successor | 1.00% | ~676 |
 | Solid Alibi | 1.00% | ~676 |
 | Dressed to Impress | 0.90% | ~609 |
-| A Momentum Occasion | 0.70% | ~473 |
+| A Momentum Occasion | 0.70% | ~474 |
 | Bat Out of Hell | 0.60% | ~406 |
 | He'd Be So Proud of You | 0.50% | ~338 |
 | Practice Makes Perfect | 0.40% | ~271 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 868)
 | History Major | 0.10% | ~68 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,641 (Ranked 80)  
+Progressed: 67,644 (Ranked 80)  
 Completed: 106 (0.16%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,6 +175,7 @@ Completed: 106 (0.16%) (Ranked 181)
 | 2023-08-03 | 67,602 | 106 |
 | 2023-08-04 | 67,621 | 106 |
 | 2023-08-05 | 67,641 | 106 |
+| 2023-08-06 | 67,644 | 106 |
 ## Awards
 Max (Great Boss Battles): 2,478  (Ranked 101)  
 Sum: 4,119 (Ranked 139)  

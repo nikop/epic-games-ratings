@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 75.00% | ~183 |
-| First Blood | 57.00% | ~139 |
-| Aspairagus | 57.00% | ~111 |
+| Seeds of War | 75.00% | ~184 |
+| First Blood | 56.00% | ~137 |
 | Triple Kill | 56.00% | ~137 |
+| Aspairagus | 56.00% | ~109 |
 | Survivor | 55.00% | ~107 |
-| No Asperascope | 52.00% | ~127 |
-| Cornivore | 51.00% | ~124 |
-| I Believe I Can Fly | 48.00% | ~117 |
-| Early Survivor | 43.00% | ~83 |
+| No Asperascope | 51.00% | ~125 |
+| Cornivore | 51.00% | ~125 |
+| I Believe I Can Fly | 48.00% | ~118 |
+| Early Survivor | 42.00% | ~82 |
 | No Diggity | 41.00% | ~80 |
 | Amateur Survivor | 31.00% | ~60 |
-| 10K | 30.00% | ~73 |
-| Bouncemato | 30.00% | ~58 |
+| 10K | 29.00% | ~71 |
+| Bouncemato | 29.00% | ~57 |
 | 15K | 27.00% | ~66 |
 | Professional Survivor | 23.00% | ~45 |
 | Quick-Draw Pod | 22.00% | ~43 |
@@ -32,14 +32,14 @@
 | Summers Here | 12.00% | ~23 |
 | Fresh Pancake | 10.00% | ~24 |
 | Quit Horsin' Around | 10.00% | ~24 |
-| Perfect | 10.00% | ~19 |
-| Expert Survivor | 10.00% | ~19 |
+| Perfect | 10.00% | ~20 |
+| Expert Survivor | 10.00% | ~20 |
 | Bring Home The Bacon | 9.00% | ~22 |
 | Quadsparagus | 8.00% | ~16 |
 | Pyromaniac | 7.00% | ~14 |
-| Chick Magnet | 5.00% | ~12 |
 | I Have The High Ground | 5.00% | ~12 |
 | Early Bird | 5.00% | ~12 |
+| Chick Magnet | 4.00% | ~10 |
 | Master Survivor | 4.00% | ~8 |
 | Heart Breaker | 3.00% | ~6 |
 | 15 Days | 2.00% | ~5 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244 (Ranked 267)  
+Progressed: 245 (Ranked 267)  
 Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,6 +160,7 @@ Completed: 0 (0.00%) (Ranked 249)
 | 2023-08-03 | 242 | 0 |
 | 2023-08-04 | 243 | 0 |
 | 2023-08-05 | 244 | 0 |
+| 2023-08-06 | 245 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
