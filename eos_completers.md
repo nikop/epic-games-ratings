@@ -40,7 +40,7 @@
 | 38 | [Time Loader](games/t/time_loader.md) | 6.90% |
 | 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 40 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.23% |
+| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.22% |
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 6.03% |
 | 43 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
 | 44 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
@@ -109,8 +109,8 @@
 | 107 | [A Musical Story](games/a/a_musical_story.md) | 1.11% |
 | 107 | [Trifox](games/t/trifox.md) | 1.11% |
 | 109 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.05% |
-| 110 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.03% |
-| 111 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.02% |
+| 110 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.02% |
+| 110 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.02% |
 | 112 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
 | 113 | [Adios](games/a/adios.md) | 1.00% |
 | 114 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
@@ -149,7 +149,7 @@
 | 147 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.43% |
 | 147 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 149 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
-| 150 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.40% |
+| 150 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.39% |
 | 151 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
 | 151 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 151 | [Wildermyth](games/w/wildermyth.md) | 0.37% |
