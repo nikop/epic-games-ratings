@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34521,
+  "EOS_Progressed": 34522,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -10134,6 +10134,11 @@
       "Time": "2023-08-06T04:05:40.499147+00:00",
       "NumProgressed": 34521,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-08-06T05:05:25.6559043+00:00",
+      "NumProgressed": 34522,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 14,
@@ -10161,7 +10166,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8975
+      "UsersEstimate": 8976
     },
     {
       "ID": "allItems",
@@ -10233,7 +10238,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 26581
+      "UsersEstimate": 26582
     },
     {
       "ID": "roots",
@@ -10256,15 +10261,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 34521,
+      "Progressed": 34522,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-08-06T04:05:40.4991464+00:00",
+  "LastChanged_Achievements": "2023-08-06T05:05:25.6559036+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:19.3070708+00:00",
-  "LastUpdate_Ratings": "2023-08-06T03:57:13.7736096+00:00",
-  "LastUpdate_Achievements": "2023-08-06T04:05:40.4992018+00:00"
+  "LastUpdate_Ratings": "2023-08-06T04:57:12.3610228+00:00",
+  "LastUpdate_Achievements": "2023-08-06T05:05:25.655984+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60345,
+  "EOS_Progressed": 60347,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 924,
+  "EOS_NewPlayers": 919,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10357,6 +10357,11 @@
       "Time": "2023-08-06T04:05:14.4454406+00:00",
       "NumProgressed": 60345,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-06T05:05:00.3447229+00:00",
+      "NumProgressed": 60347,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10376,7 +10381,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13879
+      "UsersEstimate": 13880
     },
     {
       "ID": "03",
@@ -10408,7 +10413,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9655
+      "UsersEstimate": 9656
     },
     {
       "ID": "07",
@@ -10424,7 +10429,7 @@
       "Name": "Iron Horse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7241
+      "UsersEstimate": 7242
     },
     {
       "ID": "09",
@@ -10472,7 +10477,7 @@
       "Name": "Gatekeeper",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6034
+      "UsersEstimate": 6035
     },
     {
       "ID": "15",
@@ -10536,7 +10541,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7241
+      "UsersEstimate": 7242
     },
     {
       "ID": "23",
@@ -10552,7 +10557,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6034
+      "UsersEstimate": 6035
     },
     {
       "ID": "25",
@@ -10568,7 +10573,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6034
+      "UsersEstimate": 6035
     },
     {
       "ID": "27",
@@ -10576,7 +10581,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7241
+      "UsersEstimate": 7242
     },
     {
       "ID": "28",
@@ -10584,7 +10589,7 @@
       "Name": "Come One, Come All",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7241
+      "UsersEstimate": 7242
     },
     {
       "ID": "29",
@@ -10600,7 +10605,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6034
+      "UsersEstimate": 6035
     },
     {
       "ID": "31",
@@ -10704,7 +10709,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9655
+      "UsersEstimate": 9656
     },
     {
       "ID": "44",
@@ -10728,7 +10733,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 8448
+      "UsersEstimate": 8449
     },
     {
       "ID": "47",
@@ -10903,21 +10908,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60345,
+      "Progressed": 60347,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23813,
+      "Progressed": 23815,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-06T04:05:14.4454398+00:00",
+  "LastChanged_Achievements": "2023-08-06T05:05:00.3447223+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-06T03:58:28.7005656+00:00",
-  "LastUpdate_Achievements": "2023-08-06T04:05:14.4455377+00:00"
+  "LastUpdate_Ratings": "2023-08-06T04:58:32.5285929+00:00",
+  "LastUpdate_Achievements": "2023-08-06T05:05:00.3448467+00:00"
 }

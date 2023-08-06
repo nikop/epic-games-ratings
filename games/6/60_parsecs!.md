@@ -24,7 +24,7 @@
 | Space Explorer | 15.00% | ~106 |
 | Hands Full | 13.00% | ~92 |
 | Gold Medalist | 12.00% | ~85 |
-| Non-Fiction | 11.00% | ~78 |
+| Non-Fiction | 12.00% | ~85 |
 | No Man Left Behind | 9.00% | ~64 |
 | First of April | 7.00% | ~49 |
 | Fix-It Felix | 7.00% | ~49 |

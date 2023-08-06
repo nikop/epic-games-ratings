@@ -1,41 +1,41 @@
 # Cities: Skylines
 [Store](https://store.epicgames.com/en-US/p/cities-skylines)  
 [View Rawdata](../../db/c/cities__skylines.json)  
-Rating: 4.65 (Ranked 299)  
+Rating: 4.65 (Ranked 298)  
 Number of Ratings: 25,248  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~686,250 |
-| Green Energy | 60.00% | ~579,929 |
-| Foggy Weather | 59.00% | ~570,264 |
-| Singing In The- | 59.00% | ~570,264 |
-| Unpopular Mayor | 41.00% | ~396,285 |
-| Power at Your Fingertips | 33.00% | ~318,961 |
-| City Planner | 23.00% | ~222,306 |
-| Rolling in Dough | 20.00% | ~193,310 |
-| Does My Bum Look Big In This? | 17.00% | ~164,313 |
-| Climbing the Social Ladder | 16.00% | ~154,648 |
-| Safe City | 14.00% | ~135,317 |
-| Quay-King | 11.00% | ~106,320 |
-| Lawmaker | 10.00% | ~96,655 |
-| With Canals You Can! | 10.00% | ~96,655 |
-| Nomen Est Omen | 7.00% | ~67,658 |
-| Well Informed | 6.00% | ~57,993 |
-| Fire Watch | 5.00% | ~48,327 |
-| Greenest City | 4.00% | ~38,662 |
-| Heavenly City | 3.00% | ~28,996 |
-| Reporting! | 3.00% | ~28,996 |
-| SIMulated City | 3.00% | ~28,996 |
-| The Safest Town | 3.00% | ~28,996 |
-| Professional Dumper | 2.00% | ~19,331 |
-| City in Motion | 1.00% | ~9,665 |
-| Earthloving City | 1.00% | ~9,665 |
-| Metropolis | 1.00% | ~9,665 |
-| Higher Education | 0.80% | ~7,732 |
+| Pioneer | 71.00% | ~686,307 |
+| Green Energy | 60.00% | ~579,977 |
+| Foggy Weather | 59.00% | ~570,311 |
+| Singing In The- | 59.00% | ~570,311 |
+| Unpopular Mayor | 41.00% | ~396,318 |
+| Power at Your Fingertips | 33.00% | ~318,988 |
+| City Planner | 23.00% | ~222,325 |
+| Rolling in Dough | 20.00% | ~193,326 |
+| Does My Bum Look Big In This? | 17.00% | ~164,327 |
+| Climbing the Social Ladder | 16.00% | ~154,661 |
+| Safe City | 14.00% | ~135,328 |
+| Quay-King | 11.00% | ~106,329 |
+| Lawmaker | 10.00% | ~96,663 |
+| With Canals You Can! | 10.00% | ~96,663 |
+| Nomen Est Omen | 7.00% | ~67,664 |
+| Well Informed | 6.00% | ~57,998 |
+| Fire Watch | 5.00% | ~48,331 |
+| Greenest City | 4.00% | ~38,665 |
+| Heavenly City | 3.00% | ~28,999 |
+| Reporting! | 3.00% | ~28,999 |
+| SIMulated City | 3.00% | ~28,999 |
+| The Safest Town | 3.00% | ~28,999 |
+| Professional Dumper | 2.00% | ~19,333 |
+| City in Motion | 1.00% | ~9,666 |
+| Earthloving City | 1.00% | ~9,666 |
+| Metropolis | 1.00% | ~9,666 |
+| Higher Education | 0.80% | ~7,733 |
 | Beam Me Up | 0.70% | ~6,766 |
-| Full Capacity | 0.60% | ~5,799 |
-| Terraformer | 0.60% | ~5,799 |
+| Full Capacity | 0.60% | ~5,800 |
+| Terraformer | 0.60% | ~5,800 |
 | Decorator | 0.50% | ~4,833 |
 | Drop the Base | 0.50% | ~4,833 |
 | It's heading right for us! | 0.50% | ~4,833 |
@@ -45,12 +45,12 @@ Number of Ratings: 25,248  (23.09.2022)
 | The Waters of Our Lives | 0.50% | ~4,833 |
 | Thunder and Lightning | 0.50% | ~4,833 |
 | Twist and shout | 0.50% | ~4,833 |
-| Airfield Expertise | 0.40% | ~3,866 |
-| Airlifter | 0.40% | ~3,866 |
-| Get Your Snowshoes Ready! | 0.40% | ~3,866 |
-| Happy Town | 0.40% | ~3,866 |
-| I Want It All | 0.40% | ~3,866 |
-| Just Tolling | 0.40% | ~3,866 |
+| Airfield Expertise | 0.40% | ~3,867 |
+| Airlifter | 0.40% | ~3,867 |
+| Get Your Snowshoes Ready! | 0.40% | ~3,867 |
+| Happy Town | 0.40% | ~3,867 |
+| I Want It All | 0.40% | ~3,867 |
+| Just Tolling | 0.40% | ~3,867 |
 | A Huge Hadron | 0.30% | ~2,900 |
 | Airport Architect | 0.30% | ~2,900 |
 | Are They Naked In There? | 0.30% | ~2,900 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~967 |
 | Z00 | 0.10% | ~967 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 966,549 (Ranked 13)  
+Progressed: 966,629 (Ranked 13)  
 Completed: 10 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 10 (0.00%) (Ranked 249)
 | 2023-08-03 | 961,414 | 10 |
 | 2023-08-04 | 963,665 | 10 |
 | 2023-08-05 | 966,189 | 10 |
-| 2023-08-06 | 966,549 | 10 |
+| 2023-08-06 | 966,629 | 10 |
 ## Awards
 Max (Relaxing): 5,077  (Ranked 68)  
 Sum: 38,493 (Ranked 32)  

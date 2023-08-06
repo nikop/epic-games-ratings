@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -6378,9 +6378,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 795866,
+  "EOS_Progressed": 795867,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1052,
+  "EOS_NewPlayers": 1051,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18083,6 +18083,11 @@
       "Time": "2023-08-06T04:04:45.9522407+00:00",
       "NumProgressed": 795866,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-06T05:04:52.6188445+00:00",
+      "NumProgressed": 795867,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -18174,7 +18179,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 246718
+      "UsersEstimate": 246719
     },
     {
       "ID": "Bookworm",
@@ -18206,7 +18211,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 198966
+      "UsersEstimate": 198967
     },
     {
       "ID": "Chivalrous",
@@ -18749,15 +18754,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 795866,
+      "Progressed": 795867,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-05T21:59:43.8484128+00:00",
-  "LastChanged_Achievements": "2023-08-06T04:04:45.95224+00:00",
+  "LastChanged_Achievements": "2023-08-06T05:04:52.6188436+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:17.2997126+00:00",
-  "LastUpdate_Ratings": "2023-08-06T03:59:14.6878172+00:00",
-  "LastUpdate_Achievements": "2023-08-06T04:04:45.9523694+00:00"
+  "LastUpdate_Ratings": "2023-08-06T04:59:16.4345993+00:00",
+  "LastUpdate_Achievements": "2023-08-06T05:04:52.6190226+00:00"
 }

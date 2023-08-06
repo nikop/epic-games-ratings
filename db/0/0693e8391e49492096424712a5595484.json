@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 39,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 368,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 6.25,
   "EosHistory": [
@@ -1604,9 +1604,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 294
+      "UsersEstimate": 298
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -1667,8 +1667,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-06T04:06:40.2831835+00:00",
+  "LastChanged_Achievements": "2023-08-06T05:06:24.0870961+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-06T03:57:36.6195107+00:00",
-  "LastUpdate_Achievements": "2023-08-06T04:06:40.2832191+00:00"
+  "LastUpdate_Ratings": "2023-08-06T04:57:36.4559265+00:00",
+  "LastUpdate_Achievements": "2023-08-06T05:06:24.0871491+00:00"
 }

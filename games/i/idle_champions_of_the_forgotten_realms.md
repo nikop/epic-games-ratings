@@ -8,7 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,765 |
 | Beast Intentions | 3.00% | ~6,574 |
-| Maddening | 2.00% | ~4,382 |
+| Maddening | 2.00% | ~4,383 |
 | The Silken Swamp | 1.00% | ~2,191 |
 | Supply Run | 1.00% | ~2,191 |
 | Vecna Lives! | 1.00% | ~1,854 |
@@ -59,38 +59,38 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.50% | ~927 |
 | Krux's Speed Run | 0.50% | ~927 |
 | Animated Giff | 0.50% | ~927 |
-| Upholding the Law | 0.40% | ~876 |
+| Upholding the Law | 0.40% | ~877 |
 | Hither of the Feywild | 0.40% | ~742 |
 | The Prince of a Thousand Enemies | 0.40% | ~742 |
 | Speeds of Destruction | 0.40% | ~742 |
 | Owlbear Necessities | 0.40% | ~742 |
-| On the Hunt | 0.40% | ~876 |
+| On the Hunt | 0.40% | ~877 |
 | Best Thay Ever | 0.40% | ~742 |
 | A Demi-god's Defender | 0.40% | ~742 |
 | Who Lurks Below? | 0.40% | ~742 |
-| Homecoming | 0.40% | ~876 |
-| The Lost Heir of Omu | 0.40% | ~876 |
+| Homecoming | 0.40% | ~877 |
+| The Lost Heir of Omu | 0.40% | ~877 |
 | No One Can Hear You Scream | 0.40% | ~742 |
 | Welcome to the Rock | 0.40% | ~742 |
-| The Forbidden City | 0.40% | ~876 |
-| Wisdom Check | 0.40% | ~876 |
-| Tower on the Lake | 0.40% | ~876 |
-| Trollskull Manor | 0.40% | ~876 |
-| The Crumbling Temple | 0.40% | ~876 |
-| Are Ya Chicken? | 0.40% | ~876 |
-| Useless Allies | 0.40% | ~876 |
-| Mad Cow Disease | 0.40% | ~876 |
-| Exploring Port Nyanzaru | 0.40% | ~876 |
-| A Tale of Two Cities | 0.40% | ~876 |
-| Running of the Saurs | 0.40% | ~876 |
-| The Contagious Curse | 0.40% | ~876 |
-| Escort to Waterdeep | 0.40% | ~876 |
-| Waterdeep Detours | 0.40% | ~876 |
-| Underdeep Cartography | 0.40% | ~876 |
-| Friendly Imps | 0.40% | ~876 |
-| Overdue Rendezvous | 0.40% | ~876 |
-| Pure Energy | 0.40% | ~876 |
-| The Templar's Camp | 0.40% | ~876 |
+| The Forbidden City | 0.40% | ~877 |
+| Wisdom Check | 0.40% | ~877 |
+| Tower on the Lake | 0.40% | ~877 |
+| Trollskull Manor | 0.40% | ~877 |
+| The Crumbling Temple | 0.40% | ~877 |
+| Are Ya Chicken? | 0.40% | ~877 |
+| Useless Allies | 0.40% | ~877 |
+| Mad Cow Disease | 0.40% | ~877 |
+| Exploring Port Nyanzaru | 0.40% | ~877 |
+| A Tale of Two Cities | 0.40% | ~877 |
+| Running of the Saurs | 0.40% | ~877 |
+| The Contagious Curse | 0.40% | ~877 |
+| Escort to Waterdeep | 0.40% | ~877 |
+| Waterdeep Detours | 0.40% | ~877 |
+| Underdeep Cartography | 0.40% | ~877 |
+| Friendly Imps | 0.40% | ~877 |
+| Overdue Rendezvous | 0.40% | ~877 |
+| Pure Energy | 0.40% | ~877 |
+| The Templar's Camp | 0.40% | ~877 |
 | Devilishly Cold | 0.40% | ~742 |
 | Luigi After Hours | 0.40% | ~742 |
 | Electric Mayhem | 0.40% | ~742 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,125 (Ranked 53)  
+Progressed: 219,134 (Ranked 53)  
 Completed: 2,154 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,7 +627,7 @@ Completed: 2,154 (0.98%) (Ranked 113)
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
-| 2023-08-06 | 219,125 | 2,154 |
+| 2023-08-06 | 219,134 | 2,154 |
 ## Awards
 Max (Diverse Characters): 5,119  (Ranked 67)  
 Sum: 30,910 (Ranked 38)  

@@ -6,18 +6,18 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~122,285 |
-| Where's that freaking Dwarf? | 47.00% | ~97,414 |
-| GG EZ | 28.00% | ~58,034 |
-| Speedrun | 26.00% | ~53,888 |
-| Déjà vu | 21.00% | ~43,525 |
-| Sock! SOCK! | 17.00% | ~35,235 |
-| DM intervention | 13.00% | ~26,944 |
-| Fireproof Wizardess | 10.00% | ~20,726 |
-| Livin' in a dwarven paradise | 8.00% | ~16,581 |
-| A beer, two curses, three companions | 8.00% | ~16,581 |
-| Way of the Wimp | 7.00% | ~14,508 |
-| The plot thickens... At the tavern | 5.00% | ~10,363 |
+| Alt+F4 | 59.00% | ~122,296 |
+| Where's that freaking Dwarf? | 47.00% | ~97,423 |
+| GG EZ | 28.00% | ~58,039 |
+| Speedrun | 26.00% | ~53,893 |
+| Déjà vu | 21.00% | ~43,529 |
+| Sock! SOCK! | 17.00% | ~35,238 |
+| DM intervention | 13.00% | ~26,947 |
+| Fireproof Wizardess | 10.00% | ~20,728 |
+| Livin' in a dwarven paradise | 8.00% | ~16,583 |
+| A beer, two curses, three companions | 8.00% | ~16,583 |
+| Way of the Wimp | 7.00% | ~14,510 |
+| The plot thickens... At the tavern | 5.00% | ~10,364 |
 | The Woman in the High Castle | 4.00% | ~8,291 |
 | I am the night | 4.00% | ~8,291 |
 | Team Building Exercise | 4.00% | ~8,291 |
@@ -30,12 +30,12 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 3.00% | ~6,218 |
 | Thieves' Guild Accreditation | 3.00% | ~6,218 |
 | Oh, when I'll be level 10... | 3.00% | ~6,218 |
-| Urik's Depths | 2.00% | ~4,145 |
-| Look but don't touch | 2.00% | ~4,145 |
-| The beards of change | 2.00% | ~4,145 |
-| Gargantua | 2.00% | ~4,145 |
-| In Navalu's footsteps | 2.00% | ~4,145 |
-| Material Girl | 2.00% | ~4,145 |
+| Urik's Depths | 2.00% | ~4,146 |
+| Look but don't touch | 2.00% | ~4,146 |
+| The beards of change | 2.00% | ~4,146 |
+| Gargantua | 2.00% | ~4,146 |
+| In Navalu's footsteps | 2.00% | ~4,146 |
+| Material Girl | 2.00% | ~4,146 |
 | The Dungeon Master | 1.00% | ~2,073 |
 | The Statuette of Gladeulfeurah | 1.00% | ~2,073 |
 | The Famous Dungeon of Naheulbeuk | 1.00% | ~2,073 |
@@ -45,7 +45,7 @@ Number of Ratings: 118  (23.09.2022)
 | Law and Order | 1.00% | ~2,073 |
 | It's been a hard day's night | 1.00% | ~2,073 |
 | Lust and Debauchery | 1.00% | ~2,073 |
-| Lëgal Legend | 0.90% | ~1,865 |
+| Lëgal Legend | 0.90% | ~1,866 |
 | An old poacher makes the best gamekeeper | 0.80% | ~1,658 |
 | Holistic Adventuring Party | 0.50% | ~1,036 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,036 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,263 (Ranked 55)  
+Progressed: 207,282 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 0 (0.00%) (Ranked 249)
 | 2023-08-03 | 205,780 | 0 |
 | 2023-08-04 | 206,418 | 0 |
 | 2023-08-05 | 207,138 | 0 |
-| 2023-08-06 | 207,263 | 0 |
+| 2023-08-06 | 207,282 | 0 |
 ## Awards
 Max (Character Customization): 151  (Ranked 294)  
 Sum: 151 (Ranked 393)  
