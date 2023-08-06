@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -666,9 +666,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3125,
+  "EOS_Progressed": 3126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2931,6 +2931,11 @@
       "Time": "2023-08-05T18:07:20.9951576+00:00",
       "NumProgressed": 3125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T07:05:50.4964633+00:00",
+      "NumProgressed": 3126,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3118,7 +3123,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -3174,7 +3179,7 @@
       "Name": "Purging Spree",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Kills_Vakir",
@@ -3220,9 +3225,9 @@
       "ID": "MasterCraftLevel3_Ranged",
       "SetID": "3jha1np",
       "Name": "Gunmaster",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "MasterOfTheForge",
@@ -3278,7 +3283,7 @@
       "Name": "Bloodless",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -3470,7 +3475,7 @@
       "Name": "Tactical Sabotage",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "TentarusHive_Destroyed",
@@ -3485,21 +3490,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3125,
+      "Progressed": 3126,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3125,
+      "Progressed": 3126,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-04T03:59:32.5294271+00:00",
-  "LastChanged_Achievements": "2023-08-06T06:04:41.9750936+00:00",
+  "LastChanged_Achievements": "2023-08-06T07:05:50.4964627+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:37.2387595+00:00",
-  "LastUpdate_Ratings": "2023-08-06T05:59:31.0760553+00:00",
-  "LastUpdate_Achievements": "2023-08-06T06:04:41.9751666+00:00"
+  "LastUpdate_Ratings": "2023-08-06T07:00:36.9733517+00:00",
+  "LastUpdate_Achievements": "2023-08-06T07:05:50.4965282+00:00"
 }

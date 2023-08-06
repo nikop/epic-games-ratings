@@ -79,9 +79,9 @@
       "ID": "grp_arcadeFTUX_welcome",
       "SetID": "2gd32f",
       "Name": "Welcome to Dodo Peak",
-      "Percentage": 67,
+      "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "grp_beet",
@@ -95,9 +95,9 @@
       "ID": "grp_collect_ruby",
       "SetID": "2gd32f",
       "Name": "Two month\u0027s rent",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "grp_endless",
@@ -175,9 +175,9 @@
       "ID": "grp_money_tree",
       "SetID": "2gd32f",
       "Name": "Money doesn\u0027t grow on trees",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "grp_speed",
@@ -221,8 +221,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
-  "LastChanged_Achievements": "2023-08-06T06:02:20.9888307+00:00",
+  "LastChanged_Achievements": "2023-08-06T07:03:45.8279428+00:00",
   "LastUpdate_AppInfo": "2023-08-03T05:57:01.7177556+00:00",
-  "LastUpdate_Ratings": "2023-08-06T05:56:58.4804172+00:00",
-  "LastUpdate_Achievements": "2023-08-06T06:02:20.9888442+00:00"
+  "LastUpdate_Ratings": "2023-08-06T06:57:14.3931312+00:00",
+  "LastUpdate_Achievements": "2023-08-06T07:03:45.8279525+00:00"
 }

@@ -658,9 +658,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11856,
+  "EOS_Progressed": 11857,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -8483,6 +8483,11 @@
       "Time": "2023-08-06T04:02:16.9254331+00:00",
       "NumProgressed": 11856,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-08-06T07:03:28.1604518+00:00",
+      "NumProgressed": 11857,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 35,
@@ -8494,7 +8499,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9603
+      "UsersEstimate": 9604
     },
     {
       "ID": "ACH02",
@@ -8710,7 +8715,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "ACH29",
@@ -8718,7 +8723,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "ACH30",
@@ -8773,7 +8778,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11856,
+      "Progressed": 11857,
       "Completed": 34
     }
   ],
@@ -8781,8 +8786,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-04T22:00:49.3953547+00:00",
-  "LastChanged_Achievements": "2023-08-06T06:02:07.9264142+00:00",
+  "LastChanged_Achievements": "2023-08-06T07:03:28.1604512+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:17.9546727+00:00",
-  "LastUpdate_Ratings": "2023-08-06T06:01:00.5691036+00:00",
-  "LastUpdate_Achievements": "2023-08-06T06:02:07.9264778+00:00"
+  "LastUpdate_Ratings": "2023-08-06T07:02:45.6311095+00:00",
+  "LastUpdate_Achievements": "2023-08-06T07:03:28.1605075+00:00"
 }

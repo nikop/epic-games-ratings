@@ -17,7 +17,7 @@ Rating: 4.50 (Ranked 561)
 | Humble beginnings | 44.00% | ~414 |
 | Love is in the air | 44.00% | ~414 |
 | Fine, I'll do it myself | 42.00% | ~395 |
-| Moving up | 41.00% | ~386 |
+| Moving up | 42.00% | ~395 |
 | No need to call anyone | 39.00% | ~367 |
 | Big fortune | 32.00% | ~301 |
 | Still more work ahead | 28.00% | ~263 |

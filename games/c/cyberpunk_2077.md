@@ -6,34 +6,34 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~591,239 |
-| Right Back At Ya | 39.00% | ~339,093 |
-| The Lovers | 35.00% | ~304,314 |
-| Stanislavski's Method | 28.00% | ~243,451 |
-| The Wheel of Fortune | 27.00% | ~234,757 |
-| The Hermit | 24.00% | ~208,673 |
-| Christmas Tree Attack | 23.00% | ~199,978 |
-| True Soldier | 23.00% | ~199,978 |
-| The High Priestess | 22.00% | ~191,283 |
-| Legend of The Afterlife | 22.00% | ~191,283 |
-| Life of the Road | 21.00% | ~182,588 |
-| Full Body Conversion | 18.00% | ~156,504 |
-| The World | 18.00% | ~156,504 |
-| Bushido and Chill | 16.00% | ~139,115 |
-| Gun Fu | 15.00% | ~130,420 |
-| True Warrior | 15.00% | ~130,420 |
-| I Am The Law | 14.00% | ~121,726 |
-| Judy vs Night City | 14.00% | ~121,726 |
-| To Protect and Serve | 13.00% | ~113,031 |
-| Master Crafter | 13.00% | ~113,031 |
-| Two Heads, One Bullet | 12.00% | ~104,336 |
-| The Quick and the Dead | 10.00% | ~86,947 |
-| The Wandering Fool | 9.00% | ~78,252 |
-| Ten out of Ten | 9.00% | ~78,252 |
-| Breathtaking | 8.00% | ~69,558 |
-| The Star | 7.00% | ~60,863 |
-| To Bad Decisions! | 6.00% | ~52,168 |
-| The Sun | 6.00% | ~52,168 |
+| The Fool | 68.00% | ~591,248 |
+| Right Back At Ya | 39.00% | ~339,098 |
+| The Lovers | 35.00% | ~304,319 |
+| Stanislavski's Method | 28.00% | ~243,455 |
+| The Wheel of Fortune | 27.00% | ~234,760 |
+| The Hermit | 24.00% | ~208,676 |
+| Christmas Tree Attack | 23.00% | ~199,981 |
+| True Soldier | 23.00% | ~199,981 |
+| The High Priestess | 22.00% | ~191,286 |
+| Legend of The Afterlife | 22.00% | ~191,286 |
+| Life of the Road | 21.00% | ~182,591 |
+| Full Body Conversion | 18.00% | ~156,507 |
+| The World | 18.00% | ~156,507 |
+| Bushido and Chill | 16.00% | ~139,117 |
+| Gun Fu | 15.00% | ~130,422 |
+| True Warrior | 15.00% | ~130,422 |
+| I Am The Law | 14.00% | ~121,727 |
+| Judy vs Night City | 14.00% | ~121,727 |
+| To Protect and Serve | 13.00% | ~113,033 |
+| Master Crafter | 13.00% | ~113,033 |
+| Two Heads, One Bullet | 12.00% | ~104,338 |
+| The Quick and the Dead | 10.00% | ~86,948 |
+| The Wandering Fool | 9.00% | ~78,253 |
+| Ten out of Ten | 9.00% | ~78,253 |
+| Breathtaking | 8.00% | ~69,559 |
+| The Star | 7.00% | ~60,864 |
+| To Bad Decisions! | 6.00% | ~52,169 |
+| The Sun | 6.00% | ~52,169 |
 | Must Be Rats | 4.00% | ~34,779 |
 | Temperance | 4.00% | ~34,779 |
 | City Lights | 3.00% | ~26,084 |
@@ -43,15 +43,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 3.00% | ~26,084 |
 | V for Vendetta | 3.00% | ~26,084 |
 | It's Elementary | 3.00% | ~26,084 |
-| Autojock | 2.00% | ~17,389 |
-| Frequent Flyer | 2.00% | ~17,389 |
-| The Wasteland | 2.00% | ~17,389 |
-| Daemon In The Shell | 2.00% | ~17,389 |
-| The Devil | 2.00% | ~17,389 |
+| Autojock | 2.00% | ~17,390 |
+| Frequent Flyer | 2.00% | ~17,390 |
+| The Wasteland | 2.00% | ~17,390 |
+| Daemon In The Shell | 2.00% | ~17,390 |
+| The Devil | 2.00% | ~17,390 |
 | Gunslinger | 1.00% | ~8,695 |
 | Rough Landing | 0.50% | ~4,347 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 869,469 (Ranked 14)  
+Progressed: 869,482 (Ranked 14)  
 Completed: 1,937 (0.22%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,19 +159,19 @@ Completed: 1,937 (0.22%) (Ranked 172)
 | 2023-08-03 | 869,096 | 1,930 |
 | 2023-08-04 | 869,233 | 1,935 |
 | 2023-08-05 | 869,431 | 1,936 |
-| 2023-08-06 | 869,469 | 1,937 |
+| 2023-08-06 | 869,482 | 1,937 |
 ## Awards
-Max (Character Customization): 74,859  (Ranked 9)  
-Sum: 197,401 (Ranked 13)  
+Max (Character Customization): 74,927  (Ranked 9)  
+Sum: 197,485 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 74,859 |
+| This game has Inclusive Character Customization | 74,927 |
 | This game has Great Boss Battles | 48,321 |
 | This game has Diverse Characters | 8,751 |
 | This game is Great for Beginners | 8,751 |
 | This game has Amazing Storytelling | 8,732 |
-| This game is Extremely Fun | 8,605 |
+| This game is Extremely Fun | 8,621 |
 | This game is Highly Recommended | 8,572 |
 | This game is Relaxing | 8,519 |
 | This game has Quickly Understood Controls | 8,399 |
@@ -379,4 +379,4 @@ Diff (max vs sum): -4
 | 2023-08-03 | 4.62 | - | 74,715 | 196,898 |
 | 2023-08-04 | 4.62 | - | 74,785 | 197,147 |
 | 2023-08-05 | 4.62 | - | 74,859 | 197,367 |
-| 2023-08-06 | 4.62 | - | 74,859 | 197,401 |
+| 2023-08-06 | 4.62 | - | 74,927 | 197,485 |

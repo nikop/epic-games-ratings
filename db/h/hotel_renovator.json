@@ -94,7 +94,7 @@
   "Tags": [],
   "EOS_Progressed": 941,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.59,
   "EosHistory": [
@@ -1466,9 +1466,9 @@
       "ID": "ACH_STAR_2",
       "SetID": "7k95e4n",
       "Name": "Moving up",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 386
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH_STAR_3",
@@ -1531,8 +1531,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-29T09:57:37.1491908+00:00",
-  "LastChanged_Achievements": "2023-08-06T06:05:24.5754952+00:00",
+  "LastChanged_Achievements": "2023-08-06T07:06:34.4286278+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:35.5203401+00:00",
-  "LastUpdate_Ratings": "2023-08-06T05:57:47.1344482+00:00",
-  "LastUpdate_Achievements": "2023-08-06T06:05:24.5755228+00:00"
+  "LastUpdate_Ratings": "2023-08-06T06:58:23.0235262+00:00",
+  "LastUpdate_Achievements": "2023-08-06T07:06:34.4286496+00:00"
 }

@@ -5,9 +5,9 @@ Rating: 3.94 (Ranked 936)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~52,831 |
-| First One’s Free | 65.00% | ~46,405 |
-| Neophyte Ninja | 50.00% | ~35,696 |
+| Downed but Not Outed | 74.00% | ~52,832 |
+| First One’s Free | 65.00% | ~46,406 |
+| Neophyte Ninja | 50.00% | ~35,697 |
 | Too Old for This | 47.00% | ~33,555 |
 | Case Closed | 35.00% | ~24,988 |
 | Fancy Pants | 35.00% | ~24,988 |
@@ -23,9 +23,9 @@ Rating: 3.94 (Ranked 936)
 | Freebooter | 10.00% | ~7,139 |
 | Track Star | 9.00% | ~6,425 |
 | Classy Joint | 9.00% | ~6,425 |
-| I Like Trains | 8.00% | ~5,711 |
-| Headhunter | 8.00% | ~5,711 |
-| Ding Dong | 8.00% | ~5,711 |
+| I Like Trains | 8.00% | ~5,712 |
+| Headhunter | 8.00% | ~5,712 |
+| Ding Dong | 8.00% | ~5,712 |
 | Foo Finder | 7.00% | ~4,998 |
 | Legend Looter | 5.00% | ~3,570 |
 | Savvy Seeker | 5.00% | ~3,570 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 936)
 | Geek Out | 0.50% | ~357 |
 | Full House | 0.20% | ~143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,393 (Ranked 77)  
+Progressed: 71,394 (Ranked 77)  
 Completed: 37 (0.05%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,18 +151,18 @@ Completed: 37 (0.05%) (Ranked 214)
 | 2023-08-03 | 71,222 | 36 |
 | 2023-08-04 | 71,296 | 37 |
 | 2023-08-05 | 71,384 | 37 |
-| 2023-08-06 | 71,393 | 37 |
+| 2023-08-06 | 71,394 | 37 |
 ## Awards
-Max (Diverse Characters): 390  (Ranked 215)  
-Sum: 1,841 (Ranked 204)  
-Diff (max vs sum): 11  
+Max (Diverse Characters): 390  (Ranked 216)  
+Sum: 1,843 (Ranked 204)  
+Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 390 |
 | This game is Highly Recommended | 373 |
 | This game has Quickly Understood Controls | 372 |
 | This game has Challenging Combat | 357 |
-| This game has Amazing Characters | 349 |
+| This game has Amazing Characters | 351 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -297,4 +297,4 @@ Diff (max vs sum): 11
 | 2023-08-03 | 3.94 | 389 | 1,832 |
 | 2023-08-04 | 3.94 | 390 | 1,837 |
 | 2023-08-05 | 3.94 | 390 | 1,838 |
-| 2023-08-06 | 3.94 | 390 | 1,841 |
+| 2023-08-06 | 3.94 | 390 | 1,843 |

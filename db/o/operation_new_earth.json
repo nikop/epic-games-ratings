@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 802,
+  "EOS_Progressed": 803,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2796,6 +2796,11 @@
       "Time": "2023-08-06T06:06:01.4448454+00:00",
       "NumProgressed": 802,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T07:07:25.0586811+00:00",
+      "NumProgressed": 803,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2919,7 +2924,7 @@
       "Name": "Corporal",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -3110,14 +3115,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 802,
+      "Progressed": 803,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-06T06:06:01.4448449+00:00",
+  "LastChanged_Achievements": "2023-08-06T07:07:25.0586806+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:21.6461868+00:00",
-  "LastUpdate_Ratings": "2023-08-06T05:57:02.3208891+00:00",
-  "LastUpdate_Achievements": "2023-08-06T06:06:01.4448907+00:00"
+  "LastUpdate_Ratings": "2023-08-06T06:57:22.5067607+00:00",
+  "LastUpdate_Achievements": "2023-08-06T07:07:25.0587174+00:00"
 }

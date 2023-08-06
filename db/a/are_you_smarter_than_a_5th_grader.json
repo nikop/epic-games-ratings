@@ -4,7 +4,7 @@
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -405,9 +405,9 @@
       "ID": "Unlucky",
       "SetID": "6l18k14",
       "Name": "Unlucky",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 66
     }
   ],
   "AchievementSets": [
@@ -422,8 +422,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-08-06T06:04:28.6086007+00:00",
+  "LastChanged_Achievements": "2023-08-06T07:05:32.1411674+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:14.3355837+00:00",
-  "LastUpdate_Ratings": "2023-08-06T06:00:58.7821778+00:00",
-  "LastUpdate_Achievements": "2023-08-06T06:04:28.6086168+00:00"
+  "LastUpdate_Ratings": "2023-08-06T07:02:43.0693127+00:00",
+  "LastUpdate_Achievements": "2023-08-06T07:05:32.1411796+00:00"
 }

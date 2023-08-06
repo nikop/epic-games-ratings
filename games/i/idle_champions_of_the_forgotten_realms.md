@@ -7,10 +7,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,766 |
-| Beast Intentions | 3.00% | ~6,574 |
+| Beast Intentions | 3.00% | ~6,575 |
 | Maddening | 2.00% | ~4,383 |
-| The Silken Swamp | 1.00% | ~2,191 |
-| Supply Run | 1.00% | ~2,191 |
+| The Silken Swamp | 1.00% | ~2,192 |
+| Supply Run | 1.00% | ~2,192 |
 | Vecna Lives! | 1.00% | ~1,854 |
 | Rocky Reception | 1.00% | ~1,854 |
 | Rock and Roll | 1.00% | ~1,854 |
@@ -27,18 +27,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.70% | ~1,534 |
 | The Cursed Farmer | 0.70% | ~1,534 |
 | Pros and CONs | 0.60% | ~1,315 |
-| The Witchlight Carnival | 0.60% | ~1,112 |
+| The Witchlight Carnival | 0.60% | ~1,113 |
 | Hatchlings Underfoot | 0.60% | ~1,315 |
 | Don't Look Up! | 0.60% | ~1,315 |
-| The Evacuation of Waterdeep | 0.60% | ~1,112 |
-| The Dread Domain of Tovag | 0.60% | ~1,112 |
+| The Evacuation of Waterdeep | 0.60% | ~1,113 |
+| The Dread Domain of Tovag | 0.60% | ~1,113 |
 | A Persistent Buzzing | 0.60% | ~1,315 |
 | Beast Mode | 0.60% | ~1,315 |
 | A Mysterious Summons | 0.60% | ~1,315 |
 | Building Trust | 0.60% | ~1,315 |
 | The Dinner Party | 0.60% | ~1,315 |
 | The Mad Wizard | 0.60% | ~1,315 |
-| The Champion's Guide to Wildspace | 0.60% | ~1,112 |
+| The Champion's Guide to Wildspace | 0.60% | ~1,113 |
 | Thieves of the Coven | 0.50% | ~927 |
 | Heavy Burden | 0.50% | ~1,096 |
 | Friends of the Forest | 0.50% | ~1,096 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,142 (Ranked 53)  
+Progressed: 219,154 (Ranked 53)  
 Completed: 2,154 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,7 +627,7 @@ Completed: 2,154 (0.98%) (Ranked 113)
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
-| 2023-08-06 | 219,142 | 2,154 |
+| 2023-08-06 | 219,154 | 2,154 |
 ## Awards
 Max (Diverse Characters): 5,119  (Ranked 67)  
 Sum: 30,910 (Ranked 38)  

@@ -5,18 +5,18 @@ Rating: 4.49 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,333 |
-| Advancement | 73.00% | ~18,108 |
+| Stylish | 86.00% | ~21,334 |
+| Advancement | 73.00% | ~18,109 |
 | Meticulously Efficient | 63.00% | ~15,628 |
 | Discovery | 61.00% | ~15,132 |
-| Fully Upgraded | 54.00% | ~13,395 |
-| Swift Rift Removers | 54.00% | ~13,395 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,651 |
-| Cultured | 51.00% | ~12,651 |
+| Fully Upgraded | 54.00% | ~13,396 |
+| Swift Rift Removers | 54.00% | ~13,396 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,652 |
+| Cultured | 51.00% | ~12,652 |
 | Vaporous Expansion | 48.00% | ~11,907 |
 | Teamwork | 44.00% | ~10,915 |
 | There you are! | 42.00% | ~10,419 |
-| Clutch Capture | 41.00% | ~10,170 |
+| Clutch Capture | 41.00% | ~10,171 |
 | Back Off | 35.00% | ~8,682 |
 | Daily Dose | 34.00% | ~8,434 |
 | Solo Capture | 32.00% | ~7,938 |
@@ -30,10 +30,10 @@ Rating: 4.49 (Ranked 576)
 | Stunner | 26.00% | ~6,450 |
 | Summoner | 26.00% | ~6,450 |
 | Pesky Jerks | 25.00% | ~6,202 |
-| Animated | 24.00% | ~5,953 |
-| Skilled | 24.00% | ~5,953 |
-| Collector | 23.00% | ~5,705 |
-| Ectoplasmic Entity | 23.00% | ~5,705 |
+| Animated | 24.00% | ~5,954 |
+| Skilled | 24.00% | ~5,954 |
+| Collector | 23.00% | ~5,706 |
+| Ectoplasmic Entity | 23.00% | ~5,706 |
 | Rift Destroyer | 19.00% | ~4,713 |
 | Terrifying | 18.00% | ~4,465 |
 | Tobin's Prodigy | 18.00% | ~4,465 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 576)
 | I don't need these | 1.00% | ~248 |
 | Mycophile | 1.00% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,806 (Ranked 101)  
+Progressed: 24,807 (Ranked 101)  
 Completed: 49 (0.20%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 49 (0.20%) (Ranked 175)
 | 2023-08-03 | 24,723 | 48 |
 | 2023-08-04 | 24,762 | 48 |
 | 2023-08-05 | 24,800 | 48 |
-| 2023-08-06 | 24,806 | 49 |
+| 2023-08-06 | 24,807 | 49 |
 ## Awards
 Max (Great for Quick Sessions): 246  (Ranked 252)  
 Sum: 2,209 (Ranked 189)  

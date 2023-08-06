@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,7 +313,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6971,
+  "EOS_Progressed": 6972,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
@@ -3388,6 +3388,11 @@
       "Time": "2023-08-06T01:49:22.7798975+00:00",
       "NumProgressed": 6971,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-06T07:03:45.1666583+00:00",
+      "NumProgressed": 6972,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -3407,7 +3412,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -3415,7 +3420,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -3439,7 +3444,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -3519,7 +3524,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -3535,7 +3540,7 @@
       "Name": "Seekers Found",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2788
+      "UsersEstimate": 2789
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -3543,7 +3548,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -3575,7 +3580,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -3599,7 +3604,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2788
+      "UsersEstimate": 2789
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -3607,22 +3612,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6971,
+      "Progressed": 6972,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-08-06T06:02:20.3565692+00:00",
+  "LastChanged_Achievements": "2023-08-06T07:03:45.1666576+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:47.6725573+00:00",
-  "LastUpdate_Ratings": "2023-08-06T05:58:08.0088774+00:00",
-  "LastUpdate_Achievements": "2023-08-06T06:02:20.3566058+00:00"
+  "LastUpdate_Ratings": "2023-08-06T06:58:47.0196819+00:00",
+  "LastUpdate_Achievements": "2023-08-06T07:03:45.1666903+00:00"
 }
