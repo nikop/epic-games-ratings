@@ -69,9 +69,9 @@ Rating: 4.06 (Ranked 914)
 | Titan Power | 0.80% | ~14 |
 | Training makes a Pro player | 0.80% | ~14 |
 | Transmute | 0.80% | ~14 |
+| Enhanced War Machines | 0.60% | ~11 |
 | Tree of Life | 0.60% | ~11 |
 | Beast War Machines | 0.50% | ~9 |
-| Enhanced War Machines | 0.50% | ~9 |
 | Pokerface | 0.50% | ~9 |
 | Enchanting skill x5 | 0.40% | ~7 |
 | Ultimate War Machines | 0.40% | ~7 |

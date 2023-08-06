@@ -1680,9 +1680,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24816,
+  "EOS_Progressed": 24817,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -9650,6 +9650,11 @@
       "Time": "2023-08-06T09:01:07.1984155+00:00",
       "NumProgressed": 24816,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-08-06T10:02:13.642304+00:00",
+      "NumProgressed": 24817,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 51,
@@ -9709,7 +9714,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 12656
+      "UsersEstimate": 12657
     },
     {
       "ID": "Collector",
@@ -9725,7 +9730,7 @@
       "Name": "Cultured",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 12656
+      "UsersEstimate": 12657
     },
     {
       "ID": "Daily_Dose",
@@ -9733,7 +9738,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8437
+      "UsersEstimate": 8438
     },
     {
       "ID": "Diabolical",
@@ -9773,7 +9778,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 15634
+      "UsersEstimate": 15635
     },
     {
       "ID": "Escape_Artist",
@@ -9789,7 +9794,7 @@
       "Name": "Fragile Panes",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2233
+      "UsersEstimate": 2234
     },
     {
       "ID": "Fully_Upgraded",
@@ -9813,7 +9818,7 @@
       "Name": "Ghost Expert",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "Icing_Cake",
@@ -9933,7 +9938,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6700
+      "UsersEstimate": 6701
     },
     {
       "ID": "Skilled",
@@ -9965,7 +9970,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21342
+      "UsersEstimate": 21343
     },
     {
       "ID": "Summoner",
@@ -9981,7 +9986,7 @@
       "Name": "Surprise!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2233
+      "UsersEstimate": 2234
     },
     {
       "ID": "Swift_Removers",
@@ -10068,7 +10073,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24816,
+      "Progressed": 24817,
       "Completed": 49
     }
   ],
@@ -10076,8 +10081,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-06T04:59:55.932508+00:00",
-  "LastChanged_Achievements": "2023-08-06T09:01:07.1984147+00:00",
+  "LastChanged_Achievements": "2023-08-06T10:02:13.6423027+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:01.1115448+00:00",
-  "LastUpdate_Ratings": "2023-08-06T08:59:48.8156223+00:00",
-  "LastUpdate_Achievements": "2023-08-06T09:01:07.198516+00:00"
+  "LastUpdate_Ratings": "2023-08-06T10:00:28.3830109+00:00",
+  "LastUpdate_Achievements": "2023-08-06T10:02:13.6424245+00:00"
 }

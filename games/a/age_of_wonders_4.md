@@ -12,17 +12,17 @@ Rating: 4.62 (Ranked 349)
 | Walls Cannot Stop Us | 5.00% | ~254 |
 | From Friends to Family | 5.00% | ~254 |
 | Magical Synergy | 5.00% | ~254 |
-| There Can Only Be One! | 4.00% | ~203 |
-| Full Ascension | 4.00% | ~203 |
-| Bone Peddler | 4.00% | ~203 |
-| Stronger Together | 4.00% | ~203 |
-| My Final Form | 4.00% | ~203 |
-| Seat of Power | 4.00% | ~203 |
-| Impenetrable Fortress | 4.00% | ~203 |
-| Intimidation Tactics | 4.00% | ~203 |
-| Here be Dragons | 4.00% | ~203 |
-| Blood of the Dragon | 4.00% | ~203 |
-| Mighty Hoard | 4.00% | ~203 |
+| There Can Only Be One! | 4.00% | ~204 |
+| Full Ascension | 4.00% | ~204 |
+| Bone Peddler | 4.00% | ~204 |
+| Stronger Together | 4.00% | ~204 |
+| My Final Form | 4.00% | ~204 |
+| Seat of Power | 4.00% | ~204 |
+| Impenetrable Fortress | 4.00% | ~204 |
+| Intimidation Tactics | 4.00% | ~204 |
+| Here be Dragons | 4.00% | ~204 |
+| Blood of the Dragon | 4.00% | ~204 |
+| Mighty Hoard | 4.00% | ~204 |
 | Valley of Wonders | 3.00% | ~153 |
 | Return of the Wizard King | 3.00% | ~153 |
 | Enchanted Archipelago | 3.00% | ~153 |
@@ -56,7 +56,7 @@ Rating: 4.62 (Ranked 349)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,087 (Ranked 140)  
+Progressed: 5,089 (Ranked 140)  
 Completed: 5 (0.10%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 5 (0.10%) (Ranked 198)
 | 2023-08-03 | 5,080 | 5 |
 | 2023-08-04 | 5,082 | 5 |
 | 2023-08-05 | 5,086 | 5 |
-| 2023-08-06 | 5,087 | 5 |
+| 2023-08-06 | 5,089 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

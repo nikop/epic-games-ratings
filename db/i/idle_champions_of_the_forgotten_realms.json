@@ -5584,9 +5584,9 @@
       "Count": 3343
     }
   ],
-  "EOS_Progressed": 219176,
+  "EOS_Progressed": 219192,
   "EOS_Completed": 2154,
-  "EOS_NewPlayers": 2195,
+  "EOS_NewPlayers": 2190,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17224,6 +17224,11 @@
       "Time": "2023-08-06T09:03:05.4213606+00:00",
       "NumProgressed": 219176,
       "NumCompleted": 2154
+    },
+    {
+      "Time": "2023-08-06T10:02:37.2311333+00:00",
+      "NumProgressed": 219192,
+      "NumCompleted": 2154
     }
   ],
   "TotalAchievements": 512,
@@ -17235,7 +17240,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8767
+      "UsersEstimate": 8768
     },
     {
       "ID": "objective_completed_10",
@@ -17603,7 +17608,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6575
+      "UsersEstimate": 6576
     },
     {
       "ID": "objective_completed_110",
@@ -17915,7 +17920,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1854
+      "UsersEstimate": 1855
     },
     {
       "ID": "objective_completed_1164",
@@ -18865,9 +18870,9 @@
       "ID": "objective_completed_281",
       "SetID": "415jc5c",
       "Name": "Home Not So Alone",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 371
     },
     {
       "ID": "objective_completed_283",
@@ -20449,9 +20454,9 @@
       "ID": "objective_completed_8",
       "SetID": "cc37lbc",
       "Name": "Friendly Imps",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 877
+      "UsersEstimate": 1096
     },
     {
       "ID": "objective_completed_80",
@@ -21259,7 +21264,7 @@
       "Name": "Rocky Reception",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1854
+      "UsersEstimate": 1855
     },
     {
       "ID": "objective_completed_1376",
@@ -21275,7 +21280,7 @@
       "Name": "Rock and Roll",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1854
+      "UsersEstimate": 1855
     },
     {
       "ID": "objective_completed_1381",
@@ -21330,21 +21335,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185450,
+      "Progressed": 185466,
       "Completed": 3061
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219176,
+      "Progressed": 219192,
       "Completed": 2154
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-06T07:59:33.3124968+00:00",
-  "LastChanged_Achievements": "2023-08-06T09:03:05.4213601+00:00",
+  "LastChanged_Achievements": "2023-08-06T10:02:37.2311325+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-06T08:58:52.6494997+00:00",
-  "LastUpdate_Achievements": "2023-08-06T09:03:05.4240339+00:00"
+  "LastUpdate_Ratings": "2023-08-06T09:59:18.7445163+00:00",
+  "LastUpdate_Achievements": "2023-08-06T10:02:37.234232+00:00"
 }

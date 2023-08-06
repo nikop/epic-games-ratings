@@ -76,6 +76,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.50% | ~66 |
 | Beloved | 0.50% | ~66 |
 | Conqueror | 0.50% | ~66 |
+| Mighty | 0.50% | ~66 |
 | Good Difficulty | 0.50% | ~66 |
 | Champions | 0.50% | ~66 |
 | Patrons | 0.50% | ~66 |
@@ -89,7 +90,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.40% | ~53 |
 | Invincible | 0.40% | ~53 |
 | Lion | 0.40% | ~53 |
-| Mighty | 0.40% | ~53 |
 | Subjugator | 0.40% | ~53 |
 | Victorious | 0.40% | ~53 |
 | Strong Difficulty | 0.40% | ~53 |
@@ -133,12 +133,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.30% | ~40 |
 | Kushite Cavalry | 0.30% | ~40 |
 | Turreted Elephant | 0.30% | ~40 |
+| No Undo | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
 | Carthage - Ox Hide | 0.20% | ~27 |
 | Peacemaker | 0.20% | ~27 |
 | Glorious Difficulty | 0.20% | ~27 |
 | Noble Difficulty | 0.20% | ~27 |
 | Run, Pheidippides, Run! | 0.20% | ~27 |
+| Nenikekamen | 0.20% | ~27 |
 | Cao'an | 0.20% | ~27 |
 | Learn to Play 5 | 0.20% | ~27 |
 | Egypt | 0.20% | ~27 |
@@ -153,7 +155,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.20% | ~27 |
 | All Nations | 0.20% | ~27 |
 | Conquest Victory | 0.20% | ~27 |
-| No Undo | 0.20% | ~27 |
 | Patriarch St Paul | 0.20% | ~27 |
 | Hypatia the Teacher | 0.20% | ~27 |
 | Centenarian | 0.10% | ~13 |
@@ -200,7 +201,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Five Routs | 0.10% | ~13 |
 | Game of the Week | 0.10% | ~13 |
 | Defend Where? | 0.10% | ~13 |
-| Nenikekamen | 0.10% | ~13 |
 | Get the Hellas Out | 0.10% | ~13 |
 | The Turning Point | 0.10% | ~13 |
 | A Good Start | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,285 (Ranked 117)  
+Progressed: 13,287 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,7 +411,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-03 | 13,260 | 5 |
 | 2023-08-04 | 13,269 | 5 |
 | 2023-08-05 | 13,281 | 5 |
-| 2023-08-06 | 13,285 | 5 |
+| 2023-08-06 | 13,287 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 264)  
 Sum: 1,786 (Ranked 206)  

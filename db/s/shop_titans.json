@@ -5440,9 +5440,9 @@
       "Count": 3728
     }
   ],
-  "EOS_Progressed": 133978,
+  "EOS_Progressed": 133980,
   "EOS_Completed": 128,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16420,6 +16420,11 @@
       "Time": "2023-08-06T09:04:26.9314115+00:00",
       "NumProgressed": 133978,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2023-08-06T10:04:51.5372654+00:00",
+      "NumProgressed": 133980,
+      "NumCompleted": 128
     }
   ],
   "TotalAchievements": 112,
@@ -17293,9 +17298,9 @@
       "ID": "workers01",
       "SetID": "anfd17p",
       "Name": "Own the Means of Production",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 402
+      "UsersEstimate": 536
     },
     {
       "ID": "workers02",
@@ -17326,15 +17331,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 133978,
+      "Progressed": 133980,
       "Completed": 128
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-06T07:00:17.1259915+00:00",
-  "LastChanged_Achievements": "2023-08-06T09:04:26.931411+00:00",
+  "LastChanged_Achievements": "2023-08-06T10:04:51.5372648+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.2056858+00:00",
-  "LastUpdate_Ratings": "2023-08-06T08:59:11.1271178+00:00",
-  "LastUpdate_Achievements": "2023-08-06T09:04:26.9316115+00:00"
+  "LastUpdate_Ratings": "2023-08-06T09:59:42.6855298+00:00",
+  "LastUpdate_Achievements": "2023-08-06T10:04:51.5374885+00:00"
 }

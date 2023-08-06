@@ -8,7 +8,7 @@ Rating: 4.55 (Ranked 485)
 | Wakey Wakey | 25.00% | ~757 |
 | Sputnik 2049 | 22.00% | ~666 |
 | Infinite Growth... | 21.00% | ~636 |
-| Without Breaking Some Eggs... | 20.00% | ~605 |
+| Without Breaking Some Eggs... | 20.00% | ~606 |
 | Space Society | 14.00% | ~424 |
 | A Thousand Strong | 14.00% | ~424 |
 | Ready for a New World | 14.00% | ~424 |
@@ -18,8 +18,8 @@ Rating: 4.55 (Ranked 485)
 | The Ship of Theseus | 11.00% | ~333 |
 | Guy de Borderlands | 10.00% | ~303 |
 | Hope Seeker | 10.00% | ~303 |
-| Exceeding Capacity | 9.00% | ~272 |
-| Breaking Protocol | 9.00% | ~272 |
+| Exceeding Capacity | 9.00% | ~273 |
+| Breaking Protocol | 9.00% | ~273 |
 | A Hunk of Junk | 8.00% | ~242 |
 | Man's Best Friend | 6.00% | ~182 |
 | Power Outage | 6.00% | ~182 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 485)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,027 (Ranked 157)  
+Progressed: 3,028 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,6 +171,7 @@ Completed: 0 (0.00%) (Ranked 249)
 | 2023-08-03 | 3,011 | 0 |
 | 2023-08-04 | 3,016 | 0 |
 | 2023-08-05 | 3,027 | 0 |
+| 2023-08-06 | 3,028 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

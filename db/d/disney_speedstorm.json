@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3077,
+  "EOS_Progressed": 3078,
   "EOS_Completed": 139,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 4.52,
   "EosHistory": [
@@ -4115,6 +4115,11 @@
       "Time": "2023-08-06T00:06:25.8026935+00:00",
       "NumProgressed": 3077,
       "NumCompleted": 139
+    },
+    {
+      "Time": "2023-08-06T10:07:13.4466082+00:00",
+      "NumProgressed": 3078,
+      "NumCompleted": 139
     }
   ],
   "TotalAchievements": 24,
@@ -4126,7 +4131,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "10",
@@ -4134,7 +4139,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "11",
@@ -4166,7 +4171,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "15",
@@ -4238,7 +4243,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "23",
@@ -4286,7 +4291,7 @@
       "Name": "PRO",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "7",
@@ -4302,7 +4307,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "9",
@@ -4317,13 +4322,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3077,
+      "Progressed": 3078,
       "Completed": 139
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-06T09:06:15.527839+00:00",
+  "LastChanged_Achievements": "2023-08-06T10:07:13.4466075+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:54.7430332+00:00",
-  "LastUpdate_Ratings": "2023-08-06T08:59:43.3233902+00:00",
-  "LastUpdate_Achievements": "2023-08-06T09:06:15.5278833+00:00"
+  "LastUpdate_Ratings": "2023-08-06T10:00:19.7377363+00:00",
+  "LastUpdate_Achievements": "2023-08-06T10:07:13.4466652+00:00"
 }

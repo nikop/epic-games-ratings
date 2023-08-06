@@ -15,6 +15,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 0.40% | ~536 |
 | It's Free Real Estate | 0.40% | ~536 |
 | Budding Merchant | 0.40% | ~536 |
+| Own the Means of Production | 0.40% | ~536 |
 | The Daily Grind | 0.30% | ~402 |
 | One Easy Payment | 0.30% | ~402 |
 | Some Assembly Required | 0.30% | ~402 |
@@ -22,7 +23,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 0.30% | ~402 |
 | One-Armed Bandit | 0.30% | ~402 |
 | Through Repetition, Perfection | 0.30% | ~402 |
-| Own the Means of Production | 0.30% | ~402 |
 | On the Path to Greatness | 0.20% | ~268 |
 | Ascended | 0.20% | ~268 |
 | Research & Development | 0.20% | ~268 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,978 (Ranked 62)  
+Progressed: 133,980 (Ranked 62)  
 Completed: 128 (0.10%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 128 (0.10%) (Ranked 198)
 | 2023-08-03 | 133,815 | 128 |
 | 2023-08-04 | 133,890 | 128 |
 | 2023-08-05 | 133,956 | 128 |
-| 2023-08-06 | 133,978 | 128 |
+| 2023-08-06 | 133,980 | 128 |
 ## Awards
 Max (Great for Beginners): 4,688  (Ranked 70)  
 Sum: 27,053 (Ranked 46)  

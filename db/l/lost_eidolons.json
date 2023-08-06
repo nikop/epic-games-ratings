@@ -1425,9 +1425,9 @@
       "ID": "18",
       "SetID": "73ikgfc",
       "Name": "Earning Trust",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 531
+      "UsersEstimate": 542
     },
     {
       "ID": "19",
@@ -1482,8 +1482,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-08-06T09:03:40.4510102+00:00",
+  "LastChanged_Achievements": "2023-08-06T10:03:42.6864371+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:34.0485205+00:00",
-  "LastUpdate_Ratings": "2023-08-06T09:00:18.6152241+00:00",
-  "LastUpdate_Achievements": "2023-08-06T09:03:40.4510345+00:00"
+  "LastUpdate_Ratings": "2023-08-06T10:01:07.4294029+00:00",
+  "LastUpdate_Achievements": "2023-08-06T10:03:42.6864598+00:00"
 }

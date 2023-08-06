@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 533,
+  "EOS_Progressed": 534,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
@@ -2279,6 +2279,11 @@
       "Time": "2023-08-06T01:49:03.8942184+00:00",
       "NumProgressed": 533,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T10:02:34.4008313+00:00",
+      "NumProgressed": 534,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2336,9 +2341,9 @@
       "ID": "BistroSet",
       "SetID": "d1bm05f",
       "Name": "French Flair",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 85
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -2466,15 +2471,15 @@
       "Name": "The Big Day",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "Packing20",
       "SetID": "d1bm05f",
       "Name": "Next Level Cuisine",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 53
     },
     {
       "ID": "PerfectGrade25",
@@ -2609,7 +2614,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 533,
+      "Progressed": 534,
       "Completed": 0
     }
   ],
@@ -2617,8 +2622,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-08-06T09:01:22.4353916+00:00",
+  "LastChanged_Achievements": "2023-08-06T10:02:34.4008308+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.7769167+00:00",
-  "LastUpdate_Ratings": "2023-08-06T08:59:10.9831597+00:00",
-  "LastUpdate_Achievements": "2023-08-06T09:01:22.435446+00:00"
+  "LastUpdate_Ratings": "2023-08-06T09:59:42.5064439+00:00",
+  "LastUpdate_Achievements": "2023-08-06T10:02:34.400877+00:00"
 }

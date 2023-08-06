@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 290,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 8.97,
   "EosHistory": [
@@ -1339,9 +1339,9 @@
       "ID": "CgkIgaGB2J0LEAIQAw",
       "SetID": "4ocea6d",
       "Name": "Scythed Chariot",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 165,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -1370,8 +1370,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-06T09:05:26.1949466+00:00",
+  "LastChanged_Achievements": "2023-08-06T10:06:08.2766331+00:00",
   "LastUpdate_AppInfo": "2023-08-03T14:57:18.1003103+00:00",
-  "LastUpdate_Ratings": "2023-08-06T08:57:43.0756841+00:00",
-  "LastUpdate_Achievements": "2023-08-06T09:05:26.194962+00:00"
+  "LastUpdate_Ratings": "2023-08-06T09:57:41.5171699+00:00",
+  "LastUpdate_Achievements": "2023-08-06T10:06:08.2766514+00:00"
 }
