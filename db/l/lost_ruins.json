@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 422,
+  "EOS_Progressed": 424,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -711,6 +711,11 @@
       "Time": "2023-08-05T03:03:37.7953863+00:00",
       "NumProgressed": 422,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T03:03:49.0300668+00:00",
+      "NumProgressed": 424,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -738,7 +743,7 @@
       "Name": "Artifact Collector",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Assassin",
@@ -754,7 +759,7 @@
       "Name": "Boss Killer",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "BugHunter",
@@ -842,15 +847,15 @@
       "Name": "Inquisitor",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "Librarian",
       "SetID": "82505mn",
       "Name": "Librarian",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 55
     },
     {
       "ID": "Lumberjack",
@@ -912,9 +917,9 @@
       "ID": "Pyromancer",
       "SetID": "82505mn",
       "Name": "Pyromancer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 17
     },
     {
       "ID": "Reincarnation",
@@ -922,7 +927,7 @@
       "Name": "Reincarnation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Roughneck",
@@ -1002,7 +1007,7 @@
       "Name": "Trap Master",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "TreasureHunter",
@@ -1018,7 +1023,7 @@
       "Name": "Troubleshooter",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "WeaponMaster",
@@ -1041,7 +1046,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 422,
+      "Progressed": 424,
       "Completed": 0
     }
   ],
@@ -1049,8 +1054,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-08-06T02:21:42.8153081+00:00",
+  "LastChanged_Achievements": "2023-08-06T03:03:49.030066+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:30.9396044+00:00",
-  "LastUpdate_Ratings": "2023-08-06T02:17:43.006647+00:00",
-  "LastUpdate_Achievements": "2023-08-06T02:21:42.8153449+00:00"
+  "LastUpdate_Ratings": "2023-08-06T03:00:01.1015224+00:00",
+  "LastUpdate_Achievements": "2023-08-06T03:03:49.0301023+00:00"
 }

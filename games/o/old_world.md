@@ -38,6 +38,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~133 |
 | Trade Caravan | 1.00% | ~133 |
 | Poetic Leader | 1.00% | ~133 |
+| Fountainhead | 0.90% | ~120 |
 | Magnificent | 0.90% | ~120 |
 | Wise | 0.90% | ~120 |
 | Strong Cities | 0.90% | ~120 |
@@ -48,7 +49,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.90% | ~120 |
 | Zoroastrianism | 0.90% | ~120 |
 | Brilliant | 0.80% | ~106 |
-| Fountainhead | 0.80% | ~106 |
 | Great | 0.80% | ~106 |
 | Artisans | 0.80% | ~106 |
 | Great Ziggurat | 0.80% | ~106 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,282 (Ranked 117)  
+Progressed: 13,283 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,7 +411,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-03 | 13,260 | 5 |
 | 2023-08-04 | 13,269 | 5 |
 | 2023-08-05 | 13,281 | 5 |
-| 2023-08-06 | 13,282 | 5 |
+| 2023-08-06 | 13,283 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 264)  
 Sum: 1,786 (Ranked 206)  

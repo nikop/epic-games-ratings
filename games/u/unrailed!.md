@@ -26,9 +26,9 @@ Number of Ratings: 21,990  (23.09.2022)
 | Rocketman | 0.70% | ~4,409 |
 | Expert Voyager | 0.60% | ~3,779 |
 | Shopaholic | 0.60% | ~3,779 |
-| Nanuk | 0.50% | ~3,149 |
-| Terminal Station | 0.50% | ~3,149 |
-| Dynamite Fishing | 0.50% | ~3,149 |
+| Nanuk | 0.50% | ~3,150 |
+| Terminal Station | 0.50% | ~3,150 |
+| Dynamite Fishing | 0.50% | ~3,150 |
 | Scrooge | 0.40% | ~2,520 |
 | Wayfarer | 0.30% | ~1,890 |
 | Advanced Wayfarer | 0.30% | ~1,890 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~630 |
 | 20 Miles under the Sea | 0.10% | ~630 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 629,897 (Ranked 25)  
+Progressed: 629,903 (Ranked 25)  
 Completed: 7 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 7 (0.00%) (Ranked 249)
 | 2023-08-03 | 628,787 | 7 |
 | 2023-08-04 | 629,307 | 7 |
 | 2023-08-05 | 629,843 | 7 |
-| 2023-08-06 | 629,897 | 7 |
+| 2023-08-06 | 629,903 | 7 |
 ## Awards
 Max (Diverse Characters): 190  (Ranked 276)  
 Sum: 1,546 (Ranked 215)  

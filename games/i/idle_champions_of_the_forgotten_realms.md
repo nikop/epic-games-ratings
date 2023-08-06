@@ -40,18 +40,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.60% | ~1,315 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,112 |
 | Thieves of the Coven | 0.50% | ~927 |
-| Heavy Burden | 0.50% | ~1,095 |
-| Friends of the Forest | 0.50% | ~1,095 |
-| Low Initiative | 0.50% | ~1,095 |
-| Street War | 0.50% | ~1,095 |
-| March of the Undead | 0.50% | ~1,095 |
-| No Time To Rest | 0.50% | ~1,095 |
-| The Mists of Ravenloft | 0.50% | ~1,095 |
-| Invisible Shadows | 0.50% | ~1,095 |
-| Family Entanglements | 0.50% | ~1,095 |
-| The Botched Kidnapping | 0.50% | ~1,095 |
-| The Ring of Regeneration | 0.50% | ~1,095 |
-| Seeking Allies | 0.50% | ~1,095 |
+| Heavy Burden | 0.50% | ~1,096 |
+| Friends of the Forest | 0.50% | ~1,096 |
+| Low Initiative | 0.50% | ~1,096 |
+| Street War | 0.50% | ~1,096 |
+| March of the Undead | 0.50% | ~1,096 |
+| No Time To Rest | 0.50% | ~1,096 |
+| The Mists of Ravenloft | 0.50% | ~1,096 |
+| Invisible Shadows | 0.50% | ~1,096 |
+| Family Entanglements | 0.50% | ~1,096 |
+| The Botched Kidnapping | 0.50% | ~1,096 |
+| The Ring of Regeneration | 0.50% | ~1,096 |
+| Seeking Allies | 0.50% | ~1,096 |
 | Not That Type of Helm! | 0.50% | ~927 |
 | Calcryx Tricks | 0.50% | ~927 |
 | Goblin Halls: the Next Generation | 0.50% | ~927 |
@@ -60,18 +60,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.50% | ~927 |
 | Animated Giff | 0.50% | ~927 |
 | Upholding the Law | 0.40% | ~876 |
-| Hither of the Feywild | 0.40% | ~741 |
-| The Prince of a Thousand Enemies | 0.40% | ~741 |
-| Speeds of Destruction | 0.40% | ~741 |
-| Owlbear Necessities | 0.40% | ~741 |
+| Hither of the Feywild | 0.40% | ~742 |
+| The Prince of a Thousand Enemies | 0.40% | ~742 |
+| Speeds of Destruction | 0.40% | ~742 |
+| Owlbear Necessities | 0.40% | ~742 |
 | On the Hunt | 0.40% | ~876 |
-| Best Thay Ever | 0.40% | ~741 |
-| A Demi-god's Defender | 0.40% | ~741 |
-| Who Lurks Below? | 0.40% | ~741 |
+| Best Thay Ever | 0.40% | ~742 |
+| A Demi-god's Defender | 0.40% | ~742 |
+| Who Lurks Below? | 0.40% | ~742 |
 | Homecoming | 0.40% | ~876 |
 | The Lost Heir of Omu | 0.40% | ~876 |
-| No One Can Hear You Scream | 0.40% | ~741 |
-| Welcome to the Rock | 0.40% | ~741 |
+| No One Can Hear You Scream | 0.40% | ~742 |
+| Welcome to the Rock | 0.40% | ~742 |
 | The Forbidden City | 0.40% | ~876 |
 | Wisdom Check | 0.40% | ~876 |
 | Tower on the Lake | 0.40% | ~876 |
@@ -91,10 +91,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.40% | ~876 |
 | Pure Energy | 0.40% | ~876 |
 | The Templar's Camp | 0.40% | ~876 |
-| Devilishly Cold | 0.40% | ~741 |
-| Luigi After Hours | 0.40% | ~741 |
-| Electric Mayhem | 0.40% | ~741 |
-| 3,720 to 1 | 0.40% | ~741 |
+| Devilishly Cold | 0.40% | ~742 |
+| Luigi After Hours | 0.40% | ~742 |
+| Electric Mayhem | 0.40% | ~742 |
+| 3,720 to 1 | 0.40% | ~742 |
 | Starving in the Jungle | 0.30% | ~657 |
 | Nightmare Rats! | 0.30% | ~556 |
 | Downfall | 0.30% | ~556 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,099 (Ranked 53)  
+Progressed: 219,110 (Ranked 53)  
 Completed: 2,154 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,7 +627,7 @@ Completed: 2,154 (0.98%) (Ranked 113)
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
-| 2023-08-06 | 219,099 | 2,154 |
+| 2023-08-06 | 219,110 | 2,154 |
 ## Awards
 Max (Diverse Characters): 5,119  (Ranked 67)  
 Sum: 30,910 (Ranked 38)  

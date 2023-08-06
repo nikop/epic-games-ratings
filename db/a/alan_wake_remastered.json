@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60343,
+  "EOS_Progressed": 60344,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 931,
+  "EOS_NewPlayers": 926,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10347,6 +10347,11 @@
       "Time": "2023-08-06T01:51:42.7339163+00:00",
       "NumProgressed": 60343,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-06T03:04:37.0220382+00:00",
+      "NumProgressed": 60344,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10374,7 +10379,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13275
+      "UsersEstimate": 13276
     },
     {
       "ID": "04",
@@ -10550,7 +10555,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4827
+      "UsersEstimate": 4828
     },
     {
       "ID": "26",
@@ -10598,7 +10603,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9051
+      "UsersEstimate": 9052
     },
     {
       "ID": "32",
@@ -10670,7 +10675,7 @@
       "Name": "Right of Way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4827
+      "UsersEstimate": 4828
     },
     {
       "ID": "41",
@@ -10678,7 +10683,7 @@
       "Name": "Finders Keepers",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9051
+      "UsersEstimate": 9052
     },
     {
       "ID": "42",
@@ -10893,21 +10898,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60343,
+      "Progressed": 60344,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23811,
+      "Progressed": 23812,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-06T02:22:34.7949977+00:00",
+  "LastChanged_Achievements": "2023-08-06T03:04:37.0220378+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-06T02:15:59.1004323+00:00",
-  "LastUpdate_Achievements": "2023-08-06T02:22:34.7951209+00:00"
+  "LastUpdate_Ratings": "2023-08-06T02:58:13.9409662+00:00",
+  "LastUpdate_Achievements": "2023-08-06T03:04:37.0221637+00:00"
 }

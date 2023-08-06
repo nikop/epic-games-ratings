@@ -6,18 +6,18 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~122,260 |
-| Where's that freaking Dwarf? | 47.00% | ~97,393 |
-| GG EZ | 28.00% | ~58,022 |
-| Speedrun | 26.00% | ~53,877 |
-| Déjà vu | 21.00% | ~43,516 |
-| Sock! SOCK! | 17.00% | ~35,227 |
-| DM intervention | 13.00% | ~26,939 |
-| Fireproof Wizardess | 10.00% | ~20,722 |
-| Livin' in a dwarven paradise | 8.00% | ~16,578 |
-| A beer, two curses, three companions | 8.00% | ~16,578 |
-| Way of the Wimp | 7.00% | ~14,505 |
-| The plot thickens... At the tavern | 5.00% | ~10,361 |
+| Alt+F4 | 59.00% | ~122,269 |
+| Where's that freaking Dwarf? | 47.00% | ~97,400 |
+| GG EZ | 28.00% | ~58,026 |
+| Speedrun | 26.00% | ~53,881 |
+| Déjà vu | 21.00% | ~43,519 |
+| Sock! SOCK! | 17.00% | ~35,230 |
+| DM intervention | 13.00% | ~26,941 |
+| Fireproof Wizardess | 10.00% | ~20,724 |
+| Livin' in a dwarven paradise | 8.00% | ~16,579 |
+| A beer, two curses, three companions | 8.00% | ~16,579 |
+| Way of the Wimp | 7.00% | ~14,506 |
+| The plot thickens... At the tavern | 5.00% | ~10,362 |
 | The Woman in the High Castle | 4.00% | ~8,289 |
 | I am the night | 4.00% | ~8,289 |
 | Team Building Exercise | 4.00% | ~8,289 |
@@ -30,12 +30,12 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 3.00% | ~6,217 |
 | Thieves' Guild Accreditation | 3.00% | ~6,217 |
 | Oh, when I'll be level 10... | 3.00% | ~6,217 |
-| Urik's Depths | 2.00% | ~4,144 |
-| Look but don't touch | 2.00% | ~4,144 |
-| The beards of change | 2.00% | ~4,144 |
-| Gargantua | 2.00% | ~4,144 |
-| In Navalu's footsteps | 2.00% | ~4,144 |
-| Material Girl | 2.00% | ~4,144 |
+| Urik's Depths | 2.00% | ~4,145 |
+| Look but don't touch | 2.00% | ~4,145 |
+| The beards of change | 2.00% | ~4,145 |
+| Gargantua | 2.00% | ~4,145 |
+| In Navalu's footsteps | 2.00% | ~4,145 |
+| Material Girl | 2.00% | ~4,145 |
 | The Dungeon Master | 1.00% | ~2,072 |
 | The Statuette of Gladeulfeurah | 1.00% | ~2,072 |
 | The Famous Dungeon of Naheulbeuk | 1.00% | ~2,072 |
@@ -58,6 +58,7 @@ Number of Ratings: 118  (23.09.2022)
 | Cursed die | 0.20% | ~414 |
 | He’s alive! Aliiiive! | 0.20% | ~414 |
 | Super-Ultra-Lydian | 0.20% | ~414 |
+| Lord of the Drunks | 0.20% | ~414 |
 | Inception | 0.20% | ~414 |
 | Demisemiquaver | 0.20% | ~414 |
 | Necrophilia | 0.10% | ~207 |
@@ -89,13 +90,12 @@ Number of Ratings: 118  (23.09.2022)
 | Pyrrhic victory | 0.10% | ~207 |
 | 100% satisfaction guarantee | 0.10% | ~207 |
 | Death is for wimps | 0.10% | ~207 |
-| Lord of the Drunks | 0.10% | ~207 |
 | Dumb and dumber | 0.10% | ~207 |
 | Dwarf Candy | 0.10% | ~207 |
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,220 (Ranked 55)  
+Progressed: 207,235 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 0 (0.00%) (Ranked 249)
 | 2023-08-03 | 205,780 | 0 |
 | 2023-08-04 | 206,418 | 0 |
 | 2023-08-05 | 207,138 | 0 |
-| 2023-08-06 | 207,220 | 0 |
+| 2023-08-06 | 207,235 | 0 |
 ## Awards
 Max (Character Customization): 151  (Ranked 294)  
 Sum: 151 (Ranked 393)  

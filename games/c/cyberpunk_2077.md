@@ -6,52 +6,52 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~591,223 |
-| Right Back At Ya | 39.00% | ~339,084 |
-| The Lovers | 35.00% | ~304,306 |
-| Stanislavski's Method | 28.00% | ~243,445 |
-| The Wheel of Fortune | 27.00% | ~234,750 |
-| The Hermit | 24.00% | ~208,667 |
-| Christmas Tree Attack | 23.00% | ~199,973 |
-| True Soldier | 23.00% | ~199,973 |
-| The High Priestess | 22.00% | ~191,278 |
-| Legend of The Afterlife | 22.00% | ~191,278 |
-| Life of the Road | 21.00% | ~182,584 |
-| Full Body Conversion | 18.00% | ~156,500 |
-| The World | 18.00% | ~156,500 |
-| Bushido and Chill | 16.00% | ~139,111 |
-| Gun Fu | 15.00% | ~130,417 |
-| True Warrior | 15.00% | ~130,417 |
-| I Am The Law | 14.00% | ~121,722 |
-| Judy vs Night City | 14.00% | ~121,722 |
-| To Protect and Serve | 13.00% | ~113,028 |
-| Master Crafter | 13.00% | ~113,028 |
+| The Fool | 68.00% | ~591,227 |
+| Right Back At Ya | 39.00% | ~339,086 |
+| The Lovers | 35.00% | ~304,308 |
+| Stanislavski's Method | 28.00% | ~243,446 |
+| The Wheel of Fortune | 27.00% | ~234,752 |
+| The Hermit | 24.00% | ~208,668 |
+| Christmas Tree Attack | 23.00% | ~199,974 |
+| True Soldier | 23.00% | ~199,974 |
+| The High Priestess | 22.00% | ~191,279 |
+| Legend of The Afterlife | 22.00% | ~191,279 |
+| Life of the Road | 21.00% | ~182,585 |
+| Full Body Conversion | 18.00% | ~156,501 |
+| The World | 18.00% | ~156,501 |
+| Bushido and Chill | 16.00% | ~139,112 |
+| Gun Fu | 15.00% | ~130,418 |
+| True Warrior | 15.00% | ~130,418 |
+| I Am The Law | 14.00% | ~121,723 |
+| Judy vs Night City | 14.00% | ~121,723 |
+| To Protect and Serve | 13.00% | ~113,029 |
+| Master Crafter | 13.00% | ~113,029 |
 | Two Heads, One Bullet | 12.00% | ~104,334 |
 | The Quick and the Dead | 10.00% | ~86,945 |
-| The Wandering Fool | 9.00% | ~78,250 |
-| Ten out of Ten | 9.00% | ~78,250 |
+| The Wandering Fool | 9.00% | ~78,251 |
+| Ten out of Ten | 9.00% | ~78,251 |
 | Breathtaking | 8.00% | ~69,556 |
-| The Star | 7.00% | ~60,861 |
+| The Star | 7.00% | ~60,862 |
 | To Bad Decisions! | 6.00% | ~52,167 |
 | The Sun | 6.00% | ~52,167 |
 | Must Be Rats | 4.00% | ~34,778 |
 | Temperance | 4.00% | ~34,778 |
-| City Lights | 3.00% | ~26,083 |
-| Mean Streets | 3.00% | ~26,083 |
-| Little Tokyo | 3.00% | ~26,083 |
-| Greetings from Pacifica! | 3.00% | ~26,083 |
-| The Jungle | 3.00% | ~26,083 |
-| V for Vendetta | 3.00% | ~26,083 |
-| It's Elementary | 3.00% | ~26,083 |
+| City Lights | 3.00% | ~26,084 |
+| Mean Streets | 3.00% | ~26,084 |
+| Little Tokyo | 3.00% | ~26,084 |
+| Greetings from Pacifica! | 3.00% | ~26,084 |
+| The Jungle | 3.00% | ~26,084 |
+| V for Vendetta | 3.00% | ~26,084 |
+| It's Elementary | 3.00% | ~26,084 |
 | Autojock | 2.00% | ~17,389 |
 | Frequent Flyer | 2.00% | ~17,389 |
 | The Wasteland | 2.00% | ~17,389 |
 | Daemon In The Shell | 2.00% | ~17,389 |
 | The Devil | 2.00% | ~17,389 |
-| Gunslinger | 1.00% | ~8,694 |
+| Gunslinger | 1.00% | ~8,695 |
 | Rough Landing | 0.50% | ~4,347 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 869,446 (Ranked 14)  
+Progressed: 869,451 (Ranked 14)  
 Completed: 1,937 (0.22%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,18 +159,18 @@ Completed: 1,937 (0.22%) (Ranked 172)
 | 2023-08-03 | 869,096 | 1,930 |
 | 2023-08-04 | 869,233 | 1,935 |
 | 2023-08-05 | 869,431 | 1,936 |
-| 2023-08-06 | 869,446 | 1,937 |
+| 2023-08-06 | 869,451 | 1,937 |
 ## Awards
 Max (Character Customization): 74,859  (Ranked 9)  
-Sum: 197,367 (Ranked 13)  
+Sum: 197,381 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 74,859 |
 | This game has Great Boss Battles | 48,321 |
 | This game has Diverse Characters | 8,751 |
+| This game has Amazing Storytelling | 8,732 |
 | This game is Great for Beginners | 8,731 |
-| This game has Amazing Storytelling | 8,718 |
 | This game is Extremely Fun | 8,605 |
 | This game is Highly Recommended | 8,572 |
 | This game is Relaxing | 8,519 |
@@ -379,3 +379,4 @@ Diff (max vs sum): -4
 | 2023-08-03 | 4.62 | - | 74,715 | 196,898 |
 | 2023-08-04 | 4.62 | - | 74,785 | 197,147 |
 | 2023-08-05 | 4.62 | - | 74,859 | 197,367 |
+| 2023-08-06 | 4.62 | - | 74,859 | 197,381 |

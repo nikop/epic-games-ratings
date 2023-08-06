@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 82,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -3006,9 +3006,9 @@
       "Count": 490
     }
   ],
-  "EOS_Progressed": 8284,
+  "EOS_Progressed": 8285,
   "EOS_Completed": 189,
-  "EOS_NewPlayers": 518,
+  "EOS_NewPlayers": 515,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.28,
   "EosHistory": [
@@ -8651,6 +8651,11 @@
       "Time": "2023-08-06T01:49:28.540666+00:00",
       "NumProgressed": 8284,
       "NumCompleted": 189
+    },
+    {
+      "Time": "2023-08-06T03:03:09.0270819+00:00",
+      "NumProgressed": 8285,
+      "NumCompleted": 189
     }
   ],
   "TotalAchievements": 15,
@@ -8678,7 +8683,7 @@
       "Name": "Bestest Friend",
       "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 3976
+      "UsersEstimate": 3977
     },
     {
       "ID": "Chef_Cook",
@@ -8750,7 +8755,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 5716
+      "UsersEstimate": 5717
     },
     {
       "ID": "Renovator",
@@ -8781,7 +8786,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 8284,
+      "Progressed": 8285,
       "Completed": 189
     }
   ],
@@ -8789,8 +8794,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-08-05T20:58:54.2837708+00:00",
-  "LastChanged_Achievements": "2023-08-06T02:20:32.7154919+00:00",
+  "LastChanged_Achievements": "2023-08-06T03:03:09.0270814+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.5124398+00:00",
-  "LastUpdate_Ratings": "2023-08-06T02:16:28.4501327+00:00",
-  "LastUpdate_Achievements": "2023-08-06T02:20:32.715537+00:00"
+  "LastUpdate_Ratings": "2023-08-06T02:58:41.4386272+00:00",
+  "LastUpdate_Achievements": "2023-08-06T03:03:09.0271259+00:00"
 }

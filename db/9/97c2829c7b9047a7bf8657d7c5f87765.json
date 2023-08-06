@@ -4,7 +4,7 @@
   "ProductSlug": "elemental-war-2-d7db6e",
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -356,9 +356,9 @@
       "ID": "4",
       "SetID": "7095412",
       "Name": "Hunter",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "40",
@@ -426,8 +426,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-30T11:02:07.8457996+00:00",
-  "LastChanged_Achievements": "2023-08-06T02:22:47.4147288+00:00",
+  "LastChanged_Achievements": "2023-08-06T03:04:49.5833297+00:00",
   "LastUpdate_AppInfo": "2023-08-04T13:02:01.0870952+00:00",
-  "LastUpdate_Ratings": "2023-08-06T02:15:09.7707011+00:00",
-  "LastUpdate_Achievements": "2023-08-06T02:22:47.4147622+00:00"
+  "LastUpdate_Ratings": "2023-08-06T02:57:22.3325875+00:00",
+  "LastUpdate_Achievements": "2023-08-06T03:04:49.5833633+00:00"
 }

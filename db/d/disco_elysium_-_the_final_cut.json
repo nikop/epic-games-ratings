@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1241,9 +1241,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 125665,
+  "EOS_Progressed": 125666,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 936,
+  "EOS_NewPlayers": 933,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11826,6 +11826,11 @@
       "Time": "2023-08-06T02:21:35.1909698+00:00",
       "NumProgressed": 125665,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-06T03:03:41.5155416+00:00",
+      "NumProgressed": 125666,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -11941,7 +11946,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20106
+      "UsersEstimate": 20107
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -11965,7 +11970,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16336
+      "UsersEstimate": 16337
     },
     {
       "ID": "ACH_COP_STAR",
@@ -12117,7 +12122,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16336
+      "UsersEstimate": 16337
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -12156,15 +12161,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 125665,
+      "Progressed": 125666,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-04T01:55:33.6301654+00:00",
-  "LastChanged_Achievements": "2023-08-06T02:21:35.1909692+00:00",
+  "LastChanged_Achievements": "2023-08-06T03:03:41.515541+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:08.5525123+00:00",
-  "LastUpdate_Ratings": "2023-08-06T02:17:23.4607012+00:00",
-  "LastUpdate_Achievements": "2023-08-06T02:21:35.1910653+00:00"
+  "LastUpdate_Ratings": "2023-08-06T02:59:37.9246632+00:00",
+  "LastUpdate_Achievements": "2023-08-06T03:03:41.5156367+00:00"
 }

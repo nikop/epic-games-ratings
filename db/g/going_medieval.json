@@ -1184,9 +1184,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 5105,
+  "EOS_Progressed": 5106,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6864,6 +6864,11 @@
       "Time": "2023-08-06T01:50:42.4493798+00:00",
       "NumProgressed": 5105,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-06T03:03:53.1265387+00:00",
+      "NumProgressed": 5106,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 31,
@@ -6883,7 +6888,7 @@
       "Name": "Beam Me Up",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -6907,7 +6912,7 @@
       "Name": "Green Thumb",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 3369
+      "UsersEstimate": 3370
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -7019,7 +7024,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -7027,15 +7032,15 @@
       "Name": "Winter Is Coming",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
       "SetID": "5349c2e",
       "Name": "The First Day",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 3471
+      "UsersEstimate": 3421
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -7051,7 +7056,7 @@
       "Name": "Heating Up",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -7083,7 +7088,7 @@
       "Name": "Novice Researcher",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 3318
+      "UsersEstimate": 3319
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -7091,7 +7096,7 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -7122,15 +7127,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5105,
+      "Progressed": 5106,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-05T17:01:44.9591005+00:00",
-  "LastChanged_Achievements": "2023-08-06T02:21:46.9656319+00:00",
+  "LastChanged_Achievements": "2023-08-06T03:03:53.1265383+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:53.1800311+00:00",
-  "LastUpdate_Ratings": "2023-08-06T02:18:01.7016472+00:00",
-  "LastUpdate_Achievements": "2023-08-06T02:21:46.9656897+00:00"
+  "LastUpdate_Ratings": "2023-08-06T03:00:19.8856866+00:00",
+  "LastUpdate_Achievements": "2023-08-06T03:03:53.1265918+00:00"
 }

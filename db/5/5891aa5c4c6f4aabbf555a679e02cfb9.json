@@ -168,9 +168,9 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "b36c5kb",
       "Name": "The Team Psychologist",
-      "Percentage": 22,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -256,9 +256,9 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "b36c5kb",
       "Name": "Finally Free",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -336,9 +336,9 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "b36c5kb",
       "Name": "Doing Some Detecting",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -527,8 +527,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-06T02:21:04.3964041+00:00",
+  "LastChanged_Achievements": "2023-08-06T03:03:10.3936904+00:00",
   "LastUpdate_AppInfo": "2023-08-02T15:56:51.7948798+00:00",
-  "LastUpdate_Ratings": "2023-08-06T02:14:47.4196196+00:00",
-  "LastUpdate_Achievements": "2023-08-06T02:21:04.3964553+00:00"
+  "LastUpdate_Ratings": "2023-08-06T02:57:01.1346772+00:00",
+  "LastUpdate_Achievements": "2023-08-06T03:03:10.3937389+00:00"
 }

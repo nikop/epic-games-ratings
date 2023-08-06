@@ -1032,9 +1032,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14511,
+  "EOS_Progressed": 14512,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 663,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -12452,6 +12452,11 @@
       "Time": "2023-08-06T02:21:55.6617554+00:00",
       "NumProgressed": 14511,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-08-06T03:04:01.5019777+00:00",
+      "NumProgressed": 14512,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 45,
@@ -12567,7 +12572,7 @@
       "Name": "Improvise, adapt, overrun",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "Junkrunner",
@@ -12599,7 +12604,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 11028
+      "UsersEstimate": 11029
     },
     {
       "ID": "MoreThanHuman",
@@ -12663,7 +12668,7 @@
       "Name": "Pre-empative strike",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "PushItToTheLimit",
@@ -12727,7 +12732,7 @@
       "Name": "Strike",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "SwordRunner",
@@ -12791,7 +12796,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 3192
+      "UsersEstimate": 3193
     },
     {
       "ID": "WhereAreMyKeys",
@@ -12815,28 +12820,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4353
+      "UsersEstimate": 4354
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 14511,
+      "Progressed": 14512,
       "Completed": 33
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 14511,
+      "Progressed": 14512,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-07-31T08:58:47.177129+00:00",
-  "LastChanged_Achievements": "2023-08-06T02:21:55.6617548+00:00",
+  "LastChanged_Achievements": "2023-08-06T03:04:01.5019772+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:55.4271201+00:00",
-  "LastUpdate_Ratings": "2023-08-06T02:16:26.1434969+00:00",
-  "LastUpdate_Achievements": "2023-08-06T02:21:55.6618605+00:00"
+  "LastUpdate_Ratings": "2023-08-06T02:58:39.6557259+00:00",
+  "LastUpdate_Achievements": "2023-08-06T03:04:01.5020856+00:00"
 }

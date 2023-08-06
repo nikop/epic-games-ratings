@@ -6,7 +6,7 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~11,028 |
+| Longrunner | 76.00% | ~11,029 |
 | Sword Runner | 62.00% | ~8,997 |
 | Running out of breath | 54.00% | ~7,836 |
 | Wallrunner | 54.00% | ~7,836 |
@@ -16,7 +16,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Where are my Keys? | 41.00% | ~5,950 |
 | Back to hell | 37.00% | ~5,369 |
 | Perfection | 32.00% | ~4,644 |
-| Why not both | 30.00% | ~4,353 |
+| Why not both | 30.00% | ~4,354 |
 | Sword to a gunfight | 29.00% | ~4,208 |
 | Upgrades not mandatory | 29.00% | ~4,208 |
 | Artificial selection | 28.00% | ~4,063 |
@@ -24,13 +24,13 @@ Number of Ratings: 1,047  (23.09.2022)
 | Running Wild | 27.00% | ~3,918 |
 | Finish line | 26.00% | ~3,773 |
 | Unstoppable force | 23.00% | ~3,338 |
-| Wave of mutilation | 22.00% | ~3,192 |
+| Wave of mutilation | 22.00% | ~3,193 |
 | Can't Run Can't Hide | 17.00% | ~2,467 |
 | R is for Running | 17.00% | ~2,467 |
 | Dead in the air | 15.00% | ~2,177 |
-| Improvise, adapt, overrun | 13.00% | ~1,886 |
-| Pre-empative strike | 13.00% | ~1,886 |
-| Strike | 13.00% | ~1,886 |
+| Improvise, adapt, overrun | 13.00% | ~1,887 |
+| Pre-empative strike | 13.00% | ~1,887 |
+| Strike | 13.00% | ~1,887 |
 | More than human | 12.00% | ~1,741 |
 | Triple A | 9.00% | ~1,306 |
 | Fine addition | 7.00% | ~1,016 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~58 |
 | Up Close And Personal | 0.40% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,511 (Ranked 115)  
+Progressed: 14,512 (Ranked 115)  
 Completed: 54 (0.37%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 54 (0.37%) (Ranked 150)
 | 2023-08-03 | 14,370 | 54 |
 | 2023-08-04 | 14,445 | 54 |
 | 2023-08-05 | 14,506 | 54 |
-| 2023-08-06 | 14,511 | 54 |
+| 2023-08-06 | 14,512 | 54 |
 ## Awards
 Max (Great Boss Battles): 474  (Ranked 198)  
 Sum: 634 (Ranked 288)  

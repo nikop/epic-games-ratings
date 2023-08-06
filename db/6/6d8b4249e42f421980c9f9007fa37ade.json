@@ -514,9 +514,9 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Epic_Formula_12",
@@ -586,9 +586,9 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Epic_InnerWorld_1",
@@ -762,9 +762,9 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Epic_Treasure_1000",
@@ -801,8 +801,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-08-06T02:23:40.5530339+00:00",
+  "LastChanged_Achievements": "2023-08-06T03:05:42.3023336+00:00",
   "LastUpdate_AppInfo": "2023-08-03T07:56:56.5073812+00:00",
-  "LastUpdate_Ratings": "2023-08-06T02:15:19.8003371+00:00",
-  "LastUpdate_Achievements": "2023-08-06T02:23:40.5530773+00:00"
+  "LastUpdate_Ratings": "2023-08-06T02:57:34.4466614+00:00",
+  "LastUpdate_Achievements": "2023-08-06T03:05:42.3023827+00:00"
 }

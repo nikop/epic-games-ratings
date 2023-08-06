@@ -10,12 +10,12 @@ Number of Ratings: 524  (23.09.2022)
 | Let There Be Light | 30.00% | ~18,103 |
 | Float Like a Butterfly | 28.00% | ~16,896 |
 | Nordic Walking | 23.00% | ~13,879 |
-| Bright Falls' Finest | 22.00% | ~13,275 |
+| Bright Falls' Finest | 22.00% | ~13,276 |
 | Under a Thin Layer of Skin | 19.00% | ~11,465 |
 | Park Ranger | 16.00% | ~9,655 |
 | Paging Mr. Wake | 16.00% | ~9,655 |
-| Back! Back, I Say! | 15.00% | ~9,051 |
-| Finders Keepers | 15.00% | ~9,051 |
+| Back! Back, I Say! | 15.00% | ~9,052 |
+| Finders Keepers | 15.00% | ~9,052 |
 | Damn Good Cup of Coffee | 14.00% | ~8,448 |
 | Wheels Within Wheels | 13.00% | ~7,845 |
 | They're Heeeeeere! | 13.00% | ~7,845 |
@@ -33,8 +33,8 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 10.00% | ~6,034 |
 | The Lady of the Light | 9.00% | ~5,431 |
 | Energized! | 9.00% | ~5,431 |
-| What Light Through Yonder Window | 8.00% | ~4,827 |
-| Right of Way | 8.00% | ~4,827 |
+| What Light Through Yonder Window | 8.00% | ~4,828 |
+| Right of Way | 8.00% | ~4,828 |
 | A Friend in Need | 8.00% | ~1,905 |
 | Tornado Wrangler | 7.00% | ~4,224 |
 | Departure | 6.00% | ~3,621 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~60 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,343 (Ranked 84)  
+Progressed: 60,344 (Ranked 84)  
 Completed: 64 (0.11%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 64 (0.11%) (Ranked 194)
 | 2023-08-03 | 60,143 | 63 |
 | 2023-08-04 | 60,237 | 64 |
 | 2023-08-05 | 60,337 | 64 |
-| 2023-08-06 | 60,343 | 64 |
+| 2023-08-06 | 60,344 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
