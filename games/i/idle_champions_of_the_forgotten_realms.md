@@ -1,13 +1,13 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.05 (Ranked 916)  
+Rating: 4.06 (Ranked 915)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,776 |
-| Beast Intentions | 3.00% | ~6,582 |
+| A Brief Tour of the Realms | 4.00% | ~8,777 |
+| Beast Intentions | 3.00% | ~6,583 |
 | Maddening | 2.00% | ~4,388 |
 | The Silken Swamp | 1.00% | ~2,194 |
 | Supply Run | 1.00% | ~2,194 |
@@ -15,10 +15,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 1.00% | ~1,857 |
 | Rock and Roll | 1.00% | ~1,857 |
 | Flight of the Kindori Pod | 0.90% | ~1,671 |
-| Tall Tales | 0.80% | ~1,485 |
-| Seeds of Destruction | 0.80% | ~1,485 |
-| Vecna Loots! | 0.80% | ~1,485 |
-| Topolah's Tower | 0.80% | ~1,485 |
+| Tall Tales | 0.80% | ~1,486 |
+| Seeds of Destruction | 0.80% | ~1,486 |
+| Vecna Loots! | 0.80% | ~1,486 |
+| Topolah's Tower | 0.80% | ~1,486 |
 | Wet Feet | 0.70% | ~1,536 |
 | Return to the Tomb | 0.70% | ~1,300 |
 | Heatwave | 0.70% | ~1,300 |
@@ -29,18 +29,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.70% | ~1,536 |
 | The Cursed Farmer | 0.70% | ~1,536 |
 | The Mad Wizard | 0.70% | ~1,536 |
-| Pros and CONs | 0.60% | ~1,316 |
+| Pros and CONs | 0.60% | ~1,317 |
 | The Witchlight Carnival | 0.60% | ~1,114 |
-| Hatchlings Underfoot | 0.60% | ~1,316 |
-| Don't Look Up! | 0.60% | ~1,316 |
-| Heavy Burden | 0.60% | ~1,316 |
+| Hatchlings Underfoot | 0.60% | ~1,317 |
+| Don't Look Up! | 0.60% | ~1,317 |
+| Heavy Burden | 0.60% | ~1,317 |
 | The Evacuation of Waterdeep | 0.60% | ~1,114 |
 | The Dread Domain of Tovag | 0.60% | ~1,114 |
-| Beast Mode | 0.60% | ~1,316 |
-| A Mysterious Summons | 0.60% | ~1,316 |
-| The Mists of Ravenloft | 0.60% | ~1,316 |
-| The Dinner Party | 0.60% | ~1,316 |
-| The Botched Kidnapping | 0.60% | ~1,316 |
+| Beast Mode | 0.60% | ~1,317 |
+| A Mysterious Summons | 0.60% | ~1,317 |
+| The Mists of Ravenloft | 0.60% | ~1,317 |
+| The Dinner Party | 0.60% | ~1,317 |
+| The Botched Kidnapping | 0.60% | ~1,317 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,114 |
 | Krux's Speed Run | 0.60% | ~1,114 |
 | Thieves of the Coven | 0.50% | ~928 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,406 (Ranked 53)  
+Progressed: 219,424 (Ranked 53)  
 Completed: 2,158 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,7 +627,7 @@ Completed: 2,158 (0.98%) (Ranked 114)
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
-| 2023-08-06 | 219,406 | 2,158 |
+| 2023-08-06 | 219,424 | 2,158 |
 ## Awards
 Max (Diverse Characters): 5,119  (Ranked 67)  
 Sum: 30,919 (Ranked 38)  
@@ -836,4 +836,4 @@ Diff (max vs sum): 29
 | 2023-08-03 | 4.05 | - | 5,116 | 30,886 |
 | 2023-08-04 | 4.05 | - | 5,116 | 30,897 |
 | 2023-08-05 | 4.05 | - | 5,119 | 30,910 |
-| 2023-08-06 | 4.05 | - | 5,119 | 30,919 |
+| 2023-08-06 | 4.06 | - | 5,119 | 30,919 |

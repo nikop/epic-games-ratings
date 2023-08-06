@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 868)
 | History Major | 0.10% | ~68 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,672 (Ranked 80)  
+Progressed: 67,674 (Ranked 80)  
 Completed: 106 (0.16%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 106 (0.16%) (Ranked 183)
 | 2023-08-03 | 67,602 | 106 |
 | 2023-08-04 | 67,621 | 106 |
 | 2023-08-05 | 67,641 | 106 |
-| 2023-08-06 | 67,672 | 106 |
+| 2023-08-06 | 67,674 | 106 |
 ## Awards
 Max (Great Boss Battles): 2,480  (Ranked 101)  
 Sum: 4,121 (Ranked 140)  

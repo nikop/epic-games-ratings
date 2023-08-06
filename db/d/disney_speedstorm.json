@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 51,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3084,
+  "EOS_Progressed": 3085,
   "EOS_Completed": 141,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 4.57,
   "EosHistory": [
@@ -4135,6 +4135,11 @@
       "Time": "2023-08-06T19:07:58.5116879+00:00",
       "NumProgressed": 3084,
       "NumCompleted": 141
+    },
+    {
+      "Time": "2023-08-06T22:06:33.5506408+00:00",
+      "NumProgressed": 3085,
+      "NumCompleted": 141
     }
   ],
   "TotalAchievements": 24,
@@ -4154,7 +4159,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "11",
@@ -4186,7 +4191,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "15",
@@ -4218,7 +4223,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "19",
@@ -4234,7 +4239,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "20",
@@ -4298,7 +4303,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "6",
@@ -4337,13 +4342,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3084,
+      "Progressed": 3085,
       "Completed": 141
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-06T21:06:15.2750737+00:00",
+  "LastChanged_Achievements": "2023-08-06T22:06:33.5506404+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:54.7430332+00:00",
-  "LastUpdate_Ratings": "2023-08-06T20:59:36.3819907+00:00",
-  "LastUpdate_Achievements": "2023-08-06T21:06:15.2751117+00:00"
+  "LastUpdate_Ratings": "2023-08-06T21:59:52.7598356+00:00",
+  "LastUpdate_Achievements": "2023-08-06T22:06:33.5506864+00:00"
 }

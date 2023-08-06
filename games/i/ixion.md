@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.55 (Ranked 485)  
+Rating: 4.55 (Ranked 486)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -22,10 +22,10 @@ Rating: 4.55 (Ranked 485)
 | Breaking Protocol | 9.00% | ~273 |
 | A Hunk of Junk | 8.00% | ~243 |
 | Man's Best Friend | 6.00% | ~182 |
+| Sightseeing | 6.00% | ~182 |
 | Power Outage | 6.00% | ~182 |
 | Convenient Transport | 6.00% | ~182 |
 | Please Make it Stop! | 6.00% | ~182 |
-| Sightseeing | 5.00% | ~152 |
 | Access Granted | 5.00% | ~152 |
 | Necessary Enhancement | 5.00% | ~152 |
 | From the Past | 5.00% | ~152 |

@@ -10,26 +10,26 @@
 | Orb Gatherer | 31.00% | ~20 |
 | Beast Hunter | 31.00% | ~20 |
 | Space worm! | 31.00% | ~20 |
+| Vanquisher! | 30.00% | ~19 |
 | Orb Collector | 30.00% | ~19 |
+| Snakehead! | 30.00% | ~19 |
 | Unmasked! | 30.00% | ~19 |
 | Fly, you fool! | 30.00% | ~19 |
 | Loot, loot! | 30.00% | ~19 |
-| Vanquisher! | 28.00% | ~18 |
 | Beast Knight | 28.00% | ~18 |
 | Twin slayer! | 28.00% | ~18 |
-| Snakehead! | 28.00% | ~18 |
 | Mercenary! | 28.00% | ~18 |
-| God of the Tower! | 25.00% | ~16 |
-| Relic Collector | 25.00% | ~16 |
-| Cartographer | 25.00% | ~16 |
+| God of the Tower! | 27.00% | ~17 |
+| Relic Collector | 27.00% | ~17 |
+| Cartographer | 27.00% | ~17 |
 | Wizard Mastery | 20.00% | ~13 |
 | Rogue Mastery | 17.00% | ~11 |
 | Fighter Mastery | 16.00% | ~10 |
+| Destoy all monsters! | 14.00% | ~9 |
 | Slay the Monster! | 14.00% | ~9 |
 | Gorgonslayer Mastery | 13.00% | ~8 |
 | Built for adventure | 13.00% | ~8 |
 | Collector Mastery | 13.00% | ~8 |
-| Destoy all monsters! | 13.00% | ~8 |
 | True Black Knight | 8.00% | ~5 |
 | Freedom Monster | 8.00% | ~5 |
 | No match for me! | 3.00% | ~2 |

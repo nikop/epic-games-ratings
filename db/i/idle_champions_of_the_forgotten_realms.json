@@ -2,13 +2,13 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 916,
+  "Ranking_Rating": 915,
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.05,
+  "Rating": 4.06,
   "NumberOfRatings": 9041,
   "RatingHistory": [
     {
@@ -5546,6 +5546,12 @@
       "Rating": 4.05,
       "NumberOfAwards": 30919,
       "NumberOfAwardsMax": 5119
+    },
+    {
+      "Time": "2023-08-06T21:59:01.8595891+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30919,
+      "NumberOfAwardsMax": 5119
     }
   ],
   "ReviewsDisabled": false,
@@ -5596,9 +5602,9 @@
       "Count": 3343
     }
   ],
-  "EOS_Progressed": 219406,
+  "EOS_Progressed": 219424,
   "EOS_Completed": 2158,
-  "EOS_NewPlayers": 2207,
+  "EOS_NewPlayers": 2211,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17291,6 +17297,11 @@
       "Time": "2023-08-06T21:01:08.5573844+00:00",
       "NumProgressed": 219406,
       "NumCompleted": 2158
+    },
+    {
+      "Time": "2023-08-06T22:02:15.1026881+00:00",
+      "NumProgressed": 219424,
+      "NumCompleted": 2158
     }
   ],
   "TotalAchievements": 512,
@@ -17302,7 +17313,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8776
+      "UsersEstimate": 8777
     },
     {
       "ID": "objective_completed_10",
@@ -17318,7 +17329,7 @@
       "Name": "Pros and CONs",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "objective_completed_101",
@@ -17374,7 +17385,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "objective_completed_1051",
@@ -17670,7 +17681,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6582
+      "UsersEstimate": 6583
     },
     {
       "ID": "objective_completed_110",
@@ -17734,7 +17745,7 @@
       "Name": "Hatchlings Underfoot",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "objective_completed_1111",
@@ -17774,7 +17785,7 @@
       "Name": "Don\u0027t Look Up!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "objective_completed_1121",
@@ -17918,7 +17929,7 @@
       "Name": "Heavy Burden",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "objective_completed_1152",
@@ -17926,7 +17937,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "objective_completed_1153",
@@ -18006,7 +18017,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "objective_completed_1169",
@@ -18406,7 +18417,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "objective_completed_149",
@@ -18494,7 +18505,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "objective_completed_165",
@@ -18646,7 +18657,7 @@
       "Name": "The Mists of Ravenloft",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "objective_completed_209",
@@ -18718,7 +18729,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "objective_completed_231",
@@ -18750,7 +18761,7 @@
       "Name": "The Botched Kidnapping",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "objective_completed_236",
@@ -21374,7 +21385,7 @@
       "Name": "Topolah\u0027s Tower",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "objective_completed_1391",
@@ -21397,21 +21408,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185680,
+      "Progressed": 185698,
       "Completed": 3063
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219406,
+      "Progressed": 219424,
       "Completed": 2158
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-06T11:58:58.5923816+00:00",
-  "LastChanged_Achievements": "2023-08-06T21:01:08.5573839+00:00",
+  "LastChanged": "2023-08-06T21:59:01.859589+00:00",
+  "LastChanged_Achievements": "2023-08-06T22:02:15.1026876+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-06T20:58:48.5768934+00:00",
-  "LastUpdate_Achievements": "2023-08-06T21:01:08.5598383+00:00"
+  "LastUpdate_Ratings": "2023-08-06T21:59:01.8595896+00:00",
+  "LastUpdate_Achievements": "2023-08-06T22:02:15.1054548+00:00"
 }

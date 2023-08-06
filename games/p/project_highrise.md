@@ -34,8 +34,8 @@
 | Under One Roof | 15.00% | ~48 |
 | Established Fame | 15.00% | ~48 |
 | Cashflow Chief | 15.00% | ~48 |
+| Smooth Operator | 14.00% | ~45 |
 | Starred Dining | 14.00% | ~45 |
-| Smooth Operator | 13.00% | ~41 |
 | Boutique Benefits | 13.00% | ~41 |
 | Terrifically Trashed | 13.00% | ~41 |
 | Thrilled Tenants | 13.00% | ~41 |

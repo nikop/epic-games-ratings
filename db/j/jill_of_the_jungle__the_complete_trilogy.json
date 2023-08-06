@@ -4,7 +4,7 @@
   "ProductSlug": "jill-of-the-jungle-the-complete-trilogy",
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1520,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 6.97,
   "EosHistory": [
@@ -4997,8 +4997,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-08-06T21:03:05.7694967+00:00",
+  "LastChanged_Achievements": "2023-08-06T22:03:31.6671057+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:35.8726048+00:00",
-  "LastUpdate_Ratings": "2023-08-06T20:57:50.9991457+00:00",
-  "LastUpdate_Achievements": "2023-08-06T21:03:05.7695248+00:00"
+  "LastUpdate_Ratings": "2023-08-06T21:58:03.7711822+00:00",
+  "LastUpdate_Achievements": "2023-08-06T22:03:31.667142+00:00"
 }

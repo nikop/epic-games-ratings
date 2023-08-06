@@ -29,7 +29,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 1.00% | ~133 |
 | Warrior | 1.00% | ~133 |
 | Developing Cities | 1.00% | ~133 |
+| Able Difficulty | 1.00% | ~133 |
 | Hanging Gardens | 1.00% | ~133 |
+| Ishtar Gate | 1.00% | ~133 |
 | Lighthouse | 1.00% | ~133 |
 | Oracle | 1.00% | ~133 |
 | Pyramids | 1.00% | ~133 |
@@ -43,8 +45,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.90% | ~120 |
 | Wise | 0.90% | ~120 |
 | Strong Cities | 0.90% | ~120 |
-| Able Difficulty | 0.90% | ~120 |
-| Ishtar Gate | 0.90% | ~120 |
 | Learn to Play 1 | 0.90% | ~120 |
 | Christianity | 0.90% | ~120 |
 | Carthaginian Paganism | 0.90% | ~120 |
@@ -55,6 +55,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.80% | ~106 |
 | Colossus | 0.80% | ~106 |
 | Great Ziggurat | 0.80% | ~106 |
+| Musaeum | 0.80% | ~106 |
 | Necropolis | 0.80% | ~106 |
 | Manichaeism | 0.80% | ~106 |
 | Regicide | 0.70% | ~93 |
@@ -62,7 +63,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 0.70% | ~93 |
 | Just Difficulty | 0.70% | ~93 |
 | Apadana | 0.70% | ~93 |
-| Musaeum | 0.70% | ~93 |
 | Learn to Play 2 | 0.70% | ~93 |
 | Egyptian Paganism | 0.70% | ~93 |
 | Intercessor | 0.60% | ~80 |
@@ -74,20 +74,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 0.60% | ~80 |
 | Mythology | 0.60% | ~80 |
 | Points Victory | 0.60% | ~80 |
-| Hanging Gardens in Babylon | 0.50% | ~66 |
-| Beloved | 0.50% | ~66 |
-| Conqueror | 0.50% | ~66 |
-| Mighty | 0.50% | ~66 |
-| Good Difficulty | 0.50% | ~66 |
-| Patrons | 0.50% | ~66 |
-| Statesmen | 0.50% | ~66 |
-| Traders | 0.50% | ~66 |
-| Temple of Solomon | 0.50% | ~66 |
-| Via Recta Souk | 0.50% | ~66 |
-| Persian Paganism | 0.50% | ~66 |
-| Building Wonders | 0.50% | ~66 |
-| Phalangite | 0.50% | ~66 |
-| Double Victory | 0.50% | ~66 |
+| Hanging Gardens in Babylon | 0.50% | ~67 |
+| Beloved | 0.50% | ~67 |
+| Conqueror | 0.50% | ~67 |
+| Mighty | 0.50% | ~67 |
+| Good Difficulty | 0.50% | ~67 |
+| Patrons | 0.50% | ~67 |
+| Statesmen | 0.50% | ~67 |
+| Traders | 0.50% | ~67 |
+| Temple of Solomon | 0.50% | ~67 |
+| Via Recta Souk | 0.50% | ~67 |
+| Persian Paganism | 0.50% | ~67 |
+| Building Wonders | 0.50% | ~67 |
+| Phalangite | 0.50% | ~67 |
+| Double Victory | 0.50% | ~67 |
 | Devout | 0.40% | ~53 |
 | Invincible | 0.40% | ~53 |
 | Lion | 0.40% | ~53 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,299 (Ranked 117)  
+Progressed: 13,301 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,7 +411,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-03 | 13,260 | 5 |
 | 2023-08-04 | 13,269 | 5 |
 | 2023-08-05 | 13,281 | 5 |
-| 2023-08-06 | 13,299 | 5 |
+| 2023-08-06 | 13,301 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,786 (Ranked 206)  

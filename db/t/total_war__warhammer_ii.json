@@ -3,7 +3,7 @@
   "Name": "Total War: WARHAMMER II",
   "ProductSlug": "total-war-warhammer-ii",
   "Ranking_Rating": 198,
-  "Ranking_Popularity": 74,
+  "Ranking_Popularity": 73,
   "Ranking_PopularitySum": 65,
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 251,
@@ -4517,18 +4517,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 13997,
       "NumberOfAwardsMax": 4459
+    },
+    {
+      "Time": "2023-08-06T21:58:25.3997181+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 14001,
+      "NumberOfAwardsMax": 4463
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13997,
-  "NumberOfAwardsMax": 4459,
+  "NumberOfAwards": 14001,
+  "NumberOfAwardsMax": 4463,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4459
+      "Count": 4463
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4614,8 +4620,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2023-08-06T13:00:44.8918062+00:00",
+  "LastChanged": "2023-08-06T21:58:25.399718+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:54.397885+00:00",
-  "LastUpdate_Ratings": "2023-08-06T20:58:12.9169555+00:00",
-  "LastUpdate_Achievements": "2023-08-06T21:05:29.8004346+00:00"
+  "LastUpdate_Ratings": "2023-08-06T21:58:25.3997188+00:00",
+  "LastUpdate_Achievements": "2023-08-06T22:05:47.4180211+00:00"
 }

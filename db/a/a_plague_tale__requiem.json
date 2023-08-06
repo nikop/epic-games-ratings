@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -368,7 +368,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12652,
+  "EOS_Progressed": 12653,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 1,
@@ -6828,6 +6828,11 @@
       "Time": "2023-08-06T19:04:40.864634+00:00",
       "NumProgressed": 12652,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-08-06T22:04:14.629961+00:00",
+      "NumProgressed": 12653,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 35,
@@ -6839,7 +6844,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11640
+      "UsersEstimate": 11641
     },
     {
       "ID": "ACH_02",
@@ -6855,7 +6860,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 9236
+      "UsersEstimate": 9237
     },
     {
       "ID": "ACH_04",
@@ -6863,7 +6868,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8730
+      "UsersEstimate": 8731
     },
     {
       "ID": "ACH_05",
@@ -6871,7 +6876,7 @@
       "Name": "In our Wake",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 8477
+      "UsersEstimate": 8478
     },
     {
       "ID": "ACH_06",
@@ -6879,7 +6884,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 8097
+      "UsersEstimate": 8098
     },
     {
       "ID": "ACH_07",
@@ -6895,7 +6900,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 7591
+      "UsersEstimate": 7592
     },
     {
       "ID": "ACH_09",
@@ -6903,7 +6908,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 7085
+      "UsersEstimate": 7086
     },
     {
       "ID": "ACH_10",
@@ -6911,7 +6916,7 @@
       "Name": "Bloodline",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 6579
+      "UsersEstimate": 6580
     },
     {
       "ID": "ACH_11",
@@ -6927,7 +6932,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 5693
+      "UsersEstimate": 5694
     },
     {
       "ID": "ACH_13",
@@ -6959,7 +6964,7 @@
       "Name": "King Hugo",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3036
+      "UsersEstimate": 3037
     },
     {
       "ID": "ACH_17",
@@ -6967,7 +6972,7 @@
       "Name": "Knights!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "ACH_18",
@@ -7055,7 +7060,7 @@
       "Name": "Alchemist",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8603
+      "UsersEstimate": 8604
     },
     {
       "ID": "ACH_29",
@@ -7087,7 +7092,7 @@
       "Name": "Perfect shot",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2783
+      "UsersEstimate": 2784
     },
     {
       "ID": "ACH_33",
@@ -7118,7 +7123,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12652,
+      "Progressed": 12653,
       "Completed": 40
     }
   ],
@@ -7126,8 +7131,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-08-06T21:03:38.7759426+00:00",
+  "LastChanged_Achievements": "2023-08-06T22:04:14.6299605+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:22.662799+00:00",
-  "LastUpdate_Ratings": "2023-08-06T21:00:02.8250511+00:00",
-  "LastUpdate_Achievements": "2023-08-06T21:03:38.7759926+00:00"
+  "LastUpdate_Ratings": "2023-08-06T22:00:17.8938739+00:00",
+  "LastUpdate_Achievements": "2023-08-06T22:04:14.6300248+00:00"
 }

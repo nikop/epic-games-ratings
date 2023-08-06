@@ -308,9 +308,9 @@
       "ID": "ACH_END_ALL_TUTORIALS",
       "SetID": "al4k4nh",
       "Name": "Virtual Electrician",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_END_ALL_WORKBENCH_MISSIONS",
@@ -491,8 +491,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-06T21:05:39.8178556+00:00",
+  "LastChanged_Achievements": "2023-08-06T22:05:57.6833329+00:00",
   "LastUpdate_AppInfo": "2023-08-02T16:57:18.5596155+00:00",
-  "LastUpdate_Ratings": "2023-08-06T20:57:49.6372387+00:00",
-  "LastUpdate_Achievements": "2023-08-06T21:05:39.8178728+00:00"
+  "LastUpdate_Ratings": "2023-08-06T21:58:02.345509+00:00",
+  "LastUpdate_Achievements": "2023-08-06T22:05:57.6833538+00:00"
 }

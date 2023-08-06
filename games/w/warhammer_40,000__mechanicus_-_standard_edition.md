@@ -5,14 +5,14 @@ Rating: 4.43 (Ranked 658)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~54,875 |
-| This is only the beginning | 19.00% | ~41,705 |
-| Knowledge is power | 12.00% | ~26,340 |
-| Power Ranger | 9.00% | ~19,755 |
-| Galvanic Rifle | 9.00% | ~19,755 |
-| Taser Goad | 9.00% | ~19,755 |
-| Radium Ready | 9.00% | ~19,755 |
-| Half a cog | 9.00% | ~19,755 |
+| No aid from the Omnissiah | 25.00% | ~54,876 |
+| This is only the beginning | 19.00% | ~41,706 |
+| Knowledge is power | 12.00% | ~26,341 |
+| Power Ranger | 9.00% | ~19,756 |
+| Galvanic Rifle | 9.00% | ~19,756 |
+| Taser Goad | 9.00% | ~19,756 |
+| Radium Ready | 9.00% | ~19,756 |
+| Half a cog | 9.00% | ~19,756 |
 | Watch them crumble | 6.00% | ~13,170 |
 | Competent Cohort | 4.00% | ~8,780 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,780 |
@@ -26,21 +26,21 @@ Rating: 4.43 (Ranked 658)
 | Architect Abortion | 2.00% | ~4,390 |
 | Cohortus Maximus | 0.80% | ~1,756 |
 | Mother of Xenarites | 0.40% | ~878 |
-| False God | 0.30% | ~658 |
+| False God | 0.30% | ~659 |
 | Hard | 0.20% | ~439 |
 | Sensory overload | 0.20% | ~439 |
 | Transonic Blur | 0.20% | ~439 |
-| Sterile Perfection | 0.10% | ~219 |
-| Impossible | 0.10% | ~219 |
-| Melee Machine | 0.10% | ~219 |
-| AoE-phobia | 0.10% | ~219 |
-| Zero to Hero | 0.10% | ~219 |
-| No Omnissian Guidance | 0.10% | ~219 |
-| Not the Men-of-Iron | 0.10% | ~219 |
-| Perma-live | 0.10% | ~219 |
-| Purge the Heretek | 0.10% | ~219 |
+| Sterile Perfection | 0.10% | ~220 |
+| Impossible | 0.10% | ~220 |
+| Melee Machine | 0.10% | ~220 |
+| AoE-phobia | 0.10% | ~220 |
+| Zero to Hero | 0.10% | ~220 |
+| No Omnissian Guidance | 0.10% | ~220 |
+| Not the Men-of-Iron | 0.10% | ~220 |
+| Perma-live | 0.10% | ~220 |
+| Purge the Heretek | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,499 (Ranked 52)  
+Progressed: 219,506 (Ranked 52)  
 Completed: 4 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 4 (0.00%) (Ranked 251)
 | 2023-08-03 | 219,210 | 4 |
 | 2023-08-04 | 219,296 | 4 |
 | 2023-08-05 | 219,387 | 4 |
-| 2023-08-06 | 219,499 | 4 |
+| 2023-08-06 | 219,506 | 4 |
 ## Awards
 Max (Highly Recommended): 280  (Ranked 240)  
 Sum: 2,124 (Ranked 193)  

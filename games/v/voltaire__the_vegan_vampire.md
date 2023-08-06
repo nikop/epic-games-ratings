@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | So it begins | 94.00% | ~102 |
-| Good to grow | 61.00% | ~66 |
+| Good to grow | 62.00% | ~68 |
 | Fashionista | 41.00% | ~45 |
 | Irrigation not irritation | 37.00% | ~40 |
 | Graduated | 33.00% | ~36 |
-| Night Shift | 23.00% | ~25 |
+| Night Shift | 24.00% | ~26 |
 | Shine bright | 14.00% | ~15 |
 | Ay ay yarrr! | 12.00% | ~13 |
 | It's about the journey | 12.00% | ~13 |
@@ -24,10 +24,10 @@
 | It's a bug's life | 3.00% | ~3 |
 | Homecoming | 2.00% | ~2 |
 | Who let the pets out? | 2.00% | ~2 |
+| I am Root! | 2.00% | ~2 |
 | Tururururu! | 2.00% | ~2 |
 | Zap! | 2.00% | ~2 |
 | Veggie Master | 0.90% | ~1 |
-| I am Root! | 0.90% | ~1 |
 | Yeehaw! | 0.90% | ~1 |
 | Yeetus Deletus | 0.90% | ~1 |
 | Best in the field | 0.90% | ~1 |

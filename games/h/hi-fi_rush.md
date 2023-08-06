@@ -26,12 +26,12 @@ Rating: 4.87 (Ranked 24)
 | Headliner | 3.00% | ~113 |
 | Time to pay up! | 3.00% | ~113 |
 | Who's the boss now? | 3.00% | ~113 |
+| I have to read these things? | 3.00% | ~113 |
 | You must like calling me in, Chai | 3.00% | ~113 |
 | Out in a puff of smoke | 3.00% | ~113 |
 | Perfecter Parry-er! | 3.00% | ~113 |
 | I look cool. But I can look COOLER. | 3.00% | ~113 |
 | Well that was a rush! | 2.00% | ~75 |
-| I have to read these things? | 2.00% | ~75 |
 | Beat-hit mania | 2.00% | ~75 |
 | That's a lot of junk metal… | 2.00% | ~75 |
 | There's such a thing as TOO helpful | 2.00% | ~75 |

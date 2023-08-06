@@ -6,17 +6,17 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,209 |
-| Biggest Communism Builder | 24.00% | ~30,179 |
-| The World's Most Laughable Centrist | 20.00% | ~25,149 |
-| Il Coppo Del'Arte! | 18.00% | ~22,634 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,119 |
+| Goodest Of The Good Cops | 28.00% | ~35,210 |
+| Biggest Communism Builder | 24.00% | ~30,180 |
+| The World's Most Laughable Centrist | 20.00% | ~25,150 |
+| Il Coppo Del'Arte! | 18.00% | ~22,635 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,120 |
 | Hyperstellar Law Official | 15.00% | ~18,862 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,604 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,347 |
-| Gurdi-Ball Is Lit | 13.00% | ~16,347 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,605 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,348 |
+| Gurdi-Ball Is Lit | 13.00% | ~16,348 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,832 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,317 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,318 |
 | Unbelievably Boring **** | 8.00% | ~10,060 |
 | Enemy Of The Physical Realm | 8.00% | ~10,060 |
 | Hardie's Heroes | 6.00% | ~7,545 |
@@ -28,8 +28,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Expert Advanced Remote Viewer | 2.00% | ~2,515 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,515 |
 | Wheel of Pleasure and Light | 2.00% | ~2,515 |
-| Massive Torque Dork | 1.00% | ~1,257 |
-| Avowed Inframaterialist | 1.00% | ~1,257 |
+| Massive Torque Dork | 1.00% | ~1,258 |
+| Avowed Inframaterialist | 1.00% | ~1,258 |
 | Real Musor | 0.90% | ~1,132 |
 | Baddest Brow in Town | 0.80% | ~1,006 |
 | Committee of la Responsabilité | 0.80% | ~1,006 |
@@ -38,16 +38,16 @@ Number of Ratings: 1,611  (23.09.2022)
 | Leopard Mindset | 0.60% | ~754 |
 | Modus: Mullen | 0.30% | ~377 |
 | Palerunner | 0.30% | ~377 |
-| Cause a ****storm | 0.20% | ~251 |
-| True Detective | 0.20% | ~251 |
-| The Icebreaker | 0.20% | ~251 |
+| Cause a ****storm | 0.20% | ~252 |
+| True Detective | 0.20% | ~252 |
+| The Icebreaker | 0.20% | ~252 |
 | The Most Honourable Cop in The Land | 0.10% | ~126 |
 | Gluten-Free Topping Pie | 0.10% | ~126 |
 | Get Kim to Wear *The Jacket* | 0.10% | ~126 |
 | Medal dispenser | 0.10% | ~126 |
 | What body? | 0.10% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125,746 (Ranked 66)  
+Progressed: 125,750 (Ranked 66)  
 Completed: 27 (0.02%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 27 (0.02%) (Ranked 230)
 | 2023-08-03 | 125,472 | 27 |
 | 2023-08-04 | 125,562 | 27 |
 | 2023-08-05 | 125,656 | 27 |
-| 2023-08-06 | 125,746 | 27 |
+| 2023-08-06 | 125,750 | 27 |
 ## Awards
 Max (Character Customization): 715  (Ranked 162)  
 Sum: 1,077 (Ranked 233)  

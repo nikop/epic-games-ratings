@@ -13,24 +13,24 @@
 | Fitness professional | 77.00% | ~178 |
 | First defeat | 77.00% | ~178 |
 | Depressed visitor | 76.00% | ~176 |
-| Neurotrainer – power gainer! | 75.00% | ~173 |
+| Neurotrainer – power gainer! | 76.00% | ~176 |
 | Employee of the week | 75.00% | ~173 |
-| Your own amateur gym | 72.00% | ~166 |
+| Your own amateur gym | 73.00% | ~169 |
 | Run K, run! | 72.00% | ~166 |
 | Hello, world! | 68.00% | ~157 |
+| Fighting is cool | 67.00% | ~155 |
 | No bullying more | 67.00% | ~155 |
-| Fighting is cool | 66.00% | ~152 |
-| Pal of your father? | 64.00% | ~148 |
-| Employee of the month | 62.00% | ~143 |
+| Pal of your father? | 65.00% | ~150 |
+| Employee of the month | 63.00% | ~146 |
 | Spirit of the past | 61.00% | ~141 |
 | Law student | 59.00% | ~136 |
 | Little hacker | 58.00% | ~134 |
 | Intriguing candies | 58.00% | ~134 |
 | Workout professional | 56.00% | ~129 |
 | It's good to be alive | 56.00% | ~129 |
+| Own four walls | 56.00% | ~129 |
+| Handyman | 55.00% | ~127 |
 | Champion – starter pack | 55.00% | ~127 |
-| Own four walls | 55.00% | ~127 |
-| Handyman | 54.00% | ~125 |
 | Employee of the year | 54.00% | ~125 |
 | Fight for life | 53.00% | ~122 |
 | Legal courier | 51.00% | ~118 |
@@ -42,15 +42,15 @@
 | Fight is life | 42.00% | ~97 |
 | Mysterious voice | 42.00% | ~97 |
 | Your own way | 41.00% | ~95 |
-| Get out of my apartment! | 37.00% | ~85 |
+| Get out of my apartment! | 38.00% | ~88 |
+| Responsible approach | 37.00% | ~85 |
+| GYM professional | 36.00% | ~83 |
 | Champion – no way back | 36.00% | ~83 |
 | Underground dwellers | 36.00% | ~83 |
-| Responsible approach | 36.00% | ~83 |
-| GYM professional | 35.00% | ~81 |
+| Deal with life | 35.00% | ~81 |
 | Poisoned fighter | 35.00% | ~81 |
-| Deal with life | 34.00% | ~79 |
-| Mom got better | 33.00% | ~76 |
-| The die is cast | 33.00% | ~76 |
+| Mom got better | 34.00% | ~79 |
+| The die is cast | 34.00% | ~79 |
 | Seashell hunter | 33.00% | ~76 |
 | Gang wrangler | 31.00% | ~72 |
 | Problems of cyborgs | 31.00% | ~72 |
@@ -63,9 +63,9 @@
 | Not little hacker | 29.00% | ~67 |
 | Absolute Champion! | 29.00% | ~67 |
 | Careerist | 29.00% | ~67 |
+| Anyone can resist | 29.00% | ~67 |
 | The heart of the Resistance | 29.00% | ~67 |
 | Family comes first | 28.00% | ~65 |
-| Anyone can resist | 28.00% | ~65 |
 | Trap disarmed | 27.00% | ~62 |
 | Silver’s past | 25.00% | ~58 |
 | Better cooking at home | 25.00% | ~58 |

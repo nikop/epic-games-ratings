@@ -43,9 +43,9 @@ Rating: 4.44 (Ranked 644)
 | It'll Buff Right Out | 0.90% | ~31 |
 | Road Rage | 0.90% | ~31 |
 | Don't hold your breath | 0.90% | ~31 |
+| Strategist | 0.80% | ~27 |
 | Shipbreaker | 0.80% | ~27 |
 | Sink or Swim | 0.80% | ~27 |
-| Strategist | 0.70% | ~24 |
 | Burn after reading | 0.70% | ~24 |
 | Operation Foxley | 0.70% | ~24 |
 | From Paris with Love | 0.60% | ~21 |
