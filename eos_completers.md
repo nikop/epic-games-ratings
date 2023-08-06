@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.92% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.94% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 33.33% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
@@ -35,12 +35,12 @@
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
 | 34 | [Ravenlok](games/r/ravenlok.md) | 7.33% |
 | 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.10% |
-| 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.99% |
+| 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.98% |
 | 37 | [Scorn](games/s/scorn.md) | 6.97% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.90% |
 | 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 40 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.22% |
+| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.20% |
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 6.03% |
 | 43 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
 | 44 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
@@ -50,16 +50,16 @@
 | 48 | [JARS](games/j/jars.md) | 4.76% |
 | 49 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.71% |
 | 50 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
-| 51 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
-| 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.51% |
+| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.57% |
+| 52 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 53 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.24% |
 | 54 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.00% |
-| 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
+| 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.71% |
 | 57 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
-| 59 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.49% |
-| 60 | [Doodle God](games/d/doodle_god.md) | 3.48% |
+| 59 | [Doodle God](games/d/doodle_god.md) | 3.48% |
+| 59 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.48% |
 | 61 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
 | 62 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
 | 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.12% |
@@ -216,14 +216,14 @@
 | 210 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 215 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 215 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
-| 215 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.05% |
 | 215 | [High On Life](games/h/high_on_life.md) | 0.05% |
 | 215 | [House Party](games/h/house_party.md) | 0.05% |
 | 215 | [Saints Row](games/s/saints_row.md) | 0.05% |
-| 221 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
-| 221 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
-| 221 | [Old World](games/o/old_world.md) | 0.04% |
-| 221 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
+| 220 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 220 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
+| 220 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
+| 220 | [Old World](games/o/old_world.md) | 0.04% |
+| 220 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
 | 225 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
 | 225 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.03% |
 | 225 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
