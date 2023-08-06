@@ -26,8 +26,8 @@
 | Ancient Nemesis | 5.00% | ~4 |
 | Raider Mastery | 5.00% | ~4 |
 | Traveler Mastery | 5.00% | ~4 |
+| The Plot Thickens | 5.00% | ~4 |
 | Warden Mastery | 4.00% | ~3 |
-| The Plot Thickens | 4.00% | ~3 |
 | The False Prophet | 4.00% | ~3 |
 | Sealed Once Again | 4.00% | ~3 |
 | ACHOO! | 4.00% | ~3 |

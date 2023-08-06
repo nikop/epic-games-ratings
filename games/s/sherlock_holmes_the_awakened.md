@@ -20,7 +20,7 @@ Rating: 4.67 (Ranked 257)
 | Sticky Fingers | 48.00% | ~283 |
 | Knives Out | 48.00% | ~283 |
 | Land, Ho! | 48.00% | ~283 |
-| No Man Is An Island | 46.00% | ~271 |
+| No Man Is An Island | 47.00% | ~277 |
 | At Wits' End | 46.00% | ~271 |
 | Fhtagn! | 44.00% | ~260 |
 | Bookworm | 43.00% | ~254 |

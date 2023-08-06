@@ -1,7 +1,7 @@
 # The Last of Us™ Part I
 [Store](https://store.epicgames.com/en-US/p/the-last-of-us-part-1)  
 [View Rawdata](../../db/t/the_last_of_us™_part_i.json)  
-Rating: 4.16 (Ranked 876)  
+Rating: 4.17 (Ranked 873)  
 ## Awards
 Max (Great Boss Battles): 133  (Ranked 307)  
 Sum: 133 (Ranked 401)  
@@ -90,3 +90,4 @@ Diff (max vs sum): -94
 | 2023-07-29 | 4.16 | 130 | 130 |
 | 2023-08-04 | 4.16 | 132 | 132 |
 | 2023-08-05 | 4.16 | 133 | 133 |
+| 2023-08-06 | 4.17 | 133 | 133 |

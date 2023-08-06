@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2460,
+  "EOS_Progressed": 2462,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
@@ -2393,6 +2393,11 @@
       "Time": "2023-08-06T13:06:16.6104559+00:00",
       "NumProgressed": 2460,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-06T18:03:42.0319843+00:00",
+      "NumProgressed": 2462,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2476,7 +2481,7 @@
       "Name": "Stronger together",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "THE_END",
@@ -2492,7 +2497,7 @@
       "Name": "Transmission",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -2507,7 +2512,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2460,
+      "Progressed": 2462,
       "Completed": 6
     }
   ],
@@ -2515,8 +2520,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-06T17:03:35.2089372+00:00",
+  "LastChanged_Achievements": "2023-08-06T18:03:42.0319838+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:14.6736955+00:00",
-  "LastUpdate_Ratings": "2023-08-06T16:59:46.9914002+00:00",
-  "LastUpdate_Achievements": "2023-08-06T17:03:35.2089586+00:00"
+  "LastUpdate_Ratings": "2023-08-06T17:59:49.7646239+00:00",
+  "LastUpdate_Achievements": "2023-08-06T18:03:42.03201+00:00"
 }

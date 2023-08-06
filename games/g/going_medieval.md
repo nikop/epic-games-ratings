@@ -10,7 +10,7 @@ Number of Ratings: 706  (23.09.2022)
 | Having A Field Day | 73.00% | ~3,738 |
 | Reap What You Sow | 70.00% | ~3,585 |
 | The First Day | 68.00% | ~3,482 |
-| Green Thumb | 65.00% | ~3,329 |
+| Green Thumb | 66.00% | ~3,380 |
 | Novice Researcher | 65.00% | ~3,329 |
 | Putting Food on the Table | 60.00% | ~3,073 |
 | Home Cooked Meal | 56.00% | ~2,868 |

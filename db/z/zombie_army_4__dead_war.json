@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1905,9 +1905,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43208,
+  "EOS_Progressed": 43209,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5680,6 +5680,11 @@
       "Time": "2023-08-06T17:04:59.8099189+00:00",
       "NumProgressed": 43208,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-08-06T18:05:04.797736+00:00",
+      "NumProgressed": 43209,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -5731,7 +5736,7 @@
       "Name": "Bad Blood",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7345
+      "UsersEstimate": 7346
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_NIGHTMARE",
@@ -5747,7 +5752,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12098
+      "UsersEstimate": 12099
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -5763,7 +5768,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17715
+      "UsersEstimate": 17716
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -5795,7 +5800,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 16851
+      "UsersEstimate": 16852
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -5819,7 +5824,7 @@
       "Name": "Something wicked this way comes",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2592
+      "UsersEstimate": 2593
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_FINAL_DEPARTURE",
@@ -5843,7 +5848,7 @@
       "Name": "Not today you won\u0027t",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2592
+      "UsersEstimate": 2593
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_RURAL_COMPOUND",
@@ -5851,7 +5856,7 @@
       "Name": "Take a little bit of Italy with you",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2592
+      "UsersEstimate": 2593
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_TRAIN_STATION",
@@ -5867,7 +5872,7 @@
       "Name": "Staring at Shadows",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2592
+      "UsersEstimate": 2593
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_VENICE",
@@ -5875,7 +5880,7 @@
       "Name": "I told you we should have gone to the beach",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2592
+      "UsersEstimate": 2593
     },
     {
       "ID": "SE_COMPLETE_MILAN",
@@ -5883,7 +5888,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26789
+      "UsersEstimate": 26790
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -5915,7 +5920,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13394
+      "UsersEstimate": 13395
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -5931,7 +5936,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7777
+      "UsersEstimate": 7778
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -5955,7 +5960,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13394
+      "UsersEstimate": 13395
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -5971,7 +5976,7 @@
       "Name": "Hoarder",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2592
+      "UsersEstimate": 2593
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_A_ZOMBIE_SELF_RESURRECTION",
@@ -5987,7 +5992,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18147
+      "UsersEstimate": 18148
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -6035,7 +6040,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12962
+      "UsersEstimate": 12963
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -6091,7 +6096,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28517
+      "UsersEstimate": 28518
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -6107,7 +6112,7 @@
       "Name": "Weapons expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7345
+      "UsersEstimate": 7346
     },
     {
       "ID": "SE_OPEN_EVERY_HIDDEN_CRATE_IN_HORDE",
@@ -6147,7 +6152,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 28085
+      "UsersEstimate": 28086
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -6203,7 +6208,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7777
+      "UsersEstimate": 7778
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -6218,15 +6223,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43208,
+      "Progressed": 43209,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-08-04T19:01:46.6396122+00:00",
-  "LastChanged_Achievements": "2023-08-06T17:04:59.8099185+00:00",
+  "LastChanged_Achievements": "2023-08-06T18:05:04.7977354+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:51.0665096+00:00",
-  "LastUpdate_Ratings": "2023-08-06T17:00:28.1981248+00:00",
-  "LastUpdate_Achievements": "2023-08-06T17:04:59.8099843+00:00"
+  "LastUpdate_Ratings": "2023-08-06T18:00:28.3786312+00:00",
+  "LastUpdate_Achievements": "2023-08-06T18:05:04.7978129+00:00"
 }

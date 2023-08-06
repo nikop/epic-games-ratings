@@ -38,7 +38,7 @@
 | Escaped from a big trouble | 48.00% | ~110 |
 | Now you are worthy | 45.00% | ~103 |
 | No blades in the gym | 44.00% | ~101 |
-| Guiding on the right path | 43.00% | ~98 |
+| Guiding on the right path | 44.00% | ~101 |
 | Fight is life | 42.00% | ~96 |
 | Mysterious voice | 41.00% | ~94 |
 | Your own way | 41.00% | ~94 |

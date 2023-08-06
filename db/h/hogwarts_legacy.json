@@ -5884,10 +5884,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 40520,
       "NumberOfAwardsMax": 21534
+    },
+    {
+      "Time": "2023-08-06T17:58:03.266785+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40521,
+      "NumberOfAwardsMax": 21534
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40520,
+  "NumberOfAwards": 40521,
   "NumberOfAwardsMax": 21534,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5961,12 +5967,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 576
+      "Count": 577
     }
   ],
-  "EOS_Progressed": 289524,
+  "EOS_Progressed": 289527,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 567,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -17639,6 +17645,11 @@
       "Time": "2023-08-06T17:05:10.8502544+00:00",
       "NumProgressed": 289524,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-08-06T18:05:15.3031975+00:00",
+      "NumProgressed": 289527,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 45,
@@ -17714,7 +17725,7 @@
       "Name": "Beast Friends",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17371
+      "UsersEstimate": 17372
     },
     {
       "ID": "PFA_18",
@@ -17746,7 +17757,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5790
+      "UsersEstimate": 5791
     },
     {
       "ID": "PFA_21",
@@ -17770,7 +17781,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28952
+      "UsersEstimate": 28953
     },
     {
       "ID": "PFA_24",
@@ -17810,7 +17821,7 @@
       "Name": "Put Down Roots",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5790
+      "UsersEstimate": 5791
     },
     {
       "ID": "PFA_29",
@@ -17826,7 +17837,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5790
+      "UsersEstimate": 5791
     },
     {
       "ID": "PFA_30",
@@ -17882,7 +17893,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5790
+      "UsersEstimate": 5791
     },
     {
       "ID": "PFA_37",
@@ -17994,7 +18005,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28952
+      "UsersEstimate": 28953
     },
     {
       "ID": "PFA_9",
@@ -18009,16 +18020,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289524,
+      "Progressed": 289527,
       "Completed": 442
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-06T16:57:59.8476751+00:00",
-  "LastChanged_Achievements": "2023-08-06T17:05:10.8502539+00:00",
+  "LastChanged": "2023-08-06T17:58:03.2667849+00:00",
+  "LastChanged_Achievements": "2023-08-06T18:05:15.3031969+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.8672159+00:00",
-  "LastUpdate_Ratings": "2023-08-06T16:57:59.8476757+00:00",
-  "LastUpdate_Achievements": "2023-08-06T17:05:10.8503575+00:00"
+  "LastUpdate_Ratings": "2023-08-06T17:58:03.2667856+00:00",
+  "LastUpdate_Achievements": "2023-08-06T18:05:15.3033085+00:00"
 }

@@ -122,6 +122,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.30% | ~40 |
 | Landowners | 0.30% | ~40 |
 | Learn to Play 4 | 0.30% | ~40 |
+| Egypt | 0.30% | ~40 |
 | Rome | 0.30% | ~40 |
 | One True Faith | 0.30% | ~40 |
 | Assyrian Paganism | 0.30% | ~40 |
@@ -143,7 +144,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Nenikekamen | 0.20% | ~27 |
 | Cao'an | 0.20% | ~27 |
 | Learn to Play 5 | 0.20% | ~27 |
-| Egypt | 0.20% | ~27 |
 | Persia | 0.20% | ~27 |
 | Old World Order | 0.20% | ~27 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~27 |

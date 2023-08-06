@@ -6,26 +6,26 @@ Number of Ratings: 25  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Objective Complete | 97.00% | ~585 |
-| I did it! | 94.00% | ~567 |
-| Learner | 92.00% | ~555 |
-| Economical | 92.00% | ~555 |
-| Devout | 89.00% | ~537 |
+| Objective Complete | 97.00% | ~586 |
+| I did it! | 94.00% | ~568 |
+| Learner | 92.00% | ~556 |
+| Economical | 92.00% | ~556 |
+| Devout | 89.00% | ~538 |
 | The Love Martyr | 87.00% | ~525 |
 | Frugal | 85.00% | ~513 |
-| Dilligent | 83.00% | ~500 |
-| I... I did it? | 81.00% | ~488 |
-| Adored | 76.00% | ~458 |
-| The Hobbyist | 66.00% | ~398 |
-| A Forked Tongue | 56.00% | ~338 |
+| Dilligent | 83.00% | ~501 |
+| I... I did it? | 81.00% | ~489 |
+| Adored | 76.00% | ~459 |
+| The Hobbyist | 66.00% | ~399 |
+| A Forked Tongue | 55.00% | ~332 |
 | Between Two Fires | 52.00% | ~314 |
 | The Admirer | 52.00% | ~314 |
-| Precious | 45.00% | ~271 |
-| Devoted | 42.00% | ~253 |
-| The Farmer | 39.00% | ~235 |
+| Precious | 45.00% | ~272 |
+| Devoted | 42.00% | ~254 |
+| The Farmer | 39.00% | ~236 |
 | Ever After | 37.00% | ~223 |
-| Loyal | 29.00% | ~175 |
 | Mandatory Sacrifice | 29.00% | ~175 |
+| Loyal | 28.00% | ~169 |
 | The Collector | 24.00% | ~145 |
 | All Doors Open | 20.00% | ~121 |
 | Faithful | 11.00% | ~66 |
@@ -40,7 +40,7 @@ Number of Ratings: 25  (23.09.2022)
 | Womanizer | 0.00% | ~0 |
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 603 (Ranked 217)  
+Progressed: 604 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 0 (0.00%) (Ranked 250)
 | 2023-08-01 | 599 | 0 |
 | 2023-08-02 | 601 | 0 |
 | 2023-08-03 | 603 | 0 |
+| 2023-08-06 | 604 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,27 +5,27 @@ Rating: 4.54 (Ranked 498)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~19,047 |
-| Before the Downfall | 93.00% | ~18,075 |
-| Money like Water | 91.00% | ~17,687 |
-| Minimalist | 90.00% | ~17,492 |
-| Builder | 83.00% | ~16,132 |
-| Eraser | 70.00% | ~13,605 |
-| Pocket of Trains | 65.00% | ~12,633 |
-| Inspector | 59.00% | ~11,467 |
-| Going the Distance | 54.00% | ~10,495 |
-| Oil Baron | 42.00% | ~8,163 |
-| Loads-a-Money | 42.00% | ~8,163 |
+| Trevithick's Legacy | 98.00% | ~19,048 |
+| Before the Downfall | 93.00% | ~18,076 |
+| Money like Water | 91.00% | ~17,688 |
+| Minimalist | 90.00% | ~17,493 |
+| Builder | 83.00% | ~16,133 |
+| Eraser | 70.00% | ~13,606 |
+| Pocket of Trains | 65.00% | ~12,634 |
+| Inspector | 59.00% | ~11,468 |
+| Going the Distance | 54.00% | ~10,496 |
+| Oil Baron | 42.00% | ~8,164 |
+| Loads-a-Money | 42.00% | ~8,164 |
 | Helper of the People | 39.00% | ~7,580 |
-| Simplification | 34.00% | ~6,608 |
+| Simplification | 34.00% | ~6,609 |
 | Box of Trains | 33.00% | ~6,414 |
 | Let There be Light | 32.00% | ~6,220 |
 | Hot Water | 31.00% | ~6,025 |
-| Indecisive | 29.00% | ~5,636 |
+| Indecisive | 29.00% | ~5,637 |
 | The scenic route | 27.00% | ~5,248 |
 | Industrialist | 25.00% | ~4,859 |
-| Perfectionist | 23.00% | ~4,470 |
-| Trains over Pipes | 23.00% | ~4,470 |
+| Perfectionist | 23.00% | ~4,471 |
+| Trains over Pipes | 23.00% | ~4,471 |
 | 8K is Enough for Everyone | 22.00% | ~4,276 |
 | Man of Steel | 17.00% | ~3,304 |
 | Room Full of Trains | 12.00% | ~2,332 |
@@ -43,8 +43,8 @@ Rating: 4.54 (Ranked 498)
 | Overdeer | 0.50% | ~97 |
 | Cloud Services | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,436 (Ranked 107)  
-Completed: 35 (0.18%) (Ranked 181)  
+Progressed: 19,437 (Ranked 107)  
+Completed: 35 (0.18%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -151,7 +151,7 @@ Completed: 35 (0.18%) (Ranked 181)
 | 2023-08-03 | 19,392 | 34 |
 | 2023-08-04 | 19,406 | 35 |
 | 2023-08-05 | 19,423 | 35 |
-| 2023-08-06 | 19,436 | 35 |
+| 2023-08-06 | 19,437 | 35 |
 ## Awards
 Max (Great for Beginners): 87  (Ranked 352)  
 Sum: 656 (Ranked 284)  

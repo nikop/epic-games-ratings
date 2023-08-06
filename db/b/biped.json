@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5123,
+  "EOS_Progressed": 5124,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8006,6 +8006,11 @@
       "Time": "2023-08-06T17:06:35.1675449+00:00",
       "NumProgressed": 5123,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T18:06:36.8962827+00:00",
+      "NumProgressed": 5124,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -8073,7 +8078,7 @@
       "Name": "Dense Forest",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "3",
@@ -8081,7 +8086,7 @@
       "Name": "Cactus Vally",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "4",
@@ -8136,7 +8141,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5123,
+      "Progressed": 5124,
       "Completed": 0
     }
   ],
@@ -8144,8 +8149,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-08-06T17:06:35.1675445+00:00",
+  "LastChanged_Achievements": "2023-08-06T18:06:36.8962822+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:48.1970583+00:00",
-  "LastUpdate_Ratings": "2023-08-06T16:58:34.7529769+00:00",
-  "LastUpdate_Achievements": "2023-08-06T17:06:35.1676018+00:00"
+  "LastUpdate_Ratings": "2023-08-06T17:58:36.0818137+00:00",
+  "LastUpdate_Achievements": "2023-08-06T18:06:36.8963458+00:00"
 }
