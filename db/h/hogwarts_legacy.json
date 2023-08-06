@@ -5890,18 +5890,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 40521,
       "NumberOfAwardsMax": 21534
+    },
+    {
+      "Time": "2023-08-06T20:58:04.6411442+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40554,
+      "NumberOfAwardsMax": 21567
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40521,
-  "NumberOfAwardsMax": 21534,
+  "NumberOfAwards": 40554,
+  "NumberOfAwardsMax": 21567,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21534
+      "Count": 21567
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5970,9 +5976,9 @@
       "Count": 577
     }
   ],
-  "EOS_Progressed": 289541,
+  "EOS_Progressed": 289544,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 564,
+  "EOS_NewPlayers": 558,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -17660,6 +17666,11 @@
       "Time": "2023-08-06T20:06:10.0800543+00:00",
       "NumProgressed": 289541,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-08-06T21:05:17.0955394+00:00",
+      "NumProgressed": 289544,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 45,
@@ -17735,7 +17746,7 @@
       "Name": "Beast Friends",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17372
+      "UsersEstimate": 17373
     },
     {
       "ID": "PFA_18",
@@ -17775,7 +17786,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23163
+      "UsersEstimate": 23164
     },
     {
       "ID": "PFA_22",
@@ -17895,7 +17906,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23163
+      "UsersEstimate": 23164
     },
     {
       "ID": "PFA_36",
@@ -18023,23 +18034,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23163
+      "UsersEstimate": 23164
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289541,
+      "Progressed": 289544,
       "Completed": 442
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-06T17:58:03.2667849+00:00",
-  "LastChanged_Achievements": "2023-08-06T20:06:10.0800535+00:00",
+  "LastChanged": "2023-08-06T20:58:04.6411437+00:00",
+  "LastChanged_Achievements": "2023-08-06T21:05:17.0955389+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.8672159+00:00",
-  "LastUpdate_Ratings": "2023-08-06T19:58:33.9415628+00:00",
-  "LastUpdate_Achievements": "2023-08-06T20:06:10.0801845+00:00"
+  "LastUpdate_Ratings": "2023-08-06T20:58:04.6411452+00:00",
+  "LastUpdate_Achievements": "2023-08-06T21:05:17.0956235+00:00"
 }

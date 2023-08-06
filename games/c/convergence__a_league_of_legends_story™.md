@@ -19,19 +19,19 @@ Rating: 4.60 (Ranked 391)
 | Honest Mistake | 17.00% | ~140 |
 | Immaculate Aim | 17.00% | ~140 |
 | The Brass Boss | 17.00% | ~140 |
+| The Betrayer | 16.00% | ~132 |
 | The Wicked Twins | 16.00% | ~132 |
 | Fast Learner | 16.00% | ~132 |
 | Right On Time | 15.00% | ~124 |
 | Like Clockwork | 15.00% | ~124 |
-| The Betrayer | 15.00% | ~124 |
 | The Man Who Shattered Time | 15.00% | ~124 |
 | The Loose Cannon | 15.00% | ~124 |
 | Golem Chaser | 15.00% | ~124 |
 | Check Your Pulse | 15.00% | ~124 |
 | The Family Fortune | 15.00% | ~124 |
 | Treasure Trove | 14.00% | ~116 |
+| Street Style | 14.00% | ~116 |
 | Cartographer | 14.00% | ~116 |
-| Street Style | 13.00% | ~107 |
 | Whiz Kid | 12.00% | ~99 |
 | Good Neighbor | 11.00% | ~91 |
 | Chaincrawler Explorer | 10.00% | ~83 |

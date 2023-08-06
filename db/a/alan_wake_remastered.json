@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60410,
+  "EOS_Progressed": 60412,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 867,
+  "EOS_NewPlayers": 861,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10437,6 +10437,11 @@
       "Time": "2023-08-06T20:05:34.9327528+00:00",
       "NumProgressed": 60410,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-06T21:04:29.2197693+00:00",
+      "NumProgressed": 60412,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10456,7 +10461,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13894
+      "UsersEstimate": 13895
     },
     {
       "ID": "03",
@@ -10464,7 +10469,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13290
+      "UsersEstimate": 13291
     },
     {
       "ID": "04",
@@ -10512,7 +10517,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7853
+      "UsersEstimate": 7854
     },
     {
       "ID": "10",
@@ -10528,7 +10533,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "12",
@@ -10544,7 +10549,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "14",
@@ -10584,7 +10589,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "19",
@@ -10608,7 +10613,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7853
+      "UsersEstimate": 7854
     },
     {
       "ID": "22",
@@ -10672,7 +10677,7 @@
       "Name": "Sound and Fury",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7853
+      "UsersEstimate": 7854
     },
     {
       "ID": "30",
@@ -10704,7 +10709,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7853
+      "UsersEstimate": 7854
     },
     {
       "ID": "34",
@@ -10720,7 +10725,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18123
+      "UsersEstimate": 18124
     },
     {
       "ID": "36",
@@ -10808,7 +10813,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 8457
+      "UsersEstimate": 8458
     },
     {
       "ID": "47",
@@ -10983,21 +10988,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60410,
+      "Progressed": 60412,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23878,
+      "Progressed": 23880,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-06T20:05:34.9327521+00:00",
+  "LastChanged_Achievements": "2023-08-06T21:04:29.2197688+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-06T19:58:53.8054261+00:00",
-  "LastUpdate_Achievements": "2023-08-06T20:05:34.932908+00:00"
+  "LastUpdate_Ratings": "2023-08-06T20:58:19.0386337+00:00",
+  "LastUpdate_Achievements": "2023-08-06T21:04:29.2198679+00:00"
 }

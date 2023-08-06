@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 467)
 | Every man for himself! | 5.00% | ~19 |
 | 1001 Jackalopes | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 372 (Ranked 241)  
+Progressed: 372 (Ranked 242)  
 Completed: 6 (1.61%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |

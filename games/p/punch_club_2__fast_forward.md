@@ -9,53 +9,54 @@
 | Good Person Chip | 85.00% | ~196 |
 | First winning | 84.00% | ~194 |
 | Your first job | 84.00% | ~194 |
-| Old movies enjoyer | 78.00% | ~180 |
+| Old movies enjoyer | 79.00% | ~182 |
+| Fitness professional | 77.00% | ~178 |
 | First defeat | 77.00% | ~178 |
-| Fitness professional | 76.00% | ~176 |
 | Depressed visitor | 76.00% | ~176 |
 | Neurotrainer – power gainer! | 75.00% | ~173 |
 | Employee of the week | 75.00% | ~173 |
 | Your own amateur gym | 72.00% | ~166 |
-| Run K, run! | 71.00% | ~164 |
+| Run K, run! | 72.00% | ~166 |
 | Hello, world! | 68.00% | ~157 |
 | No bullying more | 67.00% | ~155 |
 | Fighting is cool | 66.00% | ~152 |
 | Pal of your father? | 64.00% | ~148 |
+| Employee of the month | 62.00% | ~143 |
 | Spirit of the past | 61.00% | ~141 |
-| Employee of the month | 61.00% | ~141 |
 | Law student | 59.00% | ~136 |
+| Little hacker | 58.00% | ~134 |
 | Intriguing candies | 58.00% | ~134 |
-| Little hacker | 57.00% | ~132 |
+| Workout professional | 56.00% | ~129 |
 | It's good to be alive | 56.00% | ~129 |
-| Workout professional | 55.00% | ~127 |
 | Champion – starter pack | 55.00% | ~127 |
 | Own four walls | 55.00% | ~127 |
 | Handyman | 54.00% | ~125 |
 | Employee of the year | 54.00% | ~125 |
 | Fight for life | 53.00% | ~122 |
-| Legal courier | 50.00% | ~116 |
+| Legal courier | 51.00% | ~118 |
 | Extreme neuropower! | 50.00% | ~116 |
 | Escaped from a big trouble | 48.00% | ~111 |
 | Now you are worthy | 45.00% | ~104 |
+| No blades in the gym | 44.00% | ~102 |
 | Guiding on the right path | 44.00% | ~102 |
-| No blades in the gym | 43.00% | ~99 |
 | Fight is life | 42.00% | ~97 |
 | Mysterious voice | 42.00% | ~97 |
 | Your own way | 41.00% | ~95 |
 | Get out of my apartment! | 37.00% | ~85 |
+| Champion – no way back | 36.00% | ~83 |
+| Underground dwellers | 36.00% | ~83 |
 | Responsible approach | 36.00% | ~83 |
 | GYM professional | 35.00% | ~81 |
-| Champion – no way back | 35.00% | ~81 |
 | Poisoned fighter | 35.00% | ~81 |
-| Underground dwellers | 35.00% | ~81 |
 | Deal with life | 34.00% | ~79 |
 | Mom got better | 33.00% | ~76 |
 | The die is cast | 33.00% | ~76 |
 | Seashell hunter | 33.00% | ~76 |
 | Gang wrangler | 31.00% | ~72 |
+| Problems of cyborgs | 31.00% | ~72 |
 | Undercover robot | 31.00% | ~72 |
-| Problems of cyborgs | 30.00% | ~69 |
 | The last bell ring | 30.00% | ~69 |
+| Another world | 29.00% | ~67 |
 | The lonesome road | 29.00% | ~67 |
 | Keep nature safe | 29.00% | ~67 |
 | Key memories | 29.00% | ~67 |
@@ -63,7 +64,6 @@
 | Absolute Champion! | 29.00% | ~67 |
 | Careerist | 29.00% | ~67 |
 | The heart of the Resistance | 29.00% | ~67 |
-| Another world | 28.00% | ~65 |
 | Family comes first | 28.00% | ~65 |
 | Anyone can resist | 28.00% | ~65 |
 | Trap disarmed | 27.00% | ~62 |

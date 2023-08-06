@@ -30,7 +30,7 @@
 | We Don't Need No Education | 19.00% | ~61 |
 | Get Electrified | 19.00% | ~61 |
 | Rehab Expert | 18.00% | ~57 |
-| Tasty Profits | 17.00% | ~54 |
+| Tasty Profits | 18.00% | ~57 |
 | Under One Roof | 15.00% | ~48 |
 | Established Fame | 15.00% | ~48 |
 | Cashflow Chief | 15.00% | ~48 |
@@ -39,8 +39,8 @@
 | Boutique Benefits | 13.00% | ~41 |
 | Terrifically Trashed | 13.00% | ~41 |
 | Thrilled Tenants | 13.00% | ~41 |
+| 28 Days Later | 11.00% | ~35 |
 | Swimming in Surplus | 11.00% | ~35 |
-| 28 Days Later | 10.00% | ~32 |
 | Master of Puppets | 9.00% | ~29 |
 | First 100 Days | 8.00% | ~26 |
 | Aestheticly Pleased | 8.00% | ~26 |
@@ -94,7 +94,7 @@
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 319 (Ranked 253)  
-Completed: 0 (0.00%) (Ranked 250)  
+Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

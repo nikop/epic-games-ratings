@@ -3,8 +3,8 @@
   "Name": "Nephise: Ascension",
   "ProductSlug": "nephise-ascension-f0ba3d",
   "Ranking_EOS_Progress": 529,
-  "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-09-15T12:00:00+00:00",
@@ -25,9 +25,91 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-06T21:01:16.0438229+00:00",
+  "TotalAchievements": 10,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_DONT_NEED_NO_KEY",
+      "SetID": "d248iai",
+      "Name": "Don\u0027t need no key to unlock this door",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HELLO_KITTY",
+      "SetID": "d248iai",
+      "Name": "Hello kitty!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_I_GOT_YOU_BABE",
+      "SetID": "d248iai",
+      "Name": "I got you, babe!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LET_THERE_BE_LIGHT",
+      "SetID": "d248iai",
+      "Name": "Let there be light!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LOVE_IN_AN_ELEVATOR",
+      "SetID": "d248iai",
+      "Name": "Love in an elevator",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_OOPS",
+      "SetID": "d248iai",
+      "Name": "Oops!",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SIBLING_RIVALRY",
+      "SetID": "d248iai",
+      "Name": "Sibling rivalry",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SKELETON_KEY",
+      "SetID": "d248iai",
+      "Name": "Skeleton key",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_THIS_IS_THE_WAY",
+      "SetID": "d248iai",
+      "Name": "This is the way, step inside...",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WAY_TO_GO",
+      "SetID": "d248iai",
+      "Name": "Way to go!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "d248iai",
@@ -37,8 +119,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-06T10:02:05.1959472+00:00",
-  "LastChanged_Achievements": "2023-08-06T20:02:24.5691564+00:00",
+  "LastChanged_Achievements": "2023-08-06T21:01:16.0438212+00:00",
   "LastUpdate_AppInfo": "2023-08-06T09:57:01.8447402+00:00",
-  "LastUpdate_Ratings": "2023-08-06T19:57:07.8431616+00:00",
-  "LastUpdate_Achievements": "2023-08-06T20:02:24.5691589+00:00"
+  "LastUpdate_Ratings": "2023-08-06T20:56:56.0874033+00:00",
+  "LastUpdate_Achievements": "2023-08-06T21:01:16.0451178+00:00"
 }

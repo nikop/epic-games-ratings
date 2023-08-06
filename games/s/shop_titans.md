@@ -12,13 +12,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tinkle of Coins | 0.60% | ~804 |
 | Disintermediation | 0.50% | ~670 |
 | Capitalism Ho! | 0.50% | ~670 |
+| One Easy Payment | 0.40% | ~536 |
 | Some Assembly Required | 0.40% | ~536 |
 | Another Satisfied Customer | 0.40% | ~536 |
 | It's Free Real Estate | 0.40% | ~536 |
 | Budding Merchant | 0.40% | ~536 |
 | Own the Means of Production | 0.40% | ~536 |
 | The Daily Grind | 0.30% | ~402 |
-| One Easy Payment | 0.30% | ~402 |
 | Bounty Hunters | 0.30% | ~402 |
 | Pretty Penny | 0.30% | ~402 |
 | One-Armed Bandit | 0.30% | ~402 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,019 (Ranked 62)  
+Progressed: 134,023 (Ranked 62)  
 Completed: 128 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,20 +227,20 @@ Completed: 128 (0.10%) (Ranked 199)
 | 2023-08-03 | 133,815 | 128 |
 | 2023-08-04 | 133,890 | 128 |
 | 2023-08-05 | 133,956 | 128 |
-| 2023-08-06 | 134,019 | 128 |
+| 2023-08-06 | 134,023 | 128 |
 ## Awards
 Max (Great for Beginners): 4,688  (Ranked 70)  
-Sum: 27,055 (Ranked 46)  
+Sum: 27,057 (Ranked 46)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,688 |
 | This game is Relaxing | 3,992 |
 | This game has Quickly Understood Controls | 3,982 |
-| This game has Diverse Characters | 3,846 |
+| This game has Diverse Characters | 3,847 |
 | This game is Highly Recommended | 3,730 |
 | This game has Easy Combat | 3,669 |
-| This game has Playful Visuals | 3,148 |
+| This game has Playful Visuals | 3,149 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -439,4 +439,4 @@ Diff (max vs sum): 24
 | 2023-08-03 | 3.99 | - | 4,686 | 27,035 |
 | 2023-08-04 | 3.99 | - | 4,686 | 27,045 |
 | 2023-08-05 | 3.99 | - | 4,688 | 27,051 |
-| 2023-08-06 | 3.99 | - | 4,688 | 27,055 |
+| 2023-08-06 | 3.99 | - | 4,688 | 27,057 |

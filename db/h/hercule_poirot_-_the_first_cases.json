@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -604,9 +604,9 @@
       "ID": "ACH_029",
       "SetID": "72imik0",
       "Name": "I Like an Audience",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_03",
@@ -748,9 +748,9 @@
       "ID": "ACH_045",
       "SetID": "72imik0",
       "Name": "Viscount Edwin Van den Bosch",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_046",
@@ -796,9 +796,9 @@
       "ID": "ACH_09",
       "SetID": "72imik0",
       "Name": "The Truth",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 86
     }
   ],
   "AchievementSets": [
@@ -813,8 +813,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-08-06T20:05:29.1398582+00:00",
+  "LastChanged_Achievements": "2023-08-06T21:04:24.982707+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:28.7854708+00:00",
-  "LastUpdate_Ratings": "2023-08-06T19:58:55.3677133+00:00",
-  "LastUpdate_Achievements": "2023-08-06T20:05:29.1399041+00:00"
+  "LastUpdate_Ratings": "2023-08-06T20:58:19.5439714+00:00",
+  "LastUpdate_Achievements": "2023-08-06T21:04:24.9827977+00:00"
 }

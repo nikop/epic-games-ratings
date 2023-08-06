@@ -3,8 +3,8 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 808,
+  "EOS_Progressed": 809,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2826,6 +2826,11 @@
       "Time": "2023-08-06T19:07:33.8665649+00:00",
       "NumProgressed": 808,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T21:05:58.3421473+00:00",
+      "NumProgressed": 809,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3005,7 +3010,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -3093,7 +3098,7 @@
       "Name": "Defenses Online",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -3140,14 +3145,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 808,
+      "Progressed": 809,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-06T20:07:02.1481414+00:00",
+  "LastChanged_Achievements": "2023-08-06T21:05:58.3421466+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:21.6461868+00:00",
-  "LastUpdate_Ratings": "2023-08-06T19:57:17.0801795+00:00",
-  "LastUpdate_Achievements": "2023-08-06T20:07:02.1481969+00:00"
+  "LastUpdate_Ratings": "2023-08-06T20:57:05.4878691+00:00",
+  "LastUpdate_Achievements": "2023-08-06T21:05:58.3421821+00:00"
 }

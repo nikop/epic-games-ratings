@@ -14,7 +14,7 @@
 | Ay ay yarrr! | 12.00% | ~13 |
 | It's about the journey | 12.00% | ~13 |
 | C'who? | 9.00% | ~10 |
-| There be sand in me shorts | 8.00% | ~9 |
+| There be sand in me shorts | 9.00% | ~10 |
 | Make it rain | 7.00% | ~8 |
 | It gets everywhere | 7.00% | ~8 |
 | Peaceful skies | 6.00% | ~7 |
@@ -37,7 +37,7 @@
 | Free Spirit | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 109 (Ranked 315)  
-Completed: 0 (0.00%) (Ranked 250)  
+Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

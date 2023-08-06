@@ -39,13 +39,13 @@ Rating: 4.35 (Ranked 746)
 | Well-travelled | 26.00% | ~106 |
 | Thinking of Everything | 26.00% | ~106 |
 | Exquisite Artwork | 26.00% | ~106 |
+| Viscount Edwin Van den Bosch | 26.00% | ~106 |
 | Archibald Sterling | 25.00% | ~102 |
-| Viscount Edwin Van den Bosch | 25.00% | ~102 |
 | Well-prepared | 21.00% | ~86 |
-| The Truth | 20.00% | ~82 |
+| The Truth | 21.00% | ~86 |
+| I Like an Audience | 19.00% | ~78 |
 | Sunken Secrets | 18.00% | ~74 |
 | What Else Did I Miss? | 18.00% | ~74 |
-| I Like an Audience | 18.00% | ~74 |
 | The Denouement | 17.00% | ~70 |
 | Probably the Greatest Detective in the World | 13.00% | ~53 |
 | Take a Break | 12.00% | ~49 |

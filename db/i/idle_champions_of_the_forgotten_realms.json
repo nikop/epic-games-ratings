@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5596,10 +5596,10 @@
       "Count": 3343
     }
   ],
-  "EOS_Progressed": 219386,
-  "EOS_Completed": 2157,
-  "EOS_NewPlayers": 2199,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 219406,
+  "EOS_Completed": 2158,
+  "EOS_NewPlayers": 2207,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -17286,6 +17286,11 @@
       "Time": "2023-08-06T20:02:14.5361941+00:00",
       "NumProgressed": 219386,
       "NumCompleted": 2157
+    },
+    {
+      "Time": "2023-08-06T21:01:08.5573844+00:00",
+      "NumProgressed": 219406,
+      "NumCompleted": 2158
     }
   ],
   "TotalAchievements": 512,
@@ -17297,7 +17302,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8775
+      "UsersEstimate": 8776
     },
     {
       "ID": "objective_completed_10",
@@ -21375,9 +21380,9 @@
       "ID": "objective_completed_1391",
       "SetID": "415jc5c",
       "Name": "Krux\u0027s Speed Run",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 928
+      "UsersEstimate": 1114
     },
     {
       "ID": "objective_completed_1392",
@@ -21392,21 +21397,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185660,
+      "Progressed": 185680,
       "Completed": 3063
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219386,
-      "Completed": 2157
+      "Progressed": 219406,
+      "Completed": 2158
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-06T11:58:58.5923816+00:00",
-  "LastChanged_Achievements": "2023-08-06T20:02:14.5361935+00:00",
+  "LastChanged_Achievements": "2023-08-06T21:01:08.5573839+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-06T19:59:25.0004976+00:00",
-  "LastUpdate_Achievements": "2023-08-06T20:02:14.539499+00:00"
+  "LastUpdate_Ratings": "2023-08-06T20:58:48.5768934+00:00",
+  "LastUpdate_Achievements": "2023-08-06T21:01:08.5598383+00:00"
 }

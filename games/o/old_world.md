@@ -94,6 +94,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.40% | ~53 |
 | Victorious | 0.40% | ~53 |
 | Strong Difficulty | 0.40% | ~53 |
+| Landowners | 0.40% | ~53 |
 | Riders | 0.40% | ~53 |
 | Hittite Iron | 0.40% | ~53 |
 | Circus Maximus | 0.40% | ~53 |
@@ -105,6 +106,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.40% | ~53 |
 | Carthage | 0.40% | ~53 |
 | Power to the People | 0.40% | ~53 |
+| Assyrian Paganism | 0.40% | ~53 |
 | Economic Reform | 0.40% | ~53 |
 | Dualism | 0.40% | ~53 |
 | Legalism | 0.40% | ~53 |
@@ -120,12 +122,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.30% | ~40 |
 | Clerics | 0.30% | ~40 |
 | Hunters | 0.30% | ~40 |
-| Landowners | 0.30% | ~40 |
 | Learn to Play 4 | 0.30% | ~40 |
 | Egypt | 0.30% | ~40 |
 | Rome | 0.30% | ~40 |
 | One True Faith | 0.30% | ~40 |
-| Assyrian Paganism | 0.30% | ~40 |
 | Industrial Progress | 0.30% | ~40 |
 | Military Prestige | 0.30% | ~40 |
 | Enlightenment | 0.30% | ~40 |
@@ -256,6 +256,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon in Roma | 0.10% | ~13 |
 | Word of God | 0.10% | ~13 |
 | Siege Tower | 0.10% | ~13 |
+| No Characters | 0.10% | ~13 |
 | One City Challenge | 0.10% | ~13 |
 | Randomized Families | 0.10% | ~13 |
 | Randomized Leaders | 0.10% | ~13 |
@@ -299,7 +300,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a LAN Game | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
-| No Characters | 0.00% | ~0 |
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

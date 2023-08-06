@@ -3,8 +3,8 @@
   "Name": "RUNE II - Standard Edition",
   "ProductSlug": "rune-2",
   "Ranking_EOS_Progress": 529,
-  "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-05T05:58:53.7759149+00:00",
-  "LastUpdate_Ratings": "2023-08-06T20:00:25.7805301+00:00",
-  "LastUpdate_Achievements": "2023-08-06T20:03:18.4823176+00:00"
+  "LastUpdate_Ratings": "2023-08-06T20:59:36.0545873+00:00",
+  "LastUpdate_Achievements": "2023-08-06T21:02:14.6009008+00:00"
 }

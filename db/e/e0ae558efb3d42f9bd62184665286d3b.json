@@ -3,8 +3,8 @@
   "Name": "Little Brother Jim",
   "ProductSlug": "little-brother-jim-272dc6",
   "Ranking_EOS_Progress": 529,
-  "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-04T00:00:00+00:00",
@@ -25,9 +25,51 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-06T21:01:22.5277953+00:00",
+  "TotalAchievements": 5,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_11",
+      "SetID": "349np5h",
+      "Name": "Level 11",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_22",
+      "SetID": "349np5h",
+      "Name": "Level 22",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_33",
+      "SetID": "349np5h",
+      "Name": "Level 33",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_44",
+      "SetID": "349np5h",
+      "Name": "Level 44",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FINAL",
+      "SetID": "349np5h",
+      "Name": "The Final Level",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "349np5h",
@@ -37,8 +79,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-04T10:00:48.4970958+00:00",
-  "LastChanged_Achievements": "2023-08-06T20:02:32.4601913+00:00",
+  "LastChanged_Achievements": "2023-08-06T21:01:22.5277932+00:00",
   "LastUpdate_AppInfo": "2023-08-04T09:57:09.4576161+00:00",
-  "LastUpdate_Ratings": "2023-08-06T19:57:08.4973671+00:00",
-  "LastUpdate_Achievements": "2023-08-06T20:02:32.4601999+00:00"
+  "LastUpdate_Ratings": "2023-08-06T20:56:56.5273725+00:00",
+  "LastUpdate_Achievements": "2023-08-06T21:01:22.5287947+00:00"
 }

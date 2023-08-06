@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,775 |
+| A Brief Tour of the Realms | 4.00% | ~8,776 |
 | Beast Intentions | 3.00% | ~6,582 |
 | Maddening | 2.00% | ~4,388 |
 | The Silken Swamp | 1.00% | ~2,194 |
@@ -42,6 +42,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.60% | ~1,316 |
 | The Botched Kidnapping | 0.60% | ~1,316 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,114 |
+| Krux's Speed Run | 0.60% | ~1,114 |
 | Thieves of the Coven | 0.50% | ~928 |
 | Friends of the Forest | 0.50% | ~1,097 |
 | Low Initiative | 0.50% | ~1,097 |
@@ -58,7 +59,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Goblin Halls: the Next Generation | 0.50% | ~928 |
 | Bazaar Companions | 0.50% | ~928 |
 | Bahamut's Army | 0.50% | ~928 |
-| Krux's Speed Run | 0.50% | ~928 |
 | Animated Giff | 0.50% | ~928 |
 | Upholding the Law | 0.40% | ~878 |
 | Hither of the Feywild | 0.40% | ~743 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,386 (Ranked 53)  
-Completed: 2,157 (0.98%) (Ranked 114)  
+Progressed: 219,406 (Ranked 53)  
+Completed: 2,158 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -627,7 +627,7 @@ Completed: 2,157 (0.98%) (Ranked 114)
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
-| 2023-08-06 | 219,386 | 2,157 |
+| 2023-08-06 | 219,406 | 2,158 |
 ## Awards
 Max (Diverse Characters): 5,119  (Ranked 67)  
 Sum: 30,919 (Ranked 38)  

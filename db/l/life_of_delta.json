@@ -3,8 +3,8 @@
   "Name": "Life of Delta",
   "ProductSlug": "life-of-delta-44f4e4",
   "Ranking_EOS_Progress": 529,
-  "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-13T17:00:00+00:00",
@@ -51,6 +51,6 @@
   "LastChanged": "2023-03-31T05:57:02.0368302+00:00",
   "LastChanged_Achievements": "2023-08-06T20:03:03.8557009+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:38.0215836+00:00",
-  "LastUpdate_Ratings": "2023-08-06T20:00:06.7097859+00:00",
+  "LastUpdate_Ratings": "2023-08-06T20:59:20.5620487+00:00",
   "LastUpdate_Achievements": "2023-08-06T20:03:03.855703+00:00"
 }
