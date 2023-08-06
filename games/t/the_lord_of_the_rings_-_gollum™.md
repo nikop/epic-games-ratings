@@ -27,8 +27,8 @@
 | So Silly! | 4.00% | ~20 |
 | So Tasty! | 4.00% | ~20 |
 | Break a Leg! | 3.00% | ~15 |
+| Sweet Darkness | 3.00% | ~15 |
 | And now we wish... | 2.00% | ~10 |
-| Sweet Darkness | 2.00% | ~10 |
 | Collectibles Part 2 | 1.00% | ~5 |
 | Nervous Hands | 1.00% | ~5 |
 | Ss ss ss... | 1.00% | ~5 |

@@ -6,19 +6,19 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,766 |
+| A Brief Tour of the Realms | 4.00% | ~8,767 |
 | Beast Intentions | 3.00% | ~6,575 |
-| Maddening | 2.00% | ~4,383 |
+| Maddening | 2.00% | ~4,384 |
 | The Silken Swamp | 1.00% | ~2,192 |
 | Supply Run | 1.00% | ~2,192 |
 | Vecna Lives! | 1.00% | ~1,854 |
 | Rocky Reception | 1.00% | ~1,854 |
 | Rock and Roll | 1.00% | ~1,854 |
 | Flight of the Kindori Pod | 0.90% | ~1,669 |
-| Tall Tales | 0.80% | ~1,483 |
-| Seeds of Destruction | 0.80% | ~1,483 |
-| Vecna Loots! | 0.80% | ~1,483 |
-| Topolah's Tower | 0.80% | ~1,483 |
+| Tall Tales | 0.80% | ~1,484 |
+| Seeds of Destruction | 0.80% | ~1,484 |
+| Vecna Loots! | 0.80% | ~1,484 |
+| Topolah's Tower | 0.80% | ~1,484 |
 | Wet Feet | 0.70% | ~1,534 |
 | Return to the Tomb | 0.70% | ~1,298 |
 | Heatwave | 0.70% | ~1,298 |
@@ -95,7 +95,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Luigi After Hours | 0.40% | ~742 |
 | Electric Mayhem | 0.40% | ~742 |
 | 3,720 to 1 | 0.40% | ~742 |
-| Starving in the Jungle | 0.30% | ~657 |
+| Starving in the Jungle | 0.30% | ~658 |
 | Nightmare Rats! | 0.30% | ~556 |
 | Downfall | 0.30% | ~556 |
 | Slack-jawed Lorna | 0.30% | ~556 |
@@ -111,58 +111,58 @@ Number of Ratings: 9,041  (23.09.2022)
 | Get Back In The Castle | 0.30% | ~556 |
 | Checkmate | 0.30% | ~556 |
 | Xanathaaaaaaar! | 0.30% | ~556 |
-| Lobsterfolk Assault | 0.30% | ~657 |
-| Captured! | 0.30% | ~657 |
-| Home Field Advantage | 0.30% | ~657 |
-| Force Grey Unleashed | 0.30% | ~657 |
-| Vajra's Guards | 0.30% | ~657 |
-| Sleuth It Out | 0.30% | ~657 |
+| Lobsterfolk Assault | 0.30% | ~658 |
+| Captured! | 0.30% | ~658 |
+| Home Field Advantage | 0.30% | ~658 |
+| Force Grey Unleashed | 0.30% | ~658 |
+| Vajra's Guards | 0.30% | ~658 |
+| Sleuth It Out | 0.30% | ~658 |
 | The Newcomers of Notoriety | 0.30% | ~556 |
-| A Grand Puzzle | 0.30% | ~657 |
-| Azaka's Procession - Part 1 | 0.30% | ~657 |
-| Tomb of the Nine Gods | 0.30% | ~657 |
-| Azaka's Procession - Part 2 | 0.30% | ~657 |
-| The Hunt for Owl-y | 0.30% | ~657 |
-| Werewolves in the Mist | 0.30% | ~657 |
-| We're not in Faerûn Anymore | 0.30% | ~657 |
-| Chatty Nobles | 0.30% | ~657 |
-| Modron Assistance | 0.30% | ~657 |
-| Haaave You Met Asmodeus? | 0.30% | ~657 |
-| Domesticated Owlbears | 0.30% | ~657 |
-| The Immortal Warrior | 0.30% | ~657 |
-| The Wyrmheart Mine | 0.30% | ~657 |
-| Seeds of Deceit | 0.30% | ~657 |
-| Attack on the Manor | 0.30% | ~657 |
-| The Death Curse | 0.30% | ~657 |
-| Treasure Hunters | 0.30% | ~657 |
-| Nimble Escape | 0.30% | ~657 |
-| Fugitives | 0.30% | ~657 |
-| Premature Betrayal | 0.30% | ~657 |
-| Hopelessly Lost | 0.30% | ~657 |
-| Enter the Sargauth | 0.30% | ~657 |
-| The Dead Three | 0.30% | ~657 |
-| Flying Monkey Skulls of Doom | 0.30% | ~657 |
-| Lair of the Xanathar | 0.30% | ~657 |
-| The Darkness Runs Deeper | 0.30% | ~657 |
-| Difficult Terrain | 0.30% | ~657 |
-| Dinosaur Racing | 0.30% | ~657 |
-| Elturel Has Fallen | 0.30% | ~657 |
-| Resolve Amongst Chaos | 0.30% | ~657 |
-| Market Fluctuations | 0.30% | ~657 |
+| A Grand Puzzle | 0.30% | ~658 |
+| Azaka's Procession - Part 1 | 0.30% | ~658 |
+| Tomb of the Nine Gods | 0.30% | ~658 |
+| Azaka's Procession - Part 2 | 0.30% | ~658 |
+| The Hunt for Owl-y | 0.30% | ~658 |
+| Werewolves in the Mist | 0.30% | ~658 |
+| We're not in Faerûn Anymore | 0.30% | ~658 |
+| Chatty Nobles | 0.30% | ~658 |
+| Modron Assistance | 0.30% | ~658 |
+| Haaave You Met Asmodeus? | 0.30% | ~658 |
+| Domesticated Owlbears | 0.30% | ~658 |
+| The Immortal Warrior | 0.30% | ~658 |
+| The Wyrmheart Mine | 0.30% | ~658 |
+| Seeds of Deceit | 0.30% | ~658 |
+| Attack on the Manor | 0.30% | ~658 |
+| The Death Curse | 0.30% | ~658 |
+| Treasure Hunters | 0.30% | ~658 |
+| Nimble Escape | 0.30% | ~658 |
+| Fugitives | 0.30% | ~658 |
+| Premature Betrayal | 0.30% | ~658 |
+| Hopelessly Lost | 0.30% | ~658 |
+| Enter the Sargauth | 0.30% | ~658 |
+| The Dead Three | 0.30% | ~658 |
+| Flying Monkey Skulls of Doom | 0.30% | ~658 |
+| Lair of the Xanathar | 0.30% | ~658 |
+| The Darkness Runs Deeper | 0.30% | ~658 |
+| Difficult Terrain | 0.30% | ~658 |
+| Dinosaur Racing | 0.30% | ~658 |
+| Elturel Has Fallen | 0.30% | ~658 |
+| Resolve Amongst Chaos | 0.30% | ~658 |
+| Market Fluctuations | 0.30% | ~658 |
 | Into The Fire | 0.30% | ~556 |
 | The Giant's Bane Tavern | 0.30% | ~556 |
 | The Everlasting Rime | 0.30% | ~556 |
-| Close Escort | 0.30% | ~657 |
-| Constant Banditry | 0.30% | ~657 |
-| The Long Haul | 0.30% | ~657 |
-| Lost in the Deep | 0.30% | ~657 |
-| Easily Distracted | 0.30% | ~657 |
-| Rude Welcome | 0.30% | ~657 |
+| Close Escort | 0.30% | ~658 |
+| Constant Banditry | 0.30% | ~658 |
+| The Long Haul | 0.30% | ~658 |
+| Lost in the Deep | 0.30% | ~658 |
+| Easily Distracted | 0.30% | ~658 |
+| Rude Welcome | 0.30% | ~658 |
 | Moose Tracks | 0.30% | ~556 |
 | Civilization | 0.30% | ~556 |
-| Durable Deep | 0.30% | ~657 |
-| Expert Opinion | 0.30% | ~657 |
-| Rescue in the Jungle | 0.30% | ~657 |
+| Durable Deep | 0.30% | ~658 |
+| Expert Opinion | 0.30% | ~658 |
+| Rescue in the Jungle | 0.30% | ~658 |
 | Willing to Sacrifice | 0.30% | ~556 |
 | Tiny Treaty | 0.30% | ~556 |
 | Cold as Ice | 0.20% | ~371 |
@@ -178,6 +178,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bully for You! | 0.20% | ~371 |
 | The Dark Heart | 0.20% | ~371 |
 | The Alien Underdark | 0.20% | ~371 |
+| The Oozing Hunger | 0.20% | ~371 |
 | The Roots of Loomlurch | 0.20% | ~371 |
 | Best Laid Plans | 0.20% | ~371 |
 | The Howling Peaks of Yon | 0.20% | ~371 |
@@ -270,7 +271,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdark Chill | 0.10% | ~185 |
 | Thoughts on the Menu | 0.10% | ~185 |
 | Brains on Ice | 0.10% | ~185 |
-| The Oozing Hunger | 0.10% | ~185 |
 | Levelheaded | 0.10% | ~185 |
 | The Madness of Zuggtmoy | 0.10% | ~185 |
 | It's So Pretty… | 0.10% | ~185 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,162 (Ranked 53)  
+Progressed: 219,176 (Ranked 53)  
 Completed: 2,154 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,7 +627,7 @@ Completed: 2,154 (0.98%) (Ranked 113)
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
-| 2023-08-06 | 219,162 | 2,154 |
+| 2023-08-06 | 219,176 | 2,154 |
 ## Awards
 Max (Diverse Characters): 5,119  (Ranked 67)  
 Sum: 30,914 (Ranked 38)  

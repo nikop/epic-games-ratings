@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -1313,9 +1313,9 @@
       "ID": "BasiliskBroom",
       "SetID": "db30heh",
       "Name": "Sweeping Prop",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 85
     },
     {
       "ID": "BasiliskFishingRod",
@@ -1337,9 +1337,9 @@
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 196
     },
     {
       "ID": "BearPoppiesBroth",
@@ -1409,9 +1409,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 258
     },
     {
       "ID": "DevilRope",
@@ -1457,9 +1457,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 244
     },
     {
       "ID": "HastrmanAcorn",
@@ -1513,9 +1513,9 @@
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 148
     },
     {
       "ID": "PriestBroom",
@@ -1561,9 +1561,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 192
     },
     {
       "ID": "PrincessThrone",
@@ -1593,9 +1593,9 @@
       "ID": "RogueKing",
       "SetID": "db30heh",
       "Name": "Long Live The King",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "RogueNaked",
@@ -1609,9 +1609,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 295
+      "UsersEstimate": 299
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -1625,17 +1625,17 @@
       "ID": "SleepingBasiliskPistol",
       "SetID": "db30heh",
       "Name": "Knockout",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 59
     },
     {
       "ID": "SleepingBasiliskPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Poppy Sleep",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 59
     },
     {
       "ID": "SwordDiamond",
@@ -1672,8 +1672,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-06T08:07:23.9473222+00:00",
+  "LastChanged_Achievements": "2023-08-06T09:06:14.2326471+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-06T07:57:44.9570139+00:00",
-  "LastUpdate_Achievements": "2023-08-06T08:07:23.9473743+00:00"
+  "LastUpdate_Ratings": "2023-08-06T08:57:42.2942767+00:00",
+  "LastUpdate_Achievements": "2023-08-06T09:06:14.2326956+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,332 |
-| Let There Be Light | 30.00% | ~18,107 |
-| Float Like a Butterfly | 28.00% | ~16,900 |
-| Nordic Walking | 23.00% | ~13,882 |
+| Follow the Light | 37.00% | ~22,333 |
+| Let There Be Light | 30.00% | ~18,108 |
+| Float Like a Butterfly | 28.00% | ~16,901 |
+| Nordic Walking | 23.00% | ~13,883 |
 | Bright Falls' Finest | 22.00% | ~13,279 |
 | Under a Thin Layer of Skin | 19.00% | ~11,468 |
-| Park Ranger | 16.00% | ~9,657 |
-| Paging Mr. Wake | 16.00% | ~9,657 |
+| Park Ranger | 16.00% | ~9,658 |
+| Paging Mr. Wake | 16.00% | ~9,658 |
 | Back! Back, I Say! | 15.00% | ~9,054 |
 | Finders Keepers | 15.00% | ~9,054 |
 | Damn Good Cup of Coffee | 14.00% | ~8,450 |
@@ -25,8 +25,8 @@ Number of Ratings: 524  (23.09.2022)
 | The Six-Gun Scribe | 12.00% | ~7,243 |
 | Collateral Carnage | 12.00% | ~7,243 |
 | Come One, Come All | 12.00% | ~7,243 |
-| Heavy Metal | 11.00% | ~6,639 |
-| Perchance to Dream | 11.00% | ~6,639 |
+| Heavy Metal | 11.00% | ~6,640 |
+| Perchance to Dream | 11.00% | ~6,640 |
 | Gatekeeper | 10.00% | ~6,036 |
 | It's Not Just a Typewriter Brand | 10.00% | ~6,036 |
 | Thunder and Lightning | 10.00% | ~6,036 |
@@ -37,7 +37,7 @@ Number of Ratings: 524  (23.09.2022)
 | Right of Way | 8.00% | ~4,829 |
 | A Friend in Need | 8.00% | ~1,906 |
 | Tornado Wrangler | 7.00% | ~4,225 |
-| Departure | 6.00% | ~3,621 |
+| Departure | 6.00% | ~3,622 |
 | A Friend Indeed | 6.00% | ~1,430 |
 | Children of the Elder God | 5.00% | ~3,018 |
 | Drink 'Em Both Up | 5.00% | ~3,018 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~60 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,358 (Ranked 84)  
+Progressed: 60,360 (Ranked 84)  
 Completed: 64 (0.11%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 64 (0.11%) (Ranked 194)
 | 2023-08-03 | 60,143 | 63 |
 | 2023-08-04 | 60,237 | 64 |
 | 2023-08-05 | 60,337 | 64 |
-| 2023-08-06 | 60,358 | 64 |
+| 2023-08-06 | 60,360 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

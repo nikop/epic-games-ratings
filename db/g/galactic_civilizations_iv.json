@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -846,9 +846,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6309,
+  "EOS_Progressed": 6310,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4771,6 +4771,11 @@
       "Time": "2023-08-06T08:02:44.6313121+00:00",
       "NumProgressed": 6309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T09:01:05.1495974+00:00",
+      "NumProgressed": 6310,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -4886,7 +4891,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4984
+      "UsersEstimate": 4985
     },
     {
       "ID": "First_Race_Met",
@@ -4918,7 +4923,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4921
+      "UsersEstimate": 4922
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -5086,7 +5091,7 @@
       "Name": "Commodity Seller",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -5126,7 +5131,7 @@
       "Name": "War with the Unknown",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "Win_As_Altarian",
@@ -5270,7 +5275,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -5342,7 +5347,7 @@
       "Name": "Win Quickly",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "Win_Research",
@@ -5357,15 +5362,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6309,
+      "Progressed": 6310,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-05T01:48:33.3979759+00:00",
-  "LastChanged_Achievements": "2023-08-06T08:02:44.6313114+00:00",
+  "LastChanged_Achievements": "2023-08-06T09:01:05.149597+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:50.5738346+00:00",
-  "LastUpdate_Ratings": "2023-08-06T07:58:38.6351829+00:00",
-  "LastUpdate_Achievements": "2023-08-06T08:02:44.6314933+00:00"
+  "LastUpdate_Ratings": "2023-08-06T08:58:17.9407813+00:00",
+  "LastUpdate_Achievements": "2023-08-06T09:01:05.1497051+00:00"
 }

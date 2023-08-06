@@ -1026,7 +1026,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4627,
+  "EOS_Progressed": 4628,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
@@ -7646,6 +7646,11 @@
       "Time": "2023-08-06T08:07:13.6571107+00:00",
       "NumProgressed": 4627,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-06T09:06:06.0237911+00:00",
+      "NumProgressed": 4628,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -7753,7 +7758,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2083
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -7769,7 +7774,7 @@
       "Name": "Shackadelic",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -7777,7 +7782,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -7817,7 +7822,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3470
+      "UsersEstimate": 3471
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -7976,15 +7981,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4627,
+      "Progressed": 4628,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-29T23:00:35.7289146+00:00",
-  "LastChanged_Achievements": "2023-08-06T08:07:13.6571101+00:00",
+  "LastChanged_Achievements": "2023-08-06T09:06:06.0237905+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:22.3291535+00:00",
-  "LastUpdate_Ratings": "2023-08-06T08:02:36.3661566+00:00",
-  "LastUpdate_Achievements": "2023-08-06T08:07:13.6571964+00:00"
+  "LastUpdate_Ratings": "2023-08-06T09:00:57.9691032+00:00",
+  "LastUpdate_Achievements": "2023-08-06T09:06:06.0238661+00:00"
 }

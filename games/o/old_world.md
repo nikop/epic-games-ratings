@@ -85,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.50% | ~66 |
 | Building Wonders | 0.50% | ~66 |
 | Phalangite | 0.50% | ~66 |
+| Double Victory | 0.50% | ~66 |
 | Devout | 0.40% | ~53 |
 | Invincible | 0.40% | ~53 |
 | Lion | 0.40% | ~53 |
@@ -111,7 +112,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.40% | ~53 |
 | Legionary | 0.40% | ~53 |
 | Ambition Victory | 0.40% | ~53 |
-| Double Victory | 0.40% | ~53 |
 | Win a Single Player Game | 0.40% | ~53 |
 | Bad Heir Day | 0.30% | ~40 |
 | Ishtar Gate in Babylon | 0.30% | ~40 |

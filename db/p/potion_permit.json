@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1532,
+  "EOS_Progressed": 1533,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -1808,6 +1808,11 @@
       "Time": "2023-08-05T23:04:42.9119043+00:00",
       "NumProgressed": 1532,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-06T09:03:57.2116854+00:00",
+      "NumProgressed": 1533,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 38,
@@ -1819,7 +1824,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -1827,7 +1832,7 @@
       "Name": "Great Doctor",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -1875,7 +1880,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -1883,7 +1888,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -1899,7 +1904,7 @@
       "Name": "Expert Chemist",
       "Percentage": 14,
       "XP": 80,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACHIEVEMENTS_12",
@@ -1931,7 +1936,7 @@
       "Name": "Friendly",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -1963,7 +1968,7 @@
       "Name": "Spark of Love",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENTS_20",
@@ -1979,7 +1984,7 @@
       "Name": "Fishing Guru",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACHIEVEMENTS_22",
@@ -1987,7 +1992,7 @@
       "Name": "The Capitalist",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -2003,7 +2008,7 @@
       "Name": "Stone Specialist",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACHIEVEMENTS_25",
@@ -2011,7 +2016,7 @@
       "Name": "Community Helper",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENTS_26",
@@ -2083,7 +2088,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -2122,7 +2127,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1532,
+      "Progressed": 1533,
       "Completed": 9
     }
   ],
@@ -2130,8 +2135,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-08-05T21:57:06.4008826+00:00",
-  "LastChanged_Achievements": "2023-08-06T08:04:14.5416643+00:00",
+  "LastChanged_Achievements": "2023-08-06T09:03:57.2116849+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:21.7121731+00:00",
-  "LastUpdate_Ratings": "2023-08-06T07:57:19.7182991+00:00",
-  "LastUpdate_Achievements": "2023-08-06T08:04:14.5417086+00:00"
+  "LastUpdate_Ratings": "2023-08-06T08:57:22.2526221+00:00",
+  "LastUpdate_Achievements": "2023-08-06T09:03:57.2117263+00:00"
 }

@@ -13,7 +13,7 @@
 | Burger or pizza? | 40.00% | ~182 |
 | Passion for sports | 34.00% | ~155 |
 | Who loves trains? | 31.00% | ~141 |
-| Easy and steady climb | 29.00% | ~132 |
+| Easy and steady climb | 30.00% | ~137 |
 | At the heart of the city | 26.00% | ~119 |
 | Calm neighborhood | 25.00% | ~114 |
 | Elevated ring | 23.00% | ~105 |

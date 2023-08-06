@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 865,
+  "EOS_Progressed": 866,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1499,6 +1499,11 @@
       "Time": "2023-08-06T07:03:41.3392907+00:00",
       "NumProgressed": 865,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T09:03:11.1909319+00:00",
+      "NumProgressed": 866,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1550,7 +1555,7 @@
       "Name": "A successful procedure!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_A_TUCKED_TALE",
@@ -1558,7 +1563,7 @@
       "Name": "A Tucked Tale",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_BEST_THING_MONEY_CAN_BUY",
@@ -1590,7 +1595,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1646,7 +1651,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1662,7 +1667,7 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1670,7 +1675,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1718,14 +1723,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 865,
+      "Progressed": 866,
       "Completed": 0
     }
   ],
@@ -1733,8 +1738,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-08-06T08:03:17.9096148+00:00",
+  "LastChanged_Achievements": "2023-08-06T09:03:11.1909315+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:48.8176411+00:00",
-  "LastUpdate_Ratings": "2023-08-06T07:58:37.6760091+00:00",
-  "LastUpdate_Achievements": "2023-08-06T08:03:17.9096434+00:00"
+  "LastUpdate_Ratings": "2023-08-06T08:58:17.197932+00:00",
+  "LastUpdate_Achievements": "2023-08-06T09:03:11.1909575+00:00"
 }
