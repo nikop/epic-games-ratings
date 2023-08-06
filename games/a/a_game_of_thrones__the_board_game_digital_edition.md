@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~8,280 |
-| Battering Crew | 20.00% | ~4,140 |
-| The Kingsroad | 18.00% | ~3,726 |
-| Well Stocked | 14.00% | ~2,898 |
-| Royal Fleet | 13.00% | ~2,691 |
-| The Kraken’s Grasp | 9.00% | ~1,863 |
-| Daggers in the Dark | 8.00% | ~1,656 |
-| Oathkeeper | 8.00% | ~1,656 |
-| Alliance | 8.00% | ~1,656 |
-| A Long Journey | 8.00% | ~1,656 |
-| Ours is the Fury | 7.00% | ~1,449 |
-| Winter is Coming | 7.00% | ~1,449 |
-| Influential | 7.00% | ~1,449 |
-| We Do Not Sow | 6.00% | ~1,242 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~1,242 |
-| Hear me Roar! | 6.00% | ~1,242 |
-| Defender of the Wall | 6.00% | ~1,242 |
+| Conqueror | 40.00% | ~8,284 |
+| Battering Crew | 20.00% | ~4,142 |
+| The Kingsroad | 18.00% | ~3,728 |
+| Well Stocked | 14.00% | ~2,899 |
+| Royal Fleet | 13.00% | ~2,692 |
+| The Kraken’s Grasp | 9.00% | ~1,864 |
+| Daggers in the Dark | 8.00% | ~1,657 |
+| Oathkeeper | 8.00% | ~1,657 |
+| Alliance | 8.00% | ~1,657 |
+| A Long Journey | 8.00% | ~1,657 |
+| Ours is the Fury | 7.00% | ~1,450 |
+| Winter is Coming | 7.00% | ~1,450 |
+| Influential | 7.00% | ~1,450 |
+| We Do Not Sow | 6.00% | ~1,243 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~1,243 |
+| Hear me Roar! | 6.00% | ~1,243 |
+| Defender of the Wall | 6.00% | ~1,243 |
 | Growing Strong | 5.00% | ~1,035 |
 | What is Dead may Never Die | 3.00% | ~621 |
 | The Swift | 3.00% | ~621 |
 | King in the North | 2.00% | ~414 |
 | War of the Five Kings | 1.00% | ~207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,700 (Ranked 104)  
+Progressed: 20,709 (Ranked 104)  
 Completed: 42 (0.20%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 42 (0.20%) (Ranked 176)
 | 2023-08-03 | 20,412 | 41 |
 | 2023-08-04 | 20,503 | 42 |
 | 2023-08-05 | 20,599 | 42 |
-| 2023-08-06 | 20,700 | 42 |
+| 2023-08-06 | 20,709 | 42 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 312)  
 Sum: 786 (Ranked 262)  

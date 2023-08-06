@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -872,9 +872,9 @@
       "ID": "05_pangs",
       "SetID": "chb1m60",
       "Name": "Pangs of conscience",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 202
     },
     {
       "ID": "06_living",
@@ -984,9 +984,9 @@
       "ID": "19_justintime",
       "SetID": "chb1m60",
       "Name": "Just in time!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 142
     },
     {
       "ID": "20_sabotage",
@@ -1160,8 +1160,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-05T18:00:22.7295334+00:00",
-  "LastChanged_Achievements": "2023-08-06T19:05:45.6691323+00:00",
+  "LastChanged_Achievements": "2023-08-06T20:05:28.0857042+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:23.250379+00:00",
-  "LastUpdate_Ratings": "2023-08-06T18:59:01.7226713+00:00",
-  "LastUpdate_Achievements": "2023-08-06T19:05:45.6691946+00:00"
+  "LastUpdate_Ratings": "2023-08-06T19:58:49.8819517+00:00",
+  "LastUpdate_Achievements": "2023-08-06T20:05:28.0857438+00:00"
 }

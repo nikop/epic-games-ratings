@@ -359,9 +359,9 @@
       "ID": "Footprint",
       "SetID": "9kk0gal",
       "Name": "Mysterious footprints",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "Friend",
@@ -447,17 +447,17 @@
       "ID": "Spyglass",
       "SetID": "9kk0gal",
       "Name": "Spyglass",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 30,
-      "UsersEstimate": 160
+      "UsersEstimate": 162
     },
     {
       "ID": "Toy",
       "SetID": "9kk0gal",
       "Name": "Broken toy",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 148
     },
     {
       "ID": "Trinket",
@@ -504,8 +504,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-08-06T19:04:21.4676748+00:00",
+  "LastChanged_Achievements": "2023-08-06T20:04:15.841714+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:10.3322588+00:00",
-  "LastUpdate_Ratings": "2023-08-06T19:02:29.4780418+00:00",
-  "LastUpdate_Achievements": "2023-08-06T19:04:21.4677083+00:00"
+  "LastUpdate_Ratings": "2023-08-06T20:01:49.1221009+00:00",
+  "LastUpdate_Achievements": "2023-08-06T20:04:15.8417428+00:00"
 }

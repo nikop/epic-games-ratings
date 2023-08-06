@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 272,
+  "EOS_Progressed": 273,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
@@ -448,6 +448,11 @@
       "Time": "2023-08-05T15:03:53.327365+00:00",
       "NumProgressed": 272,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-06T20:04:34.3874367+00:00",
+      "NumProgressed": 273,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 19,
@@ -473,9 +478,9 @@
       "ID": "misha_date2_all",
       "SetID": "6h5h9ho",
       "Name": "Playing the field",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "misha_date3_all",
@@ -499,7 +504,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ryan_date2_all",
@@ -531,7 +536,7 @@
       "Name": "The lad",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "success_brandy",
@@ -571,7 +576,7 @@
       "Name": "The intellectual",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "success_lucas",
@@ -610,7 +615,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 272,
+      "Progressed": 273,
       "Completed": 4
     }
   ],
@@ -618,8 +623,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-08-06T19:04:43.1923939+00:00",
+  "LastChanged_Achievements": "2023-08-06T20:04:34.387436+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:45.1095211+00:00",
-  "LastUpdate_Ratings": "2023-08-06T18:58:40.0070833+00:00",
-  "LastUpdate_Achievements": "2023-08-06T19:04:43.1924227+00:00"
+  "LastUpdate_Ratings": "2023-08-06T19:58:31.7506805+00:00",
+  "LastUpdate_Achievements": "2023-08-06T20:04:34.3874569+00:00"
 }

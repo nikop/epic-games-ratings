@@ -740,9 +740,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -756,9 +756,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -780,9 +780,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -875,8 +875,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-06T19:07:14.7055232+00:00",
+  "LastChanged_Achievements": "2023-08-06T20:06:45.9107186+00:00",
   "LastUpdate_AppInfo": "2023-08-05T14:56:58.1488274+00:00",
-  "LastUpdate_Ratings": "2023-08-06T18:57:56.0016388+00:00",
-  "LastUpdate_Achievements": "2023-08-06T19:07:14.7055451+00:00"
+  "LastUpdate_Ratings": "2023-08-06T19:57:47.4156595+00:00",
+  "LastUpdate_Achievements": "2023-08-06T20:06:45.9107372+00:00"
 }

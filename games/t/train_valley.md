@@ -9,12 +9,12 @@ Number of Ratings: 28  (23.09.2022)
 | Getting started | 76.00% | ~326 |
 | Close call! | 72.00% | ~309 |
 | Builder | 53.00% | ~227 |
-| Pangs of conscience | 46.00% | ~197 |
+| Pangs of conscience | 47.00% | ~202 |
 | Living it large! | 43.00% | ~184 |
 | Collector | 42.00% | ~180 |
 | Need to think | 41.00% | ~176 |
 | Completely nuts! | 38.00% | ~163 |
-| Just in time! | 32.00% | ~137 |
+| Just in time! | 33.00% | ~142 |
 | Europe | 30.00% | ~129 |
 | It's no coincidence. | 29.00% | ~124 |
 | Madness! | 27.00% | ~116 |

@@ -155,6 +155,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.20% | ~27 |
 | All Nations | 0.20% | ~27 |
 | Conquest Victory | 0.20% | ~27 |
+| Necropolis in Waset | 0.20% | ~27 |
 | Patriarch St Paul | 0.20% | ~27 |
 | Hypatia the Teacher | 0.20% | ~27 |
 | Centenarian | 0.10% | ~13 |
@@ -260,7 +261,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Randomized Leaders | 0.10% | ~13 |
 | Role-Playing | 0.10% | ~13 |
 | Time Victory | 0.10% | ~13 |
-| Necropolis in Waset | 0.10% | ~13 |
 | Win a 1-v-1 Game | 0.10% | ~13 |
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~13 |
 | Win a MP Teams Game | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,297 (Ranked 117)  
+Progressed: 13,299 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,7 +411,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-03 | 13,260 | 5 |
 | 2023-08-04 | 13,269 | 5 |
 | 2023-08-05 | 13,281 | 5 |
-| 2023-08-06 | 13,297 | 5 |
+| 2023-08-06 | 13,299 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,786 (Ranked 206)  

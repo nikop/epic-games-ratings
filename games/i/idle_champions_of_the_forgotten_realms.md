@@ -7,21 +7,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,775 |
-| Beast Intentions | 3.00% | ~6,581 |
-| Maddening | 2.00% | ~4,387 |
+| Beast Intentions | 3.00% | ~6,582 |
+| Maddening | 2.00% | ~4,388 |
 | The Silken Swamp | 1.00% | ~2,194 |
 | Supply Run | 1.00% | ~2,194 |
-| Vecna Lives! | 1.00% | ~1,856 |
-| Rocky Reception | 1.00% | ~1,856 |
-| Rock and Roll | 1.00% | ~1,856 |
+| Vecna Lives! | 1.00% | ~1,857 |
+| Rocky Reception | 1.00% | ~1,857 |
+| Rock and Roll | 1.00% | ~1,857 |
 | Flight of the Kindori Pod | 0.90% | ~1,671 |
 | Tall Tales | 0.80% | ~1,485 |
 | Seeds of Destruction | 0.80% | ~1,485 |
 | Vecna Loots! | 0.80% | ~1,485 |
 | Topolah's Tower | 0.80% | ~1,485 |
 | Wet Feet | 0.70% | ~1,536 |
-| Return to the Tomb | 0.70% | ~1,299 |
-| Heatwave | 0.70% | ~1,299 |
+| Return to the Tomb | 0.70% | ~1,300 |
+| Heatwave | 0.70% | ~1,300 |
 | Were-verpowered | 0.70% | ~1,536 |
 | A Persistent Buzzing | 0.70% | ~1,536 |
 | Terror in the Dark | 0.70% | ~1,536 |
@@ -60,42 +60,43 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.50% | ~928 |
 | Krux's Speed Run | 0.50% | ~928 |
 | Animated Giff | 0.50% | ~928 |
-| Upholding the Law | 0.40% | ~877 |
+| Upholding the Law | 0.40% | ~878 |
 | Hither of the Feywild | 0.40% | ~743 |
 | The Prince of a Thousand Enemies | 0.40% | ~743 |
 | Speeds of Destruction | 0.40% | ~743 |
 | Owlbear Necessities | 0.40% | ~743 |
-| On the Hunt | 0.40% | ~877 |
+| On the Hunt | 0.40% | ~878 |
 | Best Thay Ever | 0.40% | ~743 |
 | A Demi-god's Defender | 0.40% | ~743 |
 | Who Lurks Below? | 0.40% | ~743 |
 | Xanathaaaaaaar! | 0.40% | ~743 |
-| Homecoming | 0.40% | ~877 |
-| The Lost Heir of Omu | 0.40% | ~877 |
+| Homecoming | 0.40% | ~878 |
+| The Lost Heir of Omu | 0.40% | ~878 |
 | No One Can Hear You Scream | 0.40% | ~743 |
 | Welcome to the Rock | 0.40% | ~743 |
-| The Forbidden City | 0.40% | ~877 |
-| Captured! | 0.40% | ~877 |
-| Wisdom Check | 0.40% | ~877 |
-| A Grand Puzzle | 0.40% | ~877 |
-| Tower on the Lake | 0.40% | ~877 |
-| Trollskull Manor | 0.40% | ~877 |
-| The Crumbling Temple | 0.40% | ~877 |
-| Are Ya Chicken? | 0.40% | ~877 |
-| Useless Allies | 0.40% | ~877 |
-| Mad Cow Disease | 0.40% | ~877 |
-| Exploring Port Nyanzaru | 0.40% | ~877 |
-| A Tale of Two Cities | 0.40% | ~877 |
-| The Dead Three | 0.40% | ~877 |
-| Running of the Saurs | 0.40% | ~877 |
-| The Contagious Curse | 0.40% | ~877 |
-| Escort to Waterdeep | 0.40% | ~877 |
+| The Forbidden City | 0.40% | ~878 |
+| Captured! | 0.40% | ~878 |
+| Wisdom Check | 0.40% | ~878 |
+| A Grand Puzzle | 0.40% | ~878 |
+| Tower on the Lake | 0.40% | ~878 |
+| Trollskull Manor | 0.40% | ~878 |
+| The Crumbling Temple | 0.40% | ~878 |
+| Are Ya Chicken? | 0.40% | ~878 |
+| Useless Allies | 0.40% | ~878 |
+| Mad Cow Disease | 0.40% | ~878 |
+| Exploring Port Nyanzaru | 0.40% | ~878 |
+| A Tale of Two Cities | 0.40% | ~878 |
+| The Dead Three | 0.40% | ~878 |
+| Running of the Saurs | 0.40% | ~878 |
+| The Contagious Curse | 0.40% | ~878 |
+| Escort to Waterdeep | 0.40% | ~878 |
 | The Giant's Bane Tavern | 0.40% | ~743 |
-| Waterdeep Detours | 0.40% | ~877 |
-| Underdeep Cartography | 0.40% | ~877 |
-| Overdue Rendezvous | 0.40% | ~877 |
-| Pure Energy | 0.40% | ~877 |
-| The Templar's Camp | 0.40% | ~877 |
+| Waterdeep Detours | 0.40% | ~878 |
+| Lost in the Deep | 0.40% | ~878 |
+| Underdeep Cartography | 0.40% | ~878 |
+| Overdue Rendezvous | 0.40% | ~878 |
+| Pure Energy | 0.40% | ~878 |
+| The Templar's Camp | 0.40% | ~878 |
 | Devilishly Cold | 0.40% | ~743 |
 | Luigi After Hours | 0.40% | ~743 |
 | Electric Mayhem | 0.40% | ~743 |
@@ -157,7 +158,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.30% | ~658 |
 | Constant Banditry | 0.30% | ~658 |
 | The Long Haul | 0.30% | ~658 |
-| Lost in the Deep | 0.30% | ~658 |
 | Easily Distracted | 0.30% | ~658 |
 | Rude Welcome | 0.30% | ~658 |
 | Moose Tracks | 0.30% | ~557 |
@@ -215,6 +215,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Excavating History | 0.20% | ~439 |
 | Towering Expectations | 0.20% | ~439 |
 | Cramped Quarters | 0.20% | ~439 |
+| Who Lurks in Lurkwood | 0.20% | ~439 |
 | A Tale of Two Fiends | 0.20% | ~439 |
 | Slow and Steady | 0.20% | ~439 |
 | Crowded Streets | 0.20% | ~439 |
@@ -248,6 +249,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Battle of High Hall Tower | 0.20% | ~371 |
 | Elturel's Last Stand | 0.20% | ~371 |
 | Ending the Rime - Part 1 | 0.20% | ~371 |
+| Ending the Rime - Part 2 | 0.20% | ~371 |
 | The Haunted Jungle | 0.20% | ~439 |
 | Poor Guidance | 0.20% | ~439 |
 | Overwhelming Force | 0.20% | ~439 |
@@ -357,7 +359,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elder Rune Madness | 0.10% | ~219 |
 | The Madness Grows | 0.10% | ~219 |
 | The Madness Peaks | 0.10% | ~186 |
-| Who Lurks in Lurkwood | 0.10% | ~219 |
 | Bullywugs in the Bog | 0.10% | ~219 |
 | Modrons in the Mud | 0.10% | ~219 |
 | And a Pixie in a Pear Treant | 0.10% | ~186 |
@@ -493,7 +494,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Volo's Guide to Kuo-toa | 0.10% | ~186 |
 | Ambitious Speakers - Part 1 | 0.10% | ~186 |
 | Shady Sidekicks - Part 1 | 0.10% | ~186 |
-| Ending the Rime - Part 2 | 0.10% | ~186 |
 | Ambitious Speakers - Part 2 | 0.10% | ~186 |
 | Shady Sidekicks - Part 2 | 0.10% | ~186 |
 | Reghed Glacier Mysteries | 0.10% | ~186 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,366 (Ranked 53)  
+Progressed: 219,386 (Ranked 53)  
 Completed: 2,157 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,7 +627,7 @@ Completed: 2,157 (0.98%) (Ranked 114)
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
-| 2023-08-06 | 219,366 | 2,157 |
+| 2023-08-06 | 219,386 | 2,157 |
 ## Awards
 Max (Diverse Characters): 5,119  (Ranked 67)  
 Sum: 30,919 (Ranked 38)  

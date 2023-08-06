@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1575,9 +1575,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13297,
+  "EOS_Progressed": 13299,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9225,6 +9225,11 @@
       "Time": "2023-08-06T17:03:13.8105249+00:00",
       "NumProgressed": 13297,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-06T20:03:40.6932147+00:00",
+      "NumProgressed": 13299,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11442,9 +11447,9 @@
       "ID": "ACHIEVEMENT_WASET_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis in Waset",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_WIN_1V1",
@@ -11603,21 +11608,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13297,
+      "Progressed": 13299,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13297,
+      "Progressed": 13299,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-01T16:59:10.6733314+00:00",
-  "LastChanged_Achievements": "2023-08-06T19:04:03.644861+00:00",
+  "LastChanged_Achievements": "2023-08-06T20:03:40.6932142+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:46.1485999+00:00",
-  "LastUpdate_Ratings": "2023-08-06T18:59:29.3675261+00:00",
-  "LastUpdate_Achievements": "2023-08-06T19:04:03.6461014+00:00"
+  "LastUpdate_Ratings": "2023-08-06T19:59:12.0185466+00:00",
+  "LastUpdate_Achievements": "2023-08-06T20:03:40.6939728+00:00"
 }

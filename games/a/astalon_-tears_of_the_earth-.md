@@ -26,10 +26,10 @@
 | Rogue Mastery | 17.00% | ~11 |
 | Fighter Mastery | 16.00% | ~10 |
 | Slay the Monster! | 14.00% | ~9 |
+| Gorgonslayer Mastery | 13.00% | ~8 |
+| Built for adventure | 13.00% | ~8 |
+| Collector Mastery | 13.00% | ~8 |
 | Destoy all monsters! | 13.00% | ~8 |
-| Gorgonslayer Mastery | 11.00% | ~7 |
-| Built for adventure | 11.00% | ~7 |
-| Collector Mastery | 11.00% | ~7 |
 | True Black Knight | 8.00% | ~5 |
 | Freedom Monster | 8.00% | ~5 |
 | No match for me! | 3.00% | ~2 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2106,
+  "EOS_Progressed": 2108,
   "EOS_Completed": 189,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 8.97,
   "EosHistory": [
@@ -4668,6 +4668,11 @@
       "Time": "2023-08-06T18:03:29.830755+00:00",
       "NumProgressed": 2106,
       "NumCompleted": 189
+    },
+    {
+      "Time": "2023-08-06T20:04:10.9142588+00:00",
+      "NumProgressed": 2108,
+      "NumCompleted": 189
     }
   ],
   "TotalAchievements": 12,
@@ -4695,7 +4700,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "Green Ticket Roundup",
@@ -4703,7 +4708,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "Jacques a Dit",
@@ -4711,7 +4716,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "Jakob",
@@ -4743,7 +4748,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -4774,7 +4779,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2106,
+      "Progressed": 2108,
       "Completed": 189
     }
   ],
@@ -4782,8 +4787,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-06T19:04:15.5940219+00:00",
+  "LastChanged_Achievements": "2023-08-06T20:04:10.9142581+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:24.0632297+00:00",
-  "LastUpdate_Ratings": "2023-08-06T19:01:38.3088653+00:00",
-  "LastUpdate_Achievements": "2023-08-06T19:04:15.5940923+00:00"
+  "LastUpdate_Ratings": "2023-08-06T20:01:03.0423034+00:00",
+  "LastUpdate_Achievements": "2023-08-06T20:04:10.9143095+00:00"
 }

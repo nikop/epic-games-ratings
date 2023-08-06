@@ -7,14 +7,14 @@ Number of Ratings: 801  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Let's Get This Party Started | 91.00% | ~7,659 |
-| Photogenic | 88.00% | ~7,406 |
+| Photogenic | 88.00% | ~7,407 |
 | Surge Gauntlet Jockey | 85.00% | ~7,154 |
-| Plug It In | 84.00% | ~7,069 |
-| Adventure Time | 80.00% | ~6,733 |
-| Playing With Power | 78.00% | ~6,564 |
-| Coup d'Etat | 59.00% | ~4,965 |
-| You're Fired | 58.00% | ~4,881 |
-| Get Furious | 56.00% | ~4,713 |
+| Plug It In | 84.00% | ~7,070 |
+| Adventure Time | 80.00% | ~6,734 |
+| Playing With Power | 78.00% | ~6,565 |
+| Coup d'Etat | 59.00% | ~4,966 |
+| You're Fired | 58.00% | ~4,882 |
+| Get Furious | 56.00% | ~4,714 |
 | Gunplay And Cosplay | 55.00% | ~4,629 |
 | Hacks In Stacks | 55.00% | ~4,629 |
 | Meching Enemies | 49.00% | ~4,124 |
@@ -22,14 +22,14 @@ Number of Ratings: 801  (23.09.2022)
 | Booty Bashing | 41.00% | ~3,451 |
 | Field Medic | 38.00% | ~3,198 |
 | Here Comes a New Challenger | 38.00% | ~3,198 |
-| Rapid Response | 33.00% | ~2,777 |
+| Rapid Response | 33.00% | ~2,778 |
 | Surge Ahead | 31.00% | ~2,609 |
 | The Full Monty | 31.00% | ~2,609 |
 | Guardian Angel | 29.00% | ~2,441 |
 | Poppin Noggins | 25.00% | ~2,104 |
 | Clips and Crits | 20.00% | ~1,683 |
 | Grey Goo | 18.00% | ~1,515 |
-| Boss of Bosses | 15.00% | ~1,262 |
+| Boss of Bosses | 15.00% | ~1,263 |
 | The Final Blow | 14.00% | ~1,178 |
 | To Be Continued | 13.00% | ~1,094 |
 | Light My Fire | 12.00% | ~1,010 |
@@ -46,18 +46,18 @@ Number of Ratings: 801  (23.09.2022)
 | No Chill | 4.00% | ~337 |
 | Start Your Collection | 4.00% | ~337 |
 | Team Player | 4.00% | ~337 |
-| Event Horizon | 3.00% | ~252 |
-| Treasure Hunting | 3.00% | ~252 |
+| Event Horizon | 3.00% | ~253 |
+| Treasure Hunting | 3.00% | ~253 |
 | Nexuwizard | 2.00% | ~168 |
 | Everybody Freeze | 1.00% | ~84 |
 | Nature Is Lit | 0.90% | ~76 |
 | The Collector | 0.90% | ~76 |
-| I'm The Pluggernaut | 0.60% | ~50 |
-| Shield and Shred | 0.60% | ~50 |
+| I'm The Pluggernaut | 0.60% | ~51 |
+| Shield and Shred | 0.60% | ~51 |
 | Infinite Adventures! | 0.40% | ~34 |
 | Pyrotechnical | 0.20% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,416 (Ranked 125)  
+Progressed: 8,417 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 0 (0.00%) (Ranked 250)
 | 2023-08-03 | 8,367 | 0 |
 | 2023-08-04 | 8,382 | 0 |
 | 2023-08-05 | 8,397 | 0 |
-| 2023-08-06 | 8,416 | 0 |
+| 2023-08-06 | 8,417 | 0 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 387)  
 Sum: 454 (Ranked 307)  

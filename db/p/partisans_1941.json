@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1264,
+  "EOS_Progressed": 1265,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2070,6 +2070,11 @@
       "Time": "2023-08-06T18:04:23.7917101+00:00",
       "NumProgressed": 1264,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-06T20:05:05.7538436+00:00",
+      "NumProgressed": 1265,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2153,7 +2158,7 @@
       "Name": "Lock, Stock",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "E1M1",
@@ -2209,7 +2214,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "High_noon",
@@ -2320,15 +2325,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1264,
+      "Progressed": 1265,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-06T19:05:19.508177+00:00",
+  "LastChanged_Achievements": "2023-08-06T20:05:05.7538426+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:07.8032848+00:00",
-  "LastUpdate_Ratings": "2023-08-06T19:01:14.4251147+00:00",
-  "LastUpdate_Achievements": "2023-08-06T19:05:19.5082156+00:00"
+  "LastUpdate_Ratings": "2023-08-06T20:00:40.8061241+00:00",
+  "LastUpdate_Achievements": "2023-08-06T20:05:05.75392+00:00"
 }

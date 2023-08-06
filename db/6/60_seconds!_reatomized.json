@@ -164,7 +164,7 @@
   "Tags": [],
   "EOS_Progressed": 4876,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4057,9 +4057,9 @@
       "ID": "ACH_BE_PREPARED",
       "SetID": "5nj1ea3",
       "Name": "Be Prepared",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1755
+      "UsersEstimate": 1804
     },
     {
       "ID": "ACH_BLUE_HARVEST",
@@ -4490,8 +4490,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-08-02T17:02:12.6296444+00:00",
-  "LastChanged_Achievements": "2023-08-06T19:06:13.5932675+00:00",
+  "LastChanged_Achievements": "2023-08-06T20:05:53.0770309+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:25.2705415+00:00",
-  "LastUpdate_Ratings": "2023-08-06T19:02:49.2426044+00:00",
-  "LastUpdate_Achievements": "2023-08-06T19:06:13.593408+00:00"
+  "LastUpdate_Ratings": "2023-08-06T20:02:09.3782445+00:00",
+  "LastUpdate_Achievements": "2023-08-06T20:05:53.0771268+00:00"
 }

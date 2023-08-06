@@ -40,9 +40,9 @@ Rating: 4.44 (Ranked 644)
 | Rigged to Blow | 1.00% | ~34 |
 | Tinkerer | 1.00% | ~34 |
 | Herr Today, Gone Tomorrow | 1.00% | ~34 |
+| It'll Buff Right Out | 0.90% | ~31 |
 | Road Rage | 0.90% | ~31 |
 | Don't hold your breath | 0.90% | ~31 |
-| It'll Buff Right Out | 0.80% | ~27 |
 | Shipbreaker | 0.80% | ~27 |
 | Sink or Swim | 0.80% | ~27 |
 | Strategist | 0.70% | ~24 |

@@ -23,8 +23,8 @@ Rating: 4.46 (Ranked 616)
 | Where It All Begun | 38.00% | ~1,183 |
 | Recouped Investment | 38.00% | ~1,183 |
 | Omelette Du Fromage | 33.00% | ~1,027 |
+| The More The Merrier | 32.00% | ~996 |
 | Living Nightmare | 31.00% | ~965 |
-| The More The Merrier | 31.00% | ~965 |
 | The Darwin Era Was Here | 27.00% | ~841 |
 | Deep Into Insanity | 26.00% | ~809 |
 | Come on, You Wanna Live Forever? | 25.00% | ~778 |
