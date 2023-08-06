@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1851,
+  "EOS_Progressed": 1852,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2382,6 +2382,11 @@
       "Time": "2023-08-06T15:04:11.1350747+00:00",
       "NumProgressed": 1851,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-06T19:04:50.6643648+00:00",
+      "NumProgressed": 1852,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2393,7 +2398,7 @@
       "Name": "Become King",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "Collect20Gold",
@@ -2425,7 +2430,7 @@
       "Name": "Return the Statues",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -2465,7 +2470,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "CompleteGuardFaction",
@@ -2473,7 +2478,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2521,7 +2526,7 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -2537,7 +2542,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "GetTHWeapon",
@@ -2569,7 +2574,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "MeetTheMoles",
@@ -2593,7 +2598,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "RepairSmith",
@@ -2615,9 +2620,9 @@
       "ID": "RescueBrothers",
       "SetID": "9lj35g4",
       "Name": "Rescue Redgi\u0027s Brothers",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 944
+      "UsersEstimate": 963
     },
     {
       "ID": "ReturnPowerInMines",
@@ -2632,22 +2637,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1851,
+      "Progressed": 1852,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 492,
-      "Completed": 492
+      "Progressed": 493,
+      "Completed": 493
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-30T07:58:33.6633976+00:00",
-  "LastChanged_Achievements": "2023-08-06T18:04:04.2372131+00:00",
+  "LastChanged_Achievements": "2023-08-06T19:04:50.6643641+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:14.9786304+00:00",
-  "LastUpdate_Ratings": "2023-08-06T17:59:00.0583764+00:00",
-  "LastUpdate_Achievements": "2023-08-06T18:04:04.2372497+00:00"
+  "LastUpdate_Ratings": "2023-08-06T19:00:05.9276886+00:00",
+  "LastUpdate_Achievements": "2023-08-06T19:04:50.664401+00:00"
 }

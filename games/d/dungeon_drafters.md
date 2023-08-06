@@ -20,7 +20,7 @@
 | The Bodyguard | 7.00% | ~6 |
 | The Apprentice | 7.00% | ~6 |
 | Braving Miasma | 7.00% | ~6 |
-| The Familiar | 6.00% | ~5 |
+| The Familiar | 7.00% | ~6 |
 | Oracle Mastery | 6.00% | ~5 |
 | No Stone Unturned | 6.00% | ~5 |
 | Ancient Nemesis | 5.00% | ~4 |
@@ -45,7 +45,7 @@
 | Gladiator | 1.00% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 334)  
+Progressed: 82 (Ranked 335)  
 Completed: 0 (0.00%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |

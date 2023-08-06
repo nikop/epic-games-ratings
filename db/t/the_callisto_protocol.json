@@ -2,12 +2,12 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 851,
+  "Ranking_Rating": 850,
   "Ranking_Popularity": 373,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1060,7 +1060,7 @@
   ],
   "EOS_Progressed": 15823,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -6548,9 +6548,9 @@
       "ID": "STORY_TUNNELS",
       "SetID": "4hj6d86",
       "Name": "Power Up",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 475
     },
     {
       "ID": "DISMEMBER_100",
@@ -6683,8 +6683,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-08-06T10:58:57.2478995+00:00",
-  "LastChanged_Achievements": "2023-08-06T18:03:30.0866321+00:00",
+  "LastChanged_Achievements": "2023-08-06T19:04:16.0682858+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:48.8250875+00:00",
-  "LastUpdate_Ratings": "2023-08-06T17:58:36.623986+00:00",
-  "LastUpdate_Achievements": "2023-08-06T18:03:30.086698+00:00"
+  "LastUpdate_Ratings": "2023-08-06T18:59:34.8807897+00:00",
+  "LastUpdate_Achievements": "2023-08-06T19:04:16.0683576+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 825,
+  "EOS_Progressed": 826,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -1950,6 +1950,11 @@
       "Time": "2023-08-06T13:07:13.3599536+00:00",
       "NumProgressed": 825,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-06T19:05:40.8592382+00:00",
+      "NumProgressed": 826,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -1977,7 +1982,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ChestCompletion1",
@@ -2057,7 +2062,7 @@
       "Name": "Family Memories",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "FactorywoodChests1",
@@ -2087,9 +2092,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 124
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2105,7 +2110,7 @@
       "Name": "Wunderkind",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "GadgetProgress1",
@@ -2137,7 +2142,7 @@
       "Name": "Fitting In",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "JinxDefeated",
@@ -2153,7 +2158,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "MapCompletion1",
@@ -2241,7 +2246,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "RewindDamage1",
@@ -2337,7 +2342,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "WarwickDefeated",
@@ -2384,7 +2389,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 825,
+      "Progressed": 826,
       "Completed": 5
     }
   ],
@@ -2392,8 +2397,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-06T18:04:39.3629062+00:00",
+  "LastChanged_Achievements": "2023-08-06T19:05:40.8592371+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:20.0210953+00:00",
-  "LastUpdate_Ratings": "2023-08-06T17:59:54.9334186+00:00",
-  "LastUpdate_Achievements": "2023-08-06T18:04:39.3629656+00:00"
+  "LastUpdate_Ratings": "2023-08-06T19:01:26.4324872+00:00",
+  "LastUpdate_Achievements": "2023-08-06T19:05:40.8593668+00:00"
 }

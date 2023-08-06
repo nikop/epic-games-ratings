@@ -1,31 +1,31 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 390)  
+Rating: 4.60 (Ranked 389)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get A Room | 74.00% | ~3,790 |
-| Having A Field Day | 73.00% | ~3,738 |
+| Having A Field Day | 73.00% | ~3,739 |
 | Reap What You Sow | 70.00% | ~3,585 |
-| The First Day | 68.00% | ~3,482 |
-| Green Thumb | 66.00% | ~3,380 |
+| The First Day | 68.00% | ~3,483 |
+| Green Thumb | 66.00% | ~3,381 |
 | Novice Researcher | 65.00% | ~3,329 |
 | Putting Food on the Table | 60.00% | ~3,073 |
 | Home Cooked Meal | 56.00% | ~2,868 |
 | Onward | 55.00% | ~2,817 |
-| The First Week | 53.00% | ~2,714 |
+| The First Week | 53.00% | ~2,715 |
 | Feast or Famine | 51.00% | ~2,612 |
 | Studious Researcher | 51.00% | ~2,612 |
-| Beam Me Up | 50.00% | ~2,560 |
-| Adept Researcher | 44.00% | ~2,253 |
-| Retribution | 40.00% | ~2,048 |
-| ...And Don’t Come Back! | 40.00% | ~2,048 |
-| Fit For A King | 39.00% | ~1,997 |
+| Beam Me Up | 50.00% | ~2,561 |
+| Adept Researcher | 44.00% | ~2,254 |
+| Retribution | 41.00% | ~2,100 |
+| ...And Don’t Come Back! | 40.00% | ~2,049 |
+| Fit For A King | 39.00% | ~1,998 |
 | Luminary Researcher | 33.00% | ~1,690 |
 | Heating Up | 29.00% | ~1,485 |
-| Winter Is Coming | 26.00% | ~1,331 |
+| Winter Is Coming | 26.00% | ~1,332 |
 | Winter Is Here | 23.00% | ~1,178 |
 | Disassembled | 20.00% | ~1,024 |
 | A Party Now | 19.00% | ~973 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~102 |
 | Wabbit Season | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,121 (Ranked 139)  
+Progressed: 5,122 (Ranked 139)  
 Completed: 10 (0.20%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 10 (0.20%) (Ranked 176)
 | 2023-08-03 | 5,053 | 10 |
 | 2023-08-04 | 5,076 | 10 |
 | 2023-08-05 | 5,102 | 10 |
-| 2023-08-06 | 5,121 | 10 |
+| 2023-08-06 | 5,122 | 10 |
 ## Awards
 Max (Relaxing): 121  (Ranked 315)  
 Sum: 969 (Ranked 238)  

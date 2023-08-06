@@ -1,28 +1,28 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 271)  
+Rating: 4.66 (Ranked 272)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,094 |
-| Thorough | 10.00% | ~19,176 |
-| A thief's beginning | 9.00% | ~17,259 |
-| Disguised | 8.00% | ~15,341 |
-| Rollin' | 8.00% | ~15,341 |
-| Tanuki Time | 8.00% | ~15,341 |
-| Jonin | 7.00% | ~13,423 |
-| Rescue Takuma | 7.00% | ~13,423 |
-| Stoned Ox | 7.00% | ~13,423 |
+| Genin | 11.00% | ~21,095 |
+| Thorough | 10.00% | ~19,177 |
+| A thief's beginning | 9.00% | ~17,260 |
+| Disguised | 8.00% | ~15,342 |
+| Rollin' | 8.00% | ~15,342 |
+| Tanuki Time | 8.00% | ~15,342 |
+| Jonin | 7.00% | ~13,424 |
+| Rescue Takuma | 7.00% | ~13,424 |
+| Stoned Ox | 7.00% | ~13,424 |
 | Chunin | 6.00% | ~11,506 |
 | Happy Planning | 6.00% | ~11,506 |
 | Ice Ice Yuki | 6.00% | ~11,506 |
 | Yabu | 6.00% | ~11,506 |
-| Flying Rocks | 5.00% | ~9,588 |
-| Mugen Unchained | 5.00% | ~9,588 |
-| Okkoto | 5.00% | ~9,588 |
-| Warzone | 5.00% | ~9,588 |
+| Flying Rocks | 5.00% | ~9,589 |
+| Mugen Unchained | 5.00% | ~9,589 |
+| Okkoto | 5.00% | ~9,589 |
+| Warzone | 5.00% | ~9,589 |
 | Gear up | 4.00% | ~7,671 |
 | Happy little accidents | 4.00% | ~7,671 |
 | Prisoners | 4.00% | ~7,671 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~192 |
 | Release the Kraken | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191,763 (Ranked 59)  
+Progressed: 191,774 (Ranked 59)  
 Completed: 66 (0.03%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,14 +159,14 @@ Completed: 66 (0.03%) (Ranked 225)
 | 2023-08-03 | 190,993 | 65 |
 | 2023-08-04 | 191,203 | 66 |
 | 2023-08-05 | 191,476 | 66 |
-| 2023-08-06 | 191,763 | 66 |
+| 2023-08-06 | 191,774 | 66 |
 ## Awards
-Max (Great for Beginners): 559  (Ranked 185)  
-Sum: 4,721 (Ranked 133)  
+Max (Great for Beginners): 560  (Ranked 185)  
+Sum: 4,722 (Ranked 133)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 559 |
+| This game is Great for Beginners | 560 |
 | This game has Diverse Characters | 528 |
 | This game is Extremely Fun | 519 |
 | This game has Amazing Storytelling | 503 |
@@ -326,4 +326,4 @@ Diff (max vs sum): 52
 | 2023-07-30 | 4.66 | - | 559 | 4,716 |
 | 2023-08-01 | 4.66 | - | 559 | 4,717 |
 | 2023-08-04 | 4.66 | - | 559 | 4,718 |
-| 2023-08-06 | 4.66 | - | 559 | 4,721 |
+| 2023-08-06 | 4.66 | - | 560 | 4,722 |

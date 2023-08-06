@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 54.00% | ~1,663 |
-| EXTRA BOOST | 42.00% | ~1,294 |
-| IT MAKES BOOM! | 42.00% | ~1,294 |
-| PRO | 34.00% | ~1,047 |
-| PROTECTED | 32.00% | ~986 |
-| HERE ARE SOME BARE NECESSITIES | 32.00% | ~986 |
-| A TIGER'S FEAR | 31.00% | ~955 |
-| AGGRESSIVE RACER | 31.00% | ~955 |
-| ACE SPEEDSTER | 23.00% | ~708 |
-| IT'S A LONG WAY TO THE TOP | 20.00% | ~616 |
+| ROOKIE | 54.00% | ~1,665 |
+| EXTRA BOOST | 42.00% | ~1,295 |
+| IT MAKES BOOM! | 42.00% | ~1,295 |
+| PRO | 34.00% | ~1,049 |
+| PROTECTED | 32.00% | ~987 |
+| HERE ARE SOME BARE NECESSITIES | 32.00% | ~987 |
+| A TIGER'S FEAR | 31.00% | ~956 |
+| AGGRESSIVE RACER | 31.00% | ~956 |
+| ACE SPEEDSTER | 23.00% | ~709 |
+| IT'S A LONG WAY TO THE TOP | 20.00% | ~617 |
 | MASTER | 17.00% | ~524 |
 | ACE BRAWLER | 16.00% | ~493 |
-| TRAINING HARD | 15.00% | ~462 |
-| DEFEAT OUR CHAMPION | 14.00% | ~431 |
-| ACE DEFENDER | 14.00% | ~431 |
-| FRIENDLY | 14.00% | ~431 |
-| LEGENDARY HERO | 14.00% | ~431 |
-| RELEASE THE KRAKEN | 13.00% | ~400 |
-| BE OUR GUEST | 13.00% | ~400 |
+| TRAINING HARD | 15.00% | ~463 |
+| DEFEAT OUR CHAMPION | 14.00% | ~432 |
+| ACE DEFENDER | 14.00% | ~432 |
+| FRIENDLY | 14.00% | ~432 |
+| LEGENDARY HERO | 14.00% | ~432 |
+| RELEASE THE KRAKEN | 13.00% | ~401 |
+| BE OUR GUEST | 13.00% | ~401 |
 | PERFECTLY POISED | 12.00% | ~370 |
 | THE EYE OF THE HUNTER | 11.00% | ~339 |
 | ACE TRICKSTER | 11.00% | ~339 |
 | EXPERIENCED CREW | 6.00% | ~185 |
 | FRAMED! | 6.00% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,080 (Ranked 156)  
-Completed: 139 (4.51%) (Ranked 52)  
+Progressed: 3,084 (Ranked 156)  
+Completed: 141 (4.57%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -136,4 +136,4 @@ Completed: 139 (4.51%) (Ranked 52)
 | 2023-08-03 | 3,065 | 136 |
 | 2023-08-04 | 3,073 | 139 |
 | 2023-08-05 | 3,076 | 139 |
-| 2023-08-06 | 3,080 | 139 |
+| 2023-08-06 | 3,084 | 141 |

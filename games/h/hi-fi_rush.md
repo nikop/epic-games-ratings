@@ -44,14 +44,14 @@ Rating: 4.87 (Ranked 24)
 | I think I deserve some praise, here! | 0.60% | ~23 |
 | We're Jammin' | 0.60% | ~23 |
 | I hit things with a guitar really well. | 0.60% | ~23 |
+| New bad guys? No problem! | 0.60% | ~14 |
 | This is a breeze! | 0.50% | ~19 |
 | First we parry, then we counter | 0.50% | ~19 |
-| New bad guys? No problem! | 0.50% | ~11 |
 | I'm not done with you yet | 0.40% | ~15 |
+| Choose your own adventure | 0.40% | ~9 |
 | Easy Listening | 0.30% | ~11 |
 | OK, well THEY came after ME! | 0.30% | ~11 |
 | You ever parry a volcano? | 0.30% | ~11 |
-| Choose your own adventure | 0.30% | ~7 |
 | Problem solved... wait, what? | 0.20% | ~8 |
 | Now this is how you fight like a team! | 0.20% | ~8 |
 | It'll do, CNMN | 0.20% | ~5 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,767 (Ranked 147)  
+Progressed: 3,768 (Ranked 147)  
 Completed: 7 (0.19%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 7 (0.19%) (Ranked 181)
 | 2023-08-03 | 3,705 | 6 |
 | 2023-08-04 | 3,731 | 6 |
 | 2023-08-05 | 3,750 | 6 |
-| 2023-08-06 | 3,767 | 7 |
+| 2023-08-06 | 3,768 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

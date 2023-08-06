@@ -4,7 +4,7 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83,
+  "EOS_Progressed": 84,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -411,6 +411,11 @@
       "Time": "2023-08-05T14:04:55.8087308+00:00",
       "NumProgressed": 83,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T19:05:53.8558642+00:00",
+      "NumProgressed": 84,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 34,
@@ -436,7 +441,7 @@
       "ID": "Ach_BossDarkPoulpe",
       "SetID": "4o5gjp0",
       "Name": "Squid game",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 20,
       "UsersEstimate": 33
     },
@@ -486,7 +491,7 @@
       "Name": "Pigeon",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Ach_CallBeggarNothingToSell",
@@ -508,7 +513,7 @@
       "ID": "Ach_DeathXTime",
       "SetID": "4o5gjp0",
       "Name": "Masochistic",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 30,
       "UsersEstimate": 43
     },
@@ -518,7 +523,7 @@
       "Name": "A bottomless pit",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Ach_DiscoveryCaverns",
@@ -558,7 +563,7 @@
       "Name": "A path of no return",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Ach_DiveDeath",
@@ -580,7 +585,7 @@
       "ID": "Ach_EnnemyDeathByEnnemy",
       "SetID": "4o5gjp0",
       "Name": "Baited",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 30,
       "UsersEstimate": 58
     },
@@ -604,7 +609,7 @@
       "ID": "Ach_FirstGolem",
       "SetID": "4o5gjp0",
       "Name": "Soft skin",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 39
     },
@@ -612,7 +617,7 @@
       "ID": "Ach_HutLay",
       "SetID": "4o5gjp0",
       "Name": "Homeless",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 30,
       "UsersEstimate": 23
     },
@@ -620,7 +625,7 @@
       "ID": "Ach_IslandExplo",
       "SetID": "4o5gjp0",
       "Name": "Big badaboom!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -684,7 +689,7 @@
       "ID": "Ach_TalkToLostSoul",
       "SetID": "4o5gjp0",
       "Name": "Sensitive soul",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
       "UsersEstimate": 27
     }
@@ -693,14 +698,14 @@
     {
       "ID": "4o5gjp0",
       "IsBase": true,
-      "Progressed": 83,
+      "Progressed": 84,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-08-06T18:04:47.9692471+00:00",
+  "LastChanged_Achievements": "2023-08-06T19:05:53.8558635+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:55.0615333+00:00",
-  "LastUpdate_Ratings": "2023-08-06T17:58:41.2089316+00:00",
-  "LastUpdate_Achievements": "2023-08-06T18:04:47.9692745+00:00"
+  "LastUpdate_Ratings": "2023-08-06T18:59:43.9013128+00:00",
+  "LastUpdate_Achievements": "2023-08-06T19:05:53.8559121+00:00"
 }

@@ -1,16 +1,16 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.60 (Ranked 390)  
+Rating: 4.60 (Ranked 389)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 24.00% | ~198 |
 | Rail Rat | 21.00% | ~173 |
 | The Mysterious Stranger | 20.00% | ~165 |
-| Make Up For Lost Time | 18.00% | ~148 |
-| The Prince in Heels | 18.00% | ~148 |
-| Immaculate Aim | 18.00% | ~148 |
+| Make Up For Lost Time | 18.00% | ~149 |
+| The Prince in Heels | 18.00% | ~149 |
+| Immaculate Aim | 18.00% | ~149 |
 | The Steel Shadow | 17.00% | ~140 |
 | Time Flies | 17.00% | ~140 |
 | The Harder They Fall | 17.00% | ~140 |
@@ -19,11 +19,11 @@ Rating: 4.60 (Ranked 390)
 | Honest Mistake | 17.00% | ~140 |
 | Immaculate Aim | 17.00% | ~140 |
 | The Brass Boss | 17.00% | ~140 |
-| The Betrayer | 16.00% | ~132 |
 | The Wicked Twins | 16.00% | ~132 |
 | Fast Learner | 16.00% | ~132 |
 | Right On Time | 15.00% | ~124 |
 | Like Clockwork | 15.00% | ~124 |
+| The Betrayer | 15.00% | ~124 |
 | The Man Who Shattered Time | 15.00% | ~124 |
 | The Loose Cannon | 15.00% | ~124 |
 | Golem Chaser | 15.00% | ~124 |
@@ -34,8 +34,8 @@ Rating: 4.60 (Ranked 390)
 | Street Style | 13.00% | ~107 |
 | Whiz Kid | 12.00% | ~99 |
 | Good Neighbor | 11.00% | ~91 |
-| Chaincrawler Explorer | 10.00% | ~82 |
-| Family Memories | 10.00% | ~82 |
+| Chaincrawler Explorer | 10.00% | ~83 |
+| Family Memories | 10.00% | ~83 |
 | Fairgrounds Explorer | 9.00% | ~74 |
 | Sump Explorer | 9.00% | ~74 |
 | Syron for Hope | 9.00% | ~74 |
@@ -50,8 +50,8 @@ Rating: 4.60 (Ranked 390)
 | Golem Hunter | 5.00% | ~41 |
 | Rungs Was Right | 5.00% | ~41 |
 | Hexlock for Protection | 4.00% | ~33 |
-| Wunderkind | 2.00% | ~16 |
-| Fitting In | 2.00% | ~16 |
+| Wunderkind | 2.00% | ~17 |
+| Fitting In | 2.00% | ~17 |
 | Thinking Two Steps Ahead | 1.00% | ~8 |
 | No Time to Waste | 1.00% | ~8 |
 | Wildlife Protection | 0.80% | ~7 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 390)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 825 (Ranked 202)  
+Progressed: 826 (Ranked 202)  
 Completed: 5 (0.61%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 5 (0.61%) (Ranked 129)
 | 2023-08-02 | 820 | 5 |
 | 2023-08-04 | 822 | 5 |
 | 2023-08-05 | 823 | 5 |
-| 2023-08-06 | 825 | 5 |
+| 2023-08-06 | 826 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "rescue-party-live",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -376,9 +376,9 @@
       "ID": "ACH_PROFESSIONAL_TEAM",
       "SetID": "1p69hf1",
       "Name": "Professional team!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_RESCUE_TEAM_ASSEMBLE",
@@ -433,8 +433,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-08-06T18:05:04.0481213+00:00",
+  "LastChanged_Achievements": "2023-08-06T19:06:16.7015601+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:34.0811037+00:00",
-  "LastUpdate_Ratings": "2023-08-06T17:57:20.4035391+00:00",
-  "LastUpdate_Achievements": "2023-08-06T18:05:04.0481379+00:00"
+  "LastUpdate_Ratings": "2023-08-06T18:57:47.5897194+00:00",
+  "LastUpdate_Achievements": "2023-08-06T19:06:16.7015749+00:00"
 }

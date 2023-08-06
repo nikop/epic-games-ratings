@@ -52,6 +52,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 0.80% | ~106 |
 | Great | 0.80% | ~106 |
 | Artisans | 0.80% | ~106 |
+| Furious Family | 0.80% | ~106 |
 | Colossus | 0.80% | ~106 |
 | Great Ziggurat | 0.80% | ~106 |
 | Necropolis | 0.80% | ~106 |
@@ -60,7 +61,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.70% | ~93 |
 | Legendary Cities | 0.70% | ~93 |
 | Just Difficulty | 0.70% | ~93 |
-| Furious Family | 0.70% | ~93 |
 | Apadana | 0.70% | ~93 |
 | Musaeum | 0.70% | ~93 |
 | Learn to Play 2 | 0.70% | ~93 |
@@ -304,7 +304,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13,297 (Ranked 117)  
-Completed: 5 (0.04%) (Ranked 221)  
+Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

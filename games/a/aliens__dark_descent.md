@@ -1,31 +1,31 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.45 (Ranked 631)  
+Rating: 4.46 (Ranked 616)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,552 |
-| Snatched Out | 74.00% | ~2,303 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,553 |
+| Snatched Out | 74.00% | ~2,304 |
 | Keep 'Em Coming | 73.00% | ~2,272 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,085 |
-| Call Me Snake | 62.00% | ~1,929 |
-| Something Lurks Under The Hills | 60.00% | ~1,867 |
-| This Was No Papercut | 59.00% | ~1,836 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,086 |
+| Call Me Snake | 62.00% | ~1,930 |
+| Something Lurks Under The Hills | 60.00% | ~1,868 |
+| This Was No Papercut | 59.00% | ~1,837 |
 | The Shrink Hates Me | 56.00% | ~1,743 |
 | People Person | 55.00% | ~1,712 |
-| Use The Bumper, That's What It's For | 52.00% | ~1,618 |
-| First Steps Into Madness | 52.00% | ~1,618 |
+| Use The Bumper, That's What It's For | 52.00% | ~1,619 |
+| First Steps Into Madness | 52.00% | ~1,619 |
 | Colonial Barrels | 50.00% | ~1,556 |
-| Harper's Hell | 44.00% | ~1,369 |
-| Making a Stand | 43.00% | ~1,338 |
+| Harper's Hell | 44.00% | ~1,370 |
+| Making a Stand | 43.00% | ~1,339 |
 | Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,276 |
 | Where It All Begun | 38.00% | ~1,183 |
 | Recouped Investment | 38.00% | ~1,183 |
 | Omelette Du Fromage | 33.00% | ~1,027 |
 | Living Nightmare | 31.00% | ~965 |
 | The More The Merrier | 31.00% | ~965 |
-| The Darwin Era Was Here | 27.00% | ~840 |
+| The Darwin Era Was Here | 27.00% | ~841 |
 | Deep Into Insanity | 26.00% | ~809 |
 | Come on, You Wanna Live Forever? | 25.00% | ~778 |
 | The Passenger | 25.00% | ~778 |
@@ -51,7 +51,7 @@ Rating: 4.45 (Ranked 631)
 | Chalk It Up To Experience | 0.70% | ~22 |
 | This Ain't No Picnic | 0.50% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,112 (Ranked 154)  
+Progressed: 3,113 (Ranked 154)  
 Completed: 2 (0.06%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 2 (0.06%) (Ranked 210)
 | 2023-08-03 | 3,095 | 2 |
 | 2023-08-04 | 3,099 | 2 |
 | 2023-08-05 | 3,107 | 2 |
-| 2023-08-06 | 3,112 | 2 |
+| 2023-08-06 | 3,113 | 2 |
 ## Awards
 Max (Great Boss Battles): 22  (Ranked 491)  
 Sum: 22 (Ranked 494)  
@@ -145,3 +145,4 @@ Diff (max vs sum): -3
 | 2023-07-30 | 4.44 | 20 | 20 |
 | 2023-07-31 | 4.44 | 22 | 22 |
 | 2023-08-04 | 4.45 | 22 | 22 |
+| 2023-08-06 | 4.46 | 22 | 22 |

@@ -6,33 +6,34 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,773 |
-| Beast Intentions | 3.00% | ~6,580 |
+| A Brief Tour of the Realms | 4.00% | ~8,775 |
+| Beast Intentions | 3.00% | ~6,581 |
 | Maddening | 2.00% | ~4,387 |
-| The Silken Swamp | 1.00% | ~2,193 |
-| Supply Run | 1.00% | ~2,193 |
+| The Silken Swamp | 1.00% | ~2,194 |
+| Supply Run | 1.00% | ~2,194 |
 | Vecna Lives! | 1.00% | ~1,856 |
 | Rocky Reception | 1.00% | ~1,856 |
 | Rock and Roll | 1.00% | ~1,856 |
-| Flight of the Kindori Pod | 0.90% | ~1,670 |
+| Flight of the Kindori Pod | 0.90% | ~1,671 |
 | Tall Tales | 0.80% | ~1,485 |
 | Seeds of Destruction | 0.80% | ~1,485 |
 | Vecna Loots! | 0.80% | ~1,485 |
 | Topolah's Tower | 0.80% | ~1,485 |
-| Wet Feet | 0.70% | ~1,535 |
+| Wet Feet | 0.70% | ~1,536 |
 | Return to the Tomb | 0.70% | ~1,299 |
 | Heatwave | 0.70% | ~1,299 |
-| Were-verpowered | 0.70% | ~1,535 |
-| A Persistent Buzzing | 0.70% | ~1,535 |
-| Terror in the Dark | 0.70% | ~1,535 |
-| Building Trust | 0.70% | ~1,535 |
-| Unearthed Evil | 0.70% | ~1,535 |
-| The Cursed Farmer | 0.70% | ~1,535 |
-| The Mad Wizard | 0.70% | ~1,535 |
+| Were-verpowered | 0.70% | ~1,536 |
+| A Persistent Buzzing | 0.70% | ~1,536 |
+| Terror in the Dark | 0.70% | ~1,536 |
+| Building Trust | 0.70% | ~1,536 |
+| Unearthed Evil | 0.70% | ~1,536 |
+| The Cursed Farmer | 0.70% | ~1,536 |
+| The Mad Wizard | 0.70% | ~1,536 |
 | Pros and CONs | 0.60% | ~1,316 |
 | The Witchlight Carnival | 0.60% | ~1,114 |
 | Hatchlings Underfoot | 0.60% | ~1,316 |
 | Don't Look Up! | 0.60% | ~1,316 |
+| Heavy Burden | 0.60% | ~1,316 |
 | The Evacuation of Waterdeep | 0.60% | ~1,114 |
 | The Dread Domain of Tovag | 0.60% | ~1,114 |
 | Beast Mode | 0.60% | ~1,316 |
@@ -42,7 +43,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.60% | ~1,316 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,114 |
 | Thieves of the Coven | 0.50% | ~928 |
-| Heavy Burden | 0.50% | ~1,097 |
 | Friends of the Forest | 0.50% | ~1,097 |
 | Low Initiative | 0.50% | ~1,097 |
 | Street War | 0.50% | ~1,097 |
@@ -61,19 +61,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.50% | ~928 |
 | Animated Giff | 0.50% | ~928 |
 | Upholding the Law | 0.40% | ~877 |
-| Hither of the Feywild | 0.40% | ~742 |
-| The Prince of a Thousand Enemies | 0.40% | ~742 |
-| Speeds of Destruction | 0.40% | ~742 |
-| Owlbear Necessities | 0.40% | ~742 |
+| Hither of the Feywild | 0.40% | ~743 |
+| The Prince of a Thousand Enemies | 0.40% | ~743 |
+| Speeds of Destruction | 0.40% | ~743 |
+| Owlbear Necessities | 0.40% | ~743 |
 | On the Hunt | 0.40% | ~877 |
-| Best Thay Ever | 0.40% | ~742 |
-| A Demi-god's Defender | 0.40% | ~742 |
-| Who Lurks Below? | 0.40% | ~742 |
-| Xanathaaaaaaar! | 0.40% | ~742 |
+| Best Thay Ever | 0.40% | ~743 |
+| A Demi-god's Defender | 0.40% | ~743 |
+| Who Lurks Below? | 0.40% | ~743 |
+| Xanathaaaaaaar! | 0.40% | ~743 |
 | Homecoming | 0.40% | ~877 |
 | The Lost Heir of Omu | 0.40% | ~877 |
-| No One Can Hear You Scream | 0.40% | ~742 |
-| Welcome to the Rock | 0.40% | ~742 |
+| No One Can Hear You Scream | 0.40% | ~743 |
+| Welcome to the Rock | 0.40% | ~743 |
 | The Forbidden City | 0.40% | ~877 |
 | Captured! | 0.40% | ~877 |
 | Wisdom Check | 0.40% | ~877 |
@@ -90,16 +90,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.40% | ~877 |
 | The Contagious Curse | 0.40% | ~877 |
 | Escort to Waterdeep | 0.40% | ~877 |
-| The Giant's Bane Tavern | 0.40% | ~742 |
+| The Giant's Bane Tavern | 0.40% | ~743 |
 | Waterdeep Detours | 0.40% | ~877 |
 | Underdeep Cartography | 0.40% | ~877 |
 | Overdue Rendezvous | 0.40% | ~877 |
 | Pure Energy | 0.40% | ~877 |
 | The Templar's Camp | 0.40% | ~877 |
-| Devilishly Cold | 0.40% | ~742 |
-| Luigi After Hours | 0.40% | ~742 |
-| Electric Mayhem | 0.40% | ~742 |
-| 3,720 to 1 | 0.40% | ~742 |
+| Devilishly Cold | 0.40% | ~743 |
+| Luigi After Hours | 0.40% | ~743 |
+| Electric Mayhem | 0.40% | ~743 |
+| 3,720 to 1 | 0.40% | ~743 |
 | Starving in the Jungle | 0.30% | ~658 |
 | Nightmare Rats! | 0.30% | ~557 |
 | Downfall | 0.30% | ~557 |
@@ -137,6 +137,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.30% | ~658 |
 | The Death Curse | 0.30% | ~658 |
 | Treasure Hunters | 0.30% | ~658 |
+| Flies on the Wall | 0.30% | ~658 |
 | Nimble Escape | 0.30% | ~658 |
 | Fugitives | 0.30% | ~658 |
 | Premature Betrayal | 0.30% | ~658 |
@@ -209,7 +210,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Guardian of Orolunga | 0.20% | ~439 |
 | The Lost Love | 0.20% | ~439 |
 | A Saurial's Resolve | 0.20% | ~439 |
-| Flies on the Wall | 0.20% | ~439 |
 | Backtracking Through Barovia | 0.20% | ~439 |
 | Nimblest Escape | 0.20% | ~439 |
 | Excavating History | 0.20% | ~439 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,329 (Ranked 53)  
-Completed: 2,156 (0.98%) (Ranked 114)  
+Progressed: 219,366 (Ranked 53)  
+Completed: 2,157 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -627,7 +627,7 @@ Completed: 2,156 (0.98%) (Ranked 114)
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
-| 2023-08-06 | 219,329 | 2,156 |
+| 2023-08-06 | 219,366 | 2,157 |
 ## Awards
 Max (Diverse Characters): 5,119  (Ranked 67)  
 Sum: 30,919 (Ranked 38)  

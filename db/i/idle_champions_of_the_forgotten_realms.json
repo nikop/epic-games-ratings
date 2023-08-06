@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5596,10 +5596,10 @@
       "Count": 3343
     }
   ],
-  "EOS_Progressed": 219329,
-  "EOS_Completed": 2156,
-  "EOS_NewPlayers": 2196,
-  "EOS_NewCompleters": 19,
+  "EOS_Progressed": 219366,
+  "EOS_Completed": 2157,
+  "EOS_NewPlayers": 2197,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -17276,6 +17276,11 @@
       "Time": "2023-08-06T17:02:26.0602084+00:00",
       "NumProgressed": 219329,
       "NumCompleted": 2156
+    },
+    {
+      "Time": "2023-08-06T19:02:56.388367+00:00",
+      "NumProgressed": 219366,
+      "NumCompleted": 2157
     }
   ],
   "TotalAchievements": 512,
@@ -17287,7 +17292,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8773
+      "UsersEstimate": 8775
     },
     {
       "ID": "objective_completed_10",
@@ -17455,7 +17460,7 @@
       "Name": "Hither of the Feywild",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "objective_completed_1066",
@@ -17527,7 +17532,7 @@
       "Name": "The Prince of a Thousand Enemies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "objective_completed_1081",
@@ -17591,7 +17596,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "objective_completed_1090",
@@ -17655,7 +17660,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6580
+      "UsersEstimate": 6581
     },
     {
       "ID": "objective_completed_110",
@@ -17663,7 +17668,7 @@
       "Name": "Wet Feet",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "objective_completed_1100",
@@ -17847,7 +17852,7 @@
       "Name": "Supply Run",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "objective_completed_1142",
@@ -17901,9 +17906,9 @@
       "ID": "objective_completed_115",
       "SetID": "cc37lbc",
       "Name": "Heavy Burden",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1316
     },
     {
       "ID": "objective_completed_1152",
@@ -17919,7 +17924,7 @@
       "Name": "Speeds of Destruction",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "objective_completed_1154",
@@ -17927,7 +17932,7 @@
       "Name": "Owlbear Necessities",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "objective_completed_1158",
@@ -17959,7 +17964,7 @@
       "Name": "Best Thay Ever",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "objective_completed_1163",
@@ -17983,7 +17988,7 @@
       "Name": "A Demi-god\u0027s Defender",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "objective_completed_1168",
@@ -18151,7 +18156,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "objective_completed_1203",
@@ -18191,7 +18196,7 @@
       "Name": "Who Lurks Below?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "objective_completed_1214",
@@ -18207,7 +18212,7 @@
       "Name": "Xanathaaaaaaar!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "objective_completed_1219",
@@ -18263,7 +18268,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "objective_completed_130",
@@ -18359,7 +18364,7 @@
       "Name": "No One Can Hear You Scream",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "objective_completed_1346",
@@ -18375,7 +18380,7 @@
       "Name": "Welcome to the Rock",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "objective_completed_1351",
@@ -18407,7 +18412,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "objective_completed_150",
@@ -18511,7 +18516,7 @@
       "Name": "Building Trust",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "objective_completed_17",
@@ -18615,7 +18620,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "objective_completed_20",
@@ -18959,7 +18964,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "objective_completed_34",
@@ -19061,9 +19066,9 @@
       "ID": "objective_completed_388",
       "SetID": "cc37lbc",
       "Name": "Flies on the Wall",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 439
+      "UsersEstimate": 658
     },
     {
       "ID": "objective_completed_389",
@@ -20367,7 +20372,7 @@
       "Name": "The Giant\u0027s Bane Tavern",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "objective_completed_691",
@@ -20431,7 +20436,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "objective_completed_70",
@@ -21239,7 +21244,7 @@
       "Name": "Devilishly Cold",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "objective_completed_1215",
@@ -21319,7 +21324,7 @@
       "Name": "Luigi After Hours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "objective_completed_1380",
@@ -21335,7 +21340,7 @@
       "Name": "Electric Mayhem",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "objective_completed_1385",
@@ -21343,7 +21348,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "objective_completed_1386",
@@ -21351,7 +21356,7 @@
       "Name": "3,720 to 1",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "objective_completed_1390",
@@ -21382,21 +21387,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185603,
+      "Progressed": 185640,
       "Completed": 3063
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219329,
-      "Completed": 2156
+      "Progressed": 219366,
+      "Completed": 2157
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-06T11:58:58.5923816+00:00",
-  "LastChanged_Achievements": "2023-08-06T17:02:26.0602079+00:00",
+  "LastChanged_Achievements": "2023-08-06T19:02:56.3883664+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-06T17:58:43.9975164+00:00",
-  "LastUpdate_Achievements": "2023-08-06T17:02:26.062535+00:00"
+  "LastUpdate_Ratings": "2023-08-06T18:59:47.5405347+00:00",
+  "LastUpdate_Achievements": "2023-08-06T19:02:56.3914787+00:00"
 }

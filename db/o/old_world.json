@@ -6,7 +6,7 @@
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 117,
-  "Ranking_EOS_Completed": 221,
+  "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
@@ -1577,7 +1577,7 @@
   ],
   "EOS_Progressed": 13297,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10154,9 +10154,9 @@
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
       "SetID": "9201eeb",
       "Name": "Furious Family",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_FERTILE_CRESCENT",
@@ -11616,8 +11616,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-01T16:59:10.6733314+00:00",
-  "LastChanged_Achievements": "2023-08-06T18:03:20.8218736+00:00",
+  "LastChanged_Achievements": "2023-08-06T19:04:03.644861+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:46.1485999+00:00",
-  "LastUpdate_Ratings": "2023-08-06T17:58:33.9042617+00:00",
-  "LastUpdate_Achievements": "2023-08-06T18:03:20.822721+00:00"
+  "LastUpdate_Ratings": "2023-08-06T18:59:29.3675261+00:00",
+  "LastUpdate_Achievements": "2023-08-06T19:04:03.6461014+00:00"
 }

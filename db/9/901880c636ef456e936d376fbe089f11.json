@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -623,9 +623,9 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -726,8 +726,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-08-06T18:06:07.4744584+00:00",
+  "LastChanged_Achievements": "2023-08-06T19:07:50.4678428+00:00",
   "LastUpdate_AppInfo": "2023-08-01T07:57:11.1025351+00:00",
-  "LastUpdate_Ratings": "2023-08-06T17:57:29.5629125+00:00",
-  "LastUpdate_Achievements": "2023-08-06T18:06:07.4745055+00:00"
+  "LastUpdate_Ratings": "2023-08-06T18:58:00.4212093+00:00",
+  "LastUpdate_Achievements": "2023-08-06T19:07:50.4679226+00:00"
 }

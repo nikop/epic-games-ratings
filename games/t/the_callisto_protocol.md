@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.20 (Ranked 851)  
+Rating: 4.20 (Ranked 850)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,6 +17,7 @@ Rating: 4.20 (Ranked 851)
 | In the Pipe, Five by Five | 3.00% | ~475 |
 | Crash Site | 3.00% | ~475 |
 | Full Circle | 3.00% | ~475 |
+| Power Up | 3.00% | ~475 |
 | It's Time | 3.00% | ~112 |
 | Giving Back | 2.00% | ~316 |
 | I Do Belong Here | 2.00% | ~316 |
@@ -28,7 +29,6 @@ Rating: 4.20 (Ranked 851)
 | Without A Paddle | 2.00% | ~316 |
 | What Lies Beneath | 2.00% | ~316 |
 | Desperate Times | 2.00% | ~316 |
-| Power Up | 2.00% | ~316 |
 | In Striking Distance | 1.00% | ~158 |
 | One Last Job | 1.00% | ~37 |
 | This Isn't About Escape | 0.80% | ~30 |

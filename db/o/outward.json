@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3283,
+  "EOS_Progressed": 3284,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3981,6 +3981,11 @@
       "Time": "2023-08-06T16:03:30.3230274+00:00",
       "NumProgressed": 3283,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-06T19:04:03.7739599+00:00",
+      "NumProgressed": 3284,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -4078,9 +4083,9 @@
       "ID": "GiftfromtheAncestors_34",
       "SetID": "c4hee28",
       "Name": "Gift from the Ancestors",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 263
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -4128,7 +4133,7 @@
       "Name": "Light of Levant",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "MagicIsaScience_58",
@@ -4176,7 +4181,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "ReadyforWinter_42",
@@ -4184,7 +4189,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2102
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4264,7 +4269,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "TheStuffOfLegends",
@@ -4288,7 +4293,7 @@
       "Name": "This was a mistake...",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ThroughFireAndFlame",
@@ -4312,7 +4317,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2462
+      "UsersEstimate": 2463
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4327,15 +4332,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3283,
+      "Progressed": 3284,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-08-06T18:03:21.0610321+00:00",
+  "LastChanged_Achievements": "2023-08-06T19:04:03.7739592+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:41.2988144+00:00",
-  "LastUpdate_Ratings": "2023-08-06T17:58:30.3331024+00:00",
-  "LastUpdate_Achievements": "2023-08-06T18:03:21.0610895+00:00"
+  "LastUpdate_Ratings": "2023-08-06T18:59:26.3810694+00:00",
+  "LastUpdate_Achievements": "2023-08-06T19:04:03.7740342+00:00"
 }
