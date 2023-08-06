@@ -136,7 +136,7 @@
 | 134 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 26 | 473 |
 | 134 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,625 | 62 |
 | 134 | [Diabotical](games/d/diabotical.md) | 4.75 | 271 | 245 |
-| 134 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 651 | 172 |
+| 134 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 651 | 173 |
 | 134 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 43 | 418 |
 | 134 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 590 | 181 |
 | 134 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 509 |
@@ -149,7 +149,7 @@
 | 147 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 509 |
 | 147 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 802 | 153 |
 | 147 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 6,103 | 56 |
-| 147 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 650 | 173 |
+| 147 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 652 | 172 |
 | 147 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,899 | 48 |
 | 147 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 509 |
 | 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 35,642 | 14 |
@@ -200,7 +200,7 @@
 | 198 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,551 | 72 |
 | 198 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 370 | 222 |
 | 198 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 391 | 216 |
-| 198 | [For The King](games/f/for_the_king.md) | 4.70 | 378 | 219 |
+| 198 | [For The King](games/f/for_the_king.md) | 4.70 | 379 | 219 |
 | 198 | [GNOG](games/g/gnog.md) | 4.70 | 0 | 509 |
 | 198 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 509 |
 | 198 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 50 | 400 |
@@ -585,7 +585,7 @@
 | 576 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 246 | 252 |
 | 576 | [Maneater](games/m/maneater.md) | 4.49 | 13,610 | 26 |
 | 576 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 451 |
-| 576 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 494,558 | 2 |
+| 576 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 495,502 | 2 |
 | 576 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 358 |
 | 576 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 509 |
 | 576 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 509 |
@@ -768,21 +768,21 @@
 | 764 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 509 |
 | 764 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 509 |
 | 764 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,229 | 66 |
+| 764 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.33 | 0 | 509 |
 | 764 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 462 |
 | 764 | [Torchlight](games/t/torchlight.md) | 4.33 | 21 | 499 |
 | 764 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 0 | 509 |
-| 772 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 355 | 224 |
-| 772 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 58 | 392 |
-| 772 | [Filament](games/f/filament.md) | 4.32 | 559 | 186 |
-| 772 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.32 | 0 | 509 |
-| 772 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 509 |
-| 772 | [Vampyr](games/v/vampyr.md) | 4.32 | 554 | 189 |
-| 778 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 509 |
-| 778 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 509 |
-| 778 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 77 | 364 |
-| 778 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 960 | 145 |
-| 778 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 509 |
-| 778 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.31 | 0 | 509 |
+| 773 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 355 | 224 |
+| 773 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 58 | 392 |
+| 773 | [Filament](games/f/filament.md) | 4.32 | 559 | 186 |
+| 773 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.32 | 0 | 509 |
+| 773 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 509 |
+| 773 | [Vampyr](games/v/vampyr.md) | 4.32 | 554 | 189 |
+| 779 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 509 |
+| 779 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 509 |
+| 779 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 77 | 364 |
+| 779 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 960 | 145 |
+| 779 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 509 |
 | 784 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 509 |
 | 784 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 509 |
 | 784 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 509 |
@@ -914,7 +914,7 @@
 | 907 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 509 |
 | 913 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 535 | 193 |
 | 913 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 181 | 281 |
-| 915 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,119 | 67 |
+| 915 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,121 | 67 |
 | 915 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 509 |
 | 917 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 509 |
 | 917 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 456 | 202 |
