@@ -155,7 +155,7 @@
 | 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 35,590 | 14 |
 | 147 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 509 |
 | 147 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 509 |
-| 147 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 788 | 155 |
+| 147 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 788 | 156 |
 | 147 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 80 | 361 |
 | 147 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 639 | 173 |
 | 147 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 509 |
@@ -635,7 +635,7 @@
 | 631 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 509 |
 | 631 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 242 | 254 |
 | 631 | [Faeria](games/f/faeria.md) | 4.45 | 109 | 324 |
-| 631 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 788 | 155 |
+| 631 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 792 | 155 |
 | 631 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.45 | 0 | 509 |
 | 631 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,039 | 34 |
 | 631 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 29 | 462 |
@@ -758,7 +758,7 @@
 | 755 | [Backbone](games/b/backbone.md) | 4.34 | 0 | 509 |
 | 755 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 119 | 317 |
 | 755 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 509 |
-| 755 | [Encased](games/e/encased.md) | 4.34 | 137 | 304 |
+| 755 | [Encased](games/e/encased.md) | 4.34 | 138 | 304 |
 | 755 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 509 |
 | 755 | [Paladins](games/p/paladins.md) | 4.34 | 3,479 | 86 |
 | 755 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 509 |
@@ -767,21 +767,21 @@
 | 765 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 509 |
 | 765 | [House Party](games/h/house_party.md) | 4.33 | 0 | 509 |
 | 765 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 509 |
-| 765 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.33 | 0 | 509 |
 | 765 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 509 |
 | 765 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,221 | 66 |
 | 765 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 462 |
 | 765 | [Torchlight](games/t/torchlight.md) | 4.33 | 21 | 499 |
 | 765 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 0 | 509 |
-| 774 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 355 | 223 |
-| 774 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 58 | 392 |
-| 774 | [Filament](games/f/filament.md) | 4.32 | 559 | 185 |
-| 774 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 509 |
-| 774 | [Vampyr](games/v/vampyr.md) | 4.32 | 554 | 189 |
+| 773 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 355 | 223 |
+| 773 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 58 | 392 |
+| 773 | [Filament](games/f/filament.md) | 4.32 | 559 | 185 |
+| 773 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.32 | 0 | 509 |
+| 773 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 509 |
+| 773 | [Vampyr](games/v/vampyr.md) | 4.32 | 554 | 189 |
 | 779 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 509 |
 | 779 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 509 |
 | 779 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 76 | 364 |
-| 779 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 959 | 145 |
+| 779 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 960 | 145 |
 | 779 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 509 |
 | 784 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 509 |
 | 784 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 509 |
