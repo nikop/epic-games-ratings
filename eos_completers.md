@@ -39,7 +39,7 @@
 | 37 | [Time Loader](games/t/time_loader.md) | 6.90% |
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.25% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.23% |
 | 41 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 6.03% |
 | 42 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
 | 43 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
@@ -56,8 +56,8 @@
 | 54 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
 | 55 | [ZZT!](games/z/zzt!.md) | 3.71% |
 | 56 | [Without Escape](games/w/without_escape.md) | 3.70% |
-| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.52% |
 | 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
+| 58 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.51% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.48% |
 | 60 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
 | 61 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
