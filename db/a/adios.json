@@ -90,9 +90,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69009,
+  "EOS_Progressed": 69012,
   "EOS_Completed": 688,
-  "EOS_NewPlayers": 903,
+  "EOS_NewPlayers": 898,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -11920,6 +11920,11 @@
       "Time": "2023-08-06T12:06:46.1715927+00:00",
       "NumProgressed": 69009,
       "NumCompleted": 688
+    },
+    {
+      "Time": "2023-08-06T13:09:36.8729193+00:00",
+      "NumProgressed": 69012,
+      "NumCompleted": 688
     }
   ],
   "TotalAchievements": 25,
@@ -11963,7 +11968,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 15182
+      "UsersEstimate": 15183
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -11987,7 +11992,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3450
+      "UsersEstimate": 3451
     },
     {
       "ID": "Fair\u0027sFair",
@@ -12059,7 +12064,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11041
+      "UsersEstimate": 11042
     },
     {
       "ID": "Nothing Left to Say",
@@ -12083,7 +12088,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 8971
+      "UsersEstimate": 8972
     },
     {
       "ID": "Sniper",
@@ -12130,7 +12135,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 69009,
+      "Progressed": 69012,
       "Completed": 688
     }
   ],
@@ -12138,8 +12143,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-07-28T23:00:50.3607038+00:00",
-  "LastChanged_Achievements": "2023-08-06T12:06:46.1715918+00:00",
+  "LastChanged_Achievements": "2023-08-06T13:09:36.8729188+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:13.5185195+00:00",
-  "LastUpdate_Ratings": "2023-08-06T11:57:15.2633128+00:00",
-  "LastUpdate_Achievements": "2023-08-06T12:06:46.1716825+00:00"
+  "LastUpdate_Ratings": "2023-08-06T12:59:29.161703+00:00",
+  "LastUpdate_Achievements": "2023-08-06T13:09:36.8729864+00:00"
 }

@@ -12,7 +12,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Choices | 13.00% | ~1,407 |
 | Defender's Heart | 13.00% | ~1,407 |
 | Banner over the Citadel | 12.00% | ~1,299 |
-| Queen's Gratitude | 10.00% | ~1,082 |
+| Queen's Gratitude | 10.00% | ~1,083 |
 | Fifth Crusade | 7.00% | ~758 |
 | Embrace of the Abyss | 5.00% | ~541 |
 | Path of the Angel | 5.00% | ~541 |
@@ -33,14 +33,14 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hey, I Know You! | 3.00% | ~325 |
 | The Lady of the Forest | 3.00% | ~288 |
 | Beware Still Water | 3.00% | ~288 |
-| Path of the Demon | 2.00% | ~216 |
-| Path of the Aeon | 2.00% | ~216 |
-| Path of the Lich | 2.00% | ~216 |
-| Heroic Victory | 2.00% | ~216 |
-| Capitulation Is Now Moot | 2.00% | ~216 |
-| Core of the Riddle | 2.00% | ~216 |
-| Your First Big Enemy | 2.00% | ~216 |
-| Truly Important Deed | 2.00% | ~216 |
+| Path of the Demon | 2.00% | ~217 |
+| Path of the Aeon | 2.00% | ~217 |
+| Path of the Lich | 2.00% | ~217 |
+| Heroic Victory | 2.00% | ~217 |
+| Capitulation Is Now Moot | 2.00% | ~217 |
+| Core of the Riddle | 2.00% | ~217 |
+| Your First Big Enemy | 2.00% | ~217 |
+| Truly Important Deed | 2.00% | ~217 |
 | Stay Underground | 2.00% | ~192 |
 | Hanged Man's Notes | 2.00% | ~192 |
 | Sarkoris Will Be Green | 2.00% | ~192 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,825 (Ranked 120)  
+Progressed: 10,826 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 0 (0.00%) (Ranked 249)
 | 2023-08-03 | 10,789 | 0 |
 | 2023-08-04 | 10,798 | 0 |
 | 2023-08-05 | 10,811 | 0 |
-| 2023-08-06 | 10,825 | 0 |
+| 2023-08-06 | 10,826 | 0 |
 ## Awards
 Max (Character Customization): 1,695  (Ranked 117)  
 Sum: 6,872 (Ranked 113)  

@@ -5,21 +5,21 @@ Rating: 4.32 (Ranked 773)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 9.00% | ~5,062 |
+| Food Taster | 9.00% | ~5,063 |
 | Fall Fest | 7.00% | ~3,938 |
 | HFZ Goober | 6.00% | ~3,375 |
 | Thrill Seeker | 6.00% | ~3,375 |
-| Flying Present Catcher | 5.00% | ~2,812 |
+| Flying Present Catcher | 5.00% | ~2,813 |
 | Sunflower Master | 4.00% | ~2,250 |
 | Hi Fiver | 3.00% | ~1,688 |
 | Backer Visitor | 2.00% | ~1,125 |
 | Hate That Randomizer | 2.00% | ~1,125 |
 | Feet on Funkotron | 2.00% | ~1,125 |
 | A Timely Splash | 2.00% | ~1,125 |
-| Elf Chaser | 1.00% | ~562 |
-| Fool Me Twice | 1.00% | ~562 |
-| Old School Jammin' | 1.00% | ~562 |
-| Wakey Wakey | 1.00% | ~562 |
+| Elf Chaser | 1.00% | ~563 |
+| Fool Me Twice | 1.00% | ~563 |
+| Old School Jammin' | 1.00% | ~563 |
+| Wakey Wakey | 1.00% | ~563 |
 | Level Diver | 0.80% | ~450 |
 | Gimme My Presents Back! | 0.70% | ~394 |
 | Cleaning Out Santa's Sack | 0.70% | ~394 |
@@ -38,8 +38,8 @@ Rating: 4.32 (Ranked 773)
 | I'm A Total Saint | 0.30% | ~169 |
 | Struck By Love | 0.30% | ~169 |
 | The Worst Possible Luck | 0.30% | ~169 |
-| Broken Present Risk Taker | 0.20% | ~112 |
-| Truly Evil | 0.20% | ~112 |
+| Broken Present Risk Taker | 0.20% | ~113 |
+| Truly Evil | 0.20% | ~113 |
 | Achievement Achiever | 0.10% | ~56 |
 | Boom Box Wipeout | 0.10% | ~56 |
 | Can't Touch This | 0.10% | ~56 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 773)
 | Why Do I Keep Doing That? | 0.10% | ~56 |
 | Hey, You Did It! | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,250 (Ranked 87)  
+Progressed: 56,251 (Ranked 87)  
 Completed: 4 (0.01%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 4 (0.01%) (Ranked 236)
 | 2023-08-03 | 56,206 | 4 |
 | 2023-08-04 | 56,216 | 4 |
 | 2023-08-05 | 56,242 | 4 |
-| 2023-08-06 | 56,250 | 4 |
+| 2023-08-06 | 56,251 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

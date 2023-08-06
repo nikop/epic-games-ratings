@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65212,
+  "EOS_Progressed": 65217,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7000,6 +7000,11 @@
       "Time": "2023-08-06T10:06:23.1451309+00:00",
       "NumProgressed": 65212,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-06T13:08:22.4585485+00:00",
+      "NumProgressed": 65217,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -7019,7 +7024,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1956
+      "UsersEstimate": 1957
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -7067,7 +7072,7 @@
       "Name": "Power of Friendship",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH_LIGHTMINES",
@@ -7115,7 +7120,7 @@
       "Name": "Phone Bill",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH_READCLUES",
@@ -7147,7 +7152,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -7163,14 +7168,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1956
+      "UsersEstimate": 1957
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 65212,
+      "Progressed": 65217,
       "Completed": 13
     }
   ],
@@ -7178,8 +7183,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-08-06T12:05:43.1503272+00:00",
+  "LastChanged_Achievements": "2023-08-06T13:08:22.4585481+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:49.1072543+00:00",
-  "LastUpdate_Ratings": "2023-08-06T11:58:18.2606464+00:00",
-  "LastUpdate_Achievements": "2023-08-06T12:05:43.1503822+00:00"
+  "LastUpdate_Ratings": "2023-08-06T13:00:38.4729485+00:00",
+  "LastUpdate_Achievements": "2023-08-06T13:08:22.4585904+00:00"
 }

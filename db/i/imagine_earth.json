@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 404,
+  "EOS_Progressed": 405,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -289,6 +289,11 @@
       "Time": "2023-08-05T14:04:29.0568234+00:00",
       "NumProgressed": 404,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T13:06:56.5561059+00:00",
+      "NumProgressed": 405,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -308,7 +313,7 @@
       "Name": "Campaign Bronze",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "CampaignStars2",
@@ -364,7 +369,7 @@
       "Name": "Environmentalist",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Forester",
@@ -418,9 +423,9 @@
       "ID": "PlanetJoma",
       "SetID": "c2k469b",
       "Name": "Joma",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 174
     },
     {
       "ID": "PlanetLorian",
@@ -428,7 +433,7 @@
       "Name": "Lorian",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "PlanetMagni",
@@ -460,7 +465,7 @@
       "Name": "Tuto",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "PlanetUdionTorix",
@@ -491,7 +496,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 404,
+      "Progressed": 405,
       "Completed": 0
     }
   ],
@@ -499,8 +504,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-08-06T12:04:30.7088189+00:00",
+  "LastChanged_Achievements": "2023-08-06T13:06:56.5561054+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:11.6539581+00:00",
-  "LastUpdate_Ratings": "2023-08-06T12:00:02.4130238+00:00",
-  "LastUpdate_Achievements": "2023-08-06T12:04:30.7088412+00:00"
+  "LastUpdate_Ratings": "2023-08-06T13:02:40.6516145+00:00",
+  "LastUpdate_Achievements": "2023-08-06T13:06:56.5561197+00:00"
 }

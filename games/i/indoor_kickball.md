@@ -10,27 +10,27 @@
 | Settle Down | 73.00% | ~61 |
 | Homer | 72.00% | ~60 |
 | Butter Fingers | 71.00% | ~59 |
-| Have a good trip! | 69.00% | ~57 |
+| Have a good trip! | 70.00% | ~58 |
 | Kickball Unlocked | 67.00% | ~56 |
 | Stay Hydrated | 66.00% | ~55 |
-| First Win | 63.00% | ~52 |
+| First Win | 64.00% | ~53 |
 | True Story! | 45.00% | ~37 |
 | Bedroom Secret Spot | 37.00% | ~31 |
 | Kick It | 31.00% | ~26 |
 | Spooky | 30.00% | ~25 |
 | Grand Slam! | 25.00% | ~21 |
 | Classroom Secret Spot | 24.00% | ~20 |
-| Save some water for the fishies | 23.00% | ~19 |
+| Save some water for the fishies | 24.00% | ~20 |
 | Have Mercy | 23.00% | ~19 |
 | Angry Dad | 23.00% | ~19 |
+| At least everyone still had fun | 23.00% | ~19 |
 | Bathroom Secret Spot | 22.00% | ~18 |
-| At least everyone still had fun | 22.00% | ~18 |
 | Living Room Secret Spot | 19.00% | ~16 |
-| Hi Hungry, I'm Dad | 16.00% | ~13 |
+| Hi Hungry, I'm Dad | 17.00% | ~14 |
 | Angry Mom | 14.00% | ~12 |
 | Just how we drew it up | 11.00% | ~9 |
 | Interference | 10.00% | ~8 |
-| Kitchen Secret Spot | 6.00% | ~5 |
+| Kitchen Secret Spot | 7.00% | ~6 |
 | You broke it, you bought it | 6.00% | ~5 |
 | Found the Secret Formula! | 5.00% | ~4 |
 | Attic Secret Spot | 4.00% | ~3 |

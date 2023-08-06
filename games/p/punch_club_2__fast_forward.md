@@ -8,10 +8,10 @@
 | Your first fight | 86.00% | ~197 |
 | Good Person Chip | 85.00% | ~195 |
 | First winning | 84.00% | ~192 |
-| Your first job | 83.00% | ~190 |
-| Old movies enjoyer | 78.00% | ~179 |
+| Your first job | 84.00% | ~192 |
+| Old movies enjoyer | 79.00% | ~181 |
+| First defeat | 77.00% | ~176 |
 | Fitness professional | 76.00% | ~174 |
-| First defeat | 76.00% | ~174 |
 | Depressed visitor | 76.00% | ~174 |
 | Neurotrainer – power gainer! | 76.00% | ~174 |
 | Employee of the week | 75.00% | ~172 |
@@ -24,8 +24,8 @@
 | Spirit of the past | 61.00% | ~140 |
 | Employee of the month | 61.00% | ~140 |
 | Law student | 59.00% | ~135 |
+| Intriguing candies | 58.00% | ~133 |
 | Little hacker | 57.00% | ~131 |
-| Intriguing candies | 57.00% | ~131 |
 | Workout professional | 55.00% | ~126 |
 | Champion – starter pack | 55.00% | ~126 |
 | It's good to be alive | 55.00% | ~126 |

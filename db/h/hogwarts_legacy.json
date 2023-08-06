@@ -5952,9 +5952,9 @@
       "Count": 576
     }
   ],
-  "EOS_Progressed": 289503,
+  "EOS_Progressed": 289505,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 572,
+  "EOS_NewPlayers": 567,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -17602,6 +17602,11 @@
       "Time": "2023-08-06T12:05:22.0618481+00:00",
       "NumProgressed": 289503,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-08-06T13:07:57.1658635+00:00",
+      "NumProgressed": 289505,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 45,
@@ -17613,7 +17618,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34740
+      "UsersEstimate": 34741
     },
     {
       "ID": "PFA_10",
@@ -17941,7 +17946,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31845
+      "UsersEstimate": 31846
     },
     {
       "ID": "PFA_7",
@@ -17949,7 +17954,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31845
+      "UsersEstimate": 31846
     },
     {
       "ID": "PFA_8",
@@ -17972,7 +17977,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289503,
+      "Progressed": 289505,
       "Completed": 442
     }
   ],
@@ -17980,8 +17985,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-06T03:58:12.2763072+00:00",
-  "LastChanged_Achievements": "2023-08-06T12:05:22.0618475+00:00",
+  "LastChanged_Achievements": "2023-08-06T13:07:57.165863+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.8672159+00:00",
-  "LastUpdate_Ratings": "2023-08-06T11:58:16.1173854+00:00",
-  "LastUpdate_Achievements": "2023-08-06T12:05:22.0619579+00:00"
+  "LastUpdate_Ratings": "2023-08-06T13:00:34.2175945+00:00",
+  "LastUpdate_Achievements": "2023-08-06T13:07:57.1659454+00:00"
 }

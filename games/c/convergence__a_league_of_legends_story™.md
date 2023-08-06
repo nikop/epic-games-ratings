@@ -1,13 +1,13 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.60 (Ranked 390)  
+Rating: 4.60 (Ranked 389)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 24.00% | ~198 |
-| Rail Rat | 21.00% | ~173 |
 | The Mysterious Stranger | 20.00% | ~165 |
+| Rail Rat | 20.00% | ~165 |
 | Make Up For Lost Time | 18.00% | ~148 |
 | The Prince in Heels | 18.00% | ~148 |
 | Immaculate Aim | 18.00% | ~148 |
@@ -16,10 +16,10 @@ Rating: 4.60 (Ranked 390)
 | The Harder They Fall | 17.00% | ~140 |
 | No, Thanks! | 17.00% | ~140 |
 | Breaking Down Barriers | 17.00% | ~140 |
-| Honest Mistake | 17.00% | ~140 |
 | Immaculate Aim | 17.00% | ~140 |
 | The Brass Boss | 17.00% | ~140 |
 | The Wicked Twins | 16.00% | ~132 |
+| Honest Mistake | 16.00% | ~132 |
 | Fast Learner | 16.00% | ~132 |
 | Like Clockwork | 15.00% | ~124 |
 | The Betrayer | 15.00% | ~124 |
@@ -28,20 +28,20 @@ Rating: 4.60 (Ranked 390)
 | Golem Chaser | 15.00% | ~124 |
 | Check Your Pulse | 15.00% | ~124 |
 | The Family Fortune | 15.00% | ~124 |
-| Treasure Trove | 14.00% | ~115 |
-| Right On Time | 14.00% | ~115 |
-| Cartographer | 14.00% | ~115 |
+| Treasure Trove | 14.00% | ~116 |
+| Right On Time | 14.00% | ~116 |
+| Cartographer | 14.00% | ~116 |
 | Street Style | 13.00% | ~107 |
 | Whiz Kid | 12.00% | ~99 |
 | Good Neighbor | 11.00% | ~91 |
 | Chaincrawler Explorer | 10.00% | ~82 |
 | Family Memories | 10.00% | ~82 |
+| Fairgrounds Explorer | 9.00% | ~74 |
 | Sump Explorer | 9.00% | ~74 |
 | Syron for Hope | 9.00% | ~74 |
 | Theater Explorer | 9.00% | ~74 |
 | Ask Questions Later | 9.00% | ~74 |
 | Factorywood Explorer | 8.00% | ~66 |
-| Fairgrounds Explorer | 8.00% | ~66 |
 | Corin Goes Home | 7.00% | ~58 |
 | Sartorialist | 7.00% | ~58 |
 | Cultivair Explorer | 7.00% | ~58 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 390)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 824 (Ranked 202)  
+Progressed: 825 (Ranked 202)  
 Completed: 5 (0.61%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 5 (0.61%) (Ranked 128)
 | 2023-08-02 | 820 | 5 |
 | 2023-08-04 | 822 | 5 |
 | 2023-08-05 | 823 | 5 |
-| 2023-08-06 | 824 | 5 |
+| 2023-08-06 | 825 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1473,
+  "EOS_Progressed": 1474,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3028,6 +3028,11 @@
       "Time": "2023-08-06T08:05:57.0010791+00:00",
       "NumProgressed": 1473,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T13:07:43.3149413+00:00",
+      "NumProgressed": 1474,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3111,7 +3116,7 @@
       "Name": "The Collector",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -3159,7 +3164,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -3173,9 +3178,9 @@
       "ID": "NEW_ACHIEVEMENT_CAVEMAN",
       "SetID": "l546gc",
       "Name": "Caveman",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "NEW_ACHIEVEMENT_DEFENCE",
@@ -3255,7 +3260,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -3263,7 +3268,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -3422,7 +3427,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1473,
+      "Progressed": 1474,
       "Completed": 0
     }
   ],
@@ -3430,8 +3435,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-07-31T07:57:50.7109089+00:00",
-  "LastChanged_Achievements": "2023-08-06T12:05:10.446062+00:00",
+  "LastChanged_Achievements": "2023-08-06T13:07:43.3149409+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.4356616+00:00",
-  "LastUpdate_Ratings": "2023-08-06T11:58:15.5538426+00:00",
-  "LastUpdate_Achievements": "2023-08-06T12:05:10.446125+00:00"
+  "LastUpdate_Ratings": "2023-08-06T13:00:33.4354193+00:00",
+  "LastUpdate_Achievements": "2023-08-06T13:07:43.314987+00:00"
 }

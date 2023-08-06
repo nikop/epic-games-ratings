@@ -6,29 +6,29 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,893 |
+| Tattletale | 41.00% | ~5,894 |
 | Man of politics | 35.00% | ~5,031 |
-| Friends of sorts | 34.00% | ~4,887 |
-| Yet another secret | 34.00% | ~4,887 |
-| Let there be darkness | 32.00% | ~4,599 |
+| Friends of sorts | 34.00% | ~4,888 |
+| Yet another secret | 34.00% | ~4,888 |
+| Let there be darkness | 32.00% | ~4,600 |
 | End of Book One | 30.00% | ~4,312 |
 | Wannabe knight | 24.00% | ~3,450 |
 | Garden of Eden | 24.00% | ~3,450 |
 | Full house | 24.00% | ~3,450 |
 | Help an old friend | 22.00% | ~3,162 |
 | Two of us | 20.00% | ~2,875 |
-| Negotiation skills | 18.00% | ~2,587 |
-| Workers' union | 18.00% | ~2,587 |
-| End of Book Two | 18.00% | ~2,587 |
-| Everything's in order | 17.00% | ~2,443 |
+| Negotiation skills | 18.00% | ~2,588 |
+| Workers' union | 18.00% | ~2,588 |
+| End of Book Two | 18.00% | ~2,588 |
+| Everything's in order | 17.00% | ~2,444 |
 | Jack was here! | 15.00% | ~2,156 |
-| Twist of Fate | 14.00% | ~2,012 |
-| Exterminator | 13.00% | ~1,868 |
-| Whodunnit | 13.00% | ~1,868 |
+| Twist of Fate | 14.00% | ~2,013 |
+| Exterminator | 13.00% | ~1,869 |
+| Whodunnit | 13.00% | ~1,869 |
 | Good midwife | 11.00% | ~1,581 |
 | Friar Tuck | 11.00% | ~1,581 |
 | First profit | 11.00% | ~1,581 |
-| Team player | 10.00% | ~1,437 |
+| Team player | 10.00% | ~1,438 |
 | Skilled merchant | 9.00% | ~1,294 |
 | Nothing but make-believe | 9.00% | ~1,294 |
 | Brother Marcus | 9.00% | ~1,294 |
@@ -46,9 +46,9 @@ Number of Ratings: 368  (23.09.2022)
 | Countess Aliena | 4.00% | ~575 |
 | Care, like a brother cares | 3.00% | ~431 |
 | A brush with death | 3.00% | ~431 |
-| Boy of mystery | 2.00% | ~287 |
+| Boy of mystery | 2.00% | ~288 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,373 (Ranked 116)  
+Progressed: 14,375 (Ranked 116)  
 Completed: 107 (0.74%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 107 (0.74%) (Ranked 122)
 | 2023-08-03 | 14,336 | 107 |
 | 2023-08-04 | 14,346 | 107 |
 | 2023-08-05 | 14,365 | 107 |
-| 2023-08-06 | 14,373 | 107 |
+| 2023-08-06 | 14,375 | 107 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 297)  
 Sum: 188 (Ranked 373)  

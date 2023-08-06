@@ -11,11 +11,11 @@ Rating: 4.62 (Ranked 349)
 | A Wonderful Discovery | 5.00% | ~254 |
 | Walls Cannot Stop Us | 5.00% | ~254 |
 | From Friends to Family | 5.00% | ~254 |
+| Stronger Together | 5.00% | ~254 |
 | Magical Synergy | 5.00% | ~254 |
 | There Can Only Be One! | 4.00% | ~204 |
 | Full Ascension | 4.00% | ~204 |
 | Bone Peddler | 4.00% | ~204 |
-| Stronger Together | 4.00% | ~204 |
 | My Final Form | 4.00% | ~204 |
 | Seat of Power | 4.00% | ~204 |
 | Impenetrable Fortress | 4.00% | ~204 |

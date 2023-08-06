@@ -568,9 +568,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 9590,
+  "EOS_Progressed": 9592,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7988,6 +7988,11 @@
       "Time": "2023-08-06T10:05:22.9682303+00:00",
       "NumProgressed": 9590,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-06T13:07:28.1331562+00:00",
+      "NumProgressed": 9592,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 34,
@@ -8087,7 +8092,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACH13",
@@ -8103,7 +8108,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3932
+      "UsersEstimate": 3933
     },
     {
       "ID": "ACH15",
@@ -8199,7 +8204,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "ACH27",
@@ -8215,7 +8220,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACH29",
@@ -8270,7 +8275,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9590,
+      "Progressed": 9592,
       "Completed": 44
     }
   ],
@@ -8278,8 +8283,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-01T16:59:33.8335317+00:00",
-  "LastChanged_Achievements": "2023-08-06T12:04:57.6093551+00:00",
+  "LastChanged_Achievements": "2023-08-06T13:07:28.1331557+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:06.4488282+00:00",
-  "LastUpdate_Ratings": "2023-08-06T11:59:03.6719666+00:00",
-  "LastUpdate_Achievements": "2023-08-06T12:04:57.6094196+00:00"
+  "LastUpdate_Ratings": "2023-08-06T13:01:34.0783583+00:00",
+  "LastUpdate_Achievements": "2023-08-06T13:07:28.1332106+00:00"
 }

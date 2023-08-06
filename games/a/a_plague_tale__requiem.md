@@ -5,27 +5,27 @@ Rating: 4.73 (Ranked 160)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~11,627 |
+| Under a New Sun | 92.00% | ~11,628 |
 | Newcomers | 78.00% | ~9,858 |
 | A Burden of Blood | 73.00% | ~9,226 |
-| Protector's Duty | 69.00% | ~8,720 |
-| Alchemist | 68.00% | ~8,594 |
-| In our Wake | 67.00% | ~8,467 |
-| Leaving all Behind | 64.00% | ~8,088 |
-| Felons | 61.00% | ~7,709 |
+| Protector's Duty | 69.00% | ~8,721 |
+| Alchemist | 68.00% | ~8,595 |
+| In our Wake | 67.00% | ~8,468 |
+| Leaving all Behind | 64.00% | ~8,089 |
+| Felons | 61.00% | ~7,710 |
 | A Sea of Promises | 60.00% | ~7,583 |
-| Tales and Revelations | 56.00% | ~7,077 |
+| Tales and Revelations | 56.00% | ~7,078 |
 | Bloodline | 52.00% | ~6,572 |
-| The Cradle of Centuries | 48.00% | ~6,066 |
-| The Life We Deserve | 45.00% | ~5,687 |
+| The Cradle of Centuries | 48.00% | ~6,067 |
+| The Life We Deserve | 45.00% | ~5,688 |
 | Night guard | 42.00% | ~5,308 |
-| Nothing Left | 38.00% | ~4,802 |
+| Nothing Left | 38.00% | ~4,803 |
 | Healing our Wounds | 36.00% | ~4,550 |
 | Dying Sun | 33.00% | ~4,171 |
 | Improved crossbow | 26.00% | ~3,286 |
 | King Hugo | 24.00% | ~3,033 |
 | Mercy | 23.00% | ~2,907 |
-| Perfect shot | 22.00% | ~2,780 |
+| Perfect shot | 22.00% | ~2,781 |
 | Effective instruments | 21.00% | ~2,654 |
 | Perfect throw | 21.00% | ~2,654 |
 | Knights! | 20.00% | ~2,528 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 160)
 | Explorer | 1.00% | ~126 |
 | Malignant | 1.00% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,638 (Ranked 118)  
+Progressed: 12,639 (Ranked 118)  
 Completed: 40 (0.32%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 40 (0.32%) (Ranked 156)
 | 2023-08-03 | 12,589 | 40 |
 | 2023-08-04 | 12,602 | 40 |
 | 2023-08-05 | 12,626 | 40 |
-| 2023-08-06 | 12,638 | 40 |
+| 2023-08-06 | 12,639 | 40 |
 ## Awards
 Max (Great Boss Battles): 410  (Ranked 209)  
 Sum: 628 (Ranked 290)  

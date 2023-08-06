@@ -5,9 +5,9 @@
   "Ranking_Rating": 873,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
-  "Ranking_EOS_Progress": 183,
+  "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1357,
+  "EOS_Progressed": 1358,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.86,
   "EosHistory": [
@@ -2023,6 +2023,11 @@
       "Time": "2023-08-06T12:01:09.9481824+00:00",
       "NumProgressed": 1357,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-08-06T13:04:08.7404479+00:00",
+      "NumProgressed": 1358,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 11,
@@ -2042,7 +2047,7 @@
       "Name": "Freeze to death",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "ACH_Cacciavite",
@@ -2050,7 +2055,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -2082,7 +2087,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -2098,7 +2103,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -2106,7 +2111,7 @@
       "Name": "Someone was here",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -2114,22 +2119,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1357,
+      "Progressed": 1358,
       "Completed": 66
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-08-06T12:01:09.9481819+00:00",
+  "LastChanged_Achievements": "2023-08-06T13:04:08.7404474+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:05.1963612+00:00",
-  "LastUpdate_Ratings": "2023-08-06T12:00:50.3460944+00:00",
-  "LastUpdate_Achievements": "2023-08-06T12:01:09.9482128+00:00"
+  "LastUpdate_Ratings": "2023-08-06T13:03:41.2765312+00:00",
+  "LastUpdate_Achievements": "2023-08-06T13:04:08.7404668+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -315,9 +315,9 @@
       "ID": "CgkIxYDzrbcPEAIQCw",
       "SetID": "4egpam7",
       "Name": "Target Practice",
-      "Percentage": 71,
+      "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDA",
@@ -482,8 +482,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-06T12:05:38.5422537+00:00",
+  "LastChanged_Achievements": "2023-08-06T13:08:16.9643848+00:00",
   "LastUpdate_AppInfo": "2023-08-01T13:03:42.8439888+00:00",
-  "LastUpdate_Ratings": "2023-08-06T11:57:44.6863961+00:00",
-  "LastUpdate_Achievements": "2023-08-06T12:05:38.5422794+00:00"
+  "LastUpdate_Ratings": "2023-08-06T12:59:59.6685227+00:00",
+  "LastUpdate_Achievements": "2023-08-06T13:08:16.9644163+00:00"
 }

@@ -62,6 +62,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.70% | ~93 |
 | Apadana | 0.70% | ~93 |
 | Musaeum | 0.70% | ~93 |
+| Egyptian Paganism | 0.70% | ~93 |
 | Drillmaster | 0.60% | ~80 |
 | Intercessor | 0.60% | ~80 |
 | Valiant | 0.60% | ~80 |
@@ -70,7 +71,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.60% | ~80 |
 | Learn to Play 2 | 0.60% | ~80 |
 | Greece | 0.60% | ~80 |
-| Egyptian Paganism | 0.60% | ~80 |
 | Mythology | 0.60% | ~80 |
 | Points Victory | 0.60% | ~80 |
 | Hanging Gardens in Babylon | 0.50% | ~66 |
@@ -413,9 +413,9 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-05 | 13,281 | 5 |
 | 2023-08-06 | 13,288 | 5 |
 ## Awards
-Max (Relaxing): 218  (Ranked 264)  
+Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,786 (Ranked 206)  
-Diff (max vs sum): 58  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 218 |

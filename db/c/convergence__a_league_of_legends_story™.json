@@ -2,12 +2,12 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 824,
+  "EOS_Progressed": 825,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -1945,6 +1945,11 @@
       "Time": "2023-08-06T11:04:59.8677327+00:00",
       "NumProgressed": 824,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-06T13:07:13.3599536+00:00",
+      "NumProgressed": 825,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -1980,7 +1985,7 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -1988,7 +1993,7 @@
       "Name": "Right On Time",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2066,9 +2071,9 @@
       "ID": "FairgroundsChests1",
       "SetID": "a9e499d",
       "Name": "Fairgrounds Explorer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 74
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -2114,9 +2119,9 @@
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 165
     },
     {
       "ID": "HexlockGift",
@@ -2156,7 +2161,7 @@
       "Name": "Cartographer",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "NoCritterSump",
@@ -2250,9 +2255,9 @@
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 132
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2379,7 +2384,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 824,
+      "Progressed": 825,
       "Completed": 5
     }
   ],
@@ -2387,8 +2392,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-06T12:04:44.9822799+00:00",
+  "LastChanged_Achievements": "2023-08-06T13:07:13.3599532+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:20.0210953+00:00",
-  "LastUpdate_Ratings": "2023-08-06T12:00:09.1061705+00:00",
-  "LastUpdate_Achievements": "2023-08-06T12:04:44.982342+00:00"
+  "LastUpdate_Ratings": "2023-08-06T13:02:52.135536+00:00",
+  "LastUpdate_Achievements": "2023-08-06T13:07:13.3600002+00:00"
 }
