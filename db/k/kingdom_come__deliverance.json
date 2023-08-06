@@ -6378,9 +6378,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 795858,
+  "EOS_Progressed": 795859,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1056,
+  "EOS_NewPlayers": 1057,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18068,6 +18068,11 @@
       "Time": "2023-08-06T01:51:31.4126469+00:00",
       "NumProgressed": 795858,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-06T02:22:26.9419842+00:00",
+      "NumProgressed": 795859,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -18183,7 +18188,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 47751
+      "UsersEstimate": 47752
     },
     {
       "ID": "Cavalier",
@@ -18191,7 +18196,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 198964
+      "UsersEstimate": 198965
     },
     {
       "ID": "Chivalrous",
@@ -18279,7 +18284,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 183047
+      "UsersEstimate": 183048
     },
     {
       "ID": "Fighter",
@@ -18734,15 +18739,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 795858,
+      "Progressed": 795859,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-05T21:59:43.8484128+00:00",
-  "LastChanged_Achievements": "2023-08-06T01:51:31.4126462+00:00",
+  "LastChanged_Achievements": "2023-08-06T02:22:26.9419834+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:17.2997126+00:00",
-  "LastUpdate_Ratings": "2023-08-06T01:45:53.7843815+00:00",
-  "LastUpdate_Achievements": "2023-08-06T01:51:31.4128112+00:00"
+  "LastUpdate_Ratings": "2023-08-06T02:16:43.1192733+00:00",
+  "LastUpdate_Achievements": "2023-08-06T02:22:26.9421429+00:00"
 }

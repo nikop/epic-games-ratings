@@ -22,6 +22,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wet Feet | 0.70% | ~1,534 |
 | Return to the Tomb | 0.70% | ~1,298 |
 | Were-verpowered | 0.70% | ~1,534 |
+| Terror in the Dark | 0.70% | ~1,534 |
 | Unearthed Evil | 0.70% | ~1,534 |
 | The Cursed Farmer | 0.70% | ~1,534 |
 | Pros and CONs | 0.60% | ~1,315 |
@@ -33,7 +34,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.60% | ~1,112 |
 | A Persistent Buzzing | 0.60% | ~1,315 |
 | Beast Mode | 0.60% | ~1,315 |
-| Terror in the Dark | 0.60% | ~1,315 |
 | A Mysterious Summons | 0.60% | ~1,315 |
 | Building Trust | 0.60% | ~1,315 |
 | The Dinner Party | 0.60% | ~1,315 |
@@ -149,6 +149,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.30% | ~657 |
 | Resolve Amongst Chaos | 0.30% | ~657 |
 | Market Fluctuations | 0.30% | ~657 |
+| Into The Fire | 0.30% | ~556 |
 | The Giant's Bane Tavern | 0.30% | ~556 |
 | The Everlasting Rime | 0.30% | ~556 |
 | Close Escort | 0.30% | ~657 |
@@ -219,7 +220,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wyllowwood | 0.20% | ~438 |
 | An Illithid Undertaking | 0.20% | ~371 |
 | Déjà Vu | 0.20% | ~371 |
-| Into The Fire | 0.20% | ~371 |
 | Dreamscape | 0.20% | ~371 |
 | The Path of Dreams | 0.20% | ~371 |
 | The Lost Hollyphant | 0.20% | ~371 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,093 (Ranked 53)  
+Progressed: 219,099 (Ranked 53)  
 Completed: 2,154 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,7 +627,7 @@ Completed: 2,154 (0.98%) (Ranked 113)
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
-| 2023-08-06 | 219,093 | 2,154 |
+| 2023-08-06 | 219,099 | 2,154 |
 ## Awards
 Max (Diverse Characters): 5,119  (Ranked 67)  
 Sum: 30,910 (Ranked 38)  

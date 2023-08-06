@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 981,
+  "EOS_Progressed": 982,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1294,6 +1294,11 @@
       "Time": "2023-08-05T09:04:45.7439649+00:00",
       "NumProgressed": 981,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T02:22:48.3142164+00:00",
+      "NumProgressed": 982,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1303,9 +1308,9 @@
       "ID": "ACTIVATE_ALL_TYPEGROUPS",
       "SetID": "6ohhfoc",
       "Name": "Full house",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 49
     },
     {
       "ID": "CHALLENGE_ALPHA",
@@ -1529,15 +1534,15 @@
       "Name": "We made it",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
       "SetID": "6ohhfoc",
       "Name": "Listening to the crowd",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 49
     },
     {
       "ID": "TRIPLE_FAIR",
@@ -1664,7 +1669,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 981,
+      "Progressed": 982,
       "Completed": 0
     }
   ],
@@ -1672,8 +1677,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-08-06T01:52:02.2588309+00:00",
+  "LastChanged_Achievements": "2023-08-06T02:22:48.314216+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:24.6012935+00:00",
-  "LastUpdate_Ratings": "2023-08-06T01:44:49.5803261+00:00",
-  "LastUpdate_Achievements": "2023-08-06T01:52:02.2588869+00:00"
+  "LastUpdate_Ratings": "2023-08-06T02:15:56.7546489+00:00",
+  "LastUpdate_Achievements": "2023-08-06T02:22:48.3142596+00:00"
 }

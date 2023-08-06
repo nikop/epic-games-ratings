@@ -4090,9 +4090,9 @@
       "Count": 265
     }
   ],
-  "EOS_Progressed": 81710,
+  "EOS_Progressed": 81711,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 1096,
+  "EOS_NewPlayers": 1097,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15630,6 +15630,11 @@
       "Time": "2023-08-06T01:49:04.5657734+00:00",
       "NumProgressed": 81710,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-08-06T02:20:15.8029423+00:00",
+      "NumProgressed": 81711,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 100,
@@ -15649,7 +15654,7 @@
       "Name": "You\u0027re on Fire",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 28598
+      "UsersEstimate": 28599
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -15657,7 +15662,7 @@
       "Name": "Unbeatable!",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 41672
+      "UsersEstimate": 41673
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -15689,7 +15694,7 @@
       "Name": "On a Roll",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 26964
+      "UsersEstimate": 26965
     },
     {
       "ID": "achievement_30_matches_without_conceding_goal",
@@ -15737,7 +15742,7 @@
       "Name": "Team Performance",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 35952
+      "UsersEstimate": 35953
     },
     {
       "ID": "achievement_beat_a_rival",
@@ -15761,7 +15766,7 @@
       "Name": "Thumping",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 43306
+      "UsersEstimate": 43307
     },
     {
       "ID": "achievement_bragging_rights",
@@ -15777,7 +15782,7 @@
       "Name": "Splashing the Cash",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 26964
+      "UsersEstimate": 26965
     },
     {
       "ID": "achievement_clean_sheet",
@@ -15825,7 +15830,7 @@
       "Name": "Do The Double",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19610
+      "UsersEstimate": 19611
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -15921,7 +15926,7 @@
       "Name": "Superb Strike",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 11439
+      "UsersEstimate": 11440
     },
     {
       "ID": "achievement_goal_scored_in_20_consecutive_matches",
@@ -15945,7 +15950,7 @@
       "Name": "Hat-trick",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 49026
+      "UsersEstimate": 49027
     },
     {
       "ID": "achievement_head_to_head",
@@ -15953,7 +15958,7 @@
       "Name": "T\u00EAte-\u00E0-t\u00EAte",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 12256
+      "UsersEstimate": 12257
     },
     {
       "ID": "achievement_hes_a_natural",
@@ -16001,7 +16006,7 @@
       "Name": "The Special One",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 27781
+      "UsersEstimate": 27782
     },
     {
       "ID": "achievement_mini_league_champion",
@@ -16049,7 +16054,7 @@
       "Name": "One of Us, One of Us!",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 59648
+      "UsersEstimate": 59649
     },
     {
       "ID": "achievement_people_pleaser",
@@ -16057,7 +16062,7 @@
       "Name": "People Pleaser",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 41672
+      "UsersEstimate": 41673
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -16089,7 +16094,7 @@
       "Name": "Star Player",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 33501
+      "UsersEstimate": 33502
     },
     {
       "ID": "achievement_reach_top_of_hall_of_fame",
@@ -16113,7 +16118,7 @@
       "Name": "Record Signing",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 35952
+      "UsersEstimate": 35953
     },
     {
       "ID": "achievement_red_hot_newgen",
@@ -16129,7 +16134,7 @@
       "Name": "Scoring Streak",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 43306
+      "UsersEstimate": 43307
     },
     {
       "ID": "achievement_sell_50_million_plus_player",
@@ -16167,9 +16172,9 @@
       "ID": "achievement_signed_a_player_from_another_network_user",
       "SetID": "26pcimd",
       "Name": "Second Hand Signing",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 8171
+      "UsersEstimate": 8988
     },
     {
       "ID": "achievement_squad_goals",
@@ -16193,7 +16198,7 @@
       "Name": "The Only Stat That Matters",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 35952
+      "UsersEstimate": 35953
     },
     {
       "ID": "achievement_the_peoples_champion",
@@ -16281,7 +16286,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 42489
+      "UsersEstimate": 42490
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -16369,7 +16374,7 @@
       "Name": "Best in the World",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12256
+      "UsersEstimate": 12257
     },
     {
       "ID": "achievement_you_can_buy_happiness",
@@ -16440,7 +16445,7 @@
     {
       "ID": "26pcimd",
       "IsBase": true,
-      "Progressed": 81710,
+      "Progressed": 81711,
       "Completed": 23
     }
   ],
@@ -16448,8 +16453,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-08-05T23:59:57.0181657+00:00",
-  "LastChanged_Achievements": "2023-08-06T01:49:04.5657727+00:00",
+  "LastChanged_Achievements": "2023-08-06T02:20:15.8029418+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:28.6232657+00:00",
-  "LastUpdate_Ratings": "2023-08-06T01:47:16.0194941+00:00",
-  "LastUpdate_Achievements": "2023-08-06T01:49:04.566121+00:00"
+  "LastUpdate_Ratings": "2023-08-06T02:17:39.2491624+00:00",
+  "LastUpdate_Achievements": "2023-08-06T02:20:15.8031117+00:00"
 }

@@ -1575,9 +1575,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13281,
+  "EOS_Progressed": 13282,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9175,6 +9175,11 @@
       "Time": "2023-08-05T20:03:30.3556988+00:00",
       "NumProgressed": 13281,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-06T02:21:10.3847091+00:00",
+      "NumProgressed": 13282,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11240,9 +11245,9 @@
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
       "SetID": "9201eeb",
       "Name": "Three Man Chariot",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_UNIT_KUSHITE_CAVALRY",
@@ -11553,21 +11558,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13281,
+      "Progressed": 13282,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13281,
+      "Progressed": 13282,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-01T16:59:10.6733314+00:00",
-  "LastChanged_Achievements": "2023-08-06T01:49:39.8974616+00:00",
+  "LastChanged_Achievements": "2023-08-06T02:21:10.3847083+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:46.1485999+00:00",
-  "LastUpdate_Ratings": "2023-08-06T01:45:12.6729098+00:00",
-  "LastUpdate_Achievements": "2023-08-06T01:49:39.8985182+00:00"
+  "LastUpdate_Ratings": "2023-08-06T02:16:16.5367025+00:00",
+  "LastUpdate_Achievements": "2023-08-06T02:21:10.3856589+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 242,
-  "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_Completed": 39,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 368,
-  "EOS_Completed": 22,
+  "EOS_Completed": 23,
   "EOS_NewPlayers": 111,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 5.98,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 6.25,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -1286,6 +1286,11 @@
       "Time": "2023-08-06T01:53:44.3147124+00:00",
       "NumProgressed": 368,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-08-06T02:24:00.0260406+00:00",
+      "NumProgressed": 368,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 45,
@@ -1351,9 +1356,9 @@
       "ID": "BearSword",
       "SetID": "db30heh",
       "Name": "Full Deck",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "BeggarWomanCoin",
@@ -1391,9 +1396,9 @@
       "ID": "BroomPistol",
       "SetID": "db30heh",
       "Name": "Target Hit",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "DevilPriest",
@@ -1495,9 +1500,9 @@
       "ID": "KingDiamond",
       "SetID": "db30heh",
       "Name": "King\u0027s Jewel",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 144
+      "UsersEstimate": 147
     },
     {
       "ID": "PitSoul",
@@ -1591,9 +1596,9 @@
       "ID": "RogueNaked",
       "SetID": "db30heh",
       "Name": "The King is Naked",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "RogueRum",
@@ -1607,9 +1612,9 @@
       "ID": "SleepingBasiliskAmanita",
       "SetID": "db30heh",
       "Name": "Wild Dreams",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 59
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -1639,9 +1644,9 @@
       "ID": "SwordMoneyBag",
       "SetID": "db30heh",
       "Name": "Expensive Deal",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 144
+      "UsersEstimate": 147
     },
     {
       "ID": "WormGrilled",
@@ -1657,13 +1662,13 @@
       "ID": "db30heh",
       "IsBase": true,
       "Progressed": 368,
-      "Completed": 22
+      "Completed": 23
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-06T01:53:44.3147116+00:00",
+  "LastChanged_Achievements": "2023-08-06T02:24:00.0260399+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-06T01:43:39.886931+00:00",
-  "LastUpdate_Achievements": "2023-08-06T01:53:44.314762+00:00"
+  "LastUpdate_Ratings": "2023-08-06T02:15:09.2172361+00:00",
+  "LastUpdate_Achievements": "2023-08-06T02:24:00.0260896+00:00"
 }

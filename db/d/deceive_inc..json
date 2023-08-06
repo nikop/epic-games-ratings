@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16985,
+  "EOS_Progressed": 16986,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2520,
+  "EOS_NewPlayers": 2521,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7444,6 +7444,11 @@
       "Time": "2023-08-06T01:50:51.2544939+00:00",
       "NumProgressed": 16985,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-06T02:21:53.4325974+00:00",
+      "NumProgressed": 16986,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -7471,7 +7476,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2888
     },
     {
       "ID": "0004",
@@ -7559,7 +7564,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2888
     },
     {
       "ID": "0015",
@@ -7591,7 +7596,7 @@
       "Name": "In It to Win It",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "0019",
@@ -7742,7 +7747,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 16985,
+      "Progressed": 16986,
       "Completed": 1
     }
   ],
@@ -7750,8 +7755,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-04T08:00:04.3199402+00:00",
-  "LastChanged_Achievements": "2023-08-06T01:50:51.2544931+00:00",
+  "LastChanged_Achievements": "2023-08-06T02:21:53.4325966+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-06T01:47:29.4449824+00:00",
-  "LastUpdate_Achievements": "2023-08-06T01:50:51.2546187+00:00"
+  "LastUpdate_Ratings": "2023-08-06T02:17:48.0844758+00:00",
+  "LastUpdate_Achievements": "2023-08-06T02:21:53.4326679+00:00"
 }

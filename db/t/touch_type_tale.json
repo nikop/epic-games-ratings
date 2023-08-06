@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3109,
+  "EOS_Progressed": 3110,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2699,6 +2699,11 @@
       "Time": "2023-08-05T18:05:12.6429445+00:00",
       "NumProgressed": 3109,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-06T02:20:29.2219341+00:00",
+      "NumProgressed": 3110,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2758,7 +2763,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2767
+      "UsersEstimate": 2768
     },
     {
       "ID": "campaign10",
@@ -2836,9 +2841,9 @@
       "ID": "campaign19",
       "SetID": "2h56gn1",
       "Name": "An Ally in Need",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 156
     },
     {
       "ID": "campaign2",
@@ -2846,7 +2851,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "campaign20",
@@ -2870,7 +2875,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "campaign5",
@@ -2932,9 +2937,9 @@
       "ID": "scenario3",
       "SetID": "2h56gn1",
       "Name": "Not a Drop Wasted",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 156
     },
     {
       "ID": "scenario4",
@@ -2950,7 +2955,7 @@
       "Name": "We Have the Technology",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "scenario6",
@@ -2973,7 +2978,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3109,
+      "Progressed": 3110,
       "Completed": 10
     }
   ],
@@ -2981,8 +2986,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-08-06T01:49:23.5571448+00:00",
+  "LastChanged_Achievements": "2023-08-06T02:20:29.2219337+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:11.414434+00:00",
-  "LastUpdate_Ratings": "2023-08-06T01:48:13.3686142+00:00",
-  "LastUpdate_Achievements": "2023-08-06T01:49:23.5572173+00:00"
+  "LastUpdate_Ratings": "2023-08-06T02:18:15.016681+00:00",
+  "LastUpdate_Achievements": "2023-08-06T02:20:29.221976+00:00"
 }
