@@ -1410,9 +1410,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 266
     },
     {
       "ID": "BroomAmanita",
@@ -1434,9 +1434,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 266
     },
     {
       "ID": "DevilRope",
@@ -1490,9 +1490,9 @@
       "ID": "HastrmanAcorn",
       "SetID": "db30heh",
       "Name": "Do Not Disturb",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 191
+      "UsersEstimate": 194
     },
     {
       "ID": "HastrmanAmanita",
@@ -1554,9 +1554,9 @@
       "ID": "PriestPistol",
       "SetID": "db30heh",
       "Name": "Unexpected Hit",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "PriestPoppiesBroth",
@@ -1586,9 +1586,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 198
     },
     {
       "ID": "PrincessThrone",
@@ -1697,8 +1697,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-06T22:06:32.7477589+00:00",
+  "LastChanged_Achievements": "2023-08-06T23:06:48.346734+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-06T21:57:43.667873+00:00",
-  "LastUpdate_Achievements": "2023-08-06T22:06:32.7478091+00:00"
+  "LastUpdate_Ratings": "2023-08-06T22:57:36.1313576+00:00",
+  "LastUpdate_Achievements": "2023-08-06T23:06:48.346775+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -1840,9 +1840,9 @@
       "ID": "SeeTown",
       "SetID": "5lok9mm",
       "Name": "Cage Town",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2056
     },
     {
       "ID": "Speed",
@@ -1920,8 +1920,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-07-21T20:00:23.2474099+00:00",
-  "LastChanged_Achievements": "2023-08-06T22:03:21.771414+00:00",
+  "LastChanged_Achievements": "2023-08-06T23:03:06.6227514+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:59.03219+00:00",
-  "LastUpdate_Ratings": "2023-08-06T22:00:54.4656896+00:00",
-  "LastUpdate_Achievements": "2023-08-06T22:03:21.7714674+00:00"
+  "LastUpdate_Ratings": "2023-08-06T23:01:17.4459722+00:00",
+  "LastUpdate_Achievements": "2023-08-06T23:03:06.6228033+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3770,
+  "EOS_Progressed": 3771,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5387,6 +5387,11 @@
       "Time": "2023-08-06T21:04:22.582191+00:00",
       "NumProgressed": 3770,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-06T23:04:57.709773+00:00",
+      "NumProgressed": 3771,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -5526,7 +5531,7 @@
       "Name": "I play my own way!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "Ach018",
@@ -5590,7 +5595,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "Ach026",
@@ -5638,7 +5643,7 @@
       "Name": "Perfect Parry",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "Ach032",
@@ -5774,7 +5779,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "Ach049",
@@ -5965,13 +5970,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3770,
+      "Progressed": 3771,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2291,
+      "Progressed": 2292,
       "Completed": 1928
     }
   ],
@@ -5979,8 +5984,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-08-06T22:04:58.7942342+00:00",
+  "LastChanged_Achievements": "2023-08-06T23:04:57.7097724+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:24.9640697+00:00",
-  "LastUpdate_Ratings": "2023-08-06T21:59:24.4376888+00:00",
-  "LastUpdate_Achievements": "2023-08-06T22:04:58.7943458+00:00"
+  "LastUpdate_Ratings": "2023-08-06T22:59:35.9196844+00:00",
+  "LastUpdate_Achievements": "2023-08-06T23:04:57.7098696+00:00"
 }

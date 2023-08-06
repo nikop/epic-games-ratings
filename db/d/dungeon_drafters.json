@@ -487,9 +487,9 @@
       "ID": "MasterOracleQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "Oracle Mastery",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MasterRaiderQuestlineFirst",
@@ -736,8 +736,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-08-06T22:04:34.3293079+00:00",
+  "LastChanged_Achievements": "2023-08-06T23:04:29.66382+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:38.9413462+00:00",
-  "LastUpdate_Ratings": "2023-08-06T21:58:07.7918451+00:00",
-  "LastUpdate_Achievements": "2023-08-06T22:04:34.3293429+00:00"
+  "LastUpdate_Ratings": "2023-08-06T22:58:04.3470195+00:00",
+  "LastUpdate_Achievements": "2023-08-06T23:04:29.6638533+00:00"
 }

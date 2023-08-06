@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60418,
+  "EOS_Progressed": 60420,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 856,
+  "EOS_NewPlayers": 855,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10447,6 +10447,11 @@
       "Time": "2023-08-06T22:05:05.8110358+00:00",
       "NumProgressed": 60418,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-06T23:05:07.267656+00:00",
+      "NumProgressed": 60420,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10466,7 +10471,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13896
+      "UsersEstimate": 13897
     },
     {
       "ID": "03",
@@ -10490,7 +10495,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 11479
+      "UsersEstimate": 11480
     },
     {
       "ID": "06",
@@ -10522,7 +10527,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7854
+      "UsersEstimate": 7855
     },
     {
       "ID": "10",
@@ -10618,7 +10623,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7854
+      "UsersEstimate": 7855
     },
     {
       "ID": "22",
@@ -10650,7 +10655,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4833
+      "UsersEstimate": 4834
     },
     {
       "ID": "26",
@@ -10706,7 +10711,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16917
+      "UsersEstimate": 16918
     },
     {
       "ID": "33",
@@ -10714,7 +10719,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7854
+      "UsersEstimate": 7855
     },
     {
       "ID": "34",
@@ -10730,7 +10735,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18125
+      "UsersEstimate": 18126
     },
     {
       "ID": "36",
@@ -10770,7 +10775,7 @@
       "Name": "Right of Way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4833
+      "UsersEstimate": 4834
     },
     {
       "ID": "41",
@@ -10993,21 +10998,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60418,
+      "Progressed": 60420,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23886,
+      "Progressed": 23888,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-06T22:05:05.8110353+00:00",
+  "LastChanged_Achievements": "2023-08-06T23:05:07.2676555+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-06T21:58:32.3071456+00:00",
-  "LastUpdate_Achievements": "2023-08-06T22:05:05.8111588+00:00"
+  "LastUpdate_Ratings": "2023-08-06T22:58:35.2326436+00:00",
+  "LastUpdate_Achievements": "2023-08-06T23:05:07.2677822+00:00"
 }

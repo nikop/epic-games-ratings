@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5146,
+  "EOS_Progressed": 5147,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -725,6 +725,11 @@
       "Time": "2023-08-06T05:05:52.758503+00:00",
       "NumProgressed": 5146,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-08-06T23:06:10.0501923+00:00",
+      "NumProgressed": 5147,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 49,
@@ -776,7 +781,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -824,7 +829,7 @@
       "Name": "Collected 50 mushrooms",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ACHIEVE_50_SEEDS",
@@ -832,7 +837,7 @@
       "Name": "Budding Gardener",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ACHIEVE_50_WOOD",
@@ -848,7 +853,7 @@
       "Name": "Yummy!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "ACHIEVE_BIOHAZARD",
@@ -864,7 +869,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5043
+      "UsersEstimate": 5044
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -944,7 +949,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4014
+      "UsersEstimate": 4015
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1008,7 +1013,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3036
+      "UsersEstimate": 3037
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1024,7 +1029,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5043
+      "UsersEstimate": 5044
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1080,7 +1085,7 @@
       "Name": "Death Defied",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2727
+      "UsersEstimate": 2728
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1096,7 +1101,7 @@
       "Name": "That Was Quick",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "ACHIEVE_ROBINHOOD",
@@ -1127,15 +1132,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5146,
+      "Progressed": 5147,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-08-06T22:05:59.9653678+00:00",
+  "LastChanged_Achievements": "2023-08-06T23:06:10.0501914+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:04.4246098+00:00",
-  "LastUpdate_Ratings": "2023-08-06T22:00:58.1047504+00:00",
-  "LastUpdate_Achievements": "2023-08-06T22:05:59.9654135+00:00"
+  "LastUpdate_Ratings": "2023-08-06T23:01:24.131043+00:00",
+  "LastUpdate_Achievements": "2023-08-06T23:06:10.0502384+00:00"
 }

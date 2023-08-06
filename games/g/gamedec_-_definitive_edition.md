@@ -1,31 +1,31 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.31 (Ranked 778)  
+Rating: 4.31 (Ranked 779)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~67,447 |
-| Powergamer | 27.00% | ~65,038 |
-| Barely scratched the surface | 25.00% | ~60,221 |
-| Write that down | 24.00% | ~57,812 |
-| Guns, lots of guns | 12.00% | ~28,906 |
-| Collector | 11.00% | ~26,497 |
-| Elementary! | 9.00% | ~21,679 |
+| I will finish what you started | 28.00% | ~67,449 |
+| Powergamer | 27.00% | ~65,041 |
+| Barely scratched the surface | 25.00% | ~60,223 |
+| Write that down | 24.00% | ~57,814 |
+| Guns, lots of guns | 12.00% | ~28,907 |
+| Collector | 11.00% | ~26,498 |
+| Elementary! | 9.00% | ~21,680 |
 | Pumpkin Jack | 8.00% | ~19,271 |
 | Wake up! | 8.00% | ~19,271 |
 | It's honest work | 7.00% | ~16,862 |
 | Griever | 7.00% | ~16,862 |
 | Me smart | 6.00% | ~14,453 |
 | Trash compactor | 6.00% | ~14,453 |
-| Good listener | 5.00% | ~12,044 |
-| Valedictorian | 5.00% | ~12,044 |
-| BOY! | 4.00% | ~9,635 |
-| Ka-ching! | 4.00% | ~9,635 |
-| So you like to read? | 4.00% | ~9,635 |
-| I like to sniff around | 3.00% | ~7,226 |
-| Mind reader | 3.00% | ~7,226 |
+| Good listener | 5.00% | ~12,045 |
+| Valedictorian | 5.00% | ~12,045 |
+| BOY! | 4.00% | ~9,636 |
+| Ka-ching! | 4.00% | ~9,636 |
+| So you like to read? | 4.00% | ~9,636 |
+| I like to sniff around | 3.00% | ~7,227 |
+| Mind reader | 3.00% | ~7,227 |
 | Gentleman's classic | 2.00% | ~4,818 |
 | Hoarder | 2.00% | ~4,818 |
 | Is that a rift? | 2.00% | ~4,818 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~482 |
 | Memory 5 | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,883 (Ranked 46)  
+Progressed: 240,891 (Ranked 46)  
 Completed: 7 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 7 (0.00%) (Ranked 251)
 | 2023-08-03 | 240,393 | 7 |
 | 2023-08-04 | 240,543 | 7 |
 | 2023-08-05 | 240,716 | 7 |
-| 2023-08-06 | 240,883 | 7 |
+| 2023-08-06 | 240,891 | 7 |
 ## Awards
 Max (Character Customization): 77  (Ranked 364)  
 Sum: 77 (Ranked 428)  

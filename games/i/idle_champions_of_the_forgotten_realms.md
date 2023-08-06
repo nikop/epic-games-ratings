@@ -6,9 +6,9 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,777 |
+| A Brief Tour of the Realms | 4.00% | ~8,778 |
 | Beast Intentions | 3.00% | ~6,583 |
-| Maddening | 2.00% | ~4,388 |
+| Maddening | 2.00% | ~4,389 |
 | The Silken Swamp | 1.00% | ~2,194 |
 | Supply Run | 1.00% | ~2,194 |
 | Vecna Lives! | 1.00% | ~1,857 |
@@ -43,7 +43,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.60% | ~1,317 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,114 |
 | Krux's Speed Run | 0.60% | ~1,114 |
-| Thieves of the Coven | 0.50% | ~928 |
+| Thieves of the Coven | 0.50% | ~929 |
 | Friends of the Forest | 0.50% | ~1,097 |
 | Low Initiative | 0.50% | ~1,097 |
 | Street War | 0.50% | ~1,097 |
@@ -54,12 +54,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.50% | ~1,097 |
 | Seeking Allies | 0.50% | ~1,097 |
 | Friendly Imps | 0.50% | ~1,097 |
-| Not That Type of Helm! | 0.50% | ~928 |
-| Calcryx Tricks | 0.50% | ~928 |
-| Goblin Halls: the Next Generation | 0.50% | ~928 |
-| Bazaar Companions | 0.50% | ~928 |
-| Bahamut's Army | 0.50% | ~928 |
-| Animated Giff | 0.50% | ~928 |
+| Not That Type of Helm! | 0.50% | ~929 |
+| Calcryx Tricks | 0.50% | ~929 |
+| Goblin Halls: the Next Generation | 0.50% | ~929 |
+| Bazaar Companions | 0.50% | ~929 |
+| Bahamut's Army | 0.50% | ~929 |
+| Animated Giff | 0.50% | ~929 |
 | Upholding the Law | 0.40% | ~878 |
 | Hither of the Feywild | 0.40% | ~743 |
 | The Prince of a Thousand Enemies | 0.40% | ~743 |
@@ -170,6 +170,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cold as Ice | 0.20% | ~371 |
 | Friends and Foes | 0.20% | ~371 |
 | An Unexpected Geist | 0.20% | ~371 |
+| Back to Nature | 0.20% | ~371 |
 | A Monarch Among Us | 0.20% | ~371 |
 | A Dragon Against Us | 0.20% | ~371 |
 | Sticky Fingers | 0.20% | ~371 |
@@ -256,7 +257,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | All The World's A Stage | 0.20% | ~371 |
 | Keep Your Friends Close | 0.10% | ~186 |
 | And Your Enemies Closer | 0.10% | ~186 |
-| Back to Nature | 0.10% | ~186 |
 | A Familiar Behind Us | 0.10% | ~186 |
 | Go Fourth | 0.10% | ~186 |
 | Don't Blast the Brigands | 0.10% | ~186 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,424 (Ranked 53)  
+Progressed: 219,439 (Ranked 53)  
 Completed: 2,158 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,14 +627,14 @@ Completed: 2,158 (0.98%) (Ranked 114)
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
-| 2023-08-06 | 219,424 | 2,158 |
+| 2023-08-06 | 219,439 | 2,158 |
 ## Awards
-Max (Diverse Characters): 5,119  (Ranked 67)  
-Sum: 30,919 (Ranked 38)  
+Max (Diverse Characters): 5,121  (Ranked 67)  
+Sum: 30,921 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,119 |
+| This game has Diverse Characters | 5,121 |
 | This game is Great for Beginners | 5,064 |
 | This game has Quickly Understood Controls | 4,704 |
 | This game is Relaxing | 4,598 |
@@ -836,4 +836,4 @@ Diff (max vs sum): 29
 | 2023-08-03 | 4.05 | - | 5,116 | 30,886 |
 | 2023-08-04 | 4.05 | - | 5,116 | 30,897 |
 | 2023-08-05 | 4.05 | - | 5,119 | 30,910 |
-| 2023-08-06 | 4.06 | - | 5,119 | 30,919 |
+| 2023-08-06 | 4.06 | - | 5,121 | 30,921 |

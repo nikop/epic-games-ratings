@@ -2220,9 +2220,9 @@
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 278
     },
     {
       "ID": "LEVEL_007",
@@ -2236,9 +2236,9 @@
       "ID": "LEVEL_008",
       "SetID": "212bg48",
       "Name": "Let\u0027s go to the market",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 231
     },
     {
       "ID": "LEVEL_009",
@@ -2427,8 +2427,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-08-06T22:06:41.1024417+00:00",
+  "LastChanged_Achievements": "2023-08-06T23:06:58.0456985+00:00",
   "LastUpdate_AppInfo": "2023-07-31T17:57:14.0464775+00:00",
-  "LastUpdate_Ratings": "2023-08-06T21:58:01.241807+00:00",
-  "LastUpdate_Achievements": "2023-08-06T22:06:41.1024777+00:00"
+  "LastUpdate_Ratings": "2023-08-06T22:57:55.5918386+00:00",
+  "LastUpdate_Achievements": "2023-08-06T23:06:58.0457357+00:00"
 }

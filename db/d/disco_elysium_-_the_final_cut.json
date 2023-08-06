@@ -1241,9 +1241,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 125750,
+  "EOS_Progressed": 125751,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 882,
+  "EOS_NewPlayers": 875,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11926,6 +11926,11 @@
       "Time": "2023-08-06T22:04:10.7103171+00:00",
       "NumProgressed": 125750,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-06T23:03:52.1781122+00:00",
+      "NumProgressed": 125751,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -11961,7 +11966,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3772
+      "UsersEstimate": 3773
     },
     {
       "ID": "ACH_COP_ART",
@@ -12073,7 +12078,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18862
+      "UsersEstimate": 18863
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -12081,7 +12086,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13832
+      "UsersEstimate": 13833
     },
     {
       "ID": "ACH_CUNO",
@@ -12161,7 +12166,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3772
+      "UsersEstimate": 3773
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -12177,7 +12182,7 @@
       "Name": "Leopard Mindset",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "ACH_MEDAL",
@@ -12256,15 +12261,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 125750,
+      "Progressed": 125751,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-04T01:55:33.6301654+00:00",
-  "LastChanged_Achievements": "2023-08-06T22:04:10.7103166+00:00",
+  "LastChanged_Achievements": "2023-08-06T23:03:52.1781112+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:08.5525123+00:00",
-  "LastUpdate_Ratings": "2023-08-06T22:00:04.5703219+00:00",
-  "LastUpdate_Achievements": "2023-08-06T22:04:10.7104098+00:00"
+  "LastUpdate_Ratings": "2023-08-06T23:00:22.2419994+00:00",
+  "LastUpdate_Achievements": "2023-08-06T23:03:52.1781988+00:00"
 }

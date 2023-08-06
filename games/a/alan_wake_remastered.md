@@ -7,20 +7,20 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 37.00% | ~22,355 |
-| Let There Be Light | 30.00% | ~18,125 |
-| Float Like a Butterfly | 28.00% | ~16,917 |
-| Nordic Walking | 23.00% | ~13,896 |
+| Let There Be Light | 30.00% | ~18,126 |
+| Float Like a Butterfly | 28.00% | ~16,918 |
+| Nordic Walking | 23.00% | ~13,897 |
 | Bright Falls' Finest | 22.00% | ~13,292 |
-| Under a Thin Layer of Skin | 19.00% | ~11,479 |
+| Under a Thin Layer of Skin | 19.00% | ~11,480 |
 | Park Ranger | 16.00% | ~9,667 |
 | Paging Mr. Wake | 16.00% | ~9,667 |
 | Back! Back, I Say! | 15.00% | ~9,063 |
 | Finders Keepers | 15.00% | ~9,063 |
 | Sound and Fury | 14.00% | ~8,459 |
 | Damn Good Cup of Coffee | 14.00% | ~8,459 |
-| Wheels Within Wheels | 13.00% | ~7,854 |
-| They're Heeeeeere! | 13.00% | ~7,854 |
-| Missed by a Mile | 13.00% | ~7,854 |
+| Wheels Within Wheels | 13.00% | ~7,855 |
+| They're Heeeeeere! | 13.00% | ~7,855 |
+| Missed by a Mile | 13.00% | ~7,855 |
 | Iron Horse | 12.00% | ~7,250 |
 | The Six-Gun Scribe | 12.00% | ~7,250 |
 | Collateral Carnage | 12.00% | ~7,250 |
@@ -33,8 +33,8 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 10.00% | ~6,042 |
 | The Lady of the Light | 9.00% | ~5,438 |
 | Energized! | 9.00% | ~5,438 |
-| What Light Through Yonder Window | 8.00% | ~4,833 |
-| Right of Way | 8.00% | ~4,833 |
+| What Light Through Yonder Window | 8.00% | ~4,834 |
+| Right of Way | 8.00% | ~4,834 |
 | A Friend in Need | 8.00% | ~1,911 |
 | Tornado Wrangler | 7.00% | ~4,229 |
 | Departure | 7.00% | ~4,229 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~60 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,418 (Ranked 84)  
+Progressed: 60,420 (Ranked 84)  
 Completed: 64 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 64 (0.11%) (Ranked 195)
 | 2023-08-03 | 60,143 | 63 |
 | 2023-08-04 | 60,237 | 64 |
 | 2023-08-05 | 60,337 | 64 |
-| 2023-08-06 | 60,418 | 64 |
+| 2023-08-06 | 60,420 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
