@@ -13,7 +13,7 @@ Number of Ratings: 28  (23.09.2022)
 | Living it large! | 43.00% | ~184 |
 | Collector | 42.00% | ~180 |
 | Need to think | 41.00% | ~176 |
-| Completely nuts! | 37.00% | ~159 |
+| Completely nuts! | 38.00% | ~163 |
 | Just in time! | 32.00% | ~137 |
 | Europe | 30.00% | ~129 |
 | It's no coincidence. | 28.00% | ~120 |

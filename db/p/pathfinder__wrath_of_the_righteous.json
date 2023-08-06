@@ -3368,9 +3368,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10818,
+  "EOS_Progressed": 10821,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10213,6 +10213,11 @@
       "Time": "2023-08-06T05:03:23.2358182+00:00",
       "NumProgressed": 10818,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T06:03:13.3823281+00:00",
+      "NumProgressed": 10821,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10224,7 +10229,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2380
+      "UsersEstimate": 2381
     },
     {
       "ID": "02_BurningCity",
@@ -10240,7 +10245,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1299
     },
     {
       "ID": "04_FithCrusade",
@@ -10360,7 +10365,7 @@
       "Name": "Mythic Choices",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "19_EqualToAroden",
@@ -10472,7 +10477,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -11151,21 +11156,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9600,
+      "Progressed": 9603,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10818,
+      "Progressed": 10821,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-06T01:45:53.5882152+00:00",
-  "LastChanged_Achievements": "2023-08-06T05:03:23.2358176+00:00",
+  "LastChanged_Achievements": "2023-08-06T06:03:13.3823275+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:18.5411463+00:00",
-  "LastUpdate_Ratings": "2023-08-06T04:59:16.2038815+00:00",
-  "LastUpdate_Achievements": "2023-08-06T05:03:23.2360419+00:00"
+  "LastUpdate_Ratings": "2023-08-06T05:59:15.6375308+00:00",
+  "LastUpdate_Achievements": "2023-08-06T06:03:13.382566+00:00"
 }

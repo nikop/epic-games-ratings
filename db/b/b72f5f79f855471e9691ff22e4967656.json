@@ -515,9 +515,9 @@
       "ID": "killSlug50",
       "SetID": "ci65fo0",
       "Name": "Slug fighter",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "killStone50",
@@ -803,9 +803,9 @@
       "ID": "questReachLord",
       "SetID": "ci65fo0",
       "Name": "Castle feels like home",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "questRedsBoss",
@@ -920,8 +920,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-06T05:03:27.9088977+00:00",
+  "LastChanged_Achievements": "2023-08-06T06:03:17.9928499+00:00",
   "LastUpdate_AppInfo": "2023-08-02T10:57:06.3883378+00:00",
-  "LastUpdate_Ratings": "2023-08-06T04:57:38.2521896+00:00",
-  "LastUpdate_Achievements": "2023-08-06T05:03:27.9089834+00:00"
+  "LastUpdate_Ratings": "2023-08-06T05:57:27.870548+00:00",
+  "LastUpdate_Achievements": "2023-08-06T06:03:17.9929425+00:00"
 }

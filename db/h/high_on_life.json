@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23842,
+  "EOS_Progressed": 23843,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3923,6 +3923,11 @@
       "Time": "2023-08-06T04:07:04.1350939+00:00",
       "NumProgressed": 23842,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-08-06T06:06:40.5728268+00:00",
+      "NumProgressed": 23843,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 32,
@@ -3950,7 +3955,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18358
+      "UsersEstimate": 18359
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -3990,7 +3995,7 @@
       "Name": "Are You Packin\u0027?",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5960
+      "UsersEstimate": 5961
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -3998,7 +4003,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 18120
+      "UsersEstimate": 18121
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -4006,7 +4011,7 @@
       "Name": "Lezduit!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4768
+      "UsersEstimate": 4769
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -4038,7 +4043,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19789
+      "UsersEstimate": 19790
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -4054,7 +4059,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13590
+      "UsersEstimate": 13591
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -4070,7 +4075,7 @@
       "Name": "G3 Graduation",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5960
+      "UsersEstimate": 5961
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -4110,7 +4115,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 4768
+      "UsersEstimate": 4769
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -4189,22 +4194,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23842,
+      "Progressed": 23843,
       "Completed": 11
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1135,
-      "Completed": 1135
+      "Progressed": 1136,
+      "Completed": 1136
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-01T02:03:53.4121642+00:00",
-  "LastChanged_Achievements": "2023-08-06T05:07:06.9647438+00:00",
+  "LastChanged_Achievements": "2023-08-06T06:06:40.5728262+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:45.9653672+00:00",
-  "LastUpdate_Ratings": "2023-08-06T04:58:48.9148149+00:00",
-  "LastUpdate_Achievements": "2023-08-06T05:07:06.9647972+00:00"
+  "LastUpdate_Ratings": "2023-08-06T05:58:45.0722277+00:00",
+  "LastUpdate_Achievements": "2023-08-06T06:06:40.5728737+00:00"
 }

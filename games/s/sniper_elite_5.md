@@ -5,9 +5,9 @@ Rating: 4.44 (Ranked 644)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Liberté | 5.00% | ~171 |
 | Target America | 5.00% | ~171 |
 | The Kraken Sleeps | 5.00% | ~171 |
-| Liberté | 4.00% | ~137 |
 | Meeting Resistance | 4.00% | ~137 |
 | Sharpshooter | 4.00% | ~137 |
 | Confirming Suspicions | 4.00% | ~137 |

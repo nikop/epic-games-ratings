@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The 4 Pillars | 50.00% | ~66 |
 | First Step | 50.00% | ~66 |
-| Capitalism | 18.00% | ~24 |
+| Capitalism | 19.00% | ~25 |
 | Indebted | 11.00% | ~14 |
 | Desert Rat | 10.00% | ~13 |
 | There's something in those trees | 8.00% | ~10 |

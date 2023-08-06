@@ -5,10 +5,10 @@ Rating: 4.06 (Ranked 914)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,644 |
-| World Map | 79.00% | ~1,397 |
-| Temple of Eternals | 56.00% | ~990 |
-| Prestigious | 53.00% | ~937 |
+| Victor | 93.00% | ~1,645 |
+| World Map | 79.00% | ~1,398 |
+| Temple of Eternals | 56.00% | ~991 |
+| Prestigious | 53.00% | ~938 |
 | Fellowship Power | 41.00% | ~725 |
 | Guild Power | 25.00% | ~442 |
 | Prestigious x10 | 22.00% | ~389 |
@@ -27,21 +27,21 @@ Rating: 4.06 (Ranked 914)
 | Natural Talent | 13.00% | ~230 |
 | Superior | 13.00% | ~230 |
 | The Unstoppable | 13.00% | ~230 |
-| Hunter | 11.00% | ~194 |
-| Scientist | 11.00% | ~194 |
-| The power of Awakening | 11.00% | ~194 |
+| Hunter | 11.00% | ~195 |
+| Scientist | 11.00% | ~195 |
+| The power of Awakening | 11.00% | ~195 |
 | Challenger | 10.00% | ~177 |
 | Daily Quest Completionist | 10.00% | ~177 |
 | Doing My Part | 10.00% | ~177 |
-| Four Leaf Clover | 10.00% | ~177 |
 | Frostfire Liberator | 10.00% | ~177 |
 | Mastery | 10.00% | ~177 |
 | Moving Up The Ladder | 10.00% | ~177 |
 | Relic Of The Past | 10.00% | ~177 |
 | Scroll Master | 10.00% | ~177 |
+| Four Leaf Clover | 9.00% | ~159 |
 | The father of Dragons | 9.00% | ~159 |
-| Here We Go Again | 8.00% | ~141 |
-| Master Enchanter | 8.00% | ~141 |
+| Here We Go Again | 8.00% | ~142 |
+| Master Enchanter | 8.00% | ~142 |
 | Crystal Mining | 7.00% | ~124 |
 | Dragon Slayer | 7.00% | ~124 |
 | Enchanting skill | 7.00% | ~124 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 914)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,768 (Ranked 172)  
+Progressed: 1,769 (Ranked 172)  
 Completed: 2 (0.11%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 2 (0.11%) (Ranked 194)
 | 2023-08-02 | 1,755 | 2 |
 | 2023-08-04 | 1,761 | 2 |
 | 2023-08-05 | 1,767 | 2 |
-| 2023-08-06 | 1,768 | 2 |
+| 2023-08-06 | 1,769 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -47,8 +47,8 @@
 | Champion – no way back | 36.00% | ~82 |
 | Underground dwellers | 36.00% | ~82 |
 | Responsible approach | 36.00% | ~82 |
+| Poisoned fighter | 35.00% | ~79 |
 | Deal with life | 34.00% | ~77 |
-| Poisoned fighter | 34.00% | ~77 |
 | Mom got better | 33.00% | ~75 |
 | The die is cast | 33.00% | ~75 |
 | Seashell hunter | 33.00% | ~75 |
@@ -60,12 +60,12 @@
 | Key memories | 29.00% | ~66 |
 | Not little hacker | 29.00% | ~66 |
 | Absolute Champion! | 29.00% | ~66 |
+| Anyone can resist | 29.00% | ~66 |
 | The heart of the Resistance | 29.00% | ~66 |
 | Another world | 28.00% | ~64 |
 | Keep nature safe | 28.00% | ~64 |
 | Family comes first | 28.00% | ~64 |
 | Careerist | 28.00% | ~64 |
-| Anyone can resist | 28.00% | ~64 |
 | Trap disarmed | 27.00% | ~61 |
 | Silver’s past | 25.00% | ~57 |
 | The only right decision | 25.00% | ~57 |

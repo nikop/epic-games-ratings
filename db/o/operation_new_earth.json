@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 800,
+  "EOS_Progressed": 802,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2791,6 +2791,11 @@
       "Time": "2023-08-06T05:06:08.9866031+00:00",
       "NumProgressed": 800,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T06:06:01.4448454+00:00",
+      "NumProgressed": 802,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2832,9 +2837,9 @@
       "ID": "ach_gold_rewards_100",
       "SetID": "bm61c2p",
       "Name": "Gold Achiever",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -2872,9 +2877,9 @@
       "ID": "ach_silver_rewards_50",
       "SetID": "bm61c2p",
       "Name": "Silver Achiever",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 24
     },
     {
       "ID": "objective_headquarters_10",
@@ -2906,7 +2911,7 @@
       "Name": "Facility Online",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -2978,7 +2983,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -3058,13 +3063,13 @@
       "Name": "Defenses Online",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Advanced Interceptors",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -3088,7 +3093,7 @@
       "ID": "objective_research_unlock_light_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Jet Troops",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -3105,14 +3110,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 800,
+      "Progressed": 802,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-06T05:06:08.9866024+00:00",
+  "LastChanged_Achievements": "2023-08-06T06:06:01.4448449+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:21.6461868+00:00",
-  "LastUpdate_Ratings": "2023-08-06T04:57:15.1288814+00:00",
-  "LastUpdate_Achievements": "2023-08-06T05:06:08.986653+00:00"
+  "LastUpdate_Ratings": "2023-08-06T05:57:02.3208891+00:00",
+  "LastUpdate_Achievements": "2023-08-06T06:06:01.4448907+00:00"
 }

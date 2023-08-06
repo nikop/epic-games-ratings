@@ -2059,9 +2059,9 @@
       "ID": "Agent_47",
       "SetID": "85nb4h3",
       "Name": "Agent 47",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 290
     },
     {
       "ID": "Auditor",
@@ -2307,8 +2307,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-06T05:04:38.7366968+00:00",
+  "LastChanged_Achievements": "2023-08-06T06:04:18.6283286+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:07.8032848+00:00",
-  "LastUpdate_Ratings": "2023-08-06T05:00:03.4752272+00:00",
-  "LastUpdate_Achievements": "2023-08-06T05:04:38.7367337+00:00"
+  "LastUpdate_Ratings": "2023-08-06T05:59:59.4292348+00:00",
+  "LastUpdate_Achievements": "2023-08-06T06:04:18.6283659+00:00"
 }

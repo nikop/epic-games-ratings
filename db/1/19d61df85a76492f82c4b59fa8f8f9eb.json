@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 288,
+  "EOS_Progressed": 289,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 9.03,
+  "EOS_Completed_Percentage": 9,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1296,6 +1296,11 @@
       "Time": "2023-08-06T04:05:53.3721853+00:00",
       "NumProgressed": 288,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-08-06T06:05:29.8281704+00:00",
+      "NumProgressed": 289,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 6,
@@ -1307,7 +1312,7 @@
       "Name": "Printing Press",
       "Percentage": 59,
       "XP": 175,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -1323,7 +1328,7 @@
       "Name": "Viola Organista",
       "Percentage": 47,
       "XP": 165,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -1354,14 +1359,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 288,
+      "Progressed": 289,
       "Completed": 26
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-06T05:05:38.3368995+00:00",
+  "LastChanged_Achievements": "2023-08-06T06:05:29.8281697+00:00",
   "LastUpdate_AppInfo": "2023-08-03T14:57:18.1003103+00:00",
-  "LastUpdate_Ratings": "2023-08-06T04:57:37.2684635+00:00",
-  "LastUpdate_Achievements": "2023-08-06T05:05:38.3369169+00:00"
+  "LastUpdate_Ratings": "2023-08-06T05:57:26.9546184+00:00",
+  "LastUpdate_Achievements": "2023-08-06T06:05:29.8281847+00:00"
 }

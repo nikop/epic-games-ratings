@@ -5,26 +5,26 @@ Rating: 4.66 (Ranked 271)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,789 |
-| Mods Please Ban | 77.00% | ~18,358 |
-| Bring A Knife to a Gun Fight | 76.00% | ~18,120 |
+| Eye Scream, You Scream | 83.00% | ~19,790 |
+| Mods Please Ban | 77.00% | ~18,359 |
+| Bring A Knife to a Gun Fight | 76.00% | ~18,121 |
 | Fallout Doesn't Let You Do This | 73.00% | ~17,405 |
 | First Bounty Down | 59.00% | ~14,067 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,590 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,591 |
 | Luglox Genocide | 43.00% | ~10,252 |
 | Playing Card To Get | 33.00% | ~7,868 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,868 |
 | Creature Feature | 29.00% | ~6,914 |
 | Satisfied Gus-tomer | 28.00% | ~6,676 |
 | Cold-Blooded Driller | 28.00% | ~6,676 |
-| Are You Packin'? | 25.00% | ~5,960 |
-| G3 Graduation | 25.00% | ~5,960 |
+| Are You Packin'? | 25.00% | ~5,961 |
+| G3 Graduation | 25.00% | ~5,961 |
 | RIP Davey Glutes | 24.00% | ~5,722 |
 | Sweezy Like Sunday Morning | 24.00% | ~5,722 |
 | Hardest Battle In The Game | 22.00% | ~5,245 |
 | Series Wrap on Suit-O | 22.00% | ~5,245 |
-| Lezduit! | 20.00% | ~4,768 |
-| Who's The Boss? | 20.00% | ~4,768 |
+| Lezduit! | 20.00% | ~4,769 |
+| Who's The Boss? | 20.00% | ~4,769 |
 | Self-Actualization | 19.00% | ~4,530 |
 | Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,530 |
 | Legendary Bounty Hunter | 18.00% | ~4,292 |
@@ -38,7 +38,7 @@ Rating: 4.66 (Ranked 271)
 | Epic Legendary Prize | 1.00% | ~238 |
 | A Starfish Is Born | 1.00% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,842 (Ranked 102)  
+Progressed: 23,843 (Ranked 102)  
 Completed: 11 (0.05%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 11 (0.05%) (Ranked 214)
 | 2023-08-03 | 23,795 | 11 |
 | 2023-08-04 | 23,823 | 11 |
 | 2023-08-05 | 23,838 | 11 |
-| 2023-08-06 | 23,842 | 11 |
+| 2023-08-06 | 23,843 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

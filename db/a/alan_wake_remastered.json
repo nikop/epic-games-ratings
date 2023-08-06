@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60347,
+  "EOS_Progressed": 60349,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 919,
+  "EOS_NewPlayers": 915,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10362,6 +10362,11 @@
       "Time": "2023-08-06T05:05:00.3447229+00:00",
       "NumProgressed": 60347,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-06T06:04:40.5152478+00:00",
+      "NumProgressed": 60349,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10373,7 +10378,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22328
+      "UsersEstimate": 22329
     },
     {
       "ID": "02",
@@ -10389,7 +10394,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13276
+      "UsersEstimate": 13277
     },
     {
       "ID": "04",
@@ -10621,7 +10626,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16897
+      "UsersEstimate": 16898
     },
     {
       "ID": "33",
@@ -10645,7 +10650,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18104
+      "UsersEstimate": 18105
     },
     {
       "ID": "36",
@@ -10845,7 +10850,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "61",
@@ -10901,28 +10906,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60347,
+      "Progressed": 60349,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23815,
+      "Progressed": 23817,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-06T05:05:00.3447223+00:00",
+  "LastChanged_Achievements": "2023-08-06T06:04:40.5152473+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-06T04:58:32.5285929+00:00",
-  "LastUpdate_Achievements": "2023-08-06T05:05:00.3448467+00:00"
+  "LastUpdate_Ratings": "2023-08-06T05:58:27.9203811+00:00",
+  "LastUpdate_Achievements": "2023-08-06T06:04:40.5153733+00:00"
 }

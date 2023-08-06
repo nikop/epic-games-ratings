@@ -14,12 +14,12 @@ Rating: 4.67 (Ranked 257)
 | History Check | 53.00% | ~312 |
 | The New World | 50.00% | ~294 |
 | Open Sesame | 49.00% | ~289 |
+| Lock, Stock, And Barrel | 48.00% | ~283 |
 | Gaze Into The Abyss | 48.00% | ~283 |
 | Back In The Saddle | 48.00% | ~283 |
 | Sticky Fingers | 48.00% | ~283 |
 | Knives Out | 48.00% | ~283 |
 | Land, Ho! | 48.00% | ~283 |
-| Lock, Stock, And Barrel | 47.00% | ~277 |
 | No Man Is An Island | 46.00% | ~271 |
 | At Wits' End | 46.00% | ~271 |
 | Fhtagn! | 44.00% | ~259 |
