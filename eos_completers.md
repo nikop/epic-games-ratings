@@ -26,8 +26,8 @@
 | 24 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.53% |
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 26 | [Sonic Origins](games/s/sonic_origins.md) | 10.00% |
-| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.09% |
+| 27 | [Sonic Origins](games/s/sonic_origins.md) | 9.97% |
+| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.06% |
 | 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.00% |
 | 30 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.93% |
 | 31 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.52% |
@@ -73,8 +73,8 @@
 | 71 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.78% |
 | 72 | [Destiny 2](games/d/destiny_2.md) | 2.75% |
 | 73 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 73 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.73% |
-| 75 | [The Bunker](games/t/the_bunker.md) | 2.70% |
+| 74 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.70% |
+| 74 | [The Bunker](games/t/the_bunker.md) | 2.70% |
 | 76 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.61% |
 | 77 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 78 | [Lamentum](games/l/lamentum.md) | 2.57% |

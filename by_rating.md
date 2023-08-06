@@ -830,7 +830,7 @@
 | 828 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 509 |
 | 828 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 456 |
 | 828 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 509 |
-| 828 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 534 | 193 |
+| 828 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 539 | 192 |
 | 828 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 509 |
 | 828 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 413 |
 | 828 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 509 |
@@ -911,7 +911,7 @@
 | 907 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 0 | 509 |
 | 907 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 0 | 509 |
 | 907 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 509 |
-| 912 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 535 | 192 |
+| 912 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 535 | 193 |
 | 912 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 181 | 281 |
 | 914 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.06 | 0 | 509 |
 | 914 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 509 |
