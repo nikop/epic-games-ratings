@@ -23,7 +23,7 @@
 | 21 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 16,668 | 4.25 | 818 |
 | 22 | [Warframe](games/w/warframe.md) | 16,336 | 4.61 | 366 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 15,171 | 4.21 | 847 |
-| 24 | [Borderlands 2](games/b/borderlands_2.md) | 14,975 | 4.76 | 118 |
+| 24 | [Borderlands 2](games/b/borderlands_2.md) | 14,985 | 4.76 | 118 |
 | 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,434 | 4.58 | 425 |
 | 26 | [Maneater](games/m/maneater.md) | 13,610 | 4.49 | 576 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,560 | 4.60 | 389 |
@@ -59,7 +59,7 @@
 | 57 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,961 | 4.64 | 316 |
 | 58 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,957 | 4.79 | 88 |
 | 59 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,825 | 4.66 | 270 |
-| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,691 | 4.82 | 66 |
+| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,694 | 4.82 | 66 |
 | 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,625 | 4.75 | 134 |
 | 61 | [Prey](games/p/prey.md) | 5,625 | 4.62 | 349 |
 | 63 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,617 | 4.69 | 213 |
@@ -133,7 +133,7 @@
 | 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,259 | 4.54 | 498 |
 | 132 | [World of Warships](games/w/world_of_warships.md) | 1,246 | 4.41 | 678 |
 | 133 | [XCOM® 2](games/x/xcom®_2.md) | 1,229 | 4.55 | 485 |
-| 134 | [OUTRIDERS](games/o/outriders.md) | 1,182 | 4.42 | 666 |
+| 134 | [OUTRIDERS](games/o/outriders.md) | 1,184 | 4.42 | 666 |
 | 135 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,180 | 4.69 | 213 |
 | 136 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,157 | 4.61 | 366 |
 | 137 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,070 | 4.61 | 366 |

@@ -67,7 +67,7 @@
 | 59 | [TUNIC](games/t/tunic.md) | 4.83 | 34 | 441 |
 | 66 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 509 |
 | 66 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,510 | 120 |
-| 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,691 | 60 |
+| 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,694 | 60 |
 | 66 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 509 |
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 509 |
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 446 |
@@ -118,7 +118,7 @@
 | 109 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 509 |
 | 109 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 28 | 466 |
 | 118 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 3,909 | 80 |
-| 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,975 | 24 |
+| 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,985 | 24 |
 | 118 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 356 |
 | 118 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 509 |
 | 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,295 | 89 |
@@ -670,7 +670,7 @@
 | 666 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.42 | 0 | 509 |
 | 666 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,559 | 30 |
 | 666 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 509 |
-| 666 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,182 | 134 |
+| 666 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,184 | 134 |
 | 666 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 509 |
 | 666 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 50 |
 | 666 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 67 | 381 |

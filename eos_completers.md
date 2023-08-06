@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.89% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.83% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 33.33% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
@@ -53,8 +53,8 @@
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.52% |
 | 52 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.24% |
 | 53 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.02% |
-| 54 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.85% |
-| 54 | [Without Escape](games/w/without_escape.md) | 3.85% |
+| 54 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
+| 55 | [Without Escape](games/w/without_escape.md) | 3.85% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.71% |
 | 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.54% |
 | 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
