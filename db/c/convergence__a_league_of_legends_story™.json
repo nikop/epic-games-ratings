@@ -2,7 +2,7 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 389,
+  "Ranking_Rating": 390,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 202,
@@ -2039,9 +2039,9 @@
       "ID": "CultivairChests1",
       "SetID": "a9e499d",
       "Name": "Cultivair Explorer",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 66
     },
     {
       "ID": "EntresolChests1",
@@ -2255,9 +2255,9 @@
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 140
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2392,8 +2392,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-06T15:05:05.7233347+00:00",
+  "LastChanged_Achievements": "2023-08-06T16:05:02.8900238+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:20.0210953+00:00",
-  "LastUpdate_Ratings": "2023-08-06T15:00:42.2180436+00:00",
-  "LastUpdate_Achievements": "2023-08-06T15:05:05.7233995+00:00"
+  "LastUpdate_Ratings": "2023-08-06T16:00:40.1939728+00:00",
+  "LastUpdate_Achievements": "2023-08-06T16:05:02.8901282+00:00"
 }

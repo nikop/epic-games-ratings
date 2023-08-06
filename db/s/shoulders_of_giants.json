@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2194,
+  "EOS_Progressed": 2195,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1407,6 +1407,11 @@
       "Time": "2023-08-06T07:03:14.7168111+00:00",
       "NumProgressed": 2194,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-06T16:02:11.9690256+00:00",
+      "NumProgressed": 2195,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1434,7 +1439,7 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 27,
       "XP": 150,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "complete_act_three",
@@ -1442,7 +1447,7 @@
       "Name": "The Third Law of Thermodynamics",
       "Percentage": 9,
       "XP": 150,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "complete_act_two",
@@ -1458,7 +1463,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "deal_damage",
@@ -1474,7 +1479,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "defeat_tree_dummy",
@@ -1482,7 +1487,7 @@
       "Name": "Do you feel like a tough guy?",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "fail_planet",
@@ -1498,7 +1503,7 @@
       "Name": "Say \u0022Cheese!\u0022",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "reach_heat",
@@ -1538,7 +1543,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "stick_decoy",
@@ -1552,9 +1557,9 @@
       "ID": "stun_enemies",
       "SetID": "236b9eg",
       "Name": "Fun in the Stun",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1163
     },
     {
       "ID": "trash_truck",
@@ -1562,14 +1567,14 @@
       "Name": "Taking Out the Trash",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     }
   ],
   "AchievementSets": [
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2194,
+      "Progressed": 2195,
       "Completed": 9
     }
   ],
@@ -1577,8 +1582,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-08-06T15:02:11.0057724+00:00",
+  "LastChanged_Achievements": "2023-08-06T16:02:11.9690245+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:19.4395111+00:00",
-  "LastUpdate_Ratings": "2023-08-06T15:01:44.226264+00:00",
-  "LastUpdate_Achievements": "2023-08-06T15:02:11.0057971+00:00"
+  "LastUpdate_Ratings": "2023-08-06T16:01:44.1403657+00:00",
+  "LastUpdate_Achievements": "2023-08-06T16:02:11.9690495+00:00"
 }

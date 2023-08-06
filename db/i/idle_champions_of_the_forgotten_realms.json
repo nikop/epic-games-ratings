@@ -5596,9 +5596,9 @@
       "Count": 3343
     }
   ],
-  "EOS_Progressed": 219302,
+  "EOS_Progressed": 219315,
   "EOS_Completed": 2155,
-  "EOS_NewPlayers": 2209,
+  "EOS_NewPlayers": 2202,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17266,6 +17266,11 @@
       "Time": "2023-08-06T15:03:07.0318048+00:00",
       "NumProgressed": 219302,
       "NumCompleted": 2155
+    },
+    {
+      "Time": "2023-08-06T16:03:07.7651717+00:00",
+      "NumProgressed": 219315,
+      "NumCompleted": 2155
     }
   ],
   "TotalAchievements": 512,
@@ -17277,7 +17282,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8772
+      "UsersEstimate": 8773
     },
     {
       "ID": "objective_completed_10",
@@ -17381,7 +17386,7 @@
       "Name": "The Witchlight Carnival",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "objective_completed_1056",
@@ -17925,7 +17930,7 @@
       "Name": "The Evacuation of Waterdeep",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "objective_completed_1159",
@@ -18061,7 +18066,7 @@
       "Name": "The Dread Domain of Tovag",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "objective_completed_1184",
@@ -19459,9 +19464,9 @@
       "ID": "objective_completed_545",
       "SetID": "cc37lbc",
       "Name": "The Dead Three",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 658
+      "UsersEstimate": 877
     },
     {
       "ID": "objective_completed_546",
@@ -20355,9 +20360,9 @@
       "ID": "objective_completed_690",
       "SetID": "415jc5c",
       "Name": "The Giant\u0027s Bane Tavern",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 742
     },
     {
       "ID": "objective_completed_691",
@@ -21237,7 +21242,7 @@
       "Name": "The Champion\u0027s Guide to Wildspace",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "objective_completed_1220",
@@ -21372,21 +21377,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185576,
+      "Progressed": 185589,
       "Completed": 3062
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219302,
+      "Progressed": 219315,
       "Completed": 2155
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-06T11:58:58.5923816+00:00",
-  "LastChanged_Achievements": "2023-08-06T15:03:07.0318042+00:00",
+  "LastChanged_Achievements": "2023-08-06T16:03:07.7651706+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-06T14:59:16.215466+00:00",
-  "LastUpdate_Achievements": "2023-08-06T15:03:07.0349348+00:00"
+  "LastUpdate_Ratings": "2023-08-06T15:59:16.4234604+00:00",
+  "LastUpdate_Achievements": "2023-08-06T16:03:07.7694358+00:00"
 }

@@ -31,8 +31,8 @@ Rating: 4.48 (Ranked 590)
 | All mine | 29.00% | ~512 |
 | Mole | 29.00% | ~512 |
 | Socializer | 29.00% | ~512 |
+| General Manager | 26.00% | ~459 |
 | Country Life | 26.00% | ~459 |
-| General Manager | 25.00% | ~442 |
 | Hostile Takeover | 25.00% | ~442 |
 | Seven at one stroke | 23.00% | ~406 |
 | Trailblazer | 20.00% | ~353 |
@@ -51,8 +51,8 @@ Rating: 4.48 (Ranked 590)
 | Tycoon | 10.00% | ~177 |
 | Unstoppable | 7.00% | ~124 |
 | Track to the Future | 7.00% | ~124 |
+| Call of Duty | 6.00% | ~106 |
 | Conductor | 5.00% | ~88 |
-| Call of Duty | 5.00% | ~88 |
 | Let off some steam | 4.00% | ~71 |
 | Engineer | 3.00% | ~53 |
 | Accurate | 3.00% | ~53 |

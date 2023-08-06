@@ -4,7 +4,7 @@
   "ProductSlug": "slavicpunk-oldtimer-10ed1c",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-31T00:00:00+00:00",
@@ -631,8 +631,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-01T13:09:17.3833059+00:00",
-  "LastChanged_Achievements": "2023-08-06T15:03:11.7660815+00:00",
+  "LastChanged_Achievements": "2023-08-06T16:03:12.0879263+00:00",
   "LastUpdate_AppInfo": "2023-07-31T18:57:17.5710575+00:00",
-  "LastUpdate_Ratings": "2023-08-06T14:57:28.0133036+00:00",
-  "LastUpdate_Achievements": "2023-08-06T15:03:11.7661626+00:00"
+  "LastUpdate_Ratings": "2023-08-06T15:57:30.5995112+00:00",
+  "LastUpdate_Achievements": "2023-08-06T16:03:12.0880645+00:00"
 }

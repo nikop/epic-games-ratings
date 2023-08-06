@@ -2,7 +2,7 @@
   "ID": "46c8eccba1224195bdd112048075cc37",
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
-  "Ranking_EOS_Progress": 306,
+  "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 65,
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 130,
+  "EOS_Progressed": 131,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.77,
+  "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
     {
       "Time": "2023-06-10T02:13:27.744268+00:00",
@@ -601,6 +601,11 @@
       "Time": "2023-08-06T01:52:45.3557197+00:00",
       "NumProgressed": 130,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-06T16:06:06.913649+00:00",
+      "NumProgressed": 131,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -612,7 +617,7 @@
       "Name": "Ready for Battle",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AllTogether",
@@ -626,17 +631,17 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 71
     },
     {
       "ID": "CollectCurses",
       "SetID": "7g1kpc8",
       "Name": "Unlucky",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "CollectGold",
@@ -644,7 +649,7 @@
       "Name": "Merchant",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "DemonHunter",
@@ -652,7 +657,7 @@
       "Name": "Demonologist",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FinalBoss",
@@ -660,7 +665,7 @@
       "Name": "Creature",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FirstBlood",
@@ -668,7 +673,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "FirstBoss",
@@ -676,7 +681,7 @@
       "Name": "Scull",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "FirstStep",
@@ -684,7 +689,7 @@
       "Name": "Start of the Path",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "FourthBoss",
@@ -708,7 +713,7 @@
       "Name": "Revolution",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Leprechaun",
@@ -716,7 +721,7 @@
       "Name": "Leprechaun",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "MonsterSlayer",
@@ -732,7 +737,7 @@
       "Name": "Persistence",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ReturnShell",
@@ -740,7 +745,7 @@
       "Name": "Detective",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SecondBoss",
@@ -771,14 +776,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 130,
+      "Progressed": 131,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-08-06T15:06:14.8377304+00:00",
+  "LastChanged_Achievements": "2023-08-06T16:06:06.913648+00:00",
   "LastUpdate_AppInfo": "2023-07-31T09:57:13.2028801+00:00",
-  "LastUpdate_Ratings": "2023-08-06T14:58:04.8609049+00:00",
-  "LastUpdate_Achievements": "2023-08-06T15:06:14.8377516+00:00"
+  "LastUpdate_Ratings": "2023-08-06T15:58:05.4338369+00:00",
+  "LastUpdate_Achievements": "2023-08-06T16:06:06.913683+00:00"
 }

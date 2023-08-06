@@ -4,10 +4,10 @@
   "ProductSlug": "timberborn",
   "Ranking_Rating": 171,
   "Ranking_Popularity": 308,
-  "Ranking_PopularitySum": 246,
+  "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-09-15T15:00:00+00:00",
@@ -1269,10 +1269,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 914,
       "NumberOfAwardsMax": 131
+    },
+    {
+      "Time": "2023-08-06T15:59:11.6559428+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 915,
+      "NumberOfAwardsMax": 131
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 914,
+  "NumberOfAwards": 915,
   "NumberOfAwardsMax": 131,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1334,7 +1340,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 81
+      "Count": 82
     }
   ],
   "EOS_Progressed": 0,
@@ -1348,8 +1354,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:12.1167851+00:00",
-  "LastChanged": "2023-08-02T19:58:53.7229967+00:00",
+  "LastChanged": "2023-08-06T15:59:11.6559426+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:52.5806372+00:00",
-  "LastUpdate_Ratings": "2023-08-06T14:59:10.4904584+00:00",
-  "LastUpdate_Achievements": "2023-08-06T15:03:34.5165577+00:00"
+  "LastUpdate_Ratings": "2023-08-06T15:59:11.6559436+00:00",
+  "LastUpdate_Achievements": "2023-08-06T16:03:34.5834767+00:00"
 }

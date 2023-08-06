@@ -496,7 +496,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3282,
+  "EOS_Progressed": 3283,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -3976,6 +3976,11 @@
       "Time": "2023-08-06T11:03:35.788919+00:00",
       "NumProgressed": 3282,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-06T16:03:30.3230274+00:00",
+      "NumProgressed": 3283,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -4027,7 +4032,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "CrowdPleaser",
@@ -4051,7 +4056,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -4179,7 +4184,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4195,7 +4200,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -4289,9 +4294,9 @@
       "ID": "ThroughFireAndFlame",
       "SetID": "c4hee28",
       "Name": "Through fire and flame.",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "VanquisherOfNightmares_52",
@@ -4322,15 +4327,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3282,
+      "Progressed": 3283,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-08-06T15:03:30.1193552+00:00",
+  "LastChanged_Achievements": "2023-08-06T16:03:30.3230265+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:41.2988144+00:00",
-  "LastUpdate_Ratings": "2023-08-06T14:59:00.0633859+00:00",
-  "LastUpdate_Achievements": "2023-08-06T15:03:30.1194128+00:00"
+  "LastUpdate_Ratings": "2023-08-06T15:58:59.0621343+00:00",
+  "LastUpdate_Achievements": "2023-08-06T16:03:30.3230872+00:00"
 }

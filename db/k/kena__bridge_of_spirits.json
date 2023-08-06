@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1152,18 +1152,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 1688,
       "NumberOfAwardsMax": 1311
+    },
+    {
+      "Time": "2023-08-06T15:59:29.3972803+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1690,
+      "NumberOfAwardsMax": 1313
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1688,
-  "NumberOfAwardsMax": 1311,
+  "NumberOfAwards": 1690,
+  "NumberOfAwardsMax": 1313,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1311
+      "Count": 1313
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1244,9 +1250,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 427243,
+  "EOS_Progressed": 427244,
   "EOS_Completed": 524,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8854,6 +8860,11 @@
       "Time": "2023-08-06T15:02:18.1226993+00:00",
       "NumProgressed": 427243,
       "NumCompleted": 524
+    },
+    {
+      "Time": "2023-08-06T16:02:19.3625573+00:00",
+      "NumProgressed": 427244,
+      "NumCompleted": 524
     }
   ],
   "TotalAchievements": 41,
@@ -8865,7 +8876,7 @@
       "Name": "Skillful Spirit Guide",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 64086
+      "UsersEstimate": 64087
     },
     {
       "ID": "ACH_ABILITY_BOMB",
@@ -8873,7 +8884,7 @@
       "Name": "Harness Your Power",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 162352
+      "UsersEstimate": 162353
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -8889,7 +8900,7 @@
       "Name": "Crossing Over",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 123900
+      "UsersEstimate": 123901
     },
     {
       "ID": "ACH_BOSS_ROT_GOD",
@@ -8953,7 +8964,7 @@
       "Name": "Quick Draw",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 123900
+      "UsersEstimate": 123901
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -8977,7 +8988,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132445
+      "UsersEstimate": 132446
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -9033,7 +9044,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 405881
+      "UsersEstimate": 405882
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -9049,7 +9060,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 307615
+      "UsersEstimate": 307616
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -9081,7 +9092,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 341794
+      "UsersEstimate": 341795
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -9097,7 +9108,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 34179
+      "UsersEstimate": 34180
     },
     {
       "ID": "ACH_PHOTO_MODE",
@@ -9113,7 +9124,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 192259
+      "UsersEstimate": 192260
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -9121,7 +9132,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 140990
+      "UsersEstimate": 140991
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -9145,7 +9156,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 239256
+      "UsersEstimate": 239257
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -9153,7 +9164,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 183714
+      "UsersEstimate": 183715
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -9177,7 +9188,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132445
+      "UsersEstimate": 132446
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -9192,15 +9203,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 427243,
+      "Progressed": 427244,
       "Completed": 524
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
-  "LastChanged": "2023-08-05T15:59:40.9243325+00:00",
-  "LastChanged_Achievements": "2023-08-06T15:02:18.1226988+00:00",
+  "LastChanged": "2023-08-06T15:59:29.3972801+00:00",
+  "LastChanged_Achievements": "2023-08-06T16:02:19.3625565+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:10.650083+00:00",
-  "LastUpdate_Ratings": "2023-08-06T14:59:27.6974082+00:00",
-  "LastUpdate_Achievements": "2023-08-06T15:02:18.1227822+00:00"
+  "LastUpdate_Ratings": "2023-08-06T15:59:29.3972808+00:00",
+  "LastUpdate_Achievements": "2023-08-06T16:02:19.3627049+00:00"
 }

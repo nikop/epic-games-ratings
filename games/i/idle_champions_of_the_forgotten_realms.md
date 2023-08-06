@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,772 |
+| A Brief Tour of the Realms | 4.00% | ~8,773 |
 | Beast Intentions | 3.00% | ~6,579 |
 | Maddening | 2.00% | ~4,386 |
 | The Silken Swamp | 1.00% | ~2,193 |
@@ -30,16 +30,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.70% | ~1,535 |
 | The Mad Wizard | 0.70% | ~1,535 |
 | Pros and CONs | 0.60% | ~1,316 |
-| The Witchlight Carnival | 0.60% | ~1,113 |
+| The Witchlight Carnival | 0.60% | ~1,114 |
 | Hatchlings Underfoot | 0.60% | ~1,316 |
 | Don't Look Up! | 0.60% | ~1,316 |
-| The Evacuation of Waterdeep | 0.60% | ~1,113 |
-| The Dread Domain of Tovag | 0.60% | ~1,113 |
+| The Evacuation of Waterdeep | 0.60% | ~1,114 |
+| The Dread Domain of Tovag | 0.60% | ~1,114 |
 | Beast Mode | 0.60% | ~1,316 |
 | A Mysterious Summons | 0.60% | ~1,316 |
 | The Dinner Party | 0.60% | ~1,316 |
 | The Botched Kidnapping | 0.60% | ~1,316 |
-| The Champion's Guide to Wildspace | 0.60% | ~1,113 |
+| The Champion's Guide to Wildspace | 0.60% | ~1,114 |
 | Thieves of the Coven | 0.50% | ~928 |
 | Heavy Burden | 0.50% | ~1,097 |
 | Friends of the Forest | 0.50% | ~1,097 |
@@ -85,9 +85,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.40% | ~877 |
 | Exploring Port Nyanzaru | 0.40% | ~877 |
 | A Tale of Two Cities | 0.40% | ~877 |
+| The Dead Three | 0.40% | ~877 |
 | Running of the Saurs | 0.40% | ~877 |
 | The Contagious Curse | 0.40% | ~877 |
 | Escort to Waterdeep | 0.40% | ~877 |
+| The Giant's Bane Tavern | 0.40% | ~742 |
 | Waterdeep Detours | 0.40% | ~877 |
 | Underdeep Cartography | 0.40% | ~877 |
 | Overdue Rendezvous | 0.40% | ~877 |
@@ -140,7 +142,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Premature Betrayal | 0.30% | ~658 |
 | Hopelessly Lost | 0.30% | ~658 |
 | Enter the Sargauth | 0.30% | ~658 |
-| The Dead Three | 0.30% | ~658 |
 | Flying Monkey Skulls of Doom | 0.30% | ~658 |
 | Lair of the Xanathar | 0.30% | ~658 |
 | Waterdeep Under Siege | 0.30% | ~658 |
@@ -151,7 +152,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Resolve Amongst Chaos | 0.30% | ~658 |
 | Market Fluctuations | 0.30% | ~658 |
 | Into The Fire | 0.30% | ~557 |
-| The Giant's Bane Tavern | 0.30% | ~557 |
 | The Everlasting Rime | 0.30% | ~557 |
 | Close Escort | 0.30% | ~658 |
 | Constant Banditry | 0.30% | ~658 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,302 (Ranked 53)  
+Progressed: 219,315 (Ranked 53)  
 Completed: 2,155 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,7 +627,7 @@ Completed: 2,155 (0.98%) (Ranked 114)
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
-| 2023-08-06 | 219,302 | 2,155 |
+| 2023-08-06 | 219,315 | 2,155 |
 ## Awards
 Max (Diverse Characters): 5,119  (Ranked 67)  
 Sum: 30,919 (Ranked 38)  

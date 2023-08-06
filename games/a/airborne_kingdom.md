@@ -6,13 +6,13 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,907 |
+| A Small Community | 56.00% | ~3,908 |
 | A Grove Replanted | 53.00% | ~3,698 |
 | Fields Watered | 41.00% | ~2,861 |
 | Settling the Skies | 41.00% | ~2,861 |
 | Seekers Found | 40.00% | ~2,791 |
 | Wind Powered | 40.00% | ~2,791 |
-| It Takes a Village | 34.00% | ~2,372 |
+| It Takes a Village | 34.00% | ~2,373 |
 | On the Town | 28.00% | ~1,954 |
 | Daylight Found | 26.00% | ~1,814 |
 | Irons Scorched | 25.00% | ~1,744 |
@@ -21,21 +21,21 @@ Number of Ratings: 74  (23.09.2022)
 | Pyre Ignited | 23.00% | ~1,605 |
 | Travelers Returned | 23.00% | ~1,605 |
 | Hopes Hoisted | 22.00% | ~1,535 |
-| Knowledge Shared | 20.00% | ~1,395 |
-| Relic Finder | 20.00% | ~1,395 |
+| Knowledge Shared | 20.00% | ~1,396 |
+| Relic Finder | 20.00% | ~1,396 |
 | Worthy of the Title | 19.00% | ~1,326 |
 | A Peaceful Respite | 14.00% | ~977 |
 | A Learned Scholar | 13.00% | ~907 |
 | Prophecy Fulfilled | 13.00% | ~907 |
-| A Wanderer’s Guide | 11.00% | ~767 |
+| A Wanderer’s Guide | 11.00% | ~768 |
 | Knowledge Seeker | 7.00% | ~488 |
 | The Cycle Continues | 3.00% | ~209 |
 | Glowing Waters | 2.00% | ~140 |
 | Sparkling Alloys | 2.00% | ~140 |
 | A True Challenge | 2.00% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,977 (Ranked 131)  
-Completed: 53 (0.76%) (Ranked 121)  
+Progressed: 6,978 (Ranked 131)  
+Completed: 53 (0.76%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -141,7 +141,7 @@ Completed: 53 (0.76%) (Ranked 121)
 | 2023-08-02 | 6,945 | 53 |
 | 2023-08-04 | 6,956 | 53 |
 | 2023-08-05 | 6,967 | 53 |
-| 2023-08-06 | 6,977 | 53 |
+| 2023-08-06 | 6,978 | 53 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "noroy-06d946",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-09T17:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-03T20:03:35.895626+00:00",
-  "LastChanged_Achievements": "2023-08-06T15:03:34.4619518+00:00",
-  "LastUpdate_AppInfo": "2023-07-30T15:56:59.8570685+00:00",
-  "LastUpdate_Ratings": "2023-08-06T14:57:29.3190033+00:00",
-  "LastUpdate_Achievements": "2023-08-06T15:03:34.4619554+00:00"
+  "LastChanged_Achievements": "2023-08-06T16:03:34.4614274+00:00",
+  "LastUpdate_AppInfo": "2023-08-06T15:57:11.7281935+00:00",
+  "LastUpdate_Ratings": "2023-08-06T15:57:31.9046961+00:00",
+  "LastUpdate_Achievements": "2023-08-06T16:03:34.4614314+00:00"
 }
