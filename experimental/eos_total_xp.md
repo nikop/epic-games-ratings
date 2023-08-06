@@ -96,6 +96,7 @@
 | [Bloodshore](../games/b/bloodshore.md) | 17 | 1,000 |
 | [Blossom Tales II The Minotaur Prince](../games/b/blossom_tales_ii_the_minotaur_prince.md) | 20 | 1,000 |
 | [Bosorka](../games/b/bosorka.md) | 15 | 1,000 |
+| [Bottle: Pilgrim Redux](../games/d/d5f88a2d15f2400db1c116d6651e7c9e.md) | 24 | 1,000 |
 | [Boxville](../games/7/7e305f850a5749b3b16599d737e500c8.md) | 18 | 1,000 |
 | [Bramble The Mountain King](../games/b/bramble_the_mountain_king.md) | 30 | 1,000 |
 | [Bratz™: Flaunt Your Fashion](../games/b/bratz™__flaunt_your_fashion.md) | 19 | 1,000 |
@@ -293,6 +294,7 @@
 | [Life Changer](../games/f/f853934fb6874d8783701be12ba6b8b9.md) | 20 | 1,000 |
 | [Lifeslide](../games/l/lifeslide.md) | 31 | 1,000 |
 | [Lifespace Traveler](../games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 13 | 1,000 |
+| [Little Brother Jim](../games/e/e0ae558efb3d42f9bd62184665286d3b.md) | 5 | 1,000 |
 | [LOOPMANCER](../games/l/loopmancer.md) | 57 | 1,000 |
 | [Loretta](../games/l/loretta.md) | 22 | 1,000 |
 | [Lost Abroad Cafe - A Language Learning Management](../games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 8 | 1,000 |
@@ -325,6 +327,7 @@
 | [My Lovely Wife](../games/m/my_lovely_wife.md) | 33 | 1,000 |
 | [MythForce](../games/m/mythforce.md) | 23 | 1,000 |
 | [Neon Noodles - Cyberpunk Kitchen Automation](../games/e/e43864d9ce5b4ac3927a289c6d977650.md) | 19 | 1,000 |
+| [Nephise: Ascension](../games/d/d683909340554b3396b3aa477c07639e.md) | 10 | 1,000 |
 | [NeuroNet: Mendax Proxy](../games/n/neuronet__mendax_proxy.md) | 48 | 1,000 |
 | [NEW Joe and Mac Caveman Ninja](../games/n/new_joe_and_mac_caveman_ninja.md) | 15 | 1,000 |
 | [New Tales from the Borderlands](../games/n/new_tales_from_the_borderlands.md) | 26 | 1,000 |

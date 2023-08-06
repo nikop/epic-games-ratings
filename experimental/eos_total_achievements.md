@@ -365,6 +365,7 @@
 | [Troublemaker](../games/t/troublemaker.md) | 25 | 1,000 |
 | [Backbeat](../games/b/backbeat.md) | 24 | 1,000 |
 | [BloodRayne Betrayal Fresh Bites](../games/b/bloodrayne_betrayal_fresh_bites.md) | 24 | 1,000 |
+| [Bottle: Pilgrim Redux](../games/d/d5f88a2d15f2400db1c116d6651e7c9e.md) | 24 | 1,000 |
 | [Colossal Cave](../games/c/colossal_cave.md) | 24 | 1,000 |
 | [Dark Fantasy 2: Jigsaw Puzzle](../games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24 | 1,000 |
 | [Disney Speedstorm](../games/d/disney_speedstorm.md) | 24 | 1,000 |
@@ -543,6 +544,7 @@
 | [Get Together: A Coop Adventure](../games/g/get_together__a_coop_adventure.md) | 10 | 1,000 |
 | [Jennifer Wilde Unlikely Revolutionaries](../games/j/jennifer_wilde_unlikely_revolutionaries.md) | 10 | 1,000 |
 | [Monster Harvest](../games/m/monster_harvest.md) | 10 | 1,000 |
+| [Nephise: Ascension](../games/d/d683909340554b3396b3aa477c07639e.md) | 10 | 1,000 |
 | [Olija](../games/o/olija.md) | 10 | 1,000 |
 | [Suicide Guy](../games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 10 | 1,000 |
 | [Sylvio And The Mountains Giants](../games/e/eeeac1c46be840b1a8977237cbeb6b09.md) | 10 | 1,000 |
@@ -561,6 +563,7 @@
 | [Cepheus Protocol](../games/c/cepheus_protocol.md) | 5 | 1,000 |
 | [Cyber Drift](../games/c/cyber_drift.md) | 5 | 1,000 |
 | [Jill of the Jungle: The Complete Trilogy](../games/j/jill_of_the_jungle__the_complete_trilogy.md) | 5 | 1,000 |
+| [Little Brother Jim](../games/e/e0ae558efb3d42f9bd62184665286d3b.md) | 5 | 1,000 |
 | [Mason: Building Bricks](../games/m/mason__building_bricks.md) | 5 | 1,000 |
 | [Tabletop Playground](../games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 5 | 1,000 |
 | [ZZT!](../games/z/zzt!.md) | 5 | 1,000 |

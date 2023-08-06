@@ -37,7 +37,7 @@
 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 2023-09-14 | - |  | - | - |
 | [Ad Infinitum](games/a/ad_infinitum.md) | 2023-09-14 | 29 (1,000 XP) | 1 | - | - |
 | [Outlive](games/o/outlive.md) | 2023-09-14 | - |  | - | - |
-| [Nephise: Ascension](games/d/d683909340554b3396b3aa477c07639e.md) | 2023-09-15 | - |  | - | - |
+| [Nephise: Ascension](games/d/d683909340554b3396b3aa477c07639e.md) | 2023-09-15 | 10 (1,000 XP) | 0 | - | - |
 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | - |  | - | - |
 | [Witchfire](games/w/witchfire.md) | 2023-09-20 | - |  | - | - |
 | [Men of War II](games/m/men_of_war_ii.md) | 2023-09-20 | - |  | - | - |
@@ -72,7 +72,7 @@
 | [Shalnor Legends 2: Trials of Thunder](games/d/d26c3a62ed20492f90a07c3a27e8db97.md) | 2023-09-30 | - |  | - | - |
 | [Smurfs Kart](games/0/017ffe3b2bdc41e5a7a4dca5eec73fc4.md) | 2023-09-30 | - |  | - | - |
 | [Team Disorder](games/9/9c9cc8a992404fb8925827eed7a7f500.md) | 2023-09-30 | - |  | - | - |
-| [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-30 | 14 (1,000 XP) | 227 | - | - |
+| [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-30 | 14 (1,000 XP) | 230 | - | - |
 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 2023-09-30 | - |  | - | - |
 | [The Riflemen](games/t/the_riflemen.md) | 2023-09-30 | - |  | - | - |
 | [The Wild Case](games/2/21c2551943894e5d92fd8e7f3ed1f58d.md) | 2023-09-30 | - |  | - | - |
@@ -83,7 +83,7 @@
 | [XR22-SEAGUARD](games/a/a7a640d2ef344fe981c58f45405d1e2e.md) | 2023-09-30 | - |  | - | - |
 | [Game Dev Masters](games/g/game_dev_masters.md) | 2023-10-03 | - |  | - | - |
 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 2023-10-03 | - |  | - | - |
-| [Bottle: Pilgrim Redux](games/d/d5f88a2d15f2400db1c116d6651e7c9e.md) | 2023-10-06 | - |  | - | - |
+| [Bottle: Pilgrim Redux](games/d/d5f88a2d15f2400db1c116d6651e7c9e.md) | 2023-10-06 | 24 (1,000 XP) | 0 | - | - |
 | [Wild Card Football](games/3/3072dbe471f84dac8b2e9ba8af253ee2.md) | 2023-10-10 | - |  | - | 0 |
 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 2023-10-12 | - |  | - | - |
 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | - |  | - | - |
