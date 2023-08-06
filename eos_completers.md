@@ -14,15 +14,15 @@
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 17.98% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.02% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.46% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.33% |
 | 16 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 17 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.00% |
-| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
+| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.33% |
 | 20 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 21 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 10.81% |
 | 22 | [Remains](games/r/remains.md) | 10.64% |
-| 23 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.61% |
+| 23 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.59% |
 | 24 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.53% |
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
@@ -40,7 +40,7 @@
 | 38 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 39 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 40 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 6.03% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.01% |
+| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.98% |
 | 42 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
 | 43 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
 | 44 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.00% |
@@ -56,8 +56,8 @@
 | 54 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
 | 55 | [Without Escape](games/w/without_escape.md) | 3.85% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.71% |
-| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.54% |
-| 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
+| 57 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.52% |
+| 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.48% |
 | 60 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
 | 61 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
@@ -118,7 +118,7 @@
 | 116 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 117 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 118 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
-| 119 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.78% |
+| 119 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.77% |
 | 120 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 121 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
 | 122 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
@@ -175,10 +175,10 @@
 | 172 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
 | 172 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.22% |
 | 175 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
+| 175 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.20% |
 | 175 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
 | 175 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 175 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
-| 179 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 180 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
 | 181 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
 | 181 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
