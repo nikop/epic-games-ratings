@@ -81,7 +81,7 @@
 | 79 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 80 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.37% |
 | 81 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.35% |
-| 82 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
+| 82 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.29% |
 | 83 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
 | 84 | [FORECLOSED](games/f/foreclosed.md) | 2.22% |
 | 85 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.06% |
@@ -527,4 +527,4 @@
 | 249 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 249 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 249 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,000 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,001 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
