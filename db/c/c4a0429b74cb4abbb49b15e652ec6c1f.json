@@ -2,9 +2,9 @@
   "ID": "c4a0429b74cb4abbb49b15e652ec6c1f",
   "Name": "Deverse World",
   "ProductSlug": "deverse-world-3ccb84",
-  "Ranking_EOS_Progress": 289,
+  "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 189,
+  "EOS_Progressed": 190,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -746,6 +746,11 @@
       "Time": "2023-08-06T09:05:09.6847698+00:00",
       "NumProgressed": 189,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T11:05:37.3307861+00:00",
+      "NumProgressed": 190,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -766,15 +771,15 @@
       "Name": "Bitcoin Collector",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "build_your_world",
       "SetID": "5fi1i42",
       "Name": "Construct your world",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "goblin_slayed",
@@ -790,7 +795,7 @@
       "Name": "Hidden Basement",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "login_count",
@@ -886,7 +891,7 @@
       "Name": "Your virtual self",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "visit_cleric",
@@ -909,14 +914,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 189,
+      "Progressed": 190,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-08-06T10:05:46.4890041+00:00",
+  "LastChanged_Achievements": "2023-08-06T11:05:37.3307854+00:00",
   "LastUpdate_AppInfo": "2023-08-03T07:56:56.1663904+00:00",
-  "LastUpdate_Ratings": "2023-08-06T09:57:40.8770761+00:00",
-  "LastUpdate_Achievements": "2023-08-06T10:05:46.4890248+00:00"
+  "LastUpdate_Ratings": "2023-08-06T10:57:33.3285164+00:00",
+  "LastUpdate_Achievements": "2023-08-06T11:05:37.3308052+00:00"
 }

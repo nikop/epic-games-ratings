@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 466)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,101 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,102 |
 | Mainframe Hacker | 23.00% | ~3,911 |
 | The Spy who eliminated me | 23.00% | ~3,911 |
 | Tomorrow Never Dyes | 22.00% | ~3,741 |
@@ -15,16 +15,16 @@ Rating: 4.56 (Ranked 466)
 | For your Eyes only | 18.00% | ~3,061 |
 | Assistant Accountant | 17.00% | ~2,891 |
 | Fully Decked Out | 17.00% | ~2,891 |
-| You Only Live Twice | 16.00% | ~2,720 |
-| A view to Win | 13.00% | ~2,210 |
-| The Living Portrait | 12.00% | ~2,040 |
-| Private Collection | 12.00% | ~2,040 |
-| Killer Looks | 12.00% | ~2,040 |
-| Hostile Takeover | 12.00% | ~2,040 |
-| Smells Like Trouble | 12.00% | ~2,040 |
-| Keycards Royale | 11.00% | ~1,870 |
-| Dr. No Kill | 11.00% | ~1,870 |
-| My Motto, My Creed | 11.00% | ~1,870 |
+| You Only Live Twice | 16.00% | ~2,721 |
+| A view to Win | 13.00% | ~2,211 |
+| The Living Portrait | 12.00% | ~2,041 |
+| Private Collection | 12.00% | ~2,041 |
+| Killer Looks | 12.00% | ~2,041 |
+| Hostile Takeover | 12.00% | ~2,041 |
+| Smells Like Trouble | 12.00% | ~2,041 |
+| Keycards Royale | 11.00% | ~1,871 |
+| Dr. No Kill | 11.00% | ~1,871 |
+| My Motto, My Creed | 11.00% | ~1,871 |
 | In It to Win It | 10.00% | ~1,700 |
 | Security Supervisor | 6.00% | ~1,020 |
 | License to Thrill | 5.00% | ~850 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 466)
 | Extraction Confusion | 0.20% | ~34 |
 | Spyfall | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,003 (Ranked 109)  
+Progressed: 17,005 (Ranked 109)  
 Completed: 1 (0.01%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 1 (0.01%) (Ranked 236)
 | 2023-08-03 | 16,824 | 1 |
 | 2023-08-04 | 16,915 | 1 |
 | 2023-08-05 | 16,981 | 1 |
-| 2023-08-06 | 17,003 | 1 |
+| 2023-08-06 | 17,005 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

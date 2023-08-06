@@ -447,9 +447,9 @@
       "ID": "NinjaSlayer",
       "SetID": "d9ekhim",
       "Name": "Air Slash",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 130
     },
     {
       "ID": "OhNo",
@@ -599,17 +599,17 @@
       "ID": "World4Boss",
       "SetID": "d9ekhim",
       "Name": "Hit That Ball",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 134
     },
     {
       "ID": "World5Boss",
       "SetID": "d9ekhim",
       "Name": "Eat That Apple",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "World6Boss",
@@ -656,8 +656,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-08-06T10:06:52.2006708+00:00",
+  "LastChanged_Achievements": "2023-08-06T11:06:37.6238937+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:37.0163135+00:00",
-  "LastUpdate_Ratings": "2023-08-06T09:58:10.4154825+00:00",
-  "LastUpdate_Achievements": "2023-08-06T10:06:52.2007084+00:00"
+  "LastUpdate_Ratings": "2023-08-06T10:58:00.8846254+00:00",
+  "LastUpdate_Achievements": "2023-08-06T11:06:37.623957+00:00"
 }

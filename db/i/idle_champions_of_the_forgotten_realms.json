@@ -5534,10 +5534,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30914,
       "NumberOfAwardsMax": 5119
+    },
+    {
+      "Time": "2023-08-06T10:59:07.5973412+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30917,
+      "NumberOfAwardsMax": 5119
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30914,
+  "NumberOfAwards": 30917,
   "NumberOfAwardsMax": 5119,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5563,7 +5569,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4595
+      "Count": 4598
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5584,9 +5590,9 @@
       "Count": 3343
     }
   ],
-  "EOS_Progressed": 219192,
+  "EOS_Progressed": 219211,
   "EOS_Completed": 2154,
-  "EOS_NewPlayers": 2190,
+  "EOS_NewPlayers": 2198,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17229,6 +17235,11 @@
       "Time": "2023-08-06T10:02:37.2311333+00:00",
       "NumProgressed": 219192,
       "NumCompleted": 2154
+    },
+    {
+      "Time": "2023-08-06T11:03:09.7563013+00:00",
+      "NumProgressed": 219211,
+      "NumCompleted": 2154
     }
   ],
   "TotalAchievements": 512,
@@ -18214,9 +18225,9 @@
       "ID": "objective_completed_13",
       "SetID": "cc37lbc",
       "Name": "A Persistent Buzzing",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1534
     },
     {
       "ID": "objective_completed_130",
@@ -18686,9 +18697,9 @@
       "ID": "objective_completed_235",
       "SetID": "cc37lbc",
       "Name": "The Botched Kidnapping",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1315
     },
     {
       "ID": "objective_completed_236",
@@ -18894,9 +18905,9 @@
       "ID": "objective_completed_285",
       "SetID": "cc37lbc",
       "Name": "Our Time To Shine",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 438
     },
     {
       "ID": "objective_completed_286",
@@ -21335,21 +21346,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185466,
+      "Progressed": 185485,
       "Completed": 3061
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219192,
+      "Progressed": 219211,
       "Completed": 2154
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-06T07:59:33.3124968+00:00",
-  "LastChanged_Achievements": "2023-08-06T10:02:37.2311325+00:00",
+  "LastChanged": "2023-08-06T10:59:07.5973409+00:00",
+  "LastChanged_Achievements": "2023-08-06T11:03:09.7562999+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-06T09:59:18.7445163+00:00",
-  "LastUpdate_Achievements": "2023-08-06T10:02:37.234232+00:00"
+  "LastUpdate_Ratings": "2023-08-06T10:59:07.5973417+00:00",
+  "LastUpdate_Achievements": "2023-08-06T11:03:09.759415+00:00"
 }

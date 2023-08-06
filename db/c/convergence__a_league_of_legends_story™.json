@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 823,
+  "EOS_Progressed": 824,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -1940,6 +1940,11 @@
       "Time": "2023-08-05T07:06:42.5443398+00:00",
       "NumProgressed": 823,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-06T11:04:59.8677327+00:00",
+      "NumProgressed": 824,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -1999,7 +2004,7 @@
       "Name": "Like Clockwork",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ClovemaryGift",
@@ -2061,9 +2066,9 @@
       "ID": "FairgroundsChests1",
       "SetID": "a9e499d",
       "Name": "Fairgrounds Explorer",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 66
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -2079,7 +2084,7 @@
       "Name": "The Betrayer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2087,7 +2092,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "GadgetCompletion1",
@@ -2135,7 +2140,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "LacunaCompleted",
@@ -2157,7 +2162,7 @@
       "ID": "NoCritterSump",
       "SetID": "a9e499d",
       "Name": "Wildlife Protection",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -2181,7 +2186,7 @@
       "ID": "NoRewindCamille",
       "SetID": "a9e499d",
       "Name": "A Lesson in Precision",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 60,
       "UsersEstimate": 7
     },
@@ -2263,7 +2268,7 @@
       "Name": "Golem Chaser",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "SkillCompletion1",
@@ -2311,7 +2316,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "TheaterChests1",
@@ -2367,14 +2372,14 @@
       "Name": "The Family Fortune",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 823,
+      "Progressed": 824,
       "Completed": 5
     }
   ],
@@ -2382,8 +2387,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-06T10:05:06.4987833+00:00",
+  "LastChanged_Achievements": "2023-08-06T11:04:59.8677321+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:20.0210953+00:00",
-  "LastUpdate_Ratings": "2023-08-06T10:00:49.240755+00:00",
-  "LastUpdate_Achievements": "2023-08-06T10:05:06.4988421+00:00"
+  "LastUpdate_Ratings": "2023-08-06T11:00:29.478212+00:00",
+  "LastUpdate_Achievements": "2023-08-06T11:04:59.867806+00:00"
 }

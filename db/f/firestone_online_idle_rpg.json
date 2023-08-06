@@ -2,12 +2,12 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 914,
+  "Ranking_Rating": 907,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.06,
+  "Rating": 4.08,
   "RatingHistory": [
     {
       "Time": "2023-04-03T11:57:10.5871115+00:00",
@@ -206,15 +206,21 @@
       "Rating": 4.06,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-06T10:58:59.7480795+00:00",
+      "Rating": 4.08,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1769,
+  "EOS_Progressed": 1770,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4762,6 +4768,11 @@
       "Time": "2023-08-06T06:04:23.4005057+00:00",
       "NumProgressed": 1769,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-06T11:04:48.468903+00:00",
+      "NumProgressed": 1770,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -4885,7 +4896,7 @@
       "Name": "Dragon Master",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "dragonslayer",
@@ -4941,7 +4952,7 @@
       "Name": "Enlightenment",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "exoticmerchant",
@@ -4949,7 +4960,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "fellowshippower",
@@ -4957,7 +4968,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "fourleafclover",
@@ -5333,7 +5344,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "warmachinesarmy",
@@ -5372,16 +5383,16 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1769,
+      "Progressed": 1770,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2023-08-04T03:58:50.3286371+00:00",
-  "LastChanged_Achievements": "2023-08-06T10:04:53.8732243+00:00",
+  "LastChanged": "2023-08-06T10:58:59.7480793+00:00",
+  "LastChanged_Achievements": "2023-08-06T11:04:48.4689021+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:51.9873939+00:00",
-  "LastUpdate_Ratings": "2023-08-06T09:59:10.7620659+00:00",
-  "LastUpdate_Achievements": "2023-08-06T10:04:53.8733327+00:00"
+  "LastUpdate_Ratings": "2023-08-06T10:58:59.74808+00:00",
+  "LastUpdate_Achievements": "2023-08-06T11:04:48.4690152+00:00"
 }

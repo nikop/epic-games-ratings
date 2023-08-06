@@ -369,9 +369,9 @@
       "ID": "CgkInO_K3eIdEAIQEA",
       "SetID": "6bj96in",
       "Name": "EAGLE EYED",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CgkInO_K3eIdEAIQEQ",
@@ -464,8 +464,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-06T10:05:08.9552237+00:00",
+  "LastChanged_Achievements": "2023-08-06T11:05:02.1716961+00:00",
   "LastUpdate_AppInfo": "2023-08-02T14:57:15.3975507+00:00",
-  "LastUpdate_Ratings": "2023-08-06T09:57:37.1874141+00:00",
-  "LastUpdate_Achievements": "2023-08-06T10:05:08.9552431+00:00"
+  "LastUpdate_Ratings": "2023-08-06T10:57:29.6170826+00:00",
+  "LastUpdate_Achievements": "2023-08-06T11:05:02.1717288+00:00"
 }

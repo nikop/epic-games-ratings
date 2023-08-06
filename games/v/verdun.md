@@ -6,23 +6,23 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~41,700 |
-| Worth it | 63.00% | ~34,118 |
-| Eagle Eye | 55.00% | ~29,786 |
-| Corpseman I | 40.00% | ~21,662 |
-| Blast fishing | 37.00% | ~20,038 |
-| Not alone | 32.00% | ~17,330 |
+| Setting an example | 77.00% | ~41,702 |
+| Worth it | 63.00% | ~34,120 |
+| Eagle Eye | 55.00% | ~29,787 |
+| Corpseman I | 40.00% | ~21,664 |
+| Blast fishing | 37.00% | ~20,039 |
+| Not alone | 32.00% | ~17,331 |
 | Headhunter I | 26.00% | ~14,081 |
-| Manual Labour I | 25.00% | ~13,539 |
-| Developers, Developers, Developers | 24.00% | ~12,997 |
-| Basic Training | 24.00% | ~12,997 |
-| Furchtlos und Treu | 13.00% | ~7,040 |
+| Manual Labour I | 25.00% | ~13,540 |
+| Developers, Developers, Developers | 24.00% | ~12,998 |
+| Basic Training | 24.00% | ~12,998 |
+| Furchtlos und Treu | 13.00% | ~7,041 |
 | Gott Mit Uns | 12.00% | ~6,499 |
 | This We'll Defend! | 9.00% | ~4,874 |
 | Anker wirf! | 9.00% | ~4,874 |
 | Providentiea Memor | 9.00% | ~4,874 |
 | For King and Country | 9.00% | ~4,874 |
-| Battle hardened | 8.00% | ~4,332 |
+| Battle hardened | 8.00% | ~4,333 |
 | Semper Fidelis! | 7.00% | ~3,791 |
 | Honneur et Patrie | 7.00% | ~3,791 |
 | In Treue Fest | 5.00% | ~2,708 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~54 |
 | Blood Brother | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,156 (Ranked 88)  
+Progressed: 54,159 (Ranked 88)  
 Completed: 4 (0.01%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,11 +174,11 @@ Completed: 4 (0.01%) (Ranked 236)
 | 2023-08-03 | 53,878 | 4 |
 | 2023-08-04 | 53,977 | 4 |
 | 2023-08-05 | 54,110 | 4 |
-| 2023-08-06 | 54,156 | 4 |
+| 2023-08-06 | 54,159 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 341)  
-Sum: 764 (Ranked 262)  
-Diff (max vs sum): 79  
+Sum: 764 (Ranked 263)  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 96 |

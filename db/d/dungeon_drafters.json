@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -695,9 +695,9 @@
       "ID": "portaltraveler_mirrors",
       "SetID": "3b8n56h",
       "Name": "ACHOO!",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "scavanger_curios",
@@ -736,8 +736,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-08-06T10:04:36.7297549+00:00",
+  "LastChanged_Achievements": "2023-08-06T11:04:31.6506627+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:38.9413462+00:00",
-  "LastUpdate_Ratings": "2023-08-06T09:58:12.5467804+00:00",
-  "LastUpdate_Achievements": "2023-08-06T10:04:36.7297885+00:00"
+  "LastUpdate_Ratings": "2023-08-06T10:58:02.7862849+00:00",
+  "LastUpdate_Achievements": "2023-08-06T11:04:31.650698+00:00"
 }

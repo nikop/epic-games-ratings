@@ -5470,10 +5470,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10887,
       "NumberOfAwardsMax": 6343
+    },
+    {
+      "Time": "2023-08-06T11:00:06.5849986+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10888,
+      "NumberOfAwardsMax": 6343
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10887,
+  "NumberOfAwards": 10888,
   "NumberOfAwardsMax": 6343,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5541,7 +5547,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 510
+      "Count": 511
     },
     {
       "Text": "This game has a Creative Community",
@@ -5550,9 +5556,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 712215,
+  "EOS_Progressed": 712218,
   "EOS_Completed": 12847,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -15815,6 +15821,11 @@
       "Time": "2023-08-06T10:02:34.8973889+00:00",
       "NumProgressed": 712215,
       "NumCompleted": 12847
+    },
+    {
+      "Time": "2023-08-06T11:03:07.1454768+00:00",
+      "NumProgressed": 712218,
+      "NumCompleted": 12847
     }
   ],
   "TotalAchievements": 50,
@@ -16225,21 +16236,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21516,
+      "Progressed": 21519,
       "Completed": 10487
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712215,
+      "Progressed": 712218,
       "Completed": 12847
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-08-05T23:00:31.9168855+00:00",
-  "LastChanged_Achievements": "2023-08-06T10:02:34.8973884+00:00",
+  "LastChanged": "2023-08-06T11:00:06.5849985+00:00",
+  "LastChanged_Achievements": "2023-08-06T11:03:07.1454758+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:56.2454888+00:00",
-  "LastUpdate_Ratings": "2023-08-06T10:00:21.3596798+00:00",
-  "LastUpdate_Achievements": "2023-08-06T10:02:34.8975005+00:00"
+  "LastUpdate_Ratings": "2023-08-06T11:00:06.5849993+00:00",
+  "LastUpdate_Achievements": "2023-08-06T11:03:07.1456282+00:00"
 }

@@ -6162,9 +6162,9 @@
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
       "SetID": "83mdf7p",
       "Name": "Operation Foxley",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -6273,8 +6273,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-05T14:57:23.5179626+00:00",
-  "LastChanged_Achievements": "2023-08-06T10:05:36.1777792+00:00",
+  "LastChanged_Achievements": "2023-08-06T11:05:27.5844354+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:33.5601025+00:00",
-  "LastUpdate_Ratings": "2023-08-06T09:57:32.6069221+00:00",
-  "LastUpdate_Achievements": "2023-08-06T10:05:36.1778849+00:00"
+  "LastUpdate_Ratings": "2023-08-06T10:57:25.8962214+00:00",
+  "LastUpdate_Achievements": "2023-08-06T11:05:27.5845575+00:00"
 }

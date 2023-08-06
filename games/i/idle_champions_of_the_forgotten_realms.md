@@ -23,6 +23,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Return to the Tomb | 0.70% | ~1,298 |
 | Heatwave | 0.70% | ~1,298 |
 | Were-verpowered | 0.70% | ~1,534 |
+| A Persistent Buzzing | 0.70% | ~1,534 |
 | Terror in the Dark | 0.70% | ~1,534 |
 | Unearthed Evil | 0.70% | ~1,534 |
 | The Cursed Farmer | 0.70% | ~1,534 |
@@ -32,11 +33,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Look Up! | 0.60% | ~1,315 |
 | The Evacuation of Waterdeep | 0.60% | ~1,113 |
 | The Dread Domain of Tovag | 0.60% | ~1,113 |
-| A Persistent Buzzing | 0.60% | ~1,315 |
 | Beast Mode | 0.60% | ~1,315 |
 | A Mysterious Summons | 0.60% | ~1,315 |
 | Building Trust | 0.60% | ~1,315 |
 | The Dinner Party | 0.60% | ~1,315 |
+| The Botched Kidnapping | 0.60% | ~1,315 |
 | The Mad Wizard | 0.60% | ~1,315 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,113 |
 | Thieves of the Coven | 0.50% | ~927 |
@@ -49,7 +50,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mists of Ravenloft | 0.50% | ~1,096 |
 | Invisible Shadows | 0.50% | ~1,096 |
 | Family Entanglements | 0.50% | ~1,096 |
-| The Botched Kidnapping | 0.50% | ~1,096 |
 | The Ring of Regeneration | 0.50% | ~1,096 |
 | Seeking Allies | 0.50% | ~1,096 |
 | Friendly Imps | 0.50% | ~1,096 |
@@ -203,6 +203,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | House of Darkness | 0.20% | ~438 |
 | Home Not So Alone | 0.20% | ~371 |
 | The Trepidatious Trio | 0.20% | ~438 |
+| Our Time To Shine | 0.20% | ~438 |
 | The Guardian of Orolunga | 0.20% | ~438 |
 | The Lost Love | 0.20% | ~438 |
 | A Saurial's Resolve | 0.20% | ~438 |
@@ -325,7 +326,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Strahd | 0.10% | ~219 |
 | Seeds of Corruption | 0.10% | ~219 |
 | The Strahd Squad | 0.10% | ~185 |
-| Our Time To Shine | 0.10% | ~219 |
 | Review by the Blackstaff | 0.10% | ~185 |
 | Think Your Way Out Of It | 0.10% | ~219 |
 | Air's Getting Pretty Thin | 0.10% | ~219 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,192 (Ranked 53)  
+Progressed: 219,211 (Ranked 53)  
 Completed: 2,154 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,17 +627,17 @@ Completed: 2,154 (0.98%) (Ranked 113)
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
-| 2023-08-06 | 219,192 | 2,154 |
+| 2023-08-06 | 219,211 | 2,154 |
 ## Awards
 Max (Diverse Characters): 5,119  (Ranked 67)  
-Sum: 30,914 (Ranked 38)  
+Sum: 30,917 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,119 |
 | This game is Great for Beginners | 5,064 |
 | This game has Quickly Understood Controls | 4,702 |
-| This game is Relaxing | 4,595 |
+| This game is Relaxing | 4,598 |
 | This game has Amazing Characters | 4,055 |
 | This game is Highly Recommended | 4,036 |
 | This game has Playful Visuals | 3,343 |
@@ -836,4 +836,4 @@ Diff (max vs sum): 29
 | 2023-08-03 | 4.05 | - | 5,116 | 30,886 |
 | 2023-08-04 | 4.05 | - | 5,116 | 30,897 |
 | 2023-08-05 | 4.05 | - | 5,119 | 30,910 |
-| 2023-08-06 | 4.05 | - | 5,119 | 30,914 |
+| 2023-08-06 | 4.05 | - | 5,119 | 30,917 |

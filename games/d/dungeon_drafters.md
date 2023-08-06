@@ -30,6 +30,7 @@
 | The Plot Thickens | 4.00% | ~3 |
 | The False Prophet | 4.00% | ~3 |
 | Sealed Once Again | 4.00% | ~3 |
+| ACHOO! | 4.00% | ~3 |
 | Best Pupil | 2.00% | ~2 |
 | FOR JUSTICE! | 2.00% | ~2 |
 | Journey’s End | 2.00% | ~2 |
@@ -40,7 +41,6 @@
 | First time? | 2.00% | ~2 |
 | Harmony | 2.00% | ~2 |
 | A New Tomorrow | 2.00% | ~2 |
-| ACHOO! | 2.00% | ~2 |
 | The New Demon Lord | 1.00% | ~1 |
 | Gladiator | 1.00% | ~1 |
 | True Drafter | 0.00% | ~0 |

@@ -12,13 +12,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tinkle of Coins | 0.60% | ~804 |
 | Disintermediation | 0.50% | ~670 |
 | Capitalism Ho! | 0.50% | ~670 |
+| Some Assembly Required | 0.40% | ~536 |
 | Another Satisfied Customer | 0.40% | ~536 |
 | It's Free Real Estate | 0.40% | ~536 |
 | Budding Merchant | 0.40% | ~536 |
 | Own the Means of Production | 0.40% | ~536 |
 | The Daily Grind | 0.30% | ~402 |
 | One Easy Payment | 0.30% | ~402 |
-| Some Assembly Required | 0.30% | ~402 |
 | Bounty Hunters | 0.30% | ~402 |
 | Pretty Penny | 0.30% | ~402 |
 | One-Armed Bandit | 0.30% | ~402 |
@@ -43,6 +43,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.20% | ~268 |
 | Dungeon Imports | 0.20% | ~268 |
 | Natural 20 | 0.20% | ~268 |
+| Seasoned Journeyman | 0.20% | ~268 |
 | Did we pack lunch? | 0.20% | ~268 |
 | Arcane Industries | 0.20% | ~268 |
 | A Notch Above the Rest | 0.10% | ~134 |
@@ -95,7 +96,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 0.10% | ~134 |
 | Bountiful Harvest | 0.10% | ~134 |
 | Anything not Nailed Down | 0.10% | ~134 |
-| Seasoned Journeyman | 0.10% | ~134 |
 | Precision Engineering | 0.10% | ~134 |
 | The Greatest Grind | 0.10% | ~134 |
 | All or Nothing! | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,980 (Ranked 62)  
+Progressed: 133,982 (Ranked 62)  
 Completed: 128 (0.10%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 128 (0.10%) (Ranked 198)
 | 2023-08-03 | 133,815 | 128 |
 | 2023-08-04 | 133,890 | 128 |
 | 2023-08-05 | 133,956 | 128 |
-| 2023-08-06 | 133,980 | 128 |
+| 2023-08-06 | 133,982 | 128 |
 ## Awards
 Max (Great for Beginners): 4,688  (Ranked 70)  
 Sum: 27,053 (Ranked 46)  

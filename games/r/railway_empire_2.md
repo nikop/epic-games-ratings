@@ -5,25 +5,25 @@ Rating: 4.48 (Ranked 590)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A new Journey | 74.00% | ~1,307 |
-| Country Bumpkin | 74.00% | ~1,307 |
-| Departure | 73.00% | ~1,289 |
+| A new Journey | 74.00% | ~1,308 |
+| Country Bumpkin | 74.00% | ~1,308 |
+| Departure | 73.00% | ~1,290 |
 | From X to Y | 72.00% | ~1,272 |
-| Way of Iron | 70.00% | ~1,236 |
-| Mystery Tour | 68.00% | ~1,201 |
-| We brake for nobody | 67.00% | ~1,183 |
+| Way of Iron | 70.00% | ~1,237 |
+| Mystery Tour | 68.00% | ~1,202 |
+| We brake for nobody | 67.00% | ~1,184 |
 | Brainstorm | 66.00% | ~1,166 |
-| Travel Company | 65.00% | ~1,148 |
-| Mind the Gap | 64.00% | ~1,130 |
-| All around the World | 62.00% | ~1,095 |
+| Travel Company | 65.00% | ~1,149 |
+| Mind the Gap | 64.00% | ~1,131 |
+| All around the World | 62.00% | ~1,096 |
 | Right through the middle | 57.00% | ~1,007 |
-| Facility Manager | 53.00% | ~936 |
-| Poor Devil | 53.00% | ~936 |
-| Producer | 50.00% | ~883 |
+| Facility Manager | 53.00% | ~937 |
+| Poor Devil | 53.00% | ~937 |
+| Producer | 50.00% | ~884 |
 | Apprentice | 42.00% | ~742 |
 | Bridge Builder | 41.00% | ~724 |
 | Access granted | 35.00% | ~618 |
-| Going once, going twice, sold | 34.00% | ~600 |
+| Going once, going twice, sold | 34.00% | ~601 |
 | Stoker | 33.00% | ~583 |
 | Bull and bear | 33.00% | ~583 |
 | Full Steam ahead | 32.00% | ~565 |
@@ -61,7 +61,7 @@ Rating: 4.48 (Ranked 590)
 | Together we stand | 0.60% | ~11 |
 | Three Cheers for Progress | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,766 (Ranked 173)  
+Progressed: 1,767 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,6 +145,7 @@ Completed: 0 (0.00%) (Ranked 249)
 | 2023-08-03 | 1,756 | 0 |
 | 2023-08-04 | 1,761 | 0 |
 | 2023-08-05 | 1,766 | 0 |
+| 2023-08-06 | 1,767 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
