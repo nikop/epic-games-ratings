@@ -7,8 +7,8 @@
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 23.86% |
-| 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
-| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 20.18% |
+| 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 20.91% |
+| 9 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
@@ -119,8 +119,8 @@
 | 117 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 118 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 119 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
-| 120 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.77% |
-| 121 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
+| 120 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
+| 120 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.76% |
 | 122 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
 | 123 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
 | 124 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
