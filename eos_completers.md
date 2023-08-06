@@ -28,15 +28,15 @@
 | 26 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.92% |
-| 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
+| 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.97% |
 | 30 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.93% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.77% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
 | 34 | [Ravenlok](games/r/ravenlok.md) | 7.33% |
 | 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.10% |
-| 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.00% |
-| 37 | [Scorn](games/s/scorn.md) | 6.92% |
+| 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.99% |
+| 37 | [Scorn](games/s/scorn.md) | 6.97% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.90% |
 | 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 40 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -180,12 +180,12 @@
 | 176 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
 | 176 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 176 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
-| 181 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
-| 182 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
-| 182 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
-| 182 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.16% |
-| 182 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 182 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
+| 181 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
+| 182 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
+| 183 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
+| 183 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 183 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 183 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
 | 187 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.15% |
 | 187 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
 | 187 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
