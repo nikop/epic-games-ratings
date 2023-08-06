@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3362,9 +3362,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10811,
+  "EOS_Progressed": 10812,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10182,6 +10182,11 @@
       "Time": "2023-08-05T21:03:24.0715034+00:00",
       "NumProgressed": 10811,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T00:03:40.5664111+00:00",
+      "NumProgressed": 10812,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10193,7 +10198,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2378
+      "UsersEstimate": 2379
     },
     {
       "ID": "02_BurningCity",
@@ -10311,9 +10316,9 @@
       "ID": "16_PathOfLegend",
       "SetID": "989of5o",
       "Name": "Path of the Legend",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 97
     },
     {
       "ID": "17_Transformation",
@@ -10329,7 +10334,7 @@
       "Name": "Mythic Choices",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "19_EqualToAroden",
@@ -10441,7 +10446,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -11120,21 +11125,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9593,
+      "Progressed": 9594,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10811,
+      "Progressed": 10812,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-04T16:59:12.9960136+00:00",
-  "LastChanged_Achievements": "2023-08-05T23:03:49.4346434+00:00",
+  "LastChanged_Achievements": "2023-08-06T00:03:40.5664106+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:18.5411463+00:00",
-  "LastUpdate_Ratings": "2023-08-05T22:59:49.7904396+00:00",
-  "LastUpdate_Achievements": "2023-08-05T23:03:49.4350522+00:00"
+  "LastUpdate_Ratings": "2023-08-05T23:58:56.9398033+00:00",
+  "LastUpdate_Achievements": "2023-08-06T00:03:40.5666232+00:00"
 }

@@ -5,9 +5,9 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 7.00% | ~262 |
-| Feeling the beat! | 7.00% | ~262 |
-| You can pet the cat! | 7.00% | ~262 |
+| Feeling the beat! | 8.00% | ~300 |
+| Start with a bang! | 7.00% | ~263 |
+| You can pet the cat! | 7.00% | ~263 |
 | Who put gears in there? | 6.00% | ~225 |
 | Cream of the Crop | 5.00% | ~188 |
 | Thanks for the free chip, Peppermint! | 5.00% | ~188 |
@@ -21,15 +21,15 @@ Rating: 4.87 (Ranked 24)
 | Kissing the sky! | 4.00% | ~150 |
 | Does that say weakpoint? | 4.00% | ~150 |
 | NOW we got a kickass hideout! | 4.00% | ~91 |
-| The Negotiator | 3.00% | ~112 |
-| Headliner | 3.00% | ~112 |
-| Time to pay up! | 3.00% | ~112 |
-| Who's the boss now? | 3.00% | ~112 |
-| Whoa! There's ANOTHER health bar!? | 3.00% | ~112 |
-| You must like calling me in, Chai | 3.00% | ~112 |
-| Out in a puff of smoke | 3.00% | ~112 |
-| Perfecter Parry-er! | 3.00% | ~112 |
-| I look cool. But I can look COOLER. | 3.00% | ~112 |
+| The Negotiator | 3.00% | ~113 |
+| Headliner | 3.00% | ~113 |
+| Time to pay up! | 3.00% | ~113 |
+| Who's the boss now? | 3.00% | ~113 |
+| Whoa! There's ANOTHER health bar!? | 3.00% | ~113 |
+| You must like calling me in, Chai | 3.00% | ~113 |
+| Out in a puff of smoke | 3.00% | ~113 |
+| Perfecter Parry-er! | 3.00% | ~113 |
+| I look cool. But I can look COOLER. | 3.00% | ~113 |
 | Well that was a rush! | 2.00% | ~75 |
 | I have to read these things? | 2.00% | ~75 |
 | Beat-hit mania | 2.00% | ~75 |
@@ -41,9 +41,9 @@ Rating: 4.87 (Ranked 24)
 | Call me Turbo Chai | 1.00% | ~23 |
 | I told you I'd be fine, Peppermint! | 0.90% | ~34 |
 | I think I found your calling, Macaron | 0.70% | ~26 |
-| I think I deserve some praise, here! | 0.60% | ~22 |
-| We're Jammin' | 0.60% | ~22 |
-| I hit things with a guitar really well. | 0.60% | ~22 |
+| I think I deserve some praise, here! | 0.60% | ~23 |
+| We're Jammin' | 0.60% | ~23 |
+| I hit things with a guitar really well. | 0.60% | ~23 |
 | This is a breeze! | 0.50% | ~19 |
 | First we parry, then we counter | 0.50% | ~19 |
 | New bad guys? No problem! | 0.50% | ~11 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,750 (Ranked 147)  
+Progressed: 3,751 (Ranked 147)  
 Completed: 6 (0.16%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,6 +183,7 @@ Completed: 6 (0.16%) (Ranked 181)
 | 2023-08-03 | 3,705 | 6 |
 | 2023-08-04 | 3,731 | 6 |
 | 2023-08-05 | 3,750 | 6 |
+| 2023-08-06 | 3,751 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

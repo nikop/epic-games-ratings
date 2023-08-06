@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -349,9 +349,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 4587,
+  "EOS_Progressed": 4588,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2084,6 +2084,11 @@
       "Time": "2023-08-05T18:06:18.9528241+00:00",
       "NumProgressed": 4587,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-06T00:04:15.3117849+00:00",
+      "NumProgressed": 4588,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 67,
@@ -2095,7 +2100,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -2103,7 +2108,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -2119,7 +2124,7 @@
       "Name": "The Black Cerberus",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ID_ACHIEV_05",
@@ -2143,7 +2148,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3899
+      "UsersEstimate": 3900
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -2151,7 +2156,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4312
+      "UsersEstimate": 4313
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -2159,7 +2164,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3532
+      "UsersEstimate": 3533
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -2167,7 +2172,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -2191,7 +2196,7 @@
       "Name": "Watchman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ID_ACHIEV_14",
@@ -2311,7 +2316,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3532
+      "UsersEstimate": 3533
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -2439,7 +2444,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1652
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -2527,7 +2532,7 @@
       "Name": "Rusty Rat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ID_ACHIEV_57",
@@ -2615,7 +2620,7 @@
       "Name": "Desecration",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ID_ACHIEV_68",
@@ -2630,15 +2635,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4587,
+      "Progressed": 4588,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-08-05T18:00:49.7892427+00:00",
-  "LastChanged_Achievements": "2023-08-05T23:04:49.323977+00:00",
+  "LastChanged_Achievements": "2023-08-06T00:04:15.3117844+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:49.2755074+00:00",
-  "LastUpdate_Ratings": "2023-08-05T22:59:13.5162139+00:00",
-  "LastUpdate_Achievements": "2023-08-05T23:04:49.3241283+00:00"
+  "LastUpdate_Ratings": "2023-08-05T23:58:35.6541169+00:00",
+  "LastUpdate_Achievements": "2023-08-06T00:04:15.3118733+00:00"
 }

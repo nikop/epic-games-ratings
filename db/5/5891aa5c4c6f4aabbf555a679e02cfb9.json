@@ -2,10 +2,10 @@
   "ID": "5891aa5c4c6f4aabbf555a679e02cfb9",
   "Name": "The Evil Within 2",
   "ProductSlug": "the-evil-within-2",
-  "Ranking_EOS_Progress": 408,
+  "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2017-10-12T00:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17,
+  "EOS_Progressed": 18,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -97,6 +97,11 @@
       "Time": "2023-08-05T20:03:24.1941139+00:00",
       "NumProgressed": 17,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T00:03:33.5334778+00:00",
+      "NumProgressed": 18,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:14.4921824+00:00",
@@ -139,7 +144,7 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "b36c5kb",
       "Name": "Welcome to Union",
-      "Percentage": 71,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -147,7 +152,7 @@
       "ID": "ACHIEVEMENT_06",
       "SetID": "b36c5kb",
       "Name": "Taken",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -155,7 +160,7 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "b36c5kb",
       "Name": "Not Running This Time",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -163,7 +168,7 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "b36c5kb",
       "Name": "The Team Psychologist",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -235,7 +240,7 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "b36c5kb",
       "Name": "Backup Ain\u0027t Coming",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -259,7 +264,7 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "b36c5kb",
       "Name": "You Got Red in You",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -275,7 +280,7 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "b36c5kb",
       "Name": "Making Things a Little Easier",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -283,7 +288,7 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "b36c5kb",
       "Name": "Now You\u0027re Playing with Power",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -307,7 +312,7 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "b36c5kb",
       "Name": "DIY",
-      "Percentage": 59,
+      "Percentage": 56,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -363,7 +368,7 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "b36c5kb",
       "Name": "Good to See You Again",
-      "Percentage": 47,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -403,7 +408,7 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "b36c5kb",
       "Name": "Thinning Them Out",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -411,7 +416,7 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "b36c5kb",
       "Name": "Clearing a Path",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -443,7 +448,7 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "b36c5kb",
       "Name": "Kick, Shoot, Burn",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -459,7 +464,7 @@
       "ID": "ACHIEVEMENT_45",
       "SetID": "b36c5kb",
       "Name": "I Am The Night",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -516,14 +521,14 @@
     {
       "ID": "b36c5kb",
       "IsBase": true,
-      "Progressed": 17,
+      "Progressed": 18,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-05T23:03:39.4291694+00:00",
+  "LastChanged_Achievements": "2023-08-06T00:03:33.5334773+00:00",
   "LastUpdate_AppInfo": "2023-08-02T15:56:51.7948798+00:00",
-  "LastUpdate_Ratings": "2023-08-05T22:57:04.7003661+00:00",
-  "LastUpdate_Achievements": "2023-08-05T23:03:39.4292534+00:00"
+  "LastUpdate_Ratings": "2023-08-05T23:57:10.968328+00:00",
+  "LastUpdate_Achievements": "2023-08-06T00:03:33.5335266+00:00"
 }

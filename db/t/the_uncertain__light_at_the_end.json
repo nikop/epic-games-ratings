@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -556,9 +556,9 @@
       "ID": "Doors_Closing",
       "SetID": "ek310c",
       "Name": "Mind the Gap",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 64
     },
     {
       "ID": "Echoes",
@@ -684,9 +684,9 @@
       "ID": "Neighbor",
       "SetID": "ek310c",
       "Name": "Den Mother",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "Ninja",
@@ -765,8 +765,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-08-05T23:03:08.1478955+00:00",
+  "LastChanged_Achievements": "2023-08-06T00:03:11.950658+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:31.8779873+00:00",
-  "LastUpdate_Ratings": "2023-08-05T22:57:29.1155294+00:00",
-  "LastUpdate_Achievements": "2023-08-05T23:03:08.1479356+00:00"
+  "LastUpdate_Ratings": "2023-08-05T23:57:24.5239145+00:00",
+  "LastUpdate_Achievements": "2023-08-06T00:03:11.9506803+00:00"
 }

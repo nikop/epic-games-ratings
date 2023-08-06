@@ -9965,9 +9965,9 @@
       "Count": 5501
     }
   ],
-  "EOS_Progressed": 869431,
+  "EOS_Progressed": 869433,
   "EOS_Completed": 1936,
-  "EOS_NewPlayers": 1145,
+  "EOS_NewPlayers": 1139,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -21710,6 +21710,11 @@
       "Time": "2023-08-05T23:05:30.9664755+00:00",
       "NumProgressed": 869431,
       "NumCompleted": 1936
+    },
+    {
+      "Time": "2023-08-06T00:04:44.8063622+00:00",
+      "NumProgressed": 869433,
+      "NumCompleted": 1936
     }
   ],
   "TotalAchievements": 44,
@@ -21753,7 +21758,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 339078
+      "UsersEstimate": 339079
     },
     {
       "ID": "FollowingTheRiver",
@@ -21817,7 +21822,7 @@
       "Name": "I Am The Law",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 121720
+      "UsersEstimate": 121721
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -21841,7 +21846,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 199969
+      "UsersEstimate": 199970
     },
     {
       "ID": "MaxPain",
@@ -21865,7 +21870,7 @@
       "Name": "Breathtaking",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 69554
+      "UsersEstimate": 69555
     },
     {
       "ID": "NoMansLand",
@@ -21937,7 +21942,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 591213
+      "UsersEstimate": 591214
     },
     {
       "ID": "TheHermit",
@@ -21945,7 +21950,7 @@
       "Name": "The Hermit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 208663
+      "UsersEstimate": 208664
     },
     {
       "ID": "TheHightPriestess",
@@ -21961,7 +21966,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 304301
+      "UsersEstimate": 304302
     },
     {
       "ID": "TheStar",
@@ -21985,7 +21990,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 234746
+      "UsersEstimate": 234747
     },
     {
       "ID": "TheWorld",
@@ -22017,7 +22022,7 @@
       "Name": "True Soldier",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 199969
+      "UsersEstimate": 199970
     },
     {
       "ID": "TrueWarrior",
@@ -22041,7 +22046,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 121720
+      "UsersEstimate": 121721
     },
     {
       "ID": "VForVendetta",
@@ -22072,15 +22077,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 869431,
+      "Progressed": 869433,
       "Completed": 1936
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-08-05T20:58:41.4525201+00:00",
-  "LastChanged_Achievements": "2023-08-05T23:05:30.9664749+00:00",
+  "LastChanged_Achievements": "2023-08-06T00:04:44.8063616+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:43.7604736+00:00",
-  "LastUpdate_Ratings": "2023-08-05T22:59:08.5109811+00:00",
-  "LastUpdate_Achievements": "2023-08-05T23:05:30.9666668+00:00"
+  "LastUpdate_Ratings": "2023-08-05T23:58:32.6299011+00:00",
+  "LastUpdate_Achievements": "2023-08-06T00:04:44.8064805+00:00"
 }

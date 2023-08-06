@@ -5,33 +5,33 @@ Rating: 3.48 (Ranked 963)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~15,168 |
-| Hard Worker | 20.00% | ~13,789 |
-| Master, Commander | 20.00% | ~13,789 |
-| Mechanic | 19.00% | ~13,100 |
-| Adios, Friendo | 18.00% | ~12,410 |
-| Bottom's Up | 18.00% | ~12,410 |
+| Be Seeing You | 22.00% | ~15,169 |
+| Hard Worker | 20.00% | ~13,790 |
+| Master, Commander | 20.00% | ~13,790 |
+| Mechanic | 19.00% | ~13,101 |
+| Adios, Friendo | 18.00% | ~12,411 |
+| Bottom's Up | 18.00% | ~12,411 |
 | Nice Try | 16.00% | ~11,032 |
-| Right On Target | 13.00% | ~8,963 |
+| Right On Target | 13.00% | ~8,964 |
 | Piano Man | 10.00% | ~6,895 |
-| Lazy Bones | 9.00% | ~6,205 |
+| Lazy Bones | 9.00% | ~6,206 |
 | Vinyl Vibes | 8.00% | ~5,516 |
-| Nothing Left to Say | 7.00% | ~4,826 |
-| Sniper | 7.00% | ~4,826 |
-| Cut Call | 5.00% | ~3,447 |
+| Nothing Left to Say | 7.00% | ~4,827 |
+| Sniper | 7.00% | ~4,827 |
+| Cut Call | 5.00% | ~3,448 |
 | Butcher | 4.00% | ~2,758 |
 | Magnetic Miracles | 4.00% | ~2,758 |
 | Spicy | 4.00% | ~2,758 |
-| A Man Of Taste | 3.00% | ~2,068 |
-| Ace in the Hole | 3.00% | ~2,068 |
-| Fair's Fair | 3.00% | ~2,068 |
-| Hearty | 3.00% | ~2,068 |
-| Meaty | 3.00% | ~2,068 |
-| Taco Toto | 3.00% | ~2,068 |
+| A Man Of Taste | 3.00% | ~2,069 |
+| Ace in the Hole | 3.00% | ~2,069 |
+| Fair's Fair | 3.00% | ~2,069 |
+| Hearty | 3.00% | ~2,069 |
+| Meaty | 3.00% | ~2,069 |
+| Taco Toto | 3.00% | ~2,069 |
 | Audiophile | 2.00% | ~1,379 |
 | Tape Head | 2.00% | ~1,379 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,947 (Ranked 79)  
+Progressed: 68,952 (Ranked 79)  
 Completed: 687 (1.00%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,6 +139,7 @@ Completed: 687 (1.00%) (Ranked 112)
 | 2023-08-03 | 68,682 | 683 |
 | 2023-08-04 | 68,817 | 687 |
 | 2023-08-05 | 68,947 | 687 |
+| 2023-08-06 | 68,952 | 687 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

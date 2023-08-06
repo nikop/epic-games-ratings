@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4682,
+  "EOS_Progressed": 4700,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3946,
+  "EOS_NewPlayers": 3926,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -912,6 +912,11 @@
       "Time": "2023-08-05T23:06:58.3501653+00:00",
       "NumProgressed": 4682,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T00:05:46.8829998+00:00",
+      "NumProgressed": 4700,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -964,7 +969,7 @@
       "Name": "Doctor Approved",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 796
+      "UsersEstimate": 799
     },
     {
       "ID": "15",
@@ -1012,7 +1017,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "20",
@@ -1100,7 +1105,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 749
+      "UsersEstimate": 752
     },
     {
       "ID": "30",
@@ -1163,14 +1168,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 4682,
+      "Progressed": 4700,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-05T23:06:58.3501646+00:00",
+  "LastChanged_Achievements": "2023-08-06T00:05:46.8829993+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:06.3145817+00:00",
-  "LastUpdate_Ratings": "2023-08-05T23:00:43.2943041+00:00",
-  "LastUpdate_Achievements": "2023-08-05T23:06:58.3502089+00:00"
+  "LastUpdate_Ratings": "2023-08-05T23:59:36.7258074+00:00",
+  "LastUpdate_Achievements": "2023-08-06T00:05:46.8830298+00:00"
 }

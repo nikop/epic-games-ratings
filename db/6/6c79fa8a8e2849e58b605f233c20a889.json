@@ -4,8 +4,8 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2217,
+  "EOS_Progressed": 2218,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4506,6 +4506,11 @@
       "Time": "2023-08-05T23:03:05.9291898+00:00",
       "NumProgressed": 2217,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-06T00:03:10.4148691+00:00",
+      "NumProgressed": 2218,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -4621,7 +4626,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "GUARD_MAKER",
@@ -4692,14 +4697,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2217,
+      "Progressed": 2218,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-08-05T23:03:05.9291893+00:00",
+  "LastChanged_Achievements": "2023-08-06T00:03:10.4148687+00:00",
   "LastUpdate_AppInfo": "2023-08-01T20:56:50.3342535+00:00",
-  "LastUpdate_Ratings": "2023-08-05T22:58:07.3311694+00:00",
-  "LastUpdate_Achievements": "2023-08-05T23:03:05.9292972+00:00"
+  "LastUpdate_Ratings": "2023-08-05T23:57:52.8221062+00:00",
+  "LastUpdate_Achievements": "2023-08-06T00:03:10.41492+00:00"
 }

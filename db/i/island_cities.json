@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -2231,25 +2231,25 @@
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 255
+      "UsersEstimate": 260
     },
     {
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 223
+      "UsersEstimate": 228
     },
     {
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 196
+      "UsersEstimate": 201
     },
     {
       "ID": "LEVEL_007",
@@ -2392,8 +2392,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-08-05T23:05:06.2933254+00:00",
+  "LastChanged_Achievements": "2023-08-06T00:04:26.7082966+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:52.0261252+00:00",
-  "LastUpdate_Ratings": "2023-08-05T22:59:16.5825689+00:00",
-  "LastUpdate_Achievements": "2023-08-05T23:05:06.2933631+00:00"
+  "LastUpdate_Ratings": "2023-08-05T23:58:37.7028696+00:00",
+  "LastUpdate_Achievements": "2023-08-06T00:04:26.7083293+00:00"
 }

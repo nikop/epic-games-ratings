@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -2141,9 +2141,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 312
+      "UsersEstimate": 318
     },
     {
       "ID": "MQ04_1",
@@ -2157,9 +2157,9 @@
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 230
     },
     {
       "ID": "MQ04_3",
@@ -2181,9 +2181,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 277
+      "UsersEstimate": 283
     },
     {
       "ID": "MQ05_3",
@@ -2294,8 +2294,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-07-24T23:58:19.6744242+00:00",
-  "LastChanged_Achievements": "2023-08-05T23:08:18.8445237+00:00",
+  "LastChanged_Achievements": "2023-08-06T00:06:41.6698091+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:41.2332437+00:00",
-  "LastUpdate_Ratings": "2023-08-05T22:58:19.5652909+00:00",
-  "LastUpdate_Achievements": "2023-08-05T23:08:18.8445799+00:00"
+  "LastUpdate_Ratings": "2023-08-05T23:58:00.2104857+00:00",
+  "LastUpdate_Achievements": "2023-08-06T00:06:41.6698418+00:00"
 }

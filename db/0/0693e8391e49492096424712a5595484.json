@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -1338,9 +1338,9 @@
       "ID": "BearRum",
       "SetID": "db30heh",
       "Name": "Ready for Bed",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "BearSword",
@@ -1458,9 +1458,9 @@
       "ID": "HastrmanAmanita",
       "SetID": "db30heh",
       "Name": "Tastes Funny",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 179
     },
     {
       "ID": "HastrmanHappy",
@@ -1498,9 +1498,9 @@
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 146
     },
     {
       "ID": "PriestBroom",
@@ -1657,8 +1657,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-05T23:07:53.9362184+00:00",
+  "LastChanged_Achievements": "2023-08-06T00:06:24.4761887+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-05T22:57:40.25234+00:00",
-  "LastUpdate_Achievements": "2023-08-05T23:07:53.9362936+00:00"
+  "LastUpdate_Ratings": "2023-08-05T23:57:33.8045762+00:00",
+  "LastUpdate_Achievements": "2023-08-06T00:06:24.4762477+00:00"
 }

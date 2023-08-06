@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,762 |
+| A Brief Tour of the Realms | 4.00% | ~8,763 |
 | Beast Intentions | 3.00% | ~6,572 |
 | Maddening | 2.00% | ~4,381 |
 | The Silken Swamp | 1.00% | ~2,191 |
@@ -22,6 +22,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wet Feet | 0.70% | ~1,533 |
 | Return to the Tomb | 0.70% | ~1,297 |
 | Were-verpowered | 0.70% | ~1,533 |
+| Unearthed Evil | 0.70% | ~1,533 |
 | The Cursed Farmer | 0.70% | ~1,533 |
 | Pros and CONs | 0.60% | ~1,314 |
 | The Witchlight Carnival | 0.60% | ~1,112 |
@@ -35,7 +36,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.60% | ~1,314 |
 | A Mysterious Summons | 0.60% | ~1,314 |
 | Building Trust | 0.60% | ~1,314 |
-| Unearthed Evil | 0.60% | ~1,314 |
 | The Dinner Party | 0.60% | ~1,314 |
 | The Mad Wizard | 0.60% | ~1,314 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,112 |
@@ -81,6 +81,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.40% | ~876 |
 | Mad Cow Disease | 0.40% | ~876 |
 | Exploring Port Nyanzaru | 0.40% | ~876 |
+| A Tale of Two Cities | 0.40% | ~876 |
 | Running of the Saurs | 0.40% | ~876 |
 | The Contagious Curse | 0.40% | ~876 |
 | Escort to Waterdeep | 0.40% | ~876 |
@@ -111,6 +112,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Xanathaaaaaaar! | 0.30% | ~556 |
 | Lobsterfolk Assault | 0.30% | ~657 |
 | Captured! | 0.30% | ~657 |
+| Home Field Advantage | 0.30% | ~657 |
 | Force Grey Unleashed | 0.30% | ~657 |
 | Vajra's Guards | 0.30% | ~657 |
 | Sleuth It Out | 0.30% | ~657 |
@@ -137,7 +139,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Premature Betrayal | 0.30% | ~657 |
 | Hopelessly Lost | 0.30% | ~657 |
 | Enter the Sargauth | 0.30% | ~657 |
-| A Tale of Two Cities | 0.30% | ~657 |
 | The Dead Three | 0.30% | ~657 |
 | Flying Monkey Skulls of Doom | 0.30% | ~657 |
 | Lair of the Xanathar | 0.30% | ~657 |
@@ -189,7 +190,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Struggling Toward Omu | 0.20% | ~438 |
 | Not Very Charming | 0.20% | ~438 |
 | Periodic Petrification | 0.20% | ~438 |
-| Home Field Advantage | 0.20% | ~438 |
 | Double Vision | 0.20% | ~438 |
 | Haunted Fortunes | 0.20% | ~438 |
 | Poor Fortune | 0.20% | ~438 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~185 |
 | Quick or Quack | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,057 (Ranked 53)  
+Progressed: 219,070 (Ranked 53)  
 Completed: 2,153 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,6 +627,7 @@ Completed: 2,153 (0.98%) (Ranked 113)
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
+| 2023-08-06 | 219,070 | 2,153 |
 ## Awards
 Max (Diverse Characters): 5,119  (Ranked 67)  
 Sum: 30,910 (Ranked 38)  
