@@ -6,28 +6,28 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~66,909 |
-| Into the Unknown | 10.00% | ~60,826 |
-| First Shot | 10.00% | ~60,826 |
-| Herzlich Wilkommen! | 9.00% | ~54,744 |
-| Good Night & Good Luck | 9.00% | ~54,744 |
-| Sancho Panza | 8.00% | ~48,661 |
-| Oh, So This Is How It Works! | 8.00% | ~48,661 |
-| Under Pressure | 7.00% | ~42,578 |
-| On the Trail of the Enemy | 7.00% | ~42,578 |
-| Flag Burning | 7.00% | ~42,578 |
-| Night Hunter | 7.00% | ~42,578 |
-| Light in the Darkness | 6.00% | ~36,496 |
-| Get Outta My House! | 6.00% | ~36,496 |
-| It Wasn't That Hard, Was It? | 6.00% | ~36,496 |
-| Being All Social | 6.00% | ~36,496 |
-| Debris and Ashes | 5.00% | ~30,413 |
-| We Will Be Heard! | 5.00% | ~30,413 |
-| Known Associate | 5.00% | ~30,413 |
-| Brush with Death | 5.00% | ~30,413 |
-| Tunnel Entrance | 5.00% | ~30,413 |
-| After the Fall | 5.00% | ~30,413 |
-| Can't Touch This! | 5.00% | ~30,413 |
+| You Never Forget Your First... | 11.00% | ~66,911 |
+| Into the Unknown | 10.00% | ~60,828 |
+| First Shot | 10.00% | ~60,828 |
+| Herzlich Wilkommen! | 9.00% | ~54,745 |
+| Good Night & Good Luck | 9.00% | ~54,745 |
+| Sancho Panza | 8.00% | ~48,663 |
+| Oh, So This Is How It Works! | 8.00% | ~48,663 |
+| Under Pressure | 7.00% | ~42,580 |
+| On the Trail of the Enemy | 7.00% | ~42,580 |
+| Flag Burning | 7.00% | ~42,580 |
+| Night Hunter | 7.00% | ~42,580 |
+| Light in the Darkness | 6.00% | ~36,497 |
+| Get Outta My House! | 6.00% | ~36,497 |
+| It Wasn't That Hard, Was It? | 6.00% | ~36,497 |
+| Being All Social | 6.00% | ~36,497 |
+| Debris and Ashes | 5.00% | ~30,414 |
+| We Will Be Heard! | 5.00% | ~30,414 |
+| Known Associate | 5.00% | ~30,414 |
+| Brush with Death | 5.00% | ~30,414 |
+| Tunnel Entrance | 5.00% | ~30,414 |
+| After the Fall | 5.00% | ~30,414 |
+| Can't Touch This! | 5.00% | ~30,414 |
 | Going Down | 4.00% | ~24,331 |
 | Family First | 4.00% | ~24,331 |
 | Your World, Your Rules | 4.00% | ~24,331 |
@@ -37,10 +37,10 @@ Number of Ratings: 7,305  (23.09.2022)
 | Tickets, Please! | 3.00% | ~18,248 |
 | Combat Master | 3.00% | ~18,248 |
 | You're Going Down! | 3.00% | ~18,248 |
-| Municipal Services | 2.00% | ~12,165 |
-| Ban Hammer | 2.00% | ~12,165 |
-| Parkour Master | 2.00% | ~12,165 |
-| Modder | 2.00% | ~12,165 |
+| Municipal Services | 2.00% | ~12,166 |
+| Ban Hammer | 2.00% | ~12,166 |
+| Parkour Master | 2.00% | ~12,166 |
+| Modder | 2.00% | ~12,166 |
 | Tube Map | 1.00% | ~6,083 |
 | Don Quixote | 1.00% | ~6,083 |
 | Can't You Read the Signs? | 1.00% | ~6,083 |
@@ -49,10 +49,10 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ironheart | 1.00% | ~6,083 |
 | Nemesis | 1.00% | ~2,537 |
 | Enter the Hall | 1.00% | ~2,537 |
-| Find Anything Interesting? | 0.90% | ~5,474 |
-| Boot Licker | 0.90% | ~5,474 |
-| Who Wants To Be a... | 0.90% | ~5,474 |
-| Night of Terrors | 0.90% | ~2,283 |
+| Find Anything Interesting? | 0.90% | ~5,475 |
+| Boot Licker | 0.90% | ~5,475 |
+| Who Wants To Be a... | 0.90% | ~5,475 |
+| Night of Terrors | 0.90% | ~2,284 |
 | Revenants | 0.70% | ~4,258 |
 | Get the Point? | 0.70% | ~4,258 |
 | My Friend, Ciro | 0.70% | ~1,776 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~254 |
 | Connoisseur | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 608,264 (Ranked 27)  
+Progressed: 608,282 (Ranked 27)  
 Completed: 61 (0.01%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 61 (0.01%) (Ranked 236)
 | 2023-08-03 | 607,225 | 61 |
 | 2023-08-04 | 607,698 | 61 |
 | 2023-08-05 | 608,208 | 61 |
-| 2023-08-06 | 608,264 | 61 |
+| 2023-08-06 | 608,282 | 61 |
 ## Awards
 Max (Character Customization): 8,698  (Ranked 39)  
 Sum: 20,803 (Ranked 54)  

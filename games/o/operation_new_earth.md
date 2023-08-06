@@ -37,8 +37,8 @@
 | Seek & Destroy | 1.00% | ~8 |
 | Titan Tanks | 1.00% | ~8 |
 | Shock Troops | 1.00% | ~8 |
+| Advanced Interceptors | 0.80% | ~6 |
 | Jet Troops | 0.80% | ~6 |
-| Advanced Interceptors | 0.60% | ~5 |
 | Gold Competitor | 0.00% | ~0 |
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |

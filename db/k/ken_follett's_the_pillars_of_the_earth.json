@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14366,
+  "EOS_Progressed": 14367,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -7525,6 +7525,11 @@
       "Time": "2023-08-06T01:50:29.4510153+00:00",
       "NumProgressed": 14366,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-06T04:03:50.6990985+00:00",
+      "NumProgressed": 14367,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 41,
@@ -7576,7 +7581,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4884
+      "UsersEstimate": 4885
     },
     {
       "ID": "tpote_achievement_15",
@@ -7624,7 +7629,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4884
+      "UsersEstimate": 4885
     },
     {
       "ID": "tpote_achievement_20",
@@ -7863,15 +7868,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14366,
+      "Progressed": 14367,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-06T03:03:43.9685281+00:00",
+  "LastChanged_Achievements": "2023-08-06T04:03:50.6990979+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:55.7503888+00:00",
-  "LastUpdate_Ratings": "2023-08-06T03:00:21.021833+00:00",
-  "LastUpdate_Achievements": "2023-08-06T03:03:43.9686025+00:00"
+  "LastUpdate_Ratings": "2023-08-06T04:00:42.4236105+00:00",
+  "LastUpdate_Achievements": "2023-08-06T04:03:50.6991567+00:00"
 }

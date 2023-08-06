@@ -6,17 +6,17 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~22,146 |
-| Landlord | 32.00% | ~18,649 |
-| Bannerlord | 22.00% | ~12,821 |
-| Horde breaker | 22.00% | ~12,821 |
-| Lawmaker | 22.00% | ~12,821 |
-| Trained | 22.00% | ~12,821 |
-| The king is pleased | 18.00% | ~10,490 |
-| King Solomon | 17.00% | ~9,907 |
+| Lawbringer | 38.00% | ~22,147 |
+| Landlord | 32.00% | ~18,650 |
+| Bannerlord | 22.00% | ~12,822 |
+| Horde breaker | 22.00% | ~12,822 |
+| Lawmaker | 22.00% | ~12,822 |
+| Trained | 22.00% | ~12,822 |
+| The king is pleased | 18.00% | ~10,491 |
+| King Solomon | 17.00% | ~9,908 |
 | Apple of my eye | 15.00% | ~8,742 |
 | I can do it | 15.00% | ~8,742 |
-| God of the Arena | 12.00% | ~6,993 |
+| God of the Arena | 12.00% | ~6,994 |
 | Against all odds | 11.00% | ~6,411 |
 | Swordbearer | 10.00% | ~5,828 |
 | This Is Our Land | 10.00% | ~5,828 |
@@ -24,7 +24,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Dynasty | 9.00% | ~5,245 |
 | I spit on your grave | 9.00% | ~5,245 |
 | What have the Romans ever done for us? | 9.00% | ~5,245 |
-| Butterlord | 8.00% | ~4,662 |
+| Butterlord | 8.00% | ~4,663 |
 | Mastery | 7.00% | ~4,080 |
 | Know your enemy | 6.00% | ~3,497 |
 | My way | 5.00% | ~2,914 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,279 (Ranked 86)  
+Progressed: 58,282 (Ranked 86)  
 Completed: 0 (0.00%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 249)
 | 2023-08-03 | 58,119 | 0 |
 | 2023-08-04 | 58,198 | 0 |
 | 2023-08-05 | 58,275 | 0 |
-| 2023-08-06 | 58,279 | 0 |
+| 2023-08-06 | 58,282 | 0 |
 ## Awards
 Max (Character Customization): 6,899  (Ranked 48)  
 Sum: 13,980 (Ranked 66)  

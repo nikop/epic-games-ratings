@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
     "PcReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -603,9 +603,9 @@
       "ID": "33",
       "SetID": "39djiaj",
       "Name": "Spooky",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "34",
@@ -722,8 +722,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-08-06T03:03:54.6550865+00:00",
+  "LastChanged_Achievements": "2023-08-06T04:04:11.7164035+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:13.6749683+00:00",
-  "LastUpdate_Ratings": "2023-08-06T02:59:44.1468524+00:00",
-  "LastUpdate_Achievements": "2023-08-06T03:03:54.6551199+00:00"
+  "LastUpdate_Ratings": "2023-08-06T04:00:02.5627037+00:00",
+  "LastUpdate_Achievements": "2023-08-06T04:04:11.7164312+00:00"
 }

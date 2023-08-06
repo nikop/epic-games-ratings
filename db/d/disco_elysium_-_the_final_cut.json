@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1241,9 +1241,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 125666,
+  "EOS_Progressed": 125668,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 933,
+  "EOS_NewPlayers": 929,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11831,6 +11831,11 @@
       "Time": "2023-08-06T03:03:41.5155416+00:00",
       "NumProgressed": 125666,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-06T04:03:48.1584025+00:00",
+      "NumProgressed": 125668,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -11922,7 +11927,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35186
+      "UsersEstimate": 35187
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -11954,7 +11959,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25133
+      "UsersEstimate": 25134
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -12058,7 +12063,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17593
+      "UsersEstimate": 17594
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -12161,15 +12166,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 125666,
+      "Progressed": 125668,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-04T01:55:33.6301654+00:00",
-  "LastChanged_Achievements": "2023-08-06T03:03:41.515541+00:00",
+  "LastChanged_Achievements": "2023-08-06T04:03:48.1584019+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:08.5525123+00:00",
-  "LastUpdate_Ratings": "2023-08-06T02:59:37.9246632+00:00",
-  "LastUpdate_Achievements": "2023-08-06T03:03:41.5156367+00:00"
+  "LastUpdate_Ratings": "2023-08-06T03:59:57.7867211+00:00",
+  "LastUpdate_Achievements": "2023-08-06T04:03:48.1584749+00:00"
 }

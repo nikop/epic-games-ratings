@@ -115,6 +115,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.30% | ~40 |
 | Ishtar Gate in Babylon | 0.30% | ~40 |
 | Capable | 0.30% | ~40 |
+| Old | 0.30% | ~40 |
 | Ready | 0.30% | ~40 |
 | Clerics | 0.30% | ~40 |
 | Hunters | 0.30% | ~40 |
@@ -134,7 +135,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
 | Carthage - Ox Hide | 0.20% | ~27 |
-| Old | 0.20% | ~27 |
 | Peacemaker | 0.20% | ~27 |
 | Glorious Difficulty | 0.20% | ~27 |
 | Noble Difficulty | 0.20% | ~27 |

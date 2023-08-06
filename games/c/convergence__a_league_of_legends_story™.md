@@ -36,12 +36,12 @@ Rating: 4.60 (Ranked 390)
 | Good Neighbor | 11.00% | ~91 |
 | Chaincrawler Explorer | 10.00% | ~82 |
 | Family Memories | 9.00% | ~74 |
+| Fairgrounds Explorer | 9.00% | ~74 |
 | Sump Explorer | 9.00% | ~74 |
 | Syron for Hope | 9.00% | ~74 |
 | Theater Explorer | 9.00% | ~74 |
 | Ask Questions Later | 9.00% | ~74 |
 | Factorywood Explorer | 8.00% | ~66 |
-| Fairgrounds Explorer | 8.00% | ~66 |
 | Corin Goes Home | 7.00% | ~58 |
 | Sartorialist | 7.00% | ~58 |
 | Cultivair Explorer | 7.00% | ~58 |

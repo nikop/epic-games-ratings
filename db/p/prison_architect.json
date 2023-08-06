@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -4494,9 +4494,9 @@
       "Count": 285
     }
   ],
-  "EOS_Progressed": 160691,
+  "EOS_Progressed": 160701,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3475,
+  "EOS_NewPlayers": 3469,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16199,6 +16199,11 @@
       "Time": "2023-08-06T03:02:09.1404693+00:00",
       "NumProgressed": 160691,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-06T04:02:15.1237812+00:00",
+      "NumProgressed": 160701,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 16,
@@ -16218,7 +16223,7 @@
       "Name": "Crowd Control",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "Achievement_10",
@@ -16242,7 +16247,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 25711
+      "UsersEstimate": 25712
     },
     {
       "ID": "Achievement_13",
@@ -16290,7 +16295,7 @@
       "Name": "Stone Walls",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 41780
+      "UsersEstimate": 41782
     },
     {
       "ID": "Achievement_5",
@@ -16322,7 +16327,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 14462
+      "UsersEstimate": 14463
     },
     {
       "ID": "Achievement_9",
@@ -16337,15 +16342,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 160691,
+      "Progressed": 160701,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-08-05T23:00:05.8577507+00:00",
-  "LastChanged_Achievements": "2023-08-06T03:02:09.1404688+00:00",
+  "LastChanged_Achievements": "2023-08-06T04:02:15.1237803+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:33.6897336+00:00",
-  "LastUpdate_Ratings": "2023-08-06T02:59:11.0701246+00:00",
-  "LastUpdate_Achievements": "2023-08-06T03:02:09.1405515+00:00"
+  "LastUpdate_Ratings": "2023-08-06T03:59:29.1127729+00:00",
+  "LastUpdate_Achievements": "2023-08-06T04:02:15.1238452+00:00"
 }

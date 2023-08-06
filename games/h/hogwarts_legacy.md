@@ -8,16 +8,16 @@ Rating: 4.77 (Ranked 108)
 | The Sort Who Makes an Entrance | 12.00% | ~34,737 |
 | First Class Student | 11.00% | ~31,842 |
 | Troll with the Punches | 11.00% | ~31,842 |
-| A Keen Sense of Spell | 10.00% | ~28,947 |
-| That's a Keeper | 10.00% | ~28,947 |
-| Grappling with a Graphorn | 9.00% | ~26,052 |
-| The One Who Mastered Memories | 9.00% | ~26,052 |
-| The Hallowed Hero | 9.00% | ~26,052 |
-| The Hero of Hogwarts | 9.00% | ~26,052 |
-| The Defender of Dragons | 9.00% | ~26,052 |
-| Loom for Improvement | 9.00% | ~26,052 |
-| A Talent for Spending | 9.00% | ~26,052 |
-| Coasting Along | 9.00% | ~26,052 |
+| A Keen Sense of Spell | 10.00% | ~28,948 |
+| That's a Keeper | 10.00% | ~28,948 |
+| Grappling with a Graphorn | 9.00% | ~26,053 |
+| The One Who Mastered Memories | 9.00% | ~26,053 |
+| The Hallowed Hero | 9.00% | ~26,053 |
+| The Hero of Hogwarts | 9.00% | ~26,053 |
+| The Defender of Dragons | 9.00% | ~26,053 |
+| Loom for Improvement | 9.00% | ~26,053 |
+| A Talent for Spending | 9.00% | ~26,053 |
+| Coasting Along | 9.00% | ~26,053 |
 | Challenge Accepted | 8.00% | ~23,158 |
 | Followed the Butterflies | 8.00% | ~23,158 |
 | Rising From the Ashes | 8.00% | ~23,158 |
@@ -25,7 +25,7 @@ Rating: 4.77 (Ranked 108)
 | A Sallow Grave | 7.00% | ~20,263 |
 | Flight the Good Flight | 7.00% | ~20,263 |
 | The Spell Master | 7.00% | ~20,263 |
-| Beast Friends | 6.00% | ~17,368 |
+| Beast Friends | 6.00% | ~17,369 |
 | The Seeker of Knowledge | 5.00% | ~14,474 |
 | The Root of the Problem | 5.00% | ~14,474 |
 | Third Time's a Charm | 5.00% | ~14,474 |
@@ -38,10 +38,10 @@ Rating: 4.77 (Ranked 108)
 | Floo Around the World | 3.00% | ~8,684 |
 | The Intrepid Explorer | 3.00% | ~8,684 |
 | The Wise Owl | 3.00% | ~8,684 |
-| The Good Samaritan | 2.00% | ~5,789 |
-| Put Down Roots | 2.00% | ~5,789 |
-| The Auror's Apprentice | 2.00% | ~5,789 |
-| Rise to the Challenges | 2.00% | ~5,789 |
+| The Good Samaritan | 2.00% | ~5,790 |
+| Put Down Roots | 2.00% | ~5,790 |
+| The Auror's Apprentice | 2.00% | ~5,790 |
+| Rise to the Challenges | 2.00% | ~5,790 |
 | Savvy Spender | 1.00% | ~2,895 |
 | Demiguise Dread | 1.00% | ~2,895 |
 | Finishing Touches | 1.00% | ~2,895 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,737 |
 | Collector's Edition | 0.30% | ~868 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,472 (Ranked 42)  
+Progressed: 289,476 (Ranked 42)  
 Completed: 442 (0.15%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,10 +159,10 @@ Completed: 442 (0.15%) (Ranked 185)
 | 2023-08-03 | 289,287 | 438 |
 | 2023-08-04 | 289,362 | 439 |
 | 2023-08-05 | 289,460 | 442 |
-| 2023-08-06 | 289,472 | 442 |
+| 2023-08-06 | 289,476 | 442 |
 ## Awards
 Max (Character Customization): 21,534  (Ranked 17)  
-Sum: 40,512 (Ranked 30)  
+Sum: 40,516 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -171,12 +171,12 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 955 |
 | This game is Extremely Fun | 933 |
 | This game is Relaxing | 930 |
-| This game has Amazing Storytelling | 916 |
+| This game has Amazing Storytelling | 918 |
 | This game has Diverse Characters | 915 |
 | This game has Amazing Characters | 895 |
 | This game is Highly Recommended | 866 |
 | This game has Quickly Understood Controls | 829 |
-| This game has Beautiful Visuals | 769 |
+| This game has Beautiful Visuals | 771 |
 | This game has a Creative Community | 576 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -316,3 +316,4 @@ Diff (max vs sum): -13
 | 2023-08-03 | 4.77 | 21,493 | 40,418 |
 | 2023-08-04 | 4.77 | 21,511 | 40,460 |
 | 2023-08-05 | 4.77 | 21,534 | 40,512 |
+| 2023-08-06 | 4.77 | 21,534 | 40,516 |

@@ -17,7 +17,7 @@
 | True Story! | 45.00% | ~37 |
 | Bedroom Secret Spot | 37.00% | ~31 |
 | Kick It | 31.00% | ~26 |
-| Spooky | 29.00% | ~24 |
+| Spooky | 30.00% | ~25 |
 | Grand Slam! | 25.00% | ~21 |
 | Classroom Secret Spot | 24.00% | ~20 |
 | Save some water for the fishies | 23.00% | ~19 |

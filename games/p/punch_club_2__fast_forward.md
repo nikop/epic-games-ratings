@@ -33,11 +33,11 @@
 | Handyman | 54.00% | ~123 |
 | Employee of the year | 54.00% | ~123 |
 | Fight for life | 53.00% | ~120 |
-| Legal courier | 50.00% | ~114 |
+| Legal courier | 51.00% | ~116 |
 | Extreme neuropower! | 50.00% | ~114 |
 | Escaped from a big trouble | 47.00% | ~107 |
 | Now you are worthy | 45.00% | ~102 |
-| No blades in the gym | 43.00% | ~98 |
+| No blades in the gym | 44.00% | ~100 |
 | Guiding on the right path | 43.00% | ~98 |
 | Your own way | 42.00% | ~95 |
 | Fight is life | 41.00% | ~93 |
