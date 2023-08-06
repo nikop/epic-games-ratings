@@ -18,15 +18,15 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game I | 7.00% | ~297 |
 | Time for some trade | 7.00% | ~297 |
 | Bread for the people I | 6.00% | ~255 |
+| I like to build stuff... II | 6.00% | ~255 |
 | Completionist I | 6.00% | ~255 |
 | Full-time job I | 6.00% | ~255 |
+| Knee deep in snow | 6.00% | ~255 |
 | Not a small trader anymore | 5.00% | ~212 |
-| I like to build stuff... II | 5.00% | ~212 |
 | Full-time job II | 5.00% | ~212 |
 | Tax-man III | 5.00% | ~212 |
 | A time consuming game II | 5.00% | ~212 |
 | Tools of the trade I | 5.00% | ~212 |
-| Knee deep in snow | 5.00% | ~212 |
 | Bread for the people II | 4.00% | ~170 |
 | I like to build stuff... III | 4.00% | ~170 |
 | The King's new clothes I | 4.00% | ~170 |

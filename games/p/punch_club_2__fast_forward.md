@@ -27,8 +27,8 @@
 | Little hacker | 58.00% | ~133 |
 | Intriguing candies | 58.00% | ~133 |
 | Workout professional | 56.00% | ~128 |
+| It's good to be alive | 56.00% | ~128 |
 | Champion – starter pack | 55.00% | ~126 |
-| It's good to be alive | 55.00% | ~126 |
 | Own four walls | 55.00% | ~126 |
 | Handyman | 54.00% | ~124 |
 | Employee of the year | 54.00% | ~124 |
@@ -37,7 +37,7 @@
 | Extreme neuropower! | 50.00% | ~114 |
 | Escaped from a big trouble | 48.00% | ~110 |
 | Now you are worthy | 45.00% | ~103 |
-| No blades in the gym | 43.00% | ~98 |
+| No blades in the gym | 44.00% | ~101 |
 | Guiding on the right path | 43.00% | ~98 |
 | Fight is life | 42.00% | ~96 |
 | Mysterious voice | 41.00% | ~94 |

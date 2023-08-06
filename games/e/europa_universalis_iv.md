@@ -6,44 +6,44 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 8.00% | ~6,464 |
-| Until death do us apart | 8.00% | ~6,464 |
-| Victorious! | 8.00% | ~6,464 |
-| That is mine! | 7.00% | ~5,656 |
-| Brothers in Arms | 6.00% | ~4,848 |
-| That's a Grand Navy | 6.00% | ~4,848 |
-| Seriously?! | 6.00% | ~4,848 |
-| For the Glory | 5.00% | ~4,040 |
-| Cold War | 4.00% | ~3,232 |
-| True Catholic | 4.00% | ~3,232 |
-| Defender of the Faith | 3.00% | ~2,424 |
-| It's all about the money | 3.00% | ~2,424 |
-| Respected | 3.00% | ~2,424 |
-| The Princess is in this Castle | 3.00% | ~2,424 |
-| Truly Divine Ruler | 3.00% | ~2,424 |
-| Agressive Expander | 2.00% | ~1,616 |
-| Blockader | 2.00% | ~1,616 |
-| Combined Arms | 2.00% | ~1,616 |
-| Double the Love | 2.00% | ~1,616 |
-| It's all about luck | 2.00% | ~1,616 |
-| My armies are invincible! | 2.00% | ~1,616 |
-| Royal Authority | 2.00% | ~1,616 |
-| Total Control | 2.00% | ~1,616 |
-| All That's Thine Shall Be Mine | 1.00% | ~808 |
-| Azur semé de lis or | 1.00% | ~808 |
-| Bright Spark | 1.00% | ~808 |
-| City of Cities | 1.00% | ~808 |
-| The Emperors new clothes | 1.00% | ~808 |
-| Factionalism | 1.00% | ~808 |
-| Gentle Persuasion | 1.00% | ~808 |
-| A Golden Empire | 1.00% | ~808 |
-| Queen of Conquest | 1.00% | ~808 |
-| The Five Colonies | 1.00% | ~808 |
-| This navy can take it all | 1.00% | ~808 |
-| Isn't this the way to India? | 0.90% | ~727 |
-| Market Control | 0.90% | ~727 |
-| Trustworthy | 0.90% | ~727 |
-| Down Under | 0.80% | ~646 |
+| That's a Grand Army | 8.00% | ~6,469 |
+| Until death do us apart | 8.00% | ~6,469 |
+| Victorious! | 8.00% | ~6,469 |
+| That is mine! | 7.00% | ~5,661 |
+| Brothers in Arms | 6.00% | ~4,852 |
+| That's a Grand Navy | 6.00% | ~4,852 |
+| Seriously?! | 6.00% | ~4,852 |
+| For the Glory | 5.00% | ~4,043 |
+| Cold War | 4.00% | ~3,235 |
+| True Catholic | 4.00% | ~3,235 |
+| Defender of the Faith | 3.00% | ~2,426 |
+| It's all about the money | 3.00% | ~2,426 |
+| Respected | 3.00% | ~2,426 |
+| The Princess is in this Castle | 3.00% | ~2,426 |
+| Truly Divine Ruler | 3.00% | ~2,426 |
+| Agressive Expander | 2.00% | ~1,617 |
+| Blockader | 2.00% | ~1,617 |
+| Combined Arms | 2.00% | ~1,617 |
+| Double the Love | 2.00% | ~1,617 |
+| It's all about luck | 2.00% | ~1,617 |
+| My armies are invincible! | 2.00% | ~1,617 |
+| Royal Authority | 2.00% | ~1,617 |
+| Total Control | 2.00% | ~1,617 |
+| All That's Thine Shall Be Mine | 1.00% | ~809 |
+| Azur semé de lis or | 1.00% | ~809 |
+| Bright Spark | 1.00% | ~809 |
+| City of Cities | 1.00% | ~809 |
+| The Emperors new clothes | 1.00% | ~809 |
+| Factionalism | 1.00% | ~809 |
+| Gentle Persuasion | 1.00% | ~809 |
+| A Golden Empire | 1.00% | ~809 |
+| Queen of Conquest | 1.00% | ~809 |
+| The Five Colonies | 1.00% | ~809 |
+| This navy can take it all | 1.00% | ~809 |
+| Isn't this the way to India? | 0.90% | ~728 |
+| Market Control | 0.90% | ~728 |
+| Trustworthy | 0.90% | ~728 |
+| Down Under | 0.80% | ~647 |
 | Electable! | 0.70% | ~566 |
 | Populists in Government | 0.70% | ~566 |
 | All belongs to Mother Russia | 0.60% | ~485 |
@@ -72,21 +72,22 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Continuation of Diplomacy | 0.40% | ~323 |
 | Traditional Player | 0.40% | ~323 |
 | Wonderful | 0.40% | ~323 |
-| A Decent Reserve | 0.30% | ~242 |
-| A Pile of Gold | 0.30% | ~242 |
-| A Fine Goosestep | 0.30% | ~242 |
-| Grand Duchy | 0.30% | ~242 |
-| Multiculturalism | 0.30% | ~242 |
-| No Pirates in my Caribbean | 0.30% | ~242 |
-| Not so sad a state... | 0.30% | ~242 |
-| The Chrysanthemum Throne | 0.30% | ~242 |
-| Three Trivial Tributary Tribes | 0.30% | ~242 |
-| Vasa or Wettin? | 0.30% | ~242 |
-| World Discoverer | 0.30% | ~242 |
+| A Decent Reserve | 0.30% | ~243 |
+| A Pile of Gold | 0.30% | ~243 |
+| A Fine Goosestep | 0.30% | ~243 |
+| Grand Duchy | 0.30% | ~243 |
+| Multiculturalism | 0.30% | ~243 |
+| No Pirates in my Caribbean | 0.30% | ~243 |
+| Not so sad a state... | 0.30% | ~243 |
+| The Chrysanthemum Throne | 0.30% | ~243 |
+| Three Trivial Tributary Tribes | 0.30% | ~243 |
+| Vasa or Wettin? | 0.30% | ~243 |
+| World Discoverer | 0.30% | ~243 |
 | A Protected Market | 0.20% | ~162 |
 | AAA Credit | 0.20% | ~162 |
 | An early Reich | 0.20% | ~162 |
 | Basileus | 0.20% | ~162 |
+| Center of Attention | 0.20% | ~162 |
 | Fine Financials | 0.20% | ~162 |
 | Full House | 0.20% | ~162 |
 | Imperio español | 0.20% | ~162 |
@@ -138,7 +139,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brick by Brick | 0.10% | ~81 |
 | The Buddhists Strike Back | 0.10% | ~81 |
 | Carthago Delenda Est | 0.10% | ~81 |
-| Center of Attention | 0.10% | ~81 |
 | Cherrypicking | 0.10% | ~81 |
 | Chop Chop | 0.10% | ~81 |
 | Choson One | 0.10% | ~81 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,806 (Ranked 75)  
+Progressed: 80,866 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -469,10 +469,10 @@ Completed: 0 (0.00%) (Ranked 250)
 | 2023-08-03 | 78,060 | 0 |
 | 2023-08-04 | 79,131 | 0 |
 | 2023-08-05 | 80,125 | 0 |
-| 2023-08-06 | 80,806 | 0 |
+| 2023-08-06 | 80,866 | 0 |
 ## Awards
 Max (Educational): 5,624  (Ranked 63)  
-Sum: 46,407 (Ranked 26)  
+Sum: 46,414 (Ranked 26)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -484,7 +484,7 @@ Diff (max vs sum): 37
 | This game is Relaxing | 5,195 |
 | This game has Competitive Players | 5,060 |
 | This game has Amazing Storytelling | 4,759 |
-| This game has Amazing Characters | 4,400 |
+| This game has Amazing Characters | 4,407 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -690,4 +690,4 @@ Diff (max vs sum): 37
 | 2023-08-03 | 4.69 | - | 5,611 | 46,303 |
 | 2023-08-04 | 4.69 | - | 5,611 | 46,339 |
 | 2023-08-05 | 4.69 | - | 5,617 | 46,380 |
-| 2023-08-06 | 4.69 | - | 5,624 | 46,407 |
+| 2023-08-06 | 4.69 | - | 5,624 | 46,414 |

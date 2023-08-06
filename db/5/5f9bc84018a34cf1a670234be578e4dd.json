@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -538,9 +538,9 @@
       "ID": "FirstBox",
       "SetID": "7jbi7el",
       "Name": "Test Task",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Floppy",
@@ -554,9 +554,9 @@
       "ID": "Fusses",
       "SetID": "7jbi7el",
       "Name": "Beginner Electrician",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 70,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "GameComplete",
@@ -594,9 +594,9 @@
       "ID": "Screwdriver",
       "SetID": "7jbi7el",
       "Name": "Screwdriver",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 70,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "SecretRoom",
@@ -625,8 +625,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-06T16:05:06.4733561+00:00",
+  "LastChanged_Achievements": "2023-08-06T17:04:36.0820483+00:00",
   "LastUpdate_AppInfo": "2023-08-01T17:57:05.506677+00:00",
-  "LastUpdate_Ratings": "2023-08-06T15:57:35.7489326+00:00",
-  "LastUpdate_Achievements": "2023-08-06T16:05:06.473376+00:00"
+  "LastUpdate_Ratings": "2023-08-06T16:57:18.8646945+00:00",
+  "LastUpdate_Achievements": "2023-08-06T17:04:36.0820602+00:00"
 }

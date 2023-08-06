@@ -5,14 +5,14 @@ Rating: 4.29 (Ranked 789)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~6,574 |
-| A Good Day To Die | 15.00% | ~4,930 |
-| Right Back Atcha | 6.00% | ~1,972 |
-| Killed by Death | 5.00% | ~1,643 |
-| Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,643 |
+| Man 'O War | 20.00% | ~6,576 |
+| A Good Day To Die | 15.00% | ~4,932 |
+| Right Back Atcha | 6.00% | ~1,973 |
+| Killed by Death | 5.00% | ~1,644 |
+| Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,644 |
 | Kill 'Em All | 4.00% | ~1,315 |
-| Down Boy! | 2.00% | ~657 |
-| A Snowball's Chance in Hell | 2.00% | ~657 |
+| Down Boy! | 2.00% | ~658 |
+| A Snowball's Chance in Hell | 2.00% | ~658 |
 | Enjoy The Silence | 1.00% | ~329 |
 | Backdoor Man | 0.90% | ~296 |
 | Thorn in My Herbicide | 0.80% | ~263 |
@@ -24,10 +24,10 @@ Rating: 4.29 (Ranked 789)
 | Start As You Mean To Go On | 0.60% | ~197 |
 | Hail the Great Horned Metal God! | 0.60% | ~197 |
 | That'll Come In Handy... | 0.60% | ~197 |
-| Four Legged Friend | 0.40% | ~131 |
-| Oh God, Mother! Blood! Blood! | 0.40% | ~131 |
-| Ice To See You | 0.40% | ~131 |
-| Smack My Imp Up | 0.40% | ~131 |
+| Four Legged Friend | 0.40% | ~132 |
+| Oh God, Mother! Blood! Blood! | 0.40% | ~132 |
+| Ice To See You | 0.40% | ~132 |
+| Smack My Imp Up | 0.40% | ~132 |
 | Vroll With It | 0.30% | ~99 |
 | Swift of Foot, Keen of Blade | 0.30% | ~99 |
 | Flame Retardant | 0.20% | ~66 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 789)
 | Too Metal For Magic | 0.10% | ~33 |
 | Heart Of Steel | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,868 (Ranked 98)  
+Progressed: 32,878 (Ranked 98)  
 Completed: 21 (0.06%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 21 (0.06%) (Ranked 210)
 | 2023-08-03 | 32,494 | 20 |
 | 2023-08-04 | 32,634 | 20 |
 | 2023-08-05 | 32,785 | 20 |
-| 2023-08-06 | 32,868 | 21 |
+| 2023-08-06 | 32,878 | 21 |
 ## Awards
 Max (Great Boss Battles): 126  (Ranked 310)  
 Sum: 126 (Ranked 403)  

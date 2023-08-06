@@ -5,9 +5,9 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,742 |
-| First Class Student | 11.00% | ~31,847 |
-| Troll with the Punches | 11.00% | ~31,847 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,743 |
+| First Class Student | 11.00% | ~31,848 |
+| Troll with the Punches | 11.00% | ~31,848 |
 | A Keen Sense of Spell | 10.00% | ~28,952 |
 | That's a Keeper | 10.00% | ~28,952 |
 | Grappling with a Graphorn | 9.00% | ~26,057 |
@@ -18,13 +18,13 @@ Rating: 4.77 (Ranked 108)
 | Loom for Improvement | 9.00% | ~26,057 |
 | A Talent for Spending | 9.00% | ~26,057 |
 | Coasting Along | 9.00% | ~26,057 |
-| Challenge Accepted | 8.00% | ~23,161 |
-| Followed the Butterflies | 8.00% | ~23,161 |
-| Rising From the Ashes | 8.00% | ~23,161 |
-| The Avenging Gazelle | 7.00% | ~20,266 |
-| A Sallow Grave | 7.00% | ~20,266 |
-| Flight the Good Flight | 7.00% | ~20,266 |
-| The Spell Master | 7.00% | ~20,266 |
+| Challenge Accepted | 8.00% | ~23,162 |
+| Followed the Butterflies | 8.00% | ~23,162 |
+| Rising From the Ashes | 8.00% | ~23,162 |
+| The Avenging Gazelle | 7.00% | ~20,267 |
+| A Sallow Grave | 7.00% | ~20,267 |
+| Flight the Good Flight | 7.00% | ~20,267 |
+| The Spell Master | 7.00% | ~20,267 |
 | Beast Friends | 6.00% | ~17,371 |
 | The Seeker of Knowledge | 5.00% | ~14,476 |
 | The Root of the Problem | 5.00% | ~14,476 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,737 |
 | Collector's Edition | 0.30% | ~869 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,517 (Ranked 42)  
+Progressed: 289,524 (Ranked 42)  
 Completed: 442 (0.15%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,10 +159,10 @@ Completed: 442 (0.15%) (Ranked 187)
 | 2023-08-03 | 289,287 | 438 |
 | 2023-08-04 | 289,362 | 439 |
 | 2023-08-05 | 289,460 | 442 |
-| 2023-08-06 | 289,517 | 442 |
+| 2023-08-06 | 289,524 | 442 |
 ## Awards
 Max (Character Customization): 21,534  (Ranked 17)  
-Sum: 40,518 (Ranked 30)  
+Sum: 40,520 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -173,7 +173,7 @@ Diff (max vs sum): -13
 | This game is Relaxing | 930 |
 | This game has Amazing Storytelling | 918 |
 | This game has Diverse Characters | 917 |
-| This game has Amazing Characters | 895 |
+| This game has Amazing Characters | 897 |
 | This game is Highly Recommended | 866 |
 | This game has Quickly Understood Controls | 829 |
 | This game has Beautiful Visuals | 771 |
@@ -316,4 +316,4 @@ Diff (max vs sum): -13
 | 2023-08-03 | 4.77 | 21,493 | 40,418 |
 | 2023-08-04 | 4.77 | 21,511 | 40,460 |
 | 2023-08-05 | 4.77 | 21,534 | 40,512 |
-| 2023-08-06 | 4.77 | 21,534 | 40,518 |
+| 2023-08-06 | 4.77 | 21,534 | 40,520 |

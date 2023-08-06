@@ -4,8 +4,8 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -256,9 +256,9 @@
       "ID": "bromance",
       "SetID": "84ad177",
       "Name": "Bromance",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "comedy_killer",
@@ -384,9 +384,9 @@
       "ID": "used_to_think_i_was_indecisive",
       "SetID": "84ad177",
       "Name": "I used to think I was indecisive...",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
@@ -401,8 +401,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-08-06T16:04:40.59343+00:00",
+  "LastChanged_Achievements": "2023-08-06T17:04:14.2308271+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:57.1153994+00:00",
-  "LastUpdate_Ratings": "2023-08-06T16:01:21.3864884+00:00",
-  "LastUpdate_Achievements": "2023-08-06T16:04:40.5934542+00:00"
+  "LastUpdate_Ratings": "2023-08-06T17:00:30.9523976+00:00",
+  "LastUpdate_Achievements": "2023-08-06T17:04:14.2308381+00:00"
 }

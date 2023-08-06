@@ -5,10 +5,10 @@ Rating: 4.56 (Ranked 467)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 76.00% | ~496 |
+| Tell me your story | 76.00% | ~497 |
 | Don't judge a manhole by its cover | 60.00% | ~392 |
-| I just love stuff! | 42.00% | ~274 |
-| Keep 'em coming! | 42.00% | ~274 |
+| I just love stuff! | 42.00% | ~275 |
+| Keep 'em coming! | 42.00% | ~275 |
 | Big Spender | 39.00% | ~255 |
 | The things they print nowadays | 39.00% | ~255 |
 | That's gotta hurt | 36.00% | ~235 |
@@ -20,8 +20,8 @@ Rating: 4.56 (Ranked 467)
 | You are the One | 20.00% | ~131 |
 | Omnipotence | 19.00% | ~124 |
 | Deadly Kombationem | 18.00% | ~118 |
-| The truth is out there | 16.00% | ~104 |
-| Annakin Skyscroller | 14.00% | ~91 |
+| The truth is out there | 16.00% | ~105 |
+| Annakin Skyscroller | 14.00% | ~92 |
 | In the smacker...I think | 10.00% | ~65 |
 | Arm Wrestlin' | 9.00% | ~59 |
 | 1+1>2 | 9.00% | ~59 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 467)
 | Love me like I love my posters | 0.80% | ~5 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 653 (Ranked 214)  
+Progressed: 654 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,6 +95,7 @@ Completed: 0 (0.00%) (Ranked 250)
 | 2023-07-21 | 651 | 0 |
 | 2023-07-22 | 652 | 0 |
 | 2023-07-23 | 653 | 0 |
+| 2023-08-06 | 654 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

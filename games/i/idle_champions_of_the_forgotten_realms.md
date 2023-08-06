@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,773 |
-| Beast Intentions | 3.00% | ~6,579 |
-| Maddening | 2.00% | ~4,386 |
+| Beast Intentions | 3.00% | ~6,580 |
+| Maddening | 2.00% | ~4,387 |
 | The Silken Swamp | 1.00% | ~2,193 |
 | Supply Run | 1.00% | ~2,193 |
 | Vecna Lives! | 1.00% | ~1,856 |
@@ -37,6 +37,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.60% | ~1,114 |
 | Beast Mode | 0.60% | ~1,316 |
 | A Mysterious Summons | 0.60% | ~1,316 |
+| The Mists of Ravenloft | 0.60% | ~1,316 |
 | The Dinner Party | 0.60% | ~1,316 |
 | The Botched Kidnapping | 0.60% | ~1,316 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,114 |
@@ -47,7 +48,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.50% | ~1,097 |
 | March of the Undead | 0.50% | ~1,097 |
 | No Time To Rest | 0.50% | ~1,097 |
-| The Mists of Ravenloft | 0.50% | ~1,097 |
 | Invisible Shadows | 0.50% | ~1,097 |
 | Family Entanglements | 0.50% | ~1,097 |
 | The Ring of Regeneration | 0.50% | ~1,097 |
@@ -77,6 +77,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Forbidden City | 0.40% | ~877 |
 | Captured! | 0.40% | ~877 |
 | Wisdom Check | 0.40% | ~877 |
+| A Grand Puzzle | 0.40% | ~877 |
 | Tower on the Lake | 0.40% | ~877 |
 | Trollskull Manor | 0.40% | ~877 |
 | The Crumbling Temple | 0.40% | ~877 |
@@ -120,7 +121,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vajra's Guards | 0.30% | ~658 |
 | Sleuth It Out | 0.30% | ~658 |
 | The Newcomers of Notoriety | 0.30% | ~557 |
-| A Grand Puzzle | 0.30% | ~658 |
 | Azaka's Procession - Part 1 | 0.30% | ~658 |
 | Tomb of the Nine Gods | 0.30% | ~658 |
 | Azaka's Procession - Part 2 | 0.30% | ~658 |
@@ -173,6 +173,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Dragon Against Us | 0.20% | ~371 |
 | Sticky Fingers | 0.20% | ~371 |
 | Patron Party | 0.20% | ~371 |
+| Don't Breathe the Marsh Gas | 0.20% | ~371 |
 | The Spire of Iriolarthas | 0.20% | ~371 |
 | The Fall of Ythryn | 0.20% | ~371 |
 | A Lesson in Classes | 0.20% | ~371 |
@@ -256,7 +257,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Back to Nature | 0.10% | ~186 |
 | A Familiar Behind Us | 0.10% | ~186 |
 | Go Fourth | 0.10% | ~186 |
-| Don't Breathe the Marsh Gas | 0.10% | ~186 |
 | Don't Blast the Brigands | 0.10% | ~186 |
 | Don't Squeeze the Spiders | 0.10% | ~186 |
 | Always Watching | 0.10% | ~186 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,315 (Ranked 53)  
-Completed: 2,155 (0.98%) (Ranked 114)  
+Progressed: 219,329 (Ranked 53)  
+Completed: 2,156 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -627,7 +627,7 @@ Completed: 2,155 (0.98%) (Ranked 114)
 | 2023-08-03 | 218,391 | 2,148 |
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
-| 2023-08-06 | 219,315 | 2,155 |
+| 2023-08-06 | 219,329 | 2,156 |
 ## Awards
 Max (Diverse Characters): 5,119  (Ranked 67)  
 Sum: 30,919 (Ranked 38)  

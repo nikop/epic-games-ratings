@@ -6,24 +6,24 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 50.00% | ~2,624 |
+| Level: Returning Home | 50.00% | ~2,625 |
 | Returning Home: Quick Learner | 26.00% | ~1,365 |
 | Level: Charlie's Circuits | 22.00% | ~1,155 |
 | Level: Rising Markets | 9.00% | ~472 |
 | Peddler | 8.00% | ~420 |
-| Level: Extra Life | 7.00% | ~367 |
-| Rising Markets: Avoiding the Reds | 7.00% | ~367 |
-| Data Churn Type I | 7.00% | ~367 |
+| Level: Extra Life | 7.00% | ~368 |
+| Rising Markets: Avoiding the Reds | 7.00% | ~368 |
+| Data Churn Type I | 7.00% | ~368 |
 | Millionaire | 6.00% | ~315 |
 | Data Churn Type II | 5.00% | ~262 |
 | Speedy | 5.00% | ~262 |
 | Extra Life: Wish Granted | 4.00% | ~210 |
 | High Five! | 4.00% | ~210 |
 | Modular Progress | 4.00% | ~210 |
-| Campaign: Lesson Learned | 3.00% | ~157 |
-| Level: Bet On Bots | 3.00% | ~157 |
-| Modular Performance | 3.00% | ~157 |
-| Salesperson | 3.00% | ~157 |
+| Campaign: Lesson Learned | 3.00% | ~158 |
+| Level: Bet On Bots | 3.00% | ~158 |
+| Modular Performance | 3.00% | ~158 |
+| Salesperson | 3.00% | ~158 |
 | Level: Merry-Go-Around | 2.00% | ~105 |
 | Charlies's Circuits: Artist | 2.00% | ~105 |
 | Modular Peak | 2.00% | ~105 |
@@ -46,9 +46,9 @@ Number of Ratings: 75  (23.09.2022)
 | Bet On Bots: Safety First | 0.80% | ~42 |
 | Tycoon | 0.80% | ~42 |
 | Merry-Go-Around: Self-Made | 0.70% | ~37 |
-| Level: Eye In The Sky | 0.60% | ~31 |
-| Bet On Bots: Inspector's Favorite | 0.60% | ~31 |
-| Trendsetter | 0.60% | ~31 |
+| Level: Eye In The Sky | 0.60% | ~32 |
+| Bet On Bots: Inspector's Favorite | 0.60% | ~32 |
+| Trendsetter | 0.60% | ~32 |
 | Level: Heating-Up | 0.50% | ~26 |
 | CEO | 0.50% | ~26 |
 | Campaign: Man vs. Machine | 0.40% | ~21 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,249 (Ranked 136)  
+Progressed: 5,250 (Ranked 136)  
 Completed: 1 (0.02%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 1 (0.02%) (Ranked 230)
 | 2023-08-03 | 5,225 | 1 |
 | 2023-08-04 | 5,234 | 1 |
 | 2023-08-05 | 5,243 | 1 |
-| 2023-08-06 | 5,249 | 1 |
+| 2023-08-06 | 5,250 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -20,8 +20,8 @@
 | Better than the pros | 2.00% | ~16 |
 | In the bank | 1.00% | ~8 |
 | American Legend | 1.00% | ~8 |
+| Fan Boy | 1.00% | ~8 |
 | Dedicated tourist | 1.00% | ~8 |
-| Fan Boy | 0.90% | ~7 |
 | Well oiled Veteran | 0.30% | ~2 |
 | For Science! | 0.30% | ~2 |
 | Lightning fast | 0.10% | ~1 |

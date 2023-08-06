@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3374,9 +3374,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10832,
+  "EOS_Progressed": 10835,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10259,6 +10259,11 @@
       "Time": "2023-08-06T16:03:29.6518257+00:00",
       "NumProgressed": 10832,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-06T17:03:13.653055+00:00",
+      "NumProgressed": 10835,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10270,7 +10275,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2383
+      "UsersEstimate": 2384
     },
     {
       "ID": "02_BurningCity",
@@ -10406,7 +10411,7 @@
       "Name": "Mythic Choices",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "19_EqualToAroden",
@@ -10470,7 +10475,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "28_GreatUpstart",
@@ -10518,7 +10523,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -10590,7 +10595,7 @@
       "Name": "Just Pathetic",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "43_DreadfulDragon",
@@ -10606,7 +10611,7 @@
       "Name": "Ashes to Ashes",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "45_VoiceFromDreams",
@@ -10638,7 +10643,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "49_Flame",
@@ -11182,7 +11187,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -11190,28 +11195,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9614,
+      "Progressed": 9617,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10832,
+      "Progressed": 10835,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-06T08:59:08.1289723+00:00",
-  "LastChanged_Achievements": "2023-08-06T16:03:29.6518251+00:00",
+  "LastChanged_Achievements": "2023-08-06T17:03:13.6530543+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:18.5411463+00:00",
-  "LastUpdate_Ratings": "2023-08-06T15:59:36.5166356+00:00",
-  "LastUpdate_Achievements": "2023-08-06T16:03:29.652088+00:00"
+  "LastUpdate_Ratings": "2023-08-06T16:59:00.0501617+00:00",
+  "LastUpdate_Achievements": "2023-08-06T17:03:13.6532912+00:00"
 }

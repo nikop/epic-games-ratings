@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete 25 levels | 4.00% | ~2 |
+| Complete 25 levels | 6.00% | ~3 |
 | Switch off the light | 4.00% | ~2 |
 | Fast 6x6 | 2.00% | ~1 |
 | Complete 50 levels | 2.00% | ~1 |

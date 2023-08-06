@@ -6,9 +6,9 @@
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 225,
-  "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_Completed": 110,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 490,
+  "EOS_Progressed": 491,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -520,6 +520,11 @@
       "Time": "2023-08-06T04:02:15.3242822+00:00",
       "NumProgressed": 490,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-06T17:02:20.6474038+00:00",
+      "NumProgressed": 491,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -579,7 +584,7 @@
       "Name": "Between the Covers",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Gamer",
@@ -651,7 +656,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "Leisurely_Strol",
@@ -675,7 +680,7 @@
       "Name": "Antisocial Club",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Missing_Shot",
@@ -707,7 +712,7 @@
       "Name": "A Familiar Face",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Paparazzi",
@@ -762,7 +767,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 490,
+      "Progressed": 491,
       "Completed": 5
     }
   ],
@@ -770,8 +775,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-08-06T16:02:21.2921916+00:00",
+  "LastChanged_Achievements": "2023-08-06T17:02:20.6474034+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:31.8779873+00:00",
-  "LastUpdate_Ratings": "2023-08-06T15:57:34.9489299+00:00",
-  "LastUpdate_Achievements": "2023-08-06T16:02:21.2922284+00:00"
+  "LastUpdate_Ratings": "2023-08-06T16:57:16.9010918+00:00",
+  "LastUpdate_Achievements": "2023-08-06T17:02:20.6474226+00:00"
 }

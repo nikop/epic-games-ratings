@@ -21,7 +21,7 @@ Rating: 4.87 (Ranked 24)
 | Uh, they were broken when I got here | 4.00% | ~151 |
 | Kissing the sky! | 4.00% | ~151 |
 | Does that say weakpoint? | 4.00% | ~151 |
-| NOW we got a kickass hideout! | 4.00% | ~91 |
+| NOW we got a kickass hideout! | 4.00% | ~92 |
 | The Negotiator | 3.00% | ~113 |
 | Headliner | 3.00% | ~113 |
 | Time to pay up! | 3.00% | ~113 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,766 (Ranked 147)  
+Progressed: 3,767 (Ranked 147)  
 Completed: 6 (0.16%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 6 (0.16%) (Ranked 182)
 | 2023-08-03 | 3,705 | 6 |
 | 2023-08-04 | 3,731 | 6 |
 | 2023-08-05 | 3,750 | 6 |
-| 2023-08-06 | 3,766 | 6 |
+| 2023-08-06 | 3,767 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

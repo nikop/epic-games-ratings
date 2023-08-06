@@ -57,6 +57,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.80% | ~106 |
 | Manichaeism | 0.80% | ~106 |
 | Regicide | 0.70% | ~93 |
+| Drillmaster | 0.70% | ~93 |
 | Legendary Cities | 0.70% | ~93 |
 | Just Difficulty | 0.70% | ~93 |
 | Furious Family | 0.70% | ~93 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 0.70% | ~93 |
 | Learn to Play 2 | 0.70% | ~93 |
 | Egyptian Paganism | 0.70% | ~93 |
-| Drillmaster | 0.60% | ~80 |
 | Intercessor | 0.60% | ~80 |
 | Valiant | 0.60% | ~80 |
 | Champions | 0.60% | ~80 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,296 (Ranked 117)  
+Progressed: 13,297 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,7 +411,7 @@ Completed: 5 (0.04%) (Ranked 221)
 | 2023-08-03 | 13,260 | 5 |
 | 2023-08-04 | 13,269 | 5 |
 | 2023-08-05 | 13,281 | 5 |
-| 2023-08-06 | 13,296 | 5 |
+| 2023-08-06 | 13,297 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,786 (Ranked 206)  

@@ -6,17 +6,17 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,344 |
-| Let There Be Light | 30.00% | ~18,117 |
-| Float Like a Butterfly | 28.00% | ~16,909 |
-| Nordic Walking | 23.00% | ~13,889 |
-| Bright Falls' Finest | 22.00% | ~13,286 |
-| Under a Thin Layer of Skin | 19.00% | ~11,474 |
-| Park Ranger | 16.00% | ~9,662 |
-| Paging Mr. Wake | 16.00% | ~9,662 |
-| Back! Back, I Say! | 15.00% | ~9,058 |
-| Finders Keepers | 15.00% | ~9,058 |
-| Damn Good Cup of Coffee | 14.00% | ~8,454 |
+| Follow the Light | 37.00% | ~22,346 |
+| Let There Be Light | 30.00% | ~18,118 |
+| Float Like a Butterfly | 28.00% | ~16,910 |
+| Nordic Walking | 23.00% | ~13,891 |
+| Bright Falls' Finest | 22.00% | ~13,287 |
+| Under a Thin Layer of Skin | 19.00% | ~11,475 |
+| Park Ranger | 16.00% | ~9,663 |
+| Paging Mr. Wake | 16.00% | ~9,663 |
+| Back! Back, I Say! | 15.00% | ~9,059 |
+| Finders Keepers | 15.00% | ~9,059 |
+| Damn Good Cup of Coffee | 14.00% | ~8,455 |
 | Wheels Within Wheels | 13.00% | ~7,851 |
 | They're Heeeeeere! | 13.00% | ~7,851 |
 | Sound and Fury | 13.00% | ~7,851 |
@@ -33,15 +33,15 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 10.00% | ~6,039 |
 | The Lady of the Light | 9.00% | ~5,435 |
 | Energized! | 9.00% | ~5,435 |
-| What Light Through Yonder Window | 8.00% | ~4,831 |
-| Right of Way | 8.00% | ~4,831 |
+| What Light Through Yonder Window | 8.00% | ~4,832 |
+| Right of Way | 8.00% | ~4,832 |
 | A Friend in Need | 8.00% | ~1,909 |
-| Tornado Wrangler | 7.00% | ~4,227 |
-| Departure | 7.00% | ~4,227 |
-| A Friend Indeed | 6.00% | ~1,431 |
-| Children of the Elder God | 5.00% | ~3,019 |
-| Drink 'Em Both Up | 5.00% | ~3,019 |
-| Hardboiled Writer | 5.00% | ~3,019 |
+| Tornado Wrangler | 7.00% | ~4,228 |
+| Departure | 7.00% | ~4,228 |
+| A Friend Indeed | 6.00% | ~1,432 |
+| Children of the Elder God | 5.00% | ~3,020 |
+| Drink 'Em Both Up | 5.00% | ~3,020 |
+| Hardboiled Writer | 5.00% | ~3,020 |
 | Ding! | 5.00% | ~1,193 |
 | Boob Tube | 4.00% | ~2,416 |
 | If It Flies, It Burns | 4.00% | ~2,416 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~60 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,389 (Ranked 84)  
+Progressed: 60,394 (Ranked 84)  
 Completed: 64 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 64 (0.11%) (Ranked 195)
 | 2023-08-03 | 60,143 | 63 |
 | 2023-08-04 | 60,237 | 64 |
 | 2023-08-05 | 60,337 | 64 |
-| 2023-08-06 | 60,389 | 64 |
+| 2023-08-06 | 60,394 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

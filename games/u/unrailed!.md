@@ -6,24 +6,24 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 16.00% | ~100,832 |
-| Incurious | 16.00% | ~100,832 |
-| Stroller | 14.00% | ~88,228 |
-| Climate Change | 14.00% | ~88,228 |
-| Advanced Hiker | 12.00% | ~75,624 |
-| Toy Train | 12.00% | ~75,624 |
-| Hiker | 11.00% | ~69,322 |
-| Mojave Courier | 5.00% | ~31,510 |
-| Saved by Nausicaä | 4.00% | ~25,208 |
-| Voyager | 3.00% | ~18,906 |
-| Advanced Voyager | 3.00% | ~18,906 |
-| Expert Stroller | 3.00% | ~18,906 |
-| Orient Express | 3.00% | ~18,906 |
-| Expert Hiker | 2.00% | ~12,604 |
-| Marathon | 2.00% | ~12,604 |
-| Destructionist | 2.00% | ~12,604 |
+| Advanced Stroller | 16.00% | ~100,839 |
+| Incurious | 16.00% | ~100,839 |
+| Stroller | 14.00% | ~88,234 |
+| Climate Change | 14.00% | ~88,234 |
+| Advanced Hiker | 12.00% | ~75,629 |
+| Toy Train | 12.00% | ~75,629 |
+| Hiker | 11.00% | ~69,327 |
+| Mojave Courier | 5.00% | ~31,512 |
+| Saved by Nausicaä | 4.00% | ~25,210 |
+| Voyager | 3.00% | ~18,907 |
+| Advanced Voyager | 3.00% | ~18,907 |
+| Expert Stroller | 3.00% | ~18,907 |
+| Orient Express | 3.00% | ~18,907 |
+| Expert Hiker | 2.00% | ~12,605 |
+| Marathon | 2.00% | ~12,605 |
+| Destructionist | 2.00% | ~12,605 |
 | Lost | 1.00% | ~6,302 |
-| Rocketman | 0.70% | ~4,411 |
+| Rocketman | 0.70% | ~4,412 |
 | Expert Voyager | 0.60% | ~3,781 |
 | Shopaholic | 0.60% | ~3,781 |
 | Nanuk | 0.50% | ~3,151 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~630 |
 | 20 Miles under the Sea | 0.10% | ~630 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 630,201 (Ranked 25)  
+Progressed: 630,243 (Ranked 25)  
 Completed: 7 (0.00%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 7 (0.00%) (Ranked 250)
 | 2023-08-03 | 628,787 | 7 |
 | 2023-08-04 | 629,307 | 7 |
 | 2023-08-05 | 629,843 | 7 |
-| 2023-08-06 | 630,201 | 7 |
+| 2023-08-06 | 630,243 | 7 |
 ## Awards
 Max (Diverse Characters): 190  (Ranked 276)  
 Sum: 1,546 (Ranked 215)  
