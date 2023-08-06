@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.83% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.81% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 33.33% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
@@ -116,7 +116,7 @@
 | 113 | [Sable](games/s/sable.md) | 0.98% |
 | 115 | [Hades](games/h/hades.md) | 0.90% |
 | 116 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 117 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
+| 117 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 118 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
 | 119 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.77% |
 | 120 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
