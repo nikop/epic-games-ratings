@@ -21,11 +21,11 @@ Rating: 4.50 (Ranked 561)
 | Catch Jonathan_tostar | 26.00% | ~110 |
 | Rookie | 26.00% | ~110 |
 | Assemble a Meganewbie | 24.00% | ~102 |
-| Frugal | 21.00% | ~89 |
+| Frugal | 22.00% | ~93 |
 | Feed a God | 21.00% | ~89 |
 | To the Moon and Back | 20.00% | ~85 |
 | Great Flight | 18.00% | ~76 |
-| Holy Vengeance | 15.00% | ~63 |
+| Holy Vengeance | 16.00% | ~68 |
 | Honorary Cultist | 12.00% | ~51 |
 | Brain and Brawn | 11.00% | ~47 |
 | Strength and Sorcery | 10.00% | ~42 |

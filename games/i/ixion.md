@@ -18,9 +18,9 @@ Rating: 4.55 (Ranked 486)
 | The Ship of Theseus | 11.00% | ~334 |
 | Guy de Borderlands | 10.00% | ~303 |
 | Hope Seeker | 10.00% | ~303 |
+| A Hunk of Junk | 9.00% | ~273 |
 | Exceeding Capacity | 9.00% | ~273 |
 | Breaking Protocol | 9.00% | ~273 |
-| A Hunk of Junk | 8.00% | ~243 |
 | Man's Best Friend | 6.00% | ~182 |
 | Sightseeing | 6.00% | ~182 |
 | Power Outage | 6.00% | ~182 |

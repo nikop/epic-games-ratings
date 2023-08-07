@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~1,077 |
+| Diligence as a goal | 5.00% | ~1,078 |
 | Project Arena | 4.00% | ~862 |
 | The Old Grandmaster | 2.00% | ~14,245 |
 | The Assault | 2.00% | ~14,245 |
@@ -32,7 +32,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Old Child | 1.00% | ~7,122 |
 | Kung-Fu Tussle | 1.00% | ~7,122 |
 | Take damage to save time | 1.00% | ~7,122 |
-| The best strikes are the ones we avoid | 1.00% | ~215 |
+| The best strikes are the ones we avoid | 1.00% | ~216 |
 | Muk Yan Master | 0.80% | ~5,698 |
 | Deadly Venom | 0.80% | ~172 |
 | Tiger on Fire | 0.70% | ~4,986 |
@@ -40,9 +40,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Iron Money | 0.70% | ~4,986 |
 | Detective Story | 0.70% | ~4,986 |
 | A Touch of Acumen | 0.70% | ~151 |
-| Legendary Talismans of Wuxing | 0.60% | ~4,273 |
-| The 36th Chamber of Kung-Fu | 0.60% | ~4,273 |
-| Sword Stained With Blood | 0.60% | ~4,273 |
+| Legendary Talismans of Wuxing | 0.60% | ~4,274 |
+| The 36th Chamber of Kung-Fu | 0.60% | ~4,274 |
+| Sword Stained With Blood | 0.60% | ~4,274 |
 | Prodigal Child | 0.50% | ~3,561 |
 | Drunken Fighter | 0.40% | ~2,849 |
 | Martial Artist | 0.40% | ~2,849 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,424 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,248 (Ranked 20)  
+Progressed: 712,250 (Ranked 20)  
 Completed: 12,847 (1.80%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 12,847 (1.80%) (Ranked 92)
 | 2023-08-04 | 712,173 | 12,844 |
 | 2023-08-05 | 712,203 | 12,845 |
 | 2023-08-06 | 712,241 | 12,847 |
-| 2023-08-07 | 712,248 | 12,847 |
+| 2023-08-07 | 712,250 | 12,847 |
 ## Awards
 Max (Great Boss Battles): 6,343  (Ranked 54)  
 Sum: 10,893 (Ranked 81)  

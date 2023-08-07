@@ -6,21 +6,21 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~66,971 |
-| Into the Unknown | 10.00% | ~60,883 |
-| First Shot | 10.00% | ~60,883 |
-| Herzlich Wilkommen! | 9.00% | ~54,795 |
-| Good Night & Good Luck | 9.00% | ~54,795 |
-| Sancho Panza | 8.00% | ~48,706 |
-| Oh, So This Is How It Works! | 8.00% | ~48,706 |
-| Under Pressure | 7.00% | ~42,618 |
-| On the Trail of the Enemy | 7.00% | ~42,618 |
-| Flag Burning | 7.00% | ~42,618 |
-| Night Hunter | 7.00% | ~42,618 |
-| Light in the Darkness | 6.00% | ~36,530 |
-| Get Outta My House! | 6.00% | ~36,530 |
-| It Wasn't That Hard, Was It? | 6.00% | ~36,530 |
-| Being All Social | 6.00% | ~36,530 |
+| You Never Forget Your First... | 11.00% | ~66,973 |
+| Into the Unknown | 10.00% | ~60,884 |
+| First Shot | 10.00% | ~60,884 |
+| Herzlich Wilkommen! | 9.00% | ~54,796 |
+| Good Night & Good Luck | 9.00% | ~54,796 |
+| Sancho Panza | 8.00% | ~48,708 |
+| Oh, So This Is How It Works! | 8.00% | ~48,708 |
+| Under Pressure | 7.00% | ~42,619 |
+| On the Trail of the Enemy | 7.00% | ~42,619 |
+| Flag Burning | 7.00% | ~42,619 |
+| Night Hunter | 7.00% | ~42,619 |
+| Light in the Darkness | 6.00% | ~36,531 |
+| Get Outta My House! | 6.00% | ~36,531 |
+| It Wasn't That Hard, Was It? | 6.00% | ~36,531 |
+| Being All Social | 6.00% | ~36,531 |
 | Debris and Ashes | 5.00% | ~30,442 |
 | We Will Be Heard! | 5.00% | ~30,442 |
 | Known Associate | 5.00% | ~30,442 |
@@ -28,12 +28,12 @@ Number of Ratings: 7,305  (23.09.2022)
 | Tunnel Entrance | 5.00% | ~30,442 |
 | After the Fall | 5.00% | ~30,442 |
 | Can't Touch This! | 5.00% | ~30,442 |
-| Going Down | 4.00% | ~24,353 |
-| Family First | 4.00% | ~24,353 |
-| Your World, Your Rules | 4.00% | ~24,353 |
-| Death From Afar | 4.00% | ~24,353 |
-| Terminal Headache | 4.00% | ~24,353 |
-| Slowpoke! | 4.00% | ~24,353 |
+| Going Down | 4.00% | ~24,354 |
+| Family First | 4.00% | ~24,354 |
+| Your World, Your Rules | 4.00% | ~24,354 |
+| Death From Afar | 4.00% | ~24,354 |
+| Terminal Headache | 4.00% | ~24,354 |
+| Slowpoke! | 4.00% | ~24,354 |
 | Tickets, Please! | 3.00% | ~18,265 |
 | Combat Master | 3.00% | ~18,265 |
 | You're Going Down! | 3.00% | ~18,265 |
@@ -49,18 +49,18 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ironheart | 1.00% | ~6,088 |
 | Nemesis | 1.00% | ~2,543 |
 | Enter the Hall | 1.00% | ~2,543 |
-| Find Anything Interesting? | 0.90% | ~5,479 |
-| Boot Licker | 0.90% | ~5,479 |
-| Who Wants To Be a... | 0.90% | ~5,479 |
-| Night of Terrors | 0.90% | ~2,288 |
+| Find Anything Interesting? | 0.90% | ~5,480 |
+| Boot Licker | 0.90% | ~5,480 |
+| Who Wants To Be a... | 0.90% | ~5,480 |
+| Night of Terrors | 0.90% | ~2,289 |
 | Revenants | 0.70% | ~4,262 |
 | Get the Point? | 0.70% | ~4,262 |
 | My Friend, Ciro | 0.70% | ~1,780 |
 | Skullcrusher | 0.70% | ~1,780 |
 | Tanning Salon | 0.60% | ~3,653 |
 | Lightning Reflexes | 0.40% | ~2,435 |
-| A Friend in Need... | 0.30% | ~1,826 |
-| Man On a Mission | 0.30% | ~1,826 |
+| A Friend in Need... | 0.30% | ~1,827 |
+| Man On a Mission | 0.30% | ~1,827 |
 | Ultramarathon | 0.20% | ~1,218 |
 | Don't Look Up | 0.20% | ~1,218 |
 | True Nightrunner | 0.10% | ~609 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~254 |
 | Connoisseur | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 608,830 (Ranked 27)  
+Progressed: 608,844 (Ranked 27)  
 Completed: 61 (0.01%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,10 +181,10 @@ Completed: 61 (0.01%) (Ranked 237)
 | 2023-08-04 | 607,698 | 61 |
 | 2023-08-05 | 608,208 | 61 |
 | 2023-08-06 | 608,764 | 61 |
-| 2023-08-07 | 608,830 | 61 |
+| 2023-08-07 | 608,844 | 61 |
 ## Awards
 Max (Character Customization): 8,713  (Ranked 39)  
-Sum: 20,847 (Ranked 54)  
+Sum: 20,850 (Ranked 54)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -197,7 +197,7 @@ Diff (max vs sum): -15
 | This game is Extremely Fun | 773 |
 | This game has Amazing Storytelling | 768 |
 | This game has Quickly Understood Controls | 748 |
-| This game is Relaxing | 721 |
+| This game is Relaxing | 724 |
 | This game has a Creative Community | 639 |
 | This game has Obsessive Gameplay | 230 |
 ## Ratings History
@@ -410,3 +410,4 @@ Diff (max vs sum): -15
 | 2023-08-04 | 4.58 | - | 8,686 | 20,746 |
 | 2023-08-05 | 4.58 | - | 8,698 | 20,801 |
 | 2023-08-06 | 4.58 | - | 8,713 | 20,847 |
+| 2023-08-07 | 4.58 | - | 8,713 | 20,850 |

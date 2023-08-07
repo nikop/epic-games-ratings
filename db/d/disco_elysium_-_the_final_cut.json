@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1241,9 +1241,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 125768,
+  "EOS_Progressed": 125769,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 861,
+  "EOS_NewPlayers": 859,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11956,6 +11956,11 @@
       "Time": "2023-08-07T05:04:25.4950908+00:00",
       "NumProgressed": 125768,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-07T06:04:38.936452+00:00",
+      "NumProgressed": 125769,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -12015,7 +12020,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10061
+      "UsersEstimate": 10062
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -12023,7 +12028,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30184
+      "UsersEstimate": 30185
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -12031,7 +12036,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10061
+      "UsersEstimate": 10062
     },
     {
       "ID": "ACH_COP_DORK",
@@ -12111,7 +12116,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13834
+      "UsersEstimate": 13835
     },
     {
       "ID": "ACH_CUNO",
@@ -12286,15 +12291,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 125768,
+      "Progressed": 125769,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-04T01:55:33.6301654+00:00",
-  "LastChanged_Achievements": "2023-08-07T05:04:25.4950902+00:00",
+  "LastChanged_Achievements": "2023-08-07T06:04:38.9364515+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:08.5525123+00:00",
-  "LastUpdate_Ratings": "2023-08-07T05:00:21.6630073+00:00",
-  "LastUpdate_Achievements": "2023-08-07T05:04:25.4951855+00:00"
+  "LastUpdate_Ratings": "2023-08-07T06:01:03.9068708+00:00",
+  "LastUpdate_Achievements": "2023-08-07T06:04:38.9365684+00:00"
 }

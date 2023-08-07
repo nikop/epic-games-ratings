@@ -368,9 +368,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12657,
+  "EOS_Progressed": 12658,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -6848,6 +6848,11 @@
       "Time": "2023-08-07T03:04:15.460744+00:00",
       "NumProgressed": 12657,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-08-07T06:04:43.727465+00:00",
+      "NumProgressed": 12658,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 35,
@@ -6859,7 +6864,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11644
+      "UsersEstimate": 11645
     },
     {
       "ID": "ACH_02",
@@ -6867,7 +6872,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 9872
+      "UsersEstimate": 9873
     },
     {
       "ID": "ACH_03",
@@ -6883,7 +6888,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8733
+      "UsersEstimate": 8734
     },
     {
       "ID": "ACH_05",
@@ -6891,7 +6896,7 @@
       "Name": "In our Wake",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 8480
+      "UsersEstimate": 8481
     },
     {
       "ID": "ACH_06",
@@ -6899,7 +6904,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 8100
+      "UsersEstimate": 8101
     },
     {
       "ID": "ACH_07",
@@ -6915,7 +6920,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 7594
+      "UsersEstimate": 7595
     },
     {
       "ID": "ACH_09",
@@ -6939,7 +6944,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 6075
+      "UsersEstimate": 6076
     },
     {
       "ID": "ACH_12",
@@ -6987,7 +6992,7 @@
       "Name": "Knights!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2531
+      "UsersEstimate": 2532
     },
     {
       "ID": "ACH_18",
@@ -7043,7 +7048,7 @@
       "Name": "Handful of pockets",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "ACH_25",
@@ -7138,7 +7143,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12657,
+      "Progressed": 12658,
       "Completed": 40
     }
   ],
@@ -7146,8 +7151,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-08-07T05:04:29.6880905+00:00",
+  "LastChanged_Achievements": "2023-08-07T06:04:43.7274645+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:22.662799+00:00",
-  "LastUpdate_Ratings": "2023-08-07T05:00:35.8253902+00:00",
-  "LastUpdate_Achievements": "2023-08-07T05:04:29.6881563+00:00"
+  "LastUpdate_Ratings": "2023-08-07T06:01:19.6119043+00:00",
+  "LastUpdate_Achievements": "2023-08-07T06:04:43.7275486+00:00"
 }

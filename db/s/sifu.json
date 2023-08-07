@@ -5574,7 +5574,7 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 712248,
+  "EOS_Progressed": 712250,
   "EOS_Completed": 12847,
   "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 11,
@@ -15909,6 +15909,11 @@
       "Time": "2023-08-07T05:03:16.1900691+00:00",
       "NumProgressed": 712248,
       "NumCompleted": 12847
+    },
+    {
+      "Time": "2023-08-07T06:03:05.6342215+00:00",
+      "NumProgressed": 712250,
+      "NumCompleted": 12847
     }
   ],
   "TotalAchievements": 50,
@@ -16000,7 +16005,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 4273
+      "UsersEstimate": 4274
     },
     {
       "ID": "12_MidAge",
@@ -16136,7 +16141,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 4273
+      "UsersEstimate": 4274
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -16176,7 +16181,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4273
+      "UsersEstimate": 4274
     },
     {
       "ID": "34_TimedTakedown",
@@ -16264,7 +16269,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -16304,7 +16309,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -16319,21 +16324,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21549,
+      "Progressed": 21551,
       "Completed": 10490
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712248,
+      "Progressed": 712250,
       "Completed": 12847
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-06T20:59:37.3399176+00:00",
-  "LastChanged_Achievements": "2023-08-07T05:03:16.1900684+00:00",
+  "LastChanged_Achievements": "2023-08-07T06:03:05.634221+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:56.2454888+00:00",
-  "LastUpdate_Ratings": "2023-08-07T05:00:09.2145274+00:00",
-  "LastUpdate_Achievements": "2023-08-07T05:03:16.1901715+00:00"
+  "LastUpdate_Ratings": "2023-08-07T06:00:48.5296898+00:00",
+  "LastUpdate_Achievements": "2023-08-07T06:03:05.6343539+00:00"
 }

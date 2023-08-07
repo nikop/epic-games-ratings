@@ -45,8 +45,8 @@
 | Get out of my apartment! | 38.00% | ~88 |
 | Responsible approach | 38.00% | ~88 |
 | Champion – no way back | 37.00% | ~86 |
+| Poisoned fighter | 37.00% | ~86 |
 | GYM professional | 36.00% | ~84 |
-| Poisoned fighter | 36.00% | ~84 |
 | Underground dwellers | 36.00% | ~84 |
 | Deal with life | 35.00% | ~81 |
 | Mom got better | 34.00% | ~79 |

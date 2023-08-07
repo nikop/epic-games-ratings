@@ -6,9 +6,9 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,104 |
+| Genin | 11.00% | ~21,105 |
 | Thorough | 10.00% | ~19,186 |
-| A thief's beginning | 9.00% | ~17,267 |
+| A thief's beginning | 9.00% | ~17,268 |
 | Disguised | 8.00% | ~15,349 |
 | Rollin' | 8.00% | ~15,349 |
 | Tanuki Time | 8.00% | ~15,349 |
@@ -23,10 +23,10 @@ Number of Ratings: 495  (23.09.2022)
 | Mugen Unchained | 5.00% | ~9,593 |
 | Okkoto | 5.00% | ~9,593 |
 | Warzone | 5.00% | ~9,593 |
-| Gear up | 4.00% | ~7,674 |
-| Happy little accidents | 4.00% | ~7,674 |
-| Prisoners | 4.00% | ~7,674 |
-| Too Early | 4.00% | ~7,674 |
+| Gear up | 4.00% | ~7,675 |
+| Happy little accidents | 4.00% | ~7,675 |
+| Prisoners | 4.00% | ~7,675 |
+| Too Early | 4.00% | ~7,675 |
 | Noboru | 3.00% | ~5,756 |
 | Still Rollin' | 3.00% | ~5,756 |
 | Stoned | 3.00% | ~5,756 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~192 |
 | Release the Kraken | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191,859 (Ranked 59)  
+Progressed: 191,864 (Ranked 59)  
 Completed: 66 (0.03%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 66 (0.03%) (Ranked 225)
 | 2023-08-04 | 191,203 | 66 |
 | 2023-08-05 | 191,476 | 66 |
 | 2023-08-06 | 191,807 | 66 |
-| 2023-08-07 | 191,859 | 66 |
+| 2023-08-07 | 191,864 | 66 |
 ## Awards
 Max (Great for Beginners): 560  (Ranked 185)  
 Sum: 4,722 (Ranked 133)  

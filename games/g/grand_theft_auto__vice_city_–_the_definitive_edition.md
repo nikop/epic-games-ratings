@@ -1,7 +1,7 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.54 (Ranked 498)  
+Rating: 4.55 (Ranked 486)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -251,3 +251,4 @@ Diff (max vs sum): -55
 | 2023-07-29 | 4.54 | 63 | 63 |
 | 2023-07-30 | 4.54 | 64 | 64 |
 | 2023-08-01 | 4.54 | 65 | 65 |
+| 2023-08-07 | 4.55 | 65 | 65 |

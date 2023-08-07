@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 194024,
+  "EOS_Progressed": 194027,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11944,6 +11944,11 @@
       "Time": "2023-08-07T05:07:40.2246285+00:00",
       "NumProgressed": 194024,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-07T06:08:30.306542+00:00",
+      "NumProgressed": 194027,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -11963,7 +11968,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 137757
+      "UsersEstimate": 137759
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -11987,7 +11992,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 34924
+      "UsersEstimate": 34925
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -12059,7 +12064,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3880
+      "UsersEstimate": 3881
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -12082,7 +12087,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 194024,
+      "Progressed": 194027,
       "Completed": 4
     }
   ],
@@ -12090,8 +12095,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-08-06T15:01:02.3666126+00:00",
-  "LastChanged_Achievements": "2023-08-07T05:07:40.224628+00:00",
+  "LastChanged_Achievements": "2023-08-07T06:08:30.3065415+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.1729578+00:00",
-  "LastUpdate_Ratings": "2023-08-07T05:00:50.4981065+00:00",
-  "LastUpdate_Achievements": "2023-08-07T05:07:40.2247055+00:00"
+  "LastUpdate_Ratings": "2023-08-07T06:01:39.818483+00:00",
+  "LastUpdate_Achievements": "2023-08-07T06:08:30.3066468+00:00"
 }

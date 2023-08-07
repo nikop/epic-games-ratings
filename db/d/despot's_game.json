@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -441,9 +441,9 @@
       "ID": "collect-discounted-items1",
       "SetID": "799afm0",
       "Name": "Frugal",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 93
     },
     {
       "ID": "collect-discounted-items2",
@@ -561,9 +561,9 @@
       "ID": "finished-quest-sword",
       "SetID": "799afm0",
       "Name": "Holy Vengeance",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 68
     },
     {
       "ID": "get-all",
@@ -698,8 +698,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-08-07T05:03:59.2360964+00:00",
+  "LastChanged_Achievements": "2023-08-07T06:04:06.9198267+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:37.4252386+00:00",
-  "LastUpdate_Ratings": "2023-08-07T04:59:49.5527607+00:00",
-  "LastUpdate_Achievements": "2023-08-07T05:03:59.2361229+00:00"
+  "LastUpdate_Ratings": "2023-08-07T06:00:24.2802085+00:00",
+  "LastUpdate_Achievements": "2023-08-07T06:04:06.9198581+00:00"
 }

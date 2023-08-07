@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 50,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -6396,9 +6396,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 796039,
+  "EOS_Progressed": 796042,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1057,
+  "EOS_NewPlayers": 1058,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18216,6 +18216,11 @@
       "Time": "2023-08-07T05:05:19.4197868+00:00",
       "NumProgressed": 796039,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-07T06:05:42.6086679+00:00",
+      "NumProgressed": 796042,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -18251,7 +18256,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 127366
+      "UsersEstimate": 127367
     },
     {
       "ID": "Awakening",
@@ -18259,7 +18264,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 167168
+      "UsersEstimate": 167169
     },
     {
       "ID": "BadGirl",
@@ -18307,7 +18312,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 246772
+      "UsersEstimate": 246773
     },
     {
       "ID": "Bookworm",
@@ -18331,7 +18336,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 47762
+      "UsersEstimate": 47763
     },
     {
       "ID": "Cavalier",
@@ -18427,7 +18432,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 183089
+      "UsersEstimate": 183090
     },
     {
       "ID": "Fighter",
@@ -18763,7 +18768,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 87564
+      "UsersEstimate": 87565
     },
     {
       "ID": "Sniper",
@@ -18882,15 +18887,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 796039,
+      "Progressed": 796042,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-06T22:59:29.969975+00:00",
-  "LastChanged_Achievements": "2023-08-07T05:05:19.4197864+00:00",
+  "LastChanged_Achievements": "2023-08-07T06:05:42.6086674+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:17.2997126+00:00",
-  "LastUpdate_Ratings": "2023-08-07T04:59:31.546144+00:00",
-  "LastUpdate_Achievements": "2023-08-07T05:05:19.4199515+00:00"
+  "LastUpdate_Ratings": "2023-08-07T06:00:02.9411272+00:00",
+  "LastUpdate_Achievements": "2023-08-07T06:05:42.6088863+00:00"
 }
