@@ -35,12 +35,12 @@
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
 | 34 | [Ravenlok](games/r/ravenlok.md) | 7.32% |
 | 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.10% |
-| 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.97% |
 | 36 | [Scorn](games/s/scorn.md) | 6.97% |
+| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.90% |
 | 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 40 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.15% |
+| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.13% |
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 6.03% |
 | 43 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
 | 44 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
