@@ -8,14 +8,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,787 |
 | Beast Intentions | 3.00% | ~6,590 |
-| Maddening | 2.00% | ~4,393 |
+| Maddening | 2.00% | ~4,394 |
 | The Silken Swamp | 1.00% | ~2,197 |
 | Supply Run | 1.00% | ~2,197 |
-| Vecna Lives! | 1.00% | ~1,859 |
-| Rocky Reception | 1.00% | ~1,859 |
-| Rock and Roll | 1.00% | ~1,859 |
-| Vecna Loots! | 0.90% | ~1,673 |
-| Flight of the Kindori Pod | 0.90% | ~1,673 |
+| Vecna Lives! | 1.00% | ~1,860 |
+| Rocky Reception | 1.00% | ~1,860 |
+| Rock and Roll | 1.00% | ~1,860 |
+| Vecna Loots! | 0.90% | ~1,674 |
+| Flight of the Kindori Pod | 0.90% | ~1,674 |
 | Tall Tales | 0.80% | ~1,488 |
 | Seeds of Destruction | 0.80% | ~1,488 |
 | The Cursed Farmer | 0.80% | ~1,757 |
@@ -229,6 +229,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Hero's Entourage | 0.20% | ~439 |
 | Patience is Key | 0.20% | ~439 |
 | Troublesome Prisoner | 0.20% | ~439 |
+| Dark Doppelgangers | 0.20% | ~439 |
 | Champions of Waterdeep | 0.20% | ~439 |
 | Once More Into The Breach | 0.20% | ~439 |
 | Wyllowwood | 0.20% | ~439 |
@@ -255,6 +256,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel's Last Stand | 0.20% | ~372 |
 | Ending the Rime - Part 1 | 0.20% | ~372 |
 | Ending the Rime - Part 2 | 0.20% | ~372 |
+| Tekeli-li's Hunt | 0.20% | ~372 |
 | The Haunted Jungle | 0.20% | ~439 |
 | Poor Guidance | 0.20% | ~439 |
 | Overwhelming Force | 0.20% | ~439 |
@@ -383,7 +385,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Meepo's Quest | 0.10% | ~220 |
 | She's Harmless! | 0.10% | ~220 |
 | The Tallest of Kobolds | 0.10% | ~186 |
-| Dark Doppelgangers | 0.10% | ~220 |
 | Faerûn's Most Wanted | 0.10% | ~186 |
 | Cold & Wet | 0.10% | ~220 |
 | Madcap Adventures | 0.10% | ~220 |
@@ -499,7 +500,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Reghed Glacier Mysteries | 0.10% | ~186 |
 | Mysteries Unlocked | 0.10% | ~186 |
 | Male Pattern Boldness | 0.10% | ~186 |
-| Tekeli-li's Hunt | 0.10% | ~186 |
 | Cackling Horror | 0.10% | ~186 |
 | Working for the Weak End | 0.10% | ~186 |
 | Neutral No More | 0.10% | ~186 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,664 (Ranked 52)  
+Progressed: 219,683 (Ranked 52)  
 Completed: 2,161 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,7 +628,7 @@ Completed: 2,161 (0.98%) (Ranked 114)
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
-| 2023-08-07 | 219,664 | 2,161 |
+| 2023-08-07 | 219,683 | 2,161 |
 ## Awards
 Max (Diverse Characters): 5,121  (Ranked 67)  
 Sum: 30,932 (Ranked 38)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -672,7 +672,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3131,
+  "EOS_Progressed": 3132,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
@@ -2967,6 +2967,11 @@
       "Time": "2023-08-07T15:05:17.3941098+00:00",
       "NumProgressed": 3131,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-07T19:04:46.4800242+00:00",
+      "NumProgressed": 3132,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3360,9 +3365,9 @@
       "ID": "OnlyInDeath",
       "SetID": "2im8phi",
       "Name": "Only in Death",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 13
     },
     {
       "ID": "Preservationist",
@@ -3521,21 +3526,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3131,
+      "Progressed": 3132,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3131,
+      "Progressed": 3132,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-06T13:02:06.0449243+00:00",
-  "LastChanged_Achievements": "2023-08-07T18:04:32.2558946+00:00",
+  "LastChanged_Achievements": "2023-08-07T19:04:46.4800238+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:37.2387595+00:00",
-  "LastUpdate_Ratings": "2023-08-07T17:58:57.0649733+00:00",
-  "LastUpdate_Achievements": "2023-08-07T18:04:32.255959+00:00"
+  "LastUpdate_Ratings": "2023-08-07T18:59:12.0649825+00:00",
+  "LastUpdate_Achievements": "2023-08-07T19:04:46.4800896+00:00"
 }

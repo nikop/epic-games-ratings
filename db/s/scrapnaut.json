@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -954,9 +954,9 @@
       "ID": "ACH_10_DIG",
       "SetID": "7c4cldc",
       "Name": "Digger",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -994,9 +994,9 @@
       "ID": "ACH_COLLECT_10_HERBS",
       "SetID": "7c4cldc",
       "Name": "Herbalist",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_COLLECT_10_MUSHROOMS",
@@ -1050,17 +1050,17 @@
       "ID": "ACH_COOK",
       "SetID": "7c4cldc",
       "Name": "Cook",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_CUT_100_TREES",
       "SetID": "7c4cldc",
       "Name": "Forest Killer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_CUT_20_TREES",
@@ -1211,8 +1211,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-08-07T18:03:25.1901576+00:00",
+  "LastChanged_Achievements": "2023-08-07T19:03:38.1828682+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.384525+00:00",
-  "LastUpdate_Ratings": "2023-08-07T17:58:47.2454295+00:00",
-  "LastUpdate_Achievements": "2023-08-07T18:03:25.19018+00:00"
+  "LastUpdate_Ratings": "2023-08-07T18:59:02.1515258+00:00",
+  "LastUpdate_Achievements": "2023-08-07T19:03:38.1828902+00:00"
 }

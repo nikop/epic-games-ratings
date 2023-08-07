@@ -23,6 +23,7 @@ Number of Ratings: 111  (23.09.2022)
 | Fashionista | 6.00% | ~162 |
 | Finally he zips it | 6.00% | ~162 |
 | Fulfilled the dream | 6.00% | ~162 |
+| Sup widdit big dog! | 6.00% | ~162 |
 | Tight lipslides | 6.00% | ~162 |
 | Commence the Hijinx! | 5.00% | ~135 |
 | G'Day Mate! | 5.00% | ~135 |
@@ -31,7 +32,6 @@ Number of Ratings: 111  (23.09.2022)
 | NAHELL! | 5.00% | ~135 |
 | Purple passion | 5.00% | ~135 |
 | Squad goals | 5.00% | ~135 |
-| Sup widdit big dog! | 5.00% | ~135 |
 | Cops called! | 4.00% | ~108 |
 | DIY Boss | 4.00% | ~108 |
 | G.O.A.T. status | 4.00% | ~108 |

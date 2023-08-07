@@ -6,44 +6,44 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 8.00% | ~6,544 |
-| Until death do us apart | 8.00% | ~6,544 |
-| Victorious! | 8.00% | ~6,544 |
-| That is mine! | 7.00% | ~5,726 |
-| Brothers in Arms | 6.00% | ~4,908 |
-| That's a Grand Navy | 6.00% | ~4,908 |
-| Seriously?! | 6.00% | ~4,908 |
-| For the Glory | 5.00% | ~4,090 |
-| Cold War | 4.00% | ~3,272 |
-| Defender of the Faith | 3.00% | ~2,454 |
-| It's all about the money | 3.00% | ~2,454 |
-| Respected | 3.00% | ~2,454 |
-| The Princess is in this Castle | 3.00% | ~2,454 |
-| True Catholic | 3.00% | ~2,454 |
-| Truly Divine Ruler | 3.00% | ~2,454 |
-| Agressive Expander | 2.00% | ~1,636 |
-| Blockader | 2.00% | ~1,636 |
-| Combined Arms | 2.00% | ~1,636 |
-| Double the Love | 2.00% | ~1,636 |
-| It's all about luck | 2.00% | ~1,636 |
-| My armies are invincible! | 2.00% | ~1,636 |
-| Royal Authority | 2.00% | ~1,636 |
-| Total Control | 2.00% | ~1,636 |
-| All That's Thine Shall Be Mine | 1.00% | ~818 |
-| Azur semé de lis or | 1.00% | ~818 |
-| Bright Spark | 1.00% | ~818 |
-| City of Cities | 1.00% | ~818 |
-| The Emperors new clothes | 1.00% | ~818 |
-| Factionalism | 1.00% | ~818 |
-| Gentle Persuasion | 1.00% | ~818 |
-| A Golden Empire | 1.00% | ~818 |
-| Queen of Conquest | 1.00% | ~818 |
-| The Five Colonies | 1.00% | ~818 |
-| This navy can take it all | 1.00% | ~818 |
-| Down Under | 0.90% | ~736 |
-| Isn't this the way to India? | 0.90% | ~736 |
-| Market Control | 0.90% | ~736 |
-| Trustworthy | 0.90% | ~736 |
+| That's a Grand Army | 8.00% | ~6,549 |
+| Until death do us apart | 8.00% | ~6,549 |
+| Victorious! | 8.00% | ~6,549 |
+| That is mine! | 7.00% | ~5,730 |
+| Brothers in Arms | 6.00% | ~4,912 |
+| That's a Grand Navy | 6.00% | ~4,912 |
+| Seriously?! | 6.00% | ~4,912 |
+| For the Glory | 5.00% | ~4,093 |
+| Cold War | 4.00% | ~3,274 |
+| Defender of the Faith | 3.00% | ~2,456 |
+| It's all about the money | 3.00% | ~2,456 |
+| Respected | 3.00% | ~2,456 |
+| The Princess is in this Castle | 3.00% | ~2,456 |
+| True Catholic | 3.00% | ~2,456 |
+| Truly Divine Ruler | 3.00% | ~2,456 |
+| Agressive Expander | 2.00% | ~1,637 |
+| Blockader | 2.00% | ~1,637 |
+| Combined Arms | 2.00% | ~1,637 |
+| Double the Love | 2.00% | ~1,637 |
+| It's all about luck | 2.00% | ~1,637 |
+| My armies are invincible! | 2.00% | ~1,637 |
+| Royal Authority | 2.00% | ~1,637 |
+| Total Control | 2.00% | ~1,637 |
+| All That's Thine Shall Be Mine | 1.00% | ~819 |
+| Azur semé de lis or | 1.00% | ~819 |
+| Bright Spark | 1.00% | ~819 |
+| City of Cities | 1.00% | ~819 |
+| The Emperors new clothes | 1.00% | ~819 |
+| Factionalism | 1.00% | ~819 |
+| Gentle Persuasion | 1.00% | ~819 |
+| A Golden Empire | 1.00% | ~819 |
+| Queen of Conquest | 1.00% | ~819 |
+| The Five Colonies | 1.00% | ~819 |
+| This navy can take it all | 1.00% | ~819 |
+| Down Under | 0.90% | ~737 |
+| Isn't this the way to India? | 0.90% | ~737 |
+| Market Control | 0.90% | ~737 |
+| Trustworthy | 0.90% | ~737 |
 | Electable! | 0.70% | ~573 |
 | Populists in Government | 0.70% | ~573 |
 | All belongs to Mother Russia | 0.60% | ~491 |
@@ -54,6 +54,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Absolutely | 0.50% | ~409 |
 | Early-Modern Warfare | 0.50% | ~409 |
 | Grand Coalition | 0.50% | ~409 |
+| In the Name of the Father | 0.50% | ~409 |
 | Live Long and Prosper | 0.50% | ~409 |
 | Ruina Imperii | 0.50% | ~409 |
 | This is My Faith | 0.50% | ~409 |
@@ -64,7 +65,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Dude, Where's my Boat? | 0.40% | ~327 |
 | Four For Trade | 0.40% | ~327 |
 | Global Hegemony | 0.40% | ~327 |
-| In the Name of the Father | 0.40% | ~327 |
 | Italian Ambition | 0.40% | ~327 |
 | Just a Little Patience | 0.40% | ~327 |
 | One Night in Paris | 0.40% | ~327 |
@@ -72,17 +72,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Continuation of Diplomacy | 0.40% | ~327 |
 | Traditional Player | 0.40% | ~327 |
 | Wonderful | 0.40% | ~327 |
-| A Decent Reserve | 0.30% | ~245 |
-| A Pile of Gold | 0.30% | ~245 |
-| A Fine Goosestep | 0.30% | ~245 |
-| Grand Duchy | 0.30% | ~245 |
-| Multiculturalism | 0.30% | ~245 |
-| No Pirates in my Caribbean | 0.30% | ~245 |
-| Not so sad a state... | 0.30% | ~245 |
-| The Chrysanthemum Throne | 0.30% | ~245 |
-| Three Trivial Tributary Tribes | 0.30% | ~245 |
-| Vasa or Wettin? | 0.30% | ~245 |
-| World Discoverer | 0.30% | ~245 |
+| A Decent Reserve | 0.30% | ~246 |
+| A Pile of Gold | 0.30% | ~246 |
+| A Fine Goosestep | 0.30% | ~246 |
+| Grand Duchy | 0.30% | ~246 |
+| Multiculturalism | 0.30% | ~246 |
+| No Pirates in my Caribbean | 0.30% | ~246 |
+| Not so sad a state... | 0.30% | ~246 |
+| The Chrysanthemum Throne | 0.30% | ~246 |
+| Three Trivial Tributary Tribes | 0.30% | ~246 |
+| Vasa or Wettin? | 0.30% | ~246 |
+| World Discoverer | 0.30% | ~246 |
 | A Protected Market | 0.20% | ~164 |
 | AAA Credit | 0.20% | ~164 |
 | An early Reich | 0.20% | ~164 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81,802 (Ranked 74)  
+Progressed: 81,859 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -470,7 +470,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-04 | 79,131 | 0 |
 | 2023-08-05 | 80,125 | 0 |
 | 2023-08-06 | 81,143 | 0 |
-| 2023-08-07 | 81,802 | 0 |
+| 2023-08-07 | 81,859 | 0 |
 ## Awards
 Max (Educational): 5,630  (Ranked 61)  
 Sum: 46,441 (Ranked 26)  

@@ -16,6 +16,7 @@ Rating: 4.18 (Ranked 869)
 | Protector of Gotham | 3.00% | ~2,031 |
 | Something in the Clay | 3.00% | ~2,031 |
 | The Show Mud Go On | 3.00% | ~2,031 |
+| Rock and a Hard Place | 3.00% | ~2,031 |
 | Quartzer Life Crisis | 3.00% | ~2,031 |
 | Snow Problem | 3.00% | ~2,031 |
 | Working Hard or Harley Working? | 3.00% | ~2,031 |
@@ -27,7 +28,6 @@ Rating: 4.18 (Ranked 869)
 | Voiceless | 3.00% | ~2,031 |
 | End of an Era | 2.00% | ~1,354 |
 | In Your Element | 2.00% | ~1,354 |
-| Rock and a Hard Place | 2.00% | ~1,354 |
 | Not On My Watch | 2.00% | ~1,354 |
 | Bulldozed | 2.00% | ~1,354 |
 | Out of Their League | 2.00% | ~1,354 |

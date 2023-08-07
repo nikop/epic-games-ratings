@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | ROOKIE | 54.00% | ~1,666 |
+| IT MAKES BOOM! | 43.00% | ~1,327 |
 | EXTRA BOOST | 42.00% | ~1,296 |
-| IT MAKES BOOM! | 42.00% | ~1,296 |
 | PRO | 34.00% | ~1,049 |
 | PROTECTED | 32.00% | ~988 |
 | HERE ARE SOME BARE NECESSITIES | 32.00% | ~988 |

@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -1130,9 +1130,9 @@
       "ID": "ETUA_TheCultists",
       "SetID": "65jc0ap",
       "Name": "The Cultists",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "ETUA_TheCurseIsReal",
@@ -1211,8 +1211,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-08-07T18:03:38.6052275+00:00",
+  "LastChanged_Achievements": "2023-08-07T19:03:51.8169632+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:34.5782906+00:00",
-  "LastUpdate_Ratings": "2023-08-07T17:57:36.517517+00:00",
-  "LastUpdate_Achievements": "2023-08-07T18:03:38.6052727+00:00"
+  "LastUpdate_Ratings": "2023-08-07T18:57:50.730874+00:00",
+  "LastUpdate_Achievements": "2023-08-07T19:03:51.8169929+00:00"
 }

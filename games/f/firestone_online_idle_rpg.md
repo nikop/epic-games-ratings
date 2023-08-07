@@ -27,9 +27,9 @@ Rating: 4.08 (Ranked 907)
 | Natural Talent | 13.00% | ~231 |
 | Superior | 13.00% | ~231 |
 | The Unstoppable | 13.00% | ~231 |
+| Scientist | 12.00% | ~213 |
 | Doing My Part | 11.00% | ~195 |
 | Hunter | 11.00% | ~195 |
-| Scientist | 11.00% | ~195 |
 | The power of Awakening | 11.00% | ~195 |
 | Challenger | 10.00% | ~178 |
 | Daily Quest Completionist | 10.00% | ~178 |

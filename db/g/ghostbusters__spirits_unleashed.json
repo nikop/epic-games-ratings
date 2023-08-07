@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1698,9 +1698,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24872,
+  "EOS_Progressed": 24873,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -9788,6 +9788,11 @@
       "Time": "2023-08-07T18:02:16.1275297+00:00",
       "NumProgressed": 24872,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-08-07T19:02:20.2044318+00:00",
+      "NumProgressed": 24873,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 51,
@@ -9807,7 +9812,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 5969
+      "UsersEstimate": 5970
     },
     {
       "ID": "Back_Off",
@@ -9815,7 +9820,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8705
+      "UsersEstimate": 8706
     },
     {
       "ID": "Best_Insurance",
@@ -9871,7 +9876,7 @@
       "Name": "Daily Dose",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8705
+      "UsersEstimate": 8706
     },
     {
       "ID": "Diabolical",
@@ -9887,7 +9892,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15172
+      "UsersEstimate": 15173
     },
     {
       "ID": "Dont_Need_These",
@@ -9909,9 +9914,9 @@
       "ID": "Efficient",
       "SetID": "819popo",
       "Name": "Meticulously Efficient",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15669
+      "UsersEstimate": 15919
     },
     {
       "ID": "Escape_Artist",
@@ -9927,7 +9932,7 @@
       "Name": "Fragile Panes",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "Fully_Upgraded",
@@ -10071,7 +10076,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6715
+      "UsersEstimate": 6716
     },
     {
       "ID": "Skilled",
@@ -10079,7 +10084,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5969
+      "UsersEstimate": 5970
     },
     {
       "ID": "Solo_Capture",
@@ -10103,7 +10108,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21390
+      "UsersEstimate": 21391
     },
     {
       "ID": "Summoner",
@@ -10119,7 +10124,7 @@
       "Name": "Surprise!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "Swift_Removers",
@@ -10159,7 +10164,7 @@
       "Name": "There you are!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10446
+      "UsersEstimate": 10447
     },
     {
       "ID": "Tobins_Prodigy",
@@ -10191,7 +10196,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 7710
+      "UsersEstimate": 7711
     },
     {
       "ID": "Whoopsie",
@@ -10206,7 +10211,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24872,
+      "Progressed": 24873,
       "Completed": 49
     }
   ],
@@ -10214,8 +10219,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-07T06:00:54.0361333+00:00",
-  "LastChanged_Achievements": "2023-08-07T18:02:16.1275293+00:00",
+  "LastChanged_Achievements": "2023-08-07T19:02:20.2044312+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:01.1115448+00:00",
-  "LastUpdate_Ratings": "2023-08-07T17:59:15.0187421+00:00",
-  "LastUpdate_Achievements": "2023-08-07T18:02:16.1276015+00:00"
+  "LastUpdate_Ratings": "2023-08-07T18:59:30.6285445+00:00",
+  "LastUpdate_Achievements": "2023-08-07T19:02:20.204502+00:00"
 }

@@ -10,15 +10,15 @@ Number of Ratings: 38  (23.09.2022)
 | Mushroom Picker | 58.00% | ~195 |
 | Scrap Gatherer | 58.00% | ~195 |
 | Scrapper | 48.00% | ~162 |
+| Cook | 44.00% | ~148 |
 | Teleport | 44.00% | ~148 |
-| Cook | 43.00% | ~145 |
 | Scrap Master | 39.00% | ~131 |
 | Smelter | 36.00% | ~121 |
 | Electro-Scrap Gatherer | 35.00% | ~118 |
+| Digger | 34.00% | ~115 |
 | Survivor | 34.00% | ~115 |
-| Digger | 33.00% | ~111 |
+| Herbalist | 31.00% | ~104 |
 | Robot Destroyer | 31.00% | ~104 |
-| Herbalist | 30.00% | ~101 |
 | Lumberjack | 30.00% | ~101 |
 | Electro-Scrap Master | 26.00% | ~88 |
 | Prepper | 26.00% | ~88 |
@@ -35,7 +35,7 @@ Number of Ratings: 38  (23.09.2022)
 | Black Gold | 8.00% | ~27 |
 | Survival Master | 5.00% | ~17 |
 | Traveler | 4.00% | ~13 |
-| Forest Killer | 1.00% | ~3 |
+| Forest Killer | 2.00% | ~7 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 337 (Ranked 249)  

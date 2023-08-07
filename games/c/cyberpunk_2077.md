@@ -6,24 +6,24 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~591,431 |
-| Right Back At Ya | 39.00% | ~339,203 |
-| The Lovers | 35.00% | ~304,413 |
+| The Fool | 68.00% | ~591,433 |
+| Right Back At Ya | 39.00% | ~339,204 |
+| The Lovers | 35.00% | ~304,414 |
 | Stanislavski's Method | 28.00% | ~243,531 |
-| The Wheel of Fortune | 27.00% | ~234,833 |
-| The Hermit | 24.00% | ~208,740 |
+| The Wheel of Fortune | 27.00% | ~234,834 |
+| The Hermit | 24.00% | ~208,741 |
 | Christmas Tree Attack | 23.00% | ~200,043 |
 | True Soldier | 23.00% | ~200,043 |
-| The High Priestess | 22.00% | ~191,345 |
-| Legend of The Afterlife | 22.00% | ~191,345 |
+| The High Priestess | 22.00% | ~191,346 |
+| Legend of The Afterlife | 22.00% | ~191,346 |
 | Life of the Road | 21.00% | ~182,648 |
-| Full Body Conversion | 18.00% | ~156,555 |
-| The World | 18.00% | ~156,555 |
-| Bushido and Chill | 16.00% | ~139,160 |
+| Full Body Conversion | 18.00% | ~156,556 |
+| The World | 18.00% | ~156,556 |
+| Bushido and Chill | 16.00% | ~139,161 |
 | Gun Fu | 15.00% | ~130,463 |
 | True Warrior | 15.00% | ~130,463 |
-| I Am The Law | 14.00% | ~121,765 |
-| Judy vs Night City | 14.00% | ~121,765 |
+| I Am The Law | 14.00% | ~121,766 |
+| Judy vs Night City | 14.00% | ~121,766 |
 | To Protect and Serve | 13.00% | ~113,068 |
 | Master Crafter | 13.00% | ~113,068 |
 | Two Heads, One Bullet | 12.00% | ~104,370 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,698 |
 | Rough Landing | 0.50% | ~4,349 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 869,752 (Ranked 14)  
+Progressed: 869,754 (Ranked 14)  
 Completed: 1,948 (0.22%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 1,948 (0.22%) (Ranked 173)
 | 2023-08-04 | 869,233 | 1,935 |
 | 2023-08-05 | 869,431 | 1,936 |
 | 2023-08-06 | 869,632 | 1,943 |
-| 2023-08-07 | 869,752 | 1,948 |
+| 2023-08-07 | 869,754 | 1,948 |
 ## Awards
 Max (Character Customization): 75,020  (Ranked 9)  
 Sum: 197,833 (Ranked 13)  

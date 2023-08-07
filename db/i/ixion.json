@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -256,7 +256,7 @@
   "Tags": [],
   "EOS_Progressed": 3039,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4547,9 +4547,9 @@
       "ID": "ACH_BASE_28",
       "SetID": "92iocjf",
       "Name": "In Dolos We Trust",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_BASE_29",
@@ -4874,8 +4874,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-08-07T18:05:27.782529+00:00",
+  "LastChanged_Achievements": "2023-08-07T19:05:41.420258+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:23.7106164+00:00",
-  "LastUpdate_Ratings": "2023-08-07T17:58:48.1081977+00:00",
-  "LastUpdate_Achievements": "2023-08-07T18:05:27.782595+00:00"
+  "LastUpdate_Ratings": "2023-08-07T18:59:03.0312283+00:00",
+  "LastUpdate_Achievements": "2023-08-07T19:05:41.4203251+00:00"
 }

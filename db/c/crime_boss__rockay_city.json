@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2892,7 +2892,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71511,
+  "EOS_Progressed": 71513,
   "EOS_Completed": 37,
   "EOS_NewPlayers": 700,
   "EOS_NewCompleters": 1,
@@ -14397,6 +14397,11 @@
       "Time": "2023-08-07T18:05:25.4437128+00:00",
       "NumProgressed": 71511,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-08-07T19:05:39.213877+00:00",
+      "NumProgressed": 71513,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 37,
@@ -14416,7 +14421,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20738
+      "UsersEstimate": 20739
     },
     {
       "ID": "ACH_0012",
@@ -14424,7 +14429,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 15017
+      "UsersEstimate": 15018
     },
     {
       "ID": "ACH_0013",
@@ -14432,7 +14437,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 9296
+      "UsersEstimate": 9297
     },
     {
       "ID": "ACH_0014",
@@ -14456,7 +14461,7 @@
       "Name": "Imports and Exports",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2860
+      "UsersEstimate": 2861
     },
     {
       "ID": "ACH_0021",
@@ -14552,7 +14557,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46482
+      "UsersEstimate": 46483
     },
     {
       "ID": "ACH_0210",
@@ -14560,7 +14565,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 52918
+      "UsersEstimate": 52920
     },
     {
       "ID": "ACH_0211",
@@ -14576,7 +14581,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 33610
+      "UsersEstimate": 33611
     },
     {
       "ID": "ACH_0300",
@@ -14584,7 +14589,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 2860
+      "UsersEstimate": 2861
     },
     {
       "ID": "ACH_0310",
@@ -14592,7 +14597,7 @@
       "Name": "Cracked the Jack",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2860
+      "UsersEstimate": 2861
     },
     {
       "ID": "ACH_0330",
@@ -14608,7 +14613,7 @@
       "Name": "Red Star",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2860
+      "UsersEstimate": 2861
     },
     {
       "ID": "ACH_0350",
@@ -14624,7 +14629,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25029
+      "UsersEstimate": 25030
     },
     {
       "ID": "ACH_0420",
@@ -14640,7 +14645,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25029
+      "UsersEstimate": 25030
     },
     {
       "ID": "ACH_0431",
@@ -14703,7 +14708,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71511,
+      "Progressed": 71513,
       "Completed": 37
     }
   ],
@@ -14711,8 +14716,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-07T12:01:24.111242+00:00",
-  "LastChanged_Achievements": "2023-08-07T18:05:25.4437122+00:00",
+  "LastChanged_Achievements": "2023-08-07T19:05:39.2138761+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:57.6753466+00:00",
-  "LastUpdate_Ratings": "2023-08-07T18:00:01.3689758+00:00",
-  "LastUpdate_Achievements": "2023-08-07T18:05:25.4437866+00:00"
+  "LastUpdate_Ratings": "2023-08-07T19:00:16.3909527+00:00",
+  "LastUpdate_Achievements": "2023-08-07T19:05:39.2139554+00:00"
 }

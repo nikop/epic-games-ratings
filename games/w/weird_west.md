@@ -6,14 +6,14 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,577 |
-| Self-Improvement | 72.00% | ~1,290 |
-| Perky | 66.00% | ~1,183 |
-| Let’s Ride | 60.00% | ~1,075 |
-| Welcome to the Weird West | 57.00% | ~1,021 |
+| Unforgiven | 88.00% | ~1,578 |
+| Self-Improvement | 72.00% | ~1,291 |
+| Perky | 65.00% | ~1,165 |
+| Let’s Ride | 60.00% | ~1,076 |
+| Welcome to the Weird West | 57.00% | ~1,022 |
 | Dead or Alive | 56.00% | ~1,004 |
 | Full House | 36.00% | ~645 |
-| Off the Trail | 33.00% | ~591 |
+| Off the Trail | 33.00% | ~592 |
 | Justice Served | 29.00% | ~520 |
 | Chain Reaction | 27.00% | ~484 |
 | Dishonored | 25.00% | ~448 |
@@ -27,11 +27,11 @@ Number of Ratings: 125  (23.09.2022)
 | Winds of War | 16.00% | ~287 |
 | For Balance | 15.00% | ~269 |
 | Dog Days | 13.00% | ~233 |
-| Out on the Ebb Tide | 13.00% | ~233 |
-| Workers' Rights | 13.00% | ~233 |
 | Elusive Prey | 12.00% | ~215 |
+| Out on the Ebb Tide | 12.00% | ~215 |
 | Power Behind the Pulpit | 12.00% | ~215 |
 | Turning the Tables | 12.00% | ~215 |
+| Workers' Rights | 12.00% | ~215 |
 | Something Wicked This Way Comes… | 11.00% | ~197 |
 | There is Hope | 11.00% | ~197 |
 | The Philosopher’s Stone | 10.00% | ~179 |
@@ -41,8 +41,8 @@ Number of Ratings: 125  (23.09.2022)
 | Gold Digger | 8.00% | ~143 |
 | Eternity Can Wait | 8.00% | ~143 |
 | Knuckle Sandwich | 8.00% | ~143 |
-| Getting the Gang Back Together | 7.00% | ~125 |
-| Monster Hunter | 7.00% | ~125 |
+| Getting the Gang Back Together | 7.00% | ~126 |
+| Monster Hunter | 7.00% | ~126 |
 | Healing Old Wounds | 6.00% | ~108 |
 | Who You Gonna Call? | 6.00% | ~108 |
 | This Is Sparta | 5.00% | ~90 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,792 (Ranked 171)  
+Progressed: 1,793 (Ranked 171)  
 Completed: 4 (0.22%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 4 (0.22%) (Ranked 173)
 | 2023-08-04 | 1,783 | 4 |
 | 2023-08-05 | 1,786 | 4 |
 | 2023-08-06 | 1,791 | 4 |
-| 2023-08-07 | 1,792 | 4 |
+| 2023-08-07 | 1,793 | 4 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 481)  
 Sum: 24 (Ranked 486)  

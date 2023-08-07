@@ -36,9 +36,9 @@ Rating: 4.55 (Ranked 487)
 | What the Ruins Teach Us | 4.00% | ~122 |
 | ...  in a finite world | 3.00% | ~91 |
 | Sustainable Energy | 3.00% | ~91 |
+| In Dolos We Trust | 3.00% | ~91 |
 | Pedal to the Metal | 3.00% | ~91 |
 | Mutual Loyalty | 2.00% | ~61 |
-| In Dolos We Trust | 2.00% | ~61 |
 | Praise the Hull! | 2.00% | ~61 |
 | Space Greenhouse | 2.00% | ~61 |
 | Delivery! | 2.00% | ~61 |

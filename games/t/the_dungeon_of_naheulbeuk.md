@@ -6,30 +6,30 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~122,944 |
-| Where's that freaking Dwarf? | 47.00% | ~97,939 |
-| GG EZ | 28.00% | ~58,346 |
-| Speedrun | 26.00% | ~54,179 |
-| Déjà vu | 21.00% | ~43,760 |
-| Sock! SOCK! | 17.00% | ~35,425 |
-| DM intervention | 13.00% | ~27,089 |
-| Fireproof Wizardess | 10.00% | ~20,838 |
-| Livin' in a dwarven paradise | 8.00% | ~16,670 |
-| A beer, two curses, three companions | 8.00% | ~16,670 |
-| Way of the Wimp | 7.00% | ~14,587 |
-| The plot thickens... At the tavern | 5.00% | ~10,419 |
-| Shiny and Crôm | 4.00% | ~8,335 |
-| The Woman in the High Castle | 4.00% | ~8,335 |
-| I am the night | 4.00% | ~8,335 |
-| Team Building Exercise | 4.00% | ~8,335 |
-| Oh, when I'll be level 10... | 4.00% | ~8,335 |
-| The demons' feast | 3.00% | ~6,251 |
-| The Great Library | 3.00% | ~6,251 |
-| Torture and Sensibility | 3.00% | ~6,251 |
-| Res Judicata | 3.00% | ~6,251 |
-| Dwarf Fortress | 3.00% | ~6,251 |
-| The Ranger of Chaos | 3.00% | ~6,251 |
-| Thieves' Guild Accreditation | 3.00% | ~6,251 |
+| Alt+F4 | 59.00% | ~122,963 |
+| Where's that freaking Dwarf? | 47.00% | ~97,954 |
+| GG EZ | 28.00% | ~58,355 |
+| Speedrun | 26.00% | ~54,187 |
+| Déjà vu | 21.00% | ~43,767 |
+| Sock! SOCK! | 17.00% | ~35,430 |
+| DM intervention | 13.00% | ~27,094 |
+| Fireproof Wizardess | 10.00% | ~20,841 |
+| Livin' in a dwarven paradise | 8.00% | ~16,673 |
+| A beer, two curses, three companions | 8.00% | ~16,673 |
+| Way of the Wimp | 7.00% | ~14,589 |
+| The plot thickens... At the tavern | 5.00% | ~10,421 |
+| Shiny and Crôm | 4.00% | ~8,336 |
+| The Woman in the High Castle | 4.00% | ~8,336 |
+| I am the night | 4.00% | ~8,336 |
+| Team Building Exercise | 4.00% | ~8,336 |
+| Oh, when I'll be level 10... | 4.00% | ~8,336 |
+| The demons' feast | 3.00% | ~6,252 |
+| The Great Library | 3.00% | ~6,252 |
+| Torture and Sensibility | 3.00% | ~6,252 |
+| Res Judicata | 3.00% | ~6,252 |
+| Dwarf Fortress | 3.00% | ~6,252 |
+| The Ranger of Chaos | 3.00% | ~6,252 |
+| Thieves' Guild Accreditation | 3.00% | ~6,252 |
 | Urik's Depths | 2.00% | ~4,168 |
 | Look but don't touch | 2.00% | ~4,168 |
 | The beards of change | 2.00% | ~4,168 |
@@ -45,7 +45,7 @@ Number of Ratings: 118  (23.09.2022)
 | Law and Order | 1.00% | ~2,084 |
 | It's been a hard day's night | 1.00% | ~2,084 |
 | Lust and Debauchery | 1.00% | ~2,084 |
-| Lëgal Legend | 0.90% | ~1,875 |
+| Lëgal Legend | 0.90% | ~1,876 |
 | An old poacher makes the best gamekeeper | 0.80% | ~1,667 |
 | Holistic Adventuring Party | 0.50% | ~1,042 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,042 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,380 (Ranked 55)  
+Progressed: 208,412 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-04 | 206,418 | 0 |
 | 2023-08-05 | 207,138 | 0 |
 | 2023-08-06 | 207,966 | 0 |
-| 2023-08-07 | 208,380 | 0 |
+| 2023-08-07 | 208,412 | 0 |
 ## Awards
 Max (Character Customization): 156  (Ranked 294)  
 Sum: 156 (Ranked 392)  

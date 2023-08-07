@@ -20,7 +20,7 @@ Number of Ratings: 398  (23.09.2022)
 | For Science! | 11.00% | ~512 |
 | Happy Ending? | 10.00% | ~465 |
 | Of Seals And Men | 10.00% | ~465 |
-| Shackadelic | 9.00% | ~418 |
+| Shackadelic | 10.00% | ~465 |
 | Double Trouble | 8.00% | ~372 |
 | Firestarter | 8.00% | ~372 |
 | Make Tropico Great Again! | 8.00% | ~372 |

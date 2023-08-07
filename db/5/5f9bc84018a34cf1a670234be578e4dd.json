@@ -4,8 +4,8 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 35,
-  "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 21.43,
+  "EOS_NewPlayers": 36,
+  "EOS_NewCompleters": 12,
+  "EOS_Completed_Percentage": 21.24,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -511,6 +511,11 @@
       "Time": "2023-08-07T12:05:15.9033988+00:00",
       "NumProgressed": 112,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-08-07T19:04:37.8924376+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -531,7 +536,7 @@
       "Name": "Batteries",
       "Percentage": 58,
       "XP": 70,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Compiling",
@@ -545,7 +550,7 @@
       "ID": "FallDeath",
       "SetID": "7jbi7el",
       "Name": "Accident",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
       "UsersEstimate": 32
     },
@@ -555,7 +560,7 @@
       "Name": "Test Task",
       "Percentage": 98,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Floppy",
@@ -577,7 +582,7 @@
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 100,
       "UsersEstimate": 49
     },
@@ -601,9 +606,9 @@
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 70,
-      "UsersEstimate": 57
+      "UsersEstimate": 56
     },
     {
       "ID": "Screwdriver",
@@ -611,13 +616,13 @@
       "Name": "Screwdriver",
       "Percentage": 79,
       "XP": 70,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 80,
       "UsersEstimate": 50
     },
@@ -625,7 +630,7 @@
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 80,
       "UsersEstimate": 49
     }
@@ -634,14 +639,14 @@
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 24
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-07T18:04:23.6724607+00:00",
+  "LastChanged_Achievements": "2023-08-07T19:04:37.892437+00:00",
   "LastUpdate_AppInfo": "2023-08-01T17:57:05.506677+00:00",
-  "LastUpdate_Ratings": "2023-08-07T17:57:13.7171146+00:00",
-  "LastUpdate_Achievements": "2023-08-07T18:04:23.6724745+00:00"
+  "LastUpdate_Ratings": "2023-08-07T18:57:26.3833607+00:00",
+  "LastUpdate_Achievements": "2023-08-07T19:04:37.8924491+00:00"
 }
