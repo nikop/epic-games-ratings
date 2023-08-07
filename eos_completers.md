@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 44.64% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 35.29% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.29% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -14,8 +14,8 @@
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.16% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.02% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.02% |
+| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.89% |
 | 17 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 18 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.00% |
 | 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
@@ -33,7 +33,7 @@
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.77% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
-| 34 | [Ravenlok](games/r/ravenlok.md) | 7.42% |
+| 34 | [Ravenlok](games/r/ravenlok.md) | 7.41% |
 | 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.07% |
 | 36 | [Scorn](games/s/scorn.md) | 6.97% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
@@ -64,7 +64,7 @@
 | 62 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
 | 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.12% |
 | 63 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.12% |
-| 65 | [The Complex](games/t/the_complex.md) | 3.04% |
+| 65 | [The Complex](games/t/the_complex.md) | 3.03% |
 | 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.02% |
 | 67 | [Monster Harvest](games/m/monster_harvest.md) | 2.96% |
 | 68 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -78,11 +78,11 @@
 | 74 | [The Bunker](games/t/the_bunker.md) | 2.70% |
 | 77 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.61% |
 | 78 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
-| 79 | [Lamentum](games/l/lamentum.md) | 2.57% |
+| 79 | [Lamentum](games/l/lamentum.md) | 2.56% |
 | 80 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.37% |
 | 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.35% |
-| 83 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
+| 83 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 84 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
 | 85 | [FORECLOSED](games/f/foreclosed.md) | 2.20% |
 | 86 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.06% |
@@ -180,8 +180,8 @@
 | 176 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 176 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
 | 180 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
-| 180 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
-| 182 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
+| 181 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
+| 181 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
 | 183 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
 | 183 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 183 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
