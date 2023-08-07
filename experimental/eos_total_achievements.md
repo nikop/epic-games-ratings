@@ -288,6 +288,7 @@
 | [Lifeslide](../games/l/lifeslide.md) | 31 | 1,000 |
 | [Oxide Room 104](../games/o/oxide_room_104.md) | 31 | 1,000 |
 | [Scrapnaut](../games/s/scrapnaut.md) | 31 | 1,000 |
+| [Syberia: The World Before](../games/s/syberia__the_world_before.md) | 31 | 1,000 |
 | [The Outbound Ghost](../games/t/the_outbound_ghost.md) | 31 | 1,000 |
 | [Voltaire: The Vegan Vampire](../games/v/voltaire__the_vegan_vampire.md) | 31 | 1,000 |
 | [Astalon -Tears of the Earth-](../games/a/astalon_-tears_of_the_earth-.md) | 30 | 1,000 |
