@@ -109,9 +109,9 @@
 | 107 | [A Musical Story](games/a/a_musical_story.md) | 1.11% |
 | 107 | [Trifox](games/t/trifox.md) | 1.11% |
 | 109 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.05% |
-| 110 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.02% |
 | 110 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.02% |
-| 112 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
+| 111 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.01% |
+| 111 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
 | 113 | [Adios](games/a/adios.md) | 1.00% |
 | 114 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 114 | [Sable](games/s/sable.md) | 0.98% |
@@ -131,9 +131,9 @@
 | 129 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.61% |
 | 130 | [Potion Permit](games/p/potion_permit.md) | 0.59% |
 | 131 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.58% |
-| 132 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.56% |
-| 132 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |
-| 132 | [Grindstone](games/g/grindstone.md) | 0.56% |
+| 131 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
+| 133 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.56% |
+| 133 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 135 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.54% |
 | 136 | [Godlike Burger](games/g/godlike_burger.md) | 0.53% |
 | 137 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |

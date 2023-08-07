@@ -104,18 +104,18 @@
 | 100 | [Journey](games/j/journey.md) | 4.78 | 0 | 509 |
 | 100 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,369 | 103 |
 | 100 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,398 | 125 |
+| 100 | [Remnant 2](games/r/remnant_2.md) | 4.78 | 403 | 213 |
 | 100 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 509 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 930 | 147 |
 | 100 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 509 |
-| 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,592 | 51 |
-| 108 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,567 | 17 |
-| 108 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 509 |
-| 108 | [Remnant 2](games/r/remnant_2.md) | 4.77 | 403 | 213 |
-| 108 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 509 |
-| 108 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 147 | 298 |
-| 108 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 99 | 335 |
-| 108 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 509 |
-| 108 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 28 | 466 |
+| 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,592 | 51 |
+| 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,567 | 17 |
+| 109 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 509 |
+| 109 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 509 |
+| 109 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 147 | 298 |
+| 109 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 99 | 335 |
+| 109 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 509 |
+| 109 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 28 | 466 |
 | 117 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 3,928 | 80 |
 | 117 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,998 | 24 |
 | 117 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 356 |
@@ -251,7 +251,7 @@
 | 242 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,180 | 92 |
 | 242 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 619 | 177 |
 | 242 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 301,502 | 3 |
-| 242 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 208,161 | 4 |
+| 242 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 208,557 | 4 |
 | 242 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 420 | 207 |
 | 242 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 561 | 184 |
 | 242 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 679 | 168 |
@@ -458,7 +458,7 @@
 | 447 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 0 | 509 |
 | 447 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,653 | 45 |
 | 447 | [Observation](games/o/observation.md) | 4.57 | 0 | 509 |
-| 447 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,189 | 91 |
+| 447 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,191 | 91 |
 | 447 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.57 | 6,391 | 52 |
 | 447 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.57 | 0 | 509 |
 | 447 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 509 |
@@ -489,6 +489,7 @@
 | 486 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 509 |
 | 486 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 509 |
 | 486 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.55 | 50 | 400 |
+| 486 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.55 | 65 | 385 |
 | 486 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 232 | 257 |
 | 486 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.55 | 0 | 509 |
 | 486 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 151 | 295 |
@@ -497,20 +498,19 @@
 | 486 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 509 |
 | 486 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 362 |
 | 486 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,230 | 133 |
-| 498 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,367 | 127 |
-| 498 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,554 | 64 |
-| 498 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 446 |
-| 498 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,259 | 131 |
-| 498 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 65 | 385 |
-| 498 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 373 |
-| 498 | [Oxenfree](games/o/oxenfree.md) | 4.54 | 0 | 509 |
-| 498 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 352 |
-| 498 | [Rebel Cops](games/r/rebel_cops.md) | 4.54 | 0 | 509 |
-| 498 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 93 | 347 |
-| 498 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 89 | 350 |
-| 498 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 509 |
-| 498 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.54 | 0 | 509 |
-| 498 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 508 | 195 |
+| 499 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,367 | 127 |
+| 499 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,554 | 64 |
+| 499 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 446 |
+| 499 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,259 | 131 |
+| 499 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 373 |
+| 499 | [Oxenfree](games/o/oxenfree.md) | 4.54 | 0 | 509 |
+| 499 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 352 |
+| 499 | [Rebel Cops](games/r/rebel_cops.md) | 4.54 | 0 | 509 |
+| 499 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 93 | 347 |
+| 499 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 89 | 350 |
+| 499 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 509 |
+| 499 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.54 | 0 | 509 |
+| 499 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 508 | 195 |
 | 512 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 509 |
 | 512 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 23 | 485 |
 | 512 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 509 |
