@@ -14,7 +14,7 @@
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 17.94% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.29% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.15% |
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.02% |
 | 17 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 18 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.00% |
@@ -168,10 +168,10 @@
 | 166 | [Against the Storm](games/a/against_the_storm.md) | 0.26% |
 | 166 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
 | 168 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
-| 168 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.25% |
-| 170 | [Blanc](games/b/blanc.md) | 0.24% |
-| 170 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
-| 170 | [Filament](games/f/filament.md) | 0.24% |
+| 169 | [Blanc](games/b/blanc.md) | 0.24% |
+| 169 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
+| 169 | [Filament](games/f/filament.md) | 0.24% |
+| 169 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.24% |
 | 173 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 173 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
 | 173 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.22% |
