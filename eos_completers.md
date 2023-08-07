@@ -1,12 +1,12 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 45.61% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.37% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.29% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 23.86% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 23.60% |
 | 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 21.24% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
@@ -21,8 +21,8 @@
 | 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.33% |
 | 21 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
-| 22 | [Remains](games/r/remains.md) | 10.64% |
-| 23 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.57% |
+| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.73% |
+| 23 | [Remains](games/r/remains.md) | 10.64% |
 | 24 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 10.53% |
 | 24 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.53% |
 | 26 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
@@ -75,7 +75,7 @@
 | 73 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 74 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.70% |
 | 74 | [The Bunker](games/t/the_bunker.md) | 2.70% |
-| 76 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.68% |
+| 76 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.65% |
 | 77 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.61% |
 | 78 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 79 | [Lamentum](games/l/lamentum.md) | 2.56% |
@@ -110,9 +110,9 @@
 | 107 | [Trifox](games/t/trifox.md) | 1.11% |
 | 109 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.05% |
 | 110 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.02% |
-| 111 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.01% |
 | 111 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
-| 113 | [Adios](games/a/adios.md) | 1.00% |
+| 112 | [Adios](games/a/adios.md) | 1.00% |
+| 112 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.00% |
 | 114 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 114 | [Sable](games/s/sable.md) | 0.98% |
 | 116 | [Hades](games/h/hades.md) | 0.90% |
