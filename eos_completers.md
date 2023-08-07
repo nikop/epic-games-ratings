@@ -52,7 +52,7 @@
 | 50 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.57% |
 | 52 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
-| 53 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.24% |
+| 53 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.23% |
 | 54 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.00% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.71% |
@@ -102,7 +102,7 @@
 | 100 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.47% |
 | 100 | [Ten Dates](games/t/ten_dates.md) | 1.47% |
 | 102 | [Poosh XL](games/p/poosh_xl.md) | 1.44% |
-| 103 | [Five Dates](games/f/five_dates.md) | 1.41% |
+| 103 | [Five Dates](games/f/five_dates.md) | 1.40% |
 | 104 | [Late Shift](games/l/late_shift.md) | 1.32% |
 | 105 | [Chorus](games/c/chorus.md) | 1.16% |
 | 106 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.14% |
@@ -117,7 +117,7 @@
 | 114 | [Sable](games/s/sable.md) | 0.98% |
 | 116 | [Hades](games/h/hades.md) | 0.90% |
 | 117 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 118 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 118 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 119 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
 | 120 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 121 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
@@ -141,9 +141,9 @@
 | 138 | [The Surge 2](games/t/the_surge_2.md) | 0.51% |
 | 140 | [Them and Us](games/t/them_and_us.md) | 0.49% |
 | 141 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
+| 141 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.47% |
 | 141 | [Train Valley](games/t/train_valley.md) | 0.47% |
-| 143 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.46% |
-| 143 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
+| 144 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
 | 145 | [Tchia](games/t/tchia.md) | 0.45% |
 | 145 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.45% |
 | 147 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.43% |
