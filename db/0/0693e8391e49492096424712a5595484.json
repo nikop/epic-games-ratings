@@ -3,9 +3,9 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 239,
-  "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Completed": 39,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 375,
-  "EOS_Completed": 23,
-  "EOS_NewPlayers": 94,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.13,
+  "EOS_Completed": 24,
+  "EOS_NewPlayers": 93,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 6.4,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -1326,6 +1326,11 @@
       "Time": "2023-08-07T03:07:16.3358653+00:00",
       "NumProgressed": 375,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-08-07T13:11:59.1182605+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 45,
@@ -1391,9 +1396,9 @@
       "ID": "BearSword",
       "SetID": "db30heh",
       "Name": "Full Deck",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "BeggarWomanCoin",
@@ -1697,13 +1702,13 @@
       "ID": "db30heh",
       "IsBase": true,
       "Progressed": 375,
-      "Completed": 23
+      "Completed": 24
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-07T12:07:03.9592733+00:00",
+  "LastChanged_Achievements": "2023-08-07T13:11:59.1182599+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-07T11:57:43.3266027+00:00",
-  "LastUpdate_Achievements": "2023-08-07T12:07:03.9593181+00:00"
+  "LastUpdate_Ratings": "2023-08-07T13:03:14.6346437+00:00",
+  "LastUpdate_Achievements": "2023-08-07T13:11:59.1183073+00:00"
 }

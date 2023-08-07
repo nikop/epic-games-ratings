@@ -14,10 +14,10 @@ Number of Ratings: 371  (23.09.2022)
 | Blood for the Blood God! | 2.00% | ~63 |
 | Purging Spree | 2.00% | ~63 |
 | Bloodless | 2.00% | ~63 |
+| Honoured Battle-Brother | 1.00% | ~31 |
 | Surgical Excision | 1.00% | ~31 |
 | Friendly Fire | 1.00% | ~31 |
 | A Foul Creche | 1.00% | ~31 |
-| Honoured Battle-Brother | 0.90% | ~28 |
 | The Emperor Protects | 0.90% | ~28 |
 | Nemesis Master | 0.80% | ~25 |
 | Gunmaster | 0.80% | ~25 |
@@ -27,6 +27,7 @@ Number of Ratings: 371  (23.09.2022)
 | Corruption Cleanser | 0.50% | ~16 |
 | Hive Exterminator | 0.50% | ~16 |
 | Tactical Sabotage | 0.40% | ~13 |
+| Patron of Deimos | 0.30% | ~9 |
 | Daemonkeeper | 0.30% | ~9 |
 | Mind Like a Fortress | 0.30% | ~9 |
 | Efficient Killer | 0.30% | ~9 |
@@ -35,7 +36,6 @@ Number of Ratings: 371  (23.09.2022)
 | A Gift Spurned | 0.30% | ~9 |
 | Long Distance Call | 0.30% | ~9 |
 | Tactical Flexibility | 0.30% | ~9 |
-| Patron of Deimos | 0.20% | ~6 |
 | Fleetmaster | 0.20% | ~6 |
 | For the Machine God | 0.20% | ~6 |
 | Strike Force | 0.20% | ~6 |

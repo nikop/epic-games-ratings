@@ -23,17 +23,17 @@
 | Pal of your father? | 65.00% | ~151 |
 | Employee of the month | 64.00% | ~149 |
 | Spirit of the past | 62.00% | ~144 |
-| Law student | 60.00% | ~140 |
+| Law student | 61.00% | ~142 |
 | Little hacker | 58.00% | ~135 |
+| It's good to be alive | 58.00% | ~135 |
 | Intriguing candies | 58.00% | ~135 |
 | Workout professional | 57.00% | ~133 |
-| It's good to be alive | 57.00% | ~133 |
 | Own four walls | 57.00% | ~133 |
 | Handyman | 56.00% | ~130 |
 | Champion – starter pack | 56.00% | ~130 |
 | Employee of the year | 55.00% | ~128 |
 | Fight for life | 54.00% | ~126 |
-| Legal courier | 51.00% | ~119 |
+| Legal courier | 52.00% | ~121 |
 | Extreme neuropower! | 51.00% | ~119 |
 | Escaped from a big trouble | 49.00% | ~114 |
 | Now you are worthy | 45.00% | ~105 |
@@ -46,30 +46,30 @@
 | Get out of my apartment! | 38.00% | ~89 |
 | Responsible approach | 38.00% | ~89 |
 | Poisoned fighter | 37.00% | ~86 |
+| Deal with life | 36.00% | ~84 |
 | GYM professional | 36.00% | ~84 |
 | Underground dwellers | 36.00% | ~84 |
-| Deal with life | 35.00% | ~82 |
 | Mom got better | 34.00% | ~79 |
 | The die is cast | 34.00% | ~79 |
 | Seashell hunter | 34.00% | ~79 |
 | Gang wrangler | 32.00% | ~75 |
 | Problems of cyborgs | 31.00% | ~72 |
 | Undercover robot | 31.00% | ~72 |
+| Not little hacker | 30.00% | ~70 |
+| Absolute Champion! | 30.00% | ~70 |
 | The last bell ring | 30.00% | ~70 |
+| Careerist | 30.00% | ~70 |
 | The lonesome road | 29.00% | ~68 |
+| Keep nature safe | 29.00% | ~68 |
 | Key memories | 29.00% | ~68 |
-| Not little hacker | 29.00% | ~68 |
-| Absolute Champion! | 29.00% | ~68 |
-| Careerist | 29.00% | ~68 |
 | Anyone can resist | 29.00% | ~68 |
 | The heart of the Resistance | 29.00% | ~68 |
 | Trap disarmed | 28.00% | ~65 |
 | Another world | 28.00% | ~65 |
-| Keep nature safe | 28.00% | ~65 |
 | Family comes first | 28.00% | ~65 |
 | Silver’s past | 25.00% | ~58 |
+| Better cooking at home | 25.00% | ~58 |
 | The only right decision | 25.00% | ~58 |
-| Better cooking at home | 24.00% | ~56 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 233 (Ranked 273)  
 Completed: 8 (3.43%) (Ranked 60)  

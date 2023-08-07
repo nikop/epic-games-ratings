@@ -66,13 +66,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.70% | ~93 |
 | Learn to Play 2 | 0.70% | ~93 |
 | Egyptian Paganism | 0.70% | ~93 |
+| Mythology | 0.70% | ~93 |
 | Valiant | 0.60% | ~80 |
 | Champions | 0.60% | ~80 |
 | Sages | 0.60% | ~80 |
 | Acropolis | 0.60% | ~80 |
 | Mausoleum | 0.60% | ~80 |
 | Greece | 0.60% | ~80 |
-| Mythology | 0.60% | ~80 |
 | Points Victory | 0.60% | ~80 |
 | Hanging Gardens in Babylon | 0.50% | ~67 |
 | Beloved | 0.50% | ~67 |
@@ -84,6 +84,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.50% | ~67 |
 | Traders | 0.50% | ~67 |
 | Temple of Solomon | 0.50% | ~67 |
+| Pantheon | 0.50% | ~67 |
 | Via Recta Souk | 0.50% | ~67 |
 | Persian Paganism | 0.50% | ~67 |
 | Building Wonders | 0.50% | ~67 |
@@ -103,7 +104,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.40% | ~53 |
 | Church of the Holy Sepulchre | 0.40% | ~53 |
 | Adur Burzen-Mihr | 0.40% | ~53 |
-| Pantheon | 0.40% | ~53 |
 | Learn to Play 3 | 0.40% | ~53 |
 | Babylonia | 0.40% | ~53 |
 | Carthage | 0.40% | ~53 |

@@ -2,13 +2,13 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 916,
+  "Ranking_Rating": 915,
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5626,10 +5626,10 @@
       "Count": 3345
     }
   ],
-  "EOS_Progressed": 219567,
+  "EOS_Progressed": 219580,
   "EOS_Completed": 2160,
-  "EOS_NewPlayers": 2211,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 2213,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -17386,6 +17386,11 @@
       "Time": "2023-08-07T12:02:01.708995+00:00",
       "NumProgressed": 219567,
       "NumCompleted": 2160
+    },
+    {
+      "Time": "2023-08-07T13:08:17.7108703+00:00",
+      "NumProgressed": 219580,
+      "NumCompleted": 2160
     }
   ],
   "TotalAchievements": 512,
@@ -17405,7 +17410,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "objective_completed_100",
@@ -18077,7 +18082,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "objective_completed_1164",
@@ -18099,9 +18104,9 @@
       "ID": "objective_completed_1168",
       "SetID": "415jc5c",
       "Name": "Vecna Loots!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1673
     },
     {
       "ID": "objective_completed_1169",
@@ -21421,7 +21426,7 @@
       "Name": "Rocky Reception",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "objective_completed_1376",
@@ -21437,7 +21442,7 @@
       "Name": "Rock and Roll",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "objective_completed_1381",
@@ -21492,21 +21497,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185841,
+      "Progressed": 185854,
       "Completed": 3065
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219567,
+      "Progressed": 219580,
       "Completed": 2160
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-07T11:59:17.6887797+00:00",
-  "LastChanged_Achievements": "2023-08-07T12:02:01.7089945+00:00",
+  "LastChanged_Achievements": "2023-08-07T13:08:17.7108699+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-07T11:59:17.6887803+00:00",
-  "LastUpdate_Achievements": "2023-08-07T12:02:01.7113422+00:00"
+  "LastUpdate_Ratings": "2023-08-07T13:04:28.6305873+00:00",
+  "LastUpdate_Achievements": "2023-08-07T13:08:17.7139888+00:00"
 }

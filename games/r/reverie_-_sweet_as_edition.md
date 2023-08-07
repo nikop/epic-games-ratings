@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Not Your Standard Weapon | 100.00% | ~2 |
-| We All Need a Hobby | 100.00% | ~2 |
+| Not Your Standard Weapon | 100.00% | ~3 |
+| We All Need a Hobby | 100.00% | ~3 |
 | Ornithologist | 0.00% | ~0 |
 | Where Does He Fit Them All? | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
@@ -40,10 +40,11 @@
 | Just Like Captain Cook | 0.00% | ~0 |
 | Wind it Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 467)  
+Progressed: 3 (Ranked 461)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-06-28 | 1 | 0 |
 | 2023-07-01 | 2 | 0 |
+| 2023-08-07 | 3 | 0 |

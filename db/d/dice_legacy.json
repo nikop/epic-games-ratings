@@ -1373,9 +1373,9 @@
       "ID": "CHALLENGE_ITALY",
       "SetID": "6ohhfoc",
       "Name": "Red Tape",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CHALLENGE_MEGARANDOM",
@@ -1637,9 +1637,9 @@
       "ID": "WINMATCHWITH_SAINT",
       "SetID": "6ohhfoc",
       "Name": "The Incarnate",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WINMATCHWITH_SCIENTIST",
@@ -1702,8 +1702,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-08-07T12:05:40.5890277+00:00",
+  "LastChanged_Achievements": "2023-08-07T13:10:44.8077265+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:24.6012935+00:00",
-  "LastUpdate_Ratings": "2023-08-07T11:58:41.504236+00:00",
-  "LastUpdate_Achievements": "2023-08-07T12:05:40.5890615+00:00"
+  "LastUpdate_Ratings": "2023-08-07T13:04:04.4220188+00:00",
+  "LastUpdate_Achievements": "2023-08-07T13:10:44.8077735+00:00"
 }

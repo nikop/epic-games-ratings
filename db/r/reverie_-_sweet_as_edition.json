@@ -2,9 +2,9 @@
   "ID": "82aad7acf5384a5ba5d00d4549819260",
   "Name": "Reverie - Sweet As Edition",
   "ProductSlug": "reverie-sweet-as-edition-a2f649",
-  "Ranking_EOS_Progress": 467,
+  "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-28T08:00:00+00:00",
@@ -19,7 +19,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -33,6 +33,11 @@
     {
       "Time": "2023-07-01T02:39:50.1591257+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-07T13:09:47.0447839+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -94,7 +99,7 @@
       "Name": "Not Your Standard Weapon",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DartGun",
@@ -150,7 +155,7 @@
       "Name": "We All Need a Hobby",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "FinishGame",
@@ -325,13 +330,13 @@
     {
       "ID": "d3o713f",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:48.1130388+00:00",
-  "LastChanged_Achievements": "2023-08-07T12:04:23.0604278+00:00",
+  "LastChanged_Achievements": "2023-08-07T13:09:47.0447834+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:28.5122184+00:00",
-  "LastUpdate_Ratings": "2023-08-07T12:00:54.883135+00:00",
-  "LastUpdate_Achievements": "2023-08-07T12:04:23.0604477+00:00"
+  "LastUpdate_Ratings": "2023-08-07T13:05:43.0069457+00:00",
+  "LastUpdate_Achievements": "2023-08-07T13:09:47.0448122+00:00"
 }

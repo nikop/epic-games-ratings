@@ -4,7 +4,7 @@
   "ProductSlug": "smelogs-playground-a953e3",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-01T20:56:49.9408704+00:00",
-  "LastUpdate_Ratings": "2023-08-07T11:57:30.8708042+00:00",
-  "LastUpdate_Achievements": "2023-08-07T12:04:26.7149958+00:00"
+  "LastUpdate_Ratings": "2023-08-07T13:03:04.8109466+00:00",
+  "LastUpdate_Achievements": "2023-08-07T13:09:50.2368489+00:00"
 }

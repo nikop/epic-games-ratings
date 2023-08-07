@@ -32,12 +32,12 @@ Rating: 4.27 (Ranked 806)
 | The Great Winter | 0.50% | ~5 |
 | Charismatic Leader | 0.50% | ~5 |
 | Metropolis | 0.50% | ~5 |
-| Red Tape | 0.30% | ~3 |
+| Red Tape | 0.40% | ~4 |
 | Knowledge is Power | 0.30% | ~3 |
+| The Incarnate | 0.30% | ~3 |
 | Ice and Fire | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |
 | It's spreading | 0.20% | ~2 |
-| The Incarnate | 0.20% | ~2 |
 | The experiment | 0.10% | ~1 |
 | The Flail | 0.10% | ~1 |
 | Aesthetics | 0.00% | ~0 |

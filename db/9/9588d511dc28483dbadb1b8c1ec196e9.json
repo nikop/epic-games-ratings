@@ -4,7 +4,7 @@
   "ProductSlug": "tri6-infinite-3ac4cc",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -282,8 +282,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-02T08:01:17.6787047+00:00",
-  "LastChanged_Achievements": "2023-08-07T12:05:48.2500733+00:00",
+  "LastChanged_Achievements": "2023-08-07T13:10:51.3679791+00:00",
   "LastUpdate_AppInfo": "2023-08-06T10:57:00.394735+00:00",
-  "LastUpdate_Ratings": "2023-08-07T11:57:39.4780659+00:00",
-  "LastUpdate_Achievements": "2023-08-07T12:05:48.2500872+00:00"
+  "LastUpdate_Ratings": "2023-08-07T13:03:12.3102814+00:00",
+  "LastUpdate_Achievements": "2023-08-07T13:10:51.3679983+00:00"
 }

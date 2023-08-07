@@ -31,6 +31,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ascended | 0.20% | ~268 |
 | Research & Development | 0.20% | ~268 |
 | Vanity, Verily | 0.20% | ~268 |
+| Big Game Hunting | 0.20% | ~268 |
 | Fated Encounters | 0.20% | ~268 |
 | Blank Page Syndrome | 0.20% | ~268 |
 | Master of Transmutation | 0.20% | ~268 |
@@ -59,7 +60,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tax not Included | 0.10% | ~134 |
 | The King's Caprice | 0.10% | ~134 |
 | Thirst for Knowledge | 0.10% | ~134 |
-| Big Game Hunting | 0.10% | ~134 |
 | Bane of Legends | 0.10% | ~134 |
 | For the Hoard! | 0.10% | ~134 |
 | Booty by the Boatload | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,063 (Ranked 63)  
+Progressed: 134,068 (Ranked 63)  
 Completed: 130 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,15 +228,15 @@ Completed: 130 (0.10%) (Ranked 199)
 | 2023-08-04 | 133,890 | 128 |
 | 2023-08-05 | 133,956 | 128 |
 | 2023-08-06 | 134,025 | 129 |
-| 2023-08-07 | 134,063 | 130 |
+| 2023-08-07 | 134,068 | 130 |
 ## Awards
 Max (Great for Beginners): 4,691  (Ranked 70)  
-Sum: 27,060 (Ranked 46)  
+Sum: 27,062 (Ranked 46)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,691 |
-| This game is Relaxing | 3,992 |
+| This game is Relaxing | 3,994 |
 | This game has Quickly Understood Controls | 3,982 |
 | This game has Diverse Characters | 3,847 |
 | This game is Highly Recommended | 3,730 |
@@ -441,4 +441,4 @@ Diff (max vs sum): 24
 | 2023-08-04 | 3.99 | - | 4,686 | 27,045 |
 | 2023-08-05 | 3.99 | - | 4,688 | 27,051 |
 | 2023-08-06 | 3.99 | - | 4,688 | 27,057 |
-| 2023-08-07 | 3.99 | - | 4,691 | 27,060 |
+| 2023-08-07 | 3.99 | - | 4,691 | 27,062 |
