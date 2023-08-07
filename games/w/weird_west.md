@@ -28,10 +28,10 @@ Number of Ratings: 125  (23.09.2022)
 | For Balance | 15.00% | ~269 |
 | Dog Days | 13.00% | ~233 |
 | Out on the Ebb Tide | 13.00% | ~233 |
+| Workers' Rights | 13.00% | ~233 |
 | Elusive Prey | 12.00% | ~215 |
 | Power Behind the Pulpit | 12.00% | ~215 |
 | Turning the Tables | 12.00% | ~215 |
-| Workers' Rights | 12.00% | ~215 |
 | Something Wicked This Way Comes… | 11.00% | ~197 |
 | There is Hope | 11.00% | ~197 |
 | The Philosopher’s Stone | 10.00% | ~179 |

@@ -36,9 +36,9 @@ Rating: 4.40 (Ranked 696)
 | The Watchers | 21.00% | ~285 |
 | Silent but Violent | 18.00% | ~244 |
 | Commando | 16.00% | ~217 |
+| Dr Jones | 16.00% | ~217 |
 | Newtonian Knockout | 16.00% | ~217 |
 | Chaos Theory | 15.00% | ~204 |
-| Dr Jones | 15.00% | ~204 |
 | Ruthless | 14.00% | ~190 |
 | Side Order | 10.00% | ~136 |
 | Chain Reaction | 9.00% | ~122 |

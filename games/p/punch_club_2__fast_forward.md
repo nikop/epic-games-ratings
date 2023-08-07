@@ -14,9 +14,9 @@
 | First defeat | 76.00% | ~178 |
 | Depressed visitor | 76.00% | ~178 |
 | Neurotrainer – power gainer! | 76.00% | ~178 |
-| Employee of the week | 75.00% | ~176 |
+| Employee of the week | 76.00% | ~178 |
 | Your own amateur gym | 74.00% | ~173 |
-| Run K, run! | 72.00% | ~168 |
+| Run K, run! | 73.00% | ~171 |
 | Fighting is cool | 68.00% | ~159 |
 | Hello, world! | 68.00% | ~159 |
 | No bullying more | 67.00% | ~157 |
@@ -35,20 +35,20 @@
 | Fight for life | 54.00% | ~126 |
 | Legal courier | 52.00% | ~122 |
 | Extreme neuropower! | 51.00% | ~119 |
-| Escaped from a big trouble | 49.00% | ~115 |
+| Escaped from a big trouble | 50.00% | ~117 |
 | Now you are worthy | 45.00% | ~105 |
 | Guiding on the right path | 45.00% | ~105 |
+| Fight is life | 44.00% | ~103 |
 | No blades in the gym | 44.00% | ~103 |
-| Fight is life | 43.00% | ~101 |
 | Mysterious voice | 43.00% | ~101 |
 | Your own way | 41.00% | ~96 |
 | Champion – no way back | 38.00% | ~89 |
 | Get out of my apartment! | 38.00% | ~89 |
 | Responsible approach | 38.00% | ~89 |
 | Poisoned fighter | 37.00% | ~87 |
+| Deal with life | 36.00% | ~84 |
 | GYM professional | 36.00% | ~84 |
 | Underground dwellers | 36.00% | ~84 |
-| Deal with life | 35.00% | ~82 |
 | Mom got better | 34.00% | ~80 |
 | The die is cast | 34.00% | ~80 |
 | Seashell hunter | 34.00% | ~80 |

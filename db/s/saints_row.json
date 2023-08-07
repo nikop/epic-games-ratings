@@ -3136,10 +3136,16 @@
       "Rating": 3.78,
       "NumberOfAwards": 8551,
       "NumberOfAwardsMax": 1052
+    },
+    {
+      "Time": "2023-08-07T17:59:49.4834942+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 8552,
+      "NumberOfAwardsMax": 1052
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8551,
+  "NumberOfAwards": 8552,
   "NumberOfAwardsMax": 1052,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -3195,7 +3201,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 592
+      "Count": 593
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3204,9 +3210,9 @@
       "Count": 1052
     }
   ],
-  "EOS_Progressed": 60314,
+  "EOS_Progressed": 60315,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 1868,
+  "EOS_NewPlayers": 1854,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -15069,6 +15075,11 @@
       "Time": "2023-08-07T17:03:52.8481926+00:00",
       "NumProgressed": 60314,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-08-07T18:02:28.151104+00:00",
+      "NumProgressed": 60315,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 53,
@@ -15112,7 +15123,7 @@
       "Name": "Hijacked",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6031
+      "UsersEstimate": 6032
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -15272,7 +15283,7 @@
       "Name": "Masters of Santo Ileso",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6031
+      "UsersEstimate": 6032
     },
     {
       "ID": "empire_tier_5",
@@ -15328,7 +15339,7 @@
       "Name": "Performance Review",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 19300
+      "UsersEstimate": 19301
     },
     {
       "ID": "hit_max_level",
@@ -15352,7 +15363,7 @@
       "Name": "Picking Fights",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 10253
+      "UsersEstimate": 10254
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -15360,7 +15371,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14475
+      "UsersEstimate": 14476
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -15432,7 +15443,7 @@
       "Name": "Food for Thought",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14475
+      "UsersEstimate": 14476
     },
     {
       "ID": "two_thirds_purple",
@@ -15464,7 +15475,7 @@
       "Name": "To The Nines",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22316
+      "UsersEstimate": 22317
     },
     {
       "ID": "whole_map_purple",
@@ -15503,22 +15514,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 60314,
+      "Progressed": 60315,
       "Completed": 33
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 31951,
-      "Completed": 3008
+      "Progressed": 31952,
+      "Completed": 3009
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
-  "LastChanged": "2023-08-05T19:02:00.718882+00:00",
-  "LastChanged_Achievements": "2023-08-07T17:03:52.848192+00:00",
+  "LastChanged": "2023-08-07T17:59:49.4834941+00:00",
+  "LastChanged_Achievements": "2023-08-07T18:02:28.1511035+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:40.2230055+00:00",
-  "LastUpdate_Ratings": "2023-08-07T17:01:56.6228691+00:00",
-  "LastUpdate_Achievements": "2023-08-07T17:03:52.8483644+00:00"
+  "LastUpdate_Ratings": "2023-08-07T17:59:49.4834948+00:00",
+  "LastUpdate_Achievements": "2023-08-07T18:02:28.151193+00:00"
 }

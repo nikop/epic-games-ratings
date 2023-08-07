@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34589,
+  "EOS_Progressed": 34590,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -10269,6 +10269,11 @@
       "Time": "2023-08-07T17:06:45.838112+00:00",
       "NumProgressed": 34589,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-08-07T18:04:56.9377675+00:00",
+      "NumProgressed": 34590,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 14,
@@ -10280,7 +10285,7 @@
       "Name": "100 Stars",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "150stars",
@@ -10360,7 +10365,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 8647
+      "UsersEstimate": 8648
     },
     {
       "ID": "firstItem",
@@ -10391,15 +10396,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 34589,
+      "Progressed": 34590,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-08-07T17:06:45.8381115+00:00",
+  "LastChanged_Achievements": "2023-08-07T18:04:56.937767+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:19.3070708+00:00",
-  "LastUpdate_Ratings": "2023-08-07T16:57:39.2164086+00:00",
-  "LastUpdate_Achievements": "2023-08-07T17:06:45.8382246+00:00"
+  "LastUpdate_Ratings": "2023-08-07T17:57:00.9905973+00:00",
+  "LastUpdate_Achievements": "2023-08-07T18:04:56.937823+00:00"
 }

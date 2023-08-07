@@ -254,7 +254,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3038,
+  "EOS_Progressed": 3039,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -4389,6 +4389,11 @@
       "Time": "2023-08-07T17:07:28.0726354+00:00",
       "NumProgressed": 3038,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-07T18:05:27.7825296+00:00",
+      "NumProgressed": 3039,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4512,7 +4517,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "ACH_BASE_25",
@@ -4526,9 +4531,9 @@
       "ID": "ACH_BASE_26",
       "SetID": "92iocjf",
       "Name": "Sightseeing",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_BASE_27",
@@ -4536,7 +4541,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_BASE_28",
@@ -4568,7 +4573,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_BASE_31",
@@ -4608,7 +4613,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_BASE_36",
@@ -4855,13 +4860,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1220,
+      "Progressed": 1221,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3038,
+      "Progressed": 3039,
       "Completed": 0
     }
   ],
@@ -4869,8 +4874,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-08-07T17:07:28.0726349+00:00",
+  "LastChanged_Achievements": "2023-08-07T18:05:27.782529+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:23.7106164+00:00",
-  "LastUpdate_Ratings": "2023-08-07T17:00:23.8819011+00:00",
-  "LastUpdate_Achievements": "2023-08-07T17:07:28.0727315+00:00"
+  "LastUpdate_Ratings": "2023-08-07T17:58:48.1081977+00:00",
+  "LastUpdate_Achievements": "2023-08-07T18:05:27.782595+00:00"
 }

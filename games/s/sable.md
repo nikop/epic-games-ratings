@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,466 |
 | Vivacious Vivarium | 2.00% | ~1,644 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,199 (Ranked 72)  
+Progressed: 82,201 (Ranked 72)  
 Completed: 803 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 803 (0.98%) (Ranked 114)
 | 2023-08-04 | 81,566 | 796 |
 | 2023-08-05 | 81,821 | 799 |
 | 2023-08-06 | 82,071 | 802 |
-| 2023-08-07 | 82,199 | 803 |
+| 2023-08-07 | 82,201 | 803 |
 ## Awards
 Max (Quickly Understood Controls): 20  (Ranked 506)  
 Sum: 20 (Ranked 506)  

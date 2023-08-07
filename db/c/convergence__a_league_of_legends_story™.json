@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 826,
+  "EOS_Progressed": 827,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.61,
+  "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
     {
       "Time": "2023-05-23T23:05:09.8369672+00:00",
@@ -1955,6 +1955,11 @@
       "Time": "2023-08-06T19:05:40.8592382+00:00",
       "NumProgressed": 826,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-07T18:04:22.0720668+00:00",
+      "NumProgressed": 827,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -1974,7 +1979,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2044,9 +2049,9 @@
       "ID": "CultivairChests1",
       "SetID": "a9e499d",
       "Name": "Cultivair Explorer",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 58
     },
     {
       "ID": "EntresolChests1",
@@ -2126,7 +2131,7 @@
       "Name": "Rail Rat",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "HexlockGift",
@@ -2206,7 +2211,7 @@
       "Name": "Time Flies",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ParryBoss",
@@ -2214,7 +2219,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ParryRepeated1",
@@ -2222,7 +2227,7 @@
       "Name": "No, Thanks!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2230,7 +2235,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2254,7 +2259,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "RewindParry",
@@ -2262,7 +2267,7 @@
       "Name": "Honest Mistake",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2350,7 +2355,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "WatcherFought",
@@ -2374,7 +2379,7 @@
       "Name": "The Brass Boss",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2389,7 +2394,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 826,
+      "Progressed": 827,
       "Completed": 5
     }
   ],
@@ -2397,8 +2402,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-07T17:05:58.1296574+00:00",
+  "LastChanged_Achievements": "2023-08-07T18:04:22.0720662+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:20.0210953+00:00",
-  "LastUpdate_Ratings": "2023-08-07T17:01:27.5244652+00:00",
-  "LastUpdate_Achievements": "2023-08-07T17:05:58.1297187+00:00"
+  "LastUpdate_Ratings": "2023-08-07T17:59:29.6540804+00:00",
+  "LastUpdate_Achievements": "2023-08-07T18:04:22.0721122+00:00"
 }

@@ -22,9 +22,9 @@
 | Modern Player | 7.00% | ~14 |
 | Rest In Peace | 7.00% | ~14 |
 | The Curse Is Real | 7.00% | ~14 |
+| Researcher | 6.00% | ~12 |
+| I Am The Gate Keeper! | 6.00% | ~12 |
 | What A Mansion | 6.00% | ~12 |
-| Researcher | 5.00% | ~10 |
-| I Am The Gate Keeper! | 5.00% | ~10 |
 | The bus stop | 3.00% | ~6 |
 | This Mansion Is Clean | 3.00% | ~6 |
 | Armed To The Teeth | 2.00% | ~4 |

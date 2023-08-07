@@ -1754,9 +1754,9 @@
       "ID": "ID_29_HERO_FOR_ALL",
       "SetID": "7o8nc5m",
       "Name": "Everyone\u0027s Hero",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 247
+      "UsersEstimate": 251
     },
     {
       "ID": "ID_30_TRANSFORM_SUPER_SONIC",
@@ -1818,8 +1818,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-08-03T04:58:59.3110812+00:00",
-  "LastChanged_Achievements": "2023-08-07T17:04:56.8588778+00:00",
+  "LastChanged_Achievements": "2023-08-07T18:03:36.654024+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:33.3514528+00:00",
-  "LastUpdate_Ratings": "2023-08-07T16:59:30.5343616+00:00",
-  "LastUpdate_Achievements": "2023-08-07T17:04:56.8589171+00:00"
+  "LastUpdate_Ratings": "2023-08-07T17:58:10.1782697+00:00",
+  "LastUpdate_Achievements": "2023-08-07T18:03:36.6540567+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1064,9 +1064,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15824,
+  "EOS_Progressed": 15826,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -6294,6 +6294,11 @@
       "Time": "2023-08-07T12:03:48.1708417+00:00",
       "NumProgressed": 15824,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-08-07T18:03:23.4522673+00:00",
+      "NumProgressed": 15826,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 47,
@@ -6313,7 +6318,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -6321,7 +6326,7 @@
       "Name": "Giving Back",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -6369,7 +6374,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -6441,7 +6446,7 @@
       "Name": "Terminated",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -6449,7 +6454,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -6457,7 +6462,7 @@
       "Name": "The Commonality",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -6497,7 +6502,7 @@
       "Name": "The Outer Way",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "STORY_ESCAPE",
@@ -6505,7 +6510,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "STORY_HABITAT",
@@ -6513,7 +6518,7 @@
       "Name": "Without A Paddle",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "STORY_HANGAR",
@@ -6529,7 +6534,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -6537,7 +6542,7 @@
       "Name": "Desperate Times",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -6665,7 +6670,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -6680,13 +6685,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15824,
+      "Progressed": 15826,
       "Completed": 71
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3750,
+      "Progressed": 3752,
       "Completed": 29
     }
   ],
@@ -6694,8 +6699,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-08-06T22:58:59.3849893+00:00",
-  "LastChanged_Achievements": "2023-08-07T17:04:38.3933773+00:00",
+  "LastChanged_Achievements": "2023-08-07T18:03:23.4522663+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:48.8250875+00:00",
-  "LastUpdate_Ratings": "2023-08-07T16:59:47.4789325+00:00",
-  "LastUpdate_Achievements": "2023-08-07T17:04:38.3934831+00:00"
+  "LastUpdate_Ratings": "2023-08-07T17:58:22.4485302+00:00",
+  "LastUpdate_Achievements": "2023-08-07T18:03:23.4523246+00:00"
 }

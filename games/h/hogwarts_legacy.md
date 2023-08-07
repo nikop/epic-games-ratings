@@ -5,19 +5,19 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,751 |
-| First Class Student | 11.00% | ~31,855 |
-| Troll with the Punches | 11.00% | ~31,855 |
-| A Keen Sense of Spell | 10.00% | ~28,959 |
-| That's a Keeper | 10.00% | ~28,959 |
-| Grappling with a Graphorn | 9.00% | ~26,063 |
-| The One Who Mastered Memories | 9.00% | ~26,063 |
-| The Hallowed Hero | 9.00% | ~26,063 |
-| The Hero of Hogwarts | 9.00% | ~26,063 |
-| The Defender of Dragons | 9.00% | ~26,063 |
-| Loom for Improvement | 9.00% | ~26,063 |
-| A Talent for Spending | 9.00% | ~26,063 |
-| Coasting Along | 9.00% | ~26,063 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,752 |
+| First Class Student | 11.00% | ~31,856 |
+| Troll with the Punches | 11.00% | ~31,856 |
+| A Keen Sense of Spell | 10.00% | ~28,960 |
+| That's a Keeper | 10.00% | ~28,960 |
+| Grappling with a Graphorn | 9.00% | ~26,064 |
+| The One Who Mastered Memories | 9.00% | ~26,064 |
+| The Hallowed Hero | 9.00% | ~26,064 |
+| The Hero of Hogwarts | 9.00% | ~26,064 |
+| The Defender of Dragons | 9.00% | ~26,064 |
+| Loom for Improvement | 9.00% | ~26,064 |
+| A Talent for Spending | 9.00% | ~26,064 |
+| Coasting Along | 9.00% | ~26,064 |
 | Challenge Accepted | 8.00% | ~23,168 |
 | Followed the Butterflies | 8.00% | ~23,168 |
 | Rising From the Ashes | 8.00% | ~23,168 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,738 |
 | Collector's Edition | 0.30% | ~869 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,594 (Ranked 42)  
+Progressed: 289,599 (Ranked 42)  
 Completed: 443 (0.15%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,10 +160,10 @@ Completed: 443 (0.15%) (Ranked 187)
 | 2023-08-04 | 289,362 | 439 |
 | 2023-08-05 | 289,460 | 442 |
 | 2023-08-06 | 289,549 | 442 |
-| 2023-08-07 | 289,594 | 443 |
+| 2023-08-07 | 289,599 | 443 |
 ## Awards
 Max (Character Customization): 21,567  (Ranked 17)  
-Sum: 40,589 (Ranked 30)  
+Sum: 40,592 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -172,9 +172,9 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 960 |
 | This game is Extremely Fun | 934 |
 | This game is Relaxing | 930 |
-| This game has Amazing Storytelling | 918 |
+| This game has Amazing Storytelling | 919 |
 | This game has Diverse Characters | 917 |
-| This game has Amazing Characters | 897 |
+| This game has Amazing Characters | 899 |
 | This game is Highly Recommended | 870 |
 | This game has Quickly Understood Controls | 832 |
 | This game has Beautiful Visuals | 775 |
@@ -318,4 +318,4 @@ Diff (max vs sum): -13
 | 2023-08-04 | 4.77 | 21,511 | 40,460 |
 | 2023-08-05 | 4.77 | 21,534 | 40,512 |
 | 2023-08-06 | 4.77 | 21,567 | 40,577 |
-| 2023-08-07 | 4.77 | 21,567 | 40,589 |
+| 2023-08-07 | 4.77 | 21,567 | 40,592 |
