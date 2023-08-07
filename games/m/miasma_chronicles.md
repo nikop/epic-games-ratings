@@ -9,7 +9,7 @@ Rating: 4.40 (Ranked 696)
 | Ranidaphobia | 78.00% | ~1,058 |
 | Aspiring Editor | 75.00% | ~1,018 |
 | Gun for Hire | 70.00% | ~950 |
-| I am the law! | 63.00% | ~855 |
+| I am the law! | 64.00% | ~868 |
 | Lumberjack | 52.00% | ~706 |
 | Croaked | 48.00% | ~651 |
 | Limp Richard | 48.00% | ~651 |

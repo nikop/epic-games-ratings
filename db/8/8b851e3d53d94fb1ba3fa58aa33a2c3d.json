@@ -4,8 +4,8 @@
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2021-06-04T19:00:00+00:00",
@@ -368,9 +368,9 @@
       "ID": "MEDUSA_GAZE",
       "SetID": "e4de54",
       "Name": "Medusa gaze",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MEDUSA_SECRET",
@@ -471,8 +471,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-08-07T19:04:30.2405899+00:00",
+  "LastChanged_Achievements": "2023-08-07T20:05:06.287288+00:00",
   "LastUpdate_AppInfo": "2023-08-04T22:57:14.0188097+00:00",
-  "LastUpdate_Ratings": "2023-08-07T18:57:27.392954+00:00",
-  "LastUpdate_Achievements": "2023-08-07T19:04:30.2406243+00:00"
+  "LastUpdate_Ratings": "2023-08-07T19:57:34.4687562+00:00",
+  "LastUpdate_Achievements": "2023-08-07T20:05:06.2873239+00:00"
 }

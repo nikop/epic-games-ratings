@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -280,9 +280,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 1118,
+  "EOS_Progressed": 1119,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
@@ -1630,6 +1630,11 @@
       "Time": "2023-08-07T19:04:55.6792746+00:00",
       "NumProgressed": 1118,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-07T20:05:40.0959174+00:00",
+      "NumProgressed": 1119,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 43,
@@ -1641,7 +1646,7 @@
       "Name": "Demigod",
       "Percentage": 75,
       "XP": 150,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "DieInPermadeath",
@@ -1657,7 +1662,7 @@
       "Name": "Voices from the Past",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "Finish5SideMissions",
@@ -1665,7 +1670,7 @@
       "Name": "Helping Hand",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "FinishAllSideMissions",
@@ -1673,7 +1678,7 @@
       "Name": "Paragon",
       "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "GatlingVsArmor",
@@ -1697,7 +1702,7 @@
       "Name": "Born to Drift",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "KillWithALargeShip",
@@ -1705,7 +1710,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "MasteryOfCombat",
@@ -1729,7 +1734,7 @@
       "Name": "Mastery of Weapons",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "MissionActivateDish",
@@ -1761,7 +1766,7 @@
       "Name": "Uneasy Alliance",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "MissionDefenderOfTheWeak",
@@ -1775,9 +1780,9 @@
       "ID": "MissionDreamsOfThePast",
       "SetID": "a6c395p",
       "Name": "Time to Spear",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 336
     },
     {
       "ID": "MissionEnclaveWarPreparation",
@@ -1785,7 +1790,7 @@
       "Name": "Full Arsenal",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "MissionEosReturn",
@@ -1807,17 +1812,17 @@
       "ID": "MissionHeartOfTheFaceless",
       "SetID": "a6c395p",
       "Name": "Disciple",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 325
     },
     {
       "ID": "MissionHelios",
       "SetID": "a6c395p",
       "Name": "Cult Slayer",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 448
     },
     {
       "ID": "MissionLiberateEnclave",
@@ -1825,7 +1830,7 @@
       "Name": "Safe Home",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -1841,15 +1846,15 @@
       "Name": "Old Days Born Anew",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "MissionPhoenixRediscovery",
       "SetID": "a6c395p",
       "Name": "Ghosts",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 269
     },
     {
       "ID": "MissionSalvage",
@@ -1865,7 +1870,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "MissionShipyard",
@@ -1881,7 +1886,7 @@
       "Name": "The Path Forward",
       "Percentage": 45,
       "XP": 70,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "MissionTemple",
@@ -1897,7 +1902,7 @@
       "Name": "Ascension",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "MissionTheiaStep1",
@@ -1905,7 +1910,7 @@
       "Name": "Origin",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "Overcharge",
@@ -1937,7 +1942,7 @@
       "Name": "Huntress",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "RiteOfTheStar",
@@ -1969,7 +1974,7 @@
       "Name": "Space Traveler",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "WinARace",
@@ -1984,15 +1989,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1118,
+      "Progressed": 1119,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-08-07T19:04:55.6792741+00:00",
+  "LastChanged_Achievements": "2023-08-07T20:05:40.0959166+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:02.342624+00:00",
-  "LastUpdate_Ratings": "2023-08-07T19:00:21.037588+00:00",
-  "LastUpdate_Achievements": "2023-08-07T19:04:55.6793086+00:00"
+  "LastUpdate_Ratings": "2023-08-07T20:01:29.0336147+00:00",
+  "LastUpdate_Achievements": "2023-08-07T20:05:40.0959621+00:00"
 }

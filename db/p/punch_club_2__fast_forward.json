@@ -2,7 +2,7 @@
   "ID": "fb9cd4d7c3cd49108b09aec351470fda",
   "Name": "Punch Club 2: Fast Forward",
   "ProductSlug": "punch-club-2-fast-forward-46d985",
-  "Ranking_EOS_Progress": 271,
+  "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 65,
@@ -1098,9 +1098,9 @@
       "ID": "league_3",
       "SetID": "69co12a",
       "Name": "Absolute Champion!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "lil_bobo_fight",
@@ -1361,8 +1361,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-07T19:03:47.2412432+00:00",
+  "LastChanged_Achievements": "2023-08-07T20:04:13.9431545+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:48.1217165+00:00",
-  "LastUpdate_Ratings": "2023-08-07T18:58:06.7448493+00:00",
-  "LastUpdate_Achievements": "2023-08-07T19:03:47.2412976+00:00"
+  "LastUpdate_Ratings": "2023-08-07T19:58:26.4906556+00:00",
+  "LastUpdate_Achievements": "2023-08-07T20:04:13.9432285+00:00"
 }

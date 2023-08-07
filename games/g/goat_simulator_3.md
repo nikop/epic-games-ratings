@@ -5,29 +5,29 @@ Rating: 4.85 (Ranked 40)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~214,631 |
-| Private Club | 74.00% | ~174,535 |
-| Rogue Guild | 65.00% | ~153,308 |
-| I Watched the Intro | 57.00% | ~134,439 |
-| Covert Consortium | 55.00% | ~129,722 |
-| Goat Queen | 53.00% | ~125,005 |
-| Reach the Stratosphere | 50.00% | ~117,929 |
-| Synchronization Complete | 47.00% | ~110,853 |
-| Secret Society | 45.00% | ~106,136 |
-| Shadow Syndicate | 38.00% | ~89,626 |
-| What a Waste of Money | 33.00% | ~77,833 |
-| New Goat Order | 30.00% | ~70,757 |
-| Don't touch the servers | 28.00% | ~66,040 |
-| San Angora: Become Human | 26.00% | ~61,323 |
-| Raider of the Lost Parking Garage | 26.00% | ~61,323 |
-| Real Buoy | 26.00% | ~61,323 |
-| Welcome to Earth | 25.00% | ~58,964 |
-| Into the Matrix | 19.00% | ~44,813 |
+| Forgotten Sorority | 91.00% | ~214,634 |
+| Private Club | 74.00% | ~174,537 |
+| Rogue Guild | 65.00% | ~153,310 |
+| I Watched the Intro | 57.00% | ~134,441 |
+| Covert Consortium | 55.00% | ~129,724 |
+| Goat Queen | 53.00% | ~125,006 |
+| Reach the Stratosphere | 50.00% | ~117,930 |
+| Synchronization Complete | 47.00% | ~110,855 |
+| Secret Society | 45.00% | ~106,137 |
+| Shadow Syndicate | 38.00% | ~89,627 |
+| What a Waste of Money | 33.00% | ~77,834 |
+| New Goat Order | 30.00% | ~70,758 |
+| Don't touch the servers | 28.00% | ~66,041 |
+| San Angora: Become Human | 26.00% | ~61,324 |
+| Raider of the Lost Parking Garage | 26.00% | ~61,324 |
+| Real Buoy | 26.00% | ~61,324 |
+| Welcome to Earth | 25.00% | ~58,965 |
+| Into the Matrix | 19.00% | ~44,814 |
 | Where is It? | 17.00% | ~40,096 |
 | Egg Simulator | 17.00% | ~40,096 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~35,379 |
-| Black Market | 14.00% | ~33,020 |
-| 401(K.O.) | 14.00% | ~33,020 |
+| Black Market | 14.00% | ~33,021 |
+| 401(K.O.) | 14.00% | ~33,021 |
 | Car Cave | 12.00% | ~28,303 |
 | Club Mohair | 8.00% | ~18,869 |
 | A Center for Ants? | 8.00% | ~18,869 |
@@ -45,7 +45,7 @@ Rating: 4.85 (Ranked 40)
 | Move! That! Bus! | 0.60% | ~1,415 |
 | G.O.A.T | 0.30% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,858 (Ranked 48)  
+Progressed: 235,861 (Ranked 48)  
 Completed: 789 (0.33%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 789 (0.33%) (Ranked 156)
 | 2023-08-04 | 235,423 | 787 |
 | 2023-08-05 | 235,572 | 787 |
 | 2023-08-06 | 235,745 | 789 |
-| 2023-08-07 | 235,858 | 789 |
+| 2023-08-07 | 235,861 | 789 |
 ## Awards
 Max (Great for Beginners): 376  (Ranked 220)  
 Sum: 3,166 (Ranked 154)  

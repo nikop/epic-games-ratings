@@ -41,6 +41,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 1.00% | ~133 |
 | Carthaginian Paganism | 1.00% | ~133 |
 | Greek Paganism | 1.00% | ~133 |
+| Roman Paganism | 1.00% | ~133 |
 | Zoroastrianism | 1.00% | ~133 |
 | Naming Landmarks | 1.00% | ~133 |
 | Trade Caravan | 1.00% | ~133 |
@@ -51,14 +52,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.90% | ~120 |
 | Necropolis | 0.90% | ~120 |
 | Learn to Play 1 | 0.90% | ~120 |
-| Roman Paganism | 0.90% | ~120 |
-| Great | 0.80% | ~106 |
-| Artisans | 0.80% | ~106 |
-| Furious Family | 0.80% | ~106 |
-| Apadana | 0.80% | ~106 |
-| Colossus | 0.80% | ~106 |
-| Musaeum | 0.80% | ~106 |
-| Manichaeism | 0.80% | ~106 |
+| Manichaeism | 0.90% | ~120 |
+| Great | 0.80% | ~107 |
+| Artisans | 0.80% | ~107 |
+| Furious Family | 0.80% | ~107 |
+| Apadana | 0.80% | ~107 |
+| Colossus | 0.80% | ~107 |
+| Musaeum | 0.80% | ~107 |
 | Regicide | 0.70% | ~93 |
 | Drillmaster | 0.70% | ~93 |
 | Intercessor | 0.70% | ~93 |
@@ -88,6 +88,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.50% | ~67 |
 | Persian Paganism | 0.50% | ~67 |
 | Building Wonders | 0.50% | ~67 |
+| Economic Reform | 0.50% | ~67 |
 | Legalism | 0.50% | ~67 |
 | Phalangite | 0.50% | ~67 |
 | Double Victory | 0.50% | ~67 |
@@ -109,10 +110,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.40% | ~53 |
 | Power to the People | 0.40% | ~53 |
 | Assyrian Paganism | 0.40% | ~53 |
-| Economic Reform | 0.40% | ~53 |
 | Dualism | 0.40% | ~53 |
 | Enlightenment | 0.40% | ~53 |
 | Redemption | 0.40% | ~53 |
+| Veneration | 0.40% | ~53 |
 | Cimmerian Archer | 0.40% | ~53 |
 | Legionary | 0.40% | ~53 |
 | Ambition Victory | 0.40% | ~53 |
@@ -132,9 +133,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.30% | ~40 |
 | Gnosticism | 0.30% | ~40 |
 | Revelation | 0.30% | ~40 |
-| Veneration | 0.30% | ~40 |
 | Kushite Cavalry | 0.30% | ~40 |
 | Turreted Elephant | 0.30% | ~40 |
+| All Nations | 0.30% | ~40 |
 | No Undo | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
 | Ancient | 0.20% | ~27 |
@@ -154,7 +155,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.20% | ~27 |
 | Cataphract Archer | 0.20% | ~27 |
 | Three Man Chariot | 0.20% | ~27 |
-| All Nations | 0.20% | ~27 |
 | Conquest Victory | 0.20% | ~27 |
 | Necropolis in Waset | 0.20% | ~27 |
 | Patriarch St Paul | 0.20% | ~27 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,312 (Ranked 117)  
+Progressed: 13,313 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,7 +412,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-04 | 13,269 | 5 |
 | 2023-08-05 | 13,281 | 5 |
 | 2023-08-06 | 13,301 | 5 |
-| 2023-08-07 | 13,312 | 5 |
+| 2023-08-07 | 13,313 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,786 (Ranked 206)  

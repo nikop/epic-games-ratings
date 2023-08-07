@@ -8,12 +8,12 @@ Number of Ratings: 398  (23.09.2022)
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 75.00% | ~3,488 |
 | Un-Lonely Island | 47.00% | ~2,186 |
-| The Beginning of a Servantship | 45.00% | ~2,092 |
-| Trade Is My Trait | 37.00% | ~1,720 |
+| The Beginning of a Servantship | 45.00% | ~2,093 |
+| Trade Is My Trait | 37.00% | ~1,721 |
 | Number 18 | 24.00% | ~1,116 |
 | We Don't Have Time For That | 19.00% | ~884 |
 | The Governator | 18.00% | ~837 |
-| The Legend of Langostino | 17.00% | ~790 |
+| The Legend of Langostino | 17.00% | ~791 |
 | Caribbean Comrade | 16.00% | ~744 |
 | The Dreamer of Dreams | 15.00% | ~698 |
 | Go Sovereigns! | 11.00% | ~512 |
@@ -29,9 +29,9 @@ Number of Ratings: 398  (23.09.2022)
 | Don't Panic! | 6.00% | ~279 |
 | Computer Says "No" | 6.00% | ~279 |
 | Beware The Betman | 6.00% | ~279 |
-| Viva Tropico! | 5.00% | ~232 |
-| Watch The World Burn | 5.00% | ~232 |
-| Fairy Tale Come True | 5.00% | ~232 |
+| Viva Tropico! | 5.00% | ~233 |
+| Watch The World Burn | 5.00% | ~233 |
+| Fairy Tale Come True | 5.00% | ~233 |
 | Been there, Done That | 3.00% | ~140 |
 | Apocalypso | 3.00% | ~140 |
 | Narcissist | 3.00% | ~140 |
@@ -42,12 +42,12 @@ Number of Ratings: 398  (23.09.2022)
 | Sublime Subliminal Supreme | 2.00% | ~93 |
 | Terraformer | 2.00% | ~93 |
 | Curse of the Mummy | 2.00% | ~93 |
-| From Knight to Little Duck | 1.00% | ~46 |
-| Teamplayer | 1.00% | ~46 |
+| From Knight to Little Duck | 1.00% | ~47 |
+| Teamplayer | 1.00% | ~47 |
 | Survivor | 0.90% | ~42 |
 | My Ways | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,650 (Ranked 144)  
+Progressed: 4,651 (Ranked 144)  
 Completed: 2 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 2 (0.04%) (Ranked 220)
 | 2023-08-04 | 4,601 | 2 |
 | 2023-08-05 | 4,621 | 2 |
 | 2023-08-06 | 4,639 | 2 |
-| 2023-08-07 | 4,650 | 2 |
+| 2023-08-07 | 4,651 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 341)  
 Sum: 673 (Ranked 277)  

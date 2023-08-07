@@ -17,7 +17,7 @@ Rating: 4.56 (Ranked 468)
 | School's out | 43.00% | ~160 |
 | Scaffolding Expert | 37.00% | ~138 |
 | Elysian Minigame-Master | 37.00% | ~138 |
-| Sole Music | 35.00% | ~130 |
+| Sole Music | 36.00% | ~134 |
 | No man left behind! | 30.00% | ~112 |
 | Portals come in packs | 30.00% | ~112 |
 | Photo Friend | 26.00% | ~97 |
@@ -27,8 +27,8 @@ Rating: 4.56 (Ranked 468)
 | Quickdraw | 15.00% | ~56 |
 | Thuna...? | 15.00% | ~56 |
 | Monstrous Harassment | 15.00% | ~56 |
+| Heading the inverter | 14.00% | ~52 |
 | Blast from the Past | 14.00% | ~52 |
-| Heading the inverter | 13.00% | ~48 |
 | Play it again, Ronny | 11.00% | ~41 |
 | Goat Team | 10.00% | ~37 |
 | Paradox! | 10.00% | ~37 |

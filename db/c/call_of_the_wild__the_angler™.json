@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -598,7 +598,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4856,
+  "EOS_Progressed": 4857,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -5273,6 +5273,11 @@
       "Time": "2023-08-06T22:04:46.7014968+00:00",
       "NumProgressed": 4856,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-07T20:05:01.0072829+00:00",
+      "NumProgressed": 4857,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -5300,15 +5305,15 @@
       "Name": "Hey Good Hookin",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 3205
+      "UsersEstimate": 3206
     },
     {
       "ID": "ACHIEVEMENT_004",
       "SetID": "1a05lfd",
       "Name": "Ready to Rod and Roll",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 2088
+      "UsersEstimate": 2040
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -5356,7 +5361,7 @@
       "Name": "License to Gill",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -5380,7 +5385,7 @@
       "Name": "Hook, Line and Sinker",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -5396,7 +5401,7 @@
       "Name": "Going for Gold",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -5436,7 +5441,7 @@
       "Name": "Marathon",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACHIEVEMENT_021",
@@ -5563,13 +5568,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4856,
+      "Progressed": 4857,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4228,
+      "Progressed": 4229,
       "Completed": 112
     }
   ],
@@ -5577,8 +5582,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-08-07T01:58:12.280652+00:00",
-  "LastChanged_Achievements": "2023-08-07T19:04:25.3149384+00:00",
+  "LastChanged_Achievements": "2023-08-07T20:05:01.0072821+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:44.5236743+00:00",
-  "LastUpdate_Ratings": "2023-08-07T19:00:07.7779161+00:00",
-  "LastUpdate_Achievements": "2023-08-07T19:04:25.3149825+00:00"
+  "LastUpdate_Ratings": "2023-08-07T20:01:11.0123017+00:00",
+  "LastUpdate_Achievements": "2023-08-07T20:05:01.0073345+00:00"
 }

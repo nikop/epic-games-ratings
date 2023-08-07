@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -137,7 +137,7 @@
   "Tags": [],
   "EOS_Progressed": 337,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1042,9 +1042,9 @@
       "ID": "ACH_COLLECT_50_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Gatherer",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_COOK",
@@ -1106,9 +1106,9 @@
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_KILL_50",
@@ -1162,9 +1162,9 @@
       "ID": "ACH_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Smelter",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -1211,8 +1211,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-08-07T19:03:38.1828682+00:00",
+  "LastChanged_Achievements": "2023-08-07T20:04:01.8062725+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.384525+00:00",
-  "LastUpdate_Ratings": "2023-08-07T18:59:02.1515258+00:00",
-  "LastUpdate_Achievements": "2023-08-07T19:03:38.1828902+00:00"
+  "LastUpdate_Ratings": "2023-08-07T19:59:38.9583342+00:00",
+  "LastUpdate_Achievements": "2023-08-07T20:04:01.8063037+00:00"
 }

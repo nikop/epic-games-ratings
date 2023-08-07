@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3285,
+  "EOS_Progressed": 3286,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3991,6 +3991,11 @@
       "Time": "2023-08-07T09:03:29.000975+00:00",
       "NumProgressed": 3285,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-07T20:03:48.3621669+00:00",
+      "NumProgressed": 3286,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -4066,7 +4071,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -4186,7 +4191,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "ReadyforWinter_42",
@@ -4194,7 +4199,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2102
+      "UsersEstimate": 2103
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4210,7 +4215,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -4337,15 +4342,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3285,
+      "Progressed": 3286,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-08-07T19:03:27.9582422+00:00",
+  "LastChanged_Achievements": "2023-08-07T20:03:48.3621657+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:41.2988144+00:00",
-  "LastUpdate_Ratings": "2023-08-07T18:58:32.805569+00:00",
-  "LastUpdate_Achievements": "2023-08-07T19:03:27.9582853+00:00"
+  "LastUpdate_Ratings": "2023-08-07T19:58:59.5607897+00:00",
+  "LastUpdate_Achievements": "2023-08-07T20:03:48.3622239+00:00"
 }

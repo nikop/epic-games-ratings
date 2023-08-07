@@ -664,9 +664,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11887,
+  "EOS_Progressed": 11888,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -8589,6 +8589,11 @@
       "Time": "2023-08-07T18:00:30.3076015+00:00",
       "NumProgressed": 11887,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-08-07T20:02:23.8979604+00:00",
+      "NumProgressed": 11888,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 35,
@@ -8600,7 +8605,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9628
+      "UsersEstimate": 9629
     },
     {
       "ID": "ACH02",
@@ -8712,7 +8717,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "ACH16",
@@ -8792,7 +8797,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "ACH26",
@@ -8879,7 +8884,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11887,
+      "Progressed": 11888,
       "Completed": 35
     }
   ],
@@ -8887,8 +8892,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-07T00:03:00.7892923+00:00",
-  "LastChanged_Achievements": "2023-08-07T19:02:05.8272923+00:00",
+  "LastChanged_Achievements": "2023-08-07T20:02:23.8979597+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:17.9546727+00:00",
-  "LastUpdate_Ratings": "2023-08-07T19:00:28.9948054+00:00",
-  "LastUpdate_Achievements": "2023-08-07T19:02:05.8273476+00:00"
+  "LastUpdate_Ratings": "2023-08-07T20:01:41.054653+00:00",
+  "LastUpdate_Achievements": "2023-08-07T20:02:23.8980391+00:00"
 }

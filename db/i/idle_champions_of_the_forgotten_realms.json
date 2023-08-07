@@ -5576,10 +5576,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30932,
       "NumberOfAwardsMax": 5121
+    },
+    {
+      "Time": "2023-08-07T19:59:15.1421084+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30936,
+      "NumberOfAwardsMax": 5121
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30932,
+  "NumberOfAwards": 30936,
   "NumberOfAwardsMax": 5121,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5617,7 +5623,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4055
+      "Count": 4059
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5626,9 +5632,9 @@
       "Count": 3345
     }
   ],
-  "EOS_Progressed": 219683,
+  "EOS_Progressed": 219698,
   "EOS_Completed": 2161,
-  "EOS_NewPlayers": 2229,
+  "EOS_NewPlayers": 2225,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17421,6 +17427,11 @@
       "Time": "2023-08-07T19:02:12.9794819+00:00",
       "NumProgressed": 219683,
       "NumCompleted": 2161
+    },
+    {
+      "Time": "2023-08-07T20:02:33.6752532+00:00",
+      "NumProgressed": 219698,
+      "NumCompleted": 2161
     }
   ],
   "TotalAchievements": 512,
@@ -17432,7 +17443,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8787
+      "UsersEstimate": 8788
     },
     {
       "ID": "objective_completed_10",
@@ -17800,7 +17811,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6590
+      "UsersEstimate": 6591
     },
     {
       "ID": "objective_completed_110",
@@ -18766,9 +18777,9 @@
       "ID": "objective_completed_20",
       "SetID": "cc37lbc",
       "Name": "No Time To Rest",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1318
     },
     {
       "ID": "objective_completed_208",
@@ -19104,7 +19115,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "objective_completed_34",
@@ -21527,21 +21538,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185957,
-      "Completed": 3065
+      "Progressed": 185972,
+      "Completed": 3066
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219683,
+      "Progressed": 219698,
       "Completed": 2161
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-07T11:59:17.6887797+00:00",
-  "LastChanged_Achievements": "2023-08-07T19:02:12.9794809+00:00",
+  "LastChanged": "2023-08-07T19:59:15.1421083+00:00",
+  "LastChanged_Achievements": "2023-08-07T20:02:33.6752527+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-07T18:58:43.5190136+00:00",
-  "LastUpdate_Achievements": "2023-08-07T19:02:12.981844+00:00"
+  "LastUpdate_Ratings": "2023-08-07T19:59:15.1421089+00:00",
+  "LastUpdate_Achievements": "2023-08-07T20:02:33.6783976+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,787 |
-| Beast Intentions | 3.00% | ~6,590 |
+| A Brief Tour of the Realms | 4.00% | ~8,788 |
+| Beast Intentions | 3.00% | ~6,591 |
 | Maddening | 2.00% | ~4,394 |
 | The Silken Swamp | 1.00% | ~2,197 |
 | Supply Run | 1.00% | ~2,197 |
@@ -18,7 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flight of the Kindori Pod | 0.90% | ~1,674 |
 | Tall Tales | 0.80% | ~1,488 |
 | Seeds of Destruction | 0.80% | ~1,488 |
-| The Cursed Farmer | 0.80% | ~1,757 |
+| The Cursed Farmer | 0.80% | ~1,758 |
 | Topolah's Tower | 0.80% | ~1,488 |
 | Pros and CONs | 0.70% | ~1,538 |
 | Wet Feet | 0.70% | ~1,538 |
@@ -39,6 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.60% | ~1,116 |
 | Beast Mode | 0.60% | ~1,318 |
 | Low Initiative | 0.60% | ~1,318 |
+| No Time To Rest | 0.60% | ~1,318 |
 | The Mists of Ravenloft | 0.60% | ~1,318 |
 | The Dinner Party | 0.60% | ~1,318 |
 | The Botched Kidnapping | 0.60% | ~1,318 |
@@ -49,7 +50,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friends of the Forest | 0.50% | ~1,098 |
 | Street War | 0.50% | ~1,098 |
 | March of the Undead | 0.50% | ~1,098 |
-| No Time To Rest | 0.50% | ~1,098 |
 | Invisible Shadows | 0.50% | ~1,098 |
 | Family Entanglements | 0.50% | ~1,098 |
 | Seeking Allies | 0.50% | ~1,098 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,683 (Ranked 52)  
+Progressed: 219,698 (Ranked 52)  
 Completed: 2,161 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,10 +628,10 @@ Completed: 2,161 (0.98%) (Ranked 114)
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
-| 2023-08-07 | 219,683 | 2,161 |
+| 2023-08-07 | 219,698 | 2,161 |
 ## Awards
 Max (Diverse Characters): 5,121  (Ranked 67)  
-Sum: 30,932 (Ranked 38)  
+Sum: 30,936 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -639,7 +639,7 @@ Diff (max vs sum): 29
 | This game is Great for Beginners | 5,072 |
 | This game has Quickly Understood Controls | 4,704 |
 | This game is Relaxing | 4,598 |
-| This game has Amazing Characters | 4,055 |
+| This game has Amazing Characters | 4,059 |
 | This game is Highly Recommended | 4,037 |
 | This game has Playful Visuals | 3,345 |
 ## Ratings History
@@ -838,4 +838,4 @@ Diff (max vs sum): 29
 | 2023-08-04 | 4.05 | - | 5,116 | 30,897 |
 | 2023-08-05 | 4.05 | - | 5,119 | 30,910 |
 | 2023-08-06 | 4.06 | - | 5,121 | 30,921 |
-| 2023-08-07 | 4.06 | - | 5,121 | 30,932 |
+| 2023-08-07 | 4.06 | - | 5,121 | 30,936 |

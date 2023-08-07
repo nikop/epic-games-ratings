@@ -24,7 +24,7 @@
   "EOS_Progressed": 113,
   "EOS_Completed": 24,
   "EOS_NewPlayers": 36,
-  "EOS_NewCompleters": 12,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 21.24,
   "EosHistory": [
     {
@@ -566,9 +566,9 @@
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 70,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Fusses",
@@ -645,8 +645,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-07T19:04:37.892437+00:00",
+  "LastChanged_Achievements": "2023-08-07T20:05:16.0535625+00:00",
   "LastUpdate_AppInfo": "2023-08-01T17:57:05.506677+00:00",
-  "LastUpdate_Ratings": "2023-08-07T18:57:26.3833607+00:00",
-  "LastUpdate_Achievements": "2023-08-07T19:04:37.8924491+00:00"
+  "LastUpdate_Ratings": "2023-08-07T19:57:32.9074628+00:00",
+  "LastUpdate_Achievements": "2023-08-07T20:05:16.0535797+00:00"
 }

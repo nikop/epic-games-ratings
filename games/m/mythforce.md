@@ -1,7 +1,7 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 576)  
+Rating: 4.49 (Ranked 575)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,19 +18,19 @@ Number of Ratings: 285  (23.09.2022)
 | Perk Shard Punch Card | 2.00% | ~13 |
 | Season Finale | 2.00% | ~13 |
 | Ten Steps from the Grave | 2.00% | ~13 |
-| Cold-Blooded Critters | 1.00% | ~6 |
-| The Harder They Fall | 1.00% | ~6 |
-| Horder Better Faster Stronger | 1.00% | ~6 |
-| Next Time on MythForce... | 1.00% | ~6 |
-| On this Episode! | 1.00% | ~6 |
-| Spending Spree | 1.00% | ~6 |
+| Cold-Blooded Critters | 1.00% | ~7 |
+| The Harder They Fall | 1.00% | ~7 |
+| Horder Better Faster Stronger | 1.00% | ~7 |
+| Next Time on MythForce... | 1.00% | ~7 |
+| On this Episode! | 1.00% | ~7 |
+| Spending Spree | 1.00% | ~7 |
 | The Fourth Gate | 0.80% | ~5 |
 | Everything Must Go! | 0.60% | ~4 |
 | We've Got a Kaiju on the Field | 0.20% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 650 (Ranked 215)  
+Progressed: 652 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,7 +53,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-04 | 597 | 0 |
 | 2023-08-05 | 617 | 0 |
 | 2023-08-06 | 642 | 0 |
-| 2023-08-07 | 650 | 0 |
+| 2023-08-07 | 652 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 451)  
 Sum: 226 (Ranked 356)  

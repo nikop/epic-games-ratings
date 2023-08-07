@@ -1,30 +1,30 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 576)  
+Rating: 4.49 (Ranked 575)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~7,674 |
-| Photogenic | 88.00% | ~7,421 |
-| Surge Gauntlet Jockey | 85.00% | ~7,168 |
-| Plug It In | 84.00% | ~7,084 |
-| Adventure Time | 80.00% | ~6,746 |
-| Playing With Power | 77.00% | ~6,493 |
-| Coup d'Etat | 59.00% | ~4,975 |
-| You're Fired | 58.00% | ~4,891 |
-| Get Furious | 56.00% | ~4,722 |
-| Gunplay And Cosplay | 55.00% | ~4,638 |
-| Hacks In Stacks | 55.00% | ~4,638 |
-| Meching Enemies | 49.00% | ~4,132 |
+| Let's Get This Party Started | 91.00% | ~7,675 |
+| Photogenic | 88.00% | ~7,422 |
+| Surge Gauntlet Jockey | 85.00% | ~7,169 |
+| Plug It In | 84.00% | ~7,085 |
+| Adventure Time | 80.00% | ~6,747 |
+| Playing With Power | 77.00% | ~6,494 |
+| Coup d'Etat | 59.00% | ~4,976 |
+| You're Fired | 58.00% | ~4,892 |
+| Get Furious | 56.00% | ~4,723 |
+| Gunplay And Cosplay | 55.00% | ~4,639 |
+| Hacks In Stacks | 55.00% | ~4,639 |
+| Meching Enemies | 49.00% | ~4,133 |
 | Ticket Toddler | 44.00% | ~3,711 |
 | Booty Bashing | 41.00% | ~3,458 |
 | Field Medic | 38.00% | ~3,205 |
 | Here Comes a New Challenger | 38.00% | ~3,205 |
 | Rapid Response | 33.00% | ~2,783 |
-| Surge Ahead | 31.00% | ~2,614 |
-| The Full Monty | 31.00% | ~2,614 |
+| Surge Ahead | 31.00% | ~2,615 |
+| The Full Monty | 31.00% | ~2,615 |
 | Guardian Angel | 29.00% | ~2,446 |
 | Poppin Noggins | 25.00% | ~2,108 |
 | Clips and Crits | 20.00% | ~1,687 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~34 |
 | Pyrotechnical | 0.20% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,433 (Ranked 125)  
+Progressed: 8,434 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-04 | 8,382 | 0 |
 | 2023-08-05 | 8,397 | 0 |
 | 2023-08-06 | 8,419 | 0 |
-| 2023-08-07 | 8,433 | 0 |
+| 2023-08-07 | 8,434 | 0 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 387)  
 Sum: 454 (Ranked 307)  

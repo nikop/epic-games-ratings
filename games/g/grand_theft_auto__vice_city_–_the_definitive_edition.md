@@ -6,7 +6,7 @@ Rating: 4.55 (Ranked 487)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Legal Counsel | 45.00% | ~4,324 |
-| Greasy Palms | 41.00% | ~3,939 |
+| Greasy Palms | 41.00% | ~3,940 |
 | South American Connection | 25.00% | ~2,402 |
 | Life of the Party | 20.00% | ~1,922 |
 | Big Heat from Little Havana | 15.00% | ~1,441 |
@@ -17,18 +17,18 @@ Rating: 4.55 (Ranked 487)
 | Gun for Hire | 9.00% | ~865 |
 | Mischief Managed | 8.00% | ~769 |
 | Vice City Mogul | 7.00% | ~673 |
-| Catch Me if You Can | 6.00% | ~576 |
-| Bloodstained Hands | 6.00% | ~576 |
+| Catch Me if You Can | 6.00% | ~577 |
+| Bloodstained Hands | 6.00% | ~577 |
 | Not my First Time | 5.00% | ~480 |
 | Grand Theft Auto | 5.00% | ~480 |
 | Pie Guy | 4.00% | ~384 |
+| Running Rampant | 3.00% | ~288 |
 | Point A to Point B | 3.00% | ~288 |
 | High Quality H2O | 3.00% | ~288 |
 | Bull in a China Shop | 3.00% | ~288 |
 | Somebody Call the Wambulance? | 3.00% | ~288 |
 | Just Like the Real Thing | 3.00% | ~288 |
 | Don't Need Roads | 3.00% | ~288 |
-| Running Rampant | 2.00% | ~192 |
 | One is Better Than Two | 2.00% | ~192 |
 | Take the Cannoli | 2.00% | ~192 |
 | Chopper’d Up | 2.00% | ~192 |
@@ -40,7 +40,7 @@ Rating: 4.55 (Ranked 487)
 | Done it All | 0.80% | ~77 |
 | Kingpin | 0.50% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,608 (Ranked 123)  
+Progressed: 9,609 (Ranked 123)  
 Completed: 45 (0.47%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 45 (0.47%) (Ranked 141)
 | 2023-08-04 | 9,565 | 44 |
 | 2023-08-05 | 9,582 | 44 |
 | 2023-08-06 | 9,599 | 44 |
-| 2023-08-07 | 9,608 | 45 |
+| 2023-08-07 | 9,609 | 45 |
 ## Awards
 Max (Great Boss Battles): 65  (Ranked 385)  
 Sum: 65 (Ranked 440)  

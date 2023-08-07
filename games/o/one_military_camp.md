@@ -11,9 +11,9 @@
 | Desert Rat | 11.00% | ~15 |
 | There's something in those trees | 9.00% | ~12 |
 | Great Producer | 9.00% | ~12 |
+| Good payer | 8.00% | ~11 |
 | Green Energy | 8.00% | ~11 |
 | Desert Power | 7.00% | ~9 |
-| Good payer | 7.00% | ~9 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~8 |
 | Fuel Tycoon | 6.00% | ~8 |
 | Ammo Tycoon | 6.00% | ~8 |

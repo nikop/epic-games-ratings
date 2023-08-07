@@ -4,8 +4,8 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2017-10-12T00:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32,
+  "EOS_Progressed": 33,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -167,6 +167,11 @@
       "Time": "2023-08-07T18:03:06.7209441+00:00",
       "NumProgressed": 32,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-07T20:03:37.5200472+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:14.4921824+00:00",
@@ -209,7 +214,7 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "b36c5kb",
       "Name": "Welcome to Union",
-      "Percentage": 84,
+      "Percentage": 82,
       "XP": 5,
       "UsersEstimate": 27
     },
@@ -217,7 +222,7 @@
       "ID": "ACHIEVEMENT_06",
       "SetID": "b36c5kb",
       "Name": "Taken",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -225,7 +230,7 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "b36c5kb",
       "Name": "Not Running This Time",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -233,7 +238,7 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "b36c5kb",
       "Name": "The Team Psychologist",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -241,7 +246,7 @@
       "ID": "ACHIEVEMENT_09",
       "SetID": "b36c5kb",
       "Name": "Premature Finale",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -249,7 +254,7 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "b36c5kb",
       "Name": "Another Ally",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -257,7 +262,7 @@
       "ID": "ACHIEVEMENT_11",
       "SetID": "b36c5kb",
       "Name": "Crossing to the Other Side",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -265,7 +270,7 @@
       "ID": "ACHIEVEMENT_12",
       "SetID": "b36c5kb",
       "Name": "Spiritual Awakening",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -305,7 +310,7 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "b36c5kb",
       "Name": "Backup Ain\u0027t Coming",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -329,7 +334,7 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "b36c5kb",
       "Name": "You Got Red in You",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -345,7 +350,7 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "b36c5kb",
       "Name": "Making Things a Little Easier",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -353,7 +358,7 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "b36c5kb",
       "Name": "Now You\u0027re Playing with Power",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -377,7 +382,7 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "b36c5kb",
       "Name": "DIY",
-      "Percentage": 63,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -401,7 +406,7 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "b36c5kb",
       "Name": "Doing Some Detecting",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -433,7 +438,7 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "b36c5kb",
       "Name": "Good to See You Again",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -473,7 +478,7 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "b36c5kb",
       "Name": "Thinning Them Out",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -481,7 +486,7 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "b36c5kb",
       "Name": "Clearing a Path",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
       "UsersEstimate": 9
     },
@@ -497,7 +502,7 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "b36c5kb",
       "Name": "Shock Therapy",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -513,7 +518,7 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "b36c5kb",
       "Name": "Kick, Shoot, Burn",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -529,7 +534,7 @@
       "ID": "ACHIEVEMENT_45",
       "SetID": "b36c5kb",
       "Name": "I Am The Night",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
       "UsersEstimate": 9
     },
@@ -586,14 +591,14 @@
     {
       "ID": "b36c5kb",
       "IsBase": true,
-      "Progressed": 32,
+      "Progressed": 33,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-07T19:03:19.9733855+00:00",
+  "LastChanged_Achievements": "2023-08-07T20:03:37.5200466+00:00",
   "LastUpdate_AppInfo": "2023-08-02T15:56:51.7948798+00:00",
-  "LastUpdate_Ratings": "2023-08-07T18:57:13.7985563+00:00",
-  "LastUpdate_Achievements": "2023-08-07T19:03:19.9734235+00:00"
+  "LastUpdate_Ratings": "2023-08-07T19:57:15.910972+00:00",
+  "LastUpdate_Achievements": "2023-08-07T20:03:37.5200995+00:00"
 }

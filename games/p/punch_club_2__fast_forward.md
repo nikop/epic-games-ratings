@@ -56,12 +56,12 @@
 | Problems of cyborgs | 31.00% | ~73 |
 | The last bell ring | 31.00% | ~73 |
 | Undercover robot | 31.00% | ~73 |
+| Absolute Champion! | 30.00% | ~70 |
 | Another world | 29.00% | ~68 |
 | The lonesome road | 29.00% | ~68 |
 | Keep nature safe | 29.00% | ~68 |
 | Key memories | 29.00% | ~68 |
 | Not little hacker | 29.00% | ~68 |
-| Absolute Champion! | 29.00% | ~68 |
 | Careerist | 29.00% | ~68 |
 | Anyone can resist | 29.00% | ~68 |
 | The heart of the Resistance | 29.00% | ~68 |
@@ -71,7 +71,7 @@
 | Better cooking at home | 25.00% | ~58 |
 | The only right decision | 25.00% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234 (Ranked 271)  
+Progressed: 234 (Ranked 272)  
 Completed: 8 (3.42%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
