@@ -18,11 +18,11 @@
 | Your own amateur gym | 74.00% | ~172 |
 | Run K, run! | 72.00% | ~167 |
 | Hello, world! | 69.00% | ~160 |
+| No bullying more | 68.00% | ~158 |
 | Fighting is cool | 67.00% | ~155 |
-| No bullying more | 67.00% | ~155 |
 | Pal of your father? | 65.00% | ~151 |
 | Employee of the month | 64.00% | ~148 |
-| Spirit of the past | 62.00% | ~144 |
+| Spirit of the past | 63.00% | ~146 |
 | Law student | 60.00% | ~139 |
 | Little hacker | 58.00% | ~135 |
 | Intriguing candies | 58.00% | ~135 |
@@ -39,8 +39,8 @@
 | Now you are worthy | 45.00% | ~104 |
 | No blades in the gym | 44.00% | ~102 |
 | Guiding on the right path | 44.00% | ~102 |
+| Fight is life | 43.00% | ~100 |
 | Mysterious voice | 43.00% | ~100 |
-| Fight is life | 42.00% | ~97 |
 | Your own way | 41.00% | ~95 |
 | Champion – no way back | 38.00% | ~88 |
 | Get out of my apartment! | 38.00% | ~88 |

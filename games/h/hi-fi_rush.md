@@ -16,6 +16,7 @@ Rating: 4.87 (Ranked 24)
 | Perfect Parry | 5.00% | ~189 |
 | Alright, that felt AWESOME! | 5.00% | ~189 |
 | This will cost you big time | 4.00% | ~151 |
+| The Negotiator | 4.00% | ~151 |
 | Whoa! There's ANOTHER health bar!? | 4.00% | ~151 |
 | Z-shielding's got nothing on us! | 4.00% | ~151 |
 | Uh, they were broken when I got here | 4.00% | ~151 |
@@ -23,7 +24,6 @@ Rating: 4.87 (Ranked 24)
 | I look cool. But I can look COOLER. | 4.00% | ~151 |
 | Does that say weakpoint? | 4.00% | ~151 |
 | NOW we got a kickass hideout! | 4.00% | ~92 |
-| The Negotiator | 3.00% | ~113 |
 | Headliner | 3.00% | ~113 |
 | Time to pay up! | 3.00% | ~113 |
 | Who's the boss now? | 3.00% | ~113 |

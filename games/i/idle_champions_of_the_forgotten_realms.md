@@ -1,12 +1,12 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 915)  
+Rating: 4.06 (Ranked 916)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,781 |
+| A Brief Tour of the Realms | 4.00% | ~8,782 |
 | Beast Intentions | 3.00% | ~6,586 |
 | Maddening | 2.00% | ~4,391 |
 | The Silken Swamp | 1.00% | ~2,195 |
@@ -15,11 +15,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 1.00% | ~1,858 |
 | Rock and Roll | 1.00% | ~1,858 |
 | Flight of the Kindori Pod | 0.90% | ~1,672 |
-| Tall Tales | 0.80% | ~1,486 |
-| Seeds of Destruction | 0.80% | ~1,486 |
-| Vecna Loots! | 0.80% | ~1,486 |
+| Tall Tales | 0.80% | ~1,487 |
+| Seeds of Destruction | 0.80% | ~1,487 |
+| Vecna Loots! | 0.80% | ~1,487 |
 | The Cursed Farmer | 0.80% | ~1,756 |
-| Topolah's Tower | 0.80% | ~1,486 |
+| Topolah's Tower | 0.80% | ~1,487 |
 | Pros and CONs | 0.70% | ~1,537 |
 | Wet Feet | 0.70% | ~1,537 |
 | Return to the Tomb | 0.70% | ~1,301 |
@@ -168,6 +168,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.30% | ~557 |
 | Durable Deep | 0.30% | ~659 |
 | Expert Opinion | 0.30% | ~659 |
+| Dwarven Rumors | 0.30% | ~557 |
 | Rescue in the Jungle | 0.30% | ~659 |
 | Willing to Sacrifice | 0.30% | ~557 |
 | Tiny Treaty | 0.30% | ~557 |
@@ -241,7 +242,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rime Bandits | 0.20% | ~372 |
 | The Sibriex | 0.20% | ~372 |
 | Wrecked Flying Fortress | 0.20% | ~372 |
-| Dwarven Rumors | 0.20% | ~372 |
 | Sunblight | 0.20% | ~372 |
 | The Bleeding Citadel | 0.20% | ~372 |
 | Idyllglen | 0.20% | ~372 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,536 (Ranked 53)  
-Completed: 2,159 (0.98%) (Ranked 114)  
+Progressed: 219,547 (Ranked 52)  
+Completed: 2,160 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -628,7 +628,7 @@ Completed: 2,159 (0.98%) (Ranked 114)
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
-| 2023-08-07 | 219,536 | 2,159 |
+| 2023-08-07 | 219,547 | 2,160 |
 ## Awards
 Max (Diverse Characters): 5,121  (Ranked 67)  
 Sum: 30,931 (Ranked 38)  

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60440,
+  "EOS_Progressed": 60442,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 824,
+  "EOS_NewPlayers": 819,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10487,6 +10487,11 @@
       "Time": "2023-08-07T09:05:16.5398344+00:00",
       "NumProgressed": 60440,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-07T10:05:07.9874548+00:00",
+      "NumProgressed": 60442,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10498,7 +10503,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22363
+      "UsersEstimate": 22364
     },
     {
       "ID": "02",
@@ -10506,7 +10511,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13901
+      "UsersEstimate": 13902
     },
     {
       "ID": "03",
@@ -10538,7 +10543,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9670
+      "UsersEstimate": 9671
     },
     {
       "ID": "07",
@@ -10546,7 +10551,7 @@
       "Name": "Heavy Metal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6648
+      "UsersEstimate": 6649
     },
     {
       "ID": "08",
@@ -10586,7 +10591,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6648
+      "UsersEstimate": 6649
     },
     {
       "ID": "13",
@@ -10746,7 +10751,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16923
+      "UsersEstimate": 16924
     },
     {
       "ID": "33",
@@ -10770,7 +10775,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18132
+      "UsersEstimate": 18133
     },
     {
       "ID": "36",
@@ -10834,7 +10839,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9670
+      "UsersEstimate": 9671
     },
     {
       "ID": "44",
@@ -10906,7 +10911,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "53",
@@ -10962,7 +10967,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "60",
@@ -11033,21 +11038,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60440,
+      "Progressed": 60442,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23908,
+      "Progressed": 23910,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-07T09:05:16.5398339+00:00",
+  "LastChanged_Achievements": "2023-08-07T10:05:07.9874542+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-07T08:58:36.2254357+00:00",
-  "LastUpdate_Achievements": "2023-08-07T09:05:16.539929+00:00"
+  "LastUpdate_Ratings": "2023-08-07T09:58:34.3115739+00:00",
+  "LastUpdate_Achievements": "2023-08-07T10:05:07.9875832+00:00"
 }

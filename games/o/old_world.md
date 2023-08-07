@@ -45,6 +45,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 1.00% | ~133 |
 | Fountainhead | 0.90% | ~120 |
 | Wise | 0.90% | ~120 |
+| Great Ziggurat | 0.90% | ~120 |
 | Learn to Play 1 | 0.90% | ~120 |
 | Christianity | 0.90% | ~120 |
 | Carthaginian Paganism | 0.90% | ~120 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.80% | ~106 |
 | Apadana | 0.80% | ~106 |
 | Colossus | 0.80% | ~106 |
-| Great Ziggurat | 0.80% | ~106 |
 | Musaeum | 0.80% | ~106 |
 | Necropolis | 0.80% | ~106 |
 | Manichaeism | 0.80% | ~106 |

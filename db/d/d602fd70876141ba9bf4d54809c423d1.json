@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2014-07-13T00:00:00+00:00",
@@ -164,9 +164,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ap8553i",
       "Name": "What\u0027s in the Box?",
-      "Percentage": 27,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -745,8 +745,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-07T09:03:31.8801444+00:00",
+  "LastChanged_Achievements": "2023-08-07T10:03:42.3857531+00:00",
   "LastUpdate_AppInfo": "2023-08-02T15:56:51.8230557+00:00",
-  "LastUpdate_Ratings": "2023-08-07T08:57:03.7318002+00:00",
-  "LastUpdate_Achievements": "2023-08-07T09:03:31.8802048+00:00"
+  "LastUpdate_Ratings": "2023-08-07T09:57:12.0585331+00:00",
+  "LastUpdate_Achievements": "2023-08-07T10:03:42.3858369+00:00"
 }

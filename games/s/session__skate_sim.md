@@ -158,12 +158,12 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-05 | 2,702 | 0 |
 | 2023-08-06 | 2,703 | 0 |
 ## Awards
-Max (Highly Recommended): 51  (Ranked 398)  
-Sum: 446 (Ranked 308)  
-Diff (max vs sum): 90  
+Max (Highly Recommended): 52  (Ranked 396)  
+Sum: 447 (Ranked 308)  
+Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 51 |
+| This game is Highly Recommended | 52 |
 | This game is Great for Quick Sessions | 44 |
 | This game has Realistic Visuals | 44 |
 | This game has a Creative Community | 42 |
@@ -302,4 +302,4 @@ Diff (max vs sum): 90
 | 2023-08-02 | 4.67 | - | 50 | 443 |
 | 2023-08-03 | 4.67 | - | 51 | 444 |
 | 2023-08-06 | 4.67 | - | 51 | 446 |
-| 2023-08-07 | 4.68 | - | 51 | 446 |
+| 2023-08-07 | 4.68 | - | 52 | 447 |

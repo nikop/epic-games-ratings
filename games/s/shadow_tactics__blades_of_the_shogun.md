@@ -6,12 +6,12 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,108 |
-| Thorough | 10.00% | ~19,189 |
-| A thief's beginning | 9.00% | ~17,270 |
-| Disguised | 8.00% | ~15,351 |
-| Rollin' | 8.00% | ~15,351 |
-| Tanuki Time | 8.00% | ~15,351 |
+| Genin | 11.00% | ~21,109 |
+| Thorough | 10.00% | ~19,190 |
+| A thief's beginning | 9.00% | ~17,271 |
+| Disguised | 8.00% | ~15,352 |
+| Rollin' | 8.00% | ~15,352 |
+| Tanuki Time | 8.00% | ~15,352 |
 | Jonin | 7.00% | ~13,433 |
 | Rescue Takuma | 7.00% | ~13,433 |
 | Stoned Ox | 7.00% | ~13,433 |
@@ -42,8 +42,8 @@ Number of Ratings: 495  (23.09.2022)
 | When Cut Across the Neck | 0.80% | ~1,535 |
 | High Five the Moon | 0.70% | ~1,343 |
 | The Cave | 0.70% | ~1,343 |
-| Merciful | 0.50% | ~959 |
-| Time Paradox | 0.50% | ~959 |
+| Merciful | 0.50% | ~960 |
+| Time Paradox | 0.50% | ~960 |
 | Five Shadows | 0.30% | ~576 |
 | Chicken Dinner | 0.10% | ~192 |
 | Complete Mastery | 0.10% | ~192 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~192 |
 | Release the Kraken | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191,893 (Ranked 59)  
+Progressed: 191,904 (Ranked 59)  
 Completed: 66 (0.03%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 66 (0.03%) (Ranked 225)
 | 2023-08-04 | 191,203 | 66 |
 | 2023-08-05 | 191,476 | 66 |
 | 2023-08-06 | 191,807 | 66 |
-| 2023-08-07 | 191,893 | 66 |
+| 2023-08-07 | 191,904 | 66 |
 ## Awards
 Max (Great for Beginners): 560  (Ranked 185)  
 Sum: 4,722 (Ranked 133)  

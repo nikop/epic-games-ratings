@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 885,
+  "Ranking_Rating": 886,
   "Ranking_Popularity": 485,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -328,9 +328,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 39580,
+  "EOS_Progressed": 39581,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6943,6 +6943,11 @@
       "Time": "2023-08-07T08:03:09.5157565+00:00",
       "NumProgressed": 39580,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-07T10:03:06.789336+00:00",
+      "NumProgressed": 39581,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -7377,22 +7382,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39580,
+      "Progressed": 39581,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4417,
-      "Completed": 4417
+      "Progressed": 4418,
+      "Completed": 4418
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-08-06T16:59:03.9846039+00:00",
-  "LastChanged_Achievements": "2023-08-07T09:02:21.9811629+00:00",
+  "LastChanged_Achievements": "2023-08-07T10:03:06.7893355+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:22.3874193+00:00",
-  "LastUpdate_Ratings": "2023-08-07T08:59:34.1963012+00:00",
-  "LastUpdate_Achievements": "2023-08-07T09:02:21.9812256+00:00"
+  "LastUpdate_Ratings": "2023-08-07T09:59:27.332267+00:00",
+  "LastUpdate_Achievements": "2023-08-07T10:03:06.7894239+00:00"
 }

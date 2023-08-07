@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17235,
+  "EOS_Progressed": 17237,
   "EOS_Completed": 354,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.05,
   "EosHistory": [
@@ -11874,6 +11874,11 @@
       "Time": "2023-08-07T07:05:51.1867531+00:00",
       "NumProgressed": 17235,
       "NumCompleted": 354
+    },
+    {
+      "Time": "2023-08-07T10:05:17.8746655+00:00",
+      "NumProgressed": 17237,
+      "NumCompleted": 354
     }
   ],
   "TotalAchievements": 20,
@@ -11949,7 +11954,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2585
+      "UsersEstimate": 2586
     },
     {
       "ID": "FOUND_ERIN",
@@ -12005,7 +12010,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 13099
+      "UsersEstimate": 13100
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -12029,7 +12034,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "WEST_FINISHED",
@@ -12044,15 +12049,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 17235,
+      "Progressed": 17237,
       "Completed": 354
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-08-07T09:05:27.3038747+00:00",
+  "LastChanged_Achievements": "2023-08-07T10:05:17.8746648+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:05.7530633+00:00",
-  "LastUpdate_Ratings": "2023-08-07T09:01:28.3532248+00:00",
-  "LastUpdate_Achievements": "2023-08-07T09:05:27.303938+00:00"
+  "LastUpdate_Ratings": "2023-08-07T10:01:15.9432012+00:00",
+  "LastUpdate_Achievements": "2023-08-07T10:05:17.8747492+00:00"
 }

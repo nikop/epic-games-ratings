@@ -3,9 +3,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Highly Sprung | 100.00% | ~3 |
-| Fun and Games Ahead | 33.00% | ~1 |
-| The Prison | 33.00% | ~1 |
+| Highly Sprung | 100.00% | ~4 |
+| Fun and Games Ahead | 25.00% | ~1 |
+| The Prison | 25.00% | ~1 |
 | Ashes in The Maw | 0.00% | ~0 |
 | Ashes to Ashes | 0.00% | ~0 |
 | Elusive | 0.00% | ~0 |
@@ -26,10 +26,11 @@
 | The Lair | 0.00% | ~0 |
 | We'll Meet Again | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 460)  
+Progressed: 4 (Ranked 455)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-08-02 | 2 | 0 |
 | 2023-08-03 | 3 | 0 |
+| 2023-08-07 | 4 | 0 |

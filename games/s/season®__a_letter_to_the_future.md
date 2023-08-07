@@ -14,8 +14,8 @@
 | Emotional Baggage Handler | 19.00% | ~223 |
 | Dream Listener | 17.00% | ~200 |
 | Artist Assistant | 16.00% | ~188 |
+| Tour de Tieng | 15.00% | ~176 |
 | Shrine Arriver | 14.00% | ~165 |
-| Tour de Tieng | 14.00% | ~165 |
 | Goodbye Tieng Valley | 13.00% | ~153 |
 | The End | 13.00% | ~153 |
 | Love Uncoverer | 10.00% | ~118 |

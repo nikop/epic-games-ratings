@@ -22,16 +22,16 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~14,245 |
 | Rumble in the Hangar | 2.00% | ~14,245 |
 | Bloody Sport | 2.00% | ~431 |
-| Furious Fists | 1.00% | ~7,122 |
-| Scareless | 1.00% | ~7,122 |
-| Kill Nil | 1.00% | ~7,122 |
-| Stuntmaster | 1.00% | ~7,122 |
-| Dance of the Praying Mantis | 1.00% | ~7,122 |
-| Qi Gong: Mind | 1.00% | ~7,122 |
-| I know Kung-Fu | 1.00% | ~7,122 |
-| Old Child | 1.00% | ~7,122 |
-| Kung-Fu Tussle | 1.00% | ~7,122 |
-| Take damage to save time | 1.00% | ~7,122 |
+| Furious Fists | 1.00% | ~7,123 |
+| Scareless | 1.00% | ~7,123 |
+| Kill Nil | 1.00% | ~7,123 |
+| Stuntmaster | 1.00% | ~7,123 |
+| Dance of the Praying Mantis | 1.00% | ~7,123 |
+| Qi Gong: Mind | 1.00% | ~7,123 |
+| I know Kung-Fu | 1.00% | ~7,123 |
+| Old Child | 1.00% | ~7,123 |
+| Kung-Fu Tussle | 1.00% | ~7,123 |
+| Take damage to save time | 1.00% | ~7,123 |
 | The best strikes are the ones we avoid | 1.00% | ~216 |
 | Muk Yan Master | 0.80% | ~5,698 |
 | Deadly Venom | 0.80% | ~172 |
@@ -54,10 +54,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Phoenix Eye Fist | 0.30% | ~2,137 |
 | Be like water my friend | 0.30% | ~2,137 |
 | Come Snap With Me | 0.30% | ~2,137 |
-| Ferocity, speed, strength, accuracy | 0.20% | ~1,424 |
+| Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,250 (Ranked 20)  
+Progressed: 712,251 (Ranked 20)  
 Completed: 12,847 (1.80%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 12,847 (1.80%) (Ranked 92)
 | 2023-08-04 | 712,173 | 12,844 |
 | 2023-08-05 | 712,203 | 12,845 |
 | 2023-08-06 | 712,241 | 12,847 |
-| 2023-08-07 | 712,250 | 12,847 |
+| 2023-08-07 | 712,251 | 12,847 |
 ## Awards
 Max (Great Boss Battles): 6,343  (Ranked 54)  
 Sum: 10,893 (Ranked 81)  

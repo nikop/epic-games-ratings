@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -495,7 +495,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14393,
+  "EOS_Progressed": 14394,
   "EOS_Completed": 107,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 1,
@@ -7605,6 +7605,11 @@
       "Time": "2023-08-07T08:04:31.4959387+00:00",
       "NumProgressed": 14393,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-07T10:04:06.9245185+00:00",
+      "NumProgressed": 14394,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 41,
@@ -7632,7 +7637,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3454
+      "UsersEstimate": 3455
     },
     {
       "ID": "tpote_achievement_12",
@@ -7832,7 +7837,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "tpote_achievement_35",
@@ -7880,7 +7885,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5901
+      "UsersEstimate": 5902
     },
     {
       "ID": "tpote_achievement_40",
@@ -7904,7 +7909,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3454
+      "UsersEstimate": 3455
     },
     {
       "ID": "tpote_achievement_6",
@@ -7912,7 +7917,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3454
+      "UsersEstimate": 3455
     },
     {
       "ID": "tpote_achievement_7",
@@ -7928,7 +7933,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3166
+      "UsersEstimate": 3167
     },
     {
       "ID": "tpote_achievement_9",
@@ -7943,15 +7948,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14393,
+      "Progressed": 14394,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-07T09:04:09.2581822+00:00",
+  "LastChanged_Achievements": "2023-08-07T10:04:06.9245179+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:55.7503888+00:00",
-  "LastUpdate_Ratings": "2023-08-07T09:01:17.2883855+00:00",
-  "LastUpdate_Achievements": "2023-08-07T09:04:09.2582386+00:00"
+  "LastUpdate_Ratings": "2023-08-07T10:01:07.1559019+00:00",
+  "LastUpdate_Achievements": "2023-08-07T10:04:06.9245938+00:00"
 }
