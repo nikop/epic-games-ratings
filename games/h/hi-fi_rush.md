@@ -49,9 +49,9 @@ Rating: 4.87 (Ranked 24)
 | First we parry, then we counter | 0.50% | ~19 |
 | OK, well THEY came after ME! | 0.40% | ~15 |
 | I'm not done with you yet | 0.40% | ~15 |
+| You ever parry a volcano? | 0.40% | ~15 |
 | Choose your own adventure | 0.40% | ~9 |
 | Easy Listening | 0.30% | ~11 |
-| You ever parry a volcano? | 0.30% | ~11 |
 | Problem solved... wait, what? | 0.20% | ~8 |
 | Now this is how you fight like a team! | 0.20% | ~8 |
 | It'll do, CNMN | 0.20% | ~5 |

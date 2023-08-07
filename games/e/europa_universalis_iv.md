@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 8.00% | ~6,524 |
-| Until death do us apart | 8.00% | ~6,524 |
-| Victorious! | 8.00% | ~6,524 |
-| That is mine! | 7.00% | ~5,709 |
-| Brothers in Arms | 6.00% | ~4,893 |
-| That's a Grand Navy | 6.00% | ~4,893 |
-| Seriously?! | 6.00% | ~4,893 |
-| For the Glory | 5.00% | ~4,078 |
-| Cold War | 4.00% | ~3,262 |
-| Defender of the Faith | 3.00% | ~2,447 |
-| It's all about the money | 3.00% | ~2,447 |
-| Respected | 3.00% | ~2,447 |
-| The Princess is in this Castle | 3.00% | ~2,447 |
-| True Catholic | 3.00% | ~2,447 |
-| Truly Divine Ruler | 3.00% | ~2,447 |
-| Agressive Expander | 2.00% | ~1,631 |
-| Blockader | 2.00% | ~1,631 |
-| Combined Arms | 2.00% | ~1,631 |
-| Double the Love | 2.00% | ~1,631 |
-| It's all about luck | 2.00% | ~1,631 |
-| My armies are invincible! | 2.00% | ~1,631 |
-| Royal Authority | 2.00% | ~1,631 |
-| Total Control | 2.00% | ~1,631 |
+| That's a Grand Army | 8.00% | ~6,528 |
+| Until death do us apart | 8.00% | ~6,528 |
+| Victorious! | 8.00% | ~6,528 |
+| That is mine! | 7.00% | ~5,712 |
+| Brothers in Arms | 6.00% | ~4,896 |
+| That's a Grand Navy | 6.00% | ~4,896 |
+| Seriously?! | 6.00% | ~4,896 |
+| For the Glory | 5.00% | ~4,080 |
+| Cold War | 4.00% | ~3,264 |
+| Defender of the Faith | 3.00% | ~2,448 |
+| It's all about the money | 3.00% | ~2,448 |
+| Respected | 3.00% | ~2,448 |
+| The Princess is in this Castle | 3.00% | ~2,448 |
+| True Catholic | 3.00% | ~2,448 |
+| Truly Divine Ruler | 3.00% | ~2,448 |
+| Agressive Expander | 2.00% | ~1,632 |
+| Blockader | 2.00% | ~1,632 |
+| Combined Arms | 2.00% | ~1,632 |
+| Double the Love | 2.00% | ~1,632 |
+| It's all about luck | 2.00% | ~1,632 |
+| My armies are invincible! | 2.00% | ~1,632 |
+| Royal Authority | 2.00% | ~1,632 |
+| Total Control | 2.00% | ~1,632 |
 | All That's Thine Shall Be Mine | 1.00% | ~816 |
 | Azur semé de lis or | 1.00% | ~816 |
 | Bright Spark | 1.00% | ~816 |
@@ -43,18 +43,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.90% | ~734 |
 | Market Control | 0.90% | ~734 |
 | Trustworthy | 0.90% | ~734 |
-| Down Under | 0.80% | ~652 |
+| Down Under | 0.80% | ~653 |
 | Electable! | 0.70% | ~571 |
 | Populists in Government | 0.70% | ~571 |
-| All belongs to Mother Russia | 0.60% | ~489 |
-| At every continent | 0.60% | ~489 |
-| One Family to Rule them All | 0.60% | ~489 |
-| The pen is mightier than the sword | 0.60% | ~489 |
-| Time Bandit | 0.60% | ~489 |
+| All belongs to Mother Russia | 0.60% | ~490 |
+| At every continent | 0.60% | ~490 |
+| One Family to Rule them All | 0.60% | ~490 |
+| The pen is mightier than the sword | 0.60% | ~490 |
+| Time Bandit | 0.60% | ~490 |
 | Absolutely | 0.50% | ~408 |
 | Early-Modern Warfare | 0.50% | ~408 |
 | Grand Coalition | 0.50% | ~408 |
-| In the Name of the Father | 0.50% | ~408 |
 | Live Long and Prosper | 0.50% | ~408 |
 | Ruina Imperii | 0.50% | ~408 |
 | This is My Faith | 0.50% | ~408 |
@@ -65,6 +64,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Dude, Where's my Boat? | 0.40% | ~326 |
 | Four For Trade | 0.40% | ~326 |
 | Global Hegemony | 0.40% | ~326 |
+| In the Name of the Father | 0.40% | ~326 |
 | Italian Ambition | 0.40% | ~326 |
 | Just a Little Patience | 0.40% | ~326 |
 | One Night in Paris | 0.40% | ~326 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81,555 (Ranked 74)  
+Progressed: 81,601 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -470,7 +470,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-04 | 79,131 | 0 |
 | 2023-08-05 | 80,125 | 0 |
 | 2023-08-06 | 81,143 | 0 |
-| 2023-08-07 | 81,555 | 0 |
+| 2023-08-07 | 81,601 | 0 |
 ## Awards
 Max (Educational): 5,624  (Ranked 63)  
 Sum: 46,428 (Ranked 26)  

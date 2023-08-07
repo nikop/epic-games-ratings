@@ -28,8 +28,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "bl5ebnd",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
+  "LastChanged_Achievements": "2023-08-07T14:05:00.1988862+00:00",
   "LastUpdate_AppInfo": "2023-08-03T09:57:53.2004185+00:00",
-  "LastUpdate_Ratings": "2023-08-07T13:03:21.2861524+00:00",
-  "LastUpdate_Achievements": "2023-08-07T13:10:32.8559495+00:00"
+  "LastUpdate_Ratings": "2023-08-07T13:57:40.2753528+00:00",
+  "LastUpdate_Achievements": "2023-08-07T14:05:00.1988892+00:00"
 }

@@ -5626,9 +5626,9 @@
       "Count": 3345
     }
   ],
-  "EOS_Progressed": 219580,
+  "EOS_Progressed": 219599,
   "EOS_Completed": 2160,
-  "EOS_NewPlayers": 2213,
+  "EOS_NewPlayers": 2216,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17391,6 +17391,11 @@
       "Time": "2023-08-07T13:08:17.7108703+00:00",
       "NumProgressed": 219580,
       "NumCompleted": 2160
+    },
+    {
+      "Time": "2023-08-07T14:01:10.8124471+00:00",
+      "NumProgressed": 219599,
+      "NumCompleted": 2160
     }
   ],
   "TotalAchievements": 512,
@@ -17402,7 +17407,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8783
+      "UsersEstimate": 8784
     },
     {
       "ID": "objective_completed_10",
@@ -17770,7 +17775,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6587
+      "UsersEstimate": 6588
     },
     {
       "ID": "objective_completed_110",
@@ -17834,7 +17839,7 @@
       "Name": "Hatchlings Underfoot",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "objective_completed_1111",
@@ -17874,7 +17879,7 @@
       "Name": "Don\u0027t Look Up!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "objective_completed_1121",
@@ -18018,7 +18023,7 @@
       "Name": "Heavy Burden",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "objective_completed_1152",
@@ -18506,7 +18511,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "objective_completed_149",
@@ -18688,9 +18693,9 @@
       "ID": "objective_completed_182",
       "SetID": "415jc5c",
       "Name": "Snakes on our Plane",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 372
     },
     {
       "ID": "objective_completed_184",
@@ -18746,7 +18751,7 @@
       "Name": "The Mists of Ravenloft",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "objective_completed_209",
@@ -18818,7 +18823,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "objective_completed_231",
@@ -18850,7 +18855,7 @@
       "Name": "The Botched Kidnapping",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "objective_completed_236",
@@ -21497,21 +21502,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185854,
+      "Progressed": 185873,
       "Completed": 3065
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219580,
+      "Progressed": 219599,
       "Completed": 2160
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-07T11:59:17.6887797+00:00",
-  "LastChanged_Achievements": "2023-08-07T13:08:17.7108699+00:00",
+  "LastChanged_Achievements": "2023-08-07T14:01:10.8124464+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-07T13:04:28.6305873+00:00",
-  "LastUpdate_Achievements": "2023-08-07T13:08:17.7139888+00:00"
+  "LastUpdate_Ratings": "2023-08-07T13:58:50.575034+00:00",
+  "LastUpdate_Achievements": "2023-08-07T14:01:10.8148373+00:00"
 }

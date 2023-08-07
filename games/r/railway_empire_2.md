@@ -5,8 +5,8 @@ Rating: 4.48 (Ranked 590)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Country Bumpkin | 75.00% | ~1,328 |
 | A new Journey | 74.00% | ~1,310 |
-| Country Bumpkin | 74.00% | ~1,310 |
 | Departure | 73.00% | ~1,292 |
 | From X to Y | 72.00% | ~1,274 |
 | Way of Iron | 70.00% | ~1,239 |
@@ -36,8 +36,8 @@ Rating: 4.48 (Ranked 590)
 | Hostile Takeover | 25.00% | ~442 |
 | Seven at one stroke | 24.00% | ~425 |
 | Trailblazer | 20.00% | ~354 |
+| Traffic Junction | 20.00% | ~354 |
 | Breaking Ground | 20.00% | ~354 |
-| Traffic Junction | 19.00% | ~336 |
 | Traffic Jam | 18.00% | ~319 |
 | Networker | 17.00% | ~301 |
 | Resistance is futile | 16.00% | ~283 |

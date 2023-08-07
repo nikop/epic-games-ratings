@@ -22,9 +22,9 @@
 | City of Puzzles | 9.00% | ~2 |
 | This field of danger | 9.00% | ~2 |
 | Labyrinths of the Mind | 9.00% | ~2 |
+| A Terrifying Blizzard | 9.00% | ~2 |
 | A Stone Left Unturned | 5.00% | ~1 |
 | Celibacy/Delicacy | 5.00% | ~1 |
-| A Terrifying Blizzard | 5.00% | ~1 |
 | No End is Eternal | 0.00% | ~0 |
 | Tranquility/Resilience | 0.00% | ~0 |
 | Recovery/Imagination | 0.00% | ~0 |

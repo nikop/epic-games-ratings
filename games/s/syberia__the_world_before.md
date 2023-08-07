@@ -3,6 +3,40 @@
 [View Rawdata](../../db/s/syberia__the_world_before.json)  
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 119  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Nothing gets past me | 0.00% | ~0 |
+| The antique dealer | 0.00% | ~0 |
+| Art critic | 0.00% | ~0 |
+| Browser | 0.00% | ~0 |
+| Cartographer | 0.00% | ~0 |
+| Upsetting discovery | 0.00% | ~0 |
+| Pictorial dilemma | 0.00% | ~0 |
+| Leave a trace… | 0.00% | ~0 |
+| The letter | 0.00% | ~0 |
+| A stressful night | 0.00% | ~0 |
+| First clue | 0.00% | ~0 |
+| Parallel investigation | 0.00% | ~0 |
+| Freedom | 0.00% | ~0 |
+| Be prepared | 0.00% | ~0 |
+| Halfway there | 0.00% | ~0 |
+| Investigation completed | 0.00% | ~0 |
+| …for the future | 0.00% | ~0 |
+| Betrayed | 0.00% | ~0 |
+| Loyal | 0.00% | ~0 |
+| A classic novel | 0.00% | ~0 |
+| Unexpected encounter | 0.00% | ~0 |
+| The final concert | 0.00% | ~0 |
+| Grief accomplished | 0.00% | ~0 |
+| Back together again | 0.00% | ~0 |
+| Clean slate | 0.00% | ~0 |
+| Old acquaintances | 0.00% | ~0 |
+| Eavesdrop | 0.00% | ~0 |
+| Where is her bedroom? | 0.00% | ~0 |
+| The refuge | 0.00% | ~0 |
+| Tourism | 0.00% | ~0 |
+| The super resistant | 0.00% | ~0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

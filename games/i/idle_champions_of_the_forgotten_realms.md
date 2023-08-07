@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,783 |
-| Beast Intentions | 3.00% | ~6,587 |
+| A Brief Tour of the Realms | 4.00% | ~8,784 |
+| Beast Intentions | 3.00% | ~6,588 |
 | Maddening | 2.00% | ~4,392 |
 | The Silken Swamp | 1.00% | ~2,196 |
 | Supply Run | 1.00% | ~2,196 |
@@ -32,15 +32,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.70% | ~1,537 |
 | The Mad Wizard | 0.70% | ~1,537 |
 | The Witchlight Carnival | 0.60% | ~1,115 |
-| Hatchlings Underfoot | 0.60% | ~1,317 |
-| Don't Look Up! | 0.60% | ~1,317 |
-| Heavy Burden | 0.60% | ~1,317 |
+| Hatchlings Underfoot | 0.60% | ~1,318 |
+| Don't Look Up! | 0.60% | ~1,318 |
+| Heavy Burden | 0.60% | ~1,318 |
 | The Evacuation of Waterdeep | 0.60% | ~1,115 |
 | The Dread Domain of Tovag | 0.60% | ~1,115 |
-| Beast Mode | 0.60% | ~1,317 |
-| The Mists of Ravenloft | 0.60% | ~1,317 |
-| The Dinner Party | 0.60% | ~1,317 |
-| The Botched Kidnapping | 0.60% | ~1,317 |
+| Beast Mode | 0.60% | ~1,318 |
+| The Mists of Ravenloft | 0.60% | ~1,318 |
+| The Dinner Party | 0.60% | ~1,318 |
+| The Botched Kidnapping | 0.60% | ~1,318 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,115 |
 | Krux's Speed Run | 0.60% | ~1,115 |
 | Thieves of the Coven | 0.50% | ~929 |
@@ -201,6 +201,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Not Very Charming | 0.20% | ~439 |
 | Periodic Petrification | 0.20% | ~439 |
 | Double Vision | 0.20% | ~439 |
+| Snakes on our Plane | 0.20% | ~372 |
 | Haunted Fortunes | 0.20% | ~439 |
 | Poor Fortune | 0.20% | ~439 |
 | Relentless Misfortune | 0.20% | ~439 |
@@ -318,7 +319,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fall From Grace | 0.10% | ~220 |
 | Underground Railroad | 0.10% | ~220 |
 | Never Split the Party | 0.10% | ~220 |
-| Snakes on our Plane | 0.10% | ~186 |
 | The Soulmonger Calls | 0.10% | ~220 |
 | Acererak's Puzzle | 0.10% | ~186 |
 | Form Ranks | 0.10% | ~220 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,580 (Ranked 52)  
+Progressed: 219,599 (Ranked 52)  
 Completed: 2,160 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,7 +628,7 @@ Completed: 2,160 (0.98%) (Ranked 114)
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
-| 2023-08-07 | 219,580 | 2,160 |
+| 2023-08-07 | 219,599 | 2,160 |
 ## Awards
 Max (Diverse Characters): 5,121  (Ranked 67)  
 Sum: 30,932 (Ranked 38)  

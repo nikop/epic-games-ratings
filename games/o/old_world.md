@@ -36,6 +36,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 1.00% | ~133 |
 | Oracle | 1.00% | ~133 |
 | Pyramids | 1.00% | ~133 |
+| Christianity | 1.00% | ~133 |
 | Judaism | 1.00% | ~133 |
 | Babylonian Paganism | 1.00% | ~133 |
 | Greek Paganism | 1.00% | ~133 |
@@ -48,7 +49,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 0.90% | ~120 |
 | Great Ziggurat | 0.90% | ~120 |
 | Learn to Play 1 | 0.90% | ~120 |
-| Christianity | 0.90% | ~120 |
 | Carthaginian Paganism | 0.90% | ~120 |
 | Roman Paganism | 0.90% | ~120 |
 | Great | 0.80% | ~106 |
@@ -137,6 +137,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.30% | ~40 |
 | No Undo | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
+| Ancient | 0.20% | ~27 |
 | Peacemaker | 0.20% | ~27 |
 | Glorious Difficulty | 0.20% | ~27 |
 | Noble Difficulty | 0.20% | ~27 |
@@ -188,7 +189,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 4) | 0.10% | ~13 |
 | Carthage Campaign | 0.10% | ~13 |
 | Cleopatra's Love | 0.10% | ~13 |
-| Ancient | 0.10% | ~13 |
 | Avenger | 0.10% | ~13 |
 | Destroyer | 0.10% | ~13 |
 | Holy | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,308 (Ranked 117)  
+Progressed: 13,309 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,7 +412,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-04 | 13,269 | 5 |
 | 2023-08-05 | 13,281 | 5 |
 | 2023-08-06 | 13,301 | 5 |
-| 2023-08-07 | 13,308 | 5 |
+| 2023-08-07 | 13,309 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,786 (Ranked 206)  

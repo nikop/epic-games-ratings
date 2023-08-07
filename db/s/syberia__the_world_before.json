@@ -298,9 +298,259 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-07T14:04:58.0159905+00:00",
+  "TotalAchievements": 31,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Trophy_AllSecObj",
+      "SetID": "6a26mi4",
+      "Name": "Nothing gets past me",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_Antiquarian",
+      "SetID": "6a26mi4",
+      "Name": "The antique dealer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_ArtCritic",
+      "SetID": "6a26mi4",
+      "Name": "Art critic",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_Browser",
+      "SetID": "6a26mi4",
+      "Name": "Browser",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_Cartographer",
+      "SetID": "6a26mi4",
+      "Name": "Cartographer",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_Cemetery",
+      "SetID": "6a26mi4",
+      "Name": "Upsetting discovery",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_ChoosePainting",
+      "SetID": "6a26mi4",
+      "Name": "Pictorial dilemma",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_DanaDrawing",
+      "SetID": "6a26mi4",
+      "Name": "Leave a trace\u2026",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_DanaLetter",
+      "SetID": "6a26mi4",
+      "Name": "The letter",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_DombreHostel",
+      "SetID": "6a26mi4",
+      "Name": "A stressful night",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_FirstClue",
+      "SetID": "6a26mi4",
+      "Name": "First clue",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_FirstSecObj",
+      "SetID": "6a26mi4",
+      "Name": "Parallel investigation",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_Freedom",
+      "SetID": "6a26mi4",
+      "Name": "Freedom",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_Gourd",
+      "SetID": "6a26mi4",
+      "Name": "Be prepared",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_HalfSecObj",
+      "SetID": "6a26mi4",
+      "Name": "Halfway there",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_InquiryComplete",
+      "SetID": "6a26mi4",
+      "Name": "Investigation completed",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_KateConcrete",
+      "SetID": "6a26mi4",
+      "Name": "\u2026for the future",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_LeniBetrayed",
+      "SetID": "6a26mi4",
+      "Name": "Betrayed",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_Loyal",
+      "SetID": "6a26mi4",
+      "Name": "Loyal",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_MagicMountain",
+      "SetID": "6a26mi4",
+      "Name": "A classic novel",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_MistBridge",
+      "SetID": "6a26mi4",
+      "Name": "Unexpected encounter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_MusicAcademy",
+      "SetID": "6a26mi4",
+      "Name": "The final concert",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_NewHope",
+      "SetID": "6a26mi4",
+      "Name": "Grief accomplished",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_OldFriend",
+      "SetID": "6a26mi4",
+      "Name": "Back together again",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_OpenMail",
+      "SetID": "6a26mi4",
+      "Name": "Clean slate",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_PhoneCall",
+      "SetID": "6a26mi4",
+      "Name": "Old acquaintances",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_Phonebooth",
+      "SetID": "6a26mi4",
+      "Name": "Eavesdrop",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_PhotoRoom",
+      "SetID": "6a26mi4",
+      "Name": "Where is her bedroom?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_Refuge",
+      "SetID": "6a26mi4",
+      "Name": "The refuge",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_Spyglass",
+      "SetID": "6a26mi4",
+      "Name": "Tourism",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_SuperResistant",
+      "SetID": "6a26mi4",
+      "Name": "The super resistant",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "6a26mi4",
@@ -312,8 +562,8 @@
   "FirstSeen": "2022-07-22T20:23:03.7209999+00:00",
   "FirstSeenAchievements": "2023-08-01T09:04:56.2255951+00:00",
   "LastChanged": "2023-08-05T13:01:00.850973+00:00",
-  "LastChanged_Achievements": "2023-08-07T13:10:30.8434317+00:00",
+  "LastChanged_Achievements": "2023-08-07T14:04:58.0159887+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:19.6936568+00:00",
-  "LastUpdate_Ratings": "2023-08-07T13:04:45.2372342+00:00",
-  "LastUpdate_Achievements": "2023-08-07T13:10:30.8434352+00:00"
+  "LastUpdate_Ratings": "2023-08-07T13:59:08.0895091+00:00",
+  "LastUpdate_Achievements": "2023-08-07T14:04:58.0554665+00:00"
 }

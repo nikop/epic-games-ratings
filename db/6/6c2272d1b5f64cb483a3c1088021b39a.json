@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 890,
+  "EOS_Progressed": 891,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2741,6 +2741,11 @@
       "Time": "2023-08-07T02:03:12.2681439+00:00",
       "NumProgressed": 890,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-07T14:05:32.0139227+00:00",
+      "NumProgressed": 891,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2752,7 +2757,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "adventurous_2",
@@ -2800,7 +2805,7 @@
       "Name": "Call of Mana 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "call_of_mana_2",
@@ -2848,7 +2853,7 @@
       "Name": "Collector 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "collector_2",
@@ -2920,7 +2925,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "elemental_stones_2",
@@ -2992,7 +2997,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "glitter_of_gold_2",
@@ -3184,7 +3189,7 @@
       "Name": "Soul Shards 1",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "soul_shards_2",
@@ -3279,14 +3284,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 890,
+      "Progressed": 891,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-08-07T13:11:05.0367046+00:00",
+  "LastChanged_Achievements": "2023-08-07T14:05:32.0139223+00:00",
   "LastUpdate_AppInfo": "2023-08-01T04:57:07.5281438+00:00",
-  "LastUpdate_Ratings": "2023-08-07T13:03:21.8316111+00:00",
-  "LastUpdate_Achievements": "2023-08-07T13:11:05.0368076+00:00"
+  "LastUpdate_Ratings": "2023-08-07T13:57:41.2425018+00:00",
+  "LastUpdate_Achievements": "2023-08-07T14:05:32.0139891+00:00"
 }

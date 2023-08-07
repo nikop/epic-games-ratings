@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 508,
+  "EOS_Progressed": 509,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1400,6 +1400,11 @@
       "Time": "2023-08-06T19:03:53.0722468+00:00",
       "NumProgressed": 508,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-07T14:03:34.2911614+00:00",
+      "NumProgressed": 509,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -1451,7 +1456,7 @@
       "Name": "That was base",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "hire-lieutenant",
@@ -1459,7 +1464,7 @@
       "Name": "Our Man",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "kill-lieutenants",
@@ -1481,9 +1486,9 @@
       "ID": "play-at-night",
       "SetID": "bed33dd",
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 157
+      "UsersEstimate": 153
     },
     {
       "ID": "product-profit",
@@ -1521,9 +1526,9 @@
       "ID": "sell-variety",
       "SetID": "bed33dd",
       "Name": "Spread",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 213
+      "UsersEstimate": 209
     },
     {
       "ID": "send-smuggling",
@@ -1547,7 +1552,7 @@
       "Name": "Take-Off",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "use-submarine",
@@ -1562,15 +1567,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 508,
+      "Progressed": 509,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-08-07T13:09:10.8413424+00:00",
+  "LastChanged_Achievements": "2023-08-07T14:03:34.291161+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:10.4467648+00:00",
-  "LastUpdate_Ratings": "2023-08-07T13:06:15.905515+00:00",
-  "LastUpdate_Achievements": "2023-08-07T13:09:10.8413659+00:00"
+  "LastUpdate_Ratings": "2023-08-07T14:00:49.585565+00:00",
+  "LastUpdate_Achievements": "2023-08-07T14:03:34.2911783+00:00"
 }

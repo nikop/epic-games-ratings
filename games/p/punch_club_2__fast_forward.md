@@ -59,13 +59,13 @@
 | Absolute Champion! | 30.00% | ~70 |
 | The last bell ring | 30.00% | ~70 |
 | Careerist | 30.00% | ~70 |
+| Another world | 29.00% | ~68 |
 | The lonesome road | 29.00% | ~68 |
 | Keep nature safe | 29.00% | ~68 |
 | Key memories | 29.00% | ~68 |
 | Anyone can resist | 29.00% | ~68 |
 | The heart of the Resistance | 29.00% | ~68 |
 | Trap disarmed | 28.00% | ~65 |
-| Another world | 28.00% | ~65 |
 | Family comes first | 28.00% | ~65 |
 | Silver’s past | 25.00% | ~58 |
 | Better cooking at home | 25.00% | ~58 |

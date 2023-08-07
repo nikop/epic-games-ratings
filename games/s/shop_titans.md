@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 0.70% | ~938 |
+| Sponsored by Argon | 0.80% | ~1,073 |
 | Basic in Bulk | 0.70% | ~938 |
+| Tinkle of Coins | 0.70% | ~938 |
 | Titan's First Steps | 0.70% | ~938 |
-| Tinkle of Coins | 0.60% | ~804 |
 | Disintermediation | 0.50% | ~670 |
 | It's Free Real Estate | 0.50% | ~670 |
 | Capitalism Ho! | 0.50% | ~670 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,068 (Ranked 63)  
+Progressed: 134,070 (Ranked 63)  
 Completed: 130 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,10 +228,10 @@ Completed: 130 (0.10%) (Ranked 199)
 | 2023-08-04 | 133,890 | 128 |
 | 2023-08-05 | 133,956 | 128 |
 | 2023-08-06 | 134,025 | 129 |
-| 2023-08-07 | 134,068 | 130 |
+| 2023-08-07 | 134,070 | 130 |
 ## Awards
 Max (Great for Beginners): 4,691  (Ranked 70)  
-Sum: 27,062 (Ranked 46)  
+Sum: 27,065 (Ranked 46)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
@@ -240,7 +240,7 @@ Diff (max vs sum): 24
 | This game has Quickly Understood Controls | 3,982 |
 | This game has Diverse Characters | 3,847 |
 | This game is Highly Recommended | 3,730 |
-| This game has Easy Combat | 3,669 |
+| This game has Easy Combat | 3,672 |
 | This game has Playful Visuals | 3,149 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -441,4 +441,4 @@ Diff (max vs sum): 24
 | 2023-08-04 | 3.99 | - | 4,686 | 27,045 |
 | 2023-08-05 | 3.99 | - | 4,688 | 27,051 |
 | 2023-08-06 | 3.99 | - | 4,688 | 27,057 |
-| 2023-08-07 | 3.99 | - | 4,691 | 27,062 |
+| 2023-08-07 | 3.99 | - | 4,691 | 27,065 |

@@ -45,8 +45,8 @@ Rating: 4.46 (Ranked 616)
 | Perfect Enhancements | 9.00% | ~280 |
 | Hardened In The Heat Of Battle | 6.00% | ~187 |
 | The True Experience | 6.00% | ~187 |
+| Archivist | 2.00% | ~62 |
 | Fair And Square | 2.00% | ~62 |
-| Archivist | 1.00% | ~31 |
 | Perfect Organism | 0.70% | ~22 |
 | Chalk It Up To Experience | 0.70% | ~22 |
 | This Ain't No Picnic | 0.50% | ~16 |
