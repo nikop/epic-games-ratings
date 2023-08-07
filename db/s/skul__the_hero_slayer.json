@@ -5,9 +5,9 @@
   "Ranking_Rating": 171,
   "Ranking_Popularity": 312,
   "Ranking_PopularitySum": 251,
-  "Ranking_EOS_Progress": 127,
+  "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -864,10 +864,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 896,
       "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-08-07T21:01:32.2028566+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 897,
+      "NumberOfAwardsMax": 123
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 896,
+  "NumberOfAwards": 897,
   "NumberOfAwardsMax": 123,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -905,7 +911,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 90
+      "Count": 91
     },
     {
       "Text": "This game has Amazing Characters",
@@ -938,9 +944,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 8097,
+  "EOS_Progressed": 8098,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4208,6 +4214,11 @@
       "Time": "2023-08-06T17:05:25.0550688+00:00",
       "NumProgressed": 8097,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-07T21:07:42.5964263+00:00",
+      "NumProgressed": 8098,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4219,7 +4230,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "Chatterbox",
@@ -4243,7 +4254,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5101
+      "UsersEstimate": 5102
     },
     {
       "ID": "DemonCastleRestoration",
@@ -4339,7 +4350,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1620
     },
     {
       "ID": "SavedElderEnt",
@@ -4347,7 +4358,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5101
+      "UsersEstimate": 5102
     },
     {
       "ID": "SavedElderEnt_2",
@@ -4379,7 +4390,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7530
+      "UsersEstimate": 7531
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4403,22 +4414,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6801
+      "UsersEstimate": 6802
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8097,
+      "Progressed": 8098,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-08-03T01:52:48.9086548+00:00",
-  "LastChanged_Achievements": "2023-08-07T20:06:21.1384715+00:00",
+  "LastChanged": "2023-08-07T21:01:32.2028564+00:00",
+  "LastChanged_Achievements": "2023-08-07T21:07:42.5964258+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:04.153056+00:00",
-  "LastUpdate_Ratings": "2023-08-07T20:00:22.6636386+00:00",
-  "LastUpdate_Achievements": "2023-08-07T20:06:21.1385116+00:00"
+  "LastUpdate_Ratings": "2023-08-07T21:01:32.202857+00:00",
+  "LastUpdate_Achievements": "2023-08-07T21:07:42.5964616+00:00"
 }

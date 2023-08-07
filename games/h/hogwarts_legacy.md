@@ -6,10 +6,10 @@ Rating: 4.77 (Ranked 109)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 12.00% | ~34,754 |
-| First Class Student | 11.00% | ~31,857 |
-| Troll with the Punches | 11.00% | ~31,857 |
-| A Keen Sense of Spell | 10.00% | ~28,961 |
-| That's a Keeper | 10.00% | ~28,961 |
+| First Class Student | 11.00% | ~31,858 |
+| Troll with the Punches | 11.00% | ~31,858 |
+| A Keen Sense of Spell | 10.00% | ~28,962 |
+| That's a Keeper | 10.00% | ~28,962 |
 | Grappling with a Graphorn | 9.00% | ~26,065 |
 | The One Who Mastered Memories | 9.00% | ~26,065 |
 | The Hallowed Hero | 9.00% | ~26,065 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,738 |
 | Collector's Edition | 0.30% | ~869 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,613 (Ranked 42)  
+Progressed: 289,616 (Ranked 42)  
 Completed: 443 (0.15%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,25 +160,25 @@ Completed: 443 (0.15%) (Ranked 187)
 | 2023-08-04 | 289,362 | 439 |
 | 2023-08-05 | 289,460 | 442 |
 | 2023-08-06 | 289,549 | 442 |
-| 2023-08-07 | 289,613 | 443 |
+| 2023-08-07 | 289,616 | 443 |
 ## Awards
-Max (Character Customization): 21,567  (Ranked 17)  
-Sum: 40,592 (Ranked 30)  
+Max (Character Customization): 21,597  (Ranked 17)  
+Sum: 40,627 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 21,567 |
+| This game has Inclusive Character Customization | 21,597 |
 | This game has Great Boss Battles | 10,412 |
 | This game is Great for Beginners | 960 |
 | This game is Extremely Fun | 934 |
-| This game is Relaxing | 930 |
+| This game is Relaxing | 934 |
 | This game has Amazing Storytelling | 919 |
 | This game has Diverse Characters | 917 |
 | This game has Amazing Characters | 899 |
 | This game is Highly Recommended | 870 |
 | This game has Quickly Understood Controls | 832 |
 | This game has Beautiful Visuals | 775 |
-| This game has a Creative Community | 577 |
+| This game has a Creative Community | 578 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -318,4 +318,4 @@ Diff (max vs sum): -13
 | 2023-08-04 | 4.77 | 21,511 | 40,460 |
 | 2023-08-05 | 4.77 | 21,534 | 40,512 |
 | 2023-08-06 | 4.77 | 21,567 | 40,577 |
-| 2023-08-07 | 4.77 | 21,567 | 40,592 |
+| 2023-08-07 | 4.77 | 21,597 | 40,627 |

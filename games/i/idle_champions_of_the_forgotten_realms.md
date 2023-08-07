@@ -47,14 +47,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Champion's Guide to Wildspace | 0.60% | ~1,116 |
 | Krux's Speed Run | 0.60% | ~1,116 |
 | Thieves of the Coven | 0.50% | ~930 |
-| Friends of the Forest | 0.50% | ~1,098 |
-| Street War | 0.50% | ~1,098 |
-| March of the Undead | 0.50% | ~1,098 |
-| Invisible Shadows | 0.50% | ~1,098 |
-| Family Entanglements | 0.50% | ~1,098 |
-| Seeking Allies | 0.50% | ~1,098 |
-| Friendly Imps | 0.50% | ~1,098 |
-| Pure Energy | 0.50% | ~1,098 |
+| Friends of the Forest | 0.50% | ~1,099 |
+| Street War | 0.50% | ~1,099 |
+| March of the Undead | 0.50% | ~1,099 |
+| Invisible Shadows | 0.50% | ~1,099 |
+| Family Entanglements | 0.50% | ~1,099 |
+| Seeking Allies | 0.50% | ~1,099 |
+| Friendly Imps | 0.50% | ~1,099 |
+| Pure Energy | 0.50% | ~1,099 |
 | Not That Type of Helm! | 0.50% | ~930 |
 | Calcryx Tricks | 0.50% | ~930 |
 | Goblin Halls: the Next Generation | 0.50% | ~930 |
@@ -256,6 +256,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel's Last Stand | 0.20% | ~372 |
 | Ending the Rime - Part 1 | 0.20% | ~372 |
 | Ending the Rime - Part 2 | 0.20% | ~372 |
+| Reghed Glacier Mysteries | 0.20% | ~372 |
 | Tekeli-li's Hunt | 0.20% | ~372 |
 | The Haunted Jungle | 0.20% | ~439 |
 | Poor Guidance | 0.20% | ~439 |
@@ -497,7 +498,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shady Sidekicks - Part 1 | 0.10% | ~186 |
 | Ambitious Speakers - Part 2 | 0.10% | ~186 |
 | Shady Sidekicks - Part 2 | 0.10% | ~186 |
-| Reghed Glacier Mysteries | 0.10% | ~186 |
 | Mysteries Unlocked | 0.10% | ~186 |
 | Male Pattern Boldness | 0.10% | ~186 |
 | Cackling Horror | 0.10% | ~186 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,698 (Ranked 52)  
-Completed: 2,161 (0.98%) (Ranked 114)  
+Progressed: 219,707 (Ranked 52)  
+Completed: 2,162 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -628,7 +628,7 @@ Completed: 2,161 (0.98%) (Ranked 114)
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
-| 2023-08-07 | 219,698 | 2,161 |
+| 2023-08-07 | 219,707 | 2,162 |
 ## Awards
 Max (Diverse Characters): 5,121  (Ranked 67)  
 Sum: 30,936 (Ranked 38)  

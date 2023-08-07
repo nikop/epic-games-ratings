@@ -6,19 +6,19 @@ Rating: 4.65 (Ranked 298)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Prepper | 93.00% | ~4,537 |
-| I will survive! | 92.00% | ~4,488 |
-| All thumbs | 91.00% | ~4,439 |
-| Home, sweet home | 90.00% | ~4,390 |
-| Survivalist | 89.00% | ~4,341 |
+| I will survive! | 92.00% | ~4,489 |
+| All thumbs | 91.00% | ~4,440 |
+| Home, sweet home | 90.00% | ~4,391 |
+| Survivalist | 89.00% | ~4,342 |
 | One way ticket | 84.00% | ~4,098 |
 | Last man standing | 79.00% | ~3,854 |
-| Family guy | 77.00% | ~3,756 |
+| Family guy | 77.00% | ~3,757 |
 | Out of the Bag | 74.00% | ~3,610 |
-| The Dark Side | 69.00% | ~3,366 |
-| Duck and cover! | 64.00% | ~3,122 |
-| Souper! | 63.00% | ~3,073 |
-| Pacifist | 58.00% | ~2,829 |
-| 2-1-6 | 57.00% | ~2,780 |
+| The Dark Side | 69.00% | ~3,367 |
+| Duck and cover! | 64.00% | ~3,123 |
+| Souper! | 63.00% | ~3,074 |
+| Pacifist | 58.00% | ~2,830 |
+| 2-1-6 | 57.00% | ~2,781 |
 | A gift | 52.00% | ~2,537 |
 | Girl Power | 46.00% | ~2,244 |
 | What goes around... | 43.00% | ~2,098 |
@@ -38,7 +38,7 @@ Rating: 4.65 (Ranked 298)
 | Men in Black | 12.00% | ~585 |
 | No stone unturned | 11.00% | ~537 |
 | Unplugged | 8.00% | ~390 |
-| Mad Hatter | 7.00% | ~341 |
+| Mad Hatter | 7.00% | ~342 |
 | Holidays! | 6.00% | ~293 |
 | Yes Man | 6.00% | ~293 |
 | Take that, Brundlefly! | 5.00% | ~244 |
@@ -66,7 +66,7 @@ Rating: 4.65 (Ranked 298)
 | Tora! Tora! Tora! | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,878 (Ranked 142)  
+Progressed: 4,879 (Ranked 142)  
 Completed: 1 (0.02%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 1 (0.02%) (Ranked 230)
 | 2023-08-04 | 4,861 | 1 |
 | 2023-08-05 | 4,871 | 1 |
 | 2023-08-06 | 4,876 | 1 |
-| 2023-08-07 | 4,878 | 1 |
+| 2023-08-07 | 4,879 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

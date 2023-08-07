@@ -9,16 +9,16 @@ Number of Ratings: 1,354  (23.09.2022)
 | Devoured by Darkness | 22.00% | ~2,387 |
 | A Spark | 16.00% | ~1,736 |
 | Burning City | 15.00% | ~1,628 |
-| Mythic Choices | 13.00% | ~1,410 |
-| Defender's Heart | 13.00% | ~1,410 |
+| Mythic Choices | 13.00% | ~1,411 |
+| Defender's Heart | 13.00% | ~1,411 |
 | Banner over the Citadel | 12.00% | ~1,302 |
 | Queen's Gratitude | 10.00% | ~1,085 |
 | Fifth Crusade | 7.00% | ~760 |
-| Embrace of the Abyss | 5.00% | ~542 |
-| Path of the Angel | 5.00% | ~542 |
-| Great Upstart | 5.00% | ~542 |
-| All Paths Open | 5.00% | ~542 |
-| Demonic and Divine | 5.00% | ~542 |
+| Embrace of the Abyss | 5.00% | ~543 |
+| Path of the Angel | 5.00% | ~543 |
+| Great Upstart | 5.00% | ~543 |
+| All Paths Open | 5.00% | ~543 |
+| Demonic and Divine | 5.00% | ~543 |
 | Path of the Azata | 4.00% | ~434 |
 | Transformation | 4.00% | ~434 |
 | The Legacy | 4.00% | ~434 |
@@ -44,9 +44,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Stay Underground | 2.00% | ~193 |
 | Hanged Man's Notes | 2.00% | ~193 |
 | Sarkoris Will Be Green | 2.00% | ~193 |
-| The Final Threshold | 1.00% | ~108 |
-| Strategic Victory | 1.00% | ~108 |
-| Abyssal Conspiracy | 1.00% | ~108 |
+| The Final Threshold | 1.00% | ~109 |
+| Strategic Victory | 1.00% | ~109 |
+| Abyssal Conspiracy | 1.00% | ~109 |
 | This Wall Won't Fall | 1.00% | ~96 |
 | Not the Last Sarkorian | 1.00% | ~96 |
 | Path of the Legend | 0.90% | ~98 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,850 (Ranked 120)  
+Progressed: 10,851 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,15 +232,15 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-04 | 10,798 | 0 |
 | 2023-08-05 | 10,811 | 0 |
 | 2023-08-06 | 10,839 | 0 |
-| 2023-08-07 | 10,850 | 0 |
+| 2023-08-07 | 10,851 | 0 |
 ## Awards
 Max (Character Customization): 1,697  (Ranked 117)  
-Sum: 6,874 (Ranked 113)  
+Sum: 6,875 (Ranked 113)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,697 |
-| This game is Extremely Fun | 644 |
+| This game is Extremely Fun | 645 |
 | This game is Highly Recommended | 630 |
 | This game has Amazing Characters | 626 |
 | This game has Diverse Characters | 614 |
@@ -438,4 +438,4 @@ Diff (max vs sum): 4
 | 2023-08-03 | 4.76 | - | 1,695 | 6,867 |
 | 2023-08-04 | 4.76 | - | 1,695 | 6,870 |
 | 2023-08-06 | 4.76 | - | 1,695 | 6,872 |
-| 2023-08-07 | 4.76 | - | 1,697 | 6,874 |
+| 2023-08-07 | 4.76 | - | 1,697 | 6,875 |

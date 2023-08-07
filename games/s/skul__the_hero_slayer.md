@@ -6,10 +6,10 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,530 |
-| What should I buy? | 84.00% | ~6,801 |
-| Focus! | 63.00% | ~5,101 |
-| Rescued Elder Ent | 63.00% | ~5,101 |
+| The Legend Begins | 93.00% | ~7,531 |
+| What should I buy? | 84.00% | ~6,802 |
+| Focus! | 63.00% | ~5,102 |
+| Rescued Elder Ent | 63.00% | ~5,102 |
 | The End of the Gold Mane Knights | 48.00% | ~3,887 |
 | False Goddess, Disappear | 40.00% | ~3,239 |
 | Rules of Etiquette | 40.00% | ~3,239 |
@@ -19,8 +19,8 @@ Number of Ratings: 546  (23.09.2022)
 | The Hero Killer | 28.00% | ~2,267 |
 | The Final Battle of the First Hero | 27.00% | ~2,186 |
 | Go Home... | 27.00% | ~2,186 |
-| Brain at Full Throttle | 23.00% | ~1,862 |
-| Rookies Welcome | 20.00% | ~1,619 |
+| Brain at Full Throttle | 23.00% | ~1,863 |
+| Rookies Welcome | 20.00% | ~1,620 |
 | Deadly Power | 16.00% | ~1,296 |
 | Castle Restoration Plans | 14.00% | ~1,134 |
 | The Dwarven Chandelier | 12.00% | ~972 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~162 |
 | Cold-Blooded | 0.80% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,097 (Ranked 127)  
+Progressed: 8,098 (Ranked 128)  
 Completed: 13 (0.16%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,9 +134,10 @@ Completed: 13 (0.16%) (Ranked 183)
 | 2023-08-04 | 8,091 | 12 |
 | 2023-08-05 | 8,093 | 12 |
 | 2023-08-06 | 8,097 | 13 |
+| 2023-08-07 | 8,098 | 13 |
 ## Awards
 Max (Great for Beginners): 123  (Ranked 312)  
-Sum: 896 (Ranked 251)  
+Sum: 897 (Ranked 251)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -146,7 +147,7 @@ Diff (max vs sum): 61
 | This game is Highly Recommended | 109 |
 | This game is Relaxing | 105 |
 | This game has Quickly Understood Controls | 101 |
-| This game has Amazing Storytelling | 90 |
+| This game has Amazing Storytelling | 91 |
 | This game has Amazing Characters | 81 |
 | This game has a Creative Community | 60 |
 | This game has Challenging Combat | 51 |
@@ -268,3 +269,4 @@ Diff (max vs sum): 61
 | 2023-07-30 | 4.72 | - | 122 | 893 |
 | 2023-08-01 | 4.72 | - | 123 | 895 |
 | 2023-08-03 | 4.72 | - | 123 | 896 |
+| 2023-08-07 | 4.72 | - | 123 | 897 |

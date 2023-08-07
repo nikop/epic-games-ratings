@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 818,
+  "EOS_Progressed": 819,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
@@ -2876,6 +2876,11 @@
       "Time": "2023-08-07T20:06:57.1828564+00:00",
       "NumProgressed": 818,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-07T21:08:21.1972734+00:00",
+      "NumProgressed": 819,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2951,7 +2956,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -2999,7 +3004,7 @@
       "Name": "Corporal",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -3023,7 +3028,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -3053,9 +3058,9 @@
       "ID": "objective_key_alliance_help_2",
       "SetID": "bm61c2p",
       "Name": "Brothers in Arms",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 41
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -3063,7 +3068,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -3190,14 +3195,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 818,
+      "Progressed": 819,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-07T20:06:57.1828557+00:00",
+  "LastChanged_Achievements": "2023-08-07T21:08:21.1972728+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:21.6461868+00:00",
-  "LastUpdate_Ratings": "2023-08-07T19:57:18.1631049+00:00",
-  "LastUpdate_Achievements": "2023-08-07T20:06:57.1829103+00:00"
+  "LastUpdate_Ratings": "2023-08-07T20:58:19.2511673+00:00",
+  "LastUpdate_Achievements": "2023-08-07T21:08:21.1973634+00:00"
 }

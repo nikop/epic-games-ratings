@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -395,9 +395,9 @@
       "ID": "CgkInO_K3eIdEAIQEg",
       "SetID": "6bj96in",
       "Name": "HOARDER",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CgkInO_K3eIdEAIQEw",
@@ -435,9 +435,9 @@
       "ID": "CgkInO_K3eIdEAIQFw",
       "SetID": "6bj96in",
       "Name": "INTUITIVE ENGINEER",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CgkInO_K3eIdEAIQGA",
@@ -474,8 +474,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-07T20:05:15.2542666+00:00",
+  "LastChanged_Achievements": "2023-08-07T21:06:32.0125617+00:00",
   "LastUpdate_AppInfo": "2023-08-02T14:57:15.3975507+00:00",
-  "LastUpdate_Ratings": "2023-08-07T19:57:40.5570501+00:00",
-  "LastUpdate_Achievements": "2023-08-07T20:05:15.2542853+00:00"
+  "LastUpdate_Ratings": "2023-08-07T20:58:42.3373832+00:00",
+  "LastUpdate_Achievements": "2023-08-07T21:06:32.0125799+00:00"
 }

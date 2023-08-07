@@ -418,7 +418,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7471,
+  "EOS_Progressed": 7472,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 1,
@@ -7103,6 +7103,11 @@
       "Time": "2023-08-07T18:05:19.5176429+00:00",
       "NumProgressed": 7471,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-08-07T21:07:49.9387176+00:00",
+      "NumProgressed": 7472,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 29,
@@ -7114,7 +7119,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6201
+      "UsersEstimate": 6202
     },
     {
       "ID": "ACH02",
@@ -7122,7 +7127,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2465
+      "UsersEstimate": 2466
     },
     {
       "ID": "ACH03",
@@ -7345,7 +7350,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7471,
+      "Progressed": 7472,
       "Completed": 43
     }
   ],
@@ -7353,8 +7358,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-07T19:58:54.5424396+00:00",
-  "LastChanged_Achievements": "2023-08-07T20:06:28.1876473+00:00",
+  "LastChanged_Achievements": "2023-08-07T21:07:49.9387172+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:37.4794149+00:00",
-  "LastUpdate_Ratings": "2023-08-07T19:58:54.5424407+00:00",
-  "LastUpdate_Achievements": "2023-08-07T20:06:28.1877101+00:00"
+  "LastUpdate_Ratings": "2023-08-07T21:00:00.7266428+00:00",
+  "LastUpdate_Achievements": "2023-08-07T21:07:49.9387879+00:00"
 }

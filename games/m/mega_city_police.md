@@ -11,11 +11,11 @@
 | Escape From M.C. | 31.00% | ~9 |
 | Restore Honor | 31.00% | ~9 |
 | Overkill | 17.00% | ~5 |
-| Bring Down the Corp | 10.00% | ~3 |
+| Bring Down the Corp | 14.00% | ~4 |
 | Lieutenant | 7.00% | ~2 |
+| Flawless Victory | 7.00% | ~2 |
 | Gibbing Love | 3.00% | ~1 |
 | Dust to Dust | 3.00% | ~1 |
-| Flawless Victory | 3.00% | ~1 |
 | Knife Juggler | 3.00% | ~1 |
 | Head of the Snake | 0.00% | ~0 |
 | Barbecue Time | 0.00% | ~0 |
