@@ -480,7 +480,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524399,
+  "EOS_Progressed": 524401,
   "EOS_Completed": 455,
   "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 2,
@@ -11935,6 +11935,11 @@
       "Time": "2023-08-07T15:05:04.4440354+00:00",
       "NumProgressed": 524399,
       "NumCompleted": 455
+    },
+    {
+      "Time": "2023-08-07T16:05:13.8627629+00:00",
+      "NumProgressed": 524401,
+      "NumCompleted": 455
     }
   ],
   "TotalAchievements": 57,
@@ -11962,7 +11967,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 367079
+      "UsersEstimate": 367081
     },
     {
       "ID": "12",
@@ -12026,7 +12031,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 325127
+      "UsersEstimate": 325129
     },
     {
       "ID": "2",
@@ -12274,7 +12279,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 325127
+      "UsersEstimate": 325129
     },
     {
       "ID": "48",
@@ -12401,15 +12406,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 524399,
+      "Progressed": 524401,
       "Completed": 455
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-07T15:05:04.4440348+00:00",
+  "LastChanged_Achievements": "2023-08-07T16:05:13.8627622+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.5047426+00:00",
-  "LastUpdate_Ratings": "2023-08-07T14:58:24.4395697+00:00",
-  "LastUpdate_Achievements": "2023-08-07T15:05:04.4441718+00:00"
+  "LastUpdate_Ratings": "2023-08-07T15:58:24.218487+00:00",
+  "LastUpdate_Achievements": "2023-08-07T16:05:13.8629037+00:00"
 }

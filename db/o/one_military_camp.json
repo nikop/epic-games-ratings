@@ -764,9 +764,9 @@
       "ID": "ACHIEVEMENT_ID_32",
       "SetID": "c504de6",
       "Name": "Capitalism",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -780,9 +780,9 @@
       "ID": "ACHIEVEMENT_ID_34",
       "SetID": "c504de6",
       "Name": "Self-sufficient",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_ID_35",
@@ -804,9 +804,9 @@
       "ID": "ACHIEVEMENT_ID_37",
       "SetID": "c504de6",
       "Name": "Medicine Tycoon",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_ID_38",
@@ -836,9 +836,9 @@
       "ID": "ACHIEVEMENT_ID_40",
       "SetID": "c504de6",
       "Name": "Great Producer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_ID_41",
@@ -915,8 +915,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-08-07T15:05:04.1853891+00:00",
+  "LastChanged_Achievements": "2023-08-07T16:05:13.4674349+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:41.7077293+00:00",
-  "LastUpdate_Ratings": "2023-08-07T15:00:08.2523667+00:00",
-  "LastUpdate_Achievements": "2023-08-07T15:05:04.185431+00:00"
+  "LastUpdate_Ratings": "2023-08-07T16:00:07.7398225+00:00",
+  "LastUpdate_Achievements": "2023-08-07T16:05:13.4674791+00:00"
 }

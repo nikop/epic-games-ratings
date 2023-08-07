@@ -5,17 +5,17 @@ Rating: 4.56 (Ranked 468)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,125 |
-| Mainframe Hacker | 23.00% | ~3,929 |
-| The Spy who eliminated me | 23.00% | ~3,929 |
-| Tomorrow Never Dyes | 22.00% | ~3,758 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,126 |
+| Mainframe Hacker | 23.00% | ~3,930 |
+| The Spy who eliminated me | 23.00% | ~3,930 |
+| Tomorrow Never Dyes | 22.00% | ~3,759 |
 | Never Say Loser Again | 19.00% | ~3,246 |
 | From the Vault with Love | 18.00% | ~3,075 |
 | Tailor-Made | 18.00% | ~3,075 |
 | For your Eyes only | 18.00% | ~3,075 |
-| Assistant Accountant | 17.00% | ~2,904 |
-| Fully Decked Out | 17.00% | ~2,904 |
-| You Only Live Twice | 16.00% | ~2,733 |
+| Assistant Accountant | 17.00% | ~2,905 |
+| Fully Decked Out | 17.00% | ~2,905 |
+| You Only Live Twice | 16.00% | ~2,734 |
 | A view to Win | 13.00% | ~2,221 |
 | The Living Portrait | 12.00% | ~2,050 |
 | Private Collection | 12.00% | ~2,050 |
@@ -25,24 +25,24 @@ Rating: 4.56 (Ranked 468)
 | Keycards Royale | 11.00% | ~1,879 |
 | Dr. No Kill | 11.00% | ~1,879 |
 | My Motto, My Creed | 11.00% | ~1,879 |
-| In It to Win It | 10.00% | ~1,708 |
+| In It to Win It | 10.00% | ~1,709 |
 | Security Supervisor | 6.00% | ~1,025 |
 | License to Thrill | 5.00% | ~854 |
 | Social of Solace | 4.00% | ~683 |
-| Live and let lie | 3.00% | ~512 |
-| Safe Withdrawal | 3.00% | ~512 |
+| Live and let lie | 3.00% | ~513 |
+| Safe Withdrawal | 3.00% | ~513 |
 | Branch Manager | 2.00% | ~342 |
 | Call Me Maybe | 2.00% | ~342 |
 | PHD in VIP | 2.00% | ~342 |
 | The terminals are not enough | 1.00% | ~171 |
 | Lose Another Day | 0.90% | ~154 |
 | Chairman of Deceive Inc. | 0.90% | ~154 |
-| Chief Information Officer | 0.60% | ~102 |
+| Chief Information Officer | 0.60% | ~103 |
 | Masteries Are Forever | 0.30% | ~51 |
 | Extraction Confusion | 0.20% | ~34 |
 | Spyfall | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,082 (Ranked 109)  
+Progressed: 17,086 (Ranked 109)  
 Completed: 1 (0.01%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 1 (0.01%) (Ranked 237)
 | 2023-08-04 | 16,915 | 1 |
 | 2023-08-05 | 16,981 | 1 |
 | 2023-08-06 | 17,048 | 1 |
-| 2023-08-07 | 17,082 | 1 |
+| 2023-08-07 | 17,086 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

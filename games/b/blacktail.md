@@ -21,9 +21,9 @@ Rating: 4.68 (Ranked 242)
 | The word around is... | 5.00% | ~31 |
 | Liar Liar | 5.00% | ~31 |
 | The cycle acknowledged | 5.00% | ~31 |
+| Queen | 5.00% | ~31 |
 | Baba Yaga | 5.00% | ~31 |
 | Favorite | 4.00% | ~25 |
-| Queen | 4.00% | ~25 |
 | Goal! | 3.00% | ~18 |
 | Both sides | 3.00% | ~18 |
 | Specialist | 3.00% | ~18 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -334,9 +334,9 @@
       "ID": "CgkInO_K3eIdEAIQCw",
       "SetID": "6bj96in",
       "Name": "MASTER CRAFTSMAN",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "CgkInO_K3eIdEAIQDA",
@@ -469,8 +469,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-07T15:05:06.3040985+00:00",
+  "LastChanged_Achievements": "2023-08-07T16:05:16.1524874+00:00",
   "LastUpdate_AppInfo": "2023-08-02T14:57:15.3975507+00:00",
-  "LastUpdate_Ratings": "2023-08-07T14:57:31.7239081+00:00",
-  "LastUpdate_Achievements": "2023-08-07T15:05:06.3041185+00:00"
+  "LastUpdate_Ratings": "2023-08-07T15:57:38.3878493+00:00",
+  "LastUpdate_Achievements": "2023-08-07T16:05:16.1525071+00:00"
 }

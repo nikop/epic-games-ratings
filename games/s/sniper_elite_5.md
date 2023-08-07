@@ -58,8 +58,8 @@ Rating: 4.44 (Ranked 644)
 | Shoot for the Moon | 0.50% | ~17 |
 | Up close and personal | 0.40% | ~14 |
 | Can't Outrun A Bullet | 0.40% | ~14 |
-| If You Go Down To The Woods Today | 0.40% | ~13 |
-| Fight Another Day | 0.40% | ~13 |
+| If You Go Down To The Woods Today | 0.40% | ~14 |
+| Fight Another Day | 0.40% | ~14 |
 | Out of Scope | 0.30% | ~10 |
 | Sight Beyond Sights | 0.30% | ~10 |
 | Führerious Repetition | 0.30% | ~10 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 644)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,423 (Ranked 150)  
+Progressed: 3,424 (Ranked 150)  
 Completed: 9 (0.26%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 9 (0.26%) (Ranked 166)
 | 2023-08-04 | 3,405 | 9 |
 | 2023-08-05 | 3,412 | 9 |
 | 2023-08-06 | 3,419 | 9 |
-| 2023-08-07 | 3,423 | 9 |
+| 2023-08-07 | 3,424 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

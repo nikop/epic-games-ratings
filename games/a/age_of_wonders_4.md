@@ -14,13 +14,13 @@ Rating: 4.62 (Ranked 349)
 | Stronger Together | 5.00% | ~255 |
 | Magical Synergy | 5.00% | ~255 |
 | Seat of Power | 5.00% | ~255 |
+| Intimidation Tactics | 5.00% | ~255 |
 | There Can Only Be One! | 4.00% | ~204 |
 | Full Ascension | 4.00% | ~204 |
 | Bone Peddler | 4.00% | ~204 |
 | My Final Form | 4.00% | ~204 |
 | In a Liege of Your Own | 4.00% | ~204 |
 | Impenetrable Fortress | 4.00% | ~204 |
-| Intimidation Tactics | 4.00% | ~204 |
 | Here be Dragons | 4.00% | ~204 |
 | Blood of the Dragon | 4.00% | ~204 |
 | Mighty Hoard | 4.00% | ~204 |

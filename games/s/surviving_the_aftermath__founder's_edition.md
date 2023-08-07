@@ -25,10 +25,10 @@ Number of Ratings: 836  (23.09.2022)
 | Legendary Explorer | 27.00% | ~2,185 |
 | Finders, Keepers | 26.00% | ~2,104 |
 | Top Notch | 25.00% | ~2,023 |
+| Great Leader | 23.00% | ~1,861 |
 | Ice Lakes | 23.00% | ~1,861 |
 | Mentor | 23.00% | ~1,861 |
 | Merchant | 22.00% | ~1,780 |
-| Great Leader | 22.00% | ~1,780 |
 | Real Survivor | 22.00% | ~1,780 |
 | Rocket Surgeon | 20.00% | ~1,619 |
 | War Never Changes | 19.00% | ~1,538 |

@@ -4,8 +4,8 @@
 Rating: 4.42 (Ranked 666)  
 ## Awards
 Max (Diverse Characters): 34  (Ranked 441)  
-Sum: 204 (Ranked 365)  
-Diff (max vs sum): 76  
+Sum: 224 (Ranked 357)  
+Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 34 |
@@ -18,6 +18,7 @@ Diff (max vs sum): 76
 | This game is Relaxing | 26 |
 | This game has Unique Visuals | 22 |
 | This game has Quickly Understood Controls | 21 |
+| This game has a Creative Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -111,3 +112,4 @@ Diff (max vs sum): 76
 | 2023-07-30 | 4.42 | 34 | 201 |
 | 2023-08-02 | 4.42 | 34 | 203 |
 | 2023-08-06 | 4.42 | 34 | 204 |
+| 2023-08-07 | 4.42 | 34 | 224 |

@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17082,
+  "EOS_Progressed": 17086,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 738,
+  "EOS_NewPlayers": 729,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7619,6 +7619,11 @@
       "Time": "2023-08-07T15:04:31.8943362+00:00",
       "NumProgressed": 17082,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-07T16:04:31.350852+00:00",
+      "NumProgressed": 17086,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -7630,7 +7635,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     },
     {
       "ID": "0002",
@@ -7646,7 +7651,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2904
+      "UsersEstimate": 2905
     },
     {
       "ID": "0004",
@@ -7670,7 +7675,7 @@
       "Name": "Chief Information Officer",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "0007",
@@ -7694,7 +7699,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3929
+      "UsersEstimate": 3930
     },
     {
       "ID": "0010",
@@ -7718,7 +7723,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2733
+      "UsersEstimate": 2734
     },
     {
       "ID": "0013",
@@ -7734,7 +7739,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2904
+      "UsersEstimate": 2905
     },
     {
       "ID": "0015",
@@ -7750,7 +7755,7 @@
       "Name": "Live and let lie",
       "Percentage": 3,
       "XP": 115,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "0017",
@@ -7766,7 +7771,7 @@
       "Name": "In It to Win It",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "0019",
@@ -7806,7 +7811,7 @@
       "Name": "Safe Withdrawal",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "0024",
@@ -7814,7 +7819,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3758
+      "UsersEstimate": 3759
     },
     {
       "ID": "0025",
@@ -7846,7 +7851,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3929
+      "UsersEstimate": 3930
     },
     {
       "ID": "0029",
@@ -7917,7 +7922,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17082,
+      "Progressed": 17086,
       "Completed": 1
     }
   ],
@@ -7925,8 +7930,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-04T08:00:04.3199402+00:00",
-  "LastChanged_Achievements": "2023-08-07T15:04:31.8943355+00:00",
+  "LastChanged_Achievements": "2023-08-07T16:04:31.3508513+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-07T15:01:08.5733117+00:00",
-  "LastUpdate_Achievements": "2023-08-07T15:04:31.8944168+00:00"
+  "LastUpdate_Ratings": "2023-08-07T16:01:18.2012852+00:00",
+  "LastUpdate_Achievements": "2023-08-07T16:04:31.3509278+00:00"
 }

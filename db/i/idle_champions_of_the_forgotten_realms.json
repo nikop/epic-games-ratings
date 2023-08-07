@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 37,
+  "Ranking_EOS_NewPlayers": 36,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5626,9 +5626,9 @@
       "Count": 3345
     }
   ],
-  "EOS_Progressed": 219616,
+  "EOS_Progressed": 219634,
   "EOS_Completed": 2161,
-  "EOS_NewPlayers": 2217,
+  "EOS_NewPlayers": 2228,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17401,6 +17401,11 @@
       "Time": "2023-08-07T15:02:17.0794565+00:00",
       "NumProgressed": 219616,
       "NumCompleted": 2161
+    },
+    {
+      "Time": "2023-08-07T16:02:38.4855735+00:00",
+      "NumProgressed": 219634,
+      "NumCompleted": 2161
     }
   ],
   "TotalAchievements": 512,
@@ -17420,7 +17425,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4392
+      "UsersEstimate": 4393
     },
     {
       "ID": "objective_completed_100",
@@ -17436,7 +17441,7 @@
       "Name": "Upholding the Law",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_102",
@@ -17548,7 +17553,7 @@
       "Name": "Thieves of the Coven",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "objective_completed_1061",
@@ -17780,7 +17785,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6588
+      "UsersEstimate": 6589
     },
     {
       "ID": "objective_completed_110",
@@ -18076,7 +18081,7 @@
       "Name": "On the Hunt",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_1160",
@@ -18348,7 +18353,7 @@
       "Name": "Homecoming",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_125",
@@ -18380,7 +18385,7 @@
       "Name": "The Lost Heir of Omu",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_13",
@@ -18524,7 +18529,7 @@
       "Name": "The Forbidden City",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_15",
@@ -18564,7 +18569,7 @@
       "Name": "Captured!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_155",
@@ -18594,9 +18599,9 @@
       "ID": "objective_completed_16",
       "SetID": "cc37lbc",
       "Name": "Low Initiative",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1318
     },
     {
       "ID": "objective_completed_164",
@@ -18652,7 +18657,7 @@
       "Name": "Wisdom Check",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_171",
@@ -18676,7 +18681,7 @@
       "Name": "A Grand Puzzle",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_180",
@@ -18708,7 +18713,7 @@
       "Name": "Tomb of the Nine Gods",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_185",
@@ -18956,7 +18961,7 @@
       "Name": "Tower on the Lake",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_263",
@@ -19020,7 +19025,7 @@
       "Name": "Trollskull Manor",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_279",
@@ -19052,7 +19057,7 @@
       "Name": "Attack on the Manor",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_284",
@@ -19100,7 +19105,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_36",
@@ -19108,7 +19113,7 @@
       "Name": "The Death Curse",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_37",
@@ -19276,7 +19281,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_40",
@@ -19284,7 +19289,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_400",
@@ -19548,7 +19553,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_54",
@@ -19556,7 +19561,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_540",
@@ -19564,7 +19569,7 @@
       "Name": "A Tale of Two Cities",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_541",
@@ -19596,7 +19601,7 @@
       "Name": "The Dead Three",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_546",
@@ -19900,7 +19905,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_590",
@@ -19956,7 +19961,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_60",
@@ -20484,7 +20489,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_690",
@@ -20588,7 +20593,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_75",
@@ -20596,7 +20601,7 @@
       "Name": "Lost in the Deep",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_76",
@@ -20604,7 +20609,7 @@
       "Name": "Easily Distracted",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_77",
@@ -20620,7 +20625,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_8",
@@ -20636,7 +20641,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_802",
@@ -21156,7 +21161,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_902",
@@ -21284,7 +21289,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_95",
@@ -21380,7 +21385,7 @@
       "Name": "Not That Type of Helm!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "objective_completed_1327",
@@ -21404,7 +21409,7 @@
       "Name": "Calcryx Tricks",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "objective_completed_593",
@@ -21412,7 +21417,7 @@
       "Name": "Goblin Halls: the Next Generation",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "objective_completed_663",
@@ -21420,7 +21425,7 @@
       "Name": "Bazaar Companions",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "objective_completed_668",
@@ -21428,7 +21433,7 @@
       "Name": "Bahamut\u0027s Army",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "objective_completed_1375",
@@ -21500,28 +21505,28 @@
       "Name": "Animated Giff",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185890,
+      "Progressed": 185908,
       "Completed": 3065
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219616,
+      "Progressed": 219634,
       "Completed": 2161
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-07T11:59:17.6887797+00:00",
-  "LastChanged_Achievements": "2023-08-07T15:02:17.0794559+00:00",
+  "LastChanged_Achievements": "2023-08-07T16:02:38.4855725+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-07T14:59:20.2023032+00:00",
-  "LastUpdate_Achievements": "2023-08-07T15:02:17.0821585+00:00"
+  "LastUpdate_Ratings": "2023-08-07T15:59:22.1734244+00:00",
+  "LastUpdate_Achievements": "2023-08-07T16:02:38.4890427+00:00"
 }

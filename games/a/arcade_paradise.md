@@ -48,8 +48,8 @@ Rating: 4.58 (Ranked 425)
 | True Capitalist | 0.90% | ~6 |
 | Once upon a slime | 0.90% | ~6 |
 | It's a horror game | 0.90% | ~6 |
+| Smells like teen spirit | 0.90% | ~6 |
 | Got 9999 problem but a Zombie ain't one | 0.90% | ~6 |
-| Smells like teen spirit | 0.70% | ~5 |
 | Friends Reunited | 0.60% | ~4 |
 | Arcadeception | 0.60% | ~4 |
 | Corporate Restructrure | 0.40% | ~3 |

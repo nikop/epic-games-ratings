@@ -64,12 +64,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.70% | ~93 |
 | Legendary Cities | 0.70% | ~93 |
 | Just Difficulty | 0.70% | ~93 |
+| Sages | 0.70% | ~93 |
 | Learn to Play 2 | 0.70% | ~93 |
 | Egyptian Paganism | 0.70% | ~93 |
 | Mythology | 0.70% | ~93 |
 | Valiant | 0.60% | ~80 |
 | Champions | 0.60% | ~80 |
-| Sages | 0.60% | ~80 |
 | Acropolis | 0.60% | ~80 |
 | Mausoleum | 0.60% | ~80 |
 | Greece | 0.60% | ~80 |

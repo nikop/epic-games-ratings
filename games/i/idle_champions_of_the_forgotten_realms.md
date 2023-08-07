@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,785 |
-| Beast Intentions | 3.00% | ~6,588 |
-| Maddening | 2.00% | ~4,392 |
+| Beast Intentions | 3.00% | ~6,589 |
+| Maddening | 2.00% | ~4,393 |
 | The Silken Swamp | 1.00% | ~2,196 |
 | Supply Run | 1.00% | ~2,196 |
 | Vecna Lives! | 1.00% | ~1,859 |
@@ -38,15 +38,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Evacuation of Waterdeep | 0.60% | ~1,115 |
 | The Dread Domain of Tovag | 0.60% | ~1,115 |
 | Beast Mode | 0.60% | ~1,318 |
+| Low Initiative | 0.60% | ~1,318 |
 | The Mists of Ravenloft | 0.60% | ~1,318 |
 | The Dinner Party | 0.60% | ~1,318 |
 | The Botched Kidnapping | 0.60% | ~1,318 |
 | The Ring of Regeneration | 0.60% | ~1,318 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,115 |
 | Krux's Speed Run | 0.60% | ~1,115 |
-| Thieves of the Coven | 0.50% | ~929 |
+| Thieves of the Coven | 0.50% | ~930 |
 | Friends of the Forest | 0.50% | ~1,098 |
-| Low Initiative | 0.50% | ~1,098 |
 | Street War | 0.50% | ~1,098 |
 | March of the Undead | 0.50% | ~1,098 |
 | No Time To Rest | 0.50% | ~1,098 |
@@ -54,53 +54,53 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.50% | ~1,098 |
 | Seeking Allies | 0.50% | ~1,098 |
 | Friendly Imps | 0.50% | ~1,098 |
-| Not That Type of Helm! | 0.50% | ~929 |
-| Calcryx Tricks | 0.50% | ~929 |
-| Goblin Halls: the Next Generation | 0.50% | ~929 |
-| Bazaar Companions | 0.50% | ~929 |
-| Bahamut's Army | 0.50% | ~929 |
-| Animated Giff | 0.50% | ~929 |
-| Upholding the Law | 0.40% | ~878 |
+| Not That Type of Helm! | 0.50% | ~930 |
+| Calcryx Tricks | 0.50% | ~930 |
+| Goblin Halls: the Next Generation | 0.50% | ~930 |
+| Bazaar Companions | 0.50% | ~930 |
+| Bahamut's Army | 0.50% | ~930 |
+| Animated Giff | 0.50% | ~930 |
+| Upholding the Law | 0.40% | ~879 |
 | Hither of the Feywild | 0.40% | ~744 |
 | The Prince of a Thousand Enemies | 0.40% | ~744 |
 | Speeds of Destruction | 0.40% | ~744 |
 | Owlbear Necessities | 0.40% | ~744 |
-| On the Hunt | 0.40% | ~878 |
+| On the Hunt | 0.40% | ~879 |
 | Best Thay Ever | 0.40% | ~744 |
 | A Demi-god's Defender | 0.40% | ~744 |
 | Who Lurks Below? | 0.40% | ~744 |
 | Xanathaaaaaaar! | 0.40% | ~744 |
-| Homecoming | 0.40% | ~878 |
-| The Lost Heir of Omu | 0.40% | ~878 |
+| Homecoming | 0.40% | ~879 |
+| The Lost Heir of Omu | 0.40% | ~879 |
 | No One Can Hear You Scream | 0.40% | ~744 |
 | Welcome to the Rock | 0.40% | ~744 |
-| The Forbidden City | 0.40% | ~878 |
-| Captured! | 0.40% | ~878 |
-| Wisdom Check | 0.40% | ~878 |
-| A Grand Puzzle | 0.40% | ~878 |
-| Tomb of the Nine Gods | 0.40% | ~878 |
-| Tower on the Lake | 0.40% | ~878 |
-| Trollskull Manor | 0.40% | ~878 |
-| Attack on the Manor | 0.40% | ~878 |
-| The Crumbling Temple | 0.40% | ~878 |
-| The Death Curse | 0.40% | ~878 |
-| Are Ya Chicken? | 0.40% | ~878 |
-| Useless Allies | 0.40% | ~878 |
-| Mad Cow Disease | 0.40% | ~878 |
-| Exploring Port Nyanzaru | 0.40% | ~878 |
-| A Tale of Two Cities | 0.40% | ~878 |
-| The Dead Three | 0.40% | ~878 |
-| Running of the Saurs | 0.40% | ~878 |
-| The Contagious Curse | 0.40% | ~878 |
-| Escort to Waterdeep | 0.40% | ~878 |
+| The Forbidden City | 0.40% | ~879 |
+| Captured! | 0.40% | ~879 |
+| Wisdom Check | 0.40% | ~879 |
+| A Grand Puzzle | 0.40% | ~879 |
+| Tomb of the Nine Gods | 0.40% | ~879 |
+| Tower on the Lake | 0.40% | ~879 |
+| Trollskull Manor | 0.40% | ~879 |
+| Attack on the Manor | 0.40% | ~879 |
+| The Crumbling Temple | 0.40% | ~879 |
+| The Death Curse | 0.40% | ~879 |
+| Are Ya Chicken? | 0.40% | ~879 |
+| Useless Allies | 0.40% | ~879 |
+| Mad Cow Disease | 0.40% | ~879 |
+| Exploring Port Nyanzaru | 0.40% | ~879 |
+| A Tale of Two Cities | 0.40% | ~879 |
+| The Dead Three | 0.40% | ~879 |
+| Running of the Saurs | 0.40% | ~879 |
+| The Contagious Curse | 0.40% | ~879 |
+| Escort to Waterdeep | 0.40% | ~879 |
 | The Giant's Bane Tavern | 0.40% | ~744 |
-| Waterdeep Detours | 0.40% | ~878 |
-| Lost in the Deep | 0.40% | ~878 |
-| Easily Distracted | 0.40% | ~878 |
-| Underdeep Cartography | 0.40% | ~878 |
-| Overdue Rendezvous | 0.40% | ~878 |
-| Pure Energy | 0.40% | ~878 |
-| The Templar's Camp | 0.40% | ~878 |
+| Waterdeep Detours | 0.40% | ~879 |
+| Lost in the Deep | 0.40% | ~879 |
+| Easily Distracted | 0.40% | ~879 |
+| Underdeep Cartography | 0.40% | ~879 |
+| Overdue Rendezvous | 0.40% | ~879 |
+| Pure Energy | 0.40% | ~879 |
+| The Templar's Camp | 0.40% | ~879 |
 | Devilishly Cold | 0.40% | ~744 |
 | Luigi After Hours | 0.40% | ~744 |
 | Electric Mayhem | 0.40% | ~744 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,616 (Ranked 52)  
+Progressed: 219,634 (Ranked 52)  
 Completed: 2,161 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,7 +628,7 @@ Completed: 2,161 (0.98%) (Ranked 114)
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
-| 2023-08-07 | 219,616 | 2,161 |
+| 2023-08-07 | 219,634 | 2,161 |
 ## Awards
 Max (Diverse Characters): 5,121  (Ranked 67)  
 Sum: 30,932 (Ranked 38)  

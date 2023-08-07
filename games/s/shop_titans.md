@@ -29,6 +29,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 0.30% | ~402 |
 | On the Path to Greatness | 0.20% | ~268 |
 | Ascended | 0.20% | ~268 |
+| Tax not Included | 0.20% | ~268 |
 | Research & Development | 0.20% | ~268 |
 | Vanity, Verily | 0.20% | ~268 |
 | Big Game Hunting | 0.20% | ~268 |
@@ -57,7 +58,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Above the Norm | 0.10% | ~134 |
 | Constellated | 0.10% | ~134 |
 | A Ronin Reborn | 0.10% | ~134 |
-| Tax not Included | 0.10% | ~134 |
 | The King's Caprice | 0.10% | ~134 |
 | Thirst for Knowledge | 0.10% | ~134 |
 | Bane of Legends | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,076 (Ranked 63)  
+Progressed: 134,080 (Ranked 63)  
 Completed: 130 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,18 +228,18 @@ Completed: 130 (0.10%) (Ranked 199)
 | 2023-08-04 | 133,890 | 128 |
 | 2023-08-05 | 133,956 | 128 |
 | 2023-08-06 | 134,025 | 129 |
-| 2023-08-07 | 134,076 | 130 |
+| 2023-08-07 | 134,080 | 130 |
 ## Awards
-Max (Great for Beginners): 4,691  (Ranked 70)  
-Sum: 27,065 (Ranked 46)  
-Diff (max vs sum): 24  
+Max (Great for Beginners): 4,691  (Ranked 71)  
+Sum: 27,066 (Ranked 46)  
+Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,691 |
 | This game is Relaxing | 3,994 |
 | This game has Quickly Understood Controls | 3,982 |
 | This game has Diverse Characters | 3,847 |
-| This game is Highly Recommended | 3,730 |
+| This game is Highly Recommended | 3,731 |
 | This game has Easy Combat | 3,672 |
 | This game has Playful Visuals | 3,149 |
 | This game has Inclusive Character Customization | 22 |
@@ -441,4 +441,4 @@ Diff (max vs sum): 24
 | 2023-08-04 | 3.99 | - | 4,686 | 27,045 |
 | 2023-08-05 | 3.99 | - | 4,688 | 27,051 |
 | 2023-08-06 | 3.99 | - | 4,688 | 27,057 |
-| 2023-08-07 | 3.99 | - | 4,691 | 27,065 |
+| 2023-08-07 | 3.99 | - | 4,691 | 27,066 |
