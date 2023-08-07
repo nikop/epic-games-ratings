@@ -8,8 +8,8 @@
 | Tinkerer | 57.00% | ~23 |
 | Welcome to the Club | 33.00% | ~13 |
 | A new World ahead | 25.00% | ~10 |
+| Don't Cry Wolf | 20.00% | ~8 |
 | Can't touch this | 20.00% | ~8 |
-| Don't Cry Wolf | 18.00% | ~7 |
 | Apprentice | 18.00% | ~7 |
 | Freezing Cold | 10.00% | ~4 |
 | The Power of the Mountains | 10.00% | ~4 |

@@ -6,26 +6,26 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 16.00% | ~100,864 |
-| Incurious | 16.00% | ~100,864 |
-| Stroller | 14.00% | ~88,256 |
-| Climate Change | 14.00% | ~88,256 |
-| Advanced Hiker | 12.00% | ~75,648 |
-| Toy Train | 12.00% | ~75,648 |
-| Hiker | 11.00% | ~69,344 |
-| Mojave Courier | 5.00% | ~31,520 |
-| Saved by Nausicaä | 4.00% | ~25,216 |
-| Voyager | 3.00% | ~18,912 |
-| Advanced Voyager | 3.00% | ~18,912 |
-| Expert Stroller | 3.00% | ~18,912 |
-| Orient Express | 3.00% | ~18,912 |
+| Advanced Stroller | 16.00% | ~100,868 |
+| Incurious | 16.00% | ~100,868 |
+| Stroller | 14.00% | ~88,259 |
+| Climate Change | 14.00% | ~88,259 |
+| Advanced Hiker | 12.00% | ~75,651 |
+| Toy Train | 12.00% | ~75,651 |
+| Hiker | 11.00% | ~69,347 |
+| Mojave Courier | 5.00% | ~31,521 |
+| Saved by Nausicaä | 4.00% | ~25,217 |
+| Voyager | 3.00% | ~18,913 |
+| Advanced Voyager | 3.00% | ~18,913 |
+| Expert Stroller | 3.00% | ~18,913 |
+| Orient Express | 3.00% | ~18,913 |
 | Expert Hiker | 2.00% | ~12,608 |
 | Marathon | 2.00% | ~12,608 |
 | Destructionist | 2.00% | ~12,608 |
 | Lost | 1.00% | ~6,304 |
 | Rocketman | 0.70% | ~4,413 |
-| Expert Voyager | 0.60% | ~3,782 |
-| Shopaholic | 0.60% | ~3,782 |
+| Expert Voyager | 0.60% | ~3,783 |
+| Shopaholic | 0.60% | ~3,783 |
 | Nanuk | 0.50% | ~3,152 |
 | Terminal Station | 0.50% | ~3,152 |
 | Dynamite Fishing | 0.50% | ~3,152 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~630 |
 | 20 Miles under the Sea | 0.10% | ~630 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 630,401 (Ranked 25)  
+Progressed: 630,424 (Ranked 25)  
 Completed: 7 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,6 +168,7 @@ Completed: 7 (0.00%) (Ranked 251)
 | 2023-08-04 | 629,307 | 7 |
 | 2023-08-05 | 629,843 | 7 |
 | 2023-08-06 | 630,401 | 7 |
+| 2023-08-07 | 630,424 | 7 |
 ## Awards
 Max (Diverse Characters): 190  (Ranked 276)  
 Sum: 1,546 (Ranked 215)  

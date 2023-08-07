@@ -6,11 +6,11 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,355 |
+| Follow the Light | 37.00% | ~22,356 |
 | Let There Be Light | 30.00% | ~18,126 |
 | Float Like a Butterfly | 28.00% | ~16,918 |
 | Nordic Walking | 23.00% | ~13,897 |
-| Bright Falls' Finest | 22.00% | ~13,292 |
+| Bright Falls' Finest | 22.00% | ~13,293 |
 | Under a Thin Layer of Skin | 19.00% | ~11,480 |
 | Park Ranger | 16.00% | ~9,667 |
 | Paging Mr. Wake | 16.00% | ~9,667 |
@@ -21,10 +21,10 @@ Number of Ratings: 524  (23.09.2022)
 | Wheels Within Wheels | 13.00% | ~7,855 |
 | They're Heeeeeere! | 13.00% | ~7,855 |
 | Missed by a Mile | 13.00% | ~7,855 |
-| Iron Horse | 12.00% | ~7,250 |
-| The Six-Gun Scribe | 12.00% | ~7,250 |
-| Collateral Carnage | 12.00% | ~7,250 |
-| Come One, Come All | 12.00% | ~7,250 |
+| Iron Horse | 12.00% | ~7,251 |
+| The Six-Gun Scribe | 12.00% | ~7,251 |
+| Collateral Carnage | 12.00% | ~7,251 |
+| Come One, Come All | 12.00% | ~7,251 |
 | Heavy Metal | 11.00% | ~6,646 |
 | Perchance to Dream | 11.00% | ~6,646 |
 | Gatekeeper | 10.00% | ~6,042 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~60 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,420 (Ranked 84)  
+Progressed: 60,421 (Ranked 84)  
 Completed: 64 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,6 +183,7 @@ Completed: 64 (0.11%) (Ranked 195)
 | 2023-08-04 | 60,237 | 64 |
 | 2023-08-05 | 60,337 | 64 |
 | 2023-08-06 | 60,420 | 64 |
+| 2023-08-07 | 60,421 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

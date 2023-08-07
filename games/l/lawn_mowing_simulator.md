@@ -6,20 +6,20 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 81.00% | ~527,780 |
-| Every story has a beginning | 36.00% | ~234,569 |
-| The first of many | 32.00% | ~208,506 |
-| Positive word of mouth | 18.00% | ~117,284 |
-| Lawn in the U.S.A. | 15.00% | ~97,737 |
-| Blade Runner | 9.00% | ~58,642 |
-| Credible | 7.00% | ~45,611 |
-| Teamwork makes the dream work | 6.00% | ~39,095 |
-| Where there's muck there's brass | 4.00% | ~26,063 |
-| Bigger and better | 4.00% | ~26,063 |
-| Aggressive expansion | 4.00% | ~26,063 |
-| Size isn't everything | 3.00% | ~19,547 |
-| Close shave | 3.00% | ~19,547 |
-| Established | 3.00% | ~19,547 |
+| The dream begins | 81.00% | ~527,796 |
+| Every story has a beginning | 36.00% | ~234,576 |
+| The first of many | 32.00% | ~208,512 |
+| Positive word of mouth | 18.00% | ~117,288 |
+| Lawn in the U.S.A. | 15.00% | ~97,740 |
+| Blade Runner | 9.00% | ~58,644 |
+| Credible | 7.00% | ~45,612 |
+| Teamwork makes the dream work | 6.00% | ~39,096 |
+| Where there's muck there's brass | 4.00% | ~26,064 |
+| Bigger and better | 4.00% | ~26,064 |
+| Aggressive expansion | 4.00% | ~26,064 |
+| Size isn't everything | 3.00% | ~19,548 |
+| Close shave | 3.00% | ~19,548 |
+| Established | 3.00% | ~19,548 |
 | Fighting on all fronts | 2.00% | ~13,032 |
 | Mighty Mowing Park Ranger | 2.00% | ~13,032 |
 | Every good deed… | 2.00% | ~13,032 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~652 |
 | Mo mowers, mo problems | 0.10% | ~652 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 651,580 (Ranked 23)  
+Progressed: 651,600 (Ranked 23)  
 Completed: 15 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,6 +170,7 @@ Completed: 15 (0.00%) (Ranked 251)
 | 2023-08-04 | 650,641 | 15 |
 | 2023-08-05 | 651,088 | 15 |
 | 2023-08-06 | 651,580 | 15 |
+| 2023-08-07 | 651,600 | 15 |
 ## Awards
 Max (Quickly Understood Controls): 181  (Ranked 281)  
 Sum: 971 (Ranked 237)  

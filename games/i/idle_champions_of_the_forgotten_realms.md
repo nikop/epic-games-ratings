@@ -14,7 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Lives! | 1.00% | ~1,857 |
 | Rocky Reception | 1.00% | ~1,857 |
 | Rock and Roll | 1.00% | ~1,857 |
-| Flight of the Kindori Pod | 0.90% | ~1,671 |
+| Flight of the Kindori Pod | 0.90% | ~1,672 |
 | Tall Tales | 0.80% | ~1,486 |
 | Seeds of Destruction | 0.80% | ~1,486 |
 | Vecna Loots! | 0.80% | ~1,486 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,439 (Ranked 53)  
+Progressed: 219,449 (Ranked 53)  
 Completed: 2,158 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,6 +628,7 @@ Completed: 2,158 (0.98%) (Ranked 114)
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
+| 2023-08-07 | 219,449 | 2,158 |
 ## Awards
 Max (Diverse Characters): 5,121  (Ranked 67)  
 Sum: 30,921 (Ranked 38)  

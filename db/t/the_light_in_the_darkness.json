@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -4703,9 +4703,9 @@
       "ID": "Building the Fox",
       "SetID": "b40dflc",
       "Name": "Building the Fox",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 443
+      "UsersEstimate": 464
     },
     {
       "ID": "Green Ticket Roundup",
@@ -4792,8 +4792,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-06T23:03:36.6521951+00:00",
+  "LastChanged_Achievements": "2023-08-07T00:04:31.8347374+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:24.0632297+00:00",
-  "LastUpdate_Ratings": "2023-08-06T23:00:44.2799566+00:00",
-  "LastUpdate_Achievements": "2023-08-06T23:03:36.6522561+00:00"
+  "LastUpdate_Ratings": "2023-08-07T00:01:54.6821054+00:00",
+  "LastUpdate_Achievements": "2023-08-07T00:04:31.8347825+00:00"
 }

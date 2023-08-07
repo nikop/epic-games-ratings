@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60420,
+  "EOS_Progressed": 60421,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 855,
+  "EOS_NewPlayers": 849,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10452,6 +10452,11 @@
       "Time": "2023-08-06T23:05:07.267656+00:00",
       "NumProgressed": 60420,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-07T00:06:16.027383+00:00",
+      "NumProgressed": 60421,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10463,7 +10468,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22355
+      "UsersEstimate": 22356
     },
     {
       "ID": "02",
@@ -10479,7 +10484,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13292
+      "UsersEstimate": 13293
     },
     {
       "ID": "04",
@@ -10519,7 +10524,7 @@
       "Name": "Iron Horse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7250
+      "UsersEstimate": 7251
     },
     {
       "ID": "09",
@@ -10631,7 +10636,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7250
+      "UsersEstimate": 7251
     },
     {
       "ID": "23",
@@ -10671,7 +10676,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7250
+      "UsersEstimate": 7251
     },
     {
       "ID": "28",
@@ -10679,7 +10684,7 @@
       "Name": "Come One, Come All",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7250
+      "UsersEstimate": 7251
     },
     {
       "ID": "29",
@@ -10998,21 +11003,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60420,
+      "Progressed": 60421,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23888,
+      "Progressed": 23889,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-06T23:05:07.2676555+00:00",
+  "LastChanged_Achievements": "2023-08-07T00:06:16.0273824+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-06T22:58:35.2326436+00:00",
-  "LastUpdate_Achievements": "2023-08-06T23:05:07.2677822+00:00"
+  "LastUpdate_Ratings": "2023-08-06T23:59:25.2717019+00:00",
+  "LastUpdate_Achievements": "2023-08-07T00:06:16.0275345+00:00"
 }

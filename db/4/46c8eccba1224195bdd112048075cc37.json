@@ -2,8 +2,8 @@
   "ID": "46c8eccba1224195bdd112048075cc37",
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
-  "Ranking_EOS_Progress": 305,
-  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 304,
+  "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 132,
+  "EOS_Progressed": 133,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.76,
+  "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
     {
       "Time": "2023-06-10T02:13:27.744268+00:00",
@@ -611,6 +611,11 @@
       "Time": "2023-08-06T17:05:26.1304509+00:00",
       "NumProgressed": 132,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-07T00:07:16.3460218+00:00",
+      "NumProgressed": 133,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -636,9 +641,9 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "CollectCurses",
@@ -678,7 +683,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "FirstBoss",
@@ -694,7 +699,7 @@
       "Name": "Start of the Path",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "FourthBoss",
@@ -750,7 +755,7 @@
       "Name": "Detective",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "SecondBoss",
@@ -758,7 +763,7 @@
       "Name": "Spider",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "TenLevel",
@@ -781,14 +786,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 132,
+      "Progressed": 133,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-08-06T23:05:58.3813031+00:00",
+  "LastChanged_Achievements": "2023-08-07T00:07:16.3460212+00:00",
   "LastUpdate_AppInfo": "2023-07-31T09:57:13.2028801+00:00",
-  "LastUpdate_Ratings": "2023-08-06T22:57:54.4933668+00:00",
-  "LastUpdate_Achievements": "2023-08-06T23:05:58.381322+00:00"
+  "LastUpdate_Ratings": "2023-08-06T23:58:39.6238388+00:00",
+  "LastUpdate_Achievements": "2023-08-07T00:07:16.3460444+00:00"
 }

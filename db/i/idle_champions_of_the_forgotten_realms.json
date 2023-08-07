@@ -5608,9 +5608,9 @@
       "Count": 3343
     }
   ],
-  "EOS_Progressed": 219439,
+  "EOS_Progressed": 219449,
   "EOS_Completed": 2158,
-  "EOS_NewPlayers": 2213,
+  "EOS_NewPlayers": 2212,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17313,6 +17313,11 @@
       "Time": "2023-08-06T23:01:56.1272147+00:00",
       "NumProgressed": 219439,
       "NumCompleted": 2158
+    },
+    {
+      "Time": "2023-08-07T00:03:23.2899214+00:00",
+      "NumProgressed": 219449,
+      "NumCompleted": 2158
     }
   ],
   "TotalAchievements": 512,
@@ -21380,7 +21385,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "objective_completed_1386",
@@ -21419,21 +21424,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185713,
+      "Progressed": 185723,
       "Completed": 3063
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219439,
+      "Progressed": 219449,
       "Completed": 2158
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-06T22:59:08.9374705+00:00",
-  "LastChanged_Achievements": "2023-08-06T23:01:56.1272141+00:00",
+  "LastChanged_Achievements": "2023-08-07T00:03:23.2899209+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-06T22:59:08.9374712+00:00",
-  "LastUpdate_Achievements": "2023-08-06T23:01:56.1300663+00:00"
+  "LastUpdate_Ratings": "2023-08-07T00:00:02.7194565+00:00",
+  "LastUpdate_Achievements": "2023-08-07T00:03:23.2930753+00:00"
 }

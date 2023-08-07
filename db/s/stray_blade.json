@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -484,9 +484,9 @@
       "ID": "ACH_MEET_BOJI",
       "SetID": "7i20me3",
       "Name": "Don\u0027t Cry Wolf",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_OPEN_TEMPLE_GATE",
@@ -603,8 +603,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-08-06T23:06:03.0977078+00:00",
+  "LastChanged_Achievements": "2023-08-07T00:07:22.0609576+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:35.6320004+00:00",
-  "LastUpdate_Ratings": "2023-08-06T22:58:43.8162657+00:00",
-  "LastUpdate_Achievements": "2023-08-06T23:06:03.0977513+00:00"
+  "LastUpdate_Ratings": "2023-08-06T23:59:34.1714386+00:00",
+  "LastUpdate_Achievements": "2023-08-07T00:07:22.0610043+00:00"
 }

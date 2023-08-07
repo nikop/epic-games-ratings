@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 96.00% | ~1,021 |
-| Waff! | 95.00% | ~1,011 |
-| Into the Barn | 87.00% | ~926 |
-| A Prophecy | 85.00% | ~904 |
+| Once Upon a Time | 96.00% | ~1,022 |
+| Waff! | 95.00% | ~1,012 |
+| Into the Barn | 87.00% | ~927 |
+| A Prophecy | 85.00% | ~905 |
 | Sword, Shield, Fight! | 76.00% | ~809 |
-| A Grand Visit | 72.00% | ~766 |
-| Fun Guy | 63.00% | ~670 |
+| A Grand Visit | 72.00% | ~767 |
+| Fun Guy | 63.00% | ~671 |
 | Vibing | 62.00% | ~660 |
 | Tragic Brave | 54.00% | ~575 |
 | Awakened Spirits | 51.00% | ~543 |
 | Little Shop | 50.00% | ~532 |
-| Surprise! | 46.00% | ~489 |
-| An Actor! | 46.00% | ~489 |
-| Curtain Call | 44.00% | ~468 |
+| Surprise! | 46.00% | ~490 |
+| An Actor! | 46.00% | ~490 |
+| Curtain Call | 44.00% | ~469 |
 | Piece of Cake | 42.00% | ~447 |
 | Gooey Delight! | 42.00% | ~447 |
 | Glimmer of Hope | 42.00% | ~447 |
-| Teacups for Toppy | 41.00% | ~436 |
-| Well Rested | 41.00% | ~436 |
+| Teacups for Toppy | 41.00% | ~437 |
+| Well Rested | 41.00% | ~437 |
 | Nightmare Fuel | 40.00% | ~426 |
 | Take Heart | 40.00% | ~426 |
 | The Guardian | 40.00% | ~426 |
-| Ancient Wisdom | 39.00% | ~415 |
 | Stronger! | 39.00% | ~415 |
-| Frog Facts! | 38.00% | ~404 |
-| All That Glistens | 38.00% | ~404 |
+| Ancient Wisdom | 38.00% | ~405 |
+| Frog Facts! | 38.00% | ~405 |
+| All That Glistens | 38.00% | ~405 |
 | Spellbound | 37.00% | ~394 |
 | All Skilled Up! | 37.00% | ~394 |
 | It's Pointy! | 37.00% | ~394 |
@@ -38,9 +38,9 @@
 | Stardust | 36.00% | ~383 |
 | Heartbreaker | 36.00% | ~383 |
 | Kidnapped! | 36.00% | ~383 |
-| Pull the Plug | 35.00% | ~372 |
-| All Heart | 35.00% | ~372 |
-| Trick Question! | 35.00% | ~372 |
+| Pull the Plug | 35.00% | ~373 |
+| All Heart | 35.00% | ~373 |
+| Trick Question! | 35.00% | ~373 |
 | Soul Slayer | 34.00% | ~362 |
 | The Downfall | 34.00% | ~362 |
 | Final Showdown | 34.00% | ~362 |
@@ -55,8 +55,8 @@
 | Dance Master | 9.00% | ~96 |
 | Bombs Away! | 9.00% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,064 (Ranked 195)  
-Completed: 78 (7.33%) (Ranked 34)  
+Progressed: 1,065 (Ranked 195)  
+Completed: 78 (7.32%) (Ranked 34)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -145,6 +145,7 @@ Completed: 78 (7.33%) (Ranked 34)
 | 2023-08-01 | 1,061 | 78 |
 | 2023-08-05 | 1,063 | 78 |
 | 2023-08-06 | 1,064 | 78 |
+| 2023-08-07 | 1,065 | 78 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

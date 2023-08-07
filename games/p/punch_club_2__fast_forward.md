@@ -8,14 +8,14 @@
 | Your first fight | 86.00% | ~200 |
 | Good Person Chip | 85.00% | ~197 |
 | First winning | 84.00% | ~195 |
-| Your first job | 83.00% | ~193 |
+| Your first job | 84.00% | ~195 |
 | Old movies enjoyer | 79.00% | ~183 |
 | Fitness professional | 77.00% | ~179 |
-| First defeat | 76.00% | ~176 |
-| Depressed visitor | 76.00% | ~176 |
-| Neurotrainer – power gainer! | 75.00% | ~174 |
-| Employee of the week | 75.00% | ~174 |
-| Your own amateur gym | 73.00% | ~169 |
+| First defeat | 77.00% | ~179 |
+| Depressed visitor | 77.00% | ~179 |
+| Neurotrainer – power gainer! | 76.00% | ~176 |
+| Employee of the week | 76.00% | ~176 |
+| Your own amateur gym | 74.00% | ~172 |
 | Run K, run! | 72.00% | ~167 |
 | Hello, world! | 68.00% | ~158 |
 | Fighting is cool | 67.00% | ~155 |
@@ -24,15 +24,15 @@
 | Employee of the month | 63.00% | ~146 |
 | Spirit of the past | 62.00% | ~144 |
 | Law student | 59.00% | ~137 |
+| Intriguing candies | 58.00% | ~135 |
+| Workout professional | 57.00% | ~132 |
 | Little hacker | 57.00% | ~132 |
 | It's good to be alive | 57.00% | ~132 |
-| Intriguing candies | 57.00% | ~132 |
-| Workout professional | 56.00% | ~130 |
+| Handyman | 56.00% | ~130 |
 | Champion – starter pack | 56.00% | ~130 |
 | Own four walls | 56.00% | ~130 |
-| Handyman | 55.00% | ~128 |
-| Employee of the year | 54.00% | ~125 |
-| Fight for life | 53.00% | ~123 |
+| Employee of the year | 55.00% | ~128 |
+| Fight for life | 54.00% | ~125 |
 | Legal courier | 50.00% | ~116 |
 | Extreme neuropower! | 50.00% | ~116 |
 | Escaped from a big trouble | 48.00% | ~111 |
@@ -43,13 +43,13 @@
 | Mysterious voice | 42.00% | ~97 |
 | Your own way | 41.00% | ~95 |
 | Get out of my apartment! | 38.00% | ~88 |
-| Responsible approach | 37.00% | ~86 |
+| Responsible approach | 38.00% | ~88 |
 | GYM professional | 36.00% | ~84 |
 | Champion – no way back | 36.00% | ~84 |
 | Poisoned fighter | 36.00% | ~84 |
 | Underground dwellers | 36.00% | ~84 |
+| Deal with life | 35.00% | ~81 |
 | Mom got better | 34.00% | ~79 |
-| Deal with life | 34.00% | ~79 |
 | The die is cast | 34.00% | ~79 |
 | Seashell hunter | 33.00% | ~77 |
 | Gang wrangler | 31.00% | ~72 |
