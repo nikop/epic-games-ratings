@@ -5,20 +5,20 @@ Rating: 4.27 (Ranked 805)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 82.00% | ~307 |
-| FIRST BLOOD | 78.00% | ~292 |
+| MASTER CHEF | 82.00% | ~308 |
+| FIRST BLOOD | 77.00% | ~289 |
 | KEVIN! | 67.00% | ~251 |
-| JACK OF ALL TRADES | 60.00% | ~224 |
+| JACK OF ALL TRADES | 60.00% | ~225 |
 | CRIMINAL | 55.00% | ~206 |
-| GRANDMA WOULD BE PROUD | 45.00% | ~168 |
-| WITHOUT BREAKING A SWEAT | 41.00% | ~153 |
-| HONORS STUDENT | 37.00% | ~138 |
-| BUTCHER | 26.00% | ~97 |
+| GRANDMA WOULD BE PROUD | 45.00% | ~169 |
+| WITHOUT BREAKING A SWEAT | 41.00% | ~154 |
+| HONORS STUDENT | 37.00% | ~139 |
+| BUTCHER | 26.00% | ~98 |
 | RAMBO | 22.00% | ~82 |
 | INDIVIDUAL APPROACH | 21.00% | ~79 |
 | HELL'S KITCHEN | 20.00% | ~75 |
 | MARTYR | 20.00% | ~75 |
-| CELEBRITY | 18.00% | ~67 |
+| CELEBRITY | 18.00% | ~68 |
 | GRATITUDE | 17.00% | ~64 |
 | LAW-ABIDING CITIZEN | 11.00% | ~41 |
 | PRUDENT | 11.00% | ~41 |
@@ -28,13 +28,13 @@ Rating: 4.27 (Ranked 805)
 | EXPERIMENTALIST | 7.00% | ~26 |
 | TASTE UNTASTY | 5.00% | ~19 |
 | HIGH TECHNOLOGIES | 3.00% | ~11 |
-| CORRUPTIONIST | 2.00% | ~7 |
-| DEBTOR | 2.00% | ~7 |
-| I'VE SEEN SOME… | 2.00% | ~7 |
+| CORRUPTIONIST | 2.00% | ~8 |
+| DEBTOR | 2.00% | ~8 |
+| I'VE SEEN SOME… | 2.00% | ~8 |
 | TRAVELER | 1.00% | ~4 |
 | MISTER ALL THUMBS | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 374 (Ranked 240)  
+Progressed: 375 (Ranked 239)  
 Completed: 2 (0.53%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,6 +95,7 @@ Completed: 2 (0.53%) (Ranked 136)
 | 2023-07-28 | 372 | 2 |
 | 2023-07-30 | 373 | 2 |
 | 2023-08-03 | 374 | 2 |
+| 2023-08-07 | 375 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

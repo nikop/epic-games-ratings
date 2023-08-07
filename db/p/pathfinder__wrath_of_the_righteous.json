@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -10577,9 +10577,9 @@
       "ID": "31_DivideAndRule",
       "SetID": "989of5o",
       "Name": "Divide and Rule",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 434
     },
     {
       "ID": "32_MythicReinforcements",
@@ -11287,8 +11287,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-07T21:00:43.9559958+00:00",
-  "LastChanged_Achievements": "2023-08-07T21:05:00.5585126+00:00",
+  "LastChanged_Achievements": "2023-08-07T22:03:40.5012252+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:18.5411463+00:00",
-  "LastUpdate_Ratings": "2023-08-07T21:00:43.9559965+00:00",
-  "LastUpdate_Achievements": "2023-08-07T21:05:00.5587112+00:00"
+  "LastUpdate_Ratings": "2023-08-07T21:59:23.7771088+00:00",
+  "LastUpdate_Achievements": "2023-08-07T22:03:40.5014768+00:00"
 }

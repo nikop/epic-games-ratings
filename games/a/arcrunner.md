@@ -24,8 +24,8 @@
 | Eden Heights | 4.00% | ~29 |
 | Up Close And Personal | 4.00% | ~29 |
 | Inner Core | 3.00% | ~22 |
+| Integration | 3.00% | ~22 |
 | Outer Core | 3.00% | ~22 |
-| Integration | 2.00% | ~15 |
 | Trickshot | 1.00% | ~7 |
 | Destruction | 0.70% | ~5 |
 | Ripperdoc | 0.50% | ~4 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6024,7 +6024,7 @@
       "Count": 578
     }
   ],
-  "EOS_Progressed": 289616,
+  "EOS_Progressed": 289618,
   "EOS_Completed": 443,
   "EOS_NewPlayers": 558,
   "EOS_NewCompleters": 6,
@@ -17829,6 +17829,11 @@
       "Time": "2023-08-07T21:07:23.1011991+00:00",
       "NumProgressed": 289616,
       "NumCompleted": 443
+    },
+    {
+      "Time": "2023-08-07T22:05:53.7884747+00:00",
+      "NumProgressed": 289618,
+      "NumCompleted": 443
     }
   ],
   "TotalAchievements": 45,
@@ -17848,7 +17853,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26065
+      "UsersEstimate": 26066
     },
     {
       "ID": "PFA_11",
@@ -17856,7 +17861,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26065
+      "UsersEstimate": 26066
     },
     {
       "ID": "PFA_12",
@@ -17864,7 +17869,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26065
+      "UsersEstimate": 26066
     },
     {
       "ID": "PFA_13",
@@ -17872,7 +17877,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26065
+      "UsersEstimate": 26066
     },
     {
       "ID": "PFA_14",
@@ -17896,7 +17901,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26065
+      "UsersEstimate": 26066
     },
     {
       "ID": "PFA_17",
@@ -17968,7 +17973,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26065
+      "UsersEstimate": 26066
     },
     {
       "ID": "PFA_25",
@@ -17992,7 +17997,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8688
+      "UsersEstimate": 8689
     },
     {
       "ID": "PFA_28",
@@ -18024,7 +18029,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26065
+      "UsersEstimate": 26066
     },
     {
       "ID": "PFA_31",
@@ -18056,7 +18061,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8688
+      "UsersEstimate": 8689
     },
     {
       "ID": "PFA_35",
@@ -18088,7 +18093,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8688
+      "UsersEstimate": 8689
     },
     {
       "ID": "PFA_39",
@@ -18096,7 +18101,7 @@
       "Name": "Coasting Along",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26065
+      "UsersEstimate": 26066
     },
     {
       "ID": "PFA_4",
@@ -18160,7 +18165,7 @@
       "Name": "The Wise Owl",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8688
+      "UsersEstimate": 8689
     },
     {
       "ID": "PFA_6",
@@ -18199,7 +18204,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289616,
+      "Progressed": 289618,
       "Completed": 443
     }
   ],
@@ -18207,8 +18212,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-07T20:59:29.4080135+00:00",
-  "LastChanged_Achievements": "2023-08-07T21:07:23.1011986+00:00",
+  "LastChanged_Achievements": "2023-08-07T22:05:53.788474+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.8672159+00:00",
-  "LastUpdate_Ratings": "2023-08-07T20:59:29.4080142+00:00",
-  "LastUpdate_Achievements": "2023-08-07T21:07:23.1013287+00:00"
+  "LastUpdate_Ratings": "2023-08-07T21:58:18.5775967+00:00",
+  "LastUpdate_Achievements": "2023-08-07T22:05:53.7885898+00:00"
 }

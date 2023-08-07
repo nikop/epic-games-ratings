@@ -17,12 +17,12 @@ Rating: 4.87 (Ranked 24)
 | Perfect Parry | 5.00% | ~189 |
 | Uh, they were broken when I got here | 5.00% | ~189 |
 | Alright, that felt AWESOME! | 5.00% | ~189 |
-| The Negotiator | 4.00% | ~151 |
-| Whoa! There's ANOTHER health bar!? | 4.00% | ~151 |
-| Z-shielding's got nothing on us! | 4.00% | ~151 |
-| Kissing the sky! | 4.00% | ~151 |
-| I look cool. But I can look COOLER. | 4.00% | ~151 |
-| Does that say weakpoint? | 4.00% | ~151 |
+| The Negotiator | 4.00% | ~152 |
+| Whoa! There's ANOTHER health bar!? | 4.00% | ~152 |
+| Z-shielding's got nothing on us! | 4.00% | ~152 |
+| Kissing the sky! | 4.00% | ~152 |
+| I look cool. But I can look COOLER. | 4.00% | ~152 |
+| Does that say weakpoint? | 4.00% | ~152 |
 | NOW we got a kickass hideout! | 4.00% | ~92 |
 | Headliner | 3.00% | ~114 |
 | Time to pay up! | 3.00% | ~114 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,786 (Ranked 147)  
+Progressed: 3,788 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 7 (0.18%) (Ranked 181)
 | 2023-08-04 | 3,731 | 6 |
 | 2023-08-05 | 3,750 | 6 |
 | 2023-08-06 | 3,771 | 7 |
-| 2023-08-07 | 3,786 | 7 |
+| 2023-08-07 | 3,788 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

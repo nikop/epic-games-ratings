@@ -6213,9 +6213,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 58416,
+  "EOS_Progressed": 58417,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 714,
+  "EOS_NewPlayers": 710,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17708,6 +17708,11 @@
       "Time": "2023-08-07T21:05:28.1087878+00:00",
       "NumProgressed": 58416,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-07T22:04:14.5370871+00:00",
+      "NumProgressed": 58417,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -17727,7 +17732,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 8762
+      "UsersEstimate": 8763
     },
     {
       "ID": "Bannerlord",
@@ -17767,7 +17772,7 @@
       "Name": "Catch",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "Champion",
@@ -17799,7 +17804,7 @@
       "Name": "Duelist",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5257
+      "UsersEstimate": 5258
     },
     {
       "ID": "Dynasty",
@@ -17807,7 +17812,7 @@
       "Name": "Dynasty",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5257
+      "UsersEstimate": 5258
     },
     {
       "ID": "Entrepreneur",
@@ -17839,7 +17844,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "God of the Arena",
@@ -17887,7 +17892,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8762
+      "UsersEstimate": 8763
     },
     {
       "ID": "I spit on your grave",
@@ -17895,7 +17900,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5257
+      "UsersEstimate": 5258
     },
     {
       "ID": "Jack of All Trades",
@@ -18007,7 +18012,7 @@
       "Name": "Real Estate",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "Ride it like you stole it",
@@ -18119,22 +18124,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5257
+      "UsersEstimate": 5258
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 58416,
+      "Progressed": 58417,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-07T03:01:10.0172928+00:00",
-  "LastChanged_Achievements": "2023-08-07T21:05:28.1087871+00:00",
+  "LastChanged_Achievements": "2023-08-07T22:04:14.537086+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:41.9139555+00:00",
-  "LastUpdate_Ratings": "2023-08-07T21:02:21.2828626+00:00",
-  "LastUpdate_Achievements": "2023-08-07T21:05:28.1089957+00:00"
+  "LastUpdate_Ratings": "2023-08-07T22:00:48.8287207+00:00",
+  "LastUpdate_Achievements": "2023-08-07T22:04:14.537206+00:00"
 }

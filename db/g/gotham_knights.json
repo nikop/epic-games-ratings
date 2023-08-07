@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2312,7 +2312,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67687,
+  "EOS_Progressed": 67688,
   "EOS_Completed": 106,
   "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 1,
@@ -11847,6 +11847,11 @@
       "Time": "2023-08-07T21:07:31.3806883+00:00",
       "NumProgressed": 67687,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-08-07T22:06:00.4260982+00:00",
+      "NumProgressed": 67688,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 61,
@@ -12082,7 +12087,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     },
     {
       "ID": "FREEZE_1_5",
@@ -12170,7 +12175,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     },
     {
       "ID": "HARLEY_3",
@@ -12234,7 +12239,7 @@
       "Name": "Knighthood",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -12258,7 +12263,7 @@
       "Name": "Whispered Words",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     },
     {
       "ID": "MYSTERY_03",
@@ -12345,13 +12350,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67687,
+      "Progressed": 67688,
       "Completed": 106
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37967,
+      "Progressed": 37968,
       "Completed": 2655
     }
   ],
@@ -12359,8 +12364,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-07T01:58:16.9750598+00:00",
-  "LastChanged_Achievements": "2023-08-07T21:07:31.3806878+00:00",
+  "LastChanged_Achievements": "2023-08-07T22:06:00.4260975+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:47.9727791+00:00",
-  "LastUpdate_Ratings": "2023-08-07T21:02:27.2976397+00:00",
-  "LastUpdate_Achievements": "2023-08-07T21:07:31.3808135+00:00"
+  "LastUpdate_Ratings": "2023-08-07T22:00:55.032079+00:00",
+  "LastUpdate_Achievements": "2023-08-07T22:06:00.4262209+00:00"
 }

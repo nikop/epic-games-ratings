@@ -3,8 +3,8 @@
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 319,
-  "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_Completed": 112,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99,
+  "EOS_Progressed": 100,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.01,
+  "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -243,6 +243,11 @@
       "Time": "2023-08-07T06:06:22.7579418+00:00",
       "NumProgressed": 99,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-07T22:05:42.8831801+00:00",
+      "NumProgressed": 100,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -318,7 +323,7 @@
       "Name": "Declawing",
       "Percentage": 69,
       "XP": 35,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Achievement18",
@@ -421,7 +426,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 99,
+      "Progressed": 100,
       "Completed": 1
     }
   ],
@@ -429,8 +434,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-08-07T21:07:09.9100942+00:00",
+  "LastChanged_Achievements": "2023-08-07T22:05:42.8831798+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:20.1130483+00:00",
-  "LastUpdate_Ratings": "2023-08-07T21:02:57.5039299+00:00",
-  "LastUpdate_Achievements": "2023-08-07T21:07:09.9101124+00:00"
+  "LastUpdate_Ratings": "2023-08-07T22:01:20.2474186+00:00",
+  "LastUpdate_Achievements": "2023-08-07T22:05:42.8831956+00:00"
 }

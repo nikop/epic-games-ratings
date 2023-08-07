@@ -5,8 +5,8 @@ Rating: 4.48 (Ranked 590)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Country Bumpkin | 75.00% | ~1,330 |
 | A new Journey | 74.00% | ~1,313 |
-| Country Bumpkin | 74.00% | ~1,313 |
 | Departure | 73.00% | ~1,295 |
 | From X to Y | 72.00% | ~1,277 |
 | Way of Iron | 70.00% | ~1,242 |
@@ -35,7 +35,7 @@ Rating: 4.48 (Ranked 590)
 | Country Life | 26.00% | ~461 |
 | Hostile Takeover | 25.00% | ~444 |
 | Seven at one stroke | 24.00% | ~426 |
-| Trailblazer | 20.00% | ~355 |
+| Trailblazer | 21.00% | ~373 |
 | Traffic Junction | 20.00% | ~355 |
 | Breaking Ground | 20.00% | ~355 |
 | Traffic Jam | 18.00% | ~319 |

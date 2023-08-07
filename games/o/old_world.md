@@ -68,15 +68,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.70% | ~93 |
 | Egyptian Paganism | 0.70% | ~93 |
 | Mythology | 0.70% | ~93 |
+| Hanging Gardens in Babylon | 0.60% | ~80 |
+| Conqueror | 0.60% | ~80 |
 | Valiant | 0.60% | ~80 |
 | Champions | 0.60% | ~80 |
 | Acropolis | 0.60% | ~80 |
 | Mausoleum | 0.60% | ~80 |
 | Greece | 0.60% | ~80 |
 | Points Victory | 0.60% | ~80 |
-| Hanging Gardens in Babylon | 0.50% | ~67 |
 | Beloved | 0.50% | ~67 |
-| Conqueror | 0.50% | ~67 |
 | Lion | 0.50% | ~67 |
 | Mighty | 0.50% | ~67 |
 | Victorious | 0.50% | ~67 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,314 (Ranked 117)  
+Progressed: 13,315 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,7 +412,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-04 | 13,269 | 5 |
 | 2023-08-05 | 13,281 | 5 |
 | 2023-08-06 | 13,301 | 5 |
-| 2023-08-07 | 13,314 | 5 |
+| 2023-08-07 | 13,315 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,786 (Ranked 206)  

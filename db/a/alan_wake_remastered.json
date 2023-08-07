@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60476,
+  "EOS_Progressed": 60479,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 781,
+  "EOS_NewPlayers": 778,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10547,6 +10547,11 @@
       "Time": "2023-08-07T21:06:41.9499878+00:00",
       "NumProgressed": 60476,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-07T22:05:18.5901853+00:00",
+      "NumProgressed": 60479,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10558,7 +10563,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22376
+      "UsersEstimate": 22377
     },
     {
       "ID": "02",
@@ -10566,7 +10571,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13909
+      "UsersEstimate": 13910
     },
     {
       "ID": "03",
@@ -10590,7 +10595,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 11490
+      "UsersEstimate": 11491
     },
     {
       "ID": "06",
@@ -10598,7 +10603,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9676
+      "UsersEstimate": 9677
     },
     {
       "ID": "07",
@@ -10606,7 +10611,7 @@
       "Name": "Heavy Metal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6652
+      "UsersEstimate": 6653
     },
     {
       "ID": "08",
@@ -10646,7 +10651,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6652
+      "UsersEstimate": 6653
     },
     {
       "ID": "13",
@@ -10678,7 +10683,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4233
+      "UsersEstimate": 4234
     },
     {
       "ID": "17",
@@ -10686,7 +10691,7 @@
       "Name": "Departure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4233
+      "UsersEstimate": 4234
     },
     {
       "ID": "18",
@@ -10798,7 +10803,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9071
+      "UsersEstimate": 9072
     },
     {
       "ID": "32",
@@ -10806,7 +10811,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16933
+      "UsersEstimate": 16934
     },
     {
       "ID": "33",
@@ -10830,7 +10835,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18143
+      "UsersEstimate": 18144
     },
     {
       "ID": "36",
@@ -10878,7 +10883,7 @@
       "Name": "Finders Keepers",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9071
+      "UsersEstimate": 9072
     },
     {
       "ID": "42",
@@ -10894,7 +10899,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9676
+      "UsersEstimate": 9677
     },
     {
       "ID": "44",
@@ -11093,21 +11098,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60476,
+      "Progressed": 60479,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23944,
+      "Progressed": 23947,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-07T21:06:41.9499871+00:00",
+  "LastChanged_Achievements": "2023-08-07T22:05:18.5901847+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-07T20:59:48.9407016+00:00",
-  "LastUpdate_Achievements": "2023-08-07T21:06:41.9501157+00:00"
+  "LastUpdate_Ratings": "2023-08-07T21:58:35.9865523+00:00",
+  "LastUpdate_Achievements": "2023-08-07T22:05:18.5903034+00:00"
 }

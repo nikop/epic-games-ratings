@@ -12,8 +12,8 @@
 | Drums in the Deep | 22.00% | ~19 |
 | Treasure Seeker | 22.00% | ~19 |
 | Bridge Builder | 22.00% | ~19 |
+| Green Thumb Goliath | 15.00% | ~13 |
 | Treasure Hunter | 14.00% | ~12 |
-| Green Thumb Goliath | 14.00% | ~12 |
 | Take the Scenic Route | 13.00% | ~11 |
 | St. George's Gauntlet | 11.00% | ~10 |
 | Redbeard's Revenger | 11.00% | ~10 |
@@ -29,7 +29,7 @@
 | Colossal Cave Explorer | 3.00% | ~3 |
 | Perfect 350 pt score | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 329)  
+Progressed: 88 (Ranked 330)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247748,
+  "EOS_Progressed": 247750,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10574,6 +10574,11 @@
       "Time": "2023-08-07T21:04:59.6109304+00:00",
       "NumProgressed": 247748,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-07T22:03:39.5880702+00:00",
+      "NumProgressed": 247750,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -10593,7 +10598,7 @@
       "Name": "A Winner Is You",
       "Percentage": 0.2,
       "XP": 60,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "andYoureOkay",
@@ -10609,7 +10614,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52027
+      "UsersEstimate": 52028
     },
     {
       "ID": "blotbuster",
@@ -10641,7 +10646,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42117
+      "UsersEstimate": 42118
     },
     {
       "ID": "cantBeKeptDown",
@@ -10713,7 +10718,7 @@
       "Name": "Final Nightmare",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "hangingTen",
@@ -10753,7 +10758,7 @@
       "Name": "I\u0027m Here All Night",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "inTheZone",
@@ -10761,7 +10766,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131306
+      "UsersEstimate": 131308
     },
     {
       "ID": "indegestible",
@@ -10785,7 +10790,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64414
+      "UsersEstimate": 64415
     },
     {
       "ID": "justABit",
@@ -10793,7 +10798,7 @@
       "Name": "Just A Bit",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "lazyLaser",
@@ -10825,7 +10830,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123874
+      "UsersEstimate": 123875
     },
     {
       "ID": "notScared",
@@ -10865,7 +10870,7 @@
       "Name": "Ride The Wave",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "shooCat",
@@ -10905,7 +10910,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32207
+      "UsersEstimate": 32208
     },
     {
       "ID": "treeMedalist",
@@ -10913,7 +10918,7 @@
       "Name": "Tree Medalist",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "trueCompletionist",
@@ -10929,7 +10934,7 @@
       "Name": "Tubular, Dude",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "whatATrip",
@@ -10952,7 +10957,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 247748,
+      "Progressed": 247750,
       "Completed": 3
     }
   ],
@@ -10960,8 +10965,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-07T21:04:59.6109298+00:00",
+  "LastChanged_Achievements": "2023-08-07T22:03:39.5880694+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:08.7397678+00:00",
-  "LastUpdate_Ratings": "2023-08-07T21:01:38.0025803+00:00",
-  "LastUpdate_Achievements": "2023-08-07T21:04:59.6110676+00:00"
+  "LastUpdate_Ratings": "2023-08-07T22:00:10.3774229+00:00",
+  "LastUpdate_Achievements": "2023-08-07T22:03:39.5881794+00:00"
 }

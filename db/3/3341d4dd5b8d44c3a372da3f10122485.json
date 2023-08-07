@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 1,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 57,
-  "EOS_Completed": 26,
+  "EOS_Completed": 27,
   "EOS_NewPlayers": 20,
-  "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 45.61,
+  "EOS_NewCompleters": 10,
+  "EOS_Completed_Percentage": 47.37,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -411,6 +411,11 @@
       "Time": "2023-08-07T21:07:10.3618045+00:00",
       "NumProgressed": 57,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-08-07T22:05:43.276622+00:00",
+      "NumProgressed": 57,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -453,25 +458,25 @@
       "ID": "Konec",
       "SetID": "823jm6g",
       "Name": "Happy End",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 75,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 80,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Majak",
       "SetID": "823jm6g",
       "Name": "Lighthouse",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 75,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Nora",
@@ -517,9 +522,9 @@
       "ID": "Tuleni",
       "SetID": "823jm6g",
       "Name": "Seal Peaks",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 75,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
@@ -527,13 +532,13 @@
       "ID": "823jm6g",
       "IsBase": true,
       "Progressed": 57,
-      "Completed": 26
+      "Completed": 27
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-08-07T21:07:10.3618037+00:00",
+  "LastChanged_Achievements": "2023-08-07T22:05:43.2766211+00:00",
   "LastUpdate_AppInfo": "2023-08-04T15:57:20.6854378+00:00",
-  "LastUpdate_Ratings": "2023-08-07T20:58:43.9612193+00:00",
-  "LastUpdate_Achievements": "2023-08-07T21:07:10.361819+00:00"
+  "LastUpdate_Ratings": "2023-08-07T21:57:37.5799278+00:00",
+  "LastUpdate_Achievements": "2023-08-07T22:05:43.2766342+00:00"
 }

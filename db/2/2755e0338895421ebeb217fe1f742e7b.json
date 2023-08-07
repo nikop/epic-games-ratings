@@ -4,7 +4,7 @@
   "ProductSlug": "nocturnal-ef3fa0",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -215,8 +215,8 @@
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-08-07T21:07:28.9834973+00:00",
+  "LastChanged_Achievements": "2023-08-07T22:05:58.590585+00:00",
   "LastUpdate_AppInfo": "2023-08-07T18:57:03.9382442+00:00",
-  "LastUpdate_Ratings": "2023-08-07T20:58:51.7325995+00:00",
-  "LastUpdate_Achievements": "2023-08-07T21:07:28.9835071+00:00"
+  "LastUpdate_Ratings": "2023-08-07T21:57:45.2247392+00:00",
+  "LastUpdate_Achievements": "2023-08-07T22:05:58.5905976+00:00"
 }

@@ -22,13 +22,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Azata | 4.00% | ~434 |
 | Transformation | 4.00% | ~434 |
 | The Legacy | 4.00% | ~434 |
+| Divide and Rule | 4.00% | ~434 |
 | Voice from Your Dreams | 4.00% | ~434 |
 | A Flame | 4.00% | ~434 |
 | Next-Door Play | 4.00% | ~434 |
 | Get the Toad | 4.00% | ~434 |
 | Heart of the Fallen Land | 3.00% | ~326 |
 | Path of the Trickster | 3.00% | ~326 |
-| Divide and Rule | 3.00% | ~326 |
 | Mythic Reinforcements | 3.00% | ~326 |
 | Hey, I Know You! | 3.00% | ~326 |
 | The Lady of the Forest | 3.00% | ~289 |
