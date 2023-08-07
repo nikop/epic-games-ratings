@@ -33,7 +33,7 @@
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.77% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
-| 34 | [Ravenlok](games/r/ravenlok.md) | 7.32% |
+| 34 | [Ravenlok](games/r/ravenlok.md) | 7.42% |
 | 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.10% |
 | 36 | [Scorn](games/s/scorn.md) | 6.97% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
@@ -84,7 +84,7 @@
 | 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.35% |
 | 83 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
 | 84 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
-| 85 | [FORECLOSED](games/f/foreclosed.md) | 2.22% |
+| 85 | [FORECLOSED](games/f/foreclosed.md) | 2.20% |
 | 86 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.05% |
 | 87 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.98% |
 | 88 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |

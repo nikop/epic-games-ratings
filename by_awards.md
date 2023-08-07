@@ -8,7 +8,7 @@
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 165,044 | 4.88 | 18 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 145,724 | 4.52 | 527 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 114,261 | 4.69 | 213 |
-| 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 74,927 | 4.62 | 349 |
+| 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 75,020 | 4.62 | 349 |
 | 10 | [VALORANT](games/v/valorant.md) | 63,718 | 4.53 | 512 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 59,780 | 4.58 | 425 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 42,489 | 4.61 | 366 |
@@ -200,19 +200,19 @@
 | 198 | [Ghostrunner](games/g/ghostrunner.md) | 474 | 4.72 | 171 |
 | 199 | [Prison Architect](games/p/prison_architect.md) | 473 | 4.61 | 366 |
 | 200 | [Surviving Mars](games/s/surviving_mars.md) | 471 | 4.60 | 391 |
-| 201 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 272 |
-| 202 | [Second Extinction™](games/s/second_extinction™.md) | 456 | 4.05 | 917 |
-| 203 | [Dishonored 2](games/d/dishonored_2.md) | 436 | 4.79 | 88 |
-| 204 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 434 | 4.40 | 696 |
-| 205 | [RimWorld](games/r/rimworld.md) | 426 | 4.89 | 12 |
-| 206 | [Against the Storm](games/a/against_the_storm.md) | 421 | 4.81 | 77 |
-| 207 | [Loop Hero](games/l/loop_hero.md) | 420 | 4.68 | 242 |
-| 208 | [Into the Breach](games/i/into_the_breach.md) | 416 | 4.84 | 49 |
-| 209 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 410 | 4.73 | 160 |
-| 209 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 410 | 4.49 | 576 |
-| 211 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 407 | 4.60 | 391 |
-| 212 | [Warface](games/w/warface.md) | 405 | 3.91 | 942 |
-| 213 | [Remnant 2](games/r/remnant_2.md) | 403 | 4.78 | 100 |
+| 201 | [Remnant 2](games/r/remnant_2.md) | 469 | 4.78 | 100 |
+| 202 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 272 |
+| 203 | [Second Extinction™](games/s/second_extinction™.md) | 456 | 4.05 | 917 |
+| 204 | [Dishonored 2](games/d/dishonored_2.md) | 436 | 4.79 | 88 |
+| 205 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 434 | 4.40 | 696 |
+| 206 | [RimWorld](games/r/rimworld.md) | 426 | 4.89 | 12 |
+| 207 | [Loop Hero](games/l/loop_hero.md) | 422 | 4.68 | 242 |
+| 208 | [Against the Storm](games/a/against_the_storm.md) | 421 | 4.81 | 77 |
+| 209 | [Into the Breach](games/i/into_the_breach.md) | 416 | 4.84 | 49 |
+| 210 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 410 | 4.73 | 160 |
+| 210 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 410 | 4.49 | 576 |
+| 212 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 407 | 4.60 | 391 |
+| 213 | [Warface](games/w/warface.md) | 405 | 3.91 | 942 |
 | 214 | [Slime Rancher](games/s/slime_rancher.md) | 397 | 4.82 | 66 |
 | 215 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 394 | 3.94 | 936 |
 | 216 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 391 | 4.70 | 198 |
