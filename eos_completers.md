@@ -33,7 +33,7 @@
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.77% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
-| 34 | [Ravenlok](games/r/ravenlok.md) | 7.33% |
+| 34 | [Ravenlok](games/r/ravenlok.md) | 7.32% |
 | 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.10% |
 | 36 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.97% |
 | 36 | [Scorn](games/s/scorn.md) | 6.97% |
@@ -120,8 +120,8 @@
 | 118 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 119 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
 | 120 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
-| 120 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.76% |
-| 122 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
+| 121 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
+| 121 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.75% |
 | 123 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
 | 124 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 125 | [Haven](games/h/haven.md) | 0.65% |
@@ -177,10 +177,10 @@
 | 173 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.22% |
 | 176 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 176 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.20% |
-| 176 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
 | 176 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 176 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
-| 181 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
+| 180 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
+| 180 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
 | 182 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
 | 183 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
 | 183 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
