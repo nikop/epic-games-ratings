@@ -6,22 +6,22 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~122,813 |
-| Where's that freaking Dwarf? | 47.00% | ~97,834 |
-| GG EZ | 28.00% | ~58,284 |
-| Speedrun | 26.00% | ~54,121 |
-| Déjà vu | 21.00% | ~43,713 |
-| Sock! SOCK! | 17.00% | ~35,387 |
-| DM intervention | 13.00% | ~27,060 |
-| Fireproof Wizardess | 10.00% | ~20,816 |
-| Livin' in a dwarven paradise | 8.00% | ~16,653 |
-| A beer, two curses, three companions | 8.00% | ~16,653 |
-| Way of the Wimp | 7.00% | ~14,571 |
-| The plot thickens... At the tavern | 5.00% | ~10,408 |
-| The Woman in the High Castle | 4.00% | ~8,326 |
-| I am the night | 4.00% | ~8,326 |
-| Team Building Exercise | 4.00% | ~8,326 |
-| Oh, when I'll be level 10... | 4.00% | ~8,326 |
+| Alt+F4 | 59.00% | ~122,823 |
+| Where's that freaking Dwarf? | 47.00% | ~97,842 |
+| GG EZ | 28.00% | ~58,289 |
+| Speedrun | 26.00% | ~54,126 |
+| Déjà vu | 21.00% | ~43,717 |
+| Sock! SOCK! | 17.00% | ~35,390 |
+| DM intervention | 13.00% | ~27,063 |
+| Fireproof Wizardess | 10.00% | ~20,818 |
+| Livin' in a dwarven paradise | 8.00% | ~16,654 |
+| A beer, two curses, three companions | 8.00% | ~16,654 |
+| Way of the Wimp | 7.00% | ~14,572 |
+| The plot thickens... At the tavern | 5.00% | ~10,409 |
+| The Woman in the High Castle | 4.00% | ~8,327 |
+| I am the night | 4.00% | ~8,327 |
+| Team Building Exercise | 4.00% | ~8,327 |
+| Oh, when I'll be level 10... | 4.00% | ~8,327 |
 | Shiny and Crôm | 3.00% | ~6,245 |
 | The demons' feast | 3.00% | ~6,245 |
 | The Great Library | 3.00% | ~6,245 |
@@ -30,12 +30,12 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Fortress | 3.00% | ~6,245 |
 | The Ranger of Chaos | 3.00% | ~6,245 |
 | Thieves' Guild Accreditation | 3.00% | ~6,245 |
-| Urik's Depths | 2.00% | ~4,163 |
-| Look but don't touch | 2.00% | ~4,163 |
-| The beards of change | 2.00% | ~4,163 |
-| Gargantua | 2.00% | ~4,163 |
-| In Navalu's footsteps | 2.00% | ~4,163 |
-| Material Girl | 2.00% | ~4,163 |
+| Urik's Depths | 2.00% | ~4,164 |
+| Look but don't touch | 2.00% | ~4,164 |
+| The beards of change | 2.00% | ~4,164 |
+| Gargantua | 2.00% | ~4,164 |
+| In Navalu's footsteps | 2.00% | ~4,164 |
+| Material Girl | 2.00% | ~4,164 |
 | The Dungeon Master | 1.00% | ~2,082 |
 | The Statuette of Gladeulfeurah | 1.00% | ~2,082 |
 | The Famous Dungeon of Naheulbeuk | 1.00% | ~2,082 |
@@ -45,16 +45,16 @@ Number of Ratings: 118  (23.09.2022)
 | Law and Order | 1.00% | ~2,082 |
 | It's been a hard day's night | 1.00% | ~2,082 |
 | Lust and Debauchery | 1.00% | ~2,082 |
-| Lëgal Legend | 0.90% | ~1,873 |
+| Lëgal Legend | 0.90% | ~1,874 |
 | An old poacher makes the best gamekeeper | 0.80% | ~1,665 |
 | Holistic Adventuring Party | 0.50% | ~1,041 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,041 |
 | Friendly fire | 0.50% | ~1,041 |
 | I'd rather... Just... Sing! | 0.50% | ~1,041 |
 | The number of the counting shalt be 7 | 0.50% | ~1,041 |
-| The Blood Countess | 0.30% | ~624 |
-| Insult to injury | 0.30% | ~624 |
-| We come in peace | 0.30% | ~624 |
+| The Blood Countess | 0.30% | ~625 |
+| Insult to injury | 0.30% | ~625 |
+| We come in peace | 0.30% | ~625 |
 | Cursed die | 0.20% | ~416 |
 | He’s alive! Aliiiive! | 0.20% | ~416 |
 | 100% satisfaction guarantee | 0.20% | ~416 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,157 (Ranked 55)  
+Progressed: 208,175 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,14 +163,14 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-04 | 206,418 | 0 |
 | 2023-08-05 | 207,138 | 0 |
 | 2023-08-06 | 207,966 | 0 |
-| 2023-08-07 | 208,157 | 0 |
+| 2023-08-07 | 208,175 | 0 |
 ## Awards
-Max (Character Customization): 152  (Ranked 294)  
-Sum: 152 (Ranked 393)  
-Diff (max vs sum): -99  
+Max (Character Customization): 156  (Ranked 294)  
+Sum: 156 (Ranked 392)  
+Diff (max vs sum): -98  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 152 |
+| This game has Inclusive Character Customization | 156 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -273,3 +273,4 @@ Diff (max vs sum): -99
 | 2023-08-02 | 4.58 | - | 149 | 149 |
 | 2023-08-04 | 4.58 | - | 151 | 151 |
 | 2023-08-06 | 4.58 | - | 152 | 152 |
+| 2023-08-07 | 4.58 | - | 156 | 156 |

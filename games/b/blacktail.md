@@ -12,16 +12,16 @@ Rating: 4.68 (Ranked 242)
 | Forbidden techniques | 12.00% | ~74 |
 | Devoted | 9.00% | ~55 |
 | Slavic squatter | 9.00% | ~55 |
+| Spirit animal | 8.00% | ~49 |
 | Gold rush | 7.00% | ~43 |
-| Spirit animal | 7.00% | ~43 |
 | A friend in need... | 6.00% | ~37 |
+| Extensive retelling | 5.00% | ~31 |
 | Sneak peek | 5.00% | ~31 |
 | Fishing fanatic | 5.00% | ~31 |
 | The word around is... | 5.00% | ~31 |
 | Liar Liar | 5.00% | ~31 |
 | The cycle acknowledged | 5.00% | ~31 |
 | Baba Yaga | 5.00% | ~31 |
-| Extensive retelling | 4.00% | ~25 |
 | Favorite | 4.00% | ~25 |
 | Queen | 4.00% | ~25 |
 | Goal! | 3.00% | ~18 |

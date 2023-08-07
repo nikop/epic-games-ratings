@@ -5620,9 +5620,9 @@
       "Count": 3345
     }
   ],
-  "EOS_Progressed": 219547,
+  "EOS_Progressed": 219553,
   "EOS_Completed": 2160,
-  "EOS_NewPlayers": 2209,
+  "EOS_NewPlayers": 2208,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17370,6 +17370,11 @@
       "Time": "2023-08-07T10:02:08.5595874+00:00",
       "NumProgressed": 219547,
       "NumCompleted": 2160
+    },
+    {
+      "Time": "2023-08-07T11:03:23.2862426+00:00",
+      "NumProgressed": 219553,
+      "NumCompleted": 2160
     }
   ],
   "TotalAchievements": 512,
@@ -17685,7 +17690,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2195
+      "UsersEstimate": 2196
     },
     {
       "ID": "objective_completed_1090",
@@ -17749,7 +17754,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6586
+      "UsersEstimate": 6587
     },
     {
       "ID": "objective_completed_110",
@@ -17941,7 +17946,7 @@
       "Name": "Supply Run",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2195
+      "UsersEstimate": 2196
     },
     {
       "ID": "objective_completed_1142",
@@ -19579,9 +19584,9 @@
       "ID": "objective_completed_547",
       "SetID": "cc37lbc",
       "Name": "A Hero\u0027s Entourage",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 439
     },
     {
       "ID": "objective_completed_548",
@@ -21476,21 +21481,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185821,
+      "Progressed": 185827,
       "Completed": 3065
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219547,
+      "Progressed": 219553,
       "Completed": 2160
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-07T03:58:35.5269955+00:00",
-  "LastChanged_Achievements": "2023-08-07T10:02:08.5595868+00:00",
+  "LastChanged_Achievements": "2023-08-07T11:03:23.2862416+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-07T09:59:05.2448115+00:00",
-  "LastUpdate_Achievements": "2023-08-07T10:02:08.5623046+00:00"
+  "LastUpdate_Ratings": "2023-08-07T10:59:02.240488+00:00",
+  "LastUpdate_Achievements": "2023-08-07T11:03:23.2885308+00:00"
 }

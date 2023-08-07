@@ -18,9 +18,9 @@ Number of Ratings: 524  (23.09.2022)
 | Finders Keepers | 15.00% | ~9,066 |
 | Sound and Fury | 14.00% | ~8,462 |
 | Damn Good Cup of Coffee | 14.00% | ~8,462 |
-| Wheels Within Wheels | 13.00% | ~7,857 |
-| They're Heeeeeere! | 13.00% | ~7,857 |
-| Missed by a Mile | 13.00% | ~7,857 |
+| Wheels Within Wheels | 13.00% | ~7,858 |
+| They're Heeeeeere! | 13.00% | ~7,858 |
+| Missed by a Mile | 13.00% | ~7,858 |
 | Iron Horse | 12.00% | ~7,253 |
 | The Six-Gun Scribe | 12.00% | ~7,253 |
 | Collateral Carnage | 12.00% | ~7,253 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~60 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,442 (Ranked 84)  
+Progressed: 60,443 (Ranked 84)  
 Completed: 64 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 64 (0.11%) (Ranked 195)
 | 2023-08-04 | 60,237 | 64 |
 | 2023-08-05 | 60,337 | 64 |
 | 2023-08-06 | 60,420 | 64 |
-| 2023-08-07 | 60,442 | 64 |
+| 2023-08-07 | 60,443 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

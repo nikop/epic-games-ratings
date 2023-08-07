@@ -37,8 +37,8 @@
 | Extreme neuropower! | 51.00% | ~118 |
 | Escaped from a big trouble | 49.00% | ~114 |
 | Now you are worthy | 45.00% | ~104 |
+| Guiding on the right path | 45.00% | ~104 |
 | No blades in the gym | 44.00% | ~102 |
-| Guiding on the right path | 44.00% | ~102 |
 | Fight is life | 43.00% | ~100 |
 | Mysterious voice | 43.00% | ~100 |
 | Your own way | 41.00% | ~95 |
@@ -46,16 +46,16 @@
 | Get out of my apartment! | 38.00% | ~88 |
 | Responsible approach | 38.00% | ~88 |
 | Poisoned fighter | 37.00% | ~86 |
+| Underground dwellers | 37.00% | ~86 |
 | GYM professional | 36.00% | ~84 |
-| Underground dwellers | 36.00% | ~84 |
 | Deal with life | 35.00% | ~81 |
 | Mom got better | 34.00% | ~79 |
 | The die is cast | 34.00% | ~79 |
 | Seashell hunter | 34.00% | ~79 |
 | Gang wrangler | 32.00% | ~74 |
 | Problems of cyborgs | 31.00% | ~72 |
+| The last bell ring | 31.00% | ~72 |
 | Undercover robot | 31.00% | ~72 |
-| The last bell ring | 30.00% | ~70 |
 | The lonesome road | 29.00% | ~67 |
 | Key memories | 29.00% | ~67 |
 | Not little hacker | 29.00% | ~67 |

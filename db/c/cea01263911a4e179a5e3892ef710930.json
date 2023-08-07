@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
     "PcReleaseDate": "2019-09-19T05:00:00+00:00",
@@ -105,9 +105,9 @@
       "ID": "grp_collect_ruby",
       "SetID": "2gd32f",
       "Name": "Two month\u0027s rent",
-      "Percentage": 36,
+      "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "grp_endless",
@@ -129,9 +129,9 @@
       "ID": "grp_freebird",
       "SetID": "2gd32f",
       "Name": "Play Free Bird",
-      "Percentage": 18,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "grp_level10",
@@ -177,25 +177,25 @@
       "ID": "grp_lots_of_money",
       "SetID": "2gd32f",
       "Name": "Investing in BirdCoin",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "grp_money_tree",
       "SetID": "2gd32f",
       "Name": "Money doesn\u0027t grow on trees",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "grp_speed",
       "SetID": "2gd32f",
       "Name": "As the dodo flies",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "grp_stone",
@@ -231,8 +231,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
-  "LastChanged_Achievements": "2023-08-07T10:02:04.4004547+00:00",
+  "LastChanged_Achievements": "2023-08-07T11:03:19.3446379+00:00",
   "LastUpdate_AppInfo": "2023-08-03T05:57:01.7177556+00:00",
-  "LastUpdate_Ratings": "2023-08-07T09:57:09.8542792+00:00",
-  "LastUpdate_Achievements": "2023-08-07T10:02:04.4004714+00:00"
+  "LastUpdate_Ratings": "2023-08-07T10:57:16.8632961+00:00",
+  "LastUpdate_Achievements": "2023-08-07T11:03:19.344653+00:00"
 }

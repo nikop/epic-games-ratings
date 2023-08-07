@@ -1,10 +1,10 @@
 {
   "ID": "4f0c540d1d15442a964e199cf1f6e620",
   "Name": "laserlemon Production",
-  "Ranking_EOS_Progress": 455,
+  "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -14,9 +14,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38,6 +38,11 @@
     {
       "Time": "2023-08-07T10:04:09.5385477+00:00",
       "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-07T11:04:31.5398371+00:00",
+      "NumProgressed": 5,
       "NumCompleted": 0
     }
   ],
@@ -81,7 +86,7 @@
       "ID": "FunAndGamesAhead",
       "SetID": "c36hpcf",
       "Name": "Fun and Games Ahead",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -89,9 +94,9 @@
       "ID": "Glissando",
       "SetID": "c36hpcf",
       "Name": "Six\u0027s Song",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HardToTheCore",
@@ -107,7 +112,7 @@
       "Name": "Highly Sprung",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ImLosingYou",
@@ -177,9 +182,9 @@
       "ID": "TheGuestArea",
       "SetID": "c36hpcf",
       "Name": "The Guest Area",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TheKitchen",
@@ -201,38 +206,38 @@
       "ID": "TheLair",
       "SetID": "c36hpcf",
       "Name": "The Lair",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ThePrison",
       "SetID": "c36hpcf",
       "Name": "The Prison",
-      "Percentage": 25,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "WellMeetAgain",
       "SetID": "c36hpcf",
       "Name": "We\u0027ll Meet Again",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "c36hpcf",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-08-07T10:04:09.5385468+00:00",
+  "LastChanged_Achievements": "2023-08-07T11:04:31.5398366+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-08-07T10:01:28.1923143+00:00",
-  "LastUpdate_Achievements": "2023-08-07T10:04:09.5385638+00:00"
+  "LastUpdate_Ratings": "2023-08-07T11:03:06.6187683+00:00",
+  "LastUpdate_Achievements": "2023-08-07T11:04:31.5398495+00:00"
 }

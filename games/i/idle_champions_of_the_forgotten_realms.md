@@ -7,10 +7,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,782 |
-| Beast Intentions | 3.00% | ~6,586 |
+| Beast Intentions | 3.00% | ~6,587 |
 | Maddening | 2.00% | ~4,391 |
-| The Silken Swamp | 1.00% | ~2,195 |
-| Supply Run | 1.00% | ~2,195 |
+| The Silken Swamp | 1.00% | ~2,196 |
+| Supply Run | 1.00% | ~2,196 |
 | Vecna Lives! | 1.00% | ~1,858 |
 | Rocky Reception | 1.00% | ~1,858 |
 | Rock and Roll | 1.00% | ~1,858 |
@@ -224,6 +224,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Who Lurks in Lurkwood | 0.20% | ~439 |
 | A Tale of Two Fiends | 0.20% | ~439 |
 | Slow and Steady | 0.20% | ~439 |
+| A Hero's Entourage | 0.20% | ~439 |
 | Crowded Streets | 0.20% | ~439 |
 | Patience is Key | 0.20% | ~439 |
 | Troublesome Prisoner | 0.20% | ~439 |
@@ -368,7 +369,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Familiar Friend | 0.10% | ~186 |
 | A Tale of Two Champions | 0.10% | ~220 |
 | A Tale of Two Years | 0.10% | ~186 |
-| A Hero's Entourage | 0.10% | ~220 |
 | Sneak Attack | 0.10% | ~186 |
 | Dreams of Beholders | 0.10% | ~220 |
 | Feigned Weakness | 0.10% | ~220 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,547 (Ranked 52)  
+Progressed: 219,553 (Ranked 52)  
 Completed: 2,160 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,7 +628,7 @@ Completed: 2,160 (0.98%) (Ranked 114)
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
-| 2023-08-07 | 219,547 | 2,160 |
+| 2023-08-07 | 219,553 | 2,160 |
 ## Awards
 Max (Diverse Characters): 5,121  (Ranked 67)  
 Sum: 30,931 (Ranked 38)  

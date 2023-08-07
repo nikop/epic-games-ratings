@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60442,
+  "EOS_Progressed": 60443,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 818,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10492,6 +10492,11 @@
       "Time": "2023-08-07T10:05:07.9874548+00:00",
       "NumProgressed": 60442,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-07T11:05:21.1384489+00:00",
+      "NumProgressed": 60443,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10567,7 +10572,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7857
+      "UsersEstimate": 7858
     },
     {
       "ID": "10",
@@ -10663,7 +10668,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7857
+      "UsersEstimate": 7858
     },
     {
       "ID": "22",
@@ -10759,7 +10764,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7857
+      "UsersEstimate": 7858
     },
     {
       "ID": "34",
@@ -11038,21 +11043,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60442,
+      "Progressed": 60443,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23910,
+      "Progressed": 23911,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-07T10:05:07.9874542+00:00",
+  "LastChanged_Achievements": "2023-08-07T11:05:21.1384482+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-07T09:58:34.3115739+00:00",
-  "LastUpdate_Achievements": "2023-08-07T10:05:07.9875832+00:00"
+  "LastUpdate_Ratings": "2023-08-07T10:58:35.2541134+00:00",
+  "LastUpdate_Achievements": "2023-08-07T11:05:21.1385502+00:00"
 }

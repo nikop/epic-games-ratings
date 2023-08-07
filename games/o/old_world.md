@@ -43,6 +43,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~133 |
 | Trade Caravan | 1.00% | ~133 |
 | Poetic Leader | 1.00% | ~133 |
+| Brilliant | 0.90% | ~120 |
 | Fountainhead | 0.90% | ~120 |
 | Wise | 0.90% | ~120 |
 | Great Ziggurat | 0.90% | ~120 |
@@ -50,7 +51,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 0.90% | ~120 |
 | Carthaginian Paganism | 0.90% | ~120 |
 | Roman Paganism | 0.90% | ~120 |
-| Brilliant | 0.80% | ~106 |
 | Great | 0.80% | ~106 |
 | Artisans | 0.80% | ~106 |
 | Furious Family | 0.80% | ~106 |
@@ -78,6 +78,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.50% | ~67 |
 | Conqueror | 0.50% | ~67 |
 | Mighty | 0.50% | ~67 |
+| Victorious | 0.50% | ~67 |
 | Good Difficulty | 0.50% | ~67 |
 | Patrons | 0.50% | ~67 |
 | Statesmen | 0.50% | ~67 |
@@ -92,7 +93,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.40% | ~53 |
 | Lion | 0.40% | ~53 |
 | Subjugator | 0.40% | ~53 |
-| Victorious | 0.40% | ~53 |
 | Strong Difficulty | 0.40% | ~53 |
 | Hunters | 0.40% | ~53 |
 | Landowners | 0.40% | ~53 |

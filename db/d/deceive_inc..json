@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17069,
+  "EOS_Progressed": 17072,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 821,
+  "EOS_NewPlayers": 805,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7594,6 +7594,11 @@
       "Time": "2023-08-07T10:04:25.676157+00:00",
       "NumProgressed": 17069,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-07T11:04:45.1044392+00:00",
+      "NumProgressed": 17072,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -7605,7 +7610,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5121
+      "UsersEstimate": 5122
     },
     {
       "ID": "0002",
@@ -7613,7 +7618,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "0003",
@@ -7661,7 +7666,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3072
+      "UsersEstimate": 3073
     },
     {
       "ID": "0009",
@@ -7669,7 +7674,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3926
+      "UsersEstimate": 3927
     },
     {
       "ID": "0010",
@@ -7693,7 +7698,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2731
+      "UsersEstimate": 2732
     },
     {
       "ID": "0013",
@@ -7733,7 +7738,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3243
+      "UsersEstimate": 3244
     },
     {
       "ID": "0018",
@@ -7789,7 +7794,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3755
+      "UsersEstimate": 3756
     },
     {
       "ID": "0025",
@@ -7797,7 +7802,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3072
+      "UsersEstimate": 3073
     },
     {
       "ID": "0026",
@@ -7805,7 +7810,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "0027",
@@ -7821,7 +7826,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3926
+      "UsersEstimate": 3927
     },
     {
       "ID": "0029",
@@ -7837,7 +7842,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3072
+      "UsersEstimate": 3073
     },
     {
       "ID": "0031",
@@ -7845,7 +7850,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "0032",
@@ -7853,7 +7858,7 @@
       "Name": "Killer Looks",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "0033",
@@ -7861,7 +7866,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "0034",
@@ -7869,7 +7874,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "0035",
@@ -7892,7 +7897,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17069,
+      "Progressed": 17072,
       "Completed": 1
     }
   ],
@@ -7900,8 +7905,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-04T08:00:04.3199402+00:00",
-  "LastChanged_Achievements": "2023-08-07T10:04:25.6761564+00:00",
+  "LastChanged_Achievements": "2023-08-07T11:04:45.1044387+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-07T10:00:46.8593984+00:00",
-  "LastUpdate_Achievements": "2023-08-07T10:04:25.6762302+00:00"
+  "LastUpdate_Ratings": "2023-08-07T11:00:32.621238+00:00",
+  "LastUpdate_Achievements": "2023-08-07T11:04:45.1044948+00:00"
 }

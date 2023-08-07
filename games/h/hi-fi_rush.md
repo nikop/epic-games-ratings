@@ -7,10 +7,10 @@ Rating: 4.87 (Ranked 24)
 | ---- | ---------- | ----- |
 | Start with a bang! | 8.00% | ~302 |
 | Feeling the beat! | 8.00% | ~302 |
+| Who put gears in there? | 7.00% | ~264 |
 | You can pet the cat! | 7.00% | ~264 |
 | Cream of the Crop | 6.00% | ~227 |
 | Thanks for the free chip, Peppermint! | 6.00% | ~227 |
-| Who put gears in there? | 6.00% | ~227 |
 | I play my own way! | 5.00% | ~189 |
 | You got this, Peppermint? | 5.00% | ~189 |
 | Perfect Parry | 5.00% | ~189 |

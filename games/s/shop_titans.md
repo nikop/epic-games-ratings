@@ -21,6 +21,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Own the Means of Production | 0.40% | ~536 |
 | The Daily Grind | 0.30% | ~402 |
 | Bounty Hunters | 0.30% | ~402 |
+| Demand for Supplies | 0.30% | ~402 |
 | Flooding the Market | 0.30% | ~402 |
 | Where it Hurts | 0.30% | ~402 |
 | One-Armed Bandit | 0.30% | ~402 |
@@ -32,9 +33,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Vanity, Verily | 0.20% | ~268 |
 | Fated Encounters | 0.20% | ~268 |
 | Blank Page Syndrome | 0.20% | ~268 |
-| Demand for Supplies | 0.20% | ~268 |
 | Master of Transmutation | 0.20% | ~268 |
 | Power of Love | 0.20% | ~268 |
+| Expansion in Session | 0.20% | ~268 |
 | Efficient Floor Space | 0.20% | ~268 |
 | Flawless Fusion | 0.20% | ~268 |
 | Gem Expert | 0.20% | ~268 |
@@ -75,7 +76,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.10% | ~134 |
 | Unleashed Potential | 0.10% | ~134 |
 | Supercharged | 0.10% | ~134 |
-| Expansion in Session | 0.10% | ~134 |
 | Thank You Tom Nook | 0.10% | ~134 |
 | Ritualist | 0.10% | ~134 |
 | Cranked up to 11 | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,053 (Ranked 63)  
+Progressed: 134,055 (Ranked 63)  
 Completed: 130 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 130 (0.10%) (Ranked 199)
 | 2023-08-04 | 133,890 | 128 |
 | 2023-08-05 | 133,956 | 128 |
 | 2023-08-06 | 134,025 | 129 |
-| 2023-08-07 | 134,053 | 130 |
+| 2023-08-07 | 134,055 | 130 |
 ## Awards
 Max (Great for Beginners): 4,691  (Ranked 70)  
 Sum: 27,060 (Ranked 46)  
