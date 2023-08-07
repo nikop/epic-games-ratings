@@ -100,7 +100,7 @@
 | 98 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 99 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.49% |
 | 100 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.47% |
-| 100 | [Ten Dates](games/t/ten_dates.md) | 1.47% |
+| 101 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
 | 102 | [Poosh XL](games/p/poosh_xl.md) | 1.44% |
 | 103 | [Five Dates](games/f/five_dates.md) | 1.40% |
 | 104 | [Late Shift](games/l/late_shift.md) | 1.32% |
