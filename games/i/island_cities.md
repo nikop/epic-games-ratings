@@ -7,7 +7,7 @@
 | Welcome! | 97.00% | ~443 |
 | A tiny town | 85.00% | ~388 |
 | Buildings, roads, cars, ...and people | 66.00% | ~302 |
-| Great view from the beach and from the hill | 56.00% | ~256 |
+| Great view from the beach and from the hill | 57.00% | ~260 |
 | Bridges to come and go | 50.00% | ~228 |
 | Found an oasis | 44.00% | ~201 |
 | Burger or pizza? | 40.00% | ~183 |

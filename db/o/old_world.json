@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1575,9 +1575,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13315,
+  "EOS_Progressed": 13317,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9290,6 +9290,11 @@
       "Time": "2023-08-07T22:03:43.8086144+00:00",
       "NumProgressed": 13315,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-07T23:04:11.0095932+00:00",
+      "NumProgressed": 13317,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -9739,9 +9744,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
       "SetID": "9201eeb",
       "Name": "Fountainhead",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GLORIOUS",
@@ -9979,9 +9984,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WISE",
       "SetID": "9201eeb",
       "Name": "Wise",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
@@ -10067,9 +10072,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
       "SetID": "7l38kb8",
       "Name": "Just Difficulty",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 107
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
@@ -10931,9 +10936,9 @@
       "ID": "ACHIEVEMENT_NATION_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greece",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHIEVEMENT_NATION_HITTITE",
@@ -11059,9 +11064,9 @@
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
       "SetID": "9201eeb",
       "Name": "Power to the People",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
@@ -11139,9 +11144,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
       "SetID": "9201eeb",
       "Name": "Hittite Paganism",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 40
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
@@ -11307,9 +11312,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
       "SetID": "7l38kb8",
       "Name": "Revelation",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -11581,7 +11586,7 @@
       "Name": "The Clergy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -11668,21 +11673,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13315,
+      "Progressed": 13317,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13315,
+      "Progressed": 13317,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-01T16:59:10.6733314+00:00",
-  "LastChanged_Achievements": "2023-08-07T22:03:43.8086137+00:00",
+  "LastChanged_Achievements": "2023-08-07T23:04:11.0095929+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:46.1485999+00:00",
-  "LastUpdate_Ratings": "2023-08-07T21:58:54.481532+00:00",
-  "LastUpdate_Achievements": "2023-08-07T22:03:43.8096455+00:00"
+  "LastUpdate_Ratings": "2023-08-07T22:59:11.4289281+00:00",
+  "LastUpdate_Achievements": "2023-08-07T23:04:11.0105706+00:00"
 }

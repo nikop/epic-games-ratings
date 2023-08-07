@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14408,
+  "EOS_Progressed": 14409,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -7655,6 +7655,11 @@
       "Time": "2023-08-07T22:04:16.6106399+00:00",
       "NumProgressed": 14408,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-07T23:04:33.9004686+00:00",
+      "NumProgressed": 14409,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 41,
@@ -7674,7 +7679,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "tpote_achievement_11",
@@ -7730,7 +7735,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2449
+      "UsersEstimate": 2450
     },
     {
       "ID": "tpote_achievement_18",
@@ -7746,7 +7751,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "tpote_achievement_2",
@@ -7770,7 +7775,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "tpote_achievement_22",
@@ -7818,7 +7823,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "tpote_achievement_28",
@@ -7858,7 +7863,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "tpote_achievement_32",
@@ -7930,7 +7935,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5907
+      "UsersEstimate": 5908
     },
     {
       "ID": "tpote_achievement_40",
@@ -7993,15 +7998,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14408,
+      "Progressed": 14409,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-07T22:04:16.6106392+00:00",
+  "LastChanged_Achievements": "2023-08-07T23:04:33.9004678+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:55.7503888+00:00",
-  "LastUpdate_Ratings": "2023-08-07T22:01:00.3044248+00:00",
-  "LastUpdate_Achievements": "2023-08-07T22:04:16.6107195+00:00"
+  "LastUpdate_Ratings": "2023-08-07T23:01:24.2975619+00:00",
+  "LastUpdate_Achievements": "2023-08-07T23:04:33.9005822+00:00"
 }

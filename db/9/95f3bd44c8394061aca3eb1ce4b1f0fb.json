@@ -4,7 +4,7 @@
   "ProductSlug": "tabletop-playground-9623f1",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-15T19:00:00+00:00",
@@ -375,9 +375,9 @@
       "ID": "CompleteTutorials",
       "SetID": "9ajogia",
       "Name": "Student",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CreateTemplate",
@@ -422,8 +422,8 @@
   ],
   "FirstSeen": "2023-06-17T04:57:23.9027898+00:00",
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2023-08-07T22:06:06.8921818+00:00",
+  "LastChanged_Achievements": "2023-08-07T23:06:24.271877+00:00",
   "LastUpdate_AppInfo": "2023-08-03T18:57:09.8047321+00:00",
-  "LastUpdate_Ratings": "2023-08-07T21:57:54.9484296+00:00",
-  "LastUpdate_Achievements": "2023-08-07T22:06:06.8921934+00:00"
+  "LastUpdate_Ratings": "2023-08-07T22:58:15.5348796+00:00",
+  "LastUpdate_Achievements": "2023-08-07T23:06:24.2718861+00:00"
 }

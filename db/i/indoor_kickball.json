@@ -547,9 +547,9 @@
       "ID": "27",
       "SetID": "39djiaj",
       "Name": "You broke it, you bought it",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "28",
@@ -667,9 +667,9 @@
       "ID": "41",
       "SetID": "39djiaj",
       "Name": "Bathroom Secret Spot",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "5",
@@ -722,8 +722,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-08-07T22:04:30.0783338+00:00",
+  "LastChanged_Achievements": "2023-08-07T23:04:47.3855511+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:13.6749683+00:00",
-  "LastUpdate_Ratings": "2023-08-07T22:00:15.1401041+00:00",
-  "LastUpdate_Achievements": "2023-08-07T22:04:30.0783705+00:00"
+  "LastUpdate_Ratings": "2023-08-07T23:00:39.1062572+00:00",
+  "LastUpdate_Achievements": "2023-08-07T23:04:47.3855979+00:00"
 }

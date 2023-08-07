@@ -31,12 +31,12 @@ Number of Ratings: 56  (23.09.2022)
 | maximum attack | 11.00% | ~1,121 |
 | espresso | 10.00% | ~1,019 |
 | parallel universe | 10.00% | ~1,019 |
+| mittens | 8.00% | ~815 |
 | samir | 8.00% | ~815 |
 | eurobeat | 7.00% | ~713 |
 | viking | 7.00% | ~713 |
 | master of rally | 7.00% | ~713 |
 | antilag | 7.00% | ~713 |
-| mittens | 7.00% | ~713 |
 | parking lot | 6.00% | ~612 |
 | oktoberfest | 6.00% | ~612 |
 | group b | 5.00% | ~510 |

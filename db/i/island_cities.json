@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 13,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -31,7 +31,7 @@
   "EOS_Progressed": 457,
   "EOS_Completed": 83,
   "EOS_NewPlayers": 28,
-  "EOS_NewCompleters": 3,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 18.16,
   "EosHistory": [
     {
@@ -2241,9 +2241,9 @@
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 256
+      "UsersEstimate": 260
     },
     {
       "ID": "LEVEL_005",
@@ -2402,8 +2402,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-08-07T22:04:39.6301756+00:00",
+  "LastChanged_Achievements": "2023-08-07T23:04:56.6335513+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:52.0261252+00:00",
-  "LastUpdate_Ratings": "2023-08-07T21:59:00.4701011+00:00",
-  "LastUpdate_Achievements": "2023-08-07T22:04:39.6302083+00:00"
+  "LastUpdate_Ratings": "2023-08-07T22:59:17.3484905+00:00",
+  "LastUpdate_Achievements": "2023-08-07T23:04:56.6335965+00:00"
 }

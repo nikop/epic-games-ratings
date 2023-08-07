@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 3.00% | ~399 |
+| The Clergy | 3.00% | ~400 |
 | Explorer | 2.00% | ~266 |
 | Intrepid | 2.00% | ~266 |
 | Settler | 2.00% | ~266 |
@@ -17,6 +17,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 1.00% | ~133 |
 | Architect | 1.00% | ~133 |
 | Enlightened | 1.00% | ~133 |
+| Fountainhead | 1.00% | ~133 |
 | Glorious | 1.00% | ~133 |
 | Good | 1.00% | ~133 |
 | Just | 1.00% | ~133 |
@@ -28,6 +29,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 1.00% | ~133 |
 | Strong | 1.00% | ~133 |
 | Warrior | 1.00% | ~133 |
+| Wise | 1.00% | ~133 |
 | Developing Cities | 1.00% | ~133 |
 | Strong Cities | 1.00% | ~133 |
 | Able Difficulty | 1.00% | ~133 |
@@ -47,13 +49,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 1.00% | ~133 |
 | Poetic Leader | 1.00% | ~133 |
 | Brilliant | 0.90% | ~120 |
-| Fountainhead | 0.90% | ~120 |
 | Great | 0.90% | ~120 |
-| Wise | 0.90% | ~120 |
 | Great Ziggurat | 0.90% | ~120 |
 | Necropolis | 0.90% | ~120 |
 | Learn to Play 1 | 0.90% | ~120 |
 | Manichaeism | 0.90% | ~120 |
+| Just Difficulty | 0.80% | ~107 |
 | Artisans | 0.80% | ~107 |
 | Furious Family | 0.80% | ~107 |
 | Apadana | 0.80% | ~107 |
@@ -63,9 +64,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.70% | ~93 |
 | Intercessor | 0.70% | ~93 |
 | Legendary Cities | 0.70% | ~93 |
-| Just Difficulty | 0.70% | ~93 |
 | Sages | 0.70% | ~93 |
 | Learn to Play 2 | 0.70% | ~93 |
+| Greece | 0.70% | ~93 |
 | Egyptian Paganism | 0.70% | ~93 |
 | Mythology | 0.70% | ~93 |
 | Hanging Gardens in Babylon | 0.60% | ~80 |
@@ -74,7 +75,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.60% | ~80 |
 | Acropolis | 0.60% | ~80 |
 | Mausoleum | 0.60% | ~80 |
-| Greece | 0.60% | ~80 |
 | Points Victory | 0.60% | ~80 |
 | Beloved | 0.50% | ~67 |
 | Lion | 0.50% | ~67 |
@@ -88,6 +88,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.50% | ~67 |
 | Pantheon | 0.50% | ~67 |
 | Via Recta Souk | 0.50% | ~67 |
+| Power to the People | 0.50% | ~67 |
 | Persian Paganism | 0.50% | ~67 |
 | Building Wonders | 0.50% | ~67 |
 | Economic Reform | 0.50% | ~67 |
@@ -109,11 +110,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.40% | ~53 |
 | Babylonia | 0.40% | ~53 |
 | Carthage | 0.40% | ~53 |
-| Power to the People | 0.40% | ~53 |
 | Assyrian Paganism | 0.40% | ~53 |
 | Dualism | 0.40% | ~53 |
 | Enlightenment | 0.40% | ~53 |
 | Redemption | 0.40% | ~53 |
+| Revelation | 0.40% | ~53 |
 | Veneration | 0.40% | ~53 |
 | Legionary | 0.40% | ~53 |
 | Ambition Victory | 0.40% | ~53 |
@@ -129,10 +130,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.30% | ~40 |
 | Rome | 0.30% | ~40 |
 | One True Faith | 0.30% | ~40 |
+| Hittite Paganism | 0.30% | ~40 |
 | Industrial Progress | 0.30% | ~40 |
 | Military Prestige | 0.30% | ~40 |
 | Gnosticism | 0.30% | ~40 |
-| Revelation | 0.30% | ~40 |
 | Kushite Cavalry | 0.30% | ~40 |
 | Turreted Elephant | 0.30% | ~40 |
 | All Nations | 0.30% | ~40 |
@@ -150,7 +151,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.20% | ~27 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~27 |
 | Play a Network Game | 0.20% | ~27 |
-| Hittite Paganism | 0.20% | ~27 |
 | Capturing Cities | 0.20% | ~27 |
 | Ten Crowns | 0.20% | ~27 |
 | Cataphract Archer | 0.20% | ~27 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,315 (Ranked 117)  
+Progressed: 13,317 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,7 +412,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-04 | 13,269 | 5 |
 | 2023-08-05 | 13,281 | 5 |
 | 2023-08-06 | 13,301 | 5 |
-| 2023-08-07 | 13,315 | 5 |
+| 2023-08-07 | 13,317 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,786 (Ranked 206)  

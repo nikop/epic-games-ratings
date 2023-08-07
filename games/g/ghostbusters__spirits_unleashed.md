@@ -5,30 +5,30 @@ Rating: 4.49 (Ranked 575)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,395 |
-| Advancement | 73.00% | ~18,161 |
-| Meticulously Efficient | 64.00% | ~15,922 |
+| Stylish | 86.00% | ~21,396 |
+| Advancement | 73.00% | ~18,162 |
+| Meticulously Efficient | 63.00% | ~15,674 |
 | Discovery | 61.00% | ~15,176 |
-| Fully Upgraded | 54.00% | ~13,434 |
-| Swift Rift Removers | 54.00% | ~13,434 |
+| Fully Upgraded | 54.00% | ~13,435 |
+| Swift Rift Removers | 54.00% | ~13,435 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,688 |
 | Cultured | 51.00% | ~12,688 |
-| Vaporous Expansion | 48.00% | ~11,941 |
-| Teamwork | 44.00% | ~10,946 |
+| Vaporous Expansion | 48.00% | ~11,942 |
+| Teamwork | 44.00% | ~10,947 |
 | There you are! | 42.00% | ~10,449 |
 | Clutch Capture | 41.00% | ~10,200 |
-| Back Off | 35.00% | ~8,707 |
-| Daily Dose | 35.00% | ~8,707 |
+| Back Off | 35.00% | ~8,708 |
+| Daily Dose | 35.00% | ~8,708 |
 | Solo Capture | 32.00% | ~7,961 |
 | Welcome to the Crew | 31.00% | ~7,712 |
-| Ghostbuster In Training | 30.00% | ~7,463 |
-| Icing on the Cake | 30.00% | ~7,463 |
+| Ghostbuster In Training | 30.00% | ~7,464 |
+| Icing on the Cake | 30.00% | ~7,464 |
 | Side Hustle | 27.00% | ~6,717 |
-| We have the best insurance | 26.00% | ~6,468 |
-| Legions | 26.00% | ~6,468 |
-| Right back at ya | 26.00% | ~6,468 |
-| Stunner | 26.00% | ~6,468 |
-| Summoner | 26.00% | ~6,468 |
+| We have the best insurance | 26.00% | ~6,469 |
+| Legions | 26.00% | ~6,469 |
+| Right back at ya | 26.00% | ~6,469 |
+| Stunner | 26.00% | ~6,469 |
+| Summoner | 26.00% | ~6,469 |
 | Pesky Jerks | 25.00% | ~6,220 |
 | Animated | 24.00% | ~5,971 |
 | Skilled | 24.00% | ~5,971 |
@@ -38,16 +38,16 @@ Rating: 4.49 (Ranked 575)
 | Terrifying | 18.00% | ~4,478 |
 | Tobin's Prodigy | 18.00% | ~4,478 |
 | Reckless | 17.00% | ~4,229 |
-| Diabolical | 16.00% | ~3,980 |
-| Escape Artist | 16.00% | ~3,980 |
-| Seasoned | 16.00% | ~3,980 |
+| Diabolical | 16.00% | ~3,981 |
+| Escape Artist | 16.00% | ~3,981 |
+| Seasoned | 16.00% | ~3,981 |
 | Whoopsie | 12.00% | ~2,985 |
 | Liability | 10.00% | ~2,488 |
 | Rivalry | 10.00% | ~2,488 |
 | Fragile Panes | 9.00% | ~2,239 |
 | Surprise! | 9.00% | ~2,239 |
-| Rift Seeker | 7.00% | ~1,741 |
-| Therapeutic | 7.00% | ~1,741 |
+| Rift Seeker | 7.00% | ~1,742 |
+| Therapeutic | 7.00% | ~1,742 |
 | Master Collector | 6.00% | ~1,493 |
 | Ghost Expert | 3.00% | ~746 |
 | Catostrophic Destroyer | 2.00% | ~498 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 575)
 | I don't need these | 1.00% | ~249 |
 | Mycophile | 1.00% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,878 (Ranked 101)  
+Progressed: 24,879 (Ranked 101)  
 Completed: 49 (0.20%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 49 (0.20%) (Ranked 176)
 | 2023-08-04 | 24,762 | 48 |
 | 2023-08-05 | 24,800 | 48 |
 | 2023-08-06 | 24,847 | 49 |
-| 2023-08-07 | 24,878 | 49 |
+| 2023-08-07 | 24,879 | 49 |
 ## Awards
 Max (Great for Quick Sessions): 246  (Ranked 253)  
 Sum: 2,213 (Ranked 189)  

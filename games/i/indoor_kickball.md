@@ -22,16 +22,16 @@
 | Classroom Secret Spot | 24.00% | ~20 |
 | Save some water for the fishies | 24.00% | ~20 |
 | Have Mercy | 23.00% | ~19 |
+| Bathroom Secret Spot | 23.00% | ~19 |
 | Angry Dad | 23.00% | ~19 |
 | At least everyone still had fun | 23.00% | ~19 |
-| Bathroom Secret Spot | 22.00% | ~18 |
 | Living Room Secret Spot | 19.00% | ~16 |
 | Hi Hungry, I'm Dad | 17.00% | ~14 |
 | Angry Mom | 16.00% | ~13 |
 | Just how we drew it up | 11.00% | ~9 |
 | Interference | 10.00% | ~8 |
 | Kitchen Secret Spot | 7.00% | ~6 |
-| You broke it, you bought it | 6.00% | ~5 |
+| You broke it, you bought it | 7.00% | ~6 |
 | Found the Secret Formula! | 5.00% | ~4 |
 | Attic Secret Spot | 4.00% | ~3 |
 | Basement Secret Spot | 4.00% | ~3 |

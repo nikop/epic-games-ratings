@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 821,
+  "EOS_Progressed": 823,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2886,6 +2886,11 @@
       "Time": "2023-08-07T22:06:43.4360055+00:00",
       "NumProgressed": 821,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-07T23:06:59.9371712+00:00",
+      "NumProgressed": 823,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2905,7 +2910,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ach_defeat_players_10",
@@ -3073,7 +3078,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -3089,7 +3094,7 @@
       "Name": "Getting Deployment",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -3105,7 +3110,7 @@
       "Name": "Stocking Up",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -3121,7 +3126,7 @@
       "Name": "On Target",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -3145,7 +3150,7 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -3200,14 +3205,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 821,
+      "Progressed": 823,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-07T22:06:43.4360038+00:00",
+  "LastChanged_Achievements": "2023-08-07T23:06:59.9371706+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:21.6461868+00:00",
-  "LastUpdate_Ratings": "2023-08-07T21:57:17.2397567+00:00",
-  "LastUpdate_Achievements": "2023-08-07T22:06:43.4360551+00:00"
+  "LastUpdate_Ratings": "2023-08-07T22:57:37.3688792+00:00",
+  "LastUpdate_Achievements": "2023-08-07T23:06:59.9372348+00:00"
 }

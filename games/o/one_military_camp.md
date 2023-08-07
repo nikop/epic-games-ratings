@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 50.00% | ~66 |
-| First Step | 50.00% | ~66 |
-| Capitalism | 20.00% | ~27 |
+| The 4 Pillars | 50.00% | ~67 |
+| First Step | 50.00% | ~67 |
+| Capitalism | 19.00% | ~25 |
 | Indebted | 11.00% | ~15 |
-| Desert Rat | 11.00% | ~15 |
+| Desert Rat | 10.00% | ~13 |
 | There's something in those trees | 9.00% | ~12 |
 | Great Producer | 9.00% | ~12 |
-| Good payer | 8.00% | ~11 |
 | Green Energy | 8.00% | ~11 |
 | Desert Power | 7.00% | ~9 |
+| Good payer | 7.00% | ~9 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~8 |
 | Fuel Tycoon | 6.00% | ~8 |
 | Ammo Tycoon | 6.00% | ~8 |
 | Perfect Soldier | 5.00% | ~7 |
-| Health Care | 5.00% | ~7 |
 | Pathfinder | 5.00% | ~7 |
-| Self-sufficient | 5.00% | ~7 |
-| Food Tycoon | 5.00% | ~7 |
-| Medicine Tycoon | 5.00% | ~7 |
 | Supersoldier | 4.00% | ~5 |
 | Outdoor Decorator | 4.00% | ~5 |
+| Health Care | 4.00% | ~5 |
 | Healing | 4.00% | ~5 |
+| Self-sufficient | 4.00% | ~5 |
+| Food Tycoon | 4.00% | ~5 |
+| Medicine Tycoon | 4.00% | ~5 |
 | Overpopulation | 3.00% | ~4 |
 | Property Bro | 3.00% | ~4 |
 | Human Resources | 3.00% | ~4 |
-| Tear Down the Wall! | 2.00% | ~3 |
-| Vive le Résistance | 2.00% | ~3 |
-| No News is Good News | 2.00% | ~3 |
-| Snowman | 2.00% | ~3 |
-| Training Camp | 2.00% | ~3 |
-| Reconquest | 2.00% | ~3 |
 | Winter Soldier | 2.00% | ~3 |
 | Researcher | 2.00% | ~3 |
-| Economist | 0.80% | ~1 |
-| Crisis Committee | 0.80% | ~1 |
+| Tear Down the Wall! | 1.00% | ~1 |
+| Vive le Résistance | 1.00% | ~1 |
+| No News is Good News | 1.00% | ~1 |
+| Snowman | 1.00% | ~1 |
+| Training Camp | 1.00% | ~1 |
+| Reconquest | 1.00% | ~1 |
+| Economist | 0.70% | ~1 |
+| Crisis Committee | 0.70% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
 | Counter-espionage | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |
@@ -49,7 +49,7 @@
 | Against Adversity | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133 (Ranked 304)  
+Progressed: 134 (Ranked 303)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,3 +71,4 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-04 | 125 | 0 |
 | 2023-08-05 | 131 | 0 |
 | 2023-08-06 | 133 | 0 |
+| 2023-08-07 | 134 | 0 |

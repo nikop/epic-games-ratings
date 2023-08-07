@@ -36,6 +36,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 0.20% | ~268 |
 | For the Hoard! | 0.20% | ~268 |
 | Blank Page Syndrome | 0.20% | ~268 |
+| Scrapbooker | 0.20% | ~268 |
 | Master of Transmutation | 0.20% | ~268 |
 | Power of Love | 0.20% | ~268 |
 | Expansion in Session | 0.20% | ~268 |
@@ -64,7 +65,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thirst for Knowledge | 0.10% | ~134 |
 | Bane of Legends | 0.10% | ~134 |
 | Booty by the Boatload | 0.10% | ~134 |
-| Scrapbooker | 0.10% | ~134 |
 | Archivist | 0.10% | ~134 |
 | The Free Encyclopedia | 0.10% | ~134 |
 | Ultimate Collector | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,096 (Ranked 63)  
+Progressed: 134,099 (Ranked 63)  
 Completed: 130 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 130 (0.10%) (Ranked 199)
 | 2023-08-04 | 133,890 | 128 |
 | 2023-08-05 | 133,956 | 128 |
 | 2023-08-06 | 134,025 | 129 |
-| 2023-08-07 | 134,096 | 130 |
+| 2023-08-07 | 134,099 | 130 |
 ## Awards
 Max (Great for Beginners): 4,691  (Ranked 71)  
 Sum: 27,066 (Ranked 46)  

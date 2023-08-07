@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -205,9 +205,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 33038,
+  "EOS_Progressed": 33043,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 918,
+  "EOS_NewPlayers": 919,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -12125,6 +12125,11 @@
       "Time": "2023-08-07T22:05:27.3647756+00:00",
       "NumProgressed": 33038,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-07T23:05:44.4589994+00:00",
+      "NumProgressed": 33043,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -12144,7 +12149,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6608
+      "UsersEstimate": 6609
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -12296,7 +12301,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -12367,7 +12372,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 33038,
+      "Progressed": 33043,
       "Completed": 21
     }
   ],
@@ -12375,8 +12380,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-01T20:00:57.6814566+00:00",
-  "LastChanged_Achievements": "2023-08-07T22:05:27.364775+00:00",
+  "LastChanged_Achievements": "2023-08-07T23:05:44.4589988+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:57.8950159+00:00",
-  "LastUpdate_Ratings": "2023-08-07T22:01:02.5219114+00:00",
-  "LastUpdate_Achievements": "2023-08-07T22:05:27.3648732+00:00"
+  "LastUpdate_Ratings": "2023-08-07T23:01:26.6773164+00:00",
+  "LastUpdate_Achievements": "2023-08-07T23:05:44.459113+00:00"
 }

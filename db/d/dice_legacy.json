@@ -44,7 +44,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 987,
+  "EOS_Progressed": 988,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
@@ -1324,6 +1324,11 @@
       "Time": "2023-08-07T04:04:47.7684691+00:00",
       "NumProgressed": 987,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-07T23:05:52.1266095+00:00",
+      "NumProgressed": 988,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1447,7 +1452,7 @@
       "Name": "Ascended",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "DIE_FORGE_CUSTOM",
@@ -1503,7 +1508,7 @@
       "Name": "The Penitent Ones",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "EXILED_SOLDIER_FRIEND",
@@ -1527,7 +1532,7 @@
       "Name": "Greedy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "PREVENTRIOT",
@@ -1559,7 +1564,7 @@
       "Name": "We made it",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -1623,7 +1628,7 @@
       "Name": "The Stranded King",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "WINMATCHWITH_MERCHANT",
@@ -1687,14 +1692,14 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 987,
+      "Progressed": 988,
       "Completed": 0
     }
   ],
@@ -1702,8 +1707,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-08-07T22:05:34.9874124+00:00",
+  "LastChanged_Achievements": "2023-08-07T23:05:52.1266089+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:24.6012935+00:00",
-  "LastUpdate_Ratings": "2023-08-07T21:58:33.5289148+00:00",
-  "LastUpdate_Achievements": "2023-08-07T22:05:34.98746+00:00"
+  "LastUpdate_Ratings": "2023-08-07T22:58:51.1362757+00:00",
+  "LastUpdate_Achievements": "2023-08-07T23:05:52.126658+00:00"
 }
