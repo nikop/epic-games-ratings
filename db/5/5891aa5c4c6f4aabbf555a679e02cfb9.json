@@ -221,9 +221,9 @@
       "ID": "ACHIEVEMENT_09",
       "SetID": "b36c5kb",
       "Name": "Premature Finale",
-      "Percentage": 11,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -572,8 +572,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-07T02:00:44.1688805+00:00",
+  "LastChanged_Achievements": "2023-08-07T03:03:30.8227935+00:00",
   "LastUpdate_AppInfo": "2023-08-02T15:56:51.7948798+00:00",
-  "LastUpdate_Ratings": "2023-08-07T01:54:20.2374689+00:00",
-  "LastUpdate_Achievements": "2023-08-07T02:00:44.1689435+00:00"
+  "LastUpdate_Ratings": "2023-08-07T02:57:04.3608409+00:00",
+  "LastUpdate_Achievements": "2023-08-07T03:03:30.8228299+00:00"
 }

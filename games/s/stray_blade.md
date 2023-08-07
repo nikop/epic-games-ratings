@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 85.00% | ~34 |
-| Tinkerer | 57.00% | ~23 |
-| Welcome to the Club | 33.00% | ~13 |
-| A new World ahead | 25.00% | ~10 |
+| Self-Defence | 85.00% | ~35 |
+| Tinkerer | 59.00% | ~24 |
+| Welcome to the Club | 32.00% | ~13 |
+| A new World ahead | 24.00% | ~10 |
 | Don't Cry Wolf | 20.00% | ~8 |
 | Can't touch this | 20.00% | ~8 |
-| Apprentice | 18.00% | ~7 |
+| Apprentice | 17.00% | ~7 |
 | Freezing Cold | 10.00% | ~4 |
 | The Power of the Mountains | 10.00% | ~4 |
-| Bringing guns to a sword fight | 8.00% | ~3 |
-| Searing Heat | 8.00% | ~3 |
-| Through Dangers Untold | 8.00% | ~3 |
-| Nothing but the Truth | 8.00% | ~3 |
-| The Golden Flash | 8.00% | ~3 |
-| Changing the World | 8.00% | ~3 |
+| Bringing guns to a sword fight | 7.00% | ~3 |
+| Searing Heat | 7.00% | ~3 |
+| Through Dangers Untold | 7.00% | ~3 |
+| Nothing but the Truth | 7.00% | ~3 |
+| The Golden Flash | 7.00% | ~3 |
+| Changing the World | 7.00% | ~3 |
 | Locked and Loaded | 5.00% | ~2 |
-| Mirror, Mirror on the Wall | 3.00% | ~1 |
-| Sponsor | 3.00% | ~1 |
-| Defeat Ingla | 3.00% | ~1 |
-| Defeat Tezuth | 3.00% | ~1 |
-| Defeat Uskol | 3.00% | ~1 |
-| Forest Expert | 3.00% | ~1 |
-| Finally! | 3.00% | ~1 |
-| The End | 3.00% | ~1 |
-| But what of the Acreans? | 3.00% | ~1 |
+| Mirror, Mirror on the Wall | 2.00% | ~1 |
+| Sponsor | 2.00% | ~1 |
+| Defeat Ingla | 2.00% | ~1 |
+| Defeat Tezuth | 2.00% | ~1 |
+| Defeat Uskol | 2.00% | ~1 |
+| Forest Expert | 2.00% | ~1 |
+| Finally! | 2.00% | ~1 |
+| The End | 2.00% | ~1 |
+| But what of the Acreans? | 2.00% | ~1 |
 | Craftsmen | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
@@ -51,7 +51,7 @@
 | Master of all Domains | 0.00% | ~0 |
 | Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 371)  
+Progressed: 41 (Ranked 368)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,6 +84,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-04 | 38 | 0 |
 | 2023-08-05 | 39 | 0 |
 | 2023-08-06 | 40 | 0 |
+| 2023-08-07 | 41 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

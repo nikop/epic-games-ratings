@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 375,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.15,
+  "EOS_Completed_Percentage": 6.13,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -1321,6 +1321,11 @@
       "Time": "2023-08-06T22:06:32.7477594+00:00",
       "NumProgressed": 374,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-08-07T03:07:16.3358653+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 45,
@@ -1364,7 +1369,7 @@
       "Name": "Ouch!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "BearPoppiesBroth",
@@ -1372,7 +1377,7 @@
       "Name": "Sleeping Potion",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "BearRum",
@@ -1396,7 +1401,7 @@
       "Name": "Alms",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -1404,15 +1409,15 @@
       "Name": "Tasty Alms",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 262
     },
     {
       "ID": "BroomAmanita",
@@ -1420,7 +1425,7 @@
       "Name": "Gone Cooking",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "BroomPistol",
@@ -1434,9 +1439,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 262
     },
     {
       "ID": "DevilRope",
@@ -1450,9 +1455,9 @@
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 101
     },
     {
       "ID": "DwarDevil",
@@ -1484,7 +1489,7 @@
       "Name": "Happy Reunion",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "HastrmanAcorn",
@@ -1492,7 +1497,7 @@
       "Name": "Do Not Disturb",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "HastrmanAmanita",
@@ -1500,7 +1505,7 @@
       "Name": "Tastes Funny",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "HastrmanHappy",
@@ -1514,9 +1519,9 @@
       "ID": "HastrmanRum",
       "SetID": "db30heh",
       "Name": "That\u0027s Not Water",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 71
     },
     {
       "ID": "HatFlower",
@@ -1556,7 +1561,7 @@
       "Name": "Unexpected Hit",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "PriestPoppiesBroth",
@@ -1564,7 +1569,7 @@
       "Name": "Zonked",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "PriestRogue",
@@ -1580,7 +1585,7 @@
       "Name": "Rummy",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "Priestess",
@@ -1588,7 +1593,7 @@
       "Name": "Blessed",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "PrincessThrone",
@@ -1604,7 +1609,7 @@
       "Name": "Treasure Chest",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "RogueEat",
@@ -1628,7 +1633,7 @@
       "Name": "The King is Naked",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "RogueRum",
@@ -1636,7 +1641,7 @@
       "Name": "In Good Spirits",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -1691,14 +1696,14 @@
     {
       "ID": "db30heh",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 375,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-07T02:04:16.6691364+00:00",
+  "LastChanged_Achievements": "2023-08-07T03:07:16.3358647+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-07T01:54:47.7506684+00:00",
-  "LastUpdate_Achievements": "2023-08-07T02:04:16.669216+00:00"
+  "LastUpdate_Ratings": "2023-08-07T02:57:33.5385758+00:00",
+  "LastUpdate_Achievements": "2023-08-07T03:07:16.3359036+00:00"
 }

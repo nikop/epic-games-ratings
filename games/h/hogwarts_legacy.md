@@ -25,7 +25,7 @@ Rating: 4.77 (Ranked 108)
 | A Sallow Grave | 7.00% | ~20,269 |
 | Flight the Good Flight | 7.00% | ~20,269 |
 | The Spell Master | 7.00% | ~20,269 |
-| Beast Friends | 6.00% | ~17,373 |
+| Beast Friends | 6.00% | ~17,374 |
 | The Seeker of Knowledge | 5.00% | ~14,478 |
 | The Root of the Problem | 5.00% | ~14,478 |
 | Third Time's a Charm | 5.00% | ~14,478 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,737 |
 | Collector's Edition | 0.30% | ~869 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,557 (Ranked 42)  
+Progressed: 289,559 (Ranked 42)  
 Completed: 442 (0.15%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 442 (0.15%) (Ranked 187)
 | 2023-08-04 | 289,362 | 439 |
 | 2023-08-05 | 289,460 | 442 |
 | 2023-08-06 | 289,549 | 442 |
-| 2023-08-07 | 289,557 | 442 |
+| 2023-08-07 | 289,559 | 442 |
 ## Awards
 Max (Character Customization): 21,567  (Ranked 17)  
 Sum: 40,577 (Ranked 30)  

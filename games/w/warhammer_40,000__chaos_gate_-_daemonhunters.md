@@ -19,7 +19,7 @@ Number of Ratings: 371  (23.09.2022)
 | A Foul Creche | 1.00% | ~31 |
 | Honoured Battle-Brother | 0.90% | ~28 |
 | The Emperor Protects | 0.80% | ~25 |
-| Nemesis Master | 0.70% | ~22 |
+| Nemesis Master | 0.80% | ~25 |
 | Gunmaster | 0.70% | ~22 |
 | Execution Force | 0.70% | ~22 |
 | Just a Scratch | 0.60% | ~19 |

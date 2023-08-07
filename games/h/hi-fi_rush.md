@@ -31,10 +31,10 @@ Rating: 4.87 (Ranked 24)
 | Out in a puff of smoke | 3.00% | ~113 |
 | Perfecter Parry-er! | 3.00% | ~113 |
 | I look cool. But I can look COOLER. | 3.00% | ~113 |
-| Well that was a rush! | 2.00% | ~75 |
-| Beat-hit mania | 2.00% | ~75 |
-| That's a lot of junk metal… | 2.00% | ~75 |
-| There's such a thing as TOO helpful | 2.00% | ~75 |
+| Well that was a rush! | 2.00% | ~76 |
+| Beat-hit mania | 2.00% | ~76 |
+| That's a lot of junk metal… | 2.00% | ~76 |
+| There's such a thing as TOO helpful | 2.00% | ~76 |
 | Chip-tuned | 1.00% | ~38 |
 | Wanna hear my playlist? | 1.00% | ~38 |
 | Check out my moves! | 1.00% | ~38 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,773 (Ranked 147)  
+Progressed: 3,775 (Ranked 147)  
 Completed: 7 (0.19%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 7 (0.19%) (Ranked 180)
 | 2023-08-04 | 3,731 | 6 |
 | 2023-08-05 | 3,750 | 6 |
 | 2023-08-06 | 3,771 | 7 |
-| 2023-08-07 | 3,773 | 7 |
+| 2023-08-07 | 3,775 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

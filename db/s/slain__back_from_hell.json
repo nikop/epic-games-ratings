@@ -205,9 +205,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 32940,
+  "EOS_Progressed": 32942,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 911,
+  "EOS_NewPlayers": 909,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -12025,6 +12025,11 @@
       "Time": "2023-08-07T02:02:38.3964467+00:00",
       "NumProgressed": 32940,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-07T03:05:32.5135787+00:00",
+      "NumProgressed": 32942,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -12066,9 +12071,9 @@
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
       "SetID": "443p4o4",
       "Name": "Sure Footed As A Goat",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -12196,7 +12201,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -12267,7 +12272,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 32940,
+      "Progressed": 32942,
       "Completed": 21
     }
   ],
@@ -12275,8 +12280,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-01T20:00:57.6814566+00:00",
-  "LastChanged_Achievements": "2023-08-07T02:02:38.396446+00:00",
+  "LastChanged_Achievements": "2023-08-07T03:05:32.5135782+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:57.8950159+00:00",
-  "LastUpdate_Ratings": "2023-08-07T01:58:25.5085639+00:00",
-  "LastUpdate_Achievements": "2023-08-07T02:02:38.3965733+00:00"
+  "LastUpdate_Ratings": "2023-08-07T03:01:25.8261848+00:00",
+  "LastUpdate_Achievements": "2023-08-07T03:05:32.5136488+00:00"
 }

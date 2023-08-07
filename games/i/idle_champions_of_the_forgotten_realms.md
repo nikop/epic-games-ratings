@@ -6,19 +6,20 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,778 |
-| Beast Intentions | 3.00% | ~6,583 |
-| Maddening | 2.00% | ~4,389 |
-| The Silken Swamp | 1.00% | ~2,194 |
-| Supply Run | 1.00% | ~2,194 |
-| Vecna Lives! | 1.00% | ~1,857 |
-| Rocky Reception | 1.00% | ~1,857 |
-| Rock and Roll | 1.00% | ~1,857 |
+| A Brief Tour of the Realms | 4.00% | ~8,779 |
+| Beast Intentions | 3.00% | ~6,584 |
+| Maddening | 2.00% | ~4,390 |
+| The Silken Swamp | 1.00% | ~2,195 |
+| Supply Run | 1.00% | ~2,195 |
+| Vecna Lives! | 1.00% | ~1,858 |
+| Rocky Reception | 1.00% | ~1,858 |
+| Rock and Roll | 1.00% | ~1,858 |
 | Flight of the Kindori Pod | 0.90% | ~1,672 |
 | Tall Tales | 0.80% | ~1,486 |
 | Seeds of Destruction | 0.80% | ~1,486 |
 | Vecna Loots! | 0.80% | ~1,486 |
 | Topolah's Tower | 0.80% | ~1,486 |
+| Pros and CONs | 0.70% | ~1,536 |
 | Wet Feet | 0.70% | ~1,536 |
 | Return to the Tomb | 0.70% | ~1,300 |
 | Heatwave | 0.70% | ~1,300 |
@@ -29,20 +30,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.70% | ~1,536 |
 | The Cursed Farmer | 0.70% | ~1,536 |
 | The Mad Wizard | 0.70% | ~1,536 |
-| Pros and CONs | 0.60% | ~1,317 |
-| The Witchlight Carnival | 0.60% | ~1,114 |
+| The Witchlight Carnival | 0.60% | ~1,115 |
 | Hatchlings Underfoot | 0.60% | ~1,317 |
 | Don't Look Up! | 0.60% | ~1,317 |
 | Heavy Burden | 0.60% | ~1,317 |
-| The Evacuation of Waterdeep | 0.60% | ~1,114 |
-| The Dread Domain of Tovag | 0.60% | ~1,114 |
+| The Evacuation of Waterdeep | 0.60% | ~1,115 |
+| The Dread Domain of Tovag | 0.60% | ~1,115 |
 | Beast Mode | 0.60% | ~1,317 |
 | A Mysterious Summons | 0.60% | ~1,317 |
 | The Mists of Ravenloft | 0.60% | ~1,317 |
 | The Dinner Party | 0.60% | ~1,317 |
 | The Botched Kidnapping | 0.60% | ~1,317 |
-| The Champion's Guide to Wildspace | 0.60% | ~1,114 |
-| Krux's Speed Run | 0.60% | ~1,114 |
+| The Champion's Guide to Wildspace | 0.60% | ~1,115 |
+| Krux's Speed Run | 0.60% | ~1,115 |
 | Thieves of the Coven | 0.50% | ~929 |
 | Friends of the Forest | 0.50% | ~1,097 |
 | Low Initiative | 0.50% | ~1,097 |
@@ -81,6 +81,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tower on the Lake | 0.40% | ~878 |
 | Trollskull Manor | 0.40% | ~878 |
 | The Crumbling Temple | 0.40% | ~878 |
+| The Death Curse | 0.40% | ~878 |
 | Are Ya Chicken? | 0.40% | ~878 |
 | Useless Allies | 0.40% | ~878 |
 | Mad Cow Disease | 0.40% | ~878 |
@@ -116,6 +117,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sanctum of the Sword | 0.30% | ~557 |
 | Get Back In The Castle | 0.30% | ~557 |
 | Checkmate | 0.30% | ~557 |
+| Vecna Out! | 0.30% | ~557 |
 | Lobsterfolk Assault | 0.30% | ~658 |
 | Home Field Advantage | 0.30% | ~658 |
 | Force Grey Unleashed | 0.30% | ~658 |
@@ -136,7 +138,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wyrmheart Mine | 0.30% | ~658 |
 | Seeds of Deceit | 0.30% | ~658 |
 | Attack on the Manor | 0.30% | ~658 |
-| The Death Curse | 0.30% | ~658 |
 | Treasure Hunters | 0.30% | ~658 |
 | Flies on the Wall | 0.30% | ~658 |
 | Nimble Escape | 0.30% | ~658 |
@@ -167,31 +168,30 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rescue in the Jungle | 0.30% | ~658 |
 | Willing to Sacrifice | 0.30% | ~557 |
 | Tiny Treaty | 0.30% | ~557 |
-| Cold as Ice | 0.20% | ~371 |
-| Friends and Foes | 0.20% | ~371 |
-| An Unexpected Geist | 0.20% | ~371 |
-| Back to Nature | 0.20% | ~371 |
-| A Monarch Among Us | 0.20% | ~371 |
-| A Dragon Against Us | 0.20% | ~371 |
-| Sticky Fingers | 0.20% | ~371 |
-| Patron Party | 0.20% | ~371 |
-| Don't Breathe the Marsh Gas | 0.20% | ~371 |
-| The Spire of Iriolarthas | 0.20% | ~371 |
-| The Fall of Ythryn | 0.20% | ~371 |
-| A Lesson in Classes | 0.20% | ~371 |
-| Bully for You! | 0.20% | ~371 |
-| The Dark Heart | 0.20% | ~371 |
-| The Alien Underdark | 0.20% | ~371 |
-| The Oozing Hunger | 0.20% | ~371 |
-| The Roots of Loomlurch | 0.20% | ~371 |
-| Best Laid Plans | 0.20% | ~371 |
-| The Howling Peaks of Yon | 0.20% | ~371 |
-| Arcane Efforts | 0.20% | ~371 |
-| To Avernus in a Handbasket | 0.20% | ~371 |
-| Hands Off! | 0.20% | ~371 |
-| Weak Doesn't Mean Feeble | 0.20% | ~371 |
-| Vecna Out! | 0.20% | ~371 |
-| Clowning Around | 0.20% | ~371 |
+| Cold as Ice | 0.20% | ~372 |
+| Friends and Foes | 0.20% | ~372 |
+| An Unexpected Geist | 0.20% | ~372 |
+| Back to Nature | 0.20% | ~372 |
+| A Monarch Among Us | 0.20% | ~372 |
+| A Dragon Against Us | 0.20% | ~372 |
+| Sticky Fingers | 0.20% | ~372 |
+| Patron Party | 0.20% | ~372 |
+| Don't Breathe the Marsh Gas | 0.20% | ~372 |
+| The Spire of Iriolarthas | 0.20% | ~372 |
+| The Fall of Ythryn | 0.20% | ~372 |
+| A Lesson in Classes | 0.20% | ~372 |
+| Bully for You! | 0.20% | ~372 |
+| The Dark Heart | 0.20% | ~372 |
+| The Alien Underdark | 0.20% | ~372 |
+| The Oozing Hunger | 0.20% | ~372 |
+| The Roots of Loomlurch | 0.20% | ~372 |
+| Best Laid Plans | 0.20% | ~372 |
+| The Howling Peaks of Yon | 0.20% | ~372 |
+| Arcane Efforts | 0.20% | ~372 |
+| To Avernus in a Handbasket | 0.20% | ~372 |
+| Hands Off! | 0.20% | ~372 |
+| Weak Doesn't Mean Feeble | 0.20% | ~372 |
+| Clowning Around | 0.20% | ~372 |
 | Anti-Dexterous Explorers | 0.20% | ~439 |
 | Struggling Toward Omu | 0.20% | ~439 |
 | Not Very Charming | 0.20% | ~439 |
@@ -200,12 +200,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.20% | ~439 |
 | Poor Fortune | 0.20% | ~439 |
 | Relentless Misfortune | 0.20% | ~439 |
-| Thine Bounty is Mine! | 0.20% | ~371 |
-| This Quest Stinks! | 0.20% | ~371 |
+| Thine Bounty is Mine! | 0.20% | ~372 |
+| This Quest Stinks! | 0.20% | ~372 |
 | Hold for the Red Wizards | 0.20% | ~439 |
 | The Gargoyle's Apprentice | 0.20% | ~439 |
 | House of Darkness | 0.20% | ~439 |
-| Home Not So Alone | 0.20% | ~371 |
+| Home Not So Alone | 0.20% | ~372 |
 | The Trepidatious Trio | 0.20% | ~439 |
 | Our Time To Shine | 0.20% | ~439 |
 | The Guardian of Orolunga | 0.20% | ~439 |
@@ -226,35 +226,35 @@ Number of Ratings: 9,041  (23.09.2022)
 | Champions of Waterdeep | 0.20% | ~439 |
 | Once More Into The Breach | 0.20% | ~439 |
 | Wyllowwood | 0.20% | ~439 |
-| An Illithid Undertaking | 0.20% | ~371 |
-| Déjà Vu | 0.20% | ~371 |
-| Dreamscape | 0.20% | ~371 |
-| The Path of Dreams | 0.20% | ~371 |
-| The Lost Hollyphant | 0.20% | ~371 |
-| Alterdeep | 0.20% | ~371 |
-| The Wandering Emporium | 0.20% | ~371 |
-| Tiamat's Army | 0.20% | ~371 |
-| Questlines | 0.20% | ~371 |
-| Bel's Forge | 0.20% | ~371 |
-| Rime Bandits | 0.20% | ~371 |
-| The Sibriex | 0.20% | ~371 |
-| Wrecked Flying Fortress | 0.20% | ~371 |
-| Dwarven Rumors | 0.20% | ~371 |
-| Sunblight | 0.20% | ~371 |
-| The Bleeding Citadel | 0.20% | ~371 |
-| Idyllglen | 0.20% | ~371 |
-| The Radiant Nightmare | 0.20% | ~371 |
-| Waiting on Sunrise | 0.20% | ~371 |
-| Deekin's Mission | 0.20% | ~371 |
-| Frozen Vengeance | 0.20% | ~371 |
-| The Battle of High Hall Tower | 0.20% | ~371 |
-| Elturel's Last Stand | 0.20% | ~371 |
-| Ending the Rime - Part 1 | 0.20% | ~371 |
-| Ending the Rime - Part 2 | 0.20% | ~371 |
+| An Illithid Undertaking | 0.20% | ~372 |
+| Déjà Vu | 0.20% | ~372 |
+| Dreamscape | 0.20% | ~372 |
+| The Path of Dreams | 0.20% | ~372 |
+| The Lost Hollyphant | 0.20% | ~372 |
+| Alterdeep | 0.20% | ~372 |
+| The Wandering Emporium | 0.20% | ~372 |
+| Tiamat's Army | 0.20% | ~372 |
+| Questlines | 0.20% | ~372 |
+| Bel's Forge | 0.20% | ~372 |
+| Rime Bandits | 0.20% | ~372 |
+| The Sibriex | 0.20% | ~372 |
+| Wrecked Flying Fortress | 0.20% | ~372 |
+| Dwarven Rumors | 0.20% | ~372 |
+| Sunblight | 0.20% | ~372 |
+| The Bleeding Citadel | 0.20% | ~372 |
+| Idyllglen | 0.20% | ~372 |
+| The Radiant Nightmare | 0.20% | ~372 |
+| Waiting on Sunrise | 0.20% | ~372 |
+| Deekin's Mission | 0.20% | ~372 |
+| Frozen Vengeance | 0.20% | ~372 |
+| The Battle of High Hall Tower | 0.20% | ~372 |
+| Elturel's Last Stand | 0.20% | ~372 |
+| Ending the Rime - Part 1 | 0.20% | ~372 |
+| Ending the Rime - Part 2 | 0.20% | ~372 |
 | The Haunted Jungle | 0.20% | ~439 |
 | Poor Guidance | 0.20% | ~439 |
 | Overwhelming Force | 0.20% | ~439 |
-| All The World's A Stage | 0.20% | ~371 |
+| All The World's A Stage | 0.20% | ~372 |
 | Keep Your Friends Close | 0.10% | ~186 |
 | And Your Enemies Closer | 0.10% | ~186 |
 | A Familiar Behind Us | 0.10% | ~186 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,449 (Ranked 53)  
+Progressed: 219,480 (Ranked 53)  
 Completed: 2,158 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,7 +628,7 @@ Completed: 2,158 (0.98%) (Ranked 114)
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
-| 2023-08-07 | 219,449 | 2,158 |
+| 2023-08-07 | 219,480 | 2,158 |
 ## Awards
 Max (Diverse Characters): 5,121  (Ranked 67)  
 Sum: 30,923 (Ranked 38)  

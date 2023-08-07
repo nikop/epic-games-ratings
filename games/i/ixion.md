@@ -36,11 +36,11 @@ Rating: 4.55 (Ranked 486)
 | What the Ruins Teach Us | 4.00% | ~121 |
 | ...  in a finite world | 3.00% | ~91 |
 | Sustainable Energy | 3.00% | ~91 |
+| Pedal to the Metal | 3.00% | ~91 |
 | In Dolos We Trust | 2.00% | ~61 |
 | Praise the Hull! | 2.00% | ~61 |
 | Space Greenhouse | 2.00% | ~61 |
 | Delivery! | 2.00% | ~61 |
-| Pedal to the Metal | 2.00% | ~61 |
 | Help of the Forgotten Member | 2.00% | ~61 |
 | Pulsar Disciple | 2.00% | ~61 |
 | Mutual Loyalty | 1.00% | ~30 |

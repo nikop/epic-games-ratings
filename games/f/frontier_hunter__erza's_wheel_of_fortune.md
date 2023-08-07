@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 91.00% | ~72 |
-| Training Simulation | 82.00% | ~65 |
+| Travel Streamer | 91.00% | ~73 |
+| Training Simulation | 81.00% | ~65 |
 | Kuku Bird Hunter | 73.00% | ~58 |
 | Fashion Connoisseur | 68.00% | ~54 |
 | Storm Traveller | 68.00% | ~54 |
 | Wolf King Killer | 68.00% | ~54 |
-| Arms Mechanic | 62.00% | ~49 |
+| Arms Mechanic | 61.00% | ~49 |
 | Flower Thief | 59.00% | ~47 |
-| Apostle of Flame | 57.00% | ~45 |
-| Beginner Cook | 56.00% | ~44 |
+| Apostle of Flame | 56.00% | ~45 |
+| Beginner Cook | 55.00% | ~44 |
 | Beginner Artificer | 54.00% | ~43 |
 | Seal Breaker | 49.00% | ~39 |
-| Handyman | 47.00% | ~37 |
-| Giant Lizard Killer | 46.00% | ~36 |
+| Handyman | 46.00% | ~37 |
+| Giant Lizard Killer | 45.00% | ~36 |
 | Nosebleeder | 44.00% | ~35 |
 | Guardian | 43.00% | ~34 |
-| Trader | 41.00% | ~32 |
+| Trader | 40.00% | ~32 |
 | Weapon Boost | 38.00% | ~30 |
-| Flying Kobold Killer | 37.00% | ~29 |
-| Youth Magnet | 37.00% | ~29 |
+| Flying Kobold Killer | 36.00% | ~29 |
+| Youth Magnet | 36.00% | ~29 |
 | Lethal Blade Mantis Killer | 35.00% | ~28 |
 | Squeaky Clean | 35.00% | ~28 |
 | Furious Scorpion Killer | 34.00% | ~27 |
@@ -32,7 +32,7 @@
 | Mermaid Killer | 30.00% | ~24 |
 | Cave Master | 28.00% | ~22 |
 | Face Slapper | 28.00% | ~22 |
-| Master Cook | 22.00% | ~17 |
+| Master Cook | 21.00% | ~17 |
 | Berserker Slayer | 16.00% | ~13 |
 | Warden Slayer | 15.00% | ~12 |
 | Giantess Slayer | 14.00% | ~11 |
@@ -50,7 +50,7 @@
 | Furious Scorpion Challenge | 1.00% | ~1 |
 | Giant Lizard Challenge | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79 (Ranked 337)  
+Progressed: 80 (Ranked 336)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,6 +99,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-07-30 | 77 | 0 |
 | 2023-08-01 | 78 | 0 |
 | 2023-08-03 | 79 | 0 |
+| 2023-08-07 | 80 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

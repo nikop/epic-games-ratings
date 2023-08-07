@@ -5,20 +5,20 @@ Rating: 4.49 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,373 |
-| Advancement | 73.00% | ~18,142 |
+| Stylish | 86.00% | ~21,374 |
+| Advancement | 73.00% | ~18,143 |
 | Meticulously Efficient | 63.00% | ~15,657 |
 | Discovery | 61.00% | ~15,160 |
-| Fully Upgraded | 54.00% | ~13,420 |
-| Swift Rift Removers | 54.00% | ~13,420 |
+| Fully Upgraded | 54.00% | ~13,421 |
+| Swift Rift Removers | 54.00% | ~13,421 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,675 |
 | Cultured | 51.00% | ~12,675 |
 | Vaporous Expansion | 48.00% | ~11,929 |
 | Teamwork | 44.00% | ~10,935 |
 | There you are! | 42.00% | ~10,438 |
-| Clutch Capture | 41.00% | ~10,189 |
-| Back Off | 35.00% | ~8,698 |
-| Daily Dose | 35.00% | ~8,698 |
+| Clutch Capture | 41.00% | ~10,190 |
+| Back Off | 35.00% | ~8,699 |
+| Daily Dose | 35.00% | ~8,699 |
 | Solo Capture | 32.00% | ~7,953 |
 | Welcome to the Crew | 31.00% | ~7,704 |
 | Ghostbuster In Training | 30.00% | ~7,456 |
@@ -30,13 +30,13 @@ Rating: 4.49 (Ranked 576)
 | Stunner | 26.00% | ~6,462 |
 | Summoner | 26.00% | ~6,462 |
 | Pesky Jerks | 25.00% | ~6,213 |
-| Animated | 24.00% | ~5,964 |
-| Skilled | 24.00% | ~5,964 |
+| Animated | 24.00% | ~5,965 |
+| Skilled | 24.00% | ~5,965 |
 | Collector | 23.00% | ~5,716 |
 | Ectoplasmic Entity | 23.00% | ~5,716 |
 | Rift Destroyer | 19.00% | ~4,722 |
-| Terrifying | 18.00% | ~4,473 |
-| Tobin's Prodigy | 18.00% | ~4,473 |
+| Terrifying | 18.00% | ~4,474 |
+| Tobin's Prodigy | 18.00% | ~4,474 |
 | Reckless | 17.00% | ~4,225 |
 | Diabolical | 16.00% | ~3,976 |
 | Escape Artist | 16.00% | ~3,976 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 576)
 | I don't need these | 1.00% | ~249 |
 | Mycophile | 1.00% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,852 (Ranked 101)  
+Progressed: 24,853 (Ranked 101)  
 Completed: 49 (0.20%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 49 (0.20%) (Ranked 176)
 | 2023-08-04 | 24,762 | 48 |
 | 2023-08-05 | 24,800 | 48 |
 | 2023-08-06 | 24,847 | 49 |
-| 2023-08-07 | 24,852 | 49 |
+| 2023-08-07 | 24,853 | 49 |
 ## Awards
 Max (Great for Quick Sessions): 246  (Ranked 253)  
 Sum: 2,212 (Ranked 189)  

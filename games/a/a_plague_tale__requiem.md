@@ -5,27 +5,27 @@ Rating: 4.73 (Ranked 160)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~11,643 |
-| Newcomers | 78.00% | ~9,871 |
-| A Burden of Blood | 73.00% | ~9,238 |
-| Protector's Duty | 69.00% | ~8,732 |
-| Alchemist | 68.00% | ~8,605 |
-| In our Wake | 67.00% | ~8,479 |
-| Leaving all Behind | 64.00% | ~8,099 |
-| Felons | 61.00% | ~7,720 |
-| A Sea of Promises | 60.00% | ~7,593 |
-| Tales and Revelations | 56.00% | ~7,087 |
-| Bloodline | 52.00% | ~6,581 |
-| The Cradle of Centuries | 48.00% | ~6,074 |
-| The Life We Deserve | 45.00% | ~5,695 |
-| Night guard | 42.00% | ~5,315 |
-| Nothing Left | 38.00% | ~4,809 |
-| Healing our Wounds | 36.00% | ~4,556 |
-| Dying Sun | 33.00% | ~4,176 |
-| Improved crossbow | 26.00% | ~3,290 |
-| King Hugo | 24.00% | ~3,037 |
+| Under a New Sun | 92.00% | ~11,644 |
+| Newcomers | 78.00% | ~9,872 |
+| A Burden of Blood | 73.00% | ~9,240 |
+| Protector's Duty | 69.00% | ~8,733 |
+| Alchemist | 68.00% | ~8,607 |
+| In our Wake | 67.00% | ~8,480 |
+| Leaving all Behind | 64.00% | ~8,100 |
+| Felons | 61.00% | ~7,721 |
+| A Sea of Promises | 60.00% | ~7,594 |
+| Tales and Revelations | 56.00% | ~7,088 |
+| Bloodline | 52.00% | ~6,582 |
+| The Cradle of Centuries | 48.00% | ~6,075 |
+| The Life We Deserve | 45.00% | ~5,696 |
+| Night guard | 42.00% | ~5,316 |
+| Nothing Left | 38.00% | ~4,810 |
+| Healing our Wounds | 36.00% | ~4,557 |
+| Dying Sun | 33.00% | ~4,177 |
+| Improved crossbow | 26.00% | ~3,291 |
+| King Hugo | 24.00% | ~3,038 |
 | Mercy | 23.00% | ~2,911 |
-| Perfect shot | 22.00% | ~2,784 |
+| Perfect shot | 22.00% | ~2,785 |
 | Effective instruments | 21.00% | ~2,658 |
 | Perfect throw | 21.00% | ~2,658 |
 | Knights! | 20.00% | ~2,531 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 160)
 | Explorer | 1.00% | ~127 |
 | Malignant | 1.00% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,655 (Ranked 118)  
+Progressed: 12,657 (Ranked 118)  
 Completed: 40 (0.32%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 40 (0.32%) (Ranked 157)
 | 2023-08-04 | 12,602 | 40 |
 | 2023-08-05 | 12,626 | 40 |
 | 2023-08-06 | 12,654 | 40 |
-| 2023-08-07 | 12,655 | 40 |
+| 2023-08-07 | 12,657 | 40 |
 ## Awards
 Max (Great Boss Battles): 410  (Ranked 209)  
 Sum: 628 (Ranked 290)  

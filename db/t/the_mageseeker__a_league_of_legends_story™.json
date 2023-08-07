@@ -3680,9 +3680,9 @@
       "ID": "STB_SECONDARY_ASSAULT_I",
       "SetID": "3pe2bac",
       "Name": "Ternmoat Headquarters",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 853
+      "UsersEstimate": 878
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -3777,8 +3777,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-08-07T02:01:24.123127+00:00",
+  "LastChanged_Achievements": "2023-08-07T03:04:13.342797+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:18.2583768+00:00",
-  "LastUpdate_Ratings": "2023-08-07T01:55:41.5581924+00:00",
-  "LastUpdate_Achievements": "2023-08-07T02:01:24.1231963+00:00"
+  "LastUpdate_Ratings": "2023-08-07T02:58:30.1991711+00:00",
+  "LastUpdate_Achievements": "2023-08-07T03:04:13.3428605+00:00"
 }
