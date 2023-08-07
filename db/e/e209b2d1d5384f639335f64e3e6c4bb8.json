@@ -1,9 +1,9 @@
 {
   "ID": "e209b2d1d5384f639335f64e3e6c4bb8",
   "Name": null,
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": null,
@@ -14,15 +14,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 12,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-08-01T13:08:41.5075033+00:00",
       "NumProgressed": 11,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-07T17:03:32.3914449+00:00",
+      "NumProgressed": 12,
       "NumCompleted": 0
     }
   ],
@@ -58,7 +63,7 @@
       "ID": "ACHV_M01_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "Epsilon Base",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -66,7 +71,7 @@
       "ID": "ACHV_M02_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "The Boneyard",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -162,7 +167,7 @@
       "ID": "ACHV_MP_1V1_TIER_LV_1",
       "SetID": "2l5j4fd",
       "Name": "Multiplayer: 1v1 - Bronze",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -178,7 +183,7 @@
       "ID": "ACHV_MP_3V3_TIER_LV_1",
       "SetID": "2l5j4fd",
       "Name": "Multiplayer: 3v3 - Bronze",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -218,7 +223,7 @@
       "ID": "ACHV_MP_C_ANNIHILATION_COALITION_10",
       "SetID": "2l5j4fd",
       "Name": "Multiplayer: Carrier Annihilation Coalition",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -234,7 +239,7 @@
       "ID": "ACHV_MP_C_ANNIHILATION_GAALSI_10",
       "SetID": "2l5j4fd",
       "Name": "Multiplayer: Carrier Annihilation Gaalsien",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -250,7 +255,7 @@
       "ID": "ACHV_MP_C_ANNIHILATION_KHAANEPH_10",
       "SetID": "a9dj9gi",
       "Name": "Multiplayer: Carrier Annihilation Khaaneph",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
       "UsersEstimate": 0
     },
@@ -298,7 +303,7 @@
       "ID": "ACHV_MP_RETRIEVAL_COUNT_COALITION_10",
       "SetID": "2l5j4fd",
       "Name": "Multiplayer: Artifact Hunter 50 Coalition",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -410,7 +415,7 @@
       "ID": "ACHV_TUT_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "Campaign Tutorial",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
       "UsersEstimate": 1
     }
@@ -419,18 +424,18 @@
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 12,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
-  "LastChanged_Achievements": "2023-08-07T16:02:44.8328492+00:00",
-  "LastUpdate_Ratings": "2023-08-07T15:57:13.2624984+00:00",
-  "LastUpdate_Achievements": "2023-08-07T16:02:44.8328933+00:00"
+  "LastChanged_Achievements": "2023-08-07T17:03:32.3914444+00:00",
+  "LastUpdate_Ratings": "2023-08-07T16:57:39.4031291+00:00",
+  "LastUpdate_Achievements": "2023-08-07T17:03:32.3915233+00:00"
 }

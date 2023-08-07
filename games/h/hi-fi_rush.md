@@ -24,22 +24,22 @@ Rating: 4.87 (Ranked 24)
 | I look cool. But I can look COOLER. | 4.00% | ~151 |
 | Does that say weakpoint? | 4.00% | ~151 |
 | NOW we got a kickass hideout! | 4.00% | ~92 |
-| Headliner | 3.00% | ~113 |
-| Time to pay up! | 3.00% | ~113 |
-| Who's the boss now? | 3.00% | ~113 |
-| I have to read these things? | 3.00% | ~113 |
-| You must like calling me in, Chai | 3.00% | ~113 |
-| Out in a puff of smoke | 3.00% | ~113 |
-| Perfecter Parry-er! | 3.00% | ~113 |
+| Headliner | 3.00% | ~114 |
+| Time to pay up! | 3.00% | ~114 |
+| Who's the boss now? | 3.00% | ~114 |
+| I have to read these things? | 3.00% | ~114 |
+| You must like calling me in, Chai | 3.00% | ~114 |
+| Out in a puff of smoke | 3.00% | ~114 |
+| Perfecter Parry-er! | 3.00% | ~114 |
 | Well that was a rush! | 2.00% | ~76 |
 | Beat-hit mania | 2.00% | ~76 |
 | That's a lot of junk metal… | 2.00% | ~76 |
 | There's such a thing as TOO helpful | 2.00% | ~76 |
 | Chip-tuned | 1.00% | ~38 |
 | Wanna hear my playlist? | 1.00% | ~38 |
+| I told you I'd be fine, Peppermint! | 1.00% | ~38 |
 | Check out my moves! | 1.00% | ~38 |
 | Call me Turbo Chai | 1.00% | ~23 |
-| I told you I'd be fine, Peppermint! | 0.90% | ~34 |
 | I think I found your calling, Macaron | 0.80% | ~30 |
 | I think I deserve some praise, here! | 0.70% | ~26 |
 | We're Jammin' | 0.70% | ~26 |
@@ -77,8 +77,8 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,782 (Ranked 147)  
-Completed: 7 (0.19%) (Ranked 180)  
+Progressed: 3,784 (Ranked 147)  
+Completed: 7 (0.18%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -184,7 +184,7 @@ Completed: 7 (0.19%) (Ranked 180)
 | 2023-08-04 | 3,731 | 6 |
 | 2023-08-05 | 3,750 | 6 |
 | 2023-08-06 | 3,771 | 7 |
-| 2023-08-07 | 3,782 | 7 |
+| 2023-08-07 | 3,784 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

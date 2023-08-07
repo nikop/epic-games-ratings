@@ -7,7 +7,7 @@
 | Such a strange dream… | 87.00% | ~204 |
 | Good Person Chip | 85.00% | ~199 |
 | Your first fight | 85.00% | ~199 |
-| First winning | 83.00% | ~194 |
+| First winning | 84.00% | ~197 |
 | Your first job | 83.00% | ~194 |
 | Old movies enjoyer | 79.00% | ~185 |
 | Fitness professional | 76.00% | ~178 |
@@ -54,8 +54,8 @@
 | Seashell hunter | 34.00% | ~80 |
 | Gang wrangler | 32.00% | ~75 |
 | Problems of cyborgs | 31.00% | ~73 |
+| The last bell ring | 31.00% | ~73 |
 | Undercover robot | 31.00% | ~73 |
-| The last bell ring | 30.00% | ~70 |
 | Another world | 29.00% | ~68 |
 | The lonesome road | 29.00% | ~68 |
 | Keep nature safe | 29.00% | ~68 |

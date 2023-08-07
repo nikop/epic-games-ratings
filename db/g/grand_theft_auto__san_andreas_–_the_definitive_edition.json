@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -664,9 +664,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11883,
+  "EOS_Progressed": 11884,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -8579,6 +8579,11 @@
       "Time": "2023-08-07T14:01:03.6180486+00:00",
       "NumProgressed": 11883,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-08-07T17:03:13.9736057+00:00",
+      "NumProgressed": 11884,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 35,
@@ -8590,7 +8595,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9625
+      "UsersEstimate": 9626
     },
     {
       "ID": "ACH02",
@@ -8654,7 +8659,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACH10",
@@ -8670,7 +8675,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "ACH12",
@@ -8718,7 +8723,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACH18",
@@ -8814,7 +8819,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "ACH30",
@@ -8869,7 +8874,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11883,
+      "Progressed": 11884,
       "Completed": 35
     }
   ],
@@ -8877,8 +8882,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-07T00:03:00.7892923+00:00",
-  "LastChanged_Achievements": "2023-08-07T16:02:28.9483025+00:00",
+  "LastChanged_Achievements": "2023-08-07T17:03:13.9736052+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:17.9546727+00:00",
-  "LastUpdate_Ratings": "2023-08-07T16:02:08.3115314+00:00",
-  "LastUpdate_Achievements": "2023-08-07T16:02:28.9483811+00:00"
+  "LastUpdate_Ratings": "2023-08-07T17:02:31.5669867+00:00",
+  "LastUpdate_Achievements": "2023-08-07T17:03:13.9737394+00:00"
 }

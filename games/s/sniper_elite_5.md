@@ -24,18 +24,18 @@ Rating: 4.44 (Ranked 644)
 | Gunslinger | 3.00% | ~103 |
 | Der Geist | 3.00% | ~103 |
 | Brains of the Operation | 3.00% | ~103 |
-| Opposing Force | 2.00% | ~68 |
-| Enemy at the Gates | 2.00% | ~68 |
-| Fields of Glory | 2.00% | ~68 |
-| Just a Flesh Wound | 2.00% | ~68 |
-| Skirmisher | 2.00% | ~68 |
-| Set Europe Ablaze | 2.00% | ~68 |
-| Precision Is Key | 2.00% | ~68 |
-| My Little Friend | 2.00% | ~68 |
-| Explosive Efficiency | 2.00% | ~68 |
-| Die Nussknacker Sweet! | 2.00% | ~68 |
-| Close Quarters | 2.00% | ~68 |
-| Snake in the Grass | 2.00% | ~68 |
+| Opposing Force | 2.00% | ~69 |
+| Enemy at the Gates | 2.00% | ~69 |
+| Fields of Glory | 2.00% | ~69 |
+| Just a Flesh Wound | 2.00% | ~69 |
+| Skirmisher | 2.00% | ~69 |
+| Set Europe Ablaze | 2.00% | ~69 |
+| Precision Is Key | 2.00% | ~69 |
+| My Little Friend | 2.00% | ~69 |
+| Explosive Efficiency | 2.00% | ~69 |
+| Die Nussknacker Sweet! | 2.00% | ~69 |
+| Close Quarters | 2.00% | ~69 |
+| Snake in the Grass | 2.00% | ~69 |
 | The Long Game | 1.00% | ~34 |
 | Rigged to Blow | 1.00% | ~34 |
 | Tinkerer | 1.00% | ~34 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 644)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,424 (Ranked 150)  
+Progressed: 3,426 (Ranked 150)  
 Completed: 9 (0.26%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 9 (0.26%) (Ranked 166)
 | 2023-08-04 | 3,405 | 9 |
 | 2023-08-05 | 3,412 | 9 |
 | 2023-08-06 | 3,419 | 9 |
-| 2023-08-07 | 3,424 | 9 |
+| 2023-08-07 | 3,426 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

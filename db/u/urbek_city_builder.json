@@ -1214,9 +1214,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 164
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -1527,8 +1527,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-08-07T16:03:22.8677661+00:00",
+  "LastChanged_Achievements": "2023-08-07T17:04:14.643101+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:47.9561549+00:00",
-  "LastUpdate_Ratings": "2023-08-07T16:00:16.0969234+00:00",
-  "LastUpdate_Achievements": "2023-08-07T16:03:22.8678721+00:00"
+  "LastUpdate_Ratings": "2023-08-07T17:00:51.0772145+00:00",
+  "LastUpdate_Achievements": "2023-08-07T17:04:14.6432456+00:00"
 }

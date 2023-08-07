@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -2000,9 +2000,9 @@
       "ID": "ACHIEVEMENTS_22",
       "SetID": "d4o538a",
       "Name": "The Capitalist",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 675
+      "UsersEstimate": 691
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -2145,8 +2145,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-08-05T21:57:06.4008826+00:00",
-  "LastChanged_Achievements": "2023-08-07T16:04:17.509431+00:00",
+  "LastChanged_Achievements": "2023-08-07T17:05:03.8359842+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:21.7121731+00:00",
-  "LastUpdate_Ratings": "2023-08-07T15:57:16.3522178+00:00",
-  "LastUpdate_Achievements": "2023-08-07T16:04:17.5094732+00:00"
+  "LastUpdate_Ratings": "2023-08-07T16:57:42.5891267+00:00",
+  "LastUpdate_Achievements": "2023-08-07T17:05:03.836046+00:00"
 }

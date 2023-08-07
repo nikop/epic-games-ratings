@@ -5494,18 +5494,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 10893,
       "NumberOfAwardsMax": 6343
+    },
+    {
+      "Time": "2023-08-07T17:00:59.6489312+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10901,
+      "NumberOfAwardsMax": 6351
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10893,
-  "NumberOfAwardsMax": 6343,
+  "NumberOfAwards": 10901,
+  "NumberOfAwardsMax": 6351,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6343
+      "Count": 6351
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5574,9 +5580,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 712261,
+  "EOS_Progressed": 712263,
   "EOS_Completed": 12847,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -15934,6 +15940,11 @@
       "Time": "2023-08-07T15:02:20.6525324+00:00",
       "NumProgressed": 712261,
       "NumCompleted": 12847
+    },
+    {
+      "Time": "2023-08-07T17:03:28.6237697+00:00",
+      "NumProgressed": 712263,
+      "NumCompleted": 12847
     }
   ],
   "TotalAchievements": 50,
@@ -16281,7 +16292,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -16313,7 +16324,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -16344,21 +16355,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21562,
+      "Progressed": 21564,
       "Completed": 10492
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712261,
+      "Progressed": 712263,
       "Completed": 12847
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-08-06T20:59:37.3399176+00:00",
-  "LastChanged_Achievements": "2023-08-07T16:02:41.6540363+00:00",
+  "LastChanged": "2023-08-07T17:00:59.6489311+00:00",
+  "LastChanged_Achievements": "2023-08-07T17:03:28.6237692+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:56.2454888+00:00",
-  "LastUpdate_Ratings": "2023-08-07T16:00:25.9893259+00:00",
-  "LastUpdate_Achievements": "2023-08-07T16:02:41.6541631+00:00"
+  "LastUpdate_Ratings": "2023-08-07T17:00:59.6489316+00:00",
+  "LastUpdate_Achievements": "2023-08-07T17:03:28.623897+00:00"
 }

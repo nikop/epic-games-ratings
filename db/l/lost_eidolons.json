@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -1302,9 +1302,9 @@
       "ID": "02",
       "SetID": "73ikgfc",
       "Name": "Way of the Warlord",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 43
     },
     {
       "ID": "03",
@@ -1487,8 +1487,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-08-07T16:03:48.4411547+00:00",
+  "LastChanged_Achievements": "2023-08-07T17:04:42.975657+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:34.0485205+00:00",
-  "LastUpdate_Ratings": "2023-08-07T16:01:17.2744018+00:00",
-  "LastUpdate_Achievements": "2023-08-07T16:03:48.4411784+00:00"
+  "LastUpdate_Ratings": "2023-08-07T17:01:49.3915717+00:00",
+  "LastUpdate_Achievements": "2023-08-07T17:04:42.9756796+00:00"
 }

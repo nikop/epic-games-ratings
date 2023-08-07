@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 56,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -6601,18 +6601,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 18967,
       "NumberOfAwardsMax": 7317
+    },
+    {
+      "Time": "2023-08-07T17:02:15.3427539+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 18970,
+      "NumberOfAwardsMax": 7318
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18967,
-  "NumberOfAwardsMax": 7317,
+  "NumberOfAwards": 18970,
+  "NumberOfAwardsMax": 7318,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7317
+      "Count": 7318
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6630,7 +6636,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1341
+      "Count": 1343
     },
     {
       "Text": "This game has Challenging Combat",
@@ -6681,9 +6687,9 @@
       "Count": 907
     }
   ],
-  "EOS_Progressed": 113848,
+  "EOS_Progressed": 113849,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 915,
+  "EOS_NewPlayers": 908,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17131,6 +17137,11 @@
       "Time": "2023-08-07T16:03:28.028253+00:00",
       "NumProgressed": 113848,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-07T17:04:20.3307566+00:00",
+      "NumProgressed": 113849,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -17190,7 +17201,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 76278
+      "UsersEstimate": 76279
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -17238,7 +17249,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 43262
+      "UsersEstimate": 43263
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -17286,7 +17297,7 @@
       "Name": "Banishment",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 34154
+      "UsersEstimate": 34155
     },
     {
       "ID": "combat_kill_death",
@@ -17326,7 +17337,7 @@
       "Name": "Now Stay Dead",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 40985
+      "UsersEstimate": 40986
     },
     {
       "ID": "combat_kill_gentry",
@@ -17454,7 +17465,7 @@
       "Name": "Harvest Festival",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 40985
+      "UsersEstimate": 40986
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -17470,7 +17481,7 @@
       "Name": "Ramble On",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 54647
+      "UsersEstimate": 54648
     },
     {
       "ID": "driving_distance_hard",
@@ -17510,7 +17521,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 78555
+      "UsersEstimate": 78556
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -17534,7 +17545,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 105879
+      "UsersEstimate": 105880
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -17598,7 +17609,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 76278
+      "UsersEstimate": 76279
     },
     {
       "ID": "run_victory_act02",
@@ -17606,7 +17617,7 @@
       "Name": "Hot Air",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 40985
+      "UsersEstimate": 40986
     },
     {
       "ID": "run_victory_act03",
@@ -17661,15 +17672,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 113848,
+      "Progressed": 113849,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-08-07T16:01:51.026607+00:00",
-  "LastChanged_Achievements": "2023-08-07T16:03:28.028252+00:00",
+  "LastChanged": "2023-08-07T17:02:15.3427538+00:00",
+  "LastChanged_Achievements": "2023-08-07T17:04:20.3307559+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:59.9432411+00:00",
-  "LastUpdate_Ratings": "2023-08-07T16:01:51.0266078+00:00",
-  "LastUpdate_Achievements": "2023-08-07T16:03:28.0283974+00:00"
+  "LastUpdate_Ratings": "2023-08-07T17:02:15.3427544+00:00",
+  "LastUpdate_Achievements": "2023-08-07T17:04:20.3309513+00:00"
 }

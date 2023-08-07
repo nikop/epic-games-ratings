@@ -5626,9 +5626,9 @@
       "Count": 3345
     }
   ],
-  "EOS_Progressed": 219634,
+  "EOS_Progressed": 219655,
   "EOS_Completed": 2161,
-  "EOS_NewPlayers": 2228,
+  "EOS_NewPlayers": 2238,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17406,6 +17406,11 @@
       "Time": "2023-08-07T16:02:38.4855735+00:00",
       "NumProgressed": 219634,
       "NumCompleted": 2161
+    },
+    {
+      "Time": "2023-08-07T17:03:25.3850053+00:00",
+      "NumProgressed": 219655,
+      "NumCompleted": 2161
     }
   ],
   "TotalAchievements": 512,
@@ -17417,7 +17422,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8785
+      "UsersEstimate": 8786
     },
     {
       "ID": "objective_completed_10",
@@ -17433,7 +17438,7 @@
       "Name": "Pros and CONs",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "objective_completed_101",
@@ -17521,7 +17526,7 @@
       "Name": "The Witchlight Carnival",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "objective_completed_1056",
@@ -17721,7 +17726,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2196
+      "UsersEstimate": 2197
     },
     {
       "ID": "objective_completed_1090",
@@ -17785,7 +17790,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6589
+      "UsersEstimate": 6590
     },
     {
       "ID": "objective_completed_110",
@@ -17793,7 +17798,7 @@
       "Name": "Wet Feet",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "objective_completed_1100",
@@ -17951,9 +17956,9 @@
       "ID": "objective_completed_1137",
       "SetID": "415jc5c",
       "Name": "The Roots of Loomlurch",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_1138",
@@ -17977,7 +17982,7 @@
       "Name": "Supply Run",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2196
+      "UsersEstimate": 2197
     },
     {
       "ID": "objective_completed_1142",
@@ -18065,7 +18070,7 @@
       "Name": "The Evacuation of Waterdeep",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "objective_completed_1159",
@@ -18153,7 +18158,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "objective_completed_1174",
@@ -18177,7 +18182,7 @@
       "Name": "Heatwave",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "objective_completed_1179",
@@ -18201,7 +18206,7 @@
       "Name": "The Dread Domain of Tovag",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "objective_completed_1184",
@@ -18281,7 +18286,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "objective_completed_1203",
@@ -18393,7 +18398,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "objective_completed_130",
@@ -18537,7 +18542,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "objective_completed_150",
@@ -18609,7 +18614,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "objective_completed_165",
@@ -18641,7 +18646,7 @@
       "Name": "Building Trust",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "objective_completed_17",
@@ -18745,7 +18750,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "objective_completed_20",
@@ -19703,9 +19708,9 @@
       "ID": "objective_completed_56",
       "SetID": "cc37lbc",
       "Name": "Crowded Streets",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 439
+      "UsersEstimate": 659
     },
     {
       "ID": "objective_completed_560",
@@ -20561,7 +20566,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "objective_completed_70",
@@ -21377,7 +21382,7 @@
       "Name": "The Champion\u0027s Guide to Wildspace",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "objective_completed_1220",
@@ -21497,7 +21502,7 @@
       "Name": "Krux\u0027s Speed Run",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "objective_completed_1392",
@@ -21512,21 +21517,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185908,
+      "Progressed": 185929,
       "Completed": 3065
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219634,
+      "Progressed": 219655,
       "Completed": 2161
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-07T11:59:17.6887797+00:00",
-  "LastChanged_Achievements": "2023-08-07T16:02:38.4855725+00:00",
+  "LastChanged_Achievements": "2023-08-07T17:03:25.3850048+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-07T15:59:22.1734244+00:00",
-  "LastUpdate_Achievements": "2023-08-07T16:02:38.4890427+00:00"
+  "LastUpdate_Ratings": "2023-08-07T16:59:57.8352054+00:00",
+  "LastUpdate_Achievements": "2023-08-07T17:03:25.3880027+00:00"
 }

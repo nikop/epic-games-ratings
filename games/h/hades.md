@@ -6,57 +6,57 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~623,616 |
-| Escaped Asphodel | 80.00% | ~560,554 |
-| Arms Collector | 71.00% | ~497,491 |
-| Friends in High Places | 68.00% | ~476,471 |
-| Escaped Elysium | 66.00% | ~462,457 |
-| Chthonic Colleagues | 63.00% | ~441,436 |
-| Is There No Escape? | 52.00% | ~364,360 |
-| Death Dealer | 45.00% | ~315,311 |
-| Skelly Slayer | 42.00% | ~294,291 |
-| Well Stocked | 40.00% | ~280,277 |
-| Back to Work | 38.00% | ~266,263 |
-| Day-or-Night Trader | 37.00% | ~259,256 |
-| Blessed by the Gods | 37.00% | ~259,256 |
-| Urge to Sing | 36.00% | ~252,249 |
-| Blood Bound | 35.00% | ~245,242 |
-| Three-Headed Boy | 32.00% | ~224,221 |
-| River Denizens | 28.00% | ~196,194 |
-| Grown Close | 28.00% | ~196,194 |
-| Home Makeover | 27.00% | ~189,187 |
-| Had to Happen | 25.00% | ~175,173 |
-| The Family Secret | 25.00% | ~175,173 |
-| Tools of the Architect | 23.00% | ~161,159 |
-| Master of Arms | 23.00% | ~161,159 |
-| To Charon's Credit | 22.00% | ~154,152 |
-| Rare Collectible | 22.00% | ~154,152 |
-| Weapon of Fate | 21.00% | ~147,145 |
-| Something From Everyone | 19.00% | ~133,131 |
+| Escaped Tartarus | 89.00% | ~623,619 |
+| Escaped Asphodel | 80.00% | ~560,557 |
+| Arms Collector | 71.00% | ~497,494 |
+| Friends in High Places | 68.00% | ~476,473 |
+| Escaped Elysium | 66.00% | ~462,459 |
+| Chthonic Colleagues | 63.00% | ~441,438 |
+| Is There No Escape? | 52.00% | ~364,362 |
+| Death Dealer | 45.00% | ~315,313 |
+| Skelly Slayer | 42.00% | ~294,292 |
+| Well Stocked | 40.00% | ~280,278 |
+| Back to Work | 38.00% | ~266,264 |
+| Day-or-Night Trader | 37.00% | ~259,258 |
+| Blessed by the Gods | 37.00% | ~259,258 |
+| Urge to Sing | 36.00% | ~252,251 |
+| Blood Bound | 35.00% | ~245,244 |
+| Three-Headed Boy | 32.00% | ~224,223 |
+| River Denizens | 28.00% | ~196,195 |
+| Grown Close | 28.00% | ~196,195 |
+| Home Makeover | 27.00% | ~189,188 |
+| Had to Happen | 25.00% | ~175,174 |
+| The Family Secret | 25.00% | ~175,174 |
+| Tools of the Architect | 23.00% | ~161,160 |
+| Master of Arms | 23.00% | ~161,160 |
+| To Charon's Credit | 22.00% | ~154,153 |
+| Rare Collectible | 22.00% | ~154,153 |
+| Weapon of Fate | 21.00% | ~147,146 |
+| Something From Everyone | 19.00% | ~133,132 |
 | Hold the Onions | 18.00% | ~126,125 |
 | Well Versed | 17.00% | ~119,118 |
 | War-God's Bloodlust | 15.00% | ~105,104 |
 | Musician and Muse | 14.00% | ~98,097 |
 | The Useless Trinket | 13.00% | ~91,090 |
 | Champion of Elysium | 13.00% | ~91,090 |
-| Slashed Benefits | 12.00% | ~84,083 |
-| Haste of Hermes | 11.00% | ~77,076 |
-| Bad Call | 10.00% | ~70,069 |
-| Nyx's Mirror | 10.00% | ~70,069 |
-| Night and Darkness | 10.00% | ~70,069 |
-| End to Torment | 10.00% | ~70,069 |
-| Dark Reflections | 9.00% | ~63,062 |
-| Thanks, But No Thanks | 9.00% | ~63,062 |
-| Infernal Arms | 9.00% | ~63,062 |
-| Divided by Death | 8.00% | ~56,055 |
-| Harsh Conditions | 7.00% | ~49,048 |
-| One for the Ages | 7.00% | ~49,048 |
+| Slashed Benefits | 12.00% | ~84,084 |
+| Haste of Hermes | 11.00% | ~77,077 |
+| Bad Call | 10.00% | ~70,070 |
+| Nyx's Mirror | 10.00% | ~70,070 |
+| Night and Darkness | 10.00% | ~70,070 |
+| End to Torment | 10.00% | ~70,070 |
+| Dark Reflections | 9.00% | ~63,063 |
+| Thanks, But No Thanks | 9.00% | ~63,063 |
+| Infernal Arms | 9.00% | ~63,063 |
+| Divided by Death | 8.00% | ~56,056 |
+| Harsh Conditions | 7.00% | ~49,049 |
+| One for the Ages | 7.00% | ~49,049 |
 | Complete Set | 6.00% | ~42,042 |
 | Skelly's Last Lamentations | 6.00% | ~42,042 |
 | Thorn of Thanatos | 4.00% | ~28,028 |
 | Friends Forever | 4.00% | ~28,028 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 700,692 (Ranked 21)  
+Progressed: 700,696 (Ranked 21)  
 Completed: 6,281 (0.90%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 6,281 (0.90%) (Ranked 116)
 | 2023-08-04 | 700,422 | 6,271 |
 | 2023-08-05 | 700,519 | 6,273 |
 | 2023-08-06 | 700,641 | 6,279 |
-| 2023-08-07 | 700,692 | 6,281 |
+| 2023-08-07 | 700,696 | 6,281 |
 ## Awards
 Max (Character Customization): 3,202  (Ranked 90)  
 Sum: 7,758 (Ranked 101)  

@@ -4,7 +4,7 @@
   "ProductSlug": "battlefield-v-definitive-edition",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-06-03T12:00:00+00:00",
@@ -33,8 +33,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-08-07T16:07:43.6294532+00:00",
+  "LastChanged_Achievements": "2023-08-07T17:08:36.990257+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:23.6850836+00:00",
-  "LastUpdate_Ratings": "2023-08-07T16:02:14.7561865+00:00",
-  "LastUpdate_Achievements": "2023-08-07T16:07:43.6294579+00:00"
+  "LastUpdate_Ratings": "2023-08-07T17:02:38.3151748+00:00",
+  "LastUpdate_Achievements": "2023-08-07T17:08:36.9902609+00:00"
 }

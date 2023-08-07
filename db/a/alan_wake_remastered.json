@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60459,
+  "EOS_Progressed": 60461,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 803,
+  "EOS_NewPlayers": 797,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10522,6 +10522,11 @@
       "Time": "2023-08-07T16:05:24.9275915+00:00",
       "NumProgressed": 60459,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-07T17:06:09.6302613+00:00",
+      "NumProgressed": 60461,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10533,7 +10538,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22370
+      "UsersEstimate": 22371
     },
     {
       "ID": "02",
@@ -10565,7 +10570,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 11487
+      "UsersEstimate": 11488
     },
     {
       "ID": "06",
@@ -10573,7 +10578,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9673
+      "UsersEstimate": 9674
     },
     {
       "ID": "07",
@@ -10581,7 +10586,7 @@
       "Name": "Heavy Metal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6651
     },
     {
       "ID": "08",
@@ -10621,7 +10626,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6651
     },
     {
       "ID": "13",
@@ -10757,7 +10762,7 @@
       "Name": "Sound and Fury",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8464
+      "UsersEstimate": 8465
     },
     {
       "ID": "30",
@@ -10869,7 +10874,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9673
+      "UsersEstimate": 9674
     },
     {
       "ID": "44",
@@ -10893,7 +10898,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 8464
+      "UsersEstimate": 8465
     },
     {
       "ID": "47",
@@ -10957,7 +10962,7 @@
       "Name": "Words Will Never Harm You",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "55",
@@ -11068,21 +11073,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60459,
+      "Progressed": 60461,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 23927,
+      "Progressed": 23929,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-07T16:05:24.9275909+00:00",
+  "LastChanged_Achievements": "2023-08-07T17:06:09.6302607+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-07T15:58:50.0641547+00:00",
-  "LastUpdate_Achievements": "2023-08-07T16:05:24.927741+00:00"
+  "LastUpdate_Ratings": "2023-08-07T16:59:23.2459851+00:00",
+  "LastUpdate_Achievements": "2023-08-07T17:06:09.6304477+00:00"
 }

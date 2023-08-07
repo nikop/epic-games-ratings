@@ -5,14 +5,14 @@ Rating: 4.55 (Ranked 487)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 25.00% | ~759 |
+| Wakey Wakey | 25.00% | ~760 |
 | Sputnik 2049 | 22.00% | ~668 |
 | Infinite Growth... | 21.00% | ~638 |
-| Without Breaking Some Eggs... | 20.00% | ~607 |
+| Without Breaking Some Eggs... | 20.00% | ~608 |
 | Space Society | 14.00% | ~425 |
 | A Thousand Strong | 14.00% | ~425 |
 | Ready for a New World | 14.00% | ~425 |
-| Permanent Redesigns | 12.00% | ~364 |
+| Permanent Redesigns | 12.00% | ~365 |
 | Fully Recycled | 11.00% | ~334 |
 | Ain't Nobody Got Time for That | 11.00% | ~334 |
 | The Ship of Theseus | 11.00% | ~334 |
@@ -22,18 +22,18 @@ Rating: 4.55 (Ranked 487)
 | Exceeding Capacity | 9.00% | ~273 |
 | Breaking Protocol | 9.00% | ~273 |
 | Man's Best Friend | 6.00% | ~182 |
-| Sightseeing | 6.00% | ~182 |
 | Power Outage | 6.00% | ~182 |
 | Convenient Transport | 6.00% | ~182 |
 | Please Make it Stop! | 6.00% | ~182 |
+| Sightseeing | 5.00% | ~152 |
 | Access Granted | 5.00% | ~152 |
 | Necessary Enhancement | 5.00% | ~152 |
 | From the Past | 5.00% | ~152 |
-| Oats | 4.00% | ~121 |
-| What They Hide From Us | 4.00% | ~121 |
-| BRAWL! | 4.00% | ~121 |
-| All in Good Health | 4.00% | ~121 |
-| What the Ruins Teach Us | 4.00% | ~121 |
+| Oats | 4.00% | ~122 |
+| What They Hide From Us | 4.00% | ~122 |
+| BRAWL! | 4.00% | ~122 |
+| All in Good Health | 4.00% | ~122 |
+| What the Ruins Teach Us | 4.00% | ~122 |
 | ...  in a finite world | 3.00% | ~91 |
 | Sustainable Energy | 3.00% | ~91 |
 | Pedal to the Metal | 3.00% | ~91 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 487)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,036 (Ranked 157)  
+Progressed: 3,038 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-04 | 3,016 | 0 |
 | 2023-08-05 | 3,027 | 0 |
 | 2023-08-06 | 3,034 | 0 |
-| 2023-08-07 | 3,036 | 0 |
+| 2023-08-07 | 3,038 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

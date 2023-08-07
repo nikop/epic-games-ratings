@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2892,7 +2892,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71508,
+  "EOS_Progressed": 71510,
   "EOS_Completed": 37,
   "EOS_NewPlayers": 701,
   "EOS_NewCompleters": 1,
@@ -14387,6 +14387,11 @@
       "Time": "2023-08-07T16:06:31.1664266+00:00",
       "NumProgressed": 71508,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-08-07T17:07:25.01029+00:00",
+      "NumProgressed": 71510,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 37,
@@ -14398,7 +14403,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 35754
+      "UsersEstimate": 35755
     },
     {
       "ID": "ACH_0011",
@@ -14406,7 +14411,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20737
+      "UsersEstimate": 20738
     },
     {
       "ID": "ACH_0012",
@@ -14438,7 +14443,7 @@
       "Name": "Legend Looter",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3575
+      "UsersEstimate": 3576
     },
     {
       "ID": "ACH_0016",
@@ -14470,7 +14475,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3575
+      "UsersEstimate": 3576
     },
     {
       "ID": "ACH_0040",
@@ -14542,7 +14547,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46480
+      "UsersEstimate": 46482
     },
     {
       "ID": "ACH_0210",
@@ -14550,7 +14555,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 52916
+      "UsersEstimate": 52917
     },
     {
       "ID": "ACH_0211",
@@ -14566,7 +14571,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 33609
+      "UsersEstimate": 33610
     },
     {
       "ID": "ACH_0300",
@@ -14662,7 +14667,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 11441
+      "UsersEstimate": 11442
     },
     {
       "ID": "ACH_0452",
@@ -14670,7 +14675,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12156
+      "UsersEstimate": 12157
     },
     {
       "ID": "ACH_0460",
@@ -14693,7 +14698,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71508,
+      "Progressed": 71510,
       "Completed": 37
     }
   ],
@@ -14701,8 +14706,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-07T12:01:24.111242+00:00",
-  "LastChanged_Achievements": "2023-08-07T16:06:31.1664257+00:00",
+  "LastChanged_Achievements": "2023-08-07T17:07:25.0102896+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:57.6753466+00:00",
-  "LastUpdate_Ratings": "2023-08-07T16:01:48.371328+00:00",
-  "LastUpdate_Achievements": "2023-08-07T16:06:31.1665446+00:00"
+  "LastUpdate_Ratings": "2023-08-07T17:02:12.8957562+00:00",
+  "LastUpdate_Achievements": "2023-08-07T17:07:25.0104164+00:00"
 }

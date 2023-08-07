@@ -7,9 +7,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 0.80% | ~1,073 |
+| Titan's First Steps | 0.80% | ~1,073 |
 | Basic in Bulk | 0.70% | ~939 |
 | Tinkle of Coins | 0.70% | ~939 |
-| Titan's First Steps | 0.70% | ~939 |
 | Disintermediation | 0.50% | ~670 |
 | It's Free Real Estate | 0.50% | ~670 |
 | Capitalism Ho! | 0.50% | ~670 |
@@ -34,6 +34,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Vanity, Verily | 0.20% | ~268 |
 | Big Game Hunting | 0.20% | ~268 |
 | Fated Encounters | 0.20% | ~268 |
+| For the Hoard! | 0.20% | ~268 |
 | Blank Page Syndrome | 0.20% | ~268 |
 | Master of Transmutation | 0.20% | ~268 |
 | Power of Love | 0.20% | ~268 |
@@ -50,6 +51,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Seasoned Journeyman | 0.20% | ~268 |
 | Did we pack lunch? | 0.20% | ~268 |
 | Magical Harmony | 0.20% | ~268 |
+| Special Ingredient | 0.20% | ~268 |
 | Arcane Industries | 0.20% | ~268 |
 | A Notch Above the Rest | 0.10% | ~134 |
 | Cream of the Crop | 0.10% | ~134 |
@@ -61,7 +63,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | The King's Caprice | 0.10% | ~134 |
 | Thirst for Knowledge | 0.10% | ~134 |
 | Bane of Legends | 0.10% | ~134 |
-| For the Hoard! | 0.10% | ~134 |
 | Booty by the Boatload | 0.10% | ~134 |
 | Scrapbooker | 0.10% | ~134 |
 | Archivist | 0.10% | ~134 |
@@ -113,13 +114,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Shadow | 0.10% | ~134 |
 | Master Recycler | 0.10% | ~134 |
 | All Accounted For | 0.10% | ~134 |
-| Special Ingredient | 0.10% | ~134 |
 | Exotic Commodities | 0.10% | ~134 |
 | Economy of Scarce | 0.10% | ~134 |
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,080 (Ranked 63)  
+Progressed: 134,085 (Ranked 63)  
 Completed: 130 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 130 (0.10%) (Ranked 199)
 | 2023-08-04 | 133,890 | 128 |
 | 2023-08-05 | 133,956 | 128 |
 | 2023-08-06 | 134,025 | 129 |
-| 2023-08-07 | 134,080 | 130 |
+| 2023-08-07 | 134,085 | 130 |
 ## Awards
 Max (Great for Beginners): 4,691  (Ranked 71)  
 Sum: 27,066 (Ranked 46)  

@@ -9,36 +9,36 @@
 | Capitalism | 20.00% | ~27 |
 | Indebted | 11.00% | ~15 |
 | Desert Rat | 11.00% | ~15 |
+| There's something in those trees | 9.00% | ~12 |
 | Great Producer | 9.00% | ~12 |
-| There's something in those trees | 8.00% | ~11 |
 | Green Energy | 8.00% | ~11 |
+| Desert Power | 7.00% | ~9 |
 | Good payer | 7.00% | ~9 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~8 |
-| Desert Power | 6.00% | ~8 |
+| Fuel Tycoon | 6.00% | ~8 |
 | Ammo Tycoon | 6.00% | ~8 |
 | Perfect Soldier | 5.00% | ~7 |
 | Health Care | 5.00% | ~7 |
 | Pathfinder | 5.00% | ~7 |
 | Self-sufficient | 5.00% | ~7 |
-| Fuel Tycoon | 5.00% | ~7 |
+| Food Tycoon | 5.00% | ~7 |
 | Medicine Tycoon | 5.00% | ~7 |
+| Supersoldier | 4.00% | ~5 |
 | Outdoor Decorator | 4.00% | ~5 |
 | Healing | 4.00% | ~5 |
-| Food Tycoon | 4.00% | ~5 |
-| Supersoldier | 3.00% | ~4 |
+| Overpopulation | 3.00% | ~4 |
 | Property Bro | 3.00% | ~4 |
 | Human Resources | 3.00% | ~4 |
 | Tear Down the Wall! | 2.00% | ~3 |
 | Vive le Résistance | 2.00% | ~3 |
 | No News is Good News | 2.00% | ~3 |
 | Snowman | 2.00% | ~3 |
-| Overpopulation | 2.00% | ~3 |
+| Training Camp | 2.00% | ~3 |
 | Reconquest | 2.00% | ~3 |
 | Winter Soldier | 2.00% | ~3 |
 | Researcher | 2.00% | ~3 |
 | Economist | 0.80% | ~1 |
 | Crisis Committee | 0.80% | ~1 |
-| Training Camp | 0.80% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
 | Counter-espionage | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |

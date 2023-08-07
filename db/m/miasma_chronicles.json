@@ -3039,9 +3039,9 @@
       "ID": "INFILTRATOR",
       "SetID": "9a4jnji",
       "Name": "Infiltrator",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 448
     },
     {
       "ID": "LUMBERJACK",
@@ -3200,8 +3200,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-05T08:58:38.9168515+00:00",
-  "LastChanged_Achievements": "2023-08-07T16:05:29.2947511+00:00",
+  "LastChanged_Achievements": "2023-08-07T17:06:14.5418982+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:04.1899309+00:00",
-  "LastUpdate_Ratings": "2023-08-07T15:59:27.7018475+00:00",
-  "LastUpdate_Achievements": "2023-08-07T16:05:29.2948147+00:00"
+  "LastUpdate_Ratings": "2023-08-07T17:00:04.2442465+00:00",
+  "LastUpdate_Achievements": "2023-08-07T17:06:14.5419611+00:00"
 }
