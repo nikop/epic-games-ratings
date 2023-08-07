@@ -23,7 +23,7 @@
 | 21 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 22 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 10.81% |
 | 23 | [Remains](games/r/remains.md) | 10.64% |
-| 24 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.59% |
+| 24 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.57% |
 | 25 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.53% |
 | 26 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
@@ -55,8 +55,8 @@
 | 53 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.23% |
 | 54 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.00% |
 | 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
-| 56 | [ZZT!](games/z/zzt!.md) | 3.71% |
-| 57 | [Without Escape](games/w/without_escape.md) | 3.70% |
+| 56 | [Without Escape](games/w/without_escape.md) | 3.70% |
+| 56 | [ZZT!](games/z/zzt!.md) | 3.70% |
 | 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.48% |
 | 60 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.45% |

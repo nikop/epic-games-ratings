@@ -250,7 +250,7 @@
 | 242 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,898 | 81 |
 | 242 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,180 | 92 |
 | 242 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 619 | 177 |
-| 242 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 301,502 | 3 |
+| 242 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 301,569 | 3 |
 | 242 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 208,557 | 4 |
 | 242 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 422 | 207 |
 | 242 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 561 | 184 |
@@ -389,7 +389,7 @@
 | 366 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 277 | 243 |
 | 366 | [Supraland](games/s/supraland.md) | 4.61 | 7,664 | 44 |
 | 366 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 509 |
-| 366 | [Warframe](games/w/warframe.md) | 4.61 | 16,355 | 22 |
+| 366 | [Warframe](games/w/warframe.md) | 4.61 | 16,377 | 22 |
 | 391 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 696 | 165 |
 | 391 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,094 | 28 |
 | 391 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,464 | 73 |
@@ -422,7 +422,7 @@
 | 412 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 309 | 233 |
 | 412 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,004 | 144 |
 | 412 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 509 |
-| 412 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 705 | 164 |
+| 412 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 706 | 164 |
 | 412 | [Wall World](games/w/wall_world.md) | 4.59 | 0 | 509 |
 | 425 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 509 |
 | 425 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 59,780 | 11 |
@@ -438,7 +438,7 @@
 | 425 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 125 | 311 |
 | 425 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 213 | 269 |
 | 425 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 509 |
-| 425 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 152 | 294 |
+| 425 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 156 | 294 |
 | 425 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 52 | 396 |
 | 425 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.58 | 31 | 456 |
 | 425 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,273 | 55 |
@@ -447,7 +447,7 @@
 | 425 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 219 | 264 |
 | 425 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,436 | 25 |
 | 447 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 509 |
-| 447 | [Among Us](games/a/among_us.md) | 4.57 | 2,594 | 97 |
+| 447 | [Among Us](games/a/among_us.md) | 4.57 | 2,599 | 97 |
 | 447 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 410 |
 | 447 | [Aztez](games/a/aztez.md) | 4.57 | 0 | 509 |
 | 447 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 469 |
@@ -638,7 +638,7 @@
 | 632 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 792 | 155 |
 | 632 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.45 | 0 | 509 |
 | 632 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,046 | 34 |
-| 632 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 29 | 462 |
+| 632 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 30 | 460 |
 | 632 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 509 |
 | 632 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 53 | 394 |
 | 632 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 116 | 321 |
@@ -768,7 +768,7 @@
 | 764 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 509 |
 | 764 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 509 |
 | 764 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,229 | 66 |
-| 764 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 462 |
+| 764 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 463 |
 | 764 | [Torchlight](games/t/torchlight.md) | 4.33 | 21 | 499 |
 | 764 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 0 | 509 |
 | 772 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 355 | 224 |
@@ -813,7 +813,7 @@
 | 806 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 509 |
 | 812 | [Against All Odds](games/a/against_all_odds.md) | 4.26 | 0 | 509 |
 | 812 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 509 |
-| 812 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 29 | 462 |
+| 812 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 29 | 463 |
 | 812 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 509 |
 | 812 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.26 | 0 | 509 |
 | 812 | [The Fall](games/t/the_fall.md) | 4.26 | 0 | 509 |
@@ -941,7 +941,7 @@
 | 937 | [Patron](games/p/patron.md) | 3.94 | 0 | 509 |
 | 940 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 509 |
 | 940 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.93 | 0 | 509 |
-| 942 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 462 |
+| 942 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 463 |
 | 943 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 26 | 473 |
 | 943 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 331 |
 | 943 | [Warface](games/w/warface.md) | 3.91 | 405 | 213 |

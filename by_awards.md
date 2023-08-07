@@ -2,7 +2,7 @@
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,557,925 | 4.29 | 789 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 495,502 | 4.49 | 576 |
-| 3 | [Genshin Impact](games/g/genshin_impact.md) | 301,502 | 4.68 | 242 |
+| 3 | [Genshin Impact](games/g/genshin_impact.md) | 301,569 | 4.68 | 242 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 208,557 | 4.68 | 242 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 191,764 | 4.19 | 862 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 165,307 | 4.88 | 18 |
@@ -21,7 +21,7 @@
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,163 | 4.57 | 447 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,456 | 4.89 | 12 |
 | 21 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 16,710 | 4.25 | 819 |
-| 22 | [Warframe](games/w/warframe.md) | 16,355 | 4.61 | 366 |
+| 22 | [Warframe](games/w/warframe.md) | 16,377 | 4.61 | 366 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 15,195 | 4.21 | 847 |
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 14,998 | 4.76 | 117 |
 | 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,436 | 4.58 | 425 |
@@ -96,7 +96,7 @@
 | 94 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,009 | 3.98 | 930 |
 | 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,653 | 4.82 | 66 |
 | 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,618 | 4.51 | 542 |
-| 97 | [Among Us](games/a/among_us.md) | 2,594 | 4.57 | 447 |
+| 97 | [Among Us](games/a/among_us.md) | 2,599 | 4.57 | 447 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,547 | 4.61 | 366 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,513 | 4.27 | 806 |
 | 100 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,484 | 4.10 | 901 |
@@ -163,7 +163,7 @@
 | 161 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 740 | 4.79 | 88 |
 | 162 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 715 | 4.87 | 24 |
 | 163 | [Neverwinter](games/n/neverwinter.md) | 711 | 4.29 | 789 |
-| 164 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 705 | 4.59 | 412 |
+| 164 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 706 | 4.59 | 412 |
 | 165 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 696 | 4.60 | 391 |
 | 166 | [The Sims™ 4](games/t/the_sims™_4.md) | 683 | 4.62 | 349 |
 | 167 | [Subnautica](games/s/subnautica.md) | 681 | 4.84 | 49 |
@@ -293,7 +293,7 @@
 | 291 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 162 | 4.58 | 425 |
 | 292 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 159 | 4.79 | 88 |
 | 292 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 159 | 4.66 | 272 |
-| 294 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 152 | 4.58 | 425 |
+| 294 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 156 | 4.58 | 425 |
 | 295 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 151 | 4.55 | 486 |
 | 296 | [Star Stable Online](games/s/star_stable_online.md) | 149 | 4.42 | 666 |
 | 297 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 148 | 4.51 | 542 |
@@ -459,12 +459,12 @@
 | 456 | [Blankos Block Party](games/b/blankos_block_party.md) | 31 | 4.21 | 847 |
 | 456 | [Poker Club](games/p/poker_club.md) | 31 | 3.80 | 954 |
 | 456 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 31 | 4.58 | 425 |
+| 460 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 30 | 4.45 | 632 |
 | 460 | [Northgard](games/n/northgard.md) | 30 | 4.71 | 185 |
 | 460 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 30 | 4.57 | 447 |
-| 462 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.92 | 942 |
-| 462 | [City of Gangsters](games/c/city_of_gangsters.md) | 29 | 4.26 | 812 |
-| 462 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 29 | 4.45 | 632 |
-| 462 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.33 | 764 |
+| 463 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.92 | 942 |
+| 463 | [City of Gangsters](games/c/city_of_gangsters.md) | 29 | 4.26 | 812 |
+| 463 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.33 | 764 |
 | 466 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 28 | 4.81 | 77 |
 | 466 | [Wildermyth](games/w/wildermyth.md) | 28 | 4.77 | 109 |
 | 466 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 28 | 4.52 | 527 |
