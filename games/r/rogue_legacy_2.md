@@ -23,19 +23,19 @@ Number of Ratings: 1,331  (23.09.2022)
 | Good Boy! | 0.40% | ~91 |
 | For Justice | 0.30% | ~68 |
 | For Survival | 0.30% | ~68 |
+| Jack of all Trades | 0.30% | ~68 |
 | For Wrath | 0.20% | ~46 |
+| For Penance | 0.20% | ~46 |
 | For Love | 0.20% | ~46 |
 | For Pride | 0.20% | ~46 |
 | K.O. | 0.20% | ~46 |
 | Just the Beginning | 0.20% | ~46 |
 | Wasted Betrayal | 0.20% | ~46 |
-| Jack of all Trades | 0.20% | ~46 |
 | Color Coordination | 0.20% | ~46 |
 | Black-shoppe | 0.10% | ~23 |
 | Full House | 0.10% | ~23 |
 | Erebus Purified | 0.10% | ~23 |
 | For Greed | 0.10% | ~23 |
-| For Penance | 0.10% | ~23 |
 | It Was Just an Estimate | 0.10% | ~23 |
 | Good Practice | 0.10% | ~23 |
 | Maybe Wax Doesn't Melt | 0.10% | ~23 |

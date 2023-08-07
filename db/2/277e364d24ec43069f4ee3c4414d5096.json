@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 101239,
+  "EOS_Progressed": 101240,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 1696,
+  "EOS_NewPlayers": 1691,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6232,6 +6232,11 @@
       "Time": "2023-08-07T06:07:00.6418158+00:00",
       "NumProgressed": 101239,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-08-07T07:06:46.1092977+00:00",
+      "NumProgressed": 101240,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 49,
@@ -6339,7 +6344,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 47582
+      "UsersEstimate": 47583
     },
     {
       "ID": "EAwards_20",
@@ -6634,7 +6639,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 101239,
+      "Progressed": 101240,
       "Completed": 34
     }
   ],
@@ -6642,8 +6647,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-08-06T04:57:36.0350486+00:00",
-  "LastChanged_Achievements": "2023-08-07T06:07:00.6418153+00:00",
+  "LastChanged_Achievements": "2023-08-07T07:06:46.1092971+00:00",
   "LastUpdate_AppInfo": "2023-08-03T18:57:08.9683273+00:00",
-  "LastUpdate_Ratings": "2023-08-07T05:57:54.7036575+00:00",
-  "LastUpdate_Achievements": "2023-08-07T06:07:00.64192+00:00"
+  "LastUpdate_Ratings": "2023-08-07T06:57:50.8217822+00:00",
+  "LastUpdate_Achievements": "2023-08-07T07:06:46.1093797+00:00"
 }

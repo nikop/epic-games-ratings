@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -180,9 +180,9 @@
       "ID": "ACH_09_RESCUE_DOG",
       "SetID": "9loam6m",
       "Name": "Rescue dog",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_10_DOG_FRIENDS",
@@ -364,9 +364,9 @@
       "ID": "ACH_32_HEART_FOR_ANIMALS",
       "SetID": "9loam6m",
       "Name": "A heart for animals",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_33_LOVELY_VIEW",
@@ -428,9 +428,9 @@
       "ID": "ACH_40_GLOBETROTTER",
       "SetID": "9loam6m",
       "Name": "Globetrotter",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_41_GOLDEN_GLEAM",
@@ -459,8 +459,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-08-07T06:06:16.3238441+00:00",
+  "LastChanged_Achievements": "2023-08-07T07:06:01.0232543+00:00",
   "LastUpdate_AppInfo": "2023-08-02T14:57:16.3692693+00:00",
-  "LastUpdate_Ratings": "2023-08-07T05:58:00.0026263+00:00",
-  "LastUpdate_Achievements": "2023-08-07T06:06:16.32388+00:00"
+  "LastUpdate_Ratings": "2023-08-07T06:57:56.3428254+00:00",
+  "LastUpdate_Achievements": "2023-08-07T07:06:01.0232895+00:00"
 }

@@ -27,8 +27,8 @@ Number of Ratings: 125  (23.09.2022)
 | Winds of War | 16.00% | ~287 |
 | For Balance | 15.00% | ~269 |
 | Dog Days | 13.00% | ~233 |
+| Out on the Ebb Tide | 13.00% | ~233 |
 | Elusive Prey | 12.00% | ~215 |
-| Out on the Ebb Tide | 12.00% | ~215 |
 | Power Behind the Pulpit | 12.00% | ~215 |
 | Turning the Tables | 12.00% | ~215 |
 | Workers' Rights | 12.00% | ~215 |

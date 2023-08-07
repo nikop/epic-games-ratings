@@ -24,8 +24,8 @@ Number of Ratings: 22  (23.09.2022)
 | Forester | 7.00% | ~28 |
 | Thera | 6.00% | ~24 |
 | Campaign Titanium | 5.00% | ~20 |
+| Builder | 4.00% | ~16 |
 | World Creator | 4.00% | ~16 |
-| Builder | 3.00% | ~12 |
 | Multitalent | 2.00% | ~8 |
 | Competitor Bronze | 0.50% | ~2 |
 | Competitor Silver | 0.20% | ~1 |

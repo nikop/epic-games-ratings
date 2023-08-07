@@ -29,6 +29,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 1.00% | ~133 |
 | Warrior | 1.00% | ~133 |
 | Developing Cities | 1.00% | ~133 |
+| Strong Cities | 1.00% | ~133 |
 | Able Difficulty | 1.00% | ~133 |
 | Hanging Gardens | 1.00% | ~133 |
 | Ishtar Gate | 1.00% | ~133 |
@@ -44,7 +45,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 1.00% | ~133 |
 | Fountainhead | 0.90% | ~120 |
 | Wise | 0.90% | ~120 |
-| Strong Cities | 0.90% | ~120 |
 | Learn to Play 1 | 0.90% | ~120 |
 | Christianity | 0.90% | ~120 |
 | Carthaginian Paganism | 0.90% | ~120 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,304 (Ranked 117)  
+Progressed: 13,307 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,7 +412,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-04 | 13,269 | 5 |
 | 2023-08-05 | 13,281 | 5 |
 | 2023-08-06 | 13,301 | 5 |
-| 2023-08-07 | 13,304 | 5 |
+| 2023-08-07 | 13,307 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,786 (Ranked 206)  

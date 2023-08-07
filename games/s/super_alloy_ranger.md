@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 77.00% | ~41 |
-| Gear Up | 70.00% | ~37 |
-| A Grand Show | 70.00% | ~37 |
-| Freshen Up | 58.00% | ~31 |
-| GG EZ | 57.00% | ~30 |
-| Hydrophobia | 42.00% | ~22 |
-| Ka-Ching! | 36.00% | ~19 |
-| Stop Right There | 34.00% | ~18 |
-| Get to the Point | 32.00% | ~17 |
+| Iceberg Theory | 76.00% | ~41 |
+| Gear Up | 69.00% | ~37 |
+| A Grand Show | 69.00% | ~37 |
+| Freshen Up | 57.00% | ~31 |
+| GG EZ | 56.00% | ~30 |
+| Hydrophobia | 41.00% | ~22 |
+| Ka-Ching! | 35.00% | ~19 |
+| Stop Right There | 33.00% | ~18 |
+| Get to the Point | 31.00% | ~17 |
 | Toe to Toe | 17.00% | ~9 |
 | The Hidden Secret | 15.00% | ~8 |
 | Mr. Want It All | 15.00% | ~8 |
@@ -20,8 +20,8 @@
 | Grand Escape | 11.00% | ~6 |
 | Space Warrior: Prologue | 11.00% | ~6 |
 | Keep it Up, rookie! | 9.00% | ~5 |
-| The Abyss Conqueror | 8.00% | ~4 |
-| Decapitation Strike | 8.00% | ~4 |
+| The Abyss Conqueror | 7.00% | ~4 |
+| Decapitation Strike | 7.00% | ~4 |
 | The Deep Frozen Conqueror | 6.00% | ~3 |
 | The Fortress Conqueror | 6.00% | ~3 |
 | The Paradox Coordinate Conqueror | 6.00% | ~3 |
@@ -55,7 +55,7 @@
 | Bullets Fear Me | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 356)  
+Progressed: 54 (Ranked 355)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-07-24 | 50 | 0 |
 | 2023-07-26 | 52 | 0 |
 | 2023-07-29 | 53 | 0 |
+| 2023-08-07 | 54 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
