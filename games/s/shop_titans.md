@@ -20,6 +20,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Own the Means of Production | 0.40% | ~536 |
 | The Daily Grind | 0.30% | ~402 |
 | Bounty Hunters | 0.30% | ~402 |
+| Flooding the Market | 0.30% | ~402 |
 | Pretty Penny | 0.30% | ~402 |
 | One-Armed Bandit | 0.30% | ~402 |
 | Dungeon Imports | 0.30% | ~402 |
@@ -31,7 +32,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 0.20% | ~268 |
 | Blank Page Syndrome | 0.20% | ~268 |
 | Demand for Supplies | 0.20% | ~268 |
-| Flooding the Market | 0.20% | ~268 |
 | Where it Hurts | 0.20% | ~268 |
 | Master of Transmutation | 0.20% | ~268 |
 | Power of Love | 0.20% | ~268 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,037 (Ranked 62)  
+Progressed: 134,039 (Ranked 62)  
 Completed: 129 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 129 (0.10%) (Ranked 199)
 | 2023-08-04 | 133,890 | 128 |
 | 2023-08-05 | 133,956 | 128 |
 | 2023-08-06 | 134,025 | 129 |
-| 2023-08-07 | 134,037 | 129 |
+| 2023-08-07 | 134,039 | 129 |
 ## Awards
 Max (Great for Beginners): 4,691  (Ranked 70)  
 Sum: 27,060 (Ranked 46)  

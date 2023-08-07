@@ -5,16 +5,16 @@ Rating: 4.26 (Ranked 812)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~154,311 |
-| Copacetic Coordination | 16.00% | ~53,673 |
-| Fronting the Money | 14.00% | ~46,964 |
-| The Dawn of Automation | 14.00% | ~46,964 |
-| Extraordinary Logistics | 14.00% | ~46,964 |
+| Corner Clout | 46.00% | ~154,312 |
+| Copacetic Coordination | 16.00% | ~53,674 |
+| Fronting the Money | 14.00% | ~46,965 |
+| The Dawn of Automation | 14.00% | ~46,965 |
+| Extraordinary Logistics | 14.00% | ~46,965 |
 | Dirty Money | 13.00% | ~43,610 |
 | Family First | 13.00% | ~43,610 |
 | Cleaning House | 12.00% | ~40,255 |
 | Room in the Back | 12.00% | ~40,255 |
-| Booze Baron | 11.00% | ~36,900 |
+| Booze Baron | 11.00% | ~36,901 |
 | Beating the Heat | 10.00% | ~33,546 |
 | Friends on the Force | 10.00% | ~33,546 |
 | Neighborhood Watch | 10.00% | ~33,546 |
@@ -23,10 +23,10 @@ Rating: 4.26 (Ranked 812)
 | Street Fighter | 7.00% | ~23,482 |
 | Friendly Gestures | 7.00% | ~23,482 |
 | People Person | 7.00% | ~23,482 |
-| Liquor Lord | 6.00% | ~20,127 |
-| Safety in Numbers | 6.00% | ~20,127 |
-| Show ‘em the Sugar | 6.00% | ~20,127 |
-| Killing Them Softly | 6.00% | ~20,127 |
+| Liquor Lord | 6.00% | ~20,128 |
+| Safety in Numbers | 6.00% | ~20,128 |
+| Show ‘em the Sugar | 6.00% | ~20,128 |
+| Killing Them Softly | 6.00% | ~20,128 |
 | Street Knowledge | 5.00% | ~16,773 |
 | Oh Captain | 5.00% | ~16,773 |
 | Branching Out | 5.00% | ~16,773 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 812)
 | High Pillow | 0.10% | ~335 |
 | Station Master | 0.10% | ~335 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 335,458 (Ranked 41)  
+Progressed: 335,461 (Ranked 41)  
 Completed: 7 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 7 (0.00%) (Ranked 251)
 | 2023-08-04 | 334,909 | 6 |
 | 2023-08-05 | 335,160 | 6 |
 | 2023-08-06 | 335,426 | 7 |
-| 2023-08-07 | 335,458 | 7 |
+| 2023-08-07 | 335,461 | 7 |
 ## Awards
 Max (Highly Recommended): 29  (Ranked 462)  
 Sum: 127 (Ranked 402)  

@@ -11,7 +11,7 @@ Number of Ratings: 281  (23.09.2022)
 | I'm on a Boat! | 57.00% | ~2,768 |
 | Can you smell what the Rod is Hooking | 51.00% | ~2,477 |
 | Scaling up | 51.00% | ~2,477 |
-| Ready to Rod and Roll | 42.00% | ~2,040 |
+| Ready to Rod and Roll | 43.00% | ~2,088 |
 | More Fish in the Sea | 42.00% | ~2,040 |
 | License to Gill | 33.00% | ~1,602 |
 | Fish Out of Water | 32.00% | ~1,554 |

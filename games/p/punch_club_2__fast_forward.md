@@ -44,8 +44,8 @@
 | Your own way | 41.00% | ~95 |
 | Get out of my apartment! | 38.00% | ~88 |
 | Responsible approach | 38.00% | ~88 |
+| Champion – no way back | 37.00% | ~86 |
 | GYM professional | 36.00% | ~84 |
-| Champion – no way back | 36.00% | ~84 |
 | Poisoned fighter | 36.00% | ~84 |
 | Underground dwellers | 36.00% | ~84 |
 | Deal with life | 35.00% | ~81 |
@@ -60,13 +60,13 @@
 | Key memories | 29.00% | ~67 |
 | Not little hacker | 29.00% | ~67 |
 | Absolute Champion! | 29.00% | ~67 |
+| Careerist | 29.00% | ~67 |
 | The heart of the Resistance | 29.00% | ~67 |
+| Trap disarmed | 28.00% | ~65 |
 | Another world | 28.00% | ~65 |
 | Keep nature safe | 28.00% | ~65 |
 | Family comes first | 28.00% | ~65 |
-| Careerist | 28.00% | ~65 |
 | Anyone can resist | 28.00% | ~65 |
-| Trap disarmed | 27.00% | ~63 |
 | Silver’s past | 25.00% | ~58 |
 | Better cooking at home | 25.00% | ~58 |
 | The only right decision | 25.00% | ~58 |

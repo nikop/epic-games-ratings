@@ -3,8 +3,8 @@
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 262,
-  "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_Completed": 101,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 273,
+  "EOS_Progressed": 274,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.47,
+  "EOS_Completed_Percentage": 1.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.5545173+00:00",
@@ -453,6 +453,11 @@
       "Time": "2023-08-06T20:04:34.3874367+00:00",
       "NumProgressed": 273,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-07T04:03:44.3208746+00:00",
+      "NumProgressed": 274,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 19,
@@ -496,7 +501,7 @@
       "Name": "Let it begin",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "profile_ryan",
@@ -504,7 +509,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ryan_date2_all",
@@ -558,9 +563,9 @@
       "ID": "success_hazel",
       "SetID": "6h5h9ho",
       "Name": "The individualist",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 57
+      "UsersEstimate": 55
     },
     {
       "ID": "success_jake",
@@ -568,7 +573,7 @@
       "Name": "The nice guy",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "success_kathleen",
@@ -615,7 +620,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 273,
+      "Progressed": 274,
       "Completed": 4
     }
   ],
@@ -623,8 +628,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-08-07T03:04:18.0074888+00:00",
+  "LastChanged_Achievements": "2023-08-07T04:03:44.3208742+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:45.1095211+00:00",
-  "LastUpdate_Ratings": "2023-08-07T02:58:13.3616458+00:00",
-  "LastUpdate_Achievements": "2023-08-07T03:04:18.0075029+00:00"
+  "LastUpdate_Ratings": "2023-08-07T03:57:52.7998874+00:00",
+  "LastUpdate_Achievements": "2023-08-07T04:03:44.320894+00:00"
 }

@@ -37,13 +37,13 @@ Rating: 4.55 (Ranked 486)
 | ...  in a finite world | 3.00% | ~91 |
 | Sustainable Energy | 3.00% | ~91 |
 | Pedal to the Metal | 3.00% | ~91 |
+| Mutual Loyalty | 2.00% | ~61 |
 | In Dolos We Trust | 2.00% | ~61 |
 | Praise the Hull! | 2.00% | ~61 |
 | Space Greenhouse | 2.00% | ~61 |
 | Delivery! | 2.00% | ~61 |
 | Help of the Forgotten Member | 2.00% | ~61 |
 | Pulsar Disciple | 2.00% | ~61 |
-| Mutual Loyalty | 1.00% | ~30 |
 | Tiqqun Contender | 1.00% | ~30 |
 | Catastrophe Avoided | 1.00% | ~30 |
 | You Had One Job... | 1.00% | ~30 |

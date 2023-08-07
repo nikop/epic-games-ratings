@@ -1241,9 +1241,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 125764,
+  "EOS_Progressed": 125765,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 862,
+  "EOS_NewPlayers": 863,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11946,6 +11946,11 @@
       "Time": "2023-08-07T03:04:10.7154745+00:00",
       "NumProgressed": 125764,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-07T04:03:38.6348014+00:00",
+      "NumProgressed": 125765,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -11971,9 +11976,9 @@
       "ID": "ACH_COMMITTEE",
       "SetID": "5l3ge6h",
       "Name": "Committee of la Responsabilit\u00E9",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1006
     },
     {
       "ID": "ACH_COP_APO",
@@ -12013,7 +12018,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30183
+      "UsersEstimate": 30184
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -12276,15 +12281,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 125764,
+      "Progressed": 125765,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-04T01:55:33.6301654+00:00",
-  "LastChanged_Achievements": "2023-08-07T03:04:10.7154741+00:00",
+  "LastChanged_Achievements": "2023-08-07T04:03:38.6348009+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:08.5525123+00:00",
-  "LastUpdate_Ratings": "2023-08-07T03:00:27.5662751+00:00",
-  "LastUpdate_Achievements": "2023-08-07T03:04:10.7155549+00:00"
+  "LastUpdate_Ratings": "2023-08-07T03:59:31.5272536+00:00",
+  "LastUpdate_Achievements": "2023-08-07T04:03:38.6349107+00:00"
 }

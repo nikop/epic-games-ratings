@@ -6,18 +6,18 @@ Rating: 4.77 (Ranked 108)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 12.00% | ~34,747 |
-| First Class Student | 11.00% | ~31,851 |
-| Troll with the Punches | 11.00% | ~31,851 |
+| First Class Student | 11.00% | ~31,852 |
+| Troll with the Punches | 11.00% | ~31,852 |
 | A Keen Sense of Spell | 10.00% | ~28,956 |
 | That's a Keeper | 10.00% | ~28,956 |
-| Grappling with a Graphorn | 9.00% | ~26,060 |
-| The One Who Mastered Memories | 9.00% | ~26,060 |
-| The Hallowed Hero | 9.00% | ~26,060 |
-| The Hero of Hogwarts | 9.00% | ~26,060 |
-| The Defender of Dragons | 9.00% | ~26,060 |
-| Loom for Improvement | 9.00% | ~26,060 |
-| A Talent for Spending | 9.00% | ~26,060 |
-| Coasting Along | 9.00% | ~26,060 |
+| Grappling with a Graphorn | 9.00% | ~26,061 |
+| The One Who Mastered Memories | 9.00% | ~26,061 |
+| The Hallowed Hero | 9.00% | ~26,061 |
+| The Hero of Hogwarts | 9.00% | ~26,061 |
+| The Defender of Dragons | 9.00% | ~26,061 |
+| Loom for Improvement | 9.00% | ~26,061 |
+| A Talent for Spending | 9.00% | ~26,061 |
+| Coasting Along | 9.00% | ~26,061 |
 | Challenge Accepted | 8.00% | ~23,165 |
 | Followed the Butterflies | 8.00% | ~23,165 |
 | Rising From the Ashes | 8.00% | ~23,165 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,737 |
 | Collector's Edition | 0.30% | ~869 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,559 (Ranked 42)  
+Progressed: 289,562 (Ranked 42)  
 Completed: 442 (0.15%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,10 +160,10 @@ Completed: 442 (0.15%) (Ranked 187)
 | 2023-08-04 | 289,362 | 439 |
 | 2023-08-05 | 289,460 | 442 |
 | 2023-08-06 | 289,549 | 442 |
-| 2023-08-07 | 289,559 | 442 |
+| 2023-08-07 | 289,562 | 442 |
 ## Awards
 Max (Character Customization): 21,567  (Ranked 17)  
-Sum: 40,577 (Ranked 30)  
+Sum: 40,580 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -176,7 +176,7 @@ Diff (max vs sum): -13
 | This game has Diverse Characters | 917 |
 | This game has Amazing Characters | 897 |
 | This game is Highly Recommended | 866 |
-| This game has Quickly Understood Controls | 829 |
+| This game has Quickly Understood Controls | 832 |
 | This game has Beautiful Visuals | 771 |
 | This game has a Creative Community | 577 |
 ## Ratings History
@@ -318,3 +318,4 @@ Diff (max vs sum): -13
 | 2023-08-04 | 4.77 | 21,511 | 40,460 |
 | 2023-08-05 | 4.77 | 21,534 | 40,512 |
 | 2023-08-06 | 4.77 | 21,567 | 40,577 |
+| 2023-08-07 | 4.77 | 21,567 | 40,580 |

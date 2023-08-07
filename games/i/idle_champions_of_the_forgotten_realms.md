@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,779 |
-| Beast Intentions | 3.00% | ~6,584 |
+| A Brief Tour of the Realms | 4.00% | ~8,780 |
+| Beast Intentions | 3.00% | ~6,585 |
 | Maddening | 2.00% | ~4,390 |
 | The Silken Swamp | 1.00% | ~2,195 |
 | Supply Run | 1.00% | ~2,195 |
@@ -26,6 +26,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.70% | ~1,536 |
 | A Persistent Buzzing | 0.70% | ~1,536 |
 | Terror in the Dark | 0.70% | ~1,536 |
+| A Mysterious Summons | 0.70% | ~1,536 |
 | Building Trust | 0.70% | ~1,536 |
 | Unearthed Evil | 0.70% | ~1,536 |
 | The Cursed Farmer | 0.70% | ~1,536 |
@@ -37,7 +38,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Evacuation of Waterdeep | 0.60% | ~1,115 |
 | The Dread Domain of Tovag | 0.60% | ~1,115 |
 | Beast Mode | 0.60% | ~1,317 |
-| A Mysterious Summons | 0.60% | ~1,317 |
 | The Mists of Ravenloft | 0.60% | ~1,317 |
 | The Dinner Party | 0.60% | ~1,317 |
 | The Botched Kidnapping | 0.60% | ~1,317 |
@@ -94,6 +94,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Giant's Bane Tavern | 0.40% | ~743 |
 | Waterdeep Detours | 0.40% | ~878 |
 | Lost in the Deep | 0.40% | ~878 |
+| Easily Distracted | 0.40% | ~878 |
 | Underdeep Cartography | 0.40% | ~878 |
 | Overdue Rendezvous | 0.40% | ~878 |
 | Pure Energy | 0.40% | ~878 |
@@ -150,6 +151,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Under Siege | 0.30% | ~658 |
 | The Darkness Runs Deeper | 0.30% | ~658 |
 | Difficult Terrain | 0.30% | ~658 |
+| Vault of Dragons | 0.30% | ~658 |
 | Dinosaur Racing | 0.30% | ~658 |
 | Elturel Has Fallen | 0.30% | ~658 |
 | Resolve Amongst Chaos | 0.30% | ~658 |
@@ -159,7 +161,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.30% | ~658 |
 | Constant Banditry | 0.30% | ~658 |
 | The Long Haul | 0.30% | ~658 |
-| Easily Distracted | 0.30% | ~658 |
 | Rude Welcome | 0.30% | ~658 |
 | Moose Tracks | 0.30% | ~557 |
 | Civilization | 0.30% | ~557 |
@@ -213,6 +214,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Resolve | 0.20% | ~439 |
 | Backtracking Through Barovia | 0.20% | ~439 |
 | Nimblest Escape | 0.20% | ~439 |
+| Spined Nuisances | 0.20% | ~439 |
 | Excavating History | 0.20% | ~439 |
 | Towering Expectations | 0.20% | ~439 |
 | Cramped Quarters | 0.20% | ~439 |
@@ -222,7 +224,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.20% | ~439 |
 | Patience is Key | 0.20% | ~439 |
 | Troublesome Prisoner | 0.20% | ~439 |
-| Vault of Dragons | 0.20% | ~439 |
 | Champions of Waterdeep | 0.20% | ~439 |
 | Once More Into The Breach | 0.20% | ~439 |
 | Wyllowwood | 0.20% | ~439 |
@@ -345,7 +346,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Stumbling Escape | 0.10% | ~219 |
 | Distracted Escape | 0.10% | ~186 |
 | From The Shadows | 0.10% | ~219 |
-| Spined Nuisances | 0.10% | ~219 |
 | Twilight Twist | 0.10% | ~186 |
 | Screams of the Dead | 0.10% | ~219 |
 | Frantic Excavation | 0.10% | ~219 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,480 (Ranked 53)  
+Progressed: 219,489 (Ranked 53)  
 Completed: 2,158 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,15 +628,15 @@ Completed: 2,158 (0.98%) (Ranked 114)
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
-| 2023-08-07 | 219,480 | 2,158 |
+| 2023-08-07 | 219,489 | 2,158 |
 ## Awards
 Max (Diverse Characters): 5,121  (Ranked 67)  
-Sum: 30,923 (Ranked 38)  
+Sum: 30,931 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,121 |
-| This game is Great for Beginners | 5,064 |
+| This game is Great for Beginners | 5,072 |
 | This game has Quickly Understood Controls | 4,704 |
 | This game is Relaxing | 4,598 |
 | This game has Amazing Characters | 4,055 |
@@ -838,4 +838,4 @@ Diff (max vs sum): 29
 | 2023-08-04 | 4.05 | - | 5,116 | 30,897 |
 | 2023-08-05 | 4.05 | - | 5,119 | 30,910 |
 | 2023-08-06 | 4.06 | - | 5,121 | 30,921 |
-| 2023-08-07 | 4.06 | - | 5,121 | 30,923 |
+| 2023-08-07 | 4.06 | - | 5,121 | 30,931 |
