@@ -1,14 +1,14 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.31 (Ranked 779)  
+Rating: 4.31 (Ranked 778)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~67,459 |
-| Powergamer | 27.00% | ~65,049 |
-| Barely scratched the surface | 25.00% | ~60,231 |
+| I will finish what you started | 28.00% | ~67,460 |
+| Powergamer | 27.00% | ~65,050 |
+| Barely scratched the surface | 25.00% | ~60,232 |
 | Write that down | 24.00% | ~57,822 |
 | Guns, lots of guns | 12.00% | ~28,911 |
 | Collector | 11.00% | ~26,502 |
@@ -17,8 +17,8 @@ Number of Ratings: 33  (23.09.2022)
 | Wake up! | 8.00% | ~19,274 |
 | It's honest work | 7.00% | ~16,865 |
 | Griever | 7.00% | ~16,865 |
-| Me smart | 6.00% | ~14,455 |
-| Trash compactor | 6.00% | ~14,455 |
+| Me smart | 6.00% | ~14,456 |
+| Trash compactor | 6.00% | ~14,456 |
 | Good listener | 5.00% | ~12,046 |
 | Valedictorian | 5.00% | ~12,046 |
 | BOY! | 4.00% | ~9,637 |
@@ -26,14 +26,14 @@ Number of Ratings: 33  (23.09.2022)
 | So you like to read? | 4.00% | ~9,637 |
 | I like to sniff around | 3.00% | ~7,228 |
 | Mind reader | 3.00% | ~7,228 |
-| Gentleman's classic | 2.00% | ~4,818 |
-| Hoarder | 2.00% | ~4,818 |
-| Is that a rift? | 2.00% | ~4,818 |
-| It's alive! | 2.00% | ~4,818 |
-| Enjoy the beach | 2.00% | ~4,818 |
-| Rinse and repeat | 2.00% | ~4,818 |
-| Mama, I'm a criminal | 2.00% | ~4,818 |
-| Never gonna give you up | 2.00% | ~4,818 |
+| Gentleman's classic | 2.00% | ~4,819 |
+| Hoarder | 2.00% | ~4,819 |
+| Is that a rift? | 2.00% | ~4,819 |
+| It's alive! | 2.00% | ~4,819 |
+| Enjoy the beach | 2.00% | ~4,819 |
+| Rinse and repeat | 2.00% | ~4,819 |
+| Mama, I'm a criminal | 2.00% | ~4,819 |
+| Never gonna give you up | 2.00% | ~4,819 |
 | A muscle to rely on | 1.00% | ~2,409 |
 | Catnip | 1.00% | ~2,409 |
 | I am in great pain, please help me | 1.00% | ~2,409 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~482 |
 | Memory 5 | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,924 (Ranked 46)  
+Progressed: 240,927 (Ranked 46)  
 Completed: 7 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 7 (0.00%) (Ranked 251)
 | 2023-08-04 | 240,543 | 7 |
 | 2023-08-05 | 240,716 | 7 |
 | 2023-08-06 | 240,891 | 7 |
-| 2023-08-07 | 240,924 | 7 |
+| 2023-08-07 | 240,927 | 7 |
 ## Awards
 Max (Character Customization): 77  (Ranked 364)  
 Sum: 77 (Ranked 428)  

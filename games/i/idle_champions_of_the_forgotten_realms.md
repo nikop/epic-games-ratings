@@ -8,7 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,781 |
 | Beast Intentions | 3.00% | ~6,586 |
-| Maddening | 2.00% | ~4,390 |
+| Maddening | 2.00% | ~4,391 |
 | The Silken Swamp | 1.00% | ~2,195 |
 | Supply Run | 1.00% | ~2,195 |
 | Vecna Lives! | 1.00% | ~1,858 |
@@ -18,6 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.80% | ~1,486 |
 | Seeds of Destruction | 0.80% | ~1,486 |
 | Vecna Loots! | 0.80% | ~1,486 |
+| The Cursed Farmer | 0.80% | ~1,756 |
 | Topolah's Tower | 0.80% | ~1,486 |
 | Pros and CONs | 0.70% | ~1,537 |
 | Wet Feet | 0.70% | ~1,537 |
@@ -29,7 +30,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.70% | ~1,537 |
 | Building Trust | 0.70% | ~1,537 |
 | Unearthed Evil | 0.70% | ~1,537 |
-| The Cursed Farmer | 0.70% | ~1,537 |
 | The Mad Wizard | 0.70% | ~1,537 |
 | The Witchlight Carnival | 0.60% | ~1,115 |
 | Hatchlings Underfoot | 0.60% | ~1,317 |
@@ -78,6 +78,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Captured! | 0.40% | ~878 |
 | Wisdom Check | 0.40% | ~878 |
 | A Grand Puzzle | 0.40% | ~878 |
+| Tomb of the Nine Gods | 0.40% | ~878 |
 | Tower on the Lake | 0.40% | ~878 |
 | Trollskull Manor | 0.40% | ~878 |
 | Attack on the Manor | 0.40% | ~878 |
@@ -128,7 +129,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sleuth It Out | 0.30% | ~659 |
 | The Newcomers of Notoriety | 0.30% | ~557 |
 | Azaka's Procession - Part 1 | 0.30% | ~659 |
-| Tomb of the Nine Gods | 0.30% | ~659 |
 | Azaka's Procession - Part 2 | 0.30% | ~659 |
 | The Hunt for Owl-y | 0.30% | ~659 |
 | Werewolves in the Mist | 0.30% | ~659 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,524 (Ranked 53)  
-Completed: 2,158 (0.98%) (Ranked 114)  
+Progressed: 219,536 (Ranked 53)  
+Completed: 2,159 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -628,7 +628,7 @@ Completed: 2,158 (0.98%) (Ranked 114)
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
-| 2023-08-07 | 219,524 | 2,158 |
+| 2023-08-07 | 219,536 | 2,159 |
 ## Awards
 Max (Diverse Characters): 5,121  (Ranked 67)  
 Sum: 30,931 (Ranked 38)  

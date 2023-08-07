@@ -5,16 +5,16 @@ Rating: 4.26 (Ranked 812)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~154,324 |
+| Corner Clout | 46.00% | ~154,325 |
 | Copacetic Coordination | 16.00% | ~53,678 |
-| Fronting the Money | 14.00% | ~46,968 |
-| The Dawn of Automation | 14.00% | ~46,968 |
-| Extraordinary Logistics | 14.00% | ~46,968 |
-| Dirty Money | 13.00% | ~43,613 |
-| Family First | 13.00% | ~43,613 |
-| Cleaning House | 12.00% | ~40,258 |
-| Room in the Back | 12.00% | ~40,258 |
-| Booze Baron | 11.00% | ~36,903 |
+| Fronting the Money | 14.00% | ~46,969 |
+| The Dawn of Automation | 14.00% | ~46,969 |
+| Extraordinary Logistics | 14.00% | ~46,969 |
+| Dirty Money | 13.00% | ~43,614 |
+| Family First | 13.00% | ~43,614 |
+| Cleaning House | 12.00% | ~40,259 |
+| Room in the Back | 12.00% | ~40,259 |
+| Booze Baron | 11.00% | ~36,904 |
 | Beating the Heat | 10.00% | ~33,549 |
 | Friends on the Force | 10.00% | ~33,549 |
 | Neighborhood Watch | 10.00% | ~33,549 |
@@ -36,11 +36,11 @@ Rating: 4.26 (Ranked 812)
 | Moving Experiences | 5.00% | ~16,774 |
 | Mission Mastery | 5.00% | ~16,774 |
 | Wise Head | 5.00% | ~16,774 |
-| Considerable Clams | 4.00% | ~13,419 |
-| Gin Joint | 4.00% | ~13,419 |
-| An Affront to the Enemy | 4.00% | ~13,419 |
-| Friends from Back Home | 4.00% | ~13,419 |
-| Half Century Mark | 4.00% | ~13,419 |
+| Considerable Clams | 4.00% | ~13,420 |
+| Gin Joint | 4.00% | ~13,420 |
+| An Affront to the Enemy | 4.00% | ~13,420 |
+| Friends from Back Home | 4.00% | ~13,420 |
+| Half Century Mark | 4.00% | ~13,420 |
 | Corner Opportunities | 3.00% | ~10,065 |
 | 2122 North Clark Street | 3.00% | ~10,065 |
 | Copious Cabbage | 3.00% | ~10,065 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 812)
 | High Pillow | 0.10% | ~335 |
 | Station Master | 0.10% | ~335 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 335,486 (Ranked 41)  
+Progressed: 335,490 (Ranked 41)  
 Completed: 7 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 7 (0.00%) (Ranked 251)
 | 2023-08-04 | 334,909 | 6 |
 | 2023-08-05 | 335,160 | 6 |
 | 2023-08-06 | 335,426 | 7 |
-| 2023-08-07 | 335,486 | 7 |
+| 2023-08-07 | 335,490 | 7 |
 ## Awards
 Max (Highly Recommended): 29  (Ranked 462)  
 Sum: 127 (Ranked 402)  

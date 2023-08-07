@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~188 |
-| Starting Skyward | 53.00% | ~169 |
+| In the Black | 59.00% | ~189 |
+| Starting Skyward | 53.00% | ~170 |
 | Grime is Not Good | 47.00% | ~150 |
+| Floor Galore | 40.00% | ~128 |
 | Campaign Launch | 40.00% | ~128 |
-| Floor Galore | 39.00% | ~124 |
-| Dinner Dash | 39.00% | ~124 |
+| Dinner Dash | 40.00% | ~128 |
 | Need a Consult | 37.00% | ~118 |
 | Upgrade Unlock | 36.00% | ~115 |
 | It's Technical | 36.00% | ~115 |
-| Delegate Maintenance | 34.00% | ~108 |
-| Proper Walls | 33.00% | ~105 |
+| Delegate Maintenance | 34.00% | ~109 |
+| Proper Walls | 33.00% | ~106 |
 | Destination Destiny | 29.00% | ~93 |
 | Happy Tenants | 26.00% | ~83 |
 | Potent Potables | 24.00% | ~77 |
 | Smooth Service | 24.00% | ~77 |
-| Your Prestige is Rising | 23.00% | ~73 |
-| Retail Revenue | 23.00% | ~73 |
+| Your Prestige is Rising | 23.00% | ~74 |
+| Retail Revenue | 23.00% | ~74 |
 | Lux Living | 21.00% | ~67 |
 | Don't Feel a Loan | 21.00% | ~67 |
 | People Mover | 20.00% | ~64 |
 | Leveled Up Shops | 20.00% | ~64 |
+| We Don't Need No Education | 20.00% | ~64 |
 | Artfully Done | 19.00% | ~61 |
 | Emporium Empire | 19.00% | ~61 |
-| We Don't Need No Education | 19.00% | ~61 |
 | Get Electrified | 19.00% | ~61 |
-| Rehab Expert | 18.00% | ~57 |
-| Tasty Profits | 18.00% | ~57 |
+| Rehab Expert | 18.00% | ~58 |
+| Tasty Profits | 18.00% | ~58 |
 | Under One Roof | 15.00% | ~48 |
 | Established Fame | 15.00% | ~48 |
 | Cashflow Chief | 15.00% | ~48 |
 | Smooth Operator | 14.00% | ~45 |
 | Starred Dining | 14.00% | ~45 |
-| Boutique Benefits | 13.00% | ~41 |
-| Terrifically Trashed | 13.00% | ~41 |
-| Thrilled Tenants | 13.00% | ~41 |
+| Boutique Benefits | 13.00% | ~42 |
+| Terrifically Trashed | 13.00% | ~42 |
+| Thrilled Tenants | 13.00% | ~42 |
 | 28 Days Later | 11.00% | ~35 |
 | Swimming in Surplus | 11.00% | ~35 |
 | Master of Puppets | 9.00% | ~29 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 319 (Ranked 253)  
+Progressed: 320 (Ranked 252)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,6 +160,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-03 | 316 | 0 |
 | 2023-08-04 | 318 | 0 |
 | 2023-08-05 | 319 | 0 |
+| 2023-08-07 | 320 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

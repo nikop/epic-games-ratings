@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1044,9 +1044,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14596,
+  "EOS_Progressed": 14597,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 611,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -12599,6 +12599,11 @@
       "Time": "2023-08-07T08:04:56.8162278+00:00",
       "NumProgressed": 14596,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-08-07T09:04:32.8866397+00:00",
+      "NumProgressed": 14597,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 45,
@@ -12650,7 +12655,7 @@
       "Name": "Dead in the air",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2189
+      "UsersEstimate": 2190
     },
     {
       "ID": "EveryoneNeedsAHobby",
@@ -12698,7 +12703,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 6568
+      "UsersEstimate": 6569
     },
     {
       "ID": "ICallItLuck",
@@ -12706,7 +12711,7 @@
       "Name": "I call it luck",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 6422
+      "UsersEstimate": 6423
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -12714,7 +12719,7 @@
       "Name": "Improvise, adapt, overrun",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "Junkrunner",
@@ -12746,7 +12751,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 11093
+      "UsersEstimate": 11094
     },
     {
       "ID": "MoreThanHuman",
@@ -12794,7 +12799,7 @@
       "Name": "Out of order",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 6568
+      "UsersEstimate": 6569
     },
     {
       "ID": "Perfection",
@@ -12810,7 +12815,7 @@
       "Name": "Pre-empative strike",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "PushItToTheLimit",
@@ -12874,7 +12879,7 @@
       "Name": "Strike",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "SwordRunner",
@@ -12946,7 +12951,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 5984
+      "UsersEstimate": 5985
     },
     {
       "ID": "WhereHeStood",
@@ -12969,21 +12974,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 14596,
+      "Progressed": 14597,
       "Completed": 33
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 14596,
+      "Progressed": 14597,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-08-06T10:59:03.7035816+00:00",
-  "LastChanged_Achievements": "2023-08-07T08:04:56.8162272+00:00",
+  "LastChanged_Achievements": "2023-08-07T09:04:32.886639+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:55.4271201+00:00",
-  "LastUpdate_Ratings": "2023-08-07T07:59:35.0300615+00:00",
-  "LastUpdate_Achievements": "2023-08-07T08:04:56.8163644+00:00"
+  "LastUpdate_Ratings": "2023-08-07T08:59:05.6374584+00:00",
+  "LastUpdate_Achievements": "2023-08-07T09:04:32.8867199+00:00"
 }

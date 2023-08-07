@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1241,7 +1241,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 125774,
+  "EOS_Progressed": 125776,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 857,
   "EOS_NewCompleters": 0,
@@ -11971,6 +11971,11 @@
       "Time": "2023-08-07T08:04:28.8612864+00:00",
       "NumProgressed": 125774,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-07T09:04:06.7761366+00:00",
+      "NumProgressed": 125776,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -12014,7 +12019,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22639
+      "UsersEstimate": 22640
     },
     {
       "ID": "ACH_COP_BAD",
@@ -12022,7 +12027,7 @@
       "Name": "Baddest Of the Bad Cops",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2515
+      "UsersEstimate": 2516
     },
     {
       "ID": "ACH_COP_BORING",
@@ -12102,7 +12107,7 @@
       "Name": "Expert Advanced Remote Viewer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2515
+      "UsersEstimate": 2516
     },
     {
       "ID": "ACH_COP_SORRY",
@@ -12134,7 +12139,7 @@
       "Name": "Recruit Detective Kuuno de Ruyter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2515
+      "UsersEstimate": 2516
     },
     {
       "ID": "ACH_DOLORES",
@@ -12174,7 +12179,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7546
+      "UsersEstimate": 7547
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -12198,7 +12203,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17608
+      "UsersEstimate": 17609
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -12270,7 +12275,7 @@
       "Name": "Wheel of Pleasure and Light",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2515
+      "UsersEstimate": 2516
     },
     {
       "ID": "ACH_POWERARMOR",
@@ -12301,15 +12306,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 125774,
+      "Progressed": 125776,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-04T01:55:33.6301654+00:00",
-  "LastChanged_Achievements": "2023-08-07T08:04:28.8612857+00:00",
+  "LastChanged_Achievements": "2023-08-07T09:04:06.7761361+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:08.5525123+00:00",
-  "LastUpdate_Ratings": "2023-08-07T08:01:04.0022572+00:00",
-  "LastUpdate_Achievements": "2023-08-07T08:04:28.8614414+00:00"
+  "LastUpdate_Ratings": "2023-08-07T09:00:25.6061823+00:00",
+  "LastUpdate_Achievements": "2023-08-07T09:04:06.7762348+00:00"
 }

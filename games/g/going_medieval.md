@@ -6,31 +6,31 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 74.00% | ~3,799 |
-| Having A Field Day | 73.00% | ~3,748 |
+| Get A Room | 74.00% | ~3,800 |
+| Having A Field Day | 73.00% | ~3,749 |
 | Reap What You Sow | 70.00% | ~3,594 |
 | The First Day | 67.00% | ~3,440 |
-| Green Thumb | 65.00% | ~3,337 |
-| Novice Researcher | 65.00% | ~3,337 |
-| Putting Food on the Table | 60.00% | ~3,080 |
-| Home Cooked Meal | 56.00% | ~2,875 |
+| Green Thumb | 65.00% | ~3,338 |
+| Novice Researcher | 65.00% | ~3,338 |
+| Putting Food on the Table | 60.00% | ~3,081 |
+| Home Cooked Meal | 56.00% | ~2,876 |
 | Onward | 55.00% | ~2,824 |
-| The First Week | 53.00% | ~2,721 |
-| Studious Researcher | 51.00% | ~2,618 |
-| Beam Me Up | 50.00% | ~2,567 |
-| Feast or Famine | 50.00% | ~2,567 |
+| The First Week | 53.00% | ~2,722 |
+| Studious Researcher | 51.00% | ~2,619 |
+| Beam Me Up | 50.00% | ~2,568 |
+| Feast or Famine | 50.00% | ~2,568 |
 | Adept Researcher | 44.00% | ~2,259 |
 | Retribution | 40.00% | ~2,054 |
 | ...And Don’t Come Back! | 40.00% | ~2,054 |
-| Fit For A King | 39.00% | ~2,002 |
-| Luminary Researcher | 33.00% | ~1,694 |
+| Fit For A King | 39.00% | ~2,003 |
+| Luminary Researcher | 33.00% | ~1,695 |
 | Heating Up | 29.00% | ~1,489 |
 | Winter Is Coming | 26.00% | ~1,335 |
 | Winter Is Here | 23.00% | ~1,181 |
 | Disassembled | 20.00% | ~1,027 |
-| A Party Now | 19.00% | ~975 |
-| Oh Deer! | 19.00% | ~975 |
-| All Year Round | 19.00% | ~975 |
+| A Party Now | 19.00% | ~976 |
+| Oh Deer! | 19.00% | ~976 |
+| All Year Round | 19.00% | ~976 |
 | Nothing Wasted | 12.00% | ~616 |
 | Don't Cry Wolf | 12.00% | ~616 |
 | Deerly Departed | 8.00% | ~411 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~103 |
 | Wabbit Season | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,134 (Ranked 139)  
+Progressed: 5,135 (Ranked 139)  
 Completed: 10 (0.19%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 10 (0.19%) (Ranked 180)
 | 2023-08-04 | 5,076 | 10 |
 | 2023-08-05 | 5,102 | 10 |
 | 2023-08-06 | 5,128 | 10 |
-| 2023-08-07 | 5,134 | 10 |
+| 2023-08-07 | 5,135 | 10 |
 ## Awards
 Max (Relaxing): 121  (Ranked 315)  
 Sum: 969 (Ranked 238)  

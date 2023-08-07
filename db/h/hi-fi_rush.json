@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -114,7 +114,7 @@
   "Tags": [],
   "EOS_Progressed": 3778,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5730,9 +5730,9 @@
       "ID": "Ach039",
       "SetID": "12n4k20",
       "Name": "First we parry, then we counter",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "Ach040",
@@ -6009,8 +6009,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-08-07T08:05:33.7916613+00:00",
+  "LastChanged_Achievements": "2023-08-07T09:05:07.5879203+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:24.9640697+00:00",
-  "LastUpdate_Ratings": "2023-08-07T08:00:10.1411027+00:00",
-  "LastUpdate_Achievements": "2023-08-07T08:05:33.7918308+00:00"
+  "LastUpdate_Ratings": "2023-08-07T08:59:36.7883696+00:00",
+  "LastUpdate_Achievements": "2023-08-07T09:05:07.5880005+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1250,9 +1250,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 427258,
+  "EOS_Progressed": 427259,
   "EOS_Completed": 524,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8910,6 +8910,11 @@
       "Time": "2023-08-07T07:03:14.3456039+00:00",
       "NumProgressed": 427258,
       "NumCompleted": 524
+    },
+    {
+      "Time": "2023-08-07T09:02:31.7088853+00:00",
+      "NumProgressed": 427259,
+      "NumCompleted": 524
     }
   ],
   "TotalAchievements": 41,
@@ -8953,7 +8958,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 106814
+      "UsersEstimate": 106815
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -8961,7 +8966,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 179448
+      "UsersEstimate": 179449
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -8977,7 +8982,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128177
+      "UsersEstimate": 128178
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -9089,7 +9094,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 405895
+      "UsersEstimate": 405896
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -9113,7 +9118,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 158085
+      "UsersEstimate": 158086
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -9121,7 +9126,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 294808
+      "UsersEstimate": 294809
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -9137,7 +9142,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 341806
+      "UsersEstimate": 341807
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -9169,7 +9174,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 192266
+      "UsersEstimate": 192267
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -9201,7 +9206,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 239264
+      "UsersEstimate": 239265
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -9248,15 +9253,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 427258,
+      "Progressed": 427259,
       "Completed": 524
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-08-06T15:59:29.3972801+00:00",
-  "LastChanged_Achievements": "2023-08-07T08:03:19.6812046+00:00",
+  "LastChanged_Achievements": "2023-08-07T09:02:31.7088848+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:10.650083+00:00",
-  "LastUpdate_Ratings": "2023-08-07T07:59:52.224708+00:00",
-  "LastUpdate_Achievements": "2023-08-07T08:03:19.6812949+00:00"
+  "LastUpdate_Ratings": "2023-08-07T08:59:21.4353354+00:00",
+  "LastUpdate_Achievements": "2023-08-07T09:02:31.708944+00:00"
 }

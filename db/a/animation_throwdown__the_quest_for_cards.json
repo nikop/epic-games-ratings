@@ -2,13 +2,13 @@
   "ID": "1fe9a1a33a8b4df8bd8dd3b9269f8153",
   "Name": "Animation Throwdown: The Quest for Cards",
   "ProductSlug": "animation-throwdown-the-quest-for-cards",
-  "Ranking_Rating": 773,
+  "Ranking_Rating": 772,
   "Ranking_Popularity": 224,
   "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-10-04T17:00:00+00:00",
     "PcReleaseDate": "2017-05-05T11:49:39+00:00",
@@ -1754,6 +1754,6 @@
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
   "LastChanged": "2023-07-31T22:58:32.437001+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:28.3737996+00:00",
-  "LastUpdate_Ratings": "2023-08-07T07:59:06.0533536+00:00",
-  "LastUpdate_Achievements": "2023-08-07T08:07:17.5872762+00:00"
+  "LastUpdate_Ratings": "2023-08-07T08:58:36.9728795+00:00",
+  "LastUpdate_Achievements": "2023-08-07T09:06:48.4561375+00:00"
 }

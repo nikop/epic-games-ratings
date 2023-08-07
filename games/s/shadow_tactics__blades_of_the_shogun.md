@@ -6,27 +6,27 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,107 |
+| Genin | 11.00% | ~21,108 |
 | Thorough | 10.00% | ~19,189 |
 | A thief's beginning | 9.00% | ~17,270 |
 | Disguised | 8.00% | ~15,351 |
 | Rollin' | 8.00% | ~15,351 |
 | Tanuki Time | 8.00% | ~15,351 |
-| Jonin | 7.00% | ~13,432 |
-| Rescue Takuma | 7.00% | ~13,432 |
-| Stoned Ox | 7.00% | ~13,432 |
-| Chunin | 6.00% | ~11,513 |
-| Happy Planning | 6.00% | ~11,513 |
-| Ice Ice Yuki | 6.00% | ~11,513 |
-| Yabu | 6.00% | ~11,513 |
-| Flying Rocks | 5.00% | ~9,594 |
-| Mugen Unchained | 5.00% | ~9,594 |
-| Okkoto | 5.00% | ~9,594 |
-| Warzone | 5.00% | ~9,594 |
-| Gear up | 4.00% | ~7,675 |
-| Happy little accidents | 4.00% | ~7,675 |
-| Prisoners | 4.00% | ~7,675 |
-| Too Early | 4.00% | ~7,675 |
+| Jonin | 7.00% | ~13,433 |
+| Rescue Takuma | 7.00% | ~13,433 |
+| Stoned Ox | 7.00% | ~13,433 |
+| Chunin | 6.00% | ~11,514 |
+| Happy Planning | 6.00% | ~11,514 |
+| Ice Ice Yuki | 6.00% | ~11,514 |
+| Yabu | 6.00% | ~11,514 |
+| Flying Rocks | 5.00% | ~9,595 |
+| Mugen Unchained | 5.00% | ~9,595 |
+| Okkoto | 5.00% | ~9,595 |
+| Warzone | 5.00% | ~9,595 |
+| Gear up | 4.00% | ~7,676 |
+| Happy little accidents | 4.00% | ~7,676 |
+| Prisoners | 4.00% | ~7,676 |
+| Too Early | 4.00% | ~7,676 |
 | Noboru | 3.00% | ~5,757 |
 | Still Rollin' | 3.00% | ~5,757 |
 | Stoned | 3.00% | ~5,757 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~192 |
 | Release the Kraken | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191,886 (Ranked 59)  
+Progressed: 191,893 (Ranked 59)  
 Completed: 66 (0.03%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 66 (0.03%) (Ranked 225)
 | 2023-08-04 | 191,203 | 66 |
 | 2023-08-05 | 191,476 | 66 |
 | 2023-08-06 | 191,807 | 66 |
-| 2023-08-07 | 191,886 | 66 |
+| 2023-08-07 | 191,893 | 66 |
 ## Awards
 Max (Great for Beginners): 560  (Ranked 185)  
 Sum: 4,722 (Ranked 133)  

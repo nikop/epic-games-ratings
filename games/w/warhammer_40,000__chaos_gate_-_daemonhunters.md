@@ -18,9 +18,9 @@ Number of Ratings: 371  (23.09.2022)
 | Friendly Fire | 1.00% | ~31 |
 | A Foul Creche | 1.00% | ~31 |
 | Honoured Battle-Brother | 0.90% | ~28 |
-| The Emperor Protects | 0.80% | ~25 |
+| The Emperor Protects | 0.90% | ~28 |
 | Nemesis Master | 0.80% | ~25 |
-| Gunmaster | 0.70% | ~22 |
+| Gunmaster | 0.80% | ~25 |
 | Execution Force | 0.70% | ~22 |
 | Just a Scratch | 0.60% | ~19 |
 | Hold Your Ground | 0.50% | ~16 |
@@ -42,6 +42,7 @@ Number of Ratings: 371  (23.09.2022)
 | Exterminator | 0.20% | ~6 |
 | Preservationist | 0.20% | ~6 |
 | Engine Kill | 0.20% | ~6 |
+| Harvest No More | 0.20% | ~6 |
 | Death Comes For All | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | The Flesh is Weak | 0.10% | ~3 |
@@ -53,7 +54,6 @@ Number of Ratings: 371  (23.09.2022)
 | Warp Flickers | 0.10% | ~3 |
 | Phalanx | 0.10% | ~3 |
 | Exercise in Restraint | 0.10% | ~3 |
-| Harvest No More | 0.10% | ~3 |
 | True Mastery | 0.10% | ~3 |
 | Reign of Confusion | 0.10% | ~3 |
 | Abomination | 0.10% | ~3 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,129 (Ranked 153)  
+Progressed: 3,130 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-04 | 3,123 | 0 |
 | 2023-08-05 | 3,125 | 0 |
 | 2023-08-06 | 3,128 | 0 |
-| 2023-08-07 | 3,129 | 0 |
+| 2023-08-07 | 3,130 | 0 |
 ## Awards
 Max (Character Customization): 219  (Ranked 264)  
 Sum: 465 (Ranked 304)  

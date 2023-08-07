@@ -45,6 +45,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 0.20% | ~268 |
 | Seasoned Journeyman | 0.20% | ~268 |
 | Did we pack lunch? | 0.20% | ~268 |
+| Magical Harmony | 0.20% | ~268 |
 | Arcane Industries | 0.20% | ~268 |
 | A Notch Above the Rest | 0.10% | ~134 |
 | Cream of the Crop | 0.10% | ~134 |
@@ -111,7 +112,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~134 |
 | King's Shadow | 0.10% | ~134 |
 | Master Recycler | 0.10% | ~134 |
-| Magical Harmony | 0.10% | ~134 |
 | All Accounted For | 0.10% | ~134 |
 | Special Ingredient | 0.10% | ~134 |
 | Exotic Commodities | 0.10% | ~134 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,049 (Ranked 63)  
-Completed: 129 (0.10%) (Ranked 199)  
+Progressed: 134,051 (Ranked 63)  
+Completed: 130 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -228,7 +228,7 @@ Completed: 129 (0.10%) (Ranked 199)
 | 2023-08-04 | 133,890 | 128 |
 | 2023-08-05 | 133,956 | 128 |
 | 2023-08-06 | 134,025 | 129 |
-| 2023-08-07 | 134,049 | 129 |
+| 2023-08-07 | 134,051 | 130 |
 ## Awards
 Max (Great for Beginners): 4,691  (Ranked 70)  
 Sum: 27,060 (Ranked 46)  
