@@ -227,7 +227,7 @@
 | 213 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 509 |
 | 213 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 509 |
 | 213 | [Revita](games/r/revita.md) | 4.69 | 0 | 509 |
-| 213 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,350 | 33 |
+| 213 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,355 | 33 |
 | 213 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 229 | 260 |
 | 213 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 469 |
 | 213 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.69 | 0 | 509 |
@@ -339,7 +339,7 @@
 | 331 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 509 |
 | 331 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 601 | 179 |
 | 331 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 509 |
-| 331 | [Returnal™](games/r/returnal™.md) | 4.63 | 59 | 389 |
+| 331 | [Returnal™](games/r/returnal™.md) | 4.63 | 60 | 389 |
 | 331 | [Road 96](games/r/road_96.md) | 4.63 | 0 | 509 |
 | 331 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 184 | 278 |
 | 331 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 235 |
@@ -413,7 +413,7 @@
 | 391 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 509 |
 | 412 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 413 |
 | 412 | [DOOM 3](games/d/doom_3.md) | 4.59 | 68 | 380 |
-| 412 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 59 | 389 |
+| 412 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 59 | 390 |
 | 412 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 222 | 262 |
 | 412 | [Moving Out](games/m/moving_out.md) | 4.59 | 21 | 499 |
 | 412 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 0 | 509 |
@@ -656,7 +656,7 @@
 | 644 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 339 |
 | 644 | [Tunche](games/t/tunche.md) | 4.44 | 21 | 499 |
 | 644 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.44 | 24 | 481 |
-| 644 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 389 |
+| 644 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 390 |
 | 658 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 209 | 270 |
 | 658 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 35 | 436 |
 | 658 | [Predecessor](games/p/predecessor.md) | 4.43 | 144 | 300 |
@@ -768,26 +768,26 @@
 | 764 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 509 |
 | 764 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 509 |
 | 764 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,229 | 66 |
-| 764 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.33 | 0 | 509 |
 | 764 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 462 |
 | 764 | [Torchlight](games/t/torchlight.md) | 4.33 | 21 | 499 |
 | 764 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 0 | 509 |
-| 773 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 355 | 224 |
-| 773 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 58 | 392 |
-| 773 | [Filament](games/f/filament.md) | 4.32 | 559 | 187 |
-| 773 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.32 | 0 | 509 |
-| 773 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 509 |
-| 773 | [Vampyr](games/v/vampyr.md) | 4.32 | 554 | 189 |
-| 779 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 509 |
-| 779 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 509 |
-| 779 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 77 | 364 |
-| 779 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 960 | 145 |
-| 779 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 509 |
-| 784 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 509 |
-| 784 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 509 |
-| 784 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 509 |
-| 784 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 509 |
-| 784 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.30 | 669 | 169 |
+| 772 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 355 | 224 |
+| 772 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 58 | 392 |
+| 772 | [Filament](games/f/filament.md) | 4.32 | 559 | 187 |
+| 772 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.32 | 0 | 509 |
+| 772 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 509 |
+| 772 | [Vampyr](games/v/vampyr.md) | 4.32 | 554 | 189 |
+| 778 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 509 |
+| 778 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 509 |
+| 778 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 77 | 364 |
+| 778 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 960 | 145 |
+| 778 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 509 |
+| 783 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 509 |
+| 783 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 509 |
+| 783 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 509 |
+| 783 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 509 |
+| 783 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.30 | 0 | 509 |
+| 783 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.30 | 669 | 169 |
 | 789 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 509 |
 | 789 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | 0 | 509 |
 | 789 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 509 |

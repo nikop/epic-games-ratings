@@ -73,7 +73,7 @@
 | 71 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.78% |
 | 71 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 73 | [Destiny 2](games/d/destiny_2.md) | 2.75% |
-| 74 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 74 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 75 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.70% |
 | 75 | [The Bunker](games/t/the_bunker.md) | 2.70% |
 | 77 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.61% |
@@ -527,4 +527,4 @@
 | 251 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 251 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 251 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,003 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,004 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
