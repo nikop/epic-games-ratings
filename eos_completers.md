@@ -7,7 +7,7 @@
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 23.86% |
-| 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 21.43% |
+| 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 21.24% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -18,7 +18,7 @@
 | 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.89% |
 | 17 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 18 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.00% |
-| 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
+| 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.33% |
 | 21 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 22 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 10.81% |
@@ -30,7 +30,7 @@
 | 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.89% |
 | 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
 | 30 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.87% |
-| 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.77% |
+| 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.62% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
 | 34 | [Ravenlok](games/r/ravenlok.md) | 7.41% |
@@ -74,15 +74,15 @@
 | 72 | [Destiny 2](games/d/destiny_2.md) | 2.75% |
 | 73 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 74 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.70% |
-| 74 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.70% |
 | 74 | [The Bunker](games/t/the_bunker.md) | 2.70% |
+| 76 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.68% |
 | 77 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.61% |
 | 78 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 79 | [Lamentum](games/l/lamentum.md) | 2.56% |
 | 80 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.37% |
 | 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.35% |
-| 83 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
+| 83 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.29% |
 | 84 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
 | 85 | [FORECLOSED](games/f/foreclosed.md) | 2.20% |
 | 86 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.06% |
@@ -527,4 +527,4 @@
 | 251 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 251 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 251 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,007 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,008 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
