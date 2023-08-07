@@ -85,7 +85,7 @@
 | 83 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
 | 84 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
 | 85 | [FORECLOSED](games/f/foreclosed.md) | 2.22% |
-| 86 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.06% |
+| 86 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.05% |
 | 87 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.98% |
 | 88 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 89 | [Night Book](games/n/night_book.md) | 1.90% |

@@ -353,7 +353,7 @@
 | 349 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 74,927 | 9 |
 | 349 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 279 | 241 |
 | 349 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 441 |
-| 349 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,424 | 123 |
+| 349 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,425 | 123 |
 | 349 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 368 | 223 |
 | 349 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 554 | 189 |
 | 349 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 509 |
@@ -496,7 +496,7 @@
 | 486 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 33 | 446 |
 | 486 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 509 |
 | 486 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 362 |
-| 486 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,229 | 133 |
+| 486 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,230 | 133 |
 | 498 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,367 | 127 |
 | 498 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,554 | 64 |
 | 498 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 446 |

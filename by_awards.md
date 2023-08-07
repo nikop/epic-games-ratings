@@ -122,7 +122,7 @@
 | 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,510 | 4.82 | 66 |
 | 121 | [Ring of Pain](games/r/ring_of_pain.md) | 1,487 | 4.58 | 425 |
 | 122 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,478 | 4.79 | 88 |
-| 123 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,424 | 4.62 | 349 |
+| 123 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,425 | 4.62 | 349 |
 | 124 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,421 | 4.87 | 24 |
 | 125 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,398 | 4.78 | 100 |
 | 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,384 | 4.53 | 512 |
@@ -132,7 +132,7 @@
 | 130 | [DOOM 64](games/d/doom_64.md) | 1,292 | 4.66 | 272 |
 | 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,259 | 4.54 | 498 |
 | 132 | [World of Warships](games/w/world_of_warships.md) | 1,248 | 4.41 | 678 |
-| 133 | [XCOM® 2](games/x/xcom®_2.md) | 1,229 | 4.55 | 486 |
+| 133 | [XCOM® 2](games/x/xcom®_2.md) | 1,230 | 4.55 | 486 |
 | 134 | [OUTRIDERS](games/o/outriders.md) | 1,184 | 4.42 | 666 |
 | 135 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,180 | 4.69 | 213 |
 | 136 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,157 | 4.61 | 366 |
