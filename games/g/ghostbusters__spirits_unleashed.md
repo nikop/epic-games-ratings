@@ -7,7 +7,7 @@ Rating: 4.49 (Ranked 576)
 | ---- | ---------- | ----- |
 | Stylish | 86.00% | ~21,374 |
 | Advancement | 73.00% | ~18,143 |
-| Meticulously Efficient | 63.00% | ~15,658 |
+| Meticulously Efficient | 64.00% | ~15,907 |
 | Discovery | 61.00% | ~15,161 |
 | Fully Upgraded | 54.00% | ~13,421 |
 | Swift Rift Removers | 54.00% | ~13,421 |

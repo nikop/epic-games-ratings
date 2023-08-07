@@ -6,26 +6,26 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~919,678 |
-| I Need a Bigger Garage | 63.00% | ~643,775 |
-| Pump my Ride | 46.00% | ~470,058 |
-| Ghostbuster | 33.00% | ~337,215 |
-| That Was Close | 18.00% | ~183,936 |
-| Call Roadside Assistance | 17.00% | ~173,717 |
-| Quickie | 11.00% | ~112,405 |
+| The First of Many | 90.00% | ~919,688 |
+| I Need a Bigger Garage | 63.00% | ~643,781 |
+| Pump my Ride | 46.00% | ~470,062 |
+| Ghostbuster | 33.00% | ~337,219 |
+| That Was Close | 18.00% | ~183,938 |
+| Call Roadside Assistance | 17.00% | ~173,719 |
+| Quickie | 11.00% | ~112,406 |
 | California Dreamer | 7.00% | ~71,531 |
-| Can't Touch This | 5.00% | ~51,093 |
+| Can't Touch This | 5.00% | ~51,094 |
 | Carménère Taster | 3.00% | ~30,656 |
 | Comeback | 3.00% | ~30,656 |
 | Marathonist | 3.00% | ~30,656 |
 | Living Legend | 3.00% | ~30,656 |
-| Driver from Ipanema | 2.00% | ~20,437 |
-| God of Roads | 2.00% | ~20,437 |
-| Pathfinder | 2.00% | ~20,437 |
-| Go-Kart Champion | 2.00% | ~20,437 |
-| Completionist | 2.00% | ~20,437 |
-| Supersonic | 2.00% | ~20,437 |
-| Harder, Better, Faster, Stronger | 2.00% | ~20,437 |
+| Driver from Ipanema | 2.00% | ~20,438 |
+| God of Roads | 2.00% | ~20,438 |
+| Pathfinder | 2.00% | ~20,438 |
+| Go-Kart Champion | 2.00% | ~20,438 |
+| Completionist | 2.00% | ~20,438 |
+| Supersonic | 2.00% | ~20,438 |
+| Harder, Better, Faster, Stronger | 2.00% | ~20,438 |
 | The Iceman | 1.00% | ~10,219 |
 | Bollywood Star | 1.00% | ~10,219 |
 | Oil Tycoon | 1.00% | ~10,219 |
@@ -38,13 +38,13 @@ Number of Ratings: 1,343  (23.09.2022)
 | Otaku | 0.80% | ~8,175 |
 | Survivor | 0.60% | ~6,131 |
 | King of the World | 0.50% | ~5,109 |
-| Getting Famous | 0.40% | ~4,087 |
+| Getting Famous | 0.40% | ~4,088 |
 | Master of the Racetrack | 0.20% | ~2,044 |
 | Now Go Play Outside | 0.20% | ~2,044 |
 | Transporter | 0.10% | ~1,022 |
 | Look Mom, No Hands! | 0.10% | ~1,022 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,021,865 (Ranked 12)  
+Progressed: 1,021,875 (Ranked 12)  
 Completed: 384 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 384 (0.04%) (Ranked 220)
 | 2023-08-04 | 1,020,169 | 382 |
 | 2023-08-05 | 1,020,954 | 382 |
 | 2023-08-06 | 1,021,743 | 384 |
-| 2023-08-07 | 1,021,865 | 384 |
+| 2023-08-07 | 1,021,875 | 384 |
 ## Awards
 Max (Great for Beginners): 151  (Ranked 295)  
 Sum: 1,237 (Ranked 228)  

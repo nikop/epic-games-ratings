@@ -3973,9 +3973,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 700657,
+  "EOS_Progressed": 700658,
   "EOS_Completed": 6280,
-  "EOS_NewPlayers": 683,
+  "EOS_NewPlayers": 684,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -15543,6 +15543,11 @@
       "Time": "2023-08-07T04:04:05.0043023+00:00",
       "NumProgressed": 700657,
       "NumCompleted": 6280
+    },
+    {
+      "Time": "2023-08-07T05:04:56.8694809+00:00",
+      "NumProgressed": 700658,
+      "NumCompleted": 6280
     }
   ],
   "TotalAchievements": 49,
@@ -15578,7 +15583,7 @@
       "Name": "The Useless Trinket",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 91085
+      "UsersEstimate": 91086
     },
     {
       "ID": "AchBuffedButterfly",
@@ -15602,7 +15607,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 224210
+      "UsersEstimate": 224211
     },
     {
       "ID": "AchClearAnyRun",
@@ -15634,7 +15639,7 @@
       "Name": "Champion of Elysium",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 91085
+      "UsersEstimate": 91086
     },
     {
       "ID": "AchClearHeatGate",
@@ -15658,7 +15663,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 623585
+      "UsersEstimate": 623586
     },
     {
       "ID": "AchCrushedThanatos",
@@ -15754,7 +15759,7 @@
       "Name": "Home Makeover",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 189177
+      "UsersEstimate": 189178
     },
     {
       "ID": "AchManyQuests",
@@ -15778,7 +15783,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 441414
+      "UsersEstimate": 441415
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -15914,7 +15919,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 497466
+      "UsersEstimate": 497467
     },
     {
       "ID": "AchWeaponClears",
@@ -15945,15 +15950,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 700657,
+      "Progressed": 700658,
       "Completed": 6280
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-08-07T01:55:59.4372726+00:00",
-  "LastChanged_Achievements": "2023-08-07T04:04:05.0043016+00:00",
+  "LastChanged_Achievements": "2023-08-07T05:04:56.8694804+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:38.5569202+00:00",
-  "LastUpdate_Ratings": "2023-08-07T03:58:21.0106325+00:00",
-  "LastUpdate_Achievements": "2023-08-07T04:04:05.0044159+00:00"
+  "LastUpdate_Ratings": "2023-08-07T04:58:53.5193587+00:00",
+  "LastUpdate_Achievements": "2023-08-07T05:04:56.8695781+00:00"
 }

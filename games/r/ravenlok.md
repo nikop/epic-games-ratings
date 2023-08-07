@@ -27,7 +27,7 @@
 | Take Heart | 40.00% | ~426 |
 | The Guardian | 40.00% | ~426 |
 | Stronger! | 40.00% | ~426 |
-| Ancient Wisdom | 38.00% | ~405 |
+| Ancient Wisdom | 39.00% | ~415 |
 | Frog Facts! | 38.00% | ~405 |
 | All That Glistens | 38.00% | ~405 |
 | Spellbound | 37.00% | ~394 |

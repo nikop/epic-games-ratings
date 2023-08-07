@@ -80,6 +80,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Grand Puzzle | 0.40% | ~878 |
 | Tower on the Lake | 0.40% | ~878 |
 | Trollskull Manor | 0.40% | ~878 |
+| Attack on the Manor | 0.40% | ~878 |
 | The Crumbling Temple | 0.40% | ~878 |
 | The Death Curse | 0.40% | ~878 |
 | Are Ya Chicken? | 0.40% | ~878 |
@@ -138,7 +139,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Immortal Warrior | 0.30% | ~658 |
 | The Wyrmheart Mine | 0.30% | ~658 |
 | Seeds of Deceit | 0.30% | ~658 |
-| Attack on the Manor | 0.30% | ~658 |
 | Treasure Hunters | 0.30% | ~658 |
 | Flies on the Wall | 0.30% | ~658 |
 | Nimble Escape | 0.30% | ~658 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,489 (Ranked 53)  
+Progressed: 219,498 (Ranked 53)  
 Completed: 2,158 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,7 +628,7 @@ Completed: 2,158 (0.98%) (Ranked 114)
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
-| 2023-08-07 | 219,489 | 2,158 |
+| 2023-08-07 | 219,498 | 2,158 |
 ## Awards
 Max (Diverse Characters): 5,121  (Ranked 67)  
 Sum: 30,931 (Ranked 38)  

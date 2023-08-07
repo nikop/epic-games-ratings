@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 4,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 177180,
+  "EOS_Progressed": 177243,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56322,
+  "EOS_NewPlayers": 55915,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1384,6 +1384,11 @@
       "Time": "2023-08-07T04:04:03.1551077+00:00",
       "NumProgressed": 177180,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-07T05:04:54.689003+00:00",
+      "NumProgressed": 177243,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -1396,7 +1401,7 @@
       "Name": "Super Nova Station Completed",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "HW1_MISSION11_COMPLETE",
@@ -1452,7 +1457,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 33664
+      "UsersEstimate": 33676
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -1460,7 +1465,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 14174
+      "UsersEstimate": 14179
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -1468,7 +1473,7 @@
       "Name": "Return to Kharak",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 7087
+      "UsersEstimate": 7090
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -1476,7 +1481,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 5315
+      "UsersEstimate": 5317
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -1484,7 +1489,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3544
+      "UsersEstimate": 3545
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -1492,7 +1497,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 3544
+      "UsersEstimate": 3545
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -1500,7 +1505,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 3544
+      "UsersEstimate": 3545
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -1580,7 +1585,7 @@
       "Name": "Tanis Completed",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 21262
+      "UsersEstimate": 21269
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -1588,7 +1593,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 10631
+      "UsersEstimate": 10635
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -1652,7 +1657,7 @@
       "Name": "Graduated Command School",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 40751
+      "UsersEstimate": 40766
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -1667,7 +1672,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 177180,
+      "Progressed": 177243,
       "Completed": 0
     }
   ],
@@ -1675,8 +1680,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-08-06T17:57:17.3795559+00:00",
-  "LastChanged_Achievements": "2023-08-07T04:04:03.1551073+00:00",
+  "LastChanged_Achievements": "2023-08-07T05:04:54.6890022+00:00",
   "LastUpdate_AppInfo": "2023-08-03T16:57:09.1492288+00:00",
-  "LastUpdate_Ratings": "2023-08-07T03:57:18.9049311+00:00",
-  "LastUpdate_Achievements": "2023-08-07T04:04:03.155165+00:00"
+  "LastUpdate_Ratings": "2023-08-07T04:57:39.6652945+00:00",
+  "LastUpdate_Achievements": "2023-08-07T05:04:54.6890386+00:00"
 }

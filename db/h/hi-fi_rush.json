@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3775,
+  "EOS_Progressed": 3776,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5402,6 +5402,11 @@
       "Time": "2023-08-07T03:05:11.857239+00:00",
       "NumProgressed": 3775,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-07T05:05:21.3239003+00:00",
+      "NumProgressed": 3776,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -5421,7 +5426,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "Ach003",
@@ -5525,7 +5530,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "Ach016",
@@ -5683,9 +5688,9 @@
       "ID": "Ach035",
       "SetID": "12n4k20",
       "Name": "OK, well THEY came after ME!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "Ach036",
@@ -5739,9 +5744,9 @@
       "ID": "Ach042",
       "SetID": "12n4k20",
       "Name": "I look cool. But I can look COOLER.",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 151
     },
     {
       "ID": "Ach043",
@@ -5781,7 +5786,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "Ach048",
@@ -5980,13 +5985,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3775,
+      "Progressed": 3776,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2296,
+      "Progressed": 2297,
       "Completed": 1928
     }
   ],
@@ -5994,8 +5999,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-08-07T04:04:25.5963181+00:00",
+  "LastChanged_Achievements": "2023-08-07T05:05:21.3238997+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:24.9640697+00:00",
-  "LastUpdate_Ratings": "2023-08-07T03:58:58.5566304+00:00",
-  "LastUpdate_Achievements": "2023-08-07T04:04:25.5964216+00:00"
+  "LastUpdate_Ratings": "2023-08-07T04:59:36.7456192+00:00",
+  "LastUpdate_Achievements": "2023-08-07T05:05:21.3240113+00:00"
 }

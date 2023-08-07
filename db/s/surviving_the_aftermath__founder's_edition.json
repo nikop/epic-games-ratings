@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1161,9 +1161,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 8084,
+  "EOS_Progressed": 8085,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9961,6 +9961,11 @@
       "Time": "2023-08-07T03:06:55.058744+00:00",
       "NumProgressed": 8084,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-07T05:06:54.7414296+00:00",
+      "NumProgressed": 8085,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -9972,7 +9977,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4931
+      "UsersEstimate": 4932
     },
     {
       "ID": "10",
@@ -9980,7 +9985,7 @@
       "Name": "Friendly",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "11",
@@ -10028,7 +10033,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3314
+      "UsersEstimate": 3315
     },
     {
       "ID": "17",
@@ -10060,7 +10065,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2829
+      "UsersEstimate": 2830
     },
     {
       "ID": "20",
@@ -10084,7 +10089,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5820
+      "UsersEstimate": 5821
     },
     {
       "ID": "23",
@@ -10132,7 +10137,7 @@
       "Name": "Merchant",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "29",
@@ -10148,7 +10153,7 @@
       "Name": "Great Leader",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "30",
@@ -10180,7 +10185,7 @@
       "Name": "Around the World",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "34",
@@ -10188,7 +10193,7 @@
       "Name": "Ice Lakes",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "35",
@@ -10316,7 +10321,7 @@
       "Name": "Mentor",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "5",
@@ -10428,7 +10433,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "9",
@@ -10443,15 +10448,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8084,
+      "Progressed": 8085,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-06T23:01:14.8311931+00:00",
-  "LastChanged_Achievements": "2023-08-07T04:05:46.680357+00:00",
+  "LastChanged_Achievements": "2023-08-07T05:06:54.741429+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:55.2597008+00:00",
-  "LastUpdate_Ratings": "2023-08-07T04:00:11.1892833+00:00",
-  "LastUpdate_Achievements": "2023-08-07T04:05:46.6804626+00:00"
+  "LastUpdate_Ratings": "2023-08-07T05:01:10.9807139+00:00",
+  "LastUpdate_Achievements": "2023-08-07T05:06:54.741536+00:00"
 }

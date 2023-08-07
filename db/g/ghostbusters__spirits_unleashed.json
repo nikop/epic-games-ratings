@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -9863,9 +9863,9 @@
       "ID": "Efficient",
       "SetID": "819popo",
       "Name": "Meticulously Efficient",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15658
+      "UsersEstimate": 15907
     },
     {
       "ID": "Escape_Artist",
@@ -10168,8 +10168,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-06T23:00:14.0887839+00:00",
-  "LastChanged_Achievements": "2023-08-07T04:02:15.0408299+00:00",
+  "LastChanged_Achievements": "2023-08-07T05:03:24.0685587+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:01.1115448+00:00",
-  "LastUpdate_Ratings": "2023-08-07T03:59:25.2483559+00:00",
-  "LastUpdate_Achievements": "2023-08-07T04:02:15.0409319+00:00"
+  "LastUpdate_Ratings": "2023-08-07T05:00:14.5700292+00:00",
+  "LastUpdate_Achievements": "2023-08-07T05:03:24.0686498+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,747 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,748 |
 | First Class Student | 11.00% | ~31,852 |
 | Troll with the Punches | 11.00% | ~31,852 |
 | A Keen Sense of Spell | 10.00% | ~28,956 |
@@ -30,10 +30,10 @@ Rating: 4.77 (Ranked 108)
 | The Root of the Problem | 5.00% | ~14,478 |
 | Third Time's a Charm | 5.00% | ~14,478 |
 | Raising Expectations | 5.00% | ~14,478 |
-| The Toast of the Town | 4.00% | ~11,582 |
-| Room with a View | 4.00% | ~11,582 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,582 |
-| The Ends Petrify the Means | 4.00% | ~11,582 |
+| The Toast of the Town | 4.00% | ~11,583 |
+| Room with a View | 4.00% | ~11,583 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,583 |
+| The Ends Petrify the Means | 4.00% | ~11,583 |
 | Going Through the Potions | 3.00% | ~8,687 |
 | Floo Around the World | 3.00% | ~8,687 |
 | The Intrepid Explorer | 3.00% | ~8,687 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 108)
 | Demiguise Dread | 1.00% | ~2,896 |
 | Finishing Touches | 1.00% | ~2,896 |
 | A Forte for Achievement | 1.00% | ~2,896 |
-| Merlin's Beard! | 0.80% | ~2,316 |
+| Merlin's Beard! | 0.80% | ~2,317 |
 | Spilled Milk | 0.70% | ~2,027 |
 | The Nature of the Beast | 0.60% | ~1,737 |
 | Collector's Edition | 0.30% | ~869 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,562 (Ranked 42)  
+Progressed: 289,564 (Ranked 42)  
 Completed: 442 (0.15%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 442 (0.15%) (Ranked 187)
 | 2023-08-04 | 289,362 | 439 |
 | 2023-08-05 | 289,460 | 442 |
 | 2023-08-06 | 289,549 | 442 |
-| 2023-08-07 | 289,562 | 442 |
+| 2023-08-07 | 289,564 | 442 |
 ## Awards
 Max (Character Customization): 21,567  (Ranked 17)  
 Sum: 40,580 (Ranked 30)  

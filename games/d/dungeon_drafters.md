@@ -14,8 +14,8 @@
 | Card Collector | 26.00% | ~21 |
 | Riddlesolver | 22.00% | ~18 |
 | Dungeon Mastery | 21.00% | ~17 |
+| The Steed | 12.00% | ~10 |
 | A Strange Proposition | 12.00% | ~10 |
-| The Steed | 11.00% | ~9 |
 | Card Completionist | 9.00% | ~7 |
 | The Bodyguard | 7.00% | ~6 |
 | The Apprentice | 7.00% | ~6 |

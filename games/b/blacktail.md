@@ -27,11 +27,11 @@ Rating: 4.68 (Ranked 242)
 | Goal! | 3.00% | ~18 |
 | Both sides | 3.00% | ~18 |
 | Specialist | 3.00% | ~18 |
+| Always worth a try | 3.00% | ~18 |
 | Toxic | 3.00% | ~18 |
 | Witch's cookbook | 3.00% | ~18 |
 | Gnowlledgeable | 2.00% | ~12 |
 | Awards unwarded | 2.00% | ~12 |
-| Always worth a try | 2.00% | ~12 |
 | Entangled | 2.00% | ~12 |
 | Bad apple | 1.00% | ~6 |
 | Loremaster | 1.00% | ~6 |

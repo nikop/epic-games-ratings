@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -244,10 +244,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34574,
+  "EOS_Progressed": 34577,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 330,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 333,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -10234,6 +10234,11 @@
       "Time": "2023-08-07T04:04:59.0013313+00:00",
       "NumProgressed": 34574,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-08-07T05:06:00.9647184+00:00",
+      "NumProgressed": 34577,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 14,
@@ -10261,7 +10266,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8989
+      "UsersEstimate": 8990
     },
     {
       "ID": "allItems",
@@ -10269,7 +10274,7 @@
       "Name": "Excavator",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "allSecrets",
@@ -10333,7 +10338,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 26622
+      "UsersEstimate": 26624
     },
     {
       "ID": "roots",
@@ -10356,15 +10361,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 34574,
+      "Progressed": 34577,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-08-07T04:04:59.0013307+00:00",
+  "LastChanged_Achievements": "2023-08-07T05:06:00.9647178+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:19.3070708+00:00",
-  "LastUpdate_Ratings": "2023-08-07T03:57:02.9142637+00:00",
-  "LastUpdate_Achievements": "2023-08-07T04:04:59.0014134+00:00"
+  "LastUpdate_Ratings": "2023-08-07T04:57:21.0990114+00:00",
+  "LastUpdate_Achievements": "2023-08-07T05:06:00.9647857+00:00"
 }
