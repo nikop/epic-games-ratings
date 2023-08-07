@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Breaking Through | 70.00% | ~64 |
-| Silent Overload | 60.00% | ~55 |
+| Silent Overload | 62.00% | ~56 |
 | Symbiotic Weapon | 56.00% | ~51 |
 | A.I. Training | 51.00% | ~46 |
 | Sniper | 38.00% | ~35 |

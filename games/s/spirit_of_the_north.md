@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~44,070 |
-| INFUSED WITH LIGHT | 53.00% | ~34,349 |
-| FOXIN' AROUND | 29.00% | ~18,795 |
-| FETCH | 27.00% | ~17,498 |
-| BLOOMS OF LIGHT | 26.00% | ~16,850 |
-| BEST FRIENDS | 22.00% | ~14,258 |
-| AWAKEN | 21.00% | ~13,610 |
-| ERADICATE | 21.00% | ~13,610 |
-| SPIRIT BARK | 21.00% | ~13,610 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~44,073 |
+| INFUSED WITH LIGHT | 53.00% | ~34,351 |
+| FOXIN' AROUND | 29.00% | ~18,796 |
+| FETCH | 27.00% | ~17,500 |
+| BLOOMS OF LIGHT | 26.00% | ~16,851 |
+| BEST FRIENDS | 22.00% | ~14,259 |
+| AWAKEN | 21.00% | ~13,611 |
+| ERADICATE | 21.00% | ~13,611 |
+| SPIRIT BARK | 21.00% | ~13,611 |
 | GARDEN OF LIGHT | 18.00% | ~11,666 |
-| SPIRIT FORM | 16.00% | ~10,369 |
-| UPROOTING DARKNESS | 15.00% | ~9,721 |
-| WRITTEN IN STONE | 15.00% | ~9,721 |
-| WEIGHTLESS | 12.00% | ~7,777 |
+| SPIRIT FORM | 16.00% | ~10,370 |
+| UPROOTING DARKNESS | 15.00% | ~9,722 |
+| WRITTEN IN STONE | 15.00% | ~9,722 |
+| WEIGHTLESS | 12.00% | ~7,778 |
 | SPIRIT DASH | 11.00% | ~7,129 |
 | OLD COMPANION | 9.00% | ~5,833 |
 | PLAGUE DOCTOR | 8.00% | ~5,185 |
 | SPIRITED AWAY | 8.00% | ~5,185 |
 | MATCH MAKER | 7.00% | ~4,537 |
 | NORTHERN LIGHTS | 7.00% | ~4,537 |
-| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,592 |
+| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,593 |
 | ANCIENT HISTORY | 3.00% | ~1,944 |
 | NONE FORGOTTEN | 2.00% | ~1,296 |
 | KINDRED SPIRITS | 0.60% | ~389 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,809 (Ranked 83)  
+Progressed: 64,813 (Ranked 83)  
 Completed: 335 (0.52%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 335 (0.52%) (Ranked 137)
 | 2023-08-04 | 64,549 | 334 |
 | 2023-08-05 | 64,663 | 335 |
 | 2023-08-06 | 64,793 | 335 |
-| 2023-08-07 | 64,809 | 335 |
+| 2023-08-07 | 64,813 | 335 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 479)  
 Sum: 113 (Ranked 410)  

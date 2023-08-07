@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 812,
+  "EOS_Progressed": 813,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2846,6 +2846,11 @@
       "Time": "2023-08-07T07:07:19.2006074+00:00",
       "NumProgressed": 812,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-07T08:07:22.9479288+00:00",
+      "NumProgressed": 813,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2857,7 +2862,7 @@
       "Name": "Know The Enemy",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -2881,7 +2886,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -2945,7 +2950,7 @@
       "Name": "Moving On Up",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "objective_headquarters_20",
@@ -2961,7 +2966,7 @@
       "Name": "Facility Online",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -2985,7 +2990,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -3033,7 +3038,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -3160,14 +3165,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 812,
+      "Progressed": 813,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-07T07:07:19.2006066+00:00",
+  "LastChanged_Achievements": "2023-08-07T08:07:22.9479282+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:21.6461868+00:00",
-  "LastUpdate_Ratings": "2023-08-07T06:57:25.7210488+00:00",
-  "LastUpdate_Achievements": "2023-08-07T07:07:19.200661+00:00"
+  "LastUpdate_Ratings": "2023-08-07T07:57:28.6247477+00:00",
+  "LastUpdate_Achievements": "2023-08-07T08:07:22.9479757+00:00"
 }

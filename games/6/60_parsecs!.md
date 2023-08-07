@@ -32,7 +32,7 @@
 | Flawless Maegangement | 7.00% | ~49 |
 | Second Life | 7.00% | ~49 |
 | Axel jump in space! | 6.00% | ~42 |
-| Extreme Makeover | 4.00% | ~28 |
+| Extreme Makeover | 5.00% | ~35 |
 | The Improvinator | 4.00% | ~28 |
 | The Last Supper | 4.00% | ~28 |
 | Bovine Domain | 2.00% | ~14 |

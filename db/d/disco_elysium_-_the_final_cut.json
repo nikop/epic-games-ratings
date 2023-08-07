@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1241,7 +1241,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 125773,
+  "EOS_Progressed": 125774,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 857,
   "EOS_NewCompleters": 0,
@@ -11966,6 +11966,11 @@
       "Time": "2023-08-07T07:04:24.5788522+00:00",
       "NumProgressed": 125773,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-07T08:04:28.8612864+00:00",
+      "NumProgressed": 125774,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -12057,7 +12062,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35216
+      "UsersEstimate": 35217
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -12105,7 +12110,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16350
+      "UsersEstimate": 16351
     },
     {
       "ID": "ACH_COP_STAR",
@@ -12257,7 +12262,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16350
+      "UsersEstimate": 16351
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -12296,15 +12301,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 125773,
+      "Progressed": 125774,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-04T01:55:33.6301654+00:00",
-  "LastChanged_Achievements": "2023-08-07T07:04:24.5788516+00:00",
+  "LastChanged_Achievements": "2023-08-07T08:04:28.8612857+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:08.5525123+00:00",
-  "LastUpdate_Ratings": "2023-08-07T07:00:58.9189916+00:00",
-  "LastUpdate_Achievements": "2023-08-07T07:04:24.5789615+00:00"
+  "LastUpdate_Ratings": "2023-08-07T08:01:04.0022572+00:00",
+  "LastUpdate_Achievements": "2023-08-07T08:04:28.8614414+00:00"
 }

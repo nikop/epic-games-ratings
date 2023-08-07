@@ -8,7 +8,7 @@ Number of Ratings: 524  (23.09.2022)
 | ---- | ---------- | ----- |
 | Follow the Light | 37.00% | ~22,362 |
 | Let There Be Light | 30.00% | ~18,131 |
-| Float Like a Butterfly | 28.00% | ~16,922 |
+| Float Like a Butterfly | 28.00% | ~16,923 |
 | Nordic Walking | 23.00% | ~13,901 |
 | Bright Falls' Finest | 22.00% | ~13,296 |
 | Under a Thin Layer of Skin | 19.00% | ~11,483 |
@@ -21,10 +21,10 @@ Number of Ratings: 524  (23.09.2022)
 | Wheels Within Wheels | 13.00% | ~7,857 |
 | They're Heeeeeere! | 13.00% | ~7,857 |
 | Missed by a Mile | 13.00% | ~7,857 |
-| Iron Horse | 12.00% | ~7,252 |
-| The Six-Gun Scribe | 12.00% | ~7,252 |
-| Collateral Carnage | 12.00% | ~7,252 |
-| Come One, Come All | 12.00% | ~7,252 |
+| Iron Horse | 12.00% | ~7,253 |
+| The Six-Gun Scribe | 12.00% | ~7,253 |
+| Collateral Carnage | 12.00% | ~7,253 |
+| Come One, Come All | 12.00% | ~7,253 |
 | Heavy Metal | 11.00% | ~6,648 |
 | Perchance to Dream | 11.00% | ~6,648 |
 | Gatekeeper | 10.00% | ~6,044 |
@@ -43,9 +43,9 @@ Number of Ratings: 524  (23.09.2022)
 | Drink 'Em Both Up | 5.00% | ~3,022 |
 | Hardboiled Writer | 5.00% | ~3,022 |
 | Ding! | 5.00% | ~1,195 |
-| Boob Tube | 4.00% | ~2,417 |
-| If It Flies, It Burns | 4.00% | ~2,417 |
-| KBF-FM | 4.00% | ~2,417 |
+| Boob Tube | 4.00% | ~2,418 |
+| If It Flies, It Burns | 4.00% | ~2,418 |
+| KBF-FM | 4.00% | ~2,418 |
 | Carny | 3.00% | ~1,813 |
 | Kill Your Darlings | 3.00% | ~717 |
 | Heartbreaker | 3.00% | ~717 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~60 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,437 (Ranked 84)  
+Progressed: 60,438 (Ranked 84)  
 Completed: 64 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 64 (0.11%) (Ranked 195)
 | 2023-08-04 | 60,237 | 64 |
 | 2023-08-05 | 60,337 | 64 |
 | 2023-08-06 | 60,420 | 64 |
-| 2023-08-07 | 60,437 | 64 |
+| 2023-08-07 | 60,438 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -90,9 +90,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69130,
+  "EOS_Progressed": 69133,
   "EOS_Completed": 690,
-  "EOS_NewPlayers": 890,
+  "EOS_NewPlayers": 888,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -12010,6 +12010,11 @@
       "Time": "2023-08-07T07:08:16.0883466+00:00",
       "NumProgressed": 69130,
       "NumCompleted": 690
+    },
+    {
+      "Time": "2023-08-07T08:08:19.8188547+00:00",
+      "NumProgressed": 69133,
+      "NumCompleted": 690
     }
   ],
   "TotalAchievements": 25,
@@ -12037,7 +12042,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 12443
+      "UsersEstimate": 12444
     },
     {
       "ID": "Audiophile",
@@ -12061,7 +12066,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12443
+      "UsersEstimate": 12444
     },
     {
       "ID": "Butcher",
@@ -12077,7 +12082,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3456
+      "UsersEstimate": 3457
     },
     {
       "ID": "Fair\u0027sFair",
@@ -12093,7 +12098,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 13826
+      "UsersEstimate": 13827
     },
     {
       "ID": "Hearty",
@@ -12125,7 +12130,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 13826
+      "UsersEstimate": 13827
     },
     {
       "ID": "Meaty",
@@ -12213,14 +12218,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5530
+      "UsersEstimate": 5531
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 69130,
+      "Progressed": 69133,
       "Completed": 690
     }
   ],
@@ -12228,8 +12233,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-07-28T23:00:50.3607038+00:00",
-  "LastChanged_Achievements": "2023-08-07T07:08:16.0883457+00:00",
+  "LastChanged_Achievements": "2023-08-07T08:08:19.8188538+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:13.5185195+00:00",
-  "LastUpdate_Ratings": "2023-08-07T06:57:26.298302+00:00",
-  "LastUpdate_Achievements": "2023-08-07T07:08:16.0884511+00:00"
+  "LastUpdate_Ratings": "2023-08-07T07:57:29.2016451+00:00",
+  "LastUpdate_Achievements": "2023-08-07T08:08:19.8189652+00:00"
 }

@@ -53,6 +53,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 0.80% | ~106 |
 | Artisans | 0.80% | ~106 |
 | Furious Family | 0.80% | ~106 |
+| Apadana | 0.80% | ~106 |
 | Colossus | 0.80% | ~106 |
 | Great Ziggurat | 0.80% | ~106 |
 | Musaeum | 0.80% | ~106 |
@@ -63,7 +64,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.70% | ~93 |
 | Legendary Cities | 0.70% | ~93 |
 | Just Difficulty | 0.70% | ~93 |
-| Apadana | 0.70% | ~93 |
 | Learn to Play 2 | 0.70% | ~93 |
 | Egyptian Paganism | 0.70% | ~93 |
 | Valiant | 0.60% | ~80 |

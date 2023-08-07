@@ -28,9 +28,9 @@
 | Intriguing candies | 58.00% | ~135 |
 | Workout professional | 57.00% | ~132 |
 | It's good to be alive | 57.00% | ~132 |
+| Own four walls | 57.00% | ~132 |
 | Handyman | 56.00% | ~130 |
 | Champion – starter pack | 56.00% | ~130 |
-| Own four walls | 56.00% | ~130 |
 | Employee of the year | 55.00% | ~128 |
 | Fight for life | 54.00% | ~125 |
 | Legal courier | 51.00% | ~118 |
@@ -51,7 +51,7 @@
 | Deal with life | 35.00% | ~81 |
 | Mom got better | 34.00% | ~79 |
 | The die is cast | 34.00% | ~79 |
-| Seashell hunter | 33.00% | ~77 |
+| Seashell hunter | 34.00% | ~79 |
 | Gang wrangler | 31.00% | ~72 |
 | Problems of cyborgs | 31.00% | ~72 |
 | Undercover robot | 31.00% | ~72 |

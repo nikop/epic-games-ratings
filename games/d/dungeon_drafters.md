@@ -22,12 +22,12 @@
 | Braving Miasma | 7.00% | ~6 |
 | The Familiar | 7.00% | ~6 |
 | Oracle Mastery | 7.00% | ~6 |
+| The Plot Thickens | 6.00% | ~5 |
 | No Stone Unturned | 6.00% | ~5 |
 | Ancient Nemesis | 5.00% | ~4 |
 | Raider Mastery | 5.00% | ~4 |
 | Traveler Mastery | 5.00% | ~4 |
 | Warden Mastery | 5.00% | ~4 |
-| The Plot Thickens | 5.00% | ~4 |
 | The False Prophet | 4.00% | ~3 |
 | Sealed Once Again | 4.00% | ~3 |
 | ACHOO! | 4.00% | ~3 |
