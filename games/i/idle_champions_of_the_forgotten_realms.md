@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,784 |
+| A Brief Tour of the Realms | 4.00% | ~8,785 |
 | Beast Intentions | 3.00% | ~6,588 |
 | Maddening | 2.00% | ~4,392 |
 | The Silken Swamp | 1.00% | ~2,196 |
@@ -41,6 +41,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mists of Ravenloft | 0.60% | ~1,318 |
 | The Dinner Party | 0.60% | ~1,318 |
 | The Botched Kidnapping | 0.60% | ~1,318 |
+| The Ring of Regeneration | 0.60% | ~1,318 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,115 |
 | Krux's Speed Run | 0.60% | ~1,115 |
 | Thieves of the Coven | 0.50% | ~929 |
@@ -51,7 +52,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.50% | ~1,098 |
 | Invisible Shadows | 0.50% | ~1,098 |
 | Family Entanglements | 0.50% | ~1,098 |
-| The Ring of Regeneration | 0.50% | ~1,098 |
 | Seeking Allies | 0.50% | ~1,098 |
 | Friendly Imps | 0.50% | ~1,098 |
 | Not That Type of Helm! | 0.50% | ~929 |
@@ -61,19 +61,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.50% | ~929 |
 | Animated Giff | 0.50% | ~929 |
 | Upholding the Law | 0.40% | ~878 |
-| Hither of the Feywild | 0.40% | ~743 |
-| The Prince of a Thousand Enemies | 0.40% | ~743 |
-| Speeds of Destruction | 0.40% | ~743 |
-| Owlbear Necessities | 0.40% | ~743 |
+| Hither of the Feywild | 0.40% | ~744 |
+| The Prince of a Thousand Enemies | 0.40% | ~744 |
+| Speeds of Destruction | 0.40% | ~744 |
+| Owlbear Necessities | 0.40% | ~744 |
 | On the Hunt | 0.40% | ~878 |
-| Best Thay Ever | 0.40% | ~743 |
-| A Demi-god's Defender | 0.40% | ~743 |
-| Who Lurks Below? | 0.40% | ~743 |
-| Xanathaaaaaaar! | 0.40% | ~743 |
+| Best Thay Ever | 0.40% | ~744 |
+| A Demi-god's Defender | 0.40% | ~744 |
+| Who Lurks Below? | 0.40% | ~744 |
+| Xanathaaaaaaar! | 0.40% | ~744 |
 | Homecoming | 0.40% | ~878 |
 | The Lost Heir of Omu | 0.40% | ~878 |
-| No One Can Hear You Scream | 0.40% | ~743 |
-| Welcome to the Rock | 0.40% | ~743 |
+| No One Can Hear You Scream | 0.40% | ~744 |
+| Welcome to the Rock | 0.40% | ~744 |
 | The Forbidden City | 0.40% | ~878 |
 | Captured! | 0.40% | ~878 |
 | Wisdom Check | 0.40% | ~878 |
@@ -93,7 +93,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.40% | ~878 |
 | The Contagious Curse | 0.40% | ~878 |
 | Escort to Waterdeep | 0.40% | ~878 |
-| The Giant's Bane Tavern | 0.40% | ~743 |
+| The Giant's Bane Tavern | 0.40% | ~744 |
 | Waterdeep Detours | 0.40% | ~878 |
 | Lost in the Deep | 0.40% | ~878 |
 | Easily Distracted | 0.40% | ~878 |
@@ -101,10 +101,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.40% | ~878 |
 | Pure Energy | 0.40% | ~878 |
 | The Templar's Camp | 0.40% | ~878 |
-| Devilishly Cold | 0.40% | ~743 |
-| Luigi After Hours | 0.40% | ~743 |
-| Electric Mayhem | 0.40% | ~743 |
-| 3,720 to 1 | 0.40% | ~743 |
+| Devilishly Cold | 0.40% | ~744 |
+| Luigi After Hours | 0.40% | ~744 |
+| Electric Mayhem | 0.40% | ~744 |
+| 3,720 to 1 | 0.40% | ~744 |
 | Starving in the Jungle | 0.30% | ~659 |
 | Cold as Ice | 0.30% | ~558 |
 | Nightmare Rats! | 0.30% | ~558 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,599 (Ranked 52)  
-Completed: 2,160 (0.98%) (Ranked 114)  
+Progressed: 219,616 (Ranked 52)  
+Completed: 2,161 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -628,7 +628,7 @@ Completed: 2,160 (0.98%) (Ranked 114)
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
-| 2023-08-07 | 219,599 | 2,160 |
+| 2023-08-07 | 219,616 | 2,161 |
 ## Awards
 Max (Diverse Characters): 5,121  (Ranked 67)  
 Sum: 30,932 (Ranked 38)  

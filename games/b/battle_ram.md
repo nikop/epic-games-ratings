@@ -21,9 +21,9 @@
 | Captain Baran | 11.00% | ~22 |
 | Senior Major Baran | 10.00% | ~20 |
 | Lieutenant Colonel Baran | 8.00% | ~16 |
-| Colonel Baran | 5.00% | ~10 |
+| Colonel Baran | 6.00% | ~12 |
 | Brigadier General Baran | 4.00% | ~8 |
-| Lieutenant General Baran | 3.00% | ~6 |
+| Lieutenant General Baran | 4.00% | ~8 |
 | EMERAID RAM | 2.00% | ~4 |
 | GOLDEN RAM | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

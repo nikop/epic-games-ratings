@@ -31,14 +31,14 @@
 | Own four walls | 57.00% | ~133 |
 | Handyman | 56.00% | ~130 |
 | Champion – starter pack | 56.00% | ~130 |
+| Fight for life | 55.00% | ~128 |
 | Employee of the year | 55.00% | ~128 |
-| Fight for life | 54.00% | ~126 |
 | Legal courier | 52.00% | ~121 |
 | Extreme neuropower! | 51.00% | ~119 |
 | Escaped from a big trouble | 49.00% | ~114 |
 | Now you are worthy | 45.00% | ~105 |
+| No blades in the gym | 45.00% | ~105 |
 | Guiding on the right path | 45.00% | ~105 |
-| No blades in the gym | 44.00% | ~103 |
 | Mysterious voice | 43.00% | ~100 |
 | Fight is life | 42.00% | ~98 |
 | Your own way | 41.00% | ~96 |

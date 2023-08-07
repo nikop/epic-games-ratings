@@ -2,7 +2,7 @@
   "ID": "84c76746bce94effb8e1047fabfd7eb7",
   "Name": "World of Warships",
   "ProductSlug": "world-of-warships",
-  "Ranking_Rating": 677,
+  "Ranking_Rating": 666,
   "Ranking_Popularity": 132,
   "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 529,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.42,
   "NumberOfRatings": 4733,
   "RatingHistory": [
     {
@@ -7414,6 +7414,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 11111,
       "NumberOfAwardsMax": 1248
+    },
+    {
+      "Time": "2023-08-07T15:00:21.1220202+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 11111,
+      "NumberOfAwardsMax": 1248
     }
   ],
   "ReviewsDisabled": false,
@@ -7493,8 +7499,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-08-07T09:59:59.0450766+00:00",
+  "LastChanged": "2023-08-07T15:00:21.12202+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:54.5211905+00:00",
-  "LastUpdate_Ratings": "2023-08-07T13:59:39.933666+00:00",
-  "LastUpdate_Achievements": "2023-08-07T14:05:33.005135+00:00"
+  "LastUpdate_Ratings": "2023-08-07T15:00:21.1220207+00:00",
+  "LastUpdate_Achievements": "2023-08-07T15:06:10.4404625+00:00"
 }

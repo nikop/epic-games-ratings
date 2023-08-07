@@ -1,7 +1,7 @@
 {
   "ID": "e209b2d1d5384f639335f64e3e6c4bb8",
   "Name": null,
-  "Ranking_EOS_Progress": 425,
+  "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 97,
@@ -178,9 +178,9 @@
       "ID": "ACHV_MP_3V3_TIER_LV_1",
       "SetID": "2l5j4fd",
       "Name": "Multiplayer: 3v3 - Bronze",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHV_MP_ANNIHILATION_COALITION_10",
@@ -430,7 +430,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
-  "LastChanged_Achievements": "2023-08-07T14:03:08.2670652+00:00",
-  "LastUpdate_Ratings": "2023-08-07T13:57:10.8407491+00:00",
-  "LastUpdate_Achievements": "2023-08-07T14:03:08.267096+00:00"
+  "LastChanged_Achievements": "2023-08-07T15:02:23.7561372+00:00",
+  "LastUpdate_Ratings": "2023-08-07T14:57:05.7782027+00:00",
+  "LastUpdate_Achievements": "2023-08-07T15:02:23.7561772+00:00"
 }

@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 499)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~19,064 |
-| Before the Downfall | 93.00% | ~18,091 |
-| Money like Water | 91.00% | ~17,702 |
-| Minimalist | 90.00% | ~17,508 |
-| Builder | 83.00% | ~16,146 |
-| Eraser | 70.00% | ~13,617 |
-| Pocket of Trains | 65.00% | ~12,644 |
-| Inspector | 59.00% | ~11,477 |
+| Trevithick's Legacy | 98.00% | ~19,065 |
+| Before the Downfall | 93.00% | ~18,092 |
+| Money like Water | 91.00% | ~17,703 |
+| Minimalist | 90.00% | ~17,509 |
+| Builder | 83.00% | ~16,147 |
+| Eraser | 70.00% | ~13,618 |
+| Pocket of Trains | 65.00% | ~12,645 |
+| Inspector | 59.00% | ~11,478 |
 | Going the Distance | 54.00% | ~10,505 |
-| Oil Baron | 42.00% | ~8,170 |
-| Loads-a-Money | 42.00% | ~8,170 |
+| Oil Baron | 42.00% | ~8,171 |
+| Loads-a-Money | 42.00% | ~8,171 |
 | Helper of the People | 39.00% | ~7,587 |
 | Simplification | 34.00% | ~6,614 |
-| Box of Trains | 33.00% | ~6,419 |
+| Box of Trains | 33.00% | ~6,420 |
 | Let There be Light | 32.00% | ~6,225 |
-| Hot Water | 31.00% | ~6,030 |
-| Indecisive | 29.00% | ~5,641 |
-| The scenic route | 27.00% | ~5,252 |
-| Industrialist | 25.00% | ~4,863 |
+| Hot Water | 31.00% | ~6,031 |
+| Indecisive | 29.00% | ~5,642 |
+| The scenic route | 27.00% | ~5,253 |
+| Industrialist | 25.00% | ~4,864 |
 | Perfectionist | 23.00% | ~4,474 |
 | Trains over Pipes | 23.00% | ~4,474 |
 | 8K is Enough for Everyone | 22.00% | ~4,280 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 499)
 | Overdeer | 0.50% | ~97 |
 | Cloud Services | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,453 (Ranked 107)  
+Progressed: 19,454 (Ranked 107)  
 Completed: 35 (0.18%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 35 (0.18%) (Ranked 182)
 | 2023-08-04 | 19,406 | 35 |
 | 2023-08-05 | 19,423 | 35 |
 | 2023-08-06 | 19,446 | 35 |
-| 2023-08-07 | 19,453 | 35 |
+| 2023-08-07 | 19,454 | 35 |
 ## Awards
 Max (Great for Beginners): 87  (Ranked 352)  
 Sum: 656 (Ranked 284)  

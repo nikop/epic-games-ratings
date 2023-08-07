@@ -7,9 +7,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 0.80% | ~1,073 |
-| Basic in Bulk | 0.70% | ~938 |
-| Tinkle of Coins | 0.70% | ~938 |
-| Titan's First Steps | 0.70% | ~938 |
+| Basic in Bulk | 0.70% | ~939 |
+| Tinkle of Coins | 0.70% | ~939 |
+| Titan's First Steps | 0.70% | ~939 |
 | Disintermediation | 0.50% | ~670 |
 | It's Free Real Estate | 0.50% | ~670 |
 | Capitalism Ho! | 0.50% | ~670 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,070 (Ranked 63)  
+Progressed: 134,076 (Ranked 63)  
 Completed: 130 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 130 (0.10%) (Ranked 199)
 | 2023-08-04 | 133,890 | 128 |
 | 2023-08-05 | 133,956 | 128 |
 | 2023-08-06 | 134,025 | 129 |
-| 2023-08-07 | 134,070 | 130 |
+| 2023-08-07 | 134,076 | 130 |
 ## Awards
 Max (Great for Beginners): 4,691  (Ranked 70)  
 Sum: 27,065 (Ranked 46)  

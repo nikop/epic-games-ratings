@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3112,
+  "EOS_Progressed": 3113,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
@@ -2714,6 +2714,11 @@
       "Time": "2023-08-06T20:03:25.1406879+00:00",
       "NumProgressed": 3112,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-07T15:03:18.3733846+00:00",
+      "NumProgressed": 3113,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2749,7 +2754,7 @@
       "Name": "Work It",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "bonus5",
@@ -2773,7 +2778,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "campaign10",
@@ -2789,7 +2794,7 @@
       "Name": "Reinforcements",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "campaign12",
@@ -2845,7 +2850,7 @@
       "Name": "Sweet Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "campaign19",
@@ -2861,7 +2866,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "campaign20",
@@ -2909,7 +2914,7 @@
       "Name": "Maestro",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "campaign8",
@@ -2941,7 +2946,7 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "scenario3",
@@ -2973,7 +2978,7 @@
       "Name": "Figure of Breach",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "scenario7",
@@ -2981,14 +2986,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3112,
+      "Progressed": 3113,
       "Completed": 10
     }
   ],
@@ -2996,8 +3001,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-08-07T14:03:28.8960423+00:00",
+  "LastChanged_Achievements": "2023-08-07T15:03:18.373384+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:11.414434+00:00",
-  "LastUpdate_Ratings": "2023-08-07T14:00:49.3856163+00:00",
-  "LastUpdate_Achievements": "2023-08-07T14:03:28.8960753+00:00"
+  "LastUpdate_Ratings": "2023-08-07T15:01:45.6089023+00:00",
+  "LastUpdate_Achievements": "2023-08-07T15:03:18.3734322+00:00"
 }

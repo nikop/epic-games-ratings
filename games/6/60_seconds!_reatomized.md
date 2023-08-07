@@ -31,7 +31,7 @@ Rating: 4.65 (Ranked 298)
 | Dawkins Residence | 20.00% | ~976 |
 | Rescue time! | 18.00% | ~878 |
 | New order | 17.00% | ~829 |
-| New species | 16.00% | ~780 |
+| New species | 17.00% | ~829 |
 | A New Hope | 15.00% | ~732 |
 | Enigma | 15.00% | ~732 |
 | Challenger | 12.00% | ~585 |

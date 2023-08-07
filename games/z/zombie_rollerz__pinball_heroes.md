@@ -61,6 +61,7 @@
 | Rocket | 2.00% | ~2 |
 | Inferno | 2.00% | ~2 |
 | Sapphire | 2.00% | ~2 |
+| Adamantite | 2.00% | ~2 |
 | Nuclear Bomb | 2.00% | ~2 |
 | Divinity | 2.00% | ~2 |
 | Hammer | 2.00% | ~2 |
@@ -70,7 +71,6 @@
 | Topaz | 0.80% | ~1 |
 | Immortality | 0.80% | ~1 |
 | Encore | 0.80% | ~1 |
-| Adamantite | 0.80% | ~1 |
 | Wu-wei | 0.80% | ~1 |
 | Satellite | 0.80% | ~1 |
 | Zombie Slayer | 0.80% | ~1 |

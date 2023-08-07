@@ -14,12 +14,14 @@
 | Loyalty | 1.00% | ~3 |
 | Hero | 1.00% | ~3 |
 | Mr. Whiting | 1.00% | ~3 |
+| Hattrick | 1.00% | ~3 |
 | Amateur newbie | 0.70% | ~2 |
 | Pro hitchhiker | 0.70% | ~2 |
 | Drama queen | 0.70% | ~2 |
-| Hattrick | 0.70% | ~2 |
+| Addict | 0.70% | ~2 |
 | Tutorial master | 0.70% | ~2 |
 | Weatherman | 0.70% | ~2 |
+| Untouchable | 0.70% | ~2 |
 | Amateur photo shoot | 0.70% | ~2 |
 | On the top | 0.70% | ~2 |
 | Pro newbie | 0.30% | ~1 |
@@ -28,10 +30,10 @@
 | Knockout Amateur | 0.30% | ~1 |
 | No brakes Amateur | 0.30% | ~1 |
 | First Amateur taste | 0.30% | ~1 |
-| Addict | 0.30% | ~1 |
 | Shepherd | 0.30% | ~1 |
+| Reliability expert | 0.30% | ~1 |
 | Amateur hattrick | 0.30% | ~1 |
-| Untouchable | 0.30% | ~1 |
+| Standing tall | 0.30% | ~1 |
 | Pro photo shoot | 0.00% | ~0 |
 | Standing tall Pro | 0.00% | ~0 |
 | Standing tall Master | 0.00% | ~0 |
@@ -100,7 +102,6 @@
 | Tried and tested | 0.00% | ~0 |
 | Elit1st | 0.00% | ~0 |
 | Just don't scratch it | 0.00% | ~0 |
-| Reliability expert | 0.00% | ~0 |
 | Zero to hero | 0.00% | ~0 |
 | Partners for life | 0.00% | ~0 |
 | Amateur top qualifier | 0.00% | ~0 |
@@ -164,7 +165,6 @@
 | Top Pro | 0.00% | ~0 |
 | Top Master | 0.00% | ~0 |
 | Top Elite | 0.00% | ~0 |
-| Standing tall | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 295 (Ranked 258)  

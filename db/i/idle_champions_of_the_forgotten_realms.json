@@ -5626,10 +5626,10 @@
       "Count": 3345
     }
   ],
-  "EOS_Progressed": 219599,
-  "EOS_Completed": 2160,
-  "EOS_NewPlayers": 2216,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 219616,
+  "EOS_Completed": 2161,
+  "EOS_NewPlayers": 2217,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -17396,6 +17396,11 @@
       "Time": "2023-08-07T14:01:10.8124471+00:00",
       "NumProgressed": 219599,
       "NumCompleted": 2160
+    },
+    {
+      "Time": "2023-08-07T15:02:17.0794565+00:00",
+      "NumProgressed": 219616,
+      "NumCompleted": 2161
     }
   ],
   "TotalAchievements": 512,
@@ -17407,7 +17412,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8784
+      "UsersEstimate": 8785
     },
     {
       "ID": "objective_completed_10",
@@ -17575,7 +17580,7 @@
       "Name": "Hither of the Feywild",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_1066",
@@ -17647,7 +17652,7 @@
       "Name": "The Prince of a Thousand Enemies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_1081",
@@ -18039,7 +18044,7 @@
       "Name": "Speeds of Destruction",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_1154",
@@ -18047,7 +18052,7 @@
       "Name": "Owlbear Necessities",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_1158",
@@ -18079,7 +18084,7 @@
       "Name": "Best Thay Ever",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_1163",
@@ -18103,7 +18108,7 @@
       "Name": "A Demi-god\u0027s Defender",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_1168",
@@ -18311,7 +18316,7 @@
       "Name": "Who Lurks Below?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_1214",
@@ -18327,7 +18332,7 @@
       "Name": "Xanathaaaaaaar!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_1219",
@@ -18479,7 +18484,7 @@
       "Name": "No One Can Hear You Scream",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_1346",
@@ -18495,7 +18500,7 @@
       "Name": "Welcome to the Rock",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_1351",
@@ -19085,9 +19090,9 @@
       "ID": "objective_completed_34",
       "SetID": "cc37lbc",
       "Name": "The Ring of Regeneration",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1318
     },
     {
       "ID": "objective_completed_35",
@@ -20487,7 +20492,7 @@
       "Name": "The Giant\u0027s Bane Tavern",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_691",
@@ -21359,7 +21364,7 @@
       "Name": "Devilishly Cold",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_1215",
@@ -21439,7 +21444,7 @@
       "Name": "Luigi After Hours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_1380",
@@ -21455,7 +21460,7 @@
       "Name": "Electric Mayhem",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_1385",
@@ -21471,7 +21476,7 @@
       "Name": "3,720 to 1",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_1390",
@@ -21502,21 +21507,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185873,
+      "Progressed": 185890,
       "Completed": 3065
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219599,
-      "Completed": 2160
+      "Progressed": 219616,
+      "Completed": 2161
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-07T11:59:17.6887797+00:00",
-  "LastChanged_Achievements": "2023-08-07T14:01:10.8124464+00:00",
+  "LastChanged_Achievements": "2023-08-07T15:02:17.0794559+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-07T13:58:50.575034+00:00",
-  "LastUpdate_Achievements": "2023-08-07T14:01:10.8148373+00:00"
+  "LastUpdate_Ratings": "2023-08-07T14:59:20.2023032+00:00",
+  "LastUpdate_Achievements": "2023-08-07T15:02:17.0821585+00:00"
 }

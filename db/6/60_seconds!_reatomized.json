@@ -164,7 +164,7 @@
   "Tags": [],
   "EOS_Progressed": 4878,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4331,9 +4331,9 @@
       "ID": "ACH_MUTANT",
       "SetID": "5nj1ea3",
       "Name": "New species",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 780
+      "UsersEstimate": 829
     },
     {
       "ID": "ACH_NAYSAYER",
@@ -4500,8 +4500,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-08-02T17:02:12.6296444+00:00",
-  "LastChanged_Achievements": "2023-08-07T14:05:12.510227+00:00",
+  "LastChanged_Achievements": "2023-08-07T15:05:34.9139138+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:25.2705415+00:00",
-  "LastUpdate_Ratings": "2023-08-07T13:56:58.2102698+00:00",
-  "LastUpdate_Achievements": "2023-08-07T14:05:12.5102895+00:00"
+  "LastUpdate_Ratings": "2023-08-07T14:56:52.5386372+00:00",
+  "LastUpdate_Achievements": "2023-08-07T15:05:34.9139903+00:00"
 }

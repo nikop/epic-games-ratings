@@ -26,11 +26,11 @@ Number of Ratings: 371  (23.09.2022)
 | Hold Your Ground | 0.50% | ~16 |
 | Corruption Cleanser | 0.50% | ~16 |
 | Hive Exterminator | 0.50% | ~16 |
+| Efficient Killer | 0.40% | ~13 |
 | Tactical Sabotage | 0.40% | ~13 |
 | Patron of Deimos | 0.30% | ~9 |
 | Daemonkeeper | 0.30% | ~9 |
 | Mind Like a Fortress | 0.30% | ~9 |
-| Efficient Killer | 0.30% | ~9 |
 | Only in Death | 0.30% | ~9 |
 | Junk Banishment | 0.30% | ~9 |
 | A Gift Spurned | 0.30% | ~9 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,130 (Ranked 153)  
+Progressed: 3,131 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-04 | 3,123 | 0 |
 | 2023-08-05 | 3,125 | 0 |
 | 2023-08-06 | 3,128 | 0 |
-| 2023-08-07 | 3,130 | 0 |
+| 2023-08-07 | 3,131 | 0 |
 ## Awards
 Max (Character Customization): 219  (Ranked 264)  
 Sum: 465 (Ranked 304)  
