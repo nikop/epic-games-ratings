@@ -30,7 +30,7 @@
 | Gorgonslayer Mastery | 13.00% | ~8 |
 | Built for adventure | 13.00% | ~8 |
 | Collector Mastery | 13.00% | ~8 |
-| True Black Knight | 8.00% | ~5 |
+| True Black Knight | 9.00% | ~6 |
 | Freedom Monster | 8.00% | ~5 |
 | No match for me! | 3.00% | ~2 |
 | True Titan | 3.00% | ~2 |

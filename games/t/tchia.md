@@ -1,7 +1,7 @@
 # Tchia
 [Store](https://store.epicgames.com/en-US/p/tchia)  
 [View Rawdata](../../db/t/tchia.json)  
-Rating: 4.77 (Ranked 108)  
+Rating: 4.76 (Ranked 117)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -27,7 +27,7 @@ Rating: 4.77 (Ranked 108)
 | Ça de Wizz! | 1.00% | ~69 |
 | Thing | 1.00% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,933 (Ranked 132)  
+Progressed: 6,934 (Ranked 132)  
 Completed: 31 (0.45%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,6 +136,7 @@ Completed: 31 (0.45%) (Ranked 145)
 | 2023-08-04 | 6,913 | 31 |
 | 2023-08-05 | 6,922 | 31 |
 | 2023-08-06 | 6,933 | 31 |
+| 2023-08-07 | 6,934 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -169,3 +170,4 @@ Completed: 31 (0.45%) (Ranked 145)
 | 2023-07-16 | 4.77 | 0 | 0 |
 | 2023-08-05 | 4.78 | 0 | 0 |
 | 2023-08-06 | 4.77 | 0 | 0 |
+| 2023-08-07 | 4.76 | 0 | 0 |

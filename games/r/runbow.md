@@ -5,25 +5,25 @@ Rating: 4.46 (Ranked 616)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~131,289 |
-| My First Runbow | 50.00% | ~123,858 |
-| It's The Fall | 26.00% | ~64,406 |
-| The Stunner | 22.00% | ~54,497 |
-| Be Aggressive | 21.00% | ~52,020 |
-| Curator | 20.00% | ~49,543 |
-| Crowning Around | 18.00% | ~44,589 |
+| In The Zone | 53.00% | ~131,292 |
+| My First Runbow | 50.00% | ~123,860 |
+| It's The Fall | 26.00% | ~64,407 |
+| The Stunner | 22.00% | ~54,498 |
+| Be Aggressive | 21.00% | ~52,021 |
+| Curator | 20.00% | ~49,544 |
+| Crowning Around | 18.00% | ~44,590 |
 | Can You Dig It? | 17.00% | ~42,112 |
-| You Juan-A-Go? | 16.00% | ~39,634 |
-| Chan-tastic | 15.00% | ~37,157 |
-| Muddy Waters | 14.00% | ~34,680 |
-| Toasty! | 13.00% | ~32,203 |
-| Lazy Laser | 8.00% | ~19,817 |
+| You Juan-A-Go? | 16.00% | ~39,635 |
+| Chan-tastic | 15.00% | ~37,158 |
+| Muddy Waters | 14.00% | ~34,681 |
+| Toasty! | 13.00% | ~32,204 |
+| Lazy Laser | 8.00% | ~19,818 |
 | Just A Phaze | 7.00% | ~17,340 |
 | Into The Drift | 7.00% | ~17,340 |
 | Ready? Fight! | 7.00% | ~17,340 |
 | Butt Butt | 6.00% | ~14,863 |
-| He Who Laughs Last | 3.00% | ~7,431 |
-| Shoo, Cat! | 3.00% | ~7,431 |
+| He Who Laughs Last | 3.00% | ~7,432 |
+| Shoo, Cat! | 3.00% | ~7,432 |
 | And You're Okay | 2.00% | ~4,954 |
 | Blotbuster | 2.00% | ~4,954 |
 | Thunderstruck | 2.00% | ~4,954 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 616)
 | Talent Scout | 0.10% | ~248 |
 | True Completionist | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,715 (Ranked 45)  
+Progressed: 247,720 (Ranked 45)  
 Completed: 3 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 3 (0.00%) (Ranked 251)
 | 2023-08-04 | 247,618 | 3 |
 | 2023-08-05 | 247,661 | 3 |
 | 2023-08-06 | 247,712 | 3 |
-| 2023-08-07 | 247,715 | 3 |
+| 2023-08-07 | 247,720 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 5,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 30,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-07T15:00:00+00:00",
     "PcReleaseDate": "2019-01-29T12:00:00+00:00",
@@ -4234,9 +4234,9 @@
       "Count": 649
     }
   ],
-  "EOS_Progressed": 3543055,
+  "EOS_Progressed": 3543079,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 3147,
+  "EOS_NewPlayers": 3132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16174,6 +16174,11 @@
       "Time": "2023-08-07T00:03:53.7786148+00:00",
       "NumProgressed": 3543055,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-07T02:00:30.7532328+00:00",
+      "NumProgressed": 3543079,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 52,
@@ -16193,7 +16198,7 @@
       "Name": "The Best of Both Worlds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 885764
+      "UsersEstimate": 885770
     },
     {
       "ID": "BRICK",
@@ -16209,7 +16214,7 @@
       "Name": "I\u0027m broke, Uncle!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 70861
+      "UsersEstimate": 70862
     },
     {
       "ID": "BSOD",
@@ -16225,7 +16230,7 @@
       "Name": "Double trouble",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 531458
+      "UsersEstimate": 531462
     },
     {
       "ID": "BUILD_2",
@@ -16241,7 +16246,7 @@
       "Name": "Keeping things neat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 141722
+      "UsersEstimate": 141723
     },
     {
       "ID": "CASH_1",
@@ -16249,7 +16254,7 @@
       "Name": "Back in the black",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1381791
+      "UsersEstimate": 1381801
     },
     {
       "ID": "CASH_2",
@@ -16257,7 +16262,7 @@
       "Name": "Seems you\u0027re pretty good at this",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 141722
+      "UsersEstimate": 141723
     },
     {
       "ID": "CASH_3",
@@ -16273,7 +16278,7 @@
       "Name": "Maybe you should try something else?",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 70861
+      "UsersEstimate": 70862
     },
     {
       "ID": "CRYSIS",
@@ -16281,7 +16286,7 @@
       "Name": "But can it run Crysis?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 318875
+      "UsersEstimate": 318877
     },
     {
       "ID": "DATE",
@@ -16313,7 +16318,7 @@
       "Name": "Get your wings",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 708611
+      "UsersEstimate": 708616
     },
     {
       "ID": "HBPC_TIME",
@@ -16345,7 +16350,7 @@
       "Name": "That\u0027s what I\u0027m talking about",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 992055
+      "UsersEstimate": 992062
     },
     {
       "ID": "JOBS_2",
@@ -16353,7 +16358,7 @@
       "Name": "Smashing it",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 354306
+      "UsersEstimate": 354308
     },
     {
       "ID": "JOBS_3",
@@ -16361,7 +16366,7 @@
       "Name": "Taking care of business",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 70861
+      "UsersEstimate": 70862
     },
     {
       "ID": "JOBS_4",
@@ -16369,7 +16374,7 @@
       "Name": "Work ethic 101",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 24801
+      "UsersEstimate": 24802
     },
     {
       "ID": "JOBS_5",
@@ -16385,7 +16390,7 @@
       "Name": "From humble beginnings...",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 248014
+      "UsersEstimate": 248016
     },
     {
       "ID": "LEVEL_2",
@@ -16425,7 +16430,7 @@
       "Name": "You need to plug it in...",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1736097
+      "UsersEstimate": 1736109
     },
     {
       "ID": "NO_PASTE",
@@ -16433,7 +16438,7 @@
       "Name": "Easy to forget",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1629805
+      "UsersEstimate": 1629816
     },
     {
       "ID": "OPC_BM_1",
@@ -16441,7 +16446,7 @@
       "Name": "Show off",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 31887
+      "UsersEstimate": 31888
     },
     {
       "ID": "OPC_BM_2",
@@ -16481,7 +16486,7 @@
       "Name": "Perfection",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 70861
+      "UsersEstimate": 70862
     },
     {
       "ID": "PLAY_INET",
@@ -16489,7 +16494,7 @@
       "Name": "My favourite feature...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 318875
+      "UsersEstimate": 318877
     },
     {
       "ID": "PLAY_MUSIC",
@@ -16537,7 +16542,7 @@
       "Name": "Calling in Sick",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 70861
+      "UsersEstimate": 70862
     },
     {
       "ID": "STARS_1",
@@ -16545,7 +16550,7 @@
       "Name": "Customer satisfaction",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 248014
+      "UsersEstimate": 248016
     },
     {
       "ID": "STARS_2",
@@ -16553,7 +16558,7 @@
       "Name": "Bending over backwards",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 141722
+      "UsersEstimate": 141723
     },
     {
       "ID": "STARS_3",
@@ -16600,15 +16605,15 @@
     {
       "ID": "m0injl",
       "IsBase": true,
-      "Progressed": 3543055,
+      "Progressed": 3543079,
       "Completed": 32
     }
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
   "LastChanged": "2023-08-06T18:00:02.3944135+00:00",
-  "LastChanged_Achievements": "2023-08-07T00:03:53.7786143+00:00",
+  "LastChanged_Achievements": "2023-08-07T02:00:30.7532321+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:27.8725878+00:00",
-  "LastUpdate_Ratings": "2023-08-07T00:01:53.7252202+00:00",
-  "LastUpdate_Achievements": "2023-08-07T00:03:53.7787546+00:00"
+  "LastUpdate_Ratings": "2023-08-07T01:57:51.7550382+00:00",
+  "LastUpdate_Achievements": "2023-08-07T02:00:30.7534479+00:00"
 }

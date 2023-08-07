@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 422,
+  "EOS_Progressed": 423,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -395,6 +395,11 @@
       "Time": "2023-08-03T00:03:21.197649+00:00",
       "NumProgressed": 422,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-07T02:00:54.0556934+00:00",
+      "NumProgressed": 423,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -414,7 +419,7 @@
       "Name": "Brain and Brawn",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "assemble-team3",
@@ -454,7 +459,7 @@
       "Name": "No Mercy",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "different-items1",
@@ -476,9 +481,9 @@
       "ID": "fat-human",
       "SetID": "799afm0",
       "Name": "Fat of the Earth",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 148
     },
     {
       "ID": "finished-quest-cube",
@@ -486,7 +491,7 @@
       "Name": "Impossible Cube",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "finished-quest-flight",
@@ -518,7 +523,7 @@
       "Name": "Assemble a Meganewbie",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "finished-quest-rat",
@@ -550,7 +555,7 @@
       "Name": "To the Moon and Back",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "finished-quest-sword",
@@ -620,9 +625,9 @@
       "ID": "win-first-biom",
       "SetID": "799afm0",
       "Name": "Vanquisher of Robots",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 317
     },
     {
       "ID": "win-first-level",
@@ -630,7 +635,7 @@
       "Name": "Good start!",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "win-koth-fights1",
@@ -662,7 +667,7 @@
       "Name": "Through the Darkness",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "win-with-3-cultists",
@@ -685,7 +690,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 422,
+      "Progressed": 423,
       "Completed": 1
     }
   ],
@@ -693,8 +698,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-08-07T00:04:19.6628793+00:00",
+  "LastChanged_Achievements": "2023-08-07T02:00:54.0556928+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:37.4252386+00:00",
-  "LastUpdate_Ratings": "2023-08-07T00:00:53.3183585+00:00",
-  "LastUpdate_Achievements": "2023-08-07T00:04:19.6629078+00:00"
+  "LastUpdate_Ratings": "2023-08-07T01:56:57.0561091+00:00",
+  "LastUpdate_Achievements": "2023-08-07T02:00:54.0557251+00:00"
 }

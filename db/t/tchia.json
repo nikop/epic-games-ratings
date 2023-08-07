@@ -2,20 +2,20 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 108,
+  "Ranking_Rating": 117,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.77,
+  "Rating": 4.76,
   "RatingHistory": [
     {
       "Time": "2023-03-27T01:58:07.9260384+00:00",
@@ -200,13 +200,19 @@
       "Rating": 4.77,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-07T01:56:04.238762+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6933,
+  "EOS_Progressed": 6934,
   "EOS_Completed": 31,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 1,
@@ -5411,6 +5417,11 @@
       "Time": "2023-08-06T20:05:31.5889481+00:00",
       "NumProgressed": 6933,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-08-07T02:02:25.5287171+00:00",
+      "NumProgressed": 6934,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 21,
@@ -5589,16 +5600,16 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6933,
+      "Progressed": 6934,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-03-21T09:57:30.0588208+00:00",
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
-  "LastChanged": "2023-08-06T01:45:10.7713347+00:00",
-  "LastChanged_Achievements": "2023-08-07T00:06:12.4226544+00:00",
+  "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
+  "LastChanged_Achievements": "2023-08-07T02:02:25.5287165+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:44.0074505+00:00",
-  "LastUpdate_Ratings": "2023-08-06T23:59:44.238417+00:00",
-  "LastUpdate_Achievements": "2023-08-07T00:06:12.4227201+00:00"
+  "LastUpdate_Ratings": "2023-08-07T01:56:04.2387631+00:00",
+  "LastUpdate_Achievements": "2023-08-07T02:02:25.5287755+00:00"
 }

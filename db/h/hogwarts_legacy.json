@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5988,9 +5988,9 @@
       "Count": 577
     }
   ],
-  "EOS_Progressed": 289550,
+  "EOS_Progressed": 289557,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 550,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -17698,6 +17698,11 @@
       "Time": "2023-08-07T00:06:54.9775449+00:00",
       "NumProgressed": 289550,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-08-07T02:03:03.8692854+00:00",
+      "NumProgressed": 289557,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 45,
@@ -17709,7 +17714,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34746
+      "UsersEstimate": 34747
     },
     {
       "ID": "PFA_10",
@@ -17813,7 +17818,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23164
+      "UsersEstimate": 23165
     },
     {
       "ID": "PFA_22",
@@ -17829,7 +17834,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28955
+      "UsersEstimate": 28956
     },
     {
       "ID": "PFA_24",
@@ -17861,7 +17866,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8686
+      "UsersEstimate": 8687
     },
     {
       "ID": "PFA_28",
@@ -17925,7 +17930,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8686
+      "UsersEstimate": 8687
     },
     {
       "ID": "PFA_35",
@@ -17933,7 +17938,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23164
+      "UsersEstimate": 23165
     },
     {
       "ID": "PFA_36",
@@ -17957,7 +17962,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8686
+      "UsersEstimate": 8687
     },
     {
       "ID": "PFA_39",
@@ -18029,7 +18034,7 @@
       "Name": "The Wise Owl",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8686
+      "UsersEstimate": 8687
     },
     {
       "ID": "PFA_6",
@@ -18037,7 +18042,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31850
+      "UsersEstimate": 31851
     },
     {
       "ID": "PFA_7",
@@ -18045,7 +18050,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31850
+      "UsersEstimate": 31851
     },
     {
       "ID": "PFA_8",
@@ -18053,7 +18058,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28955
+      "UsersEstimate": 28956
     },
     {
       "ID": "PFA_9",
@@ -18061,14 +18066,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23164
+      "UsersEstimate": 23165
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289550,
+      "Progressed": 289557,
       "Completed": 442
     }
   ],
@@ -18076,8 +18081,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-06T23:59:04.2383252+00:00",
-  "LastChanged_Achievements": "2023-08-07T00:06:54.9775446+00:00",
+  "LastChanged_Achievements": "2023-08-07T02:03:03.8692847+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.8672159+00:00",
-  "LastUpdate_Ratings": "2023-08-06T23:59:04.2383261+00:00",
-  "LastUpdate_Achievements": "2023-08-07T00:06:54.9776745+00:00"
+  "LastUpdate_Ratings": "2023-08-07T01:55:30.2219757+00:00",
+  "LastUpdate_Achievements": "2023-08-07T02:03:03.8694055+00:00"
 }

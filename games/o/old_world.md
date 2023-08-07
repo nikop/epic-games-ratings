@@ -60,12 +60,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.80% | ~106 |
 | Regicide | 0.70% | ~93 |
 | Drillmaster | 0.70% | ~93 |
+| Intercessor | 0.70% | ~93 |
 | Legendary Cities | 0.70% | ~93 |
 | Just Difficulty | 0.70% | ~93 |
 | Apadana | 0.70% | ~93 |
 | Learn to Play 2 | 0.70% | ~93 |
 | Egyptian Paganism | 0.70% | ~93 |
-| Intercessor | 0.60% | ~80 |
 | Valiant | 0.60% | ~80 |
 | Champions | 0.60% | ~80 |
 | Sages | 0.60% | ~80 |
@@ -94,6 +94,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.40% | ~53 |
 | Victorious | 0.40% | ~53 |
 | Strong Difficulty | 0.40% | ~53 |
+| Hunters | 0.40% | ~53 |
 | Landowners | 0.40% | ~53 |
 | Riders | 0.40% | ~53 |
 | Hittite Iron | 0.40% | ~53 |
@@ -117,11 +118,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 0.40% | ~53 |
 | Bad Heir Day | 0.30% | ~40 |
 | Ishtar Gate in Babylon | 0.30% | ~40 |
+| Carthage - Ox Hide | 0.30% | ~40 |
 | Capable | 0.30% | ~40 |
 | Old | 0.30% | ~40 |
 | Ready | 0.30% | ~40 |
 | Clerics | 0.30% | ~40 |
-| Hunters | 0.30% | ~40 |
 | Learn to Play 4 | 0.30% | ~40 |
 | Egypt | 0.30% | ~40 |
 | Rome | 0.30% | ~40 |
@@ -136,7 +137,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.30% | ~40 |
 | No Undo | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
-| Carthage - Ox Hide | 0.20% | ~27 |
 | Peacemaker | 0.20% | ~27 |
 | Glorious Difficulty | 0.20% | ~27 |
 | Noble Difficulty | 0.20% | ~27 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,301 (Ranked 117)  
+Progressed: 13,303 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,6 +412,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-04 | 13,269 | 5 |
 | 2023-08-05 | 13,281 | 5 |
 | 2023-08-06 | 13,301 | 5 |
+| 2023-08-07 | 13,303 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,786 (Ranked 206)  

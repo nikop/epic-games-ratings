@@ -17,25 +17,25 @@
 | Employee of the week | 76.00% | ~176 |
 | Your own amateur gym | 74.00% | ~172 |
 | Run K, run! | 72.00% | ~167 |
-| Hello, world! | 68.00% | ~158 |
+| Hello, world! | 69.00% | ~160 |
 | Fighting is cool | 67.00% | ~155 |
 | No bullying more | 67.00% | ~155 |
-| Pal of your father? | 64.00% | ~148 |
-| Employee of the month | 63.00% | ~146 |
+| Pal of your father? | 65.00% | ~151 |
+| Employee of the month | 64.00% | ~148 |
 | Spirit of the past | 62.00% | ~144 |
-| Law student | 59.00% | ~137 |
+| Law student | 60.00% | ~139 |
+| Little hacker | 58.00% | ~135 |
 | Intriguing candies | 58.00% | ~135 |
 | Workout professional | 57.00% | ~132 |
-| Little hacker | 57.00% | ~132 |
 | It's good to be alive | 57.00% | ~132 |
 | Handyman | 56.00% | ~130 |
 | Champion – starter pack | 56.00% | ~130 |
 | Own four walls | 56.00% | ~130 |
 | Employee of the year | 55.00% | ~128 |
 | Fight for life | 54.00% | ~125 |
-| Legal courier | 50.00% | ~116 |
-| Extreme neuropower! | 50.00% | ~116 |
-| Escaped from a big trouble | 48.00% | ~111 |
+| Legal courier | 51.00% | ~118 |
+| Extreme neuropower! | 51.00% | ~118 |
+| Escaped from a big trouble | 49.00% | ~114 |
 | Now you are worthy | 45.00% | ~104 |
 | No blades in the gym | 44.00% | ~102 |
 | Guiding on the right path | 44.00% | ~102 |

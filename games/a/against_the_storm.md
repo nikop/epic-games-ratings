@@ -22,6 +22,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 3.00% | ~486 |
 | Lost Colonies | 3.00% | ~486 |
 | Watchtower | 3.00% | ~486 |
+| Cursed Lands | 3.00% | ~486 |
 | A Real Challenge | 3.00% | ~486 |
 | Trade Baron | 3.00% | ~486 |
 | Serving Ale | 2.00% | ~324 |
@@ -38,7 +39,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 2.00% | ~324 |
 | Forsaken Gods Temple | 2.00% | ~324 |
 | Corrosive Torrent | 2.00% | ~324 |
-| Cursed Lands | 2.00% | ~324 |
 | Like a Machine | 2.00% | ~324 |
 | Defying the Crown | 2.00% | ~324 |
 | Into the Forest | 2.00% | ~324 |

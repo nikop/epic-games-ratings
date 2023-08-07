@@ -1,7 +1,7 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.67 (Ranked 257)  
+Rating: 4.68 (Ranked 242)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,9 +22,9 @@ Number of Ratings: 111  (23.09.2022)
 | Bottom ply killer | 6.00% | ~162 |
 | Fashionista | 6.00% | ~162 |
 | Finally he zips it | 6.00% | ~162 |
+| Fulfilled the dream | 6.00% | ~162 |
 | Tight lipslides | 6.00% | ~162 |
 | Commence the Hijinx! | 5.00% | ~135 |
-| Fulfilled the dream | 5.00% | ~135 |
 | G'Day Mate! | 5.00% | ~135 |
 | Globetrotter | 5.00% | ~135 |
 | Laid back | 5.00% | ~135 |
@@ -302,3 +302,4 @@ Diff (max vs sum): 90
 | 2023-08-02 | 4.67 | - | 50 | 443 |
 | 2023-08-03 | 4.67 | - | 51 | 444 |
 | 2023-08-06 | 4.67 | - | 51 | 446 |
+| 2023-08-07 | 4.68 | - | 51 | 446 |

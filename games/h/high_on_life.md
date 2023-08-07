@@ -5,18 +5,18 @@ Rating: 4.66 (Ranked 272)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,799 |
-| Mods Please Ban | 77.00% | ~18,368 |
-| Bring A Knife to a Gun Fight | 76.00% | ~18,129 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,413 |
-| First Bounty Down | 59.00% | ~14,074 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,597 |
-| Luglox Genocide | 43.00% | ~10,257 |
+| Eye Scream, You Scream | 83.00% | ~19,800 |
+| Mods Please Ban | 77.00% | ~18,369 |
+| Bring A Knife to a Gun Fight | 76.00% | ~18,131 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,415 |
+| First Bounty Down | 59.00% | ~14,075 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,598 |
+| Luglox Genocide | 43.00% | ~10,258 |
 | Playing Card To Get | 33.00% | ~7,872 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,872 |
 | Creature Feature | 29.00% | ~6,918 |
-| Satisfied Gus-tomer | 28.00% | ~6,679 |
-| Cold-Blooded Driller | 28.00% | ~6,679 |
+| Satisfied Gus-tomer | 28.00% | ~6,680 |
+| Cold-Blooded Driller | 28.00% | ~6,680 |
 | Are You Packin'? | 25.00% | ~5,964 |
 | G3 Graduation | 25.00% | ~5,964 |
 | RIP Davey Glutes | 24.00% | ~5,725 |
@@ -25,12 +25,12 @@ Rating: 4.66 (Ranked 272)
 | Series Wrap on Suit-O | 22.00% | ~5,248 |
 | Lezduit! | 20.00% | ~4,771 |
 | Who's The Boss? | 20.00% | ~4,771 |
-| Self-Actualization | 19.00% | ~4,532 |
-| Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,532 |
+| Self-Actualization | 19.00% | ~4,533 |
+| Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,533 |
 | Legendary Bounty Hunter | 18.00% | ~4,294 |
 | Seeing All The Sights | 16.00% | ~3,817 |
-| We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,862 |
-| Carried Stan's Load To Completion | 12.00% | ~2,862 |
+| Carried Stan's Load To Completion | 13.00% | ~3,101 |
+| We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,863 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,147 |
 | Sequel-Bait | 8.00% | ~1,908 |
 | Gunning For Your Job | 7.00% | ~1,670 |
@@ -38,7 +38,7 @@ Rating: 4.66 (Ranked 272)
 | Epic Legendary Prize | 1.00% | ~239 |
 | A Starfish Is Born | 1.00% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,854 (Ranked 102)  
+Progressed: 23,856 (Ranked 102)  
 Completed: 11 (0.05%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 11 (0.05%) (Ranked 215)
 | 2023-08-04 | 23,823 | 11 |
 | 2023-08-05 | 23,838 | 11 |
 | 2023-08-06 | 23,853 | 11 |
-| 2023-08-07 | 23,854 | 11 |
+| 2023-08-07 | 23,856 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
