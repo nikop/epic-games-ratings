@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3778,
+  "EOS_Progressed": 3779,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5417,6 +5417,11 @@
       "Time": "2023-08-07T08:05:33.7916619+00:00",
       "NumProgressed": 3778,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-07T12:05:15.3419616+00:00",
+      "NumProgressed": 3779,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -5796,7 +5801,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "Ach048",
@@ -5828,7 +5833,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "Ach052",
@@ -5995,13 +6000,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3778,
+      "Progressed": 3779,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2299,
+      "Progressed": 2300,
       "Completed": 1928
     }
   ],
@@ -6009,8 +6014,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-08-07T11:05:14.084385+00:00",
+  "LastChanged_Achievements": "2023-08-07T12:05:15.3419611+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:24.9640697+00:00",
-  "LastUpdate_Ratings": "2023-08-07T10:59:24.7836837+00:00",
-  "LastUpdate_Achievements": "2023-08-07T11:05:14.0844661+00:00"
+  "LastUpdate_Ratings": "2023-08-07T11:59:49.1217836+00:00",
+  "LastUpdate_Achievements": "2023-08-07T12:05:15.3420445+00:00"
 }

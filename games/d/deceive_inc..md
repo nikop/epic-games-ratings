@@ -13,10 +13,10 @@ Rating: 4.56 (Ranked 468)
 | From the Vault with Love | 18.00% | ~3,073 |
 | Tailor-Made | 18.00% | ~3,073 |
 | For your Eyes only | 18.00% | ~3,073 |
-| Assistant Accountant | 17.00% | ~2,902 |
-| Fully Decked Out | 17.00% | ~2,902 |
+| Assistant Accountant | 17.00% | ~2,903 |
+| Fully Decked Out | 17.00% | ~2,903 |
 | You Only Live Twice | 16.00% | ~2,732 |
-| A view to Win | 13.00% | ~2,219 |
+| A view to Win | 13.00% | ~2,220 |
 | The Living Portrait | 12.00% | ~2,049 |
 | Private Collection | 12.00% | ~2,049 |
 | Killer Looks | 12.00% | ~2,049 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 468)
 | Extraction Confusion | 0.20% | ~34 |
 | Spyfall | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,072 (Ranked 109)  
+Progressed: 17,074 (Ranked 109)  
 Completed: 1 (0.01%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 1 (0.01%) (Ranked 237)
 | 2023-08-04 | 16,915 | 1 |
 | 2023-08-05 | 16,981 | 1 |
 | 2023-08-06 | 17,048 | 1 |
-| 2023-08-07 | 17,072 | 1 |
+| 2023-08-07 | 17,074 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

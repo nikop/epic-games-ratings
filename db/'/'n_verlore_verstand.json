@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
     "PcReleaseDate": "2016-02-01T10:30:00+00:00",
@@ -282,9 +282,9 @@
       "ID": "27",
       "SetID": "6m1k8ai",
       "Name": "A thing of beauty",
-      "Percentage": 82,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "28",
@@ -521,8 +521,8 @@
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-08-07T11:05:50.8813794+00:00",
+  "LastChanged_Achievements": "2023-08-07T12:05:57.9172706+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:18.9353376+00:00",
-  "LastUpdate_Ratings": "2023-08-07T10:59:20.6133412+00:00",
-  "LastUpdate_Achievements": "2023-08-07T11:05:50.8814117+00:00"
+  "LastUpdate_Ratings": "2023-08-07T11:59:42.854595+00:00",
+  "LastUpdate_Achievements": "2023-08-07T12:05:57.9173024+00:00"
 }

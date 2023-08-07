@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 814,
+  "EOS_Progressed": 815,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2856,6 +2856,11 @@
       "Time": "2023-08-07T11:06:32.428508+00:00",
       "NumProgressed": 814,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-07T12:06:44.9996541+00:00",
+      "NumProgressed": 815,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2883,7 +2888,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ach_defeat_players_100",
@@ -2947,7 +2952,7 @@
       "Name": "Keeping Busy",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "objective_headquarters_15",
@@ -3107,7 +3112,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -3123,7 +3128,7 @@
       "Name": "Defenses Online",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -3170,14 +3175,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 814,
+      "Progressed": 815,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-07T11:06:32.4285073+00:00",
+  "LastChanged_Achievements": "2023-08-07T12:06:44.9996537+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:21.6461868+00:00",
-  "LastUpdate_Ratings": "2023-08-07T10:57:26.1157449+00:00",
-  "LastUpdate_Achievements": "2023-08-07T11:06:32.4285445+00:00"
+  "LastUpdate_Ratings": "2023-08-07T11:57:16.62966+00:00",
+  "LastUpdate_Achievements": "2023-08-07T12:06:44.9996894+00:00"
 }

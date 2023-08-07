@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -1519,9 +1519,9 @@
       "ID": "HastrmanRum",
       "SetID": "db30heh",
       "Name": "That\u0027s Not Water",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 75
     },
     {
       "ID": "HatFlower",
@@ -1702,8 +1702,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-07T11:06:48.9819709+00:00",
+  "LastChanged_Achievements": "2023-08-07T12:07:03.9592733+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-07T10:57:45.5365396+00:00",
-  "LastUpdate_Achievements": "2023-08-07T11:06:48.982004+00:00"
+  "LastUpdate_Ratings": "2023-08-07T11:57:43.3266027+00:00",
+  "LastUpdate_Achievements": "2023-08-07T12:07:03.9593181+00:00"
 }

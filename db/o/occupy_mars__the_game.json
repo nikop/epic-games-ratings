@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1478,
+  "EOS_Progressed": 1479,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3053,6 +3053,11 @@
       "Time": "2023-08-07T02:02:48.9747816+00:00",
       "NumProgressed": 1478,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-07T12:05:43.9054746+00:00",
+      "NumProgressed": 1479,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3168,7 +3173,7 @@
       "Name": "All Wheel Trouble",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -3288,7 +3293,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -3400,7 +3405,7 @@
       "Name": "Space Forest",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPOTTY_FRIEND",
@@ -3447,7 +3452,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1478,
+      "Progressed": 1479,
       "Completed": 0
     }
   ],
@@ -3455,8 +3460,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-07-31T07:57:50.7109089+00:00",
-  "LastChanged_Achievements": "2023-08-07T11:05:39.0291552+00:00",
+  "LastChanged_Achievements": "2023-08-07T12:05:43.9054741+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.4356616+00:00",
-  "LastUpdate_Ratings": "2023-08-07T10:58:22.0712505+00:00",
-  "LastUpdate_Achievements": "2023-08-07T11:05:39.0291958+00:00"
+  "LastUpdate_Ratings": "2023-08-07T11:58:25.1929983+00:00",
+  "LastUpdate_Achievements": "2023-08-07T12:05:43.9055229+00:00"
 }

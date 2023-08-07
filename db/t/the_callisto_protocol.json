@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1064,9 +1064,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15823,
+  "EOS_Progressed": 15824,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -6289,6 +6289,11 @@
       "Time": "2023-08-06T06:03:22.6234664+00:00",
       "NumProgressed": 15823,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-08-07T12:03:48.1708417+00:00",
+      "NumProgressed": 15824,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 47,
@@ -6604,7 +6609,7 @@
       "Name": "Subject Alpha",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SPEND_20000",
@@ -6644,7 +6649,7 @@
       "Name": "One Last Job",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "KILL_BIOBOT",
@@ -6675,13 +6680,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15823,
+      "Progressed": 15824,
       "Completed": 71
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3749,
+      "Progressed": 3750,
       "Completed": 29
     }
   ],
@@ -6689,8 +6694,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-08-06T22:58:59.3849893+00:00",
-  "LastChanged_Achievements": "2023-08-07T11:04:14.51932+00:00",
+  "LastChanged_Achievements": "2023-08-07T12:03:48.170841+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:48.8250875+00:00",
-  "LastUpdate_Ratings": "2023-08-07T10:58:55.6991533+00:00",
-  "LastUpdate_Achievements": "2023-08-07T11:04:14.5193772+00:00"
+  "LastUpdate_Ratings": "2023-08-07T11:59:05.9621782+00:00",
+  "LastUpdate_Achievements": "2023-08-07T12:03:48.1708981+00:00"
 }

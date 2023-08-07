@@ -87,6 +87,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.50% | ~67 |
 | Persian Paganism | 0.50% | ~67 |
 | Building Wonders | 0.50% | ~67 |
+| Legalism | 0.50% | ~67 |
 | Phalangite | 0.50% | ~67 |
 | Double Victory | 0.50% | ~67 |
 | Devout | 0.40% | ~53 |
@@ -110,7 +111,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.40% | ~53 |
 | Economic Reform | 0.40% | ~53 |
 | Dualism | 0.40% | ~53 |
-| Legalism | 0.40% | ~53 |
+| Enlightenment | 0.40% | ~53 |
 | Redemption | 0.40% | ~53 |
 | Cimmerian Archer | 0.40% | ~53 |
 | Legionary | 0.40% | ~53 |
@@ -129,7 +130,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.30% | ~40 |
 | Industrial Progress | 0.30% | ~40 |
 | Military Prestige | 0.30% | ~40 |
-| Enlightenment | 0.30% | ~40 |
 | Gnosticism | 0.30% | ~40 |
 | Revelation | 0.30% | ~40 |
 | Veneration | 0.30% | ~40 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,307 (Ranked 117)  
+Progressed: 13,308 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,7 +412,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-04 | 13,269 | 5 |
 | 2023-08-05 | 13,281 | 5 |
 | 2023-08-06 | 13,301 | 5 |
-| 2023-08-07 | 13,307 | 5 |
+| 2023-08-07 | 13,308 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,786 (Ranked 206)  

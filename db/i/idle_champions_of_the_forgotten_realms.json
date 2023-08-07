@@ -5570,10 +5570,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30931,
       "NumberOfAwardsMax": 5121
+    },
+    {
+      "Time": "2023-08-07T11:59:17.6887799+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30932,
+      "NumberOfAwardsMax": 5121
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30931,
+  "NumberOfAwards": 30932,
   "NumberOfAwardsMax": 5121,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5605,7 +5611,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4036
+      "Count": 4037
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5620,9 +5626,9 @@
       "Count": 3345
     }
   ],
-  "EOS_Progressed": 219553,
+  "EOS_Progressed": 219567,
   "EOS_Completed": 2160,
-  "EOS_NewPlayers": 2208,
+  "EOS_NewPlayers": 2211,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17375,6 +17381,11 @@
       "Time": "2023-08-07T11:03:23.2862426+00:00",
       "NumProgressed": 219553,
       "NumCompleted": 2160
+    },
+    {
+      "Time": "2023-08-07T12:02:01.708995+00:00",
+      "NumProgressed": 219567,
+      "NumCompleted": 2160
     }
   ],
   "TotalAchievements": 512,
@@ -17386,7 +17397,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8782
+      "UsersEstimate": 8783
     },
     {
       "ID": "objective_completed_10",
@@ -17426,7 +17437,7 @@
       "Name": "Cold as Ice",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_1041",
@@ -17466,7 +17477,7 @@
       "Name": "Nightmare Rats!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_1052",
@@ -17658,7 +17669,7 @@
       "Name": "Downfall",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_1086",
@@ -17698,7 +17709,7 @@
       "Name": "Slack-jawed Lorna",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_1091",
@@ -17730,7 +17741,7 @@
       "Name": "The Fairy Rings of Thither",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_1096",
@@ -17898,7 +17909,7 @@
       "Name": "Will of the Feywild",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_1133",
@@ -18042,7 +18053,7 @@
       "Name": "Flapjacks and Waffles",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_116",
@@ -18074,7 +18085,7 @@
       "Name": "Overwhelmed with Knowledge",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_1165",
@@ -18098,7 +18109,7 @@
       "Name": "Well Equipped",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_117",
@@ -18114,7 +18125,7 @@
       "Name": "More Than Well Equipped",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_1173",
@@ -18138,7 +18149,7 @@
       "Name": "Keep Your Distance",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_1178",
@@ -18194,7 +18205,7 @@
       "Name": "The Castle of a Thousand Vecnas",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_1189",
@@ -18218,7 +18229,7 @@
       "Name": "The Sanctum of the Sword",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_1194",
@@ -18234,7 +18245,7 @@
       "Name": "Get Back In The Castle",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_1199",
@@ -18258,7 +18269,7 @@
       "Name": "Checkmate",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_1204",
@@ -18274,7 +18285,7 @@
       "Name": "Vecna Out!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_1209",
@@ -18642,7 +18653,7 @@
       "Name": "The Newcomers of Notoriety",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_179",
@@ -19058,7 +19069,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "objective_completed_34",
@@ -20154,7 +20165,7 @@
       "Name": "Into The Fire",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_631",
@@ -20186,7 +20197,7 @@
       "Name": "Dreamscape",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_636",
@@ -20498,7 +20509,7 @@
       "Name": "The Everlasting Rime",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_696",
@@ -20618,7 +20629,7 @@
       "Name": "Moose Tracks",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_803",
@@ -20650,7 +20661,7 @@
       "Name": "Civilization",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_808",
@@ -20746,7 +20757,7 @@
       "Name": "Dwarven Rumors",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_828",
@@ -21330,7 +21341,7 @@
       "Name": "Willing to Sacrifice",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_1047",
@@ -21362,7 +21373,7 @@
       "Name": "Tiny Treaty",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_1332",
@@ -21442,7 +21453,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "objective_completed_1386",
@@ -21481,21 +21492,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 185827,
+      "Progressed": 185841,
       "Completed": 3065
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219553,
+      "Progressed": 219567,
       "Completed": 2160
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-07T03:58:35.5269955+00:00",
-  "LastChanged_Achievements": "2023-08-07T11:03:23.2862416+00:00",
+  "LastChanged": "2023-08-07T11:59:17.6887797+00:00",
+  "LastChanged_Achievements": "2023-08-07T12:02:01.7089945+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-07T10:59:02.240488+00:00",
-  "LastUpdate_Achievements": "2023-08-07T11:03:23.2885308+00:00"
+  "LastUpdate_Ratings": "2023-08-07T11:59:17.6887803+00:00",
+  "LastUpdate_Achievements": "2023-08-07T12:02:01.7113422+00:00"
 }

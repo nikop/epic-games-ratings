@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 455,
+  "EOS_Progressed": 456,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1288,6 +1288,11 @@
       "Time": "2023-08-07T04:05:29.2907825+00:00",
       "NumProgressed": 455,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-07T12:06:27.4370373+00:00",
+      "NumProgressed": 456,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1403,7 +1408,7 @@
       "Name": "Explorer",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACH_COLL_20",
@@ -1411,7 +1416,7 @@
       "Name": "Prospector",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -1419,7 +1424,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -1441,9 +1446,9 @@
       "ID": "ACH_COLL_CH03",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter III",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_COLL_CH04",
@@ -1539,7 +1544,7 @@
       "Name": "The Motivation",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -1547,7 +1552,7 @@
       "Name": "Heroism",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -1563,7 +1568,7 @@
       "Name": "Opportunities",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -1571,7 +1576,7 @@
       "Name": "The Horror",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -1585,9 +1590,9 @@
       "ID": "ACH_FIN_CH09",
       "SetID": "1j25agn",
       "Name": "Vengeance",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -1643,7 +1648,7 @@
       "Name": "Missing in Action",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -1705,9 +1710,9 @@
       "ID": "ACH_KILL_OFFICER",
       "SetID": "1j25agn",
       "Name": "Eat Lead!",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -1770,15 +1775,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 455,
+      "Progressed": 456,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-08-07T11:06:17.0592722+00:00",
+  "LastChanged_Achievements": "2023-08-07T12:06:27.4370368+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:49.2531898+00:00",
-  "LastUpdate_Ratings": "2023-08-07T10:58:24.5949617+00:00",
-  "LastUpdate_Achievements": "2023-08-07T11:06:17.0593188+00:00"
+  "LastUpdate_Ratings": "2023-08-07T11:58:28.2524881+00:00",
+  "LastUpdate_Achievements": "2023-08-07T12:06:27.4370824+00:00"
 }

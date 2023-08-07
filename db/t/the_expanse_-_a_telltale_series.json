@@ -4,8 +4,8 @@
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 29,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 30,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5154,
+  "EOS_Progressed": 5161,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3147,
+  "EOS_NewPlayers": 3116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1087,6 +1087,11 @@
       "Time": "2023-08-07T11:06:08.5326848+00:00",
       "NumProgressed": 5154,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-07T12:06:17.9321696+00:00",
+      "NumProgressed": 5161,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -1139,7 +1144,7 @@
       "Name": "Doctor Approved",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "15",
@@ -1275,7 +1280,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "30",
@@ -1338,14 +1343,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 5154,
+      "Progressed": 5161,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-07T11:06:08.5326843+00:00",
+  "LastChanged_Achievements": "2023-08-07T12:06:17.9321692+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:06.3145817+00:00",
-  "LastUpdate_Ratings": "2023-08-07T11:00:01.477343+00:00",
-  "LastUpdate_Achievements": "2023-08-07T11:06:08.5327071+00:00"
+  "LastUpdate_Ratings": "2023-08-07T12:00:30.8819581+00:00",
+  "LastUpdate_Achievements": "2023-08-07T12:06:17.9321917+00:00"
 }

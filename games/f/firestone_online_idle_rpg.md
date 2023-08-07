@@ -39,9 +39,9 @@ Rating: 4.08 (Ranked 908)
 | Relic Of The Past | 10.00% | ~178 |
 | Scroll Master | 10.00% | ~178 |
 | Four Leaf Clover | 9.00% | ~160 |
+| Master Enchanter | 9.00% | ~160 |
 | The father of Dragons | 9.00% | ~160 |
 | Here We Go Again | 8.00% | ~142 |
-| Master Enchanter | 8.00% | ~142 |
 | Trader | 8.00% | ~142 |
 | Crystal Mining | 7.00% | ~124 |
 | Dragon Slayer | 7.00% | ~124 |

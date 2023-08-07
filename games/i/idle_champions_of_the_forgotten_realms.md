@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,782 |
+| A Brief Tour of the Realms | 4.00% | ~8,783 |
 | Beast Intentions | 3.00% | ~6,587 |
 | Maddening | 2.00% | ~4,391 |
 | The Silken Swamp | 1.00% | ~2,196 |
@@ -14,11 +14,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Lives! | 1.00% | ~1,858 |
 | Rocky Reception | 1.00% | ~1,858 |
 | Rock and Roll | 1.00% | ~1,858 |
-| Flight of the Kindori Pod | 0.90% | ~1,672 |
+| Flight of the Kindori Pod | 0.90% | ~1,673 |
 | Tall Tales | 0.80% | ~1,487 |
 | Seeds of Destruction | 0.80% | ~1,487 |
 | Vecna Loots! | 0.80% | ~1,487 |
-| The Cursed Farmer | 0.80% | ~1,756 |
+| The Cursed Farmer | 0.80% | ~1,757 |
 | Topolah's Tower | 0.80% | ~1,487 |
 | Pros and CONs | 0.70% | ~1,537 |
 | Wet Feet | 0.70% | ~1,537 |
@@ -106,28 +106,28 @@ Number of Ratings: 9,041  (23.09.2022)
 | Electric Mayhem | 0.40% | ~743 |
 | 3,720 to 1 | 0.40% | ~743 |
 | Starving in the Jungle | 0.30% | ~659 |
-| Cold as Ice | 0.30% | ~557 |
-| Nightmare Rats! | 0.30% | ~557 |
-| Downfall | 0.30% | ~557 |
-| Slack-jawed Lorna | 0.30% | ~557 |
-| The Fairy Rings of Thither | 0.30% | ~557 |
-| Will of the Feywild | 0.30% | ~557 |
-| Flapjacks and Waffles | 0.30% | ~557 |
-| Overwhelmed with Knowledge | 0.30% | ~557 |
-| Well Equipped | 0.30% | ~557 |
-| More Than Well Equipped | 0.30% | ~557 |
-| Keep Your Distance | 0.30% | ~557 |
-| The Castle of a Thousand Vecnas | 0.30% | ~557 |
-| The Sanctum of the Sword | 0.30% | ~557 |
-| Get Back In The Castle | 0.30% | ~557 |
-| Checkmate | 0.30% | ~557 |
-| Vecna Out! | 0.30% | ~557 |
+| Cold as Ice | 0.30% | ~558 |
+| Nightmare Rats! | 0.30% | ~558 |
+| Downfall | 0.30% | ~558 |
+| Slack-jawed Lorna | 0.30% | ~558 |
+| The Fairy Rings of Thither | 0.30% | ~558 |
+| Will of the Feywild | 0.30% | ~558 |
+| Flapjacks and Waffles | 0.30% | ~558 |
+| Overwhelmed with Knowledge | 0.30% | ~558 |
+| Well Equipped | 0.30% | ~558 |
+| More Than Well Equipped | 0.30% | ~558 |
+| Keep Your Distance | 0.30% | ~558 |
+| The Castle of a Thousand Vecnas | 0.30% | ~558 |
+| The Sanctum of the Sword | 0.30% | ~558 |
+| Get Back In The Castle | 0.30% | ~558 |
+| Checkmate | 0.30% | ~558 |
+| Vecna Out! | 0.30% | ~558 |
 | Lobsterfolk Assault | 0.30% | ~659 |
 | Home Field Advantage | 0.30% | ~659 |
 | Force Grey Unleashed | 0.30% | ~659 |
 | Vajra's Guards | 0.30% | ~659 |
 | Sleuth It Out | 0.30% | ~659 |
-| The Newcomers of Notoriety | 0.30% | ~557 |
+| The Newcomers of Notoriety | 0.30% | ~558 |
 | Azaka's Procession - Part 1 | 0.30% | ~659 |
 | Azaka's Procession - Part 2 | 0.30% | ~659 |
 | The Hunt for Owl-y | 0.30% | ~659 |
@@ -157,21 +157,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.30% | ~659 |
 | Resolve Amongst Chaos | 0.30% | ~659 |
 | Market Fluctuations | 0.30% | ~659 |
-| Into The Fire | 0.30% | ~557 |
-| Dreamscape | 0.30% | ~557 |
-| The Everlasting Rime | 0.30% | ~557 |
+| Into The Fire | 0.30% | ~558 |
+| Dreamscape | 0.30% | ~558 |
+| The Everlasting Rime | 0.30% | ~558 |
 | Close Escort | 0.30% | ~659 |
 | Constant Banditry | 0.30% | ~659 |
 | The Long Haul | 0.30% | ~659 |
 | Rude Welcome | 0.30% | ~659 |
-| Moose Tracks | 0.30% | ~557 |
-| Civilization | 0.30% | ~557 |
+| Moose Tracks | 0.30% | ~558 |
+| Civilization | 0.30% | ~558 |
 | Durable Deep | 0.30% | ~659 |
 | Expert Opinion | 0.30% | ~659 |
-| Dwarven Rumors | 0.30% | ~557 |
+| Dwarven Rumors | 0.30% | ~558 |
 | Rescue in the Jungle | 0.30% | ~659 |
-| Willing to Sacrifice | 0.30% | ~557 |
-| Tiny Treaty | 0.30% | ~557 |
+| Willing to Sacrifice | 0.30% | ~558 |
+| Tiny Treaty | 0.30% | ~558 |
 | Friends and Foes | 0.20% | ~372 |
 | An Unexpected Geist | 0.20% | ~372 |
 | Back to Nature | 0.20% | ~372 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,553 (Ranked 52)  
+Progressed: 219,567 (Ranked 52)  
 Completed: 2,160 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,10 +628,10 @@ Completed: 2,160 (0.98%) (Ranked 114)
 | 2023-08-04 | 218,717 | 2,152 |
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
-| 2023-08-07 | 219,553 | 2,160 |
+| 2023-08-07 | 219,567 | 2,160 |
 ## Awards
 Max (Diverse Characters): 5,121  (Ranked 67)  
-Sum: 30,931 (Ranked 38)  
+Sum: 30,932 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -640,7 +640,7 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 4,704 |
 | This game is Relaxing | 4,598 |
 | This game has Amazing Characters | 4,055 |
-| This game is Highly Recommended | 4,036 |
+| This game is Highly Recommended | 4,037 |
 | This game has Playful Visuals | 3,345 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -838,4 +838,4 @@ Diff (max vs sum): 29
 | 2023-08-04 | 4.05 | - | 5,116 | 30,897 |
 | 2023-08-05 | 4.05 | - | 5,119 | 30,910 |
 | 2023-08-06 | 4.06 | - | 5,121 | 30,921 |
-| 2023-08-07 | 4.06 | - | 5,121 | 30,931 |
+| 2023-08-07 | 4.06 | - | 5,121 | 30,932 |
