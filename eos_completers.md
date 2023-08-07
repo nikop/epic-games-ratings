@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 44.64% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 43.86% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.29% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
@@ -36,7 +36,7 @@
 | 34 | [Ravenlok](games/r/ravenlok.md) | 7.41% |
 | 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.07% |
 | 36 | [Scorn](games/s/scorn.md) | 6.97% |
-| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
+| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.93% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.90% |
 | 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.40% |
 | 40 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -82,7 +82,7 @@
 | 80 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.37% |
 | 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.35% |
-| 83 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.29% |
+| 83 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
 | 84 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
 | 85 | [FORECLOSED](games/f/foreclosed.md) | 2.20% |
 | 86 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.06% |
