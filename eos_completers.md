@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 44.44% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.30% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 32.35% |
@@ -99,8 +99,8 @@
 | 97 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.59% |
 | 98 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 99 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.49% |
-| 100 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.47% |
-| 101 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
+| 100 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
+| 100 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
 | 102 | [Poosh XL](games/p/poosh_xl.md) | 1.44% |
 | 103 | [Five Dates](games/f/five_dates.md) | 1.40% |
 | 104 | [Late Shift](games/l/late_shift.md) | 1.32% |
