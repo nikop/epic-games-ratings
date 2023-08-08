@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5644,10 +5644,10 @@
       "Count": 3345
     }
   ],
-  "EOS_Progressed": 219858,
-  "EOS_Completed": 2164,
-  "EOS_NewPlayers": 2246,
-  "EOS_NewCompleters": 23,
+  "EOS_Progressed": 219872,
+  "EOS_Completed": 2165,
+  "EOS_NewPlayers": 2248,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -17514,6 +17514,11 @@
       "Time": "2023-08-08T11:02:19.5741721+00:00",
       "NumProgressed": 219858,
       "NumCompleted": 2164
+    },
+    {
+      "Time": "2023-08-08T12:02:40.4655397+00:00",
+      "NumProgressed": 219872,
+      "NumCompleted": 2165
     }
   ],
   "TotalAchievements": 512,
@@ -17525,7 +17530,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10993
+      "UsersEstimate": 10994
     },
     {
       "ID": "objective_completed_10",
@@ -17579,9 +17584,9 @@
       "ID": "objective_completed_1045",
       "SetID": "415jc5c",
       "Name": "Friends and Foes",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 558
     },
     {
       "ID": "objective_completed_1046",
@@ -17595,9 +17600,9 @@
       "ID": "objective_completed_1050",
       "SetID": "415jc5c",
       "Name": "Tall Tales",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1675
     },
     {
       "ID": "objective_completed_1051",
@@ -21403,9 +21408,9 @@
       "ID": "objective_completed_95",
       "SetID": "cc37lbc",
       "Name": "The Haunted Jungle",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 440
+      "UsersEstimate": 660
     },
     {
       "ID": "objective_completed_96",
@@ -21620,21 +21625,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 186132,
+      "Progressed": 186146,
       "Completed": 3069
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219858,
-      "Completed": 2164
+      "Progressed": 219872,
+      "Completed": 2165
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-08T10:58:53.9894095+00:00",
-  "LastChanged_Achievements": "2023-08-08T11:02:19.5741717+00:00",
+  "LastChanged_Achievements": "2023-08-08T12:02:40.4655391+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-08T10:58:53.9894105+00:00",
-  "LastUpdate_Achievements": "2023-08-08T11:02:19.5765142+00:00"
+  "LastUpdate_Ratings": "2023-08-08T11:59:20.9584541+00:00",
+  "LastUpdate_Achievements": "2023-08-08T12:02:40.4678992+00:00"
 }

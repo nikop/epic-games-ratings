@@ -7,13 +7,13 @@
 | Such a strange dream… | 87.00% | ~205 |
 | Your first fight | 86.00% | ~203 |
 | Good Person Chip | 85.00% | ~201 |
-| First winning | 83.00% | ~196 |
+| First winning | 84.00% | ~198 |
 | Your first job | 83.00% | ~196 |
 | Old movies enjoyer | 79.00% | ~186 |
 | Fitness professional | 77.00% | ~182 |
-| First defeat | 76.00% | ~179 |
-| Depressed visitor | 76.00% | ~179 |
-| Neurotrainer – power gainer! | 75.00% | ~177 |
+| First defeat | 77.00% | ~182 |
+| Depressed visitor | 77.00% | ~182 |
+| Neurotrainer – power gainer! | 76.00% | ~179 |
 | Employee of the week | 75.00% | ~177 |
 | Your own amateur gym | 74.00% | ~175 |
 | Run K, run! | 72.00% | ~170 |
@@ -27,9 +27,9 @@
 | Workout professional | 58.00% | ~137 |
 | Little hacker | 58.00% | ~137 |
 | It's good to be alive | 58.00% | ~137 |
+| Intriguing candies | 58.00% | ~137 |
 | Champion – starter pack | 57.00% | ~135 |
 | Own four walls | 57.00% | ~135 |
-| Intriguing candies | 57.00% | ~135 |
 | Handyman | 56.00% | ~132 |
 | Employee of the year | 56.00% | ~132 |
 | Fight for life | 55.00% | ~130 |

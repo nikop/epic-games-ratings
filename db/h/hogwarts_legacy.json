@@ -6030,9 +6030,9 @@
       "Count": 578
     }
   ],
-  "EOS_Progressed": 289638,
+  "EOS_Progressed": 289640,
   "EOS_Completed": 443,
-  "EOS_NewPlayers": 529,
+  "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -17880,6 +17880,11 @@
       "Time": "2023-08-08T11:05:08.3686583+00:00",
       "NumProgressed": 289638,
       "NumCompleted": 443
+    },
+    {
+      "Time": "2023-08-08T12:05:53.2772701+00:00",
+      "NumProgressed": 289640,
+      "NumCompleted": 443
     }
   ],
   "TotalAchievements": 45,
@@ -17899,7 +17904,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26067
+      "UsersEstimate": 26068
     },
     {
       "ID": "PFA_11",
@@ -17907,7 +17912,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26067
+      "UsersEstimate": 26068
     },
     {
       "ID": "PFA_12",
@@ -17915,7 +17920,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26067
+      "UsersEstimate": 26068
     },
     {
       "ID": "PFA_13",
@@ -17923,7 +17928,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26067
+      "UsersEstimate": 26068
     },
     {
       "ID": "PFA_14",
@@ -17947,7 +17952,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26067
+      "UsersEstimate": 26068
     },
     {
       "ID": "PFA_17",
@@ -18019,7 +18024,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26067
+      "UsersEstimate": 26068
     },
     {
       "ID": "PFA_25",
@@ -18075,7 +18080,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26067
+      "UsersEstimate": 26068
     },
     {
       "ID": "PFA_31",
@@ -18147,7 +18152,7 @@
       "Name": "Coasting Along",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26067
+      "UsersEstimate": 26068
     },
     {
       "ID": "PFA_4",
@@ -18250,7 +18255,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289638,
+      "Progressed": 289640,
       "Completed": 443
     }
   ],
@@ -18258,8 +18263,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-07T23:58:10.0326226+00:00",
-  "LastChanged_Achievements": "2023-08-08T11:05:08.3686576+00:00",
+  "LastChanged_Achievements": "2023-08-08T12:05:53.2772695+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.8672159+00:00",
-  "LastUpdate_Ratings": "2023-08-08T10:58:17.2132046+00:00",
-  "LastUpdate_Achievements": "2023-08-08T11:05:08.3687412+00:00"
+  "LastUpdate_Ratings": "2023-08-08T11:58:29.1725164+00:00",
+  "LastUpdate_Achievements": "2023-08-08T12:05:53.2773528+00:00"
 }

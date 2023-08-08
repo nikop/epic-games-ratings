@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 376,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 6.38,
   "EosHistory": [
@@ -1449,9 +1449,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 267
     },
     {
       "ID": "DevilRope",
@@ -1712,8 +1712,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-08T11:06:07.6510651+00:00",
+  "LastChanged_Achievements": "2023-08-08T12:07:12.9206762+00:00",
   "LastUpdate_AppInfo": "2023-08-01T14:57:27.1956147+00:00",
-  "LastUpdate_Ratings": "2023-08-08T10:57:42.170631+00:00",
-  "LastUpdate_Achievements": "2023-08-08T11:06:07.651101+00:00"
+  "LastUpdate_Ratings": "2023-08-08T11:57:43.5386319+00:00",
+  "LastUpdate_Achievements": "2023-08-08T12:07:12.9207096+00:00"
 }

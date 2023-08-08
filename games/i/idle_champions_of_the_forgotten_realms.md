@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~10,993 |
+| A Brief Tour of the Realms | 5.00% | ~10,994 |
 | Beast Intentions | 3.00% | ~6,596 |
 | Maddening | 2.00% | ~4,397 |
 | The Silken Swamp | 1.00% | ~2,199 |
@@ -14,9 +14,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Lives! | 1.00% | ~1,861 |
 | Rocky Reception | 1.00% | ~1,861 |
 | Rock and Roll | 1.00% | ~1,861 |
+| Tall Tales | 0.90% | ~1,675 |
 | Vecna Loots! | 0.90% | ~1,675 |
 | Flight of the Kindori Pod | 0.90% | ~1,675 |
-| Tall Tales | 0.80% | ~1,489 |
 | Seeds of Destruction | 0.80% | ~1,489 |
 | The Cursed Farmer | 0.80% | ~1,759 |
 | Topolah's Tower | 0.80% | ~1,489 |
@@ -110,6 +110,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | 3,720 to 1 | 0.40% | ~745 |
 | Starving in the Jungle | 0.30% | ~660 |
 | Cold as Ice | 0.30% | ~558 |
+| Friends and Foes | 0.30% | ~558 |
 | Nightmare Rats! | 0.30% | ~558 |
 | An Unexpected Geist | 0.30% | ~558 |
 | Slack-jawed Lorna | 0.30% | ~558 |
@@ -174,10 +175,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Durable Deep | 0.30% | ~660 |
 | Expert Opinion | 0.30% | ~660 |
 | Dwarven Rumors | 0.30% | ~558 |
+| The Haunted Jungle | 0.30% | ~660 |
 | Rescue in the Jungle | 0.30% | ~660 |
 | Willing to Sacrifice | 0.30% | ~558 |
 | Tiny Treaty | 0.30% | ~558 |
-| Friends and Foes | 0.20% | ~372 |
 | Back to Nature | 0.20% | ~372 |
 | A Monarch Among Us | 0.20% | ~372 |
 | A Dragon Against Us | 0.20% | ~372 |
@@ -260,7 +261,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ending the Rime - Part 2 | 0.20% | ~372 |
 | Reghed Glacier Mysteries | 0.20% | ~372 |
 | Tekeli-li's Hunt | 0.20% | ~372 |
-| The Haunted Jungle | 0.20% | ~440 |
 | Poor Guidance | 0.20% | ~440 |
 | Overwhelming Force | 0.20% | ~440 |
 | All The World's A Stage | 0.20% | ~372 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,858 (Ranked 52)  
-Completed: 2,164 (0.98%) (Ranked 114)  
+Progressed: 219,872 (Ranked 52)  
+Completed: 2,165 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -629,7 +629,7 @@ Completed: 2,164 (0.98%) (Ranked 114)
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
-| 2023-08-08 | 219,858 | 2,164 |
+| 2023-08-08 | 219,872 | 2,165 |
 ## Awards
 Max (Diverse Characters): 5,125  (Ranked 67)  
 Sum: 30,942 (Ranked 38)  

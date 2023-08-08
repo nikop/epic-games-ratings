@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -97,9 +97,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 655,
+  "EOS_Progressed": 656,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -427,6 +427,11 @@
       "Time": "2023-08-07T17:07:13.3606924+00:00",
       "NumProgressed": 655,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-08T12:06:16.1231705+00:00",
+      "NumProgressed": 656,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -526,7 +531,7 @@
       "Name": "I just love stuff!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "I_think_its_broke",
@@ -534,7 +539,7 @@
       "Name": "I think it\u0027s broke",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "In the smacker...I think",
@@ -550,7 +555,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "Lady_Luck",
@@ -566,7 +571,7 @@
       "Name": "Omnipotence",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "SERENITY_NOW",
@@ -606,7 +611,7 @@
       "Name": "Tell me your story",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -638,7 +643,7 @@
       "Name": "The Ann Flores Combo Experience",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "The_Warlord",
@@ -702,7 +707,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "posters",
@@ -725,7 +730,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 655,
+      "Progressed": 656,
       "Completed": 0
     }
   ],
@@ -733,8 +738,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-07-10T11:57:54.3747562+00:00",
-  "LastChanged_Achievements": "2023-08-08T11:05:26.1005337+00:00",
+  "LastChanged_Achievements": "2023-08-08T12:06:16.1231701+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:18.4758985+00:00",
-  "LastUpdate_Ratings": "2023-08-08T10:58:25.36531+00:00",
-  "LastUpdate_Achievements": "2023-08-08T11:05:26.1005565+00:00"
+  "LastUpdate_Ratings": "2023-08-08T11:58:40.8720005+00:00",
+  "LastUpdate_Achievements": "2023-08-08T12:06:16.123194+00:00"
 }

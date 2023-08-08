@@ -6,12 +6,12 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,136 |
-| Thorough | 10.00% | ~19,215 |
+| Genin | 11.00% | ~21,137 |
+| Thorough | 10.00% | ~19,216 |
 | A thief's beginning | 9.00% | ~17,294 |
-| Disguised | 8.00% | ~15,372 |
-| Rollin' | 8.00% | ~15,372 |
-| Tanuki Time | 8.00% | ~15,372 |
+| Disguised | 8.00% | ~15,373 |
+| Rollin' | 8.00% | ~15,373 |
+| Tanuki Time | 8.00% | ~15,373 |
 | Jonin | 7.00% | ~13,451 |
 | Rescue Takuma | 7.00% | ~13,451 |
 | Stoned Ox | 7.00% | ~13,451 |
@@ -27,9 +27,9 @@ Number of Ratings: 495  (23.09.2022)
 | Happy little accidents | 4.00% | ~7,686 |
 | Prisoners | 4.00% | ~7,686 |
 | Too Early | 4.00% | ~7,686 |
-| Noboru | 3.00% | ~5,764 |
-| Still Rollin' | 3.00% | ~5,764 |
-| Stoned | 3.00% | ~5,764 |
+| Noboru | 3.00% | ~5,765 |
+| Still Rollin' | 3.00% | ~5,765 |
+| Stoned | 3.00% | ~5,765 |
 | Atheist Ox | 2.00% | ~3,843 |
 | It's raining men | 2.00% | ~3,843 |
 | Old Man | 2.00% | ~3,843 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~192 |
 | Release the Kraken | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192,150 (Ranked 59)  
+Progressed: 192,158 (Ranked 59)  
 Completed: 67 (0.03%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,10 +161,10 @@ Completed: 67 (0.03%) (Ranked 225)
 | 2023-08-05 | 191,476 | 66 |
 | 2023-08-06 | 191,807 | 66 |
 | 2023-08-07 | 192,052 | 66 |
-| 2023-08-08 | 192,150 | 67 |
+| 2023-08-08 | 192,158 | 67 |
 ## Awards
 Max (Great for Beginners): 560  (Ranked 185)  
-Sum: 4,722 (Ranked 133)  
+Sum: 4,723 (Ranked 133)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -174,7 +174,7 @@ Diff (max vs sum): 52
 | This game has Amazing Storytelling | 503 |
 | This game has Amazing Characters | 485 |
 | This game is Highly Recommended | 482 |
-| This game is Relaxing | 478 |
+| This game is Relaxing | 479 |
 | This game has Challenging Combat | 477 |
 | This game has Quickly Understood Controls | 445 |
 | This game has a Creative Community | 245 |
@@ -329,3 +329,4 @@ Diff (max vs sum): 52
 | 2023-08-01 | 4.66 | - | 559 | 4,717 |
 | 2023-08-04 | 4.66 | - | 559 | 4,718 |
 | 2023-08-06 | 4.66 | - | 560 | 4,722 |
+| 2023-08-08 | 4.66 | - | 560 | 4,723 |

@@ -4,8 +4,8 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3333,
+  "EOS_Progressed": 3336,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2433,6 +2433,11 @@
       "Time": "2023-08-05T10:04:37.977355+00:00",
       "NumProgressed": 3333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-08T12:04:54.7385618+00:00",
+      "NumProgressed": 3336,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -2442,9 +2447,9 @@
       "ID": "ACH_BE",
       "SetID": "b3fep3o",
       "Name": "The Nameless One",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 67
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_B_DP",
@@ -2514,9 +2519,9 @@
       "ID": "ACH_ISL",
       "SetID": "b3fep3o",
       "Name": "Rule of Thirds",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_K_A1",
@@ -2626,9 +2631,9 @@
       "ID": "ACH_M_I",
       "SetID": "b3fep3o",
       "Name": "Hipparchia\u0027s Labour",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_M_PW",
@@ -2850,9 +2855,9 @@
       "ID": "ACH_TAR",
       "SetID": "b3fep3o",
       "Name": "Close Shut the Doors",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 67
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_TF",
@@ -2947,7 +2952,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3333,
+      "Progressed": 3336,
       "Completed": 0
     }
   ],
@@ -2955,8 +2960,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-08-08T11:04:25.134882+00:00",
+  "LastChanged_Achievements": "2023-08-08T12:04:54.7385614+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:39.3691778+00:00",
-  "LastUpdate_Ratings": "2023-08-08T11:00:19.75272+00:00",
-  "LastUpdate_Achievements": "2023-08-08T11:04:25.134937+00:00"
+  "LastUpdate_Ratings": "2023-08-08T12:01:15.4181223+00:00",
+  "LastUpdate_Achievements": "2023-08-08T12:04:54.7386195+00:00"
 }

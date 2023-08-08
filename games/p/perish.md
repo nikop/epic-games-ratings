@@ -31,11 +31,9 @@
 | Ophiolatreia | 3.00% | ~100 |
 | Halls of Marble | 3.00% | ~100 |
 | Serpentine | 3.00% | ~100 |
-| The Nameless One | 2.00% | ~67 |
 | Wayward Son of Hephaestus | 2.00% | ~67 |
 | Lament of the Constellations | 2.00% | ~67 |
 | Forged in Fire | 2.00% | ~67 |
-| Rule of Thirds | 2.00% | ~67 |
 | Rock and a Hard Place | 2.00% | ~67 |
 | The Midas Touch | 2.00% | ~67 |
 | Hapax Legomenon | 2.00% | ~67 |
@@ -44,19 +42,21 @@
 | Vandili | 2.00% | ~67 |
 | No Scylla in Sight | 2.00% | ~67 |
 | Cloaca Maxima | 2.00% | ~67 |
-| Close Shut the Doors | 2.00% | ~67 |
 | Baby Crabs They Ain't | 2.00% | ~67 |
 | Mors Omnibus | 2.00% | ~67 |
 | Blot Out the Sky | 2.00% | ~67 |
+| The Nameless One | 1.00% | ~33 |
+| Rule of Thirds | 1.00% | ~33 |
 | Pyr Demon | 1.00% | ~33 |
 | Biotechnology | 1.00% | ~33 |
 | The Archimedes Principle | 1.00% | ~33 |
 | Rites at Sea | 1.00% | ~33 |
+| Close Shut the Doors | 1.00% | ~33 |
 | Scrap Metal | 1.00% | ~33 |
 | Athenian Treasury | 0.90% | ~30 |
 | Invicta | 0.80% | ~27 |
 | Olympian | 0.60% | ~20 |
-| Hipparchia's Labour | 0.50% | ~17 |
+| Hipparchia's Labour | 0.40% | ~13 |
 | Debauchery | 0.40% | ~13 |
 | Blessing of Spring | 0.40% | ~13 |
 | Interrupt the Interloper | 0.40% | ~13 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,333 (Ranked 151)  
+Progressed: 3,336 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,6 +172,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-03 | 3,326 | 0 |
 | 2023-08-04 | 3,332 | 0 |
 | 2023-08-05 | 3,333 | 0 |
+| 2023-08-08 | 3,336 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

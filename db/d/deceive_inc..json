@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17125,
+  "EOS_Progressed": 17126,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 616,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7704,6 +7704,11 @@
       "Time": "2023-08-08T10:04:22.2632368+00:00",
       "NumProgressed": 17125,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-08T12:04:25.7770185+00:00",
+      "NumProgressed": 17126,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -7747,7 +7752,7 @@
       "Name": "Branch Manager",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "0006",
@@ -7771,7 +7776,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "0009",
@@ -7851,7 +7856,7 @@
       "Name": "In It to Win It",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "0019",
@@ -7875,7 +7880,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "0022",
@@ -7883,7 +7888,7 @@
       "Name": "PHD in VIP",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "0023",
@@ -7907,7 +7912,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "0026",
@@ -7947,7 +7952,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "0031",
@@ -8002,7 +8007,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17125,
+      "Progressed": 17126,
       "Completed": 1
     }
   ],
@@ -8010,8 +8015,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-04T08:00:04.3199402+00:00",
-  "LastChanged_Achievements": "2023-08-08T11:04:03.7694841+00:00",
+  "LastChanged_Achievements": "2023-08-08T12:04:25.7770181+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-08T11:00:17.192561+00:00",
-  "LastUpdate_Achievements": "2023-08-08T11:04:03.7696379+00:00"
+  "LastUpdate_Ratings": "2023-08-08T12:01:11.6981352+00:00",
+  "LastUpdate_Achievements": "2023-08-08T12:04:25.7770715+00:00"
 }
