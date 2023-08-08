@@ -29,7 +29,7 @@
 | 27 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.76% |
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.76% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.18% |
-| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.90% |
+| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.62% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -38,8 +38,8 @@
 | 36 | [Scorn](games/s/scorn.md) | 6.96% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.91% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.84% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.37% |
-| 40 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
+| 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.35% |
 | 41 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 6.01% |
 | 43 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
@@ -60,7 +60,7 @@
 | 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.48% |
 | 60 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
-| 61 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.36% |
+| 61 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.35% |
 | 62 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
 | 63 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 64 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.12% |
@@ -82,7 +82,7 @@
 | 80 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.36% |
 | 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.35% |
-| 83 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.29% |
+| 83 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
 | 84 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
 | 85 | [FORECLOSED](games/f/foreclosed.md) | 2.20% |
 | 86 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.05% |
@@ -121,8 +121,8 @@
 | 119 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
 | 120 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 121 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
-| 121 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.75% |
-| 123 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
+| 122 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
+| 122 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.74% |
 | 124 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.66% |
 | 125 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.65% |
 | 125 | [Haven](games/h/haven.md) | 0.65% |
