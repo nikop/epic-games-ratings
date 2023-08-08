@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.55% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.46% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.14% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
@@ -25,9 +25,9 @@
 | 23 | [Remains](games/r/remains.md) | 10.64% |
 | 24 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.53% |
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
-| 26 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 10.00% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.81% |
+| 27 | [Sonic Origins](games/s/sonic_origins.md) | 9.79% |
+| 28 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.76% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.18% |
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.91% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.62% |
@@ -60,7 +60,7 @@
 | 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.48% |
 | 60 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
-| 60 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.39% |
+| 61 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.36% |
 | 62 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
 | 63 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 64 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.12% |
