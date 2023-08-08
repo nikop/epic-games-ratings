@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | In the Black | 59.00% | ~189 |
 | Starting Skyward | 53.00% | ~170 |
-| Grime is Not Good | 47.00% | ~150 |
+| Grime is Not Good | 47.00% | ~151 |
 | Floor Galore | 40.00% | ~128 |
 | Campaign Launch | 40.00% | ~128 |
 | Dinner Dash | 40.00% | ~128 |
-| Need a Consult | 37.00% | ~118 |
-| Upgrade Unlock | 36.00% | ~115 |
-| It's Technical | 36.00% | ~115 |
+| Need a Consult | 37.00% | ~119 |
+| Upgrade Unlock | 36.00% | ~116 |
+| It's Technical | 36.00% | ~116 |
 | Delegate Maintenance | 34.00% | ~109 |
 | Proper Walls | 33.00% | ~106 |
 | Destination Destiny | 29.00% | ~93 |
@@ -30,7 +30,7 @@
 | Emporium Empire | 19.00% | ~61 |
 | Get Electrified | 19.00% | ~61 |
 | Rehab Expert | 18.00% | ~58 |
-| Tasty Profits | 18.00% | ~58 |
+| Tasty Profits | 17.00% | ~55 |
 | Established Fame | 16.00% | ~51 |
 | Under One Roof | 15.00% | ~48 |
 | Cashflow Chief | 15.00% | ~48 |
@@ -67,15 +67,15 @@
 | Apartment Awareness | 3.00% | ~10 |
 | Luxury Boutiques | 3.00% | ~10 |
 | Three of a Kind | 3.00% | ~10 |
-| Four of a Kind | 3.00% | ~10 |
 | Sandbagger | 3.00% | ~10 |
-| In the Money | 3.00% | ~10 |
 | Curated Class | 2.00% | ~6 |
 | Loft Life | 2.00% | ~6 |
 | Glut of Gastronomy | 2.00% | ~6 |
 | Plebs Are Needed | 2.00% | ~6 |
 | Royal Flush | 2.00% | ~6 |
 | The King of Cool | 2.00% | ~6 |
+| Four of a Kind | 2.00% | ~6 |
+| In the Money | 2.00% | ~6 |
 | It is Payday | 2.00% | ~6 |
 | Full House | 1.00% | ~3 |
 | Scenario Success | 1.00% | ~3 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 320 (Ranked 252)  
+Progressed: 321 (Ranked 252)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,6 +161,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-04 | 318 | 0 |
 | 2023-08-05 | 319 | 0 |
 | 2023-08-07 | 320 | 0 |
+| 2023-08-08 | 321 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

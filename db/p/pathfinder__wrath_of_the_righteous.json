@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3398,9 +3398,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10853,
+  "EOS_Progressed": 10855,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10358,6 +10358,11 @@
       "Time": "2023-08-08T08:03:30.9959768+00:00",
       "NumProgressed": 10853,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-08T09:04:28.6253247+00:00",
+      "NumProgressed": 10855,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10385,7 +10390,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "04_FithCrusade",
@@ -10569,7 +10574,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "28_GreatUpstart",
@@ -10737,7 +10742,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "49_Flame",
@@ -11296,21 +11301,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9635,
+      "Progressed": 9637,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10853,
+      "Progressed": 10855,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-08T05:00:02.3419925+00:00",
-  "LastChanged_Achievements": "2023-08-08T08:03:30.9959764+00:00",
+  "LastChanged_Achievements": "2023-08-08T09:04:28.625324+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:18.5411463+00:00",
-  "LastUpdate_Ratings": "2023-08-08T07:58:55.0359414+00:00",
-  "LastUpdate_Achievements": "2023-08-08T08:03:30.9961892+00:00"
+  "LastUpdate_Ratings": "2023-08-08T09:00:17.1255128+00:00",
+  "LastUpdate_Achievements": "2023-08-08T09:04:28.6257373+00:00"
 }

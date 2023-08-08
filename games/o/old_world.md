@@ -56,6 +56,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.90% | ~120 |
 | Manichaeism | 0.90% | ~120 |
 | Regicide | 0.80% | ~107 |
+| Legendary Cities | 0.80% | ~107 |
 | Just Difficulty | 0.80% | ~107 |
 | Artisans | 0.80% | ~107 |
 | Furious Family | 0.80% | ~107 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.70% | ~93 |
 | Intercessor | 0.70% | ~93 |
 | Valiant | 0.70% | ~93 |
-| Legendary Cities | 0.70% | ~93 |
 | Sages | 0.70% | ~93 |
 | Acropolis | 0.70% | ~93 |
 | Mausoleum | 0.70% | ~93 |
@@ -143,6 +143,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.20% | ~27 |
 | Peacemaker | 0.20% | ~27 |
 | Glorious Difficulty | 0.20% | ~27 |
+| Magnificent Difficulty | 0.20% | ~27 |
 | Run, Pheidippides, Run! | 0.20% | ~27 |
 | Nenikekamen | 0.20% | ~27 |
 | Cao'an | 0.20% | ~27 |
@@ -194,7 +195,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 0.10% | ~13 |
 | Rebuilder | 0.10% | ~13 |
 | Great Difficulty | 0.10% | ~13 |
-| Magnificent Difficulty | 0.10% | ~13 |
 | Et tu Brutus? | 0.10% | ~13 |
 | Event Level High | 0.10% | ~13 |
 | Battle of the Fertile Crescent | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,322 (Ranked 117)  
+Progressed: 13,323 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -413,7 +413,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-05 | 13,281 | 5 |
 | 2023-08-06 | 13,301 | 5 |
 | 2023-08-07 | 13,317 | 5 |
-| 2023-08-08 | 13,322 | 5 |
+| 2023-08-08 | 13,323 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,786 (Ranked 206)  

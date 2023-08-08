@@ -24,7 +24,7 @@
 | Welcome to Forte Ailes | 14.00% | ~38 |
 | Super Moth Boy | 13.00% | ~35 |
 | The Bad Place | 10.00% | ~27 |
-| Meet your maker | 8.00% | ~22 |
+| Meet your maker | 9.00% | ~24 |
 | The pelican brief | 8.00% | ~22 |
 | Pacifist fanatic | 8.00% | ~22 |
 | A grave matter | 7.00% | ~19 |

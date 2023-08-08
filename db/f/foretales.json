@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -292,9 +292,9 @@
       "ID": "meetYourMaker",
       "SetID": "5bkacmp",
       "Name": "Meet your maker",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "mesmerecital",
@@ -493,8 +493,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-08-08T08:02:13.9606328+00:00",
+  "LastChanged_Achievements": "2023-08-08T09:03:04.1994315+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:13.204533+00:00",
-  "LastUpdate_Ratings": "2023-08-08T07:57:12.2517986+00:00",
-  "LastUpdate_Achievements": "2023-08-08T08:02:13.9606663+00:00"
+  "LastUpdate_Ratings": "2023-08-08T08:57:44.0902789+00:00",
+  "LastUpdate_Achievements": "2023-08-08T09:03:04.1995064+00:00"
 }

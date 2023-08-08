@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start of a Journey | 91.00% | ~20 |
-| A thing of beauty | 86.00% | ~19 |
-| Escape the Maze | 45.00% | ~10 |
-| Brace the cold | 41.00% | ~9 |
-| A Long Walk | 36.00% | ~8 |
-| Dont mind the heat | 18.00% | ~4 |
+| Start of a Journey | 91.00% | ~21 |
+| A thing of beauty | 87.00% | ~20 |
+| Escape the Maze | 48.00% | ~11 |
+| Brace the cold | 43.00% | ~10 |
+| A Long Walk | 39.00% | ~9 |
+| Dont mind the heat | 17.00% | ~4 |
 | A Dangerous Road | 9.00% | ~2 |
 | Scorched Ruins | 9.00% | ~2 |
 | City of Illusion | 9.00% | ~2 |
@@ -23,8 +23,8 @@
 | This field of danger | 9.00% | ~2 |
 | Labyrinths of the Mind | 9.00% | ~2 |
 | A Terrifying Blizzard | 9.00% | ~2 |
-| A Stone Left Unturned | 5.00% | ~1 |
-| Celibacy/Delicacy | 5.00% | ~1 |
+| A Stone Left Unturned | 4.00% | ~1 |
+| Celibacy/Delicacy | 4.00% | ~1 |
 | No End is Eternal | 0.00% | ~0 |
 | Tranquility/Resilience | 0.00% | ~0 |
 | Recovery/Imagination | 0.00% | ~0 |
@@ -53,7 +53,7 @@
 | A Quick Secret | 0.00% | ~0 |
 | A Complete Journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22 (Ranked 397)  
+Progressed: 23 (Ranked 397)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,3 +73,4 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-03 | 20 | 0 |
 | 2023-08-04 | 21 | 0 |
 | 2023-08-07 | 22 | 0 |
+| 2023-08-08 | 23 | 0 |

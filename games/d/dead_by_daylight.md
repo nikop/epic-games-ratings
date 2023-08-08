@@ -6,69 +6,69 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 15.00% | ~114,458 |
-| Zealous | 13.00% | ~99,197 |
-| Skillful | 13.00% | ~99,197 |
-| Not half bad | 11.00% | ~83,936 |
-| Apt Survivor | 11.00% | ~83,936 |
-| Survival Treasures | 10.00% | ~76,305 |
-| Handyman | 9.00% | ~68,675 |
-| Bloody Millionaire | 9.00% | ~68,675 |
-| I | 9.00% | ~68,675 |
-| Sorted | 9.00% | ~68,675 |
-| Make Some Noise | 9.00% | ~68,675 |
-| No one left behind | 8.00% | ~61,044 |
-| Medic | 8.00% | ~61,044 |
-| Nerves of steel | 8.00% | ~61,044 |
-| The Grand Sacrifice | 7.00% | ~53,414 |
-| Agonizing Escape | 7.00% | ~53,414 |
-| Backdoor Escape | 7.00% | ~53,414 |
-| Perfect Escape | 7.00% | ~53,414 |
-| I've got your back | 6.00% | ~45,783 |
-| Perfect Killing | 6.00% | ~45,783 |
-| Apt Killer | 6.00% | ~45,783 |
-| Risk it all | 6.00% | ~45,783 |
-| II | 6.00% | ~45,783 |
-| Engineer | 6.00% | ~45,783 |
-| Vulture | 5.00% | ~38,153 |
-| III | 5.00% | ~38,153 |
-| Extraterrestrial | 5.00% | ~38,153 |
-| One More Step | 5.00% | ~38,153 |
-| Blood on your hands | 4.00% | ~30,522 |
-| Made it out alive! | 4.00% | ~30,522 |
-| III-50 | 4.00% | ~30,522 |
-| Holiday Get-Together | 4.00% | ~30,522 |
-| Near-Death Experience | 4.00% | ~30,522 |
-| Cherish your Life | 4.00% | ~30,522 |
-| Complete the Evolution | 4.00% | ~30,522 |
-| A bite for the Entity | 3.00% | ~22,892 |
-| Blood on your face | 3.00% | ~22,892 |
-| Escape Artist | 3.00% | ~22,892 |
-| Gifts for the Fog | 3.00% | ~22,892 |
-| Hemophobia | 3.00% | ~22,892 |
-| Shock Therapy | 3.00% | ~22,892 |
-| All Aboard | 3.00% | ~22,892 |
-| Leapfrog | 3.00% | ~22,892 |
-| Item of Obsession | 3.00% | ~22,892 |
-| House of Pain | 3.00% | ~22,892 |
-| Cottage Owner | 3.00% | ~22,892 |
-| Serial Killer | 3.00% | ~22,892 |
-| Escaping the Nightmare | 3.00% | ~22,892 |
-| Happy Holidays | 3.00% | ~22,892 |
-| Campbell's Chapel Legacy | 3.00% | ~22,892 |
-| Resurgence | 3.00% | ~22,892 |
-| Second Act | 3.00% | ~22,892 |
-| Jump Scares | 2.00% | ~15,261 |
-| Deep Cleansing | 2.00% | ~15,261 |
-| Texas BBQ | 2.00% | ~15,261 |
-| Game Over | 2.00% | ~15,261 |
-| Party Crasher | 2.00% | ~15,261 |
-| Outrage | 2.00% | ~15,261 |
-| Wounded Healer | 2.00% | ~15,261 |
-| Healthy Obsession | 2.00% | ~15,261 |
-| Close Shave | 2.00% | ~15,261 |
-| Preemptive Strike | 2.00% | ~15,261 |
-| Humanitarian | 2.00% | ~15,261 |
+| It wakes | 15.00% | ~114,471 |
+| Zealous | 13.00% | ~99,208 |
+| Skillful | 13.00% | ~99,208 |
+| Not half bad | 11.00% | ~83,946 |
+| Apt Survivor | 11.00% | ~83,946 |
+| Survival Treasures | 10.00% | ~76,314 |
+| Handyman | 9.00% | ~68,683 |
+| Bloody Millionaire | 9.00% | ~68,683 |
+| I | 9.00% | ~68,683 |
+| Sorted | 9.00% | ~68,683 |
+| Make Some Noise | 9.00% | ~68,683 |
+| No one left behind | 8.00% | ~61,051 |
+| Medic | 8.00% | ~61,051 |
+| Nerves of steel | 8.00% | ~61,051 |
+| The Grand Sacrifice | 7.00% | ~53,420 |
+| Agonizing Escape | 7.00% | ~53,420 |
+| Backdoor Escape | 7.00% | ~53,420 |
+| Perfect Escape | 7.00% | ~53,420 |
+| I've got your back | 6.00% | ~45,789 |
+| Perfect Killing | 6.00% | ~45,789 |
+| Apt Killer | 6.00% | ~45,789 |
+| Risk it all | 6.00% | ~45,789 |
+| II | 6.00% | ~45,789 |
+| Engineer | 6.00% | ~45,789 |
+| Vulture | 5.00% | ~38,157 |
+| III | 5.00% | ~38,157 |
+| Extraterrestrial | 5.00% | ~38,157 |
+| One More Step | 5.00% | ~38,157 |
+| Blood on your hands | 4.00% | ~30,526 |
+| Made it out alive! | 4.00% | ~30,526 |
+| III-50 | 4.00% | ~30,526 |
+| Holiday Get-Together | 4.00% | ~30,526 |
+| Near-Death Experience | 4.00% | ~30,526 |
+| Cherish your Life | 4.00% | ~30,526 |
+| Complete the Evolution | 4.00% | ~30,526 |
+| A bite for the Entity | 3.00% | ~22,894 |
+| Blood on your face | 3.00% | ~22,894 |
+| Escape Artist | 3.00% | ~22,894 |
+| Gifts for the Fog | 3.00% | ~22,894 |
+| Hemophobia | 3.00% | ~22,894 |
+| Shock Therapy | 3.00% | ~22,894 |
+| All Aboard | 3.00% | ~22,894 |
+| Leapfrog | 3.00% | ~22,894 |
+| Item of Obsession | 3.00% | ~22,894 |
+| House of Pain | 3.00% | ~22,894 |
+| Cottage Owner | 3.00% | ~22,894 |
+| Serial Killer | 3.00% | ~22,894 |
+| Escaping the Nightmare | 3.00% | ~22,894 |
+| Happy Holidays | 3.00% | ~22,894 |
+| Campbell's Chapel Legacy | 3.00% | ~22,894 |
+| Resurgence | 3.00% | ~22,894 |
+| Second Act | 3.00% | ~22,894 |
+| Jump Scares | 2.00% | ~15,263 |
+| Deep Cleansing | 2.00% | ~15,263 |
+| Texas BBQ | 2.00% | ~15,263 |
+| Game Over | 2.00% | ~15,263 |
+| Party Crasher | 2.00% | ~15,263 |
+| Outrage | 2.00% | ~15,263 |
+| Wounded Healer | 2.00% | ~15,263 |
+| Healthy Obsession | 2.00% | ~15,263 |
+| Close Shave | 2.00% | ~15,263 |
+| Preemptive Strike | 2.00% | ~15,263 |
+| Humanitarian | 2.00% | ~15,263 |
 | Blood in your mouth | 1.00% | ~7,631 |
 | Mad House | 1.00% | ~7,631 |
 | Looter | 1.00% | ~7,631 |
@@ -86,31 +86,31 @@ Number of Ratings: 70,340  (23.09.2022)
 | A Fast Death | 1.00% | ~7,631 |
 | Lifting The Fog | 1.00% | ~7,631 |
 | Chorus of Chaos | 1.00% | ~7,631 |
-| Ancestor's Rite | 0.90% | ~6,867 |
-| Outrun Evil | 0.90% | ~6,867 |
-| Grim Pilgrimage | 0.90% | ~6,867 |
-| A feast for the Entity | 0.80% | ~6,104 |
-| In the void she walks | 0.80% | ~6,104 |
-| Shrine Apparatus | 0.80% | ~6,104 |
-| Milk 'n' Cookies | 0.70% | ~5,341 |
-| Devoted Gatekeeping | 0.70% | ~5,341 |
-| Selfless Survival | 0.70% | ~5,341 |
-| End of Days | 0.70% | ~5,341 |
-| Insult and Injury | 0.70% | ~5,341 |
-| Outrun the Overlap | 0.70% | ~5,341 |
-| Broken Bodies | 0.60% | ~4,578 |
-| Rebuilding The Borgo | 0.60% | ~4,578 |
-| Hack the Mainframe | 0.60% | ~4,578 |
-| Adept Meg | 0.50% | ~3,815 |
-| Heavy Burden | 0.50% | ~3,815 |
-| I See You | 0.50% | ~3,815 |
-| Power Moves | 0.50% | ~3,815 |
-| Prowler | 0.50% | ~3,815 |
-| High Speed Pursuit | 0.50% | ~3,815 |
-| Even Punishment | 0.40% | ~3,052 |
-| Punch Drunk | 0.40% | ~3,052 |
-| Triage | 0.40% | ~3,052 |
-| Slip Into the Stream | 0.40% | ~3,052 |
+| Ancestor's Rite | 0.90% | ~6,868 |
+| Outrun Evil | 0.90% | ~6,868 |
+| Grim Pilgrimage | 0.90% | ~6,868 |
+| A feast for the Entity | 0.80% | ~6,105 |
+| In the void she walks | 0.80% | ~6,105 |
+| Shrine Apparatus | 0.80% | ~6,105 |
+| Milk 'n' Cookies | 0.70% | ~5,342 |
+| Devoted Gatekeeping | 0.70% | ~5,342 |
+| Selfless Survival | 0.70% | ~5,342 |
+| End of Days | 0.70% | ~5,342 |
+| Insult and Injury | 0.70% | ~5,342 |
+| Outrun the Overlap | 0.70% | ~5,342 |
+| Rebuilding The Borgo | 0.70% | ~5,342 |
+| Broken Bodies | 0.60% | ~4,579 |
+| Hack the Mainframe | 0.60% | ~4,579 |
+| Adept Meg | 0.50% | ~3,816 |
+| Heavy Burden | 0.50% | ~3,816 |
+| I See You | 0.50% | ~3,816 |
+| Power Moves | 0.50% | ~3,816 |
+| Prowler | 0.50% | ~3,816 |
+| High Speed Pursuit | 0.50% | ~3,816 |
+| Even Punishment | 0.40% | ~3,053 |
+| Punch Drunk | 0.40% | ~3,053 |
+| Triage | 0.40% | ~3,053 |
+| Slip Into the Stream | 0.40% | ~3,053 |
 | Cripple them all | 0.30% | ~2,289 |
 | The Grind | 0.30% | ~2,289 |
 | The Key to Escape | 0.30% | ~2,289 |
@@ -230,7 +230,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Singularity | 0.10% | ~763 |
 | Adept Gabriel | 0.10% | ~763 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 763,052 (Ranked 16)  
+Progressed: 763,142 (Ranked 16)  
 Completed: 45 (0.01%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,16 +340,16 @@ Completed: 45 (0.01%) (Ranked 237)
 | 2023-08-05 | 755,613 | 45 |
 | 2023-08-06 | 759,173 | 45 |
 | 2023-08-07 | 762,231 | 45 |
-| 2023-08-08 | 763,052 | 45 |
+| 2023-08-08 | 763,142 | 45 |
 ## Awards
 Max (Diverse Characters): 30,802  (Ranked 15)  
-Sum: 243,043 (Ranked 12)  
+Sum: 243,079 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 30,802 |
 | This game has Competitive Players | 27,805 |
-| This game is Highly Recommended | 27,711 |
+| This game is Highly Recommended | 27,747 |
 | This game has Amazing Characters | 27,496 |
 | This game is Extremely Fun | 27,309 |
 | This game has Quickly Understood Controls | 27,068 |
@@ -557,4 +557,4 @@ Diff (max vs sum): 3
 | 2023-08-05 | 4.52 | - | 30,737 | 242,476 |
 | 2023-08-06 | 4.52 | - | 30,767 | 242,713 |
 | 2023-08-07 | 4.52 | - | 30,802 | 242,952 |
-| 2023-08-08 | 4.52 | - | 30,802 | 243,043 |
+| 2023-08-08 | 4.52 | - | 30,802 | 243,079 |

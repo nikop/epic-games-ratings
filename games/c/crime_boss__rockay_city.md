@@ -16,8 +16,8 @@ Rating: 3.94 (Ranked 937)
 | Roid Ranger | 21.00% | ~15,021 |
 | True Player | 19.00% | ~13,591 |
 | Off the Rocks | 19.00% | ~13,591 |
+| Raider’s Ruin | 17.00% | ~12,160 |
 | Dragonslayer | 17.00% | ~12,160 |
-| Raider’s Ruin | 16.00% | ~11,445 |
 | Hidden Sonata | 13.00% | ~9,299 |
 | Rockay Rex | 11.00% | ~7,868 |
 | Freebooter | 10.00% | ~7,153 |

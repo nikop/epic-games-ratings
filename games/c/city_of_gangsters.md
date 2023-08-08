@@ -1,23 +1,23 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.26 (Ranked 812)  
+Rating: 4.26 (Ranked 811)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~154,421 |
-| Copacetic Coordination | 16.00% | ~53,712 |
-| Fronting the Money | 14.00% | ~46,998 |
-| The Dawn of Automation | 14.00% | ~46,998 |
-| Extraordinary Logistics | 14.00% | ~46,998 |
-| Dirty Money | 13.00% | ~43,641 |
-| Family First | 13.00% | ~43,641 |
-| Cleaning House | 12.00% | ~40,284 |
-| Room in the Back | 12.00% | ~40,284 |
-| Booze Baron | 11.00% | ~36,927 |
-| Beating the Heat | 10.00% | ~33,570 |
-| Friends on the Force | 10.00% | ~33,570 |
-| Neighborhood Watch | 10.00% | ~33,570 |
+| Corner Clout | 46.00% | ~154,425 |
+| Copacetic Coordination | 16.00% | ~53,713 |
+| Fronting the Money | 14.00% | ~46,999 |
+| The Dawn of Automation | 14.00% | ~46,999 |
+| Extraordinary Logistics | 14.00% | ~46,999 |
+| Dirty Money | 13.00% | ~43,642 |
+| Family First | 13.00% | ~43,642 |
+| Cleaning House | 12.00% | ~40,285 |
+| Room in the Back | 12.00% | ~40,285 |
+| Booze Baron | 11.00% | ~36,928 |
+| Beating the Heat | 10.00% | ~33,571 |
+| Friends on the Force | 10.00% | ~33,571 |
+| Neighborhood Watch | 10.00% | ~33,571 |
 | Core Corps | 8.00% | ~26,856 |
 | Sizeable Stash | 8.00% | ~26,856 |
 | Street Fighter | 7.00% | ~23,499 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 812)
 | High Pillow | 0.10% | ~336 |
 | Station Master | 0.10% | ~336 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 335,698 (Ranked 41)  
+Progressed: 335,706 (Ranked 41)  
 Completed: 7 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 7 (0.00%) (Ranked 251)
 | 2023-08-05 | 335,160 | 6 |
 | 2023-08-06 | 335,426 | 7 |
 | 2023-08-07 | 335,629 | 7 |
-| 2023-08-08 | 335,698 | 7 |
+| 2023-08-08 | 335,706 | 7 |
 ## Awards
 Max (Highly Recommended): 29  (Ranked 463)  
 Sum: 127 (Ranked 402)  

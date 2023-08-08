@@ -5,12 +5,12 @@ Rating: 4.49 (Ranked 575)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Country Bumpkin | 75.00% | ~1,331 |
 | A new Journey | 74.00% | ~1,314 |
-| Country Bumpkin | 74.00% | ~1,314 |
 | Departure | 73.00% | ~1,296 |
 | From X to Y | 72.00% | ~1,278 |
 | Way of Iron | 70.00% | ~1,242 |
-| Mystery Tour | 68.00% | ~1,207 |
+| Mystery Tour | 69.00% | ~1,225 |
 | We brake for nobody | 67.00% | ~1,189 |
 | Brainstorm | 66.00% | ~1,172 |
 | Travel Company | 65.00% | ~1,154 |
@@ -36,8 +36,8 @@ Rating: 4.49 (Ranked 575)
 | Hostile Takeover | 25.00% | ~444 |
 | Seven at one stroke | 24.00% | ~426 |
 | Trailblazer | 21.00% | ~373 |
+| Traffic Junction | 20.00% | ~355 |
 | Breaking Ground | 20.00% | ~355 |
-| Traffic Junction | 19.00% | ~337 |
 | Traffic Jam | 18.00% | ~320 |
 | Networker | 17.00% | ~302 |
 | Resistance is futile | 16.00% | ~284 |

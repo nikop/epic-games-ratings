@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 320,
+  "EOS_Progressed": 321,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -807,6 +807,11 @@
       "Time": "2023-08-07T09:03:47.7695598+00:00",
       "NumProgressed": 320,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-08T09:04:47.6755537+00:00",
+      "NumProgressed": 321,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -954,7 +959,7 @@
       "Name": "Need a Consult",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ach_consultant_1",
@@ -962,7 +967,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ach_consultants_a",
@@ -1096,9 +1101,9 @@
       "ID": "ach_ep1_reviews_2",
       "SetID": "b8gh1fi",
       "Name": "Four of a Kind",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_ep1_revs_1",
@@ -1112,9 +1117,9 @@
       "ID": "ach_ep1_revs_2",
       "SetID": "b8gh1fi",
       "Name": "In the Money",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_floors",
@@ -1154,7 +1159,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ach_grime_1",
@@ -1218,7 +1223,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ach_office_2",
@@ -1328,9 +1333,9 @@
       "ID": "ach_restaurants_2",
       "SetID": "b8gh1fi",
       "Name": "Tasty Profits",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 55
     },
     {
       "ID": "ach_restaurants_3",
@@ -1521,7 +1526,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 320,
+      "Progressed": 321,
       "Completed": 0
     }
   ],
@@ -1529,8 +1534,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-08-08T08:03:44.5018932+00:00",
+  "LastChanged_Achievements": "2023-08-08T09:04:47.6755529+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:47.8269205+00:00",
-  "LastUpdate_Ratings": "2023-08-08T07:58:30.7677515+00:00",
-  "LastUpdate_Achievements": "2023-08-08T08:03:44.5020063+00:00"
+  "LastUpdate_Ratings": "2023-08-08T08:59:43.6381221+00:00",
+  "LastUpdate_Achievements": "2023-08-08T09:04:47.6757355+00:00"
 }

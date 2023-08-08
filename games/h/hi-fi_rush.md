@@ -5,8 +5,8 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Feeling the beat! | 9.00% | ~342 |
 | Start with a bang! | 8.00% | ~304 |
-| Feeling the beat! | 8.00% | ~304 |
 | You can pet the cat! | 8.00% | ~304 |
 | Who put gears in there? | 7.00% | ~266 |
 | Cream of the Crop | 6.00% | ~228 |
@@ -18,6 +18,7 @@ Rating: 4.87 (Ranked 24)
 | Uh, they were broken when I got here | 5.00% | ~190 |
 | Alright, that felt AWESOME! | 5.00% | ~190 |
 | The Negotiator | 4.00% | ~152 |
+| Time to pay up! | 4.00% | ~152 |
 | Whoa! There's ANOTHER health bar!? | 4.00% | ~152 |
 | Z-shielding's got nothing on us! | 4.00% | ~152 |
 | Kissing the sky! | 4.00% | ~152 |
@@ -25,7 +26,6 @@ Rating: 4.87 (Ranked 24)
 | Does that say weakpoint? | 4.00% | ~152 |
 | NOW we got a kickass hideout! | 4.00% | ~93 |
 | Headliner | 3.00% | ~114 |
-| Time to pay up! | 3.00% | ~114 |
 | Who's the boss now? | 3.00% | ~114 |
 | I have to read these things? | 3.00% | ~114 |
 | You must like calling me in, Chai | 3.00% | ~114 |
@@ -43,7 +43,7 @@ Rating: 4.87 (Ranked 24)
 | I think I found your calling, Macaron | 0.80% | ~30 |
 | I think I deserve some praise, here! | 0.70% | ~27 |
 | We're Jammin' | 0.70% | ~27 |
-| I hit things with a guitar really well. | 0.60% | ~23 |
+| I hit things with a guitar really well. | 0.70% | ~27 |
 | New bad guys? No problem! | 0.60% | ~14 |
 | This is a breeze! | 0.50% | ~19 |
 | First we parry, then we counter | 0.50% | ~19 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,797 (Ranked 147)  
+Progressed: 3,798 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 7 (0.18%) (Ranked 181)
 | 2023-08-05 | 3,750 | 6 |
 | 2023-08-06 | 3,771 | 7 |
 | 2023-08-07 | 3,789 | 7 |
-| 2023-08-08 | 3,797 | 7 |
+| 2023-08-08 | 3,798 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

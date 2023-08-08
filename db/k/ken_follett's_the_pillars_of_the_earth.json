@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14411,
+  "EOS_Progressed": 14413,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -7670,6 +7670,11 @@
       "Time": "2023-08-08T07:03:57.3552313+00:00",
       "NumProgressed": 14411,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-08T09:04:57.8750609+00:00",
+      "NumProgressed": 14413,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 41,
@@ -7785,7 +7790,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4323
+      "UsersEstimate": 4324
     },
     {
       "ID": "tpote_achievement_22",
@@ -7793,7 +7798,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2882
+      "UsersEstimate": 2883
     },
     {
       "ID": "tpote_achievement_23",
@@ -7817,7 +7822,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "tpote_achievement_26",
@@ -7825,7 +7830,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "tpote_achievement_27",
@@ -7841,7 +7846,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "tpote_achievement_29",
@@ -7905,7 +7910,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "tpote_achievement_36",
@@ -7929,7 +7934,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "tpote_achievement_39",
@@ -7993,7 +7998,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     },
     {
       "ID": "tpote_achievement_9",
@@ -8001,22 +8006,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5044
+      "UsersEstimate": 5045
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14411,
+      "Progressed": 14413,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-08T08:03:52.0784873+00:00",
+  "LastChanged_Achievements": "2023-08-08T09:04:57.8750603+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:55.7503888+00:00",
-  "LastUpdate_Ratings": "2023-08-08T08:00:17.5724815+00:00",
-  "LastUpdate_Achievements": "2023-08-08T08:03:52.0785634+00:00"
+  "LastUpdate_Ratings": "2023-08-08T09:02:13.5341023+00:00",
+  "LastUpdate_Achievements": "2023-08-08T09:04:57.8751505+00:00"
 }

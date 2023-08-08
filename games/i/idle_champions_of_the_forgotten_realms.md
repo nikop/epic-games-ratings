@@ -6,9 +6,9 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,793 |
+| A Brief Tour of the Realms | 5.00% | ~10,992 |
 | Beast Intentions | 3.00% | ~6,595 |
-| Maddening | 2.00% | ~4,396 |
+| Maddening | 2.00% | ~4,397 |
 | The Silken Swamp | 1.00% | ~2,198 |
 | Supply Run | 1.00% | ~2,198 |
 | Vecna Lives! | 1.00% | ~1,861 |
@@ -47,7 +47,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.60% | ~1,319 |
 | The Ring of Regeneration | 0.60% | ~1,319 |
 | Krux's Speed Run | 0.60% | ~1,117 |
-| Thieves of the Coven | 0.50% | ~930 |
+| Thieves of the Coven | 0.50% | ~931 |
 | Friends of the Forest | 0.50% | ~1,099 |
 | March of the Undead | 0.50% | ~1,099 |
 | Invisible Shadows | 0.50% | ~1,099 |
@@ -56,12 +56,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.50% | ~1,099 |
 | Friendly Imps | 0.50% | ~1,099 |
 | Pure Energy | 0.50% | ~1,099 |
-| Not That Type of Helm! | 0.50% | ~930 |
-| Calcryx Tricks | 0.50% | ~930 |
-| Goblin Halls: the Next Generation | 0.50% | ~930 |
-| Bazaar Companions | 0.50% | ~930 |
-| Bahamut's Army | 0.50% | ~930 |
-| Animated Giff | 0.50% | ~930 |
+| Not That Type of Helm! | 0.50% | ~931 |
+| Calcryx Tricks | 0.50% | ~931 |
+| Goblin Halls: the Next Generation | 0.50% | ~931 |
+| Bazaar Companions | 0.50% | ~931 |
+| Bahamut's Army | 0.50% | ~931 |
+| Animated Giff | 0.50% | ~931 |
 | Upholding the Law | 0.40% | ~879 |
 | Hither of the Feywild | 0.40% | ~744 |
 | The Prince of a Thousand Enemies | 0.40% | ~744 |
@@ -107,7 +107,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Luigi After Hours | 0.40% | ~744 |
 | Electric Mayhem | 0.40% | ~744 |
 | 3,720 to 1 | 0.40% | ~744 |
-| Starving in the Jungle | 0.30% | ~659 |
+| Starving in the Jungle | 0.30% | ~660 |
 | Cold as Ice | 0.30% | ~558 |
 | Nightmare Rats! | 0.30% | ~558 |
 | An Unexpected Geist | 0.30% | ~558 |
@@ -125,56 +125,56 @@ Number of Ratings: 9,041  (23.09.2022)
 | Get Back In The Castle | 0.30% | ~558 |
 | Checkmate | 0.30% | ~558 |
 | Vecna Out! | 0.30% | ~558 |
-| Lobsterfolk Assault | 0.30% | ~659 |
-| Home Field Advantage | 0.30% | ~659 |
-| Force Grey Unleashed | 0.30% | ~659 |
-| Vajra's Guards | 0.30% | ~659 |
-| Sleuth It Out | 0.30% | ~659 |
+| Lobsterfolk Assault | 0.30% | ~660 |
+| Home Field Advantage | 0.30% | ~660 |
+| Force Grey Unleashed | 0.30% | ~660 |
+| Vajra's Guards | 0.30% | ~660 |
+| Sleuth It Out | 0.30% | ~660 |
 | The Newcomers of Notoriety | 0.30% | ~558 |
-| Azaka's Procession - Part 1 | 0.30% | ~659 |
-| Azaka's Procession - Part 2 | 0.30% | ~659 |
-| The Hunt for Owl-y | 0.30% | ~659 |
-| Werewolves in the Mist | 0.30% | ~659 |
-| We're not in Faerûn Anymore | 0.30% | ~659 |
-| Chatty Nobles | 0.30% | ~659 |
-| Modron Assistance | 0.30% | ~659 |
+| Azaka's Procession - Part 1 | 0.30% | ~660 |
+| Azaka's Procession - Part 2 | 0.30% | ~660 |
+| The Hunt for Owl-y | 0.30% | ~660 |
+| Werewolves in the Mist | 0.30% | ~660 |
+| We're not in Faerûn Anymore | 0.30% | ~660 |
+| Chatty Nobles | 0.30% | ~660 |
+| Modron Assistance | 0.30% | ~660 |
 | Thine Bounty is Mine! | 0.30% | ~558 |
-| Haaave You Met Asmodeus? | 0.30% | ~659 |
-| Domesticated Owlbears | 0.30% | ~659 |
-| The Immortal Warrior | 0.30% | ~659 |
-| The Wyrmheart Mine | 0.30% | ~659 |
-| Seeds of Deceit | 0.30% | ~659 |
-| Treasure Hunters | 0.30% | ~659 |
-| Flies on the Wall | 0.30% | ~659 |
-| Backtracking Through Barovia | 0.30% | ~659 |
-| Nimble Escape | 0.30% | ~659 |
-| Fugitives | 0.30% | ~659 |
-| Premature Betrayal | 0.30% | ~659 |
-| Hopelessly Lost | 0.30% | ~659 |
-| Enter the Sargauth | 0.30% | ~659 |
-| Flying Monkey Skulls of Doom | 0.30% | ~659 |
-| Lair of the Xanathar | 0.30% | ~659 |
-| Waterdeep Under Siege | 0.30% | ~659 |
-| Crowded Streets | 0.30% | ~659 |
-| Difficult Terrain | 0.30% | ~659 |
-| Vault of Dragons | 0.30% | ~659 |
-| Dinosaur Racing | 0.30% | ~659 |
-| Elturel Has Fallen | 0.30% | ~659 |
-| Resolve Amongst Chaos | 0.30% | ~659 |
-| Market Fluctuations | 0.30% | ~659 |
+| Haaave You Met Asmodeus? | 0.30% | ~660 |
+| Domesticated Owlbears | 0.30% | ~660 |
+| The Immortal Warrior | 0.30% | ~660 |
+| The Wyrmheart Mine | 0.30% | ~660 |
+| Seeds of Deceit | 0.30% | ~660 |
+| Treasure Hunters | 0.30% | ~660 |
+| Flies on the Wall | 0.30% | ~660 |
+| Backtracking Through Barovia | 0.30% | ~660 |
+| Nimble Escape | 0.30% | ~660 |
+| Fugitives | 0.30% | ~660 |
+| Premature Betrayal | 0.30% | ~660 |
+| Hopelessly Lost | 0.30% | ~660 |
+| Enter the Sargauth | 0.30% | ~660 |
+| Flying Monkey Skulls of Doom | 0.30% | ~660 |
+| Lair of the Xanathar | 0.30% | ~660 |
+| Waterdeep Under Siege | 0.30% | ~660 |
+| Crowded Streets | 0.30% | ~660 |
+| Difficult Terrain | 0.30% | ~660 |
+| Vault of Dragons | 0.30% | ~660 |
+| Dinosaur Racing | 0.30% | ~660 |
+| Elturel Has Fallen | 0.30% | ~660 |
+| Resolve Amongst Chaos | 0.30% | ~660 |
+| Market Fluctuations | 0.30% | ~660 |
 | Into The Fire | 0.30% | ~558 |
 | Dreamscape | 0.30% | ~558 |
 | The Everlasting Rime | 0.30% | ~558 |
-| Close Escort | 0.30% | ~659 |
-| Constant Banditry | 0.30% | ~659 |
-| The Long Haul | 0.30% | ~659 |
-| Rude Welcome | 0.30% | ~659 |
+| Close Escort | 0.30% | ~660 |
+| Constant Banditry | 0.30% | ~660 |
+| The Long Haul | 0.30% | ~660 |
+| Rude Welcome | 0.30% | ~660 |
 | Moose Tracks | 0.30% | ~558 |
 | Civilization | 0.30% | ~558 |
-| Durable Deep | 0.30% | ~659 |
-| Expert Opinion | 0.30% | ~659 |
+| Durable Deep | 0.30% | ~660 |
+| Expert Opinion | 0.30% | ~660 |
 | Dwarven Rumors | 0.30% | ~558 |
-| Rescue in the Jungle | 0.30% | ~659 |
+| Rescue in the Jungle | 0.30% | ~660 |
 | Willing to Sacrifice | 0.30% | ~558 |
 | Tiny Treaty | 0.30% | ~558 |
 | Friends and Foes | 0.20% | ~372 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,823 (Ranked 52)  
+Progressed: 219,836 (Ranked 52)  
 Completed: 2,163 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 2,163 (0.98%) (Ranked 114)
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
-| 2023-08-08 | 219,823 | 2,163 |
+| 2023-08-08 | 219,836 | 2,163 |
 ## Awards
 Max (Diverse Characters): 5,125  (Ranked 67)  
 Sum: 30,940 (Ranked 38)  

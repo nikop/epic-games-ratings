@@ -6,15 +6,15 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,233 |
-| Biggest Communism Builder | 24.00% | ~30,200 |
+| Goodest Of The Good Cops | 28.00% | ~35,234 |
+| Biggest Communism Builder | 24.00% | ~30,201 |
 | The World's Most Laughable Centrist | 20.00% | ~25,167 |
 | Il Coppo Del'Arte! | 18.00% | ~22,650 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,133 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,134 |
 | Hyperstellar Law Official | 15.00% | ~18,875 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,617 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,358 |
-| Gurdi-Ball Is Lit | 13.00% | ~16,358 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,359 |
+| Gurdi-Ball Is Lit | 13.00% | ~16,359 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,842 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,325 |
 | Unbelievably Boring **** | 8.00% | ~10,067 |
@@ -30,14 +30,14 @@ Number of Ratings: 1,611  (23.09.2022)
 | Wheel of Pleasure and Light | 2.00% | ~2,517 |
 | Massive Torque Dork | 1.00% | ~1,258 |
 | Avowed Inframaterialist | 1.00% | ~1,258 |
-| Real Musor | 0.90% | ~1,132 |
+| Real Musor | 0.90% | ~1,133 |
 | Baddest Brow in Town | 0.80% | ~1,007 |
 | Committee of la Responsabilité | 0.80% | ~1,007 |
 | Venture into the HARDCORE | 0.80% | ~1,007 |
 | Networthy Individual | 0.70% | ~881 |
 | Leopard Mindset | 0.60% | ~755 |
-| Modus: Mullen | 0.30% | ~377 |
-| Palerunner | 0.30% | ~377 |
+| Modus: Mullen | 0.30% | ~378 |
+| Palerunner | 0.30% | ~378 |
 | Cause a ****storm | 0.20% | ~252 |
 | True Detective | 0.20% | ~252 |
 | The Icebreaker | 0.20% | ~252 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~126 |
 | What body? | 0.10% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125,833 (Ranked 66)  
+Progressed: 125,836 (Ranked 66)  
 Completed: 27 (0.02%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 27 (0.02%) (Ranked 230)
 | 2023-08-05 | 125,656 | 27 |
 | 2023-08-06 | 125,751 | 27 |
 | 2023-08-07 | 125,820 | 27 |
-| 2023-08-08 | 125,833 | 27 |
+| 2023-08-08 | 125,836 | 27 |
 ## Awards
 Max (Character Customization): 715  (Ranked 163)  
 Sum: 1,077 (Ranked 233)  
