@@ -38,7 +38,7 @@
 | 36 | [Scorn](games/s/scorn.md) | 6.96% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.91% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.90% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.40% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.38% |
 | 40 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 41 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 6.01% |
@@ -48,8 +48,8 @@
 | 46 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
 | 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.82% |
 | 48 | [JARS](games/j/jars.md) | 4.76% |
-| 49 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.71% |
-| 50 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
+| 49 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
+| 50 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.68% |
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.63% |
 | 52 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 53 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.22% |
@@ -59,8 +59,8 @@
 | 56 | [ZZT!](games/z/zzt!.md) | 3.70% |
 | 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 59 | [Doodle God](games/d/doodle_god.md) | 3.48% |
-| 60 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.40% |
-| 61 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
+| 60 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
+| 60 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.39% |
 | 62 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
 | 63 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 64 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.12% |
@@ -123,8 +123,8 @@
 | 121 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
 | 121 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.75% |
 | 123 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
-| 124 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.67% |
-| 125 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
+| 124 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
+| 124 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.66% |
 | 126 | [Haven](games/h/haven.md) | 0.65% |
 | 127 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 127 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.63% |
@@ -155,9 +155,9 @@
 | 151 | [Wildermyth](games/w/wildermyth.md) | 0.37% |
 | 154 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.36% |
 | 155 | [The Surge](games/t/the_surge.md) | 0.35% |
+| 156 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.33% |
 | 156 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
-| 157 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.32% |
-| 157 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
+| 158 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
 | 159 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 159 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 159 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
