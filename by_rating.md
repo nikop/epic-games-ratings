@@ -67,12 +67,12 @@
 | 59 | [TUNIC](games/t/tunic.md) | 4.83 | 34 | 441 |
 | 66 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 509 |
 | 66 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,512 | 120 |
-| 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,698 | 60 |
+| 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,701 | 60 |
 | 66 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 509 |
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 509 |
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 446 |
 | 66 | [Huntdown](games/h/huntdown.md) | 4.82 | 0 | 509 |
-| 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,653 | 95 |
+| 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,658 | 95 |
 | 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,351 | 54 |
 | 66 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 398 | 214 |
 | 66 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 509 |
@@ -150,7 +150,7 @@
 | 147 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 802 | 153 |
 | 147 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 6,217 | 56 |
 | 147 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 652 | 173 |
-| 147 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,899 | 48 |
+| 147 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,908 | 48 |
 | 147 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 509 |
 | 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 35,677 | 14 |
 | 147 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 509 |
@@ -301,7 +301,7 @@
 | 299 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.65 | 0 | 509 |
 | 299 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 509 |
 | 299 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 0 | 509 |
-| 299 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 5,083 | 68 |
+| 299 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 5,091 | 68 |
 | 299 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 46 | 410 |
 | 299 | [GRIT](games/g/grit.md) | 4.65 | 0 | 509 |
 | 299 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.65 | 0 | 509 |
@@ -517,7 +517,7 @@
 | 512 | [Dauntless](games/d/dauntless.md) | 4.53 | 21,208 | 18 |
 | 512 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 34 | 441 |
 | 512 | [Everything](games/e/everything.md) | 4.53 | 0 | 509 |
-| 512 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,384 | 126 |
+| 512 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,386 | 126 |
 | 512 | [MotoGP™21](games/m/motogp™21.md) | 4.53 | 22 | 492 |
 | 512 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 509 |
 | 512 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 33 | 446 |
@@ -717,7 +717,7 @@
 | 704 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.39 | 103 | 331 |
 | 716 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 509 |
 | 716 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 509 |
-| 716 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 569 | 183 |
+| 716 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 570 | 183 |
 | 716 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 289 |
 | 716 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 168 | 287 |
 | 716 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 72 | 373 |

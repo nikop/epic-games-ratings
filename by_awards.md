@@ -47,7 +47,7 @@
 | 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,653 | 4.57 | 449 |
 | 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,373 | 4.71 | 185 |
 | 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,318 | 4.68 | 242 |
-| 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,899 | 4.74 | 147 |
+| 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,908 | 4.74 | 147 |
 | 49 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,860 | 4.71 | 185 |
 | 50 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 666 |
 | 51 | [DEATH STRANDING](games/d/death_stranding.md) | 6,609 | 4.77 | 109 |
@@ -59,7 +59,7 @@
 | 57 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,961 | 4.64 | 316 |
 | 58 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,958 | 4.79 | 88 |
 | 59 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,825 | 4.66 | 272 |
-| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,698 | 4.82 | 66 |
+| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,701 | 4.82 | 66 |
 | 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,636 | 4.75 | 134 |
 | 62 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,630 | 4.69 | 213 |
 | 62 | [Prey](games/p/prey.md) | 5,630 | 4.62 | 349 |
@@ -67,7 +67,7 @@
 | 65 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,540 | 4.85 | 40 |
 | 66 | [Rogue Company](games/r/rogue_company.md) | 5,235 | 4.33 | 764 |
 | 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,121 | 4.06 | 915 |
-| 68 | [Cities: Skylines](games/c/cities__skylines.md) | 5,083 | 4.65 | 299 |
+| 68 | [Cities: Skylines](games/c/cities__skylines.md) | 5,091 | 4.65 | 299 |
 | 69 | [MultiVersus](games/m/multiversus.md) | 4,746 | 4.56 | 468 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,693 | 4.69 | 213 |
 | 71 | [Shop Titans](games/s/shop_titans.md) | 4,691 | 3.99 | 928 |
@@ -94,7 +94,7 @@
 | 92 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,191 | 4.57 | 449 |
 | 93 | [Trackmania](games/t/trackmania.md) | 3,107 | 4.67 | 258 |
 | 94 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,018 | 3.98 | 931 |
-| 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,653 | 4.82 | 66 |
+| 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,658 | 4.82 | 66 |
 | 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,622 | 4.51 | 542 |
 | 97 | [Among Us](games/a/among_us.md) | 2,599 | 4.57 | 449 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,547 | 4.61 | 366 |
@@ -125,7 +125,7 @@
 | 123 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,425 | 4.62 | 349 |
 | 124 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,421 | 4.87 | 24 |
 | 125 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,398 | 4.78 | 100 |
-| 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,384 | 4.53 | 512 |
+| 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,386 | 4.53 | 512 |
 | 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,373 | 4.54 | 498 |
 | 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,367 | 4.86 | 29 |
 | 129 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,313 | 4.70 | 198 |
@@ -182,7 +182,7 @@
 | 180 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 592 | 4.73 | 160 |
 | 181 | [Football Manager 2023](games/f/football_manager_2023.md) | 590 | 4.75 | 134 |
 | 182 | [Star Trek Online](games/s/star_trek_online.md) | 572 | 4.44 | 644 |
-| 183 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 569 | 4.38 | 716 |
+| 183 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 570 | 4.38 | 716 |
 | 184 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 561 | 4.68 | 242 |
 | 185 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 560 | 4.66 | 272 |
 | 185 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 560 | 4.66 | 272 |

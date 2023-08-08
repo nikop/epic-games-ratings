@@ -27,7 +27,7 @@
 | 24 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.53% |
 | 26 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.87% |
+| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.84% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.18% |
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.62% |
@@ -78,7 +78,7 @@
 | 76 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.65% |
 | 77 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.61% |
 | 78 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
-| 79 | [Lamentum](games/l/lamentum.md) | 2.56% |
+| 79 | [Lamentum](games/l/lamentum.md) | 2.54% |
 | 80 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.37% |
 | 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.35% |
@@ -527,4 +527,4 @@
 | 251 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 251 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 251 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,008 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,009 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
