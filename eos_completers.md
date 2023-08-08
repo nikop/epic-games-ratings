@@ -123,11 +123,11 @@
 | 121 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
 | 121 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.75% |
 | 123 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
-| 124 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
-| 125 | [Haven](games/h/haven.md) | 0.65% |
-| 126 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
-| 126 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.63% |
-| 128 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.62% |
+| 124 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.67% |
+| 125 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
+| 126 | [Haven](games/h/haven.md) | 0.65% |
+| 127 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
+| 127 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.63% |
 | 129 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
 | 130 | [Potion Permit](games/p/potion_permit.md) | 0.59% |
 | 131 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.58% |

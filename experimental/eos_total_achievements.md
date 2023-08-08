@@ -202,6 +202,7 @@
 | [Beach Invasion 1944](../games/b/beach_invasion_1944.md) | 40 | 1,000 |
 | [Chef Life - A Restaurant Simulator](../games/c/chef_life_-_a_restaurant_simulator.md) | 40 | 1,000 |
 | [Disco Elysium - The Final Cut](../games/d/disco_elysium_-_the_final_cut.md) | 40 | 1,000 |
+| [Dros](../games/a/a46cade12846436281c910ddc51411f3.md) | 40 | 1,000 |
 | [Dungeon Drafters](../games/d/dungeon_drafters.md) | 40 | 1,000 |
 | [Indoor Kickball](../games/i/indoor_kickball.md) | 40 | 1,000 |
 | [Lost Ruins](../games/l/lost_ruins.md) | 40 | 1,000 |
