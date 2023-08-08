@@ -58,7 +58,7 @@
 | 56 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 6,217 | 4.74 | 147 |
 | 57 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,961 | 4.64 | 316 |
 | 57 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,961 | 4.79 | 88 |
-| 59 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,825 | 4.66 | 272 |
+| 59 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,827 | 4.66 | 272 |
 | 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,701 | 4.82 | 66 |
 | 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,636 | 4.75 | 134 |
 | 62 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,630 | 4.69 | 213 |
@@ -180,7 +180,7 @@
 | 178 | [Dark Deity](games/d/dark_deity.md) | 609 | 4.16 | 876 |
 | 179 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 602 | 4.63 | 331 |
 | 180 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 592 | 4.73 | 160 |
-| 181 | [Football Manager 2023](games/f/football_manager_2023.md) | 590 | 4.75 | 134 |
+| 181 | [Football Manager 2023](games/f/football_manager_2023.md) | 591 | 4.75 | 134 |
 | 182 | [Star Trek Online](games/s/star_trek_online.md) | 572 | 4.44 | 644 |
 | 183 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 570 | 4.38 | 716 |
 | 184 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 561 | 4.68 | 242 |
@@ -208,7 +208,7 @@
 | 206 | [RimWorld](games/r/rimworld.md) | 427 | 4.89 | 12 |
 | 207 | [Against the Storm](games/a/against_the_storm.md) | 422 | 4.81 | 77 |
 | 207 | [Loop Hero](games/l/loop_hero.md) | 422 | 4.68 | 242 |
-| 209 | [Into the Breach](games/i/into_the_breach.md) | 416 | 4.84 | 49 |
+| 209 | [Into the Breach](games/i/into_the_breach.md) | 417 | 4.84 | 49 |
 | 210 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 410 | 4.73 | 160 |
 | 210 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 410 | 4.49 | 575 |
 | 212 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 408 | 4.60 | 392 |
@@ -258,8 +258,8 @@
 | 256 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 237 | 4.84 | 49 |
 | 257 | [Severed Steel](games/s/severed_steel.md) | 234 | 4.69 | 213 |
 | 258 | [Hello Neighbor](games/h/hello_neighbor.md) | 232 | 4.55 | 487 |
+| 259 | [Overcooked! 2](games/o/overcooked!_2.md) | 231 | 4.73 | 160 |
 | 259 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 231 | 4.81 | 77 |
-| 260 | [Overcooked! 2](games/o/overcooked!_2.md) | 230 | 4.73 | 160 |
 | 261 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 227 | 4.60 | 392 |
 | 262 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 222 | 4.59 | 412 |
 | 263 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 220 | 4.85 | 40 |

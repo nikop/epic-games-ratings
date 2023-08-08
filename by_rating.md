@@ -51,7 +51,7 @@
 | 49 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 408 |
 | 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 217 | 267 |
 | 49 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 509 |
-| 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 416 | 209 |
+| 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 417 | 209 |
 | 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 262 | 247 |
 | 49 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 25 | 479 |
 | 49 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.84 | 237 | 256 |
@@ -138,7 +138,7 @@
 | 134 | [Diabotical](games/d/diabotical.md) | 4.75 | 272 | 245 |
 | 134 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 653 | 172 |
 | 134 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 43 | 418 |
-| 134 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 590 | 181 |
+| 134 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 591 | 181 |
 | 134 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 509 |
 | 134 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 0 | 509 |
 | 134 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 117 | 320 |
@@ -164,7 +164,7 @@
 | 160 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 0 | 509 |
 | 160 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 592 | 180 |
 | 160 | [Outlast 2](games/o/outlast_2.md) | 4.73 | 0 | 509 |
-| 160 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 230 | 260 |
+| 160 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 231 | 259 |
 | 160 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 509 |
 | 160 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.73 | 0 | 509 |
 | 160 | [The Machines Arena](games/t/the_machines_arena.md) | 4.73 | 0 | 509 |
@@ -294,7 +294,7 @@
 | 272 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.66 | 0 | 509 |
 | 272 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 99 | 335 |
 | 272 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.66 | 0 | 509 |
-| 272 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,825 | 59 |
+| 272 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,827 | 59 |
 | 272 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 202 |
 | 272 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 22 | 492 |
 | 272 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 509 |

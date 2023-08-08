@@ -39,7 +39,7 @@
 | [Fae Farm Pre-Purchase](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | - |  | - | - |
 | [Dirty Wars: September 11](games/a/a3df291e5482464898a00f1ed892605f.md) | 2023-09-11 | - |  | - | - |
 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 2023-09-14 | - |  | - | - |
-| [Ad Infinitum](games/a/ad_infinitum.md) | 2023-09-14 | 29 (1,000 XP) | 2 | - | - |
+| [Ad Infinitum](games/a/ad_infinitum.md) | 2023-09-14 | 29 (1,000 XP) | 3 | - | - |
 | [Outlive](games/o/outlive.md) | 2023-09-14 | - |  | - | - |
 | [Nephise: Ascension](games/d/d683909340554b3396b3aa477c07639e.md) | 2023-09-15 | 10 (1,000 XP) | 0 | - | - |
 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | - |  | - | - |

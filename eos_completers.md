@@ -64,8 +64,8 @@
 | 62 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
 | 63 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 64 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.12% |
-| 64 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.12% |
-| 66 | [The Complex](games/t/the_complex.md) | 3.03% |
+| 65 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.03% |
+| 65 | [The Complex](games/t/the_complex.md) | 3.03% |
 | 67 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
 | 68 | [Monster Harvest](games/m/monster_harvest.md) | 2.96% |
 | 69 | [MultiVersus](games/m/multiversus.md) | 2.93% |
