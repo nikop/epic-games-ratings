@@ -103,9 +103,9 @@
       "ID": "defeat_level_1",
       "SetID": "7k8abkg",
       "Name": "Ep1: Earth is Under Attack By Time and Space!",
-      "Percentage": 40,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "defeat_level_10",
@@ -199,9 +199,9 @@
       "ID": "defeat_level_1_yellow",
       "SetID": "7k8abkg",
       "Name": "Special Episode Yellow 1: Can\u0027t Catch Me!",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "defeat_level_2",
@@ -359,9 +359,9 @@
       "ID": "weapon_grandmaster_rangershot",
       "SetID": "7k8abkg",
       "Name": "Weapon Grandmaster: Ranger Shot",
-      "Percentage": 27,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "weapon_grandmaster_scorchingscarab",
@@ -471,9 +471,9 @@
       "ID": "weapon_master_rangershot",
       "SetID": "7k8abkg",
       "Name": "Weapon Master: Ranger Shot",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "weapon_master_scorchingscarab",
@@ -534,8 +534,8 @@
   ],
   "FirstSeen": "2023-07-03T08:57:11.4691999+00:00",
   "FirstSeenAchievements": "2023-06-06T14:01:35.6862615+00:00",
-  "LastChanged_Achievements": "2023-08-08T20:06:05.2215456+00:00",
+  "LastChanged_Achievements": "2023-08-08T21:06:16.2006445+00:00",
   "LastUpdate_AppInfo": "2023-08-08T17:57:16.0145046+00:00",
-  "LastUpdate_Ratings": "2023-08-08T19:57:28.5571711+00:00",
-  "LastUpdate_Achievements": "2023-08-08T20:06:05.2215929+00:00"
+  "LastUpdate_Ratings": "2023-08-08T20:57:46.7423149+00:00",
+  "LastUpdate_Achievements": "2023-08-08T21:06:16.2006824+00:00"
 }

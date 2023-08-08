@@ -19,7 +19,7 @@ Number of Ratings: 34  (23.09.2022)
 | Heroism | 35.00% | ~160 |
 | Missing in Action | 35.00% | ~160 |
 | Collectibles of Chapter I | 33.00% | ~150 |
-| Consequences | 31.00% | ~141 |
+| Consequences | 32.00% | ~146 |
 | King of Knives | 31.00% | ~141 |
 | Opportunities | 30.00% | ~137 |
 | The Horror | 28.00% | ~128 |

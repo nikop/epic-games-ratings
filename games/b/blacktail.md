@@ -7,11 +7,11 @@ Rating: 4.68 (Ranked 242)
 | ---- | ---------- | ----- |
 | Tooth fairy | 25.00% | ~154 |
 | Dental maturity | 20.00% | ~123 |
-| Devil's in the details | 15.00% | ~92 |
+| Devil's in the details | 15.00% | ~93 |
 | Uprooting | 13.00% | ~80 |
-| Forbidden techniques | 13.00% | ~80 |
-| Devoted | 9.00% | ~55 |
-| Slavic squatter | 9.00% | ~55 |
+| Forbidden techniques | 12.00% | ~74 |
+| Devoted | 9.00% | ~56 |
+| Slavic squatter | 9.00% | ~56 |
 | Spirit animal | 8.00% | ~49 |
 | Gold rush | 7.00% | ~43 |
 | A friend in need... | 6.00% | ~37 |
@@ -24,13 +24,13 @@ Rating: 4.68 (Ranked 242)
 | Queen | 5.00% | ~31 |
 | Baba Yaga | 5.00% | ~31 |
 | Favorite | 4.00% | ~25 |
-| Goal! | 3.00% | ~18 |
-| Gnowlledgeable | 3.00% | ~18 |
-| Both sides | 3.00% | ~18 |
-| Specialist | 3.00% | ~18 |
-| Always worth a try | 3.00% | ~18 |
-| Toxic | 3.00% | ~18 |
-| Witch's cookbook | 3.00% | ~18 |
+| Goal! | 3.00% | ~19 |
+| Gnowlledgeable | 3.00% | ~19 |
+| Both sides | 3.00% | ~19 |
+| Specialist | 3.00% | ~19 |
+| Always worth a try | 3.00% | ~19 |
+| Toxic | 3.00% | ~19 |
+| Witch's cookbook | 3.00% | ~19 |
 | Awards unwarded | 2.00% | ~12 |
 | Entangled | 2.00% | ~12 |
 | Bad apple | 1.00% | ~6 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 242)
 | Mushrooming enthusiast | 0.50% | ~3 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 616 (Ranked 216)  
+Progressed: 617 (Ranked 216)  
 Completed: 1 (0.16%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 1 (0.16%) (Ranked 183)
 | 2023-08-04 | 612 | 1 |
 | 2023-08-05 | 614 | 1 |
 | 2023-08-06 | 616 | 1 |
+| 2023-08-08 | 617 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

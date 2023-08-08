@@ -6,22 +6,22 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~246,844 |
+| Blacksmith's Son | 31.00% | ~246,845 |
 | Cavalier | 25.00% | ~199,068 |
-| Fatso | 23.00% | ~183,142 |
-| Awakening | 21.00% | ~167,217 |
-| Ranger | 20.00% | ~159,254 |
-| Scrooge | 20.00% | ~159,254 |
-| Anorectic | 16.00% | ~127,403 |
+| Fatso | 23.00% | ~183,143 |
+| Awakening | 21.00% | ~167,218 |
+| Ranger | 20.00% | ~159,255 |
+| Scrooge | 20.00% | ~159,255 |
+| Anorectic | 16.00% | ~127,404 |
 | Bookworm | 15.00% | ~119,441 |
 | Firestarter | 15.00% | ~119,441 |
-| Insomniac | 13.00% | ~103,515 |
+| Insomniac | 13.00% | ~103,516 |
 | Buddy | 12.00% | ~95,553 |
 | Thief | 12.00% | ~95,553 |
 | Sinner | 11.00% | ~87,590 |
 | Convict | 10.00% | ~79,627 |
 | Traveller | 10.00% | ~79,627 |
-| Haggler | 9.00% | ~71,664 |
+| Haggler | 9.00% | ~71,665 |
 | McLovin | 7.00% | ~55,739 |
 | Runt | 7.00% | ~55,739 |
 | Casanova | 6.00% | ~47,776 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~796 |
 | Wingman | 0.10% | ~796 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 796,271 (Ranked 15)  
+Progressed: 796,274 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,16 +199,16 @@ Completed: 44 (0.01%) (Ranked 237)
 | 2023-08-05 | 795,845 | 44 |
 | 2023-08-06 | 796,022 | 44 |
 | 2023-08-07 | 796,168 | 44 |
-| 2023-08-08 | 796,271 | 44 |
+| 2023-08-08 | 796,274 | 44 |
 ## Awards
-Max (Character Customization): 7,373  (Ranked 46)  
-Sum: 27,461 (Ranked 45)  
+Max (Character Customization): 7,375  (Ranked 46)  
+Sum: 27,464 (Ranked 45)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,373 |
+| This game has Inclusive Character Customization | 7,375 |
 | This game has Great Boss Battles | 5,420 |
-| This game has Challenging Combat | 1,721 |
+| This game has Challenging Combat | 1,722 |
 | This game has Amazing Storytelling | 1,680 |
 | This game has Diverse Characters | 1,663 |
 | This game is Extremely Fun | 1,652 |
@@ -416,4 +416,4 @@ Diff (max vs sum): 1
 | 2023-08-05 | 4.71 | - | 7,364 | 27,445 |
 | 2023-08-06 | 4.71 | - | 7,369 | 27,453 |
 | 2023-08-07 | 4.71 | - | 7,373 | 27,459 |
-| 2023-08-08 | 4.71 | - | 7,373 | 27,461 |
+| 2023-08-08 | 4.71 | - | 7,375 | 27,464 |

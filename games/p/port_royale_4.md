@@ -1,7 +1,7 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.03 (Ranked 924)  
+Rating: 4.03 (Ranked 925)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -55,7 +55,7 @@ Number of Ratings: 53  (23.09.2022)
 | Administrator | 0.70% | ~6 |
 | Parlay? | 0.70% | ~6 |
 | Fleet Admiral | 0.60% | ~5 |
-| Davy Jones' locker | 0.20% | ~2 |
+| Davy Jones' locker | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 814 (Ranked 204)  
 Completed: 1 (0.12%) (Ranked 192)  

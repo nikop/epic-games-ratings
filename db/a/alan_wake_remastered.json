@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60535,
+  "EOS_Progressed": 60537,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 728,
+  "EOS_NewPlayers": 722,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10652,6 +10652,11 @@
       "Time": "2023-08-08T20:04:38.1209296+00:00",
       "NumProgressed": 60535,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-08T21:04:48.4622127+00:00",
+      "NumProgressed": 60537,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10663,7 +10668,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22398
+      "UsersEstimate": 22399
     },
     {
       "ID": "02",
@@ -10671,7 +10676,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13923
+      "UsersEstimate": 13924
     },
     {
       "ID": "03",
@@ -10783,7 +10788,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4237
+      "UsersEstimate": 4238
     },
     {
       "ID": "17",
@@ -10791,7 +10796,7 @@
       "Name": "Departure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4237
+      "UsersEstimate": 4238
     },
     {
       "ID": "18",
@@ -10903,7 +10908,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9080
+      "UsersEstimate": 9081
     },
     {
       "ID": "32",
@@ -10911,7 +10916,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17555
+      "UsersEstimate": 17556
     },
     {
       "ID": "33",
@@ -10935,7 +10940,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18160
+      "UsersEstimate": 18161
     },
     {
       "ID": "36",
@@ -10983,7 +10988,7 @@
       "Name": "Finders Keepers",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9080
+      "UsersEstimate": 9081
     },
     {
       "ID": "42",
@@ -11198,21 +11203,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60535,
+      "Progressed": 60537,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24003,
+      "Progressed": 24005,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-08T20:04:38.120929+00:00",
+  "LastChanged_Achievements": "2023-08-08T21:04:48.4622121+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-08T19:58:09.1193621+00:00",
-  "LastUpdate_Achievements": "2023-08-08T20:04:38.1210584+00:00"
+  "LastUpdate_Ratings": "2023-08-08T20:58:29.5940927+00:00",
+  "LastUpdate_Achievements": "2023-08-08T21:04:48.462311+00:00"
 }

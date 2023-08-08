@@ -4,10 +4,10 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 851,
   "Ranking_Popularity": 373,
-  "Ranking_PopularitySum": 317,
+  "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1014,10 +1014,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 404,
       "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2023-08-08T20:58:46.6178376+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 406,
+      "NumberOfAwardsMax": 72
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 404,
+  "NumberOfAwards": 406,
   "NumberOfAwardsMax": 72,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1025,7 +1031,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 66
+      "Count": 67
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1043,7 +1049,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6728,9 +6734,9 @@
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-08-06T22:58:59.3849893+00:00",
-  "LastChanged_Achievements": "2023-08-08T20:03:31.5562726+00:00",
+  "LastChanged": "2023-08-08T20:58:46.6178375+00:00",
+  "LastChanged_Achievements": "2023-08-08T21:03:41.9171374+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:48.8250875+00:00",
-  "LastUpdate_Ratings": "2023-08-08T19:58:24.4111922+00:00",
-  "LastUpdate_Achievements": "2023-08-08T20:03:31.5563461+00:00"
+  "LastUpdate_Ratings": "2023-08-08T20:58:46.617838+00:00",
+  "LastUpdate_Achievements": "2023-08-08T21:03:41.917196+00:00"
 }

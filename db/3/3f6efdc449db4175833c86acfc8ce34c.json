@@ -28,8 +28,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "6igjng7",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
+  "LastChanged_Achievements": "2023-08-08T21:02:12.6548478+00:00",
   "LastUpdate_AppInfo": "2023-08-07T08:56:53.8853481+00:00",
-  "LastUpdate_Ratings": "2023-08-08T19:56:56.9538591+00:00",
-  "LastUpdate_Achievements": "2023-08-08T20:02:12.2508647+00:00"
+  "LastUpdate_Ratings": "2023-08-08T20:57:14.2549423+00:00",
+  "LastUpdate_Achievements": "2023-08-08T21:02:12.6548511+00:00"
 }

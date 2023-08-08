@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
@@ -6328,18 +6328,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 27461,
       "NumberOfAwardsMax": 7373
+    },
+    {
+      "Time": "2023-08-08T20:59:10.0904696+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27464,
+      "NumberOfAwardsMax": 7375
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27461,
-  "NumberOfAwardsMax": 7373,
+  "NumberOfAwards": 27464,
+  "NumberOfAwardsMax": 7375,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7373
+      "Count": 7375
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -6369,7 +6375,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1721
+      "Count": 1722
     },
     {
       "Text": "This game is Educational",
@@ -6414,9 +6420,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 796271,
+  "EOS_Progressed": 796274,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1039,
+  "EOS_NewPlayers": 1037,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18424,6 +18430,11 @@
       "Time": "2023-08-08T20:04:29.2767554+00:00",
       "NumProgressed": 796271,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-08T21:04:40.2159787+00:00",
+      "NumProgressed": 796274,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -18459,7 +18470,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 127403
+      "UsersEstimate": 127404
     },
     {
       "ID": "Awakening",
@@ -18467,7 +18478,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 167217
+      "UsersEstimate": 167218
     },
     {
       "ID": "BadGirl",
@@ -18515,7 +18526,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 246844
+      "UsersEstimate": 246845
     },
     {
       "ID": "Bookworm",
@@ -18635,7 +18646,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 183142
+      "UsersEstimate": 183143
     },
     {
       "ID": "Fighter",
@@ -18715,7 +18726,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 71664
+      "UsersEstimate": 71665
     },
     {
       "ID": "HardcoreHenry",
@@ -18755,7 +18766,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 103515
+      "UsersEstimate": 103516
     },
     {
       "ID": "Judas",
@@ -18915,7 +18926,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159254
+      "UsersEstimate": 159255
     },
     {
       "ID": "RevenantOfLedechko",
@@ -18955,7 +18966,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159254
+      "UsersEstimate": 159255
     },
     {
       "ID": "SerialKiller",
@@ -19090,15 +19101,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 796271,
+      "Progressed": 796274,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-08-08T06:59:14.9870014+00:00",
-  "LastChanged_Achievements": "2023-08-08T20:04:29.2767548+00:00",
+  "LastChanged": "2023-08-08T20:59:10.0904694+00:00",
+  "LastChanged_Achievements": "2023-08-08T21:04:40.2159783+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:17.2997126+00:00",
-  "LastUpdate_Ratings": "2023-08-08T19:58:48.2348462+00:00",
-  "LastUpdate_Achievements": "2023-08-08T20:04:29.2769181+00:00"
+  "LastUpdate_Ratings": "2023-08-08T20:59:10.0904699+00:00",
+  "LastUpdate_Achievements": "2023-08-08T21:04:40.2161051+00:00"
 }

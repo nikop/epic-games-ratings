@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -368,9 +368,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12683,
+  "EOS_Progressed": 12684,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -6958,6 +6958,11 @@
       "Time": "2023-08-08T19:03:44.2897376+00:00",
       "NumProgressed": 12683,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-08T21:03:57.4795528+00:00",
+      "NumProgressed": 12684,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 35,
@@ -6969,7 +6974,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11668
+      "UsersEstimate": 11669
     },
     {
       "ID": "ACH_02",
@@ -6977,7 +6982,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 9893
+      "UsersEstimate": 9894
     },
     {
       "ID": "ACH_03",
@@ -6993,7 +6998,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 8878
+      "UsersEstimate": 8879
     },
     {
       "ID": "ACH_05",
@@ -7009,7 +7014,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 8117
+      "UsersEstimate": 8118
     },
     {
       "ID": "ACH_07",
@@ -7033,7 +7038,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 7102
+      "UsersEstimate": 7103
     },
     {
       "ID": "ACH_10",
@@ -7041,7 +7046,7 @@
       "Name": "Bloodline",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6596
     },
     {
       "ID": "ACH_11",
@@ -7057,7 +7062,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 5707
+      "UsersEstimate": 5708
     },
     {
       "ID": "ACH_13",
@@ -7081,7 +7086,7 @@
       "Name": "Dying Sun",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4185
+      "UsersEstimate": 4186
     },
     {
       "ID": "ACH_16",
@@ -7161,7 +7166,7 @@
       "Name": "Effective instruments",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "ACH_26",
@@ -7185,7 +7190,7 @@
       "Name": "Alchemist",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8624
+      "UsersEstimate": 8625
     },
     {
       "ID": "ACH_29",
@@ -7225,7 +7230,7 @@
       "Name": "Perfect throw",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "ACH_34",
@@ -7248,7 +7253,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12683,
+      "Progressed": 12684,
       "Completed": 42
     }
   ],
@@ -7256,8 +7261,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-08-08T20:03:46.1417536+00:00",
+  "LastChanged_Achievements": "2023-08-08T21:03:57.4795523+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:22.662799+00:00",
-  "LastUpdate_Ratings": "2023-08-08T19:59:36.7608983+00:00",
-  "LastUpdate_Achievements": "2023-08-08T20:03:46.1418221+00:00"
+  "LastUpdate_Ratings": "2023-08-08T20:59:57.426654+00:00",
+  "LastUpdate_Achievements": "2023-08-08T21:03:57.4796034+00:00"
 }

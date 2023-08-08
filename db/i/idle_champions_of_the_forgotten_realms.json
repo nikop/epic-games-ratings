@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5606,10 +5606,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30947,
       "NumberOfAwardsMax": 5125
+    },
+    {
+      "Time": "2023-08-08T20:58:53.1060901+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30949,
+      "NumberOfAwardsMax": 5125
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30947,
+  "NumberOfAwards": 30949,
   "NumberOfAwardsMax": 5125,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5653,12 +5659,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3345
+      "Count": 3347
     }
   ],
-  "EOS_Progressed": 219978,
+  "EOS_Progressed": 219993,
   "EOS_Completed": 2165,
-  "EOS_NewPlayers": 2260,
+  "EOS_NewPlayers": 2267,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17571,6 +17577,11 @@
       "Time": "2023-08-08T20:02:32.768153+00:00",
       "NumProgressed": 219978,
       "NumCompleted": 2165
+    },
+    {
+      "Time": "2023-08-08T21:03:13.5642129+00:00",
+      "NumProgressed": 219993,
+      "NumCompleted": 2165
     }
   ],
   "TotalAchievements": 512,
@@ -17582,7 +17593,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10999
+      "UsersEstimate": 11000
     },
     {
       "ID": "objective_completed_10",
@@ -17950,7 +17961,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6599
+      "UsersEstimate": 6600
     },
     {
       "ID": "objective_completed_110",
@@ -19684,9 +19695,9 @@
       "ID": "objective_completed_433",
       "SetID": "cc37lbc",
       "Name": "Orcs Are Wild",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 440
     },
     {
       "ID": "objective_completed_434",
@@ -21548,9 +21559,9 @@
       "ID": "objective_completed_1220",
       "SetID": "415jc5c",
       "Name": "Not That Type of Helm!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 1118
     },
     {
       "ID": "objective_completed_1327",
@@ -21677,21 +21688,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 186252,
+      "Progressed": 186267,
       "Completed": 3069
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219978,
+      "Progressed": 219993,
       "Completed": 2165
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-08T17:59:16.8796438+00:00",
-  "LastChanged_Achievements": "2023-08-08T20:02:32.7681526+00:00",
+  "LastChanged": "2023-08-08T20:58:53.1060899+00:00",
+  "LastChanged_Achievements": "2023-08-08T21:03:13.5642123+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-08T19:58:32.710795+00:00",
-  "LastUpdate_Achievements": "2023-08-08T20:02:32.7708293+00:00"
+  "LastUpdate_Ratings": "2023-08-08T20:58:53.1060905+00:00",
+  "LastUpdate_Achievements": "2023-08-08T21:03:13.5666383+00:00"
 }

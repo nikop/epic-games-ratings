@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 616,
+  "EOS_Progressed": 617,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1520,6 +1520,11 @@
       "Time": "2023-08-06T12:02:13.5349147+00:00",
       "NumProgressed": 616,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-08T21:03:12.3064333+00:00",
+      "NumProgressed": 617,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1563,7 +1568,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Devoted",
@@ -1579,7 +1584,7 @@
       "Name": "Devoted",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "EyeSpy",
@@ -1611,7 +1616,7 @@
       "Name": "Goal!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "GoldRush",
@@ -1635,7 +1640,7 @@
       "Name": "Gnowlledgeable",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "HexMaster",
@@ -1667,7 +1672,7 @@
       "Name": "Both sides",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "MuhsroomTruth",
@@ -1707,7 +1712,7 @@
       "Name": "Slavic squatter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Specialist",
@@ -1715,7 +1720,7 @@
       "Name": "Specialist",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "SpringCleaning",
@@ -1739,7 +1744,7 @@
       "Name": "Always worth a try",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ToothFairy",
@@ -1755,7 +1760,7 @@
       "Name": "Toxic",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Webbed",
@@ -1769,9 +1774,9 @@
       "ID": "YagaHood",
       "SetID": "2aagp3d",
       "Name": "Forbidden techniques",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 74
     },
     {
       "ID": "YagaProfessional",
@@ -1779,14 +1784,14 @@
       "Name": "Witch\u0027s cookbook",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 616,
+      "Progressed": 617,
       "Completed": 1
     }
   ],
@@ -1794,8 +1799,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-08-08T20:02:32.4335103+00:00",
+  "LastChanged_Achievements": "2023-08-08T21:03:12.3064328+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:42.9441289+00:00",
-  "LastUpdate_Ratings": "2023-08-08T19:58:20.4657495+00:00",
-  "LastUpdate_Achievements": "2023-08-08T20:02:32.4335441+00:00"
+  "LastUpdate_Ratings": "2023-08-08T20:58:42.6482015+00:00",
+  "LastUpdate_Achievements": "2023-08-08T21:03:12.3064586+00:00"
 }

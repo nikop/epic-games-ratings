@@ -2,7 +2,7 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 447,
+  "Ranking_Rating": 448,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 109,
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17142,
+  "EOS_Progressed": 17145,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 565,
+  "EOS_NewPlayers": 558,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7750,6 +7750,11 @@
       "Time": "2023-08-08T20:04:00.700203+00:00",
       "NumProgressed": 17142,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-08T21:04:12.4927503+00:00",
+      "NumProgressed": 17145,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -7759,9 +7764,9 @@
       "ID": "0001",
       "SetID": "2n2feee",
       "Name": "On Deceive Inc.\u0027s Secret Service",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5143
+      "UsersEstimate": 4972
     },
     {
       "ID": "0002",
@@ -7777,7 +7782,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2914
+      "UsersEstimate": 2915
     },
     {
       "ID": "0004",
@@ -7865,7 +7870,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2914
+      "UsersEstimate": 2915
     },
     {
       "ID": "0015",
@@ -7889,7 +7894,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     },
     {
       "ID": "0018",
@@ -7945,7 +7950,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3771
+      "UsersEstimate": 3772
     },
     {
       "ID": "0025",
@@ -7985,7 +7990,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2229
     },
     {
       "ID": "0030",
@@ -8048,7 +8053,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17142,
+      "Progressed": 17145,
       "Completed": 1
     }
   ],
@@ -8056,8 +8061,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-08T19:59:53.3803436+00:00",
-  "LastChanged_Achievements": "2023-08-08T20:04:00.7002023+00:00",
+  "LastChanged_Achievements": "2023-08-08T21:04:12.4927498+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-08T19:59:53.3803445+00:00",
-  "LastUpdate_Achievements": "2023-08-08T20:04:00.7002757+00:00"
+  "LastUpdate_Ratings": "2023-08-08T21:00:12.8826748+00:00",
+  "LastUpdate_Achievements": "2023-08-08T21:04:12.4928065+00:00"
 }

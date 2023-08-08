@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~10,999 |
-| Beast Intentions | 3.00% | ~6,599 |
+| A Brief Tour of the Realms | 5.00% | ~11,000 |
+| Beast Intentions | 3.00% | ~6,600 |
 | Maddening | 2.00% | ~4,400 |
 | The Silken Swamp | 1.00% | ~2,200 |
 | Supply Run | 1.00% | ~2,200 |
@@ -46,6 +46,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.60% | ~1,320 |
 | The Botched Kidnapping | 0.60% | ~1,320 |
 | The Ring of Regeneration | 0.60% | ~1,320 |
+| Not That Type of Helm! | 0.60% | ~1,118 |
 | Krux's Speed Run | 0.60% | ~1,118 |
 | Thieves of the Coven | 0.50% | ~931 |
 | A Demi-god's Defender | 0.50% | ~931 |
@@ -62,7 +63,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.50% | ~1,100 |
 | Friendly Imps | 0.50% | ~1,100 |
 | Pure Energy | 0.50% | ~1,100 |
-| Not That Type of Helm! | 0.50% | ~931 |
 | Calcryx Tricks | 0.50% | ~931 |
 | Goblin Halls: the Next Generation | 0.50% | ~931 |
 | Bazaar Companions | 0.50% | ~931 |
@@ -230,6 +230,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Towering Expectations | 0.20% | ~440 |
 | Cramped Quarters | 0.20% | ~440 |
 | Who Lurks in Lurkwood | 0.20% | ~440 |
+| Orcs Are Wild | 0.20% | ~440 |
 | A Tale of Two Fiends | 0.20% | ~440 |
 | Slow and Steady | 0.20% | ~440 |
 | A Hero's Entourage | 0.20% | ~440 |
@@ -368,7 +369,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bullywugs in the Bog | 0.10% | ~220 |
 | Modrons in the Mud | 0.10% | ~220 |
 | And a Pixie in a Pear Treant | 0.10% | ~186 |
-| Orcs Are Wild | 0.10% | ~220 |
 | An Abyssal Situation | 0.10% | ~220 |
 | Dino Nightmare | 0.10% | ~220 |
 | A Familiar Friend | 0.10% | ~186 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,978 (Ranked 52)  
+Progressed: 219,993 (Ranked 52)  
 Completed: 2,165 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,10 +629,10 @@ Completed: 2,165 (0.98%) (Ranked 114)
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
-| 2023-08-08 | 219,978 | 2,165 |
+| 2023-08-08 | 219,993 | 2,165 |
 ## Awards
 Max (Diverse Characters): 5,125  (Ranked 67)  
-Sum: 30,947 (Ranked 38)  
+Sum: 30,949 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -642,7 +642,7 @@ Diff (max vs sum): 29
 | This game is Relaxing | 4,600 |
 | This game has Amazing Characters | 4,059 |
 | This game is Highly Recommended | 4,038 |
-| This game has Playful Visuals | 3,345 |
+| This game has Playful Visuals | 3,347 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -840,4 +840,4 @@ Diff (max vs sum): 29
 | 2023-08-05 | 4.05 | - | 5,119 | 30,910 |
 | 2023-08-06 | 4.06 | - | 5,121 | 30,921 |
 | 2023-08-07 | 4.06 | - | 5,121 | 30,936 |
-| 2023-08-08 | 4.06 | - | 5,125 | 30,947 |
+| 2023-08-08 | 4.06 | - | 5,125 | 30,949 |

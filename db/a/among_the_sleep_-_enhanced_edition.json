@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81666,
+  "EOS_Progressed": 81672,
   "EOS_Completed": 382,
-  "EOS_NewPlayers": 837,
+  "EOS_NewPlayers": 833,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -12353,6 +12353,11 @@
       "Time": "2023-08-08T20:05:02.4337067+00:00",
       "NumProgressed": 81666,
       "NumCompleted": 382
+    },
+    {
+      "Time": "2023-08-08T21:05:12.664713+00:00",
+      "NumProgressed": 81672,
+      "NumCompleted": 382
     }
   ],
   "TotalAchievements": 10,
@@ -12364,7 +12369,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4083
+      "UsersEstimate": 4084
     },
     {
       "ID": "Drawings01",
@@ -12428,7 +12433,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 28583
+      "UsersEstimate": 28585
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -12436,22 +12441,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 8983
+      "UsersEstimate": 8984
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 81666,
+      "Progressed": 81672,
       "Completed": 382
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-08-08T20:05:02.4337062+00:00",
+  "LastChanged_Achievements": "2023-08-08T21:05:12.6647126+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:14.3061933+00:00",
-  "LastUpdate_Ratings": "2023-08-08T19:56:59.6324392+00:00",
-  "LastUpdate_Achievements": "2023-08-08T20:05:02.4337904+00:00"
+  "LastUpdate_Ratings": "2023-08-08T20:57:17.9710225+00:00",
+  "LastUpdate_Achievements": "2023-08-08T21:05:12.6647752+00:00"
 }

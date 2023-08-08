@@ -1,40 +1,40 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 425)  
+Rating: 4.58 (Ranked 426)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~224,653 |
-| Uncharted Territory | 89.00% | ~208,272 |
-| Getting A Glimpse | 73.00% | ~170,830 |
-| A Quick Escape | 65.00% | ~152,109 |
+| First Steps | 96.00% | ~224,654 |
+| Uncharted Territory | 89.00% | ~208,273 |
+| Getting A Glimpse | 73.00% | ~170,831 |
+| A Quick Escape | 65.00% | ~152,110 |
 | Explorer | 62.00% | ~145,089 |
 | Defeat The Dark | 61.00% | ~142,749 |
 | An Offering | 61.00% | ~142,749 |
-| Colorful Corpse | 58.00% | ~135,728 |
+| Colorful Corpse | 58.00% | ~135,729 |
 | That Was Quick | 56.00% | ~131,048 |
 | A Donation | 56.00% | ~131,048 |
 | Goodbye, Frog Friend | 54.00% | ~126,368 |
-| Heavy Hitter | 53.00% | ~124,027 |
-| Heartless | 46.00% | ~107,646 |
-| Spine Breaker | 46.00% | ~107,646 |
-| Deflection | 45.00% | ~105,306 |
+| Heavy Hitter | 53.00% | ~124,028 |
+| Heartless | 46.00% | ~107,647 |
+| Spine Breaker | 46.00% | ~107,647 |
+| Deflection | 45.00% | ~105,307 |
 | Sneaky | 43.00% | ~100,626 |
 | Delving Deeper | 42.00% | ~98,286 |
 | C-C-Combo | 42.00% | ~98,286 |
 | Ambitious Intent | 41.00% | ~95,946 |
 | Nothing To Lose | 40.00% | ~93,606 |
 | The Bestiary | 40.00% | ~93,606 |
-| What's Yours Is Mine | 38.00% | ~88,925 |
+| What's Yours Is Mine | 38.00% | ~88,926 |
 | R.I.P | 36.00% | ~84,245 |
 | Shootout | 36.00% | ~84,245 |
 | I Am Overburdened | 35.00% | ~81,905 |
 | Cold Hearted | 34.00% | ~79,565 |
 | Dig Your Own Grave | 33.00% | ~77,225 |
 | Toxic | 33.00% | ~77,225 |
-| Who To Trust? | 32.00% | ~74,884 |
+| Who To Trust? | 32.00% | ~74,885 |
 | Flesh Wound | 29.00% | ~67,864 |
 | Stone Touch | 28.00% | ~65,524 |
 | Shadow Walker | 28.00% | ~65,524 |
@@ -50,9 +50,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | Just Chilling | 20.00% | ~46,803 |
 | Stop Hitting Yourself | 19.00% | ~44,463 |
 | All Consuming | 18.00% | ~42,123 |
-| Shadow Spreads | 17.00% | ~39,782 |
-| Don't Ignore Me! | 17.00% | ~39,782 |
-| Illuminate, Eliminate | 17.00% | ~39,782 |
+| Shadow Spreads | 17.00% | ~39,783 |
+| Don't Ignore Me! | 17.00% | ~39,783 |
+| Illuminate, Eliminate | 17.00% | ~39,783 |
 | Max Damage! | 16.00% | ~37,442 |
 | Doing Time | 16.00% | ~37,442 |
 | Spreading Plague | 15.00% | ~35,102 |
@@ -62,7 +62,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Berzerker | 12.00% | ~28,082 |
 | Antivenom | 12.00% | ~28,082 |
 | Thank You, Friend | 11.00% | ~25,742 |
-| Barbecue | 10.00% | ~23,401 |
+| Barbecue | 10.00% | ~23,402 |
 | Snake Sneak | 9.00% | ~21,061 |
 | Challenge Increases | 8.00% | ~18,721 |
 | New Game+ | 8.00% | ~18,721 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~936 |
 | Near Death Experience | 0.30% | ~702 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,014 (Ranked 49)  
+Progressed: 234,015 (Ranked 49)  
 Completed: 259 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 259 (0.11%) (Ranked 195)
 | 2023-08-05 | 233,842 | 257 |
 | 2023-08-06 | 233,922 | 258 |
 | 2023-08-07 | 233,970 | 259 |
-| 2023-08-08 | 234,014 | 259 |
+| 2023-08-08 | 234,015 | 259 |
 ## Awards
 Max (Quickly Understood Controls): 1,487  (Ranked 121)  
 Sum: 11,516 (Ranked 78)  

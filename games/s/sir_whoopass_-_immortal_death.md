@@ -17,17 +17,17 @@
 | Rolling, Rolling, Rolling | 73.00% | ~68 |
 | Fire-fighter! | 67.00% | ~62 |
 | Oh, you're up to no gouda! | 63.00% | ~59 |
-| Make Love not War-Craft a Mistlefoe | 60.00% | ~56 |
+| Make Love not War-Craft a Mistlefoe | 61.00% | ~57 |
 | Meat grinder | 60.00% | ~56 |
 | You're not going to blow me up! | 53.00% | ~49 |
 | Mushroom soup of the day | 52.00% | ~48 |
 | Honk honk! | 49.00% | ~46 |
 | Butcher | 49.00% | ~46 |
 | Spare Ribs | 49.00% | ~46 |
-| Cockadoodledoo! | 48.00% | ~45 |
+| Cockadoodledoo! | 49.00% | ~46 |
 | Thats disgusting! | 45.00% | ~42 |
 | My pants squeak when I walk | 44.00% | ~41 |
-| Surprise!! | 42.00% | ~39 |
+| Surprise!! | 43.00% | ~40 |
 | Self assessed tax return | 40.00% | ~37 |
 | Haemochromatosis | 40.00% | ~37 |
 | Make America Grate Again | 35.00% | ~33 |

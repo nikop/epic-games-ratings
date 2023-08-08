@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 8.00% | ~6,615 |
-| Victorious! | 8.00% | ~6,615 |
-| That's a Grand Army | 7.00% | ~5,788 |
-| That is mine! | 7.00% | ~5,788 |
-| Brothers in Arms | 6.00% | ~4,962 |
-| That's a Grand Navy | 6.00% | ~4,962 |
-| Seriously?! | 6.00% | ~4,962 |
-| Cold War | 4.00% | ~3,308 |
-| For the Glory | 4.00% | ~3,308 |
-| Defender of the Faith | 3.00% | ~2,481 |
-| It's all about the money | 3.00% | ~2,481 |
-| Respected | 3.00% | ~2,481 |
-| The Princess is in this Castle | 3.00% | ~2,481 |
-| True Catholic | 3.00% | ~2,481 |
-| Truly Divine Ruler | 3.00% | ~2,481 |
-| Agressive Expander | 2.00% | ~1,654 |
-| Blockader | 2.00% | ~1,654 |
-| Combined Arms | 2.00% | ~1,654 |
-| Double the Love | 2.00% | ~1,654 |
-| It's all about luck | 2.00% | ~1,654 |
-| My armies are invincible! | 2.00% | ~1,654 |
-| Royal Authority | 2.00% | ~1,654 |
-| Total Control | 2.00% | ~1,654 |
+| Until death do us apart | 8.00% | ~6,618 |
+| Victorious! | 8.00% | ~6,618 |
+| That's a Grand Army | 7.00% | ~5,791 |
+| That is mine! | 7.00% | ~5,791 |
+| Brothers in Arms | 6.00% | ~4,964 |
+| That's a Grand Navy | 6.00% | ~4,964 |
+| Seriously?! | 6.00% | ~4,964 |
+| Cold War | 4.00% | ~3,309 |
+| For the Glory | 4.00% | ~3,309 |
+| Defender of the Faith | 3.00% | ~2,482 |
+| It's all about the money | 3.00% | ~2,482 |
+| Respected | 3.00% | ~2,482 |
+| The Princess is in this Castle | 3.00% | ~2,482 |
+| True Catholic | 3.00% | ~2,482 |
+| Truly Divine Ruler | 3.00% | ~2,482 |
+| Agressive Expander | 2.00% | ~1,655 |
+| Blockader | 2.00% | ~1,655 |
+| Combined Arms | 2.00% | ~1,655 |
+| Double the Love | 2.00% | ~1,655 |
+| It's all about luck | 2.00% | ~1,655 |
+| My armies are invincible! | 2.00% | ~1,655 |
+| Royal Authority | 2.00% | ~1,655 |
+| Total Control | 2.00% | ~1,655 |
 | All That's Thine Shall Be Mine | 1.00% | ~827 |
 | Azur semé de lis or | 1.00% | ~827 |
 | Bright Spark | 1.00% | ~827 |
@@ -40,9 +40,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Queen of Conquest | 1.00% | ~827 |
 | The Five Colonies | 1.00% | ~827 |
 | This navy can take it all | 1.00% | ~827 |
-| Isn't this the way to India? | 0.90% | ~744 |
-| Market Control | 0.90% | ~744 |
-| Trustworthy | 0.90% | ~744 |
+| Isn't this the way to India? | 0.90% | ~745 |
+| Market Control | 0.90% | ~745 |
+| Trustworthy | 0.90% | ~745 |
 | Down Under | 0.80% | ~662 |
 | Electable! | 0.70% | ~579 |
 | Populists in Government | 0.70% | ~579 |
@@ -51,14 +51,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Family to Rule them All | 0.60% | ~496 |
 | The pen is mightier than the sword | 0.60% | ~496 |
 | Time Bandit | 0.60% | ~496 |
-| Absolutely | 0.50% | ~413 |
-| Early-Modern Warfare | 0.50% | ~413 |
-| Grand Coalition | 0.50% | ~413 |
-| Live Long and Prosper | 0.50% | ~413 |
-| Ruina Imperii | 0.50% | ~413 |
-| This is My Faith | 0.50% | ~413 |
-| Trophy Hunter | 0.50% | ~413 |
-| Voting Streak | 0.50% | ~413 |
+| Absolutely | 0.50% | ~414 |
+| Early-Modern Warfare | 0.50% | ~414 |
+| Grand Coalition | 0.50% | ~414 |
+| Live Long and Prosper | 0.50% | ~414 |
+| Ruina Imperii | 0.50% | ~414 |
+| This is My Faith | 0.50% | ~414 |
+| Trophy Hunter | 0.50% | ~414 |
+| Voting Streak | 0.50% | ~414 |
 | All Your Trade Are Belong to Us | 0.40% | ~331 |
 | Bleed Them Dry | 0.40% | ~331 |
 | Dude, Where's my Boat? | 0.40% | ~331 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,692 (Ranked 72)  
+Progressed: 82,726 (Ranked 72)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -471,7 +471,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-05 | 80,125 | 0 |
 | 2023-08-06 | 81,143 | 0 |
 | 2023-08-07 | 82,030 | 0 |
-| 2023-08-08 | 82,692 | 0 |
+| 2023-08-08 | 82,726 | 0 |
 ## Awards
 Max (Educational): 5,632  (Ranked 62)  
 Sum: 46,482 (Ranked 26)  
