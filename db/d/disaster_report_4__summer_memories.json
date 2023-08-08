@@ -2,10 +2,10 @@
   "ID": "cb6352a885e2466d900f4f1b737c295a",
   "Name": "Disaster Report 4: Summer Memories",
   "ProductSlug": "disaster-report-4-summer-memories",
-  "Ranking_EOS_Progress": 531,
+  "Ranking_EOS_Progress": 532,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-12-17T16:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:26.1374521+00:00",
   "LastChanged": "2023-03-31T05:57:26.1374523+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:45.58664+00:00",
-  "LastUpdate_Ratings": "2023-08-08T22:01:13.6570702+00:00",
-  "LastUpdate_Achievements": "2023-08-08T22:07:36.9036999+00:00"
+  "LastUpdate_Ratings": "2023-08-08T23:00:02.5628647+00:00",
+  "LastUpdate_Achievements": "2023-08-08T23:05:57.2211795+00:00"
 }

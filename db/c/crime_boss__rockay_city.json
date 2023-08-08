@@ -6,9 +6,9 @@
   "Ranking_Popularity": 215,
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 77,
-  "Ranking_EOS_Completed": 215,
+  "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2910,9 +2910,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71565,
+  "EOS_Progressed": 71567,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -14525,6 +14525,11 @@
       "Time": "2023-08-08T22:06:37.679224+00:00",
       "NumProgressed": 71565,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-08-08T23:05:10.9728094+00:00",
+      "NumProgressed": 71567,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 37,
@@ -14536,7 +14541,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 35782
+      "UsersEstimate": 35784
     },
     {
       "ID": "ACH_0011",
@@ -14560,7 +14565,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 9303
+      "UsersEstimate": 9304
     },
     {
       "ID": "ACH_0014",
@@ -14632,7 +14637,7 @@
       "Name": "Freebooter",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 7156
+      "UsersEstimate": 7157
     },
     {
       "ID": "ACH_0061",
@@ -14680,7 +14685,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46517
+      "UsersEstimate": 46519
     },
     {
       "ID": "ACH_0210",
@@ -14688,7 +14693,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 52958
+      "UsersEstimate": 52960
     },
     {
       "ID": "ACH_0211",
@@ -14760,7 +14765,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24332
+      "UsersEstimate": 24333
     },
     {
       "ID": "ACH_0430",
@@ -14784,7 +14789,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 13597
+      "UsersEstimate": 13598
     },
     {
       "ID": "ACH_0450",
@@ -14792,7 +14797,7 @@
       "Name": "Off the Rocks",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 13597
+      "UsersEstimate": 13598
     },
     {
       "ID": "ACH_0451",
@@ -14831,7 +14836,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71565,
+      "Progressed": 71567,
       "Completed": 37
     }
   ],
@@ -14839,8 +14844,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-08T21:00:31.4033333+00:00",
-  "LastChanged_Achievements": "2023-08-08T22:06:37.6792236+00:00",
+  "LastChanged_Achievements": "2023-08-08T23:05:10.972809+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:57.6753466+00:00",
-  "LastUpdate_Ratings": "2023-08-08T22:01:23.310319+00:00",
-  "LastUpdate_Achievements": "2023-08-08T22:06:37.6793003+00:00"
+  "LastUpdate_Ratings": "2023-08-08T23:00:09.8336383+00:00",
+  "LastUpdate_Achievements": "2023-08-08T23:05:10.9728818+00:00"
 }

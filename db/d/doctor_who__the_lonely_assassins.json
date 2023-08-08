@@ -2,10 +2,10 @@
   "ID": "141904f61264483eaa1f71d7227b0965",
   "Name": "Doctor Who: The Lonely Assassins",
   "ProductSlug": "doctor-who-the-lonely-assassins",
-  "Ranking_EOS_Progress": 531,
+  "Ranking_EOS_Progress": 532,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-06-18T13:00:00+00:00",
     "PcReleaseDate": "2021-03-19T18:00:50+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:31.4200452+00:00",
   "LastChanged": "2023-03-31T05:58:31.4200453+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:00.5968277+00:00",
-  "LastUpdate_Ratings": "2023-08-08T21:59:15.1421446+00:00",
-  "LastUpdate_Achievements": "2023-08-08T22:03:32.621063+00:00"
+  "LastUpdate_Ratings": "2023-08-08T22:58:33.1587631+00:00",
+  "LastUpdate_Achievements": "2023-08-08T23:02:29.6360353+00:00"
 }

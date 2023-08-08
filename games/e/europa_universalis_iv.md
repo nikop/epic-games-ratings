@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 8.00% | ~6,621 |
-| Victorious! | 8.00% | ~6,621 |
-| That's a Grand Army | 7.00% | ~5,793 |
-| That is mine! | 7.00% | ~5,793 |
-| Brothers in Arms | 6.00% | ~4,966 |
-| That's a Grand Navy | 6.00% | ~4,966 |
-| Seriously?! | 6.00% | ~4,966 |
-| Cold War | 4.00% | ~3,310 |
-| For the Glory | 4.00% | ~3,310 |
-| Defender of the Faith | 3.00% | ~2,483 |
-| It's all about the money | 3.00% | ~2,483 |
-| Respected | 3.00% | ~2,483 |
-| The Princess is in this Castle | 3.00% | ~2,483 |
-| True Catholic | 3.00% | ~2,483 |
-| Truly Divine Ruler | 3.00% | ~2,483 |
-| Agressive Expander | 2.00% | ~1,655 |
-| Blockader | 2.00% | ~1,655 |
-| Combined Arms | 2.00% | ~1,655 |
-| Double the Love | 2.00% | ~1,655 |
-| It's all about luck | 2.00% | ~1,655 |
-| My armies are invincible! | 2.00% | ~1,655 |
-| Royal Authority | 2.00% | ~1,655 |
-| Total Control | 2.00% | ~1,655 |
+| Until death do us apart | 8.00% | ~6,623 |
+| Victorious! | 8.00% | ~6,623 |
+| That's a Grand Army | 7.00% | ~5,795 |
+| That is mine! | 7.00% | ~5,795 |
+| Brothers in Arms | 6.00% | ~4,967 |
+| That's a Grand Navy | 6.00% | ~4,967 |
+| Seriously?! | 6.00% | ~4,967 |
+| Cold War | 4.00% | ~3,311 |
+| For the Glory | 4.00% | ~3,311 |
+| Defender of the Faith | 3.00% | ~2,484 |
+| It's all about the money | 3.00% | ~2,484 |
+| Respected | 3.00% | ~2,484 |
+| The Princess is in this Castle | 3.00% | ~2,484 |
+| True Catholic | 3.00% | ~2,484 |
+| Truly Divine Ruler | 3.00% | ~2,484 |
+| Agressive Expander | 2.00% | ~1,656 |
+| Blockader | 2.00% | ~1,656 |
+| Combined Arms | 2.00% | ~1,656 |
+| Double the Love | 2.00% | ~1,656 |
+| It's all about luck | 2.00% | ~1,656 |
+| My armies are invincible! | 2.00% | ~1,656 |
+| Royal Authority | 2.00% | ~1,656 |
+| Total Control | 2.00% | ~1,656 |
 | All That's Thine Shall Be Mine | 1.00% | ~828 |
 | Azur semé de lis or | 1.00% | ~828 |
 | Bright Spark | 1.00% | ~828 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,761 (Ranked 72)  
+Progressed: 82,784 (Ranked 72)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -471,15 +471,15 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-05 | 80,125 | 0 |
 | 2023-08-06 | 81,143 | 0 |
 | 2023-08-07 | 82,030 | 0 |
-| 2023-08-08 | 82,761 | 0 |
+| 2023-08-08 | 82,784 | 0 |
 ## Awards
 Max (Educational): 5,632  (Ranked 62)  
-Sum: 46,482 (Ranked 26)  
+Sum: 46,487 (Ranked 26)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,632 |
-| This game is Highly Recommended | 5,400 |
+| This game is Highly Recommended | 5,405 |
 | This game has Challenging Combat | 5,348 |
 | This game is Extremely Fun | 5,344 |
 | This game has Diverse Characters | 5,308 |
@@ -694,4 +694,4 @@ Diff (max vs sum): 36
 | 2023-08-05 | 4.69 | - | 5,617 | 46,380 |
 | 2023-08-06 | 4.69 | - | 5,624 | 46,418 |
 | 2023-08-07 | 4.69 | - | 5,630 | 46,462 |
-| 2023-08-08 | 4.69 | - | 5,632 | 46,482 |
+| 2023-08-08 | 4.69 | - | 5,632 | 46,487 |

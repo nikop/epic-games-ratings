@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~11,000 |
+| A Brief Tour of the Realms | 5.00% | ~11,001 |
 | Beast Intentions | 3.00% | ~6,600 |
 | Maddening | 2.00% | ~4,400 |
 | The Silken Swamp | 1.00% | ~2,200 |
@@ -14,9 +14,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Lives! | 1.00% | ~1,863 |
 | Rocky Reception | 1.00% | ~1,863 |
 | Rock and Roll | 1.00% | ~1,863 |
-| Tall Tales | 0.90% | ~1,676 |
-| Vecna Loots! | 0.90% | ~1,676 |
-| Flight of the Kindori Pod | 0.90% | ~1,676 |
+| Tall Tales | 0.90% | ~1,677 |
+| Vecna Loots! | 0.90% | ~1,677 |
+| Flight of the Kindori Pod | 0.90% | ~1,677 |
 | Seeds of Destruction | 0.80% | ~1,490 |
 | Return to the Tomb | 0.80% | ~1,490 |
 | The Cursed Farmer | 0.80% | ~1,760 |
@@ -200,6 +200,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.20% | ~373 |
 | Weak Doesn't Mean Feeble | 0.20% | ~373 |
 | Frail Doesn't Mean Broken | 0.20% | ~373 |
+| Unreasonable Doesn't Mean Stupid | 0.20% | ~373 |
 | Clowning Around | 0.20% | ~373 |
 | Anti-Dexterous Explorers | 0.20% | ~440 |
 | Struggling Toward Omu | 0.20% | ~440 |
@@ -305,7 +306,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Strength of Character | 0.10% | ~186 |
 | The Invisible Wizards of Thay | 0.10% | ~186 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~186 |
-| Unreasonable Doesn't Mean Stupid | 0.10% | ~186 |
 | Kas the Bloody Handed | 0.10% | ~186 |
 | Kas the Destroyer | 0.10% | ~186 |
 | Pin and Skewer | 0.10% | ~186 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,001 (Ranked 52)  
+Progressed: 220,011 (Ranked 52)  
 Completed: 2,165 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 2,165 (0.98%) (Ranked 114)
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
-| 2023-08-08 | 220,001 | 2,165 |
+| 2023-08-08 | 220,011 | 2,165 |
 ## Awards
 Max (Diverse Characters): 5,125  (Ranked 67)  
 Sum: 30,949 (Ranked 38)  

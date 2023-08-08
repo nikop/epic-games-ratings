@@ -27,8 +27,8 @@
 | Full power | 20.00% | ~17 |
 | "Ah sh*t... Here we go again!" | 20.00% | ~17 |
 | Nokron tower | 20.00% | ~17 |
+| Magnitude 5 | 20.00% | ~17 |
 | Compulsive hoarder | 19.00% | ~16 |
-| Magnitude 5 | 19.00% | ~16 |
 | GG EZ | 14.00% | ~12 |
 | Comeback | 14.00% | ~12 |
 | MayDay! MayDay! | 12.00% | ~10 |

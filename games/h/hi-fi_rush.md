@@ -22,6 +22,7 @@ Rating: 4.87 (Ranked 24)
 | Time to pay up! | 4.00% | ~152 |
 | Who's the boss now? | 4.00% | ~152 |
 | Whoa! There's ANOTHER health bar!? | 4.00% | ~152 |
+| You must like calling me in, Chai | 4.00% | ~152 |
 | Z-shielding's got nothing on us! | 4.00% | ~152 |
 | Out in a puff of smoke | 4.00% | ~152 |
 | Kissing the sky! | 4.00% | ~152 |
@@ -29,7 +30,6 @@ Rating: 4.87 (Ranked 24)
 | Does that say weakpoint? | 4.00% | ~152 |
 | NOW we got a kickass hideout! | 4.00% | ~93 |
 | I have to read these things? | 3.00% | ~114 |
-| You must like calling me in, Chai | 3.00% | ~114 |
 | Perfecter Parry-er! | 3.00% | ~114 |
 | Well that was a rush! | 2.00% | ~76 |
 | Beat-hit mania | 2.00% | ~76 |

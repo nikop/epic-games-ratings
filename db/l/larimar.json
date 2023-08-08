@@ -2,10 +2,10 @@
   "ID": "d7fd0e955591416db2253c60af999d77",
   "Name": "Larimar",
   "ProductSlug": "assassins-creed-revelations",
-  "Ranking_EOS_Progress": 531,
+  "Ranking_EOS_Progress": 532,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-05T06:58:22.8447497+00:00",
-  "LastUpdate_Ratings": "2023-08-08T21:56:55.1833811+00:00",
-  "LastUpdate_Achievements": "2023-08-08T22:05:47.6372825+00:00"
+  "LastUpdate_Ratings": "2023-08-08T22:56:51.6405066+00:00",
+  "LastUpdate_Achievements": "2023-08-08T23:04:33.0086662+00:00"
 }
