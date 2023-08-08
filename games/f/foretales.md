@@ -25,9 +25,9 @@
 | Welcome to Forte Ailes | 13.00% | ~35 |
 | The Bad Place | 10.00% | ~27 |
 | Meet your maker | 8.00% | ~22 |
+| The pelican brief | 8.00% | ~22 |
 | Pacifist fanatic | 8.00% | ~22 |
 | A grave matter | 7.00% | ~19 |
-| The pelican brief | 7.00% | ~19 |
 | Peaceful protest | 7.00% | ~19 |
 | The Good Place | 7.00% | ~19 |
 | Trial by combat | 7.00% | ~19 |

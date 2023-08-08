@@ -6,13 +6,13 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~475,557 |
-| Apprentice | 58.00% | ~383,088 |
-| Close Shave | 25.00% | ~165,124 |
-| Mercenary | 23.00% | ~151,914 |
-| Ninja | 23.00% | ~151,914 |
-| Northern Scourge | 17.00% | ~112,284 |
-| Thief Bane | 14.00% | ~92,469 |
+| The Fool | 72.00% | ~475,561 |
+| Apprentice | 58.00% | ~383,091 |
+| Close Shave | 25.00% | ~165,125 |
+| Mercenary | 23.00% | ~151,915 |
+| Ninja | 23.00% | ~151,915 |
+| Northern Scourge | 17.00% | ~112,285 |
+| Thief Bane | 14.00% | ~92,470 |
 | Master of Arms | 12.00% | ~79,260 |
 | Gambler | 10.00% | ~66,050 |
 | Dice Master | 10.00% | ~66,050 |
@@ -39,23 +39,23 @@ Number of Ratings: 780  (23.09.2022)
 | Cursed Soul | 1.00% | ~6,605 |
 | Champion | 1.00% | ~6,605 |
 | Final Death | 1.00% | ~6,605 |
-| Thomas' Bane | 0.90% | ~5,944 |
+| Thomas' Bane | 0.90% | ~5,945 |
 | Ally | 0.80% | ~5,284 |
-| Gamester | 0.70% | ~4,623 |
+| Gamester | 0.70% | ~4,624 |
 | Hero | 0.60% | ~3,963 |
 | Rebel | 0.60% | ~3,963 |
-| Dungeon Master | 0.50% | ~3,302 |
+| Dungeon Master | 0.50% | ~3,303 |
 | Pilgrim | 0.40% | ~2,642 |
 | Smiths Honour | 0.40% | ~2,642 |
-| Peaceful Coast | 0.30% | ~1,981 |
+| Peaceful Coast | 0.30% | ~1,982 |
 | Money Bags | 0.20% | ~1,321 |
-| Grifter | 0.10% | ~660 |
-| Unburdened | 0.10% | ~660 |
-| Karma | 0.10% | ~660 |
-| Miracle | 0.10% | ~660 |
-| Blood Pact | 0.10% | ~660 |
+| Grifter | 0.10% | ~661 |
+| Unburdened | 0.10% | ~661 |
+| Karma | 0.10% | ~661 |
+| Miracle | 0.10% | ~661 |
+| Blood Pact | 0.10% | ~661 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 660,496 (Ranked 22)  
+Progressed: 660,501 (Ranked 22)  
 Completed: 168 (0.03%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 168 (0.03%) (Ranked 225)
 | 2023-08-05 | 660,369 | 168 |
 | 2023-08-06 | 660,445 | 168 |
 | 2023-08-07 | 660,489 | 168 |
-| 2023-08-08 | 660,496 | 168 |
+| 2023-08-08 | 660,501 | 168 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 436)  
 Sum: 180 (Ranked 377)  

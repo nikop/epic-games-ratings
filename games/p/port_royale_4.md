@@ -6,25 +6,25 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~658 |
+| Cabin boy | 81.00% | ~659 |
 | My little farm | 65.00% | ~528 |
-| Every beginning is difficult | 62.00% | ~503 |
+| Every beginning is difficult | 62.00% | ~504 |
 | 3, 2, 1, mine | 56.00% | ~455 |
 | Gofer | 56.00% | ~455 |
-| Seafarer | 54.00% | ~438 |
-| O Captain! My Captain! | 53.00% | ~430 |
-| Greed for gold | 43.00% | ~349 |
+| Seafarer | 54.00% | ~439 |
+| O Captain! My Captain! | 54.00% | ~439 |
+| Greed for gold | 43.00% | ~350 |
 | I'm out of here for a while | 42.00% | ~341 |
 | Intangible | 41.00% | ~333 |
-| In a mint condition | 37.00% | ~300 |
-| Licence to Kill | 35.00% | ~284 |
+| In a mint condition | 37.00% | ~301 |
+| Licence to Kill | 36.00% | ~293 |
 | Pirates! | 34.00% | ~276 |
-| Megalomania | 29.00% | ~235 |
-| Collectionitis | 28.00% | ~227 |
-| Christening | 27.00% | ~219 |
+| Megalomania | 29.00% | ~236 |
+| Collectionitis | 28.00% | ~228 |
+| Christening | 27.00% | ~220 |
 | Groundskeeper | 25.00% | ~203 |
 | Wholesale | 22.00% | ~179 |
-| Walk the plank | 20.00% | ~162 |
+| Walk the plank | 20.00% | ~163 |
 | Pearly gates | 17.00% | ~138 |
 | My precious! | 17.00% | ~138 |
 | Conquistador | 13.00% | ~106 |
@@ -38,8 +38,8 @@ Number of Ratings: 53  (23.09.2022)
 | Conglomerate | 6.00% | ~49 |
 | Buccaneer | 5.00% | ~41 |
 | The Grande Bouffe | 5.00% | ~41 |
-| Flying Dutchman | 4.00% | ~32 |
-| Overpopulation | 4.00% | ~32 |
+| Flying Dutchman | 4.00% | ~33 |
+| Overpopulation | 4.00% | ~33 |
 | Premier Maître | 3.00% | ~24 |
 | Supreme conqueror | 3.00% | ~24 |
 | A true pirate! | 3.00% | ~24 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~5 |
 | Davy Jones' locker | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 812 (Ranked 204)  
+Progressed: 813 (Ranked 204)  
 Completed: 1 (0.12%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,6 +156,7 @@ Completed: 1 (0.12%) (Ranked 191)
 | 2023-08-04 | 802 | 1 |
 | 2023-08-05 | 811 | 1 |
 | 2023-08-06 | 812 | 1 |
+| 2023-08-08 | 813 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

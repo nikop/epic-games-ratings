@@ -3018,7 +3018,7 @@
       "Count": 490
     }
   ],
-  "EOS_Progressed": 8377,
+  "EOS_Progressed": 8378,
   "EOS_Completed": 191,
   "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 6,
@@ -8863,6 +8863,11 @@
       "Time": "2023-08-08T06:03:29.6461843+00:00",
       "NumProgressed": 8377,
       "NumCompleted": 191
+    },
+    {
+      "Time": "2023-08-08T07:03:18.1589061+00:00",
+      "NumProgressed": 8378,
+      "NumCompleted": 191
     }
   ],
   "TotalAchievements": 15,
@@ -8938,7 +8943,7 @@
       "Name": "Generous",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "Goofys_Investor",
@@ -8962,7 +8967,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 5780
+      "UsersEstimate": 5781
     },
     {
       "ID": "Renovator",
@@ -8970,7 +8975,7 @@
       "Name": "Renovator",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 4356
+      "UsersEstimate": 4357
     },
     {
       "ID": "Thorn_Cleaner",
@@ -8986,14 +8991,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 5361
+      "UsersEstimate": 5362
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 8377,
+      "Progressed": 8378,
       "Completed": 191
     }
   ],
@@ -9001,8 +9006,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-08-08T01:53:41.400779+00:00",
-  "LastChanged_Achievements": "2023-08-08T06:03:29.6461833+00:00",
+  "LastChanged_Achievements": "2023-08-08T07:03:18.1589056+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.5124398+00:00",
-  "LastUpdate_Ratings": "2023-08-08T05:58:40.0753836+00:00",
-  "LastUpdate_Achievements": "2023-08-08T06:03:29.6462832+00:00"
+  "LastUpdate_Ratings": "2023-08-08T06:58:54.5165259+00:00",
+  "LastUpdate_Achievements": "2023-08-08T07:03:18.1589432+00:00"
 }

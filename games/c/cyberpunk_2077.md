@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~591,462 |
-| Right Back At Ya | 39.00% | ~339,221 |
-| The Lovers | 35.00% | ~304,429 |
-| Stanislavski's Method | 28.00% | ~243,543 |
-| The Wheel of Fortune | 27.00% | ~234,845 |
-| The Hermit | 24.00% | ~208,751 |
-| Christmas Tree Attack | 23.00% | ~200,053 |
-| True Soldier | 23.00% | ~200,053 |
-| The High Priestess | 22.00% | ~191,355 |
-| Legend of The Afterlife | 22.00% | ~191,355 |
-| Life of the Road | 21.00% | ~182,657 |
-| Full Body Conversion | 18.00% | ~156,563 |
-| The World | 18.00% | ~156,563 |
+| The Fool | 68.00% | ~591,465 |
+| Right Back At Ya | 39.00% | ~339,223 |
+| The Lovers | 35.00% | ~304,431 |
+| Stanislavski's Method | 28.00% | ~243,545 |
+| The Wheel of Fortune | 27.00% | ~234,847 |
+| The Hermit | 24.00% | ~208,752 |
+| Christmas Tree Attack | 23.00% | ~200,054 |
+| True Soldier | 23.00% | ~200,054 |
+| The High Priestess | 22.00% | ~191,356 |
+| Legend of The Afterlife | 22.00% | ~191,356 |
+| Life of the Road | 21.00% | ~182,658 |
+| Full Body Conversion | 18.00% | ~156,564 |
+| The World | 18.00% | ~156,564 |
 | Bushido and Chill | 16.00% | ~139,168 |
 | Gun Fu | 15.00% | ~130,470 |
 | True Warrior | 15.00% | ~130,470 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,698 |
 | Rough Landing | 0.50% | ~4,349 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 869,797 (Ranked 14)  
+Progressed: 869,802 (Ranked 14)  
 Completed: 1,948 (0.22%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,14 +161,14 @@ Completed: 1,948 (0.22%) (Ranked 173)
 | 2023-08-05 | 869,431 | 1,936 |
 | 2023-08-06 | 869,632 | 1,943 |
 | 2023-08-07 | 869,778 | 1,948 |
-| 2023-08-08 | 869,797 | 1,948 |
+| 2023-08-08 | 869,802 | 1,948 |
 ## Awards
-Max (Character Customization): 75,020  (Ranked 9)  
-Sum: 197,895 (Ranked 13)  
+Max (Character Customization): 75,084  (Ranked 9)  
+Sum: 197,959 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 75,020 |
+| This game has Inclusive Character Customization | 75,084 |
 | This game has Great Boss Battles | 48,431 |
 | This game has Diverse Characters | 8,783 |
 | This game is Great for Beginners | 8,772 |
@@ -383,4 +383,4 @@ Diff (max vs sum): -4
 | 2023-08-05 | 4.62 | - | 74,859 | 197,367 |
 | 2023-08-06 | 4.62 | - | 74,927 | 197,636 |
 | 2023-08-07 | 4.62 | - | 75,020 | 197,866 |
-| 2023-08-08 | 4.62 | - | 75,020 | 197,895 |
+| 2023-08-08 | 4.62 | - | 75,084 | 197,959 |

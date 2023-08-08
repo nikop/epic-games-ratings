@@ -51,6 +51,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 0.90% | ~120 |
 | Great | 0.90% | ~120 |
 | Great Ziggurat | 0.90% | ~120 |
+| Musaeum | 0.90% | ~120 |
 | Necropolis | 0.90% | ~120 |
 | Learn to Play 1 | 0.90% | ~120 |
 | Manichaeism | 0.90% | ~120 |
@@ -60,7 +61,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.80% | ~107 |
 | Apadana | 0.80% | ~107 |
 | Colossus | 0.80% | ~107 |
-| Musaeum | 0.80% | ~107 |
 | Drillmaster | 0.70% | ~93 |
 | Intercessor | 0.70% | ~93 |
 | Valiant | 0.70% | ~93 |

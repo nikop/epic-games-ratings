@@ -231,9 +231,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 198529,
+  "EOS_Progressed": 198531,
   "EOS_Completed": 478,
-  "EOS_NewPlayers": 600,
+  "EOS_NewPlayers": 599,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -11936,6 +11936,11 @@
       "Time": "2023-08-08T05:03:37.1064859+00:00",
       "NumProgressed": 198529,
       "NumCompleted": 478
+    },
+    {
+      "Time": "2023-08-08T07:02:41.0534111+00:00",
+      "NumProgressed": 198531,
+      "NumCompleted": 478
     }
   ],
   "TotalAchievements": 29,
@@ -11971,7 +11976,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 186617
+      "UsersEstimate": 186619
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -12027,7 +12032,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9926
+      "UsersEstimate": 9927
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -12107,7 +12112,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9926
+      "UsersEstimate": 9927
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -12178,7 +12183,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 198529,
+      "Progressed": 198531,
       "Completed": 478
     }
   ],
@@ -12186,8 +12191,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-07-27T20:00:18.65769+00:00",
-  "LastChanged_Achievements": "2023-08-08T06:03:15.9855033+00:00",
+  "LastChanged_Achievements": "2023-08-08T07:02:41.0534106+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:48.6889671+00:00",
-  "LastUpdate_Ratings": "2023-08-08T05:59:16.2026276+00:00",
-  "LastUpdate_Achievements": "2023-08-08T06:03:15.9855987+00:00"
+  "LastUpdate_Ratings": "2023-08-08T06:59:42.8677489+00:00",
+  "LastUpdate_Achievements": "2023-08-08T07:02:41.0534795+00:00"
 }

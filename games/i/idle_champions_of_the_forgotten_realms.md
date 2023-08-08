@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,792 |
+| A Brief Tour of the Realms | 4.00% | ~8,793 |
 | Beast Intentions | 3.00% | ~6,594 |
 | Maddening | 2.00% | ~4,396 |
 | The Silken Swamp | 1.00% | ~2,198 |
@@ -18,7 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flight of the Kindori Pod | 0.90% | ~1,675 |
 | Tall Tales | 0.80% | ~1,489 |
 | Seeds of Destruction | 0.80% | ~1,489 |
-| The Cursed Farmer | 0.80% | ~1,758 |
+| The Cursed Farmer | 0.80% | ~1,759 |
 | Topolah's Tower | 0.80% | ~1,489 |
 | Pros and CONs | 0.70% | ~1,539 |
 | The Witchlight Carnival | 0.70% | ~1,303 |
@@ -36,8 +36,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hatchlings Underfoot | 0.60% | ~1,319 |
 | Don't Look Up! | 0.60% | ~1,319 |
 | Heavy Burden | 0.60% | ~1,319 |
-| The Evacuation of Waterdeep | 0.60% | ~1,116 |
-| The Dread Domain of Tovag | 0.60% | ~1,116 |
+| The Evacuation of Waterdeep | 0.60% | ~1,117 |
+| The Dread Domain of Tovag | 0.60% | ~1,117 |
 | Beast Mode | 0.60% | ~1,319 |
 | Low Initiative | 0.60% | ~1,319 |
 | Street War | 0.60% | ~1,319 |
@@ -46,7 +46,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.60% | ~1,319 |
 | The Botched Kidnapping | 0.60% | ~1,319 |
 | The Ring of Regeneration | 0.60% | ~1,319 |
-| Krux's Speed Run | 0.60% | ~1,116 |
+| Krux's Speed Run | 0.60% | ~1,117 |
 | Thieves of the Coven | 0.50% | ~930 |
 | Friends of the Forest | 0.50% | ~1,099 |
 | March of the Undead | 0.50% | ~1,099 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,808 (Ranked 52)  
+Progressed: 219,815 (Ranked 52)  
 Completed: 2,163 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 2,163 (0.98%) (Ranked 114)
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
-| 2023-08-08 | 219,808 | 2,163 |
+| 2023-08-08 | 219,815 | 2,163 |
 ## Awards
 Max (Diverse Characters): 5,125  (Ranked 67)  
 Sum: 30,940 (Ranked 38)  

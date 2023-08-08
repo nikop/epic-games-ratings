@@ -6,40 +6,40 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~105,938 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~79,738 |
-| A Clear Conscience | 69.00% | ~78,599 |
-| Unleash Hell | 68.00% | ~77,460 |
-| Unfulfilled Desires | 68.00% | ~77,460 |
-| Funny Guy | 67.00% | ~76,321 |
-| Unshackled | 67.00% | ~76,321 |
-| Long Live the King | 66.00% | ~75,182 |
-| Resurrection | 62.00% | ~70,625 |
-| Wyrdly Reconstructed | 62.00% | ~70,625 |
-| Boxcar Kid | 60.00% | ~68,347 |
-| Rush Hour | 60.00% | ~68,347 |
-| To Grandmother's House | 60.00% | ~68,347 |
-| Serenity Now! | 52.00% | ~59,234 |
+| A Place to Lay Your Head | 93.00% | ~105,939 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~79,739 |
+| A Clear Conscience | 69.00% | ~78,600 |
+| Unleash Hell | 68.00% | ~77,461 |
+| Unfulfilled Desires | 68.00% | ~77,461 |
+| Funny Guy | 67.00% | ~76,322 |
+| Unshackled | 67.00% | ~76,322 |
+| Long Live the King | 66.00% | ~75,183 |
+| Resurrection | 62.00% | ~70,626 |
+| Wyrdly Reconstructed | 62.00% | ~70,626 |
+| Boxcar Kid | 60.00% | ~68,348 |
+| Rush Hour | 60.00% | ~68,348 |
+| To Grandmother's House | 60.00% | ~68,348 |
+| Serenity Now! | 52.00% | ~59,235 |
 | Hope Rekindled | 50.00% | ~56,956 |
 | Ramble On | 48.00% | ~54,678 |
 | Nope | 47.00% | ~53,539 |
 | This Looks Familiar | 38.00% | ~43,287 |
-| Now Stay Dead | 36.00% | ~41,008 |
-| Harvest Festival | 36.00% | ~41,008 |
-| Hot Air | 36.00% | ~41,008 |
-| Merry Time | 35.00% | ~39,869 |
+| Now Stay Dead | 36.00% | ~41,009 |
+| Harvest Festival | 36.00% | ~41,009 |
+| Hot Air | 36.00% | ~41,009 |
+| Merry Time | 35.00% | ~39,870 |
 | Creep and Sleep | 33.00% | ~37,591 |
 | Overdue Notice | 31.00% | ~35,313 |
 | Whale | 31.00% | ~35,313 |
 | Banishment | 30.00% | ~34,174 |
-| FNG | 29.00% | ~33,034 |
+| FNG | 29.00% | ~33,035 |
 | Predator | 24.00% | ~27,339 |
 | Reverse Banditry | 24.00% | ~27,339 |
 | Autodidact | 24.00% | ~27,339 |
 | Meat and Greet | 22.00% | ~25,061 |
 | Spelunker | 21.00% | ~23,922 |
 | Road Trip | 21.00% | ~23,922 |
-| Eyes Up | 20.00% | ~22,782 |
+| Eyes Up | 20.00% | ~22,783 |
 | It Rings a Bell | 19.00% | ~21,643 |
 | Escape from the Black Hole | 17.00% | ~19,365 |
 | It Happens | 17.00% | ~19,365 |
@@ -48,7 +48,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Handled | 15.00% | ~17,087 |
 | Catch and Decease | 14.00% | ~15,948 |
 | Not Today! | 13.00% | ~14,809 |
-| Deprogramming | 12.00% | ~13,669 |
+| Deprogramming | 12.00% | ~13,670 |
 | Shrine of Reflection | 11.00% | ~12,530 |
 | When You Want Something Done Right | 10.00% | ~11,391 |
 | Body of Work | 9.00% | ~10,252 |
@@ -56,7 +56,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hat Trick | 6.00% | ~6,835 |
 | Ichthyophobic | 5.00% | ~5,696 |
 | No More Mouths to Feed | 5.00% | ~5,696 |
-| The World As It Was | 4.00% | ~4,556 |
+| The World As It Was | 4.00% | ~4,557 |
 | Triage | 3.00% | ~3,417 |
 | A Life Well Lived | 2.00% | ~2,278 |
 | Clearing the Ledger | 2.00% | ~2,278 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~114 |
 | 20,000 Leagues Above the Sea | 0.10% | ~114 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113,912 (Ranked 68)  
+Progressed: 113,913 (Ranked 68)  
 Completed: 1 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,10 +172,10 @@ Completed: 1 (0.00%) (Ranked 251)
 | 2023-08-05 | 113,641 | 1 |
 | 2023-08-06 | 113,779 | 1 |
 | 2023-08-07 | 113,886 | 1 |
-| 2023-08-08 | 113,912 | 1 |
+| 2023-08-08 | 113,913 | 1 |
 ## Awards
 Max (Character Customization): 7,318  (Ranked 47)  
-Sum: 18,973 (Ranked 56)  
+Sum: 18,975 (Ranked 56)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
@@ -185,7 +185,7 @@ Diff (max vs sum): -9
 | This game is Highly Recommended | 1,396 |
 | This game has Amazing Characters | 1,345 |
 | This game is Extremely Fun | 1,343 |
-| This game has Amazing Storytelling | 1,258 |
+| This game has Amazing Storytelling | 1,260 |
 | This game has Quickly Understood Controls | 1,254 |
 | This game has Unique Visuals | 1,214 |
 | This game has a Creative Community | 907 |
@@ -388,3 +388,4 @@ Diff (max vs sum): -9
 | 2023-08-05 | 4.68 | - | 7,316 | 18,958 |
 | 2023-08-06 | 4.68 | - | 7,317 | 18,961 |
 | 2023-08-07 | 4.68 | - | 7,318 | 18,973 |
+| 2023-08-08 | 4.68 | - | 7,318 | 18,975 |

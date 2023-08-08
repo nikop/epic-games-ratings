@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 660496,
+  "EOS_Progressed": 660501,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11232,6 +11232,11 @@
       "Time": "2023-08-08T06:04:12.6998313+00:00",
       "NumProgressed": 660496,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-08-08T07:04:12.0355272+00:00",
+      "NumProgressed": 660501,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -11243,7 +11248,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 475557
+      "UsersEstimate": 475561
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -11251,7 +11256,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383088
+      "UsersEstimate": 383091
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -11259,7 +11264,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151914
+      "UsersEstimate": 151915
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -11291,7 +11296,7 @@
       "Name": "Dungeon Master",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3302
+      "UsersEstimate": 3303
     },
     {
       "ID": "Achievement_08_Card_Sharp",
@@ -11323,7 +11328,7 @@
       "Name": "Grifter",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "Achievement_12_Jack_of_all_Trades",
@@ -11379,7 +11384,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151914
+      "UsersEstimate": 151915
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -11387,7 +11392,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92469
+      "UsersEstimate": 92470
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -11395,7 +11400,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112284
+      "UsersEstimate": 112285
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -11443,7 +11448,7 @@
       "Name": "Gamester",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4623
+      "UsersEstimate": 4624
     },
     {
       "ID": "Achievement_27_Money_Bags",
@@ -11459,7 +11464,7 @@
       "Name": "Unburdened",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "Achievement_29_Focused",
@@ -11491,7 +11496,7 @@
       "Name": "Karma",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "Achievement_33_Combat_Ready",
@@ -11507,7 +11512,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165124
+      "UsersEstimate": 165125
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -11571,7 +11576,7 @@
       "Name": "Thomas\u0027 Bane",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5944
+      "UsersEstimate": 5945
     },
     {
       "ID": "Achievement_43_Final_Death",
@@ -11587,7 +11592,7 @@
       "Name": "Miracle",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "Achievement_45_Peaceful_Coast",
@@ -11595,7 +11600,7 @@
       "Name": "Peaceful Coast",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "Achievement_46_Pilgrim",
@@ -11619,22 +11624,22 @@
       "Name": "Blood Pact",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     }
   ],
   "AchievementSets": [
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 660496,
+      "Progressed": 660501,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-08-08T06:04:12.6998308+00:00",
+  "LastChanged_Achievements": "2023-08-08T07:04:12.0355268+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.5296655+00:00",
-  "LastUpdate_Ratings": "2023-08-08T05:58:18.7553577+00:00",
-  "LastUpdate_Achievements": "2023-08-08T06:04:12.6999251+00:00"
+  "LastUpdate_Ratings": "2023-08-08T06:58:25.5057666+00:00",
+  "LastUpdate_Achievements": "2023-08-08T07:04:12.0356093+00:00"
 }

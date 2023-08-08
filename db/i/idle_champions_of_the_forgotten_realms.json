@@ -5638,9 +5638,9 @@
       "Count": 3345
     }
   ],
-  "EOS_Progressed": 219808,
+  "EOS_Progressed": 219815,
   "EOS_Completed": 2163,
-  "EOS_NewPlayers": 2252,
+  "EOS_NewPlayers": 2249,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17483,6 +17483,11 @@
       "Time": "2023-08-08T06:03:12.0681095+00:00",
       "NumProgressed": 219808,
       "NumCompleted": 2163
+    },
+    {
+      "Time": "2023-08-08T07:02:36.4530012+00:00",
+      "NumProgressed": 219815,
+      "NumCompleted": 2163
     }
   ],
   "TotalAchievements": 512,
@@ -17494,7 +17499,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8792
+      "UsersEstimate": 8793
     },
     {
       "ID": "objective_completed_10",
@@ -18142,7 +18147,7 @@
       "Name": "The Evacuation of Waterdeep",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "objective_completed_1159",
@@ -18278,7 +18283,7 @@
       "Name": "The Dread Domain of Tovag",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "objective_completed_1184",
@@ -19166,7 +19171,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "objective_completed_34",
@@ -21574,7 +21579,7 @@
       "Name": "Krux\u0027s Speed Run",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "objective_completed_1392",
@@ -21589,21 +21594,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 186082,
+      "Progressed": 186089,
       "Completed": 3068
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219808,
+      "Progressed": 219815,
       "Completed": 2163
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-08T05:58:40.4453786+00:00",
-  "LastChanged_Achievements": "2023-08-08T06:03:12.0681091+00:00",
+  "LastChanged_Achievements": "2023-08-08T07:02:36.4530005+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-08T05:58:40.4453794+00:00",
-  "LastUpdate_Achievements": "2023-08-08T06:03:12.0707574+00:00"
+  "LastUpdate_Ratings": "2023-08-08T06:58:54.9840402+00:00",
+  "LastUpdate_Achievements": "2023-08-08T07:02:36.4554372+00:00"
 }

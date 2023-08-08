@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blunga 1 | 99.00% | ~230 |
-| Mjam-Mjam | 97.00% | ~225 |
-| Onk Boga I | 96.00% | ~223 |
-| Sniarb! | 91.00% | ~211 |
-| Blunga 5 | 67.00% | ~155 |
-| Onk Boga II | 65.00% | ~151 |
-| Bzzzzzz | 59.00% | ~137 |
-| Onk Boga III | 51.00% | ~118 |
-| Danka, Lagga, Wonwon | 44.00% | ~102 |
-| Onk Boga IV | 44.00% | ~102 |
-| Blunga 10 | 42.00% | ~97 |
-| BumBum | 42.00% | ~97 |
-| Onk Boga V | 39.00% | ~90 |
+| Blunga 1 | 99.00% | ~231 |
+| Mjam-Mjam | 97.00% | ~226 |
+| Onk Boga I | 96.00% | ~224 |
+| Sniarb! | 91.00% | ~212 |
+| Blunga 5 | 67.00% | ~156 |
+| Onk Boga II | 64.00% | ~149 |
+| Bzzzzzz | 58.00% | ~135 |
+| Onk Boga III | 51.00% | ~119 |
+| Danka, Lagga, Wonwon | 44.00% | ~103 |
+| Onk Boga IV | 44.00% | ~103 |
+| Blunga 10 | 42.00% | ~98 |
+| BumBum | 42.00% | ~98 |
+| Onk Boga V | 39.00% | ~91 |
 | Onk Boga VI | 36.00% | ~84 |
 | IQ62 | 36.00% | ~84 |
-| 1978 | 35.00% | ~81 |
-| Onk Boga VII | 35.00% | ~81 |
+| 1978 | 35.00% | ~82 |
+| Onk Boga VII | 35.00% | ~82 |
 | Onk Boga VIII | 34.00% | ~79 |
 | Blubb | 34.00% | ~79 |
-| ParaPara! | 32.00% | ~74 |
-| Onk Boga IX | 32.00% | ~74 |
-| AKRE! | 32.00% | ~74 |
+| ParaPara! | 32.00% | ~75 |
+| Onk Boga IX | 32.00% | ~75 |
+| AKRE! | 32.00% | ~75 |
 | Blunga 15 | 31.00% | ~72 |
 | Kokakoka | 31.00% | ~72 |
 | Blunga 20 | 12.00% | ~28 |
 | Blunga 25 | 7.00% | ~16 |
 | Blunga 30 | 6.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232 (Ranked 274)  
-Completed: 14 (6.03%) (Ranked 42)  
+Progressed: 233 (Ranked 274)  
+Completed: 14 (6.01%) (Ranked 42)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -93,6 +93,7 @@ Completed: 14 (6.03%) (Ranked 42)
 | 2023-08-03 | 228 | 13 |
 | 2023-08-04 | 229 | 14 |
 | 2023-08-05 | 232 | 14 |
+| 2023-08-08 | 233 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1399,9 +1399,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 192109,
+  "EOS_Progressed": 192114,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 1764,
+  "EOS_NewPlayers": 1766,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13459,6 +13459,11 @@
       "Time": "2023-08-08T06:00:36.4538316+00:00",
       "NumProgressed": 192109,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-08-08T07:02:19.5189785+00:00",
+      "NumProgressed": 192114,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 44,
@@ -13526,7 +13531,7 @@
       "Name": "Flying Rocks",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9605
+      "UsersEstimate": 9606
     },
     {
       "ID": "GearUp",
@@ -13534,7 +13539,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7684
+      "UsersEstimate": 7685
     },
     {
       "ID": "Genin",
@@ -13542,7 +13547,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 21132
+      "UsersEstimate": 21133
     },
     {
       "ID": "HappyLittleAccidents",
@@ -13550,7 +13555,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7684
+      "UsersEstimate": 7685
     },
     {
       "ID": "HappyPlanning",
@@ -13622,7 +13627,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9605
+      "UsersEstimate": 9606
     },
     {
       "ID": "NoGimmicks",
@@ -13646,7 +13651,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 9605
+      "UsersEstimate": 9606
     },
     {
       "ID": "OldMan",
@@ -13670,7 +13675,7 @@
       "Name": "Prisoners",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7684
+      "UsersEstimate": 7685
     },
     {
       "ID": "ReleaseTheKraken",
@@ -13782,7 +13787,7 @@
       "Name": "Too Early",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7684
+      "UsersEstimate": 7685
     },
     {
       "ID": "Warzone",
@@ -13790,7 +13795,7 @@
       "Name": "Warzone",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9605
+      "UsersEstimate": 9606
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -13821,15 +13826,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 192109,
+      "Progressed": 192114,
       "Completed": 67
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-06T19:01:09.3807831+00:00",
-  "LastChanged_Achievements": "2023-08-08T06:00:36.4538309+00:00",
+  "LastChanged_Achievements": "2023-08-08T07:02:19.5189775+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:04.7393029+00:00",
-  "LastUpdate_Ratings": "2023-08-08T05:59:27.8987163+00:00",
-  "LastUpdate_Achievements": "2023-08-08T06:00:36.4539739+00:00"
+  "LastUpdate_Ratings": "2023-08-08T06:59:58.9699731+00:00",
+  "LastUpdate_Achievements": "2023-08-08T07:02:19.5190686+00:00"
 }

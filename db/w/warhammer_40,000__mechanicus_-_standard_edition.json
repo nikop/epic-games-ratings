@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -549,9 +549,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 219622,
+  "EOS_Progressed": 219625,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 679,
+  "EOS_NewPlayers": 676,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12364,6 +12364,11 @@
       "Time": "2023-08-08T06:06:13.8008786+00:00",
       "NumProgressed": 219622,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-08T07:06:40.2223343+00:00",
+      "NumProgressed": 219625,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -12375,7 +12380,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41728
+      "UsersEstimate": 41729
     },
     {
       "ID": "ACH_BASE_10",
@@ -12455,7 +12460,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13177
+      "UsersEstimate": 13178
     },
     {
       "ID": "ACH_BASE_20",
@@ -12646,7 +12651,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 219622,
+      "Progressed": 219625,
       "Completed": 5
     }
   ],
@@ -12654,8 +12659,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-29T17:58:35.8211483+00:00",
-  "LastChanged_Achievements": "2023-08-08T06:06:13.800878+00:00",
+  "LastChanged_Achievements": "2023-08-08T07:06:40.2223339+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:23.1317268+00:00",
-  "LastUpdate_Ratings": "2023-08-08T05:58:57.6718901+00:00",
-  "LastUpdate_Achievements": "2023-08-08T06:06:13.800984+00:00"
+  "LastUpdate_Ratings": "2023-08-08T06:59:17.296762+00:00",
+  "LastUpdate_Achievements": "2023-08-08T07:06:40.2224094+00:00"
 }

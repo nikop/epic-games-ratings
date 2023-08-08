@@ -6,15 +6,15 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,908 |
+| Tattletale | 41.00% | ~5,909 |
 | Man of politics | 35.00% | ~5,044 |
-| Friends of sorts | 34.00% | ~4,899 |
-| Yet another secret | 34.00% | ~4,899 |
-| Let there be darkness | 32.00% | ~4,611 |
+| Friends of sorts | 34.00% | ~4,900 |
+| Yet another secret | 34.00% | ~4,900 |
+| Let there be darkness | 32.00% | ~4,612 |
 | End of Book One | 30.00% | ~4,323 |
-| Wannabe knight | 24.00% | ~3,458 |
-| Garden of Eden | 24.00% | ~3,458 |
-| Full house | 24.00% | ~3,458 |
+| Wannabe knight | 24.00% | ~3,459 |
+| Garden of Eden | 24.00% | ~3,459 |
+| Full house | 24.00% | ~3,459 |
 | Help an old friend | 22.00% | ~3,170 |
 | Two of us | 20.00% | ~2,882 |
 | Negotiation skills | 18.00% | ~2,594 |
@@ -22,7 +22,7 @@ Number of Ratings: 368  (23.09.2022)
 | End of Book Two | 18.00% | ~2,594 |
 | Everything's in order | 17.00% | ~2,450 |
 | Jack was here! | 15.00% | ~2,162 |
-| Twist of Fate | 14.00% | ~2,017 |
+| Twist of Fate | 14.00% | ~2,018 |
 | Exterminator | 13.00% | ~1,873 |
 | Whodunnit | 13.00% | ~1,873 |
 | Good midwife | 11.00% | ~1,585 |
@@ -38,9 +38,9 @@ Number of Ratings: 368  (23.09.2022)
 | A cry for help | 8.00% | ~1,153 |
 | Silentium est aureum | 7.00% | ~1,009 |
 | Rebel without a cause | 6.00% | ~865 |
-| Staring contest champion | 5.00% | ~720 |
-| Lone wolf | 5.00% | ~720 |
-| Vox Populi | 5.00% | ~720 |
+| Staring contest champion | 5.00% | ~721 |
+| Lone wolf | 5.00% | ~721 |
+| Vox Populi | 5.00% | ~721 |
 | Revenge | 4.00% | ~576 |
 | Self-defense | 4.00% | ~576 |
 | Countess Aliena | 4.00% | ~576 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~432 |
 | Boy of mystery | 2.00% | ~288 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,410 (Ranked 116)  
+Progressed: 14,411 (Ranked 116)  
 Completed: 107 (0.74%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 107 (0.74%) (Ranked 123)
 | 2023-08-05 | 14,365 | 107 |
 | 2023-08-06 | 14,386 | 107 |
 | 2023-08-07 | 14,409 | 107 |
-| 2023-08-08 | 14,410 | 107 |
+| 2023-08-08 | 14,411 | 107 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 297)  
 Sum: 188 (Ranked 373)  

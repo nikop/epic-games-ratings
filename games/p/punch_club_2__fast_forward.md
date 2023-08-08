@@ -24,17 +24,17 @@
 | Employee of the month | 64.00% | ~150 |
 | Spirit of the past | 62.00% | ~146 |
 | Law student | 60.00% | ~141 |
+| It's good to be alive | 59.00% | ~139 |
+| Workout professional | 58.00% | ~136 |
 | Little hacker | 58.00% | ~136 |
-| It's good to be alive | 58.00% | ~136 |
-| Workout professional | 57.00% | ~134 |
 | Champion – starter pack | 57.00% | ~134 |
 | Own four walls | 57.00% | ~134 |
 | Intriguing candies | 57.00% | ~134 |
+| Employee of the year | 57.00% | ~134 |
 | Handyman | 56.00% | ~132 |
-| Employee of the year | 56.00% | ~132 |
 | Fight for life | 55.00% | ~129 |
+| Extreme neuropower! | 52.00% | ~122 |
 | Legal courier | 51.00% | ~120 |
-| Extreme neuropower! | 51.00% | ~120 |
 | Escaped from a big trouble | 49.00% | ~115 |
 | Now you are worthy | 45.00% | ~106 |
 | Guiding on the right path | 45.00% | ~106 |
@@ -46,9 +46,9 @@
 | Responsible approach | 38.00% | ~89 |
 | Champion – no way back | 37.00% | ~87 |
 | Poisoned fighter | 37.00% | ~87 |
+| Underground dwellers | 37.00% | ~87 |
 | Deal with life | 36.00% | ~85 |
 | GYM professional | 36.00% | ~85 |
-| Underground dwellers | 36.00% | ~85 |
 | Mom got better | 34.00% | ~80 |
 | The die is cast | 34.00% | ~80 |
 | Seashell hunter | 34.00% | ~80 |
