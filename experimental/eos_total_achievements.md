@@ -353,6 +353,7 @@
 | [New Tales from the Borderlands](../games/n/new_tales_from_the_borderlands.md) | 26 | 1,000 |
 | [Outcore - Desktop Adventure](../games/o/outcore_-_desktop_adventure.md) | 26 | 1,000 |
 | [Recollection](../games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 26 | 1,000 |
+| [Shadow Gambit: The Cursed Crew](../games/s/shadow_gambit__the_cursed_crew.md) | 26 | 1,000 |
 | [SPINGUN](../games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 26 | 1,000 |
 | [Tortuga - A Pirate's Tale](../games/t/tortuga_-_a_pirate's_tale.md) | 26 | 1,000 |
 | [12 orbits](../games/1/12_orbits.md) | 25 | 1,000 |
@@ -429,6 +430,7 @@
 | [Charon's Staircase](../games/c/charon's_staircase.md) | 20 | 1,000 |
 | [Dark Fantasy Jigsaw Puzzle](../games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 20 | 1,000 |
 | [JARS](../games/j/jars.md) | 20 | 1,000 |
+| [KeyWe](../games/k/keywe.md) | 20 | 1,250 |
 | [Late Shift](../games/l/late_shift.md) | 20 | 1,000 |
 | [Life Changer](../games/f/f853934fb6874d8783701be12ba6b8b9.md) | 20 | 1,000 |
 | [One More Dungeon 2](../games/4/46c8eccba1224195bdd112048075cc37.md) | 20 | 1,000 |

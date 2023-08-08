@@ -23,7 +23,7 @@
 | [House Party](../games/h/house_party.md) | 69 | 1,040 | 2 |
 | [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 512 | 2,560 | 2 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 | 2 |
-| [KeyWe](../games/k/keywe.md) | 0 | 0 | 2 |
+| [KeyWe](../games/k/keywe.md) | 20 | 1,250 | 2 |
 | [Mass Effect™ Legendary Edition](../games/m/mass_effect™_legendary_edition.md) | 0 | 0 | 2 |
 | [Mega City Police](../games/m/mega_city_police.md) | 26 | 1,000 | 2 |
 | [Old World](../games/o/old_world.md) | 296 | 3,040 | 2 |

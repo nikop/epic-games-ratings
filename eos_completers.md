@@ -7,21 +7,21 @@
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 23.33% |
-| 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 21.74% |
+| 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.61% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.16% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
-| 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.02% |
+| 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.64% |
 | 17 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.97% |
 | 19 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.54% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.33% |
 | 21 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
-| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.73% |
+| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.71% |
 | 23 | [Remains](games/r/remains.md) | 10.64% |
 | 24 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.53% |
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
@@ -29,7 +29,7 @@
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.81% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.18% |
-| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
+| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.91% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.62% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -75,8 +75,8 @@
 | 73 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 74 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.70% |
 | 74 | [The Bunker](games/t/the_bunker.md) | 2.70% |
-| 76 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.63% |
-| 77 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.61% |
+| 76 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.61% |
+| 76 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.61% |
 | 78 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 79 | [Lamentum](games/l/lamentum.md) | 2.54% |
 | 80 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -123,9 +123,9 @@
 | 121 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
 | 121 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.75% |
 | 123 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
-| 124 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 124 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.66% |
-| 126 | [Haven](games/h/haven.md) | 0.65% |
+| 125 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.65% |
+| 125 | [Haven](games/h/haven.md) | 0.65% |
 | 127 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 127 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.63% |
 | 129 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
@@ -369,6 +369,7 @@
 | 251 | [JYDGE](games/j/jydge.md) | 0.00% |
 | 251 | [Kabaret](games/k/kabaret.md) | 0.00% |
 | 251 | [Kainga: Seeds of Civilization](games/k/kainga__seeds_of_civilization.md) | 0.00% |
+| 251 | [KeyWe](games/k/keywe.md) | 0.00% |
 | 251 | [laserlemon Production](games/l/laserlemon_production.md) | 0.00% |
 | 251 | [Last Labyrinth](games/6/63e942fbfc8e40a5af2f7749a8cbcc09.md) | 0.00% |
 | 251 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 0.00% |

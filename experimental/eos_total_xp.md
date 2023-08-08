@@ -21,6 +21,7 @@
 | [Train Valley 2](../games/t/train_valley_2.md) | 89 | 1,300 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](../games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 68 | 1,300 |
 | [Hi-Fi RUSH](../games/h/hi-fi_rush.md) | 71 | 1,250 |
+| [KeyWe](../games/k/keywe.md) | 20 | 1,250 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 |
 | [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 14 | 1,220 |
@@ -426,6 +427,7 @@
 | [Session: Skate Sim](../games/s/session__skate_sim.md) | 48 | 1,000 |
 | [Seven Doors](../games/s/seven_doors.md) | 17 | 1,000 |
 | [Severed Steel](../games/s/severed_steel.md) | 52 | 1,000 |
+| [Shadow Gambit: The Cursed Crew](../games/s/shadow_gambit__the_cursed_crew.md) | 26 | 1,000 |
 | [Shadow Gangs](../games/s/shadow_gangs.md) | 42 | 1,000 |
 | [Shadow Tactics: Blades of the Shogun](../games/s/shadow_tactics__blades_of_the_shogun.md) | 44 | 1,000 |
 | [Shame Legacy](../games/s/shame_legacy.md) | 15 | 1,000 |
