@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 537,
+  "EOS_Progressed": 538,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2299,6 +2299,11 @@
       "Time": "2023-08-08T14:02:14.5709178+00:00",
       "NumProgressed": 537,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-08T18:03:06.9916047+00:00",
+      "NumProgressed": 538,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2326,7 +2331,7 @@
       "Name": "Culinary Arts",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "5OvenDishesMenu",
@@ -2382,7 +2387,7 @@
       "Name": "Perfectionist",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "DilemasResponsibility10",
@@ -2478,7 +2483,7 @@
       "Name": "Rolling in Dough",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "OpenRestaurant",
@@ -2629,7 +2634,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 537,
+      "Progressed": 538,
       "Completed": 0
     }
   ],
@@ -2637,8 +2642,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-08-08T17:02:52.6410397+00:00",
+  "LastChanged_Achievements": "2023-08-08T18:03:06.9916043+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.7769167+00:00",
-  "LastUpdate_Ratings": "2023-08-08T17:00:08.7912676+00:00",
-  "LastUpdate_Achievements": "2023-08-08T17:02:52.6411189+00:00"
+  "LastUpdate_Ratings": "2023-08-08T17:59:39.1944766+00:00",
+  "LastUpdate_Achievements": "2023-08-08T18:03:06.9916407+00:00"
 }

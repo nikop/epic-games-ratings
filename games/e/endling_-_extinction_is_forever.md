@@ -10,7 +10,7 @@
 | Never Give Up | 40.00% | ~190 |
 | Detox diet | 40.00% | ~190 |
 | Tasty | 37.00% | ~176 |
-| Lullaby | 31.00% | ~147 |
+| Lullaby | 32.00% | ~152 |
 | You Can Pet The Fox | 29.00% | ~138 |
 | Hard Fox Life | 24.00% | ~114 |
 | Never Let Down | 23.00% | ~109 |

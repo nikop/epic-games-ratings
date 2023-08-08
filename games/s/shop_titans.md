@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,149 (Ranked 65)  
+Progressed: 134,150 (Ranked 65)  
 Completed: 131 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,19 +229,19 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-05 | 133,956 | 128 |
 | 2023-08-06 | 134,025 | 129 |
 | 2023-08-07 | 134,099 | 130 |
-| 2023-08-08 | 134,149 | 131 |
+| 2023-08-08 | 134,150 | 131 |
 ## Awards
-Max (Great for Beginners): 4,691  (Ranked 71)  
-Sum: 27,068 (Ranked 46)  
+Max (Great for Beginners): 4,692  (Ranked 71)  
+Sum: 27,070 (Ranked 46)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,691 |
+| This game is Great for Beginners | 4,692 |
 | This game is Relaxing | 3,994 |
 | This game has Quickly Understood Controls | 3,982 |
 | This game has Diverse Characters | 3,848 |
 | This game is Highly Recommended | 3,732 |
-| This game has Easy Combat | 3,672 |
+| This game has Easy Combat | 3,673 |
 | This game has Playful Visuals | 3,149 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -443,4 +443,4 @@ Diff (max vs sum): 25
 | 2023-08-05 | 3.99 | - | 4,688 | 27,051 |
 | 2023-08-06 | 3.99 | - | 4,688 | 27,057 |
 | 2023-08-07 | 3.99 | - | 4,691 | 27,067 |
-| 2023-08-08 | 3.99 | - | 4,691 | 27,068 |
+| 2023-08-08 | 3.99 | - | 4,692 | 27,070 |

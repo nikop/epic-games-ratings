@@ -6,27 +6,27 @@ Rating: 4.54 (Ranked 498)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Trevithick's Legacy | 98.00% | ~19,086 |
-| Before the Downfall | 93.00% | ~18,112 |
-| Money like Water | 91.00% | ~17,722 |
+| Before the Downfall | 93.00% | ~18,113 |
+| Money like Water | 91.00% | ~17,723 |
 | Minimalist | 90.00% | ~17,528 |
-| Builder | 83.00% | ~16,164 |
-| Eraser | 70.00% | ~13,632 |
+| Builder | 83.00% | ~16,165 |
+| Eraser | 70.00% | ~13,633 |
 | Pocket of Trains | 65.00% | ~12,659 |
-| Inspector | 59.00% | ~11,490 |
-| Going the Distance | 54.00% | ~10,516 |
+| Inspector | 59.00% | ~11,491 |
+| Going the Distance | 54.00% | ~10,517 |
 | Oil Baron | 42.00% | ~8,180 |
 | Loads-a-Money | 42.00% | ~8,180 |
-| Helper of the People | 39.00% | ~7,595 |
+| Helper of the People | 39.00% | ~7,596 |
 | Simplification | 34.00% | ~6,622 |
 | Box of Trains | 33.00% | ~6,427 |
 | Let There be Light | 32.00% | ~6,232 |
-| Hot Water | 31.00% | ~6,037 |
+| Hot Water | 31.00% | ~6,038 |
 | Indecisive | 29.00% | ~5,648 |
-| The scenic route | 27.00% | ~5,258 |
+| The scenic route | 27.00% | ~5,259 |
 | Industrialist | 25.00% | ~4,869 |
 | Perfectionist | 23.00% | ~4,479 |
 | Trains over Pipes | 23.00% | ~4,479 |
-| 8K is Enough for Everyone | 22.00% | ~4,284 |
+| 8K is Enough for Everyone | 22.00% | ~4,285 |
 | Man of Steel | 17.00% | ~3,311 |
 | Room Full of Trains | 12.00% | ~2,337 |
 | Investor | 10.00% | ~1,948 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 498)
 | Overdeer | 0.50% | ~97 |
 | Cloud Services | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,475 (Ranked 107)  
+Progressed: 19,476 (Ranked 107)  
 Completed: 35 (0.18%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 35 (0.18%) (Ranked 181)
 | 2023-08-05 | 19,423 | 35 |
 | 2023-08-06 | 19,446 | 35 |
 | 2023-08-07 | 19,466 | 35 |
-| 2023-08-08 | 19,475 | 35 |
+| 2023-08-08 | 19,476 | 35 |
 ## Awards
 Max (Great for Beginners): 87  (Ranked 352)  
 Sum: 657 (Ranked 283)  

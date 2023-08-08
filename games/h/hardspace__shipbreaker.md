@@ -12,7 +12,7 @@ Number of Ratings: 36  (23.09.2022)
 | I can fix it! | 63.00% | ~546 |
 | Post No Bills | 55.00% | ~477 |
 | Truly Shocking! | 49.00% | ~425 |
-| Critical Thinker | 35.00% | ~303 |
+| Critical Thinker | 36.00% | ~312 |
 | The Weight of the World | 30.00% | ~260 |
 | Act I Complete | 28.00% | ~243 |
 | Always Finding Your Mark | 28.00% | ~243 |
@@ -21,7 +21,7 @@ Number of Ratings: 36  (23.09.2022)
 | I ain’t afraid of no Ghost | 24.00% | ~208 |
 | Act II Complete | 20.00% | ~173 |
 | A successful procedure! | 19.00% | ~165 |
-| Bing Bang BOOM | 18.00% | ~156 |
+| Bing Bang BOOM | 19.00% | ~165 |
 | Breaking the Ice | 17.00% | ~147 |
 | Solidarity Forever | 12.00% | ~104 |
 | A Tucked Tale | 10.00% | ~87 |

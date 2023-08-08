@@ -12,7 +12,7 @@
 | Air Defense | 85.00% | ~140 |
 | Tinned Corpse | 84.00% | ~139 |
 | Your War is Over | 82.00% | ~135 |
-| The Starry Night | 76.00% | ~125 |
+| The Starry Night | 77.00% | ~127 |
 | Go Home! | 75.00% | ~124 |
 | Brilliant: Meadowshire | 74.00% | ~122 |
 | Look After the Pence... | 73.00% | ~120 |
@@ -21,8 +21,8 @@
 | V.I.P. Cemetery | 70.00% | ~115 |
 | Takeover | 69.00% | ~114 |
 | Woodcutter | 69.00% | ~114 |
+| Sharpshooter | 69.00% | ~114 |
 | Top of the World | 68.00% | ~112 |
-| Sharpshooter | 68.00% | ~112 |
 | Architect of Darkness | 68.00% | ~112 |
 | The Apotheosis of War | 67.00% | ~111 |
 | Stasis Alcatraz | 66.00% | ~109 |

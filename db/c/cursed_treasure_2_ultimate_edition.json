@@ -320,9 +320,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT",
       "SetID": "ak6pfjk",
       "Name": "The Starry Night",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_1",
@@ -504,9 +504,9 @@
       "ID": "BADGE_METEOR_SIMULTANEOUS_KILL",
       "SetID": "ak6pfjk",
       "Name": "Sharpshooter",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "BADGE_MONUMENT_KEEPER",
@@ -609,8 +609,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-08-08T17:05:17.4097913+00:00",
+  "LastChanged_Achievements": "2023-08-08T18:05:00.8537277+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:29.1631378+00:00",
-  "LastUpdate_Ratings": "2023-08-08T17:00:17.5782976+00:00",
-  "LastUpdate_Achievements": "2023-08-08T17:05:17.4098411+00:00"
+  "LastUpdate_Ratings": "2023-08-08T17:59:46.5701023+00:00",
+  "LastUpdate_Achievements": "2023-08-08T18:05:00.8537634+00:00"
 }

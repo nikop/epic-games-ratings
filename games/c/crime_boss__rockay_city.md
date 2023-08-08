@@ -5,27 +5,27 @@ Rating: 3.94 (Ranked 938)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~52,951 |
-| First One’s Free | 65.00% | ~46,511 |
-| Neophyte Ninja | 50.00% | ~35,778 |
-| Too Old for This | 47.00% | ~33,631 |
+| Downed but Not Outed | 74.00% | ~52,953 |
+| First One’s Free | 65.00% | ~46,513 |
+| Neophyte Ninja | 50.00% | ~35,779 |
+| Too Old for This | 47.00% | ~33,632 |
 | Case Closed | 35.00% | ~25,045 |
 | Fancy Pants | 35.00% | ~25,045 |
-| King of the Hill | 34.00% | ~24,329 |
-| Underworld Initiate | 29.00% | ~20,751 |
+| King of the Hill | 34.00% | ~24,330 |
+| Underworld Initiate | 29.00% | ~20,752 |
 | Roid Ranger | 21.00% | ~15,027 |
 | True Player | 19.00% | ~13,596 |
 | Off the Rocks | 19.00% | ~13,596 |
 | Raider’s Ruin | 17.00% | ~12,165 |
 | Dragonslayer | 17.00% | ~12,165 |
-| Hidden Sonata | 13.00% | ~9,302 |
+| Hidden Sonata | 13.00% | ~9,303 |
 | Rockay Rex | 11.00% | ~7,871 |
 | Freebooter | 10.00% | ~7,156 |
 | Track Star | 9.00% | ~6,440 |
 | Classy Joint | 9.00% | ~6,440 |
-| I Like Trains | 8.00% | ~5,724 |
-| Headhunter | 8.00% | ~5,724 |
-| Ding Dong | 8.00% | ~5,724 |
+| I Like Trains | 8.00% | ~5,725 |
+| Headhunter | 8.00% | ~5,725 |
+| Ding Dong | 8.00% | ~5,725 |
 | Foo Finder | 7.00% | ~5,009 |
 | Legend Looter | 5.00% | ~3,578 |
 | Savvy Seeker | 5.00% | ~3,578 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 938)
 | Geek Out | 0.60% | ~429 |
 | Full House | 0.20% | ~143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,556 (Ranked 77)  
+Progressed: 71,558 (Ranked 77)  
 Completed: 37 (0.05%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,16 +153,16 @@ Completed: 37 (0.05%) (Ranked 215)
 | 2023-08-05 | 71,384 | 37 |
 | 2023-08-06 | 71,468 | 37 |
 | 2023-08-07 | 71,517 | 37 |
-| 2023-08-08 | 71,556 | 37 |
+| 2023-08-08 | 71,558 | 37 |
 ## Awards
 Max (Diverse Characters): 394  (Ranked 215)  
-Sum: 1,855 (Ranked 204)  
+Sum: 1,858 (Ranked 204)  
 Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 394 |
 | This game is Highly Recommended | 377 |
-| This game has Quickly Understood Controls | 373 |
+| This game has Quickly Understood Controls | 376 |
 | This game has Challenging Combat | 360 |
 | This game has Amazing Characters | 351 |
 | This game is Great for Quick Sessions | 70 |
@@ -301,4 +301,4 @@ Diff (max vs sum): 11
 | 2023-08-05 | 3.94 | 390 | 1,838 |
 | 2023-08-06 | 3.94 | 394 | 1,848 |
 | 2023-08-07 | 3.94 | 394 | 1,851 |
-| 2023-08-08 | 3.94 | 394 | 1,855 |
+| 2023-08-08 | 3.94 | 394 | 1,858 |

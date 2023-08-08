@@ -36,8 +36,8 @@
 | Cashflow Chief | 15.00% | ~48 |
 | Smooth Operator | 14.00% | ~45 |
 | Starred Dining | 14.00% | ~45 |
+| Terrifically Trashed | 14.00% | ~45 |
 | Boutique Benefits | 13.00% | ~42 |
-| Terrifically Trashed | 13.00% | ~42 |
 | Thrilled Tenants | 13.00% | ~42 |
 | 28 Days Later | 11.00% | ~35 |
 | Swimming in Surplus | 11.00% | ~35 |

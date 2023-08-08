@@ -3,7 +3,7 @@
   "Name": "laserlemon Production",
   "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": null,
@@ -236,8 +236,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-08-08T17:04:32.404745+00:00",
+  "LastChanged_Achievements": "2023-08-08T18:04:22.3051129+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-08-08T17:02:23.9935898+00:00",
-  "LastUpdate_Achievements": "2023-08-08T17:04:32.4047634+00:00"
+  "LastUpdate_Ratings": "2023-08-08T18:01:34.5175411+00:00",
+  "LastUpdate_Achievements": "2023-08-08T18:04:22.3051271+00:00"
 }

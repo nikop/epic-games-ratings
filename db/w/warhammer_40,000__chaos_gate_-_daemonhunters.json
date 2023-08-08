@@ -3156,9 +3156,9 @@
       "ID": "KadexDefeated_Nexus",
       "SetID": "3jha1np",
       "Name": "Hold Your Ground",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "Kills_Auto",
@@ -3554,8 +3554,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-06T13:02:06.0449243+00:00",
-  "LastChanged_Achievements": "2023-08-08T17:05:45.2999381+00:00",
+  "LastChanged_Achievements": "2023-08-08T18:05:24.5537335+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:37.2387595+00:00",
-  "LastUpdate_Ratings": "2023-08-08T17:00:25.5985898+00:00",
-  "LastUpdate_Achievements": "2023-08-08T17:05:45.3000863+00:00"
+  "LastUpdate_Ratings": "2023-08-08T17:59:53.3370355+00:00",
+  "LastUpdate_Achievements": "2023-08-08T18:05:24.5537967+00:00"
 }

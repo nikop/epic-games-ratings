@@ -6,17 +6,17 @@ Number of Ratings: 101  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 85.00% | ~433 |
-| Take-Off | 79.00% | ~402 |
-| Hokey-Pokey | 72.00% | ~366 |
-| Camellos | 57.00% | ~290 |
-| Bad Trip | 46.00% | ~234 |
-| Didn't Miss A Single One | 45.00% | ~229 |
+| Our Man | 85.00% | ~434 |
+| Take-Off | 79.00% | ~403 |
+| Hokey-Pokey | 72.00% | ~367 |
+| Camellos | 57.00% | ~291 |
+| Bad Trip | 46.00% | ~235 |
+| Didn't Miss A Single One | 45.00% | ~230 |
 | Spread | 42.00% | ~214 |
-| That was base | 40.00% | ~204 |
-| Safe Pair of Hands | 36.00% | ~183 |
+| That was base | 41.00% | ~209 |
+| Safe Pair of Hands | 36.00% | ~184 |
 | Don't Let Mom Know You're A Druglord | 31.00% | ~158 |
-| Architect of Fortunes | 26.00% | ~132 |
+| Architect of Fortunes | 26.00% | ~133 |
 | Bite the Blow | 24.00% | ~122 |
 | Pampered Life | 24.00% | ~122 |
 | Spreading Fear | 10.00% | ~51 |
@@ -26,7 +26,7 @@ Number of Ratings: 101  (23.09.2022)
 | Iron Lady | 0.60% | ~3 |
 | Sense Of Style | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 509 (Ranked 222)  
+Progressed: 510 (Ranked 222)  
 Completed: 2 (0.39%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 2 (0.39%) (Ranked 150)
 | 2023-08-05 | 504 | 2 |
 | 2023-08-06 | 508 | 2 |
 | 2023-08-07 | 509 | 2 |
+| 2023-08-08 | 510 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

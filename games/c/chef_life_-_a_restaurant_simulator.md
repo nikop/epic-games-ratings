@@ -15,9 +15,9 @@
 | Italian Style | 7.00% | ~38 |
 | Sous-Chef | 6.00% | ~32 |
 | Well-Stocked Kitchen | 5.00% | ~27 |
-| Culinary Arts | 4.00% | ~21 |
-| Perfectionist | 4.00% | ~21 |
-| Rolling in Dough | 4.00% | ~21 |
+| Culinary Arts | 4.00% | ~22 |
+| Perfectionist | 4.00% | ~22 |
+| Rolling in Dough | 4.00% | ~22 |
 | Leaning Tower of Pizza | 3.00% | ~16 |
 | The Bigger the Better | 0.60% | ~3 |
 | Chef, Yes Chef! | 0.40% | ~2 |
@@ -45,7 +45,7 @@
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537 (Ranked 219)  
+Progressed: 538 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-05 | 532 | 0 |
 | 2023-08-06 | 534 | 0 |
 | 2023-08-07 | 535 | 0 |
-| 2023-08-08 | 537 | 0 |
+| 2023-08-08 | 538 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

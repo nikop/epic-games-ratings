@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 664,
+  "EOS_Progressed": 665,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1381,6 +1381,11 @@
       "Time": "2023-08-07T00:07:52.360596+00:00",
       "NumProgressed": 664,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-08T18:06:46.3279305+00:00",
+      "NumProgressed": 665,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1392,7 +1397,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1672,7 +1677,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1752,7 +1757,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -1760,7 +1765,7 @@
       "Name": "1, 2, 3! Grandma!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -1919,14 +1924,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 664,
+      "Progressed": 665,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-08T17:07:21.4852442+00:00",
+  "LastChanged_Achievements": "2023-08-08T18:06:46.3279302+00:00",
   "LastUpdate_AppInfo": "2023-08-03T14:57:17.7014877+00:00",
-  "LastUpdate_Ratings": "2023-08-08T16:57:54.3781499+00:00",
-  "LastUpdate_Achievements": "2023-08-08T17:07:21.4853301+00:00"
+  "LastUpdate_Ratings": "2023-08-08T17:57:54.642607+00:00",
+  "LastUpdate_Achievements": "2023-08-08T18:06:46.3280219+00:00"
 }
