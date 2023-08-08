@@ -25,8 +25,8 @@
 | 23 | [Remains](games/r/remains.md) | 10.64% |
 | 24 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.53% |
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
-| 26 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 10.26% |
-| 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
+| 26 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 10.00% |
+| 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.81% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.18% |
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
@@ -38,7 +38,7 @@
 | 36 | [Scorn](games/s/scorn.md) | 6.96% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.91% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.84% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.38% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.37% |
 | 40 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 41 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 6.01% |
@@ -54,7 +54,7 @@
 | 52 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 53 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.22% |
 | 54 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.99% |
-| 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
+| 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
 | 56 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.70% |
 | 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
@@ -80,7 +80,7 @@
 | 78 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 79 | [Lamentum](games/l/lamentum.md) | 2.54% |
 | 80 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.37% |
+| 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.36% |
 | 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.35% |
 | 83 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.29% |
 | 84 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
@@ -190,10 +190,10 @@
 | 187 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
 | 187 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 190 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
-| 191 | [Isonzo](games/i/isonzo.md) | 0.12% |
-| 191 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 191 | [Port Royale 4](games/p/port_royale_4.md) | 0.12% |
-| 191 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.12% |
+| 191 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
+| 192 | [Isonzo](games/i/isonzo.md) | 0.12% |
+| 192 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 192 | [Port Royale 4](games/p/port_royale_4.md) | 0.12% |
 | 195 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
 | 195 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
 | 195 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.11% |
