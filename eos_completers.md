@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.37% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 34.29% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.14% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -27,7 +27,7 @@
 | 24 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.53% |
 | 26 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.84% |
+| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.81% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.18% |
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.62% |
@@ -102,7 +102,7 @@
 | 100 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
 | 100 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
 | 102 | [Poosh XL](games/p/poosh_xl.md) | 1.44% |
-| 103 | [Five Dates](games/f/five_dates.md) | 1.40% |
+| 103 | [Five Dates](games/f/five_dates.md) | 1.39% |
 | 104 | [Late Shift](games/l/late_shift.md) | 1.32% |
 | 105 | [Chorus](games/c/chorus.md) | 1.16% |
 | 106 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.14% |
