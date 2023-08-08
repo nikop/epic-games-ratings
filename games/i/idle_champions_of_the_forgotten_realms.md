@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 5.00% | ~10,994 |
-| Beast Intentions | 3.00% | ~6,596 |
+| Beast Intentions | 3.00% | ~6,597 |
 | Maddening | 2.00% | ~4,398 |
 | The Silken Swamp | 1.00% | ~2,199 |
 | Supply Run | 1.00% | ~2,199 |
@@ -18,12 +18,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Loots! | 0.90% | ~1,675 |
 | Flight of the Kindori Pod | 0.90% | ~1,675 |
 | Seeds of Destruction | 0.80% | ~1,489 |
+| Return to the Tomb | 0.80% | ~1,489 |
 | The Cursed Farmer | 0.80% | ~1,759 |
 | Topolah's Tower | 0.80% | ~1,489 |
 | Pros and CONs | 0.70% | ~1,539 |
 | The Witchlight Carnival | 0.70% | ~1,303 |
 | Wet Feet | 0.70% | ~1,539 |
-| Return to the Tomb | 0.70% | ~1,303 |
+| Hatchlings Underfoot | 0.70% | ~1,539 |
 | Heatwave | 0.70% | ~1,303 |
 | Were-verpowered | 0.70% | ~1,539 |
 | A Persistent Buzzing | 0.70% | ~1,539 |
@@ -33,7 +34,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.70% | ~1,539 |
 | The Mad Wizard | 0.70% | ~1,539 |
 | The Champion's Guide to Wildspace | 0.70% | ~1,303 |
-| Hatchlings Underfoot | 0.60% | ~1,319 |
 | Don't Look Up! | 0.60% | ~1,319 |
 | Heavy Burden | 0.60% | ~1,319 |
 | The Evacuation of Waterdeep | 0.60% | ~1,117 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,878 (Ranked 52)  
+Progressed: 219,887 (Ranked 52)  
 Completed: 2,165 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 2,165 (0.98%) (Ranked 114)
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
-| 2023-08-08 | 219,878 | 2,165 |
+| 2023-08-08 | 219,887 | 2,165 |
 ## Awards
 Max (Diverse Characters): 5,125  (Ranked 67)  
 Sum: 30,942 (Ranked 38)  

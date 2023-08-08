@@ -13,7 +13,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | The Phantom Menace | 59.00% | ~29,518 |
 | ''Aggressive Negotiations'' | 59.00% | ~29,518 |
 | ''I can fly anything'' | 57.00% | ~28,518 |
-| ''And who gave you permission...?'' | 53.00% | ~26,516 |
+| ''And who gave you permission...?'' | 54.00% | ~27,017 |
 | A New Hope | 48.00% | ~24,015 |
 | Attack of the Clones | 47.00% | ~23,515 |
 | Revenge of the Sith | 40.00% | ~20,012 |

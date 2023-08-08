@@ -5644,9 +5644,9 @@
       "Count": 3345
     }
   ],
-  "EOS_Progressed": 219878,
+  "EOS_Progressed": 219887,
   "EOS_Completed": 2165,
-  "EOS_NewPlayers": 2244,
+  "EOS_NewPlayers": 2243,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17524,6 +17524,11 @@
       "Time": "2023-08-08T13:08:25.2412042+00:00",
       "NumProgressed": 219878,
       "NumCompleted": 2165
+    },
+    {
+      "Time": "2023-08-08T14:03:10.4405235+00:00",
+      "NumProgressed": 219887,
+      "NumCompleted": 2165
     }
   ],
   "TotalAchievements": 512,
@@ -17903,7 +17908,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6596
+      "UsersEstimate": 6597
     },
     {
       "ID": "objective_completed_110",
@@ -17965,9 +17970,9 @@
       "ID": "objective_completed_111",
       "SetID": "cc37lbc",
       "Name": "Hatchlings Underfoot",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1539
     },
     {
       "ID": "objective_completed_1111",
@@ -18269,9 +18274,9 @@
       "ID": "objective_completed_1173",
       "SetID": "415jc5c",
       "Name": "Return to the Tomb",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1489
     },
     {
       "ID": "objective_completed_1174",
@@ -21630,21 +21635,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 186152,
+      "Progressed": 186161,
       "Completed": 3069
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 219878,
+      "Progressed": 219887,
       "Completed": 2165
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-08T10:58:53.9894095+00:00",
-  "LastChanged_Achievements": "2023-08-08T13:08:25.2412034+00:00",
+  "LastChanged_Achievements": "2023-08-08T14:03:10.4405228+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-08T13:04:08.6412239+00:00",
-  "LastUpdate_Achievements": "2023-08-08T13:08:25.2436067+00:00"
+  "LastUpdate_Ratings": "2023-08-08T13:58:47.7492491+00:00",
+  "LastUpdate_Achievements": "2023-08-08T14:03:10.4429475+00:00"
 }

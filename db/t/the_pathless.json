@@ -2,7 +2,7 @@
   "ID": "a9dad8af015a422eb89a5f88e6def923",
   "Name": "The Pathless",
   "ProductSlug": "the-pathless",
-  "Ranking_Rating": 213,
+  "Ranking_Rating": 212,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 530,
@@ -207,6 +207,6 @@
   "FirstSeen": "2022-07-22T20:23:35.2337703+00:00",
   "LastChanged": "2023-06-03T04:58:36.4996348+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:12.922602+00:00",
-  "LastUpdate_Ratings": "2023-08-08T13:05:07.8525118+00:00",
-  "LastUpdate_Achievements": "2023-08-08T13:09:18.8204165+00:00"
+  "LastUpdate_Ratings": "2023-08-08T13:59:44.6571914+00:00",
+  "LastUpdate_Achievements": "2023-08-08T14:03:52.9530998+00:00"
 }

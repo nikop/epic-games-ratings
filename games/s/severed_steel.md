@@ -1,64 +1,64 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 213)  
+Rating: 4.69 (Ranked 212)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 27.00% | ~168,855 |
-| 50 HEADSHOTS | 25.00% | ~156,347 |
-| SCIENCE AND INDUSTRY | 24.00% | ~150,093 |
-| FINISHED CHAPTER 1 | 23.00% | ~143,839 |
-| FINISHED CHAPTER 2 | 17.00% | ~106,316 |
-| 200 HEADSHOTS | 15.00% | ~93,808 |
-| FINISHED CHAPTER 3 | 14.00% | ~87,554 |
-| FINISHED CHAPTER 4 | 12.00% | ~75,047 |
-| FINISH CHAPTER 5 | 10.00% | ~62,539 |
-| FINISH CHAPTER 6 | 8.00% | ~50,031 |
-| CATHARTIC ESCAPISM | 8.00% | ~50,031 |
-| 1000 KILLS | 7.00% | ~43,777 |
-| FIREFIGHT LEVEL 10 | 3.00% | ~18,762 |
-| FIREFIGHT LEVEL 20 | 1.00% | ~6,254 |
-| FIRST BLOOD | 1.00% | ~6,254 |
-| PACEMAKER | 1.00% | ~6,254 |
-| OUT OF ORDER | 0.80% | ~5,003 |
-| TIME PARADOX | 0.80% | ~5,003 |
-| FIREFIGHT LEVEL 30 | 0.70% | ~4,378 |
-| PARTYHARD | 0.60% | ~3,752 |
-| NEW GAME PLUS | 0.50% | ~3,127 |
+| 100 KILLS | 27.00% | ~168,905 |
+| 50 HEADSHOTS | 25.00% | ~156,393 |
+| SCIENCE AND INDUSTRY | 24.00% | ~150,138 |
+| FINISHED CHAPTER 1 | 23.00% | ~143,882 |
+| FINISHED CHAPTER 2 | 17.00% | ~106,347 |
+| 200 HEADSHOTS | 15.00% | ~93,836 |
+| FINISHED CHAPTER 3 | 14.00% | ~87,580 |
+| FINISHED CHAPTER 4 | 12.00% | ~75,069 |
+| FINISH CHAPTER 5 | 10.00% | ~62,557 |
+| FINISH CHAPTER 6 | 8.00% | ~50,046 |
+| CATHARTIC ESCAPISM | 8.00% | ~50,046 |
+| 1000 KILLS | 7.00% | ~43,790 |
+| FIREFIGHT LEVEL 10 | 3.00% | ~18,767 |
+| FIREFIGHT LEVEL 20 | 1.00% | ~6,256 |
+| FIRST BLOOD | 1.00% | ~6,256 |
+| PACEMAKER | 1.00% | ~6,256 |
+| OUT OF ORDER | 0.80% | ~5,005 |
+| TIME PARADOX | 0.80% | ~5,005 |
+| FIREFIGHT LEVEL 30 | 0.70% | ~4,379 |
+| PARTYHARD | 0.60% | ~3,753 |
+| NEW GAME PLUS | 0.50% | ~3,128 |
 | FIREFIGHT LEVEL 40 | 0.40% | ~2,502 |
-| CHURCH | 0.30% | ~1,876 |
+| CHURCH | 0.30% | ~1,877 |
 | FIREFIGHT LEVEL 50 | 0.20% | ~1,251 |
 | REMEMBER THE ARMORY | 0.20% | ~1,251 |
 | 5 RUNS | 0.20% | ~1,251 |
-| HEY THATS CHEATING | 0.10% | ~625 |
-| COMPLIMENTS TO THE CHEF | 0.10% | ~625 |
-| BUT WHY? | 0.10% | ~625 |
-| CHALET | 0.10% | ~625 |
-| COMMAND - [EXIST] | 0.10% | ~625 |
-| FIREFIGHT LEVEL 60 | 0.10% | ~625 |
-| FIREFIGHT LEVEL 70 | 0.10% | ~625 |
-| FIREFIGHT LEVEL 80 | 0.10% | ~625 |
-| FIRE IN THE HOLE | 0.10% | ~625 |
-| FRESH | 0.10% | ~625 |
-| HUGE SUCCESS | 0.10% | ~625 |
-| ICARUS | 0.10% | ~625 |
-| INPUT - [QUERY] | 0.10% | ~625 |
-| KITTED OUT | 0.10% | ~625 |
-| HOLOGRAM SUMMER | 0.10% | ~625 |
-| OFF THE HINGES | 0.10% | ~625 |
-| ON THE EDGE | 0.10% | ~625 |
-| OVERCLOCKED | 0.10% | ~625 |
-| PAIN TRAIN | 0.10% | ~625 |
-| 10 RUNS | 0.10% | ~625 |
-| 20 RUNS | 0.10% | ~625 |
-| SAVOR THE MOMENT | 0.10% | ~625 |
-| SOUL - HORIZONS | 0.10% | ~625 |
-| THE COLLECTOR | 0.10% | ~625 |
-| THE GAMBLER | 0.10% | ~625 |
-| WARRIOR IN A GARDEN | 0.10% | ~625 |
+| HEY THATS CHEATING | 0.10% | ~626 |
+| COMPLIMENTS TO THE CHEF | 0.10% | ~626 |
+| BUT WHY? | 0.10% | ~626 |
+| CHALET | 0.10% | ~626 |
+| COMMAND - [EXIST] | 0.10% | ~626 |
+| FIREFIGHT LEVEL 60 | 0.10% | ~626 |
+| FIREFIGHT LEVEL 70 | 0.10% | ~626 |
+| FIREFIGHT LEVEL 80 | 0.10% | ~626 |
+| FIRE IN THE HOLE | 0.10% | ~626 |
+| FRESH | 0.10% | ~626 |
+| HUGE SUCCESS | 0.10% | ~626 |
+| ICARUS | 0.10% | ~626 |
+| INPUT - [QUERY] | 0.10% | ~626 |
+| KITTED OUT | 0.10% | ~626 |
+| HOLOGRAM SUMMER | 0.10% | ~626 |
+| OFF THE HINGES | 0.10% | ~626 |
+| ON THE EDGE | 0.10% | ~626 |
+| OVERCLOCKED | 0.10% | ~626 |
+| PAIN TRAIN | 0.10% | ~626 |
+| 10 RUNS | 0.10% | ~626 |
+| 20 RUNS | 0.10% | ~626 |
+| SAVOR THE MOMENT | 0.10% | ~626 |
+| SOUL - HORIZONS | 0.10% | ~626 |
+| THE COLLECTOR | 0.10% | ~626 |
+| THE GAMBLER | 0.10% | ~626 |
+| WARRIOR IN A GARDEN | 0.10% | ~626 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 625,388 (Ranked 26)  
+Progressed: 625,573 (Ranked 26)  
 Completed: 43 (0.01%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 43 (0.01%) (Ranked 237)
 | 2023-08-05 | 618,774 | 42 |
 | 2023-08-06 | 621,954 | 42 |
 | 2023-08-07 | 624,283 | 43 |
-| 2023-08-08 | 625,388 | 43 |
+| 2023-08-08 | 625,573 | 43 |
 ## Awards
 Max (Great Boss Battles): 234  (Ranked 257)  
 Sum: 234 (Ranked 354)  

@@ -6,39 +6,39 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 38.00% | ~26,913 |
-| Final touch | 37.00% | ~26,205 |
-| Prop-M Rover | 33.00% | ~23,372 |
-| Changing the Planet | 28.00% | ~19,830 |
-| Sojourner | 27.00% | ~19,122 |
-| New Home | 24.00% | ~16,998 |
-| Beagle 2 | 24.00% | ~16,998 |
-| Winner Winner Terraformer | 22.00% | ~15,581 |
-| Project Manager | 20.00% | ~14,165 |
-| Collector | 20.00% | ~14,165 |
-| Master | 20.00% | ~14,165 |
-| Curiosity | 19.00% | ~13,456 |
-| Self-sufficient | 19.00% | ~13,456 |
-| No Longer Red | 18.00% | ~12,748 |
-| Money money | 16.00% | ~11,332 |
-| Biggest Reward | 14.00% | ~9,915 |
-| Acquired knowledge | 13.00% | ~9,207 |
-| First Journey | 12.00% | ~8,499 |
-| Most Achievements | 12.00% | ~8,499 |
-| Hellenic Elysium | 12.00% | ~8,499 |
-| Grand champion | 12.00% | ~8,499 |
-| Landlord | 11.00% | ~7,791 |
-| Spirit | 10.00% | ~7,082 |
-| Ultimate success | 10.00% | ~7,082 |
-| Variety Expert | 9.00% | ~6,374 |
-| Frequent tester | 8.00% | ~5,666 |
-| Determined | 8.00% | ~5,666 |
+| It's a steal! | 38.00% | ~26,916 |
+| Final touch | 37.00% | ~26,208 |
+| Prop-M Rover | 33.00% | ~23,375 |
+| Changing the Planet | 28.00% | ~19,833 |
+| Sojourner | 27.00% | ~19,125 |
+| New Home | 24.00% | ~17,000 |
+| Beagle 2 | 24.00% | ~17,000 |
+| Winner Winner Terraformer | 22.00% | ~15,583 |
+| Project Manager | 20.00% | ~14,166 |
+| Collector | 20.00% | ~14,166 |
+| Master | 20.00% | ~14,166 |
+| Curiosity | 19.00% | ~13,458 |
+| Self-sufficient | 19.00% | ~13,458 |
+| No Longer Red | 18.00% | ~12,750 |
+| Money money | 16.00% | ~11,333 |
+| Biggest Reward | 14.00% | ~9,916 |
+| Acquired knowledge | 13.00% | ~9,208 |
+| First Journey | 12.00% | ~8,500 |
+| Most Achievements | 12.00% | ~8,500 |
+| Hellenic Elysium | 12.00% | ~8,500 |
+| Grand champion | 12.00% | ~8,500 |
+| Landlord | 11.00% | ~7,792 |
+| Spirit | 10.00% | ~7,083 |
+| Ultimate success | 10.00% | ~7,083 |
+| Variety Expert | 9.00% | ~6,375 |
+| Frequent tester | 8.00% | ~5,667 |
+| Determined | 8.00% | ~5,667 |
 | Terraformer | 4.00% | ~2,833 |
 | Team Effort | 3.00% | ~2,125 |
 | Opportunity | 3.00% | ~2,125 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,823 (Ranked 78)  
-Completed: 88 (0.12%) (Ranked 191)  
+Progressed: 70,832 (Ranked 78)  
+Completed: 89 (0.13%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -147,10 +147,10 @@ Completed: 88 (0.12%) (Ranked 191)
 | 2023-08-05 | 70,475 | 86 |
 | 2023-08-06 | 70,649 | 87 |
 | 2023-08-07 | 70,773 | 87 |
-| 2023-08-08 | 70,823 | 88 |
+| 2023-08-08 | 70,832 | 89 |
 ## Awards
 Max (Relaxing): 509  (Ranked 196)  
-Sum: 3,144 (Ranked 157)  
+Sum: 3,145 (Ranked 157)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -161,7 +161,7 @@ Diff (max vs sum): 39
 | This game is Extremely Fun | 445 |
 | This game has Amazing Storytelling | 356 |
 | This game has Obsessive Gameplay | 334 |
-| This game has a Competitive Community | 237 |
+| This game has a Competitive Community | 238 |
 | This game has Amazing Characters | 197 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -317,3 +317,4 @@ Diff (max vs sum): 39
 | 2023-08-01 | 4.54 | - | 507 | 3,139 |
 | 2023-08-04 | 4.54 | - | 508 | 3,141 |
 | 2023-08-07 | 4.54 | - | 509 | 3,144 |
+| 2023-08-08 | 4.54 | - | 509 | 3,145 |

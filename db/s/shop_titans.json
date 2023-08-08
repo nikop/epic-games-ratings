@@ -5482,9 +5482,9 @@
       "Count": 3731
     }
   ],
-  "EOS_Progressed": 134135,
+  "EOS_Progressed": 134139,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16702,6 +16702,11 @@
       "Time": "2023-08-08T13:09:57.9410616+00:00",
       "NumProgressed": 134135,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2023-08-08T14:04:32.1761236+00:00",
+      "NumProgressed": 134139,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 112,
@@ -16727,9 +16732,9 @@
       "ID": "advlevel03",
       "SetID": "anfd17p",
       "Name": "A Notch Above the Rest",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 268
     },
     {
       "ID": "advlevel04",
@@ -17608,15 +17613,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134135,
+      "Progressed": 134139,
       "Completed": 131
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-07T23:59:17.9121802+00:00",
-  "LastChanged_Achievements": "2023-08-08T13:09:57.9410611+00:00",
+  "LastChanged_Achievements": "2023-08-08T14:04:32.1761232+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.2056858+00:00",
-  "LastUpdate_Ratings": "2023-08-08T13:04:26.7585165+00:00",
-  "LastUpdate_Achievements": "2023-08-08T13:09:57.9412394+00:00"
+  "LastUpdate_Ratings": "2023-08-08T13:59:05.0424537+00:00",
+  "LastUpdate_Achievements": "2023-08-08T14:04:32.1763005+00:00"
 }

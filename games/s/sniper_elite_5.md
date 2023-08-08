@@ -6,6 +6,7 @@ Rating: 4.44 (Ranked 644)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Liberté | 5.00% | ~172 |
+| It's Starting to Crack | 5.00% | ~172 |
 | Change the Channel | 5.00% | ~172 |
 | Taking it back | 5.00% | ~172 |
 | Target America | 5.00% | ~172 |
@@ -17,7 +18,6 @@ Rating: 4.44 (Ranked 644)
 | Resourceful | 4.00% | ~137 |
 | As Quiet as a Mouse | 4.00% | ~137 |
 | The Kraken Wakes | 4.00% | ~137 |
-| It's Starting to Crack | 4.00% | ~137 |
 | Climbing the Ladder | 3.00% | ~103 |
 | No Stone Unturned | 3.00% | ~103 |
 | Organ Grinder | 3.00% | ~103 |

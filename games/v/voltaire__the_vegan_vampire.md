@@ -21,9 +21,9 @@
 | Peaceful skies | 5.00% | ~6 |
 | Do you wanna build a snowboiii? | 5.00% | ~6 |
 | Groovy! | 4.00% | ~4 |
+| Who let the pets out? | 3.00% | ~3 |
 | It's a bug's life | 3.00% | ~3 |
 | Homecoming | 2.00% | ~2 |
-| Who let the pets out? | 2.00% | ~2 |
 | I am Root! | 2.00% | ~2 |
 | Tururururu! | 2.00% | ~2 |
 | Zap! | 2.00% | ~2 |

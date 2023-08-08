@@ -194,9 +194,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ap8553i",
       "Name": "What\u0027s in the Box?",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -775,8 +775,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-08T13:08:52.6157923+00:00",
+  "LastChanged_Achievements": "2023-08-08T14:03:37.3605331+00:00",
   "LastUpdate_AppInfo": "2023-08-02T15:56:51.8230557+00:00",
-  "LastUpdate_Ratings": "2023-08-08T13:02:35.2433544+00:00",
-  "LastUpdate_Achievements": "2023-08-08T13:08:52.615858+00:00"
+  "LastUpdate_Ratings": "2023-08-08T13:57:08.3612284+00:00",
+  "LastUpdate_Achievements": "2023-08-08T14:03:37.3605954+00:00"
 }

@@ -34,7 +34,7 @@ Rating: 4.66 (Ranked 272)
 | Eatin' Good in the Neighborhood | 9.00% | ~2,148 |
 | Sequel-Bait | 8.00% | ~1,910 |
 | Gunning For Your Job | 7.00% | ~1,671 |
-| Playing Favorites | 5.00% | ~1,194 |
+| Playing Favorites | 6.00% | ~1,432 |
 | Epic Legendary Prize | 1.00% | ~239 |
 | A Starfish Is Born | 1.00% | ~239 |
 ## Popularity (Based on EOS Achievements)

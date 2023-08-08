@@ -4279,9 +4279,9 @@
       "ID": "ACH_NOT_KENNY",
       "SetID": "cdkbb11",
       "Name": "Playing Favorites",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1432
     },
     {
       "ID": "ACH_STANS_STUFF",
@@ -4318,8 +4318,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-01T02:03:53.4121642+00:00",
-  "LastChanged_Achievements": "2023-08-08T13:12:04.0333197+00:00",
+  "LastChanged_Achievements": "2023-08-08T14:06:41.3227992+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:45.9653672+00:00",
-  "LastUpdate_Ratings": "2023-08-08T13:04:00.0629974+00:00",
-  "LastUpdate_Achievements": "2023-08-08T13:12:04.0333632+00:00"
+  "LastUpdate_Ratings": "2023-08-08T13:58:37.792782+00:00",
+  "LastUpdate_Achievements": "2023-08-08T14:06:41.3228366+00:00"
 }

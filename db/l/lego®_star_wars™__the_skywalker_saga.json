@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2890,7 +2890,7 @@
   ],
   "EOS_Progressed": 50031,
   "EOS_Completed": 217,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -10138,9 +10138,9 @@
       "ID": "SHOOT_50_ENEMIES_HATS",
       "SetID": "3fcpmbm",
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 26516
+      "UsersEstimate": 27017
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -10170,8 +10170,8 @@
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-08-08T10:57:23.5187652+00:00",
-  "LastChanged_Achievements": "2023-08-08T13:08:48.8824163+00:00",
+  "LastChanged_Achievements": "2023-08-08T14:03:33.5784344+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:14.8381783+00:00",
-  "LastUpdate_Ratings": "2023-08-08T13:02:41.4228861+00:00",
-  "LastUpdate_Achievements": "2023-08-08T13:08:48.8824925+00:00"
+  "LastUpdate_Ratings": "2023-08-08T13:57:13.3562104+00:00",
+  "LastUpdate_Achievements": "2023-08-08T14:03:33.5784944+00:00"
 }

@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Get Lost! | 85.00% | ~269 |
 | Barista | 50.00% | ~158 |
-| Tea-ser | 40.00% | ~127 |
+| Tea-ser | 41.00% | ~130 |
 | Coffee Connoisseur | 21.00% | ~67 |
 | Tea Master | 12.00% | ~38 |
 | Brew Master | 6.00% | ~19 |
