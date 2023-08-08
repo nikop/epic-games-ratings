@@ -7,7 +7,7 @@
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 23.60% |
-| 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 21.24% |
+| 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 21.05% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -36,7 +36,7 @@
 | 34 | [Ravenlok](games/r/ravenlok.md) | 7.40% |
 | 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.07% |
 | 36 | [Scorn](games/s/scorn.md) | 6.97% |
-| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.93% |
+| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.90% |
 | 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.40% |
 | 40 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -50,7 +50,7 @@
 | 48 | [JARS](games/j/jars.md) | 4.76% |
 | 49 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.71% |
 | 50 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
-| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.60% |
+| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.63% |
 | 52 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 53 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.23% |
 | 54 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.00% |
@@ -65,7 +65,7 @@
 | 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.12% |
 | 63 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.12% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.03% |
-| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.02% |
+| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
 | 67 | [Monster Harvest](games/m/monster_harvest.md) | 2.96% |
 | 68 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 69 | [HordeCore](games/h/hordecore.md) | 2.87% |
