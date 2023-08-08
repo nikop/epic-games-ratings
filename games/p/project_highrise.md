@@ -23,16 +23,16 @@
 | Retail Revenue | 23.00% | ~74 |
 | Lux Living | 21.00% | ~67 |
 | Don't Feel a Loan | 21.00% | ~67 |
+| Artfully Done | 20.00% | ~64 |
 | People Mover | 20.00% | ~64 |
 | Leveled Up Shops | 20.00% | ~64 |
 | We Don't Need No Education | 20.00% | ~64 |
-| Artfully Done | 19.00% | ~61 |
 | Emporium Empire | 19.00% | ~61 |
 | Get Electrified | 19.00% | ~61 |
 | Rehab Expert | 18.00% | ~58 |
 | Tasty Profits | 18.00% | ~58 |
+| Established Fame | 16.00% | ~51 |
 | Under One Roof | 15.00% | ~48 |
-| Established Fame | 15.00% | ~48 |
 | Cashflow Chief | 15.00% | ~48 |
 | Smooth Operator | 14.00% | ~45 |
 | Starred Dining | 14.00% | ~45 |
@@ -41,11 +41,11 @@
 | Thrilled Tenants | 13.00% | ~42 |
 | 28 Days Later | 11.00% | ~35 |
 | Swimming in Surplus | 11.00% | ~35 |
+| Aestheticly Pleased | 9.00% | ~29 |
 | Master of Puppets | 9.00% | ~29 |
+| Refined Palates | 9.00% | ~29 |
 | First 100 Days | 8.00% | ~26 |
-| Aestheticly Pleased | 8.00% | ~26 |
 | Plaza Plan | 8.00% | ~26 |
-| Refined Palates | 8.00% | ~26 |
 | Phoning It In | 8.00% | ~26 |
 | Water Features | 7.00% | ~22 |
 | Meet Me at HQ | 7.00% | ~22 |

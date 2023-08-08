@@ -81,6 +81,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.50% | ~67 |
 | Lion | 0.50% | ~67 |
 | Mighty | 0.50% | ~67 |
+| Subjugator | 0.50% | ~67 |
 | Victorious | 0.50% | ~67 |
 | Good Difficulty | 0.50% | ~67 |
 | Patrons | 0.50% | ~67 |
@@ -100,7 +101,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.40% | ~53 |
 | Invincible | 0.40% | ~53 |
 | Ready | 0.40% | ~53 |
-| Subjugator | 0.40% | ~53 |
 | Strong Difficulty | 0.40% | ~53 |
 | Hunters | 0.40% | ~53 |
 | Landowners | 0.40% | ~53 |

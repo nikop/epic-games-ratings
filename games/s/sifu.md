@@ -8,20 +8,20 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~1,079 |
 | Project Arena | 4.00% | ~863 |
-| The Old Grandmaster | 2.00% | ~14,245 |
-| The Assault | 2.00% | ~14,245 |
-| The Hateful Pole Fighter | 2.00% | ~14,245 |
-| A Lady's Blood in the Snow | 2.00% | ~14,245 |
-| Lady Wing Chun | 2.00% | ~14,245 |
-| Street Fighting | 2.00% | ~14,245 |
-| Life is your teacher | 2.00% | ~14,245 |
-| State of constant learning | 2.00% | ~14,245 |
-| Qi Gong: Breath | 2.00% | ~14,245 |
-| Qi Gong: Essence | 2.00% | ~14,245 |
-| Lightning Hands | 2.00% | ~14,245 |
-| Path of the Prospect | 2.00% | ~14,245 |
-| Rumble in the Hangar | 2.00% | ~14,245 |
-| Bloody Sport | 2.00% | ~431 |
+| The Old Grandmaster | 2.00% | ~14,246 |
+| The Assault | 2.00% | ~14,246 |
+| The Hateful Pole Fighter | 2.00% | ~14,246 |
+| A Lady's Blood in the Snow | 2.00% | ~14,246 |
+| Lady Wing Chun | 2.00% | ~14,246 |
+| Street Fighting | 2.00% | ~14,246 |
+| Life is your teacher | 2.00% | ~14,246 |
+| State of constant learning | 2.00% | ~14,246 |
+| Qi Gong: Breath | 2.00% | ~14,246 |
+| Qi Gong: Essence | 2.00% | ~14,246 |
+| Lightning Hands | 2.00% | ~14,246 |
+| Path of the Prospect | 2.00% | ~14,246 |
+| Rumble in the Hangar | 2.00% | ~14,246 |
+| Bloody Sport | 2.00% | ~432 |
 | Furious Fists | 1.00% | ~7,123 |
 | Scareless | 1.00% | ~7,123 |
 | Kill Nil | 1.00% | ~7,123 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,273 (Ranked 20)  
+Progressed: 712,275 (Ranked 20)  
 Completed: 12,847 (1.80%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,15 +167,15 @@ Completed: 12,847 (1.80%) (Ranked 92)
 | 2023-08-05 | 712,203 | 12,845 |
 | 2023-08-06 | 712,241 | 12,847 |
 | 2023-08-07 | 712,267 | 12,847 |
-| 2023-08-08 | 712,273 | 12,847 |
+| 2023-08-08 | 712,275 | 12,847 |
 ## Awards
 Max (Great Boss Battles): 6,351  (Ranked 54)  
-Sum: 10,902 (Ranked 81)  
+Sum: 10,903 (Ranked 81)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,351 |
-| This game has Diverse Characters | 566 |
+| This game has Diverse Characters | 567 |
 | This game has Challenging Combat | 539 |
 | This game has Quickly Understood Controls | 533 |
 | This game is Extremely Fun | 522 |
@@ -392,3 +392,4 @@ Diff (max vs sum): -27
 | 2023-08-05 | 4.82 | - | 6,343 | 10,887 |
 | 2023-08-06 | 4.82 | - | 6,343 | 10,893 |
 | 2023-08-07 | 4.82 | - | 6,351 | 10,902 |
+| 2023-08-08 | 4.82 | - | 6,351 | 10,903 |

@@ -9,7 +9,7 @@
 | On the Road | 43.00% | ~159 |
 | Souvenirs | 30.00% | ~111 |
 | Welcome to the Garage | 19.00% | ~70 |
-| This is Not Heavy Metal! | 16.00% | ~59 |
+| This is Not Heavy Metal! | 17.00% | ~63 |
 | Truthseeker | 15.00% | ~56 |
 | Partners in Crime | 10.00% | ~37 |
 | 86's Nightmare | 9.00% | ~33 |

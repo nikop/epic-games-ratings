@@ -26,9 +26,9 @@ Number of Ratings: 154  (23.09.2022)
 | Super Sonic | 48.00% | ~181 |
 | Shut Down Metal Sonic | 47.00% | ~177 |
 | Beware Stingers! | 47.00% | ~177 |
+| Beware Moto Bugs! | 44.00% | ~166 |
 | Cleared Sonic CD | 44.00% | ~166 |
 | Cleared Sonic the Hedgehog 2 | 44.00% | ~166 |
-| Beware Moto Bugs! | 43.00% | ~162 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 41.00% | ~155 |
 | Lucky Hedgehog | 33.00% | ~124 |
 | All Clear! | 33.00% | ~124 |

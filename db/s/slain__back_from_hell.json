@@ -205,9 +205,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 33071,
+  "EOS_Progressed": 33074,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 913,
+  "EOS_NewPlayers": 914,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -12165,6 +12165,11 @@
       "Time": "2023-08-08T07:05:08.3141313+00:00",
       "NumProgressed": 33071,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-08T08:04:48.5302889+00:00",
+      "NumProgressed": 33074,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -12184,7 +12189,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6614
+      "UsersEstimate": 6615
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -12264,7 +12269,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -12280,7 +12285,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -12312,7 +12317,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -12407,7 +12412,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 33071,
+      "Progressed": 33074,
       "Completed": 21
     }
   ],
@@ -12415,8 +12420,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-01T20:00:57.6814566+00:00",
-  "LastChanged_Achievements": "2023-08-08T07:05:08.3141308+00:00",
+  "LastChanged_Achievements": "2023-08-08T08:04:48.5302883+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:57.8950159+00:00",
-  "LastUpdate_Ratings": "2023-08-08T07:00:52.1928252+00:00",
-  "LastUpdate_Achievements": "2023-08-08T07:05:08.3142017+00:00"
+  "LastUpdate_Ratings": "2023-08-08T08:00:19.9833508+00:00",
+  "LastUpdate_Achievements": "2023-08-08T08:04:48.530379+00:00"
 }

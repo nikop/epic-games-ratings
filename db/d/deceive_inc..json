@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17121,
+  "EOS_Progressed": 17122,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 633,
+  "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7689,6 +7689,11 @@
       "Time": "2023-08-08T07:04:16.8567658+00:00",
       "NumProgressed": 17121,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-08T08:04:07.4008237+00:00",
+      "NumProgressed": 17122,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -7700,7 +7705,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5136
+      "UsersEstimate": 5137
     },
     {
       "ID": "0002",
@@ -7788,7 +7793,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2739
+      "UsersEstimate": 2740
     },
     {
       "ID": "0013",
@@ -7987,7 +7992,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17121,
+      "Progressed": 17122,
       "Completed": 1
     }
   ],
@@ -7995,8 +8000,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-04T08:00:04.3199402+00:00",
-  "LastChanged_Achievements": "2023-08-08T07:04:16.8567653+00:00",
+  "LastChanged_Achievements": "2023-08-08T08:04:07.4008232+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-08T07:00:32.1351086+00:00",
-  "LastUpdate_Achievements": "2023-08-08T07:04:16.856821+00:00"
+  "LastUpdate_Ratings": "2023-08-08T08:00:00.4526705+00:00",
+  "LastUpdate_Achievements": "2023-08-08T08:04:07.4008941+00:00"
 }

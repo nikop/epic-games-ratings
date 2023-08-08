@@ -6,28 +6,28 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,386 |
-| Let There Be Light | 30.00% | ~18,151 |
+| Follow the Light | 37.00% | ~22,387 |
+| Let There Be Light | 30.00% | ~18,152 |
 | Float Like a Butterfly | 28.00% | ~16,941 |
-| Nordic Walking | 23.00% | ~13,915 |
-| Bright Falls' Finest | 22.00% | ~13,310 |
-| Under a Thin Layer of Skin | 20.00% | ~12,100 |
-| Park Ranger | 16.00% | ~9,680 |
-| Paging Mr. Wake | 16.00% | ~9,680 |
-| Back! Back, I Say! | 15.00% | ~9,075 |
-| Finders Keepers | 15.00% | ~9,075 |
-| Sound and Fury | 14.00% | ~8,470 |
-| Damn Good Cup of Coffee | 14.00% | ~8,470 |
-| Wheels Within Wheels | 13.00% | ~7,865 |
-| They're Heeeeeere! | 13.00% | ~7,865 |
-| Missed by a Mile | 13.00% | ~7,865 |
-| Iron Horse | 12.00% | ~7,260 |
-| The Six-Gun Scribe | 12.00% | ~7,260 |
-| Collateral Carnage | 12.00% | ~7,260 |
-| Come One, Come All | 12.00% | ~7,260 |
-| Heavy Metal | 11.00% | ~6,655 |
-| Perchance to Dream | 11.00% | ~6,655 |
-| Thunder and Lightning | 11.00% | ~6,655 |
+| Nordic Walking | 23.00% | ~13,916 |
+| Bright Falls' Finest | 22.00% | ~13,311 |
+| Under a Thin Layer of Skin | 20.00% | ~12,101 |
+| Park Ranger | 16.00% | ~9,681 |
+| Paging Mr. Wake | 16.00% | ~9,681 |
+| Back! Back, I Say! | 15.00% | ~9,076 |
+| Finders Keepers | 15.00% | ~9,076 |
+| Sound and Fury | 14.00% | ~8,471 |
+| Damn Good Cup of Coffee | 14.00% | ~8,471 |
+| Wheels Within Wheels | 13.00% | ~7,866 |
+| They're Heeeeeere! | 13.00% | ~7,866 |
+| Missed by a Mile | 13.00% | ~7,866 |
+| Iron Horse | 12.00% | ~7,261 |
+| The Six-Gun Scribe | 12.00% | ~7,261 |
+| Collateral Carnage | 12.00% | ~7,261 |
+| Come One, Come All | 12.00% | ~7,261 |
+| Heavy Metal | 11.00% | ~6,656 |
+| Perchance to Dream | 11.00% | ~6,656 |
+| Thunder and Lightning | 11.00% | ~6,656 |
 | Gatekeeper | 10.00% | ~6,050 |
 | It's Not Just a Typewriter Brand | 10.00% | ~6,050 |
 | Two For the Price of One | 10.00% | ~6,050 |
@@ -42,7 +42,7 @@ Number of Ratings: 524  (23.09.2022)
 | Children of the Elder God | 5.00% | ~3,025 |
 | Drink 'Em Both Up | 5.00% | ~3,025 |
 | Hardboiled Writer | 5.00% | ~3,025 |
-| Ding! | 5.00% | ~1,198 |
+| Ding! | 5.00% | ~1,199 |
 | Boob Tube | 4.00% | ~2,420 |
 | If It Flies, It Burns | 4.00% | ~2,420 |
 | KBF-FM | 4.00% | ~2,420 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,502 (Ranked 84)  
+Progressed: 60,505 (Ranked 84)  
 Completed: 64 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 64 (0.11%) (Ranked 195)
 | 2023-08-05 | 60,337 | 64 |
 | 2023-08-06 | 60,420 | 64 |
 | 2023-08-07 | 60,481 | 64 |
-| 2023-08-08 | 60,502 | 64 |
+| 2023-08-08 | 60,505 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

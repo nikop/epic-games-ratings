@@ -4,7 +4,7 @@
   "ProductSlug": "guardian-of-lore-25e67a",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-03-02T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:15.9627858+00:00",
   "LastChanged": "2023-03-31T05:57:15.9627859+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:49.9429114+00:00",
-  "LastUpdate_Ratings": "2023-08-08T06:58:47.1322659+00:00",
-  "LastUpdate_Achievements": "2023-08-08T07:03:50.264758+00:00"
+  "LastUpdate_Ratings": "2023-08-08T07:58:31.2694107+00:00",
+  "LastUpdate_Achievements": "2023-08-08T08:03:46.1103025+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 377,
-  "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_Progress": 376,
+  "Ranking_EOS_Completed": 26,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 38,
+  "EOS_Progressed": 39,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.53,
+  "EOS_Completed_Percentage": 10.26,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -227,6 +227,11 @@
       "Time": "2023-08-07T21:07:14.2070492+00:00",
       "NumProgressed": 38,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-08T08:05:02.8651713+00:00",
+      "NumProgressed": 39,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 25,
@@ -244,7 +249,7 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 200,
       "UsersEstimate": 6
     },
@@ -260,7 +265,7 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -268,7 +273,7 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -292,7 +297,7 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -308,7 +313,7 @@
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -316,7 +321,7 @@
       "ID": "META_RESULT_2-4",
       "SetID": "2gma9an",
       "Name": "For its own good",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -324,7 +329,7 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -332,7 +337,7 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -348,7 +353,7 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G4M3R",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -380,7 +385,7 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -437,13 +442,13 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 38,
+      "Progressed": 39,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-08-08T07:05:26.2656987+00:00",
+  "LastChanged_Achievements": "2023-08-08T08:05:02.8651708+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:00.7292273+00:00",
-  "LastUpdate_Ratings": "2023-08-08T06:59:52.9910678+00:00",
-  "LastUpdate_Achievements": "2023-08-08T07:05:26.2657173+00:00"
+  "LastUpdate_Ratings": "2023-08-08T07:59:25.6681233+00:00",
+  "LastUpdate_Achievements": "2023-08-08T08:05:02.8651886+00:00"
 }

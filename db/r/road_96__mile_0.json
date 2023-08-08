@@ -1218,9 +1218,9 @@
       "ID": "scoreminrankrp1",
       "SetID": "40n95i5",
       "Name": "This is Not Heavy Metal!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 59
+      "UsersEstimate": 63
     },
     {
       "ID": "scoreminrankrp2",
@@ -1267,8 +1267,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-08-08T07:03:45.8036612+00:00",
+  "LastChanged_Achievements": "2023-08-08T08:03:41.6338421+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:41.5277301+00:00",
-  "LastUpdate_Ratings": "2023-08-08T06:59:34.8519422+00:00",
-  "LastUpdate_Achievements": "2023-08-08T07:03:45.803676+00:00"
+  "LastUpdate_Ratings": "2023-08-08T07:59:11.8772421+00:00",
+  "LastUpdate_Achievements": "2023-08-08T08:03:41.6338591+00:00"
 }
