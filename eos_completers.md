@@ -17,8 +17,8 @@
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.02% |
 | 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.64% |
 | 17 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
-| 18 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.00% |
-| 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.97% |
+| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.97% |
+| 19 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.54% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.33% |
 | 21 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.73% |
@@ -54,7 +54,7 @@
 | 52 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 53 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.22% |
 | 54 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.99% |
-| 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
+| 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
 | 56 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 56 | [ZZT!](games/z/zzt!.md) | 3.70% |
 | 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
@@ -117,7 +117,7 @@
 | 114 | [Sable](games/s/sable.md) | 0.98% |
 | 116 | [Hades](games/h/hades.md) | 0.90% |
 | 117 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 118 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
+| 118 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 119 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
 | 120 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 121 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
