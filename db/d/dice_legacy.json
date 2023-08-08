@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -1399,9 +1399,9 @@
       "ID": "CHALLENGE_RANDOMPOPULATION",
       "SetID": "6ohhfoc",
       "Name": "Charismatic Leader",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CHALLENGE_SCORTCHINGSUMMER",
@@ -1639,9 +1639,9 @@
       "ID": "WINMATCHWITH_MERCHANT",
       "SetID": "6ohhfoc",
       "Name": "The Foul",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "WINMATCHWITH_SAINT",
@@ -1712,8 +1712,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-08-08T15:06:04.4128844+00:00",
+  "LastChanged_Achievements": "2023-08-08T16:05:01.330342+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:24.6012935+00:00",
-  "LastUpdate_Ratings": "2023-08-08T14:58:53.0549278+00:00",
-  "LastUpdate_Achievements": "2023-08-08T15:06:04.4129308+00:00"
+  "LastUpdate_Ratings": "2023-08-08T15:58:27.6933869+00:00",
+  "LastUpdate_Achievements": "2023-08-08T16:05:01.3303806+00:00"
 }

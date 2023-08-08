@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -275,9 +275,9 @@
       "ID": "CgkInO_K3eIdEAIQAw",
       "SetID": "6bj96in",
       "Name": "GREAT ESCAPE",
-      "Percentage": 100,
+      "Percentage": 102,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CgkInO_K3eIdEAIQBA",
@@ -474,8 +474,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-08T15:05:37.5763355+00:00",
+  "LastChanged_Achievements": "2023-08-08T16:04:39.9463355+00:00",
   "LastUpdate_AppInfo": "2023-08-02T14:57:15.3975507+00:00",
-  "LastUpdate_Ratings": "2023-08-08T14:57:52.7324514+00:00",
-  "LastUpdate_Achievements": "2023-08-08T15:05:37.5763656+00:00"
+  "LastUpdate_Ratings": "2023-08-08T15:57:39.1871234+00:00",
+  "LastUpdate_Achievements": "2023-08-08T16:04:39.946351+00:00"
 }

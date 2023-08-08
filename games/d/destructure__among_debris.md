@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduation | 79.00% | ~119 |
-| You Have Been Deaded | 75.00% | ~113 |
+| Graduation | 79.00% | ~120 |
+| You Have Been Deaded | 75.00% | ~114 |
 | Rookie | 70.00% | ~106 |
-| Apprentice Destructor | 30.00% | ~45 |
+| Apprentice Destructor | 30.00% | ~46 |
 | I Prefer Jazz Fusion | 11.00% | ~17 |
 | Master Destructor | 11.00% | ~17 |
 | Avaricerite | 9.00% | ~14 |
@@ -36,7 +36,7 @@
 | Victory That Is Even More True | 1.00% | ~2 |
 | What Even Are You? | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151 (Ranked 298)  
+Progressed: 152 (Ranked 298)  
 Completed: 1 (0.66%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,6 +88,7 @@ Completed: 1 (0.66%) (Ranked 124)
 | 2023-06-22 | 149 | 1 |
 | 2023-07-03 | 150 | 1 |
 | 2023-07-13 | 151 | 1 |
+| 2023-08-08 | 152 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

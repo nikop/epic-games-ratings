@@ -29,8 +29,8 @@ Rating: 4.27 (Ranked 805)
 | The Council | 0.90% | ~9 |
 | Like the dream | 0.70% | ~7 |
 | Six Faces | 0.60% | ~6 |
+| Charismatic Leader | 0.60% | ~6 |
 | The Great Winter | 0.50% | ~5 |
-| Charismatic Leader | 0.50% | ~5 |
 | Metropolis | 0.50% | ~5 |
 | Red Tape | 0.40% | ~4 |
 | Knowledge is Power | 0.30% | ~3 |
@@ -40,6 +40,7 @@ Rating: 4.27 (Ranked 805)
 | It's spreading | 0.20% | ~2 |
 | The experiment | 0.10% | ~1 |
 | The Flail | 0.10% | ~1 |
+| The Foul | 0.10% | ~1 |
 | Aesthetics | 0.00% | ~0 |
 | Break the chains | 0.00% | ~0 |
 | Purist | 0.00% | ~0 |
@@ -47,7 +48,6 @@ Rating: 4.27 (Ranked 805)
 | Oktoberfest | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 | The Corrupted | 0.00% | ~0 |
-| The Foul | 0.00% | ~0 |
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

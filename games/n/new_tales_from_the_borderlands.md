@@ -15,7 +15,7 @@ Rating: 4.09 (Ranked 903)
 | Don't Get Cocky | 27.00% | ~960 |
 | Shard Snatchers | 24.00% | ~854 |
 | You Rich Now! | 22.00% | ~783 |
-| Our Lucky Winner | 20.00% | ~711 |
+| Our Lucky Winner | 21.00% | ~747 |
 | You Poor Now! | 20.00% | ~711 |
 | You Got the Goods, Kid | 20.00% | ~711 |
 | The Shardmenstration | 19.00% | ~676 |

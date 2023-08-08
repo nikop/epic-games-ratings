@@ -18,7 +18,7 @@
 | Bedroom Secret Spot | 39.00% | ~33 |
 | Kick It | 32.00% | ~27 |
 | Spooky | 31.00% | ~26 |
-| Grand Slam! | 25.00% | ~21 |
+| Grand Slam! | 26.00% | ~22 |
 | Classroom Secret Spot | 25.00% | ~21 |
 | Save some water for the fishies | 24.00% | ~20 |
 | Have Mercy | 23.00% | ~19 |

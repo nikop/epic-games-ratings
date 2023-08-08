@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-07-30T15:00:00+00:00",
     "PcReleaseDate": "2020-07-30T15:00:00+00:00",
@@ -1029,10 +1029,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 512,
       "NumberOfAwardsMax": 75
+    },
+    {
+      "Time": "2023-08-08T15:58:07.17658+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 513,
+      "NumberOfAwardsMax": 75
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 512,
+  "NumberOfAwards": 513,
   "NumberOfAwardsMax": 75,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -1082,7 +1088,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 53
+      "Count": 54
     },
     {
       "Text": "This game has a Creative Community",
@@ -1102,8 +1108,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
-  "LastChanged": "2023-08-08T14:58:29.209465+00:00",
+  "LastChanged": "2023-08-08T15:58:07.1765789+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:40.2435858+00:00",
-  "LastUpdate_Ratings": "2023-08-08T14:58:29.2094656+00:00",
-  "LastUpdate_Achievements": "2023-08-08T15:07:07.9163983+00:00"
+  "LastUpdate_Ratings": "2023-08-08T15:58:07.1765803+00:00",
+  "LastUpdate_Achievements": "2023-08-08T16:05:52.6863788+00:00"
 }

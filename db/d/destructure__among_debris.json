@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 151,
+  "EOS_Progressed": 152,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -713,6 +713,11 @@
       "Time": "2023-07-13T02:30:32.6529419+00:00",
       "NumProgressed": 151,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-08T16:05:14.2702781+00:00",
+      "NumProgressed": 152,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -724,7 +729,7 @@
       "Name": "Apprentice Destructor",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "avaricerite",
@@ -796,7 +801,7 @@
       "Name": "You Have Been Deaded",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "easy_victory",
@@ -812,7 +817,7 @@
       "Name": "Graduation",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -971,7 +976,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 151,
+      "Progressed": 152,
       "Completed": 1
     }
   ],
@@ -979,8 +984,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-08-08T15:06:19.5742608+00:00",
+  "LastChanged_Achievements": "2023-08-08T16:05:14.2702775+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:00.6112711+00:00",
-  "LastUpdate_Ratings": "2023-08-08T15:01:32.2020079+00:00",
-  "LastUpdate_Achievements": "2023-08-08T15:06:19.5742913+00:00"
+  "LastUpdate_Ratings": "2023-08-08T16:00:35.7654837+00:00",
+  "LastUpdate_Achievements": "2023-08-08T16:05:14.2703001+00:00"
 }

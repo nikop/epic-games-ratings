@@ -50,6 +50,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thieves of the Coven | 0.50% | ~931 |
 | A Demi-god's Defender | 0.50% | ~931 |
 | Friends of the Forest | 0.50% | ~1,100 |
+| Homecoming | 0.50% | ~1,100 |
 | March of the Undead | 0.50% | ~1,100 |
 | Wisdom Check | 0.50% | ~1,100 |
 | Invisible Shadows | 0.50% | ~1,100 |
@@ -76,7 +77,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.40% | ~745 |
 | Who Lurks Below? | 0.40% | ~745 |
 | Xanathaaaaaaar! | 0.40% | ~745 |
-| Homecoming | 0.40% | ~880 |
 | The Lost Heir of Omu | 0.40% | ~880 |
 | No One Can Hear You Scream | 0.40% | ~745 |
 | Welcome to the Rock | 0.40% | ~745 |
@@ -104,6 +104,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 0.40% | ~880 |
 | Overdue Rendezvous | 0.40% | ~880 |
 | The Templar's Camp | 0.40% | ~880 |
+| Rescue in the Jungle | 0.40% | ~880 |
 | Devilishly Cold | 0.40% | ~745 |
 | Luigi After Hours | 0.40% | ~745 |
 | Electric Mayhem | 0.40% | ~745 |
@@ -177,7 +178,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Expert Opinion | 0.30% | ~660 |
 | Dwarven Rumors | 0.30% | ~559 |
 | The Haunted Jungle | 0.30% | ~660 |
-| Rescue in the Jungle | 0.30% | ~660 |
 | Willing to Sacrifice | 0.30% | ~559 |
 | Tiny Treaty | 0.30% | ~559 |
 | Back to Nature | 0.20% | ~372 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,900 (Ranked 52)  
+Progressed: 219,907 (Ranked 52)  
 Completed: 2,165 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,10 +629,10 @@ Completed: 2,165 (0.98%) (Ranked 114)
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
-| 2023-08-08 | 219,900 | 2,165 |
+| 2023-08-08 | 219,907 | 2,165 |
 ## Awards
 Max (Diverse Characters): 5,125  (Ranked 67)  
-Sum: 30,942 (Ranked 38)  
+Sum: 30,943 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -641,7 +641,7 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 4,706 |
 | This game is Relaxing | 4,598 |
 | This game has Amazing Characters | 4,059 |
-| This game is Highly Recommended | 4,037 |
+| This game is Highly Recommended | 4,038 |
 | This game has Playful Visuals | 3,345 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -840,4 +840,4 @@ Diff (max vs sum): 29
 | 2023-08-05 | 4.05 | - | 5,119 | 30,910 |
 | 2023-08-06 | 4.06 | - | 5,121 | 30,921 |
 | 2023-08-07 | 4.06 | - | 5,121 | 30,936 |
-| 2023-08-08 | 4.06 | - | 5,125 | 30,942 |
+| 2023-08-08 | 4.06 | - | 5,125 | 30,943 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1064,9 +1064,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15829,
+  "EOS_Progressed": 15830,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -6319,6 +6319,11 @@
       "Time": "2023-08-08T07:03:41.0001109+00:00",
       "NumProgressed": 15829,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-08-08T16:03:32.1246449+00:00",
+      "NumProgressed": 15830,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 47,
@@ -6434,7 +6439,7 @@
       "Name": "Get a Grip",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -6705,13 +6710,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15829,
+      "Progressed": 15830,
       "Completed": 72
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3755,
+      "Progressed": 3756,
       "Completed": 29
     }
   ],
@@ -6719,8 +6724,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-08-06T22:58:59.3849893+00:00",
-  "LastChanged_Achievements": "2023-08-08T15:04:21.563182+00:00",
+  "LastChanged_Achievements": "2023-08-08T16:03:32.1246445+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:48.8250875+00:00",
-  "LastUpdate_Ratings": "2023-08-08T14:59:15.7545262+00:00",
-  "LastUpdate_Achievements": "2023-08-08T15:04:21.5632556+00:00"
+  "LastUpdate_Ratings": "2023-08-08T15:58:46.9722269+00:00",
+  "LastUpdate_Achievements": "2023-08-08T16:03:32.1247028+00:00"
 }

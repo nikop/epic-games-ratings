@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -672,9 +672,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3134,
+  "EOS_Progressed": 3135,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2982,6 +2982,11 @@
       "Time": "2023-08-08T04:06:14.3093327+00:00",
       "NumProgressed": 3134,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-08T16:04:49.6420448+00:00",
+      "NumProgressed": 3135,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3175,9 +3180,9 @@
       "ID": "Kills_Bloomspawn",
       "SetID": "3jha1np",
       "Name": "Corruption Cleanser",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "Kills_Executioner",
@@ -3536,21 +3541,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3134,
+      "Progressed": 3135,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3134,
+      "Progressed": 3135,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-06T13:02:06.0449243+00:00",
-  "LastChanged_Achievements": "2023-08-08T15:05:49.9584772+00:00",
+  "LastChanged_Achievements": "2023-08-08T16:04:49.6420444+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:37.2387595+00:00",
-  "LastUpdate_Ratings": "2023-08-08T15:00:02.073602+00:00",
-  "LastUpdate_Achievements": "2023-08-08T15:05:49.9585763+00:00"
+  "LastUpdate_Ratings": "2023-08-08T15:59:24.5773332+00:00",
+  "LastUpdate_Achievements": "2023-08-08T16:04:49.642108+00:00"
 }
