@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,384 |
-| Let There Be Light | 30.00% | ~18,149 |
-| Float Like a Butterfly | 28.00% | ~16,939 |
-| Nordic Walking | 23.00% | ~13,914 |
-| Bright Falls' Finest | 22.00% | ~13,309 |
-| Under a Thin Layer of Skin | 19.00% | ~11,494 |
+| Follow the Light | 37.00% | ~22,385 |
+| Let There Be Light | 30.00% | ~18,150 |
+| Float Like a Butterfly | 28.00% | ~16,940 |
+| Nordic Walking | 23.00% | ~13,915 |
+| Bright Falls' Finest | 22.00% | ~13,310 |
+| Under a Thin Layer of Skin | 19.00% | ~11,495 |
 | Park Ranger | 16.00% | ~9,680 |
 | Paging Mr. Wake | 16.00% | ~9,680 |
 | Back! Back, I Say! | 15.00% | ~9,075 |
@@ -62,9 +62,9 @@ Number of Ratings: 524  (23.09.2022)
 | License Revoked | 0.40% | ~96 |
 | Whirlwind | 0.40% | ~96 |
 | Creative Space | 0.40% | ~96 |
-| Alan, Wake Up | 0.30% | ~181 |
-| Meet the Deadline | 0.30% | ~181 |
-| Picking Up After Yourself | 0.30% | ~181 |
+| Alan, Wake Up | 0.30% | ~182 |
+| Meet the Deadline | 0.30% | ~182 |
+| Picking Up After Yourself | 0.30% | ~182 |
 | Tick Tock | 0.30% | ~72 |
 | Gunless Wonder | 0.20% | ~121 |
 | Every Nook and Cranny | 0.20% | ~121 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~60 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,497 (Ranked 84)  
+Progressed: 60,500 (Ranked 84)  
 Completed: 64 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 64 (0.11%) (Ranked 195)
 | 2023-08-05 | 60,337 | 64 |
 | 2023-08-06 | 60,420 | 64 |
 | 2023-08-07 | 60,481 | 64 |
-| 2023-08-08 | 60,497 | 64 |
+| 2023-08-08 | 60,500 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

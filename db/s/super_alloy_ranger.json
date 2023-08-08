@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -580,9 +580,9 @@
       "ID": "Achi_37",
       "SetID": "51a97k7",
       "Name": "Get to the Point",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Achi_38",
@@ -701,8 +701,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-08-08T04:06:28.3005828+00:00",
+  "LastChanged_Achievements": "2023-08-08T05:06:11.0403468+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:56.5637374+00:00",
-  "LastUpdate_Ratings": "2023-08-08T04:02:19.8683094+00:00",
-  "LastUpdate_Achievements": "2023-08-08T04:06:28.3006604+00:00"
+  "LastUpdate_Ratings": "2023-08-08T05:01:57.1246473+00:00",
+  "LastUpdate_Achievements": "2023-08-08T05:06:11.0403958+00:00"
 }

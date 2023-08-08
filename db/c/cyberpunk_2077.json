@@ -9993,10 +9993,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 197866,
       "NumberOfAwardsMax": 75020
+    },
+    {
+      "Time": "2023-08-08T04:59:21.1008786+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 197882,
+      "NumberOfAwardsMax": 75020
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 197866,
+  "NumberOfAwards": 197882,
   "NumberOfAwardsMax": 75020,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10052,7 +10058,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 8414
+      "Count": 8430
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10073,9 +10079,9 @@
       "Count": 5525
     }
   ],
-  "EOS_Progressed": 869792,
+  "EOS_Progressed": 869793,
   "EOS_Completed": 1948,
-  "EOS_NewPlayers": 1114,
+  "EOS_NewPlayers": 1111,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -22068,6 +22074,11 @@
       "Time": "2023-08-08T04:05:48.9718409+00:00",
       "NumProgressed": 869792,
       "NumCompleted": 1948
+    },
+    {
+      "Time": "2023-08-08T05:05:32.4016816+00:00",
+      "NumProgressed": 869793,
+      "NumCompleted": 1948
     }
   ],
   "TotalAchievements": 44,
@@ -22247,7 +22258,7 @@
       "Name": "Life of the Road",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 182656
+      "UsersEstimate": 182657
     },
     {
       "ID": "Roleplayer",
@@ -22319,7 +22330,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 304427
+      "UsersEstimate": 304428
     },
     {
       "ID": "TheStar",
@@ -22327,7 +22338,7 @@
       "Name": "The Star",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 60885
+      "UsersEstimate": 60886
     },
     {
       "ID": "TheSun",
@@ -22430,15 +22441,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 869792,
+      "Progressed": 869793,
       "Completed": 1948
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-08-07T23:58:41.2886981+00:00",
-  "LastChanged_Achievements": "2023-08-08T04:05:48.9718402+00:00",
+  "LastChanged": "2023-08-08T04:59:21.1008785+00:00",
+  "LastChanged_Achievements": "2023-08-08T05:05:32.401681+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:43.7604736+00:00",
-  "LastUpdate_Ratings": "2023-08-08T03:59:46.4618819+00:00",
-  "LastUpdate_Achievements": "2023-08-08T04:05:48.9720318+00:00"
+  "LastUpdate_Ratings": "2023-08-08T04:59:21.100879+00:00",
+  "LastUpdate_Achievements": "2023-08-08T05:05:32.4018726+00:00"
 }

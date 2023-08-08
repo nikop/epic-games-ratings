@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 86,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,10 +374,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17294,
+  "EOS_Progressed": 17295,
   "EOS_Completed": 355,
-  "EOS_NewPlayers": 584,
-  "EOS_NewCompleters": 10,
+  "EOS_NewPlayers": 583,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.05,
   "EosHistory": [
     {
@@ -11959,6 +11959,11 @@
       "Time": "2023-08-08T04:06:21.080161+00:00",
       "NumProgressed": 17294,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2023-08-08T05:06:03.5141807+00:00",
+      "NumProgressed": 17295,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 20,
@@ -11994,7 +11999,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -12010,7 +12015,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -12090,7 +12095,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 13143
+      "UsersEstimate": 13144
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -12098,7 +12103,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4842
+      "UsersEstimate": 4843
     },
     {
       "ID": "NORTH_FINISHED",
@@ -12129,15 +12134,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 17294,
+      "Progressed": 17295,
       "Completed": 355
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-08-08T04:06:21.0801604+00:00",
+  "LastChanged_Achievements": "2023-08-08T05:06:03.5141802+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:05.7530633+00:00",
-  "LastUpdate_Ratings": "2023-08-08T04:02:29.8327167+00:00",
-  "LastUpdate_Achievements": "2023-08-08T04:06:21.0802616+00:00"
+  "LastUpdate_Ratings": "2023-08-08T05:02:06.4593832+00:00",
+  "LastUpdate_Achievements": "2023-08-08T05:06:03.5142674+00:00"
 }

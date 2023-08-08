@@ -2458,9 +2458,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 26611,
+  "EOS_Progressed": 26612,
   "EOS_Completed": 217,
-  "EOS_NewPlayers": 766,
+  "EOS_NewPlayers": 763,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -14213,6 +14213,11 @@
       "Time": "2023-08-08T04:03:07.848432+00:00",
       "NumProgressed": 26611,
       "NumCompleted": 217
+    },
+    {
+      "Time": "2023-08-08T05:03:14.4303404+00:00",
+      "NumProgressed": 26612,
+      "NumCompleted": 217
     }
   ],
   "TotalAchievements": 60,
@@ -14224,7 +14229,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 15434
+      "UsersEstimate": 15435
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -14232,7 +14237,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 12241
+      "UsersEstimate": 12242
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -14240,7 +14245,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 15168
+      "UsersEstimate": 15169
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -14264,7 +14269,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 5854
+      "UsersEstimate": 5855
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -14360,7 +14365,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 8249
+      "UsersEstimate": 8250
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -14384,7 +14389,7 @@
       "Name": "The last burger",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 10112
+      "UsersEstimate": 10113
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -14416,7 +14421,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 10112
+      "UsersEstimate": 10113
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -14576,7 +14581,7 @@
       "Name": "The Force disturbed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 5588
+      "UsersEstimate": 5589
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -14672,7 +14677,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 7983
+      "UsersEstimate": 7984
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -14703,15 +14708,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 26611,
+      "Progressed": 26612,
       "Completed": 217
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-08-07T03:00:34.5817717+00:00",
-  "LastChanged_Achievements": "2023-08-08T04:03:07.8484314+00:00",
+  "LastChanged_Achievements": "2023-08-08T05:03:14.4303398+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:14.252482+00:00",
-  "LastUpdate_Ratings": "2023-08-08T04:01:27.8491422+00:00",
-  "LastUpdate_Achievements": "2023-08-08T04:03:07.8486551+00:00"
+  "LastUpdate_Ratings": "2023-08-08T05:01:05.1950731+00:00",
+  "LastUpdate_Achievements": "2023-08-08T05:03:14.430504+00:00"
 }

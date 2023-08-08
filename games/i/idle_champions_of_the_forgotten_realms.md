@@ -21,9 +21,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.80% | ~1,758 |
 | Topolah's Tower | 0.80% | ~1,489 |
 | Pros and CONs | 0.70% | ~1,539 |
+| The Witchlight Carnival | 0.70% | ~1,303 |
 | Wet Feet | 0.70% | ~1,539 |
-| Return to the Tomb | 0.70% | ~1,302 |
-| Heatwave | 0.70% | ~1,302 |
+| Return to the Tomb | 0.70% | ~1,303 |
+| Heatwave | 0.70% | ~1,303 |
 | Were-verpowered | 0.70% | ~1,539 |
 | A Persistent Buzzing | 0.70% | ~1,539 |
 | Terror in the Dark | 0.70% | ~1,539 |
@@ -31,7 +32,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.70% | ~1,539 |
 | Unearthed Evil | 0.70% | ~1,539 |
 | The Mad Wizard | 0.70% | ~1,539 |
-| The Witchlight Carnival | 0.60% | ~1,116 |
 | Hatchlings Underfoot | 0.60% | ~1,319 |
 | Don't Look Up! | 0.60% | ~1,319 |
 | Heavy Burden | 0.60% | ~1,319 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,789 (Ranked 52)  
+Progressed: 219,800 (Ranked 52)  
 Completed: 2,163 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 2,163 (0.98%) (Ranked 114)
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
-| 2023-08-08 | 219,789 | 2,163 |
+| 2023-08-08 | 219,800 | 2,163 |
 ## Awards
 Max (Diverse Characters): 5,121  (Ranked 67)  
 Sum: 30,936 (Ranked 38)  

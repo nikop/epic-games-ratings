@@ -8,7 +8,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Fool | 68.00% | ~591,459 |
 | Right Back At Ya | 39.00% | ~339,219 |
-| The Lovers | 35.00% | ~304,427 |
+| The Lovers | 35.00% | ~304,428 |
 | Stanislavski's Method | 28.00% | ~243,542 |
 | The Wheel of Fortune | 27.00% | ~234,844 |
 | The Hermit | 24.00% | ~208,750 |
@@ -16,7 +16,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 23.00% | ~200,052 |
 | The High Priestess | 22.00% | ~191,354 |
 | Legend of The Afterlife | 22.00% | ~191,354 |
-| Life of the Road | 21.00% | ~182,656 |
+| Life of the Road | 21.00% | ~182,657 |
 | Full Body Conversion | 18.00% | ~156,563 |
 | The World | 18.00% | ~156,563 |
 | Bushido and Chill | 16.00% | ~139,167 |
@@ -31,7 +31,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wandering Fool | 9.00% | ~78,281 |
 | Ten out of Ten | 9.00% | ~78,281 |
 | Breathtaking | 8.00% | ~69,583 |
-| The Star | 7.00% | ~60,885 |
+| The Star | 7.00% | ~60,886 |
 | To Bad Decisions! | 6.00% | ~52,188 |
 | The Sun | 6.00% | ~52,188 |
 | Must Be Rats | 4.00% | ~34,792 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,698 |
 | Rough Landing | 0.50% | ~4,349 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 869,792 (Ranked 14)  
+Progressed: 869,793 (Ranked 14)  
 Completed: 1,948 (0.22%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,10 +161,10 @@ Completed: 1,948 (0.22%) (Ranked 173)
 | 2023-08-05 | 869,431 | 1,936 |
 | 2023-08-06 | 869,632 | 1,943 |
 | 2023-08-07 | 869,778 | 1,948 |
-| 2023-08-08 | 869,792 | 1,948 |
+| 2023-08-08 | 869,793 | 1,948 |
 ## Awards
 Max (Character Customization): 75,020  (Ranked 9)  
-Sum: 197,866 (Ranked 13)  
+Sum: 197,882 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -176,8 +176,8 @@ Diff (max vs sum): -4
 | This game is Extremely Fun | 8,632 |
 | This game is Highly Recommended | 8,595 |
 | This game is Relaxing | 8,539 |
+| This game has Quickly Understood Controls | 8,430 |
 | This game has Amazing Characters | 8,420 |
-| This game has Quickly Understood Controls | 8,414 |
 | This game has a Creative Community | 5,525 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -383,3 +383,4 @@ Diff (max vs sum): -4
 | 2023-08-05 | 4.62 | - | 74,859 | 197,367 |
 | 2023-08-06 | 4.62 | - | 74,927 | 197,636 |
 | 2023-08-07 | 4.62 | - | 75,020 | 197,866 |
+| 2023-08-08 | 4.62 | - | 75,020 | 197,882 |

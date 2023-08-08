@@ -6,33 +6,33 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~689,528 |
-| Green Energy | 60.00% | ~582,700 |
-| Foggy Weather | 59.00% | ~572,988 |
-| Singing In The- | 59.00% | ~572,988 |
-| Unpopular Mayor | 41.00% | ~398,178 |
-| Power at Your Fingertips | 33.00% | ~320,485 |
-| City Planner | 23.00% | ~223,368 |
-| Rolling in Dough | 20.00% | ~194,233 |
-| Does My Bum Look Big In This? | 17.00% | ~165,098 |
-| Climbing the Social Ladder | 16.00% | ~155,387 |
-| Safe City | 14.00% | ~135,963 |
-| Quay-King | 11.00% | ~106,828 |
-| Lawmaker | 10.00% | ~97,117 |
-| With Canals You Can! | 10.00% | ~97,117 |
-| Nomen Est Omen | 7.00% | ~67,982 |
-| Well Informed | 6.00% | ~58,270 |
-| Fire Watch | 5.00% | ~48,558 |
-| Greenest City | 4.00% | ~38,847 |
-| Heavenly City | 3.00% | ~29,135 |
-| Reporting! | 3.00% | ~29,135 |
-| SIMulated City | 3.00% | ~29,135 |
-| The Safest Town | 3.00% | ~29,135 |
-| Professional Dumper | 2.00% | ~19,423 |
+| Pioneer | 71.00% | ~689,551 |
+| Green Energy | 60.00% | ~582,719 |
+| Foggy Weather | 59.00% | ~573,007 |
+| Singing In The- | 59.00% | ~573,007 |
+| Unpopular Mayor | 41.00% | ~398,191 |
+| Power at Your Fingertips | 33.00% | ~320,495 |
+| City Planner | 23.00% | ~223,376 |
+| Rolling in Dough | 20.00% | ~194,240 |
+| Does My Bum Look Big In This? | 17.00% | ~165,104 |
+| Climbing the Social Ladder | 16.00% | ~155,392 |
+| Safe City | 14.00% | ~135,968 |
+| Quay-King | 11.00% | ~106,832 |
+| Lawmaker | 10.00% | ~97,120 |
+| With Canals You Can! | 10.00% | ~97,120 |
+| Nomen Est Omen | 7.00% | ~67,984 |
+| Well Informed | 6.00% | ~58,272 |
+| Fire Watch | 5.00% | ~48,560 |
+| Greenest City | 4.00% | ~38,848 |
+| Heavenly City | 3.00% | ~29,136 |
+| Reporting! | 3.00% | ~29,136 |
+| SIMulated City | 3.00% | ~29,136 |
+| The Safest Town | 3.00% | ~29,136 |
+| Professional Dumper | 2.00% | ~19,424 |
 | City in Motion | 1.00% | ~9,712 |
 | Earthloving City | 1.00% | ~9,712 |
 | Metropolis | 1.00% | ~9,712 |
-| Higher Education | 0.80% | ~7,769 |
+| Higher Education | 0.80% | ~7,770 |
 | Beam Me Up | 0.70% | ~6,798 |
 | Full Capacity | 0.60% | ~5,827 |
 | Terraformer | 0.60% | ~5,827 |
@@ -51,14 +51,14 @@ Number of Ratings: 25,248  (23.09.2022)
 | I Want It All | 0.40% | ~3,885 |
 | Just Tolling | 0.40% | ~3,885 |
 | Thunder and Lightning | 0.40% | ~3,885 |
-| A Huge Hadron | 0.30% | ~2,913 |
-| Airport Architect | 0.30% | ~2,913 |
-| Are They Naked In There? | 0.30% | ~2,913 |
-| Friendly Teaching | 0.30% | ~2,913 |
-| Here's A Tram | 0.30% | ~2,913 |
-| Run, Bambi! | 0.30% | ~2,913 |
-| Short Fuse | 0.30% | ~2,913 |
-| We need snorkels! | 0.30% | ~2,913 |
+| A Huge Hadron | 0.30% | ~2,914 |
+| Airport Architect | 0.30% | ~2,914 |
+| Are They Naked In There? | 0.30% | ~2,914 |
+| Friendly Teaching | 0.30% | ~2,914 |
+| Here's A Tram | 0.30% | ~2,914 |
+| Run, Bambi! | 0.30% | ~2,914 |
+| Short Fuse | 0.30% | ~2,914 |
+| We need snorkels! | 0.30% | ~2,914 |
 | City in Motion 2 | 0.20% | ~1,942 |
 | Eternal City | 0.20% | ~1,942 |
 | It's Wintertime! | 0.20% | ~1,942 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~971 |
 | Z00 | 0.10% | ~971 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 971,166 (Ranked 13)  
+Progressed: 971,198 (Ranked 13)  
 Completed: 10 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,14 +236,14 @@ Completed: 10 (0.00%) (Ranked 251)
 | 2023-08-05 | 966,189 | 10 |
 | 2023-08-06 | 968,750 | 10 |
 | 2023-08-07 | 970,903 | 10 |
-| 2023-08-08 | 971,166 | 10 |
+| 2023-08-08 | 971,198 | 10 |
 ## Awards
-Max (Relaxing): 5,083  (Ranked 68)  
-Sum: 38,581 (Ranked 32)  
+Max (Relaxing): 5,091  (Ranked 68)  
+Sum: 38,589 (Ranked 32)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 5,083 |
+| This game is Relaxing | 5,091 |
 | This game is Great for Beginners | 5,077 |
 | This game is Educational | 4,762 |
 | This game has Quickly Understood Controls | 4,755 |
@@ -450,3 +450,4 @@ Diff (max vs sum): 36
 | 2023-08-05 | 4.65 | - | 5,072 | 38,484 |
 | 2023-08-06 | 4.65 | - | 5,077 | 38,525 |
 | 2023-08-07 | 4.65 | - | 5,083 | 38,581 |
+| 2023-08-08 | 4.65 | - | 5,091 | 38,589 |
