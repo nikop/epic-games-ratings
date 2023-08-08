@@ -25,9 +25,331 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-08T00:02:23.2553608+00:00",
+  "TotalAchievements": 40,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BIGWINS",
+      "SetID": "1k0m0ab",
+      "Name": "Big Wins",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAPTAIN_ARM",
+      "SetID": "1k0m0ab",
+      "Name": "Handy Man",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CATCHDROG_ZLOFF",
+      "SetID": "1k0m0ab",
+      "Name": "Engineer Zloff",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CATCHMENT_SEAL",
+      "SetID": "1k0m0ab",
+      "Name": "Earth Seal",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CATCH_MADAME_BOUVINE",
+      "SetID": "1k0m0ab",
+      "Name": "Tower of Love",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CATCH_PIPES_TUNNEL",
+      "SetID": "1k0m0ab",
+      "Name": "Hidden Refuge",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CATCH_SOUNDPROOF",
+      "SetID": "1k0m0ab",
+      "Name": "Padded Hut",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DISTILLERY_SEAL",
+      "SetID": "1k0m0ab",
+      "Name": "Air Seal",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DLR_MEMBER",
+      "SetID": "1k0m0ab",
+      "Name": "Resistance Fighter",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DRINK_BLITZ",
+      "SetID": "1k0m0ab",
+      "Name": "PRIMA BLITZ",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DRINK_BLUE",
+      "SetID": "1k0m0ab",
+      "Name": "PRIMA BLUE",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DRINK_GAZE",
+      "SetID": "1k0m0ab",
+      "Name": "PRIMA GAZE",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DRINK_JOLT",
+      "SetID": "1k0m0ab",
+      "Name": "PRIMA JOLT",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DRINK_RUSH",
+      "SetID": "1k0m0ab",
+      "Name": "PRIMA RUSH",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DROSTOWN_TICKET",
+      "SetID": "1k0m0ab",
+      "Name": "Fair Trade",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENDING_100",
+      "SetID": "1k0m0ab",
+      "Name": "Turned To Gold",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENDING_NORMAL",
+      "SetID": "1k0m0ab",
+      "Name": "The Great Work",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EPILOGUE_FLUTE",
+      "SetID": "1k0m0ab",
+      "Name": "Bounty: Collected",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FILTRATION_SEAL",
+      "SetID": "1k0m0ab",
+      "Name": "Water Seal",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FISHERMAN_CATCH",
+      "SetID": "1k0m0ab",
+      "Name": "Fishy Business",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FURNACE_SEAL",
+      "SetID": "1k0m0ab",
+      "Name": "Fire Seal",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FURN_PIRATE_FLAG",
+      "SetID": "1k0m0ab",
+      "Name": "Pirate Flag Barter",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GARDEN_GUARDS",
+      "SetID": "1k0m0ab",
+      "Name": "Gotcha!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JAILBREAK",
+      "SetID": "1k0m0ab",
+      "Name": "Jailbreak",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LILLIES_BOUNTYARMOUR",
+      "SetID": "1k0m0ab",
+      "Name": "Abandoned Hunter",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MODERAT_AIR",
+      "SetID": "1k0m0ab",
+      "Name": "Moderat Air",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MODERAT_EARTH",
+      "SetID": "1k0m0ab",
+      "Name": "Moderat Earth",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MODERAT_FIRE",
+      "SetID": "1k0m0ab",
+      "Name": "Moderat Fire",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MODERAT_WATER",
+      "SetID": "1k0m0ab",
+      "Name": "Moderat Water",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NETHERTOWN_SOGGY",
+      "SetID": "1k0m0ab",
+      "Name": "Soggy Bottom Blop",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEWFLESH",
+      "SetID": "1k0m0ab",
+      "Name": "New Flesh",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPEEDYCLAM_DROSTOWN",
+      "SetID": "1k0m0ab",
+      "Name": "Dros Town Speedy Clam",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPEEDYCLAM_GIMBAL",
+      "SetID": "1k0m0ab",
+      "Name": "Gimbal Speedy Clam",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPEEDYCLAM_MAGMAFALLS",
+      "SetID": "1k0m0ab",
+      "Name": "Magma Falls Speedy Clam",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPEEDYCLAM_REJECTS",
+      "SetID": "1k0m0ab",
+      "Name": "Rejects Speedy Clam",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPEEDYCLAM_REVOLUTIONS",
+      "SetID": "1k0m0ab",
+      "Name": "Revolutions Speedy Clam",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPEEDYCLAM_SNAPJAWGROTTO",
+      "SetID": "1k0m0ab",
+      "Name": "Snapjaw Grotto Speedy Clam",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPEEDYCLAM_STEALTHYSEWERS",
+      "SetID": "1k0m0ab",
+      "Name": "Stealthy Sewers Speedy Clam",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPEEDYCLAM_WORKSHOP",
+      "SetID": "1k0m0ab",
+      "Name": "Workshop Speedy Clam",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPIRITEDVOICE",
+      "SetID": "1k0m0ab",
+      "Name": "A Spirited Voice",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "1k0m0ab",
@@ -37,8 +359,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-07T02:00:19.8030023+00:00",
-  "LastChanged_Achievements": "2023-08-07T23:03:25.0897294+00:00",
+  "LastChanged_Achievements": "2023-08-08T00:02:23.2553584+00:00",
   "LastUpdate_AppInfo": "2023-08-03T23:57:11.9980932+00:00",
-  "LastUpdate_Ratings": "2023-08-07T22:57:29.8482978+00:00",
-  "LastUpdate_Achievements": "2023-08-07T23:03:25.0897395+00:00"
+  "LastUpdate_Ratings": "2023-08-07T23:57:00.9141648+00:00",
+  "LastUpdate_Achievements": "2023-08-08T00:02:23.2956956+00:00"
 }

@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5275,
+  "EOS_Progressed": 5287,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2811,
+  "EOS_NewPlayers": 2790,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1147,6 +1147,11 @@
       "Time": "2023-08-07T23:06:32.2582977+00:00",
       "NumProgressed": 5275,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-08T00:05:49.9058873+00:00",
+      "NumProgressed": 5287,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -1159,7 +1164,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "10",
@@ -1199,7 +1204,7 @@
       "Name": "Doctor Approved",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 897
+      "UsersEstimate": 899
     },
     {
       "ID": "15",
@@ -1247,7 +1252,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "20",
@@ -1335,7 +1340,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 844
+      "UsersEstimate": 846
     },
     {
       "ID": "30",
@@ -1398,14 +1403,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 5275,
+      "Progressed": 5287,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-07T23:06:32.2582971+00:00",
+  "LastChanged_Achievements": "2023-08-08T00:05:49.9058865+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:06.3145817+00:00",
-  "LastUpdate_Ratings": "2023-08-07T23:00:32.0959121+00:00",
-  "LastUpdate_Achievements": "2023-08-07T23:06:32.2583261+00:00"
+  "LastUpdate_Ratings": "2023-08-07T23:59:59.7601451+00:00",
+  "LastUpdate_Achievements": "2023-08-08T00:05:49.9059182+00:00"
 }

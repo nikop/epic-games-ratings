@@ -6,8 +6,8 @@ Rating: 3.53 (Ranked 963)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 77.00% | ~1,334 |
+| Home Is Where the Heart Is | 61.00% | ~1,057 |
 | Ne Plus Ultra | 61.00% | ~1,057 |
-| Home Is Where the Heart Is | 60.00% | ~1,039 |
 | Wounded Whispers | 60.00% | ~1,039 |
 | Blood Will Have Blood | 51.00% | ~883 |
 | ICU | 47.00% | ~814 |

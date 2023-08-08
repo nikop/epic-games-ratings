@@ -34,13 +34,13 @@ Rating: 4.55 (Ranked 487)
 | Chopper’d Up | 2.00% | ~192 |
 | City Sleuth | 2.00% | ~192 |
 | Daredevil | 1.00% | ~96 |
-| Born in the 80’s | 0.90% | ~86 |
-| Keepie-Uppy Okie Dokie | 0.90% | ~86 |
-| I'm Famous! | 0.90% | ~86 |
+| Born in the 80’s | 0.90% | ~87 |
+| Keepie-Uppy Okie Dokie | 0.90% | ~87 |
+| I'm Famous! | 0.90% | ~87 |
 | Done it All | 0.80% | ~77 |
 | Kingpin | 0.50% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,611 (Ranked 123)  
+Progressed: 9,612 (Ranked 123)  
 Completed: 45 (0.47%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,6 +150,7 @@ Completed: 45 (0.47%) (Ranked 141)
 | 2023-08-05 | 9,582 | 44 |
 | 2023-08-06 | 9,599 | 44 |
 | 2023-08-07 | 9,611 | 45 |
+| 2023-08-08 | 9,612 | 45 |
 ## Awards
 Max (Great Boss Battles): 65  (Ranked 385)  
 Sum: 65 (Ranked 440)  

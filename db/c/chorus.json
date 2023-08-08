@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -280,9 +280,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 1120,
+  "EOS_Progressed": 1121,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
@@ -1640,6 +1640,11 @@
       "Time": "2023-08-07T21:06:57.6257066+00:00",
       "NumProgressed": 1120,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-08T00:05:07.2303371+00:00",
+      "NumProgressed": 1121,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 43,
@@ -1651,7 +1656,7 @@
       "Name": "Demigod",
       "Percentage": 75,
       "XP": 150,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "DieInPermadeath",
@@ -1675,7 +1680,7 @@
       "Name": "Helping Hand",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "FinishAllSideMissions",
@@ -1683,7 +1688,7 @@
       "Name": "Paragon",
       "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "GatlingVsArmor",
@@ -1707,7 +1712,7 @@
       "Name": "Born to Drift",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "KillWithALargeShip",
@@ -1715,7 +1720,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "MasteryOfCombat",
@@ -1795,7 +1800,7 @@
       "Name": "Full Arsenal",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "MissionEosReturn",
@@ -1835,7 +1840,7 @@
       "Name": "Safe Home",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -1851,7 +1856,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -1867,7 +1872,7 @@
       "Name": "Shields Down",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "MissionScavengingJob",
@@ -1875,7 +1880,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "MissionShipyard",
@@ -1883,7 +1888,7 @@
       "Name": "In the Eye of the Storm",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "MissionSlayingChimera",
@@ -1947,7 +1952,7 @@
       "Name": "Huntress",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "RiteOfTheStar",
@@ -1994,15 +1999,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1120,
+      "Progressed": 1121,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-08-07T23:05:49.3904737+00:00",
+  "LastChanged_Achievements": "2023-08-08T00:05:07.2303366+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:02.342624+00:00",
-  "LastUpdate_Ratings": "2023-08-07T23:01:32.5567297+00:00",
-  "LastUpdate_Achievements": "2023-08-07T23:05:49.3905163+00:00"
+  "LastUpdate_Ratings": "2023-08-08T00:00:59.6523997+00:00",
+  "LastUpdate_Achievements": "2023-08-08T00:05:07.2303831+00:00"
 }

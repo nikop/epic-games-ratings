@@ -15,7 +15,7 @@
 | Stay Hydrated | 66.00% | ~55 |
 | First Win | 64.00% | ~53 |
 | True Story! | 45.00% | ~37 |
-| Bedroom Secret Spot | 37.00% | ~31 |
+| Bedroom Secret Spot | 39.00% | ~32 |
 | Kick It | 31.00% | ~26 |
 | Spooky | 31.00% | ~26 |
 | Grand Slam! | 25.00% | ~21 |

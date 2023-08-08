@@ -9987,10 +9987,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 197853,
       "NumberOfAwardsMax": 75020
+    },
+    {
+      "Time": "2023-08-07T23:58:41.2886982+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 197866,
+      "NumberOfAwardsMax": 75020
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 197853,
+  "NumberOfAwards": 197866,
   "NumberOfAwardsMax": 75020,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10010,7 +10016,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 8770
+      "Count": 8783
     },
     {
       "Text": "This game is Relaxing",
@@ -10067,9 +10073,9 @@
       "Count": 5525
     }
   ],
-  "EOS_Progressed": 869778,
+  "EOS_Progressed": 869780,
   "EOS_Completed": 1948,
-  "EOS_NewPlayers": 1115,
+  "EOS_NewPlayers": 1113,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -22042,6 +22048,11 @@
       "Time": "2023-08-07T23:05:17.105974+00:00",
       "NumProgressed": 869778,
       "NumCompleted": 1948
+    },
+    {
+      "Time": "2023-08-08T00:04:34.3391149+00:00",
+      "NumProgressed": 869780,
+      "NumCompleted": 1948
     }
   ],
   "TotalAchievements": 44,
@@ -22069,7 +22080,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 139164
+      "UsersEstimate": 139165
     },
     {
       "ID": "Cyberjunkie",
@@ -22085,7 +22096,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 339213
+      "UsersEstimate": 339214
     },
     {
       "ID": "FollowingTheRiver",
@@ -22221,7 +22232,7 @@
       "Name": "Life of the Road",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 182653
+      "UsersEstimate": 182654
     },
     {
       "ID": "Roleplayer",
@@ -22269,7 +22280,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 591449
+      "UsersEstimate": 591450
     },
     {
       "ID": "TheHermit",
@@ -22285,7 +22296,7 @@
       "Name": "The High Priestess",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 191351
+      "UsersEstimate": 191352
     },
     {
       "ID": "TheLovers",
@@ -22293,7 +22304,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 304422
+      "UsersEstimate": 304423
     },
     {
       "ID": "TheStar",
@@ -22301,7 +22312,7 @@
       "Name": "The Star",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 60884
+      "UsersEstimate": 60885
     },
     {
       "ID": "TheSun",
@@ -22317,7 +22328,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 234840
+      "UsersEstimate": 234841
     },
     {
       "ID": "TheWorld",
@@ -22365,7 +22376,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 104373
+      "UsersEstimate": 104374
     },
     {
       "ID": "UnderPressure",
@@ -22397,22 +22408,22 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 191351
+      "UsersEstimate": 191352
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 869778,
+      "Progressed": 869780,
       "Completed": 1948
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-08-07T21:00:05.7350604+00:00",
-  "LastChanged_Achievements": "2023-08-07T23:05:17.1059735+00:00",
+  "LastChanged": "2023-08-07T23:58:41.2886981+00:00",
+  "LastChanged_Achievements": "2023-08-08T00:04:34.3391142+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:43.7604736+00:00",
-  "LastUpdate_Ratings": "2023-08-07T22:59:09.3464327+00:00",
-  "LastUpdate_Achievements": "2023-08-07T23:05:17.1060891+00:00"
+  "LastUpdate_Ratings": "2023-08-07T23:58:41.2886989+00:00",
+  "LastUpdate_Achievements": "2023-08-08T00:04:34.3392254+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -315,9 +315,9 @@
       "ID": "CgkIxYDzrbcPEAIQCw",
       "SetID": "4egpam7",
       "Name": "Target Practice",
-      "Percentage": 73,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDA",
@@ -339,9 +339,9 @@
       "ID": "CgkIxYDzrbcPEAIQDg",
       "SetID": "4egpam7",
       "Name": "Fireman",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDw",
@@ -482,8 +482,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-07T23:06:29.430204+00:00",
+  "LastChanged_Achievements": "2023-08-08T00:05:46.9924473+00:00",
   "LastUpdate_AppInfo": "2023-08-01T13:03:42.8439888+00:00",
-  "LastUpdate_Ratings": "2023-08-07T22:58:08.6886876+00:00",
-  "LastUpdate_Achievements": "2023-08-07T23:06:29.4302445+00:00"
+  "LastUpdate_Ratings": "2023-08-07T23:57:42.3330272+00:00",
+  "LastUpdate_Achievements": "2023-08-08T00:05:46.9924759+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3086,
+  "EOS_Progressed": 3087,
   "EOS_Completed": 142,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 4.6,
   "EosHistory": [
@@ -4150,6 +4150,11 @@
       "Time": "2023-08-07T18:06:00.0821317+00:00",
       "NumProgressed": 3086,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2023-08-08T00:06:39.8911588+00:00",
+      "NumProgressed": 3087,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 24,
@@ -4169,7 +4174,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "11",
@@ -4273,7 +4278,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "23",
@@ -4313,7 +4318,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "6",
@@ -4321,7 +4326,7 @@
       "Name": "PRO",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "7",
@@ -4337,7 +4342,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "9",
@@ -4352,13 +4357,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3086,
+      "Progressed": 3087,
       "Completed": 142
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-07T23:07:21.2559642+00:00",
+  "LastChanged_Achievements": "2023-08-08T00:06:39.8911582+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:54.7430332+00:00",
-  "LastUpdate_Ratings": "2023-08-07T23:00:19.9817028+00:00",
-  "LastUpdate_Achievements": "2023-08-07T23:07:21.2560634+00:00"
+  "LastUpdate_Ratings": "2023-08-07T23:59:47.7208136+00:00",
+  "LastUpdate_Achievements": "2023-08-08T00:06:39.891203+00:00"
 }

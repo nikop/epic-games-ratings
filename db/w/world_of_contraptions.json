@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248,
+  "EOS_Progressed": 249,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1026,6 +1026,11 @@
       "Time": "2023-08-07T11:04:23.6508307+00:00",
       "NumProgressed": 248,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-08T00:03:44.3551062+00:00",
+      "NumProgressed": 249,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1107,9 +1112,9 @@
       "ID": "GROUP_HARD_COMPLETED",
       "SetID": "aemieak",
       "Name": "Hard group",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GROUP_HARD_GOLD",
@@ -1269,21 +1274,21 @@
       "Name": "Starting to take notes",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     }
   ],
   "AchievementSets": [
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 248,
+      "Progressed": 249,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-08-07T23:04:26.9818626+00:00",
+  "LastChanged_Achievements": "2023-08-08T00:03:44.3551056+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:59.4605442+00:00",
-  "LastUpdate_Ratings": "2023-08-07T22:59:24.7810434+00:00",
-  "LastUpdate_Achievements": "2023-08-07T23:04:26.9818933+00:00"
+  "LastUpdate_Ratings": "2023-08-07T23:58:57.0697754+00:00",
+  "LastUpdate_Achievements": "2023-08-08T00:03:44.3551449+00:00"
 }

@@ -54,11 +54,11 @@ Rating: 4.08 (Ranked 907)
 | How Do You Turn This On? | 6.00% | ~107 |
 | Lock And Load | 6.00% | ~107 |
 | Missions Dedication | 6.00% | ~107 |
+| Background Story | 5.00% | ~89 |
 | Sailor | 5.00% | ~89 |
 | The Alchemist | 5.00% | ~89 |
 | Active Member | 4.00% | ~71 |
 | Arena Challenger | 4.00% | ~71 |
-| Background Story | 4.00% | ~71 |
 | Legendary | 4.00% | ~71 |
 | Ebony Jungle Liberator | 3.00% | ~53 |
 | What lies behind the bush | 3.00% | ~53 |
