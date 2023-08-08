@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -370,7 +370,7 @@
   ],
   "EOS_Progressed": 12675,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -6951,9 +6951,9 @@
       "ID": "ACH_04",
       "SetID": "9d4cf4c",
       "Name": "Protector\u0027s Duty",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 8746
+      "UsersEstimate": 8872
     },
     {
       "ID": "ACH_05",
@@ -7216,8 +7216,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-08-08T05:04:44.7974561+00:00",
+  "LastChanged_Achievements": "2023-08-08T06:04:03.0099839+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:22.662799+00:00",
-  "LastUpdate_Ratings": "2023-08-08T05:01:13.2355637+00:00",
-  "LastUpdate_Achievements": "2023-08-08T05:04:44.7975292+00:00"
+  "LastUpdate_Ratings": "2023-08-08T05:59:39.9169319+00:00",
+  "LastUpdate_Achievements": "2023-08-08T06:04:03.0100553+00:00"
 }

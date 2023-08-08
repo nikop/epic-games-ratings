@@ -5484,7 +5484,7 @@
   ],
   "EOS_Progressed": 134114,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 450,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17260,9 +17260,9 @@
       "ID": "level01",
       "SetID": "anfd17p",
       "Name": "Budding Merchant",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 671
     },
     {
       "ID": "level02",
@@ -17580,8 +17580,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-07T23:59:17.9121802+00:00",
-  "LastChanged_Achievements": "2023-08-08T05:05:30.272556+00:00",
+  "LastChanged_Achievements": "2023-08-08T06:04:34.4155068+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.2056858+00:00",
-  "LastUpdate_Ratings": "2023-08-08T05:00:04.6122953+00:00",
-  "LastUpdate_Achievements": "2023-08-08T05:05:30.2728184+00:00"
+  "LastUpdate_Ratings": "2023-08-08T05:58:57.0477987+00:00",
+  "LastUpdate_Achievements": "2023-08-08T06:04:34.4157445+00:00"
 }

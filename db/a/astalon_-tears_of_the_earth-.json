@@ -4,7 +4,7 @@
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 64,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.12,
   "EosHistory": [
@@ -354,8 +354,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-08-08T05:03:21.3072909+00:00",
+  "LastChanged_Achievements": "2023-08-08T06:03:04.6835223+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:12.5593359+00:00",
-  "LastUpdate_Ratings": "2023-08-08T04:59:54.8234086+00:00",
-  "LastUpdate_Achievements": "2023-08-08T05:03:21.3073132+00:00"
+  "LastUpdate_Ratings": "2023-08-08T05:58:50.6820172+00:00",
+  "LastUpdate_Achievements": "2023-08-08T06:03:04.6835498+00:00"
 }

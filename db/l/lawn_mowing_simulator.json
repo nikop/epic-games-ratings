@@ -2077,9 +2077,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 652046,
+  "EOS_Progressed": 652058,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 2884,
+  "EOS_NewPlayers": 2888,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14087,6 +14087,11 @@
       "Time": "2023-08-08T05:05:50.6730325+00:00",
       "NumProgressed": 652046,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-08T06:04:49.4343613+00:00",
+      "NumProgressed": 652058,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 54,
@@ -14098,7 +14103,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 521637
+      "UsersEstimate": 521646
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -14114,7 +14119,7 @@
       "Name": "Earn your stripes",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5868
+      "UsersEstimate": 5869
     },
     {
       "ID": "ALL_AMATEUR_CHALLENGES",
@@ -14186,7 +14191,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 234737
+      "UsersEstimate": 234741
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -14202,7 +14207,7 @@
       "Name": "Lawn \u0026 Order",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5868
+      "UsersEstimate": 5869
     },
     {
       "ID": "CONTRACT_SMALL_DECK",
@@ -14210,7 +14215,7 @@
       "Name": "Size isn\u0027t everything",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 19561
+      "UsersEstimate": 19562
     },
     {
       "ID": "CONTRACT_WITHIN_10SEC",
@@ -14218,7 +14223,7 @@
       "Name": "Close shave",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 19561
+      "UsersEstimate": 19562
     },
     {
       "ID": "DLC001_CHALLENGES",
@@ -14338,7 +14343,7 @@
       "Name": "The first of many",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 208655
+      "UsersEstimate": 208659
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -14386,7 +14391,7 @@
       "Name": "Jack of all trades",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5868
+      "UsersEstimate": 5869
     },
     {
       "ID": "OWN_ALL_ORIGINAL_MOWERS",
@@ -14402,7 +14407,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 97807
+      "UsersEstimate": 97809
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -14434,7 +14439,7 @@
       "Name": "The top of the mountain",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6520
+      "UsersEstimate": 6521
     },
     {
       "ID": "PURCHASE_SECOND_HQ",
@@ -14458,7 +14463,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 45643
+      "UsersEstimate": 45644
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -14474,7 +14479,7 @@
       "Name": "Established",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 19561
+      "UsersEstimate": 19562
     },
     {
       "ID": "RP_ESTEEMED",
@@ -14490,7 +14495,7 @@
       "Name": "Professional",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5868
+      "UsersEstimate": 5869
     },
     {
       "ID": "RP_RANK_UP",
@@ -14498,7 +14503,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 117368
+      "UsersEstimate": 117370
     },
     {
       "ID": "RP_TRUSTED",
@@ -14514,7 +14519,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 58684
+      "UsersEstimate": 58685
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -14529,15 +14534,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 652046,
+      "Progressed": 652058,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-08-04T22:58:57.6558149+00:00",
-  "LastChanged_Achievements": "2023-08-08T05:05:50.6730318+00:00",
+  "LastChanged_Achievements": "2023-08-08T06:04:49.4343607+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:48.374685+00:00",
-  "LastUpdate_Ratings": "2023-08-08T04:59:26.4853306+00:00",
-  "LastUpdate_Achievements": "2023-08-08T05:05:50.6731969+00:00"
+  "LastUpdate_Ratings": "2023-08-08T05:58:33.1408303+00:00",
+  "LastUpdate_Achievements": "2023-08-08T06:04:49.4344879+00:00"
 }

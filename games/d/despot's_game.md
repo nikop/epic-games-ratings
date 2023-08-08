@@ -30,7 +30,7 @@ Rating: 4.50 (Ranked 560)
 | Brain and Brawn | 11.00% | ~47 |
 | Strength and Sorcery | 10.00% | ~42 |
 | Omae Wa Mou Shindeiru | 8.00% | ~34 |
-| Experimentalist | 6.00% | ~25 |
+| Experimentalist | 7.00% | ~30 |
 | Wide Selection | 6.00% | ~25 |
 | Soldier | 6.00% | ~25 |
 | Android Power | 5.00% | ~21 |

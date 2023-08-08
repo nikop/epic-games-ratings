@@ -12,12 +12,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tinkle of Coins | 0.70% | ~939 |
 | Disintermediation | 0.50% | ~671 |
 | It's Free Real Estate | 0.50% | ~671 |
+| Budding Merchant | 0.50% | ~671 |
 | Capitalism Ho! | 0.50% | ~671 |
 | One Easy Payment | 0.40% | ~536 |
 | Some Assembly Required | 0.40% | ~536 |
 | Another Satisfied Customer | 0.40% | ~536 |
 | Pretty Penny | 0.40% | ~536 |
-| Budding Merchant | 0.40% | ~536 |
 | Own the Means of Production | 0.40% | ~536 |
 | The Daily Grind | 0.30% | ~402 |
 | Bounty Hunters | 0.30% | ~402 |

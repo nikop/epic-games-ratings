@@ -8,7 +8,7 @@ Rating: 4.73 (Ranked 160)
 | Under a New Sun | 92.00% | ~11,661 |
 | Newcomers | 78.00% | ~9,886 |
 | A Burden of Blood | 73.00% | ~9,253 |
-| Protector's Duty | 69.00% | ~8,746 |
+| Protector's Duty | 70.00% | ~8,872 |
 | Alchemist | 68.00% | ~8,619 |
 | In our Wake | 67.00% | ~8,492 |
 | Leaving all Behind | 64.00% | ~8,112 |

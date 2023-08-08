@@ -32,6 +32,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.70% | ~1,539 |
 | Unearthed Evil | 0.70% | ~1,539 |
 | The Mad Wizard | 0.70% | ~1,539 |
+| The Champion's Guide to Wildspace | 0.70% | ~1,303 |
 | Hatchlings Underfoot | 0.60% | ~1,319 |
 | Don't Look Up! | 0.60% | ~1,319 |
 | Heavy Burden | 0.60% | ~1,319 |
@@ -45,13 +46,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.60% | ~1,319 |
 | The Botched Kidnapping | 0.60% | ~1,319 |
 | The Ring of Regeneration | 0.60% | ~1,319 |
-| The Champion's Guide to Wildspace | 0.60% | ~1,116 |
 | Krux's Speed Run | 0.60% | ~1,116 |
 | Thieves of the Coven | 0.50% | ~930 |
 | Friends of the Forest | 0.50% | ~1,099 |
 | March of the Undead | 0.50% | ~1,099 |
 | Invisible Shadows | 0.50% | ~1,099 |
 | Family Entanglements | 0.50% | ~1,099 |
+| The Crumbling Temple | 0.50% | ~1,099 |
 | Seeking Allies | 0.50% | ~1,099 |
 | Friendly Imps | 0.50% | ~1,099 |
 | Pure Energy | 0.50% | ~1,099 |
@@ -64,6 +65,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Upholding the Law | 0.40% | ~879 |
 | Hither of the Feywild | 0.40% | ~744 |
 | The Prince of a Thousand Enemies | 0.40% | ~744 |
+| Downfall | 0.40% | ~744 |
 | Speeds of Destruction | 0.40% | ~744 |
 | Owlbear Necessities | 0.40% | ~744 |
 | On the Hunt | 0.40% | ~879 |
@@ -83,7 +85,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tower on the Lake | 0.40% | ~879 |
 | Trollskull Manor | 0.40% | ~879 |
 | Attack on the Manor | 0.40% | ~879 |
-| The Crumbling Temple | 0.40% | ~879 |
 | The Death Curse | 0.40% | ~879 |
 | Are Ya Chicken? | 0.40% | ~879 |
 | Useless Allies | 0.40% | ~879 |
@@ -110,7 +111,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cold as Ice | 0.30% | ~558 |
 | Nightmare Rats! | 0.30% | ~558 |
 | An Unexpected Geist | 0.30% | ~558 |
-| Downfall | 0.30% | ~558 |
 | Slack-jawed Lorna | 0.30% | ~558 |
 | The Fairy Rings of Thither | 0.30% | ~558 |
 | Will of the Feywild | 0.30% | ~558 |
@@ -220,6 +220,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Lament | 0.20% | ~440 |
 | A Saurial's Resolve | 0.20% | ~440 |
 | Nimblest Escape | 0.20% | ~440 |
+| From The Shadows | 0.20% | ~440 |
 | Spined Nuisances | 0.20% | ~440 |
 | Excavating History | 0.20% | ~440 |
 | Towering Expectations | 0.20% | ~440 |
@@ -349,7 +350,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shadowfell Stalwarts | 0.10% | ~186 |
 | Stumbling Escape | 0.10% | ~220 |
 | Distracted Escape | 0.10% | ~186 |
-| From The Shadows | 0.10% | ~220 |
 | Twilight Twist | 0.10% | ~186 |
 | Screams of the Dead | 0.10% | ~220 |
 | Frantic Excavation | 0.10% | ~220 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,800 (Ranked 52)  
+Progressed: 219,808 (Ranked 52)  
 Completed: 2,163 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,14 +629,14 @@ Completed: 2,163 (0.98%) (Ranked 114)
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
-| 2023-08-08 | 219,800 | 2,163 |
+| 2023-08-08 | 219,808 | 2,163 |
 ## Awards
-Max (Diverse Characters): 5,121  (Ranked 67)  
-Sum: 30,936 (Ranked 38)  
+Max (Diverse Characters): 5,125  (Ranked 67)  
+Sum: 30,940 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,121 |
+| This game has Diverse Characters | 5,125 |
 | This game is Great for Beginners | 5,072 |
 | This game has Quickly Understood Controls | 4,704 |
 | This game is Relaxing | 4,598 |
@@ -840,3 +840,4 @@ Diff (max vs sum): 29
 | 2023-08-05 | 4.05 | - | 5,119 | 30,910 |
 | 2023-08-06 | 4.06 | - | 5,121 | 30,921 |
 | 2023-08-07 | 4.06 | - | 5,121 | 30,936 |
+| 2023-08-08 | 4.06 | - | 5,125 | 30,940 |
