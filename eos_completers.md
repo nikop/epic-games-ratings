@@ -49,25 +49,25 @@
 | 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.82% |
 | 48 | [JARS](games/j/jars.md) | 4.76% |
 | 49 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
-| 50 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.68% |
-| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.63% |
-| 52 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
-| 53 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.22% |
-| 54 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.99% |
-| 55 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
-| 56 | [Without Escape](games/w/without_escape.md) | 3.70% |
-| 56 | [ZZT!](games/z/zzt!.md) | 3.70% |
-| 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
-| 59 | [Doodle God](games/d/doodle_god.md) | 3.48% |
-| 60 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
-| 61 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.35% |
-| 62 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
-| 63 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 64 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.12% |
-| 65 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.03% |
-| 66 | [The Complex](games/t/the_complex.md) | 3.02% |
-| 67 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
-| 68 | [Monster Harvest](games/m/monster_harvest.md) | 2.96% |
+| 50 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
+| 51 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.68% |
+| 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.63% |
+| 53 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
+| 54 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.22% |
+| 55 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.99% |
+| 56 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
+| 57 | [Without Escape](games/w/without_escape.md) | 3.70% |
+| 58 | [ZZT!](games/z/zzt!.md) | 3.69% |
+| 59 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
+| 60 | [Doodle God](games/d/doodle_god.md) | 3.48% |
+| 61 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
+| 62 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.35% |
+| 63 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
+| 64 | [HordeCore](games/h/hordecore.md) | 3.15% |
+| 65 | [The Complex](games/t/the_complex.md) | 3.02% |
+| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
+| 67 | [Monster Harvest](games/m/monster_harvest.md) | 2.96% |
+| 68 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.94% |
 | 69 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 70 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.87% |
 | 71 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
@@ -146,8 +146,8 @@
 | 143 | [Train Valley](games/t/train_valley.md) | 0.46% |
 | 145 | [Tchia](games/t/tchia.md) | 0.45% |
 | 145 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.45% |
-| 147 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.43% |
-| 147 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
+| 147 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.44% |
+| 148 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 149 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 150 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.39% |
 | 151 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
@@ -212,13 +212,13 @@
 | 210 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.06% |
 | 210 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
 | 210 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 210 | [Saints Row](games/s/saints_row.md) | 0.06% |
 | 210 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.06% |
 | 210 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 215 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
-| 215 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
-| 215 | [High On Life](games/h/high_on_life.md) | 0.05% |
-| 215 | [House Party](games/h/house_party.md) | 0.05% |
-| 215 | [Saints Row](games/s/saints_row.md) | 0.05% |
+| 216 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
+| 216 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
+| 216 | [High On Life](games/h/high_on_life.md) | 0.05% |
+| 216 | [House Party](games/h/house_party.md) | 0.05% |
 | 220 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
 | 220 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
 | 220 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
@@ -266,6 +266,7 @@
 | 251 | [Atari Mania](games/a/atari_mania.md) | 0.00% |
 | 251 | [ATOM RPG](games/a/atom_rpg.md) | 0.00% |
 | 251 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 0.00% |
+| 251 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 0.00% |
 | 251 | [Battle Ram](games/b/battle_ram.md) | 0.00% |
 | 251 | [Biped](games/b/biped.md) | 0.00% |
 | 251 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 0.00% |

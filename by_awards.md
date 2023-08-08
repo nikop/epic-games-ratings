@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,564,834 | 4.29 | 789 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 496,371 | 4.49 | 576 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 497,486 | 4.49 | 576 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 301,637 | 4.68 | 241 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 208,962 | 4.68 | 241 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 192,201 | 4.19 | 862 |
@@ -10,13 +10,13 @@
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 114,385 | 4.69 | 212 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 75,084 | 4.62 | 349 |
 | 10 | [VALORANT](games/v/valorant.md) | 63,988 | 4.53 | 513 |
-| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 59,810 | 4.58 | 426 |
+| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 59,842 | 4.58 | 426 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 42,605 | 4.61 | 366 |
-| 13 | [Destiny 2](games/d/destiny_2.md) | 36,213 | 4.49 | 576 |
+| 13 | [Destiny 2](games/d/destiny_2.md) | 36,237 | 4.49 | 576 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 35,718 | 4.74 | 147 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 30,836 | 4.52 | 527 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,758 | 4.65 | 298 |
-| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 21,597 | 4.77 | 108 |
+| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 21,619 | 4.77 | 108 |
 | 18 | [Dauntless](games/d/dauntless.md) | 21,208 | 4.53 | 513 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,170 | 4.57 | 448 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,471 | 4.89 | 12 |
@@ -139,7 +139,7 @@
 | 137 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,071 | 4.61 | 366 |
 | 138 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,057 | 4.66 | 272 |
 | 139 | [EVE Online](games/e/eve_online.md) | 1,056 | 4.25 | 819 |
-| 140 | [Saints Row](games/s/saints_row.md) | 1,052 | 3.78 | 956 |
+| 140 | [Saints Row](games/s/saints_row.md) | 1,053 | 3.78 | 956 |
 | 141 | [Ooblets](games/o/ooblets.md) | 1,019 | 4.88 | 18 |
 | 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,013 | 4.39 | 705 |
 | 143 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 836 |
@@ -231,10 +231,10 @@
 | 229 | [Tannenberg](games/t/tannenberg.md) | 328 | 4.39 | 705 |
 | 230 | [The Messenger](games/t/the_messenger.md) | 323 | 4.80 | 82 |
 | 231 | [Darkwood](games/d/darkwood.md) | 322 | 4.61 | 366 |
-| 232 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 319 | 4.72 | 171 |
-| 233 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 311 | 4.59 | 412 |
-| 234 | [House Flipper](games/h/house_flipper.md) | 305 | 4.69 | 212 |
-| 234 | [Train Valley 2](games/t/train_valley_2.md) | 305 | 4.37 | 725 |
+| 232 | [Train Valley 2](games/t/train_valley_2.md) | 321 | 4.37 | 725 |
+| 233 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 319 | 4.72 | 171 |
+| 234 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 311 | 4.59 | 412 |
+| 235 | [House Flipper](games/h/house_flipper.md) | 305 | 4.69 | 212 |
 | 236 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 330 |
 | 237 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 813 |
 | 238 | [Railway Empire](games/r/railway_empire.md) | 294 | 4.52 | 527 |

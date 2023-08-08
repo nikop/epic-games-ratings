@@ -108,7 +108,7 @@
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 930 | 147 |
 | 100 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 509 |
 | 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,622 | 51 |
-| 108 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,597 | 17 |
+| 108 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,619 | 17 |
 | 108 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 509 |
 | 108 | [Remnant 2](games/r/remnant_2.md) | 4.77 | 525 | 194 |
 | 108 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 37 | 430 |
@@ -180,7 +180,7 @@
 | 171 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 75 | 367 |
 | 171 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.72 | 123 | 312 |
 | 171 | [Slipways](games/s/slipways.md) | 4.72 | 0 | 509 |
-| 171 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 319 | 232 |
+| 171 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 319 | 233 |
 | 171 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 509 |
 | 171 | [Timberborn](games/t/timberborn.md) | 4.72 | 131 | 308 |
 | 171 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 509 |
@@ -220,7 +220,7 @@
 | 212 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.69 | 0 | 509 |
 | 212 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,700 | 70 |
 | 212 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.69 | 0 | 509 |
-| 212 | [House Flipper](games/h/house_flipper.md) | 4.69 | 305 | 234 |
+| 212 | [House Flipper](games/h/house_flipper.md) | 4.69 | 305 | 235 |
 | 212 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 509 |
 | 212 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,181 | 135 |
 | 212 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 509 |
@@ -420,13 +420,13 @@
 | 412 | [Operation: Tango](games/o/operation__tango.md) | 4.59 | 0 | 509 |
 | 412 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 367 |
 | 412 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.59 | 31 | 456 |
-| 412 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 311 | 233 |
+| 412 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 311 | 234 |
 | 412 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,005 | 144 |
 | 412 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 509 |
 | 412 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 706 | 165 |
 | 412 | [Wall World](games/w/wall_world.md) | 4.59 | 0 | 509 |
 | 426 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 509 |
-| 426 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 59,810 | 11 |
+| 426 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 59,842 | 11 |
 | 426 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 162 | 291 |
 | 426 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 509 |
 | 426 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,736 | 39 |
@@ -579,7 +579,7 @@
 | 576 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 509 |
 | 576 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 410 | 210 |
 | 576 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,985 | 109 |
-| 576 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 36,213 | 13 |
+| 576 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 36,237 | 13 |
 | 576 | [Duskers](games/d/duskers.md) | 4.49 | 0 | 509 |
 | 576 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 244 |
 | 576 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 0 | 509 |
@@ -587,7 +587,7 @@
 | 576 | [Maneater](games/m/maneater.md) | 4.49 | 13,615 | 26 |
 | 576 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 451 |
 | 576 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.49 | 0 | 509 |
-| 576 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 496,371 | 2 |
+| 576 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 497,486 | 2 |
 | 576 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 358 |
 | 576 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 509 |
 | 576 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 509 |
@@ -732,7 +732,7 @@
 | 725 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 51 | 399 |
 | 725 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 509 |
 | 725 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.37 | 109 | 324 |
-| 725 | [Train Valley 2](games/t/train_valley_2.md) | 4.37 | 305 | 234 |
+| 725 | [Train Valley 2](games/t/train_valley_2.md) | 4.37 | 321 | 232 |
 | 725 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 40 | 424 |
 | 725 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 451 |
 | 736 | [Core](games/c/core.md) | 4.36 | 746 | 161 |
@@ -955,7 +955,7 @@
 | 952 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 509 |
 | 954 | [Blood of Steel](games/b/blood_of_steel.md) | 3.81 | 0 | 509 |
 | 955 | [Poker Club](games/p/poker_club.md) | 3.80 | 31 | 456 |
-| 956 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,052 | 140 |
+| 956 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,053 | 140 |
 | 956 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 0 | 509 |
 | 956 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.78 | 69 | 377 |
 | 959 | [To The Rescue](games/t/to_the_rescue.md) | 3.77 | 0 | 509 |
