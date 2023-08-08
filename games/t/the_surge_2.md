@@ -5,15 +5,15 @@ Rating: 4.25 (Ranked 819)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,573 |
-| Don't I Know You...? | 77.00% | ~1,514 |
-| Jailbreak | 65.00% | ~1,278 |
+| Rigged And Ready | 80.00% | ~1,574 |
+| Don't I Know You...? | 77.00% | ~1,515 |
+| Jailbreak | 65.00% | ~1,279 |
 | HEADSHOT! | 38.00% | ~747 |
 | Suited and Booted | 38.00% | ~747 |
 | Sleeping With The Fishes | 35.00% | ~688 |
 | Overheated | 30.00% | ~590 |
 | High Performance | 30.00% | ~590 |
-| Powered Up | 28.00% | ~550 |
+| Powered Up | 28.00% | ~551 |
 | Studied The Blade | 24.00% | ~472 |
 | Home Invasion | 22.00% | ~433 |
 | Luminary | 22.00% | ~433 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 819)
 | Swiss Army Drone | 1.00% | ~20 |
 | The Easy Way Out | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,966 (Ranked 169)  
+Progressed: 1,967 (Ranked 169)  
 Completed: 10 (0.51%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,6 +154,7 @@ Completed: 10 (0.51%) (Ranked 138)
 | 2023-08-05 | 1,960 | 10 |
 | 2023-08-06 | 1,965 | 10 |
 | 2023-08-07 | 1,966 | 10 |
+| 2023-08-08 | 1,967 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

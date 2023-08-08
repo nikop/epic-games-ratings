@@ -11,10 +11,10 @@
 | Flying Tackle | 1.00% | ~4 |
 | An Ancient Feud | 0.80% | ~3 |
 | Folklore | 0.80% | ~3 |
+| Ocean Wings | 0.80% | ~3 |
 | They Can Change | 0.50% | ~2 |
 | The Heart of Moonglow | 0.50% | ~2 |
 | Aquatic Expansion | 0.50% | ~2 |
-| Ocean Wings | 0.50% | ~2 |
 | Wise and Floofy | 0.50% | ~2 |
 | Four-Legged Friends | 0.50% | ~2 |
 | Then Peel Me A Grape | 0.50% | ~2 |

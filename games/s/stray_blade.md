@@ -10,7 +10,7 @@
 | A new World ahead | 24.00% | ~10 |
 | Don't Cry Wolf | 19.00% | ~8 |
 | Can't touch this | 19.00% | ~8 |
-| Apprentice | 17.00% | ~7 |
+| Apprentice | 19.00% | ~8 |
 | Freezing Cold | 10.00% | ~4 |
 | The Power of the Mountains | 10.00% | ~4 |
 | Bringing guns to a sword fight | 7.00% | ~3 |

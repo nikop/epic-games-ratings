@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -307,9 +307,9 @@
       "ID": "CgkInO_K3eIdEAIQBw",
       "SetID": "6bj96in",
       "Name": "SCRIPTORIUM SNEAK",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CgkInO_K3eIdEAIQCA",
@@ -339,9 +339,9 @@
       "ID": "CgkInO_K3eIdEAIQCw",
       "SetID": "6bj96in",
       "Name": "MASTER CRAFTSMAN",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "CgkInO_K3eIdEAIQDA",
@@ -451,9 +451,9 @@
       "ID": "CgkInO_K3eIdEAIQGQ",
       "SetID": "6bj96in",
       "Name": "BLINDED BY THE LIGHT",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "CgkInO_K3eIdEAIQGg",
@@ -474,8 +474,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-08T01:59:35.9225713+00:00",
+  "LastChanged_Achievements": "2023-08-08T03:05:11.7897771+00:00",
   "LastUpdate_AppInfo": "2023-08-02T14:57:15.3975507+00:00",
-  "LastUpdate_Ratings": "2023-08-08T01:52:13.577799+00:00",
-  "LastUpdate_Achievements": "2023-08-08T01:59:35.9225907+00:00"
+  "LastUpdate_Ratings": "2023-08-08T02:57:32.4816191+00:00",
+  "LastUpdate_Achievements": "2023-08-08T03:05:11.7897956+00:00"
 }

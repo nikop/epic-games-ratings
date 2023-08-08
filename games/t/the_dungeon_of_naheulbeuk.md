@@ -6,17 +6,17 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~123,069 |
-| Where's that freaking Dwarf? | 47.00% | ~98,038 |
-| GG EZ | 28.00% | ~58,406 |
-| Speedrun | 26.00% | ~54,234 |
-| Déjà vu | 21.00% | ~43,804 |
-| Sock! SOCK! | 17.00% | ~35,461 |
-| DM intervention | 13.00% | ~27,117 |
-| Fireproof Wizardess | 10.00% | ~20,859 |
-| Livin' in a dwarven paradise | 8.00% | ~16,687 |
-| A beer, two curses, three companions | 8.00% | ~16,687 |
-| Way of the Wimp | 7.00% | ~14,601 |
+| Alt+F4 | 59.00% | ~123,078 |
+| Where's that freaking Dwarf? | 47.00% | ~98,045 |
+| GG EZ | 28.00% | ~58,410 |
+| Speedrun | 26.00% | ~54,238 |
+| Déjà vu | 21.00% | ~43,807 |
+| Sock! SOCK! | 17.00% | ~35,463 |
+| DM intervention | 13.00% | ~27,119 |
+| Fireproof Wizardess | 10.00% | ~20,861 |
+| Livin' in a dwarven paradise | 8.00% | ~16,689 |
+| A beer, two curses, three companions | 8.00% | ~16,689 |
+| Way of the Wimp | 7.00% | ~14,602 |
 | The plot thickens... At the tavern | 5.00% | ~10,430 |
 | Shiny and Crôm | 4.00% | ~8,344 |
 | The Woman in the High Castle | 4.00% | ~8,344 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,592 (Ranked 55)  
+Progressed: 208,607 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-05 | 207,138 | 0 |
 | 2023-08-06 | 207,966 | 0 |
 | 2023-08-07 | 208,534 | 0 |
-| 2023-08-08 | 208,592 | 0 |
+| 2023-08-08 | 208,607 | 0 |
 ## Awards
 Max (Character Customization): 156  (Ranked 294)  
 Sum: 156 (Ranked 392)  

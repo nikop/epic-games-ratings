@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1064,9 +1064,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15827,
+  "EOS_Progressed": 15828,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -6309,6 +6309,11 @@
       "Time": "2023-08-07T22:03:49.9624663+00:00",
       "NumProgressed": 15827,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-08-08T03:04:01.8288303+00:00",
+      "NumProgressed": 15828,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 47,
@@ -6462,9 +6467,9 @@
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 475
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -6695,13 +6700,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15827,
+      "Progressed": 15828,
       "Completed": 72
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3753,
+      "Progressed": 3754,
       "Completed": 29
     }
   ],
@@ -6709,8 +6714,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-08-06T22:58:59.3849893+00:00",
-  "LastChanged_Achievements": "2023-08-08T01:58:26.5100989+00:00",
+  "LastChanged_Achievements": "2023-08-08T03:04:01.8288291+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:48.8250875+00:00",
-  "LastUpdate_Ratings": "2023-08-08T01:53:33.4146582+00:00",
-  "LastUpdate_Achievements": "2023-08-08T01:58:26.5101646+00:00"
+  "LastUpdate_Ratings": "2023-08-08T02:58:54.065382+00:00",
+  "LastUpdate_Achievements": "2023-08-08T03:04:01.8289057+00:00"
 }

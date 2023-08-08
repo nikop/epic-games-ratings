@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -7944,9 +7944,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 82088,
+  "EOS_Progressed": 82104,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5480,
+  "EOS_NewPlayers": 5488,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19994,6 +19994,11 @@
       "Time": "2023-08-08T02:01:58.9284601+00:00",
       "NumProgressed": 82088,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-08T03:07:36.4234057+00:00",
+      "NumProgressed": 82104,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -20093,7 +20098,7 @@
       "Name": "Absolutely",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "achievement_abu_bakr_IIs_ambition",
@@ -20445,7 +20450,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4925
+      "UsersEstimate": 4926
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -20701,7 +20706,7 @@
       "Name": "Early-Modern Warfare",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "achievement_eat_your_greens",
@@ -20837,7 +20842,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4104
+      "UsersEstimate": 4105
     },
     {
       "ID": "achievement_forever_golden",
@@ -21003,9 +21008,9 @@
       "ID": "achievement_grand_army",
       "SetID": "8p2n7he",
       "Name": "That\u0027s a Grand Army",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5746
+      "UsersEstimate": 6568
     },
     {
       "ID": "achievement_grand_coalition",
@@ -21013,7 +21018,7 @@
       "Name": "Grand Coalition",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "achievement_grand_duchy",
@@ -21029,7 +21034,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4925
+      "UsersEstimate": 4926
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -21437,7 +21442,7 @@
       "Name": "Live Long and Prosper",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "achievement_luck_of_the_irish",
@@ -21973,7 +21978,7 @@
       "Name": "Ruina Imperii",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "achievement_sailor_mon",
@@ -22005,7 +22010,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4925
+      "UsersEstimate": 4926
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -22285,7 +22290,7 @@
       "Name": "That is mine!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 5746
+      "UsersEstimate": 5747
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -22493,7 +22498,7 @@
       "Name": "This is My Faith",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "achievement_this_is_persia",
@@ -22589,7 +22594,7 @@
       "Name": "Trophy Hunter",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "achievement_true_catholic",
@@ -22669,7 +22674,7 @@
       "Name": "Until death do us apart",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 6567
+      "UsersEstimate": 6568
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -22701,7 +22706,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 6567
+      "UsersEstimate": 6568
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -22725,7 +22730,7 @@
       "Name": "Voting Streak",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "achievement_we_bled_for_this",
@@ -22836,21 +22841,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 82088,
+      "Progressed": 82104,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 82088,
+      "Progressed": 82104,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-08-07T22:58:35.1819172+00:00",
-  "LastChanged_Achievements": "2023-08-08T02:01:58.9284595+00:00",
+  "LastChanged_Achievements": "2023-08-08T03:07:36.4234047+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:45.9662918+00:00",
-  "LastUpdate_Ratings": "2023-08-08T01:52:53.0266812+00:00",
-  "LastUpdate_Achievements": "2023-08-08T02:01:58.929763+00:00"
+  "LastUpdate_Ratings": "2023-08-08T02:58:13.8116649+00:00",
+  "LastUpdate_Achievements": "2023-08-08T03:07:36.4247917+00:00"
 }

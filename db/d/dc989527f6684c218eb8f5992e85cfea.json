@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9145,
+  "EOS_Progressed": 9147,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 531,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5701,6 +5701,11 @@
       "Time": "2023-08-08T01:58:15.020715+00:00",
       "NumProgressed": 9145,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-08T03:03:50.452566+00:00",
+      "NumProgressed": 9147,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -5712,7 +5717,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -5784,7 +5789,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4024
+      "UsersEstimate": 4025
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -5911,14 +5916,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 9145,
+      "Progressed": 9147,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-08-08T01:58:15.0207145+00:00",
+  "LastChanged_Achievements": "2023-08-08T03:03:50.4525655+00:00",
   "LastUpdate_AppInfo": "2023-08-04T19:57:09.7328186+00:00",
-  "LastUpdate_Ratings": "2023-08-08T01:52:12.7148804+00:00",
-  "LastUpdate_Achievements": "2023-08-08T01:58:15.020765+00:00"
+  "LastUpdate_Ratings": "2023-08-08T02:57:31.5970755+00:00",
+  "LastUpdate_Achievements": "2023-08-08T03:03:50.4526242+00:00"
 }

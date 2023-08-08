@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -384,9 +384,9 @@
       "Count": 77
     }
   ],
-  "EOS_Progressed": 241050,
+  "EOS_Progressed": 241051,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1066,
+  "EOS_NewPlayers": 1065,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12339,6 +12339,11 @@
       "Time": "2023-08-08T01:57:21.1063033+00:00",
       "NumProgressed": 241050,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-08T03:03:16.3231728+00:00",
+      "NumProgressed": 241051,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -12358,7 +12363,7 @@
       "Name": "A muscle to rely on",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "ACH_ATRUEBLACKSMITHS",
@@ -12382,7 +12387,7 @@
       "Name": "Catnip",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "ACH_COLLECTOR",
@@ -12430,7 +12435,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21694
+      "UsersEstimate": 21695
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -12438,7 +12443,7 @@
       "Name": "I am in great pain, please help me",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "ACH_HIGHGROUND",
@@ -12454,7 +12459,7 @@
       "Name": "High noon",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "ACH_HMMSHINY",
@@ -12462,7 +12467,7 @@
       "Name": "Random encounter",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "ACH_ILIKETOSNIFF",
@@ -12574,7 +12579,7 @@
       "Name": "SysOp on duty",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "ACH_LETSLISTENER",
@@ -12582,7 +12587,7 @@
       "Name": "Good listener",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 12052
+      "UsersEstimate": 12053
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
@@ -12670,7 +12675,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 60262
+      "UsersEstimate": 60263
     },
     {
       "ID": "ACH_SOREAD",
@@ -12686,7 +12691,7 @@
       "Name": "Take the blue pill",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "ACH_TAKEREDPILL",
@@ -12702,7 +12707,7 @@
       "Name": "The power of three",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "ACH_THISWAY",
@@ -12734,7 +12739,7 @@
       "Name": "Valedictorian",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 12052
+      "UsersEstimate": 12053
     },
     {
       "ID": "ACH_WAKEUP",
@@ -12765,7 +12770,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 241050,
+      "Progressed": 241051,
       "Completed": 7
     }
   ],
@@ -12773,8 +12778,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-08-06T06:59:31.6734433+00:00",
-  "LastChanged_Achievements": "2023-08-08T01:57:21.1063027+00:00",
+  "LastChanged_Achievements": "2023-08-08T03:03:16.323172+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:45.3941275+00:00",
-  "LastUpdate_Ratings": "2023-08-08T01:53:30.1573492+00:00",
-  "LastUpdate_Achievements": "2023-08-08T01:57:21.1064156+00:00"
+  "LastUpdate_Ratings": "2023-08-08T02:58:51.3795903+00:00",
+  "LastUpdate_Achievements": "2023-08-08T03:03:16.3232984+00:00"
 }

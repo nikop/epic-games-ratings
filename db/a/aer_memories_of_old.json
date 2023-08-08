@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17291,
+  "EOS_Progressed": 17292,
   "EOS_Completed": 355,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 588,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 2.05,
   "EosHistory": [
@@ -11949,6 +11949,11 @@
       "Time": "2023-08-08T01:59:52.8658507+00:00",
       "NumProgressed": 17291,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2023-08-08T03:05:28.8266104+00:00",
+      "NumProgressed": 17292,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 20,
@@ -11960,7 +11965,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2939
+      "UsersEstimate": 2940
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -11968,7 +11973,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "EAST_FINISHED",
@@ -12040,7 +12045,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "FOUND_MAMBA",
@@ -12048,7 +12053,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -12064,7 +12069,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "GAME_FINISHED",
@@ -12080,7 +12085,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 13141
+      "UsersEstimate": 13142
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -12088,7 +12093,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4841
+      "UsersEstimate": 4842
     },
     {
       "ID": "NORTH_FINISHED",
@@ -12119,15 +12124,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 17291,
+      "Progressed": 17292,
       "Completed": 355
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-08-08T01:59:52.8658501+00:00",
+  "LastChanged_Achievements": "2023-08-08T03:05:28.8266097+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:05.7530633+00:00",
-  "LastUpdate_Ratings": "2023-08-08T01:55:45.7456102+00:00",
-  "LastUpdate_Achievements": "2023-08-08T01:59:52.865931+00:00"
+  "LastUpdate_Ratings": "2023-08-08T03:01:11.1093321+00:00",
+  "LastUpdate_Achievements": "2023-08-08T03:05:28.8267001+00:00"
 }

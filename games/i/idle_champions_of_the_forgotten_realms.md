@@ -8,12 +8,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~8,791 |
 | Beast Intentions | 3.00% | ~6,593 |
-| Maddening | 2.00% | ~4,395 |
+| Maddening | 2.00% | ~4,396 |
 | The Silken Swamp | 1.00% | ~2,198 |
 | Supply Run | 1.00% | ~2,198 |
-| Vecna Lives! | 1.00% | ~1,860 |
-| Rocky Reception | 1.00% | ~1,860 |
-| Rock and Roll | 1.00% | ~1,860 |
+| Vecna Lives! | 1.00% | ~1,861 |
+| Rocky Reception | 1.00% | ~1,861 |
+| Rock and Roll | 1.00% | ~1,861 |
 | Vecna Loots! | 0.90% | ~1,674 |
 | Flight of the Kindori Pod | 0.90% | ~1,674 |
 | Tall Tales | 0.80% | ~1,488 |
@@ -108,6 +108,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Starving in the Jungle | 0.30% | ~659 |
 | Cold as Ice | 0.30% | ~558 |
 | Nightmare Rats! | 0.30% | ~558 |
+| An Unexpected Geist | 0.30% | ~558 |
 | Downfall | 0.30% | ~558 |
 | Slack-jawed Lorna | 0.30% | ~558 |
 | The Fairy Rings of Thither | 0.30% | ~558 |
@@ -176,7 +177,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Willing to Sacrifice | 0.30% | ~558 |
 | Tiny Treaty | 0.30% | ~558 |
 | Friends and Foes | 0.20% | ~372 |
-| An Unexpected Geist | 0.20% | ~372 |
 | Back to Nature | 0.20% | ~372 |
 | A Monarch Among Us | 0.20% | ~372 |
 | A Dragon Against Us | 0.20% | ~372 |
@@ -217,6 +217,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Our Time To Shine | 0.20% | ~440 |
 | The Guardian of Orolunga | 0.20% | ~440 |
 | The Lost Love | 0.20% | ~440 |
+| A Saurial's Lament | 0.20% | ~440 |
 | A Saurial's Resolve | 0.20% | ~440 |
 | Nimblest Escape | 0.20% | ~440 |
 | Spined Nuisances | 0.20% | ~440 |
@@ -339,7 +340,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Think Your Way Out Of It | 0.10% | ~220 |
 | Air's Getting Pretty Thin | 0.10% | ~220 |
 | Red Wizard 'Escort' | 0.10% | ~186 |
-| A Saurial's Lament | 0.10% | ~220 |
 | Spirit of the Trickster Gods | 0.10% | ~186 |
 | The Killer Mists | 0.10% | ~220 |
 | Class Vacation | 0.10% | ~220 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,770 (Ranked 52)  
-Completed: 2,162 (0.98%) (Ranked 114)  
+Progressed: 219,777 (Ranked 52)  
+Completed: 2,163 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -629,7 +629,7 @@ Completed: 2,162 (0.98%) (Ranked 114)
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
-| 2023-08-08 | 219,770 | 2,162 |
+| 2023-08-08 | 219,777 | 2,163 |
 ## Awards
 Max (Diverse Characters): 5,121  (Ranked 67)  
 Sum: 30,936 (Ranked 38)  
