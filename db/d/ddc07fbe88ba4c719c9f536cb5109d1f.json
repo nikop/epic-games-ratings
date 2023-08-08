@@ -4,8 +4,8 @@
   "ProductSlug": "the-mystery-of-woolley-mountaain-6a1960",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-26T00:00:00+00:00",
     "PcReleaseDate": "2019-04-09T23:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-06T13:12:11.2765526+00:00",
-  "LastChanged_Achievements": "2023-08-08T00:04:42.2815926+00:00",
+  "LastChanged_Achievements": "2023-08-08T01:59:33.1837479+00:00",
   "LastUpdate_AppInfo": "2023-08-04T13:02:01.1324737+00:00",
-  "LastUpdate_Ratings": "2023-08-07T23:57:45.0426945+00:00",
-  "LastUpdate_Achievements": "2023-08-08T00:04:42.2815973+00:00"
+  "LastUpdate_Ratings": "2023-08-08T01:52:29.150294+00:00",
+  "LastUpdate_Achievements": "2023-08-08T01:59:33.1837512+00:00"
 }

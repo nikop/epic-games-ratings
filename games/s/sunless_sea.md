@@ -6,23 +6,23 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~12,642 |
-| Sweet Sorrow | 18.00% | ~6,321 |
-| Rules the Waves | 17.00% | ~5,970 |
+| Sink Beneath the Waves | 36.00% | ~12,644 |
+| Sweet Sorrow | 18.00% | ~6,322 |
+| Rules the Waves | 17.00% | ~5,971 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,268 |
-| Rival | 14.00% | ~4,916 |
-| Correspondent | 12.00% | ~4,214 |
-| Lose Your Mind | 12.00% | ~4,214 |
-| Sound Mind? | 12.00% | ~4,214 |
-| Salt's Curse | 11.00% | ~3,863 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,863 |
-| The Fall of the House | 11.00% | ~3,863 |
-| Shipmate | 11.00% | ~3,863 |
-| One Year at Zee | 8.00% | ~2,809 |
-| Pupil | 7.00% | ~2,458 |
-| Salvager | 7.00% | ~2,458 |
-| Open Your Ears | 7.00% | ~2,458 |
-| The Ascent of Man | 7.00% | ~2,458 |
+| Rival | 14.00% | ~4,917 |
+| Correspondent | 12.00% | ~4,215 |
+| Lose Your Mind | 12.00% | ~4,215 |
+| Sound Mind? | 12.00% | ~4,215 |
+| Salt's Curse | 11.00% | ~3,864 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,864 |
+| The Fall of the House | 11.00% | ~3,864 |
+| Shipmate | 11.00% | ~3,864 |
+| One Year at Zee | 8.00% | ~2,810 |
+| Pupil | 7.00% | ~2,459 |
+| Salvager | 7.00% | ~2,459 |
+| Open Your Ears | 7.00% | ~2,459 |
+| The Ascent of Man | 7.00% | ~2,459 |
 | Zee Fever | 5.00% | ~1,756 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,405 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,405 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~35 |
 | Ten Years at Zee | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,117 (Ranked 95)  
+Progressed: 35,123 (Ranked 95)  
 Completed: 3 (0.01%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 3 (0.01%) (Ranked 237)
 | 2023-08-05 | 34,969 | 3 |
 | 2023-08-06 | 35,049 | 3 |
 | 2023-08-07 | 35,116 | 3 |
-| 2023-08-08 | 35,117 | 3 |
+| 2023-08-08 | 35,123 | 3 |
 ## Awards
 Max (Character Customization): 213  (Ranked 269)  
 Sum: 283 (Ranked 341)  

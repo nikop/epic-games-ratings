@@ -23,10 +23,10 @@ Number of Ratings: 111  (23.09.2022)
 | Fashionista | 6.00% | ~162 |
 | Finally he zips it | 6.00% | ~162 |
 | Fulfilled the dream | 6.00% | ~162 |
+| G'Day Mate! | 6.00% | ~162 |
 | Sup widdit big dog! | 6.00% | ~162 |
 | Tight lipslides | 6.00% | ~162 |
 | Commence the Hijinx! | 5.00% | ~135 |
-| G'Day Mate! | 5.00% | ~135 |
 | Globetrotter | 5.00% | ~135 |
 | Laid back | 5.00% | ~135 |
 | NAHELL! | 5.00% | ~135 |

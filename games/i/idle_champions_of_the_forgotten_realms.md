@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,790 |
-| Beast Intentions | 3.00% | ~6,592 |
+| A Brief Tour of the Realms | 4.00% | ~8,791 |
+| Beast Intentions | 3.00% | ~6,593 |
 | Maddening | 2.00% | ~4,395 |
-| The Silken Swamp | 1.00% | ~2,197 |
-| Supply Run | 1.00% | ~2,197 |
+| The Silken Swamp | 1.00% | ~2,198 |
+| Supply Run | 1.00% | ~2,198 |
 | Vecna Lives! | 1.00% | ~1,860 |
 | Rocky Reception | 1.00% | ~1,860 |
 | Rock and Roll | 1.00% | ~1,860 |
@@ -32,23 +32,23 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.70% | ~1,538 |
 | The Mad Wizard | 0.70% | ~1,538 |
 | The Witchlight Carnival | 0.60% | ~1,116 |
-| Hatchlings Underfoot | 0.60% | ~1,318 |
-| Don't Look Up! | 0.60% | ~1,318 |
-| Heavy Burden | 0.60% | ~1,318 |
+| Hatchlings Underfoot | 0.60% | ~1,319 |
+| Don't Look Up! | 0.60% | ~1,319 |
+| Heavy Burden | 0.60% | ~1,319 |
 | The Evacuation of Waterdeep | 0.60% | ~1,116 |
 | The Dread Domain of Tovag | 0.60% | ~1,116 |
-| Beast Mode | 0.60% | ~1,318 |
-| Low Initiative | 0.60% | ~1,318 |
-| No Time To Rest | 0.60% | ~1,318 |
-| The Mists of Ravenloft | 0.60% | ~1,318 |
-| The Dinner Party | 0.60% | ~1,318 |
-| The Botched Kidnapping | 0.60% | ~1,318 |
-| The Ring of Regeneration | 0.60% | ~1,318 |
+| Beast Mode | 0.60% | ~1,319 |
+| Low Initiative | 0.60% | ~1,319 |
+| Street War | 0.60% | ~1,319 |
+| No Time To Rest | 0.60% | ~1,319 |
+| The Mists of Ravenloft | 0.60% | ~1,319 |
+| The Dinner Party | 0.60% | ~1,319 |
+| The Botched Kidnapping | 0.60% | ~1,319 |
+| The Ring of Regeneration | 0.60% | ~1,319 |
 | The Champion's Guide to Wildspace | 0.60% | ~1,116 |
 | Krux's Speed Run | 0.60% | ~1,116 |
 | Thieves of the Coven | 0.50% | ~930 |
 | Friends of the Forest | 0.50% | ~1,099 |
-| Street War | 0.50% | ~1,099 |
 | March of the Undead | 0.50% | ~1,099 |
 | Invisible Shadows | 0.50% | ~1,099 |
 | Family Entanglements | 0.50% | ~1,099 |
@@ -143,6 +143,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Deceit | 0.30% | ~659 |
 | Treasure Hunters | 0.30% | ~659 |
 | Flies on the Wall | 0.30% | ~659 |
+| Backtracking Through Barovia | 0.30% | ~659 |
 | Nimble Escape | 0.30% | ~659 |
 | Fugitives | 0.30% | ~659 |
 | Premature Betrayal | 0.30% | ~659 |
@@ -197,42 +198,41 @@ Number of Ratings: 9,041  (23.09.2022)
 | Weak Doesn't Mean Feeble | 0.20% | ~372 |
 | Frail Doesn't Mean Broken | 0.20% | ~372 |
 | Clowning Around | 0.20% | ~372 |
-| Anti-Dexterous Explorers | 0.20% | ~439 |
-| Struggling Toward Omu | 0.20% | ~439 |
-| Not Very Charming | 0.20% | ~439 |
-| Periodic Petrification | 0.20% | ~439 |
-| Double Vision | 0.20% | ~439 |
+| Anti-Dexterous Explorers | 0.20% | ~440 |
+| Struggling Toward Omu | 0.20% | ~440 |
+| Not Very Charming | 0.20% | ~440 |
+| Periodic Petrification | 0.20% | ~440 |
+| Double Vision | 0.20% | ~440 |
 | Snakes on our Plane | 0.20% | ~372 |
-| Haunted Fortunes | 0.20% | ~439 |
-| Poor Fortune | 0.20% | ~439 |
-| Relentless Misfortune | 0.20% | ~439 |
+| Haunted Fortunes | 0.20% | ~440 |
+| Poor Fortune | 0.20% | ~440 |
+| Relentless Misfortune | 0.20% | ~440 |
 | Thine Bounty is Mine! | 0.20% | ~372 |
 | This Quest Stinks! | 0.20% | ~372 |
-| Hold for the Red Wizards | 0.20% | ~439 |
-| The Gargoyle's Apprentice | 0.20% | ~439 |
-| House of Darkness | 0.20% | ~439 |
+| Hold for the Red Wizards | 0.20% | ~440 |
+| The Gargoyle's Apprentice | 0.20% | ~440 |
+| House of Darkness | 0.20% | ~440 |
 | Home Not So Alone | 0.20% | ~372 |
-| The Trepidatious Trio | 0.20% | ~439 |
-| Our Time To Shine | 0.20% | ~439 |
-| The Guardian of Orolunga | 0.20% | ~439 |
-| The Lost Love | 0.20% | ~439 |
-| A Saurial's Resolve | 0.20% | ~439 |
-| Backtracking Through Barovia | 0.20% | ~439 |
-| Nimblest Escape | 0.20% | ~439 |
-| Spined Nuisances | 0.20% | ~439 |
-| Excavating History | 0.20% | ~439 |
-| Towering Expectations | 0.20% | ~439 |
-| Cramped Quarters | 0.20% | ~439 |
-| Who Lurks in Lurkwood | 0.20% | ~439 |
-| A Tale of Two Fiends | 0.20% | ~439 |
-| Slow and Steady | 0.20% | ~439 |
-| A Hero's Entourage | 0.20% | ~439 |
-| Patience is Key | 0.20% | ~439 |
-| Troublesome Prisoner | 0.20% | ~439 |
-| Dark Doppelgangers | 0.20% | ~439 |
-| Champions of Waterdeep | 0.20% | ~439 |
-| Once More Into The Breach | 0.20% | ~439 |
-| Wyllowwood | 0.20% | ~439 |
+| The Trepidatious Trio | 0.20% | ~440 |
+| Our Time To Shine | 0.20% | ~440 |
+| The Guardian of Orolunga | 0.20% | ~440 |
+| The Lost Love | 0.20% | ~440 |
+| A Saurial's Resolve | 0.20% | ~440 |
+| Nimblest Escape | 0.20% | ~440 |
+| Spined Nuisances | 0.20% | ~440 |
+| Excavating History | 0.20% | ~440 |
+| Towering Expectations | 0.20% | ~440 |
+| Cramped Quarters | 0.20% | ~440 |
+| Who Lurks in Lurkwood | 0.20% | ~440 |
+| A Tale of Two Fiends | 0.20% | ~440 |
+| Slow and Steady | 0.20% | ~440 |
+| A Hero's Entourage | 0.20% | ~440 |
+| Patience is Key | 0.20% | ~440 |
+| Troublesome Prisoner | 0.20% | ~440 |
+| Dark Doppelgangers | 0.20% | ~440 |
+| Champions of Waterdeep | 0.20% | ~440 |
+| Once More Into The Breach | 0.20% | ~440 |
+| Wyllowwood | 0.20% | ~440 |
 | An Illithid Undertaking | 0.20% | ~372 |
 | Déjà Vu | 0.20% | ~372 |
 | The Path of Dreams | 0.20% | ~372 |
@@ -258,9 +258,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ending the Rime - Part 2 | 0.20% | ~372 |
 | Reghed Glacier Mysteries | 0.20% | ~372 |
 | Tekeli-li's Hunt | 0.20% | ~372 |
-| The Haunted Jungle | 0.20% | ~439 |
-| Poor Guidance | 0.20% | ~439 |
-| Overwhelming Force | 0.20% | ~439 |
+| The Haunted Jungle | 0.20% | ~440 |
+| Poor Guidance | 0.20% | ~440 |
+| Overwhelming Force | 0.20% | ~440 |
 | All The World's A Stage | 0.20% | ~372 |
 | Keep Your Friends Close | 0.10% | ~186 |
 | And Your Enemies Closer | 0.10% | ~186 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,741 (Ranked 52)  
+Progressed: 219,770 (Ranked 52)  
 Completed: 2,162 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 2,162 (0.98%) (Ranked 114)
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
-| 2023-08-08 | 219,741 | 2,162 |
+| 2023-08-08 | 219,770 | 2,162 |
 ## Awards
 Max (Diverse Characters): 5,121  (Ranked 67)  
 Sum: 30,936 (Ranked 38)  

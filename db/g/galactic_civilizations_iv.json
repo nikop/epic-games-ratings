@@ -2,20 +2,20 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 873,
+  "Ranking_Rating": 868,
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.17,
+  "Rating": 4.18,
   "NumberOfRatings": 429,
   "RatingHistory": [
     {
@@ -778,10 +778,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 671,
       "NumberOfAwardsMax": 92
+    },
+    {
+      "Time": "2023-08-08T01:53:00.2512444+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 672,
+      "NumberOfAwardsMax": 92
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 671,
+  "NumberOfAwards": 672,
   "NumberOfAwardsMax": 92,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -843,7 +849,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 27
+      "Count": 28
     }
   ],
   "EOS_Progressed": 6318,
@@ -5403,9 +5409,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
-  "LastChanged": "2023-08-05T01:48:33.3979759+00:00",
-  "LastChanged_Achievements": "2023-08-08T00:02:19.4990944+00:00",
+  "LastChanged": "2023-08-08T01:53:00.2512441+00:00",
+  "LastChanged_Achievements": "2023-08-08T01:57:23.3097026+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:50.5738346+00:00",
-  "LastUpdate_Ratings": "2023-08-07T23:58:15.4396725+00:00",
-  "LastUpdate_Achievements": "2023-08-08T00:02:19.499197+00:00"
+  "LastUpdate_Ratings": "2023-08-08T01:53:00.251245+00:00",
+  "LastUpdate_Achievements": "2023-08-08T01:57:23.3097979+00:00"
 }

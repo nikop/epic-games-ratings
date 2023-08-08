@@ -3,7 +3,7 @@
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 575,
-  "Ranking_Popularity": 253,
+  "Ranking_Popularity": 252,
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 176,
@@ -1624,11 +1624,17 @@
       "Rating": 4.49,
       "NumberOfAwards": 2214,
       "NumberOfAwardsMax": 246
+    },
+    {
+      "Time": "2023-08-08T01:54:40.4461915+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2215,
+      "NumberOfAwardsMax": 247
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2214,
-  "NumberOfAwardsMax": 246,
+  "NumberOfAwards": 2215,
+  "NumberOfAwardsMax": 247,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -1653,7 +1659,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 246
+      "Count": 247
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1704,7 +1710,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24880,
+  "EOS_Progressed": 24881,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 1,
@@ -9819,6 +9825,11 @@
       "Time": "2023-08-08T00:02:21.6340174+00:00",
       "NumProgressed": 24880,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-08-08T01:57:24.9905332+00:00",
+      "NumProgressed": 24881,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 51,
@@ -9830,7 +9841,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18162
+      "UsersEstimate": 18163
     },
     {
       "ID": "Animated",
@@ -9886,7 +9897,7 @@
       "Name": "Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5722
+      "UsersEstimate": 5723
     },
     {
       "ID": "Cultured",
@@ -9934,7 +9945,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 5722
+      "UsersEstimate": 5723
     },
     {
       "ID": "Efficient",
@@ -9942,7 +9953,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15923
+      "UsersEstimate": 15924
     },
     {
       "ID": "Escape_Artist",
@@ -9966,7 +9977,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13435
+      "UsersEstimate": 13436
     },
     {
       "ID": "GB_In_Training",
@@ -10134,7 +10145,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21397
+      "UsersEstimate": 21398
     },
     {
       "ID": "Summoner",
@@ -10158,7 +10169,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13435
+      "UsersEstimate": 13436
     },
     {
       "ID": "Teamwork",
@@ -10166,7 +10177,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10947
+      "UsersEstimate": 10948
     },
     {
       "ID": "Terrifying",
@@ -10174,7 +10185,7 @@
       "Name": "Terrifying",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4478
+      "UsersEstimate": 4479
     },
     {
       "ID": "Therapeutic",
@@ -10198,7 +10209,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4478
+      "UsersEstimate": 4479
     },
     {
       "ID": "Ultimate_Defense",
@@ -10214,7 +10225,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11942
+      "UsersEstimate": 11943
     },
     {
       "ID": "Welcome_Crew",
@@ -10237,16 +10248,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24880,
+      "Progressed": 24881,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-08-07T23:59:53.9391389+00:00",
-  "LastChanged_Achievements": "2023-08-08T00:02:21.6340165+00:00",
+  "LastChanged": "2023-08-08T01:54:40.4461913+00:00",
+  "LastChanged_Achievements": "2023-08-08T01:57:24.9905327+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:01.1115448+00:00",
-  "LastUpdate_Ratings": "2023-08-07T23:59:53.9391394+00:00",
-  "LastUpdate_Achievements": "2023-08-08T00:02:21.6341004+00:00"
+  "LastUpdate_Ratings": "2023-08-08T01:54:40.446192+00:00",
+  "LastUpdate_Achievements": "2023-08-08T01:57:24.9906214+00:00"
 }

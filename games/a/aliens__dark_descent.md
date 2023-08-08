@@ -6,23 +6,23 @@ Rating: 4.46 (Ranked 616)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,558 |
-| Snatched Out | 75.00% | ~2,339 |
-| Keep 'Em Coming | 73.00% | ~2,277 |
+| Snatched Out | 74.00% | ~2,309 |
+| Keep 'Em Coming | 73.00% | ~2,278 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,090 |
 | Call Me Snake | 62.00% | ~1,934 |
-| Something Lurks Under The Hills | 61.00% | ~1,903 |
-| This Was No Papercut | 59.00% | ~1,840 |
+| Something Lurks Under The Hills | 60.00% | ~1,872 |
+| This Was No Papercut | 59.00% | ~1,841 |
 | The Shrink Hates Me | 56.00% | ~1,747 |
-| People Person | 55.00% | ~1,715 |
+| People Person | 55.00% | ~1,716 |
 | Use The Bumper, That's What It's For | 52.00% | ~1,622 |
 | First Steps Into Madness | 52.00% | ~1,622 |
 | Colonial Barrels | 50.00% | ~1,560 |
-| Harper's Hell | 44.00% | ~1,372 |
-| Making a Stand | 43.00% | ~1,341 |
+| Harper's Hell | 44.00% | ~1,373 |
+| Making a Stand | 43.00% | ~1,342 |
 | Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,279 |
-| Where It All Begun | 39.00% | ~1,216 |
-| Recouped Investment | 38.00% | ~1,185 |
-| Omelette Du Fromage | 33.00% | ~1,029 |
+| Where It All Begun | 39.00% | ~1,217 |
+| Recouped Investment | 38.00% | ~1,186 |
+| Omelette Du Fromage | 33.00% | ~1,030 |
 | The More The Merrier | 32.00% | ~998 |
 | Living Nightmare | 31.00% | ~967 |
 | The Darwin Era Was Here | 27.00% | ~842 |
@@ -34,9 +34,9 @@ Rating: 4.46 (Ranked 616)
 | The Spire | 22.00% | ~686 |
 | One For Every Occasion | 19.00% | ~593 |
 | Excavating The Truth | 19.00% | ~593 |
-| Frontliner | 18.00% | ~561 |
-| The Cable Guy | 18.00% | ~561 |
-| Abysmal Horrors | 18.00% | ~561 |
+| Frontliner | 18.00% | ~562 |
+| The Cable Guy | 18.00% | ~562 |
+| Abysmal Horrors | 18.00% | ~562 |
 | Bandage Lover | 17.00% | ~530 |
 | Regicide | 14.00% | ~437 |
 | Flawless Victory | 12.00% | ~374 |
@@ -51,7 +51,7 @@ Rating: 4.46 (Ranked 616)
 | Chalk It Up To Experience | 0.70% | ~22 |
 | This Ain't No Picnic | 0.50% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,119 (Ranked 154)  
+Progressed: 3,120 (Ranked 154)  
 Completed: 2 (0.06%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,9 +105,10 @@ Completed: 2 (0.06%) (Ranked 210)
 | 2023-08-05 | 3,107 | 2 |
 | 2023-08-06 | 3,114 | 2 |
 | 2023-08-07 | 3,119 | 2 |
+| 2023-08-08 | 3,120 | 2 |
 ## Awards
-Max (Great Boss Battles): 23  (Ranked 485)  
-Sum: 23 (Ranked 489)  
+Max (Great Boss Battles): 23  (Ranked 486)  
+Sum: 23 (Ranked 490)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |

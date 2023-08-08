@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~42,009 |
-| Get Busy Living | 16.00% | ~25,852 |
-| Samuel Norton | 9.00% | ~14,542 |
-| Spare The Rod | 5.00% | ~8,079 |
-| Don't Put Me In The Dark | 3.00% | ~4,847 |
-| Wait and Hope | 3.00% | ~4,847 |
-| I May Have Found A Way Out Of Here | 3.00% | ~4,847 |
-| Iron Bars | 3.00% | ~4,847 |
-| Throw The Book At Them | 2.00% | ~3,231 |
+| Stone Walls | 26.00% | ~42,015 |
+| Get Busy Living | 16.00% | ~25,855 |
+| Samuel Norton | 9.00% | ~14,544 |
+| Spare The Rod | 5.00% | ~8,080 |
+| Don't Put Me In The Dark | 3.00% | ~4,848 |
+| Wait and Hope | 3.00% | ~4,848 |
+| I May Have Found A Way Out Of Here | 3.00% | ~4,848 |
+| Iron Bars | 3.00% | ~4,848 |
+| Throw The Book At Them | 2.00% | ~3,232 |
 | D.B. Cooper | 1.00% | ~1,616 |
-| Reformation | 0.60% | ~969 |
+| Reformation | 0.60% | ~970 |
 | Crowd Control | 0.50% | ~808 |
 | Freedom | 0.40% | ~646 |
 | Confined | 0.40% | ~646 |
 | It's Not What You Know... | 0.10% | ~162 |
 | ... It's What You Can Prove | 0.10% | ~162 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 161,573 (Ranked 61)  
+Progressed: 161,595 (Ranked 61)  
 Completed: 5 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,10 +133,10 @@ Completed: 5 (0.00%) (Ranked 251)
 | 2023-08-05 | 160,629 | 5 |
 | 2023-08-06 | 161,164 | 5 |
 | 2023-08-07 | 161,559 | 5 |
-| 2023-08-08 | 161,573 | 5 |
+| 2023-08-08 | 161,595 | 5 |
 ## Awards
 Max (Extremely Fun): 474  (Ranked 198)  
-Sum: 3,681 (Ranked 149)  
+Sum: 3,682 (Ranked 149)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -148,7 +148,7 @@ Diff (max vs sum): 49
 | This game has Diverse Characters | 400 |
 | This game has Amazing Storytelling | 388 |
 | This game has Amazing Characters | 369 |
-| This game has a Creative Community | 285 |
+| This game has a Creative Community | 286 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -351,3 +351,4 @@ Diff (max vs sum): 49
 | 2023-08-05 | 4.61 | - | 473 | 3,669 |
 | 2023-08-06 | 4.61 | - | 473 | 3,672 |
 | 2023-08-07 | 4.61 | - | 474 | 3,681 |
+| 2023-08-08 | 4.61 | - | 474 | 3,682 |

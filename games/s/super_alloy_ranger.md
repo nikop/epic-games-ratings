@@ -10,8 +10,8 @@
 | Freshen Up | 59.00% | ~32 |
 | GG EZ | 57.00% | ~31 |
 | Hydrophobia | 41.00% | ~22 |
-| Ka-Ching! | 35.00% | ~19 |
-| Stop Right There | 33.00% | ~18 |
+| Ka-Ching! | 37.00% | ~20 |
+| Stop Right There | 35.00% | ~19 |
 | Get to the Point | 31.00% | ~17 |
 | Toe to Toe | 17.00% | ~9 |
 | The Hidden Secret | 15.00% | ~8 |

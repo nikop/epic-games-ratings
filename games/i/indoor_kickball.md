@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 83.00% | ~69 |
-| Accessory Unlocked | 82.00% | ~68 |
-| Character Unlocked | 81.00% | ~67 |
+| Hat Unlocked | 82.00% | ~69 |
+| Accessory Unlocked | 81.00% | ~68 |
+| Character Unlocked | 80.00% | ~67 |
 | Settle Down | 73.00% | ~61 |
-| Homer | 72.00% | ~60 |
-| Butter Fingers | 71.00% | ~59 |
-| Have a good trip! | 70.00% | ~58 |
-| Kickball Unlocked | 67.00% | ~56 |
-| Stay Hydrated | 66.00% | ~55 |
-| First Win | 64.00% | ~53 |
-| True Story! | 45.00% | ~37 |
-| Bedroom Secret Spot | 39.00% | ~32 |
+| Homer | 73.00% | ~61 |
+| Butter Fingers | 71.00% | ~60 |
+| Have a good trip! | 69.00% | ~58 |
+| Kickball Unlocked | 68.00% | ~57 |
+| Stay Hydrated | 65.00% | ~55 |
+| First Win | 63.00% | ~53 |
+| True Story! | 44.00% | ~37 |
+| Bedroom Secret Spot | 38.00% | ~32 |
 | Kick It | 31.00% | ~26 |
 | Spooky | 31.00% | ~26 |
 | Grand Slam! | 25.00% | ~21 |
@@ -27,13 +27,13 @@
 | At least everyone still had fun | 23.00% | ~19 |
 | Living Room Secret Spot | 19.00% | ~16 |
 | Hi Hungry, I'm Dad | 17.00% | ~14 |
-| Angry Mom | 16.00% | ~13 |
+| Angry Mom | 15.00% | ~13 |
 | Just how we drew it up | 11.00% | ~9 |
 | Interference | 10.00% | ~8 |
 | Kitchen Secret Spot | 7.00% | ~6 |
 | You broke it, you bought it | 7.00% | ~6 |
+| Attic Secret Spot | 5.00% | ~4 |
 | Found the Secret Formula! | 5.00% | ~4 |
-| Attic Secret Spot | 4.00% | ~3 |
 | Basement Secret Spot | 4.00% | ~3 |
 | Garage Secret Spot | 2.00% | ~2 |
 | Kickball Kup | 1.00% | ~1 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83 (Ranked 334)  
+Progressed: 84 (Ranked 332)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,3 +87,4 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-07-31 | 81 | 0 |
 | 2023-08-01 | 82 | 0 |
 | 2023-08-06 | 83 | 0 |
+| 2023-08-08 | 84 | 0 |

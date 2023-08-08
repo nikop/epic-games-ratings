@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -418,7 +418,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7473,
+  "EOS_Progressed": 7474,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 1,
@@ -7113,6 +7113,11 @@
       "Time": "2023-08-07T23:06:33.6819025+00:00",
       "NumProgressed": 7473,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-08-08T02:00:42.07038+00:00",
+      "NumProgressed": 7474,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 29,
@@ -7196,7 +7201,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "ACH11",
@@ -7228,7 +7233,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "ACH15",
@@ -7252,7 +7257,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "ACH18",
@@ -7355,7 +7360,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7473,
+      "Progressed": 7474,
       "Completed": 43
     }
   ],
@@ -7363,8 +7368,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-07T19:58:54.5424396+00:00",
-  "LastChanged_Achievements": "2023-08-08T00:05:51.3733261+00:00",
+  "LastChanged_Achievements": "2023-08-08T02:00:42.0703794+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:37.4794149+00:00",
-  "LastUpdate_Ratings": "2023-08-07T23:58:36.7748094+00:00",
-  "LastUpdate_Achievements": "2023-08-08T00:05:51.3733907+00:00"
+  "LastUpdate_Ratings": "2023-08-08T01:53:23.5801524+00:00",
+  "LastUpdate_Achievements": "2023-08-08T02:00:42.0704397+00:00"
 }

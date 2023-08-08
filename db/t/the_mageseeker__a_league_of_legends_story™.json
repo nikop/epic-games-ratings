@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2508,
+  "EOS_Progressed": 2509,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3335,6 +3335,11 @@
       "Time": "2023-08-07T02:01:24.1231276+00:00",
       "NumProgressed": 2508,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-08T01:58:44.4496581+00:00",
+      "NumProgressed": 2509,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -3370,7 +3375,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -3386,7 +3391,7 @@
       "Name": "Hijack",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -3410,7 +3415,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2408
+      "UsersEstimate": 2409
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3426,7 +3431,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1956
+      "UsersEstimate": 1957
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3482,7 +3487,7 @@
       "Name": "Old friend",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -3522,7 +3527,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3530,7 +3535,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3562,7 +3567,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3586,7 +3591,7 @@
       "Name": "Devineur",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -3706,7 +3711,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -3722,7 +3727,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1857
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3762,14 +3767,14 @@
       "Name": "Petricite Burst",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2508,
+      "Progressed": 2509,
       "Completed": 5
     }
   ],
@@ -3777,8 +3782,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-08-08T00:03:52.4339927+00:00",
+  "LastChanged_Achievements": "2023-08-08T01:58:44.4496576+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:18.2583768+00:00",
-  "LastUpdate_Ratings": "2023-08-07T23:58:21.2640633+00:00",
-  "LastUpdate_Achievements": "2023-08-08T00:03:52.4340628+00:00"
+  "LastUpdate_Ratings": "2023-08-08T01:53:08.2721714+00:00",
+  "LastUpdate_Achievements": "2023-08-08T01:58:44.449731+00:00"
 }

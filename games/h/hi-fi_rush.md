@@ -11,12 +11,12 @@ Rating: 4.87 (Ranked 24)
 | Who put gears in there? | 7.00% | ~265 |
 | Cream of the Crop | 6.00% | ~227 |
 | Thanks for the free chip, Peppermint! | 6.00% | ~227 |
-| This will cost you big time | 5.00% | ~189 |
-| I play my own way! | 5.00% | ~189 |
-| You got this, Peppermint? | 5.00% | ~189 |
-| Perfect Parry | 5.00% | ~189 |
-| Uh, they were broken when I got here | 5.00% | ~189 |
-| Alright, that felt AWESOME! | 5.00% | ~189 |
+| This will cost you big time | 5.00% | ~190 |
+| I play my own way! | 5.00% | ~190 |
+| You got this, Peppermint? | 5.00% | ~190 |
+| Perfect Parry | 5.00% | ~190 |
+| Uh, they were broken when I got here | 5.00% | ~190 |
+| Alright, that felt AWESOME! | 5.00% | ~190 |
 | The Negotiator | 4.00% | ~152 |
 | Whoa! There's ANOTHER health bar!? | 4.00% | ~152 |
 | Z-shielding's got nothing on us! | 4.00% | ~152 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,789 (Ranked 147)  
+Progressed: 3,791 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,6 +185,7 @@ Completed: 7 (0.18%) (Ranked 181)
 | 2023-08-05 | 3,750 | 6 |
 | 2023-08-06 | 3,771 | 7 |
 | 2023-08-07 | 3,789 | 7 |
+| 2023-08-08 | 3,791 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

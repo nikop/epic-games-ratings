@@ -29,8 +29,8 @@ Rating: 4.66 (Ranked 272)
 | Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,535 |
 | Legendary Bounty Hunter | 18.00% | ~4,296 |
 | Seeing All The Sights | 16.00% | ~3,819 |
+| Carried Stan's Load To Completion | 13.00% | ~3,103 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,864 |
-| Carried Stan's Load To Completion | 12.00% | ~2,864 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,148 |
 | Sequel-Bait | 8.00% | ~1,910 |
 | Gunning For Your Job | 7.00% | ~1,671 |

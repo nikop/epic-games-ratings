@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -240,7 +240,7 @@
   "Tags": [],
   "EOS_Progressed": 23869,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4277,9 +4277,9 @@
       "ID": "ACH_STANS_STUFF",
       "SetID": "cdkbb11",
       "Name": "Carried Stan\u0027s Load To Completion",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 2864
+      "UsersEstimate": 3103
     },
     {
       "ID": "ACH_SUITO_SUICIDE",
@@ -4308,8 +4308,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-01T02:03:53.4121642+00:00",
-  "LastChanged_Achievements": "2023-08-08T00:07:05.6903228+00:00",
+  "LastChanged_Achievements": "2023-08-08T02:01:55.9641246+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:45.9653672+00:00",
-  "LastUpdate_Ratings": "2023-08-07T23:58:44.1190731+00:00",
-  "LastUpdate_Achievements": "2023-08-08T00:07:05.6903733+00:00"
+  "LastUpdate_Ratings": "2023-08-08T01:53:30.2062892+00:00",
+  "LastUpdate_Achievements": "2023-08-08T02:01:55.9641705+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~48,527 |
-| ''I don't like you either!'' | 79.00% | ~39,522 |
-| ''Impressive, most impressive'' | 72.00% | ~36,020 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~36,020 |
-| The Phantom Menace | 59.00% | ~29,517 |
-| ''Aggressive Negotiations'' | 59.00% | ~29,517 |
-| ''I can fly anything'' | 57.00% | ~28,516 |
-| ''And who gave you permission...?'' | 53.00% | ~26,515 |
-| A New Hope | 48.00% | ~24,013 |
-| Attack of the Clones | 47.00% | ~23,513 |
-| Revenge of the Sith | 40.00% | ~20,011 |
-| The Empire Strikes Back | 37.00% | ~18,510 |
-| ''A fine addition to my collection'' | 37.00% | ~18,510 |
-| Return of the Jedi | 32.00% | ~16,009 |
+| ''You guys got yourself a ship!'' | 97.00% | ~48,529 |
+| ''I don't like you either!'' | 79.00% | ~39,524 |
+| ''Impressive, most impressive'' | 72.00% | ~36,022 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~36,022 |
+| The Phantom Menace | 59.00% | ~29,518 |
+| ''Aggressive Negotiations'' | 59.00% | ~29,518 |
+| ''I can fly anything'' | 57.00% | ~28,517 |
+| ''And who gave you permission...?'' | 53.00% | ~26,516 |
+| A New Hope | 48.00% | ~24,014 |
+| Attack of the Clones | 47.00% | ~23,514 |
+| Revenge of the Sith | 40.00% | ~20,012 |
+| The Empire Strikes Back | 37.00% | ~18,511 |
+| ''A fine addition to my collection'' | 37.00% | ~18,511 |
+| Return of the Jedi | 32.00% | ~16,010 |
 | The Force Awakens | 27.00% | ~13,508 |
-| The Last Jedi | 23.00% | ~11,506 |
+| The Last Jedi | 23.00% | ~11,507 |
 | The Rise of Skywalker | 20.00% | ~10,006 |
-| ''It's true... all of it'' | 19.00% | ~9,505 |
-| ''Get the crews to their fighters'' | 19.00% | ~9,505 |
+| ''It's true... all of it'' | 19.00% | ~9,506 |
+| ''Get the crews to their fighters'' | 19.00% | ~9,506 |
 | ''Raw, untamed power'' | 8.00% | ~4,002 |
-| Rishi Maze | 5.00% | ~2,501 |
-| ''Only one business in the Galaxy...'' | 5.00% | ~2,501 |
+| Rishi Maze | 5.00% | ~2,502 |
+| ''Only one business in the Galaxy...'' | 5.00% | ~2,502 |
 | ''You may fire when ready'' | 3.00% | ~1,501 |
 | ''What have you done with those plans?'' | 3.00% | ~1,501 |
 | ''GONK!'' | 3.00% | ~1,501 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''No more training, do you require'' | 1.00% | ~500 |
 | ''I've never seen a real one!'' | 0.90% | ~450 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,028 (Ranked 89)  
+Progressed: 50,030 (Ranked 89)  
 Completed: 217 (0.43%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 217 (0.43%) (Ranked 147)
 | 2023-08-05 | 50,021 | 217 |
 | 2023-08-06 | 50,024 | 217 |
 | 2023-08-07 | 50,027 | 217 |
-| 2023-08-08 | 50,028 | 217 |
+| 2023-08-08 | 50,030 | 217 |
 ## Awards
 Max (Great Boss Battles): 2,369  (Ranked 103)  
 Sum: 6,525 (Ranked 118)  

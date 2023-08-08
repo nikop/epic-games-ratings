@@ -6,18 +6,18 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,114 |
+| Atom Agent | 99.00% | ~1,115 |
 | One HIT wonder | 35.00% | ~394 |
 | Wanderer | 35.00% | ~394 |
 | One shot, one kill | 28.00% | ~315 |
-| Traveler | 26.00% | ~292 |
+| Traveler | 26.00% | ~293 |
 | Head Burst | 19.00% | ~214 |
-| Explorer | 18.00% | ~202 |
-| Grave Robber | 18.00% | ~202 |
+| Explorer | 18.00% | ~203 |
+| Grave Robber | 18.00% | ~203 |
 | Double agent | 15.00% | ~169 |
 | Paranoia | 15.00% | ~169 |
-| Kraina Grzybow | 10.00% | ~112 |
-| Savant | 10.00% | ~112 |
+| Kraina Grzybow | 10.00% | ~113 |
+| Savant | 10.00% | ~113 |
 | Love Guru | 9.00% | ~101 |
 | Bustin' nuts | 8.00% | ~90 |
 | Not-so-private Eye | 8.00% | ~90 |
@@ -28,22 +28,22 @@ Number of Ratings: 54  (23.09.2022)
 | Indy | 4.00% | ~45 |
 | Sacrifice | 4.00% | ~45 |
 | Wishmaster | 3.00% | ~34 |
-| Career criminal | 2.00% | ~22 |
+| Career criminal | 2.00% | ~23 |
 | Neanderthal | 1.00% | ~11 |
 | It was worth a shot | 1.00% | ~11 |
 | Cosmic Horror | 1.00% | ~11 |
 | Ghostbuster | 0.70% | ~8 |
-| Cheeki Breeki | 0.40% | ~4 |
-| It's a classic! | 0.40% | ~4 |
-| Comrade Yogi | 0.40% | ~4 |
-| Expert | 0.40% | ~4 |
-| Tourist Korallov | 0.40% | ~4 |
+| Cheeki Breeki | 0.40% | ~5 |
+| It's a classic! | 0.40% | ~5 |
+| Comrade Yogi | 0.40% | ~5 |
+| Expert | 0.40% | ~5 |
+| Tourist Korallov | 0.40% | ~5 |
 | Mystical relics | 0.20% | ~2 |
 | 27 Club | 0.00% | ~0 |
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,125 (Ranked 189)  
+Progressed: 1,126 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-05 | 1,122 | 0 |
 | 2023-08-06 | 1,124 | 0 |
 | 2023-08-07 | 1,125 | 0 |
+| 2023-08-08 | 1,126 | 0 |
 ## Awards
 Max (Character Customization): 49  (Ranked 405)  
 Sum: 49 (Ranked 451)  

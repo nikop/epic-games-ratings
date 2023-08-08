@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 298)  
+Rating: 4.65 (Ranked 299)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -113,6 +113,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.40% | ~53 |
 | Dualism | 0.40% | ~53 |
 | Enlightenment | 0.40% | ~53 |
+| Gnosticism | 0.40% | ~53 |
 | Redemption | 0.40% | ~53 |
 | Revelation | 0.40% | ~53 |
 | Veneration | 0.40% | ~53 |
@@ -133,7 +134,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.30% | ~40 |
 | Industrial Progress | 0.30% | ~40 |
 | Military Prestige | 0.30% | ~40 |
-| Gnosticism | 0.30% | ~40 |
 | Kushite Cavalry | 0.30% | ~40 |
 | Turreted Elephant | 0.30% | ~40 |
 | All Nations | 0.30% | ~40 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,318 (Ranked 117)  
+Progressed: 13,319 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -413,7 +413,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-05 | 13,281 | 5 |
 | 2023-08-06 | 13,301 | 5 |
 | 2023-08-07 | 13,317 | 5 |
-| 2023-08-08 | 13,318 | 5 |
+| 2023-08-08 | 13,319 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,786 (Ranked 206)  
