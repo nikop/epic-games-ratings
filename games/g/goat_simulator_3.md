@@ -5,20 +5,20 @@ Rating: 4.85 (Ranked 40)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~214,679 |
-| Private Club | 74.00% | ~174,574 |
-| Rogue Guild | 65.00% | ~153,342 |
-| I Watched the Intro | 57.00% | ~134,469 |
-| Covert Consortium | 55.00% | ~129,751 |
+| Forgotten Sorority | 91.00% | ~214,680 |
+| Private Club | 74.00% | ~174,575 |
+| Rogue Guild | 65.00% | ~153,343 |
+| I Watched the Intro | 57.00% | ~134,470 |
+| Covert Consortium | 55.00% | ~129,752 |
 | Goat Queen | 53.00% | ~125,033 |
 | Reach the Stratosphere | 50.00% | ~117,956 |
-| Synchronization Complete | 47.00% | ~110,878 |
+| Synchronization Complete | 47.00% | ~110,879 |
 | Secret Society | 45.00% | ~106,160 |
-| Shadow Syndicate | 38.00% | ~89,646 |
+| Shadow Syndicate | 38.00% | ~89,647 |
 | What a Waste of Money | 33.00% | ~77,851 |
-| New Goat Order | 30.00% | ~70,773 |
+| New Goat Order | 30.00% | ~70,774 |
 | Don't touch the servers | 28.00% | ~66,055 |
-| San Angora: Become Human | 26.00% | ~61,337 |
+| San Angora: Become Human | 27.00% | ~63,696 |
 | Raider of the Lost Parking Garage | 26.00% | ~61,337 |
 | Real Buoy | 26.00% | ~61,337 |
 | Welcome to Earth | 25.00% | ~58,978 |
@@ -45,7 +45,7 @@ Rating: 4.85 (Ranked 40)
 | Move! That! Bus! | 0.60% | ~1,415 |
 | G.O.A.T | 0.30% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,911 (Ranked 48)  
+Progressed: 235,912 (Ranked 48)  
 Completed: 789 (0.33%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,15 +155,15 @@ Completed: 789 (0.33%) (Ranked 156)
 | 2023-08-05 | 235,572 | 787 |
 | 2023-08-06 | 235,745 | 789 |
 | 2023-08-07 | 235,877 | 789 |
-| 2023-08-08 | 235,911 | 789 |
+| 2023-08-08 | 235,912 | 789 |
 ## Awards
 Max (Great for Beginners): 376  (Ranked 220)  
-Sum: 3,166 (Ranked 154)  
+Sum: 3,168 (Ranked 154)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 376 |
-| This game has Diverse Characters | 358 |
+| This game has Diverse Characters | 360 |
 | This game is Highly Recommended | 341 |
 | This game has Amazing Characters | 319 |
 | This game is Extremely Fun | 312 |
@@ -313,3 +313,4 @@ Diff (max vs sum): 66
 | 2023-08-05 | 4.85 | 376 | 3,157 |
 | 2023-08-06 | 4.85 | 376 | 3,163 |
 | 2023-08-07 | 4.85 | 376 | 3,166 |
+| 2023-08-08 | 4.85 | 376 | 3,168 |

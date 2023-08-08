@@ -6,30 +6,30 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~234,752 |
-| First Victory | 50.00% | ~234,752 |
-| Clean Sheet | 49.00% | ~230,057 |
-| He's Sold! | 48.00% | ~225,362 |
-| I'm The Boss! | 42.00% | ~197,192 |
+| He's Signed! | 50.00% | ~234,753 |
+| First Victory | 50.00% | ~234,753 |
+| Clean Sheet | 49.00% | ~230,058 |
+| He's Sold! | 48.00% | ~225,363 |
+| I'm The Boss! | 42.00% | ~197,193 |
 | Hat-trick | 41.00% | ~192,497 |
 | Scoring Streak | 38.00% | ~178,412 |
-| Unbeatable! | 37.00% | ~173,716 |
-| Thumping | 37.00% | ~173,716 |
-| Superb Dressing Room Atmosphere | 35.00% | ~164,326 |
-| Total Support | 32.00% | ~150,241 |
-| Record Signing | 32.00% | ~150,241 |
-| Millionaire's Club | 31.00% | ~145,546 |
-| Team Performance | 30.00% | ~140,851 |
-| He's a Natural | 30.00% | ~140,851 |
-| Parked The Bus | 29.00% | ~136,156 |
-| Shrewd Spender | 29.00% | ~136,156 |
-| Star Man | 29.00% | ~136,156 |
-| Attack! | 28.00% | ~131,461 |
-| You're On Fire | 26.00% | ~122,071 |
-| On A Roll | 26.00% | ~122,071 |
-| Tremendous Trio | 26.00% | ~122,071 |
-| Unstoppable Force | 26.00% | ~122,071 |
-| Record Sale | 26.00% | ~122,071 |
+| Unbeatable! | 37.00% | ~173,717 |
+| Thumping | 37.00% | ~173,717 |
+| Superb Dressing Room Atmosphere | 35.00% | ~164,327 |
+| Total Support | 32.00% | ~150,242 |
+| Record Signing | 32.00% | ~150,242 |
+| Millionaire's Club | 31.00% | ~145,547 |
+| Team Performance | 30.00% | ~140,852 |
+| He's a Natural | 30.00% | ~140,852 |
+| Parked The Bus | 29.00% | ~136,157 |
+| Shrewd Spender | 29.00% | ~136,157 |
+| Star Man | 29.00% | ~136,157 |
+| Attack! | 28.00% | ~131,462 |
+| You're On Fire | 26.00% | ~122,072 |
+| On A Roll | 26.00% | ~122,072 |
+| Tremendous Trio | 26.00% | ~122,072 |
+| Unstoppable Force | 26.00% | ~122,072 |
+| Record Sale | 26.00% | ~122,072 |
 | Fantastic Five | 24.00% | ~112,681 |
 | Full Faith | 24.00% | ~112,681 |
 | The Boss | 24.00% | ~112,681 |
@@ -53,15 +53,15 @@ Number of Ratings: 19,160  (23.09.2022)
 | Eyes and Ears | 14.00% | ~65,731 |
 | Comeback King! | 13.00% | ~61,036 |
 | You're Up! | 13.00% | ~61,036 |
-| Money, Money, Money | 12.00% | ~56,340 |
-| Superb Strike | 10.00% | ~46,950 |
-| Invincible! | 10.00% | ~46,950 |
-| Best In The World | 10.00% | ~46,950 |
-| Best In Europe | 9.00% | ~42,255 |
-| National Service | 9.00% | ~42,255 |
-| Headhunted | 9.00% | ~42,255 |
-| International Superstar | 9.00% | ~42,255 |
-| Domination | 9.00% | ~42,255 |
+| Money, Money, Money | 12.00% | ~56,341 |
+| Superb Strike | 10.00% | ~46,951 |
+| Invincible! | 10.00% | ~46,951 |
+| Best In The World | 10.00% | ~46,951 |
+| Best In Europe | 9.00% | ~42,256 |
+| National Service | 9.00% | ~42,256 |
+| Headhunted | 9.00% | ~42,256 |
+| International Superstar | 9.00% | ~42,256 |
+| Domination | 9.00% | ~42,256 |
 | Best In The Business | 8.00% | ~37,560 |
 | Legend | 6.00% | ~28,170 |
 | Win the Club World Cup | 6.00% | ~28,170 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~470 |
 | Shoestring Budget | 0.10% | ~470 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469,504 (Ranked 36)  
+Progressed: 469,506 (Ranked 36)  
 Completed: 19 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,10 +215,10 @@ Completed: 19 (0.00%) (Ranked 251)
 | 2023-08-05 | 469,254 | 19 |
 | 2023-08-06 | 469,370 | 19 |
 | 2023-08-07 | 469,484 | 19 |
-| 2023-08-08 | 469,504 | 19 |
+| 2023-08-08 | 469,506 | 19 |
 ## Awards
 Max (Relaxing): 6,390  (Ranked 53)  
-Sum: 50,314 (Ranked 24)  
+Sum: 50,315 (Ranked 24)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -229,7 +229,7 @@ Diff (max vs sum): 29
 | This game is Educational | 5,801 |
 | This game is Highly Recommended | 5,796 |
 | This game has Diverse Characters | 5,438 |
-| This game has Amazing Storytelling | 4,880 |
+| This game has Amazing Storytelling | 4,881 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,346 |
 | This game has a Creative Community | 1,495 |
@@ -430,4 +430,4 @@ Diff (max vs sum): 29
 | 2023-08-05 | 4.80 | - | 6,386 | 50,290 |
 | 2023-08-06 | 4.80 | - | 6,389 | 50,303 |
 | 2023-08-07 | 4.80 | - | 6,389 | 50,307 |
-| 2023-08-08 | 4.80 | - | 6,390 | 50,314 |
+| 2023-08-08 | 4.80 | - | 6,390 | 50,315 |

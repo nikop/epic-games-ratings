@@ -6,16 +6,16 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~48,529 |
+| ''You guys got yourself a ship!'' | 97.00% | ~48,530 |
 | ''I don't like you either!'' | 79.00% | ~39,524 |
 | ''Impressive, most impressive'' | 72.00% | ~36,022 |
 | ''You think you're some kind of Jedi?'' | 72.00% | ~36,022 |
 | The Phantom Menace | 59.00% | ~29,518 |
 | ''Aggressive Negotiations'' | 59.00% | ~29,518 |
-| ''I can fly anything'' | 57.00% | ~28,517 |
+| ''I can fly anything'' | 57.00% | ~28,518 |
 | ''And who gave you permission...?'' | 53.00% | ~26,516 |
-| A New Hope | 48.00% | ~24,014 |
-| Attack of the Clones | 47.00% | ~23,514 |
+| A New Hope | 48.00% | ~24,015 |
+| Attack of the Clones | 47.00% | ~23,515 |
 | Revenge of the Sith | 40.00% | ~20,012 |
 | The Empire Strikes Back | 37.00% | ~18,511 |
 | ''A fine addition to my collection'' | 37.00% | ~18,511 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''No more training, do you require'' | 1.00% | ~500 |
 | ''I've never seen a real one!'' | 0.90% | ~450 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,030 (Ranked 89)  
+Progressed: 50,031 (Ranked 89)  
 Completed: 217 (0.43%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,14 +162,14 @@ Completed: 217 (0.43%) (Ranked 147)
 | 2023-08-05 | 50,021 | 217 |
 | 2023-08-06 | 50,024 | 217 |
 | 2023-08-07 | 50,027 | 217 |
-| 2023-08-08 | 50,030 | 217 |
+| 2023-08-08 | 50,031 | 217 |
 ## Awards
-Max (Great Boss Battles): 2,369  (Ranked 103)  
-Sum: 6,525 (Ranked 118)  
+Max (Great Boss Battles): 2,371  (Ranked 103)  
+Sum: 6,527 (Ranked 118)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,369 |
+| This game has Great Boss Battles | 2,371 |
 | This game is Great for Beginners | 488 |
 | This game has Diverse Characters | 488 |
 | This game has Amazing Characters | 483 |
@@ -359,3 +359,4 @@ Diff (max vs sum): -15
 | 2023-08-04 | 4.78 | - | 2,368 | 6,522 |
 | 2023-08-05 | 4.78 | - | 2,368 | 6,523 |
 | 2023-08-06 | 4.78 | - | 2,369 | 6,525 |
+| 2023-08-08 | 4.78 | - | 2,371 | 6,527 |

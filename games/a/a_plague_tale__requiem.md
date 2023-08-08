@@ -42,7 +42,7 @@ Rating: 4.73 (Ranked 160)
 | Malignant | 1.00% | ~127 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,676 (Ranked 118)  
-Completed: 41 (0.32%) (Ranked 157)  
+Completed: 42 (0.33%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -151,7 +151,7 @@ Completed: 41 (0.32%) (Ranked 157)
 | 2023-08-05 | 12,626 | 40 |
 | 2023-08-06 | 12,654 | 40 |
 | 2023-08-07 | 12,672 | 41 |
-| 2023-08-08 | 12,676 | 41 |
+| 2023-08-08 | 12,676 | 42 |
 ## Awards
 Max (Great Boss Battles): 410  (Ranked 210)  
 Sum: 628 (Ranked 290)  

@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~10,992 |
-| Beast Intentions | 3.00% | ~6,595 |
+| A Brief Tour of the Realms | 5.00% | ~10,993 |
+| Beast Intentions | 3.00% | ~6,596 |
 | Maddening | 2.00% | ~4,397 |
-| The Silken Swamp | 1.00% | ~2,198 |
-| Supply Run | 1.00% | ~2,198 |
+| The Silken Swamp | 1.00% | ~2,199 |
+| Supply Run | 1.00% | ~2,199 |
 | Vecna Lives! | 1.00% | ~1,861 |
 | Rocky Reception | 1.00% | ~1,861 |
 | Rock and Roll | 1.00% | ~1,861 |
@@ -54,6 +54,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.50% | ~1,099 |
 | The Crumbling Temple | 0.50% | ~1,099 |
 | Seeking Allies | 0.50% | ~1,099 |
+| Exploring Port Nyanzaru | 0.50% | ~1,099 |
 | Friendly Imps | 0.50% | ~1,099 |
 | Pure Energy | 0.50% | ~1,099 |
 | Not That Type of Helm! | 0.50% | ~931 |
@@ -63,20 +64,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.50% | ~931 |
 | Animated Giff | 0.50% | ~931 |
 | Upholding the Law | 0.40% | ~879 |
-| Hither of the Feywild | 0.40% | ~744 |
-| The Prince of a Thousand Enemies | 0.40% | ~744 |
-| Downfall | 0.40% | ~744 |
-| Speeds of Destruction | 0.40% | ~744 |
-| Owlbear Necessities | 0.40% | ~744 |
+| Hither of the Feywild | 0.40% | ~745 |
+| The Prince of a Thousand Enemies | 0.40% | ~745 |
+| Downfall | 0.40% | ~745 |
+| Speeds of Destruction | 0.40% | ~745 |
+| Owlbear Necessities | 0.40% | ~745 |
 | On the Hunt | 0.40% | ~879 |
-| Best Thay Ever | 0.40% | ~744 |
-| A Demi-god's Defender | 0.40% | ~744 |
-| Who Lurks Below? | 0.40% | ~744 |
-| Xanathaaaaaaar! | 0.40% | ~744 |
+| Best Thay Ever | 0.40% | ~745 |
+| A Demi-god's Defender | 0.40% | ~745 |
+| The Castle of a Thousand Vecnas | 0.40% | ~745 |
+| Who Lurks Below? | 0.40% | ~745 |
+| Xanathaaaaaaar! | 0.40% | ~745 |
 | Homecoming | 0.40% | ~879 |
 | The Lost Heir of Omu | 0.40% | ~879 |
-| No One Can Hear You Scream | 0.40% | ~744 |
-| Welcome to the Rock | 0.40% | ~744 |
+| No One Can Hear You Scream | 0.40% | ~745 |
+| Welcome to the Rock | 0.40% | ~745 |
 | The Forbidden City | 0.40% | ~879 |
 | Captured! | 0.40% | ~879 |
 | Wisdom Check | 0.40% | ~879 |
@@ -89,24 +91,23 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.40% | ~879 |
 | Useless Allies | 0.40% | ~879 |
 | Mad Cow Disease | 0.40% | ~879 |
-| Exploring Port Nyanzaru | 0.40% | ~879 |
 | A Tale of Two Cities | 0.40% | ~879 |
 | The Dead Three | 0.40% | ~879 |
 | The Darkness Runs Deeper | 0.40% | ~879 |
 | Running of the Saurs | 0.40% | ~879 |
 | The Contagious Curse | 0.40% | ~879 |
 | Escort to Waterdeep | 0.40% | ~879 |
-| The Giant's Bane Tavern | 0.40% | ~744 |
+| The Giant's Bane Tavern | 0.40% | ~745 |
 | Waterdeep Detours | 0.40% | ~879 |
 | Lost in the Deep | 0.40% | ~879 |
 | Easily Distracted | 0.40% | ~879 |
 | Underdeep Cartography | 0.40% | ~879 |
 | Overdue Rendezvous | 0.40% | ~879 |
 | The Templar's Camp | 0.40% | ~879 |
-| Devilishly Cold | 0.40% | ~744 |
-| Luigi After Hours | 0.40% | ~744 |
-| Electric Mayhem | 0.40% | ~744 |
-| 3,720 to 1 | 0.40% | ~744 |
+| Devilishly Cold | 0.40% | ~745 |
+| Luigi After Hours | 0.40% | ~745 |
+| Electric Mayhem | 0.40% | ~745 |
+| 3,720 to 1 | 0.40% | ~745 |
 | Starving in the Jungle | 0.30% | ~660 |
 | Cold as Ice | 0.30% | ~558 |
 | Nightmare Rats! | 0.30% | ~558 |
@@ -120,7 +121,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Well Equipped | 0.30% | ~558 |
 | More Than Well Equipped | 0.30% | ~558 |
 | Keep Your Distance | 0.30% | ~558 |
-| The Castle of a Thousand Vecnas | 0.30% | ~558 |
 | The Sanctum of the Sword | 0.30% | ~558 |
 | Get Back In The Castle | 0.30% | ~558 |
 | Checkmate | 0.30% | ~558 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,844 (Ranked 52)  
+Progressed: 219,858 (Ranked 52)  
 Completed: 2,164 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,16 +629,16 @@ Completed: 2,164 (0.98%) (Ranked 114)
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
-| 2023-08-08 | 219,844 | 2,164 |
+| 2023-08-08 | 219,858 | 2,164 |
 ## Awards
 Max (Diverse Characters): 5,125  (Ranked 67)  
-Sum: 30,940 (Ranked 38)  
+Sum: 30,942 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,125 |
 | This game is Great for Beginners | 5,072 |
-| This game has Quickly Understood Controls | 4,704 |
+| This game has Quickly Understood Controls | 4,706 |
 | This game is Relaxing | 4,598 |
 | This game has Amazing Characters | 4,059 |
 | This game is Highly Recommended | 4,037 |
@@ -840,4 +840,4 @@ Diff (max vs sum): 29
 | 2023-08-05 | 4.05 | - | 5,119 | 30,910 |
 | 2023-08-06 | 4.06 | - | 5,121 | 30,921 |
 | 2023-08-07 | 4.06 | - | 5,121 | 30,936 |
-| 2023-08-08 | 4.06 | - | 5,125 | 30,940 |
+| 2023-08-08 | 4.06 | - | 5,125 | 30,942 |
