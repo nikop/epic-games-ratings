@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.44 (Ranked 644)  
+Rating: 4.43 (Ranked 657)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -59,11 +59,11 @@ Rating: 4.44 (Ranked 644)
 | Up close and personal | 0.40% | ~14 |
 | Can't Outrun A Bullet | 0.40% | ~14 |
 | If You Go Down To The Woods Today | 0.40% | ~14 |
+| Fight Another Day | 0.40% | ~14 |
 | Out of Scope | 0.30% | ~10 |
 | Sight Beyond Sights | 0.30% | ~10 |
 | Führerious Repetition | 0.30% | ~10 |
 | Covert Elimination | 0.30% | ~10 |
-| Fight Another Day | 0.30% | ~10 |
 | Best of the Best | 0.20% | ~7 |
 | Master of Pistols | 0.20% | ~7 |
 | Master of Secondaries | 0.20% | ~7 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 644)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,433 (Ranked 150)  
+Progressed: 3,434 (Ranked 150)  
 Completed: 9 (0.26%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 9 (0.26%) (Ranked 166)
 | 2023-08-05 | 3,412 | 9 |
 | 2023-08-06 | 3,419 | 9 |
 | 2023-08-07 | 3,427 | 9 |
-| 2023-08-08 | 3,433 | 9 |
+| 2023-08-08 | 3,434 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -256,3 +256,4 @@ Completed: 9 (0.26%) (Ranked 166)
 | 2023-07-30 | 4.42 | 0 | 0 |
 | 2023-08-01 | 4.43 | 0 | 0 |
 | 2023-08-05 | 4.44 | 0 | 0 |
+| 2023-08-08 | 4.43 | 0 | 0 |

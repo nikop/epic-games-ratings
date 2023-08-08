@@ -29,8 +29,8 @@ Rating: 4.20 (Ranked 851)
 | If the SHU Fits... | 2.00% | ~317 |
 | Without A Paddle | 2.00% | ~317 |
 | Desperate Times | 2.00% | ~317 |
+| One Last Job | 2.00% | ~75 |
 | In Striking Distance | 1.00% | ~158 |
-| One Last Job | 1.00% | ~38 |
 | This Isn't About Escape | 0.80% | ~30 |
 | Armed to the Teeth | 0.60% | ~23 |
 | Information Overload | 0.50% | ~19 |

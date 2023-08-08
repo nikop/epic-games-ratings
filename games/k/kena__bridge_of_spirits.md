@@ -6,15 +6,15 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~405,917 |
-| Haikyo | 80.00% | ~341,825 |
-| Good as New | 72.00% | ~307,642 |
-| Into the Woods | 69.00% | ~294,824 |
+| Found a Friend | 95.00% | ~405,918 |
+| Haikyo | 80.00% | ~341,826 |
+| Good as New | 72.00% | ~307,643 |
+| Into the Woods | 69.00% | ~294,825 |
 | Hunter in the Forest | 60.00% | ~256,369 |
 | Rot Commander | 60.00% | ~256,369 |
-| Taro's Fear | 56.00% | ~239,277 |
-| Between the Eyes | 46.00% | ~196,549 |
-| Taro's Love | 45.00% | ~192,276 |
+| Taro's Fear | 56.00% | ~239,278 |
+| Between the Eyes | 46.00% | ~196,550 |
+| Taro's Love | 45.00% | ~192,277 |
 | Taro's Regret | 43.00% | ~183,731 |
 | Spirit Guide | 42.00% | ~179,458 |
 | Harness Your Power | 38.00% | ~162,367 |
@@ -23,9 +23,9 @@ Number of Ratings: 3,313  (23.09.2022)
 | Adira's Fear | 33.00% | ~141,003 |
 | Weigh Them Down | 31.00% | ~132,457 |
 | Adira's Regret | 31.00% | ~132,457 |
-| A Heavy Hammer | 30.00% | ~128,184 |
-| Crossing Over | 29.00% | ~123,911 |
-| Quick Draw | 29.00% | ~123,911 |
+| A Heavy Hammer | 30.00% | ~128,185 |
+| Crossing Over | 29.00% | ~123,912 |
+| Quick Draw | 29.00% | ~123,912 |
 | Toshi's Regret | 27.00% | ~115,366 |
 | Toshi's Fear | 27.00% | ~115,366 |
 | Toshi's Love | 27.00% | ~115,366 |
@@ -36,7 +36,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Say Cheese | 16.00% | ~68,365 |
 | Skillful Spirit Guide | 15.00% | ~64,092 |
 | Piercing Blow | 14.00% | ~59,819 |
-| Zen Master | 8.00% | ~34,182 |
+| Zen Master | 8.00% | ~34,183 |
 | Curse Collector | 7.00% | ~29,910 |
 | The Last Stop | 7.00% | ~29,910 |
 | Hat Collector | 4.00% | ~17,091 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,846 |
 | Master Spirit Guide | 0.30% | ~1,282 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427,281 (Ranked 39)  
+Progressed: 427,282 (Ranked 39)  
 Completed: 525 (0.12%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 525 (0.12%) (Ranked 192)
 | 2023-08-05 | 427,221 | 524 |
 | 2023-08-06 | 427,252 | 524 |
 | 2023-08-07 | 427,269 | 524 |
-| 2023-08-08 | 427,281 | 525 |
+| 2023-08-08 | 427,282 | 525 |
 ## Awards
 Max (Great Boss Battles): 1,314  (Ranked 129)  
 Sum: 1,691 (Ranked 207)  

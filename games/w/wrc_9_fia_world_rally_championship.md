@@ -5,7 +5,7 @@ Rating: 4.52 (Ranked 528)
 Number of Ratings: 233  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 28  (Ranked 466)  
-Sum: 224 (Ranked 357)  
+Sum: 225 (Ranked 357)  
 Diff (max vs sum): 109  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 109
 | This game is Relaxing | 25 |
 | This game has Quickly Understood Controls | 24 |
 | This game has Challenging Combat | 24 |
-| This game has Amazing Characters | 23 |
+| This game has Amazing Characters | 24 |
 | This game is Extremely Fun | 23 |
 | This game has Realistic Visuals | 22 |
 | This game has Obsessive Gameplay | 20 |
@@ -119,3 +119,4 @@ Diff (max vs sum): 109
 | 2023-07-04 | 4.52 | - | 28 | 220 |
 | 2023-07-27 | 4.52 | - | 28 | 222 |
 | 2023-08-02 | 4.52 | - | 28 | 224 |
+| 2023-08-08 | 4.52 | - | 28 | 225 |

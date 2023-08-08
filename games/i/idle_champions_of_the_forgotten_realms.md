@@ -1,12 +1,12 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 915)  
+Rating: 4.06 (Ranked 916)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~10,994 |
+| A Brief Tour of the Realms | 5.00% | ~10,995 |
 | Beast Intentions | 3.00% | ~6,597 |
 | Maddening | 2.00% | ~4,398 |
 | The Silken Swamp | 1.00% | ~2,199 |
@@ -14,9 +14,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Lives! | 1.00% | ~1,862 |
 | Rocky Reception | 1.00% | ~1,862 |
 | Rock and Roll | 1.00% | ~1,862 |
-| Tall Tales | 0.90% | ~1,675 |
-| Vecna Loots! | 0.90% | ~1,675 |
-| Flight of the Kindori Pod | 0.90% | ~1,675 |
+| Tall Tales | 0.90% | ~1,676 |
+| Vecna Loots! | 0.90% | ~1,676 |
+| Flight of the Kindori Pod | 0.90% | ~1,676 |
 | Seeds of Destruction | 0.80% | ~1,489 |
 | Return to the Tomb | 0.80% | ~1,489 |
 | The Cursed Farmer | 0.80% | ~1,759 |
@@ -49,16 +49,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.60% | ~1,117 |
 | Thieves of the Coven | 0.50% | ~931 |
 | A Demi-god's Defender | 0.50% | ~931 |
-| Friends of the Forest | 0.50% | ~1,099 |
-| March of the Undead | 0.50% | ~1,099 |
-| Wisdom Check | 0.50% | ~1,099 |
-| Invisible Shadows | 0.50% | ~1,099 |
-| Family Entanglements | 0.50% | ~1,099 |
-| The Crumbling Temple | 0.50% | ~1,099 |
-| Seeking Allies | 0.50% | ~1,099 |
-| Exploring Port Nyanzaru | 0.50% | ~1,099 |
-| Friendly Imps | 0.50% | ~1,099 |
-| Pure Energy | 0.50% | ~1,099 |
+| Friends of the Forest | 0.50% | ~1,100 |
+| March of the Undead | 0.50% | ~1,100 |
+| Wisdom Check | 0.50% | ~1,100 |
+| Invisible Shadows | 0.50% | ~1,100 |
+| Family Entanglements | 0.50% | ~1,100 |
+| The Crumbling Temple | 0.50% | ~1,100 |
+| Seeking Allies | 0.50% | ~1,100 |
+| Exploring Port Nyanzaru | 0.50% | ~1,100 |
+| Friendly Imps | 0.50% | ~1,100 |
+| Pure Energy | 0.50% | ~1,100 |
 | Not That Type of Helm! | 0.50% | ~931 |
 | Calcryx Tricks | 0.50% | ~931 |
 | Goblin Halls: the Next Generation | 0.50% | ~931 |
@@ -109,29 +109,29 @@ Number of Ratings: 9,041  (23.09.2022)
 | Electric Mayhem | 0.40% | ~745 |
 | 3,720 to 1 | 0.40% | ~745 |
 | Starving in the Jungle | 0.30% | ~660 |
-| Cold as Ice | 0.30% | ~558 |
-| Friends and Foes | 0.30% | ~558 |
-| Nightmare Rats! | 0.30% | ~558 |
-| An Unexpected Geist | 0.30% | ~558 |
-| Slack-jawed Lorna | 0.30% | ~558 |
-| The Fairy Rings of Thither | 0.30% | ~558 |
-| Will of the Feywild | 0.30% | ~558 |
-| The Roots of Loomlurch | 0.30% | ~558 |
-| Flapjacks and Waffles | 0.30% | ~558 |
-| Overwhelmed with Knowledge | 0.30% | ~558 |
-| Well Equipped | 0.30% | ~558 |
-| More Than Well Equipped | 0.30% | ~558 |
-| Keep Your Distance | 0.30% | ~558 |
-| The Sanctum of the Sword | 0.30% | ~558 |
-| Get Back In The Castle | 0.30% | ~558 |
-| Checkmate | 0.30% | ~558 |
-| Vecna Out! | 0.30% | ~558 |
+| Cold as Ice | 0.30% | ~559 |
+| Friends and Foes | 0.30% | ~559 |
+| Nightmare Rats! | 0.30% | ~559 |
+| An Unexpected Geist | 0.30% | ~559 |
+| Slack-jawed Lorna | 0.30% | ~559 |
+| The Fairy Rings of Thither | 0.30% | ~559 |
+| Will of the Feywild | 0.30% | ~559 |
+| The Roots of Loomlurch | 0.30% | ~559 |
+| Flapjacks and Waffles | 0.30% | ~559 |
+| Overwhelmed with Knowledge | 0.30% | ~559 |
+| Well Equipped | 0.30% | ~559 |
+| More Than Well Equipped | 0.30% | ~559 |
+| Keep Your Distance | 0.30% | ~559 |
+| The Sanctum of the Sword | 0.30% | ~559 |
+| Get Back In The Castle | 0.30% | ~559 |
+| Checkmate | 0.30% | ~559 |
+| Vecna Out! | 0.30% | ~559 |
 | Lobsterfolk Assault | 0.30% | ~660 |
 | Home Field Advantage | 0.30% | ~660 |
 | Force Grey Unleashed | 0.30% | ~660 |
 | Vajra's Guards | 0.30% | ~660 |
 | Sleuth It Out | 0.30% | ~660 |
-| The Newcomers of Notoriety | 0.30% | ~558 |
+| The Newcomers of Notoriety | 0.30% | ~559 |
 | Azaka's Procession - Part 1 | 0.30% | ~660 |
 | Azaka's Procession - Part 2 | 0.30% | ~660 |
 | The Hunt for Owl-y | 0.30% | ~660 |
@@ -139,7 +139,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | We're not in Faerûn Anymore | 0.30% | ~660 |
 | Chatty Nobles | 0.30% | ~660 |
 | Modron Assistance | 0.30% | ~660 |
-| Thine Bounty is Mine! | 0.30% | ~558 |
+| Thine Bounty is Mine! | 0.30% | ~559 |
 | Haaave You Met Asmodeus? | 0.30% | ~660 |
 | Domesticated Owlbears | 0.30% | ~660 |
 | The Immortal Warrior | 0.30% | ~660 |
@@ -164,22 +164,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.30% | ~660 |
 | Resolve Amongst Chaos | 0.30% | ~660 |
 | Market Fluctuations | 0.30% | ~660 |
-| Into The Fire | 0.30% | ~558 |
-| Dreamscape | 0.30% | ~558 |
-| The Everlasting Rime | 0.30% | ~558 |
+| Into The Fire | 0.30% | ~559 |
+| Dreamscape | 0.30% | ~559 |
+| The Everlasting Rime | 0.30% | ~559 |
 | Close Escort | 0.30% | ~660 |
 | Constant Banditry | 0.30% | ~660 |
 | The Long Haul | 0.30% | ~660 |
 | Rude Welcome | 0.30% | ~660 |
-| Moose Tracks | 0.30% | ~558 |
-| Civilization | 0.30% | ~558 |
+| Moose Tracks | 0.30% | ~559 |
+| Civilization | 0.30% | ~559 |
 | Durable Deep | 0.30% | ~660 |
 | Expert Opinion | 0.30% | ~660 |
-| Dwarven Rumors | 0.30% | ~558 |
+| Dwarven Rumors | 0.30% | ~559 |
 | The Haunted Jungle | 0.30% | ~660 |
 | Rescue in the Jungle | 0.30% | ~660 |
-| Willing to Sacrifice | 0.30% | ~558 |
-| Tiny Treaty | 0.30% | ~558 |
+| Willing to Sacrifice | 0.30% | ~559 |
+| Tiny Treaty | 0.30% | ~559 |
 | Back to Nature | 0.20% | ~372 |
 | A Monarch Among Us | 0.20% | ~372 |
 | A Dragon Against Us | 0.20% | ~372 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,887 (Ranked 52)  
+Progressed: 219,900 (Ranked 52)  
 Completed: 2,165 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 2,165 (0.98%) (Ranked 114)
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
-| 2023-08-08 | 219,887 | 2,165 |
+| 2023-08-08 | 219,900 | 2,165 |
 ## Awards
 Max (Diverse Characters): 5,125  (Ranked 67)  
 Sum: 30,942 (Ranked 38)  

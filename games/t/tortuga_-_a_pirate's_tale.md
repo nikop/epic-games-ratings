@@ -1,7 +1,7 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.77 (Ranked 958)  
+Rating: 3.77 (Ranked 959)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,7 +10,7 @@ Rating: 3.77 (Ranked 958)
 | Personal Matter | 86.00% | ~13,821 |
 | But You Have Heard of Me | 72.00% | ~11,571 |
 | Double the Barrels, double the Fun | 55.00% | ~8,839 |
-| Pimp My Glide | 47.00% | ~7,553 |
+| Pimp My Glide | 48.00% | ~7,714 |
 | ... And Where Do the Stories Come From? | 41.00% | ~6,589 |
 | House Party! | 34.00% | ~5,464 |
 | Make It Rain | 23.00% | ~3,696 |

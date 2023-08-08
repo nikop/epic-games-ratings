@@ -1,7 +1,7 @@
 # The First Tree
 [Store](https://store.epicgames.com/en-US/p/the-first-tree)  
 [View Rawdata](../../db/t/the_first_tree.json)  
-Rating: 3.98 (Ranked 931)  
+Rating: 3.98 (Ranked 932)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -21,7 +21,7 @@ Number of Ratings: 56  (23.09.2022)
 | Completionist | 0.40% | ~138 |
 | Deja Vu | 0.40% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,619 (Ranked 96)  
+Progressed: 34,620 (Ranked 96)  
 Completed: 106 (0.31%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 106 (0.31%) (Ranked 159)
 | 2023-08-05 | 34,511 | 106 |
 | 2023-08-06 | 34,564 | 106 |
 | 2023-08-07 | 34,601 | 106 |
-| 2023-08-08 | 34,619 | 106 |
+| 2023-08-08 | 34,620 | 106 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

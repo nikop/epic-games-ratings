@@ -16,8 +16,8 @@
 | Robot Bros | 25.00% | ~29 |
 | Act 2 | 24.00% | ~28 |
 | Harpoon | 21.00% | ~25 |
+| Act 3 | 21.00% | ~25 |
 | Cassette | 20.00% | ~23 |
-| Act 3 | 20.00% | ~23 |
 | Here we go again | 19.00% | ~22 |
 | Flyer | 17.00% | ~20 |
 | It’s in the Vault | 15.00% | ~18 |
@@ -29,8 +29,8 @@
 | Contract | 9.00% | ~11 |
 | Baseball | 9.00% | ~11 |
 | VHS blogger | 9.00% | ~11 |
+| New Dawn | 9.00% | ~11 |
 | Out of the loop | 8.00% | ~9 |
-| New Dawn | 8.00% | ~9 |
 | Leave me alone | 8.00% | ~9 |
 | Secret ending | 8.00% | ~9 |
 ## Popularity (Based on EOS Achievements)

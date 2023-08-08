@@ -4,7 +4,7 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 909,
+  "EOS_Progressed": 910,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2668,6 +2668,11 @@
       "Time": "2023-08-06T12:06:46.3505241+00:00",
       "NumProgressed": 909,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-08T15:08:05.7719166+00:00",
+      "NumProgressed": 910,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -2687,7 +2692,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "CHIEF",
@@ -2703,7 +2708,7 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "DEBTOR",
@@ -2719,7 +2724,7 @@
       "Name": "FIREFIGHTER",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "FIRST_100K",
@@ -2743,7 +2748,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "INTRODUCTION",
@@ -2767,7 +2772,7 @@
       "Name": "SUCCESSFUL",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "THINGS_ARE_GOING_WELL",
@@ -2775,7 +2780,7 @@
       "Name": "THINGS ARE GOING WELL",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "YETTI",
@@ -2790,7 +2795,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 909,
+      "Progressed": 910,
       "Completed": 0
     }
   ],
@@ -2798,8 +2803,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-08-08T14:06:42.6073299+00:00",
+  "LastChanged_Achievements": "2023-08-08T15:08:05.771916+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:20.2494965+00:00",
-  "LastUpdate_Ratings": "2023-08-08T13:59:49.9478931+00:00",
-  "LastUpdate_Achievements": "2023-08-08T14:06:42.6073535+00:00"
+  "LastUpdate_Ratings": "2023-08-08T15:00:46.1462092+00:00",
+  "LastUpdate_Achievements": "2023-08-08T15:08:05.7719786+00:00"
 }

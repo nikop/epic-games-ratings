@@ -6,50 +6,50 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~234,760 |
-| First Victory | 50.00% | ~234,760 |
-| Clean Sheet | 49.00% | ~230,065 |
-| He's Sold! | 48.00% | ~225,370 |
-| I'm The Boss! | 42.00% | ~197,199 |
-| Hat-trick | 41.00% | ~192,504 |
-| Scoring Streak | 38.00% | ~178,418 |
-| Unbeatable! | 37.00% | ~173,723 |
-| Thumping | 37.00% | ~173,723 |
-| Superb Dressing Room Atmosphere | 35.00% | ~164,332 |
-| Total Support | 32.00% | ~150,247 |
-| Record Signing | 32.00% | ~150,247 |
+| He's Signed! | 50.00% | ~234,762 |
+| First Victory | 50.00% | ~234,762 |
+| Clean Sheet | 49.00% | ~230,067 |
+| He's Sold! | 48.00% | ~225,372 |
+| I'm The Boss! | 42.00% | ~197,200 |
+| Hat-trick | 41.00% | ~192,505 |
+| Scoring Streak | 38.00% | ~178,419 |
+| Unbeatable! | 37.00% | ~173,724 |
+| Thumping | 37.00% | ~173,724 |
+| Superb Dressing Room Atmosphere | 35.00% | ~164,333 |
+| Total Support | 32.00% | ~150,248 |
+| Record Signing | 32.00% | ~150,248 |
 | Millionaire's Club | 31.00% | ~145,552 |
-| Team Performance | 30.00% | ~140,856 |
-| He's a Natural | 30.00% | ~140,856 |
-| Parked The Bus | 29.00% | ~136,161 |
-| Shrewd Spender | 29.00% | ~136,161 |
-| Star Man | 29.00% | ~136,161 |
-| Attack! | 28.00% | ~131,466 |
-| You're On Fire | 26.00% | ~122,075 |
-| On A Roll | 26.00% | ~122,075 |
-| Tremendous Trio | 26.00% | ~122,075 |
-| Unstoppable Force | 26.00% | ~122,075 |
-| Record Sale | 26.00% | ~122,075 |
-| Fantastic Five | 24.00% | ~112,685 |
-| Full Faith | 24.00% | ~112,685 |
-| The Boss | 24.00% | ~112,685 |
-| Armchair Expert | 24.00% | ~112,685 |
-| Iron Curtain | 23.00% | ~107,990 |
-| Goal Machine | 23.00% | ~107,990 |
+| Team Performance | 30.00% | ~140,857 |
+| He's a Natural | 30.00% | ~140,857 |
+| Parked The Bus | 29.00% | ~136,162 |
+| Shrewd Spender | 29.00% | ~136,162 |
+| Star Man | 29.00% | ~136,162 |
+| Attack! | 28.00% | ~131,467 |
+| You're On Fire | 26.00% | ~122,076 |
+| On A Roll | 26.00% | ~122,076 |
+| Tremendous Trio | 26.00% | ~122,076 |
+| Unstoppable Force | 26.00% | ~122,076 |
+| Record Sale | 26.00% | ~122,076 |
+| Fantastic Five | 24.00% | ~112,686 |
+| Full Faith | 24.00% | ~112,686 |
+| The Boss | 24.00% | ~112,686 |
+| Armchair Expert | 24.00% | ~112,686 |
+| Iron Curtain | 23.00% | ~107,991 |
+| Goal Machine | 23.00% | ~107,991 |
 | What A Goal! | 22.00% | ~103,295 |
 | Top Of The Class | 22.00% | ~103,295 |
 | Cup Glory! | 22.00% | ~103,295 |
-| Splashing The Cash | 21.00% | ~98,599 |
-| Clean Bill of Health | 21.00% | ~98,599 |
-| Irresistible Force | 20.00% | ~93,904 |
-| Excellent Match Cohesion | 20.00% | ~93,904 |
-| Do The Double | 19.00% | ~89,209 |
+| Splashing The Cash | 21.00% | ~98,600 |
+| Clean Bill of Health | 21.00% | ~98,600 |
+| Irresistible Force | 20.00% | ~93,905 |
+| Excellent Match Cohesion | 20.00% | ~93,905 |
+| Do The Double | 19.00% | ~89,210 |
 | Top Form | 17.00% | ~79,819 |
 | Cash To Burn | 17.00% | ~79,819 |
-| Beating Expectations | 15.00% | ~70,428 |
-| Overachiever! | 15.00% | ~70,428 |
-| Rushed signing | 15.00% | ~70,428 |
-| Window Shopping | 15.00% | ~70,428 |
+| Beating Expectations | 15.00% | ~70,429 |
+| Overachiever! | 15.00% | ~70,429 |
+| Rushed signing | 15.00% | ~70,429 |
+| Window Shopping | 15.00% | ~70,429 |
 | Eyes and Ears | 14.00% | ~65,733 |
 | Comeback King! | 13.00% | ~61,038 |
 | You're Up! | 13.00% | ~61,038 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~470 |
 | Shoestring Budget | 0.10% | ~470 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469,521 (Ranked 36)  
+Progressed: 469,524 (Ranked 36)  
 Completed: 19 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 19 (0.00%) (Ranked 251)
 | 2023-08-05 | 469,254 | 19 |
 | 2023-08-06 | 469,370 | 19 |
 | 2023-08-07 | 469,484 | 19 |
-| 2023-08-08 | 469,521 | 19 |
+| 2023-08-08 | 469,524 | 19 |
 ## Awards
 Max (Relaxing): 6,390  (Ranked 53)  
 Sum: 50,315 (Ranked 24)  

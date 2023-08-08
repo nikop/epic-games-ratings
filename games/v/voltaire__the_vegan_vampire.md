@@ -7,31 +7,31 @@
 | So it begins | 94.00% | ~103 |
 | Good to grow | 63.00% | ~69 |
 | Fashionista | 41.00% | ~45 |
-| Irrigation not irritation | 36.00% | ~40 |
+| Irrigation not irritation | 37.00% | ~41 |
 | Graduated | 33.00% | ~36 |
 | Night Shift | 24.00% | ~26 |
 | Shine bright | 15.00% | ~16 |
 | Ay ay yarrr! | 13.00% | ~14 |
 | It's about the journey | 12.00% | ~13 |
-| C'who? | 9.00% | ~10 |
+| C'who? | 10.00% | ~11 |
 | There be sand in me shorts | 9.00% | ~10 |
 | Make it rain | 7.00% | ~8 |
+| Holy Crops! | 7.00% | ~8 |
 | It gets everywhere | 7.00% | ~8 |
-| Holy Crops! | 6.00% | ~7 |
 | Peaceful skies | 5.00% | ~6 |
 | Do you wanna build a snowboiii? | 5.00% | ~6 |
 | Groovy! | 4.00% | ~4 |
+| It's a bug's life | 4.00% | ~4 |
 | Who let the pets out? | 3.00% | ~3 |
-| It's a bug's life | 3.00% | ~3 |
+| Veggie Master | 2.00% | ~2 |
 | Homecoming | 2.00% | ~2 |
 | I am Root! | 2.00% | ~2 |
 | Tururururu! | 2.00% | ~2 |
 | Zap! | 2.00% | ~2 |
-| Veggie Master | 0.90% | ~1 |
+| V is for Vegan | 2.00% | ~2 |
 | Yeehaw! | 0.90% | ~1 |
 | Yeetus Deletus | 0.90% | ~1 |
 | Best in the field | 0.90% | ~1 |
-| V is for Vegan | 0.90% | ~1 |
 | Fauna Connoisseur | 0.00% | ~0 |
 | Daddy Issues | 0.00% | ~0 |
 | Free Spirit | 0.00% | ~0 |

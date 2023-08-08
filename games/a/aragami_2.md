@@ -1,44 +1,44 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 487)  
+Rating: 4.55 (Ranked 486)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~37,379 |
-| First Steps | 80.00% | ~32,154 |
-| Control the Shadows | 67.00% | ~26,929 |
-| Tools of the Trade | 63.00% | ~25,321 |
-| Apprentice | 60.00% | ~24,115 |
-| Secret Seeker | 57.00% | ~22,909 |
-| Forge of Assassins | 55.00% | ~22,106 |
-| Revenant | 52.00% | ~20,900 |
-| I don’t Care! | 45.00% | ~18,086 |
-| Bird of Prey | 37.00% | ~14,871 |
-| Engraved with Power | 32.00% | ~12,861 |
-| Lady | 31.00% | ~12,460 |
-| Fashionable Assassin | 27.00% | ~10,852 |
-| Apex Predator | 24.00% | ~9,646 |
-| Soul Reaver | 22.00% | ~8,842 |
-| Embers | 21.00% | ~8,440 |
-| Wall Lizard | 20.00% | ~8,038 |
-| Clinging to Life | 18.00% | ~7,235 |
-| Burning | 17.00% | ~6,833 |
-| Look Behind You | 16.00% | ~6,431 |
-| Sleeping on the Job | 16.00% | ~6,431 |
-| Family | 14.00% | ~5,627 |
-| War Engines | 14.00% | ~5,627 |
-| Signature Move | 14.00% | ~5,627 |
-| Ruse | 11.00% | ~4,421 |
-| Master Ninja | 10.00% | ~4,019 |
-| Hatching | 9.00% | ~3,617 |
-| Bonds | 9.00% | ~3,617 |
-| Get Over Here | 9.00% | ~3,617 |
-| The Hidden Village | 9.00% | ~3,617 |
-| Denouement | 8.00% | ~3,215 |
-| A Pleasant Stay | 8.00% | ~3,215 |
-| Pilgrimage | 7.00% | ~2,813 |
+| Awakening | 93.00% | ~37,384 |
+| First Steps | 80.00% | ~32,158 |
+| Control the Shadows | 67.00% | ~26,933 |
+| Tools of the Trade | 63.00% | ~25,325 |
+| Apprentice | 60.00% | ~24,119 |
+| Secret Seeker | 57.00% | ~22,913 |
+| Forge of Assassins | 55.00% | ~22,109 |
+| Revenant | 52.00% | ~20,903 |
+| I don’t Care! | 45.00% | ~18,089 |
+| Bird of Prey | 37.00% | ~14,873 |
+| Engraved with Power | 32.00% | ~12,863 |
+| Lady | 31.00% | ~12,461 |
+| Fashionable Assassin | 27.00% | ~10,853 |
+| Apex Predator | 24.00% | ~9,648 |
+| Soul Reaver | 22.00% | ~8,844 |
+| Embers | 21.00% | ~8,442 |
+| Wall Lizard | 20.00% | ~8,040 |
+| Clinging to Life | 18.00% | ~7,236 |
+| Burning | 17.00% | ~6,834 |
+| Look Behind You | 16.00% | ~6,432 |
+| Sleeping on the Job | 16.00% | ~6,432 |
+| Family | 14.00% | ~5,628 |
+| War Engines | 14.00% | ~5,628 |
+| Signature Move | 14.00% | ~5,628 |
+| Ruse | 11.00% | ~4,422 |
+| Master Ninja | 10.00% | ~4,020 |
+| Hatching | 9.00% | ~3,618 |
+| Bonds | 9.00% | ~3,618 |
+| Get Over Here | 9.00% | ~3,618 |
+| The Hidden Village | 9.00% | ~3,618 |
+| Denouement | 8.00% | ~3,216 |
+| A Pleasant Stay | 8.00% | ~3,216 |
+| Pilgrimage | 7.00% | ~2,814 |
 | The Lookout | 5.00% | ~2,010 |
 | The Spirit of Vengeance | 5.00% | ~2,010 |
 | Hollow | 5.00% | ~2,010 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~402 |
 | Anger Management | 1.00% | ~402 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,192 (Ranked 92)  
+Progressed: 40,198 (Ranked 92)  
 Completed: 206 (0.51%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 206 (0.51%) (Ranked 138)
 | 2023-08-05 | 39,939 | 202 |
 | 2023-08-06 | 40,066 | 205 |
 | 2023-08-07 | 40,145 | 206 |
-| 2023-08-08 | 40,192 | 206 |
+| 2023-08-08 | 40,198 | 206 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

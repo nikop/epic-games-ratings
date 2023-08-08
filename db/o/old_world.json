@@ -1575,7 +1575,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13326,
+  "EOS_Progressed": 13327,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
@@ -9335,6 +9335,11 @@
       "Time": "2023-08-08T12:03:41.5638864+00:00",
       "NumProgressed": 13326,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-08T15:04:18.0071277+00:00",
+      "NumProgressed": 13327,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -9904,9 +9909,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
       "SetID": "9201eeb",
       "Name": "Mighty",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
@@ -10688,25 +10693,25 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
       "SetID": "9201eeb",
       "Name": "Colossus",
-      "Percentage": 0.8,
-      "XP": 5,
-      "UsersEstimate": 107
-    },
-    {
-      "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
-      "SetID": "9201eeb",
-      "Name": "Great Ziggurat",
       "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 120
     },
     {
+      "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
+      "SetID": "9201eeb",
+      "Name": "Great Ziggurat",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 133
+    },
+    {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
       "SetID": "9201eeb",
       "Name": "Hagia Sophia",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
@@ -10984,9 +10989,9 @@
       "ID": "ACHIEVEMENT_NATION_HITTITE",
       "SetID": "9201eeb",
       "Name": "Hatti",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_NATION_PERSIA",
@@ -11416,9 +11421,9 @@
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
       "SetID": "9201eeb",
       "Name": "Legionary",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -11713,21 +11718,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13326,
+      "Progressed": 13327,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13326,
+      "Progressed": 13327,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-01T16:59:10.6733314+00:00",
-  "LastChanged_Achievements": "2023-08-08T14:03:40.4262461+00:00",
+  "LastChanged_Achievements": "2023-08-08T15:04:18.0071268+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:46.1485999+00:00",
-  "LastUpdate_Ratings": "2023-08-08T13:58:37.1852882+00:00",
-  "LastUpdate_Achievements": "2023-08-08T14:03:40.4269922+00:00"
+  "LastUpdate_Ratings": "2023-08-08T14:59:12.6294384+00:00",
+  "LastUpdate_Achievements": "2023-08-08T15:04:18.0081278+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16137,
+  "EOS_Progressed": 16139,
   "EOS_Completed": 101,
   "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 1,
@@ -8772,6 +8772,11 @@
       "Time": "2023-08-08T13:10:26.9722463+00:00",
       "NumProgressed": 16137,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-08-08T15:06:01.4821667+00:00",
+      "NumProgressed": 16139,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 16,
@@ -8783,7 +8788,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4357
+      "UsersEstimate": 4358
     },
     {
       "ID": "Burning_For_You",
@@ -8791,15 +8796,15 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4518
+      "UsersEstimate": 4519
     },
     {
       "ID": "Deadline",
       "SetID": "96f13ae",
       "Name": "Deadline",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 2421
+      "UsersEstimate": 2259
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -8807,7 +8812,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "Eyes_On_Fire",
@@ -8831,7 +8836,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5325
+      "UsersEstimate": 5326
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -8879,7 +8884,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 8230
+      "UsersEstimate": 8231
     },
     {
       "ID": "Sole_Survivor",
@@ -8910,15 +8915,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 16137,
+      "Progressed": 16139,
       "Completed": 101
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-08-08T14:05:01.8505598+00:00",
+  "LastChanged_Achievements": "2023-08-08T15:06:01.4821655+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:58.3251375+00:00",
-  "LastUpdate_Ratings": "2023-08-08T13:59:32.4967585+00:00",
-  "LastUpdate_Achievements": "2023-08-08T14:05:01.8506083+00:00"
+  "LastUpdate_Ratings": "2023-08-08T15:00:24.8476418+00:00",
+  "LastUpdate_Achievements": "2023-08-08T15:06:01.4822345+00:00"
 }

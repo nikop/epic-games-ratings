@@ -33,6 +33,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 1.00% | ~133 |
 | Strong Cities | 1.00% | ~133 |
 | Able Difficulty | 1.00% | ~133 |
+| Great Ziggurat | 1.00% | ~133 |
 | Hanging Gardens | 1.00% | ~133 |
 | Ishtar Gate | 1.00% | ~133 |
 | Lighthouse | 1.00% | ~133 |
@@ -51,7 +52,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 1.00% | ~133 |
 | Brilliant | 0.90% | ~120 |
 | Great | 0.90% | ~120 |
-| Great Ziggurat | 0.90% | ~120 |
+| Colossus | 0.90% | ~120 |
 | Musaeum | 0.90% | ~120 |
 | Necropolis | 0.90% | ~120 |
 | Manichaeism | 0.90% | ~120 |
@@ -61,7 +62,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.80% | ~107 |
 | Furious Family | 0.80% | ~107 |
 | Apadana | 0.80% | ~107 |
-| Colossus | 0.80% | ~107 |
 | Drillmaster | 0.70% | ~93 |
 | Intercessor | 0.70% | ~93 |
 | Valiant | 0.70% | ~93 |
@@ -75,13 +75,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.70% | ~93 |
 | Hanging Gardens in Babylon | 0.60% | ~80 |
 | Conqueror | 0.60% | ~80 |
+| Mighty | 0.60% | ~80 |
 | Champions | 0.60% | ~80 |
 | Persian Paganism | 0.60% | ~80 |
 | Building Wonders | 0.60% | ~80 |
 | Phalangite | 0.60% | ~80 |
 | Beloved | 0.50% | ~67 |
 | Lion | 0.50% | ~67 |
-| Mighty | 0.50% | ~67 |
 | Subjugator | 0.50% | ~67 |
 | Victorious | 0.50% | ~67 |
 | Good Difficulty | 0.50% | ~67 |
@@ -89,6 +89,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.50% | ~67 |
 | Traders | 0.50% | ~67 |
 | Hittite Iron | 0.50% | ~67 |
+| Hagia Sophia | 0.50% | ~67 |
 | Temple of Solomon | 0.50% | ~67 |
 | Pantheon | 0.50% | ~67 |
 | Via Recta Souk | 0.50% | ~67 |
@@ -96,6 +97,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.50% | ~67 |
 | Legalism | 0.50% | ~67 |
 | Cimmerian Archer | 0.50% | ~67 |
+| Legionary | 0.50% | ~67 |
 | Double Victory | 0.50% | ~67 |
 | Capable | 0.40% | ~53 |
 | Devout | 0.40% | ~53 |
@@ -106,7 +108,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.40% | ~53 |
 | Riders | 0.40% | ~53 |
 | Circus Maximus | 0.40% | ~53 |
-| Hagia Sophia | 0.40% | ~53 |
 | Church of the Holy Sepulchre | 0.40% | ~53 |
 | Adur Burzen-Mihr | 0.40% | ~53 |
 | Learn to Play 3 | 0.40% | ~53 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.40% | ~53 |
 | Revelation | 0.40% | ~53 |
 | Veneration | 0.40% | ~53 |
-| Legionary | 0.40% | ~53 |
 | Ambition Victory | 0.40% | ~53 |
 | Win a Single Player Game | 0.40% | ~53 |
 | Bad Heir Day | 0.30% | ~40 |
@@ -148,6 +148,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Nenikekamen | 0.20% | ~27 |
 | Cao'an | 0.20% | ~27 |
 | Learn to Play 5 | 0.20% | ~27 |
+| Hatti | 0.20% | ~27 |
 | Persia | 0.20% | ~27 |
 | Old World Order | 0.20% | ~27 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~27 |
@@ -243,7 +244,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Merchants of the Levant | 0.10% | ~13 |
 | Realistic Mortality | 0.10% | ~13 |
 | Assyria | 0.10% | ~13 |
-| Hatti | 0.10% | ~13 |
 | Pantheon of Gods | 0.10% | ~13 |
 | Apadana in Parsa | 0.10% | ~13 |
 | Play a 1-v-1 Game | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,326 (Ranked 117)  
+Progressed: 13,327 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -413,7 +413,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-05 | 13,281 | 5 |
 | 2023-08-06 | 13,301 | 5 |
 | 2023-08-07 | 13,317 | 5 |
-| 2023-08-08 | 13,326 | 5 |
+| 2023-08-08 | 13,327 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,786 (Ranked 206)  
