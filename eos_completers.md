@@ -6,7 +6,7 @@
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 23.60% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 23.33% |
 | 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 21.05% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
@@ -35,7 +35,7 @@
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
 | 34 | [Ravenlok](games/r/ravenlok.md) | 7.40% |
 | 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.07% |
-| 36 | [Scorn](games/s/scorn.md) | 6.97% |
+| 36 | [Scorn](games/s/scorn.md) | 6.96% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.90% |
 | 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.40% |
@@ -62,14 +62,14 @@
 | 60 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.40% |
 | 61 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
 | 62 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
-| 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.12% |
-| 63 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.12% |
-| 65 | [The Complex](games/t/the_complex.md) | 3.03% |
-| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
-| 67 | [Monster Harvest](games/m/monster_harvest.md) | 2.96% |
-| 68 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 69 | [HordeCore](games/h/hordecore.md) | 2.87% |
-| 69 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.87% |
+| 63 | [HordeCore](games/h/hordecore.md) | 3.15% |
+| 64 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.12% |
+| 64 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.12% |
+| 66 | [The Complex](games/t/the_complex.md) | 3.03% |
+| 67 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
+| 68 | [Monster Harvest](games/m/monster_harvest.md) | 2.96% |
+| 69 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 70 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.87% |
 | 71 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 72 | [Destiny 2](games/d/destiny_2.md) | 2.75% |
 | 73 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
