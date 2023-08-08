@@ -175,8 +175,8 @@ Completed: 3 (0.00%) (Ranked 251)
 | 2023-08-08 | 254,509 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 35  (Ranked 436)  
-Sum: 214 (Ranked 363)  
-Diff (max vs sum): 73  
+Sum: 215 (Ranked 362)  
+Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 35 |
@@ -186,7 +186,7 @@ Diff (max vs sum): 73
 | This game is Highly Recommended | 26 |
 | This game has Quickly Understood Controls | 22 |
 | This game has a Competitive Community | 22 |
-| This game has Competitive Players | 20 |
+| This game has Competitive Players | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -296,3 +296,4 @@ Diff (max vs sum): 73
 | 2023-07-30 | 4.43 | 34 | 209 |
 | 2023-07-31 | 4.43 | 35 | 213 |
 | 2023-08-03 | 4.43 | 35 | 214 |
+| 2023-08-08 | 4.43 | 35 | 215 |

@@ -6,15 +6,15 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,145 |
-| Thorough | 10.00% | ~19,223 |
-| A thief's beginning | 9.00% | ~17,301 |
-| Disguised | 8.00% | ~15,378 |
-| Rollin' | 8.00% | ~15,378 |
-| Tanuki Time | 8.00% | ~15,378 |
-| Jonin | 7.00% | ~13,456 |
-| Rescue Takuma | 7.00% | ~13,456 |
-| Stoned Ox | 7.00% | ~13,456 |
+| Genin | 11.00% | ~21,147 |
+| Thorough | 10.00% | ~19,224 |
+| A thief's beginning | 9.00% | ~17,302 |
+| Disguised | 8.00% | ~15,379 |
+| Rollin' | 8.00% | ~15,379 |
+| Tanuki Time | 8.00% | ~15,379 |
+| Jonin | 7.00% | ~13,457 |
+| Rescue Takuma | 7.00% | ~13,457 |
+| Stoned Ox | 7.00% | ~13,457 |
 | Chunin | 6.00% | ~11,534 |
 | Happy Planning | 6.00% | ~11,534 |
 | Ice Ice Yuki | 6.00% | ~11,534 |
@@ -23,10 +23,10 @@ Number of Ratings: 495  (23.09.2022)
 | Mugen Unchained | 5.00% | ~9,612 |
 | Okkoto | 5.00% | ~9,612 |
 | Warzone | 5.00% | ~9,612 |
-| Gear up | 4.00% | ~7,689 |
-| Happy little accidents | 4.00% | ~7,689 |
-| Prisoners | 4.00% | ~7,689 |
-| Too Early | 4.00% | ~7,689 |
+| Gear up | 4.00% | ~7,690 |
+| Happy little accidents | 4.00% | ~7,690 |
+| Prisoners | 4.00% | ~7,690 |
+| Too Early | 4.00% | ~7,690 |
 | Noboru | 3.00% | ~5,767 |
 | Still Rollin' | 3.00% | ~5,767 |
 | Stoned | 3.00% | ~5,767 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~192 |
 | Release the Kraken | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192,230 (Ranked 59)  
+Progressed: 192,241 (Ranked 59)  
 Completed: 67 (0.03%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 67 (0.03%) (Ranked 225)
 | 2023-08-05 | 191,476 | 66 |
 | 2023-08-06 | 191,807 | 66 |
 | 2023-08-07 | 192,052 | 66 |
-| 2023-08-08 | 192,230 | 67 |
+| 2023-08-08 | 192,241 | 67 |
 ## Awards
 Max (Great for Beginners): 560  (Ranked 186)  
 Sum: 4,723 (Ranked 134)  

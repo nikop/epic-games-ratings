@@ -991,9 +991,9 @@
       "ID": "ACH_COLLECT_100_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Master",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -1015,9 +1015,9 @@
       "ID": "ACH_COLLECT_20_RED_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Master Of Technology",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
@@ -1119,9 +1119,9 @@
       "ID": "ACH_KILL_50",
       "SetID": "7c4cldc",
       "Name": "Robot Destroyer",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -1216,8 +1216,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-08-08T19:03:30.4489257+00:00",
+  "LastChanged_Achievements": "2023-08-08T20:03:32.6458338+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.384525+00:00",
-  "LastUpdate_Ratings": "2023-08-08T18:58:59.3385113+00:00",
-  "LastUpdate_Achievements": "2023-08-08T19:03:30.44896+00:00"
+  "LastUpdate_Ratings": "2023-08-08T19:58:49.5210685+00:00",
+  "LastUpdate_Achievements": "2023-08-08T20:03:32.645861+00:00"
 }

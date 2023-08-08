@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 19,
   "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-30T07:00:00+00:00",
@@ -5052,10 +5052,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 77302,
       "NumberOfAwardsMax": 16821
+    },
+    {
+      "Time": "2023-08-08T20:00:23.2709586+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 77336,
+      "NumberOfAwardsMax": 16821
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 77302,
+  "NumberOfAwards": 77336,
   "NumberOfAwardsMax": 16821,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5105,7 +5111,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 11973
+      "Count": 12007
     }
   ],
   "EOS_Progressed": 0,
@@ -5128,9 +5134,9 @@
   "FirstSeen": "2022-09-30T07:01:34.8859438+00:00",
   "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
   "FirstSeenAchievements": "2023-06-30T22:04:55.4343947+00:00",
-  "LastChanged": "2023-08-08T18:01:33.1826973+00:00",
-  "LastChanged_Achievements": "2023-08-08T19:04:30.7398033+00:00",
+  "LastChanged": "2023-08-08T20:00:23.2709584+00:00",
+  "LastChanged_Achievements": "2023-08-08T20:04:22.2674494+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:17.0996815+00:00",
-  "LastUpdate_Ratings": "2023-08-08T19:00:30.8856316+00:00",
-  "LastUpdate_Achievements": "2023-08-08T19:04:30.7398083+00:00"
+  "LastUpdate_Ratings": "2023-08-08T20:00:23.2709594+00:00",
+  "LastUpdate_Achievements": "2023-08-08T20:04:22.2674532+00:00"
 }

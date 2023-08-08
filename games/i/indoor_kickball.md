@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Hat Unlocked | 83.00% | ~70 |
+| Accessory Unlocked | 82.00% | ~69 |
 | Character Unlocked | 81.00% | ~68 |
-| Accessory Unlocked | 81.00% | ~68 |
 | Settle Down | 74.00% | ~62 |
 | Homer | 73.00% | ~61 |
 | Butter Fingers | 71.00% | ~60 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84 (Ranked 332)  
+Progressed: 84 (Ranked 333)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,7 +4,7 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84,
+  "EOS_Progressed": 85,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -416,6 +416,11 @@
       "Time": "2023-08-06T19:05:53.8558642+00:00",
       "NumProgressed": 84,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-08T20:04:37.5332054+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 34,
@@ -457,7 +462,7 @@
       "ID": "Ach_BossGolem",
       "SetID": "4o5gjp0",
       "Name": "Rock Solid",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 25
     },
@@ -465,7 +470,7 @@
       "ID": "Ach_BossSlug",
       "SetID": "4o5gjp0",
       "Name": "\u0022Swoosh\u0022",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 20,
       "UsersEstimate": 51
     },
@@ -491,7 +496,7 @@
       "Name": "Pigeon",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Ach_CallBeggarNothingToSell",
@@ -505,7 +510,7 @@
       "ID": "Ach_DarkPoulpeConstellation",
       "SetID": "4o5gjp0",
       "Name": "The beast within",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -523,13 +528,13 @@
       "Name": "A bottomless pit",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Ach_DiscoveryCaverns",
       "SetID": "4o5gjp0",
       "Name": "The light at the end of the tunnel",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
       "UsersEstimate": 50
     },
@@ -537,7 +542,7 @@
       "ID": "Ach_DiscoveryCelestialIsland",
       "SetID": "4o5gjp0",
       "Name": "Rooftop",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -553,7 +558,7 @@
       "ID": "Ach_DiscoveryTemple",
       "SetID": "4o5gjp0",
       "Name": "It\u0027s getting dark",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -563,7 +568,7 @@
       "Name": "A path of no return",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Ach_DiveDeath",
@@ -587,7 +592,7 @@
       "Name": "Baited",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Ach_FinalBossHand",
@@ -635,7 +640,7 @@
       "Name": "Splash!",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Ach_OptionalDialogRead",
@@ -649,7 +654,7 @@
       "ID": "Ach_SkullGoal",
       "SetID": "4o5gjp0",
       "Name": "Gooooooaaaaal!!!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -657,7 +662,7 @@
       "ID": "Ach_SoulPotBeggarHouse",
       "SetID": "4o5gjp0",
       "Name": "Payback",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
       "UsersEstimate": 19
     },
@@ -698,14 +703,14 @@
     {
       "ID": "4o5gjp0",
       "IsBase": true,
-      "Progressed": 84,
+      "Progressed": 85,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-08-08T19:04:44.8691809+00:00",
+  "LastChanged_Achievements": "2023-08-08T20:04:37.5332049+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:55.0615333+00:00",
-  "LastUpdate_Ratings": "2023-08-08T18:58:39.8588225+00:00",
-  "LastUpdate_Achievements": "2023-08-08T19:04:44.8692131+00:00"
+  "LastUpdate_Ratings": "2023-08-08T19:58:31.0071206+00:00",
+  "LastUpdate_Achievements": "2023-08-08T20:04:37.533234+00:00"
 }

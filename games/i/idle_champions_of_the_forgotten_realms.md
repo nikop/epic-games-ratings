@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~10,998 |
+| A Brief Tour of the Realms | 5.00% | ~10,999 |
 | Beast Intentions | 3.00% | ~6,599 |
-| Maddening | 2.00% | ~4,399 |
+| Maddening | 2.00% | ~4,400 |
 | The Silken Swamp | 1.00% | ~2,200 |
 | Supply Run | 1.00% | ~2,200 |
-| Vecna Lives! | 1.00% | ~1,862 |
-| Rocky Reception | 1.00% | ~1,862 |
-| Rock and Roll | 1.00% | ~1,862 |
+| Vecna Lives! | 1.00% | ~1,863 |
+| Rocky Reception | 1.00% | ~1,863 |
+| Rock and Roll | 1.00% | ~1,863 |
 | Tall Tales | 0.90% | ~1,676 |
 | Vecna Loots! | 0.90% | ~1,676 |
 | Flight of the Kindori Pod | 0.90% | ~1,676 |
@@ -36,8 +36,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Champion's Guide to Wildspace | 0.70% | ~1,304 |
 | Don't Look Up! | 0.60% | ~1,320 |
 | Heavy Burden | 0.60% | ~1,320 |
-| The Evacuation of Waterdeep | 0.60% | ~1,117 |
-| The Dread Domain of Tovag | 0.60% | ~1,117 |
+| The Evacuation of Waterdeep | 0.60% | ~1,118 |
+| The Dread Domain of Tovag | 0.60% | ~1,118 |
 | Beast Mode | 0.60% | ~1,320 |
 | Low Initiative | 0.60% | ~1,320 |
 | Street War | 0.60% | ~1,320 |
@@ -46,7 +46,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.60% | ~1,320 |
 | The Botched Kidnapping | 0.60% | ~1,320 |
 | The Ring of Regeneration | 0.60% | ~1,320 |
-| Krux's Speed Run | 0.60% | ~1,117 |
+| Krux's Speed Run | 0.60% | ~1,118 |
 | Thieves of the Coven | 0.50% | ~931 |
 | A Demi-god's Defender | 0.50% | ~931 |
 | Friends of the Forest | 0.50% | ~1,100 |
@@ -86,6 +86,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Captured! | 0.40% | ~880 |
 | A Grand Puzzle | 0.40% | ~880 |
 | Tomb of the Nine Gods | 0.40% | ~880 |
+| The Immortal Warrior | 0.40% | ~880 |
 | Tower on the Lake | 0.40% | ~880 |
 | Trollskull Manor | 0.40% | ~880 |
 | Attack on the Manor | 0.40% | ~880 |
@@ -144,7 +145,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thine Bounty is Mine! | 0.30% | ~559 |
 | Haaave You Met Asmodeus? | 0.30% | ~660 |
 | Domesticated Owlbears | 0.30% | ~660 |
-| The Immortal Warrior | 0.30% | ~660 |
 | The Wyrmheart Mine | 0.30% | ~660 |
 | Seeds of Deceit | 0.30% | ~660 |
 | Treasure Hunters | 0.30% | ~660 |
@@ -180,43 +180,43 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Haunted Jungle | 0.30% | ~660 |
 | Willing to Sacrifice | 0.30% | ~559 |
 | Tiny Treaty | 0.30% | ~559 |
-| Back to Nature | 0.20% | ~372 |
-| A Monarch Among Us | 0.20% | ~372 |
-| A Dragon Against Us | 0.20% | ~372 |
-| Sticky Fingers | 0.20% | ~372 |
-| Patron Party | 0.20% | ~372 |
-| Don't Breathe the Marsh Gas | 0.20% | ~372 |
-| The Spire of Iriolarthas | 0.20% | ~372 |
-| The Fall of Ythryn | 0.20% | ~372 |
-| A Lesson in Classes | 0.20% | ~372 |
-| Bully for You! | 0.20% | ~372 |
-| The Dark Heart | 0.20% | ~372 |
-| The Alien Underdark | 0.20% | ~372 |
-| The Oozing Hunger | 0.20% | ~372 |
-| Best Laid Plans | 0.20% | ~372 |
-| The Howling Peaks of Yon | 0.20% | ~372 |
-| Arcane Efforts | 0.20% | ~372 |
-| To Avernus in a Handbasket | 0.20% | ~372 |
-| Hands Off! | 0.20% | ~372 |
-| Weak Doesn't Mean Feeble | 0.20% | ~372 |
-| Frail Doesn't Mean Broken | 0.20% | ~372 |
-| Unreasonable Doesn't Mean Stupid | 0.20% | ~372 |
-| Clowning Around | 0.20% | ~372 |
+| Back to Nature | 0.20% | ~373 |
+| A Monarch Among Us | 0.20% | ~373 |
+| A Dragon Against Us | 0.20% | ~373 |
+| Sticky Fingers | 0.20% | ~373 |
+| Patron Party | 0.20% | ~373 |
+| Don't Breathe the Marsh Gas | 0.20% | ~373 |
+| The Spire of Iriolarthas | 0.20% | ~373 |
+| The Fall of Ythryn | 0.20% | ~373 |
+| A Lesson in Classes | 0.20% | ~373 |
+| Bully for You! | 0.20% | ~373 |
+| The Dark Heart | 0.20% | ~373 |
+| The Alien Underdark | 0.20% | ~373 |
+| The Oozing Hunger | 0.20% | ~373 |
+| Best Laid Plans | 0.20% | ~373 |
+| The Howling Peaks of Yon | 0.20% | ~373 |
+| Arcane Efforts | 0.20% | ~373 |
+| To Avernus in a Handbasket | 0.20% | ~373 |
+| Hands Off! | 0.20% | ~373 |
+| Weak Doesn't Mean Feeble | 0.20% | ~373 |
+| Frail Doesn't Mean Broken | 0.20% | ~373 |
+| Unreasonable Doesn't Mean Stupid | 0.20% | ~373 |
+| Clowning Around | 0.20% | ~373 |
 | Anti-Dexterous Explorers | 0.20% | ~440 |
 | Struggling Toward Omu | 0.20% | ~440 |
 | Not Very Charming | 0.20% | ~440 |
 | Periodic Petrification | 0.20% | ~440 |
 | Double Vision | 0.20% | ~440 |
 | Never Split the Party | 0.20% | ~440 |
-| Snakes on our Plane | 0.20% | ~372 |
+| Snakes on our Plane | 0.20% | ~373 |
 | Haunted Fortunes | 0.20% | ~440 |
 | Poor Fortune | 0.20% | ~440 |
 | Relentless Misfortune | 0.20% | ~440 |
-| This Quest Stinks! | 0.20% | ~372 |
+| This Quest Stinks! | 0.20% | ~373 |
 | Hold for the Red Wizards | 0.20% | ~440 |
 | The Gargoyle's Apprentice | 0.20% | ~440 |
 | House of Darkness | 0.20% | ~440 |
-| Home Not So Alone | 0.20% | ~372 |
+| Home Not So Alone | 0.20% | ~373 |
 | The Trepidatious Trio | 0.20% | ~440 |
 | Our Time To Shine | 0.20% | ~440 |
 | The Guardian of Orolunga | 0.20% | ~440 |
@@ -238,36 +238,36 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dark Doppelgangers | 0.20% | ~440 |
 | Once More Into The Breach | 0.20% | ~440 |
 | Wyllowwood | 0.20% | ~440 |
-| An Illithid Undertaking | 0.20% | ~372 |
-| Déjà Vu | 0.20% | ~372 |
-| The Path of Dreams | 0.20% | ~372 |
-| The Lost Hollyphant | 0.20% | ~372 |
-| Alterdeep | 0.20% | ~372 |
-| The Wandering Emporium | 0.20% | ~372 |
-| Tiamat's Army | 0.20% | ~372 |
-| Questlines | 0.20% | ~372 |
-| Bel's Forge | 0.20% | ~372 |
-| Rime Bandits | 0.20% | ~372 |
-| Enemy Summit | 0.20% | ~372 |
-| The Sibriex | 0.20% | ~372 |
-| Wrecked Flying Fortress | 0.20% | ~372 |
-| Sunblight | 0.20% | ~372 |
-| The Bleeding Citadel | 0.20% | ~372 |
-| Idyllglen | 0.20% | ~372 |
-| The Radiant Nightmare | 0.20% | ~372 |
-| Waiting on Sunrise | 0.20% | ~372 |
-| Deekin's Mission | 0.20% | ~372 |
-| Frozen Vengeance | 0.20% | ~372 |
-| The Battle of High Hall Tower | 0.20% | ~372 |
-| Elturel's Last Stand | 0.20% | ~372 |
-| Ending the Rime - Part 1 | 0.20% | ~372 |
-| Ending the Rime - Part 2 | 0.20% | ~372 |
-| Reghed Glacier Mysteries | 0.20% | ~372 |
-| Tekeli-li's Hunt | 0.20% | ~372 |
-| The Rite of the Arcane Octad | 0.20% | ~372 |
+| An Illithid Undertaking | 0.20% | ~373 |
+| Déjà Vu | 0.20% | ~373 |
+| The Path of Dreams | 0.20% | ~373 |
+| The Lost Hollyphant | 0.20% | ~373 |
+| Alterdeep | 0.20% | ~373 |
+| The Wandering Emporium | 0.20% | ~373 |
+| Tiamat's Army | 0.20% | ~373 |
+| Questlines | 0.20% | ~373 |
+| Bel's Forge | 0.20% | ~373 |
+| Rime Bandits | 0.20% | ~373 |
+| Enemy Summit | 0.20% | ~373 |
+| The Sibriex | 0.20% | ~373 |
+| Wrecked Flying Fortress | 0.20% | ~373 |
+| Sunblight | 0.20% | ~373 |
+| The Bleeding Citadel | 0.20% | ~373 |
+| Idyllglen | 0.20% | ~373 |
+| The Radiant Nightmare | 0.20% | ~373 |
+| Waiting on Sunrise | 0.20% | ~373 |
+| Deekin's Mission | 0.20% | ~373 |
+| Frozen Vengeance | 0.20% | ~373 |
+| The Battle of High Hall Tower | 0.20% | ~373 |
+| Elturel's Last Stand | 0.20% | ~373 |
+| Ending the Rime - Part 1 | 0.20% | ~373 |
+| Ending the Rime - Part 2 | 0.20% | ~373 |
+| Reghed Glacier Mysteries | 0.20% | ~373 |
+| Tekeli-li's Hunt | 0.20% | ~373 |
+| The Rite of the Arcane Octad | 0.20% | ~373 |
 | Poor Guidance | 0.20% | ~440 |
 | Overwhelming Force | 0.20% | ~440 |
-| All The World's A Stage | 0.20% | ~372 |
+| All The World's A Stage | 0.20% | ~373 |
 | Keep Your Friends Close | 0.10% | ~186 |
 | And Your Enemies Closer | 0.10% | ~186 |
 | A Familiar Behind Us | 0.10% | ~186 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,961 (Ranked 52)  
+Progressed: 219,978 (Ranked 52)  
 Completed: 2,165 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 2,165 (0.98%) (Ranked 114)
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
-| 2023-08-08 | 219,961 | 2,165 |
+| 2023-08-08 | 219,978 | 2,165 |
 ## Awards
 Max (Diverse Characters): 5,125  (Ranked 67)  
 Sum: 30,947 (Ranked 38)  

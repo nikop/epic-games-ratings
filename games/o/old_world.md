@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 299)  
+Rating: 4.65 (Ranked 298)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,8 +10,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 2.00% | ~267 |
 | Explorer | 2.00% | ~267 |
 | Intrepid | 2.00% | ~267 |
+| Mason | 2.00% | ~267 |
 | Settler | 2.00% | ~267 |
+| Strong | 2.00% | ~267 |
 | Friendly Family | 2.00% | ~267 |
+| Hanging Gardens | 2.00% | ~267 |
 | Play a Single Player Game | 2.00% | ~267 |
 | The Great Mage | 2.00% | ~267 |
 | Ambitious | 1.00% | ~133 |
@@ -21,21 +24,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 1.00% | ~133 |
 | Glorious | 1.00% | ~133 |
 | Good | 1.00% | ~133 |
+| Great | 1.00% | ~133 |
 | Just | 1.00% | ~133 |
 | Keystone | 1.00% | ~133 |
 | Learned | 1.00% | ~133 |
 | Magnificent | 1.00% | ~133 |
-| Mason | 1.00% | ~133 |
 | Noble | 1.00% | ~133 |
 | Pioneer | 1.00% | ~133 |
-| Strong | 1.00% | ~133 |
 | Warrior | 1.00% | ~133 |
 | Wise | 1.00% | ~133 |
 | Developing Cities | 1.00% | ~133 |
 | Strong Cities | 1.00% | ~133 |
 | Able Difficulty | 1.00% | ~133 |
 | Great Ziggurat | 1.00% | ~133 |
-| Hanging Gardens | 1.00% | ~133 |
 | Ishtar Gate | 1.00% | ~133 |
 | Lighthouse | 1.00% | ~133 |
 | Oracle | 1.00% | ~133 |
@@ -51,7 +52,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~133 |
 | Trade Caravan | 1.00% | ~133 |
 | Poetic Leader | 1.00% | ~133 |
-| Great | 0.90% | ~120 |
 | Apadana | 0.90% | ~120 |
 | Colossus | 0.90% | ~120 |
 | Musaeum | 0.90% | ~120 |
@@ -74,13 +74,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 0.70% | ~93 |
 | Points Victory | 0.70% | ~93 |
 | Hanging Gardens in Babylon | 0.60% | ~80 |
+| Beloved | 0.60% | ~80 |
 | Conqueror | 0.60% | ~80 |
 | Mighty | 0.60% | ~80 |
 | Champions | 0.60% | ~80 |
 | Persian Paganism | 0.60% | ~80 |
 | Building Wonders | 0.60% | ~80 |
 | Phalangite | 0.60% | ~80 |
-| Beloved | 0.50% | ~67 |
 | Lion | 0.50% | ~67 |
 | Subjugator | 0.50% | ~67 |
 | Victorious | 0.50% | ~67 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,330 (Ranked 117)  
+Progressed: 13,331 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -413,7 +413,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-05 | 13,281 | 5 |
 | 2023-08-06 | 13,301 | 5 |
 | 2023-08-07 | 13,317 | 5 |
-| 2023-08-08 | 13,330 | 5 |
+| 2023-08-08 | 13,331 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,786 (Ranked 206)  

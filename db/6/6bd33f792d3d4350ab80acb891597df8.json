@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 42,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -256,9 +256,9 @@
       "ID": "CgkIxYDzrbcPEAIQAw",
       "SetID": "4egpam7",
       "Name": "The Bald Lady",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBA",
@@ -328,9 +328,9 @@
       "ID": "CgkIxYDzrbcPEAIQDA",
       "SetID": "4egpam7",
       "Name": "Chimney Sweeper",
-      "Percentage": 69,
+      "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDQ",
@@ -487,8 +487,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-08T19:05:30.1058494+00:00",
+  "LastChanged_Achievements": "2023-08-08T20:05:23.4199594+00:00",
   "LastUpdate_AppInfo": "2023-08-08T13:56:55.0223593+00:00",
-  "LastUpdate_Ratings": "2023-08-08T18:57:34.4413078+00:00",
-  "LastUpdate_Achievements": "2023-08-08T19:05:30.1058789+00:00"
+  "LastUpdate_Ratings": "2023-08-08T19:57:31.7536028+00:00",
+  "LastUpdate_Achievements": "2023-08-08T20:05:23.4199835+00:00"
 }

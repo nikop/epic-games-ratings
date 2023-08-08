@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2122,
+  "EOS_Progressed": 2124,
   "EOS_Completed": 189,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 8.91,
+  "EOS_Completed_Percentage": 8.9,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -4723,6 +4723,11 @@
       "Time": "2023-08-08T17:04:07.7252147+00:00",
       "NumProgressed": 2122,
       "NumCompleted": 189
+    },
+    {
+      "Time": "2023-08-08T20:03:29.57027+00:00",
+      "NumProgressed": 2124,
+      "NumCompleted": 189
     }
   ],
   "TotalAchievements": 12,
@@ -4734,7 +4739,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "Bernard",
@@ -4748,9 +4753,9 @@
       "ID": "Building the Fox",
       "SetID": "b40dflc",
       "Name": "Building the Fox",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 446
+      "UsersEstimate": 467
     },
     {
       "ID": "Green Ticket Roundup",
@@ -4758,7 +4763,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "Jacques a Dit",
@@ -4766,7 +4771,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "Jakob",
@@ -4798,7 +4803,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -4829,7 +4834,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2122,
+      "Progressed": 2124,
       "Completed": 189
     }
   ],
@@ -4837,8 +4842,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-08T19:03:27.5150115+00:00",
+  "LastChanged_Achievements": "2023-08-08T20:03:29.5702694+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:24.0632297+00:00",
-  "LastUpdate_Ratings": "2023-08-08T18:59:52.5127881+00:00",
-  "LastUpdate_Achievements": "2023-08-08T19:03:27.5150638+00:00"
+  "LastUpdate_Ratings": "2023-08-08T19:59:44.1665637+00:00",
+  "LastUpdate_Achievements": "2023-08-08T20:03:29.5703102+00:00"
 }

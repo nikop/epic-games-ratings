@@ -1,11 +1,11 @@
 # ATOM RPG Trudograd
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-trudograd-a97244)  
 [View Rawdata](../../db/a/atom_rpg_trudograd.json)  
-Rating: 4.53 (Ranked 512)  
+Rating: 4.53 (Ranked 513)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~1,021 |
+| Fresh Prince of Trudograd | 87.00% | ~1,022 |
 | Household | 7.00% | ~82 |
 | An Old Friend | 6.00% | ~70 |
 | Lot 49 | 5.00% | ~59 |
@@ -16,8 +16,8 @@ Rating: 4.53 (Ranked 512)
 | Walking Fortress | 4.00% | ~47 |
 | Freelance Police | 3.00% | ~35 |
 | The Great and Powerful | 3.00% | ~35 |
-| Fight Club | 2.00% | ~23 |
-| Human Antidote | 2.00% | ~23 |
+| Fight Club | 2.00% | ~24 |
+| Human Antidote | 2.00% | ~24 |
 | Albino Bloodsucker | 1.00% | ~12 |
 | Death of the Author | 1.00% | ~12 |
 | Memoirs of a Nibbler | 0.90% | ~11 |
@@ -38,7 +38,7 @@ Rating: 4.53 (Ranked 512)
 | Second Thought | 0.20% | ~2 |
 | Terrorist | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,174 (Ranked 188)  
+Progressed: 1,175 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,6 +126,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-03 | 1,170 | 0 |
 | 2023-08-04 | 1,173 | 0 |
 | 2023-08-06 | 1,174 | 0 |
+| 2023-08-08 | 1,175 | 0 |
 ## Awards
 Max (Character Customization): 23  (Ranked 486)  
 Sum: 23 (Ranked 490)  

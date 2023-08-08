@@ -2,7 +2,7 @@
   "ID": "e1809e1742cb498080d8849b11a99c5a",
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
-  "Ranking_Rating": 299,
+  "Ranking_Rating": 298,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 131,
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6990,
+  "EOS_Progressed": 6991,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -3463,6 +3463,11 @@
       "Time": "2023-08-08T19:02:04.8692884+00:00",
       "NumProgressed": 6990,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-08T20:02:07.40743+00:00",
+      "NumProgressed": 6991,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -3482,7 +3487,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -3626,7 +3631,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3914
+      "UsersEstimate": 3915
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -3689,15 +3694,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6990,
+      "Progressed": 6991,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-08-08T19:02:04.8692877+00:00",
+  "LastChanged_Achievements": "2023-08-08T20:02:07.4074295+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:47.6725573+00:00",
-  "LastUpdate_Ratings": "2023-08-08T18:58:03.8711143+00:00",
-  "LastUpdate_Achievements": "2023-08-08T19:02:04.8693437+00:00"
+  "LastUpdate_Ratings": "2023-08-08T19:57:57.8093495+00:00",
+  "LastUpdate_Achievements": "2023-08-08T20:02:07.4074984+00:00"
 }

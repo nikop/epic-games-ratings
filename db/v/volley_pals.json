@@ -491,9 +491,9 @@
       "ID": "LEVEL_1",
       "SetID": "1fnbp5h",
       "Name": "Library",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 100,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "LEVEL_2",
@@ -569,8 +569,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-08-08T19:05:03.5456485+00:00",
+  "LastChanged_Achievements": "2023-08-08T20:04:56.731778+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:38.7852117+00:00",
-  "LastUpdate_Ratings": "2023-08-08T18:57:53.1273715+00:00",
-  "LastUpdate_Achievements": "2023-08-08T19:05:03.5456642+00:00"
+  "LastUpdate_Ratings": "2023-08-08T19:57:46.4330193+00:00",
+  "LastUpdate_Achievements": "2023-08-08T20:04:56.7318012+00:00"
 }

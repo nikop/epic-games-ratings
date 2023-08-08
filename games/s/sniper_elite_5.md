@@ -11,6 +11,7 @@ Rating: 4.43 (Ranked 657)
 | Taking it back | 5.00% | ~172 |
 | Target America | 5.00% | ~172 |
 | The Kraken Sleeps | 5.00% | ~172 |
+| Climbing the Ladder | 4.00% | ~137 |
 | Meeting Resistance | 4.00% | ~137 |
 | Sharpshooter | 4.00% | ~137 |
 | Confirming Suspicions | 4.00% | ~137 |
@@ -18,7 +19,6 @@ Rating: 4.43 (Ranked 657)
 | Resourceful | 4.00% | ~137 |
 | As Quiet as a Mouse | 4.00% | ~137 |
 | The Kraken Wakes | 4.00% | ~137 |
-| Climbing the Ladder | 3.00% | ~103 |
 | No Stone Unturned | 3.00% | ~103 |
 | Organ Grinder | 3.00% | ~103 |
 | Gunslinger | 3.00% | ~103 |
@@ -39,9 +39,9 @@ Rating: 4.43 (Ranked 657)
 | The Long Game | 1.00% | ~34 |
 | Rigged to Blow | 1.00% | ~34 |
 | Tinkerer | 1.00% | ~34 |
+| Road Rage | 1.00% | ~34 |
 | Herr Today, Gone Tomorrow | 1.00% | ~34 |
 | It'll Buff Right Out | 0.90% | ~31 |
-| Road Rage | 0.90% | ~31 |
 | Don't hold your breath | 0.90% | ~31 |
 | Strategist | 0.80% | ~27 |
 | Shipbreaker | 0.80% | ~27 |

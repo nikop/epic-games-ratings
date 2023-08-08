@@ -5,12 +5,12 @@ Rating: 4.66 (Ranked 272)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,819 |
-| Mods Please Ban | 77.00% | ~18,386 |
-| Bring A Knife to a Gun Fight | 76.00% | ~18,147 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,431 |
-| First Bounty Down | 59.00% | ~14,088 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,610 |
+| Eye Scream, You Scream | 83.00% | ~19,820 |
+| Mods Please Ban | 77.00% | ~18,387 |
+| Bring A Knife to a Gun Fight | 76.00% | ~18,148 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,432 |
+| First Bounty Down | 59.00% | ~14,089 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,611 |
 | Luglox Genocide | 43.00% | ~10,268 |
 | Playing Card To Get | 33.00% | ~7,880 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,880 |
@@ -28,17 +28,17 @@ Rating: 4.66 (Ranked 272)
 | Self-Actualization | 19.00% | ~4,537 |
 | Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,537 |
 | Legendary Bounty Hunter | 18.00% | ~4,298 |
-| Seeing All The Sights | 16.00% | ~3,820 |
+| Seeing All The Sights | 16.00% | ~3,821 |
 | Carried Stan's Load To Completion | 13.00% | ~3,104 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,865 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,149 |
 | Sequel-Bait | 8.00% | ~1,910 |
-| Gunning For Your Job | 7.00% | ~1,671 |
+| Gunning For Your Job | 7.00% | ~1,672 |
 | Playing Favorites | 5.00% | ~1,194 |
 | Epic Legendary Prize | 1.00% | ~239 |
 | A Starfish Is Born | 1.00% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,878 (Ranked 102)  
+Progressed: 23,879 (Ranked 102)  
 Completed: 11 (0.05%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 11 (0.05%) (Ranked 215)
 | 2023-08-05 | 23,838 | 11 |
 | 2023-08-06 | 23,853 | 11 |
 | 2023-08-07 | 23,868 | 11 |
-| 2023-08-08 | 23,878 | 11 |
+| 2023-08-08 | 23,879 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

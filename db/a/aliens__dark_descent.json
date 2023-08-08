@@ -3691,9 +3691,9 @@
       "ID": "ACH_KILL_ALL_ALIEN_ONSLAUGHT",
       "SetID": "816efe",
       "Name": "Keep \u0027Em Coming",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2312
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -3835,9 +3835,9 @@
       "ID": "ACH_MISSION_07",
       "SetID": "816efe",
       "Name": "The Darwin Era Was Here",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 843
+      "UsersEstimate": 875
     },
     {
       "ID": "ACH_MISSION_08",
@@ -3964,8 +3964,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-07T03:00:43.8837969+00:00",
-  "LastChanged_Achievements": "2023-08-08T19:03:30.710612+00:00",
+  "LastChanged_Achievements": "2023-08-08T20:03:32.872296+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:22.265052+00:00",
-  "LastUpdate_Ratings": "2023-08-08T18:59:47.8537692+00:00",
-  "LastUpdate_Achievements": "2023-08-08T19:03:30.7106825+00:00"
+  "LastUpdate_Ratings": "2023-08-08T19:59:36.9097382+00:00",
+  "LastUpdate_Achievements": "2023-08-08T20:03:32.8723622+00:00"
 }

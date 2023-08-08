@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -4916,9 +4916,9 @@
       "ID": "First_Civ_Designed",
       "SetID": "4h07amh",
       "Name": "Design a Civilization",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1959
+      "UsersEstimate": 2022
     },
     {
       "ID": "First_Major_Ally",
@@ -5420,8 +5420,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-08T01:53:00.2512441+00:00",
-  "LastChanged_Achievements": "2023-08-08T19:02:25.9220584+00:00",
+  "LastChanged_Achievements": "2023-08-08T20:02:28.5689404+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:50.5738346+00:00",
-  "LastUpdate_Ratings": "2023-08-08T18:58:07.2741449+00:00",
-  "LastUpdate_Achievements": "2023-08-08T19:02:25.9221692+00:00"
+  "LastUpdate_Ratings": "2023-08-08T19:58:01.2737861+00:00",
+  "LastUpdate_Achievements": "2023-08-08T20:02:28.569037+00:00"
 }

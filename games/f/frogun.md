@@ -12,7 +12,7 @@
 | Floater | 59.00% | ~130 |
 | Speedrunner | 44.00% | ~97 |
 | On foot racer | 40.00% | ~88 |
-| Prickly situation handler | 34.00% | ~75 |
+| Prickly situation handler | 35.00% | ~77 |
 | Hat lover | 33.00% | ~73 |
 | Perfectionist | 31.00% | ~69 |
 | Protected | 30.00% | ~66 |

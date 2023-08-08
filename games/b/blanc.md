@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unexpected encounter | 18.00% | ~446 |
+| Unexpected encounter | 19.00% | ~471 |
 | Starting as a duo | 16.00% | ~397 |
 | Stronger together | 14.00% | ~347 |
 | Helping the little ones | 12.00% | ~298 |

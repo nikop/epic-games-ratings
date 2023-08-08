@@ -22,10 +22,10 @@ Rating: 3.94 (Ranked 938)
 | Rockay Rex | 11.00% | ~7,872 |
 | Freebooter | 10.00% | ~7,156 |
 | Track Star | 9.00% | ~6,441 |
+| Ding Dong | 9.00% | ~6,441 |
 | Classy Joint | 9.00% | ~6,441 |
 | I Like Trains | 8.00% | ~5,725 |
 | Headhunter | 8.00% | ~5,725 |
-| Ding Dong | 8.00% | ~5,725 |
 | Foo Finder | 7.00% | ~5,009 |
 | Legend Looter | 5.00% | ~3,578 |
 | Savvy Seeker | 5.00% | ~3,578 |

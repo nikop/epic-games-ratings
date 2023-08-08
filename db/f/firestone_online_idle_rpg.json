@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1777,
+  "EOS_Progressed": 1778,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4803,6 +4803,11 @@
       "Time": "2023-08-08T01:59:23.7391758+00:00",
       "NumProgressed": 1777,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-08T20:04:18.6669216+00:00",
+      "NumProgressed": 1778,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -4844,17 +4849,17 @@
       "ID": "backgroundstory",
       "SetID": "3nl4bcg",
       "Name": "Background Story",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 71
     },
     {
       "ID": "beastwarmachines",
       "SetID": "3nl4bcg",
       "Name": "Beast War Machines",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "blueprintupgrades",
@@ -4910,7 +4915,7 @@
       "Name": "Doing My Part",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "dragonclicker",
@@ -5078,7 +5083,7 @@
       "Name": "Hunter",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "inspection",
@@ -5134,7 +5139,7 @@
       "Name": "Mastery",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "milestonecollector",
@@ -5196,9 +5201,9 @@
       "ID": "pokerface",
       "SetID": "3nl4bcg",
       "Name": "Pokerface",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "prestigious",
@@ -5270,7 +5275,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "thealchemist",
@@ -5302,7 +5307,7 @@
       "Name": "The game is on",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "thepowerofawakening",
@@ -5310,7 +5315,7 @@
       "Name": "The power of Awakening",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "theunstoppable",
@@ -5374,7 +5379,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "warmachinesarmy",
@@ -5406,14 +5411,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1777,
+      "Progressed": 1778,
       "Completed": 2
     }
   ],
@@ -5421,8 +5426,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-06T10:58:59.7480793+00:00",
-  "LastChanged_Achievements": "2023-08-08T19:04:27.3328589+00:00",
+  "LastChanged_Achievements": "2023-08-08T20:04:18.6669211+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:51.9873939+00:00",
-  "LastUpdate_Ratings": "2023-08-08T18:58:34.934002+00:00",
-  "LastUpdate_Achievements": "2023-08-08T19:04:27.3329714+00:00"
+  "LastUpdate_Ratings": "2023-08-08T19:58:26.0016628+00:00",
+  "LastUpdate_Achievements": "2023-08-08T20:04:18.6670165+00:00"
 }

@@ -5,18 +5,18 @@ Rating: 4.54 (Ranked 498)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~19,088 |
+| Trevithick's Legacy | 98.00% | ~19,089 |
 | Before the Downfall | 93.00% | ~18,115 |
-| Money like Water | 91.00% | ~17,725 |
-| Minimalist | 90.00% | ~17,530 |
-| Builder | 83.00% | ~16,167 |
+| Money like Water | 91.00% | ~17,726 |
+| Minimalist | 90.00% | ~17,531 |
+| Builder | 83.00% | ~16,168 |
 | Eraser | 70.00% | ~13,635 |
 | Pocket of Trains | 65.00% | ~12,661 |
-| Inspector | 59.00% | ~11,492 |
-| Going the Distance | 54.00% | ~10,518 |
+| Inspector | 59.00% | ~11,493 |
+| Going the Distance | 54.00% | ~10,519 |
 | Oil Baron | 42.00% | ~8,181 |
 | Loads-a-Money | 42.00% | ~8,181 |
-| Helper of the People | 39.00% | ~7,596 |
+| Helper of the People | 39.00% | ~7,597 |
 | Simplification | 34.00% | ~6,623 |
 | Box of Trains | 33.00% | ~6,428 |
 | Let There be Light | 32.00% | ~6,233 |
@@ -30,9 +30,9 @@ Rating: 4.54 (Ranked 498)
 | Man of Steel | 17.00% | ~3,311 |
 | Room Full of Trains | 12.00% | ~2,337 |
 | Investor | 10.00% | ~1,948 |
-| Multiverse | 7.00% | ~1,363 |
-| The poor groundwater levels | 7.00% | ~1,363 |
-| Metropolis | 7.00% | ~1,363 |
+| Multiverse | 7.00% | ~1,364 |
+| The poor groundwater levels | 7.00% | ~1,364 |
+| Metropolis | 7.00% | ~1,364 |
 | High Flier | 3.00% | ~584 |
 | To infinity, and beyond! | 3.00% | ~584 |
 | Space industrialization | 2.00% | ~390 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 498)
 | Overdeer | 0.50% | ~97 |
 | Cloud Services | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,478 (Ranked 107)  
+Progressed: 19,479 (Ranked 107)  
 Completed: 35 (0.18%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,10 +153,10 @@ Completed: 35 (0.18%) (Ranked 181)
 | 2023-08-05 | 19,423 | 35 |
 | 2023-08-06 | 19,446 | 35 |
 | 2023-08-07 | 19,466 | 35 |
-| 2023-08-08 | 19,478 | 35 |
+| 2023-08-08 | 19,479 | 35 |
 ## Awards
-Max (Great for Beginners): 87  (Ranked 352)  
-Sum: 657 (Ranked 283)  
+Max (Highly Recommended): 87  (Ranked 352)  
+Sum: 658 (Ranked 283)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -166,7 +166,7 @@ Diff (max vs sum): 69
 | This game is Highly Recommended | 87 |
 | This game is Extremely Fun | 84 |
 | This game has Amazing Storytelling | 80 |
-| This game has Unique Visuals | 58 |
+| This game has Unique Visuals | 59 |
 | This game has Amazing Characters | 46 |
 | This game has a Creative Community | 41 |
 | This game has Challenging Combat | 29 |
@@ -225,3 +225,4 @@ Diff (max vs sum): 69
 | 2023-07-28 | 4.55 | 87 | 655 |
 | 2023-08-05 | 4.54 | 87 | 656 |
 | 2023-08-07 | 4.54 | 87 | 657 |
+| 2023-08-08 | 4.54 | 87 | 658 |

@@ -6,8 +6,8 @@ Rating: 4.46 (Ranked 616)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,562 |
+| Keep 'Em Coming | 74.00% | ~2,312 |
 | Snatched Out | 74.00% | ~2,312 |
-| Keep 'Em Coming | 73.00% | ~2,281 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,093 |
 | Call Me Snake | 62.00% | ~1,937 |
 | Something Lurks Under The Hills | 60.00% | ~1,874 |
@@ -25,7 +25,7 @@ Rating: 4.46 (Ranked 616)
 | Omelette Du Fromage | 33.00% | ~1,031 |
 | The More The Merrier | 32.00% | ~1,000 |
 | Living Nightmare | 31.00% | ~968 |
-| The Darwin Era Was Here | 27.00% | ~843 |
+| The Darwin Era Was Here | 28.00% | ~875 |
 | Deep Into Insanity | 26.00% | ~812 |
 | The Passenger | 26.00% | ~812 |
 | Come on, You Wanna Live Forever? | 25.00% | ~781 |

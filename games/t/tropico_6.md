@@ -1,7 +1,7 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.67 (Ranked 258)  
+Rating: 4.67 (Ranked 257)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,7 +15,7 @@ Number of Ratings: 398  (23.09.2022)
 | The Governator | 18.00% | ~839 |
 | The Legend of Langostino | 17.00% | ~793 |
 | Caribbean Comrade | 16.00% | ~746 |
-| The Dreamer of Dreams | 15.00% | ~699 |
+| The Dreamer of Dreams | 16.00% | ~746 |
 | Go Sovereigns! | 11.00% | ~513 |
 | For Science! | 11.00% | ~513 |
 | Happy Ending? | 10.00% | ~466 |

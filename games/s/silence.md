@@ -18,15 +18,15 @@
 | Chapter III | 29.00% | ~28 |
 | Like a moth in the Wind | 29.00% | ~28 |
 | Let the boot talk | 28.00% | ~27 |
-| Bubblekillerfamily | 25.00% | ~24 |
-| Mirror mirror on the wall... | 25.00% | ~24 |
-| Quite a buggy game | 24.00% | ~23 |
-| Shadow on the wall | 23.00% | ~22 |
-| Handyman | 23.00% | ~22 |
-| Fastidious Clown | 23.00% | ~22 |
-| It's not easy being green! | 22.00% | ~21 |
-| Home is where the heart is | 22.00% | ~21 |
-| Pacifist | 19.00% | ~18 |
+| Bubblekillerfamily | 24.00% | ~24 |
+| Mirror mirror on the wall... | 24.00% | ~24 |
+| Quite a buggy game | 23.00% | ~23 |
+| Shadow on the wall | 22.00% | ~22 |
+| Handyman | 22.00% | ~22 |
+| Fastidious Clown | 22.00% | ~22 |
+| It's not easy being green! | 21.00% | ~21 |
+| Home is where the heart is | 21.00% | ~21 |
+| Pacifist | 18.00% | ~18 |
 | Master of Thermodynamics | 16.00% | ~16 |
 | Death is a part of life | 16.00% | ~16 |
 | Unfullfilled dreams | 15.00% | ~15 |
@@ -51,7 +51,7 @@
 | The Green, the Fat, the Ugly | 1.00% | ~1 |
 | Do not feed the fish! | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97 (Ranked 322)  
+Progressed: 98 (Ranked 320)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-07-16 | 94 | 0 |
 | 2023-07-26 | 95 | 0 |
 | 2023-08-02 | 96 | 0 |
-| 2023-08-08 | 97 | 0 |
+| 2023-08-08 | 98 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

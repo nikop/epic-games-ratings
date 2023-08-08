@@ -27,6 +27,7 @@ Rating: 4.62 (Ranked 349)
 | Mighty Hoard | 4.00% | ~204 |
 | Valley of Wonders | 3.00% | ~153 |
 | Return of the Wizard King | 3.00% | ~153 |
+| Arch Mage | 3.00% | ~153 |
 | Enchanted Archipelago | 3.00% | ~153 |
 | Digging for Treasure | 3.00% | ~153 |
 | Preparation Is Everything | 3.00% | ~153 |
@@ -34,7 +35,6 @@ Rating: 4.62 (Ranked 349)
 | The Magic That Empowers Me! | 2.00% | ~102 |
 | God Emperor | 2.00% | ~102 |
 | Lord of Chaos | 2.00% | ~102 |
-| Arch Mage | 2.00% | ~102 |
 | The Creator | 2.00% | ~102 |
 | The Goddess of Nature | 2.00% | ~102 |
 | Eternal Lord | 2.00% | ~102 |
