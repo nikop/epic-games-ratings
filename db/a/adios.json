@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -96,9 +96,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69268,
+  "EOS_Progressed": 69271,
   "EOS_Completed": 691,
-  "EOS_NewPlayers": 885,
+  "EOS_NewPlayers": 883,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -12156,6 +12156,11 @@
       "Time": "2023-08-08T12:07:44.2438853+00:00",
       "NumProgressed": 69268,
       "NumCompleted": 691
+    },
+    {
+      "Time": "2023-08-08T13:12:04.8430056+00:00",
+      "NumProgressed": 69271,
+      "NumCompleted": 691
     }
   ],
   "TotalAchievements": 25,
@@ -12183,7 +12188,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 12468
+      "UsersEstimate": 12469
     },
     {
       "ID": "Audiophile",
@@ -12199,7 +12204,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 15239
+      "UsersEstimate": 15240
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -12207,7 +12212,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12468
+      "UsersEstimate": 12469
     },
     {
       "ID": "Butcher",
@@ -12223,7 +12228,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3463
+      "UsersEstimate": 3464
     },
     {
       "ID": "Fair\u0027sFair",
@@ -12359,14 +12364,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5541
+      "UsersEstimate": 5542
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 69268,
+      "Progressed": 69271,
       "Completed": 691
     }
   ],
@@ -12374,8 +12379,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-08-08T12:07:44.2438848+00:00",
+  "LastChanged_Achievements": "2023-08-08T13:12:04.8430049+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:13.5185195+00:00",
-  "LastUpdate_Ratings": "2023-08-08T11:57:14.6824232+00:00",
-  "LastUpdate_Achievements": "2023-08-08T12:07:44.2439577+00:00"
+  "LastUpdate_Ratings": "2023-08-08T13:02:38.7801578+00:00",
+  "LastUpdate_Achievements": "2023-08-08T13:12:04.8430804+00:00"
 }

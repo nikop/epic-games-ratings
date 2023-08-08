@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 201,
+  "EOS_Progressed": 202,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -791,6 +791,11 @@
       "Time": "2023-08-08T12:05:42.8882995+00:00",
       "NumProgressed": 201,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-08T13:10:36.0630292+00:00",
+      "NumProgressed": 202,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -809,9 +814,9 @@
       "ID": "bitcoin_collector",
       "SetID": "5fi1i42",
       "Name": "Bitcoin Collector",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "build_your_world",
@@ -849,9 +854,9 @@
       "ID": "moon_conquerer",
       "SetID": "5fi1i42",
       "Name": "Moon Conquerer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "pianist",
@@ -915,7 +920,7 @@
       "Name": "Tireless Explorer",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "treant_destroyer",
@@ -954,14 +959,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 201,
+      "Progressed": 202,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-08-08T12:05:42.8882987+00:00",
+  "LastChanged_Achievements": "2023-08-08T13:10:36.0630286+00:00",
   "LastUpdate_AppInfo": "2023-08-03T07:56:56.1663904+00:00",
-  "LastUpdate_Ratings": "2023-08-08T11:57:43.1709133+00:00",
-  "LastUpdate_Achievements": "2023-08-08T12:05:42.8883191+00:00"
+  "LastUpdate_Ratings": "2023-08-08T13:02:57.9761126+00:00",
+  "LastUpdate_Achievements": "2023-08-08T13:10:36.0630471+00:00"
 }

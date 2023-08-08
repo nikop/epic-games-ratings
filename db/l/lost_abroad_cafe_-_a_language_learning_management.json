@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 316,
+  "EOS_Progressed": 317,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
@@ -1416,6 +1416,11 @@
       "Time": "2023-08-08T03:07:26.3523065+00:00",
       "NumProgressed": 316,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-08T13:11:57.8574192+00:00",
+      "NumProgressed": 317,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 8,
@@ -1443,7 +1448,7 @@
       "Name": "Coffee Connoisseur",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "countertop",
@@ -1457,17 +1462,17 @@
       "ID": "get_lost",
       "SetID": "56hff7o",
       "Name": "Get Lost!",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 50,
-      "UsersEstimate": 265
+      "UsersEstimate": 269
     },
     {
       "ID": "tea_10",
       "SetID": "56hff7o",
       "Name": "Tea-ser",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 75,
-      "UsersEstimate": 130
+      "UsersEstimate": 127
     },
     {
       "ID": "tea_100",
@@ -1490,14 +1495,14 @@
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 316,
+      "Progressed": 317,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-08-08T12:07:34.2693791+00:00",
+  "LastChanged_Achievements": "2023-08-08T13:11:57.8574187+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:29.9481717+00:00",
-  "LastUpdate_Ratings": "2023-08-08T11:59:53.6614491+00:00",
-  "LastUpdate_Achievements": "2023-08-08T12:07:34.2693909+00:00"
+  "LastUpdate_Ratings": "2023-08-08T13:04:32.6422007+00:00",
+  "LastUpdate_Achievements": "2023-08-08T13:11:57.8574377+00:00"
 }

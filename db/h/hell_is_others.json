@@ -790,9 +790,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 254489,
+  "EOS_Progressed": 254494,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12025,6 +12025,11 @@
       "Time": "2023-08-08T12:07:19.2647163+00:00",
       "NumProgressed": 254489,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-08T13:11:46.973473+00:00",
+      "NumProgressed": 254494,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -12036,7 +12041,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17814
+      "UsersEstimate": 17815
     },
     {
       "ID": "Act2",
@@ -12084,7 +12089,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78892
+      "UsersEstimate": 78893
     },
     {
       "ID": "BackHomeNTimes",
@@ -12092,7 +12097,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12724
+      "UsersEstimate": 12725
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -12164,7 +12169,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12724
+      "UsersEstimate": 12725
     },
     {
       "ID": "CreedsInBank2",
@@ -12236,7 +12241,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15269
+      "UsersEstimate": 15270
     },
     {
       "ID": "GrowPlants2",
@@ -12292,7 +12297,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15269
+      "UsersEstimate": 15270
     },
     {
       "ID": "KillOtherWithKatana",
@@ -12324,7 +12329,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55988
+      "UsersEstimate": 55989
     },
     {
       "ID": "KillOthers2",
@@ -12483,7 +12488,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 254489,
+      "Progressed": 254494,
       "Completed": 3
     }
   ],
@@ -12491,8 +12496,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-08-03T16:01:45.7689643+00:00",
-  "LastChanged_Achievements": "2023-08-08T12:07:19.2647159+00:00",
+  "LastChanged_Achievements": "2023-08-08T13:11:46.9734723+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:18.5109073+00:00",
-  "LastUpdate_Ratings": "2023-08-08T12:01:55.1018112+00:00",
-  "LastUpdate_Achievements": "2023-08-08T12:07:19.2648037+00:00"
+  "LastUpdate_Ratings": "2023-08-08T13:06:01.9396805+00:00",
+  "LastUpdate_Achievements": "2023-08-08T13:11:46.9735681+00:00"
 }

@@ -8,12 +8,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 5.00% | ~10,994 |
 | Beast Intentions | 3.00% | ~6,596 |
-| Maddening | 2.00% | ~4,397 |
+| Maddening | 2.00% | ~4,398 |
 | The Silken Swamp | 1.00% | ~2,199 |
 | Supply Run | 1.00% | ~2,199 |
-| Vecna Lives! | 1.00% | ~1,861 |
-| Rocky Reception | 1.00% | ~1,861 |
-| Rock and Roll | 1.00% | ~1,861 |
+| Vecna Lives! | 1.00% | ~1,862 |
+| Rocky Reception | 1.00% | ~1,862 |
+| Rock and Roll | 1.00% | ~1,862 |
 | Tall Tales | 0.90% | ~1,675 |
 | Vecna Loots! | 0.90% | ~1,675 |
 | Flight of the Kindori Pod | 0.90% | ~1,675 |
@@ -48,8 +48,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.60% | ~1,319 |
 | Krux's Speed Run | 0.60% | ~1,117 |
 | Thieves of the Coven | 0.50% | ~931 |
+| A Demi-god's Defender | 0.50% | ~931 |
 | Friends of the Forest | 0.50% | ~1,099 |
 | March of the Undead | 0.50% | ~1,099 |
+| Wisdom Check | 0.50% | ~1,099 |
 | Invisible Shadows | 0.50% | ~1,099 |
 | Family Entanglements | 0.50% | ~1,099 |
 | The Crumbling Temple | 0.50% | ~1,099 |
@@ -63,47 +65,45 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.50% | ~931 |
 | Bahamut's Army | 0.50% | ~931 |
 | Animated Giff | 0.50% | ~931 |
-| Upholding the Law | 0.40% | ~879 |
+| Upholding the Law | 0.40% | ~880 |
 | Hither of the Feywild | 0.40% | ~745 |
 | The Prince of a Thousand Enemies | 0.40% | ~745 |
 | Downfall | 0.40% | ~745 |
 | Speeds of Destruction | 0.40% | ~745 |
 | Owlbear Necessities | 0.40% | ~745 |
-| On the Hunt | 0.40% | ~879 |
+| On the Hunt | 0.40% | ~880 |
 | Best Thay Ever | 0.40% | ~745 |
-| A Demi-god's Defender | 0.40% | ~745 |
 | The Castle of a Thousand Vecnas | 0.40% | ~745 |
 | Who Lurks Below? | 0.40% | ~745 |
 | Xanathaaaaaaar! | 0.40% | ~745 |
-| Homecoming | 0.40% | ~879 |
-| The Lost Heir of Omu | 0.40% | ~879 |
+| Homecoming | 0.40% | ~880 |
+| The Lost Heir of Omu | 0.40% | ~880 |
 | No One Can Hear You Scream | 0.40% | ~745 |
 | Welcome to the Rock | 0.40% | ~745 |
-| The Forbidden City | 0.40% | ~879 |
-| Captured! | 0.40% | ~879 |
-| Wisdom Check | 0.40% | ~879 |
-| A Grand Puzzle | 0.40% | ~879 |
-| Tomb of the Nine Gods | 0.40% | ~879 |
-| Tower on the Lake | 0.40% | ~879 |
-| Trollskull Manor | 0.40% | ~879 |
-| Attack on the Manor | 0.40% | ~879 |
-| The Death Curse | 0.40% | ~879 |
-| Are Ya Chicken? | 0.40% | ~879 |
-| Useless Allies | 0.40% | ~879 |
-| Mad Cow Disease | 0.40% | ~879 |
-| A Tale of Two Cities | 0.40% | ~879 |
-| The Dead Three | 0.40% | ~879 |
-| The Darkness Runs Deeper | 0.40% | ~879 |
-| Running of the Saurs | 0.40% | ~879 |
-| The Contagious Curse | 0.40% | ~879 |
-| Escort to Waterdeep | 0.40% | ~879 |
+| The Forbidden City | 0.40% | ~880 |
+| Captured! | 0.40% | ~880 |
+| A Grand Puzzle | 0.40% | ~880 |
+| Tomb of the Nine Gods | 0.40% | ~880 |
+| Tower on the Lake | 0.40% | ~880 |
+| Trollskull Manor | 0.40% | ~880 |
+| Attack on the Manor | 0.40% | ~880 |
+| The Death Curse | 0.40% | ~880 |
+| Are Ya Chicken? | 0.40% | ~880 |
+| Useless Allies | 0.40% | ~880 |
+| Mad Cow Disease | 0.40% | ~880 |
+| A Tale of Two Cities | 0.40% | ~880 |
+| The Dead Three | 0.40% | ~880 |
+| The Darkness Runs Deeper | 0.40% | ~880 |
+| Running of the Saurs | 0.40% | ~880 |
+| The Contagious Curse | 0.40% | ~880 |
+| Escort to Waterdeep | 0.40% | ~880 |
 | The Giant's Bane Tavern | 0.40% | ~745 |
-| Waterdeep Detours | 0.40% | ~879 |
-| Lost in the Deep | 0.40% | ~879 |
-| Easily Distracted | 0.40% | ~879 |
-| Underdeep Cartography | 0.40% | ~879 |
-| Overdue Rendezvous | 0.40% | ~879 |
-| The Templar's Camp | 0.40% | ~879 |
+| Waterdeep Detours | 0.40% | ~880 |
+| Lost in the Deep | 0.40% | ~880 |
+| Easily Distracted | 0.40% | ~880 |
+| Underdeep Cartography | 0.40% | ~880 |
+| Overdue Rendezvous | 0.40% | ~880 |
+| The Templar's Camp | 0.40% | ~880 |
 | Devilishly Cold | 0.40% | ~745 |
 | Luigi After Hours | 0.40% | ~745 |
 | Electric Mayhem | 0.40% | ~745 |
@@ -159,6 +159,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.30% | ~660 |
 | Difficult Terrain | 0.30% | ~660 |
 | Vault of Dragons | 0.30% | ~660 |
+| Champions of Waterdeep | 0.30% | ~660 |
 | Dinosaur Racing | 0.30% | ~660 |
 | Elturel Has Fallen | 0.30% | ~660 |
 | Resolve Amongst Chaos | 0.30% | ~660 |
@@ -233,7 +234,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Patience is Key | 0.20% | ~440 |
 | Troublesome Prisoner | 0.20% | ~440 |
 | Dark Doppelgangers | 0.20% | ~440 |
-| Champions of Waterdeep | 0.20% | ~440 |
 | Once More Into The Breach | 0.20% | ~440 |
 | Wyllowwood | 0.20% | ~440 |
 | An Illithid Undertaking | 0.20% | ~372 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,872 (Ranked 52)  
+Progressed: 219,878 (Ranked 52)  
 Completed: 2,165 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 2,165 (0.98%) (Ranked 114)
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
-| 2023-08-08 | 219,872 | 2,165 |
+| 2023-08-08 | 219,878 | 2,165 |
 ## Awards
 Max (Diverse Characters): 5,125  (Ranked 67)  
 Sum: 30,942 (Ranked 38)  

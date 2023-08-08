@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5388,
+  "EOS_Progressed": 5395,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2665,
+  "EOS_NewPlayers": 2648,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1207,6 +1207,11 @@
       "Time": "2023-08-08T12:06:17.5011955+00:00",
       "NumProgressed": 5388,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-08T13:11:02.392388+00:00",
+      "NumProgressed": 5395,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -1219,7 +1224,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "10",
@@ -1259,7 +1264,7 @@
       "Name": "Doctor Approved",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "15",
@@ -1395,7 +1400,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "30",
@@ -1458,14 +1463,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 5388,
+      "Progressed": 5395,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-08T12:06:17.5011951+00:00",
+  "LastChanged_Achievements": "2023-08-08T13:11:02.3923873+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:06.3145817+00:00",
-  "LastUpdate_Ratings": "2023-08-08T12:00:34.5288684+00:00",
-  "LastUpdate_Achievements": "2023-08-08T12:06:17.5012181+00:00"
+  "LastUpdate_Ratings": "2023-08-08T13:05:02.3548239+00:00",
+  "LastUpdate_Achievements": "2023-08-08T13:11:02.3924139+00:00"
 }

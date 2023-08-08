@@ -13,7 +13,7 @@
 | Coal's fur | 58.00% | ~110 |
 | Blue's drawing | 56.00% | ~106 |
 | Mysterious footprints | 48.00% | ~91 |
-| Glass shards | 46.00% | ~87 |
+| Glass shards | 47.00% | ~89 |
 | Complicated padlock | 43.00% | ~82 |
 | Big metal ruler | 42.00% | ~80 |
 | Windmill | 39.00% | ~74 |
@@ -23,7 +23,7 @@
 | Depths of the well | 26.00% | ~49 |
 | Children | 23.00% | ~44 |
 | Huge Snail | 16.00% | ~30 |
-| Flower of hope | 14.00% | ~27 |
+| Flower of hope | 15.00% | ~28 |
 | Back Home | 12.00% | ~23 |
 | Friend | 12.00% | ~23 |
 | Old kettle | 11.00% | ~21 |

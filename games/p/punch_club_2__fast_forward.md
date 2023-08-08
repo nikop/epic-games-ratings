@@ -14,7 +14,7 @@
 | First defeat | 77.00% | ~182 |
 | Depressed visitor | 77.00% | ~182 |
 | Neurotrainer – power gainer! | 76.00% | ~179 |
-| Employee of the week | 75.00% | ~177 |
+| Employee of the week | 76.00% | ~179 |
 | Your own amateur gym | 74.00% | ~175 |
 | Run K, run! | 72.00% | ~170 |
 | Hello, world! | 68.00% | ~160 |
@@ -30,9 +30,9 @@
 | Intriguing candies | 58.00% | ~137 |
 | Champion – starter pack | 57.00% | ~135 |
 | Own four walls | 57.00% | ~135 |
+| Fight for life | 56.00% | ~132 |
 | Handyman | 56.00% | ~132 |
 | Employee of the year | 56.00% | ~132 |
-| Fight for life | 55.00% | ~130 |
 | Legal courier | 52.00% | ~123 |
 | Extreme neuropower! | 52.00% | ~123 |
 | Escaped from a big trouble | 50.00% | ~118 |

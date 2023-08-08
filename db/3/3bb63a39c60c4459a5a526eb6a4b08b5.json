@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 412,
+  "EOS_Progressed": 413,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -1431,6 +1431,11 @@
       "Time": "2023-08-08T04:04:50.9926996+00:00",
       "NumProgressed": 412,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-08T13:09:17.949941+00:00",
+      "NumProgressed": 413,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1458,7 +1463,7 @@
       "Name": "Basic Controls",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "BigPlane",
@@ -1472,9 +1477,9 @@
       "ID": "BudgetFlight",
       "SetID": "1e89b4i",
       "Name": "Budget Flight",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 132
+      "UsersEstimate": 128
     },
     {
       "ID": "Calculated",
@@ -1490,7 +1495,7 @@
       "Name": "That Was Close!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Creator",
@@ -1570,7 +1575,7 @@
       "Name": "Lack of Time",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "LargeAirport",
@@ -1642,7 +1647,7 @@
       "Name": "New Record",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "NoTimeForModernization",
@@ -1650,7 +1655,7 @@
       "Name": "No Time for Modernization",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "NoWayBack",
@@ -1658,7 +1663,7 @@
       "Name": "No Way Back",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "NotPlanned",
@@ -1712,9 +1717,9 @@
       "ID": "ResourceEconomy",
       "SetID": "1e89b4i",
       "Name": "Resource Economy",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 128
     },
     {
       "ID": "Restructuring",
@@ -1754,7 +1759,7 @@
       "Name": "Ten!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "TimeForManagement",
@@ -1770,21 +1775,21 @@
       "Name": "Transport Hub",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 412,
+      "Progressed": 413,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-08T12:03:57.7342257+00:00",
+  "LastChanged_Achievements": "2023-08-08T13:09:17.9499404+00:00",
   "LastUpdate_AppInfo": "2023-08-08T09:57:08.8049203+00:00",
-  "LastUpdate_Ratings": "2023-08-08T11:57:46.523661+00:00",
-  "LastUpdate_Achievements": "2023-08-08T12:03:57.7342624+00:00"
+  "LastUpdate_Ratings": "2023-08-08T13:03:00.3339744+00:00",
+  "LastUpdate_Achievements": "2023-08-08T13:09:17.9499785+00:00"
 }

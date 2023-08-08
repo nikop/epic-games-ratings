@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 644)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,432 (Ranked 150)  
+Progressed: 3,433 (Ranked 150)  
 Completed: 9 (0.26%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 9 (0.26%) (Ranked 166)
 | 2023-08-05 | 3,412 | 9 |
 | 2023-08-06 | 3,419 | 9 |
 | 2023-08-07 | 3,427 | 9 |
-| 2023-08-08 | 3,432 | 9 |
+| 2023-08-08 | 3,433 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

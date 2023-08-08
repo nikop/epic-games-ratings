@@ -13,18 +13,18 @@
 | Capacitors | 32.00% | ~37 |
 | Mug | 29.00% | ~34 |
 | Soldering iron | 28.00% | ~33 |
-| Robot Bros | 24.00% | ~28 |
+| Robot Bros | 25.00% | ~29 |
 | Act 2 | 24.00% | ~28 |
 | Harpoon | 21.00% | ~25 |
 | Cassette | 20.00% | ~23 |
 | Act 3 | 20.00% | ~23 |
 | Here we go again | 19.00% | ~22 |
-| Flyer | 16.00% | ~19 |
+| Flyer | 17.00% | ~20 |
 | It’s in the Vault | 15.00% | ~18 |
 | Dr. Antivirus | 15.00% | ~18 |
 | Photo | 14.00% | ~16 |
+| Access protocol | 14.00% | ~16 |
 | Time Capsule | 13.00% | ~15 |
-| Access protocol | 13.00% | ~15 |
 | Ticket | 12.00% | ~14 |
 | Contract | 9.00% | ~11 |
 | Baseball | 9.00% | ~11 |

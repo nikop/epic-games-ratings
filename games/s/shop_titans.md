@@ -10,7 +10,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Titan's First Steps | 0.80% | ~1,073 |
 | Basic in Bulk | 0.70% | ~939 |
 | Tinkle of Coins | 0.70% | ~939 |
-| Disintermediation | 0.50% | ~671 |
+| Disintermediation | 0.60% | ~805 |
 | It's Free Real Estate | 0.50% | ~671 |
 | Budding Merchant | 0.50% | ~671 |
 | Capitalism Ho! | 0.50% | ~671 |
@@ -39,6 +39,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Blank Page Syndrome | 0.20% | ~268 |
 | Scrapbooker | 0.20% | ~268 |
 | Locally Sourced | 0.20% | ~268 |
+| This Power Level...! | 0.20% | ~268 |
 | Master of Transmutation | 0.20% | ~268 |
 | Power of Love | 0.20% | ~268 |
 | Expansion in Session | 0.20% | ~268 |
@@ -75,7 +76,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flying off the Shelves | 0.10% | ~134 |
 | Industrial Evolution | 0.10% | ~134 |
 | Oligarch Monarch | 0.10% | ~134 |
-| This Power Level...! | 0.10% | ~134 |
 | Omae wa Mou Shindeiru | 0.10% | ~134 |
 | Hidden Potential | 0.10% | ~134 |
 | Unleashed Potential | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,133 (Ranked 65)  
+Progressed: 134,135 (Ranked 65)  
 Completed: 131 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-05 | 133,956 | 128 |
 | 2023-08-06 | 134,025 | 129 |
 | 2023-08-07 | 134,099 | 130 |
-| 2023-08-08 | 134,133 | 131 |
+| 2023-08-08 | 134,135 | 131 |
 ## Awards
 Max (Great for Beginners): 4,691  (Ranked 71)  
 Sum: 27,067 (Ranked 46)  

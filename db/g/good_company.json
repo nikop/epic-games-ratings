@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5258,
+  "EOS_Progressed": 5259,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2795,6 +2795,11 @@
       "Time": "2023-08-07T23:03:52.6851492+00:00",
       "NumProgressed": 5258,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-08T13:08:47.3381815+00:00",
+      "NumProgressed": 5259,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -2918,7 +2923,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2629
+      "UsersEstimate": 2630
     },
     {
       "ID": "ach_campaign_progress6",
@@ -3158,7 +3163,7 @@
       "Name": "Millionaire",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ach_frp_many_modules",
@@ -3413,15 +3418,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5258,
+      "Progressed": 5259,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-08-08T12:03:30.4058361+00:00",
+  "LastChanged_Achievements": "2023-08-08T13:08:47.3381808+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:54.1245019+00:00",
-  "LastUpdate_Ratings": "2023-08-08T12:00:20.5602159+00:00",
-  "LastUpdate_Achievements": "2023-08-08T12:03:30.4059133+00:00"
+  "LastUpdate_Ratings": "2023-08-08T13:04:50.2038912+00:00",
+  "LastUpdate_Achievements": "2023-08-08T13:08:47.3382613+00:00"
 }

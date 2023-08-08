@@ -4,7 +4,7 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -232,9 +232,9 @@
       "ID": "10_Flyer",
       "SetID": "681m9fa",
       "Name": "Flyer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "11_Itsinthevault",
@@ -312,17 +312,17 @@
       "ID": "20_AccessProtocol",
       "SetID": "681m9fa",
       "Name": "Access protocol",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "21_RobotBros",
       "SetID": "681m9fa",
       "Name": "Robot Bros",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "22_OutOfTheLoop",
@@ -401,8 +401,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-08-08T12:04:31.1317162+00:00",
+  "LastChanged_Achievements": "2023-08-08T13:09:43.2185256+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:39.9243609+00:00",
-  "LastUpdate_Ratings": "2023-08-08T11:59:02.1171439+00:00",
-  "LastUpdate_Achievements": "2023-08-08T12:04:31.1317328+00:00"
+  "LastUpdate_Ratings": "2023-08-08T13:03:55.6584014+00:00",
+  "LastUpdate_Achievements": "2023-08-08T13:09:43.2185449+00:00"
 }

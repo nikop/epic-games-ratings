@@ -17,11 +17,11 @@ Rating: 4.60 (Ranked 392)
 | The Harder They Fall | 17.00% | ~141 |
 | No, Thanks! | 17.00% | ~141 |
 | Breaking Down Barriers | 17.00% | ~141 |
+| The Wicked Twins | 17.00% | ~141 |
 | Honest Mistake | 17.00% | ~141 |
 | Fast Learner | 17.00% | ~141 |
 | Immaculate Aim | 17.00% | ~141 |
 | The Betrayer | 16.00% | ~132 |
-| The Wicked Twins | 16.00% | ~132 |
 | Right On Time | 15.00% | ~124 |
 | Like Clockwork | 15.00% | ~124 |
 | The Man Who Shattered Time | 15.00% | ~124 |
