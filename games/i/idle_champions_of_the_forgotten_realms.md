@@ -1,16 +1,16 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 916)  
+Rating: 4.06 (Ranked 917)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~10,997 |
-| Beast Intentions | 3.00% | ~6,598 |
+| A Brief Tour of the Realms | 5.00% | ~10,998 |
+| Beast Intentions | 3.00% | ~6,599 |
 | Maddening | 2.00% | ~4,399 |
-| The Silken Swamp | 1.00% | ~2,199 |
-| Supply Run | 1.00% | ~2,199 |
+| The Silken Swamp | 1.00% | ~2,200 |
+| Supply Run | 1.00% | ~2,200 |
 | Vecna Lives! | 1.00% | ~1,862 |
 | Rocky Reception | 1.00% | ~1,862 |
 | Rock and Roll | 1.00% | ~1,862 |
@@ -200,6 +200,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.20% | ~372 |
 | Weak Doesn't Mean Feeble | 0.20% | ~372 |
 | Frail Doesn't Mean Broken | 0.20% | ~372 |
+| Unreasonable Doesn't Mean Stupid | 0.20% | ~372 |
 | Clowning Around | 0.20% | ~372 |
 | Anti-Dexterous Explorers | 0.20% | ~440 |
 | Struggling Toward Omu | 0.20% | ~440 |
@@ -247,6 +248,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Questlines | 0.20% | ~372 |
 | Bel's Forge | 0.20% | ~372 |
 | Rime Bandits | 0.20% | ~372 |
+| Enemy Summit | 0.20% | ~372 |
 | The Sibriex | 0.20% | ~372 |
 | Wrecked Flying Fortress | 0.20% | ~372 |
 | Sunblight | 0.20% | ~372 |
@@ -304,7 +306,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Strength of Character | 0.10% | ~186 |
 | The Invisible Wizards of Thay | 0.10% | ~186 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~186 |
-| Unreasonable Doesn't Mean Stupid | 0.10% | ~186 |
 | Kas the Bloody Handed | 0.10% | ~186 |
 | Kas the Destroyer | 0.10% | ~186 |
 | Pin and Skewer | 0.10% | ~186 |
@@ -453,7 +454,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Prisoners of Unknown Choices | 0.10% | ~186 |
 | Giant-Size Adventure | 0.10% | ~186 |
 | Power of Three | 0.10% | ~186 |
-| Enemy Summit | 0.10% | ~186 |
 | Mirage Arcane | 0.10% | ~186 |
 | Only Human | 0.10% | ~186 |
 | An Awakened Axe | 0.10% | ~186 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,943 (Ranked 52)  
+Progressed: 219,961 (Ranked 52)  
 Completed: 2,165 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 2,165 (0.98%) (Ranked 114)
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
-| 2023-08-08 | 219,943 | 2,165 |
+| 2023-08-08 | 219,961 | 2,165 |
 ## Awards
 Max (Diverse Characters): 5,125  (Ranked 67)  
 Sum: 30,947 (Ranked 38)  

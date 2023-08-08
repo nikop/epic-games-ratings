@@ -6,41 +6,41 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~623,684 |
-| Escaped Asphodel | 80.00% | ~560,614 |
-| Arms Collector | 71.00% | ~497,545 |
-| Friends in High Places | 68.00% | ~476,522 |
-| Escaped Elysium | 66.00% | ~462,507 |
-| Chthonic Colleagues | 63.00% | ~441,484 |
-| Is There No Escape? | 52.00% | ~364,399 |
-| Death Dealer | 45.00% | ~315,346 |
-| Skelly Slayer | 42.00% | ~294,323 |
-| Well Stocked | 40.00% | ~280,307 |
-| Back to Work | 38.00% | ~266,292 |
-| Day-or-Night Trader | 37.00% | ~259,284 |
-| Blessed by the Gods | 37.00% | ~259,284 |
-| Urge to Sing | 36.00% | ~252,276 |
-| Blood Bound | 35.00% | ~245,269 |
-| Three-Headed Boy | 32.00% | ~224,246 |
-| River Denizens | 28.00% | ~196,215 |
-| Grown Close | 28.00% | ~196,215 |
-| Home Makeover | 27.00% | ~189,207 |
-| Had to Happen | 25.00% | ~175,192 |
-| The Family Secret | 25.00% | ~175,192 |
+| Escaped Tartarus | 89.00% | ~623,686 |
+| Escaped Asphodel | 80.00% | ~560,617 |
+| Arms Collector | 71.00% | ~497,547 |
+| Friends in High Places | 68.00% | ~476,524 |
+| Escaped Elysium | 66.00% | ~462,509 |
+| Chthonic Colleagues | 63.00% | ~441,486 |
+| Is There No Escape? | 52.00% | ~364,401 |
+| Death Dealer | 45.00% | ~315,347 |
+| Skelly Slayer | 42.00% | ~294,324 |
+| Well Stocked | 40.00% | ~280,308 |
+| Back to Work | 38.00% | ~266,293 |
+| Day-or-Night Trader | 37.00% | ~259,285 |
+| Blessed by the Gods | 37.00% | ~259,285 |
+| Urge to Sing | 36.00% | ~252,278 |
+| Blood Bound | 35.00% | ~245,270 |
+| Three-Headed Boy | 32.00% | ~224,247 |
+| River Denizens | 28.00% | ~196,216 |
+| Grown Close | 28.00% | ~196,216 |
+| Home Makeover | 27.00% | ~189,208 |
+| Had to Happen | 25.00% | ~175,193 |
+| The Family Secret | 25.00% | ~175,193 |
 | Tools of the Architect | 23.00% | ~161,177 |
 | Master of Arms | 23.00% | ~161,177 |
-| To Charon's Credit | 22.00% | ~154,169 |
-| Rare Collectible | 22.00% | ~154,169 |
-| Weapon of Fate | 21.00% | ~147,161 |
+| To Charon's Credit | 22.00% | ~154,170 |
+| Rare Collectible | 22.00% | ~154,170 |
+| Weapon of Fate | 21.00% | ~147,162 |
 | Something From Everyone | 19.00% | ~133,146 |
-| Hold the Onions | 18.00% | ~126,138 |
+| Hold the Onions | 18.00% | ~126,139 |
 | Well Versed | 17.00% | ~119,131 |
-| War-God's Bloodlust | 15.00% | ~105,115 |
+| War-God's Bloodlust | 15.00% | ~105,116 |
 | Musician and Muse | 14.00% | ~98,108 |
 | The Useless Trinket | 13.00% | ~91,100 |
 | Champion of Elysium | 13.00% | ~91,100 |
-| Slashed Benefits | 12.00% | ~84,092 |
-| Haste of Hermes | 11.00% | ~77,084 |
+| Slashed Benefits | 12.00% | ~84,093 |
+| Haste of Hermes | 11.00% | ~77,085 |
 | Bad Call | 10.00% | ~70,077 |
 | Nyx's Mirror | 10.00% | ~70,077 |
 | Night and Darkness | 10.00% | ~70,077 |
@@ -48,7 +48,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Dark Reflections | 9.00% | ~63,069 |
 | Thanks, But No Thanks | 9.00% | ~63,069 |
 | Infernal Arms | 9.00% | ~63,069 |
-| Divided by Death | 8.00% | ~56,061 |
+| Divided by Death | 8.00% | ~56,062 |
 | Harsh Conditions | 7.00% | ~49,054 |
 | One for the Ages | 7.00% | ~49,054 |
 | Complete Set | 6.00% | ~42,046 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,031 |
 | Friends Forever | 4.00% | ~28,031 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 700,768 (Ranked 21)  
+Progressed: 700,771 (Ranked 21)  
 Completed: 6,283 (0.90%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,10 +166,10 @@ Completed: 6,283 (0.90%) (Ranked 116)
 | 2023-08-05 | 700,519 | 6,273 |
 | 2023-08-06 | 700,641 | 6,279 |
 | 2023-08-07 | 700,717 | 6,282 |
-| 2023-08-08 | 700,768 | 6,283 |
+| 2023-08-08 | 700,771 | 6,283 |
 ## Awards
 Max (Character Customization): 3,205  (Ranked 90)  
-Sum: 7,763 (Ranked 101)  
+Sum: 7,764 (Ranked 101)  
 Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
@@ -185,7 +185,7 @@ Diff (max vs sum): -11
 | This game is Relaxing | 232 |
 | This game has Unique Visuals | 227 |
 | This game has Challenging Combat | 170 |
-| This game has a Creative Community | 160 |
+| This game has a Creative Community | 161 |
 | This game has Obsessive Gameplay | 144 |
 | This game is Educational | 51 |
 ## Ratings History
@@ -375,4 +375,4 @@ Diff (max vs sum): -11
 | 2023-08-05 | 4.92 | - | 3,200 | 7,753 |
 | 2023-08-06 | 4.92 | - | 3,200 | 7,756 |
 | 2023-08-07 | 4.92 | - | 3,202 | 7,759 |
-| 2023-08-08 | 4.92 | - | 3,205 | 7,763 |
+| 2023-08-08 | 4.92 | - | 3,205 | 7,764 |

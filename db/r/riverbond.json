@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524498,
+  "EOS_Progressed": 524499,
   "EOS_Completed": 455,
-  "EOS_NewPlayers": 634,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -12060,6 +12060,11 @@
       "Time": "2023-08-08T18:05:10.9026398+00:00",
       "NumProgressed": 524498,
       "NumCompleted": 455
+    },
+    {
+      "Time": "2023-08-08T19:04:36.0698918+00:00",
+      "NumProgressed": 524499,
+      "NumCompleted": 455
     }
   ],
   "TotalAchievements": 57,
@@ -12079,7 +12084,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 236024
+      "UsersEstimate": 236025
     },
     {
       "ID": "11",
@@ -12295,7 +12300,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 262249
+      "UsersEstimate": 262250
     },
     {
       "ID": "36",
@@ -12327,7 +12332,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 178329
+      "UsersEstimate": 178330
     },
     {
       "ID": "4",
@@ -12415,7 +12420,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 178329
+      "UsersEstimate": 178330
     },
     {
       "ID": "5",
@@ -12447,7 +12452,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 241269
+      "UsersEstimate": 241270
     },
     {
       "ID": "53",
@@ -12526,15 +12531,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 524498,
+      "Progressed": 524499,
       "Completed": 455
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-08T18:05:10.9026394+00:00",
+  "LastChanged_Achievements": "2023-08-08T19:04:36.0698911+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.5047426+00:00",
-  "LastUpdate_Ratings": "2023-08-08T17:58:31.857819+00:00",
-  "LastUpdate_Achievements": "2023-08-08T18:05:10.902714+00:00"
+  "LastUpdate_Ratings": "2023-08-08T18:58:00.2278784+00:00",
+  "LastUpdate_Achievements": "2023-08-08T19:04:36.0700312+00:00"
 }

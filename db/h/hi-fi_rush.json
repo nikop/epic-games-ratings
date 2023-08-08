@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3802,
+  "EOS_Progressed": 3803,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5517,6 +5517,11 @@
       "Time": "2023-08-08T16:04:40.9646421+00:00",
       "NumProgressed": 3802,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-08T19:04:38.5020611+00:00",
+      "NumProgressed": 3803,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -5830,9 +5835,9 @@
       "ID": "Ach039",
       "SetID": "12n4k20",
       "Name": "First we parry, then we counter",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "Ach040",
@@ -6095,13 +6100,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3802,
+      "Progressed": 3803,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2323,
+      "Progressed": 2324,
       "Completed": 1928
     }
   ],
@@ -6109,8 +6114,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-08-08T18:05:13.934461+00:00",
+  "LastChanged_Achievements": "2023-08-08T19:04:38.5020604+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:24.9640697+00:00",
-  "LastUpdate_Ratings": "2023-08-08T17:59:42.1755882+00:00",
-  "LastUpdate_Achievements": "2023-08-08T18:05:13.9345498+00:00"
+  "LastUpdate_Ratings": "2023-08-08T18:59:01.3342606+00:00",
+  "LastUpdate_Achievements": "2023-08-08T19:04:38.502176+00:00"
 }

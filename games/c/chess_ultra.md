@@ -1,35 +1,35 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.27 (Ranked 805)  
+Rating: 4.28 (Ranked 798)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 69.00% | ~137,201 |
-| Doubled Pawn | 56.00% | ~111,352 |
-| Check | 54.00% | ~107,375 |
-| Absolute pin | 46.00% | ~91,467 |
-| Promotion | 30.00% | ~59,653 |
-| Checkmate | 29.00% | ~57,664 |
-| O-O | 23.00% | ~45,734 |
-| Queen Sacrifice | 20.00% | ~39,768 |
-| Spanish Bishop | 20.00% | ~39,768 |
-| Stalemate | 18.00% | ~35,792 |
-| O-O-O | 13.00% | ~25,849 |
-| Octopus | 13.00% | ~25,849 |
-| Stranger Danger | 12.00% | ~23,861 |
-| En Passant | 8.00% | ~15,907 |
-| Double Check | 7.00% | ~13,919 |
+| Chop Wood | 69.00% | ~137,211 |
+| Doubled Pawn | 56.00% | ~111,360 |
+| Check | 54.00% | ~107,383 |
+| Absolute pin | 46.00% | ~91,474 |
+| Promotion | 30.00% | ~59,657 |
+| Checkmate | 29.00% | ~57,669 |
+| O-O | 23.00% | ~45,737 |
+| Queen Sacrifice | 20.00% | ~39,771 |
+| Spanish Bishop | 20.00% | ~39,771 |
+| Stalemate | 18.00% | ~35,794 |
+| O-O-O | 13.00% | ~25,851 |
+| Octopus | 13.00% | ~25,851 |
+| Stranger Danger | 12.00% | ~23,863 |
+| En Passant | 8.00% | ~15,909 |
+| Double Check | 7.00% | ~13,920 |
 | Piece Collector | 6.00% | ~11,931 |
-| ELO | 5.00% | ~9,942 |
-| Family Fork | 5.00% | ~9,942 |
-| Friendly Fire | 5.00% | ~9,942 |
+| ELO | 5.00% | ~9,943 |
+| Family Fork | 5.00% | ~9,943 |
+| Friendly Fire | 5.00% | ~9,943 |
 | Underpromote | 4.00% | ~7,954 |
-| ELO ELO | 3.00% | ~5,965 |
+| ELO ELO | 3.00% | ~5,966 |
 | Blind Pigs | 2.00% | ~3,977 |
 | ELO ELO ELO | 2.00% | ~3,977 |
 | Learner | 2.00% | ~3,977 |
-| Bobby Time | 1.00% | ~1,988 |
+| Bobby Time | 1.00% | ~1,989 |
 | Back-rank Mate | 0.90% | ~1,790 |
 | Chess Champion | 0.30% | ~597 |
 | Alekhine’s gun | 0.20% | ~398 |
@@ -44,7 +44,7 @@ Rating: 4.27 (Ranked 805)
 | Tournament Master | 0.10% | ~199 |
 | Tournament Pro | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198,842 (Ranked 56)  
+Progressed: 198,857 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 2 (0.00%) (Ranked 251)
 | 2023-08-05 | 198,170 | 2 |
 | 2023-08-06 | 198,435 | 2 |
 | 2023-08-07 | 198,681 | 2 |
-| 2023-08-08 | 198,842 | 2 |
+| 2023-08-08 | 198,857 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -208,3 +208,4 @@ Completed: 2 (0.00%) (Ranked 251)
 | 2023-07-27 | 4.27 | 0 | 0 |
 | 2023-08-02 | 4.28 | 0 | 0 |
 | 2023-08-07 | 4.27 | 0 | 0 |
+| 2023-08-08 | 4.28 | 0 | 0 |

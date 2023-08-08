@@ -1,11 +1,11 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.27 (Ranked 805)  
+Rating: 4.27 (Ranked 806)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 81.00% | ~305 |
+| MASTER CHEF | 82.00% | ~309 |
 | FIRST BLOOD | 77.00% | ~290 |
 | KEVIN! | 67.00% | ~253 |
 | JACK OF ALL TRADES | 60.00% | ~226 |

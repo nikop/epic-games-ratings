@@ -4,8 +4,8 @@
   "ProductSlug": "quantum-recharged-6553fd",
   "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -25,9 +25,115 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-08T19:03:18.1238317+00:00",
+  "TotalAchievements": 13,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_Acquire_All_Pickups",
+      "SetID": "a2lh3dj",
+      "Name": "Terrapin Station",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Acquire_Pickups",
+      "SetID": "a2lh3dj",
+      "Name": "Built to Last",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Complete_All_Achievements",
+      "SetID": "a2lh3dj",
+      "Name": "Sugaree",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Complete_All_Missions",
+      "SetID": "a2lh3dj",
+      "Name": "Standing on the Moon",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Get_Points_In_Arcade",
+      "SetID": "a2lh3dj",
+      "Name": "Ripple",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Get_Points_In_Arcade_2",
+      "SetID": "a2lh3dj",
+      "Name": "Darkstar",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Kill_Electrons",
+      "SetID": "a2lh3dj",
+      "Name": "Supplication",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Kill_Enemies_With_Single_Deadzone",
+      "SetID": "a2lh3dj",
+      "Name": "The Eleven",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Kill_Enemies_With_Single_Deadzone_2",
+      "SetID": "a2lh3dj",
+      "Name": "Operator",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Maintain_Max_Combo",
+      "SetID": "a2lh3dj",
+      "Name": "Unbroken Chain",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Reach_Maximum_Combo",
+      "SetID": "a2lh3dj",
+      "Name": "High Time",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Revive_Partner",
+      "SetID": "a2lh3dj",
+      "Name": "That\u0027s it for the Other One",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Survive_In_Arcade",
+      "SetID": "a2lh3dj",
+      "Name": "Touch of Grey",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "a2lh3dj",
@@ -37,8 +143,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T17:02:16.8413806+00:00",
-  "LastChanged_Achievements": "2023-08-08T18:03:50.8491737+00:00",
+  "LastChanged_Achievements": "2023-08-08T19:03:18.1238275+00:00",
   "LastUpdate_AppInfo": "2023-08-03T16:57:09.0880995+00:00",
-  "LastUpdate_Ratings": "2023-08-08T17:57:38.6803631+00:00",
-  "LastUpdate_Achievements": "2023-08-08T18:03:50.8491767+00:00"
+  "LastUpdate_Ratings": "2023-08-08T18:57:12.2381787+00:00",
+  "LastUpdate_Achievements": "2023-08-08T19:03:18.1278146+00:00"
 }

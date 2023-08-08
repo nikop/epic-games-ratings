@@ -16,6 +16,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 2.00% | ~267 |
 | Ambitious | 1.00% | ~133 |
 | Architect | 1.00% | ~133 |
+| Brilliant | 1.00% | ~133 |
 | Enlightened | 1.00% | ~133 |
 | Fountainhead | 1.00% | ~133 |
 | Glorious | 1.00% | ~133 |
@@ -50,8 +51,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~133 |
 | Trade Caravan | 1.00% | ~133 |
 | Poetic Leader | 1.00% | ~133 |
-| Brilliant | 0.90% | ~120 |
 | Great | 0.90% | ~120 |
+| Apadana | 0.90% | ~120 |
 | Colossus | 0.90% | ~120 |
 | Musaeum | 0.90% | ~120 |
 | Necropolis | 0.90% | ~120 |
@@ -61,7 +62,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.80% | ~107 |
 | Artisans | 0.80% | ~107 |
 | Furious Family | 0.80% | ~107 |
-| Apadana | 0.80% | ~107 |
+| Egyptian Paganism | 0.80% | ~107 |
 | Drillmaster | 0.70% | ~93 |
 | Intercessor | 0.70% | ~93 |
 | Valiant | 0.70% | ~93 |
@@ -70,7 +71,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.70% | ~93 |
 | Learn to Play 2 | 0.70% | ~93 |
 | Greece | 0.70% | ~93 |
-| Egyptian Paganism | 0.70% | ~93 |
 | Mythology | 0.70% | ~93 |
 | Points Victory | 0.70% | ~93 |
 | Hanging Gardens in Babylon | 0.60% | ~80 |
@@ -114,6 +114,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.40% | ~53 |
 | Carthage | 0.40% | ~53 |
 | Assyrian Paganism | 0.40% | ~53 |
+| Industrial Progress | 0.40% | ~53 |
 | Dualism | 0.40% | ~53 |
 | Enlightenment | 0.40% | ~53 |
 | Gnosticism | 0.40% | ~53 |
@@ -133,8 +134,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.30% | ~40 |
 | One True Faith | 0.30% | ~40 |
 | Hittite Paganism | 0.30% | ~40 |
-| Industrial Progress | 0.30% | ~40 |
 | Military Prestige | 0.30% | ~40 |
+| Cataphract Archer | 0.30% | ~40 |
 | Kushite Cavalry | 0.30% | ~40 |
 | Turreted Elephant | 0.30% | ~40 |
 | All Nations | 0.30% | ~40 |
@@ -156,7 +157,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Play-By-Cloud Game | 0.20% | ~27 |
 | Capturing Cities | 0.20% | ~27 |
 | Ten Crowns | 0.20% | ~27 |
-| Cataphract Archer | 0.20% | ~27 |
 | Three Man Chariot | 0.20% | ~27 |
 | Conquest Victory | 0.20% | ~27 |
 | Necropolis in Waset | 0.20% | ~27 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,328 (Ranked 117)  
+Progressed: 13,330 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -413,7 +413,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-05 | 13,281 | 5 |
 | 2023-08-06 | 13,301 | 5 |
 | 2023-08-07 | 13,317 | 5 |
-| 2023-08-08 | 13,328 | 5 |
+| 2023-08-08 | 13,330 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,786 (Ranked 206)  

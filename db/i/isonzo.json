@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -760,9 +760,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6592,
+  "EOS_Progressed": 6593,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4255,6 +4255,11 @@
       "Time": "2023-08-08T18:06:23.5122442+00:00",
       "NumProgressed": 6592,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-08T19:05:37.2178578+00:00",
+      "NumProgressed": 6593,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4282,7 +4287,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 3098
+      "UsersEstimate": 3099
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -4330,7 +4335,7 @@
       "Name": "Decimation",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -4354,7 +4359,7 @@
       "Name": "Donatello",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -4378,7 +4383,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -4394,7 +4399,7 @@
       "Name": "Insubordination",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -4554,7 +4559,7 @@
       "Name": "The Italian Job",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -4625,7 +4630,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6592,
+      "Progressed": 6593,
       "Completed": 8
     }
   ],
@@ -4633,8 +4638,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-08T01:53:04.1863322+00:00",
-  "LastChanged_Achievements": "2023-08-08T18:06:23.5122438+00:00",
+  "LastChanged_Achievements": "2023-08-08T19:05:37.2178569+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:53.1361231+00:00",
-  "LastUpdate_Ratings": "2023-08-08T17:58:40.3829497+00:00",
-  "LastUpdate_Achievements": "2023-08-08T18:06:23.5122887+00:00"
+  "LastUpdate_Ratings": "2023-08-08T18:58:08.5844027+00:00",
+  "LastUpdate_Achievements": "2023-08-08T19:05:37.2179216+00:00"
 }

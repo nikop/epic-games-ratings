@@ -22,8 +22,8 @@ Rating: 4.67 (Ranked 258)
 | Land, Ho! | 48.00% | ~284 |
 | No Man Is An Island | 47.00% | ~278 |
 | At Wits' End | 46.00% | ~272 |
+| Fhtagn! | 45.00% | ~266 |
 | Up In Flames | 44.00% | ~260 |
-| Fhtagn! | 44.00% | ~260 |
 | Bookworm | 43.00% | ~255 |
 | Going Once... | 40.00% | ~237 |
 | Let Me Be Frank | 39.00% | ~231 |

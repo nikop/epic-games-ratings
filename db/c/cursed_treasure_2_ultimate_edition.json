@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 15,
   "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -408,9 +408,9 @@
       "ID": "BADGE_CHAMPIONS_KILL_2",
       "SetID": "ak6pfjk",
       "Name": "V.I.P. Cemetery",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 117
     },
     {
       "ID": "BADGE_DEADMANS_CHEST",
@@ -496,9 +496,9 @@
       "ID": "BADGE_MANA_POTIONS_COLLECT",
       "SetID": "ak6pfjk",
       "Name": "Drunken Master",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "BADGE_METEOR_SIMULTANEOUS_KILL",
@@ -568,9 +568,9 @@
       "ID": "BADGE_STASIS_COUNT",
       "SetID": "ak6pfjk",
       "Name": "Stasis Alcatraz",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 111
     },
     {
       "ID": "BADGE_THUNDER_COUNT",
@@ -592,9 +592,9 @@
       "ID": "BADGE_TOWER_UPGRADE_2",
       "SetID": "ak6pfjk",
       "Name": "Architect of Darkness",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     }
   ],
   "AchievementSets": [
@@ -609,8 +609,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-08-08T18:05:00.8537277+00:00",
+  "LastChanged_Achievements": "2023-08-08T19:04:27.5479529+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:29.1631378+00:00",
-  "LastUpdate_Ratings": "2023-08-08T17:59:46.5701023+00:00",
-  "LastUpdate_Achievements": "2023-08-08T18:05:00.8537634+00:00"
+  "LastUpdate_Ratings": "2023-08-08T18:59:05.0877127+00:00",
+  "LastUpdate_Achievements": "2023-08-08T19:04:27.5480072+00:00"
 }

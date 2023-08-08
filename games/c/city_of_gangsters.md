@@ -5,21 +5,21 @@ Rating: 4.26 (Ranked 812)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~154,465 |
-| Copacetic Coordination | 16.00% | ~53,727 |
-| Fronting the Money | 14.00% | ~47,011 |
-| The Dawn of Automation | 14.00% | ~47,011 |
-| Extraordinary Logistics | 14.00% | ~47,011 |
-| Dirty Money | 13.00% | ~43,653 |
-| Family First | 13.00% | ~43,653 |
-| Cleaning House | 12.00% | ~40,295 |
-| Room in the Back | 12.00% | ~40,295 |
-| Booze Baron | 11.00% | ~36,937 |
-| Beating the Heat | 10.00% | ~33,579 |
-| Friends on the Force | 10.00% | ~33,579 |
-| Neighborhood Watch | 10.00% | ~33,579 |
-| Core Corps | 8.00% | ~26,863 |
-| Sizeable Stash | 8.00% | ~26,863 |
+| Corner Clout | 46.00% | ~154,470 |
+| Copacetic Coordination | 16.00% | ~53,729 |
+| Fronting the Money | 14.00% | ~47,013 |
+| The Dawn of Automation | 14.00% | ~47,013 |
+| Extraordinary Logistics | 14.00% | ~47,013 |
+| Dirty Money | 13.00% | ~43,655 |
+| Family First | 13.00% | ~43,655 |
+| Cleaning House | 12.00% | ~40,297 |
+| Room in the Back | 12.00% | ~40,297 |
+| Booze Baron | 11.00% | ~36,939 |
+| Beating the Heat | 10.00% | ~33,580 |
+| Friends on the Force | 10.00% | ~33,580 |
+| Neighborhood Watch | 10.00% | ~33,580 |
+| Core Corps | 8.00% | ~26,864 |
+| Sizeable Stash | 8.00% | ~26,864 |
 | Street Fighter | 7.00% | ~23,506 |
 | Friendly Gestures | 7.00% | ~23,506 |
 | People Person | 7.00% | ~23,506 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 812)
 | High Pillow | 0.10% | ~336 |
 | Station Master | 0.10% | ~336 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 335,793 (Ranked 41)  
+Progressed: 335,805 (Ranked 41)  
 Completed: 7 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 7 (0.00%) (Ranked 251)
 | 2023-08-05 | 335,160 | 6 |
 | 2023-08-06 | 335,426 | 7 |
 | 2023-08-07 | 335,629 | 7 |
-| 2023-08-08 | 335,793 | 7 |
+| 2023-08-08 | 335,805 | 7 |
 ## Awards
 Max (Highly Recommended): 29  (Ranked 463)  
 Sum: 127 (Ranked 402)  

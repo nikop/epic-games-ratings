@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1482,
+  "EOS_Progressed": 1483,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3073,6 +3073,11 @@
       "Time": "2023-08-08T15:06:07.4280741+00:00",
       "NumProgressed": 1482,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-08T19:05:00.9692197+00:00",
+      "NumProgressed": 1483,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3204,7 +3209,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -3276,7 +3281,7 @@
       "Name": "Gardener",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -3332,7 +3337,7 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -3467,7 +3472,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1482,
+      "Progressed": 1483,
       "Completed": 0
     }
   ],
@@ -3475,8 +3480,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-07-31T07:57:50.7109089+00:00",
-  "LastChanged_Achievements": "2023-08-08T18:05:41.0749621+00:00",
+  "LastChanged_Achievements": "2023-08-08T19:05:00.9692192+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.4356616+00:00",
-  "LastUpdate_Ratings": "2023-08-08T17:58:33.3925147+00:00",
-  "LastUpdate_Achievements": "2023-08-08T18:05:41.0750064+00:00"
+  "LastUpdate_Ratings": "2023-08-08T18:58:02.6252029+00:00",
+  "LastUpdate_Achievements": "2023-08-08T19:05:00.9692888+00:00"
 }

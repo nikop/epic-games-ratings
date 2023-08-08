@@ -7,22 +7,22 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 11.00% | ~21,145 |
-| Thorough | 10.00% | ~19,222 |
-| A thief's beginning | 9.00% | ~17,300 |
+| Thorough | 10.00% | ~19,223 |
+| A thief's beginning | 9.00% | ~17,301 |
 | Disguised | 8.00% | ~15,378 |
 | Rollin' | 8.00% | ~15,378 |
 | Tanuki Time | 8.00% | ~15,378 |
 | Jonin | 7.00% | ~13,456 |
 | Rescue Takuma | 7.00% | ~13,456 |
 | Stoned Ox | 7.00% | ~13,456 |
-| Chunin | 6.00% | ~11,533 |
-| Happy Planning | 6.00% | ~11,533 |
-| Ice Ice Yuki | 6.00% | ~11,533 |
-| Yabu | 6.00% | ~11,533 |
-| Flying Rocks | 5.00% | ~9,611 |
-| Mugen Unchained | 5.00% | ~9,611 |
-| Okkoto | 5.00% | ~9,611 |
-| Warzone | 5.00% | ~9,611 |
+| Chunin | 6.00% | ~11,534 |
+| Happy Planning | 6.00% | ~11,534 |
+| Ice Ice Yuki | 6.00% | ~11,534 |
+| Yabu | 6.00% | ~11,534 |
+| Flying Rocks | 5.00% | ~9,612 |
+| Mugen Unchained | 5.00% | ~9,612 |
+| Okkoto | 5.00% | ~9,612 |
+| Warzone | 5.00% | ~9,612 |
 | Gear up | 4.00% | ~7,689 |
 | Happy little accidents | 4.00% | ~7,689 |
 | Prisoners | 4.00% | ~7,689 |
@@ -30,11 +30,11 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 3.00% | ~5,767 |
 | Still Rollin' | 3.00% | ~5,767 |
 | Stoned | 3.00% | ~5,767 |
-| Atheist Ox | 2.00% | ~3,844 |
-| It's raining men | 2.00% | ~3,844 |
-| Old Man | 2.00% | ~3,844 |
-| The Old Way | 2.00% | ~3,844 |
-| Winner Winner | 2.00% | ~3,844 |
+| Atheist Ox | 2.00% | ~3,845 |
+| It's raining men | 2.00% | ~3,845 |
+| Old Man | 2.00% | ~3,845 |
+| The Old Way | 2.00% | ~3,845 |
+| Winner Winner | 2.00% | ~3,845 |
 | Meticulous | 1.00% | ~1,922 |
 | No Gimmicks | 1.00% | ~1,922 |
 | The End | 1.00% | ~1,922 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~192 |
 | Release the Kraken | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192,224 (Ranked 59)  
+Progressed: 192,230 (Ranked 59)  
 Completed: 67 (0.03%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 67 (0.03%) (Ranked 225)
 | 2023-08-05 | 191,476 | 66 |
 | 2023-08-06 | 191,807 | 66 |
 | 2023-08-07 | 192,052 | 66 |
-| 2023-08-08 | 192,224 | 67 |
+| 2023-08-08 | 192,230 | 67 |
 ## Awards
 Max (Great for Beginners): 560  (Ranked 186)  
 Sum: 4,723 (Ranked 134)  
