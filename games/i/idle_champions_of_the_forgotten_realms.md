@@ -6,31 +6,31 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~8,791 |
-| Beast Intentions | 3.00% | ~6,593 |
+| A Brief Tour of the Realms | 4.00% | ~8,792 |
+| Beast Intentions | 3.00% | ~6,594 |
 | Maddening | 2.00% | ~4,396 |
 | The Silken Swamp | 1.00% | ~2,198 |
 | Supply Run | 1.00% | ~2,198 |
 | Vecna Lives! | 1.00% | ~1,861 |
 | Rocky Reception | 1.00% | ~1,861 |
 | Rock and Roll | 1.00% | ~1,861 |
-| Vecna Loots! | 0.90% | ~1,674 |
-| Flight of the Kindori Pod | 0.90% | ~1,674 |
-| Tall Tales | 0.80% | ~1,488 |
-| Seeds of Destruction | 0.80% | ~1,488 |
+| Vecna Loots! | 0.90% | ~1,675 |
+| Flight of the Kindori Pod | 0.90% | ~1,675 |
+| Tall Tales | 0.80% | ~1,489 |
+| Seeds of Destruction | 0.80% | ~1,489 |
 | The Cursed Farmer | 0.80% | ~1,758 |
-| Topolah's Tower | 0.80% | ~1,488 |
-| Pros and CONs | 0.70% | ~1,538 |
-| Wet Feet | 0.70% | ~1,538 |
+| Topolah's Tower | 0.80% | ~1,489 |
+| Pros and CONs | 0.70% | ~1,539 |
+| Wet Feet | 0.70% | ~1,539 |
 | Return to the Tomb | 0.70% | ~1,302 |
 | Heatwave | 0.70% | ~1,302 |
-| Were-verpowered | 0.70% | ~1,538 |
-| A Persistent Buzzing | 0.70% | ~1,538 |
-| Terror in the Dark | 0.70% | ~1,538 |
-| A Mysterious Summons | 0.70% | ~1,538 |
-| Building Trust | 0.70% | ~1,538 |
-| Unearthed Evil | 0.70% | ~1,538 |
-| The Mad Wizard | 0.70% | ~1,538 |
+| Were-verpowered | 0.70% | ~1,539 |
+| A Persistent Buzzing | 0.70% | ~1,539 |
+| Terror in the Dark | 0.70% | ~1,539 |
+| A Mysterious Summons | 0.70% | ~1,539 |
+| Building Trust | 0.70% | ~1,539 |
+| Unearthed Evil | 0.70% | ~1,539 |
+| The Mad Wizard | 0.70% | ~1,539 |
 | The Witchlight Carnival | 0.60% | ~1,116 |
 | Hatchlings Underfoot | 0.60% | ~1,319 |
 | Don't Look Up! | 0.60% | ~1,319 |
@@ -91,6 +91,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.40% | ~879 |
 | A Tale of Two Cities | 0.40% | ~879 |
 | The Dead Three | 0.40% | ~879 |
+| The Darkness Runs Deeper | 0.40% | ~879 |
 | Running of the Saurs | 0.40% | ~879 |
 | The Contagious Curse | 0.40% | ~879 |
 | Escort to Waterdeep | 0.40% | ~879 |
@@ -137,6 +138,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | We're not in Faerûn Anymore | 0.30% | ~659 |
 | Chatty Nobles | 0.30% | ~659 |
 | Modron Assistance | 0.30% | ~659 |
+| Thine Bounty is Mine! | 0.30% | ~558 |
 | Haaave You Met Asmodeus? | 0.30% | ~659 |
 | Domesticated Owlbears | 0.30% | ~659 |
 | The Immortal Warrior | 0.30% | ~659 |
@@ -154,7 +156,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lair of the Xanathar | 0.30% | ~659 |
 | Waterdeep Under Siege | 0.30% | ~659 |
 | Crowded Streets | 0.30% | ~659 |
-| The Darkness Runs Deeper | 0.30% | ~659 |
 | Difficult Terrain | 0.30% | ~659 |
 | Vault of Dragons | 0.30% | ~659 |
 | Dinosaur Racing | 0.30% | ~659 |
@@ -207,7 +208,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.20% | ~440 |
 | Poor Fortune | 0.20% | ~440 |
 | Relentless Misfortune | 0.20% | ~440 |
-| Thine Bounty is Mine! | 0.20% | ~372 |
 | This Quest Stinks! | 0.20% | ~372 |
 | Hold for the Red Wizards | 0.20% | ~440 |
 | The Gargoyle's Apprentice | 0.20% | ~440 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,777 (Ranked 52)  
+Progressed: 219,789 (Ranked 52)  
 Completed: 2,163 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 2,163 (0.98%) (Ranked 114)
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
-| 2023-08-08 | 219,777 | 2,163 |
+| 2023-08-08 | 219,789 | 2,163 |
 ## Awards
 Max (Diverse Characters): 5,121  (Ranked 67)  
 Sum: 30,936 (Ranked 38)  

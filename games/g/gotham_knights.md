@@ -50,11 +50,11 @@ Rating: 4.18 (Ranked 868)
 | Hammer and Icicle | 0.30% | ~114 |
 | Renewable Enemy Source | 0.30% | ~114 |
 | Crime Is a Terrible Thing to Waste | 0.30% | ~114 |
+| The Cold, the Bad and the Ugly | 0.30% | ~114 |
 | Talonted | 0.30% | ~203 |
 | The Man-Bat Family | 0.30% | ~203 |
 | Element of Surprise | 0.20% | ~76 |
 | It's Nice to Be Wanted | 0.20% | ~76 |
-| The Cold, the Bad and the Ugly | 0.20% | ~76 |
 | Icebreaker | 0.20% | ~76 |
 | Batarang Collector | 0.20% | ~135 |
 | Claiming the Mural High Ground | 0.20% | ~135 |

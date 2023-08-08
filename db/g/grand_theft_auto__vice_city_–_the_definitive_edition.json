@@ -574,7 +574,7 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 9613,
+  "EOS_Progressed": 9614,
   "EOS_Completed": 45,
   "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 2,
@@ -8089,6 +8089,11 @@
       "Time": "2023-08-08T01:59:49.3729621+00:00",
       "NumProgressed": 9613,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-08-08T04:06:17.0275428+00:00",
+      "NumProgressed": 9614,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 34,
@@ -8180,7 +8185,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "ACH12",
@@ -8204,7 +8209,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3941
+      "UsersEstimate": 3942
     },
     {
       "ID": "ACH15",
@@ -8276,15 +8281,15 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2403
+      "UsersEstimate": 2404
     },
     {
       "ID": "ACH24",
       "SetID": "9llo822",
       "Name": "Big Heat from Little Havana",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1346
     },
     {
       "ID": "ACH25",
@@ -8371,7 +8376,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9613,
+      "Progressed": 9614,
       "Completed": 45
     }
   ],
@@ -8379,8 +8384,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-07T05:59:47.8691353+00:00",
-  "LastChanged_Achievements": "2023-08-08T03:05:25.3572662+00:00",
+  "LastChanged_Achievements": "2023-08-08T04:06:17.0275419+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:06.4488282+00:00",
-  "LastUpdate_Ratings": "2023-08-08T02:59:09.9892675+00:00",
-  "LastUpdate_Achievements": "2023-08-08T03:05:25.3573374+00:00"
+  "LastUpdate_Ratings": "2023-08-08T04:00:11.350931+00:00",
+  "LastUpdate_Achievements": "2023-08-08T04:06:17.0276674+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 411,
+  "EOS_Progressed": 412,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1426,6 +1426,11 @@
       "Time": "2023-08-08T01:58:37.3228548+00:00",
       "NumProgressed": 411,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-08T04:04:50.9926996+00:00",
+      "NumProgressed": 412,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1453,7 +1458,7 @@
       "Name": "Basic Controls",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "BigPlane",
@@ -1461,7 +1466,7 @@
       "Name": "Expensive Plane",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "BudgetFlight",
@@ -1477,7 +1482,7 @@
       "Name": "Calculated",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "Close",
@@ -1597,7 +1602,7 @@
       "Name": "Linear Network",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "LongDistance",
@@ -1605,7 +1610,7 @@
       "Name": "Long Distances",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ManagementMaster",
@@ -1772,14 +1777,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 411,
+      "Progressed": 412,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-08T03:04:12.5943729+00:00",
+  "LastChanged_Achievements": "2023-08-08T04:04:50.9926991+00:00",
   "LastUpdate_AppInfo": "2023-08-01T09:57:03.2842232+00:00",
-  "LastUpdate_Ratings": "2023-08-08T02:57:38.2465209+00:00",
-  "LastUpdate_Achievements": "2023-08-08T03:04:12.5944186+00:00"
+  "LastUpdate_Ratings": "2023-08-08T03:58:22.8620792+00:00",
+  "LastUpdate_Achievements": "2023-08-08T04:04:50.9927468+00:00"
 }

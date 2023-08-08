@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 101422,
+  "EOS_Progressed": 101429,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 1652,
+  "EOS_NewPlayers": 1651,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6332,6 +6332,11 @@
       "Time": "2023-08-08T03:06:18.4579328+00:00",
       "NumProgressed": 101422,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-08-08T04:07:18.0287132+00:00",
+      "NumProgressed": 101429,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 49,
@@ -6351,7 +6356,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 77081
+      "UsersEstimate": 77086
     },
     {
       "ID": "EAwards_10",
@@ -6359,7 +6364,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10142
+      "UsersEstimate": 10143
     },
     {
       "ID": "EAwards_11",
@@ -6367,7 +6372,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 25356
+      "UsersEstimate": 25357
     },
     {
       "ID": "EAwards_12",
@@ -6375,7 +6380,7 @@
       "Name": "Cluckstorm",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 13185
+      "UsersEstimate": 13186
     },
     {
       "ID": "EAwards_13",
@@ -6399,7 +6404,7 @@
       "Name": "He Looks Portable",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9128
+      "UsersEstimate": 9129
     },
     {
       "ID": "EAwards_16",
@@ -6407,7 +6412,7 @@
       "Name": "PERFECT",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6085
+      "UsersEstimate": 6086
     },
     {
       "ID": "EAwards_17",
@@ -6415,7 +6420,7 @@
       "Name": "Talented Player",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 35498
+      "UsersEstimate": 35500
     },
     {
       "ID": "EAwards_18",
@@ -6439,7 +6444,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 47668
+      "UsersEstimate": 47672
     },
     {
       "ID": "EAwards_20",
@@ -6447,7 +6452,7 @@
       "Name": "King of the Hill",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9128
+      "UsersEstimate": 9129
     },
     {
       "ID": "EAwards_21",
@@ -6455,7 +6460,7 @@
       "Name": "Special Delivery!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6085
+      "UsersEstimate": 6086
     },
     {
       "ID": "EAwards_22",
@@ -6479,7 +6484,7 @@
       "Name": "Temple Raider",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 6085
+      "UsersEstimate": 6086
     },
     {
       "ID": "EAwards_25",
@@ -6487,7 +6492,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 18256
+      "UsersEstimate": 18257
     },
     {
       "ID": "EAwards_26",
@@ -6495,7 +6500,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 10142
+      "UsersEstimate": 10143
     },
     {
       "ID": "EAwards_27",
@@ -6519,7 +6524,7 @@
       "Name": "Talk to the Hend",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "EAwards_3",
@@ -6527,7 +6532,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 18256
+      "UsersEstimate": 18257
     },
     {
       "ID": "EAwards_30",
@@ -6543,7 +6548,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 9128
+      "UsersEstimate": 9129
     },
     {
       "ID": "EAwards_32",
@@ -6551,7 +6556,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 6085
+      "UsersEstimate": 6086
     },
     {
       "ID": "EAwards_33",
@@ -6583,7 +6588,7 @@
       "Name": "Legend of the Timelines",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "EAwards_37",
@@ -6615,7 +6620,7 @@
       "Name": "Severed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11156
+      "UsersEstimate": 11157
     },
     {
       "ID": "EAwards_40",
@@ -6711,7 +6716,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10142
+      "UsersEstimate": 10143
     },
     {
       "ID": "EAwards_8",
@@ -6719,7 +6724,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11156
+      "UsersEstimate": 11157
     },
     {
       "ID": "EAwards_9",
@@ -6727,14 +6732,14 @@
       "Name": "Grapple Expert",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9128
+      "UsersEstimate": 9129
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 101422,
+      "Progressed": 101429,
       "Completed": 34
     }
   ],
@@ -6742,8 +6747,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-08-06T04:57:36.0350486+00:00",
-  "LastChanged_Achievements": "2023-08-08T03:06:18.4579321+00:00",
+  "LastChanged_Achievements": "2023-08-08T04:07:18.0287123+00:00",
   "LastUpdate_AppInfo": "2023-08-03T18:57:08.9683273+00:00",
-  "LastUpdate_Ratings": "2023-08-08T02:57:33.6349513+00:00",
-  "LastUpdate_Achievements": "2023-08-08T03:06:18.4580189+00:00"
+  "LastUpdate_Ratings": "2023-08-08T03:58:18.1288353+00:00",
+  "LastUpdate_Achievements": "2023-08-08T04:07:18.0288566+00:00"
 }

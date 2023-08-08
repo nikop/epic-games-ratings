@@ -6,21 +6,21 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 8.00% | ~6,568 |
-| Until death do us apart | 8.00% | ~6,568 |
-| Victorious! | 8.00% | ~6,568 |
-| That is mine! | 7.00% | ~5,747 |
-| Brothers in Arms | 6.00% | ~4,926 |
-| That's a Grand Navy | 6.00% | ~4,926 |
-| Seriously?! | 6.00% | ~4,926 |
-| For the Glory | 5.00% | ~4,105 |
-| Cold War | 4.00% | ~3,284 |
-| Defender of the Faith | 3.00% | ~2,463 |
-| It's all about the money | 3.00% | ~2,463 |
-| Respected | 3.00% | ~2,463 |
-| The Princess is in this Castle | 3.00% | ~2,463 |
-| True Catholic | 3.00% | ~2,463 |
-| Truly Divine Ruler | 3.00% | ~2,463 |
+| That's a Grand Army | 8.00% | ~6,570 |
+| Until death do us apart | 8.00% | ~6,570 |
+| Victorious! | 8.00% | ~6,570 |
+| That is mine! | 7.00% | ~5,748 |
+| Brothers in Arms | 6.00% | ~4,927 |
+| That's a Grand Navy | 6.00% | ~4,927 |
+| Seriously?! | 6.00% | ~4,927 |
+| For the Glory | 5.00% | ~4,106 |
+| Cold War | 4.00% | ~3,285 |
+| Defender of the Faith | 3.00% | ~2,464 |
+| It's all about the money | 3.00% | ~2,464 |
+| Respected | 3.00% | ~2,464 |
+| The Princess is in this Castle | 3.00% | ~2,464 |
+| True Catholic | 3.00% | ~2,464 |
+| Truly Divine Ruler | 3.00% | ~2,464 |
 | Agressive Expander | 2.00% | ~1,642 |
 | Blockader | 2.00% | ~1,642 |
 | Combined Arms | 2.00% | ~1,642 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,104 (Ranked 73)  
+Progressed: 82,119 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -471,7 +471,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-05 | 80,125 | 0 |
 | 2023-08-06 | 81,143 | 0 |
 | 2023-08-07 | 82,030 | 0 |
-| 2023-08-08 | 82,104 | 0 |
+| 2023-08-08 | 82,119 | 0 |
 ## Awards
 Max (Educational): 5,630  (Ranked 62)  
 Sum: 46,462 (Ranked 26)  

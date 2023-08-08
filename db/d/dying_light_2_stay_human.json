@@ -8059,9 +8059,9 @@
       "Count": 639
     }
   ],
-  "EOS_Progressed": 609242,
+  "EOS_Progressed": 609249,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 3794,
+  "EOS_NewPlayers": 3791,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20119,6 +20119,11 @@
       "Time": "2023-08-08T03:05:57.6584328+00:00",
       "NumProgressed": 609242,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-08-08T04:06:53.8371993+00:00",
+      "NumProgressed": 609249,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 65,
@@ -20130,7 +20135,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 60924
+      "UsersEstimate": 60925
     },
     {
       "ID": "achievement_02",
@@ -20138,7 +20143,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 60924
+      "UsersEstimate": 60925
     },
     {
       "ID": "achievement_03",
@@ -20266,7 +20271,7 @@
       "Name": "Sancho Panza",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 48739
+      "UsersEstimate": 48740
     },
     {
       "ID": "achievement_19",
@@ -20346,7 +20351,7 @@
       "Name": "Oh, So This Is How It Works!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 48739
+      "UsersEstimate": 48740
     },
     {
       "ID": "achievement_29",
@@ -20649,21 +20654,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 609242,
+      "Progressed": 609249,
       "Completed": 61
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 254686,
+      "Progressed": 254693,
       "Completed": 1425
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-08-07T22:01:01.7287182+00:00",
-  "LastChanged_Achievements": "2023-08-08T03:05:57.6584321+00:00",
+  "LastChanged_Achievements": "2023-08-08T04:06:53.8371986+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:56.1806773+00:00",
-  "LastUpdate_Ratings": "2023-08-08T03:01:03.3751326+00:00",
-  "LastUpdate_Achievements": "2023-08-08T03:05:57.6585779+00:00"
+  "LastUpdate_Ratings": "2023-08-08T04:02:20.6392023+00:00",
+  "LastUpdate_Achievements": "2023-08-08T04:06:53.8374796+00:00"
 }

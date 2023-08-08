@@ -7,16 +7,16 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 75.00% | ~35,108 |
-| I read Shakespeare and stuff | 64.00% | ~29,958 |
-| Just a sprinkle | 63.00% | ~29,490 |
-| I'm stumped | 61.00% | ~28,554 |
-| Plant get enough | 60.00% | ~28,086 |
+| I read Shakespeare and stuff | 64.00% | ~29,959 |
+| Just a sprinkle | 63.00% | ~29,491 |
+| I'm stumped | 61.00% | ~28,555 |
+| Plant get enough | 60.00% | ~28,087 |
 | It's just the beginning | 59.00% | ~27,618 |
 | This is just my weekend vehicle | 58.00% | ~27,150 |
-| Hard work pays off | 53.00% | ~24,809 |
+| Hard work pays off | 53.00% | ~24,810 |
 | It's never too late to farm | 49.00% | ~22,937 |
-| All out of Land | 44.00% | ~20,596 |
-| Field Trip | 43.00% | ~20,128 |
+| All out of Land | 44.00% | ~20,597 |
+| Field Trip | 43.00% | ~20,129 |
 | I like to switch it up | 40.00% | ~18,724 |
 | Help me to help you | 38.00% | ~17,788 |
 | Ultimutt Pawesomeness | 28.00% | ~13,107 |
@@ -28,7 +28,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Long haul | 16.00% | ~7,490 |
 | Clucky Streak | 15.00% | ~7,022 |
 | Large-scale supplier | 15.00% | ~7,022 |
-| That's a wrap | 14.00% | ~6,553 |
+| That's a wrap | 14.00% | ~6,554 |
 | Fix me up | 13.00% | ~6,085 |
 | Rock on | 12.00% | ~5,617 |
 | Highly cultivated | 11.00% | ~5,149 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Fluffyness | 6.00% | ~2,809 |
 | Helper A does not stop … ever | 6.00% | ~2,809 |
 | Bringing in the Honey | 6.00% | ~2,809 |
-| Road Trip | 5.00% | ~2,340 |
+| Road Trip | 5.00% | ~2,341 |
 | Three little piggies… | 4.00% | ~1,872 |
 | Game on | 4.00% | ~1,872 |
 | Pretty colourful | 0.90% | ~421 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~187 |
 | Raisin the stakes | 0.30% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,810 (Ranked 90)  
+Progressed: 46,811 (Ranked 90)  
 Completed: 5 (0.01%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 5 (0.01%) (Ranked 237)
 | 2023-08-05 | 46,675 | 5 |
 | 2023-08-06 | 46,742 | 5 |
 | 2023-08-07 | 46,802 | 5 |
-| 2023-08-08 | 46,810 | 5 |
+| 2023-08-08 | 46,811 | 5 |
 ## Awards
 Max (Great for Beginners): 4,693  (Ranked 70)  
 Sum: 38,920 (Ranked 31)  

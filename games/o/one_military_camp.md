@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The 4 Pillars | 51.00% | ~68 |
 | First Step | 51.00% | ~68 |
-| The 4 Pillars | 50.00% | ~67 |
 | Capitalism | 19.00% | ~25 |
 | Indebted | 11.00% | ~15 |
 | Desert Rat | 10.00% | ~13 |

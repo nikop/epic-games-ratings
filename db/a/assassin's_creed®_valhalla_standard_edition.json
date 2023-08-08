@@ -8026,10 +8026,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 30683,
       "NumberOfAwardsMax": 13106
+    },
+    {
+      "Time": "2023-08-08T03:59:25.8881015+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 30685,
+      "NumberOfAwardsMax": 13106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30683,
+  "NumberOfAwards": 30685,
   "NumberOfAwardsMax": 13106,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8097,7 +8103,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 582
+      "Count": 584
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8117,8 +8123,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-08-08T01:53:10.8027623+00:00",
+  "LastChanged": "2023-08-08T03:59:25.8881012+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:23.2012482+00:00",
-  "LastUpdate_Ratings": "2023-08-08T02:58:31.9172668+00:00",
-  "LastUpdate_Achievements": "2023-08-08T03:05:41.7339858+00:00"
+  "LastUpdate_Ratings": "2023-08-08T03:59:25.8881023+00:00",
+  "LastUpdate_Achievements": "2023-08-08T04:06:36.0743666+00:00"
 }

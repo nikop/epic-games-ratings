@@ -6309,10 +6309,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 50312,
       "NumberOfAwardsMax": 6389
+    },
+    {
+      "Time": "2023-08-08T03:57:36.2075144+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 50313,
+      "NumberOfAwardsMax": 6389
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50312,
+  "NumberOfAwards": 50313,
   "NumberOfAwardsMax": 6389,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -6374,7 +6380,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4345
+      "Count": 4346
     },
     {
       "Text": "This game has a Creative Community",
@@ -6383,9 +6389,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 469492,
+  "EOS_Progressed": 469493,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 745,
+  "EOS_NewPlayers": 746,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17833,6 +17839,11 @@
       "Time": "2023-08-08T03:06:09.8269518+00:00",
       "NumProgressed": 469492,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-08-08T04:07:08.0826042+00:00",
+      "NumProgressed": 469493,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 98,
@@ -18004,7 +18015,7 @@
       "Name": "Splashing The Cash",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 98593
+      "UsersEstimate": 98594
     },
     {
       "ID": "achievement_childhood_dream",
@@ -18020,7 +18031,7 @@
       "Name": "Clean Bill of Health",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 98593
+      "UsersEstimate": 98594
     },
     {
       "ID": "achievement_clean_sheet",
@@ -18044,7 +18055,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 89203
+      "UsersEstimate": 89204
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -18140,7 +18151,7 @@
       "Name": "Irresistible Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 93898
+      "UsersEstimate": 93899
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -18268,7 +18279,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 164322
+      "UsersEstimate": 164323
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -18276,7 +18287,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 150237
+      "UsersEstimate": 150238
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -18284,7 +18295,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 93898
+      "UsersEstimate": 93899
     },
     {
       "ID": "achievement_pick_feeder",
@@ -18348,7 +18359,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 150237
+      "UsersEstimate": 150238
     },
     {
       "ID": "achievement_rushed_signing",
@@ -18388,7 +18399,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 225356
+      "UsersEstimate": 225357
     },
     {
       "ID": "achievement_signed_a_player",
@@ -18627,15 +18638,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 469492,
+      "Progressed": 469493,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-08-08T02:56:58.4006358+00:00",
-  "LastChanged_Achievements": "2023-08-08T03:06:09.8269512+00:00",
+  "LastChanged": "2023-08-08T03:57:36.2075142+00:00",
+  "LastChanged_Achievements": "2023-08-08T04:07:08.0826036+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:24.6594815+00:00",
-  "LastUpdate_Ratings": "2023-08-08T02:56:58.4006367+00:00",
-  "LastUpdate_Achievements": "2023-08-08T03:06:09.8271436+00:00"
+  "LastUpdate_Ratings": "2023-08-08T03:57:36.2075147+00:00",
+  "LastUpdate_Achievements": "2023-08-08T04:07:08.0828407+00:00"
 }

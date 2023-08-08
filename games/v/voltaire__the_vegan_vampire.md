@@ -10,7 +10,7 @@
 | Irrigation not irritation | 36.00% | ~40 |
 | Graduated | 33.00% | ~36 |
 | Night Shift | 24.00% | ~26 |
-| Shine bright | 14.00% | ~15 |
+| Shine bright | 15.00% | ~16 |
 | Ay ay yarrr! | 13.00% | ~14 |
 | It's about the journey | 12.00% | ~13 |
 | C'who? | 9.00% | ~10 |

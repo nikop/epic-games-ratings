@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -1299,9 +1299,9 @@
       "ID": "POINTS_10K",
       "SetID": "44dlcg0",
       "Name": "Little Mayor",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "POINTS_20K",
@@ -1475,17 +1475,17 @@
       "ID": "VALDIVIA_1",
       "SetID": "44dlcg0",
       "Name": "Rainforest builder",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "VALDIVIA_2",
       "SetID": "44dlcg0",
       "Name": "Rainforest urban planner",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "VALDIVIA_3",
@@ -1532,8 +1532,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-08-08T03:03:41.7421014+00:00",
+  "LastChanged_Achievements": "2023-08-08T04:04:15.0488314+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:47.9561549+00:00",
-  "LastUpdate_Ratings": "2023-08-08T02:59:51.2448974+00:00",
-  "LastUpdate_Achievements": "2023-08-08T03:03:41.7422023+00:00"
+  "LastUpdate_Ratings": "2023-08-08T04:00:57.7396247+00:00",
+  "LastUpdate_Achievements": "2023-08-08T04:04:15.0489919+00:00"
 }

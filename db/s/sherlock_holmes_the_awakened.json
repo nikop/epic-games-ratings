@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -58,11 +58,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 591,
+  "EOS_Progressed": 592,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.23,
+  "EOS_Completed_Percentage": 4.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -2068,6 +2068,11 @@
       "Time": "2023-08-07T02:04:37.8098211+00:00",
       "NumProgressed": 591,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-08-08T04:08:37.1632561+00:00",
+      "NumProgressed": 592,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 28,
@@ -2079,7 +2084,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "MQ01_2",
@@ -2087,7 +2092,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "MQ02_1",
@@ -2127,7 +2132,7 @@
       "Name": "Fond Memories",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "MQ03_2",
@@ -2143,7 +2148,7 @@
       "Name": "History Check",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "MQ03_4",
@@ -2159,7 +2164,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "MQ04_1",
@@ -2167,7 +2172,7 @@
       "Name": "Going Once...",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "MQ04_2",
@@ -2175,7 +2180,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "MQ04_3",
@@ -2189,9 +2194,9 @@
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 290
     },
     {
       "ID": "MQ05_2",
@@ -2231,15 +2236,15 @@
       "Name": "Bookworm",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 284
     },
     {
       "ID": "MQ06_4",
@@ -2302,7 +2307,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 591,
+      "Progressed": 592,
       "Completed": 25
     }
   ],
@@ -2310,8 +2315,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-06T01:44:20.5292495+00:00",
-  "LastChanged_Achievements": "2023-08-08T03:07:26.2246145+00:00",
+  "LastChanged_Achievements": "2023-08-08T04:08:37.1632556+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:41.2332437+00:00",
-  "LastUpdate_Ratings": "2023-08-08T02:58:08.0276559+00:00",
-  "LastUpdate_Achievements": "2023-08-08T03:07:26.224649+00:00"
+  "LastUpdate_Ratings": "2023-08-08T03:58:58.3002201+00:00",
+  "LastUpdate_Achievements": "2023-08-08T04:08:37.1632893+00:00"
 }

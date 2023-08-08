@@ -4,7 +4,7 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 296,
+  "EOS_Progressed": 297,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -626,6 +626,11 @@
       "Time": "2023-08-07T20:06:34.1884024+00:00",
       "NumProgressed": 296,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-08T04:07:25.7766614+00:00",
+      "NumProgressed": 297,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -701,7 +706,7 @@
       "Name": "Newbie",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1757,7 +1762,7 @@
       "Name": "Photo shoot",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_76",
@@ -1932,14 +1937,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 296,
+      "Progressed": 297,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-08-08T03:06:25.0749062+00:00",
+  "LastChanged_Achievements": "2023-08-08T04:07:25.7766606+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:34.7177398+00:00",
-  "LastUpdate_Ratings": "2023-08-08T02:57:56.1126736+00:00",
-  "LastUpdate_Achievements": "2023-08-08T03:06:25.0752276+00:00"
+  "LastUpdate_Ratings": "2023-08-08T03:58:44.1747577+00:00",
+  "LastUpdate_Achievements": "2023-08-08T04:07:25.777182+00:00"
 }

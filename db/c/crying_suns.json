@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 464749,
+  "EOS_Progressed": 464752,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 503,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11907,6 +11907,11 @@
       "Time": "2023-08-08T03:05:08.8077051+00:00",
       "NumProgressed": 464749,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-08T04:05:57.6647699+00:00",
+      "NumProgressed": 464752,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -11958,7 +11963,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -11966,7 +11971,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -12030,7 +12035,7 @@
       "Name": "Through the mirror",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -12054,7 +12059,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -12062,7 +12067,7 @@
       "Name": "The Survivalists",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -12070,7 +12075,7 @@
       "Name": "Tetsuo",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -12078,7 +12083,7 @@
       "Name": "General Vivar",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -12102,7 +12107,7 @@
       "Name": "Second Coming",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 2788
+      "UsersEstimate": 2789
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -12110,7 +12115,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -12342,7 +12347,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 2788
+      "UsersEstimate": 2789
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -12374,7 +12379,7 @@
       "Name": "Careful planning",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 2788
+      "UsersEstimate": 2789
     },
     {
       "ID": "achievement_win_run_hard",
@@ -12549,21 +12554,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 8683,
+      "Progressed": 8686,
       "Completed": 2354
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 464749,
+      "Progressed": 464752,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-08-08T03:05:08.8077044+00:00",
+  "LastChanged_Achievements": "2023-08-08T04:05:57.6647692+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:16.4768007+00:00",
-  "LastUpdate_Ratings": "2023-08-08T03:00:17.5350693+00:00",
-  "LastUpdate_Achievements": "2023-08-08T03:05:08.8078773+00:00"
+  "LastUpdate_Ratings": "2023-08-08T04:01:28.867528+00:00",
+  "LastUpdate_Achievements": "2023-08-08T04:05:57.665046+00:00"
 }

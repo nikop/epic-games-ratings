@@ -205,9 +205,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 33062,
+  "EOS_Progressed": 33067,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 920,
+  "EOS_NewPlayers": 921,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -12145,6 +12145,11 @@
       "Time": "2023-08-08T03:05:29.1026908+00:00",
       "NumProgressed": 33062,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-08T04:06:21.3843505+00:00",
+      "NumProgressed": 33067,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -12156,7 +12161,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4959
+      "UsersEstimate": 4960
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -12164,7 +12169,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6612
+      "UsersEstimate": 6613
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -12180,7 +12185,7 @@
       "Name": "Thorn in My Herbicide",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
@@ -12300,7 +12305,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -12324,7 +12329,7 @@
       "Name": "Schadenfreude",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -12387,7 +12392,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 33062,
+      "Progressed": 33067,
       "Completed": 21
     }
   ],
@@ -12395,8 +12400,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-01T20:00:57.6814566+00:00",
-  "LastChanged_Achievements": "2023-08-08T03:05:29.1026894+00:00",
+  "LastChanged_Achievements": "2023-08-08T04:06:21.3843499+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:57.8950159+00:00",
-  "LastUpdate_Ratings": "2023-08-08T03:01:04.1828221+00:00",
-  "LastUpdate_Achievements": "2023-08-08T03:05:29.1027859+00:00"
+  "LastUpdate_Ratings": "2023-08-08T04:02:21.7832368+00:00",
+  "LastUpdate_Achievements": "2023-08-08T04:06:21.384515+00:00"
 }

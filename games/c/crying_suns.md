@@ -7,9 +7,9 @@ Number of Ratings: 1,003  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shutdown | 0.90% | ~4,183 |
-| Second Coming | 0.60% | ~2,788 |
-| Jeef Skeejj | 0.60% | ~2,788 |
-| Careful planning | 0.60% | ~2,788 |
+| Second Coming | 0.60% | ~2,789 |
+| Jeef Skeejj | 0.60% | ~2,789 |
+| Careful planning | 0.60% | ~2,789 |
 | In space, no one can hear you scream | 0.40% | ~1,859 |
 | Mother | 0.40% | ~1,859 |
 | Jeef Skagg | 0.40% | ~1,859 |
@@ -22,14 +22,14 @@ Number of Ratings: 1,003  (23.09.2022)
 | Plan for the worst | 0.30% | ~1,394 |
 | Excelsior Rule | 0.30% | ~1,394 |
 | Hand of the Emperor | 0.30% | ~26 |
-| Chapter III: The Man Who Sold the World | 0.20% | ~929 |
-| Chapter IV: Through the Looking Glass | 0.20% | ~929 |
-| Through the mirror | 0.20% | ~929 |
-| Admiral Okonkwo | 0.20% | ~929 |
-| The Survivalists | 0.20% | ~929 |
-| Tetsuo | 0.20% | ~929 |
-| General Vivar | 0.20% | ~929 |
-| Back to Ganyma | 0.20% | ~929 |
+| Chapter III: The Man Who Sold the World | 0.20% | ~930 |
+| Chapter IV: Through the Looking Glass | 0.20% | ~930 |
+| Through the mirror | 0.20% | ~930 |
+| Admiral Okonkwo | 0.20% | ~930 |
+| The Survivalists | 0.20% | ~930 |
+| Tetsuo | 0.20% | ~930 |
+| General Vivar | 0.20% | ~930 |
+| Back to Ganyma | 0.20% | ~930 |
 | Soldiers of Fortune | 0.20% | ~17 |
 | Chapter V: Memories of None | 0.10% | ~465 |
 | A Rock in the Dark | 0.10% | ~465 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~9 |
 | Kronos Rule | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,749 (Ranked 37)  
+Progressed: 464,752 (Ranked 37)  
 Completed: 16 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 16 (0.00%) (Ranked 251)
 | 2023-08-05 | 464,598 | 16 |
 | 2023-08-06 | 464,671 | 16 |
 | 2023-08-07 | 464,742 | 16 |
-| 2023-08-08 | 464,749 | 16 |
+| 2023-08-08 | 464,752 | 16 |
 ## Awards
 Max (Character Customization): 214  (Ranked 268)  
 Sum: 214 (Ranked 363)  

@@ -24,6 +24,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 0.30% | ~402 |
 | Flooding the Market | 0.30% | ~402 |
 | Where it Hurts | 0.30% | ~402 |
+| Gild-Gotten Goods | 0.30% | ~402 |
 | One-Armed Bandit | 0.30% | ~402 |
 | Dungeon Imports | 0.30% | ~402 |
 | Through Repetition, Perfection | 0.30% | ~402 |
@@ -44,7 +45,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flawless Fusion | 0.20% | ~268 |
 | Trash to Treasure | 0.20% | ~268 |
 | Gem Expert | 0.20% | ~268 |
-| Gild-Gotten Goods | 0.20% | ~268 |
 | Royal Ransom | 0.20% | ~268 |
 | Helping Hand | 0.20% | ~268 |
 | Accomplished Merchant | 0.20% | ~268 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,108 (Ranked 64)  
+Progressed: 134,112 (Ranked 64)  
 Completed: 130 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 130 (0.10%) (Ranked 199)
 | 2023-08-05 | 133,956 | 128 |
 | 2023-08-06 | 134,025 | 129 |
 | 2023-08-07 | 134,099 | 130 |
-| 2023-08-08 | 134,108 | 130 |
+| 2023-08-08 | 134,112 | 130 |
 ## Awards
 Max (Great for Beginners): 4,691  (Ranked 71)  
 Sum: 27,067 (Ranked 46)  
