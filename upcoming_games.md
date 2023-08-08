@@ -75,7 +75,7 @@
 | [Shalnor Legends 2: Trials of Thunder](games/d/d26c3a62ed20492f90a07c3a27e8db97.md) | 2023-09-30 | - |  | - | - |
 | [Smurfs Kart](games/0/017ffe3b2bdc41e5a7a4dca5eec73fc4.md) | 2023-09-30 | - |  | - | - |
 | [Team Disorder](games/9/9c9cc8a992404fb8925827eed7a7f500.md) | 2023-09-30 | - |  | - | - |
-| [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-30 | 14 (1,000 XP) | 236 | - | - |
+| [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-30 | 14 (1,000 XP) | 237 | - | - |
 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 2023-09-30 | - |  | - | - |
 | [The Riflemen](games/t/the_riflemen.md) | 2023-09-30 | - |  | - | - |
 | [The Wild Case](games/2/21c2551943894e5d92fd8e7f3ed1f58d.md) | 2023-09-30 | - |  | - | - |
@@ -159,6 +159,7 @@
 | [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2023-12-31 | - |  | - | 0 |
 | [Ring of Life: Survive in Proxima](games/r/ring_of_life__survive_in_proxima.md) | 2023-12-31 | - |  | - | - |
 | [Runeroots TD](games/2/2f169ae019ee48318209c0aebef2b378.md) | 2023-12-31 | - |  | - | - |
+| [Saloon Simulator](games/6/678afb6b7fea4643a800b5e1783347b7.md) | 2023-12-31 | - |  | - | - |
 | [Sons of Valhalla](games/s/sons_of_valhalla.md) | 2023-12-31 | - |  | - | - |
 | [Still Joking](games/s/still_joking.md) | 2023-12-31 | - |  | - | - |
 | [Super BUFF HD](games/7/74b34f2f86db48579e9f785686886111.md) | 2023-12-31 | - |  | - | - |
