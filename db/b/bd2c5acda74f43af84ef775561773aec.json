@@ -2,10 +2,10 @@
   "ID": "bd2c5acda74f43af84ef775561773aec",
   "Name": "Death to Spies: Moment of Truth",
   "ProductSlug": "death-to-spies-moment-of-truth-c629ba",
-  "Ranking_EOS_Progress": 529,
+  "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-11T17:00:00+00:00",
     "PcReleaseDate": "2009-08-07T08:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-13T15:56:56.4305122+00:00",
   "LastUpdate_AppInfo": "2023-08-03T22:57:12.5926765+00:00",
-  "LastUpdate_Ratings": "2023-08-08T08:58:35.575117+00:00",
-  "LastUpdate_Achievements": "2023-08-08T09:04:51.7278632+00:00"
+  "LastUpdate_Ratings": "2023-08-08T09:58:10.37205+00:00",
+  "LastUpdate_Achievements": "2023-08-08T10:03:57.3898116+00:00"
 }

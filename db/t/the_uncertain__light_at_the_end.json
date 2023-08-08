@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 491,
+  "EOS_Progressed": 492,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -525,6 +525,11 @@
       "Time": "2023-08-06T17:02:20.6474038+00:00",
       "NumProgressed": 491,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-08T10:03:15.6267398+00:00",
+      "NumProgressed": 492,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -560,7 +565,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Doors_Closing",
@@ -624,7 +629,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "Hitman",
@@ -696,7 +701,7 @@
       "Name": "Den Mother",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Ninja",
@@ -767,7 +772,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 491,
+      "Progressed": 492,
       "Completed": 5
     }
   ],
@@ -775,8 +780,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-08-08T09:03:42.5630169+00:00",
+  "LastChanged_Achievements": "2023-08-08T10:03:15.6267393+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:31.8779873+00:00",
-  "LastUpdate_Ratings": "2023-08-08T08:57:58.8181105+00:00",
-  "LastUpdate_Achievements": "2023-08-08T09:03:42.5630484+00:00"
+  "LastUpdate_Ratings": "2023-08-08T09:57:40.1257912+00:00",
+  "LastUpdate_Achievements": "2023-08-08T10:03:15.6267637+00:00"
 }

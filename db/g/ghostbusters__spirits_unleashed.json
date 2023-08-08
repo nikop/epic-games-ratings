@@ -4,11 +4,11 @@
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 575,
   "Ranking_Popularity": 252,
-  "Ranking_PopularitySum": 189,
+  "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -10276,8 +10276,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-08T01:54:40.4461913+00:00",
-  "LastChanged_Achievements": "2023-08-08T09:03:31.5960455+00:00",
+  "LastChanged_Achievements": "2023-08-08T10:03:06.4039623+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:01.1115448+00:00",
-  "LastUpdate_Ratings": "2023-08-08T09:01:04.1078409+00:00",
-  "LastUpdate_Achievements": "2023-08-08T09:03:31.5961518+00:00"
+  "LastUpdate_Ratings": "2023-08-08T10:00:19.4566957+00:00",
+  "LastUpdate_Achievements": "2023-08-08T10:03:06.4040608+00:00"
 }

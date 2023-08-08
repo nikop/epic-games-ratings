@@ -2,10 +2,10 @@
   "ID": "e953986f16f54bdab28101962b49d3c8",
   "Name": "Wanderlust: Travel Stories",
   "ProductSlug": "wanderlust-travel-stories-a81f0f",
-  "Ranking_EOS_Progress": 529,
+  "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-11-01T23:00:00+00:00",
     "PcReleaseDate": "2019-09-25T22:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-04-15T09:57:30.5833683+00:00",
   "LastChanged": "2023-04-15T09:57:30.5833684+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:44.2022926+00:00",
-  "LastUpdate_Ratings": "2023-08-08T08:59:38.9413229+00:00",
-  "LastUpdate_Achievements": "2023-08-08T09:08:00.5590702+00:00"
+  "LastUpdate_Ratings": "2023-08-08T09:59:06.7126657+00:00",
+  "LastUpdate_Achievements": "2023-08-08T10:06:39.0158914+00:00"
 }

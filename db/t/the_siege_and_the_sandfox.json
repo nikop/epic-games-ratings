@@ -2,10 +2,10 @@
   "ID": "c8ea2f513717454fb145e274455fbf54",
   "Name": "The Siege and the Sandfox",
   "ProductSlug": "the-siege-and-the-sandfox",
-  "Ranking_EOS_Progress": 529,
+  "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2099-07-28T09:00:00+00:00",
     "PcReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-05T05:58:20.8343307+00:00",
-  "LastUpdate_Ratings": "2023-08-08T09:00:18.2820144+00:00",
-  "LastUpdate_Achievements": "2023-08-08T09:06:51.7007937+00:00"
+  "LastUpdate_Ratings": "2023-08-08T09:59:41.4920581+00:00",
+  "LastUpdate_Achievements": "2023-08-08T10:05:39.4071609+00:00"
 }

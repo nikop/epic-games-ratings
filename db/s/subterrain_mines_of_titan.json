@@ -2,10 +2,10 @@
   "ID": "059e23a629344c86adfe7e39577d6eca",
   "Name": "Subterrain Mines of Titan",
   "ProductSlug": "subterrain-mines-of-titan-df2d9d",
-  "Ranking_EOS_Progress": 529,
+  "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-05T05:58:24.0996859+00:00",
-  "LastUpdate_Ratings": "2023-08-08T09:00:21.5361118+00:00",
-  "LastUpdate_Achievements": "2023-08-08T09:04:48.9464691+00:00"
+  "LastUpdate_Ratings": "2023-08-08T09:59:44.2063327+00:00",
+  "LastUpdate_Achievements": "2023-08-08T10:03:54.6127677+00:00"
 }

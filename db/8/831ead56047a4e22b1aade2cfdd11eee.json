@@ -2,10 +2,10 @@
   "ID": "831ead56047a4e22b1aade2cfdd11eee",
   "Name": "Project First Contact",
   "ProductSlug": "project-first-contact-ff7fdc",
-  "Ranking_EOS_Progress": 529,
+  "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-07-05T07:00:00+00:00",
     "PcReleaseDate": "2017-07-25T22:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-07T18:57:03.7860094+00:00",
-  "LastUpdate_Ratings": "2023-08-08T08:58:13.1049739+00:00",
-  "LastUpdate_Achievements": "2023-08-08T09:06:03.6941958+00:00"
+  "LastUpdate_Ratings": "2023-08-08T09:57:51.860497+00:00",
+  "LastUpdate_Achievements": "2023-08-08T10:04:59.6701391+00:00"
 }

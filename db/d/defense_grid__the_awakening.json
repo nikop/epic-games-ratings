@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-12-20T16:00:00+00:00",
     "PcReleaseDate": "2020-12-20T16:00:00+00:00",
@@ -1741,9 +1741,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 483471,
+  "EOS_Progressed": 483472,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 577,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13181,6 +13181,11 @@
       "Time": "2023-08-08T08:03:51.3700607+00:00",
       "NumProgressed": 483471,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-08T10:04:02.2684878+00:00",
+      "NumProgressed": 483472,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -13304,7 +13309,7 @@
       "Name": "Confident",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 193388
+      "UsersEstimate": 193389
     },
     {
       "ID": "CORECONTAINER",
@@ -13320,7 +13325,7 @@
       "Name": "Death From Above",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 77355
+      "UsersEstimate": 77356
     },
     {
       "ID": "DIVERSITY",
@@ -13368,7 +13373,7 @@
       "Name": "Filthy Rich",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 91859
+      "UsersEstimate": 91860
     },
     {
       "ID": "FIREBUG",
@@ -13480,7 +13485,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 377107
+      "UsersEstimate": 377108
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -13504,7 +13509,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 309421
+      "UsersEstimate": 309422
     },
     {
       "ID": "KABOOM",
@@ -13512,7 +13517,7 @@
       "Name": "Kaboom!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 145041
+      "UsersEstimate": 145042
     },
     {
       "ID": "KICKSTARTER",
@@ -13528,7 +13533,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 343264
+      "UsersEstimate": 343265
     },
     {
       "ID": "LIQUIDATOR",
@@ -13600,7 +13605,7 @@
       "Name": "Not So Fast",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 159545
+      "UsersEstimate": 159546
     },
     {
       "ID": "OUTOFBULLETS",
@@ -13704,7 +13709,7 @@
       "Name": "Retry",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 77355
+      "UsersEstimate": 77356
     },
     {
       "ID": "RETRYAGAIN",
@@ -13736,7 +13741,7 @@
       "Name": "Sharpshooter",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 159545
+      "UsersEstimate": 159546
     },
     {
       "ID": "SHELLSHOCKED",
@@ -13776,7 +13781,7 @@
       "Name": "Surplus",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 314256
+      "UsersEstimate": 314257
     },
     {
       "ID": "TEMPORALWOULDHAVEBEENNICE",
@@ -13872,7 +13877,7 @@
       "Name": "Yellow Beats Green",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 265909
+      "UsersEstimate": 265910
     },
     {
       "ID": "YOUMONSTER",
@@ -13887,15 +13892,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 483471,
+      "Progressed": 483472,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-08-04T15:59:54.6527488+00:00",
-  "LastChanged_Achievements": "2023-08-08T09:04:56.9416185+00:00",
+  "LastChanged_Achievements": "2023-08-08T10:04:02.2684871+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:13.4996683+00:00",
-  "LastUpdate_Ratings": "2023-08-08T09:00:12.0877324+00:00",
-  "LastUpdate_Achievements": "2023-08-08T09:04:56.9418116+00:00"
+  "LastUpdate_Ratings": "2023-08-08T09:59:36.3675729+00:00",
+  "LastUpdate_Achievements": "2023-08-08T10:04:02.2686693+00:00"
 }

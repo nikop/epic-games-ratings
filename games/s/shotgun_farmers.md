@@ -15,14 +15,14 @@
 | Early Survivor | 42.00% | ~83 |
 | No Diggity | 42.00% | ~83 |
 | Amateur Survivor | 31.00% | ~61 |
-| 10K | 29.00% | ~72 |
+| 10K | 30.00% | ~74 |
 | Bouncemato | 29.00% | ~57 |
-| 15K | 27.00% | ~67 |
+| 15K | 28.00% | ~69 |
 | Professional Survivor | 23.00% | ~46 |
 | Grave Digger | 23.00% | ~46 |
 | Drinking Problem | 21.00% | ~52 |
 | Quick-Draw Pod | 21.00% | ~42 |
-| Pork Chop Express | 17.00% | ~42 |
+| Pork Chop Express | 18.00% | ~45 |
 | This Is My Boomstick | 17.00% | ~34 |
 | Skin Of Your Teeth | 15.00% | ~37 |
 | Eggtraordinary | 14.00% | ~35 |

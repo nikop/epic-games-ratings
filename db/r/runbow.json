@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247764,
+  "EOS_Progressed": 247766,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10619,6 +10619,11 @@
       "Time": "2023-08-08T09:04:26.9161038+00:00",
       "NumProgressed": 247764,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-08T10:03:36.1484671+00:00",
+      "NumProgressed": 247766,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -10630,7 +10635,7 @@
       "Name": "Just A Phaze",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17343
+      "UsersEstimate": 17344
     },
     {
       "ID": "aWinnerIsYou",
@@ -10654,7 +10659,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52030
+      "UsersEstimate": 52031
     },
     {
       "ID": "blotbuster",
@@ -10806,7 +10811,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131315
+      "UsersEstimate": 131316
     },
     {
       "ID": "indegestible",
@@ -10822,7 +10827,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17343
+      "UsersEstimate": 17344
     },
     {
       "ID": "itsTheFall",
@@ -10870,7 +10875,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123882
+      "UsersEstimate": 123883
     },
     {
       "ID": "notScared",
@@ -10902,7 +10907,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17343
+      "UsersEstimate": 17344
     },
     {
       "ID": "rideTheWave",
@@ -10934,7 +10939,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54508
+      "UsersEstimate": 54509
     },
     {
       "ID": "thunderstruck",
@@ -10950,7 +10955,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32209
+      "UsersEstimate": 32210
     },
     {
       "ID": "treeMedalist",
@@ -10990,14 +10995,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39642
+      "UsersEstimate": 39643
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 247764,
+      "Progressed": 247766,
       "Completed": 3
     }
   ],
@@ -11005,8 +11010,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-08T09:04:26.9161032+00:00",
+  "LastChanged_Achievements": "2023-08-08T10:03:36.1484667+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:08.7397678+00:00",
-  "LastUpdate_Ratings": "2023-08-08T09:01:14.6490384+00:00",
-  "LastUpdate_Achievements": "2023-08-08T09:04:26.9162361+00:00"
+  "LastUpdate_Ratings": "2023-08-08T10:00:27.1805443+00:00",
+  "LastUpdate_Achievements": "2023-08-08T10:03:36.148579+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 8.00% | ~6,579 |
-| Until death do us apart | 8.00% | ~6,579 |
-| Victorious! | 8.00% | ~6,579 |
-| That is mine! | 7.00% | ~5,757 |
-| Brothers in Arms | 6.00% | ~4,934 |
-| That's a Grand Navy | 6.00% | ~4,934 |
-| Seriously?! | 6.00% | ~4,934 |
-| For the Glory | 5.00% | ~4,112 |
-| Cold War | 4.00% | ~3,289 |
-| Defender of the Faith | 3.00% | ~2,467 |
-| It's all about the money | 3.00% | ~2,467 |
-| Respected | 3.00% | ~2,467 |
-| The Princess is in this Castle | 3.00% | ~2,467 |
-| True Catholic | 3.00% | ~2,467 |
-| Truly Divine Ruler | 3.00% | ~2,467 |
+| That's a Grand Army | 8.00% | ~6,581 |
+| Until death do us apart | 8.00% | ~6,581 |
+| Victorious! | 8.00% | ~6,581 |
+| That is mine! | 7.00% | ~5,759 |
+| Brothers in Arms | 6.00% | ~4,936 |
+| That's a Grand Navy | 6.00% | ~4,936 |
+| Seriously?! | 6.00% | ~4,936 |
+| For the Glory | 5.00% | ~4,113 |
+| Cold War | 4.00% | ~3,291 |
+| Defender of the Faith | 3.00% | ~2,468 |
+| It's all about the money | 3.00% | ~2,468 |
+| Respected | 3.00% | ~2,468 |
+| The Princess is in this Castle | 3.00% | ~2,468 |
+| True Catholic | 3.00% | ~2,468 |
+| Truly Divine Ruler | 3.00% | ~2,468 |
 | Agressive Expander | 2.00% | ~1,645 |
 | Blockader | 2.00% | ~1,645 |
 | Combined Arms | 2.00% | ~1,645 |
@@ -29,28 +29,28 @@ Number of Ratings: 8,414  (23.09.2022)
 | My armies are invincible! | 2.00% | ~1,645 |
 | Royal Authority | 2.00% | ~1,645 |
 | Total Control | 2.00% | ~1,645 |
-| All That's Thine Shall Be Mine | 1.00% | ~822 |
-| Azur semé de lis or | 1.00% | ~822 |
-| Bright Spark | 1.00% | ~822 |
-| City of Cities | 1.00% | ~822 |
-| The Emperors new clothes | 1.00% | ~822 |
-| Factionalism | 1.00% | ~822 |
-| Gentle Persuasion | 1.00% | ~822 |
-| A Golden Empire | 1.00% | ~822 |
-| Queen of Conquest | 1.00% | ~822 |
-| The Five Colonies | 1.00% | ~822 |
-| This navy can take it all | 1.00% | ~822 |
+| All That's Thine Shall Be Mine | 1.00% | ~823 |
+| Azur semé de lis or | 1.00% | ~823 |
+| Bright Spark | 1.00% | ~823 |
+| City of Cities | 1.00% | ~823 |
+| The Emperors new clothes | 1.00% | ~823 |
+| Factionalism | 1.00% | ~823 |
+| Gentle Persuasion | 1.00% | ~823 |
+| A Golden Empire | 1.00% | ~823 |
+| Queen of Conquest | 1.00% | ~823 |
+| The Five Colonies | 1.00% | ~823 |
+| This navy can take it all | 1.00% | ~823 |
 | Isn't this the way to India? | 0.90% | ~740 |
 | Market Control | 0.90% | ~740 |
 | Trustworthy | 0.90% | ~740 |
 | Down Under | 0.80% | ~658 |
 | Electable! | 0.70% | ~576 |
 | Populists in Government | 0.70% | ~576 |
-| All belongs to Mother Russia | 0.60% | ~493 |
-| At every continent | 0.60% | ~493 |
-| One Family to Rule them All | 0.60% | ~493 |
-| The pen is mightier than the sword | 0.60% | ~493 |
-| Time Bandit | 0.60% | ~493 |
+| All belongs to Mother Russia | 0.60% | ~494 |
+| At every continent | 0.60% | ~494 |
+| One Family to Rule them All | 0.60% | ~494 |
+| The pen is mightier than the sword | 0.60% | ~494 |
+| Time Bandit | 0.60% | ~494 |
 | Absolutely | 0.50% | ~411 |
 | Early-Modern Warfare | 0.50% | ~411 |
 | Grand Coalition | 0.50% | ~411 |
@@ -83,22 +83,22 @@ Number of Ratings: 8,414  (23.09.2022)
 | Three Trivial Tributary Tribes | 0.30% | ~247 |
 | Vasa or Wettin? | 0.30% | ~247 |
 | World Discoverer | 0.30% | ~247 |
-| A Protected Market | 0.20% | ~164 |
-| AAA Credit | 0.20% | ~164 |
-| An early Reich | 0.20% | ~164 |
-| Basileus | 0.20% | ~164 |
-| Center of Attention | 0.20% | ~164 |
-| Fine Financials | 0.20% | ~164 |
-| Full House | 0.20% | ~164 |
-| Imperio español | 0.20% | ~164 |
-| Industrial Powerhouse | 0.20% | ~164 |
-| Je maintiendrai | 0.20% | ~164 |
-| A Kaiser not just in name | 0.20% | ~164 |
-| Magellan’s Voyage | 0.20% | ~164 |
-| Pyramid of Skulls | 0.20% | ~164 |
-| The Power of Three | 0.20% | ~164 |
-| Viva la Revolución! | 0.20% | ~164 |
-| We bled for this | 0.20% | ~164 |
+| A Protected Market | 0.20% | ~165 |
+| AAA Credit | 0.20% | ~165 |
+| An early Reich | 0.20% | ~165 |
+| Basileus | 0.20% | ~165 |
+| Center of Attention | 0.20% | ~165 |
+| Fine Financials | 0.20% | ~165 |
+| Full House | 0.20% | ~165 |
+| Imperio español | 0.20% | ~165 |
+| Industrial Powerhouse | 0.20% | ~165 |
+| Je maintiendrai | 0.20% | ~165 |
+| A Kaiser not just in name | 0.20% | ~165 |
+| Magellan’s Voyage | 0.20% | ~165 |
+| Pyramid of Skulls | 0.20% | ~165 |
+| The Power of Three | 0.20% | ~165 |
+| Viva la Revolución! | 0.20% | ~165 |
+| We bled for this | 0.20% | ~165 |
 | The 52 Garhs | 0.10% | ~82 |
 | I don't like sand | 0.10% | ~82 |
 | A Blessed Nation | 0.10% | ~82 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,236 (Ranked 73)  
+Progressed: 82,266 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -471,7 +471,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-05 | 80,125 | 0 |
 | 2023-08-06 | 81,143 | 0 |
 | 2023-08-07 | 82,030 | 0 |
-| 2023-08-08 | 82,236 | 0 |
+| 2023-08-08 | 82,266 | 0 |
 ## Awards
 Max (Educational): 5,630  (Ranked 62)  
 Sum: 46,467 (Ranked 26)  

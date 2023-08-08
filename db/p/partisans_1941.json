@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1273,
+  "EOS_Progressed": 1274,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2110,6 +2110,11 @@
       "Time": "2023-08-08T09:05:38.6158329+00:00",
       "NumProgressed": 1273,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-08T10:04:37.9296587+00:00",
+      "NumProgressed": 1274,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2233,7 +2238,7 @@
       "Name": "Grenadier",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "Hard_Serpent",
@@ -2249,7 +2254,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "High_noon",
@@ -2273,7 +2278,7 @@
       "Name": "Spice It Up",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "KillAllM2",
@@ -2337,7 +2342,7 @@
       "Name": "War Never Changes",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "We_were_not_here",
@@ -2360,15 +2365,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1273,
+      "Progressed": 1274,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-08T09:05:38.6158315+00:00",
+  "LastChanged_Achievements": "2023-08-08T10:04:37.9296581+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:07.8032848+00:00",
-  "LastUpdate_Ratings": "2023-08-08T09:01:14.4410595+00:00",
-  "LastUpdate_Achievements": "2023-08-08T09:05:38.6158916+00:00"
+  "LastUpdate_Ratings": "2023-08-08T10:00:26.8678385+00:00",
+  "LastUpdate_Achievements": "2023-08-08T10:04:37.9296923+00:00"
 }
