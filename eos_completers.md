@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.46% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.67% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.14% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
@@ -25,11 +25,11 @@
 | 23 | [Remains](games/r/remains.md) | 10.64% |
 | 24 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.53% |
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
-| 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 27 | [Sonic Origins](games/s/sonic_origins.md) | 9.79% |
-| 28 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.76% |
+| 26 | [Sonic Origins](games/s/sonic_origins.md) | 9.79% |
+| 27 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.76% |
+| 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.76% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.18% |
-| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.91% |
+| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.90% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.62% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -73,8 +73,8 @@
 | 71 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 72 | [Destiny 2](games/d/destiny_2.md) | 2.75% |
 | 73 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 74 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.70% |
 | 74 | [The Bunker](games/t/the_bunker.md) | 2.70% |
+| 75 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.63% |
 | 76 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.61% |
 | 76 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.61% |
 | 78 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
