@@ -41,7 +41,7 @@
 | 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.40% |
 | 40 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 41 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 6.03% |
+| 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 6.01% |
 | 43 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
 | 44 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
 | 45 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.00% |

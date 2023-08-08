@@ -8,7 +8,7 @@
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 165,307 | 4.88 | 18 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 145,783 | 4.52 | 528 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 114,336 | 4.69 | 213 |
-| 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 75,020 | 4.62 | 349 |
+| 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 75,084 | 4.62 | 349 |
 | 10 | [VALORANT](games/v/valorant.md) | 63,827 | 4.53 | 512 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 59,810 | 4.58 | 425 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 42,552 | 4.61 | 366 |
@@ -86,7 +86,7 @@
 | 84 | [Gloomhaven](games/g/gloomhaven.md) | 3,500 | 4.47 | 608 |
 | 85 | [Paladins](games/p/paladins.md) | 3,487 | 4.34 | 755 |
 | 86 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,486 | 4.46 | 616 |
-| 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,351 | 4.68 | 242 |
+| 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,352 | 4.68 | 242 |
 | 88 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,339 | 4.68 | 242 |
 | 89 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,296 | 4.76 | 118 |
 | 90 | [Hades](games/h/hades.md) | 3,205 | 4.92 | 4 |
@@ -99,7 +99,7 @@
 | 97 | [Among Us](games/a/among_us.md) | 2,599 | 4.57 | 449 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,547 | 4.61 | 366 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,513 | 4.27 | 805 |
-| 100 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,484 | 4.10 | 900 |
+| 100 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,486 | 4.10 | 900 |
 | 101 | [Gotham Knights](games/g/gotham_knights.md) | 2,480 | 4.18 | 868 |
 | 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,442 | 4.80 | 82 |
 | 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,369 | 4.78 | 100 |
@@ -193,14 +193,14 @@
 | 189 | [Vampyr](games/v/vampyr.md) | 554 | 4.32 | 772 |
 | 192 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 540 | 4.24 | 828 |
 | 193 | [Godfall Ultimate Edition](games/g/godfall.md) | 535 | 4.07 | 913 |
-| 194 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 520 | 4.52 | 528 |
-| 195 | [Terraforming Mars](games/t/terraforming_mars.md) | 509 | 4.54 | 498 |
-| 196 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 492 | 4.86 | 29 |
-| 197 | [MORDHAU](games/m/mordhau.md) | 487 | 4.39 | 704 |
-| 198 | [Ghostrunner](games/g/ghostrunner.md) | 474 | 4.72 | 171 |
-| 198 | [Prison Architect](games/p/prison_architect.md) | 474 | 4.61 | 366 |
-| 200 | [Surviving Mars](games/s/surviving_mars.md) | 472 | 4.60 | 392 |
-| 201 | [Remnant 2](games/r/remnant_2.md) | 469 | 4.78 | 100 |
+| 194 | [Remnant 2](games/r/remnant_2.md) | 525 | 4.78 | 100 |
+| 195 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 520 | 4.52 | 528 |
+| 196 | [Terraforming Mars](games/t/terraforming_mars.md) | 509 | 4.54 | 498 |
+| 197 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 492 | 4.86 | 29 |
+| 198 | [MORDHAU](games/m/mordhau.md) | 487 | 4.39 | 704 |
+| 199 | [Ghostrunner](games/g/ghostrunner.md) | 474 | 4.72 | 171 |
+| 199 | [Prison Architect](games/p/prison_architect.md) | 474 | 4.61 | 366 |
+| 201 | [Surviving Mars](games/s/surviving_mars.md) | 472 | 4.60 | 392 |
 | 202 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 272 |
 | 203 | [Second Extinction™](games/s/second_extinction™.md) | 456 | 4.05 | 917 |
 | 204 | [Dishonored 2](games/d/dishonored_2.md) | 436 | 4.79 | 88 |
