@@ -32,8 +32,8 @@
 | Interference | 10.00% | ~8 |
 | Kitchen Secret Spot | 7.00% | ~6 |
 | You broke it, you bought it | 7.00% | ~6 |
+| Found the Secret Formula! | 6.00% | ~5 |
 | Attic Secret Spot | 5.00% | ~4 |
-| Found the Secret Formula! | 5.00% | ~4 |
 | Basement Secret Spot | 4.00% | ~3 |
 | Garage Secret Spot | 2.00% | ~2 |
 | Kickball Kup | 1.00% | ~1 |

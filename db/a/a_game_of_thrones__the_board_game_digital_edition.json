@@ -1269,9 +1269,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 20855,
+  "EOS_Progressed": 20858,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -12934,6 +12934,11 @@
       "Time": "2023-08-08T16:04:15.6397093+00:00",
       "NumProgressed": 20855,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-08T17:04:56.9917722+00:00",
+      "NumProgressed": 20858,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 22,
@@ -13017,7 +13022,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "1025",
@@ -13033,7 +13038,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "1027",
@@ -13057,7 +13062,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "1030",
@@ -13065,7 +13070,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4171
+      "UsersEstimate": 4172
     },
     {
       "ID": "1031",
@@ -13081,7 +13086,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 8342
+      "UsersEstimate": 8343
     },
     {
       "ID": "1033",
@@ -13105,7 +13110,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2711
+      "UsersEstimate": 2712
     },
     {
       "ID": "1036",
@@ -13113,22 +13118,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 20855,
+      "Progressed": 20858,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-08-02T00:02:09.7226533+00:00",
-  "LastChanged_Achievements": "2023-08-08T16:04:15.6397088+00:00",
+  "LastChanged_Achievements": "2023-08-08T17:04:56.9917715+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:16.1086425+00:00",
-  "LastUpdate_Ratings": "2023-08-08T15:57:15.0382386+00:00",
-  "LastUpdate_Achievements": "2023-08-08T16:04:15.6397766+00:00"
+  "LastUpdate_Ratings": "2023-08-08T16:57:14.9784082+00:00",
+  "LastUpdate_Achievements": "2023-08-08T17:04:56.9918609+00:00"
 }

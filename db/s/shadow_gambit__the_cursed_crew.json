@@ -2,9 +2,9 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 530,
+  "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -25,9 +25,219 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
+  "TotalAchievements": 26,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "_01_AllIslands",
+      "SetID": "8a1io5d",
+      "Name": "Somewhere Deep in the Lost Caribbean",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_02_FinishFirstMission",
+      "SetID": "8a1io5d",
+      "Name": "A New Journey",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_03_FinishAct1",
+      "SetID": "8a1io5d",
+      "Name": "The Adventure Begins",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_04_CollectAllRelics",
+      "SetID": "8a1io5d",
+      "Name": "This Belongs in a Museum",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_05_FinishAct2",
+      "SetID": "8a1io5d",
+      "Name": "The Gambit Has Begun",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_06_FinishFirstMirrorQuest",
+      "SetID": "8a1io5d",
+      "Name": "Mirror Mirror on the Wall",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_07_FinishAct3",
+      "SetID": "8a1io5d",
+      "Name": "All Good Things",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_08_Completion_10",
+      "SetID": "8a1io5d",
+      "Name": "Swabbie",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_09_Completion_20",
+      "SetID": "8a1io5d",
+      "Name": "Powder Monkey",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_10_Completion_30",
+      "SetID": "8a1io5d",
+      "Name": "Buccaneer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_11_Completion_40",
+      "SetID": "8a1io5d",
+      "Name": "Seadog",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_12_Completion_50",
+      "SetID": "8a1io5d",
+      "Name": "Privateer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_13_Completion_60",
+      "SetID": "8a1io5d",
+      "Name": "Corsair",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_14_Completion_70",
+      "SetID": "8a1io5d",
+      "Name": "Freebooter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_15_Completion_80",
+      "SetID": "8a1io5d",
+      "Name": "Marauder",
+      "Percentage": 0,
+      "XP": 125,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_16_UnlockCore8Characters",
+      "SetID": "8a1io5d",
+      "Name": "Pirates Assemble!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_17_UpgradeFirstCharacter",
+      "SetID": "8a1io5d",
+      "Name": "With Great Power\u2026",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_18_UpgradeAllCharacters",
+      "SetID": "8a1io5d",
+      "Name": "Fully Decked",
+      "Percentage": 0,
+      "XP": 125,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_19_CrewTale_BSP",
+      "SetID": "8a1io5d",
+      "Name": "Persistent Parasite",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_20_CrewTale_TPB",
+      "SetID": "8a1io5d",
+      "Name": "Fishy Fish",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_21_CrewTale_OVT",
+      "SetID": "8a1io5d",
+      "Name": "Tobacco Travesty",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_22_CrewTale_FSH",
+      "SetID": "8a1io5d",
+      "Name": "Accursed Artifacts",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_23_CrewTale_CNN",
+      "SetID": "8a1io5d",
+      "Name": "Lyrical Longing",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_24_CrewTale_SNP",
+      "SetID": "8a1io5d",
+      "Name": "Jaded Judge",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_25_CrewTale_GCW",
+      "SetID": "8a1io5d",
+      "Name": "Rustic Recipe",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "_26_ReviveVirgilio",
+      "SetID": "8a1io5d",
+      "Name": "Welcome Back Jester",
+      "Percentage": 0,
+      "XP": 140,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "8a1io5d",
@@ -37,8 +247,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-08T16:04:37.3632329+00:00",
+  "LastChanged_Achievements": "2023-08-08T17:05:28.0226866+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:49.0938842+00:00",
-  "LastUpdate_Ratings": "2023-08-08T15:58:47.4011059+00:00",
-  "LastUpdate_Achievements": "2023-08-08T16:04:37.3632358+00:00"
+  "LastUpdate_Ratings": "2023-08-08T16:59:32.1502923+00:00",
+  "LastUpdate_Achievements": "2023-08-08T17:05:28.0246875+00:00"
 }

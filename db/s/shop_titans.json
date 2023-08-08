@@ -5426,10 +5426,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27067,
       "NumberOfAwardsMax": 4691
+    },
+    {
+      "Time": "2023-08-08T17:00:09.0282367+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27068,
+      "NumberOfAwardsMax": 4691
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27067,
+  "NumberOfAwards": 27068,
   "NumberOfAwardsMax": 4691,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5479,12 +5485,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3731
+      "Count": 3732
     }
   ],
-  "EOS_Progressed": 134146,
+  "EOS_Progressed": 134149,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16717,6 +16723,11 @@
       "Time": "2023-08-08T16:04:30.9081318+00:00",
       "NumProgressed": 134146,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2023-08-08T17:05:18.8632798+00:00",
+      "NumProgressed": 134149,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 112,
@@ -17502,9 +17513,9 @@
       "ID": "sell01",
       "SetID": "anfd17p",
       "Name": "Capitalism Ho!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 805
     },
     {
       "ID": "sell02",
@@ -17606,9 +17617,9 @@
       "ID": "workers03",
       "SetID": "anfd17p",
       "Name": "Complete Monopoly",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 268
     },
     {
       "ID": "yami_a",
@@ -17623,15 +17634,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134146,
+      "Progressed": 134149,
       "Completed": 131
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-07T23:59:17.9121802+00:00",
-  "LastChanged_Achievements": "2023-08-08T16:04:30.9081313+00:00",
+  "LastChanged": "2023-08-08T17:00:09.0282365+00:00",
+  "LastChanged_Achievements": "2023-08-08T17:05:18.863279+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.2056858+00:00",
-  "LastUpdate_Ratings": "2023-08-08T15:59:12.8572707+00:00",
-  "LastUpdate_Achievements": "2023-08-08T16:04:30.9083048+00:00"
+  "LastUpdate_Ratings": "2023-08-08T17:00:09.0282374+00:00",
+  "LastUpdate_Achievements": "2023-08-08T17:05:18.8635234+00:00"
 }

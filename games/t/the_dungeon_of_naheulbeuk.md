@@ -6,23 +6,23 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~123,245 |
-| Where's that freaking Dwarf? | 47.00% | ~98,178 |
-| GG EZ | 28.00% | ~58,489 |
-| Speedrun | 26.00% | ~54,311 |
-| Déjà vu | 21.00% | ~43,867 |
-| Sock! SOCK! | 18.00% | ~37,600 |
-| DM intervention | 13.00% | ~27,156 |
-| Fireproof Wizardess | 10.00% | ~20,889 |
-| Livin' in a dwarven paradise | 8.00% | ~16,711 |
-| A beer, two curses, three companions | 8.00% | ~16,711 |
-| Way of the Wimp | 7.00% | ~14,622 |
-| The plot thickens... At the tavern | 5.00% | ~10,444 |
-| Shiny and Crôm | 4.00% | ~8,356 |
-| The Woman in the High Castle | 4.00% | ~8,356 |
-| I am the night | 4.00% | ~8,356 |
-| Team Building Exercise | 4.00% | ~8,356 |
-| Oh, when I'll be level 10... | 4.00% | ~8,356 |
+| Alt+F4 | 59.00% | ~123,260 |
+| Where's that freaking Dwarf? | 47.00% | ~98,191 |
+| GG EZ | 28.00% | ~58,496 |
+| Speedrun | 26.00% | ~54,318 |
+| Déjà vu | 21.00% | ~43,872 |
+| Sock! SOCK! | 18.00% | ~37,605 |
+| DM intervention | 13.00% | ~27,159 |
+| Fireproof Wizardess | 10.00% | ~20,892 |
+| Livin' in a dwarven paradise | 8.00% | ~16,713 |
+| A beer, two curses, three companions | 8.00% | ~16,713 |
+| Way of the Wimp | 7.00% | ~14,624 |
+| The plot thickens... At the tavern | 5.00% | ~10,446 |
+| Shiny and Crôm | 4.00% | ~8,357 |
+| The Woman in the High Castle | 4.00% | ~8,357 |
+| I am the night | 4.00% | ~8,357 |
+| Team Building Exercise | 4.00% | ~8,357 |
+| Oh, when I'll be level 10... | 4.00% | ~8,357 |
 | The demons' feast | 3.00% | ~6,267 |
 | The Great Library | 3.00% | ~6,267 |
 | Torture and Sensibility | 3.00% | ~6,267 |
@@ -47,11 +47,11 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 1.00% | ~2,089 |
 | Lëgal Legend | 0.90% | ~1,880 |
 | An old poacher makes the best gamekeeper | 0.80% | ~1,671 |
-| Holistic Adventuring Party | 0.50% | ~1,044 |
-| Scholar of the Lands of Fangh | 0.50% | ~1,044 |
-| Friendly fire | 0.50% | ~1,044 |
-| I'd rather... Just... Sing! | 0.50% | ~1,044 |
-| The number of the counting shalt be 7 | 0.50% | ~1,044 |
+| Holistic Adventuring Party | 0.50% | ~1,045 |
+| Scholar of the Lands of Fangh | 0.50% | ~1,045 |
+| Friendly fire | 0.50% | ~1,045 |
+| I'd rather... Just... Sing! | 0.50% | ~1,045 |
+| The number of the counting shalt be 7 | 0.50% | ~1,045 |
 | The Blood Countess | 0.30% | ~627 |
 | Insult to injury | 0.30% | ~627 |
 | We come in peace | 0.30% | ~627 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,890 (Ranked 55)  
+Progressed: 208,916 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-05 | 207,138 | 0 |
 | 2023-08-06 | 207,966 | 0 |
 | 2023-08-07 | 208,534 | 0 |
-| 2023-08-08 | 208,890 | 0 |
+| 2023-08-08 | 208,916 | 0 |
 ## Awards
 Max (Character Customization): 157  (Ranked 294)  
 Sum: 157 (Ranked 391)  

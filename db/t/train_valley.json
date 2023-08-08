@@ -885,9 +885,9 @@
       "ID": "06_living",
       "SetID": "chb1m60",
       "Name": "Living it large!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 189
     },
     {
       "ID": "07_europe",
@@ -1165,8 +1165,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-05T18:00:22.7295334+00:00",
-  "LastChanged_Achievements": "2023-08-08T16:04:40.8943162+00:00",
+  "LastChanged_Achievements": "2023-08-08T17:05:33.12171+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:23.250379+00:00",
-  "LastUpdate_Ratings": "2023-08-08T15:58:27.8161892+00:00",
-  "LastUpdate_Achievements": "2023-08-08T16:04:40.8943441+00:00"
+  "LastUpdate_Ratings": "2023-08-08T16:59:04.581652+00:00",
+  "LastUpdate_Achievements": "2023-08-08T17:05:33.1217505+00:00"
 }

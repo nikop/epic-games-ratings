@@ -6,25 +6,25 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~37,388 |
+| Awakening | 93.00% | ~37,389 |
 | First Steps | 80.00% | ~32,162 |
-| Control the Shadows | 67.00% | ~26,935 |
-| Tools of the Trade | 63.00% | ~25,327 |
-| Apprentice | 60.00% | ~24,121 |
-| Secret Seeker | 57.00% | ~22,915 |
-| Forge of Assassins | 55.00% | ~22,111 |
-| Revenant | 52.00% | ~20,905 |
+| Control the Shadows | 67.00% | ~26,936 |
+| Tools of the Trade | 63.00% | ~25,328 |
+| Apprentice | 60.00% | ~24,122 |
+| Secret Seeker | 57.00% | ~22,916 |
+| Forge of Assassins | 55.00% | ~22,112 |
+| Revenant | 52.00% | ~20,906 |
 | I don’t Care! | 45.00% | ~18,091 |
 | Bird of Prey | 37.00% | ~14,875 |
 | Engraved with Power | 32.00% | ~12,865 |
 | Lady | 31.00% | ~12,463 |
 | Fashionable Assassin | 27.00% | ~10,855 |
-| Apex Predator | 24.00% | ~9,648 |
-| Soul Reaver | 22.00% | ~8,844 |
-| Embers | 21.00% | ~8,442 |
-| Wall Lizard | 20.00% | ~8,040 |
-| Clinging to Life | 18.00% | ~7,236 |
-| Burning | 17.00% | ~6,834 |
+| Apex Predator | 24.00% | ~9,649 |
+| Soul Reaver | 22.00% | ~8,845 |
+| Embers | 21.00% | ~8,443 |
+| Wall Lizard | 20.00% | ~8,041 |
+| Clinging to Life | 18.00% | ~7,237 |
+| Burning | 17.00% | ~6,835 |
 | Look Behind You | 16.00% | ~6,432 |
 | Sleeping on the Job | 16.00% | ~6,432 |
 | Family | 14.00% | ~5,628 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~402 |
 | Anger Management | 1.00% | ~402 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,202 (Ranked 92)  
+Progressed: 40,203 (Ranked 92)  
 Completed: 206 (0.51%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 206 (0.51%) (Ranked 138)
 | 2023-08-05 | 39,939 | 202 |
 | 2023-08-06 | 40,066 | 205 |
 | 2023-08-07 | 40,145 | 206 |
-| 2023-08-08 | 40,202 | 206 |
+| 2023-08-08 | 40,203 | 206 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

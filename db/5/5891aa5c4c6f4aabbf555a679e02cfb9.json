@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -227,9 +227,9 @@
       "ID": "ACHIEVEMENT_06",
       "SetID": "b36c5kb",
       "Name": "Taken",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -315,9 +315,9 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "b36c5kb",
       "Name": "Backup Ain\u0027t Coming",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -355,9 +355,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "b36c5kb",
       "Name": "Making Things a Little Easier",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -602,8 +602,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-08T16:03:15.0507779+00:00",
+  "LastChanged_Achievements": "2023-08-08T17:03:36.571905+00:00",
   "LastUpdate_AppInfo": "2023-08-02T15:56:51.7948798+00:00",
-  "LastUpdate_Ratings": "2023-08-08T15:57:20.9351273+00:00",
-  "LastUpdate_Achievements": "2023-08-08T16:03:15.0508159+00:00"
+  "LastUpdate_Ratings": "2023-08-08T16:57:23.7413154+00:00",
+  "LastUpdate_Achievements": "2023-08-08T17:03:36.5719638+00:00"
 }

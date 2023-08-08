@@ -37,13 +37,13 @@
 | Extreme neuropower! | 52.00% | ~123 |
 | Escaped from a big trouble | 50.00% | ~118 |
 | Now you are worthy | 46.00% | ~109 |
+| No blades in the gym | 45.00% | ~106 |
 | Guiding on the right path | 45.00% | ~106 |
 | Fight is life | 44.00% | ~104 |
-| No blades in the gym | 44.00% | ~104 |
 | Mysterious voice | 43.00% | ~101 |
 | Your own way | 41.00% | ~97 |
+| Champion – no way back | 39.00% | ~92 |
 | Responsible approach | 39.00% | ~92 |
-| Champion – no way back | 38.00% | ~90 |
 | Get out of my apartment! | 38.00% | ~90 |
 | Poisoned fighter | 37.00% | ~87 |
 | Underground dwellers | 37.00% | ~87 |

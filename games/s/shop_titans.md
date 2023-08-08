@@ -11,9 +11,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 0.70% | ~939 |
 | Tinkle of Coins | 0.70% | ~939 |
 | Disintermediation | 0.60% | ~805 |
+| Capitalism Ho! | 0.60% | ~805 |
 | It's Free Real Estate | 0.50% | ~671 |
 | Budding Merchant | 0.50% | ~671 |
-| Capitalism Ho! | 0.50% | ~671 |
 | One Easy Payment | 0.40% | ~537 |
 | Some Assembly Required | 0.40% | ~537 |
 | Another Satisfied Customer | 0.40% | ~537 |
@@ -60,6 +60,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 0.20% | ~268 |
 | Special Ingredient | 0.20% | ~268 |
 | Arcane Industries | 0.20% | ~268 |
+| Complete Monopoly | 0.20% | ~268 |
 | Cream of the Crop | 0.10% | ~134 |
 | Top of the World | 0.10% | ~134 |
 | Proud Paladin | 0.10% | ~134 |
@@ -116,10 +117,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | All Accounted For | 0.10% | ~134 |
 | Exotic Commodities | 0.10% | ~134 |
 | Economy of Scarce | 0.10% | ~134 |
-| Complete Monopoly | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,146 (Ranked 65)  
+Progressed: 134,149 (Ranked 65)  
 Completed: 131 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,10 +229,10 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-05 | 133,956 | 128 |
 | 2023-08-06 | 134,025 | 129 |
 | 2023-08-07 | 134,099 | 130 |
-| 2023-08-08 | 134,146 | 131 |
+| 2023-08-08 | 134,149 | 131 |
 ## Awards
 Max (Great for Beginners): 4,691  (Ranked 71)  
-Sum: 27,067 (Ranked 46)  
+Sum: 27,068 (Ranked 46)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
@@ -240,7 +240,7 @@ Diff (max vs sum): 25
 | This game is Relaxing | 3,994 |
 | This game has Quickly Understood Controls | 3,982 |
 | This game has Diverse Characters | 3,848 |
-| This game is Highly Recommended | 3,731 |
+| This game is Highly Recommended | 3,732 |
 | This game has Easy Combat | 3,672 |
 | This game has Playful Visuals | 3,149 |
 | This game has Inclusive Character Customization | 22 |
@@ -443,3 +443,4 @@ Diff (max vs sum): 25
 | 2023-08-05 | 3.99 | - | 4,688 | 27,051 |
 | 2023-08-06 | 3.99 | - | 4,688 | 27,057 |
 | 2023-08-07 | 3.99 | - | 4,691 | 27,067 |
+| 2023-08-08 | 3.99 | - | 4,691 | 27,068 |

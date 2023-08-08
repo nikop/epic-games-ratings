@@ -3,8 +3,8 @@
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 298,
-  "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_Completed": 125,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 152,
+  "EOS_Progressed": 153,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.66,
+  "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -718,6 +718,11 @@
       "Time": "2023-08-08T16:05:14.2702781+00:00",
       "NumProgressed": 152,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-08T17:06:18.0678188+00:00",
+      "NumProgressed": 153,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -759,9 +764,9 @@
       "ID": "ball_galore",
       "SetID": "jig50d",
       "Name": "Ball Galore",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ball_protector",
@@ -801,7 +806,7 @@
       "Name": "You Have Been Deaded",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "easy_victory",
@@ -817,7 +822,7 @@
       "Name": "Graduation",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -897,7 +902,7 @@
       "Name": "Rookie",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "scrap_collector",
@@ -976,7 +981,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 152,
+      "Progressed": 153,
       "Completed": 1
     }
   ],
@@ -984,8 +989,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-08-08T16:05:14.2702775+00:00",
+  "LastChanged_Achievements": "2023-08-08T17:06:18.0678177+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:00.6112711+00:00",
-  "LastUpdate_Ratings": "2023-08-08T16:00:35.7654837+00:00",
-  "LastUpdate_Achievements": "2023-08-08T16:05:14.2703001+00:00"
+  "LastUpdate_Ratings": "2023-08-08T17:02:09.4093238+00:00",
+  "LastUpdate_Achievements": "2023-08-08T17:06:18.0678565+00:00"
 }

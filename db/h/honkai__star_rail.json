@@ -3,11 +3,11 @@
   "Name": "Honkai: Star Rail",
   "ProductSlug": "honkai-star-rail",
   "Ranking_Rating": 147,
-  "Ranking_Popularity": 56,
-  "Ranking_PopularitySum": 71,
-  "Ranking_EOS_Progress": 530,
+  "Ranking_Popularity": 54,
+  "Ranking_PopularitySum": 70,
+  "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -2260,18 +2260,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 13304,
       "NumberOfAwardsMax": 6217
+    },
+    {
+      "Time": "2023-08-08T16:57:19.8151143+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13476,
+      "NumberOfAwardsMax": 6361
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13304,
-  "NumberOfAwardsMax": 6217,
+  "NumberOfAwards": 13476,
+  "NumberOfAwardsMax": 6361,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6217
+      "Count": 6361
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2313,7 +2319,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 785
+      "Count": 813
     },
     {
       "Text": "This game is Relaxing",
@@ -2352,8 +2358,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-08-08T11:57:07.5823622+00:00",
+  "LastChanged": "2023-08-08T16:57:19.8151142+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:16.7154586+00:00",
-  "LastUpdate_Ratings": "2023-08-08T15:57:18.2924072+00:00",
-  "LastUpdate_Achievements": "2023-08-08T16:05:35.1453594+00:00"
+  "LastUpdate_Ratings": "2023-08-08T16:57:19.8151148+00:00",
+  "LastUpdate_Achievements": "2023-08-08T17:06:46.6661875+00:00"
 }

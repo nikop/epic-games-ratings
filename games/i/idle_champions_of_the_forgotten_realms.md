@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~10,995 |
-| Beast Intentions | 3.00% | ~6,597 |
+| A Brief Tour of the Realms | 5.00% | ~10,996 |
+| Beast Intentions | 3.00% | ~6,598 |
 | Maddening | 2.00% | ~4,398 |
 | The Silken Swamp | 1.00% | ~2,199 |
 | Supply Run | 1.00% | ~2,199 |
@@ -17,10 +17,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.90% | ~1,676 |
 | Vecna Loots! | 0.90% | ~1,676 |
 | Flight of the Kindori Pod | 0.90% | ~1,676 |
-| Seeds of Destruction | 0.80% | ~1,489 |
-| Return to the Tomb | 0.80% | ~1,489 |
+| Seeds of Destruction | 0.80% | ~1,490 |
+| Return to the Tomb | 0.80% | ~1,490 |
 | The Cursed Farmer | 0.80% | ~1,759 |
-| Topolah's Tower | 0.80% | ~1,489 |
+| Topolah's Tower | 0.80% | ~1,490 |
 | Pros and CONs | 0.70% | ~1,539 |
 | The Witchlight Carnival | 0.70% | ~1,303 |
 | Wet Feet | 0.70% | ~1,539 |
@@ -34,18 +34,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.70% | ~1,539 |
 | The Mad Wizard | 0.70% | ~1,539 |
 | The Champion's Guide to Wildspace | 0.70% | ~1,303 |
-| Don't Look Up! | 0.60% | ~1,319 |
-| Heavy Burden | 0.60% | ~1,319 |
+| Don't Look Up! | 0.60% | ~1,320 |
+| Heavy Burden | 0.60% | ~1,320 |
 | The Evacuation of Waterdeep | 0.60% | ~1,117 |
 | The Dread Domain of Tovag | 0.60% | ~1,117 |
-| Beast Mode | 0.60% | ~1,319 |
-| Low Initiative | 0.60% | ~1,319 |
-| Street War | 0.60% | ~1,319 |
-| No Time To Rest | 0.60% | ~1,319 |
-| The Mists of Ravenloft | 0.60% | ~1,319 |
-| The Dinner Party | 0.60% | ~1,319 |
-| The Botched Kidnapping | 0.60% | ~1,319 |
-| The Ring of Regeneration | 0.60% | ~1,319 |
+| Beast Mode | 0.60% | ~1,320 |
+| Low Initiative | 0.60% | ~1,320 |
+| Street War | 0.60% | ~1,320 |
+| No Time To Rest | 0.60% | ~1,320 |
+| The Mists of Ravenloft | 0.60% | ~1,320 |
+| The Dinner Party | 0.60% | ~1,320 |
+| The Botched Kidnapping | 0.60% | ~1,320 |
+| The Ring of Regeneration | 0.60% | ~1,320 |
 | Krux's Speed Run | 0.60% | ~1,117 |
 | Thieves of the Coven | 0.50% | ~931 |
 | A Demi-god's Defender | 0.50% | ~931 |
@@ -206,6 +206,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Not Very Charming | 0.20% | ~440 |
 | Periodic Petrification | 0.20% | ~440 |
 | Double Vision | 0.20% | ~440 |
+| Never Split the Party | 0.20% | ~440 |
 | Snakes on our Plane | 0.20% | ~372 |
 | Haunted Fortunes | 0.20% | ~440 |
 | Poor Fortune | 0.20% | ~440 |
@@ -261,6 +262,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ending the Rime - Part 2 | 0.20% | ~372 |
 | Reghed Glacier Mysteries | 0.20% | ~372 |
 | Tekeli-li's Hunt | 0.20% | ~372 |
+| The Rite of the Arcane Octad | 0.20% | ~372 |
 | Poor Guidance | 0.20% | ~440 |
 | Overwhelming Force | 0.20% | ~440 |
 | All The World's A Stage | 0.20% | ~372 |
@@ -323,7 +325,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Good at All | 0.10% | ~220 |
 | Fall From Grace | 0.10% | ~220 |
 | Underground Railroad | 0.10% | ~220 |
-| Never Split the Party | 0.10% | ~220 |
 | The Soulmonger Calls | 0.10% | ~220 |
 | Acererak's Puzzle | 0.10% | ~186 |
 | Form Ranks | 0.10% | ~220 |
@@ -508,7 +509,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Encroaching Madness | 0.10% | ~186 |
 | Watchful Eyes | 0.10% | ~186 |
 | Maroon Madness | 0.10% | ~186 |
-| The Rite of the Arcane Octad | 0.10% | ~186 |
 | Alien Allies | 0.10% | ~186 |
 | An Icewind Dale Reunion | 0.10% | ~186 |
 | The Netherese Necropolis | 0.10% | ~186 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,907 (Ranked 52)  
+Progressed: 219,923 (Ranked 52)  
 Completed: 2,165 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 2,165 (0.98%) (Ranked 114)
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
-| 2023-08-08 | 219,907 | 2,165 |
+| 2023-08-08 | 219,923 | 2,165 |
 ## Awards
 Max (Diverse Characters): 5,125  (Ranked 67)  
 Sum: 30,943 (Ranked 38)  

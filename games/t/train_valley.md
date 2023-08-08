@@ -10,7 +10,7 @@ Number of Ratings: 28  (23.09.2022)
 | Close call! | 73.00% | ~314 |
 | Builder | 53.00% | ~228 |
 | Pangs of conscience | 47.00% | ~202 |
-| Living it large! | 43.00% | ~185 |
+| Living it large! | 44.00% | ~189 |
 | Collector | 42.00% | ~181 |
 | Need to think | 41.00% | ~176 |
 | Completely nuts! | 38.00% | ~163 |

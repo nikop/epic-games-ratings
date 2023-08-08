@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1274,
+  "EOS_Progressed": 1275,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
@@ -2115,6 +2115,11 @@
       "Time": "2023-08-08T10:04:37.9296587+00:00",
       "NumProgressed": 1274,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-08T17:05:09.880555+00:00",
+      "NumProgressed": 1275,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2150,7 +2155,7 @@
       "Name": "The Big Bertha",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Boy",
@@ -2182,7 +2187,7 @@
       "Name": "Unbreakable Wall",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Defense_Epic",
@@ -2206,15 +2211,15 @@
       "Name": "E1M1",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "Everyone_is_here",
       "SetID": "85nb4h3",
       "Name": "The Gang\u0027s All Here",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 166
     },
     {
       "ID": "Experienced_strategist",
@@ -2365,15 +2370,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1274,
+      "Progressed": 1275,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-08T16:04:24.5855232+00:00",
+  "LastChanged_Achievements": "2023-08-08T17:05:09.8805542+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:07.8032848+00:00",
-  "LastUpdate_Ratings": "2023-08-08T15:59:49.5993144+00:00",
-  "LastUpdate_Achievements": "2023-08-08T16:04:24.5855501+00:00"
+  "LastUpdate_Ratings": "2023-08-08T17:01:03.7145009+00:00",
+  "LastUpdate_Achievements": "2023-08-08T17:05:09.8806095+00:00"
 }

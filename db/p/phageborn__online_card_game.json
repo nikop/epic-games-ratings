@@ -2,9 +2,9 @@
   "ID": "bfdb308d8cde4261b579c48fa6a4cdb1",
   "Name": "PHAGEBORN: Online Card Game",
   "ProductSlug": "phageborn-c7b533",
-  "Ranking_EOS_Progress": 530,
+  "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-19T10:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-20T07:59:05.2211705+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:43.9683969+00:00",
-  "LastUpdate_Ratings": "2023-08-08T15:59:30.9986128+00:00",
-  "LastUpdate_Achievements": "2023-08-08T16:03:18.8708518+00:00"
+  "LastUpdate_Ratings": "2023-08-08T17:00:35.6006476+00:00",
+  "LastUpdate_Achievements": "2023-08-08T17:03:41.9075764+00:00"
 }
