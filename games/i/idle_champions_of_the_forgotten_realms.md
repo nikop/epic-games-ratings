@@ -60,6 +60,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.50% | ~1,100 |
 | Are Ya Chicken? | 0.50% | ~1,100 |
 | Exploring Port Nyanzaru | 0.50% | ~1,100 |
+| Running of the Saurs | 0.50% | ~1,100 |
 | Waterdeep Detours | 0.50% | ~1,100 |
 | Friendly Imps | 0.50% | ~1,100 |
 | Pure Energy | 0.50% | ~1,100 |
@@ -97,7 +98,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.40% | ~880 |
 | Flying Monkey Skulls of Doom | 0.40% | ~880 |
 | The Darkness Runs Deeper | 0.40% | ~880 |
-| Running of the Saurs | 0.40% | ~880 |
 | The Contagious Curse | 0.40% | ~880 |
 | Escort to Waterdeep | 0.40% | ~880 |
 | The Giant's Bane Tavern | 0.40% | ~745 |
@@ -200,7 +200,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.20% | ~373 |
 | Weak Doesn't Mean Feeble | 0.20% | ~373 |
 | Frail Doesn't Mean Broken | 0.20% | ~373 |
-| Unreasonable Doesn't Mean Stupid | 0.20% | ~373 |
 | Clowning Around | 0.20% | ~373 |
 | Anti-Dexterous Explorers | 0.20% | ~440 |
 | Struggling Toward Omu | 0.20% | ~440 |
@@ -230,7 +229,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Towering Expectations | 0.20% | ~440 |
 | Cramped Quarters | 0.20% | ~440 |
 | Who Lurks in Lurkwood | 0.20% | ~440 |
-| Orcs Are Wild | 0.20% | ~440 |
 | A Tale of Two Fiends | 0.20% | ~440 |
 | Slow and Steady | 0.20% | ~440 |
 | A Hero's Entourage | 0.20% | ~440 |
@@ -307,6 +305,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Strength of Character | 0.10% | ~186 |
 | The Invisible Wizards of Thay | 0.10% | ~186 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~186 |
+| Unreasonable Doesn't Mean Stupid | 0.10% | ~186 |
 | Kas the Bloody Handed | 0.10% | ~186 |
 | Kas the Destroyer | 0.10% | ~186 |
 | Pin and Skewer | 0.10% | ~186 |
@@ -369,6 +368,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bullywugs in the Bog | 0.10% | ~220 |
 | Modrons in the Mud | 0.10% | ~220 |
 | And a Pixie in a Pear Treant | 0.10% | ~186 |
+| Orcs Are Wild | 0.10% | ~220 |
 | An Abyssal Situation | 0.10% | ~220 |
 | Dino Nightmare | 0.10% | ~220 |
 | A Familiar Friend | 0.10% | ~186 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,993 (Ranked 52)  
+Progressed: 220,001 (Ranked 52)  
 Completed: 2,165 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 2,165 (0.98%) (Ranked 114)
 | 2023-08-05 | 219,057 | 2,153 |
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
-| 2023-08-08 | 219,993 | 2,165 |
+| 2023-08-08 | 220,001 | 2,165 |
 ## Awards
 Max (Diverse Characters): 5,125  (Ranked 67)  
 Sum: 30,949 (Ranked 38)  

@@ -30,6 +30,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heart of the Fallen Land | 3.00% | ~326 |
 | Path of the Trickster | 3.00% | ~326 |
 | Mythic Reinforcements | 3.00% | ~326 |
+| Core of the Riddle | 3.00% | ~326 |
 | Hey, I Know You! | 3.00% | ~326 |
 | The Lady of the Forest | 3.00% | ~289 |
 | Beware Still Water | 3.00% | ~289 |
@@ -38,7 +39,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Lich | 2.00% | ~217 |
 | Heroic Victory | 2.00% | ~217 |
 | Capitulation Is Now Moot | 2.00% | ~217 |
-| Core of the Riddle | 2.00% | ~217 |
 | Your First Big Enemy | 2.00% | ~217 |
 | Truly Important Deed | 2.00% | ~217 |
 | Stay Underground | 2.00% | ~193 |

@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 378,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 6.35,
   "EosHistory": [
@@ -1379,9 +1379,9 @@
       "ID": "BearBroom",
       "SetID": "db30heh",
       "Name": "Dusted",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 53
     },
     {
       "ID": "BearPistol",
@@ -1499,9 +1499,9 @@
       "ID": "DwarfHobo",
       "SetID": "db30heh",
       "Name": "Funny Hobo",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 140
     },
     {
       "ID": "FerrymanBird",
@@ -1722,8 +1722,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-08T21:06:17.0952154+00:00",
+  "LastChanged_Achievements": "2023-08-08T22:07:22.2510476+00:00",
   "LastUpdate_AppInfo": "2023-08-08T15:57:07.8979254+00:00",
-  "LastUpdate_Ratings": "2023-08-08T20:57:43.281859+00:00",
-  "LastUpdate_Achievements": "2023-08-08T21:06:17.0952513+00:00"
+  "LastUpdate_Ratings": "2023-08-08T21:57:37.4760886+00:00",
+  "LastUpdate_Achievements": "2023-08-08T22:07:22.251084+00:00"
 }

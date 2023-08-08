@@ -15,23 +15,23 @@
 | Blurry depth perception | 83.00% | ~77 |
 | Up and down | 81.00% | ~75 |
 | Rolling, Rolling, Rolling | 73.00% | ~68 |
-| Fire-fighter! | 67.00% | ~62 |
+| Fire-fighter! | 68.00% | ~63 |
 | Oh, you're up to no gouda! | 63.00% | ~59 |
 | Make Love not War-Craft a Mistlefoe | 61.00% | ~57 |
-| Meat grinder | 60.00% | ~56 |
-| You're not going to blow me up! | 53.00% | ~49 |
+| Meat grinder | 61.00% | ~57 |
+| You're not going to blow me up! | 54.00% | ~50 |
 | Mushroom soup of the day | 52.00% | ~48 |
+| Butcher | 51.00% | ~47 |
+| Spare Ribs | 51.00% | ~47 |
 | Honk honk! | 49.00% | ~46 |
-| Butcher | 49.00% | ~46 |
-| Spare Ribs | 49.00% | ~46 |
 | Cockadoodledoo! | 49.00% | ~46 |
-| Thats disgusting! | 45.00% | ~42 |
-| My pants squeak when I walk | 44.00% | ~41 |
+| Thats disgusting! | 46.00% | ~43 |
+| My pants squeak when I walk | 45.00% | ~42 |
 | Surprise!! | 43.00% | ~40 |
-| Self assessed tax return | 40.00% | ~37 |
+| Self assessed tax return | 41.00% | ~38 |
 | Haemochromatosis | 40.00% | ~37 |
-| Make America Grate Again | 35.00% | ~33 |
-| Pasta Bolognese | 34.00% | ~32 |
+| Make America Grate Again | 37.00% | ~34 |
+| Pasta Bolognese | 35.00% | ~33 |
 | Catch the bus with me! | 33.00% | ~31 |
 | Karaoke king | 33.00% | ~31 |
 | You can't stop me, bro! | 33.00% | ~31 |

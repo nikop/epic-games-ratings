@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -760,9 +760,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6593,
+  "EOS_Progressed": 6594,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4260,6 +4260,11 @@
       "Time": "2023-08-08T19:05:37.2178578+00:00",
       "NumProgressed": 6593,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-08T22:06:35.2005332+00:00",
+      "NumProgressed": 6594,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4279,7 +4284,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -4319,7 +4324,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2373
+      "UsersEstimate": 2374
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -4439,7 +4444,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -4463,7 +4468,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3626
+      "UsersEstimate": 3627
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -4599,7 +4604,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3626
+      "UsersEstimate": 3627
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -4615,7 +4620,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1451
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -4623,14 +4628,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3494
+      "UsersEstimate": 3495
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6593,
+      "Progressed": 6594,
       "Completed": 8
     }
   ],
@@ -4638,8 +4643,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-08T01:53:04.1863322+00:00",
-  "LastChanged_Achievements": "2023-08-08T21:05:40.4993546+00:00",
+  "LastChanged_Achievements": "2023-08-08T22:06:35.2005327+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:53.1361231+00:00",
-  "LastUpdate_Ratings": "2023-08-08T20:58:21.4412779+00:00",
-  "LastUpdate_Achievements": "2023-08-08T21:05:40.4994021+00:00"
+  "LastUpdate_Ratings": "2023-08-08T21:58:31.2330018+00:00",
+  "LastUpdate_Achievements": "2023-08-08T22:06:35.2005761+00:00"
 }

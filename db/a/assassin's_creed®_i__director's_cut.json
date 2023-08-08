@@ -2,7 +2,7 @@
   "ID": "f9a21c4ce910440d82b83b01d1c48c5e",
   "Name": "Assassin\u0027s Creed\u00AE I: Director\u0027s Cut",
   "ProductSlug": "assassins-creed-1",
-  "Ranking_Rating": 616,
+  "Ranking_Rating": 608,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 531,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.47,
   "NumberOfRatings": 142,
   "RatingHistory": [
     {
@@ -520,6 +520,12 @@
       "Rating": 4.46,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-08T22:00:37.8580347+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -537,8 +543,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:57.2958454+00:00",
-  "LastChanged": "2023-07-31T11:00:17.7680844+00:00",
+  "LastChanged": "2023-08-08T22:00:37.8580346+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:18.1599291+00:00",
-  "LastUpdate_Ratings": "2023-08-08T20:59:53.1352082+00:00",
-  "LastUpdate_Achievements": "2023-08-08T21:06:19.1577897+00:00"
+  "LastUpdate_Ratings": "2023-08-08T22:00:37.8580351+00:00",
+  "LastUpdate_Achievements": "2023-08-08T22:07:24.9326769+00:00"
 }

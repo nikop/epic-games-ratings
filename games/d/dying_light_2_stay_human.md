@@ -6,41 +6,41 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~67,052 |
-| Into the Unknown | 10.00% | ~60,957 |
-| First Shot | 10.00% | ~60,957 |
-| Herzlich Wilkommen! | 9.00% | ~54,861 |
-| Good Night & Good Luck | 9.00% | ~54,861 |
-| Sancho Panza | 8.00% | ~48,765 |
-| Oh, So This Is How It Works! | 8.00% | ~48,765 |
-| Under Pressure | 7.00% | ~42,670 |
-| On the Trail of the Enemy | 7.00% | ~42,670 |
-| Light in the Darkness | 7.00% | ~42,670 |
-| Flag Burning | 7.00% | ~42,670 |
-| Night Hunter | 7.00% | ~42,670 |
-| Get Outta My House! | 6.00% | ~36,574 |
-| It Wasn't That Hard, Was It? | 6.00% | ~36,574 |
-| Being All Social | 6.00% | ~36,574 |
-| Debris and Ashes | 5.00% | ~30,478 |
-| We Will Be Heard! | 5.00% | ~30,478 |
-| Known Associate | 5.00% | ~30,478 |
-| Brush with Death | 5.00% | ~30,478 |
-| Tunnel Entrance | 5.00% | ~30,478 |
-| After the Fall | 5.00% | ~30,478 |
-| Can't Touch This! | 5.00% | ~30,478 |
+| You Never Forget Your First... | 11.00% | ~67,054 |
+| Into the Unknown | 10.00% | ~60,959 |
+| First Shot | 10.00% | ~60,959 |
+| Herzlich Wilkommen! | 9.00% | ~54,863 |
+| Good Night & Good Luck | 9.00% | ~54,863 |
+| Sancho Panza | 8.00% | ~48,767 |
+| Oh, So This Is How It Works! | 8.00% | ~48,767 |
+| Under Pressure | 7.00% | ~42,671 |
+| On the Trail of the Enemy | 7.00% | ~42,671 |
+| Light in the Darkness | 7.00% | ~42,671 |
+| Flag Burning | 7.00% | ~42,671 |
+| Night Hunter | 7.00% | ~42,671 |
+| Get Outta My House! | 6.00% | ~36,575 |
+| It Wasn't That Hard, Was It? | 6.00% | ~36,575 |
+| Being All Social | 6.00% | ~36,575 |
+| Debris and Ashes | 5.00% | ~30,479 |
+| We Will Be Heard! | 5.00% | ~30,479 |
+| Known Associate | 5.00% | ~30,479 |
+| Brush with Death | 5.00% | ~30,479 |
+| Tunnel Entrance | 5.00% | ~30,479 |
+| After the Fall | 5.00% | ~30,479 |
+| Can't Touch This! | 5.00% | ~30,479 |
 | Going Down | 4.00% | ~24,383 |
 | Family First | 4.00% | ~24,383 |
 | Your World, Your Rules | 4.00% | ~24,383 |
 | Death From Afar | 4.00% | ~24,383 |
 | Terminal Headache | 4.00% | ~24,383 |
 | Slowpoke! | 4.00% | ~24,383 |
-| Tickets, Please! | 3.00% | ~18,287 |
-| Combat Master | 3.00% | ~18,287 |
-| You're Going Down! | 3.00% | ~18,287 |
-| Municipal Services | 2.00% | ~12,191 |
-| Ban Hammer | 2.00% | ~12,191 |
-| Parkour Master | 2.00% | ~12,191 |
-| Modder | 2.00% | ~12,191 |
+| Tickets, Please! | 3.00% | ~18,288 |
+| Combat Master | 3.00% | ~18,288 |
+| You're Going Down! | 3.00% | ~18,288 |
+| Municipal Services | 2.00% | ~12,192 |
+| Ban Hammer | 2.00% | ~12,192 |
+| Parkour Master | 2.00% | ~12,192 |
+| Modder | 2.00% | ~12,192 |
 | Tube Map | 1.00% | ~6,096 |
 | Don Quixote | 1.00% | ~6,096 |
 | Can't You Read the Signs? | 1.00% | ~6,096 |
@@ -57,7 +57,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Get the Point? | 0.70% | ~4,267 |
 | My Friend, Ciro | 0.70% | ~1,785 |
 | Skullcrusher | 0.70% | ~1,785 |
-| Tanning Salon | 0.60% | ~3,657 |
+| Tanning Salon | 0.60% | ~3,658 |
 | Lightning Reflexes | 0.40% | ~2,438 |
 | A Friend in Need... | 0.30% | ~1,829 |
 | Man On a Mission | 0.30% | ~1,829 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~255 |
 | Connoisseur | 0.10% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 609,568 (Ranked 27)  
+Progressed: 609,586 (Ranked 27)  
 Completed: 61 (0.01%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,10 +182,10 @@ Completed: 61 (0.01%) (Ranked 237)
 | 2023-08-05 | 608,208 | 61 |
 | 2023-08-06 | 608,764 | 61 |
 | 2023-08-07 | 609,213 | 61 |
-| 2023-08-08 | 609,568 | 61 |
+| 2023-08-08 | 609,586 | 61 |
 ## Awards
 Max (Character Customization): 8,736  (Ranked 39)  
-Sum: 20,915 (Ranked 54)  
+Sum: 20,917 (Ranked 54)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -194,7 +194,7 @@ Diff (max vs sum): -15
 | This game is Great for Beginners | 890 |
 | This game is Highly Recommended | 834 |
 | This game has Diverse Characters | 814 |
-| This game has Amazing Characters | 799 |
+| This game has Amazing Characters | 801 |
 | This game is Extremely Fun | 774 |
 | This game has Amazing Storytelling | 772 |
 | This game has Quickly Understood Controls | 753 |
@@ -412,4 +412,4 @@ Diff (max vs sum): -15
 | 2023-08-05 | 4.58 | - | 8,698 | 20,801 |
 | 2023-08-06 | 4.58 | - | 8,713 | 20,847 |
 | 2023-08-07 | 4.58 | - | 8,727 | 20,897 |
-| 2023-08-08 | 4.58 | - | 8,736 | 20,915 |
+| 2023-08-08 | 4.58 | - | 8,736 | 20,917 |

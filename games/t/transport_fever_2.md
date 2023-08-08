@@ -17,9 +17,9 @@ Number of Ratings: 180  (23.09.2022)
 | First steam train arrived | 60.00% | ~925 |
 | First industry upgraded | 56.00% | ~863 |
 | Transport millionaire | 55.00% | ~848 |
+| Cargo hub | 54.00% | ~832 |
 | Transport master | 53.00% | ~817 |
 | Cadet | 53.00% | ~817 |
-| Cargo hub | 53.00% | ~817 |
 | Sculpturer | 50.00% | ~770 |
 | Settled down | 49.00% | ~755 |
 | First electric train arrived | 47.00% | ~724 |
@@ -34,8 +34,8 @@ Number of Ratings: 180  (23.09.2022)
 | Crowd in a train | 32.00% | ~493 |
 | The future is now, old man | 31.00% | ~478 |
 | Not in my backyard | 30.00% | ~462 |
+| City | 29.00% | ~447 |
 | The king of the sea | 29.00% | ~447 |
-| City | 28.00% | ~431 |
 | Transport tycoon | 24.00% | ~370 |
 | Old timer | 23.00% | ~354 |
 | The ugly smell of success | 23.00% | ~354 |

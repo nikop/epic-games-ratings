@@ -19,16 +19,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 0.40% | ~537 |
 | Pretty Penny | 0.40% | ~537 |
 | Own the Means of Production | 0.40% | ~537 |
-| The Daily Grind | 0.30% | ~402 |
-| Bounty Hunters | 0.30% | ~402 |
-| Demand for Supplies | 0.30% | ~402 |
-| Flooding the Market | 0.30% | ~402 |
-| Where it Hurts | 0.30% | ~402 |
-| Gild-Gotten Goods | 0.30% | ~402 |
-| One-Armed Bandit | 0.30% | ~402 |
-| Accomplished Merchant | 0.30% | ~402 |
-| Dungeon Imports | 0.30% | ~402 |
-| Through Repetition, Perfection | 0.30% | ~402 |
+| The Daily Grind | 0.30% | ~403 |
+| Bounty Hunters | 0.30% | ~403 |
+| Demand for Supplies | 0.30% | ~403 |
+| Flooding the Market | 0.30% | ~403 |
+| Where it Hurts | 0.30% | ~403 |
+| Gild-Gotten Goods | 0.30% | ~403 |
+| One-Armed Bandit | 0.30% | ~403 |
+| Accomplished Merchant | 0.30% | ~403 |
+| Dungeon Imports | 0.30% | ~403 |
+| Through Repetition, Perfection | 0.30% | ~403 |
 | On the Path to Greatness | 0.20% | ~268 |
 | A Notch Above the Rest | 0.20% | ~268 |
 | Ascended | 0.20% | ~268 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,164 (Ranked 65)  
+Progressed: 134,167 (Ranked 65)  
 Completed: 131 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-05 | 133,956 | 128 |
 | 2023-08-06 | 134,025 | 129 |
 | 2023-08-07 | 134,099 | 130 |
-| 2023-08-08 | 134,164 | 131 |
+| 2023-08-08 | 134,167 | 131 |
 ## Awards
 Max (Great for Beginners): 4,692  (Ranked 71)  
 Sum: 27,070 (Ranked 46)  

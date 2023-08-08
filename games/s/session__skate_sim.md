@@ -1,14 +1,14 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.68 (Ranked 242)  
+Rating: 4.68 (Ranked 241)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 58.00% | ~1,570 |
+| You're free now! | 58.00% | ~1,571 |
 | Keeping it classy | 26.00% | ~704 |
-| Welcome to the family | 20.00% | ~541 |
+| Welcome to the family | 20.00% | ~542 |
 | The finer things in life | 18.00% | ~487 |
 | Backpacker | 13.00% | ~352 |
 | Go with the Flow | 13.00% | ~352 |
@@ -18,7 +18,7 @@ Number of Ratings: 111  (23.09.2022)
 | The hard way | 9.00% | ~244 |
 | Good vibes | 8.00% | ~217 |
 | Upfront shredder | 8.00% | ~217 |
-| That pinch! | 7.00% | ~189 |
+| That pinch! | 7.00% | ~190 |
 | Bottom ply killer | 6.00% | ~162 |
 | Fashionista | 6.00% | ~162 |
 | Finally he zips it | 6.00% | ~162 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,707 (Ranked 160)  
+Progressed: 2,708 (Ranked 160)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-04 | 2,697 | 0 |
 | 2023-08-05 | 2,702 | 0 |
 | 2023-08-06 | 2,703 | 0 |
-| 2023-08-08 | 2,707 | 0 |
+| 2023-08-08 | 2,708 | 0 |
 ## Awards
 Max (Highly Recommended): 52  (Ranked 396)  
 Sum: 447 (Ranked 308)  

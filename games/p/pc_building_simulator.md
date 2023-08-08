@@ -6,29 +6,29 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,736,471 |
-| Easy to forget | 46.00% | ~1,630,157 |
-| Back in the black | 39.00% | ~1,382,089 |
-| That's what I'm talking about | 28.00% | ~992,269 |
-| The Best of Both Worlds | 25.00% | ~885,955 |
-| Get your wings | 20.00% | ~708,764 |
-| Double trouble | 15.00% | ~531,573 |
-| Smashing it | 10.00% | ~354,382 |
-| But can it run Crysis? | 9.00% | ~318,944 |
-| My favourite feature... | 9.00% | ~318,944 |
-| From humble beginnings... | 7.00% | ~248,067 |
-| Customer satisfaction | 7.00% | ~248,067 |
+| You need to plug it in... | 49.00% | ~1,736,479 |
+| Easy to forget | 46.00% | ~1,630,164 |
+| Back in the black | 39.00% | ~1,382,096 |
+| That's what I'm talking about | 28.00% | ~992,274 |
+| The Best of Both Worlds | 25.00% | ~885,959 |
+| Get your wings | 20.00% | ~708,767 |
+| Double trouble | 15.00% | ~531,575 |
+| Smashing it | 10.00% | ~354,384 |
+| But can it run Crysis? | 9.00% | ~318,945 |
+| My favourite feature... | 9.00% | ~318,945 |
+| From humble beginnings... | 7.00% | ~248,068 |
+| Customer satisfaction | 7.00% | ~248,068 |
 | Keeping things neat | 4.00% | ~141,753 |
 | Seems you're pretty good at this | 4.00% | ~141,753 |
 | Bending over backwards | 4.00% | ~141,753 |
 | Triple threat | 3.00% | ~106,315 |
 | You rock at this! | 3.00% | ~106,315 |
 | Your music sucks | 3.00% | ~106,315 |
-| I'm broke, Uncle! | 2.00% | ~70,876 |
-| Maybe you should try something else? | 2.00% | ~70,876 |
-| Taking care of business | 2.00% | ~70,876 |
-| Perfection | 2.00% | ~70,876 |
-| Calling in Sick | 2.00% | ~70,876 |
+| I'm broke, Uncle! | 2.00% | ~70,877 |
+| Maybe you should try something else? | 2.00% | ~70,877 |
+| Taking care of business | 2.00% | ~70,877 |
+| Perfection | 2.00% | ~70,877 |
+| Calling in Sick | 2.00% | ~70,877 |
 | Overvolted | 1.00% | ~35,438 |
 | If you fail the first time... | 1.00% | ~35,438 |
 | Amazonian | 1.00% | ~35,438 |
@@ -37,17 +37,17 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building isn't cheap! | 1.00% | ~35,438 |
 | Majority Shareholder | 1.00% | ~35,438 |
 | Owner | 1.00% | ~35,438 |
-| Show off | 0.90% | ~31,894 |
+| Show off | 0.90% | ~31,895 |
 | Work ethic 101 | 0.70% | ~24,807 |
 | Building momentum | 0.60% | ~21,263 |
 | Lead by example | 0.60% | ~21,263 |
 | Treat yourself - RAM | 0.50% | ~17,719 |
-| So you're the reason why the prices are so high? | 0.30% | ~10,631 |
-| Mr big business | 0.30% | ~10,631 |
-| Mister Big | 0.30% | ~10,631 |
-| Getting your feet wet | 0.30% | ~10,631 |
-| Customer's ALWAYS right. | 0.30% | ~10,631 |
-| Treat yourself - CPU | 0.30% | ~10,631 |
+| So you're the reason why the prices are so high? | 0.30% | ~10,632 |
+| Mr big business | 0.30% | ~10,632 |
+| Mister Big | 0.30% | ~10,632 |
+| Getting your feet wet | 0.30% | ~10,632 |
+| Customer's ALWAYS right. | 0.30% | ~10,632 |
+| Treat yourself - CPU | 0.30% | ~10,632 |
 | 1920x1080 | 0.20% | ~7,088 |
 | Blow 'em away | 0.20% | ~7,088 |
 | Hasta La Vista, Baby. | 0.10% | ~3,544 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,544 |
 | Treat yourself - GPU | 0.10% | ~3,544 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,543,819 (Ranked 5)  
+Progressed: 3,543,835 (Ranked 5)  
 Completed: 32 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,15 +169,15 @@ Completed: 32 (0.00%) (Ranked 251)
 | 2023-08-05 | 3,542,600 | 32 |
 | 2023-08-06 | 3,543,044 | 32 |
 | 2023-08-07 | 3,543,454 | 32 |
-| 2023-08-08 | 3,543,819 | 32 |
+| 2023-08-08 | 3,543,835 | 32 |
 ## Awards
 Max (Great for Beginners): 1,057  (Ranked 138)  
-Sum: 7,925 (Ranked 100)  
+Sum: 7,926 (Ranked 100)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,057 |
-| This game is Educational | 986 |
+| This game is Educational | 987 |
 | This game is Relaxing | 980 |
 | This game is Extremely Fun | 974 |
 | This game has Quickly Understood Controls | 938 |
@@ -362,3 +362,4 @@ Diff (max vs sum): 38
 | 2023-08-05 | 4.66 | - | 1,057 | 7,921 |
 | 2023-08-06 | 4.66 | - | 1,057 | 7,922 |
 | 2023-08-07 | 4.66 | - | 1,057 | 7,925 |
+| 2023-08-08 | 4.66 | - | 1,057 | 7,926 |

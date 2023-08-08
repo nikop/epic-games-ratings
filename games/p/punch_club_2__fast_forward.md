@@ -13,8 +13,8 @@
 | Fitness professional | 77.00% | ~184 |
 | First defeat | 76.00% | ~182 |
 | Depressed visitor | 76.00% | ~182 |
+| Employee of the week | 76.00% | ~182 |
 | Neurotrainer – power gainer! | 75.00% | ~179 |
-| Employee of the week | 75.00% | ~179 |
 | Your own amateur gym | 74.00% | ~177 |
 | Run K, run! | 72.00% | ~172 |
 | Fighting is cool | 68.00% | ~163 |
@@ -33,7 +33,7 @@
 | Fight for life | 56.00% | ~134 |
 | Handyman | 56.00% | ~134 |
 | Employee of the year | 56.00% | ~134 |
-| Legal courier | 51.00% | ~122 |
+| Legal courier | 52.00% | ~124 |
 | Extreme neuropower! | 51.00% | ~122 |
 | Escaped from a big trouble | 49.00% | ~117 |
 | Now you are worthy | 46.00% | ~110 |

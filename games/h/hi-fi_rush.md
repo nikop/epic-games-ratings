@@ -7,7 +7,7 @@ Rating: 4.87 (Ranked 24)
 | ---- | ---------- | ----- |
 | Start with a bang! | 9.00% | ~343 |
 | Feeling the beat! | 9.00% | ~343 |
-| You can pet the cat! | 8.00% | ~304 |
+| You can pet the cat! | 8.00% | ~305 |
 | Who put gears in there? | 7.00% | ~266 |
 | Cream of the Crop | 6.00% | ~228 |
 | Thanks for the free chip, Peppermint! | 6.00% | ~228 |
@@ -18,18 +18,18 @@ Rating: 4.87 (Ranked 24)
 | Uh, they were broken when I got here | 5.00% | ~190 |
 | Alright, that felt AWESOME! | 5.00% | ~190 |
 | The Negotiator | 4.00% | ~152 |
+| Headliner | 4.00% | ~152 |
 | Time to pay up! | 4.00% | ~152 |
+| Who's the boss now? | 4.00% | ~152 |
 | Whoa! There's ANOTHER health bar!? | 4.00% | ~152 |
 | Z-shielding's got nothing on us! | 4.00% | ~152 |
+| Out in a puff of smoke | 4.00% | ~152 |
 | Kissing the sky! | 4.00% | ~152 |
 | I look cool. But I can look COOLER. | 4.00% | ~152 |
 | Does that say weakpoint? | 4.00% | ~152 |
 | NOW we got a kickass hideout! | 4.00% | ~93 |
-| Headliner | 3.00% | ~114 |
-| Who's the boss now? | 3.00% | ~114 |
 | I have to read these things? | 3.00% | ~114 |
 | You must like calling me in, Chai | 3.00% | ~114 |
-| Out in a puff of smoke | 3.00% | ~114 |
 | Perfecter Parry-er! | 3.00% | ~114 |
 | Well that was a rush! | 2.00% | ~76 |
 | Beat-hit mania | 2.00% | ~76 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,806 (Ranked 147)  
+Progressed: 3,807 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 7 (0.18%) (Ranked 181)
 | 2023-08-05 | 3,750 | 6 |
 | 2023-08-06 | 3,771 | 7 |
 | 2023-08-07 | 3,789 | 7 |
-| 2023-08-08 | 3,806 | 7 |
+| 2023-08-08 | 3,807 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

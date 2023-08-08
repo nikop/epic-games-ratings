@@ -2,12 +2,12 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 242,
+  "Ranking_Rating": 241,
   "Ranking_Popularity": 396,
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -856,9 +856,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2707,
+  "EOS_Progressed": 2708,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3896,6 +3896,11 @@
       "Time": "2023-08-08T18:03:54.679072+00:00",
       "NumProgressed": 2707,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-08T22:03:51.2224885+00:00",
+      "NumProgressed": 2708,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4187,7 +4192,7 @@
       "Name": "That pinch!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -4275,7 +4280,7 @@
       "Name": "Welcome to the family",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -4283,22 +4288,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2707,
+      "Progressed": 2708,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-08-07T10:00:10.429765+00:00",
-  "LastChanged_Achievements": "2023-08-08T21:03:33.66893+00:00",
+  "LastChanged_Achievements": "2023-08-08T22:03:51.2224876+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:05.9499933+00:00",
-  "LastUpdate_Ratings": "2023-08-08T20:59:43.6370763+00:00",
-  "LastUpdate_Achievements": "2023-08-08T21:03:33.6689759+00:00"
+  "LastUpdate_Ratings": "2023-08-08T22:00:26.5766097+00:00",
+  "LastUpdate_Achievements": "2023-08-08T22:03:51.2225318+00:00"
 }

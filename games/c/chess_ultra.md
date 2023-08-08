@@ -5,27 +5,27 @@ Rating: 4.28 (Ranked 798)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 69.00% | ~137,228 |
-| Doubled Pawn | 56.00% | ~111,373 |
-| Check | 54.00% | ~107,396 |
-| Absolute pin | 46.00% | ~91,485 |
-| Promotion | 30.00% | ~59,664 |
-| Checkmate | 29.00% | ~57,675 |
-| O-O | 23.00% | ~45,743 |
-| Queen Sacrifice | 20.00% | ~39,776 |
-| Spanish Bishop | 20.00% | ~39,776 |
-| Stalemate | 18.00% | ~35,799 |
-| O-O-O | 13.00% | ~25,855 |
-| Octopus | 13.00% | ~25,855 |
-| Stranger Danger | 12.00% | ~23,866 |
-| En Passant | 8.00% | ~15,910 |
+| Chop Wood | 69.00% | ~137,234 |
+| Doubled Pawn | 56.00% | ~111,378 |
+| Check | 54.00% | ~107,401 |
+| Absolute pin | 46.00% | ~91,489 |
+| Promotion | 30.00% | ~59,667 |
+| Checkmate | 29.00% | ~57,678 |
+| O-O | 23.00% | ~45,745 |
+| Queen Sacrifice | 20.00% | ~39,778 |
+| Spanish Bishop | 20.00% | ~39,778 |
+| Stalemate | 18.00% | ~35,800 |
+| O-O-O | 13.00% | ~25,856 |
+| Octopus | 13.00% | ~25,856 |
+| Stranger Danger | 12.00% | ~23,867 |
+| En Passant | 8.00% | ~15,911 |
 | Double Check | 7.00% | ~13,922 |
 | Piece Collector | 6.00% | ~11,933 |
 | ELO | 5.00% | ~9,944 |
 | Family Fork | 5.00% | ~9,944 |
 | Friendly Fire | 5.00% | ~9,944 |
-| Underpromote | 4.00% | ~7,955 |
-| ELO ELO | 3.00% | ~5,966 |
+| Underpromote | 4.00% | ~7,956 |
+| ELO ELO | 3.00% | ~5,967 |
 | Blind Pigs | 2.00% | ~3,978 |
 | ELO ELO ELO | 2.00% | ~3,978 |
 | Learner | 2.00% | ~3,978 |
@@ -44,7 +44,7 @@ Rating: 4.28 (Ranked 798)
 | Tournament Master | 0.10% | ~199 |
 | Tournament Pro | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198,881 (Ranked 56)  
+Progressed: 198,890 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 2 (0.00%) (Ranked 251)
 | 2023-08-05 | 198,170 | 2 |
 | 2023-08-06 | 198,435 | 2 |
 | 2023-08-07 | 198,681 | 2 |
-| 2023-08-08 | 198,881 | 2 |
+| 2023-08-08 | 198,890 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

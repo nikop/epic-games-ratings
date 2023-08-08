@@ -4,7 +4,7 @@
   "ProductSlug": "risk-of-rain-2",
   "Ranking_Rating": 50,
   "Ranking_Popularity": 256,
-  "Ranking_PopularitySum": 178,
+  "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 360,
@@ -2058,10 +2058,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 2384,
       "NumberOfAwardsMax": 237
+    },
+    {
+      "Time": "2023-08-08T22:00:42.517074+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2385,
+      "NumberOfAwardsMax": 237
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2384,
+  "NumberOfAwards": 2385,
   "NumberOfAwardsMax": 237,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2081,7 +2087,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 223
+      "Count": 224
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2149,8 +2155,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2023-08-05T23:59:49.5452017+00:00",
+  "LastChanged": "2023-08-08T22:00:42.5170739+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:22.0859605+00:00",
-  "LastUpdate_Ratings": "2023-08-08T20:59:56.6763981+00:00",
-  "LastUpdate_Achievements": "2023-08-08T21:04:57.6966669+00:00"
+  "LastUpdate_Ratings": "2023-08-08T22:00:42.5170745+00:00",
+  "LastUpdate_Achievements": "2023-08-08T22:05:39.9593277+00:00"
 }

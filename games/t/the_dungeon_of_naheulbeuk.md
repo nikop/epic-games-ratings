@@ -6,30 +6,30 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~123,334 |
-| Where's that freaking Dwarf? | 47.00% | ~98,249 |
-| GG EZ | 28.00% | ~58,531 |
-| Speedrun | 26.00% | ~54,351 |
-| Déjà vu | 21.00% | ~43,899 |
-| Sock! SOCK! | 18.00% | ~37,627 |
-| DM intervention | 13.00% | ~27,175 |
-| Fireproof Wizardess | 10.00% | ~20,904 |
-| Livin' in a dwarven paradise | 8.00% | ~16,723 |
-| A beer, two curses, three companions | 8.00% | ~16,723 |
-| Way of the Wimp | 7.00% | ~14,633 |
-| The plot thickens... At the tavern | 5.00% | ~10,452 |
-| Shiny and Crôm | 4.00% | ~8,362 |
-| The Woman in the High Castle | 4.00% | ~8,362 |
-| I am the night | 4.00% | ~8,362 |
-| Team Building Exercise | 4.00% | ~8,362 |
-| Oh, when I'll be level 10... | 4.00% | ~8,362 |
-| The demons' feast | 3.00% | ~6,271 |
-| The Great Library | 3.00% | ~6,271 |
-| Torture and Sensibility | 3.00% | ~6,271 |
-| Res Judicata | 3.00% | ~6,271 |
-| Dwarf Fortress | 3.00% | ~6,271 |
-| The Ranger of Chaos | 3.00% | ~6,271 |
-| Thieves' Guild Accreditation | 3.00% | ~6,271 |
+| Alt+F4 | 59.00% | ~123,349 |
+| Where's that freaking Dwarf? | 47.00% | ~98,261 |
+| GG EZ | 28.00% | ~58,538 |
+| Speedrun | 26.00% | ~54,357 |
+| Déjà vu | 21.00% | ~43,904 |
+| Sock! SOCK! | 18.00% | ~37,632 |
+| DM intervention | 13.00% | ~27,179 |
+| Fireproof Wizardess | 10.00% | ~20,907 |
+| Livin' in a dwarven paradise | 8.00% | ~16,725 |
+| A beer, two curses, three companions | 8.00% | ~16,725 |
+| Way of the Wimp | 7.00% | ~14,635 |
+| The plot thickens... At the tavern | 5.00% | ~10,453 |
+| Shiny and Crôm | 4.00% | ~8,363 |
+| The Woman in the High Castle | 4.00% | ~8,363 |
+| I am the night | 4.00% | ~8,363 |
+| Team Building Exercise | 4.00% | ~8,363 |
+| Oh, when I'll be level 10... | 4.00% | ~8,363 |
+| The demons' feast | 3.00% | ~6,272 |
+| The Great Library | 3.00% | ~6,272 |
+| Torture and Sensibility | 3.00% | ~6,272 |
+| Res Judicata | 3.00% | ~6,272 |
+| Dwarf Fortress | 3.00% | ~6,272 |
+| The Ranger of Chaos | 3.00% | ~6,272 |
+| Thieves' Guild Accreditation | 3.00% | ~6,272 |
 | Urik's Depths | 2.00% | ~4,181 |
 | The Statuette of Gladeulfeurah | 2.00% | ~4,181 |
 | A tale of adventurers not quite like the others... | 2.00% | ~4,181 |
@@ -38,15 +38,15 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 2.00% | ~4,181 |
 | In Navalu's footsteps | 2.00% | ~4,181 |
 | Material Girl | 2.00% | ~4,181 |
-| The Dungeon Master | 1.00% | ~2,090 |
-| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,090 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,090 |
-| Dead for good | 1.00% | ~2,090 |
-| Law and Order | 1.00% | ~2,090 |
-| It's been a hard day's night | 1.00% | ~2,090 |
-| Lust and Debauchery | 1.00% | ~2,090 |
-| Lëgal Legend | 0.90% | ~1,881 |
-| An old poacher makes the best gamekeeper | 0.80% | ~1,672 |
+| The Dungeon Master | 1.00% | ~2,091 |
+| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,091 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,091 |
+| Dead for good | 1.00% | ~2,091 |
+| Law and Order | 1.00% | ~2,091 |
+| It's been a hard day's night | 1.00% | ~2,091 |
+| Lust and Debauchery | 1.00% | ~2,091 |
+| Lëgal Legend | 0.90% | ~1,882 |
+| An old poacher makes the best gamekeeper | 0.80% | ~1,673 |
 | Holistic Adventuring Party | 0.50% | ~1,045 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,045 |
 | Friendly fire | 0.50% | ~1,045 |
@@ -58,6 +58,7 @@ Number of Ratings: 118  (23.09.2022)
 | Cursed die | 0.20% | ~418 |
 | He’s alive! Aliiiive! | 0.20% | ~418 |
 | 100% satisfaction guarantee | 0.20% | ~418 |
+| Death is for wimps | 0.20% | ~418 |
 | Super-Ultra-Lydian | 0.20% | ~418 |
 | Lord of the Drunks | 0.20% | ~418 |
 | Inception | 0.20% | ~418 |
@@ -89,13 +90,12 @@ Number of Ratings: 118  (23.09.2022)
 | And they lived happily ever after... | 0.10% | ~209 |
 | Star-crossed lovers | 0.10% | ~209 |
 | Pyrrhic victory | 0.10% | ~209 |
-| Death is for wimps | 0.10% | ~209 |
 | Dumb and dumber | 0.10% | ~209 |
 | Dwarf Candy | 0.10% | ~209 |
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,041 (Ranked 55)  
+Progressed: 209,066 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-05 | 207,138 | 0 |
 | 2023-08-06 | 207,966 | 0 |
 | 2023-08-07 | 208,534 | 0 |
-| 2023-08-08 | 209,041 | 0 |
+| 2023-08-08 | 209,066 | 0 |
 ## Awards
 Max (Character Customization): 157  (Ranked 294)  
 Sum: 157 (Ranked 391)  

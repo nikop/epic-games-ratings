@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5968,10 +5968,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 40653,
       "NumberOfAwardsMax": 21597
+    },
+    {
+      "Time": "2023-08-08T21:58:23.3432349+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40655,
+      "NumberOfAwardsMax": 21597
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40653,
+  "NumberOfAwards": 40655,
   "NumberOfAwardsMax": 21597,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5997,7 +6003,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 899
+      "Count": 901
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6048,7 +6054,7 @@
       "Count": 580
     }
   ],
-  "EOS_Progressed": 289674,
+  "EOS_Progressed": 289679,
   "EOS_Completed": 443,
   "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 6,
@@ -17938,6 +17944,11 @@
       "Time": "2023-08-08T21:05:16.7025126+00:00",
       "NumProgressed": 289674,
       "NumCompleted": 443
+    },
+    {
+      "Time": "2023-08-08T22:06:04.3910895+00:00",
+      "NumProgressed": 289679,
+      "NumCompleted": 443
     }
   ],
   "TotalAchievements": 45,
@@ -17997,7 +18008,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20277
+      "UsersEstimate": 20278
     },
     {
       "ID": "PFA_16",
@@ -18013,7 +18024,7 @@
       "Name": "Beast Friends",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17380
+      "UsersEstimate": 17381
     },
     {
       "ID": "PFA_18",
@@ -18021,7 +18032,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20277
+      "UsersEstimate": 20278
     },
     {
       "ID": "PFA_19",
@@ -18029,7 +18040,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20277
+      "UsersEstimate": 20278
     },
     {
       "ID": "PFA_2",
@@ -18045,7 +18056,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5793
+      "UsersEstimate": 5794
     },
     {
       "ID": "PFA_21",
@@ -18069,7 +18080,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28967
+      "UsersEstimate": 28968
     },
     {
       "ID": "PFA_24",
@@ -18109,7 +18120,7 @@
       "Name": "Put Down Roots",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5793
+      "UsersEstimate": 5794
     },
     {
       "ID": "PFA_29",
@@ -18125,7 +18136,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5793
+      "UsersEstimate": 5794
     },
     {
       "ID": "PFA_30",
@@ -18181,7 +18192,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5793
+      "UsersEstimate": 5794
     },
     {
       "ID": "PFA_37",
@@ -18253,7 +18264,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20277
+      "UsersEstimate": 20278
     },
     {
       "ID": "PFA_45",
@@ -18277,7 +18288,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31864
+      "UsersEstimate": 31865
     },
     {
       "ID": "PFA_7",
@@ -18285,7 +18296,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31864
+      "UsersEstimate": 31865
     },
     {
       "ID": "PFA_8",
@@ -18293,7 +18304,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28967
+      "UsersEstimate": 28968
     },
     {
       "ID": "PFA_9",
@@ -18308,16 +18319,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289674,
+      "Progressed": 289679,
       "Completed": 443
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-08T20:58:14.3416878+00:00",
-  "LastChanged_Achievements": "2023-08-08T21:05:16.7025121+00:00",
+  "LastChanged": "2023-08-08T21:58:23.3432347+00:00",
+  "LastChanged_Achievements": "2023-08-08T22:06:04.3910891+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.8672159+00:00",
-  "LastUpdate_Ratings": "2023-08-08T20:58:14.3416887+00:00",
-  "LastUpdate_Achievements": "2023-08-08T21:05:16.7025963+00:00"
+  "LastUpdate_Ratings": "2023-08-08T21:58:23.3432355+00:00",
+  "LastUpdate_Achievements": "2023-08-08T22:06:04.3911777+00:00"
 }

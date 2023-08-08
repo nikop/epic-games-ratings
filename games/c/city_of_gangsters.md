@@ -1,32 +1,32 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.26 (Ranked 812)  
+Rating: 4.26 (Ranked 813)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~154,482 |
-| Copacetic Coordination | 16.00% | ~53,733 |
-| Fronting the Money | 14.00% | ~47,016 |
-| The Dawn of Automation | 14.00% | ~47,016 |
-| Extraordinary Logistics | 14.00% | ~47,016 |
-| Dirty Money | 13.00% | ~43,658 |
-| Family First | 13.00% | ~43,658 |
-| Cleaning House | 12.00% | ~40,300 |
-| Room in the Back | 12.00% | ~40,300 |
-| Booze Baron | 11.00% | ~36,941 |
-| Beating the Heat | 10.00% | ~33,583 |
-| Friends on the Force | 10.00% | ~33,583 |
-| Neighborhood Watch | 10.00% | ~33,583 |
-| Core Corps | 8.00% | ~26,866 |
-| Sizeable Stash | 8.00% | ~26,866 |
-| Street Fighter | 7.00% | ~23,508 |
-| Friendly Gestures | 7.00% | ~23,508 |
-| People Person | 7.00% | ~23,508 |
-| Liquor Lord | 6.00% | ~20,150 |
-| Safety in Numbers | 6.00% | ~20,150 |
-| Show ‘em the Sugar | 6.00% | ~20,150 |
-| Killing Them Softly | 6.00% | ~20,150 |
+| Corner Clout | 46.00% | ~154,489 |
+| Copacetic Coordination | 16.00% | ~53,735 |
+| Fronting the Money | 14.00% | ~47,018 |
+| The Dawn of Automation | 14.00% | ~47,018 |
+| Extraordinary Logistics | 14.00% | ~47,018 |
+| Dirty Money | 13.00% | ~43,660 |
+| Family First | 13.00% | ~43,660 |
+| Cleaning House | 12.00% | ~40,302 |
+| Room in the Back | 12.00% | ~40,302 |
+| Booze Baron | 11.00% | ~36,943 |
+| Beating the Heat | 10.00% | ~33,585 |
+| Friends on the Force | 10.00% | ~33,585 |
+| Neighborhood Watch | 10.00% | ~33,585 |
+| Core Corps | 8.00% | ~26,868 |
+| Sizeable Stash | 8.00% | ~26,868 |
+| Street Fighter | 7.00% | ~23,509 |
+| Friendly Gestures | 7.00% | ~23,509 |
+| People Person | 7.00% | ~23,509 |
+| Liquor Lord | 6.00% | ~20,151 |
+| Safety in Numbers | 6.00% | ~20,151 |
+| Show ‘em the Sugar | 6.00% | ~20,151 |
+| Killing Them Softly | 6.00% | ~20,151 |
 | Street Knowledge | 5.00% | ~16,792 |
 | Oh Captain | 5.00% | ~16,792 |
 | Branching Out | 5.00% | ~16,792 |
@@ -36,11 +36,11 @@ Rating: 4.26 (Ranked 812)
 | Moving Experiences | 5.00% | ~16,792 |
 | Mission Mastery | 5.00% | ~16,792 |
 | Wise Head | 5.00% | ~16,792 |
-| Considerable Clams | 4.00% | ~13,433 |
-| Gin Joint | 4.00% | ~13,433 |
-| An Affront to the Enemy | 4.00% | ~13,433 |
-| Friends from Back Home | 4.00% | ~13,433 |
-| Half Century Mark | 4.00% | ~13,433 |
+| Considerable Clams | 4.00% | ~13,434 |
+| Gin Joint | 4.00% | ~13,434 |
+| An Affront to the Enemy | 4.00% | ~13,434 |
+| Friends from Back Home | 4.00% | ~13,434 |
+| Half Century Mark | 4.00% | ~13,434 |
 | Corner Opportunities | 3.00% | ~10,075 |
 | 2122 North Clark Street | 3.00% | ~10,075 |
 | Copious Cabbage | 3.00% | ~10,075 |
@@ -59,8 +59,8 @@ Rating: 4.26 (Ranked 812)
 | Full House | 1.00% | ~3,358 |
 | The Rubber Meets the Road | 1.00% | ~3,358 |
 | Cat’s Meow Clubs | 1.00% | ~3,358 |
-| Determined Deliveries | 0.90% | ~3,022 |
-| Stepping It Up | 0.90% | ~3,022 |
+| Determined Deliveries | 0.90% | ~3,023 |
+| Stepping It Up | 0.90% | ~3,023 |
 | Crossing Over | 0.80% | ~2,687 |
 | Boots in the Ground | 0.70% | ~2,351 |
 | Getting Fancy | 0.70% | ~2,351 |
@@ -69,9 +69,9 @@ Rating: 4.26 (Ranked 812)
 | High End Booze | 0.40% | ~1,343 |
 | Working on the Railroad | 0.40% | ~1,343 |
 | Social Butterfly | 0.40% | ~1,343 |
-| Bottled Up | 0.30% | ~1,007 |
-| Streetwise | 0.30% | ~1,007 |
-| In-House Maintenance | 0.30% | ~1,007 |
+| Bottled Up | 0.30% | ~1,008 |
+| Streetwise | 0.30% | ~1,008 |
+| In-House Maintenance | 0.30% | ~1,008 |
 | Dirty Work | 0.20% | ~672 |
 | Balkan Firewater | 0.20% | ~672 |
 | Windy City Win | 0.10% | ~336 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 812)
 | High Pillow | 0.10% | ~336 |
 | Station Master | 0.10% | ~336 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 335,831 (Ranked 41)  
+Progressed: 335,846 (Ranked 41)  
 Completed: 7 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 7 (0.00%) (Ranked 251)
 | 2023-08-05 | 335,160 | 6 |
 | 2023-08-06 | 335,426 | 7 |
 | 2023-08-07 | 335,629 | 7 |
-| 2023-08-08 | 335,831 | 7 |
+| 2023-08-08 | 335,846 | 7 |
 ## Awards
 Max (Highly Recommended): 29  (Ranked 463)  
 Sum: 127 (Ranked 402)  

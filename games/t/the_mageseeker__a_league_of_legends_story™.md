@@ -34,9 +34,9 @@ Rating: 4.82 (Ranked 66)
 | Glyndemere | 20.00% | ~502 |
 | Whispers in the Woods II | 17.00% | ~427 |
 | Quickmoore Headquarters | 17.00% | ~427 |
+| Whispers in the Woods III | 16.00% | ~401 |
 | No more holding back | 16.00% | ~401 |
 | Terbisia | 16.00% | ~401 |
-| Whispers in the Woods III | 15.00% | ~376 |
 | Friendly fire | 15.00% | ~376 |
 | True power | 15.00% | ~376 |
 | Meltridge | 15.00% | ~376 |

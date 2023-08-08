@@ -6,10 +6,10 @@ Rating: 4.77 (Ranked 108)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 12.00% | ~34,761 |
-| First Class Student | 11.00% | ~31,864 |
-| Troll with the Punches | 11.00% | ~31,864 |
-| A Keen Sense of Spell | 10.00% | ~28,967 |
-| That's a Keeper | 10.00% | ~28,967 |
+| First Class Student | 11.00% | ~31,865 |
+| Troll with the Punches | 11.00% | ~31,865 |
+| A Keen Sense of Spell | 10.00% | ~28,968 |
+| That's a Keeper | 10.00% | ~28,968 |
 | Grappling with a Graphorn | 9.00% | ~26,071 |
 | The One Who Mastered Memories | 9.00% | ~26,071 |
 | The Hallowed Hero | 9.00% | ~26,071 |
@@ -21,11 +21,11 @@ Rating: 4.77 (Ranked 108)
 | Challenge Accepted | 8.00% | ~23,174 |
 | Followed the Butterflies | 8.00% | ~23,174 |
 | Rising From the Ashes | 8.00% | ~23,174 |
-| The Avenging Gazelle | 7.00% | ~20,277 |
-| A Sallow Grave | 7.00% | ~20,277 |
-| Flight the Good Flight | 7.00% | ~20,277 |
-| The Spell Master | 7.00% | ~20,277 |
-| Beast Friends | 6.00% | ~17,380 |
+| The Avenging Gazelle | 7.00% | ~20,278 |
+| A Sallow Grave | 7.00% | ~20,278 |
+| Flight the Good Flight | 7.00% | ~20,278 |
+| The Spell Master | 7.00% | ~20,278 |
+| Beast Friends | 6.00% | ~17,381 |
 | The Seeker of Knowledge | 5.00% | ~14,484 |
 | The Root of the Problem | 5.00% | ~14,484 |
 | Third Time's a Charm | 5.00% | ~14,484 |
@@ -38,10 +38,10 @@ Rating: 4.77 (Ranked 108)
 | Floo Around the World | 3.00% | ~8,690 |
 | The Intrepid Explorer | 3.00% | ~8,690 |
 | The Wise Owl | 3.00% | ~8,690 |
-| The Good Samaritan | 2.00% | ~5,793 |
-| Put Down Roots | 2.00% | ~5,793 |
-| The Auror's Apprentice | 2.00% | ~5,793 |
-| Rise to the Challenges | 2.00% | ~5,793 |
+| The Good Samaritan | 2.00% | ~5,794 |
+| Put Down Roots | 2.00% | ~5,794 |
+| The Auror's Apprentice | 2.00% | ~5,794 |
+| Rise to the Challenges | 2.00% | ~5,794 |
 | Savvy Spender | 1.00% | ~2,897 |
 | Demiguise Dread | 1.00% | ~2,897 |
 | Finishing Touches | 1.00% | ~2,897 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,738 |
 | Collector's Edition | 0.30% | ~869 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,674 (Ranked 42)  
+Progressed: 289,679 (Ranked 42)  
 Completed: 443 (0.15%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,10 +161,10 @@ Completed: 443 (0.15%) (Ranked 187)
 | 2023-08-05 | 289,460 | 442 |
 | 2023-08-06 | 289,549 | 442 |
 | 2023-08-07 | 289,620 | 443 |
-| 2023-08-08 | 289,674 | 443 |
+| 2023-08-08 | 289,679 | 443 |
 ## Awards
 Max (Character Customization): 21,597  (Ranked 17)  
-Sum: 40,653 (Ranked 30)  
+Sum: 40,655 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -175,7 +175,7 @@ Diff (max vs sum): -13
 | This game is Relaxing | 934 |
 | This game has Amazing Storytelling | 919 |
 | This game has Diverse Characters | 917 |
-| This game has Amazing Characters | 899 |
+| This game has Amazing Characters | 901 |
 | This game is Highly Recommended | 874 |
 | This game has Quickly Understood Controls | 832 |
 | This game has Beautiful Visuals | 775 |
@@ -320,4 +320,4 @@ Diff (max vs sum): -13
 | 2023-08-05 | 4.77 | 21,534 | 40,512 |
 | 2023-08-06 | 4.77 | 21,567 | 40,577 |
 | 2023-08-07 | 4.77 | 21,597 | 40,644 |
-| 2023-08-08 | 4.77 | 21,597 | 40,653 |
+| 2023-08-08 | 4.77 | 21,597 | 40,655 |

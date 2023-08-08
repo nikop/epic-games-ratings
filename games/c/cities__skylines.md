@@ -6,44 +6,44 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~690,584 |
-| Green Energy | 60.00% | ~583,592 |
-| Foggy Weather | 59.00% | ~573,865 |
-| Singing In The- | 59.00% | ~573,865 |
-| Unpopular Mayor | 41.00% | ~398,788 |
-| Power at Your Fingertips | 33.00% | ~320,975 |
-| City Planner | 23.00% | ~223,710 |
-| Rolling in Dough | 20.00% | ~194,531 |
-| Does My Bum Look Big In This? | 17.00% | ~165,351 |
-| Climbing the Social Ladder | 16.00% | ~155,624 |
-| Safe City | 14.00% | ~136,171 |
-| Quay-King | 11.00% | ~106,992 |
-| Lawmaker | 10.00% | ~97,265 |
-| With Canals You Can! | 10.00% | ~97,265 |
-| Nomen Est Omen | 7.00% | ~68,086 |
-| Well Informed | 6.00% | ~58,359 |
-| Fire Watch | 5.00% | ~48,633 |
-| Greenest City | 4.00% | ~38,906 |
-| Heavenly City | 3.00% | ~29,180 |
-| Reporting! | 3.00% | ~29,180 |
-| SIMulated City | 3.00% | ~29,180 |
-| The Safest Town | 3.00% | ~29,180 |
-| Professional Dumper | 2.00% | ~19,453 |
+| Pioneer | 71.00% | ~690,641 |
+| Green Energy | 60.00% | ~583,640 |
+| Foggy Weather | 59.00% | ~573,913 |
+| Singing In The- | 59.00% | ~573,913 |
+| Unpopular Mayor | 41.00% | ~398,821 |
+| Power at Your Fingertips | 33.00% | ~321,002 |
+| City Planner | 23.00% | ~223,729 |
+| Rolling in Dough | 20.00% | ~194,547 |
+| Does My Bum Look Big In This? | 17.00% | ~165,365 |
+| Climbing the Social Ladder | 16.00% | ~155,637 |
+| Safe City | 14.00% | ~136,183 |
+| Quay-King | 11.00% | ~107,001 |
+| Lawmaker | 10.00% | ~97,273 |
+| With Canals You Can! | 10.00% | ~97,273 |
+| Nomen Est Omen | 7.00% | ~68,091 |
+| Well Informed | 6.00% | ~58,364 |
+| Fire Watch | 5.00% | ~48,637 |
+| Greenest City | 4.00% | ~38,909 |
+| Heavenly City | 3.00% | ~29,182 |
+| Reporting! | 3.00% | ~29,182 |
+| SIMulated City | 3.00% | ~29,182 |
+| The Safest Town | 3.00% | ~29,182 |
+| Professional Dumper | 2.00% | ~19,455 |
 | City in Motion | 1.00% | ~9,727 |
 | Earthloving City | 1.00% | ~9,727 |
 | Metropolis | 1.00% | ~9,727 |
-| Higher Education | 0.80% | ~7,781 |
+| Higher Education | 0.80% | ~7,782 |
 | Beam Me Up | 0.70% | ~6,809 |
 | Full Capacity | 0.60% | ~5,836 |
 | Terraformer | 0.60% | ~5,836 |
-| Decorator | 0.50% | ~4,863 |
-| Drop the Base | 0.50% | ~4,863 |
-| It's heading right for us! | 0.50% | ~4,863 |
-| Postman | 0.50% | ~4,863 |
-| Shake It Up! | 0.50% | ~4,863 |
-| Speed up! | 0.50% | ~4,863 |
-| The Waters of Our Lives | 0.50% | ~4,863 |
-| Twist and shout | 0.50% | ~4,863 |
+| Decorator | 0.50% | ~4,864 |
+| Drop the Base | 0.50% | ~4,864 |
+| It's heading right for us! | 0.50% | ~4,864 |
+| Postman | 0.50% | ~4,864 |
+| Shake It Up! | 0.50% | ~4,864 |
+| Speed up! | 0.50% | ~4,864 |
+| The Waters of Our Lives | 0.50% | ~4,864 |
+| Twist and shout | 0.50% | ~4,864 |
 | Airfield Expertise | 0.40% | ~3,891 |
 | Airlifter | 0.40% | ~3,891 |
 | Get Your Snowshoes Ready! | 0.40% | ~3,891 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~973 |
 | Z00 | 0.10% | ~973 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 972,653 (Ranked 13)  
+Progressed: 972,734 (Ranked 13)  
 Completed: 10 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,15 +236,15 @@ Completed: 10 (0.00%) (Ranked 251)
 | 2023-08-05 | 966,189 | 10 |
 | 2023-08-06 | 968,750 | 10 |
 | 2023-08-07 | 970,903 | 10 |
-| 2023-08-08 | 972,653 | 10 |
+| 2023-08-08 | 972,734 | 10 |
 ## Awards
 Max (Relaxing): 5,091  (Ranked 68)  
-Sum: 38,623 (Ranked 32)  
+Sum: 38,634 (Ranked 32)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 5,091 |
-| This game is Great for Beginners | 5,077 |
+| This game is Great for Beginners | 5,088 |
 | This game is Educational | 4,774 |
 | This game has Quickly Understood Controls | 4,755 |
 | This game is Extremely Fun | 4,450 |
@@ -450,4 +450,4 @@ Diff (max vs sum): 36
 | 2023-08-05 | 4.65 | - | 5,072 | 38,484 |
 | 2023-08-06 | 4.65 | - | 5,077 | 38,525 |
 | 2023-08-07 | 4.65 | - | 5,083 | 38,581 |
-| 2023-08-08 | 4.65 | - | 5,091 | 38,623 |
+| 2023-08-08 | 4.65 | - | 5,091 | 38,634 |
