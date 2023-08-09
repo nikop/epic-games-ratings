@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 35,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -24,7 +24,7 @@
   "EOS_Progressed": 184,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 9,
-  "EOS_NewCompleters": 1,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.07,
   "EosHistory": [
     {
@@ -801,9 +801,9 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "8d3ci0",
       "Name": "Floatpiercer",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 150,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -880,8 +880,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-09T02:02:16.1542067+00:00",
+  "LastChanged_Achievements": "2023-08-09T03:06:23.1349203+00:00",
   "LastUpdate_AppInfo": "2023-08-05T14:56:58.1488274+00:00",
-  "LastUpdate_Ratings": "2023-08-09T01:53:09.7535865+00:00",
-  "LastUpdate_Achievements": "2023-08-09T02:02:16.1542229+00:00"
+  "LastUpdate_Ratings": "2023-08-09T02:57:51.6772333+00:00",
+  "LastUpdate_Achievements": "2023-08-09T03:06:23.1349366+00:00"
 }

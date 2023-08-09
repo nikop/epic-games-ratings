@@ -4,11 +4,11 @@
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 349,
   "Ranking_Popularity": 167,
-  "Ranking_PopularitySum": 138,
+  "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 532,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
@@ -5108,10 +5108,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 4239,
       "NumberOfAwardsMax": 695
+    },
+    {
+      "Time": "2023-08-09T02:58:39.9273101+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 4248,
+      "NumberOfAwardsMax": 695
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4239,
+  "NumberOfAwards": 4248,
   "NumberOfAwardsMax": 695,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5161,13 +5167,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 315
+      "Count": 321
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 317
+      "Count": 320
     },
     {
       "Text": "This game is Relaxing",
@@ -5202,9 +5208,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2023-08-08T21:58:33.0722047+00:00",
-  "LastChanged_Achievements": "2023-08-09T01:58:42.6744426+00:00",
+  "LastChanged": "2023-08-09T02:58:39.92731+00:00",
+  "LastChanged_Achievements": "2023-08-09T03:03:08.7244704+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:53.8755394+00:00",
-  "LastUpdate_Ratings": "2023-08-09T01:54:02.1563866+00:00",
-  "LastUpdate_Achievements": "2023-08-09T01:58:42.6744465+00:00"
+  "LastUpdate_Ratings": "2023-08-09T02:58:39.9273107+00:00",
+  "LastUpdate_Achievements": "2023-08-09T03:03:08.7244732+00:00"
 }

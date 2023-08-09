@@ -25,7 +25,7 @@ Rating: 4.35 (Ranked 746)
 | The Interrogations | 44.00% | ~180 |
 | Well-acquainted | 42.00% | ~172 |
 | Zakariya Demir | 42.00% | ~172 |
-| Well-read | 38.00% | ~156 |
+| Well-read | 39.00% | ~160 |
 | Cassandra Van den Bosch | 38.00% | ~156 |
 | The Secret | 38.00% | ~156 |
 | Gedeon Demir | 36.00% | ~148 |
@@ -35,7 +35,7 @@ Rating: 4.35 (Ranked 746)
 | Inge Frank | 31.00% | ~127 |
 | Hugo Beckers | 30.00% | ~123 |
 | The Search | 30.00% | ~123 |
-| The Family | 27.00% | ~111 |
+| The Family | 28.00% | ~115 |
 | Well-travelled | 26.00% | ~107 |
 | Thinking of Everything | 26.00% | ~107 |
 | Exquisite Artwork | 26.00% | ~107 |

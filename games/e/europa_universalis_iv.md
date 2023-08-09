@@ -6,21 +6,21 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 8.00% | ~6,627 |
-| Victorious! | 8.00% | ~6,627 |
-| That's a Grand Army | 7.00% | ~5,799 |
-| That is mine! | 7.00% | ~5,799 |
+| Until death do us apart | 8.00% | ~6,629 |
+| Victorious! | 8.00% | ~6,629 |
+| That's a Grand Army | 7.00% | ~5,800 |
+| That is mine! | 7.00% | ~5,800 |
 | Brothers in Arms | 6.00% | ~4,971 |
 | That's a Grand Navy | 6.00% | ~4,971 |
 | Seriously?! | 6.00% | ~4,971 |
 | Cold War | 4.00% | ~3,314 |
 | For the Glory | 4.00% | ~3,314 |
-| Defender of the Faith | 3.00% | ~2,485 |
-| It's all about the money | 3.00% | ~2,485 |
-| Respected | 3.00% | ~2,485 |
-| The Princess is in this Castle | 3.00% | ~2,485 |
-| True Catholic | 3.00% | ~2,485 |
-| Truly Divine Ruler | 3.00% | ~2,485 |
+| Defender of the Faith | 3.00% | ~2,486 |
+| It's all about the money | 3.00% | ~2,486 |
+| Respected | 3.00% | ~2,486 |
+| The Princess is in this Castle | 3.00% | ~2,486 |
+| True Catholic | 3.00% | ~2,486 |
+| Truly Divine Ruler | 3.00% | ~2,486 |
 | Agressive Expander | 2.00% | ~1,657 |
 | Blockader | 2.00% | ~1,657 |
 | Combined Arms | 2.00% | ~1,657 |
@@ -29,17 +29,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | My armies are invincible! | 2.00% | ~1,657 |
 | Royal Authority | 2.00% | ~1,657 |
 | Total Control | 2.00% | ~1,657 |
-| All That's Thine Shall Be Mine | 1.00% | ~828 |
-| Azur semé de lis or | 1.00% | ~828 |
-| Bright Spark | 1.00% | ~828 |
-| City of Cities | 1.00% | ~828 |
-| The Emperors new clothes | 1.00% | ~828 |
-| Factionalism | 1.00% | ~828 |
-| Gentle Persuasion | 1.00% | ~828 |
-| A Golden Empire | 1.00% | ~828 |
-| Queen of Conquest | 1.00% | ~828 |
-| The Five Colonies | 1.00% | ~828 |
-| This navy can take it all | 1.00% | ~828 |
+| All That's Thine Shall Be Mine | 1.00% | ~829 |
+| Azur semé de lis or | 1.00% | ~829 |
+| Bright Spark | 1.00% | ~829 |
+| City of Cities | 1.00% | ~829 |
+| The Emperors new clothes | 1.00% | ~829 |
+| Factionalism | 1.00% | ~829 |
+| Gentle Persuasion | 1.00% | ~829 |
+| A Golden Empire | 1.00% | ~829 |
+| Queen of Conquest | 1.00% | ~829 |
+| The Five Colonies | 1.00% | ~829 |
+| This navy can take it all | 1.00% | ~829 |
 | Isn't this the way to India? | 0.90% | ~746 |
 | Market Control | 0.90% | ~746 |
 | Trustworthy | 0.90% | ~746 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,842 (Ranked 72)  
+Progressed: 82,858 (Ranked 72)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -472,7 +472,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 81,143 | 0 |
 | 2023-08-07 | 82,030 | 0 |
 | 2023-08-08 | 82,784 | 0 |
-| 2023-08-09 | 82,842 | 0 |
+| 2023-08-09 | 82,858 | 0 |
 ## Awards
 Max (Educational): 5,632  (Ranked 62)  
 Sum: 46,491 (Ranked 26)  

@@ -5,14 +5,14 @@ Rating: 4.56 (Ranked 469)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~9,641 |
+| Getting Started | 81.00% | ~9,642 |
 | Pay 'n' Spray | 50.00% | ~5,952 |
 | All Dressed Up for San Fierro | 25.00% | ~2,976 |
 | The American Dream | 19.00% | ~2,262 |
 | School's Out | 18.00% | ~2,143 |
-| Smooth Moves | 16.00% | ~1,904 |
-| Today Was a Good Day | 15.00% | ~1,785 |
-| What happens in Las Venturas... | 14.00% | ~1,666 |
+| Smooth Moves | 16.00% | ~1,905 |
+| Today Was a Good Day | 15.00% | ~1,786 |
+| What happens in Las Venturas... | 14.00% | ~1,667 |
 | Horror of the Santa Maria | 11.00% | ~1,309 |
 | Liberty City State of Mind | 9.00% | ~1,071 |
 | Original Gangster | 8.00% | ~952 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 469)
 | ...Here we go again | 0.40% | ~48 |
 | I Ain't No Buster | 0.30% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,903 (Ranked 119)  
+Progressed: 11,904 (Ranked 119)  
 Completed: 35 (0.29%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 35 (0.29%) (Ranked 164)
 | 2023-08-06 | 11,871 | 35 |
 | 2023-08-07 | 11,889 | 35 |
 | 2023-08-08 | 11,902 | 35 |
-| 2023-08-09 | 11,903 | 35 |
+| 2023-08-09 | 11,904 | 35 |
 ## Awards
 Max (Great Boss Battles): 246  (Ranked 254)  
 Sum: 266 (Ranked 350)  

@@ -6,17 +6,17 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,915 |
-| Man of politics | 35.00% | ~5,049 |
-| Friends of sorts | 34.00% | ~4,905 |
-| Yet another secret | 34.00% | ~4,905 |
+| Tattletale | 41.00% | ~5,916 |
+| Man of politics | 35.00% | ~5,050 |
+| Friends of sorts | 34.00% | ~4,906 |
+| Yet another secret | 34.00% | ~4,906 |
 | Let there be darkness | 32.00% | ~4,617 |
-| End of Book One | 30.00% | ~4,328 |
-| Wannabe knight | 24.00% | ~3,462 |
-| Garden of Eden | 24.00% | ~3,462 |
-| Full house | 24.00% | ~3,462 |
+| End of Book One | 30.00% | ~4,329 |
+| Wannabe knight | 24.00% | ~3,463 |
+| Garden of Eden | 24.00% | ~3,463 |
+| Full house | 24.00% | ~3,463 |
 | Help an old friend | 22.00% | ~3,174 |
-| Two of us | 20.00% | ~2,885 |
+| Two of us | 20.00% | ~2,886 |
 | Negotiation skills | 18.00% | ~2,597 |
 | Workers' union | 18.00% | ~2,597 |
 | End of Book Two | 18.00% | ~2,597 |
@@ -29,12 +29,12 @@ Number of Ratings: 368  (23.09.2022)
 | Friar Tuck | 11.00% | ~1,587 |
 | First profit | 11.00% | ~1,587 |
 | Team player | 10.00% | ~1,443 |
-| Skilled merchant | 9.00% | ~1,298 |
-| Nothing but make-believe | 9.00% | ~1,298 |
-| Brother Marcus | 9.00% | ~1,298 |
-| The oath | 9.00% | ~1,298 |
-| The truth revealed | 9.00% | ~1,298 |
-| The End. | 9.00% | ~1,298 |
+| Skilled merchant | 9.00% | ~1,299 |
+| Nothing but make-believe | 9.00% | ~1,299 |
+| Brother Marcus | 9.00% | ~1,299 |
+| The oath | 9.00% | ~1,299 |
+| The truth revealed | 9.00% | ~1,299 |
+| The End. | 9.00% | ~1,299 |
 | A cry for help | 8.00% | ~1,154 |
 | Silentium est aureum | 7.00% | ~1,010 |
 | Rebel without a cause | 6.00% | ~866 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~433 |
 | Boy of mystery | 2.00% | ~289 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,427 (Ranked 116)  
+Progressed: 14,429 (Ranked 116)  
 Completed: 107 (0.74%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 107 (0.74%) (Ranked 122)
 | 2023-08-06 | 14,386 | 107 |
 | 2023-08-07 | 14,409 | 107 |
 | 2023-08-08 | 14,426 | 107 |
-| 2023-08-09 | 14,427 | 107 |
+| 2023-08-09 | 14,429 | 107 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 297)  
 Sum: 188 (Ranked 373)  

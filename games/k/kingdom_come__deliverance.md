@@ -6,19 +6,19 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~246,849 |
+| Blacksmith's Son | 31.00% | ~246,850 |
 | Cavalier | 25.00% | ~199,072 |
-| Fatso | 23.00% | ~183,146 |
-| Awakening | 21.00% | ~167,220 |
-| Ranger | 20.00% | ~159,257 |
-| Scrooge | 20.00% | ~159,257 |
+| Fatso | 23.00% | ~183,147 |
+| Awakening | 21.00% | ~167,221 |
+| Ranger | 20.00% | ~159,258 |
+| Scrooge | 20.00% | ~159,258 |
 | Anorectic | 16.00% | ~127,406 |
-| Bookworm | 15.00% | ~119,443 |
-| Firestarter | 15.00% | ~119,443 |
-| Insomniac | 13.00% | ~103,517 |
-| Buddy | 12.00% | ~95,554 |
-| Thief | 12.00% | ~95,554 |
-| Sinner | 11.00% | ~87,591 |
+| Bookworm | 15.00% | ~119,444 |
+| Firestarter | 15.00% | ~119,444 |
+| Insomniac | 13.00% | ~103,518 |
+| Buddy | 12.00% | ~95,555 |
+| Thief | 12.00% | ~95,555 |
+| Sinner | 11.00% | ~87,592 |
 | Convict | 10.00% | ~79,629 |
 | Traveller | 10.00% | ~79,629 |
 | Haggler | 9.00% | ~71,666 |
@@ -28,9 +28,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bad Trip | 5.00% | ~39,814 |
 | Monk | 5.00% | ~39,814 |
 | Serial Killer | 5.00% | ~39,814 |
-| Bastard | 4.00% | ~31,851 |
-| Hunter | 4.00% | ~31,851 |
-| Plague Doctor | 4.00% | ~31,851 |
+| Bastard | 4.00% | ~31,852 |
+| Hunter | 4.00% | ~31,852 |
+| Plague Doctor | 4.00% | ~31,852 |
 | Bard | 3.00% | ~23,889 |
 | Conqueror | 3.00% | ~23,889 |
 | Ginger in a Pickle | 3.00% | ~23,889 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~796 |
 | Wingman | 0.10% | ~796 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 796,286 (Ranked 15)  
+Progressed: 796,290 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 44 (0.01%) (Ranked 237)
 | 2023-08-06 | 796,022 | 44 |
 | 2023-08-07 | 796,168 | 44 |
 | 2023-08-08 | 796,280 | 44 |
-| 2023-08-09 | 796,286 | 44 |
+| 2023-08-09 | 796,290 | 44 |
 ## Awards
 Max (Character Customization): 7,375  (Ranked 46)  
 Sum: 27,465 (Ranked 45)  

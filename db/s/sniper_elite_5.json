@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -6279,9 +6279,9 @@
       "ID": "REWARD_DLC01_09_LAST_RESORT",
       "SetID": "83mdf7p",
       "Name": "Last Resort",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -6374,8 +6374,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-08T14:57:48.1805526+00:00",
-  "LastChanged_Achievements": "2023-08-09T02:01:24.629574+00:00",
+  "LastChanged_Achievements": "2023-08-09T03:05:32.9935362+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:33.5601025+00:00",
-  "LastUpdate_Ratings": "2023-08-09T01:53:01.2666671+00:00",
-  "LastUpdate_Achievements": "2023-08-09T02:01:24.6296886+00:00"
+  "LastUpdate_Ratings": "2023-08-09T02:57:42.9990769+00:00",
+  "LastUpdate_Achievements": "2023-08-09T03:05:32.9936642+00:00"
 }
