@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 5.00% | ~11,001 |
-| Beast Intentions | 3.00% | ~6,600 |
+| Beast Intentions | 3.00% | ~6,601 |
 | Maddening | 2.00% | ~4,400 |
 | The Silken Swamp | 1.00% | ~2,200 |
 | Supply Run | 1.00% | ~2,200 |
@@ -180,6 +180,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Haunted Jungle | 0.30% | ~660 |
 | Willing to Sacrifice | 0.30% | ~559 |
 | Tiny Treaty | 0.30% | ~559 |
+| All The World's A Stage | 0.30% | ~559 |
 | Back to Nature | 0.20% | ~373 |
 | A Monarch Among Us | 0.20% | ~373 |
 | A Dragon Against Us | 0.20% | ~373 |
@@ -267,7 +268,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Rite of the Arcane Octad | 0.20% | ~373 |
 | Poor Guidance | 0.20% | ~440 |
 | Overwhelming Force | 0.20% | ~440 |
-| All The World's A Stage | 0.20% | ~373 |
 | Keep Your Friends Close | 0.10% | ~186 |
 | And Your Enemies Closer | 0.10% | ~186 |
 | A Familiar Behind Us | 0.10% | ~186 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,011 (Ranked 52)  
+Progressed: 220,021 (Ranked 52)  
 Completed: 2,165 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,9 +630,10 @@ Completed: 2,165 (0.98%) (Ranked 114)
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
+| 2023-08-09 | 220,021 | 2,165 |
 ## Awards
 Max (Diverse Characters): 5,125  (Ranked 67)  
-Sum: 30,949 (Ranked 38)  
+Sum: 30,950 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -640,7 +641,7 @@ Diff (max vs sum): 29
 | This game is Great for Beginners | 5,074 |
 | This game has Quickly Understood Controls | 4,706 |
 | This game is Relaxing | 4,600 |
-| This game has Amazing Characters | 4,059 |
+| This game has Amazing Characters | 4,060 |
 | This game is Highly Recommended | 4,038 |
 | This game has Playful Visuals | 3,347 |
 ## Ratings History
@@ -840,4 +841,4 @@ Diff (max vs sum): 29
 | 2023-08-05 | 4.05 | - | 5,119 | 30,910 |
 | 2023-08-06 | 4.06 | - | 5,121 | 30,921 |
 | 2023-08-07 | 4.06 | - | 5,121 | 30,936 |
-| 2023-08-08 | 4.06 | - | 5,125 | 30,949 |
+| 2023-08-08 | 4.06 | - | 5,125 | 30,950 |

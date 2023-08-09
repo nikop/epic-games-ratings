@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -412,9 +412,9 @@
       "ID": "Xicht",
       "SetID": "ag48e8e",
       "Name": "Rockheads",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Zelvak",
@@ -443,8 +443,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-08-08T23:02:42.2552898+00:00",
+  "LastChanged_Achievements": "2023-08-09T00:03:53.8677857+00:00",
   "LastUpdate_AppInfo": "2023-08-04T15:57:19.5735536+00:00",
-  "LastUpdate_Ratings": "2023-08-08T22:57:17.1656012+00:00",
-  "LastUpdate_Achievements": "2023-08-08T23:02:42.2553081+00:00"
+  "LastUpdate_Ratings": "2023-08-08T23:57:37.7544581+00:00",
+  "LastUpdate_Achievements": "2023-08-09T00:03:53.8678103+00:00"
 }

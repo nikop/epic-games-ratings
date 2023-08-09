@@ -344,9 +344,9 @@
       "ID": "digTreasure10",
       "SetID": "ci65fo0",
       "Name": "Treasure hunter",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "drown",
@@ -776,9 +776,9 @@
       "ID": "questKillGoblinMage",
       "SetID": "ci65fo0",
       "Name": "Goblins Conqueror",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "questKillSwampMonster",
@@ -864,9 +864,9 @@
       "ID": "questSavePrincess",
       "SetID": "ci65fo0",
       "Name": "The Savior of Princesses",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "questSavePrincessFinal",
@@ -925,8 +925,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-08T23:03:07.0627466+00:00",
+  "LastChanged_Achievements": "2023-08-09T00:04:00.2554018+00:00",
   "LastUpdate_AppInfo": "2023-08-02T10:57:06.3883378+00:00",
-  "LastUpdate_Ratings": "2023-08-08T22:57:26.2205367+00:00",
-  "LastUpdate_Achievements": "2023-08-08T23:03:07.0628109+00:00"
+  "LastUpdate_Ratings": "2023-08-08T23:57:51.8836111+00:00",
+  "LastUpdate_Achievements": "2023-08-09T00:04:00.2554951+00:00"
 }

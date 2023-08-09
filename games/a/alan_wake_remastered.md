@@ -6,32 +6,32 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,402 |
-| Let There Be Light | 30.00% | ~18,164 |
-| Float Like a Butterfly | 29.00% | ~17,558 |
-| Nordic Walking | 23.00% | ~13,925 |
-| Bright Falls' Finest | 22.00% | ~13,320 |
-| Under a Thin Layer of Skin | 20.00% | ~12,109 |
-| Park Ranger | 16.00% | ~9,687 |
-| Paging Mr. Wake | 16.00% | ~9,687 |
+| Follow the Light | 37.00% | ~22,403 |
+| Let There Be Light | 30.00% | ~18,165 |
+| Float Like a Butterfly | 29.00% | ~17,559 |
+| Nordic Walking | 23.00% | ~13,926 |
+| Bright Falls' Finest | 22.00% | ~13,321 |
+| Under a Thin Layer of Skin | 20.00% | ~12,110 |
+| Park Ranger | 16.00% | ~9,688 |
+| Paging Mr. Wake | 16.00% | ~9,688 |
 | Back! Back, I Say! | 15.00% | ~9,082 |
 | Finders Keepers | 15.00% | ~9,082 |
-| Sound and Fury | 14.00% | ~8,476 |
-| Damn Good Cup of Coffee | 14.00% | ~8,476 |
+| Sound and Fury | 14.00% | ~8,477 |
+| Damn Good Cup of Coffee | 14.00% | ~8,477 |
 | Wheels Within Wheels | 13.00% | ~7,871 |
 | They're Heeeeeere! | 13.00% | ~7,871 |
 | Missed by a Mile | 13.00% | ~7,871 |
-| Iron Horse | 12.00% | ~7,265 |
-| The Six-Gun Scribe | 12.00% | ~7,265 |
-| Collateral Carnage | 12.00% | ~7,265 |
-| Come One, Come All | 12.00% | ~7,265 |
+| Iron Horse | 12.00% | ~7,266 |
+| The Six-Gun Scribe | 12.00% | ~7,266 |
+| Collateral Carnage | 12.00% | ~7,266 |
+| Come One, Come All | 12.00% | ~7,266 |
 | Heavy Metal | 11.00% | ~6,660 |
 | Perchance to Dream | 11.00% | ~6,660 |
 | Thunder and Lightning | 11.00% | ~6,660 |
-| Gatekeeper | 10.00% | ~6,054 |
-| It's Not Just a Typewriter Brand | 10.00% | ~6,054 |
-| Two For the Price of One | 10.00% | ~6,054 |
-| Energized! | 10.00% | ~6,054 |
+| Gatekeeper | 10.00% | ~6,055 |
+| It's Not Just a Typewriter Brand | 10.00% | ~6,055 |
+| Two For the Price of One | 10.00% | ~6,055 |
+| Energized! | 10.00% | ~6,055 |
 | The Lady of the Light | 9.00% | ~5,449 |
 | What Light Through Yonder Window | 8.00% | ~4,844 |
 | Right of Way | 8.00% | ~4,844 |
@@ -47,8 +47,8 @@ Number of Ratings: 524  (23.09.2022)
 | If It Flies, It Burns | 4.00% | ~2,422 |
 | KBF-FM | 4.00% | ~2,422 |
 | Carny | 3.00% | ~1,816 |
-| Kill Your Darlings | 3.00% | ~720 |
-| Heartbreaker | 3.00% | ~720 |
+| Kill Your Darlings | 3.00% | ~721 |
+| Heartbreaker | 3.00% | ~721 |
 | Medical Opinions | 2.00% | ~1,211 |
 | Taken Season | 2.00% | ~1,211 |
 | An Idyllic Small Town | 2.00% | ~1,211 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,545 (Ranked 84)  
+Progressed: 60,549 (Ranked 84)  
 Completed: 64 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,6 +185,7 @@ Completed: 64 (0.11%) (Ranked 195)
 | 2023-08-06 | 60,420 | 64 |
 | 2023-08-07 | 60,481 | 64 |
 | 2023-08-08 | 60,545 | 64 |
+| 2023-08-09 | 60,549 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

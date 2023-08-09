@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14426,
+  "EOS_Progressed": 14427,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -7715,6 +7715,11 @@
       "Time": "2023-08-08T22:04:19.3978789+00:00",
       "NumProgressed": 14426,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-09T00:04:24.7761216+00:00",
+      "NumProgressed": 14427,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 41,
@@ -7790,7 +7795,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "tpote_achievement_18",
@@ -7870,7 +7875,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "tpote_achievement_27",
@@ -7886,7 +7891,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "tpote_achievement_29",
@@ -7902,7 +7907,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4616
+      "UsersEstimate": 4617
     },
     {
       "ID": "tpote_achievement_30",
@@ -8053,15 +8058,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14426,
+      "Progressed": 14427,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-08T23:03:24.7372225+00:00",
+  "LastChanged_Achievements": "2023-08-09T00:04:24.776121+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:55.7503888+00:00",
-  "LastUpdate_Ratings": "2023-08-08T23:00:08.1073237+00:00",
-  "LastUpdate_Achievements": "2023-08-08T23:03:24.7372806+00:00"
+  "LastUpdate_Ratings": "2023-08-09T00:01:48.3308984+00:00",
+  "LastUpdate_Achievements": "2023-08-09T00:04:24.776212+00:00"
 }

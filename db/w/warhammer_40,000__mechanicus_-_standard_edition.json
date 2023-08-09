@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -549,9 +549,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 219687,
+  "EOS_Progressed": 219690,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 650,
+  "EOS_NewPlayers": 648,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12449,6 +12449,11 @@
       "Time": "2023-08-08T23:05:41.6986935+00:00",
       "NumProgressed": 219687,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-09T00:07:32.9810163+00:00",
+      "NumProgressed": 219690,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -12484,7 +12489,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8787
+      "UsersEstimate": 8788
     },
     {
       "ID": "ACH_BASE_13",
@@ -12492,7 +12497,7 @@
       "Name": "Cohortus Maximus",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "ACH_BASE_15",
@@ -12628,7 +12633,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8787
+      "UsersEstimate": 8788
     },
     {
       "ID": "ACH_BASE_30",
@@ -12708,7 +12713,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26362
+      "UsersEstimate": 26363
     },
     {
       "ID": "ACH_BASE_8",
@@ -12716,7 +12721,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8787
+      "UsersEstimate": 8788
     },
     {
       "ID": "ACH_BASE_9",
@@ -12731,7 +12736,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 219687,
+      "Progressed": 219690,
       "Completed": 5
     }
   ],
@@ -12739,8 +12744,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-29T17:58:35.8211483+00:00",
-  "LastChanged_Achievements": "2023-08-08T23:05:41.6986933+00:00",
+  "LastChanged_Achievements": "2023-08-09T00:07:32.9810155+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:23.1317268+00:00",
-  "LastUpdate_Ratings": "2023-08-08T22:58:53.6289502+00:00",
-  "LastUpdate_Achievements": "2023-08-08T23:05:41.6987665+00:00"
+  "LastUpdate_Ratings": "2023-08-08T23:59:56.7622064+00:00",
+  "LastUpdate_Achievements": "2023-08-09T00:07:32.9811389+00:00"
 }

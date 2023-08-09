@@ -20,9 +20,9 @@ Number of Ratings: 836  (23.09.2022)
 | The Long Haul | 33.00% | ~2,683 |
 | The Great Healer | 31.00% | ~2,520 |
 | Survivor | 31.00% | ~2,520 |
+| Legendary Explorer | 28.00% | ~2,276 |
 | Cleaner | 28.00% | ~2,276 |
 | Catastrofan | 28.00% | ~2,276 |
-| Legendary Explorer | 27.00% | ~2,195 |
 | Finders, Keepers | 26.00% | ~2,114 |
 | Top Notch | 25.00% | ~2,032 |
 | Great Leader | 23.00% | ~1,870 |
@@ -55,11 +55,11 @@ Number of Ratings: 836  (23.09.2022)
 | Diplomat | 2.00% | ~163 |
 | Doomsday is canceled | 2.00% | ~163 |
 | Biggest Catastrofan | 2.00% | ~163 |
+| True Survivor | 2.00% | ~163 |
 | The Friendliest | 1.00% | ~81 |
 | Legendary Adventurer | 1.00% | ~81 |
 | Slimy yet Satisfying | 1.00% | ~81 |
 | A Closer Look | 1.00% | ~81 |
-| True Survivor | 1.00% | ~81 |
 | Feng Shui | 0.90% | ~73 |
 | Finnished | 0.30% | ~24 |
 | Fun and Games | 0.20% | ~16 |

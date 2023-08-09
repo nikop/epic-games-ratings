@@ -30,9 +30,9 @@
 | Champion – starter pack | 57.00% | ~136 |
 | Own four walls | 57.00% | ~136 |
 | Intriguing candies | 57.00% | ~136 |
+| Employee of the year | 57.00% | ~136 |
 | Fight for life | 56.00% | ~134 |
 | Handyman | 56.00% | ~134 |
-| Employee of the year | 56.00% | ~134 |
 | Legal courier | 52.00% | ~124 |
 | Extreme neuropower! | 51.00% | ~122 |
 | Escaped from a big trouble | 49.00% | ~117 |
@@ -54,8 +54,8 @@
 | Seashell hunter | 34.00% | ~81 |
 | Gang wrangler | 32.00% | ~76 |
 | Problems of cyborgs | 31.00% | ~74 |
+| Absolute Champion! | 31.00% | ~74 |
 | Undercover robot | 31.00% | ~74 |
-| Absolute Champion! | 30.00% | ~72 |
 | The last bell ring | 30.00% | ~72 |
 | Not little hacker | 29.00% | ~69 |
 | Careerist | 29.00% | ~69 |
