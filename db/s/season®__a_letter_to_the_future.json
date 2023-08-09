@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1178,
+  "EOS_Progressed": 1179,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.99,
   "EosHistory": [
@@ -2021,6 +2021,11 @@
       "Time": "2023-08-08T14:06:43.035203+00:00",
       "NumProgressed": 1178,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-08-09T09:08:16.0145747+00:00",
+      "NumProgressed": 1179,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 16,
@@ -2032,7 +2037,7 @@
       "Name": "Artist Assistant",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -2080,7 +2085,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -2088,7 +2093,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -2096,7 +2101,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -2136,7 +2141,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACH_THEEND",
@@ -2159,7 +2164,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1178,
+      "Progressed": 1179,
       "Completed": 47
     }
   ],
@@ -2167,8 +2172,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-08-09T08:07:17.6732139+00:00",
+  "LastChanged_Achievements": "2023-08-09T09:08:16.014574+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:28.100763+00:00",
-  "LastUpdate_Ratings": "2023-08-09T07:59:51.7052749+00:00",
-  "LastUpdate_Achievements": "2023-08-09T08:07:17.673242+00:00"
+  "LastUpdate_Ratings": "2023-08-09T08:59:18.3143463+00:00",
+  "LastUpdate_Achievements": "2023-08-09T09:08:16.0146111+00:00"
 }

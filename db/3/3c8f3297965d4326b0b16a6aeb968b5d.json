@@ -25,9 +25,491 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-09T09:03:26.5054877+00:00",
+  "TotalAchievements": 60,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "8_PILER",
+      "SetID": "bij1p00",
+      "Name": "Bunny Instrumentality Project",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "9_PILER",
+      "SetID": "bij1p00",
+      "Name": "High-Bunneh Renmei",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACTUAL_ALL_BUNNIES",
+      "SetID": "bij1p00",
+      "Name": "Sokobun\u002B",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_BUNNIES",
+      "SetID": "bij1p00",
+      "Name": "Sokobun",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_CLEAR_AQUATIC",
+      "SetID": "bij1p00",
+      "Name": "Railbun",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_CLEAR_GHOSTLY",
+      "SetID": "bij1p00",
+      "Name": "World of Bun",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_CLEAR_HAY",
+      "SetID": "bij1p00",
+      "Name": "Oph\u00E9line\u0027s Sausage Bunn",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_CLEAR_HELL",
+      "SetID": "bij1p00",
+      "Name": "Buntaker",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_CLEAR_PINK",
+      "SetID": "bij1p00",
+      "Name": "A Bunny\u0027s Expedition",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_CLEAR_PURPLE",
+      "SetID": "bij1p00",
+      "Name": "Can of Bunholes",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_CLEAR_TEMPLE",
+      "SetID": "bij1p00",
+      "Name": "The Bunos Principle",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_COUPLES",
+      "SetID": "bij1p00",
+      "Name": "Cambunnian Explosion",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_ELEVATORS_USED",
+      "SetID": "bij1p00",
+      "Name": "Tourist",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_HOME_CAPTURES",
+      "SetID": "bij1p00",
+      "Name": "It\u0027s so cute! I want to take it home!",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BUNNA_GO_FAST",
+      "SetID": "bij1p00",
+      "Name": "Bunna go F A S T",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BUNNIES_FREEDOM",
+      "SetID": "bij1p00",
+      "Name": "Bunnies of the world, unite!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BUNNY_DOWN",
+      "SetID": "bij1p00",
+      "Name": "Bunny Down the Bunburrow",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BUNSTACK",
+      "SetID": "bij1p00",
+      "Name": "Bunstack",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CERBERUS",
+      "SetID": "bij1p00",
+      "Name": "Sssssserberus",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPUTER_UNLOCK",
+      "SetID": "bij1p00",
+      "Name": "Only Buns",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPUTER_UPGRADE_1",
+      "SetID": "bij1p00",
+      "Name": "GameBunny Advance",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPUTER_UPGRADE_2",
+      "SetID": "bij1p00",
+      "Name": "Where we dropping, buns?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPUTER_UPGRADE_3",
+      "SetID": "bij1p00",
+      "Name": "The Fragment on Bunnies",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CONTAINMENT_BREACH",
+      "SetID": "bij1p00",
+      "Name": "Containment Breach",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DIVERSE_BUNSTACK",
+      "SetID": "bij1p00",
+      "Name": "Tower of Bunbel",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DONT",
+      "SetID": "bij1p00",
+      "Name": "NO",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENTER_AQUATIC",
+      "SetID": "bij1p00",
+      "Name": "Return of the Obra Bunn",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENTER_GHOSTLY",
+      "SetID": "bij1p00",
+      "Name": "A Good Bun Is Hard To Catch",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENTER_HAY",
+      "SetID": "bij1p00",
+      "Name": "Toki Buni",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENTER_HELL",
+      "SetID": "bij1p00",
+      "Name": "Into the Bunburrow",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENTER_PURPLE",
+      "SetID": "bij1p00",
+      "Name": "Bunny\u0027s Bunbox",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENTER_VOID",
+      "SetID": "bij1p00",
+      "Name": "Outer Buns",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIFTY_BUNNIES",
+      "SetID": "bij1p00",
+      "Name": "Usagi When They Flee",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIND_SOLITUDE_COMPANY",
+      "SetID": "bij1p00",
+      "Name": "End their Solitude",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_BABY_CAUGHT",
+      "SetID": "bij1p00",
+      "Name": "Miracle of Life",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_BUNNY_CAUGHT",
+      "SetID": "bij1p00",
+      "Name": "P\u00E2querette ONE... Bad buns ZERO!!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_BUNNY_TRESPASS",
+      "SetID": "bij1p00",
+      "Name": "Extreme Makeover: Bunburrow Edition",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_CARROT_USE",
+      "SetID": "bij1p00",
+      "Name": "I showed you my treats, now answer me.",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_HELL_BUNNY",
+      "SetID": "bij1p00",
+      "Name": "Hazbun Hotel",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_LEVEL_RESTART",
+      "SetID": "bij1p00",
+      "Name": "Outsmarted by bnnuy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_LEVEL_SKIP",
+      "SetID": "bij1p00",
+      "Name": "Maybe next time",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_PICKAXE_USE",
+      "SetID": "bij1p00",
+      "Name": "Swingin\u2019 From Side to Side, Side, Side to Side",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_SHOVEL_USE",
+      "SetID": "bij1p00",
+      "Name": "Deeper and Deeper",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_TEMPLE_BUNNY",
+      "SetID": "bij1p00",
+      "Name": "A Normal Lost Bun",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_TRAP_CATCH",
+      "SetID": "bij1p00",
+      "Name": "BUNY IS FLEE, TRAP IS CATCH",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_TUNNEL",
+      "SetID": "bij1p00",
+      "Name": "I saw the bunny vent, sus",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIVE_STAGES_OF_GRIEF",
+      "SetID": "bij1p00",
+      "Name": "The K\u00FCbun-Ross Model",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLDEN_BUNNY",
+      "SetID": "bij1p00",
+      "Name": "The Case of the Golden Bun",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HUNDRED_BUNNIES",
+      "SetID": "bij1p00",
+      "Name": "Bun la Bun",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MERGE_STACKS",
+      "SetID": "bij1p00",
+      "Name": "Fibunacci",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OPHELINE_SECRET",
+      "SetID": "bij1p00",
+      "Name": "Don\u0027t tell anybunny! (Even Moko)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PAQUERETTE_DOWN",
+      "SetID": "bij1p00",
+      "Name": "P\u00E2querette Down the Bunburrow",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PICKAXE_SURPRISE",
+      "SetID": "bij1p00",
+      "Name": "SURPRISE!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "POWER_UNLOCK",
+      "SetID": "bij1p00",
+      "Name": "Ascend",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SEVENTY_FIVE_BUNNIES",
+      "SetID": "bij1p00",
+      "Name": "Revolubunnary Girl P\u00E2querette",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SLEEP_BUNNY",
+      "SetID": "bij1p00",
+      "Name": "zzzzzzzzzzzzzzzzzzzzzz",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPAM_RESTART",
+      "SetID": "bij1p00",
+      "Name": "Pretty!!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TEN_HOURS_PLAYTIME",
+      "SetID": "bij1p00",
+      "Name": "Bunnyless",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TWENTY_FIVE_BUNNIES",
+      "SetID": "bij1p00",
+      "Name": "Bunella Buni Bunoka Bunica",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WALL_BURST",
+      "SetID": "bij1p00",
+      "Name": "This is my bun!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "bij1p00",
@@ -37,8 +519,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T15:02:19.3093169+00:00",
-  "LastChanged_Achievements": "2023-08-09T08:03:09.5848753+00:00",
+  "LastChanged_Achievements": "2023-08-09T09:03:26.5054855+00:00",
   "LastUpdate_AppInfo": "2023-08-07T15:57:00.6121121+00:00",
-  "LastUpdate_Ratings": "2023-08-09T07:57:29.4686108+00:00",
-  "LastUpdate_Achievements": "2023-08-09T08:03:09.5848787+00:00"
+  "LastUpdate_Ratings": "2023-08-09T08:57:22.4355154+00:00",
+  "LastUpdate_Achievements": "2023-08-09T09:03:26.553859+00:00"
 }

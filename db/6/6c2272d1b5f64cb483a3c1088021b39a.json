@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 896,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3172,9 +3172,9 @@
       "ID": "punctual_2",
       "SetID": "53c1p3k",
       "Name": "Punctual 2",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "punctual_3",
@@ -3315,8 +3315,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-08-09T08:05:46.4311615+00:00",
+  "LastChanged_Achievements": "2023-08-09T09:05:36.2484506+00:00",
   "LastUpdate_AppInfo": "2023-08-08T04:57:14.8728607+00:00",
-  "LastUpdate_Ratings": "2023-08-09T07:58:03.547084+00:00",
-  "LastUpdate_Achievements": "2023-08-09T08:05:46.4312744+00:00"
+  "LastUpdate_Ratings": "2023-08-09T08:57:50.8383456+00:00",
+  "LastUpdate_Achievements": "2023-08-09T09:05:36.2485722+00:00"
 }

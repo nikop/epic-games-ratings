@@ -6,30 +6,30 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~123,424 |
-| Where's that freaking Dwarf? | 47.00% | ~98,321 |
-| GG EZ | 28.00% | ~58,574 |
-| Speedrun | 26.00% | ~54,390 |
-| Déjà vu | 21.00% | ~43,931 |
-| Sock! SOCK! | 18.00% | ~37,655 |
-| DM intervention | 13.00% | ~27,195 |
-| Fireproof Wizardess | 10.00% | ~20,919 |
-| Livin' in a dwarven paradise | 8.00% | ~16,736 |
-| A beer, two curses, three companions | 8.00% | ~16,736 |
-| Way of the Wimp | 7.00% | ~14,644 |
-| The plot thickens... At the tavern | 5.00% | ~10,460 |
-| Shiny and Crôm | 4.00% | ~8,368 |
-| The Woman in the High Castle | 4.00% | ~8,368 |
-| I am the night | 4.00% | ~8,368 |
-| Team Building Exercise | 4.00% | ~8,368 |
-| Oh, when I'll be level 10... | 4.00% | ~8,368 |
-| The demons' feast | 3.00% | ~6,276 |
-| The Great Library | 3.00% | ~6,276 |
-| Torture and Sensibility | 3.00% | ~6,276 |
-| Res Judicata | 3.00% | ~6,276 |
-| Dwarf Fortress | 3.00% | ~6,276 |
-| The Ranger of Chaos | 3.00% | ~6,276 |
-| Thieves' Guild Accreditation | 3.00% | ~6,276 |
+| Alt+F4 | 59.00% | ~123,439 |
+| Where's that freaking Dwarf? | 47.00% | ~98,333 |
+| GG EZ | 28.00% | ~58,581 |
+| Speedrun | 26.00% | ~54,397 |
+| Déjà vu | 21.00% | ~43,936 |
+| Sock! SOCK! | 18.00% | ~37,659 |
+| DM intervention | 13.00% | ~27,198 |
+| Fireproof Wizardess | 10.00% | ~20,922 |
+| Livin' in a dwarven paradise | 8.00% | ~16,738 |
+| A beer, two curses, three companions | 8.00% | ~16,738 |
+| Way of the Wimp | 7.00% | ~14,645 |
+| The plot thickens... At the tavern | 5.00% | ~10,461 |
+| Shiny and Crôm | 4.00% | ~8,369 |
+| The Woman in the High Castle | 4.00% | ~8,369 |
+| I am the night | 4.00% | ~8,369 |
+| Team Building Exercise | 4.00% | ~8,369 |
+| Oh, when I'll be level 10... | 4.00% | ~8,369 |
+| The demons' feast | 3.00% | ~6,277 |
+| The Great Library | 3.00% | ~6,277 |
+| Torture and Sensibility | 3.00% | ~6,277 |
+| Res Judicata | 3.00% | ~6,277 |
+| Dwarf Fortress | 3.00% | ~6,277 |
+| The Ranger of Chaos | 3.00% | ~6,277 |
+| Thieves' Guild Accreditation | 3.00% | ~6,277 |
 | Urik's Depths | 2.00% | ~4,184 |
 | The Statuette of Gladeulfeurah | 2.00% | ~4,184 |
 | A tale of adventurers not quite like the others... | 2.00% | ~4,184 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,194 (Ranked 55)  
+Progressed: 209,219 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 207,966 | 0 |
 | 2023-08-07 | 208,534 | 0 |
 | 2023-08-08 | 209,082 | 0 |
-| 2023-08-09 | 209,194 | 0 |
+| 2023-08-09 | 209,219 | 0 |
 ## Awards
 Max (Character Customization): 157  (Ranked 294)  
 Sum: 157 (Ranked 392)  

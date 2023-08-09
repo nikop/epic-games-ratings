@@ -34,7 +34,7 @@ Rating: 4.65 (Ranked 298)
 | New species | 17.00% | ~831 |
 | A New Hope | 15.00% | ~733 |
 | Enigma | 15.00% | ~733 |
-| Challenger | 12.00% | ~587 |
+| Challenger | 13.00% | ~636 |
 | Men in Black | 12.00% | ~587 |
 | No stone unturned | 11.00% | ~538 |
 | Unplugged | 8.00% | ~391 |

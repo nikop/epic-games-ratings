@@ -164,7 +164,7 @@
   "Tags": [],
   "EOS_Progressed": 4889,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4186,9 +4186,9 @@
       "ID": "ACH_CHALLENGER",
       "SetID": "5nj1ea3",
       "Name": "Challenger",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 636
     },
     {
       "ID": "ACH_DEAD",
@@ -4555,8 +4555,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-08-02T17:02:12.6296444+00:00",
-  "LastChanged_Achievements": "2023-08-09T08:05:23.787091+00:00",
+  "LastChanged_Achievements": "2023-08-09T09:05:17.9771384+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:25.2705415+00:00",
-  "LastUpdate_Ratings": "2023-08-09T07:57:17.8374553+00:00",
-  "LastUpdate_Achievements": "2023-08-09T08:05:23.7871997+00:00"
+  "LastUpdate_Ratings": "2023-08-09T08:57:12.1564425+00:00",
+  "LastUpdate_Achievements": "2023-08-09T09:05:17.9772225+00:00"
 }

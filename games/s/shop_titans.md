@@ -18,6 +18,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Some Assembly Required | 0.40% | ~537 |
 | Another Satisfied Customer | 0.40% | ~537 |
 | Pretty Penny | 0.40% | ~537 |
+| Through Repetition, Perfection | 0.40% | ~537 |
 | Own the Means of Production | 0.40% | ~537 |
 | The Daily Grind | 0.30% | ~403 |
 | Bounty Hunters | 0.30% | ~403 |
@@ -28,7 +29,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 0.30% | ~403 |
 | Accomplished Merchant | 0.30% | ~403 |
 | Dungeon Imports | 0.30% | ~403 |
-| Through Repetition, Perfection | 0.30% | ~403 |
 | On the Path to Greatness | 0.20% | ~268 |
 | A Notch Above the Rest | 0.20% | ~268 |
 | Ascended | 0.20% | ~268 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,177 (Ranked 65)  
+Progressed: 134,179 (Ranked 65)  
 Completed: 131 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,15 +230,15 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-06 | 134,025 | 129 |
 | 2023-08-07 | 134,099 | 130 |
 | 2023-08-08 | 134,169 | 131 |
-| 2023-08-09 | 134,177 | 131 |
+| 2023-08-09 | 134,179 | 131 |
 ## Awards
 Max (Great for Beginners): 4,692  (Ranked 71)  
-Sum: 27,070 (Ranked 46)  
+Sum: 27,071 (Ranked 46)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,692 |
-| This game is Relaxing | 3,994 |
+| This game is Relaxing | 3,995 |
 | This game has Quickly Understood Controls | 3,982 |
 | This game has Diverse Characters | 3,848 |
 | This game is Highly Recommended | 3,732 |
@@ -445,3 +445,4 @@ Diff (max vs sum): 25
 | 2023-08-06 | 3.99 | - | 4,688 | 27,057 |
 | 2023-08-07 | 3.99 | - | 4,691 | 27,067 |
 | 2023-08-08 | 3.99 | - | 4,692 | 27,070 |
+| 2023-08-09 | 3.99 | - | 4,692 | 27,071 |

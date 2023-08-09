@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~11,005 |
+| A Brief Tour of the Realms | 5.00% | ~11,006 |
 | Beast Intentions | 3.00% | ~6,603 |
 | Maddening | 2.00% | ~4,402 |
 | The Silken Swamp | 1.00% | ~2,201 |
@@ -87,6 +87,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Heir of Omu | 0.40% | ~880 |
 | The Forbidden City | 0.40% | ~880 |
 | Captured! | 0.40% | ~880 |
+| Sleuth It Out | 0.40% | ~880 |
 | A Grand Puzzle | 0.40% | ~880 |
 | Tomb of the Nine Gods | 0.40% | ~880 |
 | The Immortal Warrior | 0.40% | ~880 |
@@ -136,7 +137,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.30% | ~660 |
 | Force Grey Unleashed | 0.30% | ~660 |
 | Vajra's Guards | 0.30% | ~660 |
-| Sleuth It Out | 0.30% | ~660 |
 | The Newcomers of Notoriety | 0.30% | ~559 |
 | Azaka's Procession - Part 1 | 0.30% | ~660 |
 | Azaka's Procession - Part 2 | 0.30% | ~660 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,106 (Ranked 52)  
+Progressed: 220,114 (Ranked 52)  
 Completed: 2,166 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,14 +630,14 @@ Completed: 2,166 (0.98%) (Ranked 114)
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
-| 2023-08-09 | 220,106 | 2,166 |
+| 2023-08-09 | 220,114 | 2,166 |
 ## Awards
-Max (Diverse Characters): 5,125  (Ranked 67)  
-Sum: 30,950 (Ranked 38)  
+Max (Diverse Characters): 5,128  (Ranked 67)  
+Sum: 30,953 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,125 |
+| This game has Diverse Characters | 5,128 |
 | This game is Great for Beginners | 5,074 |
 | This game has Quickly Understood Controls | 4,706 |
 | This game is Relaxing | 4,600 |
@@ -842,3 +842,4 @@ Diff (max vs sum): 29
 | 2023-08-06 | 4.06 | - | 5,121 | 30,921 |
 | 2023-08-07 | 4.06 | - | 5,121 | 30,936 |
 | 2023-08-08 | 4.06 | - | 5,125 | 30,950 |
+| 2023-08-09 | 4.06 | - | 5,128 | 30,953 |
