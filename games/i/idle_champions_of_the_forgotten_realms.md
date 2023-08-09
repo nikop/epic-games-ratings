@@ -14,6 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cold as Ice | 0.10% | ~187 |
 | Keep Your Friends Close | 0.10% | ~187 |
 | Friends and Foes | 0.10% | ~187 |
+| And Your Enemies Closer | 0.10% | ~187 |
 | Tall Tales | 0.10% | ~187 |
 | Nightmare Rats! | 0.10% | ~187 |
 | An Unexpected Geist | 0.10% | ~187 |
@@ -63,6 +64,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Demon Lords of the Abyss | 0.10% | ~187 |
 | Speed Demons | 0.10% | ~187 |
 | Will of the Feywild | 0.10% | ~187 |
+| The Roots of Loomlurch | 0.10% | ~187 |
 | The Lutes of Loomlurch | 0.10% | ~187 |
 | Supply Run | 0.10% | ~220 |
 | Best Laid Plans | 0.10% | ~187 |
@@ -116,6 +118,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.10% | ~220 |
 | Not Very Charming | 0.10% | ~220 |
 | Lobsterfolk Assault | 0.10% | ~220 |
+| Taking Responsibility | 0.10% | ~220 |
 | The Minions of Endelyn Moongrave | 0.10% | ~187 |
 | Between a Brigganock and a Hard Place | 0.10% | ~187 |
 | Love Unsoiled | 0.10% | ~187 |
@@ -175,7 +178,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Immortal Warrior | 0.10% | ~220 |
 | Hold for the Red Wizards | 0.10% | ~220 |
 | Form Ranks | 0.10% | ~220 |
+| Drop of Time | 0.10% | ~187 |
 | They Who Smelt It | 0.10% | ~220 |
+| Distribute Your Weight | 0.10% | ~220 |
 | Tower on the Lake | 0.10% | ~220 |
 | Only the Strong Survive | 0.10% | ~220 |
 | Shorty's Day Off | 0.10% | ~220 |
@@ -235,6 +240,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Exploits | 0.10% | ~220 |
 | Cramped Quarters | 0.10% | ~220 |
 | Flame(skull) War | 0.10% | ~220 |
+| Servants of the Demon Prince | 0.10% | ~187 |
 | Enter the Sargauth | 0.10% | ~220 |
 | Elder Rune Madness | 0.10% | ~220 |
 | The Madness Grows | 0.10% | ~220 |
@@ -314,6 +320,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wyllowwood | 0.10% | ~220 |
 | Displaced Anger | 0.10% | ~220 |
 | Ettercap Swarm | 0.10% | ~187 |
+| Smooth Talkers | 0.10% | ~187 |
 | Relay Race | 0.10% | ~220 |
 | An Illithid Undertaking | 0.10% | ~187 |
 | An Illithid Ambush | 0.10% | ~187 |
@@ -347,6 +354,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Show of Strength | 0.10% | ~187 |
 | Fight Dragons with Dragons | 0.10% | ~187 |
 | Questlines | 0.10% | ~187 |
+| Raggadragga's Crew | 0.10% | ~187 |
 | Just The Worst | 0.10% | ~187 |
 | Bel's Forge | 0.10% | ~187 |
 | Extreme Heat | 0.10% | ~187 |
@@ -410,7 +418,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Chilling Encounter | 0.10% | ~187 |
 | How Far Away is Thay | 0.10% | ~187 |
 | Deekin's Mission | 0.10% | ~187 |
+| Dive Bomb | 0.10% | ~187 |
 | Frozen Vengeance | 0.10% | ~187 |
+| Mimic Vengeance | 0.10% | ~187 |
 | REALLY Frozen Vengeance | 0.10% | ~187 |
 | The Stunning Tower Battle | 0.10% | ~187 |
 | Elturel's Last Stand | 0.10% | ~187 |
@@ -422,6 +432,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Stragglers | 0.10% | ~187 |
 | Volo's Guide to Kuo-toa | 0.10% | ~187 |
 | Ending the Rime - Part 1 | 0.10% | ~187 |
+| Ambitious Speakers - Part 1 | 0.10% | ~187 |
 | Ending the Rime - Part 2 | 0.10% | ~187 |
 | Reghed Glacier Mysteries | 0.10% | ~187 |
 | Mysteries Unlocked | 0.10% | ~187 |
@@ -463,12 +474,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flight of the Kindori Pod | 0.10% | ~187 |
 | 3,720 to 1 | 0.10% | ~187 |
 | Topolah's Tower | 0.10% | ~187 |
+| Krux's Speed Run | 0.10% | ~187 |
 | Animated Giff | 0.10% | ~187 |
 | The Hunt for The Last Breath | 0.10% | ~187 |
 | The Chaotic Hunt for The Last Breath | 0.10% | ~187 |
 | To Infinity's and Beyond | 0.10% | ~187 |
 | There's a Flying Snake in my Boot! | 0.10% | ~187 |
-| And Your Enemies Closer | 0.00% | ~0 |
 | A Familiar Behind Us | 0.00% | ~0 |
 | Go Fourth | 0.00% | ~0 |
 | Don't Blast the Brigands | 0.00% | ~0 |
@@ -478,41 +489,31 @@ Number of Ratings: 9,041  (23.09.2022)
 | End of the Line | 0.00% | ~0 |
 | All Damage, All The Time | 0.00% | ~0 |
 | Will of the Frozen Feywild | 0.00% | ~0 |
-| The Roots of Loomlurch | 0.00% | ~0 |
 | The Loots of Loomlurch | 0.00% | ~0 |
 | G. O. A. T. | 0.00% | ~0 |
 | Strength of Character | 0.00% | ~0 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
-| Taking Responsibility | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | No Good at All | 0.00% | ~0 |
-| Drop of Time | 0.00% | ~0 |
 | The Wyrmheart Mine | 0.00% | ~0 |
-| Distribute Your Weight | 0.00% | ~0 |
 | Mongrelfolk Incursion | 0.00% | ~0 |
 | Air's Getting Pretty Thin | 0.00% | ~0 |
 | Spirit of the Trickster Gods | 0.00% | ~0 |
-| Servants of the Demon Prince | 0.00% | ~0 |
 | Sneak Attack | 0.00% | ~0 |
 | Shadow Stalkers | 0.00% | ~0 |
-| Smooth Talkers | 0.00% | ~0 |
 | The Path of Trials | 0.00% | ~0 |
 | Best Friend Search Squad! | 0.00% | ~0 |
 | An Even Worse Time in Avernus | 0.00% | ~0 |
-| Raggadragga's Crew | 0.00% | ~0 |
 | Fire and Brimstone | 0.00% | ~0 |
 | Power of Three | 0.00% | ~0 |
 | Only Human | 0.00% | ~0 |
 | Ten in Ten-Towns | 0.00% | ~0 |
 | A Neutral Party | 0.00% | ~0 |
 | Going To Eleven | 0.00% | ~0 |
-| Dive Bomb | 0.00% | ~0 |
 | Fire and Ice | 0.00% | ~0 |
-| Mimic Vengeance | 0.00% | ~0 |
 | The Battle of High Hall Tower | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
-| Ambitious Speakers - Part 1 | 0.00% | ~0 |
 | Shady Sidekicks - Part 1 | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
@@ -521,9 +522,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Quick or Quack | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 | All The World's A Stage | 0.00% | ~0 |
-| Krux's Speed Run | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,271 (Ranked 52)  
+Progressed: 220,283 (Ranked 52)  
 Completed: 2,167 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 2,167 (0.98%) (Ranked 113)
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
-| 2023-08-09 | 220,271 | 2,167 |
+| 2023-08-09 | 220,283 | 2,167 |
 ## Awards
 Max (Diverse Characters): 5,128  (Ranked 67)  
 Sum: 30,971 (Ranked 38)  

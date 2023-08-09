@@ -42,7 +42,7 @@
 | Guiding on the right path | 44.00% | ~106 |
 | Fight is life | 43.00% | ~104 |
 | Your own way | 40.00% | ~96 |
-| Champion – no way back | 38.00% | ~92 |
+| Champion – no way back | 39.00% | ~94 |
 | Responsible approach | 38.00% | ~92 |
 | Poisoned fighter | 37.00% | ~89 |
 | Get out of my apartment! | 37.00% | ~89 |

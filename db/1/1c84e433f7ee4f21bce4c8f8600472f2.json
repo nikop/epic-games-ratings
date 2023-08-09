@@ -4,7 +4,7 @@
   "ProductSlug": "the-lost-village-22bf80",
   "Ranking_EOS_Progress": 534,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-23T12:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-17T17:57:01.5393493+00:00",
   "LastUpdate_AppInfo": "2023-08-08T15:57:08.2038152+00:00",
-  "LastUpdate_Ratings": "2023-08-09T21:58:07.2755789+00:00",
-  "LastUpdate_Achievements": "2023-08-09T22:07:24.5079017+00:00"
+  "LastUpdate_Ratings": "2023-08-09T22:57:45.1146159+00:00",
+  "LastUpdate_Achievements": "2023-08-09T23:06:11.0355883+00:00"
 }

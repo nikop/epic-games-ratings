@@ -1,33 +1,33 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 513)  
+Rating: 4.53 (Ranked 512)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~42,003 |
-| Worth it | 63.00% | ~34,366 |
-| Eagle Eye | 55.00% | ~30,002 |
-| Corpseman I | 40.00% | ~21,820 |
-| Blast fishing | 37.00% | ~20,183 |
-| Not alone | 32.00% | ~17,456 |
-| Headhunter I | 26.00% | ~14,183 |
-| Manual Labour I | 25.00% | ~13,637 |
-| Developers, Developers, Developers | 24.00% | ~13,092 |
-| Basic Training | 24.00% | ~13,092 |
-| Furchtlos und Treu | 13.00% | ~7,091 |
+| Setting an example | 77.00% | ~42,006 |
+| Worth it | 63.00% | ~34,368 |
+| Eagle Eye | 55.00% | ~30,004 |
+| Corpseman I | 40.00% | ~21,821 |
+| Blast fishing | 37.00% | ~20,185 |
+| Not alone | 32.00% | ~17,457 |
+| Headhunter I | 26.00% | ~14,184 |
+| Manual Labour I | 25.00% | ~13,638 |
+| Developers, Developers, Developers | 24.00% | ~13,093 |
+| Basic Training | 24.00% | ~13,093 |
+| Furchtlos und Treu | 13.00% | ~7,092 |
 | Gott Mit Uns | 12.00% | ~6,546 |
-| This We'll Defend! | 9.00% | ~4,909 |
-| Anker wirf! | 9.00% | ~4,909 |
-| Providentiea Memor | 9.00% | ~4,909 |
-| For King and Country | 9.00% | ~4,909 |
+| This We'll Defend! | 9.00% | ~4,910 |
+| Anker wirf! | 9.00% | ~4,910 |
+| Providentiea Memor | 9.00% | ~4,910 |
+| For King and Country | 9.00% | ~4,910 |
 | Battle hardened | 8.00% | ~4,364 |
-| Semper Fidelis! | 7.00% | ~3,818 |
-| Honneur et Patrie | 7.00% | ~3,818 |
-| In Treue Fest | 5.00% | ~2,727 |
-| Voor De Koning | 5.00% | ~2,727 |
-| Extreme Headhunter | 5.00% | ~2,727 |
+| Semper Fidelis! | 7.00% | ~3,819 |
+| Honneur et Patrie | 7.00% | ~3,819 |
+| In Treue Fest | 5.00% | ~2,728 |
+| Voor De Koning | 5.00% | ~2,728 |
+| Extreme Headhunter | 5.00% | ~2,728 |
 | Advance Australia | 4.00% | ~2,182 |
 | We Stand on Guard | 4.00% | ~2,182 |
 | Sidi Brahim | 4.00% | ~2,182 |
@@ -35,22 +35,22 @@ Number of Ratings: 1,999  (23.09.2022)
 | Let them, come to us | 4.00% | ~2,182 |
 | Corpseman II | 4.00% | ~2,182 |
 | Manual Labour II | 4.00% | ~2,182 |
-| Offense is the best defence | 3.00% | ~1,636 |
-| There is no I in team | 3.00% | ~1,636 |
-| Veteran | 3.00% | ~1,636 |
-| In My Defens God Me Defend | 3.00% | ~1,636 |
-| Silver x100 | 3.00% | ~1,636 |
-| Impavidum Ferient Bella! | 3.00% | ~1,636 |
+| Offense is the best defence | 3.00% | ~1,637 |
+| There is no I in team | 3.00% | ~1,637 |
+| Veteran | 3.00% | ~1,637 |
+| In My Defens God Me Defend | 3.00% | ~1,637 |
+| Silver x100 | 3.00% | ~1,637 |
+| Impavidum Ferient Bella! | 3.00% | ~1,637 |
 | Bronze x100 | 2.00% | ~1,091 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~1,091 |
-| Gold x100 | 1.00% | ~545 |
-| Hunting the Hun | 1.00% | ~545 |
-| #1 | 1.00% | ~545 |
-| Golden Headhunter | 1.00% | ~545 |
-| That's another one down! | 1.00% | ~545 |
-| Do you even die? | 1.00% | ~545 |
-| Headhunter II | 1.00% | ~545 |
-| Corpseman III | 1.00% | ~545 |
+| Gold x100 | 1.00% | ~546 |
+| Hunting the Hun | 1.00% | ~546 |
+| #1 | 1.00% | ~546 |
+| Golden Headhunter | 1.00% | ~546 |
+| That's another one down! | 1.00% | ~546 |
+| Do you even die? | 1.00% | ~546 |
+| Headhunter II | 1.00% | ~546 |
+| Corpseman III | 1.00% | ~546 |
 | Elite Player | 0.80% | ~436 |
 | Manual Labour III | 0.30% | ~164 |
 | War is better with friends II | 0.20% | ~109 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~55 |
 | Blood Brother | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,549 (Ranked 88)  
+Progressed: 54,553 (Ranked 88)  
 Completed: 4 (0.01%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 4 (0.01%) (Ranked 237)
 | 2023-08-06 | 54,256 | 4 |
 | 2023-08-07 | 54,367 | 4 |
 | 2023-08-08 | 54,454 | 4 |
-| 2023-08-09 | 54,549 | 4 |
+| 2023-08-09 | 54,553 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 341)  
 Sum: 765 (Ranked 265)  

@@ -6,23 +6,23 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 74.00% | ~3,837 |
-| Having A Field Day | 73.00% | ~3,785 |
-| Reap What You Sow | 70.00% | ~3,629 |
-| The First Day | 67.00% | ~3,474 |
-| Green Thumb | 65.00% | ~3,370 |
-| Novice Researcher | 65.00% | ~3,370 |
-| Putting Food on the Table | 60.00% | ~3,111 |
+| Get A Room | 74.00% | ~3,838 |
+| Having A Field Day | 73.00% | ~3,786 |
+| Reap What You Sow | 70.00% | ~3,630 |
+| The First Day | 67.00% | ~3,475 |
+| Green Thumb | 65.00% | ~3,371 |
+| Novice Researcher | 65.00% | ~3,371 |
+| Putting Food on the Table | 60.00% | ~3,112 |
 | Home Cooked Meal | 56.00% | ~2,904 |
 | Onward | 55.00% | ~2,852 |
-| The First Week | 53.00% | ~2,748 |
-| Studious Researcher | 51.00% | ~2,644 |
-| Beam Me Up | 50.00% | ~2,592 |
-| Feast or Famine | 50.00% | ~2,592 |
-| Adept Researcher | 44.00% | ~2,281 |
+| The First Week | 53.00% | ~2,749 |
+| Studious Researcher | 51.00% | ~2,645 |
+| Beam Me Up | 50.00% | ~2,593 |
+| Feast or Famine | 50.00% | ~2,593 |
+| Adept Researcher | 44.00% | ~2,282 |
 | Retribution | 40.00% | ~2,074 |
 | ...And Don’t Come Back! | 40.00% | ~2,074 |
-| Fit For A King | 39.00% | ~2,022 |
+| Fit For A King | 39.00% | ~2,023 |
 | Luminary Researcher | 33.00% | ~1,711 |
 | Heating Up | 29.00% | ~1,504 |
 | Winter Is Coming | 26.00% | ~1,348 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~104 |
 | Wabbit Season | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,185 (Ranked 139)  
+Progressed: 5,186 (Ranked 139)  
 Completed: 10 (0.19%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,10 +128,10 @@ Completed: 10 (0.19%) (Ranked 180)
 | 2023-08-06 | 5,128 | 10 |
 | 2023-08-07 | 5,153 | 10 |
 | 2023-08-08 | 5,162 | 10 |
-| 2023-08-09 | 5,185 | 10 |
+| 2023-08-09 | 5,186 | 10 |
 ## Awards
 Max (Relaxing): 121  (Ranked 315)  
-Sum: 969 (Ranked 239)  
+Sum: 970 (Ranked 239)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
@@ -144,7 +144,7 @@ Diff (max vs sum): 76
 | This game has Amazing Characters | 90 |
 | This game has Amazing Storytelling | 84 |
 | This game has Unique Visuals | 77 |
-| This game has a Creative Community | 66 |
+| This game has a Creative Community | 67 |
 | This game has Obsessive Gameplay | 56 |
 | This game is Educational | 21 |
 ## Ratings History
@@ -265,3 +265,4 @@ Diff (max vs sum): 76
 | 2023-08-01 | 4.60 | - | 121 | 966 |
 | 2023-08-03 | 4.60 | - | 121 | 968 |
 | 2023-08-05 | 4.60 | - | 121 | 969 |
+| 2023-08-09 | 4.60 | - | 121 | 970 |

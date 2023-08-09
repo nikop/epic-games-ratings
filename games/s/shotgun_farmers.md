@@ -5,29 +5,29 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 75.00% | ~188 |
-| First Blood | 58.00% | ~145 |
-| Aspairagus | 57.00% | ~114 |
-| Triple Kill | 56.00% | ~140 |
-| Survivor | 56.00% | ~112 |
-| No Asperascope | 52.00% | ~130 |
+| First Blood | 57.00% | ~143 |
+| Triple Kill | 57.00% | ~143 |
+| Aspairagus | 57.00% | ~115 |
+| Survivor | 56.00% | ~113 |
+| No Asperascope | 51.00% | ~128 |
 | Cornivore | 51.00% | ~128 |
 | I Believe I Can Fly | 48.00% | ~120 |
 | Early Survivor | 42.00% | ~84 |
 | No Diggity | 42.00% | ~84 |
 | Amateur Survivor | 31.00% | ~62 |
-| 10K | 30.00% | ~75 |
-| Bouncemato | 30.00% | ~60 |
-| 15K | 28.00% | ~70 |
+| 10K | 29.00% | ~73 |
+| Bouncemato | 29.00% | ~58 |
+| 15K | 27.00% | ~68 |
 | Professional Survivor | 23.00% | ~46 |
 | Grave Digger | 23.00% | ~46 |
-| Drinking Problem | 21.00% | ~52 |
+| Drinking Problem | 21.00% | ~53 |
 | Quick-Draw Pod | 21.00% | ~42 |
 | Pork Chop Express | 18.00% | ~45 |
 | This Is My Boomstick | 16.00% | ~32 |
 | Skin Of Your Teeth | 15.00% | ~38 |
 | Eggtraordinary | 14.00% | ~35 |
 | Carrocketeer | 14.00% | ~35 |
-| Getting Started | 13.00% | ~32 |
+| Getting Started | 13.00% | ~33 |
 | Oh My Gourd | 13.00% | ~26 |
 | Summers Here | 12.00% | ~24 |
 | Fresh Pancake | 10.00% | ~25 |
@@ -37,15 +37,15 @@
 | Bring Home The Bacon | 8.00% | ~20 |
 | Quadsparagus | 8.00% | ~16 |
 | Pyromaniac | 6.00% | ~12 |
-| I Have The High Ground | 5.00% | ~12 |
-| Early Bird | 5.00% | ~12 |
+| I Have The High Ground | 5.00% | ~13 |
+| Early Bird | 5.00% | ~13 |
 | Chick Magnet | 4.00% | ~10 |
 | Master Survivor | 4.00% | ~8 |
 | Heart Breaker | 3.00% | ~6 |
 | 15 Days | 2.00% | ~5 |
 | Easy Peasy | 2.00% | ~4 |
-| Honk Honk | 1.00% | ~2 |
-| Pro Shotgunner | 1.00% | ~2 |
+| Honk Honk | 1.00% | ~3 |
+| Pro Shotgunner | 1.00% | ~3 |
 | Pro Pyromancer | 0.80% | ~2 |
 | Unstoppable | 0.80% | ~2 |
 | King of the Crow | 0.80% | ~2 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250 (Ranked 266)  
+Progressed: 251 (Ranked 266)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-05 | 244 | 0 |
 | 2023-08-06 | 247 | 0 |
 | 2023-08-07 | 248 | 0 |
-| 2023-08-09 | 250 | 0 |
+| 2023-08-09 | 251 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

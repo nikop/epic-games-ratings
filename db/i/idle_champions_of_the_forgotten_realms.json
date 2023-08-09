@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5686,7 +5686,7 @@
       "Count": 3347
     }
   ],
-  "EOS_Progressed": 220271,
+  "EOS_Progressed": 220283,
   "EOS_Completed": 2167,
   "EOS_NewPlayers": 2258,
   "EOS_NewCompleters": 22,
@@ -17721,6 +17721,11 @@
       "Time": "2023-08-09T22:03:08.7677482+00:00",
       "NumProgressed": 220271,
       "NumCompleted": 2167
+    },
+    {
+      "Time": "2023-08-09T23:02:11.9806751+00:00",
+      "NumProgressed": 220283,
+      "NumCompleted": 2167
     }
   ],
   "TotalAchievements": 516,
@@ -17794,9 +17799,9 @@
       "ID": "objective_completed_1046",
       "SetID": "415jc5c",
       "Name": "And Your Enemies Closer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1050",
@@ -18266,9 +18271,9 @@
       "ID": "objective_completed_1137",
       "SetID": "415jc5c",
       "Name": "The Roots of Loomlurch",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1138",
@@ -18730,9 +18735,9 @@
       "ID": "objective_completed_132",
       "SetID": "cc37lbc",
       "Name": "Taking Responsibility",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 220
     },
     {
       "ID": "objective_completed_1325",
@@ -19234,9 +19239,9 @@
       "ID": "objective_completed_249",
       "SetID": "415jc5c",
       "Name": "Drop of Time",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_251",
@@ -19258,9 +19263,9 @@
       "ID": "objective_completed_253",
       "SetID": "cc37lbc",
       "Name": "Distribute Your Weight",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 220
     },
     {
       "ID": "objective_completed_254",
@@ -19762,9 +19767,9 @@
       "ID": "objective_completed_421",
       "SetID": "415jc5c",
       "Name": "Servants of the Demon Prince",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_423",
@@ -20418,9 +20423,9 @@
       "ID": "objective_completed_618",
       "SetID": "415jc5c",
       "Name": "Smooth Talkers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_62",
@@ -20714,9 +20719,9 @@
       "ID": "objective_completed_671",
       "SetID": "415jc5c",
       "Name": "Raggadragga\u0027s Crew",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_672",
@@ -21274,9 +21279,9 @@
       "ID": "objective_completed_858",
       "SetID": "415jc5c",
       "Name": "Dive Bomb",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_859",
@@ -21298,9 +21303,9 @@
       "ID": "objective_completed_863",
       "SetID": "415jc5c",
       "Name": "Mimic Vengeance",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_864",
@@ -21410,9 +21415,9 @@
       "ID": "objective_completed_888",
       "SetID": "415jc5c",
       "Name": "Ambitious Speakers - Part 1",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_889",
@@ -21810,9 +21815,9 @@
       "ID": "objective_completed_1391",
       "SetID": "415jc5c",
       "Name": "Krux\u0027s Speed Run",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1392",
@@ -21859,21 +21864,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 186545,
-      "Completed": 3087
+      "Progressed": 186557,
+      "Completed": 3094
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 220271,
+      "Progressed": 220283,
       "Completed": 2167
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-09T21:00:00.4067154+00:00",
-  "LastChanged_Achievements": "2023-08-09T22:03:08.7677477+00:00",
+  "LastChanged_Achievements": "2023-08-09T23:02:11.9806746+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-09T21:59:30.7118257+00:00",
-  "LastUpdate_Achievements": "2023-08-09T22:03:08.7708099+00:00"
+  "LastUpdate_Ratings": "2023-08-09T22:58:48.4642122+00:00",
+  "LastUpdate_Achievements": "2023-08-09T23:02:11.983071+00:00"
 }

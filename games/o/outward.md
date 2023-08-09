@@ -1,7 +1,7 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 487)  
+Rating: 4.55 (Ranked 486)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,16 +10,16 @@ Number of Ratings: 266  (23.09.2022)
 | Ready for Winter | 64.00% | ~2,106 |
 | Ready for Summer | 51.00% | ~1,678 |
 | Cordon Bleu | 43.00% | ~1,415 |
-| Tapped! | 36.00% | ~1,184 |
+| Tapped! | 36.00% | ~1,185 |
 | Eureka | 32.00% | ~1,053 |
-| Scourge Slayer | 25.00% | ~822 |
+| Scourge Slayer | 25.00% | ~823 |
 | Science, Troglodyte! | 23.00% | ~757 |
 | Exceptional Skill | 22.00% | ~724 |
 | Home Sweet Home | 22.00% | ~724 |
 | Encyclopedic! | 19.00% | ~625 |
 | The Power of Family | 17.00% | ~559 |
-| A Fortress Toppled! | 16.00% | ~526 |
-| Apex Predator | 16.00% | ~526 |
+| A Fortress Toppled! | 16.00% | ~527 |
+| Apex Predator | 16.00% | ~527 |
 | The Power of Faith | 12.00% | ~395 |
 | Strange amalgams | 11.00% | ~362 |
 | The Power of Freedom | 9.00% | ~296 |
@@ -31,7 +31,7 @@ Number of Ratings: 266  (23.09.2022)
 | The power of ambition | 7.00% | ~230 |
 | Hold my Mead and Watch This | 6.00% | ~197 |
 | The stuff of legends. | 6.00% | ~197 |
-| Blood and justice | 5.00% | ~164 |
+| Blood and justice | 5.00% | ~165 |
 | Ancestor's Pride | 4.00% | ~132 |
 | For All Aurai | 4.00% | ~132 |
 | Memory of a legend | 4.00% | ~132 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,290 (Ranked 152)  
+Progressed: 3,291 (Ranked 152)  
 Completed: 3 (0.09%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 3 (0.09%) (Ranked 203)
 | 2023-08-05 | 3,280 | 3 |
 | 2023-08-06 | 3,284 | 3 |
 | 2023-08-07 | 3,287 | 3 |
-| 2023-08-09 | 3,290 | 3 |
+| 2023-08-09 | 3,291 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 446)  
 Sum: 241 (Ranked 353)  

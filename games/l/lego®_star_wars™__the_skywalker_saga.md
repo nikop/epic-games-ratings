@@ -6,22 +6,22 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~48,535 |
-| ''I don't like you either!'' | 79.00% | ~39,528 |
-| ''Impressive, most impressive'' | 72.00% | ~36,026 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~36,026 |
-| The Phantom Menace | 59.00% | ~29,521 |
-| ''Aggressive Negotiations'' | 59.00% | ~29,521 |
+| ''You guys got yourself a ship!'' | 97.00% | ~48,536 |
+| ''I don't like you either!'' | 79.00% | ~39,529 |
+| ''Impressive, most impressive'' | 72.00% | ~36,027 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~36,027 |
+| The Phantom Menace | 59.00% | ~29,522 |
+| ''Aggressive Negotiations'' | 59.00% | ~29,522 |
 | ''I can fly anything'' | 57.00% | ~28,521 |
-| ''And who gave you permission...?'' | 54.00% | ~27,019 |
-| A New Hope | 48.00% | ~24,017 |
+| ''And who gave you permission...?'' | 54.00% | ~27,020 |
+| A New Hope | 48.00% | ~24,018 |
 | Attack of the Clones | 47.00% | ~23,517 |
-| Revenge of the Sith | 40.00% | ~20,014 |
-| The Empire Strikes Back | 37.00% | ~18,513 |
-| ''A fine addition to my collection'' | 37.00% | ~18,513 |
+| Revenge of the Sith | 40.00% | ~20,015 |
+| The Empire Strikes Back | 37.00% | ~18,514 |
+| ''A fine addition to my collection'' | 37.00% | ~18,514 |
 | Return of the Jedi | 32.00% | ~16,012 |
 | The Force Awakens | 27.00% | ~13,510 |
-| The Last Jedi | 23.00% | ~11,508 |
+| The Last Jedi | 23.00% | ~11,509 |
 | The Rise of Skywalker | 20.00% | ~10,007 |
 | ''It's true... all of it'' | 19.00% | ~9,507 |
 | ''Get the crews to their fighters'' | 19.00% | ~9,507 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''No more training, do you require'' | 1.00% | ~500 |
 | ''I've never seen a real one!'' | 0.90% | ~450 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,036 (Ranked 89)  
+Progressed: 50,037 (Ranked 89)  
 Completed: 219 (0.44%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 219 (0.44%) (Ranked 147)
 | 2023-08-06 | 50,024 | 217 |
 | 2023-08-07 | 50,027 | 217 |
 | 2023-08-08 | 50,033 | 218 |
-| 2023-08-09 | 50,036 | 219 |
+| 2023-08-09 | 50,037 | 219 |
 ## Awards
 Max (Great Boss Battles): 2,371  (Ranked 103)  
 Sum: 6,533 (Ranked 118)  

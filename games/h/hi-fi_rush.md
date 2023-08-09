@@ -7,7 +7,7 @@ Rating: 4.87 (Ranked 24)
 | ---- | ---------- | ----- |
 | Start with a bang! | 9.00% | ~344 |
 | Feeling the beat! | 9.00% | ~344 |
-| You can pet the cat! | 8.00% | ~305 |
+| You can pet the cat! | 8.00% | ~306 |
 | Cream of the Crop | 7.00% | ~267 |
 | Who put gears in there? | 7.00% | ~267 |
 | Thanks for the free chip, Peppermint! | 6.00% | ~229 |
@@ -45,9 +45,9 @@ Rating: 4.87 (Ranked 24)
 | I hit things with a guitar really well. | 0.80% | ~31 |
 | We're Jammin' | 0.70% | ~27 |
 | First we parry, then we counter | 0.60% | ~23 |
-| New bad guys? No problem! | 0.60% | ~14 |
 | This is a breeze! | 0.50% | ~19 |
 | I'm not done with you yet | 0.50% | ~19 |
+| New bad guys? No problem! | 0.50% | ~12 |
 | OK, well THEY came after ME! | 0.40% | ~15 |
 | You ever parry a volcano? | 0.40% | ~15 |
 | Choose your own adventure | 0.40% | ~9 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,818 (Ranked 147)  
+Progressed: 3,820 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 7 (0.18%) (Ranked 181)
 | 2023-08-06 | 3,771 | 7 |
 | 2023-08-07 | 3,789 | 7 |
 | 2023-08-08 | 3,807 | 7 |
-| 2023-08-09 | 3,818 | 7 |
+| 2023-08-09 | 3,820 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
