@@ -3,12 +3,12 @@
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
   "Ranking_Rating": 746,
-  "Ranking_Popularity": 510,
-  "Ranking_PopularitySum": 510,
+  "Ranking_Popularity": 511,
+  "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -282,7 +282,7 @@
   "Tags": [],
   "EOS_Progressed": 513,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1434,9 +1434,9 @@
       "ID": "complete-deals",
       "SetID": "bed33dd",
       "Name": "Safe Pair of Hands",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 190
     },
     {
       "ID": "cool-shirts",
@@ -1594,8 +1594,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-08-09T18:03:16.5804115+00:00",
+  "LastChanged_Achievements": "2023-08-09T19:03:53.0178551+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:10.4467648+00:00",
-  "LastUpdate_Ratings": "2023-08-09T18:00:37.0082759+00:00",
-  "LastUpdate_Achievements": "2023-08-09T18:03:16.5804305+00:00"
+  "LastUpdate_Ratings": "2023-08-09T19:01:46.3687645+00:00",
+  "LastUpdate_Achievements": "2023-08-09T19:03:53.0178723+00:00"
 }

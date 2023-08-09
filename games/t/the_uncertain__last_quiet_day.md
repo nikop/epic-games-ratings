@@ -13,7 +13,7 @@
 | Curious | 41.00% | ~214 |
 | Everybody lies | 35.00% | ~183 |
 | Trick or Treat? | 23.00% | ~120 |
-| There is another way | 22.00% | ~115 |
+| There is another way | 23.00% | ~120 |
 | Sysadmin | 21.00% | ~110 |
 | Annoying | 20.00% | ~104 |
 | The Walking Robot Among Us | 20.00% | ~104 |
@@ -29,7 +29,7 @@
 | Please oh pleeease! | 16.00% | ~84 |
 | Found it! | 15.00% | ~78 |
 | That's much better! | 14.00% | ~73 |
-| Not as clumsy or random | 12.00% | ~63 |
+| Not as clumsy or random | 13.00% | ~68 |
 | Blade Runner | 10.00% | ~52 |
 | Perfect hearing | 9.00% | ~47 |
 | Meticulous | 7.00% | ~37 |

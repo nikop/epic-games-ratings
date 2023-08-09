@@ -16,12 +16,12 @@
 | Planting the Seed | 21.00% | ~106 |
 | Light Sleepers | 16.00% | ~81 |
 | Smooth Criminal | 8.00% | ~40 |
-| Sore Loser | 7.00% | ~35 |
+| Sore Loser | 8.00% | ~40 |
 | Interrogation | 5.00% | ~25 |
 | Crash and Burn | 3.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 504 (Ranked 223)  
-Completed: 7 (1.39%) (Ranked 103)  
+Completed: 8 (1.59%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,7 +102,7 @@ Completed: 7 (1.39%) (Ranked 103)
 | 2023-08-06 | 498 | 7 |
 | 2023-08-07 | 501 | 7 |
 | 2023-08-08 | 503 | 7 |
-| 2023-08-09 | 504 | 7 |
+| 2023-08-09 | 504 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

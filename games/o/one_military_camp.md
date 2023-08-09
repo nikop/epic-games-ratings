@@ -15,10 +15,10 @@
 | Desert Power | 7.00% | ~10 |
 | Good payer | 7.00% | ~10 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~8 |
+| Health Care | 6.00% | ~8 |
 | Fuel Tycoon | 6.00% | ~8 |
 | Ammo Tycoon | 6.00% | ~8 |
 | Perfect Soldier | 5.00% | ~7 |
-| Health Care | 5.00% | ~7 |
 | Pathfinder | 5.00% | ~7 |
 | Supersoldier | 4.00% | ~5 |
 | Outdoor Decorator | 4.00% | ~5 |
@@ -29,13 +29,13 @@
 | Overpopulation | 3.00% | ~4 |
 | Property Bro | 3.00% | ~4 |
 | Human Resources | 3.00% | ~4 |
+| Training Camp | 2.00% | ~3 |
 | Winter Soldier | 2.00% | ~3 |
 | Researcher | 2.00% | ~3 |
 | Tear Down the Wall! | 1.00% | ~1 |
 | Vive le Résistance | 1.00% | ~1 |
 | No News is Good News | 1.00% | ~1 |
 | Snowman | 1.00% | ~1 |
-| Training Camp | 1.00% | ~1 |
 | Reconquest | 1.00% | ~1 |
 | Economist | 0.70% | ~1 |
 | Crisis Committee | 0.70% | ~1 |

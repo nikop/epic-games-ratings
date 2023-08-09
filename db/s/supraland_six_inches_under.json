@@ -2,13 +2,13 @@
   "ID": "ffa7b0821b4142d5873ecb0528715003",
   "Name": "Supraland Six Inches Under",
   "ProductSlug": "supraland-six-inches-under-dd0220",
-  "Ranking_Rating": 108,
+  "Ranking_Rating": 109,
   "Ranking_Popularity": 335,
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -350,10 +350,10 @@
     }
   ],
   "EOS_Progressed": 2190,
-  "EOS_Completed": 262,
+  "EOS_Completed": 263,
   "EOS_NewPlayers": 9,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 11.96,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 12.01,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.4001279+00:00",
@@ -1499,6 +1499,11 @@
       "Time": "2023-08-09T15:03:40.9053171+00:00",
       "NumProgressed": 2190,
       "NumCompleted": 262
+    },
+    {
+      "Time": "2023-08-09T19:03:45.8399305+00:00",
+      "NumProgressed": 2190,
+      "NumCompleted": 263
     }
   ],
   "TotalAchievements": 53,
@@ -1508,9 +1513,9 @@
       "ID": "2ndFloor",
       "SetID": "5lok9mm",
       "Name": "You feel middle classy",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1883
+      "UsersEstimate": 1905
     },
     {
       "ID": "AllChests",
@@ -1540,9 +1545,9 @@
       "ID": "Area4",
       "SetID": "5lok9mm",
       "Name": "Beat the big arena",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1818
     },
     {
       "ID": "Arrested",
@@ -1796,9 +1801,9 @@
       "ID": "PickaxeIron",
       "SetID": "5lok9mm",
       "Name": "Iron Pickaxe",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1883
+      "UsersEstimate": 1905
     },
     {
       "ID": "PickaxeStone",
@@ -1934,14 +1939,14 @@
       "ID": "5lok9mm",
       "IsBase": true,
       "Progressed": 2190,
-      "Completed": 262
+      "Completed": 263
     }
   ],
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-07-21T20:00:23.2474099+00:00",
-  "LastChanged_Achievements": "2023-08-09T18:03:10.6469668+00:00",
+  "LastChanged_Achievements": "2023-08-09T19:03:45.8399299+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:59.03219+00:00",
-  "LastUpdate_Ratings": "2023-08-09T18:00:29.5253959+00:00",
-  "LastUpdate_Achievements": "2023-08-09T18:03:10.6470079+00:00"
+  "LastUpdate_Ratings": "2023-08-09T19:01:39.2477063+00:00",
+  "LastUpdate_Achievements": "2023-08-09T19:03:45.8399731+00:00"
 }

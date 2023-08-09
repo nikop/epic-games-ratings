@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -129,9 +129,9 @@
       "ID": "ACH_02_PHOTO_TEAM",
       "SetID": "9loam6m",
       "Name": "Photo team",
-      "Percentage": 82,
+      "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_03_MODEL",
@@ -265,9 +265,9 @@
       "ID": "ACH_19_HORSE_FRIENDS",
       "SetID": "9loam6m",
       "Name": "Horse friends",
-      "Percentage": 65,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_20_HORSE_LANGUAGE",
@@ -361,9 +361,9 @@
       "ID": "ACH_31_BEST_MUFFINS",
       "SetID": "9loam6m",
       "Name": "The best muffins",
-      "Percentage": 76,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_32_HEART_FOR_ANIMALS",
@@ -393,9 +393,9 @@
       "ID": "ACH_35_RIDING_LESSON",
       "SetID": "9loam6m",
       "Name": "Riding lesson",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_36_LIFE_IN_COUNTRYSIDE",
@@ -417,9 +417,9 @@
       "ID": "ACH_38_WELL_HIDDEN",
       "SetID": "9loam6m",
       "Name": "Well hidden!",
-      "Percentage": 41,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_39_TENS_AT_THE_LAKE",
@@ -464,8 +464,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-08-09T18:04:48.5606574+00:00",
+  "LastChanged_Achievements": "2023-08-09T19:05:46.6513552+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:04.3579504+00:00",
-  "LastUpdate_Ratings": "2023-08-09T17:57:37.9054234+00:00",
-  "LastUpdate_Achievements": "2023-08-09T18:04:48.5606863+00:00"
+  "LastUpdate_Ratings": "2023-08-09T18:57:59.8668831+00:00",
+  "LastUpdate_Achievements": "2023-08-09T19:05:46.6513826+00:00"
 }

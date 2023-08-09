@@ -5,8 +5,8 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 9.00% | ~343 |
-| Feeling the beat! | 9.00% | ~343 |
+| Start with a bang! | 9.00% | ~344 |
+| Feeling the beat! | 9.00% | ~344 |
 | You can pet the cat! | 8.00% | ~305 |
 | Who put gears in there? | 7.00% | ~267 |
 | Cream of the Crop | 6.00% | ~229 |
@@ -28,9 +28,9 @@ Rating: 4.87 (Ranked 24)
 | Kissing the sky! | 4.00% | ~153 |
 | I look cool. But I can look COOLER. | 4.00% | ~153 |
 | Does that say weakpoint? | 4.00% | ~153 |
-| NOW we got a kickass hideout! | 4.00% | ~93 |
-| I have to read these things? | 3.00% | ~114 |
-| Perfecter Parry-er! | 3.00% | ~114 |
+| NOW we got a kickass hideout! | 4.00% | ~94 |
+| I have to read these things? | 3.00% | ~115 |
+| Perfecter Parry-er! | 3.00% | ~115 |
 | Well that was a rush! | 2.00% | ~76 |
 | Beat-hit mania | 2.00% | ~76 |
 | That's a lot of junk metal… | 2.00% | ~76 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,816 (Ranked 147)  
+Progressed: 3,817 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 7 (0.18%) (Ranked 181)
 | 2023-08-06 | 3,771 | 7 |
 | 2023-08-07 | 3,789 | 7 |
 | 2023-08-08 | 3,807 | 7 |
-| 2023-08-09 | 3,816 | 7 |
+| 2023-08-09 | 3,817 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

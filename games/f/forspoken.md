@@ -35,9 +35,9 @@ Rating: 4.15 (Ranked 886)
 | Forspoken | 1.00% | ~396 |
 | Pilgrimage: Novice | 1.00% | ~396 |
 | Wildfire | 0.70% | ~277 |
+| Realized Potential | 0.70% | ~277 |
 | Awakening | 0.60% | ~238 |
 | Explorer: Trailblazer | 0.60% | ~238 |
-| Realized Potential | 0.60% | ~238 |
 | Through the Eyes of Another: Seer | 0.40% | ~158 |
 | Archivist | 0.30% | ~119 |
 | Craftsperson | 0.30% | ~119 |

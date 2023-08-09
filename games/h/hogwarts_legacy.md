@@ -1,26 +1,26 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.77 (Ranked 108)  
+Rating: 4.77 (Ranked 109)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,766 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,767 |
 | First Class Student | 11.00% | ~31,869 |
 | Troll with the Punches | 11.00% | ~31,869 |
 | A Keen Sense of Spell | 10.00% | ~28,972 |
 | That's a Keeper | 10.00% | ~28,972 |
-| Grappling with a Graphorn | 9.00% | ~26,074 |
-| The One Who Mastered Memories | 9.00% | ~26,074 |
-| The Hallowed Hero | 9.00% | ~26,074 |
-| The Hero of Hogwarts | 9.00% | ~26,074 |
-| The Defender of Dragons | 9.00% | ~26,074 |
-| Loom for Improvement | 9.00% | ~26,074 |
-| A Talent for Spending | 9.00% | ~26,074 |
-| Coasting Along | 9.00% | ~26,074 |
-| Challenge Accepted | 8.00% | ~23,177 |
-| Followed the Butterflies | 8.00% | ~23,177 |
-| Rising From the Ashes | 8.00% | ~23,177 |
+| Grappling with a Graphorn | 9.00% | ~26,075 |
+| The One Who Mastered Memories | 9.00% | ~26,075 |
+| The Hallowed Hero | 9.00% | ~26,075 |
+| The Hero of Hogwarts | 9.00% | ~26,075 |
+| The Defender of Dragons | 9.00% | ~26,075 |
+| Loom for Improvement | 9.00% | ~26,075 |
+| A Talent for Spending | 9.00% | ~26,075 |
+| Coasting Along | 9.00% | ~26,075 |
+| Challenge Accepted | 8.00% | ~23,178 |
+| Followed the Butterflies | 8.00% | ~23,178 |
+| Rising From the Ashes | 8.00% | ~23,178 |
 | The Avenging Gazelle | 7.00% | ~20,280 |
 | A Sallow Grave | 7.00% | ~20,280 |
 | Flight the Good Flight | 7.00% | ~20,280 |
@@ -34,10 +34,10 @@ Rating: 4.77 (Ranked 108)
 | Room with a View | 4.00% | ~11,589 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,589 |
 | The Ends Petrify the Means | 4.00% | ~11,589 |
-| Going Through the Potions | 3.00% | ~8,691 |
-| Floo Around the World | 3.00% | ~8,691 |
-| The Intrepid Explorer | 3.00% | ~8,691 |
-| The Wise Owl | 3.00% | ~8,691 |
+| Going Through the Potions | 3.00% | ~8,692 |
+| Floo Around the World | 3.00% | ~8,692 |
+| The Intrepid Explorer | 3.00% | ~8,692 |
+| The Wise Owl | 3.00% | ~8,692 |
 | The Good Samaritan | 2.00% | ~5,794 |
 | Put Down Roots | 2.00% | ~5,794 |
 | The Auror's Apprentice | 2.00% | ~5,794 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,738 |
 | Collector's Edition | 0.30% | ~869 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,716 (Ranked 42)  
+Progressed: 289,721 (Ranked 42)  
 Completed: 444 (0.15%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 444 (0.15%) (Ranked 188)
 | 2023-08-06 | 289,549 | 442 |
 | 2023-08-07 | 289,620 | 443 |
 | 2023-08-08 | 289,682 | 443 |
-| 2023-08-09 | 289,716 | 444 |
+| 2023-08-09 | 289,721 | 444 |
 ## Awards
 Max (Character Customization): 21,619  (Ranked 17)  
 Sum: 40,700 (Ranked 30)  

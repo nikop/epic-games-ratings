@@ -59,7 +59,7 @@ Rating: 4.49 (Ranked 576)
 | European Union | 0.60% | ~11 |
 | United States | 0.60% | ~11 |
 | Together we stand | 0.60% | ~11 |
-| Three Cheers for Progress | 0.20% | ~4 |
+| Three Cheers for Progress | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,778 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 251)  

@@ -13,13 +13,13 @@
 | Fitness professional | 77.00% | ~185 |
 | Depressed visitor | 77.00% | ~185 |
 | First defeat | 76.00% | ~182 |
+| Employee of the week | 76.00% | ~182 |
 | Neurotrainer – power gainer! | 75.00% | ~180 |
-| Employee of the week | 75.00% | ~180 |
 | Your own amateur gym | 74.00% | ~178 |
 | Run K, run! | 73.00% | ~175 |
+| Hello, world! | 69.00% | ~166 |
 | Fighting is cool | 68.00% | ~163 |
 | No bullying more | 68.00% | ~163 |
-| Hello, world! | 68.00% | ~163 |
 | Pal of your father? | 65.00% | ~156 |
 | Employee of the month | 64.00% | ~154 |
 | Spirit of the past | 62.00% | ~149 |

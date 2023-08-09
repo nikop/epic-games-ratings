@@ -3,12 +3,12 @@
   "Name": "Warhammer Age of Sigmar: Storm Ground",
   "ProductSlug": "warhammer-age-of-sigmar-storm-ground",
   "Ranking_Rating": 886,
-  "Ranking_Popularity": 510,
-  "Ranking_PopularitySum": 510,
+  "Ranking_Popularity": 511,
+  "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 534,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2021-05-27T09:48:17+00:00",
@@ -48,6 +48,6 @@
   "FirstSeenRating": "2023-03-05T07:58:17.1363016+00:00",
   "LastChanged": "2023-03-31T05:58:09.6964054+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:15.9259953+00:00",
-  "LastUpdate_Ratings": "2023-08-09T17:59:03.5947734+00:00",
-  "LastUpdate_Achievements": "2023-08-09T18:04:52.4591924+00:00"
+  "LastUpdate_Ratings": "2023-08-09T18:59:46.3133589+00:00",
+  "LastUpdate_Achievements": "2023-08-09T19:05:51.2402548+00:00"
 }

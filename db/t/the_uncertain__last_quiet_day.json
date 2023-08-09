@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -669,9 +669,9 @@
       "ID": "NOT_CLUMSY",
       "SetID": "2iigf77",
       "Name": "Not as clumsy or random",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 68
     },
     {
       "ID": "NOT_WHAT_IT_SEEMS",
@@ -757,9 +757,9 @@
       "ID": "THERE_IS_ANOTHER_WAY",
       "SetID": "2iigf77",
       "Name": "There is another way",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 120
     },
     {
       "ID": "UNCERTAIN",
@@ -790,8 +790,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-08-09T18:03:24.2973569+00:00",
+  "LastChanged_Achievements": "2023-08-09T19:04:02.6466224+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:38.566313+00:00",
-  "LastUpdate_Ratings": "2023-08-09T17:59:23.9155012+00:00",
-  "LastUpdate_Achievements": "2023-08-09T18:03:24.297378+00:00"
+  "LastUpdate_Ratings": "2023-08-09T19:00:12.6061913+00:00",
+  "LastUpdate_Achievements": "2023-08-09T19:04:02.6466437+00:00"
 }

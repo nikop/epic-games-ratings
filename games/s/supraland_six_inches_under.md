@@ -1,7 +1,7 @@
 # Supraland Six Inches Under
 [Store](https://store.epicgames.com/en-US/p/supraland-six-inches-under-dd0220)  
 [View Rawdata](../../db/s/supraland_six_inches_under.json)  
-Rating: 4.77 (Ranked 108)  
+Rating: 4.77 (Ranked 109)  
 Number of Ratings: 209  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,17 +22,17 @@ Number of Ratings: 209  (23.09.2022)
 | Magnet | 91.00% | ~1,993 |
 | Industrial Area | 89.00% | ~1,949 |
 | Magnet Repel | 88.00% | ~1,927 |
+| You feel middle classy | 87.00% | ~1,905 |
 | Boomeraxe | 87.00% | ~1,905 |
-| You feel middle classy | 86.00% | ~1,883 |
+| Iron Pickaxe | 87.00% | ~1,905 |
 | Banking District | 86.00% | ~1,883 |
-| Iron Pickaxe | 86.00% | ~1,883 |
 | Arrested | 85.00% | ~1,862 |
 | Zappy Gun | 85.00% | ~1,862 |
 | Got your own one now | 85.00% | ~1,862 |
 | Mission Unlikely | 85.00% | ~1,862 |
 | Don't draw dicks pls | 84.00% | ~1,840 |
 | Ripped | 84.00% | ~1,840 |
-| Beat the big arena | 82.00% | ~1,796 |
+| Beat the big arena | 83.00% | ~1,818 |
 | Force Cube | 82.00% | ~1,796 |
 | Got Battery | 80.00% | ~1,752 |
 | Guard Distracted | 80.00% | ~1,752 |
@@ -61,7 +61,7 @@ Number of Ratings: 209  (23.09.2022)
 | All the chests | 13.00% | ~285 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,190 (Ranked 166)  
-Completed: 262 (11.96%) (Ranked 18)  
+Completed: 263 (12.01%) (Ranked 18)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -162,7 +162,7 @@ Completed: 262 (11.96%) (Ranked 18)
 | 2023-08-06 | 2,187 | 261 |
 | 2023-08-07 | 2,188 | 262 |
 | 2023-08-08 | 2,189 | 262 |
-| 2023-08-09 | 2,190 | 262 |
+| 2023-08-09 | 2,190 | 263 |
 ## Awards
 Max (Challenging Puzzles): 99  (Ranked 335)  
 Sum: 99 (Ranked 415)  

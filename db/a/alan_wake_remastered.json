@@ -3,12 +3,12 @@
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
   "Ranking_Rating": 487,
-  "Ranking_Popularity": 510,
-  "Ranking_PopularitySum": 510,
+  "Ranking_Popularity": 511,
+  "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60591,
+  "EOS_Progressed": 60595,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 648,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10747,6 +10747,11 @@
       "Time": "2023-08-09T18:04:36.2599896+00:00",
       "NumProgressed": 60591,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-09T19:05:31.3098726+00:00",
+      "NumProgressed": 60595,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10758,7 +10763,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22419
+      "UsersEstimate": 22420
     },
     {
       "ID": "02",
@@ -10766,7 +10771,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13936
+      "UsersEstimate": 13937
     },
     {
       "ID": "03",
@@ -10774,7 +10779,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13330
+      "UsersEstimate": 13331
     },
     {
       "ID": "04",
@@ -10790,7 +10795,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12118
+      "UsersEstimate": 12119
     },
     {
       "ID": "06",
@@ -10862,7 +10867,7 @@
       "Name": "Gatekeeper",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6059
+      "UsersEstimate": 6060
     },
     {
       "ID": "15",
@@ -10870,7 +10875,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5453
+      "UsersEstimate": 5454
     },
     {
       "ID": "16",
@@ -10878,7 +10883,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4241
+      "UsersEstimate": 4242
     },
     {
       "ID": "17",
@@ -10886,7 +10891,7 @@
       "Name": "Departure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4241
+      "UsersEstimate": 4242
     },
     {
       "ID": "18",
@@ -10950,7 +10955,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4847
+      "UsersEstimate": 4848
     },
     {
       "ID": "26",
@@ -10990,7 +10995,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6059
+      "UsersEstimate": 6060
     },
     {
       "ID": "31",
@@ -11006,7 +11011,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17571
+      "UsersEstimate": 17573
     },
     {
       "ID": "33",
@@ -11022,7 +11027,7 @@
       "Name": "Energized!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6059
+      "UsersEstimate": 6060
     },
     {
       "ID": "35",
@@ -11030,7 +11035,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18177
+      "UsersEstimate": 18178
     },
     {
       "ID": "36",
@@ -11070,7 +11075,7 @@
       "Name": "Right of Way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4847
+      "UsersEstimate": 4848
     },
     {
       "ID": "41",
@@ -11293,21 +11298,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60591,
+      "Progressed": 60595,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24059,
+      "Progressed": 24063,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-09T18:04:36.2599891+00:00",
+  "LastChanged_Achievements": "2023-08-09T19:05:31.3098723+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-09T17:58:26.8037349+00:00",
-  "LastUpdate_Achievements": "2023-08-09T18:04:36.2600869+00:00"
+  "LastUpdate_Ratings": "2023-08-09T18:58:55.3911345+00:00",
+  "LastUpdate_Achievements": "2023-08-09T19:05:31.3099744+00:00"
 }

@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | [Tier 1] Fireworks | 45.00% | ~5 |
 | [Tier 1] Instant Karma | 27.00% | ~3 |
+| [Tier 1] Worth the trouble | 18.00% | ~2 |
 | [Tier 1] Mix and match | 18.00% | ~2 |
 | [Tier 4] The oncoming storm | 9.00% | ~1 |
-| [Tier 1] Worth the trouble | 9.00% | ~1 |
 | [Tier 2] Team effort | 9.00% | ~1 |
 | [Tier 2] 12 orbits | 0.00% | ~0 |
 | [Tier 4] Against all odds | 0.00% | ~0 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-18T09:00:00+00:00",
     "PcReleaseDate": "2016-10-24T16:00:00+00:00",
@@ -162,9 +162,9 @@
       "ID": "ACHIEVEMENT_ColorManySpheresWithOneBlast",
       "SetID": "ahb97f7",
       "Name": "[Tier 1]\u2003Worth the trouble",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_DoNotDodge",
@@ -307,8 +307,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.7236131+00:00",
   "FirstSeenAchievements": "2023-06-14T13:12:06.2445404+00:00",
   "LastChanged": "2023-03-31T05:58:07.7236132+00:00",
-  "LastChanged_Achievements": "2023-08-09T18:03:54.3935805+00:00",
+  "LastChanged_Achievements": "2023-08-09T19:04:40.3222754+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:28.4627982+00:00",
-  "LastUpdate_Ratings": "2023-08-09T18:00:06.2132968+00:00",
-  "LastUpdate_Achievements": "2023-08-09T18:03:54.3935947+00:00"
+  "LastUpdate_Ratings": "2023-08-09T19:01:07.6810984+00:00",
+  "LastUpdate_Achievements": "2023-08-09T19:04:40.3222905+00:00"
 }

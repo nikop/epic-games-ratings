@@ -3,12 +3,12 @@
   "Name": "Haven",
   "ProductSlug": "haven",
   "Ranking_Rating": 159,
-  "Ranking_Popularity": 510,
-  "Ranking_PopularitySum": 510,
+  "Ranking_Popularity": 511,
+  "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -170,7 +170,7 @@
   "Tags": [],
   "EOS_Progressed": 1387,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -1514,9 +1514,9 @@
       "ID": "13",
       "SetID": "n50no0",
       "Name": "Unstoppable",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 125
+      "UsersEstimate": 139
     },
     {
       "ID": "14",
@@ -1730,8 +1730,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-08-09T18:03:13.2320567+00:00",
+  "LastChanged_Achievements": "2023-08-09T19:03:48.9954895+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:26.7474431+00:00",
-  "LastUpdate_Ratings": "2023-08-09T17:59:59.6308063+00:00",
-  "LastUpdate_Achievements": "2023-08-09T18:03:13.2320814+00:00"
+  "LastUpdate_Ratings": "2023-08-09T19:00:58.4196884+00:00",
+  "LastUpdate_Achievements": "2023-08-09T19:03:48.9955152+00:00"
 }

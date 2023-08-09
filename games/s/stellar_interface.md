@@ -36,6 +36,7 @@
 | Collateral Damage II | 7.00% | ~4 |
 | System Ensign | 5.00% | ~3 |
 | Rambo III | 5.00% | ~3 |
+| Rambo IV | 5.00% | ~3 |
 | Hitchhiker | 5.00% | ~3 |
 | Omicron Theta | 5.00% | ~3 |
 | Omicron Beta | 5.00% | ~3 |
@@ -49,7 +50,6 @@
 | Bronze Foundation | 3.00% | ~2 |
 | Bronze Pest Control | 3.00% | ~2 |
 | Cartridge Hoarder | 3.00% | ~2 |
-| Rambo IV | 3.00% | ~2 |
 | Curious | 3.00% | ~2 |
 | Pilgrim | 3.00% | ~2 |
 | Diligent | 3.00% | ~2 |

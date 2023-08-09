@@ -4,8 +4,8 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3342,
+  "EOS_Progressed": 3343,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2463,6 +2463,11 @@
       "Time": "2023-08-09T17:05:10.2921496+00:00",
       "NumProgressed": 3342,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-09T19:05:12.6004144+00:00",
+      "NumProgressed": 3343,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -2616,9 +2621,9 @@
       "ID": "ACH_M_D2",
       "SetID": "b3fep3o",
       "Name": "War Chest",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_M_D3",
@@ -2977,7 +2982,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3342,
+      "Progressed": 3343,
       "Completed": 0
     }
   ],
@@ -2985,8 +2990,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-08-09T18:04:20.5562261+00:00",
+  "LastChanged_Achievements": "2023-08-09T19:05:12.6004138+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:39.3691778+00:00",
-  "LastUpdate_Ratings": "2023-08-09T18:00:12.416847+00:00",
-  "LastUpdate_Achievements": "2023-08-09T18:04:20.556288+00:00"
+  "LastUpdate_Ratings": "2023-08-09T19:01:16.7477185+00:00",
+  "LastUpdate_Achievements": "2023-08-09T19:05:12.6004723+00:00"
 }

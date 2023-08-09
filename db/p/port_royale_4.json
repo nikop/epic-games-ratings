@@ -3,12 +3,12 @@
   "Name": "Port Royale 4",
   "ProductSlug": "port-royale-4",
   "Ranking_Rating": 925,
-  "Ranking_Popularity": 510,
-  "Ranking_PopularitySum": 510,
+  "Ranking_Popularity": 511,
+  "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 815,
+  "EOS_Progressed": 816,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1690,6 +1690,11 @@
       "Time": "2023-08-09T18:05:11.7514288+00:00",
       "NumProgressed": 815,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-09T19:06:15.3124438+00:00",
+      "NumProgressed": 816,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1701,7 +1706,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "ACH001",
@@ -1709,7 +1714,7 @@
       "Name": "Seafarer",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "ACH002",
@@ -1789,7 +1794,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH012",
@@ -1797,7 +1802,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH013",
@@ -1885,7 +1890,7 @@
       "Name": "Gofer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH024",
@@ -1917,7 +1922,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH028",
@@ -1933,7 +1938,7 @@
       "Name": "Licence to Kill",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACH030",
@@ -1989,7 +1994,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "ACH037",
@@ -2005,7 +2010,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "ACH039",
@@ -2053,7 +2058,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH045",
@@ -2085,7 +2090,7 @@
       "Name": "Megalomania",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH049",
@@ -2093,22 +2098,22 @@
       "Name": "Wholesale",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     }
   ],
   "AchievementSets": [
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 815,
+      "Progressed": 816,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-08-09T18:05:11.7514284+00:00",
+  "LastChanged_Achievements": "2023-08-09T19:06:15.3124433+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:19.8733538+00:00",
-  "LastUpdate_Ratings": "2023-08-09T17:59:06.2437868+00:00",
-  "LastUpdate_Achievements": "2023-08-09T18:05:11.7514698+00:00"
+  "LastUpdate_Ratings": "2023-08-09T18:59:49.8572289+00:00",
+  "LastUpdate_Achievements": "2023-08-09T19:06:15.312483+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1734,9 +1734,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24931,
+  "EOS_Progressed": 24932,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -9974,6 +9974,11 @@
       "Time": "2023-08-09T18:03:04.5315377+00:00",
       "NumProgressed": 24931,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-08-09T19:03:38.5766246+00:00",
+      "NumProgressed": 24932,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 51,
@@ -9993,7 +9998,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 5983
+      "UsersEstimate": 5984
     },
     {
       "ID": "Back_Off",
@@ -10073,7 +10078,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15208
+      "UsersEstimate": 15209
     },
     {
       "ID": "Dont_Need_These",
@@ -10103,9 +10108,9 @@
       "ID": "Escape_Artist",
       "SetID": "819popo",
       "Name": "Escape Artist",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3740
+      "UsersEstimate": 3989
     },
     {
       "ID": "Fragile_Panes",
@@ -10129,7 +10134,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7479
+      "UsersEstimate": 7480
     },
     {
       "ID": "Ghost_Expert",
@@ -10145,7 +10150,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7479
+      "UsersEstimate": 7480
     },
     {
       "ID": "Legions",
@@ -10257,7 +10262,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6731
+      "UsersEstimate": 6732
     },
     {
       "ID": "Skilled",
@@ -10265,7 +10270,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5983
+      "UsersEstimate": 5984
     },
     {
       "ID": "Solo_Capture",
@@ -10289,7 +10294,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21441
+      "UsersEstimate": 21442
     },
     {
       "ID": "Summoner",
@@ -10392,7 +10397,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24931,
+      "Progressed": 24932,
       "Completed": 49
     }
   ],
@@ -10400,8 +10405,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-09T01:55:42.2264368+00:00",
-  "LastChanged_Achievements": "2023-08-09T18:03:04.5315369+00:00",
+  "LastChanged_Achievements": "2023-08-09T19:03:38.5766241+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:01.1115448+00:00",
-  "LastUpdate_Ratings": "2023-08-09T17:59:40.9703495+00:00",
-  "LastUpdate_Achievements": "2023-08-09T18:03:04.5316114+00:00"
+  "LastUpdate_Ratings": "2023-08-09T19:00:33.0990599+00:00",
+  "LastUpdate_Achievements": "2023-08-09T19:03:38.5766983+00:00"
 }
