@@ -92,7 +92,7 @@
 | 88 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 439 | 204 |
 | 88 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 292 |
 | 88 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 509 |
-| 88 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 802 | 153 |
+| 88 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 804 | 153 |
 | 88 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 741 | 162 |
 | 88 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,961 | 57 |
 | 88 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 384 | 217 |
@@ -147,10 +147,10 @@
 | 134 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 509 |
 | 134 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 509 |
 | 147 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 509 |
-| 147 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 802 | 153 |
+| 147 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 802 | 154 |
 | 147 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 6,361 | 54 |
 | 147 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 652 | 173 |
-| 147 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,908 | 48 |
+| 147 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,914 | 48 |
 | 147 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 509 |
 | 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 35,718 | 14 |
 | 147 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 509 |
@@ -916,7 +916,7 @@
 | 908 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 509 |
 | 915 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 535 | 194 |
 | 915 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 181 | 281 |
-| 917 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,125 | 67 |
+| 917 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,128 | 67 |
 | 917 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 509 |
 | 919 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 509 |
 | 919 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.05 | 0 | 509 |
@@ -937,7 +937,7 @@
 | 932 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 509 |
 | 936 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 509 |
 | 937 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 413 |
-| 938 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 394 | 215 |
+| 938 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 398 | 214 |
 | 938 | [Ironcast](games/i/ironcast.md) | 3.94 | 0 | 509 |
 | 938 | [Patron](games/p/patron.md) | 3.94 | 0 | 509 |
 | 941 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 509 |
