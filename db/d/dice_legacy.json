@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 989,
+  "EOS_Progressed": 990,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1334,6 +1334,11 @@
       "Time": "2023-08-08T06:05:04.9330852+00:00",
       "NumProgressed": 989,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-09T04:04:47.2706476+00:00",
+      "NumProgressed": 990,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1545,7 +1550,7 @@
       "Name": "Hear me out",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "RUIN_CLEAR",
@@ -1553,7 +1558,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "SUMMON_BOSS",
@@ -1689,7 +1694,7 @@
       "Name": "Accepting the Prophecy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "WINMATCH_DIFF_STANDARD",
@@ -1704,7 +1709,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 989,
+      "Progressed": 990,
       "Completed": 0
     }
   ],
@@ -1712,8 +1717,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-08-09T03:05:32.1146953+00:00",
+  "LastChanged_Achievements": "2023-08-09T04:04:47.2706472+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:24.6012935+00:00",
-  "LastUpdate_Ratings": "2023-08-09T02:58:44.6896201+00:00",
-  "LastUpdate_Achievements": "2023-08-09T03:05:32.1147407+00:00"
+  "LastUpdate_Ratings": "2023-08-09T03:58:21.5250753+00:00",
+  "LastUpdate_Achievements": "2023-08-09T04:04:47.2706931+00:00"
 }

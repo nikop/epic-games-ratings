@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1676,9 +1676,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 54468,
+  "EOS_Progressed": 54470,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 831,
+  "EOS_NewPlayers": 828,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13581,6 +13581,11 @@
       "Time": "2023-08-09T03:03:39.6553644+00:00",
       "NumProgressed": 54468,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-09T04:03:15.0676008+00:00",
+      "NumProgressed": 54470,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -13592,7 +13597,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 29957
+      "UsersEstimate": 29959
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -13632,7 +13637,7 @@
       "Name": "In Treue Fest",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2723
+      "UsersEstimate": 2724
     },
     {
       "ID": "VERDUN_ACH_ANZAC",
@@ -13648,7 +13653,7 @@
       "Name": "Voor De Koning",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2723
+      "UsersEstimate": 2724
     },
     {
       "ID": "VERDUN_ACH_BRONZE100",
@@ -13712,7 +13717,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 13072
+      "UsersEstimate": 13073
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -13816,7 +13821,7 @@
       "Name": "Extreme Headhunter",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2723
+      "UsersEstimate": 2724
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS1",
@@ -13856,7 +13861,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 21787
+      "UsersEstimate": 21788
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -13880,7 +13885,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 34315
+      "UsersEstimate": 34316
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -13904,7 +13909,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 13072
+      "UsersEstimate": 13073
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -13912,7 +13917,7 @@
       "Name": "Battle hardened",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4357
+      "UsersEstimate": 4358
     },
     {
       "ID": "VERDUN_ACH_LEVEL75",
@@ -13936,7 +13941,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13617
+      "UsersEstimate": 13618
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -13960,7 +13965,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 41940
+      "UsersEstimate": 41942
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -14056,22 +14061,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 20153
+      "UsersEstimate": 20154
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 54468,
+      "Progressed": 54470,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-08-08T02:59:27.0602883+00:00",
-  "LastChanged_Achievements": "2023-08-09T03:03:39.655364+00:00",
+  "LastChanged_Achievements": "2023-08-09T04:03:15.0676+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:22.6281127+00:00",
-  "LastUpdate_Ratings": "2023-08-09T02:59:42.7971223+00:00",
-  "LastUpdate_Achievements": "2023-08-09T03:03:39.6555277+00:00"
+  "LastUpdate_Ratings": "2023-08-09T03:59:08.7557027+00:00",
+  "LastUpdate_Achievements": "2023-08-09T04:03:15.0677458+00:00"
 }

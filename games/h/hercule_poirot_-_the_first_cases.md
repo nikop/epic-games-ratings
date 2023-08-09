@@ -42,7 +42,7 @@ Rating: 4.35 (Ranked 746)
 | Viscount Edwin Van den Bosch | 26.00% | ~107 |
 | Archibald Sterling | 25.00% | ~102 |
 | Well-prepared | 21.00% | ~86 |
-| The Truth | 20.00% | ~82 |
+| The Truth | 21.00% | ~86 |
 | I Like an Audience | 19.00% | ~78 |
 | Sunken Secrets | 18.00% | ~74 |
 | What Else Did I Miss? | 18.00% | ~74 |

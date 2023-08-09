@@ -19,7 +19,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flight of the Kindori Pod | 0.90% | ~1,677 |
 | Seeds of Destruction | 0.80% | ~1,491 |
 | Return to the Tomb | 0.80% | ~1,491 |
-| The Cursed Farmer | 0.80% | ~1,760 |
+| The Cursed Farmer | 0.80% | ~1,761 |
 | Topolah's Tower | 0.80% | ~1,491 |
 | Pros and CONs | 0.70% | ~1,540 |
 | The Witchlight Carnival | 0.70% | ~1,304 |
@@ -155,6 +155,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Premature Betrayal | 0.30% | ~660 |
 | Hopelessly Lost | 0.30% | ~660 |
 | Enter the Sargauth | 0.30% | ~660 |
+| Slow and Steady | 0.30% | ~660 |
 | Lair of the Xanathar | 0.30% | ~660 |
 | Waterdeep Under Siege | 0.30% | ~660 |
 | Crowded Streets | 0.30% | ~660 |
@@ -233,7 +234,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cramped Quarters | 0.20% | ~440 |
 | Who Lurks in Lurkwood | 0.20% | ~440 |
 | A Tale of Two Fiends | 0.20% | ~440 |
-| Slow and Steady | 0.20% | ~440 |
 | A Hero's Entourage | 0.20% | ~440 |
 | Patience is Key | 0.20% | ~440 |
 | Troublesome Prisoner | 0.20% | ~440 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,057 (Ranked 52)  
-Completed: 2,165 (0.98%) (Ranked 114)  
+Progressed: 220,067 (Ranked 52)  
+Completed: 2,166 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -630,7 +630,7 @@ Completed: 2,165 (0.98%) (Ranked 114)
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
-| 2023-08-09 | 220,057 | 2,165 |
+| 2023-08-09 | 220,067 | 2,166 |
 ## Awards
 Max (Diverse Characters): 5,125  (Ranked 67)  
 Sum: 30,950 (Ranked 38)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5668,10 +5668,10 @@
       "Count": 3347
     }
   ],
-  "EOS_Progressed": 220057,
-  "EOS_Completed": 2165,
-  "EOS_NewPlayers": 2279,
-  "EOS_NewCompleters": 23,
+  "EOS_Progressed": 220067,
+  "EOS_Completed": 2166,
+  "EOS_NewPlayers": 2280,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -17613,6 +17613,11 @@
       "Time": "2023-08-09T03:03:28.1031148+00:00",
       "NumProgressed": 220057,
       "NumCompleted": 2165
+    },
+    {
+      "Time": "2023-08-09T04:03:05.8528733+00:00",
+      "NumProgressed": 220067,
+      "NumCompleted": 2166
     }
   ],
   "TotalAchievements": 512,
@@ -19296,7 +19301,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "objective_completed_34",
@@ -19814,9 +19819,9 @@
       "ID": "objective_completed_546",
       "SetID": "cc37lbc",
       "Name": "Slow and Steady",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 440
+      "UsersEstimate": 660
     },
     {
       "ID": "objective_completed_547",
@@ -21719,21 +21724,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 186331,
+      "Progressed": 186341,
       "Completed": 3071
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 220057,
-      "Completed": 2165
+      "Progressed": 220067,
+      "Completed": 2166
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-08T23:59:31.0163027+00:00",
-  "LastChanged_Achievements": "2023-08-09T03:03:28.103114+00:00",
+  "LastChanged_Achievements": "2023-08-09T04:03:05.8528728+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-09T02:59:16.7564519+00:00",
-  "LastUpdate_Achievements": "2023-08-09T03:03:28.1059667+00:00"
+  "LastUpdate_Ratings": "2023-08-09T03:58:49.0229001+00:00",
+  "LastUpdate_Achievements": "2023-08-09T04:03:05.8556023+00:00"
 }

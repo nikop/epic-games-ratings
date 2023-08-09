@@ -15,6 +15,7 @@ Rating: 4.20 (Ranked 851)
 | Workplace Hazard | 3.00% | ~475 |
 | Float Like A Butterfly | 3.00% | ~475 |
 | Reforged | 3.00% | ~475 |
+| The Outer Way | 3.00% | ~475 |
 | In the Pipe, Five by Five | 3.00% | ~475 |
 | What Lies Beneath | 3.00% | ~475 |
 | Crash Site | 3.00% | ~475 |
@@ -25,7 +26,6 @@ Rating: 4.20 (Ranked 851)
 | I Do Belong Here | 2.00% | ~317 |
 | Terminated | 2.00% | ~317 |
 | The Commonality | 2.00% | ~317 |
-| The Outer Way | 2.00% | ~317 |
 | If the SHU Fits... | 2.00% | ~317 |
 | Without A Paddle | 2.00% | ~317 |
 | Desperate Times | 2.00% | ~317 |

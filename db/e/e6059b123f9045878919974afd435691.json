@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 669,
+  "EOS_Progressed": 670,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1401,6 +1401,11 @@
       "Time": "2023-08-09T02:02:33.4679673+00:00",
       "NumProgressed": 669,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-09T04:05:42.0285477+00:00",
+      "NumProgressed": 670,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1410,9 +1415,9 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 382
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1450,9 +1455,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 228
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1484,7 +1489,7 @@
       "Name": "Capraphobia",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1548,7 +1553,7 @@
       "Name": "He\u0027s Getting Crazier",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "BURN_ACHIEVEMENT_4",
@@ -1588,7 +1593,7 @@
       "Name": "The Way It Should Be",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "COOP_ACHIEVEMENT_2",
@@ -1732,7 +1737,7 @@
       "Name": "And There We Go",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -1786,9 +1791,9 @@
       "ID": "MARY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Hostage of the Elderly",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 141
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -1820,7 +1825,7 @@
       "Name": "Ancestral Banquet",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "NOTEM_ACHIEVEMENT_1",
@@ -1939,14 +1944,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 669,
+      "Progressed": 670,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-09T03:06:39.6212408+00:00",
+  "LastChanged_Achievements": "2023-08-09T04:05:42.0285473+00:00",
   "LastUpdate_AppInfo": "2023-08-03T14:57:17.7014877+00:00",
-  "LastUpdate_Ratings": "2023-08-09T02:57:48.0521346+00:00",
-  "LastUpdate_Achievements": "2023-08-09T03:06:39.6213094+00:00"
+  "LastUpdate_Ratings": "2023-08-09T03:57:35.6185241+00:00",
+  "LastUpdate_Achievements": "2023-08-09T04:05:42.0286375+00:00"
 }

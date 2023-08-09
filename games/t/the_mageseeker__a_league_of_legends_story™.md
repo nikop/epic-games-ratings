@@ -41,8 +41,8 @@ Rating: 4.82 (Ranked 66)
 | True power | 15.00% | ~376 |
 | Meltridge | 15.00% | ~376 |
 | The Central Headquarters | 15.00% | ~376 |
+| Cloven Dell Headquarters | 15.00% | ~376 |
 | My heart and sword always for Demacia | 14.00% | ~351 |
-| Cloven Dell Headquarters | 14.00% | ~351 |
 | Embrace the darkness | 12.00% | ~301 |
 | Whispers in the Woods IV | 12.00% | ~301 |
 | I smell fear | 12.00% | ~301 |

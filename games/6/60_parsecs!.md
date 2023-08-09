@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~688 |
-| Space Colonization | 80.00% | ~567 |
-| Friendzone | 79.00% | ~560 |
+| Don't Panic! | 97.00% | ~689 |
+| Space Colonization | 80.00% | ~568 |
+| Friendzone | 79.00% | ~561 |
 | Hello World | 74.00% | ~525 |
 | Space Engineer | 63.00% | ~447 |
 | Tinkerer | 63.00% | ~447 |
-| Dust to Dust | 57.00% | ~404 |
-| Across The Stars | 48.00% | ~340 |
-| Crafty | 47.00% | ~333 |
-| All Seats Taken | 38.00% | ~269 |
+| Dust to Dust | 57.00% | ~405 |
+| Across The Stars | 48.00% | ~341 |
+| Crafty | 47.00% | ~334 |
+| All Seats Taken | 38.00% | ~270 |
 | For Science! | 34.00% | ~241 |
 | Meet the Petersons | 31.00% | ~220 |
 | Stay Cool | 29.00% | ~206 |
-| KIA | 26.00% | ~184 |
+| KIA | 26.00% | ~185 |
 | Mutiny in making | 24.00% | ~170 |
 | Et tu, Astrocitizen? | 20.00% | ~142 |
 | Eco-Shuttle | 19.00% | ~135 |
-| Space Explorer | 16.00% | ~113 |
+| Space Explorer | 15.00% | ~106 |
 | Hands Full | 13.00% | ~92 |
 | Gold Medalist | 12.00% | ~85 |
 | Non-Fiction | 12.00% | ~85 |
@@ -32,7 +32,7 @@
 | Flawless Maegangement | 7.00% | ~50 |
 | Second Life | 7.00% | ~50 |
 | Axel jump in space! | 6.00% | ~43 |
-| Extreme Makeover | 5.00% | ~35 |
+| Extreme Makeover | 5.00% | ~36 |
 | The Improvinator | 4.00% | ~28 |
 | The Last Supper | 4.00% | ~28 |
 | Bovine Domain | 2.00% | ~14 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709 (Ranked 208)  
+Progressed: 710 (Ranked 208)  
 Completed: 1 (0.14%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,6 +130,7 @@ Completed: 1 (0.14%) (Ranked 190)
 | 2023-08-06 | 707 | 1 |
 | 2023-08-07 | 708 | 1 |
 | 2023-08-08 | 709 | 1 |
+| 2023-08-09 | 710 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

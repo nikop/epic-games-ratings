@@ -6426,9 +6426,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 796290,
+  "EOS_Progressed": 796291,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1031,
+  "EOS_NewPlayers": 1029,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18466,6 +18466,11 @@
       "Time": "2023-08-09T03:05:06.341268+00:00",
       "NumProgressed": 796290,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-09T04:04:26.1892707+00:00",
+      "NumProgressed": 796291,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -18501,7 +18506,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 127406
+      "UsersEstimate": 127407
     },
     {
       "ID": "Awakening",
@@ -18525,7 +18530,7 @@
       "Name": "Bad Trip",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 39814
+      "UsersEstimate": 39815
     },
     {
       "ID": "Bailiff",
@@ -18589,7 +18594,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 199072
+      "UsersEstimate": 199073
     },
     {
       "ID": "Chivalrous",
@@ -18901,7 +18906,7 @@
       "Name": "Monk",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 39814
+      "UsersEstimate": 39815
     },
     {
       "ID": "NotSoChristianBurial",
@@ -19005,7 +19010,7 @@
       "Name": "Serial Killer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 39814
+      "UsersEstimate": 39815
     },
     {
       "ID": "Sinner",
@@ -19132,15 +19137,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 796290,
+      "Progressed": 796291,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-08T23:59:54.2047275+00:00",
-  "LastChanged_Achievements": "2023-08-09T03:05:06.3412675+00:00",
+  "LastChanged_Achievements": "2023-08-09T04:04:26.1892701+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:17.2997126+00:00",
-  "LastUpdate_Ratings": "2023-08-09T02:59:38.3758571+00:00",
-  "LastUpdate_Achievements": "2023-08-09T03:05:06.3414248+00:00"
+  "LastUpdate_Ratings": "2023-08-09T03:59:04.7176904+00:00",
+  "LastUpdate_Achievements": "2023-08-09T04:04:26.1894464+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -548,9 +548,9 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Epic_GoldenCoins_10000000",
@@ -588,9 +588,9 @@
       "ID": "Epic_HomeRun_1",
       "SetID": "ba1m2fc",
       "Name": "Home Run",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
@@ -724,9 +724,9 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Epic_SmallBell_1",
@@ -811,8 +811,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-08-09T03:06:35.1403999+00:00",
+  "LastChanged_Achievements": "2023-08-09T04:05:38.3956537+00:00",
   "LastUpdate_AppInfo": "2023-08-03T07:56:56.5073812+00:00",
-  "LastUpdate_Ratings": "2023-08-09T02:58:01.7739409+00:00",
-  "LastUpdate_Achievements": "2023-08-09T03:06:35.1404398+00:00"
+  "LastUpdate_Ratings": "2023-08-09T03:57:47.2712265+00:00",
+  "LastUpdate_Achievements": "2023-08-09T04:05:38.3956988+00:00"
 }

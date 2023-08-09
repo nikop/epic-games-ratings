@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1275,
+  "EOS_Progressed": 1276,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2120,6 +2120,11 @@
       "Time": "2023-08-08T17:05:09.880555+00:00",
       "NumProgressed": 1275,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-09T04:04:11.4203284+00:00",
+      "NumProgressed": 1276,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2163,7 +2168,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "Commandos",
@@ -2267,7 +2272,7 @@
       "Name": "Payback Time",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "How",
@@ -2323,7 +2328,7 @@
       "Name": "Mosquito bite",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "Scout",
@@ -2370,15 +2375,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1275,
+      "Progressed": 1276,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-09T03:04:48.8716577+00:00",
+  "LastChanged_Achievements": "2023-08-09T04:04:11.4203276+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:07.8032848+00:00",
-  "LastUpdate_Ratings": "2023-08-09T03:00:24.4833936+00:00",
-  "LastUpdate_Achievements": "2023-08-09T03:04:48.8716902+00:00"
+  "LastUpdate_Ratings": "2023-08-09T03:59:44.2402348+00:00",
+  "LastUpdate_Achievements": "2023-08-09T04:04:11.4203628+00:00"
 }

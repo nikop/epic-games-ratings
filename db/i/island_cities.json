@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 457,
+  "EOS_Progressed": 458,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 18.16,
+  "EOS_Completed_Percentage": 18.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2208,6 +2208,11 @@
       "Time": "2023-08-07T14:04:23.7509783+00:00",
       "NumProgressed": 457,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-08-09T04:04:01.5981894+00:00",
+      "NumProgressed": 458,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 22,
@@ -2219,7 +2224,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "LEVEL_002",
@@ -2227,7 +2232,7 @@
       "Name": "A tiny town",
       "Percentage": 85,
       "XP": 35,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "LEVEL_003",
@@ -2243,7 +2248,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "LEVEL_005",
@@ -2251,7 +2256,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "LEVEL_006",
@@ -2259,7 +2264,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "LEVEL_007",
@@ -2275,7 +2280,7 @@
       "Name": "Passion for sports",
       "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "LEVEL_009",
@@ -2355,7 +2360,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "LEVEL_019",
@@ -2394,7 +2399,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 457,
+      "Progressed": 458,
       "Completed": 83
     }
   ],
@@ -2402,8 +2407,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-08-09T03:04:36.484745+00:00",
+  "LastChanged_Achievements": "2023-08-09T04:04:01.5981887+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:52.0261252+00:00",
-  "LastUpdate_Ratings": "2023-08-09T02:59:11.7701509+00:00",
-  "LastUpdate_Achievements": "2023-08-09T03:04:36.4847771+00:00"
+  "LastUpdate_Ratings": "2023-08-09T03:58:45.0489162+00:00",
+  "LastUpdate_Achievements": "2023-08-09T04:04:01.5982206+00:00"
 }
