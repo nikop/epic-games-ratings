@@ -67,9 +67,9 @@
 | 65 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.01% |
 | 67 | [Monster Harvest](games/m/monster_harvest.md) | 2.96% |
-| 68 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.94% |
-| 69 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 70 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.87% |
+| 68 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 69 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.87% |
+| 70 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.86% |
 | 71 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 72 | [Destiny 2](games/d/destiny_2.md) | 2.75% |
 | 73 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
@@ -112,12 +112,12 @@
 | 110 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
 | 110 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.01% |
 | 112 | [Adios](games/a/adios.md) | 1.00% |
-| 112 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.00% |
+| 113 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.99% |
 | 114 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 115 | [Sable](games/s/sable.md) | 0.97% |
 | 116 | [Hades](games/h/hades.md) | 0.90% |
 | 117 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 118 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 118 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 119 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
 | 120 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 121 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
@@ -130,8 +130,8 @@
 | 127 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.63% |
 | 129 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
 | 130 | [Potion Permit](games/p/potion_permit.md) | 0.59% |
-| 131 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
-| 132 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
+| 131 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
+| 131 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.57% |
 | 133 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.56% |
 | 133 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 135 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.54% |
