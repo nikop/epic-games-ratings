@@ -234,9 +234,9 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "b36c5kb",
       "Name": "Welcome to Union",
-      "Percentage": 79,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -617,8 +617,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-09T06:03:11.1260333+00:00",
+  "LastChanged_Achievements": "2023-08-09T07:04:05.6541516+00:00",
   "LastUpdate_AppInfo": "2023-08-02T15:56:51.7948798+00:00",
-  "LastUpdate_Ratings": "2023-08-09T05:57:17.8087405+00:00",
-  "LastUpdate_Achievements": "2023-08-09T06:03:11.1260849+00:00"
+  "LastUpdate_Ratings": "2023-08-09T06:57:39.4614296+00:00",
+  "LastUpdate_Achievements": "2023-08-09T07:04:05.6542014+00:00"
 }

@@ -32,7 +32,7 @@ Number of Ratings: 180  (23.09.2022)
 | Mass production | 35.00% | ~539 |
 | Aircraft entrepreneur | 33.00% | ~509 |
 | Crowd in a train | 32.00% | ~493 |
-| The future is now, old man | 31.00% | ~478 |
+| The future is now, old man | 32.00% | ~493 |
 | Not in my backyard | 30.00% | ~462 |
 | City | 29.00% | ~447 |
 | The king of the sea | 29.00% | ~447 |

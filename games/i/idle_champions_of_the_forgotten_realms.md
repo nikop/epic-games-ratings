@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~11,004 |
-| Beast Intentions | 3.00% | ~6,602 |
+| A Brief Tour of the Realms | 5.00% | ~11,005 |
+| Beast Intentions | 3.00% | ~6,603 |
 | Maddening | 2.00% | ~4,402 |
 | The Silken Swamp | 1.00% | ~2,201 |
 | Supply Run | 1.00% | ~2,201 |
-| Vecna Lives! | 1.00% | ~1,863 |
-| Rocky Reception | 1.00% | ~1,863 |
-| Rock and Roll | 1.00% | ~1,863 |
+| Vecna Lives! | 1.00% | ~1,864 |
+| Rocky Reception | 1.00% | ~1,864 |
+| Rock and Roll | 1.00% | ~1,864 |
 | Tall Tales | 0.90% | ~1,677 |
 | Vecna Loots! | 0.90% | ~1,677 |
 | Flight of the Kindori Pod | 0.90% | ~1,677 |
@@ -22,10 +22,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.80% | ~1,761 |
 | Topolah's Tower | 0.80% | ~1,491 |
 | Pros and CONs | 0.70% | ~1,541 |
-| The Witchlight Carnival | 0.70% | ~1,304 |
+| The Witchlight Carnival | 0.70% | ~1,305 |
 | Wet Feet | 0.70% | ~1,541 |
 | Hatchlings Underfoot | 0.70% | ~1,541 |
-| Heatwave | 0.70% | ~1,304 |
+| Heatwave | 0.70% | ~1,305 |
 | Were-verpowered | 0.70% | ~1,541 |
 | A Persistent Buzzing | 0.70% | ~1,541 |
 | Terror in the Dark | 0.70% | ~1,541 |
@@ -33,20 +33,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.70% | ~1,541 |
 | Unearthed Evil | 0.70% | ~1,541 |
 | The Mad Wizard | 0.70% | ~1,541 |
-| The Champion's Guide to Wildspace | 0.70% | ~1,304 |
-| Don't Look Up! | 0.60% | ~1,320 |
-| Heavy Burden | 0.60% | ~1,320 |
+| The Champion's Guide to Wildspace | 0.70% | ~1,305 |
+| Don't Look Up! | 0.60% | ~1,321 |
+| Heavy Burden | 0.60% | ~1,321 |
 | The Evacuation of Waterdeep | 0.60% | ~1,118 |
 | The Dread Domain of Tovag | 0.60% | ~1,118 |
-| Beast Mode | 0.60% | ~1,320 |
-| Low Initiative | 0.60% | ~1,320 |
-| Street War | 0.60% | ~1,320 |
-| March of the Undead | 0.60% | ~1,320 |
-| No Time To Rest | 0.60% | ~1,320 |
-| The Mists of Ravenloft | 0.60% | ~1,320 |
-| The Dinner Party | 0.60% | ~1,320 |
-| The Botched Kidnapping | 0.60% | ~1,320 |
-| The Ring of Regeneration | 0.60% | ~1,320 |
+| Beast Mode | 0.60% | ~1,321 |
+| Low Initiative | 0.60% | ~1,321 |
+| Street War | 0.60% | ~1,321 |
+| March of the Undead | 0.60% | ~1,321 |
+| No Time To Rest | 0.60% | ~1,321 |
+| The Mists of Ravenloft | 0.60% | ~1,321 |
+| The Dinner Party | 0.60% | ~1,321 |
+| The Botched Kidnapping | 0.60% | ~1,321 |
+| The Ring of Regeneration | 0.60% | ~1,321 |
 | Not That Type of Helm! | 0.60% | ~1,118 |
 | Krux's Speed Run | 0.60% | ~1,118 |
 | Thieves of the Coven | 0.50% | ~932 |
@@ -58,6 +58,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wisdom Check | 0.50% | ~1,100 |
 | Invisible Shadows | 0.50% | ~1,100 |
 | Family Entanglements | 0.50% | ~1,100 |
+| Tower on the Lake | 0.50% | ~1,100 |
 | The Crumbling Temple | 0.50% | ~1,100 |
 | Seeking Allies | 0.50% | ~1,100 |
 | Are Ya Chicken? | 0.50% | ~1,100 |
@@ -88,7 +89,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Grand Puzzle | 0.40% | ~880 |
 | Tomb of the Nine Gods | 0.40% | ~880 |
 | The Immortal Warrior | 0.40% | ~880 |
-| Tower on the Lake | 0.40% | ~880 |
 | Trollskull Manor | 0.40% | ~880 |
 | Attack on the Manor | 0.40% | ~880 |
 | The Death Curse | 0.40% | ~880 |
@@ -101,6 +101,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.40% | ~880 |
 | Escort to Waterdeep | 0.40% | ~880 |
 | The Giant's Bane Tavern | 0.40% | ~745 |
+| The Everlasting Rime | 0.40% | ~745 |
 | Lost in the Deep | 0.40% | ~880 |
 | Easily Distracted | 0.40% | ~880 |
 | Underdeep Cartography | 0.40% | ~880 |
@@ -169,7 +170,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Into The Fire | 0.30% | ~559 |
 | Dreamscape | 0.30% | ~559 |
 | The Path of Dreams | 0.30% | ~559 |
-| The Everlasting Rime | 0.30% | ~559 |
 | Close Escort | 0.30% | ~660 |
 | Constant Banditry | 0.30% | ~660 |
 | The Long Haul | 0.30% | ~660 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,075 (Ranked 52)  
+Progressed: 220,095 (Ranked 52)  
 Completed: 2,166 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,7 +630,7 @@ Completed: 2,166 (0.98%) (Ranked 114)
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
-| 2023-08-09 | 220,075 | 2,166 |
+| 2023-08-09 | 220,095 | 2,166 |
 ## Awards
 Max (Diverse Characters): 5,125  (Ranked 67)  
 Sum: 30,950 (Ranked 38)  

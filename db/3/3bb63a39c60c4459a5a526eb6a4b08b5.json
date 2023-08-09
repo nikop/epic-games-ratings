@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 414,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1436,6 +1436,11 @@
       "Time": "2023-08-08T13:09:17.949941+00:00",
       "NumProgressed": 413,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-09T07:04:41.6050953+00:00",
+      "NumProgressed": 414,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1535,7 +1540,7 @@
       "Name": "Fifty",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "First",
@@ -1671,7 +1676,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Ownway",
@@ -1725,9 +1730,9 @@
       "ID": "Restructuring",
       "SetID": "1e89b4i",
       "Name": "Restructuring",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 58
     },
     {
       "ID": "Reviewer",
@@ -1767,7 +1772,7 @@
       "Name": "Time for Management",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "TransportHub",
@@ -1782,14 +1787,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 414,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-09T06:03:35.8449544+00:00",
+  "LastChanged_Achievements": "2023-08-09T07:04:41.6050945+00:00",
   "LastUpdate_AppInfo": "2023-08-08T09:57:08.8049203+00:00",
-  "LastUpdate_Ratings": "2023-08-09T05:57:41.3952944+00:00",
-  "LastUpdate_Achievements": "2023-08-09T06:03:35.8449986+00:00"
+  "LastUpdate_Ratings": "2023-08-09T06:58:13.6979817+00:00",
+  "LastUpdate_Achievements": "2023-08-09T07:04:41.6051404+00:00"
 }

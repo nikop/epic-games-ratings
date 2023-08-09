@@ -2,7 +2,7 @@
   "ID": "e3e826f03e4245d0bd1abc9d09a1a989",
   "Name": "Kraken Academy!!",
   "ProductSlug": "kraken-academy",
-  "Ranking_EOS_Progress": 532,
+  "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 92,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:19.3464325+00:00",
   "LastChanged": "2023-03-31T05:57:19.3464326+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:15.172259+00:00",
-  "LastUpdate_Ratings": "2023-08-09T05:57:10.0018686+00:00",
-  "LastUpdate_Achievements": "2023-08-09T06:06:20.6303862+00:00"
+  "LastUpdate_Ratings": "2023-08-09T06:57:27.5285153+00:00",
+  "LastUpdate_Achievements": "2023-08-09T07:08:27.0629634+00:00"
 }

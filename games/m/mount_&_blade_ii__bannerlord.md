@@ -6,8 +6,8 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~22,229 |
-| Landlord | 32.00% | ~18,719 |
+| Lawbringer | 38.00% | ~22,231 |
+| Landlord | 32.00% | ~18,721 |
 | Bannerlord | 22.00% | ~12,870 |
 | Horde breaker | 22.00% | ~12,870 |
 | Lawmaker | 22.00% | ~12,870 |
@@ -38,27 +38,27 @@ Number of Ratings: 5,603  (23.09.2022)
 | Supreme Emperor | 1.00% | ~585 |
 | Crackshot | 0.80% | ~468 |
 | Undercover | 0.80% | ~468 |
-| Fat Cat | 0.70% | ~409 |
+| Fat Cat | 0.70% | ~410 |
 | Catch | 0.60% | ~351 |
 | Slice 'n dice | 0.40% | ~234 |
-| Mounted Archery | 0.30% | ~175 |
-| Ride it like you stole it | 0.30% | ~175 |
+| Mounted Archery | 0.30% | ~176 |
+| Ride it like you stole it | 0.30% | ~176 |
 | Strike! | 0.20% | ~117 |
-| Best served cold | 0.10% | ~58 |
-| Butcher of Calradia | 0.10% | ~58 |
-| Explorer | 0.10% | ~58 |
-| Great Granny | 0.10% | ~58 |
-| Headhunter | 0.10% | ~58 |
-| Heartbreaker | 0.10% | ~58 |
-| Kingslayer | 0.10% | ~58 |
-| Lance-a-lot | 0.10% | ~58 |
-| Minor Clan | 0.10% | ~58 |
-| Roadkill | 0.10% | ~58 |
-| This is Sparta! | 0.10% | ~58 |
+| Best served cold | 0.10% | ~59 |
+| Butcher of Calradia | 0.10% | ~59 |
+| Explorer | 0.10% | ~59 |
+| Great Granny | 0.10% | ~59 |
+| Headhunter | 0.10% | ~59 |
+| Heartbreaker | 0.10% | ~59 |
+| Kingslayer | 0.10% | ~59 |
+| Lance-a-lot | 0.10% | ~59 |
+| Minor Clan | 0.10% | ~59 |
+| Roadkill | 0.10% | ~59 |
+| This is Sparta! | 0.10% | ~59 |
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,498 (Ranked 86)  
+Progressed: 58,502 (Ranked 86)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 58,354 | 0 |
 | 2023-08-07 | 58,418 | 0 |
 | 2023-08-08 | 58,489 | 0 |
-| 2023-08-09 | 58,498 | 0 |
+| 2023-08-09 | 58,502 | 0 |
 ## Awards
 Max (Character Customization): 6,908  (Ranked 48)  
 Sum: 14,007 (Ranked 67)  

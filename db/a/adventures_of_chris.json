@@ -2,7 +2,7 @@
   "ID": "8c689d262be143168e69fdd60d0615cb",
   "Name": "Adventures of Chris",
   "ProductSlug": "adventures-of-chris-64c13b",
-  "Ranking_EOS_Progress": 532,
+  "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 92,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:23.7727992+00:00",
   "LastChanged": "2023-03-31T05:58:23.7727993+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:40.1019289+00:00",
-  "LastUpdate_Ratings": "2023-08-09T05:58:03.2116502+00:00",
-  "LastUpdate_Achievements": "2023-08-09T06:04:23.3694857+00:00"
+  "LastUpdate_Ratings": "2023-08-09T06:58:46.8862503+00:00",
+  "LastUpdate_Achievements": "2023-08-09T07:05:36.9924397+00:00"
 }

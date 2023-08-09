@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6940,
+  "EOS_Progressed": 6941,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -5452,6 +5452,11 @@
       "Time": "2023-08-08T19:04:41.6058831+00:00",
       "NumProgressed": 6940,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-08-09T07:05:55.5487977+00:00",
+      "NumProgressed": 6941,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 21,
@@ -5487,7 +5492,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -5535,7 +5540,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -5567,7 +5572,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "LIBERATOR",
@@ -5630,7 +5635,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6940,
+      "Progressed": 6941,
       "Completed": 31
     }
   ],
@@ -5638,8 +5643,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-09T06:04:36.030564+00:00",
+  "LastChanged_Achievements": "2023-08-09T07:05:55.5487969+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:44.0074505+00:00",
-  "LastUpdate_Ratings": "2023-08-09T05:58:34.4867709+00:00",
-  "LastUpdate_Achievements": "2023-08-09T06:04:36.0306104+00:00"
+  "LastUpdate_Ratings": "2023-08-09T06:59:32.9111029+00:00",
+  "LastUpdate_Achievements": "2023-08-09T07:05:55.5488561+00:00"
 }

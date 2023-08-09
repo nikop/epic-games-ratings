@@ -17,8 +17,8 @@
 | Neurotrainer – power gainer! | 75.00% | ~179 |
 | Your own amateur gym | 74.00% | ~177 |
 | Run K, run! | 72.00% | ~172 |
+| Hello, world! | 69.00% | ~165 |
 | Fighting is cool | 68.00% | ~163 |
-| Hello, world! | 68.00% | ~163 |
 | No bullying more | 67.00% | ~160 |
 | Pal of your father? | 65.00% | ~155 |
 | Employee of the month | 64.00% | ~153 |

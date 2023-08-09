@@ -2,7 +2,7 @@
   "ID": "06c6603778ed47859ce523af7e0b566b",
   "Name": "Skye Tales",
   "ProductSlug": "skye-tales-02bf5b",
-  "Ranking_EOS_Progress": 532,
+  "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 92,
@@ -367,8 +367,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-21T10:01:39.9967766+00:00",
-  "LastChanged_Achievements": "2023-08-09T06:03:31.4692089+00:00",
+  "LastChanged_Achievements": "2023-08-09T07:04:35.1879985+00:00",
   "LastUpdate_AppInfo": "2023-08-04T11:57:00.8363685+00:00",
-  "LastUpdate_Ratings": "2023-08-09T05:57:28.472221+00:00",
-  "LastUpdate_Achievements": "2023-08-09T06:03:31.4692425+00:00"
+  "LastUpdate_Ratings": "2023-08-09T06:57:53.4933581+00:00",
+  "LastUpdate_Achievements": "2023-08-09T07:04:35.1880313+00:00"
 }

@@ -5668,9 +5668,9 @@
       "Count": 3347
     }
   ],
-  "EOS_Progressed": 220075,
+  "EOS_Progressed": 220095,
   "EOS_Completed": 2166,
-  "EOS_NewPlayers": 2275,
+  "EOS_NewPlayers": 2277,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17623,6 +17623,11 @@
       "Time": "2023-08-09T05:03:07.7918357+00:00",
       "NumProgressed": 220075,
       "NumCompleted": 2166
+    },
+    {
+      "Time": "2023-08-09T07:02:41.8423802+00:00",
+      "NumProgressed": 220095,
+      "NumCompleted": 2166
     }
   ],
   "TotalAchievements": 512,
@@ -17634,7 +17639,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11004
+      "UsersEstimate": 11005
     },
     {
       "ID": "objective_completed_10",
@@ -17738,7 +17743,7 @@
       "Name": "The Witchlight Carnival",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "objective_completed_1056",
@@ -18002,7 +18007,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6602
+      "UsersEstimate": 6603
     },
     {
       "ID": "objective_completed_110",
@@ -18106,7 +18111,7 @@
       "Name": "Don\u0027t Look Up!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "objective_completed_1121",
@@ -18250,7 +18255,7 @@
       "Name": "Heavy Burden",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "objective_completed_1152",
@@ -18314,7 +18319,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "objective_completed_1164",
@@ -18394,7 +18399,7 @@
       "Name": "Heatwave",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "objective_completed_1179",
@@ -18738,7 +18743,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "objective_completed_149",
@@ -18818,7 +18823,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "objective_completed_164",
@@ -18834,7 +18839,7 @@
       "Name": "Street War",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "objective_completed_166",
@@ -18866,7 +18871,7 @@
       "Name": "March of the Undead",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "objective_completed_170",
@@ -18970,7 +18975,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "objective_completed_208",
@@ -18978,7 +18983,7 @@
       "Name": "The Mists of Ravenloft",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "objective_completed_209",
@@ -19050,7 +19055,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "objective_completed_231",
@@ -19082,7 +19087,7 @@
       "Name": "The Botched Kidnapping",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "objective_completed_236",
@@ -19176,9 +19181,9 @@
       "ID": "objective_completed_262",
       "SetID": "cc37lbc",
       "Name": "Tower on the Lake",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 880
+      "UsersEstimate": 1100
     },
     {
       "ID": "objective_completed_263",
@@ -19314,7 +19319,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "objective_completed_35",
@@ -20744,9 +20749,9 @@
       "ID": "objective_completed_695",
       "SetID": "415jc5c",
       "Name": "The Everlasting Rime",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 559
+      "UsersEstimate": 745
     },
     {
       "ID": "objective_completed_696",
@@ -21594,7 +21599,7 @@
       "Name": "The Champion\u0027s Guide to Wildspace",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "objective_completed_1220",
@@ -21658,7 +21663,7 @@
       "Name": "Rocky Reception",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "objective_completed_1376",
@@ -21674,7 +21679,7 @@
       "Name": "Rock and Roll",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "objective_completed_1381",
@@ -21729,21 +21734,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 186349,
+      "Progressed": 186369,
       "Completed": 3071
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 220075,
+      "Progressed": 220095,
       "Completed": 2166
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-08T23:59:31.0163027+00:00",
-  "LastChanged_Achievements": "2023-08-09T05:03:07.7918351+00:00",
+  "LastChanged_Achievements": "2023-08-09T07:02:41.8423793+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-09T05:58:47.9552413+00:00",
-  "LastUpdate_Achievements": "2023-08-09T05:03:07.7945727+00:00"
+  "LastUpdate_Ratings": "2023-08-09T06:59:53.9740254+00:00",
+  "LastUpdate_Achievements": "2023-08-09T07:02:41.8454577+00:00"
 }

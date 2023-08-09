@@ -3466,9 +3466,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 515665,
+  "EOS_Progressed": 515666,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 17101,
+  "EOS_NewPlayers": 17012,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15641,6 +15641,11 @@
       "Time": "2023-08-09T05:03:13.9029056+00:00",
       "NumProgressed": 515665,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-09T07:03:53.0781192+00:00",
+      "NumProgressed": 515666,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -15732,7 +15737,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 391905
+      "UsersEstimate": 391906
     },
     {
       "ID": "2",
@@ -15780,7 +15785,7 @@
       "Name": "First Blood",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 67036
+      "UsersEstimate": 67037
     },
     {
       "ID": "25",
@@ -15908,7 +15913,7 @@
       "Name": "Top 10",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 67036
+      "UsersEstimate": 67037
     },
     {
       "ID": "6",
@@ -15947,7 +15952,7 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 515665,
+      "Progressed": 515666,
       "Completed": 10
     }
   ],
@@ -15955,8 +15960,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-08-09T00:00:04.6816031+00:00",
-  "LastChanged_Achievements": "2023-08-09T06:03:09.3673007+00:00",
+  "LastChanged_Achievements": "2023-08-09T07:03:53.0781184+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:29.7164879+00:00",
-  "LastUpdate_Ratings": "2023-08-09T05:59:10.0226014+00:00",
-  "LastUpdate_Achievements": "2023-08-09T06:03:09.3674023+00:00"
+  "LastUpdate_Ratings": "2023-08-09T07:00:27.1592639+00:00",
+  "LastUpdate_Achievements": "2023-08-09T07:03:53.0782215+00:00"
 }

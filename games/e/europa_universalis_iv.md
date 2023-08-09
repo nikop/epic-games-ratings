@@ -6,21 +6,21 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 8.00% | ~6,633 |
-| Victorious! | 8.00% | ~6,633 |
-| That's a Grand Army | 7.00% | ~5,804 |
-| That is mine! | 7.00% | ~5,804 |
-| Brothers in Arms | 6.00% | ~4,974 |
-| That's a Grand Navy | 6.00% | ~4,974 |
-| Seriously?! | 6.00% | ~4,974 |
-| Cold War | 4.00% | ~3,316 |
-| For the Glory | 4.00% | ~3,316 |
-| Defender of the Faith | 3.00% | ~2,487 |
-| It's all about the money | 3.00% | ~2,487 |
-| Respected | 3.00% | ~2,487 |
-| The Princess is in this Castle | 3.00% | ~2,487 |
-| True Catholic | 3.00% | ~2,487 |
-| Truly Divine Ruler | 3.00% | ~2,487 |
+| Until death do us apart | 8.00% | ~6,634 |
+| Victorious! | 8.00% | ~6,634 |
+| That's a Grand Army | 7.00% | ~5,805 |
+| That is mine! | 7.00% | ~5,805 |
+| Brothers in Arms | 6.00% | ~4,975 |
+| That's a Grand Navy | 6.00% | ~4,975 |
+| Seriously?! | 6.00% | ~4,975 |
+| Cold War | 4.00% | ~3,317 |
+| For the Glory | 4.00% | ~3,317 |
+| Defender of the Faith | 3.00% | ~2,488 |
+| It's all about the money | 3.00% | ~2,488 |
+| Respected | 3.00% | ~2,488 |
+| The Princess is in this Castle | 3.00% | ~2,488 |
+| True Catholic | 3.00% | ~2,488 |
+| Truly Divine Ruler | 3.00% | ~2,488 |
 | Agressive Expander | 2.00% | ~1,658 |
 | Blockader | 2.00% | ~1,658 |
 | Combined Arms | 2.00% | ~1,658 |
@@ -46,11 +46,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Down Under | 0.80% | ~663 |
 | Electable! | 0.70% | ~580 |
 | Populists in Government | 0.70% | ~580 |
-| All belongs to Mother Russia | 0.60% | ~497 |
-| At every continent | 0.60% | ~497 |
-| One Family to Rule them All | 0.60% | ~497 |
-| The pen is mightier than the sword | 0.60% | ~497 |
-| Time Bandit | 0.60% | ~497 |
+| All belongs to Mother Russia | 0.60% | ~498 |
+| At every continent | 0.60% | ~498 |
+| One Family to Rule them All | 0.60% | ~498 |
+| The pen is mightier than the sword | 0.60% | ~498 |
+| Time Bandit | 0.60% | ~498 |
 | Absolutely | 0.50% | ~415 |
 | Early-Modern Warfare | 0.50% | ~415 |
 | Grand Coalition | 0.50% | ~415 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,908 (Ranked 72)  
+Progressed: 82,922 (Ranked 72)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -472,7 +472,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 81,143 | 0 |
 | 2023-08-07 | 82,030 | 0 |
 | 2023-08-08 | 82,784 | 0 |
-| 2023-08-09 | 82,908 | 0 |
+| 2023-08-09 | 82,922 | 0 |
 ## Awards
 Max (Educational): 5,632  (Ranked 62)  
 Sum: 46,491 (Ranked 26)  
