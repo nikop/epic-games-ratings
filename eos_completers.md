@@ -12,7 +12,7 @@
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
-| 13 | [Island Cities](games/i/island_cities.md) | 18.16% |
+| 13 | [Island Cities](games/i/island_cities.md) | 18.12% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.64% |
@@ -39,7 +39,7 @@
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.91% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.84% |
 | 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.35% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.33% |
 | 41 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 6.01% |
 | 43 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
@@ -109,8 +109,8 @@
 | 107 | [A Musical Story](games/a/a_musical_story.md) | 1.11% |
 | 107 | [Trifox](games/t/trifox.md) | 1.11% |
 | 109 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.05% |
-| 110 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.02% |
-| 111 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
+| 110 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
+| 110 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.01% |
 | 112 | [Adios](games/a/adios.md) | 1.00% |
 | 112 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.00% |
 | 114 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
