@@ -10,7 +10,7 @@ Rating: 3.98 (Ranked 932)
 | You Complete Me | 40.00% | ~206,266 |
 | Guardian Angel | 37.00% | ~190,796 |
 | Devil Inside Me | 29.00% | ~149,543 |
-| Fantastic Four | 21.00% | ~108,289 |
+| Fantastic Four | 21.00% | ~108,290 |
 | Killing Spree | 20.00% | ~103,133 |
 | Marksman Novice | 18.00% | ~92,820 |
 | First Blood | 13.00% | ~67,036 |
@@ -18,7 +18,7 @@ Rating: 3.98 (Ranked 932)
 | Now You See Me, Now You Don't | 11.00% | ~56,723 |
 | Marksman Expert | 9.00% | ~46,410 |
 | CQB Novice | 8.00% | ~41,253 |
-| Collateral Damage | 7.00% | ~36,096 |
+| Collateral Damage | 7.00% | ~36,097 |
 | Airborne | 6.00% | ~30,940 |
 | Pacifist | 5.00% | ~25,783 |
 | Last Survivor | 4.00% | ~20,627 |
@@ -43,7 +43,7 @@ Rating: 3.98 (Ranked 932)
 | Nade King Expert | 0.10% | ~516 |
 | Shoot the Knee | 0.10% | ~516 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 515,664 (Ranked 32)  
+Progressed: 515,665 (Ranked 32)  
 Completed: 10 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 10 (0.00%) (Ranked 251)
 | 2023-08-06 | 511,007 | 10 |
 | 2023-08-07 | 513,317 | 10 |
 | 2023-08-08 | 515,603 | 10 |
-| 2023-08-09 | 515,664 | 10 |
+| 2023-08-09 | 515,665 | 10 |
 ## Awards
 Max (Competitive Players): 3,032  (Ranked 94)  
 Sum: 9,829 (Ranked 84)  

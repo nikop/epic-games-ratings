@@ -6237,9 +6237,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 58494,
+  "EOS_Progressed": 58495,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 631,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17872,6 +17872,11 @@
       "Time": "2023-08-09T04:03:42.6422216+00:00",
       "NumProgressed": 58494,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-09T05:03:43.4785479+00:00",
+      "NumProgressed": 58495,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -17963,7 +17968,7 @@
       "Name": "Duelist",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5264
+      "UsersEstimate": 5265
     },
     {
       "ID": "Dynasty",
@@ -17971,7 +17976,7 @@
       "Name": "Dynasty",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5264
+      "UsersEstimate": 5265
     },
     {
       "ID": "Entrepreneur",
@@ -18059,7 +18064,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5264
+      "UsersEstimate": 5265
     },
     {
       "ID": "Jack of All Trades",
@@ -18227,7 +18232,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5849
+      "UsersEstimate": 5850
     },
     {
       "ID": "The king is pleased",
@@ -18243,7 +18248,7 @@
       "Name": "This Is Our Land",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5849
+      "UsersEstimate": 5850
     },
     {
       "ID": "This is Sparta",
@@ -18283,22 +18288,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5264
+      "UsersEstimate": 5265
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 58494,
+      "Progressed": 58495,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-09T01:56:28.7333841+00:00",
-  "LastChanged_Achievements": "2023-08-09T04:03:42.6422211+00:00",
+  "LastChanged_Achievements": "2023-08-09T05:03:43.4785474+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:41.9139555+00:00",
-  "LastUpdate_Ratings": "2023-08-09T04:00:14.0989011+00:00",
-  "LastUpdate_Achievements": "2023-08-09T04:03:42.6423488+00:00"
+  "LastUpdate_Ratings": "2023-08-09T05:00:04.4107884+00:00",
+  "LastUpdate_Achievements": "2023-08-09T05:03:43.478671+00:00"
 }

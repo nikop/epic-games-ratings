@@ -11,16 +11,16 @@ Number of Ratings: 524  (23.09.2022)
 | Float Like a Butterfly | 29.00% | ~17,562 |
 | Nordic Walking | 23.00% | ~13,928 |
 | Bright Falls' Finest | 22.00% | ~13,323 |
-| Under a Thin Layer of Skin | 20.00% | ~12,111 |
+| Under a Thin Layer of Skin | 20.00% | ~12,112 |
 | Park Ranger | 16.00% | ~9,689 |
 | Paging Mr. Wake | 16.00% | ~9,689 |
 | Back! Back, I Say! | 15.00% | ~9,084 |
 | Finders Keepers | 15.00% | ~9,084 |
 | Sound and Fury | 14.00% | ~8,478 |
 | Damn Good Cup of Coffee | 14.00% | ~8,478 |
-| Wheels Within Wheels | 13.00% | ~7,872 |
-| They're Heeeeeere! | 13.00% | ~7,872 |
-| Missed by a Mile | 13.00% | ~7,872 |
+| Wheels Within Wheels | 13.00% | ~7,873 |
+| They're Heeeeeere! | 13.00% | ~7,873 |
+| Missed by a Mile | 13.00% | ~7,873 |
 | Iron Horse | 12.00% | ~7,267 |
 | The Six-Gun Scribe | 12.00% | ~7,267 |
 | Collateral Carnage | 12.00% | ~7,267 |
@@ -52,7 +52,7 @@ Number of Ratings: 524  (23.09.2022)
 | Medical Opinions | 2.00% | ~1,211 |
 | Taken Season | 2.00% | ~1,211 |
 | An Idyllic Small Town | 2.00% | ~1,211 |
-| Iron Will | 2.00% | ~480 |
+| Iron Will | 2.00% | ~481 |
 | Couch Potato | 1.00% | ~606 |
 | Go Gentle Into That Good Light | 1.00% | ~240 |
 | Words Will Never Harm You | 0.70% | ~168 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,557 (Ranked 85)  
+Progressed: 60,558 (Ranked 85)  
 Completed: 64 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 64 (0.11%) (Ranked 195)
 | 2023-08-06 | 60,420 | 64 |
 | 2023-08-07 | 60,481 | 64 |
 | 2023-08-08 | 60,545 | 64 |
-| 2023-08-09 | 60,557 | 64 |
+| 2023-08-09 | 60,558 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

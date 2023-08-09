@@ -96,9 +96,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69349,
+  "EOS_Progressed": 69350,
   "EOS_Completed": 695,
-  "EOS_NewPlayers": 880,
+  "EOS_NewPlayers": 878,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -12231,6 +12231,11 @@
       "Time": "2023-08-09T04:06:19.1755742+00:00",
       "NumProgressed": 69349,
       "NumCompleted": 695
+    },
+    {
+      "Time": "2023-08-09T05:06:20.1252891+00:00",
+      "NumProgressed": 69350,
+      "NumCompleted": 695
     }
   ],
   "TotalAchievements": 25,
@@ -12298,7 +12303,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3467
+      "UsersEstimate": 3468
     },
     {
       "ID": "Fair\u0027sFair",
@@ -12330,7 +12335,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6241
+      "UsersEstimate": 6242
     },
     {
       "ID": "Magnetic Miracles",
@@ -12378,7 +12383,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4854
+      "UsersEstimate": 4855
     },
     {
       "ID": "Piano Man",
@@ -12394,7 +12399,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9015
+      "UsersEstimate": 9016
     },
     {
       "ID": "Sniper",
@@ -12402,7 +12407,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4854
+      "UsersEstimate": 4855
     },
     {
       "ID": "Spicy",
@@ -12441,7 +12446,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 69349,
+      "Progressed": 69350,
       "Completed": 695
     }
   ],
@@ -12449,8 +12454,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-08-09T04:06:19.1755738+00:00",
+  "LastChanged_Achievements": "2023-08-09T05:06:20.1252882+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:13.5185195+00:00",
-  "LastUpdate_Ratings": "2023-08-09T03:57:19.6083792+00:00",
-  "LastUpdate_Achievements": "2023-08-09T04:06:19.1756659+00:00"
+  "LastUpdate_Ratings": "2023-08-09T04:57:17.0561776+00:00",
+  "LastUpdate_Achievements": "2023-08-09T05:06:20.125383+00:00"
 }

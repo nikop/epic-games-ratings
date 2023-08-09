@@ -8,10 +8,10 @@
 | Bullseye! | 87.00% | ~110 |
 | Graduation! | 83.00% | ~105 |
 | Villfir Forest | 79.00% | ~100 |
-| Right in the kisser! | 63.00% | ~79 |
+| Right in the kisser! | 64.00% | ~81 |
+| Duscot Steamcity | 51.00% | ~64 |
 | The Shaman | 50.00% | ~63 |
 | The Thrower | 50.00% | ~63 |
-| Duscot Steamcity | 50.00% | ~63 |
 | The Penguin | 47.00% | ~59 |
 | The Magician | 44.00% | ~55 |
 | The Tunneler | 40.00% | ~50 |
@@ -25,7 +25,7 @@
 | Inferno Ruins | 25.00% | ~32 |
 | I'm Rich | 24.00% | ~30 |
 | Untouchable | 22.00% | ~28 |
-| 1 is all I need | 21.00% | ~26 |
+| 1 is all I need | 22.00% | ~28 |
 | The Slime | 21.00% | ~26 |
 | The Giant | 19.00% | ~24 |
 | The Blacksmith | 17.00% | ~21 |

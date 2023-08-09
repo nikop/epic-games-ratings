@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524526,
+  "EOS_Progressed": 524528,
   "EOS_Completed": 455,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 619,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -12105,6 +12105,11 @@
       "Time": "2023-08-09T04:04:25.2095797+00:00",
       "NumProgressed": 524526,
       "NumCompleted": 455
+    },
+    {
+      "Time": "2023-08-09T05:04:26.2670695+00:00",
+      "NumProgressed": 524528,
+      "NumCompleted": 455
     }
   ],
   "TotalAchievements": 57,
@@ -12124,7 +12129,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 236037
+      "UsersEstimate": 236038
     },
     {
       "ID": "11",
@@ -12132,7 +12137,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 367168
+      "UsersEstimate": 367170
     },
     {
       "ID": "12",
@@ -12148,7 +12153,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68188
+      "UsersEstimate": 68189
     },
     {
       "ID": "14",
@@ -12172,7 +12177,7 @@
       "Name": "Road Less Travelled",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47207
+      "UsersEstimate": 47208
     },
     {
       "ID": "17",
@@ -12196,7 +12201,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 325206
+      "UsersEstimate": 325207
     },
     {
       "ID": "2",
@@ -12212,7 +12217,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 125886
+      "UsersEstimate": 125887
     },
     {
       "ID": "21",
@@ -12228,7 +12233,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 47207
+      "UsersEstimate": 47208
     },
     {
       "ID": "23",
@@ -12340,7 +12345,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 262263
+      "UsersEstimate": 262264
     },
     {
       "ID": "36",
@@ -12372,7 +12377,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 178339
+      "UsersEstimate": 178340
     },
     {
       "ID": "4",
@@ -12412,7 +12417,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 89169
+      "UsersEstimate": 89170
     },
     {
       "ID": "44",
@@ -12444,7 +12449,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 325206
+      "UsersEstimate": 325207
     },
     {
       "ID": "48",
@@ -12452,7 +12457,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 104905
+      "UsersEstimate": 104906
     },
     {
       "ID": "49",
@@ -12460,7 +12465,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 178339
+      "UsersEstimate": 178340
     },
     {
       "ID": "5",
@@ -12492,7 +12497,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 241282
+      "UsersEstimate": 241283
     },
     {
       "ID": "53",
@@ -12571,15 +12576,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 524526,
+      "Progressed": 524528,
       "Completed": 455
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-09T04:04:25.2095791+00:00",
+  "LastChanged_Achievements": "2023-08-09T05:04:26.2670689+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.5047426+00:00",
-  "LastUpdate_Ratings": "2023-08-09T03:58:07.6213284+00:00",
-  "LastUpdate_Achievements": "2023-08-09T04:04:25.2097188+00:00"
+  "LastUpdate_Ratings": "2023-08-09T04:58:05.3924835+00:00",
+  "LastUpdate_Achievements": "2023-08-09T05:04:26.2671942+00:00"
 }

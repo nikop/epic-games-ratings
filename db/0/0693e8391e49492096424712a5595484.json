@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 379,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 6.33,
   "EosHistory": [
@@ -1464,9 +1464,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 265
+      "UsersEstimate": 269
     },
     {
       "ID": "DevilRope",
@@ -1520,9 +1520,9 @@
       "ID": "HastrmanAcorn",
       "SetID": "db30heh",
       "Name": "Do Not Disturb",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 193
+      "UsersEstimate": 197
     },
     {
       "ID": "HastrmanAmanita",
@@ -1672,9 +1672,9 @@
       "ID": "SleepingBasiliskAmanita",
       "SetID": "db30heh",
       "Name": "Wild Dreams",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -1727,8 +1727,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-09T04:05:59.1629076+00:00",
+  "LastChanged_Achievements": "2023-08-09T05:05:59.6949706+00:00",
   "LastUpdate_AppInfo": "2023-08-08T15:57:07.8979254+00:00",
-  "LastUpdate_Ratings": "2023-08-09T03:57:37.4367824+00:00",
-  "LastUpdate_Achievements": "2023-08-09T04:05:59.1629533+00:00"
+  "LastUpdate_Ratings": "2023-08-09T04:57:37.4455567+00:00",
+  "LastUpdate_Achievements": "2023-08-09T05:05:59.6950176+00:00"
 }

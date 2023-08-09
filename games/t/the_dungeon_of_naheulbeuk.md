@@ -6,23 +6,23 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 59.00% | ~123,403 |
-| Where's that freaking Dwarf? | 47.00% | ~98,304 |
-| GG EZ | 28.00% | ~58,564 |
-| Speedrun | 26.00% | ~54,381 |
-| Déjà vu | 21.00% | ~43,923 |
-| Sock! SOCK! | 18.00% | ~37,648 |
-| DM intervention | 13.00% | ~27,191 |
-| Fireproof Wizardess | 10.00% | ~20,916 |
+| Alt+F4 | 59.00% | ~123,408 |
+| Where's that freaking Dwarf? | 47.00% | ~98,308 |
+| GG EZ | 28.00% | ~58,566 |
+| Speedrun | 26.00% | ~54,383 |
+| Déjà vu | 21.00% | ~43,925 |
+| Sock! SOCK! | 18.00% | ~37,650 |
+| DM intervention | 13.00% | ~27,192 |
+| Fireproof Wizardess | 10.00% | ~20,917 |
 | Livin' in a dwarven paradise | 8.00% | ~16,733 |
 | A beer, two curses, three companions | 8.00% | ~16,733 |
-| Way of the Wimp | 7.00% | ~14,641 |
+| Way of the Wimp | 7.00% | ~14,642 |
 | The plot thickens... At the tavern | 5.00% | ~10,458 |
-| Shiny and Crôm | 4.00% | ~8,366 |
-| The Woman in the High Castle | 4.00% | ~8,366 |
-| I am the night | 4.00% | ~8,366 |
-| Team Building Exercise | 4.00% | ~8,366 |
-| Oh, when I'll be level 10... | 4.00% | ~8,366 |
+| Shiny and Crôm | 4.00% | ~8,367 |
+| The Woman in the High Castle | 4.00% | ~8,367 |
+| I am the night | 4.00% | ~8,367 |
+| Team Building Exercise | 4.00% | ~8,367 |
+| Oh, when I'll be level 10... | 4.00% | ~8,367 |
 | The demons' feast | 3.00% | ~6,275 |
 | The Great Library | 3.00% | ~6,275 |
 | Torture and Sensibility | 3.00% | ~6,275 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,158 (Ranked 55)  
+Progressed: 209,166 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 207,966 | 0 |
 | 2023-08-07 | 208,534 | 0 |
 | 2023-08-08 | 209,082 | 0 |
-| 2023-08-09 | 209,158 | 0 |
+| 2023-08-09 | 209,166 | 0 |
 ## Awards
 Max (Character Customization): 157  (Ranked 294)  
 Sum: 157 (Ranked 392)  

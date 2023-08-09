@@ -26,7 +26,7 @@ Number of Ratings: 274  (23.09.2022)
 | RESPWND | 2.00% | ~4,584 |
 | SHINY SHINY GOLD | 2.00% | ~4,584 |
 | HARDCORE | 1.00% | ~2,292 |
-| ACE | 0.70% | ~1,604 |
+| ACE | 0.70% | ~1,605 |
 | TACTICIAN | 0.60% | ~1,375 |
 | GTX COMPETIZIONE | 0.50% | ~1,146 |
 | HIDDEN POWER | 0.50% | ~1,146 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~458 |
 | ENLIGHTENED | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,214 (Ranked 50)  
+Progressed: 229,215 (Ranked 50)  
 Completed: 46 (0.02%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 46 (0.02%) (Ranked 230)
 | 2023-08-06 | 229,063 | 46 |
 | 2023-08-07 | 229,122 | 46 |
 | 2023-08-08 | 229,200 | 46 |
-| 2023-08-09 | 229,214 | 46 |
+| 2023-08-09 | 229,215 | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

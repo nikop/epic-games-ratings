@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,137 (Ranked 153)  
+Progressed: 3,138 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,10 +181,10 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 3,128 | 0 |
 | 2023-08-07 | 3,132 | 0 |
 | 2023-08-08 | 3,136 | 0 |
-| 2023-08-09 | 3,137 | 0 |
+| 2023-08-09 | 3,138 | 0 |
 ## Awards
 Max (Character Customization): 219  (Ranked 264)  
-Sum: 465 (Ranked 305)  
+Sum: 466 (Ranked 305)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
@@ -193,8 +193,8 @@ Diff (max vs sum): -41
 | This game has Amazing Characters | 31 |
 | This game is Highly Recommended | 31 |
 | This game has Amazing Storytelling | 30 |
+| This game has Challenging Combat | 28 |
 | This game has Competitive Players | 27 |
-| This game has Challenging Combat | 27 |
 | This game has Diverse Characters | 25 |
 | This game is Relaxing | 23 |
 | This game has Quickly Understood Controls | 20 |
@@ -297,3 +297,4 @@ Diff (max vs sum): -41
 | 2023-08-03 | 4.59 | - | 218 | 464 |
 | 2023-08-04 | 4.58 | - | 218 | 464 |
 | 2023-08-06 | 4.58 | - | 219 | 465 |
+| 2023-08-09 | 4.58 | - | 219 | 466 |
