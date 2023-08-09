@@ -19,7 +19,7 @@
 | 17 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.97% |
 | 19 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.54% |
-| 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.33% |
+| 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.27% |
 | 21 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.71% |
 | 23 | [Remains](games/r/remains.md) | 10.64% |
@@ -28,7 +28,7 @@
 | 26 | [Sonic Origins](games/s/sonic_origins.md) | 9.79% |
 | 27 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.76% |
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.76% |
-| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.18% |
+| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.52% |
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.62% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
@@ -114,7 +114,7 @@
 | 112 | [Adios](games/a/adios.md) | 1.00% |
 | 112 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.00% |
 | 114 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 114 | [Sable](games/s/sable.md) | 0.98% |
+| 115 | [Sable](games/s/sable.md) | 0.97% |
 | 116 | [Hades](games/h/hades.md) | 0.90% |
 | 117 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 118 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
