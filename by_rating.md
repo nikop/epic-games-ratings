@@ -16,7 +16,7 @@
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 509 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 427 | 206 |
 | 12 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 509 |
-| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,471 | 20 |
+| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,487 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 136 | 305 |
 | 18 | [God of War](games/g/god_of_war.md) | 4.88 | 4,192 | 77 |
 | 18 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,019 | 141 |
@@ -67,7 +67,7 @@
 | 59 | [TUNIC](games/t/tunic.md) | 4.83 | 34 | 441 |
 | 66 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 509 |
 | 66 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,515 | 120 |
-| 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,701 | 60 |
+| 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,707 | 60 |
 | 66 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 509 |
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 509 |
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 446 |
@@ -125,7 +125,7 @@
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 918 | 148 |
 | 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,375 | 75 |
 | 118 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 509 |
-| 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,697 | 117 |
+| 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,699 | 117 |
 | 118 | [Quake](games/q/quake.md) | 4.76 | 48 | 407 |
 | 118 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 9,806 | 36 |
 | 118 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 509 |
@@ -249,7 +249,7 @@
 | 241 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,899 | 81 |
 | 241 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,224 | 90 |
 | 241 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 301,637 | 3 |
-| 241 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 208,962 | 4 |
+| 241 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 209,412 | 4 |
 | 241 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 509 |
 | 241 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 425 | 207 |
 | 241 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 561 | 184 |
@@ -465,7 +465,7 @@
 | 448 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 509 |
 | 448 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,666 | 83 |
 | 448 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 462 |
-| 448 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,170 | 19 |
+| 448 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,178 | 19 |
 | 448 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,759 | 115 |
 | 448 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 57 | 393 |
 | 469 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 509 |

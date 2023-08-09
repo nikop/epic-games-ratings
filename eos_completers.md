@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 45.90% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.54% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.14% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
@@ -29,7 +29,7 @@
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.76% |
 | 26 | [Sonic Origins](games/s/sonic_origins.md) | 9.76% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.52% |
-| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
+| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.62% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -457,6 +457,7 @@
 | 251 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 0.00% |
 | 251 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.00% |
 | 251 | [Seven Doors](games/s/seven_doors.md) | 0.00% |
+| 251 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 0.00% |
 | 251 | [Shadow Gangs](games/s/shadow_gangs.md) | 0.00% |
 | 251 | [Shame Legacy](games/s/shame_legacy.md) | 0.00% |
 | 251 | [Shin-chan Me and the Professor on Summer Vacation](games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 0.00% |
@@ -530,4 +531,4 @@
 | 251 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 251 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 251 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,012 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,013 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

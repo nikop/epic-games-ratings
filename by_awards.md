@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,564,834 | 4.29 | 789 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 497,486 | 4.49 | 576 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 301,637 | 4.68 | 241 |
-| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 208,962 | 4.68 | 241 |
+| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 209,412 | 4.68 | 241 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 192,201 | 4.19 | 862 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 165,513 | 4.88 | 18 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 145,854 | 4.52 | 527 |
@@ -18,8 +18,8 @@
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,762 | 4.65 | 298 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 21,619 | 4.77 | 108 |
 | 18 | [Dauntless](games/d/dauntless.md) | 21,226 | 4.53 | 513 |
-| 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,170 | 4.57 | 448 |
-| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,471 | 4.89 | 12 |
+| 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,178 | 4.57 | 448 |
+| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,487 | 4.89 | 12 |
 | 21 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 16,821 | 4.25 | 819 |
 | 22 | [Warframe](games/w/warframe.md) | 16,389 | 4.61 | 366 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 15,238 | 4.21 | 848 |
@@ -59,7 +59,7 @@
 | 57 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,961 | 4.64 | 316 |
 | 57 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,961 | 4.79 | 88 |
 | 59 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,827 | 4.66 | 274 |
-| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,701 | 4.82 | 66 |
+| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,707 | 4.82 | 66 |
 | 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,645 | 4.75 | 134 |
 | 62 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,632 | 4.69 | 212 |
 | 63 | [Prey](games/p/prey.md) | 5,630 | 4.62 | 349 |
@@ -116,7 +116,7 @@
 | 114 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,766 | 4.63 | 330 |
 | 115 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,759 | 4.57 | 448 |
 | 116 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,755 | 4.71 | 185 |
-| 117 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,697 | 4.76 | 118 |
+| 117 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,699 | 4.76 | 118 |
 | 118 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,687 | 4.51 | 543 |
 | 119 | [Celeste](games/c/celeste.md) | 1,547 | 4.92 | 4 |
 | 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,515 | 4.82 | 66 |
