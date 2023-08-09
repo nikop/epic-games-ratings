@@ -24,9 +24,9 @@ Rating: 3.93 (Ranked 941)
 | ITS crash site | 5.00% | ~74 |
 | “Aliens” | 4.00% | ~59 |
 | Plumber | 3.00% | ~45 |
+| To infinity and beyond! | 3.00% | ~45 |
 | Driver's License | 2.00% | ~30 |
 | Hard Landing | 2.00% | ~30 |
-| To infinity and beyond! | 2.00% | ~30 |
 | Explosive Miner | 1.00% | ~15 |
 | Rocket Jump | 1.00% | ~15 |
 | Caveman | 0.90% | ~13 |

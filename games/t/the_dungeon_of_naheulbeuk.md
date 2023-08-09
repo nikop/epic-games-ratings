@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 0.70% | ~1,466 |
+| Sowwy! | 0.90% | ~1,885 |
 | Livin' in a dwarven paradise | 0.10% | ~209 |
 | Cursed die | 0.10% | ~209 |
 | Holistic Adventuring Party | 0.10% | ~209 |
@@ -39,7 +39,9 @@ Number of Ratings: 118  (23.09.2022)
 | Imposture and Trowels | 0.10% | ~209 |
 | Deep changes | 0.10% | ~209 |
 | A broken clock… | 0.10% | ~209 |
+| Cute Dungeon | 0.10% | ~209 |
 | Mystical Dungeon | 0.10% | ~209 |
+| Power struggle | 0.10% | ~209 |
 | Living legends of the Lands of Fangh | 0.10% | ~209 |
 | Kudos from your DM | 0.10% | ~209 |
 | The Famous Dungeon of Naheulbeuk | 0.10% | ~209 |
@@ -85,9 +87,7 @@ Number of Ratings: 118  (23.09.2022)
 | Hoarding | 0.00% | ~0 |
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
-| Cute Dungeon | 0.00% | ~0 |
 | Gloomy Dungeon | 0.00% | ~0 |
-| Power struggle | 0.00% | ~0 |
 | Hit snooze | 0.00% | ~0 |
 | Minmaxer | 0.00% | ~0 |
 | Iron Golems Tamer | 0.00% | ~0 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Pyrrhic victory | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,362 (Ranked 55)  
+Progressed: 209,401 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 207,966 | 0 |
 | 2023-08-07 | 208,534 | 0 |
 | 2023-08-08 | 209,082 | 0 |
-| 2023-08-09 | 209,362 | 0 |
+| 2023-08-09 | 209,401 | 0 |
 ## Awards
 Max (Character Customization): 157  (Ranked 294)  
 Sum: 157 (Ranked 392)  

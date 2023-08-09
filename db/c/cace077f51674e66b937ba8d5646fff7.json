@@ -4,7 +4,7 @@
   "ProductSlug": "mokoko-x-e2b09d",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-26T18:00:00+00:00",
@@ -584,17 +584,17 @@
       "ID": "ENEMY_28",
       "SetID": "50pdlpn",
       "Name": "Alfonso the Caterpillar Controller",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ENEMY_29",
       "SetID": "50pdlpn",
       "Name": "Chu Chao the Machinist",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ENEMY_3",
@@ -608,17 +608,17 @@
       "ID": "ENEMY_30",
       "SetID": "50pdlpn",
       "Name": "Tuck the Duck",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ENEMY_31",
       "SetID": "50pdlpn",
       "Name": "Alfonso \u0026 Chu Chao \u0026 Tuck",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ENEMY_4",
@@ -672,17 +672,17 @@
       "ID": "ENEMY_ARCADE_0",
       "SetID": "50pdlpn",
       "Name": "Arcade - Federic the Conscious Toy",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ENEMY_ARCADE_1",
       "SetID": "50pdlpn",
       "Name": "Arcade - Norman the Useless Gyroscope",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ENEMY_ARCADE_10",
@@ -768,9 +768,9 @@
       "ID": "ENEMY_ARCADE_2",
       "SetID": "50pdlpn",
       "Name": "Arcade - Vanunu the Heartless but not Soulless Emperor",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ENEMY_ARCADE_20",
@@ -856,9 +856,9 @@
       "ID": "ENEMY_ARCADE_3",
       "SetID": "50pdlpn",
       "Name": "Arcade - Federic, Norman, Vanunu",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ENEMY_ARCADE_30",
@@ -880,41 +880,41 @@
       "ID": "ENEMY_ARCADE_4",
       "SetID": "50pdlpn",
       "Name": "Arcade - Khalil the Grim Ant",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ENEMY_ARCADE_5",
       "SetID": "50pdlpn",
       "Name": "Arcade - Scorpon-pink.png the PNG File",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ENEMY_ARCADE_6",
       "SetID": "50pdlpn",
       "Name": "Arcade - Mr. Fyodorov the Imaginary Spider",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ENEMY_ARCADE_7",
       "SetID": "50pdlpn",
       "Name": "Arcade - Khalil, Scorpon-pink.png, Mr. Fyodorov",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ENEMY_ARCADE_8",
       "SetID": "50pdlpn",
       "Name": "Arcade - Kabeer the Demonic Headphone",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ENEMY_ARCADE_9",
@@ -951,8 +951,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-08-09T16:07:05.3833998+00:00",
+  "LastChanged_Achievements": "2023-08-09T17:07:10.7202044+00:00",
   "LastUpdate_AppInfo": "2023-08-07T15:57:01.4407809+00:00",
-  "LastUpdate_Ratings": "2023-08-09T15:58:22.8636248+00:00",
-  "LastUpdate_Achievements": "2023-08-09T16:07:05.3834723+00:00"
+  "LastUpdate_Ratings": "2023-08-09T16:58:12.6976757+00:00",
+  "LastUpdate_Achievements": "2023-08-09T17:07:10.7202829+00:00"
 }

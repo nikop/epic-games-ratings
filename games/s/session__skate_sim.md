@@ -6,8 +6,8 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 58.00% | ~1,571 |
-| Keeping it classy | 27.00% | ~731 |
+| You're free now! | 58.00% | ~1,572 |
+| Keeping it classy | 27.00% | ~732 |
 | Welcome to the family | 21.00% | ~569 |
 | The finer things in life | 18.00% | ~488 |
 | Backpacker | 13.00% | ~352 |
@@ -26,12 +26,12 @@ Number of Ratings: 111  (23.09.2022)
 | G'Day Mate! | 6.00% | ~163 |
 | Sup widdit big dog! | 6.00% | ~163 |
 | Tight lipslides | 6.00% | ~163 |
-| Commence the Hijinx! | 5.00% | ~135 |
-| Globetrotter | 5.00% | ~135 |
-| Laid back | 5.00% | ~135 |
-| NAHELL! | 5.00% | ~135 |
-| Purple passion | 5.00% | ~135 |
-| Squad goals | 5.00% | ~135 |
+| Commence the Hijinx! | 5.00% | ~136 |
+| Globetrotter | 5.00% | ~136 |
+| Laid back | 5.00% | ~136 |
+| NAHELL! | 5.00% | ~136 |
+| Purple passion | 5.00% | ~136 |
+| Squad goals | 5.00% | ~136 |
 | Cops called! | 4.00% | ~108 |
 | DIY Boss | 4.00% | ~108 |
 | G.O.A.T. status | 4.00% | ~108 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,709 (Ranked 160)  
+Progressed: 2,710 (Ranked 160)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-05 | 2,702 | 0 |
 | 2023-08-06 | 2,703 | 0 |
 | 2023-08-08 | 2,708 | 0 |
-| 2023-08-09 | 2,709 | 0 |
+| 2023-08-09 | 2,710 | 0 |
 ## Awards
 Max (Highly Recommended): 52  (Ranked 396)  
 Sum: 447 (Ranked 308)  

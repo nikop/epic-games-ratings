@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 184,
+  "EOS_Progressed": 185,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.07,
+  "EOS_Completed_Percentage": 7.03,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -736,6 +736,11 @@
       "Time": "2023-08-07T10:06:16.3344124+00:00",
       "NumProgressed": 184,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-09T17:06:34.1351493+00:00",
+      "NumProgressed": 185,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -745,9 +750,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 104
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -763,7 +768,7 @@
       "Name": "Cruise ship",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -771,7 +776,7 @@
       "Name": "Ducks adrift",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -785,9 +790,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 107
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -811,23 +816,23 @@
       "Name": "Family pond",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 68
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 57
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -835,7 +840,7 @@
       "Name": "Way to the shore",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -843,15 +848,15 @@
       "Name": "Private pool",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "8d3ci0",
       "Name": "Abducktion",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 95,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -859,7 +864,7 @@
       "Name": "On fire",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -874,14 +879,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 184,
+      "Progressed": 185,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-09T16:06:28.6191907+00:00",
+  "LastChanged_Achievements": "2023-08-09T17:06:34.1351487+00:00",
   "LastUpdate_AppInfo": "2023-08-05T14:56:58.1488274+00:00",
-  "LastUpdate_Ratings": "2023-08-09T15:57:54.8560873+00:00",
-  "LastUpdate_Achievements": "2023-08-09T16:06:28.6192044+00:00"
+  "LastUpdate_Ratings": "2023-08-09T16:57:47.5640484+00:00",
+  "LastUpdate_Achievements": "2023-08-09T17:06:34.1351668+00:00"
 }

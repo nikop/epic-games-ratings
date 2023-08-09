@@ -50,7 +50,7 @@ Rating: 4.58 (Ranked 426)
 | It's a horror game | 0.90% | ~6 |
 | Smells like teen spirit | 0.90% | ~6 |
 | Got 9999 problem but a Zombie ain't one | 0.90% | ~6 |
-| Friends Reunited | 0.60% | ~4 |
+| Friends Reunited | 0.70% | ~5 |
 | Arcadeception | 0.60% | ~4 |
 | Corporate Restructrure | 0.40% | ~3 |
 | Sonically Youthful | 0.40% | ~3 |

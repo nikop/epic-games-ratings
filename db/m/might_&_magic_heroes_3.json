@@ -2,9 +2,9 @@
   "ID": "4912067a5f4f4346b312aa226b2787ac",
   "Name": "Might \u0026 Magic Heroes 3",
   "ProductSlug": "might-and-magic-heroes-3",
-  "Ranking_Rating": 100,
+  "Ranking_Rating": 88,
   "Ranking_Popularity": 408,
-  "Ranking_PopularitySum": 333,
+  "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 534,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 357,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.78,
+  "Rating": 4.79,
   "NumberOfRatings": 165,
   "RatingHistory": [
     {
@@ -1121,10 +1121,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 332,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-08-09T16:59:10.355353+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 334,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 332,
+  "NumberOfAwards": 334,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1162,7 +1168,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1186,7 +1192,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1206,8 +1212,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2023-08-09T07:59:11.4937654+00:00",
+  "LastChanged": "2023-08-09T16:59:10.3553529+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:44.961484+00:00",
-  "LastUpdate_Ratings": "2023-08-09T15:59:10.7750035+00:00",
-  "LastUpdate_Achievements": "2023-08-09T16:07:04.3133535+00:00"
+  "LastUpdate_Ratings": "2023-08-09T16:59:10.3553534+00:00",
+  "LastUpdate_Achievements": "2023-08-09T17:07:09.7644296+00:00"
 }

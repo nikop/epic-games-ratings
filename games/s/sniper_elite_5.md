@@ -22,6 +22,7 @@ Rating: 4.43 (Ranked 657)
 | No Stone Unturned | 3.00% | ~103 |
 | Organ Grinder | 3.00% | ~103 |
 | Gunslinger | 3.00% | ~103 |
+| Skirmisher | 3.00% | ~103 |
 | Der Geist | 3.00% | ~103 |
 | Snake in the Grass | 3.00% | ~103 |
 | Brains of the Operation | 3.00% | ~103 |
@@ -29,7 +30,6 @@ Rating: 4.43 (Ranked 657)
 | Enemy at the Gates | 2.00% | ~69 |
 | Fields of Glory | 2.00% | ~69 |
 | Just a Flesh Wound | 2.00% | ~69 |
-| Skirmisher | 2.00% | ~69 |
 | Set Europe Ablaze | 2.00% | ~69 |
 | Precision Is Key | 2.00% | ~69 |
 | My Little Friend | 2.00% | ~69 |

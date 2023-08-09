@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~11,010 |
-| Beast Intentions | 3.00% | ~6,606 |
+| A Brief Tour of the Realms | 5.00% | ~11,011 |
+| Beast Intentions | 3.00% | ~6,607 |
 | Maddening | 2.00% | ~4,404 |
 | The Silken Swamp | 1.00% | ~2,202 |
 | Supply Run | 1.00% | ~2,202 |
@@ -21,18 +21,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Return to the Tomb | 0.80% | ~1,492 |
 | The Cursed Farmer | 0.80% | ~1,762 |
 | Topolah's Tower | 0.80% | ~1,492 |
-| Pros and CONs | 0.70% | ~1,541 |
+| Pros and CONs | 0.70% | ~1,542 |
 | The Witchlight Carnival | 0.70% | ~1,305 |
-| Wet Feet | 0.70% | ~1,541 |
-| Hatchlings Underfoot | 0.70% | ~1,541 |
+| Wet Feet | 0.70% | ~1,542 |
+| Hatchlings Underfoot | 0.70% | ~1,542 |
 | Heatwave | 0.70% | ~1,305 |
-| Were-verpowered | 0.70% | ~1,541 |
-| A Persistent Buzzing | 0.70% | ~1,541 |
-| Terror in the Dark | 0.70% | ~1,541 |
-| A Mysterious Summons | 0.70% | ~1,541 |
-| Building Trust | 0.70% | ~1,541 |
-| Unearthed Evil | 0.70% | ~1,541 |
-| The Mad Wizard | 0.70% | ~1,541 |
+| Were-verpowered | 0.70% | ~1,542 |
+| A Persistent Buzzing | 0.70% | ~1,542 |
+| Terror in the Dark | 0.70% | ~1,542 |
+| A Mysterious Summons | 0.70% | ~1,542 |
+| Building Trust | 0.70% | ~1,542 |
+| Unearthed Evil | 0.70% | ~1,542 |
+| The Mad Wizard | 0.70% | ~1,542 |
 | The Champion's Guide to Wildspace | 0.70% | ~1,305 |
 | Don't Look Up! | 0.60% | ~1,321 |
 | Heavy Burden | 0.60% | ~1,321 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,204 (Ranked 52)  
+Progressed: 220,218 (Ranked 52)  
 Completed: 2,167 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,7 +630,7 @@ Completed: 2,167 (0.98%) (Ranked 114)
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
-| 2023-08-09 | 220,204 | 2,167 |
+| 2023-08-09 | 220,218 | 2,167 |
 ## Awards
 Max (Diverse Characters): 5,128  (Ranked 67)  
 Sum: 30,953 (Ranked 38)  

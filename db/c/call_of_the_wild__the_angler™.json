@@ -600,7 +600,7 @@
   ],
   "EOS_Progressed": 4867,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5404,9 +5404,9 @@
       "ID": "ACHIEVEMENT_010",
       "SetID": "1a05lfd",
       "Name": "License to Gill",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1655
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -5627,8 +5627,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-08-07T01:58:12.280652+00:00",
-  "LastChanged_Achievements": "2023-08-09T16:05:00.0750639+00:00",
+  "LastChanged_Achievements": "2023-08-09T17:05:04.886277+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:44.5236743+00:00",
-  "LastUpdate_Ratings": "2023-08-09T16:01:18.0317747+00:00",
-  "LastUpdate_Achievements": "2023-08-09T16:05:00.0751141+00:00"
+  "LastUpdate_Ratings": "2023-08-09T17:01:17.927213+00:00",
+  "LastUpdate_Achievements": "2023-08-09T17:05:04.8863341+00:00"
 }

@@ -130,7 +130,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2510,
+  "EOS_Progressed": 2511,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -3345,6 +3345,11 @@
       "Time": "2023-08-09T08:04:07.0721785+00:00",
       "NumProgressed": 2510,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-09T17:04:28.4721252+00:00",
+      "NumProgressed": 2511,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -3388,7 +3393,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -3404,7 +3409,7 @@
       "Name": "Elemental master",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -3420,15 +3425,15 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
       "SetID": "3pe2bac",
       "Name": "My heart and sword always for Demacia",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 352
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -3436,7 +3441,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1959
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3452,7 +3457,7 @@
       "Name": "Friendly fire",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -3468,7 +3473,7 @@
       "Name": "I chose my shackles",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -3476,7 +3481,7 @@
       "Name": "Past trauma",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -3500,7 +3505,7 @@
       "Name": "True power",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -3540,7 +3545,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2309
+      "UsersEstimate": 2310
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3548,7 +3553,7 @@
       "Name": "Meltridge",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -3636,7 +3641,7 @@
       "Name": "The Central Headquarters",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -3660,7 +3665,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3692,15 +3697,15 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
       "SetID": "3pe2bac",
       "Name": "Cypress Glen Headquarters",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 828
+      "UsersEstimate": 804
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -3722,9 +3727,9 @@
       "ID": "STB_SECONDARY_ASSAULT_V",
       "SetID": "3pe2bac",
       "Name": "Cloven Dell Headquarters",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 352
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -3732,7 +3737,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3779,7 +3784,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2510,
+      "Progressed": 2511,
       "Completed": 5
     }
   ],
@@ -3787,8 +3792,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-08-09T16:04:24.1659307+00:00",
+  "LastChanged_Achievements": "2023-08-09T17:04:28.4721246+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:18.2583768+00:00",
-  "LastUpdate_Ratings": "2023-08-09T15:58:48.5354913+00:00",
-  "LastUpdate_Achievements": "2023-08-09T16:04:24.1659807+00:00"
+  "LastUpdate_Ratings": "2023-08-09T16:58:43.5620855+00:00",
+  "LastUpdate_Achievements": "2023-08-09T17:04:28.4721926+00:00"
 }
