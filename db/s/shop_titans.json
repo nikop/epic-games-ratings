@@ -5494,9 +5494,9 @@
       "Count": 3732
     }
   ],
-  "EOS_Progressed": 134172,
+  "EOS_Progressed": 134174,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16769,6 +16769,11 @@
       "Time": "2023-08-09T00:05:13.1662185+00:00",
       "NumProgressed": 134172,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2023-08-09T02:00:46.1895951+00:00",
+      "NumProgressed": 134174,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 112,
@@ -17010,9 +17015,9 @@
       "ID": "commonres01",
       "SetID": "anfd17p",
       "Name": "Basic in Bulk",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 939
+      "UsersEstimate": 1073
     },
     {
       "ID": "commonres02",
@@ -17626,9 +17631,9 @@
       "ID": "uncommonres02",
       "SetID": "anfd17p",
       "Name": "Exotic Commodities",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 268
     },
     {
       "ID": "uncommonres03",
@@ -17675,15 +17680,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134172,
+      "Progressed": 134174,
       "Completed": 131
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-08T17:59:39.6410891+00:00",
-  "LastChanged_Achievements": "2023-08-09T00:05:13.1662175+00:00",
+  "LastChanged_Achievements": "2023-08-09T02:00:46.1895946+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.2056858+00:00",
-  "LastUpdate_Ratings": "2023-08-08T23:59:55.781115+00:00",
-  "LastUpdate_Achievements": "2023-08-09T00:05:13.166463+00:00"
+  "LastUpdate_Ratings": "2023-08-09T01:55:02.3239811+00:00",
+  "LastUpdate_Achievements": "2023-08-09T02:00:46.1898262+00:00"
 }

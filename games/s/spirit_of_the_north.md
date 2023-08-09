@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~44,193 |
-| INFUSED WITH LIGHT | 53.00% | ~34,445 |
-| FOXIN' AROUND | 29.00% | ~18,847 |
-| FETCH | 27.00% | ~17,547 |
-| BLOOMS OF LIGHT | 26.00% | ~16,897 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~44,195 |
+| INFUSED WITH LIGHT | 53.00% | ~34,446 |
+| FOXIN' AROUND | 29.00% | ~18,848 |
+| FETCH | 27.00% | ~17,548 |
+| BLOOMS OF LIGHT | 26.00% | ~16,898 |
 | BEST FRIENDS | 22.00% | ~14,298 |
-| AWAKEN | 21.00% | ~13,648 |
-| ERADICATE | 21.00% | ~13,648 |
-| SPIRIT BARK | 21.00% | ~13,648 |
-| GARDEN OF LIGHT | 18.00% | ~11,698 |
-| SPIRIT FORM | 16.00% | ~10,398 |
-| UPROOTING DARKNESS | 15.00% | ~9,748 |
-| WRITTEN IN STONE | 15.00% | ~9,748 |
+| AWAKEN | 21.00% | ~13,649 |
+| ERADICATE | 21.00% | ~13,649 |
+| SPIRIT BARK | 21.00% | ~13,649 |
+| GARDEN OF LIGHT | 18.00% | ~11,699 |
+| SPIRIT FORM | 16.00% | ~10,399 |
+| UPROOTING DARKNESS | 15.00% | ~9,749 |
+| WRITTEN IN STONE | 15.00% | ~9,749 |
 | WEIGHTLESS | 12.00% | ~7,799 |
 | SPIRIT DASH | 11.00% | ~7,149 |
 | OLD COMPANION | 9.00% | ~5,849 |
 | PLAGUE DOCTOR | 8.00% | ~5,199 |
 | SPIRITED AWAY | 8.00% | ~5,199 |
-| MATCH MAKER | 7.00% | ~4,549 |
-| NORTHERN LIGHTS | 7.00% | ~4,549 |
+| MATCH MAKER | 7.00% | ~4,550 |
+| NORTHERN LIGHTS | 7.00% | ~4,550 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,600 |
 | ANCIENT HISTORY | 3.00% | ~1,950 |
 | NONE FORGOTTEN | 2.00% | ~1,300 |
 | KINDRED SPIRITS | 0.60% | ~390 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,990 (Ranked 83)  
+Progressed: 64,993 (Ranked 83)  
 Completed: 337 (0.52%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 337 (0.52%) (Ranked 137)
 | 2023-08-06 | 64,793 | 335 |
 | 2023-08-07 | 64,888 | 336 |
 | 2023-08-08 | 64,989 | 337 |
-| 2023-08-09 | 64,990 | 337 |
+| 2023-08-09 | 64,993 | 337 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 479)  
 Sum: 113 (Ranked 410)  

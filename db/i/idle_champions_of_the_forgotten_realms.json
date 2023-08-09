@@ -5668,9 +5668,9 @@
       "Count": 3347
     }
   ],
-  "EOS_Progressed": 220021,
+  "EOS_Progressed": 220046,
   "EOS_Completed": 2165,
-  "EOS_NewPlayers": 2269,
+  "EOS_NewPlayers": 2279,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17603,6 +17603,11 @@
       "Time": "2023-08-09T00:03:29.4880406+00:00",
       "NumProgressed": 220021,
       "NumCompleted": 2165
+    },
+    {
+      "Time": "2023-08-09T01:59:12.9708926+00:00",
+      "NumProgressed": 220046,
+      "NumCompleted": 2165
     }
   ],
   "TotalAchievements": 512,
@@ -17614,7 +17619,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11001
+      "UsersEstimate": 11002
     },
     {
       "ID": "objective_completed_10",
@@ -17622,7 +17627,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4400
+      "UsersEstimate": 4401
     },
     {
       "ID": "objective_completed_100",
@@ -17750,7 +17755,7 @@
       "Name": "Thieves of the Coven",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "objective_completed_1061",
@@ -18238,7 +18243,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "objective_completed_1153",
@@ -18310,7 +18315,7 @@
       "Name": "A Demi-god\u0027s Defender",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "objective_completed_1168",
@@ -18350,7 +18355,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "objective_completed_1174",
@@ -18700,9 +18705,9 @@
       "ID": "objective_completed_1350",
       "SetID": "415jc5c",
       "Name": "Welcome to the Rock",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 745
+      "UsersEstimate": 932
     },
     {
       "ID": "objective_completed_1351",
@@ -20444,9 +20449,9 @@
       "ID": "objective_completed_640",
       "SetID": "415jc5c",
       "Name": "The Path of Dreams",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 373
+      "UsersEstimate": 559
     },
     {
       "ID": "objective_completed_641",
@@ -21606,7 +21611,7 @@
       "Name": "Calcryx Tricks",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "objective_completed_593",
@@ -21614,7 +21619,7 @@
       "Name": "Goblin Halls: the Next Generation",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "objective_completed_663",
@@ -21622,7 +21627,7 @@
       "Name": "Bazaar Companions",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "objective_completed_668",
@@ -21630,7 +21635,7 @@
       "Name": "Bahamut\u0027s Army",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "objective_completed_1375",
@@ -21686,7 +21691,7 @@
       "Name": "Topolah\u0027s Tower",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "objective_completed_1391",
@@ -21702,28 +21707,28 @@
       "Name": "Animated Giff",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 186295,
-      "Completed": 3069
+      "Progressed": 186320,
+      "Completed": 3070
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 220021,
+      "Progressed": 220046,
       "Completed": 2165
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-08T23:59:31.0163027+00:00",
-  "LastChanged_Achievements": "2023-08-09T00:03:29.4880401+00:00",
+  "LastChanged_Achievements": "2023-08-09T01:59:12.970892+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-08T23:59:31.0163033+00:00",
-  "LastUpdate_Achievements": "2023-08-09T00:03:29.4915163+00:00"
+  "LastUpdate_Ratings": "2023-08-09T01:54:39.1667861+00:00",
+  "LastUpdate_Achievements": "2023-08-09T01:59:12.9738468+00:00"
 }

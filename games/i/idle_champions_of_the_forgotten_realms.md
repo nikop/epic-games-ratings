@@ -6,9 +6,9 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~11,001 |
+| A Brief Tour of the Realms | 5.00% | ~11,002 |
 | Beast Intentions | 3.00% | ~6,601 |
-| Maddening | 2.00% | ~4,400 |
+| Maddening | 2.00% | ~4,401 |
 | The Silken Swamp | 1.00% | ~2,200 |
 | Supply Run | 1.00% | ~2,200 |
 | Vecna Lives! | 1.00% | ~1,863 |
@@ -17,10 +17,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.90% | ~1,677 |
 | Vecna Loots! | 0.90% | ~1,677 |
 | Flight of the Kindori Pod | 0.90% | ~1,677 |
-| Seeds of Destruction | 0.80% | ~1,490 |
-| Return to the Tomb | 0.80% | ~1,490 |
+| Seeds of Destruction | 0.80% | ~1,491 |
+| Return to the Tomb | 0.80% | ~1,491 |
 | The Cursed Farmer | 0.80% | ~1,760 |
-| Topolah's Tower | 0.80% | ~1,490 |
+| Topolah's Tower | 0.80% | ~1,491 |
 | Pros and CONs | 0.70% | ~1,540 |
 | The Witchlight Carnival | 0.70% | ~1,304 |
 | Wet Feet | 0.70% | ~1,540 |
@@ -48,10 +48,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.60% | ~1,320 |
 | Not That Type of Helm! | 0.60% | ~1,118 |
 | Krux's Speed Run | 0.60% | ~1,118 |
-| Thieves of the Coven | 0.50% | ~931 |
-| A Demi-god's Defender | 0.50% | ~931 |
+| Thieves of the Coven | 0.50% | ~932 |
+| A Demi-god's Defender | 0.50% | ~932 |
 | Friends of the Forest | 0.50% | ~1,100 |
 | Homecoming | 0.50% | ~1,100 |
+| Welcome to the Rock | 0.50% | ~932 |
 | March of the Undead | 0.50% | ~1,100 |
 | Wisdom Check | 0.50% | ~1,100 |
 | Invisible Shadows | 0.50% | ~1,100 |
@@ -64,11 +65,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.50% | ~1,100 |
 | Friendly Imps | 0.50% | ~1,100 |
 | Pure Energy | 0.50% | ~1,100 |
-| Calcryx Tricks | 0.50% | ~931 |
-| Goblin Halls: the Next Generation | 0.50% | ~931 |
-| Bazaar Companions | 0.50% | ~931 |
-| Bahamut's Army | 0.50% | ~931 |
-| Animated Giff | 0.50% | ~931 |
+| Calcryx Tricks | 0.50% | ~932 |
+| Goblin Halls: the Next Generation | 0.50% | ~932 |
+| Bazaar Companions | 0.50% | ~932 |
+| Bahamut's Army | 0.50% | ~932 |
+| Animated Giff | 0.50% | ~932 |
 | Upholding the Law | 0.40% | ~880 |
 | Hither of the Feywild | 0.40% | ~745 |
 | The Prince of a Thousand Enemies | 0.40% | ~745 |
@@ -82,7 +83,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Xanathaaaaaaar! | 0.40% | ~745 |
 | The Lost Heir of Omu | 0.40% | ~880 |
 | No One Can Hear You Scream | 0.40% | ~745 |
-| Welcome to the Rock | 0.40% | ~745 |
 | The Forbidden City | 0.40% | ~880 |
 | Captured! | 0.40% | ~880 |
 | A Grand Puzzle | 0.40% | ~880 |
@@ -167,6 +167,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Market Fluctuations | 0.30% | ~660 |
 | Into The Fire | 0.30% | ~559 |
 | Dreamscape | 0.30% | ~559 |
+| The Path of Dreams | 0.30% | ~559 |
 | The Everlasting Rime | 0.30% | ~559 |
 | Close Escort | 0.30% | ~660 |
 | Constant Banditry | 0.30% | ~660 |
@@ -241,7 +242,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wyllowwood | 0.20% | ~440 |
 | An Illithid Undertaking | 0.20% | ~373 |
 | Déjà Vu | 0.20% | ~373 |
-| The Path of Dreams | 0.20% | ~373 |
 | The Lost Hollyphant | 0.20% | ~373 |
 | Alterdeep | 0.20% | ~373 |
 | The Wandering Emporium | 0.20% | ~373 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,021 (Ranked 52)  
+Progressed: 220,046 (Ranked 52)  
 Completed: 2,165 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,7 +630,7 @@ Completed: 2,165 (0.98%) (Ranked 114)
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
-| 2023-08-09 | 220,021 | 2,165 |
+| 2023-08-09 | 220,046 | 2,165 |
 ## Awards
 Max (Diverse Characters): 5,125  (Ranked 67)  
 Sum: 30,950 (Ranked 38)  

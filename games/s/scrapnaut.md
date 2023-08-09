@@ -10,8 +10,8 @@ Number of Ratings: 38  (23.09.2022)
 | Scrap Gatherer | 59.00% | ~199 |
 | Mushroom Picker | 58.00% | ~196 |
 | Scrapper | 49.00% | ~166 |
+| Cook | 44.00% | ~149 |
 | Teleport | 44.00% | ~149 |
-| Cook | 43.00% | ~145 |
 | Scrap Master | 40.00% | ~135 |
 | Smelter | 37.00% | ~125 |
 | Electro-Scrap Gatherer | 35.00% | ~118 |
@@ -33,7 +33,7 @@ Number of Ratings: 38  (23.09.2022)
 | Fuel | 10.00% | ~34 |
 | Smelting Master | 10.00% | ~34 |
 | Black Gold | 8.00% | ~27 |
-| Survival Master | 5.00% | ~17 |
+| Survival Master | 6.00% | ~20 |
 | Traveler | 4.00% | ~14 |
 | Forest Killer | 2.00% | ~7 |
 | Invincible | 0.00% | ~0 |

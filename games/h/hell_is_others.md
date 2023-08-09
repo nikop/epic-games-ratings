@@ -5,10 +5,10 @@ Rating: 4.43 (Ranked 657)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~78,899 |
-| Predator I | 22.00% | ~55,993 |
-| Fixer I | 10.00% | ~25,451 |
-| A week in Century City | 10.00% | ~25,451 |
+| Survivor | 31.00% | ~78,902 |
+| Predator I | 22.00% | ~55,995 |
+| Fixer I | 10.00% | ~25,452 |
+| A week in Century City | 10.00% | ~25,452 |
 | The Wait | 7.00% | ~17,816 |
 | Green thumb I | 6.00% | ~15,271 |
 | Cleaning Company | 6.00% | ~15,271 |
@@ -18,7 +18,7 @@ Rating: 4.43 (Ranked 657)
 | Pacifist | 4.00% | ~10,181 |
 | Vandalism | 4.00% | ~10,181 |
 | Capitalist I | 4.00% | ~10,181 |
-| Adrenaline | 3.00% | ~7,635 |
+| Adrenaline | 3.00% | ~7,636 |
 | By a hair | 2.00% | ~5,090 |
 | Fixer II | 2.00% | ~5,090 |
 | It took a while | 2.00% | ~5,090 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 657)
 | Capitalist III | 0.10% | ~255 |
 | Hell Is You | 0.10% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,514 (Ranked 43)  
+Progressed: 254,521 (Ranked 43)  
 Completed: 3 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,18 +173,18 @@ Completed: 3 (0.00%) (Ranked 251)
 | 2023-08-06 | 254,405 | 3 |
 | 2023-08-07 | 254,466 | 3 |
 | 2023-08-08 | 254,512 | 3 |
-| 2023-08-09 | 254,514 | 3 |
+| 2023-08-09 | 254,521 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 35  (Ranked 436)  
-Sum: 215 (Ranked 362)  
+Sum: 216 (Ranked 362)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 35 |
 | This game has Unique Visuals | 34 |
 | This game has Amazing Characters | 29 |
+| This game is Highly Recommended | 27 |
 | This game has Challenging Combat | 26 |
-| This game is Highly Recommended | 26 |
 | This game has Quickly Understood Controls | 22 |
 | This game has a Competitive Community | 22 |
 | This game has Competitive Players | 21 |
@@ -298,3 +298,4 @@ Diff (max vs sum): 74
 | 2023-07-31 | 4.43 | 35 | 213 |
 | 2023-08-03 | 4.43 | 35 | 214 |
 | 2023-08-08 | 4.43 | 35 | 215 |
+| 2023-08-09 | 4.43 | 35 | 216 |

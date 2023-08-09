@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,762 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,763 |
 | First Class Student | 11.00% | ~31,866 |
 | Troll with the Punches | 11.00% | ~31,866 |
 | A Keen Sense of Spell | 10.00% | ~28,969 |
@@ -18,22 +18,22 @@ Rating: 4.77 (Ranked 108)
 | Loom for Improvement | 9.00% | ~26,072 |
 | A Talent for Spending | 9.00% | ~26,072 |
 | Coasting Along | 9.00% | ~26,072 |
-| Challenge Accepted | 8.00% | ~23,175 |
-| Followed the Butterflies | 8.00% | ~23,175 |
-| Rising From the Ashes | 8.00% | ~23,175 |
-| The Avenging Gazelle | 7.00% | ~20,278 |
-| A Sallow Grave | 7.00% | ~20,278 |
-| Flight the Good Flight | 7.00% | ~20,278 |
-| The Spell Master | 7.00% | ~20,278 |
-| Beast Friends | 6.00% | ~17,381 |
-| The Seeker of Knowledge | 5.00% | ~14,484 |
-| The Root of the Problem | 5.00% | ~14,484 |
-| Third Time's a Charm | 5.00% | ~14,484 |
-| Raising Expectations | 5.00% | ~14,484 |
-| The Toast of the Town | 4.00% | ~11,587 |
-| Room with a View | 4.00% | ~11,587 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,587 |
-| The Ends Petrify the Means | 4.00% | ~11,587 |
+| Challenge Accepted | 8.00% | ~23,176 |
+| Followed the Butterflies | 8.00% | ~23,176 |
+| Rising From the Ashes | 8.00% | ~23,176 |
+| The Avenging Gazelle | 7.00% | ~20,279 |
+| A Sallow Grave | 7.00% | ~20,279 |
+| Flight the Good Flight | 7.00% | ~20,279 |
+| The Spell Master | 7.00% | ~20,279 |
+| Beast Friends | 6.00% | ~17,382 |
+| The Seeker of Knowledge | 5.00% | ~14,485 |
+| The Root of the Problem | 5.00% | ~14,485 |
+| Third Time's a Charm | 5.00% | ~14,485 |
+| Raising Expectations | 5.00% | ~14,485 |
+| The Toast of the Town | 4.00% | ~11,588 |
+| Room with a View | 4.00% | ~11,588 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,588 |
+| The Ends Petrify the Means | 4.00% | ~11,588 |
 | Going Through the Potions | 3.00% | ~8,691 |
 | Floo Around the World | 3.00% | ~8,691 |
 | The Intrepid Explorer | 3.00% | ~8,691 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 108)
 | Demiguise Dread | 1.00% | ~2,897 |
 | Finishing Touches | 1.00% | ~2,897 |
 | A Forte for Achievement | 1.00% | ~2,897 |
-| Merlin's Beard! | 0.80% | ~2,317 |
+| Merlin's Beard! | 0.80% | ~2,318 |
 | Spilled Milk | 0.70% | ~2,028 |
 | The Nature of the Beast | 0.60% | ~1,738 |
 | Collector's Edition | 0.30% | ~869 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,687 (Ranked 42)  
+Progressed: 289,694 (Ranked 42)  
 Completed: 443 (0.15%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,15 +162,15 @@ Completed: 443 (0.15%) (Ranked 187)
 | 2023-08-06 | 289,549 | 442 |
 | 2023-08-07 | 289,620 | 443 |
 | 2023-08-08 | 289,682 | 443 |
-| 2023-08-09 | 289,687 | 443 |
+| 2023-08-09 | 289,694 | 443 |
 ## Awards
 Max (Character Customization): 21,619  (Ranked 17)  
-Sum: 40,677 (Ranked 30)  
+Sum: 40,692 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,619 |
-| This game has Great Boss Battles | 10,427 |
+| This game has Great Boss Battles | 10,442 |
 | This game is Great for Beginners | 962 |
 | This game is Extremely Fun | 937 |
 | This game is Relaxing | 934 |
@@ -322,3 +322,4 @@ Diff (max vs sum): -13
 | 2023-08-06 | 4.77 | 21,567 | 40,577 |
 | 2023-08-07 | 4.77 | 21,597 | 40,644 |
 | 2023-08-08 | 4.77 | 21,619 | 40,677 |
+| 2023-08-09 | 4.77 | 21,619 | 40,692 |

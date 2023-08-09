@@ -5,24 +5,24 @@ Rating: 4.73 (Ranked 160)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~11,671 |
-| Newcomers | 78.00% | ~9,895 |
-| A Burden of Blood | 73.00% | ~9,261 |
-| Protector's Duty | 70.00% | ~8,880 |
-| Alchemist | 68.00% | ~8,626 |
+| Under a New Sun | 92.00% | ~11,672 |
+| Newcomers | 78.00% | ~9,896 |
+| A Burden of Blood | 73.00% | ~9,262 |
+| Protector's Duty | 70.00% | ~8,881 |
+| Alchemist | 68.00% | ~8,627 |
 | In our Wake | 67.00% | ~8,500 |
-| Leaving all Behind | 64.00% | ~8,119 |
-| Felons | 61.00% | ~7,738 |
+| Leaving all Behind | 64.00% | ~8,120 |
+| Felons | 61.00% | ~7,739 |
 | A Sea of Promises | 60.00% | ~7,612 |
-| Tales and Revelations | 56.00% | ~7,104 |
+| Tales and Revelations | 56.00% | ~7,105 |
 | Bloodline | 52.00% | ~6,597 |
-| The Cradle of Centuries | 48.00% | ~6,089 |
+| The Cradle of Centuries | 48.00% | ~6,090 |
 | The Life We Deserve | 45.00% | ~5,709 |
-| Night guard | 42.00% | ~5,328 |
+| Night guard | 42.00% | ~5,329 |
 | Nothing Left | 38.00% | ~4,821 |
 | Healing our Wounds | 36.00% | ~4,567 |
-| Dying Sun | 33.00% | ~4,186 |
-| Improved crossbow | 26.00% | ~3,298 |
+| Dying Sun | 33.00% | ~4,187 |
+| Improved crossbow | 26.00% | ~3,299 |
 | King Hugo | 24.00% | ~3,045 |
 | Mercy | 23.00% | ~2,918 |
 | Perfect shot | 22.00% | ~2,791 |
@@ -30,8 +30,8 @@ Rating: 4.73 (Ranked 160)
 | Perfect throw | 21.00% | ~2,664 |
 | Knights! | 20.00% | ~2,537 |
 | Handful of pockets | 13.00% | ~1,649 |
-| Not a toy anymore | 11.00% | ~1,395 |
-| Pocket laboratory | 11.00% | ~1,395 |
+| Not a toy anymore | 11.00% | ~1,396 |
+| Pocket laboratory | 11.00% | ~1,396 |
 | Herbalist | 7.00% | ~888 |
 | Fighter | 7.00% | ~888 |
 | Ornithologist | 5.00% | ~634 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 160)
 | Explorer | 1.00% | ~127 |
 | Malignant | 1.00% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,686 (Ranked 118)  
+Progressed: 12,687 (Ranked 118)  
 Completed: 42 (0.33%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 42 (0.33%) (Ranked 156)
 | 2023-08-06 | 12,654 | 40 |
 | 2023-08-07 | 12,672 | 41 |
 | 2023-08-08 | 12,685 | 42 |
-| 2023-08-09 | 12,686 | 42 |
+| 2023-08-09 | 12,687 | 42 |
 ## Awards
 Max (Great Boss Battles): 410  (Ranked 210)  
 Sum: 628 (Ranked 291)  

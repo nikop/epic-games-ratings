@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1055,9 +1055,9 @@
       "ID": "ACH_COOK",
       "SetID": "7c4cldc",
       "Name": "Cook",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -1191,9 +1191,9 @@
       "ID": "ACH_SURVIVE_40_DAYS",
       "SetID": "7c4cldc",
       "Name": "Survival Master",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_TELEPORT",
@@ -1216,8 +1216,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-08-09T00:04:07.5768894+00:00",
+  "LastChanged_Achievements": "2023-08-09T01:59:46.7271932+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.384525+00:00",
-  "LastUpdate_Ratings": "2023-08-08T23:59:55.9913032+00:00",
-  "LastUpdate_Achievements": "2023-08-09T00:04:07.5769178+00:00"
+  "LastUpdate_Ratings": "2023-08-09T01:55:02.4371402+00:00",
+  "LastUpdate_Achievements": "2023-08-09T01:59:46.7272207+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "zombie-rollerz-7aa027",
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -406,6 +406,11 @@
       "Time": "2023-08-05T05:01:38.6910834+00:00",
       "NumProgressed": 125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-09T01:59:18.6056357+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 73,
@@ -423,17 +428,17 @@
       "ID": "CLG_CHAPTER_NODROPBALL",
       "SetID": "89cjc9l",
       "Name": "1 is all I need",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "CLG_LEVEL_BALLISTASHOT",
       "SetID": "89cjc9l",
       "Name": "Right in the kisser!",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 79
     },
     {
       "ID": "CLG_LEVEL_BULLSEYE",
@@ -457,7 +462,7 @@
       "Name": "Kill-streak",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "CLG_RUN_LEVELUP_1",
@@ -465,15 +470,15 @@
       "Name": "Level Up!",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "CLG_RUN_LEVELUP_2",
       "SetID": "89cjc9l",
       "Name": "Level Up!!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     },
     {
       "ID": "CLG_SKILL_LEVEL5_1",
@@ -481,7 +486,7 @@
       "Name": "Topped up",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "CLG_SKILL_LEVEL5_2",
@@ -577,7 +582,7 @@
       "Name": "Really Bad Luck",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_ACCUM_EVENT",
@@ -607,9 +612,9 @@
       "ID": "PRG_BOSS_FLOWER",
       "SetID": "89cjc9l",
       "Name": "The Flower",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "PRG_BOSS_GIANT",
@@ -625,15 +630,15 @@
       "Name": "The Shaman",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "PRG_BOSS_MAGICIAN",
       "SetID": "89cjc9l",
       "Name": "The Magician",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 55
     },
     {
       "ID": "PRG_BOSS_NINJA",
@@ -663,15 +668,15 @@
       "ID": "PRG_BOSS_SLIME",
       "SetID": "89cjc9l",
       "Name": "The Slime",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "PRG_BOSS_THROWER",
       "SetID": "89cjc9l",
       "Name": "The Thrower",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 62
     },
@@ -689,7 +694,7 @@
       "Name": "Villfir Forest",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "PRG_CHAPTER_2",
@@ -697,13 +702,13 @@
       "Name": "Duscot Steamcity",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "PRG_CHAPTER_3",
       "SetID": "89cjc9l",
       "Name": "Inferno Ruins",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -729,7 +734,7 @@
       "Name": "Chorus",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HARD_10004",
@@ -745,7 +750,7 @@
       "Name": "TNT",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HARD_10006",
@@ -769,7 +774,7 @@
       "Name": "Titanium",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HARD_10009",
@@ -785,7 +790,7 @@
       "Name": "Rocket",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HARD_ALL",
@@ -801,7 +806,7 @@
       "Name": "Inferno",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HELL_10002",
@@ -809,7 +814,7 @@
       "Name": "Sapphire",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HELL_10003",
@@ -817,7 +822,7 @@
       "Name": "Encore",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HELL_10004",
@@ -825,7 +830,7 @@
       "Name": "Adamantite",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HELL_10005",
@@ -833,7 +838,7 @@
       "Name": "Nuclear Bomb",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HELL_10006",
@@ -849,7 +854,7 @@
       "Name": "Divinity",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HELL_10008",
@@ -865,7 +870,7 @@
       "Name": "Hammer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HELL_10010",
@@ -873,7 +878,7 @@
       "Name": "Warp Drive Spacecraft",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HELL_ALL",
@@ -887,9 +892,9 @@
       "ID": "PRG_MODE_HARD",
       "SetID": "89cjc9l",
       "Name": "Out of the Frying Pan...",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "PRG_MODE_HELL",
@@ -937,7 +942,7 @@
       "Name": "Gunpowder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_NORMAL_10006",
@@ -993,14 +998,14 @@
       "Name": "Graduation!",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     }
   ],
   "AchievementSets": [
     {
       "ID": "89cjc9l",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 0
     }
   ],
@@ -1008,8 +1013,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-08-09T00:03:36.2482061+00:00",
+  "LastChanged_Achievements": "2023-08-09T01:59:18.6056351+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:47.8897826+00:00",
-  "LastUpdate_Ratings": "2023-08-08T23:58:40.147586+00:00",
-  "LastUpdate_Achievements": "2023-08-09T00:03:36.2482929+00:00"
+  "LastUpdate_Ratings": "2023-08-09T01:53:51.3936678+00:00",
+  "LastUpdate_Achievements": "2023-08-09T01:59:18.6057097+00:00"
 }

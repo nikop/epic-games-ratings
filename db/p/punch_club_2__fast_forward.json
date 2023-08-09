@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 239,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.35,
   "EosHistory": [
@@ -1070,9 +1070,9 @@
       "ID": "handyman",
       "SetID": "69co12a",
       "Name": "Handyman",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     },
     {
       "ID": "huey_win",
@@ -1158,9 +1158,9 @@
       "ID": "mike_resurect",
       "SetID": "69co12a",
       "Name": "It\u0027s good to be alive",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 141
     },
     {
       "ID": "mysterious_voice",
@@ -1381,8 +1381,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-09T00:04:21.3765988+00:00",
+  "LastChanged_Achievements": "2023-08-09T01:59:58.944042+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:48.1217165+00:00",
-  "LastUpdate_Ratings": "2023-08-08T23:58:39.1995856+00:00",
-  "LastUpdate_Achievements": "2023-08-09T00:04:21.3766735+00:00"
+  "LastUpdate_Ratings": "2023-08-09T01:53:50.467966+00:00",
+  "LastUpdate_Achievements": "2023-08-09T01:59:58.9441097+00:00"
 }

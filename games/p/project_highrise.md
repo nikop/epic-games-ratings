@@ -30,7 +30,7 @@
 | Emporium Empire | 19.00% | ~61 |
 | Get Electrified | 19.00% | ~61 |
 | Rehab Expert | 18.00% | ~58 |
-| Tasty Profits | 17.00% | ~55 |
+| Tasty Profits | 18.00% | ~58 |
 | Established Fame | 16.00% | ~51 |
 | Under One Roof | 15.00% | ~48 |
 | Cashflow Chief | 15.00% | ~48 |

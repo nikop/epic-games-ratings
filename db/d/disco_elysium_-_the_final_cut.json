@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1241,9 +1241,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 125885,
+  "EOS_Progressed": 125889,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 736,
+  "EOS_NewPlayers": 731,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12166,6 +12166,11 @@
       "Time": "2023-08-09T00:04:22.1505223+00:00",
       "NumProgressed": 125885,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-09T01:59:59.5466461+00:00",
+      "NumProgressed": 125889,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -12209,7 +12214,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22659
+      "UsersEstimate": 22660
     },
     {
       "ID": "ACH_COP_BAD",
@@ -12233,7 +12238,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30212
+      "UsersEstimate": 30213
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -12257,7 +12262,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35248
+      "UsersEstimate": 35249
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -12273,7 +12278,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -12289,7 +12294,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25177
+      "UsersEstimate": 25178
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -12305,7 +12310,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16365
+      "UsersEstimate": 16366
     },
     {
       "ID": "ACH_COP_STAR",
@@ -12321,7 +12326,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13847
+      "UsersEstimate": 13848
     },
     {
       "ID": "ACH_CUNO",
@@ -12457,7 +12462,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16365
+      "UsersEstimate": 16366
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -12473,7 +12478,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -12496,15 +12501,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 125885,
+      "Progressed": 125889,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-04T01:55:33.6301654+00:00",
-  "LastChanged_Achievements": "2023-08-09T00:04:22.1505216+00:00",
+  "LastChanged_Achievements": "2023-08-09T01:59:59.5466455+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:08.5525123+00:00",
-  "LastUpdate_Ratings": "2023-08-09T00:00:53.5432934+00:00",
-  "LastUpdate_Achievements": "2023-08-09T00:04:22.1506884+00:00"
+  "LastUpdate_Ratings": "2023-08-09T01:55:50.4833983+00:00",
+  "LastUpdate_Achievements": "2023-08-09T01:59:59.5467472+00:00"
 }

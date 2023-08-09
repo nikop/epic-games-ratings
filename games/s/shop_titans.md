@@ -7,8 +7,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 0.80% | ~1,073 |
+| Basic in Bulk | 0.80% | ~1,073 |
 | Titan's First Steps | 0.80% | ~1,073 |
-| Basic in Bulk | 0.70% | ~939 |
 | Tinkle of Coins | 0.70% | ~939 |
 | Disintermediation | 0.60% | ~805 |
 | Capitalism Ho! | 0.60% | ~805 |
@@ -59,6 +59,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Shadow | 0.20% | ~268 |
 | Magical Harmony | 0.20% | ~268 |
 | Special Ingredient | 0.20% | ~268 |
+| Exotic Commodities | 0.20% | ~268 |
 | Arcane Industries | 0.20% | ~268 |
 | Complete Monopoly | 0.20% | ~268 |
 | Cream of the Crop | 0.10% | ~134 |
@@ -115,11 +116,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~134 |
 | Master Recycler | 0.10% | ~134 |
 | All Accounted For | 0.10% | ~134 |
-| Exotic Commodities | 0.10% | ~134 |
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,172 (Ranked 65)  
+Progressed: 134,174 (Ranked 65)  
 Completed: 131 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-06 | 134,025 | 129 |
 | 2023-08-07 | 134,099 | 130 |
 | 2023-08-08 | 134,169 | 131 |
-| 2023-08-09 | 134,172 | 131 |
+| 2023-08-09 | 134,174 | 131 |
 ## Awards
 Max (Great for Beginners): 4,692  (Ranked 71)  
 Sum: 27,070 (Ranked 46)  
