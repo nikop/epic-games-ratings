@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 22,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 663,
-  "EOS_Completed": 71,
+  "EOS_Completed": 72,
   "EOS_NewPlayers": 31,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 10.71,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 10.86,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2186,6 +2186,11 @@
       "Time": "2023-08-08T17:07:56.921868+00:00",
       "NumProgressed": 663,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-08-09T06:06:11.7805131+00:00",
+      "NumProgressed": 663,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 30,
@@ -2347,9 +2352,9 @@
       "ID": "LEVEL_020",
       "SetID": "212bg48",
       "Name": "Go round and round",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 110,
-      "UsersEstimate": 93
+      "UsersEstimate": 99
     },
     {
       "ID": "LEVEL_021",
@@ -2437,13 +2442,13 @@
       "ID": "212bg48",
       "IsBase": true,
       "Progressed": 663,
-      "Completed": 71
+      "Completed": 72
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-08-09T05:06:06.5187473+00:00",
+  "LastChanged_Achievements": "2023-08-09T06:06:11.7805123+00:00",
   "LastUpdate_AppInfo": "2023-08-07T18:57:04.1262729+00:00",
-  "LastUpdate_Ratings": "2023-08-09T04:57:52.2918073+00:00",
-  "LastUpdate_Achievements": "2023-08-09T05:06:06.5187837+00:00"
+  "LastUpdate_Ratings": "2023-08-09T05:57:54.4385677+00:00",
+  "LastUpdate_Achievements": "2023-08-09T06:06:11.7805507+00:00"
 }

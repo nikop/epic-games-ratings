@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14431,
+  "EOS_Progressed": 14432,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -7730,6 +7730,11 @@
       "Time": "2023-08-09T04:03:43.8284041+00:00",
       "NumProgressed": 14431,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-09T06:03:40.3711891+00:00",
+      "NumProgressed": 14432,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 41,
@@ -7741,7 +7746,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "tpote_achievement_10",
@@ -7757,7 +7762,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3463
+      "UsersEstimate": 3464
     },
     {
       "ID": "tpote_achievement_12",
@@ -7813,7 +7818,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "tpote_achievement_19",
@@ -7845,7 +7850,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4329
+      "UsersEstimate": 4330
     },
     {
       "ID": "tpote_achievement_22",
@@ -7869,7 +7874,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "tpote_achievement_25",
@@ -7957,7 +7962,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "tpote_achievement_35",
@@ -8029,7 +8034,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3463
+      "UsersEstimate": 3464
     },
     {
       "ID": "tpote_achievement_6",
@@ -8037,7 +8042,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3463
+      "UsersEstimate": 3464
     },
     {
       "ID": "tpote_achievement_7",
@@ -8068,15 +8073,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14431,
+      "Progressed": 14432,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-09T05:03:44.6280788+00:00",
+  "LastChanged_Achievements": "2023-08-09T06:03:40.3711887+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:55.7503888+00:00",
-  "LastUpdate_Ratings": "2023-08-09T05:00:13.2467229+00:00",
-  "LastUpdate_Achievements": "2023-08-09T05:03:44.628157+00:00"
+  "LastUpdate_Ratings": "2023-08-09T06:00:20.2212092+00:00",
+  "LastUpdate_Achievements": "2023-08-09T06:03:40.3712676+00:00"
 }

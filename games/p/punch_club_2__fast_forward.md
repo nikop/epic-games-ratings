@@ -43,9 +43,9 @@
 | Mysterious voice | 43.00% | ~103 |
 | Your own way | 41.00% | ~98 |
 | Champion – no way back | 38.00% | ~91 |
+| Poisoned fighter | 38.00% | ~91 |
 | Get out of my apartment! | 38.00% | ~91 |
 | Responsible approach | 38.00% | ~91 |
-| Poisoned fighter | 37.00% | ~88 |
 | Deal with life | 36.00% | ~86 |
 | GYM professional | 36.00% | ~86 |
 | Underground dwellers | 36.00% | ~86 |
@@ -53,7 +53,7 @@
 | The die is cast | 35.00% | ~84 |
 | Seashell hunter | 34.00% | ~81 |
 | Gang wrangler | 32.00% | ~76 |
-| Problems of cyborgs | 31.00% | ~74 |
+| Problems of cyborgs | 32.00% | ~76 |
 | Absolute Champion! | 31.00% | ~74 |
 | Undercover robot | 31.00% | ~74 |
 | The last bell ring | 30.00% | ~72 |
