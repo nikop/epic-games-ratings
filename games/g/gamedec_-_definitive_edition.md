@@ -6,13 +6,13 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~67,540 |
-| Powergamer | 27.00% | ~65,128 |
+| I will finish what you started | 28.00% | ~67,541 |
+| Powergamer | 27.00% | ~65,129 |
 | Barely scratched the surface | 25.00% | ~60,304 |
-| Write that down | 24.00% | ~57,891 |
+| Write that down | 24.00% | ~57,892 |
 | Guns, lots of guns | 12.00% | ~28,946 |
 | Collector | 11.00% | ~26,534 |
-| Elementary! | 9.00% | ~21,709 |
+| Elementary! | 9.00% | ~21,710 |
 | Pumpkin Jack | 8.00% | ~19,297 |
 | Wake up! | 8.00% | ~19,297 |
 | It's honest work | 7.00% | ~16,885 |
@@ -24,8 +24,8 @@ Number of Ratings: 33  (23.09.2022)
 | BOY! | 4.00% | ~9,649 |
 | Ka-ching! | 4.00% | ~9,649 |
 | So you like to read? | 4.00% | ~9,649 |
-| I like to sniff around | 3.00% | ~7,236 |
-| Mind reader | 3.00% | ~7,236 |
+| I like to sniff around | 3.00% | ~7,237 |
+| Mind reader | 3.00% | ~7,237 |
 | Gentleman's classic | 2.00% | ~4,824 |
 | Hoarder | 2.00% | ~4,824 |
 | Is that a rift? | 2.00% | ~4,824 |
@@ -45,8 +45,8 @@ Number of Ratings: 33  (23.09.2022)
 | A true blacksmith | 0.90% | ~2,171 |
 | Let's try another | 0.80% | ~1,930 |
 | Home run | 0.80% | ~1,930 |
-| I have the high ground | 0.70% | ~1,688 |
-| It's blue, always blue | 0.70% | ~1,688 |
+| I have the high ground | 0.70% | ~1,689 |
+| It's blue, always blue | 0.70% | ~1,689 |
 | Enjoy these little moments | 0.50% | ~1,206 |
 | Who wouldn't love a troll? | 0.50% | ~1,206 |
 | Irondec | 0.40% | ~965 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~482 |
 | Memory 5 | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,214 (Ranked 46)  
+Progressed: 241,218 (Ranked 46)  
 Completed: 7 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 7 (0.00%) (Ranked 251)
 | 2023-08-06 | 240,891 | 7 |
 | 2023-08-07 | 241,040 | 7 |
 | 2023-08-08 | 241,170 | 7 |
-| 2023-08-09 | 241,214 | 7 |
+| 2023-08-09 | 241,218 | 7 |
 ## Awards
 Max (Character Customization): 77  (Ranked 364)  
 Sum: 77 (Ranked 428)  

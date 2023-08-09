@@ -612,9 +612,9 @@
       "Count": 157
     }
   ],
-  "EOS_Progressed": 209265,
+  "EOS_Progressed": 209293,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4483,
+  "EOS_NewPlayers": 4474,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6252,6 +6252,11 @@
       "Time": "2023-08-09T12:04:33.6622025+00:00",
       "NumProgressed": 209265,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-09T13:16:05.7017127+00:00",
+      "NumProgressed": 209293,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -6381,17 +6386,17 @@
       "ID": "CollateralVictim",
       "SetID": "50chcgj",
       "Name": "Friendly fire",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "CompanionMinstrel",
       "SetID": "50chcgj",
       "Name": "I\u0027d rather... Just... Sing!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "CompanionNone",
@@ -6437,9 +6442,9 @@
       "ID": "DLC1SummonTroll",
       "SetID": "50p8kh1",
       "Name": "He\u2019s alive! Aliiiive!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "DLC2EndGame",
@@ -6517,17 +6522,17 @@
       "ID": "DLC3Chapter11",
       "SetID": "50p8kh1",
       "Name": "Free customer service",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "DLC3Chapter12",
       "SetID": "50p8kh1",
       "Name": "Imposture and Trowels",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "DLC3Chapter13",
@@ -6605,9 +6610,9 @@
       "ID": "DifficultyHardcore",
       "SetID": "50chcgj",
       "Name": "Kudos from your DM",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "DifficultyHero",
@@ -6709,9 +6714,9 @@
       "ID": "ElfHitTwoFriends",
       "SetID": "50chcgj",
       "Name": "Sowwy!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 628
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -6741,9 +6746,9 @@
       "ID": "EndGameCursed",
       "SetID": "50chcgj",
       "Name": "100% satisfaction guarantee",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "EndGameNoDeath",
@@ -6861,9 +6866,9 @@
       "ID": "QuestMinstrel",
       "SetID": "50chcgj",
       "Name": "Demisemiquaver",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "QuestPaladine",
@@ -6966,21 +6971,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 209265,
+      "Progressed": 209293,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 209265,
+      "Progressed": 209293,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-08T15:00:26.9457471+00:00",
-  "LastChanged_Achievements": "2023-08-09T12:04:33.6622022+00:00",
+  "LastChanged_Achievements": "2023-08-09T13:16:05.7017118+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:59.1388847+00:00",
-  "LastUpdate_Ratings": "2023-08-09T12:00:35.687592+00:00",
-  "LastUpdate_Achievements": "2023-08-09T12:04:33.6623041+00:00"
+  "LastUpdate_Ratings": "2023-08-09T13:12:01.5117689+00:00",
+  "LastUpdate_Achievements": "2023-08-09T13:16:05.701819+00:00"
 }

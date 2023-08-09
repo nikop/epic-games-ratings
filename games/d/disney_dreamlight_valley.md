@@ -14,7 +14,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Bestest Friend | 48.00% | ~4,042 |
 | Banker | 40.00% | ~3,368 |
 | Gardener | 32.00% | ~2,695 |
-| Generous | 23.00% | ~1,937 |
+| Generous | 24.00% | ~2,021 |
 | Chef Cook | 18.00% | ~1,516 |
 | Miner | 9.00% | ~758 |
 | Duty Bound | 6.00% | ~505 |
@@ -87,7 +87,7 @@ Completed: 192 (2.28%) (Ranked 83)
 | 2023-08-09 | 8,421 | 192 |
 ## Awards
 Max (Great for Beginners): 918  (Ranked 148)  
-Sum: 7,377 (Ranked 106)  
+Sum: 7,379 (Ranked 106)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -96,7 +96,7 @@ Diff (max vs sum): 42
 | This game is Relaxing | 788 |
 | This game is Highly Recommended | 781 |
 | This game has Amazing Characters | 779 |
-| This game has Amazing Storytelling | 751 |
+| This game has Amazing Storytelling | 753 |
 | This game has Quickly Understood Controls | 732 |
 | This game is Extremely Fun | 728 |
 | This game has a Creative Community | 614 |
@@ -255,3 +255,4 @@ Diff (max vs sum): 42
 | 2023-08-05 | 4.76 | - | 918 | 7,373 |
 | 2023-08-06 | 4.76 | - | 918 | 7,374 |
 | 2023-08-08 | 4.76 | - | 918 | 7,377 |
+| 2023-08-09 | 4.76 | - | 918 | 7,379 |

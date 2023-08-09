@@ -27,7 +27,7 @@ Rating: 4.33 (Ranked 764)
 | Life or Death | 1.00% | ~11 |
 | First Bloom | 1.00% | ~11 |
 | Someone to Protect | 0.80% | ~9 |
-| Lean on Me | 0.40% | ~4 |
+| Lean on Me | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,084 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 251)  

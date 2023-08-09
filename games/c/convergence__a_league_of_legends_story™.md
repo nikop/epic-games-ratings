@@ -8,12 +8,11 @@ Rating: 4.60 (Ranked 392)
 | Time Heals All Wounds | 25.00% | ~207 |
 | Rail Rat | 21.00% | ~174 |
 | The Mysterious Stranger | 20.00% | ~166 |
-| The Steel Shadow | 18.00% | ~149 |
 | Make Up For Lost Time | 18.00% | ~149 |
 | The Prince in Heels | 18.00% | ~149 |
 | Immaculate Aim | 18.00% | ~149 |
-| Immaculate Aim | 18.00% | ~149 |
 | The Brass Boss | 18.00% | ~149 |
+| The Steel Shadow | 17.00% | ~141 |
 | Time Flies | 17.00% | ~141 |
 | The Harder They Fall | 17.00% | ~141 |
 | No, Thanks! | 17.00% | ~141 |
@@ -21,9 +20,10 @@ Rating: 4.60 (Ranked 392)
 | The Wicked Twins | 17.00% | ~141 |
 | Honest Mistake | 17.00% | ~141 |
 | Fast Learner | 17.00% | ~141 |
-| Like Clockwork | 16.00% | ~132 |
-| The Betrayer | 16.00% | ~132 |
-| Golem Chaser | 16.00% | ~132 |
+| Immaculate Aim | 17.00% | ~141 |
+| Like Clockwork | 16.00% | ~133 |
+| The Betrayer | 16.00% | ~133 |
+| Golem Chaser | 16.00% | ~133 |
 | Right On Time | 15.00% | ~124 |
 | The Man Who Shattered Time | 15.00% | ~124 |
 | The Loose Cannon | 15.00% | ~124 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 392)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 828 (Ranked 203)  
+Progressed: 829 (Ranked 203)  
 Completed: 5 (0.60%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,6 +135,7 @@ Completed: 5 (0.60%) (Ranked 129)
 | 2023-08-06 | 826 | 5 |
 | 2023-08-07 | 827 | 5 |
 | 2023-08-08 | 828 | 5 |
+| 2023-08-09 | 829 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

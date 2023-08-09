@@ -5444,10 +5444,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27071,
       "NumberOfAwardsMax": 4692
+    },
+    {
+      "Time": "2023-08-09T13:11:21.9245545+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27072,
+      "NumberOfAwardsMax": 4692
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27071,
+  "NumberOfAwards": 27072,
   "NumberOfAwardsMax": 4692,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5461,7 +5467,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3848
+      "Count": 3849
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5500,9 +5506,9 @@
       "Count": 3732
     }
   ],
-  "EOS_Progressed": 134190,
+  "EOS_Progressed": 134195,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16815,6 +16821,11 @@
       "Time": "2023-08-09T12:05:17.8823956+00:00",
       "NumProgressed": 134190,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2023-08-09T13:16:50.0005059+00:00",
+      "NumProgressed": 134195,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 112,
@@ -17144,9 +17155,9 @@
       "ID": "damage03",
       "SetID": "anfd17p",
       "Name": "Omae wa Mou Shindeiru",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 268
     },
     {
       "ID": "donovan_a",
@@ -17696,9 +17707,9 @@
       "ID": "workers02",
       "SetID": "anfd17p",
       "Name": "Arcane Industries",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 403
     },
     {
       "ID": "workers03",
@@ -17721,15 +17732,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134190,
+      "Progressed": 134195,
       "Completed": 131
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-09T08:59:13.2736529+00:00",
-  "LastChanged_Achievements": "2023-08-09T12:05:17.8823954+00:00",
+  "LastChanged": "2023-08-09T13:11:21.9245543+00:00",
+  "LastChanged_Achievements": "2023-08-09T13:16:50.0005054+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.2056858+00:00",
-  "LastUpdate_Ratings": "2023-08-09T11:59:54.8022587+00:00",
-  "LastUpdate_Achievements": "2023-08-09T12:05:17.8825718+00:00"
+  "LastUpdate_Ratings": "2023-08-09T13:11:21.9245548+00:00",
+  "LastUpdate_Achievements": "2023-08-09T13:16:50.0006763+00:00"
 }

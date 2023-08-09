@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -841,6 +841,11 @@
       "Time": "2023-08-08T22:05:18.4984341+00:00",
       "NumProgressed": 431,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-09T13:17:01.9439186+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -852,7 +857,7 @@
       "Name": "Getting started",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "02_collector",
@@ -876,7 +881,7 @@
       "Name": "Tycoon",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "05_pangs",
@@ -900,7 +905,7 @@
       "Name": "Europe",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "08_america",
@@ -956,7 +961,7 @@
       "Name": "Woodcutter",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "15_bbq",
@@ -980,7 +985,7 @@
       "Name": "Builder",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "18_foreman",
@@ -1020,15 +1025,15 @@
       "Name": "Ouroboros",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 311
     },
     {
       "ID": "24_mega",
@@ -1068,7 +1073,7 @@
       "Name": "Non Stop!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "29_madness",
@@ -1076,7 +1081,7 @@
       "Name": "Madness!",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "30_completelynuts",
@@ -1163,15 +1168,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-05T18:00:22.7295334+00:00",
-  "LastChanged_Achievements": "2023-08-09T12:05:30.0784346+00:00",
+  "LastChanged_Achievements": "2023-08-09T13:17:01.9439178+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:23.250379+00:00",
-  "LastUpdate_Ratings": "2023-08-09T11:58:49.7617398+00:00",
-  "LastUpdate_Achievements": "2023-08-09T12:05:30.0784598+00:00"
+  "LastUpdate_Ratings": "2023-08-09T13:10:18.4380999+00:00",
+  "LastUpdate_Achievements": "2023-08-09T13:17:01.9439461+00:00"
 }

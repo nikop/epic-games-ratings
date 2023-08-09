@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 828,
+  "EOS_Progressed": 829,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -1965,6 +1965,11 @@
       "Time": "2023-08-08T15:05:37.0884378+00:00",
       "NumProgressed": 828,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-09T13:17:01.6509122+00:00",
+      "NumProgressed": 829,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -1982,9 +1987,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 141
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2024,7 +2029,7 @@
       "Name": "Like Clockwork",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ClovemaryGift",
@@ -2104,7 +2109,7 @@
       "Name": "The Betrayer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2288,7 +2293,7 @@
       "Name": "Golem Chaser",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "SkillCompletion1",
@@ -2358,9 +2363,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 141
     },
     {
       "ID": "WatcherFought",
@@ -2399,7 +2404,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 828,
+      "Progressed": 829,
       "Completed": 5
     }
   ],
@@ -2407,8 +2412,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-09T12:05:29.7607422+00:00",
+  "LastChanged_Achievements": "2023-08-09T13:17:01.6509116+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:20.0210953+00:00",
-  "LastUpdate_Ratings": "2023-08-09T12:00:56.9831889+00:00",
-  "LastUpdate_Achievements": "2023-08-09T12:05:29.7608304+00:00"
+  "LastUpdate_Ratings": "2023-08-09T13:12:23.9424162+00:00",
+  "LastUpdate_Achievements": "2023-08-09T13:17:01.6509578+00:00"
 }

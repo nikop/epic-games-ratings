@@ -5,20 +5,20 @@ Rating: 3.94 (Ranked 938)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~52,984 |
-| First One’s Free | 65.00% | ~46,540 |
-| Neophyte Ninja | 50.00% | ~35,800 |
-| Too Old for This | 47.00% | ~33,652 |
-| Case Closed | 35.00% | ~25,060 |
-| Fancy Pants | 35.00% | ~25,060 |
-| King of the Hill | 34.00% | ~24,344 |
-| Underworld Initiate | 29.00% | ~20,764 |
-| Roid Ranger | 21.00% | ~15,036 |
-| True Player | 19.00% | ~13,604 |
-| Off the Rocks | 19.00% | ~13,604 |
-| Raider’s Ruin | 17.00% | ~12,172 |
-| Dragonslayer | 17.00% | ~12,172 |
-| Hidden Sonata | 13.00% | ~9,308 |
+| Downed but Not Outed | 74.00% | ~52,987 |
+| First One’s Free | 65.00% | ~46,543 |
+| Neophyte Ninja | 50.00% | ~35,802 |
+| Too Old for This | 47.00% | ~33,654 |
+| Case Closed | 35.00% | ~25,061 |
+| Fancy Pants | 35.00% | ~25,061 |
+| King of the Hill | 34.00% | ~24,345 |
+| Underworld Initiate | 29.00% | ~20,765 |
+| Roid Ranger | 21.00% | ~15,037 |
+| True Player | 19.00% | ~13,605 |
+| Off the Rocks | 19.00% | ~13,605 |
+| Raider’s Ruin | 17.00% | ~12,173 |
+| Dragonslayer | 17.00% | ~12,173 |
+| Hidden Sonata | 13.00% | ~9,309 |
 | Rockay Rex | 11.00% | ~7,876 |
 | Freebooter | 10.00% | ~7,160 |
 | Track Star | 9.00% | ~6,444 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 938)
 | Geek Out | 0.60% | ~430 |
 | Full House | 0.20% | ~143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,600 (Ranked 77)  
+Progressed: 71,604 (Ranked 77)  
 Completed: 37 (0.05%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,11 +154,11 @@ Completed: 37 (0.05%) (Ranked 216)
 | 2023-08-06 | 71,468 | 37 |
 | 2023-08-07 | 71,517 | 37 |
 | 2023-08-08 | 71,567 | 37 |
-| 2023-08-09 | 71,600 | 37 |
+| 2023-08-09 | 71,604 | 37 |
 ## Awards
-Max (Diverse Characters): 398  (Ranked 214)  
+Max (Diverse Characters): 398  (Ranked 215)  
 Sum: 1,864 (Ranked 204)  
-Diff (max vs sum): 10  
+Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 398 |

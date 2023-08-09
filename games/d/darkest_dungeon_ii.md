@@ -6,33 +6,33 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~106,019 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~79,799 |
-| A Clear Conscience | 69.00% | ~78,659 |
-| Unleash Hell | 68.00% | ~77,519 |
-| Unfulfilled Desires | 68.00% | ~77,519 |
-| Funny Guy | 67.00% | ~76,379 |
-| Unshackled | 67.00% | ~76,379 |
-| Long Live the King | 66.00% | ~75,239 |
-| Resurrection | 62.00% | ~70,679 |
-| Wyrdly Reconstructed | 62.00% | ~70,679 |
-| Boxcar Kid | 60.00% | ~68,399 |
-| Rush Hour | 60.00% | ~68,399 |
-| To Grandmother's House | 60.00% | ~68,399 |
-| Serenity Now! | 52.00% | ~59,279 |
-| Hope Rekindled | 50.00% | ~57,000 |
-| Ramble On | 48.00% | ~54,720 |
-| Nope | 47.00% | ~53,580 |
-| This Looks Familiar | 38.00% | ~43,320 |
-| Now Stay Dead | 36.00% | ~41,040 |
-| Harvest Festival | 36.00% | ~41,040 |
-| Hot Air | 36.00% | ~41,040 |
-| Merry Time | 35.00% | ~39,900 |
-| Creep and Sleep | 33.00% | ~37,620 |
-| Overdue Notice | 31.00% | ~35,340 |
-| Whale | 31.00% | ~35,340 |
-| Banishment | 30.00% | ~34,200 |
-| FNG | 29.00% | ~33,060 |
+| A Place to Lay Your Head | 93.00% | ~106,022 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~79,801 |
+| A Clear Conscience | 69.00% | ~78,661 |
+| Unleash Hell | 68.00% | ~77,521 |
+| Unfulfilled Desires | 68.00% | ~77,521 |
+| Funny Guy | 67.00% | ~76,381 |
+| Unshackled | 67.00% | ~76,381 |
+| Long Live the King | 66.00% | ~75,241 |
+| Resurrection | 62.00% | ~70,681 |
+| Wyrdly Reconstructed | 62.00% | ~70,681 |
+| Boxcar Kid | 60.00% | ~68,401 |
+| Rush Hour | 60.00% | ~68,401 |
+| To Grandmother's House | 60.00% | ~68,401 |
+| Serenity Now! | 52.00% | ~59,281 |
+| Hope Rekindled | 50.00% | ~57,001 |
+| Ramble On | 48.00% | ~54,721 |
+| Nope | 47.00% | ~53,581 |
+| This Looks Familiar | 38.00% | ~43,321 |
+| Now Stay Dead | 36.00% | ~41,041 |
+| Harvest Festival | 36.00% | ~41,041 |
+| Hot Air | 36.00% | ~41,041 |
+| Merry Time | 35.00% | ~39,901 |
+| Creep and Sleep | 33.00% | ~37,621 |
+| Overdue Notice | 31.00% | ~35,341 |
+| Whale | 31.00% | ~35,341 |
+| Banishment | 30.00% | ~34,201 |
+| FNG | 29.00% | ~33,061 |
 | Predator | 24.00% | ~27,360 |
 | Reverse Banditry | 24.00% | ~27,360 |
 | Autodidact | 24.00% | ~27,360 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~114 |
 | 20,000 Leagues Above the Sea | 0.10% | ~114 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113,999 (Ranked 68)  
+Progressed: 114,002 (Ranked 68)  
 Completed: 1 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 1 (0.00%) (Ranked 251)
 | 2023-08-06 | 113,779 | 1 |
 | 2023-08-07 | 113,886 | 1 |
 | 2023-08-08 | 113,967 | 1 |
-| 2023-08-09 | 113,999 | 1 |
+| 2023-08-09 | 114,002 | 1 |
 ## Awards
 Max (Character Customization): 7,319  (Ranked 47)  
 Sum: 18,981 (Ranked 56)  

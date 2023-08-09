@@ -39,6 +39,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 1.00% | ~133 |
 | Ishtar Gate | 1.00% | ~133 |
 | Lighthouse | 1.00% | ~133 |
+| Necropolis | 1.00% | ~133 |
 | Oracle | 1.00% | ~133 |
 | Pyramids | 1.00% | ~133 |
 | Learn to Play 1 | 1.00% | ~133 |
@@ -57,7 +58,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.90% | ~120 |
 | Colossus | 0.90% | ~120 |
 | Musaeum | 0.90% | ~120 |
-| Necropolis | 0.90% | ~120 |
 | Manichaeism | 0.90% | ~120 |
 | Regicide | 0.80% | ~107 |
 | Legendary Cities | 0.80% | ~107 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,339 (Ranked 117)  
+Progressed: 13,340 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -414,7 +414,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-06 | 13,301 | 5 |
 | 2023-08-07 | 13,317 | 5 |
 | 2023-08-08 | 13,332 | 5 |
-| 2023-08-09 | 13,339 | 5 |
+| 2023-08-09 | 13,340 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,786 (Ranked 206)  

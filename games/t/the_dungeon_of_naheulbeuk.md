@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 0.20% | ~419 |
+| Sowwy! | 0.30% | ~628 |
 | Livin' in a dwarven paradise | 0.10% | ~209 |
 | Cursed die | 0.10% | ~209 |
 | Holistic Adventuring Party | 0.10% | ~209 |
@@ -22,16 +22,22 @@ Number of Ratings: 118  (23.09.2022)
 | Urik's Depths | 0.10% | ~209 |
 | The Dungeon Master | 0.10% | ~209 |
 | The Statuette of Gladeulfeurah | 0.10% | ~209 |
+| Friendly fire | 0.10% | ~209 |
+| I'd rather... Just... Sing! | 0.10% | ~209 |
 | The number of the counting shalt be 7 | 0.10% | ~209 |
 | Res Judicata | 0.10% | ~209 |
 | The Woman in the High Castle | 0.10% | ~209 |
 | The Blood Countess | 0.10% | ~209 |
+| He’s alive! Aliiiive! | 0.10% | ~209 |
 | Legendary brew | 0.10% | ~209 |
 | Egghead | 0.10% | ~209 |
+| Free customer service | 0.10% | ~209 |
+| Imposture and Trowels | 0.10% | ~209 |
 | Deep changes | 0.10% | ~209 |
 | A broken clock… | 0.10% | ~209 |
 | Mystical Dungeon | 0.10% | ~209 |
 | Living legends of the Lands of Fangh | 0.10% | ~209 |
+| Kudos from your DM | 0.10% | ~209 |
 | The Famous Dungeon of Naheulbeuk | 0.10% | ~209 |
 | A tale of adventurers not quite like the others... | 0.10% | ~209 |
 | Where's that freaking Dwarf? | 0.10% | ~209 |
@@ -41,6 +47,7 @@ Number of Ratings: 118  (23.09.2022)
 | Look but don't touch | 0.10% | ~209 |
 | GG EZ | 0.10% | ~209 |
 | DM intervention | 0.10% | ~209 |
+| 100% satisfaction guarantee | 0.10% | ~209 |
 | Alt+F4 | 0.10% | ~209 |
 | The beards of change | 0.10% | ~209 |
 | An old poacher makes the best gamekeeper | 0.10% | ~209 |
@@ -52,6 +59,7 @@ Number of Ratings: 118  (23.09.2022)
 | Law and Order | 0.10% | ~209 |
 | Inception | 0.10% | ~209 |
 | In Navalu's footsteps | 0.10% | ~209 |
+| Demisemiquaver | 0.10% | ~209 |
 | Lëgal Legend | 0.10% | ~209 |
 | Lust and Debauchery | 0.10% | ~209 |
 | The Ranger of Chaos | 0.10% | ~209 |
@@ -62,10 +70,7 @@ Number of Ratings: 118  (23.09.2022)
 | Oh, when I'll be level 10... | 0.10% | ~209 |
 | Material Girl | 0.10% | ~209 |
 | Fireproof Wizardess | 0.10% | ~209 |
-| Friendly fire | 0.00% | ~0 |
-| I'd rather... Just... Sing! | 0.00% | ~0 |
 | Necrophilia | 0.00% | ~0 |
-| He’s alive! Aliiiive! | 0.00% | ~0 |
 | Restless night | 0.00% | ~0 |
 | King of the Arena | 0.00% | ~0 |
 | Finally free | 0.00% | ~0 |
@@ -73,29 +78,24 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Elite Adventurers | 0.00% | ~0 |
 | Take your time back in time | 0.00% | ~0 |
-| Free customer service | 0.00% | ~0 |
-| Imposture and Trowels | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 | Cute Dungeon | 0.00% | ~0 |
 | Gloomy Dungeon | 0.00% | ~0 |
 | Power struggle | 0.00% | ~0 |
 | Hit snooze | 0.00% | ~0 |
-| Kudos from your DM | 0.00% | ~0 |
 | Minmaxer | 0.00% | ~0 |
 | Iron Golems Tamer | 0.00% | ~0 |
 | And they lived happily ever after... | 0.00% | ~0 |
 | Insult to injury | 0.00% | ~0 |
 | Star-crossed lovers | 0.00% | ~0 |
 | Pyrrhic victory | 0.00% | ~0 |
-| 100% satisfaction guarantee | 0.00% | ~0 |
 | Death is for wimps | 0.00% | ~0 |
 | Lord of the Drunks | 0.00% | ~0 |
 | It's been a hard day's night | 0.00% | ~0 |
-| Demisemiquaver | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,265 (Ranked 55)  
+Progressed: 209,293 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 207,966 | 0 |
 | 2023-08-07 | 208,534 | 0 |
 | 2023-08-08 | 209,082 | 0 |
-| 2023-08-09 | 209,265 | 0 |
+| 2023-08-09 | 209,293 | 0 |
 ## Awards
 Max (Character Customization): 157  (Ranked 294)  
 Sum: 157 (Ranked 392)  

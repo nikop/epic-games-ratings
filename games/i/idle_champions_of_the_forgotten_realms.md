@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~11,007 |
-| Beast Intentions | 3.00% | ~6,604 |
+| A Brief Tour of the Realms | 5.00% | ~11,008 |
+| Beast Intentions | 3.00% | ~6,605 |
 | Maddening | 2.00% | ~4,403 |
-| The Silken Swamp | 1.00% | ~2,201 |
-| Supply Run | 1.00% | ~2,201 |
+| The Silken Swamp | 1.00% | ~2,202 |
+| Supply Run | 1.00% | ~2,202 |
 | Vecna Lives! | 1.00% | ~1,864 |
 | Rocky Reception | 1.00% | ~1,864 |
 | Rock and Roll | 1.00% | ~1,864 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,147 (Ranked 52)  
+Progressed: 220,163 (Ranked 52)  
 Completed: 2,166 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,7 +630,7 @@ Completed: 2,166 (0.98%) (Ranked 114)
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
-| 2023-08-09 | 220,147 | 2,166 |
+| 2023-08-09 | 220,163 | 2,166 |
 ## Awards
 Max (Diverse Characters): 5,128  (Ranked 67)  
 Sum: 30,953 (Ranked 38)  

@@ -21,7 +21,7 @@
 | It's getting dark | 31.00% | ~26 |
 | Rooftop | 29.00% | ~25 |
 | Homeless | 28.00% | ~24 |
-| Big badaboom! | 26.00% | ~22 |
+| Big badaboom! | 27.00% | ~23 |
 | Bookworm | 24.00% | ~20 |
 | Payback | 22.00% | ~19 |
 | Full power | 20.00% | ~17 |

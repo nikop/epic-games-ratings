@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5674,10 +5674,10 @@
       "Count": 3347
     }
   ],
-  "EOS_Progressed": 220147,
+  "EOS_Progressed": 220163,
   "EOS_Completed": 2166,
-  "EOS_NewPlayers": 2289,
-  "EOS_NewCompleters": 24,
+  "EOS_NewPlayers": 2295,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -17659,6 +17659,11 @@
       "Time": "2023-08-09T12:02:15.9786483+00:00",
       "NumProgressed": 220147,
       "NumCompleted": 2166
+    },
+    {
+      "Time": "2023-08-09T13:14:13.1609628+00:00",
+      "NumProgressed": 220163,
+      "NumCompleted": 2166
     }
   ],
   "TotalAchievements": 512,
@@ -17670,7 +17675,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11007
+      "UsersEstimate": 11008
     },
     {
       "ID": "objective_completed_10",
@@ -17974,7 +17979,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "objective_completed_1090",
@@ -18038,7 +18043,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6604
+      "UsersEstimate": 6605
     },
     {
       "ID": "objective_completed_110",
@@ -18230,7 +18235,7 @@
       "Name": "Supply Run",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "objective_completed_1142",
@@ -21765,21 +21770,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 186421,
+      "Progressed": 186437,
       "Completed": 3075
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 220147,
+      "Progressed": 220163,
       "Completed": 2166
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-09T08:58:56.6665212+00:00",
-  "LastChanged_Achievements": "2023-08-09T12:02:15.9786479+00:00",
+  "LastChanged_Achievements": "2023-08-09T13:14:13.1609623+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-09T11:59:29.7156044+00:00",
-  "LastUpdate_Achievements": "2023-08-09T12:02:15.9809592+00:00"
+  "LastUpdate_Ratings": "2023-08-09T13:10:55.3376314+00:00",
+  "LastUpdate_Achievements": "2023-08-09T13:14:13.1632821+00:00"
 }

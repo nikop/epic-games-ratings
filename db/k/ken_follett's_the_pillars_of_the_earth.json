@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14436,
+  "EOS_Progressed": 14438,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -7745,6 +7745,11 @@
       "Time": "2023-08-09T12:04:30.4193675+00:00",
       "NumProgressed": 14436,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-09T13:16:02.4161205+00:00",
+      "NumProgressed": 14438,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 41,
@@ -7796,7 +7801,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4908
+      "UsersEstimate": 4909
     },
     {
       "ID": "tpote_achievement_15",
@@ -7836,7 +7841,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2598
+      "UsersEstimate": 2599
     },
     {
       "ID": "tpote_achievement_2",
@@ -7844,7 +7849,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4908
+      "UsersEstimate": 4909
     },
     {
       "ID": "tpote_achievement_20",
@@ -7868,7 +7873,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2888
     },
     {
       "ID": "tpote_achievement_23",
@@ -7892,7 +7897,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "tpote_achievement_26",
@@ -7908,7 +7913,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2598
+      "UsersEstimate": 2599
     },
     {
       "ID": "tpote_achievement_28",
@@ -7948,7 +7953,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2598
+      "UsersEstimate": 2599
     },
     {
       "ID": "tpote_achievement_32",
@@ -7956,7 +7961,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2165
+      "UsersEstimate": 2166
     },
     {
       "ID": "tpote_achievement_33",
@@ -7980,7 +7985,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "tpote_achievement_36",
@@ -8004,7 +8009,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "tpote_achievement_39",
@@ -8020,7 +8025,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5919
+      "UsersEstimate": 5920
     },
     {
       "ID": "tpote_achievement_40",
@@ -8083,15 +8088,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14436,
+      "Progressed": 14438,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-09T12:04:30.4193672+00:00",
+  "LastChanged_Achievements": "2023-08-09T13:16:02.41612+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:55.7503888+00:00",
-  "LastUpdate_Ratings": "2023-08-09T12:01:40.2286695+00:00",
-  "LastUpdate_Achievements": "2023-08-09T12:04:30.4194267+00:00"
+  "LastUpdate_Ratings": "2023-08-09T13:13:09.0344374+00:00",
+  "LastUpdate_Achievements": "2023-08-09T13:16:02.4161794+00:00"
 }

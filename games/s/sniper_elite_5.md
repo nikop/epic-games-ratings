@@ -11,14 +11,14 @@ Rating: 4.43 (Ranked 657)
 | Taking it back | 5.00% | ~172 |
 | Target America | 5.00% | ~172 |
 | The Kraken Sleeps | 5.00% | ~172 |
-| Climbing the Ladder | 4.00% | ~137 |
-| Meeting Resistance | 4.00% | ~137 |
-| Sharpshooter | 4.00% | ~137 |
-| Confirming Suspicions | 4.00% | ~137 |
-| Lord of War | 4.00% | ~137 |
-| Resourceful | 4.00% | ~137 |
-| As Quiet as a Mouse | 4.00% | ~137 |
-| The Kraken Wakes | 4.00% | ~137 |
+| Climbing the Ladder | 4.00% | ~138 |
+| Meeting Resistance | 4.00% | ~138 |
+| Sharpshooter | 4.00% | ~138 |
+| Confirming Suspicions | 4.00% | ~138 |
+| Lord of War | 4.00% | ~138 |
+| Resourceful | 4.00% | ~138 |
+| As Quiet as a Mouse | 4.00% | ~138 |
+| The Kraken Wakes | 4.00% | ~138 |
 | No Stone Unturned | 3.00% | ~103 |
 | Organ Grinder | 3.00% | ~103 |
 | Gunslinger | 3.00% | ~103 |
@@ -40,10 +40,10 @@ Rating: 4.43 (Ranked 657)
 | Rigged to Blow | 1.00% | ~34 |
 | Tinkerer | 1.00% | ~34 |
 | Road Rage | 1.00% | ~34 |
+| Don't hold your breath | 1.00% | ~34 |
 | Herr Today, Gone Tomorrow | 1.00% | ~34 |
 | It'll Buff Right Out | 0.90% | ~31 |
-| Don't hold your breath | 0.90% | ~31 |
-| Strategist | 0.80% | ~27 |
+| Strategist | 0.80% | ~28 |
 | Shipbreaker | 0.80% | ~27 |
 | Sink or Swim | 0.80% | ~27 |
 | Burn after reading | 0.70% | ~24 |
@@ -77,7 +77,7 @@ Rating: 4.43 (Ranked 657)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,437 (Ranked 150)  
+Progressed: 3,440 (Ranked 150)  
 Completed: 9 (0.26%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 9 (0.26%) (Ranked 166)
 | 2023-08-06 | 3,419 | 9 |
 | 2023-08-07 | 3,427 | 9 |
 | 2023-08-08 | 3,435 | 9 |
-| 2023-08-09 | 3,437 | 9 |
+| 2023-08-09 | 3,440 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

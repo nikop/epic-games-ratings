@@ -2389,9 +2389,9 @@
       "ID": "WANDERER_1",
       "SetID": "bf13m8j",
       "Name": "Wanderer",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 395
+      "UsersEstimate": 406
     },
     {
       "ID": "WISHMASTER_1",
@@ -2413,8 +2413,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-08-09T12:05:10.0736349+00:00",
+  "LastChanged_Achievements": "2023-08-09T13:16:41.7174101+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:08.1278505+00:00",
-  "LastUpdate_Ratings": "2023-08-09T11:57:03.4746837+00:00",
-  "LastUpdate_Achievements": "2023-08-09T12:05:10.0736637+00:00"
+  "LastUpdate_Ratings": "2023-08-09T13:08:29.1034341+00:00",
+  "LastUpdate_Achievements": "2023-08-09T13:16:41.7174395+00:00"
 }

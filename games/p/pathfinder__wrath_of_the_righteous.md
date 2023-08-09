@@ -12,7 +12,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Choices | 13.00% | ~1,413 |
 | Defender's Heart | 13.00% | ~1,413 |
 | Banner over the Citadel | 12.00% | ~1,304 |
-| Queen's Gratitude | 11.00% | ~1,195 |
+| Queen's Gratitude | 11.00% | ~1,196 |
 | Fifth Crusade | 7.00% | ~761 |
 | Embrace of the Abyss | 5.00% | ~543 |
 | Path of the Angel | 5.00% | ~543 |
@@ -47,8 +47,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | The Final Threshold | 1.00% | ~109 |
 | Strategic Victory | 1.00% | ~109 |
 | Abyssal Conspiracy | 1.00% | ~109 |
-| This Wall Won't Fall | 1.00% | ~96 |
-| Not the Last Sarkorian | 1.00% | ~96 |
+| This Wall Won't Fall | 1.00% | ~97 |
+| Not the Last Sarkorian | 1.00% | ~97 |
 | Path of the Legend | 0.90% | ~98 |
 | Path of the Dragon | 0.80% | ~87 |
 | End of Eternal Guard | 0.80% | ~87 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,868 (Ranked 120)  
+Progressed: 10,869 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 10,839 | 0 |
 | 2023-08-07 | 10,851 | 0 |
 | 2023-08-08 | 10,863 | 0 |
-| 2023-08-09 | 10,868 | 0 |
+| 2023-08-09 | 10,869 | 0 |
 ## Awards
 Max (Character Customization): 1,699  (Ranked 117)  
 Sum: 6,880 (Ranked 113)  
