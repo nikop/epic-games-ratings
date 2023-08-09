@@ -14,7 +14,7 @@
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.12% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.55% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.41% |
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 17 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
@@ -73,7 +73,7 @@
 | 70 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 72 | [Destiny 2](games/d/destiny_2.md) | 2.75% |
 | 73 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 74 | [The Bunker](games/t/the_bunker.md) | 2.70% |
+| 74 | [The Bunker](games/t/the_bunker.md) | 2.68% |
 | 75 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.63% |
 | 76 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.61% |
 | 77 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
@@ -82,7 +82,7 @@
 | 80 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.36% |
 | 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.35% |
-| 83 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
+| 83 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 84 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
 | 85 | [FORECLOSED](games/f/foreclosed.md) | 2.20% |
 | 86 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.04% |
@@ -105,7 +105,7 @@
 | 103 | [Poosh XL](games/p/poosh_xl.md) | 1.44% |
 | 104 | [Late Shift](games/l/late_shift.md) | 1.31% |
 | 105 | [Chorus](games/c/chorus.md) | 1.16% |
-| 106 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.14% |
+| 106 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.12% |
 | 107 | [Trifox](games/t/trifox.md) | 1.11% |
 | 108 | [A Musical Story](games/a/a_musical_story.md) | 1.10% |
 | 109 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.05% |
@@ -114,7 +114,7 @@
 | 112 | [Adios](games/a/adios.md) | 1.00% |
 | 113 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.98% |
 | 113 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 115 | [Sable](games/s/sable.md) | 0.97% |
+| 113 | [Sable](games/s/sable.md) | 0.98% |
 | 116 | [Hades](games/h/hades.md) | 0.90% |
 | 117 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 118 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
@@ -126,8 +126,8 @@
 | 124 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.65% |
 | 124 | [Haven](games/h/haven.md) | 0.65% |
 | 124 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.65% |
-| 127 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 127 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.63% |
+| 128 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 129 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
 | 130 | [Potion Permit](games/p/potion_permit.md) | 0.59% |
 | 131 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |

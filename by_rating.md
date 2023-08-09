@@ -152,7 +152,7 @@
 | 147 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 652 | 173 |
 | 147 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,914 | 48 |
 | 147 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 511 |
-| 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 35,718 | 14 |
+| 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 35,759 | 14 |
 | 147 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 511 |
 | 147 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 511 |
 | 147 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 789 | 157 |
@@ -259,7 +259,7 @@
 | 257 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 511 |
 | 257 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 663 | 171 |
 | 257 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 511 |
-| 257 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 621 | 177 |
+| 257 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 622 | 177 |
 | 257 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 511 |
 | 257 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,240 | 105 |
 | 257 | [Overcooked](games/o/overcooked.md) | 4.67 | 115 | 322 |
@@ -375,7 +375,7 @@
 | 367 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 381 | 218 |
 | 367 | [Darkwood](games/d/darkwood.md) | 4.61 | 322 | 231 |
 | 367 | [Dead Space](games/d/dead_space.md) | 4.61 | 86 | 355 |
-| 367 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 42,605 | 12 |
+| 367 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 42,663 | 12 |
 | 367 | [GigaBash](games/g/gigabash.md) | 4.61 | 0 | 511 |
 | 367 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 37 | 431 |
 | 367 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,157 | 136 |
@@ -436,7 +436,7 @@
 | 426 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.58 | 0 | 511 |
 | 426 | [GRIME](games/g/grime.md) | 4.58 | 22 | 492 |
 | 426 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.58 | 0 | 511 |
-| 426 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 6,444 | 53 |
+| 426 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 6,498 | 53 |
 | 426 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,487 | 121 |
 | 426 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 125 | 311 |
 | 426 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 213 | 269 |
@@ -658,25 +658,25 @@
 | 644 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 390 |
 | 657 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 211 | 270 |
 | 657 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 35 | 436 |
+| 657 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,186 | 134 |
 | 657 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 511 |
 | 657 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 511 |
 | 657 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.43 | 0 | 511 |
 | 657 | [The Surge](games/t/the_surge.md) | 4.43 | 27 | 469 |
 | 657 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 280 | 240 |
 | 657 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 0 | 511 |
-| 665 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 66 | 384 |
-| 665 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 34 | 441 |
-| 665 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.42 | 0 | 511 |
-| 665 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,589 | 30 |
-| 665 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 511 |
-| 665 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,186 | 134 |
-| 665 | [Predecessor](games/p/predecessor.md) | 4.42 | 144 | 300 |
-| 665 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 511 |
-| 665 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 50 |
-| 665 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 67 | 381 |
-| 665 | [Sheltered](games/s/sheltered.md) | 4.42 | 269 | 246 |
-| 665 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 0 | 511 |
-| 665 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 149 | 296 |
+| 666 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 66 | 384 |
+| 666 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 34 | 441 |
+| 666 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.42 | 0 | 511 |
+| 666 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,589 | 30 |
+| 666 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 511 |
+| 666 | [Predecessor](games/p/predecessor.md) | 4.42 | 144 | 300 |
+| 666 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 511 |
+| 666 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 50 |
+| 666 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 67 | 381 |
+| 666 | [Sheltered](games/s/sheltered.md) | 4.42 | 269 | 246 |
+| 666 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 0 | 511 |
+| 666 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 149 | 296 |
 | 678 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 511 |
 | 678 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 0 | 511 |
 | 678 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 248 | 251 |
@@ -792,7 +792,7 @@
 | 790 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 511 |
 | 790 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | 0 | 511 |
 | 790 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 511 |
-| 790 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,564,834 | 1 |
+| 790 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,567,921 | 1 |
 | 790 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 713 | 164 |
 | 790 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 417 |
 | 790 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 141 | 302 |
