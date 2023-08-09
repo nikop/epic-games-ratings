@@ -7,7 +7,7 @@
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 23.08% |
-| 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.41% |
+| 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.22% |
 | 9 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 11 | [Anna's Quest](games/a/anna's_quest.md) | 19.23% |
@@ -61,8 +61,8 @@
 | 59 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 60 | [Doodle God](games/d/doodle_god.md) | 3.46% |
 | 61 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
-| 62 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.33% |
 | 62 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
+| 63 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.32% |
 | 64 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 65 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.01% |
