@@ -3,9 +3,9 @@
   "Name": "100 Doors - Escape from Prison",
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 316,
-  "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_Completed": 15,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 110,
-  "EOS_Completed": 15,
+  "EOS_Completed": 16,
   "EOS_NewPlayers": 30,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 13.64,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 14.55,
   "EosHistory": [
     {
       "Time": "2023-07-27T20:02:52.2340673+00:00",
@@ -441,6 +441,11 @@
       "Time": "2023-08-08T08:03:03.8999667+00:00",
       "NumProgressed": 110,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-09T11:03:34.6805878+00:00",
+      "NumProgressed": 110,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-07-27T20:02:52.2356404+00:00",
@@ -531,9 +536,9 @@
       "ID": "ach_skip_5",
       "SetID": "5e260i9",
       "Name": "Skip and conquer!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 150,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
@@ -541,13 +546,13 @@
       "ID": "5e260i9",
       "IsBase": true,
       "Progressed": 110,
-      "Completed": 15
+      "Completed": 16
     }
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-08-09T10:03:31.9976477+00:00",
+  "LastChanged_Achievements": "2023-08-09T11:03:34.6805868+00:00",
   "LastUpdate_AppInfo": "2023-08-03T20:57:10.3538535+00:00",
-  "LastUpdate_Ratings": "2023-08-09T09:57:25.0061512+00:00",
-  "LastUpdate_Achievements": "2023-08-09T10:03:31.9976672+00:00"
+  "LastUpdate_Ratings": "2023-08-09T10:57:28.0163759+00:00",
+  "LastUpdate_Achievements": "2023-08-09T11:03:34.6805982+00:00"
 }

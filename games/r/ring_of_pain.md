@@ -6,35 +6,35 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~224,683 |
-| Uncharted Territory | 89.00% | ~208,300 |
-| Getting A Glimpse | 73.00% | ~170,853 |
-| A Quick Escape | 65.00% | ~152,129 |
-| Explorer | 62.00% | ~145,108 |
-| Defeat The Dark | 61.00% | ~142,767 |
-| An Offering | 61.00% | ~142,767 |
-| Colorful Corpse | 58.00% | ~135,746 |
-| That Was Quick | 56.00% | ~131,065 |
-| A Donation | 56.00% | ~131,065 |
-| Goodbye, Frog Friend | 54.00% | ~126,384 |
+| First Steps | 96.00% | ~224,684 |
+| Uncharted Territory | 89.00% | ~208,301 |
+| Getting A Glimpse | 73.00% | ~170,854 |
+| A Quick Escape | 65.00% | ~152,130 |
+| Explorer | 62.00% | ~145,109 |
+| Defeat The Dark | 61.00% | ~142,768 |
+| An Offering | 61.00% | ~142,768 |
+| Colorful Corpse | 58.00% | ~135,747 |
+| That Was Quick | 56.00% | ~131,066 |
+| A Donation | 56.00% | ~131,066 |
+| Goodbye, Frog Friend | 54.00% | ~126,385 |
 | Heavy Hitter | 53.00% | ~124,044 |
 | Heartless | 46.00% | ~107,661 |
 | Spine Breaker | 46.00% | ~107,661 |
-| Deflection | 45.00% | ~105,320 |
-| Sneaky | 43.00% | ~100,639 |
+| Deflection | 45.00% | ~105,321 |
+| Sneaky | 43.00% | ~100,640 |
 | Delving Deeper | 42.00% | ~98,299 |
 | C-C-Combo | 42.00% | ~98,299 |
-| Ambitious Intent | 41.00% | ~95,958 |
+| Ambitious Intent | 41.00% | ~95,959 |
 | Nothing To Lose | 40.00% | ~93,618 |
 | The Bestiary | 40.00% | ~93,618 |
 | What's Yours Is Mine | 38.00% | ~88,937 |
-| R.I.P | 36.00% | ~84,256 |
-| Shootout | 36.00% | ~84,256 |
+| R.I.P | 36.00% | ~84,257 |
+| Shootout | 36.00% | ~84,257 |
 | I Am Overburdened | 35.00% | ~81,916 |
-| Cold Hearted | 34.00% | ~79,575 |
+| Cold Hearted | 34.00% | ~79,576 |
 | Dig Your Own Grave | 33.00% | ~77,235 |
 | Toxic | 33.00% | ~77,235 |
-| Who To Trust? | 32.00% | ~74,894 |
+| Who To Trust? | 32.00% | ~74,895 |
 | Flesh Wound | 29.00% | ~67,873 |
 | Stone Touch | 28.00% | ~65,533 |
 | Shadow Walker | 28.00% | ~65,533 |
@@ -44,7 +44,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shapeshifting | 27.00% | ~63,192 |
 | Consecutive Curses | 26.00% | ~60,852 |
 | Destroy Your Fears | 26.00% | ~60,852 |
-| Save Our Souls | 25.00% | ~58,511 |
+| Save Our Souls | 25.00% | ~58,512 |
 | To The Death! | 20.00% | ~46,809 |
 | Well Prepared | 20.00% | ~46,809 |
 | Just Chilling | 20.00% | ~46,809 |
@@ -59,10 +59,10 @@ Number of Ratings: 15,086  (23.09.2022)
 | The Long Run | 14.00% | ~32,766 |
 | A Rough Road | 13.00% | ~30,426 |
 | Chain Reaction | 13.00% | ~30,426 |
-| Berzerker | 12.00% | ~28,085 |
-| Antivenom | 12.00% | ~28,085 |
+| Berzerker | 12.00% | ~28,086 |
+| Antivenom | 12.00% | ~28,086 |
 | Thank You, Friend | 11.00% | ~25,745 |
-| Barbecue | 10.00% | ~23,404 |
+| Barbecue | 10.00% | ~23,405 |
 | Snake Sneak | 9.00% | ~21,064 |
 | Challenge Increases | 8.00% | ~18,724 |
 | New Game+ | 8.00% | ~18,724 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~936 |
 | Near Death Experience | 0.30% | ~702 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,045 (Ranked 49)  
+Progressed: 234,046 (Ranked 49)  
 Completed: 259 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,17 +240,17 @@ Completed: 259 (0.11%) (Ranked 195)
 | 2023-08-06 | 233,922 | 258 |
 | 2023-08-07 | 233,970 | 259 |
 | 2023-08-08 | 234,020 | 259 |
-| 2023-08-09 | 234,045 | 259 |
+| 2023-08-09 | 234,046 | 259 |
 ## Awards
 Max (Quickly Understood Controls): 1,487  (Ranked 121)  
-Sum: 11,516 (Ranked 78)  
+Sum: 11,518 (Ranked 78)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 1,487 |
 | This game is Great for Beginners | 1,480 |
 | This game is Relaxing | 1,418 |
-| This game has Challenging Combat | 1,405 |
+| This game has Challenging Combat | 1,407 |
 | This game is Extremely Fun | 1,399 |
 | This game is Highly Recommended | 1,357 |
 | This game has Amazing Storytelling | 1,307 |
@@ -393,3 +393,4 @@ Diff (max vs sum): 43
 | 2023-08-03 | 4.58 | - | 1,487 | 11,510 |
 | 2023-08-04 | 4.58 | - | 1,487 | 11,512 |
 | 2023-08-05 | 4.58 | - | 1,487 | 11,516 |
+| 2023-08-09 | 4.58 | - | 1,487 | 11,518 |

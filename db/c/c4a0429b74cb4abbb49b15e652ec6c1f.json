@@ -2,9 +2,9 @@
   "ID": "c4a0429b74cb4abbb49b15e652ec6c1f",
   "Name": "Deverse World",
   "ProductSlug": "deverse-world-3ccb84",
-  "Ranking_EOS_Progress": 285,
+  "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 203,
+  "EOS_Progressed": 205,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -801,6 +801,11 @@
       "Time": "2023-08-08T18:05:46.3572086+00:00",
       "NumProgressed": 203,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-09T11:06:15.1299273+00:00",
+      "NumProgressed": 205,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -869,7 +874,7 @@
       "Name": "Pianist",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "platformer_player",
@@ -964,14 +969,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 203,
+      "Progressed": 205,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-08-09T10:05:54.3221331+00:00",
+  "LastChanged_Achievements": "2023-08-09T11:06:15.1299266+00:00",
   "LastUpdate_AppInfo": "2023-08-03T07:56:56.1663904+00:00",
-  "LastUpdate_Ratings": "2023-08-09T09:57:48.6002335+00:00",
-  "LastUpdate_Achievements": "2023-08-09T10:05:54.3221566+00:00"
+  "LastUpdate_Ratings": "2023-08-09T10:57:51.9873339+00:00",
+  "LastUpdate_Achievements": "2023-08-09T11:06:15.1299426+00:00"
 }

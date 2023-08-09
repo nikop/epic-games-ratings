@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3115,
+  "EOS_Progressed": 3116,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2729,6 +2729,11 @@
       "Time": "2023-08-08T01:57:42.1457152+00:00",
       "NumProgressed": 3115,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-09T11:03:48.3457005+00:00",
+      "NumProgressed": 3116,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2788,7 +2793,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2772
+      "UsersEstimate": 2773
     },
     {
       "ID": "campaign10",
@@ -2876,7 +2881,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "campaign20",
@@ -2900,7 +2905,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1496
     },
     {
       "ID": "campaign5",
@@ -2924,7 +2929,7 @@
       "Name": "Maestro",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "campaign8",
@@ -2948,7 +2953,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "scenario2",
@@ -3003,7 +3008,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3115,
+      "Progressed": 3116,
       "Completed": 10
     }
   ],
@@ -3011,8 +3016,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-08-09T10:03:44.6087115+00:00",
+  "LastChanged_Achievements": "2023-08-09T11:03:48.3457+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:11.414434+00:00",
-  "LastUpdate_Ratings": "2023-08-09T10:01:39.4380985+00:00",
-  "LastUpdate_Achievements": "2023-08-09T10:03:44.6087823+00:00"
+  "LastUpdate_Ratings": "2023-08-09T11:02:04.993061+00:00",
+  "LastUpdate_Achievements": "2023-08-09T11:03:48.3457342+00:00"
 }

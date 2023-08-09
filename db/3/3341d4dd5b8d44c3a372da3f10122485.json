@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 1,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -491,9 +491,9 @@
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 75,
+      "Percentage": 77,
       "XP": 80,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Majak",
@@ -507,9 +507,9 @@
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 75,
+      "Percentage": 77,
       "XP": 75,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Planina",
@@ -547,9 +547,9 @@
       "ID": "Tuleni",
       "SetID": "823jm6g",
       "Name": "Seal Peaks",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 75,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
@@ -562,8 +562,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-08-09T10:05:53.0396396+00:00",
+  "LastChanged_Achievements": "2023-08-09T11:06:13.6822517+00:00",
   "LastUpdate_AppInfo": "2023-08-04T15:57:20.6854378+00:00",
-  "LastUpdate_Ratings": "2023-08-09T09:57:47.6364126+00:00",
-  "LastUpdate_Achievements": "2023-08-09T10:05:53.0396615+00:00"
+  "LastUpdate_Ratings": "2023-08-09T10:57:50.8443895+00:00",
+  "LastUpdate_Achievements": "2023-08-09T11:06:13.6822637+00:00"
 }

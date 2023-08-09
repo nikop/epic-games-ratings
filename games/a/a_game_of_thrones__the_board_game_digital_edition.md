@@ -6,9 +6,9 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~8,360 |
-| Battering Crew | 20.00% | ~4,180 |
-| The Kingsroad | 18.00% | ~3,762 |
+| Conqueror | 40.00% | ~8,361 |
+| Battering Crew | 20.00% | ~4,181 |
+| The Kingsroad | 18.00% | ~3,763 |
 | Well Stocked | 14.00% | ~2,926 |
 | Royal Fleet | 13.00% | ~2,717 |
 | The Kraken’s Grasp | 9.00% | ~1,881 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | King in the North | 2.00% | ~418 |
 | War of the Five Kings | 1.00% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,901 (Ranked 104)  
+Progressed: 20,903 (Ranked 104)  
 Completed: 42 (0.20%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 42 (0.20%) (Ranked 176)
 | 2023-08-06 | 20,717 | 42 |
 | 2023-08-07 | 20,812 | 42 |
 | 2023-08-08 | 20,879 | 42 |
-| 2023-08-09 | 20,901 | 42 |
+| 2023-08-09 | 20,903 | 42 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 312)  
 Sum: 786 (Ranked 262)  

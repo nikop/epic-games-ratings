@@ -205,9 +205,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 33191,
+  "EOS_Progressed": 33192,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 887,
+  "EOS_NewPlayers": 885,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -12295,6 +12295,11 @@
       "Time": "2023-08-09T10:05:37.166495+00:00",
       "NumProgressed": 33191,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-09T11:05:57.2310084+00:00",
+      "NumProgressed": 33192,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -12466,7 +12471,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -12537,7 +12542,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 33191,
+      "Progressed": 33192,
       "Completed": 21
     }
   ],
@@ -12545,8 +12550,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-01T20:00:57.6814566+00:00",
-  "LastChanged_Achievements": "2023-08-09T10:05:37.1664942+00:00",
+  "LastChanged_Achievements": "2023-08-09T11:05:57.2310076+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:57.8950159+00:00",
-  "LastUpdate_Ratings": "2023-08-09T10:01:28.1362239+00:00",
-  "LastUpdate_Achievements": "2023-08-09T10:05:37.1666523+00:00"
+  "LastUpdate_Ratings": "2023-08-09T11:01:44.0968465+00:00",
+  "LastUpdate_Achievements": "2023-08-09T11:05:57.2310885+00:00"
 }

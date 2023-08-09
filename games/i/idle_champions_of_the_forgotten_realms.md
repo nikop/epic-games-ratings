@@ -6,9 +6,9 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~11,006 |
+| A Brief Tour of the Realms | 5.00% | ~11,007 |
 | Beast Intentions | 3.00% | ~6,604 |
-| Maddening | 2.00% | ~4,402 |
+| Maddening | 2.00% | ~4,403 |
 | The Silken Swamp | 1.00% | ~2,201 |
 | Supply Run | 1.00% | ~2,201 |
 | Vecna Lives! | 1.00% | ~1,864 |
@@ -73,44 +73,44 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.50% | ~932 |
 | Bahamut's Army | 0.50% | ~932 |
 | Animated Giff | 0.50% | ~932 |
-| Upholding the Law | 0.40% | ~880 |
+| Upholding the Law | 0.40% | ~881 |
 | Hither of the Feywild | 0.40% | ~746 |
 | The Prince of a Thousand Enemies | 0.40% | ~746 |
 | Downfall | 0.40% | ~746 |
 | Speeds of Destruction | 0.40% | ~746 |
 | Owlbear Necessities | 0.40% | ~746 |
-| On the Hunt | 0.40% | ~880 |
+| On the Hunt | 0.40% | ~881 |
 | Best Thay Ever | 0.40% | ~746 |
 | The Castle of a Thousand Vecnas | 0.40% | ~746 |
 | Who Lurks Below? | 0.40% | ~746 |
 | Xanathaaaaaaar! | 0.40% | ~746 |
-| The Lost Heir of Omu | 0.40% | ~880 |
-| The Forbidden City | 0.40% | ~880 |
-| Captured! | 0.40% | ~880 |
-| Sleuth It Out | 0.40% | ~880 |
-| A Grand Puzzle | 0.40% | ~880 |
-| Tomb of the Nine Gods | 0.40% | ~880 |
-| The Immortal Warrior | 0.40% | ~880 |
-| Trollskull Manor | 0.40% | ~880 |
-| Attack on the Manor | 0.40% | ~880 |
-| The Death Curse | 0.40% | ~880 |
-| Nimble Escape | 0.40% | ~880 |
-| Useless Allies | 0.40% | ~880 |
-| Premature Betrayal | 0.40% | ~880 |
-| Mad Cow Disease | 0.40% | ~880 |
-| A Tale of Two Cities | 0.40% | ~880 |
-| The Dead Three | 0.40% | ~880 |
-| Flying Monkey Skulls of Doom | 0.40% | ~880 |
-| The Darkness Runs Deeper | 0.40% | ~880 |
-| The Contagious Curse | 0.40% | ~880 |
+| The Lost Heir of Omu | 0.40% | ~881 |
+| The Forbidden City | 0.40% | ~881 |
+| Captured! | 0.40% | ~881 |
+| Sleuth It Out | 0.40% | ~881 |
+| A Grand Puzzle | 0.40% | ~881 |
+| Tomb of the Nine Gods | 0.40% | ~881 |
+| The Immortal Warrior | 0.40% | ~881 |
+| Trollskull Manor | 0.40% | ~881 |
+| Attack on the Manor | 0.40% | ~881 |
+| The Death Curse | 0.40% | ~881 |
+| Nimble Escape | 0.40% | ~881 |
+| Useless Allies | 0.40% | ~881 |
+| Premature Betrayal | 0.40% | ~881 |
+| Mad Cow Disease | 0.40% | ~881 |
+| A Tale of Two Cities | 0.40% | ~881 |
+| The Dead Three | 0.40% | ~881 |
+| Flying Monkey Skulls of Doom | 0.40% | ~881 |
+| The Darkness Runs Deeper | 0.40% | ~881 |
+| The Contagious Curse | 0.40% | ~881 |
 | The Giant's Bane Tavern | 0.40% | ~746 |
 | The Everlasting Rime | 0.40% | ~746 |
-| Lost in the Deep | 0.40% | ~880 |
-| Easily Distracted | 0.40% | ~880 |
-| Underdeep Cartography | 0.40% | ~880 |
-| Overdue Rendezvous | 0.40% | ~880 |
-| The Templar's Camp | 0.40% | ~880 |
-| Rescue in the Jungle | 0.40% | ~880 |
+| Lost in the Deep | 0.40% | ~881 |
+| Easily Distracted | 0.40% | ~881 |
+| Underdeep Cartography | 0.40% | ~881 |
+| Overdue Rendezvous | 0.40% | ~881 |
+| The Templar's Camp | 0.40% | ~881 |
+| Rescue in the Jungle | 0.40% | ~881 |
 | Devilishly Cold | 0.40% | ~746 |
 | Luigi After Hours | 0.40% | ~746 |
 | Electric Mayhem | 0.40% | ~746 |
@@ -180,6 +180,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Durable Deep | 0.30% | ~660 |
 | Expert Opinion | 0.30% | ~660 |
 | Dwarven Rumors | 0.30% | ~559 |
+| Sunblight | 0.30% | ~559 |
 | The Haunted Jungle | 0.30% | ~660 |
 | Willing to Sacrifice | 0.30% | ~559 |
 | Tiny Treaty | 0.30% | ~559 |
@@ -239,6 +240,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Patience is Key | 0.20% | ~440 |
 | Troublesome Prisoner | 0.20% | ~440 |
 | Dark Doppelgangers | 0.20% | ~440 |
+| Cold & Wet | 0.20% | ~440 |
 | Once More Into The Breach | 0.20% | ~440 |
 | Wyllowwood | 0.20% | ~440 |
 | An Illithid Undertaking | 0.20% | ~373 |
@@ -254,7 +256,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Awakened Axe | 0.20% | ~373 |
 | The Sibriex | 0.20% | ~373 |
 | Wrecked Flying Fortress | 0.20% | ~373 |
-| Sunblight | 0.20% | ~373 |
 | The Bleeding Citadel | 0.20% | ~373 |
 | Idyllglen | 0.20% | ~373 |
 | The Radiant Nightmare | 0.20% | ~373 |
@@ -390,7 +391,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | She's Harmless! | 0.10% | ~220 |
 | The Tallest of Kobolds | 0.10% | ~186 |
 | Faerûn's Most Wanted | 0.10% | ~186 |
-| Cold & Wet | 0.10% | ~220 |
 | Madcap Adventures | 0.10% | ~220 |
 | Faerûn's Most Neglected | 0.10% | ~186 |
 | Vault of Pixies | 0.10% | ~220 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,124 (Ranked 52)  
+Progressed: 220,135 (Ranked 52)  
 Completed: 2,166 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,7 +630,7 @@ Completed: 2,166 (0.98%) (Ranked 114)
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
-| 2023-08-09 | 220,124 | 2,166 |
+| 2023-08-09 | 220,135 | 2,166 |
 ## Awards
 Max (Diverse Characters): 5,128  (Ranked 67)  
 Sum: 30,953 (Ranked 38)  

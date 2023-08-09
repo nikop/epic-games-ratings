@@ -39,9 +39,9 @@ Rating: 4.08 (Ranked 908)
 | Frostfire Liberator | 10.00% | ~178 |
 | Moving Up The Ladder | 10.00% | ~178 |
 | Scroll Master | 10.00% | ~178 |
+| Here We Go Again | 9.00% | ~160 |
 | Master Enchanter | 9.00% | ~160 |
 | The father of Dragons | 9.00% | ~160 |
-| Here We Go Again | 8.00% | ~142 |
 | Trader | 8.00% | ~142 |
 | Crystal Mining | 7.00% | ~125 |
 | Dragon Slayer | 7.00% | ~125 |

@@ -5,8 +5,8 @@ Rating: 4.57 (Ranked 448)
 Number of Ratings: 1,912  (23.09.2022)  
 ## Awards
 Max (Amazing Characters): 57  (Ranked 393)  
-Sum: 434 (Ranked 312)  
-Diff (max vs sum): 81  
+Sum: 434 (Ranked 313)  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 57 |

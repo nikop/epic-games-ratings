@@ -10,25 +10,25 @@
 | Assembly Line Work | 87.00% | ~79 |
 | Solitude | 81.00% | ~74 |
 | Pinewood, Here we come! | 74.00% | ~67 |
-| The Van | 67.00% | ~61 |
-| Road-Trip | 60.00% | ~55 |
-| A Musical Pause | 58.00% | ~53 |
+| The Van | 68.00% | ~62 |
+| Road-Trip | 62.00% | ~56 |
+| A Musical Pause | 59.00% | ~54 |
 | Briget's | 49.00% | ~45 |
+| Sound of Noise | 46.00% | ~42 |
 | Big City Music | 45.00% | ~41 |
-| Sound of Noise | 45.00% | ~41 |
 | Love at First Sight | 41.00% | ~37 |
 | First Kiss | 34.00% | ~31 |
-| Symbiosis | 32.00% | ~29 |
+| Symbiosis | 33.00% | ~30 |
 | A Bigger Band | 31.00% | ~28 |
 | Fuel | 26.00% | ~24 |
 | Alone Together | 25.00% | ~23 |
 | Threatening Nature | 23.00% | ~21 |
+| TV Dreams | 22.00% | ~20 |
 | Flat Tire | 21.00% | ~19 |
-| TV Dreams | 21.00% | ~19 |
 | Dreamers | 18.00% | ~16 |
 | The Clash | 16.00% | ~15 |
-| The Fix | 14.00% | ~13 |
-| Time | 11.00% | ~10 |
+| The Fix | 15.00% | ~14 |
+| Time | 12.00% | ~11 |
 | Regrets | 11.00% | ~10 |
 | The Mountains, The Valleys | 11.00% | ~10 |
 | The Accident | 10.00% | ~9 |

@@ -3,8 +3,8 @@
   "Name": "Hyper Light Drifter",
   "ProductSlug": "hyper-light-drifter",
   "Ranking_Rating": 198,
-  "Ranking_Popularity": 401,
-  "Ranking_PopularitySum": 449,
+  "Ranking_Popularity": 399,
+  "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 358,
@@ -464,18 +464,24 @@
     {
       "Time": "2023-01-15T19:57:24.5768405+00:00",
       "Rating": 4.7
+    },
+    {
+      "Time": "2023-08-09T11:00:31.4685138+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 51,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50,
-  "NumberOfAwardsMax": 50,
+  "NumberOfAwards": 51,
+  "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 50
+      "Count": 51
     }
   ],
   "EOS_Progressed": 0,
@@ -489,8 +495,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:03.848386+00:00",
-  "LastChanged": "2023-01-15T19:57:24.5768404+00:00",
+  "LastChanged": "2023-08-09T11:00:31.4685135+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:53.1597697+00:00",
-  "LastUpdate_Ratings": "2023-08-09T10:00:17.2927766+00:00",
-  "LastUpdate_Achievements": "2023-08-09T10:06:16.8598765+00:00"
+  "LastUpdate_Ratings": "2023-08-09T11:00:31.4685141+00:00",
+  "LastUpdate_Achievements": "2023-08-09T11:06:39.353714+00:00"
 }

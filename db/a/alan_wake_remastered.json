@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60564,
+  "EOS_Progressed": 60565,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 683,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10707,6 +10707,11 @@
       "Time": "2023-08-09T10:05:30.6323184+00:00",
       "NumProgressed": 60564,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-09T11:05:50.3461505+00:00",
+      "NumProgressed": 60565,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10838,7 +10843,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4239
+      "UsersEstimate": 4240
     },
     {
       "ID": "17",
@@ -10846,7 +10851,7 @@
       "Name": "Departure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4239
+      "UsersEstimate": 4240
     },
     {
       "ID": "18",
@@ -10990,7 +10995,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18169
+      "UsersEstimate": 18170
     },
     {
       "ID": "36",
@@ -11253,21 +11258,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60564,
+      "Progressed": 60565,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24032,
+      "Progressed": 24033,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-09T10:05:30.6323177+00:00",
+  "LastChanged_Achievements": "2023-08-09T11:05:50.34615+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-09T09:58:50.0510396+00:00",
-  "LastUpdate_Achievements": "2023-08-09T10:05:30.6325447+00:00"
+  "LastUpdate_Ratings": "2023-08-09T10:58:54.105681+00:00",
+  "LastUpdate_Achievements": "2023-08-09T11:05:50.3462524+00:00"
 }

@@ -54,11 +54,11 @@
 | Seashell hunter | 34.00% | ~81 |
 | Gang wrangler | 32.00% | ~76 |
 | Problems of cyborgs | 32.00% | ~76 |
+| Undercover robot | 32.00% | ~76 |
 | Absolute Champion! | 31.00% | ~74 |
-| Undercover robot | 31.00% | ~74 |
 | The last bell ring | 30.00% | ~72 |
+| Careerist | 30.00% | ~72 |
 | Not little hacker | 29.00% | ~69 |
-| Careerist | 29.00% | ~69 |
 | Anyone can resist | 29.00% | ~69 |
 | Trap disarmed | 28.00% | ~67 |
 | Another world | 28.00% | ~67 |

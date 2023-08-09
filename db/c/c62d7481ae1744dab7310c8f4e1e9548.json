@@ -196,9 +196,9 @@
       "ID": "Cervotoc",
       "SetID": "ag48e8e",
       "Name": "Woodworm",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Cikady",
@@ -276,9 +276,9 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 68,
+      "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Kvitky",
@@ -292,9 +292,9 @@
       "ID": "MluviciPapouch",
       "SetID": "ag48e8e",
       "Name": "Mimicking Parrot",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Myska",
@@ -443,8 +443,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-08-09T10:03:58.448539+00:00",
+  "LastChanged_Achievements": "2023-08-09T11:04:13.4896578+00:00",
   "LastUpdate_AppInfo": "2023-08-04T15:57:19.5735536+00:00",
-  "LastUpdate_Ratings": "2023-08-09T09:57:38.8270318+00:00",
-  "LastUpdate_Achievements": "2023-08-09T10:03:58.4485761+00:00"
+  "LastUpdate_Ratings": "2023-08-09T10:57:41.7425695+00:00",
+  "LastUpdate_Achievements": "2023-08-09T11:04:13.4896755+00:00"
 }

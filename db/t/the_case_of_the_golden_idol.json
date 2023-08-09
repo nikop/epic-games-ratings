@@ -4,7 +4,7 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 171,
+  "EOS_Progressed": 172,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.68,
+  "EOS_Completed_Percentage": 4.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -663,6 +663,11 @@
       "Time": "2023-08-08T11:05:54.4698839+00:00",
       "NumProgressed": 171,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-09T11:07:26.2356033+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 14,
@@ -785,13 +790,13 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 171,
+      "Progressed": 172,
       "Completed": 8
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 118,
+      "Progressed": 119,
       "Completed": 108
     }
   ],
@@ -799,8 +804,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-08-09T10:07:01.0280279+00:00",
+  "LastChanged_Achievements": "2023-08-09T11:07:26.2356028+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:33.8764254+00:00",
-  "LastUpdate_Ratings": "2023-08-09T09:59:57.1682307+00:00",
-  "LastUpdate_Achievements": "2023-08-09T10:07:01.0280518+00:00"
+  "LastUpdate_Ratings": "2023-08-09T11:00:10.665935+00:00",
+  "LastUpdate_Achievements": "2023-08-09T11:07:26.235615+00:00"
 }
