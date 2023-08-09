@@ -5,9 +5,9 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,767 |
-| First Class Student | 11.00% | ~31,870 |
-| Troll with the Punches | 11.00% | ~31,870 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,768 |
+| First Class Student | 11.00% | ~31,871 |
+| Troll with the Punches | 11.00% | ~31,871 |
 | A Keen Sense of Spell | 10.00% | ~28,973 |
 | That's a Keeper | 10.00% | ~28,973 |
 | Grappling with a Graphorn | 9.00% | ~26,076 |
@@ -19,17 +19,17 @@ Rating: 4.77 (Ranked 109)
 | Loom for Improvement | 9.00% | ~26,076 |
 | A Talent for Spending | 9.00% | ~26,076 |
 | Coasting Along | 9.00% | ~26,076 |
-| Followed the Butterflies | 8.00% | ~23,178 |
-| Rising From the Ashes | 8.00% | ~23,178 |
+| Followed the Butterflies | 8.00% | ~23,179 |
+| Rising From the Ashes | 8.00% | ~23,179 |
 | The Avenging Gazelle | 7.00% | ~20,281 |
 | A Sallow Grave | 7.00% | ~20,281 |
 | Flight the Good Flight | 7.00% | ~20,281 |
 | The Spell Master | 7.00% | ~20,281 |
 | Beast Friends | 6.00% | ~17,384 |
-| The Seeker of Knowledge | 5.00% | ~14,486 |
-| The Root of the Problem | 5.00% | ~14,486 |
-| Third Time's a Charm | 5.00% | ~14,486 |
-| Raising Expectations | 5.00% | ~14,486 |
+| The Seeker of Knowledge | 5.00% | ~14,487 |
+| The Root of the Problem | 5.00% | ~14,487 |
+| Third Time's a Charm | 5.00% | ~14,487 |
+| Raising Expectations | 5.00% | ~14,487 |
 | The Toast of the Town | 4.00% | ~11,589 |
 | Room with a View | 4.00% | ~11,589 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,589 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,738 |
 | Collector's Edition | 0.30% | ~869 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,729 (Ranked 42)  
+Progressed: 289,733 (Ranked 42)  
 Completed: 444 (0.15%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,10 +162,10 @@ Completed: 444 (0.15%) (Ranked 188)
 | 2023-08-06 | 289,549 | 442 |
 | 2023-08-07 | 289,620 | 443 |
 | 2023-08-08 | 289,682 | 443 |
-| 2023-08-09 | 289,729 | 444 |
+| 2023-08-09 | 289,733 | 444 |
 ## Awards
 Max (Character Customization): 21,619  (Ranked 17)  
-Sum: 40,700 (Ranked 30)  
+Sum: 40,701 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -179,7 +179,7 @@ Diff (max vs sum): -13
 | This game has Amazing Characters | 901 |
 | This game is Highly Recommended | 875 |
 | This game has Quickly Understood Controls | 832 |
-| This game has Beautiful Visuals | 775 |
+| This game has Beautiful Visuals | 776 |
 | This game has a Creative Community | 580 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -322,4 +322,4 @@ Diff (max vs sum): -13
 | 2023-08-06 | 4.77 | 21,567 | 40,577 |
 | 2023-08-07 | 4.77 | 21,597 | 40,644 |
 | 2023-08-08 | 4.77 | 21,619 | 40,677 |
-| 2023-08-09 | 4.77 | 21,619 | 40,700 |
+| 2023-08-09 | 4.77 | 21,619 | 40,701 |

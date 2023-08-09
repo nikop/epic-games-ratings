@@ -20,7 +20,7 @@ Number of Ratings: 209  (23.09.2022)
 | Revenge | 93.00% | ~2,037 |
 | Surprise | 93.00% | ~2,037 |
 | Magnet | 91.00% | ~1,993 |
-| Industrial Area | 89.00% | ~1,949 |
+| Industrial Area | 90.00% | ~1,971 |
 | Magnet Repel | 88.00% | ~1,927 |
 | You feel middle classy | 87.00% | ~1,905 |
 | Boomeraxe | 87.00% | ~1,905 |

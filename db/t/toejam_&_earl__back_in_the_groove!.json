@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56309,
+  "EOS_Progressed": 56310,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7192,6 +7192,11 @@
       "Time": "2023-08-09T21:07:34.1308867+00:00",
       "NumProgressed": 56309,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-09T22:06:56.3650506+00:00",
+      "NumProgressed": 56310,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 49,
@@ -7275,7 +7280,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2816
     },
     {
       "ID": "FlyingPresentMaster",
@@ -7594,7 +7599,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56309,
+      "Progressed": 56310,
       "Completed": 5
     }
   ],
@@ -7602,8 +7607,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-08-09T21:07:34.130886+00:00",
+  "LastChanged_Achievements": "2023-08-09T22:06:56.3650495+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:17.4893543+00:00",
-  "LastUpdate_Ratings": "2023-08-09T20:57:44.8834374+00:00",
-  "LastUpdate_Achievements": "2023-08-09T21:07:34.1309767+00:00"
+  "LastUpdate_Ratings": "2023-08-09T21:57:30.5845254+00:00",
+  "LastUpdate_Achievements": "2023-08-09T22:06:56.3651306+00:00"
 }

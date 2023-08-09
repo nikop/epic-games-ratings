@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 868)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~4,063 |
+| First Step Into the Knight | 6.00% | ~4,064 |
 | Har, Har, Har, Very Funny | 5.00% | ~3,386 |
 | Loose Ends | 5.00% | ~3,386 |
 | To the Victor Go the Spoils | 4.00% | ~2,709 |
@@ -26,17 +26,17 @@ Rating: 4.18 (Ranked 868)
 | Bad Apples in Every Orchard | 3.00% | ~2,032 |
 | From Inside Gotham's Walls | 3.00% | ~2,032 |
 | Voiceless | 3.00% | ~2,032 |
-| End of an Era | 2.00% | ~1,354 |
-| In Your Element | 2.00% | ~1,354 |
-| Not On My Watch | 2.00% | ~1,354 |
-| Bulldozed | 2.00% | ~1,354 |
-| Out of Their League | 2.00% | ~1,354 |
-| Shock Til They Drop | 2.00% | ~1,354 |
-| Drone You Out | 2.00% | ~1,354 |
-| Cooldown | 2.00% | ~1,354 |
-| Seeking Asylum | 2.00% | ~1,354 |
-| Gotham Knight | 2.00% | ~1,354 |
-| Gotham City Confidential | 2.00% | ~1,354 |
+| End of an Era | 2.00% | ~1,355 |
+| In Your Element | 2.00% | ~1,355 |
+| Not On My Watch | 2.00% | ~1,355 |
+| Bulldozed | 2.00% | ~1,355 |
+| Out of Their League | 2.00% | ~1,355 |
+| Shock Til They Drop | 2.00% | ~1,355 |
+| Drone You Out | 2.00% | ~1,355 |
+| Cooldown | 2.00% | ~1,355 |
+| Seeking Asylum | 2.00% | ~1,355 |
+| Gotham Knight | 2.00% | ~1,355 |
+| Gotham City Confidential | 2.00% | ~1,355 |
 | Fusion Expert | 1.00% | ~677 |
 | Expert Crime Fighter | 1.00% | ~677 |
 | Family Meeting | 1.00% | ~677 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 868)
 | History Major | 0.10% | ~68 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,724 (Ranked 80)  
+Progressed: 67,726 (Ranked 80)  
 Completed: 106 (0.16%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 106 (0.16%) (Ranked 183)
 | 2023-08-06 | 67,675 | 106 |
 | 2023-08-07 | 67,692 | 106 |
 | 2023-08-08 | 67,710 | 106 |
-| 2023-08-09 | 67,724 | 106 |
+| 2023-08-09 | 67,726 | 106 |
 ## Awards
 Max (Great Boss Battles): 2,482  (Ranked 101)  
 Sum: 4,125 (Ranked 140)  

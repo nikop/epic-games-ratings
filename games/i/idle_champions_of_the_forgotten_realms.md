@@ -12,6 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Upholding the Law | 0.10% | ~220 |
 | Starving in the Jungle | 0.10% | ~220 |
 | Cold as Ice | 0.10% | ~187 |
+| Keep Your Friends Close | 0.10% | ~187 |
 | Friends and Foes | 0.10% | ~187 |
 | Tall Tales | 0.10% | ~187 |
 | Nightmare Rats! | 0.10% | ~187 |
@@ -24,7 +25,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sticky Fingers | 0.10% | ~187 |
 | Patron Party | 0.10% | ~187 |
 | Hither of the Feywild | 0.10% | ~187 |
+| Don't Breathe the Marsh Gas | 0.10% | ~187 |
+| Don't Squeeze the Spiders | 0.10% | ~187 |
+| The Spire of Iriolarthas | 0.10% | ~187 |
 | Always Watching | 0.10% | ~187 |
+| The Fall of Ythryn | 0.10% | ~187 |
+| Icequake | 0.10% | ~187 |
 | A Lesson in Classes | 0.10% | ~187 |
 | The Prince of a Thousand Enemies | 0.10% | ~187 |
 | The Birds | 0.10% | ~187 |
@@ -59,6 +65,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Will of the Feywild | 0.10% | ~187 |
 | The Lutes of Loomlurch | 0.10% | ~187 |
 | Supply Run | 0.10% | ~220 |
+| Best Laid Plans | 0.10% | ~187 |
 | Pincushion Party | 0.10% | ~187 |
 | The Howling Peaks of Yon | 0.10% | ~187 |
 | Heavy Burden | 0.10% | ~220 |
@@ -77,6 +84,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friends of the Forest | 0.10% | ~220 |
 | More Than Well Equipped | 0.10% | ~187 |
 | Return to the Tomb | 0.10% | ~187 |
+| Arcane Efforts | 0.10% | ~187 |
 | Keep Your Distance | 0.10% | ~187 |
 | Heatwave | 0.10% | ~187 |
 | To Avernus in a Handbasket | 0.10% | ~187 |
@@ -84,10 +92,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.10% | ~187 |
 | Weak Doesn't Mean Feeble | 0.10% | ~187 |
 | Frail Doesn't Mean Broken | 0.10% | ~187 |
+| The Castle of a Thousand Vecnas | 0.10% | ~187 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~187 |
+| Unreasonable Doesn't Mean Stupid | 0.10% | ~187 |
+| The Sanctum of the Sword | 0.10% | ~187 |
+| Kas the Bloody Handed | 0.10% | ~187 |
 | Get Back In The Castle | 0.10% | ~187 |
 | Kas the Destroyer | 0.10% | ~187 |
 | Were-verpowered | 0.10% | ~220 |
+| Checkmate | 0.10% | ~187 |
 | Pin and Skewer | 0.10% | ~187 |
 | Vecna Out! | 0.10% | ~187 |
 | Bully for Vecna | 0.10% | ~187 |
@@ -103,9 +116,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.10% | ~220 |
 | Not Very Charming | 0.10% | ~220 |
 | Lobsterfolk Assault | 0.10% | ~220 |
+| The Minions of Endelyn Moongrave | 0.10% | ~187 |
 | Between a Brigganock and a Hard Place | 0.10% | ~187 |
 | Love Unsoiled | 0.10% | ~187 |
 | The Play's the Thing! | 0.10% | ~187 |
+| The Bitter End | 0.10% | ~187 |
+| The Palace of Heart's Desire | 0.10% | ~187 |
 | No One Can Hear You Scream | 0.10% | ~187 |
 | Anchors Aweigh | 0.10% | ~187 |
 | Welcome to the Rock | 0.10% | ~187 |
@@ -113,10 +129,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Mode | 0.10% | ~220 |
 | The Forbidden City | 0.10% | ~220 |
 | Terror in the Dark | 0.10% | ~220 |
+| Periodic Petrification | 0.10% | ~220 |
 | Fall From Grace | 0.10% | ~220 |
 | Captured! | 0.10% | ~220 |
 | Home Field Advantage | 0.10% | ~220 |
 | Double Vision | 0.10% | ~220 |
+| Underground Railroad | 0.10% | ~220 |
 | Low Initiative | 0.10% | ~220 |
 | A Mysterious Summons | 0.10% | ~220 |
 | Street War | 0.10% | ~220 |
@@ -234,6 +252,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.10% | ~220 |
 | A Tale of Two Fiends | 0.10% | ~220 |
 | A Tale of Two Champions | 0.10% | ~220 |
+| A Tale of Two Years | 0.10% | ~187 |
 | The Dead Three | 0.10% | ~220 |
 | Slow and Steady | 0.10% | ~220 |
 | A Hero's Entourage | 0.10% | ~220 |
@@ -283,6 +302,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.10% | ~220 |
 | Everything is Awful | 0.10% | ~220 |
 | Earthquake! | 0.10% | ~187 |
+| Hailstorm! | 0.10% | ~187 |
 | Resolve Amongst Chaos | 0.10% | ~220 |
 | All You Know Is Wrong | 0.10% | ~220 |
 | Avernus Frozen Over | 0.10% | ~187 |
@@ -305,6 +325,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Déjà Vu All Over Again | 0.10% | ~187 |
 | Into The Fire | 0.10% | ~187 |
 | A Difficult Descent | 0.10% | ~187 |
+| The Devil Arrives | 0.10% | ~187 |
 | Hearts Aflame | 0.10% | ~187 |
 | Dreamscape | 0.10% | ~187 |
 | Dream Gauntlet | 0.10% | ~187 |
@@ -360,6 +381,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trench Coat Run | 0.10% | ~187 |
 | The Taunting Lord | 0.10% | ~187 |
 | Durable Deep | 0.10% | ~220 |
+| Lone Wolf Party | 0.10% | ~187 |
 | The Sibriex | 0.10% | ~187 |
 | The Archduke's Blessing | 0.10% | ~187 |
 | Wrecked Flying Fortress | 0.10% | ~187 |
@@ -369,27 +391,37 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dwarven Rumors | 0.10% | ~187 |
 | Mimic Perception | 0.10% | ~187 |
 | Frozen in Fear | 0.10% | ~187 |
+| It's Cold Out There Today | 0.10% | ~187 |
 | Sunblight | 0.10% | ~187 |
 | Fortress Assault | 0.10% | ~187 |
 | Hats off to you! | 0.10% | ~187 |
+| It's Cold Out There Every Day | 0.10% | ~187 |
 | The Bleeding Citadel | 0.10% | ~187 |
 | Don't Pick at the Scab | 0.10% | ~187 |
 | Idyllglen | 0.10% | ~187 |
 | The Madness of Yeenoghu | 0.10% | ~187 |
+| Reya Reborn | 0.10% | ~187 |
 | The Radiant Nightmare | 0.10% | ~187 |
 | Quick Thinking | 0.10% | ~187 |
 | Tough Acting | 0.10% | ~187 |
+| Witty Riposting | 0.10% | ~187 |
 | Waiting on Sunrise | 0.10% | ~187 |
 | Frontline Fighters | 0.10% | ~187 |
 | A Chilling Encounter | 0.10% | ~187 |
+| How Far Away is Thay | 0.10% | ~187 |
 | Deekin's Mission | 0.10% | ~187 |
+| Frozen Vengeance | 0.10% | ~187 |
+| REALLY Frozen Vengeance | 0.10% | ~187 |
 | The Stunning Tower Battle | 0.10% | ~187 |
+| Elturel's Last Stand | 0.10% | ~187 |
+| Gargauth's Betrayal | 0.10% | ~187 |
 | Lost in the Underdark | 0.10% | ~187 |
 | Demons Here, Demons There | 0.10% | ~187 |
 | Visions of Hornfirth | 0.10% | ~187 |
 | Leemooggoogoon Rises | 0.10% | ~187 |
 | Stragglers | 0.10% | ~187 |
 | Volo's Guide to Kuo-toa | 0.10% | ~187 |
+| Ending the Rime - Part 1 | 0.10% | ~187 |
 | Ending the Rime - Part 2 | 0.10% | ~187 |
 | Reghed Glacier Mysteries | 0.10% | ~187 |
 | Mysteries Unlocked | 0.10% | ~187 |
@@ -397,6 +429,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.10% | ~220 |
 | Tekeli-li's Hunt | 0.10% | ~187 |
 | Cackling Horror | 0.10% | ~187 |
+| Working for the Weak End | 0.10% | ~187 |
 | Neutral No More | 0.10% | ~187 |
 | Fungal Excitation | 0.10% | ~187 |
 | Crimson Perception | 0.10% | ~187 |
@@ -404,6 +437,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Watchful Eyes | 0.10% | ~187 |
 | Maroon Madness | 0.10% | ~187 |
 | The Rite of the Arcane Octad | 0.10% | ~187 |
+| The Netherese Necropolis | 0.10% | ~187 |
+| Ineffectual Intellectuals | 0.10% | ~187 |
 | The Archaeologist and the Sailor | 0.10% | ~187 |
 | The Templar's Camp | 0.10% | ~220 |
 | The Haunted Jungle | 0.10% | ~220 |
@@ -433,16 +468,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Chaotic Hunt for The Last Breath | 0.10% | ~187 |
 | To Infinity's and Beyond | 0.10% | ~187 |
 | There's a Flying Snake in my Boot! | 0.10% | ~187 |
-| Keep Your Friends Close | 0.00% | ~0 |
 | And Your Enemies Closer | 0.00% | ~0 |
 | A Familiar Behind Us | 0.00% | ~0 |
 | Go Fourth | 0.00% | ~0 |
-| Don't Breathe the Marsh Gas | 0.00% | ~0 |
 | Don't Blast the Brigands | 0.00% | ~0 |
-| Don't Squeeze the Spiders | 0.00% | ~0 |
-| The Spire of Iriolarthas | 0.00% | ~0 |
-| The Fall of Ythryn | 0.00% | ~0 |
-| Icequake | 0.00% | ~0 |
 | Uncommon Allies | 0.00% | ~0 |
 | Where the Magic Happens | 0.00% | ~0 |
 | Second Third Out | 0.00% | ~0 |
@@ -451,25 +480,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Will of the Frozen Feywild | 0.00% | ~0 |
 | The Roots of Loomlurch | 0.00% | ~0 |
 | The Loots of Loomlurch | 0.00% | ~0 |
-| Best Laid Plans | 0.00% | ~0 |
 | G. O. A. T. | 0.00% | ~0 |
 | Strength of Character | 0.00% | ~0 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
-| Arcane Efforts | 0.00% | ~0 |
-| The Castle of a Thousand Vecnas | 0.00% | ~0 |
-| Unreasonable Doesn't Mean Stupid | 0.00% | ~0 |
-| The Sanctum of the Sword | 0.00% | ~0 |
-| Kas the Bloody Handed | 0.00% | ~0 |
-| Checkmate | 0.00% | ~0 |
 | Taking Responsibility | 0.00% | ~0 |
-| The Minions of Endelyn Moongrave | 0.00% | ~0 |
-| The Bitter End | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
-| The Palace of Heart's Desire | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
-| Periodic Petrification | 0.00% | ~0 |
 | No Good at All | 0.00% | ~0 |
-| Underground Railroad | 0.00% | ~0 |
 | Drop of Time | 0.00% | ~0 |
 | The Wyrmheart Mine | 0.00% | ~0 |
 | Distribute Your Weight | 0.00% | ~0 |
@@ -477,12 +494,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Air's Getting Pretty Thin | 0.00% | ~0 |
 | Spirit of the Trickster Gods | 0.00% | ~0 |
 | Servants of the Demon Prince | 0.00% | ~0 |
-| A Tale of Two Years | 0.00% | ~0 |
 | Sneak Attack | 0.00% | ~0 |
-| Hailstorm! | 0.00% | ~0 |
 | Shadow Stalkers | 0.00% | ~0 |
 | Smooth Talkers | 0.00% | ~0 |
-| The Devil Arrives | 0.00% | ~0 |
 | The Path of Trials | 0.00% | ~0 |
 | Best Friend Search Squad! | 0.00% | ~0 |
 | An Even Worse Time in Avernus | 0.00% | ~0 |
@@ -491,39 +505,25 @@ Number of Ratings: 9,041  (23.09.2022)
 | Power of Three | 0.00% | ~0 |
 | Only Human | 0.00% | ~0 |
 | Ten in Ten-Towns | 0.00% | ~0 |
-| Lone Wolf Party | 0.00% | ~0 |
 | A Neutral Party | 0.00% | ~0 |
-| It's Cold Out There Today | 0.00% | ~0 |
-| It's Cold Out There Every Day | 0.00% | ~0 |
 | Going To Eleven | 0.00% | ~0 |
-| Reya Reborn | 0.00% | ~0 |
-| Witty Riposting | 0.00% | ~0 |
-| How Far Away is Thay | 0.00% | ~0 |
 | Dive Bomb | 0.00% | ~0 |
 | Fire and Ice | 0.00% | ~0 |
-| Frozen Vengeance | 0.00% | ~0 |
 | Mimic Vengeance | 0.00% | ~0 |
-| REALLY Frozen Vengeance | 0.00% | ~0 |
 | The Battle of High Hall Tower | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
-| Elturel's Last Stand | 0.00% | ~0 |
-| Gargauth's Betrayal | 0.00% | ~0 |
-| Ending the Rime - Part 1 | 0.00% | ~0 |
 | Ambitious Speakers - Part 1 | 0.00% | ~0 |
 | Shady Sidekicks - Part 1 | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
-| Working for the Weak End | 0.00% | ~0 |
 | Alien Allies | 0.00% | ~0 |
 | An Icewind Dale Reunion | 0.00% | ~0 |
-| The Netherese Necropolis | 0.00% | ~0 |
-| Ineffectual Intellectuals | 0.00% | ~0 |
 | Quick or Quack | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 | All The World's A Stage | 0.00% | ~0 |
 | Krux's Speed Run | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,262 (Ranked 52)  
+Progressed: 220,271 (Ranked 52)  
 Completed: 2,167 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 2,167 (0.98%) (Ranked 113)
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
-| 2023-08-09 | 220,262 | 2,167 |
+| 2023-08-09 | 220,271 | 2,167 |
 ## Awards
 Max (Diverse Characters): 5,128  (Ranked 67)  
 Sum: 30,971 (Ranked 38)  

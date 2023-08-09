@@ -2614,9 +2614,9 @@
       "Count": 238
     }
   ],
-  "EOS_Progressed": 71023,
+  "EOS_Progressed": 71024,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 982,
+  "EOS_NewPlayers": 973,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -14659,6 +14659,11 @@
       "Time": "2023-08-09T21:07:14.4548509+00:00",
       "NumProgressed": 71023,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-08-09T22:06:39.6040497+00:00",
+      "NumProgressed": 71024,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 30,
@@ -14758,7 +14763,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 19886
+      "UsersEstimate": 19887
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -14790,7 +14795,7 @@
       "Name": "Curiosity",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 13494
+      "UsersEstimate": 13495
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -14854,7 +14859,7 @@
       "Name": "Self-sufficient",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13494
+      "UsersEstimate": 13495
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -14909,15 +14914,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 71023,
+      "Progressed": 71024,
       "Completed": 89
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-08-08T13:58:53.5803991+00:00",
-  "LastChanged_Achievements": "2023-08-09T21:07:14.4548503+00:00",
+  "LastChanged_Achievements": "2023-08-09T22:06:39.6040489+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:06.5703426+00:00",
-  "LastUpdate_Ratings": "2023-08-09T21:00:08.903272+00:00",
-  "LastUpdate_Achievements": "2023-08-09T21:07:14.454953+00:00"
+  "LastUpdate_Ratings": "2023-08-09T21:59:40.9341741+00:00",
+  "LastUpdate_Achievements": "2023-08-09T22:06:39.6041334+00:00"
 }

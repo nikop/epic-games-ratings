@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17183,
+  "EOS_Progressed": 17184,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7845,6 +7845,11 @@
       "Time": "2023-08-09T20:04:17.200125+00:00",
       "NumProgressed": 17183,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-09T22:04:53.5501793+00:00",
+      "NumProgressed": 17184,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -7976,7 +7981,7 @@
       "Name": "Live and let lie",
       "Percentage": 3,
       "XP": 115,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "0017",
@@ -8032,7 +8037,7 @@
       "Name": "Safe Withdrawal",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "0024",
@@ -8143,7 +8148,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17183,
+      "Progressed": 17184,
       "Completed": 1
     }
   ],
@@ -8151,8 +8156,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-08T19:59:53.3803436+00:00",
-  "LastChanged_Achievements": "2023-08-09T21:05:11.1810243+00:00",
+  "LastChanged_Achievements": "2023-08-09T22:04:53.5501787+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-09T21:02:07.5368535+00:00",
-  "LastUpdate_Achievements": "2023-08-09T21:05:11.1811025+00:00"
+  "LastUpdate_Ratings": "2023-08-09T22:01:18.0137448+00:00",
+  "LastUpdate_Achievements": "2023-08-09T22:04:53.550245+00:00"
 }

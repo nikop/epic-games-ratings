@@ -5,25 +5,25 @@ Rating: 4.69 (Ranked 212)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 27.00% | ~169,539 |
-| 50 HEADSHOTS | 25.00% | ~156,981 |
-| SCIENCE AND INDUSTRY | 24.00% | ~150,702 |
-| FINISHED CHAPTER 1 | 23.00% | ~144,422 |
-| FINISHED CHAPTER 2 | 17.00% | ~106,747 |
-| 200 HEADSHOTS | 15.00% | ~94,188 |
-| FINISHED CHAPTER 3 | 14.00% | ~87,909 |
-| FINISHED CHAPTER 4 | 12.00% | ~75,351 |
-| FINISH CHAPTER 5 | 10.00% | ~62,792 |
-| CATHARTIC ESCAPISM | 9.00% | ~56,513 |
-| FINISH CHAPTER 6 | 8.00% | ~50,234 |
-| 1000 KILLS | 7.00% | ~43,955 |
-| FIREFIGHT LEVEL 10 | 3.00% | ~18,838 |
-| FIREFIGHT LEVEL 20 | 1.00% | ~6,279 |
-| FIRST BLOOD | 1.00% | ~6,279 |
-| PACEMAKER | 1.00% | ~6,279 |
-| OUT OF ORDER | 0.80% | ~5,023 |
-| TIME PARADOX | 0.80% | ~5,023 |
-| FIREFIGHT LEVEL 30 | 0.70% | ~4,395 |
+| 100 KILLS | 27.00% | ~169,557 |
+| 50 HEADSHOTS | 25.00% | ~156,998 |
+| SCIENCE AND INDUSTRY | 24.00% | ~150,718 |
+| FINISHED CHAPTER 1 | 23.00% | ~144,438 |
+| FINISHED CHAPTER 2 | 17.00% | ~106,758 |
+| 200 HEADSHOTS | 15.00% | ~94,198 |
+| FINISHED CHAPTER 3 | 14.00% | ~87,919 |
+| FINISHED CHAPTER 4 | 12.00% | ~75,359 |
+| FINISH CHAPTER 5 | 10.00% | ~62,799 |
+| CATHARTIC ESCAPISM | 9.00% | ~56,519 |
+| FINISH CHAPTER 6 | 8.00% | ~50,239 |
+| 1000 KILLS | 7.00% | ~43,959 |
+| FIREFIGHT LEVEL 10 | 3.00% | ~18,840 |
+| FIREFIGHT LEVEL 20 | 1.00% | ~6,280 |
+| FIRST BLOOD | 1.00% | ~6,280 |
+| PACEMAKER | 1.00% | ~6,280 |
+| OUT OF ORDER | 0.80% | ~5,024 |
+| TIME PARADOX | 0.80% | ~5,024 |
+| FIREFIGHT LEVEL 30 | 0.70% | ~4,396 |
 | PARTYHARD | 0.60% | ~3,768 |
 | NEW GAME PLUS | 0.50% | ~3,140 |
 | FIREFIGHT LEVEL 40 | 0.40% | ~2,512 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 212)
 | THE GAMBLER | 0.10% | ~628 |
 | WARRIOR IN A GARDEN | 0.10% | ~628 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 627,923 (Ranked 26)  
+Progressed: 627,990 (Ranked 26)  
 Completed: 43 (0.01%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 43 (0.01%) (Ranked 237)
 | 2023-08-06 | 621,954 | 42 |
 | 2023-08-07 | 624,283 | 43 |
 | 2023-08-08 | 626,340 | 43 |
-| 2023-08-09 | 627,923 | 43 |
+| 2023-08-09 | 627,990 | 43 |
 ## Awards
 Max (Great Boss Battles): 235  (Ranked 257)  
 Sum: 235 (Ranked 354)  
