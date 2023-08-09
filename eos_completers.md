@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.77% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.14% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -17,7 +17,7 @@
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.55% |
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 17 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
-| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
+| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
 | 19 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.54% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.27% |
 | 21 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
@@ -36,7 +36,7 @@
 | 34 | [Ravenlok](games/r/ravenlok.md) | 7.40% |
 | 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.03% |
 | 36 | [Scorn](games/s/scorn.md) | 6.95% |
-| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
+| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.84% |
 | 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.32% |
@@ -45,7 +45,7 @@
 | 43 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
 | 44 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
 | 45 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.00% |
-| 46 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
+| 46 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.84% |
 | 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.82% |
 | 48 | [JARS](games/j/jars.md) | 4.76% |
 | 49 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
@@ -55,7 +55,7 @@
 | 53 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 54 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.22% |
 | 55 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.98% |
-| 56 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
+| 56 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
 | 57 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 58 | [ZZT!](games/z/zzt!.md) | 3.69% |
 | 59 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
@@ -96,13 +96,13 @@
 | 94 | [Iron Danger](games/i/iron_danger.md) | 1.64% |
 | 95 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.61% |
 | 95 | [Somerville](games/s/somerville.md) | 1.61% |
+| 97 | [Five Dates](games/f/five_dates.md) | 1.59% |
 | 97 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.59% |
-| 98 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
-| 99 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.49% |
-| 100 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
-| 100 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
-| 102 | [Poosh XL](games/p/poosh_xl.md) | 1.44% |
-| 103 | [Five Dates](games/f/five_dates.md) | 1.39% |
+| 99 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
+| 100 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.49% |
+| 101 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
+| 101 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
+| 103 | [Poosh XL](games/p/poosh_xl.md) | 1.44% |
 | 104 | [Late Shift](games/l/late_shift.md) | 1.31% |
 | 105 | [Chorus](games/c/chorus.md) | 1.16% |
 | 106 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.14% |
@@ -532,4 +532,4 @@
 | 251 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 251 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 251 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,017 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,018 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
