@@ -177,6 +177,7 @@
 | [Art of Rally](../games/a/art_of_rally_1.md) | 43 | 1,000 |
 | [Chorus](../games/c/chorus.md) | 43 | 1,000 |
 | [Farming Simulator 22](../games/f/farming_simulator_22.md) | 43 | 1,000 |
+| [SPACE WAR - INFINITY](../games/7/72714161da094789aec500130c8530fa.md) | 43 | 1,000 |
 | [Starlight X-2 Galactic Puzzles](../games/s/starlight_x-2_galactic_puzzles.md) | 43 | 1,000 |
 | [Tour de France 2023](../games/c/c20377f30dfa44eb929b0081c1182381.md) | 43 | 1,000 |
 | [Active DBG Brave's Rage](../games/7/767ef5b53bde471090219bbec4f9d78a.md) | 42 | 1,000 |

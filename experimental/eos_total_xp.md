@@ -453,6 +453,7 @@
 | [Sonic Origins](../games/s/sonic_origins.md) | 35 | 1,000 |
 | [Souls Of Chronos](../games/f/fc740bd5bc244b50a36620a391980636.md) | 41 | 1,000 |
 | [SPACE ELITE FORCE](../games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 30 | 1,000 |
+| [SPACE WAR - INFINITY](../games/7/72714161da094789aec500130c8530fa.md) | 43 | 1,000 |
 | [Spacebase Startopia - Standard Edition](../games/s/spacebase_startopia.md) | 30 | 1,000 |
 | [Sphere Guider](../games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 16 | 1,000 |
 | [SPINGUN](../games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 26 | 1,000 |
