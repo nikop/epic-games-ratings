@@ -24,7 +24,7 @@
 | Big badaboom! | 27.00% | ~23 |
 | Bookworm | 25.00% | ~21 |
 | Payback | 24.00% | ~20 |
-| Nokron tower | 21.00% | ~18 |
+| Nokron tower | 22.00% | ~19 |
 | Full power | 20.00% | ~17 |
 | "Ah sh*t... Here we go again!" | 20.00% | ~17 |
 | Compulsive hoarder | 20.00% | ~17 |

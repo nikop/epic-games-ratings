@@ -10,15 +10,15 @@ Rating: 4.77 (Ranked 109)
 | Troll with the Punches | 11.00% | ~31,870 |
 | A Keen Sense of Spell | 10.00% | ~28,973 |
 | That's a Keeper | 10.00% | ~28,973 |
-| Grappling with a Graphorn | 9.00% | ~26,075 |
-| The One Who Mastered Memories | 9.00% | ~26,075 |
-| The Hallowed Hero | 9.00% | ~26,075 |
-| The Hero of Hogwarts | 9.00% | ~26,075 |
-| The Defender of Dragons | 9.00% | ~26,075 |
-| Loom for Improvement | 9.00% | ~26,075 |
-| A Talent for Spending | 9.00% | ~26,075 |
-| Coasting Along | 9.00% | ~26,075 |
-| Challenge Accepted | 8.00% | ~23,178 |
+| Grappling with a Graphorn | 9.00% | ~26,076 |
+| The One Who Mastered Memories | 9.00% | ~26,076 |
+| The Hallowed Hero | 9.00% | ~26,076 |
+| The Hero of Hogwarts | 9.00% | ~26,076 |
+| The Defender of Dragons | 9.00% | ~26,076 |
+| Challenge Accepted | 9.00% | ~26,076 |
+| Loom for Improvement | 9.00% | ~26,076 |
+| A Talent for Spending | 9.00% | ~26,076 |
+| Coasting Along | 9.00% | ~26,076 |
 | Followed the Butterflies | 8.00% | ~23,178 |
 | Rising From the Ashes | 8.00% | ~23,178 |
 | The Avenging Gazelle | 7.00% | ~20,281 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 109)
 | Demiguise Dread | 1.00% | ~2,897 |
 | Finishing Touches | 1.00% | ~2,897 |
 | A Forte for Achievement | 1.00% | ~2,897 |
+| Spilled Milk | 0.80% | ~2,318 |
 | Merlin's Beard! | 0.80% | ~2,318 |
-| Spilled Milk | 0.70% | ~2,028 |
 | The Nature of the Beast | 0.60% | ~1,738 |
 | Collector's Edition | 0.30% | ~869 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,727 (Ranked 42)  
+Progressed: 289,729 (Ranked 42)  
 Completed: 444 (0.15%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 444 (0.15%) (Ranked 188)
 | 2023-08-06 | 289,549 | 442 |
 | 2023-08-07 | 289,620 | 443 |
 | 2023-08-08 | 289,682 | 443 |
-| 2023-08-09 | 289,727 | 444 |
+| 2023-08-09 | 289,729 | 444 |
 ## Awards
 Max (Character Customization): 21,619  (Ranked 17)  
 Sum: 40,700 (Ranked 30)  

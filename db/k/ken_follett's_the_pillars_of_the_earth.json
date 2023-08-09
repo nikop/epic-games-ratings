@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14448,
+  "EOS_Progressed": 14450,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -7780,6 +7780,11 @@
       "Time": "2023-08-09T19:04:28.1258307+00:00",
       "NumProgressed": 14448,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-09T21:04:48.9154585+00:00",
+      "NumProgressed": 14450,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 41,
@@ -7791,7 +7796,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "tpote_achievement_10",
@@ -7831,7 +7836,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4912
+      "UsersEstimate": 4913
     },
     {
       "ID": "tpote_achievement_15",
@@ -7839,7 +7844,7 @@
       "Name": "Care, like a brother cares",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "tpote_achievement_16",
@@ -7863,7 +7868,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "tpote_achievement_19",
@@ -7879,7 +7884,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4912
+      "UsersEstimate": 4913
     },
     {
       "ID": "tpote_achievement_20",
@@ -7895,7 +7900,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4334
+      "UsersEstimate": 4335
     },
     {
       "ID": "tpote_achievement_22",
@@ -7911,7 +7916,7 @@
       "Name": "A brush with death",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "tpote_achievement_24",
@@ -7919,7 +7924,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "tpote_achievement_25",
@@ -7967,7 +7972,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4623
+      "UsersEstimate": 4624
     },
     {
       "ID": "tpote_achievement_30",
@@ -7991,7 +7996,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2168
     },
     {
       "ID": "tpote_achievement_33",
@@ -8095,7 +8100,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "tpote_achievement_8",
@@ -8111,22 +8116,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5057
+      "UsersEstimate": 5058
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14448,
+      "Progressed": 14450,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-09T20:03:46.4970665+00:00",
+  "LastChanged_Achievements": "2023-08-09T21:04:48.915458+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:55.7503888+00:00",
-  "LastUpdate_Ratings": "2023-08-09T20:00:39.4156058+00:00",
-  "LastUpdate_Achievements": "2023-08-09T20:03:46.4971531+00:00"
+  "LastUpdate_Ratings": "2023-08-09T21:02:28.7259509+00:00",
+  "LastUpdate_Achievements": "2023-08-09T21:04:48.9155373+00:00"
 }

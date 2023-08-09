@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6078,9 +6078,9 @@
       "Count": 580
     }
   ],
-  "EOS_Progressed": 289727,
+  "EOS_Progressed": 289729,
   "EOS_Completed": 444,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 515,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -18063,6 +18063,11 @@
       "Time": "2023-08-09T20:05:21.4936419+00:00",
       "NumProgressed": 289727,
       "NumCompleted": 444
+    },
+    {
+      "Time": "2023-08-09T21:06:51.3930114+00:00",
+      "NumProgressed": 289729,
+      "NumCompleted": 444
     }
   ],
   "TotalAchievements": 45,
@@ -18082,7 +18087,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26075
+      "UsersEstimate": 26076
     },
     {
       "ID": "PFA_11",
@@ -18090,7 +18095,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26075
+      "UsersEstimate": 26076
     },
     {
       "ID": "PFA_12",
@@ -18098,7 +18103,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26075
+      "UsersEstimate": 26076
     },
     {
       "ID": "PFA_13",
@@ -18106,7 +18111,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26075
+      "UsersEstimate": 26076
     },
     {
       "ID": "PFA_14",
@@ -18130,7 +18135,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26075
+      "UsersEstimate": 26076
     },
     {
       "ID": "PFA_17",
@@ -18176,9 +18181,9 @@
       "ID": "PFA_21",
       "SetID": "1hf4dep",
       "Name": "Challenge Accepted",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 23178
+      "UsersEstimate": 26076
     },
     {
       "ID": "PFA_22",
@@ -18202,7 +18207,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26075
+      "UsersEstimate": 26076
     },
     {
       "ID": "PFA_25",
@@ -18258,7 +18263,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26075
+      "UsersEstimate": 26076
     },
     {
       "ID": "PFA_31",
@@ -18280,9 +18285,9 @@
       "ID": "PFA_33",
       "SetID": "1hf4dep",
       "Name": "Spilled Milk",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2318
     },
     {
       "ID": "PFA_34",
@@ -18330,7 +18335,7 @@
       "Name": "Coasting Along",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26075
+      "UsersEstimate": 26076
     },
     {
       "ID": "PFA_4",
@@ -18433,7 +18438,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289727,
+      "Progressed": 289729,
       "Completed": 444
     }
   ],
@@ -18441,8 +18446,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-09T16:58:28.2702896+00:00",
-  "LastChanged_Achievements": "2023-08-09T20:05:21.4936413+00:00",
+  "LastChanged_Achievements": "2023-08-09T21:06:51.3930108+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.8672159+00:00",
-  "LastUpdate_Ratings": "2023-08-09T19:58:15.5460973+00:00",
-  "LastUpdate_Achievements": "2023-08-09T20:05:21.493766+00:00"
+  "LastUpdate_Ratings": "2023-08-09T20:58:59.913411+00:00",
+  "LastUpdate_Achievements": "2023-08-09T21:06:51.3931361+00:00"
 }

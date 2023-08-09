@@ -11,14 +11,14 @@
 | Graduated | 33.00% | ~36 |
 | Night Shift | 24.00% | ~26 |
 | Shine bright | 15.00% | ~16 |
-| Ay ay yarrr! | 13.00% | ~14 |
+| Ay ay yarrr! | 14.00% | ~15 |
 | It's about the journey | 12.00% | ~13 |
 | C'who? | 10.00% | ~11 |
 | There be sand in me shorts | 9.00% | ~10 |
 | Make it rain | 7.00% | ~8 |
 | Holy Crops! | 7.00% | ~8 |
 | It gets everywhere | 7.00% | ~8 |
-| Peaceful skies | 5.00% | ~6 |
+| Peaceful skies | 6.00% | ~7 |
 | Do you wanna build a snowboiii? | 5.00% | ~6 |
 | Groovy! | 4.00% | ~4 |
 | It's a bug's life | 4.00% | ~4 |

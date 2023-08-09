@@ -5,28 +5,28 @@ Rating: 3.94 (Ranked 938)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~52,999 |
-| First One’s Free | 65.00% | ~46,553 |
-| Neophyte Ninja | 50.00% | ~35,810 |
-| Too Old for This | 47.00% | ~33,661 |
-| Case Closed | 35.00% | ~25,067 |
-| Fancy Pants | 35.00% | ~25,067 |
-| King of the Hill | 34.00% | ~24,351 |
-| Underworld Initiate | 29.00% | ~20,770 |
-| Roid Ranger | 21.00% | ~15,040 |
+| Downed but Not Outed | 74.00% | ~53,001 |
+| First One’s Free | 65.00% | ~46,555 |
+| Neophyte Ninja | 50.00% | ~35,812 |
+| Too Old for This | 47.00% | ~33,663 |
+| Case Closed | 35.00% | ~25,068 |
+| Fancy Pants | 35.00% | ~25,068 |
+| King of the Hill | 34.00% | ~24,352 |
+| Underworld Initiate | 29.00% | ~20,771 |
+| Roid Ranger | 21.00% | ~15,041 |
 | True Player | 19.00% | ~13,608 |
 | Off the Rocks | 19.00% | ~13,608 |
-| Raider’s Ruin | 17.00% | ~12,175 |
-| Dragonslayer | 17.00% | ~12,175 |
+| Raider’s Ruin | 17.00% | ~12,176 |
+| Dragonslayer | 17.00% | ~12,176 |
 | Hidden Sonata | 13.00% | ~9,311 |
-| Rockay Rex | 11.00% | ~7,878 |
+| Rockay Rex | 11.00% | ~7,879 |
 | Freebooter | 10.00% | ~7,162 |
 | Track Star | 9.00% | ~6,446 |
 | Ding Dong | 9.00% | ~6,446 |
 | Classy Joint | 9.00% | ~6,446 |
 | I Like Trains | 8.00% | ~5,730 |
 | Headhunter | 8.00% | ~5,730 |
-| Foo Finder | 7.00% | ~5,013 |
+| Foo Finder | 7.00% | ~5,014 |
 | Legend Looter | 5.00% | ~3,581 |
 | Savvy Seeker | 5.00% | ~3,581 |
 | Imports and Exports | 4.00% | ~2,865 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 938)
 | Geek Out | 0.60% | ~430 |
 | Full House | 0.20% | ~143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,620 (Ranked 77)  
+Progressed: 71,623 (Ranked 77)  
 Completed: 37 (0.05%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,16 +154,16 @@ Completed: 37 (0.05%) (Ranked 216)
 | 2023-08-06 | 71,468 | 37 |
 | 2023-08-07 | 71,517 | 37 |
 | 2023-08-08 | 71,567 | 37 |
-| 2023-08-09 | 71,620 | 37 |
+| 2023-08-09 | 71,623 | 37 |
 ## Awards
 Max (Diverse Characters): 398  (Ranked 215)  
-Sum: 1,864 (Ranked 204)  
+Sum: 1,865 (Ranked 204)  
 Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 398 |
+| This game has Quickly Understood Controls | 377 |
 | This game is Highly Recommended | 377 |
-| This game has Quickly Understood Controls | 376 |
 | This game has Challenging Combat | 360 |
 | This game has Amazing Characters | 353 |
 | This game is Great for Quick Sessions | 70 |
@@ -303,4 +303,4 @@ Diff (max vs sum): 11
 | 2023-08-06 | 3.94 | 394 | 1,848 |
 | 2023-08-07 | 3.94 | 394 | 1,851 |
 | 2023-08-08 | 3.94 | 394 | 1,860 |
-| 2023-08-09 | 3.94 | 398 | 1,864 |
+| 2023-08-09 | 3.94 | 398 | 1,865 |

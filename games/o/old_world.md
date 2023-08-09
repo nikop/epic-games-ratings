@@ -89,6 +89,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.50% | ~67 |
 | Traders | 0.50% | ~67 |
 | Hittite Iron | 0.50% | ~67 |
+| Circus Maximus | 0.50% | ~67 |
 | Hagia Sophia | 0.50% | ~67 |
 | Temple of Solomon | 0.50% | ~67 |
 | Pantheon | 0.50% | ~67 |
@@ -107,7 +108,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.40% | ~53 |
 | Landowners | 0.40% | ~53 |
 | Riders | 0.40% | ~53 |
-| Circus Maximus | 0.40% | ~53 |
 | Church of the Holy Sepulchre | 0.40% | ~53 |
 | Adur Burzen-Mihr | 0.40% | ~53 |
 | Learn to Play 3 | 0.40% | ~53 |

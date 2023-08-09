@@ -27,8 +27,8 @@ Rating: 3.50 (Ranked 965)
 | Radio Silence | 16.00% | ~277 |
 | Helping Hand | 13.00% | ~225 |
 | You Clean It Up | 11.00% | ~191 |
+| Block Party | 9.00% | ~156 |
 | Starve the Beast | 9.00% | ~156 |
-| Block Party | 8.00% | ~139 |
 | From the Shadows | 7.00% | ~121 |
 | Bell-ringer | 5.00% | ~87 |
 | Silence Is Golden | 5.00% | ~87 |

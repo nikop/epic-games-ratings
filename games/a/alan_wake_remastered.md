@@ -6,29 +6,29 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,423 |
-| Let There Be Light | 30.00% | ~18,181 |
+| Follow the Light | 37.00% | ~22,424 |
+| Let There Be Light | 30.00% | ~18,182 |
 | Float Like a Butterfly | 29.00% | ~17,575 |
-| Nordic Walking | 23.00% | ~13,938 |
-| Bright Falls' Finest | 22.00% | ~13,332 |
-| Under a Thin Layer of Skin | 20.00% | ~12,120 |
-| Park Ranger | 16.00% | ~9,696 |
-| Paging Mr. Wake | 16.00% | ~9,696 |
-| Back! Back, I Say! | 15.00% | ~9,090 |
-| Finders Keepers | 15.00% | ~9,090 |
-| Sound and Fury | 14.00% | ~8,484 |
-| Damn Good Cup of Coffee | 14.00% | ~8,484 |
-| Wheels Within Wheels | 13.00% | ~7,878 |
-| They're Heeeeeere! | 13.00% | ~7,878 |
-| Missed by a Mile | 13.00% | ~7,878 |
-| Iron Horse | 12.00% | ~7,272 |
-| The Six-Gun Scribe | 12.00% | ~7,272 |
-| Collateral Carnage | 12.00% | ~7,272 |
-| Come One, Come All | 12.00% | ~7,272 |
-| Heavy Metal | 11.00% | ~6,666 |
-| Perchance to Dream | 11.00% | ~6,666 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,666 |
-| Thunder and Lightning | 11.00% | ~6,666 |
+| Nordic Walking | 23.00% | ~13,939 |
+| Bright Falls' Finest | 22.00% | ~13,333 |
+| Under a Thin Layer of Skin | 20.00% | ~12,121 |
+| Park Ranger | 16.00% | ~9,697 |
+| Paging Mr. Wake | 16.00% | ~9,697 |
+| Back! Back, I Say! | 15.00% | ~9,091 |
+| Finders Keepers | 15.00% | ~9,091 |
+| Sound and Fury | 14.00% | ~8,485 |
+| Damn Good Cup of Coffee | 14.00% | ~8,485 |
+| Wheels Within Wheels | 13.00% | ~7,879 |
+| They're Heeeeeere! | 13.00% | ~7,879 |
+| Missed by a Mile | 13.00% | ~7,879 |
+| Iron Horse | 12.00% | ~7,273 |
+| The Six-Gun Scribe | 12.00% | ~7,273 |
+| Collateral Carnage | 12.00% | ~7,273 |
+| Come One, Come All | 12.00% | ~7,273 |
+| Heavy Metal | 11.00% | ~6,667 |
+| Perchance to Dream | 11.00% | ~6,667 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,667 |
+| Thunder and Lightning | 11.00% | ~6,667 |
 | Gatekeeper | 10.00% | ~6,060 |
 | Two For the Price of One | 10.00% | ~6,060 |
 | Energized! | 10.00% | ~6,060 |
@@ -55,7 +55,7 @@ Number of Ratings: 524  (23.09.2022)
 | Iron Will | 2.00% | ~481 |
 | Couch Potato | 1.00% | ~606 |
 | Go Gentle Into That Good Light | 1.00% | ~241 |
-| Words Will Never Harm You | 0.70% | ~168 |
+| Words Will Never Harm You | 0.70% | ~169 |
 | Cardboard Companions | 0.60% | ~144 |
 | Fast and Furious | 0.50% | ~120 |
 | Run-On Sentence | 0.40% | ~96 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,602 (Ranked 85)  
+Progressed: 60,605 (Ranked 85)  
 Completed: 64 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 64 (0.11%) (Ranked 195)
 | 2023-08-06 | 60,420 | 64 |
 | 2023-08-07 | 60,481 | 64 |
 | 2023-08-08 | 60,545 | 64 |
-| 2023-08-09 | 60,602 | 64 |
+| 2023-08-09 | 60,605 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

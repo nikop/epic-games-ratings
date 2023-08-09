@@ -2,7 +2,7 @@
   "ID": "a8bf762f26ca484cb26164d48821e90f",
   "Name": "BROK the InvestiGator",
   "ProductSlug": "brok-the-investigator-fb0513",
-  "Ranking_EOS_Progress": 405,
+  "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 93,
@@ -348,8 +348,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2023-08-09T20:05:10.7985522+00:00",
+  "LastChanged_Achievements": "2023-08-09T21:06:36.1684689+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:55.8725617+00:00",
-  "LastUpdate_Ratings": "2023-08-09T19:59:44.817184+00:00",
-  "LastUpdate_Achievements": "2023-08-09T20:05:10.7985712+00:00"
+  "LastUpdate_Ratings": "2023-08-09T21:01:12.5787262+00:00",
+  "LastUpdate_Achievements": "2023-08-09T21:06:36.168492+00:00"
 }

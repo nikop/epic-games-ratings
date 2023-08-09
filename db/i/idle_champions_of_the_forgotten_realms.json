@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5630,10 +5630,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30962,
       "NumberOfAwardsMax": 5128
+    },
+    {
+      "Time": "2023-08-09T21:00:00.4067157+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30971,
+      "NumberOfAwardsMax": 5128
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30962,
+  "NumberOfAwards": 30971,
   "NumberOfAwardsMax": 5128,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5641,7 +5647,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5074
+      "Count": 5083
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5680,10 +5686,10 @@
       "Count": 3347
     }
   ],
-  "EOS_Progressed": 220253,
+  "EOS_Progressed": 220262,
   "EOS_Completed": 2167,
-  "EOS_NewPlayers": 2274,
-  "EOS_NewCompleters": 23,
+  "EOS_NewPlayers": 2264,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -17705,6 +17711,11 @@
       "Time": "2023-08-09T20:02:12.8927874+00:00",
       "NumProgressed": 220253,
       "NumCompleted": 2167
+    },
+    {
+      "Time": "2023-08-09T21:03:19.3818962+00:00",
+      "NumProgressed": 220262,
+      "NumCompleted": 2167
     }
   ],
   "TotalAchievements": 516,
@@ -17754,9 +17765,9 @@
       "ID": "objective_completed_1040",
       "SetID": "415jc5c",
       "Name": "Cold as Ice",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1041",
@@ -17922,9 +17933,9 @@
       "ID": "objective_completed_1071",
       "SetID": "415jc5c",
       "Name": "Always Watching",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1075",
@@ -18074,9 +18085,9 @@
       "ID": "objective_completed_1097",
       "SetID": "415jc5c",
       "Name": "Bully for You!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_11",
@@ -18338,17 +18349,17 @@
       "ID": "objective_completed_1152",
       "SetID": "415jc5c",
       "Name": "Seeds of Destruction",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1153",
       "SetID": "415jc5c",
       "Name": "Speeds of Destruction",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1154",
@@ -18730,9 +18741,9 @@
       "ID": "objective_completed_1326",
       "SetID": "415jc5c",
       "Name": "Between a Brigganock and a Hard Place",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1330",
@@ -18746,9 +18757,9 @@
       "ID": "objective_completed_1331",
       "SetID": "415jc5c",
       "Name": "The Play\u0027s the Thing!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1335",
@@ -19002,17 +19013,17 @@
       "ID": "objective_completed_182",
       "SetID": "415jc5c",
       "Name": "Snakes on our Plane",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_184",
       "SetID": "cc37lbc",
       "Name": "Tomb of the Nine Gods",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 220
     },
     {
       "ID": "objective_completed_185",
@@ -19194,9 +19205,9 @@
       "ID": "objective_completed_246",
       "SetID": "cc37lbc",
       "Name": "The Immortal Warrior",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 220
     },
     {
       "ID": "objective_completed_247",
@@ -19882,9 +19893,9 @@
       "ID": "objective_completed_542",
       "SetID": "cc37lbc",
       "Name": "A Tale of Two Champions",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 220
     },
     {
       "ID": "objective_completed_543",
@@ -20530,9 +20541,9 @@
       "ID": "objective_completed_637",
       "SetID": "415jc5c",
       "Name": "Zombie Dreams",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_638",
@@ -20722,9 +20733,9 @@
       "ID": "objective_completed_676",
       "SetID": "415jc5c",
       "Name": "Extreme Heat",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_677",
@@ -21058,9 +21069,9 @@
       "ID": "objective_completed_819",
       "SetID": "415jc5c",
       "Name": "Rickety Rubble",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_82",
@@ -21146,9 +21157,9 @@
       "ID": "objective_completed_838",
       "SetID": "415jc5c",
       "Name": "Don\u0027t Pick at the Scab",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_839",
@@ -21162,17 +21173,17 @@
       "ID": "objective_completed_842",
       "SetID": "415jc5c",
       "Name": "Idyllglen",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_843",
       "SetID": "415jc5c",
       "Name": "The Madness of Yeenoghu",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_844",
@@ -21314,9 +21325,9 @@
       "ID": "objective_completed_869",
       "SetID": "415jc5c",
       "Name": "The Stunning Tower Battle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_872",
@@ -21410,9 +21421,9 @@
       "ID": "objective_completed_892",
       "SetID": "415jc5c",
       "Name": "Ending the Rime - Part 2",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_893",
@@ -21450,9 +21461,9 @@
       "ID": "objective_completed_899",
       "SetID": "415jc5c",
       "Name": "Male Pattern Boldness",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_9",
@@ -21474,9 +21485,9 @@
       "ID": "objective_completed_903",
       "SetID": "415jc5c",
       "Name": "Cackling Horror",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_904",
@@ -21538,9 +21549,9 @@
       "ID": "objective_completed_928",
       "SetID": "415jc5c",
       "Name": "The Rite of the Arcane Octad",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_929",
@@ -21626,17 +21637,17 @@
       "ID": "objective_completed_1355",
       "SetID": "415jc5c",
       "Name": "The Court of Storms",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1356",
       "SetID": "415jc5c",
       "Name": "Coasting to the Finish",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1360",
@@ -21658,17 +21669,17 @@
       "ID": "objective_completed_1042",
       "SetID": "415jc5c",
       "Name": "Willing to Sacrifice",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1047",
       "SetID": "415jc5c",
       "Name": "Devilishly Cold",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1215",
@@ -21843,21 +21854,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 186527,
-      "Completed": 3083
+      "Progressed": 186536,
+      "Completed": 3086
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 220253,
+      "Progressed": 220262,
       "Completed": 2167
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-09T19:58:55.9495921+00:00",
-  "LastChanged_Achievements": "2023-08-09T20:02:12.8927868+00:00",
+  "LastChanged": "2023-08-09T21:00:00.4067154+00:00",
+  "LastChanged_Achievements": "2023-08-09T21:03:19.3818957+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-09T19:58:55.9495926+00:00",
-  "LastUpdate_Achievements": "2023-08-09T20:02:12.8957503+00:00"
+  "LastUpdate_Ratings": "2023-08-09T21:00:00.4067163+00:00",
+  "LastUpdate_Achievements": "2023-08-09T21:03:19.3852839+00:00"
 }
