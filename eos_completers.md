@@ -27,7 +27,7 @@
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 26 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.76% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.76% |
-| 26 | [Sonic Origins](games/s/sonic_origins.md) | 9.76% |
+| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.74% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.52% |
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.62% |
@@ -69,8 +69,8 @@
 | 67 | [Monster Harvest](games/m/monster_harvest.md) | 2.96% |
 | 68 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 69 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.87% |
-| 70 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.86% |
-| 71 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
+| 70 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.78% |
+| 70 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 72 | [Destiny 2](games/d/destiny_2.md) | 2.75% |
 | 73 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 74 | [The Bunker](games/t/the_bunker.md) | 2.70% |
