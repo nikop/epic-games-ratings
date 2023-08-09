@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -659,9 +659,9 @@
       "ID": "ACHIEVEMENT_ID_19",
       "SetID": "c504de6",
       "Name": "Health Care",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_ID_2",
@@ -683,9 +683,9 @@
       "ID": "ACHIEVEMENT_ID_21",
       "SetID": "c504de6",
       "Name": "There\u0027s something in those trees",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_ID_22",
@@ -930,8 +930,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-08-09T17:05:17.1306602+00:00",
+  "LastChanged_Achievements": "2023-08-09T18:04:25.7265512+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:41.7077293+00:00",
-  "LastUpdate_Ratings": "2023-08-09T17:00:03.8294069+00:00",
-  "LastUpdate_Achievements": "2023-08-09T17:05:17.1307015+00:00"
+  "LastUpdate_Ratings": "2023-08-09T17:59:24.5964356+00:00",
+  "LastUpdate_Achievements": "2023-08-09T18:04:25.7265844+00:00"
 }

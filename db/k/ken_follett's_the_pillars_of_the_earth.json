@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14445,
+  "EOS_Progressed": 14447,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -7770,6 +7770,11 @@
       "Time": "2023-08-09T17:04:26.4297637+00:00",
       "NumProgressed": 14445,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-09T18:03:44.5072332+00:00",
+      "NumProgressed": 14447,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 41,
@@ -7821,7 +7826,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4911
+      "UsersEstimate": 4912
     },
     {
       "ID": "tpote_achievement_15",
@@ -7837,7 +7842,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2022
+      "UsersEstimate": 2023
     },
     {
       "ID": "tpote_achievement_17",
@@ -7869,7 +7874,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4911
+      "UsersEstimate": 4912
     },
     {
       "ID": "tpote_achievement_20",
@@ -7957,7 +7962,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4622
+      "UsersEstimate": 4623
     },
     {
       "ID": "tpote_achievement_30",
@@ -7965,7 +7970,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "tpote_achievement_31",
@@ -8045,7 +8050,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5922
+      "UsersEstimate": 5923
     },
     {
       "ID": "tpote_achievement_40",
@@ -8108,15 +8113,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14445,
+      "Progressed": 14447,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-09T17:04:26.4297632+00:00",
+  "LastChanged_Achievements": "2023-08-09T18:03:44.5072327+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:55.7503888+00:00",
-  "LastUpdate_Ratings": "2023-08-09T17:01:27.5502259+00:00",
-  "LastUpdate_Achievements": "2023-08-09T17:04:26.4298424+00:00"
+  "LastUpdate_Ratings": "2023-08-09T18:00:26.2292658+00:00",
+  "LastUpdate_Achievements": "2023-08-09T18:03:44.5072925+00:00"
 }

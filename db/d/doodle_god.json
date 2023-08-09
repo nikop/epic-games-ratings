@@ -4,7 +4,7 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 230,
+  "EOS_Progressed": 231,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.48,
+  "EOS_Completed_Percentage": 3.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -221,6 +221,11 @@
       "Time": "2023-08-03T09:04:27.0327933+00:00",
       "NumProgressed": 230,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-09T18:03:49.2770597+00:00",
+      "NumProgressed": 231,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 22,
@@ -232,15 +237,15 @@
       "Name": "Good Start",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "605742",
       "SetID": "4lpaifm",
       "Name": "Creator of Diversity",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 161
+      "UsersEstimate": 164
     },
     {
       "ID": "605752",
@@ -248,7 +253,7 @@
       "Name": "Creator of Life",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "605762",
@@ -256,15 +261,15 @@
       "Name": "Creator of Humanity",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "605772",
       "SetID": "4lpaifm",
       "Name": "Creator of Civilization",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 90
     },
     {
       "ID": "605782",
@@ -278,9 +283,9 @@
       "ID": "605792",
       "SetID": "4lpaifm",
       "Name": "Creator of Modernity",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "605802",
@@ -312,7 +317,7 @@
       "Name": "Deity of Darkness",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "605842",
@@ -334,9 +339,9 @@
       "ID": "605862",
       "SetID": "4lpaifm",
       "Name": "Half the Kingdom",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "605872",
@@ -344,7 +349,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "605892",
@@ -407,7 +412,7 @@
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 230,
+      "Progressed": 231,
       "Completed": 8
     }
   ],
@@ -415,8 +420,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-08-09T17:04:32.2258238+00:00",
+  "LastChanged_Achievements": "2023-08-09T18:03:49.2770593+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:26.3783607+00:00",
-  "LastUpdate_Ratings": "2023-08-09T17:00:51.2227125+00:00",
-  "LastUpdate_Achievements": "2023-08-09T17:04:32.2258407+00:00"
+  "LastUpdate_Ratings": "2023-08-09T17:59:59.7630371+00:00",
+  "LastUpdate_Achievements": "2023-08-09T18:03:49.2770724+00:00"
 }

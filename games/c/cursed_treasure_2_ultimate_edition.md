@@ -37,8 +37,8 @@
 | Brilliant: Tanglewood | 52.00% | ~86 |
 | It's a Trap | 52.00% | ~86 |
 | Starry: Holy Mountain | 50.00% | ~82 |
+| Deposition | 48.00% | ~79 |
 | Brilliant: Arcania | 48.00% | ~79 |
-| Deposition | 47.00% | ~78 |
 | Starry: Tanglewood | 45.00% | ~74 |
 | Starry: Arcania | 42.00% | ~69 |
 | Sing, My Angel | 41.00% | ~68 |

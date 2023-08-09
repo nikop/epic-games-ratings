@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 670,
+  "EOS_Progressed": 672,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1406,6 +1406,11 @@
       "Time": "2023-08-09T04:05:42.0285477+00:00",
       "NumProgressed": 670,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-09T18:05:45.6521635+00:00",
+      "NumProgressed": 672,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1417,7 +1422,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1425,7 +1430,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1537,7 +1542,7 @@
       "Name": "Burnt Smell",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -1615,9 +1620,9 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 188
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -1697,15 +1702,15 @@
       "Name": "Breaking Twigs",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 188
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -1713,7 +1718,7 @@
       "Name": "Decakill!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -1809,7 +1814,7 @@
       "Name": "Night Snack",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -1849,7 +1854,7 @@
       "Name": "The Last of Us",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -1865,7 +1870,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -1944,14 +1949,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 670,
+      "Progressed": 672,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-09T17:06:53.6540864+00:00",
+  "LastChanged_Achievements": "2023-08-09T18:05:45.652163+00:00",
   "LastUpdate_AppInfo": "2023-08-03T14:57:17.7014877+00:00",
-  "LastUpdate_Ratings": "2023-08-09T16:57:44.4343668+00:00",
-  "LastUpdate_Achievements": "2023-08-09T17:06:53.6541643+00:00"
+  "LastUpdate_Ratings": "2023-08-09T17:57:33.594061+00:00",
+  "LastUpdate_Achievements": "2023-08-09T18:05:45.6522217+00:00"
 }

@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524571,
+  "EOS_Progressed": 524573,
   "EOS_Completed": 455,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 623,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -12170,6 +12170,11 @@
       "Time": "2023-08-09T17:05:17.8935909+00:00",
       "NumProgressed": 524571,
       "NumCompleted": 455
+    },
+    {
+      "Time": "2023-08-09T18:04:26.3705394+00:00",
+      "NumProgressed": 524573,
+      "NumCompleted": 455
     }
   ],
   "TotalAchievements": 57,
@@ -12181,7 +12186,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 120651
+      "UsersEstimate": 120652
     },
     {
       "ID": "10",
@@ -12189,7 +12194,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 236057
+      "UsersEstimate": 236058
     },
     {
       "ID": "11",
@@ -12197,7 +12202,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 367200
+      "UsersEstimate": 367201
     },
     {
       "ID": "12",
@@ -12237,7 +12242,7 @@
       "Name": "Road Less Travelled",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47211
+      "UsersEstimate": 47212
     },
     {
       "ID": "17",
@@ -12261,7 +12266,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 325234
+      "UsersEstimate": 325235
     },
     {
       "ID": "2",
@@ -12277,7 +12282,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 125897
+      "UsersEstimate": 125898
     },
     {
       "ID": "21",
@@ -12293,7 +12298,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 47211
+      "UsersEstimate": 47212
     },
     {
       "ID": "23",
@@ -12413,7 +12418,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 83931
+      "UsersEstimate": 83932
     },
     {
       "ID": "37",
@@ -12437,7 +12442,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 178354
+      "UsersEstimate": 178355
     },
     {
       "ID": "4",
@@ -12509,7 +12514,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 325234
+      "UsersEstimate": 325235
     },
     {
       "ID": "48",
@@ -12517,7 +12522,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 104914
+      "UsersEstimate": 104915
     },
     {
       "ID": "49",
@@ -12525,7 +12530,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 178354
+      "UsersEstimate": 178355
     },
     {
       "ID": "5",
@@ -12557,7 +12562,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 241303
+      "UsersEstimate": 241304
     },
     {
       "ID": "53",
@@ -12565,7 +12570,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 120651
+      "UsersEstimate": 120652
     },
     {
       "ID": "54",
@@ -12636,15 +12641,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 524571,
+      "Progressed": 524573,
       "Completed": 455
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-09T17:05:17.8935904+00:00",
+  "LastChanged_Achievements": "2023-08-09T18:04:26.370539+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.5047426+00:00",
-  "LastUpdate_Ratings": "2023-08-09T16:58:25.6059223+00:00",
-  "LastUpdate_Achievements": "2023-08-09T17:05:17.8937173+00:00"
+  "LastUpdate_Ratings": "2023-08-09T17:58:10.3176166+00:00",
+  "LastUpdate_Achievements": "2023-08-09T18:04:26.3706339+00:00"
 }

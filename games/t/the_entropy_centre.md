@@ -14,7 +14,7 @@
 | 48 Attempts | 37.00% | ~88 |
 | Man's Best Friend | 37.00% | ~88 |
 | Handyman | 24.00% | ~57 |
-| No Time To Relax | 20.00% | ~48 |
+| No Time To Relax | 21.00% | ~50 |
 | Bad Robots | 18.00% | ~43 |
 | Running Boots | 17.00% | ~40 |
 | Archivist | 17.00% | ~40 |

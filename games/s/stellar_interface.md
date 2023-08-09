@@ -65,6 +65,7 @@
 | Sectoral Admiral | 2.00% | ~1 |
 | 80Gb HDD | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
+| System Captain | 2.00% | ~1 |
 | Mysterious Skin | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
@@ -122,7 +123,6 @@
 | Archer's Silver Fate | 0.00% | ~0 |
 | Silver Alchemist | 0.00% | ~0 |
 | Magic Silver mirror; on the wall | 0.00% | ~0 |
-| System Captain | 0.00% | ~0 |
 | Galactic Captain | 0.00% | ~0 |
 | Universal Captain | 0.00% | ~0 |
 | Silver BBQ | 0.00% | ~0 |

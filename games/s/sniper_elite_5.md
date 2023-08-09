@@ -6,6 +6,7 @@ Rating: 4.43 (Ranked 657)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Liberté | 5.00% | ~172 |
+| The Kraken Wakes | 5.00% | ~172 |
 | It's Starting to Crack | 5.00% | ~172 |
 | Change the Channel | 5.00% | ~172 |
 | Taking it back | 5.00% | ~172 |
@@ -18,7 +19,6 @@ Rating: 4.43 (Ranked 657)
 | Lord of War | 4.00% | ~138 |
 | Resourceful | 4.00% | ~138 |
 | As Quiet as a Mouse | 4.00% | ~138 |
-| The Kraken Wakes | 4.00% | ~138 |
 | No Stone Unturned | 3.00% | ~103 |
 | Organ Grinder | 3.00% | ~103 |
 | Gunslinger | 3.00% | ~103 |

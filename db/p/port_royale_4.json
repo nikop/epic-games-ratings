@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 814,
+  "EOS_Progressed": 815,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1685,6 +1685,11 @@
       "Time": "2023-08-08T09:07:03.9419131+00:00",
       "NumProgressed": 814,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-09T18:05:11.7514288+00:00",
+      "NumProgressed": 815,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1694,9 +1699,9 @@
       "ID": "ACH000",
       "SetID": "69nfp41",
       "Name": "Cabin boy",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 659
+      "UsersEstimate": 652
     },
     {
       "ID": "ACH001",
@@ -1752,7 +1757,7 @@
       "Name": "My little farm",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ACH008",
@@ -1800,7 +1805,7 @@
       "Name": "In a mint condition",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH014",
@@ -1832,7 +1837,7 @@
       "Name": "Pearly gates",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH018",
@@ -1896,7 +1901,7 @@
       "Name": "My precious!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH026",
@@ -2095,15 +2100,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 814,
+      "Progressed": 815,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-08-09T17:06:12.8171784+00:00",
+  "LastChanged_Achievements": "2023-08-09T18:05:11.7514284+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:19.8733538+00:00",
-  "LastUpdate_Ratings": "2023-08-09T16:59:42.7875144+00:00",
-  "LastUpdate_Achievements": "2023-08-09T17:06:12.8172355+00:00"
+  "LastUpdate_Ratings": "2023-08-09T17:59:06.2437868+00:00",
+  "LastUpdate_Achievements": "2023-08-09T18:05:11.7514698+00:00"
 }

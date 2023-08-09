@@ -1,7 +1,7 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.55 (Ranked 486)  
+Rating: 4.56 (Ranked 469)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,8 +9,8 @@ Number of Ratings: 98  (23.09.2022)
 | Peak Performance | 55.00% | ~3,628 |
 | Tutti Eroi! | 55.00% | ~3,628 |
 | You Shall Not Pass | 53.00% | ~3,496 |
-| Avanti Savoia! | 47.00% | ~3,100 |
-| Mamma Mia! | 38.00% | ~2,506 |
+| Avanti Savoia! | 47.00% | ~3,101 |
+| Mamma Mia! | 38.00% | ~2,507 |
 | Conrad von Hotzensocks | 36.00% | ~2,375 |
 | Gabriele D'Annunzio | 33.00% | ~2,177 |
 | Silver Lining | 30.00% | ~1,979 |
@@ -22,12 +22,12 @@ Number of Ratings: 98  (23.09.2022)
 | The Italian Job | 20.00% | ~1,319 |
 | Ragazzi del '99 | 18.00% | ~1,187 |
 | The Lion of the Isonzo | 18.00% | ~1,187 |
-| Dirty Dozen | 14.00% | ~923 |
-| Luigi Cadorna | 14.00% | ~923 |
-| Thus With A Kiss | 14.00% | ~923 |
-| Uomo Universale | 14.00% | ~923 |
-| Machiavelli | 13.00% | ~857 |
-| Shaken, Not Stirred | 13.00% | ~857 |
+| Dirty Dozen | 14.00% | ~924 |
+| Luigi Cadorna | 14.00% | ~924 |
+| Thus With A Kiss | 14.00% | ~924 |
+| Uomo Universale | 14.00% | ~924 |
+| Machiavelli | 13.00% | ~858 |
+| Shaken, Not Stirred | 13.00% | ~858 |
 | Die Bosniaken Kommen! | 12.00% | ~792 |
 | Dante's Inferno | 11.00% | ~726 |
 | The Devil's Paintbrush | 11.00% | ~726 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~26 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,596 (Ranked 133)  
+Progressed: 6,597 (Ranked 133)  
 Completed: 8 (0.12%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 8 (0.12%) (Ranked 192)
 | 2023-08-06 | 6,588 | 8 |
 | 2023-08-07 | 6,590 | 8 |
 | 2023-08-08 | 6,594 | 8 |
-| 2023-08-09 | 6,596 | 8 |
+| 2023-08-09 | 6,597 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 436)  
 Sum: 266 (Ranked 350)  
@@ -278,4 +278,4 @@ Diff (max vs sum): 86
 | 2023-08-05 | 4.56 | - | 35 | 264 |
 | 2023-08-06 | 4.56 | - | 35 | 265 |
 | 2023-08-08 | 4.56 | - | 35 | 266 |
-| 2023-08-09 | 4.55 | - | 35 | 266 |
+| 2023-08-09 | 4.56 | - | 35 | 266 |

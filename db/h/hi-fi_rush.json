@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3815,
+  "EOS_Progressed": 3816,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5572,6 +5572,11 @@
       "Time": "2023-08-09T12:05:30.8125024+00:00",
       "NumProgressed": 3815,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-09T18:04:29.2212397+00:00",
+      "NumProgressed": 3816,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -5589,9 +5594,9 @@
       "ID": "Ach002",
       "SetID": "12n4k20",
       "Name": "Cream of the Crop",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 229
     },
     {
       "ID": "Ach003",
@@ -6150,13 +6155,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3815,
+      "Progressed": 3816,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2336,
+      "Progressed": 2337,
       "Completed": 1928
     }
   ],
@@ -6164,8 +6169,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-08-09T17:05:21.2210003+00:00",
+  "LastChanged_Achievements": "2023-08-09T18:04:29.2212393+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:24.9640697+00:00",
-  "LastUpdate_Ratings": "2023-08-09T16:59:48.0244666+00:00",
-  "LastUpdate_Achievements": "2023-08-09T17:05:21.2211146+00:00"
+  "LastUpdate_Ratings": "2023-08-09T17:59:10.7790016+00:00",
+  "LastUpdate_Achievements": "2023-08-09T18:04:29.2213181+00:00"
 }

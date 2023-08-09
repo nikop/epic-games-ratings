@@ -8,8 +8,8 @@
 | First Step | 51.00% | ~69 |
 | Capitalism | 19.00% | ~26 |
 | Indebted | 12.00% | ~16 |
+| There's something in those trees | 10.00% | ~14 |
 | Desert Rat | 10.00% | ~14 |
-| There's something in those trees | 9.00% | ~12 |
 | Great Producer | 9.00% | ~12 |
 | Green Energy | 8.00% | ~11 |
 | Desert Power | 7.00% | ~10 |
@@ -18,10 +18,10 @@
 | Fuel Tycoon | 6.00% | ~8 |
 | Ammo Tycoon | 6.00% | ~8 |
 | Perfect Soldier | 5.00% | ~7 |
+| Health Care | 5.00% | ~7 |
 | Pathfinder | 5.00% | ~7 |
 | Supersoldier | 4.00% | ~5 |
 | Outdoor Decorator | 4.00% | ~5 |
-| Health Care | 4.00% | ~5 |
 | Healing | 4.00% | ~5 |
 | Self-sufficient | 4.00% | ~5 |
 | Food Tycoon | 4.00% | ~5 |

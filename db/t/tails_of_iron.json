@@ -229,7 +229,7 @@
   "Tags": [],
   "EOS_Progressed": 1855,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2459,9 +2459,9 @@
       "ID": "CompleteAll",
       "SetID": "9lj35g4",
       "Name": "King of Kings",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 130
+      "UsersEstimate": 148
     },
     {
       "ID": "CompleteArenaFaction",
@@ -2666,8 +2666,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-30T07:58:33.6633976+00:00",
-  "LastChanged_Achievements": "2023-08-09T17:04:36.9193227+00:00",
+  "LastChanged_Achievements": "2023-08-09T18:03:53.1871544+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:14.9786304+00:00",
-  "LastUpdate_Ratings": "2023-08-09T16:59:39.1691152+00:00",
-  "LastUpdate_Achievements": "2023-08-09T17:04:36.9193613+00:00"
+  "LastUpdate_Ratings": "2023-08-09T17:59:03.2227244+00:00",
+  "LastUpdate_Achievements": "2023-08-09T18:03:53.187183+00:00"
 }

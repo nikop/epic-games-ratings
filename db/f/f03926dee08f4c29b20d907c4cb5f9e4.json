@@ -2,9 +2,9 @@
   "ID": "f03926dee08f4c29b20d907c4cb5f9e4",
   "Name": "HORSE CLUB Adventures 2 - Hazelwood Stories",
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
-  "Ranking_EOS_Progress": 415,
+  "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -106,6 +106,11 @@
       "Time": "2023-08-02T11:05:40.0407892+00:00",
       "NumProgressed": 16,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-09T18:04:48.5606578+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-05T11:01:11.706476+00:00",
@@ -116,15 +121,15 @@
       "ID": "ACH_01_SADDLE_UP",
       "SetID": "9loam6m",
       "Name": "Saddled up and away",
-      "Percentage": 113,
+      "Percentage": 112,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_02_PHOTO_TEAM",
       "SetID": "9loam6m",
       "Name": "Photo team",
-      "Percentage": 88,
+      "Percentage": 82,
       "XP": 30,
       "UsersEstimate": 14
     },
@@ -132,7 +137,7 @@
       "ID": "ACH_03_MODEL",
       "SetID": "9loam6m",
       "Name": "Model",
-      "Percentage": 56,
+      "Percentage": 53,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -140,7 +145,7 @@
       "ID": "ACH_04_NIGHT_BENEATH_STARS",
       "SetID": "9loam6m",
       "Name": "Night beneath the stars",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -260,7 +265,7 @@
       "ID": "ACH_19_HORSE_FRIENDS",
       "SetID": "9loam6m",
       "Name": "Horse friends",
-      "Percentage": 69,
+      "Percentage": 65,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -276,7 +281,7 @@
       "ID": "ACH_21_FIRST_RACE",
       "SetID": "9loam6m",
       "Name": "First race",
-      "Percentage": 69,
+      "Percentage": 65,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -308,7 +313,7 @@
       "ID": "ACH_25_BALLOON_GAME",
       "SetID": "9loam6m",
       "Name": "Balloon game",
-      "Percentage": 38,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -324,7 +329,7 @@
       "ID": "ACH_27_HORSEMANSHIP",
       "SetID": "9loam6m",
       "Name": "Horsemanship",
-      "Percentage": 69,
+      "Percentage": 65,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -356,7 +361,7 @@
       "ID": "ACH_31_BEST_MUFFINS",
       "SetID": "9loam6m",
       "Name": "The best muffins",
-      "Percentage": 81,
+      "Percentage": 76,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -372,7 +377,7 @@
       "ID": "ACH_33_LOVELY_VIEW",
       "SetID": "9loam6m",
       "Name": "Lovely view",
-      "Percentage": 50,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -382,13 +387,13 @@
       "Name": "Hazelwood",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_35_RIDING_LESSON",
       "SetID": "9loam6m",
       "Name": "Riding lesson",
-      "Percentage": 50,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -404,7 +409,7 @@
       "ID": "ACH_37_UP_IN_THE_MOUNTAINS",
       "SetID": "9loam6m",
       "Name": "Up in the mountains",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -412,7 +417,7 @@
       "ID": "ACH_38_WELL_HIDDEN",
       "SetID": "9loam6m",
       "Name": "Well hidden!",
-      "Percentage": 44,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -420,7 +425,7 @@
       "ID": "ACH_39_TENS_AT_THE_LAKE",
       "SetID": "9loam6m",
       "Name": "Tents at the lake",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -453,14 +458,14 @@
     {
       "ID": "9loam6m",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-08-09T17:05:44.6699202+00:00",
+  "LastChanged_Achievements": "2023-08-09T18:04:48.5606574+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:04.3579504+00:00",
-  "LastUpdate_Ratings": "2023-08-09T16:57:49.7848879+00:00",
-  "LastUpdate_Achievements": "2023-08-09T17:05:44.6699538+00:00"
+  "LastUpdate_Ratings": "2023-08-09T17:57:37.9054234+00:00",
+  "LastUpdate_Achievements": "2023-08-09T18:04:48.5606863+00:00"
 }

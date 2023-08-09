@@ -4,7 +4,7 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 101,
+  "EOS_Progressed": 102,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.99,
+  "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -253,6 +253,11 @@
       "Time": "2023-08-09T12:06:04.4342587+00:00",
       "NumProgressed": 101,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-09T18:04:53.545473+00:00",
+      "NumProgressed": 102,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -262,7 +267,7 @@
       "ID": "Achievement1",
       "SetID": "jf6ho5",
       "Name": "Freedom",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 35,
       "UsersEstimate": 26
     },
@@ -278,7 +283,7 @@
       "ID": "Achievement11",
       "SetID": "jf6ho5",
       "Name": "Your Training Continues",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
       "UsersEstimate": 28
     },
@@ -312,13 +317,13 @@
       "Name": "Target Practice",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Achievement16",
       "SetID": "jf6ho5",
       "Name": "The Bigger They Are",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 35,
       "UsersEstimate": 30
     },
@@ -334,7 +339,7 @@
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 90,
       "UsersEstimate": 31
     },
@@ -358,7 +363,7 @@
       "ID": "Achievement20",
       "SetID": "jf6ho5",
       "Name": "Amokuali Tower",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
       "UsersEstimate": 28
     },
@@ -374,7 +379,7 @@
       "ID": "Achievement3",
       "SetID": "jf6ho5",
       "Name": "Enemies of Fate",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 35,
       "UsersEstimate": 30
     },
@@ -414,7 +419,7 @@
       "ID": "Achievement8",
       "SetID": "jf6ho5",
       "Name": "Armored",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 35,
       "UsersEstimate": 27
     },
@@ -431,7 +436,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 101,
+      "Progressed": 102,
       "Completed": 1
     }
   ],
@@ -439,8 +444,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-08-09T17:05:50.7906971+00:00",
+  "LastChanged_Achievements": "2023-08-09T18:04:53.5454725+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:20.1130483+00:00",
-  "LastUpdate_Ratings": "2023-08-09T16:57:03.7969245+00:00",
-  "LastUpdate_Achievements": "2023-08-09T17:05:50.7907149+00:00"
+  "LastUpdate_Ratings": "2023-08-09T17:57:00.416342+00:00",
+  "LastUpdate_Achievements": "2023-08-09T18:04:53.5454858+00:00"
 }

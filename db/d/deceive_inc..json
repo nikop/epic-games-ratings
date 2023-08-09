@@ -2,12 +2,12 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 448,
+  "Ranking_Rating": 449,
   "Ranking_Popularity": 510,
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17178,
+  "EOS_Progressed": 17179,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7830,6 +7830,11 @@
       "Time": "2023-08-09T17:04:45.6154964+00:00",
       "NumProgressed": 17178,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-09T18:03:59.9581799+00:00",
+      "NumProgressed": 17179,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -7929,7 +7934,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2748
+      "UsersEstimate": 2749
     },
     {
       "ID": "0013",
@@ -8128,7 +8133,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17178,
+      "Progressed": 17179,
       "Completed": 1
     }
   ],
@@ -8136,8 +8141,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-08T19:59:53.3803436+00:00",
-  "LastChanged_Achievements": "2023-08-09T17:04:45.6154958+00:00",
+  "LastChanged_Achievements": "2023-08-09T18:03:59.9581794+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-09T17:01:05.8986985+00:00",
-  "LastUpdate_Achievements": "2023-08-09T17:04:45.6155725+00:00"
+  "LastUpdate_Ratings": "2023-08-09T18:00:10.0117089+00:00",
+  "LastUpdate_Achievements": "2023-08-09T18:03:59.9582344+00:00"
 }

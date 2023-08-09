@@ -296,9 +296,9 @@
       "ID": "GIFT_OF_THE_ANCIENTS",
       "SetID": "e4de54",
       "Name": "Gift of the ancients",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "GOLD_DIGGER",
@@ -376,9 +376,9 @@
       "ID": "MEDUSA_SECRET",
       "SetID": "e4de54",
       "Name": "Medusa secret",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MINOTAUR_CULT",
@@ -456,9 +456,9 @@
       "ID": "THE_CUP_OF_HEBE",
       "SetID": "e4de54",
       "Name": "The cup of Hebe",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -471,8 +471,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-08-09T17:05:10.5356117+00:00",
+  "LastChanged_Achievements": "2023-08-09T18:04:20.7390506+00:00",
   "LastUpdate_AppInfo": "2023-08-04T22:57:14.0188097+00:00",
-  "LastUpdate_Ratings": "2023-08-09T16:57:37.7795214+00:00",
-  "LastUpdate_Achievements": "2023-08-09T17:05:10.5356458+00:00"
+  "LastUpdate_Ratings": "2023-08-09T17:57:28.5681828+00:00",
+  "LastUpdate_Achievements": "2023-08-09T18:04:20.7390758+00:00"
 }

@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 91.00% | ~116 |
-| Bullseye! | 87.00% | ~111 |
-| Graduation! | 82.00% | ~105 |
-| Villfir Forest | 80.00% | ~102 |
+| Level Up! | 90.00% | ~116 |
+| Bullseye! | 86.00% | ~111 |
+| Graduation! | 81.00% | ~104 |
+| Villfir Forest | 79.00% | ~102 |
 | Right in the kisser! | 63.00% | ~81 |
 | The Shaman | 50.00% | ~64 |
 | The Thrower | 50.00% | ~64 |
 | Duscot Steamcity | 50.00% | ~64 |
-| The Penguin | 47.00% | ~60 |
-| The Magician | 44.00% | ~56 |
-| The Tunneler | 40.00% | ~51 |
-| Level Up!! | 38.00% | ~49 |
+| The Penguin | 47.00% | ~61 |
+| The Magician | 43.00% | ~55 |
+| The Tunneler | 40.00% | ~52 |
 | The Shield | 38.00% | ~49 |
+| Level Up!! | 37.00% | ~48 |
 | Kill-streak | 32.00% | ~41 |
 | Topped up | 27.00% | ~35 |
-| The Idol | 27.00% | ~35 |
 | The Bird | 27.00% | ~35 |
-| The Ninja | 27.00% | ~35 |
+| The Idol | 26.00% | ~34 |
+| The Ninja | 26.00% | ~34 |
 | Inferno Ruins | 25.00% | ~32 |
-| I'm Rich | 23.00% | ~29 |
+| I'm Rich | 23.00% | ~30 |
 | Untouchable | 22.00% | ~28 |
 | 1 is all I need | 22.00% | ~28 |
 | The Slime | 21.00% | ~27 |
-| The Giant | 19.00% | ~24 |
+| The Giant | 19.00% | ~25 |
 | The Flower | 17.00% | ~22 |
 | Out of the Frying Pan... | 17.00% | ~22 |
-| The Blacksmith | 16.00% | ~20 |
-| The Ooze | 16.00% | ~20 |
+| The Blacksmith | 16.00% | ~21 |
+| The Ooze | 16.00% | ~21 |
 | Turquoise | 15.00% | ~19 |
 | The Assistant | 14.00% | ~18 |
 | The Steampunk | 14.00% | ~18 |
 | Ember | 14.00% | ~18 |
-| Verse | 13.00% | ~17 |
+| Verse | 12.00% | ~15 |
 | The Droid | 11.00% | ~14 |
 | Iron | 11.00% | ~14 |
 | The Bomber | 9.00% | ~12 |
@@ -78,7 +78,7 @@
 | Divinity | 0.00% | ~0 |
 | Zombie Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128 (Ranked 308)  
+Progressed: 129 (Ranked 308)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-02 | 123 | 0 |
 | 2023-08-03 | 124 | 0 |
 | 2023-08-05 | 125 | 0 |
-| 2023-08-09 | 128 | 0 |
+| 2023-08-09 | 129 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
