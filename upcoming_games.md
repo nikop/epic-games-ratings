@@ -31,6 +31,7 @@
 | [Tenebris Pictura](games/6/6c5d913b71db4831801990b59d15e74a.md) | 2023-08-31 | - |  | - | - |
 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 2023-08-31 | - |  | - | - |
 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2023-08-31 | 5 (1,000 XP) | 1 | - | - |
+| [FrontlineGrunt](games/a/ad2063ad8cea49618dfd85af4c2aaf1f.md) | 2023-09-01 | - |  | - | - |
 | [Sunlight Scream](games/f/f1d0d2bf90c0444684c26bb6190cc74f.md) | 2023-09-01 | - |  | - | - |
 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | - |  | - | - |
 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 2023-09-05 | 25 (1,000 XP) | 41 | - | - |
@@ -266,7 +267,6 @@
 | [FlipScapes](games/f/flipscapes.md) | 2099-01-01 | - |  | - | - |
 | [Forgive Me Father 2](games/f/forgive_me_father_2.md) | 2099-01-01 | - |  | - | - |
 | [Forza Polpo](games/1/11e946fd34244e56b7af5d99e87bf5d4.md) | 2099-01-01 | - |  | - | - |
-| [FrontlineGrunt](games/a/ad2063ad8cea49618dfd85af4c2aaf1f.md) | 2099-01-01 | - |  | - | - |
 | [Gastro Force](games/g/gastro_force.md) | 2099-01-01 | - |  | - | - |
 | [Gematombe](games/g/gematombe.md) | 2099-01-01 | - |  | - | - |
 | [Goldilock One - BOSS Arena](games/g/goldilock_one_-_boss_arena.md) | 2099-01-01 | - |  | - | - |

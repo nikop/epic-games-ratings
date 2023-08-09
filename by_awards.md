@@ -15,7 +15,7 @@
 | 13 | [Destiny 2](games/d/destiny_2.md) | 36,237 | 4.49 | 576 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 35,718 | 4.74 | 147 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 30,836 | 4.52 | 527 |
-| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,758 | 4.65 | 298 |
+| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,762 | 4.65 | 298 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 21,619 | 4.77 | 108 |
 | 18 | [Dauntless](games/d/dauntless.md) | 21,226 | 4.53 | 513 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,170 | 4.57 | 448 |
@@ -67,12 +67,12 @@
 | 65 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,540 | 4.85 | 40 |
 | 66 | [Rogue Company](games/r/rogue_company.md) | 5,238 | 4.33 | 764 |
 | 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,125 | 4.06 | 917 |
-| 68 | [Cities: Skylines](games/c/cities__skylines.md) | 5,091 | 4.65 | 298 |
+| 68 | [Cities: Skylines](games/c/cities__skylines.md) | 5,102 | 4.65 | 298 |
 | 69 | [MultiVersus](games/m/multiversus.md) | 4,746 | 4.56 | 469 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,700 | 4.69 | 212 |
 | 71 | [Shop Titans](games/s/shop_titans.md) | 4,692 | 3.99 | 929 |
 | 72 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,553 | 4.70 | 198 |
-| 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,468 | 4.60 | 392 |
+| 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,471 | 4.60 | 392 |
 | 74 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,465 | 4.70 | 198 |
 | 75 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,375 | 4.76 | 118 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,244 | 4.56 | 469 |
@@ -95,7 +95,7 @@
 | 93 | [Trackmania](games/t/trackmania.md) | 3,107 | 4.67 | 257 |
 | 94 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,032 | 3.98 | 932 |
 | 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,658 | 4.82 | 66 |
-| 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,622 | 4.51 | 543 |
+| 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,628 | 4.51 | 543 |
 | 97 | [Among Us](games/a/among_us.md) | 2,601 | 4.57 | 448 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,547 | 4.61 | 366 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,516 | 4.27 | 806 |
@@ -163,8 +163,8 @@
 | 161 | [Core](games/c/core.md) | 746 | 4.36 | 736 |
 | 162 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 741 | 4.79 | 88 |
 | 163 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 715 | 4.87 | 24 |
-| 164 | [Neverwinter](games/n/neverwinter.md) | 711 | 4.29 | 789 |
-| 165 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 706 | 4.59 | 412 |
+| 164 | [Neverwinter](games/n/neverwinter.md) | 713 | 4.29 | 789 |
+| 165 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 707 | 4.59 | 412 |
 | 166 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 700 | 4.60 | 392 |
 | 167 | [The Sims™ 4](games/t/the_sims™_4.md) | 695 | 4.62 | 349 |
 | 168 | [Subnautica](games/s/subnautica.md) | 681 | 4.85 | 40 |
@@ -477,9 +477,9 @@
 | 473 | [DOOM II](games/d/doom_ii.md) | 26 | 4.69 | 212 |
 | 473 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 26 | 4.60 | 392 |
 | 473 | [God's Trigger](games/g/god's_trigger.md) | 26 | 4.16 | 876 |
+| 473 | [Spirit of the North](games/s/spirit_of_the_north.md) | 26 | 4.36 | 736 |
 | 473 | [Warpips](games/w/warpips.md) | 26 | 4.41 | 677 |
-| 479 | [Rayman Origins](games/r/rayman_origins.md) | 25 | 4.84 | 50 |
-| 479 | [Spirit of the North](games/s/spirit_of_the_north.md) | 25 | 4.36 | 736 |
+| 480 | [Rayman Origins](games/r/rayman_origins.md) | 25 | 4.84 | 50 |
 | 481 | [ELEX](games/e/elex.md) | 24 | 4.44 | 644 |
 | 481 | [Forspoken](games/f/forspoken.md) | 24 | 4.15 | 886 |
 | 481 | [Solar Ash](games/s/solar_ash.md) | 24 | 4.64 | 316 |

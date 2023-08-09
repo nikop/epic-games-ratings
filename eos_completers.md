@@ -25,9 +25,9 @@
 | 23 | [Remains](games/r/remains.md) | 10.64% |
 | 24 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.53% |
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
-| 26 | [Sonic Origins](games/s/sonic_origins.md) | 9.79% |
-| 27 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.76% |
-| 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.76% |
+| 26 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.76% |
+| 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.76% |
+| 26 | [Sonic Origins](games/s/sonic_origins.md) | 9.76% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.52% |
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.62% |
@@ -140,8 +140,8 @@
 | 138 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
 | 138 | [The Surge 2](games/t/the_surge_2.md) | 0.51% |
 | 140 | [Them and Us](games/t/them_and_us.md) | 0.49% |
-| 141 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 141 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.47% |
+| 141 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.48% |
+| 142 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 143 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
 | 143 | [Train Valley](games/t/train_valley.md) | 0.46% |
 | 145 | [Tchia](games/t/tchia.md) | 0.45% |
