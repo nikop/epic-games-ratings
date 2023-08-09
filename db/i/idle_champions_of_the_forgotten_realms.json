@@ -5674,9 +5674,9 @@
       "Count": 3347
     }
   ],
-  "EOS_Progressed": 220114,
+  "EOS_Progressed": 220124,
   "EOS_Completed": 2166,
-  "EOS_NewPlayers": 2278,
+  "EOS_NewPlayers": 2283,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17644,6 +17644,11 @@
       "Time": "2023-08-09T09:02:09.811132+00:00",
       "NumProgressed": 220114,
       "NumCompleted": 2166
+    },
+    {
+      "Time": "2023-08-09T10:02:15.438717+00:00",
+      "NumProgressed": 220124,
+      "NumCompleted": 2166
     }
   ],
   "TotalAchievements": 512,
@@ -17727,7 +17732,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "objective_completed_1051",
@@ -18023,7 +18028,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6603
+      "UsersEstimate": 6604
     },
     {
       "ID": "objective_completed_110",
@@ -18359,7 +18364,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "objective_completed_1169",
@@ -19597,9 +19602,9 @@
       "ID": "objective_completed_41",
       "SetID": "cc37lbc",
       "Name": "Premature Betrayal",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 660
+      "UsersEstimate": 880
     },
     {
       "ID": "objective_completed_410",
@@ -21711,7 +21716,7 @@
       "Name": "Flight of the Kindori Pod",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "objective_completed_1386",
@@ -21750,21 +21755,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 186388,
-      "Completed": 3072
+      "Progressed": 186398,
+      "Completed": 3073
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 220114,
+      "Progressed": 220124,
       "Completed": 2166
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-09T08:58:56.6665212+00:00",
-  "LastChanged_Achievements": "2023-08-09T09:02:09.8111314+00:00",
+  "LastChanged_Achievements": "2023-08-09T10:02:15.4387166+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-09T08:58:56.6665274+00:00",
-  "LastUpdate_Achievements": "2023-08-09T09:02:09.8146443+00:00"
+  "LastUpdate_Ratings": "2023-08-09T09:59:20.3882234+00:00",
+  "LastUpdate_Achievements": "2023-08-09T10:02:15.4416194+00:00"
 }

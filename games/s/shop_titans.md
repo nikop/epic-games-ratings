@@ -29,6 +29,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 0.30% | ~403 |
 | Accomplished Merchant | 0.30% | ~403 |
 | Dungeon Imports | 0.30% | ~403 |
+| Did we pack lunch? | 0.30% | ~403 |
 | On the Path to Greatness | 0.20% | ~268 |
 | A Notch Above the Rest | 0.20% | ~268 |
 | Ascended | 0.20% | ~268 |
@@ -41,6 +42,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Blank Page Syndrome | 0.20% | ~268 |
 | Scrapbooker | 0.20% | ~268 |
 | Locally Sourced | 0.20% | ~268 |
+| Flying off the Shelves | 0.20% | ~268 |
 | This Power Level...! | 0.20% | ~268 |
 | Master of Transmutation | 0.20% | ~268 |
 | Power of Love | 0.20% | ~268 |
@@ -54,7 +56,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 0.20% | ~268 |
 | Natural 20 | 0.20% | ~268 |
 | Seasoned Journeyman | 0.20% | ~268 |
-| Did we pack lunch? | 0.20% | ~268 |
 | Black Friday Special | 0.20% | ~268 |
 | King's Shadow | 0.20% | ~268 |
 | Magical Harmony | 0.20% | ~268 |
@@ -76,7 +77,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Free Encyclopedia | 0.10% | ~134 |
 | Ultimate Collector | 0.10% | ~134 |
 | Fillin' the Bin | 0.10% | ~134 |
-| Flying off the Shelves | 0.10% | ~134 |
 | Industrial Evolution | 0.10% | ~134 |
 | Oligarch Monarch | 0.10% | ~134 |
 | Omae wa Mou Shindeiru | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,179 (Ranked 65)  
+Progressed: 134,183 (Ranked 65)  
 Completed: 131 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-06 | 134,025 | 129 |
 | 2023-08-07 | 134,099 | 130 |
 | 2023-08-08 | 134,169 | 131 |
-| 2023-08-09 | 134,179 | 131 |
+| 2023-08-09 | 134,183 | 131 |
 ## Awards
 Max (Great for Beginners): 4,692  (Ranked 71)  
 Sum: 27,071 (Ranked 46)  

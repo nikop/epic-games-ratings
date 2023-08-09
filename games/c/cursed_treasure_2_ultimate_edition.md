@@ -20,7 +20,7 @@
 | Sergeant of the Evil | 73.00% | ~120 |
 | V.I.P. Cemetery | 71.00% | ~117 |
 | Takeover | 70.00% | ~115 |
-| Woodcutter | 69.00% | ~114 |
+| Woodcutter | 70.00% | ~115 |
 | Sharpshooter | 69.00% | ~114 |
 | Architect of Darkness | 69.00% | ~114 |
 | Top of the World | 68.00% | ~112 |
@@ -31,14 +31,14 @@
 | Thunderstorm | 62.00% | ~102 |
 | Clean Forests | 60.00% | ~99 |
 | Brilliant: Holy Mountain | 60.00% | ~99 |
+| Lieutenant of the Evil | 56.00% | ~92 |
 | Starry: Meadowshire | 55.00% | ~91 |
-| Lieutenant of the Evil | 55.00% | ~91 |
-| Avada Kedavra | 53.00% | ~87 |
+| Avada Kedavra | 54.00% | ~89 |
 | Brilliant: Tanglewood | 52.00% | ~86 |
 | It's a Trap | 52.00% | ~86 |
 | Starry: Holy Mountain | 50.00% | ~82 |
+| Brilliant: Arcania | 48.00% | ~79 |
 | Deposition | 47.00% | ~78 |
-| Brilliant: Arcania | 47.00% | ~78 |
 | Starry: Tanglewood | 45.00% | ~74 |
 | Starry: Arcania | 42.00% | ~69 |
 | Sing, My Angel | 41.00% | ~68 |

@@ -5,19 +5,19 @@ Rating: 4.08 (Ranked 908)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,654 |
-| World Map | 79.00% | ~1,405 |
-| Temple of Eternals | 56.00% | ~996 |
-| Prestigious | 53.00% | ~942 |
-| Fellowship Power | 41.00% | ~729 |
-| Guild Power | 25.00% | ~444 |
-| Prestigious x10 | 22.00% | ~391 |
+| Victor | 93.00% | ~1,655 |
+| World Map | 79.00% | ~1,406 |
+| Temple of Eternals | 56.00% | ~997 |
+| Prestigious | 53.00% | ~943 |
+| Fellowship Power | 41.00% | ~730 |
+| Guild Power | 25.00% | ~445 |
+| Prestigious x10 | 22.00% | ~392 |
 | The game is on | 20.00% | ~356 |
-| Exotic Merchant | 19.00% | ~338 |
-| Dragon Clicker | 17.00% | ~302 |
-| Miner Clicker | 17.00% | ~302 |
-| Full Party | 16.00% | ~284 |
-| Inspection | 16.00% | ~284 |
+| Exotic Merchant | 18.00% | ~320 |
+| Dragon Clicker | 17.00% | ~303 |
+| Miner Clicker | 17.00% | ~303 |
+| Full Party | 16.00% | ~285 |
+| Inspection | 16.00% | ~285 |
 | Dragon Master | 15.00% | ~267 |
 | Enlightenment | 15.00% | ~267 |
 | Hero inspection | 14.00% | ~249 |
@@ -26,8 +26,8 @@ Rating: 4.08 (Ranked 908)
 | Natural Talent | 13.00% | ~231 |
 | Superior | 13.00% | ~231 |
 | The Unstoppable | 13.00% | ~231 |
-| Milestone collector | 12.00% | ~213 |
-| Scientist | 12.00% | ~213 |
+| Milestone collector | 12.00% | ~214 |
+| Scientist | 12.00% | ~214 |
 | Doing My Part | 11.00% | ~196 |
 | Hunter | 11.00% | ~196 |
 | Mastery | 11.00% | ~196 |
@@ -43,11 +43,11 @@ Rating: 4.08 (Ranked 908)
 | The father of Dragons | 9.00% | ~160 |
 | Here We Go Again | 8.00% | ~142 |
 | Trader | 8.00% | ~142 |
-| Crystal Mining | 7.00% | ~124 |
-| Dragon Slayer | 7.00% | ~124 |
-| Enchanting skill | 7.00% | ~124 |
-| The Expeditioner | 7.00% | ~124 |
-| Weekly Quest Completionist | 7.00% | ~124 |
+| Crystal Mining | 7.00% | ~125 |
+| Dragon Slayer | 7.00% | ~125 |
+| Enchanting skill | 7.00% | ~125 |
+| The Expeditioner | 7.00% | ~125 |
+| Weekly Quest Completionist | 7.00% | ~125 |
 | Ancient Knowledge | 6.00% | ~107 |
 | Blueprint Upgrades | 6.00% | ~107 |
 | Engineer Mastery | 6.00% | ~107 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 908)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,778 (Ranked 172)  
+Progressed: 1,780 (Ranked 172)  
 Completed: 2 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,6 +191,7 @@ Completed: 2 (0.11%) (Ranked 195)
 | 2023-08-06 | 1,775 | 2 |
 | 2023-08-07 | 1,776 | 2 |
 | 2023-08-08 | 1,778 | 2 |
+| 2023-08-09 | 1,780 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

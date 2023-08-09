@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 838,
+  "EOS_Progressed": 839,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2951,6 +2951,11 @@
       "Time": "2023-08-09T07:07:37.902018+00:00",
       "NumProgressed": 838,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-09T10:06:55.8560198+00:00",
+      "NumProgressed": 839,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3066,7 +3071,7 @@
       "Name": "Facility Online",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3218,7 +3223,7 @@
       "Name": "Defenses Online",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -3265,14 +3270,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 838,
+      "Progressed": 839,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-09T09:06:11.7887394+00:00",
+  "LastChanged_Achievements": "2023-08-09T10:06:55.8560193+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:21.6461868+00:00",
-  "LastUpdate_Ratings": "2023-08-09T08:57:24.2395192+00:00",
-  "LastUpdate_Achievements": "2023-08-09T09:06:11.7888217+00:00"
+  "LastUpdate_Ratings": "2023-08-09T09:57:23.2764738+00:00",
+  "LastUpdate_Achievements": "2023-08-09T10:06:55.8560974+00:00"
 }

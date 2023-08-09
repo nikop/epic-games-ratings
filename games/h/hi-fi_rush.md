@@ -17,17 +17,17 @@ Rating: 4.87 (Ranked 24)
 | Perfect Parry | 5.00% | ~191 |
 | Uh, they were broken when I got here | 5.00% | ~191 |
 | Alright, that felt AWESOME! | 5.00% | ~191 |
-| The Negotiator | 4.00% | ~152 |
-| Headliner | 4.00% | ~152 |
-| Time to pay up! | 4.00% | ~152 |
-| Who's the boss now? | 4.00% | ~152 |
-| Whoa! There's ANOTHER health bar!? | 4.00% | ~152 |
-| You must like calling me in, Chai | 4.00% | ~152 |
-| Z-shielding's got nothing on us! | 4.00% | ~152 |
-| Out in a puff of smoke | 4.00% | ~152 |
-| Kissing the sky! | 4.00% | ~152 |
-| I look cool. But I can look COOLER. | 4.00% | ~152 |
-| Does that say weakpoint? | 4.00% | ~152 |
+| The Negotiator | 4.00% | ~153 |
+| Headliner | 4.00% | ~153 |
+| Time to pay up! | 4.00% | ~153 |
+| Who's the boss now? | 4.00% | ~153 |
+| Whoa! There's ANOTHER health bar!? | 4.00% | ~153 |
+| You must like calling me in, Chai | 4.00% | ~153 |
+| Z-shielding's got nothing on us! | 4.00% | ~153 |
+| Out in a puff of smoke | 4.00% | ~153 |
+| Kissing the sky! | 4.00% | ~153 |
+| I look cool. But I can look COOLER. | 4.00% | ~153 |
+| Does that say weakpoint? | 4.00% | ~153 |
 | NOW we got a kickass hideout! | 4.00% | ~93 |
 | I have to read these things? | 3.00% | ~114 |
 | Perfecter Parry-er! | 3.00% | ~114 |
@@ -41,7 +41,7 @@ Rating: 4.87 (Ranked 24)
 | Check out my moves! | 1.00% | ~38 |
 | Call me Turbo Chai | 1.00% | ~23 |
 | I think I found your calling, Macaron | 0.90% | ~34 |
-| I hit things with a guitar really well. | 0.80% | ~30 |
+| I hit things with a guitar really well. | 0.80% | ~31 |
 | I think I deserve some praise, here! | 0.70% | ~27 |
 | We're Jammin' | 0.70% | ~27 |
 | First we parry, then we counter | 0.60% | ~23 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,812 (Ranked 147)  
+Progressed: 3,813 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 7 (0.18%) (Ranked 181)
 | 2023-08-06 | 3,771 | 7 |
 | 2023-08-07 | 3,789 | 7 |
 | 2023-08-08 | 3,807 | 7 |
-| 2023-08-09 | 3,812 | 7 |
+| 2023-08-09 | 3,813 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

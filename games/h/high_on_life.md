@@ -5,15 +5,15 @@ Rating: 4.66 (Ranked 274)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,825 |
-| Mods Please Ban | 77.00% | ~18,392 |
-| Bring A Knife to a Gun Fight | 76.00% | ~18,153 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,437 |
+| Eye Scream, You Scream | 83.00% | ~19,826 |
+| Mods Please Ban | 77.00% | ~18,393 |
+| Bring A Knife to a Gun Fight | 76.00% | ~18,154 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,438 |
 | First Bounty Down | 59.00% | ~14,093 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,615 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,616 |
 | Luglox Genocide | 43.00% | ~10,271 |
-| Playing Card To Get | 33.00% | ~7,882 |
-| Don't Knife The Hand That Feeds | 33.00% | ~7,882 |
+| Playing Card To Get | 33.00% | ~7,883 |
+| Don't Knife The Hand That Feeds | 33.00% | ~7,883 |
 | Creature Feature | 29.00% | ~6,927 |
 | Satisfied Gus-tomer | 28.00% | ~6,688 |
 | Cold-Blooded Driller | 28.00% | ~6,688 |
@@ -25,9 +25,9 @@ Rating: 4.66 (Ranked 274)
 | Series Wrap on Suit-O | 22.00% | ~5,255 |
 | Lezduit! | 20.00% | ~4,777 |
 | Who's The Boss? | 20.00% | ~4,777 |
-| Self-Actualization | 19.00% | ~4,538 |
-| Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,538 |
-| Legendary Bounty Hunter | 18.00% | ~4,299 |
+| Self-Actualization | 19.00% | ~4,539 |
+| Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,539 |
+| Legendary Bounty Hunter | 18.00% | ~4,300 |
 | Seeing All The Sights | 16.00% | ~3,822 |
 | Carried Stan's Load To Completion | 13.00% | ~3,105 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,866 |
@@ -38,7 +38,7 @@ Rating: 4.66 (Ranked 274)
 | Epic Legendary Prize | 1.00% | ~239 |
 | A Starfish Is Born | 1.00% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,886 (Ranked 102)  
+Progressed: 23,887 (Ranked 102)  
 Completed: 12 (0.05%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 12 (0.05%) (Ranked 216)
 | 2023-08-06 | 23,853 | 11 |
 | 2023-08-07 | 23,868 | 11 |
 | 2023-08-08 | 23,883 | 11 |
-| 2023-08-09 | 23,886 | 12 |
+| 2023-08-09 | 23,887 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

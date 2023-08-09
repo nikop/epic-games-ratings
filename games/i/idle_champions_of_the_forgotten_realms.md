@@ -7,16 +7,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 5.00% | ~11,006 |
-| Beast Intentions | 3.00% | ~6,603 |
+| Beast Intentions | 3.00% | ~6,604 |
 | Maddening | 2.00% | ~4,402 |
 | The Silken Swamp | 1.00% | ~2,201 |
 | Supply Run | 1.00% | ~2,201 |
 | Vecna Lives! | 1.00% | ~1,864 |
 | Rocky Reception | 1.00% | ~1,864 |
 | Rock and Roll | 1.00% | ~1,864 |
-| Tall Tales | 0.90% | ~1,677 |
-| Vecna Loots! | 0.90% | ~1,677 |
-| Flight of the Kindori Pod | 0.90% | ~1,677 |
+| Tall Tales | 0.90% | ~1,678 |
+| Vecna Loots! | 0.90% | ~1,678 |
+| Flight of the Kindori Pod | 0.90% | ~1,678 |
 | Seeds of Destruction | 0.80% | ~1,491 |
 | Return to the Tomb | 0.80% | ~1,491 |
 | The Cursed Farmer | 0.80% | ~1,761 |
@@ -96,6 +96,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Death Curse | 0.40% | ~880 |
 | Nimble Escape | 0.40% | ~880 |
 | Useless Allies | 0.40% | ~880 |
+| Premature Betrayal | 0.40% | ~880 |
 | Mad Cow Disease | 0.40% | ~880 |
 | A Tale of Two Cities | 0.40% | ~880 |
 | The Dead Three | 0.40% | ~880 |
@@ -154,7 +155,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flies on the Wall | 0.30% | ~660 |
 | Backtracking Through Barovia | 0.30% | ~660 |
 | Fugitives | 0.30% | ~660 |
-| Premature Betrayal | 0.30% | ~660 |
 | Hopelessly Lost | 0.30% | ~660 |
 | Enter the Sargauth | 0.30% | ~660 |
 | Slow and Steady | 0.30% | ~660 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,114 (Ranked 52)  
+Progressed: 220,124 (Ranked 52)  
 Completed: 2,166 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,7 +630,7 @@ Completed: 2,166 (0.98%) (Ranked 114)
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
-| 2023-08-09 | 220,114 | 2,166 |
+| 2023-08-09 | 220,124 | 2,166 |
 ## Awards
 Max (Diverse Characters): 5,128  (Ranked 67)  
 Sum: 30,953 (Ranked 38)  

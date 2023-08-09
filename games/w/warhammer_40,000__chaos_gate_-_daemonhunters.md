@@ -21,13 +21,14 @@ Number of Ratings: 371  (23.09.2022)
 | The Emperor Protects | 0.90% | ~28 |
 | Nemesis Master | 0.80% | ~25 |
 | Gunmaster | 0.80% | ~25 |
-| Execution Force | 0.70% | ~22 |
+| Execution Force | 0.80% | ~25 |
 | Hive Exterminator | 0.70% | ~22 |
 | Hold Your Ground | 0.60% | ~19 |
 | Corruption Cleanser | 0.60% | ~19 |
 | Just a Scratch | 0.60% | ~19 |
 | Efficient Killer | 0.40% | ~13 |
 | Only in Death | 0.40% | ~13 |
+| Junk Banishment | 0.40% | ~13 |
 | A Gift Spurned | 0.40% | ~13 |
 | Long Distance Call | 0.40% | ~13 |
 | Tactical Flexibility | 0.40% | ~13 |
@@ -35,7 +36,6 @@ Number of Ratings: 371  (23.09.2022)
 | Patron of Deimos | 0.30% | ~9 |
 | Daemonkeeper | 0.30% | ~9 |
 | Mind Like a Fortress | 0.30% | ~9 |
-| Junk Banishment | 0.30% | ~9 |
 | Fleetmaster | 0.20% | ~6 |
 | For the Machine God | 0.20% | ~6 |
 | Strike Force | 0.20% | ~6 |
@@ -51,9 +51,12 @@ Number of Ratings: 371  (23.09.2022)
 | Unstable Immaterium | 0.10% | ~3 |
 | Opportunist | 0.10% | ~3 |
 | Hands-On Research | 0.10% | ~3 |
+| Master of the Forge | 0.10% | ~3 |
+| Field Apothecarion | 0.10% | ~3 |
 | Warp Flickers | 0.10% | ~3 |
 | Phalanx | 0.10% | ~3 |
 | Exercise in Restraint | 0.10% | ~3 |
+| Firing Squad | 0.10% | ~3 |
 | True Mastery | 0.10% | ~3 |
 | Reign of Confusion | 0.10% | ~3 |
 | Abomination | 0.10% | ~3 |
@@ -68,10 +71,7 @@ Number of Ratings: 371  (23.09.2022)
 | Drone Army | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
-| Master of the Forge | 0.00% | ~0 |
-| Field Apothecarion | 0.00% | ~0 |
 | Brothers in Arms | 0.00% | ~0 |
-| Firing Squad | 0.00% | ~0 |
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
