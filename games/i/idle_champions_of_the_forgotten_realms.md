@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~11,008 |
+| A Brief Tour of the Realms | 5.00% | ~11,009 |
 | Beast Intentions | 3.00% | ~6,605 |
 | Maddening | 2.00% | ~4,403 |
 | The Silken Swamp | 1.00% | ~2,202 |
@@ -17,10 +17,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.90% | ~1,678 |
 | Vecna Loots! | 0.90% | ~1,678 |
 | Flight of the Kindori Pod | 0.90% | ~1,678 |
-| Seeds of Destruction | 0.80% | ~1,491 |
-| Return to the Tomb | 0.80% | ~1,491 |
+| Seeds of Destruction | 0.80% | ~1,492 |
+| Return to the Tomb | 0.80% | ~1,492 |
 | The Cursed Farmer | 0.80% | ~1,761 |
-| Topolah's Tower | 0.80% | ~1,491 |
+| Topolah's Tower | 0.80% | ~1,492 |
 | Pros and CONs | 0.70% | ~1,541 |
 | The Witchlight Carnival | 0.70% | ~1,305 |
 | Wet Feet | 0.70% | ~1,541 |
@@ -81,6 +81,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Owlbear Necessities | 0.40% | ~746 |
 | On the Hunt | 0.40% | ~881 |
 | Best Thay Ever | 0.40% | ~746 |
+| Well Equipped | 0.40% | ~746 |
 | The Castle of a Thousand Vecnas | 0.40% | ~746 |
 | Who Lurks Below? | 0.40% | ~746 |
 | Xanathaaaaaaar! | 0.40% | ~746 |
@@ -115,7 +116,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Luigi After Hours | 0.40% | ~746 |
 | Electric Mayhem | 0.40% | ~746 |
 | 3,720 to 1 | 0.40% | ~746 |
-| Starving in the Jungle | 0.30% | ~660 |
+| Starving in the Jungle | 0.30% | ~661 |
 | Cold as Ice | 0.30% | ~559 |
 | Friends and Foes | 0.30% | ~559 |
 | Nightmare Rats! | 0.30% | ~559 |
@@ -126,62 +127,61 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Roots of Loomlurch | 0.30% | ~559 |
 | Flapjacks and Waffles | 0.30% | ~559 |
 | Overwhelmed with Knowledge | 0.30% | ~559 |
-| Well Equipped | 0.30% | ~559 |
 | More Than Well Equipped | 0.30% | ~559 |
 | Keep Your Distance | 0.30% | ~559 |
 | The Sanctum of the Sword | 0.30% | ~559 |
 | Get Back In The Castle | 0.30% | ~559 |
 | Checkmate | 0.30% | ~559 |
 | Vecna Out! | 0.30% | ~559 |
-| Anti-Dexterous Explorers | 0.30% | ~660 |
-| Lobsterfolk Assault | 0.30% | ~660 |
-| Home Field Advantage | 0.30% | ~660 |
-| Force Grey Unleashed | 0.30% | ~660 |
-| Vajra's Guards | 0.30% | ~660 |
+| Anti-Dexterous Explorers | 0.30% | ~661 |
+| Lobsterfolk Assault | 0.30% | ~661 |
+| Home Field Advantage | 0.30% | ~661 |
+| Force Grey Unleashed | 0.30% | ~661 |
+| Vajra's Guards | 0.30% | ~661 |
 | The Newcomers of Notoriety | 0.30% | ~559 |
-| Azaka's Procession - Part 1 | 0.30% | ~660 |
-| Azaka's Procession - Part 2 | 0.30% | ~660 |
-| The Hunt for Owl-y | 0.30% | ~660 |
-| Werewolves in the Mist | 0.30% | ~660 |
-| We're not in Faerûn Anymore | 0.30% | ~660 |
-| Chatty Nobles | 0.30% | ~660 |
-| Modron Assistance | 0.30% | ~660 |
+| Azaka's Procession - Part 1 | 0.30% | ~661 |
+| Azaka's Procession - Part 2 | 0.30% | ~661 |
+| The Hunt for Owl-y | 0.30% | ~661 |
+| Werewolves in the Mist | 0.30% | ~661 |
+| We're not in Faerûn Anymore | 0.30% | ~661 |
+| Chatty Nobles | 0.30% | ~661 |
+| Modron Assistance | 0.30% | ~661 |
 | Thine Bounty is Mine! | 0.30% | ~559 |
-| Haaave You Met Asmodeus? | 0.30% | ~660 |
-| Domesticated Owlbears | 0.30% | ~660 |
-| The Wyrmheart Mine | 0.30% | ~660 |
-| Seeds of Deceit | 0.30% | ~660 |
-| Treasure Hunters | 0.30% | ~660 |
-| Flies on the Wall | 0.30% | ~660 |
-| Backtracking Through Barovia | 0.30% | ~660 |
-| Fugitives | 0.30% | ~660 |
-| Hopelessly Lost | 0.30% | ~660 |
-| Enter the Sargauth | 0.30% | ~660 |
-| Slow and Steady | 0.30% | ~660 |
-| Lair of the Xanathar | 0.30% | ~660 |
-| Waterdeep Under Siege | 0.30% | ~660 |
-| Crowded Streets | 0.30% | ~660 |
-| Difficult Terrain | 0.30% | ~660 |
-| Vault of Dragons | 0.30% | ~660 |
-| Champions of Waterdeep | 0.30% | ~660 |
-| Dinosaur Racing | 0.30% | ~660 |
-| Elturel Has Fallen | 0.30% | ~660 |
-| Resolve Amongst Chaos | 0.30% | ~660 |
-| Market Fluctuations | 0.30% | ~660 |
+| Haaave You Met Asmodeus? | 0.30% | ~661 |
+| Domesticated Owlbears | 0.30% | ~661 |
+| The Wyrmheart Mine | 0.30% | ~661 |
+| Seeds of Deceit | 0.30% | ~661 |
+| Treasure Hunters | 0.30% | ~661 |
+| Flies on the Wall | 0.30% | ~661 |
+| Backtracking Through Barovia | 0.30% | ~661 |
+| Fugitives | 0.30% | ~661 |
+| Hopelessly Lost | 0.30% | ~661 |
+| Enter the Sargauth | 0.30% | ~661 |
+| Slow and Steady | 0.30% | ~661 |
+| Lair of the Xanathar | 0.30% | ~661 |
+| Waterdeep Under Siege | 0.30% | ~661 |
+| Crowded Streets | 0.30% | ~661 |
+| Difficult Terrain | 0.30% | ~661 |
+| Vault of Dragons | 0.30% | ~661 |
+| Champions of Waterdeep | 0.30% | ~661 |
+| Dinosaur Racing | 0.30% | ~661 |
+| Elturel Has Fallen | 0.30% | ~661 |
+| Resolve Amongst Chaos | 0.30% | ~661 |
+| Market Fluctuations | 0.30% | ~661 |
 | Into The Fire | 0.30% | ~559 |
 | Dreamscape | 0.30% | ~559 |
 | The Path of Dreams | 0.30% | ~559 |
-| Close Escort | 0.30% | ~660 |
-| Constant Banditry | 0.30% | ~660 |
-| The Long Haul | 0.30% | ~660 |
-| Rude Welcome | 0.30% | ~660 |
+| Close Escort | 0.30% | ~661 |
+| Constant Banditry | 0.30% | ~661 |
+| The Long Haul | 0.30% | ~661 |
+| Rude Welcome | 0.30% | ~661 |
 | Moose Tracks | 0.30% | ~559 |
 | Civilization | 0.30% | ~559 |
-| Durable Deep | 0.30% | ~660 |
-| Expert Opinion | 0.30% | ~660 |
+| Durable Deep | 0.30% | ~661 |
+| Expert Opinion | 0.30% | ~661 |
 | Dwarven Rumors | 0.30% | ~559 |
 | Sunblight | 0.30% | ~559 |
-| The Haunted Jungle | 0.30% | ~660 |
+| The Haunted Jungle | 0.30% | ~661 |
 | Willing to Sacrifice | 0.30% | ~559 |
 | Tiny Treaty | 0.30% | ~559 |
 | All The World's A Stage | 0.30% | ~559 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,163 (Ranked 52)  
-Completed: 2,166 (0.98%) (Ranked 114)  
+Progressed: 220,173 (Ranked 52)  
+Completed: 2,167 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -630,7 +630,7 @@ Completed: 2,166 (0.98%) (Ranked 114)
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
-| 2023-08-09 | 220,163 | 2,166 |
+| 2023-08-09 | 220,173 | 2,167 |
 ## Awards
 Max (Diverse Characters): 5,128  (Ranked 67)  
 Sum: 30,953 (Ranked 38)  

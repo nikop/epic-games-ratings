@@ -14,11 +14,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Banner over the Citadel | 12.00% | ~1,304 |
 | Queen's Gratitude | 11.00% | ~1,196 |
 | Fifth Crusade | 7.00% | ~761 |
-| Embrace of the Abyss | 5.00% | ~543 |
-| Path of the Angel | 5.00% | ~543 |
-| Great Upstart | 5.00% | ~543 |
-| All Paths Open | 5.00% | ~543 |
-| Demonic and Divine | 5.00% | ~543 |
+| Embrace of the Abyss | 5.00% | ~544 |
+| Path of the Angel | 5.00% | ~544 |
+| Great Upstart | 5.00% | ~544 |
+| All Paths Open | 5.00% | ~544 |
+| Demonic and Divine | 5.00% | ~544 |
 | Path of the Azata | 4.00% | ~435 |
 | Transformation | 4.00% | ~435 |
 | The Legacy | 4.00% | ~435 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,869 (Ranked 120)  
+Progressed: 10,870 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,10 +234,10 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 10,839 | 0 |
 | 2023-08-07 | 10,851 | 0 |
 | 2023-08-08 | 10,863 | 0 |
-| 2023-08-09 | 10,869 | 0 |
+| 2023-08-09 | 10,870 | 0 |
 ## Awards
 Max (Character Customization): 1,699  (Ranked 117)  
-Sum: 6,880 (Ranked 113)  
+Sum: 6,881 (Ranked 113)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -248,7 +248,7 @@ Diff (max vs sum): 4
 | This game has Diverse Characters | 614 |
 | This game has Amazing Storytelling | 606 |
 | This game has Challenging Combat | 570 |
-| This game has Quickly Understood Controls | 563 |
+| This game has Quickly Understood Controls | 564 |
 | This game is Relaxing | 542 |
 | This game has a Creative Community | 384 |
 | This game has Obsessive Gameplay | 364 |
@@ -442,4 +442,4 @@ Diff (max vs sum): 4
 | 2023-08-06 | 4.76 | - | 1,695 | 6,872 |
 | 2023-08-07 | 4.76 | - | 1,697 | 6,875 |
 | 2023-08-08 | 4.76 | - | 1,697 | 6,878 |
-| 2023-08-09 | 4.76 | - | 1,699 | 6,880 |
+| 2023-08-09 | 4.76 | - | 1,699 | 6,881 |

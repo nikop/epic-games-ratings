@@ -1163,7 +1163,7 @@
   ],
   "EOS_Progressed": 8141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10198,9 +10198,9 @@
       "ID": "15",
       "SetID": "8idi9ml",
       "Name": "Legendary Explorer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2198
+      "UsersEstimate": 2279
     },
     {
       "ID": "16",
@@ -10566,9 +10566,9 @@
       "ID": "57",
       "SetID": "8idi9ml",
       "Name": "Finnished",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 33
     },
     {
       "ID": "58",
@@ -10630,8 +10630,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-06T23:01:14.8311931+00:00",
-  "LastChanged_Achievements": "2023-08-09T13:18:47.5019581+00:00",
+  "LastChanged_Achievements": "2023-08-09T14:05:44.2186615+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:55.2597008+00:00",
-  "LastUpdate_Ratings": "2023-08-09T13:13:09.2096569+00:00",
-  "LastUpdate_Achievements": "2023-08-09T13:18:47.5020452+00:00"
+  "LastUpdate_Ratings": "2023-08-09T14:00:26.05764+00:00",
+  "LastUpdate_Achievements": "2023-08-09T14:05:44.2187564+00:00"
 }

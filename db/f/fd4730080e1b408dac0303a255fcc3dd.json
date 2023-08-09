@@ -4,7 +4,7 @@
   "ProductSlug": "hamster-on-rails-34148e",
   "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-10T14:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-07T16:02:18.0697733+00:00",
-  "LastChanged_Achievements": "2023-08-09T13:14:35.3344238+00:00",
+  "LastChanged_Achievements": "2023-08-09T14:02:27.3015531+00:00",
   "LastUpdate_AppInfo": "2023-08-07T15:57:00.373509+00:00",
-  "LastUpdate_Ratings": "2023-08-09T13:08:33.9258258+00:00",
-  "LastUpdate_Achievements": "2023-08-09T13:14:35.3344267+00:00"
+  "LastUpdate_Ratings": "2023-08-09T13:56:57.4921359+00:00",
+  "LastUpdate_Achievements": "2023-08-09T14:02:27.3015566+00:00"
 }

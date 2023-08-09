@@ -6,31 +6,31 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~7,699 |
-| Photogenic | 88.00% | ~7,445 |
-| Surge Gauntlet Jockey | 85.00% | ~7,191 |
-| Plug It In | 84.00% | ~7,106 |
-| Adventure Time | 80.00% | ~6,768 |
-| Playing With Power | 77.00% | ~6,514 |
-| Coup d'Etat | 59.00% | ~4,991 |
+| Let's Get This Party Started | 91.00% | ~7,700 |
+| Photogenic | 88.00% | ~7,446 |
+| Surge Gauntlet Jockey | 85.00% | ~7,192 |
+| Plug It In | 84.00% | ~7,107 |
+| Adventure Time | 80.00% | ~6,769 |
+| Playing With Power | 77.00% | ~6,515 |
+| Coup d'Etat | 59.00% | ~4,992 |
 | You're Fired | 58.00% | ~4,907 |
 | Get Furious | 56.00% | ~4,738 |
-| Gunplay And Cosplay | 55.00% | ~4,653 |
-| Hacks In Stacks | 55.00% | ~4,653 |
-| Meching Enemies | 49.00% | ~4,145 |
-| Ticket Toddler | 44.00% | ~3,722 |
+| Gunplay And Cosplay | 55.00% | ~4,654 |
+| Hacks In Stacks | 55.00% | ~4,654 |
+| Meching Enemies | 49.00% | ~4,146 |
+| Ticket Toddler | 44.00% | ~3,723 |
 | Booty Bashing | 41.00% | ~3,469 |
 | Field Medic | 38.00% | ~3,215 |
 | Here Comes a New Challenger | 38.00% | ~3,215 |
 | Rapid Response | 33.00% | ~2,792 |
 | Surge Ahead | 31.00% | ~2,623 |
 | The Full Monty | 31.00% | ~2,623 |
-| Guardian Angel | 29.00% | ~2,453 |
+| Guardian Angel | 29.00% | ~2,454 |
 | Poppin Noggins | 25.00% | ~2,115 |
 | Clips and Crits | 20.00% | ~1,692 |
 | Grey Goo | 18.00% | ~1,523 |
 | Boss of Bosses | 15.00% | ~1,269 |
-| The Final Blow | 14.00% | ~1,184 |
+| The Final Blow | 14.00% | ~1,185 |
 | To Be Continued | 13.00% | ~1,100 |
 | Light My Fire | 12.00% | ~1,015 |
 | Seasoned Adventurer | 12.00% | ~1,015 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~34 |
 | Pyrotechnical | 0.20% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,460 (Ranked 125)  
+Progressed: 8,461 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 8,419 | 0 |
 | 2023-08-07 | 8,436 | 0 |
 | 2023-08-08 | 8,449 | 0 |
-| 2023-08-09 | 8,460 | 0 |
+| 2023-08-09 | 8,461 | 0 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 387)  
 Sum: 454 (Ranked 307)  

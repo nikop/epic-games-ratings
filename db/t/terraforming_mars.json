@@ -2614,9 +2614,9 @@
       "Count": 238
     }
   ],
-  "EOS_Progressed": 70970,
+  "EOS_Progressed": 70972,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 992,
+  "EOS_NewPlayers": 985,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -14619,6 +14619,11 @@
       "Time": "2023-08-09T13:18:11.8389065+00:00",
       "NumProgressed": 70970,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-08-09T14:05:17.9495816+00:00",
+      "NumProgressed": 70972,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 30,
@@ -14630,7 +14635,7 @@
       "Name": "First Journey",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 8516
+      "UsersEstimate": 8517
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -14686,7 +14691,7 @@
       "Name": "Most Achievements",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 8516
+      "UsersEstimate": 8517
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -14726,7 +14731,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 23420
+      "UsersEstimate": 23421
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -14750,7 +14755,7 @@
       "Name": "Curiosity",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 13484
+      "UsersEstimate": 13485
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -14782,7 +14787,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 15613
+      "UsersEstimate": 15614
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -14798,7 +14803,7 @@
       "Name": "Money money",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11355
+      "UsersEstimate": 11356
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -14806,7 +14811,7 @@
       "Name": "Final touch",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 26259
+      "UsersEstimate": 26260
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -14814,7 +14819,7 @@
       "Name": "Self-sufficient",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13484
+      "UsersEstimate": 13485
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -14830,7 +14835,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 8516
+      "UsersEstimate": 8517
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -14846,7 +14851,7 @@
       "Name": "Grand champion",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 8516
+      "UsersEstimate": 8517
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -14869,15 +14874,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 70970,
+      "Progressed": 70972,
       "Completed": 89
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-08-08T13:58:53.5803991+00:00",
-  "LastChanged_Achievements": "2023-08-09T13:18:11.8389059+00:00",
+  "LastChanged_Achievements": "2023-08-09T14:05:17.9495812+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:06.5703426+00:00",
-  "LastUpdate_Ratings": "2023-08-09T13:11:03.3303971+00:00",
-  "LastUpdate_Achievements": "2023-08-09T13:18:11.8389791+00:00"
+  "LastUpdate_Ratings": "2023-08-09T13:58:50.7596759+00:00",
+  "LastUpdate_Achievements": "2023-08-09T14:05:17.949657+00:00"
 }

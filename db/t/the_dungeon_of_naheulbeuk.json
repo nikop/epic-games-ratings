@@ -612,9 +612,9 @@
       "Count": 157
     }
   ],
-  "EOS_Progressed": 209293,
+  "EOS_Progressed": 209311,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4474,
+  "EOS_NewPlayers": 4459,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6257,6 +6257,11 @@
       "Time": "2023-08-09T13:16:05.7017127+00:00",
       "NumProgressed": 209293,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-09T14:03:43.8791237+00:00",
+      "NumProgressed": 209311,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -6674,9 +6679,9 @@
       "ID": "DwarfElf15Support",
       "SetID": "50chcgj",
       "Name": "Star-crossed lovers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "DwarfEpic",
@@ -6714,9 +6719,9 @@
       "ID": "ElfHitTwoFriends",
       "SetID": "50chcgj",
       "Name": "Sowwy!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 628
+      "UsersEstimate": 837
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -6858,9 +6863,9 @@
       "ID": "QuestEmile",
       "SetID": "50chcgj",
       "Name": "It\u0027s been a hard day\u0027s night",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "QuestMinstrel",
@@ -6938,9 +6943,9 @@
       "ID": "Team10Chiantos",
       "SetID": "50chcgj",
       "Name": "Dwarf Candy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "TeamLevel10",
@@ -6971,21 +6976,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 209293,
+      "Progressed": 209311,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 209293,
+      "Progressed": 209311,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-08T15:00:26.9457471+00:00",
-  "LastChanged_Achievements": "2023-08-09T13:16:05.7017118+00:00",
+  "LastChanged_Achievements": "2023-08-09T14:03:43.8791232+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:59.1388847+00:00",
-  "LastUpdate_Ratings": "2023-08-09T13:12:01.5117689+00:00",
-  "LastUpdate_Achievements": "2023-08-09T13:16:05.701819+00:00"
+  "LastUpdate_Ratings": "2023-08-09T13:59:36.154291+00:00",
+  "LastUpdate_Achievements": "2023-08-09T14:03:43.879232+00:00"
 }

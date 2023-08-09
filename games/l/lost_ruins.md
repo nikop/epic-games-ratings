@@ -9,9 +9,9 @@
 | Bug Hunter | 24.00% | ~102 |
 | Boss Killer | 23.00% | ~98 |
 | The Fallen | 21.00% | ~89 |
-| Artifact Collector | 20.00% | ~85 |
 | Trap Master | 20.00% | ~85 |
-| Ghost Buster | 16.00% | ~68 |
+| Artifact Collector | 19.00% | ~81 |
+| Ghost Buster | 15.00% | ~64 |
 | Reincarnation | 15.00% | ~64 |
 | Iconoclasm | 14.00% | ~60 |
 | Librarian | 13.00% | ~55 |
@@ -32,8 +32,8 @@
 | Holy Knight | 3.00% | ~13 |
 | Hoarder | 3.00% | ~13 |
 | Marksman | 3.00% | ~13 |
-| Meat Lover | 2.00% | ~8 |
-| Sling of David | 2.00% | ~8 |
+| Meat Lover | 2.00% | ~9 |
+| Sling of David | 2.00% | ~9 |
 | Roughneck | 1.00% | ~4 |
 | Rune Master | 1.00% | ~4 |
 | Sword Master | 1.00% | ~4 |
@@ -45,7 +45,7 @@
 | Hardboiled | 0.20% | ~1 |
 | Necromancer | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 232)  
+Progressed: 426 (Ranked 232)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,6 +115,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-05 | 422 | 0 |
 | 2023-08-06 | 424 | 0 |
 | 2023-08-07 | 425 | 0 |
+| 2023-08-09 | 426 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

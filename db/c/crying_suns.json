@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 464833,
+  "EOS_Progressed": 464836,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12052,6 +12052,11 @@
       "Time": "2023-08-09T13:16:59.4280254+00:00",
       "NumProgressed": 464833,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-09T14:04:23.7688195+00:00",
+      "NumProgressed": 464836,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -12063,7 +12068,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -12071,7 +12076,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "achievement_first_death",
@@ -12087,7 +12092,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -12095,7 +12100,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -12151,7 +12156,7 @@
       "Name": "The Shutdown",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 4183
+      "UsersEstimate": 4184
     },
     {
       "ID": "achievement_story_landa",
@@ -12231,7 +12236,7 @@
       "Name": "Pope Zenon",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "achievement_story_neon_child",
@@ -12239,7 +12244,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -12694,21 +12699,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 8767,
+      "Progressed": 8770,
       "Completed": 2355
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 464833,
+      "Progressed": 464836,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-08-09T13:16:59.4280248+00:00",
+  "LastChanged_Achievements": "2023-08-09T14:04:23.768819+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:16.4768007+00:00",
-  "LastUpdate_Ratings": "2023-08-09T13:12:19.933836+00:00",
-  "LastUpdate_Achievements": "2023-08-09T13:16:59.4281438+00:00"
+  "LastUpdate_Ratings": "2023-08-09T13:59:51.2282796+00:00",
+  "LastUpdate_Achievements": "2023-08-09T14:04:23.7689404+00:00"
 }

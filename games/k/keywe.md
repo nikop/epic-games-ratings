@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Hired | 100.00% | ~2 |
+| You're Hired | 100.00% | ~4 |
 | Against All Odds | 0.00% | ~0 |
 | Secrets of the Telepost | 0.00% | ~0 |
 | Off to the Races | 0.00% | ~0 |
@@ -25,13 +25,13 @@
 | Winter Postmasters | 0.00% | ~0 |
 | Stocking Up | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 469)  
+Progressed: 4 (Ranked 456)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-08-08 | 1 | 0 |
-| 2023-08-09 | 2 | 0 |
+| 2023-08-09 | 4 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

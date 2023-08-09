@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 0.30% | ~628 |
+| Sowwy! | 0.40% | ~837 |
 | Livin' in a dwarven paradise | 0.10% | ~209 |
 | Cursed die | 0.10% | ~209 |
 | Holistic Adventuring Party | 0.10% | ~209 |
@@ -41,6 +41,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Famous Dungeon of Naheulbeuk | 0.10% | ~209 |
 | A tale of adventurers not quite like the others... | 0.10% | ~209 |
 | Where's that freaking Dwarf? | 0.10% | ~209 |
+| Star-crossed lovers | 0.10% | ~209 |
 | Dwarf Fortress | 0.10% | ~209 |
 | %#*!$*! | 0.10% | ~209 |
 | Sock! SOCK! | 0.10% | ~209 |
@@ -59,6 +60,7 @@ Number of Ratings: 118  (23.09.2022)
 | Law and Order | 0.10% | ~209 |
 | Inception | 0.10% | ~209 |
 | In Navalu's footsteps | 0.10% | ~209 |
+| It's been a hard day's night | 0.10% | ~209 |
 | Demisemiquaver | 0.10% | ~209 |
 | Lëgal Legend | 0.10% | ~209 |
 | Lust and Debauchery | 0.10% | ~209 |
@@ -67,6 +69,7 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 0.10% | ~209 |
 | Speedrun | 0.10% | ~209 |
 | Team Building Exercise | 0.10% | ~209 |
+| Dwarf Candy | 0.10% | ~209 |
 | Oh, when I'll be level 10... | 0.10% | ~209 |
 | Material Girl | 0.10% | ~209 |
 | Fireproof Wizardess | 0.10% | ~209 |
@@ -87,15 +90,12 @@ Number of Ratings: 118  (23.09.2022)
 | Iron Golems Tamer | 0.00% | ~0 |
 | And they lived happily ever after... | 0.00% | ~0 |
 | Insult to injury | 0.00% | ~0 |
-| Star-crossed lovers | 0.00% | ~0 |
 | Pyrrhic victory | 0.00% | ~0 |
 | Death is for wimps | 0.00% | ~0 |
 | Lord of the Drunks | 0.00% | ~0 |
-| It's been a hard day's night | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
-| Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,293 (Ranked 55)  
+Progressed: 209,311 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 207,966 | 0 |
 | 2023-08-07 | 208,534 | 0 |
 | 2023-08-08 | 209,082 | 0 |
-| 2023-08-09 | 209,293 | 0 |
+| 2023-08-09 | 209,311 | 0 |
 ## Awards
 Max (Character Customization): 157  (Ranked 294)  
 Sum: 157 (Ranked 392)  

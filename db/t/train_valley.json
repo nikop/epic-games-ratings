@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -113,7 +113,7 @@
   "Tags": [],
   "EOS_Progressed": 432,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1031,9 +1031,9 @@
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 315
     },
     {
       "ID": "24_mega",
@@ -1175,8 +1175,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-05T18:00:22.7295334+00:00",
-  "LastChanged_Achievements": "2023-08-09T13:17:01.9439178+00:00",
+  "LastChanged_Achievements": "2023-08-09T14:04:25.74666+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:23.250379+00:00",
-  "LastUpdate_Ratings": "2023-08-09T13:10:18.4380999+00:00",
-  "LastUpdate_Achievements": "2023-08-09T13:17:01.9439461+00:00"
+  "LastUpdate_Ratings": "2023-08-09T13:58:16.3148267+00:00",
+  "LastUpdate_Achievements": "2023-08-09T14:04:25.7466887+00:00"
 }

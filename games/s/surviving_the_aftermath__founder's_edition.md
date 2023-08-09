@@ -20,9 +20,9 @@ Number of Ratings: 836  (23.09.2022)
 | The Long Haul | 33.00% | ~2,687 |
 | The Great Healer | 31.00% | ~2,524 |
 | Survivor | 31.00% | ~2,524 |
+| Legendary Explorer | 28.00% | ~2,279 |
 | Cleaner | 28.00% | ~2,279 |
 | Catastrofan | 28.00% | ~2,279 |
-| Legendary Explorer | 27.00% | ~2,198 |
 | Finders, Keepers | 26.00% | ~2,117 |
 | Top Notch | 25.00% | ~2,035 |
 | Great Leader | 23.00% | ~1,872 |
@@ -61,7 +61,7 @@ Number of Ratings: 836  (23.09.2022)
 | A Closer Look | 1.00% | ~81 |
 | True Survivor | 1.00% | ~81 |
 | Feng Shui | 0.90% | ~73 |
-| Finnished | 0.30% | ~24 |
+| Finnished | 0.40% | ~33 |
 | Fun and Games | 0.20% | ~16 |
 | Choo-choo! | 0.20% | ~16 |
 | Customized calamities | 0.10% | ~8 |

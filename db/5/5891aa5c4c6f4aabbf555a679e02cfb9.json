@@ -458,9 +458,9 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "b36c5kb",
       "Name": "Good to See You Again",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -530,9 +530,9 @@
       "ID": "ACHIEVEMENT_42",
       "SetID": "b36c5kb",
       "Name": "Wait For It...",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -617,8 +617,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-09T13:15:22.2326084+00:00",
+  "LastChanged_Achievements": "2023-08-09T14:03:10.7133002+00:00",
   "LastUpdate_AppInfo": "2023-08-02T15:56:51.7948798+00:00",
-  "LastUpdate_Ratings": "2023-08-09T13:08:46.3444436+00:00",
-  "LastUpdate_Achievements": "2023-08-09T13:15:22.2326442+00:00"
+  "LastUpdate_Ratings": "2023-08-09T13:57:06.8729612+00:00",
+  "LastUpdate_Achievements": "2023-08-09T14:03:10.7133406+00:00"
 }
