@@ -41,7 +41,7 @@
 | 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.32% |
 | 41 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 6.01% |
+| 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
 | 43 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
 | 44 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
 | 45 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.00% |
@@ -50,14 +50,14 @@
 | 48 | [JARS](games/j/jars.md) | 4.76% |
 | 49 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
 | 50 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
-| 51 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.65% |
-| 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.63% |
+| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.66% |
+| 52 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.65% |
 | 53 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 54 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.22% |
 | 55 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.98% |
 | 56 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
-| 57 | [Without Escape](games/w/without_escape.md) | 3.70% |
-| 58 | [ZZT!](games/z/zzt!.md) | 3.69% |
+| 57 | [ZZT!](games/z/zzt!.md) | 3.72% |
+| 58 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 59 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 60 | [Doodle God](games/d/doodle_god.md) | 3.46% |
 | 61 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
@@ -223,12 +223,12 @@
 | 220 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
 | 220 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
 | 220 | [Old World](games/o/old_world.md) | 0.04% |
+| 220 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
 | 220 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
-| 225 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
-| 225 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.03% |
-| 225 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 225 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.03% |
-| 225 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
+| 226 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
+| 226 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.03% |
+| 226 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 226 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.03% |
 | 230 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
 | 230 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
 | 230 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
@@ -532,4 +532,4 @@
 | 251 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 251 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 251 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,018 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,019 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
