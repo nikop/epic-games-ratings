@@ -5,9 +5,9 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,765 |
-| First Class Student | 11.00% | ~31,868 |
-| Troll with the Punches | 11.00% | ~31,868 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,766 |
+| First Class Student | 11.00% | ~31,869 |
+| Troll with the Punches | 11.00% | ~31,869 |
 | A Keen Sense of Spell | 10.00% | ~28,971 |
 | That's a Keeper | 10.00% | ~28,971 |
 | Grappling with a Graphorn | 9.00% | ~26,074 |
@@ -30,10 +30,10 @@ Rating: 4.77 (Ranked 108)
 | The Root of the Problem | 5.00% | ~14,486 |
 | Third Time's a Charm | 5.00% | ~14,486 |
 | Raising Expectations | 5.00% | ~14,486 |
-| The Toast of the Town | 4.00% | ~11,588 |
-| Room with a View | 4.00% | ~11,588 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,588 |
-| The Ends Petrify the Means | 4.00% | ~11,588 |
+| The Toast of the Town | 4.00% | ~11,589 |
+| Room with a View | 4.00% | ~11,589 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,589 |
+| The Ends Petrify the Means | 4.00% | ~11,589 |
 | Going Through the Potions | 3.00% | ~8,691 |
 | Floo Around the World | 3.00% | ~8,691 |
 | The Intrepid Explorer | 3.00% | ~8,691 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,738 |
 | Collector's Edition | 0.30% | ~869 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,712 (Ranked 42)  
+Progressed: 289,714 (Ranked 42)  
 Completed: 443 (0.15%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 443 (0.15%) (Ranked 188)
 | 2023-08-06 | 289,549 | 442 |
 | 2023-08-07 | 289,620 | 443 |
 | 2023-08-08 | 289,682 | 443 |
-| 2023-08-09 | 289,712 | 443 |
+| 2023-08-09 | 289,714 | 443 |
 ## Awards
 Max (Character Customization): 21,619  (Ranked 17)  
 Sum: 40,696 (Ranked 30)  

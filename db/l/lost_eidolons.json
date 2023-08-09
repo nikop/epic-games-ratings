@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1084,
+  "EOS_Progressed": 1085,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1285,6 +1285,11 @@
       "Time": "2023-08-07T06:04:25.5499408+00:00",
       "NumProgressed": 1084,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-09T16:04:09.4118829+00:00",
+      "NumProgressed": 1085,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -1328,7 +1333,7 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "06",
@@ -1352,7 +1357,7 @@
       "Name": "Monster Slayer",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "09",
@@ -1360,7 +1365,7 @@
       "Name": "Awakening",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "10",
@@ -1368,7 +1373,7 @@
       "Name": "Huntmaster",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "11",
@@ -1424,7 +1429,7 @@
       "Name": "Ready to Learn",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "18",
@@ -1479,7 +1484,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1084,
+      "Progressed": 1085,
       "Completed": 0
     }
   ],
@@ -1487,8 +1492,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-08-09T15:04:26.6055364+00:00",
+  "LastChanged_Achievements": "2023-08-09T16:04:09.4118825+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:34.0485205+00:00",
-  "LastUpdate_Ratings": "2023-08-09T15:01:47.1211536+00:00",
-  "LastUpdate_Achievements": "2023-08-09T15:04:26.6055654+00:00"
+  "LastUpdate_Ratings": "2023-08-09T16:01:07.8562492+00:00",
+  "LastUpdate_Achievements": "2023-08-09T16:04:09.4119011+00:00"
 }

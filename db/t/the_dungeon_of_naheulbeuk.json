@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -612,9 +612,9 @@
       "Count": 157
     }
   ],
-  "EOS_Progressed": 209337,
+  "EOS_Progressed": 209362,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4447,
+  "EOS_NewPlayers": 4441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6267,6 +6267,11 @@
       "Time": "2023-08-09T15:04:45.2554529+00:00",
       "NumProgressed": 209337,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-09T16:04:25.4285377+00:00",
+      "NumProgressed": 209362,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -6508,17 +6513,17 @@
       "ID": "DLC3AllLegendaryWeapons",
       "SetID": "50p8kh1",
       "Name": "Elite Adventurers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "DLC3AllSideQuests",
       "SetID": "50p8kh1",
       "Name": "Take your time back in time",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "DLC3BigBrain",
@@ -6724,9 +6729,9 @@
       "ID": "ElfHitTwoFriends",
       "SetID": "50chcgj",
       "Name": "Sowwy!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1466
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -6981,21 +6986,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 209337,
+      "Progressed": 209362,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 209337,
+      "Progressed": 209362,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-08T15:00:26.9457471+00:00",
-  "LastChanged_Achievements": "2023-08-09T15:04:45.2554521+00:00",
+  "LastChanged_Achievements": "2023-08-09T16:04:25.4285372+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:59.1388847+00:00",
-  "LastUpdate_Ratings": "2023-08-09T15:00:59.7749592+00:00",
-  "LastUpdate_Achievements": "2023-08-09T15:04:45.2556556+00:00"
+  "LastUpdate_Ratings": "2023-08-09T16:00:23.0700494+00:00",
+  "LastUpdate_Achievements": "2023-08-09T16:04:25.4286452+00:00"
 }

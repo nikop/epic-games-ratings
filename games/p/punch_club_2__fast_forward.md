@@ -19,7 +19,7 @@
 | Run K, run! | 73.00% | ~174 |
 | Hello, world! | 69.00% | ~165 |
 | Fighting is cool | 68.00% | ~163 |
-| No bullying more | 67.00% | ~160 |
+| No bullying more | 68.00% | ~163 |
 | Pal of your father? | 65.00% | ~155 |
 | Employee of the month | 64.00% | ~153 |
 | Spirit of the past | 62.00% | ~148 |

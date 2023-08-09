@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14442,
+  "EOS_Progressed": 14443,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -7760,6 +7760,11 @@
       "Time": "2023-08-09T15:04:41.5638406+00:00",
       "NumProgressed": 14442,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-09T16:04:22.328978+00:00",
+      "NumProgressed": 14443,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 41,
@@ -7811,7 +7816,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4910
+      "UsersEstimate": 4911
     },
     {
       "ID": "tpote_achievement_15",
@@ -7859,7 +7864,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4910
+      "UsersEstimate": 4911
     },
     {
       "ID": "tpote_achievement_20",
@@ -7883,7 +7888,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2888
+      "UsersEstimate": 2889
     },
     {
       "ID": "tpote_achievement_23",
@@ -7915,7 +7920,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1877
+      "UsersEstimate": 1878
     },
     {
       "ID": "tpote_achievement_27",
@@ -7931,7 +7936,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1877
+      "UsersEstimate": 1878
     },
     {
       "ID": "tpote_achievement_29",
@@ -7947,7 +7952,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4621
+      "UsersEstimate": 4622
     },
     {
       "ID": "tpote_achievement_30",
@@ -8035,7 +8040,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5921
+      "UsersEstimate": 5922
     },
     {
       "ID": "tpote_achievement_40",
@@ -8098,15 +8103,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14442,
+      "Progressed": 14443,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-09T15:04:41.56384+00:00",
+  "LastChanged_Achievements": "2023-08-09T16:04:22.3289776+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:55.7503888+00:00",
-  "LastUpdate_Ratings": "2023-08-09T15:02:12.7543336+00:00",
-  "LastUpdate_Achievements": "2023-08-09T15:04:41.563934+00:00"
+  "LastUpdate_Ratings": "2023-08-09T16:01:27.4954466+00:00",
+  "LastUpdate_Achievements": "2023-08-09T16:04:22.3290367+00:00"
 }

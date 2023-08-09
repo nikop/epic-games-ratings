@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 0.60% | ~1,256 |
+| Sowwy! | 0.70% | ~1,466 |
 | Livin' in a dwarven paradise | 0.10% | ~209 |
 | Cursed die | 0.10% | ~209 |
 | Holistic Adventuring Party | 0.10% | ~209 |
@@ -32,6 +32,8 @@ Number of Ratings: 118  (23.09.2022)
 | He’s alive! Aliiiive! | 0.10% | ~209 |
 | Restless night | 0.10% | ~209 |
 | Legendary brew | 0.10% | ~209 |
+| Elite Adventurers | 0.10% | ~209 |
+| Take your time back in time | 0.10% | ~209 |
 | Egghead | 0.10% | ~209 |
 | Free customer service | 0.10% | ~209 |
 | Imposture and Trowels | 0.10% | ~209 |
@@ -82,8 +84,6 @@ Number of Ratings: 118  (23.09.2022)
 | Finally free | 0.00% | ~0 |
 | Hoarding | 0.00% | ~0 |
 | Staff cut | 0.00% | ~0 |
-| Elite Adventurers | 0.00% | ~0 |
-| Take your time back in time | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 | Cute Dungeon | 0.00% | ~0 |
 | Gloomy Dungeon | 0.00% | ~0 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Pyrrhic victory | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,337 (Ranked 55)  
+Progressed: 209,362 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 207,966 | 0 |
 | 2023-08-07 | 208,534 | 0 |
 | 2023-08-08 | 209,082 | 0 |
-| 2023-08-09 | 209,337 | 0 |
+| 2023-08-09 | 209,362 | 0 |
 ## Awards
 Max (Character Customization): 157  (Ranked 294)  
 Sum: 157 (Ranked 392)  

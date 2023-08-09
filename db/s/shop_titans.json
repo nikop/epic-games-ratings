@@ -5506,7 +5506,7 @@
       "Count": 3732
     }
   ],
-  "EOS_Progressed": 134201,
+  "EOS_Progressed": 134202,
   "EOS_Completed": 131,
   "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 5,
@@ -16836,6 +16836,11 @@
       "Time": "2023-08-09T15:05:31.9216761+00:00",
       "NumProgressed": 134201,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2023-08-09T16:05:05.1415844+00:00",
+      "NumProgressed": 134202,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 112,
@@ -17397,9 +17402,9 @@
       "ID": "jackslot01",
       "SetID": "anfd17p",
       "Name": "One-Armed Bandit",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 537
     },
     {
       "ID": "jackslot02",
@@ -17742,15 +17747,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134201,
+      "Progressed": 134202,
       "Completed": 131
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-09T13:11:21.9245543+00:00",
-  "LastChanged_Achievements": "2023-08-09T15:05:31.9216754+00:00",
+  "LastChanged_Achievements": "2023-08-09T16:05:05.1415839+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.2056858+00:00",
-  "LastUpdate_Ratings": "2023-08-09T15:00:16.3406976+00:00",
-  "LastUpdate_Achievements": "2023-08-09T15:05:31.9219373+00:00"
+  "LastUpdate_Ratings": "2023-08-09T15:59:45.3684742+00:00",
+  "LastUpdate_Achievements": "2023-08-09T16:05:05.1417542+00:00"
 }

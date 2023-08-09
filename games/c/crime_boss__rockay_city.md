@@ -5,20 +5,20 @@ Rating: 3.94 (Ranked 938)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~52,991 |
-| First One’s Free | 65.00% | ~46,546 |
-| Neophyte Ninja | 50.00% | ~35,805 |
-| Too Old for This | 47.00% | ~33,657 |
+| Downed but Not Outed | 74.00% | ~52,993 |
+| First One’s Free | 65.00% | ~46,548 |
+| Neophyte Ninja | 50.00% | ~35,806 |
+| Too Old for This | 47.00% | ~33,658 |
 | Case Closed | 35.00% | ~25,064 |
 | Fancy Pants | 35.00% | ~25,064 |
-| King of the Hill | 34.00% | ~24,347 |
+| King of the Hill | 34.00% | ~24,348 |
 | Underworld Initiate | 29.00% | ~20,767 |
-| Roid Ranger | 21.00% | ~15,038 |
+| Roid Ranger | 21.00% | ~15,039 |
 | True Player | 19.00% | ~13,606 |
 | Off the Rocks | 19.00% | ~13,606 |
 | Raider’s Ruin | 17.00% | ~12,174 |
 | Dragonslayer | 17.00% | ~12,174 |
-| Hidden Sonata | 13.00% | ~9,309 |
+| Hidden Sonata | 13.00% | ~9,310 |
 | Rockay Rex | 11.00% | ~7,877 |
 | Freebooter | 10.00% | ~7,161 |
 | Track Star | 9.00% | ~6,445 |
@@ -27,8 +27,8 @@ Rating: 3.94 (Ranked 938)
 | I Like Trains | 8.00% | ~5,729 |
 | Headhunter | 8.00% | ~5,729 |
 | Foo Finder | 7.00% | ~5,013 |
-| Legend Looter | 5.00% | ~3,580 |
-| Savvy Seeker | 5.00% | ~3,580 |
+| Legend Looter | 5.00% | ~3,581 |
+| Savvy Seeker | 5.00% | ~3,581 |
 | Imports and Exports | 4.00% | ~2,864 |
 | Olympus Ascended | 4.00% | ~2,864 |
 | Cracked the Jack | 4.00% | ~2,864 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 938)
 | Geek Out | 0.60% | ~430 |
 | Full House | 0.20% | ~143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,610 (Ranked 77)  
+Progressed: 71,612 (Ranked 77)  
 Completed: 37 (0.05%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 37 (0.05%) (Ranked 216)
 | 2023-08-06 | 71,468 | 37 |
 | 2023-08-07 | 71,517 | 37 |
 | 2023-08-08 | 71,567 | 37 |
-| 2023-08-09 | 71,610 | 37 |
+| 2023-08-09 | 71,612 | 37 |
 ## Awards
 Max (Diverse Characters): 398  (Ranked 215)  
 Sum: 1,864 (Ranked 204)  

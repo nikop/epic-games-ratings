@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -205,9 +205,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 33214,
+  "EOS_Progressed": 33226,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 886,
+  "EOS_NewPlayers": 894,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -12320,6 +12320,11 @@
       "Time": "2023-08-09T15:06:01.9574817+00:00",
       "NumProgressed": 33214,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-09T16:05:30.2891348+00:00",
+      "NumProgressed": 33226,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -12331,7 +12336,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4982
+      "UsersEstimate": 4984
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -12339,7 +12344,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6643
+      "UsersEstimate": 6645
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -12371,7 +12376,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -12419,7 +12424,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -12435,7 +12440,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -12443,7 +12448,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -12467,7 +12472,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -12491,7 +12496,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -12515,7 +12520,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -12562,7 +12567,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 33214,
+      "Progressed": 33226,
       "Completed": 21
     }
   ],
@@ -12570,8 +12575,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-01T20:00:57.6814566+00:00",
-  "LastChanged_Achievements": "2023-08-09T15:06:01.957481+00:00",
+  "LastChanged_Achievements": "2023-08-09T16:05:30.2891345+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:57.8950159+00:00",
-  "LastUpdate_Ratings": "2023-08-09T15:02:15.2061699+00:00",
-  "LastUpdate_Achievements": "2023-08-09T15:06:01.957599+00:00"
+  "LastUpdate_Ratings": "2023-08-09T16:01:29.6936421+00:00",
+  "LastUpdate_Achievements": "2023-08-09T16:05:30.2892119+00:00"
 }

@@ -50,6 +50,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Not That Type of Helm! | 0.60% | ~1,119 |
 | Krux's Speed Run | 0.60% | ~1,119 |
 | Thieves of the Coven | 0.50% | ~932 |
+| Hither of the Feywild | 0.50% | ~932 |
 | On the Hunt | 0.50% | ~1,101 |
 | A Demi-god's Defender | 0.50% | ~932 |
 | Friends of the Forest | 0.50% | ~1,101 |
@@ -76,7 +77,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bahamut's Army | 0.50% | ~932 |
 | Animated Giff | 0.50% | ~932 |
 | Upholding the Law | 0.40% | ~881 |
-| Hither of the Feywild | 0.40% | ~746 |
 | The Prince of a Thousand Enemies | 0.40% | ~746 |
 | Downfall | 0.40% | ~746 |
 | Speeds of Destruction | 0.40% | ~746 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,193 (Ranked 52)  
+Progressed: 220,204 (Ranked 52)  
 Completed: 2,167 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,7 +630,7 @@ Completed: 2,167 (0.98%) (Ranked 114)
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
-| 2023-08-09 | 220,193 | 2,167 |
+| 2023-08-09 | 220,204 | 2,167 |
 ## Awards
 Max (Diverse Characters): 5,128  (Ranked 67)  
 Sum: 30,953 (Ranked 38)  

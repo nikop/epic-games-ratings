@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6072,9 +6072,9 @@
       "Count": 580
     }
   ],
-  "EOS_Progressed": 289712,
+  "EOS_Progressed": 289714,
   "EOS_Completed": 443,
-  "EOS_NewPlayers": 524,
+  "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -18032,6 +18032,11 @@
       "Time": "2023-08-09T15:06:33.1572087+00:00",
       "NumProgressed": 289712,
       "NumCompleted": 443
+    },
+    {
+      "Time": "2023-08-09T16:05:56.5804376+00:00",
+      "NumProgressed": 289714,
+      "NumCompleted": 443
     }
   ],
   "TotalAchievements": 45,
@@ -18043,7 +18048,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34765
+      "UsersEstimate": 34766
     },
     {
       "ID": "PFA_10",
@@ -18131,7 +18136,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11588
+      "UsersEstimate": 11589
     },
     {
       "ID": "PFA_20",
@@ -18243,7 +18248,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11588
+      "UsersEstimate": 11589
     },
     {
       "ID": "PFA_33",
@@ -18307,7 +18312,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11588
+      "UsersEstimate": 11589
     },
     {
       "ID": "PFA_40",
@@ -18323,7 +18328,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11588
+      "UsersEstimate": 11589
     },
     {
       "ID": "PFA_42",
@@ -18371,7 +18376,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31868
+      "UsersEstimate": 31869
     },
     {
       "ID": "PFA_7",
@@ -18379,7 +18384,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31868
+      "UsersEstimate": 31869
     },
     {
       "ID": "PFA_8",
@@ -18402,7 +18407,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289712,
+      "Progressed": 289714,
       "Completed": 443
     }
   ],
@@ -18410,8 +18415,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-09T07:58:33.7701833+00:00",
-  "LastChanged_Achievements": "2023-08-09T15:06:33.157208+00:00",
+  "LastChanged_Achievements": "2023-08-09T16:05:56.580437+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.8672159+00:00",
-  "LastUpdate_Ratings": "2023-08-09T14:58:50.9202648+00:00",
-  "LastUpdate_Achievements": "2023-08-09T15:06:33.1573373+00:00"
+  "LastUpdate_Ratings": "2023-08-09T15:58:37.0180611+00:00",
+  "LastUpdate_Achievements": "2023-08-09T16:05:56.580521+00:00"
 }
