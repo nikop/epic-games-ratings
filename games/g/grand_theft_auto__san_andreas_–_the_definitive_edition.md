@@ -37,7 +37,7 @@ Rating: 4.56 (Ranked 469)
 | Lucky Spinner | 1.00% | ~119 |
 | Chick Magnet | 1.00% | ~119 |
 | Not a Player | 0.80% | ~95 |
-| Remastered | 0.60% | ~71 |
+| Remastered | 0.70% | ~83 |
 | ...Here we go again | 0.40% | ~48 |
 | I Ain't No Buster | 0.30% | ~36 |
 ## Popularity (Based on EOS Achievements)

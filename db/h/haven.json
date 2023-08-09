@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1386,
+  "EOS_Progressed": 1387,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -1468,6 +1468,11 @@
       "Time": "2023-08-09T14:03:07.9243206+00:00",
       "NumProgressed": 1386,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-09T15:03:44.3958829+00:00",
+      "NumProgressed": 1387,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1479,7 +1484,7 @@
       "Name": "Lovebirds",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "10",
@@ -1495,7 +1500,7 @@
       "Name": "Strike!",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "12",
@@ -1535,15 +1540,15 @@
       "Name": "My little pony",
       "Percentage": 19,
       "XP": 70,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "17",
       "SetID": "n50no0",
       "Name": "Balding bloot!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1096
     },
     {
       "ID": "18",
@@ -1631,7 +1636,7 @@
       "Name": "A love supreme",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "3",
@@ -1703,7 +1708,7 @@
       "Name": "Over my dead body",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "9",
@@ -1718,15 +1723,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1386,
+      "Progressed": 1387,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-08-09T14:03:07.9243201+00:00",
+  "LastChanged_Achievements": "2023-08-09T15:03:44.3958821+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:26.7474431+00:00",
-  "LastUpdate_Ratings": "2023-08-09T13:59:59.6941627+00:00",
-  "LastUpdate_Achievements": "2023-08-09T14:03:07.9243457+00:00"
+  "LastUpdate_Ratings": "2023-08-09T15:01:31.3643723+00:00",
+  "LastUpdate_Achievements": "2023-08-09T15:03:44.3959187+00:00"
 }

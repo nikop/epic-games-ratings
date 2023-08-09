@@ -16,7 +16,7 @@
 | Employee of the week | 76.00% | ~182 |
 | Neurotrainer – power gainer! | 75.00% | ~179 |
 | Your own amateur gym | 74.00% | ~177 |
-| Run K, run! | 72.00% | ~172 |
+| Run K, run! | 73.00% | ~174 |
 | Hello, world! | 69.00% | ~165 |
 | Fighting is cool | 68.00% | ~163 |
 | No bullying more | 67.00% | ~160 |
@@ -58,18 +58,18 @@
 | Absolute Champion! | 31.00% | ~74 |
 | The last bell ring | 30.00% | ~72 |
 | Careerist | 30.00% | ~72 |
+| The lonesome road | 29.00% | ~69 |
+| Key memories | 29.00% | ~69 |
 | Not little hacker | 29.00% | ~69 |
 | Anyone can resist | 29.00% | ~69 |
+| The heart of the Resistance | 29.00% | ~69 |
 | Trap disarmed | 28.00% | ~67 |
 | Another world | 28.00% | ~67 |
-| The lonesome road | 28.00% | ~67 |
 | Keep nature safe | 28.00% | ~67 |
 | Family comes first | 28.00% | ~67 |
-| Key memories | 28.00% | ~67 |
-| The heart of the Resistance | 28.00% | ~67 |
 | Silver’s past | 25.00% | ~60 |
+| Better cooking at home | 25.00% | ~60 |
 | The only right decision | 25.00% | ~60 |
-| Better cooking at home | 24.00% | ~57 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 239 (Ranked 271)  
 Completed: 8 (3.35%) (Ranked 62)  

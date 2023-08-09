@@ -12,20 +12,20 @@ Rating: 4.18 (Ranked 868)
 | Get ReQ'd | 4.00% | ~2,709 |
 | Knighthood | 4.00% | ~2,709 |
 | Whispered Words | 4.00% | ~2,709 |
-| The Batman Family | 3.00% | ~2,031 |
-| Protector of Gotham | 3.00% | ~2,031 |
-| Something in the Clay | 3.00% | ~2,031 |
-| The Show Mud Go On | 3.00% | ~2,031 |
-| Rock and a Hard Place | 3.00% | ~2,031 |
-| Quartzer Life Crisis | 3.00% | ~2,031 |
-| Snow Problem | 3.00% | ~2,031 |
-| Working Hard or Harley Working? | 3.00% | ~2,031 |
-| Universal Health Scare | 3.00% | ~2,031 |
-| Unstoppable Force | 3.00% | ~2,031 |
-| Lock and Key | 3.00% | ~2,031 |
-| Bad Apples in Every Orchard | 3.00% | ~2,031 |
-| From Inside Gotham's Walls | 3.00% | ~2,031 |
-| Voiceless | 3.00% | ~2,031 |
+| The Batman Family | 3.00% | ~2,032 |
+| Protector of Gotham | 3.00% | ~2,032 |
+| Something in the Clay | 3.00% | ~2,032 |
+| The Show Mud Go On | 3.00% | ~2,032 |
+| Rock and a Hard Place | 3.00% | ~2,032 |
+| Quartzer Life Crisis | 3.00% | ~2,032 |
+| Snow Problem | 3.00% | ~2,032 |
+| Working Hard or Harley Working? | 3.00% | ~2,032 |
+| Universal Health Scare | 3.00% | ~2,032 |
+| Unstoppable Force | 3.00% | ~2,032 |
+| Lock and Key | 3.00% | ~2,032 |
+| Bad Apples in Every Orchard | 3.00% | ~2,032 |
+| From Inside Gotham's Walls | 3.00% | ~2,032 |
+| Voiceless | 3.00% | ~2,032 |
 | End of an Era | 2.00% | ~1,354 |
 | In Your Element | 2.00% | ~1,354 |
 | Not On My Watch | 2.00% | ~1,354 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 868)
 | History Major | 0.10% | ~68 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,716 (Ranked 80)  
+Progressed: 67,717 (Ranked 80)  
 Completed: 106 (0.16%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 106 (0.16%) (Ranked 183)
 | 2023-08-06 | 67,675 | 106 |
 | 2023-08-07 | 67,692 | 106 |
 | 2023-08-08 | 67,710 | 106 |
-| 2023-08-09 | 67,716 | 106 |
+| 2023-08-09 | 67,717 | 106 |
 ## Awards
 Max (Great Boss Battles): 2,482  (Ranked 101)  
 Sum: 4,125 (Ranked 140)  

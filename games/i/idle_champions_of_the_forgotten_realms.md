@@ -6,20 +6,20 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~11,009 |
-| Beast Intentions | 3.00% | ~6,605 |
-| Maddening | 2.00% | ~4,403 |
+| A Brief Tour of the Realms | 5.00% | ~11,010 |
+| Beast Intentions | 3.00% | ~6,606 |
+| Maddening | 2.00% | ~4,404 |
 | The Silken Swamp | 1.00% | ~2,202 |
 | Supply Run | 1.00% | ~2,202 |
-| Vecna Lives! | 1.00% | ~1,864 |
-| Rocky Reception | 1.00% | ~1,864 |
-| Rock and Roll | 1.00% | ~1,864 |
+| Vecna Lives! | 1.00% | ~1,865 |
+| Rocky Reception | 1.00% | ~1,865 |
+| Rock and Roll | 1.00% | ~1,865 |
 | Tall Tales | 0.90% | ~1,678 |
 | Vecna Loots! | 0.90% | ~1,678 |
 | Flight of the Kindori Pod | 0.90% | ~1,678 |
 | Seeds of Destruction | 0.80% | ~1,492 |
 | Return to the Tomb | 0.80% | ~1,492 |
-| The Cursed Farmer | 0.80% | ~1,761 |
+| The Cursed Farmer | 0.80% | ~1,762 |
 | Topolah's Tower | 0.80% | ~1,492 |
 | Pros and CONs | 0.70% | ~1,541 |
 | The Witchlight Carnival | 0.70% | ~1,305 |
@@ -50,6 +50,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Not That Type of Helm! | 0.60% | ~1,119 |
 | Krux's Speed Run | 0.60% | ~1,119 |
 | Thieves of the Coven | 0.50% | ~932 |
+| On the Hunt | 0.50% | ~1,101 |
 | A Demi-god's Defender | 0.50% | ~932 |
 | Friends of the Forest | 0.50% | ~1,101 |
 | Homecoming | 0.50% | ~1,101 |
@@ -66,6 +67,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.50% | ~1,101 |
 | Escort to Waterdeep | 0.50% | ~1,101 |
 | Waterdeep Detours | 0.50% | ~1,101 |
+| Underdeep Cartography | 0.50% | ~1,101 |
 | Friendly Imps | 0.50% | ~1,101 |
 | Pure Energy | 0.50% | ~1,101 |
 | Calcryx Tricks | 0.50% | ~932 |
@@ -79,7 +81,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Downfall | 0.40% | ~746 |
 | Speeds of Destruction | 0.40% | ~746 |
 | Owlbear Necessities | 0.40% | ~746 |
-| On the Hunt | 0.40% | ~881 |
 | Best Thay Ever | 0.40% | ~746 |
 | Well Equipped | 0.40% | ~746 |
 | The Castle of a Thousand Vecnas | 0.40% | ~746 |
@@ -108,7 +109,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Everlasting Rime | 0.40% | ~746 |
 | Lost in the Deep | 0.40% | ~881 |
 | Easily Distracted | 0.40% | ~881 |
-| Underdeep Cartography | 0.40% | ~881 |
 | Overdue Rendezvous | 0.40% | ~881 |
 | The Templar's Camp | 0.40% | ~881 |
 | Rescue in the Jungle | 0.40% | ~881 |
@@ -233,6 +233,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Excavating History | 0.20% | ~440 |
 | Towering Expectations | 0.20% | ~440 |
 | Cramped Quarters | 0.20% | ~440 |
+| Elder Rune Madness | 0.20% | ~440 |
 | Who Lurks in Lurkwood | 0.20% | ~440 |
 | Orcs Are Wild | 0.20% | ~440 |
 | A Tale of Two Fiends | 0.20% | ~440 |
@@ -365,7 +366,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Exploits | 0.10% | ~220 |
 | Flame(skull) War | 0.10% | ~220 |
 | Servants of the Demon Prince | 0.10% | ~186 |
-| Elder Rune Madness | 0.10% | ~220 |
 | The Madness Grows | 0.10% | ~220 |
 | The Madness Peaks | 0.10% | ~186 |
 | Bullywugs in the Bog | 0.10% | ~220 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,173 (Ranked 52)  
+Progressed: 220,193 (Ranked 52)  
 Completed: 2,167 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,7 +630,7 @@ Completed: 2,167 (0.98%) (Ranked 114)
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
-| 2023-08-09 | 220,173 | 2,167 |
+| 2023-08-09 | 220,193 | 2,167 |
 ## Awards
 Max (Diverse Characters): 5,128  (Ranked 67)  
 Sum: 30,953 (Ranked 38)  

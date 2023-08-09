@@ -5674,9 +5674,9 @@
       "Count": 3347
     }
   ],
-  "EOS_Progressed": 220173,
+  "EOS_Progressed": 220193,
   "EOS_Completed": 2167,
-  "EOS_NewPlayers": 2295,
+  "EOS_NewPlayers": 2297,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17669,6 +17669,11 @@
       "Time": "2023-08-09T14:02:11.691795+00:00",
       "NumProgressed": 220173,
       "NumCompleted": 2167
+    },
+    {
+      "Time": "2023-08-09T15:02:52.9034296+00:00",
+      "NumProgressed": 220193,
+      "NumCompleted": 2167
     }
   ],
   "TotalAchievements": 512,
@@ -17680,7 +17685,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11009
+      "UsersEstimate": 11010
     },
     {
       "ID": "objective_completed_10",
@@ -17688,7 +17693,7 @@
       "Name": "Maddening",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "objective_completed_100",
@@ -18048,7 +18053,7 @@
       "Name": "Beast Intentions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6605
+      "UsersEstimate": 6606
     },
     {
       "ID": "objective_completed_110",
@@ -18342,9 +18347,9 @@
       "ID": "objective_completed_116",
       "SetID": "cc37lbc",
       "Name": "On the Hunt",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 1101
     },
     {
       "ID": "objective_completed_1160",
@@ -18360,7 +18365,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "objective_completed_1164",
@@ -19352,7 +19357,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1761
+      "UsersEstimate": 1762
     },
     {
       "ID": "objective_completed_34",
@@ -19726,9 +19731,9 @@
       "ID": "objective_completed_424",
       "SetID": "cc37lbc",
       "Name": "Elder Rune Madness",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 440
     },
     {
       "ID": "objective_completed_425",
@@ -20886,9 +20891,9 @@
       "ID": "objective_completed_79",
       "SetID": "cc37lbc",
       "Name": "Underdeep Cartography",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 1101
     },
     {
       "ID": "objective_completed_8",
@@ -21704,7 +21709,7 @@
       "Name": "Rocky Reception",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "objective_completed_1376",
@@ -21720,7 +21725,7 @@
       "Name": "Rock and Roll",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "objective_completed_1381",
@@ -21775,21 +21780,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 186447,
+      "Progressed": 186467,
       "Completed": 3075
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 220173,
+      "Progressed": 220193,
       "Completed": 2167
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-09T08:58:56.6665212+00:00",
-  "LastChanged_Achievements": "2023-08-09T14:02:11.6917945+00:00",
+  "LastChanged_Achievements": "2023-08-09T15:02:52.9034289+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-09T13:58:45.0423139+00:00",
-  "LastUpdate_Achievements": "2023-08-09T14:02:11.6942173+00:00"
+  "LastUpdate_Ratings": "2023-08-09T14:59:46.6872963+00:00",
+  "LastUpdate_Achievements": "2023-08-09T15:02:52.9068817+00:00"
 }

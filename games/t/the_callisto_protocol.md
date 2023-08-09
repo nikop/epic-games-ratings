@@ -16,6 +16,7 @@ Rating: 4.20 (Ranked 851)
 | Float Like A Butterfly | 3.00% | ~475 |
 | Reforged | 3.00% | ~475 |
 | The Outer Way | 3.00% | ~475 |
+| Without A Paddle | 3.00% | ~475 |
 | In the Pipe, Five by Five | 3.00% | ~475 |
 | What Lies Beneath | 3.00% | ~475 |
 | Crash Site | 3.00% | ~475 |
@@ -27,7 +28,6 @@ Rating: 4.20 (Ranked 851)
 | Terminated | 2.00% | ~317 |
 | The Commonality | 2.00% | ~317 |
 | If the SHU Fits... | 2.00% | ~317 |
-| Without A Paddle | 2.00% | ~317 |
 | Desperate Times | 2.00% | ~317 |
 | One Last Job | 2.00% | ~75 |
 | In Striking Distance | 1.00% | ~158 |

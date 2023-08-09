@@ -612,9 +612,9 @@
       "Count": 157
     }
   ],
-  "EOS_Progressed": 209311,
+  "EOS_Progressed": 209337,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4459,
+  "EOS_NewPlayers": 4447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6262,6 +6262,11 @@
       "Time": "2023-08-09T14:03:43.8791237+00:00",
       "NumProgressed": 209311,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-09T15:04:45.2554529+00:00",
+      "NumProgressed": 209337,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -6431,9 +6436,9 @@
       "ID": "DLC1ChooseNecro",
       "SetID": "50p8kh1",
       "Name": "Necrophilia",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "DLC1ChooseVampire",
@@ -6455,9 +6460,9 @@
       "ID": "DLC2EndGame",
       "SetID": "50p8kh1",
       "Name": "Restless night",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "DLC2LegendaryIronman",
@@ -6663,9 +6668,9 @@
       "ID": "Dwarf30Insult",
       "SetID": "50chcgj",
       "Name": "Insult to injury",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "DwarfCover",
@@ -6719,9 +6724,9 @@
       "ID": "ElfHitTwoFriends",
       "SetID": "50chcgj",
       "Name": "Sowwy!",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 837
+      "UsersEstimate": 1256
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -6759,9 +6764,9 @@
       "ID": "EndGameNoDeath",
       "SetID": "50chcgj",
       "Name": "Death is for wimps",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "FastKill",
@@ -6831,9 +6836,9 @@
       "ID": "Orktobearfest",
       "SetID": "50chcgj",
       "Name": "Lord of the Drunks",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "PaladineEpic",
@@ -6976,21 +6981,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 209311,
+      "Progressed": 209337,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 209311,
+      "Progressed": 209337,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-08T15:00:26.9457471+00:00",
-  "LastChanged_Achievements": "2023-08-09T14:03:43.8791232+00:00",
+  "LastChanged_Achievements": "2023-08-09T15:04:45.2554521+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:59.1388847+00:00",
-  "LastUpdate_Ratings": "2023-08-09T13:59:36.154291+00:00",
-  "LastUpdate_Achievements": "2023-08-09T14:03:43.879232+00:00"
+  "LastUpdate_Ratings": "2023-08-09T15:00:59.7749592+00:00",
+  "LastUpdate_Achievements": "2023-08-09T15:04:45.2556556+00:00"
 }

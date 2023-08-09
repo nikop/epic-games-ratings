@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 842,
+  "EOS_Progressed": 843,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2966,6 +2966,11 @@
       "Time": "2023-08-09T13:18:46.052904+00:00",
       "NumProgressed": 842,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-09T15:07:30.8687557+00:00",
+      "NumProgressed": 843,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2991,9 +2996,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 76
     },
     {
       "ID": "ach_defeat_players_100",
@@ -3081,7 +3086,7 @@
       "Name": "Facility Online",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3151,9 +3156,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 295
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -3255,7 +3260,7 @@
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Shock Troops",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -3280,14 +3285,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 842,
+      "Progressed": 843,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-09T14:05:43.18382+00:00",
+  "LastChanged_Achievements": "2023-08-09T15:07:30.8687549+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:21.6461868+00:00",
-  "LastUpdate_Ratings": "2023-08-09T13:57:08.8517429+00:00",
-  "LastUpdate_Achievements": "2023-08-09T14:05:43.1838623+00:00"
+  "LastUpdate_Ratings": "2023-08-09T14:57:30.7064281+00:00",
+  "LastUpdate_Achievements": "2023-08-09T15:07:30.8688135+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~41,962 |
-| Worth it | 63.00% | ~34,332 |
-| Eagle Eye | 55.00% | ~29,973 |
-| Corpseman I | 40.00% | ~21,798 |
-| Blast fishing | 37.00% | ~20,164 |
-| Not alone | 32.00% | ~17,439 |
-| Headhunter I | 26.00% | ~14,169 |
-| Manual Labour I | 25.00% | ~13,624 |
-| Developers, Developers, Developers | 24.00% | ~13,079 |
-| Basic Training | 24.00% | ~13,079 |
-| Furchtlos und Treu | 13.00% | ~7,084 |
+| Setting an example | 77.00% | ~41,965 |
+| Worth it | 63.00% | ~34,335 |
+| Eagle Eye | 55.00% | ~29,975 |
+| Corpseman I | 40.00% | ~21,800 |
+| Blast fishing | 37.00% | ~20,165 |
+| Not alone | 32.00% | ~17,440 |
+| Headhunter I | 26.00% | ~14,170 |
+| Manual Labour I | 25.00% | ~13,625 |
+| Developers, Developers, Developers | 24.00% | ~13,080 |
+| Basic Training | 24.00% | ~13,080 |
+| Furchtlos und Treu | 13.00% | ~7,085 |
 | Gott Mit Uns | 12.00% | ~6,540 |
 | This We'll Defend! | 9.00% | ~4,905 |
 | Anker wirf! | 9.00% | ~4,905 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Headhunter II | 1.00% | ~545 |
 | Corpseman III | 1.00% | ~545 |
 | Elite Player | 0.80% | ~436 |
-| Manual Labour III | 0.30% | ~163 |
+| Manual Labour III | 0.30% | ~164 |
 | War is better with friends II | 0.20% | ~109 |
 | Buddy | 0.20% | ~109 |
 | Gold Collector | 0.10% | ~54 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~54 |
 | Blood Brother | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,496 (Ranked 88)  
+Progressed: 54,500 (Ranked 88)  
 Completed: 4 (0.01%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 4 (0.01%) (Ranked 237)
 | 2023-08-06 | 54,256 | 4 |
 | 2023-08-07 | 54,367 | 4 |
 | 2023-08-08 | 54,454 | 4 |
-| 2023-08-09 | 54,496 | 4 |
+| 2023-08-09 | 54,500 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 341)  
 Sum: 765 (Ranked 264)  

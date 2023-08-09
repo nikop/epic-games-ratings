@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -5653,9 +5653,9 @@
       "ID": "Ach010",
       "SetID": "12n4k20",
       "Name": "I think I deserve some praise, here!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     },
     {
       "ID": "Ach011",
@@ -6164,8 +6164,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-08-09T14:04:26.4903026+00:00",
+  "LastChanged_Achievements": "2023-08-09T15:05:44.9106714+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:24.9640697+00:00",
-  "LastUpdate_Ratings": "2023-08-09T13:59:06.4737097+00:00",
-  "LastUpdate_Achievements": "2023-08-09T14:04:26.4903905+00:00"
+  "LastUpdate_Ratings": "2023-08-09T15:00:18.042899+00:00",
+  "LastUpdate_Achievements": "2023-08-09T15:05:44.9107954+00:00"
 }

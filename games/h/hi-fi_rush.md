@@ -41,8 +41,8 @@ Rating: 4.87 (Ranked 24)
 | Check out my moves! | 1.00% | ~38 |
 | Call me Turbo Chai | 1.00% | ~23 |
 | I think I found your calling, Macaron | 0.90% | ~34 |
+| I think I deserve some praise, here! | 0.80% | ~31 |
 | I hit things with a guitar really well. | 0.80% | ~31 |
-| I think I deserve some praise, here! | 0.70% | ~27 |
 | We're Jammin' | 0.70% | ~27 |
 | First we parry, then we counter | 0.60% | ~23 |
 | New bad guys? No problem! | 0.60% | ~14 |

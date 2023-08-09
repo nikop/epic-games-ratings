@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 0.40% | ~837 |
+| Sowwy! | 0.60% | ~1,256 |
 | Livin' in a dwarven paradise | 0.10% | ~209 |
 | Cursed die | 0.10% | ~209 |
 | Holistic Adventuring Party | 0.10% | ~209 |
@@ -27,8 +27,10 @@ Number of Ratings: 118  (23.09.2022)
 | The number of the counting shalt be 7 | 0.10% | ~209 |
 | Res Judicata | 0.10% | ~209 |
 | The Woman in the High Castle | 0.10% | ~209 |
+| Necrophilia | 0.10% | ~209 |
 | The Blood Countess | 0.10% | ~209 |
 | He’s alive! Aliiiive! | 0.10% | ~209 |
+| Restless night | 0.10% | ~209 |
 | Legendary brew | 0.10% | ~209 |
 | Egghead | 0.10% | ~209 |
 | Free customer service | 0.10% | ~209 |
@@ -40,6 +42,7 @@ Number of Ratings: 118  (23.09.2022)
 | Kudos from your DM | 0.10% | ~209 |
 | The Famous Dungeon of Naheulbeuk | 0.10% | ~209 |
 | A tale of adventurers not quite like the others... | 0.10% | ~209 |
+| Insult to injury | 0.10% | ~209 |
 | Where's that freaking Dwarf? | 0.10% | ~209 |
 | Star-crossed lovers | 0.10% | ~209 |
 | Dwarf Fortress | 0.10% | ~209 |
@@ -49,6 +52,7 @@ Number of Ratings: 118  (23.09.2022)
 | GG EZ | 0.10% | ~209 |
 | DM intervention | 0.10% | ~209 |
 | 100% satisfaction guarantee | 0.10% | ~209 |
+| Death is for wimps | 0.10% | ~209 |
 | Alt+F4 | 0.10% | ~209 |
 | The beards of change | 0.10% | ~209 |
 | An old poacher makes the best gamekeeper | 0.10% | ~209 |
@@ -57,6 +61,7 @@ Number of Ratings: 118  (23.09.2022)
 | We come in peace | 0.10% | ~209 |
 | Super-Ultra-Lydian | 0.10% | ~209 |
 | Gargantua | 0.10% | ~209 |
+| Lord of the Drunks | 0.10% | ~209 |
 | Law and Order | 0.10% | ~209 |
 | Inception | 0.10% | ~209 |
 | In Navalu's footsteps | 0.10% | ~209 |
@@ -73,8 +78,6 @@ Number of Ratings: 118  (23.09.2022)
 | Oh, when I'll be level 10... | 0.10% | ~209 |
 | Material Girl | 0.10% | ~209 |
 | Fireproof Wizardess | 0.10% | ~209 |
-| Necrophilia | 0.00% | ~0 |
-| Restless night | 0.00% | ~0 |
 | King of the Arena | 0.00% | ~0 |
 | Finally free | 0.00% | ~0 |
 | Hoarding | 0.00% | ~0 |
@@ -89,13 +92,10 @@ Number of Ratings: 118  (23.09.2022)
 | Minmaxer | 0.00% | ~0 |
 | Iron Golems Tamer | 0.00% | ~0 |
 | And they lived happily ever after... | 0.00% | ~0 |
-| Insult to injury | 0.00% | ~0 |
 | Pyrrhic victory | 0.00% | ~0 |
-| Death is for wimps | 0.00% | ~0 |
-| Lord of the Drunks | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,311 (Ranked 55)  
+Progressed: 209,337 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 207,966 | 0 |
 | 2023-08-07 | 208,534 | 0 |
 | 2023-08-08 | 209,082 | 0 |
-| 2023-08-09 | 209,311 | 0 |
+| 2023-08-09 | 209,337 | 0 |
 ## Awards
 Max (Character Customization): 157  (Ranked 294)  
 Sum: 157 (Ranked 392)  

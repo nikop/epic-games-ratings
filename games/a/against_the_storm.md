@@ -19,6 +19,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Barren Lands | 3.00% | ~487 |
 | Ancient Battleground | 3.00% | ~487 |
 | Sparkdew Crystals | 3.00% | ~487 |
+| Levitating Monument | 3.00% | ~487 |
 | Royal Outpost | 3.00% | ~487 |
 | Lost Colonies | 3.00% | ~487 |
 | Statue of the Forefathers | 3.00% | ~487 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fishmen Ritual Site | 2.00% | ~324 |
 | Forbidden Lands | 2.00% | ~324 |
 | Haunted Forest | 2.00% | ~324 |
-| Levitating Monument | 2.00% | ~324 |
 | Flooded Mines | 2.00% | ~324 |
 | Monastery of the Holy Flame | 2.00% | ~324 |
 | Forsaken Gods Temple | 2.00% | ~324 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~32 |
 | Paradise | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,221 (Ranked 111)  
+Progressed: 16,222 (Ranked 111)  
 Completed: 42 (0.26%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 42 (0.26%) (Ranked 166)
 | 2023-08-06 | 16,203 | 42 |
 | 2023-08-07 | 16,214 | 42 |
 | 2023-08-08 | 16,219 | 42 |
-| 2023-08-09 | 16,221 | 42 |
+| 2023-08-09 | 16,222 | 42 |
 ## Awards
 Max (Quickly Understood Controls): 422  (Ranked 208)  
 Sum: 3,098 (Ranked 159)  

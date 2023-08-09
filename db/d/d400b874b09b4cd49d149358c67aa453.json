@@ -666,9 +666,9 @@
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
       "SetID": "al4k4nh",
       "Name": "Watch me",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -681,8 +681,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-09T14:05:23.0048115+00:00",
+  "LastChanged_Achievements": "2023-08-09T15:07:03.0374724+00:00",
   "LastUpdate_AppInfo": "2023-08-02T16:57:18.5596155+00:00",
-  "LastUpdate_Ratings": "2023-08-09T13:57:46.3799457+00:00",
-  "LastUpdate_Achievements": "2023-08-09T14:05:23.0048278+00:00"
+  "LastUpdate_Ratings": "2023-08-09T14:58:28.6296941+00:00",
+  "LastUpdate_Achievements": "2023-08-09T15:07:03.0375027+00:00"
 }
