@@ -171,7 +171,7 @@
 | 160 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 509 |
 | 160 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 0 | 509 |
 | 171 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.72 | 0 | 509 |
-| 171 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.72 | 83 | 358 |
+| 171 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.72 | 84 | 358 |
 | 171 | [Fez](games/f/fez.md) | 4.72 | 23 | 486 |
 | 171 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 474 | 200 |
 | 171 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 142 | 301 |
@@ -588,7 +588,7 @@
 | 576 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 451 |
 | 576 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.49 | 0 | 509 |
 | 576 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 497,486 | 2 |
-| 576 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 358 |
+| 576 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 359 |
 | 576 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 509 |
 | 576 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 509 |
 | 592 | [Anno 2070](games/a/anno_2070.md) | 4.48 | 0 | 509 |
