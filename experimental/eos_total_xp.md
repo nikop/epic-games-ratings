@@ -350,6 +350,7 @@
 | [One More Dungeon 2](../games/4/46c8eccba1224195bdd112048075cc37.md) | 20 | 1,000 |
 | [Operation New Earth](../games/o/operation_new_earth.md) | 38 | 1,000 |
 | [Out of Bounds](../games/o/out_of_bounds.md) | 32 | 1,000 |
+| [Outbreak Lost Hope Broken Faith](../games/0/08a9c02dda9c41a59230704e270c4c01.md) | 12 | 1,000 |
 | [Outcore - Desktop Adventure](../games/o/outcore_-_desktop_adventure.md) | 26 | 1,000 |
 | [Outliver: Tribulation](../games/1/13e30807efce43ea9e04ac1c45668d8e.md) | 21 | 1,000 |
 | [Outward Definitive Edition](../games/o/outward.md) | 42 | 1,000 |

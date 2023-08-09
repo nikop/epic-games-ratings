@@ -9,15 +9,15 @@
 | 7 | [Volley Pals](games/v/volley_pals.md) | 23.08% |
 | 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.41% |
 | 9 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 9 | [Anna's Quest](games/a/anna's_quest.md) | 20.00% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
+| 11 | [Anna's Quest](games/a/anna's_quest.md) | 19.23% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.12% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.55% |
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 17 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
-| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.97% |
+| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
 | 19 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.54% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.27% |
 | 21 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
@@ -28,7 +28,7 @@
 | 26 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.76% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.76% |
 | 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.74% |
-| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.52% |
+| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.49% |
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.62% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
@@ -36,7 +36,7 @@
 | 34 | [Ravenlok](games/r/ravenlok.md) | 7.40% |
 | 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.07% |
 | 36 | [Scorn](games/s/scorn.md) | 6.96% |
-| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.91% |
+| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.84% |
 | 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.32% |
@@ -114,7 +114,7 @@
 | 112 | [Adios](games/a/adios.md) | 1.00% |
 | 113 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.99% |
 | 114 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 115 | [Sable](games/s/sable.md) | 0.97% |
+| 114 | [Sable](games/s/sable.md) | 0.98% |
 | 116 | [Hades](games/h/hades.md) | 0.90% |
 | 117 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 118 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
@@ -468,6 +468,7 @@
 | 251 | [SIMULACRA 3](games/s/simulacra_3.md) | 0.00% |
 | 251 | [Sir Whoopass - Immortal Death](games/s/sir_whoopass_-_immortal_death.md) | 0.00% |
 | 251 | [Skeletal Avengers](games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 0.00% |
+| 251 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 0.00% |
 | 251 | [Spacebase Startopia - Standard Edition](games/s/spacebase_startopia.md) | 0.00% |
 | 251 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 0.00% |
 | 251 | [Star Trek Prodigy: Supernova](games/s/star_trek_prodigy__supernova.md) | 0.00% |
@@ -531,4 +532,4 @@
 | 251 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 251 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 251 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,015 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,016 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

@@ -529,6 +529,7 @@
 | [Infindustry](../games/i/infindustry.md) | 12 | 1,000 |
 | [Influent](../games/3/3d27fbb922a04299b8401e1b50c55619.md) | 12 | 1,000 |
 | [Merchant of the Skies](../games/m/merchant_of_the_skies.md) | 12 | 1,000 |
+| [Outbreak Lost Hope Broken Faith](../games/0/08a9c02dda9c41a59230704e270c4c01.md) | 12 | 1,000 |
 | [Road 96](../games/r/road_96.md) | 12 | 1,000 |
 | [Scorn](../games/s/scorn.md) | 12 | 1,000 |
 | [Shinogi Chess Club](../games/s/shinogi_chess_club.md) | 12 | 1,000 |

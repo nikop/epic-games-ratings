@@ -29,7 +29,7 @@
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,567 | 4.60 | 392 |
 | 28 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 13,119 | 4.60 | 392 |
 | 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,621 | 4.36 | 735 |
-| 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,581 | 4.42 | 665 |
+| 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,589 | 4.42 | 665 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,292 | 4.86 | 29 |
 | 32 | [NBA 2K21](games/n/nba_2k21.md) | 11,738 | 4.39 | 705 |
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,357 | 4.69 | 212 |
@@ -80,7 +80,7 @@
 | 78 | [SMITE](games/s/smite.md) | 4,139 | 4.44 | 644 |
 | 79 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,109 | 4.51 | 543 |
 | 80 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,958 | 4.76 | 118 |
-| 81 | [Days Gone](games/d/days_gone.md) | 3,899 | 4.68 | 241 |
+| 81 | [Days Gone](games/d/days_gone.md) | 3,902 | 4.68 | 241 |
 | 82 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,713 | 4.28 | 799 |
 | 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,672 | 4.57 | 448 |
 | 84 | [Gloomhaven](games/g/gloomhaven.md) | 3,500 | 4.47 | 608 |
@@ -91,7 +91,7 @@
 | 89 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,296 | 4.76 | 118 |
 | 90 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 3,224 | 4.68 | 241 |
 | 91 | [Hades](games/h/hades.md) | 3,205 | 4.92 | 4 |
-| 92 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,193 | 4.57 | 448 |
+| 92 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,194 | 4.57 | 448 |
 | 93 | [Trackmania](games/t/trackmania.md) | 3,107 | 4.67 | 257 |
 | 94 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,032 | 3.98 | 932 |
 | 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,668 | 4.82 | 66 |
@@ -192,7 +192,7 @@
 | 190 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 555 | 4.41 | 678 |
 | 191 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 554 | 4.62 | 349 |
 | 191 | [Vampyr](games/v/vampyr.md) | 554 | 4.32 | 772 |
-| 193 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 540 | 4.24 | 828 |
+| 193 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 542 | 4.24 | 828 |
 | 194 | [Godfall Ultimate Edition](games/g/godfall.md) | 535 | 4.07 | 915 |
 | 195 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 520 | 4.52 | 527 |
 | 196 | [Terraforming Mars](games/t/terraforming_mars.md) | 509 | 4.54 | 498 |

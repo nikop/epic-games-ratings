@@ -246,7 +246,7 @@
 | 241 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 377 |
 | 241 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 510 |
 | 241 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,319 | 47 |
-| 241 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,899 | 81 |
+| 241 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,902 | 81 |
 | 241 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,224 | 90 |
 | 241 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 301,706 | 3 |
 | 241 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 209,412 | 4 |
@@ -460,7 +460,7 @@
 | 448 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 0 | 510 |
 | 448 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,656 | 45 |
 | 448 | [Observation](games/o/observation.md) | 4.57 | 0 | 510 |
-| 448 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,193 | 92 |
+| 448 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,194 | 92 |
 | 448 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.57 | 0 | 510 |
 | 448 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 510 |
 | 448 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,672 | 83 |
@@ -667,7 +667,7 @@
 | 665 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 66 | 383 |
 | 665 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 34 | 441 |
 | 665 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.42 | 0 | 510 |
-| 665 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,581 | 30 |
+| 665 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,589 | 30 |
 | 665 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 510 |
 | 665 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,186 | 134 |
 | 665 | [Predecessor](games/p/predecessor.md) | 4.42 | 144 | 300 |
@@ -830,7 +830,7 @@
 | 828 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 510 |
 | 828 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 457 |
 | 828 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 510 |
-| 828 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 540 | 193 |
+| 828 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 542 | 193 |
 | 828 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 510 |
 | 828 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 413 |
 | 828 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 510 |

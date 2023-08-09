@@ -91,6 +91,7 @@
 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 2023-10-03 | - |  | - | - |
 | [Bottle: Pilgrim Redux](games/d/d5f88a2d15f2400db1c116d6651e7c9e.md) | 2023-10-06 | 24 (1,000 XP) | 0 | - | - |
 | [Wild Card Football](games/3/3072dbe471f84dac8b2e9ba8af253ee2.md) | 2023-10-10 | - |  | - | 0 |
+| [Outbreak Lost Hope Broken Faith](games/0/08a9c02dda9c41a59230704e270c4c01.md) | 2023-10-11 | 12 (1,000 XP) | 0 | - | - |
 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 2023-10-12 | - |  | - | - |
 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | - |  | - | - |
 | [Backrooms Break](games/6/6246bf144dd3486fa681b773ddbe441a.md) | 2023-10-17 | - |  | - | - |
@@ -347,7 +348,7 @@
 | [Seafrog](games/s/seafrog.md) | 2099-01-01 | - |  | - | - |
 | [Shadowman®: Darque Legacy](games/s/shadowman_-_darque_legacy.md) | 2099-01-01 | - |  | - | - |
 | [Shrine's Legacy](games/s/shrine's_legacy.md) | 2099-01-01 | - |  | - | - |
-| [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 2099-01-01 | 41 (1,000 XP) | 0 | - | - |
+| [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 2099-01-01 | 41 (1,000 XP) | 3 | - | - |
 | [Smelogs Playground](games/1/16e5cbb017bc4cc8a304791d27ed982c.md) | 2099-01-01 | - |  | - | - |
 | [Soliloquy](games/s/soliloquy.md) | 2099-01-01 | - |  | - | - |
 | [Space Chef](games/7/74bc63c48667442dad23f44f7daec969.md) | 2099-01-01 | - |  | - | - |
