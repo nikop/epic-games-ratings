@@ -64,8 +64,8 @@
 | 62 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.35% |
 | 63 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
 | 64 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 65 | [The Complex](games/t/the_complex.md) | 3.02% |
-| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
+| 65 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
+| 65 | [The Complex](games/t/the_complex.md) | 3.01% |
 | 67 | [Monster Harvest](games/m/monster_harvest.md) | 2.96% |
 | 68 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.94% |
 | 69 | [MultiVersus](games/m/multiversus.md) | 2.93% |
