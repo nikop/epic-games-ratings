@@ -384,7 +384,7 @@
 | 367 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,549 | 98 |
 | 367 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 664 | 170 |
 | 367 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 105 | 329 |
-| 367 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 475 | 199 |
+| 367 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 478 | 199 |
 | 367 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,733 | 37 |
 | 367 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,071 | 137 |
 | 367 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 277 | 243 |
@@ -434,6 +434,7 @@
 | 426 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 0 | 510 |
 | 426 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 510 |
 | 426 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.58 | 0 | 510 |
+| 426 | [GRIME](games/g/grime.md) | 4.58 | 22 | 492 |
 | 426 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.58 | 0 | 510 |
 | 426 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 6,444 | 53 |
 | 426 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,487 | 121 |
@@ -447,27 +448,26 @@
 | 426 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 510 |
 | 426 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 219 | 264 |
 | 426 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,438 | 25 |
-| 448 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 510 |
-| 448 | [Among Us](games/a/among_us.md) | 4.57 | 2,601 | 97 |
-| 448 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 410 |
-| 448 | [Aztez](games/a/aztez.md) | 4.57 | 0 | 510 |
-| 448 | [Deceive Inc.](games/d/deceive_inc..md) | 4.57 | 0 | 510 |
-| 448 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 469 |
-| 448 | [GRIME](games/g/grime.md) | 4.57 | 22 | 492 |
-| 448 | [Hob](games/h/hob.md) | 4.57 | 0 | 510 |
-| 448 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 38 | 428 |
-| 448 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.57 | 0 | 510 |
-| 448 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 0 | 510 |
-| 448 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,656 | 45 |
-| 448 | [Observation](games/o/observation.md) | 4.57 | 0 | 510 |
-| 448 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,194 | 92 |
-| 448 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.57 | 0 | 510 |
-| 448 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 510 |
-| 448 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,672 | 83 |
-| 448 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 462 |
-| 448 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,178 | 19 |
-| 448 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,759 | 115 |
-| 448 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 57 | 393 |
+| 449 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 510 |
+| 449 | [Among Us](games/a/among_us.md) | 4.57 | 2,601 | 97 |
+| 449 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 410 |
+| 449 | [Aztez](games/a/aztez.md) | 4.57 | 0 | 510 |
+| 449 | [Deceive Inc.](games/d/deceive_inc..md) | 4.57 | 0 | 510 |
+| 449 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 469 |
+| 449 | [Hob](games/h/hob.md) | 4.57 | 0 | 510 |
+| 449 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 38 | 428 |
+| 449 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.57 | 0 | 510 |
+| 449 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 0 | 510 |
+| 449 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,656 | 45 |
+| 449 | [Observation](games/o/observation.md) | 4.57 | 0 | 510 |
+| 449 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,194 | 92 |
+| 449 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.57 | 0 | 510 |
+| 449 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 510 |
+| 449 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,672 | 83 |
+| 449 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 462 |
+| 449 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,178 | 19 |
+| 449 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,759 | 115 |
+| 449 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 57 | 393 |
 | 469 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 510 |
 | 469 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 510 |
 | 469 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 823 | 151 |
@@ -477,26 +477,26 @@
 | 469 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 510 |
 | 469 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.56 | 0 | 510 |
 | 469 | [Hue](games/h/hue.md) | 4.56 | 0 | 510 |
+| 469 | [Isonzo](games/i/isonzo.md) | 4.56 | 35 | 436 |
 | 469 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 510 |
 | 469 | [Minit](games/m/minit.md) | 4.56 | 0 | 510 |
 | 469 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,746 | 69 |
-| 469 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.56 | 912 | 149 |
+| 469 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.56 | 913 | 149 |
 | 469 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,795 | 113 |
 | 469 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 510 |
 | 469 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.56 | 331 | 228 |
 | 469 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,244 | 76 |
-| 486 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 510 |
-| 486 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 510 |
-| 486 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.55 | 50 | 402 |
-| 486 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.55 | 65 | 385 |
-| 486 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 232 | 258 |
-| 486 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 152 | 295 |
-| 486 | [Isonzo](games/i/isonzo.md) | 4.55 | 35 | 436 |
-| 486 | [IXION](games/i/ixion.md) | 4.55 | 0 | 510 |
-| 486 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 33 | 446 |
-| 486 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 510 |
-| 486 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 362 |
-| 486 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,232 | 133 |
+| 487 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 510 |
+| 487 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 510 |
+| 487 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.55 | 50 | 402 |
+| 487 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.55 | 65 | 385 |
+| 487 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 232 | 258 |
+| 487 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 152 | 295 |
+| 487 | [IXION](games/i/ixion.md) | 4.55 | 0 | 510 |
+| 487 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 33 | 446 |
+| 487 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 510 |
+| 487 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 362 |
+| 487 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,232 | 133 |
 | 498 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 510 |
 | 498 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,374 | 127 |
 | 498 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,598 | 64 |
@@ -526,9 +526,9 @@
 | 513 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 510 |
 | 513 | [VALORANT](games/v/valorant.md) | 4.53 | 63,988 | 10 |
 | 513 | [Verdun](games/v/verdun.md) | 4.53 | 96 | 341 |
-| 527 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 30,836 | 15 |
+| 527 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 30,890 | 15 |
 | 527 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 499 |
-| 527 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 145,854 | 7 |
+| 527 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 145,925 | 7 |
 | 527 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 510 |
 | 527 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 520 | 195 |
 | 527 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.52 | 0 | 510 |
@@ -656,7 +656,7 @@
 | 644 | [Tunche](games/t/tunche.md) | 4.44 | 21 | 499 |
 | 644 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.44 | 24 | 481 |
 | 644 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 390 |
-| 657 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 210 | 270 |
+| 657 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 211 | 270 |
 | 657 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 35 | 436 |
 | 657 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 510 |
 | 657 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 510 |

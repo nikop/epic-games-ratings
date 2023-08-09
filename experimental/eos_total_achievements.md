@@ -52,6 +52,7 @@
 | [Model Builder](../games/m/model_builder.md) | 70 | 1,000 |
 | [House Party](../games/h/house_party.md) | 69 | 1,040 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](../games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 68 | 1,300 |
+| [Warstone TD](../games/4/4470ce6748c74c708af72cf4535efca6.md) | 68 | 1,000 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 |
 | [Kabaret](../games/k/kabaret.md) | 67 | 1,000 |
 | [Tannenberg](../games/t/tannenberg.md) | 67 | 1,000 |
