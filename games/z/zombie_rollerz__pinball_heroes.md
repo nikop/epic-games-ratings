@@ -71,12 +71,12 @@
 | Blaze | 0.80% | ~1 |
 | Topaz | 0.80% | ~1 |
 | Immortality | 0.80% | ~1 |
+| Zombie Exterminator | 0.80% | ~1 |
 | Wu-wei | 0.80% | ~1 |
 | Satellite | 0.80% | ~1 |
 | Zombie Slayer | 0.80% | ~1 |
 | Divinity | 0.00% | ~0 |
 | Zombie Hunter | 0.00% | ~0 |
-| Zombie Exterminator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 126 (Ranked 308)  
 Completed: 0 (0.00%) (Ranked 251)  

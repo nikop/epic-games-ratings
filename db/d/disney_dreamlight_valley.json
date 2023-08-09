@@ -3024,9 +3024,9 @@
       "Count": 490
     }
   ],
-  "EOS_Progressed": 8420,
+  "EOS_Progressed": 8421,
   "EOS_Completed": 192,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.28,
   "EosHistory": [
@@ -8964,6 +8964,11 @@
       "Time": "2023-08-09T11:03:49.0354881+00:00",
       "NumProgressed": 8420,
       "NumCompleted": 192
+    },
+    {
+      "Time": "2023-08-09T12:03:36.6853418+00:00",
+      "NumProgressed": 8421,
+      "NumCompleted": 192
     }
   ],
   "TotalAchievements": 15,
@@ -9031,7 +9036,7 @@
       "Name": "Gardener",
       "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 2694
+      "UsersEstimate": 2695
     },
     {
       "ID": "Generous",
@@ -9045,9 +9050,9 @@
       "ID": "Goofys_Investor",
       "SetID": "chapdi4",
       "Name": "Goofy\u0027s Investor",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 75,
-      "UsersEstimate": 6062
+      "UsersEstimate": 5979
     },
     {
       "ID": "Miner",
@@ -9071,7 +9076,7 @@
       "Name": "Renovator",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 4378
+      "UsersEstimate": 4379
     },
     {
       "ID": "Thorn_Cleaner",
@@ -9094,7 +9099,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 8420,
+      "Progressed": 8421,
       "Completed": 192
     }
   ],
@@ -9102,8 +9107,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-08-08T20:58:52.5910278+00:00",
-  "LastChanged_Achievements": "2023-08-09T11:03:49.0354873+00:00",
+  "LastChanged_Achievements": "2023-08-09T12:03:36.6853415+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.5124398+00:00",
-  "LastUpdate_Ratings": "2023-08-09T10:59:28.4268725+00:00",
-  "LastUpdate_Achievements": "2023-08-09T11:03:49.0355253+00:00"
+  "LastUpdate_Ratings": "2023-08-09T11:59:28.6476362+00:00",
+  "LastUpdate_Achievements": "2023-08-09T12:03:36.6853755+00:00"
 }

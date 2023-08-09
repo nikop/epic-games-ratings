@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237,
+  "EOS_Progressed": 238,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -778,6 +778,11 @@
       "Time": "2023-08-05T21:02:08.2311573+00:00",
       "NumProgressed": 237,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-09T12:03:26.1360523+00:00",
+      "NumProgressed": 238,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -789,7 +794,7 @@
       "Name": "Wake Up",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_ACT10",
@@ -797,7 +802,7 @@
       "Name": "So Close",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_ACT11",
@@ -821,7 +826,7 @@
       "Name": "All Alone",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_ACT14",
@@ -861,7 +866,7 @@
       "Name": "Command Centre",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_ACT4",
@@ -893,7 +898,7 @@
       "Name": "No Time To Relax",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_ACT8",
@@ -931,9 +936,9 @@
       "ID": "ACH_CHAINREACTION",
       "SetID": "2310cb1",
       "Name": "Chain Reaction",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_DATARESEARCH",
@@ -981,7 +986,7 @@
       "Name": "It\u0027s Rewind Time",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -1004,7 +1009,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 237,
+      "Progressed": 238,
       "Completed": 0
     }
   ],
@@ -1012,8 +1017,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-08-09T11:03:38.9183044+00:00",
+  "LastChanged_Achievements": "2023-08-09T12:03:26.1360521+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:49.532667+00:00",
-  "LastUpdate_Ratings": "2023-08-09T10:58:39.8323647+00:00",
-  "LastUpdate_Achievements": "2023-08-09T11:03:38.9183243+00:00"
+  "LastUpdate_Ratings": "2023-08-09T11:58:38.7440274+00:00",
+  "LastUpdate_Achievements": "2023-08-09T12:03:26.1360697+00:00"
 }

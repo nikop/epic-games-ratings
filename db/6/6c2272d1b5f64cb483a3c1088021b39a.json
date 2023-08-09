@@ -3044,9 +3044,9 @@
       "ID": "good_host_1",
       "SetID": "53c1p3k",
       "Name": "Good Host 1",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "good_host_2",
@@ -3315,8 +3315,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-08-09T11:06:33.5736746+00:00",
+  "LastChanged_Achievements": "2023-08-09T12:06:24.2830275+00:00",
   "LastUpdate_AppInfo": "2023-08-08T04:57:14.8728607+00:00",
-  "LastUpdate_Ratings": "2023-08-09T10:58:02.9416562+00:00",
-  "LastUpdate_Achievements": "2023-08-09T11:06:33.5737351+00:00"
+  "LastUpdate_Ratings": "2023-08-09T11:57:59.6588575+00:00",
+  "LastUpdate_Achievements": "2023-08-09T12:06:24.2830842+00:00"
 }

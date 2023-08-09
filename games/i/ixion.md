@@ -10,8 +10,8 @@ Rating: 4.55 (Ranked 486)
 | Infinite Growth... | 21.00% | ~640 |
 | Without Breaking Some Eggs... | 20.00% | ~609 |
 | Ready for a New World | 15.00% | ~457 |
-| Space Society | 14.00% | ~426 |
-| A Thousand Strong | 14.00% | ~426 |
+| Space Society | 14.00% | ~427 |
+| A Thousand Strong | 14.00% | ~427 |
 | Permanent Redesigns | 12.00% | ~366 |
 | Fully Recycled | 11.00% | ~335 |
 | Ain't Nobody Got Time for That | 11.00% | ~335 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 486)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,046 (Ranked 157)  
+Progressed: 3,047 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 3,034 | 0 |
 | 2023-08-07 | 3,041 | 0 |
 | 2023-08-08 | 3,044 | 0 |
-| 2023-08-09 | 3,046 | 0 |
+| 2023-08-09 | 3,047 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

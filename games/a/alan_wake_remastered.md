@@ -6,21 +6,21 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,409 |
+| Follow the Light | 37.00% | ~22,410 |
 | Let There Be Light | 30.00% | ~18,170 |
 | Float Like a Butterfly | 29.00% | ~17,564 |
 | Nordic Walking | 23.00% | ~13,930 |
-| Bright Falls' Finest | 22.00% | ~13,324 |
+| Bright Falls' Finest | 22.00% | ~13,325 |
 | Under a Thin Layer of Skin | 20.00% | ~12,113 |
-| Park Ranger | 16.00% | ~9,690 |
-| Paging Mr. Wake | 16.00% | ~9,690 |
+| Park Ranger | 16.00% | ~9,691 |
+| Paging Mr. Wake | 16.00% | ~9,691 |
 | Back! Back, I Say! | 15.00% | ~9,085 |
 | Finders Keepers | 15.00% | ~9,085 |
 | Sound and Fury | 14.00% | ~8,479 |
 | Damn Good Cup of Coffee | 14.00% | ~8,479 |
-| Wheels Within Wheels | 13.00% | ~7,873 |
-| They're Heeeeeere! | 13.00% | ~7,873 |
-| Missed by a Mile | 13.00% | ~7,873 |
+| Wheels Within Wheels | 13.00% | ~7,874 |
+| They're Heeeeeere! | 13.00% | ~7,874 |
+| Missed by a Mile | 13.00% | ~7,874 |
 | Iron Horse | 12.00% | ~7,268 |
 | The Six-Gun Scribe | 12.00% | ~7,268 |
 | Collateral Carnage | 12.00% | ~7,268 |
@@ -29,9 +29,9 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 11.00% | ~6,662 |
 | It's Not Just a Typewriter Brand | 11.00% | ~6,662 |
 | Thunder and Lightning | 11.00% | ~6,662 |
-| Gatekeeper | 10.00% | ~6,056 |
-| Two For the Price of One | 10.00% | ~6,056 |
-| Energized! | 10.00% | ~6,056 |
+| Gatekeeper | 10.00% | ~6,057 |
+| Two For the Price of One | 10.00% | ~6,057 |
+| Energized! | 10.00% | ~6,057 |
 | The Lady of the Light | 9.00% | ~5,451 |
 | What Light Through Yonder Window | 8.00% | ~4,845 |
 | Right of Way | 8.00% | ~4,845 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,565 (Ranked 85)  
+Progressed: 60,567 (Ranked 85)  
 Completed: 64 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 64 (0.11%) (Ranked 195)
 | 2023-08-06 | 60,420 | 64 |
 | 2023-08-07 | 60,481 | 64 |
 | 2023-08-08 | 60,545 | 64 |
-| 2023-08-09 | 60,565 | 64 |
+| 2023-08-09 | 60,567 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

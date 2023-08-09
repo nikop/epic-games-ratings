@@ -10,10 +10,10 @@
 | Bad Blood | 3.00% | ~7 |
 | Serious Bam | 1.00% | ~2 |
 | Bloodstorm | 0.90% | ~2 |
-| Doomed | 0.50% | ~1 |
-| Postal Service | 0.50% | ~1 |
-| Shocking Bio | 0.50% | ~1 |
-| Unreal | 0.50% | ~1 |
+| Doomed | 0.40% | ~1 |
+| Postal Service | 0.40% | ~1 |
+| Shocking Bio | 0.40% | ~1 |
+| Unreal | 0.40% | ~1 |
 | Amaging Work | 0.00% | ~0 |
 | ...And I'm All Out Of Gun | 0.00% | ~0 |
 | Castle Of The Wolf | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Unreal 4 | 0.00% | ~0 |
 | Until Dusk | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222 (Ranked 278)  
+Progressed: 223 (Ranked 278)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-01 | 218 | 0 |
 | 2023-08-05 | 220 | 0 |
 | 2023-08-08 | 221 | 0 |
-| 2023-08-09 | 222 | 0 |
+| 2023-08-09 | 223 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

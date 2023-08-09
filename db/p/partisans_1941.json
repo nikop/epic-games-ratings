@@ -3,11 +3,11 @@
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
   "Ranking_Rating": 366,
-  "Ranking_Popularity": 509,
-  "Ranking_PopularitySum": 509,
+  "Ranking_Popularity": 510,
+  "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1276,
+  "EOS_Progressed": 1277,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2125,6 +2125,11 @@
       "Time": "2023-08-09T04:04:11.4203284+00:00",
       "NumProgressed": 1276,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-09T12:05:08.5331407+00:00",
+      "NumProgressed": 1277,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2136,7 +2141,7 @@
       "Name": "Agent 47",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "Auditor",
@@ -2206,9 +2211,9 @@
       "ID": "Double_barrel",
       "SetID": "85nb4h3",
       "Name": "Lock, Stock",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 77
     },
     {
       "ID": "E1M1",
@@ -2248,7 +2253,7 @@
       "Name": "Grenadier",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "Hard_Serpent",
@@ -2264,7 +2269,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "High_noon",
@@ -2288,7 +2293,7 @@
       "Name": "Spice It Up",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "KillAllM2",
@@ -2320,7 +2325,7 @@
       "Name": "Bomberman",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "MoskitoBite",
@@ -2352,7 +2357,7 @@
       "Name": "War Never Changes",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "We_were_not_here",
@@ -2375,15 +2380,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1276,
+      "Progressed": 1277,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-09T11:05:19.3482479+00:00",
+  "LastChanged_Achievements": "2023-08-09T12:05:08.5331403+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:07.8032848+00:00",
-  "LastUpdate_Ratings": "2023-08-09T11:00:46.5957814+00:00",
-  "LastUpdate_Achievements": "2023-08-09T11:05:19.3482748+00:00"
+  "LastUpdate_Ratings": "2023-08-09T12:00:44.9544132+00:00",
+  "LastUpdate_Achievements": "2023-08-09T12:05:08.5331643+00:00"
 }

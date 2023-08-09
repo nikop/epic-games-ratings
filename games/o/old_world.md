@@ -153,6 +153,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.20% | ~27 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~27 |
 | Play a Network Game | 0.20% | ~27 |
+| Play a Play-By-Cloud Game | 0.20% | ~27 |
 | Capturing Cities | 0.20% | ~27 |
 | Ten Crowns | 0.20% | ~27 |
 | Three Man Chariot | 0.20% | ~27 |
@@ -248,7 +249,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a 1-v-1 Game | 0.10% | ~13 |
 | Play a Hotseat Game | 0.10% | ~13 |
 | Play a MP Teams Game | 0.10% | ~13 |
-| Play a Play-By-Cloud Game | 0.10% | ~13 |
 | Punic Wars | 0.10% | ~13 |
 | Roman Papacy | 0.10% | ~13 |
 | Circus Maximus in Roma | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,338 (Ranked 117)  
+Progressed: 13,339 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -414,7 +414,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-06 | 13,301 | 5 |
 | 2023-08-07 | 13,317 | 5 |
 | 2023-08-08 | 13,332 | 5 |
-| 2023-08-09 | 13,338 | 5 |
+| 2023-08-09 | 13,339 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,786 (Ranked 206)  

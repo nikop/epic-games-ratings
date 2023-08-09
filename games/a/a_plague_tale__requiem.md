@@ -5,31 +5,31 @@ Rating: 4.73 (Ranked 159)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~11,673 |
-| Newcomers | 78.00% | ~9,897 |
-| A Burden of Blood | 73.00% | ~9,262 |
-| Protector's Duty | 70.00% | ~8,882 |
-| Alchemist | 68.00% | ~8,628 |
-| In our Wake | 67.00% | ~8,501 |
-| Leaving all Behind | 64.00% | ~8,120 |
-| Felons | 61.00% | ~7,740 |
-| A Sea of Promises | 60.00% | ~7,613 |
-| Tales and Revelations | 56.00% | ~7,105 |
-| Bloodline | 52.00% | ~6,598 |
-| The Cradle of Centuries | 48.00% | ~6,090 |
+| Under a New Sun | 92.00% | ~11,675 |
+| Newcomers | 78.00% | ~9,898 |
+| A Burden of Blood | 73.00% | ~9,264 |
+| Protector's Duty | 70.00% | ~8,883 |
+| Alchemist | 68.00% | ~8,629 |
+| In our Wake | 67.00% | ~8,502 |
+| Leaving all Behind | 64.00% | ~8,122 |
+| Felons | 61.00% | ~7,741 |
+| A Sea of Promises | 60.00% | ~7,614 |
+| Tales and Revelations | 56.00% | ~7,106 |
+| Bloodline | 52.00% | ~6,599 |
+| The Cradle of Centuries | 48.00% | ~6,091 |
 | The Life We Deserve | 45.00% | ~5,710 |
-| Night guard | 42.00% | ~5,329 |
-| Nothing Left | 38.00% | ~4,821 |
+| Night guard | 42.00% | ~5,330 |
+| Nothing Left | 38.00% | ~4,822 |
 | Healing our Wounds | 36.00% | ~4,568 |
-| Dying Sun | 33.00% | ~4,187 |
+| Dying Sun | 33.00% | ~4,188 |
 | Improved crossbow | 26.00% | ~3,299 |
-| King Hugo | 24.00% | ~3,045 |
-| Mercy | 23.00% | ~2,918 |
-| Perfect shot | 22.00% | ~2,791 |
-| Effective instruments | 21.00% | ~2,664 |
-| Perfect throw | 21.00% | ~2,664 |
+| King Hugo | 24.00% | ~3,046 |
+| Mercy | 23.00% | ~2,919 |
+| Perfect shot | 22.00% | ~2,792 |
+| Effective instruments | 21.00% | ~2,665 |
+| Perfect throw | 21.00% | ~2,665 |
 | Knights! | 20.00% | ~2,538 |
-| Handful of pockets | 13.00% | ~1,649 |
+| Handful of pockets | 13.00% | ~1,650 |
 | Not a toy anymore | 11.00% | ~1,396 |
 | Pocket laboratory | 11.00% | ~1,396 |
 | Herbalist | 7.00% | ~888 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 159)
 | Explorer | 1.00% | ~127 |
 | Malignant | 1.00% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,688 (Ranked 118)  
+Progressed: 12,690 (Ranked 118)  
 Completed: 42 (0.33%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 42 (0.33%) (Ranked 156)
 | 2023-08-06 | 12,654 | 40 |
 | 2023-08-07 | 12,672 | 41 |
 | 2023-08-08 | 12,685 | 42 |
-| 2023-08-09 | 12,688 | 42 |
+| 2023-08-09 | 12,690 | 42 |
 ## Awards
 Max (Great Boss Battles): 410  (Ranked 210)  
 Sum: 628 (Ranked 291)  

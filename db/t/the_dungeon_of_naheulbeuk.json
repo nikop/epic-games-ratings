@@ -612,9 +612,9 @@
       "Count": 157
     }
   ],
-  "EOS_Progressed": 209245,
+  "EOS_Progressed": 209265,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4482,
+  "EOS_NewPlayers": 4483,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6247,6 +6247,11 @@
       "Time": "2023-08-09T11:04:45.7920089+00:00",
       "NumProgressed": 209245,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-09T12:04:33.6622025+00:00",
+      "NumProgressed": 209265,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -6296,9 +6301,9 @@
       "ID": "BookCollection",
       "SetID": "50chcgj",
       "Name": "Scholar of the Lands of Fangh",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "Chapter1",
@@ -6392,9 +6397,9 @@
       "ID": "CompanionNone",
       "SetID": "50chcgj",
       "Name": "The number of the counting shalt be 7",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "CompanionPaladine",
@@ -6480,9 +6485,9 @@
       "ID": "DLC3AllLegendaryDrink",
       "SetID": "50p8kh1",
       "Name": "Legendary brew",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "DLC3AllLegendaryWeapons",
@@ -6504,9 +6509,9 @@
       "ID": "DLC3BigBrain",
       "SetID": "50p8kh1",
       "Name": "Egghead",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "DLC3Chapter11",
@@ -6528,17 +6533,17 @@
       "ID": "DLC3Chapter13",
       "SetID": "50p8kh1",
       "Name": "Deep changes",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "DLC3Chapter14",
       "SetID": "50p8kh1",
       "Name": "A broken clock\u2026",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "DLC3DifficultyLegendaryIronman",
@@ -6560,9 +6565,9 @@
       "ID": "DLC3DungeonThemeMagic",
       "SetID": "50p8kh1",
       "Name": "Mystical Dungeon",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "DLC3DungeonThemeNecro",
@@ -6704,9 +6709,9 @@
       "ID": "ElfHitTwoFriends",
       "SetID": "50chcgj",
       "Name": "Sowwy!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 419
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -6760,9 +6765,9 @@
       "ID": "FollowBraztok",
       "SetID": "50chcgj",
       "Name": "The beards of change",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "FollowNarzatok",
@@ -6784,17 +6789,17 @@
       "ID": "KillDungeonLich",
       "SetID": "50chcgj",
       "Name": "Dead for good",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "KillGolbargh",
       "SetID": "50chcgj",
       "Name": "We come in peace",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "MinistrelEpic",
@@ -6832,17 +6837,17 @@
       "ID": "Poster",
       "SetID": "50chcgj",
       "Name": "Inception",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "PriestessEpic",
       "SetID": "50chcgj",
       "Name": "In Navalu\u0027s footsteps",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "QuestEmile",
@@ -6944,9 +6949,9 @@
       "ID": "WizardEpic",
       "SetID": "50chcgj",
       "Name": "Material Girl",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "WizardResistBurn",
@@ -6961,21 +6966,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 209245,
+      "Progressed": 209265,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 209245,
+      "Progressed": 209265,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-08T15:00:26.9457471+00:00",
-  "LastChanged_Achievements": "2023-08-09T11:04:45.7920084+00:00",
+  "LastChanged_Achievements": "2023-08-09T12:04:33.6622022+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:59.1388847+00:00",
-  "LastUpdate_Ratings": "2023-08-09T11:00:36.5167041+00:00",
-  "LastUpdate_Achievements": "2023-08-09T11:04:45.7921122+00:00"
+  "LastUpdate_Ratings": "2023-08-09T12:00:35.687592+00:00",
+  "LastUpdate_Achievements": "2023-08-09T12:04:33.6623041+00:00"
 }

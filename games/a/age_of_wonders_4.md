@@ -10,6 +10,7 @@ Rating: 4.62 (Ranked 349)
 | Realm Estate | 5.00% | ~255 |
 | A Wonderful Discovery | 5.00% | ~255 |
 | Walls Cannot Stop Us | 5.00% | ~255 |
+| Bone Peddler | 5.00% | ~255 |
 | From Friends to Family | 5.00% | ~255 |
 | Stronger Together | 5.00% | ~255 |
 | Magical Synergy | 5.00% | ~255 |
@@ -17,7 +18,6 @@ Rating: 4.62 (Ranked 349)
 | Intimidation Tactics | 5.00% | ~255 |
 | There Can Only Be One! | 4.00% | ~204 |
 | Full Ascension | 4.00% | ~204 |
-| Bone Peddler | 4.00% | ~204 |
 | My Final Form | 4.00% | ~204 |
 | In a Liege of Your Own | 4.00% | ~204 |
 | Fiery Friend | 4.00% | ~204 |

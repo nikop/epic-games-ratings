@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -574,7 +574,7 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 9626,
+  "EOS_Progressed": 9628,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 2,
@@ -8149,6 +8149,11 @@
       "Time": "2023-08-09T05:04:38.7038612+00:00",
       "NumProgressed": 9626,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-09T12:05:44.8272425+00:00",
+      "NumProgressed": 9628,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -8288,7 +8293,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "ACH18",
@@ -8320,7 +8325,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4332
+      "UsersEstimate": 4333
     },
     {
       "ID": "ACH22",
@@ -8328,7 +8333,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "ACH23",
@@ -8336,7 +8341,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "ACH24",
@@ -8431,7 +8436,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9626,
+      "Progressed": 9628,
       "Completed": 46
     }
   ],
@@ -8439,8 +8444,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-07T05:59:47.8691353+00:00",
-  "LastChanged_Achievements": "2023-08-09T11:05:54.7877177+00:00",
+  "LastChanged_Achievements": "2023-08-09T12:05:44.8272422+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:06.4488282+00:00",
-  "LastUpdate_Ratings": "2023-08-09T10:59:37.3378886+00:00",
-  "LastUpdate_Achievements": "2023-08-09T11:05:54.8009969+00:00"
+  "LastUpdate_Ratings": "2023-08-09T11:59:36.6799081+00:00",
+  "LastUpdate_Achievements": "2023-08-09T12:05:44.8272943+00:00"
 }
