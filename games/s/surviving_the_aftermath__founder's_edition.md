@@ -9,19 +9,19 @@ Number of Ratings: 836  (23.09.2022)
 | First Step | 72.00% | ~5,859 |
 | Leader | 61.00% | ~4,964 |
 | Explorer | 53.00% | ~4,313 |
-| Healer | 52.00% | ~4,231 |
-| Aspiring Inventor | 44.00% | ~3,580 |
-| Adventurer | 41.00% | ~3,336 |
+| Healer | 52.00% | ~4,232 |
+| Aspiring Inventor | 44.00% | ~3,581 |
+| Adventurer | 41.00% | ~3,337 |
 | Famous Healer | 38.00% | ~3,092 |
 | Local Leader | 35.00% | ~2,848 |
 | Famous Explorer | 34.00% | ~2,767 |
 | New Opportunities | 34.00% | ~2,767 |
-| Energized | 33.00% | ~2,685 |
-| The Long Haul | 33.00% | ~2,685 |
-| The Great Healer | 31.00% | ~2,522 |
-| Survivor | 31.00% | ~2,522 |
-| Cleaner | 28.00% | ~2,278 |
-| Catastrofan | 28.00% | ~2,278 |
+| Energized | 33.00% | ~2,686 |
+| The Long Haul | 33.00% | ~2,686 |
+| The Great Healer | 31.00% | ~2,523 |
+| Survivor | 31.00% | ~2,523 |
+| Cleaner | 28.00% | ~2,279 |
+| Catastrofan | 28.00% | ~2,279 |
 | Legendary Explorer | 27.00% | ~2,197 |
 | Finders, Keepers | 26.00% | ~2,116 |
 | Top Notch | 25.00% | ~2,034 |
@@ -30,7 +30,7 @@ Number of Ratings: 836  (23.09.2022)
 | Mentor | 23.00% | ~1,872 |
 | Merchant | 22.00% | ~1,790 |
 | Real Survivor | 22.00% | ~1,790 |
-| Rocket Surgeon | 20.00% | ~1,627 |
+| Rocket Surgeon | 20.00% | ~1,628 |
 | War Never Changes | 19.00% | ~1,546 |
 | Big Game Hunter | 17.00% | ~1,383 |
 | Spreading Influence | 17.00% | ~1,383 |
@@ -49,7 +49,7 @@ Number of Ratings: 836  (23.09.2022)
 | Really Friendly | 6.00% | ~488 |
 | Amped Up | 6.00% | ~488 |
 | Look, no Hands! | 5.00% | ~407 |
-| Luxurious Living | 4.00% | ~325 |
+| Luxurious Living | 4.00% | ~326 |
 | Mogul | 3.00% | ~244 |
 | Ranch Hand | 3.00% | ~244 |
 | Diplomat | 2.00% | ~163 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~16 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,137 (Ranked 127)  
+Progressed: 8,138 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,11 +177,11 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 8,079 | 0 |
 | 2023-08-07 | 8,102 | 0 |
 | 2023-08-08 | 8,129 | 0 |
-| 2023-08-09 | 8,137 | 0 |
+| 2023-08-09 | 8,138 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 335)  
-Sum: 685 (Ranked 274)  
-Diff (max vs sum): 61  
+Sum: 685 (Ranked 275)  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 99 |

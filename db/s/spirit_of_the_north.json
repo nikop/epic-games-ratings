@@ -2,7 +2,7 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 736,
+  "Ranking_Rating": 735,
   "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 83,
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 65003,
+  "EOS_Progressed": 65005,
   "EOS_Completed": 338,
-  "EOS_NewPlayers": 762,
+  "EOS_NewPlayers": 764,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -12194,6 +12194,11 @@
       "Time": "2023-08-09T07:04:51.5489008+00:00",
       "NumProgressed": 65003,
       "NumCompleted": 338
+    },
+    {
+      "Time": "2023-08-09T08:04:07.7721431+00:00",
+      "NumProgressed": 65005,
+      "NumCompleted": 338
     }
   ],
   "TotalAchievements": 24,
@@ -12221,7 +12226,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 44202
+      "UsersEstimate": 44203
     },
     {
       "ID": "BEST_FRIENDS",
@@ -12285,7 +12290,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 34452
+      "UsersEstimate": 34453
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -12357,7 +12362,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 7150
+      "UsersEstimate": 7151
     },
     {
       "ID": "SPIRIT_FORM",
@@ -12365,7 +12370,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10400
+      "UsersEstimate": 10401
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -12373,7 +12378,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 9750
+      "UsersEstimate": 9751
     },
     {
       "ID": "WEIGHTLESS",
@@ -12381,7 +12386,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7800
+      "UsersEstimate": 7801
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -12389,14 +12394,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 9750
+      "UsersEstimate": 9751
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 65003,
+      "Progressed": 65005,
       "Completed": 338
     }
   ],
@@ -12404,8 +12409,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-08-09T07:04:51.5489001+00:00",
+  "LastChanged_Achievements": "2023-08-09T08:04:07.7721424+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:26.3658464+00:00",
-  "LastUpdate_Ratings": "2023-08-09T07:01:34.0365291+00:00",
-  "LastUpdate_Achievements": "2023-08-09T07:04:51.5490625+00:00"
+  "LastUpdate_Ratings": "2023-08-09T08:00:49.5485471+00:00",
+  "LastUpdate_Achievements": "2023-08-09T08:04:07.7722469+00:00"
 }

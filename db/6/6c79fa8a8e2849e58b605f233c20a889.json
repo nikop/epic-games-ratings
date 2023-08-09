@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2250,
+  "EOS_Progressed": 2251,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -4646,6 +4646,11 @@
       "Time": "2023-08-09T03:03:26.9807308+00:00",
       "NumProgressed": 2250,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-09T08:03:19.0170355+00:00",
+      "NumProgressed": 2251,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -4697,7 +4702,7 @@
       "Name": "Express Yourself",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "FACE_FACE",
@@ -4705,7 +4710,7 @@
       "Name": "Face-To-Face",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -4713,7 +4718,7 @@
       "Name": "Face-To-Screen-To-Face",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "FEUD_APPRENTICE",
@@ -4729,7 +4734,7 @@
       "Name": "Grandmaster",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "FEUD_NOVICE",
@@ -4761,7 +4766,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1350
+      "UsersEstimate": 1351
     },
     {
       "ID": "GUARD_MAKER",
@@ -4777,7 +4782,7 @@
       "Name": "Manipulator",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "KING_MASTERY",
@@ -4832,14 +4837,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2250,
+      "Progressed": 2251,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-08-09T07:03:43.4914992+00:00",
+  "LastChanged_Achievements": "2023-08-09T08:03:19.0170347+00:00",
   "LastUpdate_AppInfo": "2023-08-08T20:57:07.6578164+00:00",
-  "LastUpdate_Ratings": "2023-08-09T06:58:35.1702335+00:00",
-  "LastUpdate_Achievements": "2023-08-09T07:03:43.4915489+00:00"
+  "LastUpdate_Ratings": "2023-08-09T07:58:16.1358344+00:00",
+  "LastUpdate_Achievements": "2023-08-09T08:03:19.0170859+00:00"
 }

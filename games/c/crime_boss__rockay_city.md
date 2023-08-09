@@ -5,15 +5,15 @@ Rating: 3.94 (Ranked 938)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~52,971 |
-| First One’s Free | 65.00% | ~46,528 |
-| Neophyte Ninja | 50.00% | ~35,791 |
+| Downed but Not Outed | 74.00% | ~52,972 |
+| First One’s Free | 65.00% | ~46,530 |
+| Neophyte Ninja | 50.00% | ~35,792 |
 | Too Old for This | 47.00% | ~33,644 |
 | Case Closed | 35.00% | ~25,054 |
 | Fancy Pants | 35.00% | ~25,054 |
-| King of the Hill | 34.00% | ~24,338 |
+| King of the Hill | 34.00% | ~24,339 |
 | Underworld Initiate | 29.00% | ~20,759 |
-| Roid Ranger | 21.00% | ~15,032 |
+| Roid Ranger | 21.00% | ~15,033 |
 | True Player | 19.00% | ~13,601 |
 | Off the Rocks | 19.00% | ~13,601 |
 | Raider’s Ruin | 17.00% | ~12,169 |
@@ -21,9 +21,9 @@ Rating: 3.94 (Ranked 938)
 | Hidden Sonata | 13.00% | ~9,306 |
 | Rockay Rex | 11.00% | ~7,874 |
 | Freebooter | 10.00% | ~7,158 |
-| Track Star | 9.00% | ~6,442 |
-| Ding Dong | 9.00% | ~6,442 |
-| Classy Joint | 9.00% | ~6,442 |
+| Track Star | 9.00% | ~6,443 |
+| Ding Dong | 9.00% | ~6,443 |
+| Classy Joint | 9.00% | ~6,443 |
 | I Like Trains | 8.00% | ~5,727 |
 | Headhunter | 8.00% | ~5,727 |
 | Foo Finder | 7.00% | ~5,011 |
@@ -33,17 +33,17 @@ Rating: 3.94 (Ranked 938)
 | Olympus Ascended | 4.00% | ~2,863 |
 | Cracked the Jack | 4.00% | ~2,863 |
 | Red Star | 4.00% | ~2,863 |
-| Privateer | 3.00% | ~2,147 |
-| Moneybags | 3.00% | ~2,147 |
-| Groundhog Days | 3.00% | ~2,147 |
+| Privateer | 3.00% | ~2,148 |
+| Moneybags | 3.00% | ~2,148 |
+| Groundhog Days | 3.00% | ~2,148 |
 | Rockay Raider | 2.00% | ~1,432 |
 | Impossible Dreamer | 2.00% | ~1,432 |
 | Rockay Knight | 1.00% | ~716 |
 | Talent Scout | 1.00% | ~716 |
-| Geek Out | 0.60% | ~429 |
+| Geek Out | 0.60% | ~430 |
 | Full House | 0.20% | ~143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,582 (Ranked 77)  
+Progressed: 71,584 (Ranked 77)  
 Completed: 37 (0.05%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 37 (0.05%) (Ranked 216)
 | 2023-08-06 | 71,468 | 37 |
 | 2023-08-07 | 71,517 | 37 |
 | 2023-08-08 | 71,567 | 37 |
-| 2023-08-09 | 71,582 | 37 |
+| 2023-08-09 | 71,584 | 37 |
 ## Awards
 Max (Diverse Characters): 394  (Ranked 215)  
 Sum: 1,860 (Ranked 204)  

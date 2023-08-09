@@ -51,38 +51,39 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.60% | ~1,118 |
 | Thieves of the Coven | 0.50% | ~932 |
 | A Demi-god's Defender | 0.50% | ~932 |
-| Friends of the Forest | 0.50% | ~1,100 |
-| Homecoming | 0.50% | ~1,100 |
+| Friends of the Forest | 0.50% | ~1,101 |
+| Homecoming | 0.50% | ~1,101 |
 | No One Can Hear You Scream | 0.50% | ~932 |
 | Welcome to the Rock | 0.50% | ~932 |
-| Wisdom Check | 0.50% | ~1,100 |
-| Invisible Shadows | 0.50% | ~1,100 |
-| Family Entanglements | 0.50% | ~1,100 |
-| Tower on the Lake | 0.50% | ~1,100 |
-| The Crumbling Temple | 0.50% | ~1,100 |
-| Seeking Allies | 0.50% | ~1,100 |
-| Are Ya Chicken? | 0.50% | ~1,100 |
-| Exploring Port Nyanzaru | 0.50% | ~1,100 |
-| Running of the Saurs | 0.50% | ~1,100 |
-| Waterdeep Detours | 0.50% | ~1,100 |
-| Friendly Imps | 0.50% | ~1,100 |
-| Pure Energy | 0.50% | ~1,100 |
+| Wisdom Check | 0.50% | ~1,101 |
+| Invisible Shadows | 0.50% | ~1,101 |
+| Family Entanglements | 0.50% | ~1,101 |
+| Tower on the Lake | 0.50% | ~1,101 |
+| The Crumbling Temple | 0.50% | ~1,101 |
+| Seeking Allies | 0.50% | ~1,101 |
+| Are Ya Chicken? | 0.50% | ~1,101 |
+| Exploring Port Nyanzaru | 0.50% | ~1,101 |
+| Running of the Saurs | 0.50% | ~1,101 |
+| Escort to Waterdeep | 0.50% | ~1,101 |
+| Waterdeep Detours | 0.50% | ~1,101 |
+| Friendly Imps | 0.50% | ~1,101 |
+| Pure Energy | 0.50% | ~1,101 |
 | Calcryx Tricks | 0.50% | ~932 |
 | Goblin Halls: the Next Generation | 0.50% | ~932 |
 | Bazaar Companions | 0.50% | ~932 |
 | Bahamut's Army | 0.50% | ~932 |
 | Animated Giff | 0.50% | ~932 |
 | Upholding the Law | 0.40% | ~880 |
-| Hither of the Feywild | 0.40% | ~745 |
-| The Prince of a Thousand Enemies | 0.40% | ~745 |
-| Downfall | 0.40% | ~745 |
-| Speeds of Destruction | 0.40% | ~745 |
-| Owlbear Necessities | 0.40% | ~745 |
+| Hither of the Feywild | 0.40% | ~746 |
+| The Prince of a Thousand Enemies | 0.40% | ~746 |
+| Downfall | 0.40% | ~746 |
+| Speeds of Destruction | 0.40% | ~746 |
+| Owlbear Necessities | 0.40% | ~746 |
 | On the Hunt | 0.40% | ~880 |
-| Best Thay Ever | 0.40% | ~745 |
-| The Castle of a Thousand Vecnas | 0.40% | ~745 |
-| Who Lurks Below? | 0.40% | ~745 |
-| Xanathaaaaaaar! | 0.40% | ~745 |
+| Best Thay Ever | 0.40% | ~746 |
+| The Castle of a Thousand Vecnas | 0.40% | ~746 |
+| Who Lurks Below? | 0.40% | ~746 |
+| Xanathaaaaaaar! | 0.40% | ~746 |
 | The Lost Heir of Omu | 0.40% | ~880 |
 | The Forbidden City | 0.40% | ~880 |
 | Captured! | 0.40% | ~880 |
@@ -92,6 +93,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.40% | ~880 |
 | Attack on the Manor | 0.40% | ~880 |
 | The Death Curse | 0.40% | ~880 |
+| Nimble Escape | 0.40% | ~880 |
 | Useless Allies | 0.40% | ~880 |
 | Mad Cow Disease | 0.40% | ~880 |
 | A Tale of Two Cities | 0.40% | ~880 |
@@ -99,19 +101,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flying Monkey Skulls of Doom | 0.40% | ~880 |
 | The Darkness Runs Deeper | 0.40% | ~880 |
 | The Contagious Curse | 0.40% | ~880 |
-| Escort to Waterdeep | 0.40% | ~880 |
-| The Giant's Bane Tavern | 0.40% | ~745 |
-| The Everlasting Rime | 0.40% | ~745 |
+| The Giant's Bane Tavern | 0.40% | ~746 |
+| The Everlasting Rime | 0.40% | ~746 |
 | Lost in the Deep | 0.40% | ~880 |
 | Easily Distracted | 0.40% | ~880 |
 | Underdeep Cartography | 0.40% | ~880 |
 | Overdue Rendezvous | 0.40% | ~880 |
 | The Templar's Camp | 0.40% | ~880 |
 | Rescue in the Jungle | 0.40% | ~880 |
-| Devilishly Cold | 0.40% | ~745 |
-| Luigi After Hours | 0.40% | ~745 |
-| Electric Mayhem | 0.40% | ~745 |
-| 3,720 to 1 | 0.40% | ~745 |
+| Devilishly Cold | 0.40% | ~746 |
+| Luigi After Hours | 0.40% | ~746 |
+| Electric Mayhem | 0.40% | ~746 |
+| 3,720 to 1 | 0.40% | ~746 |
 | Starving in the Jungle | 0.30% | ~660 |
 | Cold as Ice | 0.30% | ~559 |
 | Friends and Foes | 0.30% | ~559 |
@@ -130,6 +131,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Get Back In The Castle | 0.30% | ~559 |
 | Checkmate | 0.30% | ~559 |
 | Vecna Out! | 0.30% | ~559 |
+| Anti-Dexterous Explorers | 0.30% | ~660 |
 | Lobsterfolk Assault | 0.30% | ~660 |
 | Home Field Advantage | 0.30% | ~660 |
 | Force Grey Unleashed | 0.30% | ~660 |
@@ -151,7 +153,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Treasure Hunters | 0.30% | ~660 |
 | Flies on the Wall | 0.30% | ~660 |
 | Backtracking Through Barovia | 0.30% | ~660 |
-| Nimble Escape | 0.30% | ~660 |
 | Fugitives | 0.30% | ~660 |
 | Premature Betrayal | 0.30% | ~660 |
 | Hopelessly Lost | 0.30% | ~660 |
@@ -205,7 +206,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frail Doesn't Mean Broken | 0.20% | ~373 |
 | Unreasonable Doesn't Mean Stupid | 0.20% | ~373 |
 | Clowning Around | 0.20% | ~373 |
-| Anti-Dexterous Explorers | 0.20% | ~440 |
 | Struggling Toward Omu | 0.20% | ~440 |
 | Not Very Charming | 0.20% | ~440 |
 | Periodic Petrification | 0.20% | ~440 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~186 |
 | Quick or Quack | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,095 (Ranked 52)  
+Progressed: 220,106 (Ranked 52)  
 Completed: 2,166 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,7 +630,7 @@ Completed: 2,166 (0.98%) (Ranked 114)
 | 2023-08-06 | 219,439 | 2,158 |
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
-| 2023-08-09 | 220,095 | 2,166 |
+| 2023-08-09 | 220,106 | 2,166 |
 ## Awards
 Max (Diverse Characters): 5,125  (Ranked 67)  
 Sum: 30,950 (Ranked 38)  

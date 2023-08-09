@@ -96,7 +96,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69358,
+  "EOS_Progressed": 69360,
   "EOS_Completed": 695,
   "EOS_NewPlayers": 878,
   "EOS_NewCompleters": 16,
@@ -12246,6 +12246,11 @@
       "Time": "2023-08-09T07:08:33.5588307+00:00",
       "NumProgressed": 69358,
       "NumCompleted": 695
+    },
+    {
+      "Time": "2023-08-09T08:07:16.5274664+00:00",
+      "NumProgressed": 69360,
+      "NumCompleted": 695
     }
   ],
   "TotalAchievements": 25,
@@ -12273,7 +12278,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 12484
+      "UsersEstimate": 12485
     },
     {
       "ID": "Audiophile",
@@ -12297,7 +12302,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12484
+      "UsersEstimate": 12485
     },
     {
       "ID": "Butcher",
@@ -12385,7 +12390,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11097
+      "UsersEstimate": 11098
     },
     {
       "ID": "Nothing Left to Say",
@@ -12456,7 +12461,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 69358,
+      "Progressed": 69360,
       "Completed": 695
     }
   ],
@@ -12464,8 +12469,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-08-09T07:08:33.55883+00:00",
+  "LastChanged_Achievements": "2023-08-09T08:07:16.5274657+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:13.5185195+00:00",
-  "LastUpdate_Ratings": "2023-08-09T06:57:43.3064212+00:00",
-  "LastUpdate_Achievements": "2023-08-09T07:08:33.5589813+00:00"
+  "LastUpdate_Ratings": "2023-08-09T07:57:32.1591715+00:00",
+  "LastUpdate_Achievements": "2023-08-09T08:07:16.5275755+00:00"
 }

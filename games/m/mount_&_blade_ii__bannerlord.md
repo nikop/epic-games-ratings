@@ -6,17 +6,17 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~22,231 |
+| Lawbringer | 38.00% | ~22,232 |
 | Landlord | 32.00% | ~18,721 |
-| Bannerlord | 22.00% | ~12,870 |
-| Horde breaker | 22.00% | ~12,870 |
-| Lawmaker | 22.00% | ~12,870 |
-| Trained | 22.00% | ~12,870 |
-| The king is pleased | 18.00% | ~10,530 |
-| King Solomon | 17.00% | ~9,945 |
-| Apple of my eye | 15.00% | ~8,775 |
-| I can do it | 15.00% | ~8,775 |
-| God of the Arena | 13.00% | ~7,605 |
+| Bannerlord | 22.00% | ~12,871 |
+| Horde breaker | 22.00% | ~12,871 |
+| Lawmaker | 22.00% | ~12,871 |
+| Trained | 22.00% | ~12,871 |
+| The king is pleased | 18.00% | ~10,531 |
+| King Solomon | 17.00% | ~9,946 |
+| Apple of my eye | 15.00% | ~8,776 |
+| I can do it | 15.00% | ~8,776 |
+| God of the Arena | 13.00% | ~7,606 |
 | Against all odds | 11.00% | ~6,435 |
 | Swordbearer | 10.00% | ~5,850 |
 | This Is Our Land | 10.00% | ~5,850 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,502 (Ranked 86)  
+Progressed: 58,504 (Ranked 86)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,17 +169,17 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 58,354 | 0 |
 | 2023-08-07 | 58,418 | 0 |
 | 2023-08-08 | 58,489 | 0 |
-| 2023-08-09 | 58,502 | 0 |
+| 2023-08-09 | 58,504 | 0 |
 ## Awards
 Max (Character Customization): 6,908  (Ranked 48)  
-Sum: 14,007 (Ranked 67)  
+Sum: 14,009 (Ranked 67)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,908 |
 | This game is Great for Beginners | 912 |
 | This game has Diverse Characters | 876 |
-| This game is Highly Recommended | 836 |
+| This game is Highly Recommended | 838 |
 | This game is Extremely Fun | 800 |
 | This game has Amazing Storytelling | 787 |
 | This game is Relaxing | 776 |
@@ -397,4 +397,4 @@ Diff (max vs sum): -19
 | 2023-08-06 | 4.74 | - | 6,899 | 13,988 |
 | 2023-08-07 | 4.74 | - | 6,899 | 13,990 |
 | 2023-08-08 | 4.74 | - | 6,908 | 14,004 |
-| 2023-08-09 | 4.74 | - | 6,908 | 14,007 |
+| 2023-08-09 | 4.74 | - | 6,908 | 14,009 |

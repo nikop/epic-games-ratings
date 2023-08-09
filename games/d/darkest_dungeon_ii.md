@@ -6,39 +6,39 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~106,009 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~79,792 |
-| A Clear Conscience | 69.00% | ~78,652 |
-| Unleash Hell | 68.00% | ~77,512 |
-| Unfulfilled Desires | 68.00% | ~77,512 |
-| Funny Guy | 67.00% | ~76,372 |
-| Unshackled | 67.00% | ~76,372 |
-| Long Live the King | 66.00% | ~75,232 |
-| Resurrection | 62.00% | ~70,673 |
-| Wyrdly Reconstructed | 62.00% | ~70,673 |
-| Boxcar Kid | 60.00% | ~68,393 |
-| Rush Hour | 60.00% | ~68,393 |
-| To Grandmother's House | 60.00% | ~68,393 |
-| Serenity Now! | 52.00% | ~59,274 |
-| Hope Rekindled | 50.00% | ~56,994 |
-| Ramble On | 48.00% | ~54,714 |
-| Nope | 47.00% | ~53,574 |
-| This Looks Familiar | 38.00% | ~43,315 |
+| A Place to Lay Your Head | 93.00% | ~106,011 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~79,793 |
+| A Clear Conscience | 69.00% | ~78,653 |
+| Unleash Hell | 68.00% | ~77,513 |
+| Unfulfilled Desires | 68.00% | ~77,513 |
+| Funny Guy | 67.00% | ~76,373 |
+| Unshackled | 67.00% | ~76,373 |
+| Long Live the King | 66.00% | ~75,233 |
+| Resurrection | 62.00% | ~70,674 |
+| Wyrdly Reconstructed | 62.00% | ~70,674 |
+| Boxcar Kid | 60.00% | ~68,394 |
+| Rush Hour | 60.00% | ~68,394 |
+| To Grandmother's House | 60.00% | ~68,394 |
+| Serenity Now! | 52.00% | ~59,275 |
+| Hope Rekindled | 50.00% | ~56,995 |
+| Ramble On | 48.00% | ~54,715 |
+| Nope | 47.00% | ~53,575 |
+| This Looks Familiar | 38.00% | ~43,316 |
 | Now Stay Dead | 36.00% | ~41,036 |
 | Harvest Festival | 36.00% | ~41,036 |
 | Hot Air | 36.00% | ~41,036 |
 | Merry Time | 35.00% | ~39,896 |
-| Creep and Sleep | 33.00% | ~37,616 |
-| Overdue Notice | 31.00% | ~35,336 |
-| Whale | 31.00% | ~35,336 |
-| Banishment | 30.00% | ~34,196 |
+| Creep and Sleep | 33.00% | ~37,617 |
+| Overdue Notice | 31.00% | ~35,337 |
+| Whale | 31.00% | ~35,337 |
+| Banishment | 30.00% | ~34,197 |
 | FNG | 29.00% | ~33,057 |
-| Predator | 24.00% | ~27,357 |
-| Reverse Banditry | 24.00% | ~27,357 |
-| Autodidact | 24.00% | ~27,357 |
-| Meat and Greet | 22.00% | ~25,077 |
-| Spelunker | 21.00% | ~23,937 |
-| Road Trip | 21.00% | ~23,937 |
+| Predator | 24.00% | ~27,358 |
+| Reverse Banditry | 24.00% | ~27,358 |
+| Autodidact | 24.00% | ~27,358 |
+| Meat and Greet | 22.00% | ~25,078 |
+| Spelunker | 21.00% | ~23,938 |
+| Road Trip | 21.00% | ~23,938 |
 | Eyes Up | 20.00% | ~22,798 |
 | It Rings a Bell | 19.00% | ~21,658 |
 | Escape from the Black Hole | 17.00% | ~19,378 |
@@ -46,16 +46,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Belongs in a Museum | 16.00% | ~18,238 |
 | Dissector | 16.00% | ~18,238 |
 | Handled | 15.00% | ~17,098 |
-| Catch and Decease | 14.00% | ~15,958 |
-| Not Today! | 13.00% | ~14,818 |
+| Catch and Decease | 14.00% | ~15,959 |
+| Not Today! | 13.00% | ~14,819 |
 | Deprogramming | 12.00% | ~13,679 |
 | Shrine of Reflection | 11.00% | ~12,539 |
 | When You Want Something Done Right | 10.00% | ~11,399 |
 | Body of Work | 9.00% | ~10,259 |
 | Utopia | 8.00% | ~9,119 |
 | Hat Trick | 6.00% | ~6,839 |
-| Ichthyophobic | 5.00% | ~5,699 |
-| No More Mouths to Feed | 5.00% | ~5,699 |
+| Ichthyophobic | 5.00% | ~5,700 |
+| No More Mouths to Feed | 5.00% | ~5,700 |
 | The World As It Was | 4.00% | ~4,560 |
 | Triage | 3.00% | ~3,420 |
 | A Life Well Lived | 2.00% | ~2,280 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~114 |
 | 20,000 Leagues Above the Sea | 0.10% | ~114 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113,988 (Ranked 68)  
+Progressed: 113,990 (Ranked 68)  
 Completed: 1 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 1 (0.00%) (Ranked 251)
 | 2023-08-06 | 113,779 | 1 |
 | 2023-08-07 | 113,886 | 1 |
 | 2023-08-08 | 113,967 | 1 |
-| 2023-08-09 | 113,988 | 1 |
+| 2023-08-09 | 113,990 | 1 |
 ## Awards
 Max (Character Customization): 7,319  (Ranked 47)  
 Sum: 18,981 (Ranked 56)  
