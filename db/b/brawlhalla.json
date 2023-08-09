@@ -3,12 +3,12 @@
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
   "Ranking_Rating": 367,
-  "Ranking_Popularity": 249,
+  "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 534,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -4842,11 +4842,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 2412,
       "NumberOfAwardsMax": 254
+    },
+    {
+      "Time": "2023-08-09T20:00:27.8036907+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2419,
+      "NumberOfAwardsMax": 258
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2412,
-  "NumberOfAwardsMax": 254,
+  "NumberOfAwards": 2419,
+  "NumberOfAwardsMax": 258,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4865,7 +4871,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 223
+      "Count": 226
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -4919,7 +4925,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 254
+      "Count": 258
     }
   ],
   "EOS_Progressed": 0,
@@ -4934,8 +4940,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-08-09T17:01:10.406303+00:00",
+  "LastChanged": "2023-08-09T20:00:27.8036906+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:36.7858305+00:00",
-  "LastUpdate_Ratings": "2023-08-09T19:01:17.8421264+00:00",
-  "LastUpdate_Achievements": "2023-08-09T19:03:59.5912335+00:00"
+  "LastUpdate_Ratings": "2023-08-09T20:00:27.8036911+00:00",
+  "LastUpdate_Achievements": "2023-08-09T20:03:23.3363755+00:00"
 }

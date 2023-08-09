@@ -8,8 +8,8 @@ Rating: 4.87 (Ranked 24)
 | Start with a bang! | 9.00% | ~344 |
 | Feeling the beat! | 9.00% | ~344 |
 | You can pet the cat! | 8.00% | ~305 |
+| Cream of the Crop | 7.00% | ~267 |
 | Who put gears in there? | 7.00% | ~267 |
-| Cream of the Crop | 6.00% | ~229 |
 | Thanks for the free chip, Peppermint! | 6.00% | ~229 |
 | You got this, Peppermint? | 6.00% | ~229 |
 | This will cost you big time | 5.00% | ~191 |

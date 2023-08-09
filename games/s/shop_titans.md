@@ -9,7 +9,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 0.80% | ~1,074 |
 | Basic in Bulk | 0.80% | ~1,074 |
 | Titan's First Steps | 0.80% | ~1,074 |
-| Tinkle of Coins | 0.70% | ~939 |
+| Tinkle of Coins | 0.70% | ~940 |
 | Disintermediation | 0.60% | ~805 |
 | Capitalism Ho! | 0.60% | ~805 |
 | Another Satisfied Customer | 0.50% | ~671 |
@@ -23,6 +23,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Own the Means of Production | 0.40% | ~537 |
 | The Daily Grind | 0.30% | ~403 |
 | Bounty Hunters | 0.30% | ~403 |
+| Blank Page Syndrome | 0.30% | ~403 |
 | Demand for Supplies | 0.30% | ~403 |
 | Flooding the Market | 0.30% | ~403 |
 | Where it Hurts | 0.30% | ~403 |
@@ -40,7 +41,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Big Game Hunting | 0.20% | ~268 |
 | Fated Encounters | 0.20% | ~268 |
 | For the Hoard! | 0.20% | ~268 |
-| Blank Page Syndrome | 0.20% | ~268 |
 | Scrapbooker | 0.20% | ~268 |
 | Locally Sourced | 0.20% | ~268 |
 | Flying off the Shelves | 0.20% | ~268 |
@@ -49,6 +49,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master of Transmutation | 0.20% | ~268 |
 | Power of Love | 0.20% | ~268 |
 | Expansion in Session | 0.20% | ~268 |
+| Ritualist | 0.20% | ~268 |
 | Efficient Floor Space | 0.20% | ~268 |
 | Flawless Fusion | 0.20% | ~268 |
 | Trash to Treasure | 0.20% | ~268 |
@@ -84,7 +85,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Unleashed Potential | 0.10% | ~134 |
 | Supercharged | 0.10% | ~134 |
 | Thank You Tom Nook | 0.10% | ~134 |
-| Ritualist | 0.10% | ~134 |
 | Cranked up to 11 | 0.10% | ~134 |
 | Fit for a King | 0.10% | ~134 |
 | By Your Powers Combined... | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,213 (Ranked 65)  
+Progressed: 134,218 (Ranked 65)  
 Completed: 131 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-06 | 134,025 | 129 |
 | 2023-08-07 | 134,099 | 130 |
 | 2023-08-08 | 134,169 | 131 |
-| 2023-08-09 | 134,213 | 131 |
+| 2023-08-09 | 134,218 | 131 |
 ## Awards
 Max (Great for Beginners): 4,692  (Ranked 71)  
 Sum: 27,072 (Ranked 46)  

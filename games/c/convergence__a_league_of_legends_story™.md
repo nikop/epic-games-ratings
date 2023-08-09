@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 392)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 25.00% | ~207 |
+| Time Heals All Wounds | 25.00% | ~208 |
 | Rail Rat | 21.00% | ~174 |
 | The Mysterious Stranger | 20.00% | ~166 |
 | Make Up For Lost Time | 18.00% | ~149 |
@@ -32,7 +32,7 @@ Rating: 4.60 (Ranked 392)
 | Treasure Trove | 14.00% | ~116 |
 | Street Style | 14.00% | ~116 |
 | Cartographer | 14.00% | ~116 |
-| Whiz Kid | 12.00% | ~99 |
+| Whiz Kid | 12.00% | ~100 |
 | Good Neighbor | 11.00% | ~91 |
 | Chaincrawler Explorer | 10.00% | ~83 |
 | Family Memories | 10.00% | ~83 |
@@ -46,9 +46,9 @@ Rating: 4.60 (Ranked 392)
 | Sartorialist | 7.00% | ~58 |
 | Cultivair Explorer | 7.00% | ~58 |
 | Entresol Explorer | 7.00% | ~58 |
-| Clovemary for Remembering | 5.00% | ~41 |
-| Golem Hunter | 5.00% | ~41 |
-| Rungs Was Right | 5.00% | ~41 |
+| Clovemary for Remembering | 5.00% | ~42 |
+| Golem Hunter | 5.00% | ~42 |
+| Rungs Was Right | 5.00% | ~42 |
 | Hexlock for Protection | 4.00% | ~33 |
 | Wunderkind | 2.00% | ~17 |
 | Fitting In | 2.00% | ~17 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 392)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 829 (Ranked 203)  
+Progressed: 830 (Ranked 203)  
 Completed: 5 (0.60%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 5 (0.60%) (Ranked 129)
 | 2023-08-06 | 826 | 5 |
 | 2023-08-07 | 827 | 5 |
 | 2023-08-08 | 828 | 5 |
-| 2023-08-09 | 829 | 5 |
+| 2023-08-09 | 830 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

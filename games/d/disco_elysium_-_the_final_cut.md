@@ -10,7 +10,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Biggest Communism Builder | 24.00% | ~30,223 |
 | The World's Most Laughable Centrist | 20.00% | ~25,186 |
 | Il Coppo Del'Arte! | 18.00% | ~22,667 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,148 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,149 |
 | Hyperstellar Law Official | 15.00% | ~18,889 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,630 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,371 |
@@ -34,7 +34,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Baddest Brow in Town | 0.80% | ~1,007 |
 | Committee of la Responsabilité | 0.80% | ~1,007 |
 | Venture into the HARDCORE | 0.80% | ~1,007 |
-| Networthy Individual | 0.70% | ~881 |
+| Networthy Individual | 0.70% | ~882 |
 | Leopard Mindset | 0.60% | ~756 |
 | Modus: Mullen | 0.30% | ~378 |
 | Palerunner | 0.30% | ~378 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~126 |
 | What body? | 0.10% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125,928 (Ranked 66)  
+Progressed: 125,929 (Ranked 66)  
 Completed: 27 (0.02%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,11 +158,11 @@ Completed: 27 (0.02%) (Ranked 230)
 | 2023-08-06 | 125,751 | 27 |
 | 2023-08-07 | 125,820 | 27 |
 | 2023-08-08 | 125,882 | 27 |
-| 2023-08-09 | 125,928 | 27 |
+| 2023-08-09 | 125,929 | 27 |
 ## Awards
 Max (Character Customization): 715  (Ranked 163)  
-Sum: 1,077 (Ranked 233)  
-Diff (max vs sum): -70  
+Sum: 1,077 (Ranked 234)  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 715 |

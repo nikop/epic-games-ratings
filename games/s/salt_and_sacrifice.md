@@ -1,66 +1,66 @@
 # Salt and Sacrifice
 [Store](https://store.epicgames.com/en-US/p/salt-and-sacrifice)  
 [View Rawdata](../../db/s/salt_and_sacrifice.json)  
-Rating: 4.31 (Ranked 779)  
+Rating: 4.31 (Ranked 778)  
 Number of Ratings: 2,205  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Champion | 90.00% | ~59,102 |
-| The Pyromancer | 86.00% | ~56,475 |
-| The Wastes | 83.00% | ~54,505 |
-| Waste Not | 80.00% | ~52,535 |
-| The Cryomancer | 76.00% | ~49,908 |
-| Stock Up | 75.00% | ~49,252 |
-| The Hydromancer | 73.00% | ~47,938 |
-| The Matriarch | 70.00% | ~45,968 |
-| The Aeromancer | 66.00% | ~43,342 |
-| The Venomancer | 66.00% | ~43,342 |
-| The Huntsman | 65.00% | ~42,685 |
-| Dawnlight Order | 64.00% | ~42,028 |
-| The Electromancer | 61.00% | ~40,058 |
-| The Terramancer | 59.00% | ~38,745 |
-| The Exalted | 57.00% | ~37,431 |
-| Blueheart Runners | 55.00% | ~36,118 |
-| Sheriff Inquisitors | 55.00% | ~36,118 |
-| The Necromancer | 52.00% | ~34,148 |
-| The Swamp | 50.00% | ~32,834 |
-| The Fungalmancer | 47.00% | ~30,864 |
-| The Thaumamancer | 47.00% | ~30,864 |
-| The Hag | 45.00% | ~29,551 |
-| The Corpumancer | 42.00% | ~27,581 |
+| The Champion | 90.00% | ~59,104 |
+| The Pyromancer | 86.00% | ~56,477 |
+| The Wastes | 83.00% | ~54,507 |
+| Waste Not | 80.00% | ~52,537 |
+| The Cryomancer | 76.00% | ~49,910 |
+| Stock Up | 75.00% | ~49,253 |
+| The Hydromancer | 73.00% | ~47,940 |
+| The Matriarch | 70.00% | ~45,970 |
+| The Aeromancer | 66.00% | ~43,343 |
+| The Venomancer | 66.00% | ~43,343 |
+| The Huntsman | 65.00% | ~42,686 |
+| Dawnlight Order | 64.00% | ~42,029 |
+| The Electromancer | 61.00% | ~40,059 |
+| The Terramancer | 59.00% | ~38,746 |
+| The Exalted | 57.00% | ~37,432 |
+| Blueheart Runners | 55.00% | ~36,119 |
+| Sheriff Inquisitors | 55.00% | ~36,119 |
+| The Necromancer | 52.00% | ~34,149 |
+| The Swamp | 50.00% | ~32,836 |
+| The Fungalmancer | 47.00% | ~30,865 |
+| The Thaumamancer | 47.00% | ~30,865 |
+| The Hag | 45.00% | ~29,552 |
+| The Corpumancer | 42.00% | ~27,582 |
 | The Mountain | 40.00% | ~26,268 |
 | The Treeheart | 40.00% | ~26,268 |
-| Shroud Alliance | 39.00% | ~25,611 |
+| Shroud Alliance | 39.00% | ~25,612 |
 | The Two Monks | 37.00% | ~24,298 |
-| The Neuromancer | 35.00% | ~22,984 |
+| The Neuromancer | 35.00% | ~22,985 |
 | Oathbound Watchers | 33.00% | ~21,671 |
 | The Mechanomancer | 33.00% | ~21,671 |
-| The Chronomancer | 32.00% | ~21,014 |
+| The Chronomancer | 32.00% | ~21,015 |
 | The Copse | 30.00% | ~19,701 |
 | The Dragon | 30.00% | ~19,701 |
 | The Dracomancer | 30.00% | ~19,701 |
-| Well Stocked | 28.00% | ~18,387 |
-| The Umbramancer | 28.00% | ~18,387 |
+| Well Stocked | 28.00% | ~18,388 |
+| The Umbramancer | 28.00% | ~18,388 |
 | Chaos Hunger | 27.00% | ~17,731 |
 | The Kinetomancer | 27.00% | ~17,731 |
 | The Sanguimancer | 27.00% | ~17,731 |
 | The Luminimancer | 26.00% | ~17,074 |
-| The Bibliomancer | 25.00% | ~16,417 |
-| The Skylord | 25.00% | ~16,417 |
+| The Bibliomancer | 25.00% | ~16,418 |
+| The Skylord | 25.00% | ~16,418 |
 | The Firelord | 24.00% | ~15,761 |
-| Want Not | 21.00% | ~13,790 |
-| The Diablomancer | 21.00% | ~13,790 |
-| The Sacrifice | 21.00% | ~13,790 |
+| Want Not | 21.00% | ~13,791 |
+| The Diablomancer | 21.00% | ~13,791 |
+| The Sacrifice | 21.00% | ~13,791 |
 | The King | 19.00% | ~12,477 |
 | Take Your Place | 14.00% | ~9,194 |
 | The Nomad | 14.00% | ~9,194 |
 | The Soldier | 11.00% | ~7,224 |
 | Make The Climb | 10.00% | ~6,567 |
 | The Scholar | 10.00% | ~6,567 |
-| Top Shelf | 5.00% | ~3,283 |
+| Top Shelf | 5.00% | ~3,284 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,669 (Ranked 81)  
+Progressed: 65,671 (Ranked 81)  
 Completed: 1,207 (1.84%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 1,207 (1.84%) (Ranked 90)
 | 2023-08-06 | 65,649 | 1,206 |
 | 2023-08-07 | 65,657 | 1,206 |
 | 2023-08-08 | 65,663 | 1,207 |
-| 2023-08-09 | 65,669 | 1,207 |
+| 2023-08-09 | 65,671 | 1,207 |
 ## Awards
 Max (Character Customization): 960  (Ranked 145)  
 Sum: 1,922 (Ranked 201)  

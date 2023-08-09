@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -612,9 +612,9 @@
       "Count": 157
     }
   ],
-  "EOS_Progressed": 209448,
+  "EOS_Progressed": 209483,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4412,
+  "EOS_NewPlayers": 4403,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6287,6 +6287,11 @@
       "Time": "2023-08-09T19:04:31.4265937+00:00",
       "NumProgressed": 209448,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-09T20:03:49.2986975+00:00",
+      "NumProgressed": 209483,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -6608,9 +6613,9 @@
       "ID": "DLC3DungeonThemeNecro",
       "SetID": "50p8kh1",
       "Name": "Gloomy Dungeon",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 209
     },
     {
       "ID": "DLC3RangerAgentX15Support",
@@ -6746,7 +6751,7 @@
       "Name": "Sowwy!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7001,21 +7006,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 209448,
+      "Progressed": 209483,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 209448,
+      "Progressed": 209483,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-08T15:00:26.9457471+00:00",
-  "LastChanged_Achievements": "2023-08-09T19:04:31.4265931+00:00",
+  "LastChanged_Achievements": "2023-08-09T20:03:49.298697+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:59.1388847+00:00",
-  "LastUpdate_Ratings": "2023-08-09T19:00:32.4566848+00:00",
-  "LastUpdate_Achievements": "2023-08-09T19:04:31.426704+00:00"
+  "LastUpdate_Ratings": "2023-08-09T19:59:47.1976757+00:00",
+  "LastUpdate_Achievements": "2023-08-09T20:03:49.2988462+00:00"
 }

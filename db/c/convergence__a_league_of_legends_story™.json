@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 829,
+  "EOS_Progressed": 830,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -1970,6 +1970,11 @@
       "Time": "2023-08-09T13:17:01.6509122+00:00",
       "NumProgressed": 829,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-09T20:04:46.1657252+00:00",
+      "NumProgressed": 830,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2037,7 +2042,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "CosmeticCompletion1",
@@ -2133,7 +2138,7 @@
       "Name": "Whiz Kid",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "GrindingTime1",
@@ -2269,7 +2274,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "RewindParry",
@@ -2285,7 +2290,7 @@
       "Name": "Golem Hunter",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ScrambotProgress1",
@@ -2301,7 +2306,7 @@
       "Name": "Rungs Was Right",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "SkillProgress1",
@@ -2404,7 +2409,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 829,
+      "Progressed": 830,
       "Completed": 5
     }
   ],
@@ -2412,8 +2417,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-09T19:05:21.9187435+00:00",
+  "LastChanged_Achievements": "2023-08-09T20:04:46.1657246+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:20.0210953+00:00",
-  "LastUpdate_Ratings": "2023-08-09T19:00:53.1085811+00:00",
-  "LastUpdate_Achievements": "2023-08-09T19:05:21.9187896+00:00"
+  "LastUpdate_Ratings": "2023-08-09T20:00:04.5273945+00:00",
+  "LastUpdate_Achievements": "2023-08-09T20:04:46.1657902+00:00"
 }

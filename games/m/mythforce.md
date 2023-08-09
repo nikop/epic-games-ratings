@@ -1,7 +1,7 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 576)  
+Rating: 4.49 (Ranked 575)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -24,13 +24,13 @@ Number of Ratings: 285  (23.09.2022)
 | On this Episode! | 1.00% | ~7 |
 | Season Finale | 1.00% | ~7 |
 | Spending Spree | 1.00% | ~7 |
+| Everything Must Go! | 0.70% | ~5 |
 | The Fourth Gate | 0.70% | ~5 |
-| Everything Must Go! | 0.60% | ~4 |
 | We've Got a Kaiju on the Field | 0.10% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670 (Ranked 213)  
+Progressed: 673 (Ranked 213)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 642 | 0 |
 | 2023-08-07 | 652 | 0 |
 | 2023-08-08 | 663 | 0 |
-| 2023-08-09 | 670 | 0 |
+| 2023-08-09 | 673 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 451)  
 Sum: 226 (Ranked 356)  

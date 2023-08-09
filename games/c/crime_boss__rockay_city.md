@@ -5,27 +5,27 @@ Rating: 3.94 (Ranked 938)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~52,997 |
-| First One’s Free | 65.00% | ~46,552 |
-| Neophyte Ninja | 50.00% | ~35,809 |
-| Too Old for This | 47.00% | ~33,660 |
-| Case Closed | 35.00% | ~25,066 |
-| Fancy Pants | 35.00% | ~25,066 |
-| King of the Hill | 34.00% | ~24,350 |
-| Underworld Initiate | 29.00% | ~20,769 |
+| Downed but Not Outed | 74.00% | ~52,999 |
+| First One’s Free | 65.00% | ~46,553 |
+| Neophyte Ninja | 50.00% | ~35,810 |
+| Too Old for This | 47.00% | ~33,661 |
+| Case Closed | 35.00% | ~25,067 |
+| Fancy Pants | 35.00% | ~25,067 |
+| King of the Hill | 34.00% | ~24,351 |
+| Underworld Initiate | 29.00% | ~20,770 |
 | Roid Ranger | 21.00% | ~15,040 |
-| True Player | 19.00% | ~13,607 |
-| Off the Rocks | 19.00% | ~13,607 |
+| True Player | 19.00% | ~13,608 |
+| Off the Rocks | 19.00% | ~13,608 |
 | Raider’s Ruin | 17.00% | ~12,175 |
 | Dragonslayer | 17.00% | ~12,175 |
-| Hidden Sonata | 13.00% | ~9,310 |
+| Hidden Sonata | 13.00% | ~9,311 |
 | Rockay Rex | 11.00% | ~7,878 |
 | Freebooter | 10.00% | ~7,162 |
 | Track Star | 9.00% | ~6,446 |
 | Ding Dong | 9.00% | ~6,446 |
 | Classy Joint | 9.00% | ~6,446 |
-| I Like Trains | 8.00% | ~5,729 |
-| Headhunter | 8.00% | ~5,729 |
+| I Like Trains | 8.00% | ~5,730 |
+| Headhunter | 8.00% | ~5,730 |
 | Foo Finder | 7.00% | ~5,013 |
 | Legend Looter | 5.00% | ~3,581 |
 | Savvy Seeker | 5.00% | ~3,581 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 938)
 | Geek Out | 0.60% | ~430 |
 | Full House | 0.20% | ~143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,618 (Ranked 77)  
+Progressed: 71,620 (Ranked 77)  
 Completed: 37 (0.05%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 37 (0.05%) (Ranked 216)
 | 2023-08-06 | 71,468 | 37 |
 | 2023-08-07 | 71,517 | 37 |
 | 2023-08-08 | 71,567 | 37 |
-| 2023-08-09 | 71,618 | 37 |
+| 2023-08-09 | 71,620 | 37 |
 ## Awards
 Max (Diverse Characters): 398  (Ranked 215)  
 Sum: 1,864 (Ranked 204)  

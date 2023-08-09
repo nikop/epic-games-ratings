@@ -36,10 +36,10 @@
 | Attic Secret Spot | 5.00% | ~4 |
 | Basement Secret Spot | 4.00% | ~3 |
 | Garage Secret Spot | 2.00% | ~2 |
+| Gamer Room Secret Spot | 1.00% | ~1 |
 | Kickball Kup | 1.00% | ~1 |
 | Goooooooooal! | 1.00% | ~1 |
 | Backyard Secret Spot | 0.00% | ~0 |
-| Gamer Room Secret Spot | 0.00% | ~0 |
 | Nice! | 0.00% | ~0 |
 | Not wide right this time | 0.00% | ~0 |
 | The Champ | 0.00% | ~0 |

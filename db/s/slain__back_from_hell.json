@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -205,9 +205,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 33241,
+  "EOS_Progressed": 33250,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 888,
+  "EOS_NewPlayers": 894,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -12340,6 +12340,11 @@
       "Time": "2023-08-09T19:05:37.3704172+00:00",
       "NumProgressed": 33241,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-09T20:04:59.0045387+00:00",
+      "NumProgressed": 33250,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -12351,7 +12356,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4986
+      "UsersEstimate": 4988
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -12359,7 +12364,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6648
+      "UsersEstimate": 6650
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -12367,7 +12372,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -12511,7 +12516,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -12527,7 +12532,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -12535,7 +12540,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -12582,7 +12587,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 33241,
+      "Progressed": 33250,
       "Completed": 21
     }
   ],
@@ -12590,8 +12595,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-01T20:00:57.6814566+00:00",
-  "LastChanged_Achievements": "2023-08-09T19:05:37.3704168+00:00",
+  "LastChanged_Achievements": "2023-08-09T20:04:59.0045379+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:57.8950159+00:00",
-  "LastUpdate_Ratings": "2023-08-09T19:01:35.8335695+00:00",
-  "LastUpdate_Achievements": "2023-08-09T19:05:37.3704912+00:00"
+  "LastUpdate_Ratings": "2023-08-09T20:00:41.2405854+00:00",
+  "LastUpdate_Achievements": "2023-08-09T20:04:59.0046472+00:00"
 }
