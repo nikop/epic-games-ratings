@@ -34,7 +34,7 @@
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
 | 34 | [Ravenlok](games/r/ravenlok.md) | 7.40% |
-| 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.07% |
+| 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.03% |
 | 36 | [Scorn](games/s/scorn.md) | 6.96% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.84% |
@@ -48,13 +48,13 @@
 | 46 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
 | 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.82% |
 | 48 | [JARS](games/j/jars.md) | 4.76% |
-| 49 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
+| 49 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
 | 50 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
 | 51 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.65% |
 | 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.63% |
 | 53 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 54 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.22% |
-| 55 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.99% |
+| 55 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.98% |
 | 56 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
 | 57 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 58 | [ZZT!](games/z/zzt!.md) | 3.69% |
