@@ -14,8 +14,8 @@
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.12% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
-| 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
-| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 13.64% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.55% |
+| 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 17 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.97% |
 | 19 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.54% |
@@ -29,7 +29,7 @@
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.76% |
 | 26 | [Sonic Origins](games/s/sonic_origins.md) | 9.76% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.52% |
-| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
+| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.62% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -50,7 +50,7 @@
 | 48 | [JARS](games/j/jars.md) | 4.76% |
 | 49 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 50 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
-| 51 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.68% |
+| 51 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.65% |
 | 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.63% |
 | 53 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 54 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.22% |
@@ -184,11 +184,11 @@
 | 181 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
 | 183 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
 | 183 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 183 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.16% |
 | 183 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 183 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
-| 187 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.15% |
-| 187 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
-| 187 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
+| 188 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
+| 188 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 190 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 191 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
 | 192 | [Isonzo](games/i/isonzo.md) | 0.12% |
