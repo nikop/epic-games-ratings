@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Backrooms Doors](games/8/8e08d47a6dcd46b4904b9d6e9e043130.md) | 2023-08-10 | - |  | - | - |
 | [Hamster on Rails](games/f/fd4730080e1b408dac0303a255fcc3dd.md) | 2023-08-10 | - |  | - | - |
 | [Bus World](games/e/e5fe6253deb3455c9ce9ecf0d2b68a6d.md) | 2023-08-10 | 14 (1,000 XP) | 0 | - | - |
 | [Dros](games/a/a46cade12846436281c910ddc51411f3.md) | 2023-08-11 | 40 (1,000 XP) | 0 | - | - |
@@ -56,7 +55,7 @@
 | [Danghost](games/6/66b12faffa204da39bda39d087789944.md) | 2023-09-27 | - |  | - | - |
 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | - |  | - | - |
 | [Polker](games/1/1c380e2b8e7b4c2ea0643aff249fb7f1.md) | 2023-09-29 | - |  | - | - |
-| [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 2023-09-30 | - |  | - | - |
+| [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 2023-09-30 | 17 (1,000 XP) | 0 | - | - |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2023-09-30 | - |  | - | - |
 | [Blood Hunting](games/8/88aebfec9a96482d99f442a9535e2963.md) | 2023-09-30 | - |  | - | - |
 | [Cats Hidden in Italy](games/c/cats_hidden_in_italy.md) | 2023-09-30 | - |  | - | - |
@@ -106,6 +105,7 @@
 | [DINOSAURS: Mission Dino Camp](games/2/20938450f73b48a9bb1a5243bcac965b.md) | 2023-10-26 | - |  | - | - |
 | [Agatha Christie - Murder on the Orient Express](games/b/b1c68be50f37489ca95ff2b7ed616490.md) | 2023-10-31 | - |  | - | - |
 | [Hero Survival](games/9/9247eb45e73d4cccbd0b27d783e243e7.md) | 2023-10-31 | - |  | - | - |
+| [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | 2023-10-31 | - |  | - | - |
 | [Murder Is Game Over - Deal Killer](games/b/b2a82abf9d2b4356a29a4c5d2a15c830.md) | 2023-10-31 | - |  | - | - |
 | [Survivor - Castaway Island](games/f/f8cbf321729f439aae9c088cbbebe93e.md) | 2023-10-31 | - |  | - | - |
 | [Total War: PHARAOH](games/3/3928d2045d28460b96db76dc1b9ca146.md) | 2023-10-31 | - |  | - | - |

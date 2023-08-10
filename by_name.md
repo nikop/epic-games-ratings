@@ -912,7 +912,7 @@
 | [Football Manager 2021](games/f/football_manager_2021.md) | - | - | - | - |
 | [Football Manager 2021 Touch](games/f/football_manager_2021_touch.md) | - | - | - | - |
 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 82 | 6,391 | 54 |
-| [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 118 | 597 | 180 |
+| [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 118 | 597 | 181 |
 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 527 | 0 | 511 |
 | [For The King](games/f/for_the_king.md) | 4.70 | 198 | 379 | 219 |
 | [FORECLOSED](games/f/foreclosed.md) | - | - | 0 | - |
@@ -1153,6 +1153,7 @@
 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 135 | 0 | 511 |
 | [I Am Dead](games/i/i_am_dead.md) | - | - | 0 | - |
 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | - | - | - | - |
+| [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | - | - | - | - |
 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | - | - | 0 | - |
 | [I See Red](games/i/i_see_red.md) | - | - | 0 | - |
 | [I Want to be Alive](games/4/46ecaef70bbb4768a90c3aa40ac1d7a6.md) | - | - | - | - |
@@ -1259,7 +1260,7 @@
 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 274 | 0 | 511 |
 | [Kapital: Sparks of Revolution](games/k/kapital__sparks_of_revolution.md) | - | - | 0 | - |
 | [Kardboard Kings](games/k/kardboard_kings.md) | - | - | 0 | - |
-| [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 716 | 570 | 183 |
+| [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 716 | 570 | 184 |
 | [KAREN SEES](games/e/e53f61969af043f8a9cf3892b2371963.md) | - | - | - | - |
 | [KarmaZoo](games/k/karmazoo.md) | - | - | - | - |
 | [Kawaii Deathu Desu](games/k/kawaii_deathu_desu.md) | - | - | 0 | - |
@@ -1376,8 +1377,8 @@
 | [Little Brother Jim](games/e/e0ae558efb3d42f9bd62184665286d3b.md) | - | - | - | - |
 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 448 | 0 | 511 |
 | [Little Orpheus](games/l/little_orpheus.md) | - | - | 0 | - |
-| [Live](games/l/live_130.md) | - | - | - | - |
 | [Live](games/l/live_79.md) | - | - | - | - |
+| [Live](games/l/live_130.md) | - | - | - | - |
 | [Locks Quest](games/l/locks_quest.md) | - | - | 0 | - |
 | [Lonesome Village](games/l/lonesome_village.md) | - | - | 0 | - |
 | [Loop](games/l/loop.md) | - | - | - | - |
@@ -1424,7 +1425,7 @@
 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 666 | 0 | 511 |
 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 851 | 76 | 365 |
 | [Mafia Trilogy](games/m/mafia_trilogy.md) | - | - | - | - |
-| [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 331 | 602 | 179 |
+| [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 331 | 602 | 180 |
 | [Mage Math](games/5/5438c8546c6a4230851cc614af4bda6a.md) | - | - | 0 | - |
 | [Magenta](games/m/magenta.md) | - | - | - | - |
 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 716 | 164 | 289 |
@@ -1453,9 +1454,9 @@
 | [Mars Tactics](games/m/mars_tactics.md) | - | - | - | - |
 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.01 | 927 | 0 | 511 |
 | [Martian Invaders](games/b/ba379411990446cc90d33093ac594c66.md) | - | - | - | - |
-| [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 159 | 592 | 181 |
+| [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 159 | 592 | 182 |
 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 512 | 1,390 | 126 |
-| [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 29 | 12,292 | 31 |
+| [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 29 | 12,298 | 31 |
 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 101 | 1,402 | 125 |
 | [Mashed](games/m/mashed.md) | - | - | 0 | - |
 | [Mask of the Rose](games/c/cd4a7839ad21465cab08d6742093d2a0.md) | - | - | 0 | - |
@@ -1915,7 +1916,7 @@
 | [Remains](games/r/remains.md) | - | - | 0 | - |
 | [REMEDIUM Sentinels](games/r/remedium_sentinels.md) | - | - | 0 | - |
 | [RemiLore: Lost Girl in the Lands of Lore](games/r/remilore__lost_girl_in_the_lands_of_lore.md) | - | - | 0 | - |
-| [Remnant 2](games/r/remnant_2.md) | 4.78 | 101 | 565 | 184 |
+| [Remnant 2](games/r/remnant_2.md) | 4.78 | 101 | 605 | 179 |
 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 366 | 9,746 | 37 |
 | [REMORE INFESTED KINGDOM](games/2/27ac7a9891e546e3937d21797b5409b9.md) | - | - | - | - |
 | [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | - | - | - | - |
@@ -2242,7 +2243,7 @@
 | [Star Atlas](games/s/star_atlas.md) | 4.83 | 59 | 23 | 486 |
 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 677 | 0 | 511 |
 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 666 | 149 | 296 |
-| [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 644 | 573 | 182 |
+| [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 644 | 573 | 183 |
 | [Star Trek Prodigy: Supernova](games/s/star_trek_prodigy__supernova.md) | - | - | 0 | - |
 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.38 | 716 | 0 | 511 |
 | [Star Vikings Forever](games/s/star_vikings_forever.md) | - | - | 0 | - |
@@ -2286,6 +2287,7 @@
 | [Strategic Mind: The Pacific](games/s/strategic_mind__the_pacific.md) | - | - | 0 | - |
 | [Strawhart](games/s/strawhart.md) | - | - | 0 | - |
 | [Stray Blade](games/s/stray_blade.md) | - | - | 0 | - |
+| [Stray Gods: The Roleplaying Musical](games/0/0113dd49216f4f2d995ef9a6eebd67f4.md) | - | - | - | - |
 | [Strayed Lights](games/s/strayed_lights.md) | - | - | 0 | - |
 | [Street Striker](games/s/street_striker.md) | - | - | - | - |
 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | - | - | 0 | - |
@@ -2436,7 +2438,7 @@
 | [The Complex](games/t/the_complex.md) | - | - | 0 | - |
 | [The Count Lucanor](games/t/the_count_lucanor.md) | - | - | 0 | - |
 | [The Creepy Syndrome](games/f/f2ed44898a204bee866836b9b659bce4.md) | - | - | - | - |
-| [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 274 | 565 | 184 |
+| [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 274 | 565 | 185 |
 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.67 | 258 | 0 | 511 |
 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | - | - | - | - |
 | [The Crown of Wu](games/t/the_crown_of_wu.md) | - | - | - | - |
@@ -2613,7 +2615,7 @@
 | [The Way of Wrath](games/t/the_way_of_wrath.md) | - | - | - | - |
 | [The Wild Case](games/2/21c2551943894e5d92fd8e7f3ed1f58d.md) | - | - | - | - |
 | [The Witch of Fern Island](games/t/the_witch_of_fern_island.md) | - | - | 0 | - |
-| [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 12 | 17,487 | 20 |
+| [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 12 | 17,501 | 20 |
 | [The Witness](games/t/the_witness.md) | 4.70 | 198 | 178 | 283 |
 | [The Wizard and The Slug](games/t/the_wizard_and_the_slug.md) | - | - | 0 | - |
 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 77 | 0 | 511 |
@@ -2665,7 +2667,7 @@
 | [TOHU](games/t/tohu.md) | - | - | 0 | - |
 | [Tom Clancy's EndWar](games/t/tom_clancy's_endwar.md) | - | - | 0 | - |
 | [Tom Clancy's Ghost Recon](games/t/tom_clancy's_ghost_recon.md) | - | - | 0 | - |
-| [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 390 | 227 | 261 |
+| [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 390 | 228 | 261 |
 | [Tom Clancy's Rainbow Six 3 GOLD EDITION](games/t/tom_clancy's_rainbow_six_3_gold_edition.md) | - | - | 0 | - |
 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.51 | 542 | 164 | 289 |
 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 448 | 1,759 | 115 |

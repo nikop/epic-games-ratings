@@ -19,7 +19,7 @@
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 21,636 | 4.77 | 109 |
 | 18 | [Dauntless](games/d/dauntless.md) | 21,248 | 4.53 | 512 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,178 | 4.57 | 448 |
-| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,487 | 4.89 | 12 |
+| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,501 | 4.89 | 12 |
 | 21 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 16,861 | 4.25 | 819 |
 | 22 | [Warframe](games/w/warframe.md) | 16,407 | 4.61 | 366 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 15,254 | 4.21 | 848 |
@@ -30,7 +30,7 @@
 | 28 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 13,124 | 4.60 | 390 |
 | 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,623 | 4.36 | 735 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,589 | 4.42 | 666 |
-| 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,292 | 4.86 | 29 |
+| 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,298 | 4.86 | 29 |
 | 32 | [NBA 2K21](games/n/nba_2k21.md) | 11,738 | 4.39 | 705 |
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,358 | 4.69 | 212 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,071 | 4.45 | 633 |
@@ -178,13 +178,13 @@
 | 176 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 627 | 4.50 | 560 |
 | 177 | [FAR CRY 4](games/f/far_cry_4.md) | 622 | 4.67 | 258 |
 | 178 | [Dark Deity](games/d/dark_deity.md) | 609 | 4.16 | 876 |
-| 179 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 602 | 4.63 | 331 |
-| 180 | [Football Manager 2023](games/f/football_manager_2023.md) | 597 | 4.76 | 118 |
-| 181 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 592 | 4.73 | 159 |
-| 182 | [Star Trek Online](games/s/star_trek_online.md) | 573 | 4.44 | 644 |
-| 183 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 570 | 4.38 | 716 |
-| 184 | [Remnant 2](games/r/remnant_2.md) | 565 | 4.78 | 101 |
-| 184 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 565 | 4.66 | 274 |
+| 179 | [Remnant 2](games/r/remnant_2.md) | 605 | 4.78 | 101 |
+| 180 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 602 | 4.63 | 331 |
+| 181 | [Football Manager 2023](games/f/football_manager_2023.md) | 597 | 4.76 | 118 |
+| 182 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 592 | 4.73 | 159 |
+| 183 | [Star Trek Online](games/s/star_trek_online.md) | 573 | 4.44 | 644 |
+| 184 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 570 | 4.38 | 716 |
+| 185 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 565 | 4.66 | 274 |
 | 186 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 561 | 4.68 | 241 |
 | 187 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 560 | 4.66 | 274 |
 | 188 | [Filament](games/f/filament.md) | 559 | 4.32 | 772 |
@@ -260,7 +260,7 @@
 | 258 | [Hello Neighbor](games/h/hello_neighbor.md) | 233 | 4.55 | 485 |
 | 259 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 232 | 4.81 | 77 |
 | 260 | [Overcooked! 2](games/o/overcooked!_2.md) | 231 | 4.73 | 159 |
-| 261 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 227 | 4.60 | 390 |
+| 261 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 228 | 4.60 | 390 |
 | 262 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 222 | 4.59 | 412 |
 | 263 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 220 | 4.85 | 40 |
 | 264 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 219 | 4.58 | 426 |

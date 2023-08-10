@@ -67,6 +67,7 @@
 | [Alex Kidd in Miracle World DX](../games/a/alex_kidd_in_miracle_world_dx.md) | 16 | 1,000 |
 | [Aliens: Dark Descent](../games/a/aliens__dark_descent.md) | 45 | 1,000 |
 | [Among the Sleep - Enhanced Edition](../games/a/among_the_sleep_-_enhanced_edition.md) | 10 | 1,000 |
+| [Angelo and Deemon: One Hell of a Quest](../games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 17 | 1,000 |
 | [Anna's Quest](../games/a/anna's_quest.md) | 39 | 1,000 |
 | [ANNO Mutationem](../games/a/anno_mutationem.md) | 36 | 1,000 |
 | [Apotheorasis • Lab of the Blind Gods](../games/a/apotheorasis_•_lab_of_the_blind_gods.md) | 22 | 1,000 |
@@ -468,6 +469,7 @@
 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](../games/s/stranger_of_paradise_final_fantasy_origin.md) | 46 | 1,000 |
 | [Strawhart](../games/s/strawhart.md) | 21 | 1,000 |
 | [Stray Blade](../games/s/stray_blade.md) | 46 | 1,000 |
+| [Stray Gods: The Roleplaying Musical](../games/0/0113dd49216f4f2d995ef9a6eebd67f4.md) | 37 | 1,000 |
 | [Suicide Guy](../games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 10 | 1,000 |
 | [Sunless Sea](../games/s/sunless_sea.md) | 54 | 1,000 |
 | [Super Alloy Ranger](../games/s/super_alloy_ranger.md) | 50 | 1,000 |

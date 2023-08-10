@@ -236,6 +236,7 @@
 | [PUBG: BATTLEGROUNDS](../games/p/pubg__battlegrounds.md) | 37 | 1,000 |
 | [RAILGRADE](../games/r/railgrade.md) | 37 | 1,000 |
 | [Salt and Sanctuary](../games/s/salt_and_sanctuary.md) | 37 | 1,000 |
+| [Stray Gods: The Roleplaying Musical](../games/0/0113dd49216f4f2d995ef9a6eebd67f4.md) | 37 | 1,000 |
 | [The Bookwalker: Thief of Tales](../games/a/a6ec40c07ed2404687698a3ea8de36ce.md) | 37 | 1,000 |
 | [The Crown of Wu](../games/t/the_crown_of_wu.md) | 37 | 1,000 |
 | [The Dragoness Command Of The Flame](../games/8/8bf17fa0bd774f72bb06bd095830af2a.md) | 37 | 1,000 |
@@ -467,6 +468,7 @@
 | [Rescue Party: Live!](../games/r/rescue_party__live!.md) | 18 | 1,000 |
 | [The Backroom Project](../games/5/51dd70aea58d47609d82b87473877daa.md) | 18 | 1,000 |
 | [Trail Of Ayash](../games/5/538efd8138f94b088f2d9e3da178edd6.md) | 18 | 1,000 |
+| [Angelo and Deemon: One Hell of a Quest](../games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 17 | 1,000 |
 | [Bloodshore](../games/b/bloodshore.md) | 17 | 1,000 |
 | [Dodo Peak](../games/c/cea01263911a4e179a5e3892ef710930.md) | 17 | 1,000 |
 | [Faraday Protocol](../games/f/faraday_protocol.md) | 17 | 1,000 |
