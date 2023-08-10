@@ -49,7 +49,7 @@ Number of Ratings: 209  (23.09.2022)
 | Bouncy | 61.00% | ~1,337 |
 | Plumbster | 61.00% | ~1,337 |
 | Faster | 60.00% | ~1,315 |
-| Much Magic | 57.00% | ~1,249 |
+| Much Magic | 58.00% | ~1,271 |
 | Chest Detector | 55.00% | ~1,206 |
 | Flames | 52.00% | ~1,140 |
 | Momentum | 46.00% | ~1,008 |
@@ -165,9 +165,9 @@ Completed: 263 (12.00%) (Ranked 18)
 | 2023-08-09 | 2,190 | 263 |
 | 2023-08-10 | 2,192 | 263 |
 ## Awards
-Max (Challenging Puzzles): 99  (Ranked 335)  
+Max (Challenging Puzzles): 99  (Ranked 336)  
 Sum: 99 (Ranked 415)  
-Diff (max vs sum): -80  
+Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 99 |

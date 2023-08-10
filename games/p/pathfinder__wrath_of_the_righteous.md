@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 22.00% | ~2,396 |
+| Devoured by Darkness | 22.00% | ~2,397 |
 | A Spark | 16.00% | ~1,743 |
 | Burning City | 15.00% | ~1,634 |
 | Mythic Choices | 13.00% | ~1,416 |
 | Defender's Heart | 13.00% | ~1,416 |
 | Banner over the Citadel | 12.00% | ~1,307 |
 | Queen's Gratitude | 11.00% | ~1,198 |
-| Fifth Crusade | 7.00% | ~762 |
+| Fifth Crusade | 7.00% | ~763 |
 | Embrace of the Abyss | 5.00% | ~545 |
 | Path of the Angel | 5.00% | ~545 |
 | Great Upstart | 5.00% | ~545 |
@@ -41,9 +41,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Capitulation Is Now Moot | 2.00% | ~218 |
 | Your First Big Enemy | 2.00% | ~218 |
 | Truly Important Deed | 2.00% | ~218 |
-| Stay Underground | 2.00% | ~193 |
-| Hanged Man's Notes | 2.00% | ~193 |
-| Sarkoris Will Be Green | 2.00% | ~193 |
+| Stay Underground | 2.00% | ~194 |
+| Hanged Man's Notes | 2.00% | ~194 |
+| Sarkoris Will Be Green | 2.00% | ~194 |
 | The Final Threshold | 1.00% | ~109 |
 | Strategic Victory | 1.00% | ~109 |
 | Abyssal Conspiracy | 1.00% | ~109 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,892 (Ranked 120)  
+Progressed: 10,894 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-07 | 10,851 | 0 |
 | 2023-08-08 | 10,863 | 0 |
 | 2023-08-09 | 10,877 | 0 |
-| 2023-08-10 | 10,892 | 0 |
+| 2023-08-10 | 10,894 | 0 |
 ## Awards
 Max (Character Customization): 1,699  (Ranked 117)  
 Sum: 6,885 (Ranked 113)  

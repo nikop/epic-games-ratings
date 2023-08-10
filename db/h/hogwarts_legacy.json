@@ -6028,10 +6028,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 40742,
       "NumberOfAwardsMax": 21636
+    },
+    {
+      "Time": "2023-08-10T18:58:33.103687+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40744,
+      "NumberOfAwardsMax": 21636
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40742,
+  "NumberOfAwards": 40744,
   "NumberOfAwardsMax": 21636,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6093,7 +6099,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 923
+      "Count": 925
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6108,9 +6114,9 @@
       "Count": 580
     }
   ],
-  "EOS_Progressed": 289790,
+  "EOS_Progressed": 289793,
   "EOS_Completed": 446,
-  "EOS_NewPlayers": 523,
+  "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -18193,6 +18199,11 @@
       "Time": "2023-08-10T18:06:34.8628958+00:00",
       "NumProgressed": 289790,
       "NumCompleted": 446
+    },
+    {
+      "Time": "2023-08-10T19:05:54.5240978+00:00",
+      "NumProgressed": 289793,
+      "NumCompleted": 446
     }
   ],
   "TotalAchievements": 45,
@@ -18252,7 +18263,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20285
+      "UsersEstimate": 20286
     },
     {
       "ID": "PFA_16",
@@ -18268,7 +18279,7 @@
       "Name": "Beast Friends",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17387
+      "UsersEstimate": 17388
     },
     {
       "ID": "PFA_18",
@@ -18276,7 +18287,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20285
+      "UsersEstimate": 20286
     },
     {
       "ID": "PFA_19",
@@ -18284,7 +18295,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20285
+      "UsersEstimate": 20286
     },
     {
       "ID": "PFA_2",
@@ -18508,7 +18519,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20285
+      "UsersEstimate": 20286
     },
     {
       "ID": "PFA_45",
@@ -18563,16 +18574,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289790,
+      "Progressed": 289793,
       "Completed": 446
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-10T17:58:56.0467028+00:00",
-  "LastChanged_Achievements": "2023-08-10T18:06:34.8628951+00:00",
+  "LastChanged": "2023-08-10T18:58:33.1036869+00:00",
+  "LastChanged_Achievements": "2023-08-10T19:05:54.5240973+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.8672159+00:00",
-  "LastUpdate_Ratings": "2023-08-10T17:58:56.0467035+00:00",
-  "LastUpdate_Achievements": "2023-08-10T18:06:34.8630535+00:00"
+  "LastUpdate_Ratings": "2023-08-10T18:58:33.1036876+00:00",
+  "LastUpdate_Achievements": "2023-08-10T19:05:54.5241816+00:00"
 }

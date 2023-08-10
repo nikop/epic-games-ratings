@@ -12,7 +12,7 @@ Rating: 4.55 (Ranked 485)
 | Ready for a New World | 15.00% | ~458 |
 | Space Society | 14.00% | ~427 |
 | A Thousand Strong | 14.00% | ~427 |
-| Permanent Redesigns | 12.00% | ~366 |
+| Permanent Redesigns | 13.00% | ~396 |
 | Fully Recycled | 11.00% | ~336 |
 | Ain't Nobody Got Time for That | 11.00% | ~336 |
 | The Ship of Theseus | 11.00% | ~336 |
@@ -36,9 +36,9 @@ Rating: 4.55 (Ranked 485)
 | What the Ruins Teach Us | 4.00% | ~122 |
 | ...  in a finite world | 3.00% | ~92 |
 | Sustainable Energy | 3.00% | ~92 |
+| In Dolos We Trust | 3.00% | ~92 |
 | Pedal to the Metal | 3.00% | ~92 |
 | Mutual Loyalty | 2.00% | ~61 |
-| In Dolos We Trust | 2.00% | ~61 |
 | Praise the Hull! | 2.00% | ~61 |
 | Space Greenhouse | 2.00% | ~61 |
 | Delivery! | 2.00% | ~61 |

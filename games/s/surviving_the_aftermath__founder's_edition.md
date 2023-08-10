@@ -6,14 +6,14 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~5,878 |
-| Leader | 61.00% | ~4,980 |
+| First Step | 72.00% | ~5,879 |
+| Leader | 61.00% | ~4,981 |
 | Explorer | 53.00% | ~4,327 |
-| Healer | 52.00% | ~4,245 |
-| Aspiring Inventor | 44.00% | ~3,592 |
-| Adventurer | 41.00% | ~3,347 |
-| Famous Healer | 38.00% | ~3,102 |
-| Local Leader | 35.00% | ~2,857 |
+| Healer | 52.00% | ~4,246 |
+| Aspiring Inventor | 44.00% | ~3,593 |
+| Adventurer | 41.00% | ~3,348 |
+| Famous Healer | 38.00% | ~3,103 |
+| Local Leader | 35.00% | ~2,858 |
 | Famous Explorer | 34.00% | ~2,776 |
 | New Opportunities | 34.00% | ~2,776 |
 | Energized | 33.00% | ~2,694 |
@@ -44,8 +44,8 @@ Number of Ratings: 836  (23.09.2022)
 | Sky Burial | 9.00% | ~735 |
 | Trader | 8.00% | ~653 |
 | Bread and Circuses | 8.00% | ~653 |
-| New Eden | 7.00% | ~571 |
-| Tailored to fit | 7.00% | ~571 |
+| New Eden | 7.00% | ~572 |
+| Tailored to fit | 7.00% | ~572 |
 | Really Friendly | 6.00% | ~490 |
 | Amped Up | 6.00% | ~490 |
 | Look, no Hands! | 5.00% | ~408 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~16 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,164 (Ranked 127)  
+Progressed: 8,165 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,11 +178,11 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-07 | 8,102 | 0 |
 | 2023-08-08 | 8,129 | 0 |
 | 2023-08-09 | 8,154 | 0 |
-| 2023-08-10 | 8,164 | 0 |
+| 2023-08-10 | 8,165 | 0 |
 ## Awards
-Max (Extremely Fun): 99  (Ranked 335)  
+Max (Extremely Fun): 99  (Ranked 336)  
 Sum: 685 (Ranked 275)  
-Diff (max vs sum): 60  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 99 |

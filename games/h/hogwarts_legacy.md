@@ -21,11 +21,11 @@ Rating: 4.77 (Ranked 109)
 | Coasting Along | 9.00% | ~26,081 |
 | Followed the Butterflies | 8.00% | ~23,183 |
 | Rising From the Ashes | 8.00% | ~23,183 |
-| The Avenging Gazelle | 7.00% | ~20,285 |
-| A Sallow Grave | 7.00% | ~20,285 |
-| Flight the Good Flight | 7.00% | ~20,285 |
-| The Spell Master | 7.00% | ~20,285 |
-| Beast Friends | 6.00% | ~17,387 |
+| The Avenging Gazelle | 7.00% | ~20,286 |
+| A Sallow Grave | 7.00% | ~20,286 |
+| Flight the Good Flight | 7.00% | ~20,286 |
+| The Spell Master | 7.00% | ~20,286 |
+| Beast Friends | 6.00% | ~17,388 |
 | The Seeker of Knowledge | 5.00% | ~14,490 |
 | The Root of the Problem | 5.00% | ~14,490 |
 | Third Time's a Charm | 5.00% | ~14,490 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,739 |
 | Collector's Edition | 0.30% | ~869 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,790 (Ranked 42)  
+Progressed: 289,793 (Ranked 42)  
 Completed: 446 (0.15%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,10 +163,10 @@ Completed: 446 (0.15%) (Ranked 188)
 | 2023-08-07 | 289,620 | 443 |
 | 2023-08-08 | 289,682 | 443 |
 | 2023-08-09 | 289,736 | 444 |
-| 2023-08-10 | 289,790 | 446 |
+| 2023-08-10 | 289,793 | 446 |
 ## Awards
 Max (Character Customization): 21,636  (Ranked 17)  
-Sum: 40,742 (Ranked 30)  
+Sum: 40,744 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -175,7 +175,7 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 964 |
 | This game is Extremely Fun | 941 |
 | This game is Relaxing | 934 |
-| This game has Amazing Storytelling | 923 |
+| This game has Amazing Storytelling | 925 |
 | This game has Diverse Characters | 920 |
 | This game has Amazing Characters | 905 |
 | This game is Highly Recommended | 875 |
@@ -324,4 +324,4 @@ Diff (max vs sum): -13
 | 2023-08-07 | 4.77 | 21,597 | 40,644 |
 | 2023-08-08 | 4.77 | 21,619 | 40,677 |
 | 2023-08-09 | 4.77 | 21,636 | 40,721 |
-| 2023-08-10 | 4.77 | 21,636 | 40,742 |
+| 2023-08-10 | 4.77 | 21,636 | 40,744 |

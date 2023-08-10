@@ -523,8 +523,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | There's a Flying Snake in my Boot! | 0.10% | ~187 |
 | An Icewind Dale Reunion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,510 (Ranked 52)  
-Completed: 2,168 (0.98%) (Ranked 113)  
+Progressed: 220,524 (Ranked 52)  
+Completed: 2,169 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -635,7 +635,7 @@ Completed: 2,168 (0.98%) (Ranked 113)
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
 | 2023-08-09 | 220,283 | 2,167 |
-| 2023-08-10 | 220,510 | 2,168 |
+| 2023-08-10 | 220,524 | 2,169 |
 ## Awards
 Max (Diverse Characters): 5,136  (Ranked 67)  
 Sum: 30,985 (Ranked 38)  

@@ -8,9 +8,9 @@ Rating: 3.93 (Ranked 941)
 | I don't feel so good | 41.00% | ~610 |
 | Electrician | 33.00% | ~491 |
 | Fear my botany powers, Mars | 32.00% | ~476 |
-| Zero Waste | 29.00% | ~431 |
-| Bob The Builder | 29.00% | ~431 |
-| I am the greatest botanist on this planet. | 28.00% | ~416 |
+| Zero Waste | 29.00% | ~432 |
+| Bob The Builder | 29.00% | ~432 |
+| I am the greatest botanist on this planet. | 28.00% | ~417 |
 | Gardener | 25.00% | ~372 |
 | Miner | 25.00% | ~372 |
 | Occupy Mars! | 24.00% | ~357 |
@@ -22,7 +22,7 @@ Rating: 3.93 (Ranked 941)
 | Space Forest | 7.00% | ~104 |
 | DeDust | 5.00% | ~74 |
 | ITS crash site | 5.00% | ~74 |
-| “Aliens” | 4.00% | ~59 |
+| “Aliens” | 4.00% | ~60 |
 | Plumber | 3.00% | ~45 |
 | To infinity and beyond! | 3.00% | ~45 |
 | Driver's License | 2.00% | ~30 |
@@ -54,7 +54,7 @@ Rating: 3.93 (Ranked 941)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,487 (Ranked 179)  
+Progressed: 1,488 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-07 | 1,481 | 0 |
 | 2023-08-08 | 1,483 | 0 |
 | 2023-08-09 | 1,485 | 0 |
-| 2023-08-10 | 1,487 | 0 |
+| 2023-08-10 | 1,488 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

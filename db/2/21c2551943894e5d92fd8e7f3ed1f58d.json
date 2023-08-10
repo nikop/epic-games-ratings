@@ -25,9 +25,155 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-10T19:05:45.9964316+00:00",
+  "TotalAchievements": 18,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Ask4Math",
+      "SetID": "7dg4k08",
+      "Name": "Questions are asked here",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AskMoonshiner",
+      "SetID": "7dg4k08",
+      "Name": "Healer",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CatchEger",
+      "SetID": "7dg4k08",
+      "Name": "Sherlock",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CookBait",
+      "SetID": "7dg4k08",
+      "Name": "Chef",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EscapeForest",
+      "SetID": "7dg4k08",
+      "Name": "Naturalist",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FreeAnimals",
+      "SetID": "7dg4k08",
+      "Name": "Free Willy",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GetPhoto",
+      "SetID": "7dg4k08",
+      "Name": "Admirer",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GiveRogatka",
+      "SetID": "7dg4k08",
+      "Name": "Present",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LookNewspaper",
+      "SetID": "7dg4k08",
+      "Name": "Archivist",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MakeDresina",
+      "SetID": "7dg4k08",
+      "Name": "Engineer",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MeetBear",
+      "SetID": "7dg4k08",
+      "Name": "Bear time",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MeetVepr",
+      "SetID": "7dg4k08",
+      "Name": "Boar time",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MeetWolf",
+      "SetID": "7dg4k08",
+      "Name": "Wolf time",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OpenArchive",
+      "SetID": "7dg4k08",
+      "Name": "Digger",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OpenPodcovaLock",
+      "SetID": "7dg4k08",
+      "Name": "Safe-breaker",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PushNecklace",
+      "SetID": "7dg4k08",
+      "Name": "WiFi",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ReturnBook",
+      "SetID": "7dg4k08",
+      "Name": "Librarian",
+      "Percentage": 0,
+      "XP": 65,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SolveMath",
+      "SetID": "7dg4k08",
+      "Name": "Front page",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "7dg4k08",
@@ -37,8 +183,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-09T15:06:23.0648875+00:00",
-  "LastChanged_Achievements": "2023-08-10T18:06:25.2727219+00:00",
+  "LastChanged_Achievements": "2023-08-10T19:05:45.9964297+00:00",
   "LastUpdate_AppInfo": "2023-08-08T09:57:09.0259769+00:00",
-  "LastUpdate_Ratings": "2023-08-10T17:58:10.7660183+00:00",
-  "LastUpdate_Achievements": "2023-08-10T18:06:25.2727256+00:00"
+  "LastUpdate_Ratings": "2023-08-10T18:57:51.2931047+00:00",
+  "LastUpdate_Achievements": "2023-08-10T19:05:45.9994881+00:00"
 }

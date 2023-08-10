@@ -1,7 +1,7 @@
 # WE ARE FOOTBALL
 [Store](https://store.epicgames.com/en-US/p/we-are-football)  
 [View Rawdata](../../db/w/we_are_football.json)  
-Rating: 4.40 (Ranked 696)  
+Rating: 4.41 (Ranked 679)  
 Number of Ratings: 24  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -28,3 +28,4 @@ Number of Ratings: 24  (23.09.2022)
 | 2023-06-19 | 4.45 | - | 0 | 0 |
 | 2023-08-03 | 4.38 | - | 0 | 0 |
 | 2023-08-05 | 4.40 | - | 0 | 0 |
+| 2023-08-10 | 4.41 | - | 0 | 0 |

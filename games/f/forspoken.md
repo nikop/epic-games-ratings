@@ -9,9 +9,9 @@ Rating: 4.15 (Ranked 886)
 | Unlocked Potential | 9.00% | ~3,566 |
 | Tinkerer | 7.00% | ~2,774 |
 | Knock 'Em Dead | 7.00% | ~2,774 |
+| Hell of a Run | 7.00% | ~2,774 |
 | Leapfrogger | 6.00% | ~2,377 |
 | Pilgrimage: Initiate | 6.00% | ~2,377 |
-| Hell of a Run | 6.00% | ~2,377 |
 | Call of the Fount: Baptized | 6.00% | ~2,377 |
 | No Mercy | 5.00% | ~1,981 |
 | Explorer: Seeker | 5.00% | ~1,981 |

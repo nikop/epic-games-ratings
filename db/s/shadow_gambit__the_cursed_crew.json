@@ -2,7 +2,7 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 97,
@@ -268,8 +268,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-10T18:05:47.9941533+00:00",
+  "LastChanged_Achievements": "2023-08-10T19:05:13.0483587+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:49.0938842+00:00",
-  "LastUpdate_Ratings": "2023-08-10T17:59:37.7149138+00:00",
-  "LastUpdate_Achievements": "2023-08-10T18:05:47.9941943+00:00"
+  "LastUpdate_Ratings": "2023-08-10T18:59:11.8590468+00:00",
+  "LastUpdate_Achievements": "2023-08-10T19:05:13.0483726+00:00"
 }

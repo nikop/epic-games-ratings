@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 61.00% | ~318 |
-| Buckle up | 59.00% | ~308 |
-| Quick charge | 59.00% | ~308 |
-| Hands up! | 52.00% | ~271 |
-| Now you know | 52.00% | ~271 |
-| Short circuit | 52.00% | ~271 |
+| I can do a thing or two | 60.00% | ~314 |
+| Buckle up | 59.00% | ~309 |
+| Quick charge | 59.00% | ~309 |
+| Hands up! | 52.00% | ~272 |
+| Now you know | 52.00% | ~272 |
+| Short circuit | 52.00% | ~272 |
 | Curious | 41.00% | ~214 |
 | Everybody lies | 35.00% | ~183 |
 | Trick or Treat? | 23.00% | ~120 |
 | There is another way | 23.00% | ~120 |
 | Sysadmin | 21.00% | ~110 |
-| Annoying | 20.00% | ~104 |
-| Hacker | 20.00% | ~104 |
-| The Walking Robot Among Us | 20.00% | ~104 |
+| Annoying | 20.00% | ~105 |
+| Hacker | 20.00% | ~105 |
+| The Walking Robot Among Us | 20.00% | ~105 |
 | Every little helps | 19.00% | ~99 |
 | He is just a child | 19.00% | ~99 |
 | Concrete painting | 17.00% | ~89 |
 | Uncertain | 17.00% | ~89 |
 | Ace | 16.00% | ~84 |
 | Goody | 16.00% | ~84 |
-| Hipster | 16.00% | ~84 |
-| Not what it seems | 16.00% | ~84 |
 | Please oh pleeease! | 16.00% | ~84 |
 | Found it! | 15.00% | ~78 |
+| Hipster | 15.00% | ~78 |
+| Not what it seems | 15.00% | ~78 |
 | That's much better! | 14.00% | ~73 |
 | Not as clumsy or random | 13.00% | ~68 |
 | Blade Runner | 10.00% | ~52 |
@@ -37,7 +37,7 @@
 | Accurate | 4.00% | ~21 |
 | Silent | 4.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 522 (Ranked 221)  
+Progressed: 523 (Ranked 221)  
 Completed: 15 (2.87%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,6 +112,7 @@ Completed: 15 (2.87%) (Ranked 69)
 | 2023-08-04 | 520 | 15 |
 | 2023-08-06 | 521 | 15 |
 | 2023-08-07 | 522 | 15 |
+| 2023-08-10 | 523 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
