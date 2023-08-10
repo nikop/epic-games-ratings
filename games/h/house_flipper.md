@@ -27,8 +27,8 @@ Number of Ratings: 1,023  (23.09.2022)
 | Negotiator | 0.80% | ~165 |
 | Car Mechanic | 0.70% | ~144 |
 | Do it ASAP | 0.60% | ~124 |
+| Senior Estate Agent | 0.60% | ~124 |
 | Nerd | 0.50% | ~103 |
-| Senior Estate Agent | 0.50% | ~103 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 20,612 (Ranked 105)  
 Completed: 20 (0.10%) (Ranked 199)  

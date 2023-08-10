@@ -2,10 +2,10 @@
   "ID": "9704cc138a58450abe19bbb318866b1c",
   "Name": "Gray Dawn",
   "ProductSlug": "gray-dawn-a0cc44",
-  "Ranking_EOS_Progress": 540,
+  "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2018-06-06T21:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-07T11:01:54.2593242+00:00",
-  "LastChanged_Achievements": "2023-08-10T21:06:44.9254386+00:00",
+  "LastChanged_Achievements": "2023-08-10T22:07:07.4301262+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:04.4296479+00:00",
-  "LastUpdate_Ratings": "2023-08-10T20:58:19.612804+00:00",
-  "LastUpdate_Achievements": "2023-08-10T21:06:44.9254412+00:00"
+  "LastUpdate_Ratings": "2023-08-10T21:58:25.9352155+00:00",
+  "LastUpdate_Achievements": "2023-08-10T22:07:07.4301312+00:00"
 }

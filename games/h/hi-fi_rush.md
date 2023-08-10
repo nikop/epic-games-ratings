@@ -40,7 +40,7 @@ Rating: 4.87 (Ranked 24)
 | I told you I'd be fine, Peppermint! | 1.00% | ~38 |
 | Check out my moves! | 1.00% | ~38 |
 | Call me Turbo Chai | 1.00% | ~24 |
-| I think I found your calling, Macaron | 0.90% | ~34 |
+| I think I found your calling, Macaron | 0.90% | ~35 |
 | I think I deserve some praise, here! | 0.80% | ~31 |
 | I hit things with a guitar really well. | 0.80% | ~31 |
 | We're Jammin' | 0.70% | ~27 |
@@ -51,7 +51,7 @@ Rating: 4.87 (Ranked 24)
 | OK, well THEY came after ME! | 0.40% | ~15 |
 | You ever parry a volcano? | 0.40% | ~15 |
 | Choose your own adventure | 0.40% | ~9 |
-| Easy Listening | 0.30% | ~11 |
+| Easy Listening | 0.30% | ~12 |
 | And the crowd goes wild! | 0.20% | ~8 |
 | Problem solved... wait, what? | 0.20% | ~8 |
 | Now this is how you fight like a team! | 0.20% | ~8 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,832 (Ranked 147)  
+Progressed: 3,835 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 7 (0.18%) (Ranked 181)
 | 2023-08-07 | 3,789 | 7 |
 | 2023-08-08 | 3,807 | 7 |
 | 2023-08-09 | 3,820 | 7 |
-| 2023-08-10 | 3,832 | 7 |
+| 2023-08-10 | 3,835 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

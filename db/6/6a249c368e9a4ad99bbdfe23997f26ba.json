@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2023-05-03T15:00:00+00:00",
@@ -144,9 +144,9 @@
       "ID": "A14",
       "SetID": "7f5j12l",
       "Name": "Pentagon Destroyed",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "A15",
@@ -176,9 +176,9 @@
       "ID": "A18",
       "SetID": "7f5j12l",
       "Name": "Green Flame",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "A19",
@@ -336,9 +336,9 @@
       "ID": "A5",
       "SetID": "7f5j12l",
       "Name": "1M Trees Burnt",
-      "Percentage": 53,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "A6",
@@ -382,8 +382,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-08-10T21:05:05.6026583+00:00",
+  "LastChanged_Achievements": "2023-08-10T22:05:14.1298644+00:00",
   "LastUpdate_AppInfo": "2023-08-08T02:56:56.7121844+00:00",
-  "LastUpdate_Ratings": "2023-08-10T20:57:54.0069496+00:00",
-  "LastUpdate_Achievements": "2023-08-10T21:05:05.602679+00:00"
+  "LastUpdate_Ratings": "2023-08-10T21:57:54.3893647+00:00",
+  "LastUpdate_Achievements": "2023-08-10T22:05:14.1298961+00:00"
 }

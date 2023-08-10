@@ -2,10 +2,10 @@
   "ID": "f0743109c5784d44a1a404a4cee42f20",
   "Name": "At Eve\u0027s Wake Definitive Edition",
   "ProductSlug": "at-eves-wake-definitive-edition",
-  "Ranking_EOS_Progress": 540,
+  "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T06:58:21.5477392+00:00",
   "LastChanged": "2023-03-31T06:58:21.5477393+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:15.9213399+00:00",
-  "LastUpdate_Ratings": "2023-08-10T20:57:26.0195407+00:00",
-  "LastUpdate_Achievements": "2023-08-10T21:05:40.066897+00:00"
+  "LastUpdate_Ratings": "2023-08-10T21:57:24.2541367+00:00",
+  "LastUpdate_Achievements": "2023-08-10T22:05:54.2239165+00:00"
 }

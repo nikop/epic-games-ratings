@@ -6,15 +6,15 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 16.00% | ~101,126 |
-| Incurious | 16.00% | ~101,126 |
-| Stroller | 14.00% | ~88,485 |
-| Climate Change | 14.00% | ~88,485 |
-| Advanced Hiker | 12.00% | ~75,844 |
-| Toy Train | 12.00% | ~75,844 |
-| Hiker | 11.00% | ~69,524 |
+| Advanced Stroller | 16.00% | ~101,128 |
+| Incurious | 16.00% | ~101,128 |
+| Stroller | 14.00% | ~88,487 |
+| Climate Change | 14.00% | ~88,487 |
+| Advanced Hiker | 12.00% | ~75,846 |
+| Toy Train | 12.00% | ~75,846 |
+| Hiker | 11.00% | ~69,525 |
 | Mojave Courier | 5.00% | ~31,602 |
-| Saved by Nausicaä | 4.00% | ~25,281 |
+| Saved by Nausicaä | 4.00% | ~25,282 |
 | Voyager | 3.00% | ~18,961 |
 | Advanced Voyager | 3.00% | ~18,961 |
 | Expert Stroller | 3.00% | ~18,961 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~632 |
 | 20 Miles under the Sea | 0.10% | ~632 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 632,037 (Ranked 25)  
+Progressed: 632,049 (Ranked 25)  
 Completed: 7 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,10 +171,10 @@ Completed: 7 (0.00%) (Ranked 251)
 | 2023-08-07 | 630,804 | 7 |
 | 2023-08-08 | 631,258 | 7 |
 | 2023-08-09 | 631,670 | 7 |
-| 2023-08-10 | 632,037 | 7 |
+| 2023-08-10 | 632,049 | 7 |
 ## Awards
 Max (Great for Beginners): 191  (Ranked 275)  
-Sum: 1,548 (Ranked 215)  
+Sum: 1,550 (Ranked 215)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -184,7 +184,7 @@ Diff (max vs sum): 60
 | This game is Extremely Fun | 182 |
 | This game is Relaxing | 179 |
 | This game has Amazing Characters | 165 |
-| This game has Playful Visuals | 155 |
+| This game has Playful Visuals | 157 |
 | This game is Highly Recommended | 155 |
 | This game has Amazing Storytelling | 144 |
 | This game has Obsessive Gameplay | 138 |
@@ -296,3 +296,4 @@ Diff (max vs sum): 60
 | 2023-08-05 | 4.64 | - | 190 | 1,546 |
 | 2023-08-07 | 4.64 | - | 191 | 1,547 |
 | 2023-08-09 | 4.64 | - | 191 | 1,548 |
+| 2023-08-10 | 4.64 | - | 191 | 1,550 |

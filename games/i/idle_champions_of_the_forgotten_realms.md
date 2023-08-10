@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | There's a Flying Snake in my Boot! | 0.10% | ~187 |
 | An Icewind Dale Reunion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,555 (Ranked 52)  
+Progressed: 220,573 (Ranked 52)  
 Completed: 2,169 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,15 +635,15 @@ Completed: 2,169 (0.98%) (Ranked 113)
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
 | 2023-08-09 | 220,283 | 2,167 |
-| 2023-08-10 | 220,555 | 2,169 |
+| 2023-08-10 | 220,573 | 2,169 |
 ## Awards
 Max (Diverse Characters): 5,136  (Ranked 67)  
-Sum: 30,985 (Ranked 38)  
+Sum: 30,991 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,136 |
-| This game is Great for Beginners | 5,083 |
+| This game is Great for Beginners | 5,089 |
 | This game has Quickly Understood Controls | 4,709 |
 | This game is Relaxing | 4,604 |
 | This game has Amazing Characters | 4,062 |
@@ -848,4 +848,4 @@ Diff (max vs sum): 29
 | 2023-08-07 | 4.06 | - | 5,121 | 30,936 |
 | 2023-08-08 | 4.06 | - | 5,125 | 30,950 |
 | 2023-08-09 | 4.06 | - | 5,128 | 30,971 |
-| 2023-08-10 | 4.06 | - | 5,136 | 30,985 |
+| 2023-08-10 | 4.06 | - | 5,136 | 30,991 |

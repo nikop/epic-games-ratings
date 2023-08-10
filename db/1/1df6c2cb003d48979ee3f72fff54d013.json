@@ -2,10 +2,10 @@
   "ID": "1df6c2cb003d48979ee3f72fff54d013",
   "Name": "Chicken Journey",
   "ProductSlug": "chicken-journey-415550",
-  "Ranking_EOS_Progress": 540,
+  "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-08-22T16:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-10T19:57:07.1709989+00:00",
-  "LastUpdate_Ratings": "2023-08-10T20:58:14.6867112+00:00",
-  "LastUpdate_Achievements": "2023-08-10T21:04:10.7647104+00:00"
+  "LastUpdate_Ratings": "2023-08-10T21:58:20.8605014+00:00",
+  "LastUpdate_Achievements": "2023-08-10T22:04:07.7269405+00:00"
 }

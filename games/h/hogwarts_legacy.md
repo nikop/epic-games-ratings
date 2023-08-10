@@ -1,7 +1,7 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.77 (Ranked 109)  
+Rating: 4.77 (Ranked 108)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -51,8 +51,8 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,739 |
 | Collector's Edition | 0.30% | ~869 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,800 (Ranked 42)  
-Completed: 446 (0.15%) (Ranked 188)  
+Progressed: 289,802 (Ranked 42)  
+Completed: 447 (0.15%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -163,10 +163,10 @@ Completed: 446 (0.15%) (Ranked 188)
 | 2023-08-07 | 289,620 | 443 |
 | 2023-08-08 | 289,682 | 443 |
 | 2023-08-09 | 289,736 | 444 |
-| 2023-08-10 | 289,800 | 446 |
+| 2023-08-10 | 289,802 | 447 |
 ## Awards
 Max (Character Customization): 21,636  (Ranked 17)  
-Sum: 40,744 (Ranked 30)  
+Sum: 40,751 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -174,11 +174,11 @@ Diff (max vs sum): -13
 | This game has Great Boss Battles | 10,456 |
 | This game is Great for Beginners | 964 |
 | This game is Extremely Fun | 941 |
-| This game is Relaxing | 934 |
+| This game is Relaxing | 938 |
 | This game has Amazing Storytelling | 925 |
 | This game has Diverse Characters | 920 |
 | This game has Amazing Characters | 905 |
-| This game is Highly Recommended | 875 |
+| This game is Highly Recommended | 878 |
 | This game has Quickly Understood Controls | 832 |
 | This game has Beautiful Visuals | 776 |
 | This game has a Creative Community | 580 |
@@ -324,4 +324,4 @@ Diff (max vs sum): -13
 | 2023-08-07 | 4.77 | 21,597 | 40,644 |
 | 2023-08-08 | 4.77 | 21,619 | 40,677 |
 | 2023-08-09 | 4.77 | 21,636 | 40,721 |
-| 2023-08-10 | 4.77 | 21,636 | 40,744 |
+| 2023-08-10 | 4.77 | 21,636 | 40,751 |
