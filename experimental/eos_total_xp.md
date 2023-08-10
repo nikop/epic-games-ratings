@@ -579,5 +579,6 @@
 | [Zoeti](../games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 30 | 1,000 |
 | [Zombie Army 4: Dead War](../games/z/zombie_army_4__dead_war.md) | 66 | 1,000 |
 | [Zombie Rollerz: Pinball Heroes](../games/z/zombie_rollerz__pinball_heroes.md) | 73 | 1,000 |
+| [Zombie Soup](../games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 46 | 1,000 |
 | [Zombie Watch](../games/0/0843063034aa4b43bbc3114f19c6090f.md) | 23 | 1,000 |
 | [ZZT!](../games/z/zzt!.md) | 5 | 1,000 |

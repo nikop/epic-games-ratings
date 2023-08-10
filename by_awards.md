@@ -25,7 +25,7 @@
 | 23 | [League of Legends](games/l/league_of_legends.md) | 15,254 | 4.21 | 848 |
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,014 | 4.76 | 118 |
 | 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,442 | 4.58 | 426 |
-| 26 | [Maneater](games/m/maneater.md) | 13,615 | 4.49 | 575 |
+| 26 | [Maneater](games/m/maneater.md) | 13,617 | 4.49 | 575 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,567 | 4.60 | 391 |
 | 28 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 13,124 | 4.60 | 391 |
 | 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,623 | 4.36 | 735 |
@@ -66,7 +66,7 @@
 | 64 | [Dead Island 2](games/d/dead_island_2.md) | 5,598 | 4.54 | 497 |
 | 65 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,540 | 4.85 | 40 |
 | 66 | [Rogue Company](games/r/rogue_company.md) | 5,241 | 4.33 | 764 |
-| 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,128 | 4.06 | 917 |
+| 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,128 | 4.06 | 918 |
 | 68 | [Cities: Skylines](games/c/cities__skylines.md) | 5,102 | 4.65 | 298 |
 | 69 | [MultiVersus](games/m/multiversus.md) | 4,746 | 4.56 | 468 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,706 | 4.69 | 212 |
@@ -184,8 +184,8 @@
 | 182 | [Star Trek Online](games/s/star_trek_online.md) | 572 | 4.44 | 644 |
 | 183 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 570 | 4.38 | 716 |
 | 184 | [Remnant 2](games/r/remnant_2.md) | 565 | 4.78 | 101 |
-| 185 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 561 | 4.68 | 241 |
-| 185 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 561 | 4.66 | 274 |
+| 184 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 565 | 4.66 | 274 |
+| 186 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 561 | 4.68 | 241 |
 | 187 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 560 | 4.66 | 274 |
 | 188 | [Filament](games/f/filament.md) | 559 | 4.32 | 772 |
 | 189 | [Riders Republic](games/r/riders_republic.md) | 558 | 4.75 | 135 |
@@ -202,7 +202,7 @@
 | 200 | [Ghostrunner](games/g/ghostrunner.md) | 474 | 4.72 | 171 |
 | 201 | [Surviving Mars](games/s/surviving_mars.md) | 472 | 4.60 | 391 |
 | 202 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 274 |
-| 203 | [Second Extinction™](games/s/second_extinction™.md) | 456 | 4.05 | 919 |
+| 203 | [Second Extinction™](games/s/second_extinction™.md) | 456 | 4.05 | 920 |
 | 204 | [Dishonored 2](games/d/dishonored_2.md) | 443 | 4.79 | 88 |
 | 205 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 435 | 4.40 | 696 |
 | 206 | [RimWorld](games/r/rimworld.md) | 427 | 4.89 | 12 |
@@ -255,8 +255,8 @@
 | 253 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 247 | 4.49 | 575 |
 | 254 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 246 | 4.56 | 468 |
 | 255 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 242 | 4.45 | 633 |
-| 256 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 237 | 4.84 | 49 |
-| 257 | [Severed Steel](games/s/severed_steel.md) | 235 | 4.69 | 212 |
+| 256 | [Severed Steel](games/s/severed_steel.md) | 238 | 4.69 | 212 |
+| 257 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 237 | 4.84 | 49 |
 | 258 | [Hello Neighbor](games/h/hello_neighbor.md) | 232 | 4.55 | 485 |
 | 258 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 232 | 4.81 | 77 |
 | 260 | [Overcooked! 2](games/o/overcooked!_2.md) | 231 | 4.73 | 159 |

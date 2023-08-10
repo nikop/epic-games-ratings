@@ -158,6 +158,7 @@
 | [Stray Blade](../games/s/stray_blade.md) | 46 | 1,000 |
 | [System Shock](../games/s/system_shock.md) | 46 | 1,000 |
 | [Trifox](../games/t/trifox.md) | 46 | 1,000 |
+| [Zombie Soup](../games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 46 | 1,000 |
 | [Aliens: Dark Descent](../games/a/aliens__dark_descent.md) | 45 | 1,000 |
 | [Dead Island 2](../games/d/dead_island_2.md) | 45 | 1,000 |
 | [Dice Legacy](../games/d/dice_legacy.md) | 45 | 1,000 |

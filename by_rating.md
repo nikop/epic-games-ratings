@@ -54,7 +54,7 @@
 | 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 417 | 209 |
 | 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 262 | 247 |
 | 49 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 25 | 480 |
-| 49 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.84 | 237 | 256 |
+| 49 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.84 | 237 | 257 |
 | 49 | [Subnautica](games/s/subnautica.md) | 4.84 | 683 | 168 |
 | 49 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 0 | 511 |
 | 49 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.84 | 0 | 511 |
@@ -227,7 +227,7 @@
 | 212 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 511 |
 | 212 | [Revita](games/r/revita.md) | 4.69 | 0 | 511 |
 | 212 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,358 | 33 |
-| 212 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 235 | 257 |
+| 212 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 238 | 256 |
 | 212 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 469 |
 | 212 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.69 | 0 | 511 |
 | 212 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 0 | 511 |
@@ -253,7 +253,7 @@
 | 241 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 511 |
 | 241 | [King of Retail](games/k/king_of_retail.md) | 4.68 | 0 | 511 |
 | 241 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 425 | 207 |
-| 241 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 561 | 185 |
+| 241 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 561 | 186 |
 | 241 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 679 | 169 |
 | 241 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.68 | 52 | 396 |
 | 241 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 89 | 350 |
@@ -291,7 +291,7 @@
 | 274 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 560 | 187 |
 | 274 | [SOMA](games/s/soma.md) | 4.66 | 0 | 511 |
 | 274 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 0 | 511 |
-| 274 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 561 | 185 |
+| 274 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 565 | 184 |
 | 274 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.66 | 0 | 511 |
 | 274 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,827 | 59 |
 | 274 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 202 |
@@ -583,7 +583,7 @@
 | 575 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 244 |
 | 575 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 0 | 511 |
 | 575 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 247 | 253 |
-| 575 | [Maneater](games/m/maneater.md) | 4.49 | 13,615 | 26 |
+| 575 | [Maneater](games/m/maneater.md) | 4.49 | 13,617 | 26 |
 | 575 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 451 |
 | 575 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.49 | 0 | 511 |
 | 575 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 498,401 | 2 |
@@ -914,13 +914,13 @@
 | 908 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 0 | 511 |
 | 908 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 0 | 511 |
 | 908 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 511 |
+| 915 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.07 | 0 | 511 |
 | 915 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 535 | 194 |
 | 915 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 181 | 281 |
-| 917 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,128 | 67 |
-| 917 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 511 |
-| 919 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 511 |
-| 919 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.05 | 0 | 511 |
-| 919 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 456 | 203 |
+| 918 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,128 | 67 |
+| 918 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 511 |
+| 920 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 511 |
+| 920 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 456 | 203 |
 | 922 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 0 | 511 |
 | 922 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 511 |
 | 922 | [Pinball FX](games/p/pinball_fx.md) | 4.04 | 185 | 278 |
