@@ -28,8 +28,8 @@
 | 26 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.76% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.76% |
 | 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.71% |
-| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.43% |
-| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
+| 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.40% |
+| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
 | 31 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
 | 32 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.47% |
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -72,9 +72,9 @@
 | 70 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 71 | [Destiny 2](games/d/destiny_2.md) | 2.75% |
 | 72 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 73 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.70% |
-| 74 | [The Bunker](games/t/the_bunker.md) | 2.68% |
-| 75 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.63% |
+| 73 | [The Bunker](games/t/the_bunker.md) | 2.68% |
+| 74 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.63% |
+| 74 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.63% |
 | 76 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.61% |
 | 77 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.59% |
@@ -114,7 +114,7 @@
 | 112 | [Adios](games/a/adios.md) | 1.00% |
 | 113 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.98% |
 | 113 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 115 | [Sable](games/s/sable.md) | 0.97% |
+| 113 | [Sable](games/s/sable.md) | 0.98% |
 | 116 | [Hades](games/h/hades.md) | 0.90% |
 | 117 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 118 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
