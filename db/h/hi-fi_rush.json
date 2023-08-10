@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,7 +112,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3825,
+  "EOS_Progressed": 3826,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 1,
@@ -5612,6 +5612,11 @@
       "Time": "2023-08-10T06:05:20.7422475+00:00",
       "NumProgressed": 3825,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-10T09:06:24.7722504+00:00",
+      "NumProgressed": 3826,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -5687,7 +5692,7 @@
       "Name": "Well that was a rush!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Ach010",
@@ -5807,7 +5812,7 @@
       "Name": "Beat-hit mania",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Ach025",
@@ -5887,7 +5892,7 @@
       "Name": "That\u0027s a lot of junk metal\u2026",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Ach035",
@@ -5975,7 +5980,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Ach046",
@@ -6190,13 +6195,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3825,
+      "Progressed": 3826,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2346,
+      "Progressed": 2347,
       "Completed": 1928
     }
   ],
@@ -6204,8 +6209,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-08-10T08:04:59.6683208+00:00",
+  "LastChanged_Achievements": "2023-08-10T09:06:24.7722498+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:24.9640697+00:00",
-  "LastUpdate_Ratings": "2023-08-10T07:59:11.5905567+00:00",
-  "LastUpdate_Achievements": "2023-08-10T08:04:59.6684346+00:00"
+  "LastUpdate_Ratings": "2023-08-10T09:00:47.898259+00:00",
+  "LastUpdate_Achievements": "2023-08-10T09:06:24.7723597+00:00"
 }

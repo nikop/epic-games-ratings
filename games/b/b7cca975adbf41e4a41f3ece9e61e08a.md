@@ -8,24 +8,25 @@
 | I Challenge You To Save More Money! | 67.00% | ~2 |
 | I Love How Tough You Are | 67.00% | ~2 |
 | Wanna Come To My Place For Dinner? | 67.00% | ~2 |
+| What I Want Is You | 67.00% | ~2 |
 | FIRST LOVE | 67.00% | ~2 |
 | Are You Alright? | 67.00% | ~2 |
 | You're Really Something Else | 67.00% | ~2 |
 | Life Is A Rollercoaster | 33.00% | ~1 |
+| Lover In Dark Alley | 33.00% | ~1 |
 | Days Of Innocence | 33.00% | ~1 |
 | A Slap In The Face! | 33.00% | ~1 |
 | Love You Three Thousand | 33.00% | ~1 |
 | Hurrah! | 33.00% | ~1 |
 | Love Actually | 33.00% | ~1 |
 | The Flash | 33.00% | ~1 |
-| What I Want Is You | 33.00% | ~1 |
 | To Be Or Not To Be | 33.00% | ~1 |
+| ONE PUNCH | 33.00% | ~1 |
 | Go Clean up In Your Own Way | 33.00% | ~1 |
 | My Dear Love! | 0.00% | ~0 |
 | Doesn't Matter I'll Handle It | 0.00% | ~0 |
 | Off We Sail Tonight | 0.00% | ~0 |
 | All I Have Is Money | 0.00% | ~0 |
-| Lover In Dark Alley | 0.00% | ~0 |
 | Boys Need To Protect Themselves | 0.00% | ~0 |
 | Go Get Some Fries On The Pier | 0.00% | ~0 |
 | Happy Family | 0.00% | ~0 |
@@ -38,7 +39,6 @@
 | Stubborn Noob | 0.00% | ~0 |
 | Tall; Grande; Venti | 0.00% | ~0 |
 | Limerence | 0.00% | ~0 |
-| ONE PUNCH | 0.00% | ~0 |
 | Drama CP: Reel to Real | 0.00% | ~0 |
 | David | 0.00% | ~0 |
 | That's So You | 0.00% | ~0 |

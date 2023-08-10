@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -331,9 +331,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1796,
+  "EOS_Progressed": 1797,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1791,6 +1791,11 @@
       "Time": "2023-08-09T20:05:22.9177428+00:00",
       "NumProgressed": 1796,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-10T09:07:05.896328+00:00",
+      "NumProgressed": 1797,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1834,7 +1839,7 @@
       "Name": "Dog Days",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_DO_NOT_PASS_GO",
@@ -1866,7 +1871,7 @@
       "Name": "Fallen Star",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_FOR_BALANCE",
@@ -1874,7 +1879,7 @@
       "Name": "For Balance",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_FULL_HOUSE",
@@ -1922,7 +1927,7 @@
       "Name": "Here Comes Santa Claus",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_IT_ALL_DIES",
@@ -2048,9 +2053,9 @@
       "ID": "ACH_PERKY",
       "SetID": "8j30i9k",
       "Name": "Perky",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1168
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2098,7 +2103,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2178,7 +2183,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2210,7 +2215,7 @@
       "Name": "Winds of War",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_WORKERS_RIGHTS",
@@ -2225,15 +2230,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1796,
+      "Progressed": 1797,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-02T19:59:24.9286429+00:00",
-  "LastChanged_Achievements": "2023-08-10T08:05:34.2683673+00:00",
+  "LastChanged_Achievements": "2023-08-10T09:07:05.8963275+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:22.9454252+00:00",
-  "LastUpdate_Ratings": "2023-08-10T07:59:10.4231596+00:00",
-  "LastUpdate_Achievements": "2023-08-10T08:05:34.2684272+00:00"
+  "LastUpdate_Ratings": "2023-08-10T09:00:46.3751359+00:00",
+  "LastUpdate_Achievements": "2023-08-10T09:07:05.8963793+00:00"
 }

@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 929)  
+Rating: 3.99 (Ranked 928)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -50,6 +50,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | This Power Level...! | 0.20% | ~268 |
 | Omae wa Mou Shindeiru | 0.20% | ~268 |
 | Master of Transmutation | 0.20% | ~268 |
+| Hidden Potential | 0.20% | ~268 |
 | Power of Love | 0.20% | ~268 |
 | Expansion in Session | 0.20% | ~268 |
 | Ritualist | 0.20% | ~268 |
@@ -84,7 +85,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fillin' the Bin | 0.10% | ~134 |
 | Industrial Evolution | 0.10% | ~134 |
 | Oligarch Monarch | 0.10% | ~134 |
-| Hidden Potential | 0.10% | ~134 |
 | Unleashed Potential | 0.10% | ~134 |
 | Supercharged | 0.10% | ~134 |
 | Thank You Tom Nook | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,239 (Ranked 65)  
+Progressed: 134,242 (Ranked 65)  
 Completed: 131 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-07 | 134,099 | 130 |
 | 2023-08-08 | 134,169 | 131 |
 | 2023-08-09 | 134,223 | 131 |
-| 2023-08-10 | 134,239 | 131 |
+| 2023-08-10 | 134,242 | 131 |
 ## Awards
 Max (Great for Beginners): 4,694  (Ranked 71)  
 Sum: 27,074 (Ranked 46)  

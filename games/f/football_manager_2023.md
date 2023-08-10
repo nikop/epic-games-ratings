@@ -5,15 +5,15 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 77.00% | ~63,366 |
-| The Player Whisperer | 76.00% | ~62,543 |
+| Motivational Speaker | 77.00% | ~63,367 |
+| The Player Whisperer | 76.00% | ~62,544 |
 | One of Us, One of Us! | 73.00% | ~60,075 |
-| Clean Sheet | 68.00% | ~55,960 |
-| First Victory | 68.00% | ~55,960 |
-| #DoneDeal | 67.00% | ~55,137 |
-| Off the Books | 66.00% | ~54,314 |
-| Super-Sub | 65.00% | ~53,491 |
-| Hat-trick | 60.00% | ~49,376 |
+| Clean Sheet | 68.00% | ~55,961 |
+| First Victory | 68.00% | ~55,961 |
+| #DoneDeal | 67.00% | ~55,138 |
+| Off the Books | 66.00% | ~54,315 |
+| Super-Sub | 65.00% | ~53,492 |
+| Hat-trick | 60.00% | ~49,377 |
 | "I Would Love It If We Beat Them" | 58.00% | ~47,731 |
 | Planned Signing | 58.00% | ~47,731 |
 | Thumping | 53.00% | ~43,616 |
@@ -21,11 +21,11 @@ Rating: 4.76 (Ranked 118)
 | People Pleaser | 52.00% | ~42,793 |
 | Wheeler Dealer | 52.00% | ~42,793 |
 | Unbeatable! | 51.00% | ~41,970 |
-| One Of Our Own | 48.00% | ~39,501 |
-| They're a Natural | 45.00% | ~37,032 |
-| Team Performance | 44.00% | ~36,209 |
-| Record Signing | 44.00% | ~36,209 |
-| The Only Stat That Matters | 44.00% | ~36,209 |
+| One Of Our Own | 48.00% | ~39,502 |
+| They're a Natural | 45.00% | ~37,033 |
+| Team Performance | 44.00% | ~36,210 |
+| Record Signing | 44.00% | ~36,210 |
+| The Only Stat That Matters | 44.00% | ~36,210 |
 | Full Faith | 41.00% | ~33,741 |
 | Star Player | 41.00% | ~33,741 |
 | Squad Goals | 40.00% | ~32,918 |
@@ -45,10 +45,10 @@ Rating: 4.76 (Ranked 118)
 | Splashing the Cash | 33.00% | ~27,157 |
 | Drilling Down | 31.00% | ~25,511 |
 | Goal Machine | 31.00% | ~25,511 |
-| Immovable Object | 29.00% | ~23,865 |
-| Cup Glory! | 29.00% | ~23,865 |
-| Cash to Burn | 28.00% | ~23,042 |
-| Irresistible Force | 27.00% | ~22,219 |
+| Immovable Object | 29.00% | ~23,866 |
+| Cup Glory! | 29.00% | ~23,866 |
+| Cash to Burn | 28.00% | ~23,043 |
+| Irresistible Force | 27.00% | ~22,220 |
 | Do The Double | 24.00% | ~19,751 |
 | A Game of Two Halves | 22.00% | ~18,105 |
 | Top Form | 20.00% | ~16,459 |
@@ -67,8 +67,8 @@ Rating: 4.76 (Ranked 118)
 | Second Hand Signing | 11.00% | ~9,052 |
 | Invincible! | 11.00% | ~9,052 |
 | Domination | 11.00% | ~9,052 |
-| Total Support | 10.00% | ~8,229 |
-| You Can Buy Happiness | 10.00% | ~8,229 |
+| Total Support | 10.00% | ~8,230 |
+| You Can Buy Happiness | 10.00% | ~8,230 |
 | Invitational | 8.00% | ~6,584 |
 | Legend | 7.00% | ~5,761 |
 | World Beaters | 7.00% | ~5,761 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 118)
 | Versus Anyone | 0.10% | ~82 |
 | 200 Club | 0.10% | ~82 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,294 (Ranked 74)  
+Progressed: 82,295 (Ranked 74)  
 Completed: 23 (0.03%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,10 +218,10 @@ Completed: 23 (0.03%) (Ranked 226)
 | 2023-08-07 | 81,990 | 23 |
 | 2023-08-08 | 82,143 | 23 |
 | 2023-08-09 | 82,265 | 23 |
-| 2023-08-10 | 82,294 | 23 |
+| 2023-08-10 | 82,295 | 23 |
 ## Awards
 Max (Diverse Characters): 597  (Ranked 181)  
-Sum: 4,300 (Ranked 136)  
+Sum: 4,303 (Ranked 136)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -230,7 +230,7 @@ Diff (max vs sum): 45
 | This game is Extremely Fun | 508 |
 | This game is Educational | 493 |
 | This game is Relaxing | 486 |
-| This game has Competitive Players | 446 |
+| This game has Competitive Players | 449 |
 | This game has Quickly Understood Controls | 433 |
 | This game has Amazing Storytelling | 411 |
 | This game has Amazing Characters | 405 |
@@ -403,3 +403,4 @@ Diff (max vs sum): 45
 | 2023-08-07 | 4.75 | 590 | 4,275 |
 | 2023-08-08 | 4.75 | 591 | 4,283 |
 | 2023-08-09 | 4.76 | 597 | 4,300 |
+| 2023-08-10 | 4.76 | 597 | 4,303 |

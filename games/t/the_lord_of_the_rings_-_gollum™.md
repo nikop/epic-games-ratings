@@ -12,7 +12,7 @@
 | The Maggot | 27.00% | ~136 |
 | Memories | 27.00% | ~136 |
 | The Breeder | 23.00% | ~116 |
-| The Veteran | 18.00% | ~91 |
+| The Veteran | 19.00% | ~96 |
 | The Traitor | 15.00% | ~75 |
 | The Spider | 14.00% | ~70 |
 | Good as Fish | 11.00% | ~55 |

@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 37,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.7,
   "EosHistory": [
@@ -259,9 +259,9 @@
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 38,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "Kamzik",
@@ -291,17 +291,17 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 65,
+      "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "MluviciPapouch",
@@ -458,8 +458,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-08-10T08:03:51.6254185+00:00",
+  "LastChanged_Achievements": "2023-08-10T09:04:44.7824078+00:00",
   "LastUpdate_AppInfo": "2023-08-04T15:57:19.5735536+00:00",
-  "LastUpdate_Ratings": "2023-08-10T07:57:33.0432947+00:00",
-  "LastUpdate_Achievements": "2023-08-10T08:03:51.6254439+00:00"
+  "LastUpdate_Ratings": "2023-08-10T08:58:42.062942+00:00",
+  "LastUpdate_Achievements": "2023-08-10T09:04:44.7824333+00:00"
 }

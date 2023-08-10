@@ -56,20 +56,20 @@
 | Problems of cyborgs | 31.00% | ~75 |
 | Absolute Champion! | 31.00% | ~75 |
 | Undercover robot | 31.00% | ~75 |
+| Not little hacker | 30.00% | ~73 |
 | The last bell ring | 30.00% | ~73 |
 | Careerist | 30.00% | ~73 |
+| Trap disarmed | 29.00% | ~70 |
 | The lonesome road | 29.00% | ~70 |
 | Key memories | 29.00% | ~70 |
-| Not little hacker | 29.00% | ~70 |
 | Anyone can resist | 29.00% | ~70 |
 | The heart of the Resistance | 29.00% | ~70 |
-| Trap disarmed | 28.00% | ~68 |
 | Another world | 28.00% | ~68 |
 | Keep nature safe | 28.00% | ~68 |
 | Family comes first | 28.00% | ~68 |
 | Silver’s past | 25.00% | ~60 |
+| Better cooking at home | 25.00% | ~60 |
 | The only right decision | 25.00% | ~60 |
-| Better cooking at home | 24.00% | ~58 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 242 (Ranked 270)  
 Completed: 8 (3.31%) (Ranked 63)  

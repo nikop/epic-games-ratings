@@ -4,7 +4,7 @@
   "ProductSlug": "my-little-pony-a-maretime-bay-adventure-6a2cce",
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 4,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
@@ -205,8 +205,8 @@
   "FirstSeenRating": "2023-03-31T05:58:26.3358258+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:29.30737+00:00",
   "LastChanged": "2023-03-31T05:58:26.335826+00:00",
-  "LastChanged_Achievements": "2023-08-10T08:03:08.9986502+00:00",
+  "LastChanged_Achievements": "2023-08-10T09:03:23.8452968+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:43.2589438+00:00",
-  "LastUpdate_Ratings": "2023-08-10T07:59:25.0713766+00:00",
-  "LastUpdate_Achievements": "2023-08-10T08:03:08.9986616+00:00"
+  "LastUpdate_Ratings": "2023-08-10T09:01:06.5718854+00:00",
+  "LastUpdate_Achievements": "2023-08-10T09:03:23.8453133+00:00"
 }

@@ -16,7 +16,7 @@
 | Briget's | 49.00% | ~45 |
 | Sound of Noise | 46.00% | ~42 |
 | Big City Music | 45.00% | ~41 |
-| Love at First Sight | 41.00% | ~37 |
+| Love at First Sight | 42.00% | ~38 |
 | First Kiss | 34.00% | ~31 |
 | Symbiosis | 33.00% | ~30 |
 | A Bigger Band | 31.00% | ~28 |

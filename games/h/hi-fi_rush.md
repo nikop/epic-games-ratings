@@ -31,10 +31,10 @@ Rating: 4.87 (Ranked 24)
 | NOW we got a kickass hideout! | 4.00% | ~94 |
 | I have to read these things? | 3.00% | ~115 |
 | Perfecter Parry-er! | 3.00% | ~115 |
-| Well that was a rush! | 2.00% | ~76 |
-| Beat-hit mania | 2.00% | ~76 |
-| That's a lot of junk metal… | 2.00% | ~76 |
-| There's such a thing as TOO helpful | 2.00% | ~76 |
+| Well that was a rush! | 2.00% | ~77 |
+| Beat-hit mania | 2.00% | ~77 |
+| That's a lot of junk metal… | 2.00% | ~77 |
+| There's such a thing as TOO helpful | 2.00% | ~77 |
 | Chip-tuned | 1.00% | ~38 |
 | Wanna hear my playlist? | 1.00% | ~38 |
 | I told you I'd be fine, Peppermint! | 1.00% | ~38 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,825 (Ranked 147)  
+Progressed: 3,826 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 7 (0.18%) (Ranked 181)
 | 2023-08-07 | 3,789 | 7 |
 | 2023-08-08 | 3,807 | 7 |
 | 2023-08-09 | 3,820 | 7 |
-| 2023-08-10 | 3,825 | 7 |
+| 2023-08-10 | 3,826 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

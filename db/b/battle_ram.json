@@ -4,7 +4,7 @@
   "ProductSlug": "battle-ram-d001fd",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-04T18:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 200,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -848,9 +848,9 @@
       "ID": "ach_10",
       "SetID": "392n4e7",
       "Name": "Senior warrant officer Baran 3rd class",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_11",
@@ -1023,8 +1023,8 @@
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-08-10T08:03:25.5319986+00:00",
+  "LastChanged_Achievements": "2023-08-10T09:04:13.5291188+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:50.3055524+00:00",
-  "LastUpdate_Ratings": "2023-08-10T07:58:48.2315208+00:00",
-  "LastUpdate_Achievements": "2023-08-10T08:03:25.5320239+00:00"
+  "LastUpdate_Ratings": "2023-08-10T09:00:15.3465112+00:00",
+  "LastUpdate_Achievements": "2023-08-10T09:04:13.5291401+00:00"
 }

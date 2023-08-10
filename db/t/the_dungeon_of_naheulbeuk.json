@@ -612,9 +612,9 @@
       "Count": 157
     }
   ],
-  "EOS_Progressed": 209664,
+  "EOS_Progressed": 209676,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4342,
+  "EOS_NewPlayers": 4337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6347,6 +6347,11 @@
       "Time": "2023-08-10T08:04:16.5906784+00:00",
       "NumProgressed": 209664,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-10T09:05:25.320829+00:00",
+      "NumProgressed": 209676,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -6732,9 +6737,9 @@
       "ID": "DifficultyLegendary",
       "SetID": "50chcgj",
       "Name": "And they lived happily ever after...",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 210
     },
     {
       "ID": "DifficultyStory",
@@ -6806,7 +6811,7 @@
       "Name": "Sowwy!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4193
+      "UsersEstimate": 4194
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7061,21 +7066,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 209664,
+      "Progressed": 209676,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 209664,
+      "Progressed": 209676,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-08T15:00:26.9457471+00:00",
-  "LastChanged_Achievements": "2023-08-10T08:04:16.5906775+00:00",
+  "LastChanged_Achievements": "2023-08-10T09:05:25.3208284+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:59.1388847+00:00",
-  "LastUpdate_Ratings": "2023-08-10T07:59:38.170858+00:00",
-  "LastUpdate_Achievements": "2023-08-10T08:04:16.5908575+00:00"
+  "LastUpdate_Ratings": "2023-08-10T09:01:22.0297564+00:00",
+  "LastUpdate_Achievements": "2023-08-10T09:05:25.3209558+00:00"
 }

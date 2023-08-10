@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 417,
+  "EOS_Progressed": 418,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1456,6 +1456,11 @@
       "Time": "2023-08-10T02:04:46.2355544+00:00",
       "NumProgressed": 417,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-10T09:05:16.5081487+00:00",
+      "NumProgressed": 418,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1483,7 +1488,7 @@
       "Name": "Basic Controls",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "BigPlane",
@@ -1499,7 +1504,7 @@
       "Name": "Budget Flight",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Calculated",
@@ -1515,7 +1520,7 @@
       "Name": "That Was Close!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Creator",
@@ -1739,7 +1744,7 @@
       "Name": "Resource Economy",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Restructuring",
@@ -1795,21 +1800,21 @@
       "Name": "Transport Hub",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 417,
+      "Progressed": 418,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-10T08:04:09.3686765+00:00",
+  "LastChanged_Achievements": "2023-08-10T09:05:16.5081481+00:00",
   "LastUpdate_AppInfo": "2023-08-08T09:57:08.8049203+00:00",
-  "LastUpdate_Ratings": "2023-08-10T07:57:44.0599617+00:00",
-  "LastUpdate_Achievements": "2023-08-10T08:04:09.3687261+00:00"
+  "LastUpdate_Ratings": "2023-08-10T08:58:55.5105703+00:00",
+  "LastUpdate_Achievements": "2023-08-10T09:05:16.5081881+00:00"
 }

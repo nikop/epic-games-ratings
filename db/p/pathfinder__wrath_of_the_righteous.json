@@ -3428,7 +3428,7 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10883,
+  "EOS_Progressed": 10884,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
@@ -10498,6 +10498,11 @@
       "Time": "2023-08-10T05:04:38.602669+00:00",
       "NumProgressed": 10883,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-10T09:04:51.2092899+00:00",
+      "NumProgressed": 10884,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10517,7 +10522,7 @@
       "Name": "Burning City",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -10549,7 +10554,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "07_FinalThreshold",
@@ -10597,7 +10602,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "13_PathOfLich",
@@ -10749,7 +10754,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "33_DefendersHeart",
@@ -10781,7 +10786,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -10893,7 +10898,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -11436,21 +11441,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9665,
+      "Progressed": 9666,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10883,
+      "Progressed": 10884,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-09T21:00:26.5598787+00:00",
-  "LastChanged_Achievements": "2023-08-10T08:03:56.1834409+00:00",
+  "LastChanged_Achievements": "2023-08-10T09:04:51.209289+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:18.5411463+00:00",
-  "LastUpdate_Ratings": "2023-08-10T07:59:08.3293729+00:00",
-  "LastUpdate_Achievements": "2023-08-10T08:03:56.1836644+00:00"
+  "LastUpdate_Ratings": "2023-08-10T09:00:44.0295124+00:00",
+  "LastUpdate_Achievements": "2023-08-10T09:04:51.2094988+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 2.00% | ~4,193 |
+| Sowwy! | 2.00% | ~4,194 |
 | Livin' in a dwarven paradise | 0.10% | ~210 |
 | Cursed die | 0.10% | ~210 |
 | Holistic Adventuring Party | 0.10% | ~210 |
@@ -49,6 +49,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Famous Dungeon of Naheulbeuk | 0.10% | ~210 |
 | Minmaxer | 0.10% | ~210 |
 | Iron Golems Tamer | 0.10% | ~210 |
+| And they lived happily ever after... | 0.10% | ~210 |
 | A tale of adventurers not quite like the others... | 0.10% | ~210 |
 | Insult to injury | 0.10% | ~210 |
 | Where's that freaking Dwarf? | 0.10% | ~210 |
@@ -92,10 +93,9 @@ Number of Ratings: 118  (23.09.2022)
 | Hoarding | 0.00% | ~0 |
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
-| And they lived happily ever after... | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,664 (Ranked 55)  
+Progressed: 209,676 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-07 | 208,534 | 0 |
 | 2023-08-08 | 209,082 | 0 |
 | 2023-08-09 | 209,549 | 0 |
-| 2023-08-10 | 209,664 | 0 |
+| 2023-08-10 | 209,676 | 0 |
 ## Awards
 Max (Character Customization): 157  (Ranked 294)  
 Sum: 157 (Ranked 392)  
