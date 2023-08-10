@@ -21,7 +21,7 @@
 | 18 | [God of War](games/g/god_of_war.md) | 4.88 | 4,192 | 77 |
 | 18 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,019 | 141 |
 | 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 165,735 | 6 |
-| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,979 | 35 |
+| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,997 | 35 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 492 |
 | 24 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 278 | 242 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,423 | 124 |
@@ -128,7 +128,7 @@
 | 118 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 511 |
 | 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,699 | 117 |
 | 118 | [Quake](games/q/quake.md) | 4.76 | 48 | 407 |
-| 118 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 9,806 | 36 |
+| 118 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 9,832 | 36 |
 | 118 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 511 |
 | 118 | [Tchia](games/t/tchia.md) | 4.76 | 0 | 511 |
 | 118 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 45 | 413 |
@@ -421,7 +421,7 @@
 | 412 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 367 |
 | 412 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.59 | 31 | 457 |
 | 412 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 311 | 234 |
-| 412 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,005 | 144 |
+| 412 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,006 | 144 |
 | 412 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 511 |
 | 412 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 707 | 165 |
 | 412 | [Wall World](games/w/wall_world.md) | 4.59 | 0 | 511 |
@@ -648,7 +648,7 @@
 | 644 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 511 |
 | 644 | [Good Company](games/g/good_company.md) | 4.44 | 0 | 511 |
 | 644 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 868 | 150 |
-| 644 | [SMITE](games/s/smite.md) | 4.44 | 4,139 | 78 |
+| 644 | [SMITE](games/s/smite.md) | 4.44 | 4,144 | 78 |
 | 644 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 572 | 182 |
 | 644 | [STG Football](games/s/stg_football.md) | 4.44 | 42 | 420 |
 | 644 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 511 |

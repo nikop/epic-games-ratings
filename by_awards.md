@@ -34,8 +34,8 @@
 | 32 | [NBA 2K21](games/n/nba_2k21.md) | 11,738 | 4.39 | 705 |
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,358 | 4.69 | 212 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,071 | 4.45 | 633 |
-| 35 | [Satisfactory](games/s/satisfactory.md) | 10,979 | 4.88 | 18 |
-| 36 | [SnowRunner](games/s/snowrunner.md) | 9,806 | 4.76 | 118 |
+| 35 | [Satisfactory](games/s/satisfactory.md) | 10,997 | 4.88 | 18 |
+| 36 | [SnowRunner](games/s/snowrunner.md) | 9,832 | 4.76 | 118 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,746 | 4.61 | 367 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,666 | 4.78 | 101 |
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,747 | 4.58 | 426 |
@@ -77,7 +77,7 @@
 | 75 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,378 | 4.76 | 118 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,248 | 4.56 | 468 |
 | 77 | [God of War](games/g/god_of_war.md) | 4,192 | 4.88 | 18 |
-| 78 | [SMITE](games/s/smite.md) | 4,139 | 4.44 | 644 |
+| 78 | [SMITE](games/s/smite.md) | 4,144 | 4.44 | 644 |
 | 79 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,109 | 4.51 | 542 |
 | 80 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,984 | 4.76 | 118 |
 | 81 | [Days Gone](games/d/days_gone.md) | 3,902 | 4.68 | 241 |
@@ -143,7 +143,7 @@
 | 141 | [Ooblets](games/o/ooblets.md) | 1,019 | 4.88 | 18 |
 | 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,014 | 4.39 | 705 |
 | 143 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 837 |
-| 144 | [Torchlight II](games/t/torchlight_ii.md) | 1,005 | 4.59 | 412 |
+| 144 | [Torchlight II](games/t/torchlight_ii.md) | 1,006 | 4.59 | 412 |
 | 145 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 960 | 4.31 | 778 |
 | 146 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 948 | 4.69 | 212 |
 | 147 | [Sonic Mania](games/s/sonic_mania.md) | 930 | 4.78 | 101 |

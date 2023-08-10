@@ -48,9 +48,9 @@
 | 46 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.84% |
 | 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.82% |
 | 48 | [JARS](games/j/jars.md) | 4.76% |
-| 49 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
-| 50 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
-| 50 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.69% |
+| 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.73% |
+| 50 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
+| 51 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
 | 52 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.65% |
 | 53 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 54 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.22% |
