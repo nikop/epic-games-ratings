@@ -5,16 +5,16 @@ Rating: 4.22 (Ranked 841)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,574 |
-| Don't I Know You...? | 77.00% | ~1,515 |
-| Jailbreak | 65.00% | ~1,279 |
+| Rigged And Ready | 80.00% | ~1,575 |
+| Don't I Know You...? | 77.00% | ~1,516 |
+| Jailbreak | 65.00% | ~1,280 |
 | HEADSHOT! | 38.00% | ~748 |
 | Suited and Booted | 38.00% | ~748 |
 | Sleeping With The Fishes | 35.00% | ~689 |
-| Overheated | 30.00% | ~590 |
-| High Performance | 30.00% | ~590 |
+| Overheated | 30.00% | ~591 |
+| High Performance | 30.00% | ~591 |
 | Powered Up | 28.00% | ~551 |
-| Studied The Blade | 24.00% | ~472 |
+| Studied The Blade | 24.00% | ~473 |
 | Home Invasion | 22.00% | ~433 |
 | Luminary | 22.00% | ~433 |
 | It's a Trap | 22.00% | ~433 |
@@ -34,13 +34,13 @@ Rating: 4.22 (Ranked 841)
 | What A Catchy Song | 13.00% | ~256 |
 | Marked For Success | 12.00% | ~236 |
 | Sorry, Didn't See You There | 12.00% | ~236 |
-| Corrupted Beauty | 11.00% | ~216 |
+| Corrupted Beauty | 11.00% | ~217 |
 | Triplets | 10.00% | ~197 |
 | Defense in Depth | 9.00% | ~177 |
 | Stimulating The Local Economy | 9.00% | ~177 |
-| A Little Banged Up | 8.00% | ~157 |
-| Denying Prophecy | 8.00% | ~157 |
-| Following In Their Footsteps | 8.00% | ~157 |
+| A Little Banged Up | 8.00% | ~158 |
+| Denying Prophecy | 8.00% | ~158 |
+| Following In Their Footsteps | 8.00% | ~158 |
 | Reverse Engineering | 6.00% | ~118 |
 | Remote Surgery | 6.00% | ~118 |
 | Turbo Booster | 6.00% | ~118 |
@@ -63,7 +63,7 @@ Rating: 4.22 (Ranked 841)
 | Swiss Army Drone | 1.00% | ~20 |
 | The Easy Way Out | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,968 (Ranked 169)  
+Progressed: 1,969 (Ranked 169)  
 Completed: 10 (0.51%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,6 +155,7 @@ Completed: 10 (0.51%) (Ranked 137)
 | 2023-08-06 | 1,965 | 10 |
 | 2023-08-07 | 1,966 | 10 |
 | 2023-08-08 | 1,968 | 10 |
+| 2023-08-10 | 1,969 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

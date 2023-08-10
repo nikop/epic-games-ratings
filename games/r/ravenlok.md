@@ -52,7 +52,7 @@
 | Shopping Spree! | 25.00% | ~267 |
 | Crowned | 23.00% | ~246 |
 | Max Level! | 15.00% | ~160 |
-| Dance Master | 9.00% | ~96 |
+| Dance Master | 10.00% | ~107 |
 | Bombs Away! | 9.00% | ~96 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,069 (Ranked 195)  

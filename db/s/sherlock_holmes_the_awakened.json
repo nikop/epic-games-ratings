@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -60,7 +60,7 @@
   "Tags": [],
   "EOS_Progressed": 593,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.22,
   "EosHistory": [
@@ -2239,9 +2239,9 @@
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 261
     },
     {
       "ID": "MQ06_3",
@@ -2320,8 +2320,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-06T01:44:20.5292495+00:00",
-  "LastChanged_Achievements": "2023-08-10T20:08:44.3304786+00:00",
+  "LastChanged_Achievements": "2023-08-10T21:08:04.3536674+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:41.2332437+00:00",
-  "LastUpdate_Ratings": "2023-08-10T19:58:51.1619847+00:00",
-  "LastUpdate_Achievements": "2023-08-10T20:08:44.3305278+00:00"
+  "LastUpdate_Ratings": "2023-08-10T20:58:41.7629888+00:00",
+  "LastUpdate_Achievements": "2023-08-10T21:08:04.3536923+00:00"
 }

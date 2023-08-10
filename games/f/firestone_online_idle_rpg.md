@@ -1,18 +1,18 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.08 (Ranked 908)  
+Rating: 4.05 (Ranked 919)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,657 |
-| World Map | 79.00% | ~1,408 |
+| Victor | 93.00% | ~1,658 |
+| World Map | 79.00% | ~1,409 |
 | Temple of Eternals | 56.00% | ~998 |
-| Prestigious | 53.00% | ~944 |
+| Prestigious | 53.00% | ~945 |
 | Fellowship Power | 41.00% | ~731 |
 | Guild Power | 25.00% | ~446 |
 | Prestigious x10 | 22.00% | ~392 |
-| The game is on | 20.00% | ~356 |
+| The game is on | 20.00% | ~357 |
 | Exotic Merchant | 18.00% | ~321 |
 | Dragon Clicker | 17.00% | ~303 |
 | Miner Clicker | 17.00% | ~303 |
@@ -20,8 +20,8 @@ Rating: 4.08 (Ranked 908)
 | Inspection | 16.00% | ~285 |
 | Dragon Master | 15.00% | ~267 |
 | Enlightenment | 15.00% | ~267 |
-| Hero inspection | 14.00% | ~249 |
-| Lieutenant | 14.00% | ~249 |
+| Hero inspection | 14.00% | ~250 |
+| Lieutenant | 14.00% | ~250 |
 | Mysterious Rock | 13.00% | ~232 |
 | Natural Talent | 13.00% | ~232 |
 | Superior | 13.00% | ~232 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 908)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,782 (Ranked 172)  
+Progressed: 1,783 (Ranked 172)  
 Completed: 2 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 2 (0.11%) (Ranked 195)
 | 2023-08-07 | 1,776 | 2 |
 | 2023-08-08 | 1,778 | 2 |
 | 2023-08-09 | 1,781 | 2 |
-| 2023-08-10 | 1,782 | 2 |
+| 2023-08-10 | 1,783 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -222,3 +222,4 @@ Completed: 2 (0.11%) (Ranked 195)
 | 2023-08-01 | 4.04 | 0 | 0 |
 | 2023-08-04 | 4.06 | 0 | 0 |
 | 2023-08-06 | 4.08 | 0 | 0 |
+| 2023-08-10 | 4.05 | 0 | 0 |

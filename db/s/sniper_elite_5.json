@@ -452,9 +452,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3449,
+  "EOS_Progressed": 3450,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -5832,6 +5832,11 @@
       "Time": "2023-08-10T14:03:11.5837003+00:00",
       "NumProgressed": 3449,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-10T21:03:21.471596+00:00",
+      "NumProgressed": 3450,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5867,7 +5872,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -5907,7 +5912,7 @@
       "Name": "Organ Grinder",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -5963,7 +5968,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -5971,7 +5976,7 @@
       "Name": "Skirmisher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -6049,9 +6054,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 172
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6075,7 +6080,7 @@
       "Name": "Der Geist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -6107,7 +6112,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -6219,7 +6224,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -6313,9 +6318,9 @@
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
       "SetID": "83mdf7p",
       "Name": "Operation Foxley",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -6410,13 +6415,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3400,
+      "Progressed": 3401,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3449,
+      "Progressed": 3450,
       "Completed": 9
     }
   ],
@@ -6424,8 +6429,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-08T14:57:48.1805526+00:00",
-  "LastChanged_Achievements": "2023-08-10T20:03:20.0660554+00:00",
+  "LastChanged_Achievements": "2023-08-10T21:03:21.4715955+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:33.5601025+00:00",
-  "LastUpdate_Ratings": "2023-08-10T19:58:00.6431623+00:00",
-  "LastUpdate_Achievements": "2023-08-10T20:03:20.0661889+00:00"
+  "LastUpdate_Ratings": "2023-08-10T20:57:58.4427752+00:00",
+  "LastUpdate_Achievements": "2023-08-10T21:03:21.4716778+00:00"
 }

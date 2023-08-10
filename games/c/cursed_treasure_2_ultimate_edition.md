@@ -18,7 +18,7 @@
 | Look After the Pence... | 74.00% | ~122 |
 | Sergeant of the Evil | 74.00% | ~122 |
 | Drunken Master | 73.00% | ~120 |
-| V.I.P. Cemetery | 71.00% | ~117 |
+| V.I.P. Cemetery | 72.00% | ~119 |
 | Takeover | 70.00% | ~115 |
 | Woodcutter | 70.00% | ~115 |
 | Sharpshooter | 69.00% | ~114 |

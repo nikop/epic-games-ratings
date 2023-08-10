@@ -9,7 +9,7 @@
 | Facility Online | 26.00% | ~222 |
 | Corporal | 19.00% | ~162 |
 | Covert Operative | 15.00% | ~128 |
-| Sergeant | 14.00% | ~119 |
+| Sergeant | 14.00% | ~120 |
 | Lieutenant | 12.00% | ~102 |
 | Getting Deployment | 11.00% | ~94 |
 | Stocking Up | 11.00% | ~94 |
@@ -18,8 +18,8 @@
 | Infantry Reporting | 10.00% | ~85 |
 | Fighting for Survival | 9.00% | ~77 |
 | Silver Competitor | 8.00% | ~68 |
-| Captain | 8.00% | ~68 |
 | Exterminator | 7.00% | ~60 |
+| Captain | 7.00% | ~60 |
 | Factory Expansion | 7.00% | ~60 |
 | Brothers in Arms | 5.00% | ~43 |
 | Player Betrayer | 4.00% | ~34 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 853 (Ranked 202)  
+Progressed: 854 (Ranked 202)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,4 +106,4 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-07 | 823 | 0 |
 | 2023-08-08 | 835 | 0 |
 | 2023-08-09 | 846 | 0 |
-| 2023-08-10 | 853 | 0 |
+| 2023-08-10 | 854 | 0 |

@@ -903,9 +903,9 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 148
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1216,8 +1216,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-08-10T20:05:03.2715618+00:00",
+  "LastChanged_Achievements": "2023-08-10T21:04:57.15248+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:34.5782906+00:00",
-  "LastUpdate_Ratings": "2023-08-10T19:58:33.0771668+00:00",
-  "LastUpdate_Achievements": "2023-08-10T20:05:03.271612+00:00"
+  "LastUpdate_Ratings": "2023-08-10T20:58:26.6956488+00:00",
+  "LastUpdate_Achievements": "2023-08-10T21:04:57.1525086+00:00"
 }

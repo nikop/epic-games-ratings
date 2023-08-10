@@ -2,9 +2,9 @@
   "ID": "ba2b8f9cfb9344b6b76f87d3fc5f8b80",
   "Name": "Colossal Cave",
   "ProductSlug": "colossal-cave-6f902f",
-  "Ranking_EOS_Progress": 331,
+  "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 88,
+  "EOS_Progressed": 89,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -98,6 +98,11 @@
       "Time": "2023-08-05T01:53:52.574652+00:00",
       "NumProgressed": 88,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-10T21:04:37.4007716+00:00",
+      "NumProgressed": 89,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -107,7 +112,7 @@
       "ID": "01-OnlyJustBegun",
       "SetID": "5iij4gg",
       "Name": "We\u0027ve only just begun",
-      "Percentage": 95,
+      "Percentage": 94,
       "XP": 5,
       "UsersEstimate": 84
     },
@@ -115,7 +120,7 @@
       "ID": "02-YoureSpelunkinNow",
       "SetID": "5iij4gg",
       "Name": "You\u0027re spelunkin\u0027 now!",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 5,
       "UsersEstimate": 75
     },
@@ -139,7 +144,7 @@
       "ID": "05-DrumsInTheDeep",
       "SetID": "5iij4gg",
       "Name": "Drums in the Deep",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 20
     },
@@ -155,7 +160,7 @@
       "ID": "07-TakeTheScenicRoute",
       "SetID": "5iij4gg",
       "Name": "Take the Scenic Route",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -163,7 +168,7 @@
       "ID": "08-TreasureSeeker",
       "SetID": "5iij4gg",
       "Name": "Treasure Seeker",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 20
     },
@@ -171,7 +176,7 @@
       "ID": "09-IveFallenAndICantGetUp",
       "SetID": "5iij4gg",
       "Name": "I\u0027ve Fallen \u0026 I Can\u0027t Get Up",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
       "UsersEstimate": 44
     },
@@ -179,7 +184,7 @@
       "ID": "10-BridgeBuilder",
       "SetID": "5iij4gg",
       "Name": "Bridge Builder",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -203,7 +208,7 @@
       "ID": "13-TreasureHunter",
       "SetID": "5iij4gg",
       "Name": "Treasure Hunter",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 12
     },
@@ -275,7 +280,7 @@
       "ID": "22-MasterCavePlunderer",
       "SetID": "5iij4gg",
       "Name": "Master Cave Plunderer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -300,7 +305,7 @@
     {
       "ID": "5iij4gg",
       "IsBase": true,
-      "Progressed": 88,
+      "Progressed": 89,
       "Completed": 0
     }
   ],
@@ -308,8 +313,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2023-08-10T20:04:39.6811359+00:00",
+  "LastChanged_Achievements": "2023-08-10T21:04:37.4007712+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:30.9042501+00:00",
-  "LastUpdate_Ratings": "2023-08-10T19:57:55.6109331+00:00",
-  "LastUpdate_Achievements": "2023-08-10T20:04:39.6811564+00:00"
+  "LastUpdate_Ratings": "2023-08-10T20:57:54.0953163+00:00",
+  "LastUpdate_Achievements": "2023-08-10T21:04:37.4007851+00:00"
 }
