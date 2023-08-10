@@ -92,7 +92,7 @@
 | 88 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 443 | 204 |
 | 88 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 292 |
 | 88 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 511 |
-| 88 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 804 | 154 |
+| 88 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 807 | 154 |
 | 88 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 741 | 162 |
 | 88 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,961 | 57 |
 | 88 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 47 | 408 |
@@ -487,7 +487,6 @@
 | 485 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 511 |
 | 485 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 511 |
 | 485 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.55 | 50 | 402 |
-| 485 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.55 | 65 | 385 |
 | 485 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 233 | 258 |
 | 485 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 152 | 295 |
 | 485 | [Isonzo](games/i/isonzo.md) | 4.55 | 35 | 436 |
@@ -495,22 +494,23 @@
 | 485 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 33 | 446 |
 | 485 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 511 |
 | 485 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 362 |
-| 485 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,233 | 133 |
-| 497 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 511 |
-| 497 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,374 | 127 |
-| 497 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,598 | 64 |
-| 497 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 446 |
-| 497 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,267 | 131 |
-| 497 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 373 |
-| 497 | [Oxenfree](games/o/oxenfree.md) | 4.54 | 0 | 511 |
-| 497 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 446 |
-| 497 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 352 |
-| 497 | [Rebel Cops](games/r/rebel_cops.md) | 4.54 | 0 | 511 |
-| 497 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 93 | 347 |
-| 497 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 89 | 350 |
-| 497 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 511 |
-| 497 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.54 | 0 | 511 |
-| 497 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 509 | 196 |
+| 485 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,235 | 133 |
+| 496 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 511 |
+| 496 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,374 | 127 |
+| 496 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,598 | 64 |
+| 496 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 446 |
+| 496 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,267 | 131 |
+| 496 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 65 | 385 |
+| 496 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 373 |
+| 496 | [Oxenfree](games/o/oxenfree.md) | 4.54 | 0 | 511 |
+| 496 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 446 |
+| 496 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 352 |
+| 496 | [Rebel Cops](games/r/rebel_cops.md) | 4.54 | 0 | 511 |
+| 496 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 93 | 347 |
+| 496 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 89 | 350 |
+| 496 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 511 |
+| 496 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.54 | 0 | 511 |
+| 496 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 509 | 196 |
 | 512 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 511 |
 | 512 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 23 | 486 |
 | 512 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 511 |
@@ -694,7 +694,7 @@
 | 677 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 0 | 511 |
 | 677 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 555 | 191 |
 | 677 | [Warpips](games/w/warpips.md) | 4.41 | 26 | 473 |
-| 677 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,251 | 132 |
+| 677 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,253 | 132 |
 | 696 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 511 |
 | 696 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 511 |
 | 696 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.40 | 0 | 511 |
@@ -926,11 +926,11 @@
 | 922 | [Pinball FX](games/p/pinball_fx.md) | 4.04 | 185 | 278 |
 | 925 | [Lake](games/l/lake.md) | 4.03 | 0 | 511 |
 | 925 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 511 |
-| 927 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.01 | 0 | 511 |
-| 928 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 511 |
-| 929 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 372 | 221 |
-| 929 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,694 | 71 |
-| 929 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 511 |
+| 927 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 511 |
+| 928 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 372 | 221 |
+| 928 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.99 | 0 | 511 |
+| 928 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,694 | 71 |
+| 928 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 511 |
 | 932 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 511 |
 | 932 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,044 | 94 |
 | 932 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 511 |

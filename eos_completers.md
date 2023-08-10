@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.77% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.89% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 41.67% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -27,7 +27,7 @@
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 26 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.76% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.76% |
-| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.74% |
+| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.71% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.43% |
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
 | 31 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
@@ -48,7 +48,7 @@
 | 46 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.84% |
 | 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.82% |
 | 48 | [JARS](games/j/jars.md) | 4.76% |
-| 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.73% |
+| 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.72% |
 | 50 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
 | 51 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
 | 52 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.65% |
