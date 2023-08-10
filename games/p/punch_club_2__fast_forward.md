@@ -31,8 +31,8 @@
 | Handyman | 57.00% | ~139 |
 | Champion – starter pack | 57.00% | ~139 |
 | Intriguing candies | 57.00% | ~139 |
+| Employee of the year | 57.00% | ~139 |
 | Fight for life | 56.00% | ~136 |
-| Employee of the year | 56.00% | ~136 |
 | Legal courier | 52.00% | ~126 |
 | Extreme neuropower! | 51.00% | ~124 |
 | Escaped from a big trouble | 49.00% | ~119 |

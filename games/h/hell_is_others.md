@@ -1,7 +1,7 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.43 (Ranked 658)  
+Rating: 4.42 (Ranked 664)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,7 +18,7 @@ Rating: 4.43 (Ranked 658)
 | Pacifist | 4.00% | ~10,185 |
 | Vandalism | 4.00% | ~10,185 |
 | Capitalist I | 4.00% | ~10,185 |
-| Adrenaline | 3.00% | ~7,638 |
+| Adrenaline | 3.00% | ~7,639 |
 | By a hair | 2.00% | ~5,092 |
 | Fixer II | 2.00% | ~5,092 |
 | It took a while | 2.00% | ~5,092 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 658)
 | Capitalist III | 0.10% | ~255 |
 | Hell Is You | 0.10% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,616 (Ranked 43)  
+Progressed: 254,617 (Ranked 43)  
 Completed: 3 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,11 +174,11 @@ Completed: 3 (0.00%) (Ranked 251)
 | 2023-08-07 | 254,466 | 3 |
 | 2023-08-08 | 254,512 | 3 |
 | 2023-08-09 | 254,567 | 3 |
-| 2023-08-10 | 254,616 | 3 |
+| 2023-08-10 | 254,617 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 35  (Ranked 436)  
-Sum: 216 (Ranked 362)  
-Diff (max vs sum): 74  
+Sum: 236 (Ranked 355)  
+Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 35 |
@@ -189,6 +189,7 @@ Diff (max vs sum): 74
 | This game has Quickly Understood Controls | 22 |
 | This game has a Competitive Community | 22 |
 | This game has Competitive Players | 21 |
+| This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -300,3 +301,4 @@ Diff (max vs sum): 74
 | 2023-08-03 | 4.43 | 35 | 214 |
 | 2023-08-08 | 4.43 | 35 | 215 |
 | 2023-08-09 | 4.43 | 35 | 216 |
+| 2023-08-10 | 4.42 | 35 | 236 |

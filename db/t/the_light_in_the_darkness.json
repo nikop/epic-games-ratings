@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2137,
+  "EOS_Progressed": 2138,
   "EOS_Completed": 191,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 8.94,
+  "EOS_Completed_Percentage": 8.93,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -4793,6 +4793,11 @@
       "Time": "2023-08-10T18:04:38.1001524+00:00",
       "NumProgressed": 2137,
       "NumCompleted": 191
+    },
+    {
+      "Time": "2023-08-10T20:04:37.857906+00:00",
+      "NumProgressed": 2138,
+      "NumCompleted": 191
     }
   ],
   "TotalAchievements": 12,
@@ -4812,7 +4817,7 @@
       "Name": "Bernard",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "Building the Fox",
@@ -4868,7 +4873,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -4892,14 +4897,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2137,
+      "Progressed": 2138,
       "Completed": 191
     }
   ],
@@ -4907,8 +4912,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-10T19:03:58.1250442+00:00",
+  "LastChanged_Achievements": "2023-08-10T20:04:37.8579054+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:24.0632297+00:00",
-  "LastUpdate_Ratings": "2023-08-10T19:00:41.996848+00:00",
-  "LastUpdate_Achievements": "2023-08-10T19:03:58.125074+00:00"
+  "LastUpdate_Ratings": "2023-08-10T20:01:56.39062+00:00",
+  "LastUpdate_Achievements": "2023-08-10T20:04:37.857953+00:00"
 }

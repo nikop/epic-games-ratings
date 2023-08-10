@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 679,
+  "EOS_Progressed": 680,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1431,6 +1431,11 @@
       "Time": "2023-08-10T15:07:02.792205+00:00",
       "NumProgressed": 679,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-10T20:07:58.9300772+00:00",
+      "NumProgressed": 680,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1458,7 +1463,7 @@
       "Name": "FULLCLIP",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -1722,15 +1727,15 @@
       "Name": "Breaking Twigs",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 197
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -1738,7 +1743,7 @@
       "Name": "Decakill!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -1834,7 +1839,7 @@
       "Name": "Night Snack",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -1874,7 +1879,7 @@
       "Name": "The Last of Us",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -1969,14 +1974,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 679,
+      "Progressed": 680,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-10T19:06:39.0169042+00:00",
+  "LastChanged_Achievements": "2023-08-10T20:07:58.9300765+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.1792695+00:00",
-  "LastUpdate_Ratings": "2023-08-10T18:57:50.4066614+00:00",
-  "LastUpdate_Achievements": "2023-08-10T19:06:39.0169634+00:00"
+  "LastUpdate_Ratings": "2023-08-10T19:58:08.4190916+00:00",
+  "LastUpdate_Achievements": "2023-08-10T20:07:58.9301418+00:00"
 }

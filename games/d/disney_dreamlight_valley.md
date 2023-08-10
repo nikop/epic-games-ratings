@@ -6,13 +6,13 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 72.00% | ~6,095 |
-| Photographer | 69.00% | ~5,841 |
-| Valley's Helper | 64.00% | ~5,418 |
-| Constructor | 53.00% | ~4,486 |
-| Renovator | 52.00% | ~4,402 |
-| Bestest Friend | 48.00% | ~4,063 |
-| Banker | 40.00% | ~3,386 |
+| Goofy's Investor | 72.00% | ~6,096 |
+| Photographer | 69.00% | ~5,842 |
+| Valley's Helper | 64.00% | ~5,419 |
+| Constructor | 53.00% | ~4,488 |
+| Renovator | 52.00% | ~4,403 |
+| Bestest Friend | 48.00% | ~4,064 |
+| Banker | 40.00% | ~3,387 |
 | Gardener | 32.00% | ~2,709 |
 | Generous | 24.00% | ~2,032 |
 | Chef Cook | 18.00% | ~1,524 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 4.00% | ~339 |
 | Chit Chatter | 3.00% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,465 (Ranked 126)  
+Progressed: 8,467 (Ranked 126)  
 Completed: 192 (2.27%) (Ranked 83)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,14 +85,14 @@ Completed: 192 (2.27%) (Ranked 83)
 | 2023-08-07 | 8,368 | 191 |
 | 2023-08-08 | 8,408 | 192 |
 | 2023-08-09 | 8,444 | 192 |
-| 2023-08-10 | 8,465 | 192 |
+| 2023-08-10 | 8,467 | 192 |
 ## Awards
-Max (Great for Beginners): 918  (Ranked 148)  
-Sum: 7,380 (Ranked 106)  
+Max (Great for Beginners): 919  (Ranked 148)  
+Sum: 7,383 (Ranked 106)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 918 |
+| This game is Great for Beginners | 919 |
 | This game has Diverse Characters | 796 |
 | This game is Relaxing | 789 |
 | This game is Highly Recommended | 781 |
@@ -100,7 +100,7 @@ Diff (max vs sum): 42
 | This game has Amazing Storytelling | 753 |
 | This game has Quickly Understood Controls | 732 |
 | This game is Extremely Fun | 728 |
-| This game has a Creative Community | 614 |
+| This game has a Creative Community | 616 |
 | This game has Easy Combat | 490 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
@@ -257,4 +257,4 @@ Diff (max vs sum): 42
 | 2023-08-06 | 4.76 | - | 918 | 7,374 |
 | 2023-08-08 | 4.76 | - | 918 | 7,377 |
 | 2023-08-09 | 4.76 | - | 918 | 7,379 |
-| 2023-08-10 | 4.76 | - | 918 | 7,380 |
+| 2023-08-10 | 4.76 | - | 919 | 7,383 |

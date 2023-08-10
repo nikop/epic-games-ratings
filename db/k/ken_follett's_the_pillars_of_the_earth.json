@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14463,
+  "EOS_Progressed": 14464,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -7825,6 +7825,11 @@
       "Time": "2023-08-10T18:04:56.8532689+00:00",
       "NumProgressed": 14463,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-10T20:05:00.2213532+00:00",
+      "NumProgressed": 14464,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 41,
@@ -7876,7 +7881,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4917
+      "UsersEstimate": 4918
     },
     {
       "ID": "tpote_achievement_15",
@@ -7916,7 +7921,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "tpote_achievement_2",
@@ -7924,7 +7929,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4917
+      "UsersEstimate": 4918
     },
     {
       "ID": "tpote_achievement_20",
@@ -7988,7 +7993,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "tpote_achievement_28",
@@ -8028,7 +8033,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "tpote_achievement_32",
@@ -8036,7 +8041,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2169
+      "UsersEstimate": 2170
     },
     {
       "ID": "tpote_achievement_33",
@@ -8163,15 +8168,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14463,
+      "Progressed": 14464,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-10T19:04:14.8414397+00:00",
+  "LastChanged_Achievements": "2023-08-10T20:05:00.2213525+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:55.7503888+00:00",
-  "LastUpdate_Ratings": "2023-08-10T19:01:09.9580141+00:00",
-  "LastUpdate_Achievements": "2023-08-10T19:04:14.8414983+00:00"
+  "LastUpdate_Ratings": "2023-08-10T20:02:33.831521+00:00",
+  "LastUpdate_Achievements": "2023-08-10T20:05:00.2214457+00:00"
 }

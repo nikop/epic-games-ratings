@@ -6,8 +6,8 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 58.00% | ~1,573 |
-| Keeping it classy | 27.00% | ~732 |
+| You're free now! | 58.00% | ~1,574 |
+| Keeping it classy | 27.00% | ~733 |
 | Welcome to the family | 21.00% | ~570 |
 | The finer things in life | 18.00% | ~488 |
 | Backpacker | 13.00% | ~353 |
@@ -32,16 +32,16 @@ Number of Ratings: 111  (23.09.2022)
 | NAHELL! | 5.00% | ~136 |
 | Purple passion | 5.00% | ~136 |
 | Squad goals | 5.00% | ~136 |
-| Cops called! | 4.00% | ~108 |
-| DIY Boss | 4.00% | ~108 |
-| G.O.A.T. status | 4.00% | ~108 |
-| Lines for days | 4.00% | ~108 |
-| Manny Destroys All | 4.00% | ~108 |
-| Prince of Philly | 4.00% | ~108 |
-| Renaissance man | 4.00% | ~108 |
-| Tank commander | 4.00% | ~108 |
-| Trick shot marksman | 4.00% | ~108 |
-| We get it, you're good | 4.00% | ~108 |
+| Cops called! | 4.00% | ~109 |
+| DIY Boss | 4.00% | ~109 |
+| G.O.A.T. status | 4.00% | ~109 |
+| Lines for days | 4.00% | ~109 |
+| Manny Destroys All | 4.00% | ~109 |
+| Prince of Philly | 4.00% | ~109 |
+| Renaissance man | 4.00% | ~109 |
+| Tank commander | 4.00% | ~109 |
+| Trick shot marksman | 4.00% | ~109 |
+| We get it, you're good | 4.00% | ~109 |
 | Hoarder | 3.00% | ~81 |
 | Pew-Pew | 3.00% | ~81 |
 | Cross lock country | 2.00% | ~54 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,712 (Ranked 160)  
+Progressed: 2,713 (Ranked 160)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,6 +159,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 2,703 | 0 |
 | 2023-08-08 | 2,708 | 0 |
 | 2023-08-09 | 2,712 | 0 |
+| 2023-08-10 | 2,713 | 0 |
 ## Awards
 Max (Highly Recommended): 52  (Ranked 396)  
 Sum: 448 (Ranked 308)  

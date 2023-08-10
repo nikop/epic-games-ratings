@@ -54,7 +54,7 @@ Number of Ratings: 209  (23.09.2022)
 | Flames | 52.00% | ~1,140 |
 | Momentum | 46.00% | ~1,008 |
 | You're unsure if you broke the game or not | 42.00% | ~921 |
-| But wait... ...There's more... | 39.00% | ~855 |
+| But wait... ...There's more... | 40.00% | ~877 |
 | So much force | 34.00% | ~745 |
 | You feel fully engaged | 24.00% | ~526 |
 | Too hot | 19.00% | ~416 |

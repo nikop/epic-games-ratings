@@ -34,9 +34,9 @@ Rating: 4.46 (Ranked 617)
 | El Riesgo Siempre Vive | 22.00% | ~689 |
 | One For Every Occasion | 19.00% | ~595 |
 | Excavating The Truth | 19.00% | ~595 |
+| Abysmal Horrors | 19.00% | ~595 |
 | Frontliner | 18.00% | ~564 |
 | The Cable Guy | 18.00% | ~564 |
-| Abysmal Horrors | 18.00% | ~564 |
 | Bandage Lover | 17.00% | ~533 |
 | Regicide | 14.00% | ~439 |
 | Flawless Victory | 12.00% | ~376 |
@@ -109,8 +109,8 @@ Completed: 2 (0.06%) (Ranked 210)
 | 2023-08-09 | 3,131 | 2 |
 | 2023-08-10 | 3,133 | 2 |
 ## Awards
-Max (Great Boss Battles): 23  (Ranked 486)  
-Sum: 23 (Ranked 490)  
+Max (Great Boss Battles): 23  (Ranked 488)  
+Sum: 23 (Ranked 492)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |

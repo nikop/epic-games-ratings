@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109549,
+  "EOS_Progressed": 109550,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1934,6 +1934,11 @@
       "Time": "2023-08-10T13:15:39.273653+00:00",
       "NumProgressed": 109549,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-10T20:03:40.1780219+00:00",
+      "NumProgressed": 109550,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -1985,7 +1990,7 @@
       "Name": "Getting Friendly",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5477
+      "UsersEstimate": 5478
     },
     {
       "ID": "15",
@@ -2041,7 +2046,7 @@
       "Name": "Building Block - Gold",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "21",
@@ -2049,7 +2054,7 @@
       "Name": "Grouping Up - Bronze",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "22",
@@ -2073,7 +2078,7 @@
       "Name": "Variety Player - Bronze",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 14241
+      "UsersEstimate": 14242
     },
     {
       "ID": "25",
@@ -2105,7 +2110,7 @@
       "Name": "Community Creativity",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "30",
@@ -2145,7 +2150,7 @@
       "Name": "Challenge Apprentice",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5477
+      "UsersEstimate": 5478
     },
     {
       "ID": "35",
@@ -2161,7 +2166,7 @@
       "Name": "Shared!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "39",
@@ -2193,7 +2198,7 @@
       "Name": "Express Yourself - Bronze",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 7668
+      "UsersEstimate": 7669
     },
     {
       "ID": "7",
@@ -2216,15 +2221,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109549,
+      "Progressed": 109550,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-08-10T19:03:17.000223+00:00",
+  "LastChanged_Achievements": "2023-08-10T20:03:40.1780213+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:10.4814877+00:00",
-  "LastUpdate_Ratings": "2023-08-10T18:59:31.6427323+00:00",
-  "LastUpdate_Achievements": "2023-08-10T19:03:17.0002504+00:00"
+  "LastUpdate_Ratings": "2023-08-10T20:00:17.5493903+00:00",
+  "LastUpdate_Achievements": "2023-08-10T20:03:40.1780554+00:00"
 }

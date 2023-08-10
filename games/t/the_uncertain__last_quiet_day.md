@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 60.00% | ~314 |
+| I can do a thing or two | 61.00% | ~319 |
 | Buckle up | 59.00% | ~309 |
 | Quick charge | 59.00% | ~309 |
 | Hands up! | 52.00% | ~272 |
